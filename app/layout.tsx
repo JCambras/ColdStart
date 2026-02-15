@@ -1,10 +1,24 @@
 import type { Metadata, Viewport } from 'next';
 import './globals.css';
+import BottomTabBar from './BottomTabBar';
 
 export const metadata: Metadata = {
-  title: 'ColdStart — Know the rink before you get there',
+  title: 'ColdStart Hockey — Know the rink before you get there',
   description:
     'Real conditions from hockey parents who have been there. Parking, cold, food, chaos — summarized in seconds.',
+  openGraph: {
+    title: 'ColdStart Hockey — Know the rink before you get there',
+    description:
+      'Real conditions from hockey parents who have been there. Parking, cold, food, chaos — summarized in seconds.',
+    siteName: 'ColdStart Hockey',
+    type: 'website',
+  },
+  twitter: {
+    card: 'summary_large_image',
+    title: 'ColdStart Hockey — Know the rink before you get there',
+    description:
+      'Real conditions from hockey parents who have been there. Parking, cold, food, chaos — summarized in seconds.',
+  },
 };
 
 export const viewport: Viewport = {
@@ -20,7 +34,10 @@ export default function RootLayout({
 }) {
   return (
     <html lang="en">
-      <body>{children}</body>
+      <body>
+        {children}
+        <BottomTabBar />
+      </body>
     </html>
   );
 }

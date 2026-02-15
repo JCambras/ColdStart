@@ -8,5 +8,8 @@ out/
 # env files
 .env*.local
 
+# raw seed data (large, regenerable)
+data/
+
 # misc
 .DS_Store

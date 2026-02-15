@@ -3,6 +3,7 @@
 import { useState, useEffect } from 'react';
 import { useParams, useRouter } from 'next/navigation';
 import { getVibe } from '../../../app/vibe';
+import { Logo } from '../../../components/Logo';
 
 const API = process.env.NEXT_PUBLIC_API_URL || 'http://localhost:8080/api/v1';
 
@@ -129,7 +130,7 @@ export default function TripPage() {
         <div style={{ fontSize: 48, marginBottom: 16 }}>🏒</div>
         <h2 style={{ fontSize: 20, fontWeight: 700, color: '#111827', margin: 0 }}>Trip not found</h2>
         <p style={{ fontSize: 14, color: '#6b7280', marginTop: 8 }}>This trip page may have been created on another device.</p>
-        <button onClick={() => router.push('/')} style={{ marginTop: 16, fontSize: 13, fontWeight: 600, color: '#0ea5e9', background: '#f0f9ff', border: '1px solid #bae6fd', borderRadius: 8, padding: '8px 16px', cursor: 'pointer' }}>Go to ColdStart →</button>
+        <button onClick={() => router.push('/')} style={{ marginTop: 16, fontSize: 13, fontWeight: 600, color: '#0ea5e9', background: '#f0f9ff', border: '1px solid #bae6fd', borderRadius: 8, padding: '8px 16px', cursor: 'pointer' }}>Go to ColdStart Hockey →</button>
       </div>
     </div>
   );
@@ -157,8 +158,9 @@ export default function TripPage() {
             <button onClick={() => {
               const url = window.location.href;
               const text = `${trip.teamName} at ${trip.rink.name}${trip.dates ? ' — ' + trip.dates : ''}\n\nGame day info: ${url}`;
-              getVibe().log('trip_share', { tripId, rinkId: trip.rink.id, method: navigator.share ? 'native' : 'clipboard' });
-              if (navigator.share) { navigator.share({ title: `${trip.teamName} — Game Day`, text, url }).catch(() => {}); }
+              const canShare = typeof navigator.share === 'function';
+              getVibe().log('trip_share', { tripId, rinkId: trip.rink.id, method: canShare ? 'native' : 'clipboard' });
+              if (canShare) { navigator.share({ title: `${trip.teamName} — Game Day`, text, url }).catch(() => {}); }
               else { navigator.clipboard.writeText(text).then(() => { setShareCopied(true); setTimeout(() => setShareCopied(false), 2000); }).catch(() => {}); }
             }} style={{ fontSize: 13, fontWeight: 600, color: '#fff', background: 'rgba(255,255,255,0.15)', border: '1px solid rgba(255,255,255,0.25)', borderRadius: 8, padding: '8px 16px', cursor: 'pointer' }}>
               {shareCopied ? '✓ Copied!' : '📤 Share with team'}
@@ -256,7 +258,7 @@ export default function TripPage() {
             <div style={{ textAlign: 'center', marginTop: 24 }}>
               <p style={{ fontSize: 12, color: '#9ca3af' }}>
                 📍 Want rink intel for your next away game?{' '}
-                <span onClick={() => router.push('/')} style={{ color: '#0ea5e9', cursor: 'pointer', fontWeight: 600 }}>See how ColdStart works →</span>
+                <span onClick={() => router.push('/')} style={{ color: '#0ea5e9', cursor: 'pointer', fontWeight: 600 }}>See how ColdStart Hockey works →</span>
               </p>
             </div>
           </>
@@ -485,7 +487,7 @@ export default function TripPage() {
 
         {/* Footer */}
         <div style={{ marginTop: 32, textAlign: 'center' }}>
-          <p style={{ fontSize: 12, color: '#9ca3af' }}>Built with <span onClick={() => router.push('/')} style={{ color: '#0ea5e9', cursor: 'pointer', fontWeight: 600 }}>ColdStart</span> — rink intel from hockey parents</p>
+          <p style={{ fontSize: 12, color: '#9ca3af' }}>Built with <span onClick={() => router.push('/')} style={{ color: '#0ea5e9', cursor: 'pointer', fontWeight: 600 }}>ColdStart Hockey</span> — rink intel from hockey parents</p>
         </div>
       </div>
     </div>

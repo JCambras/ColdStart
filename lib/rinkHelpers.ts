@@ -1,0 +1,95 @@
+// Pure helper functions for rink pages
+
+import { Signal, Rink } from './rinkTypes';
+import { SEEDED_SIGNALS, SEEDED_NEARBY, NearbyPlace } from './seedData';
+
+export function getVerdictColor(verdict: string) {
+  if (verdict.includes('Good')) return '#16a34a';
+  if (verdict.includes('Heads up')) return '#d97706';
+  if (verdict.includes('Mixed')) return '#ea580c';
+  return '#6b7280';
+}
+
+export function getVerdictBg(verdict: string) {
+  if (verdict.includes('Good')) return '#f0fdf4';
+  if (verdict.includes('Heads up')) return '#fffbeb';
+  if (verdict.includes('Mixed')) return '#fff7ed';
+  return '#f9fafb';
+}
+
+export function getBarColor(value: number) {
+  if (value >= 3.5) return '#16a34a';
+  if (value >= 2.5) return '#f59e0b';
+  return '#ef4444';
+}
+
+export function timeAgo(dateStr: string): string {
+  const now = new Date();
+  const d = new Date(dateStr);
+  const diff = Math.floor((now.getTime() - d.getTime()) / 1000);
+  if (diff < 60) return 'just now';
+  if (diff < 3600) return `${Math.floor(diff / 60)}m ago`;
+  if (diff < 86400) return `${Math.floor(diff / 3600)}h ago`;
+  if (diff < 2592000) return `${Math.floor(diff / 86400)}d ago`;
+  return d.toLocaleDateString('en-US', { month: 'short', day: 'numeric' });
+}
+
+export function ensureAllSignals(signals: Signal[], rinkSlug: string, loadedSignals?: Record<string, { value: number; count: number; confidence: number }> | null): Signal[] {
+  const allKeys = ['parking', 'cold', 'food_nearby', 'chaos', 'family_friendly', 'locker_rooms', 'pro_shop'];
+  const existing = new Set(signals.map(s => s.signal));
+  const seeded = SEEDED_SIGNALS[rinkSlug] || loadedSignals || {};
+  const result = [...signals];
+  for (const key of allKeys) {
+    if (!existing.has(key) && seeded[key]) {
+      result.push({ signal: key, ...seeded[key] });
+    }
+  }
+  return result;
+}
+
+export function getRinkSlug(rink: Rink): string {
+  const name = (rink.name || '').toLowerCase();
+  // Legacy hardcoded slugs
+  if (name.includes('buffalo') || name.includes('bww')) return 'bww';
+  if (name.includes('ice line')) return 'ice-line';
+  if (name.includes('proskate') || name.includes('pro skate')) return 'proskate';
+  // Generate slug from name + city (matches seed data format)
+  const city = (rink.city || '').toLowerCase();
+  return `${rink.name} ${city}`.toLowerCase()
+    .replace(/[^a-z0-9]+/g, '-')
+    .replace(/^-|-$/g, '')
+    .slice(0, 60);
+}
+
+export function getNearbyPlaces(rink: Rink, category: string, loadedNearby?: Record<string, NearbyPlace[]> | null): NearbyPlace[] {
+  const slug = getRinkSlug(rink);
+
+  // Check loaded nearby data (from JSON files)
+  if (loadedNearby && loadedNearby[category]?.length > 0) {
+    return loadedNearby[category];
+  }
+
+  // Check hardcoded seed data
+  const seeded = slug && SEEDED_NEARBY[slug]?.[category];
+  if (seeded && seeded.length > 0) return seeded;
+
+  // Fallback: Google Maps search
+  const loc = encodeURIComponent(`${rink.address}, ${rink.city}, ${rink.state}`);
+  const queries: Record<string, string> = {
+    quick_bite: 'diners+bagel+shops+fast+food',
+    coffee: 'coffee+shops',
+    team_lunch: 'restaurants+large+groups+casual+dining',
+    dinner: 'restaurants+dinner+sit+down',
+    bowling: 'bowling+alley',
+    arcade: 'arcade+game+center',
+    movies: 'movie+theater',
+    fun: 'trampoline+park+laser+tag',
+    hotels: 'hotels',
+  };
+  const q = queries[category] || category;
+  return [{
+    name: `Search near ${rink.name}`,
+    distance: '',
+    url: `https://www.google.com/maps/search/${q}+near+${loc}`,
+  }];
+}

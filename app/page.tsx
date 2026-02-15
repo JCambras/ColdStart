@@ -2,6 +2,8 @@
 
 import { useState, useEffect, useRef, useCallback } from 'react';
 import { useRouter } from 'next/navigation';
+import { SIGNAL_LABELS, SIGNAL_ICONS, US_STATES, HOCKEY_STATES, API_URL } from '../lib/constants';
+import { Logo } from '../components/Logo';
 
 
 // ── Types ──
@@ -31,49 +33,11 @@ interface RinkData {
   };
 }
 
-const API = 'http://localhost:8080/api/v1';
-
-const SIGNAL_LABELS: Record<string, string> = {
-  cold: 'Cold',
-  parking: 'Parking',
-  food_nearby: 'Food',
-  chaos: 'Chaos',
-  family_friendly: 'Family',
-  locker_rooms: 'Lockers',
-  pro_shop: 'Pro shop',
-};
-
-const SIGNAL_ICONS: Record<string, string> = {
-  parking: '🅿️',
-  cold: '❄️',
-  food_nearby: '🍔',
-  chaos: '🌀',
-  family_friendly: '👨‍👩‍👧',
-  locker_rooms: '🚪',
-  pro_shop: '🏒',
-};
-
 const FEATURED_SEARCHES = [
   'IceWorks',
   'Ice Line',
   'hackensack',
 ];
-
-const US_STATES: Record<string, string> = {
-  AL: 'Alabama', AK: 'Alaska', AZ: 'Arizona', AR: 'Arkansas', CA: 'California',
-  CO: 'Colorado', CT: 'Connecticut', DE: 'Delaware', FL: 'Florida', GA: 'Georgia',
-  HI: 'Hawaii', ID: 'Idaho', IL: 'Illinois', IN: 'Indiana', IA: 'Iowa',
-  KS: 'Kansas', KY: 'Kentucky', LA: 'Louisiana', ME: 'Maine', MD: 'Maryland',
-  MA: 'Massachusetts', MI: 'Michigan', MN: 'Minnesota', MS: 'Mississippi', MO: 'Missouri',
-  MT: 'Montana', NE: 'Nebraska', NV: 'Nevada', NH: 'New Hampshire', NJ: 'New Jersey',
-  NM: 'New Mexico', NY: 'New York', NC: 'North Carolina', ND: 'North Dakota', OH: 'Ohio',
-  OK: 'Oklahoma', OR: 'Oregon', PA: 'Pennsylvania', RI: 'Rhode Island', SC: 'South Carolina',
-  SD: 'South Dakota', TN: 'Tennessee', TX: 'Texas', UT: 'Utah', VT: 'Vermont',
-  VA: 'Virginia', WA: 'Washington', WV: 'West Virginia', WI: 'Wisconsin', WY: 'Wyoming',
-};
-
-// Top hockey states first
-const HOCKEY_STATES = ['MN', 'MI', 'MA', 'NY', 'PA', 'NJ', 'CT', 'NH', 'WI', 'IL', 'OH', 'CO', 'CA', 'TX', 'FL'];
 
 function getVerdictColor(verdict: string) {
   if (verdict.includes('Good')) return '#16a34a';
@@ -143,27 +107,42 @@ function RinkCard({ rink, onClick }: { rink: RinkData; onClick: () => void }) {
                 {summary.verdict}
               </p>
 
-              {/* Signal bars */}
+              {/* Signal bars — top 3 */}
               <div style={{ display: 'flex', flexDirection: 'column' as const, gap: 8, marginTop: 10 }}>
-                {[...summary.signals]
-                  .sort((a, b) => { if (a.signal === 'parking') return -1; if (b.signal === 'parking') return 1; return 0; })
-                  .map((s) => {
-                    const pct = Math.round(((s.value - 1) / 4) * 100);
-                    const label = SIGNAL_LABELS[s.signal] || s.signal;
-                    const color = s.value >= 3.5 ? '#0ea5e9' : s.value >= 2.5 ? '#f59e0b' : '#ef4444';
-                    return (
-                      <div key={s.signal} style={{ display: 'flex', alignItems: 'center', gap: 8, fontSize: 12 }}>
-                        <span style={{ width: 52, flexShrink: 0, color: '#374151', fontWeight: 500 }}>{label}</span>
-                        <div style={{ flex: 1, height: 5, background: '#f1f5f9', borderRadius: 3, overflow: 'hidden' }}>
-                          <div style={{ width: `${pct}%`, height: '100%', borderRadius: 3, background: color, transition: 'width 0.6s ease' }} />
-                        </div>
-                        <span style={{ width: 24, textAlign: 'right' as const, fontWeight: 600, fontSize: 11, color: '#374151' }}>
-                          {s.value.toFixed(1)}
+                {(() => {
+                  const sorted = [...summary.signals]
+                    .sort((a, b) => {
+                      if (a.signal === 'parking') return -1;
+                      if (b.signal === 'parking') return 1;
+                      return b.value - a.value;
+                    });
+                  const top3 = sorted.slice(0, 3);
+                  return (
+                    <>
+                      {top3.map((s) => {
+                        const pct = Math.round(((s.value - 1) / 4) * 100);
+                        const label = SIGNAL_LABELS[s.signal] || s.signal;
+                        const color = s.value >= 3.5 ? '#0ea5e9' : s.value >= 2.5 ? '#f59e0b' : '#ef4444';
+                        return (
+                          <div key={s.signal} style={{ display: 'flex', alignItems: 'center', gap: 8, fontSize: 12 }}>
+                            <span style={{ width: 52, flexShrink: 0, color: '#374151', fontWeight: 500 }}>{label}</span>
+                            <div style={{ flex: 1, height: 5, background: '#f1f5f9', borderRadius: 3, overflow: 'hidden' }}>
+                              <div style={{ width: `${pct}%`, height: '100%', borderRadius: 3, background: color, transition: 'width 0.6s ease' }} />
+                            </div>
+                            <span style={{ width: 24, textAlign: 'right' as const, fontWeight: 600, fontSize: 11, color: '#374151' }}>
+                              {s.value.toFixed(1)}
+                            </span>
+                          </div>
+                        );
+                      })}
+                      {summary.signals.length > 3 && (
+                        <span style={{ fontSize: 11, color: '#0ea5e9', fontWeight: 500 }}>
+                          See all {summary.signals.length} signals →
                         </span>
-                      </div>
-                    );
-                  })
-                }
+                      )}
+                    </>
+                  );
+                })()}
               </div>
             </div>
 
@@ -396,14 +375,12 @@ function AuthModal({ onClose, onLogin }: { onClose: () => void; onLogin: (profil
           <div style={{ textAlign: 'center', padding: '20px 0' }}>
             <div style={{ fontSize: 48, marginBottom: 12 }}>✅</div>
             <p style={{ fontSize: 18, fontWeight: 700, color: '#111827', margin: 0 }}>You&apos;re in!</p>
-            <p style={{ fontSize: 14, color: '#6b7280', marginTop: 8 }}>Welcome to ColdStart.</p>
+            <p style={{ fontSize: 14, color: '#6b7280', marginTop: 8 }}>Welcome to ColdStart Hockey.</p>
           </div>
         ) : (
           <>
             <div style={{ textAlign: 'center', marginBottom: 24 }}>
-              <span style={{ fontSize: 28, fontWeight: 800, color: '#111827' }}>
-                cold<span style={{ color: '#0ea5e9' }}>start</span>
-              </span>
+              <Logo size={28} />
               <p style={{ fontSize: 15, color: '#6b7280', marginTop: 8, margin: '8px 0 0' }}>
                 {mode === 'signin' ? 'Sign in to your account' : 'Create your account'}
               </p>
@@ -644,7 +621,7 @@ export default function HomePage() {
       const results: RinkData[] = [];
       for (const id of savedRinkIds) {
         try {
-          const res = await fetch(`${API}/rinks/${id}`);
+          const res = await fetch(`${API_URL}/rinks/${id}`);
           const d = await res.json();
           if (d.data) results.push({ ...d.data.rink, ...d.data, name: d.data.rink?.name || d.data.name });
         } catch {}
@@ -654,9 +631,7 @@ export default function HomePage() {
     loadSaved();
   }, [savedRinkIds]);
 
-  // Carousel state — rotate through featured rinks
-  const [activeCard, setActiveCard] = useState(0);
-  const [carouselPaused, setCarouselPaused] = useState(false);
+  // (carousel state removed — now using horizontal scroll)
 
   // Auto-focus search on desktop
   useEffect(() => {
@@ -665,14 +640,7 @@ export default function HomePage() {
     }
   }, []);
 
-  // Carousel auto-rotation
-  useEffect(() => {
-    if (carouselPaused || rinks.length <= 1) return;
-    const interval = setInterval(() => {
-      setActiveCard(prev => (prev + 1) % rinks.length);
-    }, 3000);
-    return () => clearInterval(interval);
-  }, [carouselPaused, rinks.length]);
+  // (auto-rotation removed — replaced with horizontal scroll)
 
   // Count unique states from featured + recent rinks
   const stateCount = new Set([...rinks, ...recentRinks].map(r => r.state)).size || 15;
@@ -683,12 +651,12 @@ export default function HomePage() {
       const results: RinkData[] = [];
       for (const q of FEATURED_SEARCHES) {
         try {
-          const res = await fetch(`${API}/rinks?query=${encodeURIComponent(q)}`);
+          const res = await fetch(`${API_URL}/rinks?query=${encodeURIComponent(q)}`);
           const data = await res.json();
           if (data.data && data.data.length > 0) {
             const rink = data.data[0];
             try {
-              const detail = await fetch(`${API}/rinks/${rink.id}`);
+              const detail = await fetch(`${API_URL}/rinks/${rink.id}`);
               const d = await detail.json();
               if (d.data) {
                 // Merge: keep name/city/state from search if detail is missing them
@@ -716,10 +684,18 @@ export default function HomePage() {
 
     async function loadRecent() {
       try {
-        const res = await fetch(`${API}/rinks?limit=6`);
+        const res = await fetch(`${API_URL}/rinks?limit=6`);
         const data = await res.json();
-        if (data.data) setRecentRinks(data.data);
-        if (data.total) setTotalRinks(data.total);
+        if (data.data?.length > 0) { setRecentRinks(data.data); if (data.total) setTotalRinks(data.total); return; }
+      } catch {}
+      // Fall back to seed data
+      try {
+        const res = await fetch('/data/rinks.json');
+        if (res.ok) {
+          const rinks = await res.json();
+          setRecentRinks(rinks.slice(0, 6));
+          setTotalRinks(rinks.length);
+        }
       } catch {}
     }
 
@@ -736,9 +712,21 @@ export default function HomePage() {
     }
     const timeout = setTimeout(async () => {
       try {
-        const res = await fetch(`${API}/rinks?query=${encodeURIComponent(query)}`);
+        const res = await fetch(`${API_URL}/rinks?query=${encodeURIComponent(query)}`);
         const data = await res.json();
-        setSearchResults(data.data || []);
+        if (data.data?.length > 0) { setSearchResults(data.data); return; }
+      } catch {}
+      // Fall back to seed data search
+      try {
+        const res = await fetch('/data/rinks.json');
+        if (res.ok) {
+          const rinks = await res.json();
+          const q = query.toLowerCase();
+          const matches = rinks.filter((r: any) =>
+            r.name?.toLowerCase().includes(q) || r.city?.toLowerCase().includes(q) || r.state?.toLowerCase().includes(q)
+          ).slice(0, 10);
+          setSearchResults(matches);
+        }
       } catch {
         setSearchResults([]);
       }
@@ -766,9 +754,7 @@ export default function HomePage() {
         borderBottom: '1px solid #f1f5f9',
       }}>
         {/* Logo — bigger */}
-        <span style={{ fontSize: 48, fontWeight: 800, color: '#111827', letterSpacing: -1 }}>
-          cold<span style={{ color: '#0ea5e9' }}>start</span>
-        </span>
+        <Logo size={48} />
         <StateDropdown onSelect={(code) => router.push(`/states/${code}`)} />
         <div style={{ display: 'flex', alignItems: 'center', gap: 8 }}>
           <button
@@ -906,54 +892,40 @@ export default function HomePage() {
       <section style={{ maxWidth: 750, margin: '0 auto', padding: '24px 24px 32px' }}>
         {showCarousel ? (
           <>
-            <div style={{
-              display: 'flex', alignItems: 'baseline', justifyContent: 'space-between',
-              marginBottom: 16,
+            <h2 style={{
+              fontSize: 13, fontWeight: 600, color: '#9ca3af',
+              textTransform: 'uppercase', letterSpacing: 1.5, marginBottom: 16,
             }}>
-              <h2 style={{
-                fontSize: 13, fontWeight: 600, color: '#9ca3af',
-                textTransform: 'uppercase', letterSpacing: 1.5,
-              }}>
-                Featured rinks
-              </h2>
-              {/* Carousel dots */}
-              <div style={{ display: 'flex', gap: 6 }}>
-                {rinks.map((_, i) => (
-                  <button
-                    key={i}
-                    onClick={() => { setActiveCard(i); setCarouselPaused(true); }}
-                    style={{
-                      width: i === activeCard ? 20 : 8, height: 8,
-                      borderRadius: 4,
-                      background: i === activeCard ? '#0ea5e9' : '#d1d5db',
-                      border: 'none', cursor: 'pointer', padding: 0,
-                      transition: 'all 0.3s ease',
-                    }}
-                  />
-                ))}
-              </div>
-            </div>
+              Featured rinks
+            </h2>
 
-            {/* Single card display with fade */}
+            {/* Horizontal scroll carousel */}
             <div
-              onMouseEnter={() => setCarouselPaused(true)}
-              onMouseLeave={() => setCarouselPaused(false)}
+              className="featured-scroll"
+              style={{
+                display: 'flex',
+                gap: 16,
+                overflowX: 'auto',
+                scrollSnapType: 'x mandatory',
+                paddingBottom: 4,
+              }}
             >
-              {rinks[activeCard] && (
+              {rinks.map((rink) => (
                 <div
-                  key={rinks[activeCard].id}
+                  key={rink.id}
                   style={{
-                    animation: 'fadeIn 0.4s ease',
+                    flex: '0 0 auto',
+                    width: 'min(85vw, 680px)',
+                    scrollSnapAlign: 'start',
                   }}
                 >
                   <RinkCard
-                    rink={rinks[activeCard]}
-                    onClick={() => router.push(`/rinks/${rinks[activeCard].id}`)}
+                    rink={rink}
+                    onClick={() => router.push(`/rinks/${rink.id}`)}
                   />
                 </div>
-              )}
+              ))}
             </div>
-            <style>{`@keyframes fadeIn { from { opacity: 0; transform: translateY(8px); } to { opacity: 1; transform: translateY(0); } }`}</style>
           </>
         ) : displayRinks.length > 0 ? (
           <>

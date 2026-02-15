@@ -69,3 +69,35 @@ html {
   outline-offset: 2px;
 }
 
+/* ── Bottom Tab Bar ── */
+.bottom-tab-bar {
+  display: flex;
+  position: fixed;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  z-index: 100;
+  background: rgba(255, 255, 255, 0.92);
+  backdrop-filter: blur(12px);
+  border-top: 1px solid #f1f5f9;
+  padding-bottom: env(safe-area-inset-bottom, 0px);
+}
+
+body {
+  padding-bottom: 72px;
+}
+
+/* ── Featured scroll — hide scrollbars ── */
+.featured-scroll {
+  -ms-overflow-style: none;
+  scrollbar-width: none;
+}
+.featured-scroll::-webkit-scrollbar {
+  display: none;
+}
+
+/* ── Sticky tab sections — scroll margin for both nav bars ── */
+[id$="-section"] {
+  scroll-margin-top: 120px;
+}
+

@@ -2,6 +2,7 @@
 
 import { useState, useEffect, useMemo } from 'react';
 import { useRouter } from 'next/navigation';
+import { Logo } from '../../components/Logo';
 
 interface Trip {
   id: string; teamName: string; dates: string;
@@ -38,7 +39,7 @@ export default function MyTripsPage() {
     <div style={{ minHeight: '100vh', background: '#fafbfc', fontFamily: "-apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" }}>
       <nav style={{ display: 'flex', alignItems: 'center', gap: 12, padding: '14px 24px', background: 'rgba(250,251,252,0.85)', backdropFilter: 'blur(12px)', position: 'sticky', top: 0, zIndex: 50, borderBottom: '1px solid #f1f5f9' }}>
         <button onClick={() => router.push('/')} style={{ fontSize: 13, fontWeight: 500, color: '#374151', background: '#fff', border: '1px solid #e5e7eb', borderRadius: 8, padding: '6px 14px', cursor: 'pointer' }}>← Home</button>
-        <span onClick={() => router.push('/')} style={{ fontSize: 36, fontWeight: 800, color: '#111827', letterSpacing: -0.5, cursor: 'pointer' }}>cold<span style={{ color: '#0ea5e9' }}>start</span></span>
+        <Logo size={36} />
       </nav>
 
       <div style={{ maxWidth: 600, margin: '0 auto', padding: '24px 24px 60px' }}>
