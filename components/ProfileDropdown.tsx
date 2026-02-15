@@ -28,7 +28,7 @@ export function ProfileDropdown({ onClose }: { onClose: () => void }) {
         onClick={(e) => e.stopPropagation()}
         style={{
           position: 'absolute', top: 56, right: 16,
-          background: '#fff', borderRadius: 14, width: 280,
+          background: colors.white, borderRadius: 14, width: 280,
           boxShadow: '0 10px 40px rgba(0,0,0,0.12), 0 0 0 1px rgba(0,0,0,0.05)',
           overflow: 'hidden',
         }}

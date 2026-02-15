@@ -1,5 +1,7 @@
 'use client';
 
+import { colors, text, radius, font } from '../lib/theme';
+
 export default function GlobalError({
   error,
   reset,
@@ -10,25 +12,25 @@ export default function GlobalError({
   return (
     <html>
       <body style={{
-        minHeight: '100vh', background: '#fafbfc',
-        fontFamily: "-apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif",
+        minHeight: '100vh', background: colors.bgPage,
+        fontFamily: font.system,
         display: 'flex', alignItems: 'center', justifyContent: 'center',
         margin: 0,
       }}>
         <div style={{ maxWidth: 400, textAlign: 'center', padding: 32 }}>
           <div style={{ fontSize: 36, marginBottom: 12 }}>🏒</div>
-          <h2 style={{ fontSize: 18, fontWeight: 700, color: '#111827', margin: 0 }}>
+          <h2 style={{ fontSize: text.xl, fontWeight: 700, color: colors.textPrimary, margin: 0 }}>
             Something went wrong
           </h2>
-          <p style={{ fontSize: 13, color: '#6b7280', marginTop: 8 }}>
+          <p style={{ fontSize: text.md, color: colors.textTertiary, marginTop: 8 }}>
             {error.message || 'An unexpected error occurred.'}
           </p>
           <div style={{ display: 'flex', gap: 10, justifyContent: 'center', marginTop: 20 }}>
             <button
               onClick={reset}
               style={{
-                fontSize: 14, fontWeight: 600, color: '#fff',
-                background: '#0ea5e9', border: 'none', borderRadius: 10,
+                fontSize: text.base, fontWeight: 600, color: colors.white,
+                background: colors.brand, border: 'none', borderRadius: radius.lg,
                 padding: '10px 24px', cursor: 'pointer',
               }}
             >
@@ -37,8 +39,8 @@ export default function GlobalError({
             <a
               href="/"
               style={{
-                fontSize: 14, fontWeight: 600, color: '#6b7280',
-                background: '#f9fafb', border: '1px solid #e5e7eb', borderRadius: 10,
+                fontSize: text.base, fontWeight: 600, color: colors.textTertiary,
+                background: colors.bgSubtle, border: `1px solid ${colors.borderDefault}`, borderRadius: radius.lg,
                 padding: '10px 24px', textDecoration: 'none',
                 display: 'inline-flex', alignItems: 'center',
               }}

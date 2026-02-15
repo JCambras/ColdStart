@@ -31,6 +31,17 @@ export async function apiGet<T>(
   }
 }
 
+/** Fetch a JSON file from /data/ (seed data). Typed wrapper for consistent error handling. */
+export async function seedGet<T>(path: string): Promise<T | null> {
+  try {
+    const res = await fetch(path);
+    if (!res.ok) return null;
+    return (await res.json()) as T;
+  } catch {
+    return null;
+  }
+}
+
 export async function apiPost<T>(
   endpoint: string,
   body: Record<string, unknown>

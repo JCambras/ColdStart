@@ -3,7 +3,7 @@
 import { useState, useEffect, useRef } from 'react';
 import { useRouter } from 'next/navigation';
 import { API_URL } from '../lib/constants';
-import { Logo } from '../components/Logo';
+import { PageShell } from '../components/PageShell';
 import { apiGet } from '../lib/api';
 import { storage } from '../lib/storage';
 import { LoadingSkeleton } from '../components/LoadingSkeleton';
@@ -140,80 +140,68 @@ export default function HomePage() {
   const displayRinks = searchResults !== null ? searchResults : rinks;
   const showCarousel = searchResults === null && rinks.length > 0;
 
+  const navRightContent = (
+    <>
+      <button
+        onClick={() => router.push('/calendar')}
+        style={{
+          fontSize: text.md, fontWeight: 600, color: colors.warning,
+          background: colors.bgWarning, border: `1px solid ${colors.warningBorder}`,
+          borderRadius: 8, padding: '6px 14px', cursor: 'pointer',
+          display: 'flex', alignItems: 'center', gap: 5,
+        }}
+      >
+        🏆
+      </button>
+      <button
+        onClick={() => {
+          const el = document.getElementById('my-rinks-section');
+          if (el) el.scrollIntoView({ behavior: 'smooth' });
+        }}
+        style={{
+          fontSize: text.md, fontWeight: 600, color: colors.brand,
+          background: colors.bgInfo, border: `1px solid ${colors.brandLight}`,
+          borderRadius: 8, padding: '6px 14px', cursor: 'pointer',
+          display: 'flex', alignItems: 'center', gap: 5,
+        }}
+      >
+        ⭐ My Rinks
+      </button>
+      {isLoggedIn && currentUser ? (
+        <button
+          onClick={() => setShowProfileDropdown(true)}
+          style={{
+            width: 34, height: 34, borderRadius: '50%',
+            background: 'linear-gradient(135deg, #0ea5e9, #3b82f6)',
+            display: 'flex', alignItems: 'center', justifyContent: 'center',
+            color: colors.white, fontSize: text.sm, fontWeight: 700,
+            border: 'none', cursor: 'pointer', flexShrink: 0,
+          }}
+        >
+          {(currentUser.name || currentUser.email).slice(0, 2).toUpperCase()}
+        </button>
+      ) : (
+        <button
+          onClick={openAuth}
+          style={{
+            fontSize: text.md, fontWeight: 600, color: colors.white,
+            background: colors.textPrimary, border: 'none',
+            borderRadius: 8, padding: '7px 16px', cursor: 'pointer',
+            whiteSpace: 'nowrap',
+          }}
+        >
+          Sign in
+        </button>
+      )}
+    </>
+  );
+
   return (
-    <div style={{
-      minHeight: '100vh',
-      background: colors.bgPage,
-      fontFamily: "-apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif",
-    }}>
-
-      {/* ── Nav ── */}
-      <nav style={{
-        display: 'flex', alignItems: 'center', justifyContent: 'space-between',
-        padding: '14px 24px',
-        background: 'rgba(250,251,252,0.85)',
-        backdropFilter: 'blur(12px)',
-        position: 'sticky', top: 0, zIndex: 50,
-        borderBottom: `1px solid ${colors.borderLight}`,
-      }}>
-        {/* Logo — bigger */}
-        <Logo size={48} />
-        <StateDropdown onSelect={(code) => router.push(`/states/${code}`)} />
-        <div style={{ display: 'flex', alignItems: 'center', gap: 8 }}>
-          <button
-            onClick={() => router.push('/calendar')}
-            style={{
-              fontSize: text.md, fontWeight: 600, color: colors.warning,
-              background: colors.bgWarning, border: `1px solid ${colors.warningBorder}`,
-              borderRadius: 8, padding: '6px 14px', cursor: 'pointer',
-              display: 'flex', alignItems: 'center', gap: 5,
-            }}
-          >
-            🏆
-          </button>
-          <button
-            onClick={() => {
-              const el = document.getElementById('my-rinks-section');
-              if (el) el.scrollIntoView({ behavior: 'smooth' });
-            }}
-            style={{
-              fontSize: text.md, fontWeight: 600, color: colors.brand,
-              background: colors.bgInfo, border: `1px solid ${colors.brandLight}`,
-              borderRadius: 8, padding: '6px 14px', cursor: 'pointer',
-              display: 'flex', alignItems: 'center', gap: 5,
-            }}
-          >
-            ⭐ My Rinks
-          </button>
-          {isLoggedIn && currentUser ? (
-            <button
-              onClick={() => setShowProfileDropdown(true)}
-              style={{
-                width: 34, height: 34, borderRadius: '50%',
-                background: 'linear-gradient(135deg, #0ea5e9, #3b82f6)',
-                display: 'flex', alignItems: 'center', justifyContent: 'center',
-                color: '#fff', fontSize: text.sm, fontWeight: 700,
-                border: 'none', cursor: 'pointer', flexShrink: 0,
-              }}
-            >
-              {(currentUser.name || currentUser.email).slice(0, 2).toUpperCase()}
-            </button>
-          ) : (
-            <button
-              onClick={openAuth}
-              style={{
-                fontSize: text.md, fontWeight: 600, color: '#fff',
-                background: colors.textPrimary, border: 'none',
-                borderRadius: 8, padding: '7px 16px', cursor: 'pointer',
-                whiteSpace: 'nowrap',
-              }}
-            >
-              Sign in
-            </button>
-          )}
-        </div>
-      </nav>
-
+    <PageShell
+      logoSize={48}
+      navCenter={<StateDropdown onSelect={(code) => router.push(`/states/${code}`)} />}
+      navRight={navRightContent}
+    >
       {/* ── Hero + Search ── */}
       <section style={{
         maxWidth: 700, margin: '0 auto',
@@ -264,7 +252,7 @@ export default function HomePage() {
               border: `2px solid ${searchFocused ? colors.brand : colors.borderDefault}`,
               borderRadius: 16,
               outline: 'none',
-              background: '#fff',
+              background: colors.white,
               color: colors.textPrimary,
               transition: 'all 0.25s ease',
               boxShadow: searchFocused
@@ -391,7 +379,7 @@ export default function HomePage() {
                     }}
                     disabled={!rinkRequestEmail.trim()}
                     style={{
-                      fontSize: text.base, fontWeight: 600, color: rinkRequestEmail.trim() ? '#fff' : colors.textMuted,
+                      fontSize: text.base, fontWeight: 600, color: rinkRequestEmail.trim() ? colors.white : colors.textMuted,
                       background: rinkRequestEmail.trim() ? colors.brand : colors.borderDefault,
                       border: 'none', borderRadius: 10, padding: '10px 20px',
                       cursor: 'pointer', whiteSpace: 'nowrap', transition: 'all 0.2s',
@@ -426,7 +414,7 @@ export default function HomePage() {
                 onClick={() => router.push(`/rinks/${rink.id}`)}
                 style={{
                   display: 'flex', alignItems: 'center', justifyContent: 'space-between',
-                  padding: '14px 20px', background: '#fff', border: `1px solid ${colors.borderDefault}`,
+                  padding: '14px 20px', background: colors.white, border: `1px solid ${colors.borderDefault}`,
                   borderRadius: 12, cursor: 'pointer', transition: 'border-color 0.15s',
                 }}
                 onMouseEnter={(e) => { e.currentTarget.style.borderColor = colors.brand; }}
@@ -452,7 +440,7 @@ export default function HomePage() {
                       const updated = savedRinkIds.filter(id => id !== rink.id);
                       setSavedRinkIds(updated);
                       setSavedRinks(savedRinks.filter(r => r.id !== rink.id));
-                      localStorage.setItem('coldstart_my_rinks', JSON.stringify(updated));
+                      storage.setSavedRinks(updated);
                     }}
                     style={{
                       fontSize: text.xs, color: colors.textMuted, background: 'none', border: 'none',
@@ -535,6 +523,6 @@ export default function HomePage() {
           onClose={() => setShowProfileDropdown(false)}
         />
       )}
-    </div>
+    </PageShell>
   );
 }

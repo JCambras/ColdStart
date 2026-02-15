@@ -2,6 +2,7 @@
 
 import { usePathname, useRouter } from 'next/navigation';
 import { storage } from '../lib/storage';
+import { colors, text } from '../lib/theme';
 
 export default function BottomTabBar() {
   const pathname = usePathname();
@@ -60,12 +61,12 @@ export default function BottomTabBar() {
               background: 'none',
               border: 'none',
               cursor: 'pointer',
-              color: active ? '#0ea5e9' : '#9ca3af',
+              color: active ? colors.brand : colors.textMuted,
               transition: 'color 0.15s',
             }}
           >
             <span style={{ fontSize: 20 }}>{tab.icon}</span>
-            <span style={{ fontSize: 10, fontWeight: active ? 600 : 400 }}>
+            <span style={{ fontSize: text['2xs'], fontWeight: active ? 600 : 400 }}>
               {tab.label}
             </span>
           </button>

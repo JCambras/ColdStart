@@ -2,25 +2,26 @@
 
 import { Signal, Rink, RinkDetail } from './rinkTypes';
 import { SEEDED_SIGNALS, SEEDED_NEARBY, NearbyPlace } from './seedData';
+import { colors } from './theme';
 
 export function getVerdictColor(verdict: string) {
-  if (verdict.includes('Good')) return '#16a34a';
-  if (verdict.includes('Heads up')) return '#d97706';
-  if (verdict.includes('Mixed')) return '#ea580c';
-  return '#6b7280';
+  if (verdict.includes('Good')) return colors.success;
+  if (verdict.includes('Heads up')) return colors.warning;
+  if (verdict.includes('Mixed')) return colors.orangeDeep;
+  return colors.textTertiary;
 }
 
 export function getVerdictBg(verdict: string) {
-  if (verdict.includes('Good')) return '#f0fdf4';
-  if (verdict.includes('Heads up')) return '#fffbeb';
-  if (verdict.includes('Mixed')) return '#fff7ed';
-  return '#f9fafb';
+  if (verdict.includes('Good')) return colors.bgSuccess;
+  if (verdict.includes('Heads up')) return colors.bgWarning;
+  if (verdict.includes('Mixed')) return colors.bgOrangeLight;
+  return colors.bgSubtle;
 }
 
 export function getBarColor(value: number) {
-  if (value >= 3.5) return '#16a34a';
-  if (value >= 2.5) return '#f59e0b';
-  return '#ef4444';
+  if (value >= 3.5) return colors.success;
+  if (value >= 2.5) return colors.amber;
+  return colors.error;
 }
 
 export function timeAgo(dateStr: string): string {
@@ -47,7 +48,7 @@ export function ensureAllSignals(signals: Signal[], rinkSlug: string, loadedSign
   return result;
 }
 
-export function getRinkSlug(rink: Rink): string {
+export function getRinkSlug(rink: { name: string; city?: string }): string {
   const name = (rink.name || '').toLowerCase();
   // Legacy hardcoded slugs
   if (name.includes('buffalo') || name.includes('bww')) return 'bww';

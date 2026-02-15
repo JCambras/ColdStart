@@ -6,6 +6,7 @@ import { MANAGER_RESPONSES } from '../../lib/seedData';
 import { timeAgo } from '../../lib/rinkHelpers';
 import { storage } from '../../lib/storage';
 import { useAuth } from '../../contexts/AuthContext';
+import { colors, text, radius } from '../../lib/theme';
 
 export function TipCard({ tip, tipIndex, rinkSlug }: { tip: Tip; tipIndex: number; rinkSlug: string }) {
   const { isLoggedIn, openAuth } = useAuth();
@@ -52,16 +53,16 @@ export function TipCard({ tip, tipIndex, rinkSlug }: { tip: Tip; tipIndex: numbe
     <div
       style={{
         padding: '10px 14px',
-        background: '#fff',
-        border: '1px solid #f1f5f9',
-        borderRadius: 10,
+        background: colors.white,
+        border: `1px solid ${colors.borderLight}`,
+        borderRadius: radius.lg,
         marginBottom: 6,
         cursor: 'pointer',
         transition: 'border-color 0.15s',
       }}
       onClick={() => setExpanded(!expanded)}
-      onMouseEnter={(e) => { e.currentTarget.style.borderColor = '#e5e7eb'; }}
-      onMouseLeave={(e) => { e.currentTarget.style.borderColor = '#f1f5f9'; }}
+      onMouseEnter={(e) => { e.currentTarget.style.borderColor = colors.borderDefault; }}
+      onMouseLeave={(e) => { e.currentTarget.style.borderColor = colors.borderLight; }}
     >
       <div style={{ display: 'flex', gap: 10, alignItems: 'flex-start' }}>
         {/* Vote buttons */}
@@ -73,22 +74,22 @@ export function TipCard({ tip, tipIndex, rinkSlug }: { tip: Tip; tipIndex: numbe
             onClick={(e) => handleVote('up', e)}
             style={{
               background: 'none', border: 'none', cursor: 'pointer', padding: '2px 4px',
-              fontSize: 14, lineHeight: 1,
-              color: userVote === 'up' ? '#0ea5e9' : '#d1d5db',
+              fontSize: text.base, lineHeight: 1,
+              color: userVote === 'up' ? colors.brand : colors.textDisabled,
               transition: 'color 0.15s',
             }}
             title="Helpful"
           >▲</button>
           <span style={{
-            fontSize: 12, fontWeight: 700, lineHeight: 1,
-            color: score > 0 ? '#111827' : score < 0 ? '#ef4444' : '#9ca3af',
+            fontSize: text.sm, fontWeight: 700, lineHeight: 1,
+            color: score > 0 ? colors.textPrimary : score < 0 ? colors.error : colors.textMuted,
           }}>{score}</span>
           <button
             onClick={(e) => handleVote('down', e)}
             style={{
               background: 'none', border: 'none', cursor: 'pointer', padding: '2px 4px',
-              fontSize: 14, lineHeight: 1,
-              color: userVote === 'down' ? '#ef4444' : '#d1d5db',
+              fontSize: text.base, lineHeight: 1,
+              color: userVote === 'down' ? colors.error : colors.textDisabled,
               transition: 'color 0.15s',
             }}
             title="Not helpful"
@@ -98,13 +99,13 @@ export function TipCard({ tip, tipIndex, rinkSlug }: { tip: Tip; tipIndex: numbe
         {/* Tip content */}
         <div style={{ flex: 1 }}>
           <div style={{ display: 'flex', justifyContent: 'space-between', alignItems: 'flex-start', gap: 8 }}>
-            <p style={{ fontSize: 13, color: '#374151', lineHeight: 1.5, margin: 0, flex: 1 }}>
+            <p style={{ fontSize: text.md, color: colors.textSecondary, lineHeight: 1.5, margin: 0, flex: 1 }}>
               &ldquo;{tip.text}&rdquo;
             </p>
             <div style={{ display: 'flex', alignItems: 'center', gap: 4, flexShrink: 0 }}>
-              {response && <span style={{ fontSize: 10, color: '#3b82f6' }}>💬</span>}
+              {response && <span style={{ fontSize: text['2xs'], color: colors.brandAccent }}>💬</span>}
               <span style={{
-                fontSize: 10, color: '#9ca3af',
+                fontSize: text['2xs'], color: colors.textMuted,
                 transform: expanded ? 'rotate(90deg)' : 'none',
                 transition: 'transform 0.2s', display: 'inline-block',
               }}>
@@ -113,45 +114,45 @@ export function TipCard({ tip, tipIndex, rinkSlug }: { tip: Tip; tipIndex: numbe
             </div>
           </div>
           {expanded && (
-            <div style={{ marginTop: 8, paddingTop: 8, borderTop: '1px solid #f1f5f9' }}>
+            <div style={{ marginTop: 8, paddingTop: 8, borderTop: `1px solid ${colors.borderLight}` }}>
               <div style={{ display: 'flex', gap: 8, alignItems: 'center' }}>
                 <span style={{
-                  fontSize: 10, fontWeight: 500, padding: '2px 8px',
-                  borderRadius: 10,
-                  background: isLocal ? '#eff6ff' : '#faf5ff',
-                  color: isLocal ? '#2563eb' : '#7c3aed',
+                  fontSize: text['2xs'], fontWeight: 500, padding: '2px 8px',
+                  borderRadius: radius.lg,
+                  background: isLocal ? colors.indigoBg : colors.purpleBg,
+                  color: isLocal ? '#2563eb' : colors.purple,
                 }}>
                   {isLocal ? 'Plays here regularly' : 'Visiting parent'}
                 </span>
                 {tip.context && (
                   <span style={{
-                    fontSize: 10, fontWeight: 500, padding: '2px 8px',
-                    borderRadius: 10,
-                    background: tip.context === 'tournament' ? '#fffbeb' : '#f0fdf4',
-                    color: tip.context === 'tournament' ? '#d97706' : '#16a34a',
+                    fontSize: text['2xs'], fontWeight: 500, padding: '2px 8px',
+                    borderRadius: radius.lg,
+                    background: tip.context === 'tournament' ? colors.bgWarning : colors.bgSuccess,
+                    color: tip.context === 'tournament' ? colors.warning : colors.success,
                   }}>
                     {tip.context === 'tournament' ? '🏆 Tournament' : '📅 Regular season'}
                   </span>
                 )}
-                <span style={{ fontSize: 10, color: '#9ca3af' }}>{timeAgo(tip.created_at)}</span>
+                <span style={{ fontSize: text['2xs'], color: colors.textMuted }}>{timeAgo(tip.created_at)}</span>
               </div>
               {response && (
                 <div style={{
                   marginTop: 8, padding: '8px 10px',
-                  background: '#eff6ff', border: '1px solid #bfdbfe',
-                  borderRadius: 8, borderLeft: '3px solid #3b82f6',
+                  background: colors.indigoBg, border: `1px solid ${colors.indigoBorder}`,
+                  borderRadius: radius.md, borderLeft: `3px solid ${colors.brandAccent}`,
                 }}>
                   <div style={{ display: 'flex', alignItems: 'center', gap: 6, marginBottom: 3 }}>
                     <span style={{
                       fontSize: 8, fontWeight: 700, padding: '1px 5px', borderRadius: 3,
-                      background: '#3b82f6', color: '#fff', textTransform: 'uppercase', letterSpacing: 0.5,
+                      background: colors.brandAccent, color: colors.white, textTransform: 'uppercase', letterSpacing: 0.5,
                     }}>
                       Verified
                     </span>
-                    <span style={{ fontSize: 10, fontWeight: 600, color: '#1e40af' }}>{response.name}</span>
-                    <span style={{ fontSize: 10, color: '#6b7280' }}>· {response.role}</span>
+                    <span style={{ fontSize: text['2xs'], fontWeight: 600, color: colors.indigo }}>{response.name}</span>
+                    <span style={{ fontSize: text['2xs'], color: colors.textTertiary }}>· {response.role}</span>
                   </div>
-                  <p style={{ fontSize: 12, color: '#1e40af', lineHeight: 1.45, margin: 0 }}>
+                  <p style={{ fontSize: text.sm, color: colors.indigo, lineHeight: 1.45, margin: 0 }}>
                     {response.text}
                   </p>
                 </div>

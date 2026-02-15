@@ -3,6 +3,7 @@
 import { useState, useEffect } from 'react';
 import { NearbyPlace } from '../../lib/seedData';
 import { storage } from '../../lib/storage';
+import { colors, text, radius } from '../../lib/theme';
 
 export interface NearbyCategory {
   label: string;
@@ -47,14 +48,14 @@ export function NearbySection({ title, icon, categories, rinkSlug }: { title: st
   return (
     <section style={{ marginTop: 24 }}>
       <h3 style={{
-        fontSize: 13, fontWeight: 600, color: '#9ca3af',
+        fontSize: text.md, fontWeight: 600, color: colors.textMuted,
         textTransform: 'uppercase', letterSpacing: 1.5, marginBottom: 12,
         display: 'flex', alignItems: 'center', gap: 6,
       }}>
         <span>{icon}</span> {title}
       </h3>
       <div style={{
-        background: '#fff', border: '1px solid #e5e7eb',
+        background: colors.white, border: `1px solid ${colors.borderDefault}`,
         borderRadius: 16, overflow: 'hidden',
       }}>
         {categories.map((cat, i) => (
@@ -65,25 +66,25 @@ export function NearbySection({ title, icon, categories, rinkSlug }: { title: st
                 padding: '14px 20px', cursor: 'pointer',
                 display: 'flex', alignItems: 'center', justifyContent: 'space-between',
                 transition: 'background 0.1s',
-                background: expanded === cat.label ? '#f8fafc' : '#fff',
+                background: expanded === cat.label ? '#f8fafc' : colors.white,
               }}
-              onMouseEnter={(e) => { if (expanded !== cat.label) e.currentTarget.style.background = '#fafbfc'; }}
-              onMouseLeave={(e) => { if (expanded !== cat.label) e.currentTarget.style.background = '#fff'; }}
+              onMouseEnter={(e) => { if (expanded !== cat.label) e.currentTarget.style.background = colors.bgPage; }}
+              onMouseLeave={(e) => { if (expanded !== cat.label) e.currentTarget.style.background = colors.white; }}
             >
               <div style={{ display: 'flex', alignItems: 'center', gap: 12 }}>
                 <span style={{ fontSize: 20 }}>{cat.icon}</span>
                 <div>
-                  <div style={{ fontSize: 14, fontWeight: 600, color: '#111827' }}>
+                  <div style={{ fontSize: text.base, fontWeight: 600, color: colors.textPrimary }}>
                     {cat.label}
-                    <span style={{ fontSize: 12, fontWeight: 400, color: '#9ca3af', marginLeft: 6 }}>
+                    <span style={{ fontSize: text.sm, fontWeight: 400, color: colors.textMuted, marginLeft: 6 }}>
                       {cat.places.length} spot{cat.places.length !== 1 ? 's' : ''}
                     </span>
                   </div>
-                  <div style={{ fontSize: 12, color: '#9ca3af', marginTop: 1 }}>{cat.description}</div>
+                  <div style={{ fontSize: text.sm, color: colors.textMuted, marginTop: 1 }}>{cat.description}</div>
                 </div>
               </div>
               <span style={{
-                fontSize: 12, color: '#9ca3af',
+                fontSize: text.sm, color: colors.textMuted,
                 transform: expanded === cat.label ? 'rotate(90deg)' : 'none',
                 transition: 'transform 0.2s',
               }}>
@@ -94,9 +95,9 @@ export function NearbySection({ title, icon, categories, rinkSlug }: { title: st
               <div style={{ padding: '0 20px 16px', background: '#f8fafc' }}>
                 {cat.places.every(p => p.isFar) && (
                   <div style={{
-                    padding: '8px 12px', marginTop: 8, borderRadius: 8,
-                    background: '#fef2f2', border: '1px solid #fecaca',
-                    fontSize: 11, color: '#991b1b',
+                    padding: '8px 12px', marginTop: 8, borderRadius: radius.md,
+                    background: colors.bgError, border: '1px solid #fecaca',
+                    fontSize: text.xs, color: '#991b1b',
                   }}>
                     ⚠️ Limited options nearby — these are further from the rink
                   </div>
@@ -112,22 +113,22 @@ export function NearbySection({ title, icon, categories, rinkSlug }: { title: st
                       rel="noopener noreferrer"
                       style={{
                         display: 'block',
-                        padding: '10px 12px', borderRadius: 10,
-                        background: place.isPartner ? '#fffbeb' : '#fff',
-                        border: `1px solid ${place.isPartner ? '#fde68a' : '#e5e7eb'}`,
+                        padding: '10px 12px', borderRadius: radius.lg,
+                        background: place.isPartner ? colors.bgWarning : colors.white,
+                        border: `1px solid ${place.isPartner ? colors.warningBorder : colors.borderDefault}`,
                         textDecoration: 'none',
                         transition: 'border-color 0.15s', cursor: 'pointer',
                       }}
-                      onMouseEnter={(e) => { (e.currentTarget as HTMLElement).style.borderColor = '#0ea5e9'; }}
-                      onMouseLeave={(e) => { (e.currentTarget as HTMLElement).style.borderColor = place.isPartner ? '#fde68a' : '#e5e7eb'; }}
+                      onMouseEnter={(e) => { (e.currentTarget as HTMLElement).style.borderColor = colors.brand; }}
+                      onMouseLeave={(e) => { (e.currentTarget as HTMLElement).style.borderColor = place.isPartner ? colors.warningBorder : colors.borderDefault; }}
                     >
                       <div style={{ display: 'flex', alignItems: 'center', justifyContent: 'space-between' }}>
                         <div style={{ display: 'flex', alignItems: 'center', gap: 8 }}>
-                          <div style={{ fontSize: 13, fontWeight: 500, color: '#111827' }}>{place.name}</div>
+                          <div style={{ fontSize: text.md, fontWeight: 500, color: colors.textPrimary }}>{place.name}</div>
                           {place.isPartner && (
                             <span style={{
                               fontSize: 9, fontWeight: 600, padding: '2px 6px', borderRadius: 4,
-                              background: '#fef3c7', color: '#92400e', textTransform: 'uppercase', letterSpacing: 0.5,
+                              background: '#fef3c7', color: colors.amberDark, textTransform: 'uppercase', letterSpacing: 0.5,
                             }}>
                               Rink pick
                             </span>
@@ -135,19 +136,19 @@ export function NearbySection({ title, icon, categories, rinkSlug }: { title: st
                           {place.isFar && !place.isPartner && (
                             <span style={{
                               fontSize: 9, fontWeight: 500, padding: '2px 6px', borderRadius: 4,
-                              background: '#fef2f2', color: '#991b1b',
+                              background: colors.bgError, color: '#991b1b',
                             }}>
                               drive
                             </span>
                           )}
                         </div>
                         <div style={{ display: 'flex', alignItems: 'center', gap: 8 }}>
-                          {place.distance && <span style={{ fontSize: 11, color: place.isFar ? '#f59e0b' : '#9ca3af' }}>{place.distance}</span>}
-                          <span style={{ fontSize: 11, color: '#0ea5e9', fontWeight: 500 }}>→</span>
+                          {place.distance && <span style={{ fontSize: text.xs, color: place.isFar ? colors.amber : colors.textMuted }}>{place.distance}</span>}
+                          <span style={{ fontSize: text.xs, color: colors.brand, fontWeight: 500 }}>→</span>
                         </div>
                       </div>
                       {place.isPartner && place.partnerNote && (
-                        <div style={{ fontSize: 11, color: '#92400e', marginTop: 4, fontStyle: 'italic' }}>
+                        <div style={{ fontSize: text.xs, color: colors.amberDark, marginTop: 4, fontStyle: 'italic' }}>
                           {place.partnerNote}
                         </div>
                       )}
@@ -157,12 +158,12 @@ export function NearbySection({ title, icon, categories, rinkSlug }: { title: st
                       <div style={{ marginTop: 4, marginLeft: 8 }}>
                         {tips.map((tip, ti) => (
                           <div key={ti} style={{
-                            fontSize: 12, color: '#374151', padding: '6px 10px',
-                            background: '#f0f9ff', borderRadius: 8, marginTop: 4,
-                            borderLeft: '3px solid #0ea5e9',
+                            fontSize: text.sm, color: colors.textSecondary, padding: '6px 10px',
+                            background: colors.brandBg, borderRadius: radius.md, marginTop: 4,
+                            borderLeft: `3px solid ${colors.brand}`,
                           }}>
                             <span style={{ fontStyle: 'italic' }}>&ldquo;{tip.text}&rdquo;</span>
-                            <span style={{ fontSize: 11, color: '#9ca3af', marginLeft: 6 }}>— {tip.author}</span>
+                            <span style={{ fontSize: text.xs, color: colors.textMuted, marginLeft: 6 }}>— {tip.author}</span>
                           </div>
                         ))}
                       </div>
@@ -177,23 +178,23 @@ export function NearbySection({ title, icon, categories, rinkSlug }: { title: st
                           placeholder="E.g. &quot;Call ahead for 20+&quot;"
                           autoFocus
                           style={{
-                            flex: 1, padding: '6px 10px', fontSize: 12,
-                            border: '1px solid #d1d5db', borderRadius: 8, outline: 'none',
+                            flex: 1, padding: '6px 10px', fontSize: text.sm,
+                            border: `1px solid ${colors.borderMedium}`, borderRadius: radius.md, outline: 'none',
                           }}
                         />
                         <button
                           onClick={() => submitPlaceTip(place.name)}
                           style={{
-                            fontSize: 11, fontWeight: 600, color: '#fff',
-                            background: tipText.trim() ? '#0ea5e9' : '#d1d5db',
-                            border: 'none', borderRadius: 8, padding: '6px 12px', cursor: 'pointer',
+                            fontSize: text.xs, fontWeight: 600, color: colors.white,
+                            background: tipText.trim() ? colors.brand : colors.textDisabled,
+                            border: 'none', borderRadius: radius.md, padding: '6px 12px', cursor: 'pointer',
                           }}
                         >
                           Add
                         </button>
                         <button
                           onClick={() => { setTipOpen(null); setTipText(''); }}
-                          style={{ fontSize: 11, color: '#9ca3af', background: 'none', border: 'none', cursor: 'pointer' }}
+                          style={{ fontSize: text.xs, color: colors.textMuted, background: 'none', border: 'none', cursor: 'pointer' }}
                         >
                           ✕
                         </button>
@@ -202,8 +203,8 @@ export function NearbySection({ title, icon, categories, rinkSlug }: { title: st
                       <button
                         onClick={(e) => { e.preventDefault(); setTipOpen(placeKey); setTipText(''); }}
                         style={{
-                          marginTop: 4, marginLeft: 8, fontSize: 11, fontWeight: 500,
-                          color: '#0ea5e9', background: 'none', border: 'none',
+                          marginTop: 4, marginLeft: 8, fontSize: text.xs, fontWeight: 500,
+                          color: colors.brand, background: 'none', border: 'none',
                           cursor: 'pointer', padding: '2px 0',
                         }}
                       >
@@ -215,7 +216,7 @@ export function NearbySection({ title, icon, categories, rinkSlug }: { title: st
                 })}
               </div>
             )}
-            {i < categories.length - 1 && <div style={{ height: 1, background: '#f1f5f9' }} />}
+            {i < categories.length - 1 && <div style={{ height: 1, background: colors.borderLight }} />}
           </div>
         ))}
       </div>

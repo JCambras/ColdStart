@@ -2,6 +2,7 @@
 
 import { useState } from 'react';
 import { SIGNAL_LABELS } from '../lib/constants';
+import { getVerdictColor } from '../lib/rinkHelpers';
 import { colors, text } from '../lib/theme';
 
 interface Signal {
@@ -28,12 +29,6 @@ export interface RinkData {
     contribution_count: number;
     confirmed_this_season: boolean;
   };
-}
-
-function getVerdictColor(verdict: string) {
-  if (verdict.includes('Good')) return colors.success;
-  if (verdict.includes('Heads up')) return colors.warning;
-  return colors.textTertiary;
 }
 
 export function RinkCard({ rink, onClick }: { rink: RinkData; onClick: () => void }) {

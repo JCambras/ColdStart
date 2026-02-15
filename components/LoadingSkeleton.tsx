@@ -1,7 +1,9 @@
+import { colors, radius } from '../lib/theme';
+
 type Variant = 'page' | 'card' | 'list';
 
 const bar = (w: string, h = 14): React.CSSProperties => ({
-  height: h, width: w, background: '#f1f5f9', borderRadius: 6,
+  height: h, width: w, background: colors.borderLight, borderRadius: radius.sm,
 });
 
 function SkeletonPage() {
@@ -12,7 +14,7 @@ function SkeletonPage() {
       <div style={{ ...bar('40%'), marginBottom: 24 }} />
       {/* Verdict card */}
       <div style={{
-        background: '#fff', border: '1px solid #e5e7eb', borderRadius: 16,
+        background: colors.white, border: `1px solid ${colors.borderDefault}`, borderRadius: 16,
         padding: 24, marginBottom: 16,
       }}>
         <div style={{ ...bar('50%', 18), marginBottom: 10 }} />
@@ -20,17 +22,17 @@ function SkeletonPage() {
       </div>
       {/* Signal bars */}
       <div style={{
-        background: '#fff', border: '1px solid #e5e7eb', borderRadius: 16,
+        background: colors.white, border: `1px solid ${colors.borderDefault}`, borderRadius: 16,
         padding: '16px 24px',
       }}>
         {Array.from({ length: 7 }).map((_, i) => (
           <div key={i} style={{
             display: 'flex', alignItems: 'center', gap: 12,
             padding: '12px 0',
-            borderTop: i > 0 ? '1px solid #f1f5f9' : 'none',
+            borderTop: i > 0 ? `1px solid ${colors.borderLight}` : 'none',
           }}>
             <div style={{ ...bar('52px'), flexShrink: 0 }} />
-            <div style={{ flex: 1, height: 6, background: '#f1f5f9', borderRadius: 3 }} />
+            <div style={{ flex: 1, height: 6, background: colors.borderLight, borderRadius: 3 }} />
             <div style={{ ...bar('28px', 12), flexShrink: 0 }} />
           </div>
         ))}
@@ -39,8 +41,8 @@ function SkeletonPage() {
       <div style={{ marginTop: 24, display: 'flex', flexDirection: 'column', gap: 8 }}>
         {Array.from({ length: 3 }).map((_, i) => (
           <div key={i} style={{
-            background: '#fff', border: '1px solid #f1f5f9',
-            borderRadius: 10, padding: '12px 14px',
+            background: colors.white, border: `1px solid ${colors.borderLight}`,
+            borderRadius: radius.lg, padding: '12px 14px',
           }}>
             <div style={{ ...bar('85%', 12), marginBottom: 6 }} />
             <div style={{ ...bar('50%', 10) }} />
@@ -54,7 +56,7 @@ function SkeletonPage() {
 function SkeletonCard() {
   return (
     <div style={{
-      background: '#fff', border: '1px solid #e5e7eb', borderRadius: 16,
+      background: colors.white, border: `1px solid ${colors.borderDefault}`, borderRadius: 16,
       display: 'flex', minHeight: 200, overflow: 'hidden',
       animation: 'pulse 1.5s ease-in-out infinite',
     }}>
@@ -68,7 +70,7 @@ function SkeletonCard() {
           ))}
         </div>
       </div>
-      <div style={{ width: 180, background: '#f8fafc', borderLeft: '1px solid #f1f5f9' }} />
+      <div style={{ width: 180, background: '#f8fafc', borderLeft: `1px solid ${colors.borderLight}` }} />
     </div>
   );
 }
@@ -79,8 +81,8 @@ function SkeletonList() {
       {Array.from({ length: 6 }).map((_, i) => (
         <div key={i} style={{
           display: 'flex', alignItems: 'center', justifyContent: 'space-between',
-          padding: '14px 18px', background: '#fff', border: '1px solid #e5e7eb',
-          borderRadius: 12, animation: 'pulse 1.5s ease-in-out infinite',
+          padding: '14px 18px', background: colors.white, border: `1px solid ${colors.borderDefault}`,
+          borderRadius: radius.xl, animation: 'pulse 1.5s ease-in-out infinite',
         }}>
           <div>
             <div style={{ ...bar('160px', 16), marginBottom: 6 }} />

@@ -3,8 +3,10 @@
 import { useEffect, useState } from 'react';
 import { useParams, useRouter } from 'next/navigation';
 import { US_STATES, SIGNAL_ICONS } from '../../../lib/constants';
-import { Logo } from '../../../components/Logo';
+import { seedGet } from '../../../lib/api';
+import { PageShell } from '../../../components/PageShell';
 import { LoadingSkeleton } from '../../../components/LoadingSkeleton';
+import { colors, text, radius } from '../../../lib/theme';
 
 interface SeedRink {
   id: string;
@@ -36,12 +38,10 @@ export default function StatePage() {
   useEffect(() => {
     async function loadData() {
       try {
-        const [rinksRes, signalsRes] = await Promise.all([
-          fetch('/data/rinks.json'),
-          fetch('/data/signals.json'),
+        const [allRinks, allSignals] = await Promise.all([
+          seedGet<SeedRink[]>('/data/rinks.json').then(d => d ?? []),
+          seedGet<Record<string, Record<string, SignalData>>>('/data/signals.json').then(d => d ?? {}),
         ]);
-        const allRinks = rinksRes.ok ? await rinksRes.json() : [];
-        const allSignals = signalsRes.ok ? await signalsRes.json() : {};
         const stateRinks = allRinks
           .filter((r: SeedRink) => r.state === code)
           .sort((a: SeedRink, b: SeedRink) => a.name.localeCompare(b.name));
@@ -77,26 +77,12 @@ export default function StatePage() {
   }
 
   return (
-    <div style={{ minHeight: '100vh', background: '#fafbfc', fontFamily: "-apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" }}>
-      <nav style={{
-        display: 'flex', alignItems: 'center', gap: 12, padding: '14px 24px',
-        background: 'rgba(250,251,252,0.85)', backdropFilter: 'blur(12px)',
-        position: 'sticky', top: 0, zIndex: 50, borderBottom: '1px solid #f1f5f9',
-      }}>
-        <button onClick={() => router.push('/')} style={{
-          fontSize: 13, fontWeight: 500, color: '#374151', background: '#fff',
-          border: '1px solid #e5e7eb', borderRadius: 8, padding: '6px 14px', cursor: 'pointer',
-        }}>
-          ← Back
-        </button>
-        <Logo size={36} />
-      </nav>
-
+    <PageShell back="/">
       <div style={{ maxWidth: 720, margin: '0 auto', padding: '32px 24px 80px' }}>
-        <h1 style={{ fontSize: 28, fontWeight: 800, color: '#111827', margin: 0 }}>
+        <h1 style={{ fontSize: 28, fontWeight: 800, color: colors.textPrimary, margin: 0 }}>
           {stateName}
         </h1>
-        <p style={{ fontSize: 14, color: '#6b7280', marginTop: 6 }}>
+        <p style={{ fontSize: 14, color: colors.textTertiary, marginTop: 6 }}>
           {loading ? '' : `${rinks.length} rink${rinks.length !== 1 ? 's' : ''}`}
         </p>
 
@@ -107,8 +93,8 @@ export default function StatePage() {
             placeholder="Filter by name or city..."
             style={{
               width: '100%', padding: '10px 14px', fontSize: 14,
-              border: '1px solid #e5e7eb', borderRadius: 10, outline: 'none',
-              boxSizing: 'border-box', marginTop: 16, background: '#fff',
+              border: `1px solid ${colors.borderDefault}`, borderRadius: 10, outline: 'none',
+              boxSizing: 'border-box', marginTop: 16, background: colors.white,
             }}
           />
         )}
@@ -119,30 +105,30 @@ export default function StatePage() {
             {filtered.map(rink => {
               const top = getTopSignals(rink.id);
               const avg = getAvgScore(rink.id);
-              const avgColor = avg >= 3.5 ? '#16a34a' : avg >= 2.5 ? '#d97706' : '#ef4444';
+              const avgColor = avg >= 3.5 ? colors.success : avg >= 2.5 ? colors.warning : colors.error;
               return (
                 <div
                   key={rink.id}
                   onClick={() => router.push(`/rinks/${rink.id}`)}
                   style={{
                     display: 'flex', alignItems: 'center', justifyContent: 'space-between',
-                    padding: '14px 18px', background: '#fff', border: '1px solid #e5e7eb',
+                    padding: '14px 18px', background: colors.white, border: `1px solid ${colors.borderDefault}`,
                     borderRadius: 12, cursor: 'pointer', transition: 'all 0.15s',
                   }}
                   onMouseEnter={(e) => {
-                    e.currentTarget.style.borderColor = '#bae6fd';
+                    e.currentTarget.style.borderColor = colors.brandLight;
                     e.currentTarget.style.boxShadow = '0 4px 12px rgba(0,0,0,0.06)';
                   }}
                   onMouseLeave={(e) => {
-                    e.currentTarget.style.borderColor = '#e5e7eb';
+                    e.currentTarget.style.borderColor = colors.borderDefault;
                     e.currentTarget.style.boxShadow = 'none';
                   }}
                 >
                   <div style={{ flex: 1, minWidth: 0 }}>
-                    <div style={{ fontSize: 15, fontWeight: 700, color: '#111827', overflow: 'hidden', textOverflow: 'ellipsis', whiteSpace: 'nowrap' }}>
+                    <div style={{ fontSize: 15, fontWeight: 700, color: colors.textPrimary, overflow: 'hidden', textOverflow: 'ellipsis', whiteSpace: 'nowrap' }}>
                       {rink.name}
                     </div>
-                    <div style={{ fontSize: 12, color: '#9ca3af', marginTop: 2 }}>
+                    <div style={{ fontSize: 12, color: colors.textMuted, marginTop: 2 }}>
                       {rink.city}
                     </div>
                   </div>
@@ -151,8 +137,8 @@ export default function StatePage() {
                       <span key={s.signal} style={{
                         display: 'inline-flex', alignItems: 'center', gap: 3,
                         padding: '2px 6px', borderRadius: 6, fontSize: 11, fontWeight: 600,
-                        background: s.value >= 3.5 ? '#f0fdf4' : s.value >= 2.5 ? '#fffbeb' : '#fef2f2',
-                        color: s.value >= 3.5 ? '#16a34a' : s.value >= 2.5 ? '#d97706' : '#ef4444',
+                        background: s.value >= 3.5 ? colors.bgSuccess : s.value >= 2.5 ? colors.bgWarning : colors.bgError,
+                        color: s.value >= 3.5 ? colors.success : s.value >= 2.5 ? colors.warning : colors.error,
                       }}>
                         {SIGNAL_ICONS[s.signal] || '📊'} {s.value.toFixed(1)}
                       </span>
@@ -165,19 +151,19 @@ export default function StatePage() {
                         {avg.toFixed(1)}
                       </span>
                     )}
-                    <span style={{ fontSize: 14, color: '#d1d5db' }}>›</span>
+                    <span style={{ fontSize: 14, color: colors.textDisabled }}>›</span>
                   </div>
                 </div>
               );
             })}
             {filtered.length === 0 && !loading && (
-              <div style={{ textAlign: 'center', padding: '32px 24px', color: '#9ca3af', fontSize: 14 }}>
+              <div style={{ textAlign: 'center', padding: '32px 24px', color: colors.textMuted, fontSize: 14 }}>
                 {search ? `No rinks matching "${search}"` : `No rinks found for ${stateName}`}
               </div>
             )}
           </div>
         )}
       </div>
-    </div>
+    </PageShell>
   );
 }
