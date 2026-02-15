@@ -2,8 +2,10 @@
 
 import { useState, useEffect } from 'react';
 import { storage } from '../../lib/storage';
+import { useAuth } from '../../contexts/AuthContext';
 
-export function SaveRinkButton({ rinkId, isLoggedIn, onAuthRequired }: { rinkId: string; isLoggedIn: boolean; onAuthRequired: () => void }) {
+export function SaveRinkButton({ rinkId }: { rinkId: string }) {
+  const { isLoggedIn, openAuth } = useAuth();
   const [saved, setSaved] = useState(false);
 
   useEffect(() => {
@@ -13,7 +15,7 @@ export function SaveRinkButton({ rinkId, isLoggedIn, onAuthRequired }: { rinkId:
 
   function toggle() {
     if (!isLoggedIn) {
-      onAuthRequired();
+      openAuth();
       return;
     }
     const list = storage.getSavedRinks();

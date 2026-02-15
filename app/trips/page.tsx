@@ -8,7 +8,7 @@ import { storage } from '../../lib/storage';
 interface Trip {
   id: string; teamName: string; dates: string;
   rink: { id: string; name: string; city: string; state: string };
-  createdAt: string; games?: any[]; costItems?: any[];
+  createdAt: string; games?: { id: string; opponent: string; time: string }[]; costItems?: { id: string; label: string; amount: string }[];
 }
 
 export default function MyTripsPage() {

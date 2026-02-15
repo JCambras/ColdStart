@@ -5,8 +5,10 @@ import { Tip } from '../../lib/rinkTypes';
 import { MANAGER_RESPONSES } from '../../lib/seedData';
 import { timeAgo } from '../../lib/rinkHelpers';
 import { storage } from '../../lib/storage';
+import { useAuth } from '../../contexts/AuthContext';
 
-export function TipCard({ tip, tipIndex, rinkSlug, isLoggedIn, onAuthRequired }: { tip: Tip; tipIndex: number; rinkSlug: string; isLoggedIn: boolean; onAuthRequired: () => void }) {
+export function TipCard({ tip, tipIndex, rinkSlug }: { tip: Tip; tipIndex: number; rinkSlug: string }) {
+  const { isLoggedIn, openAuth } = useAuth();
   const isLocal = tip.contributor_type === 'local_parent';
   const response = MANAGER_RESPONSES[rinkSlug]?.[tipIndex];
   const [expanded, setExpanded] = useState(false);
@@ -27,7 +29,7 @@ export function TipCard({ tip, tipIndex, rinkSlug, isLoggedIn, onAuthRequired }:
 
   function handleVote(direction: 'up' | 'down', e: React.MouseEvent) {
     e.stopPropagation();
-    if (!isLoggedIn) { onAuthRequired(); return; }
+    if (!isLoggedIn) { openAuth(); return; }
 
     let newVote: 'up' | 'down' | null = direction;
     let newScore = score;

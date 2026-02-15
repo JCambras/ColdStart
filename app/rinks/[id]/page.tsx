@@ -16,6 +16,7 @@ import { SaveRinkButton } from '../../../components/rink/SaveRinkButton';
 import { apiGet } from '../../../lib/api';
 import { storage } from '../../../lib/storage';
 import { LoadingSkeleton } from '../../../components/LoadingSkeleton';
+import { useAuth } from '../../../contexts/AuthContext';
 
 // ── Main Page ──
 export default function RinkPage() {
@@ -38,14 +39,8 @@ export default function RinkPage() {
   // Sticky tab bar
   const [activeTab, setActiveTab] = useState('signals');
 
-  // Auth state
-  const [currentUser, setCurrentUser] = useState<{ id: string; email: string; name: string } | null>(null);
-  const [showAuthModal, setShowAuthModal] = useState(false);
-
-  useEffect(() => {
-    const u = storage.getCurrentUser();
-    if (u) setCurrentUser(u);
-  }, []);
+  // Auth
+  const { currentUser, isLoggedIn, openAuth } = useAuth();
 
   // Seed place tips for demo rinks (once)
   useEffect(() => {
@@ -138,8 +133,8 @@ export default function RinkPage() {
         } else {
           setError('Rink not found');
         }
-      } catch (e: any) {
-        setError(e.message || 'Failed to load rink');
+      } catch (e: unknown) {
+        setError(e instanceof Error ? e.message : 'Failed to load rink');
       } finally {
         setLoading(false);
       }
@@ -293,7 +288,7 @@ export default function RinkPage() {
             </div>
           ) : (
             <button
-              onClick={() => setShowAuthModal(true)}
+              onClick={openAuth}
               style={{
                 fontSize: 12, fontWeight: 600, color: '#fff',
                 background: '#111827', border: 'none',
@@ -429,7 +424,7 @@ export default function RinkPage() {
               </span>
             </div>
             <div style={{ display: 'flex', flexDirection: 'column', alignItems: 'flex-end', gap: 8, flexShrink: 0 }}>
-              <SaveRinkButton rinkId={rinkId} isLoggedIn={!!currentUser} onAuthRequired={() => setShowAuthModal(true)} />
+              <SaveRinkButton rinkId={rinkId} />
               <button
                 onClick={() => router.push(`/compare?rinks=${rinkId}`)}
                 style={{
@@ -492,7 +487,7 @@ export default function RinkPage() {
 
         {/* ── Rate & Contribute — collapsed by default ── */}
         <div id="contribute-section">
-          <RateAndContribute rinkId={rinkId} rinkName={rink.name} onSummaryUpdate={handleSummaryUpdate} isLoggedIn={!!currentUser} onAuthRequired={() => setShowAuthModal(true)} />
+          <RateAndContribute rinkId={rinkId} rinkName={rink.name} onSummaryUpdate={handleSummaryUpdate} />
         </div>
 
         {/* ── Signals ── */}
@@ -596,7 +591,7 @@ export default function RinkPage() {
               <span style={{ fontSize: 11, color: '#9ca3af' }}>Sorted by most helpful</span>
             </div>
             {displayTips.map((tip, i) => (
-              <TipCard key={i} tip={tip} tipIndex={i} rinkSlug={getRinkSlug(rink)} isLoggedIn={!!currentUser} onAuthRequired={() => setShowAuthModal(true)} />
+              <TipCard key={i} tip={tip} tipIndex={i} rinkSlug={getRinkSlug(rink)} />
             ))}
             {summary.tips.length > 3 && !showAllTips && (
               <button
@@ -730,102 +725,6 @@ export default function RinkPage() {
         <span style={{ fontSize: 11, color: '#d1d5db' }}>v0.3</span>
       </footer>
 
-      {/* ── Auth Modal (inline — same as homepage) ── */}
-      {showAuthModal && (() => {
-        const AuthModalInline = () => {
-          const [mode, setMode] = useState<'signin' | 'signup'>('signin');
-          const [email, setEmail] = useState('');
-          const [name, setName] = useState('');
-          const [sending, setSending] = useState(false);
-          const [sent, setSent] = useState(false);
-
-          function handleSubmit() {
-            if (!email.trim()) return;
-            setSending(true);
-            setTimeout(() => {
-              const existing = storage.getProfiles();
-              let profile = existing[email.toLowerCase()];
-              if (!profile) {
-                if (mode === 'signin') { setSending(false); setMode('signup'); return; }
-                profile = {
-                  id: 'user_' + Math.random().toString(36).slice(2, 10),
-                  email: email.toLowerCase(),
-                  name: name.trim() || email.split('@')[0],
-                  createdAt: new Date().toISOString(),
-                  rinksRated: 0, tipsSubmitted: 0,
-                };
-                existing[email.toLowerCase()] = profile;
-                storage.setProfiles(existing);
-              }
-              storage.setCurrentUser(profile);
-              setSending(false); setSent(true);
-              setTimeout(() => { setCurrentUser(profile); setShowAuthModal(false); }, 600);
-            }, 800);
-          }
-
-          return (
-            <div onClick={() => setShowAuthModal(false)} style={{
-              position: 'fixed', top: 0, left: 0, right: 0, bottom: 0,
-              background: 'rgba(0,0,0,0.4)', backdropFilter: 'blur(4px)',
-              zIndex: 1000, display: 'flex', alignItems: 'center', justifyContent: 'center', padding: 24,
-            }}>
-              <div onClick={(e) => e.stopPropagation()} style={{
-                background: '#fff', borderRadius: 20, maxWidth: 400, width: '100%',
-                padding: 32, boxShadow: '0 20px 60px rgba(0,0,0,0.15)',
-              }}>
-                {sent ? (
-                  <div style={{ textAlign: 'center', padding: '20px 0' }}>
-                    <div style={{ fontSize: 48, marginBottom: 12 }}>✅</div>
-                    <p style={{ fontSize: 18, fontWeight: 700, color: '#111827', margin: 0 }}>You&apos;re in!</p>
-                  </div>
-                ) : (
-                  <>
-                    <div style={{ textAlign: 'center', marginBottom: 24 }}>
-                      <Logo size={28} />
-                      <p style={{ fontSize: 15, color: '#6b7280', marginTop: 8, margin: '8px 0 0' }}>
-                        {mode === 'signin' ? 'Sign in to your account' : 'Create your account'}
-                      </p>
-                    </div>
-                    {mode === 'signup' && (
-                      <div style={{ marginBottom: 12 }}>
-                        <label style={{ fontSize: 12, fontWeight: 600, color: '#374151', display: 'block', marginBottom: 4 }}>Name</label>
-                        <input value={name} onChange={(e) => setName(e.target.value)} placeholder="Your name"
-                          style={{ width: '100%', padding: '10px 14px', fontSize: 15, border: '1px solid #d1d5db', borderRadius: 10, outline: 'none', boxSizing: 'border-box' }} />
-                      </div>
-                    )}
-                    <div style={{ marginBottom: 16 }}>
-                      <label style={{ fontSize: 12, fontWeight: 600, color: '#374151', display: 'block', marginBottom: 4 }}>Email</label>
-                      <input type="email" value={email} onChange={(e) => setEmail(e.target.value)}
-                        onKeyDown={(e) => e.key === 'Enter' && handleSubmit()} placeholder="your@email.com" autoFocus
-                        style={{ width: '100%', padding: '10px 14px', fontSize: 15, border: '1px solid #d1d5db', borderRadius: 10, outline: 'none', boxSizing: 'border-box' }} />
-                    </div>
-                    <button onClick={handleSubmit} disabled={sending || !email.trim()} style={{
-                      width: '100%', padding: '12px 0', fontSize: 15, fontWeight: 700,
-                      background: sending ? '#93c5fd' : '#0ea5e9', color: '#fff',
-                      border: 'none', borderRadius: 10, cursor: sending ? 'wait' : 'pointer',
-                      opacity: !email.trim() ? 0.5 : 1,
-                    }}>
-                      {sending ? 'Signing in...' : mode === 'signin' ? 'Sign in' : 'Create account'}
-                    </button>
-                    <p style={{ fontSize: 13, color: '#9ca3af', textAlign: 'center', marginTop: 16, marginBottom: 0 }}>
-                      {mode === 'signin' ? (
-                        <>Don&apos;t have an account?{' '}
-                          <span onClick={() => setMode('signup')} style={{ color: '#0ea5e9', cursor: 'pointer', fontWeight: 600 }}>Sign up</span>
-                        </>
-                      ) : (
-                        <>Already have an account?{' '}
-                          <span onClick={() => setMode('signin')} style={{ color: '#0ea5e9', cursor: 'pointer', fontWeight: 600 }}>Sign in</span>
-                        </>
-                      )}
-                    </p>
-                  </>
-                )}
-              </div>
-            </div>
-          );
-        };
-        return <AuthModalInline />;
-      })()}
     </div>
   );
 }

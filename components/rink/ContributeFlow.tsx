@@ -5,6 +5,7 @@ import { SIGNAL_META, SIGNAL_OPTIONS, SignalType, ContributorType } from '../../
 import { RinkSummary } from '../../lib/rinkTypes';
 import { apiPost } from '../../lib/api';
 import { storage } from '../../lib/storage';
+import { useAuth } from '../../contexts/AuthContext';
 
 // ── Visitor/Regular Toggle ──
 function VisitorToggle() {
@@ -44,7 +45,8 @@ function VisitorToggle() {
 }
 
 // ── Quick Vote Row ──
-function QuickVoteRow({ rinkId, context, onSummaryUpdate, isLoggedIn, onAuthRequired }: { rinkId: string; context: string; onSummaryUpdate: (s: RinkSummary) => void; isLoggedIn: boolean; onAuthRequired: () => void }) {
+function QuickVoteRow({ rinkId, context, onSummaryUpdate }: { rinkId: string; context: string; onSummaryUpdate: (s: RinkSummary) => void }) {
+  const { isLoggedIn, openAuth } = useAuth();
   const [activeSignal, setActiveSignal] = useState<SignalType | null>(null);
   const [hoveredValue, setHoveredValue] = useState<number | null>(null);
   const [submitting, setSubmitting] = useState(false);
@@ -75,7 +77,7 @@ function QuickVoteRow({ rinkId, context, onSummaryUpdate, isLoggedIn, onAuthRequ
     if (!activeSignal || submitting) return;
     if (!isLoggedIn) {
       pendingSubmitRef.current = { signal: activeSignal, value };
-      onAuthRequired();
+      openAuth();
       return;
     }
     setSubmitting(true);
@@ -167,7 +169,8 @@ function QuickVoteRow({ rinkId, context, onSummaryUpdate, isLoggedIn, onAuthRequ
 }
 
 // ── Quick Tip Input ──
-function QuickTipInput({ rinkId, context, onSummaryUpdate, isLoggedIn, onAuthRequired }: { rinkId: string; context: string; onSummaryUpdate: (s: RinkSummary) => void; isLoggedIn: boolean; onAuthRequired: () => void }) {
+function QuickTipInput({ rinkId, context, onSummaryUpdate }: { rinkId: string; context: string; onSummaryUpdate: (s: RinkSummary) => void }) {
+  const { isLoggedIn, openAuth } = useAuth();
   const [text, setText] = useState('');
   const [submitting, setSubmitting] = useState(false);
   const [success, setSuccess] = useState(false);
@@ -205,7 +208,7 @@ function QuickTipInput({ rinkId, context, onSummaryUpdate, isLoggedIn, onAuthReq
     if (!text.trim() || submitting) return;
     if (!isLoggedIn) {
       pendingSubmitRef.current = text.trim();
-      onAuthRequired();
+      openAuth();
       return;
     }
     setSubmitting(true);
@@ -544,7 +547,8 @@ export function ContributeSection({ rinkId, onSummaryUpdate }: { rinkId: string;
 }
 
 // ── Rate & Contribute — main flow ──
-export function RateAndContribute({ rinkId, rinkName, onSummaryUpdate, isLoggedIn, onAuthRequired }: { rinkId: string; rinkName: string; onSummaryUpdate: (s: RinkSummary) => void; isLoggedIn: boolean; onAuthRequired: () => void }) {
+export function RateAndContribute({ rinkId, rinkName, onSummaryUpdate }: { rinkId: string; rinkName: string; onSummaryUpdate: (s: RinkSummary) => void }) {
+  const { isLoggedIn } = useAuth();
   const [phase, setPhase] = useState<'button' | 'verify' | 'context' | 'rate' | 'tip' | 'done_rate' | 'done_tip'>('button');
   const [botAnswer, setBotAnswer] = useState('');
   const verifyNum = useRef(Math.floor(Math.random() * 5) + 2);
@@ -698,7 +702,7 @@ export function RateAndContribute({ rinkId, rinkName, onSummaryUpdate, isLoggedI
             <span style={{ fontSize: 13, fontWeight: 600, color: '#111827' }}>Rate the signals</span>
             <span style={{ fontSize: 11, color: '#9ca3af' }}>Tap one, then rate 1-5</span>
           </div>
-          <QuickVoteRow rinkId={rinkId} context={ratingContext || ''} onSummaryUpdate={onSummaryUpdate} isLoggedIn={isLoggedIn} onAuthRequired={onAuthRequired} />
+          <QuickVoteRow rinkId={rinkId} context={ratingContext || ''} onSummaryUpdate={onSummaryUpdate} />
         </div>
         <div style={{ padding: '12px 24px 16px', borderTop: '1px solid #f1f5f9' }}>
           <button onClick={() => { markRated(); setPhase('done_rate'); }} style={{
@@ -742,7 +746,7 @@ export function RateAndContribute({ rinkId, rinkName, onSummaryUpdate, isLoggedI
             <span style={{ fontSize: 13, fontWeight: 600, color: '#111827' }}>Drop a tip</span>
             <span style={{ fontSize: 11, color: '#9ca3af', marginLeft: 8 }}>What should parents know?</span>
           </div>
-          <QuickTipInput rinkId={rinkId} context={ratingContext || ''} onSummaryUpdate={onSummaryUpdate} isLoggedIn={isLoggedIn} onAuthRequired={onAuthRequired} />
+          <QuickTipInput rinkId={rinkId} context={ratingContext || ''} onSummaryUpdate={onSummaryUpdate} />
         </div>
         <div style={{ padding: '12px 24px 16px', borderTop: '1px solid #f1f5f9', textAlign: 'center' }}>
           {!hasRated ? (

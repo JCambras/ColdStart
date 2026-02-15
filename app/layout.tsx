@@ -1,6 +1,7 @@
 import type { Metadata, Viewport } from 'next';
 import './globals.css';
 import BottomTabBar from './BottomTabBar';
+import { ClientProviders } from '../components/ClientProviders';
 
 export const metadata: Metadata = {
   title: 'ColdStart Hockey — Know the rink before you get there',
@@ -35,8 +36,10 @@ export default function RootLayout({
   return (
     <html lang="en">
       <body>
-        {children}
-        <BottomTabBar />
+        <ClientProviders>
+          {children}
+          <BottomTabBar />
+        </ClientProviders>
       </body>
     </html>
   );

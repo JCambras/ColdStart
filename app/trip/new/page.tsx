@@ -16,6 +16,27 @@ interface Game { id: string; day: string; time: string; opponent: string; sheet:
 interface CostItem { id: string; label: string; amount: string; splitType: 'per-family' | 'per-player' | 'total'; }
 interface NearbyPlace { name: string; distance: string; url: string; isFar?: boolean; }
 interface NearbyData { [category: string]: NearbyPlace[]; }
+interface RinkListItem { id: string; name: string; city: string; state: string; }
+interface TripDraft {
+  teamName?: string;
+  startDate?: string;
+  endDate?: string;
+  dates?: string;
+  selectedRink?: { id: string; name: string; city: string; state: string } | null;
+  hotel?: NearbyPlace | null;
+  hotelCost?: string;
+  lunch?: NearbyPlace | null;
+  lunchCost?: string;
+  dinner?: NearbyPlace | null;
+  dinnerCost?: string;
+  games?: Game[];
+  notes?: string;
+  familyCount?: string;
+  costItems?: CostItem[];
+  collaborative?: boolean;
+  showCosts?: boolean;
+}
+interface TripAddition { text: string; author: string; timestamp: string; }
 
 function getRinkSlug(rink: { name: string; city?: string }): string {
   const city = (rink.city || '').toLowerCase();
@@ -122,7 +143,7 @@ function TripBuilderInner() {
   const [teamName, setTeamName] = useState('');
   const [startDate, setStartDate] = useState('');
   const [endDate, setEndDate] = useState('');
-  const [allRinks, setAllRinks] = useState<any[]>([]);
+  const [allRinks, setAllRinks] = useState<RinkListItem[]>([]);
   const [selectedRink, setSelectedRink] = useState<{ id: string; name: string; city: string; state: string } | null>(null);
   const [rinkSearch, setRinkSearch] = useState('');
   const [rinkStateFilter, setRinkStateFilter] = useState('');
@@ -143,7 +164,7 @@ function TripBuilderInner() {
   ]);
   // Draft status
   const [draftStatus, setDraftStatus] = useState<'idle' | 'saving' | 'saved'>('idle');
-  const draftTimerRef = useRef<any>(null);
+  const draftTimerRef = useRef<ReturnType<typeof setTimeout> | null>(null);
   const draftRestoredRef = useRef(false);
 
   // Progressive disclosure
@@ -166,7 +187,7 @@ function TripBuilderInner() {
     draftRestoredRef.current = true;
     const raw = storage.getTripDraft();
     {
-      const draft = raw as Record<string, any> | null;
+      const draft = raw as TripDraft | null;
       if (!draft) return;
       if (draft.teamName) setTeamName(draft.teamName);
       if (draft.startDate) setStartDate(draft.startDate);
@@ -222,15 +243,15 @@ function TripBuilderInner() {
   // Load all rinks for dropdown
   useEffect(() => {
     async function loadRinks() {
-      const { data } = await apiGet<any[]>('/rinks?limit=200', {
+      const { data } = await apiGet<RinkListItem[]>('/rinks?limit=200', {
         seedPath: '/data/rinks.json',
-        transform: (raw) => raw as any[],
+        transform: (raw) => raw as RinkListItem[],
       });
-      const rinks = Array.isArray(data) ? data : (data as any)?.rinks || [];
+      const rinks: RinkListItem[] = Array.isArray(data) ? data : [];
       if (rinks.length > 0) {
         setAllRinks(rinks);
         if (preselectedRinkId && !selectedRink) {
-          const match = rinks.find((r: any) => r.id === preselectedRinkId);
+          const match = rinks.find((r) => r.id === preselectedRinkId);
           if (match) setSelectedRink({ id: match.id, name: match.name, city: match.city, state: match.state });
         }
       }
@@ -288,7 +309,7 @@ function TripBuilderInner() {
       collaborative,
       familyCount: parseInt(familyCount) || 16,
       costItems: costItems.filter(c => c.label.trim() && c.amount.trim()),
-      additions: [] as any[],
+      additions: [] as TripAddition[],
       createdAt: new Date().toISOString(),
     };
     const trips = storage.getTrips();
@@ -366,7 +387,7 @@ function TripBuilderInner() {
                     }}
                   >
                     <option value="">State</option>
-                    {[...new Set(allRinks.map((r: any) => r.state).filter(Boolean))].sort().map(s => (
+                    {[...new Set(allRinks.map((r: RinkListItem) => r.state).filter(Boolean))].sort().map(s => (
                       <option key={s} value={s}>{s}</option>
                     ))}
                   </select>
@@ -374,18 +395,18 @@ function TripBuilderInner() {
                 {(rinkSearch.length >= 2 || rinkStateFilter) && (() => {
                   const q = rinkSearch.toLowerCase();
                   const filtered = allRinks
-                    .filter((r: any) => {
+                    .filter((r: RinkListItem) => {
                       if (rinkStateFilter && r.state !== rinkStateFilter) return false;
                       if (q.length >= 2) {
                         return r.name?.toLowerCase().includes(q) || r.city?.toLowerCase().includes(q);
                       }
                       return true;
                     })
-                    .sort((a: any, b: any) => (a.name || '').localeCompare(b.name || ''))
+                    .sort((a: RinkListItem, b: RinkListItem) => (a.name || '').localeCompare(b.name || ''))
                     .slice(0, 20);
                   return filtered.length > 0 ? (
                     <div style={{ border: '1px solid #e5e7eb', borderRadius: 10, overflow: 'hidden', maxHeight: 240, overflowY: 'auto' }}>
-                      {filtered.map((r: any) => (
+                      {filtered.map((r: RinkListItem) => (
                         <div
                           key={r.id}
                           onClick={() => { setSelectedRink({ id: r.id, name: r.name, city: r.city, state: r.state }); setRinkSearch(''); setRinkStateFilter(''); }}
@@ -397,7 +418,7 @@ function TripBuilderInner() {
                           <div style={{ fontSize: 12, color: '#9ca3af' }}>{r.city}, {r.state}</div>
                         </div>
                       ))}
-                      {allRinks.filter((r: any) => {
+                      {allRinks.filter((r: RinkListItem) => {
                         if (rinkStateFilter && r.state !== rinkStateFilter) return false;
                         if (q.length >= 2) return r.name?.toLowerCase().includes(q) || r.city?.toLowerCase().includes(q);
                         return true;
