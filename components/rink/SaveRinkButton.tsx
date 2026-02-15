@@ -1,15 +1,14 @@
 'use client';
 
 import { useState, useEffect } from 'react';
+import { storage } from '../../lib/storage';
 
 export function SaveRinkButton({ rinkId, isLoggedIn, onAuthRequired }: { rinkId: string; isLoggedIn: boolean; onAuthRequired: () => void }) {
   const [saved, setSaved] = useState(false);
 
   useEffect(() => {
-    try {
-      const list = JSON.parse(localStorage.getItem('coldstart_my_rinks') || '[]');
-      setSaved(list.includes(rinkId));
-    } catch {}
+    const list = storage.getSavedRinks();
+    setSaved(list.includes(rinkId));
   }, [rinkId]);
 
   function toggle() {
@@ -17,18 +16,16 @@ export function SaveRinkButton({ rinkId, isLoggedIn, onAuthRequired }: { rinkId:
       onAuthRequired();
       return;
     }
-    try {
-      const list = JSON.parse(localStorage.getItem('coldstart_my_rinks') || '[]');
-      let updated;
-      if (list.includes(rinkId)) {
-        updated = list.filter((id: string) => id !== rinkId);
-        setSaved(false);
-      } else {
-        updated = [...list, rinkId];
-        setSaved(true);
-      }
-      localStorage.setItem('coldstart_my_rinks', JSON.stringify(updated));
-    } catch {}
+    const list = storage.getSavedRinks();
+    let updated;
+    if (list.includes(rinkId)) {
+      updated = list.filter((id: string) => id !== rinkId);
+      setSaved(false);
+    } else {
+      updated = [...list, rinkId];
+      setSaved(true);
+    }
+    storage.setSavedRinks(updated);
   }
 
   return (

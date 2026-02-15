@@ -1,6 +1,6 @@
 // Pure helper functions for rink pages
 
-import { Signal, Rink } from './rinkTypes';
+import { Signal, Rink, RinkDetail } from './rinkTypes';
 import { SEEDED_SIGNALS, SEEDED_NEARBY, NearbyPlace } from './seedData';
 
 export function getVerdictColor(verdict: string) {
@@ -92,4 +92,46 @@ export function getNearbyPlaces(rink: Rink, category: string, loadedNearby?: Rec
     distance: '',
     url: `https://www.google.com/maps/search/${q}+near+${loc}`,
   }];
+}
+
+export function buildRinkDetailFromSeed(
+  rinkId: string,
+  rinks: unknown,
+  signals?: unknown
+): RinkDetail | null {
+  const rinkArr = rinks as Array<Record<string, unknown>>;
+  const seedRink = rinkArr.find((r) => r.id === rinkId);
+  if (!seedRink) return null;
+
+  const sigMap = (signals as Record<string, Record<string, { value: number; count: number; confidence: number }>> | undefined) ?? {};
+  const seedSignals = sigMap[rinkId] || {};
+  const signalArray: Signal[] = Object.entries(seedSignals).map(([key, val]) => ({
+    signal: key,
+    value: val.value,
+    confidence: val.confidence,
+    count: val.count,
+  }));
+
+  return {
+    rink: {
+      id: seedRink.id as string,
+      name: seedRink.name as string,
+      address: (seedRink.address as string) || '',
+      city: (seedRink.city as string) || '',
+      state: (seedRink.state as string) || '',
+      latitude: (seedRink.latitude as number) || null,
+      longitude: (seedRink.longitude as number) || null,
+      created_at: new Date().toISOString(),
+    },
+    summary: {
+      rink_id: seedRink.id as string,
+      verdict: '',
+      signals: signalArray,
+      tips: [],
+      evidence_counts: {},
+      contribution_count: signalArray.reduce((sum, s) => sum + s.count, 0),
+      last_updated_at: null,
+      confirmed_this_season: false,
+    },
+  };
 }

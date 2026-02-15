@@ -4,8 +4,9 @@ import { useState, useEffect } from 'react';
 import { useParams, useRouter } from 'next/navigation';
 import { getVibe } from '../../../app/vibe';
 import { Logo } from '../../../components/Logo';
-
-const API = process.env.NEXT_PUBLIC_API_URL || 'http://localhost:8080/api/v1';
+import { apiGet } from '../../../lib/api';
+import { storage } from '../../../lib/storage';
+import { LoadingSkeleton } from '../../../components/LoadingSkeleton';
 
 interface Game { id: string; day: string; time: string; opponent: string; sheet: string; note: string; }
 interface CostItem { id: string; label: string; amount: string; splitType: 'per-family' | 'per-player' | 'total'; }
@@ -79,36 +80,32 @@ export default function TripPage() {
   }, [tripId]);
 
   useEffect(() => {
-    try {
-      const trips = JSON.parse(localStorage.getItem('coldstart_trips') || '{}');
-      const t = trips[tripId];
-      if (t) {
-        setTrip(t);
-        // Check if trip is in the past (show rate prompt)
-        if (t.dates) {
-          const now = new Date();
-          const dateStr = t.dates.replace(/.*?(\w+ \d+).*/, '$1');
-          const tripEnd = new Date(dateStr);
-          if (tripEnd < now && !t.rated) setShowRatePrompt(true);
-        }
-        fetch(`${API}/rinks/${t.rink.id}`)
-          .then(r => r.json())
-          .then(d => { if (d.data?.summary) setSummary(d.data.summary); })
-          .catch(() => {});
+    const trips = storage.getTrips();
+    const t = trips[tripId] as Trip | undefined;
+    if (t) {
+      setTrip(t);
+      if (t.dates) {
+        const now = new Date();
+        const dateStr = t.dates.replace(/.*?(\w+ \d+).*/, '$1');
+        const tripEnd = new Date(dateStr);
+        if (tripEnd < now && !t.rated) setShowRatePrompt(true);
       }
-    } catch {}
+      apiGet<{ summary?: RinkSummary }>(`/rinks/${t.rink.id}`).then(({ data }) => {
+        if (data?.summary) setSummary(data.summary);
+      });
+    }
     setLoading(false);
   }, [tripId]);
 
   function submitAddition() {
     if (!addText.trim() || !trip) return;
-    const user = JSON.parse(localStorage.getItem('coldstart_current_user') || '{}');
-    const addition: Addition = { type: addType, text: addText.trim(), cost: addCost.trim() || undefined, addedBy: user.name || 'Team parent', createdAt: new Date().toISOString() };
+    const user = storage.getCurrentUser();
+    const addition: Addition = { type: addType, text: addText.trim(), cost: addCost.trim() || undefined, addedBy: user?.name || 'Team parent', createdAt: new Date().toISOString() };
     const updated = { ...trip, additions: [...(trip.additions || []), addition] };
     setTrip(updated);
-    const trips = JSON.parse(localStorage.getItem('coldstart_trips') || '{}');
+    const trips = storage.getTrips();
     trips[tripId] = updated;
-    localStorage.setItem('coldstart_trips', JSON.stringify(trips));
+    storage.setTrips(trips);
     setAddText(''); setAddCost(''); setShowAddForm(false);
   }
 
@@ -116,13 +113,17 @@ export default function TripPage() {
     setShowRatePrompt(false);
     if (trip) {
       const updated = { ...trip, rated: true };
-      const trips = JSON.parse(localStorage.getItem('coldstart_trips') || '{}');
+      const trips = storage.getTrips();
       trips[tripId] = updated;
-      localStorage.setItem('coldstart_trips', JSON.stringify(trips));
+      storage.setTrips(trips);
     }
   }
 
-  if (loading) return <div style={{ minHeight: '100vh', display: 'flex', alignItems: 'center', justifyContent: 'center', fontFamily: "-apple-system, sans-serif" }}><div style={{ color: '#9ca3af', fontSize: 13 }}>Loading trip...</div></div>;
+  if (loading) return (
+    <div style={{ minHeight: '100vh', background: '#fafbfc', fontFamily: "-apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" }}>
+      <LoadingSkeleton variant="page" />
+    </div>
+  );
 
   if (!trip) return (
     <div style={{ minHeight: '100vh', background: '#fafbfc', fontFamily: "-apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif", display: 'flex', alignItems: 'center', justifyContent: 'center' }}>

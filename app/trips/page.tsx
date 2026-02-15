@@ -3,6 +3,7 @@
 import { useState, useEffect, useMemo } from 'react';
 import { useRouter } from 'next/navigation';
 import { Logo } from '../../components/Logo';
+import { storage } from '../../lib/storage';
 
 interface Trip {
   id: string; teamName: string; dates: string;
@@ -16,12 +17,10 @@ export default function MyTripsPage() {
   const [filter, setFilter] = useState('');
 
   useEffect(() => {
-    try {
-      const stored = JSON.parse(localStorage.getItem('coldstart_trips') || '{}');
-      const list = Object.values(stored) as Trip[];
-      list.sort((a, b) => new Date(b.createdAt).getTime() - new Date(a.createdAt).getTime());
-      setTrips(list);
-    } catch {}
+    const stored = storage.getTrips();
+    const list = Object.values(stored) as Trip[];
+    list.sort((a, b) => new Date(b.createdAt).getTime() - new Date(a.createdAt).getTime());
+    setTrips(list);
   }, []);
 
   const filtered = useMemo(() => {

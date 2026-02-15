@@ -4,6 +4,10 @@ import { useState, useEffect, useRef, useCallback } from 'react';
 import { useRouter } from 'next/navigation';
 import { SIGNAL_LABELS, SIGNAL_ICONS, US_STATES, HOCKEY_STATES, API_URL } from '../lib/constants';
 import { Logo } from '../components/Logo';
+import { UserProfile } from '../lib/rinkTypes';
+import { apiGet } from '../lib/api';
+import { storage } from '../lib/storage';
+import { LoadingSkeleton } from '../components/LoadingSkeleton';
 
 
 // ── Types ──
@@ -302,16 +306,6 @@ function StateDropdown({ onSelect }: { onSelect: (code: string) => void }) {
   );
 }
 
-// ── Auth types ──
-interface UserProfile {
-  id: string;
-  email: string;
-  name: string;
-  createdAt: string;
-  rinksRated: number;
-  tipsSubmitted: number;
-}
-
 // ── Auth Modal ──
 function AuthModal({ onClose, onLogin }: { onClose: () => void; onLogin: (profile: UserProfile) => void }) {
   const [mode, setMode] = useState<'signin' | 'signup'>('signin');
@@ -326,16 +320,14 @@ function AuthModal({ onClose, onLogin }: { onClose: () => void; onLogin: (profil
     // In production: POST to /api/v1/auth/magic-link
     // For now: create/retrieve profile from localStorage
     setTimeout(() => {
-      const existing = JSON.parse(localStorage.getItem('coldstart_profiles') || '{}');
+      const existing = storage.getProfiles();
       let profile = existing[email.toLowerCase()];
       if (!profile) {
         if (mode === 'signin') {
-          // Show "no account" and switch to signup
           setSending(false);
           setMode('signup');
           return;
         }
-        // Create new profile
         profile = {
           id: 'user_' + Math.random().toString(36).slice(2, 10),
           email: email.toLowerCase(),
@@ -345,9 +337,9 @@ function AuthModal({ onClose, onLogin }: { onClose: () => void; onLogin: (profil
           tipsSubmitted: 0,
         };
         existing[email.toLowerCase()] = profile;
-        localStorage.setItem('coldstart_profiles', JSON.stringify(existing));
+        storage.setProfiles(existing);
       }
-      localStorage.setItem('coldstart_current_user', JSON.stringify(profile));
+      storage.setCurrentUser(profile);
       setSending(false);
       setSent(true);
       setTimeout(() => onLogin(profile), 600);
@@ -471,9 +463,7 @@ function AuthModal({ onClose, onLogin }: { onClose: () => void; onLogin: (profil
 // ── Profile Dropdown ──
 function ProfileDropdown({ user, onSignOut, onClose }: { user: UserProfile; onSignOut: () => void; onClose: () => void }) {
   const initials = (user.name || user.email).slice(0, 2).toUpperCase();
-  const savedCount = (() => {
-    try { return JSON.parse(localStorage.getItem('coldstart_my_rinks') || '[]').length; } catch { return 0; }
-  })();
+  const savedCount = storage.getSavedRinks().length;
 
   return (
     <div
@@ -589,10 +579,8 @@ export default function HomePage() {
 
   // Load current user on mount
   useEffect(() => {
-    try {
-      const u = localStorage.getItem('coldstart_current_user');
-      if (u) setCurrentUser(JSON.parse(u));
-    } catch {}
+    const u = storage.getCurrentUser();
+    if (u) setCurrentUser(u);
   }, []);
 
   function handleLogin(profile: UserProfile) {
@@ -601,17 +589,14 @@ export default function HomePage() {
   }
 
   function handleSignOut() {
-    localStorage.removeItem('coldstart_current_user');
+    storage.setCurrentUser(null);
     setCurrentUser(null);
     setShowProfileDropdown(false);
   }
 
   // Load saved rinks
   useEffect(() => {
-    try {
-      const saved = JSON.parse(localStorage.getItem('coldstart_my_rinks') || '[]');
-      setSavedRinkIds(saved);
-    } catch {}
+    setSavedRinkIds(storage.getSavedRinks());
   }, []);
 
   // Fetch saved rink details
@@ -620,11 +605,8 @@ export default function HomePage() {
     async function loadSaved() {
       const results: RinkData[] = [];
       for (const id of savedRinkIds) {
-        try {
-          const res = await fetch(`${API_URL}/rinks/${id}`);
-          const d = await res.json();
-          if (d.data) results.push({ ...d.data.rink, ...d.data, name: d.data.rink?.name || d.data.name });
-        } catch {}
+        const { data } = await apiGet<any>(`/rinks/${id}`);
+        if (data) results.push({ ...data.rink, ...data, name: data.rink?.name || data.name });
       }
       setSavedRinks(results);
     }
@@ -650,58 +632,46 @@ export default function HomePage() {
     async function loadFeatured() {
       const results: RinkData[] = [];
       for (const q of FEATURED_SEARCHES) {
-        try {
-          const res = await fetch(`${API_URL}/rinks?query=${encodeURIComponent(q)}`);
-          const data = await res.json();
-          if (data.data && data.data.length > 0) {
-            const rink = data.data[0];
-            try {
-              const detail = await fetch(`${API_URL}/rinks/${rink.id}`);
-              const d = await detail.json();
-              if (d.data) {
-                // Merge: keep name/city/state from search if detail is missing them
-                results.push({
-                  ...rink,
-                  ...d.data,
-                  name: d.data.name || rink.name,
-                  city: d.data.city || rink.city,
-                  state: d.data.state || rink.state,
-                });
-              } else {
-                results.push(rink);
-              }
-            } catch {
-              results.push(rink);
-            }
+        const { data: searchData } = await apiGet<RinkData[]>(`/rinks?query=${encodeURIComponent(q)}`);
+        if (searchData && searchData.length > 0) {
+          const rink = searchData[0];
+          const { data: detailData } = await apiGet<any>(`/rinks/${rink.id}`);
+          if (detailData) {
+            results.push({
+              ...rink,
+              ...detailData,
+              name: detailData.name || rink.name,
+              city: detailData.city || rink.city,
+              state: detailData.state || rink.state,
+            });
+          } else {
+            results.push(rink);
           }
-        } catch {}
+        }
       }
-      // Deduplicate by id
       const seen = new Set<string>();
       const unique = results.filter(r => { if (seen.has(r.id)) return false; seen.add(r.id); return true; });
       setRinks(unique);
     }
 
     async function loadRecent() {
-      try {
-        const res = await fetch(`${API_URL}/rinks?limit=6`);
-        const data = await res.json();
-        if (data.data?.length > 0) { setRecentRinks(data.data); if (data.total) setTotalRinks(data.total); return; }
-      } catch {}
-      // Fall back to seed data
-      try {
-        const res = await fetch('/data/rinks.json');
-        if (res.ok) {
-          const rinks = await res.json();
-          setRecentRinks(rinks.slice(0, 6));
+      const { data } = await apiGet<RinkData[]>('/rinks?limit=6', {
+        seedPath: '/data/rinks.json',
+        transform: (raw) => {
+          const rinks = raw as RinkData[];
           setTotalRinks(rinks.length);
-        }
-      } catch {}
+          return rinks.slice(0, 6);
+        },
+      });
+      if (data && data.length > 0) {
+        setRecentRinks(data);
+        if (!totalRinks) setTotalRinks(data.length);
+      }
     }
 
     loadFeatured();
     loadRecent();
-  }, []);
+  }, []); // eslint-disable-line react-hooks/exhaustive-deps
 
   // Search with debounce
   useEffect(() => {
@@ -711,25 +681,17 @@ export default function HomePage() {
       return;
     }
     const timeout = setTimeout(async () => {
-      try {
-        const res = await fetch(`${API_URL}/rinks?query=${encodeURIComponent(query)}`);
-        const data = await res.json();
-        if (data.data?.length > 0) { setSearchResults(data.data); return; }
-      } catch {}
-      // Fall back to seed data search
-      try {
-        const res = await fetch('/data/rinks.json');
-        if (res.ok) {
-          const rinks = await res.json();
-          const q = query.toLowerCase();
-          const matches = rinks.filter((r: any) =>
+      const q = query.toLowerCase();
+      const { data } = await apiGet<RinkData[]>(`/rinks?query=${encodeURIComponent(query)}`, {
+        seedPath: '/data/rinks.json',
+        transform: (raw) => {
+          const rinks = raw as RinkData[];
+          return rinks.filter((r) =>
             r.name?.toLowerCase().includes(q) || r.city?.toLowerCase().includes(q) || r.state?.toLowerCase().includes(q)
           ).slice(0, 10);
-          setSearchResults(matches);
-        }
-      } catch {
-        setSearchResults([]);
-      }
+        },
+      });
+      setSearchResults(data || []);
     }, 300);
     return () => clearTimeout(timeout);
   }, [query]);
@@ -981,11 +943,9 @@ export default function HomePage() {
                   <button
                     onClick={() => {
                       if (!rinkRequestEmail.trim()) return;
-                      try {
-                        const requests = JSON.parse(localStorage.getItem('coldstart_rink_requests') || '[]');
-                        requests.push({ query, email: rinkRequestEmail.trim(), timestamp: new Date().toISOString() });
-                        localStorage.setItem('coldstart_rink_requests', JSON.stringify(requests));
-                      } catch {}
+                      const requests = storage.getRinkRequests();
+                      requests.push({ query, email: rinkRequestEmail.trim(), timestamp: new Date().toISOString() });
+                      storage.setRinkRequests(requests);
                       setRinkRequestSent(true);
                     }}
                     disabled={!rinkRequestEmail.trim()}
@@ -1004,26 +964,7 @@ export default function HomePage() {
           </div>
         ) : (
           /* Loading skeleton */
-          <div>
-            <div style={{
-              background: '#fff', border: '1px solid #e5e7eb', borderRadius: 16,
-              display: 'flex', minHeight: 200, overflow: 'hidden',
-              animation: 'pulse 1.5s ease-in-out infinite',
-            }}>
-              <div style={{ flex: 1, padding: 24 }}>
-                <div style={{ height: 22, width: '70%', background: '#f1f5f9', borderRadius: 8, marginBottom: 8 }} />
-                <div style={{ height: 14, width: '40%', background: '#f1f5f9', borderRadius: 6, marginBottom: 20 }} />
-                <div style={{ height: 14, width: '55%', background: '#f1f5f9', borderRadius: 6, marginBottom: 14 }} />
-                <div style={{ display: 'flex', gap: 6 }}>
-                  {[1, 2, 3, 4, 5].map((j) => (
-                    <div key={j} style={{ height: 24, width: 48, background: '#f1f5f9', borderRadius: 6 }} />
-                  ))}
-                </div>
-              </div>
-              <div style={{ width: 180, background: '#f8fafc', borderLeft: '1px solid #f1f5f9' }} />
-            </div>
-            <style>{`@keyframes pulse { 0%, 100% { opacity: 1; } 50% { opacity: 0.5; } }`}</style>
-          </div>
+          <LoadingSkeleton variant="card" />
         )}
       </section>
 

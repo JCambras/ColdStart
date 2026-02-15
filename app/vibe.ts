@@ -1,3 +1,5 @@
+import { storage } from '../lib/storage';
+
 // vibe.ts — ColdStart Behavioral Archetype Engine
 // Logs user events, classifies into archetypes, and exposes hooks
 // for adaptive UI. Stores everything in localStorage — no backend needed yet.
@@ -80,10 +82,9 @@ class VibeEngine {
 
   private load(): VibeProfile {
     try {
-      const raw = localStorage.getItem(STORAGE_KEY);
-      if (raw) {
-        const parsed = JSON.parse(raw);
-        // Keep only last 50 sessions to avoid bloat
+      const raw = storage.getVibe();
+      if (raw && Object.keys(raw).length > 0) {
+        const parsed = raw as unknown as VibeProfile;
         if (parsed.sessions?.length > 50) {
           parsed.sessions = parsed.sessions.slice(-50);
         }
@@ -106,9 +107,7 @@ class VibeEngine {
   }
 
   private save(): void {
-    try {
-      localStorage.setItem(STORAGE_KEY, JSON.stringify(this.profile));
-    } catch {}
+    storage.setVibe(this.profile as unknown as Record<string, unknown>);
   }
 
   // ── Session Management ──

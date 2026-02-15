@@ -1,6 +1,7 @@
 'use client';
 
 import { useState } from 'react';
+import { storage } from '../../lib/storage';
 
 export function ClaimRinkCTA({ rinkId, rinkName }: { rinkId: string; rinkName: string }) {
   const [expanded, setExpanded] = useState(false);
@@ -13,12 +14,10 @@ export function ClaimRinkCTA({ rinkId, rinkName }: { rinkId: string; rinkName: s
   async function handleSubmit() {
     if (!name.trim() || !email.trim()) return;
     setSubmitting(true);
-    try {
-      const claims = JSON.parse(localStorage.getItem('coldstart_claims') || '[]');
-      claims.push({ rink_id: rinkId, rink_name: rinkName, name: name.trim(), email: email.trim(), role: role.trim(), timestamp: new Date().toISOString() });
-      localStorage.setItem('coldstart_claims', JSON.stringify(claims));
-      setSubmitted(true);
-    } catch { setSubmitted(true); }
+    const claims = storage.getClaims();
+    claims.push({ rink_id: rinkId, rink_name: rinkName, name: name.trim(), email: email.trim(), role: role.trim(), timestamp: new Date().toISOString() });
+    storage.setClaims(claims);
+    setSubmitted(true);
     setSubmitting(false);
   }
 

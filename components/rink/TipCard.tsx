@@ -4,31 +4,26 @@ import { useState, useEffect } from 'react';
 import { Tip } from '../../lib/rinkTypes';
 import { MANAGER_RESPONSES } from '../../lib/seedData';
 import { timeAgo } from '../../lib/rinkHelpers';
+import { storage } from '../../lib/storage';
 
 export function TipCard({ tip, tipIndex, rinkSlug, isLoggedIn, onAuthRequired }: { tip: Tip; tipIndex: number; rinkSlug: string; isLoggedIn: boolean; onAuthRequired: () => void }) {
   const isLocal = tip.contributor_type === 'local_parent';
   const response = MANAGER_RESPONSES[rinkSlug]?.[tipIndex];
   const [expanded, setExpanded] = useState(false);
 
-  // Voting state — stored in localStorage keyed by rink+tipIndex
-  const voteKey = `coldstart_tip_vote_${rinkSlug}_${tipIndex}`;
   const [userVote, setUserVote] = useState<'up' | 'down' | null>(null);
   const [score, setScore] = useState(0);
 
   useEffect(() => {
-    try {
-      const saved = localStorage.getItem(voteKey);
-      if (saved) {
-        const parsed = JSON.parse(saved);
-        setUserVote(parsed.vote);
-        setScore(parsed.score);
-      } else {
-        // Seed some initial scores for demo
-        const seeded = (tipIndex === 0 ? 12 : tipIndex === 1 ? 8 : tipIndex === 2 ? 5 : Math.floor(Math.random() * 6) + 1);
-        setScore(seeded);
-      }
-    } catch { }
-  }, [voteKey, tipIndex]);
+    const saved = storage.getTipVote(rinkSlug, tipIndex);
+    if (saved.vote !== null) {
+      setUserVote(saved.vote as 'up' | 'down');
+      setScore(saved.score);
+    } else {
+      const seeded = (tipIndex === 0 ? 12 : tipIndex === 1 ? 8 : tipIndex === 2 ? 5 : Math.floor(Math.random() * 6) + 1);
+      setScore(seeded);
+    }
+  }, [rinkSlug, tipIndex]);
 
   function handleVote(direction: 'up' | 'down', e: React.MouseEvent) {
     e.stopPropagation();
@@ -38,19 +33,17 @@ export function TipCard({ tip, tipIndex, rinkSlug, isLoggedIn, onAuthRequired }:
     let newScore = score;
 
     if (userVote === direction) {
-      // Undo vote
       newVote = null;
       newScore += direction === 'up' ? -1 : 1;
     } else if (userVote === null) {
       newScore += direction === 'up' ? 1 : -1;
     } else {
-      // Switching vote
       newScore += direction === 'up' ? 2 : -2;
     }
 
     setUserVote(newVote);
     setScore(newScore);
-    localStorage.setItem(voteKey, JSON.stringify({ vote: newVote, score: newScore }));
+    storage.setTipVote(rinkSlug, tipIndex, { vote: newVote, score: newScore });
   }
 
   return (

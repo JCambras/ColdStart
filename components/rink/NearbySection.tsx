@@ -2,6 +2,7 @@
 
 import { useState, useEffect } from 'react';
 import { NearbyPlace } from '../../lib/seedData';
+import { storage } from '../../lib/storage';
 
 export interface NearbyCategory {
   label: string;
@@ -13,42 +14,29 @@ export interface NearbyCategory {
 
 export function NearbySection({ title, icon, categories, rinkSlug }: { title: string; icon: string; categories: NearbyCategory[]; rinkSlug: string }) {
   const [expanded, setExpanded] = useState<string | null>(null);
-  const [tipOpen, setTipOpen] = useState<string | null>(null); // "catLabel::placeName"
+  const [tipOpen, setTipOpen] = useState<string | null>(null);
   const [tipText, setTipText] = useState('');
   const [tipSaved, setTipSaved] = useState<string | null>(null);
   const [placeTips, setPlaceTips] = useState<Record<string, { text: string; author: string; date: string }[]>>({});
 
-  // Load all place tips for this rink
   useEffect(() => {
-    try {
-      const allTips: Record<string, { text: string; author: string; date: string }[]> = {};
-      for (let i = 0; i < localStorage.length; i++) {
-        const key = localStorage.key(i);
-        if (key?.startsWith(`coldstart_place_tips_${rinkSlug}_`)) {
-          const placeName = key.replace(`coldstart_place_tips_${rinkSlug}_`, '');
-          allTips[placeName] = JSON.parse(localStorage.getItem(key) || '[]');
-        }
-      }
-      setPlaceTips(allTips);
-    } catch {}
+    setPlaceTips(storage.getAllPlaceTips(rinkSlug));
   }, [rinkSlug, tipSaved]);
 
   function submitPlaceTip(placeName: string) {
     if (!tipText.trim()) return;
-    const key = `coldstart_place_tips_${rinkSlug}_${placeName.replace(/[^a-zA-Z0-9]/g, '_')}`;
-    try {
-      const existing = JSON.parse(localStorage.getItem(key) || '[]');
-      const user = JSON.parse(localStorage.getItem('coldstart_current_user') || '{}');
-      existing.push({
-        text: tipText.trim(),
-        author: user.name || 'Hockey parent',
-        date: new Date().toISOString(),
-      });
-      localStorage.setItem(key, JSON.stringify(existing));
-      setTipText('');
-      setTipOpen(null);
-      setTipSaved(placeName + Date.now());
-    } catch {}
+    const cleanName = placeName.replace(/[^a-zA-Z0-9]/g, '_');
+    const existing = storage.getPlaceTips(rinkSlug, cleanName);
+    const user = storage.getCurrentUser();
+    existing.push({
+      text: tipText.trim(),
+      author: user?.name || 'Hockey parent',
+      date: new Date().toISOString(),
+    });
+    storage.setPlaceTips(rinkSlug, cleanName, existing);
+    setTipText('');
+    setTipOpen(null);
+    setTipSaved(placeName + Date.now());
   }
 
   function getPlaceTips(placeName: string): { text: string; author: string; date: string }[] {

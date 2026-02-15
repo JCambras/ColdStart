@@ -1,6 +1,7 @@
 'use client';
 
 import { usePathname, useRouter } from 'next/navigation';
+import { storage } from '../lib/storage';
 
 export default function BottomTabBar() {
   const pathname = usePathname();
@@ -19,7 +20,6 @@ export default function BottomTabBar() {
 
   function handleTab(tab: (typeof tabs)[number]) {
     if (tab.path === '#profile') {
-      // If on home page, scroll to My Rinks; otherwise trigger auth or navigate home
       if (pathname === '/') {
         const el = document.getElementById('my-rinks-section');
         if (el) {
@@ -27,21 +27,14 @@ export default function BottomTabBar() {
           return;
         }
       }
-      // Check if logged in
-      try {
-        const u = localStorage.getItem('coldstart_current_user');
-        if (u) {
-          // Scroll to my rinks on home
-          router.push('/');
-          setTimeout(() => {
-            const el = document.getElementById('my-rinks-section');
-            if (el) el.scrollIntoView({ behavior: 'smooth' });
-          }, 300);
-        } else {
-          // Navigate home — auth modal will be triggered from there
-          router.push('/');
-        }
-      } catch {
+      const u = storage.getCurrentUser();
+      if (u) {
+        router.push('/');
+        setTimeout(() => {
+          const el = document.getElementById('my-rinks-section');
+          if (el) el.scrollIntoView({ behavior: 'smooth' });
+        }, 300);
+      } else {
         router.push('/');
       }
       return;

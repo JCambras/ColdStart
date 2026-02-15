@@ -1,22 +1,24 @@
 'use client';
 
 import { useState, useEffect, useRef } from 'react';
-import { SIGNAL_META, SIGNAL_OPTIONS, API_URL, SignalType, ContributorType } from '../../lib/constants';
+import { SIGNAL_META, SIGNAL_OPTIONS, SignalType, ContributorType } from '../../lib/constants';
 import { RinkSummary } from '../../lib/rinkTypes';
+import { apiPost } from '../../lib/api';
+import { storage } from '../../lib/storage';
 
 // ── Visitor/Regular Toggle ──
 function VisitorToggle() {
   const [type, setType] = useState<'visiting_parent' | 'local_parent'>('visiting_parent');
 
   useEffect(() => {
-    const saved = localStorage.getItem('coldstart_contributor_type');
+    const saved = storage.getContributorType();
     if (saved === 'local_parent' || saved === 'visiting_parent') setType(saved);
   }, []);
 
   function toggle() {
     const next = type === 'visiting_parent' ? 'local_parent' : 'visiting_parent';
     setType(next);
-    localStorage.setItem('coldstart_contributor_type', next);
+    storage.setContributorType(next);
   }
 
   return (
@@ -77,26 +79,18 @@ function QuickVoteRow({ rinkId, context, onSummaryUpdate, isLoggedIn, onAuthRequ
       return;
     }
     setSubmitting(true);
-    const contributorType = localStorage.getItem('coldstart_contributor_type') || 'visiting_parent';
-    try {
-      const res = await fetch(`${API_URL}/contributions`, {
-        method: 'POST',
-        headers: { 'Content-Type': 'application/json' },
-        body: JSON.stringify({
-          rink_id: rinkId,
-          kind: 'signal_rating',
-          contributor_type: contributorType,
-          context: context,
-          signal_rating: { signal: activeSignal, value },
-        }),
-      });
-      const data = await res.json();
-      if (data.data?.summary) onSummaryUpdate(data.data.summary);
-      setJustRated(activeSignal);
-      setActiveSignal(null);
-      setTimeout(() => setJustRated(null), 2000);
-
-    } catch {}
+    const contributorType = storage.getContributorType();
+    const { data } = await apiPost<{ summary?: RinkSummary }>('/contributions', {
+      rink_id: rinkId,
+      kind: 'signal_rating',
+      contributor_type: contributorType,
+      context: context,
+      signal_rating: { signal: activeSignal, value },
+    });
+    if (data?.summary) onSummaryUpdate(data.summary);
+    setJustRated(activeSignal);
+    setActiveSignal(null);
+    setTimeout(() => setJustRated(null), 2000);
     setSubmitting(false);
   }
 
@@ -192,25 +186,18 @@ function QuickTipInput({ rinkId, context, onSummaryUpdate, isLoggedIn, onAuthReq
   async function submitWithText(tipText: string) {
     if (!tipText.trim()) return;
     setSubmitting(true);
-    const contributorType = localStorage.getItem('coldstart_contributor_type') || 'visiting_parent';
-    try {
-      const res = await fetch(`${API_URL}/contributions`, {
-        method: 'POST',
-        headers: { 'Content-Type': 'application/json' },
-        body: JSON.stringify({
-          rink_id: rinkId,
-          kind: 'one_thing_tip',
-          contributor_type: contributorType,
-          context: context,
-          one_thing_tip: { text: tipText.trim() },
-        }),
-      });
-      const data = await res.json();
-      if (data.data?.summary) onSummaryUpdate(data.data.summary);
-      setText('');
-      setSuccess(true);
-      setTimeout(() => setSuccess(false), 2000);
-    } catch {}
+    const contributorType = storage.getContributorType();
+    const { data } = await apiPost<{ summary?: RinkSummary }>('/contributions', {
+      rink_id: rinkId,
+      kind: 'one_thing_tip',
+      contributor_type: contributorType,
+      context: context,
+      one_thing_tip: { text: tipText.trim() },
+    });
+    if (data?.summary) onSummaryUpdate(data.summary);
+    setText('');
+    setSuccess(true);
+    setTimeout(() => setSuccess(false), 2000);
     setSubmitting(false);
   }
 
@@ -222,25 +209,18 @@ function QuickTipInput({ rinkId, context, onSummaryUpdate, isLoggedIn, onAuthReq
       return;
     }
     setSubmitting(true);
-    const contributorType = localStorage.getItem('coldstart_contributor_type') || 'visiting_parent';
-    try {
-      const res = await fetch(`${API_URL}/contributions`, {
-        method: 'POST',
-        headers: { 'Content-Type': 'application/json' },
-        body: JSON.stringify({
-          rink_id: rinkId,
-          kind: 'one_thing_tip',
-          contributor_type: contributorType,
-          context: context,
-          one_thing_tip: { text: text.trim() },
-        }),
-      });
-      const data = await res.json();
-      if (data.data?.summary) onSummaryUpdate(data.data.summary);
-      setText('');
-      setSuccess(true);
-      setTimeout(() => setSuccess(false), 2000);
-    } catch {}
+    const contributorType = storage.getContributorType();
+    const { data } = await apiPost<{ summary?: RinkSummary }>('/contributions', {
+      rink_id: rinkId,
+      kind: 'one_thing_tip',
+      contributor_type: contributorType,
+      context: context,
+      one_thing_tip: { text: text.trim() },
+    });
+    if (data?.summary) onSummaryUpdate(data.summary);
+    setText('');
+    setSuccess(true);
+    setTimeout(() => setSuccess(false), 2000);
     setSubmitting(false);
   }
 
@@ -328,25 +308,18 @@ export function ContributeSection({ rinkId, onSummaryUpdate }: { rinkId: string;
       body.one_thing_tip = { text: tipText.trim() };
     } else return;
 
-    try {
-      const res = await fetch(`${API_URL}/contributions`, {
-        method: 'POST',
-        headers: { 'Content-Type': 'application/json' },
-        body: JSON.stringify(body),
-      });
-      const data = await res.json();
-      if (!res.ok) throw new Error(data.error?.message || 'Failed to submit');
-      if (data.data?.summary) onSummaryUpdate(data.data.summary);
+    const { data, error: apiError } = await apiPost<{ summary?: RinkSummary }>('/contributions', body);
+    if (apiError) {
+      setError(apiError);
+    } else {
+      if (data?.summary) onSummaryUpdate(data.summary);
       setSuccess(true);
       setTimeout(() => {
         reset();
         setSuccess(false);
       }, 2000);
-    } catch (e: unknown) {
-      setError(e instanceof Error ? e.message : 'Something went wrong');
-    } finally {
-      setLoading(false);
     }
+    setLoading(false);
   }
 
   // Success state
@@ -580,19 +553,15 @@ export function RateAndContribute({ rinkId, rinkName, onSummaryUpdate, isLoggedI
   const [hasRated, setHasRated] = useState(false);
 
   useEffect(() => {
-    try {
-      const rated = JSON.parse(localStorage.getItem('coldstart_rated_rinks') || '{}');
-      if (rated[rinkId]) setHasRated(true);
-    } catch {}
+    const rated = storage.getRatedRinks();
+    if (rated[rinkId]) setHasRated(true);
   }, [rinkId]);
 
   function markRated() {
-    try {
-      const rated = JSON.parse(localStorage.getItem('coldstart_rated_rinks') || '{}');
-      rated[rinkId] = Date.now();
-      localStorage.setItem('coldstart_rated_rinks', JSON.stringify(rated));
-      setHasRated(true);
-    } catch {}
+    const rated = storage.getRatedRinks();
+    rated[rinkId] = Date.now();
+    storage.setRatedRinks(rated);
+    setHasRated(true);
   }
 
   function checkBot() {
@@ -601,7 +570,7 @@ export function RateAndContribute({ rinkId, rinkName, onSummaryUpdate, isLoggedI
 
   function selectContext(ctx: 'tournament' | 'regular') {
     setRatingContext(ctx);
-    localStorage.setItem('coldstart_rating_context', ctx);
+    storage.setRatingContext(ctx);
     setPhase(pendingFlow);
   }
 
@@ -609,7 +578,7 @@ export function RateAndContribute({ rinkId, rinkName, onSummaryUpdate, isLoggedI
     setPendingFlow(flow);
     if (hasRated && flow === 'rate') return;
     if (isLoggedIn) {
-      const savedCtx = localStorage.getItem('coldstart_rating_context') as 'tournament' | 'regular' | null;
+      const savedCtx = storage.getRatingContext() as 'tournament' | 'regular' | null;
       if (savedCtx) {
         setRatingContext(savedCtx);
         setPhase(flow);
@@ -709,7 +678,7 @@ export function RateAndContribute({ rinkId, rinkName, onSummaryUpdate, isLoggedI
             {(['tournament', 'regular'] as const).map(ctx => (
               <button
                 key={ctx}
-                onClick={() => { setRatingContext(ctx); localStorage.setItem('coldstart_rating_context', ctx); }}
+                onClick={() => { setRatingContext(ctx); storage.setRatingContext(ctx); }}
                 style={{
                   fontSize: 11, fontWeight: ratingContext === ctx ? 600 : 400,
                   padding: '4px 10px', borderRadius: 6, border: 'none', cursor: 'pointer',
@@ -753,7 +722,7 @@ export function RateAndContribute({ rinkId, rinkName, onSummaryUpdate, isLoggedI
             {(['tournament', 'regular'] as const).map(ctx => (
               <button
                 key={ctx}
-                onClick={() => { setRatingContext(ctx); localStorage.setItem('coldstart_rating_context', ctx); }}
+                onClick={() => { setRatingContext(ctx); storage.setRatingContext(ctx); }}
                 style={{
                   fontSize: 11, fontWeight: ratingContext === ctx ? 600 : 400,
                   padding: '4px 10px', borderRadius: 6, border: 'none', cursor: 'pointer',

@@ -4,6 +4,7 @@ import { useEffect, useState } from 'react';
 import { useParams, useRouter } from 'next/navigation';
 import { US_STATES, SIGNAL_ICONS } from '../../../lib/constants';
 import { Logo } from '../../../components/Logo';
+import { LoadingSkeleton } from '../../../components/LoadingSkeleton';
 
 interface SeedRink {
   id: string;
@@ -33,16 +34,23 @@ export default function StatePage() {
   const [search, setSearch] = useState('');
 
   useEffect(() => {
-    Promise.all([
-      fetch('/data/rinks.json').then(r => r.ok ? r.json() : []),
-      fetch('/data/signals.json').then(r => r.ok ? r.json() : {}),
-    ]).then(([allRinks, allSignals]) => {
-      const stateRinks = allRinks
-        .filter((r: SeedRink) => r.state === code)
-        .sort((a: SeedRink, b: SeedRink) => a.name.localeCompare(b.name));
-      setRinks(stateRinks);
-      setSignals(allSignals);
-    }).catch(() => {}).finally(() => setLoading(false));
+    async function loadData() {
+      try {
+        const [rinksRes, signalsRes] = await Promise.all([
+          fetch('/data/rinks.json'),
+          fetch('/data/signals.json'),
+        ]);
+        const allRinks = rinksRes.ok ? await rinksRes.json() : [];
+        const allSignals = signalsRes.ok ? await signalsRes.json() : {};
+        const stateRinks = allRinks
+          .filter((r: SeedRink) => r.state === code)
+          .sort((a: SeedRink, b: SeedRink) => a.name.localeCompare(b.name));
+        setRinks(stateRinks);
+        setSignals(allSignals);
+      } catch {}
+      setLoading(false);
+    }
+    loadData();
   }, [code]);
 
   const filtered = search.length >= 2
@@ -89,7 +97,7 @@ export default function StatePage() {
           {stateName}
         </h1>
         <p style={{ fontSize: 14, color: '#6b7280', marginTop: 6 }}>
-          {loading ? 'Loading...' : `${rinks.length} rink${rinks.length !== 1 ? 's' : ''}`}
+          {loading ? '' : `${rinks.length} rink${rinks.length !== 1 ? 's' : ''}`}
         </p>
 
         {rinks.length > 10 && (
@@ -105,6 +113,7 @@ export default function StatePage() {
           />
         )}
 
+        {loading && <LoadingSkeleton variant="list" />}
         {!loading && (
           <div style={{ display: 'flex', flexDirection: 'column', gap: 10, marginTop: 20 }}>
             {filtered.map(rink => {

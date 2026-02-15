@@ -2,17 +2,20 @@
 
 import { useEffect, useState, useRef, useCallback } from 'react';
 import { useParams, useRouter } from 'next/navigation';
-import { SIGNAL_ORDER, API_URL, SignalType } from '../../../lib/constants';
+import { SIGNAL_ORDER, SignalType } from '../../../lib/constants';
 import { Logo } from '../../../components/Logo';
 import { Signal, Tip, RinkSummary, Rink, RinkDetail } from '../../../lib/rinkTypes';
 import { RINK_STREAMING, RINK_HOME_TEAMS, NearbyPlace } from '../../../lib/seedData';
-import { getVerdictColor, getVerdictBg, timeAgo, ensureAllSignals, getRinkSlug, getNearbyPlaces } from '../../../lib/rinkHelpers';
+import { getVerdictColor, getVerdictBg, timeAgo, ensureAllSignals, getRinkSlug, getNearbyPlaces, buildRinkDetailFromSeed } from '../../../lib/rinkHelpers';
 import { SignalBar } from '../../../components/rink/SignalBar';
 import { TipCard } from '../../../components/rink/TipCard';
 import { NearbySection } from '../../../components/rink/NearbySection';
 import { RateAndContribute } from '../../../components/rink/ContributeFlow';
 import { ClaimRinkCTA } from '../../../components/rink/ClaimRinkCTA';
 import { SaveRinkButton } from '../../../components/rink/SaveRinkButton';
+import { apiGet } from '../../../lib/api';
+import { storage } from '../../../lib/storage';
+import { LoadingSkeleton } from '../../../components/LoadingSkeleton';
 
 // ── Main Page ──
 export default function RinkPage() {
@@ -40,16 +43,13 @@ export default function RinkPage() {
   const [showAuthModal, setShowAuthModal] = useState(false);
 
   useEffect(() => {
-    try {
-      const u = localStorage.getItem('coldstart_current_user');
-      if (u) setCurrentUser(JSON.parse(u));
-    } catch {}
+    const u = storage.getCurrentUser();
+    if (u) setCurrentUser(u);
   }, []);
 
   // Seed place tips for demo rinks (once)
   useEffect(() => {
-    const seeded = localStorage.getItem('coldstart_place_tips_seeded');
-    if (seeded) return;
+    if (storage.getPlaceTipsSeeded()) return;
     const seeds: Record<string, { text: string; author: string }[]> = {
       'coldstart_place_tips_bww_Applebee_s': [
         { text: "Can seat 30, call ahead and ask for the back room", author: "Mike B." },
@@ -65,29 +65,31 @@ export default function RinkPage() {
       ],
     };
     for (const [key, tips] of Object.entries(seeds)) {
-      if (!localStorage.getItem(key)) {
-        localStorage.setItem(key, JSON.stringify(tips.map(t => ({ ...t, date: '2026-02-10T12:00:00Z' }))));
+      const existing = storage.getPlaceTips(
+        key.replace('coldstart_place_tips_', '').split('_')[0],
+        key.replace(/coldstart_place_tips_[^_]+_/, '')
+      );
+      if (existing.length === 0) {
+        try {
+          localStorage.setItem(key, JSON.stringify(tips.map(t => ({ ...t, date: '2026-02-10T12:00:00Z' }))));
+        } catch {}
       }
     }
-    localStorage.setItem('coldstart_place_tips_seeded', '1');
+    storage.setPlaceTipsSeeded('1');
   }, []);
 
   // Track rink views for post-visit prompt
   useEffect(() => {
     if (!rinkId) return;
-    try {
-      const key = `coldstart_viewed_${rinkId}`;
-      const prev = localStorage.getItem(key);
-      if (prev) {
-        // They've seen this rink page before — show return prompt
-        const prevDate = new Date(prev);
-        const hoursSince = (Date.now() - prevDate.getTime()) / (1000 * 60 * 60);
-        if (hoursSince > 2) { // Only show if >2 hours since last view (they probably went to the rink)
-          setShowReturnPrompt(true);
-        }
+    const prev = storage.getRinkViewed(rinkId);
+    if (prev) {
+      const prevDate = new Date(prev);
+      const hoursSince = (Date.now() - prevDate.getTime()) / (1000 * 60 * 60);
+      if (hoursSince > 2) {
+        setShowReturnPrompt(true);
       }
-      localStorage.setItem(key, new Date().toISOString());
-    } catch {}
+    }
+    storage.setRinkViewed(rinkId, new Date().toISOString());
   }, [rinkId]);
 
   // Load nearby + signal seed data when rink detail is available
@@ -107,17 +109,21 @@ export default function RinkPage() {
 
   useEffect(() => {
     async function load() {
-      // Try backend first
-      try {
-        const res = await fetch(`${API_URL}/rinks/${rinkId}`);
-        const data = await res.json();
-        if (!res.ok) throw new Error(data.error?.message || 'Failed to load');
-        setDetail(data.data);
+      const { data, error: apiError } = await apiGet<RinkDetail>(`/rinks/${rinkId}`, {
+        seedPath: '/data/rinks.json',
+        transform: (rinks) => {
+          // Need signals too for the seed fallback
+          return null as unknown as RinkDetail; // handled below
+        },
+      });
+
+      if (data) {
+        setDetail(data);
         setLoading(false);
         return;
-      } catch {}
+      }
 
-      // Fall back to seed data
+      // Seed data fallback: load both rinks + signals
       try {
         const [rinksRes, signalsRes] = await Promise.all([
           fetch('/data/rinks.json'),
@@ -125,40 +131,13 @@ export default function RinkPage() {
         ]);
         if (!rinksRes.ok) throw new Error('No seed data');
         const rinks = await rinksRes.json();
-        const seedRink = rinks.find((r: any) => r.id === rinkId);
-        if (!seedRink) throw new Error('Rink not found');
-
         const signals = signalsRes.ok ? await signalsRes.json() : {};
-        const seedSignals = signals[rinkId] || {};
-        const signalArray: Signal[] = Object.entries(seedSignals).map(([key, val]: [string, any]) => ({
-          signal: key,
-          value: val.value,
-          confidence: val.confidence,
-          count: val.count,
-        }));
-
-        setDetail({
-          rink: {
-            id: seedRink.id,
-            name: seedRink.name,
-            address: seedRink.address || '',
-            city: seedRink.city || '',
-            state: seedRink.state || '',
-            latitude: seedRink.latitude || null,
-            longitude: seedRink.longitude || null,
-            created_at: new Date().toISOString(),
-          },
-          summary: {
-            rink_id: seedRink.id,
-            verdict: '',
-            signals: signalArray,
-            tips: [],
-            evidence_counts: {},
-            contribution_count: signalArray.reduce((sum: number, s: Signal) => sum + s.count, 0),
-            last_updated_at: null,
-            confirmed_this_season: false,
-          },
-        });
+        const built = buildRinkDetailFromSeed(rinkId, rinks, signals);
+        if (built) {
+          setDetail(built);
+        } else {
+          setError('Rink not found');
+        }
       } catch (e: any) {
         setError(e.message || 'Failed to load rink');
       } finally {
@@ -199,11 +178,15 @@ export default function RinkPage() {
       <div style={{
         minHeight: '100vh', background: '#fafbfc',
         fontFamily: "-apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif",
-        display: 'flex', alignItems: 'center', justifyContent: 'center',
       }}>
-        <div style={{ textAlign: 'center' }}>
-          <div style={{ fontSize: 13, color: '#9ca3af' }}>Loading rink...</div>
-        </div>
+        <nav style={{
+          display: 'flex', alignItems: 'center', padding: '14px 24px',
+          background: 'rgba(250,251,252,0.85)', backdropFilter: 'blur(12px)',
+          position: 'sticky', top: 0, zIndex: 50, borderBottom: '1px solid #f1f5f9',
+        }}>
+          <Logo size={36} />
+        </nav>
+        <LoadingSkeleton variant="page" />
       </div>
     );
   }
@@ -760,7 +743,7 @@ export default function RinkPage() {
             if (!email.trim()) return;
             setSending(true);
             setTimeout(() => {
-              const existing = JSON.parse(localStorage.getItem('coldstart_profiles') || '{}');
+              const existing = storage.getProfiles();
               let profile = existing[email.toLowerCase()];
               if (!profile) {
                 if (mode === 'signin') { setSending(false); setMode('signup'); return; }
@@ -772,9 +755,9 @@ export default function RinkPage() {
                   rinksRated: 0, tipsSubmitted: 0,
                 };
                 existing[email.toLowerCase()] = profile;
-                localStorage.setItem('coldstart_profiles', JSON.stringify(existing));
+                storage.setProfiles(existing);
               }
-              localStorage.setItem('coldstart_current_user', JSON.stringify(profile));
+              storage.setCurrentUser(profile);
               setSending(false); setSent(true);
               setTimeout(() => { setCurrentUser(profile); setShowAuthModal(false); }, 600);
             }, 800);

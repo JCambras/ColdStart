@@ -40,3 +40,12 @@ export interface RinkDetail {
   rink: Rink;
   summary: RinkSummary;
 }
+
+export interface UserProfile {
+  id: string;
+  email: string;
+  name: string;
+  createdAt: string;
+  rinksRated: number;
+  tipsSubmitted: number;
+}

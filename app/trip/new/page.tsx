@@ -3,15 +3,14 @@
 import { useState, useRef, useEffect, useCallback, Suspense } from 'react';
 import { useRouter, useSearchParams } from 'next/navigation';
 import { Logo } from '../../../components/Logo';
+import { apiGet } from '../../../lib/api';
+import { storage } from '../../../lib/storage';
 
 import { getVibe as _getVibe } from '../../vibe';
 const getVibe = () => {
   if (typeof window === 'undefined') return { log: () => {} };
   try { return _getVibe(); } catch { return { log: () => {} }; }
 };
-
-const API = process.env.NEXT_PUBLIC_API_URL || 'http://localhost:8080/api/v1';
-const DRAFT_KEY = 'coldstart_trip_draft';
 
 interface Game { id: string; day: string; time: string; opponent: string; sheet: string; note: string; }
 interface CostItem { id: string; label: string; amount: string; splitType: 'per-family' | 'per-player' | 'total'; }
@@ -165,10 +164,10 @@ function TripBuilderInner() {
   useEffect(() => {
     if (draftRestoredRef.current) return;
     draftRestoredRef.current = true;
-    try {
-      const raw = localStorage.getItem(DRAFT_KEY);
-      if (!raw) return;
-      const draft = JSON.parse(raw);
+    const raw = storage.getTripDraft();
+    {
+      const draft = raw as Record<string, any> | null;
+      if (!draft) return;
       if (draft.teamName) setTeamName(draft.teamName);
       if (draft.startDate) setStartDate(draft.startDate);
       if (draft.endDate) setEndDate(draft.endDate);
@@ -196,23 +195,21 @@ function TripBuilderInner() {
       if (draft.costItems?.some((c: CostItem) => c.label || c.amount)) autoExpand.costs = true;
       if (draft.notes) autoExpand.notes = true;
       setExpandedSections(autoExpand);
-    } catch {}
+    }
   }, [preselectedRinkId]);
 
   // ── Auto-save draft (debounced 500ms) ──
   const saveDraft = useCallback(() => {
     if (draftTimerRef.current) clearTimeout(draftTimerRef.current);
     draftTimerRef.current = setTimeout(() => {
-      try {
-        const draft = {
-          teamName, startDate, endDate, selectedRink, hotel, hotelCost,
-          lunch, lunchCost, dinner, dinnerCost, games, notes,
-          familyCount, costItems, collaborative, showCosts,
-        };
-        localStorage.setItem(DRAFT_KEY, JSON.stringify(draft));
-        setDraftStatus('saved');
-        setTimeout(() => setDraftStatus('idle'), 1500);
-      } catch {}
+      const draft = {
+        teamName, startDate, endDate, selectedRink, hotel, hotelCost,
+        lunch, lunchCost, dinner, dinnerCost, games, notes,
+        familyCount, costItems, collaborative, showCosts,
+      };
+      storage.setTripDraft(draft as Record<string, unknown>);
+      setDraftStatus('saved');
+      setTimeout(() => setDraftStatus('idle'), 1500);
     }, 500);
   }, [teamName, startDate, endDate, selectedRink, hotel, hotelCost, lunch, lunchCost, dinner, dinnerCost, games, notes, familyCount, costItems, collaborative, showCosts]);
 
@@ -224,34 +221,21 @@ function TripBuilderInner() {
 
   // Load all rinks for dropdown
   useEffect(() => {
-    // Try backend first, fall back to seed data
-    fetch(`${API}/rinks?limit=200`)
-      .then(r => r.json())
-      .then(data => {
-        const rinks = data.data?.rinks || data.data || [];
-        if (rinks.length > 0) {
-          setAllRinks(rinks);
-          if (preselectedRinkId && !selectedRink) {
-            const match = rinks.find((r: any) => r.id === preselectedRinkId);
-            if (match) setSelectedRink({ id: match.id, name: match.name, city: match.city, state: match.state });
-          }
-        } else {
-          throw new Error('empty');
-        }
-      })
-      .catch(() => {
-        // Fall back to seed data
-        fetch('/data/rinks.json')
-          .then(r => r.ok ? r.json() : [])
-          .then(rinks => {
-            if (rinks.length > 0) setAllRinks(rinks);
-            if (preselectedRinkId && !selectedRink) {
-              const match = rinks.find((r: any) => r.id === preselectedRinkId);
-              if (match) setSelectedRink({ id: match.id, name: match.name, city: match.city, state: match.state });
-            }
-          })
-          .catch(() => {});
+    async function loadRinks() {
+      const { data } = await apiGet<any[]>('/rinks?limit=200', {
+        seedPath: '/data/rinks.json',
+        transform: (raw) => raw as any[],
       });
+      const rinks = Array.isArray(data) ? data : (data as any)?.rinks || [];
+      if (rinks.length > 0) {
+        setAllRinks(rinks);
+        if (preselectedRinkId && !selectedRink) {
+          const match = rinks.find((r: any) => r.id === preselectedRinkId);
+          if (match) setSelectedRink({ id: match.id, name: match.name, city: match.city, state: match.state });
+        }
+      }
+    }
+    loadRinks();
   }, [preselectedRinkId]); // eslint-disable-line react-hooks/exhaustive-deps
 
   // Load nearby data when rink is selected
@@ -307,10 +291,10 @@ function TripBuilderInner() {
       additions: [] as any[],
       createdAt: new Date().toISOString(),
     };
-    const trips = JSON.parse(localStorage.getItem('coldstart_trips') || '{}');
+    const trips = storage.getTrips();
     trips[trip.id] = trip;
-    localStorage.setItem('coldstart_trips', JSON.stringify(trips));
-    localStorage.removeItem(DRAFT_KEY);
+    storage.setTrips(trips);
+    storage.setTripDraft(null);
     try { getVibe().log('trip_create', { tripId: trip.id, rinkId: selectedRink.id, fieldCount: Object.values(trip).filter(v => v && v !== '').length }); } catch {}
     router.push(`/trip/${trip.id}`);
   }
