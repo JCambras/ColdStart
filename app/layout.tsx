@@ -4,7 +4,7 @@ import BottomTabBar from './BottomTabBar';
 import { ClientProviders } from '../components/ClientProviders';
 
 export const metadata: Metadata = {
-  title: 'ColdStart Hockey — Know the rink before you get there',
+  title: { default: 'ColdStart Hockey — Know the rink before you get there', template: '%s | ColdStart Hockey' },
   description:
     'Real conditions from hockey parents who have been there. Parking, cold, food, chaos — summarized in seconds.',
   openGraph: {

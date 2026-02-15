@@ -2,7 +2,6 @@
 
 import { useState, useEffect, useRef } from 'react';
 import { useRouter } from 'next/navigation';
-import { API_URL } from '../lib/constants';
 import { PageShell } from '../components/PageShell';
 import { apiGet } from '../lib/api';
 import { storage } from '../lib/storage';
@@ -12,6 +11,9 @@ import { useAuth } from '../contexts/AuthContext';
 import { RinkCard, RinkData } from '../components/RinkCard';
 import { StateDropdown } from '../components/StateDropdown';
 import { ProfileDropdown } from '../components/ProfileDropdown';
+import { HeroSearch } from '../components/home/HeroSearch';
+import { HowItWorks } from '../components/home/HowItWorks';
+import { RinkRequestForm } from '../components/home/RinkRequestForm';
 
 
 const FEATURED_SEARCHES = [
@@ -31,8 +33,6 @@ export default function HomePage() {
   const [searchResults, setSearchResults] = useState<RinkData[] | null>(null);
   const [totalRinks, setTotalRinks] = useState(0);
   const searchRef = useRef<HTMLInputElement>(null);
-  const [rinkRequestEmail, setRinkRequestEmail] = useState('');
-  const [rinkRequestSent, setRinkRequestSent] = useState(false);
   const [savedRinkIds, setSavedRinkIds] = useState<string[]>([]);
   const [savedRinks, setSavedRinks] = useState<RinkData[]>([]);
 
@@ -118,7 +118,6 @@ export default function HomePage() {
   useEffect(() => {
     if (!query.trim()) {
       setSearchResults(null);
-      setRinkRequestSent(false);
       return;
     }
     const timeout = setTimeout(async () => {
@@ -140,10 +139,17 @@ export default function HomePage() {
   const displayRinks = searchResults !== null ? searchResults : rinks;
   const showCarousel = searchResults === null && rinks.length > 0;
 
+  function handleClearSearch() {
+    setQuery('');
+    setSearchResults(null);
+    searchRef.current?.focus();
+  }
+
   const navRightContent = (
     <>
       <button
         onClick={() => router.push('/calendar')}
+        aria-label="Tournaments"
         style={{
           fontSize: text.md, fontWeight: 600, color: colors.warning,
           background: colors.bgWarning, border: `1px solid ${colors.warningBorder}`,
@@ -170,6 +176,7 @@ export default function HomePage() {
       {isLoggedIn && currentUser ? (
         <button
           onClick={() => setShowProfileDropdown(true)}
+          aria-label="Profile menu"
           style={{
             width: 34, height: 34, borderRadius: '50%',
             background: 'linear-gradient(135deg, #0ea5e9, #3b82f6)',
@@ -203,81 +210,17 @@ export default function HomePage() {
       navRight={navRightContent}
     >
       {/* ── Hero + Search ── */}
-      <section style={{
-        maxWidth: 700, margin: '0 auto',
-        padding: 'clamp(40px, 8vw, 80px) 24px 24px', textAlign: 'center',
-      }}>
-        <h1 style={{
-          fontSize: 'clamp(32px, 6vw, 52px)',
-          fontWeight: 700, color: colors.textPrimary,
-          lineHeight: 1.08, letterSpacing: -1,
-        }}>
-          Scout the rink before you go.
-        </h1>
-        <p style={{
-          fontSize: 17, color: colors.textTertiary, lineHeight: 1.5,
-          marginTop: 16,
-          marginLeft: 'auto', marginRight: 'auto',
-        }}>
-          Parking, temp, food, and tips — from parents who were just there.
-        </p>
-
-        {/* ── Search Bar ── */}
-        <div style={{
-          position: 'relative', maxWidth: 560,
-          margin: '32px auto 0',
-        }}>
-          <svg
-            style={{
-              position: 'absolute', left: 20, top: '50%', transform: 'translateY(-50%)',
-              width: 20, height: 20, color: searchFocused ? colors.brand : colors.textMuted,
-              transition: 'color 0.2s',
-            }}
-            viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2"
-          >
-            <circle cx="11" cy="11" r="8" />
-            <path d="m21 21-4.35-4.35" />
-          </svg>
-          <input
-            ref={searchRef}
-            value={query}
-            onChange={(e) => setQuery(e.target.value)}
-            placeholder="Search by rink name, city, or state..."
-            onFocus={() => setSearchFocused(true)}
-            onBlur={() => setSearchFocused(false)}
-            style={{
-              width: '100%',
-              padding: '16px 20px 16px 52px',
-              fontSize: 17,
-              border: `2px solid ${searchFocused ? colors.brand : colors.borderDefault}`,
-              borderRadius: 16,
-              outline: 'none',
-              background: colors.white,
-              color: colors.textPrimary,
-              transition: 'all 0.25s ease',
-              boxShadow: searchFocused
-                ? '0 0 0 4px rgba(14,165,233,0.1), 0 8px 24px rgba(0,0,0,0.06)'
-                : '0 2px 8px rgba(0,0,0,0.04)',
-              fontFamily: 'inherit',
-            }}
-          />
-          {query && (
-            <button
-              onClick={() => { setQuery(''); setSearchResults(null); searchRef.current?.focus(); }}
-              style={{
-                position: 'absolute', right: 16, top: '50%', transform: 'translateY(-50%)',
-                background: 'none', border: 'none', cursor: 'pointer',
-                fontSize: 16, color: colors.textMuted, padding: 4,
-              }}
-            >
-              ✕
-            </button>
-          )}
-        </div>
-        <p style={{ fontSize: text.sm, color: '#b0b7c3', marginTop: 10 }}>
-          {totalRinks > 0 ? `${totalRinks} rinks across ${stateCount} states` : ''}
-        </p>
-      </section>
+      <HeroSearch
+        query={query}
+        onQueryChange={setQuery}
+        searchFocused={searchFocused}
+        onSearchFocus={() => setSearchFocused(true)}
+        onSearchBlur={() => setSearchFocused(false)}
+        searchRef={searchRef}
+        totalRinks={totalRinks}
+        stateCount={stateCount}
+        onClearSearch={handleClearSearch}
+      />
 
       {/* ── Rink Cards — carousel or search results ── */}
       <section style={{ maxWidth: 750, margin: '0 auto', padding: '24px 24px 32px' }}>
@@ -342,54 +285,7 @@ export default function HomePage() {
             <p style={{ fontSize: 16, fontWeight: 600, color: colors.textPrimary, margin: 0 }}>
               No rinks found for &ldquo;{query}&rdquo;
             </p>
-            {rinkRequestSent ? (
-              <div style={{ marginTop: 16, padding: '16px 20px', background: colors.bgSuccess, border: `1px solid ${colors.successBorder}`, borderRadius: 12 }}>
-                <p style={{ fontSize: text.base, fontWeight: 600, color: colors.success, margin: 0 }}>Got it!</p>
-                <p style={{ fontSize: text.md, color: colors.textTertiary, marginTop: 4 }}>
-                  We&apos;ll add &ldquo;{query}&rdquo; and email you when it&apos;s live.
-                </p>
-              </div>
-            ) : (
-              <>
-                <p style={{ fontSize: text.base, color: colors.textTertiary, marginTop: 8, lineHeight: 1.5 }}>
-                  Know a rink we&apos;re missing? Drop your email and we&apos;ll add it.
-                </p>
-                <div style={{ display: 'flex', gap: 8, marginTop: 16 }}>
-                  <input
-                    value={rinkRequestEmail}
-                    onChange={(e) => setRinkRequestEmail(e.target.value)}
-                    placeholder="your@email.com"
-                    type="email"
-                    autoComplete="email"
-                    style={{
-                      flex: 1, fontSize: text.base, padding: '10px 14px',
-                      border: `1px solid ${colors.borderDefault}`, borderRadius: 10,
-                      outline: 'none', fontFamily: 'inherit', color: colors.textPrimary,
-                    }}
-                    onFocus={(e) => { e.currentTarget.style.borderColor = colors.brand; }}
-                    onBlur={(e) => { e.currentTarget.style.borderColor = colors.borderDefault; }}
-                  />
-                  <button
-                    onClick={() => {
-                      if (!rinkRequestEmail.trim()) return;
-                      const requests = storage.getRinkRequests();
-                      requests.push({ query, email: rinkRequestEmail.trim(), timestamp: new Date().toISOString() });
-                      storage.setRinkRequests(requests);
-                      setRinkRequestSent(true);
-                    }}
-                    disabled={!rinkRequestEmail.trim()}
-                    style={{
-                      fontSize: text.base, fontWeight: 600, color: rinkRequestEmail.trim() ? colors.white : colors.textMuted,
-                      background: rinkRequestEmail.trim() ? colors.brand : colors.borderDefault,
-                      border: 'none', borderRadius: 10, padding: '10px 20px',
-                      cursor: 'pointer', whiteSpace: 'nowrap', transition: 'all 0.2s',
-                    }}
-                  >
-                    Notify me
-                  </button>
-                </div>
-              </>
-            )}
+            <RinkRequestForm query={query} />
           </div>
         ) : (
           /* Loading skeleton */
@@ -399,7 +295,7 @@ export default function HomePage() {
 
       {/* ── My Rinks (saved) ── */}
       {savedRinks.length > 0 && (
-        <section id="my-rinks-section" style={{ maxWidth: 800, margin: '0 auto', padding: '32px 24px 0' }}>
+        <section id="my-rinks-section" aria-label="Saved rinks" style={{ maxWidth: 800, margin: '0 auto', padding: '32px 24px 0' }}>
           <h3 style={{
             fontSize: text.md, fontWeight: 600, color: colors.textMuted,
             textTransform: 'uppercase', letterSpacing: 1.5, marginBottom: 16,
@@ -411,7 +307,10 @@ export default function HomePage() {
             {savedRinks.map((rink) => (
               <div
                 key={rink.id}
+                role="button"
+                tabIndex={0}
                 onClick={() => router.push(`/rinks/${rink.id}`)}
+                onKeyDown={(e) => { if (e.key === 'Enter' || e.key === ' ') { e.preventDefault(); router.push(`/rinks/${rink.id}`); } }}
                 style={{
                   display: 'flex', alignItems: 'center', justifyContent: 'space-between',
                   padding: '14px 20px', background: colors.white, border: `1px solid ${colors.borderDefault}`,
@@ -442,6 +341,7 @@ export default function HomePage() {
                       setSavedRinks(savedRinks.filter(r => r.id !== rink.id));
                       storage.setSavedRinks(updated);
                     }}
+                    aria-label={`Remove ${rink.name} from saved rinks`}
                     style={{
                       fontSize: text.xs, color: colors.textMuted, background: 'none', border: 'none',
                       cursor: 'pointer', padding: '4px',
@@ -457,42 +357,7 @@ export default function HomePage() {
       )}
 
       {/* ── How it works ── */}
-      <section style={{ maxWidth: 640, margin: '0 auto', padding: '60px 24px 40px' }}>
-        <h2 style={{
-          fontSize: 28, fontWeight: 700, color: colors.textPrimary,
-          textAlign: 'center', marginBottom: 28, letterSpacing: -0.5,
-        }}>
-          How it works
-        </h2>
-
-        {[
-          { num: '01', title: 'Search for a rink', desc: 'By name, city, or state. New rinks added weekly.' },
-          { num: '02', title: 'Get the parent verdict', desc: 'Parking, cold, food, chaos — rated and summarized by parents who were just there.' },
-          { num: '03', title: 'Drop a tip or rate a signal', desc: 'Takes 10 seconds. Your info updates the summary instantly for the next family.' },
-          { num: '04', title: 'Share with the team', desc: 'Send the link to your group chat. Better info = fewer surprises on game day.' },
-        ].map((step, i) => (
-          <div key={step.num} style={{
-            display: 'flex', gap: 20, alignItems: 'flex-start',
-            padding: '16px 0',
-            borderBottom: i < 3 ? `1px solid ${colors.borderLight}` : 'none',
-          }}>
-            <span style={{
-              fontSize: 32, fontWeight: 700, color: colors.borderDefault, lineHeight: 1,
-              flexShrink: 0, width: 40,
-            }}>
-              {step.num}
-            </span>
-            <div>
-              <h3 style={{ fontSize: 16, fontWeight: 600, color: colors.textPrimary, margin: 0 }}>
-                {step.title}
-              </h3>
-              <p style={{ fontSize: text.base, color: colors.textTertiary, lineHeight: 1.55, marginTop: 4 }}>
-                {step.desc}
-              </p>
-            </div>
-          </div>
-        ))}
-      </section>
+      <HowItWorks />
 
       {/* ── Tagline ── */}
       <section style={{ textAlign: 'center', padding: '40px 24px 48px' }}>

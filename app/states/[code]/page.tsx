@@ -90,6 +90,7 @@ export default function StatePage() {
           <input
             value={search}
             onChange={(e) => setSearch(e.target.value)}
+            aria-label="Filter rinks"
             placeholder="Filter by name or city..."
             style={{
               width: '100%', padding: '10px 14px', fontSize: 14,
@@ -109,7 +110,10 @@ export default function StatePage() {
               return (
                 <div
                   key={rink.id}
+                  role="button"
+                  tabIndex={0}
                   onClick={() => router.push(`/rinks/${rink.id}`)}
+                  onKeyDown={(e) => { if (e.key === 'Enter' || e.key === ' ') { e.preventDefault(); router.push(`/rinks/${rink.id}`); } }}
                   style={{
                     display: 'flex', alignItems: 'center', justifyContent: 'space-between',
                     padding: '14px 18px', background: colors.white, border: `1px solid ${colors.borderDefault}`,

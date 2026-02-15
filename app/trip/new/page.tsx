@@ -6,7 +6,10 @@ import { PageShell } from '../../../components/PageShell';
 import { apiGet, seedGet } from '../../../lib/api';
 import { storage } from '../../../lib/storage';
 import { getRinkSlug } from '../../../lib/rinkHelpers';
-import { colors, text, radius } from '../../../lib/theme';
+import { colors, text } from '../../../lib/theme';
+import { CollapsibleSection } from '../../../components/trip/CollapsibleSection';
+import { NearbyPicker } from '../../../components/trip/NearbyPicker';
+import { Game, CostItem, NearbyPlace, NearbyData } from '../../../types/trip';
 
 import { getVibe as _getVibe } from '../../vibe';
 const getVibe = () => {
@@ -14,10 +17,6 @@ const getVibe = () => {
   try { return _getVibe(); } catch { return { log: () => {} }; }
 };
 
-interface Game { id: string; day: string; time: string; opponent: string; sheet: string; note: string; }
-interface CostItem { id: string; label: string; amount: string; splitType: 'per-family' | 'per-player' | 'total'; }
-interface NearbyPlace { name: string; distance: string; url: string; isFar?: boolean; }
-interface NearbyData { [category: string]: NearbyPlace[]; }
 interface RinkListItem { id: string; name: string; city: string; state: string; }
 interface TripDraft {
   teamName?: string;
@@ -39,96 +38,6 @@ interface TripDraft {
   showCosts?: boolean;
 }
 interface TripAddition { text: string; author: string; timestamp: string; }
-
-function NearbyPicker({ label, icon, places, selected, onSelect, onClear, costValue, onCostChange }: {
-  label: string; icon: string; places: NearbyPlace[]; selected: NearbyPlace | null;
-  onSelect: (p: NearbyPlace) => void; onClear: () => void; costValue: string; onCostChange: (v: string) => void;
-}) {
-  const [open, setOpen] = useState(false);
-  return (
-    <div>
-      <label style={{ fontSize: 12, fontWeight: 600, color: colors.textSecondary, display: 'block', marginBottom: 4 }}>{icon} {label}</label>
-      {selected ? (
-        <div style={{ border: `1px solid ${colors.brandLight}`, background: colors.bgInfo, borderRadius: 10, padding: '10px 14px' }}>
-          <div style={{ display: 'flex', alignItems: 'center', justifyContent: 'space-between' }}>
-            <div>
-              <div style={{ fontSize: 14, fontWeight: 600, color: colors.brandDeep }}>{selected.name}</div>
-              <div style={{ display: 'flex', gap: 8, alignItems: 'center', marginTop: 2 }}>
-                <span style={{ fontSize: 12, color: colors.textTertiary }}>{selected.distance}</span>
-                <a href={selected.url} target="_blank" rel="noopener noreferrer"
-                  style={{ fontSize: 12, color: colors.brand, textDecoration: 'none', fontWeight: 500 }}>
-                  Directions ↗
-                </a>
-              </div>
-            </div>
-            <button onClick={() => { onClear(); setOpen(false); }} style={{ fontSize: 11, color: colors.textMuted, background: 'none', border: 'none', cursor: 'pointer' }}>Change</button>
-          </div>
-          <input value={costValue} onChange={(e) => onCostChange(e.target.value)}
-            placeholder="💲 Budget (optional)" style={{ width: '100%', padding: '6px 10px', fontSize: 12, border: `1px solid ${colors.borderMedium}`, borderRadius: 8, outline: 'none', boxSizing: 'border-box' as const, marginTop: 8 }} />
-        </div>
-      ) : places.length > 0 ? (
-        <div>
-          <button onClick={() => setOpen(!open)} style={{
-            width: '100%', padding: '10px 14px', fontSize: 13, color: colors.textTertiary,
-            background: colors.white, border: `1px solid ${colors.borderMedium}`, borderRadius: 10,
-            cursor: 'pointer', textAlign: 'left',
-          }}>
-            Choose from nearby places ▾
-          </button>
-          {open && (
-            <div style={{ border: `1px solid ${colors.borderDefault}`, borderRadius: 10, overflow: 'hidden', maxHeight: 200, overflowY: 'auto', marginTop: 4 }}>
-              {places.map((p, i) => (
-                <div key={i} onClick={() => { onSelect(p); setOpen(false); }}
-                  style={{ padding: '8px 14px', cursor: 'pointer', borderBottom: `1px solid ${colors.borderLight}`, background: colors.white, display: 'flex', justifyContent: 'space-between', alignItems: 'center' }}
-                  onMouseEnter={(e) => (e.currentTarget.style.background = colors.bgInfo)}
-                  onMouseLeave={(e) => (e.currentTarget.style.background = colors.white)}
-                >
-                  <span style={{ fontSize: 13, fontWeight: 500, color: colors.textPrimary }}>{p.name}</span>
-                  <span style={{ fontSize: 11, color: colors.textMuted, flexShrink: 0, marginLeft: 8 }}>{p.distance}</span>
-                </div>
-              ))}
-            </div>
-          )}
-        </div>
-      ) : (
-        <div style={{ padding: '10px 14px', fontSize: 13, color: colors.textMuted, border: `1px dashed ${colors.borderDefault}`, borderRadius: 10, textAlign: 'center' }}>
-          Select a rink first to see nearby options
-        </div>
-      )}
-    </div>
-  );
-}
-
-function CollapsibleSection({ title, icon, expanded, onToggle, children }: {
-  title: string; icon: string; expanded: boolean; onToggle: () => void; children: React.ReactNode;
-}) {
-  return (
-    <div style={{ background: colors.white, border: `1px solid ${colors.borderDefault}`, borderRadius: 12, overflow: 'hidden' }}>
-      <button
-        onClick={onToggle}
-        style={{
-          width: '100%', display: 'flex', alignItems: 'center', justifyContent: 'space-between',
-          padding: '14px 16px', background: 'none', border: 'none', cursor: 'pointer',
-        }}
-      >
-        <span style={{ fontSize: 14, fontWeight: 600, color: colors.textPrimary }}>
-          {icon} {title}
-        </span>
-        <span style={{
-          fontSize: 14, color: colors.textMuted, transition: 'transform 0.2s',
-          transform: expanded ? 'rotate(180deg)' : 'none', display: 'inline-block',
-        }}>
-          ▾
-        </span>
-      </button>
-      {expanded && (
-        <div style={{ padding: '0 16px 16px' }}>
-          {children}
-        </div>
-      )}
-    </div>
-  );
-}
 
 function TripBuilderInner() {
   const router = useRouter();
@@ -157,17 +66,12 @@ function TripBuilderInner() {
   const [costItems, setCostItems] = useState<CostItem[]>([
     { id: 'c1', label: '', amount: '', splitType: 'total' },
   ]);
-  // Draft status
   const [draftStatus, setDraftStatus] = useState<'idle' | 'saving' | 'saved'>('idle');
   const draftTimerRef = useRef<ReturnType<typeof setTimeout> | null>(null);
   const draftRestoredRef = useRef(false);
 
-  // Progressive disclosure
   const [expandedSections, setExpandedSections] = useState<Record<string, boolean>>({
-    games: false,
-    lodging: false,
-    costs: false,
-    notes: false,
+    games: false, lodging: false, costs: false, notes: false,
   });
 
   const canShowOptional = !!(teamName.trim() && selectedRink);
@@ -187,9 +91,7 @@ function TripBuilderInner() {
       if (draft.teamName) setTeamName(draft.teamName);
       if (draft.startDate) setStartDate(draft.startDate);
       if (draft.endDate) setEndDate(draft.endDate);
-      // Legacy: support old single "dates" field from previous drafts
       if (!draft.startDate && draft.dates) setStartDate(draft.dates);
-      // preselectedRinkId takes precedence over draft rink
       if (!preselectedRinkId && draft.selectedRink) setSelectedRink(draft.selectedRink);
       if (draft.hotel) setHotel(typeof draft.hotel === 'string' ? null : draft.hotel);
       if (draft.hotelCost) setHotelCost(draft.hotelCost);
@@ -204,7 +106,6 @@ function TripBuilderInner() {
       if (draft.costItems?.length) setCostItems(draft.costItems);
       if (typeof draft.collaborative === 'boolean') setCollaborative(draft.collaborative);
 
-      // Auto-expand sections that have data from draft
       const autoExpand: Record<string, boolean> = { games: false, lodging: false, costs: false, notes: false };
       if (draft.games?.some((g: Game) => g.opponent || g.time)) autoExpand.games = true;
       if (draft.hotel || draft.hotelCost || draft.lunch || draft.lunchCost || draft.dinner || draft.dinnerCost || (typeof draft.hotel === 'object' && draft.hotel)) autoExpand.lodging = true;
@@ -230,7 +131,6 @@ function TripBuilderInner() {
   }, [teamName, startDate, endDate, selectedRink, hotel, hotelCost, lunch, lunchCost, dinner, dinnerCost, games, notes, familyCount, costItems, collaborative, showCosts]);
 
   useEffect(() => {
-    // Don't save on first render (draft restore)
     if (!draftRestoredRef.current) return;
     saveDraft();
   }, [saveDraft]);
@@ -334,18 +234,16 @@ function TripBuilderInner() {
 
         <div style={{ display: 'flex', flexDirection: 'column', gap: 16, marginTop: 24 }}>
           {/* ── Always visible: Team name, Dates, Rink ── */}
-          {/* Team name */}
           <div>
             <label style={labelStyle}>Team name *</label>
-            <input value={teamName} onChange={(e) => setTeamName(e.target.value)} placeholder="e.g. South Jersey Bandits 12U AA" style={inputStyle} />
+            <input value={teamName} onChange={(e) => setTeamName(e.target.value)} placeholder="e.g. South Jersey Bandits 12U AA" aria-label="Team name" style={inputStyle} />
           </div>
-          {/* Dates */}
           <div>
             <label style={labelStyle}>Dates</label>
             <div style={{ display: 'flex', gap: 8, alignItems: 'center' }}>
-              <input type="date" value={startDate} onChange={(e) => setStartDate(e.target.value)} style={{ ...inputStyle, flex: 1 }} />
+              <input type="date" value={startDate} onChange={(e) => setStartDate(e.target.value)} aria-label="Start date" style={{ ...inputStyle, flex: 1 }} />
               <span style={{ fontSize: 13, color: colors.textMuted, flexShrink: 0 }}>to</span>
-              <input type="date" value={endDate} onChange={(e) => setEndDate(e.target.value)} style={{ ...inputStyle, flex: 1 }} />
+              <input type="date" value={endDate} onChange={(e) => setEndDate(e.target.value)} aria-label="End date" style={{ ...inputStyle, flex: 1 }} />
             </div>
           </div>
           {/* Rink search + state filter */}
@@ -357,7 +255,7 @@ function TripBuilderInner() {
                   <div style={{ fontSize: 14, fontWeight: 600, color: colors.brandDeep }}>{selectedRink.name}</div>
                   <div style={{ fontSize: 12, color: colors.textTertiary }}>{selectedRink.city}, {selectedRink.state}</div>
                 </div>
-                <button onClick={() => { setSelectedRink(null); setRinkSearch(''); }} style={{ fontSize: 12, color: colors.textMuted, background: 'none', border: 'none', cursor: 'pointer' }}>Change</button>
+                <button onClick={() => { setSelectedRink(null); setRinkSearch(''); }} aria-label="Change rink" style={{ fontSize: 12, color: colors.textMuted, background: 'none', border: 'none', cursor: 'pointer' }}>Change</button>
               </div>
             ) : (
               <div>
@@ -366,11 +264,13 @@ function TripBuilderInner() {
                     value={rinkSearch}
                     onChange={(e) => setRinkSearch(e.target.value)}
                     placeholder="Search by rink name or city..."
+                    aria-label="Search rinks"
                     style={{ ...inputStyle, flex: 1 }}
                   />
                   <select
                     value={rinkStateFilter}
                     onChange={(e) => setRinkStateFilter(e.target.value)}
+                    aria-label="Filter by state"
                     style={{
                       ...inputStyle, width: 80, padding: '10px 8px',
                       color: rinkStateFilter ? colors.textPrimary : colors.textMuted,
@@ -395,11 +295,15 @@ function TripBuilderInner() {
                     .sort((a: RinkListItem, b: RinkListItem) => (a.name || '').localeCompare(b.name || ''))
                     .slice(0, 20);
                   return filtered.length > 0 ? (
-                    <div style={{ border: `1px solid ${colors.borderDefault}`, borderRadius: 10, overflow: 'hidden', maxHeight: 240, overflowY: 'auto' }}>
+                    <div role="listbox" aria-label="Rink search results" style={{ border: `1px solid ${colors.borderDefault}`, borderRadius: 10, overflow: 'hidden', maxHeight: 240, overflowY: 'auto' }}>
                       {filtered.map((r: RinkListItem) => (
                         <div
                           key={r.id}
+                          role="option"
+                          aria-selected={false}
+                          tabIndex={0}
                           onClick={() => { setSelectedRink({ id: r.id, name: r.name, city: r.city, state: r.state }); setRinkSearch(''); setRinkStateFilter(''); }}
+                          onKeyDown={(e) => { if (e.key === 'Enter' || e.key === ' ') { e.preventDefault(); setSelectedRink({ id: r.id, name: r.name, city: r.city, state: r.state }); setRinkSearch(''); setRinkStateFilter(''); } }}
                           style={{ padding: '10px 14px', cursor: 'pointer', borderBottom: `1px solid ${colors.borderLight}`, background: colors.white }}
                           onMouseEnter={(e) => (e.currentTarget.style.background = colors.bgInfo)}
                           onMouseLeave={(e) => (e.currentTarget.style.background = colors.white)}
@@ -457,17 +361,17 @@ function TripBuilderInner() {
                     <div key={game.id} style={{ display: 'flex', flexDirection: 'column', gap: 6, padding: idx > 0 ? '10px 0 0' : 0, borderTop: idx > 0 ? `1px solid ${colors.borderLight}` : 'none' }}>
                       <div style={{ display: 'flex', alignItems: 'center', justifyContent: 'space-between' }}>
                         <span style={{ fontSize: 11, fontWeight: 600, color: colors.textMuted }}>GAME {idx + 1}</span>
-                        {games.length > 1 && <button onClick={() => removeGame(game.id)} style={{ fontSize: 11, color: colors.textMuted, background: 'none', border: 'none', cursor: 'pointer' }}>✕ Remove</button>}
+                        {games.length > 1 && <button onClick={() => removeGame(game.id)} aria-label={`Remove game ${idx + 1}`} style={{ fontSize: 11, color: colors.textMuted, background: 'none', border: 'none', cursor: 'pointer' }}>✕ Remove</button>}
                       </div>
                       <div style={{ display: 'flex', gap: 8 }}>
-                        <input type="date" value={game.day} onChange={(e) => updateGame(game.id, 'day', e.target.value)} style={{ ...smallInputStyle, flex: 1 }} />
-                        <input type="time" value={game.time} onChange={(e) => updateGame(game.id, 'time', e.target.value)} style={{ ...smallInputStyle, flex: 1 }} />
+                        <input type="date" value={game.day} onChange={(e) => updateGame(game.id, 'day', e.target.value)} aria-label={`Game ${idx + 1} date`} style={{ ...smallInputStyle, flex: 1 }} />
+                        <input type="time" value={game.time} onChange={(e) => updateGame(game.id, 'time', e.target.value)} aria-label={`Game ${idx + 1} time`} style={{ ...smallInputStyle, flex: 1 }} />
                       </div>
                       <div style={{ display: 'flex', gap: 8 }}>
-                        <input value={game.opponent} onChange={(e) => updateGame(game.id, 'opponent', e.target.value)} placeholder="vs. Opponent" style={{ ...smallInputStyle, flex: 2 }} />
-                        <input value={game.sheet} onChange={(e) => updateGame(game.id, 'sheet', e.target.value)} placeholder="Sheet (e.g. Rink 3)" style={{ ...smallInputStyle, flex: 1 }} />
+                        <input value={game.opponent} onChange={(e) => updateGame(game.id, 'opponent', e.target.value)} placeholder="vs. Opponent" aria-label={`Game ${idx + 1} opponent`} style={{ ...smallInputStyle, flex: 2 }} />
+                        <input value={game.sheet} onChange={(e) => updateGame(game.id, 'sheet', e.target.value)} placeholder="Sheet (e.g. Rink 3)" aria-label={`Game ${idx + 1} sheet`} style={{ ...smallInputStyle, flex: 1 }} />
                       </div>
-                      <input value={game.note} onChange={(e) => updateGame(game.id, 'note', e.target.value)} placeholder="Note (e.g. use back entrance for Rink 3)" style={smallInputStyle} />
+                      <input value={game.note} onChange={(e) => updateGame(game.id, 'note', e.target.value)} placeholder="Note (e.g. use back entrance for Rink 3)" aria-label={`Game ${idx + 1} note`} style={smallInputStyle} />
                     </div>
                   ))}
                   <button onClick={addGame} style={{ fontSize: 12, fontWeight: 600, color: colors.brand, background: colors.bgInfo, border: `1px solid ${colors.brandLight}`, borderRadius: 8, padding: '8px 0', cursor: 'pointer', width: '100%' }}>+ Add another game</button>
@@ -520,6 +424,7 @@ function TripBuilderInner() {
               <div style={{ position: 'relative' }}>
                 <button
                   onClick={() => setShowCosts(false)}
+                  aria-label="Remove cost breakdown"
                   style={{
                     position: 'absolute', top: 10, right: 10, zIndex: 2,
                     width: 24, height: 24, borderRadius: '50%',
@@ -528,7 +433,6 @@ function TripBuilderInner() {
                     justifyContent: 'center', fontSize: 12, color: colors.textMuted,
                     lineHeight: 1,
                   }}
-                  title="Remove cost breakdown"
                 >✕</button>
               <CollapsibleSection
                 title="Cost breakdown"
@@ -540,6 +444,7 @@ function TripBuilderInner() {
                   <div style={{ display: 'flex', alignItems: 'center', gap: 8, marginBottom: 12 }}>
                     <span style={{ fontSize: 12, color: colors.textTertiary }}>Families on the team:</span>
                     <input value={familyCount} onChange={(e) => setFamilyCount(e.target.value.replace(/\D/g, ''))}
+                      aria-label="Number of families"
                       style={{ width: 50, padding: '4px 8px', fontSize: 14, fontWeight: 700, border: `1px solid ${colors.borderMedium}`, borderRadius: 6, textAlign: 'center', outline: 'none' }} />
                   </div>
                   <div style={{ display: 'flex', flexDirection: 'column', gap: 8 }}>
@@ -547,20 +452,23 @@ function TripBuilderInner() {
                       <div key={item.id} style={{ display: 'flex', gap: 6, alignItems: 'center' }}>
                         <input value={item.label} onChange={(e) => updateCostItem(item.id, 'label', e.target.value)}
                           placeholder={idx === 0 ? 'e.g. Tournament registration' : 'e.g. Extra ice time'}
+                          aria-label={`Cost item ${idx + 1} label`}
                           style={{ ...smallInputStyle, flex: 2 }} />
                         <div style={{ position: 'relative', flex: 1 }}>
                           <span style={{ position: 'absolute', left: 8, top: '50%', transform: 'translateY(-50%)', fontSize: 13, color: colors.textMuted }}>$</span>
                           <input value={item.amount} onChange={(e) => updateCostItem(item.id, 'amount', e.target.value.replace(/[^\d.]/g, ''))}
-                            placeholder="0" style={{ ...smallInputStyle, paddingLeft: 20 }} />
+                            placeholder="0" aria-label={`Cost item ${idx + 1} amount`}
+                            style={{ ...smallInputStyle, paddingLeft: 20 }} />
                         </div>
                         <select value={item.splitType} onChange={(e) => updateCostItem(item.id, 'splitType', e.target.value)}
+                          aria-label={`Cost item ${idx + 1} split type`}
                           style={{ padding: '6px 4px', fontSize: 11, border: `1px solid ${colors.borderMedium}`, borderRadius: 6, background: colors.white, color: colors.textSecondary }}>
                           <option value="total">Split evenly</option>
                           <option value="per-family">Per family</option>
                           <option value="per-player">Per player</option>
                         </select>
                         {costItems.length > 1 && (
-                          <button onClick={() => removeCostItem(item.id)} style={{ fontSize: 11, color: colors.textMuted, background: 'none', border: 'none', cursor: 'pointer', padding: '0 4px' }}>✕</button>
+                          <button onClick={() => removeCostItem(item.id)} aria-label={`Remove cost item ${idx + 1}`} style={{ fontSize: 11, color: colors.textMuted, background: 'none', border: 'none', cursor: 'pointer', padding: '0 4px' }}>✕</button>
                         )}
                       </div>
                     ))}
@@ -619,7 +527,7 @@ function TripBuilderInner() {
                 expanded={expandedSections.notes}
                 onToggle={() => toggleSection('notes')}
               >
-                <textarea value={notes} onChange={(e) => setNotes(e.target.value)} placeholder="Arrive 45 min early, parking fills up fast on tournament weekends" rows={2} style={{ ...inputStyle, resize: 'vertical' as const }} />
+                <textarea value={notes} onChange={(e) => setNotes(e.target.value)} placeholder="Arrive 45 min early, parking fills up fast on tournament weekends" aria-label="Trip notes" rows={2} style={{ ...inputStyle, resize: 'vertical' as const }} />
               </CollapsibleSection>
 
               {/* Collaborative toggle */}
@@ -628,7 +536,13 @@ function TripBuilderInner() {
                   <div style={{ fontSize: 13, fontWeight: 600, color: colors.brandDeep }}>👥 Let teammates add info</div>
                   <div style={{ fontSize: 11, color: colors.textTertiary, marginTop: 2 }}>Others can add restaurants, tips, and notes</div>
                 </div>
-                <button onClick={() => setCollaborative(!collaborative)} style={{ width: 52, height: 28, borderRadius: 14, border: 'none', cursor: 'pointer', background: collaborative ? colors.brand : colors.textDisabled, position: 'relative', transition: 'background 0.2s' }}>
+                <button
+                  onClick={() => setCollaborative(!collaborative)}
+                  role="switch"
+                  aria-checked={collaborative}
+                  aria-label="Let teammates add info"
+                  style={{ width: 52, height: 28, borderRadius: 14, border: 'none', cursor: 'pointer', background: collaborative ? colors.brand : colors.textDisabled, position: 'relative', transition: 'background 0.2s' }}
+                >
                   <div style={{ width: 22, height: 22, borderRadius: '50%', background: colors.white, position: 'absolute', top: 3, left: collaborative ? 27 : 3, transition: 'left 0.2s', boxShadow: '0 1px 3px rgba(0,0,0,0.15)' }} />
                 </button>
               </div>

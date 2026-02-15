@@ -1,6 +1,6 @@
 'use client';
 
-import { useState } from 'react';
+import { useState, useEffect } from 'react';
 import { Logo } from '../Logo';
 import { UserProfile } from '../../lib/rinkTypes';
 import { storage } from '../../lib/storage';
@@ -18,6 +18,30 @@ export function AuthModal({ isOpen, onClose, onSuccess }: AuthModalProps) {
   const [name, setName] = useState('');
   const [sending, setSending] = useState(false);
   const [sent, setSent] = useState(false);
+
+  // Focus trap and auto-focus
+  useEffect(() => {
+    if (!isOpen) return;
+    const dialog = document.querySelector('[role="dialog"]') as HTMLElement;
+    if (!dialog) return;
+    const focusable = dialog.querySelectorAll<HTMLElement>('input, button, [tabindex]:not([tabindex="-1"])');
+    if (focusable.length > 0) focusable[0].focus();
+
+    function trapFocus(e: KeyboardEvent) {
+      if (e.key !== 'Tab' || focusable.length === 0) return;
+      const first = focusable[0];
+      const last = focusable[focusable.length - 1];
+      if (e.shiftKey && document.activeElement === first) {
+        e.preventDefault();
+        last.focus();
+      } else if (!e.shiftKey && document.activeElement === last) {
+        e.preventDefault();
+        first.focus();
+      }
+    }
+    document.addEventListener('keydown', trapFocus);
+    return () => document.removeEventListener('keydown', trapFocus);
+  }, [isOpen]);
 
   if (!isOpen) return null;
 
@@ -53,7 +77,11 @@ export function AuthModal({ isOpen, onClose, onSuccess }: AuthModalProps) {
 
   return (
     <div
+      role="dialog"
+      aria-modal="true"
+      aria-labelledby="auth-modal-title"
       onClick={onClose}
+      onKeyDown={(e) => { if (e.key === 'Escape') onClose(); }}
       style={{
         position: 'fixed', top: 0, left: 0, right: 0, bottom: 0,
         background: 'rgba(0,0,0,0.4)', backdropFilter: 'blur(4px)',
@@ -78,7 +106,7 @@ export function AuthModal({ isOpen, onClose, onSuccess }: AuthModalProps) {
           <>
             <div style={{ textAlign: 'center', marginBottom: 24 }}>
               <Logo size={28} />
-              <p style={{ fontSize: text.lg, color: colors.textTertiary, marginTop: 8, margin: '8px 0 0' }}>
+              <p id="auth-modal-title" style={{ fontSize: text.lg, color: colors.textTertiary, marginTop: 8, margin: '8px 0 0' }}>
                 {mode === 'signin' ? 'Sign in to your account' : 'Create your account'}
               </p>
             </div>
