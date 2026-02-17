@@ -1,0 +1,253 @@
+{
+  "quick_bite": [
+    {
+      "name": "Buffalo Wild Wings",
+      "distance": "0.2 mi",
+      "url": "https://www.google.com/maps/search/Buffalo%20Wild%20Wings+near+44.978017%2C-93.2280612"
+    },
+    {
+      "name": "Subway",
+      "distance": "0.2 mi",
+      "url": "https://www.google.com/maps/search/Subway+near+44.978017%2C-93.2280612"
+    },
+    {
+      "name": "My Burger - Stadium Village",
+      "distance": "0.3 mi",
+      "url": "https://www.google.com/maps/search/My%20Burger%20-%20Stadium%20Village+near+44.978017%2C-93.2280612"
+    },
+    {
+      "name": "Jimmy John's",
+      "distance": "0.3 mi",
+      "url": "https://www.google.com/maps/search/Jimmy%20John's+near+44.978017%2C-93.2280612"
+    },
+    {
+      "name": "Chick-fil-A",
+      "distance": "0.3 mi",
+      "url": "https://www.google.com/maps/search/Chick-fil-A+near+44.978017%2C-93.2280612"
+    },
+    {
+      "name": "sweetgreen - Healthy Salads, Bowls and Plates",
+      "distance": "0.3 mi",
+      "url": "https://www.google.com/maps/search/sweetgreen%20-%20Healthy%20Salads%2C%20Bowls%20and%20Plates+near+44.978017%2C-93.2280612"
+    },
+    {
+      "name": "Kumar's Express Stadium Village",
+      "distance": "0.3 mi",
+      "url": "https://www.google.com/maps/search/Kumar's%20Express%20Stadium%20Village+near+44.978017%2C-93.2280612"
+    }
+  ],
+  "coffee": [
+    {
+      "name": "D'Amico & Sons Express",
+      "distance": "0.2 mi",
+      "url": "https://www.google.com/maps/search/D'Amico%20%26%20Sons%20Express+near+44.978017%2C-93.2280612"
+    },
+    {
+      "name": "Bordertown Coffee",
+      "distance": "0.3 mi",
+      "url": "https://www.google.com/maps/search/Bordertown%20Coffee+near+44.978017%2C-93.2280612"
+    },
+    {
+      "name": "Starbucks Coffee Company",
+      "distance": "0.3 mi",
+      "url": "https://www.google.com/maps/search/Starbucks%20Coffee%20Company+near+44.978017%2C-93.2280612"
+    },
+    {
+      "name": "7 Corners Coffee - Minneapolis - East Bank",
+      "distance": "0.3 mi",
+      "url": "https://www.google.com/maps/search/7%20Corners%20Coffee%20-%20Minneapolis%20-%20East%20Bank+near+44.978017%2C-93.2280612"
+    }
+  ],
+  "team_lunch": [
+    {
+      "name": "The Fresh Food Company.",
+      "distance": "0.2 mi",
+      "url": "https://www.google.com/maps/search/The%20Fresh%20Food%20Company.+near+44.978017%2C-93.2280612"
+    },
+    {
+      "name": "Shake Smart",
+      "distance": "0.2 mi",
+      "url": "https://www.google.com/maps/search/Shake%20Smart+near+44.978017%2C-93.2280612"
+    },
+    {
+      "name": "The Beacon Public House",
+      "distance": "0.3 mi",
+      "url": "https://www.google.com/maps/search/The%20Beacon%20Public%20House+near+44.978017%2C-93.2280612"
+    },
+    {
+      "name": "Fireside Market",
+      "distance": "0.3 mi",
+      "url": "https://www.google.com/maps/search/Fireside%20Market+near+44.978017%2C-93.2280612"
+    }
+  ],
+  "dinner": [
+    {
+      "name": "Korea Restaurant",
+      "distance": "0.3 mi",
+      "url": "https://www.google.com/maps/search/Korea%20Restaurant+near+44.978017%2C-93.2280612"
+    },
+    {
+      "name": "Stub and Herbs",
+      "distance": "0.3 mi",
+      "url": "https://www.google.com/maps/search/Stub%20and%20Herbs+near+44.978017%2C-93.2280612"
+    },
+    {
+      "name": "Sidewalk Kitchen",
+      "distance": "0.3 mi",
+      "url": "https://www.google.com/maps/search/Sidewalk%20Kitchen+near+44.978017%2C-93.2280612"
+    },
+    {
+      "name": "Afro Deli & Grill: Minneapolis",
+      "distance": "0.3 mi",
+      "url": "https://www.google.com/maps/search/Afro%20Deli%20%26%20Grill%3A%20Minneapolis+near+44.978017%2C-93.2280612"
+    }
+  ],
+  "bowling": [
+    {
+      "name": "Memory Lanes",
+      "distance": "1.5 mi",
+      "url": "https://www.google.com/maps/search/Memory%20Lanes+near+44.978017%2C-93.2280612"
+    },
+    {
+      "name": "Elsie's",
+      "distance": "2.2 mi",
+      "url": "https://www.google.com/maps/search/Elsie's+near+44.978017%2C-93.2280612"
+    },
+    {
+      "name": "UST Bowling Alley",
+      "distance": "3.1 mi",
+      "url": "https://www.google.com/maps/search/UST%20Bowling%20Alley+near+44.978017%2C-93.2280612",
+      "isFar": true
+    }
+  ],
+  "arcade": [],
+  "movies": [
+    {
+      "name": "Coffman Memorial Union Theater",
+      "distance": "0.5 mi",
+      "url": "https://www.google.com/maps/search/Coffman%20Memorial%20Union%20Theater+near+44.978017%2C-93.2280612"
+    },
+    {
+      "name": "The Main Cinema",
+      "distance": "1.4 mi",
+      "url": "https://www.google.com/maps/search/The%20Main%20Cinema+near+44.978017%2C-93.2280612"
+    },
+    {
+      "name": "Casket Cinema",
+      "distance": "2.3 mi",
+      "url": "https://www.google.com/maps/search/Casket%20Cinema+near+44.978017%2C-93.2280612"
+    },
+    {
+      "name": "The Trylon Cinema",
+      "distance": "2.4 mi",
+      "url": "https://www.google.com/maps/search/The%20Trylon%20Cinema+near+44.978017%2C-93.2280612"
+    },
+    {
+      "name": "Riverview Theater",
+      "distance": "3.1 mi",
+      "url": "https://www.google.com/maps/search/Riverview%20Theater+near+44.978017%2C-93.2280612",
+      "isFar": true
+    }
+  ],
+  "fun": [
+    {
+      "name": "Mission Manor Escape Rooms",
+      "distance": "1.2 mi",
+      "url": "https://www.google.com/maps/search/Mission%20Manor%20Escape%20Rooms+near+44.978017%2C-93.2280612"
+    },
+    {
+      "name": "Escape Room \"pentender\"",
+      "distance": "1.5 mi",
+      "url": "https://www.google.com/maps/search/Escape%20Room%20%22pentender%22+near+44.978017%2C-93.2280612"
+    },
+    {
+      "name": "MN RC Adventures",
+      "distance": "2.2 mi",
+      "url": "https://www.google.com/maps/search/MN%20RC%20Adventures+near+44.978017%2C-93.2280612"
+    },
+    {
+      "name": "Escape The Room Minneapolis",
+      "distance": "2.3 mi",
+      "url": "https://www.google.com/maps/search/Escape%20The%20Room%20Minneapolis+near+44.978017%2C-93.2280612"
+    },
+    {
+      "name": "PuzzleWorks Escape Co.",
+      "distance": "2.4 mi",
+      "url": "https://www.google.com/maps/search/PuzzleWorks%20Escape%20Co.+near+44.978017%2C-93.2280612"
+    },
+    {
+      "name": "Trapped Puzzle Rooms",
+      "distance": "2.4 mi",
+      "url": "https://www.google.com/maps/search/Trapped%20Puzzle%20Rooms+near+44.978017%2C-93.2280612"
+    },
+    {
+      "name": "Minnesota State Fair Mighty Midway",
+      "distance": "2.5 mi",
+      "url": "https://www.google.com/maps/search/Minnesota%20State%20Fair%20Mighty%20Midway+near+44.978017%2C-93.2280612"
+    }
+  ],
+  "hotels": [
+    {
+      "name": "Topgolf Swing Suite",
+      "distance": "0.3 mi",
+      "url": "https://www.google.com/maps/search/Topgolf%20Swing%20Suite+near+44.978017%2C-93.2280612"
+    },
+    {
+      "name": "Graduate by Hilton Minneapolis",
+      "distance": "0.3 mi",
+      "url": "https://www.google.com/maps/search/Graduate%20by%20Hilton%20Minneapolis+near+44.978017%2C-93.2280612"
+    },
+    {
+      "name": "Designer Lofts in Dinkytown: Small or Large Groups",
+      "distance": "0.3 mi",
+      "url": "https://www.google.com/maps/search/Designer%20Lofts%20in%20Dinkytown%3A%20Small%20or%20Large%20Groups+near+44.978017%2C-93.2280612"
+    },
+    {
+      "name": "Designer Lofts in Dinkytown: Small or Large Groups",
+      "distance": "0.3 mi",
+      "url": "https://www.google.com/maps/search/Designer%20Lofts%20in%20Dinkytown%3A%20Small%20or%20Large%20Groups+near+44.978017%2C-93.2280612"
+    },
+    {
+      "name": "Huge Loft U of M Dinkytown",
+      "distance": "0.4 mi",
+      "url": "https://www.google.com/maps/search/Huge%20Loft%20U%20of%20M%20Dinkytown+near+44.978017%2C-93.2280612"
+    },
+    {
+      "name": "Cozy Loft U of M Dinkytown",
+      "distance": "0.4 mi",
+      "url": "https://www.google.com/maps/search/Cozy%20Loft%20U%20of%20M%20Dinkytown+near+44.978017%2C-93.2280612"
+    },
+    {
+      "name": "Days Hotel by Wyndham University Ave SE",
+      "distance": "0.4 mi",
+      "url": "https://www.google.com/maps/search/Days%20Hotel%20by%20Wyndham%20University%20Ave%20SE+near+44.978017%2C-93.2280612"
+    }
+  ],
+  "gas": [
+    {
+      "name": "Holiday #3826",
+      "distance": "0.6 mi",
+      "url": "https://www.google.com/maps/search/Holiday%20%233826+near+44.978017%2C-93.2280612"
+    },
+    {
+      "name": "ARCO",
+      "distance": "1.0 mi",
+      "url": "https://www.google.com/maps/search/ARCO+near+44.978017%2C-93.2280612"
+    },
+    {
+      "name": "Riverside stop",
+      "distance": "1.0 mi",
+      "url": "https://www.google.com/maps/search/Riverside%20stop+near+44.978017%2C-93.2280612"
+    },
+    {
+      "name": "Marathon",
+      "distance": "1.0 mi",
+      "url": "https://www.google.com/maps/search/Marathon+near+44.978017%2C-93.2280612"
+    },
+    {
+      "name": "Speedway",
+      "distance": "1.1 mi",
+      "url": "https://www.google.com/maps/search/Speedway+near+44.978017%2C-93.2280612"
+    }
+  ]
+}

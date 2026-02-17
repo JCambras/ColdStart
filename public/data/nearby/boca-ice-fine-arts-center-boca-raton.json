@@ -1,0 +1,244 @@
+{
+  "quick_bite": [
+    {
+      "name": "Bella Amici",
+      "distance": "1.2 mi",
+      "url": "https://www.google.com/maps/search/Bella%20Amici+near+26.421056999999998%2C-80.096217"
+    },
+    {
+      "name": "ZENSHI Handcrafted Sushi",
+      "distance": "1.3 mi",
+      "url": "https://www.google.com/maps/search/ZENSHI%20Handcrafted%20Sushi+near+26.421056999999998%2C-80.096217"
+    },
+    {
+      "name": "Little Caesars Pizza",
+      "distance": "1.4 mi",
+      "url": "https://www.google.com/maps/search/Little%20Caesars%20Pizza+near+26.421056999999998%2C-80.096217"
+    },
+    {
+      "name": "Cinemark Bistro Boca Raton and XD",
+      "distance": "3.2 mi",
+      "url": "https://www.google.com/maps/search/Cinemark%20Bistro%20Boca%20Raton%20and%20XD+near+26.421056999999998%2C-80.096217",
+      "isFar": true
+    }
+  ],
+  "coffee": [
+    {
+      "name": "Start To Go Coffee.com",
+      "distance": "0.1 mi",
+      "url": "https://www.google.com/maps/search/Start%20To%20Go%20Coffee.com+near+26.421056999999998%2C-80.096217"
+    },
+    {
+      "name": "The Myra Coffee Roastery&Sandwich LLC",
+      "distance": "0.1 mi",
+      "url": "https://www.google.com/maps/search/The%20Myra%20Coffee%20Roastery%26Sandwich%20LLC+near+26.421056999999998%2C-80.096217"
+    },
+    {
+      "name": "Cafecito Espresso",
+      "distance": "1.3 mi",
+      "url": "https://www.google.com/maps/search/Cafecito%20Espresso+near+26.421056999999998%2C-80.096217"
+    },
+    {
+      "name": "Starbucks",
+      "distance": "1.3 mi",
+      "url": "https://www.google.com/maps/search/Starbucks+near+26.421056999999998%2C-80.096217"
+    },
+    {
+      "name": "Foxtail Coffee Co Boca Valley",
+      "distance": "1.3 mi",
+      "url": "https://www.google.com/maps/search/Foxtail%20Coffee%20Co%20Boca%20Valley+near+26.421056999999998%2C-80.096217"
+    }
+  ],
+  "team_lunch": [
+    {
+      "name": "Sugarwiz",
+      "distance": "0.6 mi",
+      "url": "https://www.google.com/maps/search/Sugarwiz+near+26.421056999999998%2C-80.096217"
+    },
+    {
+      "name": "Brenner's Bakery",
+      "distance": "1.1 mi",
+      "url": "https://www.google.com/maps/search/Brenner's%20Bakery+near+26.421056999999998%2C-80.096217"
+    },
+    {
+      "name": "Maria's Tacos Y Mas 2",
+      "distance": "1.3 mi",
+      "url": "https://www.google.com/maps/search/Maria's%20Tacos%20Y%20Mas%202+near+26.421056999999998%2C-80.096217"
+    },
+    {
+      "name": "The Good Straws",
+      "distance": "1.3 mi",
+      "url": "https://www.google.com/maps/search/The%20Good%20Straws+near+26.421056999999998%2C-80.096217"
+    },
+    {
+      "name": "Steak 'n Shake",
+      "distance": "1.4 mi",
+      "url": "https://www.google.com/maps/search/Steak%20'n%20Shake+near+26.421056999999998%2C-80.096217"
+    }
+  ],
+  "dinner": [
+    {
+      "name": "SW Grill",
+      "distance": "0.8 mi",
+      "url": "https://www.google.com/maps/search/SW%20Grill+near+26.421056999999998%2C-80.096217"
+    },
+    {
+      "name": "The Wild Loaf Microbakery Boca Raton",
+      "distance": "1.0 mi",
+      "url": "https://www.google.com/maps/search/The%20Wild%20Loaf%20Microbakery%20Boca%20Raton+near+26.421056999999998%2C-80.096217"
+    },
+    {
+      "name": "Galini Greek Restaurant",
+      "distance": "1.2 mi",
+      "url": "https://www.google.com/maps/search/Galini%20Greek%20Restaurant+near+26.421056999999998%2C-80.096217"
+    },
+    {
+      "name": "Kokoro Sushi",
+      "distance": "1.3 mi",
+      "url": "https://www.google.com/maps/search/Kokoro%20Sushi+near+26.421056999999998%2C-80.096217"
+    },
+    {
+      "name": "La Villa Pizzeria",
+      "distance": "1.4 mi",
+      "url": "https://www.google.com/maps/search/La%20Villa%20Pizzeria+near+26.421056999999998%2C-80.096217"
+    },
+    {
+      "name": "Dasara Indian Cuisine",
+      "distance": "1.4 mi",
+      "url": "https://www.google.com/maps/search/Dasara%20Indian%20Cuisine+near+26.421056999999998%2C-80.096217"
+    },
+    {
+      "name": "BCM Restaurant",
+      "distance": "1.4 mi",
+      "url": "https://www.google.com/maps/search/BCM%20Restaurant+near+26.421056999999998%2C-80.096217"
+    }
+  ],
+  "bowling": [
+    {
+      "name": "Lucky Strike Boca Raton",
+      "distance": "4.3 mi",
+      "url": "https://www.google.com/maps/search/Lucky%20Strike%20Boca%20Raton+near+26.421056999999998%2C-80.096217",
+      "isFar": true
+    },
+    {
+      "name": "Strike 10 Bowling",
+      "distance": "4.6 mi",
+      "url": "https://www.google.com/maps/search/Strike%2010%20Bowling+near+26.421056999999998%2C-80.096217",
+      "isFar": true
+    }
+  ],
+  "arcade": [],
+  "movies": [
+    {
+      "name": "IPIC Theaters",
+      "distance": "3.2 mi",
+      "url": "https://www.google.com/maps/search/IPIC%20Theaters+near+26.421056999999998%2C-80.096217",
+      "isFar": true
+    },
+    {
+      "name": "IPIC Theaters",
+      "distance": "4.7 mi",
+      "url": "https://www.google.com/maps/search/IPIC%20Theaters+near+26.421056999999998%2C-80.096217",
+      "isFar": true
+    },
+    {
+      "name": "Movies of Delray",
+      "distance": "4.8 mi",
+      "url": "https://www.google.com/maps/search/Movies%20of%20Delray+near+26.421056999999998%2C-80.096217",
+      "isFar": true
+    }
+  ],
+  "fun": [
+    {
+      "name": "Water Station",
+      "distance": "2.1 mi",
+      "url": "https://www.google.com/maps/search/Water%20Station+near+26.421056999999998%2C-80.096217"
+    },
+    {
+      "name": "Catherine Strong Splash Park",
+      "distance": "2.2 mi",
+      "url": "https://www.google.com/maps/search/Catherine%20Strong%20Splash%20Park+near+26.421056999999998%2C-80.096217"
+    },
+    {
+      "name": "Adventure Vault | Escape Room Boca Raton",
+      "distance": "2.9 mi",
+      "url": "https://www.google.com/maps/search/Adventure%20Vault%20%7C%20Escape%20Room%20Boca%20Raton+near+26.421056999999998%2C-80.096217"
+    },
+    {
+      "name": "Boomers Boca Raton",
+      "distance": "3.4 mi",
+      "url": "https://www.google.com/maps/search/Boomers%20Boca%20Raton+near+26.421056999999998%2C-80.096217",
+      "isFar": true
+    },
+    {
+      "name": "The Master Escape Room",
+      "distance": "3.9 mi",
+      "url": "https://www.google.com/maps/search/The%20Master%20Escape%20Room+near+26.421056999999998%2C-80.096217",
+      "isFar": true
+    }
+  ],
+  "hotels": [
+    {
+      "name": "Hilton Garden Inn Boca Raton",
+      "distance": "0.2 mi",
+      "url": "https://www.google.com/maps/search/Hilton%20Garden%20Inn%20Boca%20Raton+near+26.421056999999998%2C-80.096217"
+    },
+    {
+      "name": "Extended Stay America Suites- Boca Raton - Commerce",
+      "distance": "0.4 mi",
+      "url": "https://www.google.com/maps/search/Extended%20Stay%20America%20Suites-%20Boca%20Raton%20-%20Commerce+near+26.421056999999998%2C-80.096217"
+    },
+    {
+      "name": "Extended Stay America Boca Raton Commerce",
+      "distance": "0.4 mi",
+      "url": "https://www.google.com/maps/search/Extended%20Stay%20America%20Boca%20Raton%20Commerce+near+26.421056999999998%2C-80.096217"
+    },
+    {
+      "name": "Renovated Boca Ratón house with 3 rooms 2 bathrooms gardens and club amenities",
+      "distance": "0.4 mi",
+      "url": "https://www.google.com/maps/search/Renovated%20Boca%20Rat%C3%B3n%20house%20with%203%20rooms%202%20bathrooms%20gardens%20and%20club%20amenities+near+26.421056999999998%2C-80.096217"
+    },
+    {
+      "name": "The Delray Palms Tiki Haven of Bliss Saltwater Splash & Play 4BD Live Vibes",
+      "distance": "0.5 mi",
+      "url": "https://www.google.com/maps/search/The%20Delray%20Palms%20Tiki%20Haven%20of%20Bliss%20Saltwater%20Splash%20%26%20Play%204BD%20Live%20Vibes+near+26.421056999999998%2C-80.096217"
+    },
+    {
+      "name": "The Delray Palms Tiki Haven of Bliss Saltwater Splash Play 4BD Live Vibes",
+      "distance": "0.5 mi",
+      "url": "https://www.google.com/maps/search/The%20Delray%20Palms%20Tiki%20Haven%20of%20Bliss%20Saltwater%20Splash%20Play%204BD%20Live%20Vibes+near+26.421056999999998%2C-80.096217"
+    },
+    {
+      "name": "Make yourself at home in Delray Beach!!<br><br><br>",
+      "distance": "0.6 mi",
+      "url": "https://www.google.com/maps/search/Make%20yourself%20at%20home%20in%20Delray%20Beach!!%3Cbr%3E%3Cbr%3E%3Cbr%3E+near+26.421056999999998%2C-80.096217"
+    }
+  ],
+  "gas": [
+    {
+      "name": "Mobil",
+      "distance": "0.1 mi",
+      "url": "https://www.google.com/maps/search/Mobil+near+26.421056999999998%2C-80.096217"
+    },
+    {
+      "name": "Costco Gas Station",
+      "distance": "0.8 mi",
+      "url": "https://www.google.com/maps/search/Costco%20Gas%20Station+near+26.421056999999998%2C-80.096217"
+    },
+    {
+      "name": "Prip Mart Valero",
+      "distance": "0.9 mi",
+      "url": "https://www.google.com/maps/search/Prip%20Mart%20Valero+near+26.421056999999998%2C-80.096217"
+    },
+    {
+      "name": "Shell",
+      "distance": "1.3 mi",
+      "url": "https://www.google.com/maps/search/Shell+near+26.421056999999998%2C-80.096217"
+    },
+    {
+      "name": "Mobil",
+      "distance": "1.5 mi",
+      "url": "https://www.google.com/maps/search/Mobil+near+26.421056999999998%2C-80.096217"
+    }
+  ]
+}

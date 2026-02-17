@@ -1,0 +1,175 @@
+{
+  "quick_bite": [
+    {
+      "name": "Burger King",
+      "distance": "1.0 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Burger%20King&query_place_id=ChIJQRR4ZwDvwIkRzryIxuSux2o&center=39.3531872,-74.47635749999999"
+    },
+    {
+      "name": "Sack O' Subs",
+      "distance": "1.2 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Sack%20O'%20Subs&query_place_id=ChIJrf_WP57uwIkRHw_7HX2D9Oc&center=39.343573,-74.4718189"
+    },
+    {
+      "name": "Subway",
+      "distance": "1.4 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Subway&query_place_id=ChIJdRAeBkHuwIkRGq51Q3BezK4&center=39.3597582,-74.433095"
+    },
+    {
+      "name": "Don Macos Pizza and Grill",
+      "distance": "1.8 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Don%20Macos%20Pizza%20and%20Grill&query_place_id=ChIJ3ZdcZgzvwIkRna2m6xPqERg&center=39.3575231,-74.4255329"
+    }
+  ],
+  "coffee": [
+    {
+      "name": "Cleo's Corner",
+      "distance": "0.4 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Cleo's%20Corner&query_place_id=ChIJHyDNVHrvwIkRT-8LnFxjUOk&center=39.3546317,-74.45110580000001"
+    },
+    {
+      "name": "KC Nutrition",
+      "distance": "0.4 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=KC%20Nutrition&query_place_id=ChIJiVe4aADvwIkRNz0gJ0_2kNA&center=39.3511933,-74.45574549999999"
+    },
+    {
+      "name": "Mrs. Fields",
+      "distance": "0.8 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Mrs.%20Fields&query_place_id=ChIJOZ_KHWTuwIkRlKOkT3aJDFU&center=39.3527761,-74.4456345"
+    },
+    {
+      "name": "Formica Freitag Bakery & Cafe",
+      "distance": "0.9 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Formica%20Freitag%20Bakery%20%26%20Cafe&query_place_id=ChIJqzoiU13uwIkRU56kqNmnC7o&center=39.3587784,-74.44086109999999"
+    }
+  ],
+  "team_lunch": [
+    {
+      "name": "Joe's Famous Hoagies & Steaks",
+      "distance": "0.5 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Joe's%20Famous%20Hoagies%20%26%20Steaks&query_place_id=ChIJh1FPJ4buwIkRspbOUqRLmGU&center=39.350414,-74.4565831"
+    },
+    {
+      "name": "China Inn",
+      "distance": "0.5 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=China%20Inn&query_place_id=ChIJzXfYtGPuwIkRmhehI0lk7eI&center=39.3530857,-74.4508917"
+    },
+    {
+      "name": "Build Pizza",
+      "distance": "0.5 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Build%20Pizza&query_place_id=ChIJp3cmmOLvwIkR30AqehDIXmM&center=39.350417199999995,-74.4548959"
+    },
+    {
+      "name": "AC Chop'd + Wrap'd at Stockton University Atlantic City",
+      "distance": "0.5 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=AC%20Chop'd%20%2B%20Wrap'd%20at%20Stockton%20University%20Atlantic%20City&query_place_id=ChIJO7izhSbvwIkRwI4kDi2Sqkg&center=39.350417199999995,-74.4548959"
+    },
+    {
+      "name": "Queens Pizza Palace",
+      "distance": "0.5 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Queens%20Pizza%20Palace&query_place_id=ChIJOaMNOGLuwIkRI8PfnqlZUpA&center=39.3532943,-74.4503635"
+    },
+    {
+      "name": "500 Degrees",
+      "distance": "0.5 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=500%20Degrees&query_place_id=ChIJW4n6HgDvwIkR8mzR8PblAOY&center=39.3504387,-74.45466619999999"
+    }
+  ],
+  "dinner": [
+    {
+      "name": "Jvs Mexican Restaurant",
+      "distance": "0.2 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Jvs%20Mexican%20Restaurant&query_place_id=ChIJW2XL_H_vwIkRsEvT2NL1e9Y&center=39.3585427,-74.46092809999999"
+    },
+    {
+      "name": "Vagabond Kitchen & Tap House",
+      "distance": "0.3 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Vagabond%20Kitchen%20%26%20Tap%20House&query_place_id=ChIJ2_fCbY3uwIkR_uRpFEQ75tE&center=39.3596431,-74.4631317"
+    },
+    {
+      "name": "Wonder Bar",
+      "distance": "0.3 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Wonder%20Bar&query_place_id=ChIJBUIJHYnuwIkRKdGMIQhF_TM&center=39.353012899999996,-74.45661559999999"
+    },
+    {
+      "name": "Garden of Delights",
+      "distance": "0.3 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Garden%20of%20Delights&query_place_id=ChIJHdstA-nvwIkRQXeczOVpYag&center=39.3559656,-74.4525368"
+    },
+    {
+      "name": "Sabor Latino 2",
+      "distance": "0.5 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Sabor%20Latino%202&query_place_id=ChIJJXEZq3bvwIkR3ueacZGw4GA&center=39.3505021,-74.45734829999999"
+    },
+    {
+      "name": "Mexico Restaurant & Bar",
+      "distance": "0.5 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Mexico%20Restaurant%20%26%20Bar&query_place_id=ChIJncTPnYjuwIkRg24vB7l3_-c&center=39.350488,-74.456386"
+    }
+  ],
+  "bowling": [],
+  "arcade": [],
+  "movies": [
+    {
+      "name": "IMAX Theatre At Tropicana",
+      "distance": "0.7 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=IMAX%20Theatre%20At%20Tropicana&query_place_id=ChIJHzQ9UGTuwIkR1Rn32UjEhz0&center=39.353598999999996,-74.44551249999999"
+    },
+    {
+      "name": "Ventnor Square Theatre",
+      "distance": "1.2 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Ventnor%20Square%20Theatre&query_place_id=ChIJ4YIsa57uwIkRxj-ibNxurZE&center=39.3436965,-74.47139729999999"
+    },
+    {
+      "name": "Movies Under the Stars - Brighton Park",
+      "distance": "1.5 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Movies%20Under%20the%20Stars%20-%20Brighton%20Park&query_place_id=ChIJtcK9lmruwIkRagB0LlOmvHk&center=39.35612820000001,-74.43086009999999"
+    }
+  ],
+  "fun": [
+    {
+      "name": "Escape AC - Escape Rooms",
+      "distance": "0.8 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Escape%20AC%20-%20Escape%20Rooms&query_place_id=ChIJV1A6RmTuwIkRzj7Qcs2Xkbk&center=39.353052000000005,-74.4452252"
+    },
+    {
+      "name": "Video Amusements",
+      "distance": "0.9 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Video%20Amusements&query_place_id=ChIJHQcB52XuwIkRPaxIqdaqeiM&center=39.3530118,-74.44210369999999"
+    }
+  ],
+  "hotels": [
+    {
+      "name": "AC Moose Lodge 216",
+      "distance": "0.3 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=AC%20Moose%20Lodge%20216&query_place_id=ChIJWz7mfo3uwIkR-bdOxt4Rrhg&center=39.3592224,-74.46405709999999"
+    },
+    {
+      "name": "Cadillac Blue House - Luxury w/ Pool Table!",
+      "distance": "0.4 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Cadillac%20Blue%20House%20-%20Luxury%20w%2F%20Pool%20Table!&query_place_id=ChIJ_7D-6IjuwIkRRV5OWGgufC8&center=39.3521996,-74.45675659999999"
+    }
+  ],
+  "gas": [
+    {
+      "name": "Sunoco",
+      "distance": "0.3 mi",
+      "url": "https://www.google.com/maps/search/Sunoco+near+39.357258%2C-74.45843099999999"
+    },
+    {
+      "name": "Deull - Fuel",
+      "distance": "0.8 mi",
+      "url": "https://www.google.com/maps/search/Deull%20-%20Fuel+near+39.357258%2C-74.45843099999999"
+    },
+    {
+      "name": "Atlantic City Fuel",
+      "distance": "0.8 mi",
+      "url": "https://www.google.com/maps/search/Atlantic%20City%20Fuel+near+39.357258%2C-74.45843099999999"
+    },
+    {
+      "name": "Gulf",
+      "distance": "1.2 mi",
+      "url": "https://www.google.com/maps/search/Gulf+near+39.357258%2C-74.45843099999999"
+    }
+  ]
+}

@@ -1,0 +1,255 @@
+{
+  "quick_bite": [
+    {
+      "name": "Subway",
+      "distance": "0.5 mi",
+      "url": "https://www.google.com/maps/search/Subway+near+40.6470736%2C-112.0083306"
+    },
+    {
+      "name": "Arctic Circle",
+      "distance": "0.5 mi",
+      "url": "https://www.google.com/maps/search/Arctic%20Circle+near+40.6470736%2C-112.0083306"
+    },
+    {
+      "name": "Sonic Drive-In",
+      "distance": "0.6 mi",
+      "url": "https://www.google.com/maps/search/Sonic%20Drive-In+near+40.6470736%2C-112.0083306"
+    },
+    {
+      "name": "Jersey Mike's Subs",
+      "distance": "0.9 mi",
+      "url": "https://www.google.com/maps/search/Jersey%20Mike's%20Subs+near+40.6470736%2C-112.0083306"
+    },
+    {
+      "name": "Marco's Pizza",
+      "distance": "0.9 mi",
+      "url": "https://www.google.com/maps/search/Marco's%20Pizza+near+40.6470736%2C-112.0083306"
+    },
+    {
+      "name": "Arby's",
+      "distance": "0.9 mi",
+      "url": "https://www.google.com/maps/search/Arby's+near+40.6470736%2C-112.0083306"
+    },
+    {
+      "name": "Jack in the Box",
+      "distance": "1.0 mi",
+      "url": "https://www.google.com/maps/search/Jack%20in%20the%20Box+near+40.6470736%2C-112.0083306"
+    }
+  ],
+  "coffee": [
+    {
+      "name": "McDonald's",
+      "distance": "0.7 mi",
+      "url": "https://www.google.com/maps/search/McDonald's+near+40.6470736%2C-112.0083306"
+    },
+    {
+      "name": "Starbucks Coffee Company",
+      "distance": "0.9 mi",
+      "url": "https://www.google.com/maps/search/Starbucks%20Coffee%20Company+near+40.6470736%2C-112.0083306"
+    },
+    {
+      "name": "Essential Nutrition",
+      "distance": "0.9 mi",
+      "url": "https://www.google.com/maps/search/Essential%20Nutrition+near+40.6470736%2C-112.0083306"
+    },
+    {
+      "name": "Delton Lanes",
+      "distance": "3.9 mi",
+      "url": "https://www.google.com/maps/search/Delton%20Lanes+near+40.6470736%2C-112.0083306",
+      "isFar": true
+    }
+  ],
+  "team_lunch": [
+    {
+      "name": "La Potosina Mexican Food",
+      "distance": "0.5 mi",
+      "url": "https://www.google.com/maps/search/La%20Potosina%20Mexican%20Food+near+40.6470736%2C-112.0083306"
+    },
+    {
+      "name": "Betos",
+      "distance": "0.6 mi",
+      "url": "https://www.google.com/maps/search/Betos+near+40.6470736%2C-112.0083306"
+    },
+    {
+      "name": "Taco Time",
+      "distance": "0.6 mi",
+      "url": "https://www.google.com/maps/search/Taco%20Time+near+40.6470736%2C-112.0083306"
+    },
+    {
+      "name": "Loco Burger - Kearns",
+      "distance": "0.9 mi",
+      "url": "https://www.google.com/maps/search/Loco%20Burger%20-%20Kearns+near+40.6470736%2C-112.0083306"
+    },
+    {
+      "name": "Cafe Rio Fresh Modern Mexican",
+      "distance": "0.9 mi",
+      "url": "https://www.google.com/maps/search/Cafe%20Rio%20Fresh%20Modern%20Mexican+near+40.6470736%2C-112.0083306"
+    }
+  ],
+  "dinner": [
+    {
+      "name": "Saigon Blossom",
+      "distance": "0.5 mi",
+      "url": "https://www.google.com/maps/search/Saigon%20Blossom+near+40.6470736%2C-112.0083306"
+    },
+    {
+      "name": "Big Daddy's Pizza Kearns",
+      "distance": "0.5 mi",
+      "url": "https://www.google.com/maps/search/Big%20Daddy's%20Pizza%20Kearns+near+40.6470736%2C-112.0083306"
+    },
+    {
+      "name": "Dulceria azul",
+      "distance": "0.9 mi",
+      "url": "https://www.google.com/maps/search/Dulceria%20azul+near+40.6470736%2C-112.0083306"
+    },
+    {
+      "name": "Tacos Guanajuato",
+      "distance": "0.9 mi",
+      "url": "https://www.google.com/maps/search/Tacos%20Guanajuato+near+40.6470736%2C-112.0083306"
+    }
+  ],
+  "bowling": [
+    {
+      "name": "Valley Bowling Lanes",
+      "distance": "1.3 mi",
+      "url": "https://www.google.com/maps/search/Valley%20Bowling%20Lanes+near+40.6470736%2C-112.0083306"
+    },
+    {
+      "name": "Amateur Bowlers Tour",
+      "distance": "1.3 mi",
+      "url": "https://www.google.com/maps/search/Amateur%20Bowlers%20Tour+near+40.6470736%2C-112.0083306"
+    },
+    {
+      "name": "The Rush Funplex",
+      "distance": "2.5 mi",
+      "url": "https://www.google.com/maps/search/The%20Rush%20Funplex+near+40.6470736%2C-112.0083306"
+    },
+    {
+      "name": "All Star Bowling & Entertainment - Valley Fair",
+      "distance": "4.2 mi",
+      "url": "https://www.google.com/maps/search/All%20Star%20Bowling%20%26%20Entertainment%20-%20Valley%20Fair+near+40.6470736%2C-112.0083306",
+      "isFar": true
+    },
+    {
+      "name": "All Star Bowling & Entertainment - West Jordan",
+      "distance": "4.3 mi",
+      "url": "https://www.google.com/maps/search/All%20Star%20Bowling%20%26%20Entertainment%20-%20West%20Jordan+near+40.6470736%2C-112.0083306",
+      "isFar": true
+    }
+  ],
+  "arcade": [],
+  "movies": [
+    {
+      "name": "Regal Crossroads - Taylorsville",
+      "distance": "3.5 mi",
+      "url": "https://www.google.com/maps/search/Regal%20Crossroads%20-%20Taylorsville+near+40.6470736%2C-112.0083306",
+      "isFar": true
+    },
+    {
+      "name": "Imax Theatre",
+      "distance": "4.3 mi",
+      "url": "https://www.google.com/maps/search/Imax%20Theatre+near+40.6470736%2C-112.0083306",
+      "isFar": true
+    },
+    {
+      "name": "Megaplex Theatres -Valley Fair Mall",
+      "distance": "4.3 mi",
+      "url": "https://www.google.com/maps/search/Megaplex%20Theatres%20-Valley%20Fair%20Mall+near+40.6470736%2C-112.0083306",
+      "isFar": true
+    }
+  ],
+  "fun": [
+    {
+      "name": "Exit 4 Escape Rooms, West Jordan Utah",
+      "distance": "2.4 mi",
+      "url": "https://www.google.com/maps/search/Exit%204%20Escape%20Rooms%2C%20West%20Jordan%20Utah+near+40.6470736%2C-112.0083306"
+    },
+    {
+      "name": "Altitude Trampoline Park",
+      "distance": "2.5 mi",
+      "url": "https://www.google.com/maps/search/Altitude%20Trampoline%20Park+near+40.6470736%2C-112.0083306"
+    },
+    {
+      "name": "Ron Wood Regional Park Splash Pad",
+      "distance": "4.0 mi",
+      "url": "https://www.google.com/maps/search/Ron%20Wood%20Regional%20Park%20Splash%20Pad+near+40.6470736%2C-112.0083306",
+      "isFar": true
+    },
+    {
+      "name": "Magna Regional Park Spray Pad",
+      "distance": "4.1 mi",
+      "url": "https://www.google.com/maps/search/Magna%20Regional%20Park%20Spray%20Pad+near+40.6470736%2C-112.0083306",
+      "isFar": true
+    },
+    {
+      "name": "Taylorsville Nickelcade",
+      "distance": "4.3 mi",
+      "url": "https://www.google.com/maps/search/Taylorsville%20Nickelcade+near+40.6470736%2C-112.0083306",
+      "isFar": true
+    }
+  ],
+  "hotels": [
+    {
+      "name": "Brand New Construction Home in SLC",
+      "distance": "0.4 mi",
+      "url": "https://www.google.com/maps/search/Brand%20New%20Construction%20Home%20in%20SLC+near+40.6470736%2C-112.0083306"
+    },
+    {
+      "name": "Gorgeous Home! Awesome Location",
+      "distance": "0.4 mi",
+      "url": "https://www.google.com/maps/search/Gorgeous%20Home!%20Awesome%20Location+near+40.6470736%2C-112.0083306"
+    },
+    {
+      "name": "Modern Loft Guest House- FamilyFriendly meets luxury. Within 30min of it all!",
+      "distance": "0.5 mi",
+      "url": "https://www.google.com/maps/search/Modern%20Loft%20Guest%20House-%20FamilyFriendly%20meets%20luxury.%20Within%2030min%20of%20it%20all!+near+40.6470736%2C-112.0083306"
+    },
+    {
+      "name": "La maison in Utah Kearns",
+      "distance": "0.5 mi",
+      "url": "https://www.google.com/maps/search/La%20maison%20in%20Utah%20Kearns+near+40.6470736%2C-112.0083306"
+    },
+    {
+      "name": "Modern Loft Guest House- FamilyFriendly meets luxury. Within 30min of it all!",
+      "distance": "0.6 mi",
+      "url": "https://www.google.com/maps/search/Modern%20Loft%20Guest%20House-%20FamilyFriendly%20meets%20luxury.%20Within%2030min%20of%20it%20all!+near+40.6470736%2C-112.0083306"
+    },
+    {
+      "name": "Vacation Rental Near Salt Lake City: 14 Mi Away!",
+      "distance": "0.7 mi",
+      "url": "https://www.google.com/maps/search/Vacation%20Rental%20Near%20Salt%20Lake%20City%3A%2014%20Mi%20Away!+near+40.6470736%2C-112.0083306"
+    },
+    {
+      "name": "King Bed, Large Sectionals, Kids Area, Outdoor Living! Curated & Cozy Scandi!",
+      "distance": "0.8 mi",
+      "url": "https://www.google.com/maps/search/King%20Bed%2C%20Large%20Sectionals%2C%20Kids%20Area%2C%20Outdoor%20Living!%20Curated%20%26%20Cozy%20Scandi!+near+40.6470736%2C-112.0083306"
+    }
+  ],
+  "gas": [
+    {
+      "name": "Harmon's Fuel Stop",
+      "distance": "0.6 mi",
+      "url": "https://www.google.com/maps/search/Harmon's%20Fuel%20Stop+near+40.6470736%2C-112.0083306"
+    },
+    {
+      "name": "7-Eleven Fuel",
+      "distance": "0.6 mi",
+      "url": "https://www.google.com/maps/search/7-Eleven%20Fuel+near+40.6470736%2C-112.0083306"
+    },
+    {
+      "name": "Holiday #21",
+      "distance": "0.6 mi",
+      "url": "https://www.google.com/maps/search/Holiday%20%2321+near+40.6470736%2C-112.0083306"
+    },
+    {
+      "name": "Chevron",
+      "distance": "0.8 mi",
+      "url": "https://www.google.com/maps/search/Chevron+near+40.6470736%2C-112.0083306"
+    },
+    {
+      "name": "Murphy USA",
+      "distance": "1.0 mi",
+      "url": "https://www.google.com/maps/search/Murphy%20USA+near+40.6470736%2C-112.0083306"
+    }
+  ]
+}

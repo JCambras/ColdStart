@@ -1,0 +1,235 @@
+{
+  "quick_bite": [
+    {
+      "name": "Lee's Kitchen Chinese Restaurant",
+      "distance": "0.3 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Lee's%20Kitchen%20Chinese%20Restaurant&query_place_id=ChIJDw4Xeoxv5IkR-diFjhNgCk0&center=42.0881908,-71.4129888"
+    },
+    {
+      "name": "Jersey Mike's Subs",
+      "distance": "0.3 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Jersey%20Mike's%20Subs&query_place_id=ChIJjzz0LXVv5IkRZPJgGt6poJI&center=42.0890365,-71.4168661"
+    },
+    {
+      "name": "Wendy's",
+      "distance": "0.4 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Wendy's&query_place_id=ChIJdfWUCMhv5IkRb4HJYKlGhn8&center=42.089934199999995,-71.4183425"
+    },
+    {
+      "name": "The Curry House",
+      "distance": "0.4 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=The%20Curry%20House&query_place_id=ChIJK-BSiLhv5IkRqabe5Th5a2w&center=42.08771,-71.4149522"
+    },
+    {
+      "name": "Taco Bell",
+      "distance": "0.4 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Taco%20Bell&query_place_id=ChIJYX_sYrhv5IkR4cv_z1NK4vk&center=42.0876417,-71.4152902"
+    }
+  ],
+  "coffee": [
+    {
+      "name": "Honey Dew Donuts",
+      "distance": "0.4 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Honey%20Dew%20Donuts&query_place_id=ChIJ9dW-o7hv5IkRRkqbNBie7L4&center=42.0878356,-71.4133818"
+    },
+    {
+      "name": "Elizabeth's Bagels & More",
+      "distance": "0.4 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Elizabeth's%20Bagels%20%26%20More&query_place_id=ChIJoxEATb9v5IkR3t2US5Th9nc&center=42.087989,-71.416545"
+    },
+    {
+      "name": "Dunkin'",
+      "distance": "0.4 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Dunkin'&query_place_id=ChIJMXX2Pshv5IkRRW21P2pXbAE&center=42.0903633,-71.419827"
+    },
+    {
+      "name": "Starbucks Coffee Company",
+      "distance": "0.6 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Starbucks%20Coffee%20Company&query_place_id=ChIJty7eGspv5IkR2tGa6vkjEKI&center=42.09065,-71.42433"
+    },
+    {
+      "name": "Honey Dew Donuts",
+      "distance": "1.5 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Honey%20Dew%20Donuts&query_place_id=ChIJd4jJj4tv5IkRgzsHgbxMZ8A&center=42.0808148,-71.3876568"
+    }
+  ],
+  "team_lunch": [
+    {
+      "name": "Franklin House of Pizza",
+      "distance": "0.3 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Franklin%20House%20of%20Pizza&query_place_id=ChIJ_VGGsrhv5IkR0H-N9nzMvJo&center=42.0882761,-71.4118994"
+    },
+    {
+      "name": "Haven Hot Chicken",
+      "distance": "0.3 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Haven%20Hot%20Chicken&query_place_id=ChIJ5ZMn6wlv5IkRRfdFWDuU6ZI&center=42.089128900000006,-71.416857"
+    },
+    {
+      "name": "Pepper Terrace Thai Cuisine",
+      "distance": "0.7 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Pepper%20Terrace%20Thai%20Cuisine&query_place_id=ChIJLbn6wclv5IkRTD0h8LdZuTs&center=42.0893319,-71.4247779"
+    },
+    {
+      "name": "Whole Foods Bakery",
+      "distance": "2.8 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Whole%20Foods%20Bakery&query_place_id=ChIJSdrcUABv5IkREl3FHZ5KTAg&center=42.1112277,-71.4615503"
+    },
+    {
+      "name": "norcard - AWS Apps Authentication",
+      "distance": "3.1 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=norcard%20-%20AWS%20Apps%20Authentication&query_place_id=ChIJ__-7qhRl5IkRGAAy1n5AeZ8&center=42.074355399999995,-71.358616",
+      "isFar": true
+    }
+  ],
+  "dinner": [
+    {
+      "name": "Jimbo’s NY Diner",
+      "distance": "0.3 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Jimbo%E2%80%99s%20NY%20Diner&query_place_id=ChIJb4gUawBv5IkRYdlXEClNHs0&center=42.0882972,-71.4124418"
+    },
+    {
+      "name": "Maks Roast Beef and Breakfast",
+      "distance": "0.3 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Maks%20Roast%20Beef%20and%20Breakfast&query_place_id=ChIJ_Qu7zoVv5IkRVCWGG7Kxt4s&center=42.0887945,-71.4160445"
+    },
+    {
+      "name": "3 Restaurant",
+      "distance": "0.3 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=3%20Restaurant&query_place_id=ChIJy0wbjMdv5IkR8WmzeRqN8Xk&center=42.088969299999995,-71.41653149999999"
+    },
+    {
+      "name": "Hot Table",
+      "distance": "0.5 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Hot%20Table&query_place_id=ChIJ6WkOcdRv5IkRMm0iuAMw-v4&center=42.0899765,-71.4218801"
+    },
+    {
+      "name": "Dave's Hot Chicken",
+      "distance": "0.6 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Dave's%20Hot%20Chicken&query_place_id=ChIJf6rlZBBv5IkRPq3VEJlUurw&center=42.091170399999996,-71.4236726"
+    },
+    {
+      "name": "BJ's Bakery",
+      "distance": "1.1 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=BJ's%20Bakery&query_place_id=ChIJOYeVyzVu5IkRw8xydLn3D9o&center=42.0938315,-71.4344839"
+    }
+  ],
+  "bowling": [
+    {
+      "name": "Ryan Family Amusements- Millis",
+      "distance": "5.3 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Ryan%20Family%20Amusements-%20Millis&query_place_id=ChIJlREB_hF65IkRiTHPaHrF9HQ&center=42.1624263,-71.3700805",
+      "isFar": true
+    },
+    {
+      "name": "PiNZ Bowl",
+      "distance": "6.0 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=PiNZ%20Bowl&query_place_id=ChIJ7cz3AHxy5IkRBem4ds0bCGE&center=42.1302139,-71.5185163",
+      "isFar": true
+    },
+    {
+      "name": "Ryan Family Amusements (Formerly Walnut Hill Lanes) - Walnut Hill",
+      "distance": "6.2 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Ryan%20Family%20Amusements%20(Formerly%20Walnut%20Hill%20Lanes)%20-%20Walnut%20Hill&query_place_id=ChIJpQqWP2Jp5IkRLRa3lAS0y30&center=42.0162033,-71.4757334",
+      "isFar": true
+    }
+  ],
+  "arcade": [],
+  "movies": [
+    {
+      "name": "Regal Bellingham",
+      "distance": "2.7 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Regal%20Bellingham&query_place_id=ChIJVWM3Chxu5IkR_mbtpBbWhPk&center=42.1102673,-71.46039809999999"
+    },
+    {
+      "name": "Mendon Twin Drive-In",
+      "distance": "7.0 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Mendon%20Twin%20Drive-In&query_place_id=ChIJAS-f82pt5IkRIlcZ00TnCOw&center=42.1125,-71.5469444",
+      "isFar": true
+    },
+    {
+      "name": "Showcase Cinema de Lux Patriot Place",
+      "distance": "7.5 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Showcase%20Cinema%20de%20Lux%20Patriot%20Place&query_place_id=ChIJf0MUj8d85IkRqwdyEwxeb2o&center=42.094243399999996,-71.26618739999999",
+      "isFar": true
+    }
+  ],
+  "fun": [
+    {
+      "name": "Urban Air Trampoline and Adventure Park",
+      "distance": "2.3 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Urban%20Air%20Trampoline%20and%20Adventure%20Park&query_place_id=ChIJv3G3c2du5IkRzTsu7TW-jOY&center=42.08152380000001,-71.455223"
+    },
+    {
+      "name": "Meadow Brook",
+      "distance": "5.2 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Meadow%20Brook&query_place_id=ChIJGRwGPQBl5IkRirIeOdKBvhg&center=42.073789999999995,-71.314553",
+      "isFar": true
+    },
+    {
+      "name": "Slick City Action Park",
+      "distance": "5.2 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Slick%20City%20Action%20Park&query_place_id=ChIJv3flW1pz5IkRf2HJcx8CDlA&center=42.1444286,-71.4879407",
+      "isFar": true
+    },
+    {
+      "name": "Aero Trampoline Park",
+      "distance": "6.2 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Aero%20Trampoline%20Park&query_place_id=ChIJYfzAuthr5IkRon2Sa4V_Djk&center=42.0169765,-71.4782707",
+      "isFar": true
+    }
+  ],
+  "hotels": [
+    {
+      "name": "Residence Inn by Marriott Boston Franklin",
+      "distance": "1.2 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Residence%20Inn%20by%20Marriott%20Boston%20Franklin&query_place_id=ChIJMaZzD0lu5IkR91OD13sajTo&center=42.088625,-71.43619269999999"
+    },
+    {
+      "name": "Home2 Suites by Hilton Boston Franklin",
+      "distance": "2.0 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Home2%20Suites%20by%20Hilton%20Boston%20Franklin&query_place_id=ChIJZ1P7hqpv5IkREfMi6HYubhU&center=42.065470999999995,-71.3982149"
+    },
+    {
+      "name": "Hampton Inn Franklin/Milford",
+      "distance": "2.1 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Hampton%20Inn%20Franklin%2FMilford&query_place_id=ChIJhZkcT3Zv5IkRAC0tmqblYd8&center=42.065153599999995,-71.3975446"
+    },
+    {
+      "name": "Magknower Place",
+      "distance": "2.1 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Magknower%20Place&query_place_id=ChIJk7XJBgBl5IkRdRu2y8qoE7c&center=42.080056,-71.3758381"
+    },
+    {
+      "name": "Hawthorn Suites by Wyndham Franklin / Milford Area",
+      "distance": "2.3 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Hawthorn%20Suites%20by%20Wyndham%20Franklin%20%2F%20Milford%20Area&query_place_id=ChIJLy4zKnFv5IkR110A2V0N0Tw&center=42.061714099999996,-71.3973464"
+    },
+    {
+      "name": "Franklin Hotel",
+      "distance": "2.3 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Franklin%20Hotel&query_place_id=ChIJV7f5MXdv5IkR9QmD9mMFL7I&center=42.0614905,-71.3971354"
+    }
+  ],
+  "gas": [
+    {
+      "name": "Shell",
+      "distance": "0.4 mi",
+      "url": "https://www.google.com/maps/search/Shell+near+42.0930588%2C-71.4127853"
+    },
+    {
+      "name": "bp",
+      "distance": "0.4 mi",
+      "url": "https://www.google.com/maps/search/bp+near+42.0930588%2C-71.4127853"
+    },
+    {
+      "name": "Mobil",
+      "distance": "0.6 mi",
+      "url": "https://www.google.com/maps/search/Mobil+near+42.0930588%2C-71.4127853"
+    },
+    {
+      "name": "Gas Station - Stop and Shop",
+      "distance": "1.0 mi",
+      "url": "https://www.google.com/maps/search/Gas%20Station%20-%20Stop%20and%20Shop+near+42.0930588%2C-71.4127853"
+    }
+  ]
+}

@@ -1,0 +1,206 @@
+{
+  "quick_bite": [
+    {
+      "name": "Subway",
+      "distance": "0.2 mi",
+      "url": "https://www.google.com/maps/search/Subway+near+41.5195121%2C-90.58457179999999"
+    }
+  ],
+  "coffee": [
+    {
+      "name": "Tommy's Cafe",
+      "distance": "0.2 mi",
+      "url": "https://www.google.com/maps/search/Tommy's%20Cafe+near+41.5195121%2C-90.58457179999999"
+    },
+    {
+      "name": "392Caffe",
+      "distance": "0.3 mi",
+      "url": "https://www.google.com/maps/search/392Caffe+near+41.5195121%2C-90.58457179999999"
+    },
+    {
+      "name": "Café d'Marie",
+      "distance": "0.4 mi",
+      "url": "https://www.google.com/maps/search/Caf%C3%A9%20d'Marie+near+41.5195121%2C-90.58457179999999"
+    }
+  ],
+  "team_lunch": [
+    {
+      "name": "WATER BAR AND GRILL",
+      "distance": "0.3 mi",
+      "url": "https://www.google.com/maps/search/WATER%20BAR%20AND%20GRILL+near+41.5195121%2C-90.58457179999999"
+    },
+    {
+      "name": "La Moreliana",
+      "distance": "0.3 mi",
+      "url": "https://www.google.com/maps/search/La%20Moreliana+near+41.5195121%2C-90.58457179999999"
+    }
+  ],
+  "dinner": [
+    {
+      "name": "Pho 9999",
+      "distance": "0.1 mi",
+      "url": "https://www.google.com/maps/search/Pho%209999+near+41.5195121%2C-90.58457179999999"
+    },
+    {
+      "name": "La Finca",
+      "distance": "0.2 mi",
+      "url": "https://www.google.com/maps/search/La%20Finca+near+41.5195121%2C-90.58457179999999"
+    },
+    {
+      "name": "Abarrotes Carrillo",
+      "distance": "0.2 mi",
+      "url": "https://www.google.com/maps/search/Abarrotes%20Carrillo+near+41.5195121%2C-90.58457179999999"
+    },
+    {
+      "name": "Chick N’Dips",
+      "distance": "0.2 mi",
+      "url": "https://www.google.com/maps/search/Chick%20N%E2%80%99Dips+near+41.5195121%2C-90.58457179999999"
+    },
+    {
+      "name": "Ethio Sweet",
+      "distance": "0.3 mi",
+      "url": "https://www.google.com/maps/search/Ethio%20Sweet+near+41.5195121%2C-90.58457179999999"
+    },
+    {
+      "name": "M.A.D Bakery",
+      "distance": "0.3 mi",
+      "url": "https://www.google.com/maps/search/M.A.D%20Bakery+near+41.5195121%2C-90.58457179999999"
+    },
+    {
+      "name": "Boozie's Bar & Grill",
+      "distance": "0.3 mi",
+      "url": "https://www.google.com/maps/search/Boozie's%20Bar%20%26%20Grill+near+41.5195121%2C-90.58457179999999"
+    }
+  ],
+  "bowling": [
+    {
+      "name": "Blackhawk Bowl and Martini Lounge",
+      "distance": "0.7 mi",
+      "url": "https://www.google.com/maps/search/Blackhawk%20Bowl%20and%20Martini%20Lounge+near+41.5195121%2C-90.58457179999999"
+    },
+    {
+      "name": "Bowlmor Lanes",
+      "distance": "2.3 mi",
+      "url": "https://www.google.com/maps/search/Bowlmor%20Lanes+near+41.5195121%2C-90.58457179999999"
+    },
+    {
+      "name": "Malibu Jack's Quad Cities",
+      "distance": "3.6 mi",
+      "url": "https://www.google.com/maps/search/Malibu%20Jack's%20Quad%20Cities+near+41.5195121%2C-90.58457179999999",
+      "isFar": true
+    },
+    {
+      "name": "Big River Bowling",
+      "distance": "3.8 mi",
+      "url": "https://www.google.com/maps/search/Big%20River%20Bowling+near+41.5195121%2C-90.58457179999999",
+      "isFar": true
+    }
+  ],
+  "arcade": [],
+  "movies": [
+    {
+      "name": "The Last Picture House",
+      "distance": "0.8 mi",
+      "url": "https://www.google.com/maps/search/The%20Last%20Picture%20House+near+41.5195121%2C-90.58457179999999"
+    },
+    {
+      "name": "Movie Giant Screen Theater",
+      "distance": "1.2 mi",
+      "url": "https://www.google.com/maps/search/Movie%20Giant%20Screen%20Theater+near+41.5195121%2C-90.58457179999999"
+    }
+  ],
+  "fun": [
+    {
+      "name": "Skellington Manor Escape Experience",
+      "distance": "0.9 mi",
+      "url": "https://www.google.com/maps/search/Skellington%20Manor%20Escape%20Experience+near+41.5195121%2C-90.58457179999999"
+    },
+    {
+      "name": "Virtual Ventures",
+      "distance": "1.6 mi",
+      "url": "https://www.google.com/maps/search/Virtual%20Ventures+near+41.5195121%2C-90.58457179999999"
+    },
+    {
+      "name": "Bustout Live Escape Game",
+      "distance": "4.7 mi",
+      "url": "https://www.google.com/maps/search/Bustout%20Live%20Escape%20Game+near+41.5195121%2C-90.58457179999999",
+      "isFar": true
+    },
+    {
+      "name": "Splash Pad | Lincoln Park",
+      "distance": "4.7 mi",
+      "url": "https://www.google.com/maps/search/Splash%20Pad%20%7C%20Lincoln%20Park+near+41.5195121%2C-90.58457179999999",
+      "isFar": true
+    },
+    {
+      "name": "Hidden Barn Escape",
+      "distance": "4.8 mi",
+      "url": "https://www.google.com/maps/search/Hidden%20Barn%20Escape+near+41.5195121%2C-90.58457179999999",
+      "isFar": true
+    }
+  ],
+  "hotels": [
+    {
+      "name": "Luxury River-Front Handicap Accessible Studio Apt - Apartment",
+      "distance": "0.3 mi",
+      "url": "https://www.google.com/maps/search/Luxury%20River-Front%20Handicap%20Accessible%20Studio%20Apt%20-%20Apartment+near+41.5195121%2C-90.58457179999999"
+    },
+    {
+      "name": "Stunning Luxury 1 bd 1 bath Apt Downtown QC - Apartment",
+      "distance": "0.3 mi",
+      "url": "https://www.google.com/maps/search/Stunning%20Luxury%201%20bd%201%20bath%20Apt%20Downtown%20QC%20-%20Apartment+near+41.5195121%2C-90.58457179999999"
+    },
+    {
+      "name": "River Front Luxury Furnished Studio Downtown QC - Apartment",
+      "distance": "0.3 mi",
+      "url": "https://www.google.com/maps/search/River%20Front%20Luxury%20Furnished%20Studio%20Downtown%20QC%20-%20Apartment+near+41.5195121%2C-90.58457179999999"
+    },
+    {
+      "name": "River Front Luxury Furnished Studio Downtown QC",
+      "distance": "0.3 mi",
+      "url": "https://www.google.com/maps/search/River%20Front%20Luxury%20Furnished%20Studio%20Downtown%20QC+near+41.5195121%2C-90.58457179999999"
+    },
+    {
+      "name": "Stunning Luxury 1 bd 1 bath Apt Downtown QC",
+      "distance": "0.3 mi",
+      "url": "https://www.google.com/maps/search/Stunning%20Luxury%201%20bd%201%20bath%20Apt%20Downtown%20QC+near+41.5195121%2C-90.58457179999999"
+    },
+    {
+      "name": "Luxury River-Front Handicap Accessible Studio Apt",
+      "distance": "0.3 mi",
+      "url": "https://www.google.com/maps/search/Luxury%20River-Front%20Handicap%20Accessible%20Studio%20Apt+near+41.5195121%2C-90.58457179999999"
+    },
+    {
+      "name": "Restored 1906 3-Bedroom Townhouse Overlooking the Mississippi River.",
+      "distance": "0.4 mi",
+      "url": "https://www.google.com/maps/search/Restored%201906%203-Bedroom%20Townhouse%20Overlooking%20the%20Mississippi%20River.+near+41.5195121%2C-90.58457179999999"
+    }
+  ],
+  "gas": [
+    {
+      "name": "Shell",
+      "distance": "0.2 mi",
+      "url": "https://www.google.com/maps/search/Shell+near+41.5195121%2C-90.58457179999999"
+    },
+    {
+      "name": "bp",
+      "distance": "0.9 mi",
+      "url": "https://www.google.com/maps/search/bp+near+41.5195121%2C-90.58457179999999"
+    },
+    {
+      "name": "Shell",
+      "distance": "1.0 mi",
+      "url": "https://www.google.com/maps/search/Shell+near+41.5195121%2C-90.58457179999999"
+    },
+    {
+      "name": "Phillips 66",
+      "distance": "1.0 mi",
+      "url": "https://www.google.com/maps/search/Phillips%2066+near+41.5195121%2C-90.58457179999999"
+    },
+    {
+      "name": "Gulf Station",
+      "distance": "1.1 mi",
+      "url": "https://www.google.com/maps/search/Gulf%20Station+near+41.5195121%2C-90.58457179999999"
+    }
+  ]
+}

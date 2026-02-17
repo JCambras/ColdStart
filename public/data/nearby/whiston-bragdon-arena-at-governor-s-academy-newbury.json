@@ -1,0 +1,205 @@
+{
+  "quick_bite": [
+    {
+      "name": "McDonald's",
+      "distance": "3.2 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=McDonald's&query_place_id=ChIJXa49lZ4e44kR8JIsEyyBy7k&center=42.7038793,-70.90889179999999",
+      "isFar": true
+    },
+    {
+      "name": "Newburyport Foods",
+      "distance": "3.6 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Newburyport%20Foods&query_place_id=ChIJ9yRF30Lh4okRbSHQMhPMTuU&center=42.7983487,-70.8749132",
+      "isFar": true
+    },
+    {
+      "name": "Subway",
+      "distance": "3.6 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Subway&query_place_id=ChIJya2x0bvh4okRHSfchujHnes&center=42.7983797,-70.87493479999999",
+      "isFar": true
+    },
+    {
+      "name": "EPICUREO Pizza",
+      "distance": "4.5 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=EPICUREO%20Pizza&query_place_id=ChIJXTK1VHPh4okRXgyKEzMRyB4&center=42.8098382,-70.8658846",
+      "isFar": true
+    },
+    {
+      "name": "Port City Sandwich Co.",
+      "distance": "4.6 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Port%20City%20Sandwich%20Co.&query_place_id=ChIJj3r1Pbnh4okRTI2HC_YW5gk&center=42.812612099999996,-70.87187089999999",
+      "isFar": true
+    },
+    {
+      "name": "Moe’s Italian Sandwiches of Newburyport, MA",
+      "distance": "4.8 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Moe%E2%80%99s%20Italian%20Sandwiches%20of%20Newburyport%2C%20MA&query_place_id=ChIJGSO01NTj4okRddh33lzjJ7U&center=42.8188141,-70.9103499",
+      "isFar": true
+    }
+  ],
+  "coffee": [
+    {
+      "name": "Byfield Coffee Company",
+      "distance": "1.3 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Byfield%20Coffee%20Company&query_place_id=ChIJPZbDzQ8d44kR9XKiqeUFEjE&center=42.7480641,-70.9271871"
+    },
+    {
+      "name": "Three Sweet Peas Bakery Cafe",
+      "distance": "2.6 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Three%20Sweet%20Peas%20Bakery%20Cafe&query_place_id=ChIJwTVVoqsf44kRxZzKY50dMYk&center=42.716215399999996,-70.8789077"
+    },
+    {
+      "name": "Family Pancake House",
+      "distance": "3.1 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Family%20Pancake%20House&query_place_id=ChIJSwDhsvUf44kRoxLQ4Jwr0g0&center=42.707430099999996,-70.8819036",
+      "isFar": true
+    },
+    {
+      "name": "M Cafe (Manila Cafe & Bistro)",
+      "distance": "3.2 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=M%20Cafe%20(Manila%20Cafe%20%26%20Bistro)&query_place_id=ChIJG3u65Scf44kReK1vhtP7vDo&center=42.7057899,-70.8812634",
+      "isFar": true
+    },
+    {
+      "name": "The Angry Donut and Cafe",
+      "distance": "4.5 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=The%20Angry%20Donut%20and%20Cafe&query_place_id=ChIJC7jOZ6fh4okRSVq72RWuH8s&center=42.810590499999996,-70.87083",
+      "isFar": true
+    }
+  ],
+  "team_lunch": [
+    {
+      "name": "The Olde Craft Bakery, Organic, Newbury, MA",
+      "distance": "3.6 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=The%20Olde%20Craft%20Bakery%2C%20Organic%2C%20Newbury%2C%20MA&query_place_id=ChIJkRMU6Tnh4okRUNBDxe7-YRY&center=42.7865118,-70.85124739999999",
+      "isFar": true
+    }
+  ],
+  "dinner": [
+    {
+      "name": "Piatto Cafe",
+      "distance": "1.4 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Piatto%20Cafe&query_place_id=ChIJC1Mzc6kf44kR3m7Dl1uZswY&center=42.7294652,-70.9016663"
+    },
+    {
+      "name": "Simard's Place",
+      "distance": "1.5 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Simard's%20Place&query_place_id=ChIJ4RQ9D5we44kRLfxAASYfCWE&center=42.7283681,-70.9020029"
+    },
+    {
+      "name": "Rusty Can",
+      "distance": "1.9 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Rusty%20Can&query_place_id=ChIJ6RxBHbEd44kRQVTlETAOqpY&center=42.755576999999995,-70.9385741"
+    },
+    {
+      "name": "Wyatt's Market",
+      "distance": "1.9 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Wyatt's%20Market&query_place_id=ChIJ5zMjBKYd44kREbwNM46yV54&center=42.755670599999995,-70.9387106"
+    },
+    {
+      "name": "Casey J's Tavern + American BBQ Catering",
+      "distance": "2.5 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Casey%20J's%20Tavern%20%2B%20American%20BBQ%20Catering&query_place_id=ChIJUbpFH70W44kR4yRrqBLnbI0&center=42.724780599999995,-70.86496869999999"
+    },
+    {
+      "name": "El Tapatio Mexican Restaurant",
+      "distance": "2.6 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=El%20Tapatio%20Mexican%20Restaurant&query_place_id=ChIJW152mgIc44kRHtCBXLfRcqE&center=42.713229999999996,-70.9077119"
+    }
+  ],
+  "bowling": [
+    {
+      "name": "Swan Lanes at Georgetown Flatbread",
+      "distance": "6.0 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Swan%20Lanes%20at%20Georgetown%20Flatbread&query_place_id=ChIJ2Th0YccF44kRprZaGp9Ow8M&center=42.7178104,-71.0116014",
+      "isFar": true
+    },
+    {
+      "name": "Gametime Lanes & Entertainment (Amesbury Location)",
+      "distance": "6.9 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Gametime%20Lanes%20%26%20Entertainment%20(Amesbury%20Location)&query_place_id=ChIJH5F78KDj4okR773pDMihz4k&center=42.842118899999996,-70.9526831",
+      "isFar": true
+    },
+    {
+      "name": "International Candlepin Bowling Association",
+      "distance": "7.4 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=International%20Candlepin%20Bowling%20Association&query_place_id=ChIJq6pmIP4C44kRkm26zo-7usM&center=42.7666712,-71.0454821",
+      "isFar": true
+    }
+  ],
+  "arcade": [],
+  "movies": [
+    {
+      "name": "The Screening Room",
+      "distance": "4.4 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=The%20Screening%20Room&query_place_id=ChIJiVP0hqjh4okRXvLsLbpGQUU&center=42.809363399999995,-70.8707613",
+      "isFar": true
+    },
+    {
+      "name": "Vision Max Cinema",
+      "distance": "6.5 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Vision%20Max%20Cinema&query_place_id=ChIJr098vVrh4okRUKsdnr3Kddw&center=42.843924,-70.896706",
+      "isFar": true
+    }
+  ],
+  "fun": [
+    {
+      "name": "Inn Street Fountain & Splash Pad",
+      "distance": "4.5 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Inn%20Street%20Fountain%20%26%20Splash%20Pad&query_place_id=ChIJZSBhE6jh4okRz7bDObRhLWU&center=42.8107545,-70.8703561",
+      "isFar": true
+    },
+    {
+      "name": "Market Square",
+      "distance": "4.5 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Market%20Square&query_place_id=ChIJ-SvTkAfh4okRrbaC5l5pmbc&center=42.811473,-70.8695992",
+      "isFar": true
+    },
+    {
+      "name": "Arakelian Waterfront Swings",
+      "distance": "4.6 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Arakelian%20Waterfront%20Swings&query_place_id=ChIJY8mBNQDh4okRnirSDLI0lTc&center=42.8127065,-70.86953749999999",
+      "isFar": true
+    },
+    {
+      "name": "Joe's Playland",
+      "distance": "7.7 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Joe's%20Playland&query_place_id=ChIJR3A4YFTn4okRweS8RMqLfts&center=42.842683699999995,-70.81659739999999",
+      "isFar": true
+    }
+  ],
+  "hotels": [
+    {
+      "name": "Briar Barn Inn",
+      "distance": "2.8 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Briar%20Barn%20Inn&query_place_id=ChIJAQCwr8ce44kRMihFu7X7Y5E&center=42.712510099999996,-70.8817426"
+    },
+    {
+      "name": "Waterfront on the Parker River!! Close to beaches and Newburyport. Pet-Friendly",
+      "distance": "2.9 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Waterfront%20on%20the%20Parker%20River!!%20Close%20to%20beaches%20and%20Newburyport.%20Pet-Friendly&query_place_id=ChIJLaDOs9of44kRYtsGXANL3kQ&center=42.760913900000006,-70.8467178"
+    }
+  ],
+  "gas": [
+    {
+      "name": "A.L. Prime Energy",
+      "distance": "2.3 mi",
+      "url": "https://www.google.com/maps/search/A.L.%20Prime%20Energy+near+42.7501306%2C-70.9012053"
+    },
+    {
+      "name": "Donald F Knowles Inc",
+      "distance": "3.1 mi",
+      "url": "https://www.google.com/maps/search/Donald%20F%20Knowles%20Inc+near+42.7501306%2C-70.9012053"
+    },
+    {
+      "name": "Ampet",
+      "distance": "3.9 mi",
+      "url": "https://www.google.com/maps/search/Ampet+near+42.7501306%2C-70.9012053"
+    },
+    {
+      "name": "Mobil",
+      "distance": "4.6 mi",
+      "url": "https://www.google.com/maps/search/Mobil+near+42.7501306%2C-70.9012053"
+    }
+  ]
+}

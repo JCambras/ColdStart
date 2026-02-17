@@ -1,0 +1,203 @@
+{
+  "quick_bite": [
+    {
+      "name": "China King Chinese Restaurant",
+      "distance": "0.2 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=China%20King%20Chinese%20Restaurant&query_place_id=ChIJ5SqFUeXhw4kRuNaN0OWV114&center=40.2649288,-74.6754747"
+    },
+    {
+      "name": "Krispy Krunchy Chicken",
+      "distance": "0.2 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Krispy%20Krunchy%20Chicken&query_place_id=ChIJk7lEla_hw4kRKi_cLpyLGu4&center=40.2647514,-74.6749983"
+    },
+    {
+      "name": "Wing it & Grill",
+      "distance": "0.4 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Wing%20it%20%26%20Grill&query_place_id=ChIJpcYzoO3hw4kR94IrKm1DKlw&center=40.2713472,-74.672224"
+    },
+    {
+      "name": "TN MADRAS KITCHEN",
+      "distance": "0.7 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=TN%20MADRAS%20KITCHEN&query_place_id=ChIJoY58gfPhw4kRAtMBfzn9sGg&center=40.2747653,-74.6699316"
+    },
+    {
+      "name": "Taco Bell",
+      "distance": "1.3 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Taco%20Bell&query_place_id=ChIJlZfe0KxYwYkRZTMxI4TKZtw&center=40.2489718,-74.6866266"
+    },
+    {
+      "name": "Checkers",
+      "distance": "1.3 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Checkers&query_place_id=ChIJ-73AXN1ZwYkRNPFCot7iESs&center=40.2491093,-74.6874816"
+    }
+  ],
+  "coffee": [
+    {
+      "name": "Caesar’s Bagels & Deli",
+      "distance": "1.2 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Caesar%E2%80%99s%20Bagels%20%26%20Deli&query_place_id=ChIJVVVVVaVYwYkR43LVo3udrQc&center=40.2494298,-74.68243679999999"
+    }
+  ],
+  "team_lunch": [
+    {
+      "name": "Thai Pin",
+      "distance": "0.4 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Thai%20Pin&query_place_id=ChIJz8dvtO3hw4kRTaeYthi0UA8&center=40.271328,-74.67236000000001"
+    },
+    {
+      "name": "No 1 Asian Bistro",
+      "distance": "1.2 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=No%201%20Asian%20Bistro&query_place_id=ChIJlXpUtlNfwYkRcBBSWtSmPwE&center=40.2496695,-74.68252509999999"
+    },
+    {
+      "name": "Auntie Anne's",
+      "distance": "1.7 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Auntie%20Anne's&query_place_id=ChIJIyGjsYbhw4kRTrOx9s8cguc&center=40.2905479,-74.68170049999999"
+    },
+    {
+      "name": "Cinnabon",
+      "distance": "1.7 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Cinnabon&query_place_id=ChIJCQN-sIbhw4kROphbbbpYcNE&center=40.290656999999996,-74.68203559999999"
+    },
+    {
+      "name": "Quaker Bridge Cookie Factory",
+      "distance": "1.7 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Quaker%20Bridge%20Cookie%20Factory&query_place_id=ChIJbSYCxXbiw4kRJKRI8-hcUc4&center=40.2910981,-74.6830994"
+    },
+    {
+      "name": "Cafe de Marcela",
+      "distance": "2.1 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Cafe%20de%20Marcela&query_place_id=ChIJS_gbPgDhw4kRtKUstKrIdlY&center=40.2928339,-74.6568095"
+    }
+  ],
+  "dinner": [
+    {
+      "name": "JS Cafe",
+      "distance": "0.1 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=JS%20Cafe&query_place_id=ChIJM0Oonv7hw4kRhDvHXpg7ZJc&center=40.2673217,-74.67718750000002"
+    },
+    {
+      "name": "Ninos Pastry Shoppe",
+      "distance": "0.2 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Ninos%20Pastry%20Shoppe&query_place_id=ChIJ9_esS-Xhw4kRWV-AAu3VgxE&center=40.264723499999995,-74.67587569999999"
+    },
+    {
+      "name": "El Jalapeño",
+      "distance": "0.2 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=El%20Jalape%C3%B1o&query_place_id=ChIJ9_esS-Xhw4kRjYeVMt1trQM&center=40.264902299999996,-74.67539289999999"
+    },
+    {
+      "name": "Villa María Restaurant",
+      "distance": "0.2 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Villa%20Mar%C3%ADa%20Restaurant&query_place_id=ChIJ9_esS-Xhw4kRuckxivsCAr4&center=40.2646063,-74.6759266"
+    },
+    {
+      "name": "Persis Biryani & Indian Grill",
+      "distance": "0.2 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Persis%20Biryani%20%26%20Indian%20Grill&query_place_id=ChIJ9_esS-Xhw4kRjLpYfKEtOWU&center=40.264821999999995,-74.6750996"
+    },
+    {
+      "name": "Karim Halal Meat & Grill",
+      "distance": "0.2 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Karim%20Halal%20Meat%20%26%20Grill&query_place_id=ChIJBS0nVGjhw4kRUog7Gz_usrg&center=40.2636016,-74.6765496"
+    }
+  ],
+  "bowling": [
+    {
+      "name": "Colonial Bowling and Entertainment",
+      "distance": "2.7 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Colonial%20Bowling%20and%20Entertainment&query_place_id=ChIJNw8zjXnhw4kRgq624v-oVZw&center=40.2568208,-74.7272143"
+    },
+    {
+      "name": "Hamilton Lanes and Entertainment Center",
+      "distance": "4.0 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Hamilton%20Lanes%20and%20Entertainment%20Center&query_place_id=ChIJG-9gALZZwYkRkySBtI31AjI&center=40.2118403,-74.70380899999999",
+      "isFar": true
+    }
+  ],
+  "arcade": [],
+  "movies": [
+    {
+      "name": "AMC MarketFair 10",
+      "distance": "3.5 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=AMC%20MarketFair%2010&query_place_id=ChIJE9KJGRXhw4kRLbGbX0RtZnI&center=40.3154453,-74.66192629999999",
+      "isFar": true
+    }
+  ],
+  "fun": [
+    {
+      "name": "Sky Zone Trampoline Park",
+      "distance": "0.9 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Sky%20Zone%20Trampoline%20Park&query_place_id=ChIJ6Tbna1VfwYkRMRptIOYpo5w&center=40.255108299999996,-74.6837907"
+    },
+    {
+      "name": "Science, Kids and Beyond",
+      "distance": "2.1 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Science%2C%20Kids%20and%20Beyond&query_place_id=ChIJQxEVGQBZwYkRpKbnUf8CmIA&center=40.2465883,-74.708461"
+    },
+    {
+      "name": "Five Points",
+      "distance": "2.2 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Five%20Points&query_place_id=ChIJsdZpih1ZwYkRcxN39O2BnVI&center=40.2364968,-74.6880077"
+    },
+    {
+      "name": "Cloak & Dagger Escape Rooms - Hamilton",
+      "distance": "2.4 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Cloak%20%26%20Dagger%20Escape%20Rooms%20-%20Hamilton&query_place_id=ChIJ___v1jZfwYkRULIA3olDdd8&center=40.2324244,-74.6794548"
+    }
+  ],
+  "hotels": [
+    {
+      "name": "Candlewood Suites Lawrenceville - Princeton by IHG",
+      "distance": "1.5 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Candlewood%20Suites%20Lawrenceville%20-%20Princeton%20by%20IHG&query_place_id=ChIJy3GkaBbiw4kRa4PXkje44Wo&center=40.276637799999996,-74.70333049999999"
+    },
+    {
+      "name": "Mount Motel",
+      "distance": "1.6 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Mount%20Motel&query_place_id=ChIJ9UItWWJYwYkR7DlwF4j1rVU&center=40.275631,-74.7047169"
+    },
+    {
+      "name": "Motel 6 Lawrenceville, NJ",
+      "distance": "1.7 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Motel%206%20Lawrenceville%2C%20NJ&query_place_id=ChIJx6AnyWbjw4kRCiPqw8tVEN4&center=40.2763977,-74.7063064"
+    },
+    {
+      "name": "HomeTowne Studios Princeton - Ewing/ Lawrenceville",
+      "distance": "1.7 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=HomeTowne%20Studios%20Princeton%20-%20Ewing%2F%20Lawrenceville&query_place_id=ChIJIVtqQRvjw4kRhlBrlpGDsVg&center=40.2889585,-74.6904157"
+    },
+    {
+      "name": "Red Roof Inn Princeton - Ewing",
+      "distance": "1.7 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Red%20Roof%20Inn%20Princeton%20-%20Ewing&query_place_id=ChIJezL_5Sjiw4kRSEKfkq1xH3k&center=40.288959299999995,-74.6904165"
+    },
+    {
+      "name": "Quality Inn Near Princeton",
+      "distance": "1.7 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Quality%20Inn%20Near%20Princeton&query_place_id=ChIJ5WOwUIfhw4kRZTo60pOWwcM&center=40.290524,-74.686194"
+    }
+  ],
+  "gas": [
+    {
+      "name": "Sunoco",
+      "distance": "0.2 mi",
+      "url": "https://www.google.com/maps/search/Sunoco+near+40.2667321%2C-74.6775195"
+    },
+    {
+      "name": "Costco Gas Station",
+      "distance": "1.1 mi",
+      "url": "https://www.google.com/maps/search/Costco%20Gas%20Station+near+40.2667321%2C-74.6775195"
+    },
+    {
+      "name": "Exxon",
+      "distance": "1.3 mi",
+      "url": "https://www.google.com/maps/search/Exxon+near+40.2667321%2C-74.6775195"
+    },
+    {
+      "name": "Wawa",
+      "distance": "1.3 mi",
+      "url": "https://www.google.com/maps/search/Wawa+near+40.2667321%2C-74.6775195"
+    }
+  ]
+}

@@ -1,0 +1,125 @@
+{
+  "quick_bite": [
+    {
+      "name": "Burger King",
+      "distance": "0.9 mi",
+      "url": "https://www.google.com/maps/search/Burger%20King+near+38.314762099999996%2C-80.65427389999999"
+    },
+    {
+      "name": "Tudor's Biscuit World",
+      "distance": "1.0 mi",
+      "url": "https://www.google.com/maps/search/Tudor's%20Biscuit%20World+near+38.314762099999996%2C-80.65427389999999"
+    },
+    {
+      "name": "Subway",
+      "distance": "1.1 mi",
+      "url": "https://www.google.com/maps/search/Subway+near+38.314762099999996%2C-80.65427389999999"
+    }
+  ],
+  "coffee": [
+    {
+      "name": "Cherry River Roasters",
+      "distance": "0.6 mi",
+      "url": "https://www.google.com/maps/search/Cherry%20River%20Roasters+near+38.314762099999996%2C-80.65427389999999"
+    }
+  ],
+  "team_lunch": [
+    {
+      "name": "Manda's Sweets and Such",
+      "distance": "0.1 mi",
+      "url": "https://www.google.com/maps/search/Manda's%20Sweets%20and%20Such+near+38.314762099999996%2C-80.65427389999999"
+    },
+    {
+      "name": "Gino's Pizza & Spaghetti House",
+      "distance": "1.0 mi",
+      "url": "https://www.google.com/maps/search/Gino's%20Pizza%20%26%20Spaghetti%20House+near+38.314762099999996%2C-80.65427389999999"
+    }
+  ],
+  "dinner": [
+    {
+      "name": "PHATS Wagon LLC",
+      "distance": "0.6 mi",
+      "url": "https://www.google.com/maps/search/PHATS%20Wagon%20LLC+near+38.314762099999996%2C-80.65427389999999"
+    },
+    {
+      "name": "Craigsville Dairy Bar",
+      "distance": "0.8 mi",
+      "url": "https://www.google.com/maps/search/Craigsville%20Dairy%20Bar+near+38.314762099999996%2C-80.65427389999999"
+    },
+    {
+      "name": "China inn",
+      "distance": "1.1 mi",
+      "url": "https://www.google.com/maps/search/China%20inn+near+38.314762099999996%2C-80.65427389999999"
+    },
+    {
+      "name": "Hunt Brothers Pizza",
+      "distance": "3.3 mi",
+      "url": "https://www.google.com/maps/search/Hunt%20Brothers%20Pizza+near+38.314762099999996%2C-80.65427389999999",
+      "isFar": true
+    },
+    {
+      "name": "Café Trestle",
+      "distance": "3.8 mi",
+      "url": "https://www.google.com/maps/search/Caf%C3%A9%20Trestle+near+38.314762099999996%2C-80.65427389999999",
+      "isFar": true
+    }
+  ],
+  "bowling": [
+    {
+      "name": "Craigsville Lanes",
+      "distance": "0.6 mi",
+      "url": "https://www.google.com/maps/search/Craigsville%20Lanes+near+38.314762099999996%2C-80.65427389999999"
+    }
+  ],
+  "arcade": [],
+  "movies": [
+    {
+      "name": "Marquee Cinemas - Summersville, WV",
+      "distance": "9.9 mi",
+      "url": "https://www.google.com/maps/search/Marquee%20Cinemas%20-%20Summersville%2C%20WV+near+38.314762099999996%2C-80.65427389999999",
+      "isFar": true
+    }
+  ],
+  "fun": [],
+  "hotels": [
+    {
+      "name": "3 BR/3 BA - Bridge Day | Steam Sauna & Jetted Tub",
+      "distance": "0.7 mi",
+      "url": "https://www.google.com/maps/search/3%20BR%2F3%20BA%20-%20Bridge%20Day%20%7C%20Steam%20Sauna%20%26%20Jetted%20Tub+near+38.314762099999996%2C-80.65427389999999"
+    },
+    {
+      "name": "2BR/2BA - Bridge Day | Steam Sauna & Jetted Tub",
+      "distance": "0.7 mi",
+      "url": "https://www.google.com/maps/search/2BR%2F2BA%20-%20Bridge%20Day%20%7C%20Steam%20Sauna%20%26%20Jetted%20Tub+near+38.314762099999996%2C-80.65427389999999"
+    },
+    {
+      "name": "Spa-Style 1BR/1BA Retreat- Jetted Tub + Steam Sauna Near Summersville Lake",
+      "distance": "1.0 mi",
+      "url": "https://www.google.com/maps/search/Spa-Style%201BR%2F1BA%20Retreat-%20Jetted%20Tub%20%2B%20Steam%20Sauna%20Near%20Summersville%20Lake+near+38.314762099999996%2C-80.65427389999999"
+    },
+    {
+      "name": "Coal Siding Cabin on the Cherry River! Enjoy river views from porch or deck.",
+      "distance": "3.1 mi",
+      "url": "https://www.google.com/maps/search/Coal%20Siding%20Cabin%20on%20the%20Cherry%20River!%20Enjoy%20river%20views%20from%20porch%20or%20deck.+near+38.314762099999996%2C-80.65427389999999",
+      "isFar": true
+    },
+    {
+      "name": "Beaver Lakes Campground",
+      "distance": "3.4 mi",
+      "url": "https://www.google.com/maps/search/Beaver%20Lakes%20Campground+near+38.314762099999996%2C-80.65427389999999",
+      "isFar": true
+    }
+  ],
+  "gas": [
+    {
+      "name": "U SAVE",
+      "distance": "1.1 mi",
+      "url": "https://www.google.com/maps/search/U%20SAVE+near+38.314762099999996%2C-80.65427389999999"
+    },
+    {
+      "name": "Exxon",
+      "distance": "3.3 mi",
+      "url": "https://www.google.com/maps/search/Exxon+near+38.314762099999996%2C-80.65427389999999"
+    }
+  ]
+}

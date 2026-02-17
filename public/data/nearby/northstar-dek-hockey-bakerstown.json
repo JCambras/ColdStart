@@ -1,0 +1,169 @@
+{
+  "quick_bite": [
+    {
+      "name": "Buffalo Wild Wings",
+      "distance": "1.0 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Buffalo%20Wild%20Wings&query_place_id=ChIJQ9-8WMqPNIgRaL8lRJ9cohc&center=40.643062,-79.939081"
+    },
+    {
+      "name": "Subway",
+      "distance": "1.0 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Subway&query_place_id=ChIJQ9-8WMqPNIgR7DGFv9wx9QA&center=40.643021999999995,-79.9393841"
+    },
+    {
+      "name": "Wendy's",
+      "distance": "1.3 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Wendy's&query_place_id=ChIJ5cbsczaONIgR3vlpmBznYD4&center=40.6377014,-79.9393129"
+    },
+    {
+      "name": "Taco Bell",
+      "distance": "1.4 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Taco%20Bell&query_place_id=ChIJ5cbsczaONIgRmMiV-LgG2S4&center=40.6374062,-79.9395758"
+    }
+  ],
+  "coffee": [
+    {
+      "name": "Starbucks Coffee Company",
+      "distance": "1.1 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Starbucks%20Coffee%20Company&query_place_id=ChIJFRilKcuPNIgRctfgHAjxL9o&center=40.6408,-79.93872999999999"
+    },
+    {
+      "name": "Dairy Barn",
+      "distance": "1.6 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Dairy%20Barn&query_place_id=ChIJk5w36JmPNIgRCOT90IifqRU&center=40.665639,-79.9537127"
+    },
+    {
+      "name": "Freya Jane’s Bakery & Cafe",
+      "distance": "3.1 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Freya%20Jane%E2%80%99s%20Bakery%20%26%20Cafe&query_place_id=ChIJJ5khl4qFNIgRSKkIrMGYXNQ&center=40.698768199999996,-79.9367601",
+      "isFar": true
+    },
+    {
+      "name": "Donut Connection",
+      "distance": "3.5 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Donut%20Connection&query_place_id=ChIJq75QB3SONIgRGnLDoI5fr1s&center=40.605923100000005,-79.9468315",
+      "isFar": true
+    }
+  ],
+  "team_lunch": [
+    {
+      "name": "Applebee's Grill + Bar",
+      "distance": "1.2 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Applebee's%20Grill%20%2B%20Bar&query_place_id=ChIJrS4a2TSONIgRXeQwPho2p0I&center=40.6396158,-79.938688"
+    },
+    {
+      "name": "Grandma Ann's Nutbread",
+      "distance": "2.4 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Grandma%20Ann's%20Nutbread&query_place_id=ChIJCex6rEGONIgRFCKfH6lRcIE&center=40.622076799999995,-79.94388049999999"
+    }
+  ],
+  "dinner": [
+    {
+      "name": "Sweet b Sweet Shop",
+      "distance": "0.5 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Sweet%20b%20Sweet%20Shop&query_place_id=ChIJOz8Ck8WPNIgRg3e5OKhg_ig&center=40.650832,-79.93451189999999"
+    },
+    {
+      "name": "Parkside Grill",
+      "distance": "0.5 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Parkside%20Grill&query_place_id=ChIJZyy9CkaPNIgR_L1lWV2kKjE&center=40.659431999999995,-79.9338281"
+    },
+    {
+      "name": "Cala Lily Restaurant and Bar",
+      "distance": "1.0 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Cala%20Lily%20Restaurant%20and%20Bar&query_place_id=ChIJL5b-rUCONIgRjXgzalbOzNo&center=40.642959399999995,-79.9395961"
+    },
+    {
+      "name": "The Eatery",
+      "distance": "1.1 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=The%20Eatery&query_place_id=ChIJv4LiFsuPNIgR16v3PDmPfxU&center=40.6417602,-79.93798249999999"
+    },
+    {
+      "name": "The Scoreboard Restaurant & Lounge",
+      "distance": "1.1 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=The%20Scoreboard%20Restaurant%20%26%20Lounge&query_place_id=ChIJ-0Z7NO6PNIgRtdw9zKaOAf0&center=40.6690718,-79.93341749999999"
+    },
+    {
+      "name": "Jade Palace",
+      "distance": "1.4 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Jade%20Palace&query_place_id=ChIJ6e8GauiPNIgRq0jk79nv7GE&center=40.6372487,-79.94233679999999"
+    }
+  ],
+  "bowling": [
+    {
+      "name": "Deer Lakes Bowl & Lounge",
+      "distance": "4.9 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Deer%20Lakes%20Bowl%20%26%20Lounge&query_place_id=ChIJCWox6mqRNIgRF4vY3DtCbqU&center=40.611325099999995,-79.85338569999999",
+      "isFar": true
+    },
+    {
+      "name": "Mars Lanes",
+      "distance": "4.9 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Mars%20Lanes&query_place_id=ChIJ_WYHEf6FNIgRs668db-1d8A&center=40.690773799999995,-80.007823",
+      "isFar": true
+    }
+  ],
+  "arcade": [],
+  "movies": [
+    {
+      "name": "The Copper Still Theater",
+      "distance": "2.7 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=The%20Copper%20Still%20Theater&query_place_id=ChIJHzBmUyORNIgRGj9ADqc_kyI&center=40.621054199999996,-79.9008597"
+    }
+  ],
+  "fun": [
+    {
+      "name": "Adams Township Splash Pad",
+      "distance": "5.1 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Adams%20Township%20Splash%20Pad&query_place_id=ChIJESfCglWFNIgRmicu_-X5a-8&center=40.7101051,-79.99123039999999",
+      "isFar": true
+    },
+    {
+      "name": "LLBean Kayak and SUP",
+      "distance": "5.4 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=LLBean%20Kayak%20and%20SUP&query_place_id=ChIJ6-FOKIeNNIgRT8ci47777Hs&center=40.597823299999995,-79.99723259999999",
+      "isFar": true
+    },
+    {
+      "name": "Superior Shelter",
+      "distance": "5.6 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Superior%20Shelter&query_place_id=ChIJbwTXg4eNNIgRLZmmmaFT4o0&center=40.5961267,-80.00055689999999",
+      "isFar": true
+    },
+    {
+      "name": "Mr. Tree",
+      "distance": "5.6 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Mr.%20Tree&query_place_id=ChIJgzCE5RONNIgR7yu-2cLwztA&center=40.5870355,-79.9857565",
+      "isFar": true
+    }
+  ],
+  "hotels": [
+    {
+      "name": "Sun and Cricket Bed and Breakfast",
+      "distance": "2.0 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Sun%20and%20Cricket%20Bed%20and%20Breakfast&query_place_id=ChIJHci15kKQNIgRnSg6sHoZA8A&center=40.654552699999996,-79.888272"
+    }
+  ],
+  "gas": [
+    {
+      "name": "GetGo Café + Market & WetGo Car Wash",
+      "distance": "1.0 mi",
+      "url": "https://www.google.com/maps/search/GetGo%20Caf%C3%A9%20%2B%20Market%20%26%20WetGo%20Car%20Wash+near+40.6542922%2C-79.92655909999999"
+    },
+    {
+      "name": "American Natural 17",
+      "distance": "1.0 mi",
+      "url": "https://www.google.com/maps/search/American%20Natural%2017+near+40.6542922%2C-79.92655909999999"
+    },
+    {
+      "name": "Exxon Save 'N Go",
+      "distance": "1.5 mi",
+      "url": "https://www.google.com/maps/search/Exxon%20Save%20'N%20Go+near+40.6542922%2C-79.92655909999999"
+    },
+    {
+      "name": "Sunoco",
+      "distance": "1.5 mi",
+      "url": "https://www.google.com/maps/search/Sunoco+near+40.6542922%2C-79.92655909999999"
+    }
+  ]
+}

@@ -1,0 +1,125 @@
+{
+  "quick_bite": [
+    {
+      "name": "Subway",
+      "distance": "0.2 mi",
+      "url": "https://www.google.com/maps/search/Subway+near+42.3500287%2C-95.47229270000001"
+    },
+    {
+      "name": "Casey's",
+      "distance": "0.3 mi",
+      "url": "https://www.google.com/maps/search/Casey's+near+42.3500287%2C-95.47229270000001"
+    },
+    {
+      "name": "Chester's Chicken",
+      "distance": "6.7 mi",
+      "url": "https://www.google.com/maps/search/Chester's%20Chicken+near+42.3500287%2C-95.47229270000001",
+      "isFar": true
+    },
+    {
+      "name": "Chester's Chicken",
+      "distance": "6.9 mi",
+      "url": "https://www.google.com/maps/search/Chester's%20Chicken+near+42.3500287%2C-95.47229270000001",
+      "isFar": true
+    },
+    {
+      "name": "Hardee's",
+      "distance": "9.3 mi",
+      "url": "https://www.google.com/maps/search/Hardee's+near+42.3500287%2C-95.47229270000001",
+      "isFar": true
+    }
+  ],
+  "coffee": [
+    {
+      "name": "The Farmacy Soda Fountain & Coffee House",
+      "distance": "0.3 mi",
+      "url": "https://www.google.com/maps/search/The%20Farmacy%20Soda%20Fountain%20%26%20Coffee%20House+near+42.3500287%2C-95.47229270000001"
+    },
+    {
+      "name": "Dunkin'",
+      "distance": "9.3 mi",
+      "url": "https://www.google.com/maps/search/Dunkin'+near+42.3500287%2C-95.47229270000001",
+      "isFar": true
+    }
+  ],
+  "team_lunch": [],
+  "dinner": [
+    {
+      "name": "Taco Island",
+      "distance": "0.3 mi",
+      "url": "https://www.google.com/maps/search/Taco%20Island+near+42.3500287%2C-95.47229270000001"
+    },
+    {
+      "name": "Brownie's Drive-In",
+      "distance": "0.4 mi",
+      "url": "https://www.google.com/maps/search/Brownie's%20Drive-In+near+42.3500287%2C-95.47229270000001"
+    },
+    {
+      "name": "Zimmy's Bar & Grille",
+      "distance": "0.8 mi",
+      "url": "https://www.google.com/maps/search/Zimmy's%20Bar%20%26%20Grille+near+42.3500287%2C-95.47229270000001"
+    },
+    {
+      "name": "Bread Box",
+      "distance": "6.9 mi",
+      "url": "https://www.google.com/maps/search/Bread%20Box+near+42.3500287%2C-95.47229270000001",
+      "isFar": true
+    },
+    {
+      "name": "Fred's Place Bar And Grill",
+      "distance": "6.9 mi",
+      "url": "https://www.google.com/maps/search/Fred's%20Place%20Bar%20And%20Grill+near+42.3500287%2C-95.47229270000001",
+      "isFar": true
+    }
+  ],
+  "bowling": [
+    {
+      "name": "Ida Bowl-Hideaway Lounge",
+      "distance": "0.3 mi",
+      "url": "https://www.google.com/maps/search/Ida%20Bowl-Hideaway%20Lounge+near+42.3500287%2C-95.47229270000001"
+    }
+  ],
+  "arcade": [],
+  "movies": [
+    {
+      "name": "King Theatre",
+      "distance": "0.4 mi",
+      "url": "https://www.google.com/maps/search/King%20Theatre+near+42.3500287%2C-95.47229270000001"
+    }
+  ],
+  "fun": [],
+  "hotels": [
+    {
+      "name": "Super 8 by Wyndham Ida Grove",
+      "distance": "0.8 mi",
+      "url": "https://www.google.com/maps/search/Super%208%20by%20Wyndham%20Ida%20Grove+near+42.3500287%2C-95.47229270000001"
+    },
+    {
+      "name": "Quaint Ida Grove Apartment Near Creek and Park! - Apartment",
+      "distance": "0.9 mi",
+      "url": "https://www.google.com/maps/search/Quaint%20Ida%20Grove%20Apartment%20Near%20Creek%20and%20Park!%20-%20Apartment+near+42.3500287%2C-95.47229270000001"
+    },
+    {
+      "name": "Holly's Cottage\\n",
+      "distance": "1.0 mi",
+      "url": "https://www.google.com/maps/search/Holly's%20Cottage%5Cn+near+42.3500287%2C-95.47229270000001"
+    },
+    {
+      "name": "Castle Town Inn",
+      "distance": "2.0 mi",
+      "url": "https://www.google.com/maps/search/Castle%20Town%20Inn+near+42.3500287%2C-95.47229270000001"
+    },
+    {
+      "name": "The only 4 bedroom apartment",
+      "distance": "2.0 mi",
+      "url": "https://www.google.com/maps/search/The%20only%204%20bedroom%20apartment+near+42.3500287%2C-95.47229270000001"
+    }
+  ],
+  "gas": [
+    {
+      "name": "Cenex",
+      "distance": "0.3 mi",
+      "url": "https://www.google.com/maps/search/Cenex+near+42.3500287%2C-95.47229270000001"
+    }
+  ]
+}

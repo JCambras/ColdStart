@@ -9,7 +9,7 @@ out/
 .env*.local
 
 # raw seed data (large, regenerable)
-data/
+/data/
 
 # misc
 .DS_Store

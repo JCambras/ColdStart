@@ -1,0 +1,254 @@
+{
+  "quick_bite": [
+    {
+      "name": "Marco's Pizza",
+      "distance": "0.3 mi",
+      "url": "https://www.google.com/maps/search/Marco's%20Pizza+near+37.1201706%2C-93.29772659999999"
+    },
+    {
+      "name": "Sonic Drive-In",
+      "distance": "0.6 mi",
+      "url": "https://www.google.com/maps/search/Sonic%20Drive-In+near+37.1201706%2C-93.29772659999999"
+    },
+    {
+      "name": "Zaxby's Chicken Fingers & Buffalo Wings",
+      "distance": "0.9 mi",
+      "url": "https://www.google.com/maps/search/Zaxby's%20Chicken%20Fingers%20%26%20Buffalo%20Wings+near+37.1201706%2C-93.29772659999999"
+    },
+    {
+      "name": "Freddy's Frozen Custard & Steakburgers",
+      "distance": "0.9 mi",
+      "url": "https://www.google.com/maps/search/Freddy's%20Frozen%20Custard%20%26%20Steakburgers+near+37.1201706%2C-93.29772659999999"
+    },
+    {
+      "name": "Chuck E. Cheese",
+      "distance": "3.1 mi",
+      "url": "https://www.google.com/maps/search/Chuck%20E.%20Cheese+near+37.1201706%2C-93.29772659999999",
+      "isFar": true
+    }
+  ],
+  "coffee": [
+    {
+      "name": "7 Brew Coffee",
+      "distance": "0.8 mi",
+      "url": "https://www.google.com/maps/search/7%20Brew%20Coffee+near+37.1201706%2C-93.29772659999999"
+    },
+    {
+      "name": "Einstein Bros. Bagels",
+      "distance": "0.9 mi",
+      "url": "https://www.google.com/maps/search/Einstein%20Bros.%20Bagels+near+37.1201706%2C-93.29772659999999"
+    },
+    {
+      "name": "Sam's Club Cafe",
+      "distance": "0.9 mi",
+      "url": "https://www.google.com/maps/search/Sam's%20Club%20Cafe+near+37.1201706%2C-93.29772659999999"
+    }
+  ],
+  "team_lunch": [
+    {
+      "name": "Denny's",
+      "distance": "0.5 mi",
+      "url": "https://www.google.com/maps/search/Denny's+near+37.1201706%2C-93.29772659999999"
+    },
+    {
+      "name": "The Burger Den",
+      "distance": "0.5 mi",
+      "url": "https://www.google.com/maps/search/The%20Burger%20Den+near+37.1201706%2C-93.29772659999999"
+    },
+    {
+      "name": "Amici",
+      "distance": "0.6 mi",
+      "url": "https://www.google.com/maps/search/Amici+near+37.1201706%2C-93.29772659999999"
+    },
+    {
+      "name": "Sam's Club Bakery",
+      "distance": "1.0 mi",
+      "url": "https://www.google.com/maps/search/Sam's%20Club%20Bakery+near+37.1201706%2C-93.29772659999999"
+    },
+    {
+      "name": "Walmart Bakery",
+      "distance": "1.0 mi",
+      "url": "https://www.google.com/maps/search/Walmart%20Bakery+near+37.1201706%2C-93.29772659999999"
+    },
+    {
+      "name": "Casey's",
+      "distance": "1.0 mi",
+      "url": "https://www.google.com/maps/search/Casey's+near+37.1201706%2C-93.29772659999999"
+    },
+    {
+      "name": "Texas Roadhouse",
+      "distance": "1.1 mi",
+      "url": "https://www.google.com/maps/search/Texas%20Roadhouse+near+37.1201706%2C-93.29772659999999"
+    }
+  ],
+  "dinner": [
+    {
+      "name": "Tacos el Gordo #2",
+      "distance": "0.2 mi",
+      "url": "https://www.google.com/maps/search/Tacos%20el%20Gordo%20%232+near+37.1201706%2C-93.29772659999999"
+    },
+    {
+      "name": "Casa Bella Mexican Cuisine S Campbell",
+      "distance": "0.7 mi",
+      "url": "https://www.google.com/maps/search/Casa%20Bella%20Mexican%20Cuisine%20S%20Campbell+near+37.1201706%2C-93.29772659999999"
+    },
+    {
+      "name": "Shabu Hot Pot",
+      "distance": "0.8 mi",
+      "url": "https://www.google.com/maps/search/Shabu%20Hot%20Pot+near+37.1201706%2C-93.29772659999999"
+    },
+    {
+      "name": "Habaneros Mexican Restaurant + Cantina",
+      "distance": "1.0 mi",
+      "url": "https://www.google.com/maps/search/Habaneros%20Mexican%20Restaurant%20%2B%20Cantina+near+37.1201706%2C-93.29772659999999"
+    },
+    {
+      "name": "FD's Grillhouse",
+      "distance": "1.1 mi",
+      "url": "https://www.google.com/maps/search/FD's%20Grillhouse+near+37.1201706%2C-93.29772659999999"
+    }
+  ],
+  "bowling": [
+    {
+      "name": "Andy B's - Springfield, MO",
+      "distance": "3.0 mi",
+      "url": "https://www.google.com/maps/search/Andy%20B's%20-%20Springfield%2C%20MO+near+37.1201706%2C-93.29772659999999"
+    },
+    {
+      "name": "Century Lanes",
+      "distance": "3.7 mi",
+      "url": "https://www.google.com/maps/search/Century%20Lanes+near+37.1201706%2C-93.29772659999999",
+      "isFar": true
+    },
+    {
+      "name": "Sunshine Lanes",
+      "distance": "4.3 mi",
+      "url": "https://www.google.com/maps/search/Sunshine%20Lanes+near+37.1201706%2C-93.29772659999999",
+      "isFar": true
+    }
+  ],
+  "arcade": [],
+  "movies": [
+    {
+      "name": "Alamo Drafthouse Cinema Springfield",
+      "distance": "1.5 mi",
+      "url": "https://www.google.com/maps/search/Alamo%20Drafthouse%20Cinema%20Springfield+near+37.1201706%2C-93.29772659999999"
+    },
+    {
+      "name": "Imax",
+      "distance": "4.4 mi",
+      "url": "https://www.google.com/maps/search/Imax+near+37.1201706%2C-93.29772659999999",
+      "isFar": true
+    },
+    {
+      "name": "AMC Springfield 11",
+      "distance": "4.4 mi",
+      "url": "https://www.google.com/maps/search/AMC%20Springfield%2011+near+37.1201706%2C-93.29772659999999",
+      "isFar": true
+    }
+  ],
+  "fun": [
+    {
+      "name": "Level Up Virtual Reality",
+      "distance": "1.6 mi",
+      "url": "https://www.google.com/maps/search/Level%20Up%20Virtual%20Reality+near+37.1201706%2C-93.29772659999999"
+    },
+    {
+      "name": "417 Escape Artist",
+      "distance": "2.0 mi",
+      "url": "https://www.google.com/maps/search/417%20Escape%20Artist+near+37.1201706%2C-93.29772659999999"
+    },
+    {
+      "name": "Springfield Escape Room",
+      "distance": "2.0 mi",
+      "url": "https://www.google.com/maps/search/Springfield%20Escape%20Room+near+37.1201706%2C-93.29772659999999"
+    },
+    {
+      "name": "Jump Mania",
+      "distance": "2.9 mi",
+      "url": "https://www.google.com/maps/search/Jump%20Mania+near+37.1201706%2C-93.29772659999999"
+    },
+    {
+      "name": "Urban Air Trampoline and Adventure Park",
+      "distance": "3.4 mi",
+      "url": "https://www.google.com/maps/search/Urban%20Air%20Trampoline%20and%20Adventure%20Park+near+37.1201706%2C-93.29772659999999",
+      "isFar": true
+    },
+    {
+      "name": "Add",
+      "distance": "3.4 mi",
+      "url": "https://www.google.com/maps/search/Add+near+37.1201706%2C-93.29772659999999",
+      "isFar": true
+    },
+    {
+      "name": "Grimm's Escape Games",
+      "distance": "3.5 mi",
+      "url": "https://www.google.com/maps/search/Grimm's%20Escape%20Games+near+37.1201706%2C-93.29772659999999",
+      "isFar": true
+    }
+  ],
+  "hotels": [
+    {
+      "name": "2nd Floor Apt + Amenities - South Springfield",
+      "distance": "0.1 mi",
+      "url": "https://www.google.com/maps/search/2nd%20Floor%20Apt%20%2B%20Amenities%20-%20South%20Springfield+near+37.1201706%2C-93.29772659999999"
+    },
+    {
+      "name": "Private Getaway-Pool-Hot Tub-Playset-Entertainment Deck-Blackstone-Smoker-4b/3b",
+      "distance": "0.5 mi",
+      "url": "https://www.google.com/maps/search/Private%20Getaway-Pool-Hot%20Tub-Playset-Entertainment%20Deck-Blackstone-Smoker-4b%2F3b+near+37.1201706%2C-93.29772659999999"
+    },
+    {
+      "name": "Private Getaway-Pool-Hot Tub-Playset-Entertainment Deck-Blackstone-Smoker-4b /3b",
+      "distance": "0.5 mi",
+      "url": "https://www.google.com/maps/search/Private%20Getaway-Pool-Hot%20Tub-Playset-Entertainment%20Deck-Blackstone-Smoker-4b%20%2F3b+near+37.1201706%2C-93.29772659999999"
+    },
+    {
+      "name": "The Cunningham Cottage | King Bed & Garden",
+      "distance": "0.8 mi",
+      "url": "https://www.google.com/maps/search/The%20Cunningham%20Cottage%20%7C%20King%20Bed%20%26%20Garden+near+37.1201706%2C-93.29772659999999"
+    },
+    {
+      "name": "Spacious 5-bedroom house with WiFi, AC in tranquil Springfield",
+      "distance": "0.9 mi",
+      "url": "https://www.google.com/maps/search/Spacious%205-bedroom%20house%20with%20WiFi%2C%20AC%20in%20tranquil%20Springfield+near+37.1201706%2C-93.29772659999999"
+    },
+    {
+      "name": "Charming Mid-Century Home in Central Location - Three-Bedroom House",
+      "distance": "1.0 mi",
+      "url": "https://www.google.com/maps/search/Charming%20Mid-Century%20Home%20in%20Central%20Location%20-%20Three-Bedroom%20House+near+37.1201706%2C-93.29772659999999"
+    },
+    {
+      "name": "Sleep Inn Springfield South I60 near Medical District",
+      "distance": "1.1 mi",
+      "url": "https://www.google.com/maps/search/Sleep%20Inn%20Springfield%20South%20I60%20near%20Medical%20District+near+37.1201706%2C-93.29772659999999"
+    }
+  ],
+  "gas": [
+    {
+      "name": "Maverik",
+      "distance": "0.2 mi",
+      "url": "https://www.google.com/maps/search/Maverik+near+37.1201706%2C-93.29772659999999"
+    },
+    {
+      "name": "Plainview Eagle Stop",
+      "distance": "0.3 mi",
+      "url": "https://www.google.com/maps/search/Plainview%20Eagle%20Stop+near+37.1201706%2C-93.29772659999999"
+    },
+    {
+      "name": "Cenex",
+      "distance": "0.3 mi",
+      "url": "https://www.google.com/maps/search/Cenex+near+37.1201706%2C-93.29772659999999"
+    },
+    {
+      "name": "Sam's Club Gas Station",
+      "distance": "1.0 mi",
+      "url": "https://www.google.com/maps/search/Sam's%20Club%20Gas%20Station+near+37.1201706%2C-93.29772659999999"
+    },
+    {
+      "name": "Maverik",
+      "distance": "1.2 mi",
+      "url": "https://www.google.com/maps/search/Maverik+near+37.1201706%2C-93.29772659999999"
+    }
+  ]
+}

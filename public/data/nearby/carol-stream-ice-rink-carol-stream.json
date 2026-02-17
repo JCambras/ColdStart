@@ -1,0 +1,179 @@
+{
+  "quick_bite": [
+    {
+      "name": "KFC",
+      "distance": "0.2 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=KFC&query_place_id=ChIJO4iHrLFUDogRX-3rKYJXwek&center=41.8960289,-88.1014417"
+    },
+    {
+      "name": "Culver’s",
+      "distance": "0.2 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Culver%E2%80%99s&query_place_id=ChIJuZpR47BUDogRF_z42NJbcZE&center=41.896304699999995,-88.1027909"
+    },
+    {
+      "name": "Wendy's",
+      "distance": "0.3 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Wendy's&query_place_id=ChIJA0O3prlUDogRCW8lVU9KvvA&center=41.89191530000001,-88.1063175"
+    },
+    {
+      "name": "Jimmy John's",
+      "distance": "0.3 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Jimmy%20John's&query_place_id=ChIJExpDEblUDogRO8OyjAt18xE&center=41.8889583,-88.1045236"
+    },
+    {
+      "name": "Jack in the Box",
+      "distance": "0.4 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Jack%20in%20the%20Box&query_place_id=ChIJdWB8KO1VDogRyjk6bzBzICE&center=41.888523,-88.105706"
+    }
+  ],
+  "coffee": [
+    {
+      "name": "Beverly's Café",
+      "distance": "0.1 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Beverly's%20Caf%C3%A9&query_place_id=ChIJcWmq0sNVDogRph1Gnr9PGsk&center=41.8947597,-88.10202090000001"
+    },
+    {
+      "name": "Dunkin'",
+      "distance": "0.2 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Dunkin'&query_place_id=ChIJ8--6irBUDogRUO36iTfTcZI&center=41.895719,-88.10137150000001"
+    },
+    {
+      "name": "Tracy's",
+      "distance": "0.3 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Tracy's&query_place_id=ChIJCb_Zu7lUDogRXsb1CSAkGqs&center=41.8926678,-88.1064322"
+    }
+  ],
+  "team_lunch": [
+    {
+      "name": "The Burger Den",
+      "distance": "0.1 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=The%20Burger%20Den&query_place_id=ChIJkVYWKL1VDogRRBQdjmTzUl4&center=41.893467199999996,-88.10286219999999"
+    },
+    {
+      "name": "Denny's",
+      "distance": "0.1 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Denny's&query_place_id=ChIJaZsUdrpUDogRtMX3DYnhm0M&center=41.8934806,-88.1028628"
+    },
+    {
+      "name": "Amigas Restaurant",
+      "distance": "0.2 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Amigas%20Restaurant&query_place_id=ChIJUT1vibBUDogR3TUZHNnarXc&center=41.895226699999995,-88.1018476"
+    }
+  ],
+  "dinner": [
+    {
+      "name": "Wing It On!",
+      "distance": "0.1 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Wing%20It%20On!&query_place_id=ChIJSQgNKzRVDogRkjKHtBwxtHc&center=41.894718,-88.1021284"
+    },
+    {
+      "name": "Manhattan's American Bar & Grill",
+      "distance": "0.2 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Manhattan's%20American%20Bar%20%26%20Grill&query_place_id=ChIJeW0Q7rBUDogRGPHh4YkqK9w&center=41.895703999999995,-88.102938"
+    },
+    {
+      "name": "La Mexicana Bakery",
+      "distance": "0.2 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=La%20Mexicana%20Bakery&query_place_id=ChIJg_wIcslUDogRHeoYCFr37X8&center=41.8962751,-88.09947509999999"
+    },
+    {
+      "name": "The Village Tavern & Grill of Carol Stream",
+      "distance": "0.2 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=The%20Village%20Tavern%20%26%20Grill%20of%20Carol%20Stream&query_place_id=ChIJ6_8KVLBUDogRzSR7oMhhq5Y&center=41.8964487,-88.1014094"
+    },
+    {
+      "name": "Tien Banh Mi & Boba",
+      "distance": "0.2 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Tien%20Banh%20Mi%20%26%20Boba&query_place_id=ChIJZ5AAG2NVDogRgIlrWa4Xmos&center=41.8964683,-88.0995454"
+    },
+    {
+      "name": "Red Apple Pancake House",
+      "distance": "0.3 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Red%20Apple%20Pancake%20House&query_place_id=ChIJPfTXk7lUDogROM3VbtajH4s&center=41.8926278,-88.10558739999999"
+    }
+  ],
+  "bowling": [
+    {
+      "name": "Bowlero Glendale Heights",
+      "distance": "2.1 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Bowlero%20Glendale%20Heights&query_place_id=ChIJRZJ158ysD4gRVVy7fBqzDU4&center=41.904677299999996,-88.063828"
+    },
+    {
+      "name": "Fox Bowl",
+      "distance": "4.4 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Fox%20Bowl&query_place_id=ChIJ42G5ofhTDogRa5dWT5lfyMw&center=41.830666799999996,-88.0901253",
+      "isFar": true
+    }
+  ],
+  "arcade": [],
+  "movies": [
+    {
+      "name": "Glen Art Theatre",
+      "distance": "2.1 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Glen%20Art%20Theatre&query_place_id=ChIJb1PwyxNTDogRoR8MYfpnlVQ&center=41.8766737,-88.0656349"
+    },
+    {
+      "name": "Picture Show at Bloomingdale Court",
+      "distance": "3.0 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Picture%20Show%20at%20Bloomingdale%20Court&query_place_id=ChIJdXGhC3SrD4gRFDxNZ6Fh2wE&center=41.936838699999996,-88.10461769999999",
+      "isFar": true
+    },
+    {
+      "name": "Studio Movie Grill",
+      "distance": "4.2 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Studio%20Movie%20Grill&query_place_id=ChIJH5yyjQRUDogRkFzDCORJA0k&center=41.831725,-88.0969528",
+      "isFar": true
+    }
+  ],
+  "fun": [
+    {
+      "name": "Milepost 24.69",
+      "distance": "2.0 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Milepost%2024.69&query_place_id=ChIJY9R4OABVDogRqodTELfhpqg&center=41.864997699999996,-88.10486139999999"
+    },
+    {
+      "name": "Corpse on Keating",
+      "distance": "2.0 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Corpse%20on%20Keating&query_place_id=ChIJD2bFvASrD4gR_O0mDypHJyA&center=41.920537599999996,-88.09040069999999"
+    },
+    {
+      "name": "Wheaton’s Giant Adirondack Chair",
+      "distance": "2.0 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Wheaton%E2%80%99s%20Giant%20Adirondack%20Chair&query_place_id=ChIJERlA7qtVDogRCkX2vmmBnNA&center=41.8647438,-88.1072717"
+    },
+    {
+      "name": "CluedIn Escape Rooms",
+      "distance": "2.8 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=CluedIn%20Escape%20Rooms&query_place_id=ChIJ29IdWZ9TDogRudWmj9oCV7w&center=41.8596603,-88.07069399999999"
+    }
+  ],
+  "hotels": [
+    {
+      "name": "Holiday Inn & Suites Chicago-Carol Stream (Wheaton) by IHG",
+      "distance": "1.2 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Holiday%20Inn%20%26%20Suites%20Chicago-Carol%20Stream%20(Wheaton)%20by%20IHG&query_place_id=ChIJgWb1v9JUDogRqJ7MkMInpm8&center=41.9023429,-88.1216731"
+    }
+  ],
+  "gas": [
+    {
+      "name": "The PRIDE of Carol Stream",
+      "distance": "0.3 mi",
+      "url": "https://www.google.com/maps/search/The%20PRIDE%20of%20Carol%20Stream+near+41.893166799999996%2C-88.10075859999999"
+    },
+    {
+      "name": "Amoco",
+      "distance": "0.4 mi",
+      "url": "https://www.google.com/maps/search/Amoco+near+41.893166799999996%2C-88.10075859999999"
+    },
+    {
+      "name": "Shell",
+      "distance": "0.5 mi",
+      "url": "https://www.google.com/maps/search/Shell+near+41.893166799999996%2C-88.10075859999999"
+    },
+    {
+      "name": "Circle K | Gas Station",
+      "distance": "0.5 mi",
+      "url": "https://www.google.com/maps/search/Circle%20K%20%7C%20Gas%20Station+near+41.893166799999996%2C-88.10075859999999"
+    }
+  ]
+}

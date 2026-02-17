@@ -1,0 +1,187 @@
+{
+  "quick_bite": [
+    {
+      "name": "Little Caesars Pizza",
+      "distance": "0.5 mi",
+      "url": "https://www.google.com/maps/search/Little%20Caesars%20Pizza+near+44.665645399999995%2C-90.16300059999999"
+    },
+    {
+      "name": "Jimmy John's",
+      "distance": "0.6 mi",
+      "url": "https://www.google.com/maps/search/Jimmy%20John's+near+44.665645399999995%2C-90.16300059999999"
+    },
+    {
+      "name": "Dairy Queen Grill & Chill",
+      "distance": "0.6 mi",
+      "url": "https://www.google.com/maps/search/Dairy%20Queen%20Grill%20%26%20Chill+near+44.665645399999995%2C-90.16300059999999"
+    },
+    {
+      "name": "Taco John's",
+      "distance": "0.7 mi",
+      "url": "https://www.google.com/maps/search/Taco%20John's+near+44.665645399999995%2C-90.16300059999999"
+    },
+    {
+      "name": "Burger King",
+      "distance": "0.8 mi",
+      "url": "https://www.google.com/maps/search/Burger%20King+near+44.665645399999995%2C-90.16300059999999"
+    }
+  ],
+  "coffee": [
+    {
+      "name": "Uptown Coffee Company",
+      "distance": "0.5 mi",
+      "url": "https://www.google.com/maps/search/Uptown%20Coffee%20Company+near+44.665645399999995%2C-90.16300059999999"
+    },
+    {
+      "name": "The Daily Grind Gourmet Coffee & Tea",
+      "distance": "0.6 mi",
+      "url": "https://www.google.com/maps/search/The%20Daily%20Grind%20Gourmet%20Coffee%20%26%20Tea+near+44.665645399999995%2C-90.16300059999999"
+    },
+    {
+      "name": "Dunkin'",
+      "distance": "0.7 mi",
+      "url": "https://www.google.com/maps/search/Dunkin'+near+44.665645399999995%2C-90.16300059999999"
+    }
+  ],
+  "team_lunch": [
+    {
+      "name": "Marshfield indiana",
+      "distance": "0.5 mi",
+      "url": "https://www.google.com/maps/search/Marshfield%20indiana+near+44.665645399999995%2C-90.16300059999999"
+    },
+    {
+      "name": "The Spot Sports Bar & Grill",
+      "distance": "0.6 mi",
+      "url": "https://www.google.com/maps/search/The%20Spot%20Sports%20Bar%20%26%20Grill+near+44.665645399999995%2C-90.16300059999999"
+    },
+    {
+      "name": "GT HAWAIIAN BBQ INC",
+      "distance": "0.6 mi",
+      "url": "https://www.google.com/maps/search/GT%20HAWAIIAN%20BBQ%20INC+near+44.665645399999995%2C-90.16300059999999"
+    }
+  ],
+  "dinner": [
+    {
+      "name": "Royal Tokyo ロイヤル東京",
+      "distance": "0.5 mi",
+      "url": "https://www.google.com/maps/search/Royal%20Tokyo%20%E3%83%AD%E3%82%A4%E3%83%A4%E3%83%AB%E6%9D%B1%E4%BA%AC+near+44.665645399999995%2C-90.16300059999999"
+    },
+    {
+      "name": "T-Bone Bar & Grill",
+      "distance": "0.5 mi",
+      "url": "https://www.google.com/maps/search/T-Bone%20Bar%20%26%20Grill+near+44.665645399999995%2C-90.16300059999999"
+    },
+    {
+      "name": "Casa Amigos Mexican Restaurant II | Marshfield",
+      "distance": "0.5 mi",
+      "url": "https://www.google.com/maps/search/Casa%20Amigos%20Mexican%20Restaurant%20II%20%7C%20Marshfield+near+44.665645399999995%2C-90.16300059999999"
+    },
+    {
+      "name": "Kitchen Table",
+      "distance": "0.5 mi",
+      "url": "https://www.google.com/maps/search/Kitchen%20Table+near+44.665645399999995%2C-90.16300059999999"
+    },
+    {
+      "name": "Sunrise Restaurant & Bar",
+      "distance": "0.5 mi",
+      "url": "https://www.google.com/maps/search/Sunrise%20Restaurant%20%26%20Bar+near+44.665645399999995%2C-90.16300059999999"
+    },
+    {
+      "name": "2½ Cups Cupcakery & Bakeshop",
+      "distance": "0.5 mi",
+      "url": "https://www.google.com/maps/search/2%C2%BD%20Cups%20Cupcakery%20%26%20Bakeshop+near+44.665645399999995%2C-90.16300059999999"
+    },
+    {
+      "name": "MoJo's Pasta House & Cajun Cook Shack",
+      "distance": "0.5 mi",
+      "url": "https://www.google.com/maps/search/MoJo's%20Pasta%20House%20%26%20Cajun%20Cook%20Shack+near+44.665645399999995%2C-90.16300059999999"
+    }
+  ],
+  "bowling": [
+    {
+      "name": "EML Bowling Lanes",
+      "distance": "8.6 mi",
+      "url": "https://www.google.com/maps/search/EML%20Bowling%20Lanes+near+44.665645399999995%2C-90.16300059999999",
+      "isFar": true
+    }
+  ],
+  "arcade": [],
+  "movies": [
+    {
+      "name": "Rogers Cinema 8",
+      "distance": "0.6 mi",
+      "url": "https://www.google.com/maps/search/Rogers%20Cinema%208+near+44.665645399999995%2C-90.16300059999999"
+    }
+  ],
+  "fun": [
+    {
+      "name": "Escape Room Marshfield",
+      "distance": "0.6 mi",
+      "url": "https://www.google.com/maps/search/Escape%20Room%20Marshfield+near+44.665645399999995%2C-90.16300059999999"
+    }
+  ],
+  "hotels": [
+    {
+      "name": "Home in quiet neighborhood, 3BR/1.5 Bath in Marshfield, close to hospital.",
+      "distance": "0.1 mi",
+      "url": "https://www.google.com/maps/search/Home%20in%20quiet%20neighborhood%2C%203BR%2F1.5%20Bath%20in%20Marshfield%2C%20close%20to%20hospital.+near+44.665645399999995%2C-90.16300059999999"
+    },
+    {
+      "name": "Home in quiet neighborhood, 3BR /1.5 Bath in Marshfield, close to hospital.",
+      "distance": "0.3 mi",
+      "url": "https://www.google.com/maps/search/Home%20in%20quiet%20neighborhood%2C%203BR%20%2F1.5%20Bath%20in%20Marshfield%2C%20close%20to%20hospital.+near+44.665645399999995%2C-90.16300059999999"
+    },
+    {
+      "name": "Cozy Chic Farmhouse for Traveling Professionals",
+      "distance": "0.3 mi",
+      "url": "https://www.google.com/maps/search/Cozy%20Chic%20Farmhouse%20for%20Traveling%20Professionals+near+44.665645399999995%2C-90.16300059999999"
+    },
+    {
+      "name": "Elks Lodge 665",
+      "distance": "0.5 mi",
+      "url": "https://www.google.com/maps/search/Elks%20Lodge%20665+near+44.665645399999995%2C-90.16300059999999"
+    },
+    {
+      "name": "The Old Dutch Inn",
+      "distance": "0.7 mi",
+      "url": "https://www.google.com/maps/search/The%20Old%20Dutch%20Inn+near+44.665645399999995%2C-90.16300059999999"
+    },
+    {
+      "name": "Beautiful 2-bedroom apartment in the heart of downtown Marshfield, WI!",
+      "distance": "0.7 mi",
+      "url": "https://www.google.com/maps/search/Beautiful%202-bedroom%20apartment%20in%20the%20heart%20of%20downtown%20Marshfield%2C%20WI!+near+44.665645399999995%2C-90.16300059999999"
+    },
+    {
+      "name": "Holiday Inn Conference Ctr Marshfield by IHG",
+      "distance": "0.8 mi",
+      "url": "https://www.google.com/maps/search/Holiday%20Inn%20Conference%20Ctr%20Marshfield%20by%20IHG+near+44.665645399999995%2C-90.16300059999999"
+    }
+  ],
+  "gas": [
+    {
+      "name": "Kwik Trip",
+      "distance": "0.5 mi",
+      "url": "https://www.google.com/maps/search/Kwik%20Trip+near+44.665645399999995%2C-90.16300059999999"
+    },
+    {
+      "name": "Weilers",
+      "distance": "0.6 mi",
+      "url": "https://www.google.com/maps/search/Weilers+near+44.665645399999995%2C-90.16300059999999"
+    },
+    {
+      "name": "bp",
+      "distance": "0.7 mi",
+      "url": "https://www.google.com/maps/search/bp+near+44.665645399999995%2C-90.16300059999999"
+    },
+    {
+      "name": "Baltus Express Fuels",
+      "distance": "0.8 mi",
+      "url": "https://www.google.com/maps/search/Baltus%20Express%20Fuels+near+44.665645399999995%2C-90.16300059999999"
+    },
+    {
+      "name": "bp",
+      "distance": "0.8 mi",
+      "url": "https://www.google.com/maps/search/bp+near+44.665645399999995%2C-90.16300059999999"
+    }
+  ]
+}

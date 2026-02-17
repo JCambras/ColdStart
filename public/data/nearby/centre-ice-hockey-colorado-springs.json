@@ -1,0 +1,246 @@
+{
+  "quick_bite": [
+    {
+      "name": "Carrabba's Italian Grill",
+      "distance": "1.0 mi",
+      "url": "https://www.google.com/maps/search/Carrabba's%20Italian%20Grill+near+38.919719%2C-104.8157758"
+    },
+    {
+      "name": "Subway",
+      "distance": "1.0 mi",
+      "url": "https://www.google.com/maps/search/Subway+near+38.919719%2C-104.8157758"
+    },
+    {
+      "name": "Outback Steakhouse",
+      "distance": "1.0 mi",
+      "url": "https://www.google.com/maps/search/Outback%20Steakhouse+near+38.919719%2C-104.8157758"
+    },
+    {
+      "name": "Il Vicino Wood Oven Pizza - University Village Colorado Springs",
+      "distance": "1.0 mi",
+      "url": "https://www.google.com/maps/search/Il%20Vicino%20Wood%20Oven%20Pizza%20-%20University%20Village%20Colorado%20Springs+near+38.919719%2C-104.8157758"
+    },
+    {
+      "name": "Chuck E. Cheese",
+      "distance": "2.2 mi",
+      "url": "https://www.google.com/maps/search/Chuck%20E.%20Cheese+near+38.919719%2C-104.8157758"
+    }
+  ],
+  "coffee": [
+    {
+      "name": "New Day Cafe",
+      "distance": "0.5 mi",
+      "url": "https://www.google.com/maps/search/New%20Day%20Cafe+near+38.919719%2C-104.8157758"
+    },
+    {
+      "name": "Ziggi's Coffee",
+      "distance": "0.6 mi",
+      "url": "https://www.google.com/maps/search/Ziggi's%20Coffee+near+38.919719%2C-104.8157758"
+    }
+  ],
+  "team_lunch": [
+    {
+      "name": "The Ascent Restaurant and Bar",
+      "distance": "0.9 mi",
+      "url": "https://www.google.com/maps/search/The%20Ascent%20Restaurant%20and%20Bar+near+38.919719%2C-104.8157758"
+    },
+    {
+      "name": "The Honeycomb Lair",
+      "distance": "1.0 mi",
+      "url": "https://www.google.com/maps/search/The%20Honeycomb%20Lair+near+38.919719%2C-104.8157758"
+    }
+  ],
+  "dinner": [
+    {
+      "name": "Las Palmitas The Original Mexican Restaurant",
+      "distance": "0.8 mi",
+      "url": "https://www.google.com/maps/search/Las%20Palmitas%20The%20Original%20Mexican%20Restaurant+near+38.919719%2C-104.8157758"
+    },
+    {
+      "name": "Urban Egg",
+      "distance": "1.0 mi",
+      "url": "https://www.google.com/maps/search/Urban%20Egg+near+38.919719%2C-104.8157758"
+    },
+    {
+      "name": "Amore Italian Grille",
+      "distance": "1.0 mi",
+      "url": "https://www.google.com/maps/search/Amore%20Italian%20Grille+near+38.919719%2C-104.8157758"
+    },
+    {
+      "name": "High Rise Pizza Kitchen",
+      "distance": "1.0 mi",
+      "url": "https://www.google.com/maps/search/High%20Rise%20Pizza%20Kitchen+near+38.919719%2C-104.8157758"
+    },
+    {
+      "name": "Zapata Mexican Taco Shop",
+      "distance": "1.0 mi",
+      "url": "https://www.google.com/maps/search/Zapata%20Mexican%20Taco%20Shop+near+38.919719%2C-104.8157758"
+    },
+    {
+      "name": "Happy Hour Donuts",
+      "distance": "1.0 mi",
+      "url": "https://www.google.com/maps/search/Happy%20Hour%20Donuts+near+38.919719%2C-104.8157758"
+    },
+    {
+      "name": "Campfire Chill",
+      "distance": "1.0 mi",
+      "url": "https://www.google.com/maps/search/Campfire%20Chill+near+38.919719%2C-104.8157758"
+    }
+  ],
+  "bowling": [
+    {
+      "name": "Peak Bowl",
+      "distance": "3.3 mi",
+      "url": "https://www.google.com/maps/search/Peak%20Bowl+near+38.919719%2C-104.8157758",
+      "isFar": true
+    },
+    {
+      "name": "Harmony Bowl",
+      "distance": "3.9 mi",
+      "url": "https://www.google.com/maps/search/Harmony%20Bowl+near+38.919719%2C-104.8157758",
+      "isFar": true
+    },
+    {
+      "name": "PinHeadz Bowling Center",
+      "distance": "4.8 mi",
+      "url": "https://www.google.com/maps/search/PinHeadz%20Bowling%20Center+near+38.919719%2C-104.8157758",
+      "isFar": true
+    },
+    {
+      "name": "Academy Lanes Bowling Center",
+      "distance": "4.9 mi",
+      "url": "https://www.google.com/maps/search/Academy%20Lanes%20Bowling%20Center+near+38.919719%2C-104.8157758",
+      "isFar": true
+    }
+  ],
+  "arcade": [],
+  "movies": [
+    {
+      "name": "AMC Chapel Hills 13",
+      "distance": "2.3 mi",
+      "url": "https://www.google.com/maps/search/AMC%20Chapel%20Hills%2013+near+38.919719%2C-104.8157758"
+    },
+    {
+      "name": "RoadHouse Cinemas | Colorado Springs",
+      "distance": "3.0 mi",
+      "url": "https://www.google.com/maps/search/RoadHouse%20Cinemas%20%7C%20Colorado%20Springs+near+38.919719%2C-104.8157758",
+      "isFar": true
+    },
+    {
+      "name": "Geo-Trekker Theater",
+      "distance": "4.1 mi",
+      "url": "https://www.google.com/maps/search/Geo-Trekker%20Theater+near+38.919719%2C-104.8157758",
+      "isFar": true
+    },
+    {
+      "name": "Icon Cinema",
+      "distance": "4.9 mi",
+      "url": "https://www.google.com/maps/search/Icon%20Cinema+near+38.919719%2C-104.8157758",
+      "isFar": true
+    }
+  ],
+  "fun": [
+    {
+      "name": "Sky Zone Trampoline Park",
+      "distance": "1.5 mi",
+      "url": "https://www.google.com/maps/search/Sky%20Zone%20Trampoline%20Park+near+38.919719%2C-104.8157758"
+    },
+    {
+      "name": "Urban Air Trampoline and Adventure Park",
+      "distance": "1.8 mi",
+      "url": "https://www.google.com/maps/search/Urban%20Air%20Trampoline%20and%20Adventure%20Park+near+38.919719%2C-104.8157758"
+    },
+    {
+      "name": "Little Monkey Bizness",
+      "distance": "2.0 mi",
+      "url": "https://www.google.com/maps/search/Little%20Monkey%20Bizness+near+38.919719%2C-104.8157758"
+    },
+    {
+      "name": "Enter the Enigma Escape Rooms - Garden of the Gods",
+      "distance": "2.8 mi",
+      "url": "https://www.google.com/maps/search/Enter%20the%20Enigma%20Escape%20Rooms%20-%20Garden%20of%20the%20Gods+near+38.919719%2C-104.8157758"
+    },
+    {
+      "name": "21 Keys Escape Rooms",
+      "distance": "3.1 mi",
+      "url": "https://www.google.com/maps/search/21%20Keys%20Escape%20Rooms+near+38.919719%2C-104.8157758",
+      "isFar": true
+    },
+    {
+      "name": "Hellscream Haunted House",
+      "distance": "3.2 mi",
+      "url": "https://www.google.com/maps/search/Hellscream%20Haunted%20House+near+38.919719%2C-104.8157758",
+      "isFar": true
+    },
+    {
+      "name": "Focus on the Family Welcome Center",
+      "distance": "3.4 mi",
+      "url": "https://www.google.com/maps/search/Focus%20on%20the%20Family%20Welcome%20Center+near+38.919719%2C-104.8157758",
+      "isFar": true
+    }
+  ],
+  "hotels": [
+    {
+      "name": "InTown Suites Extended Stay Colorado Springs CO",
+      "distance": "0.1 mi",
+      "url": "https://www.google.com/maps/search/InTown%20Suites%20Extended%20Stay%20Colorado%20Springs%20CO+near+38.919719%2C-104.8157758"
+    },
+    {
+      "name": "Crestwood Suites of Colorado Springs",
+      "distance": "0.1 mi",
+      "url": "https://www.google.com/maps/search/Crestwood%20Suites%20of%20Colorado%20Springs+near+38.919719%2C-104.8157758"
+    },
+    {
+      "name": "Extended Stay America Suites- Colorado Springs - West",
+      "distance": "0.2 mi",
+      "url": "https://www.google.com/maps/search/Extended%20Stay%20America%20Suites-%20Colorado%20Springs%20-%20West+near+38.919719%2C-104.8157758"
+    },
+    {
+      "name": "Bright & Cozy Studio Apartment in Colorado Springs",
+      "distance": "0.3 mi",
+      "url": "https://www.google.com/maps/search/Bright%20%26%20Cozy%20Studio%20Apartment%20in%20Colorado%20Springs+near+38.919719%2C-104.8157758"
+    },
+    {
+      "name": "Bright Private 2-Bedroom 1100-sqft COS Apartment - Apartment",
+      "distance": "0.3 mi",
+      "url": "https://www.google.com/maps/search/Bright%20Private%202-Bedroom%201100-sqft%20COS%20Apartment%20-%20Apartment+near+38.919719%2C-104.8157758"
+    },
+    {
+      "name": "Comfort Inn North - Air Force Academy Area",
+      "distance": "0.3 mi",
+      "url": "https://www.google.com/maps/search/Comfort%20Inn%20North%20-%20Air%20Force%20Academy%20Area+near+38.919719%2C-104.8157758"
+    },
+    {
+      "name": "Pikes Peak Mountain View ★ 2 Bd Suite ★ 2 Kings",
+      "distance": "0.3 mi",
+      "url": "https://www.google.com/maps/search/Pikes%20Peak%20Mountain%20View%20%E2%98%85%202%20Bd%20Suite%20%E2%98%85%202%20Kings+near+38.919719%2C-104.8157758"
+    }
+  ],
+  "gas": [
+    {
+      "name": "Circle K | Gas Station",
+      "distance": "0.7 mi",
+      "url": "https://www.google.com/maps/search/Circle%20K%20%7C%20Gas%20Station+near+38.919719%2C-104.8157758"
+    },
+    {
+      "name": "Circle K | Gas Station",
+      "distance": "1.0 mi",
+      "url": "https://www.google.com/maps/search/Circle%20K%20%7C%20Gas%20Station+near+38.919719%2C-104.8157758"
+    },
+    {
+      "name": "Valero",
+      "distance": "1.0 mi",
+      "url": "https://www.google.com/maps/search/Valero+near+38.919719%2C-104.8157758"
+    },
+    {
+      "name": "Costco Gas Station",
+      "distance": "1.0 mi",
+      "url": "https://www.google.com/maps/search/Costco%20Gas%20Station+near+38.919719%2C-104.8157758"
+    },
+    {
+      "name": "King Soopers Fuel Center",
+      "distance": "1.4 mi",
+      "url": "https://www.google.com/maps/search/King%20Soopers%20Fuel%20Center+near+38.919719%2C-104.8157758"
+    }
+  ]
+}

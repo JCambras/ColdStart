@@ -1,0 +1,170 @@
+{
+  "quick_bite": [
+    {
+      "name": "Subway",
+      "distance": "0.1 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Subway&query_place_id=ChIJucQAxiKNwokRTDaN9L8QbrA&center=40.900720899999996,-73.8194264"
+    },
+    {
+      "name": "Burger King",
+      "distance": "0.1 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Burger%20King&query_place_id=ChIJf-kgGD2NwokR8LOitBO0hOY&center=40.9009413,-73.820594"
+    },
+    {
+      "name": "KFC",
+      "distance": "0.2 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=KFC&query_place_id=ChIJIdgPMiONwokReeL2aKF1ruU&center=40.9016618,-73.821736"
+    },
+    {
+      "name": "Lou's Hot Dog Truck",
+      "distance": "0.2 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Lou's%20Hot%20Dog%20Truck&query_place_id=ChIJWTJrCeuNwokRlRr0YpgSD4M&center=40.9026309,-73.8182645"
+    },
+    {
+      "name": "Chipotle Mexican Grill",
+      "distance": "0.4 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Chipotle%20Mexican%20Grill&query_place_id=ChIJb0X5kCGNwokRJo2ORUQ_Xug&center=40.893606999999996,-73.821011"
+    }
+  ],
+  "coffee": [
+    {
+      "name": "Starbucks Coffee Company",
+      "distance": "0.1 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Starbucks%20Coffee%20Company&query_place_id=ChIJR8BnXj2NwokR5e4O13T25fg&center=40.90061,-73.81907"
+    },
+    {
+      "name": "Dunkin'",
+      "distance": "0.1 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Dunkin'&query_place_id=ChIJucQAxiKNwokRm0Xzv_bL2y4&center=40.900759099999995,-73.8194635"
+    },
+    {
+      "name": "Minutes to NYC Private house in quite Neiborhood, walking distance to Starbucks",
+      "distance": "0.1 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Minutes%20to%20NYC%20Private%20house%20in%20quite%20Neiborhood%2C%20walking%20distance%20to%20Starbucks&query_place_id=ChIJKXAfJz2NwokRFwB3lwl9vlc&center=40.9005394,-73.8211518"
+    },
+    {
+      "name": "Dunkin'",
+      "distance": "0.4 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Dunkin'&query_place_id=ChIJPwqLTCGNwokRJQdQplnVM5Q&center=40.8942408,-73.82369539999999"
+    },
+    {
+      "name": "Lenny's Bagels",
+      "distance": "0.8 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Lenny's%20Bagels&query_place_id=ChIJHfVlPgWNwokRCCgA2N7oqaM&center=40.8959306,-73.8052843"
+    }
+  ],
+  "team_lunch": [
+    {
+      "name": "A & M Bronx Baking Inc",
+      "distance": "0.1 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=A%20%26%20M%20Bronx%20Baking%20Inc&query_place_id=ChIJCXb2gkCNwokROh5FBauwQU4&center=40.9003136,-73.8205267"
+    },
+    {
+      "name": "Crab Du Jour Xpress Cajun Seafood",
+      "distance": "0.1 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Crab%20Du%20Jour%20Xpress%20Cajun%20Seafood&query_place_id=ChIJ5aMWtQuNwokRcamjC-zvOVA&center=40.900804,-73.8197589"
+    },
+    {
+      "name": "Fourteen Parish Bar & Grill",
+      "distance": "0.4 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Fourteen%20Parish%20Bar%20%26%20Grill&query_place_id=ChIJw3ugn1KNwokRjI8lMgR_s8M&center=40.8999867,-73.826261"
+    },
+    {
+      "name": "Yumi Asian Bistro",
+      "distance": "0.4 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Yumi%20Asian%20Bistro&query_place_id=ChIJObiYCiGNwokRp3efTs2G6F8&center=40.893761,-73.82051299999999"
+    },
+    {
+      "name": "Royal Caribbean Bakery",
+      "distance": "1.0 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Royal%20Caribbean%20Bakery&query_place_id=ChIJq80-cteMwokR-0nYCK4Lcaw&center=40.8882196,-73.8315837"
+    }
+  ],
+  "dinner": [
+    {
+      "name": "KPV LLC",
+      "distance": "0.1 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=KPV%20LLC&query_place_id=ChIJBfDd0yKNwokRPjtLhrXOtTQ&center=40.8993677,-73.820859"
+    },
+    {
+      "name": "Flaming Grill & Modern Buffet",
+      "distance": "0.1 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Flaming%20Grill%20%26%20Modern%20Buffet&query_place_id=ChIJq6rqaj2NwokR8KREESwV2zo&center=40.9009632,-73.819864"
+    },
+    {
+      "name": "N Y Pizza",
+      "distance": "0.1 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=N%20Y%20Pizza&query_place_id=ChIJlw2wDT2NwokRN_YIF9IV_4s&center=40.9011962,-73.8202297"
+    },
+    {
+      "name": "BJ's",
+      "distance": "0.3 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=BJ's&query_place_id=ChIJndg6Ux-NwokRpipvMMsJ_pE&center=40.8944938,-73.8181631"
+    },
+    {
+      "name": "Royal Caribbean Bakery",
+      "distance": "0.4 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Royal%20Caribbean%20Bakery&query_place_id=ChIJU-6ngyaNwokR72Hr_Au7U-w&center=40.897571299999996,-73.8257448"
+    }
+  ],
+  "bowling": [
+    {
+      "name": "New Paradise Lanes",
+      "distance": "2.8 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=New%20Paradise%20Lanes&query_place_id=ChIJmQJevL3ywokRgEoFgH_4i30&center=40.9221405,-73.8637418"
+    }
+  ],
+  "arcade": [],
+  "movies": [
+    {
+      "name": "The Picture House - Pelham",
+      "distance": "0.7 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=The%20Picture%20House%20-%20Pelham&query_place_id=ChIJqVkfhxONwokRbcb9wcTbZ9Q&center=40.9073523,-73.8116163"
+    },
+    {
+      "name": "Regal New Roc",
+      "distance": "2.2 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Regal%20New%20Roc&query_place_id=ChIJAQAAAISNwokR6mW4Zu8dzzE&center=40.9119039,-73.77936849999999"
+    },
+    {
+      "name": "AMC Bay Plaza Cinema 13",
+      "distance": "2.3 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=AMC%20Bay%20Plaza%20Cinema%2013&query_place_id=ChIJsweQOb-MwokReRLG0WX0Lz4&center=40.866963899999995,-73.8250765"
+    }
+  ],
+  "fun": [
+    {
+      "name": "Cloudbound New Rochelle",
+      "distance": "1.2 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Cloudbound%20New%20Rochelle&query_place_id=ChIJDx_XqL2NwokRpskkoqJXUJw&center=40.8972425,-73.7960465"
+    },
+    {
+      "name": "Baby Power Forever Kids",
+      "distance": "2.0 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Baby%20Power%20Forever%20Kids&query_place_id=ChIJ5yMUfNjywokRCsjFos8zUnk&center=40.8952265,-73.85614389999999"
+    }
+  ],
+  "hotels": [],
+  "gas": [
+    {
+      "name": "Gulf",
+      "distance": "0.2 mi",
+      "url": "https://www.google.com/maps/search/Gulf+near+40.8992764%2C-73.8190043"
+    },
+    {
+      "name": "Sinclair Gas Station",
+      "distance": "0.2 mi",
+      "url": "https://www.google.com/maps/search/Sinclair%20Gas%20Station+near+40.8992764%2C-73.8190043"
+    },
+    {
+      "name": "Shell",
+      "distance": "0.2 mi",
+      "url": "https://www.google.com/maps/search/Shell+near+40.8992764%2C-73.8190043"
+    },
+    {
+      "name": "BJ's Gas Station",
+      "distance": "0.4 mi",
+      "url": "https://www.google.com/maps/search/BJ's%20Gas%20Station+near+40.8992764%2C-73.8190043"
+    }
+  ]
+}

@@ -1,0 +1,264 @@
+{
+  "quick_bite": [
+    {
+      "name": "Subway",
+      "distance": "0.2 mi",
+      "url": "https://www.google.com/maps/search/Subway+near+41.20695870000001%2C-96.0267313"
+    },
+    {
+      "name": "King Kong 72nd",
+      "distance": "0.2 mi",
+      "url": "https://www.google.com/maps/search/King%20Kong%2072nd+near+41.20695870000001%2C-96.0267313"
+    },
+    {
+      "name": "Chester's Chicken",
+      "distance": "0.2 mi",
+      "url": "https://www.google.com/maps/search/Chester's%20Chicken+near+41.20695870000001%2C-96.0267313"
+    },
+    {
+      "name": "Dairy Queen Grill & Chill",
+      "distance": "0.3 mi",
+      "url": "https://www.google.com/maps/search/Dairy%20Queen%20Grill%20%26%20Chill+near+41.20695870000001%2C-96.0267313"
+    },
+    {
+      "name": "Taco Bell",
+      "distance": "0.3 mi",
+      "url": "https://www.google.com/maps/search/Taco%20Bell+near+41.20695870000001%2C-96.0267313"
+    },
+    {
+      "name": "Rockin' Treats",
+      "distance": "0.4 mi",
+      "url": "https://www.google.com/maps/search/Rockin'%20Treats+near+41.20695870000001%2C-96.0267313"
+    },
+    {
+      "name": "ACX Aksarben Cinema",
+      "distance": "2.3 mi",
+      "url": "https://www.google.com/maps/search/ACX%20Aksarben%20Cinema+near+41.20695870000001%2C-96.0267313"
+    }
+  ],
+  "coffee": [
+    {
+      "name": "Revive Energy Bar",
+      "distance": "0.2 mi",
+      "url": "https://www.google.com/maps/search/Revive%20Energy%20Bar+near+41.20695870000001%2C-96.0267313"
+    },
+    {
+      "name": "Scooter's Coffee",
+      "distance": "0.3 mi",
+      "url": "https://www.google.com/maps/search/Scooter's%20Coffee+near+41.20695870000001%2C-96.0267313"
+    },
+    {
+      "name": "Lemon Tree Cafe",
+      "distance": "0.4 mi",
+      "url": "https://www.google.com/maps/search/Lemon%20Tree%20Cafe+near+41.20695870000001%2C-96.0267313"
+    }
+  ],
+  "team_lunch": [
+    {
+      "name": "TnT Wings",
+      "distance": "0.3 mi",
+      "url": "https://www.google.com/maps/search/TnT%20Wings+near+41.20695870000001%2C-96.0267313"
+    },
+    {
+      "name": "Pit Stop Pizza",
+      "distance": "0.4 mi",
+      "url": "https://www.google.com/maps/search/Pit%20Stop%20Pizza+near+41.20695870000001%2C-96.0267313"
+    },
+    {
+      "name": "Ohana Grill",
+      "distance": "0.4 mi",
+      "url": "https://www.google.com/maps/search/Ohana%20Grill+near+41.20695870000001%2C-96.0267313"
+    },
+    {
+      "name": "Tradish(ish)",
+      "distance": "0.4 mi",
+      "url": "https://www.google.com/maps/search/Tradish(ish)+near+41.20695870000001%2C-96.0267313"
+    }
+  ],
+  "dinner": [
+    {
+      "name": "Agave Azteca Mexican Bar & Grill",
+      "distance": "0.1 mi",
+      "url": "https://www.google.com/maps/search/Agave%20Azteca%20Mexican%20Bar%20%26%20Grill+near+41.20695870000001%2C-96.0267313"
+    },
+    {
+      "name": "Korea Garden Restaurant",
+      "distance": "0.3 mi",
+      "url": "https://www.google.com/maps/search/Korea%20Garden%20Restaurant+near+41.20695870000001%2C-96.0267313"
+    },
+    {
+      "name": "Margarita's",
+      "distance": "0.3 mi",
+      "url": "https://www.google.com/maps/search/Margarita's+near+41.20695870000001%2C-96.0267313"
+    },
+    {
+      "name": "72 Table & Tap",
+      "distance": "0.3 mi",
+      "url": "https://www.google.com/maps/search/72%20Table%20%26%20Tap+near+41.20695870000001%2C-96.0267313"
+    },
+    {
+      "name": "Dumpling Empire",
+      "distance": "0.3 mi",
+      "url": "https://www.google.com/maps/search/Dumpling%20Empire+near+41.20695870000001%2C-96.0267313"
+    },
+    {
+      "name": "Winchester Bar & Grill",
+      "distance": "0.3 mi",
+      "url": "https://www.google.com/maps/search/Winchester%20Bar%20%26%20Grill+near+41.20695870000001%2C-96.0267313"
+    },
+    {
+      "name": "The Best Teriyaki",
+      "distance": "0.3 mi",
+      "url": "https://www.google.com/maps/search/The%20Best%20Teriyaki+near+41.20695870000001%2C-96.0267313"
+    }
+  ],
+  "bowling": [
+    {
+      "name": "Scorz Sports Center",
+      "distance": "0.4 mi",
+      "url": "https://www.google.com/maps/search/Scorz%20Sports%20Center+near+41.20695870000001%2C-96.0267313"
+    },
+    {
+      "name": "Mockingbird Lanes",
+      "distance": "1.9 mi",
+      "url": "https://www.google.com/maps/search/Mockingbird%20Lanes+near+41.20695870000001%2C-96.0267313"
+    },
+    {
+      "name": "Papio Bowl",
+      "distance": "3.7 mi",
+      "url": "https://www.google.com/maps/search/Papio%20Bowl+near+41.20695870000001%2C-96.0267313",
+      "isFar": true
+    },
+    {
+      "name": "West Lanes Bowling Center",
+      "distance": "3.8 mi",
+      "url": "https://www.google.com/maps/search/West%20Lanes%20Bowling%20Center+near+41.20695870000001%2C-96.0267313",
+      "isFar": true
+    },
+    {
+      "name": "Bob & Willie's Wonderbowl - Blue Sky",
+      "distance": "4.1 mi",
+      "url": "https://www.google.com/maps/search/Bob%20%26%20Willie's%20Wonderbowl%20-%20Blue%20Sky+near+41.20695870000001%2C-96.0267313",
+      "isFar": true
+    }
+  ],
+  "arcade": [],
+  "movies": [
+    {
+      "name": "Film Streams' Dundee Theater",
+      "distance": "4.1 mi",
+      "url": "https://www.google.com/maps/search/Film%20Streams'%20Dundee%20Theater+near+41.20695870000001%2C-96.0267313",
+      "isFar": true
+    },
+    {
+      "name": "AMC Westroads 14",
+      "distance": "4.7 mi",
+      "url": "https://www.google.com/maps/search/AMC%20Westroads%2014+near+41.20695870000001%2C-96.0267313",
+      "isFar": true
+    }
+  ],
+  "fun": [
+    {
+      "name": "Makana Splash Waterpark",
+      "distance": "0.4 mi",
+      "url": "https://www.google.com/maps/search/Makana%20Splash%20Waterpark+near+41.20695870000001%2C-96.0267313"
+    },
+    {
+      "name": "Fun-Plex Waterpark & Rides",
+      "distance": "0.4 mi",
+      "url": "https://www.google.com/maps/search/Fun-Plex%20Waterpark%20%26%20Rides+near+41.20695870000001%2C-96.0267313"
+    },
+    {
+      "name": "Entrap Games",
+      "distance": "0.6 mi",
+      "url": "https://www.google.com/maps/search/Entrap%20Games+near+41.20695870000001%2C-96.0267313"
+    },
+    {
+      "name": "Seymour Smith Sprayground",
+      "distance": "0.8 mi",
+      "url": "https://www.google.com/maps/search/Seymour%20Smith%20Sprayground+near+41.20695870000001%2C-96.0267313"
+    },
+    {
+      "name": "BounceU Omaha Kids Birthdays and More",
+      "distance": "3.1 mi",
+      "url": "https://www.google.com/maps/search/BounceU%20Omaha%20Kids%20Birthdays%20and%20More+near+41.20695870000001%2C-96.0267313",
+      "isFar": true
+    },
+    {
+      "name": "Upland Park Sprayground",
+      "distance": "3.5 mi",
+      "url": "https://www.google.com/maps/search/Upland%20Park%20Sprayground+near+41.20695870000001%2C-96.0267313",
+      "isFar": true
+    },
+    {
+      "name": "Papio Fun Park",
+      "distance": "3.7 mi",
+      "url": "https://www.google.com/maps/search/Papio%20Fun%20Park+near+41.20695870000001%2C-96.0267313",
+      "isFar": true
+    }
+  ],
+  "hotels": [
+    {
+      "name": "Holiday Inn Express & Suites Omaha South - Ralston Arena by IHG",
+      "distance": "0.1 mi",
+      "url": "https://www.google.com/maps/search/Holiday%20Inn%20Express%20%26%20Suites%20Omaha%20South%20-%20Ralston%20Arena%20by%20IHG+near+41.20695870000001%2C-96.0267313"
+    },
+    {
+      "name": "Home away from Home- Mid Century Style - central Omaha (5 min from I-80)",
+      "distance": "0.2 mi",
+      "url": "https://www.google.com/maps/search/Home%20away%20from%20Home-%20Mid%20Century%20Style%20-%20central%20Omaha%20(5%20min%20from%20I-80)+near+41.20695870000001%2C-96.0267313"
+    },
+    {
+      "name": "Home away from Home- Mid Century Style - central Omaha (5 min from I-80)",
+      "distance": "0.2 mi",
+      "url": "https://www.google.com/maps/search/Home%20away%20from%20Home-%20Mid%20Century%20Style%20-%20central%20Omaha%20(5%20min%20from%20I-80)+near+41.20695870000001%2C-96.0267313"
+    },
+    {
+      "name": "Cozy Ralston Retreat Near Downtown & Arena",
+      "distance": "0.3 mi",
+      "url": "https://www.google.com/maps/search/Cozy%20Ralston%20Retreat%20Near%20Downtown%20%26%20Arena+near+41.20695870000001%2C-96.0267313"
+    },
+    {
+      "name": "Fiji Cabana",
+      "distance": "0.4 mi",
+      "url": "https://www.google.com/maps/search/Fiji%20Cabana+near+41.20695870000001%2C-96.0267313"
+    },
+    {
+      "name": "Samoa Cabana",
+      "distance": "0.4 mi",
+      "url": "https://www.google.com/maps/search/Samoa%20Cabana+near+41.20695870000001%2C-96.0267313"
+    },
+    {
+      "name": "Tonga Cabana",
+      "distance": "0.4 mi",
+      "url": "https://www.google.com/maps/search/Tonga%20Cabana+near+41.20695870000001%2C-96.0267313"
+    }
+  ],
+  "gas": [
+    {
+      "name": "Amoco",
+      "distance": "0.2 mi",
+      "url": "https://www.google.com/maps/search/Amoco+near+41.20695870000001%2C-96.0267313"
+    },
+    {
+      "name": "Mega Saver",
+      "distance": "0.5 mi",
+      "url": "https://www.google.com/maps/search/Mega%20Saver+near+41.20695870000001%2C-96.0267313"
+    },
+    {
+      "name": "Ralston's Fuel & Services",
+      "distance": "0.5 mi",
+      "url": "https://www.google.com/maps/search/Ralston's%20Fuel%20%26%20Services+near+41.20695870000001%2C-96.0267313"
+    },
+    {
+      "name": "Ralston Standard Mart",
+      "distance": "0.5 mi",
+      "url": "https://www.google.com/maps/search/Ralston%20Standard%20Mart+near+41.20695870000001%2C-96.0267313"
+    },
+    {
+      "name": "HANCOCK II",
+      "distance": "0.9 mi",
+      "url": "https://www.google.com/maps/search/HANCOCK%20II+near+41.20695870000001%2C-96.0267313"
+    }
+  ]
+}

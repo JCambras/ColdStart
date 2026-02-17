@@ -1,0 +1,214 @@
+{
+  "quick_bite": [
+    {
+      "name": "Blackjack Pizza & Salads",
+      "distance": "0.1 mi",
+      "url": "https://www.google.com/maps/search/Blackjack%20Pizza%20%26%20Salads+near+40.050129%2C-105.04566249999999"
+    },
+    {
+      "name": "Zaika Indian Cuisine - Erie",
+      "distance": "0.5 mi",
+      "url": "https://www.google.com/maps/search/Zaika%20Indian%20Cuisine%20-%20Erie+near+40.050129%2C-105.04566249999999"
+    },
+    {
+      "name": "Burger King",
+      "distance": "1.0 mi",
+      "url": "https://www.google.com/maps/search/Burger%20King+near+40.050129%2C-105.04566249999999"
+    }
+  ],
+  "coffee": [
+    {
+      "name": "FOX•DOG COFFEE",
+      "distance": "0.1 mi",
+      "url": "https://www.google.com/maps/search/FOX%E2%80%A2DOG%20COFFEE+near+40.050129%2C-105.04566249999999"
+    },
+    {
+      "name": "Cristos Coffee Roastery & Cafe",
+      "distance": "0.6 mi",
+      "url": "https://www.google.com/maps/search/Cristos%20Coffee%20Roastery%20%26%20Cafe+near+40.050129%2C-105.04566249999999"
+    },
+    {
+      "name": "Ziggi's Coffee",
+      "distance": "0.8 mi",
+      "url": "https://www.google.com/maps/search/Ziggi's%20Coffee+near+40.050129%2C-105.04566249999999"
+    }
+  ],
+  "team_lunch": [
+    {
+      "name": "Lola's Kitchen Inc",
+      "distance": "0.1 mi",
+      "url": "https://www.google.com/maps/search/Lola's%20Kitchen%20Inc+near+40.050129%2C-105.04566249999999"
+    },
+    {
+      "name": "Fuego Azteca",
+      "distance": "0.1 mi",
+      "url": "https://www.google.com/maps/search/Fuego%20Azteca+near+40.050129%2C-105.04566249999999"
+    },
+    {
+      "name": "Erie Sourdough LLC",
+      "distance": "1.0 mi",
+      "url": "https://www.google.com/maps/search/Erie%20Sourdough%20LLC+near+40.050129%2C-105.04566249999999"
+    }
+  ],
+  "dinner": [
+    {
+      "name": "Piripi",
+      "distance": "0.1 mi",
+      "url": "https://www.google.com/maps/search/Piripi+near+40.050129%2C-105.04566249999999"
+    },
+    {
+      "name": "Echo Brewing and Pizzeria",
+      "distance": "0.1 mi",
+      "url": "https://www.google.com/maps/search/Echo%20Brewing%20and%20Pizzeria+near+40.050129%2C-105.04566249999999"
+    },
+    {
+      "name": "Lucile's Creole Cafe",
+      "distance": "0.1 mi",
+      "url": "https://www.google.com/maps/search/Lucile's%20Creole%20Cafe+near+40.050129%2C-105.04566249999999"
+    },
+    {
+      "name": "24 Carrot Bistro",
+      "distance": "0.1 mi",
+      "url": "https://www.google.com/maps/search/24%20Carrot%20Bistro+near+40.050129%2C-105.04566249999999"
+    },
+    {
+      "name": "Birdhouse",
+      "distance": "0.1 mi",
+      "url": "https://www.google.com/maps/search/Birdhouse+near+40.050129%2C-105.04566249999999"
+    },
+    {
+      "name": "Wapos",
+      "distance": "0.1 mi",
+      "url": "https://www.google.com/maps/search/Wapos+near+40.050129%2C-105.04566249999999"
+    },
+    {
+      "name": "The Old Mine",
+      "distance": "0.1 mi",
+      "url": "https://www.google.com/maps/search/The%20Old%20Mine+near+40.050129%2C-105.04566249999999"
+    }
+  ],
+  "bowling": [
+    {
+      "name": "Coal Creek Bowling Center",
+      "distance": "5.2 mi",
+      "url": "https://www.google.com/maps/search/Coal%20Creek%20Bowling%20Center+near+40.050129%2C-105.04566249999999",
+      "isFar": true
+    },
+    {
+      "name": "Main Event Thornton",
+      "distance": "7.3 mi",
+      "url": "https://www.google.com/maps/search/Main%20Event%20Thornton+near+40.050129%2C-105.04566249999999",
+      "isFar": true
+    }
+  ],
+  "arcade": [],
+  "movies": [
+    {
+      "name": "AMC Orchard 12",
+      "distance": "6.7 mi",
+      "url": "https://www.google.com/maps/search/AMC%20Orchard%2012+near+40.050129%2C-105.04566249999999",
+      "isFar": true
+    },
+    {
+      "name": "Regal Village At The Peaks",
+      "distance": "8.0 mi",
+      "url": "https://www.google.com/maps/search/Regal%20Village%20At%20The%20Peaks+near+40.050129%2C-105.04566249999999",
+      "isFar": true
+    }
+  ],
+  "fun": [
+    {
+      "name": "Tenletters Escape Rooms",
+      "distance": "0.1 mi",
+      "url": "https://www.google.com/maps/search/Tenletters%20Escape%20Rooms+near+40.050129%2C-105.04566249999999"
+    },
+    {
+      "name": "The Great Outdoors Waterpark",
+      "distance": "4.9 mi",
+      "url": "https://www.google.com/maps/search/The%20Great%20Outdoors%20Waterpark+near+40.050129%2C-105.04566249999999",
+      "isFar": true
+    },
+    {
+      "name": "Bounce Empire",
+      "distance": "5.1 mi",
+      "url": "https://www.google.com/maps/search/Bounce%20Empire+near+40.050129%2C-105.04566249999999",
+      "isFar": true
+    },
+    {
+      "name": "Little Monkey Bizness - Westminster",
+      "distance": "6.6 mi",
+      "url": "https://www.google.com/maps/search/Little%20Monkey%20Bizness%20-%20Westminster+near+40.050129%2C-105.04566249999999",
+      "isFar": true
+    },
+    {
+      "name": "Get Air Trampoline Park",
+      "distance": "7.7 mi",
+      "url": "https://www.google.com/maps/search/Get%20Air%20Trampoline%20Park+near+40.050129%2C-105.04566249999999",
+      "isFar": true
+    }
+  ],
+  "hotels": [
+    {
+      "name": "Erie Meadows",
+      "distance": "0.1 mi",
+      "url": "https://www.google.com/maps/search/Erie%20Meadows+near+40.050129%2C-105.04566249999999"
+    },
+    {
+      "name": "Erie Escape-Billiards Table- Skee-Ball- Hot Tub!",
+      "distance": "0.2 mi",
+      "url": "https://www.google.com/maps/search/Erie%20Escape-Billiards%20Table-%20Skee-Ball-%20Hot%20Tub!+near+40.050129%2C-105.04566249999999"
+    },
+    {
+      "name": "Charming Cottage in Historical Victorian Olde Erie Village",
+      "distance": "0.2 mi",
+      "url": "https://www.google.com/maps/search/Charming%20Cottage%20in%20Historical%20Victorian%20Olde%20Erie%20Village+near+40.050129%2C-105.04566249999999"
+    },
+    {
+      "name": "Family Haven, Walk to Dtwn Erie: Bring Your Pets!",
+      "distance": "0.3 mi",
+      "url": "https://www.google.com/maps/search/Family%20Haven%2C%20Walk%20to%20Dtwn%20Erie%3A%20Bring%20Your%20Pets!+near+40.050129%2C-105.04566249999999"
+    },
+    {
+      "name": "13 Mi to Boulder: Family-Friendly Home in Erie!",
+      "distance": "0.3 mi",
+      "url": "https://www.google.com/maps/search/13%20Mi%20to%20Boulder%3A%20Family-Friendly%20Home%20in%20Erie!+near+40.050129%2C-105.04566249999999"
+    },
+    {
+      "name": "14 Mi to Pearl Street Mall: Erie Getaway",
+      "distance": "0.3 mi",
+      "url": "https://www.google.com/maps/search/14%20Mi%20to%20Pearl%20Street%20Mall%3A%20Erie%20Getaway+near+40.050129%2C-105.04566249999999"
+    },
+    {
+      "name": "Chic Erie Vacation Rental about 14 Mi to Boulder! - Apartment",
+      "distance": "0.3 mi",
+      "url": "https://www.google.com/maps/search/Chic%20Erie%20Vacation%20Rental%20about%2014%20Mi%20to%20Boulder!%20-%20Apartment+near+40.050129%2C-105.04566249999999"
+    }
+  ],
+  "gas": [
+    {
+      "name": "Erie Conoco",
+      "distance": "0.6 mi",
+      "url": "https://www.google.com/maps/search/Erie%20Conoco+near+40.050129%2C-105.04566249999999"
+    },
+    {
+      "name": "Circle K",
+      "distance": "0.7 mi",
+      "url": "https://www.google.com/maps/search/Circle%20K+near+40.050129%2C-105.04566249999999"
+    },
+    {
+      "name": "Shell",
+      "distance": "1.2 mi",
+      "url": "https://www.google.com/maps/search/Shell+near+40.050129%2C-105.04566249999999"
+    },
+    {
+      "name": "Maverik",
+      "distance": "3.4 mi",
+      "url": "https://www.google.com/maps/search/Maverik+near+40.050129%2C-105.04566249999999"
+    },
+    {
+      "name": "Conoco",
+      "distance": "3.7 mi",
+      "url": "https://www.google.com/maps/search/Conoco+near+40.050129%2C-105.04566249999999"
+    }
+  ]
+}

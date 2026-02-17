@@ -1,0 +1,209 @@
+{
+  "quick_bite": [
+    {
+      "name": "Jimmy John's",
+      "distance": "0.1 mi",
+      "url": "https://www.google.com/maps/search/Jimmy%20John's+near+40.373601699999995%2C-80.6207664"
+    },
+    {
+      "name": "Capri Sausage & Meatball",
+      "distance": "0.3 mi",
+      "url": "https://www.google.com/maps/search/Capri%20Sausage%20%26%20Meatball+near+40.373601699999995%2C-80.6207664"
+    },
+    {
+      "name": "Bob Evans",
+      "distance": "0.8 mi",
+      "url": "https://www.google.com/maps/search/Bob%20Evans+near+40.373601699999995%2C-80.6207664"
+    },
+    {
+      "name": "Di Carlo's Original Pizza Crst",
+      "distance": "0.8 mi",
+      "url": "https://www.google.com/maps/search/Di%20Carlo's%20Original%20Pizza%20Crst+near+40.373601699999995%2C-80.6207664"
+    }
+  ],
+  "coffee": [
+    {
+      "name": "Scooter's Coffee",
+      "distance": "0.1 mi",
+      "url": "https://www.google.com/maps/search/Scooter's%20Coffee+near+40.373601699999995%2C-80.6207664"
+    },
+    {
+      "name": "Clear Creek Coffee at Franciscan University",
+      "distance": "0.2 mi",
+      "url": "https://www.google.com/maps/search/Clear%20Creek%20Coffee%20at%20Franciscan%20University+near+40.373601699999995%2C-80.6207664"
+    },
+    {
+      "name": "Dunkin'",
+      "distance": "0.8 mi",
+      "url": "https://www.google.com/maps/search/Dunkin'+near+40.373601699999995%2C-80.6207664"
+    },
+    {
+      "name": "Leonardo's Coffeehouse & Renaissance Coffee Roasting Co.",
+      "distance": "0.9 mi",
+      "url": "https://www.google.com/maps/search/Leonardo's%20Coffeehouse%20%26%20Renaissance%20Coffee%20Roasting%20Co.+near+40.373601699999995%2C-80.6207664"
+    },
+    {
+      "name": "McDonald's",
+      "distance": "0.9 mi",
+      "url": "https://www.google.com/maps/search/McDonald's+near+40.373601699999995%2C-80.6207664"
+    }
+  ],
+  "team_lunch": [
+    {
+      "name": "McCarthy’s Harp and Habit",
+      "distance": "0.1 mi",
+      "url": "https://www.google.com/maps/search/McCarthy%E2%80%99s%20Harp%20and%20Habit+near+40.373601699999995%2C-80.6207664"
+    },
+    {
+      "name": "Froehlich's Classic Corner",
+      "distance": "0.8 mi",
+      "url": "https://www.google.com/maps/search/Froehlich's%20Classic%20Corner+near+40.373601699999995%2C-80.6207664"
+    },
+    {
+      "name": "China Garden",
+      "distance": "0.9 mi",
+      "url": "https://www.google.com/maps/search/China%20Garden+near+40.373601699999995%2C-80.6207664"
+    }
+  ],
+  "dinner": [
+    {
+      "name": "Rubi's Pizza & Grill",
+      "distance": "0.1 mi",
+      "url": "https://www.google.com/maps/search/Rubi's%20Pizza%20%26%20Grill+near+40.373601699999995%2C-80.6207664"
+    },
+    {
+      "name": "Sesame Grill",
+      "distance": "0.3 mi",
+      "url": "https://www.google.com/maps/search/Sesame%20Grill+near+40.373601699999995%2C-80.6207664"
+    },
+    {
+      "name": "Little Snack Shack",
+      "distance": "0.6 mi",
+      "url": "https://www.google.com/maps/search/Little%20Snack%20Shack+near+40.373601699999995%2C-80.6207664"
+    },
+    {
+      "name": "The Retro Shak",
+      "distance": "0.7 mi",
+      "url": "https://www.google.com/maps/search/The%20Retro%20Shak+near+40.373601699999995%2C-80.6207664"
+    },
+    {
+      "name": "Naples Spaghetti House",
+      "distance": "0.8 mi",
+      "url": "https://www.google.com/maps/search/Naples%20Spaghetti%20House+near+40.373601699999995%2C-80.6207664"
+    },
+    {
+      "name": "Yorgo's Gyros & Potatoes",
+      "distance": "0.9 mi",
+      "url": "https://www.google.com/maps/search/Yorgo's%20Gyros%20%26%20Potatoes+near+40.373601699999995%2C-80.6207664"
+    },
+    {
+      "name": "4th Street Standard",
+      "distance": "1.0 mi",
+      "url": "https://www.google.com/maps/search/4th%20Street%20Standard+near+40.373601699999995%2C-80.6207664"
+    }
+  ],
+  "bowling": [
+    {
+      "name": "Holiday Lanes",
+      "distance": "2.2 mi",
+      "url": "https://www.google.com/maps/search/Holiday%20Lanes+near+40.373601699999995%2C-80.6207664"
+    },
+    {
+      "name": "7 Ranges Entertainment",
+      "distance": "2.7 mi",
+      "url": "https://www.google.com/maps/search/7%20Ranges%20Entertainment+near+40.373601699999995%2C-80.6207664"
+    },
+    {
+      "name": "Bugsy's Enterprise LLC",
+      "distance": "4.7 mi",
+      "url": "https://www.google.com/maps/search/Bugsy's%20Enterprise%20LLC+near+40.373601699999995%2C-80.6207664",
+      "isFar": true
+    },
+    {
+      "name": "Toronto Lanes LLC",
+      "distance": "7.1 mi",
+      "url": "https://www.google.com/maps/search/Toronto%20Lanes%20LLC+near+40.373601699999995%2C-80.6207664",
+      "isFar": true
+    },
+    {
+      "name": "Brooke Lanes II",
+      "distance": "8.0 mi",
+      "url": "https://www.google.com/maps/search/Brooke%20Lanes%20II+near+40.373601699999995%2C-80.6207664",
+      "isFar": true
+    }
+  ],
+  "arcade": [],
+  "movies": [
+    {
+      "name": "The Plaza Theatre",
+      "distance": "4.7 mi",
+      "url": "https://www.google.com/maps/search/The%20Plaza%20Theatre+near+40.373601699999995%2C-80.6207664",
+      "isFar": true
+    }
+  ],
+  "fun": [],
+  "hotels": [
+    {
+      "name": "Best Western Plus Franciscan Square Inn and Suites Steubenville",
+      "distance": "0.1 mi",
+      "url": "https://www.google.com/maps/search/Best%20Western%20Plus%20Franciscan%20Square%20Inn%20and%20Suites%20Steubenville+near+40.373601699999995%2C-80.6207664"
+    },
+    {
+      "name": "1 Mi to Dtwn & Franciscan University: Home w/ Yard",
+      "distance": "0.2 mi",
+      "url": "https://www.google.com/maps/search/1%20Mi%20to%20Dtwn%20%26%20Franciscan%20University%3A%20Home%20w%2F%20Yard+near+40.373601699999995%2C-80.6207664"
+    },
+    {
+      "name": "Wingate by Wyndham Steubenville",
+      "distance": "0.2 mi",
+      "url": "https://www.google.com/maps/search/Wingate%20by%20Wyndham%20Steubenville+near+40.373601699999995%2C-80.6207664"
+    },
+    {
+      "name": "Hotel PITTSBURH",
+      "distance": "0.3 mi",
+      "url": "https://www.google.com/maps/search/Hotel%20PITTSBURH+near+40.373601699999995%2C-80.6207664"
+    },
+    {
+      "name": "Cozy little Castle. Warm & welcoming.",
+      "distance": "0.5 mi",
+      "url": "https://www.google.com/maps/search/Cozy%20little%20Castle.%20Warm%20%26%20welcoming.+near+40.373601699999995%2C-80.6207664"
+    },
+    {
+      "name": "308 South Bend Stubenville Oh 43952 - One-Bedroom House",
+      "distance": "0.5 mi",
+      "url": "https://www.google.com/maps/search/308%20South%20Bend%20Stubenville%20Oh%2043952%20-%20One-Bedroom%20House+near+40.373601699999995%2C-80.6207664"
+    },
+    {
+      "name": "Cozy little Castle. Warm welcoming.",
+      "distance": "0.6 mi",
+      "url": "https://www.google.com/maps/search/Cozy%20little%20Castle.%20Warm%20welcoming.+near+40.373601699999995%2C-80.6207664"
+    }
+  ],
+  "gas": [
+    {
+      "name": "AMOCO",
+      "distance": "0.4 mi",
+      "url": "https://www.google.com/maps/search/AMOCO+near+40.373601699999995%2C-80.6207664"
+    },
+    {
+      "name": "Speedway",
+      "distance": "0.9 mi",
+      "url": "https://www.google.com/maps/search/Speedway+near+40.373601699999995%2C-80.6207664"
+    },
+    {
+      "name": "Sunoco",
+      "distance": "0.9 mi",
+      "url": "https://www.google.com/maps/search/Sunoco+near+40.373601699999995%2C-80.6207664"
+    },
+    {
+      "name": "Kroger Fuel Center",
+      "distance": "1.1 mi",
+      "url": "https://www.google.com/maps/search/Kroger%20Fuel%20Center+near+40.373601699999995%2C-80.6207664"
+    },
+    {
+      "name": "Marathon",
+      "distance": "1.3 mi",
+      "url": "https://www.google.com/maps/search/Marathon+near+40.373601699999995%2C-80.6207664"
+    }
+  ]
+}

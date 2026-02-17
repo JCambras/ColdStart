@@ -1,0 +1,235 @@
+{
+  "quick_bite": [
+    {
+      "name": "Subway",
+      "distance": "0.2 mi",
+      "url": "https://www.google.com/maps/search/Subway+near+35.339500199999996%2C-94.42035849999999"
+    },
+    {
+      "name": "Little Caesars Pizza",
+      "distance": "0.2 mi",
+      "url": "https://www.google.com/maps/search/Little%20Caesars%20Pizza+near+35.339500199999996%2C-94.42035849999999"
+    },
+    {
+      "name": "Long John Silver's",
+      "distance": "0.2 mi",
+      "url": "https://www.google.com/maps/search/Long%20John%20Silver's+near+35.339500199999996%2C-94.42035849999999"
+    },
+    {
+      "name": "Arby's",
+      "distance": "0.2 mi",
+      "url": "https://www.google.com/maps/search/Arby's+near+35.339500199999996%2C-94.42035849999999"
+    },
+    {
+      "name": "Taco Bell",
+      "distance": "0.2 mi",
+      "url": "https://www.google.com/maps/search/Taco%20Bell+near+35.339500199999996%2C-94.42035849999999"
+    },
+    {
+      "name": "Hardee's",
+      "distance": "0.3 mi",
+      "url": "https://www.google.com/maps/search/Hardee's+near+35.339500199999996%2C-94.42035849999999"
+    },
+    {
+      "name": "Taco Mayo",
+      "distance": "0.4 mi",
+      "url": "https://www.google.com/maps/search/Taco%20Mayo+near+35.339500199999996%2C-94.42035849999999"
+    }
+  ],
+  "coffee": [
+    {
+      "name": "McDonald's",
+      "distance": "0.2 mi",
+      "url": "https://www.google.com/maps/search/McDonald's+near+35.339500199999996%2C-94.42035849999999"
+    }
+  ],
+  "team_lunch": [
+    {
+      "name": "Livy's Lunchbox",
+      "distance": "0.3 mi",
+      "url": "https://www.google.com/maps/search/Livy's%20Lunchbox+near+35.339500199999996%2C-94.42035849999999"
+    },
+    {
+      "name": "China City",
+      "distance": "0.4 mi",
+      "url": "https://www.google.com/maps/search/China%20City+near+35.339500199999996%2C-94.42035849999999"
+    }
+  ],
+  "dinner": [
+    {
+      "name": "Thai Garden",
+      "distance": "0.1 mi",
+      "url": "https://www.google.com/maps/search/Thai%20Garden+near+35.339500199999996%2C-94.42035849999999"
+    },
+    {
+      "name": "Goodfella’s Pizza & Pasta",
+      "distance": "0.1 mi",
+      "url": "https://www.google.com/maps/search/Goodfella%E2%80%99s%20Pizza%20%26%20Pasta+near+35.339500199999996%2C-94.42035849999999"
+    },
+    {
+      "name": "Asuka Sushi & Hibachi",
+      "distance": "0.2 mi",
+      "url": "https://www.google.com/maps/search/Asuka%20Sushi%20%26%20Hibachi+near+35.339500199999996%2C-94.42035849999999"
+    },
+    {
+      "name": "Sams Southern Eatery",
+      "distance": "0.2 mi",
+      "url": "https://www.google.com/maps/search/Sams%20Southern%20Eatery+near+35.339500199999996%2C-94.42035849999999"
+    },
+    {
+      "name": "Irish Maid Donuts",
+      "distance": "0.2 mi",
+      "url": "https://www.google.com/maps/search/Irish%20Maid%20Donuts+near+35.339500199999996%2C-94.42035849999999"
+    },
+    {
+      "name": "Long John Silver's fish and more",
+      "distance": "0.2 mi",
+      "url": "https://www.google.com/maps/search/Long%20John%20Silver's%20fish%20and%20more+near+35.339500199999996%2C-94.42035849999999"
+    },
+    {
+      "name": "Miss Anna's on Towson",
+      "distance": "0.2 mi",
+      "url": "https://www.google.com/maps/search/Miss%20Anna's%20on%20Towson+near+35.339500199999996%2C-94.42035849999999"
+    }
+  ],
+  "bowling": [
+    {
+      "name": "Bowling World",
+      "distance": "1.6 mi",
+      "url": "https://www.google.com/maps/search/Bowling%20World+near+35.339500199999996%2C-94.42035849999999"
+    },
+    {
+      "name": "810 Entertainment - Fort Smith",
+      "distance": "3.3 mi",
+      "url": "https://www.google.com/maps/search/810%20Entertainment%20-%20Fort%20Smith+near+35.339500199999996%2C-94.42035849999999",
+      "isFar": true
+    },
+    {
+      "name": "Adventure Alley",
+      "distance": "4.8 mi",
+      "url": "https://www.google.com/maps/search/Adventure%20Alley+near+35.339500199999996%2C-94.42035849999999",
+      "isFar": true
+    },
+    {
+      "name": "Midland Family Bowl",
+      "distance": "4.8 mi",
+      "url": "https://www.google.com/maps/search/Midland%20Family%20Bowl+near+35.339500199999996%2C-94.42035849999999",
+      "isFar": true
+    }
+  ],
+  "arcade": [],
+  "movies": [
+    {
+      "name": "Malco Fort Smith Cinema",
+      "distance": "3.3 mi",
+      "url": "https://www.google.com/maps/search/Malco%20Fort%20Smith%20Cinema+near+35.339500199999996%2C-94.42035849999999",
+      "isFar": true
+    }
+  ],
+  "fun": [
+    {
+      "name": "The Monkey House",
+      "distance": "0.7 mi",
+      "url": "https://www.google.com/maps/search/The%20Monkey%20House+near+35.339500199999996%2C-94.42035849999999"
+    },
+    {
+      "name": "Fort Smith Escape Room",
+      "distance": "2.1 mi",
+      "url": "https://www.google.com/maps/search/Fort%20Smith%20Escape%20Room+near+35.339500199999996%2C-94.42035849999999"
+    },
+    {
+      "name": "Tilles Park Splash Pad",
+      "distance": "3.5 mi",
+      "url": "https://www.google.com/maps/search/Tilles%20Park%20Splash%20Pad+near+35.339500199999996%2C-94.42035849999999",
+      "isFar": true
+    },
+    {
+      "name": "Compass Park Splash Pads",
+      "distance": "3.6 mi",
+      "url": "https://www.google.com/maps/search/Compass%20Park%20Splash%20Pads+near+35.339500199999996%2C-94.42035849999999",
+      "isFar": true
+    },
+    {
+      "name": "Martin Luther King, Jr. Splash Pad",
+      "distance": "4.0 mi",
+      "url": "https://www.google.com/maps/search/Martin%20Luther%20King%2C%20Jr.%20Splash%20Pad+near+35.339500199999996%2C-94.42035849999999",
+      "isFar": true
+    },
+    {
+      "name": "Parrot Island Waterpark",
+      "distance": "4.0 mi",
+      "url": "https://www.google.com/maps/search/Parrot%20Island%20Waterpark+near+35.339500199999996%2C-94.42035849999999",
+      "isFar": true
+    },
+    {
+      "name": "Spartan Adventure Park",
+      "distance": "4.2 mi",
+      "url": "https://www.google.com/maps/search/Spartan%20Adventure%20Park+near+35.339500199999996%2C-94.42035849999999",
+      "isFar": true
+    }
+  ],
+  "hotels": [
+    {
+      "name": "5007 Towson Ave RV Park",
+      "distance": "0.3 mi",
+      "url": "https://www.google.com/maps/search/5007%20Towson%20Ave%20RV%20Park+near+35.339500199999996%2C-94.42035849999999"
+    },
+    {
+      "name": "River Valley Inn & Suites (Extended Stay)",
+      "distance": "0.3 mi",
+      "url": "https://www.google.com/maps/search/River%20Valley%20Inn%20%26%20Suites%20(Extended%20Stay)+near+35.339500199999996%2C-94.42035849999999"
+    },
+    {
+      "name": "Newly Remodeled - King Bed in Central Fort Smith",
+      "distance": "0.4 mi",
+      "url": "https://www.google.com/maps/search/Newly%20Remodeled%20-%20King%20Bed%20in%20Central%20Fort%20Smith+near+35.339500199999996%2C-94.42035849999999"
+    },
+    {
+      "name": "3-bedroom Mid-Mod home in Fort Smith with King bed, WiFi",
+      "distance": "0.5 mi",
+      "url": "https://www.google.com/maps/search/3-bedroom%20Mid-Mod%20home%20in%20Fort%20Smith%20with%20King%20bed%2C%20WiFi+near+35.339500199999996%2C-94.42035849999999"
+    },
+    {
+      "name": "3-bedroom Mid-Mod home in Fort Smith with King bed, WiFi",
+      "distance": "0.5 mi",
+      "url": "https://www.google.com/maps/search/3-bedroom%20Mid-Mod%20home%20in%20Fort%20Smith%20with%20King%20bed%2C%20WiFi+near+35.339500199999996%2C-94.42035849999999"
+    },
+    {
+      "name": "Westark Inn",
+      "distance": "0.5 mi",
+      "url": "https://www.google.com/maps/search/Westark%20Inn+near+35.339500199999996%2C-94.42035849999999"
+    },
+    {
+      "name": "ROYAL INN MOTEL",
+      "distance": "0.5 mi",
+      "url": "https://www.google.com/maps/search/ROYAL%20INN%20MOTEL+near+35.339500199999996%2C-94.42035849999999"
+    }
+  ],
+  "gas": [
+    {
+      "name": "Sunoco",
+      "distance": "0.9 mi",
+      "url": "https://www.google.com/maps/search/Sunoco+near+35.339500199999996%2C-94.42035849999999"
+    },
+    {
+      "name": "Murphy USA",
+      "distance": "1.0 mi",
+      "url": "https://www.google.com/maps/search/Murphy%20USA+near+35.339500199999996%2C-94.42035849999999"
+    },
+    {
+      "name": "CIRCLE K",
+      "distance": "1.1 mi",
+      "url": "https://www.google.com/maps/search/CIRCLE%20K+near+35.339500199999996%2C-94.42035849999999"
+    },
+    {
+      "name": "CONOCO HP FOOD MART",
+      "distance": "1.1 mi",
+      "url": "https://www.google.com/maps/search/CONOCO%20HP%20FOOD%20MART+near+35.339500199999996%2C-94.42035849999999"
+    },
+    {
+      "name": "Valero",
+      "distance": "1.1 mi",
+      "url": "https://www.google.com/maps/search/Valero+near+35.339500199999996%2C-94.42035849999999"
+    }
+  ]
+}

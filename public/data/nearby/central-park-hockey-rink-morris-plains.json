@@ -1,0 +1,192 @@
+{
+  "quick_bite": [
+    {
+      "name": "Annabella's Pizzeria & Restaurant",
+      "distance": "1.2 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Annabella's%20Pizzeria%20%26%20Restaurant&query_place_id=ChIJG0QBZt-mw4kRuvX0FYvDqH8&center=40.823892099999995,-74.4800503"
+    },
+    {
+      "name": "Taco Bell",
+      "distance": "1.8 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Taco%20Bell&query_place_id=ChIJgQP8FAqnw4kRtxN3LO6mjH8&center=40.815269,-74.4733069"
+    },
+    {
+      "name": "Jersey Mike's Subs",
+      "distance": "2.0 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Jersey%20Mike's%20Subs&query_place_id=ChIJHULNR4qnw4kRqGe9hE4faI0&center=40.8128466,-74.47131510000001"
+    },
+    {
+      "name": "Chick-fil-A",
+      "distance": "2.0 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Chick-fil-A&query_place_id=ChIJxVEMz4Snw4kRto0hq_kGZzs&center=40.845537,-74.46710709999999"
+    },
+    {
+      "name": "Wendy's",
+      "distance": "2.1 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Wendy's&query_place_id=ChIJz-d8jHKnw4kRP2ea64bKV6o&center=40.8437997,-74.4628242"
+    },
+    {
+      "name": "Market Sandwich",
+      "distance": "2.3 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Market%20Sandwich&query_place_id=ChIJtcswRKunw4kR0NFptABiWMY&center=40.799524999999996,-74.4881425"
+    }
+  ],
+  "coffee": [
+    {
+      "name": "Dunkin'",
+      "distance": "1.2 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Dunkin'&query_place_id=ChIJG0QBZt-mw4kR-rkVJZ_KZ9A&center=40.8239662,-74.4799012"
+    },
+    {
+      "name": "Jersey Artisan Cafe",
+      "distance": "1.2 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Jersey%20Artisan%20Cafe&query_place_id=ChIJ3wEx7S-nw4kR2mfyUvkDoRA&center=40.818672199999995,-74.4838011"
+    },
+    {
+      "name": "A & B Bagel and Deli",
+      "distance": "1.2 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=A%20%26%20B%20Bagel%20and%20Deli&query_place_id=ChIJk4Kdf3qnw4kRW_6lo-M1eFc&center=40.820011,-74.48166379999999"
+    },
+    {
+      "name": "Artist Baker",
+      "distance": "2.4 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Artist%20Baker&query_place_id=ChIJH3cnCrymw4kR8e8ADrwGL9c&center=40.7990048,-74.4818196"
+    }
+  ],
+  "team_lunch": [
+    {
+      "name": "Pop's Chicken",
+      "distance": "1.2 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Pop's%20Chicken&query_place_id=ChIJ9eyeOwCnw4kR1NkWtKG9ixM&center=40.8201933,-74.4820072"
+    },
+    {
+      "name": "GG's Cafe!",
+      "distance": "1.7 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=GG's%20Cafe!&query_place_id=ChIJs7Owni-nw4kRgi_6XumZRV4&center=40.815318999999995,-74.4757608"
+    },
+    {
+      "name": "Jersey's Best Bagels",
+      "distance": "2.0 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Jersey's%20Best%20Bagels&query_place_id=ChIJJckCN2ynw4kRD_23IP2sVbY&center=40.8466636,-74.4684532"
+    },
+    {
+      "name": "Pan Casero Bakery & Kitchen",
+      "distance": "2.0 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Pan%20Casero%20Bakery%20%26%20Kitchen&query_place_id=ChIJ3RI-V8emw4kRJ5qk9ADFboI&center=40.805321,-74.4824417"
+    },
+    {
+      "name": "Blueprint Subs and Salads",
+      "distance": "2.0 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Blueprint%20Subs%20and%20Salads&query_place_id=ChIJQSek7eWmw4kRSyw1-XSiO0I&center=40.813821399999995,-74.4688886"
+    },
+    {
+      "name": "The Bagelry",
+      "distance": "2.1 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=The%20Bagelry&query_place_id=ChIJ6_E8tNSnw4kRHCJqiflQ9NQ&center=40.8116729,-74.4685524"
+    }
+  ],
+  "dinner": [
+    {
+      "name": "Lovey's Pizza & Grill",
+      "distance": "0.8 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Lovey's%20Pizza%20%26%20Grill&query_place_id=ChIJr5ILmdemw4kRlL6OA4E4oXw&center=40.8237844,-74.4889509"
+    },
+    {
+      "name": "WOODAM KOREAN BBQ",
+      "distance": "1.1 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=WOODAM%20KOREAN%20BBQ&query_place_id=ChIJ43SJEiGnw4kRkoBTmC0_95w&center=40.8279862,-74.4796356"
+    },
+    {
+      "name": "Tony's Pizza",
+      "distance": "1.1 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Tony's%20Pizza&query_place_id=ChIJo82QciGnw4kRSiCx2y7Mp_w&center=40.8282539,-74.4795575"
+    },
+    {
+      "name": "Time For A Bagel",
+      "distance": "1.1 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Time%20For%20A%20Bagel&query_place_id=ChIJa1McciGnw4kRkvD83nfu-rg&center=40.8284407,-74.4795117"
+    },
+    {
+      "name": "Arthur's Tavern",
+      "distance": "1.1 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Arthur's%20Tavern&query_place_id=ChIJLYzYcCGnw4kRBVJEECwKSTY&center=40.828752099999996,-74.47934359999999"
+    },
+    {
+      "name": "Chocolatine",
+      "distance": "1.1 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Chocolatine&query_place_id=ChIJu_2oWwCnw4kRDksCEWMwS34&center=40.8285851,-74.4793588"
+    }
+  ],
+  "bowling": [
+    {
+      "name": "Rockaway Lanes Inc",
+      "distance": "4.2 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Rockaway%20Lanes%20Inc&query_place_id=ChIJye9d8WoKw4kRPRcbCrA0OyI&center=40.888484,-74.5262199",
+      "isFar": true
+    }
+  ],
+  "arcade": [],
+  "movies": [
+    {
+      "name": "AMC Headquarters Plaza 10",
+      "distance": "2.3 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=AMC%20Headquarters%20Plaza%2010&query_place_id=ChIJxbtfArymw4kRSey1OkeTpSc&center=40.8003986,-74.4807711"
+    }
+  ],
+  "fun": [
+    {
+      "name": "Thomas Paine Statue",
+      "distance": "2.1 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Thomas%20Paine%20Statue&query_place_id=ChIJv5StfQCnw4kRfuUwtudcnfc&center=40.8006112,-74.4930664"
+    },
+    {
+      "name": "Morris County Economic Development Alliance (dba of Morris County Tourism Bureau)",
+      "distance": "2.5 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Morris%20County%20Economic%20Development%20Alliance%20(dba%20of%20Morris%20County%20Tourism%20Bureau)&query_place_id=ChIJI5RrZlWnw4kRviAWOR80gMc&center=40.797599999999996,-74.4835411"
+    },
+    {
+      "name": "Trap Door Madness Escape Room | Morristown, NJ",
+      "distance": "2.5 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Trap%20Door%20Madness%20Escape%20Room%20%7C%20Morristown%2C%20NJ&query_place_id=ChIJN2TiQ2mnw4kRHQ3Z_YtX4uA&center=40.797928399999996,-74.4807721"
+    }
+  ],
+  "hotels": [
+    {
+      "name": "1 town in NJ Ranked by Money Magazine, Heart of historic Morris County",
+      "distance": "1.7 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=1%20town%20in%20NJ%20Ranked%20by%20Money%20Magazine%2C%20Heart%20of%20historic%20Morris%20County&query_place_id=ChIJeadeDk6nw4kR5MTN3x6khrU&center=40.8551102,-74.4930191"
+    },
+    {
+      "name": "Sonesta Simply Suites Parsippany Morris Plains",
+      "distance": "1.8 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Sonesta%20Simply%20Suites%20Parsippany%20Morris%20Plains&query_place_id=ChIJCbXfgWmnw4kRz2Wx_vQ943k&center=40.847345999999995,-74.4723006"
+    },
+    {
+      "name": "Parsippany Inn and Suites Morris Plains",
+      "distance": "2.1 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Parsippany%20Inn%20and%20Suites%20Morris%20Plains&query_place_id=ChIJh8mM9lOnw4kR0YkzxxRomFM&center=40.860575499999996,-74.4950344"
+    }
+  ],
+  "gas": [
+    {
+      "name": "Amoco",
+      "distance": "1.1 mi",
+      "url": "https://www.google.com/maps/search/Amoco+near+40.8309058%2C-74.5001413"
+    },
+    {
+      "name": "bp",
+      "distance": "1.2 mi",
+      "url": "https://www.google.com/maps/search/bp+near+40.8309058%2C-74.5001413"
+    },
+    {
+      "name": "Shell",
+      "distance": "1.2 mi",
+      "url": "https://www.google.com/maps/search/Shell+near+40.8309058%2C-74.5001413"
+    },
+    {
+      "name": "Express Fuel",
+      "distance": "1.4 mi",
+      "url": "https://www.google.com/maps/search/Express%20Fuel+near+40.8309058%2C-74.5001413"
+    }
+  ]
+}

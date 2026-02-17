@@ -1,0 +1,218 @@
+{
+  "quick_bite": [
+    {
+      "name": "Wendy's",
+      "distance": "0.5 mi",
+      "url": "https://www.google.com/maps/search/Wendy's+near+41.4681192%2C-81.8561412"
+    },
+    {
+      "name": "Chipotle Mexican Grill",
+      "distance": "0.5 mi",
+      "url": "https://www.google.com/maps/search/Chipotle%20Mexican%20Grill+near+41.4681192%2C-81.8561412"
+    },
+    {
+      "name": "Raising Cane's Chicken Fingers",
+      "distance": "0.5 mi",
+      "url": "https://www.google.com/maps/search/Raising%20Cane's%20Chicken%20Fingers+near+41.4681192%2C-81.8561412"
+    },
+    {
+      "name": "Panda Express",
+      "distance": "0.5 mi",
+      "url": "https://www.google.com/maps/search/Panda%20Express+near+41.4681192%2C-81.8561412"
+    },
+    {
+      "name": "Chick-fil-A",
+      "distance": "0.5 mi",
+      "url": "https://www.google.com/maps/search/Chick-fil-A+near+41.4681192%2C-81.8561412"
+    },
+    {
+      "name": "LongHorn Steakhouse",
+      "distance": "0.5 mi",
+      "url": "https://www.google.com/maps/search/LongHorn%20Steakhouse+near+41.4681192%2C-81.8561412"
+    },
+    {
+      "name": "Arby's",
+      "distance": "0.5 mi",
+      "url": "https://www.google.com/maps/search/Arby's+near+41.4681192%2C-81.8561412"
+    }
+  ],
+  "coffee": [
+    {
+      "name": "Starbucks Coffee Company",
+      "distance": "0.5 mi",
+      "url": "https://www.google.com/maps/search/Starbucks%20Coffee%20Company+near+41.4681192%2C-81.8561412"
+    }
+  ],
+  "team_lunch": [
+    {
+      "name": "Applebee's Grill + Bar",
+      "distance": "0.5 mi",
+      "url": "https://www.google.com/maps/search/Applebee's%20Grill%20%2B%20Bar+near+41.4681192%2C-81.8561412"
+    },
+    {
+      "name": "El Vaquero Mexican Restaurant",
+      "distance": "0.5 mi",
+      "url": "https://www.google.com/maps/search/El%20Vaquero%20Mexican%20Restaurant+near+41.4681192%2C-81.8561412"
+    }
+  ],
+  "dinner": [
+    {
+      "name": "King Wah",
+      "distance": "0.5 mi",
+      "url": "https://www.google.com/maps/search/King%20Wah+near+41.4681192%2C-81.8561412"
+    },
+    {
+      "name": "BIBIBOP Asian Grill",
+      "distance": "0.6 mi",
+      "url": "https://www.google.com/maps/search/BIBIBOP%20Asian%20Grill+near+41.4681192%2C-81.8561412"
+    },
+    {
+      "name": "The Original Pancake House - Fairview Park",
+      "distance": "0.6 mi",
+      "url": "https://www.google.com/maps/search/The%20Original%20Pancake%20House%20-%20Fairview%20Park+near+41.4681192%2C-81.8561412"
+    },
+    {
+      "name": "Kintaro",
+      "distance": "0.6 mi",
+      "url": "https://www.google.com/maps/search/Kintaro+near+41.4681192%2C-81.8561412"
+    },
+    {
+      "name": "Dolce Wraps Mediterranean Grill",
+      "distance": "0.6 mi",
+      "url": "https://www.google.com/maps/search/Dolce%20Wraps%20Mediterranean%20Grill+near+41.4681192%2C-81.8561412"
+    }
+  ],
+  "bowling": [
+    {
+      "name": "Fairview Lanes",
+      "distance": "1.8 mi",
+      "url": "https://www.google.com/maps/search/Fairview%20Lanes+near+41.4681192%2C-81.8561412"
+    },
+    {
+      "name": "Madison square lanes",
+      "distance": "2.6 mi",
+      "url": "https://www.google.com/maps/search/Madison%20square%20lanes+near+41.4681192%2C-81.8561412"
+    },
+    {
+      "name": "RollHouse North Olmsted",
+      "distance": "3.4 mi",
+      "url": "https://www.google.com/maps/search/RollHouse%20North%20Olmsted+near+41.4681192%2C-81.8561412",
+      "isFar": true
+    },
+    {
+      "name": "Mahall's",
+      "distance": "3.9 mi",
+      "url": "https://www.google.com/maps/search/Mahall's+near+41.4681192%2C-81.8561412",
+      "isFar": true
+    }
+  ],
+  "arcade": [],
+  "movies": [
+    {
+      "name": "AMC Westwood Town Center 6",
+      "distance": "0.7 mi",
+      "url": "https://www.google.com/maps/search/AMC%20Westwood%20Town%20Center%206+near+41.4681192%2C-81.8561412"
+    },
+    {
+      "name": "Phoenix Theatres Great Northern Mall",
+      "distance": "4.4 mi",
+      "url": "https://www.google.com/maps/search/Phoenix%20Theatres%20Great%20Northern%20Mall+near+41.4681192%2C-81.8561412",
+      "isFar": true
+    }
+  ],
+  "fun": [
+    {
+      "name": "Escape Room Cleveland",
+      "distance": "2.8 mi",
+      "url": "https://www.google.com/maps/search/Escape%20Room%20Cleveland+near+41.4681192%2C-81.8561412"
+    },
+    {
+      "name": "Escapology Escape Rooms North Olmsted",
+      "distance": "3.4 mi",
+      "url": "https://www.google.com/maps/search/Escapology%20Escape%20Rooms%20North%20Olmsted+near+41.4681192%2C-81.8561412",
+      "isFar": true
+    },
+    {
+      "name": "All Smiles Aboard Railroad at Great Northern Mall",
+      "distance": "4.4 mi",
+      "url": "https://www.google.com/maps/search/All%20Smiles%20Aboard%20Railroad%20at%20Great%20Northern%20Mall+near+41.4681192%2C-81.8561412",
+      "isFar": true
+    },
+    {
+      "name": "I-X Center Indoor Amusement Park",
+      "distance": "4.8 mi",
+      "url": "https://www.google.com/maps/search/I-X%20Center%20Indoor%20Amusement%20Park+near+41.4681192%2C-81.8561412",
+      "isFar": true
+    },
+    {
+      "name": "Urban Air Trampoline and Adventure Park",
+      "distance": "5.0 mi",
+      "url": "https://www.google.com/maps/search/Urban%20Air%20Trampoline%20and%20Adventure%20Park+near+41.4681192%2C-81.8561412",
+      "isFar": true
+    }
+  ],
+  "hotels": [
+    {
+      "name": "Upstairs Unit in Rocky River",
+      "distance": "0.6 mi",
+      "url": "https://www.google.com/maps/search/Upstairs%20Unit%20in%20Rocky%20River+near+41.4681192%2C-81.8561412"
+    },
+    {
+      "name": "Downstairs Unit in Rocky River",
+      "distance": "0.6 mi",
+      "url": "https://www.google.com/maps/search/Downstairs%20Unit%20in%20Rocky%20River+near+41.4681192%2C-81.8561412"
+    },
+    {
+      "name": "Downstairs Apartment in Rocky River",
+      "distance": "0.6 mi",
+      "url": "https://www.google.com/maps/search/Downstairs%20Apartment%20in%20Rocky%20River+near+41.4681192%2C-81.8561412"
+    },
+    {
+      "name": "“YOGA HOUSE” 4bed , 2 spa-like baths + 2x Yoga sunrooms! Hotel quality",
+      "distance": "0.7 mi",
+      "url": "https://www.google.com/maps/search/%E2%80%9CYOGA%20HOUSE%E2%80%9D%204bed%20%2C%202%20spa-like%20baths%20%2B%202x%20Yoga%20sunrooms!%20Hotel%20quality+near+41.4681192%2C-81.8561412"
+    },
+    {
+      "name": "“YOGA HOUSE” 4bed , 2 spa-like baths + 2x Yoga sunrooms! Hotel quality",
+      "distance": "0.7 mi",
+      "url": "https://www.google.com/maps/search/%E2%80%9CYOGA%20HOUSE%E2%80%9D%204bed%20%2C%202%20spa-like%20baths%20%2B%202x%20Yoga%20sunrooms!%20Hotel%20quality+near+41.4681192%2C-81.8561412"
+    },
+    {
+      "name": "Pool Table - Quiet Suburban Family Retreat",
+      "distance": "1.0 mi",
+      "url": "https://www.google.com/maps/search/Pool%20Table%20-%20Quiet%20Suburban%20Family%20Retreat+near+41.4681192%2C-81.8561412"
+    },
+    {
+      "name": "Pool Table - Quiet Suburban Family Retreat",
+      "distance": "1.0 mi",
+      "url": "https://www.google.com/maps/search/Pool%20Table%20-%20Quiet%20Suburban%20Family%20Retreat+near+41.4681192%2C-81.8561412"
+    }
+  ],
+  "gas": [
+    {
+      "name": "Shell",
+      "distance": "0.5 mi",
+      "url": "https://www.google.com/maps/search/Shell+near+41.4681192%2C-81.8561412"
+    },
+    {
+      "name": "Race Fuel",
+      "distance": "0.5 mi",
+      "url": "https://www.google.com/maps/search/Race%20Fuel+near+41.4681192%2C-81.8561412"
+    },
+    {
+      "name": "GetGo Gas Station",
+      "distance": "0.7 mi",
+      "url": "https://www.google.com/maps/search/GetGo%20Gas%20Station+near+41.4681192%2C-81.8561412"
+    },
+    {
+      "name": "bp",
+      "distance": "1.0 mi",
+      "url": "https://www.google.com/maps/search/bp+near+41.4681192%2C-81.8561412"
+    },
+    {
+      "name": "Shell",
+      "distance": "1.0 mi",
+      "url": "https://www.google.com/maps/search/Shell+near+41.4681192%2C-81.8561412"
+    }
+  ]
+}

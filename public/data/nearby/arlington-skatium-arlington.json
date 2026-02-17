@@ -1,0 +1,217 @@
+{
+  "quick_bite": [
+    {
+      "name": "Sonic Drive-In",
+      "distance": "0.1 mi",
+      "url": "https://www.google.com/maps/search/Sonic%20Drive-In+near+32.6569515%2C-97.1319405"
+    },
+    {
+      "name": "Popeyes Louisiana Kitchen",
+      "distance": "0.2 mi",
+      "url": "https://www.google.com/maps/search/Popeyes%20Louisiana%20Kitchen+near+32.6569515%2C-97.1319405"
+    },
+    {
+      "name": "Taco Bell",
+      "distance": "0.2 mi",
+      "url": "https://www.google.com/maps/search/Taco%20Bell+near+32.6569515%2C-97.1319405"
+    },
+    {
+      "name": "Dickey's Barbecue Pit",
+      "distance": "0.2 mi",
+      "url": "https://www.google.com/maps/search/Dickey's%20Barbecue%20Pit+near+32.6569515%2C-97.1319405"
+    },
+    {
+      "name": "Taco Bueno",
+      "distance": "0.2 mi",
+      "url": "https://www.google.com/maps/search/Taco%20Bueno+near+32.6569515%2C-97.1319405"
+    },
+    {
+      "name": "Wendy's",
+      "distance": "0.3 mi",
+      "url": "https://www.google.com/maps/search/Wendy's+near+32.6569515%2C-97.1319405"
+    },
+    {
+      "name": "SNOWFOX Sushi",
+      "distance": "0.4 mi",
+      "url": "https://www.google.com/maps/search/SNOWFOX%20Sushi+near+32.6569515%2C-97.1319405"
+    }
+  ],
+  "coffee": [
+    {
+      "name": "McDonald's",
+      "distance": "0.2 mi",
+      "url": "https://www.google.com/maps/search/McDonald's+near+32.6569515%2C-97.1319405"
+    }
+  ],
+  "team_lunch": [
+    {
+      "name": "Wingstop",
+      "distance": "0.1 mi",
+      "url": "https://www.google.com/maps/search/Wingstop+near+32.6569515%2C-97.1319405"
+    }
+  ],
+  "dinner": [
+    {
+      "name": "Zalat Pizza",
+      "distance": "0.1 mi",
+      "url": "https://www.google.com/maps/search/Zalat%20Pizza+near+32.6569515%2C-97.1319405"
+    },
+    {
+      "name": "bb.q Chicken South Arlington",
+      "distance": "0.3 mi",
+      "url": "https://www.google.com/maps/search/bb.q%20Chicken%20South%20Arlington+near+32.6569515%2C-97.1319405"
+    },
+    {
+      "name": "Donut Palace",
+      "distance": "0.3 mi",
+      "url": "https://www.google.com/maps/search/Donut%20Palace+near+32.6569515%2C-97.1319405"
+    },
+    {
+      "name": "Tgblessing Vietnamese cuisine and catering",
+      "distance": "0.3 mi",
+      "url": "https://www.google.com/maps/search/Tgblessing%20Vietnamese%20cuisine%20and%20catering+near+32.6569515%2C-97.1319405"
+    },
+    {
+      "name": "Kroger Bakery",
+      "distance": "0.4 mi",
+      "url": "https://www.google.com/maps/search/Kroger%20Bakery+near+32.6569515%2C-97.1319405"
+    },
+    {
+      "name": "Fuzzy's Taco Shop",
+      "distance": "0.5 mi",
+      "url": "https://www.google.com/maps/search/Fuzzy's%20Taco%20Shop+near+32.6569515%2C-97.1319405"
+    },
+    {
+      "name": "Cherkose Ethiopian cuisine",
+      "distance": "0.5 mi",
+      "url": "https://www.google.com/maps/search/Cherkose%20Ethiopian%20cuisine+near+32.6569515%2C-97.1319405"
+    }
+  ],
+  "bowling": [
+    {
+      "name": "Alley Cats Entertainment",
+      "distance": "1.5 mi",
+      "url": "https://www.google.com/maps/search/Alley%20Cats%20Entertainment+near+32.6569515%2C-97.1319405"
+    },
+    {
+      "name": "Round1 Bowling & Arcade Arlington Parks",
+      "distance": "1.6 mi",
+      "url": "https://www.google.com/maps/search/Round1%20Bowling%20%26%20Arcade%20Arlington%20Parks+near+32.6569515%2C-97.1319405"
+    },
+    {
+      "name": "AMF Spare Time Lanes",
+      "distance": "2.5 mi",
+      "url": "https://www.google.com/maps/search/AMF%20Spare%20Time%20Lanes+near+32.6569515%2C-97.1319405"
+    }
+  ],
+  "arcade": [],
+  "movies": [
+    {
+      "name": "AMC The Parks At Arlington 18",
+      "distance": "1.5 mi",
+      "url": "https://www.google.com/maps/search/AMC%20The%20Parks%20At%20Arlington%2018+near+32.6569515%2C-97.1319405"
+    },
+    {
+      "name": "Studio Movie Grill",
+      "distance": "2.2 mi",
+      "url": "https://www.google.com/maps/search/Studio%20Movie%20Grill+near+32.6569515%2C-97.1319405"
+    },
+    {
+      "name": "LOOK Dine-In Cinemas",
+      "distance": "3.9 mi",
+      "url": "https://www.google.com/maps/search/LOOK%20Dine-In%20Cinemas+near+32.6569515%2C-97.1319405",
+      "isFar": true
+    }
+  ],
+  "fun": [
+    {
+      "name": "Launch Family Entertainment Arlington",
+      "distance": "0.7 mi",
+      "url": "https://www.google.com/maps/search/Launch%20Family%20Entertainment%20Arlington+near+32.6569515%2C-97.1319405"
+    },
+    {
+      "name": "Back In Time Escape Rooms",
+      "distance": "1.5 mi",
+      "url": "https://www.google.com/maps/search/Back%20In%20Time%20Escape%20Rooms+near+32.6569515%2C-97.1319405"
+    },
+    {
+      "name": "Pump It Up Arlington Kids Birthdays and More",
+      "distance": "1.6 mi",
+      "url": "https://www.google.com/maps/search/Pump%20It%20Up%20Arlington%20Kids%20Birthdays%20and%20More+near+32.6569515%2C-97.1319405"
+    },
+    {
+      "name": "Cheeky Monkeys - Arlington",
+      "distance": "1.7 mi",
+      "url": "https://www.google.com/maps/search/Cheeky%20Monkeys%20-%20Arlington+near+32.6569515%2C-97.1319405"
+    },
+    {
+      "name": "Slick City Action Park",
+      "distance": "1.8 mi",
+      "url": "https://www.google.com/maps/search/Slick%20City%20Action%20Park+near+32.6569515%2C-97.1319405"
+    }
+  ],
+  "hotels": [
+    {
+      "name": "Cozy apartment",
+      "distance": "0.2 mi",
+      "url": "https://www.google.com/maps/search/Cozy%20apartment+near+32.6569515%2C-97.1319405"
+    },
+    {
+      "name": "Cozy apartment",
+      "distance": "0.2 mi",
+      "url": "https://www.google.com/maps/search/Cozy%20apartment+near+32.6569515%2C-97.1319405"
+    },
+    {
+      "name": "Cozy Arlington Villa",
+      "distance": "0.3 mi",
+      "url": "https://www.google.com/maps/search/Cozy%20Arlington%20Villa+near+32.6569515%2C-97.1319405"
+    },
+    {
+      "name": "Cozy Arlington Villa",
+      "distance": "0.3 mi",
+      "url": "https://www.google.com/maps/search/Cozy%20Arlington%20Villa+near+32.6569515%2C-97.1319405"
+    },
+    {
+      "name": "Pet Friendly Cozy Home in Arlington Near Stadium",
+      "distance": "0.3 mi",
+      "url": "https://www.google.com/maps/search/Pet%20Friendly%20Cozy%20Home%20in%20Arlington%20Near%20Stadium+near+32.6569515%2C-97.1319405"
+    },
+    {
+      "name": "Comfort stay near ATT stadium-Six flags-free 5 mins walk to the stadium.",
+      "distance": "0.3 mi",
+      "url": "https://www.google.com/maps/search/Comfort%20stay%20near%20ATT%20stadium-Six%20flags-free%205%20mins%20walk%20to%20the%20stadium.+near+32.6569515%2C-97.1319405"
+    },
+    {
+      "name": "Fabulous 2-bedroom condo in Arlington with WiFi access",
+      "distance": "0.4 mi",
+      "url": "https://www.google.com/maps/search/Fabulous%202-bedroom%20condo%20in%20Arlington%20with%20WiFi%20access+near+32.6569515%2C-97.1319405"
+    }
+  ],
+  "gas": [
+    {
+      "name": "QuikTrip",
+      "distance": "0.2 mi",
+      "url": "https://www.google.com/maps/search/QuikTrip+near+32.6569515%2C-97.1319405"
+    },
+    {
+      "name": "Murphy USA",
+      "distance": "0.2 mi",
+      "url": "https://www.google.com/maps/search/Murphy%20USA+near+32.6569515%2C-97.1319405"
+    },
+    {
+      "name": "Kroger Fuel Center",
+      "distance": "0.5 mi",
+      "url": "https://www.google.com/maps/search/Kroger%20Fuel%20Center+near+32.6569515%2C-97.1319405"
+    },
+    {
+      "name": "Exxon",
+      "distance": "0.6 mi",
+      "url": "https://www.google.com/maps/search/Exxon+near+32.6569515%2C-97.1319405"
+    },
+    {
+      "name": "Walmart Fuel & Convenience",
+      "distance": "0.8 mi",
+      "url": "https://www.google.com/maps/search/Walmart%20Fuel%20%26%20Convenience+near+32.6569515%2C-97.1319405"
+    }
+  ]
+}

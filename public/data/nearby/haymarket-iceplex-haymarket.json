@@ -1,0 +1,181 @@
+{
+  "quick_bite": [
+    {
+      "name": "Popeyes Louisiana Kitchen",
+      "distance": "0.1 mi",
+      "url": "https://www.google.com/maps/search/Popeyes%20Louisiana%20Kitchen+near+38.8125705%2C-77.6400865"
+    },
+    {
+      "name": "Taco Bell",
+      "distance": "0.1 mi",
+      "url": "https://www.google.com/maps/search/Taco%20Bell+near+38.8125705%2C-77.6400865"
+    },
+    {
+      "name": "Five Guys",
+      "distance": "0.1 mi",
+      "url": "https://www.google.com/maps/search/Five%20Guys+near+38.8125705%2C-77.6400865"
+    },
+    {
+      "name": "Firehouse Subs Crossroads Village",
+      "distance": "0.1 mi",
+      "url": "https://www.google.com/maps/search/Firehouse%20Subs%20Crossroads%20Village+near+38.8125705%2C-77.6400865"
+    },
+    {
+      "name": "Shah's Halal Food",
+      "distance": "0.2 mi",
+      "url": "https://www.google.com/maps/search/Shah's%20Halal%20Food+near+38.8125705%2C-77.6400865"
+    },
+    {
+      "name": "Subway",
+      "distance": "0.2 mi",
+      "url": "https://www.google.com/maps/search/Subway+near+38.8125705%2C-77.6400865"
+    }
+  ],
+  "coffee": [
+    {
+      "name": "1971 Coffee Shop",
+      "distance": "0.1 mi",
+      "url": "https://www.google.com/maps/search/1971%20Coffee%20Shop+near+38.8125705%2C-77.6400865"
+    },
+    {
+      "name": "Duck Donuts",
+      "distance": "0.2 mi",
+      "url": "https://www.google.com/maps/search/Duck%20Donuts+near+38.8125705%2C-77.6400865"
+    }
+  ],
+  "team_lunch": [
+    {
+      "name": "Pho Thai 66",
+      "distance": "0.1 mi",
+      "url": "https://www.google.com/maps/search/Pho%20Thai%2066+near+38.8125705%2C-77.6400865"
+    },
+    {
+      "name": "Papa Johns Pizza",
+      "distance": "0.2 mi",
+      "url": "https://www.google.com/maps/search/Papa%20Johns%20Pizza+near+38.8125705%2C-77.6400865"
+    }
+  ],
+  "dinner": [
+    {
+      "name": "Parrando's Tex-Mex Grill",
+      "distance": "0.1 mi",
+      "url": "https://www.google.com/maps/search/Parrando's%20Tex-Mex%20Grill+near+38.8125705%2C-77.6400865"
+    },
+    {
+      "name": "Monroe Bay Oysterette",
+      "distance": "0.1 mi",
+      "url": "https://www.google.com/maps/search/Monroe%20Bay%20Oysterette+near+38.8125705%2C-77.6400865"
+    },
+    {
+      "name": "Foster's Grille",
+      "distance": "0.1 mi",
+      "url": "https://www.google.com/maps/search/Foster's%20Grille+near+38.8125705%2C-77.6400865"
+    },
+    {
+      "name": "Giuseppe's",
+      "distance": "0.1 mi",
+      "url": "https://www.google.com/maps/search/Giuseppe's+near+38.8125705%2C-77.6400865"
+    },
+    {
+      "name": "Good Fellas Pizza",
+      "distance": "0.1 mi",
+      "url": "https://www.google.com/maps/search/Good%20Fellas%20Pizza+near+38.8125705%2C-77.6400865"
+    },
+    {
+      "name": "Young Chow Cafe Chinese and Thai Restaurant",
+      "distance": "0.1 mi",
+      "url": "https://www.google.com/maps/search/Young%20Chow%20Cafe%20Chinese%20and%20Thai%20Restaurant+near+38.8125705%2C-77.6400865"
+    }
+  ],
+  "bowling": [
+    {
+      "name": "Bowl America Bull Run",
+      "distance": "6.8 mi",
+      "url": "https://www.google.com/maps/search/Bowl%20America%20Bull%20Run+near+38.8125705%2C-77.6400865",
+      "isFar": true
+    },
+    {
+      "name": "Uptown Alley",
+      "distance": "7.9 mi",
+      "url": "https://www.google.com/maps/search/Uptown%20Alley+near+38.8125705%2C-77.6400865",
+      "isFar": true
+    }
+  ],
+  "arcade": [],
+  "movies": [
+    {
+      "name": "Regal Virginia Gateway",
+      "distance": "2.5 mi",
+      "url": "https://www.google.com/maps/search/Regal%20Virginia%20Gateway+near+38.8125705%2C-77.6400865"
+    }
+  ],
+  "fun": [
+    {
+      "name": "Urban Air Trampoline and Adventure Park",
+      "distance": "1.4 mi",
+      "url": "https://www.google.com/maps/search/Urban%20Air%20Trampoline%20and%20Adventure%20Park+near+38.8125705%2C-77.6400865"
+    },
+    {
+      "name": "Sky Zone Trampoline Park",
+      "distance": "7.2 mi",
+      "url": "https://www.google.com/maps/search/Sky%20Zone%20Trampoline%20Park+near+38.8125705%2C-77.6400865",
+      "isFar": true
+    },
+    {
+      "name": "Billy Beez Manassas Mall",
+      "distance": "7.7 mi",
+      "url": "https://www.google.com/maps/search/Billy%20Beez%20Manassas%20Mall+near+38.8125705%2C-77.6400865",
+      "isFar": true
+    },
+    {
+      "name": "K1 Speed Manassas",
+      "distance": "7.8 mi",
+      "url": "https://www.google.com/maps/search/K1%20Speed%20Manassas+near+38.8125705%2C-77.6400865",
+      "isFar": true
+    }
+  ],
+  "hotels": [
+    {
+      "name": "Hilton Garden Inn Haymarket",
+      "distance": "0.2 mi",
+      "url": "https://www.google.com/maps/search/Hilton%20Garden%20Inn%20Haymarket+near+38.8125705%2C-77.6400865"
+    },
+    {
+      "name": "Private Basement • Work Travel • Great Location •Near Route 66 Jiffy Lube Live",
+      "distance": "0.6 mi",
+      "url": "https://www.google.com/maps/search/Private%20Basement%20%E2%80%A2%20Work%20Travel%20%E2%80%A2%20Great%20Location%20%E2%80%A2Near%20Route%2066%20Jiffy%20Lube%20Live+near+38.8125705%2C-77.6400865"
+    },
+    {
+      "name": "Blue Keys",
+      "distance": "0.9 mi",
+      "url": "https://www.google.com/maps/search/Blue%20Keys+near+38.8125705%2C-77.6400865"
+    },
+    {
+      "name": "Balcony & Pool Access: Modern Gainesville Home",
+      "distance": "0.9 mi",
+      "url": "https://www.google.com/maps/search/Balcony%20%26%20Pool%20Access%3A%20Modern%20Gainesville%20Home+near+38.8125705%2C-77.6400865"
+    }
+  ],
+  "gas": [
+    {
+      "name": "Sheetz",
+      "distance": "0.2 mi",
+      "url": "https://www.google.com/maps/search/Sheetz+near+38.8125705%2C-77.6400865"
+    },
+    {
+      "name": "Mobil",
+      "distance": "1.5 mi",
+      "url": "https://www.google.com/maps/search/Mobil+near+38.8125705%2C-77.6400865"
+    },
+    {
+      "name": "Exxon",
+      "distance": "1.6 mi",
+      "url": "https://www.google.com/maps/search/Exxon+near+38.8125705%2C-77.6400865"
+    },
+    {
+      "name": "Sunoco",
+      "distance": "2.1 mi",
+      "url": "https://www.google.com/maps/search/Sunoco+near+38.8125705%2C-77.6400865"
+    }
+  ]
+}

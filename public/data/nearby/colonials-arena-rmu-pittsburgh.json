@@ -1,0 +1,195 @@
+{
+  "quick_bite": [
+    {
+      "name": "Zuko's Pizza",
+      "distance": "0.7 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Zuko's%20Pizza&query_place_id=ChIJNQt6P0BeNIgRNasby3S8Igk&center=40.517424,-80.1639051"
+    },
+    {
+      "name": "Lviv European Kitchen Pierogies Restaurant Catering LLC",
+      "distance": "0.8 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Lviv%20European%20Kitchen%20Pierogies%20Restaurant%20Catering%20LLC&query_place_id=ChIJn1-SUUBeNIgRiRGgd8Sgwmo&center=40.517556,-80.1651378"
+    },
+    {
+      "name": "Subway",
+      "distance": "1.3 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Subway&query_place_id=ChIJJ1y-iRJeNIgR0CMyof_LYFU&center=40.522437700000005,-80.17534239999999"
+    },
+    {
+      "name": "Burger King",
+      "distance": "2.7 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Burger%20King&query_place_id=ChIJ46Qk6VVnNIgR75HGJ4u8SVs&center=40.542546,-80.1922285"
+    },
+    {
+      "name": "Taco Bell",
+      "distance": "2.8 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Taco%20Bell&query_place_id=ChIJq40R_epnNIgR-vtJN0iozO4&center=40.5431941,-80.19264199999999"
+    },
+    {
+      "name": "Subway",
+      "distance": "3.2 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Subway&query_place_id=ChIJ781CmcpdNIgRkJ8cPk8vhM0&center=40.5053955,-80.20922879999999",
+      "isFar": true
+    }
+  ],
+  "coffee": [
+    {
+      "name": "CAFFÉ NERA",
+      "distance": "0.3 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=CAFF%C3%89%20NERA&query_place_id=ChIJhXmmMABfNIgRwN0qyJ8uLTc&center=40.514378099999995,-80.1534823"
+    },
+    {
+      "name": "POP Cafe",
+      "distance": "0.3 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=POP%20Cafe&query_place_id=ChIJJ6iUhzhfNIgRGac4K4rCMfw&center=40.5143852,-80.1535238"
+    },
+    {
+      "name": "Cafe A Mano",
+      "distance": "0.4 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Cafe%20A%20Mano&query_place_id=ChIJKzfcvEheNIgRrBAUCtW9Oqk&center=40.5140927,-80.15325059999999"
+    },
+    {
+      "name": "Anchor & Anvil Coffee Bar",
+      "distance": "0.7 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Anchor%20%26%20Anvil%20Coffee%20Bar&query_place_id=ChIJLc7oT0BeNIgRdJ-uyYTPBJU&center=40.5169391,-80.1630852"
+    },
+    {
+      "name": "Queen Beans Cafe",
+      "distance": "0.8 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Queen%20Beans%20Cafe&query_place_id=ChIJL_YvgchfNIgRbqwPL3MGLKE&center=40.5182293,-80.1666872"
+    }
+  ],
+  "team_lunch": [
+    {
+      "name": "Nicco's Pizzaria",
+      "distance": "0.4 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Nicco's%20Pizzaria&query_place_id=ChIJ0Q8GrkheNIgRKvWhPQFfMC4&center=40.5132574,-80.15339680000001"
+    },
+    {
+      "name": "Big Shot Bob's House of Wings - Coraopolis",
+      "distance": "0.4 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Big%20Shot%20Bob's%20House%20of%20Wings%20-%20Coraopolis&query_place_id=ChIJf8kiAkZeNIgRpzUgzDGXIY0&center=40.513438,-80.154122"
+    },
+    {
+      "name": "China Taste",
+      "distance": "0.8 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=China%20Taste&query_place_id=ChIJc8ZWMiJfNIgRXS3YdbsiZv0&center=40.5184047,-80.1662612"
+    },
+    {
+      "name": "Desserts by Claudia",
+      "distance": "2.9 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Desserts%20by%20Claudia&query_place_id=ChIJwdE29vJhNIgRxE6uglYMuBc&center=40.559248,-80.1394129"
+    },
+    {
+      "name": "Chalk Hill Confections",
+      "distance": "3.0 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Chalk%20Hill%20Confections&query_place_id=ChIJ_QWsR-1fNIgRx8tYTdArNX8&center=40.4780808,-80.1690878"
+    }
+  ],
+  "dinner": [
+    {
+      "name": "Ice House Bistro",
+      "distance": "0.1 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Ice%20House%20Bistro&query_place_id=ChIJEwZbZrpfNIgRfLmDrdlFF14&center=40.518682299999995,-80.1506034"
+    },
+    {
+      "name": "Pizzeria",
+      "distance": "0.5 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Pizzeria&query_place_id=ChIJl9xrNEdeNIgRtU3pai3XSPA&center=40.5169734,-80.15944689999999"
+    },
+    {
+      "name": "Rosita Bakery",
+      "distance": "0.6 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Rosita%20Bakery&query_place_id=ChIJocA1wc9fNIgRpvtZ1LsdO6Q&center=40.517975899999996,-80.1623178"
+    },
+    {
+      "name": "Sewickley Speakeasy",
+      "distance": "0.6 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Sewickley%20Speakeasy&query_place_id=ChIJzRdq4TpeNIgRpklDoNu2FSA&center=40.5262322,-80.15749009999999"
+    },
+    {
+      "name": "Anthony Jr's Restaurant & Pizzeria",
+      "distance": "0.7 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Anthony%20Jr's%20Restaurant%20%26%20Pizzeria&query_place_id=ChIJ_87wRUBeNIgRqeQ54aMJ-6Q&center=40.5169382,-80.1634558"
+    },
+    {
+      "name": "Snappy's Taphouse",
+      "distance": "0.7 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Snappy's%20Taphouse&query_place_id=ChIJ_eoRG6hfNIgRFdTqwmIpBiY&center=40.517975500000006,-80.1638337"
+    }
+  ],
+  "bowling": [
+    {
+      "name": "Paradise Island Bowl and Beach",
+      "distance": "0.1 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Paradise%20Island%20Bowl%20and%20Beach&query_place_id=ChIJ-ZeU7kleNIgRZwkLAXWPWKo&center=40.516993299999996,-80.1494656"
+    },
+    {
+      "name": "Kennedy Lanes",
+      "distance": "4.5 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Kennedy%20Lanes&query_place_id=ChIJ9QZ1po31NIgRuGiSjg-SqXs&center=40.4752219,-80.08609899999999",
+      "isFar": true
+    }
+  ],
+  "arcade": [],
+  "movies": [
+    {
+      "name": "The Lindsay Theater",
+      "distance": "2.2 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=The%20Lindsay%20Theater&query_place_id=ChIJgSJS-QFeNIgRe7O4g1oGxxE&center=40.5403935,-80.182227"
+    }
+  ],
+  "fun": [
+    {
+      "name": "Bridge View - Sewickley Point",
+      "distance": "2.3 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Bridge%20View%20-%20Sewickley%20Point&query_place_id=ChIJU0ZVvnBdNIgRJj0LrneBPIc&center=40.535474099999995,-80.18839729999999"
+    },
+    {
+      "name": "ACE's Breakaway and Play",
+      "distance": "4.4 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=ACE's%20Breakaway%20and%20Play&query_place_id=ChIJh_ot0zNZNIgRUf5a0PHqvLM&center=40.4546796,-80.15724809999999",
+      "isFar": true
+    },
+    {
+      "name": "Bruce Commemorative Trail Memorial",
+      "distance": "4.9 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Bruce%20Commemorative%20Trail%20Memorial&query_place_id=ChIJL3xiPzlbNIgRUBtkqAOGNsM&center=40.458738499999995,-80.2002478",
+      "isFar": true
+    }
+  ],
+  "hotels": [
+    {
+      "name": "Island Gem! Riverfront, Near RMU Sports Center, Massive Deck",
+      "distance": "0.4 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Island%20Gem!%20Riverfront%2C%20Near%20RMU%20Sports%20Center%2C%20Massive%20Deck&query_place_id=ChIJsZtJ4kpeNIgRGE52xLgSGeY&center=40.514934499999995,-80.1446991"
+    },
+    {
+      "name": "\\\"Serene Houseboat Hideaway\\\"\\n\\n",
+      "distance": "0.7 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=%5C%22Serene%20Houseboat%20Hideaway%5C%22%5Cn%5Cn&query_place_id=ChIJW0Fa0j1eNIgRp52KSYTno44&center=40.524410200000005,-80.16259769999999"
+    }
+  ],
+  "gas": [
+    {
+      "name": "Back Channel Pumping Station Township Of Neville",
+      "distance": "0.7 mi",
+      "url": "https://www.google.com/maps/search/Back%20Channel%20Pumping%20Station%20Township%20Of%20Neville+near+40.518840999999995%2C-80.1507135"
+    },
+    {
+      "name": "Citgo",
+      "distance": "0.8 mi",
+      "url": "https://www.google.com/maps/search/Citgo+near+40.518840999999995%2C-80.1507135"
+    },
+    {
+      "name": "Mobil",
+      "distance": "0.9 mi",
+      "url": "https://www.google.com/maps/search/Mobil+near+40.518840999999995%2C-80.1507135"
+    },
+    {
+      "name": "Speedway",
+      "distance": "1.1 mi",
+      "url": "https://www.google.com/maps/search/Speedway+near+40.518840999999995%2C-80.1507135"
+    }
+  ]
+}

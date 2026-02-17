@@ -1,0 +1,222 @@
+{
+  "quick_bite": [
+    {
+      "name": "Gambler’s Grille",
+      "distance": "0.5 mi",
+      "url": "https://www.google.com/maps/search/Gambler%E2%80%99s%20Grille+near+44.7244567%2C-93.4773372"
+    },
+    {
+      "name": "Dairy Queen Grill & Chill",
+      "distance": "2.6 mi",
+      "url": "https://www.google.com/maps/search/Dairy%20Queen%20Grill%20%26%20Chill+near+44.7244567%2C-93.4773372"
+    },
+    {
+      "name": "Subway",
+      "distance": "2.6 mi",
+      "url": "https://www.google.com/maps/search/Subway+near+44.7244567%2C-93.4773372"
+    }
+  ],
+  "coffee": [
+    {
+      "name": "Dakotah! Recharge",
+      "distance": "0.1 mi",
+      "url": "https://www.google.com/maps/search/Dakotah!%20Recharge+near+44.7244567%2C-93.4773372"
+    },
+    {
+      "name": "Caribou Coffee",
+      "distance": "0.4 mi",
+      "url": "https://www.google.com/maps/search/Caribou%20Coffee+near+44.7244567%2C-93.4773372"
+    },
+    {
+      "name": "Caribou Coffee",
+      "distance": "2.4 mi",
+      "url": "https://www.google.com/maps/search/Caribou%20Coffee+near+44.7244567%2C-93.4773372"
+    },
+    {
+      "name": "Café Cinema",
+      "distance": "2.4 mi",
+      "url": "https://www.google.com/maps/search/Caf%C3%A9%20Cinema+near+44.7244567%2C-93.4773372"
+    },
+    {
+      "name": "McDonald's",
+      "distance": "2.5 mi",
+      "url": "https://www.google.com/maps/search/McDonald's+near+44.7244567%2C-93.4773372"
+    }
+  ],
+  "team_lunch": [
+    {
+      "name": "Bloom Bakery LLC",
+      "distance": "0.1 mi",
+      "url": "https://www.google.com/maps/search/Bloom%20Bakery%20LLC+near+44.7244567%2C-93.4773372"
+    },
+    {
+      "name": "Mystic Steakhouse",
+      "distance": "0.4 mi",
+      "url": "https://www.google.com/maps/search/Mystic%20Steakhouse+near+44.7244567%2C-93.4773372"
+    },
+    {
+      "name": "The Meadows Bar and Grille",
+      "distance": "0.4 mi",
+      "url": "https://www.google.com/maps/search/The%20Meadows%20Bar%20and%20Grille+near+44.7244567%2C-93.4773372"
+    },
+    {
+      "name": "Minnehaha Cafe",
+      "distance": "0.5 mi",
+      "url": "https://www.google.com/maps/search/Minnehaha%20Cafe+near+44.7244567%2C-93.4773372"
+    },
+    {
+      "name": "Fusion Noodle Bar",
+      "distance": "0.6 mi",
+      "url": "https://www.google.com/maps/search/Fusion%20Noodle%20Bar+near+44.7244567%2C-93.4773372"
+    },
+    {
+      "name": "Baccarat Noodle Bar",
+      "distance": "0.6 mi",
+      "url": "https://www.google.com/maps/search/Baccarat%20Noodle%20Bar+near+44.7244567%2C-93.4773372"
+    },
+    {
+      "name": "Presto Pizza",
+      "distance": "0.6 mi",
+      "url": "https://www.google.com/maps/search/Presto%20Pizza+near+44.7244567%2C-93.4773372"
+    }
+  ],
+  "dinner": [
+    {
+      "name": "Little Six Restaurant",
+      "distance": "0.9 mi",
+      "url": "https://www.google.com/maps/search/Little%20Six%20Restaurant+near+44.7244567%2C-93.4773372"
+    },
+    {
+      "name": "Slate North",
+      "distance": "1.3 mi",
+      "url": "https://www.google.com/maps/search/Slate%20North+near+44.7244567%2C-93.4773372"
+    },
+    {
+      "name": "Charlie's On Prior",
+      "distance": "2.0 mi",
+      "url": "https://www.google.com/maps/search/Charlie's%20On%20Prior+near+44.7244567%2C-93.4773372"
+    },
+    {
+      "name": "Ze's Diner Prior Lake",
+      "distance": "2.7 mi",
+      "url": "https://www.google.com/maps/search/Ze's%20Diner%20Prior%20Lake+near+44.7244567%2C-93.4773372"
+    }
+  ],
+  "bowling": [
+    {
+      "name": "Dakotah Bowling Lanes",
+      "distance": "0.1 mi",
+      "url": "https://www.google.com/maps/search/Dakotah%20Bowling%20Lanes+near+44.7244567%2C-93.4773372"
+    },
+    {
+      "name": "Lucky Strike Lakeville",
+      "distance": "9.2 mi",
+      "url": "https://www.google.com/maps/search/Lucky%20Strike%20Lakeville+near+44.7244567%2C-93.4773372",
+      "isFar": true
+    }
+  ],
+  "arcade": [],
+  "movies": [
+    {
+      "name": "Marcus Southbridge Crossing Cinema",
+      "distance": "4.9 mi",
+      "url": "https://www.google.com/maps/search/Marcus%20Southbridge%20Crossing%20Cinema+near+44.7244567%2C-93.4773372",
+      "isFar": true
+    }
+  ],
+  "fun": [
+    {
+      "name": "Playworks",
+      "distance": "0.1 mi",
+      "url": "https://www.google.com/maps/search/Playworks+near+44.7244567%2C-93.4773372"
+    },
+    {
+      "name": "SandVenture Aquatic Park",
+      "distance": "5.2 mi",
+      "url": "https://www.google.com/maps/search/SandVenture%20Aquatic%20Park+near+44.7244567%2C-93.4773372",
+      "isFar": true
+    },
+    {
+      "name": "Soak City",
+      "distance": "5.2 mi",
+      "url": "https://www.google.com/maps/search/Soak%20City+near+44.7244567%2C-93.4773372",
+      "isFar": true
+    },
+    {
+      "name": "Valleyfair",
+      "distance": "5.3 mi",
+      "url": "https://www.google.com/maps/search/Valleyfair+near+44.7244567%2C-93.4773372",
+      "isFar": true
+    },
+    {
+      "name": "Planet Snoopy",
+      "distance": "5.3 mi",
+      "url": "https://www.google.com/maps/search/Planet%20Snoopy+near+44.7244567%2C-93.4773372",
+      "isFar": true
+    }
+  ],
+  "hotels": [
+    {
+      "name": "Dakotah Meadows RV Park",
+      "distance": "0.2 mi",
+      "url": "https://www.google.com/maps/search/Dakotah%20Meadows%20RV%20Park+near+44.7244567%2C-93.4773372"
+    },
+    {
+      "name": "Mystic Lake Casino Hotel",
+      "distance": "0.5 mi",
+      "url": "https://www.google.com/maps/search/Mystic%20Lake%20Casino%20Hotel+near+44.7244567%2C-93.4773372"
+    },
+    {
+      "name": "Pet Friendly Woodhaven Retreat",
+      "distance": "1.2 mi",
+      "url": "https://www.google.com/maps/search/Pet%20Friendly%20Woodhaven%20Retreat+near+44.7244567%2C-93.4773372"
+    },
+    {
+      "name": "Woodhaven Retreat - Holiday Home",
+      "distance": "1.2 mi",
+      "url": "https://www.google.com/maps/search/Woodhaven%20Retreat%20-%20Holiday%20Home+near+44.7244567%2C-93.4773372"
+    },
+    {
+      "name": "Lake Home for Family Gathering",
+      "distance": "1.4 mi",
+      "url": "https://www.google.com/maps/search/Lake%20Home%20for%20Family%20Gathering+near+44.7244567%2C-93.4773372"
+    },
+    {
+      "name": "Lake Home for Family Gathering",
+      "distance": "1.4 mi",
+      "url": "https://www.google.com/maps/search/Lake%20Home%20for%20Family%20Gathering+near+44.7244567%2C-93.4773372"
+    },
+    {
+      "name": "Lake Home for Family Gathering",
+      "distance": "1.4 mi",
+      "url": "https://www.google.com/maps/search/Lake%20Home%20for%20Family%20Gathering+near+44.7244567%2C-93.4773372"
+    }
+  ],
+  "gas": [
+    {
+      "name": "Prior Lake Gas Station",
+      "distance": "2.6 mi",
+      "url": "https://www.google.com/maps/search/Prior%20Lake%20Gas%20Station+near+44.7244567%2C-93.4773372"
+    },
+    {
+      "name": "Circle K",
+      "distance": "2.6 mi",
+      "url": "https://www.google.com/maps/search/Circle%20K+near+44.7244567%2C-93.4773372"
+    },
+    {
+      "name": "Holiday",
+      "distance": "2.6 mi",
+      "url": "https://www.google.com/maps/search/Holiday+near+44.7244567%2C-93.4773372"
+    },
+    {
+      "name": "Prior Lake Shell",
+      "distance": "2.8 mi",
+      "url": "https://www.google.com/maps/search/Prior%20Lake%20Shell+near+44.7244567%2C-93.4773372"
+    },
+    {
+      "name": "Holiday Gas Station",
+      "distance": "2.9 mi",
+      "url": "https://www.google.com/maps/search/Holiday%20Gas%20Station+near+44.7244567%2C-93.4773372"
+    }
+  ]
+}

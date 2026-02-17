@@ -1,0 +1,188 @@
+{
+  "quick_bite": [
+    {
+      "name": "Jillies Roast Beef & Pizza",
+      "distance": "0.4 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Jillies%20Roast%20Beef%20%26%20Pizza&query_place_id=ChIJ2xT526am44kRXueaBTqMMN0&center=42.631597,-71.283222"
+    },
+    {
+      "name": "Snowfox Sushi",
+      "distance": "0.4 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Snowfox%20Sushi&query_place_id=ChIJ232eAhen44kRd7fyU2iXpIU&center=42.6287357,-71.27802319999999"
+    },
+    {
+      "name": "Wendy's",
+      "distance": "0.5 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Wendy's&query_place_id=ChIJixtO3qam44kRs6HMD5-UqGU&center=42.6313193,-71.2841554"
+    },
+    {
+      "name": "Burger King",
+      "distance": "0.7 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Burger%20King&query_place_id=ChIJhWJYIrqm44kRG1pQgBv_uHQ&center=42.626313499999995,-71.2696323"
+    }
+  ],
+  "coffee": [
+    {
+      "name": "Dunkin'",
+      "distance": "0.4 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Dunkin'&query_place_id=ChIJ-0kawaam44kR1mqOdvYDLbM&center=42.630906599999996,-71.2824972"
+    },
+    {
+      "name": "Dunkin'",
+      "distance": "0.9 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Dunkin'&query_place_id=ChIJc4k_Q46m44kRaNHl_o6yl-k&center=42.6462885,-71.2703992"
+    },
+    {
+      "name": "Lowell Portuguese Bakery",
+      "distance": "1.7 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Lowell%20Portuguese%20Bakery&query_place_id=ChIJ85KEVQyk44kR8vvmBzQEFDM&center=42.6293072,-71.3079815"
+    },
+    {
+      "name": "Heav’nly Donuts",
+      "distance": "1.8 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Heav%E2%80%99nly%20Donuts&query_place_id=ChIJlfLnj12m44kRGHtJ2CDJwts&center=42.6591501,-71.26343899999999"
+    },
+    {
+      "name": "Little Delights Bakery",
+      "distance": "1.9 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Little%20Delights%20Bakery&query_place_id=ChIJVbcjRj-k44kRCfxMcB9zjRc&center=42.645582499999996,-71.3100259"
+    }
+  ],
+  "team_lunch": [
+    {
+      "name": "Applebee's Grill + Bar",
+      "distance": "0.6 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Applebee's%20Grill%20%2B%20Bar&query_place_id=ChIJDe8gPLqm44kRiANXBbQRXHI&center=42.626854099999996,-71.2707526"
+    },
+    {
+      "name": "IHOP",
+      "distance": "0.8 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=IHOP&query_place_id=ChIJJf5j8rmm44kRMIN3r5aZTCQ&center=42.6254224,-71.2686281"
+    },
+    {
+      "name": "Sugar Sparks Bakery, LLC",
+      "distance": "1.6 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Sugar%20Sparks%20Bakery%2C%20LLC&query_place_id=ChIJ75wY_gOl44kRQNTKAORnX3Q&center=42.6221311,-71.3024974"
+    }
+  ],
+  "dinner": [
+    {
+      "name": "Milan Pizza Lowell",
+      "distance": "0.3 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Milan%20Pizza%20Lowell&query_place_id=ChIJDRuGPaSm44kRRyt9yykvRHQ&center=42.630740599999996,-71.28022870000001"
+    },
+    {
+      "name": "Burrito Express",
+      "distance": "0.4 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Burrito%20Express&query_place_id=ChIJc0lMX32n44kRXd1-iqs7UjQ&center=42.631473899999996,-71.2818671"
+    },
+    {
+      "name": "Cozinha Nossa Restaurant INC",
+      "distance": "0.4 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Cozinha%20Nossa%20Restaurant%20INC&query_place_id=ChIJjysXYEen44kRe9NdfWRaMOs&center=42.6318221,-71.28356959999999"
+    },
+    {
+      "name": "Trolley Pizza",
+      "distance": "0.5 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Trolley%20Pizza&query_place_id=ChIJSU49OJmn44kRasX0uxAp-uM&center=42.6326466,-71.2866025"
+    },
+    {
+      "name": "Tessi’s Pizza & Roast Beef",
+      "distance": "0.9 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Tessi%E2%80%99s%20Pizza%20%26%20Roast%20Beef&query_place_id=ChIJr_gdXo6m44kReqXxozseM1Y&center=42.6467916,-71.2712428"
+    },
+    {
+      "name": "Brando's Pizza & Subs",
+      "distance": "1.0 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Brando's%20Pizza%20%26%20Subs&query_place_id=ChIJuSGmAgKk44kRIs6wbIyaQGo&center=42.624064,-71.28818199999999"
+    }
+  ],
+  "bowling": [
+    {
+      "name": "Bowlero Lowell",
+      "distance": "4.1 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Bowlero%20Lowell&query_place_id=ChIJP3SI8Zek44kRduv_HkCGFq0&center=42.641264899999996,-71.35728739999999",
+      "isFar": true
+    },
+    {
+      "name": "Collins Bowladrome",
+      "distance": "4.6 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Collins%20Bowladrome&query_place_id=ChIJIZ9CH5Ch44kRdV6POecWFBA&center=42.568293,-71.2753979",
+      "isFar": true
+    }
+  ],
+  "arcade": [],
+  "movies": [
+    {
+      "name": "Showcase Cinema de Lux Lowell",
+      "distance": "2.9 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Showcase%20Cinema%20de%20Lux%20Lowell&query_place_id=ChIJ0_JOhpCj44kRPdg6k3eQf5Q&center=42.61072860000001,-71.3230595"
+    }
+  ],
+  "fun": [
+    {
+      "name": "Escapology Escape Rooms Tewksbury",
+      "distance": "1.0 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Escapology%20Escape%20Rooms%20Tewksbury&query_place_id=ChIJt7mOpbem44kROF6UniH8BxQ&center=42.6230701,-71.2658874"
+    },
+    {
+      "name": "Tsongas Industrial History Center",
+      "distance": "1.8 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Tsongas%20Industrial%20History%20Center&query_place_id=ChIJ83oyADmk44kRBGr-gITeyik&center=42.6474509,-71.30706099999999"
+    },
+    {
+      "name": "Kirsche Verstahl Bilboard",
+      "distance": "2.0 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Kirsche%20Verstahl%20Bilboard&query_place_id=ChIJ9XyRBgCl44kReKiWHjPBCCE&center=42.6312516,-71.3148301"
+    },
+    {
+      "name": "Merrimack Watershed",
+      "distance": "2.1 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Merrimack%20Watershed&query_place_id=ChIJ89SzPgCl44kRhKiVy3SdC78&center=42.6504608,-71.3110061"
+    }
+  ],
+  "hotels": [
+    {
+      "name": "Motel 6 Tewksbury, MA - Boston",
+      "distance": "0.7 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Motel%206%20Tewksbury%2C%20MA%20-%20Boston&query_place_id=ChIJJf5j8rmm44kRVy-rlJFlr1w&center=42.6257172,-71.26908499999999"
+    },
+    {
+      "name": "Sutton Village",
+      "distance": "0.9 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Sutton%20Village&query_place_id=ChIJGbj4dAKk44kR7qa8VRGTpKQ&center=42.624926699999996,-71.2876531"
+    },
+    {
+      "name": "Sunnyside Up",
+      "distance": "1.2 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Sunnyside%20Up&query_place_id=ChIJR_r__w-k44kRTrDRoXMhOGM&center=42.630298599999996,-71.2993012"
+    },
+    {
+      "name": "Residences at International Place",
+      "distance": "1.8 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Residences%20at%20International%20Place&query_place_id=ChIJ88O6zSan44kRJW7L7Ydhdzc&center=42.6407406,-71.2418951"
+    }
+  ],
+  "gas": [
+    {
+      "name": "Sunoco",
+      "distance": "0.4 mi",
+      "url": "https://www.google.com/maps/search/Sunoco+near+42.6347386%2C-71.2763131"
+    },
+    {
+      "name": "Gold Star Oil CITGO",
+      "distance": "0.4 mi",
+      "url": "https://www.google.com/maps/search/Gold%20Star%20Oil%20CITGO+near+42.6347386%2C-71.2763131"
+    },
+    {
+      "name": "Mobil",
+      "distance": "0.4 mi",
+      "url": "https://www.google.com/maps/search/Mobil+near+42.6347386%2C-71.2763131"
+    },
+    {
+      "name": "Petroil",
+      "distance": "1.2 mi",
+      "url": "https://www.google.com/maps/search/Petroil+near+42.6347386%2C-71.2763131"
+    }
+  ]
+}

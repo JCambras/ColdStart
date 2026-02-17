@@ -1,0 +1,187 @@
+{
+  "quick_bite": [
+    {
+      "name": "Subway",
+      "distance": "0.3 mi",
+      "url": "https://www.google.com/maps/search/Subway+near+41.0826555%2C-83.6524226"
+    },
+    {
+      "name": "Irv's Burgers - Fries - Malts",
+      "distance": "0.4 mi",
+      "url": "https://www.google.com/maps/search/Irv's%20Burgers%20-%20Fries%20-%20Malts+near+41.0826555%2C-83.6524226"
+    },
+    {
+      "name": "Jimmy John's",
+      "distance": "1.7 mi",
+      "url": "https://www.google.com/maps/search/Jimmy%20John's+near+41.0826555%2C-83.6524226"
+    },
+    {
+      "name": "Jack-B's - Findlay, OH",
+      "distance": "1.7 mi",
+      "url": "https://www.google.com/maps/search/Jack-B's%20-%20Findlay%2C%20OH+near+41.0826555%2C-83.6524226"
+    }
+  ],
+  "coffee": [
+    {
+      "name": "Dunkin'",
+      "distance": "1.6 mi",
+      "url": "https://www.google.com/maps/search/Dunkin'+near+41.0826555%2C-83.6524226"
+    },
+    {
+      "name": "Starbucks Coffee Company",
+      "distance": "1.7 mi",
+      "url": "https://www.google.com/maps/search/Starbucks%20Coffee%20Company+near+41.0826555%2C-83.6524226"
+    }
+  ],
+  "team_lunch": [
+    {
+      "name": "Speedy Cafe",
+      "distance": "0.4 mi",
+      "url": "https://www.google.com/maps/search/Speedy%20Cafe+near+41.0826555%2C-83.6524226"
+    },
+    {
+      "name": "Garden Grille & Bar - Hilton Garden Inn",
+      "distance": "1.6 mi",
+      "url": "https://www.google.com/maps/search/Garden%20Grille%20%26%20Bar%20-%20Hilton%20Garden%20Inn+near+41.0826555%2C-83.6524226"
+    },
+    {
+      "name": "Steak ’n Shake",
+      "distance": "1.7 mi",
+      "url": "https://www.google.com/maps/search/Steak%20%E2%80%99n%20Shake+near+41.0826555%2C-83.6524226"
+    },
+    {
+      "name": "Casey's",
+      "distance": "1.7 mi",
+      "url": "https://www.google.com/maps/search/Casey's+near+41.0826555%2C-83.6524226"
+    }
+  ],
+  "dinner": [
+    {
+      "name": "La Charrita",
+      "distance": "0.3 mi",
+      "url": "https://www.google.com/maps/search/La%20Charrita+near+41.0826555%2C-83.6524226"
+    },
+    {
+      "name": "Dark Horse Restaurant - Findlay, OH",
+      "distance": "0.5 mi",
+      "url": "https://www.google.com/maps/search/Dark%20Horse%20Restaurant%20-%20Findlay%2C%20OH+near+41.0826555%2C-83.6524226"
+    },
+    {
+      "name": "Sweets on the EDG",
+      "distance": "1.0 mi",
+      "url": "https://www.google.com/maps/search/Sweets%20on%20the%20EDG+near+41.0826555%2C-83.6524226"
+    },
+    {
+      "name": "Beer Barrel Pizza & Grill",
+      "distance": "1.5 mi",
+      "url": "https://www.google.com/maps/search/Beer%20Barrel%20Pizza%20%26%20Grill+near+41.0826555%2C-83.6524226"
+    },
+    {
+      "name": "Beckett's Burger Bar - Findlay, OH",
+      "distance": "1.6 mi",
+      "url": "https://www.google.com/maps/search/Beckett's%20Burger%20Bar%20-%20Findlay%2C%20OH+near+41.0826555%2C-83.6524226"
+    },
+    {
+      "name": "Miller's Meats, BBQ & Catering",
+      "distance": "1.6 mi",
+      "url": "https://www.google.com/maps/search/Miller's%20Meats%2C%20BBQ%20%26%20Catering+near+41.0826555%2C-83.6524226"
+    },
+    {
+      "name": "Lucero’s Mexican Store",
+      "distance": "1.7 mi",
+      "url": "https://www.google.com/maps/search/Lucero%E2%80%99s%20Mexican%20Store+near+41.0826555%2C-83.6524226"
+    }
+  ],
+  "bowling": [
+    {
+      "name": "AMF Sportsman Lanes",
+      "distance": "1.7 mi",
+      "url": "https://www.google.com/maps/search/AMF%20Sportsman%20Lanes+near+41.0826555%2C-83.6524226"
+    },
+    {
+      "name": "Ten Pin Lanes & Lounge",
+      "distance": "6.9 mi",
+      "url": "https://www.google.com/maps/search/Ten%20Pin%20Lanes%20%26%20Lounge+near+41.0826555%2C-83.6524226",
+      "isFar": true
+    }
+  ],
+  "arcade": [],
+  "movies": [
+    {
+      "name": "AMC CLASSIC Findlay 12",
+      "distance": "1.4 mi",
+      "url": "https://www.google.com/maps/search/AMC%20CLASSIC%20Findlay%2012+near+41.0826555%2C-83.6524226"
+    },
+    {
+      "name": "Virginia Motion Pictures",
+      "distance": "7.0 mi",
+      "url": "https://www.google.com/maps/search/Virginia%20Motion%20Pictures+near+41.0826555%2C-83.6524226",
+      "isFar": true
+    }
+  ],
+  "fun": [],
+  "hotels": [
+    {
+      "name": "Comfort Suites Findlay I-75 near Sports Complex",
+      "distance": "0.3 mi",
+      "url": "https://www.google.com/maps/search/Comfort%20Suites%20Findlay%20I-75%20near%20Sports%20Complex+near+41.0826555%2C-83.6524226"
+    },
+    {
+      "name": "Elks Lodge",
+      "distance": "1.4 mi",
+      "url": "https://www.google.com/maps/search/Elks%20Lodge+near+41.0826555%2C-83.6524226"
+    },
+    {
+      "name": "Highland Manufactured Home Community",
+      "distance": "1.4 mi",
+      "url": "https://www.google.com/maps/search/Highland%20Manufactured%20Home%20Community+near+41.0826555%2C-83.6524226"
+    },
+    {
+      "name": "Super 8 by Wyndham Findlay",
+      "distance": "1.5 mi",
+      "url": "https://www.google.com/maps/search/Super%208%20by%20Wyndham%20Findlay+near+41.0826555%2C-83.6524226"
+    },
+    {
+      "name": "OYO Hotel Findlay OH I-75 & Broad Ave.",
+      "distance": "1.5 mi",
+      "url": "https://www.google.com/maps/search/OYO%20Hotel%20Findlay%20OH%20I-75%20%26%20Broad%20Ave.+near+41.0826555%2C-83.6524226"
+    },
+    {
+      "name": "Rodeway Inn Findlay University Area",
+      "distance": "1.5 mi",
+      "url": "https://www.google.com/maps/search/Rodeway%20Inn%20Findlay%20University%20Area+near+41.0826555%2C-83.6524226"
+    },
+    {
+      "name": "Country Acres Mobile Home Community",
+      "distance": "1.5 mi",
+      "url": "https://www.google.com/maps/search/Country%20Acres%20Mobile%20Home%20Community+near+41.0826555%2C-83.6524226"
+    }
+  ],
+  "gas": [
+    {
+      "name": "Party Mart",
+      "distance": "0.3 mi",
+      "url": "https://www.google.com/maps/search/Party%20Mart+near+41.0826555%2C-83.6524226"
+    },
+    {
+      "name": "Marathon Gas",
+      "distance": "0.3 mi",
+      "url": "https://www.google.com/maps/search/Marathon%20Gas+near+41.0826555%2C-83.6524226"
+    },
+    {
+      "name": "Speedway",
+      "distance": "0.4 mi",
+      "url": "https://www.google.com/maps/search/Speedway+near+41.0826555%2C-83.6524226"
+    },
+    {
+      "name": "Racetrac",
+      "distance": "0.5 mi",
+      "url": "https://www.google.com/maps/search/Racetrac+near+41.0826555%2C-83.6524226"
+    },
+    {
+      "name": "RaceTrac",
+      "distance": "0.5 mi",
+      "url": "https://www.google.com/maps/search/RaceTrac+near+41.0826555%2C-83.6524226"
+    }
+  ]
+}

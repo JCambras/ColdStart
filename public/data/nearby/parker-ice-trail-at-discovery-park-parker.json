@@ -1,0 +1,222 @@
+{
+  "quick_bite": [
+    {
+      "name": "Portofino Pizza and Pasta",
+      "distance": "0.4 mi",
+      "url": "https://www.google.com/maps/search/Portofino%20Pizza%20and%20Pasta+near+39.5191316%2C-104.7555738"
+    },
+    {
+      "name": "Taco Bell",
+      "distance": "0.6 mi",
+      "url": "https://www.google.com/maps/search/Taco%20Bell+near+39.5191316%2C-104.7555738"
+    },
+    {
+      "name": "Del Taco",
+      "distance": "0.6 mi",
+      "url": "https://www.google.com/maps/search/Del%20Taco+near+39.5191316%2C-104.7555738"
+    },
+    {
+      "name": "Jack in the Box",
+      "distance": "0.6 mi",
+      "url": "https://www.google.com/maps/search/Jack%20in%20the%20Box+near+39.5191316%2C-104.7555738"
+    }
+  ],
+  "coffee": [
+    {
+      "name": "Marvin's Place",
+      "distance": "0.2 mi",
+      "url": "https://www.google.com/maps/search/Marvin's%20Place+near+39.5191316%2C-104.7555738"
+    },
+    {
+      "name": "Fika Coffee House",
+      "distance": "0.4 mi",
+      "url": "https://www.google.com/maps/search/Fika%20Coffee%20House+near+39.5191316%2C-104.7555738"
+    },
+    {
+      "name": "McDonald's",
+      "distance": "0.5 mi",
+      "url": "https://www.google.com/maps/search/McDonald's+near+39.5191316%2C-104.7555738"
+    },
+    {
+      "name": "Kneaders Bakery & Cafe",
+      "distance": "0.6 mi",
+      "url": "https://www.google.com/maps/search/Kneaders%20Bakery%20%26%20Cafe+near+39.5191316%2C-104.7555738"
+    }
+  ],
+  "team_lunch": [
+    {
+      "name": "SuChine Restaurant",
+      "distance": "0.3 mi",
+      "url": "https://www.google.com/maps/search/SuChine%20Restaurant+near+39.5191316%2C-104.7555738"
+    },
+    {
+      "name": "Cafe China",
+      "distance": "0.4 mi",
+      "url": "https://www.google.com/maps/search/Cafe%20China+near+39.5191316%2C-104.7555738"
+    }
+  ],
+  "dinner": [
+    {
+      "name": "La Petite Creperie",
+      "distance": "0.3 mi",
+      "url": "https://www.google.com/maps/search/La%20Petite%20Creperie+near+39.5191316%2C-104.7555738"
+    },
+    {
+      "name": "Indochine Cuisine",
+      "distance": "0.3 mi",
+      "url": "https://www.google.com/maps/search/Indochine%20Cuisine+near+39.5191316%2C-104.7555738"
+    },
+    {
+      "name": "Spice Kitchen Parker",
+      "distance": "0.3 mi",
+      "url": "https://www.google.com/maps/search/Spice%20Kitchen%20Parker+near+39.5191316%2C-104.7555738"
+    },
+    {
+      "name": "Cencalli Taqueria",
+      "distance": "0.3 mi",
+      "url": "https://www.google.com/maps/search/Cencalli%20Taqueria+near+39.5191316%2C-104.7555738"
+    },
+    {
+      "name": "Gina's",
+      "distance": "0.3 mi",
+      "url": "https://www.google.com/maps/search/Gina's+near+39.5191316%2C-104.7555738"
+    },
+    {
+      "name": "El Delicioso Tex Mex",
+      "distance": "0.3 mi",
+      "url": "https://www.google.com/maps/search/El%20Delicioso%20Tex%20Mex+near+39.5191316%2C-104.7555738"
+    },
+    {
+      "name": "Black+Haus Tavern - Parker",
+      "distance": "0.4 mi",
+      "url": "https://www.google.com/maps/search/Black%2BHaus%20Tavern%20-%20Parker+near+39.5191316%2C-104.7555738"
+    }
+  ],
+  "bowling": [
+    {
+      "name": "Celebrity Lanes Bowling Centennial | Arcade Games Greenwood Village | Live Music | Parker & South Aurora, CO",
+      "distance": "6.1 mi",
+      "url": "https://www.google.com/maps/search/Celebrity%20Lanes%20Bowling%20Centennial%20%7C%20Arcade%20Games%20Greenwood%20Village%20%7C%20Live%20Music%20%7C%20Parker%20%26%20South%20Aurora%2C%20CO+near+39.5191316%2C-104.7555738",
+      "isFar": true
+    },
+    {
+      "name": "Lucky Strike Southlands",
+      "distance": "6.7 mi",
+      "url": "https://www.google.com/maps/search/Lucky%20Strike%20Southlands+near+39.5191316%2C-104.7555738",
+      "isFar": true
+    }
+  ],
+  "arcade": [],
+  "movies": [
+    {
+      "name": "Emagine Parker",
+      "distance": "0.9 mi",
+      "url": "https://www.google.com/maps/search/Emagine%20Parker+near+39.5191316%2C-104.7555738"
+    },
+    {
+      "name": "AMC Arapahoe Crossing 16",
+      "distance": "5.8 mi",
+      "url": "https://www.google.com/maps/search/AMC%20Arapahoe%20Crossing%2016+near+39.5191316%2C-104.7555738",
+      "isFar": true
+    },
+    {
+      "name": "AMC DINE-IN Southlands 16",
+      "distance": "6.5 mi",
+      "url": "https://www.google.com/maps/search/AMC%20DINE-IN%20Southlands%2016+near+39.5191316%2C-104.7555738",
+      "isFar": true
+    }
+  ],
+  "fun": [
+    {
+      "name": "Little Monkey Bizness - Parker",
+      "distance": "0.9 mi",
+      "url": "https://www.google.com/maps/search/Little%20Monkey%20Bizness%20-%20Parker+near+39.5191316%2C-104.7555738"
+    },
+    {
+      "name": "Sky Zone Trampoline Park",
+      "distance": "1.5 mi",
+      "url": "https://www.google.com/maps/search/Sky%20Zone%20Trampoline%20Park+near+39.5191316%2C-104.7555738"
+    },
+    {
+      "name": "Boondocks Food and Fun - Parker",
+      "distance": "2.8 mi",
+      "url": "https://www.google.com/maps/search/Boondocks%20Food%20and%20Fun%20-%20Parker+near+39.5191316%2C-104.7555738"
+    },
+    {
+      "name": "Urban Air Trampoline and Adventure Park",
+      "distance": "5.8 mi",
+      "url": "https://www.google.com/maps/search/Urban%20Air%20Trampoline%20and%20Adventure%20Park+near+39.5191316%2C-104.7555738",
+      "isFar": true
+    },
+    {
+      "name": "Slick City Action Park",
+      "distance": "6.6 mi",
+      "url": "https://www.google.com/maps/search/Slick%20City%20Action%20Park+near+39.5191316%2C-104.7555738",
+      "isFar": true
+    }
+  ],
+  "hotels": [
+    {
+      "name": "Two-Story Retreat in Downtown Parker",
+      "distance": "0.3 mi",
+      "url": "https://www.google.com/maps/search/Two-Story%20Retreat%20in%20Downtown%20Parker+near+39.5191316%2C-104.7555738"
+    },
+    {
+      "name": "Park",
+      "distance": "0.3 mi",
+      "url": "https://www.google.com/maps/search/Park+near+39.5191316%2C-104.7555738"
+    },
+    {
+      "name": "Drury Inn, Fort Myers Florida",
+      "distance": "0.7 mi",
+      "url": "https://www.google.com/maps/search/Drury%20Inn%2C%20Fort%20Myers%20Florida+near+39.5191316%2C-104.7555738"
+    },
+    {
+      "name": "Quiet Bedroom, private detached bathroom",
+      "distance": "0.7 mi",
+      "url": "https://www.google.com/maps/search/Quiet%20Bedroom%2C%20private%20detached%20bathroom+near+39.5191316%2C-104.7555738"
+    },
+    {
+      "name": "The Parker Hotel",
+      "distance": "0.9 mi",
+      "url": "https://www.google.com/maps/search/The%20Parker%20Hotel+near+39.5191316%2C-104.7555738"
+    },
+    {
+      "name": "Parker Townhome with Fireplace and Basement Bar! - Holiday Home",
+      "distance": "1.1 mi",
+      "url": "https://www.google.com/maps/search/Parker%20Townhome%20with%20Fireplace%20and%20Basement%20Bar!%20-%20Holiday%20Home+near+39.5191316%2C-104.7555738"
+    },
+    {
+      "name": "Beautiful Home in Parker",
+      "distance": "1.3 mi",
+      "url": "https://www.google.com/maps/search/Beautiful%20Home%20in%20Parker+near+39.5191316%2C-104.7555738"
+    }
+  ],
+  "gas": [
+    {
+      "name": "Everyday",
+      "distance": "0.6 mi",
+      "url": "https://www.google.com/maps/search/Everyday+near+39.5191316%2C-104.7555738"
+    },
+    {
+      "name": "QuikTrip",
+      "distance": "0.7 mi",
+      "url": "https://www.google.com/maps/search/QuikTrip+near+39.5191316%2C-104.7555738"
+    },
+    {
+      "name": "Conoco",
+      "distance": "0.7 mi",
+      "url": "https://www.google.com/maps/search/Conoco+near+39.5191316%2C-104.7555738"
+    },
+    {
+      "name": "Total Petroleum Inc",
+      "distance": "0.8 mi",
+      "url": "https://www.google.com/maps/search/Total%20Petroleum%20Inc+near+39.5191316%2C-104.7555738"
+    },
+    {
+      "name": "Valero",
+      "distance": "0.8 mi",
+      "url": "https://www.google.com/maps/search/Valero+near+39.5191316%2C-104.7555738"
+    }
+  ]
+}

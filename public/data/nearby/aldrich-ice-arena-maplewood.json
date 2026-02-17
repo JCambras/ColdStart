@@ -1,0 +1,227 @@
+{
+  "quick_bite": [
+    {
+      "name": "Subway",
+      "distance": "0.3 mi",
+      "url": "https://www.google.com/maps/search/Subway+near+44.996992%2C-93.0232207"
+    },
+    {
+      "name": "Little Caesars Pizza",
+      "distance": "0.3 mi",
+      "url": "https://www.google.com/maps/search/Little%20Caesars%20Pizza+near+44.996992%2C-93.0232207"
+    },
+    {
+      "name": "Twin Cities Pizza",
+      "distance": "0.4 mi",
+      "url": "https://www.google.com/maps/search/Twin%20Cities%20Pizza+near+44.996992%2C-93.0232207"
+    },
+    {
+      "name": "White Castle",
+      "distance": "0.5 mi",
+      "url": "https://www.google.com/maps/search/White%20Castle+near+44.996992%2C-93.0232207"
+    },
+    {
+      "name": "Smoke Session Bbq",
+      "distance": "0.6 mi",
+      "url": "https://www.google.com/maps/search/Smoke%20Session%20Bbq+near+44.996992%2C-93.0232207"
+    }
+  ],
+  "coffee": [
+    {
+      "name": "Starbucks Coffee Company",
+      "distance": "0.6 mi",
+      "url": "https://www.google.com/maps/search/Starbucks%20Coffee%20Company+near+44.996992%2C-93.0232207"
+    }
+  ],
+  "team_lunch": [
+    {
+      "name": "Kitchen Zone",
+      "distance": "0.1 mi",
+      "url": "https://www.google.com/maps/search/Kitchen%20Zone+near+44.996992%2C-93.0232207"
+    },
+    {
+      "name": "Unison Restaurant and banquet",
+      "distance": "0.1 mi",
+      "url": "https://www.google.com/maps/search/Unison%20Restaurant%20and%20banquet+near+44.996992%2C-93.0232207"
+    },
+    {
+      "name": "Long’s Comboroll Cuisine",
+      "distance": "0.4 mi",
+      "url": "https://www.google.com/maps/search/Long%E2%80%99s%20Comboroll%20Cuisine+near+44.996992%2C-93.0232207"
+    },
+    {
+      "name": "Joyful African Foods",
+      "distance": "0.4 mi",
+      "url": "https://www.google.com/maps/search/Joyful%20African%20Foods+near+44.996992%2C-93.0232207"
+    },
+    {
+      "name": "Cups & Cheers International Sports Bar Restaurant",
+      "distance": "0.5 mi",
+      "url": "https://www.google.com/maps/search/Cups%20%26%20Cheers%20International%20Sports%20Bar%20Restaurant+near+44.996992%2C-93.0232207"
+    },
+    {
+      "name": "Ming's Garden",
+      "distance": "0.6 mi",
+      "url": "https://www.google.com/maps/search/Ming's%20Garden+near+44.996992%2C-93.0232207"
+    },
+    {
+      "name": "K’s Kitchen and Deli",
+      "distance": "0.7 mi",
+      "url": "https://www.google.com/maps/search/K%E2%80%99s%20Kitchen%20and%20Deli+near+44.996992%2C-93.0232207"
+    }
+  ],
+  "dinner": [
+    {
+      "name": "The Best Steak House- White Bear Ave",
+      "distance": "0.4 mi",
+      "url": "https://www.google.com/maps/search/The%20Best%20Steak%20House-%20White%20Bear%20Ave+near+44.996992%2C-93.0232207"
+    },
+    {
+      "name": "Exquisite Cake Bakery",
+      "distance": "0.5 mi",
+      "url": "https://www.google.com/maps/search/Exquisite%20Cake%20Bakery+near+44.996992%2C-93.0232207"
+    },
+    {
+      "name": "Thai Daily Food Truck",
+      "distance": "0.6 mi",
+      "url": "https://www.google.com/maps/search/Thai%20Daily%20Food%20Truck+near+44.996992%2C-93.0232207"
+    },
+    {
+      "name": "El Pariente Food Truck - St. Paul",
+      "distance": "0.6 mi",
+      "url": "https://www.google.com/maps/search/El%20Pariente%20Food%20Truck%20-%20St.%20Paul+near+44.996992%2C-93.0232207"
+    },
+    {
+      "name": "Twin Cities Gyros , Wally Food Truck",
+      "distance": "0.6 mi",
+      "url": "https://www.google.com/maps/search/Twin%20Cities%20Gyros%20%2C%20Wally%20Food%20Truck+near+44.996992%2C-93.0232207"
+    }
+  ],
+  "bowling": [
+    {
+      "name": "Sun Ray Lanes",
+      "distance": "3.2 mi",
+      "url": "https://www.google.com/maps/search/Sun%20Ray%20Lanes+near+44.996992%2C-93.0232207",
+      "isFar": true
+    },
+    {
+      "name": "PINZ",
+      "distance": "3.4 mi",
+      "url": "https://www.google.com/maps/search/PINZ+near+44.996992%2C-93.0232207",
+      "isFar": true
+    },
+    {
+      "name": "AMF Saxon Lanes",
+      "distance": "4.4 mi",
+      "url": "https://www.google.com/maps/search/AMF%20Saxon%20Lanes+near+44.996992%2C-93.0232207",
+      "isFar": true
+    }
+  ],
+  "arcade": [],
+  "movies": [
+    {
+      "name": "The Plaza Theater",
+      "distance": "0.3 mi",
+      "url": "https://www.google.com/maps/search/The%20Plaza%20Theater+near+44.996992%2C-93.0232207"
+    },
+    {
+      "name": "Marcus Oakdale Cinema",
+      "distance": "3.4 mi",
+      "url": "https://www.google.com/maps/search/Marcus%20Oakdale%20Cinema+near+44.996992%2C-93.0232207",
+      "isFar": true
+    }
+  ],
+  "fun": [
+    {
+      "name": "Kids Castle",
+      "distance": "2.3 mi",
+      "url": "https://www.google.com/maps/search/Kids%20Castle+near+44.996992%2C-93.0232207"
+    },
+    {
+      "name": "Twin City Slime",
+      "distance": "2.4 mi",
+      "url": "https://www.google.com/maps/search/Twin%20City%20Slime+near+44.996992%2C-93.0232207"
+    },
+    {
+      "name": "Maplewood carousel",
+      "distance": "2.4 mi",
+      "url": "https://www.google.com/maps/search/Maplewood%20carousel+near+44.996992%2C-93.0232207"
+    },
+    {
+      "name": "Battle Creek Waterworks",
+      "distance": "3.9 mi",
+      "url": "https://www.google.com/maps/search/Battle%20Creek%20Waterworks+near+44.996992%2C-93.0232207",
+      "isFar": true
+    },
+    {
+      "name": "Sky Zone Trampoline Park",
+      "distance": "4.2 mi",
+      "url": "https://www.google.com/maps/search/Sky%20Zone%20Trampoline%20Park+near+44.996992%2C-93.0232207",
+      "isFar": true
+    }
+  ],
+  "hotels": [
+    {
+      "name": "Charming bed breakfast in welcoming Saint Paul with WiFi",
+      "distance": "0.4 mi",
+      "url": "https://www.google.com/maps/search/Charming%20bed%20breakfast%20in%20welcoming%20Saint%20Paul%20with%20WiFi+near+44.996992%2C-93.0232207"
+    },
+    {
+      "name": "Charming bed & breakfast in welcoming Saint Paul with WiFi",
+      "distance": "0.5 mi",
+      "url": "https://www.google.com/maps/search/Charming%20bed%20%26%20breakfast%20in%20welcoming%20Saint%20Paul%20with%20WiFi+near+44.996992%2C-93.0232207"
+    },
+    {
+      "name": "Newly Renovated Home located in a quiet and safe neighborhood in Saint Paul, MN",
+      "distance": "0.6 mi",
+      "url": "https://www.google.com/maps/search/Newly%20Renovated%20Home%20located%20in%20a%20quiet%20and%20safe%20neighborhood%20in%20Saint%20Paul%2C%20MN+near+44.996992%2C-93.0232207"
+    },
+    {
+      "name": "Charming 2-bedroom apartment with AC, WiFi in superb Saint Pauls Frost Lake area",
+      "distance": "0.8 mi",
+      "url": "https://www.google.com/maps/search/Charming%202-bedroom%20apartment%20with%20AC%2C%20WiFi%20in%20superb%20Saint%20Pauls%20Frost%20Lake%20area+near+44.996992%2C-93.0232207"
+    },
+    {
+      "name": "Charming 2-bedroom apartment with AC, WiFi in superb Saint Pauls Frost Lake area",
+      "distance": "0.8 mi",
+      "url": "https://www.google.com/maps/search/Charming%202-bedroom%20apartment%20with%20AC%2C%20WiFi%20in%20superb%20Saint%20Pauls%20Frost%20Lake%20area+near+44.996992%2C-93.0232207"
+    },
+    {
+      "name": "Serenity Haven, Entire Home, Fast Wi-Fi, Pets",
+      "distance": "0.9 mi",
+      "url": "https://www.google.com/maps/search/Serenity%20Haven%2C%20Entire%20Home%2C%20Fast%20Wi-Fi%2C%20Pets+near+44.996992%2C-93.0232207"
+    },
+    {
+      "name": "The Minnesota Home + Duel Kitchens and Arcade room",
+      "distance": "1.0 mi",
+      "url": "https://www.google.com/maps/search/The%20Minnesota%20Home%20%2B%20Duel%20Kitchens%20and%20Arcade%20room+near+44.996992%2C-93.0232207"
+    }
+  ],
+  "gas": [
+    {
+      "name": "Speedway",
+      "distance": "0.2 mi",
+      "url": "https://www.google.com/maps/search/Speedway+near+44.996992%2C-93.0232207"
+    },
+    {
+      "name": "Premium Stop",
+      "distance": "0.7 mi",
+      "url": "https://www.google.com/maps/search/Premium%20Stop+near+44.996992%2C-93.0232207"
+    },
+    {
+      "name": "Fleming's Auto Services",
+      "distance": "0.9 mi",
+      "url": "https://www.google.com/maps/search/Fleming's%20Auto%20Services+near+44.996992%2C-93.0232207"
+    },
+    {
+      "name": "CLARK",
+      "distance": "1.0 mi",
+      "url": "https://www.google.com/maps/search/CLARK+near+44.996992%2C-93.0232207"
+    },
+    {
+      "name": "Noor Gas Station",
+      "distance": "1.0 mi",
+      "url": "https://www.google.com/maps/search/Noor%20Gas%20Station+near+44.996992%2C-93.0232207"
+    }
+  ]
+}

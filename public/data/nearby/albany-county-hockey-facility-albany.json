@@ -1,0 +1,204 @@
+{
+  "quick_bite": [
+    {
+      "name": "Burger King",
+      "distance": "0.3 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Burger%20King&query_place_id=ChIJx4CgeEcN3okRW9tgL0Na91Y&center=42.745779299999995,-73.8096794"
+    },
+    {
+      "name": "Chick-fil-A",
+      "distance": "0.3 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Chick-fil-A&query_place_id=ChIJb1GJU18N3okRM6ZWq9sT_Go&center=42.745809099999995,-73.8091462"
+    },
+    {
+      "name": "Wendy's",
+      "distance": "1.5 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Wendy's&query_place_id=ChIJ72MgEkAN3okRO9R11KtnSFc&center=42.769317,-73.8200901"
+    },
+    {
+      "name": "Subway",
+      "distance": "1.6 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Subway&query_place_id=ChIJ83Qv8EAN3okRLo5dw5sFQak&center=42.7705948,-73.8221834"
+    },
+    {
+      "name": "PrimoHoagies",
+      "distance": "1.7 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=PrimoHoagies&query_place_id=ChIJq6qu2UAN3okR0n9QpwMWaag&center=42.771544899999995,-73.8234243"
+    }
+  ],
+  "coffee": [
+    {
+      "name": "Dunkin'",
+      "distance": "0.3 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Dunkin'&query_place_id=ChIJW4PuBWcN3okRvXkK8arPqM8&center=42.745663900000004,-73.809919"
+    },
+    {
+      "name": "Uncommon Grounds Coffee & Bagels",
+      "distance": "0.3 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Uncommon%20Grounds%20Coffee%20%26%20Bagels&query_place_id=ChIJ2c8yaywN3okRoPUDGtEajjA&center=42.7458165,-73.8097212"
+    },
+    {
+      "name": "Starbucks Coffee Company",
+      "distance": "0.3 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Starbucks%20Coffee%20Company&query_place_id=ChIJGS9b5uQM3okRJb1dAHqLfl4&center=42.7459,-73.80928999999999"
+    },
+    {
+      "name": "Cafe One Eleven",
+      "distance": "0.8 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Cafe%20One%20Eleven&query_place_id=ChIJDZ-eI8gN3okRxxMq-3B55AY&center=42.7577541,-73.8190956"
+    },
+    {
+      "name": "George's Market and Cafe",
+      "distance": "0.8 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=George's%20Market%20and%20Cafe&query_place_id=ChIJw_O3qMUM3okR3m_aS4pPMTo&center=42.7392158,-73.8248138"
+    }
+  ],
+  "team_lunch": [
+    {
+      "name": "Silks Saratoga Bistro",
+      "distance": "0.3 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Silks%20Saratoga%20Bistro&query_place_id=ChIJFWW9zOMM3okRKBhCfAAIkvU&center=42.7458494,-73.80984339999999"
+    },
+    {
+      "name": "The Local @ALB",
+      "distance": "0.3 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=The%20Local%20%40ALB&query_place_id=ChIJB8w8DuMM3okR28zTDtEbwqw&center=42.745100300000004,-73.80883089999999"
+    }
+  ],
+  "dinner": [
+    {
+      "name": "Tavern on the Turf",
+      "distance": "0.7 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Tavern%20on%20the%20Turf&query_place_id=ChIJvYwg8oUN3okRdTKB93FktoM&center=42.7432099,-73.8270079"
+    },
+    {
+      "name": "Metro 7 Diner",
+      "distance": "1.3 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Metro%207%20Diner&query_place_id=ChIJi0h9JMUN3okRwptWzKIW9JI&center=42.7656238,-73.8131616"
+    },
+    {
+      "name": "Scarboroughs Restaurant",
+      "distance": "1.3 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Scarboroughs%20Restaurant&query_place_id=ChIJXaI85wsN3okR0kG6Ox7XTlw&center=42.7618722,-73.79916399999999"
+    },
+    {
+      "name": "All in the Family Pizzeria",
+      "distance": "1.3 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=All%20in%20the%20Family%20Pizzeria&query_place_id=ChIJ___za0dw3okRu-iD5-a-Wpc&center=42.742683,-73.8384512"
+    },
+    {
+      "name": "Oh Sugar Bakery",
+      "distance": "1.3 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Oh%20Sugar%20Bakery&query_place_id=ChIJ___za0dw3okRiG19IThx2as&center=42.742683,-73.8384512"
+    },
+    {
+      "name": "El Charro",
+      "distance": "1.3 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=El%20Charro&query_place_id=ChIJ3eZYTQoN3okRXm4nbDOVZg8&center=42.7626048,-73.7986576"
+    }
+  ],
+  "bowling": [
+    {
+      "name": "Kingpin's Alley Latham",
+      "distance": "3.2 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Kingpin's%20Alley%20Latham&query_place_id=ChIJnV3hntYN3okRV81sEMI2OG0&center=42.7453109,-73.7508082",
+      "isFar": true
+    },
+    {
+      "name": "Apex Entertainment Albany",
+      "distance": "4.4 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Apex%20Entertainment%20Albany&query_place_id=ChIJ72yt1vR13okRFUOeW2ppBYQ&center=42.6896772,-73.8508946",
+      "isFar": true
+    }
+  ],
+  "arcade": [],
+  "movies": [
+    {
+      "name": "Regal Colonie Center",
+      "distance": "2.5 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Regal%20Colonie%20Center&query_place_id=ChIJuyQh2J8M3okROzYzjpdz4x0&center=42.71096,-73.81666"
+    },
+    {
+      "name": "Regal Crossgates",
+      "distance": "4.4 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Regal%20Crossgates&query_place_id=ChIJRzcwJM503okRqMRZgaiWlbs&center=42.690906999999996,-73.85248",
+      "isFar": true
+    },
+    {
+      "name": "Regal Movie Line",
+      "distance": "4.4 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Regal%20Movie%20Line&query_place_id=ChIJraepbM903okRGg5BOq_27v4&center=42.689963,-73.8501765",
+      "isFar": true
+    }
+  ],
+  "fun": [
+    {
+      "name": "Mohawk Towpath Scenic Byway",
+      "distance": "3.3 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Mohawk%20Towpath%20Scenic%20Byway&query_place_id=ChIJO-OKpXcU3okRG2ZC2uDYMNY&center=42.792900599999996,-73.79577689999999",
+      "isFar": true
+    },
+    {
+      "name": "Generation Axe Throwing",
+      "distance": "3.4 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Generation%20Axe%20Throwing&query_place_id=ChIJj4ZIHJUL3okR8vkWYiwrUJc&center=42.6980839,-73.8246272",
+      "isFar": true
+    },
+    {
+      "name": "Urban Air Trampoline and Adventure Park",
+      "distance": "3.9 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Urban%20Air%20Trampoline%20and%20Adventure%20Park&query_place_id=ChIJy1pKR0h13okR51GKbpKleDE&center=42.6956156,-73.8467781",
+      "isFar": true
+    },
+    {
+      "name": "World's Largest Walmart",
+      "distance": "4.0 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=World's%20Largest%20Walmart&query_place_id=ChIJb2R8OQB13okR-CPr6UV40oA&center=42.6944794,-73.8469283",
+      "isFar": true
+    }
+  ],
+  "hotels": [
+    {
+      "name": "Hilton Garden Inn Albany Airport",
+      "distance": "0.2 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Hilton%20Garden%20Inn%20Albany%20Airport&query_place_id=ChIJr6-fGd4M3okRH6zn1hg7LaU&center=42.746382,-73.81878689999999"
+    },
+    {
+      "name": "Tru by Hilton Albany Airport",
+      "distance": "0.3 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Tru%20by%20Hilton%20Albany%20Airport&query_place_id=ChIJLYtIqH4N3okRlbNRN_fD_Qg&center=42.7452633,-73.8191547"
+    },
+    {
+      "name": "Baymont by Wyndham Latham Albany Airport",
+      "distance": "0.5 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Baymont%20by%20Wyndham%20Latham%20Albany%20Airport&query_place_id=ChIJA3YZvUUN3okRLfNAX1P1IiI&center=42.7542259,-73.8162724"
+    },
+    {
+      "name": "Hampton Inn & Suites Albany-Airport",
+      "distance": "1.5 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Hampton%20Inn%20%26%20Suites%20Albany-Airport&query_place_id=ChIJLzCMmj8N3okRLAuuCFA9pWQ&center=42.7683246,-73.82025"
+    }
+  ],
+  "gas": [
+    {
+      "name": "E-Z Pass Plus",
+      "distance": "1.1 mi",
+      "url": "https://www.google.com/maps/search/E-Z%20Pass%20Plus+near+42.747433199999996%2C-73.8143535"
+    },
+    {
+      "name": "Mobil",
+      "distance": "1.3 mi",
+      "url": "https://www.google.com/maps/search/Mobil+near+42.747433199999996%2C-73.8143535"
+    },
+    {
+      "name": "Mobil Airport",
+      "distance": "1.3 mi",
+      "url": "https://www.google.com/maps/search/Mobil%20Airport+near+42.747433199999996%2C-73.8143535"
+    },
+    {
+      "name": "Cobil",
+      "distance": "1.3 mi",
+      "url": "https://www.google.com/maps/search/Cobil+near+42.747433199999996%2C-73.8143535"
+    }
+  ]
+}

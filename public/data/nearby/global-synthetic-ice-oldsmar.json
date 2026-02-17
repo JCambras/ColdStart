@@ -1,0 +1,197 @@
+{
+  "quick_bite": [
+    {
+      "name": "Moe's Southwest Grill",
+      "distance": "0.3 mi",
+      "url": "https://www.google.com/maps/search/Moe's%20Southwest%20Grill+near+28.042389000000004%2C-82.659315"
+    },
+    {
+      "name": "Chef Li Chinese Cuisine Restaurant",
+      "distance": "0.4 mi",
+      "url": "https://www.google.com/maps/search/Chef%20Li%20Chinese%20Cuisine%20Restaurant+near+28.042389000000004%2C-82.659315"
+    },
+    {
+      "name": "Buffalo Wild Wings",
+      "distance": "0.6 mi",
+      "url": "https://www.google.com/maps/search/Buffalo%20Wild%20Wings+near+28.042389000000004%2C-82.659315"
+    },
+    {
+      "name": "Chuck E. Cheese",
+      "distance": "4.8 mi",
+      "url": "https://www.google.com/maps/search/Chuck%20E.%20Cheese+near+28.042389000000004%2C-82.659315",
+      "isFar": true
+    }
+  ],
+  "coffee": [
+    {
+      "name": "UNITED COFFEE CLUB",
+      "distance": "0.5 mi",
+      "url": "https://www.google.com/maps/search/UNITED%20COFFEE%20CLUB+near+28.042389000000004%2C-82.659315"
+    },
+    {
+      "name": "Kazba Cafe",
+      "distance": "0.5 mi",
+      "url": "https://www.google.com/maps/search/Kazba%20Cafe+near+28.042389000000004%2C-82.659315"
+    },
+    {
+      "name": "McDonald's",
+      "distance": "0.6 mi",
+      "url": "https://www.google.com/maps/search/McDonald's+near+28.042389000000004%2C-82.659315"
+    }
+  ],
+  "team_lunch": [
+    {
+      "name": "Kazba Pizza",
+      "distance": "0.5 mi",
+      "url": "https://www.google.com/maps/search/Kazba%20Pizza+near+28.042389000000004%2C-82.659315"
+    },
+    {
+      "name": "The Bistro - Eat. Drink. Connect.®",
+      "distance": "0.6 mi",
+      "url": "https://www.google.com/maps/search/The%20Bistro%20-%20Eat.%20Drink.%20Connect.%C2%AE+near+28.042389000000004%2C-82.659315"
+    }
+  ],
+  "dinner": [
+    {
+      "name": "Steph's Tropicafe",
+      "distance": "0.2 mi",
+      "url": "https://www.google.com/maps/search/Steph's%20Tropicafe+near+28.042389000000004%2C-82.659315"
+    },
+    {
+      "name": "Flamestone American Grill",
+      "distance": "0.3 mi",
+      "url": "https://www.google.com/maps/search/Flamestone%20American%20Grill+near+28.042389000000004%2C-82.659315"
+    },
+    {
+      "name": "Jana’s Cafe",
+      "distance": "0.3 mi",
+      "url": "https://www.google.com/maps/search/Jana%E2%80%99s%20Cafe+near+28.042389000000004%2C-82.659315"
+    },
+    {
+      "name": "Zerillo's Pizza Restaurant & Bar",
+      "distance": "0.4 mi",
+      "url": "https://www.google.com/maps/search/Zerillo's%20Pizza%20Restaurant%20%26%20Bar+near+28.042389000000004%2C-82.659315"
+    },
+    {
+      "name": "Whatcha Want Eatery",
+      "distance": "0.4 mi",
+      "url": "https://www.google.com/maps/search/Whatcha%20Want%20Eatery+near+28.042389000000004%2C-82.659315"
+    },
+    {
+      "name": "MANNA K-food & Sushi",
+      "distance": "0.4 mi",
+      "url": "https://www.google.com/maps/search/MANNA%20K-food%20%26%20Sushi+near+28.042389000000004%2C-82.659315"
+    },
+    {
+      "name": "El Paraiso Mexican Restaurant & Bar",
+      "distance": "0.4 mi",
+      "url": "https://www.google.com/maps/search/El%20Paraiso%20Mexican%20Restaurant%20%26%20Bar+near+28.042389000000004%2C-82.659315"
+    }
+  ],
+  "bowling": [
+    {
+      "name": "Maple Lanes Countryside",
+      "distance": "4.9 mi",
+      "url": "https://www.google.com/maps/search/Maple%20Lanes%20Countryside+near+28.042389000000004%2C-82.659315",
+      "isFar": true
+    }
+  ],
+  "arcade": [],
+  "movies": [
+    {
+      "name": "AMC Woodlands Square 20",
+      "distance": "2.6 mi",
+      "url": "https://www.google.com/maps/search/AMC%20Woodlands%20Square%2020+near+28.042389000000004%2C-82.659315"
+    },
+    {
+      "name": "CMX Cinemas Countryside 12",
+      "distance": "4.9 mi",
+      "url": "https://www.google.com/maps/search/CMX%20Cinemas%20Countryside%2012+near+28.042389000000004%2C-82.659315",
+      "isFar": true
+    }
+  ],
+  "fun": [
+    {
+      "name": "Escape Thrill",
+      "distance": "4.7 mi",
+      "url": "https://www.google.com/maps/search/Escape%20Thrill+near+28.042389000000004%2C-82.659315",
+      "isFar": true
+    },
+    {
+      "name": "Launch Family Entertainment Clearwater",
+      "distance": "4.9 mi",
+      "url": "https://www.google.com/maps/search/Launch%20Family%20Entertainment%20Clearwater+near+28.042389000000004%2C-82.659315",
+      "isFar": true
+    },
+    {
+      "name": "Bounce City Clearwater",
+      "distance": "4.9 mi",
+      "url": "https://www.google.com/maps/search/Bounce%20City%20Clearwater+near+28.042389000000004%2C-82.659315",
+      "isFar": true
+    }
+  ],
+  "hotels": [
+    {
+      "name": "Hotel",
+      "distance": "0.1 mi",
+      "url": "https://www.google.com/maps/search/Hotel+near+28.042389000000004%2C-82.659315"
+    },
+    {
+      "name": "Hampton Inn & Suites Tampa Northwest/Oldsmar",
+      "distance": "0.3 mi",
+      "url": "https://www.google.com/maps/search/Hampton%20Inn%20%26%20Suites%20Tampa%20Northwest%2FOldsmar+near+28.042389000000004%2C-82.659315"
+    },
+    {
+      "name": "Holiday Inn Express & Suites Tampa Northwest-Oldsmar by IHG",
+      "distance": "0.5 mi",
+      "url": "https://www.google.com/maps/search/Holiday%20Inn%20Express%20%26%20Suites%20Tampa%20Northwest-Oldsmar%20by%20IHG+near+28.042389000000004%2C-82.659315"
+    },
+    {
+      "name": "Pet-Friendly Tampa Bay Getaway Walk to the Water!",
+      "distance": "0.5 mi",
+      "url": "https://www.google.com/maps/search/Pet-Friendly%20Tampa%20Bay%20Getaway%20Walk%20to%20the%20Water!+near+28.042389000000004%2C-82.659315"
+    },
+    {
+      "name": "Pet-Friendly Tampa Bay Getaway: Walk to the Water!",
+      "distance": "0.5 mi",
+      "url": "https://www.google.com/maps/search/Pet-Friendly%20Tampa%20Bay%20Getaway%3A%20Walk%20to%20the%20Water!+near+28.042389000000004%2C-82.659315"
+    },
+    {
+      "name": "Residence Inn by Marriott Tampa Oldsmar",
+      "distance": "0.5 mi",
+      "url": "https://www.google.com/maps/search/Residence%20Inn%20by%20Marriott%20Tampa%20Oldsmar+near+28.042389000000004%2C-82.659315"
+    },
+    {
+      "name": "Courtyard by Marriott Tampa Oldsmar",
+      "distance": "0.6 mi",
+      "url": "https://www.google.com/maps/search/Courtyard%20by%20Marriott%20Tampa%20Oldsmar+near+28.042389000000004%2C-82.659315"
+    }
+  ],
+  "gas": [
+    {
+      "name": "Mobil",
+      "distance": "0.6 mi",
+      "url": "https://www.google.com/maps/search/Mobil+near+28.042389000000004%2C-82.659315"
+    },
+    {
+      "name": "7-Eleven Fuel",
+      "distance": "0.7 mi",
+      "url": "https://www.google.com/maps/search/7-Eleven%20Fuel+near+28.042389000000004%2C-82.659315"
+    },
+    {
+      "name": "Circle K | Gas Station",
+      "distance": "0.8 mi",
+      "url": "https://www.google.com/maps/search/Circle%20K%20%7C%20Gas%20Station+near+28.042389000000004%2C-82.659315"
+    },
+    {
+      "name": "Speedway",
+      "distance": "0.8 mi",
+      "url": "https://www.google.com/maps/search/Speedway+near+28.042389000000004%2C-82.659315"
+    },
+    {
+      "name": "THORNTONS",
+      "distance": "1.1 mi",
+      "url": "https://www.google.com/maps/search/THORNTONS+near+28.042389000000004%2C-82.659315"
+    }
+  ]
+}

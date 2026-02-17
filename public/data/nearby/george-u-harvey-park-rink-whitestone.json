@@ -1,0 +1,225 @@
+{
+  "quick_bite": [
+    {
+      "name": "Buffalo Wild Wings",
+      "distance": "0.6 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Buffalo%20Wild%20Wings&query_place_id=ChIJwWFxN66KwokR-EiSRJk3vwE&center=40.782044899999995,-73.833727"
+    },
+    {
+      "name": "Subway",
+      "distance": "0.6 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Subway&query_place_id=ChIJm_hRT6GKwokRanq6g2zaFf0&center=40.7758999,-73.8236036"
+    },
+    {
+      "name": "Subway",
+      "distance": "1.0 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Subway&query_place_id=ChIJ9RhG6O2KwokRA8jp_89pHQU&center=40.7939031,-73.80794589999999"
+    },
+    {
+      "name": "Chuck E. Cheese",
+      "distance": "2.0 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Chuck%20E.%20Cheese&query_place_id=ChIJ-Vn5BAdgwokREygaLdvy4bY&center=40.757368199999995,-73.8350143"
+    },
+    {
+      "name": "Wawawooo Park",
+      "distance": "3.5 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Wawawooo%20Park&query_place_id=ChIJ-Sz_DwBfwokRYLrQmqxx3Vc&center=40.7631564,-73.8846671",
+      "isFar": true
+    }
+  ],
+  "coffee": [
+    {
+      "name": "Starbucks Coffee Company",
+      "distance": "0.4 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Starbucks%20Coffee%20Company&query_place_id=ChIJ3x9eV6WKwokR_cY36CC8PWU&center=40.782019999999996,-73.82986"
+    },
+    {
+      "name": "Dunkin'",
+      "distance": "0.4 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Dunkin'&query_place_id=ChIJFQz7D7CKwokR54TwSl-8UNc&center=40.783671,-73.8317979"
+    },
+    {
+      "name": "Starbucks Coffee Company",
+      "distance": "0.5 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Starbucks%20Coffee%20Company&query_place_id=ChIJqTh_1LGKwokRjHUfBtBkIV0&center=40.783409999999996,-73.83328"
+    },
+    {
+      "name": "Starbucks Coffee Company",
+      "distance": "0.5 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Starbucks%20Coffee%20Company&query_place_id=ChIJKznPhcKLwokR2aSKncAmTcQ&center=40.7878,-73.81428000000001"
+    },
+    {
+      "name": "Starbucks drive thru",
+      "distance": "0.5 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Starbucks%20drive%20thru&query_place_id=ChIJuRAYNQCLwokRL4DsrvfZL6Q&center=40.7877978,-73.8142105"
+    }
+  ],
+  "team_lunch": [
+    {
+      "name": "BJ's Bakery",
+      "distance": "0.4 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=BJ's%20Bakery&query_place_id=ChIJ6WFBBbCKwokRDPMz-8CFHvk&center=40.7828204,-73.8303974"
+    },
+    {
+      "name": "Ajiang BBQ Stand",
+      "distance": "0.5 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Ajiang%20BBQ%20Stand&query_place_id=ChIJF9_iKQCLwokRCxM7hg1xUT4&center=40.776727099999995,-73.824314"
+    },
+    {
+      "name": "Noodle House",
+      "distance": "0.6 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Noodle%20House&query_place_id=ChIJs2rYPayLwokRPFr3YeLLPt4&center=40.7882926,-73.8138621"
+    },
+    {
+      "name": "F & S Bakery Suppliers",
+      "distance": "0.9 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=F%20%26%20S%20Bakery%20Suppliers&query_place_id=ChIJn1yTuLKKwokRYaNLqI2RirY&center=40.7831044,-73.84121619999999"
+    },
+    {
+      "name": "Chip City - Corporate Offices",
+      "distance": "0.9 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Chip%20City%20-%20Corporate%20Offices&query_place_id=ChIJoWMq-sOLwokR8kOFEC5Bpww&center=40.7841721,-73.8415062"
+    },
+    {
+      "name": "Mrs Pastries",
+      "distance": "1.1 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Mrs%20Pastries&query_place_id=ChIJxdFnnKqKwokRII3OuyNHK2Y&center=40.7744405,-73.83992669999999"
+    }
+  ],
+  "dinner": [
+    {
+      "name": "Pearl Garden",
+      "distance": "0.2 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Pearl%20Garden&query_place_id=ChIJDQXGhL6KwokRXE-X1Y9DYwo&center=40.786775,-73.8219694"
+    },
+    {
+      "name": "Jägerhaus German Mediterranean restaurant",
+      "distance": "0.4 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=J%C3%A4gerhaus%20German%20Mediterranean%20restaurant&query_place_id=ChIJL9S0xpWKwokRNGloENoXHe0&center=40.7866579,-73.8164733"
+    },
+    {
+      "name": "Liola",
+      "distance": "0.4 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Liola&query_place_id=ChIJCxa3tpWKwokROFN0jwBKRbU&center=40.787061,-73.815882"
+    },
+    {
+      "name": "Whitestone Diner",
+      "distance": "0.5 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Whitestone%20Diner&query_place_id=ChIJOWS_4pSKwokReUl38fs3qss&center=40.7885749,-73.8153798"
+    },
+    {
+      "name": "Mellow & Sweet by Elisa",
+      "distance": "0.5 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Mellow%20%26%20Sweet%20by%20Elisa&query_place_id=ChIJjUSuSgCLwokR2LrbH1lOpRE&center=40.7900403,-73.8167606"
+    },
+    {
+      "name": "Little Diner",
+      "distance": "0.5 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Little%20Diner&query_place_id=ChIJuwzGRMCLwokRFqhtxBmC_SE&center=40.7842263,-73.81356679999999"
+    }
+  ],
+  "bowling": [
+    {
+      "name": "Whitestone Lanes",
+      "distance": "1.1 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Whitestone%20Lanes&query_place_id=ChIJm3klDgBhwokRZznlH0Qft-w&center=40.770271,-73.8335439"
+    },
+    {
+      "name": "Jim Simone",
+      "distance": "3.5 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Jim%20Simone&query_place_id=ChIJub9hAllgwokRBe_CMc5edCU&center=40.7343648,-73.8121091",
+      "isFar": true
+    },
+    {
+      "name": "Jib Lanes",
+      "distance": "3.6 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Jib%20Lanes&query_place_id=ChIJEeqEAVlgwokRPm8TLtyVq18&center=40.7330109,-73.8098877",
+      "isFar": true
+    }
+  ],
+  "arcade": [],
+  "movies": [
+    {
+      "name": "Regal Tangram",
+      "distance": "1.8 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Regal%20Tangram&query_place_id=ChIJJZLILpBhwokRi2K88q8mhe8&center=40.7602271,-73.83346740000002"
+    },
+    {
+      "name": "AMC Bay Terrace 6",
+      "distance": "2.4 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=AMC%20Bay%20Terrace%206&query_place_id=ChIJ4-p1wG6KwokRGXlkSEYF8uM&center=40.7789648,-73.7789037"
+    },
+    {
+      "name": "Fair Theatre",
+      "distance": "3.2 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Fair%20Theatre&query_place_id=ChIJXQqtuJlfwokRYMBwceXfFeg&center=40.763335,-73.87863",
+      "isFar": true
+    }
+  ],
+  "fun": [
+    {
+      "name": "Powell Cove Bay",
+      "distance": "0.8 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Powell%20Cove%20Bay&query_place_id=ChIJszie1KmLwokRw5PeYkC995w&center=40.7934482,-73.8334592"
+    },
+    {
+      "name": "Jetski",
+      "distance": "1.4 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Jetski&query_place_id=ChIJRY8wkGL1wokRQbDgeyxpuk8&center=40.779651199999996,-73.84979969999999"
+    },
+    {
+      "name": "25 Ave Viewpoint",
+      "distance": "1.4 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=25%20Ave%20Viewpoint&query_place_id=ChIJLaWxHAD1wokR2ithjUp1ku8&center=40.7769529,-73.8491066"
+    },
+    {
+      "name": "灵魂密室Soul escape room-恐怖真人密室逃脱",
+      "distance": "1.5 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=%E7%81%B5%E9%AD%82%E5%AF%86%E5%AE%A4Soul%20escape%20room-%E6%81%90%E6%80%96%E7%9C%9F%E4%BA%BA%E5%AF%86%E5%AE%A4%E9%80%83%E8%84%B1&query_place_id=ChIJ-TQqiI5hwokRY3g1z3t-xB0&center=40.765905,-73.8370643"
+    }
+  ],
+  "hotels": [
+    {
+      "name": "Amplia y Cómoda Habitación, Para Disfrutar de Unas Excelentes Vacaciones",
+      "distance": "0.1 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Amplia%20y%20C%C3%B3moda%20Habitaci%C3%B3n%2C%20Para%20Disfrutar%20de%20Unas%20Excelentes%20Vacaciones&query_place_id=ChIJ9-lrKbyKwokR39vCGUiqvfc&center=40.7861786,-73.8217621"
+    },
+    {
+      "name": "Extended Stay America Suites- New York City - LaGuardia Airport",
+      "distance": "0.2 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Extended%20Stay%20America%20Suites-%20New%20York%20City%20-%20LaGuardia%20Airport&query_place_id=ChIJMSmWSLuKwokRv_eglLOJyaY&center=40.782907099999996,-73.8261588"
+    },
+    {
+      "name": "Dream Room - Queen Room With Shared Bathroom",
+      "distance": "0.2 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Dream%20Room%20-%20Queen%20Room%20With%20Shared%20Bathroom&query_place_id=ChIJGTbA1byKwokR1c1-Srt31ZM&center=40.7816581,-73.8214264"
+    },
+    {
+      "name": "Amplia y Cómoda Habitación, Para Disfrutar de Unas Excelentes Vacaciones",
+      "distance": "0.3 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Amplia%20y%20C%C3%B3moda%20Habitaci%C3%B3n%2C%20Para%20Disfrutar%20de%20Unas%20Excelentes%20Vacaciones&query_place_id=ChIJlbNpBL6KwokRXoao_MFUXk4&center=40.7863884,-73.81883239999999"
+    }
+  ],
+  "gas": [
+    {
+      "name": "Mobil",
+      "distance": "0.2 mi",
+      "url": "https://www.google.com/maps/search/Mobil+near+40.784553599999995%2C-73.8234418"
+    },
+    {
+      "name": "Point Poul",
+      "distance": "0.2 mi",
+      "url": "https://www.google.com/maps/search/Point%20Poul+near+40.784553599999995%2C-73.8234418"
+    },
+    {
+      "name": "Cross Island Gas Corporation",
+      "distance": "0.6 mi",
+      "url": "https://www.google.com/maps/search/Cross%20Island%20Gas%20Corporation+near+40.784553599999995%2C-73.8234418"
+    },
+    {
+      "name": "GASTRAC",
+      "distance": "0.6 mi",
+      "url": "https://www.google.com/maps/search/GASTRAC+near+40.784553599999995%2C-73.8234418"
+    }
+  ]
+}

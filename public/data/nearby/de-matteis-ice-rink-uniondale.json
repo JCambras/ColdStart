@@ -1,0 +1,207 @@
+{
+  "quick_bite": [
+    {
+      "name": "Chipotle Mexican Grill",
+      "distance": "0.4 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Chipotle%20Mexican%20Grill&query_place_id=ChIJJ0phd719wokRa0-SP3AXKWk&center=40.717965799999995,-73.5921438"
+    },
+    {
+      "name": "Chick-fil-A",
+      "distance": "0.5 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Chick-fil-A&query_place_id=ChIJK-TA9jx9wokRxE-EIZRat7M&center=40.7228126,-73.5761085"
+    },
+    {
+      "name": "Chick N Burgers",
+      "distance": "0.5 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Chick%20N%20Burgers&query_place_id=ChIJJebV9ZF9wokRfX8DMQil0A8&center=40.7115328,-73.58335989999999"
+    },
+    {
+      "name": "Carlyle At the Omni",
+      "distance": "0.7 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Carlyle%20At%20the%20Omni&query_place_id=ChIJT0myR5d9wokRo5oVzepUByI&center=40.725443399999996,-73.5938777"
+    },
+    {
+      "name": "Sonic Drive-In",
+      "distance": "0.7 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Sonic%20Drive-In&query_place_id=ChIJpWefde99wokRBI0CStf_8mo&center=40.7231804,-73.572475"
+    }
+  ],
+  "coffee": [
+    {
+      "name": "organi cru assortment box, 110 capsules",
+      "distance": "0.1 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=organi%20cru%20assortment%20box%2C%20110%20capsules&query_place_id=ChIJz3Z42ZR9wokRZsbHyNI5qoI&center=40.7201982,-73.5838903"
+    },
+    {
+      "name": "Starbucks Coffee Company",
+      "distance": "0.3 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Starbucks%20Coffee%20Company&query_place_id=ChIJxw_CGpZ9wokRl2M3gZHofk4&center=40.7188972,-73.5896678"
+    },
+    {
+      "name": "Pantano's Gourmet Eats Uniondale",
+      "distance": "0.5 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Pantano's%20Gourmet%20Eats%20Uniondale&query_place_id=ChIJIaHlbb19wokRtkXID1aTKq8&center=40.7177899,-73.5926137"
+    },
+    {
+      "name": "Dunkin'",
+      "distance": "0.7 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Dunkin'&query_place_id=ChIJvzWp78J9wokRSSzQP8TgsTA&center=40.7145765,-73.5730248"
+    }
+  ],
+  "team_lunch": [
+    {
+      "name": "Crop & Kettle",
+      "distance": "0.3 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Crop%20%26%20Kettle&query_place_id=ChIJ3YSr8pN9wokRef8UOQVHar4&center=40.7233887,-73.5875694"
+    },
+    {
+      "name": "Papa Johns Pizza",
+      "distance": "0.3 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Papa%20Johns%20Pizza&query_place_id=ChIJOU-kIZZ9wokRXmHFVa-5jio&center=40.7185878,-73.5905275"
+    },
+    {
+      "name": "Chen's Express Kitchen",
+      "distance": "0.7 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Chen's%20Express%20Kitchen&query_place_id=ChIJfZbPj7l9wokRhwOOH6MfytI&center=40.7097349,-73.5875993"
+    },
+    {
+      "name": "EL RETUMBY",
+      "distance": "0.7 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=EL%20RETUMBY&query_place_id=ChIJUVSmJLp9wokRwjCsmbK1Fjw&center=40.7099547,-73.58953690000001"
+    },
+    {
+      "name": "Bagelicious East Meadow",
+      "distance": "1.1 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Bagelicious%20East%20Meadow&query_place_id=ChIJb5G-V-F9wokRgEToCS5vDr8&center=40.7188831,-73.5638099"
+    }
+  ],
+  "dinner": [
+    {
+      "name": "Borrelli's",
+      "distance": "0.4 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Borrelli's&query_place_id=ChIJ4ZzQEOx9wokRCNHrvV9srdQ&center=40.722560099999995,-73.5777793"
+    },
+    {
+      "name": "The Savor Market and Pizza",
+      "distance": "0.4 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=The%20Savor%20Market%20and%20Pizza&query_place_id=ChIJTYpqwZZ9wokRCiUOajH58-M&center=40.7223629,-73.5906164"
+    },
+    {
+      "name": "Willy's restaurant bar&grill",
+      "distance": "0.7 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Willy's%20restaurant%20bar%26grill&query_place_id=ChIJa_UOcQB9wokRwS_GcuBhoDk&center=40.7097465,-73.5875382"
+    },
+    {
+      "name": "La Cabaña Deli and Minimarket",
+      "distance": "0.7 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=La%20Caba%C3%B1a%20Deli%20and%20Minimarket&query_place_id=ChIJtdnSsxN9wokRPc5xPziD7-Q&center=40.709661499999996,-73.5876997"
+    },
+    {
+      "name": "Pupuseria Isabel Corp",
+      "distance": "1.1 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Pupuseria%20Isabel%20Corp&query_place_id=ChIJxdbsl559wokRmPiHJwddXJ0&center=40.7050479,-73.5928837"
+    },
+    {
+      "name": "Grillwaale",
+      "distance": "1.2 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Grillwaale&query_place_id=ChIJw6zAIQB9wokRNZinUTGSopM&center=40.721948399999995,-73.6071146"
+    }
+  ],
+  "bowling": [
+    {
+      "name": "Bowlero East Meadow",
+      "distance": "1.0 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Bowlero%20East%20Meadow&query_place_id=ChIJU0CNsuZ9wokR2iHU5xx8oaM&center=40.718154999999996,-73.5643786"
+    },
+    {
+      "name": "AMF Garden City Lanes",
+      "distance": "1.3 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=AMF%20Garden%20City%20Lanes&query_place_id=ChIJrWFu9oZ9wokRow0JQO4biEg&center=40.7357286,-73.5977006"
+    },
+    {
+      "name": "Lucky Strike Mineola",
+      "distance": "3.3 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Lucky%20Strike%20Mineola&query_place_id=ChIJhah-nZKHwokRrplQxyycKRU&center=40.753293899999996,-73.6272212",
+      "isFar": true
+    }
+  ],
+  "arcade": [],
+  "movies": [
+    {
+      "name": "Leroy R & Rose W. Grumman Dome Theater",
+      "distance": "1.0 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Leroy%20R%20%26%20Rose%20W.%20Grumman%20Dome%20Theater&query_place_id=ChIJxVoKjZx9wokRvIbb7C5A5Rc&center=40.728640899999995,-73.5976374"
+    },
+    {
+      "name": "AMC Raceway 10",
+      "distance": "1.7 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=AMC%20Raceway%2010&query_place_id=ChIJ-Q86532HwokRq68KeMt3IsM&center=40.7424482,-73.5963609"
+    },
+    {
+      "name": "AMC Roosevelt Field 8",
+      "distance": "2.1 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=AMC%20Roosevelt%20Field%208&query_place_id=ChIJAUh85H19wokRBOPo-4AyS90&center=40.7397433,-73.6149875"
+    }
+  ],
+  "fun": [
+    {
+      "name": "Uniondale Park",
+      "distance": "0.3 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Uniondale%20Park&query_place_id=ChIJecTdfQB9wokRGs1ySnUMdT0&center=40.7188571,-73.5907584"
+    },
+    {
+      "name": "Grumman F-14D Super Tomcat",
+      "distance": "0.9 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Grumman%20F-14D%20Super%20Tomcat&query_place_id=ChIJPwNhWAB9wokR0iHzltcpOLY&center=40.727533799999996,-73.5976013"
+    },
+    {
+      "name": "Froehlich Family Lights",
+      "distance": "1.6 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Froehlich%20Family%20Lights&query_place_id=ChIJwcZdTgB9wokRoGDYwjf0pMU&center=40.701729,-73.56322089999999"
+    },
+    {
+      "name": "Empire Adventure Park",
+      "distance": "1.8 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Empire%20Adventure%20Park&query_place_id=ChIJ2ZEdaJSHwokRrYhr7yOhe_s&center=40.7438467,-73.59367120000002"
+    }
+  ],
+  "hotels": [
+    {
+      "name": "Long Island Marriott",
+      "distance": "0.3 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Long%20Island%20Marriott&query_place_id=ChIJ8T78j5N9wokRkjrOUSX_c2s&center=40.723554899999996,-73.5876904"
+    },
+    {
+      "name": "LUX Rental",
+      "distance": "0.5 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=LUX%20Rental&query_place_id=ChIJI94dq8B9wokR49eCwE0OLX0&center=40.7124519,-73.582779"
+    },
+    {
+      "name": "Hôtel exécutive suites",
+      "distance": "0.7 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=H%C3%B4tel%20ex%C3%A9cutive%20suites&query_place_id=ChIJtQwxFAB9wokRnD3kT_y8SQc&center=40.7112372,-73.5918147"
+    }
+  ],
+  "gas": [
+    {
+      "name": "Sunoco",
+      "distance": "0.3 mi",
+      "url": "https://www.google.com/maps/search/Sunoco+near+40.7193719%2C-73.5841118"
+    },
+    {
+      "name": "Conoco",
+      "distance": "0.7 mi",
+      "url": "https://www.google.com/maps/search/Conoco+near+40.7193719%2C-73.5841118"
+    },
+    {
+      "name": "bp",
+      "distance": "0.7 mi",
+      "url": "https://www.google.com/maps/search/bp+near+40.7193719%2C-73.5841118"
+    },
+    {
+      "name": "Gas Station",
+      "distance": "0.8 mi",
+      "url": "https://www.google.com/maps/search/Gas%20Station+near+40.7193719%2C-73.5841118"
+    }
+  ]
+}

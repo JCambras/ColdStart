@@ -1,0 +1,226 @@
+{
+  "quick_bite": [
+    {
+      "name": "Val's Hamburgers",
+      "distance": "0.7 mi",
+      "url": "https://www.google.com/maps/search/Val's%20Hamburgers+near+45.575113699999996%2C-94.1557931"
+    },
+    {
+      "name": "Subway",
+      "distance": "0.8 mi",
+      "url": "https://www.google.com/maps/search/Subway+near+45.575113699999996%2C-94.1557931"
+    },
+    {
+      "name": "Wendy's",
+      "distance": "0.8 mi",
+      "url": "https://www.google.com/maps/search/Wendy's+near+45.575113699999996%2C-94.1557931"
+    },
+    {
+      "name": "Taco Bell",
+      "distance": "0.9 mi",
+      "url": "https://www.google.com/maps/search/Taco%20Bell+near+45.575113699999996%2C-94.1557931"
+    },
+    {
+      "name": "Chuck E. Cheese",
+      "distance": "2.7 mi",
+      "url": "https://www.google.com/maps/search/Chuck%20E.%20Cheese+near+45.575113699999996%2C-94.1557931"
+    }
+  ],
+  "coffee": [
+    {
+      "name": "Fresh Harvest Café",
+      "distance": "0.7 mi",
+      "url": "https://www.google.com/maps/search/Fresh%20Harvest%20Caf%C3%A9+near+45.575113699999996%2C-94.1557931"
+    },
+    {
+      "name": "Starbucks Coffee Company",
+      "distance": "0.8 mi",
+      "url": "https://www.google.com/maps/search/Starbucks%20Coffee%20Company+near+45.575113699999996%2C-94.1557931"
+    },
+    {
+      "name": "McDonald's",
+      "distance": "0.9 mi",
+      "url": "https://www.google.com/maps/search/McDonald's+near+45.575113699999996%2C-94.1557931"
+    },
+    {
+      "name": "Caribou Coffee",
+      "distance": "0.9 mi",
+      "url": "https://www.google.com/maps/search/Caribou%20Coffee+near+45.575113699999996%2C-94.1557931"
+    },
+    {
+      "name": "Herbalife Flat Iron Nutrition",
+      "distance": "1.0 mi",
+      "url": "https://www.google.com/maps/search/Herbalife%20Flat%20Iron%20Nutrition+near+45.575113699999996%2C-94.1557931"
+    }
+  ],
+  "team_lunch": [
+    {
+      "name": "Riverfront Dining",
+      "distance": "0.6 mi",
+      "url": "https://www.google.com/maps/search/Riverfront%20Dining+near+45.575113699999996%2C-94.1557931"
+    },
+    {
+      "name": "Somali Cafe and Restaurant",
+      "distance": "0.8 mi",
+      "url": "https://www.google.com/maps/search/Somali%20Cafe%20and%20Restaurant+near+45.575113699999996%2C-94.1557931"
+    },
+    {
+      "name": "Picadeli",
+      "distance": "0.9 mi",
+      "url": "https://www.google.com/maps/search/Picadeli+near+45.575113699999996%2C-94.1557931"
+    }
+  ],
+  "dinner": [
+    {
+      "name": "U Betcha's MN Grill",
+      "distance": "0.1 mi",
+      "url": "https://www.google.com/maps/search/U%20Betcha's%20MN%20Grill+near+45.575113699999996%2C-94.1557931"
+    },
+    {
+      "name": "Kitchenette",
+      "distance": "0.7 mi",
+      "url": "https://www.google.com/maps/search/Kitchenette+near+45.575113699999996%2C-94.1557931"
+    },
+    {
+      "name": "Copper Kitchen Restaurant",
+      "distance": "0.8 mi",
+      "url": "https://www.google.com/maps/search/Copper%20Kitchen%20Restaurant+near+45.575113699999996%2C-94.1557931"
+    },
+    {
+      "name": "MC's Dugout Bar And Grill",
+      "distance": "1.0 mi",
+      "url": "https://www.google.com/maps/search/MC's%20Dugout%20Bar%20And%20Grill+near+45.575113699999996%2C-94.1557931"
+    },
+    {
+      "name": "DS Ethiopian Restaurant",
+      "distance": "1.0 mi",
+      "url": "https://www.google.com/maps/search/DS%20Ethiopian%20Restaurant+near+45.575113699999996%2C-94.1557931"
+    },
+    {
+      "name": "Brito's Burrito",
+      "distance": "1.0 mi",
+      "url": "https://www.google.com/maps/search/Brito's%20Burrito+near+45.575113699999996%2C-94.1557931"
+    },
+    {
+      "name": "Mexican Village Downtown",
+      "distance": "1.0 mi",
+      "url": "https://www.google.com/maps/search/Mexican%20Village%20Downtown+near+45.575113699999996%2C-94.1557931"
+    }
+  ],
+  "bowling": [
+    {
+      "name": "Great River Bowl & Partners Pub",
+      "distance": "3.7 mi",
+      "url": "https://www.google.com/maps/search/Great%20River%20Bowl%20%26%20Partners%20Pub+near+45.575113699999996%2C-94.1557931",
+      "isFar": true
+    },
+    {
+      "name": "Southway Bowl",
+      "distance": "4.2 mi",
+      "url": "https://www.google.com/maps/search/Southway%20Bowl+near+45.575113699999996%2C-94.1557931",
+      "isFar": true
+    }
+  ],
+  "arcade": [],
+  "movies": [
+    {
+      "name": "Marcus Parkwood Cinema",
+      "distance": "4.2 mi",
+      "url": "https://www.google.com/maps/search/Marcus%20Parkwood%20Cinema+near+45.575113699999996%2C-94.1557931",
+      "isFar": true
+    }
+  ],
+  "fun": [
+    {
+      "name": "St. Cloud Escape Rooms",
+      "distance": "1.6 mi",
+      "url": "https://www.google.com/maps/search/St.%20Cloud%20Escape%20Rooms+near+45.575113699999996%2C-94.1557931"
+    },
+    {
+      "name": "Riddlers Escape, LLC",
+      "distance": "1.8 mi",
+      "url": "https://www.google.com/maps/search/Riddlers%20Escape%2C%20LLC+near+45.575113699999996%2C-94.1557931"
+    },
+    {
+      "name": "Summerland Family Fun Park",
+      "distance": "2.6 mi",
+      "url": "https://www.google.com/maps/search/Summerland%20Family%20Fun%20Park+near+45.575113699999996%2C-94.1557931"
+    },
+    {
+      "name": "Westwood Park Splash Pad",
+      "distance": "3.7 mi",
+      "url": "https://www.google.com/maps/search/Westwood%20Park%20Splash%20Pad+near+45.575113699999996%2C-94.1557931",
+      "isFar": true
+    },
+    {
+      "name": "River's Edge Splash Pad",
+      "distance": "3.8 mi",
+      "url": "https://www.google.com/maps/search/River's%20Edge%20Splash%20Pad+near+45.575113699999996%2C-94.1557931",
+      "isFar": true
+    }
+  ],
+  "hotels": [
+    {
+      "name": "CentraCare - Gorecki Guest House",
+      "distance": "0.7 mi",
+      "url": "https://www.google.com/maps/search/CentraCare%20-%20Gorecki%20Guest%20House+near+45.575113699999996%2C-94.1557931"
+    },
+    {
+      "name": "Cloverleaf Manufactured Home Community",
+      "distance": "0.7 mi",
+      "url": "https://www.google.com/maps/search/Cloverleaf%20Manufactured%20Home%20Community+near+45.575113699999996%2C-94.1557931"
+    },
+    {
+      "name": "Clean, comfortable conveniently located!",
+      "distance": "0.8 mi",
+      "url": "https://www.google.com/maps/search/Clean%2C%20comfortable%20conveniently%20located!+near+45.575113699999996%2C-94.1557931"
+    },
+    {
+      "name": "Cozy Getaway in Heart of St Cloud",
+      "distance": "0.8 mi",
+      "url": "https://www.google.com/maps/search/Cozy%20Getaway%20in%20Heart%20of%20St%20Cloud+near+45.575113699999996%2C-94.1557931"
+    },
+    {
+      "name": "Country Inn & Suites by Radisson, St. Cloud East, MN",
+      "distance": "0.9 mi",
+      "url": "https://www.google.com/maps/search/Country%20Inn%20%26%20Suites%20by%20Radisson%2C%20St.%20Cloud%20East%2C%20MN+near+45.575113699999996%2C-94.1557931"
+    },
+    {
+      "name": "Spacious 3-bedroom with WiFi and AC in fabulous St. Cloud",
+      "distance": "0.9 mi",
+      "url": "https://www.google.com/maps/search/Spacious%203-bedroom%20with%20WiFi%20and%20AC%20in%20fabulous%20St.%20Cloud+near+45.575113699999996%2C-94.1557931"
+    },
+    {
+      "name": "Contemporary Haven near Hospital",
+      "distance": "0.9 mi",
+      "url": "https://www.google.com/maps/search/Contemporary%20Haven%20near%20Hospital+near+45.575113699999996%2C-94.1557931"
+    }
+  ],
+  "gas": [
+    {
+      "name": "Amoco",
+      "distance": "0.8 mi",
+      "url": "https://www.google.com/maps/search/Amoco+near+45.575113699999996%2C-94.1557931"
+    },
+    {
+      "name": "T20",
+      "distance": "0.8 mi",
+      "url": "https://www.google.com/maps/search/T20+near+45.575113699999996%2C-94.1557931"
+    },
+    {
+      "name": "Shell",
+      "distance": "0.8 mi",
+      "url": "https://www.google.com/maps/search/Shell+near+45.575113699999996%2C-94.1557931"
+    },
+    {
+      "name": "R & F's Services",
+      "distance": "0.8 mi",
+      "url": "https://www.google.com/maps/search/R%20%26%20F's%20Services+near+45.575113699999996%2C-94.1557931"
+    },
+    {
+      "name": "Holiday Gas Station",
+      "distance": "1.1 mi",
+      "url": "https://www.google.com/maps/search/Holiday%20Gas%20Station+near+45.575113699999996%2C-94.1557931"
+    }
+  ]
+}

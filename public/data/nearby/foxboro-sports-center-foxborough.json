@@ -1,0 +1,185 @@
+{
+  "quick_bite": [
+    {
+      "name": "Hao Sushi",
+      "distance": "1.0 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Hao%20Sushi&query_place_id=ChIJveTMeUpj5IkREtgRW6aC9qQ&center=42.062616999999996,-71.2480479"
+    },
+    {
+      "name": "Subway",
+      "distance": "1.0 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Subway&query_place_id=ChIJYap5DiNj5IkRi5GJ3Yv8t3A&center=42.063955199999995,-71.2493683"
+    },
+    {
+      "name": "South Street Pizzeria",
+      "distance": "1.0 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=South%20Street%20Pizzeria&query_place_id=ChIJUVKd6hdj5IkRYoM4x0InVEQ&center=42.0643695,-71.2495793"
+    },
+    {
+      "name": "Pizza Time Foxboro",
+      "distance": "1.6 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Pizza%20Time%20Foxboro&query_place_id=ChIJ-XbZJTFj5IkRmIQJ9DihoKU&center=42.0737623,-71.257387"
+    },
+    {
+      "name": "Dairy Queen Grill & Chill",
+      "distance": "1.7 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Dairy%20Queen%20Grill%20%26%20Chill&query_place_id=ChIJGfWwFjdj5IkR0v4J5YH9H1E&center=42.0734636,-71.2595947"
+    },
+    {
+      "name": "Subway",
+      "distance": "2.3 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Subway&query_place_id=ChIJd7BTbVBi5IkRmdw6tUtHvMo&center=42.029483899999995,-71.2292348"
+    }
+  ],
+  "coffee": [
+    {
+      "name": "Loewen's Café",
+      "distance": "0.1 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Loewen's%20Caf%C3%A9&query_place_id=ChIJHcg9ntxi5IkRX6zrE7dOGe8&center=42.062167599999995,-71.2287036"
+    },
+    {
+      "name": "Dunkin'",
+      "distance": "0.8 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Dunkin'&query_place_id=ChIJNexPvB1j5IkRMMuJYa6r4n8&center=42.053827,-71.2413304"
+    },
+    {
+      "name": "Marylou's Coffee",
+      "distance": "0.9 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Marylou's%20Coffee&query_place_id=ChIJ8ynbHwBj5IkR9V7eguoF1ws&center=42.0531164,-71.2419592"
+    },
+    {
+      "name": "Honey Dew Donuts",
+      "distance": "0.9 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Honey%20Dew%20Donuts&query_place_id=ChIJ57DoS1Ri5IkRisAHWwNHzcc&center=42.053036999999996,-71.2419687"
+    },
+    {
+      "name": "Gunther Tooties",
+      "distance": "1.0 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Gunther%20Tooties&query_place_id=ChIJpWHHByNj5IkRccnA7WwNCVE&center=42.0635331,-71.24893639999999"
+    }
+  ],
+  "team_lunch": [
+    {
+      "name": "Providence Bagel",
+      "distance": "2.2 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Providence%20Bagel&query_place_id=ChIJy1-a0Olj5IkRQC3yvCjUGmc&center=42.031517699999995,-71.2202812"
+    },
+    {
+      "name": "D'Angelo Grilled Sandwiches",
+      "distance": "2.2 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=D'Angelo%20Grilled%20Sandwiches&query_place_id=ChIJZWpms1Fi5IkRT8lMhaBhZvA&center=42.030392299999995,-71.23111639999999"
+    }
+  ],
+  "dinner": [
+    {
+      "name": "Augusta's - Foxboro",
+      "distance": "0.1 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Augusta's%20-%20Foxboro&query_place_id=ChIJBeo9SQBj5IkRhlU6iD69q3w&center=42.062215099999996,-71.22915499999999"
+    },
+    {
+      "name": "Papa Gino's",
+      "distance": "0.8 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Papa%20Gino's&query_place_id=ChIJsQGvRVRi5IkRjKm-OjNJ2d0&center=42.0543262,-71.2411532"
+    },
+    {
+      "name": "Banh Mi Foxboro",
+      "distance": "1.0 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Banh%20Mi%20Foxboro&query_place_id=ChIJByxoPwFj5IkRVL-A4j4JK4w&center=42.063448199999996,-71.2484049"
+    },
+    {
+      "name": "Sweetness and Honey Bakery",
+      "distance": "1.0 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Sweetness%20and%20Honey%20Bakery&query_place_id=ChIJGaab_fNj5IkRtAVXil92cMY&center=42.0633851,-71.24883679999999"
+    },
+    {
+      "name": "Foxboro House of Pizza",
+      "distance": "1.0 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Foxboro%20House%20of%20Pizza&query_place_id=ChIJUyWhjiRj5IkRGXQMtfYE_l8&center=42.0636189,-71.24911519999999"
+    },
+    {
+      "name": "Scram Kitchen and Coffee",
+      "distance": "1.0 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Scram%20Kitchen%20and%20Coffee&query_place_id=ChIJu1igTABj5IkRoOLz7iSQ1mg&center=42.0654681,-71.24921119999999"
+    }
+  ],
+  "bowling": [],
+  "arcade": [],
+  "movies": [
+    {
+      "name": "Showcase Cinema de Lux Patriot Place",
+      "distance": "2.9 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Showcase%20Cinema%20de%20Lux%20Patriot%20Place&query_place_id=ChIJf0MUj8d85IkRqwdyEwxeb2o&center=42.094243399999996,-71.26618739999999"
+    }
+  ],
+  "fun": [
+    {
+      "name": "XtremeCraze - Foxboro",
+      "distance": "0.9 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=XtremeCraze%20-%20Foxboro&query_place_id=ChIJq369Su5j5IkRiOSDY6b36bE&center=42.0526063,-71.2415364"
+    },
+    {
+      "name": "Winter Skate",
+      "distance": "2.7 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Winter%20Skate&query_place_id=ChIJN752OQB95IkRBJWn5LJxn-Q&center=42.0876751,-71.27037039999999"
+    },
+    {
+      "name": "Lighthouse at Gillette Stadium",
+      "distance": "2.8 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Lighthouse%20at%20Gillette%20Stadium&query_place_id=ChIJpTYMhs995IkRP_mxRr_pN8I&center=42.092532299999995,-71.2641271"
+    },
+    {
+      "name": "Red Door Escape Room - Foxboro",
+      "distance": "2.8 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Red%20Door%20Escape%20Room%20-%20Foxboro&query_place_id=ChIJpwwtKoh95IkRsu1VhiEZvns&center=42.093098499999996,-71.2658343"
+    }
+  ],
+  "hotels": [
+    {
+      "name": "Oak St Foxboro - Single Room with Shared Bathroom",
+      "distance": "0.7 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Oak%20St%20Foxboro%20-%20Single%20Room%20with%20Shared%20Bathroom&query_place_id=ChIJx6FuDchi5IkRyt_E-XqWHRU&center=42.0654106,-71.21750639999999"
+    },
+    {
+      "name": "Residence Inn by Marriott Boston Foxborough",
+      "distance": "1.3 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Residence%20Inn%20by%20Marriott%20Boston%20Foxborough&query_place_id=ChIJ38h43P1i5IkRK6q_pMxunbM&center=42.0447274,-71.2383342"
+    },
+    {
+      "name": "★ A ★Lux Family Villa 6min to Gillette “Pool&Gym”★",
+      "distance": "1.6 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=%E2%98%85%20A%20%E2%98%85Lux%20Family%20Villa%206min%20to%20Gillette%20%E2%80%9CPool%26Gym%E2%80%9D%E2%98%85&query_place_id=ChIJAWJmPS995IkRbNKAvosCCPA&center=42.0848198,-71.2325134"
+    },
+    {
+      "name": "★ A ★Lux Family Villa 6min to Gillette “Pool&Gym”★",
+      "distance": "1.6 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=%E2%98%85%20A%20%E2%98%85Lux%20Family%20Villa%206min%20to%20Gillette%20%E2%80%9CPool%26Gym%E2%80%9D%E2%98%85&query_place_id=ChIJAWJmPS995IkRhMQOJaYuWAg&center=42.0848198,-71.2325134"
+    },
+    {
+      "name": "Near Gillette Stadium and Wrentham Village Premium Outlets, Pet-Friendly Stay!",
+      "distance": "1.6 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Near%20Gillette%20Stadium%20and%20Wrentham%20Village%20Premium%20Outlets%2C%20Pet-Friendly%20Stay!&query_place_id=ChIJCwfQgP9i5IkR2zVbwP9_sTY&center=42.0396347,-71.2372589"
+    }
+  ],
+  "gas": [
+    {
+      "name": "Mobil",
+      "distance": "0.8 mi",
+      "url": "https://www.google.com/maps/search/Mobil+near+42.0621601%2C-71.2294306"
+    },
+    {
+      "name": "Shell",
+      "distance": "0.9 mi",
+      "url": "https://www.google.com/maps/search/Shell+near+42.0621601%2C-71.2294306"
+    },
+    {
+      "name": "bp",
+      "distance": "1.2 mi",
+      "url": "https://www.google.com/maps/search/bp+near+42.0621601%2C-71.2294306"
+    },
+    {
+      "name": "Sunoco",
+      "distance": "1.6 mi",
+      "url": "https://www.google.com/maps/search/Sunoco+near+42.0621601%2C-71.2294306"
+    }
+  ]
+}

@@ -1,0 +1,209 @@
+{
+  "quick_bite": [
+    {
+      "name": "Pita Pit",
+      "distance": "0.6 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Pita%20Pit&query_place_id=ChIJpfiDQx1L0YkRTkITouABmbg&center=43.0889527,-77.6064153"
+    },
+    {
+      "name": "Halal Bites",
+      "distance": "0.7 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Halal%20Bites&query_place_id=ChIJTxSWp1ZL0YkRTAUtg7vBWtQ&center=43.090069299999996,-77.6109413"
+    },
+    {
+      "name": "Subway",
+      "distance": "0.7 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Subway&query_place_id=ChIJpfiDQx1L0YkR81NxCWbgHbI&center=43.0890002,-77.6086907"
+    },
+    {
+      "name": "Dairy Queen Grill & Chill",
+      "distance": "0.7 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Dairy%20Queen%20Grill%20%26%20Chill&query_place_id=ChIJV_2fteJK0YkRmuDd6edFoa8&center=43.0877896,-77.6057106"
+    }
+  ],
+  "coffee": [
+    {
+      "name": "Dunkin'",
+      "distance": "0.6 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Dunkin'&query_place_id=ChIJoz9jIjlL0YkREgPtJxFZqmo&center=43.094186699999995,-77.6140896"
+    },
+    {
+      "name": "Energized Nutrition",
+      "distance": "0.7 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Energized%20Nutrition&query_place_id=ChIJ3xwIcKBL0YkRG4i6b9OdzqE&center=43.0888588,-77.6089997"
+    },
+    {
+      "name": "The Little Theatre",
+      "distance": "4.0 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=The%20Little%20Theatre&query_place_id=ChIJB2xqX6i11okRqKjZLrp5LnM&center=43.1560561,-77.5979717",
+      "isFar": true
+    }
+  ],
+  "team_lunch": [
+    {
+      "name": "Chef's Bar & Grill",
+      "distance": "0.1 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Chef's%20Bar%20%26%20Grill&query_place_id=ChIJt00KYQBL0YkRBHyLmq2SX20&center=43.0985643,-77.6020479"
+    },
+    {
+      "name": "D'Mangú Restaurant & Lounge",
+      "distance": "0.7 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=D'Mang%C3%BA%20Restaurant%20%26%20Lounge&query_place_id=ChIJw1jgVRxL0YkRoXISrn3LLjo&center=43.090629799999995,-77.6109985"
+    },
+    {
+      "name": "GRAND SUPER BUFFET",
+      "distance": "0.7 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=GRAND%20SUPER%20BUFFET&query_place_id=ChIJpfiDQx1L0YkRhnheo1A5J4o&center=43.0894073,-77.6092518"
+    },
+    {
+      "name": "Hyderabad Biryani House Rochester",
+      "distance": "0.7 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Hyderabad%20Biryani%20House%20Rochester&query_place_id=ChIJ94FVhQFL0YkR3mP79TBnn-4&center=43.08896,-77.60887679999999"
+    },
+    {
+      "name": "JBC Rice Noodles & Ramen",
+      "distance": "0.7 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=JBC%20Rice%20Noodles%20%26%20Ramen&query_place_id=ChIJcd5vyztL0YkRJMpkBhUU3PU&center=43.090610399999996,-77.6127685"
+    }
+  ],
+  "dinner": [
+    {
+      "name": "Overtime Eats & Drink",
+      "distance": "0.6 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Overtime%20Eats%20%26%20Drink&query_place_id=ChIJ9_kSYNdL0YkR4Qz8BeG1CFE&center=43.0914605,-77.6097588"
+    },
+    {
+      "name": "Cam's Pizzeria",
+      "distance": "0.6 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Cam's%20Pizzeria&query_place_id=ChIJoz2wPxlL0YkR2N-I001NhmQ&center=43.0943216,-77.6142698"
+    },
+    {
+      "name": "The King and I Cuisine of Thailand",
+      "distance": "0.6 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=The%20King%20and%20I%20Cuisine%20of%20Thailand&query_place_id=ChIJSWBLRBxL0YkRefD_JOqEZ6w&center=43.091333999999996,-77.611442"
+    },
+    {
+      "name": "Youkoso Sushi",
+      "distance": "0.6 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Youkoso%20Sushi&query_place_id=ChIJKZF7gHNL0YkR8N1E03GEA4g&center=43.091259099999995,-77.61162329999999"
+    },
+    {
+      "name": "The Original Steve's Diner",
+      "distance": "0.7 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=The%20Original%20Steve's%20Diner&query_place_id=ChIJW6-DB89L0YkR0UlS1MGpEkQ&center=43.0889516,-77.6066541"
+    },
+    {
+      "name": "Babylon Restaurant",
+      "distance": "0.7 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Babylon%20Restaurant&query_place_id=ChIJz1Mnt1FL0YkROW3wOW28dQI&center=43.0905366,-77.61095279999999"
+    }
+  ],
+  "bowling": [
+    {
+      "name": "Bowl-A-Roll Lanes",
+      "distance": "1.2 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Bowl-A-Roll%20Lanes&query_place_id=ChIJEXcyKZNK0YkRrj7EN0quKeA&center=43.0879987,-77.5844113"
+    },
+    {
+      "name": "Sunset Lanes",
+      "distance": "4.4 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Sunset%20Lanes&query_place_id=ChIJO_PT5kOz1okRDiH-iU6p08c&center=43.137994899999995,-77.67068739999999",
+      "isFar": true
+    }
+  ],
+  "arcade": [],
+  "movies": [
+    {
+      "name": "Movies 10",
+      "distance": "1.4 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Movies%2010&query_place_id=ChIJqY5EmuhL0YkRG9QC_vzJ6k0&center=43.1005961,-77.6311837"
+    },
+    {
+      "name": "ROC Cinema",
+      "distance": "2.9 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=ROC%20Cinema&query_place_id=ChIJJY0WqRC11okRWYm6ouorTnw&center=43.139263,-77.5960372"
+    },
+    {
+      "name": "Apple Cinemas Dine In Pittsford",
+      "distance": "3.1 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Apple%20Cinemas%20Dine%20In%20Pittsford&query_place_id=ChIJd_LhUrs10YkRteOBjp_g0zg&center=43.1012688,-77.54139730000001",
+      "isFar": true
+    }
+  ],
+  "fun": [
+    {
+      "name": "iSmash Rochester",
+      "distance": "0.9 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=iSmash%20Rochester&query_place_id=ChIJRSZpkzVL0YkRp2WnBCLG39M&center=43.084340999999995,-77.6017694"
+    },
+    {
+      "name": "Fantasy Escape Rooms",
+      "distance": "1.3 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Fantasy%20Escape%20Rooms&query_place_id=ChIJ8eh3OJtL0YkRPtVdOaoUUUE&center=43.0865274,-77.5813533"
+    },
+    {
+      "name": "Rochester Escape Rooms",
+      "distance": "1.3 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Rochester%20Escape%20Rooms&query_place_id=ChIJixgxW5JK0YkRuJW08P_8TDQ&center=43.0865223,-77.5813186"
+    },
+    {
+      "name": "kathy Clem Museo de Arte",
+      "distance": "1.4 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=kathy%20Clem%20Museo%20de%20Arte&query_place_id=ChIJ-dsyLABL0YkR2HdU477nSI8&center=43.095068399999995,-77.5757976"
+    }
+  ],
+  "hotels": [
+    {
+      "name": "Residence Inn by Marriott Rochester Henrietta",
+      "distance": "0.8 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Residence%20Inn%20by%20Marriott%20Rochester%20Henrietta&query_place_id=ChIJb43Wpu9K0YkRP42myE_IRvQ&center=43.0883785,-77.59401260000001"
+    },
+    {
+      "name": "Spark by Hilton Rochester University Area",
+      "distance": "0.8 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Spark%20by%20Hilton%20Rochester%20University%20Area&query_place_id=ChIJ4Sx6eGBL0YkRr_K0CCl5n4E&center=43.104166299999996,-77.616878"
+    },
+    {
+      "name": "DoubleTree by Hilton Hotel Rochester",
+      "distance": "0.8 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=DoubleTree%20by%20Hilton%20Hotel%20Rochester&query_place_id=ChIJiwDPRP1K0YkRzw8uyeTr0KA&center=43.0864301,-77.6075238"
+    },
+    {
+      "name": "Best Western Rochester Marketplace Inn",
+      "distance": "0.9 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Best%20Western%20Rochester%20Marketplace%20Inn&query_place_id=ChIJP_xqXgNL0YkRFAjIpTTOjDs&center=43.0876681,-77.61317249999999"
+    },
+    {
+      "name": "Home2 Suites by Hilton Rochester Henrietta, NY",
+      "distance": "0.9 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Home2%20Suites%20by%20Hilton%20Rochester%20Henrietta%2C%20NY&query_place_id=ChIJx7PP4QJL0YkRP6WspWK5I0A&center=43.086661299999996,-77.611075"
+    },
+    {
+      "name": "Extended Stay America Suites- Rochester - Henrietta",
+      "distance": "0.9 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Extended%20Stay%20America%20Suites-%20Rochester%20-%20Henrietta&query_place_id=ChIJA9SzUvtK0YkRK4fVvsjMXUk&center=43.0848412,-77.60393359999999"
+    }
+  ],
+  "gas": [
+    {
+      "name": "Sunoco",
+      "distance": "0.8 mi",
+      "url": "https://www.google.com/maps/search/Sunoco+near+43.097992999999995%2C-77.6028745"
+    },
+    {
+      "name": "Malchos Fuel",
+      "distance": "0.8 mi",
+      "url": "https://www.google.com/maps/search/Malchos%20Fuel+near+43.097992999999995%2C-77.6028745"
+    },
+    {
+      "name": "Tops",
+      "distance": "0.8 mi",
+      "url": "https://www.google.com/maps/search/Tops+near+43.097992999999995%2C-77.6028745"
+    },
+    {
+      "name": "Mobil",
+      "distance": "1.0 mi",
+      "url": "https://www.google.com/maps/search/Mobil+near+43.097992999999995%2C-77.6028745"
+    }
+  ]
+}

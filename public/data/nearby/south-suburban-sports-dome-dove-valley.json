@@ -1,0 +1,234 @@
+{
+  "quick_bite": [
+    {
+      "name": "Chipotle Mexican Grill",
+      "distance": "0.4 mi",
+      "url": "https://www.google.com/maps/search/Chipotle%20Mexican%20Grill+near+39.590362%2C-104.84882739999999"
+    },
+    {
+      "name": "Subway",
+      "distance": "0.4 mi",
+      "url": "https://www.google.com/maps/search/Subway+near+39.590362%2C-104.84882739999999"
+    },
+    {
+      "name": "Noodles and Company",
+      "distance": "0.4 mi",
+      "url": "https://www.google.com/maps/search/Noodles%20and%20Company+near+39.590362%2C-104.84882739999999"
+    },
+    {
+      "name": "My Favorite Muffin",
+      "distance": "0.4 mi",
+      "url": "https://www.google.com/maps/search/My%20Favorite%20Muffin+near+39.590362%2C-104.84882739999999"
+    },
+    {
+      "name": "Sushi Kazu",
+      "distance": "0.4 mi",
+      "url": "https://www.google.com/maps/search/Sushi%20Kazu+near+39.590362%2C-104.84882739999999"
+    }
+  ],
+  "coffee": [
+    {
+      "name": "Starbucks Coffee Company",
+      "distance": "0.4 mi",
+      "url": "https://www.google.com/maps/search/Starbucks%20Coffee%20Company+near+39.590362%2C-104.84882739999999"
+    }
+  ],
+  "team_lunch": [
+    {
+      "name": "Pro Shop Restaurant",
+      "distance": "0.1 mi",
+      "url": "https://www.google.com/maps/search/Pro%20Shop%20Restaurant+near+39.590362%2C-104.84882739999999"
+    },
+    {
+      "name": "Avalanche Grill",
+      "distance": "0.1 mi",
+      "url": "https://www.google.com/maps/search/Avalanche%20Grill+near+39.590362%2C-104.84882739999999"
+    },
+    {
+      "name": "GiantPanda",
+      "distance": "0.3 mi",
+      "url": "https://www.google.com/maps/search/GiantPanda+near+39.590362%2C-104.84882739999999"
+    },
+    {
+      "name": "Bad-Ass Breakfast Burritos",
+      "distance": "0.4 mi",
+      "url": "https://www.google.com/maps/search/Bad-Ass%20Breakfast%20Burritos+near+39.590362%2C-104.84882739999999"
+    },
+    {
+      "name": "Big Apple Bagels",
+      "distance": "0.4 mi",
+      "url": "https://www.google.com/maps/search/Big%20Apple%20Bagels+near+39.590362%2C-104.84882739999999"
+    }
+  ],
+  "dinner": [
+    {
+      "name": "Shanghai Garden",
+      "distance": "0.3 mi",
+      "url": "https://www.google.com/maps/search/Shanghai%20Garden+near+39.590362%2C-104.84882739999999"
+    },
+    {
+      "name": "Poke House Centennial",
+      "distance": "0.4 mi",
+      "url": "https://www.google.com/maps/search/Poke%20House%20Centennial+near+39.590362%2C-104.84882739999999"
+    },
+    {
+      "name": "Dog Haus",
+      "distance": "0.4 mi",
+      "url": "https://www.google.com/maps/search/Dog%20Haus+near+39.590362%2C-104.84882739999999"
+    },
+    {
+      "name": "Snarf's Sandwiches",
+      "distance": "0.4 mi",
+      "url": "https://www.google.com/maps/search/Snarf's%20Sandwiches+near+39.590362%2C-104.84882739999999"
+    },
+    {
+      "name": "Sabor Mexican Grill",
+      "distance": "0.4 mi",
+      "url": "https://www.google.com/maps/search/Sabor%20Mexican%20Grill+near+39.590362%2C-104.84882739999999"
+    },
+    {
+      "name": "Nonna's Italian Bistro",
+      "distance": "0.4 mi",
+      "url": "https://www.google.com/maps/search/Nonna's%20Italian%20Bistro+near+39.590362%2C-104.84882739999999"
+    },
+    {
+      "name": "Alpha Charlie's Tap & Tavern",
+      "distance": "0.4 mi",
+      "url": "https://www.google.com/maps/search/Alpha%20Charlie's%20Tap%20%26%20Tavern+near+39.590362%2C-104.84882739999999"
+    }
+  ],
+  "bowling": [
+    {
+      "name": "Arapahoe Bowling Center",
+      "distance": "1.4 mi",
+      "url": "https://www.google.com/maps/search/Arapahoe%20Bowling%20Center+near+39.590362%2C-104.84882739999999"
+    },
+    {
+      "name": "Celebrity Lanes Bowling Centennial | Arcade Games Greenwood Village | Live Music | Parker & South Aurora, CO",
+      "distance": "2.4 mi",
+      "url": "https://www.google.com/maps/search/Celebrity%20Lanes%20Bowling%20Centennial%20%7C%20Arcade%20Games%20Greenwood%20Village%20%7C%20Live%20Music%20%7C%20Parker%20%26%20South%20Aurora%2C%20CO+near+39.590362%2C-104.84882739999999"
+    },
+    {
+      "name": "Lucky Strike Lone Tree",
+      "distance": "3.1 mi",
+      "url": "https://www.google.com/maps/search/Lucky%20Strike%20Lone%20Tree+near+39.590362%2C-104.84882739999999",
+      "isFar": true
+    }
+  ],
+  "arcade": [],
+  "movies": [
+    {
+      "name": "AMC Arapahoe Crossing 16",
+      "distance": "2.8 mi",
+      "url": "https://www.google.com/maps/search/AMC%20Arapahoe%20Crossing%2016+near+39.590362%2C-104.84882739999999"
+    },
+    {
+      "name": "The Landmark at Greenwood Village",
+      "distance": "3.4 mi",
+      "url": "https://www.google.com/maps/search/The%20Landmark%20at%20Greenwood%20Village+near+39.590362%2C-104.84882739999999",
+      "isFar": true
+    }
+  ],
+  "fun": [
+    {
+      "name": "Epic Escape Game Greenwood Village",
+      "distance": "1.6 mi",
+      "url": "https://www.google.com/maps/search/Epic%20Escape%20Game%20Greenwood%20Village+near+39.590362%2C-104.84882739999999"
+    },
+    {
+      "name": "The Clue Room",
+      "distance": "2.0 mi",
+      "url": "https://www.google.com/maps/search/The%20Clue%20Room+near+39.590362%2C-104.84882739999999"
+    },
+    {
+      "name": "Urban Air Trampoline and Adventure Park",
+      "distance": "2.1 mi",
+      "url": "https://www.google.com/maps/search/Urban%20Air%20Trampoline%20and%20Adventure%20Park+near+39.590362%2C-104.84882739999999"
+    },
+    {
+      "name": "Escapology Escape Rooms Centennial",
+      "distance": "2.2 mi",
+      "url": "https://www.google.com/maps/search/Escapology%20Escape%20Rooms%20Centennial+near+39.590362%2C-104.84882739999999"
+    },
+    {
+      "name": "Sandbox VR",
+      "distance": "2.5 mi",
+      "url": "https://www.google.com/maps/search/Sandbox%20VR+near+39.590362%2C-104.84882739999999"
+    },
+    {
+      "name": "The Escape Game Lone Tree",
+      "distance": "2.5 mi",
+      "url": "https://www.google.com/maps/search/The%20Escape%20Game%20Lone%20Tree+near+39.590362%2C-104.84882739999999"
+    },
+    {
+      "name": "The Sand Place Indoor Sandbox",
+      "distance": "3.9 mi",
+      "url": "https://www.google.com/maps/search/The%20Sand%20Place%20Indoor%20Sandbox+near+39.590362%2C-104.84882739999999",
+      "isFar": true
+    }
+  ],
+  "hotels": [
+    {
+      "name": "Home2 Suites by Hilton Denver South Centennial Airport",
+      "distance": "0.4 mi",
+      "url": "https://www.google.com/maps/search/Home2%20Suites%20by%20Hilton%20Denver%20South%20Centennial%20Airport+near+39.590362%2C-104.84882739999999"
+    },
+    {
+      "name": "Holiday Inn & Suites Denver Tech Center-Centennial by IHG",
+      "distance": "0.5 mi",
+      "url": "https://www.google.com/maps/search/Holiday%20Inn%20%26%20Suites%20Denver%20Tech%20Center-Centennial%20by%20IHG+near+39.590362%2C-104.84882739999999"
+    },
+    {
+      "name": "3333 s Colorado denver",
+      "distance": "0.5 mi",
+      "url": "https://www.google.com/maps/search/3333%20s%20Colorado%20denver+near+39.590362%2C-104.84882739999999"
+    },
+    {
+      "name": "Parks Residential Denver - One Bedroom Suite with Full Kitchen",
+      "distance": "0.6 mi",
+      "url": "https://www.google.com/maps/search/Parks%20Residential%20Denver%20-%20One%20Bedroom%20Suite%20with%20Full%20Kitchen+near+39.590362%2C-104.84882739999999"
+    },
+    {
+      "name": "Uptown Suites Extended Stay Denver CO – Centennial",
+      "distance": "0.6 mi",
+      "url": "https://www.google.com/maps/search/Uptown%20Suites%20Extended%20Stay%20Denver%20CO%20%E2%80%93%20Centennial+near+39.590362%2C-104.84882739999999"
+    },
+    {
+      "name": "Uptown Suites Extended Stay Denver Tech Center CO - Centennial",
+      "distance": "0.6 mi",
+      "url": "https://www.google.com/maps/search/Uptown%20Suites%20Extended%20Stay%20Denver%20Tech%20Center%20CO%20-%20Centennial+near+39.590362%2C-104.84882739999999"
+    },
+    {
+      "name": "Home 2suites",
+      "distance": "0.7 mi",
+      "url": "https://www.google.com/maps/search/Home%202suites+near+39.590362%2C-104.84882739999999"
+    }
+  ],
+  "gas": [
+    {
+      "name": "Murphy USA",
+      "distance": "0.3 mi",
+      "url": "https://www.google.com/maps/search/Murphy%20USA+near+39.590362%2C-104.84882739999999"
+    },
+    {
+      "name": "Maverik",
+      "distance": "0.4 mi",
+      "url": "https://www.google.com/maps/search/Maverik+near+39.590362%2C-104.84882739999999"
+    },
+    {
+      "name": "TWS Aviation Fuel Systems",
+      "distance": "0.6 mi",
+      "url": "https://www.google.com/maps/search/TWS%20Aviation%20Fuel%20Systems+near+39.590362%2C-104.84882739999999"
+    },
+    {
+      "name": "Murphy USA",
+      "distance": "0.7 mi",
+      "url": "https://www.google.com/maps/search/Murphy%20USA+near+39.590362%2C-104.84882739999999"
+    },
+    {
+      "name": "Gas Station",
+      "distance": "0.7 mi",
+      "url": "https://www.google.com/maps/search/Gas%20Station+near+39.590362%2C-104.84882739999999"
+    }
+  ]
+}

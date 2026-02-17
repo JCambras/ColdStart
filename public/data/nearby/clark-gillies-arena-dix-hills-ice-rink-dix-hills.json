@@ -1,0 +1,201 @@
+{
+  "quick_bite": [
+    {
+      "name": "Burger King",
+      "distance": "1.0 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Burger%20King&query_place_id=ChIJQZiZihEv6IkRo4XMsZK_o6Q&center=40.83417,-73.33710099999999"
+    },
+    {
+      "name": "Dix Hills Diner",
+      "distance": "1.0 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Dix%20Hills%20Diner&query_place_id=ChIJxRDZFhIv6IkRVCXoEYe0x28&center=40.8344349,-73.33675699999999"
+    },
+    {
+      "name": "Wayback Burgers",
+      "distance": "1.2 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Wayback%20Burgers&query_place_id=ChIJ7QOhUnMv6IkR048hXGY3tH4&center=40.8379934,-73.3301457"
+    },
+    {
+      "name": "Mozzarella's Pizza",
+      "distance": "1.2 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Mozzarella's%20Pizza&query_place_id=ChIJyc6NSXMv6IkRMK2J2Et-RWU&center=40.838611199999995,-73.3316973"
+    },
+    {
+      "name": "Taco Bell",
+      "distance": "1.4 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Taco%20Bell&query_place_id=ChIJgZ-Zt58v6IkRHsVoV0O1GIY&center=40.838918799999995,-73.3220642"
+    },
+    {
+      "name": "Dairy Queen Grill & Chill",
+      "distance": "1.5 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Dairy%20Queen%20Grill%20%26%20Chill&query_place_id=ChIJKxfmm54v6IkRXEaXRdyM8t4&center=40.8400114,-73.31947219999999"
+    }
+  ],
+  "coffee": [
+    {
+      "name": "Dunkin'",
+      "distance": "1.2 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Dunkin'&query_place_id=ChIJGSHrOg0v6IkRqZJ3clBRS6k&center=40.837598799999995,-73.33365839999999"
+    },
+    {
+      "name": "Commack Bagels Deli Market",
+      "distance": "2.2 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Commack%20Bagels%20Deli%20Market&query_place_id=ChIJ_Z44Y7wv6IkRtYDGQDO2FtM&center=40.8362536,-73.29406530000001"
+    }
+  ],
+  "team_lunch": [
+    {
+      "name": "Cantina Azul",
+      "distance": "1.0 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Cantina%20Azul&query_place_id=ChIJ8T96QwAv6IkRKy9lcp2-tJU&center=40.8334267,-73.33872339999999"
+    },
+    {
+      "name": "PG Steakhouse",
+      "distance": "1.0 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=PG%20Steakhouse&query_place_id=ChIJOcmEZBEv6IkRHlIlR2Nibzk&center=40.8339499,-73.3391754"
+    },
+    {
+      "name": "Taco Spot",
+      "distance": "1.2 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Taco%20Spot&query_place_id=ChIJl9X-u_ov6IkRwrNBvP8mRLk&center=40.8373967,-73.33216"
+    },
+    {
+      "name": "First Class Bagels",
+      "distance": "1.2 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=First%20Class%20Bagels&query_place_id=ChIJFbNF1gwv6IkRw1NAUAtPhk4&center=40.8374722,-73.3320306"
+    },
+    {
+      "name": "Bagel Boss of East Northport",
+      "distance": "1.2 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Bagel%20Boss%20of%20East%20Northport&query_place_id=ChIJVZ--0gwv6IkR_fcEIhDw_sc&center=40.8385135,-73.33206369999999"
+    }
+  ],
+  "dinner": [
+    {
+      "name": "Red Cajun and Grill",
+      "distance": "1.0 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Red%20Cajun%20and%20Grill&query_place_id=ChIJvde9K_kv6IkRSw4tT9T1YAs&center=40.8344686,-73.3357308"
+    },
+    {
+      "name": "BiVio Ristorante",
+      "distance": "1.0 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=BiVio%20Ristorante&query_place_id=ChIJGQRtFRIv6IkRZbyzczfURdE&center=40.835043899999995,-73.3368613"
+    },
+    {
+      "name": "The Foood Spot",
+      "distance": "1.1 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=The%20Foood%20Spot&query_place_id=ChIJ7fbAShIv6IkRw48AjG1aSs8&center=40.836455,-73.3336412"
+    },
+    {
+      "name": "Piccolo Mondo Ristorante",
+      "distance": "1.1 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Piccolo%20Mondo%20Ristorante&query_place_id=ChIJu96XbQ0v6IkRkEr0SQwihNg&center=40.8364524,-73.3336944"
+    },
+    {
+      "name": "Miko East Northport - Sushi & Hibachi",
+      "distance": "1.2 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Miko%20East%20Northport%20-%20Sushi%20%26%20Hibachi&query_place_id=ChIJoVaS0gwv6IkR2r4Cwt30Qak&center=40.8374139,-73.331425"
+    },
+    {
+      "name": "Twisted Greek",
+      "distance": "1.2 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Twisted%20Greek&query_place_id=ChIJkZkgaKkv6IkRp4TFY8txBxc&center=40.838215999999996,-73.3300572"
+    }
+  ],
+  "bowling": [
+    {
+      "name": "Lucky Strike Commack",
+      "distance": "2.8 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Lucky%20Strike%20Commack&query_place_id=ChIJpUkx6_ov6IkRwzJeT-zL0KY&center=40.8433168,-73.2861908"
+    },
+    {
+      "name": "Larkfield Lanes",
+      "distance": "3.5 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Larkfield%20Lanes&query_place_id=ChIJ_2KZBXYl6IkR8mgQJW8AETw&center=40.870824999999996,-73.3231588",
+      "isFar": true
+    },
+    {
+      "name": "Strike 10 Lanes Deer Park",
+      "distance": "3.9 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Strike%2010%20Lanes%20Deer%20Park&query_place_id=ChIJpfValswt6IkRrZtUIsvObyY&center=40.7639223,-73.3220242",
+      "isFar": true
+    }
+  ],
+  "arcade": [],
+  "movies": [
+    {
+      "name": "Elwood Quad",
+      "distance": "1.2 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Elwood%20Quad&query_place_id=ChIJrXPuNXMv6IkRnXclkHrjrgw&center=40.837474799999995,-73.3310106"
+    },
+    {
+      "name": "AMC Huntington Square 12",
+      "distance": "1.6 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=AMC%20Huntington%20Square%2012&query_place_id=ChIJUYp-HC8v6IkR8bJzy3mIWGY&center=40.839335899999995,-73.3147188"
+    },
+    {
+      "name": "Regal Deer Park",
+      "distance": "4.1 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Regal%20Deer%20Park&query_place_id=ChIJ72W7mMQt6IkRqeU7xNmTygM&center=40.765212999999996,-73.30582400000002",
+      "isFar": true
+    }
+  ],
+  "fun": [
+    {
+      "name": "Urban Air Trampoline and Adventure Park",
+      "distance": "1.7 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Urban%20Air%20Trampoline%20and%20Adventure%20Park&query_place_id=ChIJZ_dREfQv6IkRiA4P8RE5meg&center=40.830868599999995,-73.3605731"
+    },
+    {
+      "name": "Sgt. Paul Tuozzolo Memorial Spray Park",
+      "distance": "2.0 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Sgt.%20Paul%20Tuozzolo%20Memorial%20Spray%20Park&query_place_id=ChIJjWErkGUv6IkRAleouFdliW4&center=40.848645499999996,-73.3372922"
+    },
+    {
+      "name": "Sky Zone Trampoline Park",
+      "distance": "3.7 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Sky%20Zone%20Trampoline%20Park&query_place_id=ChIJoz2ySg8u6IkRCiMn4bZf7l0&center=40.7778901,-73.28791629999999",
+      "isFar": true
+    },
+    {
+      "name": "FUNBOX Walt Whitman",
+      "distance": "4.1 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=FUNBOX%20Walt%20Whitman&query_place_id=ChIJ_af6zEop6IkR52lNwsH_JZE&center=40.8252376,-73.4088351",
+      "isFar": true
+    }
+  ],
+  "hotels": [
+    {
+      "name": "CURRENTLY UNAVAILABLE",
+      "distance": "1.3 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=CURRENTLY%20UNAVAILABLE&query_place_id=ChIJr7T2O3Uv6IkRaWsEiQeSF6c&center=40.8381577,-73.325615"
+    },
+    {
+      "name": "Quiet Commack Cottage w/ Pool, 8 Mi to Beach!",
+      "distance": "1.8 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Quiet%20Commack%20Cottage%20w%2F%20Pool%2C%208%20Mi%20to%20Beach!&query_place_id=ChIJi4dTZ5Uv6IkRLy3K0-H3ltk&center=40.8340149,-73.3016205"
+    }
+  ],
+  "gas": [
+    {
+      "name": "Sunoco",
+      "distance": "1.1 mi",
+      "url": "https://www.google.com/maps/search/Sunoco+near+40.8205642%2C-73.33144949999999"
+    },
+    {
+      "name": "Conoco",
+      "distance": "1.2 mi",
+      "url": "https://www.google.com/maps/search/Conoco+near+40.8205642%2C-73.33144949999999"
+    },
+    {
+      "name": "Shell",
+      "distance": "1.3 mi",
+      "url": "https://www.google.com/maps/search/Shell+near+40.8205642%2C-73.33144949999999"
+    },
+    {
+      "name": "Mobil",
+      "distance": "1.8 mi",
+      "url": "https://www.google.com/maps/search/Mobil+near+40.8205642%2C-73.33144949999999"
+    }
+  ]
+}

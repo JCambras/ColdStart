@@ -1,0 +1,142 @@
+{
+  "quick_bite": [
+    {
+      "name": "Chick-fil-A",
+      "distance": "0.8 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Chick-fil-A&query_place_id=ChIJpezuw6bxxokRqUj1uyQ-U2o&center=39.97087,-75.58538999999999"
+    },
+    {
+      "name": "Chipotle Mexican Grill",
+      "distance": "1.0 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Chipotle%20Mexican%20Grill&query_place_id=ChIJ4aFTZGPxxokRM3mZdm0eXwM&center=39.9692953,-75.58764099999999"
+    },
+    {
+      "name": "Piattos pizza",
+      "distance": "1.0 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Piattos%20pizza&query_place_id=ChIJTQUhQADxxokRrwc_4FZXR9I&center=39.970112,-75.57459"
+    },
+    {
+      "name": "Sushi Awarsei LLC",
+      "distance": "1.0 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Sushi%20Awarsei%20LLC&query_place_id=ChIJmy_GGqLxxokRPZqosLvZUZA&center=39.9702803,-75.5739409"
+    }
+  ],
+  "coffee": [
+    {
+      "name": "Starbucks Coffee Company",
+      "distance": "0.7 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Starbucks%20Coffee%20Company&query_place_id=ChIJ5YV33bT2xokRhEWSOfk6Gag&center=39.9722557,-75.5857916"
+    },
+    {
+      "name": "Starbucks Coffee Company",
+      "distance": "0.8 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Starbucks%20Coffee%20Company&query_place_id=ChIJveoWAgXxxokRUsEbGwcjIZY&center=39.97153,-75.58635"
+    },
+    {
+      "name": "Panera Bread",
+      "distance": "1.0 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Panera%20Bread&query_place_id=ChIJXwqSO4DxxokRBqxLgGExaLA&center=39.970380000000006,-75.573898"
+    },
+    {
+      "name": "Dunkin'",
+      "distance": "1.1 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Dunkin'&query_place_id=ChIJndbSv37xxokRXIkcYLcz6N8&center=39.9683677,-75.5784585"
+    },
+    {
+      "name": "Starbucks Coffee Company",
+      "distance": "1.1 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Starbucks%20Coffee%20Company&query_place_id=ChIJTZPxBoHxxokRaV5t4na1qMA&center=39.96863,-75.57634999999999"
+    }
+  ],
+  "team_lunch": [
+    {
+      "name": "The Grill at Ice Line",
+      "distance": "0.1 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=The%20Grill%20at%20Ice%20Line&query_place_id=ChIJATsgH9DzxokRk4cmudhHr3k&center=39.9828614,-75.5842535"
+    },
+    {
+      "name": "Carmine's Pizzeria West Chester",
+      "distance": "0.8 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Carmine's%20Pizzeria%20West%20Chester&query_place_id=ChIJVVW-3mLxxokRcGJVSbrc6XI&center=39.9711535,-75.5870596"
+    },
+    {
+      "name": "No 1 China",
+      "distance": "1.1 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=No%201%20China&query_place_id=ChIJJ2WRvn_xxokRkgYelKE2Qno&center=39.9688421,-75.5763984"
+    }
+  ],
+  "dinner": [
+    {
+      "name": "Michi Sushi cafe",
+      "distance": "0.9 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Michi%20Sushi%20cafe&query_place_id=ChIJR5zUtHzxxokR2JD9o12gfIk&center=39.9703033,-75.5871732"
+    },
+    {
+      "name": "ALDO'S RESTAURANT & GRILL",
+      "distance": "1.0 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=ALDO'S%20RESTAURANT%20%26%20GRILL&query_place_id=ChIJrT1gt1vxxokRANeHKsnVgjQ&center=39.9692971,-75.58884619999999"
+    },
+    {
+      "name": "From the Roots Natural Smoothie Bar",
+      "distance": "1.0 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=From%20the%20Roots%20Natural%20Smoothie%20Bar&query_place_id=ChIJ64mJqyvpxokR0i0glDG1swY&center=39.9703914,-75.5758384"
+    },
+    {
+      "name": "Fusion Restaurant",
+      "distance": "1.1 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Fusion%20Restaurant&query_place_id=ChIJt7PlhH_xxokRIFznREM2GYk&center=39.9699988,-75.5744204"
+    },
+    {
+      "name": "El Comalito Mexican Taqueria",
+      "distance": "1.1 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=El%20Comalito%20Mexican%20Taqueria&query_place_id=ChIJW1GVGn_xxokR0RJJfFwy9nE&center=39.968787299999995,-75.5763439"
+    },
+    {
+      "name": "Philly Pretzel Factory",
+      "distance": "1.1 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Philly%20Pretzel%20Factory&query_place_id=ChIJM8nQGH_xxokRhV0RKGDzN1c&center=39.968485,-75.5767534"
+    }
+  ],
+  "bowling": [
+    {
+      "name": "Round1 Bowling & Arcade Exton Square",
+      "distance": "3.8 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Round1%20Bowling%20%26%20Arcade%20Exton%20Square&query_place_id=ChIJGeL7DtD1xokR1bJwY9cflLY&center=40.0307044,-75.62226009999999",
+      "isFar": true
+    }
+  ],
+  "arcade": [],
+  "movies": [
+    {
+      "name": "Movie Tavern Exton",
+      "distance": "3.5 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Movie%20Tavern%20Exton&query_place_id=ChIJ7c15xIb0xokRNBlunbW71WU&center=40.021179,-75.62800899999999",
+      "isFar": true
+    }
+  ],
+  "fun": [
+    {
+      "name": "Bates Motel Escape Rooms",
+      "distance": "1.7 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Bates%20Motel%20Escape%20Rooms&query_place_id=ChIJ743ZDWnxxokRTcfoUtCHdeI&center=39.9601067,-75.5947309"
+    }
+  ],
+  "hotels": [],
+  "gas": [
+    {
+      "name": "Pacific Pride Commercial Fueling",
+      "distance": "0.7 mi",
+      "url": "https://www.google.com/maps/search/Pacific%20Pride%20Commercial%20Fueling+near+39.9830604%2C-75.58459320000001"
+    },
+    {
+      "name": "LUKOIL",
+      "distance": "1.0 mi",
+      "url": "https://www.google.com/maps/search/LUKOIL+near+39.9830604%2C-75.58459320000001"
+    },
+    {
+      "name": "Sunoco",
+      "distance": "1.4 mi",
+      "url": "https://www.google.com/maps/search/Sunoco+near+39.9830604%2C-75.58459320000001"
+    }
+  ]
+}

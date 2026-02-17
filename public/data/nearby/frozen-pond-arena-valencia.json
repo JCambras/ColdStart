@@ -1,0 +1,169 @@
+{
+  "quick_bite": [
+    {
+      "name": "McDonald’s",
+      "distance": "2.3 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=McDonald%E2%80%99s&query_place_id=ChIJuSUxLACFNIgRajliyEBmFOk&center=40.693913599999995,-79.9732449"
+    },
+    {
+      "name": "Buffalo Wild Wings",
+      "distance": "2.3 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Buffalo%20Wild%20Wings&query_place_id=ChIJQ9-8WMqPNIgRaL8lRJ9cohc&center=40.643062,-79.939081"
+    },
+    {
+      "name": "Subway",
+      "distance": "2.3 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Subway&query_place_id=ChIJQ9-8WMqPNIgR7DGFv9wx9QA&center=40.643021999999995,-79.9393841"
+    },
+    {
+      "name": "Wendy's",
+      "distance": "2.7 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Wendy's&query_place_id=ChIJ5cbsczaONIgR3vlpmBznYD4&center=40.6377014,-79.9393129"
+    }
+  ],
+  "coffee": [
+    {
+      "name": "Dairy Barn",
+      "distance": "1.1 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Dairy%20Barn&query_place_id=ChIJk5w36JmPNIgRCOT90IifqRU&center=40.665639,-79.9537127"
+    },
+    {
+      "name": "Freya Jane’s Bakery & Cafe",
+      "distance": "1.5 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Freya%20Jane%E2%80%99s%20Bakery%20%26%20Cafe&query_place_id=ChIJJ5khl4qFNIgRSKkIrMGYXNQ&center=40.698768199999996,-79.9367601"
+    },
+    {
+      "name": "The Bloom Cafe at Quality Gardens, LLC",
+      "distance": "2.1 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=The%20Bloom%20Cafe%20at%20Quality%20Gardens%2C%20LLC&query_place_id=ChIJi54mWJyFNIgRK0nIHyij31o&center=40.6957647,-79.9675566"
+    },
+    {
+      "name": "Starbucks Coffee Company",
+      "distance": "2.5 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Starbucks%20Coffee%20Company&query_place_id=ChIJFRilKcuPNIgRctfgHAjxL9o&center=40.6408,-79.93872999999999"
+    },
+    {
+      "name": "Donut Connection",
+      "distance": "4.9 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Donut%20Connection&query_place_id=ChIJq75QB3SONIgRGnLDoI5fr1s&center=40.605923100000005,-79.9468315",
+      "isFar": true
+    }
+  ],
+  "team_lunch": [
+    {
+      "name": "Applebee's Grill + Bar",
+      "distance": "2.5 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Applebee's%20Grill%20%2B%20Bar&query_place_id=ChIJrS4a2TSONIgRXeQwPho2p0I&center=40.6396158,-79.938688"
+    },
+    {
+      "name": "Grandma Ann's Nutbread",
+      "distance": "3.8 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Grandma%20Ann's%20Nutbread&query_place_id=ChIJCex6rEGONIgRFCKfH6lRcIE&center=40.622076799999995,-79.94388049999999",
+      "isFar": true
+    }
+  ],
+  "dinner": [
+    {
+      "name": "The Scoreboard Restaurant & Lounge",
+      "distance": "0.5 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=The%20Scoreboard%20Restaurant%20%26%20Lounge&query_place_id=ChIJ-0Z7NO6PNIgRtdw9zKaOAf0&center=40.6690718,-79.93341749999999"
+    },
+    {
+      "name": "Jimi’s Sunnyside Up Diner",
+      "distance": "1.0 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Jimi%E2%80%99s%20Sunnyside%20Up%20Diner&query_place_id=ChIJhzA4y1yFNIgRwm4HJc-tWlM&center=40.6904746,-79.93771219999999"
+    },
+    {
+      "name": "Parkside Grill",
+      "distance": "1.2 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Parkside%20Grill&query_place_id=ChIJZyy9CkaPNIgR_L1lWV2kKjE&center=40.659431999999995,-79.9338281"
+    },
+    {
+      "name": "Peppino's Pizza",
+      "distance": "1.5 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Peppino's%20Pizza&query_place_id=ChIJ93ibNfiFNIgR5irOcqqi6Eo&center=40.698696,-79.9365114"
+    },
+    {
+      "name": "Briquettas Charhouse & Cocktails",
+      "distance": "1.7 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Briquettas%20Charhouse%20%26%20Cocktails&query_place_id=ChIJGWBpBqqFNIgRWuTeXPC9KBE&center=40.7006467,-79.9360779"
+    },
+    {
+      "name": "Sweet b Sweet Shop",
+      "distance": "1.8 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Sweet%20b%20Sweet%20Shop&query_place_id=ChIJOz8Ck8WPNIgRg3e5OKhg_ig&center=40.650832,-79.93451189999999"
+    }
+  ],
+  "bowling": [
+    {
+      "name": "Mars Lanes",
+      "distance": "3.8 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Mars%20Lanes&query_place_id=ChIJ_WYHEf6FNIgRs668db-1d8A&center=40.690773799999995,-80.007823",
+      "isFar": true
+    }
+  ],
+  "arcade": [],
+  "movies": [
+    {
+      "name": "The Copper Still Theater",
+      "distance": "4.3 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=The%20Copper%20Still%20Theater&query_place_id=ChIJHzBmUyORNIgRGj9ADqc_kyI&center=40.621054199999996,-79.9008597",
+      "isFar": true
+    }
+  ],
+  "fun": [
+    {
+      "name": "Adams Township Splash Pad",
+      "distance": "3.7 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Adams%20Township%20Splash%20Pad&query_place_id=ChIJESfCglWFNIgRmicu_-X5a-8&center=40.7101051,-79.99123039999999",
+      "isFar": true
+    },
+    {
+      "name": "Eagle's Nest Pavilion",
+      "distance": "6.1 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Eagle's%20Nest%20Pavilion&query_place_id=ChIJhRD5KAKJNIgR401fzFHUpRs&center=40.6194622,-80.025375",
+      "isFar": true
+    },
+    {
+      "name": "LLBean Kayak and SUP",
+      "distance": "6.3 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=LLBean%20Kayak%20and%20SUP&query_place_id=ChIJ6-FOKIeNNIgRT8ci47777Hs&center=40.597823299999995,-79.99723259999999",
+      "isFar": true
+    },
+    {
+      "name": "Gravity Hill",
+      "distance": "6.4 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Gravity%20Hill&query_place_id=ChIJZ8a2AlyJNIgRuGGStUg5lH0&center=40.6126425,-80.02567499999999",
+      "isFar": true
+    }
+  ],
+  "hotels": [
+    {
+      "name": "Villa Vista Estates",
+      "distance": "1.5 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Villa%20Vista%20Estates&query_place_id=ChIJ5betVK6aNIgRa_HYFqJdLOo&center=40.685932099999995,-79.91089099999999"
+    }
+  ],
+  "gas": [
+    {
+      "name": "BP",
+      "distance": "0.4 mi",
+      "url": "https://www.google.com/maps/search/BP+near+40.676348600000004%2C-79.9369284"
+    },
+    {
+      "name": "Amoco",
+      "distance": "0.5 mi",
+      "url": "https://www.google.com/maps/search/Amoco+near+40.676348600000004%2C-79.9369284"
+    },
+    {
+      "name": "On The Fly",
+      "distance": "1.7 mi",
+      "url": "https://www.google.com/maps/search/On%20The%20Fly+near+40.676348600000004%2C-79.9369284"
+    },
+    {
+      "name": "GetGo Café + Market & WetGo Car Wash",
+      "distance": "2.3 mi",
+      "url": "https://www.google.com/maps/search/GetGo%20Caf%C3%A9%20%2B%20Market%20%26%20WetGo%20Car%20Wash+near+40.676348600000004%2C-79.9369284"
+    }
+  ]
+}

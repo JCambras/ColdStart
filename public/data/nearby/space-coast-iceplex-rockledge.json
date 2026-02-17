@@ -1,0 +1,201 @@
+{
+  "quick_bite": [
+    {
+      "name": "Wendy's",
+      "distance": "1.1 mi",
+      "url": "https://www.google.com/maps/search/Wendy's+near+28.303310200000002%2C-80.73988849999999"
+    },
+    {
+      "name": "Taco Bell",
+      "distance": "1.1 mi",
+      "url": "https://www.google.com/maps/search/Taco%20Bell+near+28.303310200000002%2C-80.73988849999999"
+    },
+    {
+      "name": "Marco's Pizza",
+      "distance": "1.1 mi",
+      "url": "https://www.google.com/maps/search/Marco's%20Pizza+near+28.303310200000002%2C-80.73988849999999"
+    },
+    {
+      "name": "ZENSHI Handcrafted Sushi",
+      "distance": "1.2 mi",
+      "url": "https://www.google.com/maps/search/ZENSHI%20Handcrafted%20Sushi+near+28.303310200000002%2C-80.73988849999999"
+    },
+    {
+      "name": "Little Caesars Pizza",
+      "distance": "1.2 mi",
+      "url": "https://www.google.com/maps/search/Little%20Caesars%20Pizza+near+28.303310200000002%2C-80.73988849999999"
+    }
+  ],
+  "coffee": [
+    {
+      "name": "Dunkin'",
+      "distance": "0.4 mi",
+      "url": "https://www.google.com/maps/search/Dunkin'+near+28.303310200000002%2C-80.73988849999999"
+    },
+    {
+      "name": "Starbucks Coffee Company",
+      "distance": "1.2 mi",
+      "url": "https://www.google.com/maps/search/Starbucks%20Coffee%20Company+near+28.303310200000002%2C-80.73988849999999"
+    }
+  ],
+  "team_lunch": [
+    {
+      "name": "Ruby Tuesday",
+      "distance": "0.4 mi",
+      "url": "https://www.google.com/maps/search/Ruby%20Tuesday+near+28.303310200000002%2C-80.73988849999999"
+    },
+    {
+      "name": "China Wok",
+      "distance": "1.2 mi",
+      "url": "https://www.google.com/maps/search/China%20Wok+near+28.303310200000002%2C-80.73988849999999"
+    },
+    {
+      "name": "Wingstop",
+      "distance": "1.2 mi",
+      "url": "https://www.google.com/maps/search/Wingstop+near+28.303310200000002%2C-80.73988849999999"
+    },
+    {
+      "name": "Bakery 119",
+      "distance": "1.2 mi",
+      "url": "https://www.google.com/maps/search/Bakery%20119+near+28.303310200000002%2C-80.73988849999999"
+    },
+    {
+      "name": "Bill's Grills On Wheels",
+      "distance": "1.2 mi",
+      "url": "https://www.google.com/maps/search/Bill's%20Grills%20On%20Wheels+near+28.303310200000002%2C-80.73988849999999"
+    }
+  ],
+  "dinner": [
+    {
+      "name": "Casa del Tequila",
+      "distance": "0.4 mi",
+      "url": "https://www.google.com/maps/search/Casa%20del%20Tequila+near+28.303310200000002%2C-80.73988849999999"
+    },
+    {
+      "name": "Baci",
+      "distance": "0.6 mi",
+      "url": "https://www.google.com/maps/search/Baci+near+28.303310200000002%2C-80.73988849999999"
+    },
+    {
+      "name": "Da Sushi",
+      "distance": "1.0 mi",
+      "url": "https://www.google.com/maps/search/Da%20Sushi+near+28.303310200000002%2C-80.73988849999999"
+    },
+    {
+      "name": "Country Cookin Diner - Rockledge",
+      "distance": "1.1 mi",
+      "url": "https://www.google.com/maps/search/Country%20Cookin%20Diner%20-%20Rockledge+near+28.303310200000002%2C-80.73988849999999"
+    },
+    {
+      "name": "Salty Bagel",
+      "distance": "1.2 mi",
+      "url": "https://www.google.com/maps/search/Salty%20Bagel+near+28.303310200000002%2C-80.73988849999999"
+    }
+  ],
+  "bowling": [
+    {
+      "name": "Urban Air Trampoline and Adventure Park",
+      "distance": "4.5 mi",
+      "url": "https://www.google.com/maps/search/Urban%20Air%20Trampoline%20and%20Adventure%20Park+near+28.303310200000002%2C-80.73988849999999",
+      "isFar": true
+    }
+  ],
+  "arcade": [],
+  "movies": [
+    {
+      "name": "AMC Avenue 16",
+      "distance": "4.3 mi",
+      "url": "https://www.google.com/maps/search/AMC%20Avenue%2016+near+28.303310200000002%2C-80.73988849999999",
+      "isFar": true
+    },
+    {
+      "name": "GQT Merritt Square 16 IMAX",
+      "distance": "4.8 mi",
+      "url": "https://www.google.com/maps/search/GQT%20Merritt%20Square%2016%20IMAX+near+28.303310200000002%2C-80.73988849999999",
+      "isFar": true
+    }
+  ],
+  "fun": [
+    {
+      "name": "Sky Zone Trampoline Park",
+      "distance": "1.1 mi",
+      "url": "https://www.google.com/maps/search/Sky%20Zone%20Trampoline%20Park+near+28.303310200000002%2C-80.73988849999999"
+    },
+    {
+      "name": "Epic Escapes, LLC",
+      "distance": "3.7 mi",
+      "url": "https://www.google.com/maps/search/Epic%20Escapes%2C%20LLC+near+28.303310200000002%2C-80.73988849999999",
+      "isFar": true
+    },
+    {
+      "name": "DriftZone",
+      "distance": "4.8 mi",
+      "url": "https://www.google.com/maps/search/DriftZone+near+28.303310200000002%2C-80.73988849999999",
+      "isFar": true
+    }
+  ],
+  "hotels": [
+    {
+      "name": "Rockledge Rooms and Rentals",
+      "distance": "0.2 mi",
+      "url": "https://www.google.com/maps/search/Rockledge%20Rooms%20and%20Rentals+near+28.303310200000002%2C-80.73988849999999"
+    },
+    {
+      "name": "Space Coast RV Resort",
+      "distance": "0.4 mi",
+      "url": "https://www.google.com/maps/search/Space%20Coast%20RV%20Resort+near+28.303310200000002%2C-80.73988849999999"
+    },
+    {
+      "name": "Sunny State Retreat - 2 months rent minimum - Three-Bedroom Villa",
+      "distance": "0.5 mi",
+      "url": "https://www.google.com/maps/search/Sunny%20State%20Retreat%20-%202%20months%20rent%20minimum%20-%20Three-Bedroom%20Villa+near+28.303310200000002%2C-80.73988849999999"
+    },
+    {
+      "name": "Sunny State Retreat - 2 months rent minimum",
+      "distance": "0.5 mi",
+      "url": "https://www.google.com/maps/search/Sunny%20State%20Retreat%20-%202%20months%20rent%20minimum+near+28.303310200000002%2C-80.73988849999999"
+    },
+    {
+      "name": "Zen in Rockledge",
+      "distance": "0.5 mi",
+      "url": "https://www.google.com/maps/search/Zen%20in%20Rockledge+near+28.303310200000002%2C-80.73988849999999"
+    },
+    {
+      "name": "Indian Oaks",
+      "distance": "0.5 mi",
+      "url": "https://www.google.com/maps/search/Indian%20Oaks+near+28.303310200000002%2C-80.73988849999999"
+    },
+    {
+      "name": "Lovely Duplex in Rockledge. Close to I-95",
+      "distance": "0.6 mi",
+      "url": "https://www.google.com/maps/search/Lovely%20Duplex%20in%20Rockledge.%20Close%20to%20I-95+near+28.303310200000002%2C-80.73988849999999"
+    }
+  ],
+  "gas": [
+    {
+      "name": "Mobil",
+      "distance": "0.3 mi",
+      "url": "https://www.google.com/maps/search/Mobil+near+28.303310200000002%2C-80.73988849999999"
+    },
+    {
+      "name": "7-Eleven Fuel",
+      "distance": "0.5 mi",
+      "url": "https://www.google.com/maps/search/7-Eleven%20Fuel+near+28.303310200000002%2C-80.73988849999999"
+    },
+    {
+      "name": "Circle K | Gas Station",
+      "distance": "1.2 mi",
+      "url": "https://www.google.com/maps/search/Circle%20K%20%7C%20Gas%20Station+near+28.303310200000002%2C-80.73988849999999"
+    },
+    {
+      "name": "7-Eleven Fuel",
+      "distance": "1.3 mi",
+      "url": "https://www.google.com/maps/search/7-Eleven%20Fuel+near+28.303310200000002%2C-80.73988849999999"
+    },
+    {
+      "name": "REBEL",
+      "distance": "1.4 mi",
+      "url": "https://www.google.com/maps/search/REBEL+near+28.303310200000002%2C-80.73988849999999"
+    }
+  ]
+}

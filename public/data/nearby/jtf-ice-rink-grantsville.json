@@ -1,0 +1,126 @@
+{
+  "quick_bite": [
+    {
+      "name": "Subway",
+      "distance": "0.3 mi",
+      "url": "https://www.google.com/maps/search/Subway+near+39.699517400000005%2C-79.1564925"
+    },
+    {
+      "name": "Burger King",
+      "distance": "2.8 mi",
+      "url": "https://www.google.com/maps/search/Burger%20King+near+39.699517400000005%2C-79.1564925"
+    },
+    {
+      "name": "Little Caesars Pizza",
+      "distance": "2.9 mi",
+      "url": "https://www.google.com/maps/search/Little%20Caesars%20Pizza+near+39.699517400000005%2C-79.1564925"
+    },
+    {
+      "name": "PJ Fresh Marketplace",
+      "distance": "3.0 mi",
+      "url": "https://www.google.com/maps/search/PJ%20Fresh%20Marketplace+near+39.699517400000005%2C-79.1564925",
+      "isFar": true
+    },
+    {
+      "name": "Arby's",
+      "distance": "3.0 mi",
+      "url": "https://www.google.com/maps/search/Arby's+near+39.699517400000005%2C-79.1564925",
+      "isFar": true
+    }
+  ],
+  "coffee": [
+    {
+      "name": "The Travel Mug",
+      "distance": "0.1 mi",
+      "url": "https://www.google.com/maps/search/The%20Travel%20Mug+near+39.699517400000005%2C-79.1564925"
+    },
+    {
+      "name": "Dawdy Haus Coffee",
+      "distance": "4.0 mi",
+      "url": "https://www.google.com/maps/search/Dawdy%20Haus%20Coffee+near+39.699517400000005%2C-79.1564925",
+      "isFar": true
+    }
+  ],
+  "team_lunch": [
+    {
+      "name": "IHOP",
+      "distance": "2.9 mi",
+      "url": "https://www.google.com/maps/search/IHOP+near+39.699517400000005%2C-79.1564925"
+    }
+  ],
+  "dinner": [
+    {
+      "name": "Hey Pizza",
+      "distance": "0.2 mi",
+      "url": "https://www.google.com/maps/search/Hey%20Pizza+near+39.699517400000005%2C-79.1564925"
+    },
+    {
+      "name": "Casselman Creamery",
+      "distance": "0.3 mi",
+      "url": "https://www.google.com/maps/search/Casselman%20Creamery+near+39.699517400000005%2C-79.1564925"
+    },
+    {
+      "name": "Hunt Brothers Pizza",
+      "distance": "0.3 mi",
+      "url": "https://www.google.com/maps/search/Hunt%20Brothers%20Pizza+near+39.699517400000005%2C-79.1564925"
+    },
+    {
+      "name": "The Casselman Restaurant",
+      "distance": "0.3 mi",
+      "url": "https://www.google.com/maps/search/The%20Casselman%20Restaurant+near+39.699517400000005%2C-79.1564925"
+    },
+    {
+      "name": "The Mountain Grape Tavern",
+      "distance": "0.8 mi",
+      "url": "https://www.google.com/maps/search/The%20Mountain%20Grape%20Tavern+near+39.699517400000005%2C-79.1564925"
+    },
+    {
+      "name": "Penn Alps Restaurant & Craft Shop",
+      "distance": "0.8 mi",
+      "url": "https://www.google.com/maps/search/Penn%20Alps%20Restaurant%20%26%20Craft%20Shop+near+39.699517400000005%2C-79.1564925"
+    }
+  ],
+  "bowling": [],
+  "arcade": [],
+  "movies": [],
+  "fun": [],
+  "hotels": [
+    {
+      "name": "The Casselman Motel",
+      "distance": "0.3 mi",
+      "url": "https://www.google.com/maps/search/The%20Casselman%20Motel+near+39.699517400000005%2C-79.1564925"
+    },
+    {
+      "name": "The Casselman Inn",
+      "distance": "0.3 mi",
+      "url": "https://www.google.com/maps/search/The%20Casselman%20Inn+near+39.699517400000005%2C-79.1564925"
+    },
+    {
+      "name": "Casselman View Cottage",
+      "distance": "0.8 mi",
+      "url": "https://www.google.com/maps/search/Casselman%20View%20Cottage+near+39.699517400000005%2C-79.1564925"
+    }
+  ],
+  "gas": [
+    {
+      "name": "Sunoco",
+      "distance": "0.2 mi",
+      "url": "https://www.google.com/maps/search/Sunoco+near+39.699517400000005%2C-79.1564925"
+    },
+    {
+      "name": "BFS Foods and gas",
+      "distance": "0.3 mi",
+      "url": "https://www.google.com/maps/search/BFS%20Foods%20and%20gas+near+39.699517400000005%2C-79.1564925"
+    },
+    {
+      "name": "Grantsville Ag Service",
+      "distance": "0.3 mi",
+      "url": "https://www.google.com/maps/search/Grantsville%20Ag%20Service+near+39.699517400000005%2C-79.1564925"
+    },
+    {
+      "name": "Exxon",
+      "distance": "0.3 mi",
+      "url": "https://www.google.com/maps/search/Exxon+near+39.699517400000005%2C-79.1564925"
+    }
+  ]
+}

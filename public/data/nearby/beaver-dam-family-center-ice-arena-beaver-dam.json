@@ -1,0 +1,187 @@
+{
+  "quick_bite": [
+    {
+      "name": "Cousins Subs",
+      "distance": "0.1 mi",
+      "url": "https://www.google.com/maps/search/Cousins%20Subs+near+43.460189400000004%2C-88.8179569"
+    },
+    {
+      "name": "Jimmy John's",
+      "distance": "0.3 mi",
+      "url": "https://www.google.com/maps/search/Jimmy%20John's+near+43.460189400000004%2C-88.8179569"
+    },
+    {
+      "name": "Subway",
+      "distance": "0.9 mi",
+      "url": "https://www.google.com/maps/search/Subway+near+43.460189400000004%2C-88.8179569"
+    },
+    {
+      "name": "Culver’s",
+      "distance": "0.9 mi",
+      "url": "https://www.google.com/maps/search/Culver%E2%80%99s+near+43.460189400000004%2C-88.8179569"
+    }
+  ],
+  "coffee": [
+    {
+      "name": "Dunkin'",
+      "distance": "0.2 mi",
+      "url": "https://www.google.com/maps/search/Dunkin'+near+43.460189400000004%2C-88.8179569"
+    },
+    {
+      "name": "McDonald's",
+      "distance": "0.2 mi",
+      "url": "https://www.google.com/maps/search/McDonald's+near+43.460189400000004%2C-88.8179569"
+    },
+    {
+      "name": "Higher Grounds Coffee Shop",
+      "distance": "0.7 mi",
+      "url": "https://www.google.com/maps/search/Higher%20Grounds%20Coffee%20Shop+near+43.460189400000004%2C-88.8179569"
+    },
+    {
+      "name": "Caribou Coffee",
+      "distance": "0.8 mi",
+      "url": "https://www.google.com/maps/search/Caribou%20Coffee+near+43.460189400000004%2C-88.8179569"
+    }
+  ],
+  "team_lunch": [
+    {
+      "name": "Papa Johns Pizza",
+      "distance": "0.1 mi",
+      "url": "https://www.google.com/maps/search/Papa%20Johns%20Pizza+near+43.460189400000004%2C-88.8179569"
+    },
+    {
+      "name": "Casey's",
+      "distance": "0.7 mi",
+      "url": "https://www.google.com/maps/search/Casey's+near+43.460189400000004%2C-88.8179569"
+    }
+  ],
+  "dinner": [
+    {
+      "name": "Sake House beaver dam",
+      "distance": "0.1 mi",
+      "url": "https://www.google.com/maps/search/Sake%20House%20beaver%20dam+near+43.460189400000004%2C-88.8179569"
+    },
+    {
+      "name": "Walker's Diner & Bakery",
+      "distance": "0.3 mi",
+      "url": "https://www.google.com/maps/search/Walker's%20Diner%20%26%20Bakery+near+43.460189400000004%2C-88.8179569"
+    },
+    {
+      "name": "Sunview Restaurant",
+      "distance": "0.3 mi",
+      "url": "https://www.google.com/maps/search/Sunview%20Restaurant+near+43.460189400000004%2C-88.8179569"
+    },
+    {
+      "name": "Benvenuto's",
+      "distance": "0.4 mi",
+      "url": "https://www.google.com/maps/search/Benvenuto's+near+43.460189400000004%2C-88.8179569"
+    },
+    {
+      "name": "La Tapatia Mexican Grill",
+      "distance": "0.8 mi",
+      "url": "https://www.google.com/maps/search/La%20Tapatia%20Mexican%20Grill+near+43.460189400000004%2C-88.8179569"
+    },
+    {
+      "name": "Voelker's Steak House",
+      "distance": "0.8 mi",
+      "url": "https://www.google.com/maps/search/Voelker's%20Steak%20House+near+43.460189400000004%2C-88.8179569"
+    },
+    {
+      "name": "Authentic Momo And Bar",
+      "distance": "1.0 mi",
+      "url": "https://www.google.com/maps/search/Authentic%20Momo%20And%20Bar+near+43.460189400000004%2C-88.8179569"
+    }
+  ],
+  "bowling": [
+    {
+      "name": "Tower Lanes",
+      "distance": "1.2 mi",
+      "url": "https://www.google.com/maps/search/Tower%20Lanes+near+43.460189400000004%2C-88.8179569"
+    },
+    {
+      "name": "Juneau Lanes",
+      "distance": "6.9 mi",
+      "url": "https://www.google.com/maps/search/Juneau%20Lanes+near+43.460189400000004%2C-88.8179569",
+      "isFar": true
+    },
+    {
+      "name": "Dodge Entertainment Center",
+      "distance": "8.6 mi",
+      "url": "https://www.google.com/maps/search/Dodge%20Entertainment%20Center+near+43.460189400000004%2C-88.8179569",
+      "isFar": true
+    }
+  ],
+  "arcade": [],
+  "movies": [
+    {
+      "name": "Beaver Dam Cinema",
+      "distance": "1.2 mi",
+      "url": "https://www.google.com/maps/search/Beaver%20Dam%20Cinema+near+43.460189400000004%2C-88.8179569"
+    }
+  ],
+  "fun": [],
+  "hotels": [
+    {
+      "name": "Comfort Inn & Suites Beaver Dam",
+      "distance": "0.3 mi",
+      "url": "https://www.google.com/maps/search/Comfort%20Inn%20%26%20Suites%20Beaver%20Dam+near+43.460189400000004%2C-88.8179569"
+    },
+    {
+      "name": "Super 8 by Wyndham Beaver Dam",
+      "distance": "0.4 mi",
+      "url": "https://www.google.com/maps/search/Super%208%20by%20Wyndham%20Beaver%20Dam+near+43.460189400000004%2C-88.8179569"
+    },
+    {
+      "name": "Holiday Inn Express & Suites Beaver Dam by IHG",
+      "distance": "1.1 mi",
+      "url": "https://www.google.com/maps/search/Holiday%20Inn%20Express%20%26%20Suites%20Beaver%20Dam%20by%20IHG+near+43.460189400000004%2C-88.8179569"
+    },
+    {
+      "name": "AmericInn by Wyndham, Beaver Dam",
+      "distance": "1.1 mi",
+      "url": "https://www.google.com/maps/search/AmericInn%20by%20Wyndham%2C%20Beaver%20Dam+near+43.460189400000004%2C-88.8179569"
+    },
+    {
+      "name": "BirchHaven Retreat",
+      "distance": "1.4 mi",
+      "url": "https://www.google.com/maps/search/BirchHaven%20Retreat+near+43.460189400000004%2C-88.8179569"
+    },
+    {
+      "name": "Lakefront house! SUP and Kayak use included. Boat available for rent! Near golf!",
+      "distance": "1.4 mi",
+      "url": "https://www.google.com/maps/search/Lakefront%20house!%20SUP%20and%20Kayak%20use%20included.%20Boat%20available%20for%20rent!%20Near%20golf!+near+43.460189400000004%2C-88.8179569"
+    },
+    {
+      "name": "Lakefront house! SUP and Kayak use included. Near golf!",
+      "distance": "1.4 mi",
+      "url": "https://www.google.com/maps/search/Lakefront%20house!%20SUP%20and%20Kayak%20use%20included.%20Near%20golf!+near+43.460189400000004%2C-88.8179569"
+    }
+  ],
+  "gas": [
+    {
+      "name": "Mobil",
+      "distance": "0.3 mi",
+      "url": "https://www.google.com/maps/search/Mobil+near+43.460189400000004%2C-88.8179569"
+    },
+    {
+      "name": "bp",
+      "distance": "0.3 mi",
+      "url": "https://www.google.com/maps/search/bp+near+43.460189400000004%2C-88.8179569"
+    },
+    {
+      "name": "Crossroads",
+      "distance": "0.4 mi",
+      "url": "https://www.google.com/maps/search/Crossroads+near+43.460189400000004%2C-88.8179569"
+    },
+    {
+      "name": "Amoco",
+      "distance": "0.8 mi",
+      "url": "https://www.google.com/maps/search/Amoco+near+43.460189400000004%2C-88.8179569"
+    },
+    {
+      "name": "Farmer's Market",
+      "distance": "0.8 mi",
+      "url": "https://www.google.com/maps/search/Farmer's%20Market+near+43.460189400000004%2C-88.8179569"
+    }
+  ]
+}

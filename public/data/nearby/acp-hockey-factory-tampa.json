@@ -1,0 +1,233 @@
+{
+  "quick_bite": [
+    {
+      "name": "Subway",
+      "distance": "0.2 mi",
+      "url": "https://www.google.com/maps/search/Subway+near+27.963497999999998%2C-82.41263750000002"
+    },
+    {
+      "name": "Broadway Sandwich Shop",
+      "distance": "0.3 mi",
+      "url": "https://www.google.com/maps/search/Broadway%20Sandwich%20Shop+near+27.963497999999998%2C-82.41263750000002"
+    },
+    {
+      "name": "Taco Bell",
+      "distance": "0.6 mi",
+      "url": "https://www.google.com/maps/search/Taco%20Bell+near+27.963497999999998%2C-82.41263750000002"
+    },
+    {
+      "name": "Checkers",
+      "distance": "0.7 mi",
+      "url": "https://www.google.com/maps/search/Checkers+near+27.963497999999998%2C-82.41263750000002"
+    },
+    {
+      "name": "Salem's Fresh Eats",
+      "distance": "0.7 mi",
+      "url": "https://www.google.com/maps/search/Salem's%20Fresh%20Eats+near+27.963497999999998%2C-82.41263750000002"
+    },
+    {
+      "name": "Church's Texas Chicken",
+      "distance": "0.7 mi",
+      "url": "https://www.google.com/maps/search/Church's%20Texas%20Chicken+near+27.963497999999998%2C-82.41263750000002"
+    },
+    {
+      "name": "KFC",
+      "distance": "0.7 mi",
+      "url": "https://www.google.com/maps/search/KFC+near+27.963497999999998%2C-82.41263750000002"
+    }
+  ],
+  "coffee": [
+    {
+      "name": "McDonald's",
+      "distance": "0.6 mi",
+      "url": "https://www.google.com/maps/search/McDonald's+near+27.963497999999998%2C-82.41263750000002"
+    },
+    {
+      "name": "Wawa",
+      "distance": "0.6 mi",
+      "url": "https://www.google.com/maps/search/Wawa+near+27.963497999999998%2C-82.41263750000002"
+    }
+  ],
+  "team_lunch": [],
+  "dinner": [
+    {
+      "name": "El Paraiso Cafe",
+      "distance": "0.2 mi",
+      "url": "https://www.google.com/maps/search/El%20Paraiso%20Cafe+near+27.963497999999998%2C-82.41263750000002"
+    },
+    {
+      "name": "Big Daddy's Soul Food Truck",
+      "distance": "0.3 mi",
+      "url": "https://www.google.com/maps/search/Big%20Daddy's%20Soul%20Food%20Truck+near+27.963497999999998%2C-82.41263750000002"
+    },
+    {
+      "name": "The Bread Basket Deli",
+      "distance": "0.5 mi",
+      "url": "https://www.google.com/maps/search/The%20Bread%20Basket%20Deli+near+27.963497999999998%2C-82.41263750000002"
+    },
+    {
+      "name": "Coco's at 40th St. Restaurant",
+      "distance": "0.5 mi",
+      "url": "https://www.google.com/maps/search/Coco's%20at%2040th%20St.%20Restaurant+near+27.963497999999998%2C-82.41263750000002"
+    },
+    {
+      "name": "Casino Bakery",
+      "distance": "0.5 mi",
+      "url": "https://www.google.com/maps/search/Casino%20Bakery+near+27.963497999999998%2C-82.41263750000002"
+    },
+    {
+      "name": "Tampa Trucky Cheese",
+      "distance": "0.6 mi",
+      "url": "https://www.google.com/maps/search/Tampa%20Trucky%20Cheese+near+27.963497999999998%2C-82.41263750000002"
+    },
+    {
+      "name": "Ray’s Deli",
+      "distance": "0.6 mi",
+      "url": "https://www.google.com/maps/search/Ray%E2%80%99s%20Deli+near+27.963497999999998%2C-82.41263750000002"
+    }
+  ],
+  "bowling": [
+    {
+      "name": "Splitsville Tiki + Social",
+      "distance": "2.5 mi",
+      "url": "https://www.google.com/maps/search/Splitsville%20Tiki%20%2B%20Social+near+27.963497999999998%2C-82.41263750000002"
+    },
+    {
+      "name": "Brandon Crossroads Bowl",
+      "distance": "4.4 mi",
+      "url": "https://www.google.com/maps/search/Brandon%20Crossroads%20Bowl+near+27.963497999999998%2C-82.41263750000002",
+      "isFar": true
+    },
+    {
+      "name": "Pin Chasers",
+      "distance": "4.7 mi",
+      "url": "https://www.google.com/maps/search/Pin%20Chasers+near+27.963497999999998%2C-82.41263750000002",
+      "isFar": true
+    }
+  ],
+  "arcade": [],
+  "movies": [
+    {
+      "name": "Screen Door: An Ybor City Microcinema",
+      "distance": "1.7 mi",
+      "url": "https://www.google.com/maps/search/Screen%20Door%3A%20An%20Ybor%20City%20Microcinema+near+27.963497999999998%2C-82.41263750000002"
+    },
+    {
+      "name": "Tampa Theatre",
+      "distance": "3.0 mi",
+      "url": "https://www.google.com/maps/search/Tampa%20Theatre+near+27.963497999999998%2C-82.41263750000002"
+    },
+    {
+      "name": "CMX CinéBistro at Hyde Park Village",
+      "distance": "4.3 mi",
+      "url": "https://www.google.com/maps/search/CMX%20Cin%C3%A9Bistro%20at%20Hyde%20Park%20Village+near+27.963497999999998%2C-82.41263750000002",
+      "isFar": true
+    }
+  ],
+  "fun": [
+    {
+      "name": "The Great Escape Room Tampa",
+      "distance": "2.9 mi",
+      "url": "https://www.google.com/maps/search/The%20Great%20Escape%20Room%20Tampa+near+27.963497999999998%2C-82.41263750000002"
+    },
+    {
+      "name": "Escapology Escape Rooms",
+      "distance": "3.0 mi",
+      "url": "https://www.google.com/maps/search/Escapology%20Escape%20Rooms+near+27.963497999999998%2C-82.41263750000002"
+    },
+    {
+      "name": "Can You Escape?",
+      "distance": "3.1 mi",
+      "url": "https://www.google.com/maps/search/Can%20You%20Escape%3F+near+27.963497999999998%2C-82.41263750000002",
+      "isFar": true
+    },
+    {
+      "name": "City Escape Adventures",
+      "distance": "3.1 mi",
+      "url": "https://www.google.com/maps/search/City%20Escape%20Adventures+near+27.963497999999998%2C-82.41263750000002",
+      "isFar": true
+    },
+    {
+      "name": "Academy Sim Racing",
+      "distance": "3.3 mi",
+      "url": "https://www.google.com/maps/search/Academy%20Sim%20Racing+near+27.963497999999998%2C-82.41263750000002",
+      "isFar": true
+    },
+    {
+      "name": "Splash Pad",
+      "distance": "3.4 mi",
+      "url": "https://www.google.com/maps/search/Splash%20Pad+near+27.963497999999998%2C-82.41263750000002",
+      "isFar": true
+    },
+    {
+      "name": "The splash pad",
+      "distance": "3.5 mi",
+      "url": "https://www.google.com/maps/search/The%20splash%20pad+near+27.963497999999998%2C-82.41263750000002",
+      "isFar": true
+    }
+  ],
+  "hotels": [
+    {
+      "name": "Charming Tampa 3-Bedroom Haven",
+      "distance": "0.2 mi",
+      "url": "https://www.google.com/maps/search/Charming%20Tampa%203-Bedroom%20Haven+near+27.963497999999998%2C-82.41263750000002"
+    },
+    {
+      "name": "Lush Designer Home - Near The Heart Of Ybor City - Two-Bedroom House",
+      "distance": "0.3 mi",
+      "url": "https://www.google.com/maps/search/Lush%20Designer%20Home%20-%20Near%20The%20Heart%20Of%20Ybor%20City%20-%20Two-Bedroom%20House+near+27.963497999999998%2C-82.41263750000002"
+    },
+    {
+      "name": "Ybor City",
+      "distance": "0.5 mi",
+      "url": "https://www.google.com/maps/search/Ybor%20City+near+27.963497999999998%2C-82.41263750000002"
+    },
+    {
+      "name": "Men Of God 07",
+      "distance": "0.5 mi",
+      "url": "https://www.google.com/maps/search/Men%20Of%20God%2007+near+27.963497999999998%2C-82.41263750000002"
+    },
+    {
+      "name": "2-5 Minutes to Ybor and Downtown Tampa - Newly built home",
+      "distance": "0.5 mi",
+      "url": "https://www.google.com/maps/search/2-5%20Minutes%20to%20Ybor%20and%20Downtown%20Tampa%20-%20Newly%20built%20home+near+27.963497999999998%2C-82.41263750000002"
+    },
+    {
+      "name": "2-5 Minutes to Ybor and Downtown Tampa - Newly built home",
+      "distance": "0.5 mi",
+      "url": "https://www.google.com/maps/search/2-5%20Minutes%20to%20Ybor%20and%20Downtown%20Tampa%20-%20Newly%20built%20home+near+27.963497999999998%2C-82.41263750000002"
+    },
+    {
+      "name": "Heart of Tampa/Ybor/7th Ave",
+      "distance": "0.5 mi",
+      "url": "https://www.google.com/maps/search/Heart%20of%20Tampa%2FYbor%2F7th%20Ave+near+27.963497999999998%2C-82.41263750000002"
+    }
+  ],
+  "gas": [
+    {
+      "name": "Citgo Inc",
+      "distance": "0.2 mi",
+      "url": "https://www.google.com/maps/search/Citgo%20Inc+near+27.963497999999998%2C-82.41263750000002"
+    },
+    {
+      "name": "Mobil",
+      "distance": "0.7 mi",
+      "url": "https://www.google.com/maps/search/Mobil+near+27.963497999999998%2C-82.41263750000002"
+    },
+    {
+      "name": "Marathon Gas",
+      "distance": "0.7 mi",
+      "url": "https://www.google.com/maps/search/Marathon%20Gas+near+27.963497999999998%2C-82.41263750000002"
+    },
+    {
+      "name": "Shell",
+      "distance": "0.8 mi",
+      "url": "https://www.google.com/maps/search/Shell+near+27.963497999999998%2C-82.41263750000002"
+    },
+    {
+      "name": "Chevron Tampa",
+      "distance": "0.8 mi",
+      "url": "https://www.google.com/maps/search/Chevron%20Tampa+near+27.963497999999998%2C-82.41263750000002"
+    }
+  ]
+}

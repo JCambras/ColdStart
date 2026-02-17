@@ -1,0 +1,200 @@
+{
+  "quick_bite": [
+    {
+      "name": "Five Guys",
+      "distance": "0.1 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Five%20Guys&query_place_id=ChIJj8FQr1bxNIgRMi2X2oGQ9pY&center=40.4401286,-80.00268179999999"
+    },
+    {
+      "name": "Subway",
+      "distance": "0.1 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Subway&query_place_id=ChIJDzpIpVbxNIgR_mgo0UY-PIg&center=40.4401839,-80.002468"
+    },
+    {
+      "name": "Genoa Pizza & Bar",
+      "distance": "0.1 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Genoa%20Pizza%20%26%20Bar&query_place_id=ChIJCUPo71PxNIgR0DN7_HDvu2o&center=40.438928,-80.003948"
+    },
+    {
+      "name": "Moe's Southwest Grill",
+      "distance": "0.1 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Moe's%20Southwest%20Grill&query_place_id=ChIJHct_wFbxNIgRaO_h4WbplGk&center=40.4403928,-80.0020681"
+    },
+    {
+      "name": "Okane Sushi",
+      "distance": "0.1 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Okane%20Sushi&query_place_id=ChIJHcbmdZzxNIgRD6w-U-T3DWs&center=40.439647799999996,-80.0015927"
+    }
+  ],
+  "coffee": [
+    {
+      "name": "Wintergarden Coffee Bar",
+      "distance": "0.1 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Wintergarden%20Coffee%20Bar&query_place_id=ChIJLRjTCdbxNIgR0fL6t8lPpN8&center=40.4399626,-80.00371609999999"
+    },
+    {
+      "name": "Einstein Bros. Bagels",
+      "distance": "0.1 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Einstein%20Bros.%20Bagels&query_place_id=ChIJO1CPWlHxNIgR-qYYdSPvOPU&center=40.4400812,-80.0027794"
+    },
+    {
+      "name": "Starbucks Coffee Company",
+      "distance": "0.1 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Starbucks%20Coffee%20Company&query_place_id=ChIJe3ympVbxNIgRq2bl_i37GQA&center=40.440239999999996,-80.00223"
+    },
+    {
+      "name": "Dunkin'",
+      "distance": "0.1 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Dunkin'&query_place_id=ChIJLbPZlVbxNIgRUiWtcqhZS7k&center=40.4409657,-80.0030141"
+    },
+    {
+      "name": "Bluebird Kitchen",
+      "distance": "0.1 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Bluebird%20Kitchen&query_place_id=ChIJs2Jlv1bxNIgR1BjwPx-efhY&center=40.440546399999995,-80.0017735"
+    }
+  ],
+  "team_lunch": [
+    {
+      "name": "The Berg Chicken and Pizza",
+      "distance": "0.1 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=The%20Berg%20Chicken%20and%20Pizza&query_place_id=ChIJ03pgS2LxNIgRcXE3Cy_zKVE&center=40.439566899999996,-80.0029445"
+    },
+    {
+      "name": "Alta Via",
+      "distance": "0.1 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Alta%20Via&query_place_id=ChIJ7eZZsdPxNIgRVbqH4afjZv0&center=40.440411399999995,-80.0030895"
+    },
+    {
+      "name": "Cherries Diner",
+      "distance": "0.1 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Cherries%20Diner&query_place_id=ChIJPR_hvlbxNIgRGLRKCnInAKg&center=40.4410589,-80.0033144"
+    }
+  ],
+  "dinner": [
+    {
+      "name": "Ruth's Chris Steak House",
+      "distance": "0.1 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Ruth's%20Chris%20Steak%20House&query_place_id=ChIJO1CPWlHxNIgRyejwmfRjHB4&center=40.4394631,-80.0036361"
+    },
+    {
+      "name": "SoFresh Downtown - Pittsburgh",
+      "distance": "0.1 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=SoFresh%20Downtown%20-%20Pittsburgh&query_place_id=ChIJm2qSLZTxNIgR5kVTyhhdUug&center=40.4393716,-80.0032641"
+    },
+    {
+      "name": "Primanti Bros. Restaurant and Bar",
+      "distance": "0.1 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Primanti%20Bros.%20Restaurant%20and%20Bar&query_place_id=ChIJsW0CpVbxNIgRtyWHiG9FaQU&center=40.4402676,-80.0025857"
+    },
+    {
+      "name": "City Works (Market Square - Pittsburgh)",
+      "distance": "0.1 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=City%20Works%20(Market%20Square%20-%20Pittsburgh)&query_place_id=ChIJBbsKoFbxNIgRfZy_c4Gysew&center=40.440574999999995,-80.00325450000001"
+    },
+    {
+      "name": "Ephesus Pizza",
+      "distance": "0.1 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Ephesus%20Pizza&query_place_id=ChIJ4SPCK1HxNIgR1cH9Pmy4gFI&center=40.4399863,-80.002326"
+    },
+    {
+      "name": "Pizzaiolo Primo Market Square",
+      "distance": "0.1 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Pizzaiolo%20Primo%20Market%20Square&query_place_id=ChIJfc_Zu1bxNIgROLsTbfhJid0&center=40.440304999999995,-80.002113"
+    }
+  ],
+  "bowling": [
+    {
+      "name": "Bowlero Pittsburgh",
+      "distance": "3.0 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Bowlero%20Pittsburgh&query_place_id=ChIJvaZFbl72NIgRrceegYrD_-0&center=40.4277004,-80.0582517",
+      "isFar": true
+    },
+    {
+      "name": "Arsenal Bowl",
+      "distance": "3.2 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Arsenal%20Bowl&query_place_id=ChIJO8AsClLyNIgRPAgbZDmdado&center=40.471188999999995,-79.9595354",
+      "isFar": true
+    },
+    {
+      "name": "Millvale Lanes",
+      "distance": "3.3 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Millvale%20Lanes&query_place_id=ChIJF9KOFqjzNIgRZTFvyGDO8pE&center=40.481462,-79.974139",
+      "isFar": true
+    }
+  ],
+  "arcade": [],
+  "movies": [
+    {
+      "name": "Harris Theater",
+      "distance": "0.3 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Harris%20Theater&query_place_id=ChIJH1lzk1fxNIgR1ngp2bQy4K0&center=40.4430234,-79.9986995"
+    },
+    {
+      "name": "The Rangos Giant Cinema",
+      "distance": "0.9 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=The%20Rangos%20Giant%20Cinema&query_place_id=ChIJq6pqogL0NIgRsYCh106RjUY&center=40.4455834,-80.0178218"
+    },
+    {
+      "name": "Row House Cinema - Lawrenceville",
+      "distance": "3.0 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Row%20House%20Cinema%20-%20Lawrenceville&query_place_id=ChIJg3lfn03yNIgRsLsytAqbydA&center=40.469939,-79.96106499999999",
+      "isFar": true
+    }
+  ],
+  "fun": [
+    {
+      "name": "Snoopy Doghouse",
+      "distance": "0.1 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Snoopy%20Doghouse&query_place_id=ChIJswhCOEHxNIgRu4J3nA8oQNs&center=40.4397783,-80.0052343"
+    },
+    {
+      "name": "Artwalk on the Allegheny",
+      "distance": "0.3 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Artwalk%20on%20the%20Allegheny&query_place_id=ChIJdeCvagDxNIgR66ggqzxV088&center=40.4439381,-80.0046737"
+    },
+    {
+      "name": "Pittsburgh Art Olympics",
+      "distance": "0.4 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Pittsburgh%20Art%20Olympics&query_place_id=ChIJO6CSQwDxNIgRPcYs5CpsJeI&center=40.444021,-79.9992771"
+    }
+  ],
+  "hotels": [
+    {
+      "name": "Luxury Living in the Heart of Downtown Pittsburgh.",
+      "distance": "0.1 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Luxury%20Living%20in%20the%20Heart%20of%20Downtown%20Pittsburgh.&query_place_id=ChIJkSWzJ1PxNIgRRze4CiLFb54&center=40.4408837,-80.0039673"
+    },
+    {
+      "name": "Etage Executive Living",
+      "distance": "0.1 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Etage%20Executive%20Living&query_place_id=ChIJ0eLcPFTxNIgRZDM9ohLmp_Q&center=40.440922799999996,-80.0039047"
+    },
+    {
+      "name": "DASAFESPACE LLC",
+      "distance": "0.1 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=DASAFESPACE%20LLC&query_place_id=ChIJqyx855PxNIgRyLgLIZTv4Sg&center=40.439699399999995,-80.0017555"
+    }
+  ],
+  "gas": [
+    {
+      "name": "Amoco",
+      "distance": "0.7 mi",
+      "url": "https://www.google.com/maps/search/Amoco+near+40.4398%2C-80.0033802"
+    },
+    {
+      "name": "Taste Buds",
+      "distance": "0.8 mi",
+      "url": "https://www.google.com/maps/search/Taste%20Buds+near+40.4398%2C-80.0033802"
+    },
+    {
+      "name": "Sunoco",
+      "distance": "0.8 mi",
+      "url": "https://www.google.com/maps/search/Sunoco+near+40.4398%2C-80.0033802"
+    },
+    {
+      "name": "Shell",
+      "distance": "1.1 mi",
+      "url": "https://www.google.com/maps/search/Shell+near+40.4398%2C-80.0033802"
+    }
+  ]
+}

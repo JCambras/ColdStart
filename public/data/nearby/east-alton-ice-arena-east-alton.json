@@ -1,0 +1,164 @@
+{
+  "quick_bite": [
+    {
+      "name": "Sonic Drive-In",
+      "distance": "0.2 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Sonic%20Drive-In&query_place_id=ChIJN0f_WA1b34cRp2VkaOuWGLM&center=38.8829013,-90.1217068"
+    },
+    {
+      "name": "Taco Bell",
+      "distance": "0.2 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Taco%20Bell&query_place_id=ChIJFcRVWA1b34cRkuNAP7H9VX0&center=38.8834881,-90.1216055"
+    },
+    {
+      "name": "Salad Shop",
+      "distance": "0.8 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Salad%20Shop&query_place_id=ChIJczdA7KBb34cR4T3GhshniE4&center=38.8774569,-90.1049859"
+    },
+    {
+      "name": "Subway",
+      "distance": "1.0 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Subway&query_place_id=ChIJ3eVjhJdb34cR-vbPXCb9zdw&center=38.8848467,-90.10161629999999"
+    }
+  ],
+  "coffee": [
+    {
+      "name": "Cafe Creations Ice Cream and More",
+      "distance": "0.1 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Cafe%20Creations%20Ice%20Cream%20and%20More&query_place_id=ChIJE9bhz75b34cRub9zJUIIU24&center=38.8789489,-90.1187313"
+    },
+    {
+      "name": "Milton Place (Video Poker and Slots)",
+      "distance": "1.1 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Milton%20Place%20(Video%20Poker%20and%20Slots)&query_place_id=ChIJ_wXOLl1b34cRwbxd_-Ztz8A&center=38.893767499999996,-90.1332223"
+    }
+  ],
+  "team_lunch": [
+    {
+      "name": "Hunt Brothers Pizza",
+      "distance": "1.0 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Hunt%20Brothers%20Pizza&query_place_id=ChIJZ7bMVdtb34cRsTlFQ686h58&center=38.884790699999996,-90.1014616"
+    },
+    {
+      "name": "Hunt Brothers Pizza",
+      "distance": "1.1 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Hunt%20Brothers%20Pizza&query_place_id=ChIJX16_zHlb34cROYUgl-B3KMA&center=38.8935858,-90.13321049999999"
+    }
+  ],
+  "dinner": [
+    {
+      "name": "Three Crows Bakery & Cafe",
+      "distance": "0.1 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Three%20Crows%20Bakery%20%26%20Cafe&query_place_id=ChIJL3ljg11b34cRAPM_KSG4EP4&center=38.879503199999995,-90.1190926"
+    },
+    {
+      "name": "Mr Pancho's Mexican Restaurant and Grill",
+      "distance": "0.1 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Mr%20Pancho's%20Mexican%20Restaurant%20and%20Grill&query_place_id=ChIJ6eeStGdb34cRladop7bQtfk&center=38.8790013,-90.11882589999999"
+    },
+    {
+      "name": "Food A Fare",
+      "distance": "0.2 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Food%20A%20Fare&query_place_id=ChIJ65c6gMZb34cRNGcdbqBqYfk&center=38.8788318,-90.1186388"
+    },
+    {
+      "name": "Penalty Box Bar and Grill",
+      "distance": "0.2 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Penalty%20Box%20Bar%20and%20Grill&query_place_id=ChIJgdzMURJb34cRHTLZq1bFwws&center=38.8795606,-90.11625099999999"
+    },
+    {
+      "name": "Magnums Bar & Grill",
+      "distance": "0.9 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Magnums%20Bar%20%26%20Grill&query_place_id=ChIJ34j0l-Vb34cRYBno_s3HSng&center=38.8856172,-90.1039047"
+    },
+    {
+      "name": "China Star Restaurant",
+      "distance": "1.0 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=China%20Star%20Restaurant&query_place_id=ChIJcRu5m5db34cRl72SN5wtTgc&center=38.8847077,-90.10099919999999"
+    }
+  ],
+  "bowling": [
+    {
+      "name": "Bowl Haven Lanes",
+      "distance": "3.0 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Bowl%20Haven%20Lanes&query_place_id=ChIJrYeGHE1D34cR2It-GYIRIQc&center=38.916761,-90.151012"
+    },
+    {
+      "name": "Airport Plaza Bowl",
+      "distance": "3.6 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Airport%20Plaza%20Bowl&query_place_id=ChIJIZ1pMUtZ34cRsXIAOBZFm60&center=38.9029883,-90.0583305",
+      "isFar": true
+    }
+  ],
+  "arcade": [],
+  "movies": [
+    {
+      "name": "Roxana Nazarene Community Theater",
+      "distance": "3.0 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Roxana%20Nazarene%20Community%20Theater&query_place_id=ChIJX7EB17CNO4YR4ajp4xvNVGk&center=38.851112199999996,-90.0795313"
+    },
+    {
+      "name": "NCG Cinemas - Alton",
+      "distance": "4.2 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=NCG%20Cinemas%20-%20Alton&query_place_id=ChIJa55R1RZD34cRGjp1xdDu-6Q&center=38.925059999999995,-90.1744767",
+      "isFar": true
+    }
+  ],
+  "fun": [
+    {
+      "name": "Marina the Heron",
+      "distance": "1.5 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Marina%20the%20Heron&query_place_id=ChIJEbSwZQBb34cRajGg7asLVc8&center=38.8605661,-90.1271823"
+    },
+    {
+      "name": "Avis Spiralis",
+      "distance": "3.0 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Avis%20Spiralis&query_place_id=ChIJkw1EcABF34cR2nfW8OxFda0&center=38.86679,-90.1724788"
+    },
+    {
+      "name": "Grave of Robert Wadlow",
+      "distance": "3.1 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Grave%20of%20Robert%20Wadlow&query_place_id=ChIJc7zCW1ZD34cRyZGQlbK0GF4&center=38.9157809,-90.1559901",
+      "isFar": true
+    }
+  ],
+  "hotels": [
+    {
+      "name": "Lewis & Clark Motor Lodge",
+      "distance": "0.3 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Lewis%20%26%20Clark%20Motor%20Lodge&query_place_id=ChIJ1Uah3Axb34cRpIapgWq2Z3c&center=38.8788714,-90.11500199999999"
+    },
+    {
+      "name": "Alton Illinois Intimate Events Venue\\n",
+      "distance": "0.7 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Alton%20Illinois%20Intimate%20Events%20Venue%5Cn&query_place_id=ChIJi7ILG2pb34cRsvSizVSlXnA&center=38.8880005,-90.1300583"
+    },
+    {
+      "name": "Alton Illinois Intimate Events Venue",
+      "distance": "0.7 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Alton%20Illinois%20Intimate%20Events%20Venue&query_place_id=ChIJt34LG2pb34cRpAVv32jV91Y&center=38.8880043,-90.13006589999999"
+    }
+  ],
+  "gas": [
+    {
+      "name": "Circle K",
+      "distance": "0.2 mi",
+      "url": "https://www.google.com/maps/search/Circle%20K+near+38.88088210000001%2C-90.1198659"
+    },
+    {
+      "name": "Conoco",
+      "distance": "0.5 mi",
+      "url": "https://www.google.com/maps/search/Conoco+near+38.88088210000001%2C-90.1198659"
+    },
+    {
+      "name": "Vp Racing Fuels",
+      "distance": "1.3 mi",
+      "url": "https://www.google.com/maps/search/Vp%20Racing%20Fuels+near+38.88088210000001%2C-90.1198659"
+    },
+    {
+      "name": "ZX",
+      "distance": "1.3 mi",
+      "url": "https://www.google.com/maps/search/ZX+near+38.88088210000001%2C-90.1198659"
+    }
+  ]
+}

@@ -1,0 +1,209 @@
+{
+  "quick_bite": [
+    {
+      "name": "Subway",
+      "distance": "0.4 mi",
+      "url": "https://www.google.com/maps/search/Subway+near+46.8075954%2C-95.8547086"
+    },
+    {
+      "name": "Taco John's",
+      "distance": "0.8 mi",
+      "url": "https://www.google.com/maps/search/Taco%20John's+near+46.8075954%2C-95.8547086"
+    },
+    {
+      "name": "Dairy Queen Grill & Chill",
+      "distance": "0.9 mi",
+      "url": "https://www.google.com/maps/search/Dairy%20Queen%20Grill%20%26%20Chill+near+46.8075954%2C-95.8547086"
+    },
+    {
+      "name": "Papacitos Burritos Detroit Lakes",
+      "distance": "0.9 mi",
+      "url": "https://www.google.com/maps/search/Papacitos%20Burritos%20Detroit%20Lakes+near+46.8075954%2C-95.8547086"
+    },
+    {
+      "name": "Papa Murphy's | Take 'N' Bake Pizza",
+      "distance": "0.9 mi",
+      "url": "https://www.google.com/maps/search/Papa%20Murphy's%20%7C%20Take%20'N'%20Bake%20Pizza+near+46.8075954%2C-95.8547086"
+    },
+    {
+      "name": "Jimmy John's",
+      "distance": "0.9 mi",
+      "url": "https://www.google.com/maps/search/Jimmy%20John's+near+46.8075954%2C-95.8547086"
+    },
+    {
+      "name": "Jersey Mike's Subs",
+      "distance": "0.9 mi",
+      "url": "https://www.google.com/maps/search/Jersey%20Mike's%20Subs+near+46.8075954%2C-95.8547086"
+    }
+  ],
+  "coffee": [
+    {
+      "name": "Mi Cartagena Cafe",
+      "distance": "0.1 mi",
+      "url": "https://www.google.com/maps/search/Mi%20Cartagena%20Cafe+near+46.8075954%2C-95.8547086"
+    },
+    {
+      "name": "908 Coffee + Tea",
+      "distance": "0.8 mi",
+      "url": "https://www.google.com/maps/search/908%20Coffee%20%2B%20Tea+near+46.8075954%2C-95.8547086"
+    },
+    {
+      "name": "Main Street Restaurant",
+      "distance": "0.8 mi",
+      "url": "https://www.google.com/maps/search/Main%20Street%20Restaurant+near+46.8075954%2C-95.8547086"
+    },
+    {
+      "name": "La Barista",
+      "distance": "0.8 mi",
+      "url": "https://www.google.com/maps/search/La%20Barista+near+46.8075954%2C-95.8547086"
+    }
+  ],
+  "team_lunch": [
+    {
+      "name": "El Loro Mexican Restaurant",
+      "distance": "0.2 mi",
+      "url": "https://www.google.com/maps/search/El%20Loro%20Mexican%20Restaurant+near+46.8075954%2C-95.8547086"
+    },
+    {
+      "name": "Hub 41",
+      "distance": "0.4 mi",
+      "url": "https://www.google.com/maps/search/Hub%2041+near+46.8075954%2C-95.8547086"
+    },
+    {
+      "name": "Chinese Dragon",
+      "distance": "0.8 mi",
+      "url": "https://www.google.com/maps/search/Chinese%20Dragon+near+46.8075954%2C-95.8547086"
+    },
+    {
+      "name": "Midday",
+      "distance": "0.9 mi",
+      "url": "https://www.google.com/maps/search/Midday+near+46.8075954%2C-95.8547086"
+    }
+  ],
+  "dinner": [
+    {
+      "name": "Zorbaz",
+      "distance": "0.2 mi",
+      "url": "https://www.google.com/maps/search/Zorbaz+near+46.8075954%2C-95.8547086"
+    },
+    {
+      "name": "Lakeside Tavern & Brewery",
+      "distance": "0.3 mi",
+      "url": "https://www.google.com/maps/search/Lakeside%20Tavern%20%26%20Brewery+near+46.8075954%2C-95.8547086"
+    },
+    {
+      "name": "Don Pablo's Family Mexican Restaurant",
+      "distance": "0.8 mi",
+      "url": "https://www.google.com/maps/search/Don%20Pablo's%20Family%20Mexican%20Restaurant+near+46.8075954%2C-95.8547086"
+    },
+    {
+      "name": "Roasted Pub and Eatery",
+      "distance": "0.9 mi",
+      "url": "https://www.google.com/maps/search/Roasted%20Pub%20and%20Eatery+near+46.8075954%2C-95.8547086"
+    },
+    {
+      "name": "McKinley Nutrition",
+      "distance": "0.9 mi",
+      "url": "https://www.google.com/maps/search/McKinley%20Nutrition+near+46.8075954%2C-95.8547086"
+    }
+  ],
+  "bowling": [
+    {
+      "name": "Zee Lanes",
+      "distance": "9.2 mi",
+      "url": "https://www.google.com/maps/search/Zee%20Lanes+near+46.8075954%2C-95.8547086",
+      "isFar": true
+    }
+  ],
+  "arcade": [],
+  "movies": [
+    {
+      "name": "Cinemagic Washington Square 7",
+      "distance": "0.8 mi",
+      "url": "https://www.google.com/maps/search/Cinemagic%20Washington%20Square%207+near+46.8075954%2C-95.8547086"
+    }
+  ],
+  "fun": [
+    {
+      "name": "Ultima Gaming",
+      "distance": "0.8 mi",
+      "url": "https://www.google.com/maps/search/Ultima%20Gaming+near+46.8075954%2C-95.8547086"
+    },
+    {
+      "name": "Charlie's Ottertail Tubing",
+      "distance": "7.5 mi",
+      "url": "https://www.google.com/maps/search/Charlie's%20Ottertail%20Tubing+near+46.8075954%2C-95.8547086",
+      "isFar": true
+    },
+    {
+      "name": "K & K Tubing",
+      "distance": "7.5 mi",
+      "url": "https://www.google.com/maps/search/K%20%26%20K%20Tubing+near+46.8075954%2C-95.8547086",
+      "isFar": true
+    }
+  ],
+  "hotels": [
+    {
+      "name": "3 Bed Lake Home, Beach Vibes, Located on DL Strip!",
+      "distance": "0.1 mi",
+      "url": "https://www.google.com/maps/search/3%20Bed%20Lake%20Home%2C%20Beach%20Vibes%2C%20Located%20on%20DL%20Strip!+near+46.8075954%2C-95.8547086"
+    },
+    {
+      "name": "Lakes Inn",
+      "distance": "0.1 mi",
+      "url": "https://www.google.com/maps/search/Lakes%20Inn+near+46.8075954%2C-95.8547086"
+    },
+    {
+      "name": "American Legion Campground",
+      "distance": "0.3 mi",
+      "url": "https://www.google.com/maps/search/American%20Legion%20Campground+near+46.8075954%2C-95.8547086"
+    },
+    {
+      "name": "Beachfront Haven",
+      "distance": "0.3 mi",
+      "url": "https://www.google.com/maps/search/Beachfront%20Haven+near+46.8075954%2C-95.8547086"
+    },
+    {
+      "name": "2990 ft² House ∙ 5 bedrooms ∙ 10 guests",
+      "distance": "0.3 mi",
+      "url": "https://www.google.com/maps/search/2990%20ft%C2%B2%20House%20%E2%88%99%205%20bedrooms%20%E2%88%99%2010%20guests+near+46.8075954%2C-95.8547086"
+    },
+    {
+      "name": "Spacious Detroit Lakes Home: Walk to Downtown!",
+      "distance": "0.3 mi",
+      "url": "https://www.google.com/maps/search/Spacious%20Detroit%20Lakes%20Home%3A%20Walk%20to%20Downtown!+near+46.8075954%2C-95.8547086"
+    },
+    {
+      "name": "Spacious Detroit Lakes Home: Walk to Downtown!",
+      "distance": "0.3 mi",
+      "url": "https://www.google.com/maps/search/Spacious%20Detroit%20Lakes%20Home%3A%20Walk%20to%20Downtown!+near+46.8075954%2C-95.8547086"
+    }
+  ],
+  "gas": [
+    {
+      "name": "M & H Gas Station",
+      "distance": "0.5 mi",
+      "url": "https://www.google.com/maps/search/M%20%26%20H%20Gas%20Station+near+46.8075954%2C-95.8547086"
+    },
+    {
+      "name": "Holiday Gas Station",
+      "distance": "0.9 mi",
+      "url": "https://www.google.com/maps/search/Holiday%20Gas%20Station+near+46.8075954%2C-95.8547086"
+    },
+    {
+      "name": "Sinclair Gas Station",
+      "distance": "1.0 mi",
+      "url": "https://www.google.com/maps/search/Sinclair%20Gas%20Station+near+46.8075954%2C-95.8547086"
+    },
+    {
+      "name": "ARCO",
+      "distance": "1.4 mi",
+      "url": "https://www.google.com/maps/search/ARCO+near+46.8075954%2C-95.8547086"
+    },
+    {
+      "name": "County 6 Gas & Bait",
+      "distance": "1.4 mi",
+      "url": "https://www.google.com/maps/search/County%206%20Gas%20%26%20Bait+near+46.8075954%2C-95.8547086"
+    }
+  ]
+}

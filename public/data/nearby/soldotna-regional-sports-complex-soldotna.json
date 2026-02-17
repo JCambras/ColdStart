@@ -1,0 +1,187 @@
+{
+  "quick_bite": [
+    {
+      "name": "Kiki Sushi",
+      "distance": "0.6 mi",
+      "url": "https://www.google.com/maps/search/Kiki%20Sushi+near+60.476205699999994%2C-151.1022744"
+    },
+    {
+      "name": "Pizza Boys",
+      "distance": "0.8 mi",
+      "url": "https://www.google.com/maps/search/Pizza%20Boys+near+60.476205699999994%2C-151.1022744"
+    },
+    {
+      "name": "Dairy Queen Grill & Chill",
+      "distance": "0.9 mi",
+      "url": "https://www.google.com/maps/search/Dairy%20Queen%20Grill%20%26%20Chill+near+60.476205699999994%2C-151.1022744"
+    },
+    {
+      "name": "Ak Big Sipper",
+      "distance": "1.0 mi",
+      "url": "https://www.google.com/maps/search/Ak%20Big%20Sipper+near+60.476205699999994%2C-151.1022744"
+    },
+    {
+      "name": "Papa Murphy's | Take 'N' Bake Pizza",
+      "distance": "1.0 mi",
+      "url": "https://www.google.com/maps/search/Papa%20Murphy's%20%7C%20Take%20'N'%20Bake%20Pizza+near+60.476205699999994%2C-151.1022744"
+    }
+  ],
+  "coffee": [
+    {
+      "name": "Where It's At! mindful food & drink",
+      "distance": "0.6 mi",
+      "url": "https://www.google.com/maps/search/Where%20It's%20At!%20mindful%20food%20%26%20drink+near+60.476205699999994%2C-151.1022744"
+    },
+    {
+      "name": "Hooked On the Bean",
+      "distance": "0.7 mi",
+      "url": "https://www.google.com/maps/search/Hooked%20On%20the%20Bean+near+60.476205699999994%2C-151.1022744"
+    },
+    {
+      "name": "Mel's Cafe Soldotna",
+      "distance": "0.7 mi",
+      "url": "https://www.google.com/maps/search/Mel's%20Cafe%20Soldotna+near+60.476205699999994%2C-151.1022744"
+    },
+    {
+      "name": "Kaladi Brothers Coffee",
+      "distance": "0.8 mi",
+      "url": "https://www.google.com/maps/search/Kaladi%20Brothers%20Coffee+near+60.476205699999994%2C-151.1022744"
+    },
+    {
+      "name": "Fine Thyme Cafe",
+      "distance": "0.9 mi",
+      "url": "https://www.google.com/maps/search/Fine%20Thyme%20Cafe+near+60.476205699999994%2C-151.1022744"
+    },
+    {
+      "name": "Everything Bagels",
+      "distance": "0.9 mi",
+      "url": "https://www.google.com/maps/search/Everything%20Bagels+near+60.476205699999994%2C-151.1022744"
+    },
+    {
+      "name": "Java Junction Too",
+      "distance": "1.0 mi",
+      "url": "https://www.google.com/maps/search/Java%20Junction%20Too+near+60.476205699999994%2C-151.1022744"
+    }
+  ],
+  "team_lunch": [
+    {
+      "name": "The Catch Restaurant and Bar",
+      "distance": "0.8 mi",
+      "url": "https://www.google.com/maps/search/The%20Catch%20Restaurant%20and%20Bar+near+60.476205699999994%2C-151.1022744"
+    },
+    {
+      "name": "China Sea Restaurant",
+      "distance": "1.1 mi",
+      "url": "https://www.google.com/maps/search/China%20Sea%20Restaurant+near+60.476205699999994%2C-151.1022744"
+    }
+  ],
+  "dinner": [
+    {
+      "name": "The Goods + Sustainable Grocery",
+      "distance": "0.6 mi",
+      "url": "https://www.google.com/maps/search/The%20Goods%20%2B%20Sustainable%20Grocery+near+60.476205699999994%2C-151.1022744"
+    },
+    {
+      "name": "Slice Box",
+      "distance": "0.8 mi",
+      "url": "https://www.google.com/maps/search/Slice%20Box+near+60.476205699999994%2C-151.1022744"
+    },
+    {
+      "name": "J.P. Ramen",
+      "distance": "0.9 mi",
+      "url": "https://www.google.com/maps/search/J.P.%20Ramen+near+60.476205699999994%2C-151.1022744"
+    },
+    {
+      "name": "Pad Thai Café",
+      "distance": "1.1 mi",
+      "url": "https://www.google.com/maps/search/Pad%20Thai%20Caf%C3%A9+near+60.476205699999994%2C-151.1022744"
+    }
+  ],
+  "bowling": [],
+  "arcade": [],
+  "movies": [
+    {
+      "name": "Orca Theater",
+      "distance": "2.2 mi",
+      "url": "https://www.google.com/maps/search/Orca%20Theater+near+60.476205699999994%2C-151.1022744"
+    },
+    {
+      "name": "Kenai Cinemas",
+      "distance": "7.5 mi",
+      "url": "https://www.google.com/maps/search/Kenai%20Cinemas+near+60.476205699999994%2C-151.1022744",
+      "isFar": true
+    }
+  ],
+  "fun": [
+    {
+      "name": "Jumpin Junction Family Fun Center",
+      "distance": "3.1 mi",
+      "url": "https://www.google.com/maps/search/Jumpin%20Junction%20Family%20Fun%20Center+near+60.476205699999994%2C-151.1022744",
+      "isFar": true
+    }
+  ],
+  "hotels": [
+    {
+      "name": "A River's Edge Bed & Breakfast",
+      "distance": "0.4 mi",
+      "url": "https://www.google.com/maps/search/A%20River's%20Edge%20Bed%20%26%20Breakfast+near+60.476205699999994%2C-151.1022744"
+    },
+    {
+      "name": "Best Location on the Kenai River!",
+      "distance": "0.5 mi",
+      "url": "https://www.google.com/maps/search/Best%20Location%20on%20the%20Kenai%20River!+near+60.476205699999994%2C-151.1022744"
+    },
+    {
+      "name": "Holly House Bed & Breakfast",
+      "distance": "0.5 mi",
+      "url": "https://www.google.com/maps/search/Holly%20House%20Bed%20%26%20Breakfast+near+60.476205699999994%2C-151.1022744"
+    },
+    {
+      "name": "Riverview Hideaway",
+      "distance": "0.5 mi",
+      "url": "https://www.google.com/maps/search/Riverview%20Hideaway+near+60.476205699999994%2C-151.1022744"
+    },
+    {
+      "name": "Riverfront Basement Apartment with Access to Kenai River Fishing",
+      "distance": "0.5 mi",
+      "url": "https://www.google.com/maps/search/Riverfront%20Basement%20Apartment%20with%20Access%20to%20Kenai%20River%20Fishing+near+60.476205699999994%2C-151.1022744"
+    },
+    {
+      "name": "Kenai River Views Access: Soldotna Apartment!",
+      "distance": "0.6 mi",
+      "url": "https://www.google.com/maps/search/Kenai%20River%20Views%20Access%3A%20Soldotna%20Apartment!+near+60.476205699999994%2C-151.1022744"
+    },
+    {
+      "name": "The best location on the Kenai River!",
+      "distance": "0.6 mi",
+      "url": "https://www.google.com/maps/search/The%20best%20location%20on%20the%20Kenai%20River!+near+60.476205699999994%2C-151.1022744"
+    }
+  ],
+  "gas": [
+    {
+      "name": "2GO Tesoro",
+      "distance": "1.3 mi",
+      "url": "https://www.google.com/maps/search/2GO%20Tesoro+near+60.476205699999994%2C-151.1022744"
+    },
+    {
+      "name": "Speedway Express",
+      "distance": "1.3 mi",
+      "url": "https://www.google.com/maps/search/Speedway%20Express+near+60.476205699999994%2C-151.1022744"
+    },
+    {
+      "name": "Speedway Express",
+      "distance": "1.7 mi",
+      "url": "https://www.google.com/maps/search/Speedway%20Express+near+60.476205699999994%2C-151.1022744"
+    },
+    {
+      "name": "Tesoro",
+      "distance": "1.7 mi",
+      "url": "https://www.google.com/maps/search/Tesoro+near+60.476205699999994%2C-151.1022744"
+    },
+    {
+      "name": "Circle K Gas Station",
+      "distance": "1.8 mi",
+      "url": "https://www.google.com/maps/search/Circle%20K%20Gas%20Station+near+60.476205699999994%2C-151.1022744"
+    }
+  ]
+}

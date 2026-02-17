@@ -1,0 +1,188 @@
+{
+  "quick_bite": [
+    {
+      "name": "Dan's Pizza",
+      "distance": "0.1 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Dan's%20Pizza&query_place_id=ChIJ6ZbBmKpRDogRg-7iNJmkROM&center=41.785991100000004,-88.0510663"
+    },
+    {
+      "name": "Low Carb Kitchen",
+      "distance": "0.9 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Low%20Carb%20Kitchen&query_place_id=ChIJ8TVoehdPDogR9jzLicNHAuk&center=41.7931278,-88.0374307"
+    },
+    {
+      "name": "Taco Bell / KFC",
+      "distance": "1.0 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Taco%20Bell%20%2F%20KFC&query_place_id=ChIJ_8k1KSBRDogRFJq5LaJIbkA&center=41.7863895,-88.07082299999999"
+    },
+    {
+      "name": "KFC",
+      "distance": "1.0 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=KFC&query_place_id=ChIJgThpMyBRDogRN3ueQ3UuV_U&center=41.786393499999996,-88.07083759999999"
+    },
+    {
+      "name": "Jersey Mike's Subs",
+      "distance": "1.1 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Jersey%20Mike's%20Subs&query_place_id=ChIJC3wkgB9RDogRB9nJy9h30hE&center=41.787244799999996,-88.0727929"
+    }
+  ],
+  "coffee": [
+    {
+      "name": "Mud And Char",
+      "distance": "0.1 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Mud%20And%20Char&query_place_id=ChIJt4f4-BlRDogRtNyNq2nRV0M&center=41.7859608,-88.0511606"
+    },
+    {
+      "name": "Dunkin'",
+      "distance": "1.1 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Dunkin'&query_place_id=ChIJ04Z19yBRDogRdR02PBURnzg&center=41.7863999,-88.0726722"
+    }
+  ],
+  "team_lunch": [
+    {
+      "name": "534 The Market",
+      "distance": "0.7 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=534%20The%20Market&query_place_id=ChIJ0WjzxaBRDogRoM19L6VHdsU&center=41.7812805,-88.06226079999999"
+    },
+    {
+      "name": "Dicapos Italian Cuisine",
+      "distance": "0.9 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Dicapos%20Italian%20Cuisine&query_place_id=ChIJq4RxBwDND4gRiqSUuPkM6gk&center=41.7931251,-88.03738779999999"
+    },
+    {
+      "name": "The Leavened Gem",
+      "distance": "0.9 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=The%20Leavened%20Gem&query_place_id=ChIJAcAnosBRDogRgHrWnVhstcg&center=41.786099,-88.0337709"
+    },
+    {
+      "name": "Papa Johns Pizza",
+      "distance": "1.1 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Papa%20Johns%20Pizza&query_place_id=ChIJ89ACTSBRDogRSEMTdH2ZKQM&center=41.7873003,-88.07320209999999"
+    },
+    {
+      "name": "Lantmännen Unibake",
+      "distance": "1.4 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Lantm%C3%A4nnen%20Unibake&query_place_id=ChIJq6qaSztRDogRUfTkwZal9KQ&center=41.7945306,-88.07639220000002"
+    }
+  ],
+  "dinner": [
+    {
+      "name": "mojo's east coast eats",
+      "distance": "0.1 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=mojo's%20east%20coast%20eats&query_place_id=ChIJ8-vHcwBRDogRaREURlrXGd0&center=41.7859236,-88.0515696"
+    },
+    {
+      "name": "Sharko'S BBQ",
+      "distance": "0.7 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Sharko'S%20BBQ&query_place_id=ChIJw6Lvk2hRDogRwjXnFjcm_Qs&center=41.784253199999995,-88.0381045"
+    },
+    {
+      "name": "Los Dos Mexican Cuisine",
+      "distance": "0.7 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Los%20Dos%20Mexican%20Cuisine&query_place_id=ChIJZ7Dc2LJRDogRpyc3-PhYhVg&center=41.7838996,-88.0380828"
+    },
+    {
+      "name": "Thai First",
+      "distance": "0.7 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Thai%20First&query_place_id=ChIJydLhMrNRDogR6OK1keIGcPU&center=41.783837,-88.03798909999999"
+    },
+    {
+      "name": "Carnivore & The Queen",
+      "distance": "0.7 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Carnivore%20%26%20The%20Queen&query_place_id=ChIJZUyujrxRDogR5RtAqXqcFHw&center=41.78384260000001,-88.0376362"
+    },
+    {
+      "name": "Taco Dale Lisle",
+      "distance": "1.1 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Taco%20Dale%20Lisle&query_place_id=ChIJ1V7OqSFRDogRvjB5Xk9s2tg&center=41.7872457,-88.0729607"
+    }
+  ],
+  "bowling": [
+    {
+      "name": "Lisle Lanes",
+      "distance": "1.5 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Lisle%20Lanes&query_place_id=ChIJGQluGjtRDogR4k7HUwpJEmI&center=41.796040999999995,-88.07761599999999"
+    },
+    {
+      "name": "Tivoli Bowl",
+      "distance": "2.3 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Tivoli%20Bowl&query_place_id=ChIJk5Ha-CZODogRESKbSHzGsFk&center=41.7958624,-88.0090336"
+    },
+    {
+      "name": "Bowlero Woodridge",
+      "distance": "2.9 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Bowlero%20Woodridge&query_place_id=ChIJzzHEPw9QDogR6TDVDOYNffs&center=41.749751599999996,-88.0232453"
+    }
+  ],
+  "arcade": [],
+  "movies": [
+    {
+      "name": "Classic Cinemas Tivoli Theatre",
+      "distance": "2.3 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Classic%20Cinemas%20Tivoli%20Theatre&query_place_id=ChIJK056_iZODogR9Xg7bmQBT-Q&center=41.795958899999995,-88.0091458"
+    },
+    {
+      "name": "Hollywood Blvd Cinema",
+      "distance": "3.1 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Hollywood%20Blvd%20Cinema&query_place_id=ChIJgXFzngNQDogRQQz8Mf38f68&center=41.7492557,-88.0166553",
+      "isFar": true
+    },
+    {
+      "name": "Studio Movie Grill",
+      "distance": "3.9 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Studio%20Movie%20Grill&query_place_id=ChIJH5yyjQRUDogRkFzDCORJA0k&center=41.831725,-88.0969528",
+      "isFar": true
+    }
+  ],
+  "fun": [
+    {
+      "name": "Outdoor Water Park",
+      "distance": "1.5 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Outdoor%20Water%20Park&query_place_id=ChIJ4QJjlvJRDogRJ3iQ-d_0_zU&center=41.7651932,-88.0570943"
+    },
+    {
+      "name": "Sea Lion Aquatic Park",
+      "distance": "1.7 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Sea%20Lion%20Aquatic%20Park&query_place_id=ChIJdxBnwS5RDogRVt49EXnL61A&center=41.790504,-88.08368999999999"
+    },
+    {
+      "name": "Vivid Creatures: Spectra",
+      "distance": "1.8 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Vivid%20Creatures%3A%20Spectra&query_place_id=ChIJWyMQaABRDogRp7fd88IIPbY&center=41.811213599999995,-88.0598637"
+    },
+    {
+      "name": "Vivid Creatures: Generosity",
+      "distance": "2.0 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Vivid%20Creatures%3A%20Generosity&query_place_id=ChIJfdVAJgBRDogRHMKDB6TtWl0&center=41.8128871,-88.0684541"
+    }
+  ],
+  "hotels": [
+    {
+      "name": "WoodSpring Suites Downers Grove - Chicago",
+      "distance": "1.2 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=WoodSpring%20Suites%20Downers%20Grove%20-%20Chicago&query_place_id=ChIJ_6lWckNRDogRiPPyKYuC5s0&center=41.803638199999995,-88.05166899999999"
+    }
+  ],
+  "gas": [
+    {
+      "name": "bp",
+      "distance": "0.7 mi",
+      "url": "https://www.google.com/maps/search/bp+near+41.786323499999995%2C-88.0512785"
+    },
+    {
+      "name": "Shell",
+      "distance": "1.2 mi",
+      "url": "https://www.google.com/maps/search/Shell+near+41.786323499999995%2C-88.0512785"
+    },
+    {
+      "name": "Circle K | Gas Station",
+      "distance": "1.2 mi",
+      "url": "https://www.google.com/maps/search/Circle%20K%20%7C%20Gas%20Station+near+41.786323499999995%2C-88.0512785"
+    },
+    {
+      "name": "Moble Gas Station",
+      "distance": "1.2 mi",
+      "url": "https://www.google.com/maps/search/Moble%20Gas%20Station+near+41.786323499999995%2C-88.0512785"
+    }
+  ]
+}

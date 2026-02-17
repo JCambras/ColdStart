@@ -1,0 +1,187 @@
+{
+  "quick_bite": [
+    {
+      "name": "Little Caesars Pizza",
+      "distance": "0.2 mi",
+      "url": "https://www.google.com/maps/search/Little%20Caesars%20Pizza+near+30.6182067%2C-87.9075362"
+    },
+    {
+      "name": "ZENSHI Handcrafted Sushi",
+      "distance": "0.9 mi",
+      "url": "https://www.google.com/maps/search/ZENSHI%20Handcrafted%20Sushi+near+30.6182067%2C-87.9075362"
+    },
+    {
+      "name": "Marco's Pizza",
+      "distance": "1.0 mi",
+      "url": "https://www.google.com/maps/search/Marco's%20Pizza+near+30.6182067%2C-87.9075362"
+    },
+    {
+      "name": "Moe's Original BBQ",
+      "distance": "1.0 mi",
+      "url": "https://www.google.com/maps/search/Moe's%20Original%20BBQ+near+30.6182067%2C-87.9075362"
+    },
+    {
+      "name": "Manci's Antique Club",
+      "distance": "1.1 mi",
+      "url": "https://www.google.com/maps/search/Manci's%20Antique%20Club+near+30.6182067%2C-87.9075362"
+    }
+  ],
+  "coffee": [
+    {
+      "name": "Glazed Doughnuts",
+      "distance": "0.8 mi",
+      "url": "https://www.google.com/maps/search/Glazed%20Doughnuts+near+30.6182067%2C-87.9075362"
+    },
+    {
+      "name": "Soul Caffeine",
+      "distance": "1.0 mi",
+      "url": "https://www.google.com/maps/search/Soul%20Caffeine+near+30.6182067%2C-87.9075362"
+    }
+  ],
+  "team_lunch": [
+    {
+      "name": "Dragon City",
+      "distance": "0.8 mi",
+      "url": "https://www.google.com/maps/search/Dragon%20City+near+30.6182067%2C-87.9075362"
+    },
+    {
+      "name": "LA Kitchens",
+      "distance": "1.0 mi",
+      "url": "https://www.google.com/maps/search/LA%20Kitchens+near+30.6182067%2C-87.9075362"
+    }
+  ],
+  "dinner": [
+    {
+      "name": "Champy's Famous Fried Chicken",
+      "distance": "0.2 mi",
+      "url": "https://www.google.com/maps/search/Champy's%20Famous%20Fried%20Chicken+near+30.6182067%2C-87.9075362"
+    },
+    {
+      "name": "Walmart Bakery",
+      "distance": "0.5 mi",
+      "url": "https://www.google.com/maps/search/Walmart%20Bakery+near+30.6182067%2C-87.9075362"
+    },
+    {
+      "name": "Annie June's Micro-Bakery",
+      "distance": "0.7 mi",
+      "url": "https://www.google.com/maps/search/Annie%20June's%20Micro-Bakery+near+30.6182067%2C-87.9075362"
+    },
+    {
+      "name": "Dragon Seafood",
+      "distance": "0.8 mi",
+      "url": "https://www.google.com/maps/search/Dragon%20Seafood+near+30.6182067%2C-87.9075362"
+    },
+    {
+      "name": "Lennys Grill & Subs",
+      "distance": "0.9 mi",
+      "url": "https://www.google.com/maps/search/Lennys%20Grill%20%26%20Subs+near+30.6182067%2C-87.9075362"
+    },
+    {
+      "name": "Couture Cakes",
+      "distance": "0.9 mi",
+      "url": "https://www.google.com/maps/search/Couture%20Cakes+near+30.6182067%2C-87.9075362"
+    },
+    {
+      "name": "China Chef Restaurant",
+      "distance": "1.0 mi",
+      "url": "https://www.google.com/maps/search/China%20Chef%20Restaurant+near+30.6182067%2C-87.9075362"
+    }
+  ],
+  "bowling": [],
+  "arcade": [],
+  "movies": [
+    {
+      "name": "AMC CLASSIC Jubilee Square 12",
+      "distance": "2.4 mi",
+      "url": "https://www.google.com/maps/search/AMC%20CLASSIC%20Jubilee%20Square%2012+near+30.6182067%2C-87.9075362"
+    }
+  ],
+  "fun": [
+    {
+      "name": "Urban Air Trampoline and Adventure Park",
+      "distance": "2.8 mi",
+      "url": "https://www.google.com/maps/search/Urban%20Air%20Trampoline%20and%20Adventure%20Park+near+30.6182067%2C-87.9075362"
+    },
+    {
+      "name": "Urban Air Spanish Fort, AL",
+      "distance": "2.8 mi",
+      "url": "https://www.google.com/maps/search/Urban%20Air%20Spanish%20Fort%2C%20AL+near+30.6182067%2C-87.9075362"
+    },
+    {
+      "name": "VRium Robotics & Virtual Reality Amusement Park",
+      "distance": "4.9 mi",
+      "url": "https://www.google.com/maps/search/VRium%20Robotics%20%26%20Virtual%20Reality%20Amusement%20Park+near+30.6182067%2C-87.9075362",
+      "isFar": true
+    },
+    {
+      "name": "Escapology Escape Rooms Spanish Fort",
+      "distance": "5.0 mi",
+      "url": "https://www.google.com/maps/search/Escapology%20Escape%20Rooms%20Spanish%20Fort+near+30.6182067%2C-87.9075362",
+      "isFar": true
+    }
+  ],
+  "hotels": [
+    {
+      "name": "The Sandpiper ~ Bay Access",
+      "distance": "0.1 mi",
+      "url": "https://www.google.com/maps/search/The%20Sandpiper%20~%20Bay%20Access+near+30.6182067%2C-87.9075362"
+    },
+    {
+      "name": "Spacious Cottage Near Mobile Bay",
+      "distance": "0.4 mi",
+      "url": "https://www.google.com/maps/search/Spacious%20Cottage%20Near%20Mobile%20Bay+near+30.6182067%2C-87.9075362"
+    },
+    {
+      "name": "Bama Breeze",
+      "distance": "0.4 mi",
+      "url": "https://www.google.com/maps/search/Bama%20Breeze+near+30.6182067%2C-87.9075362"
+    },
+    {
+      "name": "Oasis in Daphne",
+      "distance": "0.5 mi",
+      "url": "https://www.google.com/maps/search/Oasis%20in%20Daphne+near+30.6182067%2C-87.9075362"
+    },
+    {
+      "name": "Sweet Home Alabama",
+      "distance": "0.6 mi",
+      "url": "https://www.google.com/maps/search/Sweet%20Home%20Alabama+near+30.6182067%2C-87.9075362"
+    },
+    {
+      "name": "fam prom",
+      "distance": "1.0 mi",
+      "url": "https://www.google.com/maps/search/fam%20prom+near+30.6182067%2C-87.9075362"
+    },
+    {
+      "name": "Guest House in the Heart of Old Town Daphne, AL",
+      "distance": "1.1 mi",
+      "url": "https://www.google.com/maps/search/Guest%20House%20in%20the%20Heart%20of%20Old%20Town%20Daphne%2C%20AL+near+30.6182067%2C-87.9075362"
+    }
+  ],
+  "gas": [
+    {
+      "name": "Chevron",
+      "distance": "0.3 mi",
+      "url": "https://www.google.com/maps/search/Chevron+near+30.6182067%2C-87.9075362"
+    },
+    {
+      "name": "Oglesby Oil Co",
+      "distance": "0.4 mi",
+      "url": "https://www.google.com/maps/search/Oglesby%20Oil%20Co+near+30.6182067%2C-87.9075362"
+    },
+    {
+      "name": "Fastime Convience Store",
+      "distance": "0.5 mi",
+      "url": "https://www.google.com/maps/search/Fastime%20Convience%20Store+near+30.6182067%2C-87.9075362"
+    },
+    {
+      "name": "Murphy USA",
+      "distance": "0.5 mi",
+      "url": "https://www.google.com/maps/search/Murphy%20USA+near+30.6182067%2C-87.9075362"
+    },
+    {
+      "name": "Shell",
+      "distance": "1.0 mi",
+      "url": "https://www.google.com/maps/search/Shell+near+30.6182067%2C-87.9075362"
+    }
+  ]
+}

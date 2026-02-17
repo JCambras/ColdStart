@@ -1,0 +1,238 @@
+{
+  "quick_bite": [
+    {
+      "name": "Taco Bell",
+      "distance": "0.2 mi",
+      "url": "https://www.google.com/maps/search/Taco%20Bell+near+42.2566293%2C-85.59004209999999"
+    },
+    {
+      "name": "QDOBA Mexican Eats",
+      "distance": "0.2 mi",
+      "url": "https://www.google.com/maps/search/QDOBA%20Mexican%20Eats+near+42.2566293%2C-85.59004209999999"
+    },
+    {
+      "name": "Little Caesars Pizza",
+      "distance": "0.2 mi",
+      "url": "https://www.google.com/maps/search/Little%20Caesars%20Pizza+near+42.2566293%2C-85.59004209999999"
+    },
+    {
+      "name": "Jimmy John's",
+      "distance": "0.2 mi",
+      "url": "https://www.google.com/maps/search/Jimmy%20John's+near+42.2566293%2C-85.59004209999999"
+    },
+    {
+      "name": "Great Wall Express",
+      "distance": "0.3 mi",
+      "url": "https://www.google.com/maps/search/Great%20Wall%20Express+near+42.2566293%2C-85.59004209999999"
+    },
+    {
+      "name": "Burger King",
+      "distance": "0.3 mi",
+      "url": "https://www.google.com/maps/search/Burger%20King+near+42.2566293%2C-85.59004209999999"
+    },
+    {
+      "name": "Subway",
+      "distance": "0.8 mi",
+      "url": "https://www.google.com/maps/search/Subway+near+42.2566293%2C-85.59004209999999"
+    }
+  ],
+  "coffee": [
+    {
+      "name": "McDonald's",
+      "distance": "0.1 mi",
+      "url": "https://www.google.com/maps/search/McDonald's+near+42.2566293%2C-85.59004209999999"
+    },
+    {
+      "name": "Dunkin'",
+      "distance": "0.3 mi",
+      "url": "https://www.google.com/maps/search/Dunkin'+near+42.2566293%2C-85.59004209999999"
+    },
+    {
+      "name": "BIGGBY COFFEE",
+      "distance": "1.0 mi",
+      "url": "https://www.google.com/maps/search/BIGGBY%20COFFEE+near+42.2566293%2C-85.59004209999999"
+    }
+  ],
+  "team_lunch": [
+    {
+      "name": "Kalamazoo Latino",
+      "distance": "0.6 mi",
+      "url": "https://www.google.com/maps/search/Kalamazoo%20Latino+near+42.2566293%2C-85.59004209999999"
+    },
+    {
+      "name": "Hibachi Sushi Buffet",
+      "distance": "0.7 mi",
+      "url": "https://www.google.com/maps/search/Hibachi%20Sushi%20Buffet+near+42.2566293%2C-85.59004209999999"
+    },
+    {
+      "name": "Los Amigos Portage",
+      "distance": "0.9 mi",
+      "url": "https://www.google.com/maps/search/Los%20Amigos%20Portage+near+42.2566293%2C-85.59004209999999"
+    }
+  ],
+  "dinner": [
+    {
+      "name": "Shawarma King",
+      "distance": "0.4 mi",
+      "url": "https://www.google.com/maps/search/Shawarma%20King+near+42.2566293%2C-85.59004209999999"
+    },
+    {
+      "name": "Berries Pancake House",
+      "distance": "0.6 mi",
+      "url": "https://www.google.com/maps/search/Berries%20Pancake%20House+near+42.2566293%2C-85.59004209999999"
+    },
+    {
+      "name": "The Tangy Crab",
+      "distance": "0.7 mi",
+      "url": "https://www.google.com/maps/search/The%20Tangy%20Crab+near+42.2566293%2C-85.59004209999999"
+    },
+    {
+      "name": "The Root Beer Stand Westnedge",
+      "distance": "0.7 mi",
+      "url": "https://www.google.com/maps/search/The%20Root%20Beer%20Stand%20Westnedge+near+42.2566293%2C-85.59004209999999"
+    },
+    {
+      "name": "Bert's Bakery-Westnedge",
+      "distance": "0.7 mi",
+      "url": "https://www.google.com/maps/search/Bert's%20Bakery-Westnedge+near+42.2566293%2C-85.59004209999999"
+    }
+  ],
+  "bowling": [
+    {
+      "name": "Airway Fun Center",
+      "distance": "2.1 mi",
+      "url": "https://www.google.com/maps/search/Airway%20Fun%20Center+near+42.2566293%2C-85.59004209999999"
+    },
+    {
+      "name": "Continental Lanes",
+      "distance": "2.9 mi",
+      "url": "https://www.google.com/maps/search/Continental%20Lanes+near+42.2566293%2C-85.59004209999999"
+    },
+    {
+      "name": "Revel & Roll West",
+      "distance": "3.0 mi",
+      "url": "https://www.google.com/maps/search/Revel%20%26%20Roll%20West+near+42.2566293%2C-85.59004209999999"
+    }
+  ],
+  "arcade": [],
+  "movies": [
+    {
+      "name": "Monoform Cinema",
+      "distance": "1.9 mi",
+      "url": "https://www.google.com/maps/search/Monoform%20Cinema+near+42.2566293%2C-85.59004209999999"
+    },
+    {
+      "name": "KP Cinemas",
+      "distance": "2.4 mi",
+      "url": "https://www.google.com/maps/search/KP%20Cinemas+near+42.2566293%2C-85.59004209999999"
+    },
+    {
+      "name": "Celebration Cinema Crossroads & IMAX",
+      "distance": "2.5 mi",
+      "url": "https://www.google.com/maps/search/Celebration%20Cinema%20Crossroads%20%26%20IMAX+near+42.2566293%2C-85.59004209999999"
+    },
+    {
+      "name": "Kalamazoo Film Society",
+      "distance": "2.5 mi",
+      "url": "https://www.google.com/maps/search/Kalamazoo%20Film%20Society+near+42.2566293%2C-85.59004209999999"
+    },
+    {
+      "name": "GQT Kalamazoo 10",
+      "distance": "4.5 mi",
+      "url": "https://www.google.com/maps/search/GQT%20Kalamazoo%2010+near+42.2566293%2C-85.59004209999999",
+      "isFar": true
+    }
+  ],
+  "fun": [
+    {
+      "name": "Airborne Adventure Park - Kalamazoo, MI",
+      "distance": "1.9 mi",
+      "url": "https://www.google.com/maps/search/Airborne%20Adventure%20Park%20-%20Kalamazoo%2C%20MI+near+42.2566293%2C-85.59004209999999"
+    },
+    {
+      "name": "Escapology Escape Rooms Portage",
+      "distance": "2.1 mi",
+      "url": "https://www.google.com/maps/search/Escapology%20Escape%20Rooms%20Portage+near+42.2566293%2C-85.59004209999999"
+    },
+    {
+      "name": "Go Carts",
+      "distance": "2.1 mi",
+      "url": "https://www.google.com/maps/search/Go%20Carts+near+42.2566293%2C-85.59004209999999"
+    },
+    {
+      "name": "Zap Zone XL",
+      "distance": "2.6 mi",
+      "url": "https://www.google.com/maps/search/Zap%20Zone%20XL+near+42.2566293%2C-85.59004209999999"
+    },
+    {
+      "name": "Jungle Joe's Family Fun Center",
+      "distance": "4.1 mi",
+      "url": "https://www.google.com/maps/search/Jungle%20Joe's%20Family%20Fun%20Center+near+42.2566293%2C-85.59004209999999",
+      "isFar": true
+    }
+  ],
+  "hotels": [
+    {
+      "name": "Bright & Cozy Retreat Private Entrance, Pets Welcome, Near Downtown Kalamazoo!",
+      "distance": "0.4 mi",
+      "url": "https://www.google.com/maps/search/Bright%20%26%20Cozy%20Retreat%20Private%20Entrance%2C%20Pets%20Welcome%2C%20Near%20Downtown%20Kalamazoo!+near+42.2566293%2C-85.59004209999999"
+    },
+    {
+      "name": "Comfy Craftsman Full 2 Bed Apartment w / Modern Luxuries",
+      "distance": "0.5 mi",
+      "url": "https://www.google.com/maps/search/Comfy%20Craftsman%20Full%202%20Bed%20Apartment%20w%20%2F%20Modern%20Luxuries+near+42.2566293%2C-85.59004209999999"
+    },
+    {
+      "name": "Extended Hands Valet Trash Pickup",
+      "distance": "0.7 mi",
+      "url": "https://www.google.com/maps/search/Extended%20Hands%20Valet%20Trash%20Pickup+near+42.2566293%2C-85.59004209999999"
+    },
+    {
+      "name": "Peaceful Two Bedroom Apartment with Water View",
+      "distance": "0.9 mi",
+      "url": "https://www.google.com/maps/search/Peaceful%20Two%20Bedroom%20Apartment%20with%20Water%20View+near+42.2566293%2C-85.59004209999999"
+    },
+    {
+      "name": "Family Friendly Nature Getaway near Golf Course",
+      "distance": "0.9 mi",
+      "url": "https://www.google.com/maps/search/Family%20Friendly%20Nature%20Getaway%20near%20Golf%20Course+near+42.2566293%2C-85.59004209999999"
+    },
+    {
+      "name": "Everyman's House in Westnedge Hill",
+      "distance": "1.0 mi",
+      "url": "https://www.google.com/maps/search/Everyman's%20House%20in%20Westnedge%20Hill+near+42.2566293%2C-85.59004209999999"
+    },
+    {
+      "name": "Kalamazoo Inn Motel",
+      "distance": "1.1 mi",
+      "url": "https://www.google.com/maps/search/Kalamazoo%20Inn%20Motel+near+42.2566293%2C-85.59004209999999"
+    }
+  ],
+  "gas": [
+    {
+      "name": "Speedway",
+      "distance": "0.3 mi",
+      "url": "https://www.google.com/maps/search/Speedway+near+42.2566293%2C-85.59004209999999"
+    },
+    {
+      "name": "Shell",
+      "distance": "0.6 mi",
+      "url": "https://www.google.com/maps/search/Shell+near+42.2566293%2C-85.59004209999999"
+    },
+    {
+      "name": "Speedway",
+      "distance": "0.8 mi",
+      "url": "https://www.google.com/maps/search/Speedway+near+42.2566293%2C-85.59004209999999"
+    },
+    {
+      "name": "Citgo",
+      "distance": "1.1 mi",
+      "url": "https://www.google.com/maps/search/Citgo+near+42.2566293%2C-85.59004209999999"
+    },
+    {
+      "name": "Marathon",
+      "distance": "1.2 mi",
+      "url": "https://www.google.com/maps/search/Marathon+near+42.2566293%2C-85.59004209999999"
+    }
+  ]
+}

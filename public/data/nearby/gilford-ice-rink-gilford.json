@@ -1,0 +1,199 @@
+{
+  "quick_bite": [
+    {
+      "name": "Gilford House of Pizza",
+      "distance": "1.9 mi",
+      "url": "https://www.google.com/maps/search/Gilford%20House%20of%20Pizza+near+43.58013%2C-71.39872489999999"
+    },
+    {
+      "name": "Wendy's",
+      "distance": "2.6 mi",
+      "url": "https://www.google.com/maps/search/Wendy's+near+43.58013%2C-71.39872489999999"
+    },
+    {
+      "name": "SNOWFOX Sushi",
+      "distance": "2.6 mi",
+      "url": "https://www.google.com/maps/search/SNOWFOX%20Sushi+near+43.58013%2C-71.39872489999999"
+    }
+  ],
+  "coffee": [
+    {
+      "name": "Dunkin'",
+      "distance": "1.7 mi",
+      "url": "https://www.google.com/maps/search/Dunkin'+near+43.58013%2C-71.39872489999999"
+    },
+    {
+      "name": "Taste of Legacy Cafe & Catering",
+      "distance": "2.6 mi",
+      "url": "https://www.google.com/maps/search/Taste%20of%20Legacy%20Cafe%20%26%20Catering+near+43.58013%2C-71.39872489999999"
+    }
+  ],
+  "team_lunch": [
+    {
+      "name": "Sawyer's Dairy Bar",
+      "distance": "0.2 mi",
+      "url": "https://www.google.com/maps/search/Sawyer's%20Dairy%20Bar+near+43.58013%2C-71.39872489999999"
+    },
+    {
+      "name": "Beans and Greens Food Truck",
+      "distance": "0.6 mi",
+      "url": "https://www.google.com/maps/search/Beans%20and%20Greens%20Food%20Truck+near+43.58013%2C-71.39872489999999"
+    },
+    {
+      "name": "Axe & Ale Taphouse",
+      "distance": "1.8 mi",
+      "url": "https://www.google.com/maps/search/Axe%20%26%20Ale%20Taphouse+near+43.58013%2C-71.39872489999999"
+    },
+    {
+      "name": "The Thrive Bar",
+      "distance": "2.2 mi",
+      "url": "https://www.google.com/maps/search/The%20Thrive%20Bar+near+43.58013%2C-71.39872489999999"
+    },
+    {
+      "name": "Walmart Bakery",
+      "distance": "2.2 mi",
+      "url": "https://www.google.com/maps/search/Walmart%20Bakery+near+43.58013%2C-71.39872489999999"
+    }
+  ],
+  "dinner": [
+    {
+      "name": "Patrick's",
+      "distance": "0.3 mi",
+      "url": "https://www.google.com/maps/search/Patrick's+near+43.58013%2C-71.39872489999999"
+    },
+    {
+      "name": "Winnipesaukee Bay Gulls 2",
+      "distance": "0.3 mi",
+      "url": "https://www.google.com/maps/search/Winnipesaukee%20Bay%20Gulls%202+near+43.58013%2C-71.39872489999999"
+    },
+    {
+      "name": "The Breeze",
+      "distance": "0.6 mi",
+      "url": "https://www.google.com/maps/search/The%20Breeze+near+43.58013%2C-71.39872489999999"
+    },
+    {
+      "name": "El Tequila",
+      "distance": "2.3 mi",
+      "url": "https://www.google.com/maps/search/El%20Tequila+near+43.58013%2C-71.39872489999999"
+    },
+    {
+      "name": "Country Cook'n At The Lakeside",
+      "distance": "2.4 mi",
+      "url": "https://www.google.com/maps/search/Country%20Cook'n%20At%20The%20Lakeside+near+43.58013%2C-71.39872489999999"
+    },
+    {
+      "name": "Myrna's Classic Cuisine",
+      "distance": "2.6 mi",
+      "url": "https://www.google.com/maps/search/Myrna's%20Classic%20Cuisine+near+43.58013%2C-71.39872489999999"
+    },
+    {
+      "name": "Papa Gino's",
+      "distance": "2.6 mi",
+      "url": "https://www.google.com/maps/search/Papa%20Gino's+near+43.58013%2C-71.39872489999999"
+    }
+  ],
+  "bowling": [],
+  "arcade": [],
+  "movies": [
+    {
+      "name": "Scene One Gilford Cinemas 8",
+      "distance": "1.8 mi",
+      "url": "https://www.google.com/maps/search/Scene%20One%20Gilford%20Cinemas%208+near+43.58013%2C-71.39872489999999"
+    },
+    {
+      "name": "Weirs Drive-In Theater",
+      "distance": "3.4 mi",
+      "url": "https://www.google.com/maps/search/Weirs%20Drive-In%20Theater+near+43.58013%2C-71.39872489999999",
+      "isFar": true
+    },
+    {
+      "name": "BarnZ's Meredith Cinema",
+      "distance": "7.4 mi",
+      "url": "https://www.google.com/maps/search/BarnZ's%20Meredith%20Cinema+near+43.58013%2C-71.39872489999999",
+      "isFar": true
+    }
+  ],
+  "fun": [
+    {
+      "name": "The Playroom",
+      "distance": "2.5 mi",
+      "url": "https://www.google.com/maps/search/The%20Playroom+near+43.58013%2C-71.39872489999999"
+    },
+    {
+      "name": "Escape Hour House",
+      "distance": "3.9 mi",
+      "url": "https://www.google.com/maps/search/Escape%20Hour%20House+near+43.58013%2C-71.39872489999999",
+      "isFar": true
+    },
+    {
+      "name": "Jump N Joy",
+      "distance": "5.6 mi",
+      "url": "https://www.google.com/maps/search/Jump%20N%20Joy+near+43.58013%2C-71.39872489999999",
+      "isFar": true
+    }
+  ],
+  "hotels": [
+    {
+      "name": "Wildwood by the Beach -Lake Winnipesaukee- Gunstock Mtn. Resort -Family Vacation",
+      "distance": "0.1 mi",
+      "url": "https://www.google.com/maps/search/Wildwood%20by%20the%20Beach%20-Lake%20Winnipesaukee-%20Gunstock%20Mtn.%20Resort%20-Family%20Vacation+near+43.58013%2C-71.39872489999999"
+    },
+    {
+      "name": "Fireside Inn & Suites Gilford at Lake Winnipesaukee",
+      "distance": "0.1 mi",
+      "url": "https://www.google.com/maps/search/Fireside%20Inn%20%26%20Suites%20Gilford%20at%20Lake%20Winnipesaukee+near+43.58013%2C-71.39872489999999"
+    },
+    {
+      "name": "Luxury Adirondack Lakeview - Five Bedroom House",
+      "distance": "0.2 mi",
+      "url": "https://www.google.com/maps/search/Luxury%20Adirondack%20Lakeview%20-%20Five%20Bedroom%20House+near+43.58013%2C-71.39872489999999"
+    },
+    {
+      "name": "Ski and Swim|Year-Round, Waterfront Gem|Pool",
+      "distance": "0.2 mi",
+      "url": "https://www.google.com/maps/search/Ski%20and%20Swim%7CYear-Round%2C%20Waterfront%20Gem%7CPool+near+43.58013%2C-71.39872489999999"
+    },
+    {
+      "name": "Lakehouse in Gilford sits on 100’ private beach and includes dock slip!",
+      "distance": "0.3 mi",
+      "url": "https://www.google.com/maps/search/Lakehouse%20in%20Gilford%20sits%20on%20100%E2%80%99%20private%20beach%20and%20includes%20dock%20slip!+near+43.58013%2C-71.39872489999999"
+    },
+    {
+      "name": "Endless Summer Cottage",
+      "distance": "0.3 mi",
+      "url": "https://www.google.com/maps/search/Endless%20Summer%20Cottage+near+43.58013%2C-71.39872489999999"
+    },
+    {
+      "name": "Gilford waterfront deck, dock, sunset view, perfect quiet water for water sports",
+      "distance": "0.3 mi",
+      "url": "https://www.google.com/maps/search/Gilford%20waterfront%20deck%2C%20dock%2C%20sunset%20view%2C%20perfect%20quiet%20water%20for%20water%20sports+near+43.58013%2C-71.39872489999999"
+    }
+  ],
+  "gas": [
+    {
+      "name": "Haffner's Gas Station",
+      "distance": "1.7 mi",
+      "url": "https://www.google.com/maps/search/Haffner's%20Gas%20Station+near+43.58013%2C-71.39872489999999"
+    },
+    {
+      "name": "Mobil",
+      "distance": "2.7 mi",
+      "url": "https://www.google.com/maps/search/Mobil+near+43.58013%2C-71.39872489999999"
+    },
+    {
+      "name": "Sunoco",
+      "distance": "2.9 mi",
+      "url": "https://www.google.com/maps/search/Sunoco+near+43.58013%2C-71.39872489999999"
+    },
+    {
+      "name": "WEIRS BEACH MARINE",
+      "distance": "3.6 mi",
+      "url": "https://www.google.com/maps/search/WEIRS%20BEACH%20MARINE+near+43.58013%2C-71.39872489999999"
+    },
+    {
+      "name": "The Big Apple",
+      "distance": "4.0 mi",
+      "url": "https://www.google.com/maps/search/The%20Big%20Apple+near+43.58013%2C-71.39872489999999"
+    }
+  ]
+}

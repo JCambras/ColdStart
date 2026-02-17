@@ -1,0 +1,235 @@
+{
+  "quick_bite": [
+    {
+      "name": "Shake Shack",
+      "distance": "3.5 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Shake%20Shack&query_place_id=ChIJBaYNH3UpwokReV75Q6aw81k&center=40.1982204,-74.09909760000001",
+      "isFar": true
+    },
+    {
+      "name": "Jersey Mike's Subs",
+      "distance": "3.7 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Jersey%20Mike's%20Subs&query_place_id=ChIJCa6quKArwokRW-HDc3wIpaQ&center=40.225399499999995,-74.172352",
+      "isFar": true
+    },
+    {
+      "name": "Ram Cafe",
+      "distance": "3.7 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Ram%20Cafe&query_place_id=ChIJERv1bruBwYkRhXblF8JbqXc&center=40.119266599999996,-74.1440464",
+      "isFar": true
+    },
+    {
+      "name": "Five Guys",
+      "distance": "4.1 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Five%20Guys&query_place_id=ChIJk6blpXl_wYkRJpimkoM-t0w&center=40.149328499999996,-74.2272773",
+      "isFar": true
+    },
+    {
+      "name": "Jersey Mike's Subs",
+      "distance": "4.1 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Jersey%20Mike's%20Subs&query_place_id=ChIJYU9Xs4J_wYkRV5ezIw99M-M&center=40.155200400000005,-74.2302132",
+      "isFar": true
+    },
+    {
+      "name": "Famous wings & grill",
+      "distance": "4.1 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Famous%20wings%20%26%20grill&query_place_id=ChIJqRUFPc9_wYkRpt55xEK7Y2A&center=40.1492755,-74.2273908",
+      "isFar": true
+    }
+  ],
+  "coffee": [
+    {
+      "name": "Bagels and Brew Company",
+      "distance": "1.5 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Bagels%20and%20Brew%20Company&query_place_id=ChIJOeEcptIrwokRKqZCCdkkJuo&center=40.1931867,-74.1660623"
+    },
+    {
+      "name": "Detodito Deli",
+      "distance": "3.5 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Detodito%20Deli&query_place_id=ChIJIQjFD46BwYkRAksMy0er2dM&center=40.127911,-74.18507389999999",
+      "isFar": true
+    },
+    {
+      "name": "Big City Bagels & Nathan's Famous Hot Dogs",
+      "distance": "4.0 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Big%20City%20Bagels%20%26%20Nathan's%20Famous%20Hot%20Dogs&query_place_id=ChIJvwy9DXh_wYkRfGyEr0dnMnE&center=40.155204399999995,-74.2281497",
+      "isFar": true
+    }
+  ],
+  "team_lunch": [
+    {
+      "name": "Mulligans",
+      "distance": "2.6 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Mulligans&query_place_id=ChIJhR2aIgApwokRfrvQP6mZBKk&center=40.2011416,-74.1223033"
+    },
+    {
+      "name": "Auntie Anne's",
+      "distance": "3.4 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Auntie%20Anne's&query_place_id=ChIJ6RJ4Nb4pwokRqK82HB5M6HY&center=40.1980867,-74.0991774",
+      "isFar": true
+    },
+    {
+      "name": "Allenwood deli",
+      "distance": "3.6 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Allenwood%20deli&query_place_id=ChIJWUg4SgCHwYkRHGm4MheBbzw&center=40.1422333,-74.1012914",
+      "isFar": true
+    },
+    {
+      "name": "Perusa Peruvian Cuisine",
+      "distance": "3.6 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Perusa%20Peruvian%20Cuisine&query_place_id=ChIJnXYUlrorwokR4PJNHwRsBls&center=40.2202331,-74.1292776",
+      "isFar": true
+    },
+    {
+      "name": "Philly Pretzel Factory",
+      "distance": "4.1 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Philly%20Pretzel%20Factory&query_place_id=ChIJAQAAVcV_wYkR2RfNitLfHp4&center=40.1533538,-74.2295525",
+      "isFar": true
+    }
+  ],
+  "dinner": [
+    {
+      "name": "Mulligan's Bar & Restaurant",
+      "distance": "0.6 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Mulligan's%20Bar%20%26%20Restaurant&query_place_id=ChIJ34mhNoOAwYkRV4OuShl06qw&center=40.1808593,-74.15981289999999"
+    },
+    {
+      "name": "Harvest",
+      "distance": "1.6 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Harvest&query_place_id=ChIJ4Qg9v3wqwokRqhdQwP4ssgY&center=40.1940476,-74.1667095"
+    },
+    {
+      "name": "Tony’s Italian Pizzeria and Restaurant",
+      "distance": "1.6 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Tony%E2%80%99s%20Italian%20Pizzeria%20and%20Restaurant&query_place_id=ChIJ3Sy0uHwqwokRz5t9qbiEfpo&center=40.1945664,-74.1659512"
+    },
+    {
+      "name": "The Taco House & Grill",
+      "distance": "1.6 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=The%20Taco%20House%20%26%20Grill&query_place_id=ChIJ8cvyaxgrwokRW_foPE_jSrQ&center=40.194458999999995,-74.1663231"
+    },
+    {
+      "name": "Connie's Restaurant",
+      "distance": "1.6 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Connie's%20Restaurant&query_place_id=ChIJ5VwJxXwqwokRkES1NUDRXKw&center=40.194655,-74.167157"
+    },
+    {
+      "name": "Farmingdale Breakfast Club",
+      "distance": "1.7 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Farmingdale%20Breakfast%20Club&query_place_id=ChIJb-WY9VcqwokR-PIhHNEiN5o&center=40.1953262,-74.16633449999999"
+    }
+  ],
+  "bowling": [
+    {
+      "name": "Howell Lanes",
+      "distance": "5.7 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Howell%20Lanes&query_place_id=ChIJtSjOeXvVw4kRQ1TebHnHFcU&center=40.2022456,-74.2560661",
+      "isFar": true
+    },
+    {
+      "name": "RevRates VIP - Bowling Entertainment",
+      "distance": "5.7 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=RevRates%20VIP%20-%20Bowling%20Entertainment&query_place_id=ChIJIaeSA7vVw4kRrPUQ8eHrl9g&center=40.202044099999995,-74.2561723",
+      "isFar": true
+    },
+    {
+      "name": "Ocean Lanes",
+      "distance": "6.3 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Ocean%20Lanes&query_place_id=ChIJvcloWbiDwYkRjmPqznEh7AQ&center=40.082149699999995,-74.1571144",
+      "isFar": true
+    }
+  ],
+  "arcade": [],
+  "movies": [
+    {
+      "name": "AMC Brick Plaza 10",
+      "distance": "8.0 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=AMC%20Brick%20Plaza%2010&query_place_id=ChIJsWTjr3aDwYkR0HCw9sTf0wM&center=40.0571708,-74.1398696",
+      "isFar": true
+    },
+    {
+      "name": "The ShowRoom Cinema - Asbury Park",
+      "distance": "8.1 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=The%20ShowRoom%20Cinema%20-%20Asbury%20Park&query_place_id=ChIJ5XiYKjomwokRQqaBhi1iFaw&center=40.216009899999996,-74.0124032",
+      "isFar": true
+    }
+  ],
+  "fun": [
+    {
+      "name": "Road Pipe",
+      "distance": "4.3 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Road%20Pipe&query_place_id=ChIJY5PiDAApwokR4u7e-3pmzzM&center=40.207474,-74.0873457",
+      "isFar": true
+    },
+    {
+      "name": "ClimbZone",
+      "distance": "4.6 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=ClimbZone&query_place_id=ChIJAY75hoiBwYkRuPJBpFxiIFU&center=40.126682699999996,-74.2179117",
+      "isFar": true
+    },
+    {
+      "name": "The strand",
+      "distance": "4.7 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=The%20strand&query_place_id=ChIJR1GvBAB_wYkRbxI_whkbqxc&center=40.12766,-74.22175",
+      "isFar": true
+    },
+    {
+      "name": "Sky Zone Trampoline Park",
+      "distance": "7.0 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Sky%20Zone%20Trampoline%20Park&query_place_id=ChIJnWqZ378owokRUOa5HqKUhXU&center=40.2323209,-74.0484084",
+      "isFar": true
+    }
+  ],
+  "hotels": [
+    {
+      "name": "Allaire State Park Campground",
+      "distance": "0.7 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Allaire%20State%20Park%20Campground&query_place_id=ChIJz13gL76AwYkRwmEACjc1Ou4&center=40.1654194,-74.14676039999999"
+    },
+    {
+      "name": "Family Campsites",
+      "distance": "0.8 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Family%20Campsites&query_place_id=ChIJd3Ohob6AwYkRT_QQxXoB2nY&center=40.1666029,-74.1429151"
+    },
+    {
+      "name": "Allaire State Park Group Campsite",
+      "distance": "3.2 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Allaire%20State%20Park%20Group%20Campsite&query_place_id=ChIJ0XfXYdOGwYkRiG30ry_HTNo&center=40.1339694,-74.1223019",
+      "isFar": true
+    },
+    {
+      "name": "Courtyard by Marriott Wall at Monmouth Shores Corporate Park",
+      "distance": "3.6 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Courtyard%20by%20Marriott%20Wall%20at%20Monmouth%20Shores%20Corporate%20Park&query_place_id=ChIJPyCXDIApwokRWTyaqZhEWJo&center=40.2184132,-74.1237938",
+      "isFar": true
+    },
+    {
+      "name": "Express Inn",
+      "distance": "3.6 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Express%20Inn&query_place_id=ChIJ27iBq80rwokRe6wvz17ezo0&center=40.2238725,-74.1384495",
+      "isFar": true
+    }
+  ],
+  "gas": [
+    {
+      "name": "Gulf",
+      "distance": "1.8 mi",
+      "url": "https://www.google.com/maps/search/Gulf+near+40.1727725%2C-74.1553723"
+    },
+    {
+      "name": "Race Star Inc.",
+      "distance": "1.8 mi",
+      "url": "https://www.google.com/maps/search/Race%20Star%20Inc.+near+40.1727725%2C-74.1553723"
+    },
+    {
+      "name": "Race Star",
+      "distance": "2.1 mi",
+      "url": "https://www.google.com/maps/search/Race%20Star+near+40.1727725%2C-74.1553723"
+    },
+    {
+      "name": "LUKOIL",
+      "distance": "3.2 mi",
+      "url": "https://www.google.com/maps/search/LUKOIL+near+40.1727725%2C-74.1553723"
+    }
+  ]
+}

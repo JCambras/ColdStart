@@ -1,0 +1,187 @@
+{
+  "quick_bite": [
+    {
+      "name": "Burger King",
+      "distance": "0.2 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Burger%20King&query_place_id=ChIJKwZ0ZZNy44kRJwsM0ZWDa40&center=42.474122799999996,-71.02348390000002"
+    },
+    {
+      "name": "Five Guys",
+      "distance": "0.2 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Five%20Guys&query_place_id=ChIJg8g5nrRz44kRWhwMuPBcqjA&center=42.4753557,-71.02327389999999"
+    },
+    {
+      "name": "Raising Cane's Chicken Fingers",
+      "distance": "0.3 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Raising%20Cane's%20Chicken%20Fingers&query_place_id=ChIJl6DOwA5z44kRyo6FVG1hWNE&center=42.4759756,-71.0241456"
+    },
+    {
+      "name": "Wendy's",
+      "distance": "0.3 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Wendy's&query_place_id=ChIJ5akodbRz44kRs6LKzKw8-UI&center=42.4765618,-71.0240286"
+    }
+  ],
+  "coffee": [
+    {
+      "name": "Starbucks",
+      "distance": "0.2 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Starbucks&query_place_id=ChIJK2FP1yZz44kRgEuIGN8fXB0&center=42.47482000000001,-71.02448"
+    },
+    {
+      "name": "Panera Bread",
+      "distance": "0.5 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Panera%20Bread&query_place_id=ChIJSz4hhpVy44kRRzdrw19JQBI&center=42.4791727,-71.024343"
+    },
+    {
+      "name": "Starbucks Coffee Company",
+      "distance": "0.5 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Starbucks%20Coffee%20Company&query_place_id=ChIJEQwwCb9y44kRpXIRyl8k5U0&center=42.4797,-71.02533000000001"
+    },
+    {
+      "name": "Kane’s Donuts-Rt. 1",
+      "distance": "1.3 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Kane%E2%80%99s%20Donuts-Rt.%201&query_place_id=ChIJJdOh-2Fz44kRc8ZmVHBY3zc&center=42.4537407,-71.02454329999999"
+    }
+  ],
+  "team_lunch": [
+    {
+      "name": "Route 1 Grill House",
+      "distance": "0.2 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Route%201%20Grill%20House&query_place_id=ChIJ1XU-lpRy44kR32YL7dtJnd4&center=42.475459799999996,-71.02447599999999"
+    },
+    {
+      "name": "Charleys Philly Steaks",
+      "distance": "0.8 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Charleys%20Philly%20Steaks&query_place_id=ChIJjbUhavVy44kRzQhFKD2ZL3E&center=42.4606134,-71.027119"
+    },
+    {
+      "name": "Whole Foods Bakery",
+      "distance": "2.0 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Whole%20Foods%20Bakery&query_place_id=ChIJzZbEXABz44kR5QK9OEirM84&center=42.464647199999995,-71.062685"
+    }
+  ],
+  "dinner": [
+    {
+      "name": "110 Grill",
+      "distance": "0.2 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=110%20Grill&query_place_id=ChIJb-igKglz44kRY-SoMCko4fk&center=42.4744337,-71.02458419999999"
+    },
+    {
+      "name": "Dave's Hot Chicken",
+      "distance": "0.2 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Dave's%20Hot%20Chicken&query_place_id=ChIJLQDce2Fz44kRDyH0jzSindo&center=42.469594199999996,-71.0248438"
+    },
+    {
+      "name": "K-Town BBQ",
+      "distance": "0.2 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=K-Town%20BBQ&query_place_id=ChIJr84GP9Nz44kRuh4nBEvH-JM&center=42.469270099999996,-71.0249523"
+    },
+    {
+      "name": "Nothing Bundt Cakes",
+      "distance": "0.4 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Nothing%20Bundt%20Cakes&query_place_id=ChIJtXS2n9Rz44kRvIEefRsOyjM&center=42.4774937,-71.02378039999999"
+    },
+    {
+      "name": "Rosaria Restaurant",
+      "distance": "0.4 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Rosaria%20Restaurant&query_place_id=ChIJtWo_a_Ny44kRgVexmgjTJTc&center=42.4666771,-71.0277328"
+    },
+    {
+      "name": "Tori Japan",
+      "distance": "0.5 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Tori%20Japan&query_place_id=ChIJ1R_8DyZz44kRzpajEJwd6IU&center=42.4791519,-71.024542"
+    }
+  ],
+  "bowling": [
+    {
+      "name": "Town Line Luxury Lanes",
+      "distance": "2.0 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Town%20Line%20Luxury%20Lanes&query_place_id=ChIJb5GdmUBy44kR5ici4YpIX4U&center=42.4430146,-71.02935839999999"
+    },
+    {
+      "name": "Wakefield Bowladrome",
+      "distance": "3.0 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Wakefield%20Bowladrome&query_place_id=ChIJkaOqnzNz44kR3ureV7mHlyk&center=42.5029481,-71.0661721"
+    }
+  ],
+  "arcade": [],
+  "movies": [
+    {
+      "name": "Kowloon Restaurant",
+      "distance": "0.3 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Kowloon%20Restaurant&query_place_id=ChIJS5RSJ41y44kRd7DMG9XL4DM&center=42.467878999999996,-71.02488079999999"
+    },
+    {
+      "name": "IMAX 3D Theater",
+      "distance": "4.7 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=IMAX%203D%20Theater&query_place_id=ChIJ4QqUlaUM44kRW5y4r-q8SjE&center=42.5202021,-71.08976369999999",
+      "isFar": true
+    }
+  ],
+  "fun": [
+    {
+      "name": "Steel Tower Lynn Woods",
+      "distance": "2.0 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Steel%20Tower%20Lynn%20Woods&query_place_id=ChIJ94s3JVJt44kR8wgB3q8RaW0&center=42.488704999999996,-70.9924728"
+    },
+    {
+      "name": "Dungeon Rock",
+      "distance": "2.3 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Dungeon%20Rock&query_place_id=ChIJpaFGOalt44kRoOOX3CSAnzU&center=42.483087,-70.9832983"
+    },
+    {
+      "name": "Nova Adventure Park",
+      "distance": "2.3 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Nova%20Adventure%20Park&query_place_id=ChIJ6ThXQgkN44kRDm7ST-ZJRRQ&center=42.504425499999996,-71.01544369999999"
+    },
+    {
+      "name": "The Stone Tower",
+      "distance": "2.4 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=The%20Stone%20Tower&query_place_id=ChIJb94ZErUS44kR41LEVirXcEQ&center=42.4899026,-70.9855863"
+    }
+  ],
+  "hotels": [
+    {
+      "name": "Holiday Inn Express Boston - Saugus by IHG",
+      "distance": "0.1 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Holiday%20Inn%20Express%20Boston%20-%20Saugus%20by%20IHG&query_place_id=ChIJvU-5uZJy44kRFEy3I4sLg48&center=42.471129399999995,-71.0257122"
+    },
+    {
+      "name": "Extended Stay America Suites- Boston - Saugus",
+      "distance": "0.1 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Extended%20Stay%20America%20Suites-%20Boston%20-%20Saugus&query_place_id=ChIJ3Y9HlZJy44kRDnrmrIGJViI&center=42.4709442,-71.0238772"
+    },
+    {
+      "name": "Red Roof PLUS+ Boston - Logan",
+      "distance": "0.2 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Red%20Roof%20PLUS%2B%20Boston%20-%20Logan&query_place_id=ChIJ7XkMFY1y44kRkD3d3qNuSNs&center=42.4686814,-71.024566"
+    },
+    {
+      "name": "You found it! Close to it All! Pets Allowed, Short Drive to Memorial Stadium!",
+      "distance": "0.2 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=You%20found%20it!%20Close%20to%20it%20All!%20Pets%20Allowed%2C%20Short%20Drive%20to%20Memorial%20Stadium!&query_place_id=ChIJNUfQP41y44kRM2z57-3kP40&center=42.4686508,-71.024559"
+    }
+  ],
+  "gas": [
+    {
+      "name": "Sunoco",
+      "distance": "0.2 mi",
+      "url": "https://www.google.com/maps/search/Sunoco+near+42.4721288%2C-71.025092"
+    },
+    {
+      "name": "Mobil",
+      "distance": "0.3 mi",
+      "url": "https://www.google.com/maps/search/Mobil+near+42.4721288%2C-71.025092"
+    },
+    {
+      "name": "Alltown",
+      "distance": "0.3 mi",
+      "url": "https://www.google.com/maps/search/Alltown+near+42.4721288%2C-71.025092"
+    },
+    {
+      "name": "ChargePoint Charging Station",
+      "distance": "1.0 mi",
+      "url": "https://www.google.com/maps/search/ChargePoint%20Charging%20Station+near+42.4721288%2C-71.025092"
+    }
+  ]
+}

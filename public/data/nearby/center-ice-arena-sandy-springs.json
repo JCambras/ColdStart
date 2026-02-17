@@ -1,0 +1,236 @@
+{
+  "quick_bite": [
+    {
+      "name": "Gyro Cafe",
+      "distance": "0.1 mi",
+      "url": "https://www.google.com/maps/search/Gyro%20Cafe+near+33.9113263%2C-84.38061069999999"
+    },
+    {
+      "name": "El Taco Veloz 2 - Roswell",
+      "distance": "0.2 mi",
+      "url": "https://www.google.com/maps/search/El%20Taco%20Veloz%202%20-%20Roswell+near+33.9113263%2C-84.38061069999999"
+    },
+    {
+      "name": "Buffalo Wild Wings GO",
+      "distance": "0.2 mi",
+      "url": "https://www.google.com/maps/search/Buffalo%20Wild%20Wings%20GO+near+33.9113263%2C-84.38061069999999"
+    },
+    {
+      "name": "Gyro Bros",
+      "distance": "0.3 mi",
+      "url": "https://www.google.com/maps/search/Gyro%20Bros+near+33.9113263%2C-84.38061069999999"
+    }
+  ],
+  "coffee": [
+    {
+      "name": "Dunkin'",
+      "distance": "0.2 mi",
+      "url": "https://www.google.com/maps/search/Dunkin'+near+33.9113263%2C-84.38061069999999"
+    },
+    {
+      "name": "Starbucks Coffee Company",
+      "distance": "0.3 mi",
+      "url": "https://www.google.com/maps/search/Starbucks%20Coffee%20Company+near+33.9113263%2C-84.38061069999999"
+    }
+  ],
+  "team_lunch": [
+    {
+      "name": "Taqueria Delgado Mexican Restaurant",
+      "distance": "0.1 mi",
+      "url": "https://www.google.com/maps/search/Taqueria%20Delgado%20Mexican%20Restaurant+near+33.9113263%2C-84.38061069999999"
+    },
+    {
+      "name": "Las Tortas Locas",
+      "distance": "0.2 mi",
+      "url": "https://www.google.com/maps/search/Las%20Tortas%20Locas+near+33.9113263%2C-84.38061069999999"
+    },
+    {
+      "name": "Tin Drum Asian Kitchen & Boba Tea Bar - Sandy Springs",
+      "distance": "0.3 mi",
+      "url": "https://www.google.com/maps/search/Tin%20Drum%20Asian%20Kitchen%20%26%20Boba%20Tea%20Bar%20-%20Sandy%20Springs+near+33.9113263%2C-84.38061069999999"
+    },
+    {
+      "name": "Genki Noodles & Sushi",
+      "distance": "0.3 mi",
+      "url": "https://www.google.com/maps/search/Genki%20Noodles%20%26%20Sushi+near+33.9113263%2C-84.38061069999999"
+    }
+  ],
+  "dinner": [
+    {
+      "name": "Good Tacos Carro",
+      "distance": "0.1 mi",
+      "url": "https://www.google.com/maps/search/Good%20Tacos%20Carro+near+33.9113263%2C-84.38061069999999"
+    },
+    {
+      "name": "La Suriana Bakery",
+      "distance": "0.1 mi",
+      "url": "https://www.google.com/maps/search/La%20Suriana%20Bakery+near+33.9113263%2C-84.38061069999999"
+    },
+    {
+      "name": "Carreto's Taqueria",
+      "distance": "0.1 mi",
+      "url": "https://www.google.com/maps/search/Carreto's%20Taqueria+near+33.9113263%2C-84.38061069999999"
+    },
+    {
+      "name": "Scoville Hot Chicken - Sandy Springs (Inside Mutation Brewing)",
+      "distance": "0.2 mi",
+      "url": "https://www.google.com/maps/search/Scoville%20Hot%20Chicken%20-%20Sandy%20Springs%20(Inside%20Mutation%20Brewing)+near+33.9113263%2C-84.38061069999999"
+    },
+    {
+      "name": "Iron Age Korean Steakhouse - Sandy Springs",
+      "distance": "0.2 mi",
+      "url": "https://www.google.com/maps/search/Iron%20Age%20Korean%20Steakhouse%20-%20Sandy%20Springs+near+33.9113263%2C-84.38061069999999"
+    },
+    {
+      "name": "CAVA",
+      "distance": "0.2 mi",
+      "url": "https://www.google.com/maps/search/CAVA+near+33.9113263%2C-84.38061069999999"
+    },
+    {
+      "name": "Taco Mac Prado",
+      "distance": "0.3 mi",
+      "url": "https://www.google.com/maps/search/Taco%20Mac%20Prado+near+33.9113263%2C-84.38061069999999"
+    }
+  ],
+  "bowling": [
+    {
+      "name": "Lucky Strike Chamblee",
+      "distance": "4.7 mi",
+      "url": "https://www.google.com/maps/search/Lucky%20Strike%20Chamblee+near+33.9113263%2C-84.38061069999999",
+      "isFar": true
+    }
+  ],
+  "arcade": [],
+  "movies": [
+    {
+      "name": "Sandy Springs JamFest",
+      "distance": "0.3 mi",
+      "url": "https://www.google.com/maps/search/Sandy%20Springs%20JamFest+near+33.9113263%2C-84.38061069999999"
+    },
+    {
+      "name": "The Springs Cinema & Taphouse",
+      "distance": "0.4 mi",
+      "url": "https://www.google.com/maps/search/The%20Springs%20Cinema%20%26%20Taphouse+near+33.9113263%2C-84.38061069999999"
+    },
+    {
+      "name": "Regal Perimeter Pointe",
+      "distance": "2.4 mi",
+      "url": "https://www.google.com/maps/search/Regal%20Perimeter%20Pointe+near+33.9113263%2C-84.38061069999999"
+    },
+    {
+      "name": "LOOK Dine-In Cinemas",
+      "distance": "3.7 mi",
+      "url": "https://www.google.com/maps/search/LOOK%20Dine-In%20Cinemas+near+33.9113263%2C-84.38061069999999",
+      "isFar": true
+    },
+    {
+      "name": "AMC Phipps Plaza 14",
+      "distance": "4.2 mi",
+      "url": "https://www.google.com/maps/search/AMC%20Phipps%20Plaza%2014+near+33.9113263%2C-84.38061069999999",
+      "isFar": true
+    }
+  ],
+  "fun": [
+    {
+      "name": "Game Over Escape Rooms Atlanta",
+      "distance": "0.6 mi",
+      "url": "https://www.google.com/maps/search/Game%20Over%20Escape%20Rooms%20Atlanta+near+33.9113263%2C-84.38061069999999"
+    },
+    {
+      "name": "Big Escape Rooms",
+      "distance": "0.7 mi",
+      "url": "https://www.google.com/maps/search/Big%20Escape%20Rooms+near+33.9113263%2C-84.38061069999999"
+    },
+    {
+      "name": "Mastermind Escape Games Atlanta",
+      "distance": "1.3 mi",
+      "url": "https://www.google.com/maps/search/Mastermind%20Escape%20Games%20Atlanta+near+33.9113263%2C-84.38061069999999"
+    },
+    {
+      "name": "Activate Games",
+      "distance": "2.2 mi",
+      "url": "https://www.google.com/maps/search/Activate%20Games+near+33.9113263%2C-84.38061069999999"
+    },
+    {
+      "name": "Game Show Battle Rooms - Atlanta (Dunwoody)",
+      "distance": "2.5 mi",
+      "url": "https://www.google.com/maps/search/Game%20Show%20Battle%20Rooms%20-%20Atlanta%20(Dunwoody)+near+33.9113263%2C-84.38061069999999"
+    },
+    {
+      "name": "Breakout Games",
+      "distance": "3.5 mi",
+      "url": "https://www.google.com/maps/search/Breakout%20Games+near+33.9113263%2C-84.38061069999999",
+      "isFar": true
+    },
+    {
+      "name": "Altitude Trampoline Park",
+      "distance": "4.0 mi",
+      "url": "https://www.google.com/maps/search/Altitude%20Trampoline%20Park+near+33.9113263%2C-84.38061069999999",
+      "isFar": true
+    }
+  ],
+  "hotels": [
+    {
+      "name": "Stylish Luxury Loft: 1 Bed x 1 Bath En Suite",
+      "distance": "0.1 mi",
+      "url": "https://www.google.com/maps/search/Stylish%20Luxury%20Loft%3A%201%20Bed%20x%201%20Bath%20En%20Suite+near+33.9113263%2C-84.38061069999999"
+    },
+    {
+      "name": "Sandy Springs Inn Atlanta - Perimeter",
+      "distance": "0.2 mi",
+      "url": "https://www.google.com/maps/search/Sandy%20Springs%20Inn%20Atlanta%20-%20Perimeter+near+33.9113263%2C-84.38061069999999"
+    },
+    {
+      "name": "Comfort Inn Sandy Springs - Perimeter - Queen Room - Non-Smoking",
+      "distance": "0.2 mi",
+      "url": "https://www.google.com/maps/search/Comfort%20Inn%20Sandy%20Springs%20-%20Perimeter%20-%20Queen%20Room%20-%20Non-Smoking+near+33.9113263%2C-84.38061069999999"
+    },
+    {
+      "name": "A Happy Place",
+      "distance": "0.2 mi",
+      "url": "https://www.google.com/maps/search/A%20Happy%20Place+near+33.9113263%2C-84.38061069999999"
+    },
+    {
+      "name": "Spacious & comfort 1bedroom apartment with balcony",
+      "distance": "0.2 mi",
+      "url": "https://www.google.com/maps/search/Spacious%20%26%20comfort%201bedroom%20apartment%20with%20balcony+near+33.9113263%2C-84.38061069999999"
+    },
+    {
+      "name": "Atlanta - 56",
+      "distance": "0.4 mi",
+      "url": "https://www.google.com/maps/search/Atlanta%20-%2056+near+33.9113263%2C-84.38061069999999"
+    },
+    {
+      "name": "Luxury 2 bedroom Penthouse with Pool and Amenities",
+      "distance": "0.6 mi",
+      "url": "https://www.google.com/maps/search/Luxury%202%20bedroom%20Penthouse%20with%20Pool%20and%20Amenities+near+33.9113263%2C-84.38061069999999"
+    }
+  ],
+  "gas": [
+    {
+      "name": "Shell",
+      "distance": "0.1 mi",
+      "url": "https://www.google.com/maps/search/Shell+near+33.9113263%2C-84.38061069999999"
+    },
+    {
+      "name": "Stars Oil Inc",
+      "distance": "0.1 mi",
+      "url": "https://www.google.com/maps/search/Stars%20Oil%20Inc+near+33.9113263%2C-84.38061069999999"
+    },
+    {
+      "name": "Chevron",
+      "distance": "0.1 mi",
+      "url": "https://www.google.com/maps/search/Chevron+near+33.9113263%2C-84.38061069999999"
+    },
+    {
+      "name": "Texaco",
+      "distance": "0.2 mi",
+      "url": "https://www.google.com/maps/search/Texaco+near+33.9113263%2C-84.38061069999999"
+    },
+    {
+      "name": "Shell",
+      "distance": "0.3 mi",
+      "url": "https://www.google.com/maps/search/Shell+near+33.9113263%2C-84.38061069999999"
+    }
+  ]
+}

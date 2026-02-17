@@ -1,0 +1,214 @@
+{
+  "quick_bite": [
+    {
+      "name": "Burger King",
+      "distance": "0.2 mi",
+      "url": "https://www.google.com/maps/search/Burger%20King+near+44.289847699999996%2C-88.37838579999999"
+    },
+    {
+      "name": "Jimmy John's",
+      "distance": "0.3 mi",
+      "url": "https://www.google.com/maps/search/Jimmy%20John's+near+44.289847699999996%2C-88.37838579999999"
+    },
+    {
+      "name": "McDonald's",
+      "distance": "0.4 mi",
+      "url": "https://www.google.com/maps/search/McDonald's+near+44.289847699999996%2C-88.37838579999999"
+    },
+    {
+      "name": "Hardee's",
+      "distance": "0.4 mi",
+      "url": "https://www.google.com/maps/search/Hardee's+near+44.289847699999996%2C-88.37838579999999"
+    },
+    {
+      "name": "Snowfox Sushibar",
+      "distance": "0.4 mi",
+      "url": "https://www.google.com/maps/search/Snowfox%20Sushibar+near+44.289847699999996%2C-88.37838579999999"
+    }
+  ],
+  "coffee": [
+    {
+      "name": "Caribou Coffee",
+      "distance": "0.3 mi",
+      "url": "https://www.google.com/maps/search/Caribou%20Coffee+near+44.289847699999996%2C-88.37838579999999"
+    },
+    {
+      "name": "Boba House & Coffee",
+      "distance": "1.2 mi",
+      "url": "https://www.google.com/maps/search/Boba%20House%20%26%20Coffee+near+44.289847699999996%2C-88.37838579999999"
+    }
+  ],
+  "team_lunch": [
+    {
+      "name": "Bakery Direct LLC",
+      "distance": "1.0 mi",
+      "url": "https://www.google.com/maps/search/Bakery%20Direct%20LLC+near+44.289847699999996%2C-88.37838579999999"
+    }
+  ],
+  "dinner": [
+    {
+      "name": "MYMY Thai Street Food",
+      "distance": "0.2 mi",
+      "url": "https://www.google.com/maps/search/MYMY%20Thai%20Street%20Food+near+44.289847699999996%2C-88.37838579999999"
+    },
+    {
+      "name": "GingeRootz Asian Grille",
+      "distance": "0.2 mi",
+      "url": "https://www.google.com/maps/search/GingeRootz%20Asian%20Grille+near+44.289847699999996%2C-88.37838579999999"
+    },
+    {
+      "name": "Oasis Nutrition",
+      "distance": "0.3 mi",
+      "url": "https://www.google.com/maps/search/Oasis%20Nutrition+near+44.289847699999996%2C-88.37838579999999"
+    },
+    {
+      "name": "Galvan's Restaurant & Pancake House",
+      "distance": "0.4 mi",
+      "url": "https://www.google.com/maps/search/Galvan's%20Restaurant%20%26%20Pancake%20House+near+44.289847699999996%2C-88.37838579999999"
+    },
+    {
+      "name": "Snaps Wraps",
+      "distance": "0.7 mi",
+      "url": "https://www.google.com/maps/search/Snaps%20Wraps+near+44.289847699999996%2C-88.37838579999999"
+    },
+    {
+      "name": "Wonders Ice Cream",
+      "distance": "0.9 mi",
+      "url": "https://www.google.com/maps/search/Wonders%20Ice%20Cream+near+44.289847699999996%2C-88.37838579999999"
+    },
+    {
+      "name": "Parker John's BBQ & Pizza, Appleton",
+      "distance": "0.9 mi",
+      "url": "https://www.google.com/maps/search/Parker%20John's%20BBQ%20%26%20Pizza%2C%20Appleton+near+44.289847699999996%2C-88.37838579999999"
+    }
+  ],
+  "bowling": [
+    {
+      "name": "Sluggers Sports Bar & Grill",
+      "distance": "0.4 mi",
+      "url": "https://www.google.com/maps/search/Sluggers%20Sports%20Bar%20%26%20Grill+near+44.289847699999996%2C-88.37838579999999"
+    },
+    {
+      "name": "Super Bowl Family Entertainment Center",
+      "distance": "0.4 mi",
+      "url": "https://www.google.com/maps/search/Super%20Bowl%20Family%20Entertainment%20Center+near+44.289847699999996%2C-88.37838579999999"
+    },
+    {
+      "name": "The 10th Frame",
+      "distance": "2.1 mi",
+      "url": "https://www.google.com/maps/search/The%2010th%20Frame+near+44.289847699999996%2C-88.37838579999999"
+    },
+    {
+      "name": "Sabre Lanes",
+      "distance": "4.6 mi",
+      "url": "https://www.google.com/maps/search/Sabre%20Lanes+near+44.289847699999996%2C-88.37838579999999",
+      "isFar": true
+    }
+  ],
+  "arcade": [],
+  "movies": [
+    {
+      "name": "Marcus Valley Grand Cinema",
+      "distance": "2.9 mi",
+      "url": "https://www.google.com/maps/search/Marcus%20Valley%20Grand%20Cinema+near+44.289847699999996%2C-88.37838579999999"
+    },
+    {
+      "name": "Marcus Hollywood Cinema",
+      "distance": "4.5 mi",
+      "url": "https://www.google.com/maps/search/Marcus%20Hollywood%20Cinema+near+44.289847699999996%2C-88.37838579999999",
+      "isFar": true
+    }
+  ],
+  "fun": [
+    {
+      "name": "Badger Sports Park",
+      "distance": "1.4 mi",
+      "url": "https://www.google.com/maps/search/Badger%20Sports%20Park+near+44.289847699999996%2C-88.37838579999999"
+    },
+    {
+      "name": "Escape Room Wisconsin - Appleton",
+      "distance": "1.4 mi",
+      "url": "https://www.google.com/maps/search/Escape%20Room%20Wisconsin%20-%20Appleton+near+44.289847699999996%2C-88.37838579999999"
+    },
+    {
+      "name": "The Breaking Point LLC",
+      "distance": "2.0 mi",
+      "url": "https://www.google.com/maps/search/The%20Breaking%20Point%20LLC+near+44.289847699999996%2C-88.37838579999999"
+    },
+    {
+      "name": "Xtreme Air",
+      "distance": "2.6 mi",
+      "url": "https://www.google.com/maps/search/Xtreme%20Air+near+44.289847699999996%2C-88.37838579999999"
+    },
+    {
+      "name": "Funset Boulevard",
+      "distance": "4.6 mi",
+      "url": "https://www.google.com/maps/search/Funset%20Boulevard+near+44.289847699999996%2C-88.37838579999999",
+      "isFar": true
+    }
+  ],
+  "hotels": [
+    {
+      "name": "Cozy Townhome w / Garage in Appleton",
+      "distance": "0.2 mi",
+      "url": "https://www.google.com/maps/search/Cozy%20Townhome%20w%20%2F%20Garage%20in%20Appleton+near+44.289847699999996%2C-88.37838579999999"
+    },
+    {
+      "name": "Furnished 2BR w/ Garage | Appleton WI",
+      "distance": "0.3 mi",
+      "url": "https://www.google.com/maps/search/Furnished%202BR%20w%2F%20Garage%20%7C%20Appleton%20WI+near+44.289847699999996%2C-88.37838579999999"
+    },
+    {
+      "name": "Howard Johnson by Wyndham",
+      "distance": "0.4 mi",
+      "url": "https://www.google.com/maps/search/Howard%20Johnson%20by%20Wyndham+near+44.289847699999996%2C-88.37838579999999"
+    },
+    {
+      "name": "Bright & Cozy APT-Self Check-In",
+      "distance": "0.4 mi",
+      "url": "https://www.google.com/maps/search/Bright%20%26%20Cozy%20APT-Self%20Check-In+near+44.289847699999996%2C-88.37838579999999"
+    },
+    {
+      "name": "Bay Street Unit 3 · Charming & Cozy APT-Free Parking",
+      "distance": "0.4 mi",
+      "url": "https://www.google.com/maps/search/Bay%20Street%20Unit%203%20%C2%B7%20Charming%20%26%20Cozy%20APT-Free%20Parking+near+44.289847699999996%2C-88.37838579999999"
+    },
+    {
+      "name": "Chic & Cozy APT-Self Check-In",
+      "distance": "0.4 mi",
+      "url": "https://www.google.com/maps/search/Chic%20%26%20Cozy%20APT-Self%20Check-In+near+44.289847699999996%2C-88.37838579999999"
+    },
+    {
+      "name": "Stylish & Cozy APT-Self Check-In & Free Parking",
+      "distance": "0.4 mi",
+      "url": "https://www.google.com/maps/search/Stylish%20%26%20Cozy%20APT-Self%20Check-In%20%26%20Free%20Parking+near+44.289847699999996%2C-88.37838579999999"
+    }
+  ],
+  "gas": [
+    {
+      "name": "MotoMart Convenience Stores",
+      "distance": "0.2 mi",
+      "url": "https://www.google.com/maps/search/MotoMart%20Convenience%20Stores+near+44.289847699999996%2C-88.37838579999999"
+    },
+    {
+      "name": "Car Wash",
+      "distance": "0.2 mi",
+      "url": "https://www.google.com/maps/search/Car%20Wash+near+44.289847699999996%2C-88.37838579999999"
+    },
+    {
+      "name": "Shell",
+      "distance": "0.4 mi",
+      "url": "https://www.google.com/maps/search/Shell+near+44.289847699999996%2C-88.37838579999999"
+    },
+    {
+      "name": "Ballard GCS 822",
+      "distance": "0.4 mi",
+      "url": "https://www.google.com/maps/search/Ballard%20GCS%20822+near+44.289847699999996%2C-88.37838579999999"
+    },
+    {
+      "name": "Amoco",
+      "distance": "0.9 mi",
+      "url": "https://www.google.com/maps/search/Amoco+near+44.289847699999996%2C-88.37838579999999"
+    }
+  ]
+}

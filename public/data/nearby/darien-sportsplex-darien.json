@@ -1,0 +1,199 @@
+{
+  "quick_bite": [
+    {
+      "name": "Culver’s",
+      "distance": "0.1 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Culver%E2%80%99s&query_place_id=ChIJV7abGm9PDogRhGxM20ju42U&center=41.7544964,-87.9596218"
+    },
+    {
+      "name": "Teddy's Red Hots",
+      "distance": "0.2 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Teddy's%20Red%20Hots&query_place_id=ChIJ41dLAXBPDogRRzluwXT-2mQ&center=41.7531073,-87.96323509999999"
+    },
+    {
+      "name": "Broosters & Babba Grill",
+      "distance": "0.6 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Broosters%20%26%20Babba%20Grill&query_place_id=ChIJi310tHlPDogRG1JX6GavHsY&center=41.7511734,-87.97007769999999"
+    },
+    {
+      "name": "The Patio - Darien",
+      "distance": "0.7 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=The%20Patio%20-%20Darien&query_place_id=ChIJVSr5IUVPDogReNeMm0WUZlw&center=41.7534656,-87.9455385"
+    },
+    {
+      "name": "Jimmy John's",
+      "distance": "0.7 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Jimmy%20John's&query_place_id=ChIJvwLHJ0VPDogRtoLIjfIeW5E&center=41.75306,-87.9454037"
+    },
+    {
+      "name": "Chuck E. Cheese",
+      "distance": "0.7 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Chuck%20E.%20Cheese&query_place_id=ChIJ4bJHsIJPDogRM5-wX71BAa4&center=41.7532038,-87.9719204"
+    }
+  ],
+  "coffee": [
+    {
+      "name": "Blueberry Hill Breakfast Cafe",
+      "distance": "0.7 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Blueberry%20Hill%20Breakfast%20Cafe&query_place_id=ChIJB6b4PUVPDogRR6yEgadPJRI&center=41.7547481,-87.9456613"
+    }
+  ],
+  "team_lunch": [
+    {
+      "name": "Malahini Terrace",
+      "distance": "0.2 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Malahini%20Terrace&query_place_id=ChIJic2Yw7pIDogRGRqsnMqsEgI&center=41.7513085,-87.95534669999999"
+    },
+    {
+      "name": "Dough Rasine",
+      "distance": "0.9 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Dough%20Rasine&query_place_id=ChIJTe0KMAtPDogRePff_zCloxQ&center=41.7661778,-87.95371659999999"
+    }
+  ],
+  "dinner": [
+    {
+      "name": "CHI-SHACK",
+      "distance": "0.2 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=CHI-SHACK&query_place_id=ChIJtzxdxWdPDogRZgwTl4VxFFA&center=41.751768999999996,-87.954888"
+    },
+    {
+      "name": "Balcanico",
+      "distance": "0.2 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Balcanico&query_place_id=ChIJA9pJvDRPDogR0DHeodA_VrE&center=41.7529432,-87.9632256"
+    },
+    {
+      "name": "Pizzeria K",
+      "distance": "0.2 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Pizzeria%20K&query_place_id=ChIJB0RB2xNPDogR_okIPUdV5w4&center=41.752891500000004,-87.9632304"
+    },
+    {
+      "name": "Andrea Cake Artist by Mamine Krofnice and Yummy Bites Catering",
+      "distance": "0.2 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Andrea%20Cake%20Artist%20by%20Mamine%20Krofnice%20and%20Yummy%20Bites%20Catering&query_place_id=ChIJ_2nrH3xPDogRDb1OSWSKqZM&center=41.752458,-87.96306609999999"
+    },
+    {
+      "name": "Val's Kitchen and Plus",
+      "distance": "0.2 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Val's%20Kitchen%20and%20Plus&query_place_id=ChIJTTOv39xPDogREJTq6YSCXCc&center=41.7525293,-87.9631137"
+    },
+    {
+      "name": "Bua Thai Kitchen",
+      "distance": "0.2 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Bua%20Thai%20Kitchen&query_place_id=ChIJiZU76VtPDogRmCkWhZW2KdY&center=41.7525293,-87.9631137"
+    }
+  ],
+  "bowling": [
+    {
+      "name": "Bowlero Woodridge",
+      "distance": "3.3 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Bowlero%20Woodridge&query_place_id=ChIJzzHEPw9QDogR6TDVDOYNffs&center=41.749751599999996,-88.0232453",
+      "isFar": true
+    },
+    {
+      "name": "Tivoli Bowl",
+      "distance": "3.9 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Tivoli%20Bowl&query_place_id=ChIJk5Ha-CZODogRESKbSHzGsFk&center=41.7958624,-88.0090336",
+      "isFar": true
+    },
+    {
+      "name": "Suburbanite Bowl",
+      "distance": "4.0 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Suburbanite%20Bowl&query_place_id=ChIJndymjmVODogR32lNd98t304&center=41.809581699999995,-87.98191829999999",
+      "isFar": true
+    }
+  ],
+  "arcade": [],
+  "movies": [
+    {
+      "name": "Hollywood Blvd Cinema",
+      "distance": "3.0 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Hollywood%20Blvd%20Cinema&query_place_id=ChIJgXFzngNQDogRQQz8Mf38f68&center=41.7492557,-88.0166553",
+      "isFar": true
+    },
+    {
+      "name": "Classic Cinemas Tivoli Theatre",
+      "distance": "3.9 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Classic%20Cinemas%20Tivoli%20Theatre&query_place_id=ChIJK056_iZODogR9Xg7bmQBT-Q&center=41.795958899999995,-88.0091458",
+      "isFar": true
+    }
+  ],
+  "fun": [
+    {
+      "name": "Escapology Escape Rooms Downers Grove",
+      "distance": "3.0 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Escapology%20Escape%20Rooms%20Downers%20Grove&query_place_id=ChIJe1zogJdRDogRWA6CXxWFW4c&center=41.751911299999996,-88.01593350000002"
+    },
+    {
+      "name": "Waterfall Glen Information Board",
+      "distance": "3.2 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Waterfall%20Glen%20Information%20Board&query_place_id=ChIJIWKGTQBFDogRa52yRR0fHEw&center=41.707187499999996,-87.95931250000001",
+      "isFar": true
+    },
+    {
+      "name": "Sky Zone Trampoline Park",
+      "distance": "4.1 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Sky%20Zone%20Trampoline%20Park&query_place_id=ChIJ7ZMpqVhPDogR6bTuvD5cUcI&center=41.8116719,-87.9731402",
+      "isFar": true
+    },
+    {
+      "name": "SCHIFFERS HALLOWEEN INSANITY",
+      "distance": "4.2 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=SCHIFFERS%20HALLOWEEN%20INSANITY&query_place_id=ChIJM6avjf9PDogRPiPjwmsUayo&center=41.8111035,-87.9853775",
+      "isFar": true
+    }
+  ],
+  "hotels": [
+    {
+      "name": "Darien Delight - Single Level Ranch",
+      "distance": "0.7 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Darien%20Delight%20-%20Single%20Level%20Ranch&query_place_id=ChIJ4xiis31PDogR07PpZn2aC1I&center=41.745021799999996,-87.96617119999999"
+    },
+    {
+      "name": "Darien Delight - Single Level Ranch",
+      "distance": "0.7 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Darien%20Delight%20-%20Single%20Level%20Ranch&query_place_id=ChIJiXJQk35PDogRFDTGCmYSw6I&center=41.746147199999996,-87.96897129999999"
+    },
+    {
+      "name": "Red Roof PLUS+ Chicago - Willowbrook",
+      "distance": "0.8 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Red%20Roof%20PLUS%2B%20Chicago%20-%20Willowbrook&query_place_id=ChIJBZgkplpPDogRZouv-ikInFE&center=41.7516263,-87.9434873"
+    },
+    {
+      "name": "Delta Hotels Chicago Willowbrook",
+      "distance": "0.9 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Delta%20Hotels%20Chicago%20Willowbrook&query_place_id=ChIJAYJ_gtZPDogRLjLEOXDB5DQ&center=41.7471683,-87.9436401"
+    },
+    {
+      "name": "Econo Lodge Willowbrook",
+      "distance": "1.0 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Econo%20Lodge%20Willowbrook&query_place_id=ChIJUTNgbFdPDogRUeZHkadsSac&center=41.7455625,-87.94222889999999"
+    },
+    {
+      "name": "La Quinta Inn by Wyndham Chicago Willowbrook",
+      "distance": "1.0 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=La%20Quinta%20Inn%20by%20Wyndham%20Chicago%20Willowbrook&query_place_id=ChIJSyn61VlPDogR8AAu0kLMokk&center=41.7443641,-87.9432454"
+    }
+  ],
+  "gas": [
+    {
+      "name": "GO 2 MARKET",
+      "distance": "0.3 mi",
+      "url": "https://www.google.com/maps/search/GO%202%20MARKET+near+41.7536778%2C-87.95856649999999"
+    },
+    {
+      "name": "Citgo Gas Station",
+      "distance": "0.3 mi",
+      "url": "https://www.google.com/maps/search/Citgo%20Gas%20Station+near+41.7536778%2C-87.95856649999999"
+    },
+    {
+      "name": "76",
+      "distance": "0.3 mi",
+      "url": "https://www.google.com/maps/search/76+near+41.7536778%2C-87.95856649999999"
+    },
+    {
+      "name": "Mobil",
+      "distance": "0.8 mi",
+      "url": "https://www.google.com/maps/search/Mobil+near+41.7536778%2C-87.95856649999999"
+    }
+  ]
+}

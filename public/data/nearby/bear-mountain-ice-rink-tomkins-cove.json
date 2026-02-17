@@ -1,0 +1,228 @@
+{
+  "quick_bite": [
+    {
+      "name": "Subway",
+      "distance": "4.0 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Subway&query_place_id=ChIJ6Sds89vIwokRJCI1Tx3IKM8&center=41.2904105,-73.9188149",
+      "isFar": true
+    },
+    {
+      "name": "Deli",
+      "distance": "4.2 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Deli&query_place_id=ChIJP1cGdoDPwokRDpPcxv-EVnM&center=41.2655009,-73.93720739999999",
+      "isFar": true
+    },
+    {
+      "name": "West Point FMWR Bowling Center",
+      "distance": "4.9 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=West%20Point%20FMWR%20Bowling%20Center&query_place_id=ChIJOb7j317MwokRzdIQd8RMe_E&center=41.37874,-73.96391899999999",
+      "isFar": true
+    },
+    {
+      "name": "Monas Restaurant & Deli",
+      "distance": "5.0 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Monas%20Restaurant%20%26%20Deli&query_place_id=ChIJ1clUOhbHwokRxS8ikwwcIvw&center=41.2542949,-73.9326985",
+      "isFar": true
+    }
+  ],
+  "coffee": [
+    {
+      "name": "Bear Mountain Pizza & Cafe",
+      "distance": "1.5 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Bear%20Mountain%20Pizza%20%26%20Cafe&query_place_id=ChIJU1p8t2POwokRfPsqg6wnBJM&center=41.3322459,-73.9861392"
+    },
+    {
+      "name": "Dunkin'",
+      "distance": "1.7 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Dunkin'&query_place_id=ChIJg71vYXHPwokRQIqFO5-jhRo&center=41.3355299,-73.9848411"
+    },
+    {
+      "name": "Dunkin'",
+      "distance": "3.0 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Dunkin'&query_place_id=ChIJbfvqMSbPwokRuB0-VdaBT40&center=41.2986291,-73.93652759999999"
+    },
+    {
+      "name": "Bake Me a Wish of Westchester",
+      "distance": "4.0 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Bake%20Me%20a%20Wish%20of%20Westchester&query_place_id=ChIJRdkqSMjIwokRJGcBLgGo4j0&center=41.2793506,-73.9268886",
+      "isFar": true
+    },
+    {
+      "name": "Bear Mountain Bakery & Cafe",
+      "distance": "4.3 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Bear%20Mountain%20Bakery%20%26%20Cafe&query_place_id=ChIJlUKxKpbNwokRz0CXZkBSmTk&center=41.370714899999996,-73.96521469999999",
+      "isFar": true
+    }
+  ],
+  "team_lunch": [
+    {
+      "name": "Restaurant 1915",
+      "distance": "0.2 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Restaurant%201915&query_place_id=ChIJt7JN2wnPwokRn9zCOHjMEvw&center=41.313084,-73.9895203"
+    },
+    {
+      "name": "Bear Mountain",
+      "distance": "0.2 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Bear%20Mountain&query_place_id=ChIJ__8_OVHOwokRAYnUwXkuLs0&center=41.3131541,-73.98962159999999"
+    },
+    {
+      "name": "De Pasadita Food Truck",
+      "distance": "3.1 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=De%20Pasadita%20Food%20Truck&query_place_id=ChIJedS7_5_JwokR6hxgp-ROByk&center=41.2993494,-73.9344041",
+      "isFar": true
+    },
+    {
+      "name": "Apropos Restaurant at The Abbey Inn",
+      "distance": "3.5 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Apropos%20Restaurant%20at%20The%20Abbey%20Inn&query_place_id=ChIJKYHkNdHIwokR3OuNOr5py0s&center=41.2927876,-73.9285774",
+      "isFar": true
+    },
+    {
+      "name": "The SaraDough",
+      "distance": "4.2 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=The%20SaraDough&query_place_id=ChIJ01yXMBnJwokRdHwplr7RgUc&center=41.3346148,-73.9157692",
+      "isFar": true
+    },
+    {
+      "name": "Aunt Allie's Artisanal cookies and gifts",
+      "distance": "4.7 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Aunt%20Allie's%20Artisanal%20cookies%20and%20gifts&query_place_id=ChIJ5dH-9zvFwokRQn2b2KRRuCs&center=41.2544215,-73.94057339999999",
+      "isFar": true
+    }
+  ],
+  "dinner": [
+    {
+      "name": "American Burrito",
+      "distance": "1.4 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=American%20Burrito&query_place_id=ChIJb0ygR1zMwokRgrPvlzeyaK0&center=41.3314036,-73.988214"
+    },
+    {
+      "name": "Richie's Little Place",
+      "distance": "1.4 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Richie's%20Little%20Place&query_place_id=ChIJv6Ms3GPOwokRVDKJR5xxe4U&center=41.331792,-73.9872252"
+    },
+    {
+      "name": "Barnstormer Barbeque",
+      "distance": "1.9 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Barnstormer%20Barbeque&query_place_id=ChIJ7-hK4oPOwokRHSzULnkf0GM&center=41.337725999999996,-73.97930500000001"
+    },
+    {
+      "name": "Table 9",
+      "distance": "3.0 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Table%209&query_place_id=ChIJK3EAMSbPwokRlXwc5WHpljA&center=41.2988368,-73.93574070000001",
+      "isFar": true
+    },
+    {
+      "name": "Redline Roadhouse",
+      "distance": "3.3 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Redline%20Roadhouse&query_place_id=ChIJW0x7_DPJwokRfBapRn1FuYw&center=41.3079088,-73.9282332",
+      "isFar": true
+    },
+    {
+      "name": "Panaderia Quetzal",
+      "distance": "3.3 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Panaderia%20Quetzal&query_place_id=ChIJ87Qf_l7JwokREf6nloUnfpU&center=41.307943,-73.92822939999999",
+      "isFar": true
+    }
+  ],
+  "bowling": [
+    {
+      "name": "Little Kings & Queens Fun Place",
+      "distance": "5.8 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Little%20Kings%20%26%20Queens%20Fun%20Place&query_place_id=ChIJqXP-2RzJwokR7qCizKXaTl4&center=41.30599910000001,-73.8794702",
+      "isFar": true
+    },
+    {
+      "name": "Hudson Lanes and Games",
+      "distance": "6.3 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Hudson%20Lanes%20and%20Games&query_place_id=ChIJKQEhQLTJwokRpUxRSnafJ_A&center=41.2948197,-73.87178109999999",
+      "isFar": true
+    },
+    {
+      "name": "Break Point Bowl & Entertainment",
+      "distance": "7.3 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Break%20Point%20Bowl%20%26%20Entertainment&query_place_id=ChIJy6BtK2XEwokRwvqkQkiKuGo&center=41.206045499999995,-73.9829937",
+      "isFar": true
+    }
+  ],
+  "arcade": [],
+  "movies": [
+    {
+      "name": "Regal UA Cortlandt Town Center",
+      "distance": "6.4 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Regal%20UA%20Cortlandt%20Town%20Center&query_place_id=ChIJ8ffvxr3JwokRlFqPbg6p9cU&center=41.310422599999995,-73.8677969",
+      "isFar": true
+    }
+  ],
+  "fun": [
+    {
+      "name": "Amphibians, Reptiles, and Fish Museum",
+      "distance": "0.4 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Amphibians%2C%20Reptiles%2C%20and%20Fish%20Museum&query_place_id=ChIJQcOyHQDPwokRwCIHntkLiQY&center=41.3174323,-73.98858129999999"
+    },
+    {
+      "name": "Brodyaga Mountain",
+      "distance": "2.4 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Brodyaga%20Mountain&query_place_id=ChIJUxy8EgDPwokRB8khHkgNuoE&center=41.27997,-74.01288000000001"
+    },
+    {
+      "name": "The Timp, NYC View",
+      "distance": "2.5 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=The%20Timp%2C%20NYC%20View&query_place_id=ChIJd5NQCQDPwokRpJwxsplzw8M&center=41.275155999999996,-74.0005374"
+    }
+  ],
+  "hotels": [
+    {
+      "name": "Bear Mountain Inn",
+      "distance": "0.1 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Bear%20Mountain%20Inn&query_place_id=ChIJ52D7rFbOwokRKbSZE8y9a94&center=41.3130514,-73.9898898"
+    },
+    {
+      "name": "Stone Cottages at Bear Mountain Inn",
+      "distance": "0.6 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Stone%20Cottages%20at%20Bear%20Mountain%20Inn&query_place_id=ChIJcUkm11DOwokRh5kXU4CkU2Q&center=41.319587,-73.99271329999999"
+    },
+    {
+      "name": "Bear Mountain Inn - Overlook Lodge",
+      "distance": "0.7 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Bear%20Mountain%20Inn%20-%20Overlook%20Lodge&query_place_id=ChIJMfVq5ETOwokR2SFJfBABQYM&center=41.3201714,-73.9967346"
+    },
+    {
+      "name": "Discover Nature’s Glory! Perfect Family Home",
+      "distance": "1.3 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Discover%20Nature%E2%80%99s%20Glory!%20Perfect%20Family%20Home&query_place_id=ChIJ28BkSYDOwokRjs15X6cn31c&center=41.329620299999995,-73.9880295"
+    },
+    {
+      "name": "Homestay Montgomery",
+      "distance": "1.3 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Homestay%20Montgomery&query_place_id=ChIJDRngLADPwokRPxpjk8_j9Kk&center=41.3300218,-73.9878633"
+    },
+    {
+      "name": "Home To Rent For West Point Activities, PCS Moves, and TDY",
+      "distance": "1.6 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Home%20To%20Rent%20For%20West%20Point%20Activities%2C%20PCS%20Moves%2C%20and%20TDY&query_place_id=ChIJP_bEQIjOwokRSiwZbmTO3U0&center=41.3333702,-73.9814071"
+    }
+  ],
+  "gas": [
+    {
+      "name": "Mobil",
+      "distance": "2.0 mi",
+      "url": "https://www.google.com/maps/search/Mobil+near+41.311341999999996%2C-73.9912784"
+    },
+    {
+      "name": "Gulf",
+      "distance": "3.3 mi",
+      "url": "https://www.google.com/maps/search/Gulf+near+41.311341999999996%2C-73.9912784"
+    },
+    {
+      "name": "Cortland Premium",
+      "distance": "3.3 mi",
+      "url": "https://www.google.com/maps/search/Cortland%20Premium+near+41.311341999999996%2C-73.9912784"
+    },
+    {
+      "name": "Nu Way Fuel Services Corporation",
+      "distance": "3.6 mi",
+      "url": "https://www.google.com/maps/search/Nu%20Way%20Fuel%20Services%20Corporation+near+41.311341999999996%2C-73.9912784"
+    }
+  ]
+}

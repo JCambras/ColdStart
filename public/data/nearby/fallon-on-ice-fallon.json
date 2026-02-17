@@ -1,0 +1,187 @@
+{
+  "quick_bite": [
+    {
+      "name": "Jack in the Box",
+      "distance": "0.1 mi",
+      "url": "https://www.google.com/maps/search/Jack%20in%20the%20Box+near+39.474359799999995%2C-118.7785165"
+    },
+    {
+      "name": "Little Caesars Pizza",
+      "distance": "0.3 mi",
+      "url": "https://www.google.com/maps/search/Little%20Caesars%20Pizza+near+39.474359799999995%2C-118.7785165"
+    }
+  ],
+  "coffee": [
+    {
+      "name": "Stone Cabin Coffee",
+      "distance": "0.4 mi",
+      "url": "https://www.google.com/maps/search/Stone%20Cabin%20Coffee+near+39.474359799999995%2C-118.7785165"
+    },
+    {
+      "name": "Maine Street Cafe",
+      "distance": "0.5 mi",
+      "url": "https://www.google.com/maps/search/Maine%20Street%20Cafe+near+39.474359799999995%2C-118.7785165"
+    },
+    {
+      "name": "The Coffee Shop",
+      "distance": "0.5 mi",
+      "url": "https://www.google.com/maps/search/The%20Coffee%20Shop+near+39.474359799999995%2C-118.7785165"
+    },
+    {
+      "name": "Starbucks Coffee Company",
+      "distance": "0.5 mi",
+      "url": "https://www.google.com/maps/search/Starbucks%20Coffee%20Company+near+39.474359799999995%2C-118.7785165"
+    }
+  ],
+  "team_lunch": [
+    {
+      "name": "The Wok",
+      "distance": "0.1 mi",
+      "url": "https://www.google.com/maps/search/The%20Wok+near+39.474359799999995%2C-118.7785165"
+    },
+    {
+      "name": "Uzumaki Restaurant",
+      "distance": "0.2 mi",
+      "url": "https://www.google.com/maps/search/Uzumaki%20Restaurant+near+39.474359799999995%2C-118.7785165"
+    },
+    {
+      "name": "Susie's BBQ & Catering",
+      "distance": "0.4 mi",
+      "url": "https://www.google.com/maps/search/Susie's%20BBQ%20%26%20Catering+near+39.474359799999995%2C-118.7785165"
+    },
+    {
+      "name": "J D Slinger's Steakhouse",
+      "distance": "0.5 mi",
+      "url": "https://www.google.com/maps/search/J%20D%20Slinger's%20Steakhouse+near+39.474359799999995%2C-118.7785165"
+    }
+  ],
+  "dinner": [
+    {
+      "name": "Annalee's Cafe",
+      "distance": "0.1 mi",
+      "url": "https://www.google.com/maps/search/Annalee's%20Cafe+near+39.474359799999995%2C-118.7785165"
+    },
+    {
+      "name": "Bites and Bottles LLC",
+      "distance": "0.1 mi",
+      "url": "https://www.google.com/maps/search/Bites%20and%20Bottles%20LLC+near+39.474359799999995%2C-118.7785165"
+    },
+    {
+      "name": "La Fiesta",
+      "distance": "0.1 mi",
+      "url": "https://www.google.com/maps/search/La%20Fiesta+near+39.474359799999995%2C-118.7785165"
+    },
+    {
+      "name": "Fajitas Gourmet",
+      "distance": "0.1 mi",
+      "url": "https://www.google.com/maps/search/Fajitas%20Gourmet+near+39.474359799999995%2C-118.7785165"
+    },
+    {
+      "name": "The Courtyard Cafe & Bakery",
+      "distance": "0.1 mi",
+      "url": "https://www.google.com/maps/search/The%20Courtyard%20Cafe%20%26%20Bakery+near+39.474359799999995%2C-118.7785165"
+    },
+    {
+      "name": "Boozy Lion Bar and Grill",
+      "distance": "0.1 mi",
+      "url": "https://www.google.com/maps/search/Boozy%20Lion%20Bar%20and%20Grill+near+39.474359799999995%2C-118.7785165"
+    },
+    {
+      "name": "Krab Kingz",
+      "distance": "0.2 mi",
+      "url": "https://www.google.com/maps/search/Krab%20Kingz+near+39.474359799999995%2C-118.7785165"
+    }
+  ],
+  "bowling": [
+    {
+      "name": "Sage Brush Bowling Alley",
+      "distance": "4.7 mi",
+      "url": "https://www.google.com/maps/search/Sage%20Brush%20Bowling%20Alley+near+39.474359799999995%2C-118.7785165",
+      "isFar": true
+    }
+  ],
+  "arcade": [],
+  "movies": [
+    {
+      "name": "Fallon Theatres",
+      "distance": "0.1 mi",
+      "url": "https://www.google.com/maps/search/Fallon%20Theatres+near+39.474359799999995%2C-118.7785165"
+    },
+    {
+      "name": "Fox Peak Cinema",
+      "distance": "0.5 mi",
+      "url": "https://www.google.com/maps/search/Fox%20Peak%20Cinema+near+39.474359799999995%2C-118.7785165"
+    },
+    {
+      "name": "NAS Fallon Movie Theater",
+      "distance": "4.6 mi",
+      "url": "https://www.google.com/maps/search/NAS%20Fallon%20Movie%20Theater+near+39.474359799999995%2C-118.7785165",
+      "isFar": true
+    }
+  ],
+  "fun": [],
+  "hotels": [
+    {
+      "name": "Value Inn",
+      "distance": "0.1 mi",
+      "url": "https://www.google.com/maps/search/Value%20Inn+near+39.474359799999995%2C-118.7785165"
+    },
+    {
+      "name": "Econo Lodge Fallon Naval Air Station Area",
+      "distance": "0.1 mi",
+      "url": "https://www.google.com/maps/search/Econo%20Lodge%20Fallon%20Naval%20Air%20Station%20Area+near+39.474359799999995%2C-118.7785165"
+    },
+    {
+      "name": "Fallon Lodge Motel",
+      "distance": "0.2 mi",
+      "url": "https://www.google.com/maps/search/Fallon%20Lodge%20Motel+near+39.474359799999995%2C-118.7785165"
+    },
+    {
+      "name": "Tranquil Retreat: Cozy 2Bed, 1Bath Oasis in Fallon",
+      "distance": "0.4 mi",
+      "url": "https://www.google.com/maps/search/Tranquil%20Retreat%3A%20Cozy%202Bed%2C%201Bath%20Oasis%20in%20Fallon+near+39.474359799999995%2C-118.7785165"
+    },
+    {
+      "name": "Modern 4 Bedroom Home",
+      "distance": "0.4 mi",
+      "url": "https://www.google.com/maps/search/Modern%204%20Bedroom%20Home+near+39.474359799999995%2C-118.7785165"
+    },
+    {
+      "name": "Charming 2-bedroom house with WiFi, AC in peaceful Fallon",
+      "distance": "0.4 mi",
+      "url": "https://www.google.com/maps/search/Charming%202-bedroom%20house%20with%20WiFi%2C%20AC%20in%20peaceful%20Fallon+near+39.474359799999995%2C-118.7785165"
+    },
+    {
+      "name": "Super 8 by Wyndham Fallon",
+      "distance": "0.4 mi",
+      "url": "https://www.google.com/maps/search/Super%208%20by%20Wyndham%20Fallon+near+39.474359799999995%2C-118.7785165"
+    }
+  ],
+  "gas": [
+    {
+      "name": "Flyers",
+      "distance": "0.3 mi",
+      "url": "https://www.google.com/maps/search/Flyers+near+39.474359799999995%2C-118.7785165"
+    },
+    {
+      "name": "M K Food Liquor & Gas",
+      "distance": "0.3 mi",
+      "url": "https://www.google.com/maps/search/M%20K%20Food%20Liquor%20%26%20Gas+near+39.474359799999995%2C-118.7785165"
+    },
+    {
+      "name": "Maverik",
+      "distance": "0.5 mi",
+      "url": "https://www.google.com/maps/search/Maverik+near+39.474359799999995%2C-118.7785165"
+    },
+    {
+      "name": "Texaco",
+      "distance": "0.5 mi",
+      "url": "https://www.google.com/maps/search/Texaco+near+39.474359799999995%2C-118.7785165"
+    },
+    {
+      "name": "Fallon Station",
+      "distance": "0.8 mi",
+      "url": "https://www.google.com/maps/search/Fallon%20Station+near+39.474359799999995%2C-118.7785165"
+    }
+  ]
+}

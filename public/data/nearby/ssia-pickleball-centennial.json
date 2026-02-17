@@ -1,0 +1,267 @@
+{
+  "quick_bite": [
+    {
+      "name": "Noodles and Company",
+      "distance": "0.2 mi",
+      "url": "https://www.google.com/maps/search/Noodles%20and%20Company+near+39.597473099999995%2C-104.9614285"
+    },
+    {
+      "name": "QDOBA Mexican Eats",
+      "distance": "0.2 mi",
+      "url": "https://www.google.com/maps/search/QDOBA%20Mexican%20Eats+near+39.597473099999995%2C-104.9614285"
+    },
+    {
+      "name": "Beautiful newly renovated home centrally located",
+      "distance": "0.3 mi",
+      "url": "https://www.google.com/maps/search/Beautiful%20newly%20renovated%20home%20centrally%20located+near+39.597473099999995%2C-104.9614285"
+    },
+    {
+      "name": "Chuck E. Cheese",
+      "distance": "3.8 mi",
+      "url": "https://www.google.com/maps/search/Chuck%20E.%20Cheese+near+39.597473099999995%2C-104.9614285",
+      "isFar": true
+    },
+    {
+      "name": "Chuck E. Cheese",
+      "distance": "4.4 mi",
+      "url": "https://www.google.com/maps/search/Chuck%20E.%20Cheese+near+39.597473099999995%2C-104.9614285",
+      "isFar": true
+    }
+  ],
+  "coffee": [
+    {
+      "name": "Huckleberry Roasters",
+      "distance": "0.3 mi",
+      "url": "https://www.google.com/maps/search/Huckleberry%20Roasters+near+39.597473099999995%2C-104.9614285"
+    },
+    {
+      "name": "Snooze, an A.M. Eatery",
+      "distance": "0.3 mi",
+      "url": "https://www.google.com/maps/search/Snooze%2C%20an%20A.M.%20Eatery+near+39.597473099999995%2C-104.9614285"
+    },
+    {
+      "name": "Corner Bakery Cafe",
+      "distance": "0.3 mi",
+      "url": "https://www.google.com/maps/search/Corner%20Bakery%20Cafe+near+39.597473099999995%2C-104.9614285"
+    },
+    {
+      "name": "WFM Coffee & Juice Bar",
+      "distance": "0.4 mi",
+      "url": "https://www.google.com/maps/search/WFM%20Coffee%20%26%20Juice%20Bar+near+39.597473099999995%2C-104.9614285"
+    }
+  ],
+  "team_lunch": [
+    {
+      "name": "El Señor Sol",
+      "distance": "0.1 mi",
+      "url": "https://www.google.com/maps/search/El%20Se%C3%B1or%20Sol+near+39.597473099999995%2C-104.9614285"
+    },
+    {
+      "name": "Snarf's Sandwiches",
+      "distance": "0.3 mi",
+      "url": "https://www.google.com/maps/search/Snarf's%20Sandwiches+near+39.597473099999995%2C-104.9614285"
+    },
+    {
+      "name": "My Vision Nutrition Southglenn",
+      "distance": "0.4 mi",
+      "url": "https://www.google.com/maps/search/My%20Vision%20Nutrition%20Southglenn+near+39.597473099999995%2C-104.9614285"
+    },
+    {
+      "name": "Whole Foods Bakery",
+      "distance": "0.4 mi",
+      "url": "https://www.google.com/maps/search/Whole%20Foods%20Bakery+near+39.597473099999995%2C-104.9614285"
+    }
+  ],
+  "dinner": [
+    {
+      "name": "The Poke Story Southglenn",
+      "distance": "0.2 mi",
+      "url": "https://www.google.com/maps/search/The%20Poke%20Story%20Southglenn+near+39.597473099999995%2C-104.9614285"
+    },
+    {
+      "name": "Mici Italian",
+      "distance": "0.2 mi",
+      "url": "https://www.google.com/maps/search/Mici%20Italian+near+39.597473099999995%2C-104.9614285"
+    },
+    {
+      "name": "Shanghai Garden",
+      "distance": "0.2 mi",
+      "url": "https://www.google.com/maps/search/Shanghai%20Garden+near+39.597473099999995%2C-104.9614285"
+    },
+    {
+      "name": "Land of Sushi",
+      "distance": "0.3 mi",
+      "url": "https://www.google.com/maps/search/Land%20of%20Sushi+near+39.597473099999995%2C-104.9614285"
+    },
+    {
+      "name": "Bad Daddy's Burger Bar",
+      "distance": "0.3 mi",
+      "url": "https://www.google.com/maps/search/Bad%20Daddy's%20Burger%20Bar+near+39.597473099999995%2C-104.9614285"
+    },
+    {
+      "name": "First Watch",
+      "distance": "0.4 mi",
+      "url": "https://www.google.com/maps/search/First%20Watch+near+39.597473099999995%2C-104.9614285"
+    },
+    {
+      "name": "Phở 95",
+      "distance": "0.4 mi",
+      "url": "https://www.google.com/maps/search/Ph%E1%BB%9F%2095+near+39.597473099999995%2C-104.9614285"
+    }
+  ],
+  "bowling": [
+    {
+      "name": "Bowlero Littleton",
+      "distance": "2.3 mi",
+      "url": "https://www.google.com/maps/search/Bowlero%20Littleton+near+39.597473099999995%2C-104.9614285"
+    },
+    {
+      "name": "Bowlero Englewood",
+      "distance": "3.9 mi",
+      "url": "https://www.google.com/maps/search/Bowlero%20Englewood+near+39.597473099999995%2C-104.9614285",
+      "isFar": true
+    },
+    {
+      "name": "Arapahoe Bowling Center",
+      "distance": "4.6 mi",
+      "url": "https://www.google.com/maps/search/Arapahoe%20Bowling%20Center+near+39.597473099999995%2C-104.9614285",
+      "isFar": true
+    }
+  ],
+  "arcade": [],
+  "movies": [
+    {
+      "name": "Regal SouthGlenn",
+      "distance": "0.4 mi",
+      "url": "https://www.google.com/maps/search/Regal%20SouthGlenn+near+39.597473099999995%2C-104.9614285"
+    },
+    {
+      "name": "Hollywood Theaters",
+      "distance": "0.5 mi",
+      "url": "https://www.google.com/maps/search/Hollywood%20Theaters+near+39.597473099999995%2C-104.9614285"
+    },
+    {
+      "name": "AMC Highlands Ranch 24",
+      "distance": "3.1 mi",
+      "url": "https://www.google.com/maps/search/AMC%20Highlands%20Ranch%2024+near+39.597473099999995%2C-104.9614285",
+      "isFar": true
+    },
+    {
+      "name": "Alamo Drafthouse Cinema Littleton",
+      "distance": "3.5 mi",
+      "url": "https://www.google.com/maps/search/Alamo%20Drafthouse%20Cinema%20Littleton+near+39.597473099999995%2C-104.9614285",
+      "isFar": true
+    },
+    {
+      "name": "The Landmark at Greenwood Village",
+      "distance": "3.5 mi",
+      "url": "https://www.google.com/maps/search/The%20Landmark%20at%20Greenwood%20Village+near+39.597473099999995%2C-104.9614285",
+      "isFar": true
+    }
+  ],
+  "fun": [
+    {
+      "name": "Game Show Battle Rooms - Denver (Centennial)",
+      "distance": "2.3 mi",
+      "url": "https://www.google.com/maps/search/Game%20Show%20Battle%20Rooms%20-%20Denver%20(Centennial)+near+39.597473099999995%2C-104.9614285"
+    },
+    {
+      "name": "CO Battle Zones",
+      "distance": "2.3 mi",
+      "url": "https://www.google.com/maps/search/CO%20Battle%20Zones+near+39.597473099999995%2C-104.9614285"
+    },
+    {
+      "name": "Pirates Cove Water Park",
+      "distance": "2.9 mi",
+      "url": "https://www.google.com/maps/search/Pirates%20Cove%20Water%20Park+near+39.597473099999995%2C-104.9614285"
+    },
+    {
+      "name": "Mystic Escape Room - Littleton",
+      "distance": "3.3 mi",
+      "url": "https://www.google.com/maps/search/Mystic%20Escape%20Room%20-%20Littleton+near+39.597473099999995%2C-104.9614285",
+      "isFar": true
+    },
+    {
+      "name": "Spray Pad",
+      "distance": "4.0 mi",
+      "url": "https://www.google.com/maps/search/Spray%20Pad+near+39.597473099999995%2C-104.9614285",
+      "isFar": true
+    },
+    {
+      "name": "The Clue Room",
+      "distance": "4.1 mi",
+      "url": "https://www.google.com/maps/search/The%20Clue%20Room+near+39.597473099999995%2C-104.9614285",
+      "isFar": true
+    },
+    {
+      "name": "Epic Escape Game Greenwood Village",
+      "distance": "4.4 mi",
+      "url": "https://www.google.com/maps/search/Epic%20Escape%20Game%20Greenwood%20Village+near+39.597473099999995%2C-104.9614285",
+      "isFar": true
+    }
+  ],
+  "hotels": [
+    {
+      "name": "Eden Ranch Home",
+      "distance": "0.1 mi",
+      "url": "https://www.google.com/maps/search/Eden%20Ranch%20Home+near+39.597473099999995%2C-104.9614285"
+    },
+    {
+      "name": "Spacious and Quiet Home in Centennial",
+      "distance": "0.2 mi",
+      "url": "https://www.google.com/maps/search/Spacious%20and%20Quiet%20Home%20in%20Centennial+near+39.597473099999995%2C-104.9614285"
+    },
+    {
+      "name": "Explore Centennial-Family friendly home/backyard!",
+      "distance": "0.3 mi",
+      "url": "https://www.google.com/maps/search/Explore%20Centennial-Family%20friendly%20home%2Fbackyard!+near+39.597473099999995%2C-104.9614285"
+    },
+    {
+      "name": "Spacious, Quiet Home by DeKoevend Park, Centennial",
+      "distance": "0.3 mi",
+      "url": "https://www.google.com/maps/search/Spacious%2C%20Quiet%20Home%20by%20DeKoevend%20Park%2C%20Centennial+near+39.597473099999995%2C-104.9614285"
+    },
+    {
+      "name": "Spacious and Quiet Home in Centennial - 2 minutes from shopping and restaurants!",
+      "distance": "0.3 mi",
+      "url": "https://www.google.com/maps/search/Spacious%20and%20Quiet%20Home%20in%20Centennial%20-%202%20minutes%20from%20shopping%20and%20restaurants!+near+39.597473099999995%2C-104.9614285"
+    },
+    {
+      "name": "Spacious Home with King Beds, Large Yard, & Family Space",
+      "distance": "0.4 mi",
+      "url": "https://www.google.com/maps/search/Spacious%20Home%20with%20King%20Beds%2C%20Large%20Yard%2C%20%26%20Family%20Space+near+39.597473099999995%2C-104.9614285"
+    },
+    {
+      "name": "Charming Haven for Travelers and Families-Your Perfect Getaway!",
+      "distance": "0.4 mi",
+      "url": "https://www.google.com/maps/search/Charming%20Haven%20for%20Travelers%20and%20Families-Your%20Perfect%20Getaway!+near+39.597473099999995%2C-104.9614285"
+    }
+  ],
+  "gas": [
+    {
+      "name": "Shell",
+      "distance": "0.2 mi",
+      "url": "https://www.google.com/maps/search/Shell+near+39.597473099999995%2C-104.9614285"
+    },
+    {
+      "name": "Shell",
+      "distance": "0.8 mi",
+      "url": "https://www.google.com/maps/search/Shell+near+39.597473099999995%2C-104.9614285"
+    },
+    {
+      "name": "Circle K | Gas Station",
+      "distance": "1.2 mi",
+      "url": "https://www.google.com/maps/search/Circle%20K%20%7C%20Gas%20Station+near+39.597473099999995%2C-104.9614285"
+    },
+    {
+      "name": "Exxon",
+      "distance": "1.4 mi",
+      "url": "https://www.google.com/maps/search/Exxon+near+39.597473099999995%2C-104.9614285"
+    },
+    {
+      "name": "Broadway Estates Conoco",
+      "distance": "1.4 mi",
+      "url": "https://www.google.com/maps/search/Broadway%20Estates%20Conoco+near+39.597473099999995%2C-104.9614285"
+    }
+  ]
+}

@@ -1,0 +1,273 @@
+{
+  "quick_bite": [
+    {
+      "name": "Andy's Burgers",
+      "distance": "0.1 mi",
+      "url": "https://www.google.com/maps/search/Andy's%20Burgers+near+34.062265%2C-117.6473958"
+    },
+    {
+      "name": "Wendy's",
+      "distance": "0.2 mi",
+      "url": "https://www.google.com/maps/search/Wendy's+near+34.062265%2C-117.6473958"
+    },
+    {
+      "name": "Jerked Out Jerky",
+      "distance": "0.3 mi",
+      "url": "https://www.google.com/maps/search/Jerked%20Out%20Jerky+near+34.062265%2C-117.6473958"
+    },
+    {
+      "name": "Church's Texas Chicken",
+      "distance": "0.4 mi",
+      "url": "https://www.google.com/maps/search/Church's%20Texas%20Chicken+near+34.062265%2C-117.6473958"
+    },
+    {
+      "name": "Maya Cinemas Chino 8",
+      "distance": "2.8 mi",
+      "url": "https://www.google.com/maps/search/Maya%20Cinemas%20Chino%208+near+34.062265%2C-117.6473958"
+    },
+    {
+      "name": "Chuck E. Cheese",
+      "distance": "3.1 mi",
+      "url": "https://www.google.com/maps/search/Chuck%20E.%20Cheese+near+34.062265%2C-117.6473958",
+      "isFar": true
+    },
+    {
+      "name": "Chuck E. Cheese",
+      "distance": "4.0 mi",
+      "url": "https://www.google.com/maps/search/Chuck%20E.%20Cheese+near+34.062265%2C-117.6473958",
+      "isFar": true
+    }
+  ],
+  "coffee": [
+    {
+      "name": "Mestiza Coffeehouse",
+      "distance": "0.2 mi",
+      "url": "https://www.google.com/maps/search/Mestiza%20Coffeehouse+near+34.062265%2C-117.6473958"
+    },
+    {
+      "name": "The Greenhouse Matcha",
+      "distance": "0.2 mi",
+      "url": "https://www.google.com/maps/search/The%20Greenhouse%20Matcha+near+34.062265%2C-117.6473958"
+    },
+    {
+      "name": "Page One Cafe",
+      "distance": "0.3 mi",
+      "url": "https://www.google.com/maps/search/Page%20One%20Cafe+near+34.062265%2C-117.6473958"
+    }
+  ],
+  "team_lunch": [
+    {
+      "name": "Saturday Lunch Spot",
+      "distance": "0.2 mi",
+      "url": "https://www.google.com/maps/search/Saturday%20Lunch%20Spot+near+34.062265%2C-117.6473958"
+    },
+    {
+      "name": "Axiote Asadeso",
+      "distance": "0.2 mi",
+      "url": "https://www.google.com/maps/search/Axiote%20Asadeso+near+34.062265%2C-117.6473958"
+    },
+    {
+      "name": "Mule Car Smokehouse",
+      "distance": "0.2 mi",
+      "url": "https://www.google.com/maps/search/Mule%20Car%20Smokehouse+near+34.062265%2C-117.6473958"
+    },
+    {
+      "name": "Dova Cafe",
+      "distance": "0.3 mi",
+      "url": "https://www.google.com/maps/search/Dova%20Cafe+near+34.062265%2C-117.6473958"
+    },
+    {
+      "name": "Aria Cocina Mexicana and Grill",
+      "distance": "0.3 mi",
+      "url": "https://www.google.com/maps/search/Aria%20Cocina%20Mexicana%20and%20Grill+near+34.062265%2C-117.6473958"
+    },
+    {
+      "name": "Aria Mi Patria",
+      "distance": "0.3 mi",
+      "url": "https://www.google.com/maps/search/Aria%20Mi%20Patria+near+34.062265%2C-117.6473958"
+    },
+    {
+      "name": "Juan Pollo",
+      "distance": "0.4 mi",
+      "url": "https://www.google.com/maps/search/Juan%20Pollo+near+34.062265%2C-117.6473958"
+    }
+  ],
+  "dinner": [
+    {
+      "name": "Birrieria Xolos",
+      "distance": "0.2 mi",
+      "url": "https://www.google.com/maps/search/Birrieria%20Xolos+near+34.062265%2C-117.6473958"
+    },
+    {
+      "name": "El Balcon Rooftop",
+      "distance": "0.2 mi",
+      "url": "https://www.google.com/maps/search/El%20Balcon%20Rooftop+near+34.062265%2C-117.6473958"
+    },
+    {
+      "name": "Mary's Taqueria",
+      "distance": "0.3 mi",
+      "url": "https://www.google.com/maps/search/Mary's%20Taqueria+near+34.062265%2C-117.6473958"
+    },
+    {
+      "name": "Taqueria Tamazulena",
+      "distance": "0.3 mi",
+      "url": "https://www.google.com/maps/search/Taqueria%20Tamazulena+near+34.062265%2C-117.6473958"
+    },
+    {
+      "name": "Unique Cafe",
+      "distance": "0.3 mi",
+      "url": "https://www.google.com/maps/search/Unique%20Cafe+near+34.062265%2C-117.6473958"
+    }
+  ],
+  "bowling": [
+    {
+      "name": "Main Event Montclair",
+      "distance": "3.0 mi",
+      "url": "https://www.google.com/maps/search/Main%20Event%20Montclair+near+34.062265%2C-117.6473958",
+      "isFar": true
+    },
+    {
+      "name": "Lucky Strike Upland",
+      "distance": "3.2 mi",
+      "url": "https://www.google.com/maps/search/Lucky%20Strike%20Upland+near+34.062265%2C-117.6473958",
+      "isFar": true
+    },
+    {
+      "name": "Bowlium Lanes",
+      "distance": "3.2 mi",
+      "url": "https://www.google.com/maps/search/Bowlium%20Lanes+near+34.062265%2C-117.6473958",
+      "isFar": true
+    },
+    {
+      "name": "Big Al's",
+      "distance": "4.9 mi",
+      "url": "https://www.google.com/maps/search/Big%20Al's+near+34.062265%2C-117.6473958",
+      "isFar": true
+    }
+  ],
+  "arcade": [],
+  "movies": [
+    {
+      "name": "Regal Edwards Ontario Mountain Village",
+      "distance": "2.1 mi",
+      "url": "https://www.google.com/maps/search/Regal%20Edwards%20Ontario%20Mountain%20Village+near+34.062265%2C-117.6473958"
+    },
+    {
+      "name": "AMC DINE-IN Montclair Place 12",
+      "distance": "3.0 mi",
+      "url": "https://www.google.com/maps/search/AMC%20DINE-IN%20Montclair%20Place%2012+near+34.062265%2C-117.6473958",
+      "isFar": true
+    },
+    {
+      "name": "Laemmle Claremont 5",
+      "distance": "4.7 mi",
+      "url": "https://www.google.com/maps/search/Laemmle%20Claremont%205+near+34.062265%2C-117.6473958",
+      "isFar": true
+    }
+  ],
+  "fun": [
+    {
+      "name": "Bullwinkle's Upland",
+      "distance": "2.6 mi",
+      "url": "https://www.google.com/maps/search/Bullwinkle's%20Upland+near+34.062265%2C-117.6473958"
+    },
+    {
+      "name": "Black Market Escape Rooms - Murder Co",
+      "distance": "2.6 mi",
+      "url": "https://www.google.com/maps/search/Black%20Market%20Escape%20Rooms%20-%20Murder%20Co+near+34.062265%2C-117.6473958"
+    },
+    {
+      "name": "Trapped! Escape Room",
+      "distance": "3.0 mi",
+      "url": "https://www.google.com/maps/search/Trapped!%20Escape%20Room+near+34.062265%2C-117.6473958"
+    },
+    {
+      "name": "Quest Tavern Escape Room",
+      "distance": "3.2 mi",
+      "url": "https://www.google.com/maps/search/Quest%20Tavern%20Escape%20Room+near+34.062265%2C-117.6473958",
+      "isFar": true
+    },
+    {
+      "name": "John's Incredible Pizza - Montclair",
+      "distance": "3.3 mi",
+      "url": "https://www.google.com/maps/search/John's%20Incredible%20Pizza%20-%20Montclair+near+34.062265%2C-117.6473958",
+      "isFar": true
+    },
+    {
+      "name": "Experience Machine: The Mind Suite",
+      "distance": "3.6 mi",
+      "url": "https://www.google.com/maps/search/Experience%20Machine%3A%20The%20Mind%20Suite+near+34.062265%2C-117.6473958",
+      "isFar": true
+    },
+    {
+      "name": "Exodus Escape Room",
+      "distance": "4.6 mi",
+      "url": "https://www.google.com/maps/search/Exodus%20Escape%20Room+near+34.062265%2C-117.6473958",
+      "isFar": true
+    }
+  ],
+  "hotels": [
+    {
+      "name": "The City View Serenity",
+      "distance": "0.1 mi",
+      "url": "https://www.google.com/maps/search/The%20City%20View%20Serenity+near+34.062265%2C-117.6473958"
+    },
+    {
+      "name": "Cozy 3-Bed Home Near Ontario Mills Toyota Arena",
+      "distance": "0.2 mi",
+      "url": "https://www.google.com/maps/search/Cozy%203-Bed%20Home%20Near%20Ontario%20Mills%20Toyota%20Arena+near+34.062265%2C-117.6473958"
+    },
+    {
+      "name": "The Green Studio - BRAND NEW !",
+      "distance": "0.3 mi",
+      "url": "https://www.google.com/maps/search/The%20Green%20Studio%20-%20BRAND%20NEW%20!+near+34.062265%2C-117.6473958"
+    },
+    {
+      "name": "The Peaceful Escape in the Heart of the City",
+      "distance": "0.3 mi",
+      "url": "https://www.google.com/maps/search/The%20Peaceful%20Escape%20in%20the%20Heart%20of%20the%20City+near+34.062265%2C-117.6473958"
+    },
+    {
+      "name": "The Celestial Suite - BRAND NEW !",
+      "distance": "0.3 mi",
+      "url": "https://www.google.com/maps/search/The%20Celestial%20Suite%20-%20BRAND%20NEW%20!+near+34.062265%2C-117.6473958"
+    },
+    {
+      "name": "The Lovely Studio - BRAND NEW !",
+      "distance": "0.3 mi",
+      "url": "https://www.google.com/maps/search/The%20Lovely%20Studio%20-%20BRAND%20NEW%20!+near+34.062265%2C-117.6473958"
+    },
+    {
+      "name": "The Hidden Gem Retreat -BRAND NEW",
+      "distance": "0.3 mi",
+      "url": "https://www.google.com/maps/search/The%20Hidden%20Gem%20Retreat%20-BRAND%20NEW+near+34.062265%2C-117.6473958"
+    }
+  ],
+  "gas": [
+    {
+      "name": "Shell",
+      "distance": "0.2 mi",
+      "url": "https://www.google.com/maps/search/Shell+near+34.062265%2C-117.6473958"
+    },
+    {
+      "name": "South City Gas Inc",
+      "distance": "0.3 mi",
+      "url": "https://www.google.com/maps/search/South%20City%20Gas%20Inc+near+34.062265%2C-117.6473958"
+    },
+    {
+      "name": "ARCO",
+      "distance": "0.4 mi",
+      "url": "https://www.google.com/maps/search/ARCO+near+34.062265%2C-117.6473958"
+    },
+    {
+      "name": "GALAXY GAS",
+      "distance": "0.4 mi",
+      "url": "https://www.google.com/maps/search/GALAXY%20GAS+near+34.062265%2C-117.6473958"
+    },
+    {
+      "name": "ARCO",
+      "distance": "0.4 mi",
+      "url": "https://www.google.com/maps/search/ARCO+near+34.062265%2C-117.6473958"
+    }
+  ]
+}

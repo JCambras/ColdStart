@@ -1,0 +1,193 @@
+{
+  "quick_bite": [
+    {
+      "name": "Cracker Barrel Old Country Store",
+      "distance": "0.1 mi",
+      "url": "https://www.google.com/maps/search/Cracker%20Barrel%20Old%20Country%20Store+near+37.3567773%2C-77.4091409"
+    },
+    {
+      "name": "Wendy's",
+      "distance": "0.2 mi",
+      "url": "https://www.google.com/maps/search/Wendy's+near+37.3567773%2C-77.4091409"
+    },
+    {
+      "name": "Chipotle Mexican Grill",
+      "distance": "0.2 mi",
+      "url": "https://www.google.com/maps/search/Chipotle%20Mexican%20Grill+near+37.3567773%2C-77.4091409"
+    },
+    {
+      "name": "Zaxby's Chicken Fingers & Buffalo Wings",
+      "distance": "0.2 mi",
+      "url": "https://www.google.com/maps/search/Zaxby's%20Chicken%20Fingers%20%26%20Buffalo%20Wings+near+37.3567773%2C-77.4091409"
+    },
+    {
+      "name": "Subway",
+      "distance": "0.2 mi",
+      "url": "https://www.google.com/maps/search/Subway+near+37.3567773%2C-77.4091409"
+    },
+    {
+      "name": "Top's China Restaurant",
+      "distance": "0.2 mi",
+      "url": "https://www.google.com/maps/search/Top's%20China%20Restaurant+near+37.3567773%2C-77.4091409"
+    }
+  ],
+  "coffee": [
+    {
+      "name": "Dunkin'",
+      "distance": "0.2 mi",
+      "url": "https://www.google.com/maps/search/Dunkin'+near+37.3567773%2C-77.4091409"
+    },
+    {
+      "name": "Starbucks Coffee Company",
+      "distance": "0.2 mi",
+      "url": "https://www.google.com/maps/search/Starbucks%20Coffee%20Company+near+37.3567773%2C-77.4091409"
+    }
+  ],
+  "team_lunch": [
+    {
+      "name": "Qmi Sushi",
+      "distance": "0.2 mi",
+      "url": "https://www.google.com/maps/search/Qmi%20Sushi+near+37.3567773%2C-77.4091409"
+    },
+    {
+      "name": "Chili's Grill & Bar",
+      "distance": "0.3 mi",
+      "url": "https://www.google.com/maps/search/Chili's%20Grill%20%26%20Bar+near+37.3567773%2C-77.4091409"
+    },
+    {
+      "name": "Applebee's Grill + Bar",
+      "distance": "0.3 mi",
+      "url": "https://www.google.com/maps/search/Applebee's%20Grill%20%2B%20Bar+near+37.3567773%2C-77.4091409"
+    }
+  ],
+  "dinner": [
+    {
+      "name": "La Reina Mexican Grill",
+      "distance": "0.1 mi",
+      "url": "https://www.google.com/maps/search/La%20Reina%20Mexican%20Grill+near+37.3567773%2C-77.4091409"
+    },
+    {
+      "name": "Chicken Fiesta",
+      "distance": "0.2 mi",
+      "url": "https://www.google.com/maps/search/Chicken%20Fiesta+near+37.3567773%2C-77.4091409"
+    },
+    {
+      "name": "DOMOISHI-Chester",
+      "distance": "0.2 mi",
+      "url": "https://www.google.com/maps/search/DOMOISHI-Chester+near+37.3567773%2C-77.4091409"
+    },
+    {
+      "name": "The Patron Mexican Restaurant and Cantina",
+      "distance": "0.3 mi",
+      "url": "https://www.google.com/maps/search/The%20Patron%20Mexican%20Restaurant%20and%20Cantina+near+37.3567773%2C-77.4091409"
+    }
+  ],
+  "bowling": [
+    {
+      "name": "5th Wheel Bowling",
+      "distance": "6.5 mi",
+      "url": "https://www.google.com/maps/search/5th%20Wheel%20Bowling+near+37.3567773%2C-77.4091409",
+      "isFar": true
+    },
+    {
+      "name": "Hopewell Bowling Center",
+      "distance": "7.3 mi",
+      "url": "https://www.google.com/maps/search/Hopewell%20Bowling%20Center+near+37.3567773%2C-77.4091409",
+      "isFar": true
+    }
+  ],
+  "arcade": [],
+  "movies": [
+    {
+      "name": "Cinema Cafe Chester",
+      "distance": "0.6 mi",
+      "url": "https://www.google.com/maps/search/Cinema%20Cafe%20Chester+near+37.3567773%2C-77.4091409"
+    },
+    {
+      "name": "Regal Southpark Mall",
+      "distance": "7.1 mi",
+      "url": "https://www.google.com/maps/search/Regal%20Southpark%20Mall+near+37.3567773%2C-77.4091409",
+      "isFar": true
+    },
+    {
+      "name": "Old Dominion Barn Dance",
+      "distance": "7.6 mi",
+      "url": "https://www.google.com/maps/search/Old%20Dominion%20Barn%20Dance+near+37.3567773%2C-77.4091409",
+      "isFar": true
+    }
+  ],
+  "fun": [
+    {
+      "name": "The Escape Adventures Escape Room",
+      "distance": "3.0 mi",
+      "url": "https://www.google.com/maps/search/The%20Escape%20Adventures%20Escape%20Room+near+37.3567773%2C-77.4091409",
+      "isFar": true
+    },
+    {
+      "name": "Swaders Sports Park",
+      "distance": "7.8 mi",
+      "url": "https://www.google.com/maps/search/Swaders%20Sports%20Park+near+37.3567773%2C-77.4091409",
+      "isFar": true
+    },
+    {
+      "name": "Escape Old Towne",
+      "distance": "8.9 mi",
+      "url": "https://www.google.com/maps/search/Escape%20Old%20Towne+near+37.3567773%2C-77.4091409",
+      "isFar": true
+    }
+  ],
+  "hotels": [
+    {
+      "name": "Country Inn & Suites by Radisson, Chester, VA",
+      "distance": "0.1 mi",
+      "url": "https://www.google.com/maps/search/Country%20Inn%20%26%20Suites%20by%20Radisson%2C%20Chester%2C%20VA+near+37.3567773%2C-77.4091409"
+    },
+    {
+      "name": "Days Inn by Wyndham Chester",
+      "distance": "0.1 mi",
+      "url": "https://www.google.com/maps/search/Days%20Inn%20by%20Wyndham%20Chester+near+37.3567773%2C-77.4091409"
+    },
+    {
+      "name": "Hotel para Imp de SAP Virginia",
+      "distance": "0.1 mi",
+      "url": "https://www.google.com/maps/search/Hotel%20para%20Imp%20de%20SAP%20Virginia+near+37.3567773%2C-77.4091409"
+    },
+    {
+      "name": "Fairfield Inn Richmond Chester",
+      "distance": "0.1 mi",
+      "url": "https://www.google.com/maps/search/Fairfield%20Inn%20Richmond%20Chester+near+37.3567773%2C-77.4091409"
+    },
+    {
+      "name": "SpringHill Suites by Marriott Chester",
+      "distance": "0.1 mi",
+      "url": "https://www.google.com/maps/search/SpringHill%20Suites%20by%20Marriott%20Chester+near+37.3567773%2C-77.4091409"
+    },
+    {
+      "name": "Super 8 by Wyndham Chester/Richmond Area",
+      "distance": "0.1 mi",
+      "url": "https://www.google.com/maps/search/Super%208%20by%20Wyndham%20Chester%2FRichmond%20Area+near+37.3567773%2C-77.4091409"
+    }
+  ],
+  "gas": [
+    {
+      "name": "Virginia Bites Corp",
+      "distance": "0.1 mi",
+      "url": "https://www.google.com/maps/search/Virginia%20Bites%20Corp+near+37.3567773%2C-77.4091409"
+    },
+    {
+      "name": "Exxon",
+      "distance": "0.1 mi",
+      "url": "https://www.google.com/maps/search/Exxon+near+37.3567773%2C-77.4091409"
+    },
+    {
+      "name": "Shell",
+      "distance": "0.2 mi",
+      "url": "https://www.google.com/maps/search/Shell+near+37.3567773%2C-77.4091409"
+    },
+    {
+      "name": "Sunoco Gas Station",
+      "distance": "0.2 mi",
+      "url": "https://www.google.com/maps/search/Sunoco%20Gas%20Station+near+37.3567773%2C-77.4091409"
+    }
+  ]
+}

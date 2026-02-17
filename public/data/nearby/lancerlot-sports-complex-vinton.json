@@ -1,0 +1,164 @@
+{
+  "quick_bite": [
+    {
+      "name": "SNOWFOX Sushi",
+      "distance": "0.1 mi",
+      "url": "https://www.google.com/maps/search/SNOWFOX%20Sushi+near+37.2709909%2C-79.88758010000001"
+    },
+    {
+      "name": "Subway",
+      "distance": "0.2 mi",
+      "url": "https://www.google.com/maps/search/Subway+near+37.2709909%2C-79.88758010000001"
+    },
+    {
+      "name": "China Wall Chinese Restaurant",
+      "distance": "0.2 mi",
+      "url": "https://www.google.com/maps/search/China%20Wall%20Chinese%20Restaurant+near+37.2709909%2C-79.88758010000001"
+    },
+    {
+      "name": "Marco's Pizza",
+      "distance": "0.2 mi",
+      "url": "https://www.google.com/maps/search/Marco's%20Pizza+near+37.2709909%2C-79.88758010000001"
+    },
+    {
+      "name": "Bojangles",
+      "distance": "0.2 mi",
+      "url": "https://www.google.com/maps/search/Bojangles+near+37.2709909%2C-79.88758010000001"
+    },
+    {
+      "name": "Long John Silver's Temp",
+      "distance": "0.2 mi",
+      "url": "https://www.google.com/maps/search/Long%20John%20Silver's%20Temp+near+37.2709909%2C-79.88758010000001"
+    }
+  ],
+  "coffee": [
+    {
+      "name": "Starbucks Coffee Company",
+      "distance": "0.1 mi",
+      "url": "https://www.google.com/maps/search/Starbucks%20Coffee%20Company+near+37.2709909%2C-79.88758010000001"
+    },
+    {
+      "name": "Dunkin'",
+      "distance": "0.2 mi",
+      "url": "https://www.google.com/maps/search/Dunkin'+near+37.2709909%2C-79.88758010000001"
+    }
+  ],
+  "team_lunch": [
+    {
+      "name": "Kroger Bakery",
+      "distance": "0.1 mi",
+      "url": "https://www.google.com/maps/search/Kroger%20Bakery+near+37.2709909%2C-79.88758010000001"
+    },
+    {
+      "name": "Sistaz Of Soulfood",
+      "distance": "0.2 mi",
+      "url": "https://www.google.com/maps/search/Sistaz%20Of%20Soulfood+near+37.2709909%2C-79.88758010000001"
+    },
+    {
+      "name": "Tacos Rojas 6",
+      "distance": "0.4 mi",
+      "url": "https://www.google.com/maps/search/Tacos%20Rojas%206+near+37.2709909%2C-79.88758010000001"
+    },
+    {
+      "name": "Famous Anthony's Vinton",
+      "distance": "0.5 mi",
+      "url": "https://www.google.com/maps/search/Famous%20Anthony's%20Vinton+near+37.2709909%2C-79.88758010000001"
+    },
+    {
+      "name": "Macado's",
+      "distance": "0.7 mi",
+      "url": "https://www.google.com/maps/search/Macado's+near+37.2709909%2C-79.88758010000001"
+    }
+  ],
+  "dinner": [
+    {
+      "name": "New York Pizza",
+      "distance": "0.3 mi",
+      "url": "https://www.google.com/maps/search/New%20York%20Pizza+near+37.2709909%2C-79.88758010000001"
+    },
+    {
+      "name": "Frank's Pizza & Italian Subs",
+      "distance": "0.7 mi",
+      "url": "https://www.google.com/maps/search/Frank's%20Pizza%20%26%20Italian%20Subs+near+37.2709909%2C-79.88758010000001"
+    },
+    {
+      "name": "Smiley's Grill & BBQ",
+      "distance": "0.7 mi",
+      "url": "https://www.google.com/maps/search/Smiley's%20Grill%20%26%20BBQ+near+37.2709909%2C-79.88758010000001"
+    }
+  ],
+  "bowling": [
+    {
+      "name": "Vinton Bowling Center",
+      "distance": "0.1 mi",
+      "url": "https://www.google.com/maps/search/Vinton%20Bowling%20Center+near+37.2709909%2C-79.88758010000001"
+    }
+  ],
+  "arcade": [],
+  "movies": [
+    {
+      "name": "Megadome Theatre",
+      "distance": "2.9 mi",
+      "url": "https://www.google.com/maps/search/Megadome%20Theatre+near+37.2709909%2C-79.88758010000001"
+    },
+    {
+      "name": "Regal Valley View Grande",
+      "distance": "4.2 mi",
+      "url": "https://www.google.com/maps/search/Regal%20Valley%20View%20Grande+near+37.2709909%2C-79.88758010000001",
+      "isFar": true
+    },
+    {
+      "name": "The Grandin Theatre",
+      "distance": "4.9 mi",
+      "url": "https://www.google.com/maps/search/The%20Grandin%20Theatre+near+37.2709909%2C-79.88758010000001",
+      "isFar": true
+    }
+  ],
+  "fun": [
+    {
+      "name": "Bounce Roanoke",
+      "distance": "2.3 mi",
+      "url": "https://www.google.com/maps/search/Bounce%20Roanoke+near+37.2709909%2C-79.88758010000001"
+    },
+    {
+      "name": "All In Adventures Escape Rooms",
+      "distance": "4.7 mi",
+      "url": "https://www.google.com/maps/search/All%20In%20Adventures%20Escape%20Rooms+near+37.2709909%2C-79.88758010000001",
+      "isFar": true
+    }
+  ],
+  "hotels": [
+    {
+      "name": "American Efficiency Inns",
+      "distance": "0.8 mi",
+      "url": "https://www.google.com/maps/search/American%20Efficiency%20Inns+near+37.2709909%2C-79.88758010000001"
+    },
+    {
+      "name": "The Coca Cola House",
+      "distance": "1.4 mi",
+      "url": "https://www.google.com/maps/search/The%20Coca%20Cola%20House+near+37.2709909%2C-79.88758010000001"
+    }
+  ],
+  "gas": [
+    {
+      "name": "Kroger Fuel Center",
+      "distance": "0.1 mi",
+      "url": "https://www.google.com/maps/search/Kroger%20Fuel%20Center+near+37.2709909%2C-79.88758010000001"
+    },
+    {
+      "name": "Shell",
+      "distance": "0.4 mi",
+      "url": "https://www.google.com/maps/search/Shell+near+37.2709909%2C-79.88758010000001"
+    },
+    {
+      "name": "Vinton Foodmart BP",
+      "distance": "0.8 mi",
+      "url": "https://www.google.com/maps/search/Vinton%20Foodmart%20BP+near+37.2709909%2C-79.88758010000001"
+    },
+    {
+      "name": "BP",
+      "distance": "0.9 mi",
+      "url": "https://www.google.com/maps/search/BP+near+37.2709909%2C-79.88758010000001"
+    }
+  ]
+}

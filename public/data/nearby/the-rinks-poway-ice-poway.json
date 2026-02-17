@@ -1,0 +1,215 @@
+{
+  "quick_bite": [
+    {
+      "name": "In-N-Out Burger",
+      "distance": "0.4 mi",
+      "url": "https://www.google.com/maps/search/In-N-Out%20Burger+near+32.9400763%2C-117.05266439999998"
+    },
+    {
+      "name": "Jersey Mike's Subs",
+      "distance": "0.6 mi",
+      "url": "https://www.google.com/maps/search/Jersey%20Mike's%20Subs+near+32.9400763%2C-117.05266439999998"
+    },
+    {
+      "name": "Takhrai Thai",
+      "distance": "0.6 mi",
+      "url": "https://www.google.com/maps/search/Takhrai%20Thai+near+32.9400763%2C-117.05266439999998"
+    },
+    {
+      "name": "El Pollo Loco",
+      "distance": "0.9 mi",
+      "url": "https://www.google.com/maps/search/El%20Pollo%20Loco+near+32.9400763%2C-117.05266439999998"
+    },
+    {
+      "name": "Jack in the Box",
+      "distance": "1.0 mi",
+      "url": "https://www.google.com/maps/search/Jack%20in%20the%20Box+near+32.9400763%2C-117.05266439999998"
+    },
+    {
+      "name": "Raising Cane's Chicken Fingers",
+      "distance": "1.0 mi",
+      "url": "https://www.google.com/maps/search/Raising%20Cane's%20Chicken%20Fingers+near+32.9400763%2C-117.05266439999998"
+    },
+    {
+      "name": "Chuck E. Cheese",
+      "distance": "4.0 mi",
+      "url": "https://www.google.com/maps/search/Chuck%20E.%20Cheese+near+32.9400763%2C-117.05266439999998",
+      "isFar": true
+    }
+  ],
+  "coffee": [
+    {
+      "name": "Starbucks Coffee Company",
+      "distance": "0.6 mi",
+      "url": "https://www.google.com/maps/search/Starbucks%20Coffee%20Company+near+32.9400763%2C-117.05266439999998"
+    },
+    {
+      "name": "O'Brien's Boulangerie",
+      "distance": "1.0 mi",
+      "url": "https://www.google.com/maps/search/O'Brien's%20Boulangerie+near+32.9400763%2C-117.05266439999998"
+    },
+    {
+      "name": "McDonald's",
+      "distance": "1.0 mi",
+      "url": "https://www.google.com/maps/search/McDonald's+near+32.9400763%2C-117.05266439999998"
+    },
+    {
+      "name": "Better Buzz Coffee – Poway",
+      "distance": "1.0 mi",
+      "url": "https://www.google.com/maps/search/Better%20Buzz%20Coffee%20%E2%80%93%20Poway+near+32.9400763%2C-117.05266439999998"
+    },
+    {
+      "name": "Angelika Film Center & Café - Carmel Mountain",
+      "distance": "3.3 mi",
+      "url": "https://www.google.com/maps/search/Angelika%20Film%20Center%20%26%20Caf%C3%A9%20-%20Carmel%20Mountain+near+32.9400763%2C-117.05266439999998",
+      "isFar": true
+    }
+  ],
+  "team_lunch": [
+    {
+      "name": "GRANDMA'S DUMPLINGS",
+      "distance": "0.8 mi",
+      "url": "https://www.google.com/maps/search/GRANDMA'S%20DUMPLINGS+near+32.9400763%2C-117.05266439999998"
+    }
+  ],
+  "dinner": [
+    {
+      "name": "Eat Your Heart Out II",
+      "distance": "0.3 mi",
+      "url": "https://www.google.com/maps/search/Eat%20Your%20Heart%20Out%20II+near+32.9400763%2C-117.05266439999998"
+    },
+    {
+      "name": "Ju Feng Yuan Dumpling Cafe",
+      "distance": "0.6 mi",
+      "url": "https://www.google.com/maps/search/Ju%20Feng%20Yuan%20Dumpling%20Cafe+near+32.9400763%2C-117.05266439999998"
+    },
+    {
+      "name": "The Burrito Factory",
+      "distance": "0.6 mi",
+      "url": "https://www.google.com/maps/search/The%20Burrito%20Factory+near+32.9400763%2C-117.05266439999998"
+    },
+    {
+      "name": "T&T Tacos & Tequila Grill & Cantina",
+      "distance": "0.7 mi",
+      "url": "https://www.google.com/maps/search/T%26T%20Tacos%20%26%20Tequila%20Grill%20%26%20Cantina+near+32.9400763%2C-117.05266439999998"
+    },
+    {
+      "name": "AI Sushi & Teriyaki",
+      "distance": "0.7 mi",
+      "url": "https://www.google.com/maps/search/AI%20Sushi%20%26%20Teriyaki+near+32.9400763%2C-117.05266439999998"
+    },
+    {
+      "name": "Ikura Sushi & Ramen",
+      "distance": "0.7 mi",
+      "url": "https://www.google.com/maps/search/Ikura%20Sushi%20%26%20Ramen+near+32.9400763%2C-117.05266439999998"
+    },
+    {
+      "name": "Lienzo Charro",
+      "distance": "0.9 mi",
+      "url": "https://www.google.com/maps/search/Lienzo%20Charro+near+32.9400763%2C-117.05266439999998"
+    }
+  ],
+  "bowling": [
+    {
+      "name": "City Fun Center",
+      "distance": "0.4 mi",
+      "url": "https://www.google.com/maps/search/City%20Fun%20Center+near+32.9400763%2C-117.05266439999998"
+    }
+  ],
+  "arcade": [],
+  "movies": [
+    {
+      "name": "AMC DINE-IN Poway 10",
+      "distance": "1.3 mi",
+      "url": "https://www.google.com/maps/search/AMC%20DINE-IN%20Poway%2010+near+32.9400763%2C-117.05266439999998"
+    },
+    {
+      "name": "Edwards Cinemas",
+      "distance": "4.1 mi",
+      "url": "https://www.google.com/maps/search/Edwards%20Cinemas+near+32.9400763%2C-117.05266439999998",
+      "isFar": true
+    },
+    {
+      "name": "Regal Edwards Mira Mesa",
+      "distance": "4.2 mi",
+      "url": "https://www.google.com/maps/search/Regal%20Edwards%20Mira%20Mesa+near+32.9400763%2C-117.05266439999998",
+      "isFar": true
+    }
+  ],
+  "fun": [
+    {
+      "name": "Get Air Trampoline Park",
+      "distance": "0.4 mi",
+      "url": "https://www.google.com/maps/search/Get%20Air%20Trampoline%20Park+near+32.9400763%2C-117.05266439999998"
+    },
+    {
+      "name": "Splash Pad",
+      "distance": "0.9 mi",
+      "url": "https://www.google.com/maps/search/Splash%20Pad+near+32.9400763%2C-117.05266439999998"
+    }
+  ],
+  "hotels": [
+    {
+      "name": "kushman hotels",
+      "distance": "0.4 mi",
+      "url": "https://www.google.com/maps/search/kushman%20hotels+near+32.9400763%2C-117.05266439999998"
+    },
+    {
+      "name": "Low-key Poway Home ~ 20 Mi to La Jolla & San Diego",
+      "distance": "0.7 mi",
+      "url": "https://www.google.com/maps/search/Low-key%20Poway%20Home%20~%2020%20Mi%20to%20La%20Jolla%20%26%20San%20Diego+near+32.9400763%2C-117.05266439999998"
+    },
+    {
+      "name": "Low-Key Poway Home ~ 20 Mi to La Jolla & San Diego",
+      "distance": "0.7 mi",
+      "url": "https://www.google.com/maps/search/Low-Key%20Poway%20Home%20~%2020%20Mi%20to%20La%20Jolla%20%26%20San%20Diego+near+32.9400763%2C-117.05266439999998"
+    },
+    {
+      "name": "Low-Key Poway Home about 20 Mi to La Jolla and San Diego",
+      "distance": "0.7 mi",
+      "url": "https://www.google.com/maps/search/Low-Key%20Poway%20Home%20about%2020%20Mi%20to%20La%20Jolla%20and%20San%20Diego+near+32.9400763%2C-117.05266439999998"
+    },
+    {
+      "name": "Charming Guest House in Poway",
+      "distance": "0.8 mi",
+      "url": "https://www.google.com/maps/search/Charming%20Guest%20House%20in%20Poway+near+32.9400763%2C-117.05266439999998"
+    },
+    {
+      "name": "Pomerado Oaks Estates",
+      "distance": "0.8 mi",
+      "url": "https://www.google.com/maps/search/Pomerado%20Oaks%20Estates+near+32.9400763%2C-117.05266439999998"
+    },
+    {
+      "name": "Kids Paradise Cribs/POOL/SPA/PLAYSET/TOYS/BBQ",
+      "distance": "0.8 mi",
+      "url": "https://www.google.com/maps/search/Kids%20Paradise%20Cribs%2FPOOL%2FSPA%2FPLAYSET%2FTOYS%2FBBQ+near+32.9400763%2C-117.05266439999998"
+    }
+  ],
+  "gas": [
+    {
+      "name": "Chevron",
+      "distance": "0.6 mi",
+      "url": "https://www.google.com/maps/search/Chevron+near+32.9400763%2C-117.05266439999998"
+    },
+    {
+      "name": "United Oil",
+      "distance": "1.0 mi",
+      "url": "https://www.google.com/maps/search/United%20Oil+near+32.9400763%2C-117.05266439999998"
+    },
+    {
+      "name": "Callaway Oil, Inc. DBA ULTRA-FUEL",
+      "distance": "1.0 mi",
+      "url": "https://www.google.com/maps/search/Callaway%20Oil%2C%20Inc.%20DBA%20ULTRA-FUEL+near+32.9400763%2C-117.05266439999998"
+    },
+    {
+      "name": "Chevron",
+      "distance": "1.0 mi",
+      "url": "https://www.google.com/maps/search/Chevron+near+32.9400763%2C-117.05266439999998"
+    },
+    {
+      "name": "Costco Gas Station",
+      "distance": "1.0 mi",
+      "url": "https://www.google.com/maps/search/Costco%20Gas%20Station+near+32.9400763%2C-117.05266439999998"
+    }
+  ]
+}

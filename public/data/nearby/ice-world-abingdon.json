@@ -1,0 +1,200 @@
+{
+  "quick_bite": [
+    {
+      "name": "Waffle House",
+      "distance": "1.0 mi",
+      "url": "https://www.google.com/maps/search/Waffle%20House+near+39.4466037%2C-76.2904719"
+    },
+    {
+      "name": "Taco Bell",
+      "distance": "1.2 mi",
+      "url": "https://www.google.com/maps/search/Taco%20Bell+near+39.4466037%2C-76.2904719"
+    },
+    {
+      "name": "Pizza Boli's",
+      "distance": "1.4 mi",
+      "url": "https://www.google.com/maps/search/Pizza%20Boli's+near+39.4466037%2C-76.2904719"
+    },
+    {
+      "name": "Subway",
+      "distance": "1.4 mi",
+      "url": "https://www.google.com/maps/search/Subway+near+39.4466037%2C-76.2904719"
+    },
+    {
+      "name": "Zorba's Pizza & Grill",
+      "distance": "1.4 mi",
+      "url": "https://www.google.com/maps/search/Zorba's%20Pizza%20%26%20Grill+near+39.4466037%2C-76.2904719"
+    }
+  ],
+  "coffee": [
+    {
+      "name": "Dunkin'",
+      "distance": "0.9 mi",
+      "url": "https://www.google.com/maps/search/Dunkin'+near+39.4466037%2C-76.2904719"
+    }
+  ],
+  "team_lunch": [
+    {
+      "name": "My Three Sons",
+      "distance": "0.6 mi",
+      "url": "https://www.google.com/maps/search/My%20Three%20Sons+near+39.4466037%2C-76.2904719"
+    },
+    {
+      "name": "Hunt brothers pizza",
+      "distance": "0.9 mi",
+      "url": "https://www.google.com/maps/search/Hunt%20brothers%20pizza+near+39.4466037%2C-76.2904719"
+    },
+    {
+      "name": "Denny's",
+      "distance": "0.9 mi",
+      "url": "https://www.google.com/maps/search/Denny's+near+39.4466037%2C-76.2904719"
+    },
+    {
+      "name": "The Meltdown",
+      "distance": "0.9 mi",
+      "url": "https://www.google.com/maps/search/The%20Meltdown+near+39.4466037%2C-76.2904719"
+    },
+    {
+      "name": "Tacos Tijuana Inc",
+      "distance": "1.0 mi",
+      "url": "https://www.google.com/maps/search/Tacos%20Tijuana%20Inc+near+39.4466037%2C-76.2904719"
+    },
+    {
+      "name": "Mama’s House",
+      "distance": "1.3 mi",
+      "url": "https://www.google.com/maps/search/Mama%E2%80%99s%20House+near+39.4466037%2C-76.2904719"
+    }
+  ],
+  "dinner": [
+    {
+      "name": "Eat Like A Greek",
+      "distance": "0.3 mi",
+      "url": "https://www.google.com/maps/search/Eat%20Like%20A%20Greek+near+39.4466037%2C-76.2904719"
+    },
+    {
+      "name": "Hilltop Pizza & Subs",
+      "distance": "1.0 mi",
+      "url": "https://www.google.com/maps/search/Hilltop%20Pizza%20%26%20Subs+near+39.4466037%2C-76.2904719"
+    },
+    {
+      "name": "Island Spice Grille & Lounge",
+      "distance": "1.0 mi",
+      "url": "https://www.google.com/maps/search/Island%20Spice%20Grille%20%26%20Lounge+near+39.4466037%2C-76.2904719"
+    },
+    {
+      "name": "Hotpot Jamaican Takeout",
+      "distance": "1.2 mi",
+      "url": "https://www.google.com/maps/search/Hotpot%20Jamaican%20Takeout+near+39.4466037%2C-76.2904719"
+    },
+    {
+      "name": "Food Lion Bakery",
+      "distance": "1.3 mi",
+      "url": "https://www.google.com/maps/search/Food%20Lion%20Bakery+near+39.4466037%2C-76.2904719"
+    }
+  ],
+  "bowling": [
+    {
+      "name": "Harford Lanes",
+      "distance": "7.9 mi",
+      "url": "https://www.google.com/maps/search/Harford%20Lanes+near+39.4466037%2C-76.2904719",
+      "isFar": true
+    },
+    {
+      "name": "APG Bowling Center",
+      "distance": "8.7 mi",
+      "url": "https://www.google.com/maps/search/APG%20Bowling%20Center+near+39.4466037%2C-76.2904719",
+      "isFar": true
+    }
+  ],
+  "arcade": [],
+  "movies": [
+    {
+      "name": "Horizon Cinemas Fallston",
+      "distance": "6.2 mi",
+      "url": "https://www.google.com/maps/search/Horizon%20Cinemas%20Fallston+near+39.4466037%2C-76.2904719",
+      "isFar": true
+    },
+    {
+      "name": "Flagship Premium Cinemas Churchville",
+      "distance": "7.6 mi",
+      "url": "https://www.google.com/maps/search/Flagship%20Premium%20Cinemas%20Churchville+near+39.4466037%2C-76.2904719",
+      "isFar": true
+    },
+    {
+      "name": "Horizon Cinemas Aberdeen",
+      "distance": "7.8 mi",
+      "url": "https://www.google.com/maps/search/Horizon%20Cinemas%20Aberdeen+near+39.4466037%2C-76.2904719",
+      "isFar": true
+    }
+  ],
+  "fun": [
+    {
+      "name": "Wreck Creation Rage Room",
+      "distance": "6.4 mi",
+      "url": "https://www.google.com/maps/search/Wreck%20Creation%20Rage%20Room+near+39.4466037%2C-76.2904719",
+      "isFar": true
+    },
+    {
+      "name": "Crabby Axe Throwing",
+      "distance": "6.6 mi",
+      "url": "https://www.google.com/maps/search/Crabby%20Axe%20Throwing+near+39.4466037%2C-76.2904719",
+      "isFar": true
+    },
+    {
+      "name": "Harford Bounce Party Place",
+      "distance": "6.6 mi",
+      "url": "https://www.google.com/maps/search/Harford%20Bounce%20Party%20Place+near+39.4466037%2C-76.2904719",
+      "isFar": true
+    },
+    {
+      "name": "Logix Escape Room- Aberdeen",
+      "distance": "8.0 mi",
+      "url": "https://www.google.com/maps/search/Logix%20Escape%20Room-%20Aberdeen+near+39.4466037%2C-76.2904719",
+      "isFar": true
+    }
+  ],
+  "hotels": [
+    {
+      "name": "Rv parking site 1",
+      "distance": "0.3 mi",
+      "url": "https://www.google.com/maps/search/Rv%20parking%20site%201+near+39.4466037%2C-76.2904719"
+    },
+    {
+      "name": "Rv parking site 6",
+      "distance": "0.3 mi",
+      "url": "https://www.google.com/maps/search/Rv%20parking%20site%206+near+39.4466037%2C-76.2904719"
+    },
+    {
+      "name": "Rv parking site 7",
+      "distance": "0.4 mi",
+      "url": "https://www.google.com/maps/search/Rv%20parking%20site%207+near+39.4466037%2C-76.2904719"
+    },
+    {
+      "name": "Reeds At Bayview",
+      "distance": "0.4 mi",
+      "url": "https://www.google.com/maps/search/Reeds%20At%20Bayview+near+39.4466037%2C-76.2904719"
+    }
+  ],
+  "gas": [
+    {
+      "name": "Exxon",
+      "distance": "1.0 mi",
+      "url": "https://www.google.com/maps/search/Exxon+near+39.4466037%2C-76.2904719"
+    },
+    {
+      "name": "bp",
+      "distance": "1.1 mi",
+      "url": "https://www.google.com/maps/search/bp+near+39.4466037%2C-76.2904719"
+    },
+    {
+      "name": "Rio",
+      "distance": "1.5 mi",
+      "url": "https://www.google.com/maps/search/Rio+near+39.4466037%2C-76.2904719"
+    },
+    {
+      "name": "BJ's Gas",
+      "distance": "1.6 mi",
+      "url": "https://www.google.com/maps/search/BJ's%20Gas+near+39.4466037%2C-76.2904719"
+    }
+  ]
+}

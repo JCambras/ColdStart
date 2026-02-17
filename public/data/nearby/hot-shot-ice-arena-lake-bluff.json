@@ -1,0 +1,189 @@
+{
+  "quick_bite": [
+    {
+      "name": "Subway",
+      "distance": "0.6 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Subway&query_place_id=ChIJlTnvP2CTD4gRtuSI330I6Zs&center=42.3044803,-87.8763146"
+    },
+    {
+      "name": "Luke's of Lake Bluff",
+      "distance": "0.9 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Luke's%20of%20Lake%20Bluff&query_place_id=ChIJseRz45CUD4gRDKDJjzjX4Lg&center=42.2836438,-87.8807727"
+    },
+    {
+      "name": "Gus' Grille",
+      "distance": "1.1 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Gus'%20Grille&query_place_id=ChIJq6pmB5SUD4gRIEUfCzfpng8&center=42.280409899999995,-87.8795128"
+    },
+    {
+      "name": "Jimmy John's",
+      "distance": "1.1 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Jimmy%20John's&query_place_id=ChIJJ9-_MpSUD4gRltPOnQJSwG8&center=42.2800905,-87.87644999999999"
+    }
+  ],
+  "coffee": [
+    {
+      "name": "Dunkin'",
+      "distance": "0.5 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Dunkin'&query_place_id=ChIJWdcyu2eTD4gReb1x12XFWOs&center=42.303580499999995,-87.8766212"
+    },
+    {
+      "name": "Lumburr hotel",
+      "distance": "0.9 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Lumburr%20hotel&query_place_id=ChIJOUAWIgCVD4gRn83yUfq2UX8&center=42.282671,-87.880167"
+    },
+    {
+      "name": "Starbucks Coffee Company",
+      "distance": "1.0 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Starbucks%20Coffee%20Company&query_place_id=ChIJkbdHBZSUD4gRr_SAhMdBSAU&center=42.280919999999995,-87.87986"
+    }
+  ],
+  "team_lunch": [
+    {
+      "name": "Dina A’s Cookies",
+      "distance": "0.7 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Dina%20A%E2%80%99s%20Cookies&query_place_id=ChIJE-Py8OKVD4gRs162wZBylr4&center=42.2878243,-87.8838739"
+    },
+    {
+      "name": "Original Recipe Pizza Pasta Ribs",
+      "distance": "0.9 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Original%20Recipe%20Pizza%20Pasta%20Ribs&query_place_id=ChIJBZdV55CUD4gRAF3kRE3iOoQ&center=42.2835927,-87.88075409999999"
+    },
+    {
+      "name": "Flanagan's Sports Bar & Restaurant",
+      "distance": "0.9 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Flanagan's%20Sports%20Bar%20%26%20Restaurant&query_place_id=ChIJdxUwIWmTD4gRxp9y4rTOs58&center=42.308261900000005,-87.87852699999999"
+    },
+    {
+      "name": "Big Game Sports Cards, Inc",
+      "distance": "1.1 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Big%20Game%20Sports%20Cards%2C%20Inc&query_place_id=ChIJb8Rjx76UD4gRt5F-jkpUPpo&center=42.280840500000004,-87.8699357"
+    },
+    {
+      "name": "Taylor’d Cookies",
+      "distance": "1.1 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Taylor%E2%80%99d%20Cookies&query_place_id=ChIJkaWMhw6TD4gRecn0qnEYjm0&center=42.2968274,-87.85541669999999"
+    }
+  ],
+  "dinner": [
+    {
+      "name": "Full Moon Family Restaurant",
+      "distance": "0.6 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Full%20Moon%20Family%20Restaurant&query_place_id=ChIJVVWVB4uND4gRQO0KUy-9YDU&center=42.303796,-87.8752256"
+    },
+    {
+      "name": "Ella Grill",
+      "distance": "0.8 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Ella%20Grill&query_place_id=ChIJJ3o7pR2TD4gRz2o6tL9fFdM&center=42.3076952,-87.87775789999999"
+    },
+    {
+      "name": "Poke Bros.",
+      "distance": "1.1 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Poke%20Bros.&query_place_id=ChIJ1_x5ggyVD4gRDbeSTwy_W78&center=42.2800448,-87.8765809"
+    },
+    {
+      "name": "The Silo Restaurant",
+      "distance": "1.1 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=The%20Silo%20Restaurant&query_place_id=ChIJCf4w8ZWUD4gR9H8e4VVMlMs&center=42.2799877,-87.8749802"
+    },
+    {
+      "name": "BANGKOK TOKYO Restaurant",
+      "distance": "1.1 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=BANGKOK%20TOKYO%20Restaurant&query_place_id=ChIJ9053P5SUD4gR-eDuU_2umnU&center=42.279216,-87.875677"
+    },
+    {
+      "name": "Lambs Farm Sugar Maple Country Store",
+      "distance": "2.0 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Lambs%20Farm%20Sugar%20Maple%20Country%20Store&query_place_id=ChIJW-LC92qUD4gRKNiAK8IZyt8&center=42.2783547,-87.9085265"
+    }
+  ],
+  "bowling": [
+    {
+      "name": "Bowlero Waukegan",
+      "distance": "3.2 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Bowlero%20Waukegan&query_place_id=ChIJBdhBEVSSD4gRXuxa53f0xz8&center=42.3392717,-87.8985359",
+      "isFar": true
+    },
+    {
+      "name": "Bertrand Bowling Lanes Inc",
+      "distance": "4.5 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Bertrand%20Bowling%20Lanes%20Inc&query_place_id=ChIJK4luSrqSD4gRqxQlNIYScv4&center=42.3603908,-87.8661879",
+      "isFar": true
+    }
+  ],
+  "arcade": [],
+  "movies": [
+    {
+      "name": "Belvidere Cinema Gallery",
+      "distance": "3.8 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Belvidere%20Cinema%20Gallery&query_place_id=ChIJVQ_kNaWTD4gRFh9O9x4vVoA&center=42.348856100000006,-87.8599375",
+      "isFar": true
+    }
+  ],
+  "fun": [
+    {
+      "name": "Headwaters of Chicago River",
+      "distance": "1.2 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Headwaters%20of%20Chicago%20River&query_place_id=ChIJWRLg3JGVD4gRPWYgGHdex4U&center=42.2943293,-87.9001344"
+    },
+    {
+      "name": "Naval Recruitment",
+      "distance": "1.4 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Naval%20Recruitment&query_place_id=ChIJvWtlHgDtD4gRnRZAy70aaYU&center=42.2984936,-87.8492912"
+    },
+    {
+      "name": "Rondout",
+      "distance": "1.5 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Rondout&query_place_id=ChIJsfrTSv6VD4gRcy2_BIEfLJU&center=42.280202599999996,-87.89711679999999"
+    },
+    {
+      "name": "Lambs Lake",
+      "distance": "2.3 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Lambs%20Lake&query_place_id=ChIJH8QucjyVD4gRRi4ZVBsgNsQ&center=42.2752942,-87.911154"
+    }
+  ],
+  "hotels": [
+    {
+      "name": "Sleep Inn near Great Lakes Naval Base - Queen Room - Non-Smoking",
+      "distance": "0.6 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Sleep%20Inn%20near%20Great%20Lakes%20Naval%20Base%20-%20Queen%20Room%20-%20Non-Smoking&query_place_id=ChIJE9j-TGaTD4gRlFOSltKzzSo&center=42.303691799999996,-87.8772125"
+    },
+    {
+      "name": "Sleep Inn near Great Lakes Naval Base",
+      "distance": "0.6 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Sleep%20Inn%20near%20Great%20Lakes%20Naval%20Base&query_place_id=ChIJ2XvQUmaTD4gR9-UgSaOHtxU&center=42.3037569,-87.87727980000001"
+    },
+    {
+      "name": "Corporate Housing Oakwood",
+      "distance": "0.6 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Corporate%20Housing%20Oakwood&query_place_id=ChIJ1dvsCYOUD4gRfQwYCiraS-4&center=42.292720599999996,-87.887793"
+    },
+    {
+      "name": "Days Inn by Wyndham Great Lakes Naval Base",
+      "distance": "0.6 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Days%20Inn%20by%20Wyndham%20Great%20Lakes%20Naval%20Base&query_place_id=ChIJFwwmaWiTD4gR1Y7tA5VlKtI&center=42.3048034,-87.87679609999999"
+    }
+  ],
+  "gas": [
+    {
+      "name": "bp",
+      "distance": "0.6 mi",
+      "url": "https://www.google.com/maps/search/bp+near+42.2956314%2C-87.8764954"
+    },
+    {
+      "name": "Marathon Gas",
+      "distance": "0.8 mi",
+      "url": "https://www.google.com/maps/search/Marathon%20Gas+near+42.2956314%2C-87.8764954"
+    },
+    {
+      "name": "BP",
+      "distance": "0.8 mi",
+      "url": "https://www.google.com/maps/search/BP+near+42.2956314%2C-87.8764954"
+    },
+    {
+      "name": "Speedway",
+      "distance": "0.8 mi",
+      "url": "https://www.google.com/maps/search/Speedway+near+42.2956314%2C-87.8764954"
+    }
+  ]
+}

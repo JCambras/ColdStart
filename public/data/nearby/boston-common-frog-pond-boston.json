@@ -1,0 +1,201 @@
+{
+  "quick_bite": [
+    {
+      "name": "Herrera's Mexican Grill",
+      "distance": "0.2 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Herrera's%20Mexican%20Grill&query_place_id=ChIJb8BV9XZ644kRO6grADKMNx8&center=42.3552688,-71.0625534"
+    },
+    {
+      "name": "Burger King",
+      "distance": "0.2 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Burger%20King&query_place_id=ChIJn_7My5xw44kR5jdTAZyNyTU&center=42.356261599999996,-71.061881"
+    },
+    {
+      "name": "Subway",
+      "distance": "0.3 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Subway&query_place_id=ChIJe645PYNw44kRN0Jcqf_K6FE&center=42.3562837,-71.0606924"
+    },
+    {
+      "name": "Raising Cane's Chicken Fingers",
+      "distance": "0.3 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Raising%20Cane's%20Chicken%20Fingers&query_place_id=ChIJ32y8BwBx44kRQ9hn98AxdvE&center=42.3549683,-71.0595664"
+    },
+    {
+      "name": "Subway",
+      "distance": "0.3 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Subway&query_place_id=ChIJb8-kVHZ644kReEyiujufiq8&center=42.3512846,-71.0646462"
+    },
+    {
+      "name": "Al's Cafe",
+      "distance": "0.3 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Al's%20Cafe&query_place_id=ChIJ1_6PVgBx44kR3LIF5hc_L6I&center=42.357747499999995,-71.05924929999999"
+    }
+  ],
+  "coffee": [
+    {
+      "name": "Boston Common Frog Pond",
+      "distance": "0.1 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Boston%20Common%20Frog%20Pond&query_place_id=ChIJB939tp9w44kR4OL1wUOrtrc&center=42.3560935,-71.0657231"
+    },
+    {
+      "name": "Dunkin'",
+      "distance": "0.1 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Dunkin'&query_place_id=ChIJ22NeGYFx44kR5IpHrOfM0Nk&center=42.3551835,-71.06314379999999"
+    },
+    {
+      "name": "Bakey",
+      "distance": "0.2 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Bakey&query_place_id=ChIJkQfdS31x44kRdGjEOB55XUY&center=42.3544996,-71.0633802"
+    },
+    {
+      "name": "Thinking Cup",
+      "distance": "0.2 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Thinking%20Cup&query_place_id=ChIJf0MVcJ1w44kR7gaeGNHmba0&center=42.3540564,-71.0637663"
+    }
+  ],
+  "team_lunch": [
+    {
+      "name": "Sal's Pizza | Tremont Street | Boston, MA",
+      "distance": "0.2 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Sal's%20Pizza%20%7C%20Tremont%20Street%20%7C%20Boston%2C%20MA&query_place_id=ChIJjZFlGJ1w44kR7o8wtLZK2pg&center=42.3548749,-71.0631131"
+    },
+    {
+      "name": "Food Cart Boston Father & Son 2",
+      "distance": "0.2 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Food%20Cart%20Boston%20Father%20%26%20Son%202&query_place_id=ChIJfQ3hoqRx44kR0aYRgohXYWo&center=42.3545587,-71.0683133"
+    },
+    {
+      "name": "Charleys Cheesesteaks",
+      "distance": "0.3 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Charleys%20Cheesesteaks&query_place_id=ChIJl1WpO4Nw44kR8JwFLQDonSM&center=42.355809099999995,-71.0606525"
+    },
+    {
+      "name": "Omni Plaza",
+      "distance": "0.3 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Omni%20Plaza&query_place_id=ChIJJ5yXIABx44kRGeQ5SXRhfJ8&center=42.3577304,-71.0601302"
+    },
+    {
+      "name": "jcsa",
+      "distance": "0.4 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=jcsa&query_place_id=ChIJU06NCgBx44kR4yLCe-M7vyY&center=42.3550135,-71.0587838"
+    },
+    {
+      "name": "Blackbird Doughnuts Beacon Hill",
+      "distance": "0.4 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Blackbird%20Doughnuts%20Beacon%20Hill&query_place_id=ChIJURxeOvBx44kRkhlkXf9Y9Fk&center=42.3613846,-71.0657096"
+    }
+  ],
+  "dinner": [
+    {
+      "name": "Food Cart Boston Father & Son",
+      "distance": "0.1 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Food%20Cart%20Boston%20Father%20%26%20Son&query_place_id=ChIJZ2HYWvBx44kRYQj9z0Xxc5E&center=42.3547155,-71.0666437"
+    },
+    {
+      "name": "Flour Bakery + Cafe",
+      "distance": "0.1 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Flour%20Bakery%20%2B%20Cafe&query_place_id=ChIJSwPckXZ744kRg647eCPJRRA&center=42.3543211,-71.0664311"
+    },
+    {
+      "name": "Black Seed Halal Grill",
+      "distance": "0.2 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Black%20Seed%20Halal%20Grill&query_place_id=ChIJuVKvz5xw44kRwFW4SSjlJNo&center=42.355665699999996,-71.0625527"
+    },
+    {
+      "name": "Somaek Korean",
+      "distance": "0.2 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Somaek%20Korean&query_place_id=ChIJrYw5JQBx44kRmKDFU4XcaYE&center=42.3552498,-71.0625555"
+    },
+    {
+      "name": "Sushi @ Temple Records",
+      "distance": "0.2 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Sushi%20%40%20Temple%20Records&query_place_id=ChIJiTd2SgBx44kRtdAYfghtETA&center=42.3552498,-71.0625555"
+    },
+    {
+      "name": "Food Cart Boston Father & Son",
+      "distance": "0.2 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Food%20Cart%20Boston%20Father%20%26%20Son&query_place_id=ChIJH-lrLgBx44kRlLU8fwdaZgE&center=42.3563815,-71.06233999999999"
+    }
+  ],
+  "bowling": [
+    {
+      "name": "Lucky Strike Fenway",
+      "distance": "1.6 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Lucky%20Strike%20Fenway&query_place_id=ChIJX9gQ4hx644kRT6GRnKaqK6Y&center=42.3474633,-71.0945813"
+    },
+    {
+      "name": "South Boston Candlepin",
+      "distance": "1.9 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=South%20Boston%20Candlepin&query_place_id=ChIJZVYyoI5644kRnr6Tlu1Ob6M&center=42.3353464,-71.042349"
+    }
+  ],
+  "arcade": [],
+  "movies": [
+    {
+      "name": "AMC Boston Common 19",
+      "distance": "0.2 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=AMC%20Boston%20Common%2019&query_place_id=ChIJVfl_1nd644kR0HiZ_a_xJ2c&center=42.3532388,-71.064143"
+    },
+    {
+      "name": "AMC Causeway 13",
+      "distance": "0.7 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=AMC%20Causeway%2013&query_place_id=ChIJs45OSJBw44kRn0RDRtlH1so&center=42.3652324,-71.06207049999999"
+    },
+    {
+      "name": "Mugar Omni Theater",
+      "distance": "0.8 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Mugar%20Omni%20Theater&query_place_id=ChIJLxyMQZZw44kRqoQanRTSK08&center=42.366947,-71.0699558"
+    }
+  ],
+  "fun": [
+    {
+      "name": "Boston Sports Tours",
+      "distance": "0.1 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Boston%20Sports%20Tours&query_place_id=ChIJ08sjYy9x44kRY6K9xB3hHdw&center=42.355469299999996,-71.0637928"
+    },
+    {
+      "name": "Reverend William Blaxton Marker",
+      "distance": "0.1 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Reverend%20William%20Blaxton%20Marker&query_place_id=ChIJlX7RMQBx44kRX4e6Z5_R44I&center=42.356681,-71.06775499999999"
+    },
+    {
+      "name": "Constitution statue",
+      "distance": "0.1 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Constitution%20statue&query_place_id=ChIJqZGWGABx44kR57xVOyvc6nY&center=42.3546432,-71.063722"
+    },
+    {
+      "name": "Escape the Room Boston",
+      "distance": "0.2 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Escape%20the%20Room%20Boston&query_place_id=ChIJ6cjUOp1w44kRY5lmdqX8BRs&center=42.3549043,-71.06244339999999"
+    }
+  ],
+  "hotels": [
+    {
+      "name": "Boston Garden",
+      "distance": "0.2 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Boston%20Garden&query_place_id=ChIJlePcxJxw44kR7cW8FoyKdho&center=42.356105799999995,-71.0626297"
+    }
+  ],
+  "gas": [
+    {
+      "name": "Mobil",
+      "distance": "0.9 mi",
+      "url": "https://www.google.com/maps/search/Mobil+near+42.3560935%2C-71.0657231"
+    },
+    {
+      "name": "Shell",
+      "distance": "1.1 mi",
+      "url": "https://www.google.com/maps/search/Shell+near+42.3560935%2C-71.0657231"
+    },
+    {
+      "name": "Southie Gas",
+      "distance": "1.1 mi",
+      "url": "https://www.google.com/maps/search/Southie%20Gas+near+42.3560935%2C-71.0657231"
+    },
+    {
+      "name": "Gulf",
+      "distance": "1.4 mi",
+      "url": "https://www.google.com/maps/search/Gulf+near+42.3560935%2C-71.0657231"
+    }
+  ]
+}

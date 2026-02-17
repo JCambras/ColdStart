@@ -1,0 +1,219 @@
+{
+  "quick_bite": [
+    {
+      "name": "Casa Blanca Mexican Restaurant & Cantina",
+      "distance": "0.1 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Casa%20Blanca%20Mexican%20Restaurant%20%26%20Cantina&query_place_id=ChIJvxEewsuj44kRXexQAZWpOyc&center=42.5881571,-71.3071463"
+    },
+    {
+      "name": "Bella Pizza",
+      "distance": "0.6 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Bella%20Pizza&query_place_id=ChIJtR5CBdGj44kRp0JsflVkfq4&center=42.5880989,-71.2956275"
+    },
+    {
+      "name": "Expresso Pizza",
+      "distance": "0.6 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Expresso%20Pizza&query_place_id=ChIJxetUYdGj44kRHyMfEync0RY&center=42.587487499999995,-71.29537599999999"
+    },
+    {
+      "name": "Chipotle Mexican Grill",
+      "distance": "1.2 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Chipotle%20Mexican%20Grill&query_place_id=ChIJk6hlxiqi44kR-85GUTs-awI&center=42.5804513,-71.2881532"
+    },
+    {
+      "name": "Purple Bamboo Restaurant",
+      "distance": "1.5 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Purple%20Bamboo%20Restaurant&query_place_id=ChIJL0rlMYGh44kRV3G9qXAvCpM&center=42.5762429,-71.28371969999999"
+    },
+    {
+      "name": "Wendy's",
+      "distance": "2.0 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Wendy's&query_place_id=ChIJu5i6F4Wh44kRW_TL6r2M61s&center=42.571982299999995,-71.2769967"
+    }
+  ],
+  "coffee": [
+    {
+      "name": "Dunkin'",
+      "distance": "0.1 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Dunkin'&query_place_id=ChIJaZLPusuj44kRAZqcDr5FvOE&center=42.5873954,-71.30725749999999"
+    },
+    {
+      "name": "Pressed Cafe",
+      "distance": "0.5 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Pressed%20Cafe&query_place_id=ChIJF27-9gyj44kRO99-0UOw0G8&center=42.590713199999996,-71.3162969"
+    },
+    {
+      "name": "Java's Brewin'",
+      "distance": "0.6 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Java's%20Brewin'&query_place_id=ChIJZR8iZtCj44kRHoZEmqpnXHg&center=42.591175,-71.296982"
+    },
+    {
+      "name": "Panera Bread",
+      "distance": "1.0 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Panera%20Bread&query_place_id=ChIJMVMjfVGj44kRjrU6dmNPe38&center=42.5831048,-71.2897515"
+    },
+    {
+      "name": "Dunkin'",
+      "distance": "1.0 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Dunkin'&query_place_id=ChIJdbE4JdWj44kRgVqaqrGTjXU&center=42.582036599999995,-71.2898003"
+    }
+  ],
+  "team_lunch": [
+    {
+      "name": "Suppa's Pizza & Subs",
+      "distance": "0.1 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Suppa's%20Pizza%20%26%20Subs&query_place_id=ChIJtZCW6cuj44kRcjUZtL-qsio&center=42.587904099999996,-71.3061307"
+    },
+    {
+      "name": "Wu Loon Ming Restaurant",
+      "distance": "0.8 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Wu%20Loon%20Ming%20Restaurant&query_place_id=ChIJi3w7fdOj44kRCk8_zNfyR3w&center=42.5840562,-71.2935166"
+    },
+    {
+      "name": "Mamma Nonna's",
+      "distance": "2.2 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Mamma%20Nonna's&query_place_id=ChIJxQsJCyKh44kRksOAUDrUYPo&center=42.5612206,-71.2862359"
+    },
+    {
+      "name": "D'Angelo Grilled Sandwiches",
+      "distance": "2.2 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=D'Angelo%20Grilled%20Sandwiches&query_place_id=ChIJ__mTZ4Oj44kRKfmx6GJ2no8&center=42.5980651,-71.3499384"
+    },
+    {
+      "name": "Sugar Sparks Bakery, LLC",
+      "distance": "2.3 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Sugar%20Sparks%20Bakery%2C%20LLC&query_place_id=ChIJ75wY_gOl44kRQNTKAORnX3Q&center=42.6221311,-71.3024974"
+    }
+  ],
+  "dinner": [
+    {
+      "name": "Feel Good Café",
+      "distance": "0.1 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Feel%20Good%20Caf%C3%A9&query_place_id=ChIJ95YSpXuj44kRNhRvI8oAvSM&center=42.588062099999995,-71.3067679"
+    },
+    {
+      "name": "Supreme House of Pizza",
+      "distance": "0.6 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Supreme%20House%20of%20Pizza&query_place_id=ChIJZR8iZtCj44kRiEKP8nrT7dU&center=42.591054299999996,-71.2969445"
+    },
+    {
+      "name": "Bang Na Thai-Kitchen",
+      "distance": "0.6 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Bang%20Na%20Thai-Kitchen&query_place_id=ChIJhzIOkdKj44kRn8BGDWXHKVI&center=42.5911271,-71.2969431"
+    },
+    {
+      "name": "Milano House of Pizza",
+      "distance": "1.0 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Milano%20House%20of%20Pizza&query_place_id=ChIJoxRw49Sj44kRA60N1Di_8gc&center=42.583037999999995,-71.29049479999999"
+    },
+    {
+      "name": "7 Nana Japanese Steakhouse",
+      "distance": "1.1 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=7%20Nana%20Japanese%20Steakhouse&query_place_id=ChIJk6hlxiqi44kRSQOSb8H6H8s&center=42.5804537,-71.2893473"
+    },
+    {
+      "name": "Frangos Chicken Fingers",
+      "distance": "1.1 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Frangos%20Chicken%20Fingers&query_place_id=ChIJL9z7hnaj44kR9mxVgrPTAHo&center=42.5803434,-71.2891987"
+    }
+  ],
+  "bowling": [
+    {
+      "name": "Collins Bowladrome",
+      "distance": "2.2 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Collins%20Bowladrome&query_place_id=ChIJIZ9CH5Ch44kRdV6POecWFBA&center=42.568293,-71.2753979"
+    },
+    {
+      "name": "Bowlero Lowell",
+      "distance": "4.4 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Bowlero%20Lowell&query_place_id=ChIJP3SI8Zek44kRduv_HkCGFq0&center=42.641264899999996,-71.35728739999999",
+      "isFar": true
+    }
+  ],
+  "arcade": [],
+  "movies": [
+    {
+      "name": "Showcase Cinema de Lux Lowell",
+      "distance": "1.7 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Showcase%20Cinema%20de%20Lux%20Lowell&query_place_id=ChIJ0_JOhpCj44kRPdg6k3eQf5Q&center=42.61072860000001,-71.3230595"
+    }
+  ],
+  "fun": [
+    {
+      "name": "Alumni Field",
+      "distance": "2.5 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Alumni%20Field&query_place_id=ChIJxYIRTQCh44kRtbOq_Hul0jA&center=42.5610662,-71.2759287"
+    },
+    {
+      "name": "Kirsche Verstahl Bilboard",
+      "distance": "2.9 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Kirsche%20Verstahl%20Bilboard&query_place_id=ChIJ9XyRBgCl44kReKiWHjPBCCE&center=42.6312516,-71.3148301"
+    },
+    {
+      "name": "Escapology Escape Rooms Tewksbury",
+      "distance": "3.2 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Escapology%20Escape%20Rooms%20Tewksbury&query_place_id=ChIJt7mOpbem44kROF6UniH8BxQ&center=42.6230701,-71.2658874",
+      "isFar": true
+    },
+    {
+      "name": "Penny Farthing bicycle statue",
+      "distance": "3.6 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Penny%20Farthing%20bicycle%20statue&query_place_id=ChIJqXngxCSj44kR2Vks1Wh8zDo&center=42.5762364,-71.3761583",
+      "isFar": true
+    }
+  ],
+  "hotels": [
+    {
+      "name": "Unique Artists' Home + Sunporch Gallery - Read - Cook - Relax",
+      "distance": "1.5 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Unique%20Artists'%20Home%20%2B%20Sunporch%20Gallery%20-%20Read%20-%20Cook%20-%20Relax&query_place_id=ChIJvbLH-IGh44kRfJnWah0tQbM&center=42.5796432,-71.2815857"
+    },
+    {
+      "name": "Visit Lowell Memorial Auditorium! Pet-friendly Property, Onsite Parking!",
+      "distance": "1.9 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Visit%20Lowell%20Memorial%20Auditorium!%20Pet-friendly%20Property%2C%20Onsite%20Parking!&query_place_id=ChIJ0z_QDo6j44kR3vLp_FZolPg&center=42.6152191,-71.3175278"
+    },
+    {
+      "name": "Sonesta Select Boston Lowell Chelmsford",
+      "distance": "1.9 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Sonesta%20Select%20Boston%20Lowell%20Chelmsford&query_place_id=ChIJHTbj6ZGj44kR41nVIMLx1Wk&center=42.6152246,-71.31764439999999"
+    },
+    {
+      "name": "Chelmsford Inn",
+      "distance": "2.1 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Chelmsford%20Inn&query_place_id=ChIJScBUMA6j44kRxeDoYSPeJxM&center=42.607199099999995,-71.3410155"
+    },
+    {
+      "name": "Holiday Inn Express Chelmsford by IHG",
+      "distance": "2.2 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Holiday%20Inn%20Express%20Chelmsford%20by%20IHG&query_place_id=ChIJx7k2Woyj44kR7brqNhmi20E&center=42.60362380000001,-71.3456592"
+    },
+    {
+      "name": "Home2 Suites by Hilton Chelmsford Lowell",
+      "distance": "2.3 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Home2%20Suites%20by%20Hilton%20Chelmsford%20Lowell&query_place_id=ChIJD-Q1KhCj44kRg4aurQXi0oo&center=42.602882,-71.3489833"
+    }
+  ],
+  "gas": [
+    {
+      "name": "Mobil",
+      "distance": "0.1 mi",
+      "url": "https://www.google.com/maps/search/Mobil+near+42.5888889%2C-71.3077778"
+    },
+    {
+      "name": "Speedway",
+      "distance": "1.0 mi",
+      "url": "https://www.google.com/maps/search/Speedway+near+42.5888889%2C-71.3077778"
+    },
+    {
+      "name": "Gulf Billerica",
+      "distance": "1.5 mi",
+      "url": "https://www.google.com/maps/search/Gulf%20Billerica+near+42.5888889%2C-71.3077778"
+    },
+    {
+      "name": "Gibbs Gas Station",
+      "distance": "1.8 mi",
+      "url": "https://www.google.com/maps/search/Gibbs%20Gas%20Station+near+42.5888889%2C-71.3077778"
+    }
+  ]
+}

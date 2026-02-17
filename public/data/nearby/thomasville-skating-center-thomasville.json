@@ -1,0 +1,204 @@
+{
+  "quick_bite": [
+    {
+      "name": "Hunt Brothers Pizza",
+      "distance": "1.0 mi",
+      "url": "https://www.google.com/maps/search/Hunt%20Brothers%20Pizza+near+35.8830504%2C-80.1113602"
+    },
+    {
+      "name": "Subway",
+      "distance": "1.5 mi",
+      "url": "https://www.google.com/maps/search/Subway+near+35.8830504%2C-80.1113602"
+    },
+    {
+      "name": "Sonic Drive-In",
+      "distance": "2.0 mi",
+      "url": "https://www.google.com/maps/search/Sonic%20Drive-In+near+35.8830504%2C-80.1113602"
+    },
+    {
+      "name": "Granny's Donuts",
+      "distance": "2.1 mi",
+      "url": "https://www.google.com/maps/search/Granny's%20Donuts+near+35.8830504%2C-80.1113602"
+    }
+  ],
+  "coffee": [
+    {
+      "name": "The Daily Grind Cafe",
+      "distance": "1.7 mi",
+      "url": "https://www.google.com/maps/search/The%20Daily%20Grind%20Cafe+near+35.8830504%2C-80.1113602"
+    }
+  ],
+  "team_lunch": [
+    {
+      "name": "807 cook bakery Mexico and USA",
+      "distance": "1.5 mi",
+      "url": "https://www.google.com/maps/search/807%20cook%20bakery%20Mexico%20and%20USA+near+35.8830504%2C-80.1113602"
+    },
+    {
+      "name": "China Wok",
+      "distance": "1.5 mi",
+      "url": "https://www.google.com/maps/search/China%20Wok+near+35.8830504%2C-80.1113602"
+    },
+    {
+      "name": "207 Southern Stylezs",
+      "distance": "1.6 mi",
+      "url": "https://www.google.com/maps/search/207%20Southern%20Stylezs+near+35.8830504%2C-80.1113602"
+    }
+  ],
+  "dinner": [
+    {
+      "name": "T-Ville Diner",
+      "distance": "1.4 mi",
+      "url": "https://www.google.com/maps/search/T-Ville%20Diner+near+35.8830504%2C-80.1113602"
+    },
+    {
+      "name": "Elizabeth's Pizza",
+      "distance": "1.5 mi",
+      "url": "https://www.google.com/maps/search/Elizabeth's%20Pizza+near+35.8830504%2C-80.1113602"
+    },
+    {
+      "name": "Spooky's Bar & Grill",
+      "distance": "1.5 mi",
+      "url": "https://www.google.com/maps/search/Spooky's%20Bar%20%26%20Grill+near+35.8830504%2C-80.1113602"
+    },
+    {
+      "name": "Taco Lopez",
+      "distance": "1.5 mi",
+      "url": "https://www.google.com/maps/search/Taco%20Lopez+near+35.8830504%2C-80.1113602"
+    },
+    {
+      "name": "ZIP Nutrition",
+      "distance": "1.6 mi",
+      "url": "https://www.google.com/maps/search/ZIP%20Nutrition+near+35.8830504%2C-80.1113602"
+    },
+    {
+      "name": "S & S Grill",
+      "distance": "1.6 mi",
+      "url": "https://www.google.com/maps/search/S%20%26%20S%20Grill+near+35.8830504%2C-80.1113602"
+    },
+    {
+      "name": "Cross Ties Restaurant & Catering",
+      "distance": "1.7 mi",
+      "url": "https://www.google.com/maps/search/Cross%20Ties%20Restaurant%20%26%20Catering+near+35.8830504%2C-80.1113602"
+    }
+  ],
+  "bowling": [
+    {
+      "name": "High Point Bowling Center",
+      "distance": "7.5 mi",
+      "url": "https://www.google.com/maps/search/High%20Point%20Bowling%20Center+near+35.8830504%2C-80.1113602",
+      "isFar": true
+    }
+  ],
+  "arcade": [],
+  "movies": [
+    {
+      "name": "Imax Corporation",
+      "distance": "7.8 mi",
+      "url": "https://www.google.com/maps/search/Imax%20Corporation+near+35.8830504%2C-80.1113602",
+      "isFar": true
+    },
+    {
+      "name": "Lexington Cinemas",
+      "distance": "8.6 mi",
+      "url": "https://www.google.com/maps/search/Lexington%20Cinemas+near+35.8830504%2C-80.1113602",
+      "isFar": true
+    },
+    {
+      "name": "AMC High Point 8",
+      "distance": "8.8 mi",
+      "url": "https://www.google.com/maps/search/AMC%20High%20Point%208+near+35.8830504%2C-80.1113602",
+      "isFar": true
+    },
+    {
+      "name": "The Extraordinaire Cinema",
+      "distance": "8.9 mi",
+      "url": "https://www.google.com/maps/search/The%20Extraordinaire%20Cinema+near+35.8830504%2C-80.1113602",
+      "isFar": true
+    }
+  ],
+  "fun": [
+    {
+      "name": "Elevated Wake Park",
+      "distance": "6.5 mi",
+      "url": "https://www.google.com/maps/search/Elevated%20Wake%20Park+near+35.8830504%2C-80.1113602",
+      "isFar": true
+    },
+    {
+      "name": "Q's Corner LLC",
+      "distance": "8.4 mi",
+      "url": "https://www.google.com/maps/search/Q's%20Corner%20LLC+near+35.8830504%2C-80.1113602",
+      "isFar": true
+    },
+    {
+      "name": "Get Air Trampoline Park",
+      "distance": "9.9 mi",
+      "url": "https://www.google.com/maps/search/Get%20Air%20Trampoline%20Park+near+35.8830504%2C-80.1113602",
+      "isFar": true
+    }
+  ],
+  "hotels": [
+    {
+      "name": "Cozy & Convenient Home Across from Thomasville Hospital",
+      "distance": "0.1 mi",
+      "url": "https://www.google.com/maps/search/Cozy%20%26%20Convenient%20Home%20Across%20from%20Thomasville%20Hospital+near+35.8830504%2C-80.1113602"
+    },
+    {
+      "name": "Big juicy chicken sandwich with a bbc",
+      "distance": "0.2 mi",
+      "url": "https://www.google.com/maps/search/Big%20juicy%20chicken%20sandwich%20with%20a%20bbc+near+35.8830504%2C-80.1113602"
+    },
+    {
+      "name": "Paradise Motel",
+      "distance": "0.6 mi",
+      "url": "https://www.google.com/maps/search/Paradise%20Motel+near+35.8830504%2C-80.1113602"
+    },
+    {
+      "name": "Gorgeous home in historic Downtown Thomasville 5bd/2bath sleeps up to 15 people",
+      "distance": "1.1 mi",
+      "url": "https://www.google.com/maps/search/Gorgeous%20home%20in%20historic%20Downtown%20Thomasville%205bd%2F2bath%20sleeps%20up%20to%2015%20people+near+35.8830504%2C-80.1113602"
+    },
+    {
+      "name": "Gorgeous spacious home in historic Downtown Thomasville.",
+      "distance": "1.2 mi",
+      "url": "https://www.google.com/maps/search/Gorgeous%20spacious%20home%20in%20historic%20Downtown%20Thomasville.+near+35.8830504%2C-80.1113602"
+    },
+    {
+      "name": "Four Oaks Living - Thomasville 2",
+      "distance": "1.7 mi",
+      "url": "https://www.google.com/maps/search/Four%20Oaks%20Living%20-%20Thomasville%202+near+35.8830504%2C-80.1113602"
+    },
+    {
+      "name": "Historic Thomasville\\n",
+      "distance": "1.8 mi",
+      "url": "https://www.google.com/maps/search/Historic%20Thomasville%5Cn+near+35.8830504%2C-80.1113602"
+    }
+  ],
+  "gas": [
+    {
+      "name": "KELLY",
+      "distance": "1.0 mi",
+      "url": "https://www.google.com/maps/search/KELLY+near+35.8830504%2C-80.1113602"
+    },
+    {
+      "name": "Duke’s Mart",
+      "distance": "1.0 mi",
+      "url": "https://www.google.com/maps/search/Duke%E2%80%99s%20Mart+near+35.8830504%2C-80.1113602"
+    },
+    {
+      "name": "Rex",
+      "distance": "1.5 mi",
+      "url": "https://www.google.com/maps/search/Rex+near+35.8830504%2C-80.1113602"
+    },
+    {
+      "name": "PURE",
+      "distance": "1.6 mi",
+      "url": "https://www.google.com/maps/search/PURE+near+35.8830504%2C-80.1113602"
+    },
+    {
+      "name": "Sunoco",
+      "distance": "1.6 mi",
+      "url": "https://www.google.com/maps/search/Sunoco+near+35.8830504%2C-80.1113602"
+    }
+  ]
+}

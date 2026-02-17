@@ -1,0 +1,234 @@
+{
+  "quick_bite": [
+    {
+      "name": "Burger King",
+      "distance": "2.3 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Burger%20King&query_place_id=ChIJ7R6YiCQG44kRTL2oGIOMcJs&center=42.6748614,-71.1274533"
+    },
+    {
+      "name": "Mr. Takeout",
+      "distance": "2.3 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Mr.%20Takeout&query_place_id=ChIJCRdQRysG44kRiEOHlqFGF6w&center=42.6737347,-71.14363"
+    },
+    {
+      "name": "Subway",
+      "distance": "2.3 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Subway&query_place_id=ChIJxaEYAyUG44kRuSZetxy-zUI&center=42.6754563,-71.13017400000001"
+    },
+    {
+      "name": "Five Guys",
+      "distance": "2.3 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Five%20Guys&query_place_id=ChIJ1bAdKegH44kRuJjo2xPPQdk&center=42.675703999999996,-71.1312547"
+    },
+    {
+      "name": "Wendy's",
+      "distance": "3.4 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Wendy's&query_place_id=ChIJCYMNdMoH44kRLxEqbF9XoZA&center=42.689071999999996,-71.1487363",
+      "isFar": true
+    },
+    {
+      "name": "Taco Bell",
+      "distance": "3.4 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Taco%20Bell&query_place_id=ChIJjSUNccoH44kRIulJvyxY7XY&center=42.6893296,-71.1489991",
+      "isFar": true
+    }
+  ],
+  "coffee": [
+    {
+      "name": "Dunkin'",
+      "distance": "1.0 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Dunkin'&query_place_id=ChIJwbB2QokI44kR5PVUSlOWS5g&center=42.6538411,-71.1389658"
+    },
+    {
+      "name": "Ultimate Perk Coffee Shop",
+      "distance": "1.0 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Ultimate%20Perk%20Coffee%20Shop&query_place_id=ChIJnT0odYwI44kRWEEwHM7SZ_w&center=42.654022,-71.138625"
+    },
+    {
+      "name": "Caffè Nero",
+      "distance": "1.0 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Caff%C3%A8%20Nero&query_place_id=ChIJW0y18YsI44kRmBJKugALTUI&center=42.6545256,-71.13950849999999"
+    },
+    {
+      "name": "Starbucks Coffee Company",
+      "distance": "1.1 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Starbucks%20Coffee%20Company&query_place_id=ChIJcfm0QYkI44kR6bjBwnmhA10&center=42.656386999999995,-71.14026199999999"
+    }
+  ],
+  "team_lunch": [
+    {
+      "name": "Original Boston Coffee Cake",
+      "distance": "1.3 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Original%20Boston%20Coffee%20Cake&query_place_id=ChIJ_6qYkqQI44kR5-H-kEHqE78&center=42.6561064,-71.1142389"
+    },
+    {
+      "name": "Whole Foods Bakery",
+      "distance": "1.5 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Whole%20Foods%20Bakery&query_place_id=ChIJW_FdDAAJ44kRe4cW2AU4T2w&center=42.6608654,-71.1444894"
+    },
+    {
+      "name": "HyTide Baking Co.",
+      "distance": "1.7 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=HyTide%20Baking%20Co.&query_place_id=ChIJ77-BAXgJ44kRy7KnVu4_u4U&center=42.663243099999995,-71.14548479999999"
+    },
+    {
+      "name": "Peach farm",
+      "distance": "2.3 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Peach%20farm&query_place_id=ChIJmxnTJQAP44kRjYkrr8AZFVo&center=42.648887699999996,-71.0863778"
+    },
+    {
+      "name": "Pr Management",
+      "distance": "2.3 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Pr%20Management&query_place_id=ChIJq6qeZiMG44kRHfFpxWWbSEE&center=42.675190199999996,-71.1265394"
+    },
+    {
+      "name": "Plaza",
+      "distance": "2.3 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Plaza&query_place_id=ChIJUz2POwAH44kRFxyX0Mel0UI&center=42.6756958,-71.1311288"
+    }
+  ],
+  "dinner": [
+    {
+      "name": "Perry's Plate",
+      "distance": "1.0 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Perry's%20Plate&query_place_id=ChIJFzDf9IsI44kRk2o342pOCwI&center=42.653931899999996,-71.13896869999999"
+    },
+    {
+      "name": "UBURGER",
+      "distance": "1.0 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=UBURGER&query_place_id=ChIJSbPj9IsI44kRoMQIn0jVTlY&center=42.6540823,-71.1391075"
+    },
+    {
+      "name": "Brooksy's Brick Oven and Bar",
+      "distance": "1.0 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Brooksy's%20Brick%20Oven%20and%20Bar&query_place_id=ChIJ3bzmVFkJ44kR4nq7HXa2eDk&center=42.6543151,-71.1386766"
+    },
+    {
+      "name": "The Autograph American Tavern",
+      "distance": "1.0 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=The%20Autograph%20American%20Tavern&query_place_id=ChIJe7MoA2kJ44kRqocpwMxr9Qk&center=42.6539885,-71.139676"
+    },
+    {
+      "name": "Andover Bake Shop",
+      "distance": "1.1 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Andover%20Bake%20Shop&query_place_id=ChIJfXENfggJ44kRxFCSX32ZMuQ&center=42.6557538,-71.1387659"
+    },
+    {
+      "name": "Bartlet Street Andover",
+      "distance": "1.1 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Bartlet%20Street%20Andover&query_place_id=ChIJoXkcUqAJ44kRgQVBxhrYlik&center=42.6561695,-71.1386084"
+    }
+  ],
+  "bowling": [
+    {
+      "name": "Swan Lanes at Georgetown Flatbread",
+      "distance": "8.0 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Swan%20Lanes%20at%20Georgetown%20Flatbread&query_place_id=ChIJ2Th0YccF44kRprZaGp9Ow8M&center=42.7178104,-71.0116014",
+      "isFar": true
+    },
+    {
+      "name": "Academy Lanes",
+      "distance": "8.3 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Academy%20Lanes&query_place_id=ChIJt8uUOWAB44kRosudVZ1-hio&center=42.759215,-71.098547",
+      "isFar": true
+    },
+    {
+      "name": "Collins Bowladrome",
+      "distance": "9.0 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Collins%20Bowladrome&query_place_id=ChIJIZ9CH5Ch44kRdV6POecWFBA&center=42.568293,-71.2753979",
+      "isFar": true
+    }
+  ],
+  "arcade": [],
+  "movies": [
+    {
+      "name": "NAHS Worden Theater",
+      "distance": "3.1 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=NAHS%20Worden%20Theater&query_place_id=ChIJTQOSLAAH44kRpkI_rcsh7ak&center=42.6849808,-71.1136771",
+      "isFar": true
+    },
+    {
+      "name": "AMC Methuen 20",
+      "distance": "7.2 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=AMC%20Methuen%2020&query_place_id=ChIJf7z31i0H44kRyMfNE0kVO0k&center=42.74457950000001,-71.15729139999999",
+      "isFar": true
+    },
+    {
+      "name": "IMAX 3D Theater",
+      "distance": "8.6 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=IMAX%203D%20Theater&query_place_id=ChIJ4QqUlaUM44kRW5y4r-q8SjE&center=42.5202021,-71.08976369999999",
+      "isFar": true
+    }
+  ],
+  "fun": [
+    {
+      "name": "Bog trail start",
+      "distance": "0.9 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Bog%20trail%20start&query_place_id=ChIJh6rZmtoJ44kRrZeFB7ZYWuA&center=42.6386779,-71.11168359999999"
+    },
+    {
+      "name": "Dunne Light Show",
+      "distance": "1.1 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Dunne%20Light%20Show&query_place_id=ChIJ25RGHwAJ44kRn6sevtvDmJM&center=42.626273,-71.1215733"
+    },
+    {
+      "name": "Andover Towers",
+      "distance": "1.7 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Andover%20Towers&query_place_id=ChIJyYvNpa8J44kR3e6SjVQkNTM&center=42.6626883,-71.1455708"
+    },
+    {
+      "name": "Harriette T. Memorial Square",
+      "distance": "2.3 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Harriette%20T.%20Memorial%20Square&query_place_id=ChIJWbkQPQAH44kR5g2GrB-Muno&center=42.672111199999996,-71.1506153"
+    }
+  ],
+  "hotels": [
+    {
+      "name": "Near Phillips Academy Andover.",
+      "distance": "0.3 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Near%20Phillips%20Academy%20Andover.&query_place_id=ChIJR_ZfVeQI44kRjARsEFEZffc&center=42.637001,-71.12999719999999"
+    },
+    {
+      "name": "Andover Inn",
+      "distance": "0.6 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Andover%20Inn&query_place_id=ChIJE2OMUu0I44kRiQIHiIDx0y8&center=42.6494444,-71.1336111"
+    },
+    {
+      "name": "Phillips Academy Area – Ideal for Families Visiting Campus & Touring New England",
+      "distance": "0.7 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Phillips%20Academy%20Area%20%E2%80%93%20Ideal%20for%20Families%20Visiting%20Campus%20%26%20Touring%20New%20England&query_place_id=ChIJT03Ly-MI44kRdsATopJX8Rg&center=42.6322975,-71.12832639999999"
+    },
+    {
+      "name": "Phillips Academy Area – Ideal for Families Visiting Campus Touring New England",
+      "distance": "0.7 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Phillips%20Academy%20Area%20%E2%80%93%20Ideal%20for%20Families%20Visiting%20Campus%20Touring%20New%20England&query_place_id=ChIJsR3Ly-MI44kRmt2mAHcXhLA&center=42.632289899999996,-71.1283188"
+    },
+    {
+      "name": "Camp Maude Eaton",
+      "distance": "0.9 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Camp%20Maude%20Eaton&query_place_id=ChIJ1ch7UVEI44kRr9K34s40Q0A&center=42.638621699999995,-71.147592"
+    }
+  ],
+  "gas": [
+    {
+      "name": "Andover Gas and service",
+      "distance": "0.7 mi",
+      "url": "https://www.google.com/maps/search/Andover%20Gas%20and%20service+near+42.6417831%2C-71.129697"
+    },
+    {
+      "name": "Andover Gulf",
+      "distance": "1.0 mi",
+      "url": "https://www.google.com/maps/search/Andover%20Gulf+near+42.6417831%2C-71.129697"
+    },
+    {
+      "name": "Mobil",
+      "distance": "1.2 mi",
+      "url": "https://www.google.com/maps/search/Mobil+near+42.6417831%2C-71.129697"
+    },
+    {
+      "name": "bp",
+      "distance": "1.7 mi",
+      "url": "https://www.google.com/maps/search/bp+near+42.6417831%2C-71.129697"
+    }
+  ]
+}

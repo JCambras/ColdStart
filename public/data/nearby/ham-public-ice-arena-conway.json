@@ -1,0 +1,194 @@
+{
+  "quick_bite": [
+    {
+      "name": "Burger King",
+      "distance": "2.9 mi",
+      "url": "https://www.google.com/maps/search/Burger%20King+near+43.9763823%2C-71.1291166"
+    }
+  ],
+  "coffee": [
+    {
+      "name": "Sweet Maple Cafe",
+      "distance": "0.4 mi",
+      "url": "https://www.google.com/maps/search/Sweet%20Maple%20Cafe+near+43.9763823%2C-71.1291166"
+    },
+    {
+      "name": "Dunkin'",
+      "distance": "0.6 mi",
+      "url": "https://www.google.com/maps/search/Dunkin'+near+43.9763823%2C-71.1291166"
+    },
+    {
+      "name": "Aroma Joe's Coffee",
+      "distance": "2.8 mi",
+      "url": "https://www.google.com/maps/search/Aroma%20Joe's%20Coffee+near+43.9763823%2C-71.1291166"
+    }
+  ],
+  "team_lunch": [
+    {
+      "name": "Peking Sunrise Restaurant and Lounge",
+      "distance": "3.0 mi",
+      "url": "https://www.google.com/maps/search/Peking%20Sunrise%20Restaurant%20and%20Lounge+near+43.9763823%2C-71.1291166"
+    },
+    {
+      "name": "Walmart Bakery",
+      "distance": "3.0 mi",
+      "url": "https://www.google.com/maps/search/Walmart%20Bakery+near+43.9763823%2C-71.1291166",
+      "isFar": true
+    }
+  ],
+  "dinner": [
+    {
+      "name": "Magic 8 Donuts",
+      "distance": "0.1 mi",
+      "url": "https://www.google.com/maps/search/Magic%208%20Donuts+near+43.9763823%2C-71.1291166"
+    },
+    {
+      "name": "Peace of Mind Baking Co",
+      "distance": "0.1 mi",
+      "url": "https://www.google.com/maps/search/Peace%20of%20Mind%20Baking%20Co+near+43.9763823%2C-71.1291166"
+    },
+    {
+      "name": "Fire 21 Pizza",
+      "distance": "0.2 mi",
+      "url": "https://www.google.com/maps/search/Fire%2021%20Pizza+near+43.9763823%2C-71.1291166"
+    },
+    {
+      "name": "Casamigos Mexican Restaurant",
+      "distance": "0.3 mi",
+      "url": "https://www.google.com/maps/search/Casamigos%20Mexican%20Restaurant+near+43.9763823%2C-71.1291166"
+    },
+    {
+      "name": "The Station Bistro",
+      "distance": "0.5 mi",
+      "url": "https://www.google.com/maps/search/The%20Station%20Bistro+near+43.9763823%2C-71.1291166"
+    },
+    {
+      "name": "The Cheese Louise Commissary",
+      "distance": "0.6 mi",
+      "url": "https://www.google.com/maps/search/The%20Cheese%20Louise%20Commissary+near+43.9763823%2C-71.1291166"
+    },
+    {
+      "name": "Bea's Cafe",
+      "distance": "0.7 mi",
+      "url": "https://www.google.com/maps/search/Bea's%20Cafe+near+43.9763823%2C-71.1291166"
+    }
+  ],
+  "bowling": [
+    {
+      "name": "Saco Valley Sports Center",
+      "distance": "8.5 mi",
+      "url": "https://www.google.com/maps/search/Saco%20Valley%20Sports%20Center+near+43.9763823%2C-71.1291166",
+      "isFar": true
+    }
+  ],
+  "arcade": [],
+  "movies": [
+    {
+      "name": "Barnz's North Conway Cinema",
+      "distance": "3.0 mi",
+      "url": "https://www.google.com/maps/search/Barnz's%20North%20Conway%20Cinema+near+43.9763823%2C-71.1291166",
+      "isFar": true
+    },
+    {
+      "name": "North Conway Twin theatre",
+      "distance": "5.2 mi",
+      "url": "https://www.google.com/maps/search/North%20Conway%20Twin%20theatre+near+43.9763823%2C-71.1291166",
+      "isFar": true
+    }
+  ],
+  "fun": [
+    {
+      "name": "Mystery NH",
+      "distance": "0.7 mi",
+      "url": "https://www.google.com/maps/search/Mystery%20NH+near+43.9763823%2C-71.1291166"
+    },
+    {
+      "name": "UberBlast",
+      "distance": "4.3 mi",
+      "url": "https://www.google.com/maps/search/UberBlast+near+43.9763823%2C-71.1291166",
+      "isFar": true
+    },
+    {
+      "name": "Kahuna Laguna Indoor Water Park North Conway",
+      "distance": "4.5 mi",
+      "url": "https://www.google.com/maps/search/Kahuna%20Laguna%20Indoor%20Water%20Park%20North%20Conway+near+43.9763823%2C-71.1291166",
+      "isFar": true
+    },
+    {
+      "name": "Journey To The North Pole @ Conway Scenic Railroad",
+      "distance": "5.2 mi",
+      "url": "https://www.google.com/maps/search/Journey%20To%20The%20North%20Pole%20%40%20Conway%20Scenic%20Railroad+near+43.9763823%2C-71.1291166",
+      "isFar": true
+    },
+    {
+      "name": "Story Land",
+      "distance": "10.0 mi",
+      "url": "https://www.google.com/maps/search/Story%20Land+near+43.9763823%2C-71.1291166",
+      "isFar": true
+    }
+  ],
+  "hotels": [
+    {
+      "name": "Year Round Waterfront Chalet in Amazing Private Location!!",
+      "distance": "0.2 mi",
+      "url": "https://www.google.com/maps/search/Year%20Round%20Waterfront%20Chalet%20in%20Amazing%20Private%20Location!!+near+43.9763823%2C-71.1291166"
+    },
+    {
+      "name": "Year Round Waterfront Chalet in Amazing Private Location!!",
+      "distance": "0.2 mi",
+      "url": "https://www.google.com/maps/search/Year%20Round%20Waterfront%20Chalet%20in%20Amazing%20Private%20Location!!+near+43.9763823%2C-71.1291166"
+    },
+    {
+      "name": "Waterfront Farmhouse Charm - Paradise on Pequawket8",
+      "distance": "0.3 mi",
+      "url": "https://www.google.com/maps/search/Waterfront%20Farmhouse%20Charm%20-%20Paradise%20on%20Pequawket8+near+43.9763823%2C-71.1291166"
+    },
+    {
+      "name": "The Manor on Main | Hot Tub, Pond Access, 5 Bedrms",
+      "distance": "0.3 mi",
+      "url": "https://www.google.com/maps/search/The%20Manor%20on%20Main%20%7C%20Hot%20Tub%2C%20Pond%20Access%2C%205%20Bedrms+near+43.9763823%2C-71.1291166"
+    },
+    {
+      "name": "The Conway Meeting House + Church | 10 BDRM + Pond",
+      "distance": "0.3 mi",
+      "url": "https://www.google.com/maps/search/The%20Conway%20Meeting%20House%20%2B%20Church%20%7C%2010%20BDRM%20%2B%20Pond+near+43.9763823%2C-71.1291166"
+    },
+    {
+      "name": "1908 Conway Meeting House | 5 Bedroom, Lake Access",
+      "distance": "0.3 mi",
+      "url": "https://www.google.com/maps/search/1908%20Conway%20Meeting%20House%20%7C%205%20Bedroom%2C%20Lake%20Access+near+43.9763823%2C-71.1291166"
+    },
+    {
+      "name": "1826 Conway Renovated Church | 5 Bdrm, Pond Access",
+      "distance": "0.3 mi",
+      "url": "https://www.google.com/maps/search/1826%20Conway%20Renovated%20Church%20%7C%205%20Bdrm%2C%20Pond%20Access+near+43.9763823%2C-71.1291166"
+    }
+  ],
+  "gas": [
+    {
+      "name": "Irving Oil",
+      "distance": "0.7 mi",
+      "url": "https://www.google.com/maps/search/Irving%20Oil+near+43.9763823%2C-71.1291166"
+    },
+    {
+      "name": "Circle K | Gas Station",
+      "distance": "0.7 mi",
+      "url": "https://www.google.com/maps/search/Circle%20K%20%7C%20Gas%20Station+near+43.9763823%2C-71.1291166"
+    },
+    {
+      "name": "Mobil",
+      "distance": "0.7 mi",
+      "url": "https://www.google.com/maps/search/Mobil+near+43.9763823%2C-71.1291166"
+    },
+    {
+      "name": "Kenoco",
+      "distance": "2.9 mi",
+      "url": "https://www.google.com/maps/search/Kenoco+near+43.9763823%2C-71.1291166"
+    },
+    {
+      "name": "Citgo",
+      "distance": "2.9 mi",
+      "url": "https://www.google.com/maps/search/Citgo+near+43.9763823%2C-71.1291166"
+    }
+  ]
+}

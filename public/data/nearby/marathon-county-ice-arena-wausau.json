@@ -1,0 +1,202 @@
+{
+  "quick_bite": [
+    {
+      "name": "KFC",
+      "distance": "0.5 mi",
+      "url": "https://www.google.com/maps/search/KFC+near+44.9560307%2C-89.6474327"
+    },
+    {
+      "name": "Toppers Pizza",
+      "distance": "0.5 mi",
+      "url": "https://www.google.com/maps/search/Toppers%20Pizza+near+44.9560307%2C-89.6474327"
+    },
+    {
+      "name": "Cousins Subs",
+      "distance": "0.6 mi",
+      "url": "https://www.google.com/maps/search/Cousins%20Subs+near+44.9560307%2C-89.6474327"
+    },
+    {
+      "name": "Papa Murphy's | Take 'N' Bake Pizza",
+      "distance": "0.6 mi",
+      "url": "https://www.google.com/maps/search/Papa%20Murphy's%20%7C%20Take%20'N'%20Bake%20Pizza+near+44.9560307%2C-89.6474327"
+    },
+    {
+      "name": "Noodles and Company",
+      "distance": "0.6 mi",
+      "url": "https://www.google.com/maps/search/Noodles%20and%20Company+near+44.9560307%2C-89.6474327"
+    },
+    {
+      "name": "Buffalo Wild Wings",
+      "distance": "0.6 mi",
+      "url": "https://www.google.com/maps/search/Buffalo%20Wild%20Wings+near+44.9560307%2C-89.6474327"
+    },
+    {
+      "name": "Little Caesars Pizza",
+      "distance": "0.6 mi",
+      "url": "https://www.google.com/maps/search/Little%20Caesars%20Pizza+near+44.9560307%2C-89.6474327"
+    }
+  ],
+  "coffee": [
+    {
+      "name": "Panera Bread",
+      "distance": "0.5 mi",
+      "url": "https://www.google.com/maps/search/Panera%20Bread+near+44.9560307%2C-89.6474327"
+    },
+    {
+      "name": "Starbucks Coffee Company",
+      "distance": "0.5 mi",
+      "url": "https://www.google.com/maps/search/Starbucks%20Coffee%20Company+near+44.9560307%2C-89.6474327"
+    }
+  ],
+  "team_lunch": [
+    {
+      "name": "Papa Johns Pizza",
+      "distance": "0.5 mi",
+      "url": "https://www.google.com/maps/search/Papa%20Johns%20Pizza+near+44.9560307%2C-89.6474327"
+    },
+    {
+      "name": "Hmong Eggroll",
+      "distance": "0.5 mi",
+      "url": "https://www.google.com/maps/search/Hmong%20Eggroll+near+44.9560307%2C-89.6474327"
+    },
+    {
+      "name": "Christine's Bar Wausau",
+      "distance": "0.5 mi",
+      "url": "https://www.google.com/maps/search/Christine's%20Bar%20Wausau+near+44.9560307%2C-89.6474327"
+    }
+  ],
+  "dinner": [
+    {
+      "name": "The Red Apple Family Restaurant",
+      "distance": "0.4 mi",
+      "url": "https://www.google.com/maps/search/The%20Red%20Apple%20Family%20Restaurant+near+44.9560307%2C-89.6474327"
+    },
+    {
+      "name": "La Taqueria",
+      "distance": "0.4 mi",
+      "url": "https://www.google.com/maps/search/La%20Taqueria+near+44.9560307%2C-89.6474327"
+    },
+    {
+      "name": "Taqueria El Zebas",
+      "distance": "0.4 mi",
+      "url": "https://www.google.com/maps/search/Taqueria%20El%20Zebas+near+44.9560307%2C-89.6474327"
+    },
+    {
+      "name": "M & R Station",
+      "distance": "0.4 mi",
+      "url": "https://www.google.com/maps/search/M%20%26%20R%20Station+near+44.9560307%2C-89.6474327"
+    },
+    {
+      "name": "Masa Sushi Grill And Bar",
+      "distance": "0.6 mi",
+      "url": "https://www.google.com/maps/search/Masa%20Sushi%20Grill%20And%20Bar+near+44.9560307%2C-89.6474327"
+    },
+    {
+      "name": "Mortchee's",
+      "distance": "0.6 mi",
+      "url": "https://www.google.com/maps/search/Mortchee's+near+44.9560307%2C-89.6474327"
+    },
+    {
+      "name": "Treu’s Tic Toc",
+      "distance": "0.6 mi",
+      "url": "https://www.google.com/maps/search/Treu%E2%80%99s%20Tic%20Toc+near+44.9560307%2C-89.6474327"
+    }
+  ],
+  "bowling": [
+    {
+      "name": "Day's Bowl-A-Dome",
+      "distance": "0.5 mi",
+      "url": "https://www.google.com/maps/search/Day's%20Bowl-A-Dome+near+44.9560307%2C-89.6474327"
+    },
+    {
+      "name": "Coral Lanes LLC",
+      "distance": "4.4 mi",
+      "url": "https://www.google.com/maps/search/Coral%20Lanes%20LLC+near+44.9560307%2C-89.6474327",
+      "isFar": true
+    }
+  ],
+  "arcade": [],
+  "movies": [],
+  "fun": [
+    {
+      "name": "Kykomi's",
+      "distance": "1.0 mi",
+      "url": "https://www.google.com/maps/search/Kykomi's+near+44.9560307%2C-89.6474327"
+    },
+    {
+      "name": "Wausau On Water (WOW Family Entertainment Center)",
+      "distance": "1.2 mi",
+      "url": "https://www.google.com/maps/search/Wausau%20On%20Water%20(WOW%20Family%20Entertainment%20Center)+near+44.9560307%2C-89.6474327"
+    },
+    {
+      "name": "Cracked Escape Rooms",
+      "distance": "4.7 mi",
+      "url": "https://www.google.com/maps/search/Cracked%20Escape%20Rooms+near+44.9560307%2C-89.6474327",
+      "isFar": true
+    }
+  ],
+  "hotels": [
+    {
+      "name": "Marathon Park Campground",
+      "distance": "0.3 mi",
+      "url": "https://www.google.com/maps/search/Marathon%20Park%20Campground+near+44.9560307%2C-89.6474327"
+    },
+    {
+      "name": "3 bedroom home near Aspirus Hospital",
+      "distance": "0.4 mi",
+      "url": "https://www.google.com/maps/search/3%20bedroom%20home%20near%20Aspirus%20Hospital+near+44.9560307%2C-89.6474327"
+    },
+    {
+      "name": "Marjon Motel",
+      "distance": "0.4 mi",
+      "url": "https://www.google.com/maps/search/Marjon%20Motel+near+44.9560307%2C-89.6474327"
+    },
+    {
+      "name": "2BDRM 1BTH Near Aspirus Downtown Wausau",
+      "distance": "0.4 mi",
+      "url": "https://www.google.com/maps/search/2BDRM%201BTH%20Near%20Aspirus%20Downtown%20Wausau+near+44.9560307%2C-89.6474327"
+    },
+    {
+      "name": "1 bd LL Apt, non-smoking, wlkout patio EV charger",
+      "distance": "0.5 mi",
+      "url": "https://www.google.com/maps/search/1%20bd%20LL%20Apt%2C%20non-smoking%2C%20wlkout%20patio%20EV%20charger+near+44.9560307%2C-89.6474327"
+    },
+    {
+      "name": "Bed Rock Freight Brokerage LP",
+      "distance": "0.6 mi",
+      "url": "https://www.google.com/maps/search/Bed%20Rock%20Freight%20Brokerage%20LP+near+44.9560307%2C-89.6474327"
+    },
+    {
+      "name": "Old World Charm 2 Story Home",
+      "distance": "0.6 mi",
+      "url": "https://www.google.com/maps/search/Old%20World%20Charm%202%20Story%20Home+near+44.9560307%2C-89.6474327"
+    }
+  ],
+  "gas": [
+    {
+      "name": "Kwik Trip #1033",
+      "distance": "0.4 mi",
+      "url": "https://www.google.com/maps/search/Kwik%20Trip%20%231033+near+44.9560307%2C-89.6474327"
+    },
+    {
+      "name": "Hy-Vee Fast & Fresh",
+      "distance": "0.6 mi",
+      "url": "https://www.google.com/maps/search/Hy-Vee%20Fast%20%26%20Fresh+near+44.9560307%2C-89.6474327"
+    },
+    {
+      "name": "Citgo",
+      "distance": "0.6 mi",
+      "url": "https://www.google.com/maps/search/Citgo+near+44.9560307%2C-89.6474327"
+    },
+    {
+      "name": "Mobil",
+      "distance": "0.6 mi",
+      "url": "https://www.google.com/maps/search/Mobil+near+44.9560307%2C-89.6474327"
+    },
+    {
+      "name": "Krist Food Mart #089",
+      "distance": "0.7 mi",
+      "url": "https://www.google.com/maps/search/Krist%20Food%20Mart%20%23089+near+44.9560307%2C-89.6474327"
+    }
+  ]
+}

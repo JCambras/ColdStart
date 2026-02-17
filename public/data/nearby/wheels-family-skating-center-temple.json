@@ -1,0 +1,202 @@
+{
+  "quick_bite": [
+    {
+      "name": "Chick-fil-A",
+      "distance": "0.1 mi",
+      "url": "https://www.google.com/maps/search/Chick-fil-A+near+31.109250699999993%2C-97.3551067"
+    },
+    {
+      "name": "Whataburger",
+      "distance": "0.4 mi",
+      "url": "https://www.google.com/maps/search/Whataburger+near+31.109250699999993%2C-97.3551067"
+    },
+    {
+      "name": "Jimmy John's",
+      "distance": "0.5 mi",
+      "url": "https://www.google.com/maps/search/Jimmy%20John's+near+31.109250699999993%2C-97.3551067"
+    },
+    {
+      "name": "Taco Bell",
+      "distance": "0.5 mi",
+      "url": "https://www.google.com/maps/search/Taco%20Bell+near+31.109250699999993%2C-97.3551067"
+    },
+    {
+      "name": "Little Caesars Pizza",
+      "distance": "0.5 mi",
+      "url": "https://www.google.com/maps/search/Little%20Caesars%20Pizza+near+31.109250699999993%2C-97.3551067"
+    },
+    {
+      "name": "McDonald's",
+      "distance": "0.6 mi",
+      "url": "https://www.google.com/maps/search/McDonald's+near+31.109250699999993%2C-97.3551067"
+    },
+    {
+      "name": "Subway",
+      "distance": "0.6 mi",
+      "url": "https://www.google.com/maps/search/Subway+near+31.109250699999993%2C-97.3551067"
+    }
+  ],
+  "coffee": [
+    {
+      "name": "Dutch Bros Coffee",
+      "distance": "0.4 mi",
+      "url": "https://www.google.com/maps/search/Dutch%20Bros%20Coffee+near+31.109250699999993%2C-97.3551067"
+    },
+    {
+      "name": "Black Rifle Coffee Company",
+      "distance": "0.4 mi",
+      "url": "https://www.google.com/maps/search/Black%20Rifle%20Coffee%20Company+near+31.109250699999993%2C-97.3551067"
+    },
+    {
+      "name": "Shipley Do-Nuts",
+      "distance": "0.5 mi",
+      "url": "https://www.google.com/maps/search/Shipley%20Do-Nuts+near+31.109250699999993%2C-97.3551067"
+    },
+    {
+      "name": "McDonald's",
+      "distance": "0.5 mi",
+      "url": "https://www.google.com/maps/search/McDonald's+near+31.109250699999993%2C-97.3551067"
+    }
+  ],
+  "team_lunch": [
+    {
+      "name": "Texas Roadhouse",
+      "distance": "0.2 mi",
+      "url": "https://www.google.com/maps/search/Texas%20Roadhouse+near+31.109250699999993%2C-97.3551067"
+    },
+    {
+      "name": "Tres Magueyes 2",
+      "distance": "0.5 mi",
+      "url": "https://www.google.com/maps/search/Tres%20Magueyes%202+near+31.109250699999993%2C-97.3551067"
+    }
+  ],
+  "dinner": [
+    {
+      "name": "The Blue Plate",
+      "distance": "0.2 mi",
+      "url": "https://www.google.com/maps/search/The%20Blue%20Plate+near+31.109250699999993%2C-97.3551067"
+    },
+    {
+      "name": "Un Taco Mass",
+      "distance": "0.4 mi",
+      "url": "https://www.google.com/maps/search/Un%20Taco%20Mass+near+31.109250699999993%2C-97.3551067"
+    },
+    {
+      "name": "H-E-B Bakery",
+      "distance": "0.5 mi",
+      "url": "https://www.google.com/maps/search/H-E-B%20Bakery+near+31.109250699999993%2C-97.3551067"
+    },
+    {
+      "name": "Taqueria Dos Amigos Temple Tx",
+      "distance": "0.6 mi",
+      "url": "https://www.google.com/maps/search/Taqueria%20Dos%20Amigos%20Temple%20Tx+near+31.109250699999993%2C-97.3551067"
+    },
+    {
+      "name": "Saigon Square Restaurant",
+      "distance": "0.7 mi",
+      "url": "https://www.google.com/maps/search/Saigon%20Square%20Restaurant+near+31.109250699999993%2C-97.3551067"
+    }
+  ],
+  "bowling": [
+    {
+      "name": "Spare Time Texas Temple",
+      "distance": "2.5 mi",
+      "url": "https://www.google.com/maps/search/Spare%20Time%20Texas%20Temple+near+31.109250699999993%2C-97.3551067"
+    }
+  ],
+  "arcade": [],
+  "movies": [],
+  "fun": [
+    {
+      "name": "Xtreme Jump Adventure Park",
+      "distance": "2.8 mi",
+      "url": "https://www.google.com/maps/search/Xtreme%20Jump%20Adventure%20Park+near+31.109250699999993%2C-97.3551067"
+    },
+    {
+      "name": "Great Escape of Central Texas",
+      "distance": "2.8 mi",
+      "url": "https://www.google.com/maps/search/Great%20Escape%20of%20Central%20Texas+near+31.109250699999993%2C-97.3551067"
+    },
+    {
+      "name": "Shotz Interactive",
+      "distance": "2.9 mi",
+      "url": "https://www.google.com/maps/search/Shotz%20Interactive+near+31.109250699999993%2C-97.3551067"
+    },
+    {
+      "name": "Lions Junction Family Water Park",
+      "distance": "4.4 mi",
+      "url": "https://www.google.com/maps/search/Lions%20Junction%20Family%20Water%20Park+near+31.109250699999993%2C-97.3551067",
+      "isFar": true
+    },
+    {
+      "name": "Playa Azul Game Room",
+      "distance": "4.8 mi",
+      "url": "https://www.google.com/maps/search/Playa%20Azul%20Game%20Room+near+31.109250699999993%2C-97.3551067",
+      "isFar": true
+    }
+  ],
+  "hotels": [
+    {
+      "name": "Americas Best Value Inn Temple Killeen",
+      "distance": "0.1 mi",
+      "url": "https://www.google.com/maps/search/Americas%20Best%20Value%20Inn%20Temple%20Killeen+near+31.109250699999993%2C-97.3551067"
+    },
+    {
+      "name": "Econo Lodge Temple",
+      "distance": "0.1 mi",
+      "url": "https://www.google.com/maps/search/Econo%20Lodge%20Temple+near+31.109250699999993%2C-97.3551067"
+    },
+    {
+      "name": "Motel 6 Temple, TX",
+      "distance": "0.2 mi",
+      "url": "https://www.google.com/maps/search/Motel%206%20Temple%2C%20TX+near+31.109250699999993%2C-97.3551067"
+    },
+    {
+      "name": "Best Western Temple Inn & Suites",
+      "distance": "0.2 mi",
+      "url": "https://www.google.com/maps/search/Best%20Western%20Temple%20Inn%20%26%20Suites+near+31.109250699999993%2C-97.3551067"
+    },
+    {
+      "name": "Studio 6 Temple, TX",
+      "distance": "0.2 mi",
+      "url": "https://www.google.com/maps/search/Studio%206%20Temple%2C%20TX+near+31.109250699999993%2C-97.3551067"
+    },
+    {
+      "name": "American Inn Temple Texas",
+      "distance": "0.3 mi",
+      "url": "https://www.google.com/maps/search/American%20Inn%20Temple%20Texas+near+31.109250699999993%2C-97.3551067"
+    },
+    {
+      "name": "Days Inn by Wyndham Temple",
+      "distance": "0.3 mi",
+      "url": "https://www.google.com/maps/search/Days%20Inn%20by%20Wyndham%20Temple+near+31.109250699999993%2C-97.3551067"
+    }
+  ],
+  "gas": [
+    {
+      "name": "Exxon",
+      "distance": "0.4 mi",
+      "url": "https://www.google.com/maps/search/Exxon+near+31.109250699999993%2C-97.3551067"
+    },
+    {
+      "name": "Chevron",
+      "distance": "0.4 mi",
+      "url": "https://www.google.com/maps/search/Chevron+near+31.109250699999993%2C-97.3551067"
+    },
+    {
+      "name": "Valero",
+      "distance": "0.5 mi",
+      "url": "https://www.google.com/maps/search/Valero+near+31.109250699999993%2C-97.3551067"
+    },
+    {
+      "name": "H-E-B Fuel",
+      "distance": "0.6 mi",
+      "url": "https://www.google.com/maps/search/H-E-B%20Fuel+near+31.109250699999993%2C-97.3551067"
+    },
+    {
+      "name": "Gas Station",
+      "distance": "0.6 mi",
+      "url": "https://www.google.com/maps/search/Gas%20Station+near+31.109250699999993%2C-97.3551067"
+    }
+  ]
+}

@@ -1,0 +1,177 @@
+{
+  "quick_bite": [
+    {
+      "name": "Taco Bell",
+      "distance": "0.1 mi",
+      "url": "https://www.google.com/maps/search/Taco%20Bell+near+38.4119277%2C-77.4111755"
+    },
+    {
+      "name": "Wendy's",
+      "distance": "0.5 mi",
+      "url": "https://www.google.com/maps/search/Wendy's+near+38.4119277%2C-77.4111755"
+    },
+    {
+      "name": "Panda Express",
+      "distance": "0.6 mi",
+      "url": "https://www.google.com/maps/search/Panda%20Express+near+38.4119277%2C-77.4111755"
+    },
+    {
+      "name": "Chick-fil-A",
+      "distance": "0.6 mi",
+      "url": "https://www.google.com/maps/search/Chick-fil-A+near+38.4119277%2C-77.4111755"
+    },
+    {
+      "name": "Krispy Krunchy Chicken",
+      "distance": "0.8 mi",
+      "url": "https://www.google.com/maps/search/Krispy%20Krunchy%20Chicken+near+38.4119277%2C-77.4111755"
+    },
+    {
+      "name": "Sam's Pizza & Subs",
+      "distance": "0.8 mi",
+      "url": "https://www.google.com/maps/search/Sam's%20Pizza%20%26%20Subs+near+38.4119277%2C-77.4111755"
+    }
+  ],
+  "coffee": [
+    {
+      "name": "Starbucks Coffee Company",
+      "distance": "0.5 mi",
+      "url": "https://www.google.com/maps/search/Starbucks%20Coffee%20Company+near+38.4119277%2C-77.4111755"
+    },
+    {
+      "name": "Panera Bread",
+      "distance": "1.2 mi",
+      "url": "https://www.google.com/maps/search/Panera%20Bread+near+38.4119277%2C-77.4111755"
+    }
+  ],
+  "team_lunch": [
+    {
+      "name": "WNB Factory - Wings & Burger",
+      "distance": "1.0 mi",
+      "url": "https://www.google.com/maps/search/WNB%20Factory%20-%20Wings%20%26%20Burger+near+38.4119277%2C-77.4111755"
+    },
+    {
+      "name": "China King Restaurant",
+      "distance": "1.0 mi",
+      "url": "https://www.google.com/maps/search/China%20King%20Restaurant+near+38.4119277%2C-77.4111755"
+    },
+    {
+      "name": "Ledo Pizza",
+      "distance": "1.3 mi",
+      "url": "https://www.google.com/maps/search/Ledo%20Pizza+near+38.4119277%2C-77.4111755"
+    }
+  ],
+  "dinner": [
+    {
+      "name": "Manny’s Moon Pizza ‘Rant",
+      "distance": "0.1 mi",
+      "url": "https://www.google.com/maps/search/Manny%E2%80%99s%20Moon%20Pizza%20%E2%80%98Rant+near+38.4119277%2C-77.4111755"
+    },
+    {
+      "name": "The Log Cabin Restaurant",
+      "distance": "0.7 mi",
+      "url": "https://www.google.com/maps/search/The%20Log%20Cabin%20Restaurant+near+38.4119277%2C-77.4111755"
+    },
+    {
+      "name": "Change UR Taste LLc",
+      "distance": "0.9 mi",
+      "url": "https://www.google.com/maps/search/Change%20UR%20Taste%20LLc+near+38.4119277%2C-77.4111755"
+    },
+    {
+      "name": "My Home Thai Stafford",
+      "distance": "1.3 mi",
+      "url": "https://www.google.com/maps/search/My%20Home%20Thai%20Stafford+near+38.4119277%2C-77.4111755"
+    },
+    {
+      "name": "Cinnaholic",
+      "distance": "1.3 mi",
+      "url": "https://www.google.com/maps/search/Cinnaholic+near+38.4119277%2C-77.4111755"
+    }
+  ],
+  "bowling": [
+    {
+      "name": "Leatherneck Lanes",
+      "distance": "9.9 mi",
+      "url": "https://www.google.com/maps/search/Leatherneck%20Lanes+near+38.4119277%2C-77.4111755",
+      "isFar": true
+    }
+  ],
+  "arcade": [],
+  "movies": [
+    {
+      "name": "Under The Stars Entertainment",
+      "distance": "0.9 mi",
+      "url": "https://www.google.com/maps/search/Under%20The%20Stars%20Entertainment+near+38.4119277%2C-77.4111755"
+    },
+    {
+      "name": "Regal Fredericksburg",
+      "distance": "9.8 mi",
+      "url": "https://www.google.com/maps/search/Regal%20Fredericksburg+near+38.4119277%2C-77.4111755",
+      "isFar": true
+    },
+    {
+      "name": "Quantico Base Theater",
+      "distance": "9.8 mi",
+      "url": "https://www.google.com/maps/search/Quantico%20Base%20Theater+near+38.4119277%2C-77.4111755",
+      "isFar": true
+    }
+  ],
+  "fun": [
+    {
+      "name": "Family Escape Rooms",
+      "distance": "3.2 mi",
+      "url": "https://www.google.com/maps/search/Family%20Escape%20Rooms+near+38.4119277%2C-77.4111755",
+      "isFar": true
+    },
+    {
+      "name": "Sky Zone Trampoline Park",
+      "distance": "9.3 mi",
+      "url": "https://www.google.com/maps/search/Sky%20Zone%20Trampoline%20Park+near+38.4119277%2C-77.4111755",
+      "isFar": true
+    },
+    {
+      "name": "Fun Land of Fredericksburg",
+      "distance": "9.3 mi",
+      "url": "https://www.google.com/maps/search/Fun%20Land%20of%20Fredericksburg+near+38.4119277%2C-77.4111755",
+      "isFar": true
+    }
+  ],
+  "hotels": [
+    {
+      "name": "Paradise Estates",
+      "distance": "0.4 mi",
+      "url": "https://www.google.com/maps/search/Paradise%20Estates+near+38.4119277%2C-77.4111755"
+    },
+    {
+      "name": "Oakwood At Aventine",
+      "distance": "0.6 mi",
+      "url": "https://www.google.com/maps/search/Oakwood%20At%20Aventine+near+38.4119277%2C-77.4111755"
+    },
+    {
+      "name": "Studio 6 Stafford, VA - Quantico",
+      "distance": "0.7 mi",
+      "url": "https://www.google.com/maps/search/Studio%206%20Stafford%2C%20VA%20-%20Quantico+near+38.4119277%2C-77.4111755"
+    }
+  ],
+  "gas": [
+    {
+      "name": "Sheetz",
+      "distance": "0.6 mi",
+      "url": "https://www.google.com/maps/search/Sheetz+near+38.4119277%2C-77.4111755"
+    },
+    {
+      "name": "Valero",
+      "distance": "0.8 mi",
+      "url": "https://www.google.com/maps/search/Valero+near+38.4119277%2C-77.4111755"
+    },
+    {
+      "name": "Quarles Fleet Fueling",
+      "distance": "2.3 mi",
+      "url": "https://www.google.com/maps/search/Quarles%20Fleet%20Fueling+near+38.4119277%2C-77.4111755"
+    },
+    {
+      "name": "Stafford Liberty(Gas)",
+      "distance": "2.5 mi",
+      "url": "https://www.google.com/maps/search/Stafford%20Liberty(Gas)+near+38.4119277%2C-77.4111755"
+    }
+  ]
+}

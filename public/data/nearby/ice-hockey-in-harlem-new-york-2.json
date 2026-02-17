@@ -1,0 +1,175 @@
+{
+  "quick_bite": [
+    {
+      "name": "Harlem Poke",
+      "distance": "0.1 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Harlem%20Poke&query_place_id=ChIJ27WmH9D3wokRMQRZJgMhbNo&center=40.8099917,-73.9434895"
+    },
+    {
+      "name": "Raising Cane's Chicken Fingers",
+      "distance": "0.1 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Raising%20Cane's%20Chicken%20Fingers&query_place_id=ChIJhxoeyo_3wokRmByeVT15UlU&center=40.8080395,-73.94688529999999"
+    },
+    {
+      "name": "Checkers",
+      "distance": "0.1 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Checkers&query_place_id=ChIJ6TL8Hw32wokRhdlgpdteiqQ&center=40.8078195,-73.9448472"
+    },
+    {
+      "name": "Market Sandwich",
+      "distance": "0.2 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Market%20Sandwich&query_place_id=ChIJ7YN4_Hj3wokRQKPQbMnrLfs&center=40.8074154,-73.9461975"
+    },
+    {
+      "name": "White Castle",
+      "distance": "0.2 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=White%20Castle&query_place_id=ChIJt-XwuhL2wokRbq9t3YhZZeU&center=40.8088317,-73.9488051"
+    },
+    {
+      "name": "Taco Bell",
+      "distance": "0.2 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Taco%20Bell&query_place_id=ChIJwQtSQwD3wokRyWxVWPBYTjU&center=40.8087643,-73.94888639999999"
+    }
+  ],
+  "coffee": [
+    {
+      "name": "Azara Kitchen LLC",
+      "distance": "0.1 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Azara%20Kitchen%20LLC&query_place_id=ChIJz3h9_zn3wokRGIG3gczgc1E&center=40.809303299999996,-73.9440363"
+    },
+    {
+      "name": "Dunkin'",
+      "distance": "0.1 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Dunkin'&query_place_id=ChIJVxx1T0r3wokRydLnnUkobwg&center=40.8081239,-73.9457803"
+    }
+  ],
+  "team_lunch": [
+    {
+      "name": "Lenox Saphire Harlem",
+      "distance": "0.1 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Lenox%20Saphire%20Harlem&query_place_id=ChIJhfGrKXP2wokR7v-J71i8q9A&center=40.809368,-73.944751"
+    },
+    {
+      "name": "Uptown Veg 2 express",
+      "distance": "0.1 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Uptown%20Veg%202%20express&query_place_id=ChIJ1y_irF33wokRQWrwK5Bc8Ng&center=40.8095117,-73.944548"
+    },
+    {
+      "name": "Matrix Lounge Restaurant",
+      "distance": "0.1 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Matrix%20Lounge%20Restaurant&query_place_id=ChIJhcLI8rn3wokR0x3EH2I_zeI&center=40.8087971,-73.9451897"
+    },
+    {
+      "name": "Tropical Grill",
+      "distance": "0.1 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Tropical%20Grill&query_place_id=ChIJy9r5onL2wokR6m7q2OcJSAw&center=40.810325999999996,-73.9470262"
+    },
+    {
+      "name": "Kennedy Chicken & Halal Grill",
+      "distance": "0.1 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Kennedy%20Chicken%20%26%20Halal%20Grill&query_place_id=ChIJYeRtdwD3wokRqB4F2cF4CPI&center=40.809371999999996,-73.9439901"
+    },
+    {
+      "name": "Whole Foods Bakery",
+      "distance": "0.2 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Whole%20Foods%20Bakery&query_place_id=ChIJHUbkJgD3wokREbg3l4VR1Vc&center=40.807589,-73.946219"
+    }
+  ],
+  "dinner": [
+    {
+      "name": "Cantina Taqueria & Tequila Bar",
+      "distance": "0.1 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Cantina%20Taqueria%20%26%20Tequila%20Bar&query_place_id=ChIJv-vTKg32wokR0Cj3epbby6w&center=40.808926899999996,-73.94503279999999"
+    },
+    {
+      "name": "Cucina Italian tavern",
+      "distance": "0.1 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Cucina%20Italian%20tavern&query_place_id=ChIJ_YBu0r73wokRs_WLcB9Ka7k&center=40.8089393,-73.9449612"
+    },
+    {
+      "name": "Jerk House Caribbean Restaurant",
+      "distance": "0.1 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Jerk%20House%20Caribbean%20Restaurant&query_place_id=ChIJA7R5V933wokRxYZZisNkoD0&center=40.8103373,-73.94704879999999"
+    },
+    {
+      "name": "Corner Social",
+      "distance": "0.1 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Corner%20Social&query_place_id=ChIJ_TI4LA32wokR_4hB-16nbas&center=40.808637100000006,-73.9451936"
+    },
+    {
+      "name": "Jacob Soul Food Restaurant",
+      "distance": "0.1 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Jacob%20Soul%20Food%20Restaurant&query_place_id=ChIJnxjnEHP2wokR-Dgf5gfBf50&center=40.810265,-73.9440245"
+    },
+    {
+      "name": "Courtside Seafood Restaurant",
+      "distance": "0.1 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Courtside%20Seafood%20Restaurant&query_place_id=ChIJ3zpVdgf3wokRzVWZ5R8qH08&center=40.8091753,-73.9441075"
+    }
+  ],
+  "bowling": [],
+  "arcade": [],
+  "movies": [
+    {
+      "name": "Maysles Documentary Center",
+      "distance": "0.1 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Maysles%20Documentary%20Center&query_place_id=ChIJz6L6KHP2wokRjbkkaWZeZI0&center=40.809425399999995,-73.94470179999999"
+    },
+    {
+      "name": "AMC Magic Johnson Harlem 9",
+      "distance": "0.3 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=AMC%20Magic%20Johnson%20Harlem%209&query_place_id=ChIJpXl1NBP2wokRjpw_FRD5PGA&center=40.8097351,-73.9518015"
+    },
+    {
+      "name": "Latin American Film Center",
+      "distance": "0.8 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Latin%20American%20Film%20Center&query_place_id=ChIJU3kJGt71wokRoFLqhlcL2Y8&center=40.80757560000001,-73.9311385"
+    }
+  ],
+  "fun": [
+    {
+      "name": "Aunties Sculpture",
+      "distance": "0.2 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Aunties%20Sculpture&query_place_id=ChIJV8CiEgD3wokRQWylp6xVfQc&center=40.8071906,-73.9459145"
+    },
+    {
+      "name": "3 Women of Harlem",
+      "distance": "0.2 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=3%20Women%20of%20Harlem&query_place_id=ChIJZfkYNAD3wokRz5Umbw6KQgE&center=40.8071395,-73.94607069999999"
+    },
+    {
+      "name": "Harlem Jazz Series",
+      "distance": "0.3 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Harlem%20Jazz%20Series&query_place_id=ChIJgc1-QwD3wokRpYBDpqLLnyc&center=40.8051276,-73.94551249999999"
+    },
+    {
+      "name": "Murals",
+      "distance": "0.4 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Murals&query_place_id=ChIJhVQFQQD3wokRoACY8vKVWZ0&center=40.8052278,-73.9397834"
+    }
+  ],
+  "hotels": [
+    {
+      "name": "Rose of Sharon State Grand Lodge New York",
+      "distance": "0.1 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Rose%20of%20Sharon%20State%20Grand%20Lodge%20New%20York&query_place_id=ChIJCdMWVVz3wokRhammTlADMJI&center=40.8098862,-73.9469007"
+    }
+  ],
+  "gas": [
+    {
+      "name": "Shell",
+      "distance": "0.4 mi",
+      "url": "https://www.google.com/maps/search/Shell+near+40.809795099999995%2C-73.9457359"
+    },
+    {
+      "name": "bp",
+      "distance": "0.5 mi",
+      "url": "https://www.google.com/maps/search/bp+near+40.809795099999995%2C-73.9457359"
+    },
+    {
+      "name": "Accede Inc",
+      "distance": "0.8 mi",
+      "url": "https://www.google.com/maps/search/Accede%20Inc+near+40.809795099999995%2C-73.9457359"
+    }
+  ]
+}

@@ -1,0 +1,255 @@
+{
+  "quick_bite": [
+    {
+      "name": "Wendy's",
+      "distance": "0.6 mi",
+      "url": "https://www.google.com/maps/search/Wendy's+near+44.8160798%2C-93.16605369999999"
+    },
+    {
+      "name": "It's Just Wings",
+      "distance": "0.7 mi",
+      "url": "https://www.google.com/maps/search/It's%20Just%20Wings+near+44.8160798%2C-93.16605369999999"
+    },
+    {
+      "name": "Papa Murphy's | Take 'N' Bake Pizza",
+      "distance": "0.7 mi",
+      "url": "https://www.google.com/maps/search/Papa%20Murphy's%20%7C%20Take%20'N'%20Bake%20Pizza+near+44.8160798%2C-93.16605369999999"
+    },
+    {
+      "name": "Subway",
+      "distance": "0.9 mi",
+      "url": "https://www.google.com/maps/search/Subway+near+44.8160798%2C-93.16605369999999"
+    },
+    {
+      "name": "Executive home nearby Twin Cities, MOA, MSP airport, etc.",
+      "distance": "0.9 mi",
+      "url": "https://www.google.com/maps/search/Executive%20home%20nearby%20Twin%20Cities%2C%20MOA%2C%20MSP%20airport%2C%20etc.+near+44.8160798%2C-93.16605369999999"
+    },
+    {
+      "name": "Bonchon Eagan",
+      "distance": "1.0 mi",
+      "url": "https://www.google.com/maps/search/Bonchon%20Eagan+near+44.8160798%2C-93.16605369999999"
+    },
+    {
+      "name": "Popeyes Louisiana Kitchen",
+      "distance": "1.1 mi",
+      "url": "https://www.google.com/maps/search/Popeyes%20Louisiana%20Kitchen+near+44.8160798%2C-93.16605369999999"
+    }
+  ],
+  "coffee": [
+    {
+      "name": "VENDELLA euro boutique & coffee haus",
+      "distance": "0.7 mi",
+      "url": "https://www.google.com/maps/search/VENDELLA%20euro%20boutique%20%26%20coffee%20haus+near+44.8160798%2C-93.16605369999999"
+    },
+    {
+      "name": "Caribou Coffee",
+      "distance": "0.7 mi",
+      "url": "https://www.google.com/maps/search/Caribou%20Coffee+near+44.8160798%2C-93.16605369999999"
+    },
+    {
+      "name": "Junior's Cafe & Grill",
+      "distance": "0.8 mi",
+      "url": "https://www.google.com/maps/search/Junior's%20Cafe%20%26%20Grill+near+44.8160798%2C-93.16605369999999"
+    },
+    {
+      "name": "McDonald's",
+      "distance": "1.0 mi",
+      "url": "https://www.google.com/maps/search/McDonald's+near+44.8160798%2C-93.16605369999999"
+    }
+  ],
+  "team_lunch": [
+    {
+      "name": "Chili's Grill & Bar",
+      "distance": "0.7 mi",
+      "url": "https://www.google.com/maps/search/Chili's%20Grill%20%26%20Bar+near+44.8160798%2C-93.16605369999999"
+    },
+    {
+      "name": "MrBeast Burger",
+      "distance": "1.0 mi",
+      "url": "https://www.google.com/maps/search/MrBeast%20Burger+near+44.8160798%2C-93.16605369999999"
+    },
+    {
+      "name": "Perkins American Food Co.",
+      "distance": "1.0 mi",
+      "url": "https://www.google.com/maps/search/Perkins%20American%20Food%20Co.+near+44.8160798%2C-93.16605369999999"
+    },
+    {
+      "name": "Applebee's Grill + Bar",
+      "distance": "1.1 mi",
+      "url": "https://www.google.com/maps/search/Applebee's%20Grill%20%2B%20Bar+near+44.8160798%2C-93.16605369999999"
+    }
+  ],
+  "dinner": [
+    {
+      "name": "El Compa Mexican Grill",
+      "distance": "0.8 mi",
+      "url": "https://www.google.com/maps/search/El%20Compa%20Mexican%20Grill+near+44.8160798%2C-93.16605369999999"
+    },
+    {
+      "name": "Wingstop",
+      "distance": "1.0 mi",
+      "url": "https://www.google.com/maps/search/Wingstop+near+44.8160798%2C-93.16605369999999"
+    },
+    {
+      "name": "Kyuramen - Eagan",
+      "distance": "1.0 mi",
+      "url": "https://www.google.com/maps/search/Kyuramen%20-%20Eagan+near+44.8160798%2C-93.16605369999999"
+    },
+    {
+      "name": "Fiddlesticks Bakery",
+      "distance": "1.0 mi",
+      "url": "https://www.google.com/maps/search/Fiddlesticks%20Bakery+near+44.8160798%2C-93.16605369999999"
+    },
+    {
+      "name": "Ze's Diner Eagan",
+      "distance": "1.1 mi",
+      "url": "https://www.google.com/maps/search/Ze's%20Diner%20Eagan+near+44.8160798%2C-93.16605369999999"
+    }
+  ],
+  "bowling": [
+    {
+      "name": "Cedarvale Lanes and Fitz's Bar & Grill",
+      "distance": "2.1 mi",
+      "url": "https://www.google.com/maps/search/Cedarvale%20Lanes%20and%20Fitz's%20Bar%20%26%20Grill+near+44.8160798%2C-93.16605369999999"
+    },
+    {
+      "name": "WhirlyBall Twin Cities",
+      "distance": "4.2 mi",
+      "url": "https://www.google.com/maps/search/WhirlyBall%20Twin%20Cities+near+44.8160798%2C-93.16605369999999",
+      "isFar": true
+    }
+  ],
+  "arcade": [],
+  "movies": [
+    {
+      "name": "Emagine Eagan",
+      "distance": "2.7 mi",
+      "url": "https://www.google.com/maps/search/Emagine%20Eagan+near+44.8160798%2C-93.16605369999999"
+    },
+    {
+      "name": "B&B Theatres Bloomington 13 @ Mall of America",
+      "distance": "4.5 mi",
+      "url": "https://www.google.com/maps/search/B%26B%20Theatres%20Bloomington%2013%20%40%20Mall%20of%20America+near+44.8160798%2C-93.16605369999999",
+      "isFar": true
+    },
+    {
+      "name": "5D Extreme Attraction",
+      "distance": "4.6 mi",
+      "url": "https://www.google.com/maps/search/5D%20Extreme%20Attraction+near+44.8160798%2C-93.16605369999999",
+      "isFar": true
+    },
+    {
+      "name": "Film Screening Room",
+      "distance": "4.9 mi",
+      "url": "https://www.google.com/maps/search/Film%20Screening%20Room+near+44.8160798%2C-93.16605369999999",
+      "isFar": true
+    }
+  ],
+  "fun": [
+    {
+      "name": "Cascade Bay Water Park",
+      "distance": "0.1 mi",
+      "url": "https://www.google.com/maps/search/Cascade%20Bay%20Water%20Park+near+44.8160798%2C-93.16605369999999"
+    },
+    {
+      "name": "Sky Zone Trampoline Park",
+      "distance": "2.1 mi",
+      "url": "https://www.google.com/maps/search/Sky%20Zone%20Trampoline%20Park+near+44.8160798%2C-93.16605369999999"
+    },
+    {
+      "name": "Enigma Adventures: Escape Room Games",
+      "distance": "4.2 mi",
+      "url": "https://www.google.com/maps/search/Enigma%20Adventures%3A%20Escape%20Room%20Games+near+44.8160798%2C-93.16605369999999",
+      "isFar": true
+    },
+    {
+      "name": "Great Big Game Show Minneapolis",
+      "distance": "4.5 mi",
+      "url": "https://www.google.com/maps/search/Great%20Big%20Game%20Show%20Minneapolis+near+44.8160798%2C-93.16605369999999",
+      "isFar": true
+    },
+    {
+      "name": "The Escape Game Minneapolis",
+      "distance": "4.5 mi",
+      "url": "https://www.google.com/maps/search/The%20Escape%20Game%20Minneapolis+near+44.8160798%2C-93.16605369999999",
+      "isFar": true
+    },
+    {
+      "name": "Adventure Bay at Nickelodeon Universe",
+      "distance": "4.6 mi",
+      "url": "https://www.google.com/maps/search/Adventure%20Bay%20at%20Nickelodeon%20Universe+near+44.8160798%2C-93.16605369999999",
+      "isFar": true
+    },
+    {
+      "name": "Nickelodeon Universe",
+      "distance": "4.6 mi",
+      "url": "https://www.google.com/maps/search/Nickelodeon%20Universe+near+44.8160798%2C-93.16605369999999",
+      "isFar": true
+    }
+  ],
+  "hotels": [
+    {
+      "name": "Beautiful Family Home! Close to Outlet Malls",
+      "distance": "0.5 mi",
+      "url": "https://www.google.com/maps/search/Beautiful%20Family%20Home!%20Close%20to%20Outlet%20Malls+near+44.8160798%2C-93.16605369999999"
+    },
+    {
+      "name": "Beautiful Family Home! Close to Outlet Malls",
+      "distance": "0.5 mi",
+      "url": "https://www.google.com/maps/search/Beautiful%20Family%20Home!%20Close%20to%20Outlet%20Malls+near+44.8160798%2C-93.16605369999999"
+    },
+    {
+      "name": "SpringHill Suites by Marriott Minneapolis-St. Paul Airport/Eagan",
+      "distance": "0.7 mi",
+      "url": "https://www.google.com/maps/search/SpringHill%20Suites%20by%20Marriott%20Minneapolis-St.%20Paul%20Airport%2FEagan+near+44.8160798%2C-93.16605369999999"
+    },
+    {
+      "name": "SHS - TPS Eagan Leaders",
+      "distance": "0.7 mi",
+      "url": "https://www.google.com/maps/search/SHS%20-%20TPS%20Eagan%20Leaders+near+44.8160798%2C-93.16605369999999"
+    },
+    {
+      "name": "TownePlace Suites by Marriott Minneapolis-St. Paul Airport/Eagan",
+      "distance": "0.7 mi",
+      "url": "https://www.google.com/maps/search/TownePlace%20Suites%20by%20Marriott%20Minneapolis-St.%20Paul%20Airport%2FEagan+near+44.8160798%2C-93.16605369999999"
+    },
+    {
+      "name": "Pet Friendly Private 4-Bedroom Home in Quiet Neighborhood",
+      "distance": "0.9 mi",
+      "url": "https://www.google.com/maps/search/Pet%20Friendly%20Private%204-Bedroom%20Home%20in%20Quiet%20Neighborhood+near+44.8160798%2C-93.16605369999999"
+    },
+    {
+      "name": "Comfort Inn Eagan Minneapolis - St Paul South",
+      "distance": "1.1 mi",
+      "url": "https://www.google.com/maps/search/Comfort%20Inn%20Eagan%20Minneapolis%20-%20St%20Paul%20South+near+44.8160798%2C-93.16605369999999"
+    }
+  ],
+  "gas": [
+    {
+      "name": "Holiday Gas Station",
+      "distance": "0.7 mi",
+      "url": "https://www.google.com/maps/search/Holiday%20Gas%20Station+near+44.8160798%2C-93.16605369999999"
+    },
+    {
+      "name": "Circle K",
+      "distance": "0.7 mi",
+      "url": "https://www.google.com/maps/search/Circle%20K+near+44.8160798%2C-93.16605369999999"
+    },
+    {
+      "name": "Speedway",
+      "distance": "0.8 mi",
+      "url": "https://www.google.com/maps/search/Speedway+near+44.8160798%2C-93.16605369999999"
+    },
+    {
+      "name": "Speedway",
+      "distance": "1.2 mi",
+      "url": "https://www.google.com/maps/search/Speedway+near+44.8160798%2C-93.16605369999999"
+    },
+    {
+      "name": "Holiday Gas Station",
+      "distance": "1.3 mi",
+      "url": "https://www.google.com/maps/search/Holiday%20Gas%20Station+near+44.8160798%2C-93.16605369999999"
+    }
+  ]
+}

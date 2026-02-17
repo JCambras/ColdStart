@@ -1,0 +1,247 @@
+{
+  "quick_bite": [
+    {
+      "name": "Subway",
+      "distance": "0.6 mi",
+      "url": "https://www.google.com/maps/search/Subway+near+42.7813837%2C-85.6772917"
+    },
+    {
+      "name": "Culver’s",
+      "distance": "2.1 mi",
+      "url": "https://www.google.com/maps/search/Culver%E2%80%99s+near+42.7813837%2C-85.6772917"
+    },
+    {
+      "name": "Peppino's Pizza of Byron Center",
+      "distance": "3.0 mi",
+      "url": "https://www.google.com/maps/search/Peppino's%20Pizza%20of%20Byron%20Center+near+42.7813837%2C-85.6772917"
+    },
+    {
+      "name": "Player’s Fuel LLC",
+      "distance": "3.0 mi",
+      "url": "https://www.google.com/maps/search/Player%E2%80%99s%20Fuel%20LLC+near+42.7813837%2C-85.6772917",
+      "isFar": true
+    },
+    {
+      "name": "Park Center Lanes",
+      "distance": "9.4 mi",
+      "url": "https://www.google.com/maps/search/Park%20Center%20Lanes+near+42.7813837%2C-85.6772917",
+      "isFar": true
+    }
+  ],
+  "coffee": [
+    {
+      "name": "Lola Lee’s Coffee & Books",
+      "distance": "2.0 mi",
+      "url": "https://www.google.com/maps/search/Lola%20Lee%E2%80%99s%20Coffee%20%26%20Books+near+42.7813837%2C-85.6772917"
+    },
+    {
+      "name": "Starbucks Coffee Company",
+      "distance": "2.1 mi",
+      "url": "https://www.google.com/maps/search/Starbucks%20Coffee%20Company+near+42.7813837%2C-85.6772917"
+    },
+    {
+      "name": "Foxtail Coffee Byron Center",
+      "distance": "2.2 mi",
+      "url": "https://www.google.com/maps/search/Foxtail%20Coffee%20Byron%20Center+near+42.7813837%2C-85.6772917"
+    },
+    {
+      "name": "Sunrise Coffee Co.",
+      "distance": "2.3 mi",
+      "url": "https://www.google.com/maps/search/Sunrise%20Coffee%20Co.+near+42.7813837%2C-85.6772917"
+    },
+    {
+      "name": "Dino Daisy Play Cafe",
+      "distance": "3.1 mi",
+      "url": "https://www.google.com/maps/search/Dino%20Daisy%20Play%20Cafe+near+42.7813837%2C-85.6772917",
+      "isFar": true
+    }
+  ],
+  "team_lunch": [
+    {
+      "name": "5 Lakes Brew Pub",
+      "distance": "1.9 mi",
+      "url": "https://www.google.com/maps/search/5%20Lakes%20Brew%20Pub+near+42.7813837%2C-85.6772917"
+    },
+    {
+      "name": "Auntie Anne's",
+      "distance": "2.0 mi",
+      "url": "https://www.google.com/maps/search/Auntie%20Anne's+near+42.7813837%2C-85.6772917"
+    },
+    {
+      "name": "China Kitchen",
+      "distance": "3.1 mi",
+      "url": "https://www.google.com/maps/search/China%20Kitchen+near+42.7813837%2C-85.6772917",
+      "isFar": true
+    },
+    {
+      "name": "Mannie's Pizza",
+      "distance": "3.1 mi",
+      "url": "https://www.google.com/maps/search/Mannie's%20Pizza+near+42.7813837%2C-85.6772917",
+      "isFar": true
+    }
+  ],
+  "dinner": [
+    {
+      "name": "Russo Italian Restaurant + Market",
+      "distance": "1.9 mi",
+      "url": "https://www.google.com/maps/search/Russo%20Italian%20Restaurant%20%2B%20Market+near+42.7813837%2C-85.6772917"
+    },
+    {
+      "name": "Pure Mex Tacos & Tequila Byron Center",
+      "distance": "2.1 mi",
+      "url": "https://www.google.com/maps/search/Pure%20Mex%20Tacos%20%26%20Tequila%20Byron%20Center+near+42.7813837%2C-85.6772917"
+    },
+    {
+      "name": "Anna's House - Byron Center",
+      "distance": "2.1 mi",
+      "url": "https://www.google.com/maps/search/Anna's%20House%20-%20Byron%20Center+near+42.7813837%2C-85.6772917"
+    },
+    {
+      "name": "Somos",
+      "distance": "2.3 mi",
+      "url": "https://www.google.com/maps/search/Somos+near+42.7813837%2C-85.6772917"
+    },
+    {
+      "name": "Poncho's Tacos",
+      "distance": "3.0 mi",
+      "url": "https://www.google.com/maps/search/Poncho's%20Tacos+near+42.7813837%2C-85.6772917",
+      "isFar": true
+    },
+    {
+      "name": "76 Diner Byron Center",
+      "distance": "3.1 mi",
+      "url": "https://www.google.com/maps/search/76%20Diner%20Byron%20Center+near+42.7813837%2C-85.6772917",
+      "isFar": true
+    },
+    {
+      "name": "Mamma Mineo's Pizza",
+      "distance": "3.1 mi",
+      "url": "https://www.google.com/maps/search/Mamma%20Mineo's%20Pizza+near+42.7813837%2C-85.6772917",
+      "isFar": true
+    }
+  ],
+  "bowling": [
+    {
+      "name": "Lucky Strike Grand Rapids",
+      "distance": "5.5 mi",
+      "url": "https://www.google.com/maps/search/Lucky%20Strike%20Grand%20Rapids+near+42.7813837%2C-85.6772917",
+      "isFar": true
+    },
+    {
+      "name": "Rock ‘N’ Bowl Wayland",
+      "distance": "6.5 mi",
+      "url": "https://www.google.com/maps/search/Rock%20%E2%80%98N%E2%80%99%20Bowl%20Wayland+near+42.7813837%2C-85.6772917",
+      "isFar": true
+    },
+    {
+      "name": "Paragon Bowling Center and Sports Bar",
+      "distance": "9.6 mi",
+      "url": "https://www.google.com/maps/search/Paragon%20Bowling%20Center%20and%20Sports%20Bar+near+42.7813837%2C-85.6772917",
+      "isFar": true
+    }
+  ],
+  "arcade": [],
+  "movies": [
+    {
+      "name": "Celebration Cinema Grand Rapids South",
+      "distance": "5.3 mi",
+      "url": "https://www.google.com/maps/search/Celebration%20Cinema%20Grand%20Rapids%20South+near+42.7813837%2C-85.6772917",
+      "isFar": true
+    },
+    {
+      "name": "Celebration Cinema Rivertown",
+      "distance": "7.8 mi",
+      "url": "https://www.google.com/maps/search/Celebration%20Cinema%20Rivertown+near+42.7813837%2C-85.6772917",
+      "isFar": true
+    }
+  ],
+  "fun": [
+    {
+      "name": "Break Room Therapy",
+      "distance": "2.6 mi",
+      "url": "https://www.google.com/maps/search/Break%20Room%20Therapy+near+42.7813837%2C-85.6772917"
+    },
+    {
+      "name": "Craig's Cruisers - Grand Rapids",
+      "distance": "5.4 mi",
+      "url": "https://www.google.com/maps/search/Craig's%20Cruisers%20-%20Grand%20Rapids+near+42.7813837%2C-85.6772917",
+      "isFar": true
+    },
+    {
+      "name": "Battle Front Gaming",
+      "distance": "7.5 mi",
+      "url": "https://www.google.com/maps/search/Battle%20Front%20Gaming+near+42.7813837%2C-85.6772917",
+      "isFar": true
+    },
+    {
+      "name": "Caledonia Splash Pad",
+      "distance": "8.6 mi",
+      "url": "https://www.google.com/maps/search/Caledonia%20Splash%20Pad+near+42.7813837%2C-85.6772917",
+      "isFar": true
+    }
+  ],
+  "hotels": [
+    {
+      "name": "Parkside Farm Farmhouse 5 beds, 2 baths Farmstay in Byron Center",
+      "distance": "0.8 mi",
+      "url": "https://www.google.com/maps/search/Parkside%20Farm%20Farmhouse%205%20beds%2C%202%20baths%20Farmstay%20in%20Byron%20Center+near+42.7813837%2C-85.6772917"
+    },
+    {
+      "name": "House 7 beds, 2 baths Farmstay at a Pygmy Goat & Agritourism Farm",
+      "distance": "0.8 mi",
+      "url": "https://www.google.com/maps/search/House%207%20beds%2C%202%20baths%20Farmstay%20at%20a%20Pygmy%20Goat%20%26%20Agritourism%20Farm+near+42.7813837%2C-85.6772917"
+    },
+    {
+      "name": "Home 7 beds, 2 baths Pygmy Goat Farm Byron Center",
+      "distance": "0.8 mi",
+      "url": "https://www.google.com/maps/search/Home%207%20beds%2C%202%20baths%20Pygmy%20Goat%20Farm%20Byron%20Center+near+42.7813837%2C-85.6772917"
+    },
+    {
+      "name": "Renovated Dairy Barn with 5 beds, 2.5 bath, SPACIOUS!",
+      "distance": "1.4 mi",
+      "url": "https://www.google.com/maps/search/Renovated%20Dairy%20Barn%20with%205%20beds%2C%202.5%20bath%2C%20SPACIOUS!+near+42.7813837%2C-85.6772917"
+    },
+    {
+      "name": "Renovated Dairy Barn – 5 Beds, 2.5 Baths, Spacious, Accessible & Stylish",
+      "distance": "1.4 mi",
+      "url": "https://www.google.com/maps/search/Renovated%20Dairy%20Barn%20%E2%80%93%205%20Beds%2C%202.5%20Baths%2C%20Spacious%2C%20Accessible%20%26%20Stylish+near+42.7813837%2C-85.6772917"
+    },
+    {
+      "name": "Pet Friendly 2BR Barn Swallow Manor",
+      "distance": "1.5 mi",
+      "url": "https://www.google.com/maps/search/Pet%20Friendly%202BR%20Barn%20Swallow%20Manor+near+42.7813837%2C-85.6772917"
+    },
+    {
+      "name": "Pet Friendly Barn Swallow Manor",
+      "distance": "1.6 mi",
+      "url": "https://www.google.com/maps/search/Pet%20Friendly%20Barn%20Swallow%20Manor+near+42.7813837%2C-85.6772917"
+    }
+  ],
+  "gas": [
+    {
+      "name": "Pacific Pride",
+      "distance": "0.2 mi",
+      "url": "https://www.google.com/maps/search/Pacific%20Pride+near+42.7813837%2C-85.6772917"
+    },
+    {
+      "name": "Marathon Gas",
+      "distance": "0.6 mi",
+      "url": "https://www.google.com/maps/search/Marathon%20Gas+near+42.7813837%2C-85.6772917"
+    },
+    {
+      "name": "Citgo",
+      "distance": "2.1 mi",
+      "url": "https://www.google.com/maps/search/Citgo+near+42.7813837%2C-85.6772917"
+    },
+    {
+      "name": "Marathon Gas",
+      "distance": "2.2 mi",
+      "url": "https://www.google.com/maps/search/Marathon%20Gas+near+42.7813837%2C-85.6772917"
+    },
+    {
+      "name": "J&H Family Stores",
+      "distance": "2.2 mi",
+      "url": "https://www.google.com/maps/search/J%26H%20Family%20Stores+near+42.7813837%2C-85.6772917"
+    }
+  ]
+}

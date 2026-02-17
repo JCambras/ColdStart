@@ -1,0 +1,186 @@
+{
+  "quick_bite": [
+    {
+      "name": "Burger King",
+      "distance": "0.6 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Burger%20King&query_place_id=ChIJleEqxCEYDogRqpLtyjMFgXk&center=41.5574459,-87.69473789999999"
+    },
+    {
+      "name": "Taco Bell",
+      "distance": "0.6 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Taco%20Bell&query_place_id=ChIJY92jWAAZDogREq8elKvRu9o&center=41.5574526,-87.6966727"
+    },
+    {
+      "name": "Popeyes Louisiana Kitchen",
+      "distance": "0.6 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Popeyes%20Louisiana%20Kitchen&query_place_id=ChIJh2NK0SEYDogRbPGNEsKPi9A&center=41.5578255,-87.6947251"
+    },
+    {
+      "name": "Rice Garden",
+      "distance": "0.6 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Rice%20Garden&query_place_id=ChIJscmobx8YDogRZv97MrcTArI&center=41.557828799999996,-87.6960726"
+    },
+    {
+      "name": "Harold's Chicken Shack",
+      "distance": "0.7 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Harold's%20Chicken%20Shack&query_place_id=ChIJSTFU2YoXDogR-VkhKIOsobE&center=41.557726599999995,-87.70009759999999"
+    }
+  ],
+  "coffee": [
+    {
+      "name": "Hope and Healing",
+      "distance": "0.6 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Hope%20and%20Healing&query_place_id=ChIJJVKcPtMZDogR3FbxxwikrQo&center=41.5400771,-87.69058539999999"
+    },
+    {
+      "name": "Beyond Borders Cafe",
+      "distance": "0.8 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Beyond%20Borders%20Cafe&query_place_id=ChIJW_q3XwAZDogRaTxYzodlBXw&center=41.5432491,-87.67914019999999"
+    },
+    {
+      "name": "Pink Panini Soups & Salads",
+      "distance": "1.6 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Pink%20Panini%20Soups%20%26%20Salads&query_place_id=ChIJ2Vss3Z4ZDogRSM2ZyGDebwo&center=41.5712431,-87.69166709999999"
+    }
+  ],
+  "team_lunch": [
+    {
+      "name": "Maria's Pancake House",
+      "distance": "0.7 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Maria's%20Pancake%20House&query_place_id=ChIJ64yrbx8YDogR3ce4rctUGIU&center=41.558549,-87.6951433"
+    },
+    {
+      "name": "Ready Freddie’s Cookies",
+      "distance": "0.7 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Ready%20Freddie%E2%80%99s%20Cookies&query_place_id=ChIJAVfylCwXDogRULCWOH3gbzw&center=41.5574769,-87.6996403"
+    },
+    {
+      "name": "Peeples Taco's",
+      "distance": "0.7 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Peeples%20Taco's&query_place_id=ChIJ_xONmwQXDogRanrz6W_eKdI&center=41.5578246,-87.7002833"
+    },
+    {
+      "name": "Rosati's Pizza",
+      "distance": "0.7 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Rosati's%20Pizza&query_place_id=ChIJcZMXBqAXDogRYQCnXAi4tXw&center=41.5577322,-87.7005751"
+    },
+    {
+      "name": "Home-Slice Pizza Shop & Drive Thru",
+      "distance": "0.8 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Home-Slice%20Pizza%20Shop%20%26%20Drive%20Thru&query_place_id=ChIJcd94dbUZDogRVyD6b0Uih4I&center=41.556401099999995,-87.68173929999999"
+    },
+    {
+      "name": "Confections",
+      "distance": "1.4 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Confections&query_place_id=ChIJz7O4WJ4ZDogR8Q98OY1Lcms&center=41.543568400000005,-87.6679379"
+    }
+  ],
+  "dinner": [
+    {
+      "name": "Wiley's Grill",
+      "distance": "0.2 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Wiley's%20Grill&query_place_id=ChIJ7btz_icYDogR4kOdnTmUPSk&center=41.548195199999995,-87.69725969999999"
+    },
+    {
+      "name": "JJ fish & chicken",
+      "distance": "0.5 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=JJ%20fish%20%26%20chicken&query_place_id=ChIJuaEwsiEYDogRQJEx2vro9MY&center=41.5563751,-87.69478749999999"
+    },
+    {
+      "name": "Great American Bagel Inc",
+      "distance": "0.6 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Great%20American%20Bagel%20Inc&query_place_id=ChIJBVYEkiIYDogRkVSpN-Do878&center=41.5566677,-87.6897475"
+    },
+    {
+      "name": "Maxey's Sports Lounge",
+      "distance": "0.7 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Maxey's%20Sports%20Lounge&query_place_id=ChIJg_WfMNIZDogRZ9lEeuLEliA&center=41.5584394,-87.6967753"
+    },
+    {
+      "name": "Pop's Italian Beef",
+      "distance": "0.8 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Pop's%20Italian%20Beef&query_place_id=ChIJs2VOQj4YDogRIy8Q8I5-K1A&center=41.5562176,-87.6818109"
+    },
+    {
+      "name": "Bakersisters",
+      "distance": "0.8 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Bakersisters&query_place_id=ChIJ5W0gdTYYDogRi2vuGsk2xPw&center=41.5430582,-87.679166"
+    }
+  ],
+  "bowling": [],
+  "arcade": [],
+  "movies": [
+    {
+      "name": "Marcus Country Club Hills Cinema",
+      "distance": "2.8 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Marcus%20Country%20Club%20Hills%20Cinema&query_place_id=ChIJm5i9rWY9DogRW4QWEcQhy3w&center=41.5837158,-87.7220579"
+    },
+    {
+      "name": "Ultrascreen Dlx",
+      "distance": "2.9 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Ultrascreen%20Dlx&query_place_id=ChIJWYDmA2Q9DogReoG895n2Rak&center=41.5839924,-87.7218029"
+    },
+    {
+      "name": "Marcus Chicago Heights Cinema",
+      "distance": "3.1 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Marcus%20Chicago%20Heights%20Cinema&query_place_id=ChIJ1z9HGYYZDogRepG4_E9DShE&center=41.508268099999995,-87.66831409999999",
+      "isFar": true
+    }
+  ],
+  "fun": [
+    {
+      "name": "Wonka House",
+      "distance": "1.0 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Wonka%20House&query_place_id=ChIJFZXlRAsZDogRqqU3CLfmJI8&center=41.549444799999996,-87.6735729"
+    },
+    {
+      "name": "Time Quest Escape Room",
+      "distance": "1.5 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Time%20Quest%20Escape%20Room&query_place_id=ChIJuz1sLtYZDogRo1xF17ewthw&center=41.5504186,-87.66478839999999"
+    },
+    {
+      "name": "Homewood,IL Railfans Train View",
+      "distance": "1.5 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Homewood%2CIL%20Railfans%20Train%20View&query_place_id=ChIJ51SCs_4ZDogRwojP-W6YTIs&center=41.560963699999995,-87.6685407"
+    },
+    {
+      "name": "Homewood Railroad Viewing Platform",
+      "distance": "1.5 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Homewood%20Railroad%20Viewing%20Platform&query_place_id=ChIJ35jvU2EZDogRyL0AHgtDUaY&center=41.5609068,-87.6684727"
+    }
+  ],
+  "hotels": [
+    {
+      "name": "Dolphin Lake Cottage House",
+      "distance": "0.9 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Dolphin%20Lake%20Cottage%20House&query_place_id=ChIJl2rZ9BUYDogRfAWYtlbkBVs&center=41.558001399999995,-87.6815941"
+    },
+    {
+      "name": "Flossmoor FHS Rental",
+      "distance": "0.9 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Flossmoor%20FHS%20Rental&query_place_id=ChIJB5vonpsXDogRpqQTE6pfTc4&center=41.544567099999995,-87.7100906"
+    }
+  ],
+  "gas": [
+    {
+      "name": "Shell",
+      "distance": "0.6 mi",
+      "url": "https://www.google.com/maps/search/Shell+near+41.5487427%2C-87.69311809999999"
+    },
+    {
+      "name": "Mobil/ 7-11 Gas Station",
+      "distance": "0.6 mi",
+      "url": "https://www.google.com/maps/search/Mobil%2F%207-11%20Gas%20Station+near+41.5487427%2C-87.69311809999999"
+    },
+    {
+      "name": "Mobil",
+      "distance": "0.6 mi",
+      "url": "https://www.google.com/maps/search/Mobil+near+41.5487427%2C-87.69311809999999"
+    },
+    {
+      "name": "Shell Gas Station Country Club Hills",
+      "distance": "1.2 mi",
+      "url": "https://www.google.com/maps/search/Shell%20Gas%20Station%20Country%20Club%20Hills+near+41.5487427%2C-87.69311809999999"
+    }
+  ]
+}

@@ -1,0 +1,242 @@
+{
+  "quick_bite": [
+    {
+      "name": "Jimmy John's",
+      "distance": "0.2 mi",
+      "url": "https://www.google.com/maps/search/Jimmy%20John's+near+39.053757999999995%2C-94.417328"
+    },
+    {
+      "name": "Little Caesars Pizza",
+      "distance": "0.2 mi",
+      "url": "https://www.google.com/maps/search/Little%20Caesars%20Pizza+near+39.053757999999995%2C-94.417328"
+    },
+    {
+      "name": "Goodcents",
+      "distance": "0.2 mi",
+      "url": "https://www.google.com/maps/search/Goodcents+near+39.053757999999995%2C-94.417328"
+    },
+    {
+      "name": "Subway",
+      "distance": "0.3 mi",
+      "url": "https://www.google.com/maps/search/Subway+near+39.053757999999995%2C-94.417328"
+    },
+    {
+      "name": "Sonic Drive-In",
+      "distance": "0.3 mi",
+      "url": "https://www.google.com/maps/search/Sonic%20Drive-In+near+39.053757999999995%2C-94.417328"
+    },
+    {
+      "name": "Hardee's",
+      "distance": "0.4 mi",
+      "url": "https://www.google.com/maps/search/Hardee's+near+39.053757999999995%2C-94.417328"
+    },
+    {
+      "name": "Hawaiian Bros Island Grill",
+      "distance": "0.4 mi",
+      "url": "https://www.google.com/maps/search/Hawaiian%20Bros%20Island%20Grill+near+39.053757999999995%2C-94.417328"
+    }
+  ],
+  "coffee": [],
+  "team_lunch": [
+    {
+      "name": "teriyaki + hondureno",
+      "distance": "0.1 mi",
+      "url": "https://www.google.com/maps/search/teriyaki%20%2B%20hondureno+near+39.053757999999995%2C-94.417328"
+    },
+    {
+      "name": "Three Pigs BBQ",
+      "distance": "0.2 mi",
+      "url": "https://www.google.com/maps/search/Three%20Pigs%20BBQ+near+39.053757999999995%2C-94.417328"
+    },
+    {
+      "name": "Pizza Street",
+      "distance": "0.3 mi",
+      "url": "https://www.google.com/maps/search/Pizza%20Street+near+39.053757999999995%2C-94.417328"
+    },
+    {
+      "name": "The Burger Den",
+      "distance": "0.4 mi",
+      "url": "https://www.google.com/maps/search/The%20Burger%20Den+near+39.053757999999995%2C-94.417328"
+    },
+    {
+      "name": "Walmart Bakery",
+      "distance": "0.4 mi",
+      "url": "https://www.google.com/maps/search/Walmart%20Bakery+near+39.053757999999995%2C-94.417328"
+    }
+  ],
+  "dinner": [
+    {
+      "name": "Vy’s Kitchen Asian Dishes",
+      "distance": "0.1 mi",
+      "url": "https://www.google.com/maps/search/Vy%E2%80%99s%20Kitchen%20Asian%20Dishes+near+39.053757999999995%2C-94.417328"
+    },
+    {
+      "name": "El Maguey",
+      "distance": "0.1 mi",
+      "url": "https://www.google.com/maps/search/El%20Maguey+near+39.053757999999995%2C-94.417328"
+    },
+    {
+      "name": "Hacienda Vieja Mexican Grill",
+      "distance": "0.1 mi",
+      "url": "https://www.google.com/maps/search/Hacienda%20Vieja%20Mexican%20Grill+near+39.053757999999995%2C-94.417328"
+    },
+    {
+      "name": "Rascals Big Red Food Truck",
+      "distance": "0.2 mi",
+      "url": "https://www.google.com/maps/search/Rascals%20Big%20Red%20Food%20Truck+near+39.053757999999995%2C-94.417328"
+    },
+    {
+      "name": "Fonz's Carne Asada Food Truck",
+      "distance": "0.2 mi",
+      "url": "https://www.google.com/maps/search/Fonz's%20Carne%20Asada%20Food%20Truck+near+39.053757999999995%2C-94.417328"
+    },
+    {
+      "name": "The Lunch Box Drive Through",
+      "distance": "0.2 mi",
+      "url": "https://www.google.com/maps/search/The%20Lunch%20Box%20Drive%20Through+near+39.053757999999995%2C-94.417328"
+    },
+    {
+      "name": "The Lunch Box",
+      "distance": "0.2 mi",
+      "url": "https://www.google.com/maps/search/The%20Lunch%20Box+near+39.053757999999995%2C-94.417328"
+    }
+  ],
+  "bowling": [
+    {
+      "name": "Diamond Bowl & Billiards",
+      "distance": "2.8 mi",
+      "url": "https://www.google.com/maps/search/Diamond%20Bowl%20%26%20Billiards+near+39.053757999999995%2C-94.417328"
+    },
+    {
+      "name": "Sterling Bowl .Inc",
+      "distance": "3.7 mi",
+      "url": "https://www.google.com/maps/search/Sterling%20Bowl%20.Inc+near+39.053757999999995%2C-94.417328",
+      "isFar": true
+    }
+  ],
+  "arcade": [],
+  "movies": [
+    {
+      "name": "Pharaoh Cinema 4",
+      "distance": "2.7 mi",
+      "url": "https://www.google.com/maps/search/Pharaoh%20Cinema%204+near+39.053757999999995%2C-94.417328"
+    },
+    {
+      "name": "Moonlight Movies",
+      "distance": "2.7 mi",
+      "url": "https://www.google.com/maps/search/Moonlight%20Movies+near+39.053757999999995%2C-94.417328"
+    },
+    {
+      "name": "AMC Independence Commons 20",
+      "distance": "3.5 mi",
+      "url": "https://www.google.com/maps/search/AMC%20Independence%20Commons%2020+near+39.053757999999995%2C-94.417328",
+      "isFar": true
+    }
+  ],
+  "fun": [
+    {
+      "name": "Cool Crest Family Fun Center",
+      "distance": "1.9 mi",
+      "url": "https://www.google.com/maps/search/Cool%20Crest%20Family%20Fun%20Center+near+39.053757999999995%2C-94.417328"
+    },
+    {
+      "name": "MAGIC SHOWS KANSAS CITY",
+      "distance": "2.2 mi",
+      "url": "https://www.google.com/maps/search/MAGIC%20SHOWS%20KANSAS%20CITY+near+39.053757999999995%2C-94.417328"
+    },
+    {
+      "name": "Splash Park @ McCoy Park",
+      "distance": "3.2 mi",
+      "url": "https://www.google.com/maps/search/Splash%20Park%20%40%20McCoy%20Park+near+39.053757999999995%2C-94.417328",
+      "isFar": true
+    },
+    {
+      "name": "District Jungle",
+      "distance": "3.2 mi",
+      "url": "https://www.google.com/maps/search/District%20Jungle+near+39.053757999999995%2C-94.417328",
+      "isFar": true
+    },
+    {
+      "name": "Epic Bounce Park",
+      "distance": "3.4 mi",
+      "url": "https://www.google.com/maps/search/Epic%20Bounce%20Park+near+39.053757999999995%2C-94.417328",
+      "isFar": true
+    },
+    {
+      "name": "Get Air Trampoline Park",
+      "distance": "3.5 mi",
+      "url": "https://www.google.com/maps/search/Get%20Air%20Trampoline%20Park+near+39.053757999999995%2C-94.417328",
+      "isFar": true
+    },
+    {
+      "name": "Escape This Place",
+      "distance": "4.2 mi",
+      "url": "https://www.google.com/maps/search/Escape%20This%20Place+near+39.053757999999995%2C-94.417328",
+      "isFar": true
+    }
+  ],
+  "hotels": [
+    {
+      "name": "30 days minimum Chic 2b1b near Downtown/Stadiums in independence MO",
+      "distance": "0.1 mi",
+      "url": "https://www.google.com/maps/search/30%20days%20minimum%20Chic%202b1b%20near%20Downtown%2FStadiums%20in%20independence%20MO+near+39.053757999999995%2C-94.417328"
+    },
+    {
+      "name": "30 days minimum 2b1b close to downtown/ Stadiums",
+      "distance": "0.2 mi",
+      "url": "https://www.google.com/maps/search/30%20days%20minimum%202b1b%20close%20to%20downtown%2F%20Stadiums+near+39.053757999999995%2C-94.417328"
+    },
+    {
+      "name": "30 days minimum 2b1b close to downtown / Stadiums",
+      "distance": "0.3 mi",
+      "url": "https://www.google.com/maps/search/30%20days%20minimum%202b1b%20close%20to%20downtown%20%2F%20Stadiums+near+39.053757999999995%2C-94.417328"
+    },
+    {
+      "name": "30 days minimum Chic 2b1b near Downtown /Stadiums in independence MO",
+      "distance": "0.3 mi",
+      "url": "https://www.google.com/maps/search/30%20days%20minimum%20Chic%202b1b%20near%20Downtown%20%2FStadiums%20in%20independence%20MO+near+39.053757999999995%2C-94.417328"
+    },
+    {
+      "name": "Super 8 by Wyndham Independence Kansas City",
+      "distance": "0.4 mi",
+      "url": "https://www.google.com/maps/search/Super%208%20by%20Wyndham%20Independence%20Kansas%20City+near+39.053757999999995%2C-94.417328"
+    },
+    {
+      "name": "Clear View Inn",
+      "distance": "0.5 mi",
+      "url": "https://www.google.com/maps/search/Clear%20View%20Inn+near+39.053757999999995%2C-94.417328"
+    },
+    {
+      "name": "Days Inn by Wyndham Independence",
+      "distance": "0.6 mi",
+      "url": "https://www.google.com/maps/search/Days%20Inn%20by%20Wyndham%20Independence+near+39.053757999999995%2C-94.417328"
+    }
+  ],
+  "gas": [
+    {
+      "name": "Shell",
+      "distance": "0.3 mi",
+      "url": "https://www.google.com/maps/search/Shell+near+39.053757999999995%2C-94.417328"
+    },
+    {
+      "name": "Conoco",
+      "distance": "0.3 mi",
+      "url": "https://www.google.com/maps/search/Conoco+near+39.053757999999995%2C-94.417328"
+    },
+    {
+      "name": "Fast Stop Store Inc",
+      "distance": "0.3 mi",
+      "url": "https://www.google.com/maps/search/Fast%20Stop%20Store%20Inc+near+39.053757999999995%2C-94.417328"
+    },
+    {
+      "name": "QuikTrip",
+      "distance": "0.4 mi",
+      "url": "https://www.google.com/maps/search/QuikTrip+near+39.053757999999995%2C-94.417328"
+    },
+    {
+      "name": "Goodstop",
+      "distance": "0.7 mi",
+      "url": "https://www.google.com/maps/search/Goodstop+near+39.053757999999995%2C-94.417328"
+    }
+  ]
+}

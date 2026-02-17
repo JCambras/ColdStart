@@ -1,0 +1,215 @@
+{
+  "quick_bite": [
+    {
+      "name": "Thai Kitchen",
+      "distance": "0.5 mi",
+      "url": "https://www.google.com/maps/search/Thai%20Kitchen+near+44.8955001%2C-68.67165179999999"
+    },
+    {
+      "name": "Lin's Takeout Kitchen",
+      "distance": "0.6 mi",
+      "url": "https://www.google.com/maps/search/Lin's%20Takeout%20Kitchen+near+44.8955001%2C-68.67165179999999"
+    },
+    {
+      "name": "The Family Dog",
+      "distance": "0.8 mi",
+      "url": "https://www.google.com/maps/search/The%20Family%20Dog+near+44.8955001%2C-68.67165179999999"
+    },
+    {
+      "name": "Tacorita",
+      "distance": "0.8 mi",
+      "url": "https://www.google.com/maps/search/Tacorita+near+44.8955001%2C-68.67165179999999"
+    },
+    {
+      "name": "Harvest Moon Deli",
+      "distance": "0.8 mi",
+      "url": "https://www.google.com/maps/search/Harvest%20Moon%20Deli+near+44.8955001%2C-68.67165179999999"
+    }
+  ],
+  "coffee": [
+    {
+      "name": "Major Minor Coffee Bar",
+      "distance": "0.3 mi",
+      "url": "https://www.google.com/maps/search/Major%20Minor%20Coffee%20Bar+near+44.8955001%2C-68.67165179999999"
+    },
+    {
+      "name": "Starbucks",
+      "distance": "0.3 mi",
+      "url": "https://www.google.com/maps/search/Starbucks+near+44.8955001%2C-68.67165179999999"
+    },
+    {
+      "name": "Aroma Joe's",
+      "distance": "0.5 mi",
+      "url": "https://www.google.com/maps/search/Aroma%20Joe's+near+44.8955001%2C-68.67165179999999"
+    },
+    {
+      "name": "Dunkin'",
+      "distance": "0.5 mi",
+      "url": "https://www.google.com/maps/search/Dunkin'+near+44.8955001%2C-68.67165179999999"
+    },
+    {
+      "name": "The Store Ampersand",
+      "distance": "0.8 mi",
+      "url": "https://www.google.com/maps/search/The%20Store%20Ampersand+near+44.8955001%2C-68.67165179999999"
+    },
+    {
+      "name": "Nest",
+      "distance": "0.8 mi",
+      "url": "https://www.google.com/maps/search/Nest+near+44.8955001%2C-68.67165179999999"
+    },
+    {
+      "name": "Golden Bean Bakery and Cafe",
+      "distance": "0.8 mi",
+      "url": "https://www.google.com/maps/search/Golden%20Bean%20Bakery%20and%20Cafe+near+44.8955001%2C-68.67165179999999"
+    }
+  ],
+  "team_lunch": [
+    {
+      "name": "Bear's Den",
+      "distance": "0.3 mi",
+      "url": "https://www.google.com/maps/search/Bear's%20Den+near+44.8955001%2C-68.67165179999999"
+    },
+    {
+      "name": "Swirl",
+      "distance": "0.3 mi",
+      "url": "https://www.google.com/maps/search/Swirl+near+44.8955001%2C-68.67165179999999"
+    },
+    {
+      "name": "OHOP Orono House of Pizza",
+      "distance": "0.6 mi",
+      "url": "https://www.google.com/maps/search/OHOP%20Orono%20House%20of%20Pizza+near+44.8955001%2C-68.67165179999999"
+    }
+  ],
+  "dinner": [
+    {
+      "name": "Bill's Bagels",
+      "distance": "0.7 mi",
+      "url": "https://www.google.com/maps/search/Bill's%20Bagels+near+44.8955001%2C-68.67165179999999"
+    },
+    {
+      "name": "The Donut Grove",
+      "distance": "0.7 mi",
+      "url": "https://www.google.com/maps/search/The%20Donut%20Grove+near+44.8955001%2C-68.67165179999999"
+    },
+    {
+      "name": "Thai Orchid",
+      "distance": "0.8 mi",
+      "url": "https://www.google.com/maps/search/Thai%20Orchid+near+44.8955001%2C-68.67165179999999"
+    },
+    {
+      "name": "Woodman's Bar & Grill",
+      "distance": "0.8 mi",
+      "url": "https://www.google.com/maps/search/Woodman's%20Bar%20%26%20Grill+near+44.8955001%2C-68.67165179999999"
+    }
+  ],
+  "bowling": [
+    {
+      "name": "Old Town Bowling Center",
+      "distance": "2.9 mi",
+      "url": "https://www.google.com/maps/search/Old%20Town%20Bowling%20Center+near+44.8955001%2C-68.67165179999999"
+    },
+    {
+      "name": "Bangor-Brewer Bowling Lanes",
+      "distance": "8.6 mi",
+      "url": "https://www.google.com/maps/search/Bangor-Brewer%20Bowling%20Lanes+near+44.8955001%2C-68.67165179999999",
+      "isFar": true
+    }
+  ],
+  "arcade": [],
+  "movies": [
+    {
+      "name": "Black Bear Cinemas",
+      "distance": "1.2 mi",
+      "url": "https://www.google.com/maps/search/Black%20Bear%20Cinemas+near+44.8955001%2C-68.67165179999999"
+    },
+    {
+      "name": "Bangor Mall Cinemas 10",
+      "distance": "6.1 mi",
+      "url": "https://www.google.com/maps/search/Bangor%20Mall%20Cinemas%2010+near+44.8955001%2C-68.67165179999999",
+      "isFar": true
+    }
+  ],
+  "fun": [
+    {
+      "name": "Orono Trampoline Park",
+      "distance": "1.2 mi",
+      "url": "https://www.google.com/maps/search/Orono%20Trampoline%20Park+near+44.8955001%2C-68.67165179999999"
+    },
+    {
+      "name": "Urban Air Trampoline and Adventure Park",
+      "distance": "8.6 mi",
+      "url": "https://www.google.com/maps/search/Urban%20Air%20Trampoline%20and%20Adventure%20Park+near+44.8955001%2C-68.67165179999999",
+      "isFar": true
+    },
+    {
+      "name": "Big Jake's Go Karts",
+      "distance": "9.1 mi",
+      "url": "https://www.google.com/maps/search/Big%20Jake's%20Go%20Karts+near+44.8955001%2C-68.67165179999999",
+      "isFar": true
+    }
+  ],
+  "hotels": [
+    {
+      "name": "Very Spacious 5-bedroom, 3 bath house... Walk onto UMaine campus",
+      "distance": "0.1 mi",
+      "url": "https://www.google.com/maps/search/Very%20Spacious%205-bedroom%2C%203%20bath%20house...%20Walk%20onto%20UMaine%20campus+near+44.8955001%2C-68.67165179999999"
+    },
+    {
+      "name": "Beautiful Home in Orono, Next to University",
+      "distance": "0.2 mi",
+      "url": "https://www.google.com/maps/search/Beautiful%20Home%20in%20Orono%2C%20Next%20to%20University+near+44.8955001%2C-68.67165179999999"
+    },
+    {
+      "name": "Spacious Renovated Home in Orono, Next to UMaine - Five-Bedroom House",
+      "distance": "0.2 mi",
+      "url": "https://www.google.com/maps/search/Spacious%20Renovated%20Home%20in%20Orono%2C%20Next%20to%20UMaine%20-%20Five-Bedroom%20House+near+44.8955001%2C-68.67165179999999"
+    },
+    {
+      "name": "Beautiful home in Orono and only minutes to University of Maine",
+      "distance": "0.2 mi",
+      "url": "https://www.google.com/maps/search/Beautiful%20home%20in%20Orono%20and%20only%20minutes%20to%20University%20of%20Maine+near+44.8955001%2C-68.67165179999999"
+    },
+    {
+      "name": "Coburn Hall",
+      "distance": "0.3 mi",
+      "url": "https://www.google.com/maps/search/Coburn%20Hall+near+44.8955001%2C-68.67165179999999"
+    },
+    {
+      "name": "Hotel Ursa",
+      "distance": "0.3 mi",
+      "url": "https://www.google.com/maps/search/Hotel%20Ursa+near+44.8955001%2C-68.67165179999999"
+    },
+    {
+      "name": "Stillwater River Sanctuary - Four-Bedroom House",
+      "distance": "0.4 mi",
+      "url": "https://www.google.com/maps/search/Stillwater%20River%20Sanctuary%20-%20Four-Bedroom%20House+near+44.8955001%2C-68.67165179999999"
+    }
+  ],
+  "gas": [
+    {
+      "name": "Alltown",
+      "distance": "0.5 mi",
+      "url": "https://www.google.com/maps/search/Alltown+near+44.8955001%2C-68.67165179999999"
+    },
+    {
+      "name": "Shell",
+      "distance": "0.5 mi",
+      "url": "https://www.google.com/maps/search/Shell+near+44.8955001%2C-68.67165179999999"
+    },
+    {
+      "name": "Circle K | Gas Station",
+      "distance": "0.9 mi",
+      "url": "https://www.google.com/maps/search/Circle%20K%20%7C%20Gas%20Station+near+44.8955001%2C-68.67165179999999"
+    },
+    {
+      "name": "Irving Oil",
+      "distance": "0.9 mi",
+      "url": "https://www.google.com/maps/search/Irving%20Oil+near+44.8955001%2C-68.67165179999999"
+    },
+    {
+      "name": "Dysart's Travel Stop - Citgo",
+      "distance": "1.0 mi",
+      "url": "https://www.google.com/maps/search/Dysart's%20Travel%20Stop%20-%20Citgo+near+44.8955001%2C-68.67165179999999"
+    }
+  ]
+}

@@ -1,0 +1,215 @@
+{
+  "quick_bite": [
+    {
+      "name": "Subway",
+      "distance": "0.7 mi",
+      "url": "https://www.google.com/maps/search/Subway+near+45.5685716%2C-94.17811569999999"
+    },
+    {
+      "name": "Papa Murphy's | Take 'N' Bake Pizza",
+      "distance": "1.0 mi",
+      "url": "https://www.google.com/maps/search/Papa%20Murphy's%20%7C%20Take%20'N'%20Bake%20Pizza+near+45.5685716%2C-94.17811569999999"
+    },
+    {
+      "name": "Chuck E. Cheese",
+      "distance": "1.6 mi",
+      "url": "https://www.google.com/maps/search/Chuck%20E.%20Cheese+near+45.5685716%2C-94.17811569999999"
+    }
+  ],
+  "coffee": [
+    {
+      "name": "Fresh Harvest Café",
+      "distance": "0.6 mi",
+      "url": "https://www.google.com/maps/search/Fresh%20Harvest%20Caf%C3%A9+near+45.5685716%2C-94.17811569999999"
+    },
+    {
+      "name": "Kinder Coffee",
+      "distance": "0.8 mi",
+      "url": "https://www.google.com/maps/search/Kinder%20Coffee+near+45.5685716%2C-94.17811569999999"
+    },
+    {
+      "name": "Herbalife Flat Iron Nutrition",
+      "distance": "0.9 mi",
+      "url": "https://www.google.com/maps/search/Herbalife%20Flat%20Iron%20Nutrition+near+45.5685716%2C-94.17811569999999"
+    },
+    {
+      "name": "B-Side Indie Music Cafe",
+      "distance": "1.0 mi",
+      "url": "https://www.google.com/maps/search/B-Side%20Indie%20Music%20Cafe+near+45.5685716%2C-94.17811569999999"
+    }
+  ],
+  "team_lunch": [
+    {
+      "name": "Midway Deli",
+      "distance": "0.6 mi",
+      "url": "https://www.google.com/maps/search/Midway%20Deli+near+45.5685716%2C-94.17811569999999"
+    },
+    {
+      "name": "Riverfront Dining",
+      "distance": "0.7 mi",
+      "url": "https://www.google.com/maps/search/Riverfront%20Dining+near+45.5685716%2C-94.17811569999999"
+    },
+    {
+      "name": "Taco Villa",
+      "distance": "0.9 mi",
+      "url": "https://www.google.com/maps/search/Taco%20Villa+near+45.5685716%2C-94.17811569999999"
+    },
+    {
+      "name": "Waldo's Pizza",
+      "distance": "1.0 mi",
+      "url": "https://www.google.com/maps/search/Waldo's%20Pizza+near+45.5685716%2C-94.17811569999999"
+    }
+  ],
+  "dinner": [
+    {
+      "name": "MT's on 8th",
+      "distance": "0.3 mi",
+      "url": "https://www.google.com/maps/search/MT's%20on%208th+near+45.5685716%2C-94.17811569999999"
+    },
+    {
+      "name": "JJ Garden",
+      "distance": "0.4 mi",
+      "url": "https://www.google.com/maps/search/JJ%20Garden+near+45.5685716%2C-94.17811569999999"
+    },
+    {
+      "name": "KB Coffee and Grill",
+      "distance": "0.6 mi",
+      "url": "https://www.google.com/maps/search/KB%20Coffee%20and%20Grill+near+45.5685716%2C-94.17811569999999"
+    },
+    {
+      "name": "DS Ethiopian Restaurant",
+      "distance": "0.6 mi",
+      "url": "https://www.google.com/maps/search/DS%20Ethiopian%20Restaurant+near+45.5685716%2C-94.17811569999999"
+    },
+    {
+      "name": "New York Gyro Northway Drive",
+      "distance": "0.7 mi",
+      "url": "https://www.google.com/maps/search/New%20York%20Gyro%20Northway%20Drive+near+45.5685716%2C-94.17811569999999"
+    },
+    {
+      "name": "Jules' Bistro",
+      "distance": "1.0 mi",
+      "url": "https://www.google.com/maps/search/Jules'%20Bistro+near+45.5685716%2C-94.17811569999999"
+    },
+    {
+      "name": "The White Horse Restaurant & Bar",
+      "distance": "1.0 mi",
+      "url": "https://www.google.com/maps/search/The%20White%20Horse%20Restaurant%20%26%20Bar+near+45.5685716%2C-94.17811569999999"
+    }
+  ],
+  "bowling": [
+    {
+      "name": "Great River Bowl & Partners Pub",
+      "distance": "3.5 mi",
+      "url": "https://www.google.com/maps/search/Great%20River%20Bowl%20%26%20Partners%20Pub+near+45.5685716%2C-94.17811569999999",
+      "isFar": true
+    },
+    {
+      "name": "Southway Bowl",
+      "distance": "3.8 mi",
+      "url": "https://www.google.com/maps/search/Southway%20Bowl+near+45.5685716%2C-94.17811569999999",
+      "isFar": true
+    }
+  ],
+  "arcade": [],
+  "movies": [
+    {
+      "name": "Marcus Parkwood Cinema",
+      "distance": "3.1 mi",
+      "url": "https://www.google.com/maps/search/Marcus%20Parkwood%20Cinema+near+45.5685716%2C-94.17811569999999",
+      "isFar": true
+    }
+  ],
+  "fun": [
+    {
+      "name": "Riddlers Escape, LLC",
+      "distance": "0.6 mi",
+      "url": "https://www.google.com/maps/search/Riddlers%20Escape%2C%20LLC+near+45.5685716%2C-94.17811569999999"
+    },
+    {
+      "name": "St. Cloud Escape Rooms",
+      "distance": "1.3 mi",
+      "url": "https://www.google.com/maps/search/St.%20Cloud%20Escape%20Rooms+near+45.5685716%2C-94.17811569999999"
+    },
+    {
+      "name": "River's Edge Splash Pad",
+      "distance": "2.6 mi",
+      "url": "https://www.google.com/maps/search/River's%20Edge%20Splash%20Pad+near+45.5685716%2C-94.17811569999999"
+    },
+    {
+      "name": "Westwood Park Splash Pad",
+      "distance": "2.6 mi",
+      "url": "https://www.google.com/maps/search/Westwood%20Park%20Splash%20Pad+near+45.5685716%2C-94.17811569999999"
+    },
+    {
+      "name": "Summerland Family Fun Park",
+      "distance": "3.7 mi",
+      "url": "https://www.google.com/maps/search/Summerland%20Family%20Fun%20Park+near+45.5685716%2C-94.17811569999999",
+      "isFar": true
+    }
+  ],
+  "hotels": [
+    {
+      "name": "Clean, comfortable conveniently located!",
+      "distance": "0.4 mi",
+      "url": "https://www.google.com/maps/search/Clean%2C%20comfortable%20conveniently%20located!+near+45.5685716%2C-94.17811569999999"
+    },
+    {
+      "name": "Contemporary Haven near Hospital",
+      "distance": "0.5 mi",
+      "url": "https://www.google.com/maps/search/Contemporary%20Haven%20near%20Hospital+near+45.5685716%2C-94.17811569999999"
+    },
+    {
+      "name": "CentraCare - Gorecki Guest House",
+      "distance": "0.5 mi",
+      "url": "https://www.google.com/maps/search/CentraCare%20-%20Gorecki%20Guest%20House+near+45.5685716%2C-94.17811569999999"
+    },
+    {
+      "name": "The Rail: 4 Bedrooms in Comfortable Home, Near Downtown",
+      "distance": "0.6 mi",
+      "url": "https://www.google.com/maps/search/The%20Rail%3A%204%20Bedrooms%20in%20Comfortable%20Home%2C%20Near%20Downtown+near+45.5685716%2C-94.17811569999999"
+    },
+    {
+      "name": "Cozy Getaway in Heart of St Cloud",
+      "distance": "0.6 mi",
+      "url": "https://www.google.com/maps/search/Cozy%20Getaway%20in%20Heart%20of%20St%20Cloud+near+45.5685716%2C-94.17811569999999"
+    },
+    {
+      "name": "steps to downtown, 4 bedrooms, close to SCSU",
+      "distance": "0.7 mi",
+      "url": "https://www.google.com/maps/search/steps%20to%20downtown%2C%204%20bedrooms%2C%20close%20to%20SCSU+near+45.5685716%2C-94.17811569999999"
+    },
+    {
+      "name": "Placerville CA",
+      "distance": "1.0 mi",
+      "url": "https://www.google.com/maps/search/Placerville%20CA+near+45.5685716%2C-94.17811569999999"
+    }
+  ],
+  "gas": [
+    {
+      "name": "Speedway",
+      "distance": "0.6 mi",
+      "url": "https://www.google.com/maps/search/Speedway+near+45.5685716%2C-94.17811569999999"
+    },
+    {
+      "name": "Zenteno's",
+      "distance": "0.7 mi",
+      "url": "https://www.google.com/maps/search/Zenteno's+near+45.5685716%2C-94.17811569999999"
+    },
+    {
+      "name": "Al's Westside Services",
+      "distance": "0.7 mi",
+      "url": "https://www.google.com/maps/search/Al's%20Westside%20Services+near+45.5685716%2C-94.17811569999999"
+    },
+    {
+      "name": "Gas Station",
+      "distance": "0.7 mi",
+      "url": "https://www.google.com/maps/search/Gas%20Station+near+45.5685716%2C-94.17811569999999"
+    },
+    {
+      "name": "First Fuel Bank",
+      "distance": "0.9 mi",
+      "url": "https://www.google.com/maps/search/First%20Fuel%20Bank+near+45.5685716%2C-94.17811569999999"
+    }
+  ]
+}

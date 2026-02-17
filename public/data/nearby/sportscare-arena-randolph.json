@@ -1,0 +1,180 @@
+{
+  "quick_bite": [
+    {
+      "name": "Bar Down Cafe",
+      "distance": "0.1 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Bar%20Down%20Cafe&query_place_id=ChIJjepT6J-fw4kR8NwsXPvgQ2s&center=40.858116599999995,-74.6166338"
+    },
+    {
+      "name": "Mama's Pizzeria Roxbury",
+      "distance": "1.2 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Mama's%20Pizzeria%20Roxbury&query_place_id=ChIJlcwO8imfw4kRpfo6iekM7s4&center=40.8661889,-74.6382247"
+    },
+    {
+      "name": "Joe's Pizzeria & Restaurant",
+      "distance": "1.4 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Joe's%20Pizzeria%20%26%20Restaurant&query_place_id=ChIJ51k2Ttmfw4kRn5t0zqj3Wtk&center=40.8793211,-74.62300619999999"
+    },
+    {
+      "name": "Burger King",
+      "distance": "1.5 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Burger%20King&query_place_id=ChIJP00u-TOew4kRje_B4Y013SU&center=40.869759099999996,-74.643252"
+    },
+    {
+      "name": "Taco Bell",
+      "distance": "1.6 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Taco%20Bell&query_place_id=ChIJ_46pjTOew4kRvO55LTQ4uDA&center=40.8720095,-74.6445884"
+    }
+  ],
+  "coffee": [
+    {
+      "name": "Beanbury Coffee & Kitchen",
+      "distance": "0.8 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Beanbury%20Coffee%20%26%20Kitchen&query_place_id=ChIJVdMVhROfw4kRK9dqGwnb_pU&center=40.862380699999996,-74.63250040000001"
+    },
+    {
+      "name": "Dunkin'",
+      "distance": "0.8 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Dunkin'&query_place_id=ChIJwypnfbafw4kR7yRBwd7kcNE&center=40.8627991,-74.6336707"
+    },
+    {
+      "name": "Bryans Luncheonette",
+      "distance": "0.9 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Bryans%20Luncheonette&query_place_id=ChIJAcGqA7afw4kRMgNyf8jadCw&center=40.8652674,-74.6335019"
+    },
+    {
+      "name": "Leggo My Bagel",
+      "distance": "1.6 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Leggo%20My%20Bagel&query_place_id=ChIJZxTjO9Gfw4kREtE1z6qUO-M&center=40.87903730000001,-74.6323413"
+    }
+  ],
+  "team_lunch": [
+    {
+      "name": "Java Joe's Bagels",
+      "distance": "0.8 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Java%20Joe's%20Bagels&query_place_id=ChIJldo9EDCew4kRhk2NyC7Epbo&center=40.862437,-74.63268719999999"
+    }
+  ],
+  "dinner": [
+    {
+      "name": "La Strada Restaurant",
+      "distance": "0.2 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=La%20Strada%20Restaurant&query_place_id=ChIJDUZCTLyfw4kR0Ts2H9sDYbs&center=40.8567075,-74.6196756"
+    },
+    {
+      "name": "Crawdaddy's of Randolph",
+      "distance": "0.2 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Crawdaddy's%20of%20Randolph&query_place_id=ChIJO2UIcp-fw4kRnfwiUDTSMFc&center=40.8566797,-74.6197131"
+    },
+    {
+      "name": "BEST FONGS",
+      "distance": "0.2 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=BEST%20FONGS&query_place_id=ChIJbVAre9Sfw4kR14FQ2CAD32c&center=40.8566797,-74.6197131"
+    },
+    {
+      "name": "Black River Barn",
+      "distance": "0.5 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Black%20River%20Barn&query_place_id=ChIJcRSR_7ifw4kRbxudvlPP33Q&center=40.8617525,-74.6261814"
+    },
+    {
+      "name": "Hibiscus Island Grille - Randolph",
+      "distance": "0.5 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Hibiscus%20Island%20Grille%20-%20Randolph&query_place_id=ChIJ-4IAp56mw4kRAkYQGMmb9qs&center=40.8607296,-74.6275028"
+    },
+    {
+      "name": "Anthony & Sons Bakery & Italian Deli",
+      "distance": "0.6 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Anthony%20%26%20Sons%20Bakery%20%26%20Italian%20Deli&query_place_id=ChIJ1yZeabefw4kRfvmIeEYa2xY&center=40.8613129,-74.62917879999999"
+    }
+  ],
+  "bowling": [
+    {
+      "name": "Circle Bowl & Entertainment",
+      "distance": "2.0 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Circle%20Bowl%20%26%20Entertainment&query_place_id=ChIJPc6IfC6ew4kR7AAPCsXrwlA&center=40.880004199999995,-74.64559609999999"
+    }
+  ],
+  "arcade": [],
+  "movies": [
+    {
+      "name": "AMC Rockaway 16",
+      "distance": "4.7 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=AMC%20Rockaway%2016&query_place_id=ChIJmzQUk7ELw4kRwL9xJPg47Oc&center=40.9097033,-74.55804049999999",
+      "isFar": true
+    }
+  ],
+  "fun": [
+    {
+      "name": "Gabriel C. Zampieri Memorial",
+      "distance": "2.9 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Gabriel%20C.%20Zampieri%20Memorial&query_place_id=ChIJke20Eayhw4kREi3tDBLD62Y&center=40.8500453,-74.5648542"
+    },
+    {
+      "name": "13th Hour Escape Rooms",
+      "distance": "3.6 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=13th%20Hour%20Escape%20Rooms&query_place_id=ChIJ0Zsy7rsLw4kRpy6xnjP2D4g&center=40.905291299999995,-74.5867718",
+      "isFar": true
+    },
+    {
+      "name": "Buttermilk Falls",
+      "distance": "4.1 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Buttermilk%20Falls&query_place_id=ChIJq48mMgCZw4kRgc-Pw5nRyYE&center=40.7995899,-74.6216797",
+      "isFar": true
+    },
+    {
+      "name": "Snoopy's Junction",
+      "distance": "4.2 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Snoopy's%20Junction&query_place_id=ChIJV6Vczih1w4kRoCEYFfS9u3c&center=40.9183887,-74.63154449999999",
+      "isFar": true
+    }
+  ],
+  "hotels": [
+    {
+      "name": "Lake front home for relocating, displaced and remote families",
+      "distance": "0.7 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Lake%20front%20home%20for%20relocating%2C%20displaced%20and%20remote%20families&query_place_id=ChIJFX7QWsafw4kRiMaf7ju5diQ&center=40.8674621,-74.626091"
+    },
+    {
+      "name": "Quiet Lakeside Boho Home for Displaced, Relocating and Professional Families",
+      "distance": "0.7 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Quiet%20Lakeside%20Boho%20Home%20for%20Displaced%2C%20Relocating%20and%20Professional%20Families&query_place_id=ChIJqVF9K8afw4kRsFa56r5zk8o&center=40.8670883,-74.6279602"
+    },
+    {
+      "name": "Quiet Lakeside Home for Displaced, Relocating and Professional Families with EV",
+      "distance": "0.7 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Quiet%20Lakeside%20Home%20for%20Displaced%2C%20Relocating%20and%20Professional%20Families%20with%20EV&query_place_id=ChIJ4wJG-Mafw4kRl8CUGkAt_aY&center=40.867092199999995,-74.6279678"
+    },
+    {
+      "name": "Luxury Home on Park, Tesla Charger, Cigar Lounge, Park views",
+      "distance": "1.2 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Luxury%20Home%20on%20Park%2C%20Tesla%20Charger%2C%20Cigar%20Lounge%2C%20Park%20views&query_place_id=ChIJLSLMr6yfw4kRsPCJLkORKDE&center=40.851810400000005,-74.6394729"
+    },
+    {
+      "name": "Boundary Motel",
+      "distance": "1.4 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Boundary%20Motel&query_place_id=ChIJ5ZsXCOGfw4kRZn9WwiXVDxY&center=40.879169399999995,-74.6143646"
+    }
+  ],
+  "gas": [
+    {
+      "name": "Fuel 4",
+      "distance": "0.6 mi",
+      "url": "https://www.google.com/maps/search/Fuel%204+near+40.8590863%2C-74.6182844"
+    },
+    {
+      "name": "LUKOIL",
+      "distance": "0.8 mi",
+      "url": "https://www.google.com/maps/search/LUKOIL+near+40.8590863%2C-74.6182844"
+    },
+    {
+      "name": "bp",
+      "distance": "0.8 mi",
+      "url": "https://www.google.com/maps/search/bp+near+40.8590863%2C-74.6182844"
+    },
+    {
+      "name": "48 NJ-10, Succasunna, NJ 07876",
+      "distance": "0.8 mi",
+      "url": "https://www.google.com/maps/search/48%20NJ-10%2C%20Succasunna%2C%20NJ%2007876+near+40.8590863%2C-74.6182844"
+    }
+  ]
+}

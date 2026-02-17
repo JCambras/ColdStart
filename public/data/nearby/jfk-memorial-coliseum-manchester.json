@@ -1,0 +1,238 @@
+{
+  "quick_bite": [
+    {
+      "name": "Kennedy Fried Chicken",
+      "distance": "0.2 mi",
+      "url": "https://www.google.com/maps/search/Kennedy%20Fried%20Chicken+near+42.98328%2C-71.4546526"
+    },
+    {
+      "name": "Subway",
+      "distance": "0.2 mi",
+      "url": "https://www.google.com/maps/search/Subway+near+42.98328%2C-71.4546526"
+    },
+    {
+      "name": "Olympus Pizza",
+      "distance": "0.2 mi",
+      "url": "https://www.google.com/maps/search/Olympus%20Pizza+near+42.98328%2C-71.4546526"
+    },
+    {
+      "name": "Sabroso",
+      "distance": "0.3 mi",
+      "url": "https://www.google.com/maps/search/Sabroso+near+42.98328%2C-71.4546526"
+    },
+    {
+      "name": "Chuck E. Cheese",
+      "distance": "2.2 mi",
+      "url": "https://www.google.com/maps/search/Chuck%20E.%20Cheese+near+42.98328%2C-71.4546526"
+    }
+  ],
+  "coffee": [
+    {
+      "name": "Dunkin'",
+      "distance": "0.2 mi",
+      "url": "https://www.google.com/maps/search/Dunkin'+near+42.98328%2C-71.4546526"
+    },
+    {
+      "name": "Sulio's Coffee House",
+      "distance": "0.3 mi",
+      "url": "https://www.google.com/maps/search/Sulio's%20Coffee%20House+near+42.98328%2C-71.4546526"
+    }
+  ],
+  "team_lunch": [
+    {
+      "name": "Szechuan House",
+      "distance": "0.1 mi",
+      "url": "https://www.google.com/maps/search/Szechuan%20House+near+42.98328%2C-71.4546526"
+    },
+    {
+      "name": "The Bungalow Bar & Grill",
+      "distance": "0.2 mi",
+      "url": "https://www.google.com/maps/search/The%20Bungalow%20Bar%20%26%20Grill+near+42.98328%2C-71.4546526"
+    },
+    {
+      "name": "EMPANADA KING",
+      "distance": "0.2 mi",
+      "url": "https://www.google.com/maps/search/EMPANADA%20KING+near+42.98328%2C-71.4546526"
+    },
+    {
+      "name": "Mesón del Caribe",
+      "distance": "0.2 mi",
+      "url": "https://www.google.com/maps/search/Mes%C3%B3n%20del%20Caribe+near+42.98328%2C-71.4546526"
+    },
+    {
+      "name": "Bamboo Garden",
+      "distance": "0.3 mi",
+      "url": "https://www.google.com/maps/search/Bamboo%20Garden+near+42.98328%2C-71.4546526"
+    }
+  ],
+  "dinner": [
+    {
+      "name": "Mi Casita food Trailer",
+      "distance": "0.1 mi",
+      "url": "https://www.google.com/maps/search/Mi%20Casita%20food%20Trailer+near+42.98328%2C-71.4546526"
+    },
+    {
+      "name": "Pizza Express",
+      "distance": "0.1 mi",
+      "url": "https://www.google.com/maps/search/Pizza%20Express+near+42.98328%2C-71.4546526"
+    },
+    {
+      "name": "Begy's Taquería",
+      "distance": "0.1 mi",
+      "url": "https://www.google.com/maps/search/Begy's%20Taquer%C3%ADa+near+42.98328%2C-71.4546526"
+    },
+    {
+      "name": "Dancing Yeti Bar & Grill",
+      "distance": "0.2 mi",
+      "url": "https://www.google.com/maps/search/Dancing%20Yeti%20Bar%20%26%20Grill+near+42.98328%2C-71.4546526"
+    },
+    {
+      "name": "The World Bar & Grill",
+      "distance": "0.2 mi",
+      "url": "https://www.google.com/maps/search/The%20World%20Bar%20%26%20Grill+near+42.98328%2C-71.4546526"
+    },
+    {
+      "name": "Don Quijote Restaurant",
+      "distance": "0.3 mi",
+      "url": "https://www.google.com/maps/search/Don%20Quijote%20Restaurant+near+42.98328%2C-71.4546526"
+    },
+    {
+      "name": "Margie's Dream Diner",
+      "distance": "0.3 mi",
+      "url": "https://www.google.com/maps/search/Margie's%20Dream%20Diner+near+42.98328%2C-71.4546526"
+    }
+  ],
+  "bowling": [
+    {
+      "name": "Yankee Lanes",
+      "distance": "0.2 mi",
+      "url": "https://www.google.com/maps/search/Yankee%20Lanes+near+42.98328%2C-71.4546526"
+    },
+    {
+      "name": "King Bowling Lanes",
+      "distance": "2.3 mi",
+      "url": "https://www.google.com/maps/search/King%20Bowling%20Lanes+near+42.98328%2C-71.4546526"
+    },
+    {
+      "name": "Lakeside Lanes",
+      "distance": "3.3 mi",
+      "url": "https://www.google.com/maps/search/Lakeside%20Lanes+near+42.98328%2C-71.4546526",
+      "isFar": true
+    }
+  ],
+  "arcade": [],
+  "movies": [
+    {
+      "name": "Chunky's Cinema Pub",
+      "distance": "2.5 mi",
+      "url": "https://www.google.com/maps/search/Chunky's%20Cinema%20Pub+near+42.98328%2C-71.4546526"
+    },
+    {
+      "name": "Apple Cinemas Hooksett IMAX",
+      "distance": "4.1 mi",
+      "url": "https://www.google.com/maps/search/Apple%20Cinemas%20Hooksett%20IMAX+near+42.98328%2C-71.4546526",
+      "isFar": true
+    }
+  ],
+  "fun": [
+    {
+      "name": "Sky Zone Trampoline Park",
+      "distance": "0.2 mi",
+      "url": "https://www.google.com/maps/search/Sky%20Zone%20Trampoline%20Park+near+42.98328%2C-71.4546526"
+    },
+    {
+      "name": "Granite State Escape",
+      "distance": "0.6 mi",
+      "url": "https://www.google.com/maps/search/Granite%20State%20Escape+near+42.98328%2C-71.4546526"
+    },
+    {
+      "name": "The Break Room NH",
+      "distance": "1.3 mi",
+      "url": "https://www.google.com/maps/search/The%20Break%20Room%20NH+near+42.98328%2C-71.4546526"
+    },
+    {
+      "name": "Launch Family Entertainment Manchester",
+      "distance": "1.4 mi",
+      "url": "https://www.google.com/maps/search/Launch%20Family%20Entertainment%20Manchester+near+42.98328%2C-71.4546526"
+    },
+    {
+      "name": "Dupont Splash Pad",
+      "distance": "1.9 mi",
+      "url": "https://www.google.com/maps/search/Dupont%20Splash%20Pad+near+42.98328%2C-71.4546526"
+    },
+    {
+      "name": "LOK'd! Room Escape",
+      "distance": "2.2 mi",
+      "url": "https://www.google.com/maps/search/LOK'd!%20Room%20Escape+near+42.98328%2C-71.4546526"
+    },
+    {
+      "name": "Cowabunga's Indoor Kids Play & Party Center - Manchester",
+      "distance": "2.5 mi",
+      "url": "https://www.google.com/maps/search/Cowabunga's%20Indoor%20Kids%20Play%20%26%20Party%20Center%20-%20Manchester+near+42.98328%2C-71.4546526"
+    }
+  ],
+  "hotels": [
+    {
+      "name": "Blue door bungalo",
+      "distance": "0.1 mi",
+      "url": "https://www.google.com/maps/search/Blue%20door%20bungalo+near+42.98328%2C-71.4546526"
+    },
+    {
+      "name": "NEW - Mins to Concord/ Nashua - Fenced Backyard - - Apartment",
+      "distance": "0.3 mi",
+      "url": "https://www.google.com/maps/search/NEW%20-%20Mins%20to%20Concord%2F%20Nashua%20-%20Fenced%20Backyard%20-%20-%20Apartment+near+42.98328%2C-71.4546526"
+    },
+    {
+      "name": "Family Oasis",
+      "distance": "0.4 mi",
+      "url": "https://www.google.com/maps/search/Family%20Oasis+near+42.98328%2C-71.4546526"
+    },
+    {
+      "name": "Gorgeous Downtown Top Level 2BD Unit w/ Laundry",
+      "distance": "0.4 mi",
+      "url": "https://www.google.com/maps/search/Gorgeous%20Downtown%20Top%20Level%202BD%20Unit%20w%2F%20Laundry+near+42.98328%2C-71.4546526"
+    },
+    {
+      "name": "Gorgeous Downtown Top Level 2BD Unit w / Laundry",
+      "distance": "0.4 mi",
+      "url": "https://www.google.com/maps/search/Gorgeous%20Downtown%20Top%20Level%202BD%20Unit%20w%20%2F%20Laundry+near+42.98328%2C-71.4546526"
+    },
+    {
+      "name": "NEW - Mins to Concord/ Nashua - Fenced Backyard",
+      "distance": "0.4 mi",
+      "url": "https://www.google.com/maps/search/NEW%20-%20Mins%20to%20Concord%2F%20Nashua%20-%20Fenced%20Backyard+near+42.98328%2C-71.4546526"
+    },
+    {
+      "name": "Cozy furnished 2 bdrm apt!\\n",
+      "distance": "0.4 mi",
+      "url": "https://www.google.com/maps/search/Cozy%20furnished%202%20bdrm%20apt!%5Cn+near+42.98328%2C-71.4546526"
+    }
+  ],
+  "gas": [
+    {
+      "name": "Brother's Express",
+      "distance": "0.2 mi",
+      "url": "https://www.google.com/maps/search/Brother's%20Express+near+42.98328%2C-71.4546526"
+    },
+    {
+      "name": "CITGO",
+      "distance": "0.2 mi",
+      "url": "https://www.google.com/maps/search/CITGO+near+42.98328%2C-71.4546526"
+    },
+    {
+      "name": "CVW Oil",
+      "distance": "0.4 mi",
+      "url": "https://www.google.com/maps/search/CVW%20Oil+near+42.98328%2C-71.4546526"
+    },
+    {
+      "name": "Prime",
+      "distance": "0.5 mi",
+      "url": "https://www.google.com/maps/search/Prime+near+42.98328%2C-71.4546526"
+    },
+    {
+      "name": "Ake Food Mart",
+      "distance": "0.5 mi",
+      "url": "https://www.google.com/maps/search/Ake%20Food%20Mart+near+42.98328%2C-71.4546526"
+    }
+  ]
+}

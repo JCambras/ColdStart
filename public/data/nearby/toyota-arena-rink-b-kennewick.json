@@ -1,0 +1,226 @@
+{
+  "quick_bite": [
+    {
+      "name": "Carl's Jr.",
+      "distance": "0.3 mi",
+      "url": "https://www.google.com/maps/search/Carl's%20Jr.+near+46.2210812%2C-119.2169546"
+    },
+    {
+      "name": "Chipotle Mexican Grill",
+      "distance": "0.3 mi",
+      "url": "https://www.google.com/maps/search/Chipotle%20Mexican%20Grill+near+46.2210812%2C-119.2169546"
+    },
+    {
+      "name": "Chick-fil-A",
+      "distance": "0.4 mi",
+      "url": "https://www.google.com/maps/search/Chick-fil-A+near+46.2210812%2C-119.2169546"
+    },
+    {
+      "name": "Red Robin Gourmet Burgers and Brews",
+      "distance": "0.4 mi",
+      "url": "https://www.google.com/maps/search/Red%20Robin%20Gourmet%20Burgers%20and%20Brews+near+46.2210812%2C-119.2169546"
+    },
+    {
+      "name": "KFC",
+      "distance": "0.4 mi",
+      "url": "https://www.google.com/maps/search/KFC+near+46.2210812%2C-119.2169546"
+    },
+    {
+      "name": "Taco Bell / KFC",
+      "distance": "0.4 mi",
+      "url": "https://www.google.com/maps/search/Taco%20Bell%20%2F%20KFC+near+46.2210812%2C-119.2169546"
+    },
+    {
+      "name": "Wendy's",
+      "distance": "0.4 mi",
+      "url": "https://www.google.com/maps/search/Wendy's+near+46.2210812%2C-119.2169546"
+    }
+  ],
+  "coffee": [
+    {
+      "name": "Panera Bread",
+      "distance": "0.4 mi",
+      "url": "https://www.google.com/maps/search/Panera%20Bread+near+46.2210812%2C-119.2169546"
+    }
+  ],
+  "team_lunch": [
+    {
+      "name": "the garden Grille & bar",
+      "distance": "0.3 mi",
+      "url": "https://www.google.com/maps/search/the%20garden%20Grille%20%26%20bar+near+46.2210812%2C-119.2169546"
+    },
+    {
+      "name": "Wok King International Buffet",
+      "distance": "0.3 mi",
+      "url": "https://www.google.com/maps/search/Wok%20King%20International%20Buffet+near+46.2210812%2C-119.2169546"
+    },
+    {
+      "name": "Red Lobster",
+      "distance": "0.3 mi",
+      "url": "https://www.google.com/maps/search/Red%20Lobster+near+46.2210812%2C-119.2169546"
+    },
+    {
+      "name": "Andy's Coffee Break Restaurant",
+      "distance": "0.3 mi",
+      "url": "https://www.google.com/maps/search/Andy's%20Coffee%20Break%20Restaurant+near+46.2210812%2C-119.2169546"
+    },
+    {
+      "name": "KUKI Izakaya",
+      "distance": "0.3 mi",
+      "url": "https://www.google.com/maps/search/KUKI%20Izakaya+near+46.2210812%2C-119.2169546"
+    }
+  ],
+  "dinner": [
+    {
+      "name": "Bella Italia",
+      "distance": "0.2 mi",
+      "url": "https://www.google.com/maps/search/Bella%20Italia+near+46.2210812%2C-119.2169546"
+    },
+    {
+      "name": "Hong’s Mongolian Restaurant",
+      "distance": "0.3 mi",
+      "url": "https://www.google.com/maps/search/Hong%E2%80%99s%20Mongolian%20Restaurant+near+46.2210812%2C-119.2169546"
+    },
+    {
+      "name": "Crumbl",
+      "distance": "0.3 mi",
+      "url": "https://www.google.com/maps/search/Crumbl+near+46.2210812%2C-119.2169546"
+    },
+    {
+      "name": "Porter's Real Barbecue",
+      "distance": "0.3 mi",
+      "url": "https://www.google.com/maps/search/Porter's%20Real%20Barbecue+near+46.2210812%2C-119.2169546"
+    },
+    {
+      "name": "Proof Gastropub",
+      "distance": "0.3 mi",
+      "url": "https://www.google.com/maps/search/Proof%20Gastropub+near+46.2210812%2C-119.2169546"
+    }
+  ],
+  "bowling": [
+    {
+      "name": "Spare Time Lanes",
+      "distance": "4.4 mi",
+      "url": "https://www.google.com/maps/search/Spare%20Time%20Lanes+near+46.2210812%2C-119.2169546",
+      "isFar": true
+    },
+    {
+      "name": "Atomic Bowl",
+      "distance": "4.9 mi",
+      "url": "https://www.google.com/maps/search/Atomic%20Bowl+near+46.2210812%2C-119.2169546",
+      "isFar": true
+    }
+  ],
+  "arcade": [],
+  "movies": [
+    {
+      "name": "AMC CLASSIC Kennewick 12",
+      "distance": "0.8 mi",
+      "url": "https://www.google.com/maps/search/AMC%20CLASSIC%20Kennewick%2012+near+46.2210812%2C-119.2169546"
+    },
+    {
+      "name": "Fairchild Cinemas - Southgate 10",
+      "distance": "3.4 mi",
+      "url": "https://www.google.com/maps/search/Fairchild%20Cinemas%20-%20Southgate%2010+near+46.2210812%2C-119.2169546",
+      "isFar": true
+    },
+    {
+      "name": "Fairchild Cinemas - Pasco 12",
+      "distance": "4.0 mi",
+      "url": "https://www.google.com/maps/search/Fairchild%20Cinemas%20-%20Pasco%2012+near+46.2210812%2C-119.2169546",
+      "isFar": true
+    }
+  ],
+  "fun": [
+    {
+      "name": "Max Air Trampoline Park",
+      "distance": "0.5 mi",
+      "url": "https://www.google.com/maps/search/Max%20Air%20Trampoline%20Park+near+46.2210812%2C-119.2169546"
+    },
+    {
+      "name": "Atomic Escape Rooms - Rock Lake Island featuring Mission Bigfoot: Escape the Island",
+      "distance": "1.0 mi",
+      "url": "https://www.google.com/maps/search/Atomic%20Escape%20Rooms%20-%20Rock%20Lake%20Island%20featuring%20Mission%20Bigfoot%3A%20Escape%20the%20Island+near+46.2210812%2C-119.2169546"
+    },
+    {
+      "name": "Atomic Escape Rooms",
+      "distance": "1.0 mi",
+      "url": "https://www.google.com/maps/search/Atomic%20Escape%20Rooms+near+46.2210812%2C-119.2169546"
+    },
+    {
+      "name": "Splash Down Cove Water Park",
+      "distance": "1.1 mi",
+      "url": "https://www.google.com/maps/search/Splash%20Down%20Cove%20Water%20Park+near+46.2210812%2C-119.2169546"
+    },
+    {
+      "name": "Gesa Carousel of Dreams",
+      "distance": "3.1 mi",
+      "url": "https://www.google.com/maps/search/Gesa%20Carousel%20of%20Dreams+near+46.2210812%2C-119.2169546",
+      "isFar": true
+    }
+  ],
+  "hotels": [
+    {
+      "name": "SpringHill Suites by Marriott Kennewick Tri-Cities",
+      "distance": "0.2 mi",
+      "url": "https://www.google.com/maps/search/SpringHill%20Suites%20by%20Marriott%20Kennewick%20Tri-Cities+near+46.2210812%2C-119.2169546"
+    },
+    {
+      "name": "Hilton Garden Inn Tri-Cities/Kennewick",
+      "distance": "0.3 mi",
+      "url": "https://www.google.com/maps/search/Hilton%20Garden%20Inn%20Tri-Cities%2FKennewick+near+46.2210812%2C-119.2169546"
+    },
+    {
+      "name": "Best Western Kennewick Tri-Cities Center",
+      "distance": "0.4 mi",
+      "url": "https://www.google.com/maps/search/Best%20Western%20Kennewick%20Tri-Cities%20Center+near+46.2210812%2C-119.2169546"
+    },
+    {
+      "name": "Inn at Columbia Center Kennewick Tri-Cities",
+      "distance": "0.4 mi",
+      "url": "https://www.google.com/maps/search/Inn%20at%20Columbia%20Center%20Kennewick%20Tri-Cities+near+46.2210812%2C-119.2169546"
+    },
+    {
+      "name": "Westcoast Tri Cities Hotel",
+      "distance": "0.4 mi",
+      "url": "https://www.google.com/maps/search/Westcoast%20Tri%20Cities%20Hotel+near+46.2210812%2C-119.2169546"
+    },
+    {
+      "name": "Red Lion Hotel Kennewick Columbia Center",
+      "distance": "0.4 mi",
+      "url": "https://www.google.com/maps/search/Red%20Lion%20Hotel%20Kennewick%20Columbia%20Center+near+46.2210812%2C-119.2169546"
+    },
+    {
+      "name": "Comfort Meets Affordability, Free Parking, Outdoor Pool, Pets Allowed",
+      "distance": "0.4 mi",
+      "url": "https://www.google.com/maps/search/Comfort%20Meets%20Affordability%2C%20Free%20Parking%2C%20Outdoor%20Pool%2C%20Pets%20Allowed+near+46.2210812%2C-119.2169546"
+    }
+  ],
+  "gas": [
+    {
+      "name": "Circle K | Gas Station",
+      "distance": "0.7 mi",
+      "url": "https://www.google.com/maps/search/Circle%20K%20%7C%20Gas%20Station+near+46.2210812%2C-119.2169546"
+    },
+    {
+      "name": "Circle K | Gas Station",
+      "distance": "0.7 mi",
+      "url": "https://www.google.com/maps/search/Circle%20K%20%7C%20Gas%20Station+near+46.2210812%2C-119.2169546"
+    },
+    {
+      "name": "Coleman Oil",
+      "distance": "0.8 mi",
+      "url": "https://www.google.com/maps/search/Coleman%20Oil+near+46.2210812%2C-119.2169546"
+    },
+    {
+      "name": "CFN",
+      "distance": "0.8 mi",
+      "url": "https://www.google.com/maps/search/CFN+near+46.2210812%2C-119.2169546"
+    },
+    {
+      "name": "Gas Station",
+      "distance": "0.9 mi",
+      "url": "https://www.google.com/maps/search/Gas%20Station+near+46.2210812%2C-119.2169546"
+    }
+  ]
+}

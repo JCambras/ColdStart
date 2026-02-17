@@ -1,0 +1,197 @@
+{
+  "quick_bite": [
+    {
+      "name": "Snack Shack",
+      "distance": "1.0 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Snack%20Shack&query_place_id=ChIJe3fiiV-f5IkRr6cPgG4atC8&center=42.103393499999996,-70.8823591"
+    },
+    {
+      "name": "Themis Pizza",
+      "distance": "1.1 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Themis%20Pizza&query_place_id=ChIJ8VBtjpye5IkRaqnRZ4_6k3g&center=42.1243118,-70.9027243"
+    },
+    {
+      "name": "West Hanover Pizzeria",
+      "distance": "1.2 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=West%20Hanover%20Pizzeria&query_place_id=ChIJZ4puxOye5IkRWPyRowfLwl4&center=42.1192719,-70.88212419999999"
+    },
+    {
+      "name": "Greek House Of Pizza Rockland - Abington",
+      "distance": "1.3 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Greek%20House%20Of%20Pizza%20Rockland%20-%20Abington&query_place_id=ChIJd9izxxOc5IkR9hzrsl2fKQw&center=42.1138111,-70.92627499999999"
+    },
+    {
+      "name": "Wendy's",
+      "distance": "1.5 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Wendy's&query_place_id=ChIJ67rTUA2c5IkRR9ZplpBUgEA&center=42.1107978,-70.9301478"
+    },
+    {
+      "name": "Submarine Galley",
+      "distance": "2.5 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Submarine%20Galley&query_place_id=ChIJ23fbTn-c5IkRHeTfEHrfYNY&center=42.1056584,-70.9490498"
+    }
+  ],
+  "coffee": [
+    {
+      "name": "Harmon Coffee",
+      "distance": "1.0 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Harmon%20Coffee&query_place_id=ChIJq6r-giKc5IkRC-VDGVnYTbU&center=42.1186637,-70.9167633"
+    },
+    {
+      "name": "Dunkin'",
+      "distance": "1.1 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Dunkin'&query_place_id=ChIJwfoV5SOc5IkRz-BfZF9-500&center=42.1212138,-70.914012"
+    },
+    {
+      "name": "Hole In One Donuts and Coffee Rockland",
+      "distance": "1.1 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Hole%20In%20One%20Donuts%20and%20Coffee%20Rockland&query_place_id=ChIJX6ndHwCf5IkRD3-hTOmcteE&center=42.1243555,-70.90292029999999"
+    },
+    {
+      "name": "KING STREET MARKET AND GRILL",
+      "distance": "1.3 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=KING%20STREET%20MARKET%20AND%20GRILL&query_place_id=ChIJn3wIGcSe5IkRDE8u5Ezo70E&center=42.105723399999995,-70.8769148"
+    }
+  ],
+  "team_lunch": [
+    {
+      "name": "Michelle's Rocheleau Cakes and Cupcakes",
+      "distance": "2.6 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Michelle's%20Rocheleau%20Cakes%20and%20Cupcakes&query_place_id=ChIJa3u_VNycIoMR_QxyNPegYo0&center=42.0883371,-70.9431397"
+    },
+    {
+      "name": "Marcello Sandwich Shop",
+      "distance": "3.0 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Marcello%20Sandwich%20Shop&query_place_id=ChIJMRP2dKSb5IkR-Bp4MSnxW_8&center=42.0805365,-70.9466308",
+      "isFar": true
+    }
+  ],
+  "dinner": [
+    {
+      "name": "oodinee Restaurant",
+      "distance": "1.0 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=oodinee%20Restaurant&query_place_id=ChIJLXvtmaGd5IkRYYd5iYRdFOA&center=42.120183,-70.9142136"
+    },
+    {
+      "name": "Willow Tree Donuts",
+      "distance": "1.1 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Willow%20Tree%20Donuts&query_place_id=ChIJwUo1RACd5IkRydoKIObRFXk&center=42.117599299999995,-70.9184326"
+    },
+    {
+      "name": "China Plaza",
+      "distance": "1.1 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=China%20Plaza&query_place_id=ChIJm1Px8iKc5IkRHvXxbB8lzPM&center=42.119839,-70.916377"
+    },
+    {
+      "name": "Stevie G'S Restaurant Rockland",
+      "distance": "1.1 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Stevie%20G'S%20Restaurant%20Rockland&query_place_id=ChIJXT1PE9md5IkR9R9FR8tI64w&center=42.1242278,-70.90726289999999"
+    },
+    {
+      "name": "Santa Fe Burrito Grill",
+      "distance": "1.2 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Santa%20Fe%20Burrito%20Grill&query_place_id=ChIJ6R5-ni6d5IkRS_CSpS2qgxk&center=42.1217483,-70.9163427"
+    },
+    {
+      "name": "D'Angelo Grilled Sandwiches",
+      "distance": "1.2 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=D'Angelo%20Grilled%20Sandwiches&query_place_id=ChIJbR0P8iOc5IkRZ3SjY2xA_es&center=42.122573599999996,-70.91504669999999"
+    }
+  ],
+  "bowling": [
+    {
+      "name": "Webster Timber Lanes",
+      "distance": "2.5 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Webster%20Timber%20Lanes&query_place_id=ChIJVRPuhmOc5IkRhBmEKH7rJtU&center=42.1165576,-70.94953269999999"
+    },
+    {
+      "name": "Boston Bowl - Hanover",
+      "distance": "3.8 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Boston%20Bowl%20-%20Hanover&query_place_id=ChIJIWPBUHCf5IkR5xFHw6a8awc&center=42.1151384,-70.8272355",
+      "isFar": true
+    }
+  ],
+  "arcade": [],
+  "movies": [
+    {
+      "name": "Showcase Cinema de Lux Hanover Crossing",
+      "distance": "4.1 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Showcase%20Cinema%20de%20Lux%20Hanover%20Crossing&query_place_id=ChIJR5Cn1saf5IkRBIoZrRwFNoc&center=42.1466543,-70.8402716",
+      "isFar": true
+    }
+  ],
+  "fun": [
+    {
+      "name": "Holiday House of Hanson",
+      "distance": "2.0 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Holiday%20House%20of%20Hanson&query_place_id=ChIJSSATRgCZ5IkRxI8us8jk-Hs&center=42.085609,-70.8780771"
+    },
+    {
+      "name": "South Shore Massachusetts Car Meets",
+      "distance": "4.0 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=South%20Shore%20Massachusetts%20Car%20Meets&query_place_id=ChIJCyKUDACf5IkRpktOF7pMrK4&center=42.1666527,-70.901894",
+      "isFar": true
+    },
+    {
+      "name": "Starland Sportsplex & Fun Park - Hanover’s Premier Sports, Events & Entertainment Venue",
+      "distance": "4.0 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Starland%20Sportsplex%20%26%20Fun%20Park%20-%20Hanover%E2%80%99s%20Premier%20Sports%2C%20Events%20%26%20Entertainment%20Venue&query_place_id=ChIJZb7EGZ2f5IkRtlWPHxmpfbQ&center=42.1237093,-70.824865",
+      "isFar": true
+    },
+    {
+      "name": "Happy Hearts Playspace",
+      "distance": "4.5 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Happy%20Hearts%20Playspace&query_place_id=ChIJG1rUjpph44kRis7XkRpndMw&center=42.1711113,-70.8767062",
+      "isFar": true
+    }
+  ],
+  "hotels": [
+    {
+      "name": "The Glen",
+      "distance": "0.8 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=The%20Glen&query_place_id=ChIJ7Z1MCQCc5IkR9sDDTVPnpXs&center=42.0989428,-70.9082382"
+    },
+    {
+      "name": "Hillcrest",
+      "distance": "0.8 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Hillcrest&query_place_id=ChIJ7Z1MCQCc5IkRhEJVFCLQGdU&center=42.098668499999995,-70.907877"
+    },
+    {
+      "name": "Lodge",
+      "distance": "1.1 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Lodge&query_place_id=ChIJz-nR-yOc5IkRmy1QOJhvVU8&center=42.1226483,-70.91333220000001"
+    },
+    {
+      "name": "Hotel Thomas",
+      "distance": "1.4 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Hotel%20Thomas&query_place_id=ChIJmzd5lCWc5IkRPp1bDRSDCyU&center=42.1269545,-70.91450560000001"
+    },
+    {
+      "name": "Linden House",
+      "distance": "2.4 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Linden%20House&query_place_id=ChIJ_yqLYMCb5IkR__UxyxfO_k0&center=42.080473,-70.92931109999999"
+    }
+  ],
+  "gas": [
+    {
+      "name": "CITGO",
+      "distance": "0.9 mi",
+      "url": "https://www.google.com/maps/search/CITGO+near+42.1087723%2C-70.901269"
+    },
+    {
+      "name": "AL Prime",
+      "distance": "1.0 mi",
+      "url": "https://www.google.com/maps/search/AL%20Prime+near+42.1087723%2C-70.901269"
+    },
+    {
+      "name": "Atlantic Automotive",
+      "distance": "1.1 mi",
+      "url": "https://www.google.com/maps/search/Atlantic%20Automotive+near+42.1087723%2C-70.901269"
+    },
+    {
+      "name": "PIT STOP",
+      "distance": "1.2 mi",
+      "url": "https://www.google.com/maps/search/PIT%20STOP+near+42.1087723%2C-70.901269"
+    }
+  ]
+}

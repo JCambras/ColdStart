@@ -1,0 +1,179 @@
+{
+  "quick_bite": [
+    {
+      "name": "Wendy's",
+      "distance": "0.2 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Wendy's&query_place_id=ChIJLXtLfwA56IkR54h-Lv5mAhg&center=40.859030399999995,-73.1599761"
+    },
+    {
+      "name": "Lorenzo's Pizza",
+      "distance": "0.2 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Lorenzo's%20Pizza&query_place_id=ChIJgzVoYr056IkRL0rRDe4Cg7w&center=40.859839,-73.158417"
+    },
+    {
+      "name": "Dairy Queen Grill & Chill",
+      "distance": "0.2 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Dairy%20Queen%20Grill%20%26%20Chill&query_place_id=ChIJ3Vl8tC456IkRAzTDXUPhsiE&center=40.859744,-73.15883699999999"
+    },
+    {
+      "name": "Taco Bell",
+      "distance": "0.4 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Taco%20Bell&query_place_id=ChIJ1_hlxeo56IkRBLsrNe7aTZ8&center=40.851146299999996,-73.1594837"
+    }
+  ],
+  "coffee": [
+    {
+      "name": "Dunkin'",
+      "distance": "0.3 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Dunkin'&query_place_id=ChIJmQSJzbw56IkRcYbH4kJ9kRs&center=40.860735000000005,-73.1549249"
+    },
+    {
+      "name": "Dunkin'",
+      "distance": "0.8 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Dunkin'&query_place_id=ChIJ38SyL-w56IkRm4YJATqEEZM&center=40.8485298,-73.1668029"
+    }
+  ],
+  "team_lunch": [
+    {
+      "name": "PLATES FROM PARIS",
+      "distance": "0.2 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=PLATES%20FROM%20PARIS&query_place_id=ChIJ__922Jc56IkR-WT1VLIFxsU&center=40.8598297,-73.1585742"
+    },
+    {
+      "name": "Everyday Bagel",
+      "distance": "0.4 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Everyday%20Bagel&query_place_id=ChIJT4DWu6Q56IkRkaQ80T76YMI&center=40.8613644,-73.1514809"
+    },
+    {
+      "name": "Mendoza Pupuseria",
+      "distance": "0.5 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Mendoza%20Pupuseria&query_place_id=ChIJKbgHV_g56IkRVi11itHEwcI&center=40.861452,-73.151256"
+    },
+    {
+      "name": "The Chas American Restaurant",
+      "distance": "0.7 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=The%20Chas%20American%20Restaurant&query_place_id=ChIJl1yUIU856IkRfMBC_Rvijko&center=40.8498082,-73.1670079"
+    },
+    {
+      "name": "Panepinto Bakery",
+      "distance": "0.9 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Panepinto%20Bakery&query_place_id=ChIJVTWZySM56IkR7b98qBQ1vy8&center=40.8495346,-73.17048120000001"
+    }
+  ],
+  "dinner": [
+    {
+      "name": "Florie's Finales",
+      "distance": "0.1 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Florie's%20Finales&query_place_id=ChIJU-4pY7w56IkRKuV_9Cfm4mc&center=40.8556934,-73.1577843"
+    },
+    {
+      "name": "Villa Olivetti",
+      "distance": "0.3 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Villa%20Olivetti&query_place_id=ChIJlwsWKL056IkR_wc3i-_whWw&center=40.860589499999996,-73.15568730000001"
+    },
+    {
+      "name": "Husk and Vine Kitchen and Cocktails",
+      "distance": "0.3 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Husk%20and%20Vine%20Kitchen%20and%20Cocktails&query_place_id=ChIJH0TCPhg56IkRwSYrO5xNVxI&center=40.8607071,-73.15516649999999"
+    },
+    {
+      "name": "Taco Island Mexican Cantina",
+      "distance": "0.3 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Taco%20Island%20Mexican%20Cantina&query_place_id=ChIJQXzaWEw56IkR-OcmF4Rb5GM&center=40.8604556,-73.15391989999999"
+    },
+    {
+      "name": "Tacos Cinco de Mayo",
+      "distance": "0.5 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Tacos%20Cinco%20de%20Mayo&query_place_id=ChIJcTAx5Ys56IkR1jvuf-JNc8k&center=40.8613262,-73.15095509999999"
+    },
+    {
+      "name": "Azulejos Fine Mexican Cuisine",
+      "distance": "0.6 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Azulejos%20Fine%20Mexican%20Cuisine&query_place_id=ChIJ5VgnfJI56IkRyuVCt15Krds&center=40.8560079,-73.1692924"
+    }
+  ],
+  "bowling": [
+    {
+      "name": "AMF Centereach Lanes",
+      "distance": "4.2 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=AMF%20Centereach%20Lanes&query_place_id=ChIJjesxt4JH6IkR5us_dLdzy4I&center=40.857651,-73.07716520000001",
+      "isFar": true
+    }
+  ],
+  "arcade": [],
+  "movies": [
+    {
+      "name": "Imax",
+      "distance": "2.0 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Imax&query_place_id=ChIJD3F8Gfs46IkRe68-_d5pDwo&center=40.8749271,-73.1266316"
+    },
+    {
+      "name": "AMC Stony Brook 17",
+      "distance": "2.1 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=AMC%20Stony%20Brook%2017&query_place_id=ChIJ5TRn1Po46IkRm-rftnpxKrM&center=40.8756942,-73.1269724"
+    },
+    {
+      "name": "Regal Ronkonkoma",
+      "distance": "3.8 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Regal%20Ronkonkoma&query_place_id=ChIJNchCjfdH6IkR5dlBrU9gzwc&center=40.830583000000004,-73.0939796",
+      "isFar": true
+    }
+  ],
+  "fun": [
+    {
+      "name": "Escape Zone Long Island",
+      "distance": "0.7 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Escape%20Zone%20Long%20Island&query_place_id=ChIJBzIFuq856IkROCUV9OjZ-0M&center=40.8611079,-73.14465419999999"
+    },
+    {
+      "name": "Urban Air Trampoline and Adventure Park",
+      "distance": "1.9 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Urban%20Air%20Trampoline%20and%20Adventure%20Park&query_place_id=ChIJzf9R2fmHT4YR6Wgw-TzsxCU&center=40.863586,-73.1223287"
+    },
+    {
+      "name": "Smithtown",
+      "distance": "2.3 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Smithtown&query_place_id=ChIJSXihT5876IkR10Sx-j4f4Fo&center=40.8557899,-73.2016249"
+    },
+    {
+      "name": "Memorial Day Ronkonkoma Street Fair",
+      "distance": "3.4 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Memorial%20Day%20Ronkonkoma%20Street%20Fair&query_place_id=ChIJdYM-Nog36IkRKfMn9y9mcC0&center=40.825533500000006,-73.1074919",
+      "isFar": true
+    }
+  ],
+  "hotels": [
+    {
+      "name": "The Suite at North Shore Long Island, Prime Location, Unique and sophisticated",
+      "distance": "0.8 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=The%20Suite%20at%20North%20Shore%20Long%20Island%2C%20Prime%20Location%2C%20Unique%20and%20sophisticated&query_place_id=ChIJMfCcB-k56IkRRX5slKCDUEU&center=40.8452759,-73.16156769999999"
+    },
+    {
+      "name": "Inn",
+      "distance": "1.2 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Inn&query_place_id=ChIJ58CV50U56IkRoOImSIrswZY&center=40.8551432,-73.1801893"
+    }
+  ],
+  "gas": [
+    {
+      "name": "Shell",
+      "distance": "0.3 mi",
+      "url": "https://www.google.com/maps/search/Shell+near+40.856506599999996%2C-73.157045"
+    },
+    {
+      "name": "bp",
+      "distance": "0.3 mi",
+      "url": "https://www.google.com/maps/search/bp+near+40.856506599999996%2C-73.157045"
+    },
+    {
+      "name": "St James Star, Inc.",
+      "distance": "0.8 mi",
+      "url": "https://www.google.com/maps/search/St%20James%20Star%2C%20Inc.+near+40.856506599999996%2C-73.157045"
+    },
+    {
+      "name": "Sunoco",
+      "distance": "0.9 mi",
+      "url": "https://www.google.com/maps/search/Sunoco+near+40.856506599999996%2C-73.157045"
+    }
+  ]
+}

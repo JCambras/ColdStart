@@ -1,0 +1,254 @@
+{
+  "quick_bite": [
+    {
+      "name": "Burger King",
+      "distance": "0.2 mi",
+      "url": "https://www.google.com/maps/search/Burger%20King+near+35.8206127%2C-78.5890508"
+    },
+    {
+      "name": "The Golden Empanada",
+      "distance": "0.2 mi",
+      "url": "https://www.google.com/maps/search/The%20Golden%20Empanada+near+35.8206127%2C-78.5890508"
+    },
+    {
+      "name": "TenderFix by Noah Schnapp",
+      "distance": "0.2 mi",
+      "url": "https://www.google.com/maps/search/TenderFix%20by%20Noah%20Schnapp+near+35.8206127%2C-78.5890508"
+    },
+    {
+      "name": "Cook Out",
+      "distance": "0.2 mi",
+      "url": "https://www.google.com/maps/search/Cook%20Out+near+35.8206127%2C-78.5890508"
+    },
+    {
+      "name": "Chuck E. Cheese",
+      "distance": "0.6 mi",
+      "url": "https://www.google.com/maps/search/Chuck%20E.%20Cheese+near+35.8206127%2C-78.5890508"
+    }
+  ],
+  "coffee": [
+    {
+      "name": "McDonald's",
+      "distance": "0.1 mi",
+      "url": "https://www.google.com/maps/search/McDonald's+near+35.8206127%2C-78.5890508"
+    },
+    {
+      "name": "Ironqueen Wellness Protein Bar",
+      "distance": "0.2 mi",
+      "url": "https://www.google.com/maps/search/Ironqueen%20Wellness%20Protein%20Bar+near+35.8206127%2C-78.5890508"
+    },
+    {
+      "name": "Starbucks Coffee Company",
+      "distance": "0.2 mi",
+      "url": "https://www.google.com/maps/search/Starbucks%20Coffee%20Company+near+35.8206127%2C-78.5890508"
+    }
+  ],
+  "team_lunch": [
+    {
+      "name": "Franklin Baking Co",
+      "distance": "0.1 mi",
+      "url": "https://www.google.com/maps/search/Franklin%20Baking%20Co+near+35.8206127%2C-78.5890508"
+    },
+    {
+      "name": "El Paseo Restaurant",
+      "distance": "0.1 mi",
+      "url": "https://www.google.com/maps/search/El%20Paseo%20Restaurant+near+35.8206127%2C-78.5890508"
+    },
+    {
+      "name": "IHOP",
+      "distance": "0.2 mi",
+      "url": "https://www.google.com/maps/search/IHOP+near+35.8206127%2C-78.5890508"
+    },
+    {
+      "name": "Pardon My Cheesesteak",
+      "distance": "0.2 mi",
+      "url": "https://www.google.com/maps/search/Pardon%20My%20Cheesesteak+near+35.8206127%2C-78.5890508"
+    },
+    {
+      "name": "Food Lion Bakery",
+      "distance": "0.2 mi",
+      "url": "https://www.google.com/maps/search/Food%20Lion%20Bakery+near+35.8206127%2C-78.5890508"
+    }
+  ],
+  "dinner": [
+    {
+      "name": "KPOT Korean BBQ & Hot Pot",
+      "distance": "0.1 mi",
+      "url": "https://www.google.com/maps/search/KPOT%20Korean%20BBQ%20%26%20Hot%20Pot+near+35.8206127%2C-78.5890508"
+    },
+    {
+      "name": "Buffalo Brothers",
+      "distance": "0.1 mi",
+      "url": "https://www.google.com/maps/search/Buffalo%20Brothers+near+35.8206127%2C-78.5890508"
+    },
+    {
+      "name": "Aggie's Grill Station",
+      "distance": "0.2 mi",
+      "url": "https://www.google.com/maps/search/Aggie's%20Grill%20Station+near+35.8206127%2C-78.5890508"
+    },
+    {
+      "name": "Mangonada King",
+      "distance": "0.2 mi",
+      "url": "https://www.google.com/maps/search/Mangonada%20King+near+35.8206127%2C-78.5890508"
+    },
+    {
+      "name": "Dominican & Mexican Cuisine",
+      "distance": "0.2 mi",
+      "url": "https://www.google.com/maps/search/Dominican%20%26%20Mexican%20Cuisine+near+35.8206127%2C-78.5890508"
+    },
+    {
+      "name": "Vallarta Tacos & Seafood",
+      "distance": "0.2 mi",
+      "url": "https://www.google.com/maps/search/Vallarta%20Tacos%20%26%20Seafood+near+35.8206127%2C-78.5890508"
+    },
+    {
+      "name": "Las Tortas Del Barrio",
+      "distance": "0.2 mi",
+      "url": "https://www.google.com/maps/search/Las%20Tortas%20Del%20Barrio+near+35.8206127%2C-78.5890508"
+    }
+  ],
+  "bowling": [
+    {
+      "name": "Buffaloe Lanes North Family Bowling Center",
+      "distance": "2.9 mi",
+      "url": "https://www.google.com/maps/search/Buffaloe%20Lanes%20North%20Family%20Bowling%20Center+near+35.8206127%2C-78.5890508"
+    },
+    {
+      "name": "ParTee Shack - North Raleigh",
+      "distance": "3.6 mi",
+      "url": "https://www.google.com/maps/search/ParTee%20Shack%20-%20North%20Raleigh+near+35.8206127%2C-78.5890508",
+      "isFar": true
+    }
+  ],
+  "arcade": [],
+  "movies": [
+    {
+      "name": "Alamo Drafthouse Cinema Raleigh",
+      "distance": "3.0 mi",
+      "url": "https://www.google.com/maps/search/Alamo%20Drafthouse%20Cinema%20Raleigh+near+35.8206127%2C-78.5890508",
+      "isFar": true
+    },
+    {
+      "name": "Regal North Hills",
+      "distance": "3.2 mi",
+      "url": "https://www.google.com/maps/search/Regal%20North%20Hills+near+35.8206127%2C-78.5890508",
+      "isFar": true
+    },
+    {
+      "name": "The Rialto",
+      "distance": "3.4 mi",
+      "url": "https://www.google.com/maps/search/The%20Rialto+near+35.8206127%2C-78.5890508",
+      "isFar": true
+    },
+    {
+      "name": "Marbles IMAX",
+      "distance": "3.9 mi",
+      "url": "https://www.google.com/maps/search/Marbles%20IMAX+near+35.8206127%2C-78.5890508",
+      "isFar": true
+    }
+  ],
+  "fun": [
+    {
+      "name": "Adventure Landing",
+      "distance": "0.3 mi",
+      "url": "https://www.google.com/maps/search/Adventure%20Landing+near+35.8206127%2C-78.5890508"
+    },
+    {
+      "name": "Sky Zone Trampoline Park",
+      "distance": "0.9 mi",
+      "url": "https://www.google.com/maps/search/Sky%20Zone%20Trampoline%20Park+near+35.8206127%2C-78.5890508"
+    },
+    {
+      "name": "Launch Family Entertainment Raleigh",
+      "distance": "2.0 mi",
+      "url": "https://www.google.com/maps/search/Launch%20Family%20Entertainment%20Raleigh+near+35.8206127%2C-78.5890508"
+    },
+    {
+      "name": "DEFY Raleigh",
+      "distance": "2.6 mi",
+      "url": "https://www.google.com/maps/search/DEFY%20Raleigh+near+35.8206127%2C-78.5890508"
+    },
+    {
+      "name": "Urban Air Trampoline and Adventure Park",
+      "distance": "3.2 mi",
+      "url": "https://www.google.com/maps/search/Urban%20Air%20Trampoline%20and%20Adventure%20Park+near+35.8206127%2C-78.5890508",
+      "isFar": true
+    },
+    {
+      "name": "All In Adventures Escape Rooms",
+      "distance": "3.3 mi",
+      "url": "https://www.google.com/maps/search/All%20In%20Adventures%20Escape%20Rooms+near+35.8206127%2C-78.5890508",
+      "isFar": true
+    },
+    {
+      "name": "Santa Town Experience North Hills",
+      "distance": "3.3 mi",
+      "url": "https://www.google.com/maps/search/Santa%20Town%20Experience%20North%20Hills+near+35.8206127%2C-78.5890508",
+      "isFar": true
+    }
+  ],
+  "hotels": [
+    {
+      "name": "Rosenberry Rooms",
+      "distance": "0.2 mi",
+      "url": "https://www.google.com/maps/search/Rosenberry%20Rooms+near+35.8206127%2C-78.5890508"
+    },
+    {
+      "name": "InTown Suites Extended Stay Raleigh NC - Capital Blvd",
+      "distance": "0.3 mi",
+      "url": "https://www.google.com/maps/search/InTown%20Suites%20Extended%20Stay%20Raleigh%20NC%20-%20Capital%20Blvd+near+35.8206127%2C-78.5890508"
+    },
+    {
+      "name": "Lake View Stylish Boho Studio Retreat",
+      "distance": "0.3 mi",
+      "url": "https://www.google.com/maps/search/Lake%20View%20Stylish%20Boho%20Studio%20Retreat+near+35.8206127%2C-78.5890508"
+    },
+    {
+      "name": "Downtown Raleigh Serene Haven",
+      "distance": "0.4 mi",
+      "url": "https://www.google.com/maps/search/Downtown%20Raleigh%20Serene%20Haven+near+35.8206127%2C-78.5890508"
+    },
+    {
+      "name": "Clarion Pointe Raleigh Midtown",
+      "distance": "0.4 mi",
+      "url": "https://www.google.com/maps/search/Clarion%20Pointe%20Raleigh%20Midtown+near+35.8206127%2C-78.5890508"
+    },
+    {
+      "name": "Suburban Studios Raleigh North",
+      "distance": "0.4 mi",
+      "url": "https://www.google.com/maps/search/Suburban%20Studios%20Raleigh%20North+near+35.8206127%2C-78.5890508"
+    },
+    {
+      "name": "Newly Renovated 3bd 2ba Home 9 MIN from Downtown",
+      "distance": "0.4 mi",
+      "url": "https://www.google.com/maps/search/Newly%20Renovated%203bd%202ba%20Home%209%20MIN%20from%20Downtown+near+35.8206127%2C-78.5890508"
+    }
+  ],
+  "gas": [
+    {
+      "name": "76",
+      "distance": "0.2 mi",
+      "url": "https://www.google.com/maps/search/76+near+35.8206127%2C-78.5890508"
+    },
+    {
+      "name": "Mobil",
+      "distance": "0.3 mi",
+      "url": "https://www.google.com/maps/search/Mobil+near+35.8206127%2C-78.5890508"
+    },
+    {
+      "name": "Valero",
+      "distance": "0.4 mi",
+      "url": "https://www.google.com/maps/search/Valero+near+35.8206127%2C-78.5890508"
+    },
+    {
+      "name": "Exxon",
+      "distance": "0.4 mi",
+      "url": "https://www.google.com/maps/search/Exxon+near+35.8206127%2C-78.5890508"
+    },
+    {
+      "name": "bp",
+      "distance": "0.6 mi",
+      "url": "https://www.google.com/maps/search/bp+near+35.8206127%2C-78.5890508"
+    }
+  ]
+}

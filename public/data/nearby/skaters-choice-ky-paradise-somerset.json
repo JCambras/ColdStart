@@ -1,0 +1,192 @@
+{
+  "quick_bite": [
+    {
+      "name": "Wing Street",
+      "distance": "0.3 mi",
+      "url": "https://www.google.com/maps/search/Wing%20Street+near+37.0540904%2C-84.6297611"
+    },
+    {
+      "name": "Taco Bell",
+      "distance": "0.3 mi",
+      "url": "https://www.google.com/maps/search/Taco%20Bell+near+37.0540904%2C-84.6297611"
+    },
+    {
+      "name": "Bob Evans",
+      "distance": "0.3 mi",
+      "url": "https://www.google.com/maps/search/Bob%20Evans+near+37.0540904%2C-84.6297611"
+    },
+    {
+      "name": "ZENSHI Handcrafted Sushi",
+      "distance": "0.3 mi",
+      "url": "https://www.google.com/maps/search/ZENSHI%20Handcrafted%20Sushi+near+37.0540904%2C-84.6297611"
+    },
+    {
+      "name": "Gold Star",
+      "distance": "0.4 mi",
+      "url": "https://www.google.com/maps/search/Gold%20Star+near+37.0540904%2C-84.6297611"
+    },
+    {
+      "name": "Cook Out",
+      "distance": "0.4 mi",
+      "url": "https://www.google.com/maps/search/Cook%20Out+near+37.0540904%2C-84.6297611"
+    },
+    {
+      "name": "Long John Silver's | A&W",
+      "distance": "0.4 mi",
+      "url": "https://www.google.com/maps/search/Long%20John%20Silver's%20%7C%20A%26W+near+37.0540904%2C-84.6297611"
+    }
+  ],
+  "coffee": [
+    {
+      "name": "Starbucks Coffee Company",
+      "distance": "0.3 mi",
+      "url": "https://www.google.com/maps/search/Starbucks%20Coffee%20Company+near+37.0540904%2C-84.6297611"
+    },
+    {
+      "name": "7 Brew Coffee",
+      "distance": "0.4 mi",
+      "url": "https://www.google.com/maps/search/7%20Brew%20Coffee+near+37.0540904%2C-84.6297611"
+    }
+  ],
+  "team_lunch": [
+    {
+      "name": "Frisch's Big Boy Restaurant",
+      "distance": "0.2 mi",
+      "url": "https://www.google.com/maps/search/Frisch's%20Big%20Boy%20Restaurant+near+37.0540904%2C-84.6297611"
+    },
+    {
+      "name": "Texas Roadhouse",
+      "distance": "0.3 mi",
+      "url": "https://www.google.com/maps/search/Texas%20Roadhouse+near+37.0540904%2C-84.6297611"
+    }
+  ],
+  "dinner": [
+    {
+      "name": "El Charro Mexican Restaurant",
+      "distance": "0.1 mi",
+      "url": "https://www.google.com/maps/search/El%20Charro%20Mexican%20Restaurant+near+37.0540904%2C-84.6297611"
+    },
+    {
+      "name": "The Honey Baked Ham Company",
+      "distance": "0.1 mi",
+      "url": "https://www.google.com/maps/search/The%20Honey%20Baked%20Ham%20Company+near+37.0540904%2C-84.6297611"
+    },
+    {
+      "name": "Kroger Bakery",
+      "distance": "0.3 mi",
+      "url": "https://www.google.com/maps/search/Kroger%20Bakery+near+37.0540904%2C-84.6297611"
+    },
+    {
+      "name": "Mellow Mushroom Somerset",
+      "distance": "0.3 mi",
+      "url": "https://www.google.com/maps/search/Mellow%20Mushroom%20Somerset+near+37.0540904%2C-84.6297611"
+    },
+    {
+      "name": "Fazoli's",
+      "distance": "0.4 mi",
+      "url": "https://www.google.com/maps/search/Fazoli's+near+37.0540904%2C-84.6297611"
+    },
+    {
+      "name": "Go Panda",
+      "distance": "0.7 mi",
+      "url": "https://www.google.com/maps/search/Go%20Panda+near+37.0540904%2C-84.6297611"
+    },
+    {
+      "name": "El mezcal mexican grill restaurant y taqueria",
+      "distance": "0.7 mi",
+      "url": "https://www.google.com/maps/search/El%20mezcal%20mexican%20grill%20restaurant%20y%20taqueria+near+37.0540904%2C-84.6297611"
+    }
+  ],
+  "bowling": [
+    {
+      "name": "Pulaski Bowl Inc",
+      "distance": "1.8 mi",
+      "url": "https://www.google.com/maps/search/Pulaski%20Bowl%20Inc+near+37.0540904%2C-84.6297611"
+    },
+    {
+      "name": "Briar Bowl Lanes",
+      "distance": "1.8 mi",
+      "url": "https://www.google.com/maps/search/Briar%20Bowl%20Lanes+near+37.0540904%2C-84.6297611"
+    }
+  ],
+  "arcade": [],
+  "movies": [
+    {
+      "name": "Somerset Cinemas 8",
+      "distance": "1.1 mi",
+      "url": "https://www.google.com/maps/search/Somerset%20Cinemas%208+near+37.0540904%2C-84.6297611"
+    }
+  ],
+  "fun": [
+    {
+      "name": "SomerSplash Waterpark",
+      "distance": "4.2 mi",
+      "url": "https://www.google.com/maps/search/SomerSplash%20Waterpark+near+37.0540904%2C-84.6297611",
+      "isFar": true
+    }
+  ],
+  "hotels": [
+    {
+      "name": "US Forestry Department",
+      "distance": "0.4 mi",
+      "url": "https://www.google.com/maps/search/US%20Forestry%20Department+near+37.0540904%2C-84.6297611"
+    },
+    {
+      "name": "Live",
+      "distance": "0.7 mi",
+      "url": "https://www.google.com/maps/search/Live+near+37.0540904%2C-84.6297611"
+    },
+    {
+      "name": "Courtyard by Marriott Somerset",
+      "distance": "0.8 mi",
+      "url": "https://www.google.com/maps/search/Courtyard%20by%20Marriott%20Somerset+near+37.0540904%2C-84.6297611"
+    },
+    {
+      "name": "Pool, Tennis Court & Billiards! - Oak Hill House",
+      "distance": "0.9 mi",
+      "url": "https://www.google.com/maps/search/Pool%2C%20Tennis%20Court%20%26%20Billiards!%20-%20Oak%20Hill%20House+near+37.0540904%2C-84.6297611"
+    },
+    {
+      "name": "Pool, Tennis Court & Billiards! Oak Hill Property",
+      "distance": "0.9 mi",
+      "url": "https://www.google.com/maps/search/Pool%2C%20Tennis%20Court%20%26%20Billiards!%20Oak%20Hill%20Property+near+37.0540904%2C-84.6297611"
+    },
+    {
+      "name": "Best Western Somerset",
+      "distance": "0.9 mi",
+      "url": "https://www.google.com/maps/search/Best%20Western%20Somerset+near+37.0540904%2C-84.6297611"
+    },
+    {
+      "name": "Home2 Suites by Hilton Somerset, KY",
+      "distance": "0.9 mi",
+      "url": "https://www.google.com/maps/search/Home2%20Suites%20by%20Hilton%20Somerset%2C%20KY+near+37.0540904%2C-84.6297611"
+    }
+  ],
+  "gas": [
+    {
+      "name": "Midland Farms",
+      "distance": "0.3 mi",
+      "url": "https://www.google.com/maps/search/Midland%20Farms+near+37.0540904%2C-84.6297611"
+    },
+    {
+      "name": "Kroger Fuel Center",
+      "distance": "0.4 mi",
+      "url": "https://www.google.com/maps/search/Kroger%20Fuel%20Center+near+37.0540904%2C-84.6297611"
+    },
+    {
+      "name": "Shell",
+      "distance": "0.9 mi",
+      "url": "https://www.google.com/maps/search/Shell+near+37.0540904%2C-84.6297611"
+    },
+    {
+      "name": "Midland Farms",
+      "distance": "0.9 mi",
+      "url": "https://www.google.com/maps/search/Midland%20Farms+near+37.0540904%2C-84.6297611"
+    },
+    {
+      "name": "CRC",
+      "distance": "0.9 mi",
+      "url": "https://www.google.com/maps/search/CRC+near+37.0540904%2C-84.6297611"
+    }
+  ]
+}

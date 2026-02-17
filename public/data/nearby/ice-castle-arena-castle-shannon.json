@@ -1,0 +1,181 @@
+{
+  "quick_bite": [
+    {
+      "name": "Arby's",
+      "distance": "0.4 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Arby's&query_place_id=ChIJg0waqeL5NIgR7J14RXplQf8&center=40.364962299999995,-80.02031970000002"
+    },
+    {
+      "name": "The Pizza Company",
+      "distance": "0.4 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=The%20Pizza%20Company&query_place_id=ChIJjwQqL-f5NIgR6ONug-c5DAA&center=40.3607681,-80.02839279999999"
+    },
+    {
+      "name": "Castle Place Chinese Restaurant",
+      "distance": "0.5 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Castle%20Place%20Chinese%20Restaurant&query_place_id=ChIJO9iBCGH3NIgRfQnKIVCJiAU&center=40.36958,-80.03479999999999"
+    },
+    {
+      "name": "Subway",
+      "distance": "0.5 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Subway&query_place_id=ChIJJV5fr2H3NIgRI4NlIg-nLrc&center=40.36855,-80.0354089"
+    }
+  ],
+  "coffee": [
+    {
+      "name": "Anthos Bakery & Café",
+      "distance": "0.1 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Anthos%20Bakery%20%26%20Caf%C3%A9&query_place_id=ChIJ5xhri2f5NIgRSMOI7aN1eP0&center=40.3655751,-80.0251372"
+    },
+    {
+      "name": "Coffee, Etc.",
+      "distance": "0.2 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Coffee%2C%20Etc.&query_place_id=ChIJh0zrnVj3NIgRo1VRUV8jMdI&center=40.365674999999996,-80.0237861"
+    },
+    {
+      "name": "Cafe Americano",
+      "distance": "0.5 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Cafe%20Americano&query_place_id=ChIJI5fsJNH3NIgRomporJpObbs&center=40.3687553,-80.0352291"
+    }
+  ],
+  "team_lunch": [
+    {
+      "name": "Potomac Bakery",
+      "distance": "0.4 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Potomac%20Bakery&query_place_id=ChIJt7rD2Hb3NIgRyck1a4xkLEE&center=40.3688211,-80.03419319999999"
+    },
+    {
+      "name": "Asian Garden",
+      "distance": "0.5 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Asian%20Garden&query_place_id=ChIJYw_QD-f5NIgR3_5u5U51FgU&center=40.3596684,-80.0291803"
+    },
+    {
+      "name": "Giant Eagle Bakery",
+      "distance": "1.4 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Giant%20Eagle%20Bakery&query_place_id=ChIJDdISEwT6NIgRkGBYnblQ36E&center=40.357258699999996,-80.0025185"
+    },
+    {
+      "name": "Fresh Market Bakery",
+      "distance": "1.4 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Fresh%20Market%20Bakery&query_place_id=ChIJnz8KdgD5NIgREuA1dV1gwQU&center=40.3546638,-80.0493439"
+    }
+  ],
+  "dinner": [
+    {
+      "name": "Kabob-G Grill",
+      "distance": "0.1 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Kabob-G%20Grill&query_place_id=ChIJQ3pW_-H5NIgRKogaZamp0Js&center=40.365533,-80.0255935"
+    },
+    {
+      "name": "Willow Station Restaurant and Bar",
+      "distance": "0.1 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Willow%20Station%20Restaurant%20and%20Bar&query_place_id=ChIJ1_rslmT5NIgR30HWzTto7iE&center=40.365113,-80.0261797"
+    },
+    {
+      "name": "Balena Bagels",
+      "distance": "0.1 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Balena%20Bagels&query_place_id=ChIJBwm6BwD5NIgRpnKxhIddhlo&center=40.365681599999995,-80.0251976"
+    },
+    {
+      "name": "Yianni's Diner",
+      "distance": "0.1 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Yianni's%20Diner&query_place_id=ChIJ88N1DR35NIgRt25pIYsDQ6U&center=40.3655401,-80.0243455"
+    },
+    {
+      "name": "Asian Cafe",
+      "distance": "0.4 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Asian%20Cafe&query_place_id=ChIJpeH68GD3NIgRpaYQDuOqCwM&center=40.369156700000005,-80.0331788"
+    },
+    {
+      "name": "Pho Kim 88",
+      "distance": "0.4 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Pho%20Kim%2088&query_place_id=ChIJw57aL-f5NIgRCntD0eQwypM&center=40.3605872,-80.0291319"
+    }
+  ],
+  "bowling": [
+    {
+      "name": "Princess Lanes Bowling Center",
+      "distance": "1.5 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Princess%20Lanes%20Bowling%20Center&query_place_id=ChIJSV4liQb6NIgRE8wZLVgDxME&center=40.359384999999996,-80.0009233"
+    },
+    {
+      "name": "AMF Mt. Lebanon Lanes",
+      "distance": "1.5 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=AMF%20Mt.%20Lebanon%20Lanes&query_place_id=ChIJ_QOhFMz5NIgRZsTsRn2HTZI&center=40.35383960000001,-80.0493273"
+    },
+    {
+      "name": "Legacy Lanes",
+      "distance": "2.0 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Legacy%20Lanes&query_place_id=ChIJURvYjxD6NIgRYsDFYYhPeTs&center=40.349941199999996,-79.9963607"
+    }
+  ],
+  "arcade": [],
+  "movies": [
+    {
+      "name": "Denis Theatre",
+      "distance": "1.3 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Denis%20Theatre&query_place_id=ChIJG687unH3NIgRdx3VNV_Zm9k&center=40.3809223,-80.0439145"
+    },
+    {
+      "name": "AMC CLASSIC Mount Lebanon 6",
+      "distance": "1.5 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=AMC%20CLASSIC%20Mount%20Lebanon%206&query_place_id=ChIJVVVVac35NIgRumdqkdKC1hQ&center=40.3572442,-80.05227099999999"
+    },
+    {
+      "name": "Row House Cinemas - Hollywood",
+      "distance": "2.1 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Row%20House%20Cinemas%20-%20Hollywood&query_place_id=ChIJNxal0TT3NIgROcIXSY1hzqE&center=40.396105999999996,-80.0353757"
+    }
+  ],
+  "fun": [
+    {
+      "name": "Woody Crest Christmas Lights Show",
+      "distance": "1.7 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Woody%20Crest%20Christmas%20Lights%20Show&query_place_id=ChIJC1ZfcgDxNIgRTPzDPJNyFVY&center=40.3738168,-79.9961016"
+    },
+    {
+      "name": "Bethel Park Splash Park",
+      "distance": "2.6 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Bethel%20Park%20Splash%20Park&query_place_id=ChIJyWAHSwD5NIgRa6dP5y_18F4&center=40.3293518,-80.02811419999999"
+    },
+    {
+      "name": "Former home of Nathan Couch",
+      "distance": "2.8 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Former%20home%20of%20Nathan%20Couch&query_place_id=ChIJ49JjWgD5NIgR9IuuNPJGLHA&center=40.3317379,-80.0555117"
+    },
+    {
+      "name": "Steepest Street in the US",
+      "distance": "3.0 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Steepest%20Street%20in%20the%20US&query_place_id=ChIJ8-y_rVf3NIgRTX9GcEKdqA4&center=40.409732,-80.03009440000001"
+    }
+  ],
+  "hotels": [
+    {
+      "name": "The Whitmore by Luxe PGH",
+      "distance": "0.6 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=The%20Whitmore%20by%20Luxe%20PGH&query_place_id=ChIJJc3RTNn5NIgRIIfazEE2EvQ&center=40.3625297,-80.0367584"
+    }
+  ],
+  "gas": [
+    {
+      "name": "Shell",
+      "distance": "0.4 mi",
+      "url": "https://www.google.com/maps/search/Shell+near+40.366442%2C-80.026876"
+    },
+    {
+      "name": "Sunoco Gas Station",
+      "distance": "0.4 mi",
+      "url": "https://www.google.com/maps/search/Sunoco%20Gas%20Station+near+40.366442%2C-80.026876"
+    },
+    {
+      "name": "Marathon",
+      "distance": "0.6 mi",
+      "url": "https://www.google.com/maps/search/Marathon+near+40.366442%2C-80.026876"
+    },
+    {
+      "name": "Sunoco",
+      "distance": "0.7 mi",
+      "url": "https://www.google.com/maps/search/Sunoco+near+40.366442%2C-80.026876"
+    }
+  ]
+}

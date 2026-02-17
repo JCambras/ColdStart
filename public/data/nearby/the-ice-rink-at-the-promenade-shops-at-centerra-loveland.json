@@ -1,0 +1,200 @@
+{
+  "quick_bite": [
+    {
+      "name": "Red Robin Gourmet Burgers and Brews",
+      "distance": "0.2 mi",
+      "url": "https://www.google.com/maps/search/Red%20Robin%20Gourmet%20Burgers%20and%20Brews+near+40.4155622%2C-104.9891385"
+    },
+    {
+      "name": "Twisted Tenders",
+      "distance": "0.2 mi",
+      "url": "https://www.google.com/maps/search/Twisted%20Tenders+near+40.4155622%2C-104.9891385"
+    },
+    {
+      "name": "P.F. Chang's",
+      "distance": "0.3 mi",
+      "url": "https://www.google.com/maps/search/P.F.%20Chang's+near+40.4155622%2C-104.9891385"
+    },
+    {
+      "name": "Cracker Barrel Old Country Store",
+      "distance": "0.4 mi",
+      "url": "https://www.google.com/maps/search/Cracker%20Barrel%20Old%20Country%20Store+near+40.4155622%2C-104.9891385"
+    },
+    {
+      "name": "QDOBA Mexican Eats",
+      "distance": "0.7 mi",
+      "url": "https://www.google.com/maps/search/QDOBA%20Mexican%20Eats+near+40.4155622%2C-104.9891385"
+    }
+  ],
+  "coffee": [
+    {
+      "name": "Avery's Modern Teahouse",
+      "distance": "0.4 mi",
+      "url": "https://www.google.com/maps/search/Avery's%20Modern%20Teahouse+near+40.4155622%2C-104.9891385"
+    },
+    {
+      "name": "Fresh Plate Catering and Cafe",
+      "distance": "0.6 mi",
+      "url": "https://www.google.com/maps/search/Fresh%20Plate%20Catering%20and%20Cafe+near+40.4155622%2C-104.9891385"
+    }
+  ],
+  "team_lunch": [
+    {
+      "name": "American Grilled Cheese Company",
+      "distance": "0.2 mi",
+      "url": "https://www.google.com/maps/search/American%20Grilled%20Cheese%20Company+near+40.4155622%2C-104.9891385"
+    },
+    {
+      "name": "IHOP",
+      "distance": "0.7 mi",
+      "url": "https://www.google.com/maps/search/IHOP+near+40.4155622%2C-104.9891385"
+    }
+  ],
+  "dinner": [
+    {
+      "name": "Anchor Bar",
+      "distance": "0.1 mi",
+      "url": "https://www.google.com/maps/search/Anchor%20Bar+near+40.4155622%2C-104.9891385"
+    },
+    {
+      "name": "Cafe Athens",
+      "distance": "0.1 mi",
+      "url": "https://www.google.com/maps/search/Cafe%20Athens+near+40.4155622%2C-104.9891385"
+    },
+    {
+      "name": "Biaggi's Ristorante Italiano",
+      "distance": "0.2 mi",
+      "url": "https://www.google.com/maps/search/Biaggi's%20Ristorante%20Italiano+near+40.4155622%2C-104.9891385"
+    },
+    {
+      "name": "Belly Buster Sushi",
+      "distance": "0.2 mi",
+      "url": "https://www.google.com/maps/search/Belly%20Buster%20Sushi+near+40.4155622%2C-104.9891385"
+    },
+    {
+      "name": "Mary's Mountain Cookies",
+      "distance": "0.2 mi",
+      "url": "https://www.google.com/maps/search/Mary's%20Mountain%20Cookies+near+40.4155622%2C-104.9891385"
+    },
+    {
+      "name": "Cinnamon's Bakery Loveland Yards",
+      "distance": "0.4 mi",
+      "url": "https://www.google.com/maps/search/Cinnamon's%20Bakery%20Loveland%20Yards+near+40.4155622%2C-104.9891385"
+    },
+    {
+      "name": "Driven Steakhouse",
+      "distance": "0.5 mi",
+      "url": "https://www.google.com/maps/search/Driven%20Steakhouse+near+40.4155622%2C-104.9891385"
+    }
+  ],
+  "bowling": [
+    {
+      "name": "Main Event Windsor",
+      "distance": "1.6 mi",
+      "url": "https://www.google.com/maps/search/Main%20Event%20Windsor+near+40.4155622%2C-104.9891385"
+    },
+    {
+      "name": "Sweetheart 10 Pin Bowling",
+      "distance": "4.4 mi",
+      "url": "https://www.google.com/maps/search/Sweetheart%2010%20Pin%20Bowling+near+40.4155622%2C-104.9891385",
+      "isFar": true
+    }
+  ],
+  "arcade": [],
+  "movies": [
+    {
+      "name": "Metropolitan MetroLux 12 Theatres + IMAX @ The Promenade Shops at Centerra",
+      "distance": "0.3 mi",
+      "url": "https://www.google.com/maps/search/Metropolitan%20MetroLux%2012%20Theatres%20%2B%20IMAX%20%40%20The%20Promenade%20Shops%20at%20Centerra+near+40.4155622%2C-104.9891385"
+    },
+    {
+      "name": "Metropolitan MetroLux Dine-In Theatres",
+      "distance": "4.7 mi",
+      "url": "https://www.google.com/maps/search/Metropolitan%20MetroLux%20Dine-In%20Theatres+near+40.4155622%2C-104.9891385",
+      "isFar": true
+    }
+  ],
+  "fun": [
+    {
+      "name": "Jumpin'",
+      "distance": "0.2 mi",
+      "url": "https://www.google.com/maps/search/Jumpin'+near+40.4155622%2C-104.9891385"
+    },
+    {
+      "name": "Time Emporium Escape Rooms: Loveland",
+      "distance": "3.3 mi",
+      "url": "https://www.google.com/maps/search/Time%20Emporium%20Escape%20Rooms%3A%20Loveland+near+40.4155622%2C-104.9891385",
+      "isFar": true
+    },
+    {
+      "name": "Knightly Escapes",
+      "distance": "4.8 mi",
+      "url": "https://www.google.com/maps/search/Knightly%20Escapes+near+40.4155622%2C-104.9891385",
+      "isFar": true
+    }
+  ],
+  "hotels": [
+    {
+      "name": "Best Mountain View home right next to Blue Arena, Centerra, MCR, Embassy Suites",
+      "distance": "0.2 mi",
+      "url": "https://www.google.com/maps/search/Best%20Mountain%20View%20home%20right%20next%20to%20Blue%20Arena%2C%20Centerra%2C%20MCR%2C%20Embassy%20Suites+near+40.4155622%2C-104.9891385"
+    },
+    {
+      "name": "Courtyard by Marriott Loveland Fort Collins",
+      "distance": "0.4 mi",
+      "url": "https://www.google.com/maps/search/Courtyard%20by%20Marriott%20Loveland%20Fort%20Collins+near+40.4155622%2C-104.9891385"
+    },
+    {
+      "name": "Fairfield by Marriott Inn & Suites Loveland Fort Collins",
+      "distance": "0.6 mi",
+      "url": "https://www.google.com/maps/search/Fairfield%20by%20Marriott%20Inn%20%26%20Suites%20Loveland%20Fort%20Collins+near+40.4155622%2C-104.9891385"
+    },
+    {
+      "name": "Residence Inn by Marriott Loveland Fort Collins",
+      "distance": "0.7 mi",
+      "url": "https://www.google.com/maps/search/Residence%20Inn%20by%20Marriott%20Loveland%20Fort%20Collins+near+40.4155622%2C-104.9891385"
+    },
+    {
+      "name": "Hampton Inn Loveland",
+      "distance": "0.7 mi",
+      "url": "https://www.google.com/maps/search/Hampton%20Inn%20Loveland+near+40.4155622%2C-104.9891385"
+    },
+    {
+      "name": "Best Western Plus Loveland Inn",
+      "distance": "0.7 mi",
+      "url": "https://www.google.com/maps/search/Best%20Western%20Plus%20Loveland%20Inn+near+40.4155622%2C-104.9891385"
+    },
+    {
+      "name": "Comfort Suites Loveland",
+      "distance": "0.9 mi",
+      "url": "https://www.google.com/maps/search/Comfort%20Suites%20Loveland+near+40.4155622%2C-104.9891385"
+    }
+  ],
+  "gas": [
+    {
+      "name": "Conoco",
+      "distance": "0.6 mi",
+      "url": "https://www.google.com/maps/search/Conoco+near+40.4155622%2C-104.9891385"
+    },
+    {
+      "name": "Conoco",
+      "distance": "0.7 mi",
+      "url": "https://www.google.com/maps/search/Conoco+near+40.4155622%2C-104.9891385"
+    },
+    {
+      "name": "Shell",
+      "distance": "1.0 mi",
+      "url": "https://www.google.com/maps/search/Shell+near+40.4155622%2C-104.9891385"
+    },
+    {
+      "name": "Exxon",
+      "distance": "1.0 mi",
+      "url": "https://www.google.com/maps/search/Exxon+near+40.4155622%2C-104.9891385"
+    },
+    {
+      "name": "Maverik",
+      "distance": "1.4 mi",
+      "url": "https://www.google.com/maps/search/Maverik+near+40.4155622%2C-104.9891385"
+    }
+  ]
+}

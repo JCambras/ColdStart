@@ -1,0 +1,185 @@
+{
+  "quick_bite": [
+    {
+      "name": "Buffalo Wild Wings",
+      "distance": "0.2 mi",
+      "url": "https://www.google.com/maps/search/Buffalo%20Wild%20Wings+near+39.3237768%2C-82.1022406"
+    },
+    {
+      "name": "Raising Cane's Chicken Fingers",
+      "distance": "0.3 mi",
+      "url": "https://www.google.com/maps/search/Raising%20Cane's%20Chicken%20Fingers+near+39.3237768%2C-82.1022406"
+    },
+    {
+      "name": "Chipotle Mexican Grill",
+      "distance": "0.3 mi",
+      "url": "https://www.google.com/maps/search/Chipotle%20Mexican%20Grill+near+39.3237768%2C-82.1022406"
+    },
+    {
+      "name": "Ginger Asian Kitchen",
+      "distance": "0.3 mi",
+      "url": "https://www.google.com/maps/search/Ginger%20Asian%20Kitchen+near+39.3237768%2C-82.1022406"
+    }
+  ],
+  "coffee": [
+    {
+      "name": "The Front Room Coffeehouse",
+      "distance": "0.1 mi",
+      "url": "https://www.google.com/maps/search/The%20Front%20Room%20Coffeehouse+near+39.3237768%2C-82.1022406"
+    },
+    {
+      "name": "Café BiblioTech",
+      "distance": "0.1 mi",
+      "url": "https://www.google.com/maps/search/Caf%C3%A9%20BiblioTech+near+39.3237768%2C-82.1022406"
+    },
+    {
+      "name": "Court Street Coffee",
+      "distance": "0.2 mi",
+      "url": "https://www.google.com/maps/search/Court%20Street%20Coffee+near+39.3237768%2C-82.1022406"
+    },
+    {
+      "name": "Starbucks",
+      "distance": "0.3 mi",
+      "url": "https://www.google.com/maps/search/Starbucks+near+39.3237768%2C-82.1022406"
+    },
+    {
+      "name": "Brenen's Cafe",
+      "distance": "0.3 mi",
+      "url": "https://www.google.com/maps/search/Brenen's%20Cafe+near+39.3237768%2C-82.1022406"
+    }
+  ],
+  "team_lunch": [
+    {
+      "name": "Atrium Cafe",
+      "distance": "0.1 mi",
+      "url": "https://www.google.com/maps/search/Atrium%20Cafe+near+39.3237768%2C-82.1022406"
+    },
+    {
+      "name": "Latitude 39",
+      "distance": "0.1 mi",
+      "url": "https://www.google.com/maps/search/Latitude%2039+near+39.3237768%2C-82.1022406"
+    },
+    {
+      "name": "West 82 Food Court",
+      "distance": "0.1 mi",
+      "url": "https://www.google.com/maps/search/West%2082%20Food%20Court+near+39.3237768%2C-82.1022406"
+    },
+    {
+      "name": "Fusion Noodle Company",
+      "distance": "0.3 mi",
+      "url": "https://www.google.com/maps/search/Fusion%20Noodle%20Company+near+39.3237768%2C-82.1022406"
+    },
+    {
+      "name": "Earl's Coop",
+      "distance": "0.3 mi",
+      "url": "https://www.google.com/maps/search/Earl's%20Coop+near+39.3237768%2C-82.1022406"
+    }
+  ],
+  "dinner": [
+    {
+      "name": "GoodFella's Pizza",
+      "distance": "0.3 mi",
+      "url": "https://www.google.com/maps/search/GoodFella's%20Pizza+near+39.3237768%2C-82.1022406"
+    },
+    {
+      "name": "Jackie O's Brewpub",
+      "distance": "0.3 mi",
+      "url": "https://www.google.com/maps/search/Jackie%20O's%20Brewpub+near+39.3237768%2C-82.1022406"
+    },
+    {
+      "name": "Jackie O's Public House Restaurant",
+      "distance": "0.3 mi",
+      "url": "https://www.google.com/maps/search/Jackie%20O's%20Public%20House%20Restaurant+near+39.3237768%2C-82.1022406"
+    },
+    {
+      "name": "Bagel Street Deli",
+      "distance": "0.3 mi",
+      "url": "https://www.google.com/maps/search/Bagel%20Street%20Deli+near+39.3237768%2C-82.1022406"
+    },
+    {
+      "name": "Union Street Diner",
+      "distance": "0.3 mi",
+      "url": "https://www.google.com/maps/search/Union%20Street%20Diner+near+39.3237768%2C-82.1022406"
+    }
+  ],
+  "bowling": [],
+  "arcade": [],
+  "movies": [
+    {
+      "name": "The Athena Cinema",
+      "distance": "0.3 mi",
+      "url": "https://www.google.com/maps/search/The%20Athena%20Cinema+near+39.3237768%2C-82.1022406"
+    },
+    {
+      "name": "Movies 10 - Fun Barn",
+      "distance": "7.6 mi",
+      "url": "https://www.google.com/maps/search/Movies%2010%20-%20Fun%20Barn+near+39.3237768%2C-82.1022406",
+      "isFar": true
+    }
+  ],
+  "fun": [],
+  "hotels": [
+    {
+      "name": "Pilcher House BNB",
+      "distance": "0.3 mi",
+      "url": "https://www.google.com/maps/search/Pilcher%20House%20BNB+near+39.3237768%2C-82.1022406"
+    },
+    {
+      "name": "Wooded Scenic & Modern Home Near Campus",
+      "distance": "0.3 mi",
+      "url": "https://www.google.com/maps/search/Wooded%20Scenic%20%26%20Modern%20Home%20Near%20Campus+near+39.3237768%2C-82.1022406"
+    },
+    {
+      "name": "Chi Omega House",
+      "distance": "0.4 mi",
+      "url": "https://www.google.com/maps/search/Chi%20Omega%20House+near+39.3237768%2C-82.1022406"
+    },
+    {
+      "name": "Athenian Apartment-Uptown:1 block to Court Street & 2 blocks to College Green.",
+      "distance": "0.4 mi",
+      "url": "https://www.google.com/maps/search/Athenian%20Apartment-Uptown%3A1%20block%20to%20Court%20Street%20%26%202%20blocks%20to%20College%20Green.+near+39.3237768%2C-82.1022406"
+    },
+    {
+      "name": "Ohio University Inn and Conference Center",
+      "distance": "0.5 mi",
+      "url": "https://www.google.com/maps/search/Ohio%20University%20Inn%20and%20Conference%20Center+near+39.3237768%2C-82.1022406"
+    },
+    {
+      "name": "Athenian Apartment-Uptown:1 block to Court Street 2 blocks to College Green.",
+      "distance": "0.6 mi",
+      "url": "https://www.google.com/maps/search/Athenian%20Apartment-Uptown%3A1%20block%20to%20Court%20Street%202%20blocks%20to%20College%20Green.+near+39.3237768%2C-82.1022406"
+    },
+    {
+      "name": "Newly Renovated Wooded Oasis Near OU's Campus in Athens",
+      "distance": "0.6 mi",
+      "url": "https://www.google.com/maps/search/Newly%20Renovated%20Wooded%20Oasis%20Near%20OU's%20Campus%20in%20Athens+near+39.3237768%2C-82.1022406"
+    }
+  ],
+  "gas": [
+    {
+      "name": "Sunoco",
+      "distance": "0.5 mi",
+      "url": "https://www.google.com/maps/search/Sunoco+near+39.3237768%2C-82.1022406"
+    },
+    {
+      "name": "54",
+      "distance": "0.5 mi",
+      "url": "https://www.google.com/maps/search/54+near+39.3237768%2C-82.1022406"
+    },
+    {
+      "name": "Marathon Gas",
+      "distance": "0.7 mi",
+      "url": "https://www.google.com/maps/search/Marathon%20Gas+near+39.3237768%2C-82.1022406"
+    },
+    {
+      "name": "Speedway",
+      "distance": "0.7 mi",
+      "url": "https://www.google.com/maps/search/Speedway+near+39.3237768%2C-82.1022406"
+    },
+    {
+      "name": "Shop-Mart",
+      "distance": "0.8 mi",
+      "url": "https://www.google.com/maps/search/Shop-Mart+near+39.3237768%2C-82.1022406"
+    }
+  ]
+}

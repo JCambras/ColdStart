@@ -1,0 +1,205 @@
+{
+  "quick_bite": [
+    {
+      "name": "Nu-Way Weiners",
+      "distance": "0.6 mi",
+      "url": "https://www.google.com/maps/search/Nu-Way%20Weiners+near+32.8420898%2C-83.6193803"
+    },
+    {
+      "name": "Waffle House",
+      "distance": "0.6 mi",
+      "url": "https://www.google.com/maps/search/Waffle%20House+near+32.8420898%2C-83.6193803"
+    },
+    {
+      "name": "Burger King",
+      "distance": "0.6 mi",
+      "url": "https://www.google.com/maps/search/Burger%20King+near+32.8420898%2C-83.6193803"
+    },
+    {
+      "name": "Krispy Krunchy Chicken",
+      "distance": "0.6 mi",
+      "url": "https://www.google.com/maps/search/Krispy%20Krunchy%20Chicken+near+32.8420898%2C-83.6193803"
+    },
+    {
+      "name": "JJ Fish & Chicken",
+      "distance": "0.6 mi",
+      "url": "https://www.google.com/maps/search/JJ%20Fish%20%26%20Chicken+near+32.8420898%2C-83.6193803"
+    }
+  ],
+  "coffee": [
+    {
+      "name": "Z Beans Coffee - Piedmont Hospital",
+      "distance": "0.4 mi",
+      "url": "https://www.google.com/maps/search/Z%20Beans%20Coffee%20-%20Piedmont%20Hospital+near+32.8420898%2C-83.6193803"
+    },
+    {
+      "name": "The Mule Barn LLC",
+      "distance": "0.6 mi",
+      "url": "https://www.google.com/maps/search/The%20Mule%20Barn%20LLC+near+32.8420898%2C-83.6193803"
+    }
+  ],
+  "team_lunch": [
+    {
+      "name": "Vintage Restaurant - Marriott Macon",
+      "distance": "0.1 mi",
+      "url": "https://www.google.com/maps/search/Vintage%20Restaurant%20-%20Marriott%20Macon+near+32.8420898%2C-83.6193803"
+    },
+    {
+      "name": "Hunt Brothers Pizza",
+      "distance": "0.3 mi",
+      "url": "https://www.google.com/maps/search/Hunt%20Brothers%20Pizza+near+32.8420898%2C-83.6193803"
+    },
+    {
+      "name": "Hunt Brothers Pizza",
+      "distance": "0.6 mi",
+      "url": "https://www.google.com/maps/search/Hunt%20Brothers%20Pizza+near+32.8420898%2C-83.6193803"
+    },
+    {
+      "name": "El Sombrero Mexican Restaurant",
+      "distance": "0.6 mi",
+      "url": "https://www.google.com/maps/search/El%20Sombrero%20Mexican%20Restaurant+near+32.8420898%2C-83.6193803"
+    },
+    {
+      "name": "J. Reid's Tavern",
+      "distance": "0.6 mi",
+      "url": "https://www.google.com/maps/search/J.%20Reid's%20Tavern+near+32.8420898%2C-83.6193803"
+    }
+  ],
+  "dinner": [
+    {
+      "name": "LisaMae Cakes",
+      "distance": "0.3 mi",
+      "url": "https://www.google.com/maps/search/LisaMae%20Cakes+near+32.8420898%2C-83.6193803"
+    },
+    {
+      "name": "Satterfields BBQ",
+      "distance": "0.6 mi",
+      "url": "https://www.google.com/maps/search/Satterfields%20BBQ+near+32.8420898%2C-83.6193803"
+    },
+    {
+      "name": "La Bella Morelia",
+      "distance": "0.6 mi",
+      "url": "https://www.google.com/maps/search/La%20Bella%20Morelia+near+32.8420898%2C-83.6193803"
+    },
+    {
+      "name": "The Flying Biscuit Cafe",
+      "distance": "0.6 mi",
+      "url": "https://www.google.com/maps/search/The%20Flying%20Biscuit%20Cafe+near+32.8420898%2C-83.6193803"
+    },
+    {
+      "name": "Gangnam Grill",
+      "distance": "0.6 mi",
+      "url": "https://www.google.com/maps/search/Gangnam%20Grill+near+32.8420898%2C-83.6193803"
+    },
+    {
+      "name": "Tzango",
+      "distance": "0.6 mi",
+      "url": "https://www.google.com/maps/search/Tzango+near+32.8420898%2C-83.6193803"
+    },
+    {
+      "name": "Downtown Grill",
+      "distance": "0.6 mi",
+      "url": "https://www.google.com/maps/search/Downtown%20Grill+near+32.8420898%2C-83.6193803"
+    }
+  ],
+  "bowling": [
+    {
+      "name": "The Social Duck",
+      "distance": "0.7 mi",
+      "url": "https://www.google.com/maps/search/The%20Social%20Duck+near+32.8420898%2C-83.6193803"
+    },
+    {
+      "name": "Pin Strikes Macon",
+      "distance": "6.7 mi",
+      "url": "https://www.google.com/maps/search/Pin%20Strikes%20Macon+near+32.8420898%2C-83.6193803",
+      "isFar": true
+    }
+  ],
+  "arcade": [],
+  "movies": [
+    {
+      "name": "AmStar Macon by Santikos",
+      "distance": "8.7 mi",
+      "url": "https://www.google.com/maps/search/AmStar%20Macon%20by%20Santikos+near+32.8420898%2C-83.6193803",
+      "isFar": true
+    }
+  ],
+  "fun": [
+    {
+      "name": "Lady Luck",
+      "distance": "3.5 mi",
+      "url": "https://www.google.com/maps/search/Lady%20Luck+near+32.8420898%2C-83.6193803",
+      "isFar": true
+    },
+    {
+      "name": "Urban Air Trampoline and Adventure Park",
+      "distance": "5.8 mi",
+      "url": "https://www.google.com/maps/search/Urban%20Air%20Trampoline%20and%20Adventure%20Park+near+32.8420898%2C-83.6193803",
+      "isFar": true
+    }
+  ],
+  "hotels": [
+    {
+      "name": "Macon Marriott City Center",
+      "distance": "0.1 mi",
+      "url": "https://www.google.com/maps/search/Macon%20Marriott%20City%20Center+near+32.8420898%2C-83.6193803"
+    },
+    {
+      "name": "Stylishly Retreat with Furnishing",
+      "distance": "0.3 mi",
+      "url": "https://www.google.com/maps/search/Stylishly%20Retreat%20with%20Furnishing+near+32.8420898%2C-83.6193803"
+    },
+    {
+      "name": "Pleasant 2-bedroom house with AC in Macon. Only 2 blocks from piedmont hospital.",
+      "distance": "0.4 mi",
+      "url": "https://www.google.com/maps/search/Pleasant%202-bedroom%20house%20with%20AC%20in%20Macon.%20Only%202%20blocks%20from%20piedmont%20hospital.+near+32.8420898%2C-83.6193803"
+    },
+    {
+      "name": "Riverview Hotel & Event Center",
+      "distance": "0.4 mi",
+      "url": "https://www.google.com/maps/search/Riverview%20Hotel%20%26%20Event%20Center+near+32.8420898%2C-83.6193803"
+    },
+    {
+      "name": "Large Historic Downtown Loft - Rear",
+      "distance": "0.5 mi",
+      "url": "https://www.google.com/maps/search/Large%20Historic%20Downtown%20Loft%20-%20Rear+near+32.8420898%2C-83.6193803"
+    },
+    {
+      "name": "Large Historic Downtown Loft - Rear",
+      "distance": "0.5 mi",
+      "url": "https://www.google.com/maps/search/Large%20Historic%20Downtown%20Loft%20-%20Rear+near+32.8420898%2C-83.6193803"
+    },
+    {
+      "name": "Large New Downtown Loft",
+      "distance": "0.5 mi",
+      "url": "https://www.google.com/maps/search/Large%20New%20Downtown%20Loft+near+32.8420898%2C-83.6193803"
+    }
+  ],
+  "gas": [
+    {
+      "name": "Shell",
+      "distance": "0.3 mi",
+      "url": "https://www.google.com/maps/search/Shell+near+32.8420898%2C-83.6193803"
+    },
+    {
+      "name": "Marathon Gas",
+      "distance": "0.4 mi",
+      "url": "https://www.google.com/maps/search/Marathon%20Gas+near+32.8420898%2C-83.6193803"
+    },
+    {
+      "name": "Quick Serve",
+      "distance": "0.5 mi",
+      "url": "https://www.google.com/maps/search/Quick%20Serve+near+32.8420898%2C-83.6193803"
+    },
+    {
+      "name": "Chevron",
+      "distance": "0.5 mi",
+      "url": "https://www.google.com/maps/search/Chevron+near+32.8420898%2C-83.6193803"
+    },
+    {
+      "name": "QuikTrip",
+      "distance": "0.6 mi",
+      "url": "https://www.google.com/maps/search/QuikTrip+near+32.8420898%2C-83.6193803"
+    }
+  ]
+}

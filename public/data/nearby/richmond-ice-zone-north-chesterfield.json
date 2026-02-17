@@ -1,0 +1,183 @@
+{
+  "quick_bite": [
+    {
+      "name": "Arby's",
+      "distance": "0.3 mi",
+      "url": "https://www.google.com/maps/search/Arby's+near+37.5035716%2C-77.5939412"
+    },
+    {
+      "name": "Subway",
+      "distance": "0.4 mi",
+      "url": "https://www.google.com/maps/search/Subway+near+37.5035716%2C-77.5939412"
+    },
+    {
+      "name": "Chuck E. Cheese",
+      "distance": "0.4 mi",
+      "url": "https://www.google.com/maps/search/Chuck%20E.%20Cheese+near+37.5035716%2C-77.5939412"
+    },
+    {
+      "name": "Penn Station East Coast Subs",
+      "distance": "0.5 mi",
+      "url": "https://www.google.com/maps/search/Penn%20Station%20East%20Coast%20Subs+near+37.5035716%2C-77.5939412"
+    },
+    {
+      "name": "Hardee's",
+      "distance": "0.5 mi",
+      "url": "https://www.google.com/maps/search/Hardee's+near+37.5035716%2C-77.5939412"
+    },
+    {
+      "name": "Taco Bell",
+      "distance": "0.5 mi",
+      "url": "https://www.google.com/maps/search/Taco%20Bell+near+37.5035716%2C-77.5939412"
+    }
+  ],
+  "coffee": [
+    {
+      "name": "My Cafe LLC",
+      "distance": "0.3 mi",
+      "url": "https://www.google.com/maps/search/My%20Cafe%20LLC+near+37.5035716%2C-77.5939412"
+    }
+  ],
+  "team_lunch": [
+    {
+      "name": "Taqueria Y Antojitos El Chido ( Midlothian )",
+      "distance": "0.4 mi",
+      "url": "https://www.google.com/maps/search/Taqueria%20Y%20Antojitos%20El%20Chido%20(%20Midlothian%20)+near+37.5035716%2C-77.5939412"
+    },
+    {
+      "name": "Kickback Jack's",
+      "distance": "0.4 mi",
+      "url": "https://www.google.com/maps/search/Kickback%20Jack's+near+37.5035716%2C-77.5939412"
+    }
+  ],
+  "dinner": [
+    {
+      "name": "Los Panchos",
+      "distance": "0.3 mi",
+      "url": "https://www.google.com/maps/search/Los%20Panchos+near+37.5035716%2C-77.5939412"
+    },
+    {
+      "name": "Notova Cafe & Cajun Cuisine",
+      "distance": "0.3 mi",
+      "url": "https://www.google.com/maps/search/Notova%20Cafe%20%26%20Cajun%20Cuisine+near+37.5035716%2C-77.5939412"
+    },
+    {
+      "name": "Rio Grande Tex-Mex Grill",
+      "distance": "0.4 mi",
+      "url": "https://www.google.com/maps/search/Rio%20Grande%20Tex-Mex%20Grill+near+37.5035716%2C-77.5939412"
+    },
+    {
+      "name": "Donuts Company",
+      "distance": "0.4 mi",
+      "url": "https://www.google.com/maps/search/Donuts%20Company+near+37.5035716%2C-77.5939412"
+    },
+    {
+      "name": "I Noodle",
+      "distance": "0.4 mi",
+      "url": "https://www.google.com/maps/search/I%20Noodle+near+37.5035716%2C-77.5939412"
+    },
+    {
+      "name": "Midlo Bistro",
+      "distance": "0.5 mi",
+      "url": "https://www.google.com/maps/search/Midlo%20Bistro+near+37.5035716%2C-77.5939412"
+    }
+  ],
+  "bowling": [
+    {
+      "name": "Bowl America Southwest",
+      "distance": "4.7 mi",
+      "url": "https://www.google.com/maps/search/Bowl%20America%20Southwest+near+37.5035716%2C-77.5939412",
+      "isFar": true
+    }
+  ],
+  "arcade": [],
+  "movies": [
+    {
+      "name": "AMC DINE-IN Midlothian 10",
+      "distance": "1.4 mi",
+      "url": "https://www.google.com/maps/search/AMC%20DINE-IN%20Midlothian%2010+near+37.5035716%2C-77.5939412"
+    },
+    {
+      "name": "CMX CinéBistro Stony Point",
+      "distance": "3.5 mi",
+      "url": "https://www.google.com/maps/search/CMX%20Cin%C3%A9Bistro%20Stony%20Point+near+37.5035716%2C-77.5939412",
+      "isFar": true
+    }
+  ],
+  "fun": [
+    {
+      "name": "Sky Zone Trampoline Park",
+      "distance": "0.6 mi",
+      "url": "https://www.google.com/maps/search/Sky%20Zone%20Trampoline%20Park+near+37.5035716%2C-77.5939412"
+    },
+    {
+      "name": "K1 Speed Richmond",
+      "distance": "0.6 mi",
+      "url": "https://www.google.com/maps/search/K1%20Speed%20Richmond+near+37.5035716%2C-77.5939412"
+    },
+    {
+      "name": "Off The Wall, Indoor Bounce & Party Place",
+      "distance": "1.4 mi",
+      "url": "https://www.google.com/maps/search/Off%20The%20Wall%2C%20Indoor%20Bounce%20%26%20Party%20Place+near+37.5035716%2C-77.5939412"
+    },
+    {
+      "name": "Breakout Games",
+      "distance": "1.7 mi",
+      "url": "https://www.google.com/maps/search/Breakout%20Games+near+37.5035716%2C-77.5939412"
+    }
+  ],
+  "hotels": [
+    {
+      "name": "Residence Inn by Marriott Richmond West/Midlothian",
+      "distance": "0.5 mi",
+      "url": "https://www.google.com/maps/search/Residence%20Inn%20by%20Marriott%20Richmond%20West%2FMidlothian+near+37.5035716%2C-77.5939412"
+    },
+    {
+      "name": "Midlothian Hotel Associates LP",
+      "distance": "0.5 mi",
+      "url": "https://www.google.com/maps/search/Midlothian%20Hotel%20Associates%20LP+near+37.5035716%2C-77.5939412"
+    },
+    {
+      "name": "DoubleTree by Hilton Hotel Richmond - Midlothian",
+      "distance": "0.5 mi",
+      "url": "https://www.google.com/maps/search/DoubleTree%20by%20Hilton%20Hotel%20Richmond%20-%20Midlothian+near+37.5035716%2C-77.5939412"
+    },
+    {
+      "name": "Hampton Inn Richmond-Midlothian Turnpike",
+      "distance": "0.5 mi",
+      "url": "https://www.google.com/maps/search/Hampton%20Inn%20Richmond-Midlothian%20Turnpike+near+37.5035716%2C-77.5939412"
+    },
+    {
+      "name": "double tree hotel",
+      "distance": "0.8 mi",
+      "url": "https://www.google.com/maps/search/double%20tree%20hotel+near+37.5035716%2C-77.5939412"
+    },
+    {
+      "name": "Four Points by Sheraton Richmond",
+      "distance": "0.8 mi",
+      "url": "https://www.google.com/maps/search/Four%20Points%20by%20Sheraton%20Richmond+near+37.5035716%2C-77.5939412"
+    }
+  ],
+  "gas": [
+    {
+      "name": "Quarles Fleet Fueling",
+      "distance": "0.4 mi",
+      "url": "https://www.google.com/maps/search/Quarles%20Fleet%20Fueling+near+37.5035716%2C-77.5939412"
+    },
+    {
+      "name": "bp",
+      "distance": "0.5 mi",
+      "url": "https://www.google.com/maps/search/bp+near+37.5035716%2C-77.5939412"
+    },
+    {
+      "name": "7-Eleven Fuel",
+      "distance": "0.7 mi",
+      "url": "https://www.google.com/maps/search/7-Eleven%20Fuel+near+37.5035716%2C-77.5939412"
+    },
+    {
+      "name": "Amoco",
+      "distance": "0.9 mi",
+      "url": "https://www.google.com/maps/search/Amoco+near+37.5035716%2C-77.5939412"
+    }
+  ]
+}

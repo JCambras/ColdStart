@@ -1,0 +1,202 @@
+{
+  "quick_bite": [
+    {
+      "name": "Subway",
+      "distance": "0.2 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Subway&query_place_id=ChIJIYhL-wO75IkRrIn3YVBCuT0&center=41.929476199999996,-70.6573411"
+    },
+    {
+      "name": "Wendy's",
+      "distance": "0.3 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Wendy's&query_place_id=ChIJ00LiiU-65IkRJUqN1z7nL7o&center=41.9298005,-70.6589824"
+    },
+    {
+      "name": "Pizza Factory & Steakhouse",
+      "distance": "0.6 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Pizza%20Factory%20%26%20Steakhouse&query_place_id=ChIJBYlv-FC65IkR6jQpbcbEg94&center=41.934109,-70.659632"
+    },
+    {
+      "name": "Squinny's Pizza",
+      "distance": "3.0 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Squinny's%20Pizza&query_place_id=ChIJk7ScQRa75IkRFlQWM3E970s&center=41.948434400000004,-70.70676460000001"
+    },
+    {
+      "name": "Chick-fil-A",
+      "distance": "3.3 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Chick-fil-A&query_place_id=ChIJ2QkQY7-75IkR8dWBOk9aAX4&center=41.9525599,-70.7114387",
+      "isFar": true
+    }
+  ],
+  "coffee": [
+    {
+      "name": "Starbucks Coffee Company",
+      "distance": "0.2 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Starbucks%20Coffee%20Company&query_place_id=ChIJaTt3DSG75IkRjP-uUcEwMc0&center=41.9292,-70.658"
+    },
+    {
+      "name": "Panera Bread",
+      "distance": "0.3 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Panera%20Bread&query_place_id=ChIJLaM70lq65IkRIWh3YLObtYE&center=41.929718699999995,-70.6529997"
+    },
+    {
+      "name": "Jolly Bean Cafe",
+      "distance": "0.4 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Jolly%20Bean%20Cafe&query_place_id=ChIJeYnzU0K65IkRrriRNNxaLro&center=41.9262163,-70.6484929"
+    },
+    {
+      "name": "Dunkin'",
+      "distance": "0.5 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Dunkin'&query_place_id=ChIJE0a780-65IkRdN7KxwkRu0A&center=41.933273799999995,-70.6586657"
+    },
+    {
+      "name": "Plimoth General Store & Eatery",
+      "distance": "2.2 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Plimoth%20General%20Store%20%26%20Eatery&query_place_id=ChIJI3YjX7-75IkRKr8Qk7Z02iM&center=41.9566357,-70.6647512"
+    }
+  ],
+  "team_lunch": [
+    {
+      "name": "​Rock Bottom Eatery",
+      "distance": "0.2 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=%E2%80%8BRock%20Bottom%20Eatery&query_place_id=ChIJb1LeQEe75IkRgoAeczUG-GA&center=41.9230346,-70.6559753"
+    },
+    {
+      "name": "BJ's Bakery",
+      "distance": "0.2 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=BJ's%20Bakery&query_place_id=ChIJQWscbES65IkRxdN7Xgcj9ls&center=41.9264389,-70.6522159"
+    },
+    {
+      "name": "IHOP",
+      "distance": "0.3 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=IHOP&query_place_id=ChIJxTtM_U-65IkRx8cLkox1VQc&center=41.9305447,-70.6576947"
+    },
+    {
+      "name": "Texas Roadhouse",
+      "distance": "0.3 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Texas%20Roadhouse&query_place_id=ChIJ887--E-65IkRiTqGSdsgYZs&center=41.9305884,-70.65678369999999"
+    },
+    {
+      "name": "Friendly's",
+      "distance": "0.4 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Friendly's&query_place_id=ChIJ0QEBi0-65IkRBHD7a7hctCI&center=41.9312292,-70.65894949999999"
+    },
+    {
+      "name": "Man vs Fries",
+      "distance": "0.4 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Man%20vs%20Fries&query_place_id=ChIJEYpedfK75IkRw17AKmBkZBs&center=41.9312551,-70.6589269"
+    }
+  ],
+  "dinner": [
+    {
+      "name": "Crumbl",
+      "distance": "0.3 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Crumbl&query_place_id=ChIJaSenpxS75IkRscbWW4z_JJk&center=41.929902,-70.65900549999999"
+    },
+    {
+      "name": "Gardenia Palace",
+      "distance": "0.3 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Gardenia%20Palace&query_place_id=ChIJaSEE1n275IkRyp2ovDr8RPI&center=41.9300528,-70.65907899999999"
+    },
+    {
+      "name": "New Tokyo Japanese Restaurant",
+      "distance": "0.5 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=New%20Tokyo%20Japanese%20Restaurant&query_place_id=ChIJBYlv-FC65IkR96b_0tSH5tY&center=41.932818499999996,-70.6592722"
+    },
+    {
+      "name": "Churrascaria Brazilian Steakhouse",
+      "distance": "0.6 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Churrascaria%20Brazilian%20Steakhouse&query_place_id=ChIJi0TL0rO75IkR2Mzl-IuKs-c&center=41.9340559,-70.6597274"
+    },
+    {
+      "name": "Pilgrims Churrascaria",
+      "distance": "0.6 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Pilgrims%20Churrascaria&query_place_id=ChIJaeoFx8K75IkR0DqWlDIoKfo&center=41.934109,-70.659632"
+    },
+    {
+      "name": "99 Restaurants",
+      "distance": "0.6 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=99%20Restaurants&query_place_id=ChIJBYlv-FC65IkRL3u8qak764E&center=41.9342584,-70.659202"
+    }
+  ],
+  "bowling": [],
+  "arcade": [],
+  "movies": [
+    {
+      "name": "Plimoth Cinema",
+      "distance": "1.8 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Plimoth%20Cinema&query_place_id=ChIJg5fvcYG65IkRCBtvXZpTPJU&center=41.938139,-70.6253711"
+    },
+    {
+      "name": "Regal Independence Mall & RPX",
+      "distance": "4.3 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Regal%20Independence%20Mall%20%26%20RPX&query_place_id=ChIJJRmE5Fi75IkRMv3WK7RnbXo&center=41.9687841,-70.7169372",
+      "isFar": true
+    }
+  ],
+  "fun": [
+    {
+      "name": "Goat Walks Plymouth",
+      "distance": "1.6 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Goat%20Walks%20Plymouth&query_place_id=ChIJ9SlU9bC75IkRiEyAjFOQ-Bc&center=41.942392,-70.679464"
+    },
+    {
+      "name": "Mooflower",
+      "distance": "1.8 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Mooflower&query_place_id=ChIJU5O8MwC75IkR0UPxzuJiM0U&center=41.9383183,-70.6255829"
+    },
+    {
+      "name": "William Brewster Tribute Plaque",
+      "distance": "2.1 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=William%20Brewster%20Tribute%20Plaque&query_place_id=ChIJMURcVI-75IkRHhecb52Jllc&center=41.956264399999995,-70.6621846"
+    },
+    {
+      "name": "Plymouth Night Tour",
+      "distance": "2.2 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Plymouth%20Night%20Tour&query_place_id=ChIJ6xDnfuC65IkRBs8oDquNJH0&center=41.957113299999996,-70.6647605"
+    }
+  ],
+  "hotels": [
+    {
+      "name": "Hilton Garden Inn Plymouth",
+      "distance": "0.4 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Hilton%20Garden%20Inn%20Plymouth&query_place_id=ChIJnXFvDFG65IkRfU3g-JO6VgM&center=41.931941599999995,-70.6592774"
+    },
+    {
+      "name": "Barefoot Cottage Company",
+      "distance": "0.6 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Barefoot%20Cottage%20Company&query_place_id=ChIJWyKarkK65IkRYLfUJaCsRQE&center=41.9280586,-70.6460334"
+    },
+    {
+      "name": "Updated Plymouth Home Less Than 2 Miles to Waterfront!",
+      "distance": "1.1 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Updated%20Plymouth%20Home%20Less%20Than%202%20Miles%20to%20Waterfront!&query_place_id=ChIJB62-mPi65IkRGlYbbnuOOxw&center=41.9410592,-70.66175849999999"
+    },
+    {
+      "name": "Updated Plymouth Home < 2 Miles to Waterfront!",
+      "distance": "1.1 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Updated%20Plymouth%20Home%20%3C%202%20Miles%20to%20Waterfront!&query_place_id=ChIJB62-mPi65IkRKyAcVuQCesU&center=41.9410592,-70.66175849999999"
+    }
+  ],
+  "gas": [
+    {
+      "name": "BJ's Gas Station",
+      "distance": "0.2 mi",
+      "url": "https://www.google.com/maps/search/BJ's%20Gas%20Station+near+41.9259154%2C-70.65698549999999"
+    },
+    {
+      "name": "Alltown Fresh",
+      "distance": "0.5 mi",
+      "url": "https://www.google.com/maps/search/Alltown%20Fresh+near+41.9259154%2C-70.65698549999999"
+    },
+    {
+      "name": "Alltown Markets",
+      "distance": "0.5 mi",
+      "url": "https://www.google.com/maps/search/Alltown%20Markets+near+41.9259154%2C-70.65698549999999"
+    },
+    {
+      "name": "Shell",
+      "distance": "0.5 mi",
+      "url": "https://www.google.com/maps/search/Shell+near+41.9259154%2C-70.65698549999999"
+    }
+  ]
+}

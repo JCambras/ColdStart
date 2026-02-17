@@ -1,0 +1,234 @@
+{
+  "quick_bite": [
+    {
+      "name": "Carletta's Pies",
+      "distance": "0.3 mi",
+      "url": "https://www.google.com/maps/search/Carletta's%20Pies+near+39.998432300000005%2C-82.9923441"
+    },
+    {
+      "name": "Subway",
+      "distance": "0.5 mi",
+      "url": "https://www.google.com/maps/search/Subway+near+39.998432300000005%2C-82.9923441"
+    },
+    {
+      "name": "Buckeye Pizza",
+      "distance": "0.5 mi",
+      "url": "https://www.google.com/maps/search/Buckeye%20Pizza+near+39.998432300000005%2C-82.9923441"
+    }
+  ],
+  "coffee": [
+    {
+      "name": "McDonald's",
+      "distance": "0.4 mi",
+      "url": "https://www.google.com/maps/search/McDonald's+near+39.998432300000005%2C-82.9923441"
+    },
+    {
+      "name": "Dwell Community Church - 4th Street Cafe",
+      "distance": "0.4 mi",
+      "url": "https://www.google.com/maps/search/Dwell%20Community%20Church%20-%204th%20Street%20Cafe+near+39.998432300000005%2C-82.9923441"
+    },
+    {
+      "name": "Dunkin'",
+      "distance": "0.5 mi",
+      "url": "https://www.google.com/maps/search/Dunkin'+near+39.998432300000005%2C-82.9923441"
+    },
+    {
+      "name": "Rubens Coffee Establishment",
+      "distance": "0.6 mi",
+      "url": "https://www.google.com/maps/search/Rubens%20Coffee%20Establishment+near+39.998432300000005%2C-82.9923441"
+    }
+  ],
+  "team_lunch": [
+    {
+      "name": "Amity Apothecary",
+      "distance": "0.2 mi",
+      "url": "https://www.google.com/maps/search/Amity%20Apothecary+near+39.998432300000005%2C-82.9923441"
+    },
+    {
+      "name": "King's Pizza",
+      "distance": "0.4 mi",
+      "url": "https://www.google.com/maps/search/King's%20Pizza+near+39.998432300000005%2C-82.9923441"
+    },
+    {
+      "name": "El Distrito",
+      "distance": "0.6 mi",
+      "url": "https://www.google.com/maps/search/El%20Distrito+near+39.998432300000005%2C-82.9923441"
+    },
+    {
+      "name": "Rockin' Healthy Cafe",
+      "distance": "0.6 mi",
+      "url": "https://www.google.com/maps/search/Rockin'%20Healthy%20Cafe+near+39.998432300000005%2C-82.9923441"
+    },
+    {
+      "name": "Ben's Fast Food",
+      "distance": "0.6 mi",
+      "url": "https://www.google.com/maps/search/Ben's%20Fast%20Food+near+39.998432300000005%2C-82.9923441"
+    }
+  ],
+  "dinner": [
+    {
+      "name": "Tacos El Campesino",
+      "distance": "0.3 mi",
+      "url": "https://www.google.com/maps/search/Tacos%20El%20Campesino+near+39.998432300000005%2C-82.9923441"
+    },
+    {
+      "name": "Fourth Street Taproom & Kitchen",
+      "distance": "0.3 mi",
+      "url": "https://www.google.com/maps/search/Fourth%20Street%20Taproom%20%26%20Kitchen+near+39.998432300000005%2C-82.9923441"
+    },
+    {
+      "name": "Auddino's Italian Bakery",
+      "distance": "0.4 mi",
+      "url": "https://www.google.com/maps/search/Auddino's%20Italian%20Bakery+near+39.998432300000005%2C-82.9923441"
+    },
+    {
+      "name": "Tipsy Tacos (Inside Suzi Cue Pool Hall)",
+      "distance": "0.4 mi",
+      "url": "https://www.google.com/maps/search/Tipsy%20Tacos%20(Inside%20Suzi%20Cue%20Pool%20Hall)+near+39.998432300000005%2C-82.9923441"
+    },
+    {
+      "name": "Boom Boom Tacos Tequila & Mezcal",
+      "distance": "0.5 mi",
+      "url": "https://www.google.com/maps/search/Boom%20Boom%20Tacos%20Tequila%20%26%20Mezcal+near+39.998432300000005%2C-82.9923441"
+    },
+    {
+      "name": "Taquería La Popular",
+      "distance": "0.6 mi",
+      "url": "https://www.google.com/maps/search/Taquer%C3%ADa%20La%20Popular+near+39.998432300000005%2C-82.9923441"
+    },
+    {
+      "name": "Suvai Street",
+      "distance": "0.6 mi",
+      "url": "https://www.google.com/maps/search/Suvai%20Street+near+39.998432300000005%2C-82.9923441"
+    }
+  ],
+  "bowling": [
+    {
+      "name": "HPL Bowling Center",
+      "distance": "3.2 mi",
+      "url": "https://www.google.com/maps/search/HPL%20Bowling%20Center+near+39.998432300000005%2C-82.9923441",
+      "isFar": true
+    }
+  ],
+  "arcade": [],
+  "movies": [
+    {
+      "name": "Gateway Film Center",
+      "distance": "0.8 mi",
+      "url": "https://www.google.com/maps/search/Gateway%20Film%20Center+near+39.998432300000005%2C-82.9923441"
+    },
+    {
+      "name": "Phoenix Theatres Lennox Town Center 24 + IMAX with Laser",
+      "distance": "1.9 mi",
+      "url": "https://www.google.com/maps/search/Phoenix%20Theatres%20Lennox%20Town%20Center%2024%20%2B%20IMAX%20with%20Laser+near+39.998432300000005%2C-82.9923441"
+    },
+    {
+      "name": "Studio 35 Cinema & Drafthouse",
+      "distance": "2.0 mi",
+      "url": "https://www.google.com/maps/search/Studio%2035%20Cinema%20%26%20Drafthouse+near+39.998432300000005%2C-82.9923441"
+    },
+    {
+      "name": "Grandview Theater and Drafthouse",
+      "distance": "3.0 mi",
+      "url": "https://www.google.com/maps/search/Grandview%20Theater%20and%20Drafthouse+near+39.998432300000005%2C-82.9923441"
+    },
+    {
+      "name": "Drexel Theatre",
+      "distance": "4.0 mi",
+      "url": "https://www.google.com/maps/search/Drexel%20Theatre+near+39.998432300000005%2C-82.9923441",
+      "isFar": true
+    }
+  ],
+  "fun": [
+    {
+      "name": "The Escape Room USA - Columbus",
+      "distance": "1.9 mi",
+      "url": "https://www.google.com/maps/search/The%20Escape%20Room%20USA%20-%20Columbus+near+39.998432300000005%2C-82.9923441"
+    },
+    {
+      "name": "Magic Escape Rooms Columbus",
+      "distance": "2.4 mi",
+      "url": "https://www.google.com/maps/search/Magic%20Escape%20Rooms%20Columbus+near+39.998432300000005%2C-82.9923441"
+    },
+    {
+      "name": "The Wrecking Company",
+      "distance": "2.8 mi",
+      "url": "https://www.google.com/maps/search/The%20Wrecking%20Company+near+39.998432300000005%2C-82.9923441"
+    },
+    {
+      "name": "Scioto Mile Fountain",
+      "distance": "3.0 mi",
+      "url": "https://www.google.com/maps/search/Scioto%20Mile%20Fountain+near+39.998432300000005%2C-82.9923441"
+    },
+    {
+      "name": "Escape It Grandview",
+      "distance": "3.2 mi",
+      "url": "https://www.google.com/maps/search/Escape%20It%20Grandview+near+39.998432300000005%2C-82.9923441",
+      "isFar": true
+    }
+  ],
+  "hotels": [
+    {
+      "name": "Newly Renovated (9B) OSU /Central NearEVERYTHING",
+      "distance": "0.1 mi",
+      "url": "https://www.google.com/maps/search/Newly%20Renovated%20(9B)%20OSU%20%2FCentral%20NearEVERYTHING+near+39.998432300000005%2C-82.9923441"
+    },
+    {
+      "name": "Newly Renovated(A) OSU /Central Near EVERYTHING!",
+      "distance": "0.1 mi",
+      "url": "https://www.google.com/maps/search/Newly%20Renovated(A)%20OSU%20%2FCentral%20Near%20EVERYTHING!+near+39.998432300000005%2C-82.9923441"
+    },
+    {
+      "name": "Historic Gem Perfect for Groups and Long Stays",
+      "distance": "0.2 mi",
+      "url": "https://www.google.com/maps/search/Historic%20Gem%20Perfect%20for%20Groups%20and%20Long%20Stays+near+39.998432300000005%2C-82.9923441"
+    },
+    {
+      "name": "Renovated 2story OSU/ExpoCenter/Central Near EVERYTHING!",
+      "distance": "0.2 mi",
+      "url": "https://www.google.com/maps/search/Renovated%202story%20OSU%2FExpoCenter%2FCentral%20Near%20EVERYTHING!+near+39.998432300000005%2C-82.9923441"
+    },
+    {
+      "name": "Renovated 2story OSU /ExpoCenter /Central Near EVERYTHING!",
+      "distance": "0.2 mi",
+      "url": "https://www.google.com/maps/search/Renovated%202story%20OSU%20%2FExpoCenter%20%2FCentral%20Near%20EVERYTHING!+near+39.998432300000005%2C-82.9923441"
+    },
+    {
+      "name": "PrivateParking /Entrance_Renovated(7B)OSU /ExpoCentr",
+      "distance": "0.2 mi",
+      "url": "https://www.google.com/maps/search/PrivateParking%20%2FEntrance_Renovated(7B)OSU%20%2FExpoCentr+near+39.998432300000005%2C-82.9923441"
+    },
+    {
+      "name": "Low-Key Columbus Apartment - Great Location! - Apartment",
+      "distance": "0.2 mi",
+      "url": "https://www.google.com/maps/search/Low-Key%20Columbus%20Apartment%20-%20Great%20Location!%20-%20Apartment+near+39.998432300000005%2C-82.9923441"
+    }
+  ],
+  "gas": [
+    {
+      "name": "Goco",
+      "distance": "0.5 mi",
+      "url": "https://www.google.com/maps/search/Goco+near+39.998432300000005%2C-82.9923441"
+    },
+    {
+      "name": "Shell",
+      "distance": "0.5 mi",
+      "url": "https://www.google.com/maps/search/Shell+near+39.998432300000005%2C-82.9923441"
+    },
+    {
+      "name": "Marathon Gas",
+      "distance": "0.5 mi",
+      "url": "https://www.google.com/maps/search/Marathon%20Gas+near+39.998432300000005%2C-82.9923441"
+    },
+    {
+      "name": "Marathon Gas",
+      "distance": "0.5 mi",
+      "url": "https://www.google.com/maps/search/Marathon%20Gas+near+39.998432300000005%2C-82.9923441"
+    },
+    {
+      "name": "Exxon",
+      "distance": "0.9 mi",
+      "url": "https://www.google.com/maps/search/Exxon+near+39.998432300000005%2C-82.9923441"
+    }
+  ]
+}

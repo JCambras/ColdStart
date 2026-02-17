@@ -1,0 +1,174 @@
+{
+  "quick_bite": [
+    {
+      "name": "McDonald's of Sunbury, PA",
+      "distance": "0.2 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=McDonald's%20of%20Sunbury%2C%20PA&query_place_id=ChIJOfy-PwBrz4kRAkM2NHnTCFk&center=40.8755613,-76.7839139"
+    },
+    {
+      "name": "Burger King",
+      "distance": "1.0 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Burger%20King&query_place_id=ChIJhcrjh_Jqz4kR0uw_jkV-8e4&center=40.861906499999996,-76.7898254"
+    },
+    {
+      "name": "Subway",
+      "distance": "1.1 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Subway&query_place_id=ChIJB8O1AO1qz4kRW9hPGd8akI8&center=40.8624107,-76.7939002"
+    },
+    {
+      "name": "On a Roll",
+      "distance": "1.2 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=On%20a%20Roll&query_place_id=ChIJZ6uhRhprz4kRE8Ko4c4C0us&center=40.8884773,-76.7952881"
+    },
+    {
+      "name": "Subway",
+      "distance": "1.3 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Subway&query_place_id=ChIJP95ELhprz4kRRRZuXmJ0Uh8&center=40.8878304,-76.7966692"
+    }
+  ],
+  "coffee": [
+    {
+      "name": "Dunkin'",
+      "distance": "0.2 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Dunkin'&query_place_id=ChIJbUnBy_9qz4kRx29NsWHWGMY&center=40.8746539,-76.78434759999999"
+    },
+    {
+      "name": "IV Coffee Co.",
+      "distance": "0.9 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=IV%20Coffee%20Co.&query_place_id=ChIJ_9LvBYVrz4kRU0LddRLj9es&center=40.863387499999995,-76.7918522"
+    }
+  ],
+  "team_lunch": [
+    {
+      "name": "Bread of life micro-bakery",
+      "distance": "0.6 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Bread%20of%20life%20micro-bakery&query_place_id=ChIJ9bVguOJrz4kRkJ3MlnKZ4mI&center=40.865142999999996,-76.7819868"
+    },
+    {
+      "name": "City Corner",
+      "distance": "1.0 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=City%20Corner&query_place_id=ChIJwYYLLqhrz4kRuusygzVGdRo&center=40.8613086,-76.7897783"
+    },
+    {
+      "name": "Mount Carmel market",
+      "distance": "3.6 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Mount%20Carmel%20market&query_place_id=ChIJjWyfGwA_z4kRPXVaKOn162o&center=40.8377828,-76.8313914",
+      "isFar": true
+    }
+  ],
+  "dinner": [
+    {
+      "name": "Bottleworks",
+      "distance": "0.2 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Bottleworks&query_place_id=ChIJAcR0Wf5qz4kR6VQJhL5ij9A&center=40.8738333,-76.7856667"
+    },
+    {
+      "name": "Jay's Tiffany's Northside",
+      "distance": "0.3 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Jay's%20Tiffany's%20Northside&query_place_id=ChIJ21pcbhprz4kRlzsyh7Hrjqw&center=40.871490699999995,-76.7852492"
+    },
+    {
+      "name": "Giugi's",
+      "distance": "0.4 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Giugi's&query_place_id=ChIJCfmSbvpqz4kREGWufqzqJGo&center=40.8699097,-76.7868987"
+    },
+    {
+      "name": "El Fogón latino",
+      "distance": "0.7 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=El%20Fog%C3%B3n%20latino&query_place_id=ChIJU6TKLO5rz4kRifE7-sBtUuY&center=40.8681291,-76.7916516"
+    },
+    {
+      "name": "Sunbury Social Club",
+      "distance": "0.7 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Sunbury%20Social%20Club&query_place_id=ChIJQ3I2swZrz4kR1bP3JKqvWlU&center=40.8840464,-76.78343269999999"
+    },
+    {
+      "name": "Sunbury CSG Bakery",
+      "distance": "0.8 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Sunbury%20CSG%20Bakery&query_place_id=ChIJcwUPP-5qz4kRh8Xbj-RY8k8&center=40.8663884,-76.7920535"
+    }
+  ],
+  "bowling": [
+    {
+      "name": "Strike Zone Lanes",
+      "distance": "0.4 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Strike%20Zone%20Lanes&query_place_id=ChIJZYRbb_pqz4kRCuoVD_YBco8&center=40.8705868,-76.78754289999999"
+    },
+    {
+      "name": "Hoopla's Xtreme Family Fun",
+      "distance": "3.4 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Hoopla's%20Xtreme%20Family%20Fun&query_place_id=ChIJib_Tbv4_z4kR04174pItvcs&center=40.842500799999996,-76.83021699999999",
+      "isFar": true
+    }
+  ],
+  "arcade": [],
+  "movies": [
+    {
+      "name": "AMC CLASSIC Selinsgrove 12",
+      "distance": "5.0 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=AMC%20CLASSIC%20Selinsgrove%2012&query_place_id=ChIJm_1kTpU_z4kRKd1DkGbvI70&center=40.8251266,-76.85024670000001",
+      "isFar": true
+    }
+  ],
+  "fun": [
+    {
+      "name": "Wolfe’s Fountain",
+      "distance": "1.1 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Wolfe%E2%80%99s%20Fountain&query_place_id=ChIJi9mgbQBrz4kRf67ZQomUys4&center=40.862262799999996,-76.7946441"
+    },
+    {
+      "name": "Joseph Priestley House",
+      "distance": "1.2 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Joseph%20Priestley%20House&query_place_id=ChIJC9ah6g9rz4kRBlIkow0dzMI&center=40.8905006,-76.78988129999999"
+    },
+    {
+      "name": "Splash Magic Water Park",
+      "distance": "2.9 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Splash%20Magic%20Water%20Park&query_place_id=ChIJAZ377pZrz4kRwjVKSLABCLQ&center=40.9106357,-76.75452059999999"
+    }
+  ],
+  "hotels": [
+    {
+      "name": "Fantasy Island Campground",
+      "distance": "0.9 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Fantasy%20Island%20Campground&query_place_id=ChIJKSh7ywVrz4kRcIN89KNTxZg&center=40.8870491,-76.786997"
+    },
+    {
+      "name": "Sunbury Airport Campground",
+      "distance": "1.1 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Sunbury%20Airport%20Campground&query_place_id=ChIJ_RmIDKJrz4kRC-18BcvieuA&center=40.8902831,-76.78224"
+    },
+    {
+      "name": "Earls Landing -Riverfront Cottage!",
+      "distance": "1.2 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Earls%20Landing%20-Riverfront%20Cottage!&query_place_id=ChIJcSUGDQ9rz4kRwWF53v3qyM4&center=40.8904686,-76.7878876"
+    },
+    {
+      "name": "Earl's Landing",
+      "distance": "1.2 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Earl's%20Landing&query_place_id=ChIJV-Z4Lgprz4kRUGQDoZ_0-ao&center=40.8904717,-76.78788949999999"
+    }
+  ],
+  "gas": [
+    {
+      "name": "Weis Gas n' Go",
+      "distance": "0.2 mi",
+      "url": "https://www.google.com/maps/search/Weis%20Gas%20n'%20Go+near+40.8741287%2C-76.7809844"
+    },
+    {
+      "name": "VP Racing Fuels",
+      "distance": "0.2 mi",
+      "url": "https://www.google.com/maps/search/VP%20Racing%20Fuels+near+40.8741287%2C-76.7809844"
+    },
+    {
+      "name": "Wawa",
+      "distance": "0.2 mi",
+      "url": "https://www.google.com/maps/search/Wawa+near+40.8741287%2C-76.7809844"
+    },
+    {
+      "name": "Sunoco",
+      "distance": "1.0 mi",
+      "url": "https://www.google.com/maps/search/Sunoco+near+40.8741287%2C-76.7809844"
+    }
+  ]
+}

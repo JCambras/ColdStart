@@ -1,0 +1,211 @@
+{
+  "quick_bite": [
+    {
+      "name": "Mike's Pizzeria",
+      "distance": "1.6 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Mike's%20Pizzeria&query_place_id=ChIJ5-2SwpkW44kRO5AlWfSHRw0&center=42.557766300000004,-70.8788776"
+    },
+    {
+      "name": "Soma",
+      "distance": "1.6 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Soma&query_place_id=ChIJL_iHEp4W44kRDpxvW47L-hE&center=42.549982,-70.87812699999999"
+    },
+    {
+      "name": "Burger King",
+      "distance": "1.7 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Burger%20King&query_place_id=ChIJEThJTZgW44kRwdtSmkhXZnI&center=42.5572452,-70.8805919"
+    },
+    {
+      "name": "Subway",
+      "distance": "1.8 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Subway&query_place_id=ChIJL_fHrvcW44kRWohCuunWDRw&center=42.574200999999995,-70.8747846"
+    },
+    {
+      "name": "Burger King",
+      "distance": "1.8 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Burger%20King&query_place_id=ChIJ4bEXFZsS44kRd9bDOv2OJsE&center=42.5741687,-70.87482539999999"
+    },
+    {
+      "name": "Market Sandwich",
+      "distance": "2.0 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Market%20Sandwich&query_place_id=ChIJOwkLt2YX44kRj6JG-71yFyQ&center=42.5734401,-70.87963409999999"
+    }
+  ],
+  "coffee": [
+    {
+      "name": "Einstein Bros. Bagels",
+      "distance": "0.3 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Einstein%20Bros.%20Bagels&query_place_id=ChIJKdpSFHIW44kRR5FNmDlJUSE&center=42.5540713,-70.842863"
+    },
+    {
+      "name": "Beantrust Coffeebar",
+      "distance": "0.8 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Beantrust%20Coffeebar&query_place_id=ChIJkRBZMEEX44kRSAg0LmEDGHw&center=42.5522247,-70.86178509999999"
+    },
+    {
+      "name": "Dunkin'",
+      "distance": "1.3 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Dunkin'&query_place_id=ChIJYxuco1EW44kRyS5WQ9My-8U&center=42.5757704,-70.8500222"
+    },
+    {
+      "name": "Atomic Cafe",
+      "distance": "1.6 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Atomic%20Cafe&query_place_id=ChIJ5TsbdJ4W44kR770fu5kNTuk&center=42.550323299999995,-70.87813489999999"
+    },
+    {
+      "name": "The Whoo(pie) Wagon",
+      "distance": "2.1 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=The%20Whoo(pie)%20Wagon&query_place_id=ChIJq21nM3UX44kRumzP2ufCxG0&center=42.557432899999995,-70.88783389999999"
+    }
+  ],
+  "team_lunch": [
+    {
+      "name": "Sal’s Pizza",
+      "distance": "0.3 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Sal%E2%80%99s%20Pizza&query_place_id=ChIJ2aa9OwAX44kRUBfDhSMT-9w&center=42.553486299999996,-70.8434111"
+    },
+    {
+      "name": "Prides Deli and Pizzeria",
+      "distance": "1.3 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Prides%20Deli%20and%20Pizzeria&query_place_id=ChIJ1SlqHCMW44kRgMkiUiKeo3U&center=42.5607623,-70.82189749999999"
+    },
+    {
+      "name": "Farmer's Fridge",
+      "distance": "1.5 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Farmer's%20Fridge&query_place_id=ChIJBaoX-8YX44kRQDwLQ01Uvv4&center=42.56454,-70.87604"
+    },
+    {
+      "name": "Honey Dew Donuts",
+      "distance": "1.8 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Honey%20Dew%20Donuts&query_place_id=ChIJ__8v_O4W44kROGHkg7MLuHI&center=42.574490700000005,-70.8748923"
+    },
+    {
+      "name": "Whole Foods Bakery",
+      "distance": "2.0 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Whole%20Foods%20Bakery&query_place_id=ChIJfV50KQAX44kRBkBOr49nUpY&center=42.573350999999995,-70.8796021"
+    }
+  ],
+  "dinner": [
+    {
+      "name": "Nick’s Pizza, Subs & Roast Beef",
+      "distance": "1.1 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Nick%E2%80%99s%20Pizza%2C%20Subs%20%26%20Roast%20Beef&query_place_id=ChIJlSa-iowW44kR2MQcXUOxPgg&center=42.5632339,-70.8669046"
+    },
+    {
+      "name": "SugarShells Custom Cookies",
+      "distance": "1.2 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=SugarShells%20Custom%20Cookies&query_place_id=ChIJjV0vTucX44kR3yEnpwVnqe4&center=42.5644275,-70.8677366"
+    },
+    {
+      "name": "Maria's Corner Pizzeria",
+      "distance": "1.6 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Maria's%20Corner%20Pizzeria&query_place_id=ChIJ4QiucJ4W44kRn1UP15QiVdw&center=42.5506429,-70.8777899"
+    },
+    {
+      "name": "Delphine's Kitchen",
+      "distance": "1.6 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Delphine's%20Kitchen&query_place_id=ChIJhboPaxEX44kR7DgO6Ruxsuo&center=42.550186,-70.87770010000001"
+    },
+    {
+      "name": "Chianti Cafe",
+      "distance": "1.6 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Chianti%20Cafe&query_place_id=ChIJCZdaYp4W44kRfTPj3-vNd-0&center=42.551314,-70.878273"
+    },
+    {
+      "name": "La Qchara",
+      "distance": "1.6 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=La%20Qchara&query_place_id=ChIJZzuQwq8X44kRHPN-5k5SsW8&center=42.550904599999996,-70.8781298"
+    }
+  ],
+  "bowling": [
+    {
+      "name": "Sunnyside Bowladrome Inc",
+      "distance": "3.8 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Sunnyside%20Bowladrome%20Inc&query_place_id=ChIJext8IO4T44kRVH7aJhOjV4k&center=42.5430135,-70.9191318",
+      "isFar": true
+    },
+    {
+      "name": "Metro Bowl",
+      "distance": "4.8 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Metro%20Bowl&query_place_id=ChIJyVrjR58T44kRQ4WWhh1fDrg&center=42.52404,-70.929493",
+      "isFar": true
+    }
+  ],
+  "arcade": [],
+  "movies": [
+    {
+      "name": "Side door for Cinema Salem",
+      "distance": "3.3 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Side%20door%20for%20Cinema%20Salem&query_place_id=ChIJA7ARJwAV44kRs6Gs55-Tboc&center=42.5224815,-70.8925131",
+      "isFar": true
+    },
+    {
+      "name": "Cinema Salem",
+      "distance": "3.3 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Cinema%20Salem&query_place_id=ChIJF9fRaWUU44kRS9VAuN8nudQ&center=42.522611,-70.893118",
+      "isFar": true
+    },
+    {
+      "name": "AMC Liberty Tree Mall 20",
+      "distance": "4.8 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=AMC%20Liberty%20Tree%20Mall%2020&query_place_id=ChIJe-DeqNsT44kRERxFxSKWaxI&center=42.5527231,-70.9410852",
+      "isFar": true
+    }
+  ],
+  "fun": [
+    {
+      "name": "Anye luz",
+      "distance": "1.8 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Anye%20luz&query_place_id=ChIJXf9pID8X44kRwWj3l244Fw8&center=42.553951999999995,-70.8821135"
+    },
+    {
+      "name": "Kiddieland at Salem Willows",
+      "distance": "1.9 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Kiddieland%20at%20Salem%20Willows&query_place_id=ChIJEb_vfEYV44kRmwQEYKIDa6c&center=42.535246699999995,-70.8687338"
+    },
+    {
+      "name": "Beverly Waterfront",
+      "distance": "2.3 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Beverly%20Waterfront&query_place_id=ChIJr4RGOQAV44kR8TOgJRfvUbg&center=42.540437,-70.8855208"
+    },
+    {
+      "name": "Olympian Place",
+      "distance": "2.3 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Olympian%20Place&query_place_id=ChIJhxAARQAV44kRXnB_tfsm_Do&center=42.5428831,-70.8890708"
+    }
+  ],
+  "hotels": [
+    {
+      "name": "Wylie Center and Tupper Manor at Endicott College",
+      "distance": "0.3 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Wylie%20Center%20and%20Tupper%20Manor%20at%20Endicott%20College&query_place_id=ChIJJRp7H2UW44kRen8XeSBLK4c&center=42.5531575,-70.8475778"
+    },
+    {
+      "name": "Beverly at its Best!",
+      "distance": "0.9 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Beverly%20at%20its%20Best!&query_place_id=ChIJF2Df64AW44kRE6ctQFNwWcc&center=42.549400299999995,-70.8614197"
+    }
+  ],
+  "gas": [
+    {
+      "name": "Gulf",
+      "distance": "1.3 mi",
+      "url": "https://www.google.com/maps/search/Gulf+near+42.556987799999995%2C-70.8474308"
+    },
+    {
+      "name": "Mobil",
+      "distance": "1.4 mi",
+      "url": "https://www.google.com/maps/search/Mobil+near+42.556987799999995%2C-70.8474308"
+    },
+    {
+      "name": "Gibbs Oil Co",
+      "distance": "1.6 mi",
+      "url": "https://www.google.com/maps/search/Gibbs%20Oil%20Co+near+42.556987799999995%2C-70.8474308"
+    },
+    {
+      "name": "Speedway",
+      "distance": "1.6 mi",
+      "url": "https://www.google.com/maps/search/Speedway+near+42.556987799999995%2C-70.8474308"
+    }
+  ]
+}

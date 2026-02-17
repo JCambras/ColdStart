@@ -1,0 +1,237 @@
+{
+  "quick_bite": [
+    {
+      "name": "Bob Evans",
+      "distance": "0.4 mi",
+      "url": "https://www.google.com/maps/search/Bob%20Evans+near+27.9489459%2C-82.3300094"
+    },
+    {
+      "name": "Wendy's",
+      "distance": "0.5 mi",
+      "url": "https://www.google.com/maps/search/Wendy's+near+27.9489459%2C-82.3300094"
+    },
+    {
+      "name": "Route 60 Grill",
+      "distance": "0.6 mi",
+      "url": "https://www.google.com/maps/search/Route%2060%20Grill+near+27.9489459%2C-82.3300094"
+    },
+    {
+      "name": "Subway",
+      "distance": "0.6 mi",
+      "url": "https://www.google.com/maps/search/Subway+near+27.9489459%2C-82.3300094"
+    },
+    {
+      "name": "Olive Garden Italian Restaurant",
+      "distance": "0.7 mi",
+      "url": "https://www.google.com/maps/search/Olive%20Garden%20Italian%20Restaurant+near+27.9489459%2C-82.3300094"
+    },
+    {
+      "name": "Burger King",
+      "distance": "0.7 mi",
+      "url": "https://www.google.com/maps/search/Burger%20King+near+27.9489459%2C-82.3300094"
+    },
+    {
+      "name": "Chuck E. Cheese",
+      "distance": "1.5 mi",
+      "url": "https://www.google.com/maps/search/Chuck%20E.%20Cheese+near+27.9489459%2C-82.3300094"
+    }
+  ],
+  "coffee": [
+    {
+      "name": "McDonald's",
+      "distance": "0.5 mi",
+      "url": "https://www.google.com/maps/search/McDonald's+near+27.9489459%2C-82.3300094"
+    },
+    {
+      "name": "Fayrouz Cafe Brandon",
+      "distance": "0.7 mi",
+      "url": "https://www.google.com/maps/search/Fayrouz%20Cafe%20Brandon+near+27.9489459%2C-82.3300094"
+    },
+    {
+      "name": "Comida",
+      "distance": "0.7 mi",
+      "url": "https://www.google.com/maps/search/Comida+near+27.9489459%2C-82.3300094"
+    }
+  ],
+  "team_lunch": [
+    {
+      "name": "Jin China",
+      "distance": "0.6 mi",
+      "url": "https://www.google.com/maps/search/Jin%20China+near+27.9489459%2C-82.3300094"
+    },
+    {
+      "name": "All About Salads",
+      "distance": "0.6 mi",
+      "url": "https://www.google.com/maps/search/All%20About%20Salads+near+27.9489459%2C-82.3300094"
+    },
+    {
+      "name": "Red Lobster",
+      "distance": "0.6 mi",
+      "url": "https://www.google.com/maps/search/Red%20Lobster+near+27.9489459%2C-82.3300094"
+    }
+  ],
+  "dinner": [
+    {
+      "name": "Peppino Foods Inc",
+      "distance": "0.3 mi",
+      "url": "https://www.google.com/maps/search/Peppino%20Foods%20Inc+near+27.9489459%2C-82.3300094"
+    },
+    {
+      "name": "Mangos Restaurant @ Embassy Suites Tampa/Brandon",
+      "distance": "0.5 mi",
+      "url": "https://www.google.com/maps/search/Mangos%20Restaurant%20%40%20Embassy%20Suites%20Tampa%2FBrandon+near+27.9489459%2C-82.3300094"
+    },
+    {
+      "name": "The Bistro - Eat. Drink. Connect.®",
+      "distance": "0.6 mi",
+      "url": "https://www.google.com/maps/search/The%20Bistro%20-%20Eat.%20Drink.%20Connect.%C2%AE+near+27.9489459%2C-82.3300094"
+    },
+    {
+      "name": "Sushi Yama",
+      "distance": "0.6 mi",
+      "url": "https://www.google.com/maps/search/Sushi%20Yama+near+27.9489459%2C-82.3300094"
+    },
+    {
+      "name": "Nueva Cantina - Brandon",
+      "distance": "0.6 mi",
+      "url": "https://www.google.com/maps/search/Nueva%20Cantina%20-%20Brandon+near+27.9489459%2C-82.3300094"
+    },
+    {
+      "name": "Nothing Bundt Cakes",
+      "distance": "0.6 mi",
+      "url": "https://www.google.com/maps/search/Nothing%20Bundt%20Cakes+near+27.9489459%2C-82.3300094"
+    },
+    {
+      "name": "Shriyas Kitchen",
+      "distance": "0.7 mi",
+      "url": "https://www.google.com/maps/search/Shriyas%20Kitchen+near+27.9489459%2C-82.3300094"
+    }
+  ],
+  "bowling": [
+    {
+      "name": "Brandon Crossroads Bowl",
+      "distance": "1.1 mi",
+      "url": "https://www.google.com/maps/search/Brandon%20Crossroads%20Bowl+near+27.9489459%2C-82.3300094"
+    },
+    {
+      "name": "Pin Chasers Brandon",
+      "distance": "2.2 mi",
+      "url": "https://www.google.com/maps/search/Pin%20Chasers%20Brandon+near+27.9489459%2C-82.3300094"
+    }
+  ],
+  "arcade": [],
+  "movies": [
+    {
+      "name": "AMC The Regency 20",
+      "distance": "0.5 mi",
+      "url": "https://www.google.com/maps/search/AMC%20The%20Regency%2020+near+27.9489459%2C-82.3300094"
+    },
+    {
+      "name": "Xscape Theatres Riverview 14",
+      "distance": "4.0 mi",
+      "url": "https://www.google.com/maps/search/Xscape%20Theatres%20Riverview%2014+near+27.9489459%2C-82.3300094",
+      "isFar": true
+    }
+  ],
+  "fun": [
+    {
+      "name": "Sky Zone Trampoline Park",
+      "distance": "0.7 mi",
+      "url": "https://www.google.com/maps/search/Sky%20Zone%20Trampoline%20Park+near+27.9489459%2C-82.3300094"
+    },
+    {
+      "name": "Game Over Escape Rooms Brandon",
+      "distance": "1.0 mi",
+      "url": "https://www.google.com/maps/search/Game%20Over%20Escape%20Rooms%20Brandon+near+27.9489459%2C-82.3300094"
+    },
+    {
+      "name": "Intense Escape Tampa-Brandon",
+      "distance": "1.1 mi",
+      "url": "https://www.google.com/maps/search/Intense%20Escape%20Tampa-Brandon+near+27.9489459%2C-82.3300094"
+    },
+    {
+      "name": "The Airosphere, Inflatable Park & Arcades",
+      "distance": "1.1 mi",
+      "url": "https://www.google.com/maps/search/The%20Airosphere%2C%20Inflatable%20Park%20%26%20Arcades+near+27.9489459%2C-82.3300094"
+    },
+    {
+      "name": "Academy Sim Racing",
+      "distance": "1.9 mi",
+      "url": "https://www.google.com/maps/search/Academy%20Sim%20Racing+near+27.9489459%2C-82.3300094"
+    },
+    {
+      "name": "Game Over Escape Rooms EAST TAMPA",
+      "distance": "1.9 mi",
+      "url": "https://www.google.com/maps/search/Game%20Over%20Escape%20Rooms%20EAST%20TAMPA+near+27.9489459%2C-82.3300094"
+    },
+    {
+      "name": "K1 Speed - Indoor Go Karts, Corporate Event Venue, Team Building Activities",
+      "distance": "2.0 mi",
+      "url": "https://www.google.com/maps/search/K1%20Speed%20-%20Indoor%20Go%20Karts%2C%20Corporate%20Event%20Venue%2C%20Team%20Building%20Activities+near+27.9489459%2C-82.3300094"
+    }
+  ],
+  "hotels": [
+    {
+      "name": "Holiday Inn Express Tampa-Brandon, an IHG Hotel",
+      "distance": "0.3 mi",
+      "url": "https://www.google.com/maps/search/Holiday%20Inn%20Express%20Tampa-Brandon%2C%20an%20IHG%20Hotel+near+27.9489459%2C-82.3300094"
+    },
+    {
+      "name": "Spark by Hilton Tampa Brandon",
+      "distance": "0.3 mi",
+      "url": "https://www.google.com/maps/search/Spark%20by%20Hilton%20Tampa%20Brandon+near+27.9489459%2C-82.3300094"
+    },
+    {
+      "name": "Red Roof Inn Tampa - Brandon",
+      "distance": "0.3 mi",
+      "url": "https://www.google.com/maps/search/Red%20Roof%20Inn%20Tampa%20-%20Brandon+near+27.9489459%2C-82.3300094"
+    },
+    {
+      "name": "Extended Stay America Select Suites- Tampa - Brandon",
+      "distance": "0.4 mi",
+      "url": "https://www.google.com/maps/search/Extended%20Stay%20America%20Select%20Suites-%20Tampa%20-%20Brandon+near+27.9489459%2C-82.3300094"
+    },
+    {
+      "name": "Recharge in style! Tampa, Large Guest room-2 Queen",
+      "distance": "0.4 mi",
+      "url": "https://www.google.com/maps/search/Recharge%20in%20style!%20Tampa%2C%20Large%20Guest%20room-2%20Queen+near+27.9489459%2C-82.3300094"
+    },
+    {
+      "name": "La Quinta Inn & Suites by Wyndham Tampa Brandon West",
+      "distance": "0.4 mi",
+      "url": "https://www.google.com/maps/search/La%20Quinta%20Inn%20%26%20Suites%20by%20Wyndham%20Tampa%20Brandon%20West+near+27.9489459%2C-82.3300094"
+    },
+    {
+      "name": "La Quinta Inn & Suites by Wyndham Tampa Brandon Regency Park",
+      "distance": "0.4 mi",
+      "url": "https://www.google.com/maps/search/La%20Quinta%20Inn%20%26%20Suites%20by%20Wyndham%20Tampa%20Brandon%20Regency%20Park+near+27.9489459%2C-82.3300094"
+    }
+  ],
+  "gas": [
+    {
+      "name": "Circle K | Gas Station",
+      "distance": "0.4 mi",
+      "url": "https://www.google.com/maps/search/Circle%20K%20%7C%20Gas%20Station+near+27.9489459%2C-82.3300094"
+    },
+    {
+      "name": "Shell",
+      "distance": "0.4 mi",
+      "url": "https://www.google.com/maps/search/Shell+near+27.9489459%2C-82.3300094"
+    },
+    {
+      "name": "Circle K | Gas Station",
+      "distance": "0.5 mi",
+      "url": "https://www.google.com/maps/search/Circle%20K%20%7C%20Gas%20Station+near+27.9489459%2C-82.3300094"
+    },
+    {
+      "name": "7-Eleven",
+      "distance": "0.7 mi",
+      "url": "https://www.google.com/maps/search/7-Eleven+near+27.9489459%2C-82.3300094"
+    },
+    {
+      "name": "Quick Fuel",
+      "distance": "0.7 mi",
+      "url": "https://www.google.com/maps/search/Quick%20Fuel+near+27.9489459%2C-82.3300094"
+    }
+  ]
+}

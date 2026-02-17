@@ -1,0 +1,213 @@
+{
+  "quick_bite": [
+    {
+      "name": "Hunt Brothers Pizza",
+      "distance": "0.7 mi",
+      "url": "https://www.google.com/maps/search/Hunt%20Brothers%20Pizza+near+44.7475204%2C-93.1278839"
+    },
+    {
+      "name": "Sip & Swirl By B & P",
+      "distance": "0.7 mi",
+      "url": "https://www.google.com/maps/search/Sip%20%26%20Swirl%20By%20B%20%26%20P+near+44.7475204%2C-93.1278839"
+    },
+    {
+      "name": "Culver’s",
+      "distance": "0.9 mi",
+      "url": "https://www.google.com/maps/search/Culver%E2%80%99s+near+44.7475204%2C-93.1278839"
+    },
+    {
+      "name": "Noodles and Company",
+      "distance": "1.1 mi",
+      "url": "https://www.google.com/maps/search/Noodles%20and%20Company+near+44.7475204%2C-93.1278839"
+    },
+    {
+      "name": "Arby's",
+      "distance": "1.2 mi",
+      "url": "https://www.google.com/maps/search/Arby's+near+44.7475204%2C-93.1278839"
+    },
+    {
+      "name": "Chipotle Mexican Grill",
+      "distance": "1.2 mi",
+      "url": "https://www.google.com/maps/search/Chipotle%20Mexican%20Grill+near+44.7475204%2C-93.1278839"
+    },
+    {
+      "name": "Jersey Mike's Subs",
+      "distance": "1.2 mi",
+      "url": "https://www.google.com/maps/search/Jersey%20Mike's%20Subs+near+44.7475204%2C-93.1278839"
+    }
+  ],
+  "coffee": [
+    {
+      "name": "Starbucks Coffee Company",
+      "distance": "1.0 mi",
+      "url": "https://www.google.com/maps/search/Starbucks%20Coffee%20Company+near+44.7475204%2C-93.1278839"
+    },
+    {
+      "name": "McDonald's",
+      "distance": "1.2 mi",
+      "url": "https://www.google.com/maps/search/McDonald's+near+44.7475204%2C-93.1278839"
+    }
+  ],
+  "team_lunch": [],
+  "dinner": [
+    {
+      "name": "Carbone's Pizza & Pub",
+      "distance": "0.6 mi",
+      "url": "https://www.google.com/maps/search/Carbone's%20Pizza%20%26%20Pub+near+44.7475204%2C-93.1278839"
+    },
+    {
+      "name": "Tops Pizza & Grill",
+      "distance": "0.8 mi",
+      "url": "https://www.google.com/maps/search/Tops%20Pizza%20%26%20Grill+near+44.7475204%2C-93.1278839"
+    },
+    {
+      "name": "Beirut Lebanese Street Food & Catering",
+      "distance": "1.0 mi",
+      "url": "https://www.google.com/maps/search/Beirut%20Lebanese%20Street%20Food%20%26%20Catering+near+44.7475204%2C-93.1278839"
+    },
+    {
+      "name": "Fusion Asian Food",
+      "distance": "1.0 mi",
+      "url": "https://www.google.com/maps/search/Fusion%20Asian%20Food+near+44.7475204%2C-93.1278839"
+    },
+    {
+      "name": "Pho Rosemount Asian Cuisine",
+      "distance": "1.2 mi",
+      "url": "https://www.google.com/maps/search/Pho%20Rosemount%20Asian%20Cuisine+near+44.7475204%2C-93.1278839"
+    },
+    {
+      "name": "House of Curry",
+      "distance": "1.2 mi",
+      "url": "https://www.google.com/maps/search/House%20of%20Curry+near+44.7475204%2C-93.1278839"
+    },
+    {
+      "name": "Fireside Restaurant & Bar",
+      "distance": "1.2 mi",
+      "url": "https://www.google.com/maps/search/Fireside%20Restaurant%20%26%20Bar+near+44.7475204%2C-93.1278839"
+    }
+  ],
+  "bowling": [
+    {
+      "name": "Apple Place Bowl",
+      "distance": "4.2 mi",
+      "url": "https://www.google.com/maps/search/Apple%20Place%20Bowl+near+44.7475204%2C-93.1278839",
+      "isFar": true
+    },
+    {
+      "name": "Cedarvale Lanes and Fitz's Bar & Grill",
+      "distance": "6.2 mi",
+      "url": "https://www.google.com/maps/search/Cedarvale%20Lanes%20and%20Fitz's%20Bar%20%26%20Grill+near+44.7475204%2C-93.1278839",
+      "isFar": true
+    }
+  ],
+  "arcade": [],
+  "movies": [
+    {
+      "name": "Marcus Rosemount Cinema",
+      "distance": "1.4 mi",
+      "url": "https://www.google.com/maps/search/Marcus%20Rosemount%20Cinema+near+44.7475204%2C-93.1278839"
+    },
+    {
+      "name": "Emagine Eagan",
+      "distance": "5.0 mi",
+      "url": "https://www.google.com/maps/search/Emagine%20Eagan+near+44.7475204%2C-93.1278839",
+      "isFar": true
+    }
+  ],
+  "fun": [
+    {
+      "name": "Splash Valley Water Park",
+      "distance": "3.0 mi",
+      "url": "https://www.google.com/maps/search/Splash%20Valley%20Water%20Park+near+44.7475204%2C-93.1278839",
+      "isFar": true
+    },
+    {
+      "name": "Urban Air Trampoline and Adventure Park",
+      "distance": "4.5 mi",
+      "url": "https://www.google.com/maps/search/Urban%20Air%20Trampoline%20and%20Adventure%20Park+near+44.7475204%2C-93.1278839",
+      "isFar": true
+    },
+    {
+      "name": "Cascade Bay Water Park",
+      "distance": "5.2 mi",
+      "url": "https://www.google.com/maps/search/Cascade%20Bay%20Water%20Park+near+44.7475204%2C-93.1278839",
+      "isFar": true
+    },
+    {
+      "name": "Sky Zone Trampoline Park",
+      "distance": "6.5 mi",
+      "url": "https://www.google.com/maps/search/Sky%20Zone%20Trampoline%20Park+near+44.7475204%2C-93.1278839",
+      "isFar": true
+    },
+    {
+      "name": "The Grove",
+      "distance": "6.6 mi",
+      "url": "https://www.google.com/maps/search/The%20Grove+near+44.7475204%2C-93.1278839",
+      "isFar": true
+    }
+  ],
+  "hotels": [
+    {
+      "name": "Rosemount Woods",
+      "distance": "0.2 mi",
+      "url": "https://www.google.com/maps/search/Rosemount%20Woods+near+44.7475204%2C-93.1278839"
+    },
+    {
+      "name": "New home with all the modern comforts",
+      "distance": "0.4 mi",
+      "url": "https://www.google.com/maps/search/New%20home%20with%20all%20the%20modern%20comforts+near+44.7475204%2C-93.1278839"
+    },
+    {
+      "name": "101 - New, Modern & Comfortable 2 Bedroom Apt",
+      "distance": "0.8 mi",
+      "url": "https://www.google.com/maps/search/101%20-%20New%2C%20Modern%20%26%20Comfortable%202%20Bedroom%20Apt+near+44.7475204%2C-93.1278839"
+    },
+    {
+      "name": "102 - New, Modern & Comfortable 1 Bedroom Apt",
+      "distance": "0.8 mi",
+      "url": "https://www.google.com/maps/search/102%20-%20New%2C%20Modern%20%26%20Comfortable%201%20Bedroom%20Apt+near+44.7475204%2C-93.1278839"
+    },
+    {
+      "name": "100 - New, Modern & Comfortable 2 Bedroom Apt",
+      "distance": "0.8 mi",
+      "url": "https://www.google.com/maps/search/100%20-%20New%2C%20Modern%20%26%20Comfortable%202%20Bedroom%20Apt+near+44.7475204%2C-93.1278839"
+    },
+    {
+      "name": "101 - New, Modern & Comfortable 2 Bedroom Apt",
+      "distance": "0.8 mi",
+      "url": "https://www.google.com/maps/search/101%20-%20New%2C%20Modern%20%26%20Comfortable%202%20Bedroom%20Apt+near+44.7475204%2C-93.1278839"
+    },
+    {
+      "name": "102 - New, Modern Comfortable 1 Bedroom Apt",
+      "distance": "0.8 mi",
+      "url": "https://www.google.com/maps/search/102%20-%20New%2C%20Modern%20Comfortable%201%20Bedroom%20Apt+near+44.7475204%2C-93.1278839"
+    }
+  ],
+  "gas": [
+    {
+      "name": "bp",
+      "distance": "0.5 mi",
+      "url": "https://www.google.com/maps/search/bp+near+44.7475204%2C-93.1278839"
+    },
+    {
+      "name": "Rosies Market",
+      "distance": "0.7 mi",
+      "url": "https://www.google.com/maps/search/Rosies%20Market+near+44.7475204%2C-93.1278839"
+    },
+    {
+      "name": "MINNOCO",
+      "distance": "0.7 mi",
+      "url": "https://www.google.com/maps/search/MINNOCO+near+44.7475204%2C-93.1278839"
+    },
+    {
+      "name": "Holiday",
+      "distance": "1.2 mi",
+      "url": "https://www.google.com/maps/search/Holiday+near+44.7475204%2C-93.1278839"
+    },
+    {
+      "name": "Circle K",
+      "distance": "1.2 mi",
+      "url": "https://www.google.com/maps/search/Circle%20K+near+44.7475204%2C-93.1278839"
+    }
+  ]
+}

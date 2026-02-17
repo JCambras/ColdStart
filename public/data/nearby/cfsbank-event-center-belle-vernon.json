@@ -1,0 +1,170 @@
+{
+  "quick_bite": [
+    {
+      "name": "Little Caesars Pizza",
+      "distance": "0.5 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Little%20Caesars%20Pizza&query_place_id=ChIJO8nsYR3iNIgRtLwrzD8Wg2s&center=40.200413,-79.834015"
+    },
+    {
+      "name": "Dairy Queen Grill & Chill",
+      "distance": "0.6 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Dairy%20Queen%20Grill%20%26%20Chill&query_place_id=ChIJjX_PQhniNIgRM8SCAd7SjwE&center=40.2026302,-79.83664940000001"
+    },
+    {
+      "name": "The Red Caboose",
+      "distance": "1.2 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=The%20Red%20Caboose&query_place_id=ChIJL3uMujziNIgRbIKiFuMigog&center=40.212359299999996,-79.841824"
+    },
+    {
+      "name": "Jake's Pizza Rostraver",
+      "distance": "1.7 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Jake's%20Pizza%20Rostraver&query_place_id=ChIJfXDeHyIeNYgRMbKQC2Lykg4&center=40.179662,-79.805747"
+    },
+    {
+      "name": "Subway",
+      "distance": "1.7 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Subway&query_place_id=ChIJ4ePR7CEeNYgR_KlMc8L2_n4&center=40.1797477,-79.804836"
+    }
+  ],
+  "coffee": [
+    {
+      "name": "Dunkin'",
+      "distance": "0.6 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Dunkin'&query_place_id=ChIJ6YSnXxniNIgRLriLFISmTjc&center=40.2026572,-79.836557"
+    }
+  ],
+  "team_lunch": [
+    {
+      "name": "Murph's Pub At the Garden",
+      "distance": "0.1 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Murph's%20Pub%20At%20the%20Garden&query_place_id=ChIJCYP5RWAcNYgR-mSbflJ8sUE&center=40.198914099999996,-79.8250422"
+    },
+    {
+      "name": "The Pizza Company",
+      "distance": "1.0 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=The%20Pizza%20Company&query_place_id=ChIJJfMloPvhNIgRjTqlKRTz4Zg&center=40.1868591,-79.8173522"
+    },
+    {
+      "name": "Fox's Pizza Den",
+      "distance": "1.3 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Fox's%20Pizza%20Den&query_place_id=ChIJbUGGM9HhNIgRJfVi0KtYZuo&center=40.18526680000001,-79.8092901"
+    },
+    {
+      "name": "Dzimiera Flour Company Inc",
+      "distance": "4.8 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Dzimiera%20Flour%20Company%20Inc&query_place_id=ChIJx9tFwfscNYgRhcftCsKNKp4&center=40.144199,-79.881197",
+      "isFar": true
+    }
+  ],
+  "dinner": [
+    {
+      "name": "Bubba's Kitchen + Bar",
+      "distance": "0.1 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Bubba's%20Kitchen%20%2B%20Bar&query_place_id=ChIJ31VKrEThNIgRuXmNIbkxt7g&center=40.198962699999996,-79.8251095"
+    },
+    {
+      "name": "Roadside Restaurant",
+      "distance": "0.4 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Roadside%20Restaurant&query_place_id=ChIJY9Z4OBziNIgRjMhVmjCBY0E&center=40.2010431,-79.8333275"
+    },
+    {
+      "name": "Blaine Hill Barbeque - Eagle's Landing",
+      "distance": "0.7 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Blaine%20Hill%20Barbeque%20-%20Eagle's%20Landing&query_place_id=ChIJpSEvPQDjNIgR6bMT47mLJes&center=40.2074716,-79.8332253"
+    },
+    {
+      "name": "Bill's Restaurant",
+      "distance": "1.3 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Bill's%20Restaurant&query_place_id=ChIJsdVEDR4eNYgRE1dK4RT0WBc&center=40.184056,-79.81222199999999"
+    },
+    {
+      "name": "Corleones' Bar & Grill",
+      "distance": "1.3 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Corleones'%20Bar%20%26%20Grill&query_place_id=ChIJl9fSp8LhNIgRjgucS-CuMcQ&center=40.185306399999995,-79.8093877"
+    },
+    {
+      "name": "Salvatore’s Pizza & Pasta",
+      "distance": "1.5 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Salvatore%E2%80%99s%20Pizza%20%26%20Pasta&query_place_id=ChIJoTS8W3UfNYgR3i9Mj3q_Hok&center=40.183692799999996,-79.80491599999999"
+    }
+  ],
+  "bowling": [
+    {
+      "name": "AMF Belle Vernon Lanes",
+      "distance": "0.7 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=AMF%20Belle%20Vernon%20Lanes&query_place_id=ChIJZZt6uAUfNYgRqLRQJ3pWvn4&center=40.1899431,-79.8215326"
+    },
+    {
+      "name": "Casoni Bowling Lanes",
+      "distance": "2.9 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Casoni%20Bowling%20Lanes&query_place_id=ChIJHUco4xLhNIgRX5L6h1EFUXk&center=40.23760300000001,-79.805196"
+    }
+  ],
+  "arcade": [],
+  "movies": [],
+  "fun": [
+    {
+      "name": "Sidewinder Maze",
+      "distance": "3.5 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Sidewinder%20Maze&query_place_id=ChIJXSXmSADjNIgR_mww6z9fgIM&center=40.238431,-79.8666963",
+      "isFar": true
+    },
+    {
+      "name": "Round Hill Spray Park",
+      "distance": "3.5 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Round%20Hill%20Spray%20Park&query_place_id=ChIJhQpgMbnjNIgRbJZE05cnKw0&center=40.2448383,-79.85618389999999",
+      "isFar": true
+    },
+    {
+      "name": "Smithton Beach",
+      "distance": "5.0 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Smithton%20Beach&query_place_id=ChIJlalvcasfNYgRWK2zqFcuFQk&center=40.1591831,-79.74721749999999",
+      "isFar": true
+    }
+  ],
+  "hotels": [
+    {
+      "name": "Our Guest Home",
+      "distance": "1.7 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Our%20Guest%20Home&query_place_id=ChIJBxNQZG7iNIgRKZqILZ1LSps&center=40.201561,-79.8585968"
+    },
+    {
+      "name": "Our Guest Home",
+      "distance": "1.7 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Our%20Guest%20Home&query_place_id=ChIJAUZFZG7iNIgRBMxWMckSjhA&center=40.2015686,-79.85860439999999"
+    },
+    {
+      "name": "51 Estates",
+      "distance": "2.4 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=51%20Estates&query_place_id=ChIJoYti7eLjNIgRGFkYlAdohtE&center=40.2247924,-79.8553771"
+    },
+    {
+      "name": "Bright Morning Bed & Breakfast",
+      "distance": "3.1 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Bright%20Morning%20Bed%20%26%20Breakfast&query_place_id=ChIJ5aj7PVvgNIgRsYKJvb5C-FI&center=40.2132627,-79.7697014",
+      "isFar": true
+    }
+  ],
+  "gas": [
+    {
+      "name": "Marathon Gas",
+      "distance": "0.5 mi",
+      "url": "https://www.google.com/maps/search/Marathon%20Gas+near+40.1993217%2C-79.8255767"
+    },
+    {
+      "name": "bp",
+      "distance": "0.6 mi",
+      "url": "https://www.google.com/maps/search/bp+near+40.1993217%2C-79.8255767"
+    },
+    {
+      "name": "Amoco",
+      "distance": "0.6 mi",
+      "url": "https://www.google.com/maps/search/Amoco+near+40.1993217%2C-79.8255767"
+    },
+    {
+      "name": "Polly Ethyl Gas",
+      "distance": "3.0 mi",
+      "url": "https://www.google.com/maps/search/Polly%20Ethyl%20Gas+near+40.1993217%2C-79.8255767"
+    }
+  ]
+}

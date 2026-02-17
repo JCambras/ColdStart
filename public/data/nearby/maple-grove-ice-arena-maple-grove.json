@@ -1,0 +1,203 @@
+{
+  "quick_bite": [
+    {
+      "name": "Taco John's",
+      "distance": "0.3 mi",
+      "url": "https://www.google.com/maps/search/Taco%20John's+near+45.102881599999996%2C-93.4440686"
+    },
+    {
+      "name": "Jimmy John's",
+      "distance": "0.3 mi",
+      "url": "https://www.google.com/maps/search/Jimmy%20John's+near+45.102881599999996%2C-93.4440686"
+    },
+    {
+      "name": "Papa Murphy's | Take 'N' Bake Pizza",
+      "distance": "0.3 mi",
+      "url": "https://www.google.com/maps/search/Papa%20Murphy's%20%7C%20Take%20'N'%20Bake%20Pizza+near+45.102881599999996%2C-93.4440686"
+    },
+    {
+      "name": "Arby's",
+      "distance": "0.4 mi",
+      "url": "https://www.google.com/maps/search/Arby's+near+45.102881599999996%2C-93.4440686"
+    },
+    {
+      "name": "Golden Corral Buffet & Grill",
+      "distance": "0.4 mi",
+      "url": "https://www.google.com/maps/search/Golden%20Corral%20Buffet%20%26%20Grill+near+45.102881599999996%2C-93.4440686"
+    }
+  ],
+  "coffee": [
+    {
+      "name": "Caribou Coffee",
+      "distance": "0.2 mi",
+      "url": "https://www.google.com/maps/search/Caribou%20Coffee+near+45.102881599999996%2C-93.4440686"
+    },
+    {
+      "name": "Kingdom Coffee",
+      "distance": "0.4 mi",
+      "url": "https://www.google.com/maps/search/Kingdom%20Coffee+near+45.102881599999996%2C-93.4440686"
+    },
+    {
+      "name": "Starbucks Coffee Company",
+      "distance": "0.4 mi",
+      "url": "https://www.google.com/maps/search/Starbucks%20Coffee%20Company+near+45.102881599999996%2C-93.4440686"
+    },
+    {
+      "name": "Dunkin'",
+      "distance": "0.4 mi",
+      "url": "https://www.google.com/maps/search/Dunkin'+near+45.102881599999996%2C-93.4440686"
+    }
+  ],
+  "team_lunch": [
+    {
+      "name": "Broadway Bar & Pizza",
+      "distance": "0.4 mi",
+      "url": "https://www.google.com/maps/search/Broadway%20Bar%20%26%20Pizza+near+45.102881599999996%2C-93.4440686"
+    },
+    {
+      "name": "Sawatdee Thai Cuisine - Maple Grove",
+      "distance": "0.4 mi",
+      "url": "https://www.google.com/maps/search/Sawatdee%20Thai%20Cuisine%20-%20Maple%20Grove+near+45.102881599999996%2C-93.4440686"
+    }
+  ],
+  "dinner": [
+    {
+      "name": "LifeCafe - Maple Grove",
+      "distance": "0.1 mi",
+      "url": "https://www.google.com/maps/search/LifeCafe%20-%20Maple%20Grove+near+45.102881599999996%2C-93.4440686"
+    },
+    {
+      "name": "Riviera Maya Cantina & Restaurant",
+      "distance": "0.3 mi",
+      "url": "https://www.google.com/maps/search/Riviera%20Maya%20Cantina%20%26%20Restaurant+near+45.102881599999996%2C-93.4440686"
+    },
+    {
+      "name": "3 Squares Restaurant",
+      "distance": "0.3 mi",
+      "url": "https://www.google.com/maps/search/3%20Squares%20Restaurant+near+45.102881599999996%2C-93.4440686"
+    },
+    {
+      "name": "Nothing Bundt Cakes",
+      "distance": "0.3 mi",
+      "url": "https://www.google.com/maps/search/Nothing%20Bundt%20Cakes+near+45.102881599999996%2C-93.4440686"
+    },
+    {
+      "name": "Nautical Bowls",
+      "distance": "0.4 mi",
+      "url": "https://www.google.com/maps/search/Nautical%20Bowls+near+45.102881599999996%2C-93.4440686"
+    },
+    {
+      "name": "El Rodeo Mexican Restaurant",
+      "distance": "0.4 mi",
+      "url": "https://www.google.com/maps/search/El%20Rodeo%20Mexican%20Restaurant+near+45.102881599999996%2C-93.4440686"
+    },
+    {
+      "name": "Angeno's Pizza and Pasta",
+      "distance": "0.4 mi",
+      "url": "https://www.google.com/maps/search/Angeno's%20Pizza%20and%20Pasta+near+45.102881599999996%2C-93.4440686"
+    }
+  ],
+  "bowling": [
+    {
+      "name": "Bowlero Brooklyn Park",
+      "distance": "4.5 mi",
+      "url": "https://www.google.com/maps/search/Bowlero%20Brooklyn%20Park+near+45.102881599999996%2C-93.4440686",
+      "isFar": true
+    }
+  ],
+  "arcade": [],
+  "movies": [
+    {
+      "name": "Mann Theatres Champlin",
+      "distance": "4.8 mi",
+      "url": "https://www.google.com/maps/search/Mann%20Theatres%20Champlin+near+45.102881599999996%2C-93.4440686",
+      "isFar": true
+    }
+  ],
+  "fun": [
+    {
+      "name": "Enigma Adventures: Escape Room Games",
+      "distance": "0.5 mi",
+      "url": "https://www.google.com/maps/search/Enigma%20Adventures%3A%20Escape%20Room%20Games+near+45.102881599999996%2C-93.4440686"
+    },
+    {
+      "name": "WhirlyBall Twin Cities",
+      "distance": "0.5 mi",
+      "url": "https://www.google.com/maps/search/WhirlyBall%20Twin%20Cities+near+45.102881599999996%2C-93.4440686"
+    },
+    {
+      "name": "Slick City Action Park",
+      "distance": "1.4 mi",
+      "url": "https://www.google.com/maps/search/Slick%20City%20Action%20Park+near+45.102881599999996%2C-93.4440686"
+    },
+    {
+      "name": "Sky Zone Trampoline Park",
+      "distance": "2.7 mi",
+      "url": "https://www.google.com/maps/search/Sky%20Zone%20Trampoline%20Park+near+45.102881599999996%2C-93.4440686"
+    }
+  ],
+  "hotels": [
+    {
+      "name": "Shops, golf, and the outdoors in Maple Grove",
+      "distance": "0.4 mi",
+      "url": "https://www.google.com/maps/search/Shops%2C%20golf%2C%20and%20the%20outdoors%20in%20Maple%20Grove+near+45.102881599999996%2C-93.4440686"
+    },
+    {
+      "name": "Condo ∙ 1 bedroom ∙ 6 guests",
+      "distance": "0.5 mi",
+      "url": "https://www.google.com/maps/search/Condo%20%E2%88%99%201%20bedroom%20%E2%88%99%206%20guests+near+45.102881599999996%2C-93.4440686"
+    },
+    {
+      "name": "Free Breakfast. Pool & Hot Tub. Gym. Near Albertville Premium Outlets!",
+      "distance": "0.5 mi",
+      "url": "https://www.google.com/maps/search/Free%20Breakfast.%20Pool%20%26%20Hot%20Tub.%20Gym.%20Near%20Albertville%20Premium%20Outlets!+near+45.102881599999996%2C-93.4440686"
+    },
+    {
+      "name": "Free Breakfast. Pool & Hot Tub. Gym. Great for Business Travelers!",
+      "distance": "0.5 mi",
+      "url": "https://www.google.com/maps/search/Free%20Breakfast.%20Pool%20%26%20Hot%20Tub.%20Gym.%20Great%20for%20Business%20Travelers!+near+45.102881599999996%2C-93.4440686"
+    },
+    {
+      "name": "Free Breakfast. Pool Hot Tub. Gym. Great for Business Travelers!",
+      "distance": "0.5 mi",
+      "url": "https://www.google.com/maps/search/Free%20Breakfast.%20Pool%20Hot%20Tub.%20Gym.%20Great%20for%20Business%20Travelers!+near+45.102881599999996%2C-93.4440686"
+    },
+    {
+      "name": "Staybridge Suites Mpls-Maple Grove/Arbor Lakes by IHG",
+      "distance": "0.5 mi",
+      "url": "https://www.google.com/maps/search/Staybridge%20Suites%20Mpls-Maple%20Grove%2FArbor%20Lakes%20by%20IHG+near+45.102881599999996%2C-93.4440686"
+    },
+    {
+      "name": "Hampton Inn Minneapolis NW Maple Grove",
+      "distance": "0.6 mi",
+      "url": "https://www.google.com/maps/search/Hampton%20Inn%20Minneapolis%20NW%20Maple%20Grove+near+45.102881599999996%2C-93.4440686"
+    }
+  ],
+  "gas": [
+    {
+      "name": "Minnoco",
+      "distance": "0.3 mi",
+      "url": "https://www.google.com/maps/search/Minnoco+near+45.102881599999996%2C-93.4440686"
+    },
+    {
+      "name": "Maple Square Fuel & Wash",
+      "distance": "0.3 mi",
+      "url": "https://www.google.com/maps/search/Maple%20Square%20Fuel%20%26%20Wash+near+45.102881599999996%2C-93.4440686"
+    },
+    {
+      "name": "Speedway",
+      "distance": "0.6 mi",
+      "url": "https://www.google.com/maps/search/Speedway+near+45.102881599999996%2C-93.4440686"
+    },
+    {
+      "name": "Costco Gas Station",
+      "distance": "1.1 mi",
+      "url": "https://www.google.com/maps/search/Costco%20Gas%20Station+near+45.102881599999996%2C-93.4440686"
+    },
+    {
+      "name": "bp",
+      "distance": "1.2 mi",
+      "url": "https://www.google.com/maps/search/bp+near+45.102881599999996%2C-93.4440686"
+    }
+  ]
+}

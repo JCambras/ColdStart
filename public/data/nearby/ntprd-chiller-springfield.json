@@ -1,0 +1,198 @@
+{
+  "quick_bite": [
+    {
+      "name": "Wendy's",
+      "distance": "0.1 mi",
+      "url": "https://www.google.com/maps/search/Wendy's+near+39.924676%2C-83.8165631"
+    },
+    {
+      "name": "Lee's Famous Recipe Chicken",
+      "distance": "0.2 mi",
+      "url": "https://www.google.com/maps/search/Lee's%20Famous%20Recipe%20Chicken+near+39.924676%2C-83.8165631"
+    },
+    {
+      "name": "Champion City American Grill",
+      "distance": "0.3 mi",
+      "url": "https://www.google.com/maps/search/Champion%20City%20American%20Grill+near+39.924676%2C-83.8165631"
+    },
+    {
+      "name": "Dough Re Mi Pizza",
+      "distance": "0.3 mi",
+      "url": "https://www.google.com/maps/search/Dough%20Re%20Mi%20Pizza+near+39.924676%2C-83.8165631"
+    },
+    {
+      "name": "Chido's Tacos",
+      "distance": "0.3 mi",
+      "url": "https://www.google.com/maps/search/Chido's%20Tacos+near+39.924676%2C-83.8165631"
+    },
+    {
+      "name": "Gumbowl Cajun Cuisine",
+      "distance": "0.3 mi",
+      "url": "https://www.google.com/maps/search/Gumbowl%20Cajun%20Cuisine+near+39.924676%2C-83.8165631"
+    },
+    {
+      "name": "Sushi Hikari Moe",
+      "distance": "0.3 mi",
+      "url": "https://www.google.com/maps/search/Sushi%20Hikari%20Moe+near+39.924676%2C-83.8165631"
+    }
+  ],
+  "coffee": [
+    {
+      "name": "OH! Boba CoHatch Springfield",
+      "distance": "0.3 mi",
+      "url": "https://www.google.com/maps/search/OH!%20Boba%20CoHatch%20Springfield+near+39.924676%2C-83.8165631"
+    },
+    {
+      "name": "Un Mundo Café",
+      "distance": "0.3 mi",
+      "url": "https://www.google.com/maps/search/Un%20Mundo%20Caf%C3%A9+near+39.924676%2C-83.8165631"
+    }
+  ],
+  "team_lunch": [
+    {
+      "name": "Pizza N Stuff",
+      "distance": "0.1 mi",
+      "url": "https://www.google.com/maps/search/Pizza%20N%20Stuff+near+39.924676%2C-83.8165631"
+    },
+    {
+      "name": "Klosterman Baking Ohio",
+      "distance": "0.2 mi",
+      "url": "https://www.google.com/maps/search/Klosterman%20Baking%20Ohio+near+39.924676%2C-83.8165631"
+    },
+    {
+      "name": "Fountain Brews",
+      "distance": "0.3 mi",
+      "url": "https://www.google.com/maps/search/Fountain%20Brews+near+39.924676%2C-83.8165631"
+    }
+  ],
+  "dinner": [
+    {
+      "name": "Food Truck Alley",
+      "distance": "0.3 mi",
+      "url": "https://www.google.com/maps/search/Food%20Truck%20Alley+near+39.924676%2C-83.8165631"
+    },
+    {
+      "name": "All Saints Grill",
+      "distance": "0.3 mi",
+      "url": "https://www.google.com/maps/search/All%20Saints%20Grill+near+39.924676%2C-83.8165631"
+    },
+    {
+      "name": "Charlo's Provisions & Eatery",
+      "distance": "0.3 mi",
+      "url": "https://www.google.com/maps/search/Charlo's%20Provisions%20%26%20Eatery+near+39.924676%2C-83.8165631"
+    },
+    {
+      "name": "Taqueria Los Cabos Springfield",
+      "distance": "0.4 mi",
+      "url": "https://www.google.com/maps/search/Taqueria%20Los%20Cabos%20Springfield+near+39.924676%2C-83.8165631"
+    },
+    {
+      "name": "Stella Bleu Bistro",
+      "distance": "0.4 mi",
+      "url": "https://www.google.com/maps/search/Stella%20Bleu%20Bistro+near+39.924676%2C-83.8165631"
+    },
+    {
+      "name": "Blended By J",
+      "distance": "0.4 mi",
+      "url": "https://www.google.com/maps/search/Blended%20By%20J+near+39.924676%2C-83.8165631"
+    },
+    {
+      "name": "Taqueria Ceylan",
+      "distance": "0.4 mi",
+      "url": "https://www.google.com/maps/search/Taqueria%20Ceylan+near+39.924676%2C-83.8165631"
+    }
+  ],
+  "bowling": [
+    {
+      "name": "Victory Lanes",
+      "distance": "1.5 mi",
+      "url": "https://www.google.com/maps/search/Victory%20Lanes+near+39.924676%2C-83.8165631"
+    }
+  ],
+  "arcade": [],
+  "movies": [
+    {
+      "name": "UEC Theatres",
+      "distance": "3.0 mi",
+      "url": "https://www.google.com/maps/search/UEC%20Theatres+near+39.924676%2C-83.8165631",
+      "isFar": true
+    }
+  ],
+  "fun": [
+    {
+      "name": "Bethie's Sprayground",
+      "distance": "1.4 mi",
+      "url": "https://www.google.com/maps/search/Bethie's%20Sprayground+near+39.924676%2C-83.8165631"
+    },
+    {
+      "name": "Splash Zone Aquatic Center",
+      "distance": "3.5 mi",
+      "url": "https://www.google.com/maps/search/Splash%20Zone%20Aquatic%20Center+near+39.924676%2C-83.8165631",
+      "isFar": true
+    }
+  ],
+  "hotels": [
+    {
+      "name": "Executive Inn",
+      "distance": "0.1 mi",
+      "url": "https://www.google.com/maps/search/Executive%20Inn+near+39.924676%2C-83.8165631"
+    },
+    {
+      "name": "< 1 Mi to Wittenberg: Eclectic Loft w/ Parking!",
+      "distance": "0.3 mi",
+      "url": "https://www.google.com/maps/search/%3C%201%20Mi%20to%20Wittenberg%3A%20Eclectic%20Loft%20w%2F%20Parking!+near+39.924676%2C-83.8165631"
+    },
+    {
+      "name": "< 1 Mi to Wittenberg: Eclectic Loft w/ Parking!",
+      "distance": "0.3 mi",
+      "url": "https://www.google.com/maps/search/%3C%201%20Mi%20to%20Wittenberg%3A%20Eclectic%20Loft%20w%2F%20Parking!+near+39.924676%2C-83.8165631"
+    },
+    {
+      "name": "Courtyard by Marriott Springfield Downtown",
+      "distance": "0.4 mi",
+      "url": "https://www.google.com/maps/search/Courtyard%20by%20Marriott%20Springfield%20Downtown+near+39.924676%2C-83.8165631"
+    },
+    {
+      "name": "Outter banks north Caroline",
+      "distance": "0.4 mi",
+      "url": "https://www.google.com/maps/search/Outter%20banks%20north%20Caroline+near+39.924676%2C-83.8165631"
+    },
+    {
+      "name": "Davenport House in Springfield - One-Bedroom Apartment",
+      "distance": "0.4 mi",
+      "url": "https://www.google.com/maps/search/Davenport%20House%20in%20Springfield%20-%20One-Bedroom%20Apartment+near+39.924676%2C-83.8165631"
+    },
+    {
+      "name": "Beautiful historic home, Wittenberg Univ, peaceful setting on campus; 2 bedrms",
+      "distance": "0.5 mi",
+      "url": "https://www.google.com/maps/search/Beautiful%20historic%20home%2C%20Wittenberg%20Univ%2C%20peaceful%20setting%20on%20campus%3B%202%20bedrms+near+39.924676%2C-83.8165631"
+    }
+  ],
+  "gas": [
+    {
+      "name": "Marathon Gas",
+      "distance": "0.5 mi",
+      "url": "https://www.google.com/maps/search/Marathon%20Gas+near+39.924676%2C-83.8165631"
+    },
+    {
+      "name": "Sunoco",
+      "distance": "0.6 mi",
+      "url": "https://www.google.com/maps/search/Sunoco+near+39.924676%2C-83.8165631"
+    },
+    {
+      "name": "Speedway",
+      "distance": "0.8 mi",
+      "url": "https://www.google.com/maps/search/Speedway+near+39.924676%2C-83.8165631"
+    },
+    {
+      "name": "Shell",
+      "distance": "1.1 mi",
+      "url": "https://www.google.com/maps/search/Shell+near+39.924676%2C-83.8165631"
+    },
+    {
+      "name": "Speedway",
+      "distance": "1.1 mi",
+      "url": "https://www.google.com/maps/search/Speedway+near+39.924676%2C-83.8165631"
+    }
+  ]
+}

@@ -1,0 +1,222 @@
+{
+  "quick_bite": [
+    {
+      "name": "SUBWAY",
+      "distance": "0.1 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=SUBWAY&query_place_id=ChIJm-Q6GstwxokRgq5FSSG_dsw&center=40.3355262,-75.926148"
+    },
+    {
+      "name": "A Ha Eggroll Takeout Restaurant",
+      "distance": "0.2 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=A%20Ha%20Eggroll%20Takeout%20Restaurant&query_place_id=ChIJ0btqu0p3xokRRCoPFM3tvqI&center=40.337325,-75.92224089999999"
+    },
+    {
+      "name": "Banizao Mobile Restaurant",
+      "distance": "0.3 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Banizao%20Mobile%20Restaurant&query_place_id=ChIJy1T207VwxokRaS7SksA9xzM&center=40.3315552,-75.92050019999999"
+    },
+    {
+      "name": "Barra Payan",
+      "distance": "0.3 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Barra%20Payan&query_place_id=ChIJDWiIc4NxxokRWeJWdm-K25A&center=40.3300875,-75.9239782"
+    },
+    {
+      "name": "EL Anafe Restaurant",
+      "distance": "0.4 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=EL%20Anafe%20Restaurant&query_place_id=ChIJL49p5JtxxokRx7UdDI6W-tk&center=40.3349102,-75.91692789999999"
+    }
+  ],
+  "coffee": [
+    {
+      "name": "Dunkin'",
+      "distance": "0.1 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Dunkin'&query_place_id=ChIJXZfI6spwxokR5wI2yzDqVHw&center=40.3354029,-75.9242699"
+    },
+    {
+      "name": "JoJo's Bakery Creations Cafe",
+      "distance": "0.1 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=JoJo's%20Bakery%20Creations%20Cafe&query_place_id=ChIJnS27qnJxxokRBJwHjzc5s2M&center=40.336428,-75.9257379"
+    },
+    {
+      "name": "The Pulse Cafe",
+      "distance": "0.1 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=The%20Pulse%20Cafe&query_place_id=ChIJAeFecyHhxYkR_Lst052Zzug&center=40.3364283,-75.9257379"
+    },
+    {
+      "name": "6th Street Deli - Catering & Rental",
+      "distance": "0.2 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=6th%20Street%20Deli%20-%20Catering%20%26%20Rental&query_place_id=ChIJO69w1spwxokRjDdZoy3bn-o&center=40.336581699999996,-75.9260429"
+    }
+  ],
+  "team_lunch": [
+    {
+      "name": "Taco King",
+      "distance": "0.1 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Taco%20King&query_place_id=ChIJoZtpu7FxxokRJ85RISzvL9M&center=40.3357771,-75.9218769"
+    },
+    {
+      "name": "Luis Restaurant",
+      "distance": "0.1 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Luis%20Restaurant&query_place_id=ChIJTW6-h7VwxokR-0wsLcSta08&center=40.3335143,-75.92299919999999"
+    },
+    {
+      "name": "Reading Downtown Food Court",
+      "distance": "0.1 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Reading%20Downtown%20Food%20Court&query_place_id=ChIJX8lgLQBxxokREbu6SdKyvUg&center=40.3364283,-75.9257379"
+    },
+    {
+      "name": "D' LA PARA PICA POLLO - READING",
+      "distance": "0.2 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=D'%20LA%20PARA%20PICA%20POLLO%20-%20READING&query_place_id=ChIJOdtLh5ZxxokRC4MtC-DvGmQ&center=40.335667799999996,-75.9266363"
+    },
+    {
+      "name": "El papi restaurant",
+      "distance": "0.2 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=El%20papi%20restaurant&query_place_id=ChIJO73k58dxxokRhXM06yl9hzg&center=40.3335274,-75.9261247"
+    },
+    {
+      "name": "Boríken Delights Bakery",
+      "distance": "0.3 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Bor%C3%ADken%20Delights%20Bakery&query_place_id=ChIJkZpq1Mp3xokRYaBz0_mAHLg&center=40.339085999999995,-75.9260682"
+    }
+  ],
+  "dinner": [
+    {
+      "name": "Cheers Bistro at the DoubleTree",
+      "distance": "0.1 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Cheers%20Bistro%20at%20the%20DoubleTree&query_place_id=ChIJoShrospwxokRl4Rfa2_7WT0&center=40.3354322,-75.92355409999999"
+    },
+    {
+      "name": "Salsa Burrito Downtown Reading",
+      "distance": "0.1 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Salsa%20Burrito%20Downtown%20Reading&query_place_id=ChIJ5-e_v8pwxokRcyUgnULAFFc&center=40.3355548,-75.9244586"
+    },
+    {
+      "name": "Café de Colombia Restaurant and Bakery",
+      "distance": "0.1 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Caf%C3%A9%20de%20Colombia%20Restaurant%20and%20Bakery&query_place_id=ChIJDdDu3HlxxokRmQGKCmkbph8&center=40.3356,-75.9247759"
+    },
+    {
+      "name": "DMA Pizza",
+      "distance": "0.1 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=DMA%20Pizza&query_place_id=ChIJq50SGstwxokR_r8YUdwxyPA&center=40.335689800000004,-75.9260238"
+    },
+    {
+      "name": "Fritura Kings",
+      "distance": "0.1 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Fritura%20Kings&query_place_id=ChIJA1_YWNRxxokRihKQHiJTmRY&center=40.3360424,-75.9260075"
+    },
+    {
+      "name": "Domimex Latino Restaurant",
+      "distance": "0.1 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Domimex%20Latino%20Restaurant&query_place_id=ChIJ4Rw3hqFxxokROBFIiXWcmAU&center=40.3360173,-75.92603489999999"
+    }
+  ],
+  "bowling": [
+    {
+      "name": "Around",
+      "distance": "0.8 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Around&query_place_id=ChIJbxRCkQN3xokR7JX_1pR_2W4&center=40.344982900000005,-75.917642"
+    },
+    {
+      "name": "Hiester Lanes",
+      "distance": "2.2 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Hiester%20Lanes&query_place_id=ChIJfXCNY213xokRHeaRBYhuNjg&center=40.3664288,-75.9210879"
+    },
+    {
+      "name": "Berks Lanes",
+      "distance": "4.7 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Berks%20Lanes&query_place_id=ChIJO7VWuMZzxokR8mc1TcPhIBo&center=40.321644,-76.011444",
+      "isFar": true
+    }
+  ],
+  "arcade": [],
+  "movies": [
+    {
+      "name": "The Albert and Eunice Boscov Theater",
+      "distance": "0.5 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=The%20Albert%20and%20Eunice%20Boscov%20Theater&query_place_id=ChIJ6YJzCTlxxokRDqk-rkcm88o&center=40.3373274,-75.9332953"
+    },
+    {
+      "name": "R/C Reading Movies 11 & IMAX",
+      "distance": "0.6 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=R%2FC%20Reading%20Movies%2011%20%26%20IMAX&query_place_id=ChIJd8pEZ81wxokRvt7UG1tvzHY&center=40.336652,-75.934286"
+    },
+    {
+      "name": "AMC DINE-IN Berkshire 8",
+      "distance": "2.5 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=AMC%20DINE-IN%20Berkshire%208&query_place_id=ChIJK1_xach2xokRWVCcnkti7n4&center=40.349925,-75.9670798"
+    }
+  ],
+  "fun": [
+    {
+      "name": "Pagoda Viewing Point",
+      "distance": "1.0 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Pagoda%20Viewing%20Point&query_place_id=ChIJh6KrUwB3xokRVV8kNP-3m9Y&center=40.336424199999996,-75.9053497"
+    },
+    {
+      "name": "The Peace Rock",
+      "distance": "1.1 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=The%20Peace%20Rock&query_place_id=ChIJXQhZfCR3xokRCTpU_w7uvV0&center=40.342162099999996,-75.9059894"
+    },
+    {
+      "name": "The Painted Rock",
+      "distance": "1.3 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=The%20Painted%20Rock&query_place_id=ChIJgWyIVm1xxokROJX3WaPpJyE&center=40.316177499999995,-75.9196419"
+    },
+    {
+      "name": "Encrypted Escape Room West Reading",
+      "distance": "1.4 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Encrypted%20Escape%20Room%20West%20Reading&query_place_id=ChIJzycf0CtxxokRhrEoHlPgvN0&center=40.3354747,-75.94986589999999"
+    }
+  ],
+  "hotels": [
+    {
+      "name": "DoubleTree by Hilton Hotel Reading",
+      "distance": "0.1 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=DoubleTree%20by%20Hilton%20Hotel%20Reading&query_place_id=ChIJLcqCl8pwxokRvRa9MLYQVIM&center=40.3354949,-75.9233703"
+    },
+    {
+      "name": "☆☆ Modern Coed Dorm in Reading ☆☆",
+      "distance": "0.1 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=%E2%98%86%E2%98%86%20Modern%20Coed%20Dorm%20in%20Reading%20%E2%98%86%E2%98%86&query_place_id=ChIJAxedd8pwxokR6S5zXbJjh9M&center=40.3334121,-75.92326349999999"
+    },
+    {
+      "name": "Dommel's Hotel",
+      "distance": "0.2 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Dommel's%20Hotel&query_place_id=ChIJ8_-uF8twxokRUA2HEZvNkwU&center=40.3356606,-75.92689349999999"
+    },
+    {
+      "name": "The Ballroom at The Abe A Historic Venue",
+      "distance": "0.3 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=The%20Ballroom%20at%20The%20Abe%20A%20Historic%20Venue&query_place_id=ChIJKZ-DTMtwxokR6sZk4UGDJLg&center=40.337016999999996,-75.92783349999999"
+    },
+    {
+      "name": "La'ite Della Vica",
+      "distance": "0.3 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=La'ite%20Della%20Vica&query_place_id=ChIJ43SUTMtwxokRxu3v6--9pPE&center=40.337129399999995,-75.928083"
+    }
+  ],
+  "gas": [
+    {
+      "name": "Buttonwood Gas",
+      "distance": "0.6 mi",
+      "url": "https://www.google.com/maps/search/Buttonwood%20Gas+near+40.335%2C-75.9236111"
+    },
+    {
+      "name": "Pacific Pride Commercial Fueling",
+      "distance": "1.0 mi",
+      "url": "https://www.google.com/maps/search/Pacific%20Pride%20Commercial%20Fueling+near+40.335%2C-75.9236111"
+    },
+    {
+      "name": "Speedway",
+      "distance": "1.0 mi",
+      "url": "https://www.google.com/maps/search/Speedway+near+40.335%2C-75.9236111"
+    },
+    {
+      "name": "Reading Getty",
+      "distance": "1.0 mi",
+      "url": "https://www.google.com/maps/search/Reading%20Getty+near+40.335%2C-75.9236111"
+    }
+  ]
+}

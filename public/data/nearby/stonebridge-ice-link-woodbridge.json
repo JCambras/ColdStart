@@ -1,0 +1,183 @@
+{
+  "quick_bite": [
+    {
+      "name": "BurgerFi",
+      "distance": "0.1 mi",
+      "url": "https://www.google.com/maps/search/BurgerFi+near+38.6276041%2C-77.2876429"
+    },
+    {
+      "name": "Not Your Average Joe's - Woodbridge",
+      "distance": "0.1 mi",
+      "url": "https://www.google.com/maps/search/Not%20Your%20Average%20Joe's%20-%20Woodbridge+near+38.6276041%2C-77.2876429"
+    },
+    {
+      "name": "Potbelly",
+      "distance": "0.1 mi",
+      "url": "https://www.google.com/maps/search/Potbelly+near+38.6276041%2C-77.2876429"
+    },
+    {
+      "name": "Paisano's Pizza",
+      "distance": "0.6 mi",
+      "url": "https://www.google.com/maps/search/Paisano's%20Pizza+near+38.6276041%2C-77.2876429"
+    },
+    {
+      "name": "Chuck E. Cheese",
+      "distance": "1.7 mi",
+      "url": "https://www.google.com/maps/search/Chuck%20E.%20Cheese+near+38.6276041%2C-77.2876429"
+    }
+  ],
+  "coffee": [
+    {
+      "name": "Duck Donuts",
+      "distance": "0.1 mi",
+      "url": "https://www.google.com/maps/search/Duck%20Donuts+near+38.6276041%2C-77.2876429"
+    },
+    {
+      "name": "Starbucks Coffee Company",
+      "distance": "0.1 mi",
+      "url": "https://www.google.com/maps/search/Starbucks%20Coffee%20Company+near+38.6276041%2C-77.2876429"
+    }
+  ],
+  "team_lunch": [
+    {
+      "name": "Uncle Julio's Woodbridge",
+      "distance": "0.2 mi",
+      "url": "https://www.google.com/maps/search/Uncle%20Julio's%20Woodbridge+near+38.6276041%2C-77.2876429"
+    },
+    {
+      "name": "Sushi Jin Next Door",
+      "distance": "0.2 mi",
+      "url": "https://www.google.com/maps/search/Sushi%20Jin%20Next%20Door+near+38.6276041%2C-77.2876429"
+    },
+    {
+      "name": "bb.q Chicken Potomac Town Center",
+      "distance": "0.2 mi",
+      "url": "https://www.google.com/maps/search/bb.q%20Chicken%20Potomac%20Town%20Center+near+38.6276041%2C-77.2876429"
+    }
+  ],
+  "dinner": [
+    {
+      "name": "Dok Khao Thai (Woodbridge)",
+      "distance": "0.1 mi",
+      "url": "https://www.google.com/maps/search/Dok%20Khao%20Thai%20(Woodbridge)+near+38.6276041%2C-77.2876429"
+    },
+    {
+      "name": "Firebirds Wood Fired Grill",
+      "distance": "0.1 mi",
+      "url": "https://www.google.com/maps/search/Firebirds%20Wood%20Fired%20Grill+near+38.6276041%2C-77.2876429"
+    },
+    {
+      "name": "Aroma Latin Fusion",
+      "distance": "0.1 mi",
+      "url": "https://www.google.com/maps/search/Aroma%20Latin%20Fusion+near+38.6276041%2C-77.2876429"
+    },
+    {
+      "name": "Firepan Korean BBQ and Bar",
+      "distance": "0.1 mi",
+      "url": "https://www.google.com/maps/search/Firepan%20Korean%20BBQ%20and%20Bar+near+38.6276041%2C-77.2876429"
+    },
+    {
+      "name": "Betty's Cake",
+      "distance": "0.1 mi",
+      "url": "https://www.google.com/maps/search/Betty's%20Cake+near+38.6276041%2C-77.2876429"
+    },
+    {
+      "name": "Nando's PERi-PERi",
+      "distance": "0.1 mi",
+      "url": "https://www.google.com/maps/search/Nando's%20PERi-PERi+near+38.6276041%2C-77.2876429"
+    }
+  ],
+  "bowling": [
+    {
+      "name": "Round1 Bowling & Arcade Potomac Mills",
+      "distance": "1.2 mi",
+      "url": "https://www.google.com/maps/search/Round1%20Bowling%20%26%20Arcade%20Potomac%20Mills+near+38.6276041%2C-77.2876429"
+    },
+    {
+      "name": "Bowlero Dale City",
+      "distance": "3.0 mi",
+      "url": "https://www.google.com/maps/search/Bowlero%20Dale%20City+near+38.6276041%2C-77.2876429",
+      "isFar": true
+    },
+    {
+      "name": "Bowl America Woodbridge",
+      "distance": "3.1 mi",
+      "url": "https://www.google.com/maps/search/Bowl%20America%20Woodbridge+near+38.6276041%2C-77.2876429",
+      "isFar": true
+    }
+  ],
+  "arcade": [],
+  "movies": [
+    {
+      "name": "Alamo Drafthouse Cinema Woodbridge",
+      "distance": "0.1 mi",
+      "url": "https://www.google.com/maps/search/Alamo%20Drafthouse%20Cinema%20Woodbridge+near+38.6276041%2C-77.2876429"
+    },
+    {
+      "name": "AMC Potomac Mills 18",
+      "distance": "1.2 mi",
+      "url": "https://www.google.com/maps/search/AMC%20Potomac%20Mills%2018+near+38.6276041%2C-77.2876429"
+    }
+  ],
+  "fun": [
+    {
+      "name": "Sky Zone Trampoline Park",
+      "distance": "0.7 mi",
+      "url": "https://www.google.com/maps/search/Sky%20Zone%20Trampoline%20Park+near+38.6276041%2C-77.2876429"
+    },
+    {
+      "name": "Escape Room Woodbridge",
+      "distance": "0.8 mi",
+      "url": "https://www.google.com/maps/search/Escape%20Room%20Woodbridge+near+38.6276041%2C-77.2876429"
+    },
+    {
+      "name": "Slick City Action Park",
+      "distance": "1.3 mi",
+      "url": "https://www.google.com/maps/search/Slick%20City%20Action%20Park+near+38.6276041%2C-77.2876429"
+    },
+    {
+      "name": "Off Limitz Adventure Park",
+      "distance": "1.3 mi",
+      "url": "https://www.google.com/maps/search/Off%20Limitz%20Adventure%20Park+near+38.6276041%2C-77.2876429"
+    }
+  ],
+  "hotels": [
+    {
+      "name": "Hilton Garden Inn Woodbridge",
+      "distance": "0.2 mi",
+      "url": "https://www.google.com/maps/search/Hilton%20Garden%20Inn%20Woodbridge+near+38.6276041%2C-77.2876429"
+    },
+    {
+      "name": "National at Woodbridge",
+      "distance": "0.3 mi",
+      "url": "https://www.google.com/maps/search/National%20at%20Woodbridge+near+38.6276041%2C-77.2876429"
+    },
+    {
+      "name": "Homewood Suites by Hilton Woodbridge",
+      "distance": "0.4 mi",
+      "url": "https://www.google.com/maps/search/Homewood%20Suites%20by%20Hilton%20Woodbridge+near+38.6276041%2C-77.2876429"
+    }
+  ],
+  "gas": [
+    {
+      "name": "Shell",
+      "distance": "0.8 mi",
+      "url": "https://www.google.com/maps/search/Shell+near+38.6276041%2C-77.2876429"
+    },
+    {
+      "name": "Sunoco",
+      "distance": "0.9 mi",
+      "url": "https://www.google.com/maps/search/Sunoco+near+38.6276041%2C-77.2876429"
+    },
+    {
+      "name": "Costco Gas Station",
+      "distance": "0.9 mi",
+      "url": "https://www.google.com/maps/search/Costco%20Gas%20Station+near+38.6276041%2C-77.2876429"
+    },
+    {
+      "name": "E85 Fuel",
+      "distance": "1.0 mi",
+      "url": "https://www.google.com/maps/search/E85%20Fuel+near+38.6276041%2C-77.2876429"
+    }
+  ]
+}

@@ -1,0 +1,210 @@
+{
+  "quick_bite": [
+    {
+      "name": "Amato's",
+      "distance": "0.5 mi",
+      "url": "https://www.google.com/maps/search/Amato's+near+43.682734499999995%2C-70.45093800000001"
+    },
+    {
+      "name": "Burger King",
+      "distance": "0.6 mi",
+      "url": "https://www.google.com/maps/search/Burger%20King+near+43.682734499999995%2C-70.45093800000001"
+    },
+    {
+      "name": "Subway",
+      "distance": "0.6 mi",
+      "url": "https://www.google.com/maps/search/Subway+near+43.682734499999995%2C-70.45093800000001"
+    },
+    {
+      "name": "SNOWFOX Sushi",
+      "distance": "0.7 mi",
+      "url": "https://www.google.com/maps/search/SNOWFOX%20Sushi+near+43.682734499999995%2C-70.45093800000001"
+    }
+  ],
+  "coffee": [
+    {
+      "name": "Aroma Joe's Coffee",
+      "distance": "0.6 mi",
+      "url": "https://www.google.com/maps/search/Aroma%20Joe's%20Coffee+near+43.682734499999995%2C-70.45093800000001"
+    },
+    {
+      "name": "Dunkin'",
+      "distance": "2.6 mi",
+      "url": "https://www.google.com/maps/search/Dunkin'+near+43.682734499999995%2C-70.45093800000001"
+    }
+  ],
+  "team_lunch": [],
+  "dinner": [
+    {
+      "name": "Azul Tequila",
+      "distance": "0.4 mi",
+      "url": "https://www.google.com/maps/search/Azul%20Tequila+near+43.682734499999995%2C-70.45093800000001"
+    },
+    {
+      "name": "The Blue Pig Diner",
+      "distance": "0.4 mi",
+      "url": "https://www.google.com/maps/search/The%20Blue%20Pig%20Diner+near+43.682734499999995%2C-70.45093800000001"
+    },
+    {
+      "name": "Saito Kitchen",
+      "distance": "0.4 mi",
+      "url": "https://www.google.com/maps/search/Saito%20Kitchen+near+43.682734499999995%2C-70.45093800000001"
+    },
+    {
+      "name": "MK Kitchen",
+      "distance": "0.4 mi",
+      "url": "https://www.google.com/maps/search/MK%20Kitchen+near+43.682734499999995%2C-70.45093800000001"
+    },
+    {
+      "name": "Gorham House of Pizza",
+      "distance": "0.5 mi",
+      "url": "https://www.google.com/maps/search/Gorham%20House%20of%20Pizza+near+43.682734499999995%2C-70.45093800000001"
+    },
+    {
+      "name": "Sullivan House Bakery",
+      "distance": "0.6 mi",
+      "url": "https://www.google.com/maps/search/Sullivan%20House%20Bakery+near+43.682734499999995%2C-70.45093800000001"
+    },
+    {
+      "name": "Sweet Thai Restaurant",
+      "distance": "0.6 mi",
+      "url": "https://www.google.com/maps/search/Sweet%20Thai%20Restaurant+near+43.682734499999995%2C-70.45093800000001"
+    }
+  ],
+  "bowling": [
+    {
+      "name": "Junction Bowl",
+      "distance": "0.7 mi",
+      "url": "https://www.google.com/maps/search/Junction%20Bowl+near+43.682734499999995%2C-70.45093800000001"
+    },
+    {
+      "name": "Westport Bowling Lanes",
+      "distance": "5.8 mi",
+      "url": "https://www.google.com/maps/search/Westport%20Bowling%20Lanes+near+43.682734499999995%2C-70.45093800000001",
+      "isFar": true
+    },
+    {
+      "name": "Round1 Bowling & Arcade The Maine Mall",
+      "distance": "6.8 mi",
+      "url": "https://www.google.com/maps/search/Round1%20Bowling%20%26%20Arcade%20The%20Maine%20Mall+near+43.682734499999995%2C-70.45093800000001",
+      "isFar": true
+    },
+    {
+      "name": "Spare Time Portland",
+      "distance": "6.8 mi",
+      "url": "https://www.google.com/maps/search/Spare%20Time%20Portland+near+43.682734499999995%2C-70.45093800000001",
+      "isFar": true
+    },
+    {
+      "name": "Big 20 Bowling Center",
+      "distance": "8.2 mi",
+      "url": "https://www.google.com/maps/search/Big%2020%20Bowling%20Center+near+43.682734499999995%2C-70.45093800000001",
+      "isFar": true
+    }
+  ],
+  "arcade": [],
+  "movies": [
+    {
+      "name": "Apple Cinemas Westbrook",
+      "distance": "5.5 mi",
+      "url": "https://www.google.com/maps/search/Apple%20Cinemas%20Westbrook+near+43.682734499999995%2C-70.45093800000001",
+      "isFar": true
+    },
+    {
+      "name": "Prides Corner Drive-In",
+      "distance": "6.3 mi",
+      "url": "https://www.google.com/maps/search/Prides%20Corner%20Drive-In+near+43.682734499999995%2C-70.45093800000001",
+      "isFar": true
+    },
+    {
+      "name": "Entertainment Luxury Cinemas South Portland",
+      "distance": "7.1 mi",
+      "url": "https://www.google.com/maps/search/Entertainment%20Luxury%20Cinemas%20South%20Portland+near+43.682734499999995%2C-70.45093800000001",
+      "isFar": true
+    },
+    {
+      "name": "MHC Premier Clark’s Pond 8",
+      "distance": "7.1 mi",
+      "url": "https://www.google.com/maps/search/MHC%20Premier%20Clark%E2%80%99s%20Pond%208+near+43.682734499999995%2C-70.45093800000001",
+      "isFar": true
+    }
+  ],
+  "fun": [
+    {
+      "name": "Maine Escape Games",
+      "distance": "7.1 mi",
+      "url": "https://www.google.com/maps/search/Maine%20Escape%20Games+near+43.682734499999995%2C-70.45093800000001",
+      "isFar": true
+    },
+    {
+      "name": "Urban Air Trampoline and Adventure Park",
+      "distance": "7.2 mi",
+      "url": "https://www.google.com/maps/search/Urban%20Air%20Trampoline%20and%20Adventure%20Park+near+43.682734499999995%2C-70.45093800000001",
+      "isFar": true
+    }
+  ],
+  "hotels": [
+    {
+      "name": "Cozy Private 1 Bedroom Apartment Gorham ME - One-Bedroom Apartment",
+      "distance": "0.4 mi",
+      "url": "https://www.google.com/maps/search/Cozy%20Private%201%20Bedroom%20Apartment%20Gorham%20ME%20-%20One-Bedroom%20Apartment+near+43.682734499999995%2C-70.45093800000001"
+    },
+    {
+      "name": "Modern Studio-Wi-Fi-Long Term Available - One-Bedroom Apartment",
+      "distance": "0.4 mi",
+      "url": "https://www.google.com/maps/search/Modern%20Studio-Wi-Fi-Long%20Term%20Available%20-%20One-Bedroom%20Apartment+near+43.682734499999995%2C-70.45093800000001"
+    },
+    {
+      "name": "Modern Studio with Wi-Fi-Long Term Available",
+      "distance": "0.4 mi",
+      "url": "https://www.google.com/maps/search/Modern%20Studio%20with%20Wi-Fi-Long%20Term%20Available+near+43.682734499999995%2C-70.45093800000001"
+    },
+    {
+      "name": "PineCrest Inn Bed and Breakfast",
+      "distance": "0.7 mi",
+      "url": "https://www.google.com/maps/search/PineCrest%20Inn%20Bed%20and%20Breakfast+near+43.682734499999995%2C-70.45093800000001"
+    },
+    {
+      "name": "Modern 1800's Cape House",
+      "distance": "0.9 mi",
+      "url": "https://www.google.com/maps/search/Modern%201800's%20Cape%20House+near+43.682734499999995%2C-70.45093800000001"
+    },
+    {
+      "name": "Quaint Maine Farmhouse near Portland",
+      "distance": "1.6 mi",
+      "url": "https://www.google.com/maps/search/Quaint%20Maine%20Farmhouse%20near%20Portland+near+43.682734499999995%2C-70.45093800000001"
+    },
+    {
+      "name": "Cozy 1-bedroom apartment in lovely Gorham",
+      "distance": "2.6 mi",
+      "url": "https://www.google.com/maps/search/Cozy%201-bedroom%20apartment%20in%20lovely%20Gorham+near+43.682734499999995%2C-70.45093800000001"
+    }
+  ],
+  "gas": [
+    {
+      "name": "Citgo",
+      "distance": "0.6 mi",
+      "url": "https://www.google.com/maps/search/Citgo+near+43.682734499999995%2C-70.45093800000001"
+    },
+    {
+      "name": "Mobil",
+      "distance": "2.7 mi",
+      "url": "https://www.google.com/maps/search/Mobil+near+43.682734499999995%2C-70.45093800000001"
+    },
+    {
+      "name": "Shell",
+      "distance": "3.4 mi",
+      "url": "https://www.google.com/maps/search/Shell+near+43.682734499999995%2C-70.45093800000001"
+    },
+    {
+      "name": "Shell",
+      "distance": "3.9 mi",
+      "url": "https://www.google.com/maps/search/Shell+near+43.682734499999995%2C-70.45093800000001"
+    },
+    {
+      "name": "Friendly Gas",
+      "distance": "4.1 mi",
+      "url": "https://www.google.com/maps/search/Friendly%20Gas+near+43.682734499999995%2C-70.45093800000001"
+    }
+  ]
+}

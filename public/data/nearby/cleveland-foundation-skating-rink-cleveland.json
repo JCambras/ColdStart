@@ -1,0 +1,214 @@
+{
+  "quick_bite": [
+    {
+      "name": "Mr. Hero",
+      "distance": "0.1 mi",
+      "url": "https://www.google.com/maps/search/Mr.%20Hero+near+41.4995243%2C-81.69303599999999"
+    },
+    {
+      "name": "Chipotle Mexican Grill",
+      "distance": "0.1 mi",
+      "url": "https://www.google.com/maps/search/Chipotle%20Mexican%20Grill+near+41.4995243%2C-81.69303599999999"
+    }
+  ],
+  "coffee": [
+    {
+      "name": "REBoL",
+      "distance": "0.1 mi",
+      "url": "https://www.google.com/maps/search/REBoL+near+41.4995243%2C-81.69303599999999"
+    },
+    {
+      "name": "Rejuv Eatery on Public Square",
+      "distance": "0.1 mi",
+      "url": "https://www.google.com/maps/search/Rejuv%20Eatery%20on%20Public%20Square+near+41.4995243%2C-81.69303599999999"
+    },
+    {
+      "name": "Ebreeq Coffee House",
+      "distance": "0.1 mi",
+      "url": "https://www.google.com/maps/search/Ebreeq%20Coffee%20House+near+41.4995243%2C-81.69303599999999"
+    },
+    {
+      "name": "Square Cafe",
+      "distance": "0.1 mi",
+      "url": "https://www.google.com/maps/search/Square%20Cafe+near+41.4995243%2C-81.69303599999999"
+    }
+  ],
+  "team_lunch": [
+    {
+      "name": "Jake's Pizza",
+      "distance": "0.1 mi",
+      "url": "https://www.google.com/maps/search/Jake's%20Pizza+near+41.4995243%2C-81.69303599999999"
+    },
+    {
+      "name": "Shah’s Halal Food",
+      "distance": "0.1 mi",
+      "url": "https://www.google.com/maps/search/Shah%E2%80%99s%20Halal%20Food+near+41.4995243%2C-81.69303599999999"
+    },
+    {
+      "name": "Trattoria",
+      "distance": "0.1 mi",
+      "url": "https://www.google.com/maps/search/Trattoria+near+41.4995243%2C-81.69303599999999"
+    },
+    {
+      "name": "Mia Ballet",
+      "distance": "0.1 mi",
+      "url": "https://www.google.com/maps/search/Mia%20Ballet+near+41.4995243%2C-81.69303599999999"
+    },
+    {
+      "name": "Haunted restaurant",
+      "distance": "0.1 mi",
+      "url": "https://www.google.com/maps/search/Haunted%20restaurant+near+41.4995243%2C-81.69303599999999"
+    },
+    {
+      "name": "Uber Eats",
+      "distance": "0.1 mi",
+      "url": "https://www.google.com/maps/search/Uber%20Eats+near+41.4995243%2C-81.69303599999999"
+    },
+    {
+      "name": "Slimans",
+      "distance": "0.1 mi",
+      "url": "https://www.google.com/maps/search/Slimans+near+41.4995243%2C-81.69303599999999"
+    }
+  ],
+  "dinner": [
+    {
+      "name": "419 pizza",
+      "distance": "0.1 mi",
+      "url": "https://www.google.com/maps/search/419%20pizza+near+41.4995243%2C-81.69303599999999"
+    },
+    {
+      "name": "Tomato company",
+      "distance": "0.1 mi",
+      "url": "https://www.google.com/maps/search/Tomato%20company+near+41.4995243%2C-81.69303599999999"
+    },
+    {
+      "name": "Ventito Bakery LLC TM.",
+      "distance": "0.1 mi",
+      "url": "https://www.google.com/maps/search/Ventito%20Bakery%20LLC%20TM.+near+41.4995243%2C-81.69303599999999"
+    }
+  ],
+  "bowling": [
+    {
+      "name": "Euphoria Lanes",
+      "distance": "1.3 mi",
+      "url": "https://www.google.com/maps/search/Euphoria%20Lanes+near+41.4995243%2C-81.69303599999999"
+    },
+    {
+      "name": "Dickey Lanes",
+      "distance": "2.4 mi",
+      "url": "https://www.google.com/maps/search/Dickey%20Lanes+near+41.4995243%2C-81.69303599999999"
+    },
+    {
+      "name": "Maple Lanes",
+      "distance": "3.3 mi",
+      "url": "https://www.google.com/maps/search/Maple%20Lanes+near+41.4995243%2C-81.69303599999999",
+      "isFar": true
+    },
+    {
+      "name": "Mahall's",
+      "distance": "4.8 mi",
+      "url": "https://www.google.com/maps/search/Mahall's+near+41.4995243%2C-81.69303599999999",
+      "isFar": true
+    }
+  ],
+  "arcade": [],
+  "movies": [
+    {
+      "name": "Cleveland Clinic DOME Theater",
+      "distance": "0.6 mi",
+      "url": "https://www.google.com/maps/search/Cleveland%20Clinic%20DOME%20Theater+near+41.4995243%2C-81.69303599999999"
+    },
+    {
+      "name": "Capitol Theatre",
+      "distance": "2.2 mi",
+      "url": "https://www.google.com/maps/search/Capitol%20Theatre+near+41.4995243%2C-81.69303599999999"
+    },
+    {
+      "name": "Cinematheque (Cleveland Institute of Art)",
+      "distance": "4.8 mi",
+      "url": "https://www.google.com/maps/search/Cinematheque%20(Cleveland%20Institute%20of%20Art)+near+41.4995243%2C-81.69303599999999",
+      "isFar": true
+    }
+  ],
+  "fun": [
+    {
+      "name": "Perplexity Games Escape Room - Cleveland",
+      "distance": "1.1 mi",
+      "url": "https://www.google.com/maps/search/Perplexity%20Games%20Escape%20Room%20-%20Cleveland+near+41.4995243%2C-81.69303599999999"
+    },
+    {
+      "name": "Priority Vending & Entertainment, Inc",
+      "distance": "1.5 mi",
+      "url": "https://www.google.com/maps/search/Priority%20Vending%20%26%20Entertainment%2C%20Inc+near+41.4995243%2C-81.69303599999999"
+    },
+    {
+      "name": "Kenneth Perdue",
+      "distance": "2.5 mi",
+      "url": "https://www.google.com/maps/search/Kenneth%20Perdue+near+41.4995243%2C-81.69303599999999"
+    }
+  ],
+  "hotels": [
+    {
+      "name": "CozyLuxe Suite | R&R HoF, Casino, Stadium, Airport",
+      "distance": "0.1 mi",
+      "url": "https://www.google.com/maps/search/CozyLuxe%20Suite%20%7C%20R%26R%20HoF%2C%20Casino%2C%20Stadium%2C%20Airport+near+41.4995243%2C-81.69303599999999"
+    },
+    {
+      "name": "Lake View Dwntwn | Stadium, Casino, Rock Hall, CSU",
+      "distance": "0.1 mi",
+      "url": "https://www.google.com/maps/search/Lake%20View%20Dwntwn%20%7C%20Stadium%2C%20Casino%2C%20Rock%20Hall%2C%20CSU+near+41.4995243%2C-81.69303599999999"
+    },
+    {
+      "name": "Spacious Downtown | Stadium, Casino, R&R HoF",
+      "distance": "0.1 mi",
+      "url": "https://www.google.com/maps/search/Spacious%20Downtown%20%7C%20Stadium%2C%20Casino%2C%20R%26R%20HoF+near+41.4995243%2C-81.69303599999999"
+    },
+    {
+      "name": "Spacious Downtown Sq: Stadium, Casino, R&R HoF",
+      "distance": "0.1 mi",
+      "url": "https://www.google.com/maps/search/Spacious%20Downtown%20Sq%3A%20Stadium%2C%20Casino%2C%20R%26R%20HoF+near+41.4995243%2C-81.69303599999999"
+    },
+    {
+      "name": "Dwntwn Luxury Suite | Rock Hall, Stadium, Casino",
+      "distance": "0.1 mi",
+      "url": "https://www.google.com/maps/search/Dwntwn%20Luxury%20Suite%20%7C%20Rock%20Hall%2C%20Stadium%2C%20Casino+near+41.4995243%2C-81.69303599999999"
+    },
+    {
+      "name": "Dwntwn Suite | R&R, Casino, Stadiums, Airport",
+      "distance": "0.1 mi",
+      "url": "https://www.google.com/maps/search/Dwntwn%20Suite%20%7C%20R%26R%2C%20Casino%2C%20Stadiums%2C%20Airport+near+41.4995243%2C-81.69303599999999"
+    },
+    {
+      "name": "Spacious Downtown Sq | Stadium, Casino, R&R HoF",
+      "distance": "0.1 mi",
+      "url": "https://www.google.com/maps/search/Spacious%20Downtown%20Sq%20%7C%20Stadium%2C%20Casino%2C%20R%26R%20HoF+near+41.4995243%2C-81.69303599999999"
+    }
+  ],
+  "gas": [
+    {
+      "name": "Sunoco",
+      "distance": "0.5 mi",
+      "url": "https://www.google.com/maps/search/Sunoco+near+41.4995243%2C-81.69303599999999"
+    },
+    {
+      "name": "bp",
+      "distance": "0.6 mi",
+      "url": "https://www.google.com/maps/search/bp+near+41.4995243%2C-81.69303599999999"
+    },
+    {
+      "name": "bp",
+      "distance": "1.2 mi",
+      "url": "https://www.google.com/maps/search/bp+near+41.4995243%2C-81.69303599999999"
+    },
+    {
+      "name": "bp",
+      "distance": "1.3 mi",
+      "url": "https://www.google.com/maps/search/bp+near+41.4995243%2C-81.69303599999999"
+    },
+    {
+      "name": "Shell",
+      "distance": "1.4 mi",
+      "url": "https://www.google.com/maps/search/Shell+near+41.4995243%2C-81.69303599999999"
+    }
+  ]
+}

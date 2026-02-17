@@ -1,0 +1,207 @@
+{
+  "quick_bite": [
+    {
+      "name": "Dairy Queen Grill & Chill",
+      "distance": "0.1 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Dairy%20Queen%20Grill%20%26%20Chill&query_place_id=ChIJtV9j9WuAMogR2Srh3SLcQj8&center=42.0981701,-80.08154189999999"
+    },
+    {
+      "name": "Little Caesars Pizza",
+      "distance": "0.2 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Little%20Caesars%20Pizza&query_place_id=ChIJewTn_m6AMogRtR0ym5VNyIU&center=42.0955817,-80.08340799999999"
+    },
+    {
+      "name": "Arby's",
+      "distance": "0.4 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Arby's&query_place_id=ChIJOZ96gWWAMogRwTI8K_gmu1w&center=42.0920357,-80.0840681"
+    },
+    {
+      "name": "Burger King",
+      "distance": "0.5 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Burger%20King&query_place_id=ChIJA28aC2WAMogRmM9Sfv5yHsU&center=42.0910036,-80.08446599999999"
+    }
+  ],
+  "coffee": [
+    {
+      "name": "Panera Bread",
+      "distance": "0.4 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Panera%20Bread&query_place_id=ChIJr3w2DW-AMogR3kK7E_fc5DA&center=42.0930815,-80.0842904"
+    },
+    {
+      "name": "Tim Hortons",
+      "distance": "0.5 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Tim%20Hortons&query_place_id=ChIJJzPWGmWAMogRF3j-OhDkNlA&center=42.090287,-80.0848"
+    },
+    {
+      "name": "Peace, Love & Little Donuts of Erie",
+      "distance": "1.4 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Peace%2C%20Love%20%26%20Little%20Donuts%20of%20Erie&query_place_id=ChIJ37U0Au6BMogRcNYCTVh2NhI&center=42.0784512,-80.0919685"
+    },
+    {
+      "name": "Mighty Fine Donuts",
+      "distance": "1.4 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Mighty%20Fine%20Donuts&query_place_id=ChIJ27Q9-SWAMogRyY_5FM4r6mk&center=42.114632,-80.06497"
+    }
+  ],
+  "team_lunch": [
+    {
+      "name": "Chanan Restaurant",
+      "distance": "0.1 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Chanan%20Restaurant&query_place_id=ChIJ0V0dBGyAMogRf8UtB5pHhu8&center=42.097305899999995,-80.0817798"
+    },
+    {
+      "name": "Andy's Pub",
+      "distance": "0.2 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Andy's%20Pub&query_place_id=ChIJr5w-5G6AMogR8C5o65Qnh6A&center=42.0951307,-80.0832186"
+    },
+    {
+      "name": "Papa Johns Pizza",
+      "distance": "0.2 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Papa%20Johns%20Pizza&query_place_id=ChIJVwfMwm6AMogRu7ieOMKvHo4&center=42.0950469,-80.0832539"
+    },
+    {
+      "name": "Betsy Ann’s Bakery",
+      "distance": "0.7 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Betsy%20Ann%E2%80%99s%20Bakery&query_place_id=ChIJWfS7vGmBMogRHd9QCHSNp28&center=42.1063738,-80.07701039999999"
+    },
+    {
+      "name": "Perkins American Food Co.",
+      "distance": "0.7 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Perkins%20American%20Food%20Co.&query_place_id=ChIJlVdmu2SAMogRA_Codi8-e5o&center=42.088210499999995,-80.0860061"
+    },
+    {
+      "name": "Erie Donut Factory",
+      "distance": "1.3 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Erie%20Donut%20Factory&query_place_id=ChIJx0rk-siBMogRPrjyqMrRp8Y&center=42.080143299999996,-80.0899353"
+    }
+  ],
+  "dinner": [
+    {
+      "name": "Erie Curry House",
+      "distance": "0.1 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Erie%20Curry%20House&query_place_id=ChIJm7c73xGBMogR48D8szGMKLc&center=42.0973293,-80.08178939999999"
+    },
+    {
+      "name": "F&F Hibachi Express",
+      "distance": "0.2 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=F%26F%20Hibachi%20Express&query_place_id=ChIJrY0MmYaBMogRZaXPsShq_08&center=42.0956589,-80.08313129999999"
+    },
+    {
+      "name": "Chopstix Express",
+      "distance": "0.3 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Chopstix%20Express&query_place_id=ChIJ0bf2Am-AMogRWvy60j3yLgk&center=42.0945641,-80.0836929"
+    },
+    {
+      "name": "Outlaw Barbecue Revolution",
+      "distance": "0.3 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Outlaw%20Barbecue%20Revolution&query_place_id=ChIJb5trPFCBMogRdyEDLWBLBjE&center=42.0988909,-80.08442699999999"
+    },
+    {
+      "name": "Jo's Brooklyn Bagel",
+      "distance": "0.3 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Jo's%20Brooklyn%20Bagel&query_place_id=ChIJgeZQRW6AMogRbCfRlPqVsVA&center=42.09495,-80.085101"
+    },
+    {
+      "name": "The Breakfast Place",
+      "distance": "0.4 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=The%20Breakfast%20Place&query_place_id=ChIJaXLVgG-AMogR79hH-VR-3d8&center=42.0924413,-80.08463700000001"
+    }
+  ],
+  "bowling": [
+    {
+      "name": "Greengarden Lanes",
+      "distance": "1.2 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Greengarden%20Lanes&query_place_id=ChIJPzdrZNZ_MogRCgJyWyp-8Y0&center=42.0891788,-80.10016569999999"
+    },
+    {
+      "name": "Round1 Bowling & Arcade Millcreek Mall",
+      "distance": "2.2 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Round1%20Bowling%20%26%20Arcade%20Millcreek%20Mall&query_place_id=ChIJR_-CmWh_MogRTu28GSptga8&center=42.068382899999996,-80.0997027"
+    },
+    {
+      "name": "Rolling Meadow Lanes",
+      "distance": "2.7 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Rolling%20Meadow%20Lanes&query_place_id=ChIJPzxw_Ux-MogRYVod0cZV_sY&center=42.084188100000006,-80.1289917"
+    }
+  ],
+  "arcade": [],
+  "movies": [
+    {
+      "name": "CW IN",
+      "distance": "0.7 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=CW%20IN&query_place_id=ChIJxcS7QDmAMogRs7KaN7g3OXw&center=42.104483699999996,-80.0691497"
+    },
+    {
+      "name": "Starlight Cinema Entertainment",
+      "distance": "2.1 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Starlight%20Cinema%20Entertainment&query_place_id=ChIJO6G07d1_LYgRtqIUuo8ZMuc&center=42.1251144,-80.09432509999999"
+    },
+    {
+      "name": "TREC Giant Screen Theater",
+      "distance": "3.9 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=TREC%20Giant%20Screen%20Theater&query_place_id=ChIJsT3rmHJ_MogRoUY82TLMuUE&center=42.1097518,-80.1541201",
+      "isFar": true
+    }
+  ],
+  "fun": [
+    {
+      "name": "Graffiti Wall",
+      "distance": "1.7 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Graffiti%20Wall&query_place_id=ChIJnaEa7iSBMogRO6zVI-eroDQ&center=42.1207484,-80.0811579"
+    },
+    {
+      "name": "Escape Game Erie",
+      "distance": "2.0 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Escape%20Game%20Erie&query_place_id=ChIJ737wouN_LYgRN_w3TQdyVDk&center=42.1249166,-80.08348389999999"
+    },
+    {
+      "name": "Sun Gaze Gateway",
+      "distance": "2.5 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Sun%20Gaze%20Gateway&query_place_id=ChIJPx4DpKqBLYgR_j6MfCwnEDg&center=42.1258161,-80.1086562"
+    },
+    {
+      "name": "ERIE Sign",
+      "distance": "2.5 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=ERIE%20Sign&query_place_id=ChIJMRjUVEmBLYgRLHNY88BaDps&center=42.12946290000001,-80.10146859999999"
+    }
+  ],
+  "hotels": [
+    {
+      "name": "The Modern Gem in Erie",
+      "distance": "0.5 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=The%20Modern%20Gem%20in%20Erie&query_place_id=ChIJV7kA9XGAMogRE0wf1rSxCIk&center=42.097381600000006,-80.0882415"
+    },
+    {
+      "name": "New Inviting: Your Dream Stay\\n",
+      "distance": "0.5 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=New%20Inviting%3A%20Your%20Dream%20Stay%5Cn&query_place_id=ChIJW3uvNm2AMogRWmznKkcftzo&center=42.101829599999995,-80.0853119"
+    },
+    {
+      "name": "New & Inviting: Your Dream Stay",
+      "distance": "0.5 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=New%20%26%20Inviting%3A%20Your%20Dream%20Stay&query_place_id=ChIJB1yvNm2AMogRTuehY0Gim6E&center=42.1018334,-80.0853119"
+    }
+  ],
+  "gas": [
+    {
+      "name": "Kwik Fill",
+      "distance": "0.2 mi",
+      "url": "https://www.google.com/maps/search/Kwik%20Fill+near+42.09673120000001%2C-80.0793565"
+    },
+    {
+      "name": "Citgo",
+      "distance": "0.2 mi",
+      "url": "https://www.google.com/maps/search/Citgo+near+42.09673120000001%2C-80.0793565"
+    },
+    {
+      "name": "Country Fair #43",
+      "distance": "0.2 mi",
+      "url": "https://www.google.com/maps/search/Country%20Fair%20%2343+near+42.09673120000001%2C-80.0793565"
+    },
+    {
+      "name": "TOPS Gas Station",
+      "distance": "0.2 mi",
+      "url": "https://www.google.com/maps/search/TOPS%20Gas%20Station+near+42.09673120000001%2C-80.0793565"
+    }
+  ]
+}

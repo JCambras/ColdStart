@@ -1,0 +1,226 @@
+{
+  "quick_bite": [
+    {
+      "name": "Little Caesars Pizza",
+      "distance": "1.0 mi",
+      "url": "https://www.google.com/maps/search/Little%20Caesars%20Pizza+near+43.1316412%2C-83.6800062"
+    },
+    {
+      "name": "Subway",
+      "distance": "1.4 mi",
+      "url": "https://www.google.com/maps/search/Subway+near+43.1316412%2C-83.6800062"
+    }
+  ],
+  "coffee": [
+    {
+      "name": "McDonald's",
+      "distance": "0.8 mi",
+      "url": "https://www.google.com/maps/search/McDonald's+near+43.1316412%2C-83.6800062"
+    },
+    {
+      "name": "Biggby Coffee",
+      "distance": "1.4 mi",
+      "url": "https://www.google.com/maps/search/Biggby%20Coffee+near+43.1316412%2C-83.6800062"
+    },
+    {
+      "name": "McDonald's",
+      "distance": "1.5 mi",
+      "url": "https://www.google.com/maps/search/McDonald's+near+43.1316412%2C-83.6800062"
+    }
+  ],
+  "team_lunch": [
+    {
+      "name": "Yummy Bites",
+      "distance": "0.1 mi",
+      "url": "https://www.google.com/maps/search/Yummy%20Bites+near+43.1316412%2C-83.6800062"
+    },
+    {
+      "name": "Sweet Little Cupcakes",
+      "distance": "0.1 mi",
+      "url": "https://www.google.com/maps/search/Sweet%20Little%20Cupcakes+near+43.1316412%2C-83.6800062"
+    },
+    {
+      "name": "J&S Street Foods",
+      "distance": "0.8 mi",
+      "url": "https://www.google.com/maps/search/J%26S%20Street%20Foods+near+43.1316412%2C-83.6800062"
+    },
+    {
+      "name": "Angelo's Coney Island",
+      "distance": "1.0 mi",
+      "url": "https://www.google.com/maps/search/Angelo's%20Coney%20Island+near+43.1316412%2C-83.6800062"
+    },
+    {
+      "name": "Kroger Bakery",
+      "distance": "1.6 mi",
+      "url": "https://www.google.com/maps/search/Kroger%20Bakery+near+43.1316412%2C-83.6800062"
+    }
+  ],
+  "dinner": [
+    {
+      "name": "Jacobsens Mountain Inn Food & Drinks",
+      "distance": "0.7 mi",
+      "url": "https://www.google.com/maps/search/Jacobsens%20Mountain%20Inn%20Food%20%26%20Drinks+near+43.1316412%2C-83.6800062"
+    },
+    {
+      "name": "El Potrero",
+      "distance": "0.8 mi",
+      "url": "https://www.google.com/maps/search/El%20Potrero+near+43.1316412%2C-83.6800062"
+    },
+    {
+      "name": "Big Ron's Up in Smoke Bbq & Catering",
+      "distance": "0.8 mi",
+      "url": "https://www.google.com/maps/search/Big%20Ron's%20Up%20in%20Smoke%20Bbq%20%26%20Catering+near+43.1316412%2C-83.6800062"
+    },
+    {
+      "name": "Los Cabos Mexican Restaurant & Cantina",
+      "distance": "1.0 mi",
+      "url": "https://www.google.com/maps/search/Los%20Cabos%20Mexican%20Restaurant%20%26%20Cantina+near+43.1316412%2C-83.6800062"
+    },
+    {
+      "name": "Big Brutus Pizza",
+      "distance": "1.2 mi",
+      "url": "https://www.google.com/maps/search/Big%20Brutus%20Pizza+near+43.1316412%2C-83.6800062"
+    },
+    {
+      "name": "Bray Road Diner",
+      "distance": "1.4 mi",
+      "url": "https://www.google.com/maps/search/Bray%20Road%20Diner+near+43.1316412%2C-83.6800062"
+    },
+    {
+      "name": "Flour Arrangements",
+      "distance": "1.4 mi",
+      "url": "https://www.google.com/maps/search/Flour%20Arrangements+near+43.1316412%2C-83.6800062"
+    }
+  ],
+  "bowling": [
+    {
+      "name": "Clio Bowling Arcade",
+      "distance": "4.6 mi",
+      "url": "https://www.google.com/maps/search/Clio%20Bowling%20Arcade+near+43.1316412%2C-83.6800062",
+      "isFar": true
+    },
+    {
+      "name": "Richfield Bowl",
+      "distance": "6.7 mi",
+      "url": "https://www.google.com/maps/search/Richfield%20Bowl+near+43.1316412%2C-83.6800062",
+      "isFar": true
+    },
+    {
+      "name": "B's Bowling Center",
+      "distance": "8.0 mi",
+      "url": "https://www.google.com/maps/search/B's%20Bowling%20Center+near+43.1316412%2C-83.6800062",
+      "isFar": true
+    },
+    {
+      "name": "Colonial Lanes",
+      "distance": "8.1 mi",
+      "url": "https://www.google.com/maps/search/Colonial%20Lanes+near+43.1316412%2C-83.6800062",
+      "isFar": true
+    }
+  ],
+  "arcade": [],
+  "movies": [
+    {
+      "name": "Emagine Birch Run",
+      "distance": "9.1 mi",
+      "url": "https://www.google.com/maps/search/Emagine%20Birch%20Run+near+43.1316412%2C-83.6800062",
+      "isFar": true
+    },
+    {
+      "name": "Rave Cinemas",
+      "distance": "9.5 mi",
+      "url": "https://www.google.com/maps/search/Rave%20Cinemas+near+43.1316412%2C-83.6800062",
+      "isFar": true
+    }
+  ],
+  "fun": [
+    {
+      "name": "Splash Pad",
+      "distance": "3.3 mi",
+      "url": "https://www.google.com/maps/search/Splash%20Pad+near+43.1316412%2C-83.6800062",
+      "isFar": true
+    },
+    {
+      "name": "Melly's Small Mall",
+      "distance": "7.5 mi",
+      "url": "https://www.google.com/maps/search/Melly's%20Small%20Mall+near+43.1316412%2C-83.6800062",
+      "isFar": true
+    },
+    {
+      "name": "Spymaker Escape Rooms",
+      "distance": "8.6 mi",
+      "url": "https://www.google.com/maps/search/Spymaker%20Escape%20Rooms+near+43.1316412%2C-83.6800062",
+      "isFar": true
+    },
+    {
+      "name": "Anger Management Rage Room",
+      "distance": "9.3 mi",
+      "url": "https://www.google.com/maps/search/Anger%20Management%20Rage%20Room+near+43.1316412%2C-83.6800062",
+      "isFar": true
+    }
+  ],
+  "hotels": [
+    {
+      "name": "North Dort Manor Ltd",
+      "distance": "0.1 mi",
+      "url": "https://www.google.com/maps/search/North%20Dort%20Manor%20Ltd+near+43.1316412%2C-83.6800062"
+    },
+    {
+      "name": "North Morris Estates MHP LLC",
+      "distance": "0.9 mi",
+      "url": "https://www.google.com/maps/search/North%20Morris%20Estates%20MHP%20LLC+near+43.1316412%2C-83.6800062"
+    },
+    {
+      "name": "Highlands",
+      "distance": "1.0 mi",
+      "url": "https://www.google.com/maps/search/Highlands+near+43.1316412%2C-83.6800062"
+    },
+    {
+      "name": "South Creek Community",
+      "distance": "1.0 mi",
+      "url": "https://www.google.com/maps/search/South%20Creek%20Community+near+43.1316412%2C-83.6800062"
+    },
+    {
+      "name": "Desi Tycoons LLC",
+      "distance": "1.0 mi",
+      "url": "https://www.google.com/maps/search/Desi%20Tycoons%20LLC+near+43.1316412%2C-83.6800062"
+    },
+    {
+      "name": "City Loft Apartment",
+      "distance": "1.1 mi",
+      "url": "https://www.google.com/maps/search/City%20Loft%20Apartment+near+43.1316412%2C-83.6800062"
+    },
+    {
+      "name": "Mount Morris Mobile Home Park",
+      "distance": "1.2 mi",
+      "url": "https://www.google.com/maps/search/Mount%20Morris%20Mobile%20Home%20Park+near+43.1316412%2C-83.6800062"
+    }
+  ],
+  "gas": [
+    {
+      "name": "Speedway",
+      "distance": "0.8 mi",
+      "url": "https://www.google.com/maps/search/Speedway+near+43.1316412%2C-83.6800062"
+    },
+    {
+      "name": "Amoco",
+      "distance": "0.8 mi",
+      "url": "https://www.google.com/maps/search/Amoco+near+43.1316412%2C-83.6800062"
+    },
+    {
+      "name": "Fast Lane Gas Station and Coin Laundry",
+      "distance": "0.8 mi",
+      "url": "https://www.google.com/maps/search/Fast%20Lane%20Gas%20Station%20and%20Coin%20Laundry+near+43.1316412%2C-83.6800062"
+    },
+    {
+      "name": "Mobil",
+      "distance": "0.9 mi",
+      "url": "https://www.google.com/maps/search/Mobil+near+43.1316412%2C-83.6800062"
+    },
+    {
+      "name": "Sunoco",
+      "distance": "1.1 mi",
+      "url": "https://www.google.com/maps/search/Sunoco+near+43.1316412%2C-83.6800062"
+    }
+  ]
+}

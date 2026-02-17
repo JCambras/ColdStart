@@ -1,0 +1,248 @@
+{
+  "quick_bite": [
+    {
+      "name": "Subway",
+      "distance": "1.3 mi",
+      "url": "https://www.google.com/maps/search/Subway+near+44.8685896%2C-93.3947499"
+    },
+    {
+      "name": "Jet's Pizza",
+      "distance": "1.3 mi",
+      "url": "https://www.google.com/maps/search/Jet's%20Pizza+near+44.8685896%2C-93.3947499"
+    },
+    {
+      "name": "Dickey's Barbecue Pit",
+      "distance": "1.4 mi",
+      "url": "https://www.google.com/maps/search/Dickey's%20Barbecue%20Pit+near+44.8685896%2C-93.3947499"
+    }
+  ],
+  "coffee": [
+    {
+      "name": "FRGMNT Coffee - EP",
+      "distance": "1.2 mi",
+      "url": "https://www.google.com/maps/search/FRGMNT%20Coffee%20-%20EP+near+44.8685896%2C-93.3947499"
+    },
+    {
+      "name": "7 Corners Coffee - Eden Prairie",
+      "distance": "1.4 mi",
+      "url": "https://www.google.com/maps/search/7%20Corners%20Coffee%20-%20Eden%20Prairie+near+44.8685896%2C-93.3947499"
+    },
+    {
+      "name": "38 Degrees Cafe",
+      "distance": "1.4 mi",
+      "url": "https://www.google.com/maps/search/38%20Degrees%20Cafe+near+44.8685896%2C-93.3947499"
+    },
+    {
+      "name": "Prairie Lakes Cafe",
+      "distance": "1.4 mi",
+      "url": "https://www.google.com/maps/search/Prairie%20Lakes%20Cafe+near+44.8685896%2C-93.3947499"
+    },
+    {
+      "name": "Classics Market Cafe",
+      "distance": "1.5 mi",
+      "url": "https://www.google.com/maps/search/Classics%20Market%20Cafe+near+44.8685896%2C-93.3947499"
+    }
+  ],
+  "team_lunch": [
+    {
+      "name": "Red River Kitchen at Braemar",
+      "distance": "0.5 mi",
+      "url": "https://www.google.com/maps/search/Red%20River%20Kitchen%20at%20Braemar+near+44.8685896%2C-93.3947499"
+    },
+    {
+      "name": "Rhody's Craft House and Grill",
+      "distance": "0.6 mi",
+      "url": "https://www.google.com/maps/search/Rhody's%20Craft%20House%20and%20Grill+near+44.8685896%2C-93.3947499"
+    },
+    {
+      "name": "Farmer's Fridge",
+      "distance": "1.0 mi",
+      "url": "https://www.google.com/maps/search/Farmer's%20Fridge+near+44.8685896%2C-93.3947499"
+    },
+    {
+      "name": "Boardroom at OG",
+      "distance": "1.2 mi",
+      "url": "https://www.google.com/maps/search/Boardroom%20at%20OG+near+44.8685896%2C-93.3947499"
+    },
+    {
+      "name": "Nova Restaurant Group",
+      "distance": "1.4 mi",
+      "url": "https://www.google.com/maps/search/Nova%20Restaurant%20Group+near+44.8685896%2C-93.3947499"
+    }
+  ],
+  "dinner": [
+    {
+      "name": "Biryani Stop",
+      "distance": "0.6 mi",
+      "url": "https://www.google.com/maps/search/Biryani%20Stop+near+44.8685896%2C-93.3947499"
+    },
+    {
+      "name": "Eden Restaurant",
+      "distance": "0.6 mi",
+      "url": "https://www.google.com/maps/search/Eden%20Restaurant+near+44.8685896%2C-93.3947499"
+    },
+    {
+      "name": "Braemar Cafe",
+      "distance": "0.6 mi",
+      "url": "https://www.google.com/maps/search/Braemar%20Cafe+near+44.8685896%2C-93.3947499"
+    },
+    {
+      "name": "Pizza Lucé Eden Prairie",
+      "distance": "1.3 mi",
+      "url": "https://www.google.com/maps/search/Pizza%20Luc%C3%A9%20Eden%20Prairie+near+44.8685896%2C-93.3947499"
+    },
+    {
+      "name": "TequeArepa",
+      "distance": "1.3 mi",
+      "url": "https://www.google.com/maps/search/TequeArepa+near+44.8685896%2C-93.3947499"
+    }
+  ],
+  "bowling": [
+    {
+      "name": "Bowlero Eden Prairie",
+      "distance": "1.9 mi",
+      "url": "https://www.google.com/maps/search/Bowlero%20Eden%20Prairie+near+44.8685896%2C-93.3947499"
+    },
+    {
+      "name": "Tuttle's Eat Bowl Play",
+      "distance": "4.0 mi",
+      "url": "https://www.google.com/maps/search/Tuttle's%20Eat%20Bowl%20Play+near+44.8685896%2C-93.3947499",
+      "isFar": true
+    },
+    {
+      "name": "AMF Southtown Lanes",
+      "distance": "4.5 mi",
+      "url": "https://www.google.com/maps/search/AMF%20Southtown%20Lanes+near+44.8685896%2C-93.3947499",
+      "isFar": true
+    }
+  ],
+  "arcade": [],
+  "movies": [
+    {
+      "name": "AMC Eden Prairie Mall 18",
+      "distance": "1.8 mi",
+      "url": "https://www.google.com/maps/search/AMC%20Eden%20Prairie%20Mall%2018+near+44.8685896%2C-93.3947499"
+    },
+    {
+      "name": "AMC Southdale 16",
+      "distance": "3.5 mi",
+      "url": "https://www.google.com/maps/search/AMC%20Southdale%2016+near+44.8685896%2C-93.3947499",
+      "isFar": true
+    },
+    {
+      "name": "Hopkins Community Cinema",
+      "distance": "4.0 mi",
+      "url": "https://www.google.com/maps/search/Hopkins%20Community%20Cinema+near+44.8685896%2C-93.3947499",
+      "isFar": true
+    },
+    {
+      "name": "Edina Mann Theatre",
+      "distance": "4.4 mi",
+      "url": "https://www.google.com/maps/search/Edina%20Mann%20Theatre+near+44.8685896%2C-93.3947499",
+      "isFar": true
+    }
+  ],
+  "fun": [
+    {
+      "name": "Pump It Up Eden Prairie Kids Birthdays and More",
+      "distance": "0.4 mi",
+      "url": "https://www.google.com/maps/search/Pump%20It%20Up%20Eden%20Prairie%20Kids%20Birthdays%20and%20More+near+44.8685896%2C-93.3947499"
+    },
+    {
+      "name": "Sky Zone Trampoline Park",
+      "distance": "1.6 mi",
+      "url": "https://www.google.com/maps/search/Sky%20Zone%20Trampoline%20Park+near+44.8685896%2C-93.3947499"
+    },
+    {
+      "name": "Sandbox VR",
+      "distance": "1.8 mi",
+      "url": "https://www.google.com/maps/search/Sandbox%20VR+near+44.8685896%2C-93.3947499"
+    },
+    {
+      "name": "Game Show Studio Eden Prairie",
+      "distance": "1.8 mi",
+      "url": "https://www.google.com/maps/search/Game%20Show%20Studio%20Eden%20Prairie+near+44.8685896%2C-93.3947499"
+    },
+    {
+      "name": "Missing Pieces Escape Games",
+      "distance": "1.9 mi",
+      "url": "https://www.google.com/maps/search/Missing%20Pieces%20Escape%20Games+near+44.8685896%2C-93.3947499"
+    },
+    {
+      "name": "Lock and Key Escape Rooms",
+      "distance": "3.6 mi",
+      "url": "https://www.google.com/maps/search/Lock%20and%20Key%20Escape%20Rooms+near+44.8685896%2C-93.3947499",
+      "isFar": true
+    },
+    {
+      "name": "Edinborough Park",
+      "distance": "3.6 mi",
+      "url": "https://www.google.com/maps/search/Edinborough%20Park+near+44.8685896%2C-93.3947499",
+      "isFar": true
+    }
+  ],
+  "hotels": [
+    {
+      "name": "Fairfield by Marriott Inn & Suites Minneapolis Eden Prairie",
+      "distance": "1.3 mi",
+      "url": "https://www.google.com/maps/search/Fairfield%20by%20Marriott%20Inn%20%26%20Suites%20Minneapolis%20Eden%20Prairie+near+44.8685896%2C-93.3947499"
+    },
+    {
+      "name": "Tmi Hospitality",
+      "distance": "1.3 mi",
+      "url": "https://www.google.com/maps/search/Tmi%20Hospitality+near+44.8685896%2C-93.3947499"
+    },
+    {
+      "name": "Hyatt Place Minneapolis/Eden Prairie",
+      "distance": "1.4 mi",
+      "url": "https://www.google.com/maps/search/Hyatt%20Place%20Minneapolis%2FEden%20Prairie+near+44.8685896%2C-93.3947499"
+    },
+    {
+      "name": "Holiday Inn Express & Suites Eden Prairie - Minneapolis by IHG",
+      "distance": "1.4 mi",
+      "url": "https://www.google.com/maps/search/Holiday%20Inn%20Express%20%26%20Suites%20Eden%20Prairie%20-%20Minneapolis%20by%20IHG+near+44.8685896%2C-93.3947499"
+    },
+    {
+      "name": "Sonesta Select Minneapolis Eden Prairie",
+      "distance": "1.4 mi",
+      "url": "https://www.google.com/maps/search/Sonesta%20Select%20Minneapolis%20Eden%20Prairie+near+44.8685896%2C-93.3947499"
+    },
+    {
+      "name": "Everything You Need For The Perfect Vacation! Pool, Parking, Pets Allowed w/ Fee",
+      "distance": "1.4 mi",
+      "url": "https://www.google.com/maps/search/Everything%20You%20Need%20For%20The%20Perfect%20Vacation!%20Pool%2C%20Parking%2C%20Pets%20Allowed%20w%2F%20Fee+near+44.8685896%2C-93.3947499"
+    },
+    {
+      "name": "EdenPrairie Townhome -Pool-Patio-beach-park-shop",
+      "distance": "1.5 mi",
+      "url": "https://www.google.com/maps/search/EdenPrairie%20Townhome%20-Pool-Patio-beach-park-shop+near+44.8685896%2C-93.3947499"
+    }
+  ],
+  "gas": [
+    {
+      "name": "Holiday Gas Station",
+      "distance": "1.7 mi",
+      "url": "https://www.google.com/maps/search/Holiday%20Gas%20Station+near+44.8685896%2C-93.3947499"
+    },
+    {
+      "name": "Mobil",
+      "distance": "1.8 mi",
+      "url": "https://www.google.com/maps/search/Mobil+near+44.8685896%2C-93.3947499"
+    },
+    {
+      "name": "Pennzoil",
+      "distance": "1.9 mi",
+      "url": "https://www.google.com/maps/search/Pennzoil+near+44.8685896%2C-93.3947499"
+    },
+    {
+      "name": "Speedway",
+      "distance": "1.9 mi",
+      "url": "https://www.google.com/maps/search/Speedway+near+44.8685896%2C-93.3947499"
+    },
+    {
+      "name": "bp",
+      "distance": "2.0 mi",
+      "url": "https://www.google.com/maps/search/bp+near+44.8685896%2C-93.3947499"
+    }
+  ]
+}

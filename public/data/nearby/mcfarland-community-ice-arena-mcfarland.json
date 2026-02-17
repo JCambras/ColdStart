@@ -1,0 +1,215 @@
+{
+  "quick_bite": [
+    {
+      "name": "Subway",
+      "distance": "1.3 mi",
+      "url": "https://www.google.com/maps/search/Subway+near+43.028929999999995%2C-89.2865879"
+    },
+    {
+      "name": "Culver’s",
+      "distance": "1.3 mi",
+      "url": "https://www.google.com/maps/search/Culver%E2%80%99s+near+43.028929999999995%2C-89.2865879"
+    }
+  ],
+  "coffee": [
+    {
+      "name": "Capital Coffee",
+      "distance": "0.7 mi",
+      "url": "https://www.google.com/maps/search/Capital%20Coffee+near+43.028929999999995%2C-89.2865879"
+    },
+    {
+      "name": "McDonald's",
+      "distance": "1.0 mi",
+      "url": "https://www.google.com/maps/search/McDonald's+near+43.028929999999995%2C-89.2865879"
+    },
+    {
+      "name": "McFarland House Cafe",
+      "distance": "1.1 mi",
+      "url": "https://www.google.com/maps/search/McFarland%20House%20Cafe+near+43.028929999999995%2C-89.2865879"
+    },
+    {
+      "name": "Luke's Cafe",
+      "distance": "1.2 mi",
+      "url": "https://www.google.com/maps/search/Luke's%20Cafe+near+43.028929999999995%2C-89.2865879"
+    },
+    {
+      "name": "Grace Coffee McFarland",
+      "distance": "1.3 mi",
+      "url": "https://www.google.com/maps/search/Grace%20Coffee%20McFarland+near+43.028929999999995%2C-89.2865879"
+    }
+  ],
+  "team_lunch": [
+    {
+      "name": "Hahnee Goottay",
+      "distance": "1.0 mi",
+      "url": "https://www.google.com/maps/search/Hahnee%20Goottay+near+43.028929999999995%2C-89.2865879"
+    }
+  ],
+  "dinner": [
+    {
+      "name": "The Mekong",
+      "distance": "1.0 mi",
+      "url": "https://www.google.com/maps/search/The%20Mekong+near+43.028929999999995%2C-89.2865879"
+    },
+    {
+      "name": "Main Moon",
+      "distance": "1.0 mi",
+      "url": "https://www.google.com/maps/search/Main%20Moon+near+43.028929999999995%2C-89.2865879"
+    },
+    {
+      "name": "Park Side Pub",
+      "distance": "1.0 mi",
+      "url": "https://www.google.com/maps/search/Park%20Side%20Pub+near+43.028929999999995%2C-89.2865879"
+    },
+    {
+      "name": "Green Lantern Restaurant",
+      "distance": "1.0 mi",
+      "url": "https://www.google.com/maps/search/Green%20Lantern%20Restaurant+near+43.028929999999995%2C-89.2865879"
+    },
+    {
+      "name": "Spartan Pizza",
+      "distance": "1.0 mi",
+      "url": "https://www.google.com/maps/search/Spartan%20Pizza+near+43.028929999999995%2C-89.2865879"
+    },
+    {
+      "name": "Madison's Grill",
+      "distance": "1.0 mi",
+      "url": "https://www.google.com/maps/search/Madison's%20Grill+near+43.028929999999995%2C-89.2865879"
+    },
+    {
+      "name": "McFarland Tavern",
+      "distance": "1.1 mi",
+      "url": "https://www.google.com/maps/search/McFarland%20Tavern+near+43.028929999999995%2C-89.2865879"
+    }
+  ],
+  "bowling": [
+    {
+      "name": "Spartan Bowl",
+      "distance": "1.4 mi",
+      "url": "https://www.google.com/maps/search/Spartan%20Bowl+near+43.028929999999995%2C-89.2865879"
+    },
+    {
+      "name": "Dream Lanes",
+      "distance": "4.1 mi",
+      "url": "https://www.google.com/maps/search/Dream%20Lanes+near+43.028929999999995%2C-89.2865879",
+      "isFar": true
+    },
+    {
+      "name": "Bowl-A-Vard",
+      "distance": "6.7 mi",
+      "url": "https://www.google.com/maps/search/Bowl-A-Vard+near+43.028929999999995%2C-89.2865879",
+      "isFar": true
+    },
+    {
+      "name": "Thrill Factory Entertainment",
+      "distance": "6.8 mi",
+      "url": "https://www.google.com/maps/search/Thrill%20Factory%20Entertainment+near+43.028929999999995%2C-89.2865879",
+      "isFar": true
+    }
+  ],
+  "arcade": [],
+  "movies": [
+    {
+      "name": "Cinematheque - University Wisconsin Madison",
+      "distance": "6.5 mi",
+      "url": "https://www.google.com/maps/search/Cinematheque%20-%20University%20Wisconsin%20Madison+near+43.028929999999995%2C-89.2865879",
+      "isFar": true
+    },
+    {
+      "name": "Flix Brewhouse Madison",
+      "distance": "6.7 mi",
+      "url": "https://www.google.com/maps/search/Flix%20Brewhouse%20Madison+near+43.028929999999995%2C-89.2865879",
+      "isFar": true
+    }
+  ],
+  "fun": [
+    {
+      "name": "Escape This",
+      "distance": "5.6 mi",
+      "url": "https://www.google.com/maps/search/Escape%20This+near+43.028929999999995%2C-89.2865879",
+      "isFar": true
+    },
+    {
+      "name": "Bovada",
+      "distance": "6.2 mi",
+      "url": "https://www.google.com/maps/search/Bovada+near+43.028929999999995%2C-89.2865879",
+      "isFar": true
+    },
+    {
+      "name": "Sky Zone Madison",
+      "distance": "6.5 mi",
+      "url": "https://www.google.com/maps/search/Sky%20Zone%20Madison+near+43.028929999999995%2C-89.2865879",
+      "isFar": true
+    },
+    {
+      "name": "Reindahl Park Splash Pad",
+      "distance": "6.8 mi",
+      "url": "https://www.google.com/maps/search/Reindahl%20Park%20Splash%20Pad+near+43.028929999999995%2C-89.2865879",
+      "isFar": true
+    }
+  ],
+  "hotels": [
+    {
+      "name": "McFarland Home Near Lakes - 4 Mi to Madison! - Holiday Home",
+      "distance": "0.3 mi",
+      "url": "https://www.google.com/maps/search/McFarland%20Home%20Near%20Lakes%20-%204%20Mi%20to%20Madison!%20-%20Holiday%20Home+near+43.028929999999995%2C-89.2865879"
+    },
+    {
+      "name": "Cedar Ridge Rendezvous 4 Bedroom House with Adjacent Park",
+      "distance": "0.4 mi",
+      "url": "https://www.google.com/maps/search/Cedar%20Ridge%20Rendezvous%204%20Bedroom%20House%20with%20Adjacent%20Park+near+43.028929999999995%2C-89.2865879"
+    },
+    {
+      "name": "Quiet Lakefront Getaway on Lake Waubesa+HotTub+PrivateDock+GameRoom+SmartTV's",
+      "distance": "0.9 mi",
+      "url": "https://www.google.com/maps/search/Quiet%20Lakefront%20Getaway%20on%20Lake%20Waubesa%2BHotTub%2BPrivateDock%2BGameRoom%2BSmartTV's+near+43.028929999999995%2C-89.2865879"
+    },
+    {
+      "name": "Private Loft in Historic McFarland House",
+      "distance": "1.0 mi",
+      "url": "https://www.google.com/maps/search/Private%20Loft%20in%20Historic%20McFarland%20House+near+43.028929999999995%2C-89.2865879"
+    },
+    {
+      "name": "Lake Waubesa 3 bedroom Getaway+HotTub+PrivateDock+GameRoom+SmartTV's+EV charger",
+      "distance": "1.0 mi",
+      "url": "https://www.google.com/maps/search/Lake%20Waubesa%203%20bedroom%20Getaway%2BHotTub%2BPrivateDock%2BGameRoom%2BSmartTV's%2BEV%20charger+near+43.028929999999995%2C-89.2865879"
+    },
+    {
+      "name": "Family-friendly Lake Waubesa Home: Boat + Swim!",
+      "distance": "1.1 mi",
+      "url": "https://www.google.com/maps/search/Family-friendly%20Lake%20Waubesa%20Home%3A%20Boat%20%2B%20Swim!+near+43.028929999999995%2C-89.2865879"
+    },
+    {
+      "name": "Family-Friendly Lake Waubesa Home: Boat + Swim!",
+      "distance": "1.1 mi",
+      "url": "https://www.google.com/maps/search/Family-Friendly%20Lake%20Waubesa%20Home%3A%20Boat%20%2B%20Swim!+near+43.028929999999995%2C-89.2865879"
+    }
+  ],
+  "gas": [
+    {
+      "name": "Chs Petroleum Terminal",
+      "distance": "0.9 mi",
+      "url": "https://www.google.com/maps/search/Chs%20Petroleum%20Terminal+near+43.028929999999995%2C-89.2865879"
+    },
+    {
+      "name": "Sunoco - Madison Terminal",
+      "distance": "0.9 mi",
+      "url": "https://www.google.com/maps/search/Sunoco%20-%20Madison%20Terminal+near+43.028929999999995%2C-89.2865879"
+    },
+    {
+      "name": "bp",
+      "distance": "1.0 mi",
+      "url": "https://www.google.com/maps/search/bp+near+43.028929999999995%2C-89.2865879"
+    },
+    {
+      "name": "Kwik Trip",
+      "distance": "1.1 mi",
+      "url": "https://www.google.com/maps/search/Kwik%20Trip+near+43.028929999999995%2C-89.2865879"
+    },
+    {
+      "name": "Citgo",
+      "distance": "1.1 mi",
+      "url": "https://www.google.com/maps/search/Citgo+near+43.028929999999995%2C-89.2865879"
+    }
+  ]
+}

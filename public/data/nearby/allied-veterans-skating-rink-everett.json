@@ -1,0 +1,203 @@
+{
+  "quick_bite": [
+    {
+      "name": "Everett House of Pizza",
+      "distance": "0.3 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Everett%20House%20of%20Pizza&query_place_id=ChIJkwKWc51x44kRYg4N_fpC7GA&center=42.4150853,-71.0485317"
+    },
+    {
+      "name": "Subway",
+      "distance": "0.7 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Subway&query_place_id=ChIJoxuTVaFx44kRJwP-I1lp3nc&center=42.402349199999996,-71.04378160000002"
+    },
+    {
+      "name": "Taco Bell",
+      "distance": "0.8 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Taco%20Bell&query_place_id=ChIJFaNwi6Nx44kRPuPAiS1clWA&center=42.4022061,-71.0422379"
+    },
+    {
+      "name": "Love Dog Hot Dog Buffet",
+      "distance": "0.8 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Love%20Dog%20Hot%20Dog%20Buffet&query_place_id=ChIJlwWFPQVt44kRk8yeSwvwkig&center=42.4028869,-71.04887029999999"
+    },
+    {
+      "name": "Wendy's",
+      "distance": "0.8 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Wendy's&query_place_id=ChIJF9VEAqRx44kRwZNkTQffKSs&center=42.4016564,-71.04432489999999"
+    },
+    {
+      "name": "Guloso Burgers",
+      "distance": "0.8 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Guloso%20Burgers&query_place_id=ChIJFfEPPvpx44kRyKj1zFt3ES4&center=42.4076145,-71.0571665"
+    }
+  ],
+  "coffee": [
+    {
+      "name": "Dunkin'",
+      "distance": "0.2 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Dunkin'&query_place_id=ChIJYXciCZ1x44kR6Iwjy_QPw6o&center=42.414256200000004,-71.0469222"
+    },
+    {
+      "name": "Ritual Coffee bar",
+      "distance": "0.4 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Ritual%20Coffee%20bar&query_place_id=ChIJNzZMMz5x44kRizaMb4Oq-m4&center=42.4122517,-71.0504036"
+    },
+    {
+      "name": "Chelsea Bakery",
+      "distance": "0.7 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Chelsea%20Bakery&query_place_id=ChIJp4-C0D9x44kRIluJq1hWdJ4&center=42.4049773,-71.05088359999999"
+    },
+    {
+      "name": "El buen sabor",
+      "distance": "0.7 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=El%20buen%20sabor&query_place_id=ChIJVTPu9-hx44kRh6WNov7Kmvs&center=42.4049909,-71.0352676"
+    },
+    {
+      "name": "Bakes & Cakes Brazilian Bakery",
+      "distance": "0.8 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Bakes%20%26%20Cakes%20Brazilian%20Bakery&query_place_id=ChIJsy47kQxx44kRO8WUCSkjz4s&center=42.407606,-71.0567"
+    }
+  ],
+  "team_lunch": [
+    {
+      "name": "Melo's Bakery",
+      "distance": "0.2 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Melo's%20Bakery&query_place_id=ChIJFTxN85px44kRg0Piel-Bs9w&center=42.4134263,-71.0393611"
+    },
+    {
+      "name": "Antojitos Latinos",
+      "distance": "0.3 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Antojitos%20Latinos&query_place_id=ChIJgU4q_Epx44kRqZEsGBSnUC0&center=42.4145866,-71.0480702"
+    },
+    {
+      "name": "Fei Teng 沸腾",
+      "distance": "0.3 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Fei%20Teng%20%E6%B2%B8%E8%85%BE&query_place_id=ChIJHTHVhqNx44kR98d0WNJeI94&center=42.4147065,-71.0481187"
+    },
+    {
+      "name": "I Love Cupcakes By Estefanny",
+      "distance": "0.3 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=I%20Love%20Cupcakes%20By%20Estefanny&query_place_id=ChIJVdQ0y8px44kRzPlkzuEZJ9w&center=42.409569499999996,-71.0459323"
+    },
+    {
+      "name": "Prato Feito Restaurante",
+      "distance": "0.3 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Prato%20Feito%20Restaurante&query_place_id=ChIJtbFrm51x44kRrpFs7hIQSes&center=42.414476799999996,-71.0489273"
+    }
+  ],
+  "dinner": [
+    {
+      "name": "Maria's Taqueria Restaurant",
+      "distance": "0.2 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Maria's%20Taqueria%20Restaurant&query_place_id=ChIJdUFY3PZx44kRI6qqHkyksUc&center=42.411057899999996,-71.04580709999999"
+    },
+    {
+      "name": "Gatas Bar & Grill",
+      "distance": "0.2 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Gatas%20Bar%20%26%20Grill&query_place_id=ChIJDaGEYRRx44kR5rCLwSXX3IE&center=42.4111109,-71.0459"
+    },
+    {
+      "name": "Amar Bakery & Events",
+      "distance": "0.2 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Amar%20Bakery%20%26%20Events&query_place_id=ChIJtVK3YWxx44kRwGJ4CckzspY&center=42.4115034,-71.04649359999999"
+    },
+    {
+      "name": "Elm St Bakery",
+      "distance": "0.2 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Elm%20St%20Bakery&query_place_id=ChIJA7qQWJpx44kRsf6ECqMgyUE&center=42.413378099999996,-71.0397857"
+    },
+    {
+      "name": "Nobre Steak House",
+      "distance": "0.3 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Nobre%20Steak%20House&query_place_id=ChIJ6WjkLIZx44kR3LYMPULcuS0&center=42.415534900000004,-71.04760089999999"
+    }
+  ],
+  "bowling": [
+    {
+      "name": "Town Line Luxury Lanes",
+      "distance": "2.2 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Town%20Line%20Luxury%20Lanes&query_place_id=ChIJb5GdmUBy44kR5ici4YpIX4U&center=42.4430146,-71.02935839999999"
+    },
+    {
+      "name": "Lucky Strike Somerville",
+      "distance": "2.4 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Lucky%20Strike%20Somerville&query_place_id=ChIJPd6OLNlw44kR-40XpP7VRmo&center=42.3913112,-71.0796475"
+    },
+    {
+      "name": "Central Park Lanes",
+      "distance": "2.6 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Central%20Park%20Lanes&query_place_id=ChIJXYkm21pw44kRumRmbqunUAw&center=42.3759577,-71.0386802"
+    }
+  ],
+  "arcade": [],
+  "movies": [
+    {
+      "name": "AMC Assembly Row 12",
+      "distance": "2.2 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=AMC%20Assembly%20Row%2012&query_place_id=ChIJgQg4TSdx44kRNfE_MOeMVmM&center=42.3949035,-71.0798568"
+    },
+    {
+      "name": "AMC Causeway 13",
+      "distance": "3.4 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=AMC%20Causeway%2013&query_place_id=ChIJs45OSJBw44kRn0RDRtlH1so&center=42.3652324,-71.06207049999999",
+      "isFar": true
+    },
+    {
+      "name": "Mugar Omni Theater",
+      "distance": "3.5 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Mugar%20Omni%20Theater&query_place_id=ChIJLxyMQZZw44kRqoQanRTSK08&center=42.366947,-71.0699558",
+      "isFar": true
+    }
+  ],
+  "fun": [
+    {
+      "name": "Suzuki Land",
+      "distance": "0.4 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Suzuki%20Land&query_place_id=ChIJgxjturNx44kR_1PvG5b1XTA&center=42.4076922,-71.0400034"
+    },
+    {
+      "name": "Room Escape Boston",
+      "distance": "1.3 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Room%20Escape%20Boston&query_place_id=ChIJJQBAW8Bx44kRzwgR7r1AYAk&center=42.4013779,-71.0244625"
+    },
+    {
+      "name": "Sky Zone Trampoline Park",
+      "distance": "1.4 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Sky%20Zone%20Trampoline%20Park&query_place_id=ChIJa-4yiRNx44kRXNnMqNFH7OM&center=42.407173199999995,-71.0690805"
+    },
+    {
+      "name": "Reloj de Chelsea Boston",
+      "distance": "1.5 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Reloj%20de%20Chelsea%20Boston&query_place_id=ChIJ8TVVhP5x44kR0-EYpEp_ezY&center=42.3925894,-71.0342898"
+    }
+  ],
+  "hotels": [
+    {
+      "name": "★Contemporary Studio10min to Boston w / free Parking★",
+      "distance": "0.1 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=%E2%98%85Contemporary%20Studio10min%20to%20Boston%20w%20%2F%20free%20Parking%E2%98%85&query_place_id=ChIJ4VlKo5tx44kRfyMi6eKjcdE&center=42.413078299999995,-71.0420609"
+    }
+  ],
+  "gas": [
+    {
+      "name": "GLENDALE GAS تبديل زيت",
+      "distance": "0.3 mi",
+      "url": "https://www.google.com/maps/search/GLENDALE%20GAS%20%D8%AA%D8%A8%D8%AF%D9%8A%D9%84%20%D8%B2%D9%8A%D8%AA+near+42.4131025%2C-71.0435163"
+    },
+    {
+      "name": "Ferry St Gas & Service",
+      "distance": "0.3 mi",
+      "url": "https://www.google.com/maps/search/Ferry%20St%20Gas%20%26%20Service+near+42.4131025%2C-71.0435163"
+    },
+    {
+      "name": "Pezzi Service Center, Inc.",
+      "distance": "0.7 mi",
+      "url": "https://www.google.com/maps/search/Pezzi%20Service%20Center%2C%20Inc.+near+42.4131025%2C-71.0435163"
+    },
+    {
+      "name": "Sunoco",
+      "distance": "0.8 mi",
+      "url": "https://www.google.com/maps/search/Sunoco+near+42.4131025%2C-71.0435163"
+    }
+  ]
+}

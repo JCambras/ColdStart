@@ -1,0 +1,187 @@
+{
+  "quick_bite": [
+    {
+      "name": "Benvenuti",
+      "distance": "0.1 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Benvenuti&query_place_id=ChIJ0YK_fpmxw4kRYQTv443N9o4&center=40.6528938,-74.32981529999999"
+    },
+    {
+      "name": "Aganja Kitchen",
+      "distance": "0.3 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Aganja%20Kitchen&query_place_id=ChIJc21e6GGxw4kRvAaKctnY-iY&center=40.6534597,-74.3252789"
+    },
+    {
+      "name": "Wendy's",
+      "distance": "0.5 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Wendy's&query_place_id=ChIJfwL-BWqxw4kRaH7bUFfpOQ4&center=40.653471599999996,-74.32222209999999"
+    },
+    {
+      "name": "Taco Bell",
+      "distance": "0.7 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Taco%20Bell&query_place_id=ChIJ1ar1wIWxw4kRVLw2s6uEoSw&center=40.6525762,-74.3191288"
+    },
+    {
+      "name": "Five Guys",
+      "distance": "1.0 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Five%20Guys&query_place_id=ChIJMXHFVKixw4kRckv0nXZEAjA&center=40.650480699999996,-74.34986099999999"
+    },
+    {
+      "name": "The Grandstand Gourmet Hot Dogs",
+      "distance": "1.3 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=The%20Grandstand%20Gourmet%20Hot%20Dogs&query_place_id=ChIJF1LNkCayw4kRvrzcTZh17Mo&center=40.6555144,-74.3067338"
+    }
+  ],
+  "coffee": [
+    {
+      "name": "&grain",
+      "distance": "0.1 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=%26grain&query_place_id=ChIJO0SJDZmxw4kR88hG6DjoKYU&center=40.652727899999995,-74.33083069999999"
+    },
+    {
+      "name": "Alonso's Cafe",
+      "distance": "0.3 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Alonso's%20Cafe&query_place_id=ChIJlRe4tnyxw4kRd4nWEL5ItOs&center=40.653439999999996,-74.3252496"
+    },
+    {
+      "name": "Dunkin'",
+      "distance": "0.4 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Dunkin'&query_place_id=ChIJIdRzTIWxw4kR1ipTir38Z64&center=40.652963299999996,-74.3241936"
+    },
+    {
+      "name": "Blue Java cafe",
+      "distance": "0.4 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Blue%20Java%20cafe&query_place_id=ChIJY1GA-xGxw4kRN3EBH9N02RY&center=40.651069,-74.3246605"
+    },
+    {
+      "name": "Manhattan Bagel",
+      "distance": "0.7 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Manhattan%20Bagel&query_place_id=ChIJV9SDpKexw4kRmtT2YUFUou0&center=40.6495767,-74.3445411"
+    }
+  ],
+  "team_lunch": [
+    {
+      "name": "YU Noodles",
+      "distance": "0.4 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=YU%20Noodles&query_place_id=ChIJ-SRjZgCxw4kRdy17eZtH2rE&center=40.6529484,-74.32418609999999"
+    },
+    {
+      "name": "Italian Deli & Cafe",
+      "distance": "0.9 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Italian%20Deli%20%26%20Cafe&query_place_id=ChIJhayMD6ixw4kRx4N6NVnTVow&center=40.6485437,-74.3476867"
+    }
+  ],
+  "dinner": [
+    {
+      "name": "Black Sheep Bar and Provisions",
+      "distance": "0.1 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Black%20Sheep%20Bar%20and%20Provisions&query_place_id=ChIJGWhPGomxw4kRvQ2COO50ax8&center=40.6529339,-74.3299135"
+    },
+    {
+      "name": "Nola’s Osteria and Pizza",
+      "distance": "0.2 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Nola%E2%80%99s%20Osteria%20and%20Pizza&query_place_id=ChIJ8T5sfBCxw4kRqGZ4l_ML7x8&center=40.6505259,-74.3306806"
+    },
+    {
+      "name": "Jersey Joe's Barbecue & Grill",
+      "distance": "0.2 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Jersey%20Joe's%20Barbecue%20%26%20Grill&query_place_id=ChIJtdl3UJqxw4kRe3lf_IFffpw&center=40.6532737,-74.32767849999999"
+    },
+    {
+      "name": "Tri-Nice Express",
+      "distance": "0.4 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Tri-Nice%20Express&query_place_id=ChIJve8tJOGxw4kRqeiTKUcxUDE&center=40.6535411,-74.3247225"
+    },
+    {
+      "name": "Azteca Grill",
+      "distance": "0.4 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Azteca%20Grill&query_place_id=ChIJadRFv5qxw4kRAHF9zmbVQAY&center=40.6535593,-74.3247116"
+    },
+    {
+      "name": "Sushi & Asian Kitchen",
+      "distance": "0.4 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Sushi%20%26%20Asian%20Kitchen&query_place_id=ChIJL0bUGbuxw4kR7O77PxIw5iE&center=40.6494399,-74.3371338"
+    }
+  ],
+  "bowling": [
+    {
+      "name": "Garwood Lanes",
+      "distance": "0.4 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Garwood%20Lanes&query_place_id=ChIJM0Cv6pqxw4kRxEljfw8LwXY&center=40.6535386,-74.3251253"
+    },
+    {
+      "name": "Linden Lanes",
+      "distance": "3.8 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Linden%20Lanes&query_place_id=ChIJC2TxGKazw4kRM6rSCbQAj8I&center=40.626906,-74.2693788",
+      "isFar": true
+    }
+  ],
+  "arcade": [],
+  "movies": [
+    {
+      "name": "The Cranford Theater",
+      "distance": "1.4 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=The%20Cranford%20Theater&query_place_id=ChIJ49xoniayw4kRZE98hTCU0s0&center=40.6557538,-74.3061414"
+    },
+    {
+      "name": "AMC Mountainside 10",
+      "distance": "2.1 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=AMC%20Mountainside%2010&query_place_id=ChIJwRP0Ld6xw4kROH2thxn9TwA&center=40.683523,-74.335413"
+    }
+  ],
+  "fun": [
+    {
+      "name": "Escapology Escape Rooms Garwood",
+      "distance": "0.4 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Escapology%20Escape%20Rooms%20Garwood&query_place_id=ChIJ2UleKYWxw4kReeIoZ8w85-U&center=40.652219599999995,-74.3241256"
+    },
+    {
+      "name": "Charles Addams Heritage Trail",
+      "distance": "1.2 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Charles%20Addams%20Heritage%20Trail&query_place_id=ChIJASbd-R6xw4kR0YWraJ3q8gY&center=40.6544959,-74.353959"
+    },
+    {
+      "name": "Mohawk Park Waterfalls",
+      "distance": "2.3 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Mohawk%20Park%20Waterfalls&query_place_id=ChIJ9ywppmSzw4kR9bPLOU_UnAw&center=40.6402811,-74.2906136"
+    }
+  ],
+  "hotels": [
+    {
+      "name": "The Westfield Inn, BW Signature Collection",
+      "distance": "0.9 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=The%20Westfield%20Inn%2C%20BW%20Signature%20Collection&query_place_id=ChIJ3UgiW6ixw4kRuTIa-U1b6Gw&center=40.649780199999995,-74.3490829"
+    },
+    {
+      "name": "Comfy Convenient Suburban Oasis",
+      "distance": "0.9 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Comfy%20Convenient%20Suburban%20Oasis&query_place_id=ChIJ2evz_Kixw4kRbuJsVqAGukU&center=40.6511612,-74.3496933"
+    },
+    {
+      "name": "Comfy & Convenient Suburban Oasis",
+      "distance": "0.9 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Comfy%20%26%20Convenient%20Suburban%20Oasis&query_place_id=ChIJ2evz_Kixw4kRJEQMlftb0r4&center=40.6511612,-74.3496933"
+    }
+  ],
+  "gas": [
+    {
+      "name": "Mobil",
+      "distance": "0.3 mi",
+      "url": "https://www.google.com/maps/search/Mobil+near+40.6532775%2C-74.3319199"
+    },
+    {
+      "name": "Shell",
+      "distance": "0.6 mi",
+      "url": "https://www.google.com/maps/search/Shell+near+40.6532775%2C-74.3319199"
+    },
+    {
+      "name": "Amoco",
+      "distance": "0.6 mi",
+      "url": "https://www.google.com/maps/search/Amoco+near+40.6532775%2C-74.3319199"
+    },
+    {
+      "name": "Raceway Petroleum",
+      "distance": "0.7 mi",
+      "url": "https://www.google.com/maps/search/Raceway%20Petroleum+near+40.6532775%2C-74.3319199"
+    }
+  ]
+}

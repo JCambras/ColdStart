@@ -1,0 +1,196 @@
+{
+  "quick_bite": [
+    {
+      "name": "Hardee's",
+      "distance": "1.8 mi",
+      "url": "https://www.google.com/maps/search/Hardee's+near+35.1964719%2C-91.7313954"
+    },
+    {
+      "name": "Subway",
+      "distance": "1.8 mi",
+      "url": "https://www.google.com/maps/search/Subway+near+35.1964719%2C-91.7313954"
+    },
+    {
+      "name": "Krispy Krunchy Chicken",
+      "distance": "1.9 mi",
+      "url": "https://www.google.com/maps/search/Krispy%20Krunchy%20Chicken+near+35.1964719%2C-91.7313954"
+    },
+    {
+      "name": "Chester's Chicken",
+      "distance": "2.0 mi",
+      "url": "https://www.google.com/maps/search/Chester's%20Chicken+near+35.1964719%2C-91.7313954"
+    },
+    {
+      "name": "Zaxby's Chicken Fingers & Buffalo Wings",
+      "distance": "3.1 mi",
+      "url": "https://www.google.com/maps/search/Zaxby's%20Chicken%20Fingers%20%26%20Buffalo%20Wings+near+35.1964719%2C-91.7313954",
+      "isFar": true
+    },
+    {
+      "name": "Popeyes Louisiana Kitchen",
+      "distance": "3.1 mi",
+      "url": "https://www.google.com/maps/search/Popeyes%20Louisiana%20Kitchen+near+35.1964719%2C-91.7313954",
+      "isFar": true
+    },
+    {
+      "name": "Dairy Queen Grill & Chill",
+      "distance": "3.2 mi",
+      "url": "https://www.google.com/maps/search/Dairy%20Queen%20Grill%20%26%20Chill+near+35.1964719%2C-91.7313954",
+      "isFar": true
+    }
+  ],
+  "coffee": [
+    {
+      "name": "Morning Sun Market & Cafe",
+      "distance": "0.1 mi",
+      "url": "https://www.google.com/maps/search/Morning%20Sun%20Market%20%26%20Cafe+near+35.1964719%2C-91.7313954"
+    },
+    {
+      "name": "McDonald's",
+      "distance": "3.2 mi",
+      "url": "https://www.google.com/maps/search/McDonald's+near+35.1964719%2C-91.7313954",
+      "isFar": true
+    }
+  ],
+  "team_lunch": [
+    {
+      "name": "Texas Roadhouse",
+      "distance": "2.8 mi",
+      "url": "https://www.google.com/maps/search/Texas%20Roadhouse+near+35.1964719%2C-91.7313954"
+    },
+    {
+      "name": "Wing Street",
+      "distance": "3.2 mi",
+      "url": "https://www.google.com/maps/search/Wing%20Street+near+35.1964719%2C-91.7313954",
+      "isFar": true
+    }
+  ],
+  "dinner": [
+    {
+      "name": "Huckleberry's Catfish Buffet",
+      "distance": "1.4 mi",
+      "url": "https://www.google.com/maps/search/Huckleberry's%20Catfish%20Buffet+near+35.1964719%2C-91.7313954"
+    },
+    {
+      "name": "Sassy Sweets",
+      "distance": "1.6 mi",
+      "url": "https://www.google.com/maps/search/Sassy%20Sweets+near+35.1964719%2C-91.7313954"
+    },
+    {
+      "name": "This Guy's Smoke N Grill",
+      "distance": "2.5 mi",
+      "url": "https://www.google.com/maps/search/This%20Guy's%20Smoke%20N%20Grill+near+35.1964719%2C-91.7313954"
+    },
+    {
+      "name": "Glenn's Smokehouse",
+      "distance": "2.9 mi",
+      "url": "https://www.google.com/maps/search/Glenn's%20Smokehouse+near+35.1964719%2C-91.7313954"
+    },
+    {
+      "name": "Casa Brava",
+      "distance": "3.1 mi",
+      "url": "https://www.google.com/maps/search/Casa%20Brava+near+35.1964719%2C-91.7313954",
+      "isFar": true
+    },
+    {
+      "name": "Rock House",
+      "distance": "3.1 mi",
+      "url": "https://www.google.com/maps/search/Rock%20House+near+35.1964719%2C-91.7313954",
+      "isFar": true
+    },
+    {
+      "name": "Greek House",
+      "distance": "3.1 mi",
+      "url": "https://www.google.com/maps/search/Greek%20House+near+35.1964719%2C-91.7313954",
+      "isFar": true
+    }
+  ],
+  "bowling": [],
+  "arcade": [],
+  "movies": [
+    {
+      "name": "Rialto Theater",
+      "distance": "3.8 mi",
+      "url": "https://www.google.com/maps/search/Rialto%20Theater+near+35.1964719%2C-91.7313954",
+      "isFar": true
+    },
+    {
+      "name": "Searcy 8 VIP Cinema",
+      "distance": "4.0 mi",
+      "url": "https://www.google.com/maps/search/Searcy%208%20VIP%20Cinema+near+35.1964719%2C-91.7313954",
+      "isFar": true
+    }
+  ],
+  "fun": [
+    {
+      "name": "Hourglass Escape Rooms",
+      "distance": "3.8 mi",
+      "url": "https://www.google.com/maps/search/Hourglass%20Escape%20Rooms+near+35.1964719%2C-91.7313954",
+      "isFar": true
+    }
+  ],
+  "hotels": [
+    {
+      "name": "Love's RV Hookup",
+      "distance": "1.8 mi",
+      "url": "https://www.google.com/maps/search/Love's%20RV%20Hookup+near+35.1964719%2C-91.7313954"
+    },
+    {
+      "name": "4 Beds and a Bison Just Minutes from Harding University in welcoming Searcy.",
+      "distance": "2.2 mi",
+      "url": "https://www.google.com/maps/search/4%20Beds%20and%20a%20Bison%20Just%20Minutes%20from%20Harding%20University%20in%20welcoming%20Searcy.+near+35.1964719%2C-91.7313954"
+    },
+    {
+      "name": "Welcome to The JOY House, a peaceful retreat perfect for the whole family!",
+      "distance": "2.3 mi",
+      "url": "https://www.google.com/maps/search/Welcome%20to%20The%20JOY%20House%2C%20a%20peaceful%20retreat%20perfect%20for%20the%20whole%20family!+near+35.1964719%2C-91.7313954"
+    },
+    {
+      "name": "Charming 3-bedroom house with WiFi and AC in Searcy",
+      "distance": "2.3 mi",
+      "url": "https://www.google.com/maps/search/Charming%203-bedroom%20house%20with%20WiFi%20and%20AC%20in%20Searcy+near+35.1964719%2C-91.7313954"
+    },
+    {
+      "name": "Charming 1-bedroom cottage in lovely Searcy with AC",
+      "distance": "2.5 mi",
+      "url": "https://www.google.com/maps/search/Charming%201-bedroom%20cottage%20in%20lovely%20Searcy%20with%20AC+near+35.1964719%2C-91.7313954"
+    },
+    {
+      "name": "\"OUR PLACE\" Comfy New 3 Bdm/2 Bath in Searcy, AR minutes from Harding University",
+      "distance": "2.8 mi",
+      "url": "https://www.google.com/maps/search/%22OUR%20PLACE%22%20Comfy%20New%203%20Bdm%2F2%20Bath%20in%20Searcy%2C%20AR%20minutes%20from%20Harding%20University+near+35.1964719%2C-91.7313954"
+    },
+    {
+      "name": "\\\"OUR PLACE\\\" Comfy New 3 Bdm /2 Bath in Searcy, AR minutes from Harding University",
+      "distance": "2.9 mi",
+      "url": "https://www.google.com/maps/search/%5C%22OUR%20PLACE%5C%22%20Comfy%20New%203%20Bdm%20%2F2%20Bath%20in%20Searcy%2C%20AR%20minutes%20from%20Harding%20University+near+35.1964719%2C-91.7313954"
+    }
+  ],
+  "gas": [
+    {
+      "name": "Mobil Higginson",
+      "distance": "0.1 mi",
+      "url": "https://www.google.com/maps/search/Mobil%20Higginson+near+35.1964719%2C-91.7313954"
+    },
+    {
+      "name": "Exxon",
+      "distance": "0.8 mi",
+      "url": "https://www.google.com/maps/search/Exxon+near+35.1964719%2C-91.7313954"
+    },
+    {
+      "name": "Valero",
+      "distance": "1.9 mi",
+      "url": "https://www.google.com/maps/search/Valero+near+35.1964719%2C-91.7313954"
+    },
+    {
+      "name": "Karmic Fuel 3 (MOBILE) Krispy Krunchy Chickes",
+      "distance": "1.9 mi",
+      "url": "https://www.google.com/maps/search/Karmic%20Fuel%203%20(MOBILE)%20Krispy%20Krunchy%20Chickes+near+35.1964719%2C-91.7313954"
+    },
+    {
+      "name": "Mobil",
+      "distance": "1.9 mi",
+      "url": "https://www.google.com/maps/search/Mobil+near+35.1964719%2C-91.7313954"
+    }
+  ]
+}

@@ -1,0 +1,171 @@
+{
+  "quick_bite": [
+    {
+      "name": "Wendy's",
+      "distance": "0.2 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Wendy's&query_place_id=ChIJeySjYv3PD4gR_i3uuELhQ-A&center=42.050380399999995,-87.7465754"
+    },
+    {
+      "name": "Chick-fil-A",
+      "distance": "0.2 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Chick-fil-A&query_place_id=ChIJv3YwVXvPD4gRaR59CXa55tM&center=42.0510253,-87.746354"
+    },
+    {
+      "name": "Portillo's Skokie",
+      "distance": "0.2 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Portillo's%20Skokie&query_place_id=ChIJ1zVlUmPPD4gRtWX6uX4Vupk&center=42.0519376,-87.7473857"
+    },
+    {
+      "name": "Jimmy John's",
+      "distance": "0.3 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Jimmy%20John's&query_place_id=ChIJW8CvTWPPD4gRNgOL-jd0kMg&center=42.0521804,-87.7474105"
+    }
+  ],
+  "coffee": [
+    {
+      "name": "MOTW Coffee and Pastries",
+      "distance": "0.3 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=MOTW%20Coffee%20and%20Pastries&query_place_id=ChIJBUlNtu3PD4gROccp7JSSw5Y&center=42.0523217,-87.747307"
+    }
+  ],
+  "team_lunch": [
+    {
+      "name": "Tasty Crab Cajun Seafood",
+      "distance": "0.1 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Tasty%20Crab%20Cajun%20Seafood&query_place_id=ChIJQwLHcQDPD4gRNIO8PkqbRLk&center=42.0498628,-87.7476867"
+    },
+    {
+      "name": "Wingstop",
+      "distance": "0.2 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Wingstop&query_place_id=ChIJi8GRhlTPD4gRVCBRyQ2aPIs&center=42.0526451,-87.7490184"
+    },
+    {
+      "name": "Lao Sze Chuan",
+      "distance": "0.3 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Lao%20Sze%20Chuan&query_place_id=ChIJI0YBDGPPD4gRiVDUulZ_9TA&center=42.0527987,-87.7488857"
+    },
+    {
+      "name": "Ruby of Siam",
+      "distance": "0.3 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Ruby%20of%20Siam&query_place_id=ChIJa81cNGPPD4gRKXdrcs97NaU&center=42.0527845,-87.7479553"
+    },
+    {
+      "name": "Beyond Thai Restaurant",
+      "distance": "0.3 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Beyond%20Thai%20Restaurant&query_place_id=ChIJFUKcV3rPD4gRKAyt9bi_OM8&center=42.048299799999995,-87.7442093"
+    },
+    {
+      "name": "IHOP",
+      "distance": "0.4 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=IHOP&query_place_id=ChIJ36LD1mLPD4gRbKynPrIjmB0&center=42.053945999999996,-87.7472215"
+    }
+  ],
+  "dinner": [
+    {
+      "name": "King of Kosher Sushi",
+      "distance": "0.2 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=King%20of%20Kosher%20Sushi&query_place_id=ChIJEQ02xa7PD4gRtcrx0E04NNI&center=42.0498468,-87.7473661"
+    },
+    {
+      "name": "Emma's Bagel Cafe",
+      "distance": "0.2 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Emma's%20Bagel%20Cafe&query_place_id=ChIJ0YuItWTPD4gRokRQ44TQWcU&center=42.049862,-87.747352"
+    },
+    {
+      "name": "EJ's Pizzeria",
+      "distance": "0.2 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=EJ's%20Pizzeria&query_place_id=ChIJfxi0nmXPD4gRGKLdDDct4JM&center=42.0470982,-87.74891579999999"
+    },
+    {
+      "name": "Crumbl",
+      "distance": "0.3 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Crumbl&query_place_id=ChIJrQFfUgDPD4gRkXAHSPXTx5k&center=42.052655699999995,-87.7478203"
+    },
+    {
+      "name": "Molly’s Cupcakes",
+      "distance": "0.7 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Molly%E2%80%99s%20Cupcakes&query_place_id=ChIJjfcjUrzFD4gROJCN_Q4D1BQ&center=42.059790799999995,-87.7492415"
+    },
+    {
+      "name": "The Gilded Loaf",
+      "distance": "1.0 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=The%20Gilded%20Loaf&query_place_id=ChIJQ_OiQSjPD4gRyDPW3yVbO7o&center=42.0356321,-87.75626249999999"
+    }
+  ],
+  "bowling": [
+    {
+      "name": "Wilmette Bowling Center Inc",
+      "distance": "2.4 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Wilmette%20Bowling%20Center%20Inc&query_place_id=ChIJSU2UeBPFD4gR7BZyKXmBZEc&center=42.0777396,-87.72296639999999"
+    },
+    {
+      "name": "Classic Bowl",
+      "distance": "2.7 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Classic%20Bowl&query_place_id=ChIJQz-kRuvID4gRZbgimy8O8lk&center=42.0366181,-87.7996914"
+    },
+    {
+      "name": "Bowlero Niles",
+      "distance": "3.6 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Bowlero%20Niles&query_place_id=ChIJg5u29xzJD4gRFSb970QvqbU&center=42.01478290000001,-87.8031786",
+      "isFar": true
+    }
+  ],
+  "arcade": [],
+  "movies": [
+    {
+      "name": "CMX Cinemas Old Orchard Market",
+      "distance": "0.6 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=CMX%20Cinemas%20Old%20Orchard%20Market&query_place_id=ChIJG2d5NYjFD4gRu2PdtoVXhME&center=42.0584362,-87.75014879999999"
+    },
+    {
+      "name": "CMX Old Orchard Luxury",
+      "distance": "0.6 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=CMX%20Old%20Orchard%20Luxury&query_place_id=ChIJG70KponFD4gRxvjgX23Jcmk&center=42.0584375,-87.7499599"
+    },
+    {
+      "name": "AMC Village Crossing 18",
+      "distance": "2.8 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=AMC%20Village%20Crossing%2018&query_place_id=ChIJh-FMYNvOD4gR3kooRWYIHJk&center=42.0095919,-87.7650105"
+    }
+  ],
+  "fun": [
+    {
+      "name": "FUNBOX CHICAGO - SKOKIE",
+      "distance": "0.9 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=FUNBOX%20CHICAGO%20-%20SKOKIE&query_place_id=ChIJp-KGncjFD4gRy01zClF5kk0&center=42.062069699999995,-87.7504426"
+    },
+    {
+      "name": "Sixteen Candles House",
+      "distance": "1.7 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Sixteen%20Candles%20House&query_place_id=ChIJ99Vkhz7FD4gR48kPfk4vIFw&center=42.0564898,-87.71880639999999"
+    },
+    {
+      "name": "Church Street Bridge",
+      "distance": "2.1 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Church%20Street%20Bridge&query_place_id=ChIJyzrfXQDPD4gRGvNvQZ1CtUY&center=42.0482024,-87.7095702"
+    }
+  ],
+  "hotels": [],
+  "gas": [
+    {
+      "name": "Phillips 66",
+      "distance": "0.2 mi",
+      "url": "https://www.google.com/maps/search/Phillips%2066+near+42.049251299999995%2C-87.7502962"
+    },
+    {
+      "name": "Mobil",
+      "distance": "0.6 mi",
+      "url": "https://www.google.com/maps/search/Mobil+near+42.049251299999995%2C-87.7502962"
+    },
+    {
+      "name": "Shell",
+      "distance": "0.6 mi",
+      "url": "https://www.google.com/maps/search/Shell+near+42.049251299999995%2C-87.7502962"
+    },
+    {
+      "name": "bp",
+      "distance": "0.7 mi",
+      "url": "https://www.google.com/maps/search/bp+near+42.049251299999995%2C-87.7502962"
+    }
+  ]
+}

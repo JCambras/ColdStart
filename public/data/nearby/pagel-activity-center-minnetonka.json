@@ -1,0 +1,225 @@
+{
+  "quick_bite": [
+    {
+      "name": "Arby's",
+      "distance": "0.5 mi",
+      "url": "https://www.google.com/maps/search/Arby's+near+44.908129%2C-93.5115541"
+    },
+    {
+      "name": "Jimmy John's",
+      "distance": "0.5 mi",
+      "url": "https://www.google.com/maps/search/Jimmy%20John's+near+44.908129%2C-93.5115541"
+    },
+    {
+      "name": "Culver’s",
+      "distance": "0.6 mi",
+      "url": "https://www.google.com/maps/search/Culver%E2%80%99s+near+44.908129%2C-93.5115541"
+    },
+    {
+      "name": "Dairy Queen Grill & Chill",
+      "distance": "0.6 mi",
+      "url": "https://www.google.com/maps/search/Dairy%20Queen%20Grill%20%26%20Chill+near+44.908129%2C-93.5115541"
+    },
+    {
+      "name": "Noodles and Company",
+      "distance": "0.7 mi",
+      "url": "https://www.google.com/maps/search/Noodles%20and%20Company+near+44.908129%2C-93.5115541"
+    },
+    {
+      "name": "Pizza Hut Express",
+      "distance": "0.7 mi",
+      "url": "https://www.google.com/maps/search/Pizza%20Hut%20Express+near+44.908129%2C-93.5115541"
+    },
+    {
+      "name": "Buffalo Wild Wings GO",
+      "distance": "0.7 mi",
+      "url": "https://www.google.com/maps/search/Buffalo%20Wild%20Wings%20GO+near+44.908129%2C-93.5115541"
+    }
+  ],
+  "coffee": [
+    {
+      "name": "Starbucks Coffee Company",
+      "distance": "0.6 mi",
+      "url": "https://www.google.com/maps/search/Starbucks%20Coffee%20Company+near+44.908129%2C-93.5115541"
+    },
+    {
+      "name": "Starbucks Coffee Company",
+      "distance": "0.7 mi",
+      "url": "https://www.google.com/maps/search/Starbucks%20Coffee%20Company+near+44.908129%2C-93.5115541"
+    },
+    {
+      "name": "Caribou Coffee",
+      "distance": "0.8 mi",
+      "url": "https://www.google.com/maps/search/Caribou%20Coffee+near+44.908129%2C-93.5115541"
+    },
+    {
+      "name": "Bruegger's Bagels",
+      "distance": "0.8 mi",
+      "url": "https://www.google.com/maps/search/Bruegger's%20Bagels+near+44.908129%2C-93.5115541"
+    }
+  ],
+  "team_lunch": [
+    {
+      "name": "Wingstop",
+      "distance": "0.8 mi",
+      "url": "https://www.google.com/maps/search/Wingstop+near+44.908129%2C-93.5115541"
+    }
+  ],
+  "dinner": [
+    {
+      "name": "Ike's Minnetonka",
+      "distance": "0.4 mi",
+      "url": "https://www.google.com/maps/search/Ike's%20Minnetonka+near+44.908129%2C-93.5115541"
+    },
+    {
+      "name": "The Original Pancake House Minnetonka",
+      "distance": "0.5 mi",
+      "url": "https://www.google.com/maps/search/The%20Original%20Pancake%20House%20Minnetonka+near+44.908129%2C-93.5115541"
+    },
+    {
+      "name": "Fork and Pickle",
+      "distance": "0.5 mi",
+      "url": "https://www.google.com/maps/search/Fork%20and%20Pickle+near+44.908129%2C-93.5115541"
+    },
+    {
+      "name": "Viet Hoa Vietnamese and Chinese Restaurant",
+      "distance": "0.8 mi",
+      "url": "https://www.google.com/maps/search/Viet%20Hoa%20Vietnamese%20and%20Chinese%20Restaurant+near+44.908129%2C-93.5115541"
+    },
+    {
+      "name": "Crumbl",
+      "distance": "0.8 mi",
+      "url": "https://www.google.com/maps/search/Crumbl+near+44.908129%2C-93.5115541"
+    }
+  ],
+  "bowling": [
+    {
+      "name": "Country Club Lanes",
+      "distance": "3.8 mi",
+      "url": "https://www.google.com/maps/search/Country%20Club%20Lanes+near+44.908129%2C-93.5115541",
+      "isFar": true
+    },
+    {
+      "name": "Tuttle's Eat Bowl Play",
+      "distance": "4.3 mi",
+      "url": "https://www.google.com/maps/search/Tuttle's%20Eat%20Bowl%20Play+near+44.908129%2C-93.5115541",
+      "isFar": true
+    },
+    {
+      "name": "Bowlero Eden Prairie",
+      "distance": "5.2 mi",
+      "url": "https://www.google.com/maps/search/Bowlero%20Eden%20Prairie+near+44.908129%2C-93.5115541",
+      "isFar": true
+    }
+  ],
+  "arcade": [],
+  "movies": [
+    {
+      "name": "Hopkins Community Cinema",
+      "distance": "4.9 mi",
+      "url": "https://www.google.com/maps/search/Hopkins%20Community%20Cinema+near+44.908129%2C-93.5115541",
+      "isFar": true
+    },
+    {
+      "name": "AMC Eden Prairie Mall 18",
+      "distance": "5.6 mi",
+      "url": "https://www.google.com/maps/search/AMC%20Eden%20Prairie%20Mall%2018+near+44.908129%2C-93.5115541",
+      "isFar": true
+    }
+  ],
+  "fun": [
+    {
+      "name": "Round Lake Splash Pad",
+      "distance": "2.9 mi",
+      "url": "https://www.google.com/maps/search/Round%20Lake%20Splash%20Pad+near+44.908129%2C-93.5115541"
+    },
+    {
+      "name": "Breakout Games",
+      "distance": "5.5 mi",
+      "url": "https://www.google.com/maps/search/Breakout%20Games+near+44.908129%2C-93.5115541",
+      "isFar": true
+    },
+    {
+      "name": "Sandbox VR",
+      "distance": "5.7 mi",
+      "url": "https://www.google.com/maps/search/Sandbox%20VR+near+44.908129%2C-93.5115541",
+      "isFar": true
+    },
+    {
+      "name": "Game Show Studio Eden Prairie",
+      "distance": "5.7 mi",
+      "url": "https://www.google.com/maps/search/Game%20Show%20Studio%20Eden%20Prairie+near+44.908129%2C-93.5115541",
+      "isFar": true
+    },
+    {
+      "name": "Pump It Up Eden Prairie Kids Birthdays and More",
+      "distance": "6.2 mi",
+      "url": "https://www.google.com/maps/search/Pump%20It%20Up%20Eden%20Prairie%20Kids%20Birthdays%20and%20More+near+44.908129%2C-93.5115541",
+      "isFar": true
+    }
+  ],
+  "hotels": [
+    {
+      "name": "Minnetonka Farmhouse",
+      "distance": "0.5 mi",
+      "url": "https://www.google.com/maps/search/Minnetonka%20Farmhouse+near+44.908129%2C-93.5115541"
+    },
+    {
+      "name": "Pet Friendly Heavenly Home on 6 Acres with Scenic View",
+      "distance": "0.6 mi",
+      "url": "https://www.google.com/maps/search/Pet%20Friendly%20Heavenly%20Home%20on%206%20Acres%20with%20Scenic%20View+near+44.908129%2C-93.5115541"
+    },
+    {
+      "name": "Heavenly Home/Minnetonka Lakes/Nature Scenic View",
+      "distance": "0.6 mi",
+      "url": "https://www.google.com/maps/search/Heavenly%20Home%2FMinnetonka%20Lakes%2FNature%20Scenic%20View+near+44.908129%2C-93.5115541"
+    },
+    {
+      "name": "Heavenly Home/Minnetonka Lakes/Nature Scenic View",
+      "distance": "0.6 mi",
+      "url": "https://www.google.com/maps/search/Heavenly%20Home%2FMinnetonka%20Lakes%2FNature%20Scenic%20View+near+44.908129%2C-93.5115541"
+    },
+    {
+      "name": "The Spacious Minnetonka 5BR Retreat Cable Lux Life",
+      "distance": "0.7 mi",
+      "url": "https://www.google.com/maps/search/The%20Spacious%20Minnetonka%205BR%20Retreat%20Cable%20Lux%20Life+near+44.908129%2C-93.5115541"
+    },
+    {
+      "name": "Peaceful and Secluded Minnetonka Home Overlooking Wetland",
+      "distance": "0.7 mi",
+      "url": "https://www.google.com/maps/search/Peaceful%20and%20Secluded%20Minnetonka%20Home%20Overlooking%20Wetland+near+44.908129%2C-93.5115541"
+    },
+    {
+      "name": "Creekside Lodge",
+      "distance": "0.8 mi",
+      "url": "https://www.google.com/maps/search/Creekside%20Lodge+near+44.908129%2C-93.5115541"
+    }
+  ],
+  "gas": [
+    {
+      "name": "Speedway",
+      "distance": "0.6 mi",
+      "url": "https://www.google.com/maps/search/Speedway+near+44.908129%2C-93.5115541"
+    },
+    {
+      "name": "Holiday Gas Station",
+      "distance": "1.0 mi",
+      "url": "https://www.google.com/maps/search/Holiday%20Gas%20Station+near+44.908129%2C-93.5115541"
+    },
+    {
+      "name": "Circle K",
+      "distance": "1.0 mi",
+      "url": "https://www.google.com/maps/search/Circle%20K+near+44.908129%2C-93.5115541"
+    },
+    {
+      "name": "Holiday",
+      "distance": "1.2 mi",
+      "url": "https://www.google.com/maps/search/Holiday+near+44.908129%2C-93.5115541"
+    },
+    {
+      "name": "Circle K",
+      "distance": "1.2 mi",
+      "url": "https://www.google.com/maps/search/Circle%20K+near+44.908129%2C-93.5115541"
+    }
+  ]
+}

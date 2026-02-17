@@ -1,0 +1,193 @@
+{
+  "quick_bite": [
+    {
+      "name": "Arlington Cafe",
+      "distance": "0.1 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Arlington%20Cafe&query_place_id=ChIJFT2HdD5244kR1jcVtwnNGpo&center=42.427288999999995,-71.173808"
+    },
+    {
+      "name": "Bok Bok Chicken",
+      "distance": "0.2 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Bok%20Bok%20Chicken&query_place_id=ChIJ5w_zs9l344kRpJfOglj-U0M&center=42.423622099999996,-71.1750399"
+    },
+    {
+      "name": "Ginger Exchange Express - Arlington",
+      "distance": "0.2 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Ginger%20Exchange%20Express%20-%20Arlington&query_place_id=ChIJT6Y35t5344kRy4_eH3oXoO0&center=42.423622099999996,-71.1750399"
+    },
+    {
+      "name": "Thai Sticky Rice",
+      "distance": "0.6 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Thai%20Sticky%20Rice&query_place_id=ChIJbxt6qGF344kRWYev6n2S03M&center=42.4246379,-71.18433739999999"
+    },
+    {
+      "name": "Jackson's Kitchen",
+      "distance": "1.0 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Jackson's%20Kitchen&query_place_id=ChIJw8-uzYmd44kRzlnzEL6nv6g&center=42.4254041,-71.19334429999999"
+    },
+    {
+      "name": "Number 1 Taste Chinese Food Arlington",
+      "distance": "2.1 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Number%201%20Taste%20Chinese%20Food%20Arlington&query_place_id=ChIJ0ZbOb9h344kRVUskoNtI_JA&center=42.4052218,-71.1412426"
+    }
+  ],
+  "coffee": [
+    {
+      "name": "Dunkin'",
+      "distance": "0.3 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Dunkin'&query_place_id=ChIJ8bccbTt244kR7ZyPnM88lEU&center=42.423921199999995,-71.1782611"
+    },
+    {
+      "name": "The Roasted Granola Café",
+      "distance": "0.5 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=The%20Roasted%20Granola%20Caf%C3%A9&query_place_id=ChIJRRUhMU1344kR7KeRasnQcWs&center=42.424267799999996,-71.18361809999999"
+    },
+    {
+      "name": "Magic Bites - Taste of Mediterranean",
+      "distance": "0.7 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Magic%20Bites%20-%20Taste%20of%20Mediterranean&query_place_id=ChIJqdZFg0h244kRy79ucTgu7TI&center=42.417695699999996,-71.164996"
+    },
+    {
+      "name": "Butternut Bakehouse",
+      "distance": "1.0 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Butternut%20Bakehouse&query_place_id=ChIJWdnt9s1344kRDI47Vcc5oo8&center=42.4166157,-71.1583144"
+    },
+    {
+      "name": "Butternut Bakehouse",
+      "distance": "1.9 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Butternut%20Bakehouse&query_place_id=ChIJaQteGil344kR-um8G8FyDvQ&center=42.3973194,-71.17523080000001"
+    }
+  ],
+  "team_lunch": [
+    {
+      "name": "International Cake Delivery",
+      "distance": "0.5 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=International%20Cake%20Delivery&query_place_id=ChIJVVWl9SR244kR4hg3oaaLfKw&center=42.424491499999995,-71.18333009999999"
+    },
+    {
+      "name": "Abbott's Frozen Custard - Arlington Heights",
+      "distance": "0.5 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Abbott's%20Frozen%20Custard%20-%20Arlington%20Heights&query_place_id=ChIJg7SGKSZ344kR4_W4VEtqMTU&center=42.4241136,-71.1832914"
+    },
+    {
+      "name": "Whole Foods Bakery",
+      "distance": "0.9 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Whole%20Foods%20Bakery&query_place_id=ChIJq4JMTwB344kR72BKs_qjkqo&center=42.416296599999995,-71.159722"
+    },
+    {
+      "name": "Redwood Bakery",
+      "distance": "1.8 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Redwood%20Bakery&query_place_id=ChIJD7QWzcV344kRJkT7rI4IJS8&center=42.4145785,-71.1406629"
+    }
+  ],
+  "dinner": [
+    {
+      "name": "Sono Asian Cuisine",
+      "distance": "0.1 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Sono%20Asian%20Cuisine&query_place_id=ChIJL4LIbcF344kRThCGwdeS3-c&center=42.427227099999996,-71.17379319999999"
+    },
+    {
+      "name": "Jimmy's Steer House",
+      "distance": "0.2 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Jimmy's%20Steer%20House&query_place_id=ChIJm4QABjl244kRIF9rkxXdEF4&center=42.4219169,-71.17237089999999"
+    },
+    {
+      "name": "Andrina's Pizzeria",
+      "distance": "0.4 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Andrina's%20Pizzeria&query_place_id=ChIJNxrKRDh244kRPvoleyItbgM&center=42.4205987,-71.1706334"
+    },
+    {
+      "name": "Lucky Dragon Chinese Restaurant",
+      "distance": "0.4 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Lucky%20Dragon%20Chinese%20Restaurant&query_place_id=ChIJp_ulPgB344kRAPoxKkrDBmI&center=42.4255904,-71.1817526"
+    },
+    {
+      "name": "Classic Cafe",
+      "distance": "0.5 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Classic%20Cafe&query_place_id=ChIJ93l_8SR244kRsAWAYGMqGUM&center=42.424392999999995,-71.182395"
+    },
+    {
+      "name": "Home Taste",
+      "distance": "0.5 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Home%20Taste&query_place_id=ChIJ-V6vwQt344kROLltPtBy9J8&center=42.4241114,-71.1824018"
+    }
+  ],
+  "bowling": [
+    {
+      "name": "Sacco's Bowl Haven",
+      "distance": "3.2 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Sacco's%20Bowl%20Haven&query_place_id=ChIJESzP3Rh344kRzuxTPdWO8jU&center=42.395760599999996,-71.1238137",
+      "isFar": true
+    },
+    {
+      "name": "Woburn Bowladrome",
+      "distance": "3.9 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Woburn%20Bowladrome&query_place_id=ChIJJwaA0at144kRVfnSIVdwDxQ&center=42.4793142,-71.1507146",
+      "isFar": true
+    }
+  ],
+  "arcade": [],
+  "movies": [
+    {
+      "name": "Capitol Theatre",
+      "distance": "2.1 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Capitol%20Theatre&query_place_id=ChIJoV9xuP9244kRT8loiM-PpUQ&center=42.405864699999995,-71.1427307"
+    },
+    {
+      "name": "Apple Cinemas Cambridge",
+      "distance": "3.0 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Apple%20Cinemas%20Cambridge&query_place_id=ChIJd4TGzg5344kRzV1yJIcop0M&center=42.391276399999995,-71.1381835"
+    },
+    {
+      "name": "Lexington Venue",
+      "distance": "3.2 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Lexington%20Venue&query_place_id=ChIJnzD8ANCd44kROBFpMPU32Z4&center=42.4477129,-71.22812619999999",
+      "isFar": true
+    }
+  ],
+  "fun": [
+    {
+      "name": "Amaze Escape",
+      "distance": "1.0 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Amaze%20Escape&query_place_id=ChIJY3QJqVp244kRDAktemFJAsA&center=42.416675,-71.15624199999999"
+    },
+    {
+      "name": "Container Mural by Jess",
+      "distance": "1.9 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Container%20Mural%20by%20Jess&query_place_id=ChIJAUlpXQB344kRQRfg8apRAjc&center=42.4051835,-71.14731499999999"
+    },
+    {
+      "name": "The Forrester Balcony",
+      "distance": "2.3 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=The%20Forrester%20Balcony&query_place_id=ChIJV9h3SQB344kRWaTH54iaiBQ&center=42.3980423,-71.1482478"
+    },
+    {
+      "name": "Yates Pond",
+      "distance": "2.5 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Yates%20Pond&query_place_id=ChIJwwQXKn9344kRMuWnwuiKvNw&center=42.3969194,-71.1423039"
+    }
+  ],
+  "hotels": [],
+  "gas": [
+    {
+      "name": "Mobil",
+      "distance": "0.2 mi",
+      "url": "https://www.google.com/maps/search/Mobil+near+42.4253834%2C-71.1730547"
+    },
+    {
+      "name": "Park Ave Gas",
+      "distance": "0.5 mi",
+      "url": "https://www.google.com/maps/search/Park%20Ave%20Gas+near+42.4253834%2C-71.1730547"
+    },
+    {
+      "name": "Shell",
+      "distance": "0.6 mi",
+      "url": "https://www.google.com/maps/search/Shell+near+42.4253834%2C-71.1730547"
+    },
+    {
+      "name": "Antoine’s Gas Station",
+      "distance": "0.7 mi",
+      "url": "https://www.google.com/maps/search/Antoine%E2%80%99s%20Gas%20Station+near+42.4253834%2C-71.1730547"
+    }
+  ]
+}

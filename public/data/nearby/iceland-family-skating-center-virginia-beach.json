@@ -1,0 +1,167 @@
+{
+  "quick_bite": [
+    {
+      "name": "Bodacious Pizza & Grill",
+      "distance": "0.1 mi",
+      "url": "https://www.google.com/maps/search/Bodacious%20Pizza%20%26%20Grill+near+36.844593499999995%2C-76.1473939"
+    },
+    {
+      "name": "Chinatown restaurant",
+      "distance": "0.1 mi",
+      "url": "https://www.google.com/maps/search/Chinatown%20restaurant+near+36.844593499999995%2C-76.1473939"
+    },
+    {
+      "name": "Sonic Drive-In",
+      "distance": "0.1 mi",
+      "url": "https://www.google.com/maps/search/Sonic%20Drive-In+near+36.844593499999995%2C-76.1473939"
+    },
+    {
+      "name": "Del Taco",
+      "distance": "0.2 mi",
+      "url": "https://www.google.com/maps/search/Del%20Taco+near+36.844593499999995%2C-76.1473939"
+    },
+    {
+      "name": "Arby's",
+      "distance": "0.3 mi",
+      "url": "https://www.google.com/maps/search/Arby's+near+36.844593499999995%2C-76.1473939"
+    },
+    {
+      "name": "Hardee's",
+      "distance": "0.3 mi",
+      "url": "https://www.google.com/maps/search/Hardee's+near+36.844593499999995%2C-76.1473939"
+    }
+  ],
+  "coffee": [
+    {
+      "name": "Krispy Kreme",
+      "distance": "0.1 mi",
+      "url": "https://www.google.com/maps/search/Krispy%20Kreme+near+36.844593499999995%2C-76.1473939"
+    }
+  ],
+  "team_lunch": [
+    {
+      "name": "Food Lion Bakery",
+      "distance": "0.1 mi",
+      "url": "https://www.google.com/maps/search/Food%20Lion%20Bakery+near+36.844593499999995%2C-76.1473939"
+    },
+    {
+      "name": "Sunrise Pizza Restaurant",
+      "distance": "0.2 mi",
+      "url": "https://www.google.com/maps/search/Sunrise%20Pizza%20Restaurant+near+36.844593499999995%2C-76.1473939"
+    },
+    {
+      "name": "Pho 79",
+      "distance": "0.2 mi",
+      "url": "https://www.google.com/maps/search/Pho%2079+near+36.844593499999995%2C-76.1473939"
+    },
+    {
+      "name": "Volcano Sushi, Grill, Bar& karaoke (Town Center)",
+      "distance": "0.2 mi",
+      "url": "https://www.google.com/maps/search/Volcano%20Sushi%2C%20Grill%2C%20Bar%26%20karaoke%20(Town%20Center)+near+36.844593499999995%2C-76.1473939"
+    }
+  ],
+  "dinner": [
+    {
+      "name": "The Big Grill",
+      "distance": "0.1 mi",
+      "url": "https://www.google.com/maps/search/The%20Big%20Grill+near+36.844593499999995%2C-76.1473939"
+    },
+    {
+      "name": "This Old House Japanese Restaurant",
+      "distance": "0.1 mi",
+      "url": "https://www.google.com/maps/search/This%20Old%20House%20Japanese%20Restaurant+near+36.844593499999995%2C-76.1473939"
+    },
+    {
+      "name": "El Parian Mexican Restaurant",
+      "distance": "0.1 mi",
+      "url": "https://www.google.com/maps/search/El%20Parian%20Mexican%20Restaurant+near+36.844593499999995%2C-76.1473939"
+    },
+    {
+      "name": "The Frog Sports Bar & Grill",
+      "distance": "0.1 mi",
+      "url": "https://www.google.com/maps/search/The%20Frog%20Sports%20Bar%20%26%20Grill+near+36.844593499999995%2C-76.1473939"
+    },
+    {
+      "name": "kellam Wings & Pizza",
+      "distance": "0.3 mi",
+      "url": "https://www.google.com/maps/search/kellam%20Wings%20%26%20Pizza+near+36.844593499999995%2C-76.1473939"
+    }
+  ],
+  "bowling": [
+    {
+      "name": "Apex Entertainment Virginia Beach",
+      "distance": "0.7 mi",
+      "url": "https://www.google.com/maps/search/Apex%20Entertainment%20Virginia%20Beach+near+36.844593499999995%2C-76.1473939"
+    },
+    {
+      "name": "AMF Indian River Lanes",
+      "distance": "4.4 mi",
+      "url": "https://www.google.com/maps/search/AMF%20Indian%20River%20Lanes+near+36.844593499999995%2C-76.1473939",
+      "isFar": true
+    }
+  ],
+  "arcade": [],
+  "movies": [
+    {
+      "name": "Regal Columbus",
+      "distance": "1.0 mi",
+      "url": "https://www.google.com/maps/search/Regal%20Columbus+near+36.844593499999995%2C-76.1473939"
+    },
+    {
+      "name": "Cinema Cafe Pembroke Meadows",
+      "distance": "1.7 mi",
+      "url": "https://www.google.com/maps/search/Cinema%20Cafe%20Pembroke%20Meadows+near+36.844593499999995%2C-76.1473939"
+    },
+    {
+      "name": "Cinema Cafe Kemps River",
+      "distance": "3.3 mi",
+      "url": "https://www.google.com/maps/search/Cinema%20Cafe%20Kemps%20River+near+36.844593499999995%2C-76.1473939",
+      "isFar": true
+    }
+  ],
+  "fun": [
+    {
+      "name": "Escape2Win Escape Room Virginia Beach",
+      "distance": "0.8 mi",
+      "url": "https://www.google.com/maps/search/Escape2Win%20Escape%20Room%20Virginia%20Beach+near+36.844593499999995%2C-76.1473939"
+    },
+    {
+      "name": "Escape Room Virginia Beach",
+      "distance": "1.5 mi",
+      "url": "https://www.google.com/maps/search/Escape%20Room%20Virginia%20Beach+near+36.844593499999995%2C-76.1473939"
+    },
+    {
+      "name": "Breakout Games",
+      "distance": "2.1 mi",
+      "url": "https://www.google.com/maps/search/Breakout%20Games+near+36.844593499999995%2C-76.1473939"
+    },
+    {
+      "name": "Escape2Win Princess Anne (Formerly Countdown)",
+      "distance": "2.2 mi",
+      "url": "https://www.google.com/maps/search/Escape2Win%20Princess%20Anne%20(Formerly%20Countdown)+near+36.844593499999995%2C-76.1473939"
+    }
+  ],
+  "hotels": [],
+  "gas": [
+    {
+      "name": "Quick Fuel",
+      "distance": "0.3 mi",
+      "url": "https://www.google.com/maps/search/Quick%20Fuel+near+36.844593499999995%2C-76.1473939"
+    },
+    {
+      "name": "City of VB Euclid Fuel Station",
+      "distance": "0.4 mi",
+      "url": "https://www.google.com/maps/search/City%20of%20VB%20Euclid%20Fuel%20Station+near+36.844593499999995%2C-76.1473939"
+    },
+    {
+      "name": "Exxon",
+      "distance": "0.6 mi",
+      "url": "https://www.google.com/maps/search/Exxon+near+36.844593499999995%2C-76.1473939"
+    },
+    {
+      "name": "7-Eleven Fuel",
+      "distance": "0.8 mi",
+      "url": "https://www.google.com/maps/search/7-Eleven%20Fuel+near+36.844593499999995%2C-76.1473939"
+    }
+  ]
+}

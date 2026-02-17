@@ -1,0 +1,204 @@
+{
+  "quick_bite": [
+    {
+      "name": "CartHop",
+      "distance": "0.1 mi",
+      "url": "https://www.google.com/maps/search/CartHop+near+36.7345169%2C-119.7914723"
+    },
+    {
+      "name": "Subway",
+      "distance": "0.1 mi",
+      "url": "https://www.google.com/maps/search/Subway+near+36.7345169%2C-119.7914723"
+    }
+  ],
+  "coffee": [
+    {
+      "name": "Downtown Oak",
+      "distance": "0.2 mi",
+      "url": "https://www.google.com/maps/search/Downtown%20Oak+near+36.7345169%2C-119.7914723"
+    }
+  ],
+  "team_lunch": [
+    {
+      "name": "La Boulangerie Downtown",
+      "distance": "0.1 mi",
+      "url": "https://www.google.com/maps/search/La%20Boulangerie%20Downtown+near+36.7345169%2C-119.7914723"
+    },
+    {
+      "name": "The Chicken Shack Fresno",
+      "distance": "0.1 mi",
+      "url": "https://www.google.com/maps/search/The%20Chicken%20Shack%20Fresno+near+36.7345169%2C-119.7914723"
+    },
+    {
+      "name": "Los Panchos Mexican Restaurant and Cantina",
+      "distance": "0.1 mi",
+      "url": "https://www.google.com/maps/search/Los%20Panchos%20Mexican%20Restaurant%20and%20Cantina+near+36.7345169%2C-119.7914723"
+    },
+    {
+      "name": "China Express",
+      "distance": "0.1 mi",
+      "url": "https://www.google.com/maps/search/China%20Express+near+36.7345169%2C-119.7914723"
+    },
+    {
+      "name": "Los Mexicanos Frutas Y Antojos",
+      "distance": "0.2 mi",
+      "url": "https://www.google.com/maps/search/Los%20Mexicanos%20Frutas%20Y%20Antojos+near+36.7345169%2C-119.7914723"
+    },
+    {
+      "name": "Cynthia Mediterranean Bistro",
+      "distance": "0.2 mi",
+      "url": "https://www.google.com/maps/search/Cynthia%20Mediterranean%20Bistro+near+36.7345169%2C-119.7914723"
+    },
+    {
+      "name": "Tacos Machín Food Truck",
+      "distance": "0.2 mi",
+      "url": "https://www.google.com/maps/search/Tacos%20Mach%C3%ADn%20Food%20Truck+near+36.7345169%2C-119.7914723"
+    }
+  ],
+  "dinner": [
+    {
+      "name": "Toshiko Ramen & Sushi Bar",
+      "distance": "0.1 mi",
+      "url": "https://www.google.com/maps/search/Toshiko%20Ramen%20%26%20Sushi%20Bar+near+36.7345169%2C-119.7914723"
+    },
+    {
+      "name": "La Cocina de Mama",
+      "distance": "0.1 mi",
+      "url": "https://www.google.com/maps/search/La%20Cocina%20de%20Mama+near+36.7345169%2C-119.7914723"
+    },
+    {
+      "name": "Taqueria El Guero",
+      "distance": "0.1 mi",
+      "url": "https://www.google.com/maps/search/Taqueria%20El%20Guero+near+36.7345169%2C-119.7914723"
+    },
+    {
+      "name": "Restaurant Charapan",
+      "distance": "0.1 mi",
+      "url": "https://www.google.com/maps/search/Restaurant%20Charapan+near+36.7345169%2C-119.7914723"
+    },
+    {
+      "name": "Libelula",
+      "distance": "0.1 mi",
+      "url": "https://www.google.com/maps/search/Libelula+near+36.7345169%2C-119.7914723"
+    },
+    {
+      "name": "Take 3 x Grumpy Burger Lady's",
+      "distance": "0.2 mi",
+      "url": "https://www.google.com/maps/search/Take%203%20x%20Grumpy%20Burger%20Lady's+near+36.7345169%2C-119.7914723"
+    },
+    {
+      "name": "Chicken King",
+      "distance": "0.2 mi",
+      "url": "https://www.google.com/maps/search/Chicken%20King+near+36.7345169%2C-119.7914723"
+    }
+  ],
+  "bowling": [],
+  "arcade": [],
+  "movies": [
+    {
+      "name": "Historic Crest Theatre",
+      "distance": "0.1 mi",
+      "url": "https://www.google.com/maps/search/Historic%20Crest%20Theatre+near+36.7345169%2C-119.7914723"
+    },
+    {
+      "name": "Regal Manchester - Fresno",
+      "distance": "3.3 mi",
+      "url": "https://www.google.com/maps/search/Regal%20Manchester%20-%20Fresno+near+36.7345169%2C-119.7914723",
+      "isFar": true
+    }
+  ],
+  "fun": [
+    {
+      "name": "Splash Pad",
+      "distance": "0.7 mi",
+      "url": "https://www.google.com/maps/search/Splash%20Pad+near+36.7345169%2C-119.7914723"
+    },
+    {
+      "name": "Storyland",
+      "distance": "2.3 mi",
+      "url": "https://www.google.com/maps/search/Storyland+near+36.7345169%2C-119.7914723"
+    },
+    {
+      "name": "No Surrender Unlimited Fresno",
+      "distance": "3.5 mi",
+      "url": "https://www.google.com/maps/search/No%20Surrender%20Unlimited%20Fresno+near+36.7345169%2C-119.7914723",
+      "isFar": true
+    },
+    {
+      "name": "Rage Room Fresno",
+      "distance": "4.3 mi",
+      "url": "https://www.google.com/maps/search/Rage%20Room%20Fresno+near+36.7345169%2C-119.7914723",
+      "isFar": true
+    },
+    {
+      "name": "Aerozone Trampoline Park & Kids Town",
+      "distance": "4.6 mi",
+      "url": "https://www.google.com/maps/search/Aerozone%20Trampoline%20Park%20%26%20Kids%20Town+near+36.7345169%2C-119.7914723",
+      "isFar": true
+    }
+  ],
+  "hotels": [
+    {
+      "name": "Marriot",
+      "distance": "0.1 mi",
+      "url": "https://www.google.com/maps/search/Marriot+near+36.7345169%2C-119.7914723"
+    },
+    {
+      "name": "SureStay by Best Western Fresno Central",
+      "distance": "0.3 mi",
+      "url": "https://www.google.com/maps/search/SureStay%20by%20Best%20Western%20Fresno%20Central+near+36.7345169%2C-119.7914723"
+    },
+    {
+      "name": "El Cachanilla Pool House",
+      "distance": "0.3 mi",
+      "url": "https://www.google.com/maps/search/El%20Cachanilla%20Pool%20House+near+36.7345169%2C-119.7914723"
+    },
+    {
+      "name": "monterrey",
+      "distance": "0.3 mi",
+      "url": "https://www.google.com/maps/search/monterrey+near+36.7345169%2C-119.7914723"
+    },
+    {
+      "name": "Lucia villa apartments",
+      "distance": "0.3 mi",
+      "url": "https://www.google.com/maps/search/Lucia%20villa%20apartments+near+36.7345169%2C-119.7914723"
+    },
+    {
+      "name": "Hotel D'Italia",
+      "distance": "0.4 mi",
+      "url": "https://www.google.com/maps/search/Hotel%20D'Italia+near+36.7345169%2C-119.7914723"
+    },
+    {
+      "name": "ウッドワードセンター",
+      "distance": "0.4 mi",
+      "url": "https://www.google.com/maps/search/%E3%82%A6%E3%83%83%E3%83%89%E3%83%AF%E3%83%BC%E3%83%89%E3%82%BB%E3%83%B3%E3%82%BF%E3%83%BC+near+36.7345169%2C-119.7914723"
+    }
+  ],
+  "gas": [
+    {
+      "name": "Chevron Fresno",
+      "distance": "0.4 mi",
+      "url": "https://www.google.com/maps/search/Chevron%20Fresno+near+36.7345169%2C-119.7914723"
+    },
+    {
+      "name": "Shell",
+      "distance": "0.4 mi",
+      "url": "https://www.google.com/maps/search/Shell+near+36.7345169%2C-119.7914723"
+    },
+    {
+      "name": "ARCO",
+      "distance": "0.5 mi",
+      "url": "https://www.google.com/maps/search/ARCO+near+36.7345169%2C-119.7914723"
+    },
+    {
+      "name": "ARCO",
+      "distance": "0.6 mi",
+      "url": "https://www.google.com/maps/search/ARCO+near+36.7345169%2C-119.7914723"
+    },
+    {
+      "name": "Family Express",
+      "distance": "0.6 mi",
+      "url": "https://www.google.com/maps/search/Family%20Express+near+36.7345169%2C-119.7914723"
+    }
+  ]
+}

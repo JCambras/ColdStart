@@ -1,0 +1,236 @@
+{
+  "quick_bite": [
+    {
+      "name": "Jersey Mike's Subs",
+      "distance": "0.5 mi",
+      "url": "https://www.google.com/maps/search/Jersey%20Mike's%20Subs+near+33.1430191%2C-96.7039813"
+    },
+    {
+      "name": "Arby's",
+      "distance": "0.6 mi",
+      "url": "https://www.google.com/maps/search/Arby's+near+33.1430191%2C-96.7039813"
+    },
+    {
+      "name": "Taco Bueno",
+      "distance": "0.6 mi",
+      "url": "https://www.google.com/maps/search/Taco%20Bueno+near+33.1430191%2C-96.7039813"
+    },
+    {
+      "name": "Pizza Vibes",
+      "distance": "0.6 mi",
+      "url": "https://www.google.com/maps/search/Pizza%20Vibes+near+33.1430191%2C-96.7039813"
+    },
+    {
+      "name": "Cinemark Allen 16 and XD",
+      "distance": "1.7 mi",
+      "url": "https://www.google.com/maps/search/Cinemark%20Allen%2016%20and%20XD+near+33.1430191%2C-96.7039813"
+    }
+  ],
+  "coffee": [
+    {
+      "name": "Broken Yolk Cafe",
+      "distance": "0.4 mi",
+      "url": "https://www.google.com/maps/search/Broken%20Yolk%20Cafe+near+33.1430191%2C-96.7039813"
+    },
+    {
+      "name": "Coffee Connection",
+      "distance": "0.5 mi",
+      "url": "https://www.google.com/maps/search/Coffee%20Connection+near+33.1430191%2C-96.7039813"
+    }
+  ],
+  "team_lunch": [
+    {
+      "name": "Pizza Twist",
+      "distance": "0.5 mi",
+      "url": "https://www.google.com/maps/search/Pizza%20Twist+near+33.1430191%2C-96.7039813"
+    },
+    {
+      "name": "Valerie’s Taco Shop",
+      "distance": "0.5 mi",
+      "url": "https://www.google.com/maps/search/Valerie%E2%80%99s%20Taco%20Shop+near+33.1430191%2C-96.7039813"
+    },
+    {
+      "name": "Auntie Anne's & Jamba Mckinney",
+      "distance": "0.6 mi",
+      "url": "https://www.google.com/maps/search/Auntie%20Anne's%20%26%20Jamba%20Mckinney+near+33.1430191%2C-96.7039813"
+    },
+    {
+      "name": "Btsg",
+      "distance": "0.6 mi",
+      "url": "https://www.google.com/maps/search/Btsg+near+33.1430191%2C-96.7039813"
+    },
+    {
+      "name": "Jamba Juice",
+      "distance": "0.6 mi",
+      "url": "https://www.google.com/maps/search/Jamba%20Juice+near+33.1430191%2C-96.7039813"
+    }
+  ],
+  "dinner": [
+    {
+      "name": "The Chop Nation - Halalicious Hibachi (Food Truck)",
+      "distance": "0.3 mi",
+      "url": "https://www.google.com/maps/search/The%20Chop%20Nation%20-%20Halalicious%20Hibachi%20(Food%20Truck)+near+33.1430191%2C-96.7039813"
+    },
+    {
+      "name": "Sweets on the way LLC (HOME MADE)",
+      "distance": "0.3 mi",
+      "url": "https://www.google.com/maps/search/Sweets%20on%20the%20way%20LLC%20(HOME%20MADE)+near+33.1430191%2C-96.7039813"
+    },
+    {
+      "name": "Shun by Yama Sushi",
+      "distance": "0.4 mi",
+      "url": "https://www.google.com/maps/search/Shun%20by%20Yama%20Sushi+near+33.1430191%2C-96.7039813"
+    },
+    {
+      "name": "Bob's Steak & Chop House",
+      "distance": "0.4 mi",
+      "url": "https://www.google.com/maps/search/Bob's%20Steak%20%26%20Chop%20House+near+33.1430191%2C-96.7039813"
+    },
+    {
+      "name": "Pie Tap Pizza + Rotisserie + Bar (McKinney)",
+      "distance": "0.5 mi",
+      "url": "https://www.google.com/maps/search/Pie%20Tap%20Pizza%20%2B%20Rotisserie%20%2B%20Bar%20(McKinney)+near+33.1430191%2C-96.7039813"
+    },
+    {
+      "name": "Mi Cocina",
+      "distance": "0.5 mi",
+      "url": "https://www.google.com/maps/search/Mi%20Cocina+near+33.1430191%2C-96.7039813"
+    },
+    {
+      "name": "The Elwood B.F.D.",
+      "distance": "0.6 mi",
+      "url": "https://www.google.com/maps/search/The%20Elwood%20B.F.D.+near+33.1430191%2C-96.7039813"
+    }
+  ],
+  "bowling": [
+    {
+      "name": "PINSTACK",
+      "distance": "2.7 mi",
+      "url": "https://www.google.com/maps/search/PINSTACK+near+33.1430191%2C-96.7039813"
+    },
+    {
+      "name": "JB's Allen Bowl",
+      "distance": "4.6 mi",
+      "url": "https://www.google.com/maps/search/JB's%20Allen%20Bowl+near+33.1430191%2C-96.7039813",
+      "isFar": true
+    }
+  ],
+  "arcade": [],
+  "movies": [
+    {
+      "name": "Moviehouse & Eatery by Cinépolis McKinney",
+      "distance": "1.4 mi",
+      "url": "https://www.google.com/maps/search/Moviehouse%20%26%20Eatery%20by%20Cin%C3%A9polis%20McKinney+near+33.1430191%2C-96.7039813"
+    },
+    {
+      "name": "IPIC Theaters",
+      "distance": "3.3 mi",
+      "url": "https://www.google.com/maps/search/IPIC%20Theaters+near+33.1430191%2C-96.7039813",
+      "isFar": true
+    }
+  ],
+  "fun": [
+    {
+      "name": "Urban Air Trampoline and Adventure Park",
+      "distance": "2.7 mi",
+      "url": "https://www.google.com/maps/search/Urban%20Air%20Trampoline%20and%20Adventure%20Park+near+33.1430191%2C-96.7039813"
+    },
+    {
+      "name": "Escapology Escape Rooms McKinney",
+      "distance": "2.7 mi",
+      "url": "https://www.google.com/maps/search/Escapology%20Escape%20Rooms%20McKinney+near+33.1430191%2C-96.7039813"
+    },
+    {
+      "name": "PeeknPlay McKinney",
+      "distance": "2.8 mi",
+      "url": "https://www.google.com/maps/search/PeeknPlay%20McKinney+near+33.1430191%2C-96.7039813"
+    },
+    {
+      "name": "Exit 4 Private Escape Rooms",
+      "distance": "2.9 mi",
+      "url": "https://www.google.com/maps/search/Exit%204%20Private%20Escape%20Rooms+near+33.1430191%2C-96.7039813"
+    },
+    {
+      "name": "Jumping World",
+      "distance": "3.4 mi",
+      "url": "https://www.google.com/maps/search/Jumping%20World+near+33.1430191%2C-96.7039813",
+      "isFar": true
+    },
+    {
+      "name": "Infinity Zone VR",
+      "distance": "3.6 mi",
+      "url": "https://www.google.com/maps/search/Infinity%20Zone%20VR+near+33.1430191%2C-96.7039813",
+      "isFar": true
+    },
+    {
+      "name": "Shepherds Glen Splash Pad",
+      "distance": "4.1 mi",
+      "url": "https://www.google.com/maps/search/Shepherds%20Glen%20Splash%20Pad+near+33.1430191%2C-96.7039813",
+      "isFar": true
+    }
+  ],
+  "hotels": [
+    {
+      "name": "Charming apartment with AC, fitness room, WiFi in delightful McKinney",
+      "distance": "0.3 mi",
+      "url": "https://www.google.com/maps/search/Charming%20apartment%20with%20AC%2C%20fitness%20room%2C%20WiFi%20in%20delightful%20McKinney+near+33.1430191%2C-96.7039813"
+    },
+    {
+      "name": "Holiday Inn Express & Suites McKinney - Frisco East by IHG",
+      "distance": "0.4 mi",
+      "url": "https://www.google.com/maps/search/Holiday%20Inn%20Express%20%26%20Suites%20McKinney%20-%20Frisco%20East%20by%20IHG+near+33.1430191%2C-96.7039813"
+    },
+    {
+      "name": "La Quinta Inn & Suites by Wyndham McKinney",
+      "distance": "0.4 mi",
+      "url": "https://www.google.com/maps/search/La%20Quinta%20Inn%20%26%20Suites%20by%20Wyndham%20McKinney+near+33.1430191%2C-96.7039813"
+    },
+    {
+      "name": "Urbanliving at Craigranch Mckinney",
+      "distance": "0.4 mi",
+      "url": "https://www.google.com/maps/search/Urbanliving%20at%20Craigranch%20Mckinney+near+33.1430191%2C-96.7039813"
+    },
+    {
+      "name": "StayOvr at Craig Ranch - McKinney",
+      "distance": "0.4 mi",
+      "url": "https://www.google.com/maps/search/StayOvr%20at%20Craig%20Ranch%20-%20McKinney+near+33.1430191%2C-96.7039813"
+    },
+    {
+      "name": "Denizen McKinney Hotel",
+      "distance": "0.5 mi",
+      "url": "https://www.google.com/maps/search/Denizen%20McKinney%20Hotel+near+33.1430191%2C-96.7039813"
+    },
+    {
+      "name": "Comfy 1BR w/ Pool/Hot Tub/Gym/ Free Parking+ Wi-fi",
+      "distance": "0.5 mi",
+      "url": "https://www.google.com/maps/search/Comfy%201BR%20w%2F%20Pool%2FHot%20Tub%2FGym%2F%20Free%20Parking%2B%20Wi-fi+near+33.1430191%2C-96.7039813"
+    }
+  ],
+  "gas": [
+    {
+      "name": "QuikTrip",
+      "distance": "0.7 mi",
+      "url": "https://www.google.com/maps/search/QuikTrip+near+33.1430191%2C-96.7039813"
+    },
+    {
+      "name": "Valero",
+      "distance": "0.9 mi",
+      "url": "https://www.google.com/maps/search/Valero+near+33.1430191%2C-96.7039813"
+    },
+    {
+      "name": "Circle K | Gas Station",
+      "distance": "0.9 mi",
+      "url": "https://www.google.com/maps/search/Circle%20K%20%7C%20Gas%20Station+near+33.1430191%2C-96.7039813"
+    },
+    {
+      "name": "Costco Gas Station",
+      "distance": "1.0 mi",
+      "url": "https://www.google.com/maps/search/Costco%20Gas%20Station+near+33.1430191%2C-96.7039813"
+    },
+    {
+      "name": "RaceTrac",
+      "distance": "1.3 mi",
+      "url": "https://www.google.com/maps/search/RaceTrac+near+33.1430191%2C-96.7039813"
+    }
+  ]
+}

@@ -1,0 +1,197 @@
+{
+  "quick_bite": [
+    {
+      "name": "Barron's Country Store & Liquor",
+      "distance": "1.7 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Barron's%20Country%20Store%20%26%20Liquor&query_place_id=ChIJr6bKa3in44kR87wNxz-mOsA&center=42.643322,-71.203396"
+    },
+    {
+      "name": "Spinners Pizza Parlor",
+      "distance": "1.8 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Spinners%20Pizza%20Parlor&query_place_id=ChIJff9Di7AJ44kRvbUgZItTSW0&center=42.626681,-71.1601446"
+    },
+    {
+      "name": "Kyoto Japanese Steak House",
+      "distance": "2.0 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Kyoto%20Japanese%20Steak%20House&query_place_id=ChIJ--BVuMig44kRPcEp5NWKTmk&center=42.598805999999996,-71.221273"
+    },
+    {
+      "name": "Anthony's Famous Roast Beef & Pizza",
+      "distance": "2.1 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Anthony's%20Famous%20Roast%20Beef%20%26%20Pizza&query_place_id=ChIJz7RcVKOg44kRLI1ZFYXFHU0&center=42.590257,-71.205154"
+    },
+    {
+      "name": "Burger King",
+      "distance": "2.1 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Burger%20King&query_place_id=ChIJ7SymVKOg44kRO7ayUFaZN18&center=42.590007899999996,-71.20431839999999"
+    },
+    {
+      "name": "Subway",
+      "distance": "2.8 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Subway&query_place_id=ChIJM_1cEyUK44kRQPldEZcdf0M&center=42.5889477,-71.1581803"
+    }
+  ],
+  "coffee": [
+    {
+      "name": "Dunkin'",
+      "distance": "0.5 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Dunkin'&query_place_id=ChIJQzsmBt0J44kR-cw78o5_HkY&center=42.6215352,-71.18466269999999"
+    },
+    {
+      "name": "Dunkin'",
+      "distance": "0.5 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Dunkin'&query_place_id=ChIJHwQwvt0J44kRaaGzlK1aJuo&center=42.6219083,-71.1831196"
+    },
+    {
+      "name": "Lulu's Lunchbox",
+      "distance": "1.8 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Lulu's%20Lunchbox&query_place_id=ChIJf-aJcS8J44kRxFQ5oVAN9_0&center=42.6266216,-71.1600383"
+    },
+    {
+      "name": "Dunkin'",
+      "distance": "1.9 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Dunkin'&query_place_id=ChIJwddvbM2g44kRkUaLubmQotE&center=42.607193099999996,-71.2264957"
+    },
+    {
+      "name": "Starbucks Coffee Company",
+      "distance": "2.0 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Starbucks%20Coffee%20Company&query_place_id=ChIJ46dNB5Kh44kRng8VaAYiyg0&center=42.59276,-71.20832"
+    }
+  ],
+  "team_lunch": [
+    {
+      "name": "Sal's Pizza | Tewksbury, MA",
+      "distance": "0.5 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Sal's%20Pizza%20%7C%20Tewksbury%2C%20MA&query_place_id=ChIJmyB-_XcK44kRD6WSWLSYT6g&center=42.6215914,-71.1846754"
+    },
+    {
+      "name": "99 Restaurants",
+      "distance": "1.8 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=99%20Restaurants&query_place_id=ChIJSQhmC3an44kRL50_3c3qK-Q&center=42.642631,-71.20987749999999"
+    },
+    {
+      "name": "Main Street Pizza and Seafood Restaurant",
+      "distance": "1.9 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Main%20Street%20Pizza%20and%20Seafood%20Restaurant&query_place_id=ChIJu6yDB82g44kRAZn4LW0QH5k&center=42.605703,-71.22492199999999"
+    },
+    {
+      "name": "Main Street Sports Grille",
+      "distance": "1.9 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Main%20Street%20Sports%20Grille&query_place_id=ChIJPQAUFTah44kRXBDQacnq4G4&center=42.605640699999995,-71.22491409999999"
+    },
+    {
+      "name": "D'Angelo Grilled Sandwiches",
+      "distance": "2.1 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=D'Angelo%20Grilled%20Sandwiches&query_place_id=ChIJd5WSuBKh44kRfvDFMtsGWbI&center=42.5909623,-71.2022198"
+    },
+    {
+      "name": "LP's Bake",
+      "distance": "2.4 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=LP's%20Bake&query_place_id=ChIJ6YeUqeyn44kRBNnQq2qfMZo&center=42.6155672,-71.23968119999999"
+    }
+  ],
+  "dinner": [
+    {
+      "name": "Origin Thai Bistro",
+      "distance": "0.5 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Origin%20Thai%20Bistro&query_place_id=ChIJRwr5Cd0J44kR5y11I_UY_S4&center=42.621536299999995,-71.1833912"
+    },
+    {
+      "name": "Luna Rossa",
+      "distance": "0.5 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Luna%20Rossa&query_place_id=ChIJRwr5Cd0J44kRhkQYPJFwHHU&center=42.6216186,-71.1831444"
+    },
+    {
+      "name": "The Pizza Bar",
+      "distance": "0.5 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=The%20Pizza%20Bar&query_place_id=ChIJwbu7TOgJ44kRg99i2pXoh5I&center=42.6217709,-71.1831423"
+    },
+    {
+      "name": "Café Sicilia Vietalian Restaurant",
+      "distance": "1.9 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Caf%C3%A9%20Sicilia%20Vietalian%20Restaurant&query_place_id=ChIJIynXNcyg44kRPl5rRyo-D4s&center=42.6046145,-71.2244254"
+    },
+    {
+      "name": "Al Fresca Ristorante",
+      "distance": "2.0 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Al%20Fresca%20Ristorante&query_place_id=ChIJz_kDz7ug44kRKjaWH0zJ8g8&center=42.5933431,-71.20910880000001"
+    },
+    {
+      "name": "CRACK'D Kitchen & Coffee",
+      "distance": "2.0 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=CRACK'D%20Kitchen%20%26%20Coffee&query_place_id=ChIJ_RODenAJ44kRRcEQMml9Cm0&center=42.64848,-71.1836459"
+    }
+  ],
+  "bowling": [],
+  "arcade": [],
+  "movies": [],
+  "fun": [
+    {
+      "name": "Rocket Graveyard",
+      "distance": "1.5 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Rocket%20Graveyard&query_place_id=ChIJ25jgfQCh44kRwZ3R_4Gp4AU&center=42.600137499999995,-71.20401509999999"
+    },
+    {
+      "name": "Dunne Light Show",
+      "distance": "3.7 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Dunne%20Light%20Show&query_place_id=ChIJ25RGHwAJ44kRn6sevtvDmJM&center=42.626273,-71.1215733",
+      "isFar": true
+    },
+    {
+      "name": "Escapology Escape Rooms Tewksbury",
+      "distance": "3.7 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Escapology%20Escape%20Rooms%20Tewksbury&query_place_id=ChIJt7mOpbem44kROF6UniH8BxQ&center=42.6230701,-71.2658874",
+      "isFar": true
+    },
+    {
+      "name": "Andover Towers",
+      "distance": "3.8 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Andover%20Towers&query_place_id=ChIJyYvNpa8J44kR3e6SjVQkNTM&center=42.6626883,-71.1455708",
+      "isFar": true
+    }
+  ],
+  "hotels": [
+    {
+      "name": "Tewksbury MA 5 night minimum stay 4 beds, 2.5 baths, quiet neighborhood,",
+      "distance": "1.0 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Tewksbury%20MA%205%20night%20minimum%20stay%204%20beds%2C%202.5%20baths%2C%20quiet%20neighborhood%2C&query_place_id=ChIJmVabyken44kRAMm0ThviK44&center=42.6169243,-71.2133103"
+    },
+    {
+      "name": "Tewksbury MA 5 night minimum stay 4 beds, 2.5 baths, quiet neighborhood,",
+      "distance": "1.1 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Tewksbury%20MA%205%20night%20minimum%20stay%204%20beds%2C%202.5%20baths%2C%20quiet%20neighborhood%2C&query_place_id=ChIJLSlkxEen44kRpJbpTx7NFVk&center=42.616680099999996,-71.21421819999999"
+    },
+    {
+      "name": "Tracklite Systems",
+      "distance": "1.9 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Tracklite%20Systems&query_place_id=ChIJ08XNtrEJ44kRx4KWshzprR4&center=42.6281174,-71.15857559999999"
+    },
+    {
+      "name": "Travelers Bed & Breakfast",
+      "distance": "2.1 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Travelers%20Bed%20%26%20Breakfast&query_place_id=ChIJA5naj8ig44kRLZi_fl6VmZM&center=42.5976338,-71.2212942"
+    }
+  ],
+  "gas": [
+    {
+      "name": "Mobil",
+      "distance": "0.5 mi",
+      "url": "https://www.google.com/maps/search/Mobil+near+42.620045600000005%2C-71.1934445"
+    },
+    {
+      "name": "AL Prime",
+      "distance": "1.9 mi",
+      "url": "https://www.google.com/maps/search/AL%20Prime+near+42.620045600000005%2C-71.1934445"
+    },
+    {
+      "name": "Petroil",
+      "distance": "1.9 mi",
+      "url": "https://www.google.com/maps/search/Petroil+near+42.620045600000005%2C-71.1934445"
+    },
+    {
+      "name": "Tewksbury gas station",
+      "distance": "2.1 mi",
+      "url": "https://www.google.com/maps/search/Tewksbury%20gas%20station+near+42.620045600000005%2C-71.1934445"
+    }
+  ]
+}

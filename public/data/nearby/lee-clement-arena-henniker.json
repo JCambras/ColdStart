@@ -1,0 +1,113 @@
+{
+  "quick_bite": [],
+  "coffee": [
+    {
+      "name": "Starbucks at New England College",
+      "distance": "0.2 mi",
+      "url": "https://www.google.com/maps/search/Starbucks%20at%20New%20England%20College+near+43.175435799999995%2C-71.8244493"
+    },
+    {
+      "name": "Henniker House of Coffee & Café",
+      "distance": "0.3 mi",
+      "url": "https://www.google.com/maps/search/Henniker%20House%20of%20Coffee%20%26%20Caf%C3%A9+near+43.175435799999995%2C-71.8244493"
+    },
+    {
+      "name": "Dunkin'",
+      "distance": "3.4 mi",
+      "url": "https://www.google.com/maps/search/Dunkin'+near+43.175435799999995%2C-71.8244493",
+      "isFar": true
+    }
+  ],
+  "team_lunch": [
+    {
+      "name": "Daniel's Restaurant & Pub",
+      "distance": "0.3 mi",
+      "url": "https://www.google.com/maps/search/Daniel's%20Restaurant%20%26%20Pub+near+43.175435799999995%2C-71.8244493"
+    }
+  ],
+  "dinner": [
+    {
+      "name": "Gilmore Dining Hall",
+      "distance": "0.2 mi",
+      "url": "https://www.google.com/maps/search/Gilmore%20Dining%20Hall+near+43.175435799999995%2C-71.8244493"
+    },
+    {
+      "name": "Western Ave Pizzeria",
+      "distance": "0.3 mi",
+      "url": "https://www.google.com/maps/search/Western%20Ave%20Pizzeria+near+43.175435799999995%2C-71.8244493"
+    },
+    {
+      "name": "Sonny's Main Street Restaurant",
+      "distance": "0.3 mi",
+      "url": "https://www.google.com/maps/search/Sonny's%20Main%20Street%20Restaurant+near+43.175435799999995%2C-71.8244493"
+    },
+    {
+      "name": "Buffalo Bo's",
+      "distance": "0.3 mi",
+      "url": "https://www.google.com/maps/search/Buffalo%20Bo's+near+43.175435799999995%2C-71.8244493"
+    },
+    {
+      "name": "Rustic Rose Tavern",
+      "distance": "0.8 mi",
+      "url": "https://www.google.com/maps/search/Rustic%20Rose%20Tavern+near+43.175435799999995%2C-71.8244493"
+    },
+    {
+      "name": "Country Spirit Restaurant",
+      "distance": "0.8 mi",
+      "url": "https://www.google.com/maps/search/Country%20Spirit%20Restaurant+near+43.175435799999995%2C-71.8244493"
+    },
+    {
+      "name": "Intervale Farm Pancake House",
+      "distance": "1.6 mi",
+      "url": "https://www.google.com/maps/search/Intervale%20Farm%20Pancake%20House+near+43.175435799999995%2C-71.8244493"
+    }
+  ],
+  "bowling": [],
+  "arcade": [],
+  "movies": [],
+  "fun": [],
+  "hotels": [
+    {
+      "name": "Cozy Henniker Vacation Rental Near Ski Area!",
+      "distance": "0.3 mi",
+      "url": "https://www.google.com/maps/search/Cozy%20Henniker%20Vacation%20Rental%20Near%20Ski%20Area!+near+43.175435799999995%2C-71.8244493"
+    },
+    {
+      "name": "Henniker House Bed & Breakfast Inn",
+      "distance": "0.4 mi",
+      "url": "https://www.google.com/maps/search/Henniker%20House%20Bed%20%26%20Breakfast%20Inn+near+43.175435799999995%2C-71.8244493"
+    },
+    {
+      "name": "Colby Hill Inn",
+      "distance": "0.6 mi",
+      "url": "https://www.google.com/maps/search/Colby%20Hill%20Inn+near+43.175435799999995%2C-71.8244493"
+    },
+    {
+      "name": "The Grazing Room",
+      "distance": "0.6 mi",
+      "url": "https://www.google.com/maps/search/The%20Grazing%20Room+near+43.175435799999995%2C-71.8244493"
+    },
+    {
+      "name": "\\\"The Only One on Earth\\\"",
+      "distance": "0.8 mi",
+      "url": "https://www.google.com/maps/search/%5C%22The%20Only%20One%20on%20Earth%5C%22+near+43.175435799999995%2C-71.8244493"
+    },
+    {
+      "name": "\"The Only One on Earth\"",
+      "distance": "0.8 mi",
+      "url": "https://www.google.com/maps/search/%22The%20Only%20One%20on%20Earth%22+near+43.175435799999995%2C-71.8244493"
+    },
+    {
+      "name": "Welcoming New Hampshire Home on ~ 3 Acres!",
+      "distance": "1.0 mi",
+      "url": "https://www.google.com/maps/search/Welcoming%20New%20Hampshire%20Home%20on%20~%203%20Acres!+near+43.175435799999995%2C-71.8244493"
+    }
+  ],
+  "gas": [
+    {
+      "name": "Mobil",
+      "distance": "1.0 mi",
+      "url": "https://www.google.com/maps/search/Mobil+near+43.175435799999995%2C-71.8244493"
+    }
+  ]
+}

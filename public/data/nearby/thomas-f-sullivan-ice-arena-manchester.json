@@ -1,0 +1,227 @@
+{
+  "quick_bite": [
+    {
+      "name": "Nadeau's Subs Salads Wraps",
+      "distance": "0.5 mi",
+      "url": "https://www.google.com/maps/search/Nadeau's%20Subs%20Salads%20Wraps+near+42.982504899999995%2C-71.50423769999999"
+    },
+    {
+      "name": "Market's Kitchen and Cafe",
+      "distance": "0.9 mi",
+      "url": "https://www.google.com/maps/search/Market's%20Kitchen%20and%20Cafe+near+42.982504899999995%2C-71.50423769999999"
+    },
+    {
+      "name": "The Pot Pie Bar",
+      "distance": "0.9 mi",
+      "url": "https://www.google.com/maps/search/The%20Pot%20Pie%20Bar+near+42.982504899999995%2C-71.50423769999999"
+    },
+    {
+      "name": "Snowfox Sushi",
+      "distance": "1.2 mi",
+      "url": "https://www.google.com/maps/search/Snowfox%20Sushi+near+42.982504899999995%2C-71.50423769999999"
+    },
+    {
+      "name": "Chuck E. Cheese",
+      "distance": "3.8 mi",
+      "url": "https://www.google.com/maps/search/Chuck%20E.%20Cheese+near+42.982504899999995%2C-71.50423769999999",
+      "isFar": true
+    }
+  ],
+  "coffee": [
+    {
+      "name": "Gallo Café",
+      "distance": "0.2 mi",
+      "url": "https://www.google.com/maps/search/Gallo%20Caf%C3%A9+near+42.982504899999995%2C-71.50423769999999"
+    },
+    {
+      "name": "Dunkin'",
+      "distance": "0.7 mi",
+      "url": "https://www.google.com/maps/search/Dunkin'+near+42.982504899999995%2C-71.50423769999999"
+    },
+    {
+      "name": "William & Sons Coffee Co.",
+      "distance": "1.2 mi",
+      "url": "https://www.google.com/maps/search/William%20%26%20Sons%20Coffee%20Co.+near+42.982504899999995%2C-71.50423769999999"
+    },
+    {
+      "name": "Starbucks Coffee Company",
+      "distance": "1.3 mi",
+      "url": "https://www.google.com/maps/search/Starbucks%20Coffee%20Company+near+42.982504899999995%2C-71.50423769999999"
+    },
+    {
+      "name": "Dunkin'",
+      "distance": "1.3 mi",
+      "url": "https://www.google.com/maps/search/Dunkin'+near+42.982504899999995%2C-71.50423769999999"
+    }
+  ],
+  "team_lunch": [
+    {
+      "name": "Jutras Post",
+      "distance": "1.2 mi",
+      "url": "https://www.google.com/maps/search/Jutras%20Post+near+42.982504899999995%2C-71.50423769999999"
+    }
+  ],
+  "dinner": [
+    {
+      "name": "C - Shop",
+      "distance": "0.3 mi",
+      "url": "https://www.google.com/maps/search/C%20-%20Shop+near+42.982504899999995%2C-71.50423769999999"
+    },
+    {
+      "name": "Ollie's Restaurant",
+      "distance": "0.6 mi",
+      "url": "https://www.google.com/maps/search/Ollie's%20Restaurant+near+42.982504899999995%2C-71.50423769999999"
+    },
+    {
+      "name": "Charlie's of Goffstown",
+      "distance": "0.6 mi",
+      "url": "https://www.google.com/maps/search/Charlie's%20of%20Goffstown+near+42.982504899999995%2C-71.50423769999999"
+    },
+    {
+      "name": "North Garden Restaurant & Lounge",
+      "distance": "0.7 mi",
+      "url": "https://www.google.com/maps/search/North%20Garden%20Restaurant%20%26%20Lounge+near+42.982504899999995%2C-71.50423769999999"
+    },
+    {
+      "name": "The Bagg Lunch",
+      "distance": "0.8 mi",
+      "url": "https://www.google.com/maps/search/The%20Bagg%20Lunch+near+42.982504899999995%2C-71.50423769999999"
+    },
+    {
+      "name": "Ubon Thai 2go",
+      "distance": "0.8 mi",
+      "url": "https://www.google.com/maps/search/Ubon%20Thai%202go+near+42.982504899999995%2C-71.50423769999999"
+    },
+    {
+      "name": "Golden Acres Pizza Market",
+      "distance": "0.8 mi",
+      "url": "https://www.google.com/maps/search/Golden%20Acres%20Pizza%20Market+near+42.982504899999995%2C-71.50423769999999"
+    }
+  ],
+  "bowling": [
+    {
+      "name": "King Bowling Lanes",
+      "distance": "0.6 mi",
+      "url": "https://www.google.com/maps/search/King%20Bowling%20Lanes+near+42.982504899999995%2C-71.50423769999999"
+    },
+    {
+      "name": "Yankee Lanes",
+      "distance": "2.6 mi",
+      "url": "https://www.google.com/maps/search/Yankee%20Lanes+near+42.982504899999995%2C-71.50423769999999"
+    }
+  ],
+  "arcade": [],
+  "movies": [
+    {
+      "name": "Chunky's Cinema Pub",
+      "distance": "4.2 mi",
+      "url": "https://www.google.com/maps/search/Chunky's%20Cinema%20Pub+near+42.982504899999995%2C-71.50423769999999",
+      "isFar": true
+    }
+  ],
+  "fun": [
+    {
+      "name": "Dupont Splash Pad",
+      "distance": "1.5 mi",
+      "url": "https://www.google.com/maps/search/Dupont%20Splash%20Pad+near+42.982504899999995%2C-71.50423769999999"
+    },
+    {
+      "name": "Granite State Escape",
+      "distance": "2.2 mi",
+      "url": "https://www.google.com/maps/search/Granite%20State%20Escape+near+42.982504899999995%2C-71.50423769999999"
+    },
+    {
+      "name": "Sky Zone Trampoline Park",
+      "distance": "2.7 mi",
+      "url": "https://www.google.com/maps/search/Sky%20Zone%20Trampoline%20Park+near+42.982504899999995%2C-71.50423769999999"
+    },
+    {
+      "name": "The Break Room NH",
+      "distance": "3.8 mi",
+      "url": "https://www.google.com/maps/search/The%20Break%20Room%20NH+near+42.982504899999995%2C-71.50423769999999",
+      "isFar": true
+    },
+    {
+      "name": "Launch Family Entertainment Manchester",
+      "distance": "3.9 mi",
+      "url": "https://www.google.com/maps/search/Launch%20Family%20Entertainment%20Manchester+near+42.982504899999995%2C-71.50423769999999",
+      "isFar": true
+    },
+    {
+      "name": "LOK'd! Room Escape",
+      "distance": "4.1 mi",
+      "url": "https://www.google.com/maps/search/LOK'd!%20Room%20Escape+near+42.982504899999995%2C-71.50423769999999",
+      "isFar": true
+    },
+    {
+      "name": "Cowabunga's Indoor Kids Play & Party Center - Manchester",
+      "distance": "4.2 mi",
+      "url": "https://www.google.com/maps/search/Cowabunga's%20Indoor%20Kids%20Play%20%26%20Party%20Center%20-%20Manchester+near+42.982504899999995%2C-71.50423769999999",
+      "isFar": true
+    }
+  ],
+  "hotels": [
+    {
+      "name": "Charming 1-bedroom apartment with WiFi, AC in terrific Manchester",
+      "distance": "0.3 mi",
+      "url": "https://www.google.com/maps/search/Charming%201-bedroom%20apartment%20with%20WiFi%2C%20AC%20in%20terrific%20Manchester+near+42.982504899999995%2C-71.50423769999999"
+    },
+    {
+      "name": "1 Bedroom Apartment 1.5 Miles from Downtown Manchester NH",
+      "distance": "0.6 mi",
+      "url": "https://www.google.com/maps/search/1%20Bedroom%20Apartment%201.5%20Miles%20from%20Downtown%20Manchester%20NH+near+42.982504899999995%2C-71.50423769999999"
+    },
+    {
+      "name": "NEW-Queen Beds-Mins to Elliot-Catholic Medical-MHT",
+      "distance": "0.7 mi",
+      "url": "https://www.google.com/maps/search/NEW-Queen%20Beds-Mins%20to%20Elliot-Catholic%20Medical-MHT+near+42.982504899999995%2C-71.50423769999999"
+    },
+    {
+      "name": "Heated Winter Stay • 3BR Home • Pet-Friendly • Free Parking • Near Hospitals • 6",
+      "distance": "0.7 mi",
+      "url": "https://www.google.com/maps/search/Heated%20Winter%20Stay%20%E2%80%A2%203BR%20Home%20%E2%80%A2%20Pet-Friendly%20%E2%80%A2%20Free%20Parking%20%E2%80%A2%20Near%20Hospitals%20%E2%80%A2%206+near+42.982504899999995%2C-71.50423769999999"
+    },
+    {
+      "name": "BBQ Ready: Historic Apt 3 Mi to Dtwn Manchester",
+      "distance": "0.7 mi",
+      "url": "https://www.google.com/maps/search/BBQ%20Ready%3A%20Historic%20Apt%203%20Mi%20to%20Dtwn%20Manchester+near+42.982504899999995%2C-71.50423769999999"
+    },
+    {
+      "name": "Fabulous 3-bedroom house in Manchester",
+      "distance": "0.7 mi",
+      "url": "https://www.google.com/maps/search/Fabulous%203-bedroom%20house%20in%20Manchester+near+42.982504899999995%2C-71.50423769999999"
+    },
+    {
+      "name": "New - Mins to Concord/ Nashua - Walk to Downtown - - Apartment",
+      "distance": "0.7 mi",
+      "url": "https://www.google.com/maps/search/New%20-%20Mins%20to%20Concord%2F%20Nashua%20-%20Walk%20to%20Downtown%20-%20-%20Apartment+near+42.982504899999995%2C-71.50423769999999"
+    }
+  ],
+  "gas": [
+    {
+      "name": "Gulf",
+      "distance": "0.6 mi",
+      "url": "https://www.google.com/maps/search/Gulf+near+42.982504899999995%2C-71.50423769999999"
+    },
+    {
+      "name": "BUDGET GAS",
+      "distance": "0.7 mi",
+      "url": "https://www.google.com/maps/search/BUDGET%20GAS+near+42.982504899999995%2C-71.50423769999999"
+    },
+    {
+      "name": "Irving Oil",
+      "distance": "0.7 mi",
+      "url": "https://www.google.com/maps/search/Irving%20Oil+near+42.982504899999995%2C-71.50423769999999"
+    },
+    {
+      "name": "Circle K | Gas Station",
+      "distance": "0.7 mi",
+      "url": "https://www.google.com/maps/search/Circle%20K%20%7C%20Gas%20Station+near+42.982504899999995%2C-71.50423769999999"
+    },
+    {
+      "name": "Heavens Gas",
+      "distance": "1.3 mi",
+      "url": "https://www.google.com/maps/search/Heavens%20Gas+near+42.982504899999995%2C-71.50423769999999"
+    }
+  ]
+}

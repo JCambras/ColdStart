@@ -1,0 +1,224 @@
+{
+  "quick_bite": [
+    {
+      "name": "Chuck E. Cheese",
+      "distance": "1.1 mi",
+      "url": "https://www.google.com/maps/search/Chuck%20E.%20Cheese+near+41.5045309%2C-81.43502529999999"
+    },
+    {
+      "name": "Best Gyros- Mayfield Heights",
+      "distance": "1.1 mi",
+      "url": "https://www.google.com/maps/search/Best%20Gyros-%20Mayfield%20Heights+near+41.5045309%2C-81.43502529999999"
+    },
+    {
+      "name": "Chick-fil-A",
+      "distance": "1.3 mi",
+      "url": "https://www.google.com/maps/search/Chick-fil-A+near+41.5045309%2C-81.43502529999999"
+    },
+    {
+      "name": "Wendy's",
+      "distance": "1.3 mi",
+      "url": "https://www.google.com/maps/search/Wendy's+near+41.5045309%2C-81.43502529999999"
+    }
+  ],
+  "coffee": [
+    {
+      "name": "Panera Bread",
+      "distance": "1.0 mi",
+      "url": "https://www.google.com/maps/search/Panera%20Bread+near+41.5045309%2C-81.43502529999999"
+    },
+    {
+      "name": "Starbucks Coffee Company",
+      "distance": "1.1 mi",
+      "url": "https://www.google.com/maps/search/Starbucks%20Coffee%20Company+near+41.5045309%2C-81.43502529999999"
+    }
+  ],
+  "team_lunch": [
+    {
+      "name": "Erbert & Gerbert's",
+      "distance": "1.0 mi",
+      "url": "https://www.google.com/maps/search/Erbert%20%26%20Gerbert's+near+41.5045309%2C-81.43502529999999"
+    },
+    {
+      "name": "Kita's Sweet Treats LLC",
+      "distance": "1.1 mi",
+      "url": "https://www.google.com/maps/search/Kita's%20Sweet%20Treats%20LLC+near+41.5045309%2C-81.43502529999999"
+    },
+    {
+      "name": "Otani Japanese Restaurant",
+      "distance": "1.1 mi",
+      "url": "https://www.google.com/maps/search/Otani%20Japanese%20Restaurant+near+41.5045309%2C-81.43502529999999"
+    },
+    {
+      "name": "Wingstop",
+      "distance": "1.1 mi",
+      "url": "https://www.google.com/maps/search/Wingstop+near+41.5045309%2C-81.43502529999999"
+    },
+    {
+      "name": "Grand China",
+      "distance": "1.1 mi",
+      "url": "https://www.google.com/maps/search/Grand%20China+near+41.5045309%2C-81.43502529999999"
+    }
+  ],
+  "dinner": [
+    {
+      "name": "Juicy Seafood Cleveland - Mayfield Heights",
+      "distance": "1.1 mi",
+      "url": "https://www.google.com/maps/search/Juicy%20Seafood%20Cleveland%20-%20Mayfield%20Heights+near+41.5045309%2C-81.43502529999999"
+    },
+    {
+      "name": "Master Pizza Mayfield Heights",
+      "distance": "1.1 mi",
+      "url": "https://www.google.com/maps/search/Master%20Pizza%20Mayfield%20Heights+near+41.5045309%2C-81.43502529999999"
+    },
+    {
+      "name": "Parkside Grille",
+      "distance": "1.1 mi",
+      "url": "https://www.google.com/maps/search/Parkside%20Grille+near+41.5045309%2C-81.43502529999999"
+    },
+    {
+      "name": "FRIED RICE HIBACHI 2 GO",
+      "distance": "1.2 mi",
+      "url": "https://www.google.com/maps/search/FRIED%20RICE%20HIBACHI%202%20GO+near+41.5045309%2C-81.43502529999999"
+    },
+    {
+      "name": "5th Avenue Deli & Grill",
+      "distance": "1.2 mi",
+      "url": "https://www.google.com/maps/search/5th%20Avenue%20Deli%20%26%20Grill+near+41.5045309%2C-81.43502529999999"
+    },
+    {
+      "name": "Nothing Bundt Cakes",
+      "distance": "1.2 mi",
+      "url": "https://www.google.com/maps/search/Nothing%20Bundt%20Cakes+near+41.5045309%2C-81.43502529999999"
+    },
+    {
+      "name": "56 Kitchen - Mayfield Hts",
+      "distance": "1.2 mi",
+      "url": "https://www.google.com/maps/search/56%20Kitchen%20-%20Mayfield%20Hts+near+41.5045309%2C-81.43502529999999"
+    }
+  ],
+  "bowling": [
+    {
+      "name": "Strike Club Bowling",
+      "distance": "6.0 mi",
+      "url": "https://www.google.com/maps/search/Strike%20Club%20Bowling+near+41.5045309%2C-81.43502529999999",
+      "isFar": true
+    },
+    {
+      "name": "WhirlyBall Cleveland",
+      "distance": "6.5 mi",
+      "url": "https://www.google.com/maps/search/WhirlyBall%20Cleveland+near+41.5045309%2C-81.43502529999999",
+      "isFar": true
+    }
+  ],
+  "arcade": [],
+  "movies": [
+    {
+      "name": "Silverspot Cinema - Orange Village, Ohio",
+      "distance": "4.3 mi",
+      "url": "https://www.google.com/maps/search/Silverspot%20Cinema%20-%20Orange%20Village%2C%20Ohio+near+41.5045309%2C-81.43502529999999",
+      "isFar": true
+    },
+    {
+      "name": "Cleveland Cinemas",
+      "distance": "6.7 mi",
+      "url": "https://www.google.com/maps/search/Cleveland%20Cinemas+near+41.5045309%2C-81.43502529999999",
+      "isFar": true
+    },
+    {
+      "name": "Cedar Lee Theatre",
+      "distance": "6.7 mi",
+      "url": "https://www.google.com/maps/search/Cedar%20Lee%20Theatre+near+41.5045309%2C-81.43502529999999",
+      "isFar": true
+    },
+    {
+      "name": "Darkman filmz",
+      "distance": "7.5 mi",
+      "url": "https://www.google.com/maps/search/Darkman%20filmz+near+41.5045309%2C-81.43502529999999",
+      "isFar": true
+    }
+  ],
+  "fun": [
+    {
+      "name": "Sky Zone Highland Heights",
+      "distance": "2.8 mi",
+      "url": "https://www.google.com/maps/search/Sky%20Zone%20Highland%20Heights+near+41.5045309%2C-81.43502529999999"
+    },
+    {
+      "name": "Adrenaline Monkey Adventure Park Cleveland",
+      "distance": "5.2 mi",
+      "url": "https://www.google.com/maps/search/Adrenaline%20Monkey%20Adventure%20Park%20Cleveland+near+41.5045309%2C-81.43502529999999",
+      "isFar": true
+    },
+    {
+      "name": "Escape Room Coventry",
+      "distance": "7.5 mi",
+      "url": "https://www.google.com/maps/search/Escape%20Room%20Coventry+near+41.5045309%2C-81.43502529999999",
+      "isFar": true
+    }
+  ],
+  "hotels": [
+    {
+      "name": "Spacious 4-bedroom house in Gates Mills with AC, WiFi. Minutes from CC Hospital",
+      "distance": "0.9 mi",
+      "url": "https://www.google.com/maps/search/Spacious%204-bedroom%20house%20in%20Gates%20Mills%20with%20AC%2C%20WiFi.%20Minutes%20from%20CC%20Hospital+near+41.5045309%2C-81.43502529999999"
+    },
+    {
+      "name": "Spacious 4-bedroom house in Gates Mills with AC, WiFi. Minutes from CC Hospital",
+      "distance": "0.9 mi",
+      "url": "https://www.google.com/maps/search/Spacious%204-bedroom%20house%20in%20Gates%20Mills%20with%20AC%2C%20WiFi.%20Minutes%20from%20CC%20Hospital+near+41.5045309%2C-81.43502529999999"
+    },
+    {
+      "name": "Suburban Home ~ 20 Mi to Downtown Cleveland!",
+      "distance": "1.0 mi",
+      "url": "https://www.google.com/maps/search/Suburban%20Home%20~%2020%20Mi%20to%20Downtown%20Cleveland!+near+41.5045309%2C-81.43502529999999"
+    },
+    {
+      "name": "Staybridge Suites Cleveland Mayfield Heights Beachwd by IHG",
+      "distance": "1.3 mi",
+      "url": "https://www.google.com/maps/search/Staybridge%20Suites%20Cleveland%20Mayfield%20Heights%20Beachwd%20by%20IHG+near+41.5045309%2C-81.43502529999999"
+    },
+    {
+      "name": "Queen Studio | 24-Hour Business Center, Fitness Center + Free Daily Breakfast",
+      "distance": "1.4 mi",
+      "url": "https://www.google.com/maps/search/Queen%20Studio%20%7C%2024-Hour%20Business%20Center%2C%20Fitness%20Center%20%2B%20Free%20Daily%20Breakfast+near+41.5045309%2C-81.43502529999999"
+    },
+    {
+      "name": "Comfort Inn Mayfield Heights Cleveland East",
+      "distance": "1.4 mi",
+      "url": "https://www.google.com/maps/search/Comfort%20Inn%20Mayfield%20Heights%20Cleveland%20East+near+41.5045309%2C-81.43502529999999"
+    },
+    {
+      "name": "Fenced backyard - Pets OK - 3 Bd 3 Ba",
+      "distance": "1.7 mi",
+      "url": "https://www.google.com/maps/search/Fenced%20backyard%20-%20Pets%20OK%20-%203%20Bd%203%20Ba+near+41.5045309%2C-81.43502529999999"
+    }
+  ],
+  "gas": [
+    {
+      "name": "Sunoco Food Mart",
+      "distance": "0.4 mi",
+      "url": "https://www.google.com/maps/search/Sunoco%20Food%20Mart+near+41.5045309%2C-81.43502529999999"
+    },
+    {
+      "name": "bp",
+      "distance": "1.1 mi",
+      "url": "https://www.google.com/maps/search/bp+near+41.5045309%2C-81.43502529999999"
+    },
+    {
+      "name": "Circle K | Gas Station",
+      "distance": "1.1 mi",
+      "url": "https://www.google.com/maps/search/Circle%20K%20%7C%20Gas%20Station+near+41.5045309%2C-81.43502529999999"
+    },
+    {
+      "name": "Shell",
+      "distance": "1.3 mi",
+      "url": "https://www.google.com/maps/search/Shell+near+41.5045309%2C-81.43502529999999"
+    },
+    {
+      "name": "Costco Gas Station",
+      "distance": "1.6 mi",
+      "url": "https://www.google.com/maps/search/Costco%20Gas%20Station+near+41.5045309%2C-81.43502529999999"
+    }
+  ]
+}

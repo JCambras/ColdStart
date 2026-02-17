@@ -1,0 +1,211 @@
+{
+  "quick_bite": [
+    {
+      "name": "Chuck E. Cheese",
+      "distance": "2.4 mi",
+      "url": "https://www.google.com/maps/search/Chuck%20E.%20Cheese+near+36.071743999999995%2C-94.157224"
+    }
+  ],
+  "coffee": [
+    {
+      "name": "Baba Boudan's Espresso",
+      "distance": "0.1 mi",
+      "url": "https://www.google.com/maps/search/Baba%20Boudan's%20Espresso+near+36.071743999999995%2C-94.157224"
+    },
+    {
+      "name": "Word Coffee",
+      "distance": "0.2 mi",
+      "url": "https://www.google.com/maps/search/Word%20Coffee+near+36.071743999999995%2C-94.157224"
+    },
+    {
+      "name": "Pink House Alchemy",
+      "distance": "0.3 mi",
+      "url": "https://www.google.com/maps/search/Pink%20House%20Alchemy+near+36.071743999999995%2C-94.157224"
+    },
+    {
+      "name": "Moonhouse",
+      "distance": "0.3 mi",
+      "url": "https://www.google.com/maps/search/Moonhouse+near+36.071743999999995%2C-94.157224"
+    },
+    {
+      "name": "Basecamp Coffee at UAMS",
+      "distance": "0.4 mi",
+      "url": "https://www.google.com/maps/search/Basecamp%20Coffee%20at%20UAMS+near+36.071743999999995%2C-94.157224"
+    }
+  ],
+  "team_lunch": [
+    {
+      "name": "Papa Johns Pizza",
+      "distance": "0.1 mi",
+      "url": "https://www.google.com/maps/search/Papa%20Johns%20Pizza+near+36.071743999999995%2C-94.157224"
+    },
+    {
+      "name": "Hangar 54 Pizza",
+      "distance": "0.3 mi",
+      "url": "https://www.google.com/maps/search/Hangar%2054%20Pizza+near+36.071743999999995%2C-94.157224"
+    },
+    {
+      "name": "U.S. Pizza Co Fayetteville",
+      "distance": "0.4 mi",
+      "url": "https://www.google.com/maps/search/U.S.%20Pizza%20Co%20Fayetteville+near+36.071743999999995%2C-94.157224"
+    },
+    {
+      "name": "The Collective",
+      "distance": "0.5 mi",
+      "url": "https://www.google.com/maps/search/The%20Collective+near+36.071743999999995%2C-94.157224"
+    }
+  ],
+  "dinner": [
+    {
+      "name": "Akira Ramen & Bowl",
+      "distance": "0.1 mi",
+      "url": "https://www.google.com/maps/search/Akira%20Ramen%20%26%20Bowl+near+36.071743999999995%2C-94.157224"
+    },
+    {
+      "name": "Taqueria Leo's - Yacht Club",
+      "distance": "0.1 mi",
+      "url": "https://www.google.com/maps/search/Taqueria%20Leo's%20-%20Yacht%20Club+near+36.071743999999995%2C-94.157224"
+    },
+    {
+      "name": "Chao's Asian And American Foods LLC",
+      "distance": "0.1 mi",
+      "url": "https://www.google.com/maps/search/Chao's%20Asian%20And%20American%20Foods%20LLC+near+36.071743999999995%2C-94.157224"
+    },
+    {
+      "name": "Tori N’ Nessa’s Place",
+      "distance": "0.1 mi",
+      "url": "https://www.google.com/maps/search/Tori%20N%E2%80%99%20Nessa%E2%80%99s%20Place+near+36.071743999999995%2C-94.157224"
+    },
+    {
+      "name": "Thai Diner",
+      "distance": "0.1 mi",
+      "url": "https://www.google.com/maps/search/Thai%20Diner+near+36.071743999999995%2C-94.157224"
+    },
+    {
+      "name": "Sassy's Red House",
+      "distance": "0.1 mi",
+      "url": "https://www.google.com/maps/search/Sassy's%20Red%20House+near+36.071743999999995%2C-94.157224"
+    },
+    {
+      "name": "The Feral Pig",
+      "distance": "0.4 mi",
+      "url": "https://www.google.com/maps/search/The%20Feral%20Pig+near+36.071743999999995%2C-94.157224"
+    }
+  ],
+  "bowling": [
+    {
+      "name": "Ozark Bowling Lanes",
+      "distance": "1.5 mi",
+      "url": "https://www.google.com/maps/search/Ozark%20Bowling%20Lanes+near+36.071743999999995%2C-94.157224"
+    }
+  ],
+  "arcade": [],
+  "movies": [
+    {
+      "name": "AMC Fiesta Square 12",
+      "distance": "2.5 mi",
+      "url": "https://www.google.com/maps/search/AMC%20Fiesta%20Square%2012+near+36.071743999999995%2C-94.157224"
+    },
+    {
+      "name": "Alamo Drafthouse Cinema Fayetteville",
+      "distance": "3.1 mi",
+      "url": "https://www.google.com/maps/search/Alamo%20Drafthouse%20Cinema%20Fayetteville+near+36.071743999999995%2C-94.157224",
+      "isFar": true
+    },
+    {
+      "name": "Malco Razorback Cinema Grill & IMAX",
+      "distance": "3.6 mi",
+      "url": "https://www.google.com/maps/search/Malco%20Razorback%20Cinema%20Grill%20%26%20IMAX+near+36.071743999999995%2C-94.157224",
+      "isFar": true
+    }
+  ],
+  "fun": [
+    {
+      "name": "NWA Smash Lab",
+      "distance": "1.8 mi",
+      "url": "https://www.google.com/maps/search/NWA%20Smash%20Lab+near+36.071743999999995%2C-94.157224"
+    },
+    {
+      "name": "Altitude Trampoline Park",
+      "distance": "3.3 mi",
+      "url": "https://www.google.com/maps/search/Altitude%20Trampoline%20Park+near+36.071743999999995%2C-94.157224",
+      "isFar": true
+    },
+    {
+      "name": "NWA Escape Room Fayetteville",
+      "distance": "3.4 mi",
+      "url": "https://www.google.com/maps/search/NWA%20Escape%20Room%20Fayetteville+near+36.071743999999995%2C-94.157224",
+      "isFar": true
+    },
+    {
+      "name": "Lokomotion Family Fun Park",
+      "distance": "4.3 mi",
+      "url": "https://www.google.com/maps/search/Lokomotion%20Family%20Fun%20Park+near+36.071743999999995%2C-94.157224",
+      "isFar": true
+    }
+  ],
+  "hotels": [
+    {
+      "name": "Washington Willow Historic House - Downtown Fayetteville - Historic District",
+      "distance": "0.1 mi",
+      "url": "https://www.google.com/maps/search/Washington%20Willow%20Historic%20House%20-%20Downtown%20Fayetteville%20-%20Historic%20District+near+36.071743999999995%2C-94.157224"
+    },
+    {
+      "name": "Washington Willow Historic House - Downtown Fayetteville - Historic District",
+      "distance": "0.1 mi",
+      "url": "https://www.google.com/maps/search/Washington%20Willow%20Historic%20House%20-%20Downtown%20Fayetteville%20-%20Historic%20District+near+36.071743999999995%2C-94.157224"
+    },
+    {
+      "name": "The great retreat - 1 mile from the University",
+      "distance": "0.1 mi",
+      "url": "https://www.google.com/maps/search/The%20great%20retreat%20-%201%20mile%20from%20the%20University+near+36.071743999999995%2C-94.157224"
+    },
+    {
+      "name": "Wilson Park Historic District Bungalow",
+      "distance": "0.1 mi",
+      "url": "https://www.google.com/maps/search/Wilson%20Park%20Historic%20District%20Bungalow+near+36.071743999999995%2C-94.157224"
+    },
+    {
+      "name": "Spout Spring House",
+      "distance": "0.2 mi",
+      "url": "https://www.google.com/maps/search/Spout%20Spring%20House+near+36.071743999999995%2C-94.157224"
+    },
+    {
+      "name": "Location!! - The Davidson - Charming Home in Fayetteville Historic District",
+      "distance": "0.2 mi",
+      "url": "https://www.google.com/maps/search/Location!!%20-%20The%20Davidson%20-%20Charming%20Home%20in%20Fayetteville%20Historic%20District+near+36.071743999999995%2C-94.157224"
+    },
+    {
+      "name": "Location!! - The Davidson - Charming Home in Fayetteville Historic District",
+      "distance": "0.2 mi",
+      "url": "https://www.google.com/maps/search/Location!!%20-%20The%20Davidson%20-%20Charming%20Home%20in%20Fayetteville%20Historic%20District+near+36.071743999999995%2C-94.157224"
+    }
+  ],
+  "gas": [
+    {
+      "name": "Shell",
+      "distance": "0.2 mi",
+      "url": "https://www.google.com/maps/search/Shell+near+36.071743999999995%2C-94.157224"
+    },
+    {
+      "name": "Hi-Octane Fuel Xpress",
+      "distance": "0.7 mi",
+      "url": "https://www.google.com/maps/search/Hi-Octane%20Fuel%20Xpress+near+36.071743999999995%2C-94.157224"
+    },
+    {
+      "name": "Circle K",
+      "distance": "0.8 mi",
+      "url": "https://www.google.com/maps/search/Circle%20K+near+36.071743999999995%2C-94.157224"
+    },
+    {
+      "name": "Shell",
+      "distance": "1.1 mi",
+      "url": "https://www.google.com/maps/search/Shell+near+36.071743999999995%2C-94.157224"
+    },
+    {
+      "name": "Road Runner Store",
+      "distance": "1.1 mi",
+      "url": "https://www.google.com/maps/search/Road%20Runner%20Store+near+36.071743999999995%2C-94.157224"
+    }
+  ]
+}

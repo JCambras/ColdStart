@@ -1,0 +1,224 @@
+{
+  "quick_bite": [
+    {
+      "name": "Chuck E. Cheese",
+      "distance": "0.3 mi",
+      "url": "https://www.google.com/maps/search/Chuck%20E.%20Cheese+near+38.7871178%2C-104.7929681"
+    },
+    {
+      "name": "Buffalo Wild Wings",
+      "distance": "0.3 mi",
+      "url": "https://www.google.com/maps/search/Buffalo%20Wild%20Wings+near+38.7871178%2C-104.7929681"
+    },
+    {
+      "name": "Outback Steakhouse",
+      "distance": "0.3 mi",
+      "url": "https://www.google.com/maps/search/Outback%20Steakhouse+near+38.7871178%2C-104.7929681"
+    },
+    {
+      "name": "Carrabba's Italian Grill",
+      "distance": "0.4 mi",
+      "url": "https://www.google.com/maps/search/Carrabba's%20Italian%20Grill+near+38.7871178%2C-104.7929681"
+    },
+    {
+      "name": "Cinemark Tinseltown Colorado Springs and XD",
+      "distance": "0.4 mi",
+      "url": "https://www.google.com/maps/search/Cinemark%20Tinseltown%20Colorado%20Springs%20and%20XD+near+38.7871178%2C-104.7929681"
+    },
+    {
+      "name": "Twisted Tenders",
+      "distance": "0.5 mi",
+      "url": "https://www.google.com/maps/search/Twisted%20Tenders+near+38.7871178%2C-104.7929681"
+    },
+    {
+      "name": "Old Chicago Pizza + Taproom",
+      "distance": "0.5 mi",
+      "url": "https://www.google.com/maps/search/Old%20Chicago%20Pizza%20%2B%20Taproom+near+38.7871178%2C-104.7929681"
+    }
+  ],
+  "coffee": [
+    {
+      "name": "McDonald's",
+      "distance": "0.6 mi",
+      "url": "https://www.google.com/maps/search/McDonald's+near+38.7871178%2C-104.7929681"
+    },
+    {
+      "name": "Starbucks Coffee Company",
+      "distance": "0.6 mi",
+      "url": "https://www.google.com/maps/search/Starbucks%20Coffee%20Company+near+38.7871178%2C-104.7929681"
+    },
+    {
+      "name": "Olde World Bagel",
+      "distance": "0.7 mi",
+      "url": "https://www.google.com/maps/search/Olde%20World%20Bagel+near+38.7871178%2C-104.7929681"
+    },
+    {
+      "name": "Starbucks Coffee Company",
+      "distance": "0.8 mi",
+      "url": "https://www.google.com/maps/search/Starbucks%20Coffee%20Company+near+38.7871178%2C-104.7929681"
+    }
+  ],
+  "team_lunch": [
+    {
+      "name": "Chili's Grill & Bar",
+      "distance": "0.7 mi",
+      "url": "https://www.google.com/maps/search/Chili's%20Grill%20%26%20Bar+near+38.7871178%2C-104.7929681"
+    },
+    {
+      "name": "Rusty Crab Daddy",
+      "distance": "0.7 mi",
+      "url": "https://www.google.com/maps/search/Rusty%20Crab%20Daddy+near+38.7871178%2C-104.7929681"
+    },
+    {
+      "name": "Fazoli's",
+      "distance": "0.8 mi",
+      "url": "https://www.google.com/maps/search/Fazoli's+near+38.7871178%2C-104.7929681"
+    }
+  ],
+  "dinner": [
+    {
+      "name": "Bada Japanese Restaurant",
+      "distance": "0.6 mi",
+      "url": "https://www.google.com/maps/search/Bada%20Japanese%20Restaurant+near+38.7871178%2C-104.7929681"
+    },
+    {
+      "name": "Tacos El Korita",
+      "distance": "0.7 mi",
+      "url": "https://www.google.com/maps/search/Tacos%20El%20Korita+near+38.7871178%2C-104.7929681"
+    },
+    {
+      "name": "Las Tres Hermanas Food Truck",
+      "distance": "0.8 mi",
+      "url": "https://www.google.com/maps/search/Las%20Tres%20Hermanas%20Food%20Truck+near+38.7871178%2C-104.7929681"
+    }
+  ],
+  "bowling": [
+    {
+      "name": "Play at The Broadmoor",
+      "distance": "3.2 mi",
+      "url": "https://www.google.com/maps/search/Play%20at%20The%20Broadmoor+near+38.7871178%2C-104.7929681",
+      "isFar": true
+    },
+    {
+      "name": "Thunder Alley Bowling Center",
+      "distance": "3.4 mi",
+      "url": "https://www.google.com/maps/search/Thunder%20Alley%20Bowling%20Center+near+38.7871178%2C-104.7929681",
+      "isFar": true
+    },
+    {
+      "name": "Bowling",
+      "distance": "4.2 mi",
+      "url": "https://www.google.com/maps/search/Bowling+near+38.7871178%2C-104.7929681",
+      "isFar": true
+    },
+    {
+      "name": "AMF Colorado Springs Lanes",
+      "distance": "4.2 mi",
+      "url": "https://www.google.com/maps/search/AMF%20Colorado%20Springs%20Lanes+near+38.7871178%2C-104.7929681",
+      "isFar": true
+    }
+  ],
+  "arcade": [],
+  "movies": [
+    {
+      "name": "The Drive In",
+      "distance": "2.6 mi",
+      "url": "https://www.google.com/maps/search/The%20Drive%20In+near+38.7871178%2C-104.7929681"
+    },
+    {
+      "name": "Kimball's Peak Three Theater",
+      "distance": "3.6 mi",
+      "url": "https://www.google.com/maps/search/Kimball's%20Peak%20Three%20Theater+near+38.7871178%2C-104.7929681",
+      "isFar": true
+    },
+    {
+      "name": "Picture Show at Citadel Crossing",
+      "distance": "4.5 mi",
+      "url": "https://www.google.com/maps/search/Picture%20Show%20at%20Citadel%20Crossing+near+38.7871178%2C-104.7929681",
+      "isFar": true
+    }
+  ],
+  "fun": [
+    {
+      "name": "Break Time Ltd. Mobile Rage Room",
+      "distance": "2.3 mi",
+      "url": "https://www.google.com/maps/search/Break%20Time%20Ltd.%20Mobile%20Rage%20Room+near+38.7871178%2C-104.7929681"
+    },
+    {
+      "name": "Escape the Place",
+      "distance": "4.6 mi",
+      "url": "https://www.google.com/maps/search/Escape%20the%20Place+near+38.7871178%2C-104.7929681",
+      "isFar": true
+    },
+    {
+      "name": "CodeBusters Escape Rooms of Colorado Springs",
+      "distance": "4.7 mi",
+      "url": "https://www.google.com/maps/search/CodeBusters%20Escape%20Rooms%20of%20Colorado%20Springs+near+38.7871178%2C-104.7929681",
+      "isFar": true
+    }
+  ],
+  "hotels": [
+    {
+      "name": "Quail Lake Villa",
+      "distance": "0.3 mi",
+      "url": "https://www.google.com/maps/search/Quail%20Lake%20Villa+near+38.7871178%2C-104.7929681"
+    },
+    {
+      "name": "Hampton Inn & Suites Colorado Springs/I-25 South",
+      "distance": "0.3 mi",
+      "url": "https://www.google.com/maps/search/Hampton%20Inn%20%26%20Suites%20Colorado%20Springs%2FI-25%20South+near+38.7871178%2C-104.7929681"
+    },
+    {
+      "name": "Quiet and cozy Condo walking distance to world arena.",
+      "distance": "0.3 mi",
+      "url": "https://www.google.com/maps/search/Quiet%20and%20cozy%20Condo%20walking%20distance%20to%20world%20arena.+near+38.7871178%2C-104.7929681"
+    },
+    {
+      "name": "Midterm Rental in Beautiful SW, Wifi, Garage, Trail, Sport Court, Broadmoor World Arena",
+      "distance": "0.3 mi",
+      "url": "https://www.google.com/maps/search/Midterm%20Rental%20in%20Beautiful%20SW%2C%20Wifi%2C%20Garage%2C%20Trail%2C%20Sport%20Court%2C%20Broadmoor%20World%20Arena+near+38.7871178%2C-104.7929681"
+    },
+    {
+      "name": "Courtyards",
+      "distance": "0.3 mi",
+      "url": "https://www.google.com/maps/search/Courtyards+near+38.7871178%2C-104.7929681"
+    },
+    {
+      "name": "3-bedroom house/washer dryer cul-de-sac close to Ft Carson/Broadmoor World Arena",
+      "distance": "0.3 mi",
+      "url": "https://www.google.com/maps/search/3-bedroom%20house%2Fwasher%20dryer%20cul-de-sac%20close%20to%20Ft%20Carson%2FBroadmoor%20World%20Arena+near+38.7871178%2C-104.7929681"
+    },
+    {
+      "name": "La Quinta Inn & Suites by Wyndham Colorado Springs South AP",
+      "distance": "0.4 mi",
+      "url": "https://www.google.com/maps/search/La%20Quinta%20Inn%20%26%20Suites%20by%20Wyndham%20Colorado%20Springs%20South%20AP+near+38.7871178%2C-104.7929681"
+    }
+  ],
+  "gas": [
+    {
+      "name": "Phillips 66",
+      "distance": "0.7 mi",
+      "url": "https://www.google.com/maps/search/Phillips%2066+near+38.7871178%2C-104.7929681"
+    },
+    {
+      "name": "Circle K | Gas Station",
+      "distance": "0.7 mi",
+      "url": "https://www.google.com/maps/search/Circle%20K%20%7C%20Gas%20Station+near+38.7871178%2C-104.7929681"
+    },
+    {
+      "name": "PriceAdvantage",
+      "distance": "0.7 mi",
+      "url": "https://www.google.com/maps/search/PriceAdvantage+near+38.7871178%2C-104.7929681"
+    },
+    {
+      "name": "Conoco",
+      "distance": "0.8 mi",
+      "url": "https://www.google.com/maps/search/Conoco+near+38.7871178%2C-104.7929681"
+    },
+    {
+      "name": "Conoco",
+      "distance": "0.8 mi",
+      "url": "https://www.google.com/maps/search/Conoco+near+38.7871178%2C-104.7929681"
+    }
+  ]
+}

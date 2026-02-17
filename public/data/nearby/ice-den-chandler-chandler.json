@@ -1,0 +1,248 @@
+{
+  "quick_bite": [
+    {
+      "name": "Mountain Mike's Pizza",
+      "distance": "0.1 mi",
+      "url": "https://www.google.com/maps/search/Mountain%20Mike's%20Pizza+near+33.3150997%2C-111.96734"
+    },
+    {
+      "name": "Jimmy John's",
+      "distance": "0.1 mi",
+      "url": "https://www.google.com/maps/search/Jimmy%20John's+near+33.3150997%2C-111.96734"
+    },
+    {
+      "name": "The Taco Spot - West Chandler",
+      "distance": "0.2 mi",
+      "url": "https://www.google.com/maps/search/The%20Taco%20Spot%20-%20West%20Chandler+near+33.3150997%2C-111.96734"
+    },
+    {
+      "name": "Chipotle Mexican Grill",
+      "distance": "0.2 mi",
+      "url": "https://www.google.com/maps/search/Chipotle%20Mexican%20Grill+near+33.3150997%2C-111.96734"
+    },
+    {
+      "name": "Chuck E. Cheese",
+      "distance": "4.5 mi",
+      "url": "https://www.google.com/maps/search/Chuck%20E.%20Cheese+near+33.3150997%2C-111.96734",
+      "isFar": true
+    }
+  ],
+  "coffee": [
+    {
+      "name": "Starbucks Coffee Company",
+      "distance": "0.2 mi",
+      "url": "https://www.google.com/maps/search/Starbucks%20Coffee%20Company+near+33.3150997%2C-111.96734"
+    },
+    {
+      "name": "Sam's Club Cafe",
+      "distance": "0.2 mi",
+      "url": "https://www.google.com/maps/search/Sam's%20Club%20Cafe+near+33.3150997%2C-111.96734"
+    }
+  ],
+  "team_lunch": [
+    {
+      "name": "Chicken Boutique",
+      "distance": "0.1 mi",
+      "url": "https://www.google.com/maps/search/Chicken%20Boutique+near+33.3150997%2C-111.96734"
+    },
+    {
+      "name": "Wing SZN - Chandler",
+      "distance": "0.2 mi",
+      "url": "https://www.google.com/maps/search/Wing%20SZN%20-%20Chandler+near+33.3150997%2C-111.96734"
+    },
+    {
+      "name": "Pei Wei Asian Kitchen",
+      "distance": "0.2 mi",
+      "url": "https://www.google.com/maps/search/Pei%20Wei%20Asian%20Kitchen+near+33.3150997%2C-111.96734"
+    },
+    {
+      "name": "BJ's Restaurant & Brewhouse",
+      "distance": "0.3 mi",
+      "url": "https://www.google.com/maps/search/BJ's%20Restaurant%20%26%20Brewhouse+near+33.3150997%2C-111.96734"
+    }
+  ],
+  "dinner": [
+    {
+      "name": "Galeto Brazilian Steakhouse",
+      "distance": "0.1 mi",
+      "url": "https://www.google.com/maps/search/Galeto%20Brazilian%20Steakhouse+near+33.3150997%2C-111.96734"
+    },
+    {
+      "name": "Ahipoki Bowl",
+      "distance": "0.1 mi",
+      "url": "https://www.google.com/maps/search/Ahipoki%20Bowl+near+33.3150997%2C-111.96734"
+    },
+    {
+      "name": "AZ Pho & Grill",
+      "distance": "0.2 mi",
+      "url": "https://www.google.com/maps/search/AZ%20Pho%20%26%20Grill+near+33.3150997%2C-111.96734"
+    },
+    {
+      "name": "Lytebite Chandler",
+      "distance": "0.2 mi",
+      "url": "https://www.google.com/maps/search/Lytebite%20Chandler+near+33.3150997%2C-111.96734"
+    },
+    {
+      "name": "Over Easy",
+      "distance": "0.2 mi",
+      "url": "https://www.google.com/maps/search/Over%20Easy+near+33.3150997%2C-111.96734"
+    },
+    {
+      "name": "Sam's Club Bakery",
+      "distance": "0.2 mi",
+      "url": "https://www.google.com/maps/search/Sam's%20Club%20Bakery+near+33.3150997%2C-111.96734"
+    },
+    {
+      "name": "Flower Child",
+      "distance": "0.2 mi",
+      "url": "https://www.google.com/maps/search/Flower%20Child+near+33.3150997%2C-111.96734"
+    }
+  ],
+  "bowling": [
+    {
+      "name": "Bowlero Kyrene",
+      "distance": "1.3 mi",
+      "url": "https://www.google.com/maps/search/Bowlero%20Kyrene+near+33.3150997%2C-111.96734"
+    },
+    {
+      "name": "AMF McRay Plaza Lanes",
+      "distance": "3.4 mi",
+      "url": "https://www.google.com/maps/search/AMF%20McRay%20Plaza%20Lanes+near+33.3150997%2C-111.96734",
+      "isFar": true
+    },
+    {
+      "name": "Round1 Bowling & Arcade Chandler - Chandler Fashion Center",
+      "distance": "4.0 mi",
+      "url": "https://www.google.com/maps/search/Round1%20Bowling%20%26%20Arcade%20Chandler%20-%20Chandler%20Fashion%20Center+near+33.3150997%2C-111.96734",
+      "isFar": true
+    }
+  ],
+  "arcade": [],
+  "movies": [
+    {
+      "name": "AMC Ahwatukee 24",
+      "distance": "0.6 mi",
+      "url": "https://www.google.com/maps/search/AMC%20Ahwatukee%2024+near+33.3150997%2C-111.96734"
+    },
+    {
+      "name": "Pollack Cinemas",
+      "distance": "4.0 mi",
+      "url": "https://www.google.com/maps/search/Pollack%20Cinemas+near+33.3150997%2C-111.96734",
+      "isFar": true
+    },
+    {
+      "name": "Harkins Theatres Chandler Fashion",
+      "distance": "4.1 mi",
+      "url": "https://www.google.com/maps/search/Harkins%20Theatres%20Chandler%20Fashion+near+33.3150997%2C-111.96734",
+      "isFar": true
+    },
+    {
+      "name": "Harkins Theatres Arizona Mills w/IMAX",
+      "distance": "4.9 mi",
+      "url": "https://www.google.com/maps/search/Harkins%20Theatres%20Arizona%20Mills%20w%2FIMAX+near+33.3150997%2C-111.96734",
+      "isFar": true
+    }
+  ],
+  "fun": [
+    {
+      "name": "Slick City Action Park",
+      "distance": "0.1 mi",
+      "url": "https://www.google.com/maps/search/Slick%20City%20Action%20Park+near+33.3150997%2C-111.96734"
+    },
+    {
+      "name": "Makutu's Island",
+      "distance": "0.4 mi",
+      "url": "https://www.google.com/maps/search/Makutu's%20Island+near+33.3150997%2C-111.96734"
+    },
+    {
+      "name": "Game Show Battle Rooms - Phoenix (Chandler)",
+      "distance": "0.5 mi",
+      "url": "https://www.google.com/maps/search/Game%20Show%20Battle%20Rooms%20-%20Phoenix%20(Chandler)+near+33.3150997%2C-111.96734"
+    },
+    {
+      "name": "Urban Air Trampoline and Adventure Park",
+      "distance": "0.8 mi",
+      "url": "https://www.google.com/maps/search/Urban%20Air%20Trampoline%20and%20Adventure%20Park+near+33.3150997%2C-111.96734"
+    },
+    {
+      "name": "Rush Extreme",
+      "distance": "1.6 mi",
+      "url": "https://www.google.com/maps/search/Rush%20Extreme+near+33.3150997%2C-111.96734"
+    },
+    {
+      "name": "Paranoia Quest Escape The Room",
+      "distance": "1.8 mi",
+      "url": "https://www.google.com/maps/search/Paranoia%20Quest%20Escape%20The%20Room+near+33.3150997%2C-111.96734"
+    },
+    {
+      "name": "Heritage Amusements",
+      "distance": "4.7 mi",
+      "url": "https://www.google.com/maps/search/Heritage%20Amusements+near+33.3150997%2C-111.96734",
+      "isFar": true
+    }
+  ],
+  "hotels": [
+    {
+      "name": "Executive Townhome, Long Term Stays with EV Charging, Gym, Whole Home Water Filt",
+      "distance": "0.2 mi",
+      "url": "https://www.google.com/maps/search/Executive%20Townhome%2C%20Long%20Term%20Stays%20with%20EV%20Charging%2C%20Gym%2C%20Whole%20Home%20Water%20Filt+near+33.3150997%2C-111.96734"
+    },
+    {
+      "name": "Sonesta Select Phoenix Chandler",
+      "distance": "0.3 mi",
+      "url": "https://www.google.com/maps/search/Sonesta%20Select%20Phoenix%20Chandler+near+33.3150997%2C-111.96734"
+    },
+    {
+      "name": "Experience Hot Air Balloon Ride! Relaxing Unit w/ Pool View! Outdoor Pool",
+      "distance": "0.3 mi",
+      "url": "https://www.google.com/maps/search/Experience%20Hot%20Air%20Balloon%20Ride!%20Relaxing%20Unit%20w%2F%20Pool%20View!%20Outdoor%20Pool+near+33.3150997%2C-111.96734"
+    },
+    {
+      "name": "Extended Stay America Suites- Phoenix - Chandler",
+      "distance": "0.4 mi",
+      "url": "https://www.google.com/maps/search/Extended%20Stay%20America%20Suites-%20Phoenix%20-%20Chandler+near+33.3150997%2C-111.96734"
+    },
+    {
+      "name": "Executive King Room, La Quinta Inn Suites, Complimentary Breakfast",
+      "distance": "0.5 mi",
+      "url": "https://www.google.com/maps/search/Executive%20King%20Room%2C%20La%20Quinta%20Inn%20Suites%2C%20Complimentary%20Breakfast+near+33.3150997%2C-111.96734"
+    },
+    {
+      "name": "Modern 3BR/3BA Home in Chandler, Chef’s Kitchen, EV Charger, Community Amenities",
+      "distance": "0.6 mi",
+      "url": "https://www.google.com/maps/search/Modern%203BR%2F3BA%20Home%20in%20Chandler%2C%20Chef%E2%80%99s%20Kitchen%2C%20EV%20Charger%2C%20Community%20Amenities+near+33.3150997%2C-111.96734"
+    },
+    {
+      "name": "Fairfield by Marriott Inn & Suites Phoenix West Chandler",
+      "distance": "0.6 mi",
+      "url": "https://www.google.com/maps/search/Fairfield%20by%20Marriott%20Inn%20%26%20Suites%20Phoenix%20West%20Chandler+near+33.3150997%2C-111.96734"
+    }
+  ],
+  "gas": [
+    {
+      "name": "Sam's Club Gas Station",
+      "distance": "0.1 mi",
+      "url": "https://www.google.com/maps/search/Sam's%20Club%20Gas%20Station+near+33.3150997%2C-111.96734"
+    },
+    {
+      "name": "Circle K | Gas Station",
+      "distance": "0.4 mi",
+      "url": "https://www.google.com/maps/search/Circle%20K%20%7C%20Gas%20Station+near+33.3150997%2C-111.96734"
+    },
+    {
+      "name": "Circle K | Gas Station",
+      "distance": "0.6 mi",
+      "url": "https://www.google.com/maps/search/Circle%20K%20%7C%20Gas%20Station+near+33.3150997%2C-111.96734"
+    },
+    {
+      "name": "Flyers",
+      "distance": "0.6 mi",
+      "url": "https://www.google.com/maps/search/Flyers+near+33.3150997%2C-111.96734"
+    },
+    {
+      "name": "Chandler Chevron and ExtraMile",
+      "distance": "0.7 mi",
+      "url": "https://www.google.com/maps/search/Chandler%20Chevron%20and%20ExtraMile+near+33.3150997%2C-111.96734"
+    }
+  ]
+}

@@ -1,0 +1,243 @@
+{
+  "quick_bite": [
+    {
+      "name": "Chuck E. Cheese",
+      "distance": "0.2 mi",
+      "url": "https://www.google.com/maps/search/Chuck%20E.%20Cheese+near+39.656492%2C-105.0022073"
+    },
+    {
+      "name": "QDOBA Mexican Eats",
+      "distance": "0.3 mi",
+      "url": "https://www.google.com/maps/search/QDOBA%20Mexican%20Eats+near+39.656492%2C-105.0022073"
+    },
+    {
+      "name": "Burger King",
+      "distance": "0.3 mi",
+      "url": "https://www.google.com/maps/search/Burger%20King+near+39.656492%2C-105.0022073"
+    },
+    {
+      "name": "Jersey Mike's Subs",
+      "distance": "0.4 mi",
+      "url": "https://www.google.com/maps/search/Jersey%20Mike's%20Subs+near+39.656492%2C-105.0022073"
+    },
+    {
+      "name": "Noodles and Company",
+      "distance": "0.4 mi",
+      "url": "https://www.google.com/maps/search/Noodles%20and%20Company+near+39.656492%2C-105.0022073"
+    },
+    {
+      "name": "Pizza Hut Express",
+      "distance": "0.5 mi",
+      "url": "https://www.google.com/maps/search/Pizza%20Hut%20Express+near+39.656492%2C-105.0022073"
+    },
+    {
+      "name": "Taco Bell",
+      "distance": "0.5 mi",
+      "url": "https://www.google.com/maps/search/Taco%20Bell+near+39.656492%2C-105.0022073"
+    }
+  ],
+  "coffee": [
+    {
+      "name": "Nixon's Coffee House",
+      "distance": "0.3 mi",
+      "url": "https://www.google.com/maps/search/Nixon's%20Coffee%20House+near+39.656492%2C-105.0022073"
+    },
+    {
+      "name": "Einstein Bros. Bagels",
+      "distance": "0.4 mi",
+      "url": "https://www.google.com/maps/search/Einstein%20Bros.%20Bagels+near+39.656492%2C-105.0022073"
+    },
+    {
+      "name": "McDonald's",
+      "distance": "0.4 mi",
+      "url": "https://www.google.com/maps/search/McDonald's+near+39.656492%2C-105.0022073"
+    },
+    {
+      "name": "Starbucks Coffee Company",
+      "distance": "0.5 mi",
+      "url": "https://www.google.com/maps/search/Starbucks%20Coffee%20Company+near+39.656492%2C-105.0022073"
+    }
+  ],
+  "team_lunch": [
+    {
+      "name": "Tokyo Joe's - Englewood",
+      "distance": "0.3 mi",
+      "url": "https://www.google.com/maps/search/Tokyo%20Joe's%20-%20Englewood+near+39.656492%2C-105.0022073"
+    },
+    {
+      "name": "IHOP",
+      "distance": "0.4 mi",
+      "url": "https://www.google.com/maps/search/IHOP+near+39.656492%2C-105.0022073"
+    },
+    {
+      "name": "Golden Corral Buffet &Grill",
+      "distance": "0.4 mi",
+      "url": "https://www.google.com/maps/search/Golden%20Corral%20Buffet%20%26Grill+near+39.656492%2C-105.0022073"
+    },
+    {
+      "name": "Walmart Bakery",
+      "distance": "0.4 mi",
+      "url": "https://www.google.com/maps/search/Walmart%20Bakery+near+39.656492%2C-105.0022073"
+    },
+    {
+      "name": "Texas Roadhouse",
+      "distance": "0.4 mi",
+      "url": "https://www.google.com/maps/search/Texas%20Roadhouse+near+39.656492%2C-105.0022073"
+    }
+  ],
+  "dinner": [
+    {
+      "name": "The South Restaurant",
+      "distance": "0.4 mi",
+      "url": "https://www.google.com/maps/search/The%20South%20Restaurant+near+39.656492%2C-105.0022073"
+    },
+    {
+      "name": "Los Compitas",
+      "distance": "0.5 mi",
+      "url": "https://www.google.com/maps/search/Los%20Compitas+near+39.656492%2C-105.0022073"
+    },
+    {
+      "name": "Bistro King Asian Restaurant",
+      "distance": "0.5 mi",
+      "url": "https://www.google.com/maps/search/Bistro%20King%20Asian%20Restaurant+near+39.656492%2C-105.0022073"
+    },
+    {
+      "name": "Steakhouse 10",
+      "distance": "0.5 mi",
+      "url": "https://www.google.com/maps/search/Steakhouse%2010+near+39.656492%2C-105.0022073"
+    }
+  ],
+  "bowling": [
+    {
+      "name": "Crown Lanes Bowling Center & Sports Bar",
+      "distance": "1.8 mi",
+      "url": "https://www.google.com/maps/search/Crown%20Lanes%20Bowling%20Center%20%26%20Sports%20Bar+near+39.656492%2C-105.0022073"
+    },
+    {
+      "name": "Bowlero Englewood",
+      "distance": "2.3 mi",
+      "url": "https://www.google.com/maps/search/Bowlero%20Englewood+near+39.656492%2C-105.0022073"
+    }
+  ],
+  "arcade": [],
+  "movies": [
+    {
+      "name": "Regal River Point",
+      "distance": "0.4 mi",
+      "url": "https://www.google.com/maps/search/Regal%20River%20Point+near+39.656492%2C-105.0022073"
+    },
+    {
+      "name": "Regal UA Colorado Center",
+      "distance": "3.7 mi",
+      "url": "https://www.google.com/maps/search/Regal%20UA%20Colorado%20Center+near+39.656492%2C-105.0022073",
+      "isFar": true
+    },
+    {
+      "name": "Landmark's Mayan Theatre",
+      "distance": "4.4 mi",
+      "url": "https://www.google.com/maps/search/Landmark's%20Mayan%20Theatre+near+39.656492%2C-105.0022073",
+      "isFar": true
+    },
+    {
+      "name": "AMC DINE-IN Cherry Creek 8",
+      "distance": "4.9 mi",
+      "url": "https://www.google.com/maps/search/AMC%20DINE-IN%20Cherry%20Creek%208+near+39.656492%2C-105.0022073",
+      "isFar": true
+    },
+    {
+      "name": "Regal SouthGlenn",
+      "distance": "4.9 mi",
+      "url": "https://www.google.com/maps/search/Regal%20SouthGlenn+near+39.656492%2C-105.0022073",
+      "isFar": true
+    }
+  ],
+  "fun": [
+    {
+      "name": "Pirates Cove Water Park",
+      "distance": "2.2 mi",
+      "url": "https://www.google.com/maps/search/Pirates%20Cove%20Water%20Park+near+39.656492%2C-105.0022073"
+    },
+    {
+      "name": "Mystic Escape Room - Littleton",
+      "distance": "3.2 mi",
+      "url": "https://www.google.com/maps/search/Mystic%20Escape%20Room%20-%20Littleton+near+39.656492%2C-105.0022073",
+      "isFar": true
+    },
+    {
+      "name": "House Of Immersions",
+      "distance": "4.7 mi",
+      "url": "https://www.google.com/maps/search/House%20Of%20Immersions+near+39.656492%2C-105.0022073",
+      "isFar": true
+    },
+    {
+      "name": "COLORADO ESCAPE",
+      "distance": "4.7 mi",
+      "url": "https://www.google.com/maps/search/COLORADO%20ESCAPE+near+39.656492%2C-105.0022073",
+      "isFar": true
+    }
+  ],
+  "hotels": [
+    {
+      "name": "Bristle cone mobile home park",
+      "distance": "0.4 mi",
+      "url": "https://www.google.com/maps/search/Bristle%20cone%20mobile%20home%20park+near+39.656492%2C-105.0022073"
+    },
+    {
+      "name": "Royal Mobile Home Park",
+      "distance": "0.4 mi",
+      "url": "https://www.google.com/maps/search/Royal%20Mobile%20Home%20Park+near+39.656492%2C-105.0022073"
+    },
+    {
+      "name": "The Fox Den - Hot Tub",
+      "distance": "0.5 mi",
+      "url": "https://www.google.com/maps/search/The%20Fox%20Den%20-%20Hot%20Tub+near+39.656492%2C-105.0022073"
+    },
+    {
+      "name": "Epic New Home, Prime Location 5BD",
+      "distance": "0.6 mi",
+      "url": "https://www.google.com/maps/search/Epic%20New%20Home%2C%20Prime%20Location%205BD+near+39.656492%2C-105.0022073"
+    },
+    {
+      "name": "Mountain View 3 Bed - 2 Bath Freshly Remodeled\\n\\n",
+      "distance": "0.6 mi",
+      "url": "https://www.google.com/maps/search/Mountain%20View%203%20Bed%20-%202%20Bath%20Freshly%20Remodeled%5Cn%5Cn+near+39.656492%2C-105.0022073"
+    },
+    {
+      "name": "Mage Enterprise, LLC",
+      "distance": "0.6 mi",
+      "url": "https://www.google.com/maps/search/Mage%20Enterprise%2C%20LLC+near+39.656492%2C-105.0022073"
+    },
+    {
+      "name": "1 BR Apt, Patio/Grill, Close Red Rocks & Trails, Fun Area; Walk to Everything",
+      "distance": "0.7 mi",
+      "url": "https://www.google.com/maps/search/1%20BR%20Apt%2C%20Patio%2FGrill%2C%20Close%20Red%20Rocks%20%26%20Trails%2C%20Fun%20Area%3B%20Walk%20to%20Everything+near+39.656492%2C-105.0022073"
+    }
+  ],
+  "gas": [
+    {
+      "name": "Sinclair Gas Station",
+      "distance": "0.4 mi",
+      "url": "https://www.google.com/maps/search/Sinclair%20Gas%20Station+near+39.656492%2C-105.0022073"
+    },
+    {
+      "name": "Shell",
+      "distance": "0.8 mi",
+      "url": "https://www.google.com/maps/search/Shell+near+39.656492%2C-105.0022073"
+    },
+    {
+      "name": "Sunshine Gas",
+      "distance": "0.8 mi",
+      "url": "https://www.google.com/maps/search/Sunshine%20Gas+near+39.656492%2C-105.0022073"
+    },
+    {
+      "name": "Conoco",
+      "distance": "0.8 mi",
+      "url": "https://www.google.com/maps/search/Conoco+near+39.656492%2C-105.0022073"
+    },
+    {
+      "name": "Conoco",
+      "distance": "0.8 mi",
+      "url": "https://www.google.com/maps/search/Conoco+near+39.656492%2C-105.0022073"
+    }
+  ]
+}

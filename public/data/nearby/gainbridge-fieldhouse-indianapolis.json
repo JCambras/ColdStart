@@ -1,0 +1,222 @@
+{
+  "quick_bite": [
+    {
+      "name": "Chick-fil-A",
+      "distance": "0.1 mi",
+      "url": "https://www.google.com/maps/search/Chick-fil-A+near+39.7640434%2C-86.1555367"
+    },
+    {
+      "name": "QDOBA Mexican Eats",
+      "distance": "0.1 mi",
+      "url": "https://www.google.com/maps/search/QDOBA%20Mexican%20Eats+near+39.7640434%2C-86.1555367"
+    },
+    {
+      "name": "Firehouse Dawgs",
+      "distance": "0.1 mi",
+      "url": "https://www.google.com/maps/search/Firehouse%20Dawgs+near+39.7640434%2C-86.1555367"
+    }
+  ],
+  "coffee": [],
+  "team_lunch": [
+    {
+      "name": "Taste Of Innova Wings + Greens",
+      "distance": "0.1 mi",
+      "url": "https://www.google.com/maps/search/Taste%20Of%20Innova%20Wings%20%2B%20Greens+near+39.7640434%2C-86.1555367"
+    },
+    {
+      "name": "Steak 'n Shake",
+      "distance": "0.1 mi",
+      "url": "https://www.google.com/maps/search/Steak%20'n%20Shake+near+39.7640434%2C-86.1555367"
+    },
+    {
+      "name": "Farmer's Fridge",
+      "distance": "0.1 mi",
+      "url": "https://www.google.com/maps/search/Farmer's%20Fridge+near+39.7640434%2C-86.1555367"
+    },
+    {
+      "name": "HotBox Pizza",
+      "distance": "0.1 mi",
+      "url": "https://www.google.com/maps/search/HotBox%20Pizza+near+39.7640434%2C-86.1555367"
+    },
+    {
+      "name": "Steak 'n Shake Headquarters",
+      "distance": "0.1 mi",
+      "url": "https://www.google.com/maps/search/Steak%20'n%20Shake%20Headquarters+near+39.7640434%2C-86.1555367"
+    }
+  ],
+  "dinner": [
+    {
+      "name": "Mambo's Cheesesteak Grill",
+      "distance": "0.1 mi",
+      "url": "https://www.google.com/maps/search/Mambo's%20Cheesesteak%20Grill+near+39.7640434%2C-86.1555367"
+    },
+    {
+      "name": "Sauce on the Side",
+      "distance": "0.1 mi",
+      "url": "https://www.google.com/maps/search/Sauce%20on%20the%20Side+near+39.7640434%2C-86.1555367"
+    },
+    {
+      "name": "Commission Row",
+      "distance": "0.1 mi",
+      "url": "https://www.google.com/maps/search/Commission%20Row+near+39.7640434%2C-86.1555367"
+    },
+    {
+      "name": "Taxman CityWay",
+      "distance": "0.1 mi",
+      "url": "https://www.google.com/maps/search/Taxman%20CityWay+near+39.7640434%2C-86.1555367"
+    },
+    {
+      "name": "Pier 48 Fish House and Oyster Bar",
+      "distance": "0.1 mi",
+      "url": "https://www.google.com/maps/search/Pier%2048%20Fish%20House%20and%20Oyster%20Bar+near+39.7640434%2C-86.1555367"
+    },
+    {
+      "name": "Sushi Den",
+      "distance": "0.1 mi",
+      "url": "https://www.google.com/maps/search/Sushi%20Den+near+39.7640434%2C-86.1555367"
+    },
+    {
+      "name": "Agave and Rye Indianapolis",
+      "distance": "0.1 mi",
+      "url": "https://www.google.com/maps/search/Agave%20and%20Rye%20Indianapolis+near+39.7640434%2C-86.1555367"
+    }
+  ],
+  "bowling": [
+    {
+      "name": "Atomic Bowl Duckpin",
+      "distance": "1.2 mi",
+      "url": "https://www.google.com/maps/search/Atomic%20Bowl%20Duckpin+near+39.7640434%2C-86.1555367"
+    }
+  ],
+  "arcade": [],
+  "movies": [
+    {
+      "name": "IMAX Theatre in the Indiana State Museum",
+      "distance": "0.8 mi",
+      "url": "https://www.google.com/maps/search/IMAX%20Theatre%20in%20the%20Indiana%20State%20Museum+near+39.7640434%2C-86.1555367"
+    },
+    {
+      "name": "Living Room Theaters",
+      "distance": "1.2 mi",
+      "url": "https://www.google.com/maps/search/Living%20Room%20Theaters+near+39.7640434%2C-86.1555367"
+    },
+    {
+      "name": "Kan-Kan Cinema & Bar",
+      "distance": "2.0 mi",
+      "url": "https://www.google.com/maps/search/Kan-Kan%20Cinema%20%26%20Bar+near+39.7640434%2C-86.1555367"
+    },
+    {
+      "name": "Tibbs Drive-In",
+      "distance": "3.3 mi",
+      "url": "https://www.google.com/maps/search/Tibbs%20Drive-In+near+39.7640434%2C-86.1555367",
+      "isFar": true
+    },
+    {
+      "name": "AMC Indianapolis 17",
+      "distance": "4.3 mi",
+      "url": "https://www.google.com/maps/search/AMC%20Indianapolis%2017+near+39.7640434%2C-86.1555367",
+      "isFar": true
+    }
+  ],
+  "fun": [
+    {
+      "name": "The Escape Room Indianapolis",
+      "distance": "0.2 mi",
+      "url": "https://www.google.com/maps/search/The%20Escape%20Room%20Indianapolis+near+39.7640434%2C-86.1555367"
+    },
+    {
+      "name": "9D VR Experience",
+      "distance": "0.3 mi",
+      "url": "https://www.google.com/maps/search/9D%20VR%20Experience+near+39.7640434%2C-86.1555367"
+    },
+    {
+      "name": "PanIQ Escape Room Indy",
+      "distance": "0.3 mi",
+      "url": "https://www.google.com/maps/search/PanIQ%20Escape%20Room%20Indy+near+39.7640434%2C-86.1555367"
+    },
+    {
+      "name": "The Sim Garage @ Bottleworks by Dallara - AK Esports",
+      "distance": "1.3 mi",
+      "url": "https://www.google.com/maps/search/The%20Sim%20Garage%20%40%20Bottleworks%20by%20Dallara%20-%20AK%20Esports+near+39.7640434%2C-86.1555367"
+    },
+    {
+      "name": "Sandbox VR",
+      "distance": "1.3 mi",
+      "url": "https://www.google.com/maps/search/Sandbox%20VR+near+39.7640434%2C-86.1555367"
+    },
+    {
+      "name": "Splash Pad",
+      "distance": "1.7 mi",
+      "url": "https://www.google.com/maps/search/Splash%20Pad+near+39.7640434%2C-86.1555367"
+    },
+    {
+      "name": "Splash Pad",
+      "distance": "2.5 mi",
+      "url": "https://www.google.com/maps/search/Splash%20Pad+near+39.7640434%2C-86.1555367"
+    }
+  ],
+  "hotels": [
+    {
+      "name": "Hyatt House Indianapolis / Downtown",
+      "distance": "0.1 mi",
+      "url": "https://www.google.com/maps/search/Hyatt%20House%20Indianapolis%20%2F%20Downtown+near+39.7640434%2C-86.1555367"
+    },
+    {
+      "name": "Hyatt Place Indianapolis / Downtown",
+      "distance": "0.1 mi",
+      "url": "https://www.google.com/maps/search/Hyatt%20Place%20Indianapolis%20%2F%20Downtown+near+39.7640434%2C-86.1555367"
+    },
+    {
+      "name": "Landing Modern Apartment with Amazing Amenities (ID2029X82) - Apartment",
+      "distance": "0.1 mi",
+      "url": "https://www.google.com/maps/search/Landing%20Modern%20Apartment%20with%20Amazing%20Amenities%20(ID2029X82)%20-%20Apartment+near+39.7640434%2C-86.1555367"
+    },
+    {
+      "name": "Downtown Indy Apartment w/ Balcony, Pool & Parking",
+      "distance": "0.1 mi",
+      "url": "https://www.google.com/maps/search/Downtown%20Indy%20Apartment%20w%2F%20Balcony%2C%20Pool%20%26%20Parking+near+39.7640434%2C-86.1555367"
+    },
+    {
+      "name": "Downtown apartment w/ free parking",
+      "distance": "0.1 mi",
+      "url": "https://www.google.com/maps/search/Downtown%20apartment%20w%2F%20free%20parking+near+39.7640434%2C-86.1555367"
+    },
+    {
+      "name": "2 Downtown corner units with free parking",
+      "distance": "0.1 mi",
+      "url": "https://www.google.com/maps/search/2%20Downtown%20corner%20units%20with%20free%20parking+near+39.7640434%2C-86.1555367"
+    },
+    {
+      "name": "4 Downtown combined units with free parking",
+      "distance": "0.1 mi",
+      "url": "https://www.google.com/maps/search/4%20Downtown%20combined%20units%20with%20free%20parking+near+39.7640434%2C-86.1555367"
+    }
+  ],
+  "gas": [
+    {
+      "name": "bp",
+      "distance": "0.5 mi",
+      "url": "https://www.google.com/maps/search/bp+near+39.7640434%2C-86.1555367"
+    },
+    {
+      "name": "Marathon Gas",
+      "distance": "0.7 mi",
+      "url": "https://www.google.com/maps/search/Marathon%20Gas+near+39.7640434%2C-86.1555367"
+    },
+    {
+      "name": "Speedway",
+      "distance": "0.7 mi",
+      "url": "https://www.google.com/maps/search/Speedway+near+39.7640434%2C-86.1555367"
+    },
+    {
+      "name": "Marathon Gas",
+      "distance": "0.7 mi",
+      "url": "https://www.google.com/maps/search/Marathon%20Gas+near+39.7640434%2C-86.1555367"
+    },
+    {
+      "name": "bp",
+      "distance": "0.9 mi",
+      "url": "https://www.google.com/maps/search/bp+near+39.7640434%2C-86.1555367"
+    }
+  ]
+}

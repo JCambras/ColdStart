@@ -1,0 +1,183 @@
+{
+  "quick_bite": [
+    {
+      "name": "Subway",
+      "distance": "0.5 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Subway&query_place_id=ChIJA3zT1LS054kR2VizyofyRMU&center=41.6065167,-72.7099819"
+    },
+    {
+      "name": "PizzaPie Cromwell Delivery",
+      "distance": "0.5 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=PizzaPie%20Cromwell%20Delivery&query_place_id=ChIJ_f_mDEtL5okRrpEnith0h7Y&center=41.6066396,-72.70740719999999"
+    },
+    {
+      "name": "It's Just Wings",
+      "distance": "0.6 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=It's%20Just%20Wings&query_place_id=ChIJF-IRmNlL5okRUGjooF-1eNM&center=41.606421,-72.705995"
+    },
+    {
+      "name": "Burger King",
+      "distance": "0.6 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Burger%20King&query_place_id=ChIJB7gkDpNga4gRet4DOLFl2GA&center=41.605607299999996,-72.7072355"
+    },
+    {
+      "name": "Barb's Pizza Cromwell",
+      "distance": "1.2 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Barb's%20Pizza%20Cromwell&query_place_id=ChIJa9XydQBL5okR04kKs_9_cmw&center=41.6015112,-72.6937367"
+    },
+    {
+      "name": "Jefferson Fry Company",
+      "distance": "1.6 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Jefferson%20Fry%20Company&query_place_id=ChIJ54Kmw7lL5okR7tFKepL7Yqo&center=41.601914,-72.6835267"
+    }
+  ],
+  "coffee": [
+    {
+      "name": "Starbucks Coffee Company",
+      "distance": "0.6 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Starbucks%20Coffee%20Company&query_place_id=ChIJc-_DastL5okRl65jwWBZWDY&center=41.60592,-72.7081"
+    },
+    {
+      "name": "Dunkin'",
+      "distance": "0.6 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Dunkin'&query_place_id=ChIJ4azh5UpL5okRPQAo3nBCbM8&center=41.6050592,-72.7079205"
+    }
+  ],
+  "team_lunch": [
+    {
+      "name": "The Bistro - Eat. Drink. Connect.®",
+      "distance": "0.5 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=The%20Bistro%20-%20Eat.%20Drink.%20Connect.%C2%AE&query_place_id=ChIJcTJnpEtL5okRM46TCsOG3f0&center=41.607143699999995,-72.7060587"
+    },
+    {
+      "name": "Chili's Grill & Bar",
+      "distance": "0.6 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Chili's%20Grill%20%26%20Bar&query_place_id=ChIJpeep-UpL5okRAfkJpLmGIYE&center=41.606421,-72.705995"
+    },
+    {
+      "name": "Sean’s Bakery",
+      "distance": "1.5 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Sean%E2%80%99s%20Bakery&query_place_id=ChIJd1SAEwBT5okRmn2WK2xAeik&center=41.6332439,-72.6970583"
+    },
+    {
+      "name": "HoneyGirl Bakery",
+      "distance": "1.9 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=HoneyGirl%20Bakery&query_place_id=ChIJNd4GFVdL5okR6Hg_SFWUhfw&center=41.6152945,-72.6732859"
+    },
+    {
+      "name": "Whimsical Moon Baking Co.",
+      "distance": "2.8 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Whimsical%20Moon%20Baking%20Co.&query_place_id=ChIJmdoou5O154kRHi4becO5CnU&center=41.5736656,-72.71559359999999"
+    }
+  ],
+  "dinner": [
+    {
+      "name": "The 1851",
+      "distance": "0.2 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=The%201851&query_place_id=ChIJ59Z3WgBL5okRmyMFXHYo-kc&center=41.6129846,-72.7074981"
+    },
+    {
+      "name": "Mizzu Asian Bistro & Hibachi",
+      "distance": "0.5 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Mizzu%20Asian%20Bistro%20%26%20Hibachi&query_place_id=ChIJDdDy5VFL5okRFqfJ8l1WeAE&center=41.6066812,-72.70744669999999"
+    },
+    {
+      "name": "Gyro Love Cromwell Delivery",
+      "distance": "0.5 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Gyro%20Love%20Cromwell%20Delivery&query_place_id=ChIJeVCpiuhL5okRH2iM0bgF48A&center=41.606641599999996,-72.70741819999999"
+    },
+    {
+      "name": "Cafe Fiore Cromwell",
+      "distance": "0.6 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Cafe%20Fiore%20Cromwell&query_place_id=ChIJ-5Tah69L5okR-xr_KoUckkw&center=41.6059951,-72.7085647"
+    },
+    {
+      "name": "Cromwell Diner",
+      "distance": "0.6 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Cromwell%20Diner&query_place_id=ChIJSZsy0UpL5okRYdhEMrMxi-4&center=41.6056144,-72.70928839999999"
+    },
+    {
+      "name": "Uncle D's Diner",
+      "distance": "0.9 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Uncle%20D's%20Diner&query_place_id=ChIJJZt-rKS054kRp-92WGr845g&center=41.6158558,-72.72696959999999"
+    }
+  ],
+  "bowling": [],
+  "arcade": [],
+  "movies": [
+    {
+      "name": "Picture Show at Berlin",
+      "distance": "2.0 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Picture%20Show%20at%20Berlin&query_place_id=ChIJVamXjWKz54kRHKIMs8B4CLk&center=41.6293675,-72.74343900000001"
+    }
+  ],
+  "fun": [
+    {
+      "name": "Puzzle Theory Middletown",
+      "distance": "2.8 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Puzzle%20Theory%20Middletown&query_place_id=ChIJURLcQCVL5okRsFGEtk1vcmA&center=41.583814499999995,-72.6740377"
+    },
+    {
+      "name": "Sergeant Stubby Statue",
+      "distance": "4.3 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Sergeant%20Stubby%20Statue&query_place_id=ChIJXUTjrhVL5okRpLBStbqM2jo&center=41.5597,-72.6703",
+      "isFar": true
+    },
+    {
+      "name": "Diversión Connecticut",
+      "distance": "4.3 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Diversi%C3%B3n%20Connecticut&query_place_id=ChIJX3HoWwBL5okR-VY0BUoxLvs&center=41.5752063,-72.64500129999999",
+      "isFar": true
+    },
+    {
+      "name": "Brownstone Adventure Sports Park",
+      "distance": "4.3 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Brownstone%20Adventure%20Sports%20Park&query_place_id=ChIJOwTLZ7NL5okRMbp45fDDBI0&center=41.575015,-72.645055",
+      "isFar": true
+    }
+  ],
+  "hotels": [
+    {
+      "name": "Courtyard by Marriott Hartford Cromwell",
+      "distance": "0.5 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Courtyard%20by%20Marriott%20Hartford%20Cromwell&query_place_id=ChIJpeep-UpL5okR0fqsLyg2i3o&center=41.6070533,-72.7061619"
+    },
+    {
+      "name": "Super 8 by Wyndham Cromwell/Middletown",
+      "distance": "0.7 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Super%208%20by%20Wyndham%20Cromwell%2FMiddletown&query_place_id=ChIJUcFXb0pL5okRSjUCMCKl9WA&center=41.6039554,-72.7059328"
+    },
+    {
+      "name": "Quality Inn Cromwell - Middletown - King Room - Non-Smoking",
+      "distance": "0.9 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Quality%20Inn%20Cromwell%20-%20Middletown%20-%20King%20Room%20-%20Non-Smoking&query_place_id=ChIJ960_MkhL5okRoQkFAsNfxn8&center=41.6029396,-72.70056149999999"
+    },
+    {
+      "name": "Quality Inn Cromwell - Middletown",
+      "distance": "0.9 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Quality%20Inn%20Cromwell%20-%20Middletown&query_place_id=ChIJAVVAyUlL5okRy1quX9m92X4&center=41.6027421,-72.7006201"
+    }
+  ],
+  "gas": [
+    {
+      "name": "BISHOP'S CITGO",
+      "distance": "0.5 mi",
+      "url": "https://www.google.com/maps/search/BISHOP'S%20CITGO+near+41.614201%2C-72.71003499999999"
+    },
+    {
+      "name": "Mobil",
+      "distance": "0.7 mi",
+      "url": "https://www.google.com/maps/search/Mobil+near+41.614201%2C-72.71003499999999"
+    },
+    {
+      "name": "Sunoco",
+      "distance": "0.9 mi",
+      "url": "https://www.google.com/maps/search/Sunoco+near+41.614201%2C-72.71003499999999"
+    },
+    {
+      "name": "Gas Station - Stop and Shop",
+      "distance": "1.8 mi",
+      "url": "https://www.google.com/maps/search/Gas%20Station%20-%20Stop%20and%20Shop+near+41.614201%2C-72.71003499999999"
+    }
+  ]
+}

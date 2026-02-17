@@ -1,0 +1,167 @@
+{
+  "quick_bite": [
+    {
+      "name": "Carla's Kitchen",
+      "distance": "0.9 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Carla's%20Kitchen&query_place_id=ChIJK4-Wf-2T6IkRCmlpziQ_yqU&center=40.885081799999995,-72.431767"
+    },
+    {
+      "name": "Burger King",
+      "distance": "1.1 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Burger%20King&query_place_id=ChIJ3Rjon-yU6IkRvif0Cl6F3qQ&center=40.8972322,-72.40086529999999"
+    },
+    {
+      "name": "Dragon Garden",
+      "distance": "1.2 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Dragon%20Garden&query_place_id=ChIJV7BKgOuU6IkRnQ8EdIuc5RQ&center=40.897106099999995,-72.39896019999999"
+    },
+    {
+      "name": "La Hacienda Mexican Grill",
+      "distance": "1.6 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=La%20Hacienda%20Mexican%20Grill&query_place_id=ChIJhzjHFMOU6IkRqRV3wM8jZes&center=40.8874423,-72.392178"
+    }
+  ],
+  "coffee": [
+    {
+      "name": "Shinnecock Eats Cafe",
+      "distance": "0.8 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Shinnecock%20Eats%20Cafe&query_place_id=ChIJH3BuuRGT6IkRnG7brYTm404&center=40.88474,-72.42774899999999"
+    },
+    {
+      "name": "Dunkin'",
+      "distance": "1.1 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Dunkin'&query_place_id=ChIJecZTyJaU6IkR0sZVc6rIagw&center=40.8962137,-72.3991551"
+    },
+    {
+      "name": "Tate's Bake Shop",
+      "distance": "1.5 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Tate's%20Bake%20Shop&query_place_id=ChIJkymT8MKU6IkRySfj9098oYM&center=40.889693199999996,-72.3928019"
+    },
+    {
+      "name": "Alpina Swiss Bakery",
+      "distance": "3.6 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Alpina%20Swiss%20Bakery&query_place_id=ChIJeYiH2XuV6IkR_2TFWiz8D9w&center=40.9100057,-72.354457",
+      "isFar": true
+    }
+  ],
+  "team_lunch": [
+    {
+      "name": "Enramada",
+      "distance": "0.4 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Enramada&query_place_id=ChIJqzGch5eU6IkRFd-GEl8NkOc&center=40.8969263,-72.41376489999999"
+    },
+    {
+      "name": "The Chicken Spot Inc",
+      "distance": "1.2 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=The%20Chicken%20Spot%20Inc&query_place_id=ChIJSxG4PeqU6IkRuExf_UmeB6w&center=40.8934229,-72.3972368"
+    }
+  ],
+  "dinner": [
+    {
+      "name": "Local Burger - Southampton Restaurant and Bar",
+      "distance": "0.1 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Local%20Burger%20-%20Southampton%20Restaurant%20and%20Bar&query_place_id=ChIJcXA1D9KV6IkR9T0_9mGeNdw&center=40.894596,-72.42084539999999"
+    },
+    {
+      "name": "Melrose East Restaurant and Pizza",
+      "distance": "0.2 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Melrose%20East%20Restaurant%20and%20Pizza&query_place_id=ChIJx7zqnKCU6IkRCdaGQKBzaEU&center=40.89342250000001,-72.4251543"
+    },
+    {
+      "name": "Goldberg's Famous Bagels",
+      "distance": "0.2 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Goldberg's%20Famous%20Bagels&query_place_id=ChIJfWQfoqCU6IkRhLZdVhgPTQI&center=40.893423,-72.42528399999999"
+    },
+    {
+      "name": "Shinnecock Lobster Factory",
+      "distance": "0.8 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Shinnecock%20Lobster%20Factory&query_place_id=ChIJxdgSrVeT6IkRviuWLqRDmtM&center=40.8846815,-72.4278106"
+    },
+    {
+      "name": "The Island cafe",
+      "distance": "0.8 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=The%20Island%20cafe&query_place_id=ChIJ_RbjnQ2T6IkRJoniPrxQG7k&center=40.884916499999996,-72.4302907"
+    },
+    {
+      "name": "Slice of the Hamptons",
+      "distance": "1.1 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Slice%20of%20the%20Hamptons&query_place_id=ChIJf81ROcyV6IkR64KImkiTk_I&center=40.896205099999996,-72.39917009999999"
+    }
+  ],
+  "bowling": [],
+  "arcade": [],
+  "movies": [
+    {
+      "name": "Southampton Playhouse",
+      "distance": "1.6 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Southampton%20Playhouse&query_place_id=ChIJU68m2yyV6IkRKUEryffCTGw&center=40.8840095,-72.3944794"
+    },
+    {
+      "name": "Regal UA Hampton Bays",
+      "distance": "5.8 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Regal%20UA%20Hampton%20Bays&query_place_id=ChIJDxXnoKPy6IkRQzLyamS6M64&center=40.876390099999995,-72.52944699999999",
+      "isFar": true
+    },
+    {
+      "name": "Mattituck Cinemas",
+      "distance": "8.8 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Mattituck%20Cinemas&query_place_id=ChIJTXNJ0BOO6IkRmNH_pcBdFng&center=40.9862325,-72.53862079999999",
+      "isFar": true
+    }
+  ],
+  "fun": [
+    {
+      "name": "Hampton Scooby",
+      "distance": "4.1 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Hampton%20Scooby&query_place_id=ChIJPZSohJ2W6IkRtR5tTbnHSuw&center=40.9508966,-72.3936508",
+      "isFar": true
+    },
+    {
+      "name": "Random Airplane",
+      "distance": "4.5 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Random%20Airplane&query_place_id=ChIJa7KDcgCV6IkRsEvVBEnF83c&center=40.895576,-72.3346207",
+      "isFar": true
+    },
+    {
+      "name": "Peconic Bay Sunset Cruises",
+      "distance": "7.9 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Peconic%20Bay%20Sunset%20Cruises&query_place_id=ChIJv_EPSlaR6IkRZhvSR6kNqKA&center=41.007560600000005,-72.44732379999999",
+      "isFar": true
+    },
+    {
+      "name": "Cedar Beach Point",
+      "distance": "9.8 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Cedar%20Beach%20Point&query_place_id=ChIJn2c92_KZ6IkR4n4MtZkW3GI&center=41.0349389,-72.3887226",
+      "isFar": true
+    }
+  ],
+  "hotels": [
+    {
+      "name": "Summer in the Hamptons",
+      "distance": "0.1 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Summer%20in%20the%20Hamptons&query_place_id=ChIJj2U1OKKU6IkRlbzbjWUHR2E&center=40.8936729,-72.4185944"
+    }
+  ],
+  "gas": [
+    {
+      "name": "Speedway",
+      "distance": "0.3 mi",
+      "url": "https://www.google.com/maps/search/Speedway+near+40.8945679%2C-72.4209904"
+    },
+    {
+      "name": "Sunoco",
+      "distance": "0.3 mi",
+      "url": "https://www.google.com/maps/search/Sunoco+near+40.8945679%2C-72.4209904"
+    },
+    {
+      "name": "Enstine Fuel Inc",
+      "distance": "0.8 mi",
+      "url": "https://www.google.com/maps/search/Enstine%20Fuel%20Inc+near+40.8945679%2C-72.4209904"
+    },
+    {
+      "name": "bp",
+      "distance": "1.2 mi",
+      "url": "https://www.google.com/maps/search/bp+near+40.8945679%2C-72.4209904"
+    }
+  ]
+}

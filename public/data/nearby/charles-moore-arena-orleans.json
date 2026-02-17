@@ -1,0 +1,185 @@
+{
+  "quick_bite": [
+    {
+      "name": "ZENSHI Handcrafted Sushi",
+      "distance": "0.4 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=ZENSHI%20Handcrafted%20Sushi&query_place_id=ChIJAXm_ejtr-4kRQ848xHlQqg4&center=41.7796204,-70.0025003"
+    },
+    {
+      "name": "Centrally located Orleans home w/ outdoor seatiing",
+      "distance": "0.4 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Centrally%20located%20Orleans%20home%20w%2F%20outdoor%20seatiing&query_place_id=ChIJd81uJTJq-4kRLsOwuH406zg&center=41.775031999999996,-70.0079956"
+    },
+    {
+      "name": "Ardath’s",
+      "distance": "1.6 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Ardath%E2%80%99s&query_place_id=ChIJcW2CHABp-4kRvaPAx0K7ldI&center=41.7946817,-70.01650459999999"
+    },
+    {
+      "name": "Wendy's",
+      "distance": "1.8 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Wendy's&query_place_id=ChIJSdu6B2xp-4kRMchOTbgsDhs&center=41.7971479,-69.983876"
+    },
+    {
+      "name": "Subway",
+      "distance": "4.6 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Subway&query_place_id=ChIJc0vuWDQV-4kRMHKow5rlTHY&center=41.7098215,-70.0235641",
+      "isFar": true
+    },
+    {
+      "name": "Remo's Pizzeria",
+      "distance": "4.9 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Remo's%20Pizzeria&query_place_id=ChIJ9UShwdZp-4kRdcVwT7XwWns&center=41.844397199999996,-69.9830741",
+      "isFar": true
+    }
+  ],
+  "coffee": [
+    {
+      "name": "Dunkin'",
+      "distance": "0.9 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Dunkin'&query_place_id=ChIJa2UzoH1p-4kRuX2-dYJ7JxU&center=41.7866287,-69.99479939999999"
+    },
+    {
+      "name": "Corner Store",
+      "distance": "1.0 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Corner%20Store&query_place_id=ChIJYY-uR2Np-4kRiT2VGw8MqPQ&center=41.786698799999996,-69.9899269"
+    },
+    {
+      "name": "Hot Chocolate Sparrow",
+      "distance": "1.0 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Hot%20Chocolate%20Sparrow&query_place_id=ChIJK9c7g3xp-4kRDsUKuAzChYk&center=41.788269,-69.993219"
+    }
+  ],
+  "team_lunch": [
+    {
+      "name": "Izzo's Pizza",
+      "distance": "0.6 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Izzo's%20Pizza&query_place_id=ChIJdRdqLl1r-4kRmgNJAUipioM&center=41.7824107,-69.9978556"
+    },
+    {
+      "name": "Hog Island Beer Co.",
+      "distance": "0.6 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Hog%20Island%20Beer%20Co.&query_place_id=ChIJPXHhG9Vr-4kR0XkMsG-CG-U&center=41.782981299999996,-70.0006342"
+    }
+  ],
+  "dinner": [
+    {
+      "name": "THE ALLEY BOWLING & BBQ",
+      "distance": "0.5 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=THE%20ALLEY%20BOWLING%20%26%20BBQ&query_place_id=ChIJJdpQOdRr-4kR6fQuiV9f0bc&center=41.7812455,-69.99786379999999"
+    },
+    {
+      "name": "Beacon Room",
+      "distance": "0.6 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Beacon%20Room&query_place_id=ChIJp4pS29Rr-4kRAHd3A-Krlpg&center=41.7823333,-70.0015222"
+    },
+    {
+      "name": "Abroad",
+      "distance": "0.7 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Abroad&query_place_id=ChIJWSMYaNRr-4kR7Vq3jUVw2tI&center=41.783991,-70.0015358"
+    },
+    {
+      "name": "Navillus Bar & Grill",
+      "distance": "0.9 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Navillus%20Bar%20%26%20Grill&query_place_id=ChIJNRdN5htp-4kRX14uaV1NtF0&center=41.7860161,-69.9951036"
+    },
+    {
+      "name": "Viv's Kitchen & Juice Bar",
+      "distance": "0.9 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Viv's%20Kitchen%20%26%20Juice%20Bar&query_place_id=ChIJSVBIUnxp-4kRcI3G9Cm1K60&center=41.7864468,-69.9944222"
+    },
+    {
+      "name": "Jo Mama's",
+      "distance": "0.9 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Jo%20Mama's&query_place_id=ChIJtR_H-nxp-4kRIWI6PwhUDzY&center=41.786059699999996,-69.99297729999999"
+    }
+  ],
+  "bowling": [],
+  "arcade": [],
+  "movies": [
+    {
+      "name": "Chatham Orpheum Theater",
+      "distance": "6.7 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Chatham%20Orpheum%20Theater&query_place_id=ChIJkfE4-aEU-4kRup_rY3s83ug&center=41.682415,-69.9607257",
+      "isFar": true
+    },
+    {
+      "name": "Wellfleet Drive-In Theater & Cinemas",
+      "distance": "7.1 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Wellfleet%20Drive-In%20Theater%20%26%20Cinemas&query_place_id=ChIJg6AblEdm-4kRanJPTavcVOM&center=41.877440899999996,-69.9918201",
+      "isFar": true
+    },
+    {
+      "name": "Wellfleet Cinemas",
+      "distance": "7.3 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Wellfleet%20Cinemas&query_place_id=ChIJF0soCgBn-4kR2tguxbNR054&center=41.879382,-69.98893939999999",
+      "isFar": true
+    }
+  ],
+  "fun": [
+    {
+      "name": "Orleans Staples Rock",
+      "distance": "0.8 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Orleans%20Staples%20Rock&query_place_id=ChIJHZ7dbgBp-4kRABltgzSuOgg&center=41.785774100000005,-69.9947474"
+    },
+    {
+      "name": "River Road Town Landing",
+      "distance": "1.5 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=River%20Road%20Town%20Landing&query_place_id=ChIJg5UPZvNp-4kRtJXdUCc3e5o&center=41.779321599999996,-69.9715724"
+    },
+    {
+      "name": "Jonathan Young Windmill",
+      "distance": "1.6 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Jonathan%20Young%20Windmill&query_place_id=ChIJW9zq22Rp-4kR1N_EBJRsF5A&center=41.7937237,-69.98372619999999"
+    },
+    {
+      "name": "Rock Harbor Beach",
+      "distance": "1.8 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Rock%20Harbor%20Beach&query_place_id=ChIJo1QCZ7Bp-4kRuRhZOzOAAs8&center=41.7999107,-70.0091217"
+    }
+  ],
+  "hotels": [
+    {
+      "name": "close to town and Nauset beach, EV charger, air conditioning, outdoor shower.",
+      "distance": "0.1 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=close%20to%20town%20and%20Nauset%20beach%2C%20EV%20charger%2C%20air%20conditioning%2C%20outdoor%20shower.&query_place_id=ChIJl1G758xr-4kRmM2bKZqGT9w&center=41.772998799999996,-70.0009994"
+    },
+    {
+      "name": "Highly Rated Cottage in Orleans, Cape Cod",
+      "distance": "0.2 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Highly%20Rated%20Cottage%20in%20Orleans%2C%20Cape%20Cod&query_place_id=ChIJ0xf6UTNq-4kRv2S1quZDG38&center=41.7716637,-70.00307459999999"
+    },
+    {
+      "name": "Walking distance to Orleans, stores and baseball games! Close to bay and ocean!",
+      "distance": "0.4 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Walking%20distance%20to%20Orleans%2C%20stores%20and%20baseball%20games!%20Close%20to%20bay%20and%20ocean!&query_place_id=ChIJnZtc-9Nr-4kR4j1n0QDMqF0&center=41.7790489,-69.99713129999999"
+    },
+    {
+      "name": "Walking distance to Orleans, stores and baseball games! Close to bay and ocean!",
+      "distance": "0.4 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Walking%20distance%20to%20Orleans%2C%20stores%20and%20baseball%20games!%20Close%20to%20bay%20and%20ocean!&query_place_id=ChIJv7Rc-9Nr-4kRzCX6sC1RamI&center=41.7790527,-69.99713899999999"
+    }
+  ],
+  "gas": [
+    {
+      "name": "Citgo",
+      "distance": "0.7 mi",
+      "url": "https://www.google.com/maps/search/Citgo+near+41.774391099999995%2C-70.0007193"
+    },
+    {
+      "name": "Mobil",
+      "distance": "1.0 mi",
+      "url": "https://www.google.com/maps/search/Mobil+near+41.774391099999995%2C-70.0007193"
+    },
+    {
+      "name": "Alltown",
+      "distance": "1.0 mi",
+      "url": "https://www.google.com/maps/search/Alltown+near+41.774391099999995%2C-70.0007193"
+    },
+    {
+      "name": "Sunoco",
+      "distance": "1.1 mi",
+      "url": "https://www.google.com/maps/search/Sunoco+near+41.774391099999995%2C-70.0007193"
+    }
+  ]
+}

@@ -1,0 +1,160 @@
+{
+  "quick_bite": [
+    {
+      "name": "Subway",
+      "distance": "2.5 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Subway&query_place_id=ChIJ2aN2e1mC0IkRZTAgO4cygYU&center=42.4844127,-76.48782779999999"
+    },
+    {
+      "name": "Subway",
+      "distance": "2.5 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Subway&query_place_id=ChIJT4VR-lKD0IkRGIGQ4d_YWz8&center=42.4835383,-76.49106660000001"
+    },
+    {
+      "name": "Taco Bell",
+      "distance": "2.7 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Taco%20Bell&query_place_id=ChIJSy3Scp2D0IkRSMuJOYjBp9c&center=42.4820482,-76.48366349999999"
+    },
+    {
+      "name": "Louie’s Food Truck",
+      "distance": "4.6 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Louie%E2%80%99s%20Food%20Truck&query_place_id=ChIJsxIqjGaD0IkR8eEXTmJaJoE&center=42.453372099999996,-76.48126189999999",
+      "isFar": true
+    }
+  ],
+  "coffee": [
+    {
+      "name": "Great Start Coffee Cart",
+      "distance": "1.5 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Great%20Start%20Coffee%20Cart&query_place_id=ChIJKUmoPgCd0IkRdgq9Ey2QLKQ&center=42.5392491,-76.49323580000001"
+    },
+    {
+      "name": "Dunkin'",
+      "distance": "1.5 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Dunkin'&query_place_id=ChIJjUqkcSWd0IkRHgUnZWFufBQ&center=42.5388642,-76.491737"
+    },
+    {
+      "name": "Starbucks Coffee Company",
+      "distance": "2.4 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Starbucks%20Coffee%20Company&query_place_id=ChIJg93g2VuC0IkRM7asdA2XV_I&center=42.48523,-76.49114"
+    },
+    {
+      "name": "Mama Said Hand Pies Cafe - Ulysses",
+      "distance": "4.9 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Mama%20Said%20Hand%20Pies%20Cafe%20-%20Ulysses&query_place_id=ChIJlxNEPtyF0IkR7YRij2w5gPw&center=42.494332199999995,-76.5944574",
+      "isFar": true
+    }
+  ],
+  "team_lunch": [
+    {
+      "name": "BJ's Bakery",
+      "distance": "2.2 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=BJ's%20Bakery&query_place_id=ChIJg4-OcVeC0IkR2MaC5ZHVSpg&center=42.4866546,-76.49250599999999"
+    },
+    {
+      "name": "Auntie Anne's",
+      "distance": "2.5 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Auntie%20Anne's&query_place_id=ChIJs99wCFqC0IkR7HRmCQTDyvI&center=42.483173099999995,-76.49112099999999"
+    },
+    {
+      "name": "Mitsuba 成都印象",
+      "distance": "2.7 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Mitsuba%20%E6%88%90%E9%83%BD%E5%8D%B0%E8%B1%A1&query_place_id=ChIJCWt7n1uC0IkRGLMUyFmyI5o&center=42.481792,-76.485444"
+    }
+  ],
+  "dinner": [
+    {
+      "name": "East Shore Roadhouse",
+      "distance": "0.7 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=East%20Shore%20Roadhouse&query_place_id=ChIJrR9OJo2D0IkRNj3XWzMSogk&center=42.5281612,-76.5009796"
+    },
+    {
+      "name": "Lansing Pizzeria",
+      "distance": "1.1 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Lansing%20Pizzeria&query_place_id=ChIJ-YOlEtac0IkR2TJ8IgXzBlg&center=42.5347284,-76.504116"
+    },
+    {
+      "name": "Crossroads Bar and Grille",
+      "distance": "1.5 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Crossroads%20Bar%20and%20Grille&query_place_id=ChIJd5CDaCWd0IkR6DtfQmpOWgU&center=42.539145399999995,-76.4931575"
+    },
+    {
+      "name": "Ciao",
+      "distance": "2.2 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Ciao&query_place_id=ChIJCeE2QliC0IkROG0WdcdEvyc&center=42.4877172,-76.4890592"
+    },
+    {
+      "name": "Zocalo Mexican Bar and Grill",
+      "distance": "2.5 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Zocalo%20Mexican%20Bar%20and%20Grill&query_place_id=ChIJf5U-ZZGD0IkR-N5txgkIidc&center=42.4835576,-76.4911267"
+    },
+    {
+      "name": "Glenwood Pines",
+      "distance": "2.5 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Glenwood%20Pines&query_place_id=ChIJ1cj7kXiD0IkR4sxnn_4zOG0&center=42.495637099999996,-76.54123419999999"
+    }
+  ],
+  "bowling": [
+    {
+      "name": "Helen Newman Bowling Center",
+      "distance": "4.7 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Helen%20Newman%20Bowling%20Center&query_place_id=ChIJG2JEOKSB0IkRb83yC-m5DVs&center=42.4531218,-76.4773506",
+      "isFar": true
+    }
+  ],
+  "arcade": [],
+  "movies": [
+    {
+      "name": "Regal Ithaca Mall",
+      "distance": "2.4 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Regal%20Ithaca%20Mall&query_place_id=ChIJKaOTClqC0IkR08o9vqce8kE&center=42.4842957,-76.49183359999999"
+    }
+  ],
+  "fun": [
+    {
+      "name": "No Escape",
+      "distance": "0.7 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=No%20Escape&query_place_id=ChIJj26xooeD0IkRyhuSwiJ1-dI&center=42.527916100000006,-76.50958949999999"
+    },
+    {
+      "name": "Ithaca Condiment Museum",
+      "distance": "2.2 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Ithaca%20Condiment%20Museum&query_place_id=ChIJnXM7PgCD0IkRkIa1bZeOBsM&center=42.4910674,-76.4813448"
+    },
+    {
+      "name": "Salmon Creek Falls",
+      "distance": "3.1 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Salmon%20Creek%20Falls&query_place_id=ChIJaViz6YCd0IkRMwXBgW0LQlk&center=42.5548109,-76.5373693",
+      "isFar": true
+    },
+    {
+      "name": "Priscilla Point",
+      "distance": "4.6 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Priscilla%20Point&query_place_id=ChIJN0uOAwCB0IkRu7tKKNrPKB8&center=42.4521206,-76.5116287",
+      "isFar": true
+    }
+  ],
+  "hotels": [],
+  "gas": [
+    {
+      "name": "BJ's Gas Station",
+      "distance": "2.2 mi",
+      "url": "https://www.google.com/maps/search/BJ's%20Gas%20Station+near+42.5182376%2C-76.5032444"
+    },
+    {
+      "name": "Mobil",
+      "distance": "2.6 mi",
+      "url": "https://www.google.com/maps/search/Mobil+near+42.5182376%2C-76.5032444"
+    },
+    {
+      "name": "Tops Gas",
+      "distance": "2.7 mi",
+      "url": "https://www.google.com/maps/search/Tops%20Gas+near+42.5182376%2C-76.5032444"
+    },
+    {
+      "name": "Speedway",
+      "distance": "3.6 mi",
+      "url": "https://www.google.com/maps/search/Speedway+near+42.5182376%2C-76.5032444"
+    }
+  ]
+}

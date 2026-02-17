@@ -1,0 +1,236 @@
+{
+  "quick_bite": [
+    {
+      "name": "Subway",
+      "distance": "0.3 mi",
+      "url": "https://www.google.com/maps/search/Subway+near+26.042081699999997%2C-80.2340957"
+    },
+    {
+      "name": "Chuck E. Cheese",
+      "distance": "2.6 mi",
+      "url": "https://www.google.com/maps/search/Chuck%20E.%20Cheese+near+26.042081699999997%2C-80.2340957"
+    }
+  ],
+  "coffee": [
+    {
+      "name": "McDonald's",
+      "distance": "0.3 mi",
+      "url": "https://www.google.com/maps/search/McDonald's+near+26.042081699999997%2C-80.2340957"
+    },
+    {
+      "name": "Wawa",
+      "distance": "0.3 mi",
+      "url": "https://www.google.com/maps/search/Wawa+near+26.042081699999997%2C-80.2340957"
+    },
+    {
+      "name": "545° Bánh Mì Café",
+      "distance": "0.3 mi",
+      "url": "https://www.google.com/maps/search/545%C2%B0%20B%C3%A1nh%20M%C3%AC%20Caf%C3%A9+near+26.042081699999997%2C-80.2340957"
+    }
+  ],
+  "team_lunch": [
+    {
+      "name": "Vecky Bakery Hollywood",
+      "distance": "0.2 mi",
+      "url": "https://www.google.com/maps/search/Vecky%20Bakery%20Hollywood+near+26.042081699999997%2C-80.2340957"
+    },
+    {
+      "name": "Vecky seafood and peruvian cuisine",
+      "distance": "0.2 mi",
+      "url": "https://www.google.com/maps/search/Vecky%20seafood%20and%20peruvian%20cuisine+near+26.042081699999997%2C-80.2340957"
+    },
+    {
+      "name": "Công ty",
+      "distance": "0.3 mi",
+      "url": "https://www.google.com/maps/search/C%C3%B4ng%20ty+near+26.042081699999997%2C-80.2340957"
+    },
+    {
+      "name": "Fritanga Fritangon Nica",
+      "distance": "0.3 mi",
+      "url": "https://www.google.com/maps/search/Fritanga%20Fritangon%20Nica+near+26.042081699999997%2C-80.2340957"
+    },
+    {
+      "name": "Wing Snob",
+      "distance": "0.3 mi",
+      "url": "https://www.google.com/maps/search/Wing%20Snob+near+26.042081699999997%2C-80.2340957"
+    }
+  ],
+  "dinner": [
+    {
+      "name": "La Joya Latina Restaurant",
+      "distance": "0.1 mi",
+      "url": "https://www.google.com/maps/search/La%20Joya%20Latina%20Restaurant+near+26.042081699999997%2C-80.2340957"
+    },
+    {
+      "name": "Paris Bánh Mì - Davie, FL",
+      "distance": "0.2 mi",
+      "url": "https://www.google.com/maps/search/Paris%20B%C3%A1nh%20M%C3%AC%20-%20Davie%2C%20FL+near+26.042081699999997%2C-80.2340957"
+    },
+    {
+      "name": "MaMa YaTai & Donuts",
+      "distance": "0.3 mi",
+      "url": "https://www.google.com/maps/search/MaMa%20YaTai%20%26%20Donuts+near+26.042081699999997%2C-80.2340957"
+    },
+    {
+      "name": "Lai Rai",
+      "distance": "0.3 mi",
+      "url": "https://www.google.com/maps/search/Lai%20Rai+near+26.042081699999997%2C-80.2340957"
+    },
+    {
+      "name": "Ramen Vietnamita",
+      "distance": "0.3 mi",
+      "url": "https://www.google.com/maps/search/Ramen%20Vietnamita+near+26.042081699999997%2C-80.2340957"
+    },
+    {
+      "name": "Pho 79",
+      "distance": "0.3 mi",
+      "url": "https://www.google.com/maps/search/Pho%2079+near+26.042081699999997%2C-80.2340957"
+    },
+    {
+      "name": "Hong’s BBQ",
+      "distance": "0.4 mi",
+      "url": "https://www.google.com/maps/search/Hong%E2%80%99s%20BBQ+near+26.042081699999997%2C-80.2340957"
+    }
+  ],
+  "bowling": [
+    {
+      "name": "AMF Pembroke Pines Lanes",
+      "distance": "1.5 mi",
+      "url": "https://www.google.com/maps/search/AMF%20Pembroke%20Pines%20Lanes+near+26.042081699999997%2C-80.2340957"
+    },
+    {
+      "name": "SpareZ",
+      "distance": "1.6 mi",
+      "url": "https://www.google.com/maps/search/SpareZ+near+26.042081699999997%2C-80.2340957"
+    },
+    {
+      "name": "Bowlero Davie",
+      "distance": "4.2 mi",
+      "url": "https://www.google.com/maps/search/Bowlero%20Davie+near+26.042081699999997%2C-80.2340957",
+      "isFar": true
+    }
+  ],
+  "arcade": [],
+  "movies": [
+    {
+      "name": "Flippers Cinema & Arcade",
+      "distance": "1.2 mi",
+      "url": "https://www.google.com/maps/search/Flippers%20Cinema%20%26%20Arcade+near+26.042081699999997%2C-80.2340957"
+    },
+    {
+      "name": "Regal Oakwood",
+      "distance": "4.5 mi",
+      "url": "https://www.google.com/maps/search/Regal%20Oakwood+near+26.042081699999997%2C-80.2340957",
+      "isFar": true
+    },
+    {
+      "name": "Regal Dania Pointe",
+      "distance": "4.6 mi",
+      "url": "https://www.google.com/maps/search/Regal%20Dania%20Pointe+near+26.042081699999997%2C-80.2340957",
+      "isFar": true
+    }
+  ],
+  "fun": [
+    {
+      "name": "The Axe Hole House| Axe Throwing & Splatter Paint | Fort Lauderdale",
+      "distance": "1.3 mi",
+      "url": "https://www.google.com/maps/search/The%20Axe%20Hole%20House%7C%20Axe%20Throwing%20%26%20Splatter%20Paint%20%7C%20Fort%20Lauderdale+near+26.042081699999997%2C-80.2340957"
+    },
+    {
+      "name": "The Smashit House Rage Rooms-Davie",
+      "distance": "1.3 mi",
+      "url": "https://www.google.com/maps/search/The%20Smashit%20House%20Rage%20Rooms-Davie+near+26.042081699999997%2C-80.2340957"
+    },
+    {
+      "name": "Mythos Escapes",
+      "distance": "1.8 mi",
+      "url": "https://www.google.com/maps/search/Mythos%20Escapes+near+26.042081699999997%2C-80.2340957"
+    },
+    {
+      "name": "Stem Escape",
+      "distance": "1.9 mi",
+      "url": "https://www.google.com/maps/search/Stem%20Escape+near+26.042081699999997%2C-80.2340957"
+    },
+    {
+      "name": "Nexus Escape Room",
+      "distance": "2.3 mi",
+      "url": "https://www.google.com/maps/search/Nexus%20Escape%20Room+near+26.042081699999997%2C-80.2340957"
+    },
+    {
+      "name": "Pump It Up",
+      "distance": "3.1 mi",
+      "url": "https://www.google.com/maps/search/Pump%20It%20Up+near+26.042081699999997%2C-80.2340957",
+      "isFar": true
+    },
+    {
+      "name": "Slothy’s Playhouse",
+      "distance": "3.6 mi",
+      "url": "https://www.google.com/maps/search/Slothy%E2%80%99s%20Playhouse+near+26.042081699999997%2C-80.2340957",
+      "isFar": true
+    }
+  ],
+  "hotels": [
+    {
+      "name": "Colorful Comfy ~ 5★ Location ~ Backyard ~ Pool",
+      "distance": "0.3 mi",
+      "url": "https://www.google.com/maps/search/Colorful%20Comfy%20~%205%E2%98%85%20Location%20~%20Backyard%20~%20Pool+near+26.042081699999997%2C-80.2340957"
+    },
+    {
+      "name": "Comfy Retreat Near Guitar Hotel - One-Bedroom House",
+      "distance": "0.6 mi",
+      "url": "https://www.google.com/maps/search/Comfy%20Retreat%20Near%20Guitar%20Hotel%20-%20One-Bedroom%20House+near+26.042081699999997%2C-80.2340957"
+    },
+    {
+      "name": "Stylish Villa with Pool",
+      "distance": "0.6 mi",
+      "url": "https://www.google.com/maps/search/Stylish%20Villa%20with%20Pool+near+26.042081699999997%2C-80.2340957"
+    },
+    {
+      "name": "Stylish Villa with Pool - Villa",
+      "distance": "0.6 mi",
+      "url": "https://www.google.com/maps/search/Stylish%20Villa%20with%20Pool%20-%20Villa+near+26.042081699999997%2C-80.2340957"
+    },
+    {
+      "name": "Villa Hollywood Pool Trampoline BBQ Hard Rock",
+      "distance": "0.6 mi",
+      "url": "https://www.google.com/maps/search/Villa%20Hollywood%20Pool%20Trampoline%20BBQ%20Hard%20Rock+near+26.042081699999997%2C-80.2340957"
+    },
+    {
+      "name": "Villa Hollywood Pool Trampoline BBQ Hard Rock",
+      "distance": "0.6 mi",
+      "url": "https://www.google.com/maps/search/Villa%20Hollywood%20Pool%20Trampoline%20BBQ%20Hard%20Rock+near+26.042081699999997%2C-80.2340957"
+    },
+    {
+      "name": "Spacious, Cozy Stay Near Hard Rock Casino –Feel at Home, Hot Tub!",
+      "distance": "0.6 mi",
+      "url": "https://www.google.com/maps/search/Spacious%2C%20Cozy%20Stay%20Near%20Hard%20Rock%20Casino%20%E2%80%93Feel%20at%20Home%2C%20Hot%20Tub!+near+26.042081699999997%2C-80.2340957"
+    }
+  ],
+  "gas": [
+    {
+      "name": "U Gas",
+      "distance": "0.3 mi",
+      "url": "https://www.google.com/maps/search/U%20Gas+near+26.042081699999997%2C-80.2340957"
+    },
+    {
+      "name": "Chevron",
+      "distance": "0.7 mi",
+      "url": "https://www.google.com/maps/search/Chevron+near+26.042081699999997%2C-80.2340957"
+    },
+    {
+      "name": "Mobil",
+      "distance": "0.8 mi",
+      "url": "https://www.google.com/maps/search/Mobil+near+26.042081699999997%2C-80.2340957"
+    },
+    {
+      "name": "Rocket Fuel",
+      "distance": "0.9 mi",
+      "url": "https://www.google.com/maps/search/Rocket%20Fuel+near+26.042081699999997%2C-80.2340957"
+    },
+    {
+      "name": "Danny's Fuel Corporation",
+      "distance": "0.9 mi",
+      "url": "https://www.google.com/maps/search/Danny's%20Fuel%20Corporation+near+26.042081699999997%2C-80.2340957"
+    }
+  ]
+}

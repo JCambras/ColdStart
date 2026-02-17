@@ -1,0 +1,231 @@
+{
+  "quick_bite": [
+    {
+      "name": "Hardee's",
+      "distance": "0.3 mi",
+      "url": "https://www.google.com/maps/search/Hardee's+near+35.3707916%2C-94.4002794"
+    },
+    {
+      "name": "El Olvido Mexican Restaurant",
+      "distance": "0.8 mi",
+      "url": "https://www.google.com/maps/search/El%20Olvido%20Mexican%20Restaurant+near+35.3707916%2C-94.4002794"
+    },
+    {
+      "name": "Chuck E. Cheese",
+      "distance": "1.4 mi",
+      "url": "https://www.google.com/maps/search/Chuck%20E.%20Cheese+near+35.3707916%2C-94.4002794"
+    }
+  ],
+  "coffee": [
+    {
+      "name": "Boba-Holics and Mini Golf",
+      "distance": "0.2 mi",
+      "url": "https://www.google.com/maps/search/Boba-Holics%20and%20Mini%20Golf+near+35.3707916%2C-94.4002794"
+    },
+    {
+      "name": "Dewey's Café At The Library",
+      "distance": "0.3 mi",
+      "url": "https://www.google.com/maps/search/Dewey's%20Caf%C3%A9%20At%20The%20Library+near+35.3707916%2C-94.4002794"
+    },
+    {
+      "name": "Sweet Bay Coffee Co",
+      "distance": "0.3 mi",
+      "url": "https://www.google.com/maps/search/Sweet%20Bay%20Coffee%20Co+near+35.3707916%2C-94.4002794"
+    },
+    {
+      "name": "The Artistic Bean",
+      "distance": "0.6 mi",
+      "url": "https://www.google.com/maps/search/The%20Artistic%20Bean+near+35.3707916%2C-94.4002794"
+    },
+    {
+      "name": "Crossy Coffee",
+      "distance": "0.6 mi",
+      "url": "https://www.google.com/maps/search/Crossy%20Coffee+near+35.3707916%2C-94.4002794"
+    }
+  ],
+  "team_lunch": [
+    {
+      "name": "Hong Kong Restaurant",
+      "distance": "0.7 mi",
+      "url": "https://www.google.com/maps/search/Hong%20Kong%20Restaurant+near+35.3707916%2C-94.4002794"
+    },
+    {
+      "name": "ISA",
+      "distance": "0.8 mi",
+      "url": "https://www.google.com/maps/search/ISA+near+35.3707916%2C-94.4002794"
+    }
+  ],
+  "dinner": [
+    {
+      "name": "The Yellow Umbrella",
+      "distance": "0.3 mi",
+      "url": "https://www.google.com/maps/search/The%20Yellow%20Umbrella+near+35.3707916%2C-94.4002794"
+    },
+    {
+      "name": "Benson's Grill",
+      "distance": "0.5 mi",
+      "url": "https://www.google.com/maps/search/Benson's%20Grill+near+35.3707916%2C-94.4002794"
+    },
+    {
+      "name": "Phở Việtnam",
+      "distance": "0.7 mi",
+      "url": "https://www.google.com/maps/search/Ph%E1%BB%9F%20Vi%E1%BB%87tnam+near+35.3707916%2C-94.4002794"
+    },
+    {
+      "name": "Moreno's Bakery",
+      "distance": "0.7 mi",
+      "url": "https://www.google.com/maps/search/Moreno's%20Bakery+near+35.3707916%2C-94.4002794"
+    },
+    {
+      "name": "Meal Prep Terminator",
+      "distance": "0.7 mi",
+      "url": "https://www.google.com/maps/search/Meal%20Prep%20Terminator+near+35.3707916%2C-94.4002794"
+    },
+    {
+      "name": "Taste of Baja",
+      "distance": "0.7 mi",
+      "url": "https://www.google.com/maps/search/Taste%20of%20Baja+near+35.3707916%2C-94.4002794"
+    },
+    {
+      "name": "La Casa de Tio Tizoc",
+      "distance": "0.7 mi",
+      "url": "https://www.google.com/maps/search/La%20Casa%20de%20Tio%20Tizoc+near+35.3707916%2C-94.4002794"
+    }
+  ],
+  "bowling": [
+    {
+      "name": "810 Entertainment - Fort Smith",
+      "distance": "1.8 mi",
+      "url": "https://www.google.com/maps/search/810%20Entertainment%20-%20Fort%20Smith+near+35.3707916%2C-94.4002794"
+    },
+    {
+      "name": "Adventure Alley",
+      "distance": "2.4 mi",
+      "url": "https://www.google.com/maps/search/Adventure%20Alley+near+35.3707916%2C-94.4002794"
+    },
+    {
+      "name": "Midland Family Bowl",
+      "distance": "2.4 mi",
+      "url": "https://www.google.com/maps/search/Midland%20Family%20Bowl+near+35.3707916%2C-94.4002794"
+    },
+    {
+      "name": "Bowling World",
+      "distance": "3.2 mi",
+      "url": "https://www.google.com/maps/search/Bowling%20World+near+35.3707916%2C-94.4002794",
+      "isFar": true
+    }
+  ],
+  "arcade": [],
+  "movies": [
+    {
+      "name": "Malco Fort Smith Cinema",
+      "distance": "1.4 mi",
+      "url": "https://www.google.com/maps/search/Malco%20Fort%20Smith%20Cinema+near+35.3707916%2C-94.4002794"
+    }
+  ],
+  "fun": [
+    {
+      "name": "Tilles Park Splash Pad",
+      "distance": "1.0 mi",
+      "url": "https://www.google.com/maps/search/Tilles%20Park%20Splash%20Pad+near+35.3707916%2C-94.4002794"
+    },
+    {
+      "name": "Martin Luther King, Jr. Splash Pad",
+      "distance": "1.7 mi",
+      "url": "https://www.google.com/maps/search/Martin%20Luther%20King%2C%20Jr.%20Splash%20Pad+near+35.3707916%2C-94.4002794"
+    },
+    {
+      "name": "Compass Park Splash Pads",
+      "distance": "2.1 mi",
+      "url": "https://www.google.com/maps/search/Compass%20Park%20Splash%20Pads+near+35.3707916%2C-94.4002794"
+    },
+    {
+      "name": "The Monkey House",
+      "distance": "3.1 mi",
+      "url": "https://www.google.com/maps/search/The%20Monkey%20House+near+35.3707916%2C-94.4002794",
+      "isFar": true
+    },
+    {
+      "name": "Spartan Adventure Park",
+      "distance": "3.2 mi",
+      "url": "https://www.google.com/maps/search/Spartan%20Adventure%20Park+near+35.3707916%2C-94.4002794",
+      "isFar": true
+    },
+    {
+      "name": "Fort Smith Escape Room",
+      "distance": "3.2 mi",
+      "url": "https://www.google.com/maps/search/Fort%20Smith%20Escape%20Room+near+35.3707916%2C-94.4002794",
+      "isFar": true
+    },
+    {
+      "name": "Parrot Island Waterpark",
+      "distance": "4.2 mi",
+      "url": "https://www.google.com/maps/search/Parrot%20Island%20Waterpark+near+35.3707916%2C-94.4002794",
+      "isFar": true
+    }
+  ],
+  "hotels": [
+    {
+      "name": "Spacious 4-bedroom townhouse in historical Fort Smith",
+      "distance": "0.3 mi",
+      "url": "https://www.google.com/maps/search/Spacious%204-bedroom%20townhouse%20in%20historical%20Fort%20Smith+near+35.3707916%2C-94.4002794"
+    },
+    {
+      "name": "Spacious 4-bedroom townhouse in historical Fort Smith",
+      "distance": "0.3 mi",
+      "url": "https://www.google.com/maps/search/Spacious%204-bedroom%20townhouse%20in%20historical%20Fort%20Smith+near+35.3707916%2C-94.4002794"
+    },
+    {
+      "name": "The RW Guest House",
+      "distance": "0.3 mi",
+      "url": "https://www.google.com/maps/search/The%20RW%20Guest%20House+near+35.3707916%2C-94.4002794"
+    },
+    {
+      "name": "The Lecta House-Modern Art Haven",
+      "distance": "0.4 mi",
+      "url": "https://www.google.com/maps/search/The%20Lecta%20House-Modern%20Art%20Haven+near+35.3707916%2C-94.4002794"
+    },
+    {
+      "name": "Sunny Home, 3 Mi to Fort Smith Historic Sites - Holiday Home",
+      "distance": "0.4 mi",
+      "url": "https://www.google.com/maps/search/Sunny%20Home%2C%203%20Mi%20to%20Fort%20Smith%20Historic%20Sites%20-%20Holiday%20Home+near+35.3707916%2C-94.4002794"
+    },
+    {
+      "name": "COZY GETAWAY THAT HAS FAMILY FUN COMFORTS",
+      "distance": "0.4 mi",
+      "url": "https://www.google.com/maps/search/COZY%20GETAWAY%20THAT%20HAS%20FAMILY%20FUN%20COMFORTS+near+35.3707916%2C-94.4002794"
+    },
+    {
+      "name": "Renovated Century Home - Spacious 3 Bed, 2.5 Bath: Near Museums and Downtown!",
+      "distance": "0.4 mi",
+      "url": "https://www.google.com/maps/search/Renovated%20Century%20Home%20-%20Spacious%203%20Bed%2C%202.5%20Bath%3A%20Near%20Museums%20and%20Downtown!+near+35.3707916%2C-94.4002794"
+    }
+  ],
+  "gas": [
+    {
+      "name": "ALON Gas Station",
+      "distance": "0.2 mi",
+      "url": "https://www.google.com/maps/search/ALON%20Gas%20Station+near+35.3707916%2C-94.4002794"
+    },
+    {
+      "name": "Neighborhood Mini Mart.",
+      "distance": "0.2 mi",
+      "url": "https://www.google.com/maps/search/Neighborhood%20Mini%20Mart.+near+35.3707916%2C-94.4002794"
+    },
+    {
+      "name": "Maverik",
+      "distance": "0.6 mi",
+      "url": "https://www.google.com/maps/search/Maverik+near+35.3707916%2C-94.4002794"
+    },
+    {
+      "name": "FINISH LINE",
+      "distance": "0.6 mi",
+      "url": "https://www.google.com/maps/search/FINISH%20LINE+near+35.3707916%2C-94.4002794"
+    },
+    {
+      "name": "Citgo",
+      "distance": "1.1 mi",
+      "url": "https://www.google.com/maps/search/Citgo+near+35.3707916%2C-94.4002794"
+    }
+  ]
+}

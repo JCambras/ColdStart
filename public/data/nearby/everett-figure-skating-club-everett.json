@@ -1,0 +1,223 @@
+{
+  "quick_bite": [
+    {
+      "name": "That Chicken Place",
+      "distance": "0.1 mi",
+      "url": "https://www.google.com/maps/search/That%20Chicken%20Place+near+47.9788163%2C-122.20229590000001"
+    },
+    {
+      "name": "Bothell Foods LLC (Indian Vegetarian Restaurant & Catering Service)",
+      "distance": "0.1 mi",
+      "url": "https://www.google.com/maps/search/Bothell%20Foods%20LLC%20(Indian%20Vegetarian%20Restaurant%20%26%20Catering%20Service)+near+47.9788163%2C-122.20229590000001"
+    },
+    {
+      "name": "Taco Bell",
+      "distance": "0.2 mi",
+      "url": "https://www.google.com/maps/search/Taco%20Bell+near+47.9788163%2C-122.20229590000001"
+    },
+    {
+      "name": "Taco Del Mar",
+      "distance": "0.2 mi",
+      "url": "https://www.google.com/maps/search/Taco%20Del%20Mar+near+47.9788163%2C-122.20229590000001"
+    },
+    {
+      "name": "KFC",
+      "distance": "0.2 mi",
+      "url": "https://www.google.com/maps/search/KFC+near+47.9788163%2C-122.20229590000001"
+    }
+  ],
+  "coffee": [
+    {
+      "name": "Bargreen's Espresso",
+      "distance": "0.1 mi",
+      "url": "https://www.google.com/maps/search/Bargreen's%20Espresso+near+47.9788163%2C-122.20229590000001"
+    },
+    {
+      "name": "Kel's Cafe",
+      "distance": "0.1 mi",
+      "url": "https://www.google.com/maps/search/Kel's%20Cafe+near+47.9788163%2C-122.20229590000001"
+    },
+    {
+      "name": "Artisans Books & Coffee",
+      "distance": "0.1 mi",
+      "url": "https://www.google.com/maps/search/Artisans%20Books%20%26%20Coffee+near+47.9788163%2C-122.20229590000001"
+    },
+    {
+      "name": "Courtyard Plaza Cafe",
+      "distance": "0.2 mi",
+      "url": "https://www.google.com/maps/search/Courtyard%20Plaza%20Cafe+near+47.9788163%2C-122.20229590000001"
+    },
+    {
+      "name": "The Just Us Cafe",
+      "distance": "0.2 mi",
+      "url": "https://www.google.com/maps/search/The%20Just%20Us%20Cafe+near+47.9788163%2C-122.20229590000001"
+    }
+  ],
+  "team_lunch": [
+    {
+      "name": "Tang Wong",
+      "distance": "0.1 mi",
+      "url": "https://www.google.com/maps/search/Tang%20Wong+near+47.9788163%2C-122.20229590000001"
+    }
+  ],
+  "dinner": [
+    {
+      "name": "R Harn Thai",
+      "distance": "0.1 mi",
+      "url": "https://www.google.com/maps/search/R%20Harn%20Thai+near+47.9788163%2C-122.20229590000001"
+    },
+    {
+      "name": "Heritage African Restaurant",
+      "distance": "0.1 mi",
+      "url": "https://www.google.com/maps/search/Heritage%20African%20Restaurant+near+47.9788163%2C-122.20229590000001"
+    },
+    {
+      "name": "Brooklyn Bros. Pizzeria",
+      "distance": "0.1 mi",
+      "url": "https://www.google.com/maps/search/Brooklyn%20Bros.%20Pizzeria+near+47.9788163%2C-122.20229590000001"
+    },
+    {
+      "name": "Taqueria Costa Sur |Everett",
+      "distance": "0.1 mi",
+      "url": "https://www.google.com/maps/search/Taqueria%20Costa%20Sur%20%7CEverett+near+47.9788163%2C-122.20229590000001"
+    },
+    {
+      "name": "Luca Italian Restaurant",
+      "distance": "0.2 mi",
+      "url": "https://www.google.com/maps/search/Luca%20Italian%20Restaurant+near+47.9788163%2C-122.20229590000001"
+    },
+    {
+      "name": "Sabaijai Thai",
+      "distance": "0.2 mi",
+      "url": "https://www.google.com/maps/search/Sabaijai%20Thai+near+47.9788163%2C-122.20229590000001"
+    },
+    {
+      "name": "Café uu",
+      "distance": "0.2 mi",
+      "url": "https://www.google.com/maps/search/Caf%C3%A9%20uu+near+47.9788163%2C-122.20229590000001"
+    }
+  ],
+  "bowling": [
+    {
+      "name": "Evergreen Lanes",
+      "distance": "2.0 mi",
+      "url": "https://www.google.com/maps/search/Evergreen%20Lanes+near+47.9788163%2C-122.20229590000001"
+    },
+    {
+      "name": "Strawberry Lanes",
+      "distance": "5.7 mi",
+      "url": "https://www.google.com/maps/search/Strawberry%20Lanes+near+47.9788163%2C-122.20229590000001",
+      "isFar": true
+    },
+    {
+      "name": "Lucky Strike Lynnwood",
+      "distance": "9.3 mi",
+      "url": "https://www.google.com/maps/search/Lucky%20Strike%20Lynnwood+near+47.9788163%2C-122.20229590000001",
+      "isFar": true
+    }
+  ],
+  "arcade": [],
+  "movies": [
+    {
+      "name": "Regal Everett",
+      "distance": "4.8 mi",
+      "url": "https://www.google.com/maps/search/Regal%20Everett+near+47.9788163%2C-122.20229590000001",
+      "isFar": true
+    },
+    {
+      "name": "Regal Marysville",
+      "distance": "7.4 mi",
+      "url": "https://www.google.com/maps/search/Regal%20Marysville+near+47.9788163%2C-122.20229590000001",
+      "isFar": true
+    }
+  ],
+  "fun": [
+    {
+      "name": "Escape Everett",
+      "distance": "0.5 mi",
+      "url": "https://www.google.com/maps/search/Escape%20Everett+near+47.9788163%2C-122.20229590000001"
+    },
+    {
+      "name": "Urban Air Adventure Park",
+      "distance": "4.7 mi",
+      "url": "https://www.google.com/maps/search/Urban%20Air%20Adventure%20Park+near+47.9788163%2C-122.20229590000001",
+      "isFar": true
+    },
+    {
+      "name": "Altitude Trampoline Park Marysville",
+      "distance": "5.8 mi",
+      "url": "https://www.google.com/maps/search/Altitude%20Trampoline%20Park%20Marysville+near+47.9788163%2C-122.20229590000001",
+      "isFar": true
+    },
+    {
+      "name": "High Trek Adventures",
+      "distance": "7.0 mi",
+      "url": "https://www.google.com/maps/search/High%20Trek%20Adventures+near+47.9788163%2C-122.20229590000001",
+      "isFar": true
+    }
+  ],
+  "hotels": [
+    {
+      "name": "Travelodge by Wyndham Everett City Center",
+      "distance": "0.1 mi",
+      "url": "https://www.google.com/maps/search/Travelodge%20by%20Wyndham%20Everett%20City%20Center+near+47.9788163%2C-122.20229590000001"
+    },
+    {
+      "name": "Gold E Lofts",
+      "distance": "0.2 mi",
+      "url": "https://www.google.com/maps/search/Gold%20E%20Lofts+near+47.9788163%2C-122.20229590000001"
+    },
+    {
+      "name": "Courtyard by Marriott Seattle Everett Downtown",
+      "distance": "0.3 mi",
+      "url": "https://www.google.com/maps/search/Courtyard%20by%20Marriott%20Seattle%20Everett%20Downtown+near+47.9788163%2C-122.20229590000001"
+    },
+    {
+      "name": "Home",
+      "distance": "0.3 mi",
+      "url": "https://www.google.com/maps/search/Home+near+47.9788163%2C-122.20229590000001"
+    },
+    {
+      "name": "Herminia margarito godinez",
+      "distance": "0.4 mi",
+      "url": "https://www.google.com/maps/search/Herminia%20margarito%20godinez+near+47.9788163%2C-122.20229590000001"
+    },
+    {
+      "name": "Bayside Historic Remodel Walk 2 Beach Breweries",
+      "distance": "0.4 mi",
+      "url": "https://www.google.com/maps/search/Bayside%20Historic%20Remodel%20Walk%202%20Beach%20Breweries+near+47.9788163%2C-122.20229590000001"
+    },
+    {
+      "name": "Bayside Historic Remodel Walk 2 Beach & Breweries",
+      "distance": "0.4 mi",
+      "url": "https://www.google.com/maps/search/Bayside%20Historic%20Remodel%20Walk%202%20Beach%20%26%20Breweries+near+47.9788163%2C-122.20229590000001"
+    }
+  ],
+  "gas": [
+    {
+      "name": "Chevron Everett",
+      "distance": "0.1 mi",
+      "url": "https://www.google.com/maps/search/Chevron%20Everett+near+47.9788163%2C-122.20229590000001"
+    },
+    {
+      "name": "Marathon",
+      "distance": "0.2 mi",
+      "url": "https://www.google.com/maps/search/Marathon+near+47.9788163%2C-122.20229590000001"
+    },
+    {
+      "name": "Chevron EM",
+      "distance": "0.2 mi",
+      "url": "https://www.google.com/maps/search/Chevron%20EM+near+47.9788163%2C-122.20229590000001"
+    },
+    {
+      "name": "Mobil",
+      "distance": "0.4 mi",
+      "url": "https://www.google.com/maps/search/Mobil+near+47.9788163%2C-122.20229590000001"
+    },
+    {
+      "name": "76",
+      "distance": "0.6 mi",
+      "url": "https://www.google.com/maps/search/76+near+47.9788163%2C-122.20229590000001"
+    }
+  ]
+}

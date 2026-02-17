@@ -1,0 +1,209 @@
+{
+  "quick_bite": [
+    {
+      "name": "Jersey Mike's Subs",
+      "distance": "0.2 mi",
+      "url": "https://www.google.com/maps/search/Jersey%20Mike's%20Subs+near+45.1733634%2C-93.39556069999999"
+    },
+    {
+      "name": "Arby's",
+      "distance": "0.3 mi",
+      "url": "https://www.google.com/maps/search/Arby's+near+45.1733634%2C-93.39556069999999"
+    },
+    {
+      "name": "Pizza Hut Express",
+      "distance": "0.4 mi",
+      "url": "https://www.google.com/maps/search/Pizza%20Hut%20Express+near+45.1733634%2C-93.39556069999999"
+    },
+    {
+      "name": "Pizza Ranch",
+      "distance": "0.4 mi",
+      "url": "https://www.google.com/maps/search/Pizza%20Ranch+near+45.1733634%2C-93.39556069999999"
+    },
+    {
+      "name": "Chili Lime Cantina",
+      "distance": "0.5 mi",
+      "url": "https://www.google.com/maps/search/Chili%20Lime%20Cantina+near+45.1733634%2C-93.39556069999999"
+    },
+    {
+      "name": "Buffalo Wild Wings",
+      "distance": "0.7 mi",
+      "url": "https://www.google.com/maps/search/Buffalo%20Wild%20Wings+near+45.1733634%2C-93.39556069999999"
+    },
+    {
+      "name": "Jimmy John's",
+      "distance": "0.8 mi",
+      "url": "https://www.google.com/maps/search/Jimmy%20John's+near+45.1733634%2C-93.39556069999999"
+    }
+  ],
+  "coffee": [
+    {
+      "name": "Life Cafe",
+      "distance": "0.1 mi",
+      "url": "https://www.google.com/maps/search/Life%20Cafe+near+45.1733634%2C-93.39556069999999"
+    },
+    {
+      "name": "McDonald's",
+      "distance": "0.3 mi",
+      "url": "https://www.google.com/maps/search/McDonald's+near+45.1733634%2C-93.39556069999999"
+    },
+    {
+      "name": "Starbucks Coffee Company",
+      "distance": "0.3 mi",
+      "url": "https://www.google.com/maps/search/Starbucks%20Coffee%20Company+near+45.1733634%2C-93.39556069999999"
+    },
+    {
+      "name": "Happy Cafe",
+      "distance": "0.4 mi",
+      "url": "https://www.google.com/maps/search/Happy%20Cafe+near+45.1733634%2C-93.39556069999999"
+    },
+    {
+      "name": "Axel",
+      "distance": "0.8 mi",
+      "url": "https://www.google.com/maps/search/Axel+near+45.1733634%2C-93.39556069999999"
+    }
+  ],
+  "team_lunch": [
+    {
+      "name": "Prohibition Room @ Willy McCoy's Champlin",
+      "distance": "0.4 mi",
+      "url": "https://www.google.com/maps/search/Prohibition%20Room%20%40%20Willy%20McCoy's%20Champlin+near+45.1733634%2C-93.39556069999999"
+    },
+    {
+      "name": "Copper Hall @ Willy McCoy's Champlin",
+      "distance": "0.4 mi",
+      "url": "https://www.google.com/maps/search/Copper%20Hall%20%40%20Willy%20McCoy's%20Champlin+near+45.1733634%2C-93.39556069999999"
+    }
+  ],
+  "dinner": [
+    {
+      "name": "Pour Wine Bar & Bistro",
+      "distance": "0.4 mi",
+      "url": "https://www.google.com/maps/search/Pour%20Wine%20Bar%20%26%20Bistro+near+45.1733634%2C-93.39556069999999"
+    },
+    {
+      "name": "Willy McCoy's",
+      "distance": "0.5 mi",
+      "url": "https://www.google.com/maps/search/Willy%20McCoy's+near+45.1733634%2C-93.39556069999999"
+    },
+    {
+      "name": "Nautical Bowls",
+      "distance": "0.5 mi",
+      "url": "https://www.google.com/maps/search/Nautical%20Bowls+near+45.1733634%2C-93.39556069999999"
+    },
+    {
+      "name": "Clive's Roadhouse Champlin",
+      "distance": "0.5 mi",
+      "url": "https://www.google.com/maps/search/Clive's%20Roadhouse%20Champlin+near+45.1733634%2C-93.39556069999999"
+    },
+    {
+      "name": "Mi's Eatery",
+      "distance": "0.8 mi",
+      "url": "https://www.google.com/maps/search/Mi's%20Eatery+near+45.1733634%2C-93.39556069999999"
+    }
+  ],
+  "bowling": [
+    {
+      "name": "Classic Bowl",
+      "distance": "1.8 mi",
+      "url": "https://www.google.com/maps/search/Classic%20Bowl+near+45.1733634%2C-93.39556069999999"
+    },
+    {
+      "name": "Super Bowl",
+      "distance": "3.9 mi",
+      "url": "https://www.google.com/maps/search/Super%20Bowl+near+45.1733634%2C-93.39556069999999",
+      "isFar": true
+    }
+  ],
+  "arcade": [],
+  "movies": [
+    {
+      "name": "Mann Theatres Champlin",
+      "distance": "0.8 mi",
+      "url": "https://www.google.com/maps/search/Mann%20Theatres%20Champlin+near+45.1733634%2C-93.39556069999999"
+    }
+  ],
+  "fun": [
+    {
+      "name": "Grand Slam Family Fun Center",
+      "distance": "2.7 mi",
+      "url": "https://www.google.com/maps/search/Grand%20Slam%20Family%20Fun%20Center+near+45.1733634%2C-93.39556069999999"
+    },
+    {
+      "name": "Alberto",
+      "distance": "3.8 mi",
+      "url": "https://www.google.com/maps/search/Alberto+near+45.1733634%2C-93.39556069999999",
+      "isFar": true
+    },
+    {
+      "name": "Lilli Putt",
+      "distance": "4.8 mi",
+      "url": "https://www.google.com/maps/search/Lilli%20Putt+near+45.1733634%2C-93.39556069999999",
+      "isFar": true
+    }
+  ],
+  "hotels": [
+    {
+      "name": "Rosy luxury home - Two-Bedroom Villa",
+      "distance": "0.4 mi",
+      "url": "https://www.google.com/maps/search/Rosy%20luxury%20home%20-%20Two-Bedroom%20Villa+near+45.1733634%2C-93.39556069999999"
+    },
+    {
+      "name": "Lakeside Park Escape - Holiday Home",
+      "distance": "0.6 mi",
+      "url": "https://www.google.com/maps/search/Lakeside%20Park%20Escape%20-%20Holiday%20Home+near+45.1733634%2C-93.39556069999999"
+    },
+    {
+      "name": "Lakeside Park Escape - Holiday Home",
+      "distance": "0.6 mi",
+      "url": "https://www.google.com/maps/search/Lakeside%20Park%20Escape%20-%20Holiday%20Home+near+45.1733634%2C-93.39556069999999"
+    },
+    {
+      "name": "Pet Friendly Lakeside Park Escape",
+      "distance": "0.6 mi",
+      "url": "https://www.google.com/maps/search/Pet%20Friendly%20Lakeside%20Park%20Escape+near+45.1733634%2C-93.39556069999999"
+    },
+    {
+      "name": "Ultimate Family Fun Escape",
+      "distance": "0.6 mi",
+      "url": "https://www.google.com/maps/search/Ultimate%20Family%20Fun%20Escape+near+45.1733634%2C-93.39556069999999"
+    },
+    {
+      "name": "Lakeside Park Escape",
+      "distance": "0.6 mi",
+      "url": "https://www.google.com/maps/search/Lakeside%20Park%20Escape+near+45.1733634%2C-93.39556069999999"
+    },
+    {
+      "name": "MINNeSTAY Lakeside Park Escape | Entertainment",
+      "distance": "0.6 mi",
+      "url": "https://www.google.com/maps/search/MINNeSTAY%20Lakeside%20Park%20Escape%20%7C%20Entertainment+near+45.1733634%2C-93.39556069999999"
+    }
+  ],
+  "gas": [
+    {
+      "name": "Holiday Gas Station",
+      "distance": "0.1 mi",
+      "url": "https://www.google.com/maps/search/Holiday%20Gas%20Station+near+45.1733634%2C-93.39556069999999"
+    },
+    {
+      "name": "Marathon Gas",
+      "distance": "0.9 mi",
+      "url": "https://www.google.com/maps/search/Marathon%20Gas+near+45.1733634%2C-93.39556069999999"
+    },
+    {
+      "name": "Holiday",
+      "distance": "1.0 mi",
+      "url": "https://www.google.com/maps/search/Holiday+near+45.1733634%2C-93.39556069999999"
+    },
+    {
+      "name": "Speedway",
+      "distance": "1.0 mi",
+      "url": "https://www.google.com/maps/search/Speedway+near+45.1733634%2C-93.39556069999999"
+    },
+    {
+      "name": "Champlin Sinclair",
+      "distance": "1.1 mi",
+      "url": "https://www.google.com/maps/search/Champlin%20Sinclair+near+45.1733634%2C-93.39556069999999"
+    }
+  ]
+}

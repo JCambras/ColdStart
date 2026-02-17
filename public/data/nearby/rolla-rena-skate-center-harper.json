@@ -1,0 +1,102 @@
+{
+  "quick_bite": [
+    {
+      "name": "Subway",
+      "distance": "0.4 mi",
+      "url": "https://www.google.com/maps/search/Subway+near+37.289322999999996%2C-98.0256617"
+    },
+    {
+      "name": "Casey's",
+      "distance": "0.6 mi",
+      "url": "https://www.google.com/maps/search/Casey's+near+37.289322999999996%2C-98.0256617"
+    }
+  ],
+  "coffee": [],
+  "team_lunch": [
+    {
+      "name": "D'Mario's Pizza",
+      "distance": "0.6 mi",
+      "url": "https://www.google.com/maps/search/D'Mario's%20Pizza+near+37.289322999999996%2C-98.0256617"
+    }
+  ],
+  "dinner": [
+    {
+      "name": "Mi Casita Mexicana",
+      "distance": "0.1 mi",
+      "url": "https://www.google.com/maps/search/Mi%20Casita%20Mexicana+near+37.289322999999996%2C-98.0256617"
+    },
+    {
+      "name": "El Amigazo 2",
+      "distance": "0.2 mi",
+      "url": "https://www.google.com/maps/search/El%20Amigazo%202+near+37.289322999999996%2C-98.0256617"
+    },
+    {
+      "name": "The Shop",
+      "distance": "0.2 mi",
+      "url": "https://www.google.com/maps/search/The%20Shop+near+37.289322999999996%2C-98.0256617"
+    },
+    {
+      "name": "Red Rooster Cafe",
+      "distance": "0.5 mi",
+      "url": "https://www.google.com/maps/search/Red%20Rooster%20Cafe+near+37.289322999999996%2C-98.0256617"
+    },
+    {
+      "name": "Mexican paradise",
+      "distance": "0.6 mi",
+      "url": "https://www.google.com/maps/search/Mexican%20paradise+near+37.289322999999996%2C-98.0256617"
+    }
+  ],
+  "bowling": [
+    {
+      "name": "The Sporting Zone",
+      "distance": "9.2 mi",
+      "url": "https://www.google.com/maps/search/The%20Sporting%20Zone+near+37.289322999999996%2C-98.0256617",
+      "isFar": true
+    }
+  ],
+  "arcade": [],
+  "movies": [
+    {
+      "name": "Historic Anthony Theatre",
+      "distance": "9.5 mi",
+      "url": "https://www.google.com/maps/search/Historic%20Anthony%20Theatre+near+37.289322999999996%2C-98.0256617",
+      "isFar": true
+    }
+  ],
+  "fun": [],
+  "hotels": [
+    {
+      "name": "Harper Motel by Venserra",
+      "distance": "0.5 mi",
+      "url": "https://www.google.com/maps/search/Harper%20Motel%20by%20Venserra+near+37.289322999999996%2C-98.0256617"
+    },
+    {
+      "name": "Mobile West RV Park",
+      "distance": "0.6 mi",
+      "url": "https://www.google.com/maps/search/Mobile%20West%20RV%20Park+near+37.289322999999996%2C-98.0256617"
+    },
+    {
+      "name": "Eshelman RV Park",
+      "distance": "0.8 mi",
+      "url": "https://www.google.com/maps/search/Eshelman%20RV%20Park+near+37.289322999999996%2C-98.0256617"
+    },
+    {
+      "name": "Cobblestone Inn & Suites - Harper",
+      "distance": "1.0 mi",
+      "url": "https://www.google.com/maps/search/Cobblestone%20Inn%20%26%20Suites%20-%20Harper+near+37.289322999999996%2C-98.0256617"
+    },
+    {
+      "name": "Oak Leaf RV Park",
+      "distance": "6.6 mi",
+      "url": "https://www.google.com/maps/search/Oak%20Leaf%20RV%20Park+near+37.289322999999996%2C-98.0256617",
+      "isFar": true
+    }
+  ],
+  "gas": [
+    {
+      "name": "HARPER FARMERS07036437",
+      "distance": "0.4 mi",
+      "url": "https://www.google.com/maps/search/HARPER%20FARMERS07036437+near+37.289322999999996%2C-98.0256617"
+    }
+  ]
+}

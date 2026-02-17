@@ -1,0 +1,174 @@
+{
+  "quick_bite": [
+    {
+      "name": "Subway",
+      "distance": "0.8 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Subway&query_place_id=ChIJDeT750xn4YkRTwvVJcI0pX0&center=42.6810712,-72.04761529999999"
+    },
+    {
+      "name": "Gabby's Pizza",
+      "distance": "1.0 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Gabby's%20Pizza&query_place_id=ChIJUfBPpeRg4YkRiSb809RCmis&center=42.6858631,-72.04438979999999"
+    }
+  ],
+  "coffee": [
+    {
+      "name": "The Sunshine Café",
+      "distance": "0.8 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=The%20Sunshine%20Caf%C3%A9&query_place_id=ChIJKWqaTwBh4YkRBaUOqB2kQ8s&center=42.6823378,-72.04453409999999"
+    },
+    {
+      "name": "Dunkin'",
+      "distance": "0.8 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Dunkin'&query_place_id=ChIJzY1q5Exn4YkR7HmVJ3j31bs&center=42.681076399999995,-72.0481715"
+    },
+    {
+      "name": "Sippin Serendipity",
+      "distance": "1.0 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Sippin%20Serendipity&query_place_id=ChIJ7ddCAQBh4YkRfE-_gF9kpms&center=42.6849828,-72.0457079"
+    },
+    {
+      "name": "Ikiaremy Sweets Bakery Restaurant & Café",
+      "distance": "1.1 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Ikiaremy%20Sweets%20Bakery%20Restaurant%20%26%20Caf%C3%A9&query_place_id=ChIJXVN9VwBh4YkRJSZePgsaLcg&center=42.6870696,-72.0441314"
+    },
+    {
+      "name": "Dunkin'",
+      "distance": "2.8 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Dunkin'&query_place_id=ChIJxwtqmTVe4YkRO_3HhdfeYkw&center=42.640472900000006,-72.0048202"
+    }
+  ],
+  "team_lunch": [
+    {
+      "name": "Friend's Garden",
+      "distance": "0.8 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Friend's%20Garden&query_place_id=ChIJHxE-vExn4YkRarX2-Ckdf-4&center=42.6820876,-72.0481358"
+    },
+    {
+      "name": "Caring Confections",
+      "distance": "4.9 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Caring%20Confections&query_place_id=ChIJy_ZUlGdf4YkRvw-n_-PHq3U&center=42.6031009,-72.01812369999999",
+      "isFar": true
+    }
+  ],
+  "dinner": [
+    {
+      "name": "Gourmet Donuts",
+      "distance": "0.6 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Gourmet%20Donuts&query_place_id=ChIJ69XUwrJg4YkRAUkvuywwWZA&center=42.6795362,-72.0454044"
+    },
+    {
+      "name": "Christos Place",
+      "distance": "0.8 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Christos%20Place&query_place_id=ChIJP8B4v0xn4YkRtrf6MDGddZs&center=42.6818325,-72.0476434"
+    },
+    {
+      "name": "C & S Pizza Of Winchendon",
+      "distance": "0.9 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=C%20%26%20S%20Pizza%20Of%20Winchendon&query_place_id=ChIJhVun2bRg4YkR4GDP-CaOJhY&center=42.684722199999996,-72.04611109999999"
+    },
+    {
+      "name": "Glen Caffe",
+      "distance": "1.1 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Glen%20Caffe&query_place_id=ChIJifXZ4r9g4YkRgtlNnSNDob0&center=42.6830064,-72.0231556"
+    },
+    {
+      "name": "S. Muffins",
+      "distance": "1.1 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=S.%20Muffins&query_place_id=ChIJPTS-6gxh4YkRzwAiw-dAtwM&center=42.6885604,-72.0390166"
+    }
+  ],
+  "bowling": [
+    {
+      "name": "HUB Bowling (Playaway)",
+      "distance": "0.8 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=HUB%20Bowling%20(Playaway)&query_place_id=ChIJ99uaLwBh4YkRRDmZoZ7RUNE&center=42.6823253,-72.04432369999999"
+    },
+    {
+      "name": "Bowlaway",
+      "distance": "7.2 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Bowlaway&query_place_id=ChIJ73eWktlY4YkRIB6egDs55nU&center=42.573559,-71.994715",
+      "isFar": true
+    },
+    {
+      "name": "Gardner Ten Pins",
+      "distance": "7.7 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Gardner%20Ten%20Pins&query_place_id=ChIJxee-6B5Z4YkRR1XQpugg1hE&center=42.5635292,-72.00355139999999",
+      "isFar": true
+    }
+  ],
+  "arcade": [],
+  "movies": [
+    {
+      "name": "Gardner Cinemas",
+      "distance": "8.2 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Gardner%20Cinemas&query_place_id=ChIJe7ROW-RY4YkR3gpUuG6PEZY&center=42.5596639,-71.9888806",
+      "isFar": true
+    },
+    {
+      "name": "River Street Theatre",
+      "distance": "9.9 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=River%20Street%20Theatre&query_place_id=ChIJ-d9QmUpj4YkRvR-eRlh8WG0&center=42.8146462,-72.023747",
+      "isFar": true
+    }
+  ],
+  "fun": [
+    {
+      "name": "Blue Star and Gold Star Monuments",
+      "distance": "0.5 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Blue%20Star%20and%20Gold%20Star%20Monuments&query_place_id=ChIJSwLeFABh4YkRlD4dw9jv5xs&center=42.6783303,-72.03153379999999"
+    },
+    {
+      "name": "Stearns Pond",
+      "distance": "6.1 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Stearns%20Pond&query_place_id=ChIJoczUdABj4YkRo6VUWJIYg4s&center=42.759616,-72.027856",
+      "isFar": true
+    },
+    {
+      "name": "Bicentennial Giant Chair",
+      "distance": "7.2 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Bicentennial%20Giant%20Chair&query_place_id=ChIJW0nJ8c5Y4YkRJnU5hWH9Rt0&center=42.5759976,-71.983518",
+      "isFar": true
+    },
+    {
+      "name": "Pratt Mountain Summit",
+      "distance": "7.3 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Pratt%20Mountain%20Summit&query_place_id=ChIJN5HDBFzZ44kR83TTZwUgJuU&center=42.7325689,-71.9191767",
+      "isFar": true
+    }
+  ],
+  "hotels": [
+    {
+      "name": "Countryside Motel",
+      "distance": "1.3 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Countryside%20Motel&query_place_id=ChIJD2DsJJhg4YkRb9Vb9pMVbhw&center=42.6678463,-72.01423539999999"
+    },
+    {
+      "name": "Glen Wood II 55 Plus Community",
+      "distance": "1.7 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Glen%20Wood%20II%2055%20Plus%20Community&query_place_id=ChIJM2E9Hu9g4YkRAaFTnheO9Pk&center=42.689489599999995,-72.0153966"
+    }
+  ],
+  "gas": [
+    {
+      "name": "Mobil",
+      "distance": "0.5 mi",
+      "url": "https://www.google.com/maps/search/Mobil+near+42.6722791%2C-72.0381605"
+    },
+    {
+      "name": "Valero",
+      "distance": "0.6 mi",
+      "url": "https://www.google.com/maps/search/Valero+near+42.6722791%2C-72.0381605"
+    },
+    {
+      "name": "Valu Gasoline",
+      "distance": "0.6 mi",
+      "url": "https://www.google.com/maps/search/Valu%20Gasoline+near+42.6722791%2C-72.0381605"
+    },
+    {
+      "name": "Citgo",
+      "distance": "1.4 mi",
+      "url": "https://www.google.com/maps/search/Citgo+near+42.6722791%2C-72.0381605"
+    }
+  ]
+}

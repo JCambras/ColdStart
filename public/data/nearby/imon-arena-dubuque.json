@@ -1,0 +1,215 @@
+{
+  "quick_bite": [
+    {
+      "name": "DQ Grill & Chill Restaurant",
+      "distance": "0.3 mi",
+      "url": "https://www.google.com/maps/search/DQ%20Grill%20%26%20Chill%20Restaurant+near+42.5132493%2C-90.648808"
+    },
+    {
+      "name": "Wendy's",
+      "distance": "0.3 mi",
+      "url": "https://www.google.com/maps/search/Wendy's+near+42.5132493%2C-90.648808"
+    },
+    {
+      "name": "Champs Chicken",
+      "distance": "0.4 mi",
+      "url": "https://www.google.com/maps/search/Champs%20Chicken+near+42.5132493%2C-90.648808"
+    },
+    {
+      "name": "Hangar 54 Pizza",
+      "distance": "0.4 mi",
+      "url": "https://www.google.com/maps/search/Hangar%2054%20Pizza+near+42.5132493%2C-90.648808"
+    },
+    {
+      "name": "Hot Diggity Dogz",
+      "distance": "1.1 mi",
+      "url": "https://www.google.com/maps/search/Hot%20Diggity%20Dogz+near+42.5132493%2C-90.648808"
+    }
+  ],
+  "coffee": [
+    {
+      "name": "TO Go",
+      "distance": "0.4 mi",
+      "url": "https://www.google.com/maps/search/TO%20Go+near+42.5132493%2C-90.648808"
+    },
+    {
+      "name": "Beaker's Coffee",
+      "distance": "0.8 mi",
+      "url": "https://www.google.com/maps/search/Beaker's%20Coffee+near+42.5132493%2C-90.648808"
+    },
+    {
+      "name": "Paradigm Coffee Co.",
+      "distance": "1.0 mi",
+      "url": "https://www.google.com/maps/search/Paradigm%20Coffee%20Co.+near+42.5132493%2C-90.648808"
+    },
+    {
+      "name": "Wayfarer Coffee, LLC",
+      "distance": "1.0 mi",
+      "url": "https://www.google.com/maps/search/Wayfarer%20Coffee%2C%20LLC+near+42.5132493%2C-90.648808"
+    },
+    {
+      "name": "Charlotte's Coffee House",
+      "distance": "1.0 mi",
+      "url": "https://www.google.com/maps/search/Charlotte's%20Coffee%20House+near+42.5132493%2C-90.648808"
+    }
+  ],
+  "team_lunch": [
+    {
+      "name": "Houlihan's",
+      "distance": "0.4 mi",
+      "url": "https://www.google.com/maps/search/Houlihan's+near+42.5132493%2C-90.648808"
+    },
+    {
+      "name": "Island Social Kitchen + Bar",
+      "distance": "0.4 mi",
+      "url": "https://www.google.com/maps/search/Island%20Social%20Kitchen%20%2B%20Bar+near+42.5132493%2C-90.648808"
+    },
+    {
+      "name": "Happi Hibachi",
+      "distance": "0.9 mi",
+      "url": "https://www.google.com/maps/search/Happi%20Hibachi+near+42.5132493%2C-90.648808"
+    }
+  ],
+  "dinner": [
+    {
+      "name": "Catfish Charlie's",
+      "distance": "0.1 mi",
+      "url": "https://www.google.com/maps/search/Catfish%20Charlie's+near+42.5132493%2C-90.648808"
+    },
+    {
+      "name": "Europa Haus Restaurant and Bier Stube",
+      "distance": "0.8 mi",
+      "url": "https://www.google.com/maps/search/Europa%20Haus%20Restaurant%20and%20Bier%20Stube+near+42.5132493%2C-90.648808"
+    },
+    {
+      "name": "Yardarm Riverfront Bar & Grill",
+      "distance": "0.8 mi",
+      "url": "https://www.google.com/maps/search/Yardarm%20Riverfront%20Bar%20%26%20Grill+near+42.5132493%2C-90.648808"
+    },
+    {
+      "name": "Driftless Pizza Co",
+      "distance": "1.0 mi",
+      "url": "https://www.google.com/maps/search/Driftless%20Pizza%20Co+near+42.5132493%2C-90.648808"
+    },
+    {
+      "name": "7 Hills Brewing Company",
+      "distance": "1.0 mi",
+      "url": "https://www.google.com/maps/search/7%20Hills%20Brewing%20Company+near+42.5132493%2C-90.648808"
+    },
+    {
+      "name": "Brazen Open Kitchen | Bar",
+      "distance": "1.0 mi",
+      "url": "https://www.google.com/maps/search/Brazen%20Open%20Kitchen%20%7C%20Bar+near+42.5132493%2C-90.648808"
+    },
+    {
+      "name": "Mindful Bites",
+      "distance": "1.0 mi",
+      "url": "https://www.google.com/maps/search/Mindful%20Bites+near+42.5132493%2C-90.648808"
+    }
+  ],
+  "bowling": [
+    {
+      "name": "Cherry Lanes Bowling Alley",
+      "distance": "1.2 mi",
+      "url": "https://www.google.com/maps/search/Cherry%20Lanes%20Bowling%20Alley+near+42.5132493%2C-90.648808"
+    }
+  ],
+  "arcade": [],
+  "movies": [
+    {
+      "name": "Phoenix Theatres Kennedy Mall",
+      "distance": "4.0 mi",
+      "url": "https://www.google.com/maps/search/Phoenix%20Theatres%20Kennedy%20Mall+near+42.5132493%2C-90.648808",
+      "isFar": true
+    },
+    {
+      "name": "AMC CLASSIC Dubuque 14",
+      "distance": "4.6 mi",
+      "url": "https://www.google.com/maps/search/AMC%20CLASSIC%20Dubuque%2014+near+42.5132493%2C-90.648808",
+      "isFar": true
+    }
+  ],
+  "fun": [
+    {
+      "name": "Waterpark at Grand Harbor Resort",
+      "distance": "1.2 mi",
+      "url": "https://www.google.com/maps/search/Waterpark%20at%20Grand%20Harbor%20Resort+near+42.5132493%2C-90.648808"
+    },
+    {
+      "name": "Aqua Park at Coconut Cove",
+      "distance": "3.3 mi",
+      "url": "https://www.google.com/maps/search/Aqua%20Park%20at%20Coconut%20Cove+near+42.5132493%2C-90.648808",
+      "isFar": true
+    },
+    {
+      "name": "The Fun Station Dubuque",
+      "distance": "4.1 mi",
+      "url": "https://www.google.com/maps/search/The%20Fun%20Station%20Dubuque+near+42.5132493%2C-90.648808",
+      "isFar": true
+    }
+  ],
+  "hotels": [
+    {
+      "name": "The Key Hotel Dubuque, Tapestry Collection by Hilton",
+      "distance": "0.4 mi",
+      "url": "https://www.google.com/maps/search/The%20Key%20Hotel%20Dubuque%2C%20Tapestry%20Collection%20by%20Hilton+near+42.5132493%2C-90.648808"
+    },
+    {
+      "name": "Hilton Garden Inn Dubuque Downtown",
+      "distance": "0.4 mi",
+      "url": "https://www.google.com/maps/search/Hilton%20Garden%20Inn%20Dubuque%20Downtown+near+42.5132493%2C-90.648808"
+    },
+    {
+      "name": "Hawkeye Gaming",
+      "distance": "0.5 mi",
+      "url": "https://www.google.com/maps/search/Hawkeye%20Gaming+near+42.5132493%2C-90.648808"
+    },
+    {
+      "name": "Miller Riverview Park",
+      "distance": "0.5 mi",
+      "url": "https://www.google.com/maps/search/Miller%20Riverview%20Park+near+42.5132493%2C-90.648808"
+    },
+    {
+      "name": "Lucky 13 rooms",
+      "distance": "0.9 mi",
+      "url": "https://www.google.com/maps/search/Lucky%2013%20rooms+near+42.5132493%2C-90.648808"
+    },
+    {
+      "name": "Dubuque Luxury 2 BDR House Parking Millwork",
+      "distance": "0.9 mi",
+      "url": "https://www.google.com/maps/search/Dubuque%20Luxury%202%20BDR%20House%20Parking%20Millwork+near+42.5132493%2C-90.648808"
+    },
+    {
+      "name": "Jackson Street Suites 1",
+      "distance": "1.0 mi",
+      "url": "https://www.google.com/maps/search/Jackson%20Street%20Suites%201+near+42.5132493%2C-90.648808"
+    }
+  ],
+  "gas": [
+    {
+      "name": "bp",
+      "distance": "0.4 mi",
+      "url": "https://www.google.com/maps/search/bp+near+42.5132493%2C-90.648808"
+    },
+    {
+      "name": "bp",
+      "distance": "0.6 mi",
+      "url": "https://www.google.com/maps/search/bp+near+42.5132493%2C-90.648808"
+    },
+    {
+      "name": "bp",
+      "distance": "0.9 mi",
+      "url": "https://www.google.com/maps/search/bp+near+42.5132493%2C-90.648808"
+    },
+    {
+      "name": "Conoco",
+      "distance": "1.1 mi",
+      "url": "https://www.google.com/maps/search/Conoco+near+42.5132493%2C-90.648808"
+    },
+    {
+      "name": "Fas Mart",
+      "distance": "1.2 mi",
+      "url": "https://www.google.com/maps/search/Fas%20Mart+near+42.5132493%2C-90.648808"
+    }
+  ]
+}

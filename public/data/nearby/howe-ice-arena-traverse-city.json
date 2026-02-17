@@ -1,0 +1,218 @@
+{
+  "quick_bite": [
+    {
+      "name": "Jimmy John's",
+      "distance": "0.1 mi",
+      "url": "https://www.google.com/maps/search/Jimmy%20John's+near+44.7634639%2C-85.5920996"
+    },
+    {
+      "name": "Little Caesars Pizza",
+      "distance": "0.1 mi",
+      "url": "https://www.google.com/maps/search/Little%20Caesars%20Pizza+near+44.7634639%2C-85.5920996"
+    },
+    {
+      "name": "Jersey Mike's Subs",
+      "distance": "0.2 mi",
+      "url": "https://www.google.com/maps/search/Jersey%20Mike's%20Subs+near+44.7634639%2C-85.5920996"
+    },
+    {
+      "name": "Cottage Inn Pizza Traverse City",
+      "distance": "0.6 mi",
+      "url": "https://www.google.com/maps/search/Cottage%20Inn%20Pizza%20Traverse%20City+near+44.7634639%2C-85.5920996"
+    },
+    {
+      "name": "Taco Bell",
+      "distance": "0.6 mi",
+      "url": "https://www.google.com/maps/search/Taco%20Bell+near+44.7634639%2C-85.5920996"
+    }
+  ],
+  "coffee": [
+    {
+      "name": "Starbucks",
+      "distance": "0.1 mi",
+      "url": "https://www.google.com/maps/search/Starbucks+near+44.7634639%2C-85.5920996"
+    },
+    {
+      "name": "Cuppa Joe Drive Thru",
+      "distance": "0.2 mi",
+      "url": "https://www.google.com/maps/search/Cuppa%20Joe%20Drive%20Thru+near+44.7634639%2C-85.5920996"
+    },
+    {
+      "name": "Common Good Bakery",
+      "distance": "0.3 mi",
+      "url": "https://www.google.com/maps/search/Common%20Good%20Bakery+near+44.7634639%2C-85.5920996"
+    },
+    {
+      "name": "Dunkin donuts",
+      "distance": "0.6 mi",
+      "url": "https://www.google.com/maps/search/Dunkin%20donuts+near+44.7634639%2C-85.5920996"
+    }
+  ],
+  "team_lunch": [
+    {
+      "name": "CuTea Boba",
+      "distance": "0.2 mi",
+      "url": "https://www.google.com/maps/search/CuTea%20Boba+near+44.7634639%2C-85.5920996"
+    },
+    {
+      "name": "Kumite Underground Noodles",
+      "distance": "0.4 mi",
+      "url": "https://www.google.com/maps/search/Kumite%20Underground%20Noodles+near+44.7634639%2C-85.5920996"
+    }
+  ],
+  "dinner": [
+    {
+      "name": "Detroit Wing Company",
+      "distance": "0.1 mi",
+      "url": "https://www.google.com/maps/search/Detroit%20Wing%20Company+near+44.7634639%2C-85.5920996"
+    },
+    {
+      "name": "The Omelette Shoppe",
+      "distance": "0.1 mi",
+      "url": "https://www.google.com/maps/search/The%20Omelette%20Shoppe+near+44.7634639%2C-85.5920996"
+    },
+    {
+      "name": "Thai Café",
+      "distance": "0.1 mi",
+      "url": "https://www.google.com/maps/search/Thai%20Caf%C3%A9+near+44.7634639%2C-85.5920996"
+    },
+    {
+      "name": "Bubbie's Bagels",
+      "distance": "0.1 mi",
+      "url": "https://www.google.com/maps/search/Bubbie's%20Bagels+near+44.7634639%2C-85.5920996"
+    },
+    {
+      "name": "Reflect Bistro",
+      "distance": "0.3 mi",
+      "url": "https://www.google.com/maps/search/Reflect%20Bistro+near+44.7634639%2C-85.5920996"
+    },
+    {
+      "name": "Oakwood Proper Burgers",
+      "distance": "0.4 mi",
+      "url": "https://www.google.com/maps/search/Oakwood%20Proper%20Burgers+near+44.7634639%2C-85.5920996"
+    },
+    {
+      "name": "Round's Restaurant",
+      "distance": "0.4 mi",
+      "url": "https://www.google.com/maps/search/Round's%20Restaurant+near+44.7634639%2C-85.5920996"
+    }
+  ],
+  "bowling": [
+    {
+      "name": "Snookers Billiards",
+      "distance": "1.9 mi",
+      "url": "https://www.google.com/maps/search/Snookers%20Billiards+near+44.7634639%2C-85.5920996"
+    }
+  ],
+  "arcade": [],
+  "movies": [
+    {
+      "name": "State Theatre",
+      "distance": "1.3 mi",
+      "url": "https://www.google.com/maps/search/State%20Theatre+near+44.7634639%2C-85.5920996"
+    },
+    {
+      "name": "IMAX",
+      "distance": "3.5 mi",
+      "url": "https://www.google.com/maps/search/IMAX+near+44.7634639%2C-85.5920996",
+      "isFar": true
+    },
+    {
+      "name": "AMC Cherry Blossom 14",
+      "distance": "3.5 mi",
+      "url": "https://www.google.com/maps/search/AMC%20Cherry%20Blossom%2014+near+44.7634639%2C-85.5920996",
+      "isFar": true
+    }
+  ],
+  "fun": [
+    {
+      "name": "Traverse City Cherry Festival Fair",
+      "distance": "1.5 mi",
+      "url": "https://www.google.com/maps/search/Traverse%20City%20Cherry%20Festival%20Fair+near+44.7634639%2C-85.5920996"
+    },
+    {
+      "name": "Timewind Escape Rooms",
+      "distance": "1.7 mi",
+      "url": "https://www.google.com/maps/search/Timewind%20Escape%20Rooms+near+44.7634639%2C-85.5920996"
+    },
+    {
+      "name": "K1 Speed - Indoor Go Karts, Corporate Event Venue, Team Building Activities",
+      "distance": "2.0 mi",
+      "url": "https://www.google.com/maps/search/K1%20Speed%20-%20Indoor%20Go%20Karts%2C%20Corporate%20Event%20Venue%2C%20Team%20Building%20Activities+near+44.7634639%2C-85.5920996"
+    },
+    {
+      "name": "Mi Smash Therapy",
+      "distance": "2.6 mi",
+      "url": "https://www.google.com/maps/search/Mi%20Smash%20Therapy+near+44.7634639%2C-85.5920996"
+    },
+    {
+      "name": "Pirate's Cove Adventure Park",
+      "distance": "2.8 mi",
+      "url": "https://www.google.com/maps/search/Pirate's%20Cove%20Adventure%20Park+near+44.7634639%2C-85.5920996"
+    }
+  ],
+  "hotels": [
+    {
+      "name": "Bluewater Zen - Downtown Traverse City Condo",
+      "distance": "0.2 mi",
+      "url": "https://www.google.com/maps/search/Bluewater%20Zen%20-%20Downtown%20Traverse%20City%20Condo+near+44.7634639%2C-85.5920996"
+    },
+    {
+      "name": "Bay Town Suite --Hospitality By the Bay",
+      "distance": "0.2 mi",
+      "url": "https://www.google.com/maps/search/Bay%20Town%20Suite%20--Hospitality%20By%20the%20Bay+near+44.7634639%2C-85.5920996"
+    },
+    {
+      "name": "Bay Town Suite --Hospitality By the Bay",
+      "distance": "0.2 mi",
+      "url": "https://www.google.com/maps/search/Bay%20Town%20Suite%20--Hospitality%20By%20the%20Bay+near+44.7634639%2C-85.5920996"
+    },
+    {
+      "name": "Bay Town Suite",
+      "distance": "0.2 mi",
+      "url": "https://www.google.com/maps/search/Bay%20Town%20Suite+near+44.7634639%2C-85.5920996"
+    },
+    {
+      "name": "Close to Downtown Apartment",
+      "distance": "0.3 mi",
+      "url": "https://www.google.com/maps/search/Close%20to%20Downtown%20Apartment+near+44.7634639%2C-85.5920996"
+    },
+    {
+      "name": "Peninsula One unit 18 Close to downtown and beach",
+      "distance": "0.3 mi",
+      "url": "https://www.google.com/maps/search/Peninsula%20One%20unit%2018%20Close%20to%20downtown%20and%20beach+near+44.7634639%2C-85.5920996"
+    },
+    {
+      "name": "Peninsula One Apartments Unit 22",
+      "distance": "0.3 mi",
+      "url": "https://www.google.com/maps/search/Peninsula%20One%20Apartments%20Unit%2022+near+44.7634639%2C-85.5920996"
+    }
+  ],
+  "gas": [
+    {
+      "name": "Mutual Gas Station",
+      "distance": "0.4 mi",
+      "url": "https://www.google.com/maps/search/Mutual%20Gas%20Station+near+44.7634639%2C-85.5920996"
+    },
+    {
+      "name": "Admiral Gas Station",
+      "distance": "0.7 mi",
+      "url": "https://www.google.com/maps/search/Admiral%20Gas%20Station+near+44.7634639%2C-85.5920996"
+    },
+    {
+      "name": "bp",
+      "distance": "0.8 mi",
+      "url": "https://www.google.com/maps/search/bp+near+44.7634639%2C-85.5920996"
+    },
+    {
+      "name": "Shell",
+      "distance": "1.0 mi",
+      "url": "https://www.google.com/maps/search/Shell+near+44.7634639%2C-85.5920996"
+    },
+    {
+      "name": "TrueNorth Shell #250",
+      "distance": "1.1 mi",
+      "url": "https://www.google.com/maps/search/TrueNorth%20Shell%20%23250+near+44.7634639%2C-85.5920996"
+    }
+  ]
+}

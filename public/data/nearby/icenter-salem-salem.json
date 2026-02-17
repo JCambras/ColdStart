@@ -1,0 +1,211 @@
+{
+  "quick_bite": [
+    {
+      "name": "Fresh Hub Eatery",
+      "distance": "0.6 mi",
+      "url": "https://www.google.com/maps/search/Fresh%20Hub%20Eatery+near+42.765454299999995%2C-71.24859359999999"
+    },
+    {
+      "name": "Michael's Flatbread Bar & Grill",
+      "distance": "0.7 mi",
+      "url": "https://www.google.com/maps/search/Michael's%20Flatbread%20Bar%20%26%20Grill+near+42.765454299999995%2C-71.24859359999999"
+    },
+    {
+      "name": "Kong dog",
+      "distance": "0.8 mi",
+      "url": "https://www.google.com/maps/search/Kong%20dog+near+42.765454299999995%2C-71.24859359999999"
+    },
+    {
+      "name": "Wayback Burgers",
+      "distance": "0.9 mi",
+      "url": "https://www.google.com/maps/search/Wayback%20Burgers+near+42.765454299999995%2C-71.24859359999999"
+    },
+    {
+      "name": "Sbarro Rockingham",
+      "distance": "0.9 mi",
+      "url": "https://www.google.com/maps/search/Sbarro%20Rockingham+near+42.765454299999995%2C-71.24859359999999"
+    },
+    {
+      "name": "Red Robin Gourmet Burgers and Brews",
+      "distance": "0.9 mi",
+      "url": "https://www.google.com/maps/search/Red%20Robin%20Gourmet%20Burgers%20and%20Brews+near+42.765454299999995%2C-71.24859359999999"
+    },
+    {
+      "name": "Cinemark Rockingham Park and XD",
+      "distance": "1.0 mi",
+      "url": "https://www.google.com/maps/search/Cinemark%20Rockingham%20Park%20and%20XD+near+42.765454299999995%2C-71.24859359999999"
+    }
+  ],
+  "coffee": [
+    {
+      "name": "Dunkin'",
+      "distance": "0.4 mi",
+      "url": "https://www.google.com/maps/search/Dunkin'+near+42.765454299999995%2C-71.24859359999999"
+    },
+    {
+      "name": "Dunkin'",
+      "distance": "0.7 mi",
+      "url": "https://www.google.com/maps/search/Dunkin'+near+42.765454299999995%2C-71.24859359999999"
+    },
+    {
+      "name": "Wicked good coffee donuts and more",
+      "distance": "0.7 mi",
+      "url": "https://www.google.com/maps/search/Wicked%20good%20coffee%20donuts%20and%20more+near+42.765454299999995%2C-71.24859359999999"
+    }
+  ],
+  "team_lunch": [
+    {
+      "name": "Top Gun Grille",
+      "distance": "0.1 mi",
+      "url": "https://www.google.com/maps/search/Top%20Gun%20Grille+near+42.765454299999995%2C-71.24859359999999"
+    },
+    {
+      "name": "Penalty Box Bar and Grill",
+      "distance": "0.1 mi",
+      "url": "https://www.google.com/maps/search/Penalty%20Box%20Bar%20and%20Grill+near+42.765454299999995%2C-71.24859359999999"
+    },
+    {
+      "name": "Margaritas Mexican Restaurant",
+      "distance": "0.6 mi",
+      "url": "https://www.google.com/maps/search/Margaritas%20Mexican%20Restaurant+near+42.765454299999995%2C-71.24859359999999"
+    },
+    {
+      "name": "Charleys Cheesesteaks",
+      "distance": "0.8 mi",
+      "url": "https://www.google.com/maps/search/Charleys%20Cheesesteaks+near+42.765454299999995%2C-71.24859359999999"
+    },
+    {
+      "name": "Master Wok",
+      "distance": "0.8 mi",
+      "url": "https://www.google.com/maps/search/Master%20Wok+near+42.765454299999995%2C-71.24859359999999"
+    }
+  ],
+  "dinner": [
+    {
+      "name": "Rose's Home Cookin'",
+      "distance": "0.4 mi",
+      "url": "https://www.google.com/maps/search/Rose's%20Home%20Cookin'+near+42.765454299999995%2C-71.24859359999999"
+    },
+    {
+      "name": "Cancun Pizza",
+      "distance": "0.6 mi",
+      "url": "https://www.google.com/maps/search/Cancun%20Pizza+near+42.765454299999995%2C-71.24859359999999"
+    },
+    {
+      "name": "Black Water Grill",
+      "distance": "0.7 mi",
+      "url": "https://www.google.com/maps/search/Black%20Water%20Grill+near+42.765454299999995%2C-71.24859359999999"
+    },
+    {
+      "name": "Cibao kitchen",
+      "distance": "0.8 mi",
+      "url": "https://www.google.com/maps/search/Cibao%20kitchen+near+42.765454299999995%2C-71.24859359999999"
+    },
+    {
+      "name": "Appleseed Crepe And Bread",
+      "distance": "0.8 mi",
+      "url": "https://www.google.com/maps/search/Appleseed%20Crepe%20And%20Bread+near+42.765454299999995%2C-71.24859359999999"
+    }
+  ],
+  "bowling": [],
+  "arcade": [],
+  "movies": [
+    {
+      "name": "AMC Methuen 20",
+      "distance": "4.9 mi",
+      "url": "https://www.google.com/maps/search/AMC%20Methuen%2020+near+42.765454299999995%2C-71.24859359999999",
+      "isFar": true
+    }
+  ],
+  "fun": [
+    {
+      "name": "Slime Zone",
+      "distance": "0.9 mi",
+      "url": "https://www.google.com/maps/search/Slime%20Zone+near+42.765454299999995%2C-71.24859359999999"
+    },
+    {
+      "name": "Castaway Island",
+      "distance": "1.9 mi",
+      "url": "https://www.google.com/maps/search/Castaway%20Island+near+42.765454299999995%2C-71.24859359999999"
+    },
+    {
+      "name": "Canobie Lake Park",
+      "distance": "1.9 mi",
+      "url": "https://www.google.com/maps/search/Canobie%20Lake%20Park+near+42.765454299999995%2C-71.24859359999999"
+    },
+    {
+      "name": "Canobie Lake Park Parking",
+      "distance": "2.0 mi",
+      "url": "https://www.google.com/maps/search/Canobie%20Lake%20Park%20Parking+near+42.765454299999995%2C-71.24859359999999"
+    },
+    {
+      "name": "Fun City Trampoline Park Salem",
+      "distance": "2.7 mi",
+      "url": "https://www.google.com/maps/search/Fun%20City%20Trampoline%20Park%20Salem+near+42.765454299999995%2C-71.24859359999999"
+    }
+  ],
+  "hotels": [
+    {
+      "name": "La Quinta Inn & Suites by Wyndham Salem NH",
+      "distance": "0.6 mi",
+      "url": "https://www.google.com/maps/search/La%20Quinta%20Inn%20%26%20Suites%20by%20Wyndham%20Salem%20NH+near+42.765454299999995%2C-71.24859359999999"
+    },
+    {
+      "name": "Holiday Inn Salem (I-93 at Exit 2) by IHG",
+      "distance": "0.6 mi",
+      "url": "https://www.google.com/maps/search/Holiday%20Inn%20Salem%20(I-93%20at%20Exit%202)%20by%20IHG+near+42.765454299999995%2C-71.24859359999999"
+    },
+    {
+      "name": "Cozy 1 bedroom basemant apt with private entrance and AC in the heart of Salem",
+      "distance": "0.7 mi",
+      "url": "https://www.google.com/maps/search/Cozy%201%20bedroom%20basemant%20apt%20with%20private%20entrance%20and%20AC%20in%20the%20heart%20of%20Salem+near+42.765454299999995%2C-71.24859359999999"
+    },
+    {
+      "name": "Walk to Tuscan Village | Modern 3bd Farmhouse",
+      "distance": "0.8 mi",
+      "url": "https://www.google.com/maps/search/Walk%20to%20Tuscan%20Village%20%7C%20Modern%203bd%20Farmhouse+near+42.765454299999995%2C-71.24859359999999"
+    },
+    {
+      "name": "Cozy 1 bedroom basemant apt with private entrance and AC in the heart of Salem",
+      "distance": "1.0 mi",
+      "url": "https://www.google.com/maps/search/Cozy%201%20bedroom%20basemant%20apt%20with%20private%20entrance%20and%20AC%20in%20the%20heart%20of%20Salem+near+42.765454299999995%2C-71.24859359999999"
+    },
+    {
+      "name": "Red Roof Inn Salem",
+      "distance": "1.0 mi",
+      "url": "https://www.google.com/maps/search/Red%20Roof%20Inn%20Salem+near+42.765454299999995%2C-71.24859359999999"
+    },
+    {
+      "name": "The Artisan at Tuscan Village, a Tribute Portfolio Hotel",
+      "distance": "1.3 mi",
+      "url": "https://www.google.com/maps/search/The%20Artisan%20at%20Tuscan%20Village%2C%20a%20Tribute%20Portfolio%20Hotel+near+42.765454299999995%2C-71.24859359999999"
+    }
+  ],
+  "gas": [
+    {
+      "name": "GLOBAL",
+      "distance": "0.2 mi",
+      "url": "https://www.google.com/maps/search/GLOBAL+near+42.765454299999995%2C-71.24859359999999"
+    },
+    {
+      "name": "Citgo",
+      "distance": "0.7 mi",
+      "url": "https://www.google.com/maps/search/Citgo+near+42.765454299999995%2C-71.24859359999999"
+    },
+    {
+      "name": "Mobil",
+      "distance": "0.7 mi",
+      "url": "https://www.google.com/maps/search/Mobil+near+42.765454299999995%2C-71.24859359999999"
+    },
+    {
+      "name": "Mobil",
+      "distance": "1.0 mi",
+      "url": "https://www.google.com/maps/search/Mobil+near+42.765454299999995%2C-71.24859359999999"
+    },
+    {
+      "name": "Rockingham Citgo",
+      "distance": "1.6 mi",
+      "url": "https://www.google.com/maps/search/Rockingham%20Citgo+near+42.765454299999995%2C-71.24859359999999"
+    }
+  ]
+}

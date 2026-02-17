@@ -1,0 +1,224 @@
+{
+  "quick_bite": [
+    {
+      "name": "Olive Garden Italian Restaurant",
+      "distance": "0.2 mi",
+      "url": "https://www.google.com/maps/search/Olive%20Garden%20Italian%20Restaurant+near+43.054735699999995%2C-88.37486679999999"
+    },
+    {
+      "name": "Jersey Mike's Subs",
+      "distance": "0.2 mi",
+      "url": "https://www.google.com/maps/search/Jersey%20Mike's%20Subs+near+43.054735699999995%2C-88.37486679999999"
+    },
+    {
+      "name": "Five Guys",
+      "distance": "0.2 mi",
+      "url": "https://www.google.com/maps/search/Five%20Guys+near+43.054735699999995%2C-88.37486679999999"
+    },
+    {
+      "name": "Chick-fil-A",
+      "distance": "0.2 mi",
+      "url": "https://www.google.com/maps/search/Chick-fil-A+near+43.054735699999995%2C-88.37486679999999"
+    },
+    {
+      "name": "Burger King",
+      "distance": "0.3 mi",
+      "url": "https://www.google.com/maps/search/Burger%20King+near+43.054735699999995%2C-88.37486679999999"
+    },
+    {
+      "name": "Subway",
+      "distance": "0.4 mi",
+      "url": "https://www.google.com/maps/search/Subway+near+43.054735699999995%2C-88.37486679999999"
+    },
+    {
+      "name": "Dairy Queen Grill & Chill",
+      "distance": "0.4 mi",
+      "url": "https://www.google.com/maps/search/Dairy%20Queen%20Grill%20%26%20Chill+near+43.054735699999995%2C-88.37486679999999"
+    }
+  ],
+  "coffee": [
+    {
+      "name": "McDonald's",
+      "distance": "0.1 mi",
+      "url": "https://www.google.com/maps/search/McDonald's+near+43.054735699999995%2C-88.37486679999999"
+    },
+    {
+      "name": "Starbucks Coffee Company",
+      "distance": "0.2 mi",
+      "url": "https://www.google.com/maps/search/Starbucks%20Coffee%20Company+near+43.054735699999995%2C-88.37486679999999"
+    },
+    {
+      "name": "Starbucks Coffee Company",
+      "distance": "0.3 mi",
+      "url": "https://www.google.com/maps/search/Starbucks%20Coffee%20Company+near+43.054735699999995%2C-88.37486679999999"
+    },
+    {
+      "name": "Panera Bread",
+      "distance": "0.4 mi",
+      "url": "https://www.google.com/maps/search/Panera%20Bread+near+43.054735699999995%2C-88.37486679999999"
+    }
+  ],
+  "team_lunch": [
+    {
+      "name": "IHOP",
+      "distance": "0.4 mi",
+      "url": "https://www.google.com/maps/search/IHOP+near+43.054735699999995%2C-88.37486679999999"
+    },
+    {
+      "name": "Applebee's Grill + Bar",
+      "distance": "0.4 mi",
+      "url": "https://www.google.com/maps/search/Applebee's%20Grill%20%2B%20Bar+near+43.054735699999995%2C-88.37486679999999"
+    }
+  ],
+  "dinner": [
+    {
+      "name": "Crumbl",
+      "distance": "0.2 mi",
+      "url": "https://www.google.com/maps/search/Crumbl+near+43.054735699999995%2C-88.37486679999999"
+    },
+    {
+      "name": "Marty's Pizza Delafield",
+      "distance": "0.4 mi",
+      "url": "https://www.google.com/maps/search/Marty's%20Pizza%20Delafield+near+43.054735699999995%2C-88.37486679999999"
+    },
+    {
+      "name": "Nothing Bundt Cakes",
+      "distance": "0.4 mi",
+      "url": "https://www.google.com/maps/search/Nothing%20Bundt%20Cakes+near+43.054735699999995%2C-88.37486679999999"
+    },
+    {
+      "name": "Water Street Brewery Lake Country",
+      "distance": "0.5 mi",
+      "url": "https://www.google.com/maps/search/Water%20Street%20Brewery%20Lake%20Country+near+43.054735699999995%2C-88.37486679999999"
+    },
+    {
+      "name": "The Chocolate Factory",
+      "distance": "0.5 mi",
+      "url": "https://www.google.com/maps/search/The%20Chocolate%20Factory+near+43.054735699999995%2C-88.37486679999999"
+    }
+  ],
+  "bowling": [
+    {
+      "name": "Foxx View Lanes",
+      "distance": "6.9 mi",
+      "url": "https://www.google.com/maps/search/Foxx%20View%20Lanes+near+43.054735699999995%2C-88.37486679999999",
+      "isFar": true
+    },
+    {
+      "name": "Sussex Bowl",
+      "distance": "8.9 mi",
+      "url": "https://www.google.com/maps/search/Sussex%20Bowl+near+43.054735699999995%2C-88.37486679999999",
+      "isFar": true
+    },
+    {
+      "name": "Mapleway Bowl & Restaurant",
+      "distance": "9.1 mi",
+      "url": "https://www.google.com/maps/search/Mapleway%20Bowl%20%26%20Restaurant+near+43.054735699999995%2C-88.37486679999999",
+      "isFar": true
+    }
+  ],
+  "arcade": [],
+  "movies": [
+    {
+      "name": "Marcus Hillside Cinema",
+      "distance": "0.6 mi",
+      "url": "https://www.google.com/maps/search/Marcus%20Hillside%20Cinema+near+43.054735699999995%2C-88.37486679999999"
+    }
+  ],
+  "fun": [
+    {
+      "name": "Lake Country Rotary Splash Pad",
+      "distance": "3.5 mi",
+      "url": "https://www.google.com/maps/search/Lake%20Country%20Rotary%20Splash%20Pad+near+43.054735699999995%2C-88.37486679999999",
+      "isFar": true
+    },
+    {
+      "name": "Springs Water Park",
+      "distance": "5.0 mi",
+      "url": "https://www.google.com/maps/search/Springs%20Water%20Park+near+43.054735699999995%2C-88.37486679999999",
+      "isFar": true
+    },
+    {
+      "name": "Escape Waukesha (Escape Rooms)",
+      "distance": "5.5 mi",
+      "url": "https://www.google.com/maps/search/Escape%20Waukesha%20(Escape%20Rooms)+near+43.054735699999995%2C-88.37486679999999",
+      "isFar": true
+    },
+    {
+      "name": "Lake Country Kids",
+      "distance": "6.2 mi",
+      "url": "https://www.google.com/maps/search/Lake%20Country%20Kids+near+43.054735699999995%2C-88.37486679999999",
+      "isFar": true
+    },
+    {
+      "name": "K1 Speed Milwaukee",
+      "distance": "8.6 mi",
+      "url": "https://www.google.com/maps/search/K1%20Speed%20Milwaukee+near+43.054735699999995%2C-88.37486679999999",
+      "isFar": true
+    }
+  ],
+  "hotels": [
+    {
+      "name": "American inn",
+      "distance": "0.1 mi",
+      "url": "https://www.google.com/maps/search/American%20inn+near+43.054735699999995%2C-88.37486679999999"
+    },
+    {
+      "name": "AmericInn by Wyndham Delafield",
+      "distance": "0.1 mi",
+      "url": "https://www.google.com/maps/search/AmericInn%20by%20Wyndham%20Delafield+near+43.054735699999995%2C-88.37486679999999"
+    },
+    {
+      "name": "Holiday Inn Express & Suites Delafield by IHG",
+      "distance": "0.3 mi",
+      "url": "https://www.google.com/maps/search/Holiday%20Inn%20Express%20%26%20Suites%20Delafield%20by%20IHG+near+43.054735699999995%2C-88.37486679999999"
+    },
+    {
+      "name": "La Quinta Inn & Suites by Wyndham Milwaukee Delafield",
+      "distance": "0.5 mi",
+      "url": "https://www.google.com/maps/search/La%20Quinta%20Inn%20%26%20Suites%20by%20Wyndham%20Milwaukee%20Delafield+near+43.054735699999995%2C-88.37486679999999"
+    },
+    {
+      "name": "3-bedroom 2-acre retreat steps from Nagawicka Lake and Park",
+      "distance": "0.5 mi",
+      "url": "https://www.google.com/maps/search/3-bedroom%202-acre%20retreat%20steps%20from%20Nagawicka%20Lake%20and%20Park+near+43.054735699999995%2C-88.37486679999999"
+    },
+    {
+      "name": "3-bedroom 2-acre retreat steps from Nagawicka Lake and Park",
+      "distance": "0.7 mi",
+      "url": "https://www.google.com/maps/search/3-bedroom%202-acre%20retreat%20steps%20from%20Nagawicka%20Lake%20and%20Park+near+43.054735699999995%2C-88.37486679999999"
+    },
+    {
+      "name": "Mariner Harbor: 5BR Lake House, Pontoon Rental, Walk to beach",
+      "distance": "0.8 mi",
+      "url": "https://www.google.com/maps/search/Mariner%20Harbor%3A%205BR%20Lake%20House%2C%20Pontoon%20Rental%2C%20Walk%20to%20beach+near+43.054735699999995%2C-88.37486679999999"
+    }
+  ],
+  "gas": [
+    {
+      "name": "Mobil",
+      "distance": "1.5 mi",
+      "url": "https://www.google.com/maps/search/Mobil+near+43.054735699999995%2C-88.37486679999999"
+    },
+    {
+      "name": "Mobil",
+      "distance": "2.8 mi",
+      "url": "https://www.google.com/maps/search/Mobil+near+43.054735699999995%2C-88.37486679999999"
+    },
+    {
+      "name": "Kwik Trip",
+      "distance": "3.3 mi",
+      "url": "https://www.google.com/maps/search/Kwik%20Trip+near+43.054735699999995%2C-88.37486679999999"
+    },
+    {
+      "name": "Hartland Village Mart",
+      "distance": "3.8 mi",
+      "url": "https://www.google.com/maps/search/Hartland%20Village%20Mart+near+43.054735699999995%2C-88.37486679999999"
+    },
+    {
+      "name": "Citgo",
+      "distance": "3.8 mi",
+      "url": "https://www.google.com/maps/search/Citgo+near+43.054735699999995%2C-88.37486679999999"
+    }
+  ]
+}

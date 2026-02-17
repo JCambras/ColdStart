@@ -1,0 +1,215 @@
+{
+  "quick_bite": [
+    {
+      "name": "Bailey's Backyard",
+      "distance": "0.6 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Bailey's%20Backyard&query_place_id=ChIJf9CTVCSqwokR3xOyIHS1RMU&center=41.281778599999996,-73.4973071"
+    },
+    {
+      "name": "JAIPORE Xpress",
+      "distance": "0.6 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=JAIPORE%20Xpress&query_place_id=ChIJb9gQVpurwokR4tM_nYV8m9A&center=41.2818293,-73.4974508"
+    },
+    {
+      "name": "Chez Lenard",
+      "distance": "0.6 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Chez%20Lenard&query_place_id=ChIJmcNvGQCrwokRIi0wd_AUZlk&center=41.282827999999995,-73.4982709"
+    },
+    {
+      "name": "Jersey Mike's Subs",
+      "distance": "1.2 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Jersey%20Mike's%20Subs&query_place_id=ChIJ2yZbrECqwokRiNr9-HQj5uM&center=41.2950066,-73.49354"
+    },
+    {
+      "name": "Subway",
+      "distance": "2.6 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Subway&query_place_id=ChIJidqEPSAC6IkRSsJdEMA024w&center=41.265018,-73.4410857"
+    },
+    {
+      "name": "Subway",
+      "distance": "3.2 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Subway&query_place_id=ChIJf3z7l5qqwokR2-A6xukn2ak&center=41.3236144,-73.4748858",
+      "isFar": true
+    }
+  ],
+  "coffee": [
+    {
+      "name": "Tazza Cafe Ridgefield",
+      "distance": "0.6 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Tazza%20Cafe%20Ridgefield&query_place_id=ChIJBV7XpSWqwokRLXOP0Of2SnM&center=41.281828499999996,-73.4983005"
+    },
+    {
+      "name": "Plank Ridgefield Ι Fitness Studio, Coffee Shop & Retail Store",
+      "distance": "0.6 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Plank%20Ridgefield%20%CE%99%20Fitness%20Studio%2C%20Coffee%20Shop%20%26%20Retail%20Store&query_place_id=ChIJ2YxHpMSrwokRHKqGcUNE1W4&center=41.28116,-73.498739"
+    },
+    {
+      "name": "Queen B Coffee Company",
+      "distance": "0.6 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Queen%20B%20Coffee%20Company&query_place_id=ChIJW86QT7KrwokRosWwR4z-964&center=41.2820985,-73.49878509999999"
+    },
+    {
+      "name": "Heads Up Café",
+      "distance": "0.6 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Heads%20Up%20Caf%C3%A9&query_place_id=ChIJeSbwBnyrwokR-u5XU9CA6Jw&center=41.2837507,-73.4973899"
+    },
+    {
+      "name": "Dog Daze Cafe",
+      "distance": "3.6 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Dog%20Daze%20Cafe&query_place_id=ChIJSeH2aEUD6IkR9DX9xUgoWGc&center=41.2439982,-73.4343049",
+      "isFar": true
+    }
+  ],
+  "team_lunch": [
+    {
+      "name": "Planet Pizza",
+      "distance": "0.6 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Planet%20Pizza&query_place_id=ChIJH66woCWqwokRe7Mo8qXjFAA&center=41.282030999999996,-73.498769"
+    },
+    {
+      "name": "Petunias Sweet Treats",
+      "distance": "0.9 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Petunias%20Sweet%20Treats&query_place_id=ChIJswLFdkKpwokRqQwx4sJT87g&center=41.264861499999995,-73.49215769999999"
+    },
+    {
+      "name": "Food for the Soul",
+      "distance": "1.8 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Food%20for%20the%20Soul&query_place_id=ChIJTzScCgCrwokRApMJ3yppZkU&center=41.303939899999996,-73.4921306"
+    }
+  ],
+  "dinner": [
+    {
+      "name": "The Lantern",
+      "distance": "0.6 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=The%20Lantern&query_place_id=ChIJtyHph_qrwokRxRoKfqYnhvw&center=41.280847699999995,-73.4979616"
+    },
+    {
+      "name": "Elizabella's Bake Shop",
+      "distance": "0.6 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Elizabella's%20Bake%20Shop&query_place_id=ChIJyZCMViSqwokRgNW7PpI5Hpo&center=41.2818263,-73.4975802"
+    },
+    {
+      "name": "Gallo Ristorante",
+      "distance": "0.6 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Gallo%20Ristorante&query_place_id=ChIJ3YlQkGurwokRqeuPb_XJAms&center=41.2841259,-73.4951493"
+    },
+    {
+      "name": "850 Wood Fired Restaurant",
+      "distance": "0.6 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=850%20Wood%20Fired%20Restaurant&query_place_id=ChIJp36vpyWqwokRtH0WoJarqY4&center=41.282091,-73.49760189999999"
+    },
+    {
+      "name": "Terrasole Ristorante",
+      "distance": "0.6 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Terrasole%20Ristorante&query_place_id=ChIJxf5XCCWqwokRbXDHr9tUC6o&center=41.2825354,-73.4973723"
+    },
+    {
+      "name": "Luc's Café",
+      "distance": "0.6 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Luc's%20Caf%C3%A9&query_place_id=ChIJxf5XCCWqwokRJj6N5F5I648&center=41.2825327,-73.4974094"
+    }
+  ],
+  "bowling": [
+    {
+      "name": "Round1 Bowling & Arcade Danbury Fair Mall",
+      "distance": "7.0 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Round1%20Bowling%20%26%20Arcade%20Danbury%20Fair%20Mall&query_place_id=ChIJacV08c1V3YkRHACaOIbPGE4&center=41.3794567,-73.4803939",
+      "isFar": true
+    }
+  ],
+  "arcade": [],
+  "movies": [
+    {
+      "name": "Prospector Theater",
+      "distance": "0.6 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Prospector%20Theater&query_place_id=ChIJiU9vxSSqwokRBlR7ad6jKZY&center=41.2837507,-73.4973899"
+    },
+    {
+      "name": "Ridgefield Drive-in",
+      "distance": "4.0 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Ridgefield%20Drive-in&query_place_id=ChIJyb6z0w2rwokR9U3Bxv8PHAQ&center=41.3261,-73.5305",
+      "isFar": true
+    },
+    {
+      "name": "Greenwood Features",
+      "distance": "7.5 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Greenwood%20Features&query_place_id=ChIJUxkeuDH_54kRykf3KmQ5WkY&center=41.373876599999996,-73.4214741",
+      "isFar": true
+    }
+  ],
+  "fun": [
+    {
+      "name": "Balanced Rock",
+      "distance": "5.8 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Balanced%20Rock&query_place_id=ChIJl4L1-4-swokRcA1gtT1hF-0&center=41.3340368,-73.5715256",
+      "isFar": true
+    },
+    {
+      "name": "Leatherman Overlook",
+      "distance": "6.4 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Leatherman%20Overlook&query_place_id=ChIJiyvVCOWvwokR0L8C3dV9DGM&center=41.2428678,-73.60288109999999",
+      "isFar": true
+    },
+    {
+      "name": "The Leatherman's Cave",
+      "distance": "6.5 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=The%20Leatherman's%20Cave&query_place_id=ChIJX85mj8KvwokRmpYIfiOXZ3s&center=41.2415533,-73.6029502",
+      "isFar": true
+    },
+    {
+      "name": "Pound Ridge Lake",
+      "distance": "6.9 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Pound%20Ridge%20Lake&query_place_id=ChIJ_alUAgClwokRWoqrZ-ST_KM&center=41.2007507,-73.5714413",
+      "isFar": true
+    }
+  ],
+  "hotels": [
+    {
+      "name": "Marine Corps League",
+      "distance": "0.3 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Marine%20Corps%20League&query_place_id=ChIJJSvyEBiqwokRu-DWnhph-mg&center=41.282541200000004,-73.48778960000001"
+    },
+    {
+      "name": "The Fountain Inn",
+      "distance": "0.6 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=The%20Fountain%20Inn&query_place_id=ChIJI5hQV0apwokRnDyIP35p_gA&center=41.2725879,-73.49672559999999"
+    },
+    {
+      "name": "Collins' Quarters",
+      "distance": "0.7 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Collins'%20Quarters&query_place_id=ChIJbbnbryWqwokRDhTCgNyrGXo&center=41.284063499999995,-73.4975412"
+    },
+    {
+      "name": "GROVE OFFICE PARK",
+      "distance": "0.7 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=GROVE%20OFFICE%20PARK&query_place_id=ChIJlZ5SYTyqwokR0p2-xXh0XXs&center=41.287021599999996,-73.49286649999999"
+    },
+    {
+      "name": "West Lane Inn",
+      "distance": "0.7 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=West%20Lane%20Inn&query_place_id=ChIJZVb_8oipwokR-jbu7-Ubrmw&center=41.2721794,-73.49941749999999"
+    }
+  ],
+  "gas": [
+    {
+      "name": "Sunoco",
+      "distance": "1.0 mi",
+      "url": "https://www.google.com/maps/search/Sunoco+near+41.2776879%2C-73.48815739999999"
+    },
+    {
+      "name": "Mobil",
+      "distance": "1.0 mi",
+      "url": "https://www.google.com/maps/search/Mobil+near+41.2776879%2C-73.48815739999999"
+    },
+    {
+      "name": "Pfei Tres Inc",
+      "distance": "1.0 mi",
+      "url": "https://www.google.com/maps/search/Pfei%20Tres%20Inc+near+41.2776879%2C-73.48815739999999"
+    },
+    {
+      "name": "Ridgefield Fuel Associates",
+      "distance": "1.1 mi",
+      "url": "https://www.google.com/maps/search/Ridgefield%20Fuel%20Associates+near+41.2776879%2C-73.48815739999999"
+    }
+  ]
+}

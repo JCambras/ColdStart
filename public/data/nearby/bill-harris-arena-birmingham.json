@@ -1,0 +1,226 @@
+{
+  "quick_bite": [
+    {
+      "name": "Little Caesars Pizza",
+      "distance": "0.1 mi",
+      "url": "https://www.google.com/maps/search/Little%20Caesars%20Pizza+near+33.4949186%2C-86.8741349"
+    },
+    {
+      "name": "TWICE AS NICE",
+      "distance": "0.2 mi",
+      "url": "https://www.google.com/maps/search/TWICE%20AS%20NICE+near+33.4949186%2C-86.8741349"
+    },
+    {
+      "name": "Captain D's",
+      "distance": "0.2 mi",
+      "url": "https://www.google.com/maps/search/Captain%20D's+near+33.4949186%2C-86.8741349"
+    },
+    {
+      "name": "Popeyes Louisiana Kitchen",
+      "distance": "0.2 mi",
+      "url": "https://www.google.com/maps/search/Popeyes%20Louisiana%20Kitchen+near+33.4949186%2C-86.8741349"
+    },
+    {
+      "name": "Subway",
+      "distance": "0.2 mi",
+      "url": "https://www.google.com/maps/search/Subway+near+33.4949186%2C-86.8741349"
+    },
+    {
+      "name": "Wings Plus",
+      "distance": "0.2 mi",
+      "url": "https://www.google.com/maps/search/Wings%20Plus+near+33.4949186%2C-86.8741349"
+    },
+    {
+      "name": "Burger King",
+      "distance": "0.2 mi",
+      "url": "https://www.google.com/maps/search/Burger%20King+near+33.4949186%2C-86.8741349"
+    }
+  ],
+  "coffee": [
+    {
+      "name": "Starbucks",
+      "distance": "0.2 mi",
+      "url": "https://www.google.com/maps/search/Starbucks+near+33.4949186%2C-86.8741349"
+    },
+    {
+      "name": "McDonald's",
+      "distance": "0.3 mi",
+      "url": "https://www.google.com/maps/search/McDonald's+near+33.4949186%2C-86.8741349"
+    }
+  ],
+  "team_lunch": [
+    {
+      "name": "Applebee's Grill + Bar",
+      "distance": "0.3 mi",
+      "url": "https://www.google.com/maps/search/Applebee's%20Grill%20%2B%20Bar+near+33.4949186%2C-86.8741349"
+    },
+    {
+      "name": "Grab and Go",
+      "distance": "0.3 mi",
+      "url": "https://www.google.com/maps/search/Grab%20and%20Go+near+33.4949186%2C-86.8741349"
+    },
+    {
+      "name": "Ensley Seafood",
+      "distance": "0.3 mi",
+      "url": "https://www.google.com/maps/search/Ensley%20Seafood+near+33.4949186%2C-86.8741349"
+    },
+    {
+      "name": "The Crab Barrack",
+      "distance": "0.4 mi",
+      "url": "https://www.google.com/maps/search/The%20Crab%20Barrack+near+33.4949186%2C-86.8741349"
+    }
+  ],
+  "dinner": [
+    {
+      "name": "Bravo Foods",
+      "distance": "0.1 mi",
+      "url": "https://www.google.com/maps/search/Bravo%20Foods+near+33.4949186%2C-86.8741349"
+    },
+    {
+      "name": "Golden Dragon Inc",
+      "distance": "0.2 mi",
+      "url": "https://www.google.com/maps/search/Golden%20Dragon%20Inc+near+33.4949186%2C-86.8741349"
+    },
+    {
+      "name": "The Bussin' Breakfast",
+      "distance": "0.3 mi",
+      "url": "https://www.google.com/maps/search/The%20Bussin'%20Breakfast+near+33.4949186%2C-86.8741349"
+    },
+    {
+      "name": "East of the Mississippi Diner",
+      "distance": "0.3 mi",
+      "url": "https://www.google.com/maps/search/East%20of%20the%20Mississippi%20Diner+near+33.4949186%2C-86.8741349"
+    }
+  ],
+  "bowling": [
+    {
+      "name": "Bowling C Bryce MD",
+      "distance": "4.1 mi",
+      "url": "https://www.google.com/maps/search/Bowling%20C%20Bryce%20MD+near+33.4949186%2C-86.8741349",
+      "isFar": true
+    }
+  ],
+  "arcade": [],
+  "movies": [
+    {
+      "name": "Sidewalk Film Center + Cinema",
+      "distance": "4.0 mi",
+      "url": "https://www.google.com/maps/search/Sidewalk%20Film%20Center%20%2B%20Cinema+near+33.4949186%2C-86.8741349",
+      "isFar": true
+    },
+    {
+      "name": "Mcwane Center IMAX",
+      "distance": "4.0 mi",
+      "url": "https://www.google.com/maps/search/Mcwane%20Center%20IMAX+near+33.4949186%2C-86.8741349",
+      "isFar": true
+    },
+    {
+      "name": "Summerfest Musical Theater",
+      "distance": "4.1 mi",
+      "url": "https://www.google.com/maps/search/Summerfest%20Musical%20Theater+near+33.4949186%2C-86.8741349",
+      "isFar": true
+    },
+    {
+      "name": "Birmingham Premiere LUX Cine GSX & Pizza Pub",
+      "distance": "4.5 mi",
+      "url": "https://www.google.com/maps/search/Birmingham%20Premiere%20LUX%20Cine%20GSX%20%26%20Pizza%20Pub+near+33.4949186%2C-86.8741349",
+      "isFar": true
+    },
+    {
+      "name": "Emoprom",
+      "distance": "4.7 mi",
+      "url": "https://www.google.com/maps/search/Emoprom+near+33.4949186%2C-86.8741349",
+      "isFar": true
+    }
+  ],
+  "fun": [
+    {
+      "name": "Urban Air Trampoline and Adventure Park",
+      "distance": "3.8 mi",
+      "url": "https://www.google.com/maps/search/Urban%20Air%20Trampoline%20and%20Adventure%20Park+near+33.4949186%2C-86.8741349",
+      "isFar": true
+    },
+    {
+      "name": "The Game Room",
+      "distance": "4.0 mi",
+      "url": "https://www.google.com/maps/search/The%20Game%20Room+near+33.4949186%2C-86.8741349",
+      "isFar": true
+    },
+    {
+      "name": "The Dressing Room",
+      "distance": "4.1 mi",
+      "url": "https://www.google.com/maps/search/The%20Dressing%20Room+near+33.4949186%2C-86.8741349",
+      "isFar": true
+    },
+    {
+      "name": "Big Escape Rooms",
+      "distance": "4.5 mi",
+      "url": "https://www.google.com/maps/search/Big%20Escape%20Rooms+near+33.4949186%2C-86.8741349",
+      "isFar": true
+    }
+  ],
+  "hotels": [
+    {
+      "name": "Comfort Inn and Suites - Crossplex Village",
+      "distance": "0.1 mi",
+      "url": "https://www.google.com/maps/search/Comfort%20Inn%20and%20Suites%20-%20Crossplex%20Village+near+33.4949186%2C-86.8741349"
+    },
+    {
+      "name": "The dining, nightlife, unique charm and Downhome hospitality has grown rapidly",
+      "distance": "0.3 mi",
+      "url": "https://www.google.com/maps/search/The%20dining%2C%20nightlife%2C%20unique%20charm%20and%20Downhome%20hospitality%20has%20grown%20rapidly+near+33.4949186%2C-86.8741349"
+    },
+    {
+      "name": "The dining, nightlife, unique charm and Downhome hospitality has grown rapidly",
+      "distance": "0.3 mi",
+      "url": "https://www.google.com/maps/search/The%20dining%2C%20nightlife%2C%20unique%20charm%20and%20Downhome%20hospitality%20has%20grown%20rapidly+near+33.4949186%2C-86.8741349"
+    },
+    {
+      "name": "STEEL CITY Apt HOMES Apt C - Two-Bedroom Apartment",
+      "distance": "0.4 mi",
+      "url": "https://www.google.com/maps/search/STEEL%20CITY%20Apt%20HOMES%20Apt%20C%20-%20Two-Bedroom%20Apartment+near+33.4949186%2C-86.8741349"
+    },
+    {
+      "name": "Bama Girl",
+      "distance": "0.4 mi",
+      "url": "https://www.google.com/maps/search/Bama%20Girl+near+33.4949186%2C-86.8741349"
+    },
+    {
+      "name": "5 Mi to Downtown & Red Mtn Park! Cozy Family Home",
+      "distance": "0.5 mi",
+      "url": "https://www.google.com/maps/search/5%20Mi%20to%20Downtown%20%26%20Red%20Mtn%20Park!%20Cozy%20Family%20Home+near+33.4949186%2C-86.8741349"
+    },
+    {
+      "name": "3-bedroom house in awesome Birmingham with AC, WiFi",
+      "distance": "0.5 mi",
+      "url": "https://www.google.com/maps/search/3-bedroom%20house%20in%20awesome%20Birmingham%20with%20AC%2C%20WiFi+near+33.4949186%2C-86.8741349"
+    }
+  ],
+  "gas": [
+    {
+      "name": "5 Points West Market",
+      "distance": "0.2 mi",
+      "url": "https://www.google.com/maps/search/5%20Points%20West%20Market+near+33.4949186%2C-86.8741349"
+    },
+    {
+      "name": "Mobil",
+      "distance": "0.2 mi",
+      "url": "https://www.google.com/maps/search/Mobil+near+33.4949186%2C-86.8741349"
+    },
+    {
+      "name": "Chevron",
+      "distance": "0.3 mi",
+      "url": "https://www.google.com/maps/search/Chevron+near+33.4949186%2C-86.8741349"
+    },
+    {
+      "name": "Chevron Gas Station",
+      "distance": "0.3 mi",
+      "url": "https://www.google.com/maps/search/Chevron%20Gas%20Station+near+33.4949186%2C-86.8741349"
+    },
+    {
+      "name": "Chevron",
+      "distance": "0.4 mi",
+      "url": "https://www.google.com/maps/search/Chevron+near+33.4949186%2C-86.8741349"
+    }
+  ]
+}

@@ -1,0 +1,158 @@
+{
+  "quick_bite": [
+    {
+      "name": "Subway",
+      "distance": "0.7 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Subway&query_place_id=ChIJ_fkM23xHykwRNKYu9I-x3lA&center=44.69265070000001,-73.48667739999999"
+    },
+    {
+      "name": "Buffalo Wild Wings",
+      "distance": "0.8 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Buffalo%20Wild%20Wings&query_place_id=ChIJpdoMIH1HykwRt1O_ZuRCSZ4&center=44.6941133,-73.48678009999999"
+    },
+    {
+      "name": "Chipotle Mexican Grill",
+      "distance": "0.8 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Chipotle%20Mexican%20Grill&query_place_id=ChIJwZbqzHxHykwRdiJIwPi0MX8&center=44.6944161,-73.486791"
+    },
+    {
+      "name": "KFC",
+      "distance": "0.8 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=KFC&query_place_id=ChIJBbJ3jJ04ykwRLg1_dxN_QZQ&center=44.69697,-73.480404"
+    },
+    {
+      "name": "Burger King",
+      "distance": "0.8 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Burger%20King&query_place_id=ChIJbwoB5504ykwRBrkOyJrAzl0&center=44.6972113,-73.47647940000002"
+    }
+  ],
+  "coffee": [
+    {
+      "name": "Dunkin'",
+      "distance": "0.8 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Dunkin'&query_place_id=ChIJgbLCFJ44ykwRNmN_wMPV0Ss&center=44.697210899999995,-73.4769972"
+    },
+    {
+      "name": "Starbucks Coffee Company",
+      "distance": "0.9 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Starbucks%20Coffee%20Company&query_place_id=ChIJm38Wn2JHykwRodfCCswFfik&center=44.69674,-73.4834"
+    },
+    {
+      "name": "Einstein Bros. Bagels",
+      "distance": "1.0 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Einstein%20Bros.%20Bagels&query_place_id=ChIJ02AuG6E4ykwR5xa-T33rfqc&center=44.6972373,-73.46774839999999"
+    }
+  ],
+  "team_lunch": [
+    {
+      "name": "Samuel D's",
+      "distance": "0.4 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Samuel%20D's&query_place_id=ChIJiUNpZlxHykwRQcxoHEw_q_U&center=44.6888322,-73.4698784"
+    },
+    {
+      "name": "Kent Cafe",
+      "distance": "0.6 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Kent%20Cafe&query_place_id=ChIJ6STFBDxHykwRwYJqwQuADAw&center=44.6908963,-73.4668556"
+    },
+    {
+      "name": "Auntie Anne's",
+      "distance": "0.7 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Auntie%20Anne's&query_place_id=ChIJJfxGo2RHykwRCzcZf50aZ20&center=44.6926913,-73.4865516"
+    },
+    {
+      "name": "Hong Kong Jade Buffet",
+      "distance": "0.9 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Hong%20Kong%20Jade%20Buffet&query_place_id=ChIJTadoOJw4ykwR7gK-g8lf29s&center=44.6977287,-73.4776334"
+    },
+    {
+      "name": "Auntie Anne's",
+      "distance": "1.4 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Auntie%20Anne's&query_place_id=ChIJbwatj9k5ykwRs5iAU7vYcRA&center=44.7025584,-73.49117629999999"
+    }
+  ],
+  "dinner": [
+    {
+      "name": "Koto Japanese Steak House",
+      "distance": "0.8 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Koto%20Japanese%20Steak%20House&query_place_id=ChIJ86C0Qao5ykwRWlnBhAbVRGw&center=44.697018299999996,-73.4785047"
+    },
+    {
+      "name": "Michigans Plus",
+      "distance": "0.8 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Michigans%20Plus&query_place_id=ChIJCTlXEp44ykwRWyytuqcgf9k&center=44.69712,-73.47724699999999"
+    },
+    {
+      "name": "Giuseppe's Pizza Shop",
+      "distance": "0.9 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Giuseppe's%20Pizza%20Shop&query_place_id=ChIJaa8XJ31HykwRHKCykuXKAcA&center=44.6974525,-73.48126979999999"
+    }
+  ],
+  "bowling": [
+    {
+      "name": "North Bowl Lanes",
+      "distance": "4.0 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=North%20Bowl%20Lanes&query_place_id=ChIJgfDP3S45ykwR69Fh2CrSdeg&center=44.7333901,-73.4333511",
+      "isFar": true
+    }
+  ],
+  "arcade": [],
+  "movies": [
+    {
+      "name": "Plattsburgh State Clg Hartman",
+      "distance": "0.8 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Plattsburgh%20State%20Clg%20Hartman&query_place_id=ChIJzT4ERac4ykwRViqirIAJs7o&center=44.6944369,-73.4661151"
+    },
+    {
+      "name": "Regal Champlain Centre",
+      "distance": "1.5 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Regal%20Champlain%20Centre&query_place_id=ChIJ4UG8J4E4ykwRawDpwS9VVZ8&center=44.703526,-73.49161"
+    },
+    {
+      "name": "Cumberland12 Cinemas",
+      "distance": "4.0 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Cumberland12%20Cinemas&query_place_id=ChIJEUo9vy45ykwReZM0Y18Ksyk&center=44.7339285,-73.4317777",
+      "isFar": true
+    }
+  ],
+  "fun": [
+    {
+      "name": "Champlain kids zone",
+      "distance": "1.3 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Champlain%20kids%20zone&query_place_id=ChIJKUFNa4E4ykwRd_uRGu8SkLo&center=44.7013439,-73.4906532"
+    },
+    {
+      "name": "Fun Zone",
+      "distance": "1.4 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Fun%20Zone&query_place_id=ChIJ4UG8J4E4ykwRPgJ2MgvgYeI&center=44.7033338,-73.49147649999999"
+    },
+    {
+      "name": "Gazebo",
+      "distance": "1.4 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Gazebo&query_place_id=ChIJm-rJWoxBykwRO5aO2iwp544&center=44.6885802,-73.448168"
+    }
+  ],
+  "hotels": [
+    {
+      "name": "Comfort Inn & Suites Plattsburgh - Morrisonville",
+      "distance": "0.9 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Comfort%20Inn%20%26%20Suites%20Plattsburgh%20-%20Morrisonville&query_place_id=ChIJc2CeWX5HykwRXndfNxLru-w&center=44.6958749,-73.4884017"
+    }
+  ],
+  "gas": [
+    {
+      "name": "Stewart's Shops",
+      "distance": "0.4 mi",
+      "url": "https://www.google.com/maps/search/Stewart's%20Shops+near+44.6850738%2C-73.4772338"
+    },
+    {
+      "name": "Sam's Club Gas Station",
+      "distance": "0.8 mi",
+      "url": "https://www.google.com/maps/search/Sam's%20Club%20Gas%20Station+near+44.6850738%2C-73.4772338"
+    },
+    {
+      "name": "Mirabito Convenience Store",
+      "distance": "1.0 mi",
+      "url": "https://www.google.com/maps/search/Mirabito%20Convenience%20Store+near+44.6850738%2C-73.4772338"
+    }
+  ]
+}

@@ -1,0 +1,188 @@
+{
+  "quick_bite": [
+    {
+      "name": "Subway",
+      "distance": "0.1 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Subway&query_place_id=ChIJd8jHnGSTNIgRUSjmwJhEHpI&center=40.538889499999996,-79.83549579999999"
+    },
+    {
+      "name": "Burger King",
+      "distance": "0.1 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Burger%20King&query_place_id=ChIJq6qqqjqTNIgR0slgHGIDHSI&center=40.5385272,-79.83324429999999"
+    },
+    {
+      "name": "Wendy's",
+      "distance": "0.1 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Wendy's&query_place_id=ChIJEeiIf2STNIgRv0oAxKa1CiI&center=40.53809940000001,-79.8354229"
+    },
+    {
+      "name": "Pizza Hut Express",
+      "distance": "0.1 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Pizza%20Hut%20Express&query_place_id=ChIJRxPsimSTNIgRO-9yyOXwgig&center=40.5382773,-79.8366025"
+    }
+  ],
+  "coffee": [
+    {
+      "name": "Dunkin'",
+      "distance": "0.1 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Dunkin'&query_place_id=ChIJA7JFg2OTNIgR_G49rgQL5QU&center=40.5384033,-79.833928"
+    },
+    {
+      "name": "Starbucks Coffee Company",
+      "distance": "0.1 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Starbucks%20Coffee%20Company&query_place_id=ChIJX39OzhSTNIgRZyDfL84BuLE&center=40.53826,-79.83650999999999"
+    },
+    {
+      "name": "Starbucks",
+      "distance": "0.2 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Starbucks&query_place_id=ChIJ73KgdrKTNIgR5Qdpk33_ZPA&center=40.53871,-79.83197"
+    }
+  ],
+  "team_lunch": [
+    {
+      "name": "Caleb's Taco Shop",
+      "distance": "0.1 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Caleb's%20Taco%20Shop&query_place_id=ChIJKUKXSIuTNIgRkDHj-qyTJqU&center=40.5388987,-79.8355594"
+    },
+    {
+      "name": "Denny's",
+      "distance": "0.1 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Denny's&query_place_id=ChIJ43ACd2OTNIgRSa1UYfQlcG4&center=40.5383241,-79.8344101"
+    },
+    {
+      "name": "The Burger Den",
+      "distance": "0.1 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=The%20Burger%20Den&query_place_id=ChIJ4X2RYJmTNIgR3-RUn-j32Qs&center=40.5383056,-79.8343576"
+    },
+    {
+      "name": "Melanie's Bistro",
+      "distance": "0.5 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Melanie's%20Bistro&query_place_id=ChIJ9YPtpe6TNIgR9ZIVGG-JNao&center=40.536454299999995,-79.8430741"
+    },
+    {
+      "name": "Auntie Anne's",
+      "distance": "1.7 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Auntie%20Anne's&query_place_id=ChIJsWVgNbqUNIgR-v9dMd01p1k&center=40.5209915,-79.8140981"
+    },
+    {
+      "name": "Strawberry’s Custom Cake Designs",
+      "distance": "2.5 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Strawberry%E2%80%99s%20Custom%20Cake%20Designs&query_place_id=ChIJX-EdbpXtNIgRMnORzQvxJfI&center=40.50432790000001,-79.8434453"
+    }
+  ],
+  "dinner": [
+    {
+      "name": "Gino Brothers Pizzeria & Bar",
+      "distance": "0.1 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Gino%20Brothers%20Pizzeria%20%26%20Bar&query_place_id=ChIJtT7GfGOTNIgREb43z_TLKYQ&center=40.5388926,-79.83558610000001"
+    },
+    {
+      "name": "Gino's Petit Dejeuner Breakfast",
+      "distance": "0.1 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Gino's%20Petit%20Dejeuner%20Breakfast&query_place_id=ChIJVfQlYmOTNIgRRc-hYSj6r_k&center=40.538832,-79.8356088"
+    },
+    {
+      "name": "Primanti Bros. Restaurant and Bar",
+      "distance": "0.2 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Primanti%20Bros.%20Restaurant%20and%20Bar&query_place_id=ChIJx0Y2DmWTNIgRn3z_EzLLkrE&center=40.5390209,-79.8390557"
+    },
+    {
+      "name": "Oakmont Bakery",
+      "distance": "1.1 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Oakmont%20Bakery&query_place_id=ChIJex8BUU6TNIgRDHb0Ce5PXfQ&center=40.5256507,-79.8422951"
+    }
+  ],
+  "bowling": [
+    {
+      "name": "Zone 28",
+      "distance": "0.6 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Zone%2028&query_place_id=ChIJcVbuBGmTNIgR-ykQAXPpRew&center=40.5349182,-79.84428609999999"
+    }
+  ],
+  "arcade": [],
+  "movies": [
+    {
+      "name": "GQT Pittsburgh Mills Cinemas",
+      "distance": "3.1 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=GQT%20Pittsburgh%20Mills%20Cinemas&query_place_id=ChIJZcxRfoOLNIgRzD1hKQvpMVQ&center=40.573907,-79.7957957",
+      "isFar": true
+    },
+    {
+      "name": "MovieScoop Waterworks Luxury Cinemas",
+      "distance": "4.6 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=MovieScoop%20Waterworks%20Luxury%20Cinemas&query_place_id=ChIJEYj1jxPtNIgRvbINsnky7lc&center=40.4899656,-79.89372709999999",
+      "isFar": true
+    }
+  ],
+  "fun": [
+    {
+      "name": "Oakmont Squirrel",
+      "distance": "1.2 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Oakmont%20Squirrel&query_place_id=ChIJ57iwSwCVNIgRMS6q1i5n32M&center=40.529108099999995,-79.81596150000001"
+    },
+    {
+      "name": "Dinosaur - Dino Gold",
+      "distance": "1.5 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Dinosaur%20-%20Dino%20Gold&query_place_id=ChIJ11xFbACVNIgRGGCjr7SuVq4&center=40.520506499999996,-79.8235677"
+    },
+    {
+      "name": "Tasso Katselas House",
+      "distance": "2.0 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Tasso%20Katselas%20House&query_place_id=ChIJH6XuLXSTNIgRQTQH0BcmXcE&center=40.5266269,-79.86863869999999"
+    },
+    {
+      "name": "Puzzle Room Pittsburgh",
+      "distance": "2.4 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Puzzle%20Room%20Pittsburgh&query_place_id=ChIJYduxnLHsNIgRwqV4WjYDXR0&center=40.5055244,-79.8433696"
+    }
+  ],
+  "hotels": [
+    {
+      "name": "Hampton Inn & Suites Pittsburgh/Harmarville",
+      "distance": "0.1 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Hampton%20Inn%20%26%20Suites%20Pittsburgh%2FHarmarville&query_place_id=ChIJe-Zt_GKTNIgR987RkZhI_C8&center=40.53962,-79.83255299999999"
+    },
+    {
+      "name": "TownePlace Suites by Marriott Pittsburgh Harmarville",
+      "distance": "0.1 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=TownePlace%20Suites%20by%20Marriott%20Pittsburgh%20Harmarville&query_place_id=ChIJt4Q1CGOTNIgRMsUhlqsFWBI&center=40.538778099999995,-79.8327166"
+    },
+    {
+      "name": "Quality Inn & Suites Pittsburgh Harmarville",
+      "distance": "0.4 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Quality%20Inn%20%26%20Suites%20Pittsburgh%20Harmarville&query_place_id=ChIJRy8j2IKUNIgRvErKuBKolBs&center=40.5400385,-79.82798559999999"
+    },
+    {
+      "name": "Super 8 Pittsburgh Harmarville",
+      "distance": "0.4 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Super%208%20Pittsburgh%20Harmarville&query_place_id=ChIJ470vpWKTNIgR6K1K-DKoz3E&center=40.5398675,-79.8278819"
+    },
+    {
+      "name": "Holiday Inn Express Pittsburgh-North (Harmarville) by IHG",
+      "distance": "0.4 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Holiday%20Inn%20Express%20Pittsburgh-North%20(Harmarville)%20by%20IHG&query_place_id=ChIJ15LlocXsNIgRc39luWklHAE&center=40.540313,-79.8269579"
+    }
+  ],
+  "gas": [
+    {
+      "name": "Getgo #5103",
+      "distance": "0.3 mi",
+      "url": "https://www.google.com/maps/search/Getgo%20%235103+near+40.5398734%2C-79.8347773"
+    },
+    {
+      "name": "Marathon Gas",
+      "distance": "0.3 mi",
+      "url": "https://www.google.com/maps/search/Marathon%20Gas+near+40.5398734%2C-79.8347773"
+    },
+    {
+      "name": "ON THE FLY",
+      "distance": "0.7 mi",
+      "url": "https://www.google.com/maps/search/ON%20THE%20FLY+near+40.5398734%2C-79.8347773"
+    },
+    {
+      "name": "Speedway",
+      "distance": "1.0 mi",
+      "url": "https://www.google.com/maps/search/Speedway+near+40.5398734%2C-79.8347773"
+    }
+  ]
+}

@@ -1,0 +1,199 @@
+{
+  "quick_bite": [
+    {
+      "name": "Princeton Soup and Sandwich Company",
+      "distance": "1.9 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Princeton%20Soup%20and%20Sandwich%20Company&query_place_id=ChIJHZGQUMDmw4kRuc6T3ITYIQU&center=40.3508427,-74.6612514"
+    },
+    {
+      "name": "Loco Cheese",
+      "distance": "1.9 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Loco%20Cheese&query_place_id=ChIJrQusuErnw4kR-SjADbjm6t4&center=40.349047999999996,-74.6627984"
+    },
+    {
+      "name": "Tropical flavor chicken wings",
+      "distance": "1.9 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Tropical%20flavor%20chicken%20wings&query_place_id=ChIJG-fUagXnw4kRS5nnNJk21XE&center=40.3513851,-74.6597132"
+    },
+    {
+      "name": "Olives",
+      "distance": "1.9 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Olives&query_place_id=ChIJaV8eq8Hmw4kRJ26plOuV_wE&center=40.350484900000005,-74.6603671"
+    },
+    {
+      "name": "Jersey Mike's Subs",
+      "distance": "3.5 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Jersey%20Mike's%20Subs&query_place_id=ChIJiX8OEwDvw4kRzbX1a84WJZs&center=40.4049385,-74.6498895",
+      "isFar": true
+    },
+    {
+      "name": "Chuck E. Cheese",
+      "distance": "4.1 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Chuck%20E.%20Cheese&query_place_id=ChIJ_Wt3wHrhw4kRFiIJnFBLjj4&center=40.3062541,-74.6788778",
+      "isFar": true
+    }
+  ],
+  "coffee": [
+    {
+      "name": "Ooika",
+      "distance": "1.6 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Ooika&query_place_id=ChIJOQVGuNDnw4kR7kuisrvaHZg&center=40.3577,-74.6638268"
+    },
+    {
+      "name": "maman",
+      "distance": "1.8 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=maman&query_place_id=ChIJ60xuDGPnw4kRfzSp808iOC4&center=40.3507834,-74.66240859999999"
+    },
+    {
+      "name": "Belle Journée - Princeton",
+      "distance": "1.9 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Belle%20Journ%C3%A9e%20-%20Princeton&query_place_id=ChIJP1NC04bnw4kRbFvqVa4HaK4&center=40.349694799999995,-74.6626178"
+    },
+    {
+      "name": "Brick Café",
+      "distance": "1.9 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Brick%20Caf%C3%A9&query_place_id=ChIJy6FBJXXnw4kR_nR6PVFzQDo&center=40.3458685,-74.66640579999999"
+    },
+    {
+      "name": "Chez Alice",
+      "distance": "1.9 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Chez%20Alice&query_place_id=ChIJj3kX7sDmw4kRsvmsc5bIocQ&center=40.3506279,-74.6604752"
+    }
+  ],
+  "team_lunch": [
+    {
+      "name": "Garden Cafe & Caterers-Prnctn",
+      "distance": "1.7 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Garden%20Cafe%20%26%20Caterers-Prnctn&query_place_id=ChIJF6sgqb_mw4kR5Kxdi9mapWE&center=40.3517042,-74.6651322"
+    },
+    {
+      "name": "Hunan Chinese Restaurant",
+      "distance": "1.8 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Hunan%20Chinese%20Restaurant&query_place_id=ChIJv7r5kurmw4kR0QJVGhbzivA&center=40.3540543,-74.6614956"
+    },
+    {
+      "name": "Ye Tavern Restaurant and Bar",
+      "distance": "1.9 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Ye%20Tavern%20Restaurant%20and%20Bar&query_place_id=ChIJU90mFQDnw4kRLCrW-2hA1AA&center=40.3494627,-74.662808"
+    },
+    {
+      "name": "Ajiten Japanese restaurant",
+      "distance": "1.9 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Ajiten%20Japanese%20restaurant&query_place_id=ChIJ9bPHlsDmw4kRZh2Dex6Ipl0&center=40.3495871,-74.6625277"
+    },
+    {
+      "name": "Bread Boutique",
+      "distance": "1.9 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Bread%20Boutique&query_place_id=ChIJp-eCgObnw4kRjdOoy0i9y_E&center=40.3510023,-74.6601775"
+    },
+    {
+      "name": "The Bagel Nook",
+      "distance": "2.1 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=The%20Bagel%20Nook&query_place_id=ChIJaQ1wTxznw4kRvGi-o15c0Zk&center=40.3636439,-74.6517781"
+    }
+  ],
+  "dinner": [
+    {
+      "name": "Conte's Pizza",
+      "distance": "1.5 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Conte's%20Pizza&query_place_id=ChIJhSVry-zmw4kR_jiEx2340r0&center=40.359614,-74.6634754"
+    },
+    {
+      "name": "Tortuga’s Mexican Village",
+      "distance": "1.5 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Tortuga%E2%80%99s%20Mexican%20Village&query_place_id=ChIJ31gj35Tmw4kRZyev5-EzC-k&center=40.356303,-74.664827"
+    },
+    {
+      "name": "Honzu",
+      "distance": "1.6 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Honzu&query_place_id=ChIJoWp7oVrnw4kRUeFD1GfWTs8&center=40.3577,-74.6638268"
+    },
+    {
+      "name": "Local Greek of Princeton",
+      "distance": "1.6 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Local%20Greek%20of%20Princeton&query_place_id=ChIJ31gj35Tmw4kRDL_YcCW-YYE&center=40.3559998,-74.6646315"
+    },
+    {
+      "name": "Tiger’s Deli",
+      "distance": "1.6 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Tiger%E2%80%99s%20Deli&query_place_id=ChIJpYYlMBPnw4kRwVPWqeP2yIs&center=40.3568274,-74.6630742"
+    },
+    {
+      "name": "The Meeting House",
+      "distance": "1.6 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=The%20Meeting%20House&query_place_id=ChIJ2_9VBzbnw4kRLNs0XQ94FqA&center=40.3573188,-74.6626581"
+    }
+  ],
+  "bowling": [],
+  "arcade": [],
+  "movies": [
+    {
+      "name": "The Princeton Garden Theatre",
+      "distance": "2.0 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=The%20Princeton%20Garden%20Theatre&query_place_id=ChIJPTp0J8Lmw4kR5X5uwN2p2QM&center=40.3507135,-74.6575364"
+    },
+    {
+      "name": "James Stewart Film Theatre",
+      "distance": "2.2 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=James%20Stewart%20Film%20Theatre&query_place_id=ChIJk0QpVVTnw4kRoGEYwyCzIm4&center=40.3506753,-74.6549141"
+    },
+    {
+      "name": "Montgomery Cinemas",
+      "distance": "3.6 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Montgomery%20Cinemas&query_place_id=ChIJiajduC_mw4kRaurwFKkl4BQ&center=40.4059524,-74.6484375",
+      "isFar": true
+    }
+  ],
+  "fun": [
+    {
+      "name": "Dohm Alley",
+      "distance": "2.0 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Dohm%20Alley&query_place_id=ChIJ6fvtVzznw4kRE8I-b8gLCkg&center=40.3500023,-74.6595213"
+    },
+    {
+      "name": "Princeton Family Adventure Center",
+      "distance": "2.2 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Princeton%20Family%20Adventure%20Center&query_place_id=ChIJcU3KYgDnw4kRgvmC2mstoSU&center=40.363651399999995,-74.6508638"
+    },
+    {
+      "name": "The Hedgehog and The Fox",
+      "distance": "2.5 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=The%20Hedgehog%20and%20The%20Fox&query_place_id=ChIJnZZqI43nw4kRqR3KFIhZl7E&center=40.3462034,-74.6519679"
+    },
+    {
+      "name": "Lotus Pond in Carnegie Center",
+      "distance": "4.0 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Lotus%20Pond%20in%20Carnegie%20Center&query_place_id=ChIJr5iQFbPhw4kRDJxnZfdU1GY&center=40.317896499999996,-74.6480376",
+      "isFar": true
+    }
+  ],
+  "hotels": [
+    {
+      "name": "Zen House",
+      "distance": "0.5 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Zen%20House&query_place_id=ChIJ7Tx-XiLkw4kRySiN-cEa0Go&center=40.358921099999996,-74.6953125"
+    }
+  ],
+  "gas": [
+    {
+      "name": "Shell",
+      "distance": "1.4 mi",
+      "url": "https://www.google.com/maps/search/Shell+near+40.364868099999995%2C-74.6917453"
+    },
+    {
+      "name": "United Gas",
+      "distance": "2.4 mi",
+      "url": "https://www.google.com/maps/search/United%20Gas+near+40.364868099999995%2C-74.6917453"
+    },
+    {
+      "name": "Sunoco",
+      "distance": "2.4 mi",
+      "url": "https://www.google.com/maps/search/Sunoco+near+40.364868099999995%2C-74.6917453"
+    },
+    {
+      "name": "Gas Station",
+      "distance": "2.6 mi",
+      "url": "https://www.google.com/maps/search/Gas%20Station+near+40.364868099999995%2C-74.6917453"
+    }
+  ]
+}

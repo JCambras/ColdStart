@@ -1,0 +1,208 @@
+{
+  "quick_bite": [
+    {
+      "name": "Jack in the Box",
+      "distance": "0.5 mi",
+      "url": "https://www.google.com/maps/search/Jack%20in%20the%20Box+near+37.7093811%2C-121.71408839999998"
+    },
+    {
+      "name": "Taco Bell",
+      "distance": "0.5 mi",
+      "url": "https://www.google.com/maps/search/Taco%20Bell+near+37.7093811%2C-121.71408839999998"
+    },
+    {
+      "name": "KFC",
+      "distance": "0.5 mi",
+      "url": "https://www.google.com/maps/search/KFC+near+37.7093811%2C-121.71408839999998"
+    },
+    {
+      "name": "A&W Restaurant",
+      "distance": "0.5 mi",
+      "url": "https://www.google.com/maps/search/A%26W%20Restaurant+near+37.7093811%2C-121.71408839999998"
+    },
+    {
+      "name": "Jimmy John's",
+      "distance": "0.5 mi",
+      "url": "https://www.google.com/maps/search/Jimmy%20John's+near+37.7093811%2C-121.71408839999998"
+    },
+    {
+      "name": "Wendy's",
+      "distance": "0.6 mi",
+      "url": "https://www.google.com/maps/search/Wendy's+near+37.7093811%2C-121.71408839999998"
+    },
+    {
+      "name": "Wienerschnitzel",
+      "distance": "0.6 mi",
+      "url": "https://www.google.com/maps/search/Wienerschnitzel+near+37.7093811%2C-121.71408839999998"
+    }
+  ],
+  "coffee": [
+    {
+      "name": "McDonald's",
+      "distance": "0.5 mi",
+      "url": "https://www.google.com/maps/search/McDonald's+near+37.7093811%2C-121.71408839999998"
+    },
+    {
+      "name": "Starbucks Coffee Company",
+      "distance": "0.6 mi",
+      "url": "https://www.google.com/maps/search/Starbucks%20Coffee%20Company+near+37.7093811%2C-121.71408839999998"
+    }
+  ],
+  "team_lunch": [
+    {
+      "name": "Eastwestdining",
+      "distance": "0.5 mi",
+      "url": "https://www.google.com/maps/search/Eastwestdining+near+37.7093811%2C-121.71408839999998"
+    }
+  ],
+  "dinner": [
+    {
+      "name": "Ming's Garden",
+      "distance": "0.5 mi",
+      "url": "https://www.google.com/maps/search/Ming's%20Garden+near+37.7093811%2C-121.71408839999998"
+    },
+    {
+      "name": "HALAL City Pizza & Kabob House",
+      "distance": "0.5 mi",
+      "url": "https://www.google.com/maps/search/HALAL%20City%20Pizza%20%26%20Kabob%20House+near+37.7093811%2C-121.71408839999998"
+    },
+    {
+      "name": "Country Waffles - Livermore",
+      "distance": "0.5 mi",
+      "url": "https://www.google.com/maps/search/Country%20Waffles%20-%20Livermore+near+37.7093811%2C-121.71408839999998"
+    },
+    {
+      "name": "Rosniyom Thai Street Food-Livermore",
+      "distance": "0.5 mi",
+      "url": "https://www.google.com/maps/search/Rosniyom%20Thai%20Street%20Food-Livermore+near+37.7093811%2C-121.71408839999998"
+    },
+    {
+      "name": "Tin Thai Kitchen",
+      "distance": "0.6 mi",
+      "url": "https://www.google.com/maps/search/Tin%20Thai%20Kitchen+near+37.7093811%2C-121.71408839999998"
+    },
+    {
+      "name": "TEQUILA'S TAQUERIA VASCO RD",
+      "distance": "0.8 mi",
+      "url": "https://www.google.com/maps/search/TEQUILA'S%20TAQUERIA%20VASCO%20RD+near+37.7093811%2C-121.71408839999998"
+    },
+    {
+      "name": "Calafia Kitchen",
+      "distance": "0.8 mi",
+      "url": "https://www.google.com/maps/search/Calafia%20Kitchen+near+37.7093811%2C-121.71408839999998"
+    }
+  ],
+  "bowling": [
+    {
+      "name": "Granada Bowl",
+      "distance": "3.9 mi",
+      "url": "https://www.google.com/maps/search/Granada%20Bowl+near+37.7093811%2C-121.71408839999998",
+      "isFar": true
+    }
+  ],
+  "arcade": [],
+  "movies": [
+    {
+      "name": "CinemaWest Livermore Cinema & Giant Screen with Laser",
+      "distance": "3.4 mi",
+      "url": "https://www.google.com/maps/search/CinemaWest%20Livermore%20Cinema%20%26%20Giant%20Screen%20with%20Laser+near+37.7093811%2C-121.71408839999998",
+      "isFar": true
+    }
+  ],
+  "fun": [
+    {
+      "name": "Limitless Escape Games",
+      "distance": "5.2 mi",
+      "url": "https://www.google.com/maps/search/Limitless%20Escape%20Games+near+37.7093811%2C-121.71408839999998",
+      "isFar": true
+    },
+    {
+      "name": "Boomers Livermore",
+      "distance": "5.3 mi",
+      "url": "https://www.google.com/maps/search/Boomers%20Livermore+near+37.7093811%2C-121.71408839999998",
+      "isFar": true
+    },
+    {
+      "name": "Pump It Up Pleasanton Kids Birthdays and More",
+      "distance": "8.6 mi",
+      "url": "https://www.google.com/maps/search/Pump%20It%20Up%20Pleasanton%20Kids%20Birthdays%20and%20More+near+37.7093811%2C-121.71408839999998",
+      "isFar": true
+    },
+    {
+      "name": "Water Play Area",
+      "distance": "8.7 mi",
+      "url": "https://www.google.com/maps/search/Water%20Play%20Area+near+37.7093811%2C-121.71408839999998",
+      "isFar": true
+    },
+    {
+      "name": "iSmash Pleasanton",
+      "distance": "8.8 mi",
+      "url": "https://www.google.com/maps/search/iSmash%20Pleasanton+near+37.7093811%2C-121.71408839999998",
+      "isFar": true
+    }
+  ],
+  "hotels": [
+    {
+      "name": "Vasco Mobile Home Park",
+      "distance": "0.2 mi",
+      "url": "https://www.google.com/maps/search/Vasco%20Mobile%20Home%20Park+near+37.7093811%2C-121.71408839999998"
+    },
+    {
+      "name": "Quality Inn & Suites Livermore Wine Country",
+      "distance": "0.6 mi",
+      "url": "https://www.google.com/maps/search/Quality%20Inn%20%26%20Suites%20Livermore%20Wine%20Country+near+37.7093811%2C-121.71408839999998"
+    },
+    {
+      "name": "Best Western Plus Vineyard Inn",
+      "distance": "0.8 mi",
+      "url": "https://www.google.com/maps/search/Best%20Western%20Plus%20Vineyard%20Inn+near+37.7093811%2C-121.71408839999998"
+    },
+    {
+      "name": "One bedroom apartment w / private entrace",
+      "distance": "0.8 mi",
+      "url": "https://www.google.com/maps/search/One%20bedroom%20apartment%20w%20%2F%20private%20entrace+near+37.7093811%2C-121.71408839999998"
+    },
+    {
+      "name": "One bedroom apartment w/ private entrace",
+      "distance": "0.8 mi",
+      "url": "https://www.google.com/maps/search/One%20bedroom%20apartment%20w%2F%20private%20entrace+near+37.7093811%2C-121.71408839999998"
+    },
+    {
+      "name": "La Quinta Inn by Wyndham Livermore",
+      "distance": "0.8 mi",
+      "url": "https://www.google.com/maps/search/La%20Quinta%20Inn%20by%20Wyndham%20Livermore+near+37.7093811%2C-121.71408839999998"
+    },
+    {
+      "name": "Fairfield by Marriott Inn & Suites Livermore",
+      "distance": "0.9 mi",
+      "url": "https://www.google.com/maps/search/Fairfield%20by%20Marriott%20Inn%20%26%20Suites%20Livermore+near+37.7093811%2C-121.71408839999998"
+    }
+  ],
+  "gas": [
+    {
+      "name": "Vasco Petroleum",
+      "distance": "0.5 mi",
+      "url": "https://www.google.com/maps/search/Vasco%20Petroleum+near+37.7093811%2C-121.71408839999998"
+    },
+    {
+      "name": "ARCO",
+      "distance": "0.5 mi",
+      "url": "https://www.google.com/maps/search/ARCO+near+37.7093811%2C-121.71408839999998"
+    },
+    {
+      "name": "76",
+      "distance": "0.5 mi",
+      "url": "https://www.google.com/maps/search/76+near+37.7093811%2C-121.71408839999998"
+    },
+    {
+      "name": "Chevron",
+      "distance": "0.6 mi",
+      "url": "https://www.google.com/maps/search/Chevron+near+37.7093811%2C-121.71408839999998"
+    },
+    {
+      "name": "Chevron",
+      "distance": "0.6 mi",
+      "url": "https://www.google.com/maps/search/Chevron+near+37.7093811%2C-121.71408839999998"
+    }
+  ]
+}

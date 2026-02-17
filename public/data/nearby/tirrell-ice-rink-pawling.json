@@ -1,0 +1,209 @@
+{
+  "quick_bite": [
+    {
+      "name": "Great Wall II Take Out Chinese",
+      "distance": "0.6 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Great%20Wall%20II%20Take%20Out%20Chinese&query_place_id=ChIJ4eamRKtb3YkRavKajbT2dI8&center=41.5637379,-73.6016002"
+    },
+    {
+      "name": "McKinney & Doyle Corner Bakery & Fine Foods Cafe",
+      "distance": "0.7 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=McKinney%20%26%20Doyle%20Corner%20Bakery%20%26%20Fine%20Foods%20Cafe&query_place_id=ChIJ07JmuVRa3YkR_QGCnjpmP3c&center=41.5621492,-73.6018083"
+    },
+    {
+      "name": "KFC",
+      "distance": "2.4 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=KFC&query_place_id=ChIJy9cOY2xa3YkRA3th5S_mgI4&center=41.5351712,-73.5856242"
+    },
+    {
+      "name": "The Farmhouse",
+      "distance": "3.6 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=The%20Farmhouse&query_place_id=ChIJ_TZVJPdR3YkRyeM3W_z8txo&center=41.5174713,-73.591484",
+      "isFar": true
+    },
+    {
+      "name": "Subway",
+      "distance": "3.6 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Subway&query_place_id=ChIJgSHSL3Ra3YkRSqvzu2A_oSg&center=41.5169269,-73.5919445",
+      "isFar": true
+    },
+    {
+      "name": "Fishkill Bowl",
+      "distance": "14.0 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Fishkill%20Bowl&query_place_id=ChIJgQKIO-w33YkR8qliieGholk&center=41.5486344,-73.8608048",
+      "isFar": true
+    }
+  ],
+  "coffee": [
+    {
+      "name": "Karen's Diner",
+      "distance": "2.8 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Karen's%20Diner&query_place_id=ChIJl-ZrBHNa3YkRnOwYwX_qE1o&center=41.5284299,-73.5856116"
+    },
+    {
+      "name": "Forrest Sidestreet Cafe",
+      "distance": "3.0 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Forrest%20Sidestreet%20Cafe&query_place_id=ChIJcW6aKHRa3YkR4OtNARbeOqs&center=41.5251091,-73.5885447",
+      "isFar": true
+    }
+  ],
+  "team_lunch": [
+    {
+      "name": "Cornerstone Restaurant & Bar",
+      "distance": "1.0 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Cornerstone%20Restaurant%20%26%20Bar&query_place_id=ChIJ99Fzjqhb3YkRzjwNRT_Hx-A&center=41.5543863,-73.5933888"
+    }
+  ],
+  "dinner": [
+    {
+      "name": "La Guadalupana Mini Market 2 Pawling",
+      "distance": "0.6 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=La%20Guadalupana%20Mini%20Market%202%20Pawling&query_place_id=ChIJDTNiqKxb3YkRSQCc9j1hkGw&center=41.563330199999996,-73.6004682"
+    },
+    {
+      "name": "O'Connor's Public House",
+      "distance": "0.7 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=O'Connor's%20Public%20House&query_place_id=ChIJqwJkRKtb3YkR8e5cUuHwvY0&center=41.563732099999996,-73.6017837"
+    },
+    {
+      "name": "Main Street Café & Deli",
+      "distance": "0.7 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Main%20Street%20Caf%C3%A9%20%26%20Deli&query_place_id=ChIJMd2tfgBb3YkRKDUJ0yhwTDI&center=41.5633869,-73.6016692"
+    },
+    {
+      "name": "Village Pizza",
+      "distance": "0.7 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Village%20Pizza&query_place_id=ChIJF92rTqtb3YkROmQiyJdEFxo&center=41.563274899999996,-73.6017177"
+    },
+    {
+      "name": "Sunflour Bakery",
+      "distance": "0.7 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Sunflour%20Bakery&query_place_id=ChIJ_-7BdS9b3YkRqTckXCRUzIY&center=41.563389300000004,-73.6019452"
+    },
+    {
+      "name": "A&R pizzeria",
+      "distance": "0.7 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=A%26R%20pizzeria&query_place_id=ChIJfdK_BwBb3YkR0yA-FwAyBMo&center=41.561781599999996,-73.60056519999999"
+    }
+  ],
+  "bowling": [
+    {
+      "name": "Strikers of Brookfield",
+      "distance": "11.0 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Strikers%20of%20Brookfield&query_place_id=ChIJ53sQS1b554kR39WI1zGVYbQ&center=41.484064599999996,-73.4120356",
+      "isFar": true
+    },
+    {
+      "name": "Spins Bowl Carmel",
+      "distance": "11.2 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Spins%20Bowl%20Carmel&query_place_id=ChIJj3tooZ1N3YkRu9ZhB2BWV5Y&center=41.4180989,-73.6692108",
+      "isFar": true
+    },
+    {
+      "name": "Danbury Duckpin Lanes",
+      "distance": "12.5 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Danbury%20Duckpin%20Lanes&query_place_id=ChIJkda1x03_54kR8xd2FejltMo&center=41.4220924,-73.4509048",
+      "isFar": true
+    }
+  ],
+  "arcade": [],
+  "movies": [
+    {
+      "name": "Bank Street Theater",
+      "distance": "9.3 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Bank%20Street%20Theater&query_place_id=ChIJiWKF4Cv054kRPWxTgfFDWeY&center=41.577520299999996,-73.4122945",
+      "isFar": true
+    },
+    {
+      "name": "Carmel Cinema",
+      "distance": "10.4 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Carmel%20Cinema&query_place_id=ChIJ61lMZJVN3YkRBVtVx74r_wc&center=41.434399899999995,-73.67985",
+      "isFar": true
+    },
+    {
+      "name": "AMC Danbury 16",
+      "distance": "14.0 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=AMC%20Danbury%2016&query_place_id=ChIJOaI9qtX-54kRbzE8Sv7SZxE&center=41.4160949,-73.4153729",
+      "isFar": true
+    }
+  ],
+  "fun": [
+    {
+      "name": "The Dover Oak",
+      "distance": "2.5 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=The%20Dover%20Oak&query_place_id=ChIJd8yvG35b3YkRACmIPy3CiEM&center=41.6028515,-73.6114484"
+    },
+    {
+      "name": "Info marker, Maybrook rail trail & Depot Hill Rd access",
+      "distance": "5.0 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Info%20marker%2C%20Maybrook%20rail%20trail%20%26%20Depot%20Hill%20Rd%20access&query_place_id=ChIJb8Swpn5F3YkR5-pJNI8qQb4&center=41.5954161,-73.6809009",
+      "isFar": true
+    },
+    {
+      "name": "Candlewood cove",
+      "distance": "7.5 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Candlewood%20cove&query_place_id=ChIJhz40KQD354kRKS8dQDizz0w&center=41.5223778,-73.4600495",
+      "isFar": true
+    },
+    {
+      "name": "Lake Carmel, ny",
+      "distance": "8.6 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Lake%20Carmel%2C%20ny&query_place_id=ChIJZQ_9HwBP3YkRyAjpI2uVgUw&center=41.4539701,-73.65389669999999",
+      "isFar": true
+    }
+  ],
+  "hotels": [
+    {
+      "name": "Station Inn Pawling - Standard Queen Room",
+      "distance": "0.6 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Station%20Inn%20Pawling%20-%20Standard%20Queen%20Room&query_place_id=ChIJDfdiKq1b3YkR-lnEzPRz_Tw&center=41.562519099999996,-73.59763339999999"
+    },
+    {
+      "name": "Station Inn Pawling",
+      "distance": "0.7 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Station%20Inn%20Pawling&query_place_id=ChIJYcHKqVRa3YkRjQmrUNWQBwQ&center=41.5623283,-73.6007461"
+    },
+    {
+      "name": "The Pawling House Bed And Breakfast",
+      "distance": "1.1 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=The%20Pawling%20House%20Bed%20And%20Breakfast&query_place_id=ChIJRTttHv5a3YkR5QdBETD5XDQ&center=41.56427,-73.61125179999999"
+    },
+    {
+      "name": "The Pawling House",
+      "distance": "1.1 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=The%20Pawling%20House&query_place_id=ChIJhXIvJmdb3YkR5gSFxxYkWCw&center=41.5642791,-73.6114212"
+    },
+    {
+      "name": "Harlem Valley Hideout: Artsy ~ Pool ~ Tennis",
+      "distance": "1.4 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Harlem%20Valley%20Hideout%3A%20Artsy%20~%20Pool%20~%20Tennis&query_place_id=ChIJLUeT5Uda3YkR1lo8-bNypbI&center=41.5500794,-73.5839767"
+    },
+    {
+      "name": "Harlem Valley Hideout: Artsy Poolside Sanctuary",
+      "distance": "1.4 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Harlem%20Valley%20Hideout%3A%20Artsy%20Poolside%20Sanctuary&query_place_id=ChIJvZ2T5Uda3YkRMg4Xjfru-e0&center=41.5500794,-73.58396909999999"
+    }
+  ],
+  "gas": [
+    {
+      "name": "Exxon",
+      "distance": "0.7 mi",
+      "url": "https://www.google.com/maps/search/Exxon+near+41.5691717%2C-73.59140190000001"
+    },
+    {
+      "name": "Pawling Valero",
+      "distance": "1.1 mi",
+      "url": "https://www.google.com/maps/search/Pawling%20Valero+near+41.5691717%2C-73.59140190000001"
+    },
+    {
+      "name": "Shell",
+      "distance": "2.8 mi",
+      "url": "https://www.google.com/maps/search/Shell+near+41.5691717%2C-73.59140190000001"
+    },
+    {
+      "name": "Sunoco",
+      "distance": "3.1 mi",
+      "url": "https://www.google.com/maps/search/Sunoco+near+41.5691717%2C-73.59140190000001"
+    }
+  ]
+}

@@ -1,0 +1,193 @@
+{
+  "quick_bite": [
+    {
+      "name": "Jimmy John's",
+      "distance": "1.4 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Jimmy%20John's&query_place_id=ChIJ5zaAswILD4gRCAURW9n-2ZU&center=42.1927263,-88.2079086"
+    },
+    {
+      "name": "Subway",
+      "distance": "1.5 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Subway&query_place_id=ChIJ4eqSl-IKD4gRWx9u16IhPVo&center=42.194190299999995,-88.2071529"
+    },
+    {
+      "name": "ZENSHI Handcrafted Sushi",
+      "distance": "1.6 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=ZENSHI%20Handcrafted%20Sushi&query_place_id=ChIJG6L10cALD4gReH0CxMoGnfg&center=42.195345499999995,-88.2099118"
+    },
+    {
+      "name": "Subway",
+      "distance": "3.0 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Subway&query_place_id=ChIJCYW9m9ugD4gR_KX83as7dqg&center=42.1561982,-88.1359344",
+      "isFar": true
+    },
+    {
+      "name": "Quiznos",
+      "distance": "3.4 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Quiznos&query_place_id=ChIJe3W8cyehD4gR1vgfjU4iazs&center=42.1548495,-88.1278719",
+      "isFar": true
+    }
+  ],
+  "coffee": [
+    {
+      "name": "Pepper Park Coffee",
+      "distance": "0.1 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Pepper%20Park%20Coffee&query_place_id=ChIJCXbQZooKD4gRxhbz2M7VTPc&center=42.1835874,-88.1854464"
+    },
+    {
+      "name": "Grab and Go",
+      "distance": "1.2 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Grab%20and%20Go&query_place_id=ChIJBX7_CQALD4gRiJtr4Gdf6Io&center=42.1967174,-88.17318159999999"
+    },
+    {
+      "name": "Dunkin'",
+      "distance": "1.3 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Dunkin'&query_place_id=ChIJHx_laf0KD4gR_Lr5y4KppBk&center=42.1917273,-88.205679"
+    },
+    {
+      "name": "Brunch Cafe-Fox River Grove",
+      "distance": "1.4 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Brunch%20Cafe-Fox%20River%20Grove&query_place_id=ChIJUbMBouIKD4gREYXpvlAqoxk&center=42.193464899999995,-88.20544699999999"
+    },
+    {
+      "name": "Starbucks Coffee Company",
+      "distance": "1.6 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Starbucks%20Coffee%20Company&query_place_id=ChIJE8JvexsLD4gR1aAqOLkLEm4&center=42.1951593,-88.20958189999999"
+    }
+  ],
+  "team_lunch": [
+    {
+      "name": "KRH - Kelsey Road House",
+      "distance": "0.4 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=KRH%20-%20Kelsey%20Road%20House&query_place_id=ChIJRdoyVPQKD4gRnIQeEKLGyxo&center=42.1849998,-88.1917419"
+    },
+    {
+      "name": "chef cali",
+      "distance": "1.7 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=chef%20cali&query_place_id=ChIJj6vjgxwLD4gRNG9JN-sq62I&center=42.194902299999995,-88.21177569999999"
+    },
+    {
+      "name": "Cookie Art",
+      "distance": "3.6 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Cookie%20Art&query_place_id=ChIJd2jpm6ALD4gRsXe4HcsyqDc&center=42.2109313,-88.2432661",
+      "isFar": true
+    },
+    {
+      "name": "Sabina's Sweets",
+      "distance": "3.8 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Sabina's%20Sweets&query_place_id=ChIJ-dXIl6MWlWQR5DpIg-tcwTY&center=42.195368599999995,-88.2569448",
+      "isFar": true
+    }
+  ],
+  "dinner": [
+    {
+      "name": "Wild Onion Brewery & Banquets",
+      "distance": "0.3 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Wild%20Onion%20Brewery%20%26%20Banquets&query_place_id=ChIJUR1zl4sKD4gR39erEjr8i7s&center=42.1864019,-88.18358409999999"
+    },
+    {
+      "name": "Lake Barrington Steakhouse",
+      "distance": "0.5 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Lake%20Barrington%20Steakhouse&query_place_id=ChIJ02jcpwQLD4gR7hPl33yW_iI&center=42.1856462,-88.1930926"
+    },
+    {
+      "name": "Farmer's Fridge",
+      "distance": "1.1 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Farmer's%20Fridge&query_place_id=ChIJ_bxkAUcLD4gRD_Urw5DyiJQ&center=42.196270500000004,-88.1726693"
+    },
+    {
+      "name": "Kuwa Sushi",
+      "distance": "1.5 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Kuwa%20Sushi&query_place_id=ChIJAwQs9lQLD4gRuUSLpxZGQJE&center=42.1946801,-88.2084335"
+    },
+    {
+      "name": "La Pizza Via",
+      "distance": "1.5 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=La%20Pizza%20Via&query_place_id=ChIJx4PyCR0LD4gREZPyoUX7L-4&center=42.1947373,-88.2085051"
+    },
+    {
+      "name": "Lord of Beers",
+      "distance": "1.7 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Lord%20of%20Beers&query_place_id=ChIJ2Y0WSJILD4gRW5-mlyIVjWg&center=42.1949682,-88.21184129999999"
+    }
+  ],
+  "bowling": [
+    {
+      "name": "King-Pin Lanes",
+      "distance": "2.2 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=King-Pin%20Lanes&query_place_id=ChIJL_AdUxELD4gRXSlA83gYRqs&center=42.197697399999996,-88.22117999999999"
+    }
+  ],
+  "arcade": [],
+  "movies": [
+    {
+      "name": "The Catlow Theatre",
+      "distance": "3.1 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=The%20Catlow%20Theatre&query_place_id=ChIJM6_C_tqgD4gR_4ZozOmw5x8&center=42.15452500000001,-88.1366901",
+      "isFar": true
+    },
+    {
+      "name": "Regal Lake Zurich",
+      "distance": "4.5 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Regal%20Lake%20Zurich&query_place_id=ChIJBysqZYGhD4gRyAhsjEBpitM&center=42.185036,-88.09602",
+      "isFar": true
+    }
+  ],
+  "fun": [
+    {
+      "name": "Ekciting VR, Inc.",
+      "distance": "0.4 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Ekciting%20VR%2C%20Inc.&query_place_id=ChIJkQYJIHsLD4gR_fSdkGV_l6Y&center=42.1873858,-88.1808988"
+    },
+    {
+      "name": "Mack Manor",
+      "distance": "2.5 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Mack%20Manor&query_place_id=ChIJUfgYrXYLD4gRVWMyIy5hZbY&center=42.188192099999995,-88.2328545"
+    },
+    {
+      "name": "Hanky Pank Bay",
+      "distance": "2.6 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Hanky%20Pank%20Bay&query_place_id=ChIJG-PZEnYLD4gRx97cCQl5tpk&center=42.219373999999995,-88.1807706"
+    },
+    {
+      "name": "Sunset Bay",
+      "distance": "3.2 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Sunset%20Bay&query_place_id=ChIJE1oL8CJ1D4gRy7BUJVvBggE&center=42.2280538,-88.178589",
+      "isFar": true
+    }
+  ],
+  "hotels": [
+    {
+      "name": "River Inn Motel",
+      "distance": "1.2 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=River%20Inn%20Motel&query_place_id=ChIJQRuU7_wKD4gR4tdITitXZHM&center=42.191182999999995,-88.20468629999999"
+    },
+    {
+      "name": "Fenced Yard: Fox River Grove Home, Dogs Welcome",
+      "distance": "1.2 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Fenced%20Yard%3A%20Fox%20River%20Grove%20Home%2C%20Dogs%20Welcome&query_place_id=ChIJVfgLzvwKD4gRg5wE1ygnNo8&center=42.1923065,-88.20405579999999"
+    }
+  ],
+  "gas": [
+    {
+      "name": "Speedway",
+      "distance": "0.3 mi",
+      "url": "https://www.google.com/maps/search/Speedway+near+42.1820132%2C-88.1840718"
+    },
+    {
+      "name": "Shell",
+      "distance": "1.6 mi",
+      "url": "https://www.google.com/maps/search/Shell+near+42.1820132%2C-88.1840718"
+    },
+    {
+      "name": "Citgo",
+      "distance": "2.1 mi",
+      "url": "https://www.google.com/maps/search/Citgo+near+42.1820132%2C-88.1840718"
+    },
+    {
+      "name": "Circle K | Gas Station",
+      "distance": "2.4 mi",
+      "url": "https://www.google.com/maps/search/Circle%20K%20%7C%20Gas%20Station+near+42.1820132%2C-88.1840718"
+    }
+  ]
+}

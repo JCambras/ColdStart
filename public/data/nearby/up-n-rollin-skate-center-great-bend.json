@@ -1,0 +1,201 @@
+{
+  "quick_bite": [
+    {
+      "name": "waypoint 1",
+      "distance": "0.3 mi",
+      "url": "https://www.google.com/maps/search/waypoint%201+near+38.360110299999995%2C-98.7999811"
+    },
+    {
+      "name": "Burger King",
+      "distance": "0.4 mi",
+      "url": "https://www.google.com/maps/search/Burger%20King+near+38.360110299999995%2C-98.7999811"
+    },
+    {
+      "name": "Sonic Drive-In",
+      "distance": "0.4 mi",
+      "url": "https://www.google.com/maps/search/Sonic%20Drive-In+near+38.360110299999995%2C-98.7999811"
+    },
+    {
+      "name": "Jimmy John's",
+      "distance": "0.5 mi",
+      "url": "https://www.google.com/maps/search/Jimmy%20John's+near+38.360110299999995%2C-98.7999811"
+    },
+    {
+      "name": "Taco Bell",
+      "distance": "0.7 mi",
+      "url": "https://www.google.com/maps/search/Taco%20Bell+near+38.360110299999995%2C-98.7999811"
+    },
+    {
+      "name": "Wendy's",
+      "distance": "0.7 mi",
+      "url": "https://www.google.com/maps/search/Wendy's+near+38.360110299999995%2C-98.7999811"
+    },
+    {
+      "name": "Arby's",
+      "distance": "0.8 mi",
+      "url": "https://www.google.com/maps/search/Arby's+near+38.360110299999995%2C-98.7999811"
+    }
+  ],
+  "coffee": [
+    {
+      "name": "Starbucks Coffee Company",
+      "distance": "0.3 mi",
+      "url": "https://www.google.com/maps/search/Starbucks%20Coffee%20Company+near+38.360110299999995%2C-98.7999811"
+    },
+    {
+      "name": "Starbucks Coffee Company",
+      "distance": "0.7 mi",
+      "url": "https://www.google.com/maps/search/Starbucks%20Coffee%20Company+near+38.360110299999995%2C-98.7999811"
+    },
+    {
+      "name": "Scooter's Coffee",
+      "distance": "0.7 mi",
+      "url": "https://www.google.com/maps/search/Scooter's%20Coffee+near+38.360110299999995%2C-98.7999811"
+    },
+    {
+      "name": "McDonald's",
+      "distance": "0.9 mi",
+      "url": "https://www.google.com/maps/search/McDonald's+near+38.360110299999995%2C-98.7999811"
+    }
+  ],
+  "team_lunch": [
+    {
+      "name": "Great Wall Super Buffet",
+      "distance": "0.1 mi",
+      "url": "https://www.google.com/maps/search/Great%20Wall%20Super%20Buffet+near+38.360110299999995%2C-98.7999811"
+    },
+    {
+      "name": "Domino's",
+      "distance": "0.6 mi",
+      "url": "https://www.google.com/maps/search/Domino's+near+38.360110299999995%2C-98.7999811"
+    },
+    {
+      "name": "Applebee's Grill + Bar",
+      "distance": "0.9 mi",
+      "url": "https://www.google.com/maps/search/Applebee's%20Grill%20%2B%20Bar+near+38.360110299999995%2C-98.7999811"
+    }
+  ],
+  "dinner": [
+    {
+      "name": "Tacos Del Sol",
+      "distance": "0.4 mi",
+      "url": "https://www.google.com/maps/search/Tacos%20Del%20Sol+near+38.360110299999995%2C-98.7999811"
+    },
+    {
+      "name": "Chosen Wok Asian Cuisine",
+      "distance": "0.5 mi",
+      "url": "https://www.google.com/maps/search/Chosen%20Wok%20Asian%20Cuisine+near+38.360110299999995%2C-98.7999811"
+    },
+    {
+      "name": "Walmart Bakery",
+      "distance": "0.7 mi",
+      "url": "https://www.google.com/maps/search/Walmart%20Bakery+near+38.360110299999995%2C-98.7999811"
+    },
+    {
+      "name": "Daylight Donuts",
+      "distance": "0.8 mi",
+      "url": "https://www.google.com/maps/search/Daylight%20Donuts+near+38.360110299999995%2C-98.7999811"
+    },
+    {
+      "name": "La Nana",
+      "distance": "0.9 mi",
+      "url": "https://www.google.com/maps/search/La%20Nana+near+38.360110299999995%2C-98.7999811"
+    }
+  ],
+  "bowling": [
+    {
+      "name": "Walnut Bowl",
+      "distance": "2.0 mi",
+      "url": "https://www.google.com/maps/search/Walnut%20Bowl+near+38.360110299999995%2C-98.7999811"
+    }
+  ],
+  "arcade": [],
+  "movies": [
+    {
+      "name": "Crest Theater",
+      "distance": "2.0 mi",
+      "url": "https://www.google.com/maps/search/Crest%20Theater+near+38.360110299999995%2C-98.7999811"
+    },
+    {
+      "name": "Golden Belt Cinema 6",
+      "distance": "2.0 mi",
+      "url": "https://www.google.com/maps/search/Golden%20Belt%20Cinema%206+near+38.360110299999995%2C-98.7999811"
+    }
+  ],
+  "fun": [
+    {
+      "name": "Great Bend Splash Pad",
+      "distance": "0.9 mi",
+      "url": "https://www.google.com/maps/search/Great%20Bend%20Splash%20Pad+near+38.360110299999995%2C-98.7999811"
+    },
+    {
+      "name": "Wetlands Waterpark",
+      "distance": "2.1 mi",
+      "url": "https://www.google.com/maps/search/Wetlands%20Waterpark+near+38.360110299999995%2C-98.7999811"
+    }
+  ],
+  "hotels": [
+    {
+      "name": "The Ranch House of Great Bend, KS",
+      "distance": "0.1 mi",
+      "url": "https://www.google.com/maps/search/The%20Ranch%20House%20of%20Great%20Bend%2C%20KS+near+38.360110299999995%2C-98.7999811"
+    },
+    {
+      "name": "Days Inn by Wyndham Great Bend",
+      "distance": "0.1 mi",
+      "url": "https://www.google.com/maps/search/Days%20Inn%20by%20Wyndham%20Great%20Bend+near+38.360110299999995%2C-98.7999811"
+    },
+    {
+      "name": "The Travelers Budget Inn",
+      "distance": "0.3 mi",
+      "url": "https://www.google.com/maps/search/The%20Travelers%20Budget%20Inn+near+38.360110299999995%2C-98.7999811"
+    },
+    {
+      "name": "Big Bend Traveler's Inn",
+      "distance": "0.3 mi",
+      "url": "https://www.google.com/maps/search/Big%20Bend%20Traveler's%20Inn+near+38.360110299999995%2C-98.7999811"
+    },
+    {
+      "name": "Sunflower Estates - Mobile Home & RV Community",
+      "distance": "0.5 mi",
+      "url": "https://www.google.com/maps/search/Sunflower%20Estates%20-%20Mobile%20Home%20%26%20RV%20Community+near+38.360110299999995%2C-98.7999811"
+    },
+    {
+      "name": "Holiday Inn Express & Suites Great Bend by IHG",
+      "distance": "0.5 mi",
+      "url": "https://www.google.com/maps/search/Holiday%20Inn%20Express%20%26%20Suites%20Great%20Bend%20by%20IHG+near+38.360110299999995%2C-98.7999811"
+    },
+    {
+      "name": "Super 8 by Wyndham Great Bend",
+      "distance": "0.6 mi",
+      "url": "https://www.google.com/maps/search/Super%208%20by%20Wyndham%20Great%20Bend+near+38.360110299999995%2C-98.7999811"
+    }
+  ],
+  "gas": [
+    {
+      "name": "Sanchor Sales",
+      "distance": "0.2 mi",
+      "url": "https://www.google.com/maps/search/Sanchor%20Sales+near+38.360110299999995%2C-98.7999811"
+    },
+    {
+      "name": "Century Fuels Inc",
+      "distance": "0.2 mi",
+      "url": "https://www.google.com/maps/search/Century%20Fuels%20Inc+near+38.360110299999995%2C-98.7999811"
+    },
+    {
+      "name": "Fred Meyer Fuel Center",
+      "distance": "0.3 mi",
+      "url": "https://www.google.com/maps/search/Fred%20Meyer%20Fuel%20Center+near+38.360110299999995%2C-98.7999811"
+    },
+    {
+      "name": "Dillons Fuel Center",
+      "distance": "0.3 mi",
+      "url": "https://www.google.com/maps/search/Dillons%20Fuel%20Center+near+38.360110299999995%2C-98.7999811"
+    },
+    {
+      "name": "Phillips 66",
+      "distance": "0.7 mi",
+      "url": "https://www.google.com/maps/search/Phillips%2066+near+38.360110299999995%2C-98.7999811"
+    }
+  ]
+}

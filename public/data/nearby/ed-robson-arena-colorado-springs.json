@@ -1,0 +1,268 @@
+{
+  "quick_bite": [
+    {
+      "name": "Louie's Pizza",
+      "distance": "0.5 mi",
+      "url": "https://www.google.com/maps/search/Louie's%20Pizza+near+38.8461079%2C-104.8223792"
+    },
+    {
+      "name": "Poor Richard's Restaurant",
+      "distance": "0.5 mi",
+      "url": "https://www.google.com/maps/search/Poor%20Richard's%20Restaurant+near+38.8461079%2C-104.8223792"
+    },
+    {
+      "name": "Carl's Jr.",
+      "distance": "0.5 mi",
+      "url": "https://www.google.com/maps/search/Carl's%20Jr.+near+38.8461079%2C-104.8223792"
+    },
+    {
+      "name": "Taco Star",
+      "distance": "0.6 mi",
+      "url": "https://www.google.com/maps/search/Taco%20Star+near+38.8461079%2C-104.8223792"
+    },
+    {
+      "name": "Cinemark Tinseltown Colorado Springs and XD",
+      "distance": "4.1 mi",
+      "url": "https://www.google.com/maps/search/Cinemark%20Tinseltown%20Colorado%20Springs%20and%20XD+near+38.8461079%2C-104.8223792",
+      "isFar": true
+    },
+    {
+      "name": "Chuck E. Cheese",
+      "distance": "4.1 mi",
+      "url": "https://www.google.com/maps/search/Chuck%20E.%20Cheese+near+38.8461079%2C-104.8223792",
+      "isFar": true
+    },
+    {
+      "name": "King Pin Lanes",
+      "distance": "4.1 mi",
+      "url": "https://www.google.com/maps/search/King%20Pin%20Lanes+near+38.8461079%2C-104.8223792",
+      "isFar": true
+    }
+  ],
+  "coffee": [
+    {
+      "name": "Evergreen restaurant",
+      "distance": "0.1 mi",
+      "url": "https://www.google.com/maps/search/Evergreen%20restaurant+near+38.8461079%2C-104.8223792"
+    },
+    {
+      "name": "Misty Mountain Collective",
+      "distance": "0.2 mi",
+      "url": "https://www.google.com/maps/search/Misty%20Mountain%20Collective+near+38.8461079%2C-104.8223792"
+    },
+    {
+      "name": "The Preserve Cafe",
+      "distance": "0.3 mi",
+      "url": "https://www.google.com/maps/search/The%20Preserve%20Cafe+near+38.8461079%2C-104.8223792"
+    },
+    {
+      "name": "Ohana Kava Bar",
+      "distance": "0.4 mi",
+      "url": "https://www.google.com/maps/search/Ohana%20Kava%20Bar+near+38.8461079%2C-104.8223792"
+    },
+    {
+      "name": "Rico's Cafe & Wine Bar",
+      "distance": "0.5 mi",
+      "url": "https://www.google.com/maps/search/Rico's%20Cafe%20%26%20Wine%20Bar+near+38.8461079%2C-104.8223792"
+    }
+  ],
+  "team_lunch": [
+    {
+      "name": "Taste",
+      "distance": "0.2 mi",
+      "url": "https://www.google.com/maps/search/Taste+near+38.8461079%2C-104.8223792"
+    },
+    {
+      "name": "Sparky's kitchen",
+      "distance": "0.5 mi",
+      "url": "https://www.google.com/maps/search/Sparky's%20kitchen+near+38.8461079%2C-104.8223792"
+    }
+  ],
+  "dinner": [
+    {
+      "name": "P74: The Downtown Paninos",
+      "distance": "0.2 mi",
+      "url": "https://www.google.com/maps/search/P74%3A%20The%20Downtown%20Paninos+near+38.8461079%2C-104.8223792"
+    },
+    {
+      "name": "Rasta Pasta",
+      "distance": "0.4 mi",
+      "url": "https://www.google.com/maps/search/Rasta%20Pasta+near+38.8461079%2C-104.8223792"
+    },
+    {
+      "name": "Wild Rose Bake Shop",
+      "distance": "0.5 mi",
+      "url": "https://www.google.com/maps/search/Wild%20Rose%20Bake%20Shop+near+38.8461079%2C-104.8223792"
+    },
+    {
+      "name": "The Wobbly Olive (Downtown)",
+      "distance": "0.5 mi",
+      "url": "https://www.google.com/maps/search/The%20Wobbly%20Olive%20(Downtown)+near+38.8461079%2C-104.8223792"
+    },
+    {
+      "name": "Four by Brother Luck",
+      "distance": "0.5 mi",
+      "url": "https://www.google.com/maps/search/Four%20by%20Brother%20Luck+near+38.8461079%2C-104.8223792"
+    },
+    {
+      "name": "Sushi Row",
+      "distance": "0.5 mi",
+      "url": "https://www.google.com/maps/search/Sushi%20Row+near+38.8461079%2C-104.8223792"
+    },
+    {
+      "name": "Odyssey Gastropub",
+      "distance": "0.5 mi",
+      "url": "https://www.google.com/maps/search/Odyssey%20Gastropub+near+38.8461079%2C-104.8223792"
+    }
+  ],
+  "bowling": [
+    {
+      "name": "Peak Bowl",
+      "distance": "1.9 mi",
+      "url": "https://www.google.com/maps/search/Peak%20Bowl+near+38.8461079%2C-104.8223792"
+    },
+    {
+      "name": "Bowling",
+      "distance": "2.6 mi",
+      "url": "https://www.google.com/maps/search/Bowling+near+38.8461079%2C-104.8223792"
+    },
+    {
+      "name": "AMF Colorado Springs Lanes",
+      "distance": "2.6 mi",
+      "url": "https://www.google.com/maps/search/AMF%20Colorado%20Springs%20Lanes+near+38.8461079%2C-104.8223792"
+    },
+    {
+      "name": "PinHeadz Bowling Center",
+      "distance": "2.8 mi",
+      "url": "https://www.google.com/maps/search/PinHeadz%20Bowling%20Center+near+38.8461079%2C-104.8223792"
+    },
+    {
+      "name": "Play at The Broadmoor",
+      "distance": "4.2 mi",
+      "url": "https://www.google.com/maps/search/Play%20at%20The%20Broadmoor+near+38.8461079%2C-104.8223792",
+      "isFar": true
+    }
+  ],
+  "arcade": [],
+  "movies": [
+    {
+      "name": "Kimball's Peak Three Theater",
+      "distance": "0.9 mi",
+      "url": "https://www.google.com/maps/search/Kimball's%20Peak%20Three%20Theater+near+38.8461079%2C-104.8223792"
+    },
+    {
+      "name": "The Drive In",
+      "distance": "1.9 mi",
+      "url": "https://www.google.com/maps/search/The%20Drive%20In+near+38.8461079%2C-104.8223792"
+    },
+    {
+      "name": "RoadHouse Cinemas | Colorado Springs",
+      "distance": "2.1 mi",
+      "url": "https://www.google.com/maps/search/RoadHouse%20Cinemas%20%7C%20Colorado%20Springs+near+38.8461079%2C-104.8223792"
+    },
+    {
+      "name": "Geo-Trekker Theater",
+      "distance": "3.4 mi",
+      "url": "https://www.google.com/maps/search/Geo-Trekker%20Theater+near+38.8461079%2C-104.8223792",
+      "isFar": true
+    },
+    {
+      "name": "Picture Show at Citadel Crossing",
+      "distance": "3.6 mi",
+      "url": "https://www.google.com/maps/search/Picture%20Show%20at%20Citadel%20Crossing+near+38.8461079%2C-104.8223792",
+      "isFar": true
+    }
+  ],
+  "fun": [
+    {
+      "name": "CodeBusters Escape Rooms of Colorado Springs",
+      "distance": "1.6 mi",
+      "url": "https://www.google.com/maps/search/CodeBusters%20Escape%20Rooms%20of%20Colorado%20Springs+near+38.8461079%2C-104.8223792"
+    },
+    {
+      "name": "Hellscream Haunted House",
+      "distance": "2.2 mi",
+      "url": "https://www.google.com/maps/search/Hellscream%20Haunted%20House+near+38.8461079%2C-104.8223792"
+    },
+    {
+      "name": "Enter the Enigma Escape Rooms - Garden of the Gods",
+      "distance": "2.6 mi",
+      "url": "https://www.google.com/maps/search/Enter%20the%20Enigma%20Escape%20Rooms%20-%20Garden%20of%20the%20Gods+near+38.8461079%2C-104.8223792"
+    },
+    {
+      "name": "21 Keys Escape Rooms",
+      "distance": "2.7 mi",
+      "url": "https://www.google.com/maps/search/21%20Keys%20Escape%20Rooms+near+38.8461079%2C-104.8223792"
+    },
+    {
+      "name": "Enter the Enigma Escape Rooms",
+      "distance": "3.7 mi",
+      "url": "https://www.google.com/maps/search/Enter%20the%20Enigma%20Escape%20Rooms+near+38.8461079%2C-104.8223792",
+      "isFar": true
+    }
+  ],
+  "hotels": [
+    {
+      "name": "Tiger Lair! Near Colorado College & Robson Arena",
+      "distance": "0.1 mi",
+      "url": "https://www.google.com/maps/search/Tiger%20Lair!%20Near%20Colorado%20College%20%26%20Robson%20Arena+near+38.8461079%2C-104.8223792"
+    },
+    {
+      "name": "Tiger Lair Walk to CC Historic Downtown COS 4BR",
+      "distance": "0.1 mi",
+      "url": "https://www.google.com/maps/search/Tiger%20Lair%20Walk%20to%20CC%20Historic%20Downtown%20COS%204BR+near+38.8461079%2C-104.8223792"
+    },
+    {
+      "name": "Since 1889: Colorado College and Downtown Colorado Springs: AC, Private Parking",
+      "distance": "0.1 mi",
+      "url": "https://www.google.com/maps/search/Since%201889%3A%20Colorado%20College%20and%20Downtown%20Colorado%20Springs%3A%20AC%2C%20Private%20Parking+near+38.8461079%2C-104.8223792"
+    },
+    {
+      "name": "1 person studio - extended stay, near downtown",
+      "distance": "0.1 mi",
+      "url": "https://www.google.com/maps/search/1%20person%20studio%20-%20extended%20stay%2C%20near%20downtown+near+38.8461079%2C-104.8223792"
+    },
+    {
+      "name": "Golden Suite, 1BR, downtown/CC",
+      "distance": "0.1 mi",
+      "url": "https://www.google.com/maps/search/Golden%20Suite%2C%201BR%2C%20downtown%2FCC+near+38.8461079%2C-104.8223792"
+    },
+    {
+      "name": "Penrose suite, by Colorado College",
+      "distance": "0.1 mi",
+      "url": "https://www.google.com/maps/search/Penrose%20suite%2C%20by%20Colorado%20College+near+38.8461079%2C-104.8223792"
+    },
+    {
+      "name": "Palmer suite, 1 BR downtown/CC",
+      "distance": "0.1 mi",
+      "url": "https://www.google.com/maps/search/Palmer%20suite%2C%201%20BR%20downtown%2FCC+near+38.8461079%2C-104.8223792"
+    }
+  ],
+  "gas": [
+    {
+      "name": "Conoco",
+      "distance": "0.1 mi",
+      "url": "https://www.google.com/maps/search/Conoco+near+38.8461079%2C-104.8223792"
+    },
+    {
+      "name": "7-Eleven Fuel",
+      "distance": "0.6 mi",
+      "url": "https://www.google.com/maps/search/7-Eleven%20Fuel+near+38.8461079%2C-104.8223792"
+    },
+    {
+      "name": "Conoco",
+      "distance": "0.6 mi",
+      "url": "https://www.google.com/maps/search/Conoco+near+38.8461079%2C-104.8223792"
+    },
+    {
+      "name": "Conoco",
+      "distance": "1.3 mi",
+      "url": "https://www.google.com/maps/search/Conoco+near+38.8461079%2C-104.8223792"
+    },
+    {
+      "name": "Circle K | Gas Station",
+      "distance": "1.3 mi",
+      "url": "https://www.google.com/maps/search/Circle%20K%20%7C%20Gas%20Station+near+38.8461079%2C-104.8223792"
+    }
+  ]
+}

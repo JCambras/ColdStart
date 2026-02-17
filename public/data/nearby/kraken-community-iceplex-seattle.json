@@ -1,0 +1,251 @@
+{
+  "quick_bite": [
+    {
+      "name": "Chipotle Mexican Grill",
+      "distance": "0.1 mi",
+      "url": "https://www.google.com/maps/search/Chipotle%20Mexican%20Grill+near+47.7064058%2C-122.32522569999999"
+    },
+    {
+      "name": "Red Robin Gourmet Burgers and Brews",
+      "distance": "0.2 mi",
+      "url": "https://www.google.com/maps/search/Red%20Robin%20Gourmet%20Burgers%20and%20Brews+near+47.7064058%2C-122.32522569999999"
+    },
+    {
+      "name": "Pizza Hut Express",
+      "distance": "0.2 mi",
+      "url": "https://www.google.com/maps/search/Pizza%20Hut%20Express+near+47.7064058%2C-122.32522569999999"
+    },
+    {
+      "name": "Masala of India Cuisine",
+      "distance": "0.2 mi",
+      "url": "https://www.google.com/maps/search/Masala%20of%20India%20Cuisine+near+47.7064058%2C-122.32522569999999"
+    },
+    {
+      "name": "Jimmy John's",
+      "distance": "0.2 mi",
+      "url": "https://www.google.com/maps/search/Jimmy%20John's+near+47.7064058%2C-122.32522569999999"
+    },
+    {
+      "name": "Five Guys",
+      "distance": "0.2 mi",
+      "url": "https://www.google.com/maps/search/Five%20Guys+near+47.7064058%2C-122.32522569999999"
+    },
+    {
+      "name": "Subway",
+      "distance": "0.3 mi",
+      "url": "https://www.google.com/maps/search/Subway+near+47.7064058%2C-122.32522569999999"
+    }
+  ],
+  "coffee": [
+    {
+      "name": "Starbucks",
+      "distance": "0.1 mi",
+      "url": "https://www.google.com/maps/search/Starbucks+near+47.7064058%2C-122.32522569999999"
+    },
+    {
+      "name": "Starbucks Coffee Company",
+      "distance": "0.2 mi",
+      "url": "https://www.google.com/maps/search/Starbucks%20Coffee%20Company+near+47.7064058%2C-122.32522569999999"
+    },
+    {
+      "name": "Poke Cafe",
+      "distance": "0.2 mi",
+      "url": "https://www.google.com/maps/search/Poke%20Cafe+near+47.7064058%2C-122.32522569999999"
+    },
+    {
+      "name": "Jewel Box Cafe",
+      "distance": "0.3 mi",
+      "url": "https://www.google.com/maps/search/Jewel%20Box%20Cafe+near+47.7064058%2C-122.32522569999999"
+    },
+    {
+      "name": "Wunderkind",
+      "distance": "3.0 mi",
+      "url": "https://www.google.com/maps/search/Wunderkind+near+47.7064058%2C-122.32522569999999",
+      "isFar": true
+    }
+  ],
+  "team_lunch": [
+    {
+      "name": "Taste of Masala",
+      "distance": "0.2 mi",
+      "url": "https://www.google.com/maps/search/Taste%20of%20Masala+near+47.7064058%2C-122.32522569999999"
+    },
+    {
+      "name": "Tian Fu Seattle",
+      "distance": "0.2 mi",
+      "url": "https://www.google.com/maps/search/Tian%20Fu%20Seattle+near+47.7064058%2C-122.32522569999999"
+    },
+    {
+      "name": "Just Poké Northgate",
+      "distance": "0.2 mi",
+      "url": "https://www.google.com/maps/search/Just%20Pok%C3%A9%20Northgate+near+47.7064058%2C-122.32522569999999"
+    },
+    {
+      "name": "Thai Fusion Bistro",
+      "distance": "0.3 mi",
+      "url": "https://www.google.com/maps/search/Thai%20Fusion%20Bistro+near+47.7064058%2C-122.32522569999999"
+    }
+  ],
+  "dinner": [
+    {
+      "name": "32 Bar & Grill",
+      "distance": "0.1 mi",
+      "url": "https://www.google.com/maps/search/32%20Bar%20%26%20Grill+near+47.7064058%2C-122.32522569999999"
+    },
+    {
+      "name": "The Corner",
+      "distance": "0.2 mi",
+      "url": "https://www.google.com/maps/search/The%20Corner+near+47.7064058%2C-122.32522569999999"
+    },
+    {
+      "name": "Stanford's Northgate",
+      "distance": "0.2 mi",
+      "url": "https://www.google.com/maps/search/Stanford's%20Northgate+near+47.7064058%2C-122.32522569999999"
+    },
+    {
+      "name": "Kizuki Ramen & Izakaya (Northgate)",
+      "distance": "0.3 mi",
+      "url": "https://www.google.com/maps/search/Kizuki%20Ramen%20%26%20Izakaya%20(Northgate)+near+47.7064058%2C-122.32522569999999"
+    }
+  ],
+  "bowling": [
+    {
+      "name": "Spin Alley Bowling",
+      "distance": "5.0 mi",
+      "url": "https://www.google.com/maps/search/Spin%20Alley%20Bowling+near+47.7064058%2C-122.32522569999999",
+      "isFar": true
+    }
+  ],
+  "arcade": [],
+  "movies": [
+    {
+      "name": "Regal Thornton Place",
+      "distance": "0.2 mi",
+      "url": "https://www.google.com/maps/search/Regal%20Thornton%20Place+near+47.7064058%2C-122.32522569999999"
+    },
+    {
+      "name": "AMC Oak Tree 6",
+      "distance": "0.9 mi",
+      "url": "https://www.google.com/maps/search/AMC%20Oak%20Tree%206+near+47.7064058%2C-122.32522569999999"
+    },
+    {
+      "name": "Grand Illusion Cinema",
+      "distance": "2.9 mi",
+      "url": "https://www.google.com/maps/search/Grand%20Illusion%20Cinema+near+47.7064058%2C-122.32522569999999"
+    },
+    {
+      "name": "Landmark's Crest Cinema Center",
+      "distance": "2.9 mi",
+      "url": "https://www.google.com/maps/search/Landmark's%20Crest%20Cinema%20Center+near+47.7064058%2C-122.32522569999999"
+    },
+    {
+      "name": "Majestic Bay Theatres",
+      "distance": "3.8 mi",
+      "url": "https://www.google.com/maps/search/Majestic%20Bay%20Theatres+near+47.7064058%2C-122.32522569999999",
+      "isFar": true
+    }
+  ],
+  "fun": [
+    {
+      "name": "Northacres Spraypark",
+      "distance": "1.1 mi",
+      "url": "https://www.google.com/maps/search/Northacres%20Spraypark+near+47.7064058%2C-122.32522569999999"
+    },
+    {
+      "name": "Sandel Playground Wading Pool",
+      "distance": "1.7 mi",
+      "url": "https://www.google.com/maps/search/Sandel%20Playground%20Wading%20Pool+near+47.7064058%2C-122.32522569999999"
+    },
+    {
+      "name": "Rage Industry",
+      "distance": "2.0 mi",
+      "url": "https://www.google.com/maps/search/Rage%20Industry+near+47.7064058%2C-122.32522569999999"
+    },
+    {
+      "name": "Quest Factor Escape Rooms",
+      "distance": "2.4 mi",
+      "url": "https://www.google.com/maps/search/Quest%20Factor%20Escape%20Rooms+near+47.7064058%2C-122.32522569999999"
+    },
+    {
+      "name": "View Ridge Playfield Wading Pool",
+      "distance": "2.7 mi",
+      "url": "https://www.google.com/maps/search/View%20Ridge%20Playfield%20Wading%20Pool+near+47.7064058%2C-122.32522569999999"
+    },
+    {
+      "name": "Wallingford Playfield Wading Pool",
+      "distance": "3.3 mi",
+      "url": "https://www.google.com/maps/search/Wallingford%20Playfield%20Wading%20Pool+near+47.7064058%2C-122.32522569999999",
+      "isFar": true
+    },
+    {
+      "name": "Wading Pool",
+      "distance": "3.4 mi",
+      "url": "https://www.google.com/maps/search/Wading%20Pool+near+47.7064058%2C-122.32522569999999",
+      "isFar": true
+    }
+  ],
+  "hotels": [
+    {
+      "name": "Residence Inn by Marriott Seattle Northgate Station",
+      "distance": "0.1 mi",
+      "url": "https://www.google.com/maps/search/Residence%20Inn%20by%20Marriott%20Seattle%20Northgate%20Station+near+47.7064058%2C-122.32522569999999"
+    },
+    {
+      "name": "Retreat to our new North Seattle Hotel at Northgate Station",
+      "distance": "0.2 mi",
+      "url": "https://www.google.com/maps/search/Retreat%20to%20our%20new%20North%20Seattle%20Hotel%20at%20Northgate%20Station+near+47.7064058%2C-122.32522569999999"
+    },
+    {
+      "name": "Northgate Station, a 2 BR apartment",
+      "distance": "0.3 mi",
+      "url": "https://www.google.com/maps/search/Northgate%20Station%2C%20a%202%20BR%20apartment+near+47.7064058%2C-122.32522569999999"
+    },
+    {
+      "name": "Northgate Station STR Lodging",
+      "distance": "0.3 mi",
+      "url": "https://www.google.com/maps/search/Northgate%20Station%20STR%20Lodging+near+47.7064058%2C-122.32522569999999"
+    },
+    {
+      "name": "Luxe 9 Beds Home - BackyardOasis&EntertainmentRoom",
+      "distance": "0.3 mi",
+      "url": "https://www.google.com/maps/search/Luxe%209%20Beds%20Home%20-%20BackyardOasis%26EntertainmentRoom+near+47.7064058%2C-122.32522569999999"
+    },
+    {
+      "name": "Garden House In North Seattle",
+      "distance": "0.4 mi",
+      "url": "https://www.google.com/maps/search/Garden%20House%20In%20North%20Seattle+near+47.7064058%2C-122.32522569999999"
+    },
+    {
+      "name": "Hotel Nexus Seattle",
+      "distance": "0.4 mi",
+      "url": "https://www.google.com/maps/search/Hotel%20Nexus%20Seattle+near+47.7064058%2C-122.32522569999999"
+    }
+  ],
+  "gas": [
+    {
+      "name": "Shell",
+      "distance": "0.4 mi",
+      "url": "https://www.google.com/maps/search/Shell+near+47.7064058%2C-122.32522569999999"
+    },
+    {
+      "name": "76",
+      "distance": "0.4 mi",
+      "url": "https://www.google.com/maps/search/76+near+47.7064058%2C-122.32522569999999"
+    },
+    {
+      "name": "ARCO",
+      "distance": "0.4 mi",
+      "url": "https://www.google.com/maps/search/ARCO+near+47.7064058%2C-122.32522569999999"
+    },
+    {
+      "name": "Gasolinería",
+      "distance": "0.4 mi",
+      "url": "https://www.google.com/maps/search/Gasoliner%C3%ADa+near+47.7064058%2C-122.32522569999999"
+    },
+    {
+      "name": "Shell",
+      "distance": "0.4 mi",
+      "url": "https://www.google.com/maps/search/Shell+near+47.7064058%2C-122.32522569999999"
+    }
+  ]
+}

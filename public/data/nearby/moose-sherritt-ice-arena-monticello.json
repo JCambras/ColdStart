@@ -1,0 +1,214 @@
+{
+  "quick_bite": [
+    {
+      "name": "Pizza Hut Express",
+      "distance": "0.6 mi",
+      "url": "https://www.google.com/maps/search/Pizza%20Hut%20Express+near+45.299394%2C-93.7822856"
+    },
+    {
+      "name": "Burger King",
+      "distance": "0.6 mi",
+      "url": "https://www.google.com/maps/search/Burger%20King+near+45.299394%2C-93.7822856"
+    },
+    {
+      "name": "Little Caesars Pizza",
+      "distance": "0.7 mi",
+      "url": "https://www.google.com/maps/search/Little%20Caesars%20Pizza+near+45.299394%2C-93.7822856"
+    },
+    {
+      "name": "Papa Murphy's | Take 'N' Bake Pizza",
+      "distance": "0.7 mi",
+      "url": "https://www.google.com/maps/search/Papa%20Murphy's%20%7C%20Take%20'N'%20Bake%20Pizza+near+45.299394%2C-93.7822856"
+    },
+    {
+      "name": "Firehouse Subs 7th Street",
+      "distance": "0.7 mi",
+      "url": "https://www.google.com/maps/search/Firehouse%20Subs%207th%20Street+near+45.299394%2C-93.7822856"
+    },
+    {
+      "name": "Taco Bell",
+      "distance": "0.7 mi",
+      "url": "https://www.google.com/maps/search/Taco%20Bell+near+45.299394%2C-93.7822856"
+    },
+    {
+      "name": "KFC",
+      "distance": "0.8 mi",
+      "url": "https://www.google.com/maps/search/KFC+near+45.299394%2C-93.7822856"
+    }
+  ],
+  "coffee": [
+    {
+      "name": "Starbucks Coffee Company",
+      "distance": "0.6 mi",
+      "url": "https://www.google.com/maps/search/Starbucks%20Coffee%20Company+near+45.299394%2C-93.7822856"
+    },
+    {
+      "name": "Caribou Coffee",
+      "distance": "0.7 mi",
+      "url": "https://www.google.com/maps/search/Caribou%20Coffee+near+45.299394%2C-93.7822856"
+    },
+    {
+      "name": "Panera Bread",
+      "distance": "0.7 mi",
+      "url": "https://www.google.com/maps/search/Panera%20Bread+near+45.299394%2C-93.7822856"
+    },
+    {
+      "name": "Moon Donuts & Cafe",
+      "distance": "0.8 mi",
+      "url": "https://www.google.com/maps/search/Moon%20Donuts%20%26%20Cafe+near+45.299394%2C-93.7822856"
+    },
+    {
+      "name": "Caribou Coffee",
+      "distance": "0.8 mi",
+      "url": "https://www.google.com/maps/search/Caribou%20Coffee+near+45.299394%2C-93.7822856"
+    },
+    {
+      "name": "Miss Kay's Cornerstone Cafe & Catering",
+      "distance": "0.8 mi",
+      "url": "https://www.google.com/maps/search/Miss%20Kay's%20Cornerstone%20Cafe%20%26%20Catering+near+45.299394%2C-93.7822856"
+    },
+    {
+      "name": "Scooter's Coffee",
+      "distance": "0.8 mi",
+      "url": "https://www.google.com/maps/search/Scooter's%20Coffee+near+45.299394%2C-93.7822856"
+    }
+  ],
+  "team_lunch": [
+    {
+      "name": "Perkins American Food Co.",
+      "distance": "0.7 mi",
+      "url": "https://www.google.com/maps/search/Perkins%20American%20Food%20Co.+near+45.299394%2C-93.7822856"
+    }
+  ],
+  "dinner": [
+    {
+      "name": "Brito's Burrito",
+      "distance": "0.6 mi",
+      "url": "https://www.google.com/maps/search/Brito's%20Burrito+near+45.299394%2C-93.7822856"
+    },
+    {
+      "name": "Asian Café Chinese & Sushi Grill",
+      "distance": "0.7 mi",
+      "url": "https://www.google.com/maps/search/Asian%20Caf%C3%A9%20Chinese%20%26%20Sushi%20Grill+near+45.299394%2C-93.7822856"
+    },
+    {
+      "name": "Poke One",
+      "distance": "0.8 mi",
+      "url": "https://www.google.com/maps/search/Poke%20One+near+45.299394%2C-93.7822856"
+    },
+    {
+      "name": "L & L Homestyle Cafe",
+      "distance": "0.8 mi",
+      "url": "https://www.google.com/maps/search/L%20%26%20L%20Homestyle%20Cafe+near+45.299394%2C-93.7822856"
+    },
+    {
+      "name": "Pancho Villa Mexican Restaurant",
+      "distance": "0.8 mi",
+      "url": "https://www.google.com/maps/search/Pancho%20Villa%20Mexican%20Restaurant+near+45.299394%2C-93.7822856"
+    }
+  ],
+  "bowling": [
+    {
+      "name": "Foul Line",
+      "distance": "1.7 mi",
+      "url": "https://www.google.com/maps/search/Foul%20Line+near+45.299394%2C-93.7822856"
+    },
+    {
+      "name": "River City Extreme",
+      "distance": "1.7 mi",
+      "url": "https://www.google.com/maps/search/River%20City%20Extreme+near+45.299394%2C-93.7822856"
+    },
+    {
+      "name": "Big Al's Bowling & Bar",
+      "distance": "8.7 mi",
+      "url": "https://www.google.com/maps/search/Big%20Al's%20Bowling%20%26%20Bar+near+45.299394%2C-93.7822856",
+      "isFar": true
+    },
+    {
+      "name": "Huikko's Bowling Center",
+      "distance": "9.1 mi",
+      "url": "https://www.google.com/maps/search/Huikko's%20Bowling%20Center+near+45.299394%2C-93.7822856",
+      "isFar": true
+    }
+  ],
+  "arcade": [],
+  "movies": [
+    {
+      "name": "Emagine Monticello",
+      "distance": "1.6 mi",
+      "url": "https://www.google.com/maps/search/Emagine%20Monticello+near+45.299394%2C-93.7822856"
+    }
+  ],
+  "fun": [
+    {
+      "name": "Orono Park Splash Pad",
+      "distance": "8.8 mi",
+      "url": "https://www.google.com/maps/search/Orono%20Park%20Splash%20Pad+near+45.299394%2C-93.7822856",
+      "isFar": true
+    }
+  ],
+  "hotels": [
+    {
+      "name": "Lincoln Estates",
+      "distance": "0.2 mi",
+      "url": "https://www.google.com/maps/search/Lincoln%20Estates+near+45.299394%2C-93.7822856"
+    },
+    {
+      "name": "Hillside Terrace II",
+      "distance": "0.6 mi",
+      "url": "https://www.google.com/maps/search/Hillside%20Terrace%20II+near+45.299394%2C-93.7822856"
+    },
+    {
+      "name": "AmericInn Motel - Monticello",
+      "distance": "0.7 mi",
+      "url": "https://www.google.com/maps/search/AmericInn%20Motel%20-%20Monticello+near+45.299394%2C-93.7822856"
+    },
+    {
+      "name": "Days Inn by Wyndham Monticello",
+      "distance": "0.8 mi",
+      "url": "https://www.google.com/maps/search/Days%20Inn%20by%20Wyndham%20Monticello+near+45.299394%2C-93.7822856"
+    },
+    {
+      "name": "Best Western Plus Chelsea Hotel",
+      "distance": "0.8 mi",
+      "url": "https://www.google.com/maps/search/Best%20Western%20Plus%20Chelsea%20Hotel+near+45.299394%2C-93.7822856"
+    },
+    {
+      "name": "Super 8 by Wyndham Monticello",
+      "distance": "0.9 mi",
+      "url": "https://www.google.com/maps/search/Super%208%20by%20Wyndham%20Monticello+near+45.299394%2C-93.7822856"
+    },
+    {
+      "name": "Cozy and Convenient 1 Bedroom, 1 Bath Apartment - One-Bedroom Apartment",
+      "distance": "1.3 mi",
+      "url": "https://www.google.com/maps/search/Cozy%20and%20Convenient%201%20Bedroom%2C%201%20Bath%20Apartment%20-%20One-Bedroom%20Apartment+near+45.299394%2C-93.7822856"
+    }
+  ],
+  "gas": [
+    {
+      "name": "Fleet Farm Gas Mart",
+      "distance": "0.5 mi",
+      "url": "https://www.google.com/maps/search/Fleet%20Farm%20Gas%20Mart+near+45.299394%2C-93.7822856"
+    },
+    {
+      "name": "Holiday Gas Station",
+      "distance": "0.8 mi",
+      "url": "https://www.google.com/maps/search/Holiday%20Gas%20Station+near+45.299394%2C-93.7822856"
+    },
+    {
+      "name": "Circle K",
+      "distance": "0.8 mi",
+      "url": "https://www.google.com/maps/search/Circle%20K+near+45.299394%2C-93.7822856"
+    },
+    {
+      "name": "Kwik Trip",
+      "distance": "0.8 mi",
+      "url": "https://www.google.com/maps/search/Kwik%20Trip+near+45.299394%2C-93.7822856"
+    },
+    {
+      "name": "Speedway",
+      "distance": "0.8 mi",
+      "url": "https://www.google.com/maps/search/Speedway+near+45.299394%2C-93.7822856"
+    }
+  ]
+}

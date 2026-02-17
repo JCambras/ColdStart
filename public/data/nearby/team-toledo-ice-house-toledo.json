@@ -1,0 +1,227 @@
+{
+  "quick_bite": [
+    {
+      "name": "Taco Bell",
+      "distance": "0.1 mi",
+      "url": "https://www.google.com/maps/search/Taco%20Bell+near+41.7232321%2C-83.5737204"
+    },
+    {
+      "name": "Burger King",
+      "distance": "0.3 mi",
+      "url": "https://www.google.com/maps/search/Burger%20King+near+41.7232321%2C-83.5737204"
+    },
+    {
+      "name": "Golden Corral Buffet & Grill",
+      "distance": "0.3 mi",
+      "url": "https://www.google.com/maps/search/Golden%20Corral%20Buffet%20%26%20Grill+near+41.7232321%2C-83.5737204"
+    },
+    {
+      "name": "Subway",
+      "distance": "0.4 mi",
+      "url": "https://www.google.com/maps/search/Subway+near+41.7232321%2C-83.5737204"
+    },
+    {
+      "name": "Dairy Queen Grill & Chill",
+      "distance": "0.4 mi",
+      "url": "https://www.google.com/maps/search/Dairy%20Queen%20Grill%20%26%20Chill+near+41.7232321%2C-83.5737204"
+    },
+    {
+      "name": "Krispy Krunchy Chicken",
+      "distance": "0.4 mi",
+      "url": "https://www.google.com/maps/search/Krispy%20Krunchy%20Chicken+near+41.7232321%2C-83.5737204"
+    },
+    {
+      "name": "SNOWFOX Sushi",
+      "distance": "0.6 mi",
+      "url": "https://www.google.com/maps/search/SNOWFOX%20Sushi+near+41.7232321%2C-83.5737204"
+    }
+  ],
+  "coffee": [
+    {
+      "name": "7 Brew Coffee",
+      "distance": "0.5 mi",
+      "url": "https://www.google.com/maps/search/7%20Brew%20Coffee+near+41.7232321%2C-83.5737204"
+    },
+    {
+      "name": "Starbucks",
+      "distance": "0.6 mi",
+      "url": "https://www.google.com/maps/search/Starbucks+near+41.7232321%2C-83.5737204"
+    },
+    {
+      "name": "McDonald's",
+      "distance": "0.6 mi",
+      "url": "https://www.google.com/maps/search/McDonald's+near+41.7232321%2C-83.5737204"
+    }
+  ],
+  "team_lunch": [
+    {
+      "name": "The Original Gino's Pizza",
+      "distance": "0.1 mi",
+      "url": "https://www.google.com/maps/search/The%20Original%20Gino's%20Pizza+near+41.7232321%2C-83.5737204"
+    },
+    {
+      "name": "Big Boy",
+      "distance": "0.5 mi",
+      "url": "https://www.google.com/maps/search/Big%20Boy+near+41.7232321%2C-83.5737204"
+    },
+    {
+      "name": "Frisch's Big Boy",
+      "distance": "0.5 mi",
+      "url": "https://www.google.com/maps/search/Frisch's%20Big%20Boy+near+41.7232321%2C-83.5737204"
+    },
+    {
+      "name": "Kroger Bakery",
+      "distance": "0.6 mi",
+      "url": "https://www.google.com/maps/search/Kroger%20Bakery+near+41.7232321%2C-83.5737204"
+    }
+  ],
+  "dinner": [
+    {
+      "name": "The Palace",
+      "distance": "0.1 mi",
+      "url": "https://www.google.com/maps/search/The%20Palace+near+41.7232321%2C-83.5737204"
+    },
+    {
+      "name": "Netty's",
+      "distance": "0.1 mi",
+      "url": "https://www.google.com/maps/search/Netty's+near+41.7232321%2C-83.5737204"
+    },
+    {
+      "name": "Ideal Hotdog",
+      "distance": "0.2 mi",
+      "url": "https://www.google.com/maps/search/Ideal%20Hotdog+near+41.7232321%2C-83.5737204"
+    },
+    {
+      "name": "Ocean Garden Buffet",
+      "distance": "0.7 mi",
+      "url": "https://www.google.com/maps/search/Ocean%20Garden%20Buffet+near+41.7232321%2C-83.5737204"
+    }
+  ],
+  "bowling": [
+    {
+      "name": "Jugs Bowling Center",
+      "distance": "1.1 mi",
+      "url": "https://www.google.com/maps/search/Jugs%20Bowling%20Center+near+41.7232321%2C-83.5737204"
+    },
+    {
+      "name": "All Strikes Lanes",
+      "distance": "1.7 mi",
+      "url": "https://www.google.com/maps/search/All%20Strikes%20Lanes+near+41.7232321%2C-83.5737204"
+    },
+    {
+      "name": "Forest View Recreation Bar & Grill",
+      "distance": "3.2 mi",
+      "url": "https://www.google.com/maps/search/Forest%20View%20Recreation%20Bar%20%26%20Grill+near+41.7232321%2C-83.5737204",
+      "isFar": true
+    },
+    {
+      "name": "Bowlero Lanes Fun Center",
+      "distance": "3.3 mi",
+      "url": "https://www.google.com/maps/search/Bowlero%20Lanes%20Fun%20Center+near+41.7232321%2C-83.5737204",
+      "isFar": true
+    },
+    {
+      "name": "The Forty Frame Game Bowling Tournament",
+      "distance": "4.0 mi",
+      "url": "https://www.google.com/maps/search/The%20Forty%20Frame%20Game%20Bowling%20Tournament+near+41.7232321%2C-83.5737204",
+      "isFar": true
+    }
+  ],
+  "arcade": [],
+  "movies": [],
+  "fun": [
+    {
+      "name": "Get Air Trampoline Park",
+      "distance": "1.2 mi",
+      "url": "https://www.google.com/maps/search/Get%20Air%20Trampoline%20Park+near+41.7232321%2C-83.5737204"
+    },
+    {
+      "name": "Spin and Splat",
+      "distance": "3.7 mi",
+      "url": "https://www.google.com/maps/search/Spin%20and%20Splat+near+41.7232321%2C-83.5737204",
+      "isFar": true
+    },
+    {
+      "name": "LOCK N LOAD",
+      "distance": "3.9 mi",
+      "url": "https://www.google.com/maps/search/LOCK%20N%20LOAD+near+41.7232321%2C-83.5737204",
+      "isFar": true
+    },
+    {
+      "name": "All Smiles Aboard Railroad at Franklin Park Mall",
+      "distance": "3.9 mi",
+      "url": "https://www.google.com/maps/search/All%20Smiles%20Aboard%20Railroad%20at%20Franklin%20Park%20Mall+near+41.7232321%2C-83.5737204",
+      "isFar": true
+    },
+    {
+      "name": "Toledo Room Escape",
+      "distance": "4.9 mi",
+      "url": "https://www.google.com/maps/search/Toledo%20Room%20Escape+near+41.7232321%2C-83.5737204",
+      "isFar": true
+    }
+  ],
+  "hotels": [
+    {
+      "name": "Shamrock",
+      "distance": "0.1 mi",
+      "url": "https://www.google.com/maps/search/Shamrock+near+41.7232321%2C-83.5737204"
+    },
+    {
+      "name": "Inverness Mobile Home Community",
+      "distance": "0.7 mi",
+      "url": "https://www.google.com/maps/search/Inverness%20Mobile%20Home%20Community+near+41.7232321%2C-83.5737204"
+    },
+    {
+      "name": "Coleman Village M.H.P.",
+      "distance": "0.7 mi",
+      "url": "https://www.google.com/maps/search/Coleman%20Village%20M.H.P.+near+41.7232321%2C-83.5737204"
+    },
+    {
+      "name": "Crown Inn Motel",
+      "distance": "0.7 mi",
+      "url": "https://www.google.com/maps/search/Crown%20Inn%20Motel+near+41.7232321%2C-83.5737204"
+    },
+    {
+      "name": "parklane mobile plaza",
+      "distance": "0.7 mi",
+      "url": "https://www.google.com/maps/search/parklane%20mobile%20plaza+near+41.7232321%2C-83.5737204"
+    },
+    {
+      "name": "Newly remodeled home on big lot with sunroom, game room and grilling area!",
+      "distance": "1.1 mi",
+      "url": "https://www.google.com/maps/search/Newly%20remodeled%20home%20on%20big%20lot%20with%20sunroom%2C%20game%20room%20and%20grilling%20area!+near+41.7232321%2C-83.5737204"
+    },
+    {
+      "name": "Newly remodeled home on big lot with sunroom, game room and grilling area!",
+      "distance": "1.1 mi",
+      "url": "https://www.google.com/maps/search/Newly%20remodeled%20home%20on%20big%20lot%20with%20sunroom%2C%20game%20room%20and%20grilling%20area!+near+41.7232321%2C-83.5737204"
+    }
+  ],
+  "gas": [
+    {
+      "name": "Circle K | Gas Station",
+      "distance": "0.3 mi",
+      "url": "https://www.google.com/maps/search/Circle%20K%20%7C%20Gas%20Station+near+41.7232321%2C-83.5737204"
+    },
+    {
+      "name": "Mobil",
+      "distance": "0.4 mi",
+      "url": "https://www.google.com/maps/search/Mobil+near+41.7232321%2C-83.5737204"
+    },
+    {
+      "name": "ARCO",
+      "distance": "0.4 mi",
+      "url": "https://www.google.com/maps/search/ARCO+near+41.7232321%2C-83.5737204"
+    },
+    {
+      "name": "S&g",
+      "distance": "0.6 mi",
+      "url": "https://www.google.com/maps/search/S%26g+near+41.7232321%2C-83.5737204"
+    },
+    {
+      "name": "Circle K | Gas Station",
+      "distance": "0.8 mi",
+      "url": "https://www.google.com/maps/search/Circle%20K%20%7C%20Gas%20Station+near+41.7232321%2C-83.5737204"
+    }
+  ]
+}

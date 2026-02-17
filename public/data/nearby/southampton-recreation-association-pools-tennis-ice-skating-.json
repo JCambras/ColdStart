@@ -1,0 +1,172 @@
+{
+  "quick_bite": [
+    {
+      "name": "Little Caesars Pizza",
+      "distance": "0.4 mi",
+      "url": "https://www.google.com/maps/search/Little%20Caesars%20Pizza+near+37.5435999%2C-77.53012389999999"
+    },
+    {
+      "name": "Chick-fil-A",
+      "distance": "0.5 mi",
+      "url": "https://www.google.com/maps/search/Chick-fil-A+near+37.5435999%2C-77.53012389999999"
+    },
+    {
+      "name": "Burger King",
+      "distance": "0.5 mi",
+      "url": "https://www.google.com/maps/search/Burger%20King+near+37.5435999%2C-77.53012389999999"
+    },
+    {
+      "name": "Five Guys",
+      "distance": "0.5 mi",
+      "url": "https://www.google.com/maps/search/Five%20Guys+near+37.5435999%2C-77.53012389999999"
+    },
+    {
+      "name": "Firehouse Subs",
+      "distance": "0.5 mi",
+      "url": "https://www.google.com/maps/search/Firehouse%20Subs+near+37.5435999%2C-77.53012389999999"
+    },
+    {
+      "name": "Marco's Pizza",
+      "distance": "0.6 mi",
+      "url": "https://www.google.com/maps/search/Marco's%20Pizza+near+37.5435999%2C-77.53012389999999"
+    }
+  ],
+  "coffee": [
+    {
+      "name": "Starbucks Coffee Company",
+      "distance": "0.5 mi",
+      "url": "https://www.google.com/maps/search/Starbucks%20Coffee%20Company+near+37.5435999%2C-77.53012389999999"
+    }
+  ],
+  "team_lunch": [
+    {
+      "name": "WNB Factory - Wings & Burger",
+      "distance": "0.6 mi",
+      "url": "https://www.google.com/maps/search/WNB%20Factory%20-%20Wings%20%26%20Burger+near+37.5435999%2C-77.53012389999999"
+    },
+    {
+      "name": "America's Best Wings",
+      "distance": "0.6 mi",
+      "url": "https://www.google.com/maps/search/America's%20Best%20Wings+near+37.5435999%2C-77.53012389999999"
+    }
+  ],
+  "dinner": [
+    {
+      "name": "Boka Grill",
+      "distance": "0.5 mi",
+      "url": "https://www.google.com/maps/search/Boka%20Grill+near+37.5435999%2C-77.53012389999999"
+    },
+    {
+      "name": "Mexico Restaurant",
+      "distance": "0.5 mi",
+      "url": "https://www.google.com/maps/search/Mexico%20Restaurant+near+37.5435999%2C-77.53012389999999"
+    },
+    {
+      "name": "Zorch Pizza Parlor",
+      "distance": "0.5 mi",
+      "url": "https://www.google.com/maps/search/Zorch%20Pizza%20Parlor+near+37.5435999%2C-77.53012389999999"
+    },
+    {
+      "name": "Hibachi Express",
+      "distance": "0.6 mi",
+      "url": "https://www.google.com/maps/search/Hibachi%20Express+near+37.5435999%2C-77.53012389999999"
+    },
+    {
+      "name": "Jason's Deli",
+      "distance": "0.6 mi",
+      "url": "https://www.google.com/maps/search/Jason's%20Deli+near+37.5435999%2C-77.53012389999999"
+    },
+    {
+      "name": "Mission Tacos",
+      "distance": "0.6 mi",
+      "url": "https://www.google.com/maps/search/Mission%20Tacos+near+37.5435999%2C-77.53012389999999"
+    }
+  ],
+  "bowling": [
+    {
+      "name": "River City Roll",
+      "distance": "3.7 mi",
+      "url": "https://www.google.com/maps/search/River%20City%20Roll+near+37.5435999%2C-77.53012389999999",
+      "isFar": true
+    },
+    {
+      "name": "Bowlero Richmond",
+      "distance": "3.9 mi",
+      "url": "https://www.google.com/maps/search/Bowlero%20Richmond+near+37.5435999%2C-77.53012389999999",
+      "isFar": true
+    }
+  ],
+  "arcade": [],
+  "movies": [
+    {
+      "name": "CMX CinéBistro Stony Point",
+      "distance": "2.4 mi",
+      "url": "https://www.google.com/maps/search/CMX%20Cin%C3%A9Bistro%20Stony%20Point+near+37.5435999%2C-77.53012389999999"
+    },
+    {
+      "name": "The Byrd Theatre",
+      "distance": "2.9 mi",
+      "url": "https://www.google.com/maps/search/The%20Byrd%20Theatre+near+37.5435999%2C-77.53012389999999"
+    },
+    {
+      "name": "Movieland At Boulevard Square",
+      "distance": "3.8 mi",
+      "url": "https://www.google.com/maps/search/Movieland%20At%20Boulevard%20Square+near+37.5435999%2C-77.53012389999999",
+      "isFar": true
+    }
+  ],
+  "fun": [
+    {
+      "name": "Gnome & Raven",
+      "distance": "2.4 mi",
+      "url": "https://www.google.com/maps/search/Gnome%20%26%20Raven+near+37.5435999%2C-77.53012389999999"
+    },
+    {
+      "name": "Ravenchase Adventures",
+      "distance": "3.3 mi",
+      "url": "https://www.google.com/maps/search/Ravenchase%20Adventures+near+37.5435999%2C-77.53012389999999",
+      "isFar": true
+    },
+    {
+      "name": "Escape Room RVA",
+      "distance": "3.3 mi",
+      "url": "https://www.google.com/maps/search/Escape%20Room%20RVA+near+37.5435999%2C-77.53012389999999",
+      "isFar": true
+    },
+    {
+      "name": "Breakout Games",
+      "distance": "3.8 mi",
+      "url": "https://www.google.com/maps/search/Breakout%20Games+near+37.5435999%2C-77.53012389999999",
+      "isFar": true
+    }
+  ],
+  "hotels": [
+    {
+      "name": "Commonwealth Lodge 81",
+      "distance": "0.5 mi",
+      "url": "https://www.google.com/maps/search/Commonwealth%20Lodge%2081+near+37.5435999%2C-77.53012389999999"
+    }
+  ],
+  "gas": [
+    {
+      "name": "bp",
+      "distance": "0.5 mi",
+      "url": "https://www.google.com/maps/search/bp+near+37.5435999%2C-77.53012389999999"
+    },
+    {
+      "name": "7-Eleven Fuel",
+      "distance": "0.6 mi",
+      "url": "https://www.google.com/maps/search/7-Eleven%20Fuel+near+37.5435999%2C-77.53012389999999"
+    },
+    {
+      "name": "Sheetz",
+      "distance": "0.7 mi",
+      "url": "https://www.google.com/maps/search/Sheetz+near+37.5435999%2C-77.53012389999999"
+    },
+    {
+      "name": "Shell",
+      "distance": "1.7 mi",
+      "url": "https://www.google.com/maps/search/Shell+near+37.5435999%2C-77.53012389999999"
+    }
+  ]
+}

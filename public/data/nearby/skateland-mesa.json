@@ -1,0 +1,243 @@
+{
+  "quick_bite": [
+    {
+      "name": "Little Caesars Pizza",
+      "distance": "0.4 mi",
+      "url": "https://www.google.com/maps/search/Little%20Caesars%20Pizza+near+33.392564%2C-111.830821"
+    },
+    {
+      "name": "Subway",
+      "distance": "0.5 mi",
+      "url": "https://www.google.com/maps/search/Subway+near+33.392564%2C-111.830821"
+    },
+    {
+      "name": "Church's Texas Chicken",
+      "distance": "0.5 mi",
+      "url": "https://www.google.com/maps/search/Church's%20Texas%20Chicken+near+33.392564%2C-111.830821"
+    },
+    {
+      "name": "Jack in the Box",
+      "distance": "0.5 mi",
+      "url": "https://www.google.com/maps/search/Jack%20in%20the%20Box+near+33.392564%2C-111.830821"
+    },
+    {
+      "name": "Cinemark Mesa 16",
+      "distance": "3.5 mi",
+      "url": "https://www.google.com/maps/search/Cinemark%20Mesa%2016+near+33.392564%2C-111.830821",
+      "isFar": true
+    }
+  ],
+  "coffee": [
+    {
+      "name": "Dunkin'",
+      "distance": "0.4 mi",
+      "url": "https://www.google.com/maps/search/Dunkin'+near+33.392564%2C-111.830821"
+    },
+    {
+      "name": "Starbucks",
+      "distance": "0.4 mi",
+      "url": "https://www.google.com/maps/search/Starbucks+near+33.392564%2C-111.830821"
+    },
+    {
+      "name": "Starbucks Coffee Company",
+      "distance": "0.6 mi",
+      "url": "https://www.google.com/maps/search/Starbucks%20Coffee%20Company+near+33.392564%2C-111.830821"
+    },
+    {
+      "name": "McDonald's",
+      "distance": "0.6 mi",
+      "url": "https://www.google.com/maps/search/McDonald's+near+33.392564%2C-111.830821"
+    }
+  ],
+  "team_lunch": [
+    {
+      "name": "Salvadoreño Restaurant - Mesa Dr - Pupusas",
+      "distance": "0.3 mi",
+      "url": "https://www.google.com/maps/search/Salvadore%C3%B1o%20Restaurant%20-%20Mesa%20Dr%20-%20Pupusas+near+33.392564%2C-111.830821"
+    },
+    {
+      "name": "Grill",
+      "distance": "0.4 mi",
+      "url": "https://www.google.com/maps/search/Grill+near+33.392564%2C-111.830821"
+    },
+    {
+      "name": "Mesa Organic Baking Co.",
+      "distance": "0.4 mi",
+      "url": "https://www.google.com/maps/search/Mesa%20Organic%20Baking%20Co.+near+33.392564%2C-111.830821"
+    },
+    {
+      "name": "Shawarma House",
+      "distance": "0.5 mi",
+      "url": "https://www.google.com/maps/search/Shawarma%20House+near+33.392564%2C-111.830821"
+    },
+    {
+      "name": "nardocreations",
+      "distance": "0.5 mi",
+      "url": "https://www.google.com/maps/search/nardocreations+near+33.392564%2C-111.830821"
+    },
+    {
+      "name": "The Burger Den",
+      "distance": "0.6 mi",
+      "url": "https://www.google.com/maps/search/The%20Burger%20Den+near+33.392564%2C-111.830821"
+    },
+    {
+      "name": "Denny's",
+      "distance": "0.6 mi",
+      "url": "https://www.google.com/maps/search/Denny's+near+33.392564%2C-111.830821"
+    }
+  ],
+  "dinner": [
+    {
+      "name": "Antojitos Yami",
+      "distance": "0.3 mi",
+      "url": "https://www.google.com/maps/search/Antojitos%20Yami+near+33.392564%2C-111.830821"
+    },
+    {
+      "name": "Alpine/Dave's Killer Bread Outlet Store",
+      "distance": "0.4 mi",
+      "url": "https://www.google.com/maps/search/Alpine%2FDave's%20Killer%20Bread%20Outlet%20Store+near+33.392564%2C-111.830821"
+    },
+    {
+      "name": "Carnitas y Chicharrones PaPa Cruz",
+      "distance": "0.5 mi",
+      "url": "https://www.google.com/maps/search/Carnitas%20y%20Chicharrones%20PaPa%20Cruz+near+33.392564%2C-111.830821"
+    },
+    {
+      "name": "El Bigo Taco",
+      "distance": "0.6 mi",
+      "url": "https://www.google.com/maps/search/El%20Bigo%20Taco+near+33.392564%2C-111.830821"
+    },
+    {
+      "name": "Glady's Restaurante Salvadoreño",
+      "distance": "0.6 mi",
+      "url": "https://www.google.com/maps/search/Glady's%20Restaurante%20Salvadore%C3%B1o+near+33.392564%2C-111.830821"
+    }
+  ],
+  "bowling": [
+    {
+      "name": "Bowlero Mesa",
+      "distance": "2.2 mi",
+      "url": "https://www.google.com/maps/search/Bowlero%20Mesa+near+33.392564%2C-111.830821"
+    },
+    {
+      "name": "AMF Mesa Lanes",
+      "distance": "2.6 mi",
+      "url": "https://www.google.com/maps/search/AMF%20Mesa%20Lanes+near+33.392564%2C-111.830821"
+    },
+    {
+      "name": "AMF Chandler Lanes",
+      "distance": "4.1 mi",
+      "url": "https://www.google.com/maps/search/AMF%20Chandler%20Lanes+near+33.392564%2C-111.830821",
+      "isFar": true
+    }
+  ],
+  "arcade": [],
+  "movies": [
+    {
+      "name": "AMC Mesa Grand 14",
+      "distance": "1.8 mi",
+      "url": "https://www.google.com/maps/search/AMC%20Mesa%20Grand%2014+near+33.392564%2C-111.830821"
+    }
+  ],
+  "fun": [
+    {
+      "name": "Golfland Sunsplash",
+      "distance": "0.5 mi",
+      "url": "https://www.google.com/maps/search/Golfland%20Sunsplash+near+33.392564%2C-111.830821"
+    },
+    {
+      "name": "Brown's Amusements",
+      "distance": "1.1 mi",
+      "url": "https://www.google.com/maps/search/Brown's%20Amusements+near+33.392564%2C-111.830821"
+    },
+    {
+      "name": "Splash Pad",
+      "distance": "1.6 mi",
+      "url": "https://www.google.com/maps/search/Splash%20Pad+near+33.392564%2C-111.830821"
+    },
+    {
+      "name": "Splash Pad",
+      "distance": "1.8 mi",
+      "url": "https://www.google.com/maps/search/Splash%20Pad+near+33.392564%2C-111.830821"
+    },
+    {
+      "name": "United Escapes of America - Mesa",
+      "distance": "2.1 mi",
+      "url": "https://www.google.com/maps/search/United%20Escapes%20of%20America%20-%20Mesa+near+33.392564%2C-111.830821"
+    },
+    {
+      "name": "Splash Pad",
+      "distance": "2.4 mi",
+      "url": "https://www.google.com/maps/search/Splash%20Pad+near+33.392564%2C-111.830821"
+    },
+    {
+      "name": "Cluemaster Escape Rooms",
+      "distance": "2.7 mi",
+      "url": "https://www.google.com/maps/search/Cluemaster%20Escape%20Rooms+near+33.392564%2C-111.830821"
+    }
+  ],
+  "hotels": [
+    {
+      "name": "Southern Palms Mobile Home & RV Park",
+      "distance": "0.1 mi",
+      "url": "https://www.google.com/maps/search/Southern%20Palms%20Mobile%20Home%20%26%20RV%20Park+near+33.392564%2C-111.830821"
+    },
+    {
+      "name": "NEW Family Oasis Getaway! 2 Pools, Spas & Gym!",
+      "distance": "0.2 mi",
+      "url": "https://www.google.com/maps/search/NEW%20Family%20Oasis%20Getaway!%202%20Pools%2C%20Spas%20%26%20Gym!+near+33.392564%2C-111.830821"
+    },
+    {
+      "name": "2 Miles Away from Downtown Mesa",
+      "distance": "0.2 mi",
+      "url": "https://www.google.com/maps/search/2%20Miles%20Away%20from%20Downtown%20Mesa+near+33.392564%2C-111.830821"
+    },
+    {
+      "name": "Country Cousins Mobile Home & RV Park",
+      "distance": "0.2 mi",
+      "url": "https://www.google.com/maps/search/Country%20Cousins%20Mobile%20Home%20%26%20RV%20Park+near+33.392564%2C-111.830821"
+    },
+    {
+      "name": "Country Club 1128, heated pool, 1000 feet from Golfland Sunsplash Amusement Park",
+      "distance": "0.2 mi",
+      "url": "https://www.google.com/maps/search/Country%20Club%201128%2C%20heated%20pool%2C%201000%20feet%20from%20Golfland%20Sunsplash%20Amusement%20Park+near+33.392564%2C-111.830821"
+    },
+    {
+      "name": "Endless Horizons - Three-Bedroom House",
+      "distance": "0.2 mi",
+      "url": "https://www.google.com/maps/search/Endless%20Horizons%20-%20Three-Bedroom%20House+near+33.392564%2C-111.830821"
+    },
+    {
+      "name": "Country Club 1101 heated pool and hot tubs, 1000 feet from Golf Land Sun Splash",
+      "distance": "0.2 mi",
+      "url": "https://www.google.com/maps/search/Country%20Club%201101%20heated%20pool%20and%20hot%20tubs%2C%201000%20feet%20from%20Golf%20Land%20Sun%20Splash+near+33.392564%2C-111.830821"
+    }
+  ],
+  "gas": [
+    {
+      "name": "ARCO",
+      "distance": "0.4 mi",
+      "url": "https://www.google.com/maps/search/ARCO+near+33.392564%2C-111.830821"
+    },
+    {
+      "name": "QuikTrip",
+      "distance": "0.5 mi",
+      "url": "https://www.google.com/maps/search/QuikTrip+near+33.392564%2C-111.830821"
+    },
+    {
+      "name": "Mobil",
+      "distance": "0.7 mi",
+      "url": "https://www.google.com/maps/search/Mobil+near+33.392564%2C-111.830821"
+    },
+    {
+      "name": "Shell",
+      "distance": "0.7 mi",
+      "url": "https://www.google.com/maps/search/Shell+near+33.392564%2C-111.830821"
+    },
+    {
+      "name": "Mesa Service Shop",
+      "distance": "0.7 mi",
+      "url": "https://www.google.com/maps/search/Mesa%20Service%20Shop+near+33.392564%2C-111.830821"
+    }
+  ]
+}

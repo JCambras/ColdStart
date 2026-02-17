@@ -1,0 +1,250 @@
+{
+  "quick_bite": [
+    {
+      "name": "Taco Bell",
+      "distance": "0.5 mi",
+      "url": "https://www.google.com/maps/search/Taco%20Bell+near+41.0728541%2C-111.98825649999999"
+    },
+    {
+      "name": "Burger King",
+      "distance": "0.5 mi",
+      "url": "https://www.google.com/maps/search/Burger%20King+near+41.0728541%2C-111.98825649999999"
+    },
+    {
+      "name": "KFC",
+      "distance": "0.6 mi",
+      "url": "https://www.google.com/maps/search/KFC+near+41.0728541%2C-111.98825649999999"
+    },
+    {
+      "name": "Cinemark Layton and XD",
+      "distance": "0.7 mi",
+      "url": "https://www.google.com/maps/search/Cinemark%20Layton%20and%20XD+near+41.0728541%2C-111.98825649999999"
+    }
+  ],
+  "coffee": [
+    {
+      "name": "Sam's Club Cafe",
+      "distance": "0.2 mi",
+      "url": "https://www.google.com/maps/search/Sam's%20Club%20Cafe+near+41.0728541%2C-111.98825649999999"
+    },
+    {
+      "name": "Einstein Bros. Bagels",
+      "distance": "0.4 mi",
+      "url": "https://www.google.com/maps/search/Einstein%20Bros.%20Bagels+near+41.0728541%2C-111.98825649999999"
+    },
+    {
+      "name": "Krispy Kreme Doughnuts",
+      "distance": "0.5 mi",
+      "url": "https://www.google.com/maps/search/Krispy%20Kreme%20Doughnuts+near+41.0728541%2C-111.98825649999999"
+    }
+  ],
+  "team_lunch": [
+    {
+      "name": "The Crazy Taco Catering",
+      "distance": "0.1 mi",
+      "url": "https://www.google.com/maps/search/The%20Crazy%20Taco%20Catering+near+41.0728541%2C-111.98825649999999"
+    },
+    {
+      "name": "Sam's Club Bakery",
+      "distance": "0.2 mi",
+      "url": "https://www.google.com/maps/search/Sam's%20Club%20Bakery+near+41.0728541%2C-111.98825649999999"
+    },
+    {
+      "name": "Asian Buffet",
+      "distance": "0.4 mi",
+      "url": "https://www.google.com/maps/search/Asian%20Buffet+near+41.0728541%2C-111.98825649999999"
+    },
+    {
+      "name": "Walmart Bakery",
+      "distance": "0.5 mi",
+      "url": "https://www.google.com/maps/search/Walmart%20Bakery+near+41.0728541%2C-111.98825649999999"
+    },
+    {
+      "name": "Cold Stone Creamery",
+      "distance": "0.5 mi",
+      "url": "https://www.google.com/maps/search/Cold%20Stone%20Creamery+near+41.0728541%2C-111.98825649999999"
+    },
+    {
+      "name": "Ramen 930",
+      "distance": "0.5 mi",
+      "url": "https://www.google.com/maps/search/Ramen%20930+near+41.0728541%2C-111.98825649999999"
+    },
+    {
+      "name": "IHOP",
+      "distance": "0.5 mi",
+      "url": "https://www.google.com/maps/search/IHOP+near+41.0728541%2C-111.98825649999999"
+    }
+  ],
+  "dinner": [
+    {
+      "name": "Jarochos Restaurant",
+      "distance": "0.4 mi",
+      "url": "https://www.google.com/maps/search/Jarochos%20Restaurant+near+41.0728541%2C-111.98825649999999"
+    },
+    {
+      "name": "Louie's Pizzeria",
+      "distance": "0.4 mi",
+      "url": "https://www.google.com/maps/search/Louie's%20Pizzeria+near+41.0728541%2C-111.98825649999999"
+    },
+    {
+      "name": "Wu’s Crab",
+      "distance": "0.4 mi",
+      "url": "https://www.google.com/maps/search/Wu%E2%80%99s%20Crab+near+41.0728541%2C-111.98825649999999"
+    },
+    {
+      "name": "Ombu Grill",
+      "distance": "0.4 mi",
+      "url": "https://www.google.com/maps/search/Ombu%20Grill+near+41.0728541%2C-111.98825649999999"
+    },
+    {
+      "name": "Cupbop - Korean BBQ in a Cup",
+      "distance": "0.5 mi",
+      "url": "https://www.google.com/maps/search/Cupbop%20-%20Korean%20BBQ%20in%20a%20Cup+near+41.0728541%2C-111.98825649999999"
+    }
+  ],
+  "bowling": [
+    {
+      "name": "Davis Lanes",
+      "distance": "0.5 mi",
+      "url": "https://www.google.com/maps/search/Davis%20Lanes+near+41.0728541%2C-111.98825649999999"
+    },
+    {
+      "name": "Hill Bowling Center",
+      "distance": "2.5 mi",
+      "url": "https://www.google.com/maps/search/Hill%20Bowling%20Center+near+41.0728541%2C-111.98825649999999"
+    },
+    {
+      "name": "Boondocks Food and Fun - Kaysville",
+      "distance": "3.7 mi",
+      "url": "https://www.google.com/maps/search/Boondocks%20Food%20and%20Fun%20-%20Kaysville+near+41.0728541%2C-111.98825649999999",
+      "isFar": true
+    },
+    {
+      "name": "The Rush Funplex",
+      "distance": "4.2 mi",
+      "url": "https://www.google.com/maps/search/The%20Rush%20Funplex+near+41.0728541%2C-111.98825649999999",
+      "isFar": true
+    }
+  ],
+  "arcade": [],
+  "movies": [
+    {
+      "name": "AMC Layton Hills 9",
+      "distance": "0.8 mi",
+      "url": "https://www.google.com/maps/search/AMC%20Layton%20Hills%209+near+41.0728541%2C-111.98825649999999"
+    },
+    {
+      "name": "Kaysville Theatre",
+      "distance": "3.6 mi",
+      "url": "https://www.google.com/maps/search/Kaysville%20Theatre+near+41.0728541%2C-111.98825649999999",
+      "isFar": true
+    },
+    {
+      "name": "UEC Syracuse Stadium 6",
+      "distance": "4.6 mi",
+      "url": "https://www.google.com/maps/search/UEC%20Syracuse%20Stadium%206+near+41.0728541%2C-111.98825649999999",
+      "isFar": true
+    }
+  ],
+  "fun": [
+    {
+      "name": "Classic Fun Center",
+      "distance": "0.1 mi",
+      "url": "https://www.google.com/maps/search/Classic%20Fun%20Center+near+41.0728541%2C-111.98825649999999"
+    },
+    {
+      "name": "Great Room Escape",
+      "distance": "0.7 mi",
+      "url": "https://www.google.com/maps/search/Great%20Room%20Escape+near+41.0728541%2C-111.98825649999999"
+    },
+    {
+      "name": "Axe N Smash",
+      "distance": "1.4 mi",
+      "url": "https://www.google.com/maps/search/Axe%20N%20Smash+near+41.0728541%2C-111.98825649999999"
+    },
+    {
+      "name": "Living Spaces Kids Spaces",
+      "distance": "2.1 mi",
+      "url": "https://www.google.com/maps/search/Living%20Spaces%20Kids%20Spaces+near+41.0728541%2C-111.98825649999999"
+    },
+    {
+      "name": "Centennial Park Splash Pad (On Base)",
+      "distance": "2.4 mi",
+      "url": "https://www.google.com/maps/search/Centennial%20Park%20Splash%20Pad%20(On%20Base)+near+41.0728541%2C-111.98825649999999"
+    },
+    {
+      "name": "Escape Boredom Escape Rooms",
+      "distance": "2.4 mi",
+      "url": "https://www.google.com/maps/search/Escape%20Boredom%20Escape%20Rooms+near+41.0728541%2C-111.98825649999999"
+    },
+    {
+      "name": "Get Air Trampoline Park",
+      "distance": "2.4 mi",
+      "url": "https://www.google.com/maps/search/Get%20Air%20Trampoline%20Park+near+41.0728541%2C-111.98825649999999"
+    }
+  ],
+  "hotels": [
+    {
+      "name": "Mountain View, All Age Community",
+      "distance": "0.7 mi",
+      "url": "https://www.google.com/maps/search/Mountain%20View%2C%20All%20Age%20Community+near+41.0728541%2C-111.98825649999999"
+    },
+    {
+      "name": "Best Western Plus Layton Park Hotel",
+      "distance": "0.7 mi",
+      "url": "https://www.google.com/maps/search/Best%20Western%20Plus%20Layton%20Park%20Hotel+near+41.0728541%2C-111.98825649999999"
+    },
+    {
+      "name": "Comfort Inn Layton - Salt Lake City - Queen Room with Two Queen Beds - Non-Smoking",
+      "distance": "0.7 mi",
+      "url": "https://www.google.com/maps/search/Comfort%20Inn%20Layton%20-%20Salt%20Lake%20City%20-%20Queen%20Room%20with%20Two%20Queen%20Beds%20-%20Non-Smoking+near+41.0728541%2C-111.98825649999999"
+    },
+    {
+      "name": "Comfort Inn Layton - Salt Lake City",
+      "distance": "0.7 mi",
+      "url": "https://www.google.com/maps/search/Comfort%20Inn%20Layton%20-%20Salt%20Lake%20City+near+41.0728541%2C-111.98825649999999"
+    },
+    {
+      "name": "Home2 Suites by Hilton Salt Lake City/Layton, UT",
+      "distance": "0.8 mi",
+      "url": "https://www.google.com/maps/search/Home2%20Suites%20by%20Hilton%20Salt%20Lake%20City%2FLayton%2C%20UT+near+41.0728541%2C-111.98825649999999"
+    },
+    {
+      "name": "Candlewood Suites Layton - Salt Lake City by IHG",
+      "distance": "0.8 mi",
+      "url": "https://www.google.com/maps/search/Candlewood%20Suites%20Layton%20-%20Salt%20Lake%20City%20by%20IHG+near+41.0728541%2C-111.98825649999999"
+    },
+    {
+      "name": "Hilton Garden Inn Salt Lake City/Layton",
+      "distance": "0.8 mi",
+      "url": "https://www.google.com/maps/search/Hilton%20Garden%20Inn%20Salt%20Lake%20City%2FLayton+near+41.0728541%2C-111.98825649999999"
+    }
+  ],
+  "gas": [
+    {
+      "name": "Sam's Club Gas Station",
+      "distance": "0.3 mi",
+      "url": "https://www.google.com/maps/search/Sam's%20Club%20Gas%20Station+near+41.0728541%2C-111.98825649999999"
+    },
+    {
+      "name": "Phillips 66",
+      "distance": "0.4 mi",
+      "url": "https://www.google.com/maps/search/Phillips%2066+near+41.0728541%2C-111.98825649999999"
+    },
+    {
+      "name": "Walmart Fuel & Convenience",
+      "distance": "0.4 mi",
+      "url": "https://www.google.com/maps/search/Walmart%20Fuel%20%26%20Convenience+near+41.0728541%2C-111.98825649999999"
+    },
+    {
+      "name": "Phillips 66",
+      "distance": "0.5 mi",
+      "url": "https://www.google.com/maps/search/Phillips%2066+near+41.0728541%2C-111.98825649999999"
+    },
+    {
+      "name": "Chevron",
+      "distance": "0.9 mi",
+      "url": "https://www.google.com/maps/search/Chevron+near+41.0728541%2C-111.98825649999999"
+    }
+  ]
+}

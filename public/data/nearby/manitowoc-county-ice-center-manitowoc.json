@@ -1,0 +1,203 @@
+{
+  "quick_bite": [
+    {
+      "name": "Subway",
+      "distance": "0.3 mi",
+      "url": "https://www.google.com/maps/search/Subway+near+44.0778509%2C-87.7150027"
+    },
+    {
+      "name": "QDOBA Mexican Eats",
+      "distance": "0.5 mi",
+      "url": "https://www.google.com/maps/search/QDOBA%20Mexican%20Eats+near+44.0778509%2C-87.7150027"
+    },
+    {
+      "name": "Noodles and Company",
+      "distance": "0.5 mi",
+      "url": "https://www.google.com/maps/search/Noodles%20and%20Company+near+44.0778509%2C-87.7150027"
+    },
+    {
+      "name": "Panda Express",
+      "distance": "0.5 mi",
+      "url": "https://www.google.com/maps/search/Panda%20Express+near+44.0778509%2C-87.7150027"
+    },
+    {
+      "name": "Wendy's",
+      "distance": "0.6 mi",
+      "url": "https://www.google.com/maps/search/Wendy's+near+44.0778509%2C-87.7150027"
+    },
+    {
+      "name": "Jimmy John's",
+      "distance": "0.6 mi",
+      "url": "https://www.google.com/maps/search/Jimmy%20John's+near+44.0778509%2C-87.7150027"
+    },
+    {
+      "name": "Arby's",
+      "distance": "0.7 mi",
+      "url": "https://www.google.com/maps/search/Arby's+near+44.0778509%2C-87.7150027"
+    }
+  ],
+  "coffee": [
+    {
+      "name": "Coffee Lab",
+      "distance": "0.4 mi",
+      "url": "https://www.google.com/maps/search/Coffee%20Lab+near+44.0778509%2C-87.7150027"
+    },
+    {
+      "name": "McDonald's",
+      "distance": "0.4 mi",
+      "url": "https://www.google.com/maps/search/McDonald's+near+44.0778509%2C-87.7150027"
+    },
+    {
+      "name": "Panera Bread",
+      "distance": "0.4 mi",
+      "url": "https://www.google.com/maps/search/Panera%20Bread+near+44.0778509%2C-87.7150027"
+    },
+    {
+      "name": "Starbucks Coffee Company",
+      "distance": "0.6 mi",
+      "url": "https://www.google.com/maps/search/Starbucks%20Coffee%20Company+near+44.0778509%2C-87.7150027"
+    }
+  ],
+  "team_lunch": [
+    {
+      "name": "Meijer Bakery",
+      "distance": "0.3 mi",
+      "url": "https://www.google.com/maps/search/Meijer%20Bakery+near+44.0778509%2C-87.7150027"
+    },
+    {
+      "name": "IHOP",
+      "distance": "0.6 mi",
+      "url": "https://www.google.com/maps/search/IHOP+near+44.0778509%2C-87.7150027"
+    },
+    {
+      "name": "Applebee's Grill + Bar | IHOP",
+      "distance": "0.6 mi",
+      "url": "https://www.google.com/maps/search/Applebee's%20Grill%20%2B%20Bar%20%7C%20IHOP+near+44.0778509%2C-87.7150027"
+    }
+  ],
+  "dinner": [
+    {
+      "name": "Rawlz Dawgz",
+      "distance": "0.4 mi",
+      "url": "https://www.google.com/maps/search/Rawlz%20Dawgz+near+44.0778509%2C-87.7150027"
+    },
+    {
+      "name": "Cousins Subs",
+      "distance": "0.5 mi",
+      "url": "https://www.google.com/maps/search/Cousins%20Subs+near+44.0778509%2C-87.7150027"
+    },
+    {
+      "name": "Fork & Knife Restaurant",
+      "distance": "0.6 mi",
+      "url": "https://www.google.com/maps/search/Fork%20%26%20Knife%20Restaurant+near+44.0778509%2C-87.7150027"
+    },
+    {
+      "name": "El Tequila Mexican Restaurant",
+      "distance": "0.7 mi",
+      "url": "https://www.google.com/maps/search/El%20Tequila%20Mexican%20Restaurant+near+44.0778509%2C-87.7150027"
+    },
+    {
+      "name": "Tokyo Sushi$Hibachi",
+      "distance": "0.7 mi",
+      "url": "https://www.google.com/maps/search/Tokyo%20Sushi%24Hibachi+near+44.0778509%2C-87.7150027"
+    }
+  ],
+  "bowling": [
+    {
+      "name": "Meadow Lanes West LLC",
+      "distance": "1.6 mi",
+      "url": "https://www.google.com/maps/search/Meadow%20Lanes%20West%20LLC+near+44.0778509%2C-87.7150027"
+    },
+    {
+      "name": "Meadow Lanes North",
+      "distance": "4.6 mi",
+      "url": "https://www.google.com/maps/search/Meadow%20Lanes%20North+near+44.0778509%2C-87.7150027",
+      "isFar": true
+    },
+    {
+      "name": "Bruce's Bar & Bowl",
+      "distance": "8.4 mi",
+      "url": "https://www.google.com/maps/search/Bruce's%20Bar%20%26%20Bowl+near+44.0778509%2C-87.7150027",
+      "isFar": true
+    },
+    {
+      "name": "The Hook Lanes and Games",
+      "distance": "8.9 mi",
+      "url": "https://www.google.com/maps/search/The%20Hook%20Lanes%20and%20Games+near+44.0778509%2C-87.7150027",
+      "isFar": true
+    }
+  ],
+  "arcade": [],
+  "movies": [
+    {
+      "name": "AMC CLASSIC Manitowoc 10",
+      "distance": "0.8 mi",
+      "url": "https://www.google.com/maps/search/AMC%20CLASSIC%20Manitowoc%2010+near+44.0778509%2C-87.7150027"
+    }
+  ],
+  "fun": [],
+  "hotels": [
+    {
+      "name": "Midway Campground",
+      "distance": "0.1 mi",
+      "url": "https://www.google.com/maps/search/Midway%20Campground+near+44.0778509%2C-87.7150027"
+    },
+    {
+      "name": "Vista Road Campground",
+      "distance": "0.1 mi",
+      "url": "https://www.google.com/maps/search/Vista%20Road%20Campground+near+44.0778509%2C-87.7150027"
+    },
+    {
+      "name": "North Campground",
+      "distance": "0.2 mi",
+      "url": "https://www.google.com/maps/search/North%20Campground+near+44.0778509%2C-87.7150027"
+    },
+    {
+      "name": "Home Away from Home",
+      "distance": "0.3 mi",
+      "url": "https://www.google.com/maps/search/Home%20Away%20from%20Home+near+44.0778509%2C-87.7150027"
+    },
+    {
+      "name": "Home Away from Home",
+      "distance": "0.3 mi",
+      "url": "https://www.google.com/maps/search/Home%20Away%20from%20Home+near+44.0778509%2C-87.7150027"
+    },
+    {
+      "name": "AmericInn by Wyndham Manitowoc",
+      "distance": "0.4 mi",
+      "url": "https://www.google.com/maps/search/AmericInn%20by%20Wyndham%20Manitowoc+near+44.0778509%2C-87.7150027"
+    },
+    {
+      "name": "Holiday Inn Manitowoc by IHG",
+      "distance": "0.5 mi",
+      "url": "https://www.google.com/maps/search/Holiday%20Inn%20Manitowoc%20by%20IHG+near+44.0778509%2C-87.7150027"
+    }
+  ],
+  "gas": [
+    {
+      "name": "bp",
+      "distance": "0.4 mi",
+      "url": "https://www.google.com/maps/search/bp+near+44.0778509%2C-87.7150027"
+    },
+    {
+      "name": "Shell",
+      "distance": "0.4 mi",
+      "url": "https://www.google.com/maps/search/Shell+near+44.0778509%2C-87.7150027"
+    },
+    {
+      "name": "Diesel",
+      "distance": "0.4 mi",
+      "url": "https://www.google.com/maps/search/Diesel+near+44.0778509%2C-87.7150027"
+    },
+    {
+      "name": "Popp's Harbor Town Citgo",
+      "distance": "0.4 mi",
+      "url": "https://www.google.com/maps/search/Popp's%20Harbor%20Town%20Citgo+near+44.0778509%2C-87.7150027"
+    },
+    {
+      "name": "Mills Gas",
+      "distance": "0.6 mi",
+      "url": "https://www.google.com/maps/search/Mills%20Gas+near+44.0778509%2C-87.7150027"
+    }
+  ]
+}

@@ -1,0 +1,221 @@
+{
+  "quick_bite": [
+    {
+      "name": "QuikTrip Kitchen",
+      "distance": "0.4 mi",
+      "url": "https://www.google.com/maps/search/QuikTrip%20Kitchen+near+38.8003182%2C-90.66998190000001"
+    },
+    {
+      "name": "Popeyes Louisiana Kitchen",
+      "distance": "0.7 mi",
+      "url": "https://www.google.com/maps/search/Popeyes%20Louisiana%20Kitchen+near+38.8003182%2C-90.66998190000001"
+    },
+    {
+      "name": "Pirrone's Pizzeria",
+      "distance": "0.8 mi",
+      "url": "https://www.google.com/maps/search/Pirrone's%20Pizzeria+near+38.8003182%2C-90.66998190000001"
+    },
+    {
+      "name": "Subway",
+      "distance": "0.8 mi",
+      "url": "https://www.google.com/maps/search/Subway+near+38.8003182%2C-90.66998190000001"
+    },
+    {
+      "name": "Sonic Drive-In",
+      "distance": "0.9 mi",
+      "url": "https://www.google.com/maps/search/Sonic%20Drive-In+near+38.8003182%2C-90.66998190000001"
+    }
+  ],
+  "coffee": [
+    {
+      "name": "Mazamas Coffee Co",
+      "distance": "0.7 mi",
+      "url": "https://www.google.com/maps/search/Mazamas%20Coffee%20Co+near+38.8003182%2C-90.66998190000001"
+    },
+    {
+      "name": "Free smoothies for elderz",
+      "distance": "0.7 mi",
+      "url": "https://www.google.com/maps/search/Free%20smoothies%20for%20elderz+near+38.8003182%2C-90.66998190000001"
+    },
+    {
+      "name": "Ziggi's Coffee",
+      "distance": "0.9 mi",
+      "url": "https://www.google.com/maps/search/Ziggi's%20Coffee+near+38.8003182%2C-90.66998190000001"
+    },
+    {
+      "name": "McDonald's",
+      "distance": "1.0 mi",
+      "url": "https://www.google.com/maps/search/McDonald's+near+38.8003182%2C-90.66998190000001"
+    },
+    {
+      "name": "Scooter's Coffee",
+      "distance": "1.0 mi",
+      "url": "https://www.google.com/maps/search/Scooter's%20Coffee+near+38.8003182%2C-90.66998190000001"
+    }
+  ],
+  "team_lunch": [
+    {
+      "name": "Dierbergs Bakery",
+      "distance": "0.7 mi",
+      "url": "https://www.google.com/maps/search/Dierbergs%20Bakery+near+38.8003182%2C-90.66998190000001"
+    },
+    {
+      "name": "Ol Forty LLC",
+      "distance": "1.3 mi",
+      "url": "https://www.google.com/maps/search/Ol%20Forty%20LLC+near+38.8003182%2C-90.66998190000001"
+    },
+    {
+      "name": "Texas Roadhouse",
+      "distance": "1.4 mi",
+      "url": "https://www.google.com/maps/search/Texas%20Roadhouse+near+38.8003182%2C-90.66998190000001"
+    },
+    {
+      "name": "Interruption Public House and Brewery",
+      "distance": "1.4 mi",
+      "url": "https://www.google.com/maps/search/Interruption%20Public%20House%20and%20Brewery+near+38.8003182%2C-90.66998190000001"
+    }
+  ],
+  "dinner": [
+    {
+      "name": "Green China",
+      "distance": "0.8 mi",
+      "url": "https://www.google.com/maps/search/Green%20China+near+38.8003182%2C-90.66998190000001"
+    },
+    {
+      "name": "El Mezon - Mexican Restaurant",
+      "distance": "1.0 mi",
+      "url": "https://www.google.com/maps/search/El%20Mezon%20-%20Mexican%20Restaurant+near+38.8003182%2C-90.66998190000001"
+    },
+    {
+      "name": "WaffleNerds BakeHouse",
+      "distance": "1.1 mi",
+      "url": "https://www.google.com/maps/search/WaffleNerds%20BakeHouse+near+38.8003182%2C-90.66998190000001"
+    },
+    {
+      "name": "Indie Eatery",
+      "distance": "1.1 mi",
+      "url": "https://www.google.com/maps/search/Indie%20Eatery+near+38.8003182%2C-90.66998190000001"
+    },
+    {
+      "name": "Ethyl's Smokehouse & Saloon",
+      "distance": "1.3 mi",
+      "url": "https://www.google.com/maps/search/Ethyl's%20Smokehouse%20%26%20Saloon+near+38.8003182%2C-90.66998190000001"
+    }
+  ],
+  "bowling": [
+    {
+      "name": "Bowlero St Peters",
+      "distance": "0.1 mi",
+      "url": "https://www.google.com/maps/search/Bowlero%20St%20Peters+near+38.8003182%2C-90.66998190000001"
+    },
+    {
+      "name": "O'Fallon Bowl",
+      "distance": "1.4 mi",
+      "url": "https://www.google.com/maps/search/O'Fallon%20Bowl+near+38.8003182%2C-90.66998190000001"
+    }
+  ],
+  "arcade": [],
+  "movies": [
+    {
+      "name": "Marcus Mid Rivers Cinema",
+      "distance": "2.9 mi",
+      "url": "https://www.google.com/maps/search/Marcus%20Mid%20Rivers%20Cinema+near+38.8003182%2C-90.66998190000001"
+    }
+  ],
+  "fun": [
+    {
+      "name": "Sky Zone Trampoline Park",
+      "distance": "3.1 mi",
+      "url": "https://www.google.com/maps/search/Sky%20Zone%20Trampoline%20Park+near+38.8003182%2C-90.66998190000001",
+      "isFar": true
+    },
+    {
+      "name": "Slick City Action Park",
+      "distance": "3.2 mi",
+      "url": "https://www.google.com/maps/search/Slick%20City%20Action%20Park+near+38.8003182%2C-90.66998190000001",
+      "isFar": true
+    },
+    {
+      "name": "Urban Air Trampoline and Adventure Park",
+      "distance": "3.9 mi",
+      "url": "https://www.google.com/maps/search/Urban%20Air%20Trampoline%20and%20Adventure%20Park+near+38.8003182%2C-90.66998190000001",
+      "isFar": true
+    },
+    {
+      "name": "Top Shot Experience Airsoft BB Bar - St. Charles/Cottleville",
+      "distance": "4.2 mi",
+      "url": "https://www.google.com/maps/search/Top%20Shot%20Experience%20Airsoft%20BB%20Bar%20-%20St.%20Charles%2FCottleville+near+38.8003182%2C-90.66998190000001",
+      "isFar": true
+    },
+    {
+      "name": "Top Notch Axe Throwing St. Charles / Cottleville",
+      "distance": "4.2 mi",
+      "url": "https://www.google.com/maps/search/Top%20Notch%20Axe%20Throwing%20St.%20Charles%20%2F%20Cottleville+near+38.8003182%2C-90.66998190000001",
+      "isFar": true
+    }
+  ],
+  "hotels": [
+    {
+      "name": "Holiday Inn Express & Suites St Peters by IHG",
+      "distance": "0.5 mi",
+      "url": "https://www.google.com/maps/search/Holiday%20Inn%20Express%20%26%20Suites%20St%20Peters%20by%20IHG+near+38.8003182%2C-90.66998190000001"
+    },
+    {
+      "name": "Comfort Inn & Suites St. Louis-O'Fallon",
+      "distance": "0.5 mi",
+      "url": "https://www.google.com/maps/search/Comfort%20Inn%20%26%20Suites%20St.%20Louis-O'Fallon+near+38.8003182%2C-90.66998190000001"
+    },
+    {
+      "name": "WoodSpring Suites St Peters-OFallon",
+      "distance": "0.7 mi",
+      "url": "https://www.google.com/maps/search/WoodSpring%20Suites%20St%20Peters-OFallon+near+38.8003182%2C-90.66998190000001"
+    },
+    {
+      "name": "Vanguard mobile home park",
+      "distance": "0.7 mi",
+      "url": "https://www.google.com/maps/search/Vanguard%20mobile%20home%20park+near+38.8003182%2C-90.66998190000001"
+    },
+    {
+      "name": "Private St Peters Home/Patio/BBQ/ Pool Table",
+      "distance": "0.8 mi",
+      "url": "https://www.google.com/maps/search/Private%20St%20Peters%20Home%2FPatio%2FBBQ%2F%20Pool%20Table+near+38.8003182%2C-90.66998190000001"
+    },
+    {
+      "name": "Private St Peters Home Patio Pool Table",
+      "distance": "0.8 mi",
+      "url": "https://www.google.com/maps/search/Private%20St%20Peters%20Home%20Patio%20Pool%20Table+near+38.8003182%2C-90.66998190000001"
+    },
+    {
+      "name": "Blair's House - Game Room - Long Stays Welcome",
+      "distance": "0.8 mi",
+      "url": "https://www.google.com/maps/search/Blair's%20House%20-%20Game%20Room%20-%20Long%20Stays%20Welcome+near+38.8003182%2C-90.66998190000001"
+    }
+  ],
+  "gas": [
+    {
+      "name": "QuikTrip",
+      "distance": "0.4 mi",
+      "url": "https://www.google.com/maps/search/QuikTrip+near+38.8003182%2C-90.66998190000001"
+    },
+    {
+      "name": "Warrenton Oil Co",
+      "distance": "0.7 mi",
+      "url": "https://www.google.com/maps/search/Warrenton%20Oil%20Co+near+38.8003182%2C-90.66998190000001"
+    },
+    {
+      "name": "Phillips 66",
+      "distance": "0.8 mi",
+      "url": "https://www.google.com/maps/search/Phillips%2066+near+38.8003182%2C-90.66998190000001"
+    },
+    {
+      "name": "bp",
+      "distance": "0.9 mi",
+      "url": "https://www.google.com/maps/search/bp+near+38.8003182%2C-90.66998190000001"
+    },
+    {
+      "name": "Phillips 66",
+      "distance": "0.9 mi",
+      "url": "https://www.google.com/maps/search/Phillips%2066+near+38.8003182%2C-90.66998190000001"
+    }
+  ]
+}

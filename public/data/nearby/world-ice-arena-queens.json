@@ -1,0 +1,226 @@
+{
+  "quick_bite": [
+    {
+      "name": "Hey Kitchen",
+      "distance": "0.3 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Hey%20Kitchen&query_place_id=ChIJW_OxSh1hwokRk1QRqACkwRA&center=40.7559207,-73.8338143"
+    },
+    {
+      "name": "East plaza grill",
+      "distance": "0.4 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=East%20plaza%20grill&query_place_id=ChIJp3GJgGlfwokRZJ0xpYlBhWQ&center=40.751102499999995,-73.8442958"
+    },
+    {
+      "name": "Chuck E. Cheese",
+      "distance": "0.4 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Chuck%20E.%20Cheese&query_place_id=ChIJ-Vn5BAdgwokREygaLdvy4bY&center=40.757368199999995,-73.8350143"
+    },
+    {
+      "name": "Subway",
+      "distance": "0.4 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Subway&query_place_id=ChIJvRlFFgxgwokRczYaz3kXEC4&center=40.7574507,-73.83534829999999"
+    },
+    {
+      "name": "San Matteo Pizzeria - US Open",
+      "distance": "0.4 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=San%20Matteo%20Pizzeria%20-%20US%20Open&query_place_id=ChIJ11T0O3BfwokRWkAxBluZD68&center=40.7500341,-73.84508679999999"
+    }
+  ],
+  "coffee": [
+    {
+      "name": "Marathon Cafe (Skyview)",
+      "distance": "0.3 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Marathon%20Cafe%20(Skyview)&query_place_id=ChIJhQ-hegBhwokRqoO4mMGW0uY&center=40.7563333,-73.8369441"
+    },
+    {
+      "name": "Dunkin'",
+      "distance": "0.3 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Dunkin'&query_place_id=ChIJY0qsdAxgwokR-MuabLvr_ZM&center=40.756539599999996,-73.837001"
+    },
+    {
+      "name": "Dunkin'",
+      "distance": "0.4 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Dunkin'&query_place_id=ChIJs_XiVwxgwokRAdFmsYVr1T0&center=40.756048899999996,-73.83388719999999"
+    },
+    {
+      "name": "Target Café",
+      "distance": "0.4 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Target%20Caf%C3%A9&query_place_id=ChIJtUirDgBhwokRR2yqWzQ3BGo&center=40.7568451,-73.8362089"
+    },
+    {
+      "name": "Project KE (Anime Club)",
+      "distance": "0.8 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Project%20KE%20(Anime%20Club)&query_place_id=ChIJc6Q6lg9hwokR5hG4VGEKHIs&center=40.7626646,-73.83199309999999"
+    }
+  ],
+  "team_lunch": [
+    {
+      "name": "Golden Palace",
+      "distance": "0.2 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Golden%20Palace&query_place_id=ChIJhbQcCbxhwokR266xJ8vsUsY&center=40.7544252,-73.8361955"
+    },
+    {
+      "name": "Dou Dou Kitchen",
+      "distance": "0.3 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Dou%20Dou%20Kitchen&query_place_id=ChIJdYG73aVhwokRv777sUZ4YIs&center=40.7538913,-73.8332107"
+    },
+    {
+      "name": "Golden Corner Noodles 黄金角 (温州小池)",
+      "distance": "0.3 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Golden%20Corner%20Noodles%20%E9%BB%84%E9%87%91%E8%A7%92%20(%E6%B8%A9%E5%B7%9E%E5%B0%8F%E6%B1%A0)&query_place_id=ChIJTTBK03JgwokRinX3fQP3F6M&center=40.7541649,-73.8327618"
+    },
+    {
+      "name": "Kao Tea Sushi",
+      "distance": "0.3 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Kao%20Tea%20Sushi&query_place_id=ChIJFQecGithwokRRmEgF1qB2rQ&center=40.7558122,-73.8338605"
+    },
+    {
+      "name": "BJ's Bakery",
+      "distance": "0.4 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=BJ's%20Bakery&query_place_id=ChIJT1CtbgxgwokRyeH-irsQ4KM&center=40.756861699999995,-73.83717450000002"
+    },
+    {
+      "name": "Sky Food Court",
+      "distance": "0.4 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Sky%20Food%20Court&query_place_id=ChIJOUsncABhwokRZUzapk9Bvjc&center=40.757202799999995,-73.8356721"
+    }
+  ],
+  "dinner": [
+    {
+      "name": "Rocco's Italian Sausages & Cheese Steaks",
+      "distance": "0.1 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Rocco's%20Italian%20Sausages%20%26%20Cheese%20Steaks&query_place_id=ChIJR81JKXFhwokRL8XKb1xMgKg&center=40.752977099999995,-73.8357328"
+    },
+    {
+      "name": "Pizza Con Vitaminas",
+      "distance": "0.2 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Pizza%20Con%20Vitaminas&query_place_id=ChIJlRn723JgwokRsUcgbq91Gkg&center=40.752447100000005,-73.8329711"
+    },
+    {
+      "name": "Happy Sushi Bar",
+      "distance": "0.3 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Happy%20Sushi%20Bar&query_place_id=ChIJfTw-PVthwokRjHnA_ZpdO30&center=40.7535131,-73.83296159999999"
+    },
+    {
+      "name": "Liang Liang Family Group",
+      "distance": "0.3 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Liang%20Liang%20Family%20Group&query_place_id=ChIJdYdzlIVhwokR9ZjiVUaQtto&center=40.753904299999995,-73.8332059"
+    },
+    {
+      "name": "Tommy's Doghouse",
+      "distance": "0.3 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Tommy's%20Doghouse&query_place_id=ChIJwzxCXd9fwokRVY8Blkq8F6w&center=40.7511557,-73.8426719"
+    },
+    {
+      "name": "El Gustazo Empanadas Restaurant",
+      "distance": "0.3 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=El%20Gustazo%20Empanadas%20Restaurant&query_place_id=ChIJg8dvJg1gwokRViLOyF_7Zf0&center=40.754139099999996,-73.8327515"
+    }
+  ],
+  "bowling": [
+    {
+      "name": "Whitestone Lanes",
+      "distance": "1.3 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Whitestone%20Lanes&query_place_id=ChIJm3klDgBhwokRZznlH0Qft-w&center=40.770271,-73.8335439"
+    },
+    {
+      "name": "Jim Simone",
+      "distance": "1.8 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Jim%20Simone&query_place_id=ChIJub9hAllgwokRBe_CMc5edCU&center=40.7343648,-73.8121091"
+    },
+    {
+      "name": "jbfcoaches",
+      "distance": "1.9 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=jbfcoaches&query_place_id=ChIJl8CW6VFhwokRmgVNPPVbOvM&center=40.7329499,-73.81010230000001"
+    }
+  ],
+  "arcade": [],
+  "movies": [
+    {
+      "name": "Regal Tangram",
+      "distance": "0.6 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Regal%20Tangram&query_place_id=ChIJJZLILpBhwokRi2K88q8mhe8&center=40.7602271,-73.83346740000002"
+    },
+    {
+      "name": "Regal UA Midway",
+      "distance": "2.2 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Regal%20UA%20Midway&query_place_id=ChIJ4ywtyyBewokR4ogyfyHbAoM&center=40.720763,-73.8432629"
+    },
+    {
+      "name": "Fair Theatre",
+      "distance": "2.3 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Fair%20Theatre&query_place_id=ChIJXQqtuJlfwokRYMBwceXfFeg&center=40.763335,-73.87863"
+    }
+  ],
+  "fun": [
+    {
+      "name": "Joyin麻将｜桌游｜俱乐部",
+      "distance": "0.3 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Joyin%E9%BA%BB%E5%B0%86%EF%BD%9C%E6%A1%8C%E6%B8%B8%EF%BD%9C%E4%BF%B1%E4%B9%90%E9%83%A8&query_place_id=ChIJq2icFQBhwokRr2K_EageBGY&center=40.7558325,-73.8360024"
+    },
+    {
+      "name": "JOYIN棋牌",
+      "distance": "0.3 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=JOYIN%E6%A3%8B%E7%89%8C&query_place_id=ChIJXVd5ke5hwokRS4mANzijQhU&center=40.7558388,-73.8359926"
+    },
+    {
+      "name": "The Home of NYC Parks' Retired Playground Animals",
+      "distance": "0.4 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=The%20Home%20of%20NYC%20Parks'%20Retired%20Playground%20Animals&query_place_id=ChIJhzCtkAVfwokRfZeEyTXbbBk&center=40.7481875,-73.8433125"
+    },
+    {
+      "name": "Unisphere",
+      "distance": "0.5 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Unisphere&query_place_id=ChIJn11TytlfwokRvgXAIibPBJQ&center=40.7463961,-73.8450629"
+    }
+  ],
+  "hotels": [
+    {
+      "name": "Red Lion Design Ny Inc.",
+      "distance": "0.3 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Red%20Lion%20Design%20Ny%20Inc.&query_place_id=ChIJi7sjvQxgwokRgL1fDpNnJtg&center=40.754876499999995,-73.83521379999999"
+    },
+    {
+      "name": "九筒旅馆",
+      "distance": "0.3 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=%E4%B9%9D%E7%AD%92%E6%97%85%E9%A6%86&query_place_id=ChIJSZx5p6BhwokRw3W59brAlMM&center=40.75342,-73.833232"
+    },
+    {
+      "name": "五楼之家",
+      "distance": "0.3 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=%E4%BA%94%E6%A5%BC%E4%B9%8B%E5%AE%B6&query_place_id=ChIJ06eBySJhwokRjpNLWjeZ_MI&center=40.7553658,-73.83422999999999"
+    },
+    {
+      "name": "2 beds private RM flushing ny, near chinatown",
+      "distance": "0.3 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=2%20beds%20private%20RM%20flushing%20ny%2C%20near%20chinatown&query_place_id=ChIJd8c3tnJgwokR6WXatE65hYI&center=40.7528114,-73.8315277"
+    },
+    {
+      "name": "Casita Jurado",
+      "distance": "0.4 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Casita%20Jurado&query_place_id=ChIJU7Qpm11hwokR9ySABjr6wTU&center=40.7468802,-73.8346097"
+    }
+  ],
+  "gas": [
+    {
+      "name": "bp",
+      "distance": "0.3 mi",
+      "url": "https://www.google.com/maps/search/bp+near+40.751687800000006%2C-73.8374802"
+    },
+    {
+      "name": "Mobil",
+      "distance": "0.5 mi",
+      "url": "https://www.google.com/maps/search/Mobil+near+40.751687800000006%2C-73.8374802"
+    },
+    {
+      "name": "Shea Fuel",
+      "distance": "0.8 mi",
+      "url": "https://www.google.com/maps/search/Shea%20Fuel+near+40.751687800000006%2C-73.8374802"
+    },
+    {
+      "name": "Sunoco",
+      "distance": "0.8 mi",
+      "url": "https://www.google.com/maps/search/Sunoco+near+40.751687800000006%2C-73.8374802"
+    }
+  ]
+}

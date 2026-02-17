@@ -1,0 +1,198 @@
+{
+  "quick_bite": [
+    {
+      "name": "The Cheesecake Factory",
+      "distance": "0.3 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=The%20Cheesecake%20Factory&query_place_id=ChIJxZgrKkC2w4kRU8zL9IlEzK4&center=40.5491844,-74.3354559"
+    },
+    {
+      "name": "Anthony's Coal Fired Pizza & Wings",
+      "distance": "0.3 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Anthony's%20Coal%20Fired%20Pizza%20%26%20Wings&query_place_id=ChIJy1Cxf2q2w4kRNajWpyePbhE&center=40.550446799999996,-74.33397649999999"
+    },
+    {
+      "name": "Brooklyn Boys Pizza & Deli",
+      "distance": "0.4 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Brooklyn%20Boys%20Pizza%20%26%20Deli&query_place_id=ChIJB1GEjEW2w4kR6ULePOTziOI&center=40.5553768,-74.3445196"
+    },
+    {
+      "name": "Chick-fil-A",
+      "distance": "0.4 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Chick-fil-A&query_place_id=ChIJ4f6262q2w4kRsuMmw0meSO0&center=40.5475358,-74.33551"
+    },
+    {
+      "name": "Popeyes Louisiana Kitchen",
+      "distance": "0.4 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Popeyes%20Louisiana%20Kitchen&query_place_id=ChIJsfLgzu23w4kRsHp_08aizJk&center=40.5479013,-74.33488450000002"
+    },
+    {
+      "name": "Mango Biche Mia",
+      "distance": "0.4 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Mango%20Biche%20Mia&query_place_id=ChIJp1EFhI-3w4kRLRGe-I8ktd8&center=40.5473831,-74.3356524"
+    }
+  ],
+  "coffee": [
+    {
+      "name": "Nordstrom Espresso Bar",
+      "distance": "0.2 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Nordstrom%20Espresso%20Bar&query_place_id=ChIJMYi1cEC2w4kR26QblK6J13w&center=40.5495624,-74.33648409999999"
+    },
+    {
+      "name": "Barnes & Noble Café",
+      "distance": "0.3 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Barnes%20%26%20Noble%20Caf%C3%A9&query_place_id=ChIJ4UwfGkC2w4kR7_b7_bsWHJA&center=40.5489585,-74.33506659999999"
+    },
+    {
+      "name": "Dunkin'",
+      "distance": "0.4 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Dunkin'&query_place_id=ChIJY_edS6K3w4kRvFjZ_J1n5JU&center=40.5473831,-74.3356524"
+    },
+    {
+      "name": "Manhattan Bagel",
+      "distance": "1.2 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Manhattan%20Bagel&query_place_id=ChIJ32CLgy-2w4kRGkyGt9FTkTc&center=40.5357225,-74.34628219999999"
+    }
+  ],
+  "team_lunch": [
+    {
+      "name": "Charleys Cheesesteaks",
+      "distance": "0.3 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Charleys%20Cheesesteaks&query_place_id=ChIJSxGQvWq2w4kRyW9rtJg--hY&center=40.548314,-74.335163"
+    },
+    {
+      "name": "Ramenya",
+      "distance": "0.3 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Ramenya&query_place_id=ChIJp4LiXQC3w4kRAoPQfP0Jj_E&center=40.548281200000005,-74.3348285"
+    },
+    {
+      "name": "Cinnabon",
+      "distance": "0.4 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Cinnabon&query_place_id=ChIJ36KBTZy3w4kRmv4qA8dx614&center=40.547523399999996,-74.33575549999999"
+    },
+    {
+      "name": "The Indian Plate",
+      "distance": "0.4 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=The%20Indian%20Plate&query_place_id=ChIJsc8Rsim3w4kRYQMkeZHrtEo&center=40.5481209,-74.3346859"
+    },
+    {
+      "name": "Sarku Japan",
+      "distance": "0.4 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Sarku%20Japan&query_place_id=ChIJTWaqxQ63w4kRE3Noc0L_koo&center=40.5473831,-74.3356524"
+    }
+  ],
+  "dinner": [
+    {
+      "name": "RamenYa",
+      "distance": "0.3 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=RamenYa&query_place_id=ChIJIc2C_R-3w4kRZnU86rK5JFs&center=40.5493434,-74.3353561"
+    },
+    {
+      "name": "Crepe Delicious",
+      "distance": "0.3 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Crepe%20Delicious&query_place_id=ChIJxYmEWAC3w4kRa1xkuL-uAMs&center=40.5484204,-74.33574"
+    },
+    {
+      "name": "LouCas",
+      "distance": "0.4 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=LouCas&query_place_id=ChIJofaGuUW2w4kReL82L1xLwxc&center=40.5548633,-74.3449675"
+    },
+    {
+      "name": "Meemah",
+      "distance": "0.4 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Meemah&query_place_id=ChIJiWeHCUW2w4kRlGB2xGM2uv8&center=40.555153499999996,-74.3446925"
+    },
+    {
+      "name": "Avocados Food",
+      "distance": "0.4 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Avocados%20Food&query_place_id=ChIJzUaGn263w4kRdKNGsZRPkbM&center=40.5473831,-74.3356524"
+    },
+    {
+      "name": "Baked Bouquet",
+      "distance": "0.6 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Baked%20Bouquet&query_place_id=ChIJr0Vu7t-3w4kRhccDP-I6bG0&center=40.5441144,-74.3339831"
+    }
+  ],
+  "bowling": [
+    {
+      "name": "Round1 Bowling & Arcade - Edison",
+      "distance": "0.4 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Round1%20Bowling%20%26%20Arcade%20-%20Edison&query_place_id=ChIJD3aBbSG3w4kRIvSrNKHNRp0&center=40.5462953,-74.3367074"
+    },
+    {
+      "name": "Majestic Lanes Bowling Alley",
+      "distance": "2.6 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Majestic%20Lanes%20Bowling%20Alley&query_place_id=ChIJq6yULu61w4kRYtBzQHVpR-M&center=40.532484499999995,-74.2965825"
+    },
+    {
+      "name": "Circle Bowl & Entertainment",
+      "distance": "4.3 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Circle%20Bowl%20%26%20Entertainment&query_place_id=ChIJB7XAUqPHw4kRhsmCxsd9d-M&center=40.5335865,-74.4184791",
+      "isFar": true
+    }
+  ],
+  "arcade": [],
+  "movies": [
+    {
+      "name": "AMC DINE-IN Menlo Park 12",
+      "distance": "0.3 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=AMC%20DINE-IN%20Menlo%20Park%2012&query_place_id=ChIJ4f6262q2w4kRPV4nz4NjSvs&center=40.5479014,-74.3362219"
+    },
+    {
+      "name": "Regal Hadley",
+      "distance": "4.4 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Regal%20Hadley&query_place_id=ChIJhYCMghK4w4kR-pTMn-FZ2uw&center=40.548958,-74.42417",
+      "isFar": true
+    }
+  ],
+  "fun": [
+    {
+      "name": "Disney Junior Play Zone",
+      "distance": "0.2 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Disney%20Junior%20Play%20Zone&query_place_id=ChIJJ5JmSlq3w4kR9vv8WN2sfEc&center=40.5492232,-74.3364367"
+    },
+    {
+      "name": "The Slime Factory New Jersey",
+      "distance": "0.4 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=The%20Slime%20Factory%20New%20Jersey&query_place_id=ChIJ-3n6gFu3w4kRjmlNIS0-m0o&center=40.5479013,-74.33488450000002"
+    },
+    {
+      "name": "Stay in Touch",
+      "distance": "1.4 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Stay%20in%20Touch&query_place_id=ChIJ-w8sj-C3w4kRPyRQRYFHOc0&center=40.5412119,-74.3617951"
+    }
+  ],
+  "hotels": [
+    {
+      "name": "Homewood Suites by Hilton Edison Woodbridge",
+      "distance": "0.3 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Homewood%20Suites%20by%20Hilton%20Edison%20Woodbridge&query_place_id=ChIJoUtT-0G2w4kR6PC9sL6Oi3Y&center=40.5527346,-74.3333821"
+    },
+    {
+      "name": "Select Hotels Group",
+      "distance": "1.0 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Select%20Hotels%20Group&query_place_id=ChIJI9vlimG2w4kRMs6Qk3ugcIo&center=40.563384,-74.3291234"
+    }
+  ],
+  "gas": [
+    {
+      "name": "Delta Fuel",
+      "distance": "0.5 mi",
+      "url": "https://www.google.com/maps/search/Delta%20Fuel+near+40.5516921%2C-74.3397331"
+    },
+    {
+      "name": "Raceway Petroleum",
+      "distance": "0.6 mi",
+      "url": "https://www.google.com/maps/search/Raceway%20Petroleum+near+40.5516921%2C-74.3397331"
+    },
+    {
+      "name": "Fuel One",
+      "distance": "0.6 mi",
+      "url": "https://www.google.com/maps/search/Fuel%20One+near+40.5516921%2C-74.3397331"
+    },
+    {
+      "name": "Shell",
+      "distance": "0.8 mi",
+      "url": "https://www.google.com/maps/search/Shell+near+40.5516921%2C-74.3397331"
+    }
+  ]
+}

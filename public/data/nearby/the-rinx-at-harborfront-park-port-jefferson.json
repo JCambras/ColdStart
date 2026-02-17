@@ -1,0 +1,211 @@
+{
+  "quick_bite": [
+    {
+      "name": "Subway",
+      "distance": "1.5 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Subway&query_place_id=ChIJk7M0pe5A6IkR45NWWzJYrlU&center=40.929414799999996,-73.05233609999999"
+    },
+    {
+      "name": "Chick-fil-A",
+      "distance": "1.9 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Chick-fil-A&query_place_id=ChIJl7kCR-VA6IkRJDQ_3naOvUw&center=40.923571599999995,-73.0499681"
+    },
+    {
+      "name": "Wendy's",
+      "distance": "2.0 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Wendy's&query_place_id=ChIJBWKiGuVA6IkR4mU3_bZDltk&center=40.9220645,-73.04970639999999"
+    },
+    {
+      "name": "Bagelicious Cafe",
+      "distance": "2.1 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Bagelicious%20Cafe&query_place_id=ChIJG-8lr_xA6IkRrQOd1o1eaNM&center=40.923499299999996,-73.0447245"
+    },
+    {
+      "name": "Five Guys",
+      "distance": "2.1 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Five%20Guys&query_place_id=ChIJBTNuEuVA6IkRM2ycDvkoLyc&center=40.9196992,-73.0531493"
+    },
+    {
+      "name": "Subway",
+      "distance": "2.2 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Subway&query_place_id=ChIJ1wzbwqlB6IkRyQknaQ-y-jo&center=40.9304582,-73.03342490000001"
+    }
+  ],
+  "coffee": [
+    {
+      "name": "Sweet 'n' Savory Crepe & Rice Pudding Bar of Port Jefferson",
+      "distance": "0.2 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Sweet%20'n'%20Savory%20Crepe%20%26%20Rice%20Pudding%20Bar%20of%20Port%20Jefferson&query_place_id=ChIJT2To2vdA6IkRcPirA9sDlf0&center=40.9464718,-73.0692114"
+    },
+    {
+      "name": "Starbucks Coffee Company",
+      "distance": "0.2 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Starbucks%20Coffee%20Company&query_place_id=ChIJCzMSI2ZA6IkR7wwcAy-gQbc&center=40.94576,-73.0683"
+    },
+    {
+      "name": "Dunkin'",
+      "distance": "0.2 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Dunkin'&query_place_id=ChIJ8dnYGWZA6IkR-jhMIxq38Rw&center=40.945825,-73.0687182"
+    },
+    {
+      "name": "Strathmore Bagel Of Mount Sinai",
+      "distance": "2.2 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Strathmore%20Bagel%20Of%20Mount%20Sinai&query_place_id=ChIJ9xMjgahB6IkRogR2OcaAnVA&center=40.933348,-73.03071"
+    },
+    {
+      "name": "Mt. Sinai Bagel Cafe",
+      "distance": "2.2 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Mt.%20Sinai%20Bagel%20Cafe&query_place_id=ChIJ1wzbwqlB6IkR8W5A8PCt9o4&center=40.9306325,-73.032715"
+    }
+  ],
+  "team_lunch": [
+    {
+      "name": "The Steam Room",
+      "distance": "0.1 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=The%20Steam%20Room&query_place_id=ChIJdaisqGhA6IkR1egFBAlGSxI&center=40.947054,-73.0690426"
+    },
+    {
+      "name": "Blue pearl",
+      "distance": "0.2 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Blue%20pearl&query_place_id=ChIJYX_jAABB6IkRyo6RTRHoj1g&center=40.946487499999996,-73.0692732"
+    },
+    {
+      "name": "Golden Mall NYC",
+      "distance": "0.2 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Golden%20Mall%20NYC&query_place_id=ChIJSW41eABB6IkRPp7IC3SXCAc&center=40.9460985,-73.0685878"
+    },
+    {
+      "name": "Port Jeff Pizza",
+      "distance": "0.2 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Port%20Jeff%20Pizza&query_place_id=ChIJgZh5ImZA6IkRAhjgr1ZeNGY&center=40.945851,-73.068674"
+    },
+    {
+      "name": "Barito Tacos & Cocktails",
+      "distance": "0.2 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Barito%20Tacos%20%26%20Cocktails&query_place_id=ChIJQ3BrI2ZA6IkR2mtZQQj9K_g&center=40.9457283,-73.0682855"
+    },
+    {
+      "name": "Island Empanada Express",
+      "distance": "0.2 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Island%20Empanada%20Express&query_place_id=ChIJseG23i8_6IkRjq9BHzYRPAk&center=40.945642199999995,-73.0681831"
+    }
+  ],
+  "dinner": [
+    {
+      "name": "Local's Cafe",
+      "distance": "0.1 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Local's%20Cafe&query_place_id=ChIJo3tI8GhA6IkROIA4cPyldPM&center=40.947927199999995,-73.0677268"
+    },
+    {
+      "name": "The Fifth Season",
+      "distance": "0.1 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=The%20Fifth%20Season&query_place_id=ChIJfwbju2hA6IkRxTGZOocre4I&center=40.947601899999995,-73.0682841"
+    },
+    {
+      "name": "Rustic Bakery",
+      "distance": "0.1 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Rustic%20Bakery&query_place_id=ChIJv-HEfwBB6IkRL7TsrL-R0Eo&center=40.9472047,-73.0677637"
+    },
+    {
+      "name": "Black Pearl Seafood Chophouse",
+      "distance": "0.1 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Black%20Pearl%20Seafood%20Chophouse&query_place_id=ChIJbxoTwWhA6IkReu217dllEN0&center=40.9477992,-73.0688113"
+    },
+    {
+      "name": "Tiger Lily Cafe",
+      "distance": "0.1 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Tiger%20Lily%20Cafe&query_place_id=ChIJTUH1h2hA6IkRlR1GQTzCacc&center=40.946615099999995,-73.0671595"
+    },
+    {
+      "name": "Prohibition Port Jefferson",
+      "distance": "0.2 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Prohibition%20Port%20Jefferson&query_place_id=ChIJmzzPysVB6IkRtaHs0NusloQ&center=40.9462948,-73.0686472"
+    }
+  ],
+  "bowling": [
+    {
+      "name": "Port Jeff Bowl",
+      "distance": "1.4 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Port%20Jeff%20Bowl&query_place_id=ChIJI93qfPdA6IkR3KqOfBuVRpM&center=40.9308694,-73.0545398"
+    }
+  ],
+  "arcade": [],
+  "movies": [
+    {
+      "name": "Port Jefferson Cinemas",
+      "distance": "2.4 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Port%20Jefferson%20Cinemas&query_place_id=ChIJwwH3N-NA6IkRpSkyljewLGs&center=40.919475,-73.0419556"
+    }
+  ],
+  "fun": [
+    {
+      "name": "Sky Zone",
+      "distance": "1.2 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Sky%20Zone&query_place_id=ChIJJXmgKMRB6IkRCcGgeiIFymE&center=40.9338726,-73.0559744"
+    },
+    {
+      "name": "Port Jefferson Cliff Rd Gazebo",
+      "distance": "1.5 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Port%20Jefferson%20Cliff%20Rd%20Gazebo&query_place_id=ChIJlbj9DgBB6IkRc9UMPFLGzWY&center=40.9703993,-73.072879"
+    },
+    {
+      "name": "Four Pipes",
+      "distance": "2.1 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Four%20Pipes&query_place_id=ChIJHxYoJgA_6IkRO31FKdLKKg8&center=40.9287309,-73.0971134"
+    },
+    {
+      "name": "Pantai Cedar",
+      "distance": "2.1 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Pantai%20Cedar&query_place_id=ChIJRwKxtsBB6IkRxTyeDjXXhPU&center=40.9653766,-73.0328825"
+    }
+  ],
+  "hotels": [
+    {
+      "name": "Jetty Building (Danfords Hotel & Marina)",
+      "distance": "0.1 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Jetty%20Building%20(Danfords%20Hotel%20%26%20Marina)&query_place_id=ChIJXxOhFABB6IkRO9xf4p_EoDI&center=40.947821999999995,-73.067706"
+    },
+    {
+      "name": "Falaena House Inn",
+      "distance": "0.1 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Falaena%20House%20Inn&query_place_id=ChIJse2JlENB6IkRuC2ldI2tZjs&center=40.9488491,-73.0656844"
+    },
+    {
+      "name": "Danfords Hotel & Marina",
+      "distance": "0.1 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Danfords%20Hotel%20%26%20Marina&query_place_id=ChIJa9EhwWhA6IkRl6enelXFNrY&center=40.9477878,-73.06876"
+    },
+    {
+      "name": "Historic home walking distance to downtown, the harbor, and restaurants!",
+      "distance": "0.3 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Historic%20home%20walking%20distance%20to%20downtown%2C%20the%20harbor%2C%20and%20restaurants!&query_place_id=ChIJLS6J82dA6IkRxN0BRh2MHVg&center=40.9446793,-73.0645294"
+    },
+    {
+      "name": "Historic home walking distance to downtown, the harbor, and restaurants!",
+      "distance": "0.3 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Historic%20home%20walking%20distance%20to%20downtown%2C%20the%20harbor%2C%20and%20restaurants!&query_place_id=ChIJvw6J82dA6IkRAr6_MaFW5eo&center=40.944679199999996,-73.0645218"
+    }
+  ],
+  "gas": [
+    {
+      "name": "USA 5",
+      "distance": "0.5 mi",
+      "url": "https://www.google.com/maps/search/USA%205+near+40.9485315%2C-73.0671496"
+    },
+    {
+      "name": "Sunoco",
+      "distance": "1.3 mi",
+      "url": "https://www.google.com/maps/search/Sunoco+near+40.9485315%2C-73.0671496"
+    },
+    {
+      "name": "Gulf Express",
+      "distance": "1.4 mi",
+      "url": "https://www.google.com/maps/search/Gulf%20Express+near+40.9485315%2C-73.0671496"
+    },
+    {
+      "name": "Mobil",
+      "distance": "1.4 mi",
+      "url": "https://www.google.com/maps/search/Mobil+near+40.9485315%2C-73.0671496"
+    }
+  ]
+}

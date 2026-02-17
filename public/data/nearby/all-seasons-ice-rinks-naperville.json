@@ -1,0 +1,208 @@
+{
+  "quick_bite": [
+    {
+      "name": "Amato's Pizza",
+      "distance": "0.2 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Amato's%20Pizza&query_place_id=ChIJteBrd4T5DogRiDG7xRF01LU&center=41.78211100000001,-88.2385389"
+    },
+    {
+      "name": "Chipotle Mexican Grill",
+      "distance": "0.3 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Chipotle%20Mexican%20Grill&query_place_id=ChIJSZ3YkBb5DogRKFWlHLB2mqE&center=41.780401999999995,-88.2400918"
+    },
+    {
+      "name": "Poke Bros.",
+      "distance": "0.3 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Poke%20Bros.&query_place_id=ChIJjcAXc7f5DogR7v92CkGGbMQ&center=41.779939,-88.2401094"
+    },
+    {
+      "name": "Jersey Mike's Subs",
+      "distance": "0.3 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Jersey%20Mike's%20Subs&query_place_id=ChIJS5-TNoT5DogRpbZg1YxiMs0&center=41.779939,-88.2401094"
+    },
+    {
+      "name": "Patelli's Gyros & Beef",
+      "distance": "1.1 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Patelli's%20Gyros%20%26%20Beef&query_place_id=ChIJMVlmuq75DogRXYdiHBWv724&center=41.780981,-88.2126452"
+    },
+    {
+      "name": "Hangry Joe's Hot Chicken & Wings",
+      "distance": "1.5 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Hangry%20Joe's%20Hot%20Chicken%20%26%20Wings&query_place_id=ChIJ402BiZ35DogRrhHUQulqVPo&center=41.782571499999996,-88.2049218"
+    }
+  ],
+  "coffee": [
+    {
+      "name": "Dunkin'",
+      "distance": "0.3 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Dunkin'&query_place_id=ChIJzdRi-YP5DogRIVM0-UGod3M&center=41.782556,-88.2400325"
+    },
+    {
+      "name": "Starbucks Coffee Company",
+      "distance": "0.3 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Starbucks%20Coffee%20Company&query_place_id=ChIJT6lZNoT5DogR3aaf6_O5FQA&center=41.78003,-88.24014"
+    },
+    {
+      "name": "Jumpin Java",
+      "distance": "1.3 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Jumpin%20Java&query_place_id=ChIJlehe6VL4DogRqcPNrg6a26Y&center=41.7779108,-88.2086813"
+    },
+    {
+      "name": "Haraz Coffee House",
+      "distance": "1.5 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Haraz%20Coffee%20House&query_place_id=ChIJDZGjgYH5DogR_um2DRjf6bg&center=41.7755355,-88.20647470000002"
+    },
+    {
+      "name": "Petit Three Doughnuts",
+      "distance": "1.7 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Petit%20Three%20Doughnuts&query_place_id=ChIJCYFaH8P5DogRVTkQcKwZdb4&center=41.7578416,-88.24212879999999"
+    }
+  ],
+  "team_lunch": [
+    {
+      "name": "Teriyaki Madness",
+      "distance": "0.3 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Teriyaki%20Madness&query_place_id=ChIJXWlIpf75DogRnkMPe6d1blo&center=41.779554399999995,-88.23839699999999"
+    },
+    {
+      "name": "Hot Stuff Pizza",
+      "distance": "0.3 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Hot%20Stuff%20Pizza&query_place_id=ChIJF6gqYxr5DogRPM4w6SPLH74&center=41.7819183,-88.23980639999999"
+    },
+    {
+      "name": "Taylor Street Pizza & Catering",
+      "distance": "1.1 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Taylor%20Street%20Pizza%20%26%20Catering&query_place_id=ChIJr8Z-Haz5DogRWoll4nh6DaQ&center=41.780598999999995,-88.21213499999999"
+    },
+    {
+      "name": "Meijer Bakery",
+      "distance": "1.6 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Meijer%20Bakery&query_place_id=ChIJJ-MiLjH5DogRzZ73BzotmKk&center=41.767575099999995,-88.20929129999999"
+    },
+    {
+      "name": "Cinnabon",
+      "distance": "1.9 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Cinnabon&query_place_id=ChIJbbowbs75DogRHl7-EAeaCgc&center=41.7586495,-88.2139344"
+    },
+    {
+      "name": "Sourdough bread",
+      "distance": "2.0 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Sourdough%20bread&query_place_id=ChIJ0_JdZgD5DogR9Li-2tz3w74&center=41.7833219,-88.1962272"
+    }
+  ],
+  "dinner": [
+    {
+      "name": "King’s wok aurora (Eola road)",
+      "distance": "0.2 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=King%E2%80%99s%20wok%20aurora%20(Eola%20road)&query_place_id=ChIJ1WCAf4T5DogR8CXKIKEffRc&center=41.782083199999995,-88.2386843"
+    },
+    {
+      "name": "Alaniz Sweetscape",
+      "distance": "1.0 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Alaniz%20Sweetscape&query_place_id=ChIJgRSztyv5DogRHtXJe0Ha1sg&center=41.790562,-88.2190839"
+    },
+    {
+      "name": "JK Kabab",
+      "distance": "1.1 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=JK%20Kabab&query_place_id=ChIJMVlmuq75DogRj8CqpqBwBEA&center=41.781009999999995,-88.21284299999999"
+    },
+    {
+      "name": "Desi Junction",
+      "distance": "1.1 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Desi%20Junction&query_place_id=ChIJzdbFCAD5DogRzpBZ0iUEjR8&center=41.780601,-88.2122064"
+    },
+    {
+      "name": "Mazala Pizza Naperville",
+      "distance": "1.2 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Mazala%20Pizza%20Naperville&query_place_id=ChIJcfmgOVv5DogRxbjrK6_oLXc&center=41.7806302,-88.2117083"
+    },
+    {
+      "name": "Alexa's Sweet Boutique",
+      "distance": "1.4 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Alexa's%20Sweet%20Boutique&query_place_id=ChIJqy2v6bvk_KMR_xNQV1HMZwQ&center=41.797446699999995,-88.2154084"
+    }
+  ],
+  "bowling": [
+    {
+      "name": "Round1 Bowling & Arcade Fox Valley Mall",
+      "distance": "2.0 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Round1%20Bowling%20%26%20Arcade%20Fox%20Valley%20Mall&query_place_id=ChIJe2bZz835DogRr1nUZ_E9xd8&center=41.759098699999996,-88.2115865"
+    },
+    {
+      "name": "Lucky Strike Naperville",
+      "distance": "2.8 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Lucky%20Strike%20Naperville&query_place_id=ChIJ36ZXUmv4DogRxICDLcVVu4g&center=41.7662451,-88.1835292"
+    },
+    {
+      "name": "St Paul's Lanes",
+      "distance": "4.3 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=St%20Paul's%20Lanes&query_place_id=ChIJ_aQ4VaD6DogRudPZjUptc5U&center=41.7507547,-88.3072784",
+      "isFar": true
+    }
+  ],
+  "arcade": [],
+  "movies": [
+    {
+      "name": "Hollywood Palms Cinema",
+      "distance": "2.0 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Hollywood%20Palms%20Cinema&query_place_id=ChIJswKz4zX4DogRFFFmCRq2iM8&center=41.7657192,-88.20236"
+    },
+    {
+      "name": "Phoenix Theatres Cantera Warrenville 17 + PTX",
+      "distance": "3.6 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Phoenix%20Theatres%20Cantera%20Warrenville%2017%20%2B%20PTX&query_place_id=ChIJxaip9w_5DogRUhTiWgD5JBs&center=41.8050426,-88.17106179999999",
+      "isFar": true
+    }
+  ],
+  "fun": [
+    {
+      "name": "Urban Air Trampoline and Adventure Park",
+      "distance": "1.6 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Urban%20Air%20Trampoline%20and%20Adventure%20Park&query_place_id=ChIJofzH90b5DogRrLjkMmf82ew&center=41.774679,-88.2042393"
+    },
+    {
+      "name": "Sim Racing Naperville",
+      "distance": "1.7 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Sim%20Racing%20Naperville&query_place_id=ChIJl-eIhTn5DogRcBI7O5Nx54w&center=41.77325030000001,-88.2037782"
+    },
+    {
+      "name": "MISH MASH Adventures",
+      "distance": "2.0 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=MISH%20MASH%20Adventures&query_place_id=ChIJSYqeFZz5DogRiAJm1oMQh80&center=41.7586801,-88.2123067"
+    },
+    {
+      "name": "Sky Zone Trampoline Park",
+      "distance": "2.1 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Sky%20Zone%20Trampoline%20Park&query_place_id=ChIJ1fVbdND5DogRRIvNrFG_r0A&center=41.7553826,-88.2166955"
+    }
+  ],
+  "hotels": [
+    {
+      "name": "Homewood Suites by Hilton Aurora Naperville",
+      "distance": "1.3 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Homewood%20Suites%20by%20Hilton%20Aurora%20Naperville&query_place_id=ChIJ0weLt7P5DogR8FY9qtvg-80&center=41.773461,-88.2107228"
+    }
+  ],
+  "gas": [
+    {
+      "name": "bp",
+      "distance": "0.3 mi",
+      "url": "https://www.google.com/maps/search/bp+near+41.782100299999996%2C-88.2340997"
+    },
+    {
+      "name": "Circle K | Gas Station",
+      "distance": "0.4 mi",
+      "url": "https://www.google.com/maps/search/Circle%20K%20%7C%20Gas%20Station+near+41.782100299999996%2C-88.2340997"
+    },
+    {
+      "name": "Shell",
+      "distance": "0.4 mi",
+      "url": "https://www.google.com/maps/search/Shell+near+41.782100299999996%2C-88.2340997"
+    },
+    {
+      "name": "Gas",
+      "distance": "0.4 mi",
+      "url": "https://www.google.com/maps/search/Gas+near+41.782100299999996%2C-88.2340997"
+    }
+  ]
+}

@@ -1,0 +1,185 @@
+{
+  "quick_bite": [
+    {
+      "name": "El Mexicano Restaurant",
+      "distance": "1.3 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=El%20Mexicano%20Restaurant&query_place_id=ChIJ3V-zk6LCDYgRlleyUQ-1NiE&center=41.0801076,-87.86316819999999"
+    },
+    {
+      "name": "Dos Amigos",
+      "distance": "1.4 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Dos%20Amigos&query_place_id=ChIJm6oO21vdDYgROXRHblUXJ9w&center=41.1136335,-87.8603212"
+    },
+    {
+      "name": "Jaenicke's Root Beer Stand",
+      "distance": "1.5 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Jaenicke's%20Root%20Beer%20Stand&query_place_id=ChIJ-eu1oFvdDYgRFCqKSMprRzE&center=41.1135276,-87.8625809"
+    },
+    {
+      "name": "Taco Bell",
+      "distance": "1.5 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Taco%20Bell&query_place_id=ChIJueW6TJbCDYgRdd30jbFFvUU&center=41.0786164,-87.8672572"
+    },
+    {
+      "name": "Poor Boy Restaurant",
+      "distance": "1.6 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Poor%20Boy%20Restaurant&query_place_id=ChIJl-IJYe3nDYgR87o1IpQSBE0&center=41.1185635,-87.84493359999999"
+    }
+  ],
+  "coffee": [
+    {
+      "name": "Nini' s Brew Coffee Shop And Bar",
+      "distance": "1.2 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Nini'%20s%20Brew%20Coffee%20Shop%20And%20Bar&query_place_id=ChIJy7dwXrPCDYgR10zxyvj5D5s&center=41.099214700000005,-87.86943389999999"
+    },
+    {
+      "name": "Dunkin'",
+      "distance": "1.5 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Dunkin'&query_place_id=ChIJk8Q8KUrDDYgRvS9GESTc0pg&center=41.078514999999996,-87.866778"
+    }
+  ],
+  "team_lunch": [
+    {
+      "name": "Hunt Brothers Pizza",
+      "distance": "1.2 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Hunt%20Brothers%20Pizza&query_place_id=ChIJRfWAGsbnDYgRR-hrxW3omWg&center=41.1124198,-87.8531053"
+    },
+    {
+      "name": "Nells Barbque",
+      "distance": "1.4 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Nells%20Barbque&query_place_id=ChIJQYMwWgDnDYgRE-WDAav4qUQ&center=41.115516199999995,-87.845287"
+    },
+    {
+      "name": "Taqueria El Country 3",
+      "distance": "1.6 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Taqueria%20El%20Country%203&query_place_id=ChIJ5RRP8yfdDYgRcZ8lo7bugi4&center=41.1142088,-87.8647802"
+    },
+    {
+      "name": "Marcia's Macarons",
+      "distance": "1.9 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Marcia's%20Macarons&query_place_id=ChIJxR_T2jndDYgRsQqECO_sJf4&center=41.1127969,-87.8757267"
+    }
+  ],
+  "dinner": [
+    {
+      "name": "Tacos El Guadalajara #1",
+      "distance": "1.4 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Tacos%20El%20Guadalajara%20%231&query_place_id=ChIJCfEh1KfnDYgRi1psyzmKmWY&center=41.115071900000004,-87.8433369"
+    },
+    {
+      "name": "Krispy Krunchy Chicken",
+      "distance": "1.4 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Krispy%20Krunchy%20Chicken&query_place_id=ChIJEYW3TlHnDYgRcspe51EJZW4&center=41.1157307,-87.84498239999999"
+    },
+    {
+      "name": "Kings Halal Kitchen",
+      "distance": "1.4 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Kings%20Halal%20Kitchen&query_place_id=ChIJe9acY0DnDYgRWvKbd9r7O_U&center=41.1159837,-87.8453767"
+    },
+    {
+      "name": "Crazy Joe's Diner",
+      "distance": "1.6 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Crazy%20Joe's%20Diner&query_place_id=ChIJCbycqkjdDYgRNJXh87I5Krw&center=41.110434399999995,-87.8698089"
+    },
+    {
+      "name": "A Taste Like Home",
+      "distance": "1.6 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=A%20Taste%20Like%20Home&query_place_id=ChIJbcMdbADdDYgRXjLaezm5Yj4&center=41.1142088,-87.8647802"
+    }
+  ],
+  "bowling": [
+    {
+      "name": "Brookmont Bowling Center, Inc.",
+      "distance": "2.9 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Brookmont%20Bowling%20Center%2C%20Inc.&query_place_id=ChIJc360uXDdDYgRRw1cjbk3y08&center=41.1350481,-87.8652592"
+    }
+  ],
+  "arcade": [],
+  "movies": [
+    {
+      "name": "Classic Cinemas Paramount Theatre",
+      "distance": "2.0 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Classic%20Cinemas%20Paramount%20Theatre&query_place_id=ChIJ19NLxGfdDYgRgZzOWhhZXuE&center=41.121955899999996,-87.86373259999999"
+    },
+    {
+      "name": "Classic Cinemas Meadowview XQ",
+      "distance": "3.0 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Classic%20Cinemas%20Meadowview%20XQ&query_place_id=ChIJ6a_faHPdDYgRMbIpDaVcUr4&center=41.1349194,-87.8713463",
+      "isFar": true
+    }
+  ],
+  "fun": [
+    {
+      "name": "Ray Olley Memorial",
+      "distance": "1.2 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Ray%20Olley%20Memorial&query_place_id=ChIJOergawDDDYgRQjP-JBrnu74&center=41.0885805,-87.86923469999999"
+    },
+    {
+      "name": "EAA Chapter 990",
+      "distance": "3.2 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=EAA%20Chapter%20990&query_place_id=ChIJXZEQxXbDDYgRP5gaEp-S8xY&center=41.0968972,-87.909615",
+      "isFar": true
+    },
+    {
+      "name": "Paradox Emporium",
+      "distance": "3.4 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Paradox%20Emporium&query_place_id=ChIJXcNgmH7nDYgRIXnEou1i_V4&center=41.144701,-87.85135269999999",
+      "isFar": true
+    },
+    {
+      "name": "D&J Amusements",
+      "distance": "4.9 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=D%26J%20Amusements&query_place_id=ChIJTUAbyz7nDYgRbtkPizIPrWI&center=41.1649581,-87.8317907",
+      "isFar": true
+    }
+  ],
+  "hotels": [
+    {
+      "name": "KVPD Campground",
+      "distance": "0.4 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=KVPD%20Campground&query_place_id=ChIJJxLg1UPpDYgRgOXk3J-RPM4&center=41.097117999999995,-87.8399654"
+    },
+    {
+      "name": "Château du Kankakee》Heritage in Historic Riverview",
+      "distance": "0.8 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Ch%C3%A2teau%20du%20Kankakee%E3%80%8BHeritage%20in%20Historic%20Riverview&query_place_id=ChIJVQn8SvvnDYgRF--kNjWCpiE&center=41.106079099999995,-87.8452835"
+    },
+    {
+      "name": "Kankakee Estates",
+      "distance": "1.2 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Kankakee%20Estates&query_place_id=ChIJ7w5P5bPCDYgRZwORYBwTiWs&center=41.097197099999995,-87.86977999999999"
+    },
+    {
+      "name": "Economy Inn",
+      "distance": "1.2 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Economy%20Inn&query_place_id=ChIJB64ED7rCDYgROU1se3JUdMM&center=41.0947313,-87.8702175"
+    },
+    {
+      "name": "History and Luxury on the Kankakee River.",
+      "distance": "1.3 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=History%20and%20Luxury%20on%20the%20Kankakee%20River.&query_place_id=ChIJ_a3-FFrdDYgRip1s9c3K5EM&center=41.1113663,-87.8609771"
+    }
+  ],
+  "gas": [
+    {
+      "name": "Murphy USA",
+      "distance": "1.4 mi",
+      "url": "https://www.google.com/maps/search/Murphy%20USA+near+41.0951423%2C-87.8474121"
+    },
+    {
+      "name": "Arco Gas station & Smoke Shop",
+      "distance": "1.4 mi",
+      "url": "https://www.google.com/maps/search/Arco%20Gas%20station%20%26%20Smoke%20Shop+near+41.0951423%2C-87.8474121"
+    },
+    {
+      "name": "Gas Depot #1",
+      "distance": "1.4 mi",
+      "url": "https://www.google.com/maps/search/Gas%20Depot%20%231+near+41.0951423%2C-87.8474121"
+    },
+    {
+      "name": "Gas Depot",
+      "distance": "1.4 mi",
+      "url": "https://www.google.com/maps/search/Gas%20Depot+near+41.0951423%2C-87.8474121"
+    }
+  ]
+}

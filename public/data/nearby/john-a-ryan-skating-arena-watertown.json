@@ -1,0 +1,207 @@
+{
+  "quick_bite": [
+    {
+      "name": "Pleasant Pizza & Subs",
+      "distance": "0.2 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Pleasant%20Pizza%20%26%20Subs&query_place_id=ChIJfWfN67qC44kR_H1gxK0NGEg&center=42.3665255,-71.2059503"
+    },
+    {
+      "name": "Tri-City Wings & Grill",
+      "distance": "0.5 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Tri-City%20Wings%20%26%20Grill&query_place_id=ChIJB99ZXdKD44kRyHj1vTtbsVA&center=42.365585599999996,-71.21788169999999"
+    },
+    {
+      "name": "Subway",
+      "distance": "0.6 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Subway&query_place_id=ChIJ4cNvBcaC44kRk4YfoumdXM8&center=42.36884920000001,-71.2196428"
+    },
+    {
+      "name": "Brand new, centrally-located 3BR close to Boston",
+      "distance": "0.8 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Brand%20new%2C%20centrally-located%203BR%20close%20to%20Boston&query_place_id=ChIJsQ3imamC44kR-rFBDS6pN7c&center=42.369838699999995,-71.19461059999999"
+    },
+    {
+      "name": "Brand new, centrally-located 3BR close to Boston",
+      "distance": "0.8 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Brand%20new%2C%20centrally-located%203BR%20close%20to%20Boston&query_place_id=ChIJDXvimamC44kR7YbOs3ECZQM&center=42.3698426,-71.19461059999999"
+    },
+    {
+      "name": "Market Sandwich",
+      "distance": "0.9 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Market%20Sandwich&query_place_id=ChIJg9pBp7KD44kRxe3C4aQTnI0&center=42.3541532,-71.2000825"
+    }
+  ],
+  "coffee": [
+    {
+      "name": "Dunkin'",
+      "distance": "0.5 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Dunkin'&query_place_id=ChIJWafO46KC44kRzEKtvwx668U&center=42.360291499999995,-71.20246879999999"
+    },
+    {
+      "name": "Dunkin'",
+      "distance": "0.5 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Dunkin'&query_place_id=ChIJ9ZyVv8eC44kRvces-RxXVKs&center=42.3688444,-71.2177808"
+    },
+    {
+      "name": "Clover",
+      "distance": "0.9 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Clover&query_place_id=ChIJv-hMiriD44kRpJQT30Qj7K8&center=42.35169500000001,-71.2080148"
+    }
+  ],
+  "team_lunch": [
+    {
+      "name": "BJ's Bakery",
+      "distance": "0.4 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=BJ's%20Bakery&query_place_id=ChIJ8XY0BbiC44kR4X1em7fvn1c&center=42.3689943,-71.215811"
+    },
+    {
+      "name": "Gia Mario’s",
+      "distance": "0.5 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Gia%20Mario%E2%80%99s&query_place_id=ChIJkap9--iD44kRWMPviLoiWis&center=42.367032599999995,-71.2003352"
+    },
+    {
+      "name": "OCMP - Off-Campus Meal Plan",
+      "distance": "0.5 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=OCMP%20-%20Off-Campus%20Meal%20Plan&query_place_id=ChIJQxfX46KC44kRD71fX9SAeLE&center=42.3599993,-71.202103"
+    },
+    {
+      "name": "Whole Foods Bakery",
+      "distance": "0.9 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Whole%20Foods%20Bakery&query_place_id=ChIJeRqSGACD44kRmvpmyvXG7aY&center=42.354079299999995,-71.20003059999999"
+    },
+    {
+      "name": "Sweet with Sole",
+      "distance": "0.9 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Sweet%20with%20Sole&query_place_id=ChIJIQLU4eaD44kRluLyslYRUZ0&center=42.3519447,-71.2076725"
+    },
+    {
+      "name": "The Cookie Monstah",
+      "distance": "0.9 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=The%20Cookie%20Monstah&query_place_id=ChIJDVG8hgCD44kRDMUJGF36zLM&center=42.35174,-71.208494"
+    }
+  ],
+  "dinner": [
+    {
+      "name": "Little Family Pizza",
+      "distance": "0.2 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Little%20Family%20Pizza&query_place_id=ChIJ1RkX26CD44kRXxoObrflalM&center=42.366524299999995,-71.2059409"
+    },
+    {
+      "name": "Gigi's Pizza Co.",
+      "distance": "0.3 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Gigi's%20Pizza%20Co.&query_place_id=ChIJp3P6Y4uD44kRzo2K4cN-7js&center=42.3687786,-71.20579339999999"
+    },
+    {
+      "name": "Fiorella's Cucina",
+      "distance": "0.5 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Fiorella's%20Cucina&query_place_id=ChIJ4W9nLceC44kRh5roPE-Djxk&center=42.3653285,-71.21830849999999"
+    },
+    {
+      "name": "Eddie's Breakfast & Lunch",
+      "distance": "0.5 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Eddie's%20Breakfast%20%26%20Lunch&query_place_id=ChIJHbKSAqOC44kRUTHzhhqahp0&center=42.360184499999995,-71.20190219999999"
+    },
+    {
+      "name": "Pátzcuaro Taqueria & Bar",
+      "distance": "0.5 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=P%C3%A1tzcuaro%20Taqueria%20%26%20Bar&query_place_id=ChIJ1zo7ICaD44kR-tXFrIj7oSc&center=42.3601281,-71.2019301"
+    },
+    {
+      "name": "Olivia's Bistro",
+      "distance": "0.5 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Olivia's%20Bistro&query_place_id=ChIJ4Zg246KC44kR04JVZUScP3g&center=42.359952899999996,-71.2020592"
+    }
+  ],
+  "bowling": [
+    {
+      "name": "Sacco's Bowl Haven",
+      "distance": "4.8 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Sacco's%20Bowl%20Haven&query_place_id=ChIJESzP3Rh344kRzuxTPdWO8jU&center=42.395760599999996,-71.1238137",
+      "isFar": true
+    }
+  ],
+  "arcade": [],
+  "movies": [
+    {
+      "name": "West Newton Cinema",
+      "distance": "1.4 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=West%20Newton%20Cinema&query_place_id=ChIJ4c-nk_CC44kR18z8y8FwRH4&center=42.3491682,-71.2264545"
+    },
+    {
+      "name": "Embassy Theater Waltham",
+      "distance": "1.4 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Embassy%20Theater%20Waltham&query_place_id=ChIJV-13udmC44kRsEyTA91yoQY&center=42.3717564,-71.23575199999999"
+    },
+    {
+      "name": "Krisbelis",
+      "distance": "1.9 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Krisbelis&query_place_id=ChIJy2vT9QmD44kRNa6c7CT2ri0&center=42.3822701,-71.2369104"
+    }
+  ],
+  "fun": [
+    {
+      "name": "Karpinski Crossing",
+      "distance": "1.5 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Karpinski%20Crossing&query_place_id=ChIJs8RJdQCD44kRot6s7ianJ5o&center=42.373010400000005,-71.2362219"
+    },
+    {
+      "name": "Adams st shoe",
+      "distance": "1.6 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Adams%20st%20shoe&query_place_id=ChIJQ8LCbgCD44kRGcaFPxvI7Vc&center=42.3702062,-71.2395063"
+    },
+    {
+      "name": "Spray Park @ 200 Trapelo Road",
+      "distance": "1.9 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Spray%20Park%20%40%20200%20Trapelo%20Road&query_place_id=ChIJxa5LFACd44kR4p0Cxi_6be8&center=42.3930752,-71.2046292"
+    },
+    {
+      "name": "Escapology Escape Rooms Waltham",
+      "distance": "2.4 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Escapology%20Escape%20Rooms%20Waltham&query_place_id=ChIJ1auazbCD44kRPSGTNkP1xr8&center=42.375827699999995,-71.2528276"
+    }
+  ],
+  "hotels": [
+    {
+      "name": "Blueground | Bleachery, pool, nr Charles River",
+      "distance": "0.4 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Blueground%20%7C%20Bleachery%2C%20pool%2C%20nr%20Charles%20River&query_place_id=ChIJ90pqhceC44kRBiFeO6OhtbU&center=42.3679428,-71.21678159999999"
+    },
+    {
+      "name": "Blueground | Bleachery, pool, nr Charles River",
+      "distance": "0.4 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Blueground%20%7C%20Bleachery%2C%20pool%2C%20nr%20Charles%20River&query_place_id=ChIJ90pqhceC44kRSiu85NcFlX4&center=42.3679428,-71.21678159999999"
+    },
+    {
+      "name": "Blueground | Bleachery, pool, nr Charles River",
+      "distance": "0.4 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Blueground%20%7C%20Bleachery%2C%20pool%2C%20nr%20Charles%20River&query_place_id=ChIJ90pqhceC44kRmoD-yP-s4m8&center=42.3679428,-71.21678159999999"
+    },
+    {
+      "name": "Blueground | Bleachery, pool, nr Charles River",
+      "distance": "0.4 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Blueground%20%7C%20Bleachery%2C%20pool%2C%20nr%20Charles%20River&query_place_id=ChIJ90pqhceC44kRhygGQB-rcH0&center=42.3679428,-71.21678159999999"
+    }
+  ],
+  "gas": [
+    {
+      "name": "Citgo",
+      "distance": "0.1 mi",
+      "url": "https://www.google.com/maps/search/Citgo+near+42.365035299999995%2C-71.2089029"
+    },
+    {
+      "name": "AAA Auto Clinic",
+      "distance": "0.6 mi",
+      "url": "https://www.google.com/maps/search/AAA%20Auto%20Clinic+near+42.365035299999995%2C-71.2089029"
+    },
+    {
+      "name": "Shell",
+      "distance": "0.7 mi",
+      "url": "https://www.google.com/maps/search/Shell+near+42.365035299999995%2C-71.2089029"
+    },
+    {
+      "name": "Phillips 66",
+      "distance": "0.7 mi",
+      "url": "https://www.google.com/maps/search/Phillips%2066+near+42.365035299999995%2C-71.2089029"
+    }
+  ]
+}

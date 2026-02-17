@@ -1,0 +1,205 @@
+{
+  "quick_bite": [
+    {
+      "name": "Wendy's",
+      "distance": "0.5 mi",
+      "url": "https://www.google.com/maps/search/Wendy's+near+61.591371300000006%2C-149.1066693"
+    },
+    {
+      "name": "ZENSHI Handcrafted Sushi",
+      "distance": "0.6 mi",
+      "url": "https://www.google.com/maps/search/ZENSHI%20Handcrafted%20Sushi+near+61.591371300000006%2C-149.1066693"
+    },
+    {
+      "name": "Papa Murphy's | Take 'N' Bake Pizza",
+      "distance": "0.6 mi",
+      "url": "https://www.google.com/maps/search/Papa%20Murphy's%20%7C%20Take%20'N'%20Bake%20Pizza+near+61.591371300000006%2C-149.1066693"
+    },
+    {
+      "name": "Subway",
+      "distance": "0.7 mi",
+      "url": "https://www.google.com/maps/search/Subway+near+61.591371300000006%2C-149.1066693"
+    },
+    {
+      "name": "Dairy Queen Grill & Chill",
+      "distance": "0.7 mi",
+      "url": "https://www.google.com/maps/search/Dairy%20Queen%20Grill%20%26%20Chill+near+61.591371300000006%2C-149.1066693"
+    }
+  ],
+  "coffee": [
+    {
+      "name": "Alauda Coffeehouse",
+      "distance": "0.6 mi",
+      "url": "https://www.google.com/maps/search/Alauda%20Coffeehouse+near+61.591371300000006%2C-149.1066693"
+    },
+    {
+      "name": "Feather & Flour",
+      "distance": "0.6 mi",
+      "url": "https://www.google.com/maps/search/Feather%20%26%20Flour+near+61.591371300000006%2C-149.1066693"
+    },
+    {
+      "name": "Maximoose Coffee Cafe",
+      "distance": "0.7 mi",
+      "url": "https://www.google.com/maps/search/Maximoose%20Coffee%20Cafe+near+61.591371300000006%2C-149.1066693"
+    },
+    {
+      "name": "Vagabond Blues",
+      "distance": "0.7 mi",
+      "url": "https://www.google.com/maps/search/Vagabond%20Blues+near+61.591371300000006%2C-149.1066693"
+    },
+    {
+      "name": "Purple Moose Espresso",
+      "distance": "0.7 mi",
+      "url": "https://www.google.com/maps/search/Purple%20Moose%20Espresso+near+61.591371300000006%2C-149.1066693"
+    },
+    {
+      "name": "Valley Hotel & 24/7 Open Café",
+      "distance": "0.7 mi",
+      "url": "https://www.google.com/maps/search/Valley%20Hotel%20%26%2024%2F7%20Open%20Caf%C3%A9+near+61.591371300000006%2C-149.1066693"
+    },
+    {
+      "name": "The Fern AK",
+      "distance": "0.7 mi",
+      "url": "https://www.google.com/maps/search/The%20Fern%20AK+near+61.591371300000006%2C-149.1066693"
+    }
+  ],
+  "team_lunch": [
+    {
+      "name": "Great Alaska Pizza Co",
+      "distance": "0.7 mi",
+      "url": "https://www.google.com/maps/search/Great%20Alaska%20Pizza%20Co+near+61.591371300000006%2C-149.1066693"
+    }
+  ],
+  "dinner": [
+    {
+      "name": "Sweet Gypsy",
+      "distance": "0.5 mi",
+      "url": "https://www.google.com/maps/search/Sweet%20Gypsy+near+61.591371300000006%2C-149.1066693"
+    },
+    {
+      "name": "Sunrise Grill",
+      "distance": "0.5 mi",
+      "url": "https://www.google.com/maps/search/Sunrise%20Grill+near+61.591371300000006%2C-149.1066693"
+    },
+    {
+      "name": "Dead Horse Donuts",
+      "distance": "0.6 mi",
+      "url": "https://www.google.com/maps/search/Dead%20Horse%20Donuts+near+61.591371300000006%2C-149.1066693"
+    },
+    {
+      "name": "The Palmer Bar and Grill",
+      "distance": "0.6 mi",
+      "url": "https://www.google.com/maps/search/The%20Palmer%20Bar%20and%20Grill+near+61.591371300000006%2C-149.1066693"
+    },
+    {
+      "name": "Garcia's Grill & KM",
+      "distance": "0.6 mi",
+      "url": "https://www.google.com/maps/search/Garcia's%20Grill%20%26%20KM+near+61.591371300000006%2C-149.1066693"
+    },
+    {
+      "name": "Palmer Alehouse",
+      "distance": "0.6 mi",
+      "url": "https://www.google.com/maps/search/Palmer%20Alehouse+near+61.591371300000006%2C-149.1066693"
+    },
+    {
+      "name": "La Fiesta Restaurant",
+      "distance": "0.6 mi",
+      "url": "https://www.google.com/maps/search/La%20Fiesta%20Restaurant+near+61.591371300000006%2C-149.1066693"
+    }
+  ],
+  "bowling": [
+    {
+      "name": "North Bowl",
+      "distance": "8.6 mi",
+      "url": "https://www.google.com/maps/search/North%20Bowl+near+61.591371300000006%2C-149.1066693",
+      "isFar": true
+    }
+  ],
+  "arcade": [],
+  "movies": [
+    {
+      "name": "The Valley Cinema",
+      "distance": "8.7 mi",
+      "url": "https://www.google.com/maps/search/The%20Valley%20Cinema+near+61.591371300000006%2C-149.1066693",
+      "isFar": true
+    }
+  ],
+  "fun": [
+    {
+      "name": "Extreme Fun Center - Wasilla",
+      "distance": "8.5 mi",
+      "url": "https://www.google.com/maps/search/Extreme%20Fun%20Center%20-%20Wasilla+near+61.591371300000006%2C-149.1066693",
+      "isFar": true
+    },
+    {
+      "name": "Bouncin Bears",
+      "distance": "8.9 mi",
+      "url": "https://www.google.com/maps/search/Bouncin%20Bears+near+61.591371300000006%2C-149.1066693",
+      "isFar": true
+    }
+  ],
+  "hotels": [
+    {
+      "name": "Whispering Winds Senior Apartments",
+      "distance": "0.1 mi",
+      "url": "https://www.google.com/maps/search/Whispering%20Winds%20Senior%20Apartments+near+61.591371300000006%2C-149.1066693"
+    },
+    {
+      "name": "The GreenHouse - walk to the heart of Palmer, AK",
+      "distance": "0.2 mi",
+      "url": "https://www.google.com/maps/search/The%20GreenHouse%20-%20walk%20to%20the%20heart%20of%20Palmer%2C%20AK+near+61.591371300000006%2C-149.1066693"
+    },
+    {
+      "name": "Colony Estates",
+      "distance": "0.4 mi",
+      "url": "https://www.google.com/maps/search/Colony%20Estates+near+61.591371300000006%2C-149.1066693"
+    },
+    {
+      "name": "The Cozy Nest",
+      "distance": "0.4 mi",
+      "url": "https://www.google.com/maps/search/The%20Cozy%20Nest+near+61.591371300000006%2C-149.1066693"
+    },
+    {
+      "name": "Colony Suites",
+      "distance": "0.4 mi",
+      "url": "https://www.google.com/maps/search/Colony%20Suites+near+61.591371300000006%2C-149.1066693"
+    },
+    {
+      "name": "RV in Downtown Palmer, Close to Everything, Fiber-Fed WiFi",
+      "distance": "0.5 mi",
+      "url": "https://www.google.com/maps/search/RV%20in%20Downtown%20Palmer%2C%20Close%20to%20Everything%2C%20Fiber-Fed%20WiFi+near+61.591371300000006%2C-149.1066693"
+    },
+    {
+      "name": "Eagle Hotel",
+      "distance": "0.5 mi",
+      "url": "https://www.google.com/maps/search/Eagle%20Hotel+near+61.591371300000006%2C-149.1066693"
+    }
+  ],
+  "gas": [
+    {
+      "name": "Marathon",
+      "distance": "0.4 mi",
+      "url": "https://www.google.com/maps/search/Marathon+near+61.591371300000006%2C-149.1066693"
+    },
+    {
+      "name": "Tesoro",
+      "distance": "0.4 mi",
+      "url": "https://www.google.com/maps/search/Tesoro+near+61.591371300000006%2C-149.1066693"
+    },
+    {
+      "name": "Speedway Express",
+      "distance": "0.5 mi",
+      "url": "https://www.google.com/maps/search/Speedway%20Express+near+61.591371300000006%2C-149.1066693"
+    },
+    {
+      "name": "Chevron Denali Express",
+      "distance": "0.8 mi",
+      "url": "https://www.google.com/maps/search/Chevron%20Denali%20Express+near+61.591371300000006%2C-149.1066693"
+    },
+    {
+      "name": "Carrs Fuel Station",
+      "distance": "0.8 mi",
+      "url": "https://www.google.com/maps/search/Carrs%20Fuel%20Station+near+61.591371300000006%2C-149.1066693"
+    }
+  ]
+}

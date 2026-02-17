@@ -1,0 +1,208 @@
+{
+  "quick_bite": [
+    {
+      "name": "Hunt Brothers Pizza",
+      "distance": "0.3 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Hunt%20Brothers%20Pizza&query_place_id=ChIJtWzpeVHBCIgRQkYbiS9hAcE&center=42.2234246,-89.02801339999999"
+    },
+    {
+      "name": "Jimmy John's",
+      "distance": "0.4 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Jimmy%20John's&query_place_id=ChIJSQV9m6XACIgRtfqXc1dWls0&center=42.225124900000004,-89.0282352"
+    },
+    {
+      "name": "Burger King",
+      "distance": "0.4 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Burger%20King&query_place_id=ChIJczsG86XACIgRB8dsrchqE6E&center=42.226281,-89.0280506"
+    },
+    {
+      "name": "Beef-A-Roo",
+      "distance": "0.4 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Beef-A-Roo&query_place_id=ChIJXcYbrqXACIgR6RkDRf9DNiw&center=42.2252449,-89.0293701"
+    },
+    {
+      "name": "Subway",
+      "distance": "0.4 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Subway&query_place_id=ChIJLcCmt_DBCIgRw4WzOPoLcss&center=42.228434299999996,-89.02820450000002"
+    }
+  ],
+  "coffee": [
+    {
+      "name": "Geno's Retro Diner",
+      "distance": "0.5 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Geno's%20Retro%20Diner&query_place_id=ChIJRd-EQwDBCIgRhfO1jUEXZgQ&center=42.2242476,-89.0311313"
+    },
+    {
+      "name": "Starbucks Coffee Company",
+      "distance": "1.1 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Starbucks%20Coffee%20Company&query_place_id=ChIJXffqYFq_CIgRdTdL0J4rP4w&center=42.23928,-89.02861999999999"
+    },
+    {
+      "name": "Bucciferro Family McDonald's",
+      "distance": "2.6 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Bucciferro%20Family%20McDonald's&query_place_id=ChIJ89obqHPACIgRoGADF5Eb9CM&center=42.2256037,-89.07281400000001"
+    },
+    {
+      "name": "Bucciferro Family McDonald's",
+      "distance": "2.7 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Bucciferro%20Family%20McDonald's&query_place_id=ChIJxZf7ti-_CIgRu3RRrAjMLVM&center=42.2631106,-89.02552949999999"
+    }
+  ],
+  "team_lunch": [
+    {
+      "name": "Screw City Tavern",
+      "distance": "1.0 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Screw%20City%20Tavern&query_place_id=ChIJFbRZlKC_CIgRNR_GoiEaXfI&center=42.2370692,-89.0307196"
+    },
+    {
+      "name": "My Place Bar And Grill - Rockford IL",
+      "distance": "1.0 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=My%20Place%20Bar%20And%20Grill%20-%20Rockford%20IL&query_place_id=ChIJa_SQmFC_CIgRhBAPmxbTt68&center=42.2386392,-89.02733119999999"
+    },
+    {
+      "name": "Happy Wok",
+      "distance": "1.1 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Happy%20Wok&query_place_id=ChIJobegcra_CIgRm_gXW4JpJ-c&center=42.2391527,-89.0273765"
+    },
+    {
+      "name": "Da Catch - Harrison",
+      "distance": "1.1 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Da%20Catch%20-%20Harrison&query_place_id=ChIJIXmadci5CIgRqi0N_Hwh3GQ&center=42.2379545,-89.00872199999999"
+    },
+    {
+      "name": "Chilangos Authentic Mexican Cuisine",
+      "distance": "1.2 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Chilangos%20Authentic%20Mexican%20Cuisine&query_place_id=ChIJhXrj3qW4CIgRhWbu8pPporI&center=42.237186799999996,-89.00702849999999"
+    },
+    {
+      "name": "Zigsters Mini Donuts",
+      "distance": "1.6 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Zigsters%20Mini%20Donuts&query_place_id=ChIJOy0PYUe_CIgRPTdayCJOQZs&center=42.2473354,-89.0216088"
+    }
+  ],
+  "dinner": [
+    {
+      "name": "Koo’s Bento & Bowl",
+      "distance": "0.4 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Koo%E2%80%99s%20Bento%20%26%20Bowl&query_place_id=ChIJoeuOhmjBCIgRZgWPr8lpUig&center=42.2285591,-89.0276479"
+    },
+    {
+      "name": "Marrufo's Tacos",
+      "distance": "0.4 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Marrufo's%20Tacos&query_place_id=ChIJM4mrs4_BCIgRLSvQfR3jGFo&center=42.2284833,-89.0279711"
+    },
+    {
+      "name": "5 Coins Restaurant LLC",
+      "distance": "0.5 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=5%20Coins%20Restaurant%20LLC&query_place_id=ChIJC-6ibqXACIgR_TQ2-4B7MFI&center=42.2242476,-89.0311313"
+    },
+    {
+      "name": "New Italia",
+      "distance": "1.0 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=New%20Italia&query_place_id=ChIJAZar21u_CIgROgmFSIhg6V0&center=42.237326599999996,-89.03070000000001"
+    },
+    {
+      "name": "Spider Sushi at Harrison",
+      "distance": "1.0 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Spider%20Sushi%20at%20Harrison&query_place_id=ChIJseEN14q_CIgRSFLL2v6BYFQ&center=42.2377982,-89.0304546"
+    },
+    {
+      "name": "Banana Cherry Bakery",
+      "distance": "2.2 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Banana%20Cherry%20Bakery&query_place_id=ChIJtc43Szi_CIgRwWpU6zVmd9c&center=42.2551383,-89.0285341"
+    }
+  ],
+  "bowling": [
+    {
+      "name": "Tilted 10",
+      "distance": "2.9 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Tilted%2010&query_place_id=ChIJXwhjRY-5CIgR1nca-pvKmYw&center=42.2460435,-88.9737976"
+    },
+    {
+      "name": "Don Carter Lanes",
+      "distance": "2.9 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Don%20Carter%20Lanes&query_place_id=ChIJw7HzciK_CIgRxfXLfQ5wGvw&center=42.2647948,-89.03592789999999"
+    },
+    {
+      "name": "The Cherry Bowl",
+      "distance": "2.9 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=The%20Cherry%20Bowl&query_place_id=ChIJAd_x3GC4CIgR_Jdx0fNyhBE&center=42.2494441,-88.9759538"
+    }
+  ],
+  "arcade": [],
+  "movies": [
+    {
+      "name": "AMC Rockford 16",
+      "distance": "4.7 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=AMC%20Rockford%2016&query_place_id=ChIJ96tJLDO4CIgRZnGZuvWXa-A&center=42.2706166,-88.9533294",
+      "isFar": true
+    }
+  ],
+  "fun": [
+    {
+      "name": "815 Escape",
+      "distance": "2.8 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=815%20Escape&query_place_id=ChIJZQtYLR6_CIgR3Do1j8HDsFY&center=42.264305199999995,-89.0326432"
+    },
+    {
+      "name": "Flow Supreme Air Sports",
+      "distance": "2.8 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Flow%20Supreme%20Air%20Sports&query_place_id=ChIJsbkGpBu5CIgReoSkgA0I_Kc&center=42.2643795,-89.0091522"
+    },
+    {
+      "name": "Brass Ring Amusements",
+      "distance": "2.9 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Brass%20Ring%20Amusements&query_place_id=ChIJw7HzciK_CIgROBhfuOoMA4g&center=42.2648036,-89.03595779999999"
+    },
+    {
+      "name": "Hurricane Harbor Rockford",
+      "distance": "3.4 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Hurricane%20Harbor%20Rockford&query_place_id=ChIJaRDwLmq4CIgRppNXJkjzMG8&center=42.246158,-88.96275",
+      "isFar": true
+    }
+  ],
+  "hotels": [
+    {
+      "name": "Presidential Suite Vibes Black White&Gray Garage",
+      "distance": "1.7 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Presidential%20Suite%20Vibes%20Black%20White%26Gray%20Garage&query_place_id=ChIJCXcWxLS4CIgRkbGC25_JfXw&center=42.2484398,-89.0171051"
+    },
+    {
+      "name": "Presidential Suite Vibes Black WhiteGray Garage",
+      "distance": "1.7 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Presidential%20Suite%20Vibes%20Black%20WhiteGray%20Garage&query_place_id=ChIJM6AWxLS4CIgRkr9Pc18UNOc&center=42.2484398,-89.01709749999999"
+    },
+    {
+      "name": "3 Mi to Hospitals: Inviting Rockford Home w/ Yard!",
+      "distance": "2.0 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=3%20Mi%20to%20Hospitals%3A%20Inviting%20Rockford%20Home%20w%2F%20Yard!&query_place_id=ChIJlUM1imu_CIgRmMXjRDgKxzE&center=42.248516099999996,-89.04167939999999"
+    },
+    {
+      "name": "Rey Relief Luxury Restrooms",
+      "distance": "2.0 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Rey%20Relief%20Luxury%20Restrooms&query_place_id=ChIJX7R5bWW_CIgRnSADO-gP1Qs&center=42.253464799999996,-89.0270943"
+    }
+  ],
+  "gas": [
+    {
+      "name": "Phillips 66",
+      "distance": "0.3 mi",
+      "url": "https://www.google.com/maps/search/Phillips%2066+near+42.224398699999995%2C-89.0214601"
+    },
+    {
+      "name": "CITGO",
+      "distance": "0.4 mi",
+      "url": "https://www.google.com/maps/search/CITGO+near+42.224398699999995%2C-89.0214601"
+    },
+    {
+      "name": "Shell",
+      "distance": "0.5 mi",
+      "url": "https://www.google.com/maps/search/Shell+near+42.224398699999995%2C-89.0214601"
+    },
+    {
+      "name": "Mobil",
+      "distance": "0.7 mi",
+      "url": "https://www.google.com/maps/search/Mobil+near+42.224398699999995%2C-89.0214601"
+    }
+  ]
+}

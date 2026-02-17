@@ -1,0 +1,228 @@
+{
+  "quick_bite": [
+    {
+      "name": "Slices & Fried Chicken Pizzeria",
+      "distance": "1.2 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Slices%20%26%20Fried%20Chicken%20Pizzeria&query_place_id=ChIJV1apY5yB5IkRxmQMrKmG5wQ&center=42.1753777,-71.1125675"
+    },
+    {
+      "name": "Grand Slam Pizza & Roast Beef",
+      "distance": "1.3 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Grand%20Slam%20Pizza%20%26%20Roast%20Beef&query_place_id=ChIJNwZmVZyB5IkR04IcyrXN6oA&center=42.1734599,-71.1121047"
+    },
+    {
+      "name": "Chipotle Mexican Grill",
+      "distance": "2.0 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Chipotle%20Mexican%20Grill&query_place_id=ChIJF6bWHTGA5IkR9aCQMj04T8E&center=42.204538899999996,-71.15359339999999"
+    },
+    {
+      "name": "Smashburger",
+      "distance": "2.1 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Smashburger&query_place_id=ChIJJxBLAzGA5IkRKfWnctSIb_E&center=42.2049762,-71.1533675"
+    },
+    {
+      "name": "Not Your Average Joe's - Westwood",
+      "distance": "2.1 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Not%20Your%20Average%20Joe's%20-%20Westwood&query_place_id=ChIJA7uY9iuA5IkRWa8btDeynRY&center=42.2095014,-71.15019079999999"
+    },
+    {
+      "name": "Panda Express",
+      "distance": "2.1 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Panda%20Express&query_place_id=ChIJiUCwhueB5IkRULFcnNJ7yZA&center=42.207424499999995,-71.15211930000001"
+    }
+  ],
+  "coffee": [
+    {
+      "name": "Dunkin'",
+      "distance": "1.2 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Dunkin'&query_place_id=ChIJvYeob-CB5IkRhX5IbX4o8z8&center=42.2089151,-71.12040619999999"
+    },
+    {
+      "name": "Dunkin'",
+      "distance": "1.3 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Dunkin'&query_place_id=ChIJ8Z5U45yB5IkRbRHVTRikIH4&center=42.1736286,-71.1113087"
+    },
+    {
+      "name": "Rise & Thrive Eduction Inc.",
+      "distance": "1.6 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Rise%20%26%20Thrive%20Eduction%20Inc.&query_place_id=ChIJWe2_ldt944kRuQjX7KyxlUA&center=42.2081818,-71.0945122"
+    },
+    {
+      "name": "Dunkin'",
+      "distance": "2.0 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Dunkin'&query_place_id=ChIJr3uhgO6B5IkR5OYbi81pU_Y&center=42.2103877,-71.14749739999999"
+    },
+    {
+      "name": "Starbucks Coffee Company",
+      "distance": "2.1 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Starbucks%20Coffee%20Company&query_place_id=ChIJveNxcC6A5IkRiFOqgIgPakY&center=42.208259999999996,-71.15168"
+    }
+  ],
+  "team_lunch": [
+    {
+      "name": "Mai Kitchen Restaurant",
+      "distance": "1.2 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Mai%20Kitchen%20Restaurant&query_place_id=ChIJIR1KVACB5IkR0STdHERXJ9Q&center=42.1752069,-71.1126726"
+    },
+    {
+      "name": "Mirob Management",
+      "distance": "1.3 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Mirob%20Management&query_place_id=ChIJBfnVMoOB5IkRMD53fFXKiVM&center=42.1733587,-71.10910659999999"
+    },
+    {
+      "name": "Topgolf Boston - Canton",
+      "distance": "1.7 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Topgolf%20Boston%20-%20Canton&query_place_id=ChIJEcUz3LWB5IkRAneAtHjs2H8&center=42.194418899999995,-71.15115639999999"
+    },
+    {
+      "name": "Manje a",
+      "distance": "3.1 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Manje%20a&query_place_id=ChIJBVsAPQCB5IkRv5H514xiZHM&center=42.1530516,-71.14827199999999",
+      "isFar": true
+    },
+    {
+      "name": "Dr. Finn T. Esrason, DMD",
+      "distance": "3.6 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Dr.%20Finn%20T.%20Esrason%2C%20DMD&query_place_id=ChIJ6csO8lOC5IkRZP9sbq5qGMc&center=42.1649093,-71.0568847",
+      "isFar": true
+    },
+    {
+      "name": "Savory Sweets",
+      "distance": "3.7 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Savory%20Sweets&query_place_id=ChIJB2dCVwOA5IkRYIN3gk_B2vM&center=42.2177845,-71.1802067",
+      "isFar": true
+    }
+  ],
+  "dinner": [
+    {
+      "name": "Tama Japanese Ramen & Bar",
+      "distance": "1.2 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Tama%20Japanese%20Ramen%20%26%20Bar&query_place_id=ChIJ9evXQAWB5IkRSPOidZGRYRQ&center=42.2089011,-71.120386"
+    },
+    {
+      "name": "D'Angelo Grilled Sandwiches",
+      "distance": "1.2 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=D'Angelo%20Grilled%20Sandwiches&query_place_id=ChIJa9ak-ZyB5IkRA5gA049Uhn4&center=42.1742608,-71.11233299999999"
+    },
+    {
+      "name": "El Barrio Cafe",
+      "distance": "1.3 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=El%20Barrio%20Cafe&query_place_id=ChIJafpwxi6B5IkRCYfXMbl_DI8&center=42.2074548,-71.1317985"
+    },
+    {
+      "name": "Birdies Hot Chicken",
+      "distance": "2.1 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Birdies%20Hot%20Chicken&query_place_id=ChIJsQVHSLOB5IkRcYHSKWuBZXQ&center=42.207157099999996,-71.1521486"
+    },
+    {
+      "name": "Poke Bros.",
+      "distance": "2.1 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Poke%20Bros.&query_place_id=ChIJu99s1yuB5IkRt3OTz_md-ks&center=42.2073731,-71.1520354"
+    },
+    {
+      "name": "Sweet Piglet Bakery + Cafe",
+      "distance": "2.9 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Sweet%20Piglet%20Bakery%20%2B%20Cafe&query_place_id=ChIJBUCHvfyD5IkRiaPd-_375sU&center=42.1943209,-71.0608914"
+    }
+  ],
+  "bowling": [],
+  "arcade": [],
+  "movies": [
+    {
+      "name": "Showcase Cinema de Lux Randolph",
+      "distance": "3.5 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Showcase%20Cinema%20de%20Lux%20Randolph&query_place_id=ChIJW3K-rVKC5IkRe2vs4HoyfdA&center=42.163228499999995,-71.06185289999999",
+      "isFar": true
+    },
+    {
+      "name": "Showcase Cinema de Lux Legacy Place",
+      "distance": "4.0 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Showcase%20Cinema%20de%20Lux%20Legacy%20Place&query_place_id=ChIJFUCNm-9_44kRf1AFT6Ovv1U&center=42.2300379,-71.1760644",
+      "isFar": true
+    },
+    {
+      "name": "AMC Braintree 10",
+      "distance": "4.7 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=AMC%20Braintree%2010&query_place_id=ChIJD85XkxN944kRY74aEWE40p8&center=42.218292299999995,-71.0329616",
+      "isFar": true
+    }
+  ],
+  "fun": [
+    {
+      "name": "Houghton's Pond Refreshment Pavillion",
+      "distance": "1.6 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Houghton's%20Pond%20Refreshment%20Pavillion&query_place_id=ChIJX1QeBsN944kRkS3pM2bw0Io&center=42.2087983,-71.09727749999999"
+    },
+    {
+      "name": "Canale Christmas Lights",
+      "distance": "2.9 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Canale%20Christmas%20Lights&query_place_id=ChIJpdX06sx_44kR0fqFpbIEANA&center=42.232625399999996,-71.12934740000001"
+    },
+    {
+      "name": "Launch Family Entertainment Park Norwood",
+      "distance": "3.3 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Launch%20Family%20Entertainment%20Park%20Norwood&query_place_id=ChIJIzpoYHqA5IkRqSOLcuH4iQc&center=42.1915401,-71.182446",
+      "isFar": true
+    },
+    {
+      "name": "The Escape Game Dedham",
+      "distance": "4.1 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=The%20Escape%20Game%20Dedham&query_place_id=ChIJuW6ZQAx_44kRa1IallmGUos&center=42.2311078,-71.1769437",
+      "isFar": true
+    }
+  ],
+  "hotels": [
+    {
+      "name": "Homewood Suites by Hilton Boston/Canton, MA",
+      "distance": "1.1 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Homewood%20Suites%20by%20Hilton%20Boston%2FCanton%2C%20MA&query_place_id=ChIJvSbIQd6B5IkR5JHmU89BDYg&center=42.207540699999996,-71.1223447"
+    },
+    {
+      "name": "Hilton Garden Inn Boston Canton",
+      "distance": "1.2 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Hilton%20Garden%20Inn%20Boston%20Canton&query_place_id=ChIJd_b2aNmB5IkR3sI9Bfx0SBI&center=42.2069331,-71.1274607"
+    },
+    {
+      "name": "AMC Ponkapoag Camp",
+      "distance": "1.4 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=AMC%20Ponkapoag%20Camp&query_place_id=ChIJFWtKhBqC5IkRSUChIgDuzUM&center=42.186335899999996,-71.0920093"
+    },
+    {
+      "name": "Newly renovated...3 Bed/2 Bath close to Boston, Gillette Stadium & trains.",
+      "distance": "1.4 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Newly%20renovated...3%20Bed%2F2%20Bath%20close%20to%20Boston%2C%20Gillette%20Stadium%20%26%20trains.&query_place_id=ChIJVRD4E6iB5IkRonkJY4mvOF0&center=42.1757774,-71.134079"
+    },
+    {
+      "name": "Newly renovated...3 Bed /2 Bath close to Boston, Gillette Stadium trains.",
+      "distance": "1.4 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Newly%20renovated...3%20Bed%20%2F2%20Bath%20close%20to%20Boston%2C%20Gillette%20Stadium%20trains.&query_place_id=ChIJ1Yj4E6iB5IkRu9j5zvwVtMs&center=42.1757698,-71.134079"
+    },
+    {
+      "name": "Newly renovated...3 Bed/2 Bath close to Boston, Gillette Stadium & trains.",
+      "distance": "1.6 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Newly%20renovated...3%20Bed%2F2%20Bath%20close%20to%20Boston%2C%20Gillette%20Stadium%20%26%20trains.&query_place_id=ChIJTYCQFAeB5IkR_xkx9tgFR-A&center=42.1740685,-71.1371003"
+    }
+  ],
+  "gas": [
+    {
+      "name": "Blue Hill Express",
+      "distance": "1.1 mi",
+      "url": "https://www.google.com/maps/search/Blue%20Hill%20Express+near+42.1917021%2C-71.1175451"
+    },
+    {
+      "name": "Shell",
+      "distance": "1.1 mi",
+      "url": "https://www.google.com/maps/search/Shell+near+42.1917021%2C-71.1175451"
+    },
+    {
+      "name": "Mobil",
+      "distance": "1.1 mi",
+      "url": "https://www.google.com/maps/search/Mobil+near+42.1917021%2C-71.1175451"
+    },
+    {
+      "name": "Rt 138 Sunoco",
+      "distance": "1.2 mi",
+      "url": "https://www.google.com/maps/search/Rt%20138%20Sunoco+near+42.1917021%2C-71.1175451"
+    }
+  ]
+}

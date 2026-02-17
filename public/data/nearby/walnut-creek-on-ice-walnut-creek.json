@@ -1,0 +1,240 @@
+{
+  "quick_bite": [
+    {
+      "name": "Round Table Pizza",
+      "distance": "0.1 mi",
+      "url": "https://www.google.com/maps/search/Round%20Table%20Pizza+near+37.9029938%2C-122.06005069999999"
+    },
+    {
+      "name": "Burger King",
+      "distance": "0.1 mi",
+      "url": "https://www.google.com/maps/search/Burger%20King+near+37.9029938%2C-122.06005069999999"
+    },
+    {
+      "name": "Cinemark Century Walnut Creek 14 and XD",
+      "distance": "0.5 mi",
+      "url": "https://www.google.com/maps/search/Cinemark%20Century%20Walnut%20Creek%2014%20and%20XD+near+37.9029938%2C-122.06005069999999"
+    },
+    {
+      "name": "Cinemark Century Downtown Pleasant Hill 16 and XD",
+      "distance": "2.9 mi",
+      "url": "https://www.google.com/maps/search/Cinemark%20Century%20Downtown%20Pleasant%20Hill%2016%20and%20XD+near+37.9029938%2C-122.06005069999999"
+    },
+    {
+      "name": "Chuck E. Cheese",
+      "distance": "4.8 mi",
+      "url": "https://www.google.com/maps/search/Chuck%20E.%20Cheese+near+37.9029938%2C-122.06005069999999",
+      "isFar": true
+    }
+  ],
+  "coffee": [
+    {
+      "name": "Prologue Coffee & Tea",
+      "distance": "0.1 mi",
+      "url": "https://www.google.com/maps/search/Prologue%20Coffee%20%26%20Tea+near+37.9029938%2C-122.06005069999999"
+    },
+    {
+      "name": "Walnut Creek Library Cafe",
+      "distance": "0.1 mi",
+      "url": "https://www.google.com/maps/search/Walnut%20Creek%20Library%20Cafe+near+37.9029938%2C-122.06005069999999"
+    },
+    {
+      "name": "Caffè La Scala",
+      "distance": "0.2 mi",
+      "url": "https://www.google.com/maps/search/Caff%C3%A8%20La%20Scala+near+37.9029938%2C-122.06005069999999"
+    },
+    {
+      "name": "Sweet Maple",
+      "distance": "0.2 mi",
+      "url": "https://www.google.com/maps/search/Sweet%20Maple+near+37.9029938%2C-122.06005069999999"
+    }
+  ],
+  "team_lunch": [
+    {
+      "name": "Ruby Lou’s Boujee Bites & Games",
+      "distance": "0.2 mi",
+      "url": "https://www.google.com/maps/search/Ruby%20Lou%E2%80%99s%20Boujee%20Bites%20%26%20Games+near+37.9029938%2C-122.06005069999999"
+    },
+    {
+      "name": "WC kitchen & bar",
+      "distance": "0.2 mi",
+      "url": "https://www.google.com/maps/search/WC%20kitchen%20%26%20bar+near+37.9029938%2C-122.06005069999999"
+    }
+  ],
+  "dinner": [
+    {
+      "name": "Chicken Pie Shop",
+      "distance": "0.1 mi",
+      "url": "https://www.google.com/maps/search/Chicken%20Pie%20Shop+near+37.9029938%2C-122.06005069999999"
+    },
+    {
+      "name": "Benvenuti Ristorante",
+      "distance": "0.1 mi",
+      "url": "https://www.google.com/maps/search/Benvenuti%20Ristorante+near+37.9029938%2C-122.06005069999999"
+    },
+    {
+      "name": "IKOI Sushi -- Walnut Creek",
+      "distance": "0.1 mi",
+      "url": "https://www.google.com/maps/search/IKOI%20Sushi%20--%20Walnut%20Creek+near+37.9029938%2C-122.06005069999999"
+    },
+    {
+      "name": "Rosa's Fajita Cantina",
+      "distance": "0.1 mi",
+      "url": "https://www.google.com/maps/search/Rosa's%20Fajita%20Cantina+near+37.9029938%2C-122.06005069999999"
+    },
+    {
+      "name": "Burma 2",
+      "distance": "0.2 mi",
+      "url": "https://www.google.com/maps/search/Burma%202+near+37.9029938%2C-122.06005069999999"
+    },
+    {
+      "name": "La Sen Bistro WC",
+      "distance": "0.2 mi",
+      "url": "https://www.google.com/maps/search/La%20Sen%20Bistro%20WC+near+37.9029938%2C-122.06005069999999"
+    },
+    {
+      "name": "Montecatini Ristorante & Bar",
+      "distance": "0.2 mi",
+      "url": "https://www.google.com/maps/search/Montecatini%20Ristorante%20%26%20Bar+near+37.9029938%2C-122.06005069999999"
+    }
+  ],
+  "bowling": [
+    {
+      "name": "Round1 Bowling & Arcade Sunvalley Shopping Center",
+      "distance": "4.5 mi",
+      "url": "https://www.google.com/maps/search/Round1%20Bowling%20%26%20Arcade%20Sunvalley%20Shopping%20Center+near+37.9029938%2C-122.06005069999999",
+      "isFar": true
+    }
+  ],
+  "arcade": [],
+  "movies": [
+    {
+      "name": "Peacock Hall",
+      "distance": "2.4 mi",
+      "url": "https://www.google.com/maps/search/Peacock%20Hall+near+37.9029938%2C-122.06005069999999"
+    },
+    {
+      "name": "The Park Theater",
+      "distance": "3.2 mi",
+      "url": "https://www.google.com/maps/search/The%20Park%20Theater+near+37.9029938%2C-122.06005069999999",
+      "isFar": true
+    },
+    {
+      "name": "CinemaWest Veranda LUXE Cinema IMAX & ScreenX",
+      "distance": "4.7 mi",
+      "url": "https://www.google.com/maps/search/CinemaWest%20Veranda%20LUXE%20Cinema%20IMAX%20%26%20ScreenX+near+37.9029938%2C-122.06005069999999",
+      "isFar": true
+    },
+    {
+      "name": "CinemaWest Rheem Theatre & Giant Screen with Laser",
+      "distance": "4.7 mi",
+      "url": "https://www.google.com/maps/search/CinemaWest%20Rheem%20Theatre%20%26%20Giant%20Screen%20with%20Laser+near+37.9029938%2C-122.06005069999999",
+      "isFar": true
+    }
+  ],
+  "fun": [
+    {
+      "name": "Water Light Public Plaza",
+      "distance": "0.3 mi",
+      "url": "https://www.google.com/maps/search/Water%20Light%20Public%20Plaza+near+37.9029938%2C-122.06005069999999"
+    },
+    {
+      "name": "Diablo Escapes",
+      "distance": "0.5 mi",
+      "url": "https://www.google.com/maps/search/Diablo%20Escapes+near+37.9029938%2C-122.06005069999999"
+    },
+    {
+      "name": "Sky Zone Trampoline Park",
+      "distance": "2.9 mi",
+      "url": "https://www.google.com/maps/search/Sky%20Zone%20Trampoline%20Park+near+37.9029938%2C-122.06005069999999"
+    },
+    {
+      "name": "Rockin Jump Concord",
+      "distance": "4.3 mi",
+      "url": "https://www.google.com/maps/search/Rockin%20Jump%20Concord+near+37.9029938%2C-122.06005069999999",
+      "isFar": true
+    },
+    {
+      "name": "Pump It Up Concord Kids Birthdays and More",
+      "distance": "4.3 mi",
+      "url": "https://www.google.com/maps/search/Pump%20It%20Up%20Concord%20Kids%20Birthdays%20and%20More+near+37.9029938%2C-122.06005069999999",
+      "isFar": true
+    },
+    {
+      "name": "ATG Escape Rooms",
+      "distance": "4.7 mi",
+      "url": "https://www.google.com/maps/search/ATG%20Escape%20Rooms+near+37.9029938%2C-122.06005069999999",
+      "isFar": true
+    },
+    {
+      "name": "Game Show Studio Concord",
+      "distance": "4.7 mi",
+      "url": "https://www.google.com/maps/search/Game%20Show%20Studio%20Concord+near+37.9029938%2C-122.06005069999999",
+      "isFar": true
+    }
+  ],
+  "hotels": [
+    {
+      "name": "Work , Live , Entertain and Play in Downtown Walnut Creek!!",
+      "distance": "0.1 mi",
+      "url": "https://www.google.com/maps/search/Work%20%2C%20Live%20%2C%20Entertain%20and%20Play%20in%20Downtown%20Walnut%20Creek!!+near+37.9029938%2C-122.06005069999999"
+    },
+    {
+      "name": "Elevator-King Bed-Walk Downtown-Free Garage Parking-Laundry - Two-Bedroom Apartment",
+      "distance": "0.1 mi",
+      "url": "https://www.google.com/maps/search/Elevator-King%20Bed-Walk%20Downtown-Free%20Garage%20Parking-Laundry%20-%20Two-Bedroom%20Apartment+near+37.9029938%2C-122.06005069999999"
+    },
+    {
+      "name": "Elevator-Work Here-Gig WiFi-King Bed-Laundry in unit",
+      "distance": "0.1 mi",
+      "url": "https://www.google.com/maps/search/Elevator-Work%20Here-Gig%20WiFi-King%20Bed-Laundry%20in%20unit+near+37.9029938%2C-122.06005069999999"
+    },
+    {
+      "name": "Bright Top Floor-Elevator-Walk Downtown-Laundry",
+      "distance": "0.1 mi",
+      "url": "https://www.google.com/maps/search/Bright%20Top%20Floor-Elevator-Walk%20Downtown-Laundry+near+37.9029938%2C-122.06005069999999"
+    },
+    {
+      "name": "Bright Views, Elevator, Garage",
+      "distance": "0.1 mi",
+      "url": "https://www.google.com/maps/search/Bright%20Views%2C%20Elevator%2C%20Garage+near+37.9029938%2C-122.06005069999999"
+    },
+    {
+      "name": "Dogs Stay Free • Luxe Downtown Apt • King Bed • Garage Parking • In-Unit W/D",
+      "distance": "0.1 mi",
+      "url": "https://www.google.com/maps/search/Dogs%20Stay%20Free%20%E2%80%A2%20Luxe%20Downtown%20Apt%20%E2%80%A2%20King%20Bed%20%E2%80%A2%20Garage%20Parking%20%E2%80%A2%20In-Unit%20W%2FD+near+37.9029938%2C-122.06005069999999"
+    },
+    {
+      "name": "Pets Stay Free • Private Terrace • Elevator • King Beds • In-Unit W/D",
+      "distance": "0.1 mi",
+      "url": "https://www.google.com/maps/search/Pets%20Stay%20Free%20%E2%80%A2%20Private%20Terrace%20%E2%80%A2%20Elevator%20%E2%80%A2%20King%20Beds%20%E2%80%A2%20In-Unit%20W%2FD+near+37.9029938%2C-122.06005069999999"
+    }
+  ],
+  "gas": [
+    {
+      "name": "ANDOIL",
+      "distance": "0.2 mi",
+      "url": "https://www.google.com/maps/search/ANDOIL+near+37.9029938%2C-122.06005069999999"
+    },
+    {
+      "name": "76",
+      "distance": "0.3 mi",
+      "url": "https://www.google.com/maps/search/76+near+37.9029938%2C-122.06005069999999"
+    },
+    {
+      "name": "Chevron",
+      "distance": "0.3 mi",
+      "url": "https://www.google.com/maps/search/Chevron+near+37.9029938%2C-122.06005069999999"
+    },
+    {
+      "name": "Speedway Express",
+      "distance": "0.3 mi",
+      "url": "https://www.google.com/maps/search/Speedway%20Express+near+37.9029938%2C-122.06005069999999"
+    },
+    {
+      "name": "Chevron",
+      "distance": "0.4 mi",
+      "url": "https://www.google.com/maps/search/Chevron+near+37.9029938%2C-122.06005069999999"
+    }
+  ]
+}

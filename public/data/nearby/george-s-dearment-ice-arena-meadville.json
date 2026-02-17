@@ -1,0 +1,181 @@
+{
+  "quick_bite": [
+    {
+      "name": "Pennsylvania Sandwich & Pizza Co",
+      "distance": "1.2 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Pennsylvania%20Sandwich%20%26%20Pizza%20Co&query_place_id=ChIJPdCQVnFXMogRAs8fhsAW6hk&center=41.6404421,-80.1487518"
+    },
+    {
+      "name": "Vocelli Pizza",
+      "distance": "1.3 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Vocelli%20Pizza&query_place_id=ChIJvfi8unJXMogRZ85hYg4Xs6c&center=41.6362015,-80.1528187"
+    },
+    {
+      "name": "Wendy's",
+      "distance": "1.3 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Wendy's&query_place_id=ChIJEysGUw1XMogRbJELjbjj3gY&center=41.6360071,-80.15308499999999"
+    },
+    {
+      "name": "Burger King",
+      "distance": "1.3 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Burger%20King&query_place_id=ChIJxzpNgXFXMogRHBO9HQSsomE&center=41.640772899999995,-80.1511505"
+    },
+    {
+      "name": "Little Caesars Pizza",
+      "distance": "1.4 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Little%20Caesars%20Pizza&query_place_id=ChIJS8Y9g3FXMogRV0reZFKE16Q&center=41.641293999999995,-80.151207"
+    }
+  ],
+  "coffee": [
+    {
+      "name": "Morning Glories Trauma & Recovery Cafe",
+      "distance": "1.1 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Morning%20Glories%20Trauma%20%26%20Recovery%20Cafe&query_place_id=ChIJn75IdnFXMogRHMnMYb1V88I&center=41.6367399,-80.1488768"
+    },
+    {
+      "name": "Lucantino’s Trattoria",
+      "distance": "1.3 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Lucantino%E2%80%99s%20Trattoria&query_place_id=ChIJySX8y8pXMogRnAJk7poYxgM&center=41.636779399999995,-80.1511526"
+    },
+    {
+      "name": "205°Fahrenheit",
+      "distance": "1.3 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=205%C2%B0Fahrenheit&query_place_id=ChIJr0ujYABXMogRRbi7R3XXMJ4&center=41.6401915,-80.1497231"
+    },
+    {
+      "name": "French Creek Coffee and Tea Co.",
+      "distance": "1.3 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=French%20Creek%20Coffee%20and%20Tea%20Co.&query_place_id=ChIJkT3Wi3JXMogRsUwlSPbPD2E&center=41.6380147,-80.1518179"
+    }
+  ],
+  "team_lunch": [
+    {
+      "name": "ORCHESTRATE",
+      "distance": "1.2 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=ORCHESTRATE&query_place_id=ChIJY44nN99XMogRrb63mxO8f2Y&center=41.636955199999996,-80.1509264"
+    }
+  ],
+  "dinner": [
+    {
+      "name": "Munch & Paint Co. Catering",
+      "distance": "1.1 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Munch%20%26%20Paint%20Co.%20Catering&query_place_id=ChIJ63553aZXMogRAl8-jNRNUyU&center=41.6367399,-80.1488768"
+    },
+    {
+      "name": "Pizza Villa",
+      "distance": "1.2 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Pizza%20Villa&query_place_id=ChIJyw0_GHNXMogRTnM5ib7iEd0&center=41.6369438,-80.15084829999999"
+    },
+    {
+      "name": "Julian's Bar & Grill",
+      "distance": "1.3 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Julian's%20Bar%20%26%20Grill&query_place_id=ChIJrfS0_nJXMogR_DiSz5u4qoI&center=41.6379595,-80.1514323"
+    },
+    {
+      "name": "Mannino Italian Garden",
+      "distance": "1.3 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Mannino%20Italian%20Garden&query_place_id=ChIJTwf89nJXMogRp49RRVHrG7o&center=41.63809,-80.15193909999999"
+    },
+    {
+      "name": "Market House Grille",
+      "distance": "1.3 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Market%20House%20Grille&query_place_id=ChIJE-dffHJXMogRig0NFTQgV0g&center=41.6378978,-80.15232670000002"
+    },
+    {
+      "name": "Diamonds All Star Grille",
+      "distance": "1.3 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Diamonds%20All%20Star%20Grille&query_place_id=ChIJvcBoWgNXMogRNHspdRC6gTM&center=41.637809999999995,-80.15236139999999"
+    }
+  ],
+  "bowling": [
+    {
+      "name": "Plaza Lanes Meadville",
+      "distance": "2.0 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Plaza%20Lanes%20Meadville&query_place_id=ChIJjQsdGB9XMogRwmNtzT_SgaY&center=41.6202087,-80.16227719999999"
+    },
+    {
+      "name": "Lakeside Lanes",
+      "distance": "8.4 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Lakeside%20Lanes&query_place_id=ChIJl8Qj3TFOMogRMK6pmxBfhhk&center=41.616134599999995,-80.288208",
+      "isFar": true
+    },
+    {
+      "name": "Cochranton Lanes LLC",
+      "distance": "8.8 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Cochranton%20Lanes%20LLC&query_place_id=ChIJZ_GibVL-MogRhxguNTGZirs&center=41.5181808,-80.0518112",
+      "isFar": true
+    }
+  ],
+  "arcade": [],
+  "movies": [
+    {
+      "name": "The Movies at Meadville",
+      "distance": "4.1 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=The%20Movies%20at%20Meadville&query_place_id=ChIJX4s3nHFXMogRbzX2EGrFxE4&center=41.6196238,-80.20477029999999",
+      "isFar": true
+    }
+  ],
+  "fun": [
+    {
+      "name": "Solar Powered Seating",
+      "distance": "1.4 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Solar%20Powered%20Seating&query_place_id=ChIJm3X0VFxXMogRDH_0y-ETjXk&center=41.6375136,-80.1536952"
+    },
+    {
+      "name": "GMG Clubhouse",
+      "distance": "1.7 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=GMG%20Clubhouse&query_place_id=ChIJvbn1GwD5MogR1oVVVRJ5t6U&center=41.635398099999996,-80.0939142"
+    },
+    {
+      "name": "Conneaut Lake Kame",
+      "distance": "7.8 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Conneaut%20Lake%20Kame&query_place_id=ChIJCUXqHQBRMogRHWwXCXcGuFY&center=41.6181001,-80.2765264",
+      "isFar": true
+    },
+    {
+      "name": "Cascade creek portfolio/designs by Ms.Vickie M Coulter",
+      "distance": "8.7 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Cascade%20creek%20portfolio%2Fdesigns%20by%20Ms.Vickie%20M%20Coulter&query_place_id=ChIJvwbh04dVMogRR0DDGb5ScJ4&center=41.506566,-80.12073000000001",
+      "isFar": true
+    }
+  ],
+  "hotels": [
+    {
+      "name": "Wind in the Willows Cottage",
+      "distance": "0.7 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Wind%20in%20the%20Willows%20Cottage&query_place_id=ChIJGXA95cdXMogRXgIRBn_465E&center=41.623539,-80.1197433"
+    },
+    {
+      "name": "2 New Beginnings",
+      "distance": "0.9 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=2%20New%20Beginnings&query_place_id=ChIJC1J8tZ1XMogRpKsgOXGO63g&center=41.6410221,-80.1403279"
+    },
+    {
+      "name": "Wynken Blynken & Nod B & B",
+      "distance": "1.0 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Wynken%20Blynken%20%26%20Nod%20B%20%26%20B&query_place_id=ChIJaSps4XRXMogRB1BA3znblGM&center=41.6363967,-80.14559040000002"
+    }
+  ],
+  "gas": [
+    {
+      "name": "Kwik Fill",
+      "distance": "1.0 mi",
+      "url": "https://www.google.com/maps/search/Kwik%20Fill+near+41.6327273%2C-80.1274722"
+    },
+    {
+      "name": "Citgo",
+      "distance": "1.2 mi",
+      "url": "https://www.google.com/maps/search/Citgo+near+41.6327273%2C-80.1274722"
+    },
+    {
+      "name": "Country Fair 55",
+      "distance": "1.2 mi",
+      "url": "https://www.google.com/maps/search/Country%20Fair%2055+near+41.6327273%2C-80.1274722"
+    },
+    {
+      "name": "Shell",
+      "distance": "1.3 mi",
+      "url": "https://www.google.com/maps/search/Shell+near+41.6327273%2C-80.1274722"
+    }
+  ]
+}

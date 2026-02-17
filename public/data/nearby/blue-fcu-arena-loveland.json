@@ -1,0 +1,209 @@
+{
+  "quick_bite": [
+    {
+      "name": "Wendy's",
+      "distance": "0.6 mi",
+      "url": "https://www.google.com/maps/search/Wendy's+near+40.4441536%2C-104.98949019999999"
+    },
+    {
+      "name": "Chick-fil-A",
+      "distance": "0.6 mi",
+      "url": "https://www.google.com/maps/search/Chick-fil-A+near+40.4441536%2C-104.98949019999999"
+    },
+    {
+      "name": "QDOBA Mexican Eats",
+      "distance": "0.6 mi",
+      "url": "https://www.google.com/maps/search/QDOBA%20Mexican%20Eats+near+40.4441536%2C-104.98949019999999"
+    },
+    {
+      "name": "Firehouse Subs Cross Roads",
+      "distance": "0.6 mi",
+      "url": "https://www.google.com/maps/search/Firehouse%20Subs%20Cross%20Roads+near+40.4441536%2C-104.98949019999999"
+    },
+    {
+      "name": "Subway",
+      "distance": "0.6 mi",
+      "url": "https://www.google.com/maps/search/Subway+near+40.4441536%2C-104.98949019999999"
+    },
+    {
+      "name": "Carl's Jr.",
+      "distance": "0.7 mi",
+      "url": "https://www.google.com/maps/search/Carl's%20Jr.+near+40.4441536%2C-104.98949019999999"
+    },
+    {
+      "name": "Arby's",
+      "distance": "0.7 mi",
+      "url": "https://www.google.com/maps/search/Arby's+near+40.4441536%2C-104.98949019999999"
+    }
+  ],
+  "coffee": [
+    {
+      "name": "Caffeina's",
+      "distance": "0.3 mi",
+      "url": "https://www.google.com/maps/search/Caffeina's+near+40.4441536%2C-104.98949019999999"
+    },
+    {
+      "name": "Starbucks Coffee Company",
+      "distance": "0.6 mi",
+      "url": "https://www.google.com/maps/search/Starbucks%20Coffee%20Company+near+40.4441536%2C-104.98949019999999"
+    },
+    {
+      "name": "The Human Bean",
+      "distance": "0.6 mi",
+      "url": "https://www.google.com/maps/search/The%20Human%20Bean+near+40.4441536%2C-104.98949019999999"
+    },
+    {
+      "name": "The Table at Rez",
+      "distance": "0.8 mi",
+      "url": "https://www.google.com/maps/search/The%20Table%20at%20Rez+near+40.4441536%2C-104.98949019999999"
+    }
+  ],
+  "team_lunch": [
+    {
+      "name": "Rocky River Bar and Grille",
+      "distance": "0.2 mi",
+      "url": "https://www.google.com/maps/search/Rocky%20River%20Bar%20and%20Grille+near+40.4441536%2C-104.98949019999999"
+    },
+    {
+      "name": "The Boot Grill",
+      "distance": "0.6 mi",
+      "url": "https://www.google.com/maps/search/The%20Boot%20Grill+near+40.4441536%2C-104.98949019999999"
+    },
+    {
+      "name": "Palomino Mexican Restaurant",
+      "distance": "0.6 mi",
+      "url": "https://www.google.com/maps/search/Palomino%20Mexican%20Restaurant+near+40.4441536%2C-104.98949019999999"
+    }
+  ],
+  "dinner": [
+    {
+      "name": "Ruben's Grill + Cantina",
+      "distance": "0.5 mi",
+      "url": "https://www.google.com/maps/search/Ruben's%20Grill%20%2B%20Cantina+near+40.4441536%2C-104.98949019999999"
+    },
+    {
+      "name": "Nordy's BBQ & Grill",
+      "distance": "0.6 mi",
+      "url": "https://www.google.com/maps/search/Nordy's%20BBQ%20%26%20Grill+near+40.4441536%2C-104.98949019999999"
+    },
+    {
+      "name": "Fuzzy's Taco Shop",
+      "distance": "0.7 mi",
+      "url": "https://www.google.com/maps/search/Fuzzy's%20Taco%20Shop+near+40.4441536%2C-104.98949019999999"
+    },
+    {
+      "name": "PizzaVino NoCo Italiano",
+      "distance": "1.0 mi",
+      "url": "https://www.google.com/maps/search/PizzaVino%20NoCo%20Italiano+near+40.4441536%2C-104.98949019999999"
+    },
+    {
+      "name": "Highland Meadows Grill",
+      "distance": "1.2 mi",
+      "url": "https://www.google.com/maps/search/Highland%20Meadows%20Grill+near+40.4441536%2C-104.98949019999999"
+    }
+  ],
+  "bowling": [
+    {
+      "name": "Main Event Windsor",
+      "distance": "0.6 mi",
+      "url": "https://www.google.com/maps/search/Main%20Event%20Windsor+near+40.4441536%2C-104.98949019999999"
+    },
+    {
+      "name": "Sweetheart 10 Pin Bowling",
+      "distance": "4.8 mi",
+      "url": "https://www.google.com/maps/search/Sweetheart%2010%20Pin%20Bowling+near+40.4441536%2C-104.98949019999999",
+      "isFar": true
+    }
+  ],
+  "arcade": [],
+  "movies": [
+    {
+      "name": "Metropolitan MetroLux 12 Theatres + IMAX @ The Promenade Shops at Centerra",
+      "distance": "1.7 mi",
+      "url": "https://www.google.com/maps/search/Metropolitan%20MetroLux%2012%20Theatres%20%2B%20IMAX%20%40%20The%20Promenade%20Shops%20at%20Centerra+near+40.4441536%2C-104.98949019999999"
+    }
+  ],
+  "fun": [
+    {
+      "name": "Jumpin'",
+      "distance": "1.8 mi",
+      "url": "https://www.google.com/maps/search/Jumpin'+near+40.4441536%2C-104.98949019999999"
+    },
+    {
+      "name": "Time Emporium Escape Rooms: Loveland",
+      "distance": "4.5 mi",
+      "url": "https://www.google.com/maps/search/Time%20Emporium%20Escape%20Rooms%3A%20Loveland+near+40.4441536%2C-104.98949019999999",
+      "isFar": true
+    },
+    {
+      "name": "Knightly Escapes",
+      "distance": "4.8 mi",
+      "url": "https://www.google.com/maps/search/Knightly%20Escapes+near+40.4441536%2C-104.98949019999999",
+      "isFar": true
+    }
+  ],
+  "hotels": [
+    {
+      "name": "Embassy Suites by Hilton Loveland Conference Center",
+      "distance": "0.3 mi",
+      "url": "https://www.google.com/maps/search/Embassy%20Suites%20by%20Hilton%20Loveland%20Conference%20Center+near+40.4441536%2C-104.98949019999999"
+    },
+    {
+      "name": "Holiday Inn Express & Suites Loveland by IHG",
+      "distance": "0.6 mi",
+      "url": "https://www.google.com/maps/search/Holiday%20Inn%20Express%20%26%20Suites%20Loveland%20by%20IHG+near+40.4441536%2C-104.98949019999999"
+    },
+    {
+      "name": "Candlewood Suites Loveland by IHG",
+      "distance": "0.6 mi",
+      "url": "https://www.google.com/maps/search/Candlewood%20Suites%20Loveland%20by%20IHG+near+40.4441536%2C-104.98949019999999"
+    },
+    {
+      "name": "Microtel Inn & Suites by Wyndham Loveland",
+      "distance": "0.7 mi",
+      "url": "https://www.google.com/maps/search/Microtel%20Inn%20%26%20Suites%20by%20Wyndham%20Loveland+near+40.4441536%2C-104.98949019999999"
+    },
+    {
+      "name": "My Place Hotel-Loveland, CO",
+      "distance": "0.7 mi",
+      "url": "https://www.google.com/maps/search/My%20Place%20Hotel-Loveland%2C%20CO+near+40.4441536%2C-104.98949019999999"
+    },
+    {
+      "name": "SpringHill Suites by Marriott Loveland Fort Collins/Windsor",
+      "distance": "0.7 mi",
+      "url": "https://www.google.com/maps/search/SpringHill%20Suites%20by%20Marriott%20Loveland%20Fort%20Collins%2FWindsor+near+40.4441536%2C-104.98949019999999"
+    },
+    {
+      "name": "Extended Stay America Select Suites - Loveland",
+      "distance": "0.8 mi",
+      "url": "https://www.google.com/maps/search/Extended%20Stay%20America%20Select%20Suites%20-%20Loveland+near+40.4441536%2C-104.98949019999999"
+    }
+  ],
+  "gas": [
+    {
+      "name": "Maverik",
+      "distance": "0.5 mi",
+      "url": "https://www.google.com/maps/search/Maverik+near+40.4441536%2C-104.98949019999999"
+    },
+    {
+      "name": "Phillips 66",
+      "distance": "0.7 mi",
+      "url": "https://www.google.com/maps/search/Phillips%2066+near+40.4441536%2C-104.98949019999999"
+    },
+    {
+      "name": "Golf Fuel",
+      "distance": "1.8 mi",
+      "url": "https://www.google.com/maps/search/Golf%20Fuel+near+40.4441536%2C-104.98949019999999"
+    },
+    {
+      "name": "Conoco",
+      "distance": "2.5 mi",
+      "url": "https://www.google.com/maps/search/Conoco+near+40.4441536%2C-104.98949019999999"
+    },
+    {
+      "name": "Maverik",
+      "distance": "2.5 mi",
+      "url": "https://www.google.com/maps/search/Maverik+near+40.4441536%2C-104.98949019999999"
+    }
+  ]
+}

@@ -1,0 +1,217 @@
+{
+  "quick_bite": [
+    {
+      "name": "Jimmy John's",
+      "distance": "0.1 mi",
+      "url": "https://www.google.com/maps/search/Jimmy%20John's+near+39.9692072%2C-83.0060483"
+    },
+    {
+      "name": "Boston's Pizza Restaurant & Sports Bar",
+      "distance": "0.1 mi",
+      "url": "https://www.google.com/maps/search/Boston's%20Pizza%20Restaurant%20%26%20Sports%20Bar+near+39.9692072%2C-83.0060483"
+    },
+    {
+      "name": "Chipotle Mexican Grill",
+      "distance": "0.1 mi",
+      "url": "https://www.google.com/maps/search/Chipotle%20Mexican%20Grill+near+39.9692072%2C-83.0060483"
+    },
+    {
+      "name": "Dos Hermanos - North Market Downtown",
+      "distance": "0.2 mi",
+      "url": "https://www.google.com/maps/search/Dos%20Hermanos%20-%20North%20Market%20Downtown+near+39.9692072%2C-83.0060483"
+    }
+  ],
+  "coffee": [
+    {
+      "name": "Starbucks Coffee Company",
+      "distance": "0.1 mi",
+      "url": "https://www.google.com/maps/search/Starbucks%20Coffee%20Company+near+39.9692072%2C-83.0060483"
+    },
+    {
+      "name": "Tim Hortons",
+      "distance": "0.1 mi",
+      "url": "https://www.google.com/maps/search/Tim%20Hortons+near+39.9692072%2C-83.0060483"
+    }
+  ],
+  "team_lunch": [
+    {
+      "name": "Farmer's Fridge",
+      "distance": "0.1 mi",
+      "url": "https://www.google.com/maps/search/Farmer's%20Fridge+near+39.9692072%2C-83.0060483"
+    },
+    {
+      "name": "Farmer's Fridge",
+      "distance": "0.1 mi",
+      "url": "https://www.google.com/maps/search/Farmer's%20Fridge+near+39.9692072%2C-83.0060483"
+    },
+    {
+      "name": "Creators' Kitchen as Seen on TikTok",
+      "distance": "0.1 mi",
+      "url": "https://www.google.com/maps/search/Creators'%20Kitchen%20as%20Seen%20on%20TikTok+near+39.9692072%2C-83.0060483"
+    },
+    {
+      "name": "Brothers Bar & Grill",
+      "distance": "0.2 mi",
+      "url": "https://www.google.com/maps/search/Brothers%20Bar%20%26%20Grill+near+39.9692072%2C-83.0060483"
+    }
+  ],
+  "dinner": [
+    {
+      "name": "Rodizio Grill Brazilian Steakhouse Columbus",
+      "distance": "0.1 mi",
+      "url": "https://www.google.com/maps/search/Rodizio%20Grill%20Brazilian%20Steakhouse%20Columbus+near+39.9692072%2C-83.0060483"
+    },
+    {
+      "name": "Si Señor Peruvian Sandwiches",
+      "distance": "0.1 mi",
+      "url": "https://www.google.com/maps/search/Si%20Se%C3%B1or%20Peruvian%20Sandwiches+near+39.9692072%2C-83.0060483"
+    },
+    {
+      "name": "Ted's Montana Grill",
+      "distance": "0.1 mi",
+      "url": "https://www.google.com/maps/search/Ted's%20Montana%20Grill+near+39.9692072%2C-83.0060483"
+    },
+    {
+      "name": "Wario's Beef and Pork",
+      "distance": "0.1 mi",
+      "url": "https://www.google.com/maps/search/Wario's%20Beef%20and%20Pork+near+39.9692072%2C-83.0060483"
+    },
+    {
+      "name": "Buca di Beppo Italian Restaurant",
+      "distance": "0.1 mi",
+      "url": "https://www.google.com/maps/search/Buca%20di%20Beppo%20Italian%20Restaurant+near+39.9692072%2C-83.0060483"
+    },
+    {
+      "name": "Creole 2 Geaux",
+      "distance": "0.1 mi",
+      "url": "https://www.google.com/maps/search/Creole%202%20Geaux+near+39.9692072%2C-83.0060483"
+    },
+    {
+      "name": "Moran's Bar and Grill",
+      "distance": "0.1 mi",
+      "url": "https://www.google.com/maps/search/Moran's%20Bar%20and%20Grill+near+39.9692072%2C-83.0060483"
+    }
+  ],
+  "bowling": [],
+  "arcade": [],
+  "movies": [
+    {
+      "name": "Gateway Film Center",
+      "distance": "1.7 mi",
+      "url": "https://www.google.com/maps/search/Gateway%20Film%20Center+near+39.9692072%2C-83.0060483"
+    },
+    {
+      "name": "Phoenix Theatres Lennox Town Center 24 + IMAX with Laser",
+      "distance": "2.2 mi",
+      "url": "https://www.google.com/maps/search/Phoenix%20Theatres%20Lennox%20Town%20Center%2024%20%2B%20IMAX%20with%20Laser+near+39.9692072%2C-83.0060483"
+    },
+    {
+      "name": "Grandview Theater and Drafthouse",
+      "distance": "2.3 mi",
+      "url": "https://www.google.com/maps/search/Grandview%20Theater%20and%20Drafthouse+near+39.9692072%2C-83.0060483"
+    },
+    {
+      "name": "Drexel Theatre",
+      "distance": "3.7 mi",
+      "url": "https://www.google.com/maps/search/Drexel%20Theatre+near+39.9692072%2C-83.0060483",
+      "isFar": true
+    },
+    {
+      "name": "Studio 35 Cinema & Drafthouse",
+      "distance": "3.9 mi",
+      "url": "https://www.google.com/maps/search/Studio%2035%20Cinema%20%26%20Drafthouse+near+39.9692072%2C-83.0060483",
+      "isFar": true
+    }
+  ],
+  "fun": [
+    {
+      "name": "The Escape Room USA - Columbus",
+      "distance": "0.3 mi",
+      "url": "https://www.google.com/maps/search/The%20Escape%20Room%20USA%20-%20Columbus+near+39.9692072%2C-83.0060483"
+    },
+    {
+      "name": "Magic Escape Rooms Columbus",
+      "distance": "0.5 mi",
+      "url": "https://www.google.com/maps/search/Magic%20Escape%20Rooms%20Columbus+near+39.9692072%2C-83.0060483"
+    },
+    {
+      "name": "Scioto Mile Fountain",
+      "distance": "0.9 mi",
+      "url": "https://www.google.com/maps/search/Scioto%20Mile%20Fountain+near+39.9692072%2C-83.0060483"
+    },
+    {
+      "name": "The Wrecking Company",
+      "distance": "1.0 mi",
+      "url": "https://www.google.com/maps/search/The%20Wrecking%20Company+near+39.9692072%2C-83.0060483"
+    },
+    {
+      "name": "Breakout Games",
+      "distance": "2.2 mi",
+      "url": "https://www.google.com/maps/search/Breakout%20Games+near+39.9692072%2C-83.0060483"
+    }
+  ],
+  "hotels": [
+    {
+      "name": "Columbus Corporate Housing",
+      "distance": "0.1 mi",
+      "url": "https://www.google.com/maps/search/Columbus%20Corporate%20Housing+near+39.9692072%2C-83.0060483"
+    },
+    {
+      "name": "Penthouse Condo by North Market Convention Center",
+      "distance": "0.2 mi",
+      "url": "https://www.google.com/maps/search/Penthouse%20Condo%20by%20North%20Market%20Convention%20Center+near+39.9692072%2C-83.0060483"
+    },
+    {
+      "name": "Ohio Health Primary care Physician. suite 230",
+      "distance": "0.2 mi",
+      "url": "https://www.google.com/maps/search/Ohio%20Health%20Primary%20care%20Physician.%20suite%20230+near+39.9692072%2C-83.0060483"
+    },
+    {
+      "name": "AC Hotel Columbus Downtown, OH",
+      "distance": "0.3 mi",
+      "url": "https://www.google.com/maps/search/AC%20Hotel%20Columbus%20Downtown%2C%20OH+near+39.9692072%2C-83.0060483"
+    },
+    {
+      "name": "Penthouse Condo by North Market & Convention Center",
+      "distance": "0.3 mi",
+      "url": "https://www.google.com/maps/search/Penthouse%20Condo%20by%20North%20Market%20%26%20Convention%20Center+near+39.9692072%2C-83.0060483"
+    },
+    {
+      "name": "Huge 2 BR Beside Convention Center Condo / Short North / Downtown / FREE Parking",
+      "distance": "0.3 mi",
+      "url": "https://www.google.com/maps/search/Huge%202%20BR%20Beside%20Convention%20Center%20Condo%20%2F%20Short%20North%20%2F%20Downtown%20%2F%20FREE%20Parking+near+39.9692072%2C-83.0060483"
+    },
+    {
+      "name": "Hyatt Regency Columbus",
+      "distance": "0.3 mi",
+      "url": "https://www.google.com/maps/search/Hyatt%20Regency%20Columbus+near+39.9692072%2C-83.0060483"
+    }
+  ],
+  "gas": [
+    {
+      "name": "bp",
+      "distance": "0.5 mi",
+      "url": "https://www.google.com/maps/search/bp+near+39.9692072%2C-83.0060483"
+    },
+    {
+      "name": "Sunoco",
+      "distance": "1.0 mi",
+      "url": "https://www.google.com/maps/search/Sunoco+near+39.9692072%2C-83.0060483"
+    },
+    {
+      "name": "Mobil",
+      "distance": "1.0 mi",
+      "url": "https://www.google.com/maps/search/Mobil+near+39.9692072%2C-83.0060483"
+    },
+    {
+      "name": "Marathon Gas",
+      "distance": "1.0 mi",
+      "url": "https://www.google.com/maps/search/Marathon%20Gas+near+39.9692072%2C-83.0060483"
+    },
+    {
+      "name": "West Broad Station",
+      "distance": "1.3 mi",
+      "url": "https://www.google.com/maps/search/West%20Broad%20Station+near+39.9692072%2C-83.0060483"
+    }
+  ]
+}

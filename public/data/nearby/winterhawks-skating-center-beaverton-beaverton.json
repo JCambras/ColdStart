@@ -1,0 +1,277 @@
+{
+  "quick_bite": [
+    {
+      "name": "Jack in the Box",
+      "distance": "0.1 mi",
+      "url": "https://www.google.com/maps/search/Jack%20in%20the%20Box+near+45.4853697%2C-122.77228919999999"
+    },
+    {
+      "name": "Chipotle Mexican Grill",
+      "distance": "0.1 mi",
+      "url": "https://www.google.com/maps/search/Chipotle%20Mexican%20Grill+near+45.4853697%2C-122.77228919999999"
+    },
+    {
+      "name": "TOGO'S Sandwiches",
+      "distance": "0.3 mi",
+      "url": "https://www.google.com/maps/search/TOGO'S%20Sandwiches+near+45.4853697%2C-122.77228919999999"
+    },
+    {
+      "name": "Round Table Pizza",
+      "distance": "0.4 mi",
+      "url": "https://www.google.com/maps/search/Round%20Table%20Pizza+near+45.4853697%2C-122.77228919999999"
+    },
+    {
+      "name": "A&W Restaurant",
+      "distance": "0.5 mi",
+      "url": "https://www.google.com/maps/search/A%26W%20Restaurant+near+45.4853697%2C-122.77228919999999"
+    },
+    {
+      "name": "KFC",
+      "distance": "0.5 mi",
+      "url": "https://www.google.com/maps/search/KFC+near+45.4853697%2C-122.77228919999999"
+    },
+    {
+      "name": "Chuck E. Cheese",
+      "distance": "1.0 mi",
+      "url": "https://www.google.com/maps/search/Chuck%20E.%20Cheese+near+45.4853697%2C-122.77228919999999"
+    }
+  ],
+  "coffee": [
+    {
+      "name": "Starbucks Coffee Company",
+      "distance": "0.1 mi",
+      "url": "https://www.google.com/maps/search/Starbucks%20Coffee%20Company+near+45.4853697%2C-122.77228919999999"
+    },
+    {
+      "name": "McDonald's",
+      "distance": "0.1 mi",
+      "url": "https://www.google.com/maps/search/McDonald's+near+45.4853697%2C-122.77228919999999"
+    },
+    {
+      "name": "SnowMoon",
+      "distance": "0.4 mi",
+      "url": "https://www.google.com/maps/search/SnowMoon+near+45.4853697%2C-122.77228919999999"
+    },
+    {
+      "name": "The Human Bean",
+      "distance": "0.5 mi",
+      "url": "https://www.google.com/maps/search/The%20Human%20Bean+near+45.4853697%2C-122.77228919999999"
+    }
+  ],
+  "team_lunch": [
+    {
+      "name": "Pizza Schmizza",
+      "distance": "0.1 mi",
+      "url": "https://www.google.com/maps/search/Pizza%20Schmizza+near+45.4853697%2C-122.77228919999999"
+    },
+    {
+      "name": "Pacos Tacos & Tamales",
+      "distance": "0.2 mi",
+      "url": "https://www.google.com/maps/search/Pacos%20Tacos%20%26%20Tamales+near+45.4853697%2C-122.77228919999999"
+    }
+  ],
+  "dinner": [
+    {
+      "name": "Sambi | Japanese Restaurant",
+      "distance": "0.1 mi",
+      "url": "https://www.google.com/maps/search/Sambi%20%7C%20Japanese%20Restaurant+near+45.4853697%2C-122.77228919999999"
+    },
+    {
+      "name": "Tacos La Oaxaqueña",
+      "distance": "0.1 mi",
+      "url": "https://www.google.com/maps/search/Tacos%20La%20Oaxaque%C3%B1a+near+45.4853697%2C-122.77228919999999"
+    },
+    {
+      "name": "Thai Pop, Portland",
+      "distance": "0.1 mi",
+      "url": "https://www.google.com/maps/search/Thai%20Pop%2C%20Portland+near+45.4853697%2C-122.77228919999999"
+    },
+    {
+      "name": "El torito alegre",
+      "distance": "0.2 mi",
+      "url": "https://www.google.com/maps/search/El%20torito%20alegre+near+45.4853697%2C-122.77228919999999"
+    },
+    {
+      "name": "China Delight",
+      "distance": "0.2 mi",
+      "url": "https://www.google.com/maps/search/China%20Delight+near+45.4853697%2C-122.77228919999999"
+    },
+    {
+      "name": "Koreana Restaurant",
+      "distance": "0.4 mi",
+      "url": "https://www.google.com/maps/search/Koreana%20Restaurant+near+45.4853697%2C-122.77228919999999"
+    },
+    {
+      "name": "HANSIK 한식 '韓食'堂",
+      "distance": "0.5 mi",
+      "url": "https://www.google.com/maps/search/HANSIK%20%ED%95%9C%EC%8B%9D%20'%E9%9F%93%E9%A3%9F'%E5%A0%82+near+45.4853697%2C-122.77228919999999"
+    }
+  ],
+  "bowling": [
+    {
+      "name": "SuperPlay",
+      "distance": "0.1 mi",
+      "url": "https://www.google.com/maps/search/SuperPlay+near+45.4853697%2C-122.77228919999999"
+    },
+    {
+      "name": "KingPins Family Entertainment Center",
+      "distance": "2.1 mi",
+      "url": "https://www.google.com/maps/search/KingPins%20Family%20Entertainment%20Center+near+45.4853697%2C-122.77228919999999"
+    },
+    {
+      "name": "Tigard Bowl",
+      "distance": "3.4 mi",
+      "url": "https://www.google.com/maps/search/Tigard%20Bowl+near+45.4853697%2C-122.77228919999999",
+      "isFar": true
+    },
+    {
+      "name": "Viking Gameroom, Billiards & Bowling Alley",
+      "distance": "4.6 mi",
+      "url": "https://www.google.com/maps/search/Viking%20Gameroom%2C%20Billiards%20%26%20Bowling%20Alley+near+45.4853697%2C-122.77228919999999",
+      "isFar": true
+    },
+    {
+      "name": "Big Al's",
+      "distance": "4.8 mi",
+      "url": "https://www.google.com/maps/search/Big%20Al's+near+45.4853697%2C-122.77228919999999",
+      "isFar": true
+    }
+  ],
+  "arcade": [],
+  "movies": [
+    {
+      "name": "Century Theater",
+      "distance": "2.1 mi",
+      "url": "https://www.google.com/maps/search/Century%20Theater+near+45.4853697%2C-122.77228919999999"
+    },
+    {
+      "name": "Joy Cinema",
+      "distance": "3.6 mi",
+      "url": "https://www.google.com/maps/search/Joy%20Cinema+near+45.4853697%2C-122.77228919999999",
+      "isFar": true
+    },
+    {
+      "name": "Retro Hero",
+      "distance": "4.6 mi",
+      "url": "https://www.google.com/maps/search/Retro%20Hero+near+45.4853697%2C-122.77228919999999",
+      "isFar": true
+    },
+    {
+      "name": "5th Avenue Cinema",
+      "distance": "4.7 mi",
+      "url": "https://www.google.com/maps/search/5th%20Avenue%20Cinema+near+45.4853697%2C-122.77228919999999",
+      "isFar": true
+    },
+    {
+      "name": "AMC Progress Ridge 13",
+      "distance": "4.8 mi",
+      "url": "https://www.google.com/maps/search/AMC%20Progress%20Ridge%2013+near+45.4853697%2C-122.77228919999999",
+      "isFar": true
+    }
+  ],
+  "fun": [
+    {
+      "name": "Portland Escape Rooms- Beaverton",
+      "distance": "0.7 mi",
+      "url": "https://www.google.com/maps/search/Portland%20Escape%20Rooms-%20Beaverton+near+45.4853697%2C-122.77228919999999"
+    },
+    {
+      "name": "Escapology Escape Rooms Raleigh Hills",
+      "distance": "0.9 mi",
+      "url": "https://www.google.com/maps/search/Escapology%20Escape%20Rooms%20Raleigh%20Hills+near+45.4853697%2C-122.77228919999999"
+    },
+    {
+      "name": "Sky Zone Trampoline Park",
+      "distance": "1.4 mi",
+      "url": "https://www.google.com/maps/search/Sky%20Zone%20Trampoline%20Park+near+45.4853697%2C-122.77228919999999"
+    },
+    {
+      "name": "Escapism: The Ritual Room Escape Room",
+      "distance": "3.3 mi",
+      "url": "https://www.google.com/maps/search/Escapism%3A%20The%20Ritual%20Room%20Escape%20Room+near+45.4853697%2C-122.77228919999999",
+      "isFar": true
+    },
+    {
+      "name": "Escapism: The Wizard's Lair & The Magician's Menagerie Escape Rooms",
+      "distance": "3.4 mi",
+      "url": "https://www.google.com/maps/search/Escapism%3A%20The%20Wizard's%20Lair%20%26%20The%20Magician's%20Menagerie%20Escape%20Rooms+near+45.4853697%2C-122.77228919999999",
+      "isFar": true
+    },
+    {
+      "name": "Portal Adventures - Escape Rooms Beaverton",
+      "distance": "3.6 mi",
+      "url": "https://www.google.com/maps/search/Portal%20Adventures%20-%20Escape%20Rooms%20Beaverton+near+45.4853697%2C-122.77228919999999",
+      "isFar": true
+    },
+    {
+      "name": "Empire Escape Games",
+      "distance": "3.8 mi",
+      "url": "https://www.google.com/maps/search/Empire%20Escape%20Games+near+45.4853697%2C-122.77228919999999",
+      "isFar": true
+    }
+  ],
+  "hotels": [
+    {
+      "name": "Quiet SW Portland Studio with hot tub. No children, under 12 babies or pets.",
+      "distance": "0.3 mi",
+      "url": "https://www.google.com/maps/search/Quiet%20SW%20Portland%20Studio%20with%20hot%20tub.%20No%20children%2C%20under%2012%20babies%20or%20pets.+near+45.4853697%2C-122.77228919999999"
+    },
+    {
+      "name": "Gorgeous Portland home in the West Slope neighborhood adjacent to everything!",
+      "distance": "0.6 mi",
+      "url": "https://www.google.com/maps/search/Gorgeous%20Portland%20home%20in%20the%20West%20Slope%20neighborhood%20adjacent%20to%20everything!+near+45.4853697%2C-122.77228919999999"
+    },
+    {
+      "name": "Hidden Gem Secluded Garden Oasis Family Getaway",
+      "distance": "0.6 mi",
+      "url": "https://www.google.com/maps/search/Hidden%20Gem%20Secluded%20Garden%20Oasis%20Family%20Getaway+near+45.4853697%2C-122.77228919999999"
+    },
+    {
+      "name": "Raleigh Hills Retreat",
+      "distance": "0.6 mi",
+      "url": "https://www.google.com/maps/search/Raleigh%20Hills%20Retreat+near+45.4853697%2C-122.77228919999999"
+    },
+    {
+      "name": "Best Western Portland West Beaverton",
+      "distance": "0.6 mi",
+      "url": "https://www.google.com/maps/search/Best%20Western%20Portland%20West%20Beaverton+near+45.4853697%2C-122.77228919999999"
+    },
+    {
+      "name": "Spacious 1-bdr on Canyon Rd. Designated Parking.",
+      "distance": "0.8 mi",
+      "url": "https://www.google.com/maps/search/Spacious%201-bdr%20on%20Canyon%20Rd.%20Designated%20Parking.+near+45.4853697%2C-122.77228919999999"
+    },
+    {
+      "name": "Private Urban Forest Hideaway in the Heart of Portland with AC",
+      "distance": "0.8 mi",
+      "url": "https://www.google.com/maps/search/Private%20Urban%20Forest%20Hideaway%20in%20the%20Heart%20of%20Portland%20with%20AC+near+45.4853697%2C-122.77228919999999"
+    }
+  ],
+  "gas": [
+    {
+      "name": "Shell",
+      "distance": "0.1 mi",
+      "url": "https://www.google.com/maps/search/Shell+near+45.4853697%2C-122.77228919999999"
+    },
+    {
+      "name": "C.F.N Gas Station, Beaverton",
+      "distance": "0.5 mi",
+      "url": "https://www.google.com/maps/search/C.F.N%20Gas%20Station%2C%20Beaverton+near+45.4853697%2C-122.77228919999999"
+    },
+    {
+      "name": "Express Lane",
+      "distance": "0.8 mi",
+      "url": "https://www.google.com/maps/search/Express%20Lane+near+45.4853697%2C-122.77228919999999"
+    },
+    {
+      "name": "76",
+      "distance": "0.8 mi",
+      "url": "https://www.google.com/maps/search/76+near+45.4853697%2C-122.77228919999999"
+    },
+    {
+      "name": "ARCO",
+      "distance": "0.8 mi",
+      "url": "https://www.google.com/maps/search/ARCO+near+45.4853697%2C-122.77228919999999"
+    }
+  ]
+}

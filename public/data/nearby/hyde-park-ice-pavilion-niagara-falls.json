@@ -1,0 +1,172 @@
+{
+  "quick_bite": [
+    {
+      "name": "Sammy's Pizzeria",
+      "distance": "0.5 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Sammy's%20Pizzeria&query_place_id=ChIJeyCkCa9C04kR3Lr-4Acm4QU&center=43.101839999999996,-79.027534"
+    },
+    {
+      "name": "Subway",
+      "distance": "0.5 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Subway&query_place_id=ChIJnWy8U6NC04kRQXB8FtO-Y0g&center=43.095329199999995,-79.0303729"
+    },
+    {
+      "name": "N Town Wingz",
+      "distance": "0.6 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=N%20Town%20Wingz&query_place_id=ChIJfbbGVAND04kRCQP3qYplLEw&center=43.0953059,-79.03204269999999"
+    },
+    {
+      "name": "Vinnie’s Minis",
+      "distance": "0.7 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Vinnie%E2%80%99s%20Minis&query_place_id=ChIJtR-bNHVD04kR1tTonI-hix0&center=43.0879774,-79.0258788"
+    }
+  ],
+  "coffee": [
+    {
+      "name": "Tim Hortons",
+      "distance": "0.3 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Tim%20Hortons&query_place_id=ChIJq5N4qqZC04kReqdtQtGt5Ys&center=43.0954054,-79.0249616"
+    },
+    {
+      "name": "Royal Cafe",
+      "distance": "0.7 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Royal%20Cafe&query_place_id=ChIJ61rpNZ5C04kRniLXVEK9YUE&center=43.0873523,-79.0206061"
+    },
+    {
+      "name": "Hyde Park Café",
+      "distance": "0.7 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Hyde%20Park%20Caf%C3%A9&query_place_id=ChIJu4JCV61C04kRJBFtVW-BzxM&center=43.0873269,-79.02059609999999"
+    },
+    {
+      "name": "Frankies Donuts and Pizza",
+      "distance": "1.4 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Frankies%20Donuts%20and%20Pizza&query_place_id=ChIJ-8n8ycNC04kRyvYjMHvas0w&center=43.0952939,-79.0486833"
+    }
+  ],
+  "team_lunch": [
+    {
+      "name": "Trish’s Sweet Touch",
+      "distance": "0.3 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Trish%E2%80%99s%20Sweet%20Touch&query_place_id=ChIJ5XtFP-Bp04kRSop3EU5tQxU&center=43.0941283,-79.0177959"
+    },
+    {
+      "name": "Hong Kong Kitchen",
+      "distance": "0.4 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Hong%20Kong%20Kitchen&query_place_id=ChIJz0iltg1D04kRgPEP05CHzxA&center=43.0949469,-79.02872909999999"
+    },
+    {
+      "name": "Caribbean Flava",
+      "distance": "0.6 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Caribbean%20Flava&query_place_id=ChIJ2TTZ4qND04kRoqNrL9Srgw8&center=43.09494350000001,-79.0317649"
+    },
+    {
+      "name": "Charleys Cheesesteaks",
+      "distance": "2.1 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Charleys%20Cheesesteaks&query_place_id=ChIJW8oXkHxo04kRJpFtSXExlYA&center=43.098152,-78.97924429999999"
+    }
+  ],
+  "dinner": [
+    {
+      "name": "La Hacienda Ristorante and Pizzeria",
+      "distance": "0.3 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=La%20Hacienda%20Ristorante%20and%20Pizzeria&query_place_id=ChIJm1VS_qNC04kRjA3FNyDH4zw&center=43.095048999999996,-79.0249403"
+    },
+    {
+      "name": "Michael's Restaurant",
+      "distance": "0.3 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Michael's%20Restaurant&query_place_id=ChIJS_Ac_KNC04kRVTloqPG0DlA&center=43.0950316,-79.0252302"
+    },
+    {
+      "name": "Pho Golden",
+      "distance": "0.3 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Pho%20Golden&query_place_id=ChIJ9UJQBqRC04kRz0XAcF6Ds-Y&center=43.09526820000001,-79.02553549999999"
+    },
+    {
+      "name": "Stadium Grill",
+      "distance": "0.4 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Stadium%20Grill&query_place_id=ChIJSxdSe69C04kR2X_9b9pNrNE&center=43.1005843,-79.0269007"
+    },
+    {
+      "name": "Porky's Hotdogs",
+      "distance": "0.5 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Porky's%20Hotdogs&query_place_id=ChIJJaM5qK9C04kR4vU1T90-BFs&center=43.102144599999995,-79.0278982"
+    },
+    {
+      "name": "Kelly's On The Green",
+      "distance": "0.7 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Kelly's%20On%20The%20Green&query_place_id=ChIJVS7p5dBp04kRBZ68udFordg&center=43.1059726,-79.0144716"
+    }
+  ],
+  "bowling": [
+    {
+      "name": "Rapids Bowling Center",
+      "distance": "3.4 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Rapids%20Bowling%20Center&query_place_id=ChIJTQX3lJho04kRos7-caE74wM&center=43.0963767,-78.9526884",
+      "isFar": true
+    }
+  ],
+  "arcade": [],
+  "movies": [
+    {
+      "name": "Dipson Theater",
+      "distance": "1.6 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Dipson%20Theater&query_place_id=ChIJkRFD1ztp04kRCVSVVFhX0d0&center=43.0866191,-78.99368539999999"
+    },
+    {
+      "name": "The Capitol Theatre at Niagara Falls",
+      "distance": "1.6 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=The%20Capitol%20Theatre%20at%20Niagara%20Falls&query_place_id=ChIJlaCSnf5p04kRYSN3zFW7gOM&center=43.0866191,-78.99368539999999"
+    },
+    {
+      "name": "Iwerks 4-D Motion Theatre",
+      "distance": "2.7 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Iwerks%204-D%20Motion%20Theatre&query_place_id=ChIJh2QbaABD04kRsDcdfTD-geM&center=43.0908725,-79.0732917"
+    }
+  ],
+  "fun": [
+    {
+      "name": "Little Italy",
+      "distance": "0.3 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Little%20Italy&query_place_id=ChIJoa02NE1D04kRnc54Py3XDE4&center=43.0951512,-79.0251359"
+    },
+    {
+      "name": "Rainbow air",
+      "distance": "0.9 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Rainbow%20air&query_place_id=ChIJ1_NQDQBD04kR39pNrocQuFw&center=43.0962143,-79.0377388"
+    },
+    {
+      "name": "Niagarafälle auf deutsch",
+      "distance": "1.1 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Niagaraf%C3%A4lle%20auf%20deutsch&query_place_id=ChIJxaC3fABD04kRzxV2WxFuq2o&center=43.086867999999996,-79.0371801"
+    }
+  ],
+  "hotels": [
+    {
+      "name": "Little Italy / Hyde Park in Niagara Falls , New York , USA",
+      "distance": "0.5 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Little%20Italy%20%2F%20Hyde%20Park%20in%20Niagara%20Falls%20%2C%20New%20York%20%2C%20USA&query_place_id=ChIJ9XrqXKVC04kRrXi8iZS0hdU&center=43.0998993,-79.0294418"
+    }
+  ],
+  "gas": [
+    {
+      "name": "Pine Fuel",
+      "distance": "0.3 mi",
+      "url": "https://www.google.com/maps/search/Pine%20Fuel+near+43.097507%2C-79.02056499999999"
+    },
+    {
+      "name": "Loves",
+      "distance": "0.9 mi",
+      "url": "https://www.google.com/maps/search/Loves+near+43.097507%2C-79.02056499999999"
+    },
+    {
+      "name": "Sunoco",
+      "distance": "0.9 mi",
+      "url": "https://www.google.com/maps/search/Sunoco+near+43.097507%2C-79.02056499999999"
+    },
+    {
+      "name": "COASTAL GAS STATION",
+      "distance": "0.9 mi",
+      "url": "https://www.google.com/maps/search/COASTAL%20GAS%20STATION+near+43.097507%2C-79.02056499999999"
+    }
+  ]
+}

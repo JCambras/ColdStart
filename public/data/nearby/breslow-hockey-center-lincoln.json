@@ -1,0 +1,207 @@
+{
+  "quick_bite": [],
+  "coffee": [],
+  "team_lunch": [
+    {
+      "name": "The CORNer Bar",
+      "distance": "0.4 mi",
+      "url": "https://www.google.com/maps/search/The%20CORNer%20Bar+near+40.8210377%2C-96.71623319999999"
+    },
+    {
+      "name": "Juicy Claws Seafood Bar & Grill",
+      "distance": "0.4 mi",
+      "url": "https://www.google.com/maps/search/Juicy%20Claws%20Seafood%20Bar%20%26%20Grill+near+40.8210377%2C-96.71623319999999"
+    },
+    {
+      "name": "El Potrero Mexican Restaurant",
+      "distance": "0.5 mi",
+      "url": "https://www.google.com/maps/search/El%20Potrero%20Mexican%20Restaurant+near+40.8210377%2C-96.71623319999999"
+    }
+  ],
+  "dinner": [
+    {
+      "name": "Mellow Mushroom Lincoln",
+      "distance": "0.4 mi",
+      "url": "https://www.google.com/maps/search/Mellow%20Mushroom%20Lincoln+near+40.8210377%2C-96.71623319999999"
+    },
+    {
+      "name": "Hiro 88 Haymarket",
+      "distance": "0.4 mi",
+      "url": "https://www.google.com/maps/search/Hiro%2088%20Haymarket+near+40.8210377%2C-96.71623319999999"
+    },
+    {
+      "name": "Shokunin Sushi and Japanese Cuisine",
+      "distance": "0.4 mi",
+      "url": "https://www.google.com/maps/search/Shokunin%20Sushi%20and%20Japanese%20Cuisine+near+40.8210377%2C-96.71623319999999"
+    },
+    {
+      "name": "Gate 25 Bar and Restaurant",
+      "distance": "0.4 mi",
+      "url": "https://www.google.com/maps/search/Gate%2025%20Bar%20and%20Restaurant+near+40.8210377%2C-96.71623319999999"
+    },
+    {
+      "name": "The Bistro - Eat. Drink. Connect.®",
+      "distance": "0.4 mi",
+      "url": "https://www.google.com/maps/search/The%20Bistro%20-%20Eat.%20Drink.%20Connect.%C2%AE+near+40.8210377%2C-96.71623319999999"
+    },
+    {
+      "name": "Blue Sushi Sake Grill",
+      "distance": "0.4 mi",
+      "url": "https://www.google.com/maps/search/Blue%20Sushi%20Sake%20Grill+near+40.8210377%2C-96.71623319999999"
+    },
+    {
+      "name": "Manhattan Deli",
+      "distance": "0.4 mi",
+      "url": "https://www.google.com/maps/search/Manhattan%20Deli+near+40.8210377%2C-96.71623319999999"
+    }
+  ],
+  "bowling": [
+    {
+      "name": "Sun Valley Lanes & Games",
+      "distance": "0.7 mi",
+      "url": "https://www.google.com/maps/search/Sun%20Valley%20Lanes%20%26%20Games+near+40.8210377%2C-96.71623319999999"
+    },
+    {
+      "name": "Madsen’s Bowling & Billiards and EJ’s Lounge & Grill",
+      "distance": "3.2 mi",
+      "url": "https://www.google.com/maps/search/Madsen%E2%80%99s%20Bowling%20%26%20Billiards%20and%20EJ%E2%80%99s%20Lounge%20%26%20Grill+near+40.8210377%2C-96.71623319999999",
+      "isFar": true
+    },
+    {
+      "name": "Hollywood Bowl",
+      "distance": "3.3 mi",
+      "url": "https://www.google.com/maps/search/Hollywood%20Bowl+near+40.8210377%2C-96.71623319999999",
+      "isFar": true
+    },
+    {
+      "name": "Parkway Lanes / 48 Bowl",
+      "distance": "4.0 mi",
+      "url": "https://www.google.com/maps/search/Parkway%20Lanes%20%2F%2048%20Bowl+near+40.8210377%2C-96.71623319999999",
+      "isFar": true
+    },
+    {
+      "name": "Round1 Bowling & Arcade Gateway Mall",
+      "distance": "4.3 mi",
+      "url": "https://www.google.com/maps/search/Round1%20Bowling%20%26%20Arcade%20Gateway%20Mall+near+40.8210377%2C-96.71623319999999",
+      "isFar": true
+    }
+  ],
+  "arcade": [],
+  "movies": [
+    {
+      "name": "Marcus Lincoln Grand Cinema",
+      "distance": "0.7 mi",
+      "url": "https://www.google.com/maps/search/Marcus%20Lincoln%20Grand%20Cinema+near+40.8210377%2C-96.71623319999999"
+    },
+    {
+      "name": "The Mary Riepma Ross Media Arts Center",
+      "distance": "0.8 mi",
+      "url": "https://www.google.com/maps/search/The%20Mary%20Riepma%20Ross%20Media%20Arts%20Center+near+40.8210377%2C-96.71623319999999"
+    },
+    {
+      "name": "Marcus East Park Cinema",
+      "distance": "4.6 mi",
+      "url": "https://www.google.com/maps/search/Marcus%20East%20Park%20Cinema+near+40.8210377%2C-96.71623319999999",
+      "isFar": true
+    },
+    {
+      "name": "Joyo Theater",
+      "distance": "4.8 mi",
+      "url": "https://www.google.com/maps/search/Joyo%20Theater+near+40.8210377%2C-96.71623319999999",
+      "isFar": true
+    }
+  ],
+  "fun": [
+    {
+      "name": "Escape Lincoln",
+      "distance": "0.6 mi",
+      "url": "https://www.google.com/maps/search/Escape%20Lincoln+near+40.8210377%2C-96.71623319999999"
+    },
+    {
+      "name": "Trago Park Sprayground",
+      "distance": "1.3 mi",
+      "url": "https://www.google.com/maps/search/Trago%20Park%20Sprayground+near+40.8210377%2C-96.71623319999999"
+    },
+    {
+      "name": "Smashinit402",
+      "distance": "2.0 mi",
+      "url": "https://www.google.com/maps/search/Smashinit402+near+40.8210377%2C-96.71623319999999"
+    },
+    {
+      "name": "Entrap Escape Rooms",
+      "distance": "3.2 mi",
+      "url": "https://www.google.com/maps/search/Entrap%20Escape%20Rooms+near+40.8210377%2C-96.71623319999999",
+      "isFar": true
+    },
+    {
+      "name": "Star City Shores",
+      "distance": "4.1 mi",
+      "url": "https://www.google.com/maps/search/Star%20City%20Shores+near+40.8210377%2C-96.71623319999999",
+      "isFar": true
+    }
+  ],
+  "hotels": [
+    {
+      "name": "Modern 2 Bedroom 1 Bathroom Home",
+      "distance": "0.4 mi",
+      "url": "https://www.google.com/maps/search/Modern%202%20Bedroom%201%20Bathroom%20Home+near+40.8210377%2C-96.71623319999999"
+    },
+    {
+      "name": "Modern 2 Bedroom 1 Bathroom Home",
+      "distance": "0.4 mi",
+      "url": "https://www.google.com/maps/search/Modern%202%20Bedroom%201%20Bathroom%20Home+near+40.8210377%2C-96.71623319999999"
+    },
+    {
+      "name": "Hyatt Place Lincoln/Downtown-Haymarket",
+      "distance": "0.4 mi",
+      "url": "https://www.google.com/maps/search/Hyatt%20Place%20Lincoln%2FDowntown-Haymarket+near+40.8210377%2C-96.71623319999999"
+    },
+    {
+      "name": "Modern 2 Bedroom 1 Bathroom Home",
+      "distance": "0.4 mi",
+      "url": "https://www.google.com/maps/search/Modern%202%20Bedroom%201%20Bathroom%20Home+near+40.8210377%2C-96.71623319999999"
+    },
+    {
+      "name": "Courtyard by Marriott Lincoln Downtown/Haymarket",
+      "distance": "0.4 mi",
+      "url": "https://www.google.com/maps/search/Courtyard%20by%20Marriott%20Lincoln%20Downtown%2FHaymarket+near+40.8210377%2C-96.71623319999999"
+    },
+    {
+      "name": "Full House minutes' walk to Memorial Stadium, Hawk Field, Haymarket /Railyard",
+      "distance": "0.5 mi",
+      "url": "https://www.google.com/maps/search/Full%20House%20minutes'%20walk%20to%20Memorial%20Stadium%2C%20Hawk%20Field%2C%20Haymarket%20%2FRailyard+near+40.8210377%2C-96.71623319999999"
+    },
+    {
+      "name": "Full House minutes' walk to Memorial Stadium, Hawk Field, Haymarket/Railyard",
+      "distance": "0.5 mi",
+      "url": "https://www.google.com/maps/search/Full%20House%20minutes'%20walk%20to%20Memorial%20Stadium%2C%20Hawk%20Field%2C%20Haymarket%2FRailyard+near+40.8210377%2C-96.71623319999999"
+    }
+  ],
+  "gas": [
+    {
+      "name": "Phillips 66",
+      "distance": "0.5 mi",
+      "url": "https://www.google.com/maps/search/Phillips%2066+near+40.8210377%2C-96.71623319999999"
+    },
+    {
+      "name": "Phillips 66",
+      "distance": "1.0 mi",
+      "url": "https://www.google.com/maps/search/Phillips%2066+near+40.8210377%2C-96.71623319999999"
+    },
+    {
+      "name": "PHILLIPS 66",
+      "distance": "1.1 mi",
+      "url": "https://www.google.com/maps/search/PHILLIPS%2066+near+40.8210377%2C-96.71623319999999"
+    },
+    {
+      "name": "Sinclair Gas Station",
+      "distance": "1.2 mi",
+      "url": "https://www.google.com/maps/search/Sinclair%20Gas%20Station+near+40.8210377%2C-96.71623319999999"
+    },
+    {
+      "name": "Renewable Fuels Nebraska",
+      "distance": "1.2 mi",
+      "url": "https://www.google.com/maps/search/Renewable%20Fuels%20Nebraska+near+40.8210377%2C-96.71623319999999"
+    }
+  ]
+}

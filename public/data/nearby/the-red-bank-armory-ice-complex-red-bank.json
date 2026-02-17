@@ -1,0 +1,184 @@
+{
+  "quick_bite": [
+    {
+      "name": "Jersey Mike's Subs",
+      "distance": "0.3 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Jersey%20Mike's%20Subs&query_place_id=ChIJNXrIETYwwokR0HIdcuXSG08&center=40.3506669,-74.0703328"
+    },
+    {
+      "name": "G&G Hot Dogs",
+      "distance": "0.3 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=G%26G%20Hot%20Dogs&query_place_id=ChIJeVzWLzUwwokR6V1XtIKq05A&center=40.349981899999996,-74.07642919999999"
+    },
+    {
+      "name": "WindMill Hot Dogs of Red Bank",
+      "distance": "0.4 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=WindMill%20Hot%20Dogs%20of%20Red%20Bank&query_place_id=ChIJjWJCYDUwwokRy701Yyw-MTw&center=40.351735,-74.075648"
+    },
+    {
+      "name": "Harvest Moon Hut",
+      "distance": "0.4 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Harvest%20Moon%20Hut&query_place_id=ChIJb2twRskxwokRnzsek-zzR2g&center=40.3497841,-74.0665197"
+    },
+    {
+      "name": "Chuck E. Cheese",
+      "distance": "4.0 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Chuck%20E.%20Cheese&query_place_id=ChIJjSWQx0IxwokR4gBPvwUMu0o&center=40.3982374,-74.10864839999999",
+      "isFar": true
+    }
+  ],
+  "coffee": [
+    {
+      "name": "Melonhead",
+      "distance": "0.1 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Melonhead&query_place_id=ChIJn1vlm24xwokRN7IPdhvpwh8&center=40.3475508,-74.0742972"
+    },
+    {
+      "name": "Filoncino Bakery Cafe",
+      "distance": "0.1 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Filoncino%20Bakery%20Cafe&query_place_id=ChIJV4JQlNQxwokRo7PGkG1_5-U&center=40.3473179,-74.0747796"
+    },
+    {
+      "name": "Booskerdoo Coffee & Baking Co. Red Bank",
+      "distance": "0.2 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Booskerdoo%20Coffee%20%26%20Baking%20Co.%20Red%20Bank&query_place_id=ChIJ994bLCoxwokRVE-KbHJWIHs&center=40.3488413,-74.0754497"
+    },
+    {
+      "name": "Volcafe",
+      "distance": "0.2 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Volcafe&query_place_id=ChIJvb48GTUwwokRECQBBX6c4sg&center=40.349587,-74.07533169999999"
+    },
+    {
+      "name": "Paris Baguette",
+      "distance": "0.4 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Paris%20Baguette&query_place_id=ChIJP8RA_y4xwokRjY7waVQOtsU&center=40.347788699999995,-74.0654911"
+    }
+  ],
+  "team_lunch": [
+    {
+      "name": "Linares Grocery and Mexican Food",
+      "distance": "0.1 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Linares%20Grocery%20and%20Mexican%20Food&query_place_id=ChIJDXd9rTUwwokRQb4MDlhzTLE&center=40.349033000000006,-74.073362"
+    },
+    {
+      "name": "Juanito's Bakery",
+      "distance": "0.2 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Juanito's%20Bakery&query_place_id=ChIJu9maozgxwokRQMU7cTbmQZM&center=40.3451583,-74.075976"
+    },
+    {
+      "name": "Juquila Deli",
+      "distance": "0.2 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Juquila%20Deli&query_place_id=ChIJs7vCgJ8xwokR_pcC0cg_z-A&center=40.3472097,-74.0769067"
+    },
+    {
+      "name": "NEAT Bakery (NEAPOLI Hospitality NH)",
+      "distance": "0.5 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=NEAT%20Bakery%20(NEAPOLI%20Hospitality%20NH)&query_place_id=ChIJQWimmjYxwokR_qPEgYxHDIc&center=40.3500611,-74.0647894"
+    }
+  ],
+  "dinner": [
+    {
+      "name": "JUANITO'S RESTAURANT RED BANK",
+      "distance": "0.1 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=JUANITO'S%20RESTAURANT%20RED%20BANK&query_place_id=ChIJAcl-TjQwwokRcxLVvm8IJLE&center=40.348589,-74.0731716"
+    },
+    {
+      "name": "Bagel Station",
+      "distance": "0.1 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Bagel%20Station&query_place_id=ChIJH-C9rDUwwokRf9gmIh0gnZU&center=40.348988,-74.073626"
+    },
+    {
+      "name": "North of the Border",
+      "distance": "0.2 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=North%20of%20the%20Border&query_place_id=ChIJjwXR5DQwwokRyDhpUOJSOXY&center=40.3488888,-74.0741992"
+    },
+    {
+      "name": "Juanito's Bakery",
+      "distance": "0.2 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Juanito's%20Bakery&query_place_id=ChIJ816F5DQwwokR88oY2k0IwvM&center=40.348870399999996,-74.0746814"
+    },
+    {
+      "name": "El Señor Pepper's",
+      "distance": "0.2 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=El%20Se%C3%B1or%20Pepper's&query_place_id=ChIJ8QBo7zQwwokRtGYVG-9YlgE&center=40.348545,-74.07524699999999"
+    }
+  ],
+  "bowling": [],
+  "arcade": [],
+  "movies": [
+    {
+      "name": "Basie Center Cinema House",
+      "distance": "0.4 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Basie%20Center%20Cinema%20House&query_place_id=ChIJebq_JkgwwokRqUdH2pT35x4&center=40.350704799999995,-74.0673797"
+    },
+    {
+      "name": "AMC Monmouth Mall 15",
+      "distance": "4.3 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=AMC%20Monmouth%20Mall%2015&query_place_id=ChIJPXtKdaIvwokR7POnJkSspmQ&center=40.287194299999996,-74.0532173",
+      "isFar": true
+    },
+    {
+      "name": "Smodcastle Cinemas",
+      "distance": "4.9 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Smodcastle%20Cinemas&query_place_id=ChIJrUpC9KY3wokRITSc0o47ayw&center=40.4135296,-74.0375858",
+      "isFar": true
+    }
+  ],
+  "fun": [
+    {
+      "name": "War Memorial",
+      "distance": "0.2 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=War%20Memorial&query_place_id=ChIJM-GA6NAxwokR1dk4IWeJe2M&center=40.3494142,-74.0698615"
+    },
+    {
+      "name": "Knockerball & More",
+      "distance": "4.2 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Knockerball%20%26%20More&query_place_id=ChIJS8EvxD0zwokRssdKjjIR390&center=40.2874793,-74.0530888",
+      "isFar": true
+    }
+  ],
+  "hotels": [
+    {
+      "name": "House on the river",
+      "distance": "0.3 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=House%20on%20the%20river&query_place_id=ChIJ9Wgr0zQwwokRoau6dH_rKqk&center=40.348999,-74.0770035"
+    },
+    {
+      "name": "The Molly Pitcher Inn",
+      "distance": "0.4 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=The%20Molly%20Pitcher%20Inn&query_place_id=ChIJ8WNhQ0owwokRNGHtoWRa7Ok&center=40.3529724,-74.0731773"
+    },
+    {
+      "name": "Hathaway H",
+      "distance": "0.4 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Hathaway%20H&query_place_id=ChIJ9418zzkwwokRMfcv_8ehH6g&center=40.347024999999995,-74.0642967"
+    },
+    {
+      "name": "The Oyster Point Hotel",
+      "distance": "0.6 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=The%20Oyster%20Point%20Hotel&query_place_id=ChIJNcYLD0swwokRAbQ5M6U6OPw&center=40.355365,-74.0742708"
+    }
+  ],
+  "gas": [
+    {
+      "name": "Exxon",
+      "distance": "0.7 mi",
+      "url": "https://www.google.com/maps/search/Exxon+near+40.3471097%2C-74.07254429999999"
+    },
+    {
+      "name": "Shell",
+      "distance": "0.7 mi",
+      "url": "https://www.google.com/maps/search/Shell+near+40.3471097%2C-74.07254429999999"
+    },
+    {
+      "name": "LUKOIL",
+      "distance": "0.7 mi",
+      "url": "https://www.google.com/maps/search/LUKOIL+near+40.3471097%2C-74.07254429999999"
+    },
+    {
+      "name": "QuickChek Gas Station",
+      "distance": "1.1 mi",
+      "url": "https://www.google.com/maps/search/QuickChek%20Gas%20Station+near+40.3471097%2C-74.07254429999999"
+    }
+  ]
+}

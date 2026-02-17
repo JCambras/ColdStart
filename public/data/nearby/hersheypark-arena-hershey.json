@@ -1,0 +1,176 @@
+{
+  "quick_bite": [
+    {
+      "name": "Chick-fil-A",
+      "distance": "0.1 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Chick-fil-A&query_place_id=ChIJDWWpdzm7yIkRJSQlOjtqyp0&center=40.2887132,-76.6559256"
+    },
+    {
+      "name": "Lemon Drop Shop",
+      "distance": "0.1 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Lemon%20Drop%20Shop&query_place_id=ChIJX9xN5w27yIkRX-psnRA6vnA&center=40.287461199999996,-76.65528479999999"
+    },
+    {
+      "name": "Nathan's Famous",
+      "distance": "0.1 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Nathan's%20Famous&query_place_id=ChIJ9xxLQBC7yIkREn7uZ2n8V-c&center=40.286948699999996,-76.6569995"
+    },
+    {
+      "name": "Subway",
+      "distance": "0.1 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Subway&query_place_id=ChIJUflcVAC7yIkRhRN0WSlw67E&center=40.2894935,-76.6550427"
+    }
+  ],
+  "coffee": [
+    {
+      "name": "Starbucks",
+      "distance": "0.1 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Starbucks&query_place_id=ChIJ22_y2Pi7yIkRly9THZLhCZ4&center=40.28689,-76.65683"
+    },
+    {
+      "name": "Coaster Café",
+      "distance": "0.1 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Coaster%20Caf%C3%A9&query_place_id=ChIJ8x37zTu7yIkRmpSciBvb4v0&center=40.2900921,-76.65613300000001"
+    },
+    {
+      "name": "Taylor Chip Cookies",
+      "distance": "0.3 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Taylor%20Chip%20Cookies&query_place_id=ChIJeTFnc1O7yIkRqGgAHBQiEEA&center=40.2853302,-76.6535828"
+    },
+    {
+      "name": "Duck Donuts",
+      "distance": "0.3 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Duck%20Donuts&query_place_id=ChIJo0j7cUe7yIkR-TwjPEWhhxI&center=40.283586199999995,-76.6564181"
+    }
+  ],
+  "team_lunch": [
+    {
+      "name": "1906 Grill",
+      "distance": "0.1 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=1906%20Grill&query_place_id=ChIJTxDpWim7yIkR4YSwJeD9AuM&center=40.287500699999995,-76.65587909999999"
+    },
+    {
+      "name": "Dispatch Pizzeria - Founder’s Way",
+      "distance": "0.1 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Dispatch%20Pizzeria%20-%20Founder%E2%80%99s%20Way&query_place_id=ChIJbX9wBUK7yIkRfJevqU13gl8&center=40.2871808,-76.6567592"
+    },
+    {
+      "name": "The Chocolatier",
+      "distance": "0.1 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=The%20Chocolatier&query_place_id=ChIJWbD0EPG7yIkRgJFxBy2V_Ps&center=40.287919099999996,-76.6585327"
+    },
+    {
+      "name": "Philly Cheesesteak Co. on the roll",
+      "distance": "0.1 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Philly%20Cheesesteak%20Co.%20on%20the%20roll&query_place_id=ChIJkRA4t4m7yIkRw5SfVCnN2LI&center=40.2896699,-76.65492189999999"
+    },
+    {
+      "name": "Chickie's & Pete's - Pioneer Frontier",
+      "distance": "0.1 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Chickie's%20%26%20Pete's%20-%20Pioneer%20Frontier&query_place_id=ChIJY1HR8sK7yIkR0YxoHzjuExs&center=40.2894268,-76.6544018"
+    },
+    {
+      "name": "Kosher Food Truck",
+      "distance": "0.1 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Kosher%20Food%20Truck&query_place_id=ChIJuQ-f2lC7yIkREO07Y_8fsfU&center=40.286455,-76.6548291"
+    }
+  ],
+  "dinner": [
+    {
+      "name": "Chocolatetown Treats",
+      "distance": "0.1 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Chocolatetown%20Treats&query_place_id=ChIJD51TNgS7yIkRw-OwtuO2YNQ&center=40.2881023,-76.65887169999999"
+    },
+    {
+      "name": "Spring Creek Smokehouse",
+      "distance": "0.2 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Spring%20Creek%20Smokehouse&query_place_id=ChIJv8a5yga7yIkR3TZy7ucDDRg&center=40.289028599999995,-76.6540006"
+    },
+    {
+      "name": "East Coast Mini Donuts",
+      "distance": "0.2 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=East%20Coast%20Mini%20Donuts&query_place_id=ChIJNfZVSsa7yIkRnSDJlsJYeVk&center=40.2911989,-76.6546443"
+    },
+    {
+      "name": "Bagel Lovers @ Fresh Market",
+      "distance": "0.2 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Bagel%20Lovers%20%40%20Fresh%20Market&query_place_id=ChIJrbRhp8u7yIkRXBLj7EZjGrk&center=40.2853493,-76.6538947"
+    },
+    {
+      "name": "The Bakery",
+      "distance": "0.3 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=The%20Bakery&query_place_id=ChIJS5m6TrG7yIkR_AgUH5VCpDU&center=40.2884107,-76.66148629999999"
+    },
+    {
+      "name": "Primanti Bros. Restaurant and Bar",
+      "distance": "0.3 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Primanti%20Bros.%20Restaurant%20and%20Bar&query_place_id=ChIJXSEQiGK7yIkRt7PhFFrNdTg&center=40.2846327,-76.6534678"
+    }
+  ],
+  "bowling": [
+    {
+      "name": "Palmyra Bowling",
+      "distance": "4.7 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Palmyra%20Bowling&query_place_id=ChIJ20zD6ZWlyIkR8WXav3fjhj4&center=40.3159741,-76.576247",
+      "isFar": true
+    }
+  ],
+  "arcade": [],
+  "movies": [],
+  "fun": [
+    {
+      "name": "Hershey's Chocolatetown",
+      "distance": "0.1 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Hershey's%20Chocolatetown&query_place_id=ChIJoZrpyi67yIkR8RtcSYaLWic&center=40.2873243,-76.6587996"
+    },
+    {
+      "name": "Kisses Fountain",
+      "distance": "0.2 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Kisses%20Fountain&query_place_id=ChIJe45PNm-7yIkRM_cCi-Ssi1c&center=40.28707620000001,-76.6591477"
+    },
+    {
+      "name": "Hersheypark",
+      "distance": "0.2 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Hersheypark&query_place_id=ChIJqQV85zu7yIkRZK1f8TwXD58&center=40.2888106,-76.6597223"
+    },
+    {
+      "name": "Hershey's Chocolate World",
+      "distance": "0.2 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Hershey's%20Chocolate%20World&query_place_id=ChIJoyiw6D67yIkR-km0q_v6IlU&center=40.288359,-76.66024569999999"
+    }
+  ],
+  "hotels": [
+    {
+      "name": "Hersheypark Christmas Candylane",
+      "distance": "0.1 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Hersheypark%20Christmas%20Candylane&query_place_id=ChIJ64Kfspy7yIkR6HDJsxHy_14&center=40.2892946,-76.6547298"
+    },
+    {
+      "name": "Hershey",
+      "distance": "0.3 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Hershey&query_place_id=ChIJiQbcbgC7yIkR5PNGWm_LvSo&center=40.2850365,-76.6523402"
+    }
+  ],
+  "gas": [
+    {
+      "name": "Exxon",
+      "distance": "0.7 mi",
+      "url": "https://www.google.com/maps/search/Exxon+near+40.2881272%2C-76.6566126"
+    },
+    {
+      "name": "Sunoco",
+      "distance": "1.0 mi",
+      "url": "https://www.google.com/maps/search/Sunoco+near+40.2881272%2C-76.6566126"
+    },
+    {
+      "name": "Citgo",
+      "distance": "1.4 mi",
+      "url": "https://www.google.com/maps/search/Citgo+near+40.2881272%2C-76.6566126"
+    },
+    {
+      "name": "Conoco",
+      "distance": "1.9 mi",
+      "url": "https://www.google.com/maps/search/Conoco+near+40.2881272%2C-76.6566126"
+    }
+  ]
+}

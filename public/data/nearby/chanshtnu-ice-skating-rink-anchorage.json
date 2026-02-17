@@ -1,0 +1,214 @@
+{
+  "quick_bite": [
+    {
+      "name": "Taco Bell",
+      "distance": "0.2 mi",
+      "url": "https://www.google.com/maps/search/Taco%20Bell+near+61.209013799999994%2C-149.7320284"
+    },
+    {
+      "name": "Arby's",
+      "distance": "0.2 mi",
+      "url": "https://www.google.com/maps/search/Arby's+near+61.209013799999994%2C-149.7320284"
+    },
+    {
+      "name": "Wendy's",
+      "distance": "0.3 mi",
+      "url": "https://www.google.com/maps/search/Wendy's+near+61.209013799999994%2C-149.7320284"
+    },
+    {
+      "name": "Subway",
+      "distance": "0.4 mi",
+      "url": "https://www.google.com/maps/search/Subway+near+61.209013799999994%2C-149.7320284"
+    },
+    {
+      "name": "Hamburger Haven",
+      "distance": "0.5 mi",
+      "url": "https://www.google.com/maps/search/Hamburger%20Haven+near+61.209013799999994%2C-149.7320284"
+    }
+  ],
+  "coffee": [
+    {
+      "name": "Starbucks Coffee Company",
+      "distance": "0.1 mi",
+      "url": "https://www.google.com/maps/search/Starbucks%20Coffee%20Company+near+61.209013799999994%2C-149.7320284"
+    },
+    {
+      "name": "Krispy Kreme Doughnuts",
+      "distance": "0.1 mi",
+      "url": "https://www.google.com/maps/search/Krispy%20Kreme%20Doughnuts+near+61.209013799999994%2C-149.7320284"
+    },
+    {
+      "name": "Starbucks Coffee Company",
+      "distance": "0.2 mi",
+      "url": "https://www.google.com/maps/search/Starbucks%20Coffee%20Company+near+61.209013799999994%2C-149.7320284"
+    },
+    {
+      "name": "gambo restorante",
+      "distance": "0.2 mi",
+      "url": "https://www.google.com/maps/search/gambo%20restorante+near+61.209013799999994%2C-149.7320284"
+    },
+    {
+      "name": "Brew DLicious LLC",
+      "distance": "0.6 mi",
+      "url": "https://www.google.com/maps/search/Brew%20DLicious%20LLC+near+61.209013799999994%2C-149.7320284"
+    }
+  ],
+  "team_lunch": [
+    {
+      "name": "Wingstop",
+      "distance": "0.1 mi",
+      "url": "https://www.google.com/maps/search/Wingstop+near+61.209013799999994%2C-149.7320284"
+    },
+    {
+      "name": "Ding How Mongolian BBQ",
+      "distance": "0.1 mi",
+      "url": "https://www.google.com/maps/search/Ding%20How%20Mongolian%20BBQ+near+61.209013799999994%2C-149.7320284"
+    },
+    {
+      "name": "Oriental Garden",
+      "distance": "0.4 mi",
+      "url": "https://www.google.com/maps/search/Oriental%20Garden+near+61.209013799999994%2C-149.7320284"
+    },
+    {
+      "name": "Walmart Bakery",
+      "distance": "0.5 mi",
+      "url": "https://www.google.com/maps/search/Walmart%20Bakery+near+61.209013799999994%2C-149.7320284"
+    }
+  ],
+  "dinner": [
+    {
+      "name": "Celiacs' Delights",
+      "distance": "0.1 mi",
+      "url": "https://www.google.com/maps/search/Celiacs'%20Delights+near+61.209013799999994%2C-149.7320284"
+    },
+    {
+      "name": "Samurai Sushi",
+      "distance": "0.1 mi",
+      "url": "https://www.google.com/maps/search/Samurai%20Sushi+near+61.209013799999994%2C-149.7320284"
+    },
+    {
+      "name": "Top Wings",
+      "distance": "0.1 mi",
+      "url": "https://www.google.com/maps/search/Top%20Wings+near+61.209013799999994%2C-149.7320284"
+    },
+    {
+      "name": "Thai Village Restaurant",
+      "distance": "0.3 mi",
+      "url": "https://www.google.com/maps/search/Thai%20Village%20Restaurant+near+61.209013799999994%2C-149.7320284"
+    },
+    {
+      "name": "Ronnie 2 Sushi",
+      "distance": "0.3 mi",
+      "url": "https://www.google.com/maps/search/Ronnie%202%20Sushi+near+61.209013799999994%2C-149.7320284"
+    }
+  ],
+  "bowling": [
+    {
+      "name": "Polar Bowl",
+      "distance": "4.5 mi",
+      "url": "https://www.google.com/maps/search/Polar%20Bowl+near+61.209013799999994%2C-149.7320284",
+      "isFar": true
+    }
+  ],
+  "arcade": [],
+  "movies": [
+    {
+      "name": "Regal Totem",
+      "distance": "1.1 mi",
+      "url": "https://www.google.com/maps/search/Regal%20Totem+near+61.209013799999994%2C-149.7320284"
+    },
+    {
+      "name": "Regal Tikahtnu",
+      "distance": "1.3 mi",
+      "url": "https://www.google.com/maps/search/Regal%20Tikahtnu+near+61.209013799999994%2C-149.7320284"
+    },
+    {
+      "name": "Frontier Theater",
+      "distance": "3.3 mi",
+      "url": "https://www.google.com/maps/search/Frontier%20Theater+near+61.209013799999994%2C-149.7320284",
+      "isFar": true
+    },
+    {
+      "name": "Talkeetna Theater",
+      "distance": "4.7 mi",
+      "url": "https://www.google.com/maps/search/Talkeetna%20Theater+near+61.209013799999994%2C-149.7320284",
+      "isFar": true
+    }
+  ],
+  "fun": [
+    {
+      "name": "KidsEvent",
+      "distance": "2.1 mi",
+      "url": "https://www.google.com/maps/search/KidsEvent+near+61.209013799999994%2C-149.7320284"
+    },
+    {
+      "name": "Shockwave Trampoline Park",
+      "distance": "2.9 mi",
+      "url": "https://www.google.com/maps/search/Shockwave%20Trampoline%20Park+near+61.209013799999994%2C-149.7320284"
+    }
+  ],
+  "hotels": [
+    {
+      "name": "Peaceful Valley 2",
+      "distance": "0.2 mi",
+      "url": "https://www.google.com/maps/search/Peaceful%20Valley%202+near+61.209013799999994%2C-149.7320284"
+    },
+    {
+      "name": "Mountain Views! Ground floor unit in a triplex near shopping and amenities",
+      "distance": "0.2 mi",
+      "url": "https://www.google.com/maps/search/Mountain%20Views!%20Ground%20floor%20unit%20in%20a%20triplex%20near%20shopping%20and%20amenities+near+61.209013799999994%2C-149.7320284"
+    },
+    {
+      "name": "The Grand Suites inn",
+      "distance": "0.4 mi",
+      "url": "https://www.google.com/maps/search/The%20Grand%20Suites%20inn+near+61.209013799999994%2C-149.7320284"
+    },
+    {
+      "name": "Neighbors of Rangeview MHP",
+      "distance": "0.4 mi",
+      "url": "https://www.google.com/maps/search/Neighbors%20of%20Rangeview%20MHP+near+61.209013799999994%2C-149.7320284"
+    },
+    {
+      "name": "Alaska best Luxury Air BB",
+      "distance": "0.5 mi",
+      "url": "https://www.google.com/maps/search/Alaska%20best%20Luxury%20Air%20BB+near+61.209013799999994%2C-149.7320284"
+    },
+    {
+      "name": "Blueberry Cottage - Quaint Cozy Alaskan home",
+      "distance": "0.5 mi",
+      "url": "https://www.google.com/maps/search/Blueberry%20Cottage%20-%20Quaint%20Cozy%20Alaskan%20home+near+61.209013799999994%2C-149.7320284"
+    },
+    {
+      "name": "Cozy Family-Friendly Alaskan Home",
+      "distance": "0.5 mi",
+      "url": "https://www.google.com/maps/search/Cozy%20Family-Friendly%20Alaskan%20Home+near+61.209013799999994%2C-149.7320284"
+    }
+  ],
+  "gas": [
+    {
+      "name": "Fred Meyer Fuel Center",
+      "distance": "0.1 mi",
+      "url": "https://www.google.com/maps/search/Fred%20Meyer%20Fuel%20Center+near+61.209013799999994%2C-149.7320284"
+    },
+    {
+      "name": "Arco",
+      "distance": "0.6 mi",
+      "url": "https://www.google.com/maps/search/Arco+near+61.209013799999994%2C-149.7320284"
+    },
+    {
+      "name": "Chevron Denali Express",
+      "distance": "0.6 mi",
+      "url": "https://www.google.com/maps/search/Chevron%20Denali%20Express+near+61.209013799999994%2C-149.7320284"
+    },
+    {
+      "name": "Circle k",
+      "distance": "0.8 mi",
+      "url": "https://www.google.com/maps/search/Circle%20k+near+61.209013799999994%2C-149.7320284"
+    },
+    {
+      "name": "Circle K Gas Station",
+      "distance": "0.8 mi",
+      "url": "https://www.google.com/maps/search/Circle%20K%20Gas%20Station+near+61.209013799999994%2C-149.7320284"
+    }
+  ]
+}

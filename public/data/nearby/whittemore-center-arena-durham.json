@@ -1,0 +1,221 @@
+{
+  "quick_bite": [
+    {
+      "name": "Subway",
+      "distance": "0.4 mi",
+      "url": "https://www.google.com/maps/search/Subway+near+43.1396934%2C-70.934407"
+    },
+    {
+      "name": "Hop + Grind",
+      "distance": "0.5 mi",
+      "url": "https://www.google.com/maps/search/Hop%20%2B%20Grind+near+43.1396934%2C-70.934407"
+    },
+    {
+      "name": "Franz's Food",
+      "distance": "0.6 mi",
+      "url": "https://www.google.com/maps/search/Franz's%20Food+near+43.1396934%2C-70.934407"
+    },
+    {
+      "name": "Centrally Located Cape",
+      "distance": "2.9 mi",
+      "url": "https://www.google.com/maps/search/Centrally%20Located%20Cape+near+43.1396934%2C-70.934407"
+    }
+  ],
+  "coffee": [
+    {
+      "name": "Northeast Pie Company",
+      "distance": "0.3 mi",
+      "url": "https://www.google.com/maps/search/Northeast%20Pie%20Company+near+43.1396934%2C-70.934407"
+    },
+    {
+      "name": "Zeke's Café",
+      "distance": "0.3 mi",
+      "url": "https://www.google.com/maps/search/Zeke's%20Caf%C3%A9+near+43.1396934%2C-70.934407"
+    },
+    {
+      "name": "CornerStone 1926",
+      "distance": "0.3 mi",
+      "url": "https://www.google.com/maps/search/CornerStone%201926+near+43.1396934%2C-70.934407"
+    },
+    {
+      "name": "Dunkin'",
+      "distance": "0.4 mi",
+      "url": "https://www.google.com/maps/search/Dunkin'+near+43.1396934%2C-70.934407"
+    },
+    {
+      "name": "Ramon’s Food & Coffee Cart University of New Hampshire",
+      "distance": "0.4 mi",
+      "url": "https://www.google.com/maps/search/Ramon%E2%80%99s%20Food%20%26%20Coffee%20Cart%20University%20of%20New%20Hampshire+near+43.1396934%2C-70.934407"
+    },
+    {
+      "name": "Aroma Joe’s",
+      "distance": "0.4 mi",
+      "url": "https://www.google.com/maps/search/Aroma%20Joe%E2%80%99s+near+43.1396934%2C-70.934407"
+    },
+    {
+      "name": "The Grind",
+      "distance": "0.5 mi",
+      "url": "https://www.google.com/maps/search/The%20Grind+near+43.1396934%2C-70.934407"
+    }
+  ],
+  "team_lunch": [
+    {
+      "name": "UNH Wildcatessen",
+      "distance": "0.3 mi",
+      "url": "https://www.google.com/maps/search/UNH%20Wildcatessen+near+43.1396934%2C-70.934407"
+    }
+  ],
+  "dinner": [
+    {
+      "name": "rise + grind",
+      "distance": "0.5 mi",
+      "url": "https://www.google.com/maps/search/rise%20%2B%20grind+near+43.1396934%2C-70.934407"
+    },
+    {
+      "name": "Sweetened Memories Bakery",
+      "distance": "0.5 mi",
+      "url": "https://www.google.com/maps/search/Sweetened%20Memories%20Bakery+near+43.1396934%2C-70.934407"
+    },
+    {
+      "name": "Thai Smile 2",
+      "distance": "0.5 mi",
+      "url": "https://www.google.com/maps/search/Thai%20Smile%202+near+43.1396934%2C-70.934407"
+    },
+    {
+      "name": "The Blue Flame Restaurant and Entertainment",
+      "distance": "0.5 mi",
+      "url": "https://www.google.com/maps/search/The%20Blue%20Flame%20Restaurant%20and%20Entertainment+near+43.1396934%2C-70.934407"
+    },
+    {
+      "name": "Sushi ToGo",
+      "distance": "0.5 mi",
+      "url": "https://www.google.com/maps/search/Sushi%20ToGo+near+43.1396934%2C-70.934407"
+    },
+    {
+      "name": "The Big Bean Durham",
+      "distance": "0.5 mi",
+      "url": "https://www.google.com/maps/search/The%20Big%20Bean%20Durham+near+43.1396934%2C-70.934407"
+    },
+    {
+      "name": "Bamee Restaurant",
+      "distance": "0.5 mi",
+      "url": "https://www.google.com/maps/search/Bamee%20Restaurant+near+43.1396934%2C-70.934407"
+    }
+  ],
+  "bowling": [],
+  "arcade": [],
+  "movies": [
+    {
+      "name": "MUB Movies University of New Hampshire",
+      "distance": "0.4 mi",
+      "url": "https://www.google.com/maps/search/MUB%20Movies%20University%20of%20New%20Hampshire+near+43.1396934%2C-70.934407"
+    },
+    {
+      "name": "BarnZ's Barrington Cinema",
+      "distance": "5.7 mi",
+      "url": "https://www.google.com/maps/search/BarnZ's%20Barrington%20Cinema+near+43.1396934%2C-70.934407",
+      "isFar": true
+    },
+    {
+      "name": "Regal Fox Run",
+      "distance": "7.4 mi",
+      "url": "https://www.google.com/maps/search/Regal%20Fox%20Run+near+43.1396934%2C-70.934407",
+      "isFar": true
+    }
+  ],
+  "fun": [
+    {
+      "name": "Beyond Escape Escape Rooms",
+      "distance": "0.5 mi",
+      "url": "https://www.google.com/maps/search/Beyond%20Escape%20Escape%20Rooms+near+43.1396934%2C-70.934407"
+    },
+    {
+      "name": "Aqua Land Splash Pad",
+      "distance": "4.6 mi",
+      "url": "https://www.google.com/maps/search/Aqua%20Land%20Splash%20Pad+near+43.1396934%2C-70.934407",
+      "isFar": true
+    },
+    {
+      "name": "Hilltop Fun Center",
+      "distance": "7.1 mi",
+      "url": "https://www.google.com/maps/search/Hilltop%20Fun%20Center+near+43.1396934%2C-70.934407",
+      "isFar": true
+    },
+    {
+      "name": "Glow Silent Disco",
+      "distance": "7.2 mi",
+      "url": "https://www.google.com/maps/search/Glow%20Silent%20Disco+near+43.1396934%2C-70.934407",
+      "isFar": true
+    },
+    {
+      "name": "Game Show Face Off",
+      "distance": "7.2 mi",
+      "url": "https://www.google.com/maps/search/Game%20Show%20Face%20Off+near+43.1396934%2C-70.934407",
+      "isFar": true
+    }
+  ],
+  "hotels": [
+    {
+      "name": "Holiday Inn Express Durham - (Unh) by IHG",
+      "distance": "0.8 mi",
+      "url": "https://www.google.com/maps/search/Holiday%20Inn%20Express%20Durham%20-%20(Unh)%20by%20IHG+near+43.1396934%2C-70.934407"
+    },
+    {
+      "name": "Anchor at Tideline",
+      "distance": "0.9 mi",
+      "url": "https://www.google.com/maps/search/Anchor%20at%20Tideline+near+43.1396934%2C-70.934407"
+    },
+    {
+      "name": "Three Chimneys Inn & Frost Sawyer Tavern",
+      "distance": "0.9 mi",
+      "url": "https://www.google.com/maps/search/Three%20Chimneys%20Inn%20%26%20Frost%20Sawyer%20Tavern+near+43.1396934%2C-70.934407"
+    },
+    {
+      "name": "Coveted Public House suite, food trucks & craft beer on site, walk to UNH & town",
+      "distance": "1.0 mi",
+      "url": "https://www.google.com/maps/search/Coveted%20Public%20House%20suite%2C%20food%20trucks%20%26%20craft%20beer%20on%20site%2C%20walk%20to%20UNH%20%26%20town+near+43.1396934%2C-70.934407"
+    },
+    {
+      "name": "Coveted Public House suite, food trucks craft beer on site, walk to UNH town",
+      "distance": "1.0 mi",
+      "url": "https://www.google.com/maps/search/Coveted%20Public%20House%20suite%2C%20food%20trucks%20craft%20beer%20on%20site%2C%20walk%20to%20UNH%20town+near+43.1396934%2C-70.934407"
+    },
+    {
+      "name": "The Pines at Coe's Corner Inc.",
+      "distance": "1.1 mi",
+      "url": "https://www.google.com/maps/search/The%20Pines%20at%20Coe's%20Corner%20Inc.+near+43.1396934%2C-70.934407"
+    },
+    {
+      "name": "The Perch at Haven Hill close to Durham, Dover and the NH historic seacoast",
+      "distance": "1.8 mi",
+      "url": "https://www.google.com/maps/search/The%20Perch%20at%20Haven%20Hill%20close%20to%20Durham%2C%20Dover%20and%20the%20NH%20historic%20seacoast+near+43.1396934%2C-70.934407"
+    }
+  ],
+  "gas": [
+    {
+      "name": "Mobil",
+      "distance": "0.9 mi",
+      "url": "https://www.google.com/maps/search/Mobil+near+43.1396934%2C-70.934407"
+    },
+    {
+      "name": "Circle K | Gas Station",
+      "distance": "0.9 mi",
+      "url": "https://www.google.com/maps/search/Circle%20K%20%7C%20Gas%20Station+near+43.1396934%2C-70.934407"
+    },
+    {
+      "name": "Irving Oil",
+      "distance": "0.9 mi",
+      "url": "https://www.google.com/maps/search/Irving%20Oil+near+43.1396934%2C-70.934407"
+    },
+    {
+      "name": "Irving Oil",
+      "distance": "3.2 mi",
+      "url": "https://www.google.com/maps/search/Irving%20Oil+near+43.1396934%2C-70.934407"
+    },
+    {
+      "name": "Circle K | Gas Station",
+      "distance": "3.2 mi",
+      "url": "https://www.google.com/maps/search/Circle%20K%20%7C%20Gas%20Station+near+43.1396934%2C-70.934407"
+    }
+  ]
+}

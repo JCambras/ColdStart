@@ -1,0 +1,229 @@
+{
+  "quick_bite": [
+    {
+      "name": "Miami Grill",
+      "distance": "0.3 mi",
+      "url": "https://www.google.com/maps/search/Miami%20Grill+near+26.192286799999998%2C-80.1534993"
+    },
+    {
+      "name": "Major League Heros",
+      "distance": "0.3 mi",
+      "url": "https://www.google.com/maps/search/Major%20League%20Heros+near+26.192286799999998%2C-80.1534993"
+    },
+    {
+      "name": "KFC",
+      "distance": "0.3 mi",
+      "url": "https://www.google.com/maps/search/KFC+near+26.192286799999998%2C-80.1534993"
+    },
+    {
+      "name": "AQUELGOLDO FORT LAUDERDALE",
+      "distance": "0.4 mi",
+      "url": "https://www.google.com/maps/search/AQUELGOLDO%20FORT%20LAUDERDALE+near+26.192286799999998%2C-80.1534993"
+    },
+    {
+      "name": "Waffle House",
+      "distance": "0.4 mi",
+      "url": "https://www.google.com/maps/search/Waffle%20House+near+26.192286799999998%2C-80.1534993"
+    }
+  ],
+  "coffee": [
+    {
+      "name": "McDonald's",
+      "distance": "0.3 mi",
+      "url": "https://www.google.com/maps/search/McDonald's+near+26.192286799999998%2C-80.1534993"
+    },
+    {
+      "name": "Dunkin'",
+      "distance": "0.4 mi",
+      "url": "https://www.google.com/maps/search/Dunkin'+near+26.192286799999998%2C-80.1534993"
+    },
+    {
+      "name": "Capital Bagel",
+      "distance": "0.5 mi",
+      "url": "https://www.google.com/maps/search/Capital%20Bagel+near+26.192286799999998%2C-80.1534993"
+    }
+  ],
+  "team_lunch": [
+    {
+      "name": "BJ's Bakery",
+      "distance": "0.1 mi",
+      "url": "https://www.google.com/maps/search/BJ's%20Bakery+near+26.192286799999998%2C-80.1534993"
+    },
+    {
+      "name": "Taste of The West Indies",
+      "distance": "0.3 mi",
+      "url": "https://www.google.com/maps/search/Taste%20of%20The%20West%20Indies+near+26.192286799999998%2C-80.1534993"
+    },
+    {
+      "name": "LUX RESTAURANT & LOUNGE",
+      "distance": "0.3 mi",
+      "url": "https://www.google.com/maps/search/LUX%20RESTAURANT%20%26%20LOUNGE+near+26.192286799999998%2C-80.1534993"
+    },
+    {
+      "name": "Tummy Remedy",
+      "distance": "0.4 mi",
+      "url": "https://www.google.com/maps/search/Tummy%20Remedy+near+26.192286799999998%2C-80.1534993"
+    },
+    {
+      "name": "Kuya J's Kitchen",
+      "distance": "0.4 mi",
+      "url": "https://www.google.com/maps/search/Kuya%20J's%20Kitchen+near+26.192286799999998%2C-80.1534993"
+    }
+  ],
+  "dinner": [
+    {
+      "name": "Apex Gourmet",
+      "distance": "0.1 mi",
+      "url": "https://www.google.com/maps/search/Apex%20Gourmet+near+26.192286799999998%2C-80.1534993"
+    },
+    {
+      "name": "Michelle’s Flavors Caribbean Restaurant",
+      "distance": "0.3 mi",
+      "url": "https://www.google.com/maps/search/Michelle%E2%80%99s%20Flavors%20Caribbean%20Restaurant+near+26.192286799999998%2C-80.1534993"
+    },
+    {
+      "name": "Michelle Flavor’s Caribbean Restaurant",
+      "distance": "0.3 mi",
+      "url": "https://www.google.com/maps/search/Michelle%20Flavor%E2%80%99s%20Caribbean%20Restaurant+near+26.192286799999998%2C-80.1534993"
+    },
+    {
+      "name": "The Grand Bar and Lounge",
+      "distance": "0.3 mi",
+      "url": "https://www.google.com/maps/search/The%20Grand%20Bar%20and%20Lounge+near+26.192286799999998%2C-80.1534993"
+    },
+    {
+      "name": "B & B Fusion",
+      "distance": "0.4 mi",
+      "url": "https://www.google.com/maps/search/B%20%26%20B%20Fusion+near+26.192286799999998%2C-80.1534993"
+    }
+  ],
+  "bowling": [
+    {
+      "name": "Manor Lanes Bowling and Sports Den Pub",
+      "distance": "2.8 mi",
+      "url": "https://www.google.com/maps/search/Manor%20Lanes%20Bowling%20and%20Sports%20Den%20Pub+near+26.192286799999998%2C-80.1534993"
+    }
+  ],
+  "arcade": [],
+  "movies": [
+    {
+      "name": "AMC DINE-IN Coral Ridge 10",
+      "distance": "2.9 mi",
+      "url": "https://www.google.com/maps/search/AMC%20DINE-IN%20Coral%20Ridge%2010+near+26.192286799999998%2C-80.1534993"
+    },
+    {
+      "name": "Paradigm Cinemas: Gateway Fort Lauderdale",
+      "distance": "4.3 mi",
+      "url": "https://www.google.com/maps/search/Paradigm%20Cinemas%3A%20Gateway%20Fort%20Lauderdale+near+26.192286799999998%2C-80.1534993",
+      "isFar": true
+    },
+    {
+      "name": "AutoNation IMAX 3D Theater",
+      "distance": "4.9 mi",
+      "url": "https://www.google.com/maps/search/AutoNation%20IMAX%203D%20Theater+near+26.192286799999998%2C-80.1534993",
+      "isFar": true
+    }
+  ],
+  "fun": [
+    {
+      "name": "Xtreme Action Park",
+      "distance": "0.1 mi",
+      "url": "https://www.google.com/maps/search/Xtreme%20Action%20Park+near+26.192286799999998%2C-80.1534993"
+    },
+    {
+      "name": "Evolution Escape Rooms",
+      "distance": "0.1 mi",
+      "url": "https://www.google.com/maps/search/Evolution%20Escape%20Rooms+near+26.192286799999998%2C-80.1534993"
+    },
+    {
+      "name": "Dunns Run",
+      "distance": "0.7 mi",
+      "url": "https://www.google.com/maps/search/Dunns%20Run+near+26.192286799999998%2C-80.1534993"
+    },
+    {
+      "name": "Alchemy Escape Rooms",
+      "distance": "1.6 mi",
+      "url": "https://www.google.com/maps/search/Alchemy%20Escape%20Rooms+near+26.192286799999998%2C-80.1534993"
+    },
+    {
+      "name": "Wreck It Ft Laudy",
+      "distance": "2.1 mi",
+      "url": "https://www.google.com/maps/search/Wreck%20It%20Ft%20Laudy+near+26.192286799999998%2C-80.1534993"
+    },
+    {
+      "name": "Sky Zone Fort Lauderdale",
+      "distance": "2.5 mi",
+      "url": "https://www.google.com/maps/search/Sky%20Zone%20Fort%20Lauderdale+near+26.192286799999998%2C-80.1534993"
+    },
+    {
+      "name": "Think Escape Games - Fort Lauderdale",
+      "distance": "3.0 mi",
+      "url": "https://www.google.com/maps/search/Think%20Escape%20Games%20-%20Fort%20Lauderdale+near+26.192286799999998%2C-80.1534993",
+      "isFar": true
+    }
+  ],
+  "hotels": [
+    {
+      "name": "Casa Teka: Lauderdale Home",
+      "distance": "0.3 mi",
+      "url": "https://www.google.com/maps/search/Casa%20Teka%3A%20Lauderdale%20Home+near+26.192286799999998%2C-80.1534993"
+    },
+    {
+      "name": "Charming 3-bedroom house with Gated garden, 10 min from beach, Allows pets",
+      "distance": "0.3 mi",
+      "url": "https://www.google.com/maps/search/Charming%203-bedroom%20house%20with%20Gated%20garden%2C%2010%20min%20from%20beach%2C%20Allows%20pets+near+26.192286799999998%2C-80.1534993"
+    },
+    {
+      "name": "Charming 3-bedroom house with Gated garden, 10 min from beach, Allows pets",
+      "distance": "0.3 mi",
+      "url": "https://www.google.com/maps/search/Charming%203-bedroom%20house%20with%20Gated%20garden%2C%2010%20min%20from%20beach%2C%20Allows%20pets+near+26.192286799999998%2C-80.1534993"
+    },
+    {
+      "name": "Modern Oasis, King Bed Pet Friendly 10m to Beach - Three-Bedroom Home",
+      "distance": "0.3 mi",
+      "url": "https://www.google.com/maps/search/Modern%20Oasis%2C%20King%20Bed%20Pet%20Friendly%2010m%20to%20Beach%20-%20Three-Bedroom%20Home+near+26.192286799999998%2C-80.1534993"
+    },
+    {
+      "name": "Rodeway Inn",
+      "distance": "0.3 mi",
+      "url": "https://www.google.com/maps/search/Rodeway%20Inn+near+26.192286799999998%2C-80.1534993"
+    },
+    {
+      "name": "Fort Lauderdale Grand Hotel",
+      "distance": "0.3 mi",
+      "url": "https://www.google.com/maps/search/Fort%20Lauderdale%20Grand%20Hotel+near+26.192286799999998%2C-80.1534993"
+    },
+    {
+      "name": "Fort Lauderdale 3 miles from the beach .Entire guest suite .",
+      "distance": "0.3 mi",
+      "url": "https://www.google.com/maps/search/Fort%20Lauderdale%203%20miles%20from%20the%20beach%20.Entire%20guest%20suite%20.+near+26.192286799999998%2C-80.1534993"
+    }
+  ],
+  "gas": [
+    {
+      "name": "Gerealco Lauderdale yard",
+      "distance": "0.2 mi",
+      "url": "https://www.google.com/maps/search/Gerealco%20Lauderdale%20yard+near+26.192286799999998%2C-80.1534993"
+    },
+    {
+      "name": "BJ's Gas Station",
+      "distance": "0.2 mi",
+      "url": "https://www.google.com/maps/search/BJ's%20Gas%20Station+near+26.192286799999998%2C-80.1534993"
+    },
+    {
+      "name": "Mobil",
+      "distance": "0.3 mi",
+      "url": "https://www.google.com/maps/search/Mobil+near+26.192286799999998%2C-80.1534993"
+    },
+    {
+      "name": "Shell",
+      "distance": "0.3 mi",
+      "url": "https://www.google.com/maps/search/Shell+near+26.192286799999998%2C-80.1534993"
+    },
+    {
+      "name": "CHEVRON",
+      "distance": "0.3 mi",
+      "url": "https://www.google.com/maps/search/CHEVRON+near+26.192286799999998%2C-80.1534993"
+    }
+  ]
+}

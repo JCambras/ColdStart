@@ -1,0 +1,215 @@
+{
+  "quick_bite": [
+    {
+      "name": "Popeyes Louisiana Kitchen",
+      "distance": "0.5 mi",
+      "url": "https://www.google.com/maps/search/Popeyes%20Louisiana%20Kitchen+near+32.4767194%2C-93.7893819"
+    },
+    {
+      "name": "Whataburger",
+      "distance": "0.5 mi",
+      "url": "https://www.google.com/maps/search/Whataburger+near+32.4767194%2C-93.7893819"
+    },
+    {
+      "name": "Wendy's",
+      "distance": "0.5 mi",
+      "url": "https://www.google.com/maps/search/Wendy's+near+32.4767194%2C-93.7893819"
+    },
+    {
+      "name": "Subway",
+      "distance": "0.6 mi",
+      "url": "https://www.google.com/maps/search/Subway+near+32.4767194%2C-93.7893819"
+    },
+    {
+      "name": "Subway",
+      "distance": "0.6 mi",
+      "url": "https://www.google.com/maps/search/Subway+near+32.4767194%2C-93.7893819"
+    },
+    {
+      "name": "Burger King",
+      "distance": "0.6 mi",
+      "url": "https://www.google.com/maps/search/Burger%20King+near+32.4767194%2C-93.7893819"
+    },
+    {
+      "name": "Krispy Krunchy Chicken",
+      "distance": "0.7 mi",
+      "url": "https://www.google.com/maps/search/Krispy%20Krunchy%20Chicken+near+32.4767194%2C-93.7893819"
+    }
+  ],
+  "coffee": [
+    {
+      "name": "McDonald's",
+      "distance": "0.5 mi",
+      "url": "https://www.google.com/maps/search/McDonald's+near+32.4767194%2C-93.7893819"
+    }
+  ],
+  "team_lunch": [
+    {
+      "name": "Nacho Belle's Food Truck",
+      "distance": "0.4 mi",
+      "url": "https://www.google.com/maps/search/Nacho%20Belle's%20Food%20Truck+near+32.4767194%2C-93.7893819"
+    },
+    {
+      "name": "John's Seafood",
+      "distance": "0.5 mi",
+      "url": "https://www.google.com/maps/search/John's%20Seafood+near+32.4767194%2C-93.7893819"
+    },
+    {
+      "name": "China Hat Chinese Restaurant",
+      "distance": "0.5 mi",
+      "url": "https://www.google.com/maps/search/China%20Hat%20Chinese%20Restaurant+near+32.4767194%2C-93.7893819"
+    }
+  ],
+  "dinner": [
+    {
+      "name": "Red man BBQ",
+      "distance": "0.3 mi",
+      "url": "https://www.google.com/maps/search/Red%20man%20BBQ+near+32.4767194%2C-93.7893819"
+    },
+    {
+      "name": "Chick O' Fish - Shreveport Jewella",
+      "distance": "0.4 mi",
+      "url": "https://www.google.com/maps/search/Chick%20O'%20Fish%20-%20Shreveport%20Jewella+near+32.4767194%2C-93.7893819"
+    },
+    {
+      "name": "Simon's Coney Island",
+      "distance": "0.5 mi",
+      "url": "https://www.google.com/maps/search/Simon's%20Coney%20Island+near+32.4767194%2C-93.7893819"
+    },
+    {
+      "name": "King Turkeylegs and wings",
+      "distance": "0.5 mi",
+      "url": "https://www.google.com/maps/search/King%20Turkeylegs%20and%20wings+near+32.4767194%2C-93.7893819"
+    },
+    {
+      "name": "Southern Maid Donuts",
+      "distance": "0.6 mi",
+      "url": "https://www.google.com/maps/search/Southern%20Maid%20Donuts+near+32.4767194%2C-93.7893819"
+    }
+  ],
+  "bowling": [
+    {
+      "name": "Modern Bowling Solutions",
+      "distance": "5.0 mi",
+      "url": "https://www.google.com/maps/search/Modern%20Bowling%20Solutions+near+32.4767194%2C-93.7893819",
+      "isFar": true
+    },
+    {
+      "name": "All Star Lanes",
+      "distance": "5.0 mi",
+      "url": "https://www.google.com/maps/search/All%20Star%20Lanes+near+32.4767194%2C-93.7893819",
+      "isFar": true
+    }
+  ],
+  "arcade": [],
+  "movies": [
+    {
+      "name": "The Muny",
+      "distance": "3.0 mi",
+      "url": "https://www.google.com/maps/search/The%20Muny+near+32.4767194%2C-93.7893819",
+      "isFar": true
+    },
+    {
+      "name": "minicine?",
+      "distance": "3.1 mi",
+      "url": "https://www.google.com/maps/search/minicine%3F+near+32.4767194%2C-93.7893819",
+      "isFar": true
+    },
+    {
+      "name": "Robinson Film Center",
+      "distance": "3.3 mi",
+      "url": "https://www.google.com/maps/search/Robinson%20Film%20Center+near+32.4767194%2C-93.7893819",
+      "isFar": true
+    },
+    {
+      "name": "Regal Louisiana Boardwalk",
+      "distance": "4.1 mi",
+      "url": "https://www.google.com/maps/search/Regal%20Louisiana%20Boardwalk+near+32.4767194%2C-93.7893819",
+      "isFar": true
+    },
+    {
+      "name": "Foxtrot Cinema Events",
+      "distance": "4.6 mi",
+      "url": "https://www.google.com/maps/search/Foxtrot%20Cinema%20Events+near+32.4767194%2C-93.7893819",
+      "isFar": true
+    }
+  ],
+  "fun": [
+    {
+      "name": "Road Rage Room",
+      "distance": "3.6 mi",
+      "url": "https://www.google.com/maps/search/Road%20Rage%20Room+near+32.4767194%2C-93.7893819",
+      "isFar": true
+    },
+    {
+      "name": "Athletic Academy",
+      "distance": "4.8 mi",
+      "url": "https://www.google.com/maps/search/Athletic%20Academy+near+32.4767194%2C-93.7893819",
+      "isFar": true
+    }
+  ],
+  "hotels": [
+    {
+      "name": "Travel lodge",
+      "distance": "0.2 mi",
+      "url": "https://www.google.com/maps/search/Travel%20lodge+near+32.4767194%2C-93.7893819"
+    },
+    {
+      "name": "Home w/ Yard - Close to Hospitals, Dtwn Shreveport",
+      "distance": "0.5 mi",
+      "url": "https://www.google.com/maps/search/Home%20w%2F%20Yard%20-%20Close%20to%20Hospitals%2C%20Dtwn%20Shreveport+near+32.4767194%2C-93.7893819"
+    },
+    {
+      "name": "Cajun Inn",
+      "distance": "0.7 mi",
+      "url": "https://www.google.com/maps/search/Cajun%20Inn+near+32.4767194%2C-93.7893819"
+    },
+    {
+      "name": "Down South, Charming 2-bedroom house, Sleeps 8, 2 Full Bathrooms",
+      "distance": "0.9 mi",
+      "url": "https://www.google.com/maps/search/Down%20South%2C%20Charming%202-bedroom%20house%2C%20Sleeps%208%2C%202%20Full%20Bathrooms+near+32.4767194%2C-93.7893819"
+    },
+    {
+      "name": "Shady Oaks Cafe",
+      "distance": "1.1 mi",
+      "url": "https://www.google.com/maps/search/Shady%20Oaks%20Cafe+near+32.4767194%2C-93.7893819"
+    },
+    {
+      "name": "Quiet Shreveport Tudor. 5 minutes to Cross Lake.",
+      "distance": "1.1 mi",
+      "url": "https://www.google.com/maps/search/Quiet%20Shreveport%20Tudor.%205%20minutes%20to%20Cross%20Lake.+near+32.4767194%2C-93.7893819"
+    },
+    {
+      "name": "Travelodge by Wyndham Shreveport LA",
+      "distance": "1.2 mi",
+      "url": "https://www.google.com/maps/search/Travelodge%20by%20Wyndham%20Shreveport%20LA+near+32.4767194%2C-93.7893819"
+    }
+  ],
+  "gas": [
+    {
+      "name": "Fresh Start Auto Finance LLC",
+      "distance": "0.5 mi",
+      "url": "https://www.google.com/maps/search/Fresh%20Start%20Auto%20Finance%20LLC+near+32.4767194%2C-93.7893819"
+    },
+    {
+      "name": "AK's CLARK",
+      "distance": "0.5 mi",
+      "url": "https://www.google.com/maps/search/AK's%20CLARK+near+32.4767194%2C-93.7893819"
+    },
+    {
+      "name": "Shell",
+      "distance": "0.5 mi",
+      "url": "https://www.google.com/maps/search/Shell+near+32.4767194%2C-93.7893819"
+    },
+    {
+      "name": "AKS EXPRESS",
+      "distance": "0.5 mi",
+      "url": "https://www.google.com/maps/search/AKS%20EXPRESS+near+32.4767194%2C-93.7893819"
+    },
+    {
+      "name": "RaceWay",
+      "distance": "0.6 mi",
+      "url": "https://www.google.com/maps/search/RaceWay+near+32.4767194%2C-93.7893819"
+    }
+  ]
+}

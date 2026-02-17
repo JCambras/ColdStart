@@ -1,0 +1,183 @@
+{
+  "quick_bite": [
+    {
+      "name": "Subway",
+      "distance": "1.0 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Subway&query_place_id=ChIJDzlh-vqRM4gRkLerH8RvYSc&center=41.058315799999995,-80.3575331"
+    },
+    {
+      "name": "Giant Eagle Prepared Foods",
+      "distance": "1.0 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Giant%20Eagle%20Prepared%20Foods&query_place_id=ChIJNQ36efKRM4gRpKNpKetaZZE&center=41.0537089,-80.3549896"
+    },
+    {
+      "name": "Arby's",
+      "distance": "1.1 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Arby's&query_place_id=ChIJz0SfNvKRM4gRkUQ59FD4d7U&center=41.0539924,-80.3567977"
+    },
+    {
+      "name": "Burger King",
+      "distance": "1.1 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Burger%20King&query_place_id=ChIJG8ZJ_xyRM4gRBVw5S_V5mQs&center=41.06268,-80.35960399999999"
+    }
+  ],
+  "coffee": [
+    {
+      "name": "Sims Cafe",
+      "distance": "1.0 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Sims%20Cafe&query_place_id=ChIJA76KuFCRM4gRg2TuQDOsNQY&center=41.0563296,-80.3561326"
+    },
+    {
+      "name": "3 Thirty-Three Apothecary",
+      "distance": "1.1 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=3%20Thirty-Three%20Apothecary&query_place_id=ChIJDTiDRIKRM4gR_mz78jWvdpc&center=41.0628984,-80.3589484"
+    }
+  ],
+  "team_lunch": [
+    {
+      "name": "Applebee's Grill + Bar",
+      "distance": "1.0 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Applebee's%20Grill%20%2B%20Bar&query_place_id=ChIJ-6uXIPORM4gRv6C3bJZtr-A&center=41.0559635,-80.3572083"
+    },
+    {
+      "name": "Bigtime's Baked Goodies",
+      "distance": "3.7 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Bigtime's%20Baked%20Goodies&query_place_id=ChIJU9Vp0rCPM4gR9ud7Xf7j5W0&center=41.008078499999996,-80.3413064",
+      "isFar": true
+    }
+  ],
+  "dinner": [
+    {
+      "name": "Love & Cake",
+      "distance": "1.0 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Love%20%26%20Cake&query_place_id=ChIJpZ88aMmRM4gReYr8faYxH8Q&center=41.056468699999996,-80.35619020000001"
+    },
+    {
+      "name": "Giant Eagle Bakery",
+      "distance": "1.0 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Giant%20Eagle%20Bakery&query_place_id=ChIJS3LFefKRM4gRmbqWF_k3U2M&center=41.0539357,-80.3549026"
+    },
+    {
+      "name": "Mama Janes Eatery",
+      "distance": "1.0 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Mama%20Janes%20Eatery&query_place_id=ChIJndWpBR2RM4gRulMz6vC0Epg&center=41.0573899,-80.3574692"
+    },
+    {
+      "name": "Soni's Italian Restaurant",
+      "distance": "1.2 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Soni's%20Italian%20Restaurant&query_place_id=ChIJR0v1i_GRM4gRbPXxnhqmWi0&center=41.051837600000006,-80.3573574"
+    },
+    {
+      "name": "Crane Room Grille",
+      "distance": "1.6 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Crane%20Room%20Grille&query_place_id=ChIJRUOZnvuRM4gRV0MPrC4QCtw&center=41.0430908,-80.3575134"
+    }
+  ],
+  "bowling": [
+    {
+      "name": "10 Pin Alley",
+      "distance": "13.1 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=10%20Pin%20Alley&query_place_id=ChIJceq9FJq_M4gRhbuYrks0iPk&center=41.2355094,-80.4396532",
+      "isFar": true
+    },
+    {
+      "name": "Sunset Lanes",
+      "distance": "13.4 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Sunset%20Lanes&query_place_id=ChIJj7FkbC7AM4gRzmVX4IvC02M&center=41.2169647,-80.4922119",
+      "isFar": true
+    },
+    {
+      "name": "Holiday Bowl",
+      "distance": "14.4 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Holiday%20Bowl&query_place_id=ChIJj6SDhhnwM4gRSC82yCJG46U&center=41.050277799999996,-80.6152778",
+      "isFar": true
+    }
+  ],
+  "arcade": [],
+  "movies": [
+    {
+      "name": "Golden Star Theaters - Westgate Cinemas",
+      "distance": "4.3 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Golden%20Star%20Theaters%20-%20Westgate%20Cinemas&query_place_id=ChIJJwuvcFCFM4gR5nymRVn9WLw&center=41.007808,-80.3777021",
+      "isFar": true
+    },
+    {
+      "name": "Golden Star Theaters - Shenango Valley Cinemas",
+      "distance": "13.1 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Golden%20Star%20Theaters%20-%20Shenango%20Valley%20Cinemas&query_place_id=ChIJZUbYIoi_M4gRp6mWc5hQvfM&center=41.230503999999996,-80.455198",
+      "isFar": true
+    }
+  ],
+  "fun": [
+    {
+      "name": "Kuskusky Island",
+      "distance": "5.9 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Kuskusky%20Island&query_place_id=ChIJi_wXOgCNM4gRSRB3Tg_rCd0&center=41.0170403,-80.435942",
+      "isFar": true
+    },
+    {
+      "name": "Pulaski Mill launch",
+      "distance": "6.2 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Pulaski%20Mill%20launch&query_place_id=ChIJYVHMx1yTM4gRdI2Ao8eRQGg&center=41.1118246,-80.4367191",
+      "isFar": true
+    },
+    {
+      "name": "Springfield Falls",
+      "distance": "8.0 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Springfield%20Falls&query_place_id=ChIJv1KkJjCZM4gR42uH5kmi-Tc&center=41.1345039,-80.22006209999999",
+      "isFar": true
+    },
+    {
+      "name": "Turkey Run Hollow",
+      "distance": "8.5 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Turkey%20Run%20Hollow&query_place_id=ChIJQRkfdADrM4gR9U7jsvI0z34&center=41.1367671,-80.46862080000001",
+      "isFar": true
+    }
+  ],
+  "hotels": [
+    {
+      "name": "Moss NN Co Inc",
+      "distance": "0.6 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Moss%20NN%20Co%20Inc&query_place_id=ChIJ2dRLJ5GRM4gRXV8dhtpCnAI&center=41.063925999999995,-80.350183"
+    },
+    {
+      "name": "The Jacqueline House of Wilmington",
+      "distance": "2.2 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=The%20Jacqueline%20House%20of%20Wilmington&query_place_id=ChIJn9O6pR-RM4gRtrb4c-pF-hQ&center=41.093142,-80.3286646"
+    },
+    {
+      "name": "Neshannock Creekside Log Cabin",
+      "distance": "3.2 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Neshannock%20Creekside%20Log%20Cabin&query_place_id=ChIJa5NFv5eQM4gRsB_GL_EPmow&center=41.0900192,-80.2895736",
+      "isFar": true
+    },
+    {
+      "name": "Neshannock Creekside Log Cabin",
+      "distance": "3.2 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Neshannock%20Creekside%20Log%20Cabin&query_place_id=ChIJif9Ev5eQM4gRfjJDNIGEkxo&center=41.090023099999996,-80.2895661",
+      "isFar": true
+    }
+  ],
+  "gas": [
+    {
+      "name": "GetGo Gas Station",
+      "distance": "1.1 mi",
+      "url": "https://www.google.com/maps/search/GetGo%20Gas%20Station+near+41.061837%2C-80.338645"
+    },
+    {
+      "name": "North pit oral",
+      "distance": "1.3 mi",
+      "url": "https://www.google.com/maps/search/North%20pit%20oral+near+41.061837%2C-80.338645"
+    },
+    {
+      "name": "Sunoco",
+      "distance": "3.1 mi",
+      "url": "https://www.google.com/maps/search/Sunoco+near+41.061837%2C-80.338645"
+    },
+    {
+      "name": "Marathon Gas",
+      "distance": "3.2 mi",
+      "url": "https://www.google.com/maps/search/Marathon%20Gas+near+41.061837%2C-80.338645"
+    }
+  ]
+}

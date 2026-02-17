@@ -1,0 +1,255 @@
+{
+  "quick_bite": [
+    {
+      "name": "Dairy Queen Grill & Chill",
+      "distance": "0.3 mi",
+      "url": "https://www.google.com/maps/search/Dairy%20Queen%20Grill%20%26%20Chill+near+46.8651583%2C-96.83384989999999"
+    },
+    {
+      "name": "Wendy's",
+      "distance": "0.3 mi",
+      "url": "https://www.google.com/maps/search/Wendy's+near+46.8651583%2C-96.83384989999999"
+    },
+    {
+      "name": "Jimmy John's",
+      "distance": "0.4 mi",
+      "url": "https://www.google.com/maps/search/Jimmy%20John's+near+46.8651583%2C-96.83384989999999"
+    },
+    {
+      "name": "Sunset Lanes",
+      "distance": "4.4 mi",
+      "url": "https://www.google.com/maps/search/Sunset%20Lanes+near+46.8651583%2C-96.83384989999999",
+      "isFar": true
+    }
+  ],
+  "coffee": [
+    {
+      "name": "Café Robert",
+      "distance": "0.4 mi",
+      "url": "https://www.google.com/maps/search/Caf%C3%A9%20Robert+near+46.8651583%2C-96.83384989999999"
+    }
+  ],
+  "team_lunch": [
+    {
+      "name": "Atlas Food Inc",
+      "distance": "0.1 mi",
+      "url": "https://www.google.com/maps/search/Atlas%20Food%20Inc+near+46.8651583%2C-96.83384989999999"
+    },
+    {
+      "name": "MrBeast Burger",
+      "distance": "0.3 mi",
+      "url": "https://www.google.com/maps/search/MrBeast%20Burger+near+46.8651583%2C-96.83384989999999"
+    },
+    {
+      "name": "Perkins American Food Co.",
+      "distance": "0.3 mi",
+      "url": "https://www.google.com/maps/search/Perkins%20American%20Food%20Co.+near+46.8651583%2C-96.83384989999999"
+    },
+    {
+      "name": "Taste of Philly",
+      "distance": "0.4 mi",
+      "url": "https://www.google.com/maps/search/Taste%20of%20Philly+near+46.8651583%2C-96.83384989999999"
+    },
+    {
+      "name": "Picadeli",
+      "distance": "0.4 mi",
+      "url": "https://www.google.com/maps/search/Picadeli+near+46.8651583%2C-96.83384989999999"
+    },
+    {
+      "name": "Casey's",
+      "distance": "0.4 mi",
+      "url": "https://www.google.com/maps/search/Casey's+near+46.8651583%2C-96.83384989999999"
+    },
+    {
+      "name": "Applebee's Grill + Bar",
+      "distance": "0.5 mi",
+      "url": "https://www.google.com/maps/search/Applebee's%20Grill%20%2B%20Bar+near+46.8651583%2C-96.83384989999999"
+    }
+  ],
+  "dinner": [
+    {
+      "name": "Sickies Garage Burgers & Brews",
+      "distance": "0.2 mi",
+      "url": "https://www.google.com/maps/search/Sickies%20Garage%20Burgers%20%26%20Brews+near+46.8651583%2C-96.83384989999999"
+    },
+    {
+      "name": "O’Clevy’s Drink’s and Eats",
+      "distance": "0.2 mi",
+      "url": "https://www.google.com/maps/search/O%E2%80%99Clevy%E2%80%99s%20Drink%E2%80%99s%20and%20Eats+near+46.8651583%2C-96.83384989999999"
+    },
+    {
+      "name": "Acapulco Mexican Restaurant",
+      "distance": "0.3 mi",
+      "url": "https://www.google.com/maps/search/Acapulco%20Mexican%20Restaurant+near+46.8651583%2C-96.83384989999999"
+    },
+    {
+      "name": "Athena's Pizza",
+      "distance": "0.3 mi",
+      "url": "https://www.google.com/maps/search/Athena's%20Pizza+near+46.8651583%2C-96.83384989999999"
+    },
+    {
+      "name": "Vaqueros Taqueria and Mexican Restaurant",
+      "distance": "0.3 mi",
+      "url": "https://www.google.com/maps/search/Vaqueros%20Taqueria%20and%20Mexican%20Restaurant+near+46.8651583%2C-96.83384989999999"
+    },
+    {
+      "name": "Pho TiTi",
+      "distance": "0.3 mi",
+      "url": "https://www.google.com/maps/search/Pho%20TiTi+near+46.8651583%2C-96.83384989999999"
+    },
+    {
+      "name": "Deli & Bakery Express",
+      "distance": "0.4 mi",
+      "url": "https://www.google.com/maps/search/Deli%20%26%20Bakery%20Express+near+46.8651583%2C-96.83384989999999"
+    }
+  ],
+  "bowling": [
+    {
+      "name": "West Acres Bowl",
+      "distance": "0.2 mi",
+      "url": "https://www.google.com/maps/search/West%20Acres%20Bowl+near+46.8651583%2C-96.83384989999999"
+    },
+    {
+      "name": "The Bowler Inc.",
+      "distance": "2.5 mi",
+      "url": "https://www.google.com/maps/search/The%20Bowler%20Inc.+near+46.8651583%2C-96.83384989999999"
+    },
+    {
+      "name": "Red River Lanes",
+      "distance": "3.9 mi",
+      "url": "https://www.google.com/maps/search/Red%20River%20Lanes+near+46.8651583%2C-96.83384989999999",
+      "isFar": true
+    },
+    {
+      "name": "Xcalibur Entertainment",
+      "distance": "3.9 mi",
+      "url": "https://www.google.com/maps/search/Xcalibur%20Entertainment+near+46.8651583%2C-96.83384989999999",
+      "isFar": true
+    },
+    {
+      "name": "Kingpinz Social",
+      "distance": "4.1 mi",
+      "url": "https://www.google.com/maps/search/Kingpinz%20Social+near+46.8651583%2C-96.83384989999999",
+      "isFar": true
+    }
+  ],
+  "arcade": [],
+  "movies": [
+    {
+      "name": "Marcus Century Cinema",
+      "distance": "0.6 mi",
+      "url": "https://www.google.com/maps/search/Marcus%20Century%20Cinema+near+46.8651583%2C-96.83384989999999"
+    },
+    {
+      "name": "Marcus West Acres Cinema",
+      "distance": "0.9 mi",
+      "url": "https://www.google.com/maps/search/Marcus%20West%20Acres%20Cinema+near+46.8651583%2C-96.83384989999999"
+    },
+    {
+      "name": "Fargo Theatre",
+      "distance": "2.4 mi",
+      "url": "https://www.google.com/maps/search/Fargo%20Theatre+near+46.8651583%2C-96.83384989999999"
+    }
+  ],
+  "fun": [
+    {
+      "name": "Escape Jr's",
+      "distance": "0.5 mi",
+      "url": "https://www.google.com/maps/search/Escape%20Jr's+near+46.8651583%2C-96.83384989999999"
+    },
+    {
+      "name": "Sky Zone Trampoline Park",
+      "distance": "0.6 mi",
+      "url": "https://www.google.com/maps/search/Sky%20Zone%20Trampoline%20Park+near+46.8651583%2C-96.83384989999999"
+    },
+    {
+      "name": "Fargo Escape Room",
+      "distance": "1.7 mi",
+      "url": "https://www.google.com/maps/search/Fargo%20Escape%20Room+near+46.8651583%2C-96.83384989999999"
+    },
+    {
+      "name": "Exit Strategy",
+      "distance": "1.9 mi",
+      "url": "https://www.google.com/maps/search/Exit%20Strategy+near+46.8651583%2C-96.83384989999999"
+    },
+    {
+      "name": "Thunder Road",
+      "distance": "2.0 mi",
+      "url": "https://www.google.com/maps/search/Thunder%20Road+near+46.8651583%2C-96.83384989999999"
+    },
+    {
+      "name": "Hartze's Sorta Resorta",
+      "distance": "2.7 mi",
+      "url": "https://www.google.com/maps/search/Hartze's%20Sorta%20Resorta+near+46.8651583%2C-96.83384989999999"
+    },
+    {
+      "name": "Puzzled Escape Rooms",
+      "distance": "2.8 mi",
+      "url": "https://www.google.com/maps/search/Puzzled%20Escape%20Rooms+near+46.8651583%2C-96.83384989999999"
+    }
+  ],
+  "hotels": [
+    {
+      "name": "Ramada by Wyndham Fargo",
+      "distance": "0.2 mi",
+      "url": "https://www.google.com/maps/search/Ramada%20by%20Wyndham%20Fargo+near+46.8651583%2C-96.83384989999999"
+    },
+    {
+      "name": "Park Inn by Radisson, Fargo West Acres",
+      "distance": "0.3 mi",
+      "url": "https://www.google.com/maps/search/Park%20Inn%20by%20Radisson%2C%20Fargo%20West%20Acres+near+46.8651583%2C-96.83384989999999"
+    },
+    {
+      "name": "Motel 6 Fargo, ND - West Acres - North Fargo",
+      "distance": "0.3 mi",
+      "url": "https://www.google.com/maps/search/Motel%206%20Fargo%2C%20ND%20-%20West%20Acres%20-%20North%20Fargo+near+46.8651583%2C-96.83384989999999"
+    },
+    {
+      "name": "Bison Inn & Suites",
+      "distance": "0.3 mi",
+      "url": "https://www.google.com/maps/search/Bison%20Inn%20%26%20Suites+near+46.8651583%2C-96.83384989999999"
+    },
+    {
+      "name": "Country Inn & Suites by Radisson, Fargo, ND",
+      "distance": "0.3 mi",
+      "url": "https://www.google.com/maps/search/Country%20Inn%20%26%20Suites%20by%20Radisson%2C%20Fargo%2C%20ND+near+46.8651583%2C-96.83384989999999"
+    },
+    {
+      "name": "Days Inn by Wyndham Fargo",
+      "distance": "0.4 mi",
+      "url": "https://www.google.com/maps/search/Days%20Inn%20by%20Wyndham%20Fargo+near+46.8651583%2C-96.83384989999999"
+    },
+    {
+      "name": "Grand Inn",
+      "distance": "0.4 mi",
+      "url": "https://www.google.com/maps/search/Grand%20Inn+near+46.8651583%2C-96.83384989999999"
+    }
+  ],
+  "gas": [
+    {
+      "name": "Exxon",
+      "distance": "0.3 mi",
+      "url": "https://www.google.com/maps/search/Exxon+near+46.8651583%2C-96.83384989999999"
+    },
+    {
+      "name": "Petro Serve USA",
+      "distance": "0.4 mi",
+      "url": "https://www.google.com/maps/search/Petro%20Serve%20USA+near+46.8651583%2C-96.83384989999999"
+    },
+    {
+      "name": "Little Dukes",
+      "distance": "0.4 mi",
+      "url": "https://www.google.com/maps/search/Little%20Dukes+near+46.8651583%2C-96.83384989999999"
+    },
+    {
+      "name": "Marathon",
+      "distance": "0.5 mi",
+      "url": "https://www.google.com/maps/search/Marathon+near+46.8651583%2C-96.83384989999999"
+    },
+    {
+      "name": "Food And Gas",
+      "distance": "0.8 mi",
+      "url": "https://www.google.com/maps/search/Food%20And%20Gas+near+46.8651583%2C-96.83384989999999"
+    }
+  ]
+}

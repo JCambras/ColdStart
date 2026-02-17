@@ -1,0 +1,170 @@
+{
+  "quick_bite": [
+    {
+      "name": "Subway",
+      "distance": "0.5 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Subway&query_place_id=ChIJHc5NpD6K5okR_TqvQnEfedo&center=41.8067528,-72.25436239999999"
+    },
+    {
+      "name": "Subway",
+      "distance": "0.7 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Subway&query_place_id=ChIJt1ohSUeK5okRdvlRpq_qegQ&center=41.8090675,-72.2605624"
+    },
+    {
+      "name": "Wings Over Storrs",
+      "distance": "0.7 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Wings%20Over%20Storrs&query_place_id=ChIJBcW4hCOK5okRZ4v0FsIK62U&center=41.80849440000001,-72.2628028"
+    },
+    {
+      "name": "Gansett Wraps",
+      "distance": "0.8 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Gansett%20Wraps&query_place_id=ChIJL8mjYyGK5okRlTd6QDdSzGo&center=41.8036226,-72.2429889"
+    }
+  ],
+  "coffee": [
+    {
+      "name": "Starbucks Coffee Company",
+      "distance": "0.4 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Starbucks%20Coffee%20Company&query_place_id=ChIJu3tK2T2K5okRzpWECK6hEu4&center=41.80475,-72.25303"
+    },
+    {
+      "name": "Poindexter Coffee",
+      "distance": "0.5 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Poindexter%20Coffee&query_place_id=ChIJ-1geadaL5okR1Rr9h-dwgrA&center=41.803037200000006,-72.2487893"
+    },
+    {
+      "name": "Trophy Room",
+      "distance": "0.5 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Trophy%20Room&query_place_id=ChIJsblrzseL5okR5bLDZE8vVHk&center=41.8030287,-72.2486612"
+    },
+    {
+      "name": "Market Café",
+      "distance": "0.5 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Market%20Caf%C3%A9&query_place_id=ChIJs7OuH0eL5okRhLL8Iu1W8Uc&center=41.806763499999995,-72.25414099999999"
+    },
+    {
+      "name": "Dunkin'",
+      "distance": "0.6 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Dunkin'&query_place_id=ChIJHc5NpD6K5okRtX7C3SuYvIc&center=41.806869999999996,-72.2542835"
+    }
+  ],
+  "team_lunch": [
+    {
+      "name": "Earth, Wok, & Fire",
+      "distance": "0.6 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Earth%2C%20Wok%2C%20%26%20Fire&query_place_id=ChIJMT9YYeiL5okRw3KyQ2E2mFk&center=41.807386699999995,-72.2550828"
+    },
+    {
+      "name": "Ted's Restaurant & Bar",
+      "distance": "0.7 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Ted's%20Restaurant%20%26%20Bar&query_place_id=ChIJDzTvqziK5okRW_gYG4H4rjc&center=41.809007799999996,-72.26001459999999"
+    },
+    {
+      "name": "Krispy Krunchy Chicken",
+      "distance": "0.7 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Krispy%20Krunchy%20Chicken&query_place_id=ChIJ8yBWONKL5okRPqyoqBp0_48&center=41.8090611,-72.260668"
+    },
+    {
+      "name": "Not Just Desserts",
+      "distance": "0.9 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Not%20Just%20Desserts&query_place_id=ChIJ85oni9uL5okRkrRuDdqvM6E&center=41.8102691,-72.2468346"
+    }
+  ],
+  "dinner": [
+    {
+      "name": "Hillyndale Road Farm & Bakery",
+      "distance": "0.5 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Hillyndale%20Road%20Farm%20%26%20Bakery&query_place_id=ChIJs8YJIQKL5okRw3paieP2-Hk&center=41.8032052,-72.2650039"
+    },
+    {
+      "name": "Long Meadow Farm & Garden LLC",
+      "distance": "3.2 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Long%20Meadow%20Farm%20%26%20Garden%20LLC&query_place_id=ChIJWe879_Bh5okRb5ceYhCgIs0&center=41.7748111,-72.3086288",
+      "isFar": true
+    },
+    {
+      "name": "Dad's Doughs",
+      "distance": "4.0 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Dad's%20Doughs&query_place_id=ChIJa1u-sy5j5okR9_htiW-KhdQ&center=41.761202999999995,-72.1965112",
+      "isFar": true
+    }
+  ],
+  "bowling": [],
+  "arcade": [],
+  "movies": [
+    {
+      "name": "Mansfield Drive-in Theatre & Marketplace",
+      "distance": "4.0 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Mansfield%20Drive-in%20Theatre%20%26%20Marketplace&query_place_id=ChIJLXh8THNh5okRek_zty_JQZU&center=41.741369999999996,-72.25762859999999",
+      "isFar": true
+    },
+    {
+      "name": "Mansfield Movieplex 8",
+      "distance": "5.2 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Mansfield%20Movieplex%208&query_place_id=ChIJk1joba1j5okRbWrytRRxoH8&center=41.7350845,-72.20267679999999",
+      "isFar": true
+    }
+  ],
+  "fun": [
+    {
+      "name": "Jonathan the Husky Statue",
+      "distance": "0.5 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Jonathan%20the%20Husky%20Statue&query_place_id=ChIJkakX82yL5okRuf89Vc-LVRk&center=41.8060031,-72.2545562"
+    },
+    {
+      "name": "State Stones Pavilion",
+      "distance": "0.9 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=State%20Stones%20Pavilion&query_place_id=ChIJq7Y4TgCL5okRB6ppD0rqGiA&center=41.811586399999996,-72.2515832"
+    },
+    {
+      "name": "Cora Moore Splash Pad",
+      "distance": "6.0 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Cora%20Moore%20Splash%20Pad&query_place_id=ChIJraOup1lj5okRigQ1duCtYtA&center=41.7236188,-72.1989469",
+      "isFar": true
+    }
+  ],
+  "hotels": [
+    {
+      "name": "Graduate by Hilton Storrs",
+      "distance": "0.5 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Graduate%20by%20Hilton%20Storrs&query_place_id=ChIJ0xAj8uaL5okR1vsm6vX49b8&center=41.8029753,-72.2489226"
+    },
+    {
+      "name": "One month minimum. Great for visiting professors or traveling nurses.",
+      "distance": "1.1 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=One%20month%20minimum.%20Great%20for%20visiting%20professors%20or%20traveling%20nurses.&query_place_id=ChIJdwoShHmK5okRutOoLp8tr9k&center=41.7913208,-72.2744522"
+    },
+    {
+      "name": "House 42 Down",
+      "distance": "1.2 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=House%2042%20Down&query_place_id=ChIJudYYd52L5okR6YarLf60fcI&center=41.814908800000005,-72.2446665"
+    },
+    {
+      "name": "The Little Red Cottage",
+      "distance": "1.3 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=The%20Little%20Red%20Cottage&query_place_id=ChIJj9nO0X6K5okR7-x_b8VyFCU&center=41.7904396,-72.27835080000001"
+    },
+    {
+      "name": "The Little Red Cottage",
+      "distance": "1.3 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=The%20Little%20Red%20Cottage&query_place_id=ChIJ5alp0H6K5okRvuRGvm5uoo4&center=41.7904129,-72.27848809999999"
+    }
+  ],
+  "gas": [
+    {
+      "name": "One Stop",
+      "distance": "2.0 mi",
+      "url": "https://www.google.com/maps/search/One%20Stop+near+41.7990267%2C-72.2562657"
+    },
+    {
+      "name": "Mobil",
+      "distance": "3.6 mi",
+      "url": "https://www.google.com/maps/search/Mobil+near+41.7990267%2C-72.2562657"
+    },
+    {
+      "name": "Citgo",
+      "distance": "4.9 mi",
+      "url": "https://www.google.com/maps/search/Citgo+near+41.7990267%2C-72.2562657"
+    }
+  ]
+}

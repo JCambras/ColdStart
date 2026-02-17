@@ -1,0 +1,187 @@
+{
+  "quick_bite": [
+    {
+      "name": "Subway",
+      "distance": "0.4 mi",
+      "url": "https://www.google.com/maps/search/Subway+near+34.9464335%2C-85.2606155"
+    },
+    {
+      "name": "Krystal",
+      "distance": "0.4 mi",
+      "url": "https://www.google.com/maps/search/Krystal+near+34.9464335%2C-85.2606155"
+    },
+    {
+      "name": "Arby's",
+      "distance": "0.6 mi",
+      "url": "https://www.google.com/maps/search/Arby's+near+34.9464335%2C-85.2606155"
+    },
+    {
+      "name": "Del Taco",
+      "distance": "0.6 mi",
+      "url": "https://www.google.com/maps/search/Del%20Taco+near+34.9464335%2C-85.2606155"
+    },
+    {
+      "name": "Wendy's",
+      "distance": "0.6 mi",
+      "url": "https://www.google.com/maps/search/Wendy's+near+34.9464335%2C-85.2606155"
+    },
+    {
+      "name": "Captain D's",
+      "distance": "0.7 mi",
+      "url": "https://www.google.com/maps/search/Captain%20D's+near+34.9464335%2C-85.2606155"
+    },
+    {
+      "name": "Little Caesars Pizza",
+      "distance": "0.7 mi",
+      "url": "https://www.google.com/maps/search/Little%20Caesars%20Pizza+near+34.9464335%2C-85.2606155"
+    }
+  ],
+  "coffee": [
+    {
+      "name": "Dunkin'",
+      "distance": "0.7 mi",
+      "url": "https://www.google.com/maps/search/Dunkin'+near+34.9464335%2C-85.2606155"
+    },
+    {
+      "name": "The Human Bean",
+      "distance": "0.7 mi",
+      "url": "https://www.google.com/maps/search/The%20Human%20Bean+near+34.9464335%2C-85.2606155"
+    }
+  ],
+  "team_lunch": [],
+  "dinner": [
+    {
+      "name": "BBQ Shack",
+      "distance": "0.1 mi",
+      "url": "https://www.google.com/maps/search/BBQ%20Shack+near+34.9464335%2C-85.2606155"
+    },
+    {
+      "name": "Fi Mi Pot Jamaican Restaurant",
+      "distance": "0.2 mi",
+      "url": "https://www.google.com/maps/search/Fi%20Mi%20Pot%20Jamaican%20Restaurant+near+34.9464335%2C-85.2606155"
+    },
+    {
+      "name": "Park Place Restaurant",
+      "distance": "0.2 mi",
+      "url": "https://www.google.com/maps/search/Park%20Place%20Restaurant+near+34.9464335%2C-85.2606155"
+    },
+    {
+      "name": "Ming Moon | Chinese Restaurant",
+      "distance": "0.5 mi",
+      "url": "https://www.google.com/maps/search/Ming%20Moon%20%7C%20Chinese%20Restaurant+near+34.9464335%2C-85.2606155"
+    },
+    {
+      "name": "Donut Palace",
+      "distance": "0.6 mi",
+      "url": "https://www.google.com/maps/search/Donut%20Palace+near+34.9464335%2C-85.2606155"
+    },
+    {
+      "name": "Legion Cafe",
+      "distance": "0.6 mi",
+      "url": "https://www.google.com/maps/search/Legion%20Cafe+near+34.9464335%2C-85.2606155"
+    },
+    {
+      "name": "El Matador | Mexican Restaurant",
+      "distance": "0.7 mi",
+      "url": "https://www.google.com/maps/search/El%20Matador%20%7C%20Mexican%20Restaurant+near+34.9464335%2C-85.2606155"
+    }
+  ],
+  "bowling": [
+    {
+      "name": "Spare Time Chattanooga",
+      "distance": "5.0 mi",
+      "url": "https://www.google.com/maps/search/Spare%20Time%20Chattanooga+near+34.9464335%2C-85.2606155",
+      "isFar": true
+    }
+  ],
+  "arcade": [],
+  "movies": [
+    {
+      "name": "AMC CLASSIC Battlefield 10",
+      "distance": "1.0 mi",
+      "url": "https://www.google.com/maps/search/AMC%20CLASSIC%20Battlefield%2010+near+34.9464335%2C-85.2606155"
+    },
+    {
+      "name": "Southgate 5 Theatres",
+      "distance": "1.0 mi",
+      "url": "https://www.google.com/maps/search/Southgate%205%20Theatres+near+34.9464335%2C-85.2606155"
+    },
+    {
+      "name": "AMC Chattanooga 18",
+      "distance": "4.4 mi",
+      "url": "https://www.google.com/maps/search/AMC%20Chattanooga%2018+near+34.9464335%2C-85.2606155",
+      "isFar": true
+    }
+  ],
+  "fun": [
+    {
+      "name": "Lake Winnepesaukah Amusement Park",
+      "distance": "2.2 mi",
+      "url": "https://www.google.com/maps/search/Lake%20Winnepesaukah%20Amusement%20Park+near+34.9464335%2C-85.2606155"
+    }
+  ],
+  "hotels": [
+    {
+      "name": "Royal Inn Motel",
+      "distance": "0.1 mi",
+      "url": "https://www.google.com/maps/search/Royal%20Inn%20Motel+near+34.9464335%2C-85.2606155"
+    },
+    {
+      "name": "New - Chickamauga Battlefield - Chattanooga 15 min-Experience history just steps way from the park",
+      "distance": "0.3 mi",
+      "url": "https://www.google.com/maps/search/New%20-%20Chickamauga%20Battlefield%20-%20Chattanooga%2015%20min-Experience%20history%20just%20steps%20way%20from%20the%20park+near+34.9464335%2C-85.2606155"
+    },
+    {
+      "name": "The Post - Corner Suite",
+      "distance": "0.3 mi",
+      "url": "https://www.google.com/maps/search/The%20Post%20-%20Corner%20Suite+near+34.9464335%2C-85.2606155"
+    },
+    {
+      "name": "Lux 3bdrm/2bth HOT TUB Chick Battlefield 20m 2 Chatt Vistas",
+      "distance": "0.4 mi",
+      "url": "https://www.google.com/maps/search/Lux%203bdrm%2F2bth%20HOT%20TUB%20Chick%20Battlefield%2020m%202%20Chatt%20Vistas+near+34.9464335%2C-85.2606155"
+    },
+    {
+      "name": "Lux Modern 3bd/2ba by Chick Battfld 20m to - Chatt Vistas",
+      "distance": "0.4 mi",
+      "url": "https://www.google.com/maps/search/Lux%20Modern%203bd%2F2ba%20by%20Chick%20Battfld%2020m%20to%20-%20Chatt%20Vistas+near+34.9464335%2C-85.2606155"
+    },
+    {
+      "name": "Lux Twin Homes 6bd /4ba Sleeps 18+people-20m to -Chatt Vistas",
+      "distance": "0.6 mi",
+      "url": "https://www.google.com/maps/search/Lux%20Twin%20Homes%206bd%20%2F4ba%20Sleeps%2018%2Bpeople-20m%20to%20-Chatt%20Vistas+near+34.9464335%2C-85.2606155"
+    },
+    {
+      "name": "Modern + Comfort Home Close to Chattanooga",
+      "distance": "0.6 mi",
+      "url": "https://www.google.com/maps/search/Modern%20%2B%20Comfort%20Home%20Close%20to%20Chattanooga+near+34.9464335%2C-85.2606155"
+    }
+  ],
+  "gas": [
+    {
+      "name": "Citgo",
+      "distance": "0.2 mi",
+      "url": "https://www.google.com/maps/search/Citgo+near+34.9464335%2C-85.2606155"
+    },
+    {
+      "name": "Amoco",
+      "distance": "0.4 mi",
+      "url": "https://www.google.com/maps/search/Amoco+near+34.9464335%2C-85.2606155"
+    },
+    {
+      "name": "Sav . A . Ton",
+      "distance": "0.4 mi",
+      "url": "https://www.google.com/maps/search/Sav%20.%20A%20.%20Ton+near+34.9464335%2C-85.2606155"
+    },
+    {
+      "name": "Quick Mart",
+      "distance": "0.4 mi",
+      "url": "https://www.google.com/maps/search/Quick%20Mart+near+34.9464335%2C-85.2606155"
+    },
+    {
+      "name": "Harry’s #47",
+      "distance": "0.4 mi",
+      "url": "https://www.google.com/maps/search/Harry%E2%80%99s%20%2347+near+34.9464335%2C-85.2606155"
+    }
+  ]
+}

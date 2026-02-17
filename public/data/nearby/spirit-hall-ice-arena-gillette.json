@@ -1,0 +1,199 @@
+{
+  "quick_bite": [
+    {
+      "name": "Subway",
+      "distance": "2.1 mi",
+      "url": "https://www.google.com/maps/search/Subway+near+44.2795031%2C-105.4428935"
+    },
+    {
+      "name": "Old Chicago Pizza + Taproom",
+      "distance": "2.2 mi",
+      "url": "https://www.google.com/maps/search/Old%20Chicago%20Pizza%20%2B%20Taproom+near+44.2795031%2C-105.4428935"
+    },
+    {
+      "name": "Quiznos",
+      "distance": "2.3 mi",
+      "url": "https://www.google.com/maps/search/Quiznos+near+44.2795031%2C-105.4428935"
+    },
+    {
+      "name": "Jimmy John's",
+      "distance": "2.4 mi",
+      "url": "https://www.google.com/maps/search/Jimmy%20John's+near+44.2795031%2C-105.4428935"
+    },
+    {
+      "name": "Wendy's",
+      "distance": "2.5 mi",
+      "url": "https://www.google.com/maps/search/Wendy's+near+44.2795031%2C-105.4428935"
+    }
+  ],
+  "coffee": [
+    {
+      "name": "Morning Joy Coffee",
+      "distance": "0.8 mi",
+      "url": "https://www.google.com/maps/search/Morning%20Joy%20Coffee+near+44.2795031%2C-105.4428935"
+    },
+    {
+      "name": "Powder River Espresso",
+      "distance": "2.4 mi",
+      "url": "https://www.google.com/maps/search/Powder%20River%20Espresso+near+44.2795031%2C-105.4428935"
+    },
+    {
+      "name": "Wildheart Coffee Company",
+      "distance": "2.4 mi",
+      "url": "https://www.google.com/maps/search/Wildheart%20Coffee%20Company+near+44.2795031%2C-105.4428935"
+    },
+    {
+      "name": "McDonald's",
+      "distance": "2.5 mi",
+      "url": "https://www.google.com/maps/search/McDonald's+near+44.2795031%2C-105.4428935"
+    },
+    {
+      "name": "Scooter's Coffee",
+      "distance": "2.5 mi",
+      "url": "https://www.google.com/maps/search/Scooter's%20Coffee+near+44.2795031%2C-105.4428935"
+    }
+  ],
+  "team_lunch": [
+    {
+      "name": "Snack Bar",
+      "distance": "1.3 mi",
+      "url": "https://www.google.com/maps/search/Snack%20Bar+near+44.2795031%2C-105.4428935"
+    },
+    {
+      "name": "El sazon de Suly",
+      "distance": "1.9 mi",
+      "url": "https://www.google.com/maps/search/El%20sazon%20de%20Suly+near+44.2795031%2C-105.4428935"
+    },
+    {
+      "name": "Sapporo Japanese Restaurant",
+      "distance": "2.3 mi",
+      "url": "https://www.google.com/maps/search/Sapporo%20Japanese%20Restaurant+near+44.2795031%2C-105.4428935"
+    },
+    {
+      "name": "Lariat Cafe",
+      "distance": "2.3 mi",
+      "url": "https://www.google.com/maps/search/Lariat%20Cafe+near+44.2795031%2C-105.4428935"
+    },
+    {
+      "name": "China King Buffet",
+      "distance": "2.4 mi",
+      "url": "https://www.google.com/maps/search/China%20King%20Buffet+near+44.2795031%2C-105.4428935"
+    }
+  ],
+  "dinner": [
+    {
+      "name": "Mona's Cafe",
+      "distance": "1.8 mi",
+      "url": "https://www.google.com/maps/search/Mona's%20Cafe+near+44.2795031%2C-105.4428935"
+    },
+    {
+      "name": "Monarca taqueria",
+      "distance": "2.4 mi",
+      "url": "https://www.google.com/maps/search/Monarca%20taqueria+near+44.2795031%2C-105.4428935"
+    },
+    {
+      "name": "Frida's House Mexican Food",
+      "distance": "2.4 mi",
+      "url": "https://www.google.com/maps/search/Frida's%20House%20Mexican%20Food+near+44.2795031%2C-105.4428935"
+    }
+  ],
+  "bowling": [
+    {
+      "name": "Camelanes Bowling Center",
+      "distance": "3.8 mi",
+      "url": "https://www.google.com/maps/search/Camelanes%20Bowling%20Center+near+44.2795031%2C-105.4428935",
+      "isFar": true
+    }
+  ],
+  "arcade": [],
+  "movies": [
+    {
+      "name": "Studio City Foothills Cinemas",
+      "distance": "4.4 mi",
+      "url": "https://www.google.com/maps/search/Studio%20City%20Foothills%20Cinemas+near+44.2795031%2C-105.4428935",
+      "isFar": true
+    }
+  ],
+  "fun": [
+    {
+      "name": "Splash Pad",
+      "distance": "1.2 mi",
+      "url": "https://www.google.com/maps/search/Splash%20Pad+near+44.2795031%2C-105.4428935"
+    },
+    {
+      "name": "The Axe House",
+      "distance": "2.8 mi",
+      "url": "https://www.google.com/maps/search/The%20Axe%20House+near+44.2795031%2C-105.4428935"
+    },
+    {
+      "name": "Flight Zone",
+      "distance": "3.5 mi",
+      "url": "https://www.google.com/maps/search/Flight%20Zone+near+44.2795031%2C-105.4428935",
+      "isFar": true
+    }
+  ],
+  "hotels": [
+    {
+      "name": "Camp on city lots in Gillette across the street from the Camplex.",
+      "distance": "0.4 mi",
+      "url": "https://www.google.com/maps/search/Camp%20on%20city%20lots%20in%20Gillette%20across%20the%20street%20from%20the%20Camplex.+near+44.2795031%2C-105.4428935"
+    },
+    {
+      "name": "Camp on city lots in Gillette across the street from the Camplex.",
+      "distance": "0.4 mi",
+      "url": "https://www.google.com/maps/search/Camp%20on%20city%20lots%20in%20Gillette%20across%20the%20street%20from%20the%20Camplex.+near+44.2795031%2C-105.4428935"
+    },
+    {
+      "name": "Arbuckle Lodge",
+      "distance": "0.4 mi",
+      "url": "https://www.google.com/maps/search/Arbuckle%20Lodge+near+44.2795031%2C-105.4428935"
+    },
+    {
+      "name": "High Plains RV Resort and Campground",
+      "distance": "0.4 mi",
+      "url": "https://www.google.com/maps/search/High%20Plains%20RV%20Resort%20and%20Campground+near+44.2795031%2C-105.4428935"
+    },
+    {
+      "name": "Camp on city lots in Gillette across the street from the Camplex.",
+      "distance": "0.5 mi",
+      "url": "https://www.google.com/maps/search/Camp%20on%20city%20lots%20in%20Gillette%20across%20the%20street%20from%20the%20Camplex.+near+44.2795031%2C-105.4428935"
+    },
+    {
+      "name": "Lexus Community",
+      "distance": "0.7 mi",
+      "url": "https://www.google.com/maps/search/Lexus%20Community+near+44.2795031%2C-105.4428935"
+    },
+    {
+      "name": "Antelope trailer park",
+      "distance": "0.9 mi",
+      "url": "https://www.google.com/maps/search/Antelope%20trailer%20park+near+44.2795031%2C-105.4428935"
+    }
+  ],
+  "gas": [
+    {
+      "name": "CBH CO-OP Travel Plaza - Cenex",
+      "distance": "0.4 mi",
+      "url": "https://www.google.com/maps/search/CBH%20CO-OP%20Travel%20Plaza%20-%20Cenex+near+44.2795031%2C-105.4428935"
+    },
+    {
+      "name": "Smith Lift",
+      "distance": "1.0 mi",
+      "url": "https://www.google.com/maps/search/Smith%20Lift+near+44.2795031%2C-105.4428935"
+    },
+    {
+      "name": "Good2Go Gas Station",
+      "distance": "1.7 mi",
+      "url": "https://www.google.com/maps/search/Good2Go%20Gas%20Station+near+44.2795031%2C-105.4428935"
+    },
+    {
+      "name": "M.G. Oil Company",
+      "distance": "1.9 mi",
+      "url": "https://www.google.com/maps/search/M.G.%20Oil%20Company+near+44.2795031%2C-105.4428935"
+    },
+    {
+      "name": "Common Cents",
+      "distance": "2.5 mi",
+      "url": "https://www.google.com/maps/search/Common%20Cents+near+44.2795031%2C-105.4428935"
+    }
+  ]
+}

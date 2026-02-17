@@ -1,0 +1,190 @@
+{
+  "quick_bite": [
+    {
+      "name": "Subway",
+      "distance": "0.7 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Subway&query_place_id=ChIJA48xYxt0y4kRgyn0E6AnSj4&center=40.482889799999995,-78.7346621"
+    },
+    {
+      "name": "Domino's Pizza",
+      "distance": "0.7 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Domino's%20Pizza&query_place_id=ChIJJ-4z4gV1y4kR7zPqiQJJDCE&center=40.483125199999996,-78.73429159999999"
+    },
+    {
+      "name": "Italian Village Pizza",
+      "distance": "1.0 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Italian%20Village%20Pizza&query_place_id=ChIJOwuEoh90y4kRjfdZlgDC5kc&center=40.4853909,-78.7263863"
+    },
+    {
+      "name": "Burger King",
+      "distance": "1.2 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Burger%20King&query_place_id=ChIJlWaOHgp0y4kRhNJjfz8KA_Y&center=40.4736751,-78.7492731"
+    },
+    {
+      "name": "Chipotle Mexican Grill",
+      "distance": "1.2 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Chipotle%20Mexican%20Grill&query_place_id=ChIJx8YedUpzy4kRboTwO3mJ1B8&center=40.472706699999996,-78.7489733"
+    },
+    {
+      "name": "Taco Bell",
+      "distance": "1.5 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Taco%20Bell&query_place_id=ChIJL5EL7X5zy4kRToH_UXxDf9k&center=40.4703605,-78.7540975"
+    }
+  ],
+  "coffee": [
+    {
+      "name": "Drew's Coffee",
+      "distance": "1.2 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Drew's%20Coffee&query_place_id=ChIJ58o3eQB3y4kRnSBMiLO0UOs&center=40.489491699999995,-78.72136859999999"
+    },
+    {
+      "name": "Dunkin'",
+      "distance": "1.2 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Dunkin'&query_place_id=ChIJNZ9lOQBzy4kRvQQ_JV7uU3k&center=40.4726621,-78.74989149999999"
+    },
+    {
+      "name": "Starbucks",
+      "distance": "1.5 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Starbucks&query_place_id=ChIJcQIEjipzy4kRhAYJKjN0g9s&center=40.470251499999996,-78.75436239999999"
+    }
+  ],
+  "team_lunch": [
+    {
+      "name": "Hong Xin Garden",
+      "distance": "1.0 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Hong%20Xin%20Garden&query_place_id=ChIJwXQzmx90y4kROO2uworM-0Y&center=40.4850202,-78.72576939999999"
+    },
+    {
+      "name": "Applebee's Grill + Bar",
+      "distance": "1.1 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Applebee's%20Grill%20%2B%20Bar&query_place_id=ChIJB2n0jAl0y4kRDYgXR0hFw7U&center=40.4746731,-78.74660229999999"
+    },
+    {
+      "name": "Schwebel Baking Outlet 23 23",
+      "distance": "1.8 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Schwebel%20Baking%20Outlet%2023%2023&query_place_id=ChIJe0OiuI1zy4kRLwe0Pu8EmAw&center=40.466499,-78.757103"
+    }
+  ],
+  "dinner": [
+    {
+      "name": "Our Station House",
+      "distance": "0.7 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Our%20Station%20House&query_place_id=ChIJ_y-fQxx0y4kR2afysZaVim0&center=40.4845134,-78.7329261"
+    },
+    {
+      "name": "Fox's Pizza Den",
+      "distance": "0.8 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Fox's%20Pizza%20Den&query_place_id=ChIJ73pOLgV0y4kRQabpAQMMaPc&center=40.4801189,-78.7368212"
+    },
+    {
+      "name": "Rik-N-Nik’s",
+      "distance": "1.0 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Rik-N-Nik%E2%80%99s&query_place_id=ChIJoccfpB90y4kRpCkZ6NsdZBQ&center=40.4850578,-78.7267395"
+    },
+    {
+      "name": "Clark Powells Restaurant and Bar",
+      "distance": "1.1 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Clark%20Powells%20Restaurant%20and%20Bar&query_place_id=ChIJ8R7Cfx90y4kRczhIR9roUtA&center=40.4845624,-78.72512789999999"
+    },
+    {
+      "name": "La Fiesta Mexican Bar And Grill",
+      "distance": "1.3 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=La%20Fiesta%20Mexican%20Bar%20And%20Grill&query_place_id=ChIJ4-URPvFzy4kRl0q5VNW9jU4&center=40.472321,-78.7507699"
+    },
+    {
+      "name": "Giant Eagle Bakery",
+      "distance": "1.6 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Giant%20Eagle%20Bakery&query_place_id=ChIJgalvRo1zy4kRoSw-HpNvVbw&center=40.4696539,-78.75788299999999"
+    }
+  ],
+  "bowling": [],
+  "arcade": [],
+  "movies": [
+    {
+      "name": "The Bar-Ann Drive-In",
+      "distance": "8.9 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=The%20Bar-Ann%20Drive-In&query_place_id=ChIJc75eH5YKy4kR3mn-GADCI9c&center=40.3753166,-78.66797629999999",
+      "isFar": true
+    },
+    {
+      "name": "Carrolltown Hi-Way Drive-In",
+      "distance": "9.2 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Carrolltown%20Hi-Way%20Drive-In&query_place_id=ChIJbdR8Zal5y4kR-ihe-VmP0Zs&center=40.6219335,-78.72201919999999",
+      "isFar": true
+    }
+  ],
+  "fun": [
+    {
+      "name": "Escape Room Ebensburg",
+      "distance": "2.0 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Escape%20Room%20Ebensburg&query_place_id=ChIJlx1Iqlhzy4kR9ou5SE2YtcA&center=40.461486,-78.7512156"
+    },
+    {
+      "name": "Loretto Escape House Escape Room",
+      "distance": "6.8 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Loretto%20Escape%20House%20Escape%20Room&query_place_id=ChIJLySPPxOdy4kRotF7u2ds5rc&center=40.537808,-78.63089699999999",
+      "isFar": true
+    },
+    {
+      "name": "Cassandra Railroad Overlook",
+      "distance": "8.0 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Cassandra%20Railroad%20Overlook&query_place_id=ChIJZ-p7h_Kfy4kRLUm0Vs7KxNM&center=40.4077202,-78.63706859999999",
+      "isFar": true
+    },
+    {
+      "name": "Horsepower Hill",
+      "distance": "8.8 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Horsepower%20Hill&query_place_id=ChIJ3Y5FKwCDy4kRUHj1y8E7ABo&center=40.575952,-78.619917",
+      "isFar": true
+    }
+  ],
+  "hotels": [
+    {
+      "name": "Forestry Department",
+      "distance": "0.6 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Forestry%20Department&query_place_id=ChIJtx8MKSB0y4kRc3t4iUbT2SQ&center=40.4932394,-78.7336153"
+    },
+    {
+      "name": "The Fairview Bed and Breakfast",
+      "distance": "1.2 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=The%20Fairview%20Bed%20and%20Breakfast&query_place_id=ChIJE-VQhZh2y4kR423ogr1NWwg&center=40.496406799999995,-78.7231189"
+    },
+    {
+      "name": "Red Carpet Inn & Suites Ebensburg, PA",
+      "distance": "1.3 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Red%20Carpet%20Inn%20%26%20Suites%20Ebensburg%2C%20PA&query_place_id=ChIJ5QUD_vRzy4kR8sVFOYlnKiA&center=40.4722022,-78.7511538"
+    },
+    {
+      "name": "The Blue Cottage",
+      "distance": "1.4 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=The%20Blue%20Cottage&query_place_id=ChIJKeJBrSF3y4kRCU0wKTG_lIo&center=40.4864628,-78.7172851"
+    },
+    {
+      "name": "Comfort Inn Ebensburg",
+      "distance": "1.7 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Comfort%20Inn%20Ebensburg&query_place_id=ChIJmS6Od5Jzy4kR_IqGza-RgX0&center=40.467740000000006,-78.75958"
+    }
+  ],
+  "gas": [
+    {
+      "name": "Sunoco",
+      "distance": "1.1 mi",
+      "url": "https://www.google.com/maps/search/Sunoco+near+40.4901409%2C-78.74413129999999"
+    },
+    {
+      "name": "Stuck Fleet Fueling",
+      "distance": "1.1 mi",
+      "url": "https://www.google.com/maps/search/Stuck%20Fleet%20Fueling+near+40.4901409%2C-78.74413129999999"
+    },
+    {
+      "name": "BARBER OIL COMPANY",
+      "distance": "1.1 mi",
+      "url": "https://www.google.com/maps/search/BARBER%20OIL%20COMPANY+near+40.4901409%2C-78.74413129999999"
+    },
+    {
+      "name": "GetGo Café + Market",
+      "distance": "1.4 mi",
+      "url": "https://www.google.com/maps/search/GetGo%20Caf%C3%A9%20%2B%20Market+near+40.4901409%2C-78.74413129999999"
+    }
+  ]
+}

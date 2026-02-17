@@ -1,0 +1,182 @@
+{
+  "quick_bite": [
+    {
+      "name": "Subway",
+      "distance": "1.7 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Subway&query_place_id=ChIJ-zsiNtGUyIkRbgZtdTFk0iY&center=40.158112599999995,-76.8211372"
+    },
+    {
+      "name": "KFC",
+      "distance": "1.9 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=KFC&query_place_id=ChIJ_acaI9KUyIkRchvDV9E6uLM&center=40.154249,-76.8208868"
+    },
+    {
+      "name": "Taco Bell / KFC",
+      "distance": "1.9 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Taco%20Bell%20%2F%20KFC&query_place_id=ChIJ6Z_hOtKUyIkRjdCZRyGNBts&center=40.1542485,-76.8208855"
+    },
+    {
+      "name": "Burger King",
+      "distance": "2.1 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Burger%20King&query_place_id=ChIJiVuX2NGUyIkR1v56zgUimSE&center=40.1523615,-76.8192273"
+    }
+  ],
+  "coffee": [
+    {
+      "name": "Dunkin'",
+      "distance": "0.3 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Dunkin'&query_place_id=ChIJkTTFALTryIkRcNSPcjFtBt8&center=40.17648,-76.8346241"
+    },
+    {
+      "name": "Inflight Café - Defense Dining",
+      "distance": "2.4 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Inflight%20Caf%C3%A9%20-%20Defense%20Dining&query_place_id=ChIJiyvNC5bByIkRlHSVcxXhbzw&center=40.212284,-76.8506755"
+    }
+  ],
+  "team_lunch": [
+    {
+      "name": "Mamma's Pizza & Subs",
+      "distance": "0.2 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Mamma's%20Pizza%20%26%20Subs&query_place_id=ChIJ__9P9M7qyIkRQwe1uC2-5_I&center=40.177229499999996,-76.8333411"
+    },
+    {
+      "name": "Francesco's Pizzeria",
+      "distance": "1.1 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Francesco's%20Pizzeria&query_place_id=ChIJd35a3dXqyIkRP2tfuWREaAc&center=40.165277599999996,-76.8309776"
+    },
+    {
+      "name": "Urban Grain Company",
+      "distance": "1.8 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Urban%20Grain%20Company&query_place_id=ChIJuwhBiXuVyIkRyY8LE9iIkWk&center=40.1596814,-76.8130615"
+    },
+    {
+      "name": "Auntie Anne's",
+      "distance": "2.4 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Auntie%20Anne's&query_place_id=ChIJ61OqdcWUyIkRUClpEMlS-Q8&center=40.1496199,-76.8132629"
+    }
+  ],
+  "dinner": [
+    {
+      "name": "Culhane's Steak House",
+      "distance": "0.2 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Culhane's%20Steak%20House&query_place_id=ChIJ0Xs5McbqyIkRH8CkOiHvGaY&center=40.1821576,-76.8382455"
+    },
+    {
+      "name": "Patriot Pizza & Subs, Inc.",
+      "distance": "0.7 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Patriot%20Pizza%20%26%20Subs%2C%20Inc.&query_place_id=ChIJ77Gz5dLqyIkRlfD1iehTUnQ&center=40.171810699999995,-76.8278823"
+    },
+    {
+      "name": "Summit Restaurant",
+      "distance": "1.1 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Summit%20Restaurant&query_place_id=ChIJbeCmd9XqyIkRBZqMEcXQjOw&center=40.1652632,-76.8290779"
+    },
+    {
+      "name": "USA & I",
+      "distance": "1.7 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=USA%20%26%20I&query_place_id=ChIJ-zsiNtGUyIkR5kHiTTm4fjE&center=40.1578795,-76.82019489999999"
+    },
+    {
+      "name": "New China",
+      "distance": "1.7 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=New%20China&query_place_id=ChIJ-zsiNtGUyIkRYUUOG_UCoac&center=40.1578521,-76.8201543"
+    },
+    {
+      "name": "The Blue Sky Tavern/Red Mill Ribs & Whiskey",
+      "distance": "1.8 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=The%20Blue%20Sky%20Tavern%2FRed%20Mill%20Ribs%20%26%20Whiskey&query_place_id=ChIJJxFqzLGVyIkR_83uJBOD2hg&center=40.1587941,-76.8163697"
+    }
+  ],
+  "bowling": [
+    {
+      "name": "ABC East Lanes",
+      "distance": "4.2 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=ABC%20East%20Lanes&query_place_id=ChIJJR5Ua5-_yIkRsJcmDwCaCWQ&center=40.2374651,-76.8048015",
+      "isFar": true
+    }
+  ],
+  "arcade": [],
+  "movies": [
+    {
+      "name": "West Shore Theatre",
+      "distance": "3.6 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=West%20Shore%20Theatre&query_place_id=ChIJ2-rPajbAyIkRCWBQRlcPJgk&center=40.2270494,-76.8649927",
+      "isFar": true
+    }
+  ],
+  "fun": [
+    {
+      "name": "The Escape Capsule",
+      "distance": "4.2 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=The%20Escape%20Capsule&query_place_id=ChIJRwec8KW_yIkRaHtEC78s59Q&center=40.237493199999996,-76.8047861",
+      "isFar": true
+    },
+    {
+      "name": "Harrisburg Escape Rooms at ABC East Lanes",
+      "distance": "4.2 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Harrisburg%20Escape%20Rooms%20at%20ABC%20East%20Lanes&query_place_id=ChIJk-9FPJ-_yIkR7uIi078t8BQ&center=40.237493199999996,-76.8047861",
+      "isFar": true
+    },
+    {
+      "name": "Dock Street Dam",
+      "distance": "5.3 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Dock%20Street%20Dam&query_place_id=ChIJbQBOkqnByIkRJhMctb9sxG0&center=40.2510665,-76.8737116",
+      "isFar": true
+    },
+    {
+      "name": "K1 Speed - Indoor Go Karts, Corporate Event Venue, Team Building Activities",
+      "distance": "5.5 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=K1%20Speed%20-%20Indoor%20Go%20Karts%2C%20Corporate%20Event%20Venue%2C%20Team%20Building%20Activities&query_place_id=ChIJv7OqlJHByIkRm-hZ1vsEObA&center=40.238930499999995,-76.9051939",
+      "isFar": true
+    }
+  ],
+  "hotels": [
+    {
+      "name": "1850s Restored Barn near Hershey, Harrisburg, Lancaster, Gettysburg, and Skiing",
+      "distance": "1.0 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=1850s%20Restored%20Barn%20near%20Hershey%2C%20Harrisburg%2C%20Lancaster%2C%20Gettysburg%2C%20and%20Skiing&query_place_id=ChIJrRox2jGVyIkR0XmN6oyAETs&center=40.1730308,-76.8181839"
+    },
+    {
+      "name": "Canna Country Inn",
+      "distance": "1.0 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Canna%20Country%20Inn&query_place_id=ChIJ20ds1zGVyIkRH5CSMn3mvU0&center=40.1730184,-76.8181834"
+    },
+    {
+      "name": "Tina's Dog House LLC",
+      "distance": "1.3 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Tina's%20Dog%20House%20LLC&query_place_id=ChIJNwDqazyVyIkRPGPjpUmcvnk&center=40.1947182,-76.8179745"
+    },
+    {
+      "name": "The Red Mill House",
+      "distance": "2.0 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=The%20Red%20Mill%20House&query_place_id=ChIJj8e8Yt-UyIkR4NnBOY9bw28&center=40.1612205,-76.806572"
+    },
+    {
+      "name": "Fish, Ski Explore: Townhome w / Decks in Etters!",
+      "distance": "2.0 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Fish%2C%20Ski%20Explore%3A%20Townhome%20w%20%2F%20Decks%20in%20Etters!&query_place_id=ChIJNzNII9qUyIkRpWZNi3tm6fw&center=40.1563416,-76.8127136"
+    }
+  ],
+  "gas": [
+    {
+      "name": "Speedway",
+      "distance": "0.2 mi",
+      "url": "https://www.google.com/maps/search/Speedway+near+40.180329199999996%2C-76.8344706"
+    },
+    {
+      "name": "Exxon",
+      "distance": "1.0 mi",
+      "url": "https://www.google.com/maps/search/Exxon+near+40.180329199999996%2C-76.8344706"
+    },
+    {
+      "name": "bp",
+      "distance": "2.0 mi",
+      "url": "https://www.google.com/maps/search/bp+near+40.180329199999996%2C-76.8344706"
+    },
+    {
+      "name": "United Gas Station",
+      "distance": "3.0 mi",
+      "url": "https://www.google.com/maps/search/United%20Gas%20Station+near+40.180329199999996%2C-76.8344706"
+    }
+  ]
+}

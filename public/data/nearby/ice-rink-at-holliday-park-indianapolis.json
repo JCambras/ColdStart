@@ -1,0 +1,212 @@
+{
+  "quick_bite": [],
+  "coffee": [
+    {
+      "name": "Mariam coffee",
+      "distance": "0.8 mi",
+      "url": "https://www.google.com/maps/search/Mariam%20coffee+near+39.871559%2C-86.1611138"
+    },
+    {
+      "name": "The Cake Bake Shop by Gwendolyn Rogers",
+      "distance": "0.9 mi",
+      "url": "https://www.google.com/maps/search/The%20Cake%20Bake%20Shop%20by%20Gwendolyn%20Rogers+near+39.871559%2C-86.1611138"
+    },
+    {
+      "name": "Hubbard & Cravens Coffee",
+      "distance": "0.9 mi",
+      "url": "https://www.google.com/maps/search/Hubbard%20%26%20Cravens%20Coffee+near+39.871559%2C-86.1611138"
+    }
+  ],
+  "team_lunch": [
+    {
+      "name": "McAlister’s Deli",
+      "distance": "0.4 mi",
+      "url": "https://www.google.com/maps/search/McAlister%E2%80%99s%20Deli+near+39.871559%2C-86.1611138"
+    },
+    {
+      "name": "HotBox Pizza",
+      "distance": "0.8 mi",
+      "url": "https://www.google.com/maps/search/HotBox%20Pizza+near+39.871559%2C-86.1611138"
+    },
+    {
+      "name": "Tequila's Mexican Restaurant & Bar",
+      "distance": "0.9 mi",
+      "url": "https://www.google.com/maps/search/Tequila's%20Mexican%20Restaurant%20%26%20Bar+near+39.871559%2C-86.1611138"
+    },
+    {
+      "name": "Youmi Crepes & Bubble Teas",
+      "distance": "0.9 mi",
+      "url": "https://www.google.com/maps/search/Youmi%20Crepes%20%26%20Bubble%20Teas+near+39.871559%2C-86.1611138"
+    }
+  ],
+  "dinner": [
+    {
+      "name": "Proof Positive Baking Co.",
+      "distance": "0.5 mi",
+      "url": "https://www.google.com/maps/search/Proof%20Positive%20Baking%20Co.+near+39.871559%2C-86.1611138"
+    },
+    {
+      "name": "LA TAPATIA MEXICAN RESTAURANT BAR AND GRILL",
+      "distance": "0.8 mi",
+      "url": "https://www.google.com/maps/search/LA%20TAPATIA%20MEXICAN%20RESTAURANT%20BAR%20AND%20GRILL+near+39.871559%2C-86.1611138"
+    },
+    {
+      "name": "Eating Fresh",
+      "distance": "0.8 mi",
+      "url": "https://www.google.com/maps/search/Eating%20Fresh+near+39.871559%2C-86.1611138"
+    },
+    {
+      "name": "The Northside Social",
+      "distance": "0.8 mi",
+      "url": "https://www.google.com/maps/search/The%20Northside%20Social+near+39.871559%2C-86.1611138"
+    },
+    {
+      "name": "Northside Kitchenette",
+      "distance": "0.8 mi",
+      "url": "https://www.google.com/maps/search/Northside%20Kitchenette+near+39.871559%2C-86.1611138"
+    },
+    {
+      "name": "Broad Ripple Tavern",
+      "distance": "0.9 mi",
+      "url": "https://www.google.com/maps/search/Broad%20Ripple%20Tavern+near+39.871559%2C-86.1611138"
+    },
+    {
+      "name": "Filigree Bakery",
+      "distance": "0.9 mi",
+      "url": "https://www.google.com/maps/search/Filigree%20Bakery+near+39.871559%2C-86.1611138"
+    }
+  ],
+  "bowling": [
+    {
+      "name": "Royal Pin Woodland",
+      "distance": "4.6 mi",
+      "url": "https://www.google.com/maps/search/Royal%20Pin%20Woodland+near+39.871559%2C-86.1611138",
+      "isFar": true
+    }
+  ],
+  "arcade": [],
+  "movies": [
+    {
+      "name": "Landmark's Glendale 12 Theatre",
+      "distance": "2.3 mi",
+      "url": "https://www.google.com/maps/search/Landmark's%20Glendale%2012%20Theatre+near+39.871559%2C-86.1611138"
+    },
+    {
+      "name": "Landmark Keystone Art Cinema",
+      "distance": "4.0 mi",
+      "url": "https://www.google.com/maps/search/Landmark%20Keystone%20Art%20Cinema+near+39.871559%2C-86.1611138",
+      "isFar": true
+    },
+    {
+      "name": "Landmark Theater",
+      "distance": "4.0 mi",
+      "url": "https://www.google.com/maps/search/Landmark%20Theater+near+39.871559%2C-86.1611138",
+      "isFar": true
+    }
+  ],
+  "fun": [
+    {
+      "name": "The Sidney and Lois Eskenazi Pool at the Arthur M. Glick JCC",
+      "distance": "0.8 mi",
+      "url": "https://www.google.com/maps/search/The%20Sidney%20and%20Lois%20Eskenazi%20Pool%20at%20the%20Arthur%20M.%20Glick%20JCC+near+39.871559%2C-86.1611138"
+    },
+    {
+      "name": "Splash Pad",
+      "distance": "0.9 mi",
+      "url": "https://www.google.com/maps/search/Splash%20Pad+near+39.871559%2C-86.1611138"
+    },
+    {
+      "name": "Splash Pad",
+      "distance": "2.0 mi",
+      "url": "https://www.google.com/maps/search/Splash%20Pad+near+39.871559%2C-86.1611138"
+    },
+    {
+      "name": "Christmas Nights of Lights",
+      "distance": "3.1 mi",
+      "url": "https://www.google.com/maps/search/Christmas%20Nights%20of%20Lights+near+39.871559%2C-86.1611138",
+      "isFar": true
+    },
+    {
+      "name": "State Fair MIDWAY",
+      "distance": "3.1 mi",
+      "url": "https://www.google.com/maps/search/State%20Fair%20MIDWAY+near+39.871559%2C-86.1611138",
+      "isFar": true
+    },
+    {
+      "name": "Bertha Ross Park Splash Pad",
+      "distance": "3.7 mi",
+      "url": "https://www.google.com/maps/search/Bertha%20Ross%20Park%20Splash%20Pad+near+39.871559%2C-86.1611138",
+      "isFar": true
+    },
+    {
+      "name": "Demolition Den",
+      "distance": "4.2 mi",
+      "url": "https://www.google.com/maps/search/Demolition%20Den+near+39.871559%2C-86.1611138",
+      "isFar": true
+    }
+  ],
+  "hotels": [
+    {
+      "name": "MidCentury Modern Mansion",
+      "distance": "0.2 mi",
+      "url": "https://www.google.com/maps/search/MidCentury%20Modern%20Mansion+near+39.871559%2C-86.1611138"
+    },
+    {
+      "name": "The Little Ginkgo House",
+      "distance": "0.4 mi",
+      "url": "https://www.google.com/maps/search/The%20Little%20Ginkgo%20House+near+39.871559%2C-86.1611138"
+    },
+    {
+      "name": "MEN ONLY Room Bath-Cape Cod-style home with Very Comfy Queen Hybrid Mattress",
+      "distance": "0.4 mi",
+      "url": "https://www.google.com/maps/search/MEN%20ONLY%20Room%20Bath-Cape%20Cod-style%20home%20with%20Very%20Comfy%20Queen%20Hybrid%20Mattress+near+39.871559%2C-86.1611138"
+    },
+    {
+      "name": "Bungalow B - Within walking distance to everything Broad Ripple has to offer:!!!",
+      "distance": "0.5 mi",
+      "url": "https://www.google.com/maps/search/Bungalow%20B%20-%20Within%20walking%20distance%20to%20everything%20Broad%20Ripple%20has%20to%20offer%3A!!!+near+39.871559%2C-86.1611138"
+    },
+    {
+      "name": "Warfleigh Cottage",
+      "distance": "0.6 mi",
+      "url": "https://www.google.com/maps/search/Warfleigh%20Cottage+near+39.871559%2C-86.1611138"
+    },
+    {
+      "name": "Charming Broad Ripple home on the water, walk to everything!",
+      "distance": "0.7 mi",
+      "url": "https://www.google.com/maps/search/Charming%20Broad%20Ripple%20home%20on%20the%20water%2C%20walk%20to%20everything!+near+39.871559%2C-86.1611138"
+    },
+    {
+      "name": "Notorious B.R.G. (Broad Ripple Getaway)",
+      "distance": "0.7 mi",
+      "url": "https://www.google.com/maps/search/Notorious%20B.R.G.%20(Broad%20Ripple%20Getaway)+near+39.871559%2C-86.1611138"
+    }
+  ],
+  "gas": [
+    {
+      "name": "bp",
+      "distance": "1.1 mi",
+      "url": "https://www.google.com/maps/search/bp+near+39.871559%2C-86.1611138"
+    },
+    {
+      "name": "Marathon Gas",
+      "distance": "1.2 mi",
+      "url": "https://www.google.com/maps/search/Marathon%20Gas+near+39.871559%2C-86.1611138"
+    },
+    {
+      "name": "Marathon",
+      "distance": "1.8 mi",
+      "url": "https://www.google.com/maps/search/Marathon+near+39.871559%2C-86.1611138"
+    },
+    {
+      "name": "Circle K | Gas Station",
+      "distance": "2.0 mi",
+      "url": "https://www.google.com/maps/search/Circle%20K%20%7C%20Gas%20Station+near+39.871559%2C-86.1611138"
+    },
+    {
+      "name": "Shell",
+      "distance": "2.0 mi",
+      "url": "https://www.google.com/maps/search/Shell+near+39.871559%2C-86.1611138"
+    }
+  ]
+}

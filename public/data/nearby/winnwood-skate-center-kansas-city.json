@@ -1,0 +1,230 @@
+{
+  "quick_bite": [
+    {
+      "name": "Subway",
+      "distance": "0.2 mi",
+      "url": "https://www.google.com/maps/search/Subway+near+39.1757029%2C-94.5322549"
+    },
+    {
+      "name": "Little Caesars",
+      "distance": "0.2 mi",
+      "url": "https://www.google.com/maps/search/Little%20Caesars+near+39.1757029%2C-94.5322549"
+    },
+    {
+      "name": "Chipotle Mexican Grill",
+      "distance": "0.2 mi",
+      "url": "https://www.google.com/maps/search/Chipotle%20Mexican%20Grill+near+39.1757029%2C-94.5322549"
+    },
+    {
+      "name": "Papa Murphy's | Take 'N' Bake Pizza",
+      "distance": "0.2 mi",
+      "url": "https://www.google.com/maps/search/Papa%20Murphy's%20%7C%20Take%20'N'%20Bake%20Pizza+near+39.1757029%2C-94.5322549"
+    },
+    {
+      "name": "Texas Toms",
+      "distance": "0.9 mi",
+      "url": "https://www.google.com/maps/search/Texas%20Toms+near+39.1757029%2C-94.5322549"
+    },
+    {
+      "name": "Church's Texas Chicken",
+      "distance": "0.9 mi",
+      "url": "https://www.google.com/maps/search/Church's%20Texas%20Chicken+near+39.1757029%2C-94.5322549"
+    },
+    {
+      "name": "Waffle House",
+      "distance": "0.9 mi",
+      "url": "https://www.google.com/maps/search/Waffle%20House+near+39.1757029%2C-94.5322549"
+    }
+  ],
+  "coffee": [
+    {
+      "name": "McDonald's",
+      "distance": "0.3 mi",
+      "url": "https://www.google.com/maps/search/McDonald's+near+39.1757029%2C-94.5322549"
+    }
+  ],
+  "team_lunch": [
+    {
+      "name": "IHOP",
+      "distance": "0.1 mi",
+      "url": "https://www.google.com/maps/search/IHOP+near+39.1757029%2C-94.5322549"
+    },
+    {
+      "name": "Wingstop",
+      "distance": "0.2 mi",
+      "url": "https://www.google.com/maps/search/Wingstop+near+39.1757029%2C-94.5322549"
+    },
+    {
+      "name": "Ming Garden",
+      "distance": "0.2 mi",
+      "url": "https://www.google.com/maps/search/Ming%20Garden+near+39.1757029%2C-94.5322549"
+    },
+    {
+      "name": "Big Burger",
+      "distance": "1.0 mi",
+      "url": "https://www.google.com/maps/search/Big%20Burger+near+39.1757029%2C-94.5322549"
+    }
+  ],
+  "dinner": [
+    {
+      "name": "Tequila’s Restaurant Bar and Grill",
+      "distance": "0.8 mi",
+      "url": "https://www.google.com/maps/search/Tequila%E2%80%99s%20Restaurant%20Bar%20and%20Grill+near+39.1757029%2C-94.5322549"
+    },
+    {
+      "name": "Mr Le's Sushi",
+      "distance": "0.9 mi",
+      "url": "https://www.google.com/maps/search/Mr%20Le's%20Sushi+near+39.1757029%2C-94.5322549"
+    },
+    {
+      "name": "Taqueria Ibarra",
+      "distance": "0.9 mi",
+      "url": "https://www.google.com/maps/search/Taqueria%20Ibarra+near+39.1757029%2C-94.5322549"
+    },
+    {
+      "name": "The Thirsty Gnome",
+      "distance": "0.9 mi",
+      "url": "https://www.google.com/maps/search/The%20Thirsty%20Gnome+near+39.1757029%2C-94.5322549"
+    },
+    {
+      "name": "Mudbug Cajun Po' Boys",
+      "distance": "0.9 mi",
+      "url": "https://www.google.com/maps/search/Mudbug%20Cajun%20Po'%20Boys+near+39.1757029%2C-94.5322549"
+    },
+    {
+      "name": "Cookie Bliss KC",
+      "distance": "0.9 mi",
+      "url": "https://www.google.com/maps/search/Cookie%20Bliss%20KC+near+39.1757029%2C-94.5322549"
+    },
+    {
+      "name": "Zios Pizza & Pub",
+      "distance": "1.0 mi",
+      "url": "https://www.google.com/maps/search/Zios%20Pizza%20%26%20Pub+near+39.1757029%2C-94.5322549"
+    }
+  ],
+  "bowling": [
+    {
+      "name": "The Rush Funplex",
+      "distance": "2.7 mi",
+      "url": "https://www.google.com/maps/search/The%20Rush%20Funplex+near+39.1757029%2C-94.5322549"
+    },
+    {
+      "name": "Gladstone Bowl",
+      "distance": "4.4 mi",
+      "url": "https://www.google.com/maps/search/Gladstone%20Bowl+near+39.1757029%2C-94.5322549",
+      "isFar": true
+    }
+  ],
+  "arcade": [],
+  "movies": [
+    {
+      "name": "Screenland Armour Theatre",
+      "distance": "3.3 mi",
+      "url": "https://www.google.com/maps/search/Screenland%20Armour%20Theatre+near+39.1757029%2C-94.5322549",
+      "isFar": true
+    },
+    {
+      "name": "Selva de los Relojes",
+      "distance": "4.3 mi",
+      "url": "https://www.google.com/maps/search/Selva%20de%20los%20Relojes+near+39.1757029%2C-94.5322549",
+      "isFar": true
+    },
+    {
+      "name": "B&B KC Northland 14",
+      "distance": "4.4 mi",
+      "url": "https://www.google.com/maps/search/B%26B%20KC%20Northland%2014+near+39.1757029%2C-94.5322549",
+      "isFar": true
+    }
+  ],
+  "fun": [
+    {
+      "name": "Worlds of Fun",
+      "distance": "2.3 mi",
+      "url": "https://www.google.com/maps/search/Worlds%20of%20Fun+near+39.1757029%2C-94.5322549"
+    },
+    {
+      "name": "Planet Snoopy",
+      "distance": "2.4 mi",
+      "url": "https://www.google.com/maps/search/Planet%20Snoopy+near+39.1757029%2C-94.5322549"
+    },
+    {
+      "name": "Star at The Clay County",
+      "distance": "2.4 mi",
+      "url": "https://www.google.com/maps/search/Star%20at%20The%20Clay%20County+near+39.1757029%2C-94.5322549"
+    },
+    {
+      "name": "Grand Carousel",
+      "distance": "2.4 mi",
+      "url": "https://www.google.com/maps/search/Grand%20Carousel+near+39.1757029%2C-94.5322549"
+    },
+    {
+      "name": "Oceans of Fun",
+      "distance": "2.6 mi",
+      "url": "https://www.google.com/maps/search/Oceans%20of%20Fun+near+39.1757029%2C-94.5322549"
+    }
+  ],
+  "hotels": [
+    {
+      "name": "The Sanctuary - Double Room with Private Bathroom",
+      "distance": "0.5 mi",
+      "url": "https://www.google.com/maps/search/The%20Sanctuary%20-%20Double%20Room%20with%20Private%20Bathroom+near+39.1757029%2C-94.5322549"
+    },
+    {
+      "name": "Stay The Hideaway - Double Room with Garden View",
+      "distance": "0.5 mi",
+      "url": "https://www.google.com/maps/search/Stay%20The%20Hideaway%20-%20Double%20Room%20with%20Garden%20View+near+39.1757029%2C-94.5322549"
+    },
+    {
+      "name": "SureStay by Best Western Kansas City Country Inn North",
+      "distance": "0.9 mi",
+      "url": "https://www.google.com/maps/search/SureStay%20by%20Best%20Western%20Kansas%20City%20Country%20Inn%20North+near+39.1757029%2C-94.5322549"
+    },
+    {
+      "name": "Modern, Family-Friendly Space, Quick KC Downtown, Driveway, Quiet Road Nature!",
+      "distance": "1.1 mi",
+      "url": "https://www.google.com/maps/search/Modern%2C%20Family-Friendly%20Space%2C%20Quick%20KC%20Downtown%2C%20Driveway%2C%20Quiet%20Road%20Nature!+near+39.1757029%2C-94.5322549"
+    },
+    {
+      "name": "Hidden Gem Minutes from Downtown Kansas City",
+      "distance": "1.2 mi",
+      "url": "https://www.google.com/maps/search/Hidden%20Gem%20Minutes%20from%20Downtown%20Kansas%20City+near+39.1757029%2C-94.5322549"
+    },
+    {
+      "name": "Hidden Gem II",
+      "distance": "1.3 mi",
+      "url": "https://www.google.com/maps/search/Hidden%20Gem%20II+near+39.1757029%2C-94.5322549"
+    },
+    {
+      "name": "Flexible Stay-Close to Downtown",
+      "distance": "1.3 mi",
+      "url": "https://www.google.com/maps/search/Flexible%20Stay-Close%20to%20Downtown+near+39.1757029%2C-94.5322549"
+    }
+  ],
+  "gas": [
+    {
+      "name": "Planet Mart 2",
+      "distance": "0.3 mi",
+      "url": "https://www.google.com/maps/search/Planet%20Mart%202+near+39.1757029%2C-94.5322549"
+    },
+    {
+      "name": "Phillips 66",
+      "distance": "0.3 mi",
+      "url": "https://www.google.com/maps/search/Phillips%2066+near+39.1757029%2C-94.5322549"
+    },
+    {
+      "name": "Discount Smokes & Liquor",
+      "distance": "0.6 mi",
+      "url": "https://www.google.com/maps/search/Discount%20Smokes%20%26%20Liquor+near+39.1757029%2C-94.5322549"
+    },
+    {
+      "name": "Phillips 66",
+      "distance": "0.6 mi",
+      "url": "https://www.google.com/maps/search/Phillips%2066+near+39.1757029%2C-94.5322549"
+    },
+    {
+      "name": "bp",
+      "distance": "0.8 mi",
+      "url": "https://www.google.com/maps/search/bp+near+39.1757029%2C-94.5322549"
+    }
+  ]
+}

@@ -1,0 +1,242 @@
+{
+  "quick_bite": [
+    {
+      "name": "Chick-fil-A",
+      "distance": "0.4 mi",
+      "url": "https://www.google.com/maps/search/Chick-fil-A+near+46.8908202%2C-96.7927428"
+    },
+    {
+      "name": "Panda Express",
+      "distance": "0.4 mi",
+      "url": "https://www.google.com/maps/search/Panda%20Express+near+46.8908202%2C-96.7927428"
+    },
+    {
+      "name": "Jimmy John's",
+      "distance": "0.5 mi",
+      "url": "https://www.google.com/maps/search/Jimmy%20John's+near+46.8908202%2C-96.7927428"
+    },
+    {
+      "name": "Papa Murphy's | Take 'N' Bake Pizza",
+      "distance": "0.5 mi",
+      "url": "https://www.google.com/maps/search/Papa%20Murphy's%20%7C%20Take%20'N'%20Bake%20Pizza+near+46.8908202%2C-96.7927428"
+    },
+    {
+      "name": "Deek's Pizza",
+      "distance": "0.6 mi",
+      "url": "https://www.google.com/maps/search/Deek's%20Pizza+near+46.8908202%2C-96.7927428"
+    }
+  ],
+  "coffee": [
+    {
+      "name": "Crux Coffee",
+      "distance": "0.2 mi",
+      "url": "https://www.google.com/maps/search/Crux%20Coffee+near+46.8908202%2C-96.7927428"
+    },
+    {
+      "name": "Caribou Coffee",
+      "distance": "0.4 mi",
+      "url": "https://www.google.com/maps/search/Caribou%20Coffee+near+46.8908202%2C-96.7927428"
+    },
+    {
+      "name": "Minard Coffee Shop",
+      "distance": "0.5 mi",
+      "url": "https://www.google.com/maps/search/Minard%20Coffee%20Shop+near+46.8908202%2C-96.7927428"
+    },
+    {
+      "name": "Northstar Coffee",
+      "distance": "0.5 mi",
+      "url": "https://www.google.com/maps/search/Northstar%20Coffee+near+46.8908202%2C-96.7927428"
+    },
+    {
+      "name": "The Bison Beanery",
+      "distance": "0.6 mi",
+      "url": "https://www.google.com/maps/search/The%20Bison%20Beanery+near+46.8908202%2C-96.7927428"
+    }
+  ],
+  "team_lunch": [
+    {
+      "name": "Hoagie Hut",
+      "distance": "0.4 mi",
+      "url": "https://www.google.com/maps/search/Hoagie%20Hut+near+46.8908202%2C-96.7927428"
+    },
+    {
+      "name": "Twisted Taco",
+      "distance": "0.4 mi",
+      "url": "https://www.google.com/maps/search/Twisted%20Taco+near+46.8908202%2C-96.7927428"
+    }
+  ],
+  "dinner": [
+    {
+      "name": "The Bison Turf",
+      "distance": "0.2 mi",
+      "url": "https://www.google.com/maps/search/The%20Bison%20Turf+near+46.8908202%2C-96.7927428"
+    },
+    {
+      "name": "Burgers @ The U",
+      "distance": "0.4 mi",
+      "url": "https://www.google.com/maps/search/Burgers%20%40%20The%20U+near+46.8908202%2C-96.7927428"
+    },
+    {
+      "name": "Pho Thien Kim & Boba Tea",
+      "distance": "0.4 mi",
+      "url": "https://www.google.com/maps/search/Pho%20Thien%20Kim%20%26%20Boba%20Tea+near+46.8908202%2C-96.7927428"
+    },
+    {
+      "name": "Herd and Horns",
+      "distance": "0.5 mi",
+      "url": "https://www.google.com/maps/search/Herd%20and%20Horns+near+46.8908202%2C-96.7927428"
+    },
+    {
+      "name": "BisoNutrition",
+      "distance": "0.5 mi",
+      "url": "https://www.google.com/maps/search/BisoNutrition+near+46.8908202%2C-96.7927428"
+    },
+    {
+      "name": "Michele's Table",
+      "distance": "0.5 mi",
+      "url": "https://www.google.com/maps/search/Michele's%20Table+near+46.8908202%2C-96.7927428"
+    },
+    {
+      "name": "Prairie Mill Cafe (Inside Sanford Health Broadway)",
+      "distance": "0.5 mi",
+      "url": "https://www.google.com/maps/search/Prairie%20Mill%20Cafe%20(Inside%20Sanford%20Health%20Broadway)+near+46.8908202%2C-96.7927428"
+    }
+  ],
+  "bowling": [
+    {
+      "name": "Red River Lanes",
+      "distance": "1.5 mi",
+      "url": "https://www.google.com/maps/search/Red%20River%20Lanes+near+46.8908202%2C-96.7927428"
+    },
+    {
+      "name": "Xcalibur Entertainment",
+      "distance": "1.5 mi",
+      "url": "https://www.google.com/maps/search/Xcalibur%20Entertainment+near+46.8908202%2C-96.7927428"
+    },
+    {
+      "name": "West Acres Bowl",
+      "distance": "2.8 mi",
+      "url": "https://www.google.com/maps/search/West%20Acres%20Bowl+near+46.8908202%2C-96.7927428"
+    },
+    {
+      "name": "The Bowler Inc.",
+      "distance": "3.6 mi",
+      "url": "https://www.google.com/maps/search/The%20Bowler%20Inc.+near+46.8908202%2C-96.7927428",
+      "isFar": true
+    }
+  ],
+  "arcade": [],
+  "movies": [
+    {
+      "name": "Fargo Theatre",
+      "distance": "0.8 mi",
+      "url": "https://www.google.com/maps/search/Fargo%20Theatre+near+46.8908202%2C-96.7927428"
+    },
+    {
+      "name": "Marcus Century Cinema",
+      "distance": "3.0 mi",
+      "url": "https://www.google.com/maps/search/Marcus%20Century%20Cinema+near+46.8908202%2C-96.7927428",
+      "isFar": true
+    },
+    {
+      "name": "Marcus West Acres Cinema",
+      "distance": "3.5 mi",
+      "url": "https://www.google.com/maps/search/Marcus%20West%20Acres%20Cinema+near+46.8908202%2C-96.7927428",
+      "isFar": true
+    }
+  ],
+  "fun": [
+    {
+      "name": "Exit Strategy",
+      "distance": "0.9 mi",
+      "url": "https://www.google.com/maps/search/Exit%20Strategy+near+46.8908202%2C-96.7927428"
+    },
+    {
+      "name": "Escape Jr's",
+      "distance": "2.2 mi",
+      "url": "https://www.google.com/maps/search/Escape%20Jr's+near+46.8908202%2C-96.7927428"
+    },
+    {
+      "name": "Sky Zone Trampoline Park",
+      "distance": "3.1 mi",
+      "url": "https://www.google.com/maps/search/Sky%20Zone%20Trampoline%20Park+near+46.8908202%2C-96.7927428",
+      "isFar": true
+    },
+    {
+      "name": "Fargo Escape Room",
+      "distance": "3.5 mi",
+      "url": "https://www.google.com/maps/search/Fargo%20Escape%20Room+near+46.8908202%2C-96.7927428",
+      "isFar": true
+    },
+    {
+      "name": "Puzzled Escape Rooms",
+      "distance": "4.2 mi",
+      "url": "https://www.google.com/maps/search/Puzzled%20Escape%20Rooms+near+46.8908202%2C-96.7927428",
+      "isFar": true
+    }
+  ],
+  "hotels": [
+    {
+      "name": "HOT TUB Character home minutes to downtown Fargo & NDSU!",
+      "distance": "0.1 mi",
+      "url": "https://www.google.com/maps/search/HOT%20TUB%20Character%20home%20minutes%20to%20downtown%20Fargo%20%26%20NDSU!+near+46.8908202%2C-96.7927428"
+    },
+    {
+      "name": "3 min to NDSU I King I Self Check-In I Pack'n Play",
+      "distance": "0.1 mi",
+      "url": "https://www.google.com/maps/search/3%20min%20to%20NDSU%20I%20King%20I%20Self%20Check-In%20I%20Pack'n%20Play+near+46.8908202%2C-96.7927428"
+    },
+    {
+      "name": "Quaint, Pet-friendly Studio Close to NDSU, Fargodome and Downtown Restaurants",
+      "distance": "0.1 mi",
+      "url": "https://www.google.com/maps/search/Quaint%2C%20Pet-friendly%20Studio%20Close%20to%20NDSU%2C%20Fargodome%20and%20Downtown%20Restaurants+near+46.8908202%2C-96.7927428"
+    },
+    {
+      "name": "NEW Charming Home in the Heart of North Fargo",
+      "distance": "0.2 mi",
+      "url": "https://www.google.com/maps/search/NEW%20Charming%20Home%20in%20the%20Heart%20of%20North%20Fargo+near+46.8908202%2C-96.7927428"
+    },
+    {
+      "name": "NEW Charming Home in the Heart of North Fargo",
+      "distance": "0.2 mi",
+      "url": "https://www.google.com/maps/search/NEW%20Charming%20Home%20in%20the%20Heart%20of%20North%20Fargo+near+46.8908202%2C-96.7927428"
+    },
+    {
+      "name": "Quaint, Pet-friendly Studio Close to NDSU, Fargodome and Downtown Restaurants",
+      "distance": "0.2 mi",
+      "url": "https://www.google.com/maps/search/Quaint%2C%20Pet-friendly%20Studio%20Close%20to%20NDSU%2C%20Fargodome%20and%20Downtown%20Restaurants+near+46.8908202%2C-96.7927428"
+    },
+    {
+      "name": "2 Bedroom Apartment near NDSU and Downtown Fargo",
+      "distance": "0.2 mi",
+      "url": "https://www.google.com/maps/search/2%20Bedroom%20Apartment%20near%20NDSU%20and%20Downtown%20Fargo+near+46.8908202%2C-96.7927428"
+    }
+  ],
+  "gas": [
+    {
+      "name": "Loaf N Jug",
+      "distance": "0.2 mi",
+      "url": "https://www.google.com/maps/search/Loaf%20N%20Jug+near+46.8908202%2C-96.7927428"
+    },
+    {
+      "name": "Brake Time Corner Market",
+      "distance": "0.2 mi",
+      "url": "https://www.google.com/maps/search/Brake%20Time%20Corner%20Market+near+46.8908202%2C-96.7927428"
+    },
+    {
+      "name": "Shell",
+      "distance": "0.5 mi",
+      "url": "https://www.google.com/maps/search/Shell+near+46.8908202%2C-96.7927428"
+    },
+    {
+      "name": "Circle K Gas Station",
+      "distance": "0.9 mi",
+      "url": "https://www.google.com/maps/search/Circle%20K%20Gas%20Station+near+46.8908202%2C-96.7927428"
+    },
+    {
+      "name": "Circle K",
+      "distance": "0.9 mi",
+      "url": "https://www.google.com/maps/search/Circle%20K+near+46.8908202%2C-96.7927428"
+    }
+  ]
+}

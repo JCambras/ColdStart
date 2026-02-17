@@ -1,0 +1,205 @@
+{
+  "quick_bite": [
+    {
+      "name": "Subway",
+      "distance": "0.1 mi",
+      "url": "https://www.google.com/maps/search/Subway+near+40.8472047%2C-81.9388853"
+    },
+    {
+      "name": "Jersey Mike's Subs",
+      "distance": "0.3 mi",
+      "url": "https://www.google.com/maps/search/Jersey%20Mike's%20Subs+near+40.8472047%2C-81.9388853"
+    },
+    {
+      "name": "Wendy's",
+      "distance": "0.3 mi",
+      "url": "https://www.google.com/maps/search/Wendy's+near+40.8472047%2C-81.9388853"
+    },
+    {
+      "name": "Hunt Brothers Pizza",
+      "distance": "0.3 mi",
+      "url": "https://www.google.com/maps/search/Hunt%20Brothers%20Pizza+near+40.8472047%2C-81.9388853"
+    },
+    {
+      "name": "Bob Evans",
+      "distance": "0.3 mi",
+      "url": "https://www.google.com/maps/search/Bob%20Evans+near+40.8472047%2C-81.9388853"
+    },
+    {
+      "name": "Panda Express",
+      "distance": "0.3 mi",
+      "url": "https://www.google.com/maps/search/Panda%20Express+near+40.8472047%2C-81.9388853"
+    },
+    {
+      "name": "LongHorn Steakhouse",
+      "distance": "0.4 mi",
+      "url": "https://www.google.com/maps/search/LongHorn%20Steakhouse+near+40.8472047%2C-81.9388853"
+    }
+  ],
+  "coffee": [
+    {
+      "name": "Joyful Cafe",
+      "distance": "0.2 mi",
+      "url": "https://www.google.com/maps/search/Joyful%20Cafe+near+40.8472047%2C-81.9388853"
+    },
+    {
+      "name": "McDonald's",
+      "distance": "0.3 mi",
+      "url": "https://www.google.com/maps/search/McDonald's+near+40.8472047%2C-81.9388853"
+    },
+    {
+      "name": "Starbucks Coffee Company",
+      "distance": "0.3 mi",
+      "url": "https://www.google.com/maps/search/Starbucks%20Coffee%20Company+near+40.8472047%2C-81.9388853"
+    }
+  ],
+  "team_lunch": [
+    {
+      "name": "Walmart Bakery",
+      "distance": "0.1 mi",
+      "url": "https://www.google.com/maps/search/Walmart%20Bakery+near+40.8472047%2C-81.9388853"
+    },
+    {
+      "name": "Asian Fusion Buffet",
+      "distance": "0.2 mi",
+      "url": "https://www.google.com/maps/search/Asian%20Fusion%20Buffet+near+40.8472047%2C-81.9388853"
+    },
+    {
+      "name": "Red Lobster",
+      "distance": "0.3 mi",
+      "url": "https://www.google.com/maps/search/Red%20Lobster+near+40.8472047%2C-81.9388853"
+    },
+    {
+      "name": "Wild Ginger China Bistro",
+      "distance": "0.3 mi",
+      "url": "https://www.google.com/maps/search/Wild%20Ginger%20China%20Bistro+near+40.8472047%2C-81.9388853"
+    },
+    {
+      "name": "Applebee's Grill + Bar",
+      "distance": "0.3 mi",
+      "url": "https://www.google.com/maps/search/Applebee's%20Grill%20%2B%20Bar+near+40.8472047%2C-81.9388853"
+    }
+  ],
+  "dinner": [
+    {
+      "name": "Auntie Anne's",
+      "distance": "0.1 mi",
+      "url": "https://www.google.com/maps/search/Auntie%20Anne's+near+40.8472047%2C-81.9388853"
+    },
+    {
+      "name": "BUBBLE FRESH",
+      "distance": "0.3 mi",
+      "url": "https://www.google.com/maps/search/BUBBLE%20FRESH+near+40.8472047%2C-81.9388853"
+    },
+    {
+      "name": "El Campesino",
+      "distance": "0.3 mi",
+      "url": "https://www.google.com/maps/search/El%20Campesino+near+40.8472047%2C-81.9388853"
+    },
+    {
+      "name": "Asian Wok",
+      "distance": "0.4 mi",
+      "url": "https://www.google.com/maps/search/Asian%20Wok+near+40.8472047%2C-81.9388853"
+    }
+  ],
+  "bowling": [
+    {
+      "name": "Wayne Lanes",
+      "distance": "3.9 mi",
+      "url": "https://www.google.com/maps/search/Wayne%20Lanes+near+40.8472047%2C-81.9388853",
+      "isFar": true
+    }
+  ],
+  "arcade": [],
+  "movies": [
+    {
+      "name": "Lyric Theater of Wooster",
+      "distance": "3.5 mi",
+      "url": "https://www.google.com/maps/search/Lyric%20Theater%20of%20Wooster+near+40.8472047%2C-81.9388853",
+      "isFar": true
+    }
+  ],
+  "fun": [
+    {
+      "name": "Acres of Fun",
+      "distance": "0.1 mi",
+      "url": "https://www.google.com/maps/search/Acres%20of%20Fun+near+40.8472047%2C-81.9388853"
+    },
+    {
+      "name": "Knights Field Sprayground",
+      "distance": "3.3 mi",
+      "url": "https://www.google.com/maps/search/Knights%20Field%20Sprayground+near+40.8472047%2C-81.9388853",
+      "isFar": true
+    },
+    {
+      "name": "Unlocked: Escape Room Wooster",
+      "distance": "4.6 mi",
+      "url": "https://www.google.com/maps/search/Unlocked%3A%20Escape%20Room%20Wooster+near+40.8472047%2C-81.9388853",
+      "isFar": true
+    }
+  ],
+  "hotels": [
+    {
+      "name": "Holiday Inn Express & Suites Wooster by IHG",
+      "distance": "0.3 mi",
+      "url": "https://www.google.com/maps/search/Holiday%20Inn%20Express%20%26%20Suites%20Wooster%20by%20IHG+near+40.8472047%2C-81.9388853"
+    },
+    {
+      "name": "Hampton Inn Wooster",
+      "distance": "0.5 mi",
+      "url": "https://www.google.com/maps/search/Hampton%20Inn%20Wooster+near+40.8472047%2C-81.9388853"
+    },
+    {
+      "name": "Days Inn by Wyndham Wooster",
+      "distance": "0.7 mi",
+      "url": "https://www.google.com/maps/search/Days%20Inn%20by%20Wyndham%20Wooster+near+40.8472047%2C-81.9388853"
+    },
+    {
+      "name": "Melrose West",
+      "distance": "0.9 mi",
+      "url": "https://www.google.com/maps/search/Melrose%20West+near+40.8472047%2C-81.9388853"
+    },
+    {
+      "name": "Pristine 5BR Retreat | Walking Distance to Wooster Hospital",
+      "distance": "1.1 mi",
+      "url": "https://www.google.com/maps/search/Pristine%205BR%20Retreat%20%7C%20Walking%20Distance%20to%20Wooster%20Hospital+near+40.8472047%2C-81.9388853"
+    },
+    {
+      "name": "Pet Friendly Pet-Friendly Wooster Vacation Rental With Patio",
+      "distance": "1.4 mi",
+      "url": "https://www.google.com/maps/search/Pet%20Friendly%20Pet-Friendly%20Wooster%20Vacation%20Rental%20With%20Patio+near+40.8472047%2C-81.9388853"
+    },
+    {
+      "name": "Pet-Friendly Wooster Vacation Rental with Patio! - Holiday Home",
+      "distance": "1.4 mi",
+      "url": "https://www.google.com/maps/search/Pet-Friendly%20Wooster%20Vacation%20Rental%20with%20Patio!%20-%20Holiday%20Home+near+40.8472047%2C-81.9388853"
+    }
+  ],
+  "gas": [
+    {
+      "name": "Marathon Gas",
+      "distance": "0.3 mi",
+      "url": "https://www.google.com/maps/search/Marathon%20Gas+near+40.8472047%2C-81.9388853"
+    },
+    {
+      "name": "Marathon Gas",
+      "distance": "0.4 mi",
+      "url": "https://www.google.com/maps/search/Marathon%20Gas+near+40.8472047%2C-81.9388853"
+    },
+    {
+      "name": "Buehler's Gas Station",
+      "distance": "0.4 mi",
+      "url": "https://www.google.com/maps/search/Buehler's%20Gas%20Station+near+40.8472047%2C-81.9388853"
+    },
+    {
+      "name": "Speedway",
+      "distance": "1.6 mi",
+      "url": "https://www.google.com/maps/search/Speedway+near+40.8472047%2C-81.9388853"
+    },
+    {
+      "name": "Red Rover Commercial Fueling",
+      "distance": "1.9 mi",
+      "url": "https://www.google.com/maps/search/Red%20Rover%20Commercial%20Fueling+near+40.8472047%2C-81.9388853"
+    }
+  ]
+}

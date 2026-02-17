@@ -1,0 +1,186 @@
+{
+  "quick_bite": [
+    {
+      "name": "Duchess Restaurant",
+      "distance": "0.2 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Duchess%20Restaurant&query_place_id=ChIJk16nd5wO6IkR-4jelCbWtlU&center=41.203102799999996,-73.18806769999999"
+    },
+    {
+      "name": "Massimo Pizzeria Ristorante",
+      "distance": "0.3 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Massimo%20Pizzeria%20Ristorante&query_place_id=ChIJfVA6-FEP6IkRilpWi1rTxWs&center=41.2017454,-73.1876048"
+    },
+    {
+      "name": "Burger King",
+      "distance": "0.3 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Burger%20King&query_place_id=ChIJfwWqWZwO6IkR45ghMuL_dKA&center=41.2018377,-73.18580299999999"
+    },
+    {
+      "name": "Uncle G's Comfort Food",
+      "distance": "0.3 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Uncle%20G's%20Comfort%20Food&query_place_id=ChIJ-eZveJgO6IkRxMs2j1gC0iY&center=41.210377199999996,-73.1907016"
+    },
+    {
+      "name": "Little Caesars Pizza",
+      "distance": "0.4 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Little%20Caesars%20Pizza&query_place_id=ChIJ283zwpoO6IkRJAmKTACDR_0&center=41.201294,-73.191936"
+    },
+    {
+      "name": "Tomlinson's Restaurant LLC",
+      "distance": "0.4 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Tomlinson's%20Restaurant%20LLC&query_place_id=ChIJCU7oC50O6IkRNvv8GDkekg0&center=41.2010418,-73.183784"
+    }
+  ],
+  "coffee": [
+    {
+      "name": "Dunkin'",
+      "distance": "0.4 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Dunkin'&query_place_id=ChIJCabUB50O6IkRKrwYGpcrLrc&center=41.2011524,-73.1842956"
+    },
+    {
+      "name": "Bagel King of Bridgeport",
+      "distance": "1.1 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Bagel%20King%20of%20Bridgeport&query_place_id=ChIJFREm_uoO6IkR9Gd58Usam7Y&center=41.20992700000001,-73.20844799999999"
+    },
+    {
+      "name": "Santos Bakery & Grill",
+      "distance": "1.2 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Santos%20Bakery%20%26%20Grill&query_place_id=ChIJq8vPzYoO6IkRVKFZRQX-bY4&center=41.193910599999995,-73.20539769999999"
+    }
+  ],
+  "team_lunch": [
+    {
+      "name": "Brasserie Ridgewood",
+      "distance": "0.2 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Brasserie%20Ridgewood&query_place_id=ChIJM_qKygMP6IkROI0k_KFzOLI&center=41.203265599999995,-73.187117"
+    },
+    {
+      "name": "Wingstop",
+      "distance": "0.2 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Wingstop&query_place_id=ChIJlz3AMDQP6IkRpeL9-oB0J4M&center=41.202888300000005,-73.1879204"
+    },
+    {
+      "name": "Tally B's Pastry LLC",
+      "distance": "0.5 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Tally%20B's%20Pastry%20LLC&query_place_id=ChIJA8GoR7sP6IkRyDboKa2yOgs&center=41.211417999999995,-73.19386999999999"
+    },
+    {
+      "name": "CCCAKESANDBAKES LLC",
+      "distance": "0.7 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=CCCAKESANDBAKES%20LLC&query_place_id=ChIJfXMQVc0N6IkRLej0tYs6AcM&center=41.2114021,-73.1770619"
+    },
+    {
+      "name": "Goyitas Sweet Treat's",
+      "distance": "0.8 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Goyitas%20Sweet%20Treat's&query_place_id=ChIJPfsU8bsP6IkRCa2uNe7LMjg&center=41.194735,-73.1821853"
+    },
+    {
+      "name": "pwa douce",
+      "distance": "1.0 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=pwa%20douce&query_place_id=ChIJYc8UktgP6IkRsR2Da57rkFo&center=41.211393799999996,-73.2051084"
+    }
+  ],
+  "dinner": [
+    {
+      "name": "Divine Authentic Jamaican Kitchen",
+      "distance": "0.2 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Divine%20Authentic%20Jamaican%20Kitchen&query_place_id=ChIJ7ak3eZwO6IkRe0WD08QZDxw&center=41.2022109,-73.18810789999999"
+    },
+    {
+      "name": "Pão & Pães Bakery",
+      "distance": "0.3 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=P%C3%A3o%20%26%20P%C3%A3es%20Bakery&query_place_id=ChIJZyrNgsYP6IkRdHZnAIEOY3Q&center=41.2017336,-73.1916798"
+    },
+    {
+      "name": "American Steakhouse",
+      "distance": "0.3 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=American%20Steakhouse&query_place_id=ChIJ6boj_5wO6IkR5bZ-zC3P4xM&center=41.2012685,-73.1858956"
+    },
+    {
+      "name": "Sabor Puerto Chino",
+      "distance": "0.4 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Sabor%20Puerto%20Chino&query_place_id=ChIJ5au6bgAP6IkRXNKiDX_2PNA&center=41.201291399999995,-73.1846314"
+    },
+    {
+      "name": "White's Diner",
+      "distance": "0.4 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=White's%20Diner&query_place_id=ChIJAVR2D50O6IkRP9IagZ2P_h8&center=41.2007678,-73.1847203"
+    },
+    {
+      "name": "Tally B's Pastry LLC",
+      "distance": "0.5 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Tally%20B's%20Pastry%20LLC&query_place_id=ChIJA8GoR7sP6IkRyDboKa2yOgs&center=41.211417999999995,-73.19386999999999"
+    }
+  ],
+  "bowling": [
+    {
+      "name": "Nutmeg Bowl",
+      "distance": "3.0 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Nutmeg%20Bowl&query_place_id=ChIJaemHbjUO6IkR6TsULE5z3BQ&center=41.175013199999995,-73.2288183"
+    }
+  ],
+  "arcade": [],
+  "movies": [
+    {
+      "name": "AMC Marquis 16",
+      "distance": "1.6 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=AMC%20Marquis%2016&query_place_id=ChIJJ_CLRlUJ6IkRKAWlCMfdJes&center=41.228791099999995,-73.18383829999999"
+    },
+    {
+      "name": "Upstairs at 118",
+      "distance": "1.6 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Upstairs%20at%20118&query_place_id=ChIJq6qas3sO6IkRUyXmI552CAA&center=41.182531999999995,-73.1900631"
+    },
+    {
+      "name": "Cine CT",
+      "distance": "1.6 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Cine%20CT&query_place_id=ChIJlx6RDQAJ6IkRuRgmZPc0XsY&center=41.22894,-73.18408"
+    }
+  ],
+  "fun": [
+    {
+      "name": "Beardsley Park Splash Pad",
+      "distance": "0.8 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Beardsley%20Park%20Splash%20Pad&query_place_id=ChIJZ7V6AQAN6IkRag3WsdHrEyg&center=41.214856499999996,-73.1797606"
+    }
+  ],
+  "hotels": [
+    {
+      "name": "2 Mi to Dtwn: Well-Appointed Bridgeport Duplex!",
+      "distance": "0.3 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=2%20Mi%20to%20Dtwn%3A%20Well-Appointed%20Bridgeport%20Duplex!&query_place_id=ChIJWbScD5oO6IkRZQTNwTkqCi4&center=41.204452499999995,-73.1933899"
+    },
+    {
+      "name": "Sunnyside Inn",
+      "distance": "0.3 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Sunnyside%20Inn&query_place_id=ChIJiR5pFZgO6IkRjCn0vu2EEQk&center=41.2090204,-73.1920548"
+    },
+    {
+      "name": "Bridgeport East Main - Budget Single Room",
+      "distance": "0.5 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Bridgeport%20East%20Main%20-%20Budget%20Single%20Room&query_place_id=ChIJodNWzyEM6IkRFtCsko774fk&center=41.206871,-73.1784973"
+    }
+  ],
+  "gas": [
+    {
+      "name": "Puff 1",
+      "distance": "0.3 mi",
+      "url": "https://www.google.com/maps/search/Puff%201+near+41.2058051%2C-73.1883403"
+    },
+    {
+      "name": "Speedway",
+      "distance": "0.4 mi",
+      "url": "https://www.google.com/maps/search/Speedway+near+41.2058051%2C-73.1883403"
+    },
+    {
+      "name": "Mobil",
+      "distance": "0.5 mi",
+      "url": "https://www.google.com/maps/search/Mobil+near+41.2058051%2C-73.1883403"
+    },
+    {
+      "name": "XTRA FUELS",
+      "distance": "0.5 mi",
+      "url": "https://www.google.com/maps/search/XTRA%20FUELS+near+41.2058051%2C-73.1883403"
+    }
+  ]
+}

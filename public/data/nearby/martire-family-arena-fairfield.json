@@ -1,0 +1,206 @@
+{
+  "quick_bite": [
+    {
+      "name": "Subway",
+      "distance": "0.2 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Subway&query_place_id=ChIJj8mlh2oP6IkRAIa8DkfcGq0&center=41.2187523,-73.25587019999999"
+    },
+    {
+      "name": "Pizza Hut Express",
+      "distance": "1.6 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Pizza%20Hut%20Express&query_place_id=ChIJudJijNYO6IkRBnUXR_72ECs&center=41.2283496,-73.2261031"
+    },
+    {
+      "name": "Pretzelmaker",
+      "distance": "1.6 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Pretzelmaker&query_place_id=ChIJg-CFK9QO6IkRtxnKYvxXuo8&center=41.2293413,-73.2267736"
+    },
+    {
+      "name": "Merritt Canteen",
+      "distance": "1.9 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Merritt%20Canteen&query_place_id=ChIJ6Z_BlcQO6IkR78SoAxldLS8&center=41.219096,-73.21620899999999"
+    },
+    {
+      "name": "Drumstik Bar-B-Q",
+      "distance": "2.0 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Drumstik%20Bar-B-Q&query_place_id=ChIJ6RU_g8MO6IkRbDxSxVMtF6o&center=41.2173072,-73.2145551"
+    },
+    {
+      "name": "Maddy's Grill",
+      "distance": "2.1 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Maddy's%20Grill&query_place_id=ChIJWVac7wEP6IkRR25KtsmWd7Y&center=41.2164649,-73.2131016"
+    }
+  ],
+  "coffee": [
+    {
+      "name": "Dunkin'",
+      "distance": "0.1 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Dunkin'&query_place_id=ChIJES1wMxcP6IkRBzjBn4Bjosw&center=41.218752099999996,-73.255827"
+    },
+    {
+      "name": "Dunkin'",
+      "distance": "0.2 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Dunkin'&query_place_id=ChIJcaeBh2oP6IkRUfI3IhIrif4&center=41.219025699999996,-73.2564634"
+    },
+    {
+      "name": "Einstein Bros. Bagels",
+      "distance": "0.8 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Einstein%20Bros.%20Bagels&query_place_id=ChIJ9YCpAjsP6IkRhI2XcB2fCoI&center=41.2249814,-73.243213"
+    },
+    {
+      "name": "Brewberry Cafe (Coffee Trailer)",
+      "distance": "0.9 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Brewberry%20Cafe%20(Coffee%20Trailer)&query_place_id=ChIJe41wGp0P6IkR6xc0giOj3Co&center=41.217973799999996,-73.2363475"
+    }
+  ],
+  "team_lunch": [
+    {
+      "name": "Liv",
+      "distance": "0.2 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Liv&query_place_id=ChIJ208URwAP6IkRWd9kmPu_i0E&center=41.2199276,-73.2538275"
+    },
+    {
+      "name": "JP’s Diner",
+      "distance": "0.5 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=JP%E2%80%99s%20Diner&query_place_id=ChIJx38COjwP6IkR7lBAiW6X2Gk&center=41.220846,-73.2458748"
+    },
+    {
+      "name": "63's",
+      "distance": "0.6 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=63's&query_place_id=ChIJZ4YKyB8P6IkRwfvotj9zXEo&center=41.2203491,-73.24206579999999"
+    },
+    {
+      "name": "Boca Grille and Raw Bar",
+      "distance": "0.8 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Boca%20Grille%20and%20Raw%20Bar&query_place_id=ChIJRdzP050P6IkRtg06yTHQdgg&center=41.2158612,-73.26905839999999"
+    },
+    {
+      "name": "El Rodeo Taqueria (Food Truck)",
+      "distance": "0.9 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=El%20Rodeo%20Taqueria%20(Food%20Truck)&query_place_id=ChIJB19akJwP6IkRPmQUYwmVLxk&center=41.217973799999996,-73.2363475"
+    },
+    {
+      "name": "KayBonCafe",
+      "distance": "1.1 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=KayBonCafe&query_place_id=ChIJr-5ybL8P6IkRB7M2WFK2FWI&center=41.2138938,-73.2331988"
+    }
+  ],
+  "dinner": [
+    {
+      "name": "Mango Creative Salad",
+      "distance": "0.9 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Mango%20Creative%20Salad&query_place_id=ChIJD9c4jsgP6IkRJtj224deRx4&center=41.2185437,-73.2370414"
+    },
+    {
+      "name": "The Tasty Yolk (Food Truck)",
+      "distance": "0.9 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=The%20Tasty%20Yolk%20(Food%20Truck)&query_place_id=ChIJY9sEOSIP6IkROsFriCmd3eg&center=41.217926999999996,-73.236408"
+    },
+    {
+      "name": "Como En Casa Food Truck",
+      "distance": "0.9 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Como%20En%20Casa%20Food%20Truck&query_place_id=ChIJD7_V5QoP6IkRiK4_5UGDsAE&center=41.217973799999996,-73.2363475"
+    },
+    {
+      "name": "Grill Master Dex Jerk Spot",
+      "distance": "0.9 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Grill%20Master%20Dex%20Jerk%20Spot&query_place_id=ChIJHcMtp94P6IkRhI9vM-iRgJc&center=41.217973799999996,-73.2363475"
+    },
+    {
+      "name": "900 Degrees Pizza Truck",
+      "distance": "0.9 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=900%20Degrees%20Pizza%20Truck&query_place_id=ChIJpSJcWAsP6IkRGcHghzw2sVg&center=41.217973799999996,-73.2363475"
+    },
+    {
+      "name": "Goni’s Gourmet",
+      "distance": "0.9 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Goni%E2%80%99s%20Gourmet&query_place_id=ChIJY-6Gcr0J6IkRy2SgAVsa9Dg&center=41.217681999999996,-73.2362064"
+    }
+  ],
+  "bowling": [
+    {
+      "name": "Nutmeg Bowl",
+      "distance": "3.2 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Nutmeg%20Bowl&query_place_id=ChIJaemHbjUO6IkR6TsULE5z3BQ&center=41.175013199999995,-73.2288183",
+      "isFar": true
+    }
+  ],
+  "arcade": [],
+  "movies": [
+    {
+      "name": "Cine CT",
+      "distance": "3.7 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Cine%20CT&query_place_id=ChIJlx6RDQAJ6IkRuRgmZPc0XsY&center=41.22894,-73.18408",
+      "isFar": true
+    },
+    {
+      "name": "AMC Marquis 16",
+      "distance": "3.7 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=AMC%20Marquis%2016&query_place_id=ChIJJ_CLRlUJ6IkRKAWlCMfdJes&center=41.228791099999995,-73.18383829999999",
+      "isFar": true
+    },
+    {
+      "name": "Upstairs at 118",
+      "distance": "4.1 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Upstairs%20at%20118&query_place_id=ChIJq6qas3sO6IkRUyXmI552CAA&center=41.182531999999995,-73.1900631",
+      "isFar": true
+    }
+  ],
+  "fun": [
+    {
+      "name": "Splash pad",
+      "distance": "1.4 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Splash%20pad&query_place_id=ChIJCTzhEQAP6IkR1Kon9PUCZeE&center=41.221458299999995,-73.2274279"
+    },
+    {
+      "name": "Buddy Bench",
+      "distance": "2.5 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Buddy%20Bench&query_place_id=ChIJ9e4hHgAP6IkReFOJ8vWkZGY&center=41.1808494,-73.2481969"
+    },
+    {
+      "name": "Check Rep",
+      "distance": "2.5 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Check%20Rep&query_place_id=ChIJR52EmKYH6IkRzY1MSdHyQlQ&center=41.24949,-73.277648"
+    },
+    {
+      "name": "Bridgeport’s Little Brazil",
+      "distance": "3.1 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Bridgeport%E2%80%99s%20Little%20Brazil&query_place_id=ChIJna3rYaQP6IkR8YPPYWFaZ_4&center=41.191993499999995,-73.2042307",
+      "isFar": true
+    }
+  ],
+  "hotels": [
+    {
+      "name": "Private Renovated Home Convenient to Sacred Heart Fairfield Universities",
+      "distance": "0.2 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Private%20Renovated%20Home%20Convenient%20to%20Sacred%20Heart%20Fairfield%20Universities&query_place_id=ChIJdx4spRUP6IkRxsD_qLUaYnU&center=41.2166405,-73.2492828"
+    },
+    {
+      "name": "Premier Parking Services",
+      "distance": "0.7 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Premier%20Parking%20Services&query_place_id=ChIJC0pOQX0P6IkR-ixC4enseqg&center=41.2215512,-73.2414646"
+    }
+  ],
+  "gas": [
+    {
+      "name": "Chargers - Merritt Pkwy East Fairfield",
+      "distance": "0.2 mi",
+      "url": "https://www.google.com/maps/search/Chargers%20-%20Merritt%20Pkwy%20East%20Fairfield+near+41.2173615%2C-73.25361079999999"
+    },
+    {
+      "name": "Mobil",
+      "distance": "0.2 mi",
+      "url": "https://www.google.com/maps/search/Mobil+near+41.2173615%2C-73.25361079999999"
+    },
+    {
+      "name": "Alltown",
+      "distance": "0.2 mi",
+      "url": "https://www.google.com/maps/search/Alltown+near+41.2173615%2C-73.25361079999999"
+    },
+    {
+      "name": "Sunoco",
+      "distance": "0.4 mi",
+      "url": "https://www.google.com/maps/search/Sunoco+near+41.2173615%2C-73.25361079999999"
+    }
+  ]
+}

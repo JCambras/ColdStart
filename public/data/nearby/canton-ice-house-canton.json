@@ -1,0 +1,159 @@
+{
+  "quick_bite": [
+    {
+      "name": "Poke Bowl",
+      "distance": "1.0 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Poke%20Bowl&query_place_id=ChIJx7nwpzCB5IkRMvnRb4g4oqg&center=42.140404600000004,-71.1466193"
+    },
+    {
+      "name": "Five Guys",
+      "distance": "1.0 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Five%20Guys&query_place_id=ChIJ-xdl3dSA5IkR6Zw--zUJExo&center=42.1404887,-71.14672329999999"
+    },
+    {
+      "name": "Roxanne's Taqueria",
+      "distance": "1.0 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Roxanne's%20Taqueria&query_place_id=ChIJyQKy5iqH5IkRiqQRbt13Pwo&center=42.137903099999996,-71.14699809999999"
+    },
+    {
+      "name": "Subway",
+      "distance": "1.1 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Subway&query_place_id=ChIJ391nzNSA5IkRRyQc0KQp_3E&center=42.139235,-71.14756779999999"
+    },
+    {
+      "name": "Chinatown Stoughton",
+      "distance": "1.1 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Chinatown%20Stoughton&query_place_id=ChIJORa95iqH5IkREQuuRfvVZxE&center=42.137982,-71.14761299999999"
+    }
+  ],
+  "coffee": [
+    {
+      "name": "Starbucks Coffee Company",
+      "distance": "1.1 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Starbucks%20Coffee%20Company&query_place_id=ChIJddXtHdWA5IkRCNHhQOIQHRo&center=42.1391,-71.14859"
+    },
+    {
+      "name": "Dunkin'",
+      "distance": "1.1 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Dunkin'&query_place_id=ChIJ4e5WVACH5IkRPR7-30ec6V4&center=42.137906799999996,-71.1484524"
+    },
+    {
+      "name": "Dunkin'",
+      "distance": "1.1 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Dunkin'&query_place_id=ChIJWadQPCuH5IkRTjiO48XSfm8&center=42.138387099999996,-71.148742"
+    },
+    {
+      "name": "Marylou's Coffee",
+      "distance": "1.1 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Marylou's%20Coffee&query_place_id=ChIJq6o6FCuH5IkRgP12qKxuKw4&center=42.13784,-71.1489828"
+    }
+  ],
+  "team_lunch": [
+    {
+      "name": "Gourmet Garden",
+      "distance": "1.0 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Gourmet%20Garden&query_place_id=ChIJI4y3B36B5IkRBtemPGVHqKg&center=42.1404084,-71.1462979"
+    },
+    {
+      "name": "Manje a",
+      "distance": "1.3 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Manje%20a&query_place_id=ChIJBVsAPQCB5IkRv5H514xiZHM&center=42.1530516,-71.14827199999999"
+    }
+  ],
+  "dinner": [
+    {
+      "name": "Backstreet Grille & Tavern",
+      "distance": "0.7 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Backstreet%20Grille%20%26%20Tavern&query_place_id=ChIJJ5kCo06B5IkRQQDT8M4nFVE&center=42.138343,-71.1138088"
+    },
+    {
+      "name": "Ore A Love Story Restaurant",
+      "distance": "0.9 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Ore%20A%20Love%20Story%20Restaurant&query_place_id=ChIJVeg4tE2B5IkRLPuG5RqY1Vw&center=42.13605,-71.1119698"
+    },
+    {
+      "name": "D'Angelo Grilled Sandwiches",
+      "distance": "0.9 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=D'Angelo%20Grilled%20Sandwiches&query_place_id=ChIJK7noNdSG5IkRUPLcD0S9BfU&center=42.134399699999996,-71.14152659999999"
+    },
+    {
+      "name": "Sombrero's Mexican Restaurant",
+      "distance": "1.0 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Sombrero's%20Mexican%20Restaurant&query_place_id=ChIJpfK7e8KB5IkRKswFMTak_zo&center=42.138534799999995,-71.14589289999999"
+    },
+    {
+      "name": "Life's A Bagel",
+      "distance": "1.1 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Life's%20A%20Bagel&query_place_id=ChIJoyyg91uB5IkRxnyiZywJ6js&center=42.1393281,-71.1477701"
+    }
+  ],
+  "bowling": [],
+  "arcade": [],
+  "movies": [
+    {
+      "name": "Showcase Cinema de Lux Randolph",
+      "distance": "3.7 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Showcase%20Cinema%20de%20Lux%20Randolph&query_place_id=ChIJW3K-rVKC5IkRe2vs4HoyfdA&center=42.163228499999995,-71.06185289999999",
+      "isFar": true
+    }
+  ],
+  "fun": [
+    {
+      "name": "Charles H. Grant Square",
+      "distance": "1.6 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Charles%20H.%20Grant%20Square&query_place_id=ChIJ17VoBHqH5IkRr_KvIwzhZXs&center=42.1291499,-71.1017166"
+    },
+    {
+      "name": "Pettee's Sledding Hill",
+      "distance": "3.0 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Pettee's%20Sledding%20Hill&query_place_id=ChIJYdgQcGiH5IkR8jOOCj-Awc4&center=42.1248246,-71.1815091",
+      "isFar": true
+    },
+    {
+      "name": "The Enchanted Village",
+      "distance": "3.1 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=The%20Enchanted%20Village&query_place_id=ChIJMZzfuf-D5IkR75TA1vjLwLk&center=42.13411920000001,-71.06724870000001",
+      "isFar": true
+    },
+    {
+      "name": "Launch Family Entertainment Park Norwood",
+      "distance": "4.4 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Launch%20Family%20Entertainment%20Park%20Norwood&query_place_id=ChIJIzpoYHqA5IkRqSOLcuH4iQc&center=42.1915401,-71.182446",
+      "isFar": true
+    }
+  ],
+  "hotels": [
+    {
+      "name": "我的船",
+      "distance": "1.3 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=%E6%88%91%E7%9A%84%E8%88%B9&query_place_id=ChIJhyLWbNiB5IkRgoSP8wWYO-w&center=42.1524022,-71.1474805"
+    },
+    {
+      "name": "Quiet and Quaint",
+      "distance": "1.5 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Quiet%20and%20Quaint&query_place_id=ChIJgwFUyF-B5IkRw1Fgfwlgn_U&center=42.148861,-71.09970849999999"
+    }
+  ],
+  "gas": [
+    {
+      "name": "Sam's Gas",
+      "distance": "1.0 mi",
+      "url": "https://www.google.com/maps/search/Sam's%20Gas+near+42.1419117%2C-71.12729"
+    },
+    {
+      "name": "Mobil",
+      "distance": "1.1 mi",
+      "url": "https://www.google.com/maps/search/Mobil+near+42.1419117%2C-71.12729"
+    },
+    {
+      "name": "Shell",
+      "distance": "1.1 mi",
+      "url": "https://www.google.com/maps/search/Shell+near+42.1419117%2C-71.12729"
+    },
+    {
+      "name": "PRESTIGE GAS",
+      "distance": "1.3 mi",
+      "url": "https://www.google.com/maps/search/PRESTIGE%20GAS+near+42.1419117%2C-71.12729"
+    }
+  ]
+}

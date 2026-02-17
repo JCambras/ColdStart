@@ -1,0 +1,217 @@
+{
+  "quick_bite": [
+    {
+      "name": "Outback Steakhouse",
+      "distance": "0.3 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Outback%20Steakhouse&query_place_id=ChIJDfU1JFMD5IkRWy5Q10Dslo0&center=42.199227799999996,-71.8417248"
+    },
+    {
+      "name": "Arby's",
+      "distance": "0.5 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Arby's&query_place_id=ChIJu2OispME5IkRk4jQWq4bxRY&center=42.2028751,-71.8385146"
+    },
+    {
+      "name": "Subway",
+      "distance": "0.7 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Subway&query_place_id=ChIJR2WgPBoF5IkR6Csbv6VSYp0&center=42.202197399999996,-71.8338045"
+    },
+    {
+      "name": "Auburn Town Pizza",
+      "distance": "0.9 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Auburn%20Town%20Pizza&query_place_id=ChIJYTvuO40E5IkR7SVlRnjG8HU&center=42.2072551,-71.8344256"
+    },
+    {
+      "name": "Subway",
+      "distance": "0.9 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Subway&query_place_id=ChIJTSww4owE5IkRCKCQD6Je-n8&center=42.2084267,-71.8347367"
+    }
+  ],
+  "coffee": [
+    {
+      "name": "Starbucks Coffee Company",
+      "distance": "0.4 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Starbucks%20Coffee%20Company&query_place_id=ChIJJVlvqZYE5IkRsVv4yJjXnJs&center=42.20129,-71.83984"
+    },
+    {
+      "name": "Heritage Coffee Shoppe",
+      "distance": "0.5 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Heritage%20Coffee%20Shoppe&query_place_id=ChIJlWbOX0gE5IkRvYbu-k6TYpI&center=42.191389799999996,-71.8444088"
+    },
+    {
+      "name": "Dunkin'",
+      "distance": "0.6 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Dunkin'&query_place_id=ChIJD3sJV5IE5IkRAEf8rAdMy-Q&center=42.203906599999996,-71.83722120000002"
+    },
+    {
+      "name": "Fusion Cafe & Gelateria",
+      "distance": "0.7 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Fusion%20Cafe%20%26%20Gelateria&query_place_id=ChIJDWEwApME5IkRppCSJ8mg0v8&center=42.202629699999996,-71.8354025"
+    },
+    {
+      "name": "Rocco's Doughnut Company",
+      "distance": "1.4 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Rocco's%20Doughnut%20Company&query_place_id=ChIJS3d5ME0D5IkRo7LcCAztt6A&center=42.1832993,-71.8640485"
+    }
+  ],
+  "team_lunch": [
+    {
+      "name": "Tacos Mexico",
+      "distance": "0.7 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Tacos%20Mexico&query_place_id=ChIJlxjCN5ME5IkRk1bUgWLNCQo&center=42.202050799999995,-71.8340575"
+    },
+    {
+      "name": "Cap't Loui Auburn - Cajun Seafood Boil",
+      "distance": "0.7 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Cap't%20Loui%20Auburn%20-%20Cajun%20Seafood%20Boil&query_place_id=ChIJTX-j3FcF5IkRd3sgwfRxuKc&center=42.2020118,-71.83376779999999"
+    },
+    {
+      "name": "Matt’s Golden Pizza",
+      "distance": "0.9 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Matt%E2%80%99s%20Golden%20Pizza&query_place_id=ChIJ6Wmp1NkF5IkRRxEh44W1FeY&center=42.2041489,-71.83200550000001"
+    },
+    {
+      "name": "Yong Shing Restaurant",
+      "distance": "0.9 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Yong%20Shing%20Restaurant&query_place_id=ChIJCThS9owE5IkRqNXq8SR-rCk&center=42.2089651,-71.8362472"
+    },
+    {
+      "name": "Applebee's Grill + Bar",
+      "distance": "1.1 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Applebee's%20Grill%20%2B%20Bar&query_place_id=ChIJsYJE61UD5IkRe4WGy1txAYo&center=42.184531899999996,-71.8581885"
+    },
+    {
+      "name": "D'Angelo Grilled Sandwiches",
+      "distance": "1.2 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=D'Angelo%20Grilled%20Sandwiches&query_place_id=ChIJG4-jp1UD5IkR3Xoynf9wypI&center=42.183715,-71.85814309999999"
+    }
+  ],
+  "dinner": [
+    {
+      "name": "Papa Gino's",
+      "distance": "0.3 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Papa%20Gino's&query_place_id=ChIJr44nFPME5IkR11mLyaDQDbo&center=42.198612399999995,-71.8414487"
+    },
+    {
+      "name": "Sunrise & Subs",
+      "distance": "0.6 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Sunrise%20%26%20Subs&query_place_id=ChIJcduIFvIF5IkRdXjkZyAJ69Q&center=42.2017822,-71.8365554"
+    },
+    {
+      "name": "ghost chicken",
+      "distance": "0.7 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=ghost%20chicken&query_place_id=ChIJRfXZuxgF5IkR3KmF_G9q50c&center=42.2020444,-71.83378119999999"
+    },
+    {
+      "name": "Herbalife Dialed-in Nutrition",
+      "distance": "0.9 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Herbalife%20Dialed-in%20Nutrition&query_place_id=ChIJC481ktYF5IkRKG1tpBJMRRY&center=42.2077313,-71.83428909999999"
+    },
+    {
+      "name": "BJ's Bakery",
+      "distance": "1.2 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=BJ's%20Bakery&query_place_id=ChIJQUGeF6sE5IkRbgheAIGtWl8&center=42.1813907,-71.8533508"
+    },
+    {
+      "name": "Custom Wedding Cakes By Penny",
+      "distance": "1.3 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Custom%20Wedding%20Cakes%20By%20Penny&query_place_id=ChIJhb4-jIAE5IkRBzYMJ52YIPc&center=42.216541799999995,-71.8540137"
+    }
+  ],
+  "bowling": [
+    {
+      "name": "Gold Crown Service",
+      "distance": "2.0 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Gold%20Crown%20Service&query_place_id=ChIJRasnanIF5IkRjGN-wNtFXp0&center=42.2206471,-71.82084689999999"
+    },
+    {
+      "name": "Bowlero Worcester",
+      "distance": "2.1 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Bowlero%20Worcester&query_place_id=ChIJ9yYRg0UE5IkRQKGFdfmWGIg&center=42.222310799999995,-71.8227363"
+    }
+  ],
+  "arcade": [],
+  "movies": [
+    {
+      "name": "Blackstone Valley 14 Cinema de Lux",
+      "distance": "3.5 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Blackstone%20Valley%2014%20Cinema%20de%20Lux&query_place_id=ChIJDxMTEXEF5IkRpshjBiP00Vc&center=42.199782,-71.77851",
+      "isFar": true
+    },
+    {
+      "name": "Elm Draught House Cinema Inc",
+      "distance": "4.5 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Elm%20Draught%20House%20Cinema%20Inc&query_place_id=ChIJueORFWAF5IkRDbumm2DssSQ&center=42.191963099999995,-71.7583999",
+      "isFar": true
+    }
+  ],
+  "fun": [
+    {
+      "name": "Power industry 50",
+      "distance": "3.8 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Power%20industry%2050&query_place_id=ChIJCWvtXkwF5IkRxOgSs7fEUaY&center=42.2385574,-71.7955315",
+      "isFar": true
+    },
+    {
+      "name": "Bunnies of Clark",
+      "distance": "3.9 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Bunnies%20of%20Clark&query_place_id=ChIJgXy9QAAF5IkRg7Ajxow0MlE&center=42.251061199999995,-71.8223486",
+      "isFar": true
+    },
+    {
+      "name": "Polar Park Warehouse Facade",
+      "distance": "4.7 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Polar%20Park%20Warehouse%20Facade&query_place_id=ChIJm-h3dgAH5IkRV_LqRJHLkpw&center=42.256329,-71.8003495",
+      "isFar": true
+    },
+    {
+      "name": "Beantown Betty Duckboat",
+      "distance": "4.8 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Beantown%20Betty%20Duckboat&query_place_id=ChIJhyo2cHMH5IkRsgeW1mGhQdU&center=42.2576937,-71.7988489",
+      "isFar": true
+    }
+  ],
+  "hotels": [
+    {
+      "name": "La Quinta Inn by Wyndham Auburn Worcester",
+      "distance": "0.3 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=La%20Quinta%20Inn%20by%20Wyndham%20Auburn%20Worcester&query_place_id=ChIJ51vJipYE5IkROTjs7wsJess&center=42.20001440000001,-71.8418284"
+    },
+    {
+      "name": "Comfort Inn Auburn-Worcester - Queen Room - Non-Smoking",
+      "distance": "0.4 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Comfort%20Inn%20Auburn-Worcester%20-%20Queen%20Room%20-%20Non-Smoking&query_place_id=ChIJi7SQsJYE5IkRmTDm-jbmIrs&center=42.201271,-71.8403397"
+    },
+    {
+      "name": "Holiday Inn Express & Suites Auburn by IHG",
+      "distance": "0.4 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Holiday%20Inn%20Express%20%26%20Suites%20Auburn%20by%20IHG&query_place_id=ChIJj9SGsqQE5IkR3WzwwzBD17c&center=42.1923233,-71.8454242"
+    },
+    {
+      "name": "Comfort Inn Auburn-Worcester",
+      "distance": "0.4 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Comfort%20Inn%20Auburn-Worcester&query_place_id=ChIJPdOQsJYE5IkRnI1stq_OiRU&center=42.201834,-71.84033"
+    }
+  ],
+  "gas": [
+    {
+      "name": "Shell",
+      "distance": "0.6 mi",
+      "url": "https://www.google.com/maps/search/Shell+near+42.1981895%2C-71.8468553"
+    },
+    {
+      "name": "Xpress Stop",
+      "distance": "0.9 mi",
+      "url": "https://www.google.com/maps/search/Xpress%20Stop+near+42.1981895%2C-71.8468553"
+    },
+    {
+      "name": "AUBURN GAS AND AUTO SERVICES",
+      "distance": "1.1 mi",
+      "url": "https://www.google.com/maps/search/AUBURN%20GAS%20AND%20AUTO%20SERVICES+near+42.1981895%2C-71.8468553"
+    },
+    {
+      "name": "BJ's Gas Station",
+      "distance": "1.1 mi",
+      "url": "https://www.google.com/maps/search/BJ's%20Gas%20Station+near+42.1981895%2C-71.8468553"
+    }
+  ]
+}

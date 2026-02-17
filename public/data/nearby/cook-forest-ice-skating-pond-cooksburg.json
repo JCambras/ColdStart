@@ -1,0 +1,159 @@
+{
+  "quick_bite": [
+    {
+      "name": "MacBeth's Cabins and Country Store",
+      "distance": "0.7 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=MacBeth's%20Cabins%20and%20Country%20Store&query_place_id=ChIJ787iMa3QzIkRh4AIapEW2Hc&center=41.329727299999995,-79.20874549999999"
+    },
+    {
+      "name": "Jimmy John's",
+      "distance": "10.1 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Jimmy%20John's&query_place_id=ChIJC0Os1j4z9IcRbyg11-vyHY8&center=41.1841083,-79.2454142",
+      "isFar": true
+    },
+    {
+      "name": "PJ Fresh Marketplace",
+      "distance": "11.8 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=PJ%20Fresh%20Marketplace&query_place_id=ChIJOeqlTqnDzIkR3sKeJ-eoqn8&center=41.1724835,-79.0962524",
+      "isFar": true
+    },
+    {
+      "name": "Arby's",
+      "distance": "12.1 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Arby's&query_place_id=ChIJm8qUPePDzIkRhx3V-f429_M&center=41.1665345,-79.09729670000002",
+      "isFar": true
+    },
+    {
+      "name": "Burger King",
+      "distance": "12.2 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Burger%20King&query_place_id=ChIJHQo0w-LDzIkRUL5mFoj_JVY&center=41.1651186,-79.09708859999999",
+      "isFar": true
+    },
+    {
+      "name": "Dairy Queen Grill & Chill",
+      "distance": "12.3 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Dairy%20Queen%20Grill%20%26%20Chill&query_place_id=ChIJWcsj3-_DzIkRUmfDznKkfS8&center=41.1639712,-79.0968104",
+      "isFar": true
+    }
+  ],
+  "coffee": [
+    {
+      "name": "Cooksburg Cafe",
+      "distance": "0.4 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Cooksburg%20Cafe&query_place_id=ChIJpTDWyavQzIkRtP17IxEnqLM&center=41.3287111,-79.203906"
+    }
+  ],
+  "team_lunch": [
+    {
+      "name": "The Meltdown",
+      "distance": "11.8 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=The%20Meltdown&query_place_id=ChIJC-IJITTDzIkRuHQ9jcZI1oY&center=41.172932,-79.0963",
+      "isFar": true
+    },
+    {
+      "name": "Grenade’s Cookie Co",
+      "distance": "12.4 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Grenade%E2%80%99s%20Cookie%20Co&query_place_id=ChIJacIEGfwzM4gRmCYAOgxF1ys&center=41.213935299999996,-79.38430989999999",
+      "isFar": true
+    }
+  ],
+  "dinner": [
+    {
+      "name": "Copney’s BBQ",
+      "distance": "0.7 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Copney%E2%80%99s%20BBQ&query_place_id=ChIJhStUSQDRzIkRneTTlTxs2hU&center=41.329916399999995,-79.2087925"
+    },
+    {
+      "name": "Trail's End Restaurant",
+      "distance": "3.1 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Trail's%20End%20Restaurant&query_place_id=ChIJo_U_4nPXzIkRmzT1U2-OdvI&center=41.3679856,-79.21695969999999",
+      "isFar": true
+    },
+    {
+      "name": "Cousin Basils",
+      "distance": "3.3 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Cousin%20Basils&query_place_id=ChIJWaQwCA3bzIkRok_jUoLjfDA&center=41.3188622,-79.13367629999999",
+      "isFar": true
+    },
+    {
+      "name": "The Forest Nook Restaurant",
+      "distance": "3.5 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=The%20Forest%20Nook%20Restaurant&query_place_id=ChIJV5XrIJ7XzIkRMOLKNOfI9kE&center=41.3733338,-79.2188054",
+      "isFar": true
+    },
+    {
+      "name": "Only Pans LLC",
+      "distance": "6.0 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Only%20Pans%20LLC&query_place_id=ChIJFbeG5JvPzIkR_KkidbYsmws&center=41.248169,-79.247507",
+      "isFar": true
+    },
+    {
+      "name": "CUPcakes Bakery",
+      "distance": "12.3 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=CUPcakes%20Bakery&query_place_id=ChIJOTeefG7NzIkRI_KJeSZwtH4&center=41.2112486,-79.37899809999999",
+      "isFar": true
+    }
+  ],
+  "bowling": [
+    {
+      "name": "Second Strike Lanes",
+      "distance": "11.7 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Second%20Strike%20Lanes&query_place_id=ChIJN6uoDknqzIkRUg1pFaS2DJE&center=41.167648299999996,-79.1123886",
+      "isFar": true
+    }
+  ],
+  "arcade": [],
+  "movies": [
+    {
+      "name": "Moonlite Drive-In Theatre",
+      "distance": "11.7 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Moonlite%20Drive-In%20Theatre&query_place_id=ChIJveM8w2HBzIkR7J0gkSGO390&center=41.1674347,-79.11379869999999",
+      "isFar": true
+    },
+    {
+      "name": "Golden Ticket Cinemas Clarion",
+      "distance": "13.8 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Golden%20Ticket%20Cinemas%20Clarion&query_place_id=ChIJc4A1yrAzM4gRqksmCdhKB4I&center=41.1936299,-79.3947202",
+      "isFar": true
+    }
+  ],
+  "fun": [
+    {
+      "name": "Beartown Rocks",
+      "distance": "7.2 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Beartown%20Rocks&query_place_id=ChIJvVgZUTHdzIkRv_PMr9Yc3jo&center=41.3025667,-79.0603931",
+      "isFar": true
+    },
+    {
+      "name": "Heath Township Sportsmens Club",
+      "distance": "9.4 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Heath%20Township%20Sportsmens%20Club&query_place_id=ChIJ72xgVgDhzIkRMbAIl9Y9QK8&center=41.34904100000001,-79.0175332",
+      "isFar": true
+    },
+    {
+      "name": "Forest County Bigfoot Festival",
+      "distance": "10.6 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Forest%20County%20Bigfoot%20Festival&query_place_id=ChIJOXYFAQAnzYkRAyyRkENOjLs&center=41.469243899999995,-79.1239676",
+      "isFar": true
+    },
+    {
+      "name": "McCracken Covered Bridge",
+      "distance": "11.0 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=McCracken%20Covered%20Bridge&query_place_id=ChIJja9DWADdzIkRIO7Yi-eAXGQ&center=41.238623,-79.019361",
+      "isFar": true
+    }
+  ],
+  "hotels": [
+    {
+      "name": "Gateway Lodge, Cabins, and Restaurant",
+      "distance": "0.3 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Gateway%20Lodge%2C%20Cabins%2C%20and%20Restaurant&query_place_id=ChIJ6c7iMa3QzIkRhEnInysx2p8&center=41.323409999999996,-79.201477"
+    },
+    {
+      "name": "The Hemlock Haus Cabins",
+      "distance": "0.8 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=The%20Hemlock%20Haus%20Cabins&query_place_id=ChIJFet1QXzZzIkREA5yIdRN13k&center=41.3365241,-79.1975506"
+    }
+  ],
+  "gas": []
+}

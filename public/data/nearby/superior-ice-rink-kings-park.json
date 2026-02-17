@@ -1,0 +1,211 @@
+{
+  "quick_bite": [
+    {
+      "name": "Gino's of Kings Park",
+      "distance": "0.7 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Gino's%20of%20Kings%20Park&query_place_id=ChIJtyJ-JN466IkRtiUEjbRjSrg&center=40.8823365,-73.2549705"
+    },
+    {
+      "name": "Subway",
+      "distance": "0.8 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Subway&query_place_id=ChIJGU48dt866IkRGcwK1ylf2Hg&center=40.8847904,-73.2559971"
+    },
+    {
+      "name": "Burger King",
+      "distance": "1.8 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Burger%20King&query_place_id=ChIJvShm9p466IkRliu1n3jIA7E&center=40.847890199999995,-73.245576"
+    },
+    {
+      "name": "Subway",
+      "distance": "2.0 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Subway&query_place_id=ChIJJxlqH6076IkRie3LEOtyS5o&center=40.8818135,-73.2202697"
+    },
+    {
+      "name": "Chiddy's Cheesesteaks of Commack",
+      "distance": "2.5 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Chiddy's%20Cheesesteaks%20of%20Commack&query_place_id=ChIJRS2hMDEv6IkRnQg_4AWrrtM&center=40.8435574,-73.28717189999999"
+    },
+    {
+      "name": "Wendy's",
+      "distance": "2.6 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Wendy's&query_place_id=ChIJE-vi4vov6IkRuUzv5V9Kfhw&center=40.842451800000006,-73.28622159999999"
+    }
+  ],
+  "coffee": [
+    {
+      "name": "Starbucks Coffee Company",
+      "distance": "0.2 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Starbucks%20Coffee%20Company&query_place_id=ChIJV_HLEAA76IkR8Eb9lFvGo0U&center=40.86958,-73.25938"
+    },
+    {
+      "name": "Dunkin'",
+      "distance": "0.9 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Dunkin'&query_place_id=ChIJRcsh5dg66IkRt722bC2ZhOM&center=40.8847704,-73.2609414"
+    },
+    {
+      "name": "MAYFAIR BAGEL CAFE",
+      "distance": "2.1 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=MAYFAIR%20BAGEL%20CAFE&query_place_id=ChIJS1j0dFkx6IkRrXn9SdA8vgU&center=40.8446329,-73.2705873"
+    },
+    {
+      "name": "Bagel Chalet - Commack",
+      "distance": "2.7 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Bagel%20Chalet%20-%20Commack&query_place_id=ChIJp2gRChow6IkRsPUbrks9fw4&center=40.840579,-73.288164"
+    },
+    {
+      "name": "Paris Baguette",
+      "distance": "2.7 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Paris%20Baguette&query_place_id=ChIJo6UfXAAv6IkRtBTkC5sC5S4&center=40.8404258,-73.2880306"
+    }
+  ],
+  "team_lunch": [
+    {
+      "name": "China Gourmet",
+      "distance": "0.6 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=China%20Gourmet&query_place_id=ChIJzQD7GN466IkRg1eHBC3FDOA&center=40.881445,-73.2550567"
+    },
+    {
+      "name": "kings men house of burgers",
+      "distance": "0.8 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=kings%20men%20house%20of%20burgers&query_place_id=ChIJUQvyKTA76IkRo-1Rn-GsBh0&center=40.883331399999996,-73.25428459999999"
+    },
+    {
+      "name": "Main Street Pizza Cafe",
+      "distance": "0.9 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Main%20Street%20Pizza%20Cafe&query_place_id=ChIJ3yJ5Y9866IkREObHadbsM1Q&center=40.885784099999995,-73.2567901"
+    },
+    {
+      "name": "Maggie's Munchies",
+      "distance": "1.9 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Maggie's%20Munchies&query_place_id=ChIJ2fows8M76IkRfmmQmjBlgk0&center=40.849242,-73.2370158"
+    },
+    {
+      "name": "Just the Chips Please",
+      "distance": "2.0 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Just%20the%20Chips%20Please&query_place_id=ChIJhSiQI88l6IkRAn1Ed6YgV_A&center=40.892958199999995,-73.28524329999999"
+    },
+    {
+      "name": "Sweet Treats by Ashley",
+      "distance": "2.7 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Sweet%20Treats%20by%20Ashley&query_place_id=ChIJ4d_V1o4v6IkRT8wSPstapr0&center=40.851247,-73.29955629999999"
+    }
+  ],
+  "dinner": [
+    {
+      "name": "Barbequed Bagels",
+      "distance": "0.4 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Barbequed%20Bagels&query_place_id=ChIJF-L4wZ876IkR6kZCsiXzAPw&center=40.8667747,-73.2596008"
+    },
+    {
+      "name": "Diner Dash",
+      "distance": "0.7 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Diner%20Dash&query_place_id=ChIJ58EqdgA76IkROcrTk3gmaX0&center=40.882024799999996,-73.25504289999999"
+    },
+    {
+      "name": "Kingsmen house of burgers",
+      "distance": "0.8 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Kingsmen%20house%20of%20burgers&query_place_id=ChIJc1AUJ8E76IkRIA2ShCHKSnw&center=40.883320999999995,-73.2542261"
+    },
+    {
+      "name": "Legends Bar & Grill",
+      "distance": "0.8 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Legends%20Bar%20%26%20Grill&query_place_id=ChIJd8bszN866IkRIbukbe0sI50&center=40.8832909,-73.25395639999999"
+    },
+    {
+      "name": "shortstop pizza",
+      "distance": "0.8 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=shortstop%20pizza&query_place_id=ChIJX0UeB6076IkRccA9G9IaJBg&center=40.8833908,-73.2541628"
+    },
+    {
+      "name": "Umai Asian Bistro",
+      "distance": "0.8 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Umai%20Asian%20Bistro&query_place_id=ChIJASU3RgE76IkR21r-pwyqUao&center=40.884211,-73.2540523"
+    }
+  ],
+  "bowling": [
+    {
+      "name": "Lucky Strike Commack",
+      "distance": "2.5 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Lucky%20Strike%20Commack&query_place_id=ChIJpUkx6_ov6IkRwzJeT-zL0KY&center=40.8433168,-73.2861908"
+    },
+    {
+      "name": "Larkfield Lanes",
+      "distance": "3.5 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Larkfield%20Lanes&query_place_id=ChIJ_2KZBXYl6IkR8mgQJW8AETw&center=40.870824999999996,-73.3231588",
+      "isFar": true
+    }
+  ],
+  "arcade": [],
+  "movies": [
+    {
+      "name": "AMC Huntington Square 12",
+      "distance": "3.8 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=AMC%20Huntington%20Square%2012&query_place_id=ChIJUYp-HC8v6IkR8bJzy3mIWGY&center=40.839335899999995,-73.3147188",
+      "isFar": true
+    },
+    {
+      "name": "Elwood Quad",
+      "distance": "4.6 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Elwood%20Quad&query_place_id=ChIJrXPuNXMv6IkRnXclkHrjrgw&center=40.837474799999995,-73.3310106",
+      "isFar": true
+    }
+  ],
+  "fun": [
+    {
+      "name": "DryPondSwing",
+      "distance": "3.0 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=DryPondSwing&query_place_id=ChIJkbn4OgAx6IkRcJzUhDc6gLU&center=40.836994600000004,-73.22455160000001"
+    },
+    {
+      "name": "Smithtown",
+      "distance": "3.1 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Smithtown&query_place_id=ChIJSXihT5876IkR10Sx-j4f4Fo&center=40.8557899,-73.2016249",
+      "isFar": true
+    },
+    {
+      "name": "Sgt. Paul Tuozzolo Memorial Spray Park",
+      "distance": "4.5 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Sgt.%20Paul%20Tuozzolo%20Memorial%20Spray%20Park&query_place_id=ChIJjWErkGUv6IkRAleouFdliW4&center=40.848645499999996,-73.3372922",
+      "isFar": true
+    }
+  ],
+  "hotels": [
+    {
+      "name": "Private Cabin in Multi Acre Park!",
+      "distance": "0.9 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Private%20Cabin%20in%20Multi%20Acre%20Park!&query_place_id=ChIJt1jnZ7o66IkRIDNj0xZ3J1k&center=40.8605881,-73.263359"
+    },
+    {
+      "name": "Short term stay for professionals",
+      "distance": "1.4 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Short%20term%20stay%20for%20professionals&query_place_id=ChIJo_X46fc66IkRhcXODu_PdEw&center=40.871109,-73.2304535"
+    },
+    {
+      "name": "Short term stay for professionals",
+      "distance": "1.4 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Short%20term%20stay%20for%20professionals&query_place_id=ChIJD8n46fc66IkRDDHf7U50AhU&center=40.8711014,-73.2304535"
+    }
+  ],
+  "gas": [
+    {
+      "name": "Speedway",
+      "distance": "0.7 mi",
+      "url": "https://www.google.com/maps/search/Speedway+near+40.872544999999995%2C-73.2570471"
+    },
+    {
+      "name": "bp",
+      "distance": "0.9 mi",
+      "url": "https://www.google.com/maps/search/bp+near+40.872544999999995%2C-73.2570471"
+    },
+    {
+      "name": "Clean Energy CNG Fuel Station",
+      "distance": "0.9 mi",
+      "url": "https://www.google.com/maps/search/Clean%20Energy%20CNG%20Fuel%20Station+near+40.872544999999995%2C-73.2570471"
+    },
+    {
+      "name": "76",
+      "distance": "1.1 mi",
+      "url": "https://www.google.com/maps/search/76+near+40.872544999999995%2C-73.2570471"
+    }
+  ]
+}

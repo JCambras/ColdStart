@@ -1,0 +1,199 @@
+{
+  "quick_bite": [
+    {
+      "name": "Hank's Dairy Bar",
+      "distance": "0.1 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Hank's%20Dairy%20Bar&query_place_id=ChIJr0hgZeDV5YkR-HhDVtsXwh4&center=41.655954,-71.928893"
+    },
+    {
+      "name": "New Hong Kong Star",
+      "distance": "0.8 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=New%20Hong%20Kong%20Star&query_place_id=ChIJ49TKRM7V5YkRT0gQp0QgvDY&center=41.662680699999996,-71.9140527"
+    },
+    {
+      "name": "ZENSHI Handcrafted Sushi",
+      "distance": "0.8 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=ZENSHI%20Handcrafted%20Sushi&query_place_id=ChIJN6shwjXV5YkRPXd8eb1dAFU&center=41.6619119,-71.9133186"
+    },
+    {
+      "name": "Wendy's",
+      "distance": "0.9 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Wendy's&query_place_id=ChIJHz9NwM7V5YkRJ1BMxDcUgUY&center=41.6648182,-71.91240549999999"
+    },
+    {
+      "name": "Subway",
+      "distance": "4.5 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Subway&query_place_id=ChIJvY757SnV5YkRedtYZdFVPSM&center=41.7191906,-71.9035799",
+      "isFar": true
+    }
+  ],
+  "coffee": [
+    {
+      "name": "Dunkin'",
+      "distance": "0.8 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Dunkin'&query_place_id=ChIJ2ywUWs7V5YkRi05MlQ8Cyhw&center=41.663272600000006,-71.91330119999999"
+    },
+    {
+      "name": "Baker's Dozen of Plainfield",
+      "distance": "1.0 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Baker's%20Dozen%20of%20Plainfield&query_place_id=ChIJ2zG0i8jV5YkR6iYMasfXSuc&center=41.668630799999995,-71.91556489999999"
+    },
+    {
+      "name": "Club ReNu",
+      "distance": "1.2 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Club%20ReNu&query_place_id=ChIJdSG2C0XV5YkRvtjieoEqo7A&center=41.6714039,-71.915482"
+    },
+    {
+      "name": "Dunkin'",
+      "distance": "3.7 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Dunkin'&query_place_id=ChIJhRUWpHV_5okRuhLwgGl6ANw&center=41.698482899999995,-71.9719227",
+      "isFar": true
+    }
+  ],
+  "team_lunch": [
+    {
+      "name": "Nest Food Truck",
+      "distance": "1.2 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Nest%20Food%20Truck&query_place_id=ChIJh-tw07PX5YkR3dLn2yJuAm4&center=41.6445961,-71.9422374"
+    },
+    {
+      "name": "Sweetly Baked",
+      "distance": "1.5 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Sweetly%20Baked&query_place_id=ChIJCU02DLXV5YkRqVGeWVe84_k&center=41.677490899999995,-71.9174175"
+    },
+    {
+      "name": "Joyful House",
+      "distance": "1.7 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Joyful%20House&query_place_id=ChIJraIMHbvV5YkRhamLXuB4Qkg&center=41.680281199999996,-71.9193619"
+    },
+    {
+      "name": "Fern & Flour Bakery",
+      "distance": "4.9 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Fern%20%26%20Flour%20Bakery&query_place_id=ChIJwZrcwIJ55okRoILKEm9KRfw&center=41.657638,-72.0212258",
+      "isFar": true
+    }
+  ],
+  "dinner": [
+    {
+      "name": "Happy Jack's Sports Bar",
+      "distance": "0.2 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Happy%20Jack's%20Sports%20Bar&query_place_id=ChIJLWRWOeDV5YkRDMoQA6z0HNI&center=41.655222699999996,-71.9301043"
+    },
+    {
+      "name": "Mr. Z's Restaurant",
+      "distance": "0.9 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Mr.%20Z's%20Restaurant&query_place_id=ChIJa0Rt_sXV5YkRstu94QFeHiI&center=41.6662744,-71.91572239999999"
+    },
+    {
+      "name": "Longo's Pizza",
+      "distance": "1.6 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Longo's%20Pizza&query_place_id=ChIJPQkWnxHV5YkRxra9v733RCI&center=41.6777112,-71.9148239"
+    },
+    {
+      "name": "Day Breaks Diner",
+      "distance": "1.6 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Day%20Breaks%20Diner&query_place_id=ChIJm6KX4rrV5YkRXn8wZ0rvPWI&center=41.679915199999996,-71.9193282"
+    },
+    {
+      "name": "Gus' Pub And Pizzarama",
+      "distance": "1.6 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Gus'%20Pub%20And%20Pizzarama&query_place_id=ChIJG9LBkrrV5YkRUi5FSvTYeao&center=41.6795946,-71.9176028"
+    },
+    {
+      "name": "The Brook Bar & Grill",
+      "distance": "1.6 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=The%20Brook%20Bar%20%26%20Grill&query_place_id=ChIJF9UABRHV5YkRI2UeLdnSY10&center=41.680093899999996,-71.91995109999999"
+    }
+  ],
+  "bowling": [
+    {
+      "name": "Norwich Bowling & Entertainment Center",
+      "distance": "11.8 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Norwich%20Bowling%20%26%20Entertainment%20Center&query_place_id=ChIJRUQrk7px5okR5bIO7iqJSaM&center=41.554460899999995,-72.1088046",
+      "isFar": true
+    },
+    {
+      "name": "High Rollers Luxury Lanes & Sports Lounge",
+      "distance": "12.7 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=High%20Rollers%20Luxury%20Lanes%20%26%20Sports%20Lounge&query_place_id=ChIJBdYfLYR15okR8UMjn321riQ&center=41.4741885,-71.9613885",
+      "isFar": true
+    }
+  ],
+  "arcade": [],
+  "movies": [
+    {
+      "name": "AMC CLASSIC Lisbon 12",
+      "distance": "6.2 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=AMC%20CLASSIC%20Lisbon%2012&query_place_id=ChIJ3xL4cIF35okRq6E2HdB5UKE&center=41.5814181,-71.99046849999999",
+      "isFar": true
+    }
+  ],
+  "fun": [
+    {
+      "name": "Pool Float Hill",
+      "distance": "1.3 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Pool%20Float%20Hill&query_place_id=ChIJizT1AgDV5YkRFEU_Hb6C82o&center=41.6758459,-71.9236952"
+    },
+    {
+      "name": "Office Chair Hill",
+      "distance": "1.6 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Office%20Chair%20Hill&query_place_id=ChIJVSHBIgDV5YkRrUMdQeNCN6c&center=41.6789418,-71.9211304"
+    },
+    {
+      "name": "Molodich Farms Christmas Lights",
+      "distance": "4.0 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Molodich%20Farms%20Christmas%20Lights&query_place_id=ChIJxSNCTwDT5YkReCsI4585XiU&center=41.65449890000001,-71.8483335",
+      "isFar": true
+    },
+    {
+      "name": "No Escape",
+      "distance": "11.7 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=No%20Escape&query_place_id=ChIJCS816htx5okRWiHB5L5kBpA&center=41.555675799999996,-72.10836410000002",
+      "isFar": true
+    }
+  ],
+  "hotels": [
+    {
+      "name": "Quality Inn Plainfield I-395 - Queen Room with Two Queen Beds - Non-Smoking",
+      "distance": "0.8 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Quality%20Inn%20Plainfield%20I-395%20-%20Queen%20Room%20with%20Two%20Queen%20Beds%20-%20Non-Smoking&query_place_id=ChIJZWP9p8_V5YkRuLUrQVL0m9c&center=41.663871799999995,-71.9141999"
+    },
+    {
+      "name": "Quality Inn Plainfield I-395",
+      "distance": "0.8 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Quality%20Inn%20Plainfield%20I-395&query_place_id=ChIJp-ajHc_V5YkRHFlgUFnFWfo&center=41.663861999999995,-71.9141365"
+    },
+    {
+      "name": "La Quinta Inn & Suites by Wyndham Norwich-Plainfield-Casino",
+      "distance": "1.0 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=La%20Quinta%20Inn%20%26%20Suites%20by%20Wyndham%20Norwich-Plainfield-Casino&query_place_id=ChIJKZWTmc7V5YkRaZf2FMaTfXI&center=41.6643098,-71.9109072"
+    },
+    {
+      "name": "Demarco Terrace",
+      "distance": "2.2 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Demarco%20Terrace&query_place_id=ChIJY3_8q6XV5YkRi3m7FqyL00w&center=41.6865373,-71.91252320000001"
+    }
+  ],
+  "gas": [
+    {
+      "name": "Shell",
+      "distance": "0.9 mi",
+      "url": "https://www.google.com/maps/search/Shell+near+41.656872799999995%2C-71.92659139999999"
+    },
+    {
+      "name": "1stop",
+      "distance": "1.2 mi",
+      "url": "https://www.google.com/maps/search/1stop+near+41.656872799999995%2C-71.92659139999999"
+    },
+    {
+      "name": "Sunoco",
+      "distance": "1.2 mi",
+      "url": "https://www.google.com/maps/search/Sunoco+near+41.656872799999995%2C-71.92659139999999"
+    },
+    {
+      "name": "Gulf",
+      "distance": "2.1 mi",
+      "url": "https://www.google.com/maps/search/Gulf+near+41.656872799999995%2C-71.92659139999999"
+    }
+  ]
+}

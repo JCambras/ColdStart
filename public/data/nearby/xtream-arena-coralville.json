@@ -1,0 +1,210 @@
+{
+  "quick_bite": [
+    {
+      "name": "Marquee Pizzeria",
+      "distance": "0.1 mi",
+      "url": "https://www.google.com/maps/search/Marquee%20Pizzeria+near+41.681419999999996%2C-91.5624606"
+    },
+    {
+      "name": "Jersey Mike's Subs",
+      "distance": "0.5 mi",
+      "url": "https://www.google.com/maps/search/Jersey%20Mike's%20Subs+near+41.681419999999996%2C-91.5624606"
+    }
+  ],
+  "coffee": [
+    {
+      "name": "Midnight Coffee",
+      "distance": "0.1 mi",
+      "url": "https://www.google.com/maps/search/Midnight%20Coffee+near+41.681419999999996%2C-91.5624606"
+    },
+    {
+      "name": "The Café",
+      "distance": "0.2 mi",
+      "url": "https://www.google.com/maps/search/The%20Caf%C3%A9+near+41.681419999999996%2C-91.5624606"
+    },
+    {
+      "name": "Scooter's Coffee",
+      "distance": "0.2 mi",
+      "url": "https://www.google.com/maps/search/Scooter's%20Coffee+near+41.681419999999996%2C-91.5624606"
+    },
+    {
+      "name": "McDonald's",
+      "distance": "0.3 mi",
+      "url": "https://www.google.com/maps/search/McDonald's+near+41.681419999999996%2C-91.5624606"
+    }
+  ],
+  "team_lunch": [
+    {
+      "name": "Perkins American Food Co.",
+      "distance": "0.1 mi",
+      "url": "https://www.google.com/maps/search/Perkins%20American%20Food%20Co.+near+41.681419999999996%2C-91.5624606"
+    },
+    {
+      "name": "Casa Azul Restaurante y Cantina Coralville",
+      "distance": "0.2 mi",
+      "url": "https://www.google.com/maps/search/Casa%20Azul%20Restaurante%20y%20Cantina%20Coralville+near+41.681419999999996%2C-91.5624606"
+    },
+    {
+      "name": "Casey's",
+      "distance": "0.4 mi",
+      "url": "https://www.google.com/maps/search/Casey's+near+41.681419999999996%2C-91.5624606"
+    }
+  ],
+  "dinner": [
+    {
+      "name": "Tribute Eatery & Bar",
+      "distance": "0.1 mi",
+      "url": "https://www.google.com/maps/search/Tribute%20Eatery%20%26%20Bar+near+41.681419999999996%2C-91.5624606"
+    },
+    {
+      "name": "Crisp and Green",
+      "distance": "0.1 mi",
+      "url": "https://www.google.com/maps/search/Crisp%20and%20Green+near+41.681419999999996%2C-91.5624606"
+    },
+    {
+      "name": "Cookies & Dreams",
+      "distance": "0.1 mi",
+      "url": "https://www.google.com/maps/search/Cookies%20%26%20Dreams+near+41.681419999999996%2C-91.5624606"
+    },
+    {
+      "name": "30hop",
+      "distance": "0.1 mi",
+      "url": "https://www.google.com/maps/search/30hop+near+41.681419999999996%2C-91.5624606"
+    },
+    {
+      "name": "Hokkaido Ramen House",
+      "distance": "0.1 mi",
+      "url": "https://www.google.com/maps/search/Hokkaido%20Ramen%20House+near+41.681419999999996%2C-91.5624606"
+    },
+    {
+      "name": "Scratch Cupcakery Coralville",
+      "distance": "0.1 mi",
+      "url": "https://www.google.com/maps/search/Scratch%20Cupcakery%20Coralville+near+41.681419999999996%2C-91.5624606"
+    },
+    {
+      "name": "Konomi Japanese Restaurant",
+      "distance": "0.1 mi",
+      "url": "https://www.google.com/maps/search/Konomi%20Japanese%20Restaurant+near+41.681419999999996%2C-91.5624606"
+    }
+  ],
+  "bowling": [
+    {
+      "name": "Colonial Lanes",
+      "distance": "3.6 mi",
+      "url": "https://www.google.com/maps/search/Colonial%20Lanes+near+41.681419999999996%2C-91.5624606",
+      "isFar": true
+    }
+  ],
+  "arcade": [],
+  "movies": [
+    {
+      "name": "CAB",
+      "distance": "1.8 mi",
+      "url": "https://www.google.com/maps/search/CAB+near+41.681419999999996%2C-91.5624606"
+    },
+    {
+      "name": "Marcus Coral Ridge Cinema",
+      "distance": "2.1 mi",
+      "url": "https://www.google.com/maps/search/Marcus%20Coral%20Ridge%20Cinema+near+41.681419999999996%2C-91.5624606"
+    },
+    {
+      "name": "FilmScene on The Ped Mall",
+      "distance": "2.1 mi",
+      "url": "https://www.google.com/maps/search/FilmScene%20on%20The%20Ped%20Mall+near+41.681419999999996%2C-91.5624606"
+    },
+    {
+      "name": "FilmScene at The Chauncey",
+      "distance": "2.3 mi",
+      "url": "https://www.google.com/maps/search/FilmScene%20at%20The%20Chauncey+near+41.681419999999996%2C-91.5624606"
+    },
+    {
+      "name": "Marcus Sycamore Cinema",
+      "distance": "3.8 mi",
+      "url": "https://www.google.com/maps/search/Marcus%20Sycamore%20Cinema+near+41.681419999999996%2C-91.5624606",
+      "isFar": true
+    }
+  ],
+  "fun": [
+    {
+      "name": "The Slime Kitchen",
+      "distance": "2.0 mi",
+      "url": "https://www.google.com/maps/search/The%20Slime%20Kitchen+near+41.681419999999996%2C-91.5624606"
+    },
+    {
+      "name": "DEFY Iowa City",
+      "distance": "3.4 mi",
+      "url": "https://www.google.com/maps/search/DEFY%20Iowa%20City+near+41.681419999999996%2C-91.5624606",
+      "isFar": true
+    },
+    {
+      "name": "Cryptiq Escapes",
+      "distance": "3.7 mi",
+      "url": "https://www.google.com/maps/search/Cryptiq%20Escapes+near+41.681419999999996%2C-91.5624606",
+      "isFar": true
+    }
+  ],
+  "hotels": [
+    {
+      "name": "Staybridge Suites Iowa City - Coralville by IHG",
+      "distance": "0.1 mi",
+      "url": "https://www.google.com/maps/search/Staybridge%20Suites%20Iowa%20City%20-%20Coralville%20by%20IHG+near+41.681419999999996%2C-91.5624606"
+    },
+    {
+      "name": "Homewood Suites by Hilton Coralville - Iowa River Landing, IA",
+      "distance": "0.1 mi",
+      "url": "https://www.google.com/maps/search/Homewood%20Suites%20by%20Hilton%20Coralville%20-%20Iowa%20River%20Landing%2C%20IA+near+41.681419999999996%2C-91.5624606"
+    },
+    {
+      "name": "Iowa River Landing steps to Xtream Arena and Coralville Convention Center",
+      "distance": "0.1 mi",
+      "url": "https://www.google.com/maps/search/Iowa%20River%20Landing%20steps%20to%20Xtream%20Arena%20and%20Coralville%20Convention%20Center+near+41.681419999999996%2C-91.5624606"
+    },
+    {
+      "name": "Iowa River Landing steps to Xtream Arena & Coralville Convention Center",
+      "distance": "0.1 mi",
+      "url": "https://www.google.com/maps/search/Iowa%20River%20Landing%20steps%20to%20Xtream%20Arena%20%26%20Coralville%20Convention%20Center+near+41.681419999999996%2C-91.5624606"
+    },
+    {
+      "name": "Iowa River Landing Luxury 2-Bed & 2-Bath Condo",
+      "distance": "0.1 mi",
+      "url": "https://www.google.com/maps/search/Iowa%20River%20Landing%20Luxury%202-Bed%20%26%202-Bath%20Condo+near+41.681419999999996%2C-91.5624606"
+    },
+    {
+      "name": "Iowa River Landing steps to Xtream Arena Coralville Convention Center - Two-Bedroom Apartment",
+      "distance": "0.1 mi",
+      "url": "https://www.google.com/maps/search/Iowa%20River%20Landing%20steps%20to%20Xtream%20Arena%20Coralville%20Convention%20Center%20-%20Two-Bedroom%20Apartment+near+41.681419999999996%2C-91.5624606"
+    },
+    {
+      "name": "Drury Inn & Suites Iowa City Coralville",
+      "distance": "0.1 mi",
+      "url": "https://www.google.com/maps/search/Drury%20Inn%20%26%20Suites%20Iowa%20City%20Coralville+near+41.681419999999996%2C-91.5624606"
+    }
+  ],
+  "gas": [
+    {
+      "name": "Maverik",
+      "distance": "0.2 mi",
+      "url": "https://www.google.com/maps/search/Maverik+near+41.681419999999996%2C-91.5624606"
+    },
+    {
+      "name": "Maverik",
+      "distance": "0.2 mi",
+      "url": "https://www.google.com/maps/search/Maverik+near+41.681419999999996%2C-91.5624606"
+    },
+    {
+      "name": "Harney Oil Co",
+      "distance": "0.3 mi",
+      "url": "https://www.google.com/maps/search/Harney%20Oil%20Co+near+41.681419999999996%2C-91.5624606"
+    },
+    {
+      "name": "Casey's",
+      "distance": "0.4 mi",
+      "url": "https://www.google.com/maps/search/Casey's+near+41.681419999999996%2C-91.5624606"
+    },
+    {
+      "name": "Maverik",
+      "distance": "0.8 mi",
+      "url": "https://www.google.com/maps/search/Maverik+near+41.681419999999996%2C-91.5624606"
+    }
+  ]
+}

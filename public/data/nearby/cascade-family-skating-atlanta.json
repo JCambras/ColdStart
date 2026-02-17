@@ -1,0 +1,217 @@
+{
+  "quick_bite": [
+    {
+      "name": "Popeyes Louisiana Kitchen",
+      "distance": "0.1 mi",
+      "url": "https://www.google.com/maps/search/Popeyes%20Louisiana%20Kitchen+near+33.7556368%2C-84.4969079"
+    },
+    {
+      "name": "Krispy Krunchy Chicken",
+      "distance": "0.2 mi",
+      "url": "https://www.google.com/maps/search/Krispy%20Krunchy%20Chicken+near+33.7556368%2C-84.4969079"
+    },
+    {
+      "name": "Church's Texas Chicken",
+      "distance": "0.5 mi",
+      "url": "https://www.google.com/maps/search/Church's%20Texas%20Chicken+near+33.7556368%2C-84.4969079"
+    },
+    {
+      "name": "Checkers",
+      "distance": "0.5 mi",
+      "url": "https://www.google.com/maps/search/Checkers+near+33.7556368%2C-84.4969079"
+    },
+    {
+      "name": "American Deli",
+      "distance": "0.5 mi",
+      "url": "https://www.google.com/maps/search/American%20Deli+near+33.7556368%2C-84.4969079"
+    },
+    {
+      "name": "Taco Bell / KFC",
+      "distance": "0.6 mi",
+      "url": "https://www.google.com/maps/search/Taco%20Bell%20%2F%20KFC+near+33.7556368%2C-84.4969079"
+    },
+    {
+      "name": "KFC",
+      "distance": "0.6 mi",
+      "url": "https://www.google.com/maps/search/KFC+near+33.7556368%2C-84.4969079"
+    }
+  ],
+  "coffee": [
+    {
+      "name": "McDonald's",
+      "distance": "0.4 mi",
+      "url": "https://www.google.com/maps/search/McDonald's+near+33.7556368%2C-84.4969079"
+    }
+  ],
+  "team_lunch": [
+    {
+      "name": "Marquis Restaurant and Lounge",
+      "distance": "0.1 mi",
+      "url": "https://www.google.com/maps/search/Marquis%20Restaurant%20and%20Lounge+near+33.7556368%2C-84.4969079"
+    },
+    {
+      "name": "DurtyBirds",
+      "distance": "0.1 mi",
+      "url": "https://www.google.com/maps/search/DurtyBirds+near+33.7556368%2C-84.4969079"
+    },
+    {
+      "name": "Louisiana Atlanta Seafood",
+      "distance": "0.5 mi",
+      "url": "https://www.google.com/maps/search/Louisiana%20Atlanta%20Seafood+near+33.7556368%2C-84.4969079"
+    },
+    {
+      "name": "D C Wings & BBQ",
+      "distance": "0.6 mi",
+      "url": "https://www.google.com/maps/search/D%20C%20Wings%20%26%20BBQ+near+33.7556368%2C-84.4969079"
+    },
+    {
+      "name": "China Cafeteria",
+      "distance": "0.6 mi",
+      "url": "https://www.google.com/maps/search/China%20Cafeteria+near+33.7556368%2C-84.4969079"
+    }
+  ],
+  "dinner": [
+    {
+      "name": "The Hood Bites",
+      "distance": "0.1 mi",
+      "url": "https://www.google.com/maps/search/The%20Hood%20Bites+near+33.7556368%2C-84.4969079"
+    },
+    {
+      "name": "Ameen Fish And Wings",
+      "distance": "0.4 mi",
+      "url": "https://www.google.com/maps/search/Ameen%20Fish%20And%20Wings+near+33.7556368%2C-84.4969079"
+    },
+    {
+      "name": "NaNum Chicken Factory",
+      "distance": "0.5 mi",
+      "url": "https://www.google.com/maps/search/NaNum%20Chicken%20Factory+near+33.7556368%2C-84.4969079"
+    },
+    {
+      "name": "Memezz Restaurant",
+      "distance": "0.8 mi",
+      "url": "https://www.google.com/maps/search/Memezz%20Restaurant+near+33.7556368%2C-84.4969079"
+    },
+    {
+      "name": "Cakes by Niecy, LLC",
+      "distance": "1.1 mi",
+      "url": "https://www.google.com/maps/search/Cakes%20by%20Niecy%2C%20LLC+near+33.7556368%2C-84.4969079"
+    }
+  ],
+  "bowling": [],
+  "arcade": [],
+  "movies": [
+    {
+      "name": "Ashby Street Theater (historic)",
+      "distance": "4.5 mi",
+      "url": "https://www.google.com/maps/search/Ashby%20Street%20Theater%20(historic)+near+33.7556368%2C-84.4969079",
+      "isFar": true
+    }
+  ],
+  "fun": [
+    {
+      "name": "Center Hill Sprayground",
+      "distance": "2.6 mi",
+      "url": "https://www.google.com/maps/search/Center%20Hill%20Sprayground+near+33.7556368%2C-84.4969079"
+    },
+    {
+      "name": "Gotham City",
+      "distance": "3.1 mi",
+      "url": "https://www.google.com/maps/search/Gotham%20City+near+33.7556368%2C-84.4969079",
+      "isFar": true
+    },
+    {
+      "name": "Six Flags Over Georgia",
+      "distance": "3.2 mi",
+      "url": "https://www.google.com/maps/search/Six%20Flags%20Over%20Georgia+near+33.7556368%2C-84.4969079",
+      "isFar": true
+    },
+    {
+      "name": "DC Super Friends",
+      "distance": "3.2 mi",
+      "url": "https://www.google.com/maps/search/DC%20Super%20Friends+near+33.7556368%2C-84.4969079",
+      "isFar": true
+    },
+    {
+      "name": "Hurricane Harbor",
+      "distance": "3.2 mi",
+      "url": "https://www.google.com/maps/search/Hurricane%20Harbor+near+33.7556368%2C-84.4969079",
+      "isFar": true
+    },
+    {
+      "name": "Paradise Island",
+      "distance": "3.2 mi",
+      "url": "https://www.google.com/maps/search/Paradise%20Island+near+33.7556368%2C-84.4969079",
+      "isFar": true
+    },
+    {
+      "name": "SFTP",
+      "distance": "4.0 mi",
+      "url": "https://www.google.com/maps/search/SFTP+near+33.7556368%2C-84.4969079",
+      "isFar": true
+    }
+  ],
+  "hotels": [
+    {
+      "name": "Spacious Atlanta Duplex 3 BRs",
+      "distance": "0.2 mi",
+      "url": "https://www.google.com/maps/search/Spacious%20Atlanta%20Duplex%203%20BRs+near+33.7556368%2C-84.4969079"
+    },
+    {
+      "name": "Spacious Atlanta Duplex 3 BRs",
+      "distance": "0.2 mi",
+      "url": "https://www.google.com/maps/search/Spacious%20Atlanta%20Duplex%203%20BRs+near+33.7556368%2C-84.4969079"
+    },
+    {
+      "name": "Chic Basement Suite ATL - Private Entrance & Free Charge and Park",
+      "distance": "0.3 mi",
+      "url": "https://www.google.com/maps/search/Chic%20Basement%20Suite%20ATL%20-%20Private%20Entrance%20%26%20Free%20Charge%20and%20Park+near+33.7556368%2C-84.4969079"
+    },
+    {
+      "name": "Chic Main Suite Private - EV Charging & Parking",
+      "distance": "0.3 mi",
+      "url": "https://www.google.com/maps/search/Chic%20Main%20Suite%20Private%20-%20EV%20Charging%20%26%20Parking+near+33.7556368%2C-84.4969079"
+    },
+    {
+      "name": "Chic Main Suite Private - EV Charging & Parking",
+      "distance": "0.3 mi",
+      "url": "https://www.google.com/maps/search/Chic%20Main%20Suite%20Private%20-%20EV%20Charging%20%26%20Parking+near+33.7556368%2C-84.4969079"
+    },
+    {
+      "name": "Chic Basement Suite ATL - Private Entrance & Free Charge and Park",
+      "distance": "0.3 mi",
+      "url": "https://www.google.com/maps/search/Chic%20Basement%20Suite%20ATL%20-%20Private%20Entrance%20%26%20Free%20Charge%20and%20Park+near+33.7556368%2C-84.4969079"
+    },
+    {
+      "name": "Cozy 3 bedroom with Fitness room with a Touch of Luxury",
+      "distance": "0.3 mi",
+      "url": "https://www.google.com/maps/search/Cozy%203%20bedroom%20with%20Fitness%20room%20with%20a%20Touch%20of%20Luxury+near+33.7556368%2C-84.4969079"
+    }
+  ],
+  "gas": [
+    {
+      "name": "Texaco",
+      "distance": "0.1 mi",
+      "url": "https://www.google.com/maps/search/Texaco+near+33.7556368%2C-84.4969079"
+    },
+    {
+      "name": "bp",
+      "distance": "0.2 mi",
+      "url": "https://www.google.com/maps/search/bp+near+33.7556368%2C-84.4969079"
+    },
+    {
+      "name": "Shell",
+      "distance": "0.2 mi",
+      "url": "https://www.google.com/maps/search/Shell+near+33.7556368%2C-84.4969079"
+    },
+    {
+      "name": "76",
+      "distance": "0.3 mi",
+      "url": "https://www.google.com/maps/search/76+near+33.7556368%2C-84.4969079"
+    },
+    {
+      "name": "Quick Mart",
+      "distance": "0.3 mi",
+      "url": "https://www.google.com/maps/search/Quick%20Mart+near+33.7556368%2C-84.4969079"
+    }
+  ]
+}

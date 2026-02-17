@@ -1,0 +1,157 @@
+{
+  "quick_bite": [
+    {
+      "name": "Taco Bell",
+      "distance": "0.9 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Taco%20Bell&query_place_id=ChIJH3Si4z7AD4gRQ3Obx7WaMcM&center=42.1990092,-87.83280289999999"
+    },
+    {
+      "name": "Wendy's",
+      "distance": "0.9 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Wendy's&query_place_id=ChIJa-o24j7AD4gRk7Hk_a3UiKw&center=42.198607599999995,-87.8325153"
+    },
+    {
+      "name": "Mean Wiener",
+      "distance": "1.4 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Mean%20Wiener&query_place_id=ChIJpSACkrvBD4gRuDfSYn4jcS0&center=42.206361799999996,-87.8116573"
+    },
+    {
+      "name": "Jersey Mike's Subs",
+      "distance": "1.4 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Jersey%20Mike's%20Subs&query_place_id=ChIJ0aEHAPO_D4gRlDcIXGmBnsc&center=42.1987695,-87.85852419999999"
+    }
+  ],
+  "coffee": [
+    {
+      "name": "Starbucks Coffee Company",
+      "distance": "1.0 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Starbucks%20Coffee%20Company&query_place_id=ChIJK6eUjIHqD4gRbTBN1sdHKhg&center=42.21693,-87.8202"
+    },
+    {
+      "name": "Gerhard's Elegant European Desserts",
+      "distance": "2.8 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Gerhard's%20Elegant%20European%20Desserts&query_place_id=ChIJT9GrK9nqD4gRxEPkqVFyPIs&center=42.252699299999996,-87.8404515"
+    }
+  ],
+  "team_lunch": [
+    {
+      "name": "Casey's",
+      "distance": "0.8 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Casey's&query_place_id=ChIJATCR9T7AD4gRuHEaAKP2gQA&center=42.200318599999996,-87.8320547"
+    },
+    {
+      "name": "Tom's Pastry",
+      "distance": "1.0 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Tom's%20Pastry&query_place_id=ChIJfwrKzHrBD4gRRh280PkyR-8&center=42.2137509,-87.8180138"
+    },
+    {
+      "name": "Lucky Bamboo Food",
+      "distance": "1.3 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Lucky%20Bamboo%20Food&query_place_id=ChIJc0ayQGnBD4gRzRng4z17k84&center=42.2073104,-87.8126571"
+    }
+  ],
+  "dinner": [
+    {
+      "name": "Koya Japan",
+      "distance": "0.9 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Koya%20Japan&query_place_id=ChIJOakwSYLqD4gR0p0FI__IkbY&center=42.2177655,-87.8225468"
+    },
+    {
+      "name": "The Mixto Cuisine",
+      "distance": "0.9 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=The%20Mixto%20Cuisine&query_place_id=ChIJx7DXio-XD4gRcCd6FiBePDk&center=42.217683799999996,-87.82223739999999"
+    },
+    {
+      "name": "Doña Paty's",
+      "distance": "1.0 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Do%C3%B1a%20Paty's&query_place_id=ChIJs147RNXBD4gRSxVtqyWbJHA&center=42.2141209,-87.818225"
+    },
+    {
+      "name": "Scotty's on Sheridan",
+      "distance": "1.0 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Scotty's%20on%20Sheridan&query_place_id=ChIJDWrC8yrAD4gRiHElTEWccZ8&center=42.213451,-87.8177716"
+    },
+    {
+      "name": "Jay Lovell's",
+      "distance": "1.1 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Jay%20Lovell's&query_place_id=ChIJz3IRIivAD4gRlr1K6PTZOlM&center=42.212629,-87.817207"
+    },
+    {
+      "name": "Chacahua Mexican restaurante",
+      "distance": "1.1 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Chacahua%20Mexican%20restaurante&query_place_id=ChIJaetZfgDBD4gREtkwsYFloZ4&center=42.212371399999995,-87.8169778"
+    }
+  ],
+  "bowling": [],
+  "arcade": [],
+  "movies": [
+    {
+      "name": "Wayfarer Theaters",
+      "distance": "2.6 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Wayfarer%20Theaters&query_place_id=ChIJmatyh3bBD4gRjmFgdvAfi3g&center=42.1860122,-87.80165509999999"
+    },
+    {
+      "name": "AMC DINE-IN Northbrook 14",
+      "distance": "4.4 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=AMC%20DINE-IN%20Northbrook%2014&query_place_id=ChIJpRGXktjAD4gRMlx9GapqBtM&center=42.1496681,-87.8168032",
+      "isFar": true
+    },
+    {
+      "name": "AMC Northbrook",
+      "distance": "4.4 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=AMC%20Northbrook&query_place_id=ChIJ9YUczFfBD4gROpJlN3mBV8Y&center=42.1495107,-87.8165939",
+      "isFar": true
+    }
+  ],
+  "fun": [
+    {
+      "name": "Fort Sheridan Point",
+      "distance": "1.7 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Fort%20Sheridan%20Point&query_place_id=ChIJUepwoULrD4gR1PNNDjkKmpQ&center=42.2251019,-87.810538"
+    },
+    {
+      "name": "Fort Sheridan Stone Henge",
+      "distance": "1.8 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Fort%20Sheridan%20Stone%20Henge&query_place_id=ChIJi-1MLgDBD4gR1xeesOx7KDI&center=42.2114871,-87.803504"
+    },
+    {
+      "name": "Hidden Creek Aquapark",
+      "distance": "2.5 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Hidden%20Creek%20Aquapark&query_place_id=ChIJOdeKnazBD4gR3IU_qiDnuGM&center=42.1804396,-87.8130118"
+    },
+    {
+      "name": "The Magic Rock - Highland Park",
+      "distance": "2.6 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=The%20Magic%20Rock%20-%20Highland%20Park&query_place_id=ChIJs8AYzWjBD4gRQwDOk6z66NI&center=42.177145499999995,-87.8194764"
+    }
+  ],
+  "hotels": [
+    {
+      "name": "Modern Luxe Home w/Gameroom and Electric Fireplace",
+      "distance": "0.9 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Modern%20Luxe%20Home%20w%2FGameroom%20and%20Electric%20Fireplace&query_place_id=ChIJtWqIBIPqD4gRVjdsWha2eTc&center=42.218483,-87.82350919999999"
+    },
+    {
+      "name": "Modern Luxe Home w /Gameroom and Electric Fireplace",
+      "distance": "0.9 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Modern%20Luxe%20Home%20w%20%2FGameroom%20and%20Electric%20Fireplace&query_place_id=ChIJQbJiBIPqD4gR1Fc28f81FxI&center=42.2184792,-87.8235016"
+    }
+  ],
+  "gas": [
+    {
+      "name": "Bucky's",
+      "distance": "0.9 mi",
+      "url": "https://www.google.com/maps/search/Bucky's+near+42.211666699999995%2C-87.8377"
+    },
+    {
+      "name": "Mobil",
+      "distance": "0.9 mi",
+      "url": "https://www.google.com/maps/search/Mobil+near+42.211666699999995%2C-87.8377"
+    },
+    {
+      "name": "Caseys",
+      "distance": "0.9 mi",
+      "url": "https://www.google.com/maps/search/Caseys+near+42.211666699999995%2C-87.8377"
+    }
+  ]
+}

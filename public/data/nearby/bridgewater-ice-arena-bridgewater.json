@@ -1,0 +1,224 @@
+{
+  "quick_bite": [
+    {
+      "name": "Cape Cod Cafe",
+      "distance": "1.1 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Cape%20Cod%20Cafe&query_place_id=ChIJjToaNpKR5IkRaO7g7adLJQ8&center=41.968222999999995,-70.974165"
+    },
+    {
+      "name": "J’s Flying Pizza",
+      "distance": "1.3 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=J%E2%80%99s%20Flying%20Pizza&query_place_id=ChIJrz-Hk-2R5IkR1CDK_tKSZJc&center=41.968391,-70.98270959999999"
+    },
+    {
+      "name": "Fiesta Taqueria",
+      "distance": "2.6 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Fiesta%20Taqueria&query_place_id=ChIJs7aVkciR5IkR_RnculjhIDc&center=41.9895438,-70.97490379999999"
+    },
+    {
+      "name": "Subway",
+      "distance": "3.0 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Subway&query_place_id=ChIJjaarZEuQ5IkRKCVrHUGwld8&center=41.995682099999996,-70.9715179"
+    },
+    {
+      "name": "Taco Bell / KFC",
+      "distance": "3.0 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Taco%20Bell%20%2F%20KFC&query_place_id=ChIJpY_yS0uQ5IkRMm5azwS3hmg&center=41.9960776,-70.97360979999999",
+      "isFar": true
+    },
+    {
+      "name": "Mike & Lenny's Bar Pizza",
+      "distance": "3.6 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Mike%20%26%20Lenny's%20Bar%20Pizza&query_place_id=ChIJtzRy1Z-T5IkRwQ78SaG_vHA&center=41.9013248,-70.98201569999999",
+      "isFar": true
+    }
+  ],
+  "coffee": [
+    {
+      "name": "Cafe Madeleine",
+      "distance": "0.8 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Cafe%20Madeleine&query_place_id=ChIJ1fUiOQCR5IkREkjnjMxQFxE&center=41.9636436,-70.9721678"
+    },
+    {
+      "name": "Dunkin'",
+      "distance": "1.1 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Dunkin'&query_place_id=ChIJkRBDMpKR5IkR6RGPdWderzA&center=41.9682532,-70.9727362"
+    },
+    {
+      "name": "Dunkin'",
+      "distance": "2.3 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Dunkin'&query_place_id=ChIJR3lDGh2O5IkRukymcg5aYAo&center=41.9721508,-71.0072096"
+    },
+    {
+      "name": "The Bears Den Cafeteria",
+      "distance": "2.4 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=The%20Bears%20Den%20Cafeteria&query_place_id=ChIJTX3lLLGR5IkRqOfeg-d6B38&center=41.987682799999995,-70.9723846"
+    },
+    {
+      "name": "Bridgewater Bagel & Coffee",
+      "distance": "2.8 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Bridgewater%20Bagel%20%26%20Coffee&query_place_id=ChIJfevIMbSR5IkRwYdkH2EdLAY&center=41.99288200000001,-70.9711058"
+    }
+  ],
+  "team_lunch": [
+    {
+      "name": "Baldie's Pizzeria",
+      "distance": "1.0 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Baldie's%20Pizzeria&query_place_id=ChIJ7UWMMZKR5IkR3iOnXq6AiBE&center=41.967425999999996,-70.973646"
+    },
+    {
+      "name": "King Garden",
+      "distance": "1.1 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=King%20Garden&query_place_id=ChIJjToaNpKR5IkRGRACD6RMXaw&center=41.968268699999996,-70.9739872"
+    },
+    {
+      "name": "Barrett's Alehouse Bridgewater",
+      "distance": "1.7 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Barrett's%20Alehouse%20Bridgewater&query_place_id=ChIJtS-PAr-R5IkRVbYVuFBdg1A&center=41.9765391,-70.9754378"
+    },
+    {
+      "name": "Bridgewater Triangle Pub",
+      "distance": "2.6 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Bridgewater%20Triangle%20Pub&query_place_id=ChIJ8aE97riR5IkRIOh7WuHROBw&center=41.9897485,-70.974115"
+    },
+    {
+      "name": "North St Sweets",
+      "distance": "4.3 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=North%20St%20Sweets&query_place_id=ChIJ87F2UQCT5IkRYxN_hw7Tlng&center=41.905189199999995,-70.91632160000002",
+      "isFar": true
+    }
+  ],
+  "dinner": [
+    {
+      "name": "Prisco's Market and Deli",
+      "distance": "0.9 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Prisco's%20Market%20and%20Deli&query_place_id=ChIJ_R1KiI2R5IkR7W2hOpPm4qA&center=41.9649658,-70.9748382"
+    },
+    {
+      "name": "The Chatta Box",
+      "distance": "1.0 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=The%20Chatta%20Box&query_place_id=ChIJ7UWMMZKR5IkREbzMTdjddVA&center=41.9673922,-70.97464049999999"
+    },
+    {
+      "name": "SugarCane",
+      "distance": "1.1 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=SugarCane&query_place_id=ChIJQwC5RZKR5IkRdUsJ6vcg2pQ&center=41.9677966,-70.97500579999999"
+    },
+    {
+      "name": "College Pizza",
+      "distance": "1.1 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=College%20Pizza&query_place_id=ChIJkRBDMpKR5IkRUDna57gmFJc&center=41.9681125,-70.9726632"
+    },
+    {
+      "name": "Barrett's Olde Scotland Links",
+      "distance": "2.1 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Barrett's%20Olde%20Scotland%20Links&query_place_id=ChIJkV7AZVaN5IkR-Tdkxu1wAp0&center=41.9490878,-71.0120285"
+    },
+    {
+      "name": "Castaway's at Olde Scotland Links",
+      "distance": "2.1 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Castaway's%20at%20Olde%20Scotland%20Links&query_place_id=ChIJVVWlj_GN5IkR43A5VN1Yd-o&center=41.9490878,-71.0120285"
+    }
+  ],
+  "bowling": [
+    {
+      "name": "Ryan Family Amusements - Raynham",
+      "distance": "5.7 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Ryan%20Family%20Amusements%20-%20Raynham&query_place_id=ChIJw_LKjcWM5IkRy6LhWpT9f6k&center=41.904617099999996,-71.0608252",
+      "isFar": true
+    },
+    {
+      "name": "Hanson Bowladrome",
+      "distance": "8.0 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Hanson%20Bowladrome&query_place_id=ChIJgShCV7SZ5IkROR9fwehDsSU&center=42.036168599999996,-70.8624553",
+      "isFar": true
+    }
+  ],
+  "arcade": [],
+  "movies": [
+    {
+      "name": "David Guimaraes",
+      "distance": "3.0 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=David%20Guimaraes&query_place_id=ChIJDea8_MmN5IkR1XuPM7IaeB8&center=41.9326151,-71.02237339999999"
+    },
+    {
+      "name": "East Bridgewater Cinemas",
+      "distance": "5.1 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=East%20Bridgewater%20Cinemas&query_place_id=ChIJfcGCun6Q5IkRaHipxKw89vk&center=42.0264952,-70.9601247",
+      "isFar": true
+    }
+  ],
+  "fun": [
+    {
+      "name": "Hockomock Swamp Bridgewater",
+      "distance": "3.4 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Hockomock%20Swamp%20Bridgewater&query_place_id=ChIJmbk2KwCP5IkRwC47y4irYwg&center=41.9909944,-71.0134721",
+      "isFar": true
+    },
+    {
+      "name": "Funcity Adventure Park",
+      "distance": "7.2 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Funcity%20Adventure%20Park&query_place_id=ChIJoepTtubz5IkRZhEAYM_wo5g&center=41.8773219,-71.068785",
+      "isFar": true
+    },
+    {
+      "name": "Asher’s Sandbox",
+      "distance": "8.1 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Asher%E2%80%99s%20Sandbox&query_place_id=ChIJ2xfXHg6X5IkRHBmkRMEyXSE&center=41.9521231,-70.8138974",
+      "isFar": true
+    },
+    {
+      "name": "bog",
+      "distance": "8.6 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=bog&query_place_id=ChIJlXpsIAC_5IkRtRgE1xz-KCQ&center=41.9198046,-70.8103881",
+      "isFar": true
+    }
+  ],
+  "hotels": [
+    {
+      "name": "Anchor bay ,1440 wampanoug trail east providence ri",
+      "distance": "2.1 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Anchor%20bay%20%2C1440%20wampanoug%20trail%20east%20providence%20ri&query_place_id=ChIJEwTDIgCT5IkRTyNvnN2dISc&center=41.929002,-70.9456912"
+    },
+    {
+      "name": "Fairfield by Marriott Inn & Suites Raynham Middleborough/Plymouth",
+      "distance": "3.4 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Fairfield%20by%20Marriott%20Inn%20%26%20Suites%20Raynham%20Middleborough%2FPlymouth&query_place_id=ChIJUw73zuiS5IkRpRzG-zG6VTc&center=41.9035587,-70.9680802",
+      "isFar": true
+    },
+    {
+      "name": "Holiday Inn Express & Suites Middleboro Raynham by IHG",
+      "distance": "3.4 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Holiday%20Inn%20Express%20%26%20Suites%20Middleboro%20Raynham%20by%20IHG&query_place_id=ChIJNW0ELemS5IkR8SrM3wQq33k&center=41.9029829,-70.9701137",
+      "isFar": true
+    },
+    {
+      "name": "Residence Inn by Marriott Boston Bridgewater",
+      "distance": "3.5 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Residence%20Inn%20by%20Marriott%20Boston%20Bridgewater&query_place_id=ChIJ0bUmmNCN5IkRIYERhbMruN8&center=41.961118299999995,-71.0372381",
+      "isFar": true
+    }
+  ],
+  "gas": [
+    {
+      "name": "A & A Gasoline Inc",
+      "distance": "0.6 mi",
+      "url": "https://www.google.com/maps/search/A%20%26%20A%20Gasoline%20Inc+near+41.9524459%2C-70.971054"
+    },
+    {
+      "name": "Lucky Star Gas",
+      "distance": "2.6 mi",
+      "url": "https://www.google.com/maps/search/Lucky%20Star%20Gas+near+41.9524459%2C-70.971054"
+    },
+    {
+      "name": "Irving Oil",
+      "distance": "2.8 mi",
+      "url": "https://www.google.com/maps/search/Irving%20Oil+near+41.9524459%2C-70.971054"
+    },
+    {
+      "name": "Circle K | Gas Station",
+      "distance": "2.8 mi",
+      "url": "https://www.google.com/maps/search/Circle%20K%20%7C%20Gas%20Station+near+41.9524459%2C-70.971054"
+    }
+  ]
+}

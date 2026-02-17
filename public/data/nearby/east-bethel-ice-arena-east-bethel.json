@@ -1,0 +1,193 @@
+{
+  "quick_bite": [
+    {
+      "name": "Chanticlear Pizza",
+      "distance": "3.2 mi",
+      "url": "https://www.google.com/maps/search/Chanticlear%20Pizza+near+45.344707299999996%2C-93.23507690000001",
+      "isFar": true
+    },
+    {
+      "name": "Subway",
+      "distance": "3.8 mi",
+      "url": "https://www.google.com/maps/search/Subway+near+45.344707299999996%2C-93.23507690000001",
+      "isFar": true
+    },
+    {
+      "name": "Subway",
+      "distance": "3.8 mi",
+      "url": "https://www.google.com/maps/search/Subway+near+45.344707299999996%2C-93.23507690000001",
+      "isFar": true
+    },
+    {
+      "name": "Burger King",
+      "distance": "3.9 mi",
+      "url": "https://www.google.com/maps/search/Burger%20King+near+45.344707299999996%2C-93.23507690000001",
+      "isFar": true
+    },
+    {
+      "name": "Smokey's Pub N' Grill",
+      "distance": "4.7 mi",
+      "url": "https://www.google.com/maps/search/Smokey's%20Pub%20N'%20Grill+near+45.344707299999996%2C-93.23507690000001",
+      "isFar": true
+    }
+  ],
+  "coffee": [
+    {
+      "name": "Soderville Cafe",
+      "distance": "3.7 mi",
+      "url": "https://www.google.com/maps/search/Soderville%20Cafe+near+45.344707299999996%2C-93.23507690000001",
+      "isFar": true
+    }
+  ],
+  "team_lunch": [
+    {
+      "name": "Maxx Bar & Grill",
+      "distance": "3.7 mi",
+      "url": "https://www.google.com/maps/search/Maxx%20Bar%20%26%20Grill+near+45.344707299999996%2C-93.23507690000001",
+      "isFar": true
+    }
+  ],
+  "dinner": [
+    {
+      "name": "MC's Garage",
+      "distance": "0.9 mi",
+      "url": "https://www.google.com/maps/search/MC's%20Garage+near+45.344707299999996%2C-93.23507690000001"
+    },
+    {
+      "name": "Route 65 Pub & Grub",
+      "distance": "2.8 mi",
+      "url": "https://www.google.com/maps/search/Route%2065%20Pub%20%26%20Grub+near+45.344707299999996%2C-93.23507690000001"
+    },
+    {
+      "name": "Acapulco Mexican Restaurant",
+      "distance": "3.2 mi",
+      "url": "https://www.google.com/maps/search/Acapulco%20Mexican%20Restaurant+near+45.344707299999996%2C-93.23507690000001",
+      "isFar": true
+    },
+    {
+      "name": "Dunn in the Oven",
+      "distance": "4.3 mi",
+      "url": "https://www.google.com/maps/search/Dunn%20in%20the%20Oven+near+45.344707299999996%2C-93.23507690000001",
+      "isFar": true
+    },
+    {
+      "name": "The Dugout Bar & Grill",
+      "distance": "4.4 mi",
+      "url": "https://www.google.com/maps/search/The%20Dugout%20Bar%20%26%20Grill+near+45.344707299999996%2C-93.23507690000001",
+      "isFar": true
+    }
+  ],
+  "bowling": [
+    {
+      "name": "Ham Lake Lanes & Lounge",
+      "distance": "5.2 mi",
+      "url": "https://www.google.com/maps/search/Ham%20Lake%20Lanes%20%26%20Lounge+near+45.344707299999996%2C-93.23507690000001",
+      "isFar": true
+    },
+    {
+      "name": "Pizza and bowling alley",
+      "distance": "6.0 mi",
+      "url": "https://www.google.com/maps/search/Pizza%20and%20bowling%20alley+near+45.344707299999996%2C-93.23507690000001",
+      "isFar": true
+    },
+    {
+      "name": "Andover Lanes",
+      "distance": "9.5 mi",
+      "url": "https://www.google.com/maps/search/Andover%20Lanes+near+45.344707299999996%2C-93.23507690000001",
+      "isFar": true
+    }
+  ],
+  "arcade": [],
+  "movies": [
+    {
+      "name": "Emagine East Bethel",
+      "distance": "2.5 mi",
+      "url": "https://www.google.com/maps/search/Emagine%20East%20Bethel+near+45.344707299999996%2C-93.23507690000001"
+    },
+    {
+      "name": "Andover Cinema",
+      "distance": "9.5 mi",
+      "url": "https://www.google.com/maps/search/Andover%20Cinema+near+45.344707299999996%2C-93.23507690000001",
+      "isFar": true
+    }
+  ],
+  "fun": [
+    {
+      "name": "Bunker Beach Water Park",
+      "distance": "9.6 mi",
+      "url": "https://www.google.com/maps/search/Bunker%20Beach%20Water%20Park+near+45.344707299999996%2C-93.23507690000001",
+      "isFar": true
+    }
+  ],
+  "hotels": [
+    {
+      "name": "Cedarwood Estates",
+      "distance": "3.2 mi",
+      "url": "https://www.google.com/maps/search/Cedarwood%20Estates+near+45.344707299999996%2C-93.23507690000001",
+      "isFar": true
+    },
+    {
+      "name": "Sunset Bay - Experience Stunning Sunsets on Coon Lake - Charming 2 Bedroom House",
+      "distance": "3.2 mi",
+      "url": "https://www.google.com/maps/search/Sunset%20Bay%20-%20Experience%20Stunning%20Sunsets%20on%20Coon%20Lake%20-%20Charming%202%20Bedroom%20House+near+45.344707299999996%2C-93.23507690000001",
+      "isFar": true
+    },
+    {
+      "name": "Sunset Bay - Experience Stunning Sunsets on Coon Lake - Charming 2 Bedroom House",
+      "distance": "3.2 mi",
+      "url": "https://www.google.com/maps/search/Sunset%20Bay%20-%20Experience%20Stunning%20Sunsets%20on%20Coon%20Lake%20-%20Charming%202%20Bedroom%20House+near+45.344707299999996%2C-93.23507690000001",
+      "isFar": true
+    },
+    {
+      "name": "Sunset Bay - Experience Stunning Sunsets on Coon Lake - Charming 2 Bedroom House",
+      "distance": "3.4 mi",
+      "url": "https://www.google.com/maps/search/Sunset%20Bay%20-%20Experience%20Stunning%20Sunsets%20on%20Coon%20Lake%20-%20Charming%202%20Bedroom%20House+near+45.344707299999996%2C-93.23507690000001",
+      "isFar": true
+    },
+    {
+      "name": "Norquist Camp Ground",
+      "distance": "4.0 mi",
+      "url": "https://www.google.com/maps/search/Norquist%20Camp%20Ground+near+45.344707299999996%2C-93.23507690000001",
+      "isFar": true
+    },
+    {
+      "name": "Cozy Coon Lake Cabin — 30 Mins from Minneapolis",
+      "distance": "4.4 mi",
+      "url": "https://www.google.com/maps/search/Cozy%20Coon%20Lake%20Cabin%20%E2%80%94%2030%20Mins%20from%20Minneapolis+near+45.344707299999996%2C-93.23507690000001",
+      "isFar": true
+    },
+    {
+      "name": "Flamingo Terrace Mobile Home",
+      "distance": "4.4 mi",
+      "url": "https://www.google.com/maps/search/Flamingo%20Terrace%20Mobile%20Home+near+45.344707299999996%2C-93.23507690000001",
+      "isFar": true
+    }
+  ],
+  "gas": [
+    {
+      "name": "Holiday Gas Station",
+      "distance": "2.4 mi",
+      "url": "https://www.google.com/maps/search/Holiday%20Gas%20Station+near+45.344707299999996%2C-93.23507690000001"
+    },
+    {
+      "name": "Mobil",
+      "distance": "2.5 mi",
+      "url": "https://www.google.com/maps/search/Mobil+near+45.344707299999996%2C-93.23507690000001"
+    },
+    {
+      "name": "Go For It Gas",
+      "distance": "2.9 mi",
+      "url": "https://www.google.com/maps/search/Go%20For%20It%20Gas+near+45.344707299999996%2C-93.23507690000001"
+    },
+    {
+      "name": "ARCO",
+      "distance": "2.9 mi",
+      "url": "https://www.google.com/maps/search/ARCO+near+45.344707299999996%2C-93.23507690000001"
+    },
+    {
+      "name": "Sinclair",
+      "distance": "3.8 mi",
+      "url": "https://www.google.com/maps/search/Sinclair+near+45.344707299999996%2C-93.23507690000001"
+    }
+  ]
+}

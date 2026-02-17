@@ -1,0 +1,215 @@
+{
+  "quick_bite": [
+    {
+      "name": "Subway",
+      "distance": "0.7 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Subway&query_place_id=ChIJIRyJcC-CwokRuvJC6qBCklE&center=40.811189399999996,-73.50137939999999"
+    },
+    {
+      "name": "Jersey Mike's Subs",
+      "distance": "0.8 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Jersey%20Mike's%20Subs&query_place_id=ChIJi3hWEGSDwokRhJzLqk0Mei4&center=40.8099207,-73.5029316"
+    },
+    {
+      "name": "Halal City",
+      "distance": "0.9 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Halal%20City&query_place_id=ChIJ43JqxcuDwokRS02LJekSQ0Y&center=40.8125773,-73.4942554"
+    },
+    {
+      "name": "Wendy's",
+      "distance": "1.4 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Wendy's&query_place_id=ChIJ43QAIX2BwokRLWoTHsJ73_U&center=40.804764,-73.5226978"
+    },
+    {
+      "name": "Chuck E. Cheese",
+      "distance": "4.0 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Chuck%20E.%20Cheese&query_place_id=ChIJWYEEpP6AwokRy5VS8qTem7A&center=40.7635352,-73.5175668",
+      "isFar": true
+    }
+  ],
+  "coffee": [
+    {
+      "name": "Fly Me To The Moon",
+      "distance": "0.3 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Fly%20Me%20To%20The%20Moon&query_place_id=ChIJbaP7OG6DwokR0JE5PVq4gSU&center=40.8231663,-73.50265019999999"
+    },
+    {
+      "name": "Station Cafe",
+      "distance": "0.3 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Station%20Cafe&query_place_id=ChIJuaEzM1qDwokRL-S3hhL0RZY&center=40.8235211,-73.50245559999999"
+    },
+    {
+      "name": "Dunkin'",
+      "distance": "0.4 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Dunkin'&query_place_id=ChIJIeopvDeCwokRein840GlEiM&center=40.824429699999996,-73.50191579999999"
+    },
+    {
+      "name": "One Spring Coffee Shop",
+      "distance": "0.4 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=One%20Spring%20Coffee%20Shop&query_place_id=ChIJ6RyadoGDwokRZx7_o6_dvXs&center=40.8257607,-73.5022065"
+    },
+    {
+      "name": "Bianco Latte (formerly Stellina Bakery)",
+      "distance": "0.4 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Bianco%20Latte%20(formerly%20Stellina%20Bakery)&query_place_id=ChIJo2XcaEiCwokRuaeGAJT_ZHE&center=40.825402,-73.501483"
+    }
+  ],
+  "team_lunch": [
+    {
+      "name": "Danny's Chinese Kitchen - Syosset",
+      "distance": "0.3 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Danny's%20Chinese%20Kitchen%20-%20Syosset&query_place_id=ChIJn1yJZuWDwokRqaYg2sh32_g&center=40.8229245,-73.5016112"
+    },
+    {
+      "name": "DunHuang Syosset",
+      "distance": "0.4 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=DunHuang%20Syosset&query_place_id=ChIJubCvIuSDwokR1oajrBmNC28&center=40.8253268,-73.5015167"
+    },
+    {
+      "name": "Kam Garden Restaurant",
+      "distance": "0.5 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Kam%20Garden%20Restaurant&query_place_id=ChIJg8II8UiCwokRGAf12P0b9cM&center=40.826561999999996,-73.5018216"
+    },
+    {
+      "name": "Bagelicious Cafe Syosset",
+      "distance": "0.6 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Bagelicious%20Cafe%20Syosset&query_place_id=ChIJjSRVF_iDwokR_GUgh2uejqA&center=40.8113607,-73.5057824"
+    },
+    {
+      "name": "Brendel's Bagels-Catering Long Island",
+      "distance": "0.6 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Brendel's%20Bagels-Catering%20Long%20Island&query_place_id=ChIJW7_UG3iDwokRK7EbmWpIQ1I&center=40.8113607,-73.5057824"
+    },
+    {
+      "name": "Dortoni East Norwich (Formerly La Bonne)",
+      "distance": "2.2 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Dortoni%20East%20Norwich%20(Formerly%20La%20Bonne)&query_place_id=ChIJhRUDsBMm6IkRDQrgQ9iZGw0&center=40.8425127,-73.5369517"
+    }
+  ],
+  "dinner": [
+    {
+      "name": "Village Bagels",
+      "distance": "0.3 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Village%20Bagels&query_place_id=ChIJvx9MwzeCwokRaVxbBndGpPo&center=40.822912699999996,-73.5026563"
+    },
+    {
+      "name": "It's Greek To Me Restaurant",
+      "distance": "0.3 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=It's%20Greek%20To%20Me%20Restaurant&query_place_id=ChIJp9ryvjeCwokR1fjKMVm3UZw&center=40.822641499999996,-73.5014431"
+    },
+    {
+      "name": "Kado Sushi",
+      "distance": "0.3 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Kado%20Sushi&query_place_id=ChIJA6qNvjeCwokRRfR3hja-c2E&center=40.8228395,-73.5015466"
+    },
+    {
+      "name": "Eatery 19 食全食美",
+      "distance": "0.3 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Eatery%2019%20%E9%A3%9F%E5%85%A8%E9%A3%9F%E7%BE%8E&query_place_id=ChIJkcgkMnSDwokRLSt-wyVB7EM&center=40.823430699999996,-73.5017927"
+    },
+    {
+      "name": "Hey Yogurt",
+      "distance": "0.4 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Hey%20Yogurt&query_place_id=ChIJL7STDq2DwokR3TSJ3PJ4uRQ&center=40.8247164,-73.5019729"
+    },
+    {
+      "name": "Moderna 57",
+      "distance": "0.4 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Moderna%2057&query_place_id=ChIJa8oaX0iCwokRjycR7gqdqdY&center=40.8242002,-73.5012386"
+    }
+  ],
+  "bowling": [
+    {
+      "name": "AMF Syosset Lanes",
+      "distance": "1.4 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=AMF%20Syosset%20Lanes&query_place_id=ChIJhQofznyBwokRQEvsYohwrGU&center=40.804128399999996,-73.52349219999999"
+    },
+    {
+      "name": "Round1 Bowling & Arcade Broadway Commons",
+      "distance": "3.5 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Round1%20Bowling%20%26%20Arcade%20Broadway%20Commons&query_place_id=ChIJOUZnBByBwokRtuHHuQQ4zE4&center=40.7739924,-73.5328717",
+      "isFar": true
+    }
+  ],
+  "arcade": [],
+  "movies": [
+    {
+      "name": "Drive In & Outdoor Movies by ISH Events",
+      "distance": "3.9 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Drive%20In%20%26%20Outdoor%20Movies%20by%20ISH%20Events&query_place_id=ChIJ_-jXOyYr6IkR6Fb3HtI1-Cw&center=40.7846593,-73.45068979999999",
+      "isFar": true
+    },
+    {
+      "name": "Regal Westbury",
+      "distance": "3.9 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Regal%20Westbury&query_place_id=ChIJV_PEZCyBwokRJKI2XImekVo&center=40.7783209,-73.5560418",
+      "isFar": true
+    }
+  ],
+  "fun": [
+    {
+      "name": "Crossways Pond",
+      "distance": "1.2 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Crossways%20Pond&query_place_id=ChIJ54fqSgCDwokR_mZ-1dOZ1Ls&center=40.811670500000005,-73.4877162"
+    },
+    {
+      "name": "The Great Escape Room Long Island",
+      "distance": "1.2 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=The%20Great%20Escape%20Room%20Long%20Island&query_place_id=ChIJh0WQWn6BwokRQm9D7lwfI7w&center=40.804595899999995,-73.51611319999999"
+    },
+    {
+      "name": "Bounce! Family Entertainment Center",
+      "distance": "1.4 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Bounce!%20Family%20Entertainment%20Center&query_place_id=ChIJH8r45X6BwokR4Yv_AVx9TdY&center=40.8009494,-73.5148565"
+    },
+    {
+      "name": "Juneau Pond",
+      "distance": "2.3 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Juneau%20Pond&query_place_id=ChIJ2_8JSAAp6IkR8gftddR7aho&center=40.8163638,-73.4630447"
+    }
+  ],
+  "hotels": [
+    {
+      "name": "Comfort Inn Syosset-Long Island",
+      "distance": "0.9 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Comfort%20Inn%20Syosset-Long%20Island&query_place_id=ChIJvc_vrdWDwokRiLUpIOIfjHc&center=40.8085715,-73.51590449999999"
+    },
+    {
+      "name": "Elegant private resort style North Shore home",
+      "distance": "1.2 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Elegant%20private%20resort%20style%20North%20Shore%20home&query_place_id=ChIJRyICI2iCwokR34uP8X0CbLY&center=40.8302803,-73.4881516"
+    },
+    {
+      "name": "The Fox Hollow",
+      "distance": "1.2 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=The%20Fox%20Hollow&query_place_id=ChIJU0gkDheCwokRfBbLYbB_T9M&center=40.8137781,-73.48516699999999"
+    },
+    {
+      "name": "The Inn at Fox Hollow",
+      "distance": "1.3 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=The%20Inn%20at%20Fox%20Hollow&query_place_id=ChIJU0gkDheCwokRy3-xD9T2aA4&center=40.8135955,-73.4844564"
+    }
+  ],
+  "gas": [
+    {
+      "name": "bp",
+      "distance": "0.3 mi",
+      "url": "https://www.google.com/maps/search/bp+near+40.820585699999995%2C-73.5071294"
+    },
+    {
+      "name": "Shell",
+      "distance": "0.5 mi",
+      "url": "https://www.google.com/maps/search/Shell+near+40.820585699999995%2C-73.5071294"
+    },
+    {
+      "name": "Mobil",
+      "distance": "0.7 mi",
+      "url": "https://www.google.com/maps/search/Mobil+near+40.820585699999995%2C-73.5071294"
+    },
+    {
+      "name": "Speedway",
+      "distance": "0.9 mi",
+      "url": "https://www.google.com/maps/search/Speedway+near+40.820585699999995%2C-73.5071294"
+    }
+  ]
+}

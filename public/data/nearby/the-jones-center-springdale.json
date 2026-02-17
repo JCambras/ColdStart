@@ -1,0 +1,184 @@
+{
+  "quick_bite": [
+    {
+      "name": "McDonald's",
+      "distance": "0.5 mi",
+      "url": "https://www.google.com/maps/search/McDonald's+near+36.1862055%2C-94.1189437"
+    },
+    {
+      "name": "HomeGrown Springdale",
+      "distance": "0.6 mi",
+      "url": "https://www.google.com/maps/search/HomeGrown%20Springdale+near+36.1862055%2C-94.1189437"
+    },
+    {
+      "name": "The Odd Soul",
+      "distance": "0.7 mi",
+      "url": "https://www.google.com/maps/search/The%20Odd%20Soul+near+36.1862055%2C-94.1189437"
+    },
+    {
+      "name": "Charming Haven: Nearby Delights",
+      "distance": "1.1 mi",
+      "url": "https://www.google.com/maps/search/Charming%20Haven%3A%20Nearby%20Delights+near+36.1862055%2C-94.1189437"
+    }
+  ],
+  "coffee": [
+    {
+      "name": "World's Best Java & Pies",
+      "distance": "0.3 mi",
+      "url": "https://www.google.com/maps/search/World's%20Best%20Java%20%26%20Pies+near+36.1862055%2C-94.1189437"
+    },
+    {
+      "name": "The Sale Barn Cafe",
+      "distance": "0.4 mi",
+      "url": "https://www.google.com/maps/search/The%20Sale%20Barn%20Cafe+near+36.1862055%2C-94.1189437"
+    },
+    {
+      "name": "Onyx Coffee Lab - Springdale",
+      "distance": "0.7 mi",
+      "url": "https://www.google.com/maps/search/Onyx%20Coffee%20Lab%20-%20Springdale+near+36.1862055%2C-94.1189437"
+    }
+  ],
+  "team_lunch": [
+    {
+      "name": "Taqueria MamaG",
+      "distance": "0.7 mi",
+      "url": "https://www.google.com/maps/search/Taqueria%20MamaG+near+36.1862055%2C-94.1189437"
+    }
+  ],
+  "dinner": [
+    {
+      "name": "Comida hondureña",
+      "distance": "0.2 mi",
+      "url": "https://www.google.com/maps/search/Comida%20hondure%C3%B1a+near+36.1862055%2C-94.1189437"
+    },
+    {
+      "name": "Antojitos catrachos",
+      "distance": "0.2 mi",
+      "url": "https://www.google.com/maps/search/Antojitos%20catrachos+near+36.1862055%2C-94.1189437"
+    },
+    {
+      "name": "El Rinconcito Del Sabor",
+      "distance": "0.3 mi",
+      "url": "https://www.google.com/maps/search/El%20Rinconcito%20Del%20Sabor+near+36.1862055%2C-94.1189437"
+    },
+    {
+      "name": "Fridha’s Mexican Kitchen and Mezcal",
+      "distance": "0.5 mi",
+      "url": "https://www.google.com/maps/search/Fridha%E2%80%99s%20Mexican%20Kitchen%20and%20Mezcal+near+36.1862055%2C-94.1189437"
+    },
+    {
+      "name": "Yankabilly Smokehouse",
+      "distance": "0.5 mi",
+      "url": "https://www.google.com/maps/search/Yankabilly%20Smokehouse+near+36.1862055%2C-94.1189437"
+    },
+    {
+      "name": "Taquería Don Güero",
+      "distance": "0.5 mi",
+      "url": "https://www.google.com/maps/search/Taquer%C3%ADa%20Don%20G%C3%BCero+near+36.1862055%2C-94.1189437"
+    },
+    {
+      "name": "Menya Kitakara",
+      "distance": "0.6 mi",
+      "url": "https://www.google.com/maps/search/Menya%20Kitakara+near+36.1862055%2C-94.1189437"
+    }
+  ],
+  "bowling": [],
+  "arcade": [],
+  "movies": [
+    {
+      "name": "Malco Springdale Cinema Grill",
+      "distance": "2.6 mi",
+      "url": "https://www.google.com/maps/search/Malco%20Springdale%20Cinema%20Grill+near+36.1862055%2C-94.1189437"
+    },
+    {
+      "name": "Malco Razorback Cinema Grill & IMAX",
+      "distance": "4.8 mi",
+      "url": "https://www.google.com/maps/search/Malco%20Razorback%20Cinema%20Grill%20%26%20IMAX+near+36.1862055%2C-94.1189437",
+      "isFar": true
+    }
+  ],
+  "fun": [
+    {
+      "name": "Lokomotion Family Fun Park",
+      "distance": "3.9 mi",
+      "url": "https://www.google.com/maps/search/Lokomotion%20Family%20Fun%20Park+near+36.1862055%2C-94.1189437",
+      "isFar": true
+    },
+    {
+      "name": "NWA Escape Room Fayetteville",
+      "distance": "4.8 mi",
+      "url": "https://www.google.com/maps/search/NWA%20Escape%20Room%20Fayetteville+near+36.1862055%2C-94.1189437",
+      "isFar": true
+    },
+    {
+      "name": "Altitude Trampoline Park",
+      "distance": "4.9 mi",
+      "url": "https://www.google.com/maps/search/Altitude%20Trampoline%20Park+near+36.1862055%2C-94.1189437",
+      "isFar": true
+    }
+  ],
+  "hotels": [
+    {
+      "name": "The Star on Spring",
+      "distance": "0.6 mi",
+      "url": "https://www.google.com/maps/search/The%20Star%20on%20Spring+near+36.1862055%2C-94.1189437"
+    },
+    {
+      "name": "The Star on Spring - King Room - Disability Access",
+      "distance": "0.6 mi",
+      "url": "https://www.google.com/maps/search/The%20Star%20on%20Spring%20-%20King%20Room%20-%20Disability%20Access+near+36.1862055%2C-94.1189437"
+    },
+    {
+      "name": "Whisler Mobile Home & RV Park",
+      "distance": "0.8 mi",
+      "url": "https://www.google.com/maps/search/Whisler%20Mobile%20Home%20%26%20RV%20Park+near+36.1862055%2C-94.1189437"
+    },
+    {
+      "name": "New cottage",
+      "distance": "0.8 mi",
+      "url": "https://www.google.com/maps/search/New%20cottage+near+36.1862055%2C-94.1189437"
+    },
+    {
+      "name": "The Grove Cottage - Downtown Springdale",
+      "distance": "0.8 mi",
+      "url": "https://www.google.com/maps/search/The%20Grove%20Cottage%20-%20Downtown%20Springdale+near+36.1862055%2C-94.1189437"
+    },
+    {
+      "name": "Springdale Vacation Rental ~ 9 Mi to Fayetteville!",
+      "distance": "0.8 mi",
+      "url": "https://www.google.com/maps/search/Springdale%20Vacation%20Rental%20~%209%20Mi%20to%20Fayetteville!+near+36.1862055%2C-94.1189437"
+    },
+    {
+      "name": "The Price House, Downtown Springdale.",
+      "distance": "0.9 mi",
+      "url": "https://www.google.com/maps/search/The%20Price%20House%2C%20Downtown%20Springdale.+near+36.1862055%2C-94.1189437"
+    }
+  ],
+  "gas": [
+    {
+      "name": "E-ZMart",
+      "distance": "0.2 mi",
+      "url": "https://www.google.com/maps/search/E-ZMart+near+36.1862055%2C-94.1189437"
+    },
+    {
+      "name": "Maverik",
+      "distance": "0.2 mi",
+      "url": "https://www.google.com/maps/search/Maverik+near+36.1862055%2C-94.1189437"
+    },
+    {
+      "name": "Speedway",
+      "distance": "0.3 mi",
+      "url": "https://www.google.com/maps/search/Speedway+near+36.1862055%2C-94.1189437"
+    },
+    {
+      "name": "6Ten Express",
+      "distance": "1.1 mi",
+      "url": "https://www.google.com/maps/search/6Ten%20Express+near+36.1862055%2C-94.1189437"
+    },
+    {
+      "name": "Konolo express",
+      "distance": "1.1 mi",
+      "url": "https://www.google.com/maps/search/Konolo%20express+near+36.1862055%2C-94.1189437"
+    }
+  ]
+}

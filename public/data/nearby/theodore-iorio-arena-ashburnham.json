@@ -1,0 +1,207 @@
+{
+  "quick_bite": [
+    {
+      "name": "Subway",
+      "distance": "5.6 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Subway&query_place_id=ChIJ-zBPGcFY4YkRbaj6kbOyHhk&center=42.566033999999995,-71.9775004",
+      "isFar": true
+    },
+    {
+      "name": "Wendy's",
+      "distance": "5.7 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Wendy's&query_place_id=ChIJvU1PGcFY4YkRu0kEbDOKczk&center=42.5661117,-71.9782242",
+      "isFar": true
+    },
+    {
+      "name": "Taco Bell",
+      "distance": "5.7 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Taco%20Bell&query_place_id=ChIJ7dN5PcFY4YkRKn0Fdtq-BvI&center=42.566662199999996,-71.980536",
+      "isFar": true
+    },
+    {
+      "name": "Subway",
+      "distance": "6.1 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Subway&query_place_id=ChIJW_-yL0_i44kRNnXHlgiiULo&center=42.5464935,-71.9140293",
+      "isFar": true
+    },
+    {
+      "name": "Jersey Mike's Subs",
+      "distance": "6.3 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Jersey%20Mike's%20Subs&query_place_id=ChIJ95feJ-ZZ4YkRcQS9VTG3QmA&center=42.5618347,-71.99196599999999",
+      "isFar": true
+    },
+    {
+      "name": "Subway",
+      "distance": "6.9 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Subway&query_place_id=ChIJzwjF14vm44kReQwsH5-EbHw&center=42.568981699999995,-71.81361559999999",
+      "isFar": true
+    }
+  ],
+  "coffee": [
+    {
+      "name": "Dunkin'",
+      "distance": "2.2 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Dunkin'&query_place_id=ChIJQaZdKtLh44kR-9Knukad4F8&center=42.609019100000005,-71.9425376"
+    },
+    {
+      "name": "Dunkin'",
+      "distance": "4.5 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Dunkin'&query_place_id=ChIJxwtqmTVe4YkRO_3HhdfeYkw&center=42.640472900000006,-72.0048202",
+      "isFar": true
+    }
+  ],
+  "team_lunch": [
+    {
+      "name": "Lucky Dragon II",
+      "distance": "2.1 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Lucky%20Dragon%20II&query_place_id=ChIJkVBmRRrh44kR7KLXYcgIwFg&center=42.6092514,-71.94087170000002"
+    },
+    {
+      "name": "Caring Confections",
+      "distance": "5.6 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Caring%20Confections&query_place_id=ChIJy_ZUlGdf4YkRvw-n_-PHq3U&center=42.6031009,-72.01812369999999",
+      "isFar": true
+    },
+    {
+      "name": "D'Angelo Grilled Sandwiches",
+      "distance": "6.3 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=D'Angelo%20Grilled%20Sandwiches&query_place_id=ChIJBTpNCSBZ4YkReAh8oMgiSaU&center=42.5601008,-71.9889937",
+      "isFar": true
+    },
+    {
+      "name": "Creative Sweets",
+      "distance": "6.3 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Creative%20Sweets&query_place_id=ChIJDQX1nadZ4YkRyS6y39cUxb8&center=42.554410000000004,-71.977734",
+      "isFar": true
+    }
+  ],
+  "dinner": [
+    {
+      "name": "Village Pizza",
+      "distance": "0.3 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Village%20Pizza&query_place_id=ChIJWf-3m2Tg44kR3DOdcJllIC8&center=42.635519099999996,-71.91083300000001"
+    },
+    {
+      "name": "Yaka Sawa Sushi and Grill",
+      "distance": "0.3 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Yaka%20Sawa%20Sushi%20and%20Grill&query_place_id=ChIJIXG4X2Pg44kRbTks5jsq2v8&center=42.6356329,-71.9100842"
+    },
+    {
+      "name": "Brothers Pizza",
+      "distance": "0.3 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Brothers%20Pizza&query_place_id=ChIJNToeaGPg44kRq2OZBxKLhhc&center=42.6355703,-71.90959579999999"
+    },
+    {
+      "name": "Tweedo's Variety",
+      "distance": "3.6 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Tweedo's%20Variety&query_place_id=ChIJiemZKRJg4YkRroK0klkSZXc&center=42.6673279,-71.9696329",
+      "isFar": true
+    },
+    {
+      "name": "Zoe's On The Green",
+      "distance": "4.7 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Zoe's%20On%20The%20Green&query_place_id=ChIJ4y4cnNZf4YkRw8w9dIkXb68&center=42.5985752,-71.99380959999999",
+      "isFar": true
+    },
+    {
+      "name": "Bacon Street Farm Stand",
+      "distance": "5.8 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Bacon%20Street%20Farm%20Stand&query_place_id=ChIJr6miDwDj44kRPJKsO6xuMq0&center=42.549925900000005,-71.9087407",
+      "isFar": true
+    }
+  ],
+  "bowling": [
+    {
+      "name": "Bowlaway",
+      "distance": "5.8 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Bowlaway&query_place_id=ChIJ73eWktlY4YkRIB6egDs55nU&center=42.573559,-71.994715",
+      "isFar": true
+    },
+    {
+      "name": "Gardner Ten Pins",
+      "distance": "6.6 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Gardner%20Ten%20Pins&query_place_id=ChIJxee-6B5Z4YkRR1XQpugg1hE&center=42.5635292,-72.00355139999999",
+      "isFar": true
+    },
+    {
+      "name": "Putnam Street Bowling Alleys",
+      "distance": "6.9 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Putnam%20Street%20Bowling%20Alleys&query_place_id=ChIJZT8LT1Dm44kRiAbHbjn9I0I&center=42.582765300000005,-71.7997319",
+      "isFar": true
+    }
+  ],
+  "arcade": [],
+  "movies": [
+    {
+      "name": "Gardner Cinemas",
+      "distance": "6.3 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Gardner%20Cinemas&query_place_id=ChIJe7ROW-RY4YkR3gpUuG6PEZY&center=42.5596639,-71.9888806",
+      "isFar": true
+    }
+  ],
+  "fun": [
+    {
+      "name": "Nutting Ledges",
+      "distance": "5.0 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Nutting%20Ledges&query_place_id=ChIJm4GGv-zf44kRep3j7fR3Xs0&center=42.7052976,-71.8991671",
+      "isFar": true
+    },
+    {
+      "name": "Bicentennial Giant Chair",
+      "distance": "5.3 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Bicentennial%20Giant%20Chair&query_place_id=ChIJW0nJ8c5Y4YkRJnU5hWH9Rt0&center=42.5759976,-71.983518",
+      "isFar": true
+    },
+    {
+      "name": "Ashby Band Stand",
+      "distance": "5.8 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Ashby%20Band%20Stand&query_place_id=ChIJ-6VM4dbd44kRnIj0H14MvCE&center=42.6777945,-71.8197516",
+      "isFar": true
+    },
+    {
+      "name": "Westminster Village-Academy Hill Historic District",
+      "distance": "6.4 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Westminster%20Village-Academy%20Hill%20Historic%20District&query_place_id=ChIJF4sNGE7i44kR1nofxVeu_4w&center=42.541759400000004,-71.90655389999999",
+      "isFar": true
+    }
+  ],
+  "hotels": [
+    {
+      "name": "NEW! Cushing Home | Family Cabin Near Wachusett Mtn",
+      "distance": "0.4 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=NEW!%20Cushing%20Home%20%7C%20Family%20Cabin%20Near%20Wachusett%20Mtn&query_place_id=ChIJ0z8xcHDg44kRDqe2bPAbjUw&center=42.639598899999996,-71.917099"
+    },
+    {
+      "name": "The Ginger Bed",
+      "distance": "0.5 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=The%20Ginger%20Bed&query_place_id=ChIJHVCn2Hzg44kRSgX9yZwATsY&center=42.6372243,-71.9074978"
+    },
+    {
+      "name": "Maguire House Bed & Breakfast",
+      "distance": "1.0 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Maguire%20House%20Bed%20%26%20Breakfast&query_place_id=ChIJf4rluHXg44kRTAqVbDfJ4ic&center=42.6469678,-71.9240751"
+    },
+    {
+      "name": "Camp Wellville",
+      "distance": "1.8 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Camp%20Wellville&query_place_id=ChIJE-miPMvf44kRToq_zaJaB7g&center=42.660305,-71.9080963"
+    }
+  ],
+  "gas": [
+    {
+      "name": "Alltown",
+      "distance": "2.2 mi",
+      "url": "https://www.google.com/maps/search/Alltown+near+42.6342162%2C-71.91618410000001"
+    },
+    {
+      "name": "Mobil",
+      "distance": "2.2 mi",
+      "url": "https://www.google.com/maps/search/Mobil+near+42.6342162%2C-71.91618410000001"
+    },
+    {
+      "name": "Irving Oil",
+      "distance": "4.5 mi",
+      "url": "https://www.google.com/maps/search/Irving%20Oil+near+42.6342162%2C-71.91618410000001"
+    }
+  ]
+}

@@ -1,0 +1,145 @@
+{
+  "quick_bite": [],
+  "coffee": [
+    {
+      "name": "Marty's Cafe",
+      "distance": "0.8 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Marty's%20Cafe&query_place_id=ChIJo8zfeCuN54kR6wyDbdipJ7M&center=41.6404895,-73.31827679999999"
+    },
+    {
+      "name": "The Smithy Cafe at 9 Main",
+      "distance": "3.9 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=The%20Smithy%20Cafe%20at%209%20Main&query_place_id=ChIJ1a-rjY6M54kRbYPb80dV2QE&center=41.6753834,-73.354682",
+      "isFar": true
+    }
+  ],
+  "team_lunch": [
+    {
+      "name": "The Garden Room at Mayflower Inn & Spa",
+      "distance": "0.2 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=The%20Garden%20Room%20at%20Mayflower%20Inn%20%26%20Spa&query_place_id=ChIJvVFisc7y54kRQUyQN7QO9Oo&center=41.6289781,-73.3066011"
+    },
+    {
+      "name": "The Tap Room at Mayflower Inn & Spa",
+      "distance": "0.2 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=The%20Tap%20Room%20at%20Mayflower%20Inn%20%26%20Spa&query_place_id=ChIJvVFisc7y54kRkeDvX3RQBUI&center=41.6288552,-73.306542"
+    },
+    {
+      "name": "Butifarras",
+      "distance": "3.8 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Butifarras&query_place_id=ChIJ6U1vPgCL54kRONMpOuxzjUc&center=41.649204399999995,-73.38018439999999",
+      "isFar": true
+    },
+    {
+      "name": "Il Forno Home Bakery LLC",
+      "distance": "4.6 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Il%20Forno%20Home%20Bakery%20LLC&query_place_id=ChIJ2y9C3MH154kRHTa4PUUAa5c&center=41.6073975,-73.39331849999999",
+      "isFar": true
+    },
+    {
+      "name": "Sifted Organic Baking Co",
+      "distance": "4.8 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Sifted%20Organic%20Baking%20Co&query_place_id=ChIJ8Rsq7PuT54kROBY1pIl7KqQ&center=41.6295399,-73.2167209",
+      "isFar": true
+    }
+  ],
+  "dinner": [
+    {
+      "name": "The Po Cafe",
+      "distance": "0.1 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=The%20Po%20Cafe&query_place_id=ChIJow12ydfz54kRAEbEo4u8sJg&center=41.63012880000001,-73.3126369"
+    },
+    {
+      "name": "The Pantry - Restaurant & Bakery",
+      "distance": "0.8 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=The%20Pantry%20-%20Restaurant%20%26%20Bakery&query_place_id=ChIJ0-H2cyyN54kROz2SuMqcgRk&center=41.640929199999995,-73.3175175"
+    },
+    {
+      "name": "Washington Pizza House",
+      "distance": "0.9 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Washington%20Pizza%20House&query_place_id=ChIJt36w4SqN54kRqqkK1zU1pGs&center=41.639562999999995,-73.320888"
+    },
+    {
+      "name": "G.W. Tavern",
+      "distance": "0.9 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=G.W.%20Tavern&query_place_id=ChIJpU10oC6N54kRJLu6lUHXiC4&center=41.642432,-73.31648899999999"
+    },
+    {
+      "name": "The White Horse",
+      "distance": "3.8 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=The%20White%20Horse&query_place_id=ChIJ38v6f6CM54kRUN7gBSy_F_k&center=41.662657599999996,-73.3705703",
+      "isFar": true
+    },
+    {
+      "name": "La Guera Taco Truck and Drive thru",
+      "distance": "3.9 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=La%20Guera%20Taco%20Truck%20and%20Drive%20thru&query_place_id=ChIJ8-PcAACL54kRxAJ1kzgvCc8&center=41.6588911,-73.37479979999999",
+      "isFar": true
+    }
+  ],
+  "bowling": [],
+  "arcade": [],
+  "movies": [
+    {
+      "name": "Bank Street Theater",
+      "distance": "6.4 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Bank%20Street%20Theater&query_place_id=ChIJiWKF4Cv054kRPWxTgfFDWeY&center=41.577520299999996,-73.4122945",
+      "isFar": true
+    },
+    {
+      "name": "Bantam Cinema & Arts Center",
+      "distance": "7.3 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Bantam%20Cinema%20%26%20Arts%20Center&query_place_id=ChIJh8Z6xZiR54kRkGgasRmQ7ls&center=41.7206165,-73.2358107",
+      "isFar": true
+    }
+  ],
+  "fun": [
+    {
+      "name": "Wigwam Escape",
+      "distance": "1.6 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Wigwam%20Escape&query_place_id=ChIJCbkIj3Hz54kRJW_-DH291DM&center=41.609789299999996,-73.32451689999999"
+    },
+    {
+      "name": "Greek amphitheater",
+      "distance": "4.5 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Greek%20amphitheater&query_place_id=ChIJy4PDCwCT54kRC32XFbncg4Y&center=41.6845765,-73.26234989999999",
+      "isFar": true
+    },
+    {
+      "name": "Connecticut Garlic & Harvest Festival",
+      "distance": "6.2 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Connecticut%20Garlic%20%26%20Harvest%20Festival&query_place_id=ChIJzZYwwJuT54kRA_DQ4htEAb4&center=41.660239999999995,-73.1982574",
+      "isFar": true
+    },
+    {
+      "name": "New Milford Bandstand",
+      "distance": "6.3 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=New%20Milford%20Bandstand&query_place_id=ChIJe4cCIlH154kR-Ozgr5i72d4&center=41.5774641,-73.4107628",
+      "isFar": true
+    }
+  ],
+  "hotels": [
+    {
+      "name": "Mayflower Inn & Spa, Auberge Collection",
+      "distance": "0.2 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Mayflower%20Inn%20%26%20Spa%2C%20Auberge%20Collection&query_place_id=ChIJ1RlJ1cjy54kRM1LiEKdu8fc&center=41.630362,-73.30638700000002"
+    }
+  ],
+  "gas": [
+    {
+      "name": "Citgo - Gas Station",
+      "distance": "0.8 mi",
+      "url": "https://www.google.com/maps/search/Citgo%20-%20Gas%20Station+near+41.6300972%2C-73.3103608"
+    },
+    {
+      "name": "Titus Park Garage",
+      "distance": "0.8 mi",
+      "url": "https://www.google.com/maps/search/Titus%20Park%20Garage+near+41.6300972%2C-73.3103608"
+    },
+    {
+      "name": "MARBLEDALE CITGO",
+      "distance": "3.8 mi",
+      "url": "https://www.google.com/maps/search/MARBLEDALE%20CITGO+near+41.6300972%2C-73.3103608"
+    }
+  ]
+}

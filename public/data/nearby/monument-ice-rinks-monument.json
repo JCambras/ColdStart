@@ -1,0 +1,231 @@
+{
+  "quick_bite": [
+    {
+      "name": "Jersey Mike's Subs",
+      "distance": "0.4 mi",
+      "url": "https://www.google.com/maps/search/Jersey%20Mike's%20Subs+near+39.06767%2C-104.8617031"
+    },
+    {
+      "name": "Subway",
+      "distance": "0.4 mi",
+      "url": "https://www.google.com/maps/search/Subway+near+39.06767%2C-104.8617031"
+    },
+    {
+      "name": "KFC",
+      "distance": "0.6 mi",
+      "url": "https://www.google.com/maps/search/KFC+near+39.06767%2C-104.8617031"
+    },
+    {
+      "name": "QDOBA Mexican Eats",
+      "distance": "0.7 mi",
+      "url": "https://www.google.com/maps/search/QDOBA%20Mexican%20Eats+near+39.06767%2C-104.8617031"
+    },
+    {
+      "name": "Freddy's Frozen Custard & Steakburgers",
+      "distance": "0.7 mi",
+      "url": "https://www.google.com/maps/search/Freddy's%20Frozen%20Custard%20%26%20Steakburgers+near+39.06767%2C-104.8617031"
+    },
+    {
+      "name": "PJ Fresh Marketplace",
+      "distance": "0.9 mi",
+      "url": "https://www.google.com/maps/search/PJ%20Fresh%20Marketplace+near+39.06767%2C-104.8617031"
+    },
+    {
+      "name": "Arby's",
+      "distance": "0.9 mi",
+      "url": "https://www.google.com/maps/search/Arby's+near+39.06767%2C-104.8617031"
+    }
+  ],
+  "coffee": [
+    {
+      "name": "1979 Coffee",
+      "distance": "0.1 mi",
+      "url": "https://www.google.com/maps/search/1979%20Coffee+near+39.06767%2C-104.8617031"
+    },
+    {
+      "name": "Forge Coffee Lab",
+      "distance": "0.6 mi",
+      "url": "https://www.google.com/maps/search/Forge%20Coffee%20Lab+near+39.06767%2C-104.8617031"
+    },
+    {
+      "name": "Ziggi’s Coffee",
+      "distance": "0.6 mi",
+      "url": "https://www.google.com/maps/search/Ziggi%E2%80%99s%20Coffee+near+39.06767%2C-104.8617031"
+    },
+    {
+      "name": "Dunkin'",
+      "distance": "0.9 mi",
+      "url": "https://www.google.com/maps/search/Dunkin'+near+39.06767%2C-104.8617031"
+    },
+    {
+      "name": "Bennies",
+      "distance": "1.0 mi",
+      "url": "https://www.google.com/maps/search/Bennies+near+39.06767%2C-104.8617031"
+    }
+  ],
+  "team_lunch": [
+    {
+      "name": "Texas Roadhouse",
+      "distance": "0.3 mi",
+      "url": "https://www.google.com/maps/search/Texas%20Roadhouse+near+39.06767%2C-104.8617031"
+    },
+    {
+      "name": "Walmart Bakery",
+      "distance": "0.4 mi",
+      "url": "https://www.google.com/maps/search/Walmart%20Bakery+near+39.06767%2C-104.8617031"
+    },
+    {
+      "name": "Fuji Mountain",
+      "distance": "0.6 mi",
+      "url": "https://www.google.com/maps/search/Fuji%20Mountain+near+39.06767%2C-104.8617031"
+    },
+    {
+      "name": "Rodolfo's Mexican Grill",
+      "distance": "0.7 mi",
+      "url": "https://www.google.com/maps/search/Rodolfo's%20Mexican%20Grill+near+39.06767%2C-104.8617031"
+    }
+  ],
+  "dinner": [
+    {
+      "name": "Monument Pies & Grinders",
+      "distance": "0.7 mi",
+      "url": "https://www.google.com/maps/search/Monument%20Pies%20%26%20Grinders+near+39.06767%2C-104.8617031"
+    },
+    {
+      "name": "Elizabeth’s Sweet Treat’s",
+      "distance": "0.9 mi",
+      "url": "https://www.google.com/maps/search/Elizabeth%E2%80%99s%20Sweet%20Treat%E2%80%99s+near+39.06767%2C-104.8617031"
+    }
+  ],
+  "bowling": [
+    {
+      "name": "Ten Paw Alley",
+      "distance": "5.7 mi",
+      "url": "https://www.google.com/maps/search/Ten%20Paw%20Alley+near+39.06767%2C-104.8617031",
+      "isFar": true
+    },
+    {
+      "name": "Main Event Colorado Springs",
+      "distance": "5.8 mi",
+      "url": "https://www.google.com/maps/search/Main%20Event%20Colorado%20Springs+near+39.06767%2C-104.8617031",
+      "isFar": true
+    },
+    {
+      "name": "Academy Lanes Bowling Center",
+      "distance": "6.2 mi",
+      "url": "https://www.google.com/maps/search/Academy%20Lanes%20Bowling%20Center+near+39.06767%2C-104.8617031",
+      "isFar": true
+    }
+  ],
+  "arcade": [],
+  "movies": [
+    {
+      "name": "Regal Interquest",
+      "distance": "5.8 mi",
+      "url": "https://www.google.com/maps/search/Regal%20Interquest+near+39.06767%2C-104.8617031",
+      "isFar": true
+    },
+    {
+      "name": "Hollywood Theaters",
+      "distance": "5.8 mi",
+      "url": "https://www.google.com/maps/search/Hollywood%20Theaters+near+39.06767%2C-104.8617031",
+      "isFar": true
+    },
+    {
+      "name": "Icon Cinema",
+      "distance": "6.6 mi",
+      "url": "https://www.google.com/maps/search/Icon%20Cinema+near+39.06767%2C-104.8617031",
+      "isFar": true
+    }
+  ],
+  "fun": [
+    {
+      "name": "Air City 360 Trampoline and Adventure Park",
+      "distance": "3.7 mi",
+      "url": "https://www.google.com/maps/search/Air%20City%20360%20Trampoline%20and%20Adventure%20Park+near+39.06767%2C-104.8617031",
+      "isFar": true
+    },
+    {
+      "name": "Escapology Escape Rooms Colorado Springs",
+      "distance": "3.9 mi",
+      "url": "https://www.google.com/maps/search/Escapology%20Escape%20Rooms%20Colorado%20Springs+near+39.06767%2C-104.8617031",
+      "isFar": true
+    },
+    {
+      "name": "The Watering Hole",
+      "distance": "5.7 mi",
+      "url": "https://www.google.com/maps/search/The%20Watering%20Hole+near+39.06767%2C-104.8617031",
+      "isFar": true
+    },
+    {
+      "name": "Focus on the Family Welcome Center",
+      "distance": "8.1 mi",
+      "url": "https://www.google.com/maps/search/Focus%20on%20the%20Family%20Welcome%20Center+near+39.06767%2C-104.8617031",
+      "isFar": true
+    }
+  ],
+  "hotels": [
+    {
+      "name": "3BD Modern Home Close to Usafa",
+      "distance": "0.1 mi",
+      "url": "https://www.google.com/maps/search/3BD%20Modern%20Home%20Close%20to%20Usafa+near+39.06767%2C-104.8617031"
+    },
+    {
+      "name": "3BD Modern Home Close to Usafa - Villa (3 Bedrooms)",
+      "distance": "0.1 mi",
+      "url": "https://www.google.com/maps/search/3BD%20Modern%20Home%20Close%20to%20Usafa%20-%20Villa%20(3%20Bedrooms)+near+39.06767%2C-104.8617031"
+    },
+    {
+      "name": "Charming 3 bedroom Townhome w /Main floor master suite, 2 car attached garage.",
+      "distance": "0.2 mi",
+      "url": "https://www.google.com/maps/search/Charming%203%20bedroom%20Townhome%20w%20%2FMain%20floor%20master%20suite%2C%202%20car%20attached%20garage.+near+39.06767%2C-104.8617031"
+    },
+    {
+      "name": "2145 Coyote Mint Dr",
+      "distance": "0.4 mi",
+      "url": "https://www.google.com/maps/search/2145%20Coyote%20Mint%20Dr+near+39.06767%2C-104.8617031"
+    },
+    {
+      "name": "“Shady Pine” Glamping + Outdoor Tub Hot Water",
+      "distance": "0.5 mi",
+      "url": "https://www.google.com/maps/search/%E2%80%9CShady%20Pine%E2%80%9D%20Glamping%20%2B%20Outdoor%20Tub%20Hot%20Water+near+39.06767%2C-104.8617031"
+    },
+    {
+      "name": "15754 Little Bluestem Rd",
+      "distance": "0.5 mi",
+      "url": "https://www.google.com/maps/search/15754%20Little%20Bluestem%20Rd+near+39.06767%2C-104.8617031"
+    },
+    {
+      "name": "'Colorado Cowboy' Creekside Safari, Hot Tub, King Bed",
+      "distance": "0.6 mi",
+      "url": "https://www.google.com/maps/search/'Colorado%20Cowboy'%20Creekside%20Safari%2C%20Hot%20Tub%2C%20King%20Bed+near+39.06767%2C-104.8617031"
+    }
+  ],
+  "gas": [
+    {
+      "name": "Murphy USA",
+      "distance": "0.7 mi",
+      "url": "https://www.google.com/maps/search/Murphy%20USA+near+39.06767%2C-104.8617031"
+    },
+    {
+      "name": "QuikTrip",
+      "distance": "0.9 mi",
+      "url": "https://www.google.com/maps/search/QuikTrip+near+39.06767%2C-104.8617031"
+    },
+    {
+      "name": "Circle K | Gas Station",
+      "distance": "1.1 mi",
+      "url": "https://www.google.com/maps/search/Circle%20K%20%7C%20Gas%20Station+near+39.06767%2C-104.8617031"
+    },
+    {
+      "name": "Conoco",
+      "distance": "1.3 mi",
+      "url": "https://www.google.com/maps/search/Conoco+near+39.06767%2C-104.8617031"
+    },
+    {
+      "name": "Sinclair Gas Station",
+      "distance": "1.8 mi",
+      "url": "https://www.google.com/maps/search/Sinclair%20Gas%20Station+near+39.06767%2C-104.8617031"
+    }
+  ]
+}

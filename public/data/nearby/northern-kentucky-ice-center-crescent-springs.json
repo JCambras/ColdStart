@@ -1,0 +1,201 @@
+{
+  "quick_bite": [
+    {
+      "name": "Burger King",
+      "distance": "0.3 mi",
+      "url": "https://www.google.com/maps/search/Burger%20King+near+39.0491277%2C-84.5830596"
+    },
+    {
+      "name": "Subway",
+      "distance": "0.3 mi",
+      "url": "https://www.google.com/maps/search/Subway+near+39.0491277%2C-84.5830596"
+    },
+    {
+      "name": "Gold Star",
+      "distance": "0.3 mi",
+      "url": "https://www.google.com/maps/search/Gold%20Star+near+39.0491277%2C-84.5830596"
+    },
+    {
+      "name": "Skyline Chili",
+      "distance": "0.3 mi",
+      "url": "https://www.google.com/maps/search/Skyline%20Chili+near+39.0491277%2C-84.5830596"
+    },
+    {
+      "name": "Arby's",
+      "distance": "0.3 mi",
+      "url": "https://www.google.com/maps/search/Arby's+near+39.0491277%2C-84.5830596"
+    },
+    {
+      "name": "Firehouse Subs High Street Center",
+      "distance": "0.3 mi",
+      "url": "https://www.google.com/maps/search/Firehouse%20Subs%20High%20Street%20Center+near+39.0491277%2C-84.5830596"
+    },
+    {
+      "name": "LaRosa's Pizza Crescent Springs",
+      "distance": "0.3 mi",
+      "url": "https://www.google.com/maps/search/LaRosa's%20Pizza%20Crescent%20Springs+near+39.0491277%2C-84.5830596"
+    }
+  ],
+  "coffee": [
+    {
+      "name": "Dunkin'",
+      "distance": "0.3 mi",
+      "url": "https://www.google.com/maps/search/Dunkin'+near+39.0491277%2C-84.5830596"
+    },
+    {
+      "name": "McDonald's",
+      "distance": "0.3 mi",
+      "url": "https://www.google.com/maps/search/McDonald's+near+39.0491277%2C-84.5830596"
+    },
+    {
+      "name": "Panera Bread",
+      "distance": "0.4 mi",
+      "url": "https://www.google.com/maps/search/Panera%20Bread+near+39.0491277%2C-84.5830596"
+    }
+  ],
+  "team_lunch": [
+    {
+      "name": "Lupita's Bakery",
+      "distance": "0.4 mi",
+      "url": "https://www.google.com/maps/search/Lupita's%20Bakery+near+39.0491277%2C-84.5830596"
+    }
+  ],
+  "dinner": [
+    {
+      "name": "Joella's Hot Chicken - Crescent Springs",
+      "distance": "0.3 mi",
+      "url": "https://www.google.com/maps/search/Joella's%20Hot%20Chicken%20-%20Crescent%20Springs+near+39.0491277%2C-84.5830596"
+    },
+    {
+      "name": "Sweet Basil Thai & Sushi",
+      "distance": "0.3 mi",
+      "url": "https://www.google.com/maps/search/Sweet%20Basil%20Thai%20%26%20Sushi+near+39.0491277%2C-84.5830596"
+    },
+    {
+      "name": "Poseidons pizza Crescent Springs",
+      "distance": "0.4 mi",
+      "url": "https://www.google.com/maps/search/Poseidons%20pizza%20Crescent%20Springs+near+39.0491277%2C-84.5830596"
+    },
+    {
+      "name": "Antonio's Pizza Pub",
+      "distance": "0.4 mi",
+      "url": "https://www.google.com/maps/search/Antonio's%20Pizza%20Pub+near+39.0491277%2C-84.5830596"
+    },
+    {
+      "name": "Miyako Steakhouse and Sushi",
+      "distance": "0.4 mi",
+      "url": "https://www.google.com/maps/search/Miyako%20Steakhouse%20and%20Sushi+near+39.0491277%2C-84.5830596"
+    }
+  ],
+  "bowling": [
+    {
+      "name": "Strike & Spare",
+      "distance": "2.1 mi",
+      "url": "https://www.google.com/maps/search/Strike%20%26%20Spare+near+39.0491277%2C-84.5830596"
+    }
+  ],
+  "arcade": [],
+  "movies": [
+    {
+      "name": "NightLight 513",
+      "distance": "4.8 mi",
+      "url": "https://www.google.com/maps/search/NightLight%20513+near+39.0491277%2C-84.5830596",
+      "isFar": true
+    },
+    {
+      "name": "Robert D. Lindner Family OMNIMAX Theater",
+      "distance": "4.8 mi",
+      "url": "https://www.google.com/maps/search/Robert%20D.%20Lindner%20Family%20OMNIMAX%20Theater+near+39.0491277%2C-84.5830596",
+      "isFar": true
+    }
+  ],
+  "fun": [
+    {
+      "name": "Nurf Battlez",
+      "distance": "2.2 mi",
+      "url": "https://www.google.com/maps/search/Nurf%20Battlez+near+39.0491277%2C-84.5830596"
+    },
+    {
+      "name": "Delhi Who Dunnit & Who Dunnit TECH",
+      "distance": "3.4 mi",
+      "url": "https://www.google.com/maps/search/Delhi%20Who%20Dunnit%20%26%20Who%20Dunnit%20TECH+near+39.0491277%2C-84.5830596",
+      "isFar": true
+    },
+    {
+      "name": "The Kids DiG it",
+      "distance": "3.7 mi",
+      "url": "https://www.google.com/maps/search/The%20Kids%20DiG%20it+near+39.0491277%2C-84.5830596",
+      "isFar": true
+    },
+    {
+      "name": "Sky Zone Trampoline Park",
+      "distance": "3.9 mi",
+      "url": "https://www.google.com/maps/search/Sky%20Zone%20Trampoline%20Park+near+39.0491277%2C-84.5830596",
+      "isFar": true
+    }
+  ],
+  "hotels": [
+    {
+      "name": "Cozy 3 bedroom home in Kentucky",
+      "distance": "0.3 mi",
+      "url": "https://www.google.com/maps/search/Cozy%203%20bedroom%20home%20in%20Kentucky+near+39.0491277%2C-84.5830596"
+    },
+    {
+      "name": "Super 8 by Wyndham Fort Mitchell Cincinnati Area",
+      "distance": "0.7 mi",
+      "url": "https://www.google.com/maps/search/Super%208%20by%20Wyndham%20Fort%20Mitchell%20Cincinnati%20Area+near+39.0491277%2C-84.5830596"
+    },
+    {
+      "name": "Beechwood Community",
+      "distance": "0.9 mi",
+      "url": "https://www.google.com/maps/search/Beechwood%20Community+near+39.0491277%2C-84.5830596"
+    },
+    {
+      "name": "VILLA HILLS!\\nALL Proceeds Support Families affected by Pancreatic Cancer",
+      "distance": "1.0 mi",
+      "url": "https://www.google.com/maps/search/VILLA%20HILLS!%5CnALL%20Proceeds%20Support%20Families%20affected%20by%20Pancreatic%20Cancer+near+39.0491277%2C-84.5830596"
+    },
+    {
+      "name": "Lakeside Landing",
+      "distance": "1.4 mi",
+      "url": "https://www.google.com/maps/search/Lakeside%20Landing+near+39.0491277%2C-84.5830596"
+    },
+    {
+      "name": "Lakeside Landing",
+      "distance": "1.4 mi",
+      "url": "https://www.google.com/maps/search/Lakeside%20Landing+near+39.0491277%2C-84.5830596"
+    },
+    {
+      "name": "Cozy home away from home",
+      "distance": "1.6 mi",
+      "url": "https://www.google.com/maps/search/Cozy%20home%20away%20from%20home+near+39.0491277%2C-84.5830596"
+    }
+  ],
+  "gas": [
+    {
+      "name": "Sunoco",
+      "distance": "0.4 mi",
+      "url": "https://www.google.com/maps/search/Sunoco+near+39.0491277%2C-84.5830596"
+    },
+    {
+      "name": "bp",
+      "distance": "0.4 mi",
+      "url": "https://www.google.com/maps/search/bp+near+39.0491277%2C-84.5830596"
+    },
+    {
+      "name": "Speedway",
+      "distance": "0.4 mi",
+      "url": "https://www.google.com/maps/search/Speedway+near+39.0491277%2C-84.5830596"
+    },
+    {
+      "name": "Marathon Gas",
+      "distance": "0.6 mi",
+      "url": "https://www.google.com/maps/search/Marathon%20Gas+near+39.0491277%2C-84.5830596"
+    },
+    {
+      "name": "Shell",
+      "distance": "0.6 mi",
+      "url": "https://www.google.com/maps/search/Shell+near+39.0491277%2C-84.5830596"
+    }
+  ]
+}

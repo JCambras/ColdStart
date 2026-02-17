@@ -1,0 +1,228 @@
+{
+  "quick_bite": [
+    {
+      "name": "Moe's Italian Sandwiches",
+      "distance": "0.2 mi",
+      "url": "https://www.google.com/maps/search/Moe's%20Italian%20Sandwiches+near+42.986588499999996%2C-71.46166579999999"
+    },
+    {
+      "name": "Hellenic Pizzeria",
+      "distance": "0.2 mi",
+      "url": "https://www.google.com/maps/search/Hellenic%20Pizzeria+near+42.986588499999996%2C-71.46166579999999"
+    },
+    {
+      "name": "Chuck E. Cheese",
+      "distance": "2.5 mi",
+      "url": "https://www.google.com/maps/search/Chuck%20E.%20Cheese+near+42.986588499999996%2C-71.46166579999999"
+    }
+  ],
+  "coffee": [
+    {
+      "name": "Daily Brew",
+      "distance": "0.1 mi",
+      "url": "https://www.google.com/maps/search/Daily%20Brew+near+42.986588499999996%2C-71.46166579999999"
+    },
+    {
+      "name": "Sulio's Coffee House",
+      "distance": "0.2 mi",
+      "url": "https://www.google.com/maps/search/Sulio's%20Coffee%20House+near+42.986588499999996%2C-71.46166579999999"
+    },
+    {
+      "name": "Hometown Coffee Roasters",
+      "distance": "0.2 mi",
+      "url": "https://www.google.com/maps/search/Hometown%20Coffee%20Roasters+near+42.986588499999996%2C-71.46166579999999"
+    },
+    {
+      "name": "William & Sons Coffee Co.",
+      "distance": "0.2 mi",
+      "url": "https://www.google.com/maps/search/William%20%26%20Sons%20Coffee%20Co.+near+42.986588499999996%2C-71.46166579999999"
+    }
+  ],
+  "team_lunch": [
+    {
+      "name": "SoHo Bistro & Lounge",
+      "distance": "0.1 mi",
+      "url": "https://www.google.com/maps/search/SoHo%20Bistro%20%26%20Lounge+near+42.986588499999996%2C-71.46166579999999"
+    },
+    {
+      "name": "The Goat",
+      "distance": "0.2 mi",
+      "url": "https://www.google.com/maps/search/The%20Goat+near+42.986588499999996%2C-71.46166579999999"
+    },
+    {
+      "name": "The Current Kitchen & Bar",
+      "distance": "0.2 mi",
+      "url": "https://www.google.com/maps/search/The%20Current%20Kitchen%20%26%20Bar+near+42.986588499999996%2C-71.46166579999999"
+    }
+  ],
+  "dinner": [
+    {
+      "name": "El Rincon Zacatecano Taqueria",
+      "distance": "0.1 mi",
+      "url": "https://www.google.com/maps/search/El%20Rincon%20Zacatecano%20Taqueria+near+42.986588499999996%2C-71.46166579999999"
+    },
+    {
+      "name": "Pho Golden Bowl",
+      "distance": "0.1 mi",
+      "url": "https://www.google.com/maps/search/Pho%20Golden%20Bowl+near+42.986588499999996%2C-71.46166579999999"
+    },
+    {
+      "name": "Kisaki Japanese Cuisine",
+      "distance": "0.1 mi",
+      "url": "https://www.google.com/maps/search/Kisaki%20Japanese%20Cuisine+near+42.986588499999996%2C-71.46166579999999"
+    },
+    {
+      "name": "Sunnys Hot Chicken (Halal Restaurant)",
+      "distance": "0.2 mi",
+      "url": "https://www.google.com/maps/search/Sunnys%20Hot%20Chicken%20(Halal%20Restaurant)+near+42.986588499999996%2C-71.46166579999999"
+    },
+    {
+      "name": "Don Quijote Restaurant",
+      "distance": "0.2 mi",
+      "url": "https://www.google.com/maps/search/Don%20Quijote%20Restaurant+near+42.986588499999996%2C-71.46166579999999"
+    },
+    {
+      "name": "Thirsty Moose Taphouse",
+      "distance": "0.2 mi",
+      "url": "https://www.google.com/maps/search/Thirsty%20Moose%20Taphouse+near+42.986588499999996%2C-71.46166579999999"
+    },
+    {
+      "name": "Maya's KITCHEN",
+      "distance": "0.2 mi",
+      "url": "https://www.google.com/maps/search/Maya's%20KITCHEN+near+42.986588499999996%2C-71.46166579999999"
+    }
+  ],
+  "bowling": [
+    {
+      "name": "Yankee Lanes",
+      "distance": "0.6 mi",
+      "url": "https://www.google.com/maps/search/Yankee%20Lanes+near+42.986588499999996%2C-71.46166579999999"
+    },
+    {
+      "name": "King Bowling Lanes",
+      "distance": "1.9 mi",
+      "url": "https://www.google.com/maps/search/King%20Bowling%20Lanes+near+42.986588499999996%2C-71.46166579999999"
+    },
+    {
+      "name": "Lakeside Lanes",
+      "distance": "3.6 mi",
+      "url": "https://www.google.com/maps/search/Lakeside%20Lanes+near+42.986588499999996%2C-71.46166579999999",
+      "isFar": true
+    }
+  ],
+  "arcade": [],
+  "movies": [
+    {
+      "name": "Chunky's Cinema Pub",
+      "distance": "2.9 mi",
+      "url": "https://www.google.com/maps/search/Chunky's%20Cinema%20Pub+near+42.986588499999996%2C-71.46166579999999"
+    },
+    {
+      "name": "Apple Cinemas Hooksett IMAX",
+      "distance": "3.9 mi",
+      "url": "https://www.google.com/maps/search/Apple%20Cinemas%20Hooksett%20IMAX+near+42.986588499999996%2C-71.46166579999999",
+      "isFar": true
+    }
+  ],
+  "fun": [
+    {
+      "name": "Granite State Escape",
+      "distance": "0.2 mi",
+      "url": "https://www.google.com/maps/search/Granite%20State%20Escape+near+42.986588499999996%2C-71.46166579999999"
+    },
+    {
+      "name": "Sky Zone Trampoline Park",
+      "distance": "0.6 mi",
+      "url": "https://www.google.com/maps/search/Sky%20Zone%20Trampoline%20Park+near+42.986588499999996%2C-71.46166579999999"
+    },
+    {
+      "name": "Dupont Splash Pad",
+      "distance": "1.5 mi",
+      "url": "https://www.google.com/maps/search/Dupont%20Splash%20Pad+near+42.986588499999996%2C-71.46166579999999"
+    },
+    {
+      "name": "The Break Room NH",
+      "distance": "1.6 mi",
+      "url": "https://www.google.com/maps/search/The%20Break%20Room%20NH+near+42.986588499999996%2C-71.46166579999999"
+    },
+    {
+      "name": "Launch Family Entertainment Manchester",
+      "distance": "1.7 mi",
+      "url": "https://www.google.com/maps/search/Launch%20Family%20Entertainment%20Manchester+near+42.986588499999996%2C-71.46166579999999"
+    },
+    {
+      "name": "LOK'd! Room Escape",
+      "distance": "2.6 mi",
+      "url": "https://www.google.com/maps/search/LOK'd!%20Room%20Escape+near+42.986588499999996%2C-71.46166579999999"
+    },
+    {
+      "name": "Cowabunga's Indoor Kids Play & Party Center - Manchester",
+      "distance": "2.9 mi",
+      "url": "https://www.google.com/maps/search/Cowabunga's%20Indoor%20Kids%20Play%20%26%20Party%20Center%20-%20Manchester+near+42.986588499999996%2C-71.46166579999999"
+    }
+  ],
+  "hotels": [
+    {
+      "name": "Residence Inn by Marriott Manchester Downtown",
+      "distance": "0.1 mi",
+      "url": "https://www.google.com/maps/search/Residence%20Inn%20by%20Marriott%20Manchester%20Downtown+near+42.986588499999996%2C-71.46166579999999"
+    },
+    {
+      "name": "DoubleTree by Hilton Manchester Downtown",
+      "distance": "0.2 mi",
+      "url": "https://www.google.com/maps/search/DoubleTree%20by%20Hilton%20Manchester%20Downtown+near+42.986588499999996%2C-71.46166579999999"
+    },
+    {
+      "name": "Merrimack Street Rooming House Manchester Nh",
+      "distance": "0.3 mi",
+      "url": "https://www.google.com/maps/search/Merrimack%20Street%20Rooming%20House%20Manchester%20Nh+near+42.986588499999996%2C-71.46166579999999"
+    },
+    {
+      "name": "Charming & Historic 2BR Oasis in Downtown Luxury",
+      "distance": "0.3 mi",
+      "url": "https://www.google.com/maps/search/Charming%20%26%20Historic%202BR%20Oasis%20in%20Downtown%20Luxury+near+42.986588499999996%2C-71.46166579999999"
+    },
+    {
+      "name": "Blue door bungalo",
+      "distance": "0.3 mi",
+      "url": "https://www.google.com/maps/search/Blue%20door%20bungalo+near+42.986588499999996%2C-71.46166579999999"
+    },
+    {
+      "name": "Hilton Garden Inn Manchester Downtown",
+      "distance": "0.4 mi",
+      "url": "https://www.google.com/maps/search/Hilton%20Garden%20Inn%20Manchester%20Downtown+near+42.986588499999996%2C-71.46166579999999"
+    },
+    {
+      "name": "Lovely two bedroom apartment with free parking",
+      "distance": "0.4 mi",
+      "url": "https://www.google.com/maps/search/Lovely%20two%20bedroom%20apartment%20with%20free%20parking+near+42.986588499999996%2C-71.46166579999999"
+    }
+  ],
+  "gas": [
+    {
+      "name": "QUALITY FUEL & MART (Smoke , Tobacco &Vape supper store)",
+      "distance": "0.1 mi",
+      "url": "https://www.google.com/maps/search/QUALITY%20FUEL%20%26%20MART%20(Smoke%20%2C%20Tobacco%20%26Vape%20supper%20store)+near+42.986588499999996%2C-71.46166579999999"
+    },
+    {
+      "name": "Quality Fuel",
+      "distance": "0.1 mi",
+      "url": "https://www.google.com/maps/search/Quality%20Fuel+near+42.986588499999996%2C-71.46166579999999"
+    },
+    {
+      "name": "Prime",
+      "distance": "0.3 mi",
+      "url": "https://www.google.com/maps/search/Prime+near+42.986588499999996%2C-71.46166579999999"
+    },
+    {
+      "name": "Brother's Express",
+      "distance": "0.5 mi",
+      "url": "https://www.google.com/maps/search/Brother's%20Express+near+42.986588499999996%2C-71.46166579999999"
+    },
+    {
+      "name": "CITGO",
+      "distance": "0.5 mi",
+      "url": "https://www.google.com/maps/search/CITGO+near+42.986588499999996%2C-71.46166579999999"
+    }
+  ]
+}

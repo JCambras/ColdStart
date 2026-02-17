@@ -1,0 +1,231 @@
+{
+  "quick_bite": [
+    {
+      "name": "Jet's Pizza",
+      "distance": "1.0 mi",
+      "url": "https://www.google.com/maps/search/Jet's%20Pizza+near+42.2545289%2C-83.7789566"
+    },
+    {
+      "name": "Outback Steakhouse",
+      "distance": "1.0 mi",
+      "url": "https://www.google.com/maps/search/Outback%20Steakhouse+near+42.2545289%2C-83.7789566"
+    },
+    {
+      "name": "Taystee's Burgers",
+      "distance": "1.1 mi",
+      "url": "https://www.google.com/maps/search/Taystee's%20Burgers+near+42.2545289%2C-83.7789566"
+    },
+    {
+      "name": "Pancheros Mexican Grill - Ann Arbor Pittsfield",
+      "distance": "1.1 mi",
+      "url": "https://www.google.com/maps/search/Pancheros%20Mexican%20Grill%20-%20Ann%20Arbor%20Pittsfield+near+42.2545289%2C-83.7789566"
+    },
+    {
+      "name": "Marco's Pizza",
+      "distance": "1.1 mi",
+      "url": "https://www.google.com/maps/search/Marco's%20Pizza+near+42.2545289%2C-83.7789566"
+    },
+    {
+      "name": "Happy Wok",
+      "distance": "1.1 mi",
+      "url": "https://www.google.com/maps/search/Happy%20Wok+near+42.2545289%2C-83.7789566"
+    },
+    {
+      "name": "Five Guys",
+      "distance": "1.1 mi",
+      "url": "https://www.google.com/maps/search/Five%20Guys+near+42.2545289%2C-83.7789566"
+    }
+  ],
+  "coffee": [
+    {
+      "name": "Starbucks Coffee Company",
+      "distance": "0.9 mi",
+      "url": "https://www.google.com/maps/search/Starbucks%20Coffee%20Company+near+42.2545289%2C-83.7789566"
+    },
+    {
+      "name": "Starbucks Coffee Company",
+      "distance": "1.1 mi",
+      "url": "https://www.google.com/maps/search/Starbucks%20Coffee%20Company+near+42.2545289%2C-83.7789566"
+    },
+    {
+      "name": "Tim Hortons",
+      "distance": "1.1 mi",
+      "url": "https://www.google.com/maps/search/Tim%20Hortons+near+42.2545289%2C-83.7789566"
+    }
+  ],
+  "team_lunch": [
+    {
+      "name": "Chop Detroit",
+      "distance": "0.1 mi",
+      "url": "https://www.google.com/maps/search/Chop%20Detroit+near+42.2545289%2C-83.7789566"
+    },
+    {
+      "name": "Texas Roadhouse",
+      "distance": "1.1 mi",
+      "url": "https://www.google.com/maps/search/Texas%20Roadhouse+near+42.2545289%2C-83.7789566"
+    },
+    {
+      "name": "Applebee's Grill + Bar",
+      "distance": "1.1 mi",
+      "url": "https://www.google.com/maps/search/Applebee's%20Grill%20%2B%20Bar+near+42.2545289%2C-83.7789566"
+    }
+  ],
+  "dinner": [
+    {
+      "name": "Tacos El Mariachi Loco",
+      "distance": "0.2 mi",
+      "url": "https://www.google.com/maps/search/Tacos%20El%20Mariachi%20Loco+near+42.2545289%2C-83.7789566"
+    },
+    {
+      "name": "Everest Sherpa Restaurant",
+      "distance": "0.8 mi",
+      "url": "https://www.google.com/maps/search/Everest%20Sherpa%20Restaurant+near+42.2545289%2C-83.7789566"
+    },
+    {
+      "name": "Godaiko",
+      "distance": "1.0 mi",
+      "url": "https://www.google.com/maps/search/Godaiko+near+42.2545289%2C-83.7789566"
+    },
+    {
+      "name": "First Watch",
+      "distance": "1.0 mi",
+      "url": "https://www.google.com/maps/search/First%20Watch+near+42.2545289%2C-83.7789566"
+    },
+    {
+      "name": "ARIRANG KOREAN RESTAURANT",
+      "distance": "1.0 mi",
+      "url": "https://www.google.com/maps/search/ARIRANG%20KOREAN%20RESTAURANT+near+42.2545289%2C-83.7789566"
+    },
+    {
+      "name": "Nick's Original House Of Pancakes",
+      "distance": "1.1 mi",
+      "url": "https://www.google.com/maps/search/Nick's%20Original%20House%20Of%20Pancakes+near+42.2545289%2C-83.7789566"
+    },
+    {
+      "name": "Buddy's Pizza",
+      "distance": "1.1 mi",
+      "url": "https://www.google.com/maps/search/Buddy's%20Pizza+near+42.2545289%2C-83.7789566"
+    }
+  ],
+  "bowling": [
+    {
+      "name": "Revel and Roll",
+      "distance": "2.1 mi",
+      "url": "https://www.google.com/maps/search/Revel%20and%20Roll+near+42.2545289%2C-83.7789566"
+    },
+    {
+      "name": "Station 300 Saline",
+      "distance": "5.0 mi",
+      "url": "https://www.google.com/maps/search/Station%20300%20Saline+near+42.2545289%2C-83.7789566",
+      "isFar": true
+    }
+  ],
+  "arcade": [],
+  "movies": [
+    {
+      "name": "Michigan Theater",
+      "distance": "2.6 mi",
+      "url": "https://www.google.com/maps/search/Michigan%20Theater+near+42.2545289%2C-83.7789566"
+    },
+    {
+      "name": "The State Theatre",
+      "distance": "2.6 mi",
+      "url": "https://www.google.com/maps/search/The%20State%20Theatre+near+42.2545289%2C-83.7789566"
+    }
+  ],
+  "fun": [
+    {
+      "name": "Launch Family Entertainment - Ann Arbor",
+      "distance": "1.3 mi",
+      "url": "https://www.google.com/maps/search/Launch%20Family%20Entertainment%20-%20Ann%20Arbor+near+42.2545289%2C-83.7789566"
+    },
+    {
+      "name": "Argo Cascades",
+      "distance": "3.1 mi",
+      "url": "https://www.google.com/maps/search/Argo%20Cascades+near+42.2545289%2C-83.7789566",
+      "isFar": true
+    },
+    {
+      "name": "Clueless Escape Rooms",
+      "distance": "3.5 mi",
+      "url": "https://www.google.com/maps/search/Clueless%20Escape%20Rooms+near+42.2545289%2C-83.7789566",
+      "isFar": true
+    },
+    {
+      "name": "Shaun Fyall Memorial Gazebo",
+      "distance": "3.6 mi",
+      "url": "https://www.google.com/maps/search/Shaun%20Fyall%20Memorial%20Gazebo+near+42.2545289%2C-83.7789566",
+      "isFar": true
+    },
+    {
+      "name": "Decode Ann Arbor - #2 in the USA",
+      "distance": "4.3 mi",
+      "url": "https://www.google.com/maps/search/Decode%20Ann%20Arbor%20-%20%232%20in%20the%20USA+near+42.2545289%2C-83.7789566",
+      "isFar": true
+    }
+  ],
+  "hotels": [
+    {
+      "name": "Close to Everything",
+      "distance": "0.2 mi",
+      "url": "https://www.google.com/maps/search/Close%20to%20Everything+near+42.2545289%2C-83.7789566"
+    },
+    {
+      "name": "Warm light-filled home with gym",
+      "distance": "0.3 mi",
+      "url": "https://www.google.com/maps/search/Warm%20light-filled%20home%20with%20gym+near+42.2545289%2C-83.7789566"
+    },
+    {
+      "name": "Renovated 3 bed/2.5 bath with fast wifi & 100\" projector near the BIG HOUSE!",
+      "distance": "0.3 mi",
+      "url": "https://www.google.com/maps/search/Renovated%203%20bed%2F2.5%20bath%20with%20fast%20wifi%20%26%20100%22%20projector%20near%20the%20BIG%20HOUSE!+near+42.2545289%2C-83.7789566"
+    },
+    {
+      "name": "Renovated 3 bed/2.5 bath with fast wifi & 100\\\" projector near the BIG HOUSE!",
+      "distance": "0.3 mi",
+      "url": "https://www.google.com/maps/search/Renovated%203%20bed%2F2.5%20bath%20with%20fast%20wifi%20%26%20100%5C%22%20projector%20near%20the%20BIG%20HOUSE!+near+42.2545289%2C-83.7789566"
+    },
+    {
+      "name": "Renovated 3 bed /2.5 bath with fast wifi 100\\\" projector near the BIG HOUSE!",
+      "distance": "0.3 mi",
+      "url": "https://www.google.com/maps/search/Renovated%203%20bed%20%2F2.5%20bath%20with%20fast%20wifi%20100%5C%22%20projector%20near%20the%20BIG%20HOUSE!+near+42.2545289%2C-83.7789566"
+    },
+    {
+      "name": "Renovated 3 bed/2.5 bath with fast wifi & 100\" projector near the BIG HOUSE!",
+      "distance": "0.4 mi",
+      "url": "https://www.google.com/maps/search/Renovated%203%20bed%2F2.5%20bath%20with%20fast%20wifi%20%26%20100%22%20projector%20near%20the%20BIG%20HOUSE!+near+42.2545289%2C-83.7789566"
+    },
+    {
+      "name": "“MI CASA ES SU CASAANN ARBOR’S PREMIER EXECUTIVE RANCH! 1.7 MI TO THE BIG HOUSE",
+      "distance": "0.4 mi",
+      "url": "https://www.google.com/maps/search/%E2%80%9CMI%20CASA%20ES%20SU%20CASAANN%20ARBOR%E2%80%99S%20PREMIER%20EXECUTIVE%20RANCH!%201.7%20MI%20TO%20THE%20BIG%20HOUSE+near+42.2545289%2C-83.7789566"
+    }
+  ],
+  "gas": [
+    {
+      "name": "Shell",
+      "distance": "1.1 mi",
+      "url": "https://www.google.com/maps/search/Shell+near+42.2545289%2C-83.7789566"
+    },
+    {
+      "name": "Speedway",
+      "distance": "1.1 mi",
+      "url": "https://www.google.com/maps/search/Speedway+near+42.2545289%2C-83.7789566"
+    },
+    {
+      "name": "Marathon Gas",
+      "distance": "1.6 mi",
+      "url": "https://www.google.com/maps/search/Marathon%20Gas+near+42.2545289%2C-83.7789566"
+    },
+    {
+      "name": "Shell",
+      "distance": "1.8 mi",
+      "url": "https://www.google.com/maps/search/Shell+near+42.2545289%2C-83.7789566"
+    },
+    {
+      "name": "Mobil",
+      "distance": "2.0 mi",
+      "url": "https://www.google.com/maps/search/Mobil+near+42.2545289%2C-83.7789566"
+    }
+  ]
+}

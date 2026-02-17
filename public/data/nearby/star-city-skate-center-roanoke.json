@@ -1,0 +1,159 @@
+{
+  "quick_bite": [
+    {
+      "name": "Subway",
+      "distance": "0.7 mi",
+      "url": "https://www.google.com/maps/search/Subway+near+37.322591599999996%2C-79.9371219"
+    },
+    {
+      "name": "Arby's",
+      "distance": "0.9 mi",
+      "url": "https://www.google.com/maps/search/Arby's+near+37.322591599999996%2C-79.9371219"
+    },
+    {
+      "name": "KFC",
+      "distance": "0.9 mi",
+      "url": "https://www.google.com/maps/search/KFC+near+37.322591599999996%2C-79.9371219"
+    }
+  ],
+  "coffee": [],
+  "team_lunch": [
+    {
+      "name": "Bless Ya Soul",
+      "distance": "0.9 mi",
+      "url": "https://www.google.com/maps/search/Bless%20Ya%20Soul+near+37.322591599999996%2C-79.9371219"
+    },
+    {
+      "name": "Papa Johns Pizza",
+      "distance": "1.0 mi",
+      "url": "https://www.google.com/maps/search/Papa%20Johns%20Pizza+near+37.322591599999996%2C-79.9371219"
+    }
+  ],
+  "dinner": [
+    {
+      "name": "China Star Chinese Restaurant",
+      "distance": "0.2 mi",
+      "url": "https://www.google.com/maps/search/China%20Star%20Chinese%20Restaurant+near+37.322591599999996%2C-79.9371219"
+    },
+    {
+      "name": "Chinito Hondureño",
+      "distance": "0.7 mi",
+      "url": "https://www.google.com/maps/search/Chinito%20Hondure%C3%B1o+near+37.322591599999996%2C-79.9371219"
+    },
+    {
+      "name": "Warehouse Billiards Sports Bar and Grill",
+      "distance": "0.8 mi",
+      "url": "https://www.google.com/maps/search/Warehouse%20Billiards%20Sports%20Bar%20and%20Grill+near+37.322591599999996%2C-79.9371219"
+    },
+    {
+      "name": "Tropicana Bar and Grill",
+      "distance": "0.9 mi",
+      "url": "https://www.google.com/maps/search/Tropicana%20Bar%20and%20Grill+near+37.322591599999996%2C-79.9371219"
+    },
+    {
+      "name": "Papa D's",
+      "distance": "0.9 mi",
+      "url": "https://www.google.com/maps/search/Papa%20D's+near+37.322591599999996%2C-79.9371219"
+    },
+    {
+      "name": "Hunt Brothers Pizza",
+      "distance": "0.9 mi",
+      "url": "https://www.google.com/maps/search/Hunt%20Brothers%20Pizza+near+37.322591599999996%2C-79.9371219"
+    }
+  ],
+  "bowling": [
+    {
+      "name": "AMF Hilltop Lanes",
+      "distance": "1.1 mi",
+      "url": "https://www.google.com/maps/search/AMF%20Hilltop%20Lanes+near+37.322591599999996%2C-79.9371219"
+    },
+    {
+      "name": "Vinton Bowling Center",
+      "distance": "4.6 mi",
+      "url": "https://www.google.com/maps/search/Vinton%20Bowling%20Center+near+37.322591599999996%2C-79.9371219",
+      "isFar": true
+    }
+  ],
+  "arcade": [],
+  "movies": [
+    {
+      "name": "Regal Valley View Grande",
+      "distance": "1.9 mi",
+      "url": "https://www.google.com/maps/search/Regal%20Valley%20View%20Grande+near+37.322591599999996%2C-79.9371219"
+    },
+    {
+      "name": "Megadome Theatre",
+      "distance": "3.5 mi",
+      "url": "https://www.google.com/maps/search/Megadome%20Theatre+near+37.322591599999996%2C-79.9371219",
+      "isFar": true
+    },
+    {
+      "name": "The Grandin Theatre",
+      "distance": "4.5 mi",
+      "url": "https://www.google.com/maps/search/The%20Grandin%20Theatre+near+37.322591599999996%2C-79.9371219",
+      "isFar": true
+    }
+  ],
+  "fun": [
+    {
+      "name": "Sky Zone Trampoline Park",
+      "distance": "1.4 mi",
+      "url": "https://www.google.com/maps/search/Sky%20Zone%20Trampoline%20Park+near+37.322591599999996%2C-79.9371219"
+    },
+    {
+      "name": "All In Adventures Escape Rooms",
+      "distance": "1.9 mi",
+      "url": "https://www.google.com/maps/search/All%20In%20Adventures%20Escape%20Rooms+near+37.322591599999996%2C-79.9371219"
+    },
+    {
+      "name": "Bounce Roanoke",
+      "distance": "2.7 mi",
+      "url": "https://www.google.com/maps/search/Bounce%20Roanoke+near+37.322591599999996%2C-79.9371219"
+    },
+    {
+      "name": "Splash Valley",
+      "distance": "3.3 mi",
+      "url": "https://www.google.com/maps/search/Splash%20Valley+near+37.322591599999996%2C-79.9371219",
+      "isFar": true
+    }
+  ],
+  "hotels": [
+    {
+      "name": "Experience Hollins charm near Hollins University",
+      "distance": "0.6 mi",
+      "url": "https://www.google.com/maps/search/Experience%20Hollins%20charm%20near%20Hollins%20University+near+37.322591599999996%2C-79.9371219"
+    },
+    {
+      "name": "Affordable Corporate Suites",
+      "distance": "0.9 mi",
+      "url": "https://www.google.com/maps/search/Affordable%20Corporate%20Suites+near+37.322591599999996%2C-79.9371219"
+    },
+    {
+      "name": "American Motel LLC",
+      "distance": "1.1 mi",
+      "url": "https://www.google.com/maps/search/American%20Motel%20LLC+near+37.322591599999996%2C-79.9371219"
+    }
+  ],
+  "gas": [
+    {
+      "name": "76",
+      "distance": "0.1 mi",
+      "url": "https://www.google.com/maps/search/76+near+37.322591599999996%2C-79.9371219"
+    },
+    {
+      "name": "LIBERTY",
+      "distance": "0.1 mi",
+      "url": "https://www.google.com/maps/search/LIBERTY+near+37.322591599999996%2C-79.9371219"
+    },
+    {
+      "name": "Walmart Fuel & Convenience",
+      "distance": "0.1 mi",
+      "url": "https://www.google.com/maps/search/Walmart%20Fuel%20%26%20Convenience+near+37.322591599999996%2C-79.9371219"
+    },
+    {
+      "name": "Citgo",
+      "distance": "0.8 mi",
+      "url": "https://www.google.com/maps/search/Citgo+near+37.322591599999996%2C-79.9371219"
+    }
+  ]
+}

@@ -1,0 +1,198 @@
+{
+  "quick_bite": [
+    {
+      "name": "Arby's",
+      "distance": "2.4 mi",
+      "url": "https://www.google.com/maps/search/Arby's+near+39.4874505%2C-118.85190709999999"
+    },
+    {
+      "name": "Pizza Factory",
+      "distance": "2.6 mi",
+      "url": "https://www.google.com/maps/search/Pizza%20Factory+near+39.4874505%2C-118.85190709999999"
+    },
+    {
+      "name": "Burger King",
+      "distance": "2.7 mi",
+      "url": "https://www.google.com/maps/search/Burger%20King+near+39.4874505%2C-118.85190709999999"
+    },
+    {
+      "name": "Sonic Drive-In",
+      "distance": "2.7 mi",
+      "url": "https://www.google.com/maps/search/Sonic%20Drive-In+near+39.4874505%2C-118.85190709999999"
+    }
+  ],
+  "coffee": [
+    {
+      "name": "Station 50 Sip & Swirl",
+      "distance": "2.7 mi",
+      "url": "https://www.google.com/maps/search/Station%2050%20Sip%20%26%20Swirl+near+39.4874505%2C-118.85190709999999"
+    },
+    {
+      "name": "McDonald's",
+      "distance": "2.8 mi",
+      "url": "https://www.google.com/maps/search/McDonald's+near+39.4874505%2C-118.85190709999999"
+    },
+    {
+      "name": "Telegraph Coffee & Tap",
+      "distance": "3.0 mi",
+      "url": "https://www.google.com/maps/search/Telegraph%20Coffee%20%26%20Tap+near+39.4874505%2C-118.85190709999999",
+      "isFar": true
+    }
+  ],
+  "team_lunch": [
+    {
+      "name": "Walmart Bakery",
+      "distance": "2.6 mi",
+      "url": "https://www.google.com/maps/search/Walmart%20Bakery+near+39.4874505%2C-118.85190709999999"
+    },
+    {
+      "name": "Alert 30 Pizza",
+      "distance": "2.8 mi",
+      "url": "https://www.google.com/maps/search/Alert%2030%20Pizza+near+39.4874505%2C-118.85190709999999"
+    },
+    {
+      "name": "Pizza Barn",
+      "distance": "2.9 mi",
+      "url": "https://www.google.com/maps/search/Pizza%20Barn+near+39.4874505%2C-118.85190709999999"
+    },
+    {
+      "name": "Jerry's Restaurant",
+      "distance": "3.0 mi",
+      "url": "https://www.google.com/maps/search/Jerry's%20Restaurant+near+39.4874505%2C-118.85190709999999",
+      "isFar": true
+    }
+  ],
+  "dinner": [
+    {
+      "name": "Vn pho fallon",
+      "distance": "2.6 mi",
+      "url": "https://www.google.com/maps/search/Vn%20pho%20fallon+near+39.4874505%2C-118.85190709999999"
+    },
+    {
+      "name": "Getto Subs",
+      "distance": "2.6 mi",
+      "url": "https://www.google.com/maps/search/Getto%20Subs+near+39.4874505%2C-118.85190709999999"
+    },
+    {
+      "name": "Mendoza's Carniceria Taqueria",
+      "distance": "2.7 mi",
+      "url": "https://www.google.com/maps/search/Mendoza's%20Carniceria%20Taqueria+near+39.4874505%2C-118.85190709999999"
+    },
+    {
+      "name": "The Grid Fallon",
+      "distance": "2.7 mi",
+      "url": "https://www.google.com/maps/search/The%20Grid%20Fallon+near+39.4874505%2C-118.85190709999999"
+    },
+    {
+      "name": "Bayou Bites",
+      "distance": "2.8 mi",
+      "url": "https://www.google.com/maps/search/Bayou%20Bites+near+39.4874505%2C-118.85190709999999"
+    },
+    {
+      "name": "The Grid Poke",
+      "distance": "2.8 mi",
+      "url": "https://www.google.com/maps/search/The%20Grid%20Poke+near+39.4874505%2C-118.85190709999999"
+    },
+    {
+      "name": "Julio's",
+      "distance": "2.9 mi",
+      "url": "https://www.google.com/maps/search/Julio's+near+39.4874505%2C-118.85190709999999"
+    }
+  ],
+  "bowling": [
+    {
+      "name": "Sage Brush Bowling Alley",
+      "distance": "8.3 mi",
+      "url": "https://www.google.com/maps/search/Sage%20Brush%20Bowling%20Alley+near+39.4874505%2C-118.85190709999999",
+      "isFar": true
+    }
+  ],
+  "arcade": [],
+  "movies": [
+    {
+      "name": "Fallon Theatres",
+      "distance": "4.1 mi",
+      "url": "https://www.google.com/maps/search/Fallon%20Theatres+near+39.4874505%2C-118.85190709999999",
+      "isFar": true
+    },
+    {
+      "name": "Fox Peak Cinema",
+      "distance": "4.4 mi",
+      "url": "https://www.google.com/maps/search/Fox%20Peak%20Cinema+near+39.4874505%2C-118.85190709999999",
+      "isFar": true
+    },
+    {
+      "name": "NAS Fallon Movie Theater",
+      "distance": "8.2 mi",
+      "url": "https://www.google.com/maps/search/NAS%20Fallon%20Movie%20Theater+near+39.4874505%2C-118.85190709999999",
+      "isFar": true
+    }
+  ],
+  "fun": [],
+  "hotels": [
+    {
+      "name": "Sage Valley RV Park, Mobile Home Community",
+      "distance": "0.1 mi",
+      "url": "https://www.google.com/maps/search/Sage%20Valley%20RV%20Park%2C%20Mobile%20Home%20Community+near+39.4874505%2C-118.85190709999999"
+    },
+    {
+      "name": "Fallon RV Park Country Store",
+      "distance": "1.1 mi",
+      "url": "https://www.google.com/maps/search/Fallon%20RV%20Park%20Country%20Store+near+39.4874505%2C-118.85190709999999"
+    },
+    {
+      "name": "West Star Mobile Park",
+      "distance": "2.8 mi",
+      "url": "https://www.google.com/maps/search/West%20Star%20Mobile%20Park+near+39.4874505%2C-118.85190709999999"
+    },
+    {
+      "name": "Oasis Inn & Suites",
+      "distance": "2.9 mi",
+      "url": "https://www.google.com/maps/search/Oasis%20Inn%20%26%20Suites+near+39.4874505%2C-118.85190709999999"
+    },
+    {
+      "name": "Comfort Inn & Suites Near Fallon Naval Air Station",
+      "distance": "3.0 mi",
+      "url": "https://www.google.com/maps/search/Comfort%20Inn%20%26%20Suites%20Near%20Fallon%20Naval%20Air%20Station+near+39.4874505%2C-118.85190709999999"
+    },
+    {
+      "name": "Holiday Inn Express Fallon by IHG",
+      "distance": "3.2 mi",
+      "url": "https://www.google.com/maps/search/Holiday%20Inn%20Express%20Fallon%20by%20IHG+near+39.4874505%2C-118.85190709999999",
+      "isFar": true
+    },
+    {
+      "name": "Quality Inn & Suites near NAS Fallon",
+      "distance": "3.4 mi",
+      "url": "https://www.google.com/maps/search/Quality%20Inn%20%26%20Suites%20near%20NAS%20Fallon+near+39.4874505%2C-118.85190709999999",
+      "isFar": true
+    }
+  ],
+  "gas": [
+    {
+      "name": "Skip's Mini-Market",
+      "distance": "0.3 mi",
+      "url": "https://www.google.com/maps/search/Skip's%20Mini-Market+near+39.4874505%2C-118.85190709999999"
+    },
+    {
+      "name": "76",
+      "distance": "0.4 mi",
+      "url": "https://www.google.com/maps/search/76+near+39.4874505%2C-118.85190709999999"
+    },
+    {
+      "name": "Sinclair Gas Station",
+      "distance": "1.1 mi",
+      "url": "https://www.google.com/maps/search/Sinclair%20Gas%20Station+near+39.4874505%2C-118.85190709999999"
+    },
+    {
+      "name": "Chevron",
+      "distance": "2.9 mi",
+      "url": "https://www.google.com/maps/search/Chevron+near+39.4874505%2C-118.85190709999999"
+    },
+    {
+      "name": "Golden Gate",
+      "distance": "3.1 mi",
+      "url": "https://www.google.com/maps/search/Golden%20Gate+near+39.4874505%2C-118.85190709999999"
+    }
+  ]
+}

@@ -1,0 +1,220 @@
+{
+  "quick_bite": [
+    {
+      "name": "Uptown wings+",
+      "distance": "0.3 mi",
+      "url": "https://www.google.com/maps/search/Uptown%20wings%2B+near+34.1076571%2C-84.0361966"
+    },
+    {
+      "name": "Panadería Del Valle Bakery",
+      "distance": "0.4 mi",
+      "url": "https://www.google.com/maps/search/Panader%C3%ADa%20Del%20Valle%20Bakery+near+34.1076571%2C-84.0361966"
+    },
+    {
+      "name": "Popeyes Louisiana Kitchen",
+      "distance": "1.4 mi",
+      "url": "https://www.google.com/maps/search/Popeyes%20Louisiana%20Kitchen+near+34.1076571%2C-84.0361966"
+    }
+  ],
+  "coffee": [
+    {
+      "name": "Starbucks Coffee Company",
+      "distance": "0.1 mi",
+      "url": "https://www.google.com/maps/search/Starbucks%20Coffee%20Company+near+34.1076571%2C-84.0361966"
+    },
+    {
+      "name": "Rushing Trading Co.",
+      "distance": "0.1 mi",
+      "url": "https://www.google.com/maps/search/Rushing%20Trading%20Co.+near+34.1076571%2C-84.0361966"
+    },
+    {
+      "name": "Dunkin'",
+      "distance": "1.4 mi",
+      "url": "https://www.google.com/maps/search/Dunkin'+near+34.1076571%2C-84.0361966"
+    }
+  ],
+  "team_lunch": [
+    {
+      "name": "Home Spun Restaurant",
+      "distance": "0.3 mi",
+      "url": "https://www.google.com/maps/search/Home%20Spun%20Restaurant+near+34.1076571%2C-84.0361966"
+    },
+    {
+      "name": "To Go",
+      "distance": "0.9 mi",
+      "url": "https://www.google.com/maps/search/To%20Go+near+34.1076571%2C-84.0361966"
+    },
+    {
+      "name": "Applebee's Grill + Bar",
+      "distance": "1.0 mi",
+      "url": "https://www.google.com/maps/search/Applebee's%20Grill%20%2B%20Bar+near+34.1076571%2C-84.0361966"
+    },
+    {
+      "name": "Tookie Cookies",
+      "distance": "1.1 mi",
+      "url": "https://www.google.com/maps/search/Tookie%20Cookies+near+34.1076571%2C-84.0361966"
+    }
+  ],
+  "dinner": [
+    {
+      "name": "August Swine BBQ",
+      "distance": "0.1 mi",
+      "url": "https://www.google.com/maps/search/August%20Swine%20BBQ+near+34.1076571%2C-84.0361966"
+    },
+    {
+      "name": "Playa Bowls",
+      "distance": "0.1 mi",
+      "url": "https://www.google.com/maps/search/Playa%20Bowls+near+34.1076571%2C-84.0361966"
+    },
+    {
+      "name": "Shine Pizza",
+      "distance": "0.1 mi",
+      "url": "https://www.google.com/maps/search/Shine%20Pizza+near+34.1076571%2C-84.0361966"
+    },
+    {
+      "name": "Ramen Studio",
+      "distance": "0.1 mi",
+      "url": "https://www.google.com/maps/search/Ramen%20Studio+near+34.1076571%2C-84.0361966"
+    },
+    {
+      "name": "Rreal Tacos - Sugar Hill",
+      "distance": "0.1 mi",
+      "url": "https://www.google.com/maps/search/Rreal%20Tacos%20-%20Sugar%20Hill+near+34.1076571%2C-84.0361966"
+    },
+    {
+      "name": "El Rinconcito",
+      "distance": "0.2 mi",
+      "url": "https://www.google.com/maps/search/El%20Rinconcito+near+34.1076571%2C-84.0361966"
+    },
+    {
+      "name": "La Perla Del Ulua \"latin flavor\"",
+      "distance": "0.2 mi",
+      "url": "https://www.google.com/maps/search/La%20Perla%20Del%20Ulua%20%22latin%20flavor%22+near+34.1076571%2C-84.0361966"
+    }
+  ],
+  "bowling": [
+    {
+      "name": "Andretti Indoor Karting & Games Buford",
+      "distance": "4.5 mi",
+      "url": "https://www.google.com/maps/search/Andretti%20Indoor%20Karting%20%26%20Games%20Buford+near+34.1076571%2C-84.0361966",
+      "isFar": true
+    }
+  ],
+  "arcade": [],
+  "movies": [
+    {
+      "name": "Regal Mall Of Georgia",
+      "distance": "4.1 mi",
+      "url": "https://www.google.com/maps/search/Regal%20Mall%20Of%20Georgia+near+34.1076571%2C-84.0361966",
+      "isFar": true
+    }
+  ],
+  "fun": [
+    {
+      "name": "Sky Zone Trampoline Park",
+      "distance": "3.6 mi",
+      "url": "https://www.google.com/maps/search/Sky%20Zone%20Trampoline%20Park+near+34.1076571%2C-84.0361966",
+      "isFar": true
+    },
+    {
+      "name": "Urban Air Trampoline and Adventure Park",
+      "distance": "3.7 mi",
+      "url": "https://www.google.com/maps/search/Urban%20Air%20Trampoline%20and%20Adventure%20Park+near+34.1076571%2C-84.0361966",
+      "isFar": true
+    },
+    {
+      "name": "Billy Beez Mall of Georgia",
+      "distance": "4.2 mi",
+      "url": "https://www.google.com/maps/search/Billy%20Beez%20Mall%20of%20Georgia+near+34.1076571%2C-84.0361966",
+      "isFar": true
+    },
+    {
+      "name": "Paranoia Quest Escape the Room",
+      "distance": "4.2 mi",
+      "url": "https://www.google.com/maps/search/Paranoia%20Quest%20Escape%20the%20Room+near+34.1076571%2C-84.0361966",
+      "isFar": true
+    },
+    {
+      "name": "FUNBOX BUFORD - MALL OF GEORGIA (Outside Dick’s Sporting Goods)",
+      "distance": "4.4 mi",
+      "url": "https://www.google.com/maps/search/FUNBOX%20BUFORD%20-%20MALL%20OF%20GEORGIA%20(Outside%20Dick%E2%80%99s%20Sporting%20Goods)+near+34.1076571%2C-84.0361966",
+      "isFar": true
+    },
+    {
+      "name": "Odyssey Escape Game",
+      "distance": "4.4 mi",
+      "url": "https://www.google.com/maps/search/Odyssey%20Escape%20Game+near+34.1076571%2C-84.0361966",
+      "isFar": true
+    },
+    {
+      "name": "Margaritaville Lake Lanier",
+      "distance": "4.6 mi",
+      "url": "https://www.google.com/maps/search/Margaritaville%20Lake%20Lanier+near+34.1076571%2C-84.0361966",
+      "isFar": true
+    }
+  ],
+  "hotels": [
+    {
+      "name": "Charming 4-bedroom townhome in Sugar Hill/Buford",
+      "distance": "0.1 mi",
+      "url": "https://www.google.com/maps/search/Charming%204-bedroom%20townhome%20in%20Sugar%20Hill%2FBuford+near+34.1076571%2C-84.0361966"
+    },
+    {
+      "name": "Landing | Stylish 2BD, Clubhouse, Gym",
+      "distance": "0.2 mi",
+      "url": "https://www.google.com/maps/search/Landing%20%7C%20Stylish%202BD%2C%20Clubhouse%2C%20Gym+near+34.1076571%2C-84.0361966"
+    },
+    {
+      "name": "Landing | Chic 1BD, Clubhouse, Gym",
+      "distance": "0.2 mi",
+      "url": "https://www.google.com/maps/search/Landing%20%7C%20Chic%201BD%2C%20Clubhouse%2C%20Gym+near+34.1076571%2C-84.0361966"
+    },
+    {
+      "name": "Landing | Beautiful 2BD, Clubhouse, Yoga Studio",
+      "distance": "0.2 mi",
+      "url": "https://www.google.com/maps/search/Landing%20%7C%20Beautiful%202BD%2C%20Clubhouse%2C%20Yoga%20Studio+near+34.1076571%2C-84.0361966"
+    },
+    {
+      "name": "Landing | Chic 2BD, Yoga Studio, Clubhouse",
+      "distance": "0.2 mi",
+      "url": "https://www.google.com/maps/search/Landing%20%7C%20Chic%202BD%2C%20Yoga%20Studio%2C%20Clubhouse+near+34.1076571%2C-84.0361966"
+    },
+    {
+      "name": "Landing | Stunning 1BD, Yoga Studio, Clubhouse",
+      "distance": "0.2 mi",
+      "url": "https://www.google.com/maps/search/Landing%20%7C%20Stunning%201BD%2C%20Yoga%20Studio%2C%20Clubhouse+near+34.1076571%2C-84.0361966"
+    },
+    {
+      "name": "Landing | Spectacular 2BD, Gym, Clubhouse",
+      "distance": "0.2 mi",
+      "url": "https://www.google.com/maps/search/Landing%20%7C%20Spectacular%202BD%2C%20Gym%2C%20Clubhouse+near+34.1076571%2C-84.0361966"
+    }
+  ],
+  "gas": [
+    {
+      "name": "RaceTrac",
+      "distance": "0.3 mi",
+      "url": "https://www.google.com/maps/search/RaceTrac+near+34.1076571%2C-84.0361966"
+    },
+    {
+      "name": "Shell",
+      "distance": "0.4 mi",
+      "url": "https://www.google.com/maps/search/Shell+near+34.1076571%2C-84.0361966"
+    },
+    {
+      "name": "bp",
+      "distance": "0.9 mi",
+      "url": "https://www.google.com/maps/search/bp+near+34.1076571%2C-84.0361966"
+    },
+    {
+      "name": "Shell",
+      "distance": "1.4 mi",
+      "url": "https://www.google.com/maps/search/Shell+near+34.1076571%2C-84.0361966"
+    },
+    {
+      "name": "Chevron",
+      "distance": "1.6 mi",
+      "url": "https://www.google.com/maps/search/Chevron+near+34.1076571%2C-84.0361966"
+    }
+  ]
+}

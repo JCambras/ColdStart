@@ -1,0 +1,197 @@
+{
+  "quick_bite": [
+    {
+      "name": "Jimmy John's",
+      "distance": "0.9 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Jimmy%20John's&query_place_id=ChIJqRypc3vHD4gRqyB-f_gRlxw&center=42.1072103,-87.8480185"
+    },
+    {
+      "name": "ZENSHI Handcrafted Sushi",
+      "distance": "1.1 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=ZENSHI%20Handcrafted%20Sushi&query_place_id=ChIJJWFlG3DHD4gRh3hQHaoZ_yY&center=42.10442030000001,-87.8457294"
+    },
+    {
+      "name": "Popeyes Louisiana Kitchen",
+      "distance": "1.1 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Popeyes%20Louisiana%20Kitchen&query_place_id=ChIJFaApb23HD4gRGOCwEJmZIXY&center=42.1041257,-87.8472053"
+    },
+    {
+      "name": "Viccino's Pizza Company",
+      "distance": "1.2 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Viccino's%20Pizza%20Company&query_place_id=ChIJd4kGmXvHD4gRYj-y5drJa9U&center=42.104107899999995,-87.8461629"
+    },
+    {
+      "name": "Chicago Pizza Authority",
+      "distance": "1.2 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Chicago%20Pizza%20Authority&query_place_id=ChIJoYW5Jp-5D4gRUYpliYfxX-M&center=42.1370708,-87.856669"
+    }
+  ],
+  "coffee": [
+    {
+      "name": "Starbucks",
+      "distance": "1.0 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Starbucks&query_place_id=ChIJqx1NKgDHD4gRcM47s3L05O4&center=42.1061682,-87.8485134"
+    },
+    {
+      "name": "Starbucks Coffee Company",
+      "distance": "1.0 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Starbucks%20Coffee%20Company&query_place_id=ChIJuQ9yZnrHD4gRH0s9VZV1mwE&center=42.105959999999996,-87.84763"
+    },
+    {
+      "name": "Einstein Bros. Bagels",
+      "distance": "1.1 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Einstein%20Bros.%20Bagels&query_place_id=ChIJYXmmdXvHD4gRtBayfzLdYKM&center=42.105288900000005,-87.847762"
+    }
+  ],
+  "team_lunch": [
+    {
+      "name": "Chips 'n Dough",
+      "distance": "0.4 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Chips%20'n%20Dough&query_place_id=ChIJn-oRDgPHD4gReB38EaItDG0&center=42.1153756,-87.8540615"
+    },
+    {
+      "name": "Szechwan North",
+      "distance": "0.9 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Szechwan%20North&query_place_id=ChIJKfCmc3vHD4gRAcoVRclExeY&center=42.1072391,-87.8478342"
+    },
+    {
+      "name": "Rosati's Pizza",
+      "distance": "1.2 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Rosati's%20Pizza&query_place_id=ChIJU7clu6zAD4gRDM9KtYLi7g0&center=42.1378639,-87.8493929"
+    },
+    {
+      "name": "Tasty Breads International",
+      "distance": "1.7 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Tasty%20Breads%20International&query_place_id=ChIJNWLK1wvHD4gRLgnRwaIfaLA&center=42.100246999999996,-87.830488"
+    }
+  ],
+  "dinner": [
+    {
+      "name": "The Noob Baker, LLC",
+      "distance": "0.4 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=The%20Noob%20Baker%2C%20LLC&query_place_id=ChIJk7Z2yYO5D4gR3TQdduwm4WQ&center=42.1196525,-87.8589904"
+    },
+    {
+      "name": "La Taquiza Glenview",
+      "distance": "1.0 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=La%20Taquiza%20Glenview&query_place_id=ChIJxfGX2XrHD4gRVz5zVBBwdkg&center=42.1067724,-87.8473752"
+    },
+    {
+      "name": "Blufish",
+      "distance": "1.1 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Blufish&query_place_id=ChIJ7yQy63vHD4gR9RTVl92EmFA&center=42.1043109,-87.8484919"
+    },
+    {
+      "name": "Social Inn",
+      "distance": "1.1 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Social%20Inn&query_place_id=ChIJM2VYs3vHD4gRIvHqJJv7VR0&center=42.1041138,-87.8476546"
+    },
+    {
+      "name": "Poke Bros.",
+      "distance": "1.1 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Poke%20Bros.&query_place_id=ChIJj_AvAAzHD4gRYm9WHoUmDF4&center=42.104117099999996,-87.8471598"
+    },
+    {
+      "name": "Maharaj Indian Grill",
+      "distance": "1.2 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Maharaj%20Indian%20Grill&query_place_id=ChIJt2t7O-G5D4gRk1Papf9hQ0Y&center=42.1371799,-87.8561517"
+    }
+  ],
+  "bowling": [
+    {
+      "name": "Pinheads Jeffery Lanes",
+      "distance": "3.6 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Pinheads%20Jeffery%20Lanes&query_place_id=ChIJbaJ3vrW-D4gR351jGHF7_A4&center=42.1417557,-87.9151923",
+      "isFar": true
+    }
+  ],
+  "arcade": [],
+  "movies": [
+    {
+      "name": "Landmark at The Glen",
+      "distance": "2.6 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Landmark%20at%20The%20Glen&query_place_id=ChIJ14WOaCfHD4gRM4dNZ_MJ0vU&center=42.0885357,-87.824399"
+    },
+    {
+      "name": "AMC Northbrook",
+      "distance": "2.7 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=AMC%20Northbrook&query_place_id=ChIJ9YUczFfBD4gROpJlN3mBV8Y&center=42.1495107,-87.8165939"
+    },
+    {
+      "name": "AMC DINE-IN Northbrook 14",
+      "distance": "2.7 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=AMC%20DINE-IN%20Northbrook%2014&query_place_id=ChIJpRGXktjAD4gRMlx9GapqBtM&center=42.1496681,-87.8168032"
+    }
+  ],
+  "fun": [
+    {
+      "name": "SteckEscape",
+      "distance": "0.9 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=SteckEscape&query_place_id=ChIJ83uSMXrHD4gRbBmYktV0S14&center=42.1171965,-87.83388649999999"
+    },
+    {
+      "name": "WILLOW HILLS",
+      "distance": "2.0 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=WILLOW%20HILLS&query_place_id=ChIJla5HSwDHD4gRfifEjvVqZjQ&center=42.1084469,-87.81471169999999"
+    },
+    {
+      "name": "Nickel City Xtreme",
+      "distance": "2.1 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Nickel%20City%20Xtreme&query_place_id=ChIJGQzODM_AD4gR5XhVLQo5kNA&center=42.1455889,-87.8282639"
+    },
+    {
+      "name": "Sky Zone Trampoline Park",
+      "distance": "2.2 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Sky%20Zone%20Trampoline%20Park&query_place_id=ChIJa-3t4xzBD4gRCRlJ6_rr4WI&center=42.1498176,-87.8358652"
+    }
+  ],
+  "hotels": [
+    {
+      "name": "Staybridge Suites Chicago -- Glenview by IHG",
+      "distance": "1.9 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Staybridge%20Suites%20Chicago%20--%20Glenview%20by%20IHG&query_place_id=ChIJhUGtbQTHD4gRlemJ7DxPIdc&center=42.1045036,-87.82075359999999"
+    },
+    {
+      "name": "King Suite in \\\"The Glen\\\" District. Free Breakfast Daily. Indoor Pool",
+      "distance": "1.9 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=King%20Suite%20in%20%5C%22The%20Glen%5C%22%20District.%20Free%20Breakfast%20Daily.%20Indoor%20Pool&query_place_id=ChIJ12FCegTHD4gR3jQPZsSKVQQ&center=42.1044884,-87.82070159999999"
+    },
+    {
+      "name": "Super 8 by Wyndham Deerfield/Northbrook",
+      "distance": "2.0 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Super%208%20by%20Wyndham%20Deerfield%2FNorthbrook&query_place_id=ChIJNWILe8nBD4gR3H_-f9o9t5o&center=42.1469197,-87.83368980000002"
+    },
+    {
+      "name": "Hilton Chicago/Northbrook",
+      "distance": "2.1 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Hilton%20Chicago%2FNorthbrook&query_place_id=ChIJ18D4c_e4D4gR9FcaLkS6HcM&center=42.1015393,-87.8818999"
+    },
+    {
+      "name": "Embassy Suites by Hilton Chicago North Shore Deerfield",
+      "distance": "2.2 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Embassy%20Suites%20by%20Hilton%20Chicago%20North%20Shore%20Deerfield&query_place_id=ChIJnZq0UkO_D4gRWsZkwEjF1MU&center=42.1505393,-87.8645858"
+    }
+  ],
+  "gas": [
+    {
+      "name": "Mobil",
+      "distance": "1.3 mi",
+      "url": "https://www.google.com/maps/search/Mobil+near+42.1205097%2C-87.85077659999999"
+    },
+    {
+      "name": "bp",
+      "distance": "1.5 mi",
+      "url": "https://www.google.com/maps/search/bp+near+42.1205097%2C-87.85077659999999"
+    },
+    {
+      "name": "Gulf",
+      "distance": "1.5 mi",
+      "url": "https://www.google.com/maps/search/Gulf+near+42.1205097%2C-87.85077659999999"
+    },
+    {
+      "name": "BP gas station & convenience Store / subway / car wash",
+      "distance": "1.5 mi",
+      "url": "https://www.google.com/maps/search/BP%20gas%20station%20%26%20convenience%20Store%20%2F%20subway%20%2F%20car%20wash+near+42.1205097%2C-87.85077659999999"
+    }
+  ]
+}

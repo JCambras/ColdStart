@@ -1,0 +1,137 @@
+{
+  "quick_bite": [
+    {
+      "name": "Market Burger Fries & Shakes",
+      "distance": "0.2 mi",
+      "url": "https://www.google.com/maps/search/Market%20Burger%20Fries%20%26%20Shakes+near+39.1343028%2C-77.71489059999999"
+    },
+    {
+      "name": "900 Degrees Brick Oven Pizza",
+      "distance": "0.4 mi",
+      "url": "https://www.google.com/maps/search/900%20Degrees%20Brick%20Oven%20Pizza+near+39.1343028%2C-77.71489059999999"
+    },
+    {
+      "name": "Subway",
+      "distance": "0.5 mi",
+      "url": "https://www.google.com/maps/search/Subway+near+39.1343028%2C-77.71489059999999"
+    }
+  ],
+  "coffee": [
+    {
+      "name": "Doppio Bunny Coffee - Purcellville",
+      "distance": "0.5 mi",
+      "url": "https://www.google.com/maps/search/Doppio%20Bunny%20Coffee%20-%20Purcellville+near+39.1343028%2C-77.71489059999999"
+    }
+  ],
+  "team_lunch": [
+    {
+      "name": "Bagel Chicks Bakery",
+      "distance": "0.1 mi",
+      "url": "https://www.google.com/maps/search/Bagel%20Chicks%20Bakery+near+39.1343028%2C-77.71489059999999"
+    },
+    {
+      "name": "Harmony Bakeshop & Coffehouse",
+      "distance": "0.3 mi",
+      "url": "https://www.google.com/maps/search/Harmony%20Bakeshop%20%26%20Coffehouse+near+39.1343028%2C-77.71489059999999"
+    },
+    {
+      "name": "Pen's Oriental Kitchen",
+      "distance": "0.5 mi",
+      "url": "https://www.google.com/maps/search/Pen's%20Oriental%20Kitchen+near+39.1343028%2C-77.71489059999999"
+    }
+  ],
+  "dinner": [
+    {
+      "name": "Purcellville Family Restaurant",
+      "distance": "0.2 mi",
+      "url": "https://www.google.com/maps/search/Purcellville%20Family%20Restaurant+near+39.1343028%2C-77.71489059999999"
+    },
+    {
+      "name": "BIA Kitchen",
+      "distance": "0.2 mi",
+      "url": "https://www.google.com/maps/search/BIA%20Kitchen+near+39.1343028%2C-77.71489059999999"
+    },
+    {
+      "name": "Hardware Cafe",
+      "distance": "0.2 mi",
+      "url": "https://www.google.com/maps/search/Hardware%20Cafe+near+39.1343028%2C-77.71489059999999"
+    },
+    {
+      "name": "Magnolias at the Mill",
+      "distance": "0.3 mi",
+      "url": "https://www.google.com/maps/search/Magnolias%20at%20the%20Mill+near+39.1343028%2C-77.71489059999999"
+    },
+    {
+      "name": "Sweet Rose Bakeshop",
+      "distance": "0.3 mi",
+      "url": "https://www.google.com/maps/search/Sweet%20Rose%20Bakeshop+near+39.1343028%2C-77.71489059999999"
+    },
+    {
+      "name": "Monk's BBQ",
+      "distance": "0.4 mi",
+      "url": "https://www.google.com/maps/search/Monk's%20BBQ+near+39.1343028%2C-77.71489059999999"
+    }
+  ],
+  "bowling": [
+    {
+      "name": "The Branch - Restaurant & Bowling",
+      "distance": "8.4 mi",
+      "url": "https://www.google.com/maps/search/The%20Branch%20-%20Restaurant%20%26%20Bowling+near+39.1343028%2C-77.71489059999999",
+      "isFar": true
+    }
+  ],
+  "arcade": [],
+  "movies": [],
+  "fun": [
+    {
+      "name": "Escape Room LOCO",
+      "distance": "8.3 mi",
+      "url": "https://www.google.com/maps/search/Escape%20Room%20LOCO+near+39.1343028%2C-77.71489059999999",
+      "isFar": true
+    }
+  ],
+  "hotels": [
+    {
+      "name": "Carriage House",
+      "distance": "0.1 mi",
+      "url": "https://www.google.com/maps/search/Carriage%20House+near+39.1343028%2C-77.71489059999999"
+    },
+    {
+      "name": "The Carriage House— Circa 1937",
+      "distance": "0.1 mi",
+      "url": "https://www.google.com/maps/search/The%20Carriage%20House%E2%80%94%20Circa%201937+near+39.1343028%2C-77.71489059999999"
+    },
+    {
+      "name": "Still Meadow Farm",
+      "distance": "0.2 mi",
+      "url": "https://www.google.com/maps/search/Still%20Meadow%20Farm+near+39.1343028%2C-77.71489059999999"
+    },
+    {
+      "name": "Historic Colonial in Downtown Purcellville",
+      "distance": "0.3 mi",
+      "url": "https://www.google.com/maps/search/Historic%20Colonial%20in%20Downtown%20Purcellville+near+39.1343028%2C-77.71489059999999"
+    }
+  ],
+  "gas": [
+    {
+      "name": "Shell",
+      "distance": "0.2 mi",
+      "url": "https://www.google.com/maps/search/Shell+near+39.1343028%2C-77.71489059999999"
+    },
+    {
+      "name": "7-Eleven Fuel",
+      "distance": "0.6 mi",
+      "url": "https://www.google.com/maps/search/7-Eleven%20Fuel+near+39.1343028%2C-77.71489059999999"
+    },
+    {
+      "name": "Exxon",
+      "distance": "0.6 mi",
+      "url": "https://www.google.com/maps/search/Exxon+near+39.1343028%2C-77.71489059999999"
+    },
+    {
+      "name": "Valley Energy - Commercial Fueling 24/7",
+      "distance": "0.7 mi",
+      "url": "https://www.google.com/maps/search/Valley%20Energy%20-%20Commercial%20Fueling%2024%2F7+near+39.1343028%2C-77.71489059999999"
+    }
+  ]
+}

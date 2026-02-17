@@ -1,0 +1,240 @@
+{
+  "quick_bite": [
+    {
+      "name": "Outback Steakhouse",
+      "distance": "0.1 mi",
+      "url": "https://www.google.com/maps/search/Outback%20Steakhouse+near+39.5611391%2C-104.9889766"
+    },
+    {
+      "name": "Red Robin Gourmet Burgers and Brews",
+      "distance": "0.1 mi",
+      "url": "https://www.google.com/maps/search/Red%20Robin%20Gourmet%20Burgers%20and%20Brews+near+39.5611391%2C-104.9889766"
+    },
+    {
+      "name": "Waffle House",
+      "distance": "0.4 mi",
+      "url": "https://www.google.com/maps/search/Waffle%20House+near+39.5611391%2C-104.9889766"
+    },
+    {
+      "name": "Quiznos",
+      "distance": "0.6 mi",
+      "url": "https://www.google.com/maps/search/Quiznos+near+39.5611391%2C-104.9889766"
+    },
+    {
+      "name": "Wendy's",
+      "distance": "0.7 mi",
+      "url": "https://www.google.com/maps/search/Wendy's+near+39.5611391%2C-104.9889766"
+    },
+    {
+      "name": "Jersey Mike's",
+      "distance": "0.7 mi",
+      "url": "https://www.google.com/maps/search/Jersey%20Mike's+near+39.5611391%2C-104.9889766"
+    },
+    {
+      "name": "Chuck E. Cheese",
+      "distance": "4.6 mi",
+      "url": "https://www.google.com/maps/search/Chuck%20E.%20Cheese+near+39.5611391%2C-104.9889766",
+      "isFar": true
+    }
+  ],
+  "coffee": [
+    {
+      "name": "Lost Coffee",
+      "distance": "0.1 mi",
+      "url": "https://www.google.com/maps/search/Lost%20Coffee+near+39.5611391%2C-104.9889766"
+    },
+    {
+      "name": "McDonald's",
+      "distance": "0.6 mi",
+      "url": "https://www.google.com/maps/search/McDonald's+near+39.5611391%2C-104.9889766"
+    }
+  ],
+  "team_lunch": [
+    {
+      "name": "Roadtrip Bowls Made by Lazy Dog",
+      "distance": "0.1 mi",
+      "url": "https://www.google.com/maps/search/Roadtrip%20Bowls%20Made%20by%20Lazy%20Dog+near+39.5611391%2C-104.9889766"
+    },
+    {
+      "name": "Celly's Bar and Grill",
+      "distance": "0.7 mi",
+      "url": "https://www.google.com/maps/search/Celly's%20Bar%20and%20Grill+near+39.5611391%2C-104.9889766"
+    }
+  ],
+  "dinner": [
+    {
+      "name": "Los Dos Potrillos Mexican Restaurant - Highlands Ranch",
+      "distance": "0.1 mi",
+      "url": "https://www.google.com/maps/search/Los%20Dos%20Potrillos%20Mexican%20Restaurant%20-%20Highlands%20Ranch+near+39.5611391%2C-104.9889766"
+    },
+    {
+      "name": "Lazy Dog Restaurant & Bar",
+      "distance": "0.1 mi",
+      "url": "https://www.google.com/maps/search/Lazy%20Dog%20Restaurant%20%26%20Bar+near+39.5611391%2C-104.9889766"
+    },
+    {
+      "name": "Honey B's Macarons",
+      "distance": "0.1 mi",
+      "url": "https://www.google.com/maps/search/Honey%20B's%20Macarons+near+39.5611391%2C-104.9889766"
+    },
+    {
+      "name": "Pho 99 Littleton",
+      "distance": "0.4 mi",
+      "url": "https://www.google.com/maps/search/Pho%2099%20Littleton+near+39.5611391%2C-104.9889766"
+    },
+    {
+      "name": "Mi Cocina",
+      "distance": "0.4 mi",
+      "url": "https://www.google.com/maps/search/Mi%20Cocina+near+39.5611391%2C-104.9889766"
+    },
+    {
+      "name": "Haveli Indian Cuisine",
+      "distance": "0.4 mi",
+      "url": "https://www.google.com/maps/search/Haveli%20Indian%20Cuisine+near+39.5611391%2C-104.9889766"
+    },
+    {
+      "name": "The Rusty Tapp Colorado BBQ & Catering",
+      "distance": "0.5 mi",
+      "url": "https://www.google.com/maps/search/The%20Rusty%20Tapp%20Colorado%20BBQ%20%26%20Catering+near+39.5611391%2C-104.9889766"
+    }
+  ],
+  "bowling": [
+    {
+      "name": "Main Event Highlands Ranch",
+      "distance": "0.1 mi",
+      "url": "https://www.google.com/maps/search/Main%20Event%20Highlands%20Ranch+near+39.5611391%2C-104.9889766"
+    },
+    {
+      "name": "Bowlero Littleton",
+      "distance": "1.6 mi",
+      "url": "https://www.google.com/maps/search/Bowlero%20Littleton+near+39.5611391%2C-104.9889766"
+    },
+    {
+      "name": "Bowlero Englewood",
+      "distance": "4.9 mi",
+      "url": "https://www.google.com/maps/search/Bowlero%20Englewood+near+39.5611391%2C-104.9889766",
+      "isFar": true
+    }
+  ],
+  "arcade": [],
+  "movies": [
+    {
+      "name": "AMC Highlands Ranch 24",
+      "distance": "0.2 mi",
+      "url": "https://www.google.com/maps/search/AMC%20Highlands%20Ranch%2024+near+39.5611391%2C-104.9889766"
+    },
+    {
+      "name": "Hollywood Theaters",
+      "distance": "2.5 mi",
+      "url": "https://www.google.com/maps/search/Hollywood%20Theaters+near+39.5611391%2C-104.9889766"
+    },
+    {
+      "name": "Regal SouthGlenn",
+      "distance": "2.5 mi",
+      "url": "https://www.google.com/maps/search/Regal%20SouthGlenn+near+39.5611391%2C-104.9889766"
+    },
+    {
+      "name": "Alamo Drafthouse Cinema Littleton",
+      "distance": "2.5 mi",
+      "url": "https://www.google.com/maps/search/Alamo%20Drafthouse%20Cinema%20Littleton+near+39.5611391%2C-104.9889766"
+    },
+    {
+      "name": "Galaxy Flicks",
+      "distance": "4.8 mi",
+      "url": "https://www.google.com/maps/search/Galaxy%20Flicks+near+39.5611391%2C-104.9889766",
+      "isFar": true
+    }
+  ],
+  "fun": [
+    {
+      "name": "Spray Pad",
+      "distance": "1.1 mi",
+      "url": "https://www.google.com/maps/search/Spray%20Pad+near+39.5611391%2C-104.9889766"
+    },
+    {
+      "name": "CO Battle Zones",
+      "distance": "2.6 mi",
+      "url": "https://www.google.com/maps/search/CO%20Battle%20Zones+near+39.5611391%2C-104.9889766"
+    },
+    {
+      "name": "Game Show Battle Rooms - Denver (Centennial)",
+      "distance": "2.6 mi",
+      "url": "https://www.google.com/maps/search/Game%20Show%20Battle%20Rooms%20-%20Denver%20(Centennial)+near+39.5611391%2C-104.9889766"
+    },
+    {
+      "name": "K1 Speed - Indoor Go Karts, Corporate Event Venue, Team Building Activities",
+      "distance": "2.8 mi",
+      "url": "https://www.google.com/maps/search/K1%20Speed%20-%20Indoor%20Go%20Karts%2C%20Corporate%20Event%20Venue%2C%20Team%20Building%20Activities+near+39.5611391%2C-104.9889766"
+    },
+    {
+      "name": "Mystic Escape Room - Littleton",
+      "distance": "3.9 mi",
+      "url": "https://www.google.com/maps/search/Mystic%20Escape%20Room%20-%20Littleton+near+39.5611391%2C-104.9889766",
+      "isFar": true
+    }
+  ],
+  "hotels": [
+    {
+      "name": "Residence Inn by Marriott Denver Highlands Ranch",
+      "distance": "0.1 mi",
+      "url": "https://www.google.com/maps/search/Residence%20Inn%20by%20Marriott%20Denver%20Highlands%20Ranch+near+39.5611391%2C-104.9889766"
+    },
+    {
+      "name": "Elevate your experiences at our Highlands Ranch hotel",
+      "distance": "0.3 mi",
+      "url": "https://www.google.com/maps/search/Elevate%20your%20experiences%20at%20our%20Highlands%20Ranch%20hotel+near+39.5611391%2C-104.9889766"
+    },
+    {
+      "name": "Modern Apartment in Prime Location ID8406X40 - Two-Bedroom Apartment",
+      "distance": "0.4 mi",
+      "url": "https://www.google.com/maps/search/Modern%20Apartment%20in%20Prime%20Location%20ID8406X40%20-%20Two-Bedroom%20Apartment+near+39.5611391%2C-104.9889766"
+    },
+    {
+      "name": "Hilton Garden Inn Denver/Highlands Ranch",
+      "distance": "0.6 mi",
+      "url": "https://www.google.com/maps/search/Hilton%20Garden%20Inn%20Denver%2FHighlands%20Ranch+near+39.5611391%2C-104.9889766"
+    },
+    {
+      "name": "Pet Friendly Just South of Denver",
+      "distance": "0.7 mi",
+      "url": "https://www.google.com/maps/search/Pet%20Friendly%20Just%20South%20of%20Denver+near+39.5611391%2C-104.9889766"
+    },
+    {
+      "name": "Gorgeously updated 5-bedroom house in Littleton with jacuzzi tub and amenities",
+      "distance": "0.8 mi",
+      "url": "https://www.google.com/maps/search/Gorgeously%20updated%205-bedroom%20house%20in%20Littleton%20with%20jacuzzi%20tub%20and%20amenities+near+39.5611391%2C-104.9889766"
+    },
+    {
+      "name": "Highlands Ranch Home ~ Close to lots of open space with lots of trails",
+      "distance": "0.8 mi",
+      "url": "https://www.google.com/maps/search/Highlands%20Ranch%20Home%20~%20Close%20to%20lots%20of%20open%20space%20with%20lots%20of%20trails+near+39.5611391%2C-104.9889766"
+    }
+  ],
+  "gas": [
+    {
+      "name": "Valero",
+      "distance": "0.1 mi",
+      "url": "https://www.google.com/maps/search/Valero+near+39.5611391%2C-104.9889766"
+    },
+    {
+      "name": "Circle K | Gas Station",
+      "distance": "0.1 mi",
+      "url": "https://www.google.com/maps/search/Circle%20K%20%7C%20Gas%20Station+near+39.5611391%2C-104.9889766"
+    },
+    {
+      "name": "King Soopers Fuel Center",
+      "distance": "0.5 mi",
+      "url": "https://www.google.com/maps/search/King%20Soopers%20Fuel%20Center+near+39.5611391%2C-104.9889766"
+    },
+    {
+      "name": "Phillips 66",
+      "distance": "0.5 mi",
+      "url": "https://www.google.com/maps/search/Phillips%2066+near+39.5611391%2C-104.9889766"
+    },
+    {
+      "name": "Suncor Energy",
+      "distance": "0.7 mi",
+      "url": "https://www.google.com/maps/search/Suncor%20Energy+near+39.5611391%2C-104.9889766"
+    }
+  ]
+}

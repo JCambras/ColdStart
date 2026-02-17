@@ -1,0 +1,181 @@
+{
+  "quick_bite": [
+    {
+      "name": "Little Caesars Pizza",
+      "distance": "0.3 mi",
+      "url": "https://www.google.com/maps/search/Little%20Caesars%20Pizza+near+45.9989509%2C-112.5139999"
+    },
+    {
+      "name": "Copper City Casino & Restaurant",
+      "distance": "0.4 mi",
+      "url": "https://www.google.com/maps/search/Copper%20City%20Casino%20%26%20Restaurant+near+45.9989509%2C-112.5139999"
+    },
+    {
+      "name": "Dairy Queen Grill & Chill",
+      "distance": "0.6 mi",
+      "url": "https://www.google.com/maps/search/Dairy%20Queen%20Grill%20%26%20Chill+near+45.9989509%2C-112.5139999"
+    },
+    {
+      "name": "El Taco",
+      "distance": "0.6 mi",
+      "url": "https://www.google.com/maps/search/El%20Taco+near+45.9989509%2C-112.5139999"
+    },
+    {
+      "name": "Pork Chop John's",
+      "distance": "0.7 mi",
+      "url": "https://www.google.com/maps/search/Pork%20Chop%20John's+near+45.9989509%2C-112.5139999"
+    }
+  ],
+  "coffee": [
+    {
+      "name": "BW Blacksmith Coffee & Grill | Harrison",
+      "distance": "0.4 mi",
+      "url": "https://www.google.com/maps/search/BW%20Blacksmith%20Coffee%20%26%20Grill%20%7C%20Harrison+near+45.9989509%2C-112.5139999"
+    },
+    {
+      "name": "Starbucks",
+      "distance": "0.6 mi",
+      "url": "https://www.google.com/maps/search/Starbucks+near+45.9989509%2C-112.5139999"
+    },
+    {
+      "name": "Mountain View Coffee Co",
+      "distance": "0.8 mi",
+      "url": "https://www.google.com/maps/search/Mountain%20View%20Coffee%20Co+near+45.9989509%2C-112.5139999"
+    },
+    {
+      "name": "Florence Coffee Company",
+      "distance": "0.8 mi",
+      "url": "https://www.google.com/maps/search/Florence%20Coffee%20Company+near+45.9989509%2C-112.5139999"
+    }
+  ],
+  "team_lunch": [],
+  "dinner": [
+    {
+      "name": "Joe's Pasty Shop",
+      "distance": "0.1 mi",
+      "url": "https://www.google.com/maps/search/Joe's%20Pasty%20Shop+near+45.9989509%2C-112.5139999"
+    },
+    {
+      "name": "Great Harvest Bread Co. Butte",
+      "distance": "0.2 mi",
+      "url": "https://www.google.com/maps/search/Great%20Harvest%20Bread%20Co.%20Butte+near+45.9989509%2C-112.5139999"
+    },
+    {
+      "name": "Mr. Hot Dogs",
+      "distance": "0.4 mi",
+      "url": "https://www.google.com/maps/search/Mr.%20Hot%20Dogs+near+45.9989509%2C-112.5139999"
+    },
+    {
+      "name": "The Derby Steakhouse",
+      "distance": "0.4 mi",
+      "url": "https://www.google.com/maps/search/The%20Derby%20Steakhouse+near+45.9989509%2C-112.5139999"
+    },
+    {
+      "name": "Christina's Cocina Cafe",
+      "distance": "0.5 mi",
+      "url": "https://www.google.com/maps/search/Christina's%20Cocina%20Cafe+near+45.9989509%2C-112.5139999"
+    },
+    {
+      "name": "Annie's Cafe",
+      "distance": "0.7 mi",
+      "url": "https://www.google.com/maps/search/Annie's%20Cafe+near+45.9989509%2C-112.5139999"
+    },
+    {
+      "name": "Royse's Hamburgers, Shakes & More",
+      "distance": "0.7 mi",
+      "url": "https://www.google.com/maps/search/Royse's%20Hamburgers%2C%20Shakes%20%26%20More+near+45.9989509%2C-112.5139999"
+    }
+  ],
+  "bowling": [
+    {
+      "name": "Star Lanes Family Sports Center",
+      "distance": "3.0 mi",
+      "url": "https://www.google.com/maps/search/Star%20Lanes%20Family%20Sports%20Center+near+45.9989509%2C-112.5139999"
+    }
+  ],
+  "arcade": [],
+  "movies": [
+    {
+      "name": "Silver Bow Twin Drive-in",
+      "distance": "6.9 mi",
+      "url": "https://www.google.com/maps/search/Silver%20Bow%20Twin%20Drive-in+near+45.9989509%2C-112.5139999",
+      "isFar": true
+    }
+  ],
+  "fun": [
+    {
+      "name": "Inflatable Fun Zones",
+      "distance": "0.8 mi",
+      "url": "https://www.google.com/maps/search/Inflatable%20Fun%20Zones+near+45.9989509%2C-112.5139999"
+    },
+    {
+      "name": "Ridge Waters Water Park",
+      "distance": "1.4 mi",
+      "url": "https://www.google.com/maps/search/Ridge%20Waters%20Water%20Park+near+45.9989509%2C-112.5139999"
+    }
+  ],
+  "hotels": [
+    {
+      "name": "Historic Queen Anne | Hot Tub | Fenced Backyard",
+      "distance": "0.1 mi",
+      "url": "https://www.google.com/maps/search/Historic%20Queen%20Anne%20%7C%20Hot%20Tub%20%7C%20Fenced%20Backyard+near+45.9989509%2C-112.5139999"
+    },
+    {
+      "name": "Historic House in Downtown Butte",
+      "distance": "0.4 mi",
+      "url": "https://www.google.com/maps/search/Historic%20House%20in%20Downtown%20Butte+near+45.9989509%2C-112.5139999"
+    },
+    {
+      "name": "Quiet Cozy Tiny House Near Everything",
+      "distance": "0.4 mi",
+      "url": "https://www.google.com/maps/search/Quiet%20Cozy%20Tiny%20House%20Near%20Everything+near+45.9989509%2C-112.5139999"
+    },
+    {
+      "name": "Hip & Modern Loft with Garage",
+      "distance": "0.4 mi",
+      "url": "https://www.google.com/maps/search/Hip%20%26%20Modern%20Loft%20with%20Garage+near+45.9989509%2C-112.5139999"
+    },
+    {
+      "name": "Butte Bungalow",
+      "distance": "0.7 mi",
+      "url": "https://www.google.com/maps/search/Butte%20Bungalow+near+45.9989509%2C-112.5139999"
+    },
+    {
+      "name": "Copper City Charmer | Easy Freeway Access",
+      "distance": "0.8 mi",
+      "url": "https://www.google.com/maps/search/Copper%20City%20Charmer%20%7C%20Easy%20Freeway%20Access+near+45.9989509%2C-112.5139999"
+    },
+    {
+      "name": "Historic Saint Joseph’s Church",
+      "distance": "0.8 mi",
+      "url": "https://www.google.com/maps/search/Historic%20Saint%20Joseph%E2%80%99s%20Church+near+45.9989509%2C-112.5139999"
+    }
+  ],
+  "gas": [
+    {
+      "name": "Exxon",
+      "distance": "0.3 mi",
+      "url": "https://www.google.com/maps/search/Exxon+near+45.9989509%2C-112.5139999"
+    },
+    {
+      "name": "Conoco",
+      "distance": "0.6 mi",
+      "url": "https://www.google.com/maps/search/Conoco+near+45.9989509%2C-112.5139999"
+    },
+    {
+      "name": "Cenex",
+      "distance": "0.8 mi",
+      "url": "https://www.google.com/maps/search/Cenex+near+45.9989509%2C-112.5139999"
+    },
+    {
+      "name": "Conoco",
+      "distance": "0.9 mi",
+      "url": "https://www.google.com/maps/search/Conoco+near+45.9989509%2C-112.5139999"
+    },
+    {
+      "name": "Exxon",
+      "distance": "1.1 mi",
+      "url": "https://www.google.com/maps/search/Exxon+near+45.9989509%2C-112.5139999"
+    }
+  ]
+}

@@ -1,0 +1,158 @@
+{
+  "quick_bite": [
+    {
+      "name": "Subway",
+      "distance": "0.5 mi",
+      "url": "https://www.google.com/maps/search/Subway+near+39.0614041%2C-76.72611049999999"
+    },
+    {
+      "name": "Hana Japanese cuisine",
+      "distance": "0.5 mi",
+      "url": "https://www.google.com/maps/search/Hana%20Japanese%20cuisine+near+39.0614041%2C-76.72611049999999"
+    },
+    {
+      "name": "The Hotdog Hideout",
+      "distance": "1.6 mi",
+      "url": "https://www.google.com/maps/search/The%20Hotdog%20Hideout+near+39.0614041%2C-76.72611049999999"
+    },
+    {
+      "name": "Little Caesars Pizza",
+      "distance": "2.3 mi",
+      "url": "https://www.google.com/maps/search/Little%20Caesars%20Pizza+near+39.0614041%2C-76.72611049999999"
+    }
+  ],
+  "coffee": [
+    {
+      "name": "Dunkin'",
+      "distance": "0.6 mi",
+      "url": "https://www.google.com/maps/search/Dunkin'+near+39.0614041%2C-76.72611049999999"
+    },
+    {
+      "name": "Baltimore Coffee & Tea Company",
+      "distance": "2.1 mi",
+      "url": "https://www.google.com/maps/search/Baltimore%20Coffee%20%26%20Tea%20Company+near+39.0614041%2C-76.72611049999999"
+    },
+    {
+      "name": "Besayan Tea",
+      "distance": "2.2 mi",
+      "url": "https://www.google.com/maps/search/Besayan%20Tea+near+39.0614041%2C-76.72611049999999"
+    },
+    {
+      "name": "Graze Craze Charcuterie Boards & Boxes - Odenton, MD",
+      "distance": "2.2 mi",
+      "url": "https://www.google.com/maps/search/Graze%20Craze%20Charcuterie%20Boards%20%26%20Boxes%20-%20Odenton%2C%20MD+near+39.0614041%2C-76.72611049999999"
+    }
+  ],
+  "team_lunch": [
+    {
+      "name": "Hunan China Restaurant",
+      "distance": "0.5 mi",
+      "url": "https://www.google.com/maps/search/Hunan%20China%20Restaurant+near+39.0614041%2C-76.72611049999999"
+    },
+    {
+      "name": "Baked by Blessing",
+      "distance": "1.4 mi",
+      "url": "https://www.google.com/maps/search/Baked%20by%20Blessing+near+39.0614041%2C-76.72611049999999"
+    },
+    {
+      "name": "Romeo's Pizza",
+      "distance": "2.2 mi",
+      "url": "https://www.google.com/maps/search/Romeo's%20Pizza+near+39.0614041%2C-76.72611049999999"
+    }
+  ],
+  "dinner": [
+    {
+      "name": "Food Lion Bakery",
+      "distance": "0.4 mi",
+      "url": "https://www.google.com/maps/search/Food%20Lion%20Bakery+near+39.0614041%2C-76.72611049999999"
+    },
+    {
+      "name": "Orchard Cafe",
+      "distance": "0.5 mi",
+      "url": "https://www.google.com/maps/search/Orchard%20Cafe+near+39.0614041%2C-76.72611049999999"
+    },
+    {
+      "name": "Ashley's Tacos 2",
+      "distance": "0.5 mi",
+      "url": "https://www.google.com/maps/search/Ashley's%20Tacos%202+near+39.0614041%2C-76.72611049999999"
+    },
+    {
+      "name": "Mamma Roma",
+      "distance": "0.6 mi",
+      "url": "https://www.google.com/maps/search/Mamma%20Roma+near+39.0614041%2C-76.72611049999999"
+    },
+    {
+      "name": "The Hideaway",
+      "distance": "2.0 mi",
+      "url": "https://www.google.com/maps/search/The%20Hideaway+near+39.0614041%2C-76.72611049999999"
+    },
+    {
+      "name": "The Crab Galley (ODENTON location)",
+      "distance": "2.1 mi",
+      "url": "https://www.google.com/maps/search/The%20Crab%20Galley%20(ODENTON%20location)+near+39.0614041%2C-76.72611049999999"
+    }
+  ],
+  "bowling": [
+    {
+      "name": "Greenway Bowl",
+      "distance": "3.1 mi",
+      "url": "https://www.google.com/maps/search/Greenway%20Bowl+near+39.0614041%2C-76.72611049999999",
+      "isFar": true
+    },
+    {
+      "name": "The Lanes Fort Meade",
+      "distance": "3.1 mi",
+      "url": "https://www.google.com/maps/search/The%20Lanes%20Fort%20Meade+near+39.0614041%2C-76.72611049999999",
+      "isFar": true
+    }
+  ],
+  "arcade": [],
+  "movies": [
+    {
+      "name": "Regal Waugh Chapel",
+      "distance": "2.8 mi",
+      "url": "https://www.google.com/maps/search/Regal%20Waugh%20Chapel+near+39.0614041%2C-76.72611049999999"
+    }
+  ],
+  "fun": [
+    {
+      "name": "Sky Zone Gambrills",
+      "distance": "2.6 mi",
+      "url": "https://www.google.com/maps/search/Sky%20Zone%20Gambrills+near+39.0614041%2C-76.72611049999999"
+    },
+    {
+      "name": "Mission Escape Rooms",
+      "distance": "2.9 mi",
+      "url": "https://www.google.com/maps/search/Mission%20Escape%20Rooms+near+39.0614041%2C-76.72611049999999"
+    }
+  ],
+  "hotels": [
+    {
+      "name": "Arundel Mobile Village",
+      "distance": "1.6 mi",
+      "url": "https://www.google.com/maps/search/Arundel%20Mobile%20Village+near+39.0614041%2C-76.72611049999999"
+    }
+  ],
+  "gas": [
+    {
+      "name": "bp",
+      "distance": "0.5 mi",
+      "url": "https://www.google.com/maps/search/bp+near+39.0614041%2C-76.72611049999999"
+    },
+    {
+      "name": "Sunoco Gas Station",
+      "distance": "2.1 mi",
+      "url": "https://www.google.com/maps/search/Sunoco%20Gas%20Station+near+39.0614041%2C-76.72611049999999"
+    },
+    {
+      "name": "Fuel Depot",
+      "distance": "2.2 mi",
+      "url": "https://www.google.com/maps/search/Fuel%20Depot+near+39.0614041%2C-76.72611049999999"
+    },
+    {
+      "name": "Exxon",
+      "distance": "2.3 mi",
+      "url": "https://www.google.com/maps/search/Exxon+near+39.0614041%2C-76.72611049999999"
+    }
+  ]
+}

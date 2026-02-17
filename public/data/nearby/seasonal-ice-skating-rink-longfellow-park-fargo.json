@@ -1,0 +1,220 @@
+{
+  "quick_bite": [
+    {
+      "name": "Little Caesars Pizza",
+      "distance": "1.3 mi",
+      "url": "https://www.google.com/maps/search/Little%20Caesars%20Pizza+near+46.917117499999996%2C-96.7748"
+    },
+    {
+      "name": "Red Pepper",
+      "distance": "1.3 mi",
+      "url": "https://www.google.com/maps/search/Red%20Pepper+near+46.917117499999996%2C-96.7748"
+    },
+    {
+      "name": "Grand Junction Grilled Subs",
+      "distance": "1.3 mi",
+      "url": "https://www.google.com/maps/search/Grand%20Junction%20Grilled%20Subs+near+46.917117499999996%2C-96.7748"
+    },
+    {
+      "name": "Hangry Joe's Hot Chicken & Wings",
+      "distance": "1.3 mi",
+      "url": "https://www.google.com/maps/search/Hangry%20Joe's%20Hot%20Chicken%20%26%20Wings+near+46.917117499999996%2C-96.7748"
+    },
+    {
+      "name": "Chipotle Mexican Grill",
+      "distance": "1.4 mi",
+      "url": "https://www.google.com/maps/search/Chipotle%20Mexican%20Grill+near+46.917117499999996%2C-96.7748"
+    },
+    {
+      "name": "Burger King",
+      "distance": "1.5 mi",
+      "url": "https://www.google.com/maps/search/Burger%20King+near+46.917117499999996%2C-96.7748"
+    },
+    {
+      "name": "Subway",
+      "distance": "1.5 mi",
+      "url": "https://www.google.com/maps/search/Subway+near+46.917117499999996%2C-96.7748"
+    }
+  ],
+  "coffee": [
+    {
+      "name": "Caribou Coffee",
+      "distance": "0.8 mi",
+      "url": "https://www.google.com/maps/search/Caribou%20Coffee+near+46.917117499999996%2C-96.7748"
+    },
+    {
+      "name": "Caribou Coffee",
+      "distance": "1.3 mi",
+      "url": "https://www.google.com/maps/search/Caribou%20Coffee+near+46.917117499999996%2C-96.7748"
+    },
+    {
+      "name": "Scooter's Coffee",
+      "distance": "1.3 mi",
+      "url": "https://www.google.com/maps/search/Scooter's%20Coffee+near+46.917117499999996%2C-96.7748"
+    },
+    {
+      "name": "McDonald's",
+      "distance": "1.4 mi",
+      "url": "https://www.google.com/maps/search/McDonald's+near+46.917117499999996%2C-96.7748"
+    }
+  ],
+  "team_lunch": [
+    {
+      "name": "Edgewood Tavern",
+      "distance": "0.8 mi",
+      "url": "https://www.google.com/maps/search/Edgewood%20Tavern+near+46.917117499999996%2C-96.7748"
+    },
+    {
+      "name": "Papa Johns Pizza",
+      "distance": "1.3 mi",
+      "url": "https://www.google.com/maps/search/Papa%20Johns%20Pizza+near+46.917117499999996%2C-96.7748"
+    },
+    {
+      "name": "Fortune House",
+      "distance": "1.3 mi",
+      "url": "https://www.google.com/maps/search/Fortune%20House+near+46.917117499999996%2C-96.7748"
+    },
+    {
+      "name": "Casey's",
+      "distance": "1.3 mi",
+      "url": "https://www.google.com/maps/search/Casey's+near+46.917117499999996%2C-96.7748"
+    }
+  ],
+  "dinner": [
+    {
+      "name": "The Shack on Broadway",
+      "distance": "0.6 mi",
+      "url": "https://www.google.com/maps/search/The%20Shack%20on%20Broadway+near+46.917117499999996%2C-96.7748"
+    },
+    {
+      "name": "Tropical Spice CARIBBEAN CUISINE",
+      "distance": "0.6 mi",
+      "url": "https://www.google.com/maps/search/Tropical%20Spice%20CARIBBEAN%20CUISINE+near+46.917117499999996%2C-96.7748"
+    },
+    {
+      "name": "The Fish and Chicken Shack",
+      "distance": "0.6 mi",
+      "url": "https://www.google.com/maps/search/The%20Fish%20and%20Chicken%20Shack+near+46.917117499999996%2C-96.7748"
+    },
+    {
+      "name": "Labby's Grill & Bar",
+      "distance": "1.3 mi",
+      "url": "https://www.google.com/maps/search/Labby's%20Grill%20%26%20Bar+near+46.917117499999996%2C-96.7748"
+    }
+  ],
+  "bowling": [
+    {
+      "name": "Xcalibur Entertainment",
+      "distance": "0.8 mi",
+      "url": "https://www.google.com/maps/search/Xcalibur%20Entertainment+near+46.917117499999996%2C-96.7748"
+    },
+    {
+      "name": "Red River Lanes",
+      "distance": "0.8 mi",
+      "url": "https://www.google.com/maps/search/Red%20River%20Lanes+near+46.917117499999996%2C-96.7748"
+    },
+    {
+      "name": "West Acres Bowl",
+      "distance": "4.7 mi",
+      "url": "https://www.google.com/maps/search/West%20Acres%20Bowl+near+46.917117499999996%2C-96.7748",
+      "isFar": true
+    }
+  ],
+  "arcade": [],
+  "movies": [
+    {
+      "name": "Fargo Theatre",
+      "distance": "2.7 mi",
+      "url": "https://www.google.com/maps/search/Fargo%20Theatre+near+46.917117499999996%2C-96.7748"
+    },
+    {
+      "name": "Marcus Century Cinema",
+      "distance": "4.8 mi",
+      "url": "https://www.google.com/maps/search/Marcus%20Century%20Cinema+near+46.917117499999996%2C-96.7748",
+      "isFar": true
+    }
+  ],
+  "fun": [
+    {
+      "name": "Exit Strategy",
+      "distance": "2.9 mi",
+      "url": "https://www.google.com/maps/search/Exit%20Strategy+near+46.917117499999996%2C-96.7748"
+    },
+    {
+      "name": "Escape Jr's",
+      "distance": "4.2 mi",
+      "url": "https://www.google.com/maps/search/Escape%20Jr's+near+46.917117499999996%2C-96.7748",
+      "isFar": true
+    },
+    {
+      "name": "Sky Zone Trampoline Park",
+      "distance": "4.9 mi",
+      "url": "https://www.google.com/maps/search/Sky%20Zone%20Trampoline%20Park+near+46.917117499999996%2C-96.7748",
+      "isFar": true
+    }
+  ],
+  "hotels": [
+    {
+      "name": "Two bedroom apartment designed for your comfort",
+      "distance": "0.7 mi",
+      "url": "https://www.google.com/maps/search/Two%20bedroom%20apartment%20designed%20for%20your%20comfort+near+46.917117499999996%2C-96.7748"
+    },
+    {
+      "name": "2-bedroom apartment in amazing Fargo with AC",
+      "distance": "0.7 mi",
+      "url": "https://www.google.com/maps/search/2-bedroom%20apartment%20in%20amazing%20Fargo%20with%20AC+near+46.917117499999996%2C-96.7748"
+    },
+    {
+      "name": "Fantastic 2-bedroom apartment with AC in charming Fargo",
+      "distance": "0.8 mi",
+      "url": "https://www.google.com/maps/search/Fantastic%202-bedroom%20apartment%20with%20AC%20in%20charming%20Fargo+near+46.917117499999996%2C-96.7748"
+    },
+    {
+      "name": "Near Fargo Dome I King I Workspace I Pack’n play",
+      "distance": "0.9 mi",
+      "url": "https://www.google.com/maps/search/Near%20Fargo%20Dome%20I%20King%20I%20Workspace%20I%20Pack%E2%80%99n%20play+near+46.917117499999996%2C-96.7748"
+    },
+    {
+      "name": "Smart TVs I Fenced Yard I Nature Views I Spacious",
+      "distance": "0.9 mi",
+      "url": "https://www.google.com/maps/search/Smart%20TVs%20I%20Fenced%20Yard%20I%20Nature%20Views%20I%20Spacious+near+46.917117499999996%2C-96.7748"
+    },
+    {
+      "name": "Modern North Fargo Home near the Fargodome",
+      "distance": "1.1 mi",
+      "url": "https://www.google.com/maps/search/Modern%20North%20Fargo%20Home%20near%20the%20Fargodome+near+46.917117499999996%2C-96.7748"
+    },
+    {
+      "name": "Riviera Heights Mobile Home Community",
+      "distance": "1.1 mi",
+      "url": "https://www.google.com/maps/search/Riviera%20Heights%20Mobile%20Home%20Community+near+46.917117499999996%2C-96.7748"
+    }
+  ],
+  "gas": [
+    {
+      "name": "Loaf N Jug",
+      "distance": "0.6 mi",
+      "url": "https://www.google.com/maps/search/Loaf%20N%20Jug+near+46.917117499999996%2C-96.7748"
+    },
+    {
+      "name": "Brake Time Corner Market",
+      "distance": "0.6 mi",
+      "url": "https://www.google.com/maps/search/Brake%20Time%20Corner%20Market+near+46.917117499999996%2C-96.7748"
+    },
+    {
+      "name": "Cenex",
+      "distance": "0.6 mi",
+      "url": "https://www.google.com/maps/search/Cenex+near+46.917117499999996%2C-96.7748"
+    },
+    {
+      "name": "Marathon",
+      "distance": "0.7 mi",
+      "url": "https://www.google.com/maps/search/Marathon+near+46.917117499999996%2C-96.7748"
+    },
+    {
+      "name": "Ted's Northport Tesoro",
+      "distance": "0.7 mi",
+      "url": "https://www.google.com/maps/search/Ted's%20Northport%20Tesoro+near+46.917117499999996%2C-96.7748"
+    }
+  ]
+}

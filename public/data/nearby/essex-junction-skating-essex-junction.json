@@ -1,0 +1,195 @@
+{
+  "quick_bite": [],
+  "coffee": [
+    {
+      "name": "Martone's Market & Café",
+      "distance": "0.5 mi",
+      "url": "https://www.google.com/maps/search/Martone's%20Market%20%26%20Caf%C3%A9+near+44.4982306%2C-73.10993610000001"
+    },
+    {
+      "name": "Nest Coffee • Bakery",
+      "distance": "0.5 mi",
+      "url": "https://www.google.com/maps/search/Nest%20Coffee%20%E2%80%A2%20Bakery+near+44.4982306%2C-73.10993610000001"
+    },
+    {
+      "name": "The Firebird Cafe",
+      "distance": "0.5 mi",
+      "url": "https://www.google.com/maps/search/The%20Firebird%20Cafe+near+44.4982306%2C-73.10993610000001"
+    },
+    {
+      "name": "Nomad Coffee",
+      "distance": "0.6 mi",
+      "url": "https://www.google.com/maps/search/Nomad%20Coffee+near+44.4982306%2C-73.10993610000001"
+    }
+  ],
+  "team_lunch": [
+    {
+      "name": "Garden of India",
+      "distance": "0.5 mi",
+      "url": "https://www.google.com/maps/search/Garden%20of%20India+near+44.4982306%2C-73.10993610000001"
+    },
+    {
+      "name": "McGillicuddys Five Corners",
+      "distance": "0.6 mi",
+      "url": "https://www.google.com/maps/search/McGillicuddys%20Five%20Corners+near+44.4982306%2C-73.10993610000001"
+    },
+    {
+      "name": "Essex Junction Grand Buffet",
+      "distance": "0.6 mi",
+      "url": "https://www.google.com/maps/search/Essex%20Junction%20Grand%20Buffet+near+44.4982306%2C-73.10993610000001"
+    },
+    {
+      "name": "El Gato Cantina Essex",
+      "distance": "0.6 mi",
+      "url": "https://www.google.com/maps/search/El%20Gato%20Cantina%20Essex+near+44.4982306%2C-73.10993610000001"
+    },
+    {
+      "name": "On Tap Bar & Grill",
+      "distance": "0.6 mi",
+      "url": "https://www.google.com/maps/search/On%20Tap%20Bar%20%26%20Grill+near+44.4982306%2C-73.10993610000001"
+    }
+  ],
+  "dinner": [
+    {
+      "name": "Sparky's Bar & Grill",
+      "distance": "0.4 mi",
+      "url": "https://www.google.com/maps/search/Sparky's%20Bar%20%26%20Grill+near+44.4982306%2C-73.10993610000001"
+    },
+    {
+      "name": "Flavors of India",
+      "distance": "0.5 mi",
+      "url": "https://www.google.com/maps/search/Flavors%20of%20India+near+44.4982306%2C-73.10993610000001"
+    },
+    {
+      "name": "Mango",
+      "distance": "0.5 mi",
+      "url": "https://www.google.com/maps/search/Mango+near+44.4982306%2C-73.10993610000001"
+    },
+    {
+      "name": "China Garden",
+      "distance": "0.5 mi",
+      "url": "https://www.google.com/maps/search/China%20Garden+near+44.4982306%2C-73.10993610000001"
+    },
+    {
+      "name": "Mexi-Cuban Cravings",
+      "distance": "0.5 mi",
+      "url": "https://www.google.com/maps/search/Mexi-Cuban%20Cravings+near+44.4982306%2C-73.10993610000001"
+    },
+    {
+      "name": "Quality Bake Shop",
+      "distance": "0.5 mi",
+      "url": "https://www.google.com/maps/search/Quality%20Bake%20Shop+near+44.4982306%2C-73.10993610000001"
+    },
+    {
+      "name": "Cafe Mediterano",
+      "distance": "0.5 mi",
+      "url": "https://www.google.com/maps/search/Cafe%20Mediterano+near+44.4982306%2C-73.10993610000001"
+    }
+  ],
+  "bowling": [
+    {
+      "name": "Spare Time Colchester",
+      "distance": "3.3 mi",
+      "url": "https://www.google.com/maps/search/Spare%20Time%20Colchester+near+44.4982306%2C-73.10993610000001",
+      "isFar": true
+    }
+  ],
+  "arcade": [],
+  "movies": [
+    {
+      "name": "Essex Cinemas",
+      "distance": "1.6 mi",
+      "url": "https://www.google.com/maps/search/Essex%20Cinemas+near+44.4982306%2C-73.10993610000001"
+    },
+    {
+      "name": "Majestic 10",
+      "distance": "3.6 mi",
+      "url": "https://www.google.com/maps/search/Majestic%2010+near+44.4982306%2C-73.10993610000001",
+      "isFar": true
+    }
+  ],
+  "fun": [
+    {
+      "name": "Get Air Trampoline Park",
+      "distance": "3.6 mi",
+      "url": "https://www.google.com/maps/search/Get%20Air%20Trampoline%20Park+near+44.4982306%2C-73.10993610000001",
+      "isFar": true
+    },
+    {
+      "name": "Escape Room 60",
+      "distance": "3.6 mi",
+      "url": "https://www.google.com/maps/search/Escape%20Room%2060+near+44.4982306%2C-73.10993610000001",
+      "isFar": true
+    },
+    {
+      "name": "Escape Room 60",
+      "distance": "4.1 mi",
+      "url": "https://www.google.com/maps/search/Escape%20Room%2060+near+44.4982306%2C-73.10993610000001",
+      "isFar": true
+    }
+  ],
+  "hotels": [
+    {
+      "name": "Elevate yourself! 1 Story up Village Hide-a-way!",
+      "distance": "0.4 mi",
+      "url": "https://www.google.com/maps/search/Elevate%20yourself!%201%20Story%20up%20Village%20Hide-a-way!+near+44.4982306%2C-73.10993610000001"
+    },
+    {
+      "name": "Five Corners Meeting Room",
+      "distance": "0.5 mi",
+      "url": "https://www.google.com/maps/search/Five%20Corners%20Meeting%20Room+near+44.4982306%2C-73.10993610000001"
+    },
+    {
+      "name": "Donna Kunkel",
+      "distance": "0.5 mi",
+      "url": "https://www.google.com/maps/search/Donna%20Kunkel+near+44.4982306%2C-73.10993610000001"
+    },
+    {
+      "name": "Cozy 2 bedroom apartment (newly renovated)",
+      "distance": "0.5 mi",
+      "url": "https://www.google.com/maps/search/Cozy%202%20bedroom%20apartment%20(newly%20renovated)+near+44.4982306%2C-73.10993610000001"
+    },
+    {
+      "name": "Lake Champlain Fun: Apt w/ Fire Pit & Large Yard!",
+      "distance": "0.5 mi",
+      "url": "https://www.google.com/maps/search/Lake%20Champlain%20Fun%3A%20Apt%20w%2F%20Fire%20Pit%20%26%20Large%20Yard!+near+44.4982306%2C-73.10993610000001"
+    },
+    {
+      "name": "Lake Champlain Fun Apt with Fire Pit and Large Yard! - Apartment",
+      "distance": "0.5 mi",
+      "url": "https://www.google.com/maps/search/Lake%20Champlain%20Fun%20Apt%20with%20Fire%20Pit%20and%20Large%20Yard!%20-%20Apartment+near+44.4982306%2C-73.10993610000001"
+    },
+    {
+      "name": "Cozy Haven - 5 Corners Essex Junction Condo - Perfect Location!",
+      "distance": "0.5 mi",
+      "url": "https://www.google.com/maps/search/Cozy%20Haven%20-%205%20Corners%20Essex%20Junction%20Condo%20-%20Perfect%20Location!+near+44.4982306%2C-73.10993610000001"
+    }
+  ],
+  "gas": [
+    {
+      "name": "Sunoco",
+      "distance": "0.5 mi",
+      "url": "https://www.google.com/maps/search/Sunoco+near+44.4982306%2C-73.10993610000001"
+    },
+    {
+      "name": "Valero",
+      "distance": "0.5 mi",
+      "url": "https://www.google.com/maps/search/Valero+near+44.4982306%2C-73.10993610000001"
+    },
+    {
+      "name": "Sunoco",
+      "distance": "0.5 mi",
+      "url": "https://www.google.com/maps/search/Sunoco+near+44.4982306%2C-73.10993610000001"
+    },
+    {
+      "name": "FAIRGROUND BEVERAGE",
+      "distance": "0.6 mi",
+      "url": "https://www.google.com/maps/search/FAIRGROUND%20BEVERAGE+near+44.4982306%2C-73.10993610000001"
+    },
+    {
+      "name": "Mobil",
+      "distance": "0.6 mi",
+      "url": "https://www.google.com/maps/search/Mobil+near+44.4982306%2C-73.10993610000001"
+    }
+  ]
+}

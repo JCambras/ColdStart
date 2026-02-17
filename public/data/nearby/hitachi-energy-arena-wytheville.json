@@ -1,0 +1,142 @@
+{
+  "quick_bite": [
+    {
+      "name": "Burger King",
+      "distance": "0.3 mi",
+      "url": "https://www.google.com/maps/search/Burger%20King+near+36.9339752%2C-80.9895324"
+    },
+    {
+      "name": "Subway",
+      "distance": "0.3 mi",
+      "url": "https://www.google.com/maps/search/Subway+near+36.9339752%2C-80.9895324"
+    },
+    {
+      "name": "PJ Fresh Marketplace",
+      "distance": "0.4 mi",
+      "url": "https://www.google.com/maps/search/PJ%20Fresh%20Marketplace+near+36.9339752%2C-80.9895324"
+    },
+    {
+      "name": "Arby's",
+      "distance": "0.4 mi",
+      "url": "https://www.google.com/maps/search/Arby's+near+36.9339752%2C-80.9895324"
+    },
+    {
+      "name": "Wendy's",
+      "distance": "2.5 mi",
+      "url": "https://www.google.com/maps/search/Wendy's+near+36.9339752%2C-80.9895324"
+    }
+  ],
+  "coffee": [
+    {
+      "name": "Dunkin'",
+      "distance": "0.4 mi",
+      "url": "https://www.google.com/maps/search/Dunkin'+near+36.9339752%2C-80.9895324"
+    },
+    {
+      "name": "Starbucks Coffee Company",
+      "distance": "0.4 mi",
+      "url": "https://www.google.com/maps/search/Starbucks%20Coffee%20Company+near+36.9339752%2C-80.9895324"
+    }
+  ],
+  "team_lunch": [
+    {
+      "name": "Cinnabon",
+      "distance": "0.2 mi",
+      "url": "https://www.google.com/maps/search/Cinnabon+near+36.9339752%2C-80.9895324"
+    },
+    {
+      "name": "Denny's Restaurant",
+      "distance": "0.2 mi",
+      "url": "https://www.google.com/maps/search/Denny's%20Restaurant+near+36.9339752%2C-80.9895324"
+    },
+    {
+      "name": "PERGO",
+      "distance": "1.6 mi",
+      "url": "https://www.google.com/maps/search/PERGO+near+36.9339752%2C-80.9895324"
+    },
+    {
+      "name": "The Meltdown",
+      "distance": "2.5 mi",
+      "url": "https://www.google.com/maps/search/The%20Meltdown+near+36.9339752%2C-80.9895324"
+    }
+  ],
+  "dinner": [
+    {
+      "name": "The Meltdown",
+      "distance": "0.2 mi",
+      "url": "https://www.google.com/maps/search/The%20Meltdown+near+36.9339752%2C-80.9895324"
+    },
+    {
+      "name": "High Plains Barbecue",
+      "distance": "1.4 mi",
+      "url": "https://www.google.com/maps/search/High%20Plains%20Barbecue+near+36.9339752%2C-80.9895324"
+    },
+    {
+      "name": "Happy Cinco de Mayo | Méxican Grill",
+      "distance": "2.5 mi",
+      "url": "https://www.google.com/maps/search/Happy%20Cinco%20de%20Mayo%20%7C%20M%C3%A9xican%20Grill+near+36.9339752%2C-80.9895324"
+    }
+  ],
+  "bowling": [],
+  "arcade": [],
+  "movies": [
+    {
+      "name": "Marquee Cinemas - Wytheville",
+      "distance": "6.5 mi",
+      "url": "https://www.google.com/maps/search/Marquee%20Cinemas%20-%20Wytheville+near+36.9339752%2C-80.9895324",
+      "isFar": true
+    }
+  ],
+  "fun": [
+    {
+      "name": "Crossroads Social House",
+      "distance": "6.4 mi",
+      "url": "https://www.google.com/maps/search/Crossroads%20Social%20House+near+36.9339752%2C-80.9895324",
+      "isFar": true
+    }
+  ],
+  "hotels": [
+    {
+      "name": "Wytheville KOA Holiday",
+      "distance": "0.9 mi",
+      "url": "https://www.google.com/maps/search/Wytheville%20KOA%20Holiday+near+36.9339752%2C-80.9895324"
+    },
+    {
+      "name": "Comfort Inn Wytheville - Fort Chiswell",
+      "distance": "2.3 mi",
+      "url": "https://www.google.com/maps/search/Comfort%20Inn%20Wytheville%20-%20Fort%20Chiswell+near+36.9339752%2C-80.9895324"
+    },
+    {
+      "name": "Hampton Inn Ft. Chiswell-Max Meadows",
+      "distance": "2.5 mi",
+      "url": "https://www.google.com/maps/search/Hampton%20Inn%20Ft.%20Chiswell-Max%20Meadows+near+36.9339752%2C-80.9895324"
+    },
+    {
+      "name": "Super 8 by Wyndham Fort Chiswell Wytheville Area",
+      "distance": "2.6 mi",
+      "url": "https://www.google.com/maps/search/Super%208%20by%20Wyndham%20Fort%20Chiswell%20Wytheville%20Area+near+36.9339752%2C-80.9895324"
+    },
+    {
+      "name": "Fort Chiswell RV Park",
+      "distance": "2.7 mi",
+      "url": "https://www.google.com/maps/search/Fort%20Chiswell%20RV%20Park+near+36.9339752%2C-80.9895324"
+    }
+  ],
+  "gas": [
+    {
+      "name": "Speedway",
+      "distance": "0.3 mi",
+      "url": "https://www.google.com/maps/search/Speedway+near+36.9339752%2C-80.9895324"
+    },
+    {
+      "name": "Circle K | Gas Station",
+      "distance": "0.3 mi",
+      "url": "https://www.google.com/maps/search/Circle%20K%20%7C%20Gas%20Station+near+36.9339752%2C-80.9895324"
+    },
+    {
+      "name": "Exxon",
+      "distance": "0.4 mi",
+      "url": "https://www.google.com/maps/search/Exxon+near+36.9339752%2C-80.9895324"
+    }
+  ]
+}

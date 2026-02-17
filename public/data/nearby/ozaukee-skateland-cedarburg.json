@@ -1,0 +1,185 @@
+{
+  "quick_bite": [
+    {
+      "name": "Subway",
+      "distance": "0.5 mi",
+      "url": "https://www.google.com/maps/search/Subway+near+43.321617100000005%2C-87.9986419"
+    }
+  ],
+  "coffee": [
+    {
+      "name": "Cream & Crepe Cafe",
+      "distance": "1.5 mi",
+      "url": "https://www.google.com/maps/search/Cream%20%26%20Crepe%20Cafe+near+43.321617100000005%2C-87.9986419"
+    },
+    {
+      "name": "Java House (Cedarburg)",
+      "distance": "1.6 mi",
+      "url": "https://www.google.com/maps/search/Java%20House%20(Cedarburg)+near+43.321617100000005%2C-87.9986419"
+    },
+    {
+      "name": "Linny's Social Corner LLC",
+      "distance": "1.7 mi",
+      "url": "https://www.google.com/maps/search/Linny's%20Social%20Corner%20LLC+near+43.321617100000005%2C-87.9986419"
+    }
+  ],
+  "team_lunch": [
+    {
+      "name": "Julie's Blue Ribbon Cookies",
+      "distance": "1.2 mi",
+      "url": "https://www.google.com/maps/search/Julie's%20Blue%20Ribbon%20Cookies+near+43.321617100000005%2C-87.9986419"
+    },
+    {
+      "name": "August Weber Haus",
+      "distance": "1.6 mi",
+      "url": "https://www.google.com/maps/search/August%20Weber%20Haus+near+43.321617100000005%2C-87.9986419"
+    }
+  ],
+  "dinner": [
+    {
+      "name": "Elbow Room Twelve 21 Cedarburg",
+      "distance": "0.4 mi",
+      "url": "https://www.google.com/maps/search/Elbow%20Room%20Twelve%2021%20Cedarburg+near+43.321617100000005%2C-87.9986419"
+    },
+    {
+      "name": "Toast Cedarburg",
+      "distance": "0.4 mi",
+      "url": "https://www.google.com/maps/search/Toast%20Cedarburg+near+43.321617100000005%2C-87.9986419"
+    },
+    {
+      "name": "Red Apron Cafe",
+      "distance": "0.4 mi",
+      "url": "https://www.google.com/maps/search/Red%20Apron%20Cafe+near+43.321617100000005%2C-87.9986419"
+    },
+    {
+      "name": "Great China Restaurant",
+      "distance": "0.5 mi",
+      "url": "https://www.google.com/maps/search/Great%20China%20Restaurant+near+43.321617100000005%2C-87.9986419"
+    },
+    {
+      "name": "Anvil Pub & Grille",
+      "distance": "1.5 mi",
+      "url": "https://www.google.com/maps/search/Anvil%20Pub%20%26%20Grille+near+43.321617100000005%2C-87.9986419"
+    },
+    {
+      "name": "Lakeside Cookie Co.",
+      "distance": "1.5 mi",
+      "url": "https://www.google.com/maps/search/Lakeside%20Cookie%20Co.+near+43.321617100000005%2C-87.9986419"
+    },
+    {
+      "name": "Maxwell's",
+      "distance": "1.5 mi",
+      "url": "https://www.google.com/maps/search/Maxwell's+near+43.321617100000005%2C-87.9986419"
+    }
+  ],
+  "bowling": [
+    {
+      "name": "Circle B Recreation",
+      "distance": "0.5 mi",
+      "url": "https://www.google.com/maps/search/Circle%20B%20Recreation+near+43.321617100000005%2C-87.9986419"
+    },
+    {
+      "name": "Cedars III",
+      "distance": "2.4 mi",
+      "url": "https://www.google.com/maps/search/Cedars%20III+near+43.321617100000005%2C-87.9986419"
+    },
+    {
+      "name": "Harbor Hills",
+      "distance": "6.8 mi",
+      "url": "https://www.google.com/maps/search/Harbor%20Hills+near+43.321617100000005%2C-87.9986419",
+      "isFar": true
+    }
+  ],
+  "arcade": [],
+  "movies": [
+    {
+      "name": "Rivoli Theatre",
+      "distance": "1.8 mi",
+      "url": "https://www.google.com/maps/search/Rivoli%20Theatre+near+43.321617100000005%2C-87.9986419"
+    },
+    {
+      "name": "Marcus North Shore Cinema",
+      "distance": "7.4 mi",
+      "url": "https://www.google.com/maps/search/Marcus%20North%20Shore%20Cinema+near+43.321617100000005%2C-87.9986419",
+      "isFar": true
+    }
+  ],
+  "fun": [
+    {
+      "name": "Pirates’ Hollow Community Waterpark",
+      "distance": "7.7 mi",
+      "url": "https://www.google.com/maps/search/Pirates%E2%80%99%20Hollow%20Community%20Waterpark+near+43.321617100000005%2C-87.9986419",
+      "isFar": true
+    },
+    {
+      "name": "Sky Zone Brown Deer",
+      "distance": "9.8 mi",
+      "url": "https://www.google.com/maps/search/Sky%20Zone%20Brown%20Deer+near+43.321617100000005%2C-87.9986419",
+      "isFar": true
+    }
+  ],
+  "hotels": [
+    {
+      "name": "Our Happy Place in Cedarburg, WI",
+      "distance": "1.4 mi",
+      "url": "https://www.google.com/maps/search/Our%20Happy%20Place%20in%20Cedarburg%2C%20WI+near+43.321617100000005%2C-87.9986419"
+    },
+    {
+      "name": "Gift yourself a getaway in 2026",
+      "distance": "1.6 mi",
+      "url": "https://www.google.com/maps/search/Gift%20yourself%20a%20getaway%20in%202026+near+43.321617100000005%2C-87.9986419"
+    },
+    {
+      "name": "Cedarburg apartment in prime location on Washington Ave",
+      "distance": "1.6 mi",
+      "url": "https://www.google.com/maps/search/Cedarburg%20apartment%20in%20prime%20location%20on%20Washington%20Ave+near+43.321617100000005%2C-87.9986419"
+    },
+    {
+      "name": "Small, Rural Getaway",
+      "distance": "1.7 mi",
+      "url": "https://www.google.com/maps/search/Small%2C%20Rural%20Getaway+near+43.321617100000005%2C-87.9986419"
+    },
+    {
+      "name": "Charming 5-bedroom house in Cedarburg",
+      "distance": "1.7 mi",
+      "url": "https://www.google.com/maps/search/Charming%205-bedroom%20house%20in%20Cedarburg+near+43.321617100000005%2C-87.9986419"
+    },
+    {
+      "name": "The Cedar Snug in the heart of Cedarburg",
+      "distance": "1.8 mi",
+      "url": "https://www.google.com/maps/search/The%20Cedar%20Snug%20in%20the%20heart%20of%20Cedarburg+near+43.321617100000005%2C-87.9986419"
+    },
+    {
+      "name": "Highland Home",
+      "distance": "1.8 mi",
+      "url": "https://www.google.com/maps/search/Highland%20Home+near+43.321617100000005%2C-87.9986419"
+    }
+  ],
+  "gas": [
+    {
+      "name": "Express Lane",
+      "distance": "0.3 mi",
+      "url": "https://www.google.com/maps/search/Express%20Lane+near+43.321617100000005%2C-87.9986419"
+    },
+    {
+      "name": "Casey Gas Station",
+      "distance": "1.9 mi",
+      "url": "https://www.google.com/maps/search/Casey%20Gas%20Station+near+43.321617100000005%2C-87.9986419"
+    },
+    {
+      "name": "Citgo of Grafton",
+      "distance": "2.2 mi",
+      "url": "https://www.google.com/maps/search/Citgo%20of%20Grafton+near+43.321617100000005%2C-87.9986419"
+    },
+    {
+      "name": "bp",
+      "distance": "2.3 mi",
+      "url": "https://www.google.com/maps/search/bp+near+43.321617100000005%2C-87.9986419"
+    },
+    {
+      "name": "Citgo Station Grafton",
+      "distance": "2.8 mi",
+      "url": "https://www.google.com/maps/search/Citgo%20Station%20Grafton+near+43.321617100000005%2C-87.9986419"
+    }
+  ]
+}

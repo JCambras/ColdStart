@@ -1,0 +1,199 @@
+{
+  "quick_bite": [
+    {
+      "name": "Hot Head Burritos",
+      "distance": "0.6 mi",
+      "url": "https://www.google.com/maps/search/Hot%20Head%20Burritos+near+41.6908333%2C-83.71305559999999"
+    },
+    {
+      "name": "Romeo's Pizza",
+      "distance": "0.6 mi",
+      "url": "https://www.google.com/maps/search/Romeo's%20Pizza+near+41.6908333%2C-83.71305559999999"
+    },
+    {
+      "name": "Subway",
+      "distance": "0.7 mi",
+      "url": "https://www.google.com/maps/search/Subway+near+41.6908333%2C-83.71305559999999"
+    },
+    {
+      "name": "Centrally Located Luxury Condo",
+      "distance": "1.8 mi",
+      "url": "https://www.google.com/maps/search/Centrally%20Located%20Luxury%20Condo+near+41.6908333%2C-83.71305559999999"
+    },
+    {
+      "name": "Chuck E. Cheese",
+      "distance": "3.5 mi",
+      "url": "https://www.google.com/maps/search/Chuck%20E.%20Cheese+near+41.6908333%2C-83.71305559999999",
+      "isFar": true
+    }
+  ],
+  "coffee": [
+    {
+      "name": "Classic Cafe",
+      "distance": "0.4 mi",
+      "url": "https://www.google.com/maps/search/Classic%20Cafe+near+41.6908333%2C-83.71305559999999"
+    },
+    {
+      "name": "BIGGBY COFFEE",
+      "distance": "0.5 mi",
+      "url": "https://www.google.com/maps/search/BIGGBY%20COFFEE+near+41.6908333%2C-83.71305559999999"
+    },
+    {
+      "name": "Starbucks Coffee Company",
+      "distance": "0.6 mi",
+      "url": "https://www.google.com/maps/search/Starbucks%20Coffee%20Company+near+41.6908333%2C-83.71305559999999"
+    },
+    {
+      "name": "Scooter's Coffee",
+      "distance": "0.7 mi",
+      "url": "https://www.google.com/maps/search/Scooter's%20Coffee+near+41.6908333%2C-83.71305559999999"
+    }
+  ],
+  "team_lunch": [
+    {
+      "name": "Sweet Treat Station",
+      "distance": "0.2 mi",
+      "url": "https://www.google.com/maps/search/Sweet%20Treat%20Station+near+41.6908333%2C-83.71305559999999"
+    },
+    {
+      "name": "King's Chef",
+      "distance": "0.4 mi",
+      "url": "https://www.google.com/maps/search/King's%20Chef+near+41.6908333%2C-83.71305559999999"
+    },
+    {
+      "name": "Kroger Bakery",
+      "distance": "0.6 mi",
+      "url": "https://www.google.com/maps/search/Kroger%20Bakery+near+41.6908333%2C-83.71305559999999"
+    },
+    {
+      "name": "Referees Mexican Sports Bar & Grill",
+      "distance": "0.7 mi",
+      "url": "https://www.google.com/maps/search/Referees%20Mexican%20Sports%20Bar%20%26%20Grill+near+41.6908333%2C-83.71305559999999"
+    }
+  ],
+  "dinner": [
+    {
+      "name": "Geo's Pizzas & Loft",
+      "distance": "0.1 mi",
+      "url": "https://www.google.com/maps/search/Geo's%20Pizzas%20%26%20Loft+near+41.6908333%2C-83.71305559999999"
+    },
+    {
+      "name": "Country Grains Market",
+      "distance": "0.3 mi",
+      "url": "https://www.google.com/maps/search/Country%20Grains%20Market+near+41.6908333%2C-83.71305559999999"
+    },
+    {
+      "name": "Gyro Town",
+      "distance": "0.4 mi",
+      "url": "https://www.google.com/maps/search/Gyro%20Town+near+41.6908333%2C-83.71305559999999"
+    },
+    {
+      "name": "McKiddy Cakes",
+      "distance": "0.5 mi",
+      "url": "https://www.google.com/maps/search/McKiddy%20Cakes+near+41.6908333%2C-83.71305559999999"
+    },
+    {
+      "name": "Marcel's",
+      "distance": "0.6 mi",
+      "url": "https://www.google.com/maps/search/Marcel's+near+41.6908333%2C-83.71305559999999"
+    },
+    {
+      "name": "Bakery Unlimited",
+      "distance": "0.6 mi",
+      "url": "https://www.google.com/maps/search/Bakery%20Unlimited+near+41.6908333%2C-83.71305559999999"
+    },
+    {
+      "name": "Kay's Table",
+      "distance": "0.6 mi",
+      "url": "https://www.google.com/maps/search/Kay's%20Table+near+41.6908333%2C-83.71305559999999"
+    }
+  ],
+  "bowling": [
+    {
+      "name": "The Forty Frame Game Bowling Tournament",
+      "distance": "4.4 mi",
+      "url": "https://www.google.com/maps/search/The%20Forty%20Frame%20Game%20Bowling%20Tournament+near+41.6908333%2C-83.71305559999999",
+      "isFar": true
+    }
+  ],
+  "arcade": [],
+  "movies": [],
+  "fun": [
+    {
+      "name": "LOCK N LOAD",
+      "distance": "3.7 mi",
+      "url": "https://www.google.com/maps/search/LOCK%20N%20LOAD+near+41.6908333%2C-83.71305559999999",
+      "isFar": true
+    },
+    {
+      "name": "All Smiles Aboard Railroad at Franklin Park Mall",
+      "distance": "3.8 mi",
+      "url": "https://www.google.com/maps/search/All%20Smiles%20Aboard%20Railroad%20at%20Franklin%20Park%20Mall+near+41.6908333%2C-83.71305559999999",
+      "isFar": true
+    }
+  ],
+  "hotels": [
+    {
+      "name": "Macinanak island",
+      "distance": "0.4 mi",
+      "url": "https://www.google.com/maps/search/Macinanak%20island+near+41.6908333%2C-83.71305559999999"
+    },
+    {
+      "name": "Cozy Condo in Serene Neighborhood",
+      "distance": "0.9 mi",
+      "url": "https://www.google.com/maps/search/Cozy%20Condo%20in%20Serene%20Neighborhood+near+41.6908333%2C-83.71305559999999"
+    },
+    {
+      "name": "Bright Toledo Duplex, Close to Parks and Trails",
+      "distance": "1.0 mi",
+      "url": "https://www.google.com/maps/search/Bright%20Toledo%20Duplex%2C%20Close%20to%20Parks%20and%20Trails+near+41.6908333%2C-83.71305559999999"
+    },
+    {
+      "name": "5 Mi to UT: Quiet Toledo Duplex Near Parks!",
+      "distance": "1.0 mi",
+      "url": "https://www.google.com/maps/search/5%20Mi%20to%20UT%3A%20Quiet%20Toledo%20Duplex%20Near%20Parks!+near+41.6908333%2C-83.71305559999999"
+    },
+    {
+      "name": "Cozy Duplex Close to Toledo Botanical Garden - Apartment",
+      "distance": "1.0 mi",
+      "url": "https://www.google.com/maps/search/Cozy%20Duplex%20Close%20to%20Toledo%20Botanical%20Garden%20-%20Apartment+near+41.6908333%2C-83.71305559999999"
+    },
+    {
+      "name": "Cozy Duplex Close To Toledo Botanical Garden",
+      "distance": "1.0 mi",
+      "url": "https://www.google.com/maps/search/Cozy%20Duplex%20Close%20To%20Toledo%20Botanical%20Garden+near+41.6908333%2C-83.71305559999999"
+    },
+    {
+      "name": "Cozy Duplex Close to Toledo Botanical Garden",
+      "distance": "1.0 mi",
+      "url": "https://www.google.com/maps/search/Cozy%20Duplex%20Close%20to%20Toledo%20Botanical%20Garden+near+41.6908333%2C-83.71305559999999"
+    }
+  ],
+  "gas": [
+    {
+      "name": "Speedway",
+      "distance": "0.5 mi",
+      "url": "https://www.google.com/maps/search/Speedway+near+41.6908333%2C-83.71305559999999"
+    },
+    {
+      "name": "Kroger Fuel Center",
+      "distance": "0.6 mi",
+      "url": "https://www.google.com/maps/search/Kroger%20Fuel%20Center+near+41.6908333%2C-83.71305559999999"
+    },
+    {
+      "name": "bp",
+      "distance": "1.2 mi",
+      "url": "https://www.google.com/maps/search/bp+near+41.6908333%2C-83.71305559999999"
+    },
+    {
+      "name": "Speedway",
+      "distance": "1.3 mi",
+      "url": "https://www.google.com/maps/search/Speedway+near+41.6908333%2C-83.71305559999999"
+    },
+    {
+      "name": "S&G #56",
+      "distance": "1.3 mi",
+      "url": "https://www.google.com/maps/search/S%26G%20%2356+near+41.6908333%2C-83.71305559999999"
+    }
+  ]
+}

@@ -1,0 +1,227 @@
+{
+  "quick_bite": [
+    {
+      "name": "Pizza Hut Express",
+      "distance": "0.6 mi",
+      "url": "https://www.google.com/maps/search/Pizza%20Hut%20Express+near+45.0444871%2C-93.37127679999999"
+    },
+    {
+      "name": "Jin's Chow Mein",
+      "distance": "0.7 mi",
+      "url": "https://www.google.com/maps/search/Jin's%20Chow%20Mein+near+45.0444871%2C-93.37127679999999"
+    },
+    {
+      "name": "Taco Bell",
+      "distance": "0.7 mi",
+      "url": "https://www.google.com/maps/search/Taco%20Bell+near+45.0444871%2C-93.37127679999999"
+    },
+    {
+      "name": "TequilaTown Authentic Mexican Cuisine",
+      "distance": "0.7 mi",
+      "url": "https://www.google.com/maps/search/TequilaTown%20Authentic%20Mexican%20Cuisine+near+45.0444871%2C-93.37127679999999"
+    },
+    {
+      "name": "Popeyes Louisiana Kitchen",
+      "distance": "0.7 mi",
+      "url": "https://www.google.com/maps/search/Popeyes%20Louisiana%20Kitchen+near+45.0444871%2C-93.37127679999999"
+    },
+    {
+      "name": "Subway",
+      "distance": "0.7 mi",
+      "url": "https://www.google.com/maps/search/Subway+near+45.0444871%2C-93.37127679999999"
+    },
+    {
+      "name": "Captain Hook Fish & Chicken",
+      "distance": "0.7 mi",
+      "url": "https://www.google.com/maps/search/Captain%20Hook%20Fish%20%26%20Chicken+near+45.0444871%2C-93.37127679999999"
+    }
+  ],
+  "coffee": [
+    {
+      "name": "Starbucks",
+      "distance": "0.6 mi",
+      "url": "https://www.google.com/maps/search/Starbucks+near+45.0444871%2C-93.37127679999999"
+    },
+    {
+      "name": "Starbucks Coffee Company",
+      "distance": "0.6 mi",
+      "url": "https://www.google.com/maps/search/Starbucks%20Coffee%20Company+near+45.0444871%2C-93.37127679999999"
+    },
+    {
+      "name": "McDonald's",
+      "distance": "0.7 mi",
+      "url": "https://www.google.com/maps/search/McDonald's+near+45.0444871%2C-93.37127679999999"
+    },
+    {
+      "name": "Ambiance Cafe",
+      "distance": "0.7 mi",
+      "url": "https://www.google.com/maps/search/Ambiance%20Cafe+near+45.0444871%2C-93.37127679999999"
+    },
+    {
+      "name": "Dunkin'",
+      "distance": "0.7 mi",
+      "url": "https://www.google.com/maps/search/Dunkin'+near+45.0444871%2C-93.37127679999999"
+    }
+  ],
+  "team_lunch": [
+    {
+      "name": "Joy's Kind Kitchen",
+      "distance": "0.5 mi",
+      "url": "https://www.google.com/maps/search/Joy's%20Kind%20Kitchen+near+45.0444871%2C-93.37127679999999"
+    },
+    {
+      "name": "Taqueria Lomabonita",
+      "distance": "0.7 mi",
+      "url": "https://www.google.com/maps/search/Taqueria%20Lomabonita+near+45.0444871%2C-93.37127679999999"
+    },
+    {
+      "name": "Perkins American Food Co.",
+      "distance": "0.7 mi",
+      "url": "https://www.google.com/maps/search/Perkins%20American%20Food%20Co.+near+45.0444871%2C-93.37127679999999"
+    },
+    {
+      "name": "Wingstop",
+      "distance": "0.7 mi",
+      "url": "https://www.google.com/maps/search/Wingstop+near+45.0444871%2C-93.37127679999999"
+    },
+    {
+      "name": "MrBeast Burger",
+      "distance": "0.7 mi",
+      "url": "https://www.google.com/maps/search/MrBeast%20Burger+near+45.0444871%2C-93.37127679999999"
+    }
+  ],
+  "dinner": [
+    {
+      "name": "3DS African Kitchen Amala Joint",
+      "distance": "0.7 mi",
+      "url": "https://www.google.com/maps/search/3DS%20African%20Kitchen%20Amala%20Joint+near+45.0444871%2C-93.37127679999999"
+    },
+    {
+      "name": "Cajun Kitchen",
+      "distance": "0.7 mi",
+      "url": "https://www.google.com/maps/search/Cajun%20Kitchen+near+45.0444871%2C-93.37127679999999"
+    }
+  ],
+  "bowling": [
+    {
+      "name": "New Hope Bowl",
+      "distance": "0.9 mi",
+      "url": "https://www.google.com/maps/search/New%20Hope%20Bowl+near+45.0444871%2C-93.37127679999999"
+    },
+    {
+      "name": "Bowlero Brooklyn Park",
+      "distance": "3.3 mi",
+      "url": "https://www.google.com/maps/search/Bowlero%20Brooklyn%20Park+near+45.0444871%2C-93.37127679999999",
+      "isFar": true
+    }
+  ],
+  "arcade": [],
+  "movies": [
+    {
+      "name": "Cinema Grill",
+      "distance": "2.5 mi",
+      "url": "https://www.google.com/maps/search/Cinema%20Grill+near+45.0444871%2C-93.37127679999999"
+    },
+    {
+      "name": "Emagine Willow Creek",
+      "distance": "4.8 mi",
+      "url": "https://www.google.com/maps/search/Emagine%20Willow%20Creek+near+45.0444871%2C-93.37127679999999",
+      "isFar": true
+    }
+  ],
+  "fun": [
+    {
+      "name": "New Hope Aquatic Park",
+      "distance": "0.9 mi",
+      "url": "https://www.google.com/maps/search/New%20Hope%20Aquatic%20Park+near+45.0444871%2C-93.37127679999999"
+    },
+    {
+      "name": "Manor Park Splash Pad",
+      "distance": "3.2 mi",
+      "url": "https://www.google.com/maps/search/Manor%20Park%20Splash%20Pad+near+45.0444871%2C-93.37127679999999",
+      "isFar": true
+    },
+    {
+      "name": "Slick City Action Park",
+      "distance": "4.1 mi",
+      "url": "https://www.google.com/maps/search/Slick%20City%20Action%20Park+near+45.0444871%2C-93.37127679999999",
+      "isFar": true
+    },
+    {
+      "name": "Zero Hour Escape Rooms | Minneapolis, MN",
+      "distance": "4.5 mi",
+      "url": "https://www.google.com/maps/search/Zero%20Hour%20Escape%20Rooms%20%7C%20Minneapolis%2C%20MN+near+45.0444871%2C-93.37127679999999",
+      "isFar": true
+    },
+    {
+      "name": "North Commons Water Park",
+      "distance": "4.7 mi",
+      "url": "https://www.google.com/maps/search/North%20Commons%20Water%20Park+near+45.0444871%2C-93.37127679999999",
+      "isFar": true
+    }
+  ],
+  "hotels": [
+    {
+      "name": "Spacious 3-Bed Loft Home, Private Deck & Fire Pit",
+      "distance": "0.6 mi",
+      "url": "https://www.google.com/maps/search/Spacious%203-Bed%20Loft%20Home%2C%20Private%20Deck%20%26%20Fire%20Pit+near+45.0444871%2C-93.37127679999999"
+    },
+    {
+      "name": "Spacious 3-Bed Loft Home, Private Deck & Fire Pit",
+      "distance": "0.6 mi",
+      "url": "https://www.google.com/maps/search/Spacious%203-Bed%20Loft%20Home%2C%20Private%20Deck%20%26%20Fire%20Pit+near+45.0444871%2C-93.37127679999999"
+    },
+    {
+      "name": "Charming 3-bedroom furnished house with AC, WiFi in tranquil Crystal Minnesota",
+      "distance": "0.6 mi",
+      "url": "https://www.google.com/maps/search/Charming%203-bedroom%20furnished%20house%20with%20AC%2C%20WiFi%20in%20tranquil%20Crystal%20Minnesota+near+45.0444871%2C-93.37127679999999"
+    },
+    {
+      "name": "3-bedroom townhome in peaceful New Hope with AC, WiFi",
+      "distance": "0.8 mi",
+      "url": "https://www.google.com/maps/search/3-bedroom%20townhome%20in%20peaceful%20New%20Hope%20with%20AC%2C%20WiFi+near+45.0444871%2C-93.37127679999999"
+    },
+    {
+      "name": "3-bedroom townhome in peaceful New Hope with AC, WiFi",
+      "distance": "0.8 mi",
+      "url": "https://www.google.com/maps/search/3-bedroom%20townhome%20in%20peaceful%20New%20Hope%20with%20AC%2C%20WiFi+near+45.0444871%2C-93.37127679999999"
+    },
+    {
+      "name": "Charming 3-bedroom house in serene Crystal with WiFi, AC, laundry room",
+      "distance": "0.9 mi",
+      "url": "https://www.google.com/maps/search/Charming%203-bedroom%20house%20in%20serene%20Crystal%20with%20WiFi%2C%20AC%2C%20laundry%20room+near+45.0444871%2C-93.37127679999999"
+    },
+    {
+      "name": "Newly Renovated 2 Bedroom apt!",
+      "distance": "1.0 mi",
+      "url": "https://www.google.com/maps/search/Newly%20Renovated%202%20Bedroom%20apt!+near+45.0444871%2C-93.37127679999999"
+    }
+  ],
+  "gas": [
+    {
+      "name": "Speedway",
+      "distance": "0.6 mi",
+      "url": "https://www.google.com/maps/search/Speedway+near+45.0444871%2C-93.37127679999999"
+    },
+    {
+      "name": "Fuel",
+      "distance": "0.7 mi",
+      "url": "https://www.google.com/maps/search/Fuel+near+45.0444871%2C-93.37127679999999"
+    },
+    {
+      "name": "Holiday Gas Station",
+      "distance": "0.8 mi",
+      "url": "https://www.google.com/maps/search/Holiday%20Gas%20Station+near+45.0444871%2C-93.37127679999999"
+    },
+    {
+      "name": "Marathon Gas Station",
+      "distance": "0.9 mi",
+      "url": "https://www.google.com/maps/search/Marathon%20Gas%20Station+near+45.0444871%2C-93.37127679999999"
+    },
+    {
+      "name": "Holiday",
+      "distance": "1.0 mi",
+      "url": "https://www.google.com/maps/search/Holiday+near+45.0444871%2C-93.37127679999999"
+    }
+  ]
+}

@@ -1,0 +1,244 @@
+{
+  "quick_bite": [
+    {
+      "name": "Wendy's",
+      "distance": "0.4 mi",
+      "url": "https://www.google.com/maps/search/Wendy's+near+61.204192199999994%2C-149.7458651"
+    },
+    {
+      "name": "Subway",
+      "distance": "0.5 mi",
+      "url": "https://www.google.com/maps/search/Subway+near+61.204192199999994%2C-149.7458651"
+    },
+    {
+      "name": "Palermo Pizza & Phillys",
+      "distance": "0.6 mi",
+      "url": "https://www.google.com/maps/search/Palermo%20Pizza%20%26%20Phillys+near+61.204192199999994%2C-149.7458651"
+    },
+    {
+      "name": "Taco Bell",
+      "distance": "0.7 mi",
+      "url": "https://www.google.com/maps/search/Taco%20Bell+near+61.204192199999994%2C-149.7458651"
+    },
+    {
+      "name": "Arby's",
+      "distance": "0.7 mi",
+      "url": "https://www.google.com/maps/search/Arby's+near+61.204192199999994%2C-149.7458651"
+    },
+    {
+      "name": "Chuck E. Cheese",
+      "distance": "4.5 mi",
+      "url": "https://www.google.com/maps/search/Chuck%20E.%20Cheese+near+61.204192199999994%2C-149.7458651",
+      "isFar": true
+    },
+    {
+      "name": "Cinemark Century Anchorage 16 and XD",
+      "distance": "4.6 mi",
+      "url": "https://www.google.com/maps/search/Cinemark%20Century%20Anchorage%2016%20and%20XD+near+61.204192199999994%2C-149.7458651",
+      "isFar": true
+    }
+  ],
+  "coffee": [
+    {
+      "name": "gambo restorante",
+      "distance": "0.4 mi",
+      "url": "https://www.google.com/maps/search/gambo%20restorante+near+61.204192199999994%2C-149.7458651"
+    },
+    {
+      "name": "Krispy Kreme Doughnuts",
+      "distance": "0.5 mi",
+      "url": "https://www.google.com/maps/search/Krispy%20Kreme%20Doughnuts+near+61.204192199999994%2C-149.7458651"
+    },
+    {
+      "name": "Starbucks Coffee Company",
+      "distance": "0.5 mi",
+      "url": "https://www.google.com/maps/search/Starbucks%20Coffee%20Company+near+61.204192199999994%2C-149.7458651"
+    },
+    {
+      "name": "Starbucks Coffee Company",
+      "distance": "0.6 mi",
+      "url": "https://www.google.com/maps/search/Starbucks%20Coffee%20Company+near+61.204192199999994%2C-149.7458651"
+    },
+    {
+      "name": "Motor Mocha Inc",
+      "distance": "0.6 mi",
+      "url": "https://www.google.com/maps/search/Motor%20Mocha%20Inc+near+61.204192199999994%2C-149.7458651"
+    }
+  ],
+  "team_lunch": [
+    {
+      "name": "Walmart Bakery",
+      "distance": "0.5 mi",
+      "url": "https://www.google.com/maps/search/Walmart%20Bakery+near+61.204192199999994%2C-149.7458651"
+    },
+    {
+      "name": "Wingstop",
+      "distance": "0.6 mi",
+      "url": "https://www.google.com/maps/search/Wingstop+near+61.204192199999994%2C-149.7458651"
+    },
+    {
+      "name": "Ding How Mongolian BBQ",
+      "distance": "0.6 mi",
+      "url": "https://www.google.com/maps/search/Ding%20How%20Mongolian%20BBQ+near+61.204192199999994%2C-149.7458651"
+    },
+    {
+      "name": "Great Alaska Pizza Co",
+      "distance": "0.7 mi",
+      "url": "https://www.google.com/maps/search/Great%20Alaska%20Pizza%20Co+near+61.204192199999994%2C-149.7458651"
+    }
+  ],
+  "dinner": [
+    {
+      "name": "Top Wings",
+      "distance": "0.5 mi",
+      "url": "https://www.google.com/maps/search/Top%20Wings+near+61.204192199999994%2C-149.7458651"
+    },
+    {
+      "name": "Celiacs' Delights",
+      "distance": "0.6 mi",
+      "url": "https://www.google.com/maps/search/Celiacs'%20Delights+near+61.204192199999994%2C-149.7458651"
+    },
+    {
+      "name": "Samurai Sushi",
+      "distance": "0.6 mi",
+      "url": "https://www.google.com/maps/search/Samurai%20Sushi+near+61.204192199999994%2C-149.7458651"
+    },
+    {
+      "name": "Hacienda Mexican Restaurant",
+      "distance": "0.7 mi",
+      "url": "https://www.google.com/maps/search/Hacienda%20Mexican%20Restaurant+near+61.204192199999994%2C-149.7458651"
+    },
+    {
+      "name": "My Shawarma House",
+      "distance": "0.7 mi",
+      "url": "https://www.google.com/maps/search/My%20Shawarma%20House+near+61.204192199999994%2C-149.7458651"
+    }
+  ],
+  "bowling": [
+    {
+      "name": "Polar Bowl",
+      "distance": "4.3 mi",
+      "url": "https://www.google.com/maps/search/Polar%20Bowl+near+61.204192199999994%2C-149.7458651",
+      "isFar": true
+    }
+  ],
+  "arcade": [],
+  "movies": [
+    {
+      "name": "Regal Totem",
+      "distance": "0.9 mi",
+      "url": "https://www.google.com/maps/search/Regal%20Totem+near+61.204192199999994%2C-149.7458651"
+    },
+    {
+      "name": "Regal Tikahtnu",
+      "distance": "1.6 mi",
+      "url": "https://www.google.com/maps/search/Regal%20Tikahtnu+near+61.204192199999994%2C-149.7458651"
+    },
+    {
+      "name": "Frontier Theater",
+      "distance": "3.8 mi",
+      "url": "https://www.google.com/maps/search/Frontier%20Theater+near+61.204192199999994%2C-149.7458651",
+      "isFar": true
+    },
+    {
+      "name": "Talkeetna Theater",
+      "distance": "4.5 mi",
+      "url": "https://www.google.com/maps/search/Talkeetna%20Theater+near+61.204192199999994%2C-149.7458651",
+      "isFar": true
+    },
+    {
+      "name": "Alaska Experience Theater",
+      "distance": "4.9 mi",
+      "url": "https://www.google.com/maps/search/Alaska%20Experience%20Theater+near+61.204192199999994%2C-149.7458651",
+      "isFar": true
+    },
+    {
+      "name": "Bear and Raven Adventure Theater",
+      "distance": "4.9 mi",
+      "url": "https://www.google.com/maps/search/Bear%20and%20Raven%20Adventure%20Theater+near+61.204192199999994%2C-149.7458651",
+      "isFar": true
+    },
+    {
+      "name": "E Street Theater",
+      "distance": "4.9 mi",
+      "url": "https://www.google.com/maps/search/E%20Street%20Theater+near+61.204192199999994%2C-149.7458651",
+      "isFar": true
+    }
+  ],
+  "fun": [
+    {
+      "name": "KidsEvent",
+      "distance": "1.6 mi",
+      "url": "https://www.google.com/maps/search/KidsEvent+near+61.204192199999994%2C-149.7458651"
+    },
+    {
+      "name": "Shockwave Trampoline Park",
+      "distance": "2.5 mi",
+      "url": "https://www.google.com/maps/search/Shockwave%20Trampoline%20Park+near+61.204192199999994%2C-149.7458651"
+    }
+  ],
+  "hotels": [
+    {
+      "name": "Lena peter",
+      "distance": "0.1 mi",
+      "url": "https://www.google.com/maps/search/Lena%20peter+near+61.204192199999994%2C-149.7458651"
+    },
+    {
+      "name": "Sweet Caroline w/ Mtn view. Entire Downstairs Unit. Quiet family-friendly",
+      "distance": "0.1 mi",
+      "url": "https://www.google.com/maps/search/Sweet%20Caroline%20w%2F%20Mtn%20view.%20Entire%20Downstairs%20Unit.%20Quiet%20family-friendly+near+61.204192199999994%2C-149.7458651"
+    },
+    {
+      "name": "Quiet Gem, right on a creek. Newley Renovated.",
+      "distance": "0.2 mi",
+      "url": "https://www.google.com/maps/search/Quiet%20Gem%2C%20right%20on%20a%20creek.%20Newley%20Renovated.+near+61.204192199999994%2C-149.7458651"
+    },
+    {
+      "name": "5 Mi to State Park: Mtn-View Apt in Anchorage",
+      "distance": "0.2 mi",
+      "url": "https://www.google.com/maps/search/5%20Mi%20to%20State%20Park%3A%20Mtn-View%20Apt%20in%20Anchorage+near+61.204192199999994%2C-149.7458651"
+    },
+    {
+      "name": "The Alaska Life Suite",
+      "distance": "0.2 mi",
+      "url": "https://www.google.com/maps/search/The%20Alaska%20Life%20Suite+near+61.204192199999994%2C-149.7458651"
+    },
+    {
+      "name": "The Bear Den Studio in Anchorage",
+      "distance": "0.2 mi",
+      "url": "https://www.google.com/maps/search/The%20Bear%20Den%20Studio%20in%20Anchorage+near+61.204192199999994%2C-149.7458651"
+    },
+    {
+      "name": "907stay - Alaskan Suite",
+      "distance": "0.2 mi",
+      "url": "https://www.google.com/maps/search/907stay%20-%20Alaskan%20Suite+near+61.204192199999994%2C-149.7458651"
+    }
+  ],
+  "gas": [
+    {
+      "name": "Fred Meyer Fuel Center",
+      "distance": "0.6 mi",
+      "url": "https://www.google.com/maps/search/Fred%20Meyer%20Fuel%20Center+near+61.204192199999994%2C-149.7458651"
+    },
+    {
+      "name": "Arco",
+      "distance": "1.0 mi",
+      "url": "https://www.google.com/maps/search/Arco+near+61.204192199999994%2C-149.7458651"
+    },
+    {
+      "name": "Chevron Denali Express",
+      "distance": "1.1 mi",
+      "url": "https://www.google.com/maps/search/Chevron%20Denali%20Express+near+61.204192199999994%2C-149.7458651"
+    },
+    {
+      "name": "Circle K Gas Station",
+      "distance": "1.1 mi",
+      "url": "https://www.google.com/maps/search/Circle%20K%20Gas%20Station+near+61.204192199999994%2C-149.7458651"
+    },
+    {
+      "name": "Boniface Chevron",
+      "distance": "1.2 mi",
+      "url": "https://www.google.com/maps/search/Boniface%20Chevron+near+61.204192199999994%2C-149.7458651"
+    }
+  ]
+}

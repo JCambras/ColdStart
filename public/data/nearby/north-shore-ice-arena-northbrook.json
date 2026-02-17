@@ -1,0 +1,196 @@
+{
+  "quick_bite": [
+    {
+      "name": "sweetgreen - Healthy Salads, Bowls and Plates",
+      "distance": "0.6 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=sweetgreen%20-%20Healthy%20Salads%2C%20Bowls%20and%20Plates&query_place_id=ChIJ3TVbfU3HD4gRJC1ysbxRcdQ&center=42.1073071,-87.802819"
+    },
+    {
+      "name": "Potbelly",
+      "distance": "0.6 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Potbelly&query_place_id=ChIJM7EbMO7GD4gRPRhzGN-NYbo&center=42.1067399,-87.8029462"
+    },
+    {
+      "name": "Buffalo Wild Wings",
+      "distance": "0.6 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Buffalo%20Wild%20Wings&query_place_id=ChIJ1-vBaf3GD4gRibFGRVsy8tw&center=42.106181799999995,-87.8036782"
+    },
+    {
+      "name": "Market Sandwich",
+      "distance": "0.6 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Market%20Sandwich&query_place_id=ChIJ9_7S8rDHD4gRf5fiHSbB-P4&center=42.106183099999996,-87.8019992"
+    },
+    {
+      "name": "Chipotle Mexican Grill",
+      "distance": "0.6 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Chipotle%20Mexican%20Grill&query_place_id=ChIJtS8GF_vGD4gRzX0PJTvrRSU&center=42.1047829,-87.81413169999999"
+    }
+  ],
+  "coffee": [
+    {
+      "name": "Starbucks Coffee Company",
+      "distance": "0.6 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Starbucks%20Coffee%20Company&query_place_id=ChIJfYX6KfDGD4gRMEqrojUg2mc&center=42.10664,-87.80372"
+    },
+    {
+      "name": "Cinnabon",
+      "distance": "0.6 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Cinnabon&query_place_id=ChIJo4yzKQzHD4gRF0GIlhZUumA&center=42.105563599999996,-87.81244219999999"
+    },
+    {
+      "name": "Candy Cloud - Glenview",
+      "distance": "0.6 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Candy%20Cloud%20-%20Glenview&query_place_id=ChIJdxYWTz7HD4gRGHfprgEADWw&center=42.1047398,-87.8140868"
+    }
+  ],
+  "team_lunch": [
+    {
+      "name": "Auntie Anne's",
+      "distance": "0.6 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Auntie%20Anne's&query_place_id=ChIJrdRKS-fHD4gRsFV0-vVTFBw&center=42.105563599999996,-87.81244219999999"
+    },
+    {
+      "name": "McAlister's Deli",
+      "distance": "0.6 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=McAlister's%20Deli&query_place_id=ChIJYZRAlSfHD4gRLllrSB86W_Y&center=42.1048943,-87.81413719999999"
+    },
+    {
+      "name": "Kikka Sushi",
+      "distance": "0.6 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Kikka%20Sushi&query_place_id=ChIJLT9aZODHD4gRrhO2p-ctG-k&center=42.106183099999996,-87.8019992"
+    },
+    {
+      "name": "Steak 'n Shake",
+      "distance": "0.6 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Steak%20'n%20Shake&query_place_id=ChIJHdHpYvzGD4gRFrU4SZKTSCA&center=42.1041645,-87.8115626"
+    },
+    {
+      "name": "Whole Foods Bakery",
+      "distance": "0.7 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Whole%20Foods%20Bakery&query_place_id=ChIJ5d-cAADHD4gRM2iWtgVaMDc&center=42.1066794,-87.80070359999999"
+    }
+  ],
+  "dinner": [
+    {
+      "name": "Epic Burger",
+      "distance": "0.5 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Epic%20Burger&query_place_id=ChIJ92MzDQDHD4gRLuj6voM261U&center=42.1069336,-87.80372679999999"
+    },
+    {
+      "name": "Crumbl",
+      "distance": "0.6 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Crumbl&query_place_id=ChIJBbl2h1fHD4gRSDBsxXMtfjU&center=42.10682620000001,-87.8028621"
+    },
+    {
+      "name": "Lazy Dog Restaurant & Bar",
+      "distance": "0.6 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Lazy%20Dog%20Restaurant%20%26%20Bar&query_place_id=ChIJq1CljafHD4gR9o_HlhVODto&center=42.1061883,-87.802965"
+    },
+    {
+      "name": "Currito Glenview",
+      "distance": "0.6 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Currito%20Glenview&query_place_id=ChIJRdt_BgjHD4gRq3TgmGGol8E&center=42.1044887,-87.81276419999999"
+    },
+    {
+      "name": "Dengeos Glenview",
+      "distance": "0.6 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Dengeos%20Glenview&query_place_id=ChIJo0PAUnfHD4gRsR5JWNZgjyI&center=42.1044122,-87.81240749999999"
+    }
+  ],
+  "bowling": [
+    {
+      "name": "Pinstripes",
+      "distance": "0.5 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Pinstripes&query_place_id=ChIJJQJ4vfrGD4gRuLK_Sd5nYQQ&center=42.106427,-87.8079289"
+    }
+  ],
+  "arcade": [],
+  "movies": [
+    {
+      "name": "Landmark at The Glen",
+      "distance": "1.9 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Landmark%20at%20The%20Glen&query_place_id=ChIJ14WOaCfHD4gRM4dNZ_MJ0vU&center=42.0885357,-87.824399"
+    },
+    {
+      "name": "AMC Northbrook",
+      "distance": "2.5 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=AMC%20Northbrook&query_place_id=ChIJ9YUczFfBD4gROpJlN3mBV8Y&center=42.1495107,-87.8165939"
+    },
+    {
+      "name": "AMC DINE-IN Northbrook 14",
+      "distance": "2.5 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=AMC%20DINE-IN%20Northbrook%2014&query_place_id=ChIJpRGXktjAD4gRMlx9GapqBtM&center=42.1496681,-87.8168032"
+    }
+  ],
+  "fun": [
+    {
+      "name": "WILLOW HILLS",
+      "distance": "0.4 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=WILLOW%20HILLS&query_place_id=ChIJla5HSwDHD4gRfifEjvVqZjQ&center=42.1084469,-87.81471169999999"
+    },
+    {
+      "name": "Ash Memorial Tree",
+      "distance": "0.5 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Ash%20Memorial%20Tree&query_place_id=ChIJyTMXAFvHD4gRYCCkGgE3Fl8&center=42.1064028,-87.80659070000002"
+    },
+    {
+      "name": "SteckEscape",
+      "distance": "1.3 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=SteckEscape&query_place_id=ChIJ83uSMXrHD4gRbBmYktV0S14&center=42.1171965,-87.83388649999999"
+    },
+    {
+      "name": "Fountain Plaza",
+      "distance": "1.6 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Fountain%20Plaza&query_place_id=ChIJVULHGaTHD4gRlCVF4MhbNXY&center=42.0913135,-87.8203104"
+    }
+  ],
+  "hotels": [
+    {
+      "name": "Sheraton Chicago Northbrook Hotel",
+      "distance": "0.4 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Sheraton%20Chicago%20Northbrook%20Hotel&query_place_id=ChIJ3x5OFeXGD4gRo2sO_Sj5xp0&center=42.1082932,-87.80729649999999"
+    },
+    {
+      "name": "King Suite in \\\"The Glen\\\" District. Free Breakfast Daily. Indoor Pool",
+      "distance": "0.8 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=King%20Suite%20in%20%5C%22The%20Glen%5C%22%20District.%20Free%20Breakfast%20Daily.%20Indoor%20Pool&query_place_id=ChIJ12FCegTHD4gR3jQPZsSKVQQ&center=42.1044884,-87.82070159999999"
+    },
+    {
+      "name": "Staybridge Suites Chicago -- Glenview by IHG",
+      "distance": "0.8 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Staybridge%20Suites%20Chicago%20--%20Glenview%20by%20IHG&query_place_id=ChIJhUGtbQTHD4gRlemJ7DxPIdc&center=42.1045036,-87.82075359999999"
+    },
+    {
+      "name": "Sunset Village Manufactured Housing",
+      "distance": "1.2 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Sunset%20Village%20Manufactured%20Housing&query_place_id=ChIJK3GuQ_bGD4gR2S1t1PwwblE&center=42.0982975,-87.7987074"
+    },
+    {
+      "name": "Sigma street",
+      "distance": "1.8 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Sigma%20street&query_place_id=ChIJ26ttApjHD4gRTrRJxp9h0zc&center=42.098355399999996,-87.78215019999999"
+    }
+  ],
+  "gas": [
+    {
+      "name": "Phillips 66",
+      "distance": "0.4 mi",
+      "url": "https://www.google.com/maps/search/Phillips%2066+near+42.1134305%2C-87.8097186"
+    },
+    {
+      "name": "Route 66 Gasoline",
+      "distance": "0.4 mi",
+      "url": "https://www.google.com/maps/search/Route%2066%20Gasoline+near+42.1134305%2C-87.8097186"
+    },
+    {
+      "name": "Costco Gas Station",
+      "distance": "0.7 mi",
+      "url": "https://www.google.com/maps/search/Costco%20Gas%20Station+near+42.1134305%2C-87.8097186"
+    },
+    {
+      "name": "bp",
+      "distance": "1.1 mi",
+      "url": "https://www.google.com/maps/search/bp+near+42.1134305%2C-87.8097186"
+    }
+  ]
+}

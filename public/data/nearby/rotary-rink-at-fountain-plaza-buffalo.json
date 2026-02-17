@@ -1,0 +1,216 @@
+{
+  "quick_bite": [
+    {
+      "name": "Soe's Kitchen",
+      "distance": "0.1 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Soe's%20Kitchen&query_place_id=ChIJx-51NAAT04kRQwD4d8cUYEE&center=42.8908281,-78.87237879999999"
+    },
+    {
+      "name": "Subway",
+      "distance": "0.2 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Subway&query_place_id=ChIJ_xj-g04S04kRh0D5s8siduE&center=42.890769299999995,-78.8776099"
+    },
+    {
+      "name": "LIVINGSTON'S BREAKFAST & MORE",
+      "distance": "1.0 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=LIVINGSTON'S%20BREAKFAST%20%26%20MORE&query_place_id=ChIJ6y2gj_0T04kRWJXa8-kPzzM&center=42.9025799,-78.8799145"
+    },
+    {
+      "name": "Golden Dragon Elmwood",
+      "distance": "1.0 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Golden%20Dragon%20Elmwood&query_place_id=ChIJb47OY-QT04kRS34LJu4KSgA&center=42.9030932,-78.87747449999999"
+    },
+    {
+      "name": "Wendy's",
+      "distance": "1.0 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Wendy's&query_place_id=ChIJl_q9L_YS04kR2CWK-ADJ-s0&center=42.9030716,-78.8682532"
+    },
+    {
+      "name": "Burger King",
+      "distance": "1.3 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Burger%20King&query_place_id=ChIJ_5bjrqgT04kRvmQ9_oYnOKc&center=42.900728099999995,-78.89444089999999"
+    }
+  ],
+  "coffee": [
+    {
+      "name": "The Original Tea House",
+      "distance": "0.1 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=The%20Original%20Tea%20House&query_place_id=ChIJEcyoQQAT04kRyyMox6D_G1U&center=42.890128499999996,-78.87429929999999"
+    },
+    {
+      "name": "Overwinter Coffee - Downtown Buffalo",
+      "distance": "0.1 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Overwinter%20Coffee%20-%20Downtown%20Buffalo&query_place_id=ChIJw_3AZkQT04kRHdmvoM5MOW8&center=42.888264799999995,-78.8731141"
+    },
+    {
+      "name": "Fera's Electric Tower Cafe",
+      "distance": "0.1 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Fera's%20Electric%20Tower%20Cafe&query_place_id=ChIJ32rVV08S04kRxqPuhbLXND0&center=42.8886167,-78.8721824"
+    },
+    {
+      "name": "Starbucks Coffee Company",
+      "distance": "0.1 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Starbucks%20Coffee%20Company&query_place_id=ChIJVZNoykgS04kRO4Yv572eO8k&center=42.88818,-78.87451999999999"
+    }
+  ],
+  "team_lunch": [
+    {
+      "name": "Señor Tequila Mexican Restaurant",
+      "distance": "0.1 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Se%C3%B1or%20Tequila%20Mexican%20Restaurant&query_place_id=ChIJNfQTCE8S04kRGqmjuzolMr0&center=42.8906517,-78.8742065"
+    },
+    {
+      "name": "Soho Buffalo, NY",
+      "distance": "0.1 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Soho%20Buffalo%2C%20NY&query_place_id=ChIJ3UNP-04S04kRty9KFaPMyxo&center=42.8903797,-78.87545519999999"
+    },
+    {
+      "name": "Genesee Public House",
+      "distance": "0.1 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Genesee%20Public%20House&query_place_id=ChIJ8T6_YwAT04kRXKn6XFyA7Eo&center=42.887985199999996,-78.87426839999999"
+    },
+    {
+      "name": "Kaylena Marie's Bakery",
+      "distance": "0.6 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Kaylena%20Marie's%20Bakery&query_place_id=ChIJdbH8JQAT04kRtXN0Rr4qfSA&center=42.897994,-78.870764"
+    },
+    {
+      "name": "Radah Baked Goods",
+      "distance": "1.2 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Radah%20Baked%20Goods&query_place_id=ChIJF9cdKE0T04kRE2EjwMJwls0&center=42.8996627,-78.85424359999999"
+    }
+  ],
+  "dinner": [
+    {
+      "name": "Prova",
+      "distance": "0.1 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Prova&query_place_id=ChIJL6_JRDgT04kRG3XSPYYn9Wg&center=42.8895397,-78.8737611"
+    },
+    {
+      "name": "Bada Bing",
+      "distance": "0.1 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Bada%20Bing&query_place_id=ChIJtT5_iE4S04kRbQrydvtzEtE&center=42.8902295,-78.8746008"
+    },
+    {
+      "name": "The ZamZam Indian Cuisine",
+      "distance": "0.1 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=The%20ZamZam%20Indian%20Cuisine&query_place_id=ChIJzyxpbQsT04kRcHFhOkwki9k&center=42.8902159,-78.87273259999999"
+    },
+    {
+      "name": "The Calumet",
+      "distance": "0.1 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=The%20Calumet&query_place_id=ChIJjUqOPgAT04kR_WkbdAfqW04&center=42.890258200000005,-78.8749316"
+    },
+    {
+      "name": "Bacchus Wine Bar & Restaurant",
+      "distance": "0.1 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Bacchus%20Wine%20Bar%20%26%20Restaurant&query_place_id=ChIJTc1SAk8S04kRBKITtXpDi9U&center=42.8903445,-78.8750297"
+    },
+    {
+      "name": "D-Tour Bar & Grill",
+      "distance": "0.1 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=D-Tour%20Bar%20%26%20Grill&query_place_id=ChIJL5zRBk8S04kRSZC4uvBvxoA&center=42.8905922,-78.8747747"
+    }
+  ],
+  "bowling": [
+    {
+      "name": "Spare Lanes",
+      "distance": "0.3 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Spare%20Lanes&query_place_id=ChIJMWnEccET04kRvjZtowrTxqM&center=42.89320420000001,-78.87342819999999"
+    },
+    {
+      "name": "Lucky Stryx",
+      "distance": "3.4 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Lucky%20Stryx&query_place_id=ChIJUQEYckQT04kRC601hZjWJ_k&center=42.929171,-78.9151133",
+      "isFar": true
+    },
+    {
+      "name": "Kerns Avenue Bowling Center",
+      "distance": "3.8 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Kerns%20Avenue%20Bowling%20Center&query_place_id=ChIJKVPWnT0N04kRwaK2QcMuTpU&center=42.9160651,-78.8073079",
+      "isFar": true
+    }
+  ],
+  "arcade": [],
+  "movies": [
+    {
+      "name": "Billy's Cinema",
+      "distance": "3.9 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Billy's%20Cinema&query_place_id=ChIJAycDVwAT04kRWXVgVMlogmI&center=42.93156570000001,-78.9259234",
+      "isFar": true
+    },
+    {
+      "name": "North Park Theatre",
+      "distance": "4.1 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=North%20Park%20Theatre&query_place_id=ChIJk4vPykht04kR540K6c2F2vg&center=42.9479257,-78.8553613",
+      "isFar": true
+    },
+    {
+      "name": "Regal Elmwood Center",
+      "distance": "4.3 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Regal%20Elmwood%20Center&query_place_id=ChIJX3oBDCZt04kRkrOYEYbXWio&center=42.95238,-78.87684",
+      "isFar": true
+    }
+  ],
+  "fun": [
+    {
+      "name": "The Hiker",
+      "distance": "0.1 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=The%20Hiker&query_place_id=ChIJY62XdSsT04kR-mG0NFqrTyM&center=42.8885231,-78.8732948"
+    },
+    {
+      "name": "Plaza of Stars",
+      "distance": "0.3 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Plaza%20of%20Stars&query_place_id=ChIJtVm9fGQT04kRgHTlzlcLRrk&center=42.893121099999995,-78.87196039999999"
+    }
+  ],
+  "hotels": [
+    {
+      "name": "Holiday Inn Express & Suites Buffalo Downtown - Medical Ctr by IHG",
+      "distance": "0.1 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Holiday%20Inn%20Express%20%26%20Suites%20Buffalo%20Downtown%20-%20Medical%20Ctr%20by%20IHG&query_place_id=ChIJUw2yfU8S04kRutdlU14c7j0&center=42.8901482,-78.87212"
+    },
+    {
+      "name": "Hyatt Regency Buffalo / Hotel and Conference Center",
+      "distance": "0.1 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Hyatt%20Regency%20Buffalo%20%2F%20Hotel%20and%20Conference%20Center&query_place_id=ChIJTQdf00gS04kR34utKoYzg98&center=42.887985199999996,-78.87426839999999"
+    },
+    {
+      "name": "Curtiss Hotel",
+      "distance": "0.1 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Curtiss%20Hotel&query_place_id=ChIJg0yJ204S04kRAOqqD6OE3Gk&center=42.8893619,-78.8760373"
+    },
+    {
+      "name": "Hampton Inn & Suites Buffalo Downtown",
+      "distance": "0.2 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Hampton%20Inn%20%26%20Suites%20Buffalo%20Downtown&query_place_id=ChIJHZv_hE4S04kRs74ZMZ6RNy4&center=42.8904194,-78.8770828"
+    },
+    {
+      "name": "The Westin Buffalo",
+      "distance": "0.2 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=The%20Westin%20Buffalo&query_place_id=ChIJ9w9oYk4S04kROeVrTtPIilY&center=42.8912172,-78.8768702"
+    }
+  ],
+  "gas": [
+    {
+      "name": "Marathon Gas Station",
+      "distance": "0.3 mi",
+      "url": "https://www.google.com/maps/search/Marathon%20Gas%20Station+near+42.889564299999996%2C-78.8737301"
+    },
+    {
+      "name": "Mobil",
+      "distance": "0.4 mi",
+      "url": "https://www.google.com/maps/search/Mobil+near+42.889564299999996%2C-78.8737301"
+    },
+    {
+      "name": "Sunrise Market",
+      "distance": "0.4 mi",
+      "url": "https://www.google.com/maps/search/Sunrise%20Market+near+42.889564299999996%2C-78.8737301"
+    },
+    {
+      "name": "Sunshine Market and Fuels",
+      "distance": "0.4 mi",
+      "url": "https://www.google.com/maps/search/Sunshine%20Market%20and%20Fuels+near+42.889564299999996%2C-78.8737301"
+    }
+  ]
+}

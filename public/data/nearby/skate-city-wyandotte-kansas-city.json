@@ -1,0 +1,193 @@
+{
+  "quick_bite": [
+    {
+      "name": "Subway",
+      "distance": "0.2 mi",
+      "url": "https://www.google.com/maps/search/Subway+near+39.1197321%2C-94.76198149999999"
+    },
+    {
+      "name": "Chipotle Mexican Grill",
+      "distance": "0.2 mi",
+      "url": "https://www.google.com/maps/search/Chipotle%20Mexican%20Grill+near+39.1197321%2C-94.76198149999999"
+    },
+    {
+      "name": "GJ Fish & Chicken Restaurant",
+      "distance": "0.2 mi",
+      "url": "https://www.google.com/maps/search/GJ%20Fish%20%26%20Chicken%20Restaurant+near+39.1197321%2C-94.76198149999999"
+    },
+    {
+      "name": "Burger King",
+      "distance": "0.3 mi",
+      "url": "https://www.google.com/maps/search/Burger%20King+near+39.1197321%2C-94.76198149999999"
+    },
+    {
+      "name": "Subway",
+      "distance": "0.3 mi",
+      "url": "https://www.google.com/maps/search/Subway+near+39.1197321%2C-94.76198149999999"
+    },
+    {
+      "name": "Sonic Drive-In",
+      "distance": "0.3 mi",
+      "url": "https://www.google.com/maps/search/Sonic%20Drive-In+near+39.1197321%2C-94.76198149999999"
+    },
+    {
+      "name": "Hardee's",
+      "distance": "0.4 mi",
+      "url": "https://www.google.com/maps/search/Hardee's+near+39.1197321%2C-94.76198149999999"
+    }
+  ],
+  "coffee": [
+    {
+      "name": "Starbucks",
+      "distance": "0.3 mi",
+      "url": "https://www.google.com/maps/search/Starbucks+near+39.1197321%2C-94.76198149999999"
+    },
+    {
+      "name": "McDonald's",
+      "distance": "0.4 mi",
+      "url": "https://www.google.com/maps/search/McDonald's+near+39.1197321%2C-94.76198149999999"
+    }
+  ],
+  "team_lunch": [
+    {
+      "name": "Chinese Buffet",
+      "distance": "0.3 mi",
+      "url": "https://www.google.com/maps/search/Chinese%20Buffet+near+39.1197321%2C-94.76198149999999"
+    },
+    {
+      "name": "Nice Food (Chinese Takeout Restaurant)",
+      "distance": "0.4 mi",
+      "url": "https://www.google.com/maps/search/Nice%20Food%20(Chinese%20Takeout%20Restaurant)+near+39.1197321%2C-94.76198149999999"
+    },
+    {
+      "name": "The Original Wing Busters & More",
+      "distance": "0.4 mi",
+      "url": "https://www.google.com/maps/search/The%20Original%20Wing%20Busters%20%26%20More+near+39.1197321%2C-94.76198149999999"
+    }
+  ],
+  "dinner": [
+    {
+      "name": "To the Hoop Bar & Grill",
+      "distance": "0.3 mi",
+      "url": "https://www.google.com/maps/search/To%20the%20Hoop%20Bar%20%26%20Grill+near+39.1197321%2C-94.76198149999999"
+    },
+    {
+      "name": "Taqueria Arandas",
+      "distance": "0.3 mi",
+      "url": "https://www.google.com/maps/search/Taqueria%20Arandas+near+39.1197321%2C-94.76198149999999"
+    },
+    {
+      "name": "Papis Tacos KC",
+      "distance": "0.3 mi",
+      "url": "https://www.google.com/maps/search/Papis%20Tacos%20KC+near+39.1197321%2C-94.76198149999999"
+    },
+    {
+      "name": "Los Morales Bakery",
+      "distance": "0.3 mi",
+      "url": "https://www.google.com/maps/search/Los%20Morales%20Bakery+near+39.1197321%2C-94.76198149999999"
+    },
+    {
+      "name": "Naree Kitchen Thai & Sushi",
+      "distance": "0.3 mi",
+      "url": "https://www.google.com/maps/search/Naree%20Kitchen%20Thai%20%26%20Sushi+near+39.1197321%2C-94.76198149999999"
+    }
+  ],
+  "bowling": [
+    {
+      "name": "KC Bowl",
+      "distance": "0.5 mi",
+      "url": "https://www.google.com/maps/search/KC%20Bowl+near+39.1197321%2C-94.76198149999999"
+    }
+  ],
+  "arcade": [],
+  "movies": [
+    {
+      "name": "AMC Legends 14",
+      "distance": "3.5 mi",
+      "url": "https://www.google.com/maps/search/AMC%20Legends%2014+near+39.1197321%2C-94.76198149999999",
+      "isFar": true
+    }
+  ],
+  "fun": [
+    {
+      "name": "A & D Amusement Co Inc",
+      "distance": "1.6 mi",
+      "url": "https://www.google.com/maps/search/A%20%26%20D%20Amusement%20Co%20Inc+near+39.1197321%2C-94.76198149999999"
+    },
+    {
+      "name": "ATLAS 9",
+      "distance": "2.3 mi",
+      "url": "https://www.google.com/maps/search/ATLAS%209+near+39.1197321%2C-94.76198149999999"
+    },
+    {
+      "name": "Spray Park",
+      "distance": "4.4 mi",
+      "url": "https://www.google.com/maps/search/Spray%20Park+near+39.1197321%2C-94.76198149999999",
+      "isFar": true
+    }
+  ],
+  "hotels": [
+    {
+      "name": "Newly Remodeled Modern home minutes from Speedway",
+      "distance": "0.5 mi",
+      "url": "https://www.google.com/maps/search/Newly%20Remodeled%20Modern%20home%20minutes%20from%20Speedway+near+39.1197321%2C-94.76198149999999"
+    },
+    {
+      "name": "NO CLEANING FEE SURPRISES!! Entire Main Floor 3BR/2BA/Kitchen/Washer & Dryer",
+      "distance": "0.5 mi",
+      "url": "https://www.google.com/maps/search/NO%20CLEANING%20FEE%20SURPRISES!!%20Entire%20Main%20Floor%203BR%2F2BA%2FKitchen%2FWasher%20%26%20Dryer+near+39.1197321%2C-94.76198149999999"
+    },
+    {
+      "name": "NO CLEANING FEE SURPRISES!! Entire Main Floor 3BR /2BA /Kitchen /Washer Dryer",
+      "distance": "0.5 mi",
+      "url": "https://www.google.com/maps/search/NO%20CLEANING%20FEE%20SURPRISES!!%20Entire%20Main%20Floor%203BR%20%2F2BA%20%2FKitchen%20%2FWasher%20Dryer+near+39.1197321%2C-94.76198149999999"
+    },
+    {
+      "name": "Modern Oasis Near the Legends - Spacious home with games, patio, deck and more!",
+      "distance": "0.7 mi",
+      "url": "https://www.google.com/maps/search/Modern%20Oasis%20Near%20the%20Legends%20-%20Spacious%20home%20with%20games%2C%20patio%2C%20deck%20and%20more!+near+39.1197321%2C-94.76198149999999"
+    },
+    {
+      "name": "Modern Oasis Near the Legends - Spacious home with games, patio, deck and more!",
+      "distance": "0.7 mi",
+      "url": "https://www.google.com/maps/search/Modern%20Oasis%20Near%20the%20Legends%20-%20Spacious%20home%20with%20games%2C%20patio%2C%20deck%20and%20more!+near+39.1197321%2C-94.76198149999999"
+    },
+    {
+      "name": "Ultra Modern Home Within Minutes of Speedway!",
+      "distance": "0.9 mi",
+      "url": "https://www.google.com/maps/search/Ultra%20Modern%20Home%20Within%20Minutes%20of%20Speedway!+near+39.1197321%2C-94.76198149999999"
+    },
+    {
+      "name": "Close to all things KC",
+      "distance": "0.9 mi",
+      "url": "https://www.google.com/maps/search/Close%20to%20all%20things%20KC+near+39.1197321%2C-94.76198149999999"
+    }
+  ],
+  "gas": [
+    {
+      "name": "Phillips 66",
+      "distance": "0.3 mi",
+      "url": "https://www.google.com/maps/search/Phillips%2066+near+39.1197321%2C-94.76198149999999"
+    },
+    {
+      "name": "Phillips 66",
+      "distance": "0.4 mi",
+      "url": "https://www.google.com/maps/search/Phillips%2066+near+39.1197321%2C-94.76198149999999"
+    },
+    {
+      "name": "Phillips 66",
+      "distance": "0.6 mi",
+      "url": "https://www.google.com/maps/search/Phillips%2066+near+39.1197321%2C-94.76198149999999"
+    },
+    {
+      "name": "bp",
+      "distance": "0.6 mi",
+      "url": "https://www.google.com/maps/search/bp+near+39.1197321%2C-94.76198149999999"
+    },
+    {
+      "name": "QuikTrip",
+      "distance": "0.8 mi",
+      "url": "https://www.google.com/maps/search/QuikTrip+near+39.1197321%2C-94.76198149999999"
+    }
+  ]
+}

@@ -1,0 +1,218 @@
+{
+  "quick_bite": [
+    {
+      "name": "The Cheesecake Factory",
+      "distance": "0.1 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=The%20Cheesecake%20Factory&query_place_id=ChIJRUKD8sD5DogRuoSLv_jDiTo&center=41.7645611,-88.2037898"
+    },
+    {
+      "name": "Shake Shack Naperville",
+      "distance": "0.1 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Shake%20Shack%20Naperville&query_place_id=ChIJD-om7aP5DogRHQXBSGaVvjE&center=41.765011699999995,-88.2052066"
+    },
+    {
+      "name": "Yard House - Block 59",
+      "distance": "0.1 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Yard%20House%20-%20Block%2059&query_place_id=ChIJSTuR01b5DogRMuaEprsN57c&center=41.765324799999995,-88.20374939999999"
+    },
+    {
+      "name": "Nick's Red Hots Aurora",
+      "distance": "0.1 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Nick's%20Red%20Hots%20Aurora&query_place_id=ChIJx4U0Zsv5DogRFK_SoSpiqFA&center=41.764375099999995,-88.2065042"
+    },
+    {
+      "name": "Pita Pita Mediterranean Grill",
+      "distance": "0.1 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Pita%20Pita%20Mediterranean%20Grill&query_place_id=ChIJM6tpTgD5DogRPFL_6dqUNs4&center=41.7658038,-88.2050722"
+    },
+    {
+      "name": "Chuck E. Cheese",
+      "distance": "0.2 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Chuck%20E.%20Cheese&query_place_id=ChIJN48PlSz4DogRDReQfQtTMTg&center=41.761979,-88.2021495"
+    }
+  ],
+  "coffee": [
+    {
+      "name": "Stan's Donuts & Coffee",
+      "distance": "0.1 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Stan's%20Donuts%20%26%20Coffee&query_place_id=ChIJ87aIOYP5DogRFnje7WjoZEU&center=41.7649365,-88.20446729999999"
+    },
+    {
+      "name": "PappaRoti Naperville",
+      "distance": "0.1 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=PappaRoti%20Naperville&query_place_id=ChIJjUq3d6n5DogRa4SwcOAcSrM&center=41.7658038,-88.2050722"
+    },
+    {
+      "name": "Dunkin'",
+      "distance": "0.2 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Dunkin'&query_place_id=ChIJ-TCRtzT4DogR4HS1WsUCU8w&center=41.762764999999995,-88.2066275"
+    },
+    {
+      "name": "Mochii Donut",
+      "distance": "0.6 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Mochii%20Donut&query_place_id=ChIJNe_H7Nj5DogRU7O7TQXbiVc&center=41.758295499999996,-88.212336"
+    }
+  ],
+  "team_lunch": [
+    {
+      "name": "Velvet Taco",
+      "distance": "0.1 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Velvet%20Taco&query_place_id=ChIJydLidwD5DogRu349Qdto0Bw&center=41.7643954,-88.20379799999999"
+    },
+    {
+      "name": "Meijer Bakery",
+      "distance": "0.4 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Meijer%20Bakery&query_place_id=ChIJJ-MiLjH5DogRzZ73BzotmKk&center=41.767575099999995,-88.20929129999999"
+    },
+    {
+      "name": "Auntie Anne's",
+      "distance": "0.6 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Auntie%20Anne's&query_place_id=ChIJrwLbj875DogRNFFpXZ4uI9E&center=41.7584619,-88.2124731"
+    },
+    {
+      "name": "Auntie Anne's",
+      "distance": "0.6 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Auntie%20Anne's&query_place_id=ChIJXVWmwsz5DogRFGN3RJ4_u88&center=41.7584928,-88.21269509999999"
+    },
+    {
+      "name": "Tropical Café",
+      "distance": "0.6 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Tropical%20Caf%C3%A9&query_place_id=ChIJ74Ea8NP5DogRl4FOx-fm2WI&center=41.75568140000001,-88.2021412"
+    },
+    {
+      "name": "Cinnabon",
+      "distance": "0.6 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Cinnabon&query_place_id=ChIJbbowbs75DogRHl7-EAeaCgc&center=41.7586495,-88.2139344"
+    }
+  ],
+  "dinner": [
+    {
+      "name": "Crisp & Green",
+      "distance": "0.1 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Crisp%20%26%20Green&query_place_id=ChIJTfzpfQD5DogRnQQgOY5-Fa4&center=41.764197599999996,-88.20378529999999"
+    },
+    {
+      "name": "CAVA",
+      "distance": "0.1 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=CAVA&query_place_id=ChIJZQJ_BgD5DogREYux6UAVB1U&center=41.763999999999996,-88.2036"
+    },
+    {
+      "name": "Lazy Dog Restaurant & Bar",
+      "distance": "0.1 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Lazy%20Dog%20Restaurant%20%26%20Bar&query_place_id=ChIJy_7bCeP5DogRQ_fOVp0gBX4&center=41.7642989,-88.2050881"
+    },
+    {
+      "name": "First Watch",
+      "distance": "0.1 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=First%20Watch&query_place_id=ChIJNZ5qWcL5DogRB_jMvpMKcLs&center=41.7635736,-88.20506069999999"
+    },
+    {
+      "name": "Roadtrip Bowls Made by Lazy Dog",
+      "distance": "0.1 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Roadtrip%20Bowls%20Made%20by%20Lazy%20Dog&query_place_id=ChIJATpUy875DogRmaFBP2PxSXY&center=41.7644865,-88.20531419999999"
+    },
+    {
+      "name": "Chicken Salad Chick",
+      "distance": "0.1 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Chicken%20Salad%20Chick&query_place_id=ChIJ7W6n_Z35DogRb5uwMKFzayk&center=41.764110900000006,-88.2026873"
+    }
+  ],
+  "bowling": [
+    {
+      "name": "Round1 Bowling & Arcade Fox Valley Mall",
+      "distance": "0.5 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Round1%20Bowling%20%26%20Arcade%20Fox%20Valley%20Mall&query_place_id=ChIJe2bZz835DogRr1nUZ_E9xd8&center=41.759098699999996,-88.2115865"
+    },
+    {
+      "name": "Lucky Strike Naperville",
+      "distance": "1.1 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Lucky%20Strike%20Naperville&query_place_id=ChIJ36ZXUmv4DogRxICDLcVVu4g&center=41.7662451,-88.1835292"
+    }
+  ],
+  "arcade": [],
+  "movies": [
+    {
+      "name": "Hollywood Palms Cinema",
+      "distance": "0.1 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Hollywood%20Palms%20Cinema&query_place_id=ChIJswKz4zX4DogRFFFmCRq2iM8&center=41.7657192,-88.20236"
+    },
+    {
+      "name": "Phoenix Theatres Cantera Warrenville 17 + PTX",
+      "distance": "3.3 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Phoenix%20Theatres%20Cantera%20Warrenville%2017%20%2B%20PTX&query_place_id=ChIJxaip9w_5DogRUhTiWgD5JBs&center=41.8050426,-88.17106179999999",
+      "isFar": true
+    },
+    {
+      "name": "IMAX Naperville Illinois",
+      "distance": "3.5 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=IMAX%20Naperville%20Illinois&query_place_id=ChIJF73xFwf3DogRERpx_7aIoq8&center=41.713259199999996,-88.2089292",
+      "isFar": true
+    }
+  ],
+  "fun": [
+    {
+      "name": "Funtopia",
+      "distance": "0.3 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Funtopia&query_place_id=ChIJFfwzdEr4DogRPG_mNmDU1zA&center=41.764612,-88.1988239"
+    },
+    {
+      "name": "Activate Games",
+      "distance": "0.5 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Activate%20Games&query_place_id=ChIJiwwacgD5DogReB2_mZUZuYc&center=41.7575163,-88.2055049"
+    },
+    {
+      "name": "MISH MASH Adventures",
+      "distance": "0.6 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=MISH%20MASH%20Adventures&query_place_id=ChIJSYqeFZz5DogRiAJm1oMQh80&center=41.7586801,-88.2123067"
+    },
+    {
+      "name": "Sim Racing Naperville",
+      "distance": "0.6 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Sim%20Racing%20Naperville&query_place_id=ChIJl-eIhTn5DogRcBI7O5Nx54w&center=41.77325030000001,-88.2037782"
+    }
+  ],
+  "hotels": [
+    {
+      "name": "Homewood Suites by Hilton Aurora Naperville",
+      "distance": "0.7 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Homewood%20Suites%20by%20Hilton%20Aurora%20Naperville&query_place_id=ChIJ0weLt7P5DogR8FY9qtvg-80&center=41.773461,-88.2107228"
+    },
+    {
+      "name": "Quality Inn Aurora - Naperville Area",
+      "distance": "0.8 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Quality%20Inn%20Aurora%20-%20Naperville%20Area&query_place_id=ChIJuyMgZMb5DogRD27qquIxkDk&center=41.7623647,-88.2186663"
+    },
+    {
+      "name": "Quality Inn Aurora - Naperville Area - King Room - Non-Smoking",
+      "distance": "0.8 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Quality%20Inn%20Aurora%20-%20Naperville%20Area%20-%20King%20Room%20-%20Non-Smoking&query_place_id=ChIJhXoOZcb5DogReYyB4EzxPR4&center=41.7625618,-88.21882629999999"
+    },
+    {
+      "name": "Super 8 by Wyndham Aurora/Naperville Area",
+      "distance": "1.1 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Super%208%20by%20Wyndham%20Aurora%2FNaperville%20Area&query_place_id=ChIJyaZ2S9T5DogRYiyfsw_dPWw&center=41.7495257,-88.2119724"
+    }
+  ],
+  "gas": [
+    {
+      "name": "Shell",
+      "distance": "0.7 mi",
+      "url": "https://www.google.com/maps/search/Shell+near+41.7641604%2C-88.2042718"
+    },
+    {
+      "name": "Circle K | Gas Station",
+      "distance": "0.7 mi",
+      "url": "https://www.google.com/maps/search/Circle%20K%20%7C%20Gas%20Station+near+41.7641604%2C-88.2042718"
+    },
+    {
+      "name": "bp",
+      "distance": "0.9 mi",
+      "url": "https://www.google.com/maps/search/bp+near+41.7641604%2C-88.2042718"
+    },
+    {
+      "name": "Mobil",
+      "distance": "0.9 mi",
+      "url": "https://www.google.com/maps/search/Mobil+near+41.7641604%2C-88.2042718"
+    }
+  ]
+}

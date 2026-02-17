@@ -1,0 +1,221 @@
+{
+  "quick_bite": [
+    {
+      "name": "Galley Diner",
+      "distance": "0.2 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Galley%20Diner&query_place_id=ChIJrbsyH5h644kRZo2r5TZJ9N8&center=42.337842699999996,-71.0273626"
+    },
+    {
+      "name": "Scola's Café",
+      "distance": "0.5 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Scola's%20Caf%C3%A9&query_place_id=ChIJMwr7AaF644kR6C68qWo_eHE&center=42.34374390000001,-71.02437069999999"
+    },
+    {
+      "name": "Sullivan's Castle Island",
+      "distance": "0.6 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Sullivan's%20Castle%20Island&query_place_id=ChIJ3cpcXa9644kR1NUFS2fzB5s&center=42.3388767,-71.01319960000001"
+    },
+    {
+      "name": "Rolls Sushi",
+      "distance": "0.6 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Rolls%20Sushi&query_place_id=ChIJqVNNrMZ744kRKiOd_E299YY&center=42.3444358,-71.0310592"
+    },
+    {
+      "name": "Jimmy John's",
+      "distance": "1.2 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Jimmy%20John's&query_place_id=ChIJLfbWooZ644kRg3ATrczTEyg&center=42.3447865,-71.0434343"
+    },
+    {
+      "name": "Taco Bell",
+      "distance": "1.2 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Taco%20Bell&query_place_id=ChIJtz9hceN744kRiUQjbxqaAXk&center=42.335971699999995,-71.046786"
+    }
+  ],
+  "coffee": [
+    {
+      "name": "Sidewalk Cafe South Boston",
+      "distance": "0.5 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Sidewalk%20Cafe%20South%20Boston&query_place_id=ChIJ2TFqapF644kRWhwuprXPAr8&center=42.3349487,-71.03349530000001"
+    },
+    {
+      "name": "Annie’s Bakery & Cafe",
+      "distance": "0.6 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Annie%E2%80%99s%20Bakery%20%26%20Cafe&query_place_id=ChIJ1zkMQHx744kR4AE7lL-G9Q0&center=42.3355076,-71.03528709999999"
+    },
+    {
+      "name": "Starbucks Coffee Company",
+      "distance": "0.6 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Starbucks%20Coffee%20Company&query_place_id=ChIJl6Mgo5F644kRh3oSPtoDivk&center=42.335539999999995,-71.03549"
+    },
+    {
+      "name": "Dunkin'",
+      "distance": "0.6 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Dunkin'&query_place_id=ChIJSUbqmZF644kRNEw9-K7fYtY&center=42.335160699999996,-71.0356546"
+    },
+    {
+      "name": "Koko Coffee | Southie",
+      "distance": "0.6 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Koko%20Coffee%20%7C%20Southie&query_place_id=ChIJhwNIBOl744kRysILehoQ-Bk&center=42.334299900000005,-71.0354531"
+    }
+  ],
+  "team_lunch": [
+    {
+      "name": "The Salted Spoon",
+      "distance": "0.6 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=The%20Salted%20Spoon&query_place_id=ChIJVZ3ThwJ744kRCU-geBVwRtc&center=42.3325027,-71.0334103"
+    },
+    {
+      "name": "Village Pizza & Grill",
+      "distance": "0.6 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Village%20Pizza%20%26%20Grill&query_place_id=ChIJ4zpwq5F644kRdVptFh_IC1g&center=42.336362,-71.0352185"
+    },
+    {
+      "name": "Southie Pizza",
+      "distance": "0.6 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Southie%20Pizza&query_place_id=ChIJ3Ugpq71744kR1gfV1yPY8o8&center=42.334051099999996,-71.0350818"
+    },
+    {
+      "name": "Murphy's Law",
+      "distance": "0.6 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Murphy's%20Law&query_place_id=ChIJaVYaZZB644kRFTh3hU9jNlc&center=42.3380566,-71.0356413"
+    },
+    {
+      "name": "Mia's Brooklyn Bakery",
+      "distance": "1.4 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Mia's%20Brooklyn%20Bakery&query_place_id=ChIJZ8BEKRh744kRC1GRT9zooBU&center=42.350152099999995,-71.04405919999999"
+    },
+    {
+      "name": "Better Bagels",
+      "distance": "1.6 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Better%20Bagels&query_place_id=ChIJ12onD39w44kRFIu1TbNGQO0&center=42.3519158,-71.0463893"
+    }
+  ],
+  "dinner": [
+    {
+      "name": "Sal's On The Lagoon",
+      "distance": "0.1 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Sal's%20On%20The%20Lagoon&query_place_id=ChIJM9mopKx744kRC0UOd5h4P7Y&center=42.336897799999996,-71.0240545"
+    },
+    {
+      "name": "Local 149",
+      "distance": "0.3 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Local%20149&query_place_id=ChIJH5WoDpZ644kRhdwhX8azXB8&center=42.3331259,-71.0273722"
+    },
+    {
+      "name": "L Street Diner & Pizzeria",
+      "distance": "0.6 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=L%20Street%20Diner%20%26%20Pizzeria&query_place_id=ChIJdYw6KpJ644kR8AWhQdL5UWM&center=42.334050999999995,-71.035083"
+    },
+    {
+      "name": "Chilacates South Boston",
+      "distance": "0.6 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Chilacates%20South%20Boston&query_place_id=ChIJYZTVPbl744kR_wE7h38NLWM&center=42.3352903,-71.0355859"
+    },
+    {
+      "name": "Shhh Burger",
+      "distance": "0.6 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Shhh%20Burger&query_place_id=ChIJoc69qw1744kRP9UvnBe8YNM&center=42.334299900000005,-71.0354531"
+    },
+    {
+      "name": "Petula's",
+      "distance": "0.6 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Petula's&query_place_id=ChIJqxoFTHh744kR9ytOXq6n5Ik&center=42.3346707,-71.0355932"
+    }
+  ],
+  "bowling": [
+    {
+      "name": "South Boston Candlepin",
+      "distance": "1.0 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=South%20Boston%20Candlepin&query_place_id=ChIJZVYyoI5644kRnr6Tlu1Ob6M&center=42.3353464,-71.042349"
+    },
+    {
+      "name": "Central Park Lanes",
+      "distance": "2.8 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Central%20Park%20Lanes&query_place_id=ChIJXYkm21pw44kRumRmbqunUAw&center=42.3759577,-71.0386802"
+    }
+  ],
+  "arcade": [],
+  "movies": [
+    {
+      "name": "Alamo Drafthouse Cinema Boston Seaport",
+      "distance": "1.6 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Alamo%20Drafthouse%20Cinema%20Boston%20Seaport&query_place_id=ChIJ3R_P3ytx44kR9cgAlVLnAFs&center=42.3528492,-71.0471884"
+    },
+    {
+      "name": "Simons Theatre",
+      "distance": "2.0 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Simons%20Theatre&query_place_id=ChIJFXTbkIdw44kRJI5eHL-4-6k&center=42.3587791,-71.0501946"
+    },
+    {
+      "name": "AMC South Bay Center 12",
+      "distance": "2.1 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=AMC%20South%20Bay%20Center%2012&query_place_id=ChIJm86ZREV644kRI3FtJbbArJ0&center=42.3254576,-71.06210860000002"
+    }
+  ],
+  "fun": [
+    {
+      "name": "Kelly's Landing",
+      "distance": "0.3 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Kelly's%20Landing&query_place_id=ChIJP_WZCQB744kRsdYlNOtwNh4&center=42.332634,-71.025119"
+    },
+    {
+      "name": "Edward T. Rull Square",
+      "distance": "0.8 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Edward%20T.%20Rull%20Square&query_place_id=ChIJowupDwB744kRqq_gIKLTvhQ&center=42.3295958,-71.03531439999999"
+    },
+    {
+      "name": "Boxes at the Boston Fish Pier",
+      "distance": "1.2 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Boxes%20at%20the%20Boston%20Fish%20Pier&query_place_id=ChIJcenuF3lx44kRb5jIiIFYtJc&center=42.349139,-71.0391535"
+    },
+    {
+      "name": "Harbor Point on the Bay Pavilions",
+      "distance": "1.4 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Harbor%20Point%20on%20the%20Bay%20Pavilions&query_place_id=ChIJS3pEDKl744kRs1yGwdbqm9o&center=42.3201136,-71.0395741"
+    }
+  ],
+  "hotels": [
+    {
+      "name": "The Boston Bailey B&B",
+      "distance": "0.2 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=The%20Boston%20Bailey%20B%26B&query_place_id=ChIJicwVTX9744kRBTIXJxyoa_0&center=42.334513799999996,-71.02731520000002"
+    },
+    {
+      "name": "Air Bnb",
+      "distance": "0.3 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Air%20Bnb&query_place_id=ChIJxZT_UwB744kR5WGQwGfnTCs&center=42.3359586,-71.0299405"
+    },
+    {
+      "name": "Global Luxury Suites at South Boston",
+      "distance": "0.6 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Global%20Luxury%20Suites%20at%20South%20Boston&query_place_id=ChIJs_oBuZF644kR0ka4ued4iEQ&center=42.3359184,-71.0362167"
+    },
+    {
+      "name": "Bluebird Suites on L Street",
+      "distance": "0.6 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Bluebird%20Suites%20on%20L%20Street&query_place_id=ChIJlUPnuJF644kR29mOGlBnYFY&center=42.3358688,-71.0362473"
+    }
+  ],
+  "gas": [
+    {
+      "name": "Shell",
+      "distance": "0.6 mi",
+      "url": "https://www.google.com/maps/search/Shell+near+42.3367791%2C-71.0236836"
+    },
+    {
+      "name": "Speedway",
+      "distance": "1.6 mi",
+      "url": "https://www.google.com/maps/search/Speedway+near+42.3367791%2C-71.0236836"
+    },
+    {
+      "name": "Southie Gas",
+      "distance": "1.7 mi",
+      "url": "https://www.google.com/maps/search/Southie%20Gas+near+42.3367791%2C-71.0236836"
+    },
+    {
+      "name": "Columbia Road Gulf",
+      "distance": "2.0 mi",
+      "url": "https://www.google.com/maps/search/Columbia%20Road%20Gulf+near+42.3367791%2C-71.0236836"
+    }
+  ]
+}

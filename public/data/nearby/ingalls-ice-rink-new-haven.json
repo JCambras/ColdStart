@@ -1,0 +1,204 @@
+{
+  "quick_bite": [
+    {
+      "name": "East Coast Pizza Truck",
+      "distance": "0.1 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=East%20Coast%20Pizza%20Truck&query_place_id=ChIJB-Vc0CTZ54kR7xuX4FzjPio&center=41.316062699999996,-72.9247383"
+    },
+    {
+      "name": "Subway",
+      "distance": "0.4 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Subway&query_place_id=ChIJv5mWlkjY54kReMT4uCfkqPs&center=41.3119711,-72.9222985"
+    },
+    {
+      "name": "The Bow Wow",
+      "distance": "0.4 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=The%20Bow%20Wow&query_place_id=ChIJ6dzOvjHZ54kRYJUQA-VLiIY&center=41.3115855,-72.9258874"
+    },
+    {
+      "name": "Wendy's",
+      "distance": "0.5 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Wendy's&query_place_id=ChIJW_QVsSLZ54kRdmRFr05lzG0&center=41.314200299999996,-72.9347023"
+    }
+  ],
+  "coffee": [
+    {
+      "name": "Mazagi Coffee",
+      "distance": "0.1 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Mazagi%20Coffee&query_place_id=ChIJQ6-TNgzZ54kR8ngUn5hNKyg&center=41.3168043,-72.9250287"
+    },
+    {
+      "name": "Steep (formerly KBT Café)",
+      "distance": "0.1 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Steep%20(formerly%20KBT%20Caf%C3%A9)&query_place_id=ChIJw89qdrjZ54kRWidAX6MK7XE&center=41.3172208,-72.92226889999999"
+    },
+    {
+      "name": "Yale Health Center Café",
+      "distance": "0.2 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Yale%20Health%20Center%20Caf%C3%A9&query_place_id=ChIJNe9EQo3Z54kRcuzffP2PeiM&center=41.3159237,-72.9277359"
+    },
+    {
+      "name": "Yale Steep Café at YSB",
+      "distance": "0.2 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Yale%20Steep%20Caf%C3%A9%20at%20YSB&query_place_id=ChIJgTadikfZ54kR_ZG85Y1zYLg&center=41.3174476,-72.92169"
+    },
+    {
+      "name": "Yale McNay Café",
+      "distance": "0.3 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Yale%20McNay%20Caf%C3%A9&query_place_id=ChIJ33Ak4grZ54kR2z4awUewB0A&center=41.3149405,-72.9203459"
+    }
+  ],
+  "team_lunch": [
+    {
+      "name": "Steamed",
+      "distance": "0.3 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Steamed&query_place_id=ChIJh3_OvmfZ54kRHHq12dgRoDc&center=41.3125982,-72.9217907"
+    },
+    {
+      "name": "Katalina's Bakery",
+      "distance": "0.3 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Katalina's%20Bakery&query_place_id=ChIJR5ET0cnZ54kR8HmhW2mbWiA&center=41.312456100000006,-72.9221085"
+    },
+    {
+      "name": "Taste of Jiang Nan",
+      "distance": "0.3 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Taste%20of%20Jiang%20Nan&query_place_id=ChIJmQHdr1fZ54kRAS-JoXWdZhY&center=41.312404,-72.922234"
+    },
+    {
+      "name": "Paula's Science Park Cafe",
+      "distance": "0.3 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Paula's%20Science%20Park%20Cafe&query_place_id=ChIJSapuCrzZ54kRygjwEdPsFJQ&center=41.320755,-72.928949"
+    },
+    {
+      "name": "Tiger Daddy",
+      "distance": "0.4 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Tiger%20Daddy&query_place_id=ChIJNS36YfvZ54kR-gAnvQ-3Oy0&center=41.3120312,-72.9222458"
+    }
+  ],
+  "dinner": [
+    {
+      "name": "El Taco Dorado",
+      "distance": "0.1 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=El%20Taco%20Dorado&query_place_id=ChIJ6yVwVAfZ54kR1RJSEaoN_dQ&center=41.3168043,-72.9250287"
+    },
+    {
+      "name": "Sophie Café",
+      "distance": "0.1 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Sophie%20Caf%C3%A9&query_place_id=ChIJHQPsRYDZ54kRTQzakjzx13w&center=41.3168043,-72.9250287"
+    },
+    {
+      "name": "Big New(s) Food Cart",
+      "distance": "0.1 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Big%20New(s)%20Food%20Cart&query_place_id=ChIJFejuq4rZ54kRmAGsTl1JI6s&center=41.316148899999995,-72.9246076"
+    },
+    {
+      "name": "Chef Jiang",
+      "distance": "0.4 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Chef%20Jiang&query_place_id=ChIJ58Hyg1bZ54kRmRwfve2pu9E&center=41.312282599999996,-72.9217197"
+    },
+    {
+      "name": "Yale University Commons Dining Hall",
+      "distance": "0.4 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Yale%20University%20Commons%20Dining%20Hall&query_place_id=ChIJU33Xh7bZ54kR85wtDMiHSA4&center=41.3117242,-72.9262535"
+    },
+    {
+      "name": "bb.q Chicken New Haven",
+      "distance": "0.4 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=bb.q%20Chicken%20New%20Haven&query_place_id=ChIJRZQ2RjnZ54kRCP91_pV9szQ&center=41.3120822,-72.92221529999999"
+    }
+  ],
+  "bowling": [
+    {
+      "name": "AMF Circle Lanes",
+      "distance": "3.2 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=AMF%20Circle%20Lanes&query_place_id=ChIJ0boedJTX54kRupbuQHrZ1eE&center=41.284038699999996,-72.88105449999999",
+      "isFar": true
+    },
+    {
+      "name": "Amity Bowl",
+      "distance": "3.4 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Amity%20Bowl&query_place_id=ChIJjRvXQE_Z54kR_b8O2fxveqA&center=41.3400846,-72.9829913",
+      "isFar": true
+    },
+    {
+      "name": "Johnson's Duckpin Lanes",
+      "distance": "3.6 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Johnson's%20Duckpin%20Lanes&query_place_id=ChIJh2xM62na54kRJAeRM62qWsI&center=41.3688468,-72.9220105",
+      "isFar": true
+    }
+  ],
+  "arcade": [],
+  "movies": [
+    {
+      "name": "Flint Street Theater",
+      "distance": "2.6 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Flint%20Street%20Theater&query_place_id=ChIJyUIpIADX54kR4Jta_ElkKxQ&center=41.327017399999995,-72.877793"
+    },
+    {
+      "name": "Fairmount Theater",
+      "distance": "2.6 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Fairmount%20Theater&query_place_id=ChIJT5aWfB3X54kR5Nck_sTSq08&center=41.2883261,-72.89162329999999"
+    }
+  ],
+  "fun": [
+    {
+      "name": "Escape New Haven",
+      "distance": "0.3 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Escape%20New%20Haven&query_place_id=ChIJk-RZOMjZ54kRSh-XB1hJhZo&center=41.3134697,-72.9214193"
+    },
+    {
+      "name": "The New Haven Bat Cave - Farmington Canal Greenway",
+      "distance": "0.4 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=The%20New%20Haven%20Bat%20Cave%20-%20Farmington%20Canal%20Greenway&query_place_id=ChIJz8-IVwDZ54kRuVxEB0pL8Og&center=41.311298799999996,-72.9222399"
+    },
+    {
+      "name": "Bronze Handsome Dan on a bench at Yale University",
+      "distance": "0.5 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Bronze%20Handsome%20Dan%20on%20a%20bench%20at%20Yale%20University&query_place_id=ChIJ8dW0HgDZ54kRIr8mud7_1fA&center=41.3112827,-72.9309127"
+    },
+    {
+      "name": "New Haven Overlook Vista",
+      "distance": "1.2 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=New%20Haven%20Overlook%20Vista&query_place_id=ChIJzylzM6TZ54kRKcZwCO4VA18&center=41.3270619,-72.9054366"
+    }
+  ],
+  "hotels": [
+    {
+      "name": "Bench",
+      "distance": "0.2 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Bench&query_place_id=ChIJX07Ufx3Z54kRdTAlfANIuNk&center=41.315238,-72.92167309999999"
+    },
+    {
+      "name": "Cottage At Yale",
+      "distance": "0.2 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Cottage%20At%20Yale&query_place_id=ChIJ98pmbrnZ54kRCEsQtb_ciGw&center=41.3194389,-72.9273072"
+    },
+    {
+      "name": "Silver Spring Room",
+      "distance": "0.3 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Silver%20Spring%20Room&query_place_id=ChIJ13YoMLnZ54kRnyRevOoRRrc&center=41.3204612,-72.9261322"
+    }
+  ],
+  "gas": [
+    {
+      "name": "bp",
+      "distance": "0.5 mi",
+      "url": "https://www.google.com/maps/search/bp+near+41.316788599999995%2C-72.9250156"
+    },
+    {
+      "name": "Phillips 66",
+      "distance": "0.7 mi",
+      "url": "https://www.google.com/maps/search/Phillips%2066+near+41.316788599999995%2C-72.9250156"
+    },
+    {
+      "name": "Gas Station - Stop and Shop",
+      "distance": "0.8 mi",
+      "url": "https://www.google.com/maps/search/Gas%20Station%20-%20Stop%20and%20Shop+near+41.316788599999995%2C-72.9250156"
+    },
+    {
+      "name": "Mobil",
+      "distance": "0.9 mi",
+      "url": "https://www.google.com/maps/search/Mobil+near+41.316788599999995%2C-72.9250156"
+    }
+  ]
+}

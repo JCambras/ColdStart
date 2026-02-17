@@ -1,0 +1,206 @@
+{
+  "quick_bite": [
+    {
+      "name": "Jimmy John's",
+      "distance": "0.2 mi",
+      "url": "https://www.google.com/maps/search/Jimmy%20John's+near+45.3628103%2C-122.835479"
+    },
+    {
+      "name": "MOD Pizza",
+      "distance": "0.2 mi",
+      "url": "https://www.google.com/maps/search/MOD%20Pizza+near+45.3628103%2C-122.835479"
+    },
+    {
+      "name": "Killer Burger Sherwood",
+      "distance": "0.2 mi",
+      "url": "https://www.google.com/maps/search/Killer%20Burger%20Sherwood+near+45.3628103%2C-122.835479"
+    },
+    {
+      "name": "Subway",
+      "distance": "0.2 mi",
+      "url": "https://www.google.com/maps/search/Subway+near+45.3628103%2C-122.835479"
+    },
+    {
+      "name": "Chipotle Mexican Grill",
+      "distance": "0.2 mi",
+      "url": "https://www.google.com/maps/search/Chipotle%20Mexican%20Grill+near+45.3628103%2C-122.835479"
+    },
+    {
+      "name": "The Old Spaghetti Factory",
+      "distance": "0.3 mi",
+      "url": "https://www.google.com/maps/search/The%20Old%20Spaghetti%20Factory+near+45.3628103%2C-122.835479"
+    },
+    {
+      "name": "Red Robin Gourmet Burgers and Brews",
+      "distance": "0.3 mi",
+      "url": "https://www.google.com/maps/search/Red%20Robin%20Gourmet%20Burgers%20and%20Brews+near+45.3628103%2C-122.835479"
+    }
+  ],
+  "coffee": [
+    {
+      "name": "Starbucks Coffee Company",
+      "distance": "0.3 mi",
+      "url": "https://www.google.com/maps/search/Starbucks%20Coffee%20Company+near+45.3628103%2C-122.835479"
+    },
+    {
+      "name": "Starbucks Coffee Company",
+      "distance": "0.3 mi",
+      "url": "https://www.google.com/maps/search/Starbucks%20Coffee%20Company+near+45.3628103%2C-122.835479"
+    },
+    {
+      "name": "Panera Bread",
+      "distance": "0.3 mi",
+      "url": "https://www.google.com/maps/search/Panera%20Bread+near+45.3628103%2C-122.835479"
+    }
+  ],
+  "team_lunch": [
+    {
+      "name": "Walmart Bakery",
+      "distance": "0.2 mi",
+      "url": "https://www.google.com/maps/search/Walmart%20Bakery+near+45.3628103%2C-122.835479"
+    },
+    {
+      "name": "Taco Time",
+      "distance": "0.2 mi",
+      "url": "https://www.google.com/maps/search/Taco%20Time+near+45.3628103%2C-122.835479"
+    },
+    {
+      "name": "SuperDeluxe",
+      "distance": "0.4 mi",
+      "url": "https://www.google.com/maps/search/SuperDeluxe+near+45.3628103%2C-122.835479"
+    },
+    {
+      "name": "McMenamins Sherwood",
+      "distance": "0.4 mi",
+      "url": "https://www.google.com/maps/search/McMenamins%20Sherwood+near+45.3628103%2C-122.835479"
+    }
+  ],
+  "dinner": [
+    {
+      "name": "KOMO Sushi",
+      "distance": "0.1 mi",
+      "url": "https://www.google.com/maps/search/KOMO%20Sushi+near+45.3628103%2C-122.835479"
+    },
+    {
+      "name": "Prime Tap House Sherwood",
+      "distance": "0.1 mi",
+      "url": "https://www.google.com/maps/search/Prime%20Tap%20House%20Sherwood+near+45.3628103%2C-122.835479"
+    },
+    {
+      "name": "Koba Grill Sherwood",
+      "distance": "0.2 mi",
+      "url": "https://www.google.com/maps/search/Koba%20Grill%20Sherwood+near+45.3628103%2C-122.835479"
+    },
+    {
+      "name": "Crumbl",
+      "distance": "0.3 mi",
+      "url": "https://www.google.com/maps/search/Crumbl+near+45.3628103%2C-122.835479"
+    }
+  ],
+  "bowling": [
+    {
+      "name": "Langer's Entertainment Center",
+      "distance": "0.1 mi",
+      "url": "https://www.google.com/maps/search/Langer's%20Entertainment%20Center+near+45.3628103%2C-122.835479"
+    },
+    {
+      "name": "Big Al's",
+      "distance": "4.6 mi",
+      "url": "https://www.google.com/maps/search/Big%20Al's+near+45.3628103%2C-122.835479",
+      "isFar": true
+    },
+    {
+      "name": "Bullwinkle's",
+      "distance": "5.0 mi",
+      "url": "https://www.google.com/maps/search/Bullwinkle's+near+45.3628103%2C-122.835479",
+      "isFar": true
+    }
+  ],
+  "arcade": [],
+  "movies": [
+    {
+      "name": "AMC Progress Ridge 13",
+      "distance": "4.7 mi",
+      "url": "https://www.google.com/maps/search/AMC%20Progress%20Ridge%2013+near+45.3628103%2C-122.835479",
+      "isFar": true
+    },
+    {
+      "name": "Regal Bridgeport Village",
+      "distance": "4.7 mi",
+      "url": "https://www.google.com/maps/search/Regal%20Bridgeport%20Village+near+45.3628103%2C-122.835479",
+      "isFar": true
+    }
+  ],
+  "fun": [
+    {
+      "name": "Escape Space Games Tualatin",
+      "distance": "3.6 mi",
+      "url": "https://www.google.com/maps/search/Escape%20Space%20Games%20Tualatin+near+45.3628103%2C-122.835479",
+      "isFar": true
+    }
+  ],
+  "hotels": [
+    {
+      "name": "Lovely Sherwood Retreat with Yard, Walk to Old Town! - Holiday Home",
+      "distance": "0.4 mi",
+      "url": "https://www.google.com/maps/search/Lovely%20Sherwood%20Retreat%20with%20Yard%2C%20Walk%20to%20Old%20Town!%20-%20Holiday%20Home+near+45.3628103%2C-122.835479"
+    },
+    {
+      "name": "Cozy Willamette Valley Cabin With Modern Comforts",
+      "distance": "0.4 mi",
+      "url": "https://www.google.com/maps/search/Cozy%20Willamette%20Valley%20Cabin%20With%20Modern%20Comforts+near+45.3628103%2C-122.835479"
+    },
+    {
+      "name": "Sweet Bamboo Room with Half-Bath in delightful Sherwood with AC, WiFi, TV",
+      "distance": "0.4 mi",
+      "url": "https://www.google.com/maps/search/Sweet%20Bamboo%20Room%20with%20Half-Bath%20in%20delightful%20Sherwood%20with%20AC%2C%20WiFi%2C%20TV+near+45.3628103%2C-122.835479"
+    },
+    {
+      "name": "Sweet Bamboo Room with Half-Bath in delightful Sherwood with AC, WiFi, TV",
+      "distance": "0.5 mi",
+      "url": "https://www.google.com/maps/search/Sweet%20Bamboo%20Room%20with%20Half-Bath%20in%20delightful%20Sherwood%20with%20AC%2C%20WiFi%2C%20TV+near+45.3628103%2C-122.835479"
+    },
+    {
+      "name": "Luxury Wine Country Home • HotTub • Walk Downtown",
+      "distance": "0.6 mi",
+      "url": "https://www.google.com/maps/search/Luxury%20Wine%20Country%20Home%20%E2%80%A2%20HotTub%20%E2%80%A2%20Walk%20Downtown+near+45.3628103%2C-122.835479"
+    },
+    {
+      "name": "Cozy Wine Country Suite",
+      "distance": "0.7 mi",
+      "url": "https://www.google.com/maps/search/Cozy%20Wine%20Country%20Suite+near+45.3628103%2C-122.835479"
+    },
+    {
+      "name": "Smith Farm Estates",
+      "distance": "0.7 mi",
+      "url": "https://www.google.com/maps/search/Smith%20Farm%20Estates+near+45.3628103%2C-122.835479"
+    }
+  ],
+  "gas": [
+    {
+      "name": "76",
+      "distance": "0.5 mi",
+      "url": "https://www.google.com/maps/search/76+near+45.3628103%2C-122.835479"
+    },
+    {
+      "name": "Chevron",
+      "distance": "0.6 mi",
+      "url": "https://www.google.com/maps/search/Chevron+near+45.3628103%2C-122.835479"
+    },
+    {
+      "name": "Shell",
+      "distance": "0.7 mi",
+      "url": "https://www.google.com/maps/search/Shell+near+45.3628103%2C-122.835479"
+    },
+    {
+      "name": "76",
+      "distance": "2.0 mi",
+      "url": "https://www.google.com/maps/search/76+near+45.3628103%2C-122.835479"
+    },
+    {
+      "name": "Jubitz CFN",
+      "distance": "2.8 mi",
+      "url": "https://www.google.com/maps/search/Jubitz%20CFN+near+45.3628103%2C-122.835479"
+    }
+  ]
+}

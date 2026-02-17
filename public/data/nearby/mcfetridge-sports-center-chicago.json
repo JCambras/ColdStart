@@ -1,0 +1,171 @@
+{
+  "quick_bite": [
+    {
+      "name": "Taco Bell / KFC",
+      "distance": "0.2 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Taco%20Bell%20%2F%20KFC&query_place_id=ChIJoWAuYIrND4gRFKPYBorFSQA&center=41.9537337,-87.69861689999999"
+    },
+    {
+      "name": "KFC",
+      "distance": "0.2 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=KFC&query_place_id=ChIJoWAuYIrND4gR5lMMI2RWlss&center=41.953751,-87.69863099999999"
+    },
+    {
+      "name": "Taquería el Malecón",
+      "distance": "0.2 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Taquer%C3%ADa%20el%20Malec%C3%B3n&query_place_id=ChIJ49oj9IrND4gRbMLoLtoIGfE&center=41.953638399999996,-87.699101"
+    },
+    {
+      "name": "Burger King",
+      "distance": "0.2 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Burger%20King&query_place_id=ChIJZVSg_YrND4gRLI4EfunbHME&center=41.9542472,-87.6999441"
+    },
+    {
+      "name": "Chicago’s Red Hots",
+      "distance": "0.4 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Chicago%E2%80%99s%20Red%20Hots&query_place_id=ChIJD706XgDTD4gRg67yyCgn5pk&center=41.9576232,-87.69748179999999"
+    }
+  ],
+  "coffee": [
+    {
+      "name": "ClimbZone Chicago",
+      "distance": "0.3 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=ClimbZone%20Chicago&query_place_id=ChIJ7RWfavfTD4gR689_KGnj-QQ&center=41.9501539,-87.69231769999999"
+    },
+    {
+      "name": "Mima's Taste Of Cuba",
+      "distance": "0.3 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Mima's%20Taste%20Of%20Cuba&query_place_id=ChIJ9UP2B1LOD4gR0RKe-hqxR3o&center=41.9537291,-87.7017075"
+    }
+  ],
+  "team_lunch": [
+    {
+      "name": "Farmer's Fridge",
+      "distance": "0.3 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Farmer's%20Fridge&query_place_id=ChIJQR4dJnHSD4gRrChiQGC_xdE&center=41.94869200000001,-87.6923827"
+    },
+    {
+      "name": "A & B BAKERY",
+      "distance": "0.7 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=A%20%26%20B%20BAKERY&query_place_id=ChIJ0crFeRnTD4gRQGnQNncCmrY&center=41.9542693,-87.6847015"
+    }
+  ],
+  "dinner": [
+    {
+      "name": "Lo's China Kitchen",
+      "distance": "0.2 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Lo's%20China%20Kitchen&query_place_id=ChIJ2cN5korND4gRS6ftM8n6aAc&center=41.9543337,-87.6987106"
+    },
+    {
+      "name": "The Churro Waffle",
+      "distance": "0.2 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=The%20Churro%20Waffle&query_place_id=ChIJC9uutp_ND4gRcnm0bYvadqY&center=41.9535862,-87.7000856"
+    },
+    {
+      "name": "Cafe Beograd",
+      "distance": "0.3 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Cafe%20Beograd&query_place_id=ChIJV4nOeIvND4gRNZgtCDgNDNE&center=41.9537535,-87.70210329999999"
+    },
+    {
+      "name": "Irving Park Pizza & Patio",
+      "distance": "0.3 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Irving%20Park%20Pizza%20%26%20Patio&query_place_id=ChIJkTdY4znND4gR9YQR-7nFj_g&center=41.9541937,-87.7017427"
+    },
+    {
+      "name": "Heineken 2nd Star Tavern",
+      "distance": "0.3 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Heineken%202nd%20Star%20Tavern&query_place_id=ChIJI-ZxF0vTD4gRTaaQISlyj9w&center=41.9476304,-87.6953856"
+    },
+    {
+      "name": "Cascabel Taco Joint",
+      "distance": "0.3 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Cascabel%20Taco%20Joint&query_place_id=ChIJef_wTSvND4gRoVos6rQ64K0&center=41.953772099999995,-87.7024749"
+    }
+  ],
+  "bowling": [
+    {
+      "name": "Waveland Bowl",
+      "distance": "0.5 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Waveland%20Bowl&query_place_id=ChIJhyTEzHHSD4gRaYbCaJ_fWCM&center=41.948729199999995,-87.68863089999999"
+    },
+    {
+      "name": "Timber Lanes Bowling Alley",
+      "distance": "1.1 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Timber%20Lanes%20Bowling%20Alley&query_place_id=ChIJW9hNW0DSD4gRRSgIPp6bD70&center=41.9539729,-87.67611409999999"
+    },
+    {
+      "name": "Diversey River Bowl",
+      "distance": "1.6 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Diversey%20River%20Bowl&query_place_id=ChIJY0ujRonSD4gR2DAaNWEbsKk&center=41.931658,-87.68342229999999"
+    }
+  ],
+  "arcade": [],
+  "movies": [
+    {
+      "name": "Davis Theater, Chicago",
+      "distance": "1.1 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Davis%20Theater%2C%20Chicago&query_place_id=ChIJF-WvDRDSD4gRdJs_AjKy9L4&center=41.965306,-87.686599"
+    },
+    {
+      "name": "Regal City North",
+      "distance": "1.6 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Regal%20City%20North&query_place_id=ChIJgQvs84XSD4gRMLEUDgSAdEc&center=41.930187,-87.68809999999999"
+    },
+    {
+      "name": "The Logan Theatre",
+      "distance": "1.6 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=The%20Logan%20Theatre&query_place_id=ChIJCc0i7HDND4gRaB77eMw87oQ&center=41.9297606,-87.70891069999999"
+    }
+  ],
+  "fun": [
+    {
+      "name": "Santa's Rock n' Lights",
+      "distance": "0.2 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Santa's%20Rock%20n'%20Lights&query_place_id=ChIJU0dAJADTD4gRtttOUWXrD3c&center=41.952076999999996,-87.6932949"
+    },
+    {
+      "name": "West Addison Street Bridge",
+      "distance": "0.3 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=West%20Addison%20Street%20Bridge&query_place_id=ChIJy2YlZADTD4gRRP83kC-l59w&center=41.9466849,-87.69623059999999"
+    },
+    {
+      "name": "Altitude Trampoline Park - Roscoe Village",
+      "distance": "0.8 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Altitude%20Trampoline%20Park%20-%20Roscoe%20Village&query_place_id=ChIJR5CVK0vTD4gRa-Jjn7HVotA&center=41.9417328,-87.68971119999999"
+    }
+  ],
+  "hotels": [
+    {
+      "name": "The Irving Masterpiece",
+      "distance": "0.2 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=The%20Irving%20Masterpiece&query_place_id=ChIJqWqJyYvND4gRpgLChh_gxGc&center=41.9523811,-87.7003326"
+    },
+    {
+      "name": "The Irving Masterpiece near Wrigley Field",
+      "distance": "0.2 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=The%20Irving%20Masterpiece%20near%20Wrigley%20Field&query_place_id=ChIJqWqJyYvND4gROSXIq84EbH4&center=41.9523811,-87.7003403"
+    },
+    {
+      "name": "Huge Projector and Designated Workspace - Near Wrigley!",
+      "distance": "0.3 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Huge%20Projector%20and%20Designated%20Workspace%20-%20Near%20Wrigley!&query_place_id=ChIJJ7dNT4nND4gRNGMYJN8NT5s&center=41.950359299999995,-87.701912"
+    }
+  ],
+  "gas": [
+    {
+      "name": "Shell",
+      "distance": "0.2 mi",
+      "url": "https://www.google.com/maps/search/Shell+near+41.9517076%2C-87.69708729999999"
+    },
+    {
+      "name": "Mobil",
+      "distance": "0.5 mi",
+      "url": "https://www.google.com/maps/search/Mobil+near+41.9517076%2C-87.69708729999999"
+    },
+    {
+      "name": "bp",
+      "distance": "0.5 mi",
+      "url": "https://www.google.com/maps/search/bp+near+41.9517076%2C-87.69708729999999"
+    }
+  ]
+}

@@ -1,0 +1,251 @@
+{
+  "quick_bite": [
+    {
+      "name": "Subway",
+      "distance": "0.2 mi",
+      "url": "https://www.google.com/maps/search/Subway+near+32.9221181%2C-117.12223809999999"
+    },
+    {
+      "name": "Bale French Sandwich Mira Mesa",
+      "distance": "0.3 mi",
+      "url": "https://www.google.com/maps/search/Bale%20French%20Sandwich%20Mira%20Mesa+near+32.9221181%2C-117.12223809999999"
+    },
+    {
+      "name": "In-N-Out Burger",
+      "distance": "0.3 mi",
+      "url": "https://www.google.com/maps/search/In-N-Out%20Burger+near+32.9221181%2C-117.12223809999999"
+    },
+    {
+      "name": "Resort style house centrally located w / Zen backyard and putting green",
+      "distance": "0.6 mi",
+      "url": "https://www.google.com/maps/search/Resort%20style%20house%20centrally%20located%20w%20%2F%20Zen%20backyard%20and%20putting%20green+near+32.9221181%2C-117.12223809999999"
+    },
+    {
+      "name": "Resort style house centrally located w/ Zen backyard and putting green",
+      "distance": "0.6 mi",
+      "url": "https://www.google.com/maps/search/Resort%20style%20house%20centrally%20located%20w%2F%20Zen%20backyard%20and%20putting%20green+near+32.9221181%2C-117.12223809999999"
+    }
+  ],
+  "coffee": [
+    {
+      "name": "Samba arena cafe",
+      "distance": "0.1 mi",
+      "url": "https://www.google.com/maps/search/Samba%20arena%20cafe+near+32.9221181%2C-117.12223809999999"
+    },
+    {
+      "name": "Paris Baguette",
+      "distance": "0.2 mi",
+      "url": "https://www.google.com/maps/search/Paris%20Baguette+near+32.9221181%2C-117.12223809999999"
+    },
+    {
+      "name": "Angelika Film Center & Café - Carmel Mountain",
+      "distance": "4.7 mi",
+      "url": "https://www.google.com/maps/search/Angelika%20Film%20Center%20%26%20Caf%C3%A9%20-%20Carmel%20Mountain+near+32.9221181%2C-117.12223809999999",
+      "isFar": true
+    }
+  ],
+  "team_lunch": [
+    {
+      "name": "Nicolosi's Pizza (Mira Lee Way)",
+      "distance": "0.2 mi",
+      "url": "https://www.google.com/maps/search/Nicolosi's%20Pizza%20(Mira%20Lee%20Way)+near+32.9221181%2C-117.12223809999999"
+    },
+    {
+      "name": "WIW Bakery",
+      "distance": "0.2 mi",
+      "url": "https://www.google.com/maps/search/WIW%20Bakery+near+32.9221181%2C-117.12223809999999"
+    },
+    {
+      "name": "Go Go Sushi & Ramen",
+      "distance": "0.3 mi",
+      "url": "https://www.google.com/maps/search/Go%20Go%20Sushi%20%26%20Ramen+near+32.9221181%2C-117.12223809999999"
+    },
+    {
+      "name": "Pho Lucky",
+      "distance": "0.3 mi",
+      "url": "https://www.google.com/maps/search/Pho%20Lucky+near+32.9221181%2C-117.12223809999999"
+    },
+    {
+      "name": "Applebee's Grill + Bar",
+      "distance": "0.3 mi",
+      "url": "https://www.google.com/maps/search/Applebee's%20Grill%20%2B%20Bar+near+32.9221181%2C-117.12223809999999"
+    }
+  ],
+  "dinner": [
+    {
+      "name": "The Kebab Shop",
+      "distance": "0.2 mi",
+      "url": "https://www.google.com/maps/search/The%20Kebab%20Shop+near+32.9221181%2C-117.12223809999999"
+    },
+    {
+      "name": "Nishiki Ramen - Mira Mesa",
+      "distance": "0.2 mi",
+      "url": "https://www.google.com/maps/search/Nishiki%20Ramen%20-%20Mira%20Mesa+near+32.9221181%2C-117.12223809999999"
+    },
+    {
+      "name": "El Patron",
+      "distance": "0.2 mi",
+      "url": "https://www.google.com/maps/search/El%20Patron+near+32.9221181%2C-117.12223809999999"
+    },
+    {
+      "name": "Tim Ky Noodle",
+      "distance": "0.2 mi",
+      "url": "https://www.google.com/maps/search/Tim%20Ky%20Noodle+near+32.9221181%2C-117.12223809999999"
+    },
+    {
+      "name": "Donut Stop",
+      "distance": "0.2 mi",
+      "url": "https://www.google.com/maps/search/Donut%20Stop+near+32.9221181%2C-117.12223809999999"
+    },
+    {
+      "name": "Valerio's 1979",
+      "distance": "0.2 mi",
+      "url": "https://www.google.com/maps/search/Valerio's%201979+near+32.9221181%2C-117.12223809999999"
+    },
+    {
+      "name": "Chopstix 2 Mira Mesa",
+      "distance": "0.3 mi",
+      "url": "https://www.google.com/maps/search/Chopstix%202%20Mira%20Mesa+near+32.9221181%2C-117.12223809999999"
+    }
+  ],
+  "bowling": [
+    {
+      "name": "Mira Mesa Lanes",
+      "distance": "1.5 mi",
+      "url": "https://www.google.com/maps/search/Mira%20Mesa%20Lanes+near+32.9221181%2C-117.12223809999999"
+    },
+    {
+      "name": "Bowl",
+      "distance": "1.5 mi",
+      "url": "https://www.google.com/maps/search/Bowl+near+32.9221181%2C-117.12223809999999"
+    },
+    {
+      "name": "City Fun Center",
+      "distance": "4.5 mi",
+      "url": "https://www.google.com/maps/search/City%20Fun%20Center+near+32.9221181%2C-117.12223809999999",
+      "isFar": true
+    }
+  ],
+  "arcade": [],
+  "movies": [
+    {
+      "name": "Regal Edwards Mira Mesa",
+      "distance": "0.5 mi",
+      "url": "https://www.google.com/maps/search/Regal%20Edwards%20Mira%20Mesa+near+32.9221181%2C-117.12223809999999"
+    },
+    {
+      "name": "Edwards Cinemas",
+      "distance": "0.6 mi",
+      "url": "https://www.google.com/maps/search/Edwards%20Cinemas+near+32.9221181%2C-117.12223809999999"
+    },
+    {
+      "name": "Bob Hope Theater",
+      "distance": "2.3 mi",
+      "url": "https://www.google.com/maps/search/Bob%20Hope%20Theater+near+32.9221181%2C-117.12223809999999"
+    }
+  ],
+  "fun": [
+    {
+      "name": "The Puzzalarium",
+      "distance": "2.0 mi",
+      "url": "https://www.google.com/maps/search/The%20Puzzalarium+near+32.9221181%2C-117.12223809999999"
+    },
+    {
+      "name": "Sky Zone Trampoline Park",
+      "distance": "2.2 mi",
+      "url": "https://www.google.com/maps/search/Sky%20Zone%20Trampoline%20Park+near+32.9221181%2C-117.12223809999999"
+    },
+    {
+      "name": "San Diego VR",
+      "distance": "2.2 mi",
+      "url": "https://www.google.com/maps/search/San%20Diego%20VR+near+32.9221181%2C-117.12223809999999"
+    },
+    {
+      "name": "The Great Room Escape San Diego",
+      "distance": "2.6 mi",
+      "url": "https://www.google.com/maps/search/The%20Great%20Room%20Escape%20San%20Diego+near+32.9221181%2C-117.12223809999999"
+    },
+    {
+      "name": "MindFox Escape",
+      "distance": "3.2 mi",
+      "url": "https://www.google.com/maps/search/MindFox%20Escape+near+32.9221181%2C-117.12223809999999",
+      "isFar": true
+    },
+    {
+      "name": "Brainy Actz Escape Rooms San Diego",
+      "distance": "4.3 mi",
+      "url": "https://www.google.com/maps/search/Brainy%20Actz%20Escape%20Rooms%20San%20Diego+near+32.9221181%2C-117.12223809999999",
+      "isFar": true
+    },
+    {
+      "name": "Get Air Trampoline Park",
+      "distance": "4.5 mi",
+      "url": "https://www.google.com/maps/search/Get%20Air%20Trampoline%20Park+near+32.9221181%2C-117.12223809999999",
+      "isFar": true
+    }
+  ],
+  "hotels": [
+    {
+      "name": "Mira Mesa 3br nr dining shops highways SAN-42 - Three-Bedroom Apartment",
+      "distance": "0.1 mi",
+      "url": "https://www.google.com/maps/search/Mira%20Mesa%203br%20nr%20dining%20shops%20highways%20SAN-42%20-%20Three-Bedroom%20Apartment+near+32.9221181%2C-117.12223809999999"
+    },
+    {
+      "name": "Family Friendly Newly Built San Diego Home!",
+      "distance": "0.2 mi",
+      "url": "https://www.google.com/maps/search/Family%20Friendly%20Newly%20Built%20San%20Diego%20Home!+near+32.9221181%2C-117.12223809999999"
+    },
+    {
+      "name": "Pet Friendly Newly Built Guest Home",
+      "distance": "0.2 mi",
+      "url": "https://www.google.com/maps/search/Pet%20Friendly%20Newly%20Built%20Guest%20Home+near+32.9221181%2C-117.12223809999999"
+    },
+    {
+      "name": "Bright Mira Mesa 1BR | In-unit Washer / D |San Diego",
+      "distance": "0.3 mi",
+      "url": "https://www.google.com/maps/search/Bright%20Mira%20Mesa%201BR%20%7C%20In-unit%20Washer%20%2F%20D%20%7CSan%20Diego+near+32.9221181%2C-117.12223809999999"
+    },
+    {
+      "name": "Bright Cozy 3b /2b with nice backyard BBQ",
+      "distance": "0.4 mi",
+      "url": "https://www.google.com/maps/search/Bright%20Cozy%203b%20%2F2b%20with%20nice%20backyard%20BBQ+near+32.9221181%2C-117.12223809999999"
+    },
+    {
+      "name": "Bright Cozy 3b/2b with nice backyard & BBQ",
+      "distance": "0.4 mi",
+      "url": "https://www.google.com/maps/search/Bright%20Cozy%203b%2F2b%20with%20nice%20backyard%20%26%20BBQ+near+32.9221181%2C-117.12223809999999"
+    },
+    {
+      "name": "Bright Cozy 3b/2b with nice backyard & BBQ",
+      "distance": "0.4 mi",
+      "url": "https://www.google.com/maps/search/Bright%20Cozy%203b%2F2b%20with%20nice%20backyard%20%26%20BBQ+near+32.9221181%2C-117.12223809999999"
+    }
+  ],
+  "gas": [
+    {
+      "name": "Shell",
+      "distance": "0.3 mi",
+      "url": "https://www.google.com/maps/search/Shell+near+32.9221181%2C-117.12223809999999"
+    },
+    {
+      "name": "ARCO",
+      "distance": "0.3 mi",
+      "url": "https://www.google.com/maps/search/ARCO+near+32.9221181%2C-117.12223809999999"
+    },
+    {
+      "name": "Mobil",
+      "distance": "0.8 mi",
+      "url": "https://www.google.com/maps/search/Mobil+near+32.9221181%2C-117.12223809999999"
+    },
+    {
+      "name": "Chevron",
+      "distance": "1.2 mi",
+      "url": "https://www.google.com/maps/search/Chevron+near+32.9221181%2C-117.12223809999999"
+    },
+    {
+      "name": "7-Eleven Fuel",
+      "distance": "1.3 mi",
+      "url": "https://www.google.com/maps/search/7-Eleven%20Fuel+near+32.9221181%2C-117.12223809999999"
+    }
+  ]
+}

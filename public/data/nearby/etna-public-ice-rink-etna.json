@@ -1,0 +1,94 @@
+{
+  "quick_bite": [],
+  "coffee": [],
+  "team_lunch": [],
+  "dinner": [],
+  "bowling": [],
+  "arcade": [],
+  "movies": [
+    {
+      "name": "Nugget Theaters",
+      "distance": "3.6 mi",
+      "url": "https://www.google.com/maps/search/Nugget%20Theaters+near+43.696226599999996%2C-72.2171487",
+      "isFar": true
+    },
+    {
+      "name": "Entertainment Cinemas",
+      "distance": "5.5 mi",
+      "url": "https://www.google.com/maps/search/Entertainment%20Cinemas+near+43.696226599999996%2C-72.2171487",
+      "isFar": true
+    },
+    {
+      "name": "Thetford Arthouse Cinema",
+      "distance": "8.3 mi",
+      "url": "https://www.google.com/maps/search/Thetford%20Arthouse%20Cinema+near+43.696226599999996%2C-72.2171487",
+      "isFar": true
+    }
+  ],
+  "fun": [],
+  "hotels": [
+    {
+      "name": "Courtyard by Marriott Hanover Lebanon",
+      "distance": "2.5 mi",
+      "url": "https://www.google.com/maps/search/Courtyard%20by%20Marriott%20Hanover%20Lebanon+near+43.696226599999996%2C-72.2171487"
+    },
+    {
+      "name": "Residence Inn by Marriott Hanover Lebanon",
+      "distance": "2.6 mi",
+      "url": "https://www.google.com/maps/search/Residence%20Inn%20by%20Marriott%20Hanover%20Lebanon+near+43.696226599999996%2C-72.2171487"
+    },
+    {
+      "name": "Dartmouth Graduation! In town, room to relax!",
+      "distance": "2.7 mi",
+      "url": "https://www.google.com/maps/search/Dartmouth%20Graduation!%20In%20town%2C%20room%20to%20relax!+near+43.696226599999996%2C-72.2171487"
+    },
+    {
+      "name": "Pierce's Inn",
+      "distance": "2.7 mi",
+      "url": "https://www.google.com/maps/search/Pierce's%20Inn+near+43.696226599999996%2C-72.2171487"
+    },
+    {
+      "name": "Private apartment in-town Hanover and near DHMC",
+      "distance": "2.9 mi",
+      "url": "https://www.google.com/maps/search/Private%20apartment%20in-town%20Hanover%20and%20near%20DHMC+near+43.696226599999996%2C-72.2171487"
+    },
+    {
+      "name": "Luxury Graduation Rental- Walk to Dartmouth!",
+      "distance": "3.0 mi",
+      "url": "https://www.google.com/maps/search/Luxury%20Graduation%20Rental-%20Walk%20to%20Dartmouth!+near+43.696226599999996%2C-72.2171487"
+    },
+    {
+      "name": "Hilton Garden Inn Hanover Lebanon",
+      "distance": "3.1 mi",
+      "url": "https://www.google.com/maps/search/Hilton%20Garden%20Inn%20Hanover%20Lebanon+near+43.696226599999996%2C-72.2171487",
+      "isFar": true
+    }
+  ],
+  "gas": [
+    {
+      "name": "Citgo",
+      "distance": "2.8 mi",
+      "url": "https://www.google.com/maps/search/Citgo+near+43.696226599999996%2C-72.2171487"
+    },
+    {
+      "name": "Mobil",
+      "distance": "3.2 mi",
+      "url": "https://www.google.com/maps/search/Mobil+near+43.696226599999996%2C-72.2171487"
+    },
+    {
+      "name": "Jiffy Mart",
+      "distance": "3.4 mi",
+      "url": "https://www.google.com/maps/search/Jiffy%20Mart+near+43.696226599999996%2C-72.2171487"
+    },
+    {
+      "name": "Irving Oil",
+      "distance": "3.4 mi",
+      "url": "https://www.google.com/maps/search/Irving%20Oil+near+43.696226599999996%2C-72.2171487"
+    },
+    {
+      "name": "MASCOMA VILLAGE STORE",
+      "distance": "3.6 mi",
+      "url": "https://www.google.com/maps/search/MASCOMA%20VILLAGE%20STORE+near+43.696226599999996%2C-72.2171487"
+    }
+  ]
+}

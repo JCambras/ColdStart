@@ -1,0 +1,196 @@
+{
+  "quick_bite": [
+    {
+      "name": "Chez Quan's",
+      "distance": "0.1 mi",
+      "url": "https://www.google.com/maps/search/Chez%20Quan's+near+28.1355915%2C-80.6442337"
+    },
+    {
+      "name": "La nortena",
+      "distance": "0.5 mi",
+      "url": "https://www.google.com/maps/search/La%20nortena+near+28.1355915%2C-80.6442337"
+    },
+    {
+      "name": "Burger Inn",
+      "distance": "0.7 mi",
+      "url": "https://www.google.com/maps/search/Burger%20Inn+near+28.1355915%2C-80.6442337"
+    },
+    {
+      "name": "Subway",
+      "distance": "1.0 mi",
+      "url": "https://www.google.com/maps/search/Subway+near+28.1355915%2C-80.6442337"
+    }
+  ],
+  "coffee": [
+    {
+      "name": "Shep's Diner",
+      "distance": "0.1 mi",
+      "url": "https://www.google.com/maps/search/Shep's%20Diner+near+28.1355915%2C-80.6442337"
+    },
+    {
+      "name": "Starbucks Coffee Company",
+      "distance": "1.0 mi",
+      "url": "https://www.google.com/maps/search/Starbucks%20Coffee%20Company+near+28.1355915%2C-80.6442337"
+    }
+  ],
+  "team_lunch": [
+    {
+      "name": "cc's sweet treats",
+      "distance": "0.4 mi",
+      "url": "https://www.google.com/maps/search/cc's%20sweet%20treats+near+28.1355915%2C-80.6442337"
+    },
+    {
+      "name": "Cryderman's Barbecue",
+      "distance": "0.9 mi",
+      "url": "https://www.google.com/maps/search/Cryderman's%20Barbecue+near+28.1355915%2C-80.6442337"
+    }
+  ],
+  "dinner": [
+    {
+      "name": "La Loma Coney Island Restaurant",
+      "distance": "0.4 mi",
+      "url": "https://www.google.com/maps/search/La%20Loma%20Coney%20Island%20Restaurant+near+28.1355915%2C-80.6442337"
+    },
+    {
+      "name": "Mobile bar b cue and soul food catering",
+      "distance": "0.6 mi",
+      "url": "https://www.google.com/maps/search/Mobile%20bar%20b%20cue%20and%20soul%20food%20catering+near+28.1355915%2C-80.6442337"
+    },
+    {
+      "name": "Tacos El Vaquero",
+      "distance": "0.6 mi",
+      "url": "https://www.google.com/maps/search/Tacos%20El%20Vaquero+near+28.1355915%2C-80.6442337"
+    },
+    {
+      "name": "Dante's Inferno",
+      "distance": "0.7 mi",
+      "url": "https://www.google.com/maps/search/Dante's%20Inferno+near+28.1355915%2C-80.6442337"
+    },
+    {
+      "name": "Pizzería Pomodoro",
+      "distance": "0.7 mi",
+      "url": "https://www.google.com/maps/search/Pizzer%C3%ADa%20Pomodoro+near+28.1355915%2C-80.6442337"
+    },
+    {
+      "name": "321 Empanadas",
+      "distance": "0.8 mi",
+      "url": "https://www.google.com/maps/search/321%20Empanadas+near+28.1355915%2C-80.6442337"
+    },
+    {
+      "name": "Oh Biscuit and More",
+      "distance": "0.8 mi",
+      "url": "https://www.google.com/maps/search/Oh%20Biscuit%20and%20More+near+28.1355915%2C-80.6442337"
+    }
+  ],
+  "bowling": [
+    {
+      "name": "Bowlero Melbourne",
+      "distance": "1.7 mi",
+      "url": "https://www.google.com/maps/search/Bowlero%20Melbourne+near+28.1355915%2C-80.6442337"
+    },
+    {
+      "name": "Bowlero",
+      "distance": "4.5 mi",
+      "url": "https://www.google.com/maps/search/Bowlero+near+28.1355915%2C-80.6442337",
+      "isFar": true
+    }
+  ],
+  "arcade": [],
+  "movies": [
+    {
+      "name": "Premiere Theaters Oaks 10",
+      "distance": "3.4 mi",
+      "url": "https://www.google.com/maps/search/Premiere%20Theaters%20Oaks%2010+near+28.1355915%2C-80.6442337",
+      "isFar": true
+    },
+    {
+      "name": "Satellite Cinemas",
+      "distance": "4.6 mi",
+      "url": "https://www.google.com/maps/search/Satellite%20Cinemas+near+28.1355915%2C-80.6442337",
+      "isFar": true
+    }
+  ],
+  "fun": [
+    {
+      "name": "Insanity Rooms",
+      "distance": "1.7 mi",
+      "url": "https://www.google.com/maps/search/Insanity%20Rooms+near+28.1355915%2C-80.6442337"
+    },
+    {
+      "name": "Escape Room Entertainment",
+      "distance": "3.2 mi",
+      "url": "https://www.google.com/maps/search/Escape%20Room%20Entertainment+near+28.1355915%2C-80.6442337",
+      "isFar": true
+    },
+    {
+      "name": "Escape Room Entertainment-DT",
+      "distance": "4.4 mi",
+      "url": "https://www.google.com/maps/search/Escape%20Room%20Entertainment-DT+near+28.1355915%2C-80.6442337",
+      "isFar": true
+    }
+  ],
+  "hotels": [
+    {
+      "name": "Coral Cove Melbourne",
+      "distance": "0.1 mi",
+      "url": "https://www.google.com/maps/search/Coral%20Cove%20Melbourne+near+28.1355915%2C-80.6442337"
+    },
+    {
+      "name": "Coral Cove 3 Bed 2 Bath Pool Home in Melbourne - Three-Bedroom Home",
+      "distance": "0.1 mi",
+      "url": "https://www.google.com/maps/search/Coral%20Cove%203%20Bed%202%20Bath%20Pool%20Home%20in%20Melbourne%20-%20Three-Bedroom%20Home+near+28.1355915%2C-80.6442337"
+    },
+    {
+      "name": "Coral Cove - Relaxing 3-Bedroom Getaway with Private Pool – 10 Minutes from Melbourne Beach",
+      "distance": "0.1 mi",
+      "url": "https://www.google.com/maps/search/Coral%20Cove%20-%20Relaxing%203-Bedroom%20Getaway%20with%20Private%20Pool%20%E2%80%93%2010%20Minutes%20from%20Melbourne%20Beach+near+28.1355915%2C-80.6442337"
+    },
+    {
+      "name": "Shady Oak Mobile Home Park",
+      "distance": "0.3 mi",
+      "url": "https://www.google.com/maps/search/Shady%20Oak%20Mobile%20Home%20Park+near+28.1355915%2C-80.6442337"
+    },
+    {
+      "name": "LOCATION, LOCATION, LOCATION!!",
+      "distance": "0.3 mi",
+      "url": "https://www.google.com/maps/search/LOCATION%2C%20LOCATION%2C%20LOCATION!!+near+28.1355915%2C-80.6442337"
+    },
+    {
+      "name": "Cozy 2-bedroom house in beautiful Melbourne with AC",
+      "distance": "0.3 mi",
+      "url": "https://www.google.com/maps/search/Cozy%202-bedroom%20house%20in%20beautiful%20Melbourne%20with%20AC+near+28.1355915%2C-80.6442337"
+    },
+    {
+      "name": "️10 MINS TO BEACH HEATED POOL/SPA SLEEP FOR 12@ KIDS FRIENDLY",
+      "distance": "0.3 mi",
+      "url": "https://www.google.com/maps/search/%EF%B8%8F10%20MINS%20TO%20BEACH%20HEATED%20POOL%2FSPA%20SLEEP%20FOR%2012%40%20KIDS%20FRIENDLY+near+28.1355915%2C-80.6442337"
+    }
+  ],
+  "gas": [
+    {
+      "name": "Aurora Food Mart",
+      "distance": "0.1 mi",
+      "url": "https://www.google.com/maps/search/Aurora%20Food%20Mart+near+28.1355915%2C-80.6442337"
+    },
+    {
+      "name": "Chevron",
+      "distance": "0.2 mi",
+      "url": "https://www.google.com/maps/search/Chevron+near+28.1355915%2C-80.6442337"
+    },
+    {
+      "name": "7-Eleven Fuel",
+      "distance": "0.3 mi",
+      "url": "https://www.google.com/maps/search/7-Eleven%20Fuel+near+28.1355915%2C-80.6442337"
+    },
+    {
+      "name": "7-Eleven Fuel",
+      "distance": "0.7 mi",
+      "url": "https://www.google.com/maps/search/7-Eleven%20Fuel+near+28.1355915%2C-80.6442337"
+    },
+    {
+      "name": "Sunoco",
+      "distance": "0.7 mi",
+      "url": "https://www.google.com/maps/search/Sunoco+near+28.1355915%2C-80.6442337"
+    }
+  ]
+}

@@ -1,0 +1,241 @@
+{
+  "quick_bite": [
+    {
+      "name": "Papa Murphy's | Take 'N' Bake Pizza",
+      "distance": "0.4 mi",
+      "url": "https://www.google.com/maps/search/Papa%20Murphy's%20%7C%20Take%20'N'%20Bake%20Pizza+near+61.1324374%2C-149.8309734"
+    },
+    {
+      "name": "Carl's Jr.",
+      "distance": "0.4 mi",
+      "url": "https://www.google.com/maps/search/Carl's%20Jr.+near+61.1324374%2C-149.8309734"
+    },
+    {
+      "name": "Taco Bell",
+      "distance": "0.5 mi",
+      "url": "https://www.google.com/maps/search/Taco%20Bell+near+61.1324374%2C-149.8309734"
+    },
+    {
+      "name": "Subway",
+      "distance": "0.5 mi",
+      "url": "https://www.google.com/maps/search/Subway+near+61.1324374%2C-149.8309734"
+    },
+    {
+      "name": "Dairy Queen Grill & Chill",
+      "distance": "0.6 mi",
+      "url": "https://www.google.com/maps/search/Dairy%20Queen%20Grill%20%26%20Chill+near+61.1324374%2C-149.8309734"
+    },
+    {
+      "name": "Cinemark Century Anchorage 16 and XD",
+      "distance": "4.2 mi",
+      "url": "https://www.google.com/maps/search/Cinemark%20Century%20Anchorage%2016%20and%20XD+near+61.1324374%2C-149.8309734",
+      "isFar": true
+    },
+    {
+      "name": "Chuck E. Cheese",
+      "distance": "4.6 mi",
+      "url": "https://www.google.com/maps/search/Chuck%20E.%20Cheese+near+61.1324374%2C-149.8309734",
+      "isFar": true
+    }
+  ],
+  "coffee": [
+    {
+      "name": "Fred meyers starbucks",
+      "distance": "0.3 mi",
+      "url": "https://www.google.com/maps/search/Fred%20meyers%20starbucks+near+61.1324374%2C-149.8309734"
+    },
+    {
+      "name": "Starbucks Coffee Company",
+      "distance": "0.3 mi",
+      "url": "https://www.google.com/maps/search/Starbucks%20Coffee%20Company+near+61.1324374%2C-149.8309734"
+    },
+    {
+      "name": "McDonald's",
+      "distance": "0.4 mi",
+      "url": "https://www.google.com/maps/search/McDonald's+near+61.1324374%2C-149.8309734"
+    },
+    {
+      "name": "Café Loco Espresso Bar",
+      "distance": "0.6 mi",
+      "url": "https://www.google.com/maps/search/Caf%C3%A9%20Loco%20Espresso%20Bar+near+61.1324374%2C-149.8309734"
+    },
+    {
+      "name": "Fresh Cup Playhouse",
+      "distance": "1.3 mi",
+      "url": "https://www.google.com/maps/search/Fresh%20Cup%20Playhouse+near+61.1324374%2C-149.8309734"
+    }
+  ],
+  "team_lunch": [
+    {
+      "name": "Carhop",
+      "distance": "0.3 mi",
+      "url": "https://www.google.com/maps/search/Carhop+near+61.1324374%2C-149.8309734"
+    },
+    {
+      "name": "Great Alaska Pizza Company",
+      "distance": "0.3 mi",
+      "url": "https://www.google.com/maps/search/Great%20Alaska%20Pizza%20Company+near+61.1324374%2C-149.8309734"
+    },
+    {
+      "name": "Carrie’s Cakes and Cookies",
+      "distance": "0.4 mi",
+      "url": "https://www.google.com/maps/search/Carrie%E2%80%99s%20Cakes%20and%20Cookies+near+61.1324374%2C-149.8309734"
+    },
+    {
+      "name": "88th Street Pizza / Little Italy",
+      "distance": "0.6 mi",
+      "url": "https://www.google.com/maps/search/88th%20Street%20Pizza%20%2F%20Little%20Italy+near+61.1324374%2C-149.8309734"
+    }
+  ],
+  "dinner": [
+    {
+      "name": "Boiling Pot",
+      "distance": "0.3 mi",
+      "url": "https://www.google.com/maps/search/Boiling%20Pot+near+61.1324374%2C-149.8309734"
+    },
+    {
+      "name": "Fred Meyer Bakery",
+      "distance": "0.3 mi",
+      "url": "https://www.google.com/maps/search/Fred%20Meyer%20Bakery+near+61.1324374%2C-149.8309734"
+    },
+    {
+      "name": "Flying Dutchman European Pastry Shop",
+      "distance": "0.6 mi",
+      "url": "https://www.google.com/maps/search/Flying%20Dutchman%20European%20Pastry%20Shop+near+61.1324374%2C-149.8309734"
+    },
+    {
+      "name": "Lahn Pad Thai",
+      "distance": "0.6 mi",
+      "url": "https://www.google.com/maps/search/Lahn%20Pad%20Thai+near+61.1324374%2C-149.8309734"
+    },
+    {
+      "name": "Cloud 9 Cakes",
+      "distance": "0.6 mi",
+      "url": "https://www.google.com/maps/search/Cloud%209%20Cakes+near+61.1324374%2C-149.8309734"
+    },
+    {
+      "name": "Little Italy",
+      "distance": "0.6 mi",
+      "url": "https://www.google.com/maps/search/Little%20Italy+near+61.1324374%2C-149.8309734"
+    },
+    {
+      "name": "O'Malley's On the Green",
+      "distance": "0.6 mi",
+      "url": "https://www.google.com/maps/search/O'Malley's%20On%20the%20Green+near+61.1324374%2C-149.8309734"
+    }
+  ],
+  "bowling": [
+    {
+      "name": "Bowling at Destination Dimond",
+      "distance": "1.4 mi",
+      "url": "https://www.google.com/maps/search/Bowling%20at%20Destination%20Dimond+near+61.1324374%2C-149.8309734"
+    },
+    {
+      "name": "Jewel Lake Bowling Center",
+      "distance": "4.0 mi",
+      "url": "https://www.google.com/maps/search/Jewel%20Lake%20Bowling%20Center+near+61.1324374%2C-149.8309734",
+      "isFar": true
+    },
+    {
+      "name": "Center Bowl",
+      "distance": "4.6 mi",
+      "url": "https://www.google.com/maps/search/Center%20Bowl+near+61.1324374%2C-149.8309734",
+      "isFar": true
+    }
+  ],
+  "arcade": [],
+  "movies": [
+    {
+      "name": "Regal Dimond Center",
+      "distance": "1.4 mi",
+      "url": "https://www.google.com/maps/search/Regal%20Dimond%20Center+near+61.1324374%2C-149.8309734"
+    }
+  ],
+  "fun": [
+    {
+      "name": "Аквапарк h2oasiswaterpark",
+      "distance": "1.0 mi",
+      "url": "https://www.google.com/maps/search/%D0%90%D0%BA%D0%B2%D0%B0%D0%BF%D0%B0%D1%80%D0%BA%20h2oasiswaterpark+near+61.1324374%2C-149.8309734"
+    },
+    {
+      "name": "H2Oasis Indoor Waterpark",
+      "distance": "1.1 mi",
+      "url": "https://www.google.com/maps/search/H2Oasis%20Indoor%20Waterpark+near+61.1324374%2C-149.8309734"
+    },
+    {
+      "name": "Fly Trampoline Park South Anchorage",
+      "distance": "1.2 mi",
+      "url": "https://www.google.com/maps/search/Fly%20Trampoline%20Park%20South%20Anchorage+near+61.1324374%2C-149.8309734"
+    },
+    {
+      "name": "ESCAPE! Alaska",
+      "distance": "4.1 mi",
+      "url": "https://www.google.com/maps/search/ESCAPE!%20Alaska+near+61.1324374%2C-149.8309734",
+      "isFar": true
+    }
+  ],
+  "hotels": [
+    {
+      "name": "Charming Alaskan Retreat at Reliance Drive",
+      "distance": "0.3 mi",
+      "url": "https://www.google.com/maps/search/Charming%20Alaskan%20Retreat%20at%20Reliance%20Drive+near+61.1324374%2C-149.8309734"
+    },
+    {
+      "name": "Modern Anchorage Townhome: 8 Mi to Downtown!",
+      "distance": "0.5 mi",
+      "url": "https://www.google.com/maps/search/Modern%20Anchorage%20Townhome%3A%208%20Mi%20to%20Downtown!+near+61.1324374%2C-149.8309734"
+    },
+    {
+      "name": "Chugach Mountain View Fox Den Suite",
+      "distance": "0.6 mi",
+      "url": "https://www.google.com/maps/search/Chugach%20Mountain%20View%20Fox%20Den%20Suite+near+61.1324374%2C-149.8309734"
+    },
+    {
+      "name": "Chuck's Base Camp - Your Luxurious Alaskan Getaway",
+      "distance": "0.6 mi",
+      "url": "https://www.google.com/maps/search/Chuck's%20Base%20Camp%20-%20Your%20Luxurious%20Alaskan%20Getaway+near+61.1324374%2C-149.8309734"
+    },
+    {
+      "name": "Quiet, private, 1 bedroom, studio in great part of town. Old recording studio!",
+      "distance": "0.7 mi",
+      "url": "https://www.google.com/maps/search/Quiet%2C%20private%2C%201%20bedroom%2C%20studio%20in%20great%20part%20of%20town.%20Old%20recording%20studio!+near+61.1324374%2C-149.8309734"
+    },
+    {
+      "name": "South Anchorage All-inclusive Junior Suite",
+      "distance": "0.7 mi",
+      "url": "https://www.google.com/maps/search/South%20Anchorage%20All-inclusive%20Junior%20Suite+near+61.1324374%2C-149.8309734"
+    },
+    {
+      "name": "Chugach Mountains View South Anch Premium Suite",
+      "distance": "0.7 mi",
+      "url": "https://www.google.com/maps/search/Chugach%20Mountains%20View%20South%20Anch%20Premium%20Suite+near+61.1324374%2C-149.8309734"
+    }
+  ],
+  "gas": [
+    {
+      "name": "Fred Meyer Fuel Center",
+      "distance": "0.4 mi",
+      "url": "https://www.google.com/maps/search/Fred%20Meyer%20Fuel%20Center+near+61.1324374%2C-149.8309734"
+    },
+    {
+      "name": "freddies gas station",
+      "distance": "0.4 mi",
+      "url": "https://www.google.com/maps/search/freddies%20gas%20station+near+61.1324374%2C-149.8309734"
+    },
+    {
+      "name": "Chevron Denali Express",
+      "distance": "0.4 mi",
+      "url": "https://www.google.com/maps/search/Chevron%20Denali%20Express+near+61.1324374%2C-149.8309734"
+    },
+    {
+      "name": "Speedway Express",
+      "distance": "0.7 mi",
+      "url": "https://www.google.com/maps/search/Speedway%20Express+near+61.1324374%2C-149.8309734"
+    },
+    {
+      "name": "Carrs Fuel Station",
+      "distance": "0.9 mi",
+      "url": "https://www.google.com/maps/search/Carrs%20Fuel%20Station+near+61.1324374%2C-149.8309734"
+    }
+  ]
+}

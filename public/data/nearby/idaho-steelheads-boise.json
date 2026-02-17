@@ -1,0 +1,252 @@
+{
+  "quick_bite": [
+    {
+      "name": "Buffalo Wild Wings",
+      "distance": "0.1 mi",
+      "url": "https://www.google.com/maps/search/Buffalo%20Wild%20Wings+near+43.614365899999996%2C-116.20417060000001"
+    },
+    {
+      "name": "Five Guys",
+      "distance": "0.1 mi",
+      "url": "https://www.google.com/maps/search/Five%20Guys+near+43.614365899999996%2C-116.20417060000001"
+    },
+    {
+      "name": "Costa Vida Fresh Mexican Grill",
+      "distance": "0.1 mi",
+      "url": "https://www.google.com/maps/search/Costa%20Vida%20Fresh%20Mexican%20Grill+near+43.614365899999996%2C-116.20417060000001"
+    },
+    {
+      "name": "Chuck E. Cheese",
+      "distance": "2.8 mi",
+      "url": "https://www.google.com/maps/search/Chuck%20E.%20Cheese+near+43.614365899999996%2C-116.20417060000001"
+    }
+  ],
+  "coffee": [
+    {
+      "name": "Caffé D'arte - Boise Café (BODO)",
+      "distance": "0.1 mi",
+      "url": "https://www.google.com/maps/search/Caff%C3%A9%20D'arte%20-%20Boise%20Caf%C3%A9%20(BODO)+near+43.614365899999996%2C-116.20417060000001"
+    },
+    {
+      "name": "Dutch Bros Coffee",
+      "distance": "0.1 mi",
+      "url": "https://www.google.com/maps/search/Dutch%20Bros%20Coffee+near+43.614365899999996%2C-116.20417060000001"
+    },
+    {
+      "name": "Emerald Lanes",
+      "distance": "1.9 mi",
+      "url": "https://www.google.com/maps/search/Emerald%20Lanes+near+43.614365899999996%2C-116.20417060000001"
+    }
+  ],
+  "team_lunch": [
+    {
+      "name": "KB's Burritos - Warehouse Food Hall",
+      "distance": "0.1 mi",
+      "url": "https://www.google.com/maps/search/KB's%20Burritos%20-%20Warehouse%20Food%20Hall+near+43.614365899999996%2C-116.20417060000001"
+    },
+    {
+      "name": "Neighbor Tim’s BBQ & Catering",
+      "distance": "0.1 mi",
+      "url": "https://www.google.com/maps/search/Neighbor%20Tim%E2%80%99s%20BBQ%20%26%20Catering+near+43.614365899999996%2C-116.20417060000001"
+    },
+    {
+      "name": "Totally Smashed",
+      "distance": "0.1 mi",
+      "url": "https://www.google.com/maps/search/Totally%20Smashed+near+43.614365899999996%2C-116.20417060000001"
+    },
+    {
+      "name": "Rush Bowls",
+      "distance": "0.1 mi",
+      "url": "https://www.google.com/maps/search/Rush%20Bowls+near+43.614365899999996%2C-116.20417060000001"
+    },
+    {
+      "name": "Top Dog Grill",
+      "distance": "0.1 mi",
+      "url": "https://www.google.com/maps/search/Top%20Dog%20Grill+near+43.614365899999996%2C-116.20417060000001"
+    }
+  ],
+  "dinner": [
+    {
+      "name": "Trillium Kitchen + Cocktails",
+      "distance": "0.1 mi",
+      "url": "https://www.google.com/maps/search/Trillium%20Kitchen%20%2B%20Cocktails+near+43.614365899999996%2C-116.20417060000001"
+    },
+    {
+      "name": "Poppy Seed Bakery + Cafe",
+      "distance": "0.1 mi",
+      "url": "https://www.google.com/maps/search/Poppy%20Seed%20Bakery%20%2B%20Cafe+near+43.614365899999996%2C-116.20417060000001"
+    },
+    {
+      "name": "Just Chicken",
+      "distance": "0.1 mi",
+      "url": "https://www.google.com/maps/search/Just%20Chicken+near+43.614365899999996%2C-116.20417060000001"
+    },
+    {
+      "name": "Foy’s Franks",
+      "distance": "0.1 mi",
+      "url": "https://www.google.com/maps/search/Foy%E2%80%99s%20Franks+near+43.614365899999996%2C-116.20417060000001"
+    },
+    {
+      "name": "Driftwood Fry House",
+      "distance": "0.1 mi",
+      "url": "https://www.google.com/maps/search/Driftwood%20Fry%20House+near+43.614365899999996%2C-116.20417060000001"
+    },
+    {
+      "name": "Basquenese",
+      "distance": "0.1 mi",
+      "url": "https://www.google.com/maps/search/Basquenese+near+43.614365899999996%2C-116.20417060000001"
+    },
+    {
+      "name": "Anzalone Pizza",
+      "distance": "0.1 mi",
+      "url": "https://www.google.com/maps/search/Anzalone%20Pizza+near+43.614365899999996%2C-116.20417060000001"
+    }
+  ],
+  "bowling": [
+    {
+      "name": "Boise State University Games Center",
+      "distance": "0.9 mi",
+      "url": "https://www.google.com/maps/search/Boise%20State%20University%20Games%20Center+near+43.614365899999996%2C-116.20417060000001"
+    },
+    {
+      "name": "Westy's Garden Lanes",
+      "distance": "4.2 mi",
+      "url": "https://www.google.com/maps/search/Westy's%20Garden%20Lanes+near+43.614365899999996%2C-116.20417060000001",
+      "isFar": true
+    }
+  ],
+  "arcade": [],
+  "movies": [
+    {
+      "name": "CinemaWest BoDo Cinema & Giant Screen with Laser",
+      "distance": "0.1 mi",
+      "url": "https://www.google.com/maps/search/CinemaWest%20BoDo%20Cinema%20%26%20Giant%20Screen%20with%20Laser+near+43.614365899999996%2C-116.20417060000001"
+    },
+    {
+      "name": "The Flicks: Rick's Cafe Americain",
+      "distance": "0.2 mi",
+      "url": "https://www.google.com/maps/search/The%20Flicks%3A%20Rick's%20Cafe%20Americain+near+43.614365899999996%2C-116.20417060000001"
+    },
+    {
+      "name": "Overland Park Cinemas",
+      "distance": "3.7 mi",
+      "url": "https://www.google.com/maps/search/Overland%20Park%20Cinemas+near+43.614365899999996%2C-116.20417060000001",
+      "isFar": true
+    },
+    {
+      "name": "IMAX At Regal Edwards Boise",
+      "distance": "4.1 mi",
+      "url": "https://www.google.com/maps/search/IMAX%20At%20Regal%20Edwards%20Boise+near+43.614365899999996%2C-116.20417060000001",
+      "isFar": true
+    },
+    {
+      "name": "Regal Edwards Boise",
+      "distance": "4.1 mi",
+      "url": "https://www.google.com/maps/search/Regal%20Edwards%20Boise+near+43.614365899999996%2C-116.20417060000001",
+      "isFar": true
+    }
+  ],
+  "fun": [
+    {
+      "name": "Labyrinth Escape Games Boise",
+      "distance": "0.2 mi",
+      "url": "https://www.google.com/maps/search/Labyrinth%20Escape%20Games%20Boise+near+43.614365899999996%2C-116.20417060000001"
+    },
+    {
+      "name": "Clockwise Escape Room Boise",
+      "distance": "0.2 mi",
+      "url": "https://www.google.com/maps/search/Clockwise%20Escape%20Room%20Boise+near+43.614365899999996%2C-116.20417060000001"
+    },
+    {
+      "name": "Boise River Park",
+      "distance": "1.7 mi",
+      "url": "https://www.google.com/maps/search/Boise%20River%20Park+near+43.614365899999996%2C-116.20417060000001"
+    },
+    {
+      "name": "Escape This Boise - Premier Escape Room",
+      "distance": "2.2 mi",
+      "url": "https://www.google.com/maps/search/Escape%20This%20Boise%20-%20Premier%20Escape%20Room+near+43.614365899999996%2C-116.20417060000001"
+    },
+    {
+      "name": "Nerfed",
+      "distance": "2.6 mi",
+      "url": "https://www.google.com/maps/search/Nerfed+near+43.614365899999996%2C-116.20417060000001"
+    },
+    {
+      "name": "Fly! Boise",
+      "distance": "3.4 mi",
+      "url": "https://www.google.com/maps/search/Fly!%20Boise+near+43.614365899999996%2C-116.20417060000001",
+      "isFar": true
+    },
+    {
+      "name": "Fly High Boise Trampoline Park",
+      "distance": "3.6 mi",
+      "url": "https://www.google.com/maps/search/Fly%20High%20Boise%20Trampoline%20Park+near+43.614365899999996%2C-116.20417060000001",
+      "isFar": true
+    }
+  ],
+  "hotels": [
+    {
+      "name": "The Grove Hotel",
+      "distance": "0.1 mi",
+      "url": "https://www.google.com/maps/search/The%20Grove%20Hotel+near+43.614365899999996%2C-116.20417060000001"
+    },
+    {
+      "name": "1BR Extended Stay Housing - Fully Furnished + Modern + Amazing Location!",
+      "distance": "0.1 mi",
+      "url": "https://www.google.com/maps/search/1BR%20Extended%20Stay%20Housing%20-%20Fully%20Furnished%20%2B%20Modern%20%2B%20Amazing%20Location!+near+43.614365899999996%2C-116.20417060000001"
+    },
+    {
+      "name": "Upscale High Tower Living-Downtown Boise",
+      "distance": "0.1 mi",
+      "url": "https://www.google.com/maps/search/Upscale%20High%20Tower%20Living-Downtown%20Boise+near+43.614365899999996%2C-116.20417060000001"
+    },
+    {
+      "name": "WENDO Home",
+      "distance": "0.1 mi",
+      "url": "https://www.google.com/maps/search/WENDO%20Home+near+43.614365899999996%2C-116.20417060000001"
+    },
+    {
+      "name": "The Vanguard - One-Bedroom Apartment",
+      "distance": "0.1 mi",
+      "url": "https://www.google.com/maps/search/The%20Vanguard%20-%20One-Bedroom%20Apartment+near+43.614365899999996%2C-116.20417060000001"
+    },
+    {
+      "name": "Hampton Inn & Suites Boise-Downtown",
+      "distance": "0.1 mi",
+      "url": "https://www.google.com/maps/search/Hampton%20Inn%20%26%20Suites%20Boise-Downtown+near+43.614365899999996%2C-116.20417060000001"
+    },
+    {
+      "name": "Home2 Suites by Hilton Boise Downtown",
+      "distance": "0.1 mi",
+      "url": "https://www.google.com/maps/search/Home2%20Suites%20by%20Hilton%20Boise%20Downtown+near+43.614365899999996%2C-116.20417060000001"
+    }
+  ],
+  "gas": [
+    {
+      "name": "Shell",
+      "distance": "0.2 mi",
+      "url": "https://www.google.com/maps/search/Shell+near+43.614365899999996%2C-116.20417060000001"
+    },
+    {
+      "name": "Chevron",
+      "distance": "0.6 mi",
+      "url": "https://www.google.com/maps/search/Chevron+near+43.614365899999996%2C-116.20417060000001"
+    },
+    {
+      "name": "Shell",
+      "distance": "0.6 mi",
+      "url": "https://www.google.com/maps/search/Shell+near+43.614365899999996%2C-116.20417060000001"
+    },
+    {
+      "name": "Chevron Boise",
+      "distance": "0.6 mi",
+      "url": "https://www.google.com/maps/search/Chevron%20Boise+near+43.614365899999996%2C-116.20417060000001"
+    },
+    {
+      "name": "Sinclair Gas Station",
+      "distance": "0.9 mi",
+      "url": "https://www.google.com/maps/search/Sinclair%20Gas%20Station+near+43.614365899999996%2C-116.20417060000001"
+    }
+  ]
+}

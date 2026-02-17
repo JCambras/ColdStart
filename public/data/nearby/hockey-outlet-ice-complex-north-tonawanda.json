@@ -1,0 +1,176 @@
+{
+  "quick_bite": [
+    {
+      "name": "Good Guys Pizza",
+      "distance": "1.0 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Good%20Guys%20Pizza&query_place_id=ChIJKxFtMbdv04kR_gwuCyoMRrM&center=43.0637198,-78.8661523"
+    },
+    {
+      "name": "KFC",
+      "distance": "1.5 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=KFC&query_place_id=ChIJzykajKtv04kRPZuc51M9pdY&center=43.0600288,-78.8407663"
+    },
+    {
+      "name": "Taco Bell",
+      "distance": "1.5 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Taco%20Bell&query_place_id=ChIJ7WCMff5v04kRmaX47Jvi4Rs&center=43.0599324,-78.8404539"
+    },
+    {
+      "name": "Subway",
+      "distance": "1.6 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Subway&query_place_id=ChIJR1yNCuVi5okRlD-2_DFnqWM&center=43.0565611,-78.8437112"
+    },
+    {
+      "name": "Country Cottage",
+      "distance": "1.9 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Country%20Cottage&query_place_id=ChIJVfEP7g5w04kRML_a1y3ipGE&center=43.0832172,-78.8229193"
+    }
+  ],
+  "coffee": [
+    {
+      "name": "Tim Hortons",
+      "distance": "1.7 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Tim%20Hortons&query_place_id=ChIJbeavkylw04kR8RRSb8vMvj0&center=43.0583387,-78.83664420000001"
+    },
+    {
+      "name": "Tim Hortons",
+      "distance": "1.9 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Tim%20Hortons&query_place_id=ChIJBeSd5FNu04kR-3nBthwfR7E&center=43.0520147,-78.87441559999999"
+    }
+  ],
+  "team_lunch": [
+    {
+      "name": "The Wurlitzer Pizza Co., Inc.",
+      "distance": "1.1 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=The%20Wurlitzer%20Pizza%20Co.%2C%20Inc.&query_place_id=ChIJ61NyGNdv04kRFqTIaEpx4DM&center=43.0610978,-78.8653693"
+    },
+    {
+      "name": "Let It Be Sweet Bakery",
+      "distance": "1.3 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Let%20It%20Be%20Sweet%20Bakery&query_place_id=ChIJr-Ilg1zsgIQRiBQEtgo4aoo&center=43.064581499999996,-78.8406873"
+    },
+    {
+      "name": "Nickel City Kneads",
+      "distance": "2.7 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Nickel%20City%20Kneads&query_place_id=ChIJwTkDBN5v04kRgYguFljd19o&center=43.039195899999996,-78.871327"
+    },
+    {
+      "name": "Vinnie’s Minis (North Tonawanda Farmer’s Market)",
+      "distance": "3.0 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Vinnie%E2%80%99s%20Minis%20(North%20Tonawanda%20Farmer%E2%80%99s%20Market)&query_place_id=ChIJhyPoCQBv04kRMD8_9umfsrM&center=43.033854999999996,-78.8701481",
+      "isFar": true
+    }
+  ],
+  "dinner": [
+    {
+      "name": "Olympia Restaurant",
+      "distance": "0.2 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Olympia%20Restaurant&query_place_id=ChIJXXVJbZVv04kRisJu2VwmERw&center=43.0754403,-78.86308369999999"
+    },
+    {
+      "name": "Club House Bro's Restaurant",
+      "distance": "0.3 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Club%20House%20Bro's%20Restaurant&query_place_id=ChIJX6KDtcFv04kRvLDZmhXI8MM&center=43.0730924,-78.8587278"
+    },
+    {
+      "name": "Sawyer Creek Hotel",
+      "distance": "0.3 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Sawyer%20Creek%20Hotel&query_place_id=ChIJ-zePNJRv04kROUEN80iiTcA&center=43.077275199999995,-78.86562119999999"
+    },
+    {
+      "name": "Dan Dan The Hot Dog Man Doggie Drive In",
+      "distance": "0.6 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Dan%20Dan%20The%20Hot%20Dog%20Man%20Doggie%20Drive%20In&query_place_id=ChIJ_ynsCsNv04kRg9Z89utFssQ&center=43.0700606,-78.8523287"
+    },
+    {
+      "name": "Cakes By Katya",
+      "distance": "0.7 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Cakes%20By%20Katya&query_place_id=ChIJr7B_RbwN04kRf5o8K2mw28Y&center=43.0699395,-78.85006980000001"
+    },
+    {
+      "name": "The Original Pizza Shack",
+      "distance": "0.8 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=The%20Original%20Pizza%20Shack&query_place_id=ChIJmfITodxv04kRn6zTULh7SgA&center=43.068934999999996,-78.84736699999999"
+    }
+  ],
+  "bowling": [
+    {
+      "name": "Cherry Laurel Lanes",
+      "distance": "2.8 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Cherry%20Laurel%20Lanes&query_place_id=ChIJWVL0EP5x04kRYM0JmYJZ5BE&center=43.0467302,-78.8229277"
+    },
+    {
+      "name": "Tonawanda Bowling Center",
+      "distance": "4.8 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Tonawanda%20Bowling%20Center&query_place_id=ChIJA11D0MJt04kRQro_cvPfdXo&center=43.0072222,-78.8627778",
+      "isFar": true
+    },
+    {
+      "name": "Rapids Bowling Center",
+      "distance": "4.9 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Rapids%20Bowling%20Center&query_place_id=ChIJTQX3lJho04kRos7-caE74wM&center=43.0963767,-78.9526884",
+      "isFar": true
+    }
+  ],
+  "arcade": [],
+  "movies": [],
+  "fun": [
+    {
+      "name": "Payne Park",
+      "distance": "2.4 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Payne%20Park&query_place_id=ChIJbaDpOlpu04kRM1zQ-HSiA58&center=43.0454248,-78.8771871"
+    },
+    {
+      "name": "Escape Room Buffalo",
+      "distance": "3.3 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Escape%20Room%20Buffalo&query_place_id=ChIJn-2PsZpy04kRumpnRBJL_RY&center=43.030395299999995,-78.8761464",
+      "isFar": true
+    },
+    {
+      "name": "Canal Street Pavilion",
+      "distance": "4.0 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Canal%20Street%20Pavilion&query_place_id=ChIJd5sg_c9v04kRrGyspnazL9I&center=43.0205498,-78.8768291",
+      "isFar": true
+    },
+    {
+      "name": "7 Gates Escape Rooms",
+      "distance": "4.1 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=7%20Gates%20Escape%20Rooms&query_place_id=ChIJZ8-upKNp04kRDzmFXmC3_Bs&center=43.0901224,-78.93784420000001",
+      "isFar": true
+    }
+  ],
+  "hotels": [
+    {
+      "name": "AA Royal Motel & Campground",
+      "distance": "0.1 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=AA%20Royal%20Motel%20%26%20Campground&query_place_id=ChIJXy0RUZVv04kRAFKGpEtt_L4&center=43.0755407,-78.8611367"
+    },
+    {
+      "name": "Hayat Motel at Serenity Hideaway",
+      "distance": "0.9 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Hayat%20Motel%20at%20Serenity%20Hideaway&query_place_id=ChIJCRb5Rdtv04kRlNEHLGuihDQ&center=43.067679999999996,-78.847095"
+    }
+  ],
+  "gas": [
+    {
+      "name": "Red Apple",
+      "distance": "0.9 mi",
+      "url": "https://www.google.com/maps/search/Red%20Apple+near+43.0769551%2C-78.8593884"
+    },
+    {
+      "name": "Kwik Fill",
+      "distance": "0.9 mi",
+      "url": "https://www.google.com/maps/search/Kwik%20Fill+near+43.0769551%2C-78.8593884"
+    },
+    {
+      "name": "Marathon Gas Station",
+      "distance": "1.1 mi",
+      "url": "https://www.google.com/maps/search/Marathon%20Gas%20Station+near+43.0769551%2C-78.8593884"
+    },
+    {
+      "name": "Snk Fuels",
+      "distance": "1.6 mi",
+      "url": "https://www.google.com/maps/search/Snk%20Fuels+near+43.0769551%2C-78.8593884"
+    }
+  ]
+}

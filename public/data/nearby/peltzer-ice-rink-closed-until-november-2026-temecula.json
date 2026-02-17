@@ -1,0 +1,202 @@
+{
+  "quick_bite": [
+    {
+      "name": "Subway",
+      "distance": "2.1 mi",
+      "url": "https://www.google.com/maps/search/Subway+near+33.532075999999996%2C-117.072695"
+    }
+  ],
+  "coffee": [
+    {
+      "name": "Poolside Bar & Café at Ponte Vineyard Inn",
+      "distance": "1.2 mi",
+      "url": "https://www.google.com/maps/search/Poolside%20Bar%20%26%20Caf%C3%A9%20at%20Ponte%20Vineyard%20Inn+near+33.532075999999996%2C-117.072695"
+    },
+    {
+      "name": "Bistro at Monte De Oro Winery",
+      "distance": "1.8 mi",
+      "url": "https://www.google.com/maps/search/Bistro%20at%20Monte%20De%20Oro%20Winery+near+33.532075999999996%2C-117.072695"
+    }
+  ],
+  "team_lunch": [
+    {
+      "name": "The Pinnacle Restaurant at Falkner Winery",
+      "distance": "0.4 mi",
+      "url": "https://www.google.com/maps/search/The%20Pinnacle%20Restaurant%20at%20Falkner%20Winery+near+33.532075999999996%2C-117.072695"
+    },
+    {
+      "name": "Tap's Taco Catering",
+      "distance": "0.4 mi",
+      "url": "https://www.google.com/maps/search/Tap's%20Taco%20Catering+near+33.532075999999996%2C-117.072695"
+    },
+    {
+      "name": "The Dineamic Duo",
+      "distance": "0.5 mi",
+      "url": "https://www.google.com/maps/search/The%20Dineamic%20Duo+near+33.532075999999996%2C-117.072695"
+    },
+    {
+      "name": "Meritage At Callaway",
+      "distance": "1.1 mi",
+      "url": "https://www.google.com/maps/search/Meritage%20At%20Callaway+near+33.532075999999996%2C-117.072695"
+    },
+    {
+      "name": "K F C",
+      "distance": "1.3 mi",
+      "url": "https://www.google.com/maps/search/K%20F%20C+near+33.532075999999996%2C-117.072695"
+    },
+    {
+      "name": "Courtyard Bar & Grill",
+      "distance": "1.9 mi",
+      "url": "https://www.google.com/maps/search/Courtyard%20Bar%20%26%20Grill+near+33.532075999999996%2C-117.072695"
+    },
+    {
+      "name": "Jazsea Cuisine",
+      "distance": "2.1 mi",
+      "url": "https://www.google.com/maps/search/Jazsea%20Cuisine+near+33.532075999999996%2C-117.072695"
+    }
+  ],
+  "dinner": [
+    {
+      "name": "Bocconcini",
+      "distance": "0.4 mi",
+      "url": "https://www.google.com/maps/search/Bocconcini+near+33.532075999999996%2C-117.072695"
+    },
+    {
+      "name": "Domenico's - Italian Chophouse @ Truffle Pig Winery",
+      "distance": "0.8 mi",
+      "url": "https://www.google.com/maps/search/Domenico's%20-%20Italian%20Chophouse%20%40%20Truffle%20Pig%20Winery+near+33.532075999999996%2C-117.072695"
+    },
+    {
+      "name": "Bolero Restaurante at Europa Village",
+      "distance": "1.0 mi",
+      "url": "https://www.google.com/maps/search/Bolero%20Restaurante%20at%20Europa%20Village+near+33.532075999999996%2C-117.072695"
+    },
+    {
+      "name": "The Vineyard Rose Restaurant",
+      "distance": "1.1 mi",
+      "url": "https://www.google.com/maps/search/The%20Vineyard%20Rose%20Restaurant+near+33.532075999999996%2C-117.072695"
+    },
+    {
+      "name": "Bouquet Restaurant",
+      "distance": "1.3 mi",
+      "url": "https://www.google.com/maps/search/Bouquet%20Restaurant+near+33.532075999999996%2C-117.072695"
+    },
+    {
+      "name": "Cafe Champagne",
+      "distance": "1.3 mi",
+      "url": "https://www.google.com/maps/search/Cafe%20Champagne+near+33.532075999999996%2C-117.072695"
+    },
+    {
+      "name": "The Restaurant at Ponte",
+      "distance": "1.3 mi",
+      "url": "https://www.google.com/maps/search/The%20Restaurant%20at%20Ponte+near+33.532075999999996%2C-117.072695"
+    }
+  ],
+  "bowling": [
+    {
+      "name": "Round1 Bowling & Arcade Promenade Temecula",
+      "distance": "4.6 mi",
+      "url": "https://www.google.com/maps/search/Round1%20Bowling%20%26%20Arcade%20Promenade%20Temecula+near+33.532075999999996%2C-117.072695",
+      "isFar": true
+    }
+  ],
+  "arcade": [],
+  "movies": [
+    {
+      "name": "Regal Edwards Temecula",
+      "distance": "4.6 mi",
+      "url": "https://www.google.com/maps/search/Regal%20Edwards%20Temecula+near+33.532075999999996%2C-117.072695",
+      "isFar": true
+    },
+    {
+      "name": "AMC Temecula 10",
+      "distance": "4.9 mi",
+      "url": "https://www.google.com/maps/search/AMC%20Temecula%2010+near+33.532075999999996%2C-117.072695",
+      "isFar": true
+    }
+  ],
+  "fun": [
+    {
+      "name": "CRC Slide",
+      "distance": "3.9 mi",
+      "url": "https://www.google.com/maps/search/CRC%20Slide+near+33.532075999999996%2C-117.072695",
+      "isFar": true
+    },
+    {
+      "name": "Red Door Escape Room",
+      "distance": "4.7 mi",
+      "url": "https://www.google.com/maps/search/Red%20Door%20Escape%20Room+near+33.532075999999996%2C-117.072695",
+      "isFar": true
+    },
+    {
+      "name": "MindTrap Escape Room",
+      "distance": "4.7 mi",
+      "url": "https://www.google.com/maps/search/MindTrap%20Escape%20Room+near+33.532075999999996%2C-117.072695",
+      "isFar": true
+    }
+  ],
+  "hotels": [
+    {
+      "name": "Wedding venue",
+      "distance": "0.2 mi",
+      "url": "https://www.google.com/maps/search/Wedding%20venue+near+33.532075999999996%2C-117.072695"
+    },
+    {
+      "name": "Temecula Winery Estate Villa at Longshadow Ranch Winery Permit 0204",
+      "distance": "0.2 mi",
+      "url": "https://www.google.com/maps/search/Temecula%20Winery%20Estate%20Villa%20at%20Longshadow%20Ranch%20Winery%20Permit%200204+near+33.532075999999996%2C-117.072695"
+    },
+    {
+      "name": "Luxury Wine Country Retreat 4BR 4.5BA on Vineyard. Private Pool & Views",
+      "distance": "0.2 mi",
+      "url": "https://www.google.com/maps/search/Luxury%20Wine%20Country%20Retreat%204BR%204.5BA%20on%20Vineyard.%20Private%20Pool%20%26%20Views+near+33.532075999999996%2C-117.072695"
+    },
+    {
+      "name": "Unbeatable Location! Steps Away from Wineries! Modern-Country Serene Home",
+      "distance": "0.5 mi",
+      "url": "https://www.google.com/maps/search/Unbeatable%20Location!%20Steps%20Away%20from%20Wineries!%20Modern-Country%20Serene%20Home+near+33.532075999999996%2C-117.072695"
+    },
+    {
+      "name": "Villa Cabernet -8 BR Luxury Wine Country Estate",
+      "distance": "0.5 mi",
+      "url": "https://www.google.com/maps/search/Villa%20Cabernet%20-8%20BR%20Luxury%20Wine%20Country%20Estate+near+33.532075999999996%2C-117.072695"
+    },
+    {
+      "name": "Cottage House, Pygmy Goats, Center of Temecula Wine Country at Rusty Fork Ranch",
+      "distance": "0.6 mi",
+      "url": "https://www.google.com/maps/search/Cottage%20House%2C%20Pygmy%20Goats%2C%20Center%20of%20Temecula%20Wine%20Country%20at%20Rusty%20Fork%20Ranch+near+33.532075999999996%2C-117.072695"
+    },
+    {
+      "name": "Cottage House, Pygmy Goats, Center of Temecula Wine Country at Rusty Fork Ranch",
+      "distance": "0.6 mi",
+      "url": "https://www.google.com/maps/search/Cottage%20House%2C%20Pygmy%20Goats%2C%20Center%20of%20Temecula%20Wine%20Country%20at%20Rusty%20Fork%20Ranch+near+33.532075999999996%2C-117.072695"
+    }
+  ],
+  "gas": [
+    {
+      "name": "Circle K | Gas Station",
+      "distance": "3.2 mi",
+      "url": "https://www.google.com/maps/search/Circle%20K%20%7C%20Gas%20Station+near+33.532075999999996%2C-117.072695"
+    },
+    {
+      "name": "Mobil",
+      "distance": "3.2 mi",
+      "url": "https://www.google.com/maps/search/Mobil+near+33.532075999999996%2C-117.072695"
+    },
+    {
+      "name": "Ralphs Fuel Center",
+      "distance": "3.3 mi",
+      "url": "https://www.google.com/maps/search/Ralphs%20Fuel%20Center+near+33.532075999999996%2C-117.072695"
+    },
+    {
+      "name": "Ralph's Gas",
+      "distance": "3.3 mi",
+      "url": "https://www.google.com/maps/search/Ralph's%20Gas+near+33.532075999999996%2C-117.072695"
+    },
+    {
+      "name": "Shell",
+      "distance": "3.4 mi",
+      "url": "https://www.google.com/maps/search/Shell+near+33.532075999999996%2C-117.072695"
+    }
+  ]
+}

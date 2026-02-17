@@ -1,0 +1,179 @@
+{
+  "quick_bite": [
+    {
+      "name": "Wendy's",
+      "distance": "0.2 mi",
+      "url": "https://www.google.com/maps/search/Wendy's+near+37.265130400000004%2C-80.017928"
+    },
+    {
+      "name": "Roanoke Weiner Stand No. 2",
+      "distance": "0.6 mi",
+      "url": "https://www.google.com/maps/search/Roanoke%20Weiner%20Stand%20No.%202+near+37.265130400000004%2C-80.017928"
+    },
+    {
+      "name": "Subway",
+      "distance": "0.8 mi",
+      "url": "https://www.google.com/maps/search/Subway+near+37.265130400000004%2C-80.017928"
+    },
+    {
+      "name": "Hunt Brothers Pizza",
+      "distance": "0.9 mi",
+      "url": "https://www.google.com/maps/search/Hunt%20Brothers%20Pizza+near+37.265130400000004%2C-80.017928"
+    },
+    {
+      "name": "Dairy Queen Grill & Chill",
+      "distance": "0.9 mi",
+      "url": "https://www.google.com/maps/search/Dairy%20Queen%20Grill%20%26%20Chill+near+37.265130400000004%2C-80.017928"
+    },
+    {
+      "name": "Long John Silver's",
+      "distance": "1.1 mi",
+      "url": "https://www.google.com/maps/search/Long%20John%20Silver's+near+37.265130400000004%2C-80.017928"
+    }
+  ],
+  "coffee": [
+    {
+      "name": "Donnie D’s Bagels & Deli",
+      "distance": "0.9 mi",
+      "url": "https://www.google.com/maps/search/Donnie%20D%E2%80%99s%20Bagels%20%26%20Deli+near+37.265130400000004%2C-80.017928"
+    },
+    {
+      "name": "Apperson Cafe",
+      "distance": "1.1 mi",
+      "url": "https://www.google.com/maps/search/Apperson%20Cafe+near+37.265130400000004%2C-80.017928"
+    }
+  ],
+  "team_lunch": [
+    {
+      "name": "Kroger Bakery",
+      "distance": "0.9 mi",
+      "url": "https://www.google.com/maps/search/Kroger%20Bakery+near+37.265130400000004%2C-80.017928"
+    }
+  ],
+  "dinner": [
+    {
+      "name": "Sakura",
+      "distance": "0.1 mi",
+      "url": "https://www.google.com/maps/search/Sakura+near+37.265130400000004%2C-80.017928"
+    },
+    {
+      "name": "Sub Shack",
+      "distance": "0.2 mi",
+      "url": "https://www.google.com/maps/search/Sub%20Shack+near+37.265130400000004%2C-80.017928"
+    },
+    {
+      "name": "Hunt Brothers Pizza",
+      "distance": "0.4 mi",
+      "url": "https://www.google.com/maps/search/Hunt%20Brothers%20Pizza+near+37.265130400000004%2C-80.017928"
+    },
+    {
+      "name": "Los Arcos",
+      "distance": "0.5 mi",
+      "url": "https://www.google.com/maps/search/Los%20Arcos+near+37.265130400000004%2C-80.017928"
+    },
+    {
+      "name": "Pancake House",
+      "distance": "0.7 mi",
+      "url": "https://www.google.com/maps/search/Pancake%20House+near+37.265130400000004%2C-80.017928"
+    },
+    {
+      "name": "Mama Jean’s BBQ",
+      "distance": "0.8 mi",
+      "url": "https://www.google.com/maps/search/Mama%20Jean%E2%80%99s%20BBQ+near+37.265130400000004%2C-80.017928"
+    }
+  ],
+  "bowling": [
+    {
+      "name": "Lee-Hi Lanes",
+      "distance": "0.7 mi",
+      "url": "https://www.google.com/maps/search/Lee-Hi%20Lanes+near+37.265130400000004%2C-80.017928"
+    }
+  ],
+  "arcade": [],
+  "movies": [
+    {
+      "name": "AMC CLASSIC Salem Valley 8",
+      "distance": "0.9 mi",
+      "url": "https://www.google.com/maps/search/AMC%20CLASSIC%20Salem%20Valley%208+near+37.265130400000004%2C-80.017928"
+    },
+    {
+      "name": "The Grandin Theatre",
+      "distance": "2.3 mi",
+      "url": "https://www.google.com/maps/search/The%20Grandin%20Theatre+near+37.265130400000004%2C-80.017928"
+    },
+    {
+      "name": "AMC CLASSIC Roanoke 10",
+      "distance": "3.1 mi",
+      "url": "https://www.google.com/maps/search/AMC%20CLASSIC%20Roanoke%2010+near+37.265130400000004%2C-80.017928",
+      "isFar": true
+    }
+  ],
+  "fun": [
+    {
+      "name": "Thunder Valley",
+      "distance": "0.9 mi",
+      "url": "https://www.google.com/maps/search/Thunder%20Valley+near+37.265130400000004%2C-80.017928"
+    },
+    {
+      "name": "All In Adventures Escape Rooms",
+      "distance": "4.0 mi",
+      "url": "https://www.google.com/maps/search/All%20In%20Adventures%20Escape%20Rooms+near+37.265130400000004%2C-80.017928",
+      "isFar": true
+    },
+    {
+      "name": "Sky Zone Trampoline Park",
+      "distance": "4.7 mi",
+      "url": "https://www.google.com/maps/search/Sky%20Zone%20Trampoline%20Park+near+37.265130400000004%2C-80.017928",
+      "isFar": true
+    }
+  ],
+  "hotels": [
+    {
+      "name": "Brookneal Virginia",
+      "distance": "0.4 mi",
+      "url": "https://www.google.com/maps/search/Brookneal%20Virginia+near+37.265130400000004%2C-80.017928"
+    },
+    {
+      "name": "Spring Valley Lake - Upper",
+      "distance": "0.4 mi",
+      "url": "https://www.google.com/maps/search/Spring%20Valley%20Lake%20-%20Upper+near+37.265130400000004%2C-80.017928"
+    },
+    {
+      "name": "Spring Valley Lake - Lower",
+      "distance": "0.4 mi",
+      "url": "https://www.google.com/maps/search/Spring%20Valley%20Lake%20-%20Lower+near+37.265130400000004%2C-80.017928"
+    },
+    {
+      "name": "Hampton Inn Salem East-Electric Road",
+      "distance": "0.8 mi",
+      "url": "https://www.google.com/maps/search/Hampton%20Inn%20Salem%20East-Electric%20Road+near+37.265130400000004%2C-80.017928"
+    },
+    {
+      "name": "Comfort Suites Inn at Ridgewood Farm",
+      "distance": "0.9 mi",
+      "url": "https://www.google.com/maps/search/Comfort%20Suites%20Inn%20at%20Ridgewood%20Farm+near+37.265130400000004%2C-80.017928"
+    }
+  ],
+  "gas": [
+    {
+      "name": "Exxon",
+      "distance": "0.3 mi",
+      "url": "https://www.google.com/maps/search/Exxon+near+37.265130400000004%2C-80.017928"
+    },
+    {
+      "name": "Kroger Fuel Center",
+      "distance": "0.9 mi",
+      "url": "https://www.google.com/maps/search/Kroger%20Fuel%20Center+near+37.265130400000004%2C-80.017928"
+    },
+    {
+      "name": "VA Food Mart and Deli",
+      "distance": "0.9 mi",
+      "url": "https://www.google.com/maps/search/VA%20Food%20Mart%20and%20Deli+near+37.265130400000004%2C-80.017928"
+    },
+    {
+      "name": "Liberty",
+      "distance": "0.9 mi",
+      "url": "https://www.google.com/maps/search/Liberty+near+37.265130400000004%2C-80.017928"
+    }
+  ]
+}

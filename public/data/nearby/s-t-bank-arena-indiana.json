@@ -1,0 +1,216 @@
+{
+  "quick_bite": [
+    {
+      "name": "Dairy Queen Grill & Chill",
+      "distance": "1.1 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Dairy%20Queen%20Grill%20%26%20Chill&query_place_id=ChIJlc8Bbxhby4kRhxhSESABXf8&center=40.6290676,-79.1452651"
+    },
+    {
+      "name": "Bob's Sub",
+      "distance": "1.2 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Bob's%20Sub&query_place_id=ChIJrZK2pSZby4kR0IoWCCuWrvE&center=40.622758,-79.149604"
+    },
+    {
+      "name": "Fox's Pizza Den",
+      "distance": "1.2 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Fox's%20Pizza%20Den&query_place_id=ChIJ1djiuCZby4kRiafVCMpVpjI&center=40.622662,-79.15056"
+    },
+    {
+      "name": "Jimmy John's",
+      "distance": "1.4 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Jimmy%20John's&query_place_id=ChIJGeBvXidby4kRbWNZ-D1DEwE&center=40.6231745,-79.1544396"
+    },
+    {
+      "name": "Chick-fil-A",
+      "distance": "1.4 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Chick-fil-A&query_place_id=ChIJx3esDNhay4kRiF32Q_AcCIM&center=40.6192912,-79.1544418"
+    }
+  ],
+  "coffee": [
+    {
+      "name": "Sit ‘N Stay Cafe",
+      "distance": "0.8 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Sit%20%E2%80%98N%20Stay%20Cafe&query_place_id=ChIJm3G0VDxby4kR3PfRSxI5mYQ&center=40.6229478,-79.14301739999999"
+    },
+    {
+      "name": "Caffè Amadeus Roast & Brew",
+      "distance": "1.3 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Caff%C3%A8%20Amadeus%20Roast%20%26%20Brew&query_place_id=ChIJldP42yZby4kRcbtkDHoDuH8&center=40.6227778,-79.15166669999999"
+    },
+    {
+      "name": "Cannella Cafe",
+      "distance": "1.3 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Cannella%20Cafe&query_place_id=ChIJwaLsIydby4kRMXFN1Wj7Oss&center=40.622757,-79.15265289999999"
+    },
+    {
+      "name": "Lemoona House Restaurant",
+      "distance": "1.4 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Lemoona%20House%20Restaurant&query_place_id=ChIJ6ZJVUTtby4kRffnIpkbXZiM&center=40.6233942,-79.15310079999999"
+    }
+  ],
+  "team_lunch": [
+    {
+      "name": "Lotus Grill & Noodles",
+      "distance": "1.1 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Lotus%20Grill%20%26%20Noodles&query_place_id=ChIJxdsiEnBby4kRupzzFiLqX_k&center=40.622546899999996,-79.1476105"
+    },
+    {
+      "name": "Boomerangs Bar & Grill",
+      "distance": "1.2 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Boomerangs%20Bar%20%26%20Grill&query_place_id=ChIJ6a_ApSZby4kRRrywVCIDhic&center=40.6231398,-79.1496107"
+    },
+    {
+      "name": "Italian Village Pizza",
+      "distance": "1.3 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Italian%20Village%20Pizza&query_place_id=ChIJnxgF2SZby4kRsTmCimXFnno&center=40.6231127,-79.1518092"
+    },
+    {
+      "name": "H.B. Culpeppers",
+      "distance": "1.3 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=H.B.%20Culpeppers&query_place_id=ChIJj6oXJCdby4kRH3pn2yHZjFw&center=40.6232147,-79.1524124"
+    },
+    {
+      "name": "Colton's Cookies",
+      "distance": "2.1 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Colton's%20Cookies&query_place_id=ChIJjXbwxc5by4kRrsn6cTUqRi4&center=40.6518146,-79.1257136"
+    },
+    {
+      "name": "Auntie Anne's",
+      "distance": "3.1 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Auntie%20Anne's&query_place_id=ChIJIwVMQkxFy4kRemjpSuhchjk&center=40.607563,-79.1833667",
+      "isFar": true
+    }
+  ],
+  "dinner": [
+    {
+      "name": "Benjamin's",
+      "distance": "1.1 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Benjamin's&query_place_id=ChIJwdn1cSRby4kRMlbnOuB9AhA&center=40.622666599999995,-79.14747249999999"
+    },
+    {
+      "name": "Bob's Pizza",
+      "distance": "1.1 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Bob's%20Pizza&query_place_id=ChIJ1RADbxhby4kRNjebV2P9mhE&center=40.630773999999995,-79.14421399999999"
+    },
+    {
+      "name": "Subs N Suds",
+      "distance": "1.1 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Subs%20N%20Suds&query_place_id=ChIJRWePciRby4kRkh6HGR5D6cQ&center=40.6225631,-79.14780069999999"
+    },
+    {
+      "name": "Al Patti's Bar & Grill",
+      "distance": "1.2 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Al%20Patti's%20Bar%20%26%20Grill&query_place_id=ChIJ6ViPpCZby4kR9J3Ud4sawfE&center=40.622777,-79.1497301"
+    },
+    {
+      "name": "Fedder’s Grill",
+      "distance": "1.2 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Fedder%E2%80%99s%20Grill&query_place_id=ChIJo6fMeG9by4kRgZ3Au5SKTm8&center=40.623047799999995,-79.1497456"
+    },
+    {
+      "name": "Pan Asia Cafe",
+      "distance": "1.2 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Pan%20Asia%20Cafe&query_place_id=ChIJwT3jlmxby4kRANW5qqdjARA&center=40.6227631,-79.14986739999999"
+    }
+  ],
+  "bowling": [
+    {
+      "name": "Strike Zone Lounge",
+      "distance": "2.7 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Strike%20Zone%20Lounge&query_place_id=ChIJW1IUsspay4kR8RiXmuBlxsA&center=40.6123275,-79.1775207"
+    },
+    {
+      "name": "Mohawk Lanes",
+      "distance": "2.7 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Mohawk%20Lanes&query_place_id=ChIJF-gasspay4kRy-eBbAGUyV4&center=40.6124015,-79.1777518"
+    }
+  ],
+  "arcade": [],
+  "movies": [
+    {
+      "name": "The Indiana Theater",
+      "distance": "1.3 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=The%20Indiana%20Theater&query_place_id=ChIJSbbK2CZby4kR1juloJdGgFc&center=40.623076399999995,-79.1518814"
+    },
+    {
+      "name": "Palace Gardens Drive-In",
+      "distance": "2.3 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Palace%20Gardens%20Drive-In&query_place_id=ChIJF6nMxthEy4kRbgZcaZKUz6g&center=40.5952784,-79.1537622"
+    },
+    {
+      "name": "MovieScoop Indiana Mall Cinemas",
+      "distance": "3.2 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=MovieScoop%20Indiana%20Mall%20Cinemas&query_place_id=ChIJS-f53UtFy4kRipDuMEHsT6g&center=40.608715,-79.184991",
+      "isFar": true
+    }
+  ],
+  "fun": [
+    {
+      "name": "Go Bonkerz Entertainment",
+      "distance": "3.1 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Go%20Bonkerz%20Entertainment&query_place_id=ChIJ4Y4iKJxby4kRVmIMPzoktoY&center=40.6090776,-79.1847676",
+      "isFar": true
+    },
+    {
+      "name": "Mytrysak Family Tree Farm and Greenhouse",
+      "distance": "5.6 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Mytrysak%20Family%20Tree%20Farm%20and%20Greenhouse&query_place_id=ChIJb8z6VgBRy4kRiq-kxUchUSs&center=40.6488,-79.2291528",
+      "isFar": true
+    },
+    {
+      "name": "Clymer Highrocks",
+      "distance": "6.2 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Clymer%20Highrocks&query_place_id=ChIJdXpYjghdy4kR4r8kNK4WMiA&center=40.663694899999996,-79.02181569999999",
+      "isFar": true
+    }
+  ],
+  "hotels": [
+    {
+      "name": "Don Huey Campground",
+      "distance": "0.7 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Don%20Huey%20Campground&query_place_id=ChIJMTRIgdVby4kR1IrxVpga370&center=40.631257999999995,-79.1211153"
+    },
+    {
+      "name": "Julie",
+      "distance": "0.8 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Julie&query_place_id=ChIJB9bk0Gdby4kRPSmeK1R8BWs&center=40.6224566,-79.1424828"
+    },
+    {
+      "name": "Divinity Inn ~ a divine downtown Victorian",
+      "distance": "1.2 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Divinity%20Inn%20~%20a%20divine%20downtown%20Victorian&query_place_id=ChIJxULULS9by4kRLZoDN6MZWZg&center=40.6165314,-79.1488723"
+    },
+    {
+      "name": "Saint Mary's",
+      "distance": "1.3 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Saint%20Mary's&query_place_id=ChIJVaZwBydby4kR6qplK-lVYQM&center=40.6213988,-79.1524925"
+    },
+    {
+      "name": "best western covered bridge Inn",
+      "distance": "1.3 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=best%20western%20covered%20bridge%20Inn&query_place_id=ChIJVaZwBydby4kRcEegn0ytOKU&center=40.6213988,-79.1524925"
+    }
+  ],
+  "gas": [
+    {
+      "name": "Exxon",
+      "distance": "1.0 mi",
+      "url": "https://www.google.com/maps/search/Exxon+near+40.622035%2C-79.1273999"
+    },
+    {
+      "name": "Satterlee Keystone",
+      "distance": "1.3 mi",
+      "url": "https://www.google.com/maps/search/Satterlee%20Keystone+near+40.622035%2C-79.1273999"
+    },
+    {
+      "name": "Indiana Station",
+      "distance": "1.3 mi",
+      "url": "https://www.google.com/maps/search/Indiana%20Station+near+40.622035%2C-79.1273999"
+    },
+    {
+      "name": "Gas Station - Martin's",
+      "distance": "2.5 mi",
+      "url": "https://www.google.com/maps/search/Gas%20Station%20-%20Martin's+near+40.622035%2C-79.1273999"
+    }
+  ]
+}

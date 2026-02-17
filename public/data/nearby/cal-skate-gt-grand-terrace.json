@@ -1,0 +1,206 @@
+{
+  "quick_bite": [
+    {
+      "name": "Taco Bell",
+      "distance": "0.1 mi",
+      "url": "https://www.google.com/maps/search/Taco%20Bell+near+34.033055600000004%2C-117.32305559999999"
+    },
+    {
+      "name": "Piara Pizza",
+      "distance": "0.2 mi",
+      "url": "https://www.google.com/maps/search/Piara%20Pizza+near+34.033055600000004%2C-117.32305559999999"
+    },
+    {
+      "name": "Miguel's Jr.",
+      "distance": "0.2 mi",
+      "url": "https://www.google.com/maps/search/Miguel's%20Jr.+near+34.033055600000004%2C-117.32305559999999"
+    },
+    {
+      "name": "Mazzullis' Family Kitchen",
+      "distance": "0.3 mi",
+      "url": "https://www.google.com/maps/search/Mazzullis'%20Family%20Kitchen+near+34.033055600000004%2C-117.32305559999999"
+    },
+    {
+      "name": "Little Caesars Pizza",
+      "distance": "0.6 mi",
+      "url": "https://www.google.com/maps/search/Little%20Caesars%20Pizza+near+34.033055600000004%2C-117.32305559999999"
+    }
+  ],
+  "coffee": [
+    {
+      "name": "Starbucks Coffee Company",
+      "distance": "0.2 mi",
+      "url": "https://www.google.com/maps/search/Starbucks%20Coffee%20Company+near+34.033055600000004%2C-117.32305559999999"
+    },
+    {
+      "name": "McDonald's",
+      "distance": "0.2 mi",
+      "url": "https://www.google.com/maps/search/McDonald's+near+34.033055600000004%2C-117.32305559999999"
+    }
+  ],
+  "team_lunch": [
+    {
+      "name": "Antonious Pizza",
+      "distance": "0.4 mi",
+      "url": "https://www.google.com/maps/search/Antonious%20Pizza+near+34.033055600000004%2C-117.32305559999999"
+    },
+    {
+      "name": "Kaz Ramen",
+      "distance": "0.4 mi",
+      "url": "https://www.google.com/maps/search/Kaz%20Ramen+near+34.033055600000004%2C-117.32305559999999"
+    }
+  ],
+  "dinner": [
+    {
+      "name": "Sinbad's Coastal kebab",
+      "distance": "0.1 mi",
+      "url": "https://www.google.com/maps/search/Sinbad's%20Coastal%20kebab+near+34.033055600000004%2C-117.32305559999999"
+    },
+    {
+      "name": "Wingstop",
+      "distance": "0.2 mi",
+      "url": "https://www.google.com/maps/search/Wingstop+near+34.033055600000004%2C-117.32305559999999"
+    },
+    {
+      "name": "SoCal Subs",
+      "distance": "0.3 mi",
+      "url": "https://www.google.com/maps/search/SoCal%20Subs+near+34.033055600000004%2C-117.32305559999999"
+    },
+    {
+      "name": "Woody's Classic Grill",
+      "distance": "0.4 mi",
+      "url": "https://www.google.com/maps/search/Woody's%20Classic%20Grill+near+34.033055600000004%2C-117.32305559999999"
+    },
+    {
+      "name": "ABC Mongolian BBQ",
+      "distance": "0.4 mi",
+      "url": "https://www.google.com/maps/search/ABC%20Mongolian%20BBQ+near+34.033055600000004%2C-117.32305559999999"
+    },
+    {
+      "name": "The Donut House",
+      "distance": "0.4 mi",
+      "url": "https://www.google.com/maps/search/The%20Donut%20House+near+34.033055600000004%2C-117.32305559999999"
+    },
+    {
+      "name": "Thai Kitchen",
+      "distance": "0.4 mi",
+      "url": "https://www.google.com/maps/search/Thai%20Kitchen+near+34.033055600000004%2C-117.32305559999999"
+    }
+  ],
+  "bowling": [
+    {
+      "name": "Bowlero San Bernardino",
+      "distance": "3.7 mi",
+      "url": "https://www.google.com/maps/search/Bowlero%20San%20Bernardino+near+34.033055600000004%2C-117.32305559999999",
+      "isFar": true
+    }
+  ],
+  "arcade": [],
+  "movies": [],
+  "fun": [
+    {
+      "name": "Fiesta Village Family Fun Park",
+      "distance": "1.6 mi",
+      "url": "https://www.google.com/maps/search/Fiesta%20Village%20Family%20Fun%20Park+near+34.033055600000004%2C-117.32305559999999"
+    },
+    {
+      "name": "Rent A Ferris Wheel US",
+      "distance": "2.8 mi",
+      "url": "https://www.google.com/maps/search/Rent%20A%20Ferris%20Wheel%20US+near+34.033055600000004%2C-117.32305559999999"
+    },
+    {
+      "name": "Confusion Escapes",
+      "distance": "3.2 mi",
+      "url": "https://www.google.com/maps/search/Confusion%20Escapes+near+34.033055600000004%2C-117.32305559999999",
+      "isFar": true
+    },
+    {
+      "name": "Saber Room Escape by Confusion Escapes",
+      "distance": "3.2 mi",
+      "url": "https://www.google.com/maps/search/Saber%20Room%20Escape%20by%20Confusion%20Escapes+near+34.033055600000004%2C-117.32305559999999",
+      "isFar": true
+    },
+    {
+      "name": "Little Me Zone",
+      "distance": "3.3 mi",
+      "url": "https://www.google.com/maps/search/Little%20Me%20Zone+near+34.033055600000004%2C-117.32305559999999",
+      "isFar": true
+    },
+    {
+      "name": "Chibi Claw Arcades",
+      "distance": "3.9 mi",
+      "url": "https://www.google.com/maps/search/Chibi%20Claw%20Arcades+near+34.033055600000004%2C-117.32305559999999",
+      "isFar": true
+    },
+    {
+      "name": "ENTER Escape Room",
+      "distance": "4.0 mi",
+      "url": "https://www.google.com/maps/search/ENTER%20Escape%20Room+near+34.033055600000004%2C-117.32305559999999",
+      "isFar": true
+    }
+  ],
+  "hotels": [
+    {
+      "name": "Grand Royal Estates",
+      "distance": "0.2 mi",
+      "url": "https://www.google.com/maps/search/Grand%20Royal%20Estates+near+34.033055600000004%2C-117.32305559999999"
+    },
+    {
+      "name": "Terrace Village RV Park",
+      "distance": "0.3 mi",
+      "url": "https://www.google.com/maps/search/Terrace%20Village%20RV%20Park+near+34.033055600000004%2C-117.32305559999999"
+    },
+    {
+      "name": "Sycamore Park",
+      "distance": "0.5 mi",
+      "url": "https://www.google.com/maps/search/Sycamore%20Park+near+34.033055600000004%2C-117.32305559999999"
+    },
+    {
+      "name": "Private Bed and Bath in peaceful townhome near Loma Linda University",
+      "distance": "0.5 mi",
+      "url": "https://www.google.com/maps/search/Private%20Bed%20and%20Bath%20in%20peaceful%20townhome%20near%20Loma%20Linda%20University+near+34.033055600000004%2C-117.32305559999999"
+    },
+    {
+      "name": "SmartCART Captions",
+      "distance": "0.7 mi",
+      "url": "https://www.google.com/maps/search/SmartCART%20Captions+near+34.033055600000004%2C-117.32305559999999"
+    },
+    {
+      "name": "Riverside Serenity Winter Oasis-Spa/Pool/Mini Golf",
+      "distance": "1.1 mi",
+      "url": "https://www.google.com/maps/search/Riverside%20Serenity%20Winter%20Oasis-Spa%2FPool%2FMini%20Golf+near+34.033055600000004%2C-117.32305559999999"
+    },
+    {
+      "name": "King Beds/4 TVS/New/Comfortable",
+      "distance": "1.1 mi",
+      "url": "https://www.google.com/maps/search/King%20Beds%2F4%20TVS%2FNew%2FComfortable+near+34.033055600000004%2C-117.32305559999999"
+    }
+  ],
+  "gas": [
+    {
+      "name": "Mobil",
+      "distance": "0.0 mi",
+      "url": "https://www.google.com/maps/search/Mobil+near+34.033055600000004%2C-117.32305559999999"
+    },
+    {
+      "name": "ARCO",
+      "distance": "0.0 mi",
+      "url": "https://www.google.com/maps/search/ARCO+near+34.033055600000004%2C-117.32305559999999"
+    },
+    {
+      "name": "Chevron",
+      "distance": "0.5 mi",
+      "url": "https://www.google.com/maps/search/Chevron+near+34.033055600000004%2C-117.32305559999999"
+    },
+    {
+      "name": "Shell",
+      "distance": "1.1 mi",
+      "url": "https://www.google.com/maps/search/Shell+near+34.033055600000004%2C-117.32305559999999"
+    },
+    {
+      "name": "Lucky Oil Co Inc",
+      "distance": "1.1 mi",
+      "url": "https://www.google.com/maps/search/Lucky%20Oil%20Co%20Inc+near+34.033055600000004%2C-117.32305559999999"
+    }
+  ]
+}

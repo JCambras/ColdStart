@@ -1,0 +1,208 @@
+{
+  "quick_bite": [
+    {
+      "name": "Shah’s Halal Food",
+      "distance": "0.1 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Shah%E2%80%99s%20Halal%20Food&query_place_id=ChIJ9a2C-wOIwokR-H5uVm7s29U&center=40.75270510000001,-73.6599418"
+    },
+    {
+      "name": "Halal Cooco's Den",
+      "distance": "0.4 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Halal%20Cooco's%20Den&query_place_id=ChIJBe80MtyHwokR78kgDoEuxSg&center=40.7543144,-73.6531081"
+    },
+    {
+      "name": "Wendy's",
+      "distance": "0.6 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Wendy's&query_place_id=ChIJcVsh8fyHwokR2pYCKS4WIXQ&center=40.7545881,-73.64950329999999"
+    },
+    {
+      "name": "MÓGŪ Modern Chinese Kitchen",
+      "distance": "0.6 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=M%C3%93G%C5%AA%20Modern%20Chinese%20Kitchen&query_place_id=ChIJoQdat6BjwokR4Bl7l_sCnnA&center=40.7448241,-73.65622859999999"
+    },
+    {
+      "name": "Chipotle Mexican Grill",
+      "distance": "0.6 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Chipotle%20Mexican%20Grill&query_place_id=ChIJE2QVCqtiwokRQu3WuIvloU8&center=40.744712899999996,-73.6561366"
+    }
+  ],
+  "coffee": [
+    {
+      "name": "Teamisu cafe",
+      "distance": "0.3 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Teamisu%20cafe&query_place_id=ChIJAdBBOFWHwokReEVrLBLjzxE&center=40.7542772,-73.6534485"
+    },
+    {
+      "name": "Humble Cafe",
+      "distance": "0.4 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Humble%20Cafe&query_place_id=ChIJkTe_5uSHwokRNgy-nfEXVhU&center=40.754416899999995,-73.652593"
+    },
+    {
+      "name": "Dunkin'",
+      "distance": "0.5 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Dunkin'&query_place_id=ChIJ3TAS_PyHwokRKgOUj8qlhDY&center=40.754795,-73.6502253"
+    },
+    {
+      "name": "Duck Donuts",
+      "distance": "0.7 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Duck%20Donuts&query_place_id=ChIJf4uVVZNjwokRMWtsOLNJ9zw&center=40.7434577,-73.6600969"
+    },
+    {
+      "name": "Bagels N A Hole Lot More (New Hyde Park)",
+      "distance": "0.7 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Bagels%20N%20A%20Hole%20Lot%20More%20(New%20Hyde%20Park)&query_place_id=ChIJ0RUANh6IwokRWHX9kFYpfn4&center=40.751670399999995,-73.6740502"
+    }
+  ],
+  "team_lunch": [
+    {
+      "name": "Sushi Republic",
+      "distance": "0.1 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Sushi%20Republic&query_place_id=ChIJ0RvLAQSIwokRhHs6DZJr7wI&center=40.753389399999996,-73.65931309999999"
+    },
+    {
+      "name": "Polito Bakery",
+      "distance": "0.1 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Polito%20Bakery&query_place_id=ChIJm7yDqgaIwokRFJFbstdtiRw&center=40.753389399999996,-73.65931309999999"
+    },
+    {
+      "name": "Happy Garden",
+      "distance": "0.2 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Happy%20Garden&query_place_id=ChIJY7qYJgeIwokRE6oaCQwZYN8&center=40.754253999999996,-73.656806"
+    },
+    {
+      "name": "Fresco Kitchen",
+      "distance": "0.5 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Fresco%20Kitchen&query_place_id=ChIJ44KSd3eHwokROkQkqXgmghU&center=40.7542373,-73.6507811"
+    },
+    {
+      "name": "Bagel Lab Bakery & Deli",
+      "distance": "0.8 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Bagel%20Lab%20Bakery%20%26%20Deli&query_place_id=ChIJQ30ek-RjwokRZm7lJ2V3c28&center=40.742170099999996,-73.6622898"
+    }
+  ],
+  "dinner": [
+    {
+      "name": "Opa Grille",
+      "distance": "0.1 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Opa%20Grille&query_place_id=ChIJ3d5qwgaIwokRPP37B5QuZ9M&center=40.7541297,-73.6573518"
+    },
+    {
+      "name": "Sushi Garden",
+      "distance": "0.2 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Sushi%20Garden&query_place_id=ChIJ2UwuJweIwokR39krgVLQfOQ&center=40.754188,-73.6566763"
+    },
+    {
+      "name": "Positano Ristorante Pizza",
+      "distance": "0.2 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Positano%20Ristorante%20Pizza&query_place_id=ChIJs-w5eraJwokRqX532X7ppiY&center=40.754330599999996,-73.65654119999999"
+    },
+    {
+      "name": "Cafe Sport Restaurant",
+      "distance": "0.3 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Cafe%20Sport%20Restaurant&query_place_id=ChIJzTDwYweIwokRRqZFV3KyZIo&center=40.7537896,-73.6538739"
+    },
+    {
+      "name": "La Fogata BBQ - Steak House",
+      "distance": "0.4 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=La%20Fogata%20BBQ%20-%20Steak%20House&query_place_id=ChIJQZ1kvtiHwokR2OkexwDyKzQ&center=40.7543316,-73.6530921"
+    },
+    {
+      "name": "SriPraPhai",
+      "distance": "0.5 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=SriPraPhai&query_place_id=ChIJX4Ea_vyHwokRw1DT-CEX6Do&center=40.7546173,-73.6508017"
+    }
+  ],
+  "bowling": [
+    {
+      "name": "Bowl 360 New Hyde Park",
+      "distance": "0.1 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Bowl%20360%20New%20Hyde%20Park&query_place_id=ChIJd0qUAU2JwokRPemv-zbPEIA&center=40.7521039,-73.6583235"
+    },
+    {
+      "name": "Lucky Strike Mineola",
+      "distance": "1.7 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Lucky%20Strike%20Mineola&query_place_id=ChIJhah-nZKHwokRrplQxyycKRU&center=40.753293899999996,-73.6272212"
+    },
+    {
+      "name": "AMF Garden City Lanes",
+      "distance": "3.5 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=AMF%20Garden%20City%20Lanes&query_place_id=ChIJrWFu9oZ9wokRow0JQO4biEg&center=40.7357286,-73.5977006",
+      "isFar": true
+    }
+  ],
+  "arcade": [],
+  "movies": [
+    {
+      "name": "AMC Roosevelt Field 8",
+      "distance": "2.5 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=AMC%20Roosevelt%20Field%208&query_place_id=ChIJAUh85H19wokRBOPo-4AyS90&center=40.7397433,-73.6149875"
+    },
+    {
+      "name": "North Shore Towers Cinema",
+      "distance": "2.9 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=North%20Shore%20Towers%20Cinema&query_place_id=ChIJ53ysnHViwokRCF-LAhs7-VE&center=40.7569455,-73.7146339"
+    },
+    {
+      "name": "Roslyn Cinema",
+      "distance": "3.3 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Roslyn%20Cinema&query_place_id=ChIJjfyvPx6HwokRjQ8v9Cr8yww&center=40.7997855,-73.6498957",
+      "isFar": true
+    }
+  ],
+  "fun": [
+    {
+      "name": "Thunderbolt 1003",
+      "distance": "1.0 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Thunderbolt%201003&query_place_id=ChIJfeaNKwCHwokRSD5pOStqx2M&center=40.749213999999995,-73.6411129"
+    },
+    {
+      "name": "Can You Escape? LI",
+      "distance": "1.2 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Can%20You%20Escape%3F%20LI&query_place_id=ChIJlRKdXfGHwokR_QXaOJlBIXI&center=40.7510406,-73.6363629"
+    },
+    {
+      "name": "Hamlet Estates Lake",
+      "distance": "2.3 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Hamlet%20Estates%20Lake&query_place_id=ChIJIxgQVQCJwokRaD8joQX6bKs&center=40.7836344,-73.6780131"
+    },
+    {
+      "name": "Splash pad",
+      "distance": "2.6 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Splash%20pad&query_place_id=ChIJd6ADkgiHwokR_oVm-JYZyQc&center=40.7882956,-73.6429232"
+    }
+  ],
+  "hotels": [
+    {
+      "name": "SKY WORLD TOUR CORP.",
+      "distance": "1.2 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=SKY%20WORLD%20TOUR%20CORP.&query_place_id=ChIJhZ_zzqNjwokR0Qk5ED31AQc&center=40.7370296,-73.66701239999999"
+    },
+    {
+      "name": "Margi Reed Enterprises",
+      "distance": "1.3 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Margi%20Reed%20Enterprises&query_place_id=ChIJ3wpV8lh9wokRfddp40l9e4Q&center=40.743735199999996,-73.6383463"
+    }
+  ],
+  "gas": [
+    {
+      "name": "Sunoco Gas Station/Grab & Go",
+      "distance": "0.1 mi",
+      "url": "https://www.google.com/maps/search/Sunoco%20Gas%20Station%2FGrab%20%26%20Go+near+40.753325499999995%2C-73.6598904"
+    },
+    {
+      "name": "Gulf",
+      "distance": "0.5 mi",
+      "url": "https://www.google.com/maps/search/Gulf+near+40.753325499999995%2C-73.6598904"
+    },
+    {
+      "name": "G-FULL FULL SERVICE",
+      "distance": "0.7 mi",
+      "url": "https://www.google.com/maps/search/G-FULL%20FULL%20SERVICE+near+40.753325499999995%2C-73.6598904"
+    },
+    {
+      "name": "Exxon",
+      "distance": "0.7 mi",
+      "url": "https://www.google.com/maps/search/Exxon+near+40.753325499999995%2C-73.6598904"
+    }
+  ]
+}

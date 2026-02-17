@@ -1,0 +1,195 @@
+{
+  "quick_bite": [
+    {
+      "name": "Taco Bell",
+      "distance": "0.1 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Taco%20Bell&query_place_id=ChIJ3SD0BABZwokRulwOI9Dq29k&center=40.7828765,-73.9453298"
+    },
+    {
+      "name": "Hooda's Halal Food",
+      "distance": "0.2 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Hooda's%20Halal%20Food&query_place_id=ChIJf7Hf_UFZwokRjXXjvlW6QTk&center=40.783053599999995,-73.9477592"
+    },
+    {
+      "name": "KaiPai Sushi NY",
+      "distance": "0.4 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=KaiPai%20Sushi%20NY&query_place_id=ChIJsUkuxDZZwokRXfbf0m1PYEQ&center=40.787642999999996,-73.94192079999999"
+    },
+    {
+      "name": "Taco Bell",
+      "distance": "0.4 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Taco%20Bell&query_place_id=ChIJqbwmXKZYwokRkG0DMClke2k&center=40.786590499999996,-73.9501702"
+    },
+    {
+      "name": "White Castle",
+      "distance": "0.4 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=White%20Castle&query_place_id=ChIJX6gV9qlYwokRb44IOUFbw4Q&center=40.788055899999996,-73.9417277"
+    }
+  ],
+  "coffee": [
+    {
+      "name": "Yorkville Coffee House",
+      "distance": "0.1 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Yorkville%20Coffee%20House&query_place_id=ChIJJcIfbgBZwokRNgNAGbSZYVU&center=40.7834066,-73.9469506"
+    },
+    {
+      "name": "Madame Bonté Café",
+      "distance": "0.2 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Madame%20Bont%C3%A9%20Caf%C3%A9&query_place_id=ChIJlwjJzyZZwokRG7ZHbpbpy34&center=40.783313299999996,-73.94749039999999"
+    },
+    {
+      "name": "Maison Brew",
+      "distance": "0.2 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Maison%20Brew&query_place_id=ChIJeRnmWzZZwokRAmG17BS0nzU&center=40.7818556,-73.94786409999999"
+    },
+    {
+      "name": "Perk Coffee",
+      "distance": "0.2 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Perk%20Coffee&query_place_id=ChIJo4vNrKhYwokRq0tOvcHacUA&center=40.7846198,-73.9471961"
+    },
+    {
+      "name": "Dunkin'",
+      "distance": "0.2 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Dunkin'&query_place_id=ChIJRw8xjpVZwokR572wz98Q02U&center=40.7847422,-73.9470281"
+    }
+  ],
+  "team_lunch": [
+    {
+      "name": "Merrion Square Pub",
+      "distance": "0.2 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Merrion%20Square%20Pub&query_place_id=ChIJjVdbXK9YwokRtaK2GfOV0wg&center=40.783605,-73.947349"
+    },
+    {
+      "name": "Gó Deli.Grill",
+      "distance": "0.2 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=G%C3%B3%20Deli.Grill&query_place_id=ChIJ_yVbrahYwokRMh8rSNz2RZQ&center=40.7846121,-73.9470484"
+    },
+    {
+      "name": "Fresh Wok",
+      "distance": "0.2 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Fresh%20Wok&query_place_id=ChIJfyKP7a9YwokROcYpLvwvxOQ&center=40.780639,-73.94696189999999"
+    },
+    {
+      "name": "SnackShack",
+      "distance": "0.2 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=SnackShack&query_place_id=ChIJPxbJKe9ZwokRvxdFsEyveWM&center=40.786237,-73.944475"
+    },
+    {
+      "name": "Alexis Cakes & Pastries",
+      "distance": "0.2 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Alexis%20Cakes%20%26%20Pastries&query_place_id=ChIJS4JwaoJZwokRMcMHP5PDuMk&center=40.785888899999996,-73.9469227"
+    },
+    {
+      "name": "Bagels & More",
+      "distance": "0.4 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Bagels%20%26%20More&query_place_id=ChIJwZ4etqRYwokR8LUUKW34G8E&center=40.7807689,-73.95232109999999"
+    }
+  ],
+  "dinner": [
+    {
+      "name": "Nick's Pizza",
+      "distance": "0.2 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Nick's%20Pizza&query_place_id=ChIJPwPWh6VYwokRb4sccEaBC2w&center=40.782716199999996,-73.9478073"
+    },
+    {
+      "name": "Comida Mexicana La Abuelita",
+      "distance": "0.2 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Comida%20Mexicana%20La%20Abuelita&query_place_id=ChIJc_2dTgBZwokRxIkrOSTN9VQ&center=40.7847508,-73.9463913"
+    },
+    {
+      "name": "Burp Bowl Cafe",
+      "distance": "0.2 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Burp%20Bowl%20Cafe&query_place_id=ChIJIRRG8oRZwokRbzJ0phtuGFI&center=40.7826972,-73.94794499999999"
+    },
+    {
+      "name": "Enzo Bruni La Pizza Gourmet - UES",
+      "distance": "0.2 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Enzo%20Bruni%20La%20Pizza%20Gourmet%20-%20UES&query_place_id=ChIJp45kvsVZwokRluN5hv3TKlw&center=40.7834624,-73.94789000000002"
+    },
+    {
+      "name": "Soledad",
+      "distance": "0.2 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Soledad&query_place_id=ChIJTVPNkiRZwokRNeH7-uZGlxw&center=40.783359499999996,-73.947991"
+    },
+    {
+      "name": "A-Jiao",
+      "distance": "0.2 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=A-Jiao&query_place_id=ChIJO_iVjqVYwokRo6gL2oABkeQ&center=40.783113799999995,-73.9481521"
+    }
+  ],
+  "bowling": [],
+  "arcade": [],
+  "movies": [
+    {
+      "name": "AMC Orpheum 7",
+      "distance": "0.5 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=AMC%20Orpheum%207&query_place_id=ChIJt4u3PrxYwokRqlGx98inwIU&center=40.779356899999996,-73.9539644"
+    },
+    {
+      "name": "Mágico",
+      "distance": "0.9 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=M%C3%A1gico&query_place_id=ChIJV3LVkJxfwokR3m_fsqjp9uE&center=40.7745576,-73.93213899999999"
+    },
+    {
+      "name": "la tata el perseguidor",
+      "distance": "1.0 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=la%20tata%20el%20perseguidor&query_place_id=ChIJTSXAm9b3wokRWNu50_jhul8&center=40.7965593,-73.9415618"
+    }
+  ],
+  "fun": [
+    {
+      "name": "Spray Pad",
+      "distance": "0.1 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Spray%20Pad&query_place_id=ChIJI8UKBwBZwokRFFehC24gO_g&center=40.7817407,-73.9452101"
+    },
+    {
+      "name": "Rockefeller",
+      "distance": "0.2 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Rockefeller&query_place_id=ChIJ_7seRABZwokR-molADPEdlE&center=40.7803726,-73.9462459"
+    },
+    {
+      "name": "Toilet Alley",
+      "distance": "0.6 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Toilet%20Alley&query_place_id=ChIJZ_E8WgBZwokR_yHSedIxeBU&center=40.77540630000001,-73.9498145"
+    }
+  ],
+  "hotels": [
+    {
+      "name": "Trendy UES Studio w/ Doorman, Gym, Lounge & W/D, by Blueground",
+      "distance": "0.1 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Trendy%20UES%20Studio%20w%2F%20Doorman%2C%20Gym%2C%20Lounge%20%26%20W%2FD%2C%20by%20Blueground&query_place_id=ChIJw6ibDq9YwokRPvgqaqoZHrA&center=40.7823334,-73.9458695"
+    },
+    {
+      "name": "Blueground | Upper East Side, AC, w /d, nr parks",
+      "distance": "0.1 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Blueground%20%7C%20Upper%20East%20Side%2C%20AC%2C%20w%20%2Fd%2C%20nr%20parks&query_place_id=ChIJ2bebDq9YwokRuNtfZgjFJWE&center=40.7823296,-73.9458695"
+    },
+    {
+      "name": "Trendy UES Studio w / Doorman, Gym, Lounge W /D, by Blueground",
+      "distance": "0.1 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Trendy%20UES%20Studio%20w%20%2F%20Doorman%2C%20Gym%2C%20Lounge%20W%20%2FD%2C%20by%20Blueground&query_place_id=ChIJ2bebDq9YwokRSx3Dh_p7Vfs&center=40.7823296,-73.9458695"
+    },
+    {
+      "name": "Blueground | Upper East Side, AC, gym, nr parks",
+      "distance": "0.1 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Blueground%20%7C%20Upper%20East%20Side%2C%20AC%2C%20gym%2C%20nr%20parks&query_place_id=ChIJDepqDK9YwokRf0pyYPOd6a8&center=40.7823181,-73.9459992"
+    }
+  ],
+  "gas": [
+    {
+      "name": "Shell",
+      "distance": "0.0 mi",
+      "url": "https://www.google.com/maps/search/Shell+near+40.782719%2C-73.944642"
+    },
+    {
+      "name": "Mobil",
+      "distance": "0.5 mi",
+      "url": "https://www.google.com/maps/search/Mobil+near+40.782719%2C-73.944642"
+    },
+    {
+      "name": "117th St Auto Services",
+      "distance": "1.1 mi",
+      "url": "https://www.google.com/maps/search/117th%20St%20Auto%20Services+near+40.782719%2C-73.944642"
+    }
+  ]
+}

@@ -1,0 +1,196 @@
+{
+  "quick_bite": [
+    {
+      "name": "Beachside Cafe",
+      "distance": "0.1 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Beachside%20Cafe&query_place_id=ChIJiZmA3Ltx44kRWuPHDIe_sL4&center=42.3839314,-71.0110606"
+    },
+    {
+      "name": "Royal Roast Beef and Seafood",
+      "distance": "0.2 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Royal%20Roast%20Beef%20and%20Seafood&query_place_id=ChIJoYsrtNNx44kRmtvLnYuDNLc&center=42.385570699999995,-71.01084019999999"
+    },
+    {
+      "name": "Burger King",
+      "distance": "0.3 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Burger%20King&query_place_id=ChIJ5S136dNx44kRZB_MEDAVly8&center=42.3862283,-71.009692"
+    },
+    {
+      "name": "Subway",
+      "distance": "0.3 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Subway&query_place_id=ChIJM7_d7tNx44kRP9emna50Cnk&center=42.386306499999996,-71.0093271"
+    }
+  ],
+  "coffee": [
+    {
+      "name": "Dunkin'",
+      "distance": "0.3 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Dunkin'&query_place_id=ChIJ7YQj99Nx44kRVv3aRldiC9E&center=42.3858745,-71.0083248"
+    },
+    {
+      "name": "Caffe dello Sport Eastie",
+      "distance": "0.3 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Caffe%20dello%20Sport%20Eastie&query_place_id=ChIJKxr7j-Fx44kRZ68enKQlXcc&center=42.386741099999995,-71.00777959999999"
+    },
+    {
+      "name": "Sunny Cafe",
+      "distance": "0.4 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Sunny%20Cafe&query_place_id=ChIJv2OAnNJx44kRXPfVjGQJMXI&center=42.3868456,-71.0068383"
+    },
+    {
+      "name": "Starbucks Coffee Company",
+      "distance": "0.6 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Starbucks%20Coffee%20Company&query_place_id=ChIJjbmDv9px44kRvIC8ywb8VBw&center=42.39199,-71.01304999999999"
+    },
+    {
+      "name": "Dunkin'/Hudson Booksellers",
+      "distance": "1.1 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Dunkin'%2FHudson%20Booksellers&query_place_id=ChIJHwJL7zxw44kRVmkeWaVf7f8&center=42.367751399999996,-71.0181565"
+    }
+  ],
+  "team_lunch": [
+    {
+      "name": "Crush Pizza",
+      "distance": "0.3 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Crush%20Pizza&query_place_id=ChIJAaceYQBx44kRoS8GRmRsYU8&center=42.386564,-71.007639"
+    },
+    {
+      "name": "La Fonda Colombiana Restaurante Bar",
+      "distance": "0.4 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=La%20Fonda%20Colombiana%20Restaurante%20Bar&query_place_id=ChIJ65-FsdZx44kRy2YSESb85p0&center=42.3871173,-71.0076638"
+    },
+    {
+      "name": "Brinkleys Restaurant & Pub",
+      "distance": "0.4 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Brinkleys%20Restaurant%20%26%20Pub&query_place_id=ChIJFUcBMMxx44kRE_AAB443X2Q&center=42.3873141,-71.01648829999999"
+    },
+    {
+      "name": "Portillo's Bakery",
+      "distance": "0.8 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Portillo's%20Bakery&query_place_id=ChIJQ7QG65dx44kRSkcGITIJOYk&center=42.3801311,-71.0272172"
+    },
+    {
+      "name": "Roberts Cake Art",
+      "distance": "0.9 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Roberts%20Cake%20Art&query_place_id=ChIJH4oTRQBv44kR6G2C0QpPJv8&center=42.389988599999995,-70.9968556"
+    },
+    {
+      "name": "JSB Industries Inc",
+      "distance": "1.2 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=JSB%20Industries%20Inc&query_place_id=ChIJIS16hcdx44kREPKGsYryq3g&center=42.396054899999996,-71.0252922"
+    }
+  ],
+  "dinner": [
+    {
+      "name": "El Parche",
+      "distance": "0.2 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=El%20Parche&query_place_id=ChIJVaxqLQBx44kR5qjrRAaO93o&center=42.383844599999996,-71.0155642"
+    },
+    {
+      "name": "Luna's Italian & Latin Cuisine Restaurant",
+      "distance": "0.3 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Luna's%20Italian%20%26%20Latin%20Cuisine%20Restaurant&query_place_id=ChIJSzc24tNx44kRXgew-ies8xA&center=42.3865534,-71.00920049999999"
+    },
+    {
+      "name": "New Saigon",
+      "distance": "0.3 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=New%20Saigon&query_place_id=ChIJUzFhHdRx44kRtLOwVoF9rq4&center=42.3863014,-71.0073745"
+    },
+    {
+      "name": "Mi Pueblito Orient Heights",
+      "distance": "0.3 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Mi%20Pueblito%20Orient%20Heights&query_place_id=ChIJm6ziUdFx44kRCqhzBBY_JWY&center=42.3871541,-71.00860949999999"
+    },
+    {
+      "name": "Little Asia",
+      "distance": "0.3 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Little%20Asia&query_place_id=ChIJM7jPptZx44kR9cpOPK68I7M&center=42.3863455,-71.00704320000001"
+    },
+    {
+      "name": "Taquería Jalísco Orient Heights",
+      "distance": "0.4 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Taquer%C3%ADa%20Jal%C3%ADsco%20Orient%20Heights&query_place_id=ChIJhXWZQgBx44kRRkJLBHJP4mw&center=42.3869462,-71.0071975"
+    }
+  ],
+  "bowling": [
+    {
+      "name": "Central Park Lanes",
+      "distance": "1.5 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Central%20Park%20Lanes&query_place_id=ChIJXYkm21pw44kRumRmbqunUAw&center=42.3759577,-71.0386802"
+    }
+  ],
+  "arcade": [],
+  "movies": [
+    {
+      "name": "Simons Theatre",
+      "distance": "2.6 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Simons%20Theatre&query_place_id=ChIJFXTbkIdw44kRJI5eHL-4-6k&center=42.3587791,-71.0501946"
+    },
+    {
+      "name": "Alamo Drafthouse Cinema Boston Seaport",
+      "distance": "2.7 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Alamo%20Drafthouse%20Cinema%20Boston%20Seaport&query_place_id=ChIJ3R_P3ytx44kR9cgAlVLnAFs&center=42.3528492,-71.0471884"
+    },
+    {
+      "name": "AMC Causeway 13",
+      "distance": "2.8 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=AMC%20Causeway%2013&query_place_id=ChIJs45OSJBw44kRn0RDRtlH1so&center=42.3652324,-71.06207049999999"
+    }
+  ],
+  "fun": [
+    {
+      "name": "Waldwin Concessions",
+      "distance": "0.9 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Waldwin%20Concessions&query_place_id=ChIJmbaB_jtw44kRe2IW_KeqhBo&center=42.3702864,-71.0191835"
+    },
+    {
+      "name": "Kidport Terminal C",
+      "distance": "1.1 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Kidport%20Terminal%20C&query_place_id=ChIJIfWwDRZx44kR9ZFhunrdlng&center=42.366679999999995,-71.016454"
+    },
+    {
+      "name": "Reloj de Chelsea Boston",
+      "distance": "1.3 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Reloj%20de%20Chelsea%20Boston&query_place_id=ChIJ8TVVhP5x44kR0-EYpEp_ezY&center=42.3925894,-71.0342898"
+    },
+    {
+      "name": "Room Escape Boston",
+      "distance": "1.4 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Room%20Escape%20Boston&query_place_id=ChIJJQBAW8Bx44kRzwgR7r1AYAk&center=42.4013779,-71.0244625"
+    }
+  ],
+  "hotels": [
+    {
+      "name": "Waterfront Escape - Close to Airport Downtown - Villa with Sea View",
+      "distance": "0.1 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Waterfront%20Escape%20-%20Close%20to%20Airport%20Downtown%20-%20Villa%20with%20Sea%20View&query_place_id=ChIJ1ZaoaC1w44kRYGh7qo2gbBA&center=42.381191199999996,-71.0133591"
+    },
+    {
+      "name": "Mezzanine Place next to Airport /Downtown",
+      "distance": "0.3 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Mezzanine%20Place%20next%20to%20Airport%20%2FDowntown&query_place_id=ChIJI9u-KTNw44kREMq1IqgDfRA&center=42.3829117,-71.0171967"
+    }
+  ],
+  "gas": [
+    {
+      "name": "S & H Fuel Inc",
+      "distance": "0.2 mi",
+      "url": "https://www.google.com/maps/search/S%20%26%20H%20Fuel%20Inc+near+42.3827415%2C-71.0116946"
+    },
+    {
+      "name": "Stop N Fuel",
+      "distance": "0.3 mi",
+      "url": "https://www.google.com/maps/search/Stop%20N%20Fuel+near+42.3827415%2C-71.0116946"
+    },
+    {
+      "name": "bp",
+      "distance": "0.8 mi",
+      "url": "https://www.google.com/maps/search/bp+near+42.3827415%2C-71.0116946"
+    },
+    {
+      "name": "Mobil",
+      "distance": "0.8 mi",
+      "url": "https://www.google.com/maps/search/Mobil+near+42.3827415%2C-71.0116946"
+    }
+  ]
+}

@@ -1,0 +1,206 @@
+{
+  "quick_bite": [
+    {
+      "name": "CFC Crispy Fried Chicken",
+      "distance": "0.1 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=CFC%20Crispy%20Fried%20Chicken&query_place_id=ChIJNRBRMCHl5IkRhNMoLBCVrk0&center=41.6486972,-70.94888519999999"
+    },
+    {
+      "name": "PLEASANT 4-BDRM 2ND FL CENTRALLY LOCATED CLOSE TO ATTRACTIONS",
+      "distance": "0.5 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=PLEASANT%204-BDRM%202ND%20FL%20CENTRALLY%20LOCATED%20CLOSE%20TO%20ATTRACTIONS&query_place_id=ChIJ-4fVoHHk5IkRcuER-9lGQbE&center=41.6506615,-70.9386902"
+    },
+    {
+      "name": "Subway",
+      "distance": "0.8 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Subway&query_place_id=ChIJa-nHW4Pj5IkRuKWy16AO540&center=41.6361352,-70.9496514"
+    },
+    {
+      "name": "Wings Over New Bedford",
+      "distance": "0.9 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Wings%20Over%20New%20Bedford&query_place_id=ChIJlzJp1pzj5IkRU4Psi2JMXyA&center=41.635532,-70.9515761"
+    },
+    {
+      "name": "Chicken Story",
+      "distance": "0.9 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Chicken%20Story&query_place_id=ChIJRZZ5k4fl5IkR1a37FsLtKa8&center=41.6498373,-70.9312423"
+    },
+    {
+      "name": "Subway",
+      "distance": "1.1 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Subway&query_place_id=ChIJWap6c2jk5IkRSdVyuhkWCUk&center=41.6622255,-70.9412007"
+    }
+  ],
+  "coffee": [
+    {
+      "name": "Dunkin'",
+      "distance": "0.7 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Dunkin'&query_place_id=ChIJF9tIG4jk5IkRFlW-kKJ0KXA&center=41.6562762,-70.9551354"
+    },
+    {
+      "name": "Dunkin'",
+      "distance": "0.8 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Dunkin'&query_place_id=ChIJj-jYx4rj5IkRd4zN7GQd3Fc&center=41.636965,-70.95570239999999"
+    },
+    {
+      "name": "Dunkin'",
+      "distance": "0.8 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Dunkin'&query_place_id=ChIJIyXQZefj5IkRQTB7m5dGTRg&center=41.6357259,-70.9498249"
+    },
+    {
+      "name": "Honey Dew Donuts",
+      "distance": "0.9 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Honey%20Dew%20Donuts&query_place_id=ChIJMypAvnjj5IkRtEyjtfOrEWY&center=41.6354782,-70.9527499"
+    }
+  ],
+  "team_lunch": [
+    {
+      "name": "Rua's West End Pizzeria",
+      "distance": "0.4 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Rua's%20West%20End%20Pizzeria&query_place_id=ChIJ9ZWXt3Dk5IkRcfd5r0A6RPE&center=41.649091,-70.9413266"
+    },
+    {
+      "name": "China Star",
+      "distance": "0.8 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=China%20Star&query_place_id=ChIJAViRK4Pj5IkREhSuw5mFTIU&center=41.6360165,-70.9514408"
+    },
+    {
+      "name": "Carmine and Ray's Pizza",
+      "distance": "0.8 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Carmine%20and%20Ray's%20Pizza&query_place_id=ChIJe6Tgi0Ll5IkR9G_e2j8uTkI&center=41.6569031,-70.9379383"
+    },
+    {
+      "name": "Grand Wok Restaurant",
+      "distance": "0.9 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Grand%20Wok%20Restaurant&query_place_id=ChIJR40VsoTj5IkRZd9CAdrza5o&center=41.6353564,-70.94786429999999"
+    },
+    {
+      "name": "Mari’s Mini Cake",
+      "distance": "1.1 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Mari%E2%80%99s%20Mini%20Cake&query_place_id=ChIJvy10XgDj5IkRUHB0Ed1xREU&center=41.636215199999995,-70.93420499999999"
+    },
+    {
+      "name": "Cakes By Celeste",
+      "distance": "1.2 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Cakes%20By%20Celeste&query_place_id=ChIJF7y5nsnj5IkRNrNTgoA2kU4&center=41.6381434,-70.96844540000001"
+    }
+  ],
+  "dinner": [
+    {
+      "name": "West End Grill",
+      "distance": "0.4 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=West%20End%20Grill&query_place_id=ChIJYT43D4Hj5IkRFT8UwM4YpEc&center=41.6424358,-70.9510636"
+    },
+    {
+      "name": "The Pionono #1 Puerto Rican Food Truck",
+      "distance": "0.8 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=The%20Pionono%20%231%20Puerto%20Rican%20Food%20Truck&query_place_id=ChIJFV8bE2Xk5IkRqkagFfal_jE&center=41.6548185,-70.9373605"
+    },
+    {
+      "name": "Celia's Restaurant",
+      "distance": "0.9 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Celia's%20Restaurant&query_place_id=ChIJpzOna4Xj5IkRyHSdIVulq1g&center=41.635876599999996,-70.9439768"
+    },
+    {
+      "name": "Salonika House Of Pizza",
+      "distance": "0.9 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Salonika%20House%20Of%20Pizza&query_place_id=ChIJddxVrYTj5IkRASoIoxzsZ8k&center=41.6353258,-70.9480159"
+    },
+    {
+      "name": "La Candela",
+      "distance": "0.9 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=La%20Candela&query_place_id=ChIJBeyAOnPk5IkRgAGkoXrFykw&center=41.648572699999995,-70.93181109999999"
+    },
+    {
+      "name": "Hazuki Kitchen",
+      "distance": "0.9 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Hazuki%20Kitchen&query_place_id=ChIJjx3NN53j5IkRHvz6h3eswDo&center=41.6356951,-70.9531148"
+    }
+  ],
+  "bowling": [
+    {
+      "name": "Wonder Bowl",
+      "distance": "0.9 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Wonder%20Bowl&query_place_id=ChIJEfDmMmbk5IkRi1A2ZvXoH5o&center=41.6600891,-70.9432558"
+    }
+  ],
+  "arcade": [],
+  "movies": [
+    {
+      "name": "New Bedford Film Society",
+      "distance": "1.6 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=New%20Bedford%20Film%20Society&query_place_id=ChIJ4eiJeM3j5IkRa0xAwQhTT8I&center=41.6331043,-70.9252456"
+    },
+    {
+      "name": "AMC Dartmouth Mall 11",
+      "distance": "2.3 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=AMC%20Dartmouth%20Mall%2011&query_place_id=ChIJk1kIKE7j5IkRBKjBso4YRwA&center=41.6424452,-70.9921083"
+    },
+    {
+      "name": "AMC Theatre 12",
+      "distance": "2.3 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=AMC%20Theatre%2012&query_place_id=ChIJyXyM50_j5IkR1G6aq00Fn-g&center=41.6426132,-70.9926764"
+    }
+  ],
+  "fun": [
+    {
+      "name": "AHA! New Bedford",
+      "distance": "1.3 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=AHA!%20New%20Bedford&query_place_id=ChIJcY5Dr4Lj5IkRVu9rBnyL-I0&center=41.633373,-70.93290569999999"
+    },
+    {
+      "name": "Mass Escape",
+      "distance": "1.4 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Mass%20Escape&query_place_id=ChIJy5CFqvPj5IkRKM3xEPSbx8k&center=41.634347,-70.927888"
+    },
+    {
+      "name": "Plastic rooster",
+      "distance": "1.6 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Plastic%20rooster&query_place_id=ChIJcyxUCADj5IkRHaEjxah7BXQ&center=41.634338,-70.9237127"
+    },
+    {
+      "name": "Whale Fin Sculpture",
+      "distance": "1.6 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Whale%20Fin%20Sculpture&query_place_id=ChIJo4QRKQDj5IkRSwpeZ6alQaY&center=41.634654999999995,-70.9232373"
+    }
+  ],
+  "hotels": [
+    {
+      "name": "Whaler Inn and Suites",
+      "distance": "0.7 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Whaler%20Inn%20and%20Suites&query_place_id=ChIJqY3CzKTl5IkRaJZXoiK7k2Y&center=41.654354999999995,-70.9584081"
+    },
+    {
+      "name": "Juice walled",
+      "distance": "0.7 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Juice%20walled&query_place_id=ChIJGwsMFgDj5IkRVEILAWJ9His&center=41.6371078,-70.9458725"
+    },
+    {
+      "name": "The Freedom HOME from HOME",
+      "distance": "0.8 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=The%20Freedom%20HOME%20from%20HOME&query_place_id=ChIJPUVCf4nj5IkRNqJmM6hkXiU&center=41.640560099999995,-70.9371262"
+    }
+  ],
+  "gas": [
+    {
+      "name": "RACING MART",
+      "distance": "0.7 mi",
+      "url": "https://www.google.com/maps/search/RACING%20MART+near+41.6477255%2C-70.94848189999999"
+    },
+    {
+      "name": "Gulf Resources",
+      "distance": "0.7 mi",
+      "url": "https://www.google.com/maps/search/Gulf%20Resources+near+41.6477255%2C-70.94848189999999"
+    },
+    {
+      "name": "Mobil",
+      "distance": "0.7 mi",
+      "url": "https://www.google.com/maps/search/Mobil+near+41.6477255%2C-70.94848189999999"
+    },
+    {
+      "name": "Gulf",
+      "distance": "0.8 mi",
+      "url": "https://www.google.com/maps/search/Gulf+near+41.6477255%2C-70.94848189999999"
+    }
+  ]
+}

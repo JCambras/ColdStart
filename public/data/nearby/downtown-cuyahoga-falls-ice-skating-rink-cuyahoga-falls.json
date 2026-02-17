@@ -1,0 +1,225 @@
+{
+  "quick_bite": [
+    {
+      "name": "Marco's Pizza",
+      "distance": "0.3 mi",
+      "url": "https://www.google.com/maps/search/Marco's%20Pizza+near+41.1342444%2C-81.48282139999999"
+    },
+    {
+      "name": "Cinemark Cuyahoga Falls and XD",
+      "distance": "1.7 mi",
+      "url": "https://www.google.com/maps/search/Cinemark%20Cuyahoga%20Falls%20and%20XD+near+41.1342444%2C-81.48282139999999"
+    }
+  ],
+  "coffee": [
+    {
+      "name": "Asterisk Coffee Bar",
+      "distance": "0.1 mi",
+      "url": "https://www.google.com/maps/search/Asterisk%20Coffee%20Bar+near+41.1342444%2C-81.48282139999999"
+    },
+    {
+      "name": "Yada Yada Coffee",
+      "distance": "0.2 mi",
+      "url": "https://www.google.com/maps/search/Yada%20Yada%20Coffee+near+41.1342444%2C-81.48282139999999"
+    },
+    {
+      "name": "Dunkin'",
+      "distance": "0.3 mi",
+      "url": "https://www.google.com/maps/search/Dunkin'+near+41.1342444%2C-81.48282139999999"
+    },
+    {
+      "name": "Clean Eatz",
+      "distance": "0.3 mi",
+      "url": "https://www.google.com/maps/search/Clean%20Eatz+near+41.1342444%2C-81.48282139999999"
+    }
+  ],
+  "team_lunch": [
+    {
+      "name": "The Jetty",
+      "distance": "0.1 mi",
+      "url": "https://www.google.com/maps/search/The%20Jetty+near+41.1342444%2C-81.48282139999999"
+    }
+  ],
+  "dinner": [
+    {
+      "name": "Crave On Front Street",
+      "distance": "0.1 mi",
+      "url": "https://www.google.com/maps/search/Crave%20On%20Front%20Street+near+41.1342444%2C-81.48282139999999"
+    },
+    {
+      "name": "Beau's on the River",
+      "distance": "0.1 mi",
+      "url": "https://www.google.com/maps/search/Beau's%20on%20the%20River+near+41.1342444%2C-81.48282139999999"
+    },
+    {
+      "name": "Flury's Cafe",
+      "distance": "0.2 mi",
+      "url": "https://www.google.com/maps/search/Flury's%20Cafe+near+41.1342444%2C-81.48282139999999"
+    },
+    {
+      "name": "Amelia's by The Farmer's Rail",
+      "distance": "0.2 mi",
+      "url": "https://www.google.com/maps/search/Amelia's%20by%20The%20Farmer's%20Rail+near+41.1342444%2C-81.48282139999999"
+    },
+    {
+      "name": "The Farmer's Rail Cuyahoga Falls",
+      "distance": "0.2 mi",
+      "url": "https://www.google.com/maps/search/The%20Farmer's%20Rail%20Cuyahoga%20Falls+near+41.1342444%2C-81.48282139999999"
+    },
+    {
+      "name": "The Kitchen on Front Street",
+      "distance": "0.2 mi",
+      "url": "https://www.google.com/maps/search/The%20Kitchen%20on%20Front%20Street+near+41.1342444%2C-81.48282139999999"
+    },
+    {
+      "name": "Burntwood Tavern",
+      "distance": "0.2 mi",
+      "url": "https://www.google.com/maps/search/Burntwood%20Tavern+near+41.1342444%2C-81.48282139999999"
+    }
+  ],
+  "bowling": [
+    {
+      "name": "THE WORKZ on the Riverfront",
+      "distance": "0.2 mi",
+      "url": "https://www.google.com/maps/search/THE%20WORKZ%20on%20the%20Riverfront+near+41.1342444%2C-81.48282139999999"
+    },
+    {
+      "name": "Station330",
+      "distance": "1.8 mi",
+      "url": "https://www.google.com/maps/search/Station330+near+41.1342444%2C-81.48282139999999"
+    },
+    {
+      "name": "Station300 Akron",
+      "distance": "1.8 mi",
+      "url": "https://www.google.com/maps/search/Station300%20Akron+near+41.1342444%2C-81.48282139999999"
+    },
+    {
+      "name": "Clutch Lanes & Sports Center",
+      "distance": "3.8 mi",
+      "url": "https://www.google.com/maps/search/Clutch%20Lanes%20%26%20Sports%20Center+near+41.1342444%2C-81.48282139999999",
+      "isFar": true
+    }
+  ],
+  "arcade": [],
+  "movies": [
+    {
+      "name": "The Nightlight",
+      "distance": "3.8 mi",
+      "url": "https://www.google.com/maps/search/The%20Nightlight+near+41.1342444%2C-81.48282139999999",
+      "isFar": true
+    },
+    {
+      "name": "Rubicon Cinema",
+      "distance": "3.9 mi",
+      "url": "https://www.google.com/maps/search/Rubicon%20Cinema+near+41.1342444%2C-81.48282139999999",
+      "isFar": true
+    },
+    {
+      "name": "Cabaret",
+      "distance": "4.0 mi",
+      "url": "https://www.google.com/maps/search/Cabaret+near+41.1342444%2C-81.48282139999999",
+      "isFar": true
+    },
+    {
+      "name": "Highland Square Theatre",
+      "distance": "4.1 mi",
+      "url": "https://www.google.com/maps/search/Highland%20Square%20Theatre+near+41.1342444%2C-81.48282139999999",
+      "isFar": true
+    },
+    {
+      "name": "Linda Theatre",
+      "distance": "4.3 mi",
+      "url": "https://www.google.com/maps/search/Linda%20Theatre+near+41.1342444%2C-81.48282139999999",
+      "isFar": true
+    }
+  ],
+  "fun": [
+    {
+      "name": "Get Air Trampoline Park",
+      "distance": "1.5 mi",
+      "url": "https://www.google.com/maps/search/Get%20Air%20Trampoline%20Park+near+41.1342444%2C-81.48282139999999"
+    },
+    {
+      "name": "Adventure Tots",
+      "distance": "3.6 mi",
+      "url": "https://www.google.com/maps/search/Adventure%20Tots+near+41.1342444%2C-81.48282139999999",
+      "isFar": true
+    },
+    {
+      "name": "Akron Break Room",
+      "distance": "3.7 mi",
+      "url": "https://www.google.com/maps/search/Akron%20Break%20Room+near+41.1342444%2C-81.48282139999999",
+      "isFar": true
+    },
+    {
+      "name": "The Great Escape Room Akron",
+      "distance": "4.5 mi",
+      "url": "https://www.google.com/maps/search/The%20Great%20Escape%20Room%20Akron+near+41.1342444%2C-81.48282139999999",
+      "isFar": true
+    }
+  ],
+  "hotels": [
+    {
+      "name": "Sheraton Suites Akron Cuyahoga Falls",
+      "distance": "0.1 mi",
+      "url": "https://www.google.com/maps/search/Sheraton%20Suites%20Akron%20Cuyahoga%20Falls+near+41.1342444%2C-81.48282139999999"
+    },
+    {
+      "name": "Historic 3 Bedroom House Close to Downtown Cuyahoga Falls",
+      "distance": "0.2 mi",
+      "url": "https://www.google.com/maps/search/Historic%203%20Bedroom%20House%20Close%20to%20Downtown%20Cuyahoga%20Falls+near+41.1342444%2C-81.48282139999999"
+    },
+    {
+      "name": "Cuyahoga Valley National Parks Home! Close to downtown Cuyahoga Falls!",
+      "distance": "0.2 mi",
+      "url": "https://www.google.com/maps/search/Cuyahoga%20Valley%20National%20Parks%20Home!%20Close%20to%20downtown%20Cuyahoga%20Falls!+near+41.1342444%2C-81.48282139999999"
+    },
+    {
+      "name": "7 Mi to Cuyahoga Valley NP: Walkable Apt!",
+      "distance": "0.3 mi",
+      "url": "https://www.google.com/maps/search/7%20Mi%20to%20Cuyahoga%20Valley%20NP%3A%20Walkable%20Apt!+near+41.1342444%2C-81.48282139999999"
+    },
+    {
+      "name": "Spacious 6-bedroom sleeps 10 downtown 2 blocks River dog-friendly",
+      "distance": "0.3 mi",
+      "url": "https://www.google.com/maps/search/Spacious%206-bedroom%20sleeps%2010%20downtown%202%20blocks%20River%20dog-friendly+near+41.1342444%2C-81.48282139999999"
+    },
+    {
+      "name": "Delightful 3-bedroom house in Cuyahoga Falls",
+      "distance": "0.3 mi",
+      "url": "https://www.google.com/maps/search/Delightful%203-bedroom%20house%20in%20Cuyahoga%20Falls+near+41.1342444%2C-81.48282139999999"
+    },
+    {
+      "name": "7 Mi to Cuyahoga Valley NP: Walkable Apt!",
+      "distance": "0.4 mi",
+      "url": "https://www.google.com/maps/search/7%20Mi%20to%20Cuyahoga%20Valley%20NP%3A%20Walkable%20Apt!+near+41.1342444%2C-81.48282139999999"
+    }
+  ],
+  "gas": [
+    {
+      "name": "Marathon",
+      "distance": "0.1 mi",
+      "url": "https://www.google.com/maps/search/Marathon+near+41.1342444%2C-81.48282139999999"
+    },
+    {
+      "name": "Circle K | Gas Station",
+      "distance": "0.2 mi",
+      "url": "https://www.google.com/maps/search/Circle%20K%20%7C%20Gas%20Station+near+41.1342444%2C-81.48282139999999"
+    },
+    {
+      "name": "Speedway",
+      "distance": "0.8 mi",
+      "url": "https://www.google.com/maps/search/Speedway+near+41.1342444%2C-81.48282139999999"
+    },
+    {
+      "name": "Circle K | Gas Station",
+      "distance": "0.8 mi",
+      "url": "https://www.google.com/maps/search/Circle%20K%20%7C%20Gas%20Station+near+41.1342444%2C-81.48282139999999"
+    },
+    {
+      "name": "Circle K | Gas Station",
+      "distance": "1.0 mi",
+      "url": "https://www.google.com/maps/search/Circle%20K%20%7C%20Gas%20Station+near+41.1342444%2C-81.48282139999999"
+    }
+  ]
+}

@@ -1,0 +1,174 @@
+{
+  "quick_bite": [
+    {
+      "name": "Chipotle Mexican Grill",
+      "distance": "0.2 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Chipotle%20Mexican%20Grill&query_place_id=ChIJkY_CD3VZwokR6tj9rYUloP0&center=40.732951500000006,-73.9809075"
+    },
+    {
+      "name": "New York Sal's Pizza II",
+      "distance": "0.2 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=New%20York%20Sal's%20Pizza%20II&query_place_id=ChIJF-oq_C9ZwokRj8Kcv-_aq3A&center=40.7295,-73.9787559"
+    },
+    {
+      "name": "Buhzj Treats",
+      "distance": "0.2 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Buhzj%20Treats&query_place_id=ChIJ2bUcgFFZwokR8GpJKn9lOxY&center=40.729259,-73.976891"
+    },
+    {
+      "name": "Popeyes Louisiana Kitchen",
+      "distance": "0.2 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Popeyes%20Louisiana%20Kitchen&query_place_id=ChIJp0NeZ11ZwokRaTmJkTpYbmQ&center=40.7303717,-73.9808094"
+    },
+    {
+      "name": "Burrata Basil Pizza",
+      "distance": "0.2 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Burrata%20Basil%20Pizza&query_place_id=ChIJATiUsIZZwokRV2MKA_392ug&center=40.7302353,-73.9807077"
+    }
+  ],
+  "coffee": [
+    {
+      "name": "Five Stuy Cafe",
+      "distance": "0.1 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Five%20Stuy%20Cafe&query_place_id=ChIJfeDhW3RZwokRjIgxvF8-ca8&center=40.7318826,-73.9788629"
+    },
+    {
+      "name": "Starbucks Coffee Company",
+      "distance": "0.2 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Starbucks%20Coffee%20Company&query_place_id=ChIJbX3moXVZwokR0GI1qfUCsDE&center=40.73323,-73.98080999999999"
+    },
+    {
+      "name": "KIJITORA E14th",
+      "distance": "0.2 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=KIJITORA%20E14th&query_place_id=ChIJiyUu4NpZwokRrlpJTSvIiRY&center=40.7295405,-73.978849"
+    },
+    {
+      "name": "Dunkin'",
+      "distance": "0.2 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Dunkin'&query_place_id=ChIJqZXso3ZZwokRIfI5ZLivPQU&center=40.729415499999995,-73.97849409999999"
+    },
+    {
+      "name": "Dunkin'",
+      "distance": "0.2 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Dunkin'&query_place_id=ChIJUb5wmXVZwokRRdkeA5brzzA&center=40.7322043,-73.98156449999999"
+    }
+  ],
+  "team_lunch": [
+    {
+      "name": "Playa Bowls",
+      "distance": "0.2 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Playa%20Bowls&query_place_id=ChIJt0VD7W1ZwokRSZj5i5BeC6w&center=40.7343903,-73.9797419"
+    },
+    {
+      "name": "Alexis Pudding",
+      "distance": "0.2 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Alexis%20Pudding&query_place_id=ChIJyz3qRRdZwokRiHWG-STIqzg&center=40.7345665,-73.9798064"
+    },
+    {
+      "name": "Gotta Getta Bagel",
+      "distance": "0.2 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Gotta%20Getta%20Bagel&query_place_id=ChIJh7FAm3VZwokRpgzVD2e_q4Q&center=40.732307999999996,-73.98209"
+    },
+    {
+      "name": "Itua Festus",
+      "distance": "0.2 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Itua%20Festus&query_place_id=ChIJH-0pBQBZwokRDy5TwmbLGDc&center=40.731085799999995,-73.9819217"
+    }
+  ],
+  "dinner": [
+    {
+      "name": "Ess-a-Bagel",
+      "distance": "0.2 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Ess-a-Bagel&query_place_id=ChIJw1tqJgtZwokRqQLff0JEDQU&center=40.7342604,-73.98004019999999"
+    },
+    {
+      "name": "Hibachi Express",
+      "distance": "0.2 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Hibachi%20Express&query_place_id=ChIJnQEqn3ZZwokRJCW8GLqu2PA&center=40.7295,-73.9787559"
+    },
+    {
+      "name": "Chopt Creative Salad Co.",
+      "distance": "0.2 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Chopt%20Creative%20Salad%20Co.&query_place_id=ChIJ37G-2pxZwokRiGdm3fEyQzQ&center=40.734493799999996,-73.979799"
+    },
+    {
+      "name": "SLOPEY JOE",
+      "distance": "0.2 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=SLOPEY%20JOE&query_place_id=ChIJfXqxGStZwokRT1xO_WKi4Hk&center=40.7300518,-73.98008420000001"
+    },
+    {
+      "name": "Dua Kafe",
+      "distance": "0.2 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Dua%20Kafe&query_place_id=ChIJp5s1rChZwokRfZ2gPYO9h3E&center=40.729668499999995,-73.97939869999999"
+    },
+    {
+      "name": "Hane",
+      "distance": "0.2 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Hane&query_place_id=ChIJq4cP1HRZwokRvklrlW28QGc&center=40.7346006,-73.97973379999999"
+    }
+  ],
+  "bowling": [],
+  "arcade": [],
+  "movies": [
+    {
+      "name": "Village East by Angelika",
+      "distance": "0.5 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Village%20East%20by%20Angelika&query_place_id=ChIJy_q2gZ5ZwokRrG27bv1NgtU&center=40.73095550000001,-73.98621170000001"
+    },
+    {
+      "name": "Liberty Theatres",
+      "distance": "0.5 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Liberty%20Theatres&query_place_id=ChIJS6GVgZ5ZwokRFBK3zWK19gI&center=40.730937499999996,-73.98622399999999"
+    },
+    {
+      "name": "Reading International/City Cinemas",
+      "distance": "0.5 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Reading%20International%2FCity%20Cinemas&query_place_id=ChIJU7e2gZ5ZwokR6QVgmKYcgVk&center=40.730937499999996,-73.98622399999999"
+    }
+  ],
+  "fun": [
+    {
+      "name": "Stuytown Oval Kids",
+      "distance": "0.1 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Stuytown%20Oval%20Kids&query_place_id=ChIJh_0IIABZwokRcww9T7TnTjI&center=40.731055399999995,-73.9770703"
+    },
+    {
+      "name": "Splash Pad",
+      "distance": "0.2 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Splash%20Pad&query_place_id=ChIJB1YcIABZwokRMtl9iw1-QDI&center=40.7305437,-73.97463499999999"
+    },
+    {
+      "name": "Beastie Boys Obey",
+      "distance": "0.2 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Beastie%20Boys%20Obey&query_place_id=ChIJz-TGur5ZwokRtApsf-rNilY&center=40.7304034,-73.980873"
+    },
+    {
+      "name": "Artistic Window Guards",
+      "distance": "0.2 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Artistic%20Window%20Guards&query_place_id=ChIJ5QEqDQBZwokRhCpHQcvOxIQ&center=40.728698,-73.9769859"
+    }
+  ],
+  "hotels": [],
+  "gas": [
+    {
+      "name": "bp",
+      "distance": "0.3 mi",
+      "url": "https://www.google.com/maps/search/bp+near+40.7321872%2C-73.9775332"
+    },
+    {
+      "name": "New York City Housing Authority General Services - Vehicle Repair",
+      "distance": "1.3 mi",
+      "url": "https://www.google.com/maps/search/New%20York%20City%20Housing%20Authority%20General%20Services%20-%20Vehicle%20Repair+near+40.7321872%2C-73.9775332"
+    },
+    {
+      "name": "HG Service Station",
+      "distance": "1.3 mi",
+      "url": "https://www.google.com/maps/search/HG%20Service%20Station+near+40.7321872%2C-73.9775332"
+    },
+    {
+      "name": "Sunoco - Brooklyn Terminal",
+      "distance": "1.4 mi",
+      "url": "https://www.google.com/maps/search/Sunoco%20-%20Brooklyn%20Terminal+near+40.7321872%2C-73.9775332"
+    }
+  ]
+}

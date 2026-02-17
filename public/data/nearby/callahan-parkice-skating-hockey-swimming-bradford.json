@@ -1,0 +1,191 @@
+{
+  "quick_bite": [
+    {
+      "name": "Pizza Napoli Bradford",
+      "distance": "0.4 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Pizza%20Napoli%20Bradford&query_place_id=ChIJmVqkmYd_zYkRRfKRo0bl-OI&center=41.956981,-78.65784699999999"
+    },
+    {
+      "name": "Little Caesars Pizza",
+      "distance": "0.5 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Little%20Caesars%20Pizza&query_place_id=ChIJzadxRyiAzYkRwzWPyD9DJNI&center=41.957603999999996,-78.656104"
+    },
+    {
+      "name": "KFC",
+      "distance": "0.5 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=KFC&query_place_id=ChIJ6cyebPGBzYkRD4yR10fkqWk&center=41.956949,-78.6565729"
+    },
+    {
+      "name": "A Slice Of The 80s",
+      "distance": "0.9 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=A%20Slice%20Of%20The%2080s&query_place_id=ChIJx8nc6C6AzYkRkhc7D5SUHeA&center=41.9551605,-78.6494132"
+    },
+    {
+      "name": "Arby's",
+      "distance": "1.0 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Arby's&query_place_id=ChIJi7BHojqAzYkRIHyJdlqV4RQ&center=41.958384099999996,-78.64442059999999"
+    },
+    {
+      "name": "Subway",
+      "distance": "1.1 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Subway&query_place_id=ChIJv2Czsy-AzYkRuoQGFcwDwl0&center=41.9579027,-78.64400010000001"
+    }
+  ],
+  "coffee": [
+    {
+      "name": "John Williams European Pastry Shop",
+      "distance": "0.7 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=John%20Williams%20European%20Pastry%20Shop&query_place_id=ChIJMZy90iiAzYkRrlfs2FjZIXE&center=41.9566142,-78.65115519999999"
+    },
+    {
+      "name": "Dunkin'",
+      "distance": "0.8 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Dunkin'&query_place_id=ChIJn9traHuBzYkRlDdld9CeTPY&center=41.9553659,-78.6516401"
+    },
+    {
+      "name": "Marilyn Horne Museum Cafe",
+      "distance": "0.8 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Marilyn%20Horne%20Museum%20Cafe&query_place_id=ChIJPZu-0i6AzYkRqw2ect_ADIY&center=41.955473500000004,-78.6511465"
+    },
+    {
+      "name": "Ground Work Coffee House",
+      "distance": "0.8 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Ground%20Work%20Coffee%20House&query_place_id=ChIJn-JRiSeBzYkRQEU3w47_bRU&center=41.955392499999995,-78.6498802"
+    },
+    {
+      "name": "The Magic Bean Cafe",
+      "distance": "0.9 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=The%20Magic%20Bean%20Cafe&query_place_id=ChIJPQJh1pqBzYkRxelAsivqFzk&center=41.956583699999996,-78.64748089999999"
+    }
+  ],
+  "team_lunch": [],
+  "dinner": [
+    {
+      "name": "Taco Inc Mexican Bar and Grille Bradford",
+      "distance": "0.8 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Taco%20Inc%20Mexican%20Bar%20and%20Grille%20Bradford&query_place_id=ChIJW3dsOFuBzYkReQglyDj5lvM&center=41.9559996,-78.6500854"
+    },
+    {
+      "name": "Kabob's at The Option House",
+      "distance": "0.8 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Kabob's%20at%20The%20Option%20House&query_place_id=ChIJC-mS1y6AzYkR_dB5AofqC_U&center=41.956296099999996,-78.649573"
+    },
+    {
+      "name": "Leo's Sub Shop",
+      "distance": "0.9 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Leo's%20Sub%20Shop&query_place_id=ChIJs6AMrC-AzYkR51KoOJ0QmCc&center=41.956027999999996,-78.6489512"
+    },
+    {
+      "name": "Beefeaters",
+      "distance": "0.9 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Beefeaters&query_place_id=ChIJNSll7C6AzYkRslxnPF_djdw&center=41.9549187,-78.64950859999999"
+    },
+    {
+      "name": "Great Wall",
+      "distance": "0.9 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Great%20Wall&query_place_id=ChIJU8R5si-AzYkRlflFp6KJRLo&center=41.95571100000001,-78.647674"
+    },
+    {
+      "name": "Viola's Pub",
+      "distance": "1.2 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Viola's%20Pub&query_place_id=ChIJP9KViz2BzYkRcrdjLancpIQ&center=41.954139999999995,-78.6437499"
+    }
+  ],
+  "bowling": [
+    {
+      "name": "Byllye Lanes",
+      "distance": "2.2 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Byllye%20Lanes&query_place_id=ChIJscnm3nOAzYkRAEpLN4G9GDk&center=41.9794845,-78.6280288"
+    },
+    {
+      "name": "Central Lanes and Crist Restaurant",
+      "distance": "14.1 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Central%20Lanes%20and%20Crist%20Restaurant&query_place_id=ChIJcyMAA2SI0okRqxvJsbbvilo&center=42.1634445,-78.6958465",
+      "isFar": true
+    },
+    {
+      "name": "Strikers Alley Incdgn",
+      "distance": "14.7 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Strikers%20Alley%20Incdgn&query_place_id=ChIJESE0DB2QzYkRRa9CfqxZxG8&center=41.81086,-78.4619945",
+      "isFar": true
+    }
+  ],
+  "arcade": [],
+  "movies": [
+    {
+      "name": "AMC Allegany 8",
+      "distance": "13.1 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=AMC%20Allegany%208&query_place_id=ChIJR2c5jIVw0okRLI5S85veu2s&center=42.0806318,-78.46587",
+      "isFar": true
+    }
+  ],
+  "fun": [
+    {
+      "name": "Zesty",
+      "distance": "2.7 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Zesty&query_place_id=ChIJtaPmGQCBzYkRCOJB5Yn32ZE&center=41.9769088,-78.6167917"
+    },
+    {
+      "name": "Madeline's Birders' Rest",
+      "distance": "4.2 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Madeline's%20Birders'%20Rest&query_place_id=ChIJ08Vz72d_zYkRyaM7AiBi2LY&center=41.951344,-78.7451107",
+      "isFar": true
+    },
+    {
+      "name": "TownOf Allegany",
+      "distance": "7.9 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=TownOf%20Allegany&query_place_id=ChIJ13jRmKR50okRdjjrQmHPNVY&center=42.0004086,-78.51941479999999",
+      "isFar": true
+    },
+    {
+      "name": "Quaker Pavillion",
+      "distance": "8.6 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Quaker%20Pavillion&query_place_id=ChIJgfAfZUiD0okRbLjHCkqqgY0&center=42.010649,-78.8180272",
+      "isFar": true
+    }
+  ],
+  "hotels": [
+    {
+      "name": "Home on a Hill",
+      "distance": "0.3 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Home%20on%20a%20Hill&query_place_id=ChIJe7svlIl_zYkRJZxOwrSeUtY&center=41.963077600000005,-78.65863039999999"
+    },
+    {
+      "name": "Home on a Hill",
+      "distance": "0.3 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Home%20on%20a%20Hill&query_place_id=ChIJUSculIl_zYkRnmJr-0XE3og&center=41.9630699,-78.6586228"
+    },
+    {
+      "name": "medical professional/short term rental",
+      "distance": "0.6 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=medical%20professional%2Fshort%20term%20rental&query_place_id=ChIJzWg8OCaAzYkR31g3LShtXvM&center=41.9598198,-78.6532898"
+    },
+    {
+      "name": "medical professional /short term rental",
+      "distance": "0.7 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=medical%20professional%20%2Fshort%20term%20rental&query_place_id=ChIJLYlmyCWAzYkR1L3CZw1fUsI&center=41.9602508,-78.6499481"
+    }
+  ],
+  "gas": [
+    {
+      "name": "COUNTRY FAIR",
+      "distance": "0.7 mi",
+      "url": "https://www.google.com/maps/search/COUNTRY%20FAIR+near+41.9612226%2C-78.66405870000001"
+    },
+    {
+      "name": "Citgo",
+      "distance": "0.7 mi",
+      "url": "https://www.google.com/maps/search/Citgo+near+41.9612226%2C-78.66405870000001"
+    },
+    {
+      "name": "Exxon",
+      "distance": "1.0 mi",
+      "url": "https://www.google.com/maps/search/Exxon+near+41.9612226%2C-78.66405870000001"
+    },
+    {
+      "name": "Tops",
+      "distance": "1.0 mi",
+      "url": "https://www.google.com/maps/search/Tops+near+41.9612226%2C-78.66405870000001"
+    }
+  ]
+}

@@ -1,0 +1,171 @@
+{
+  "quick_bite": [
+    {
+      "name": "Nathan's Famous",
+      "distance": "0.3 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Nathan's%20Famous&query_place_id=ChIJQQaDPzVEwokRwJfPzNzyNnI&center=40.5752667,-73.9814806"
+    },
+    {
+      "name": "White Castle",
+      "distance": "0.3 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=White%20Castle&query_place_id=ChIJ1yM8v_lFwokRTnfmwLRsvT8&center=40.5751481,-73.9809171"
+    },
+    {
+      "name": "Habibi Moroccan Halal Food & Smoothies",
+      "distance": "0.3 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Habibi%20Moroccan%20Halal%20Food%20%26%20Smoothies&query_place_id=ChIJB5tynHVFwokR7J782jZUREQ&center=40.5763671,-73.9812513"
+    },
+    {
+      "name": "Subway",
+      "distance": "0.3 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Subway&query_place_id=ChIJS86ov0pEwokRjX-3RpXqiz8&center=40.576352,-73.9812273"
+    },
+    {
+      "name": "Taco Bell Cantina Cantina",
+      "distance": "0.4 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Taco%20Bell%20Cantina%20Cantina&query_place_id=ChIJ-QC-HCJFwokRG4YV8agTpGk&center=40.5757984,-73.9794821"
+    },
+    {
+      "name": "Flywheel Eats",
+      "distance": "0.4 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Flywheel%20Eats&query_place_id=ChIJyxch7-FFwokRuPfURDb9S2Q&center=40.575282699999995,-73.97819670000001"
+    }
+  ],
+  "coffee": [
+    {
+      "name": "Dunkin' Donuts",
+      "distance": "0.3 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Dunkin'%20Donuts&query_place_id=ChIJdxEZbzVEwokRJx6JXRBpWwY&center=40.57596300000001,-73.981059"
+    },
+    {
+      "name": "Land-O-Fun",
+      "distance": "1.6 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Land-O-Fun&query_place_id=ChIJVf9kV11EwokRqKWYIyHCOM8&center=40.58417250000001,-73.95972359999999"
+    }
+  ],
+  "team_lunch": [
+    {
+      "name": "Al Cavallino Pizzeria",
+      "distance": "0.1 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Al%20Cavallino%20Pizzeria&query_place_id=ChIJ2dtISutFwokRH0ULv8T6KRQ&center=40.5730321,-73.9832325"
+    },
+    {
+      "name": "Surf Pizza & Wings halal",
+      "distance": "0.2 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Surf%20Pizza%20%26%20Wings%20halal&query_place_id=ChIJPRJEzJhFwokREzuvs65rBBg&center=40.5746113,-73.9882581"
+    },
+    {
+      "name": "Footprints Cafe",
+      "distance": "0.2 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Footprints%20Cafe&query_place_id=ChIJTUFvyspFwokR_o5rC-O9aJA&center=40.575661499999995,-73.9832303"
+    },
+    {
+      "name": "EMPANADAS JOE",
+      "distance": "0.2 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=EMPANADAS%20JOE&query_place_id=ChIJZUUlABJFwokR7SQrqWu2smo&center=40.57602,-73.98335290000001"
+    },
+    {
+      "name": "Salt & Sizzle",
+      "distance": "0.2 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Salt%20%26%20Sizzle&query_place_id=ChIJDws-Y8tFwokRnJ87FCfTq6Y&center=40.5731737,-73.9811366"
+    },
+    {
+      "name": "Papa Johns Pizza",
+      "distance": "0.3 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Papa%20Johns%20Pizza&query_place_id=ChIJhefkFbVFwokRVGfEBa1uM9I&center=40.5760011,-73.9887007"
+    }
+  ],
+  "dinner": [
+    {
+      "name": "Cyclone Bagels",
+      "distance": "0.1 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Cyclone%20Bagels&query_place_id=ChIJ16b8dZhFwokR0ospZSbQZO0&center=40.5745173,-73.9874341"
+    },
+    {
+      "name": "Shish kebab",
+      "distance": "0.3 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Shish%20kebab&query_place_id=ChIJuw_tWIlFwokRqGEQ3E49lyE&center=40.5753655,-73.98198660000001"
+    },
+    {
+      "name": "Milk & Honey Cafe",
+      "distance": "0.3 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Milk%20%26%20Honey%20Cafe&query_place_id=ChIJHQyU2spFwokRFgWByAnptQk&center=40.5760808,-73.9828476"
+    },
+    {
+      "name": "Pizza On The Run",
+      "distance": "0.3 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Pizza%20On%20The%20Run&query_place_id=ChIJxTbDmMpFwokR5jAGxxQwaDw&center=40.576836,-73.984608"
+    },
+    {
+      "name": "Donut Connection",
+      "distance": "0.3 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Donut%20Connection&query_place_id=ChIJA3apmMpFwokRt8iahWVLDZc&center=40.5768644,-73.9844837"
+    }
+  ],
+  "bowling": [
+    {
+      "name": "Bowl 360 Brooklyn",
+      "distance": "1.3 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Bowl%20360%20Brooklyn&query_place_id=ChIJSaZN_VBEwokRxYCLU1AOmC4&center=40.5890055,-73.9735905"
+    }
+  ],
+  "arcade": [],
+  "movies": [
+    {
+      "name": "4D Theater at NY Aquarium",
+      "distance": "0.5 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=4D%20Theater%20at%20NY%20Aquarium&query_place_id=ChIJC0toxmFFwokRYEoy4UmSJTI&center=40.573952399999996,-73.9765187"
+    },
+    {
+      "name": "Regal UA Sheepshead Bay",
+      "distance": "3.1 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Regal%20UA%20Sheepshead%20Bay&query_place_id=ChIJ8b-YZIFDwokRl0wGHqPnvOg&center=40.585964,-73.92951",
+      "isFar": true
+    }
+  ],
+  "fun": [
+    {
+      "name": "Coney Island",
+      "distance": "0.1 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Coney%20Island&query_place_id=ChIJk3CzP8VFwokRs3H8382p31U&center=40.572604,-73.98385019999999"
+    },
+    {
+      "name": "Leti’s Treasure",
+      "distance": "0.2 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Leti%E2%80%99s%20Treasure&query_place_id=ChIJIxOAKz5FwokRRifN5IgRWjA&center=40.573051,-73.9825049"
+    },
+    {
+      "name": "Brooklyn Half Marathon Finish",
+      "distance": "0.2 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Brooklyn%20Half%20Marathon%20Finish&query_place_id=ChIJQR_ZrtdFwokRuCehPRjpCYE&center=40.572983799999996,-73.9818317"
+    },
+    {
+      "name": "Scream Zone at Luna Park in Coney Island",
+      "distance": "0.3 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Scream%20Zone%20at%20Luna%20Park%20in%20Coney%20Island&query_place_id=ChIJX-Ps_jREwokRiOsrB0JnZTM&center=40.573257399999996,-73.9799728"
+    }
+  ],
+  "hotels": [],
+  "gas": [
+    {
+      "name": "Mobil",
+      "distance": "0.4 mi",
+      "url": "https://www.google.com/maps/search/Mobil+near+40.573055599999996%2C-73.9858333"
+    },
+    {
+      "name": "Speedway",
+      "distance": "0.4 mi",
+      "url": "https://www.google.com/maps/search/Speedway+near+40.573055599999996%2C-73.9858333"
+    },
+    {
+      "name": "Neptune Fuel Stop",
+      "distance": "0.4 mi",
+      "url": "https://www.google.com/maps/search/Neptune%20Fuel%20Stop+near+40.573055599999996%2C-73.9858333"
+    },
+    {
+      "name": "Shell",
+      "distance": "0.5 mi",
+      "url": "https://www.google.com/maps/search/Shell+near+40.573055599999996%2C-73.9858333"
+    }
+  ]
+}

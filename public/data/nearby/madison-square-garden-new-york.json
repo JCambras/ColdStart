@@ -1,0 +1,185 @@
+{
+  "quick_bite": [
+    {
+      "name": "Chick-fil-A",
+      "distance": "0.1 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Chick-fil-A&query_place_id=ChIJEWLHKwxZwokRFAotaI0A6tE&center=40.751293499999996,-73.99269629999999"
+    },
+    {
+      "name": "Raising Cane's Chicken Fingers",
+      "distance": "0.1 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Raising%20Cane's%20Chicken%20Fingers&query_place_id=ChIJ_-4-VcdZwokRaUIsCdExQco&center=40.7511423,-73.99246459999999"
+    },
+    {
+      "name": "R Slice Pizza",
+      "distance": "0.1 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=R%20Slice%20Pizza&query_place_id=ChIJ65H5eABZwokRi1pVbvaiwxY&center=40.7512714,-73.9921411"
+    },
+    {
+      "name": "Chick-fil-A",
+      "distance": "0.1 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Chick-fil-A&query_place_id=ChIJSTtsJL5ZwokRTky3HZ0--pE&center=40.7516266,-73.991419"
+    },
+    {
+      "name": "YONO Moynihan",
+      "distance": "0.1 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=YONO%20Moynihan&query_place_id=ChIJWxeVcz5ZwokR3NjYV2KA7AI&center=40.7516544,-73.9954915"
+    }
+  ],
+  "coffee": [
+    {
+      "name": "Dunkin'",
+      "distance": "0.1 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Dunkin'&query_place_id=ChIJ4VVf_LJZwokRJenYZQ6SvGQ&center=40.750562099999996,-73.99347089999999"
+    },
+    {
+      "name": "Starbucks",
+      "distance": "0.1 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Starbucks&query_place_id=ChIJAaStTQBZwokRobwBhpXRv3Y&center=40.75088650000001,-73.9929088"
+    },
+    {
+      "name": "Krispy Kreme",
+      "distance": "0.1 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Krispy%20Kreme&query_place_id=ChIJiag-Wq5ZwokR9x2Wlf7j7dc&center=40.7500357,-73.9924885"
+    },
+    {
+      "name": "Pret A Manger",
+      "distance": "0.1 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Pret%20A%20Manger&query_place_id=ChIJLWrUnsRZwokRXPfLKlqlhnQ&center=40.750071999999996,-73.992203"
+    },
+    {
+      "name": "Dunkin’ Donuts",
+      "distance": "0.1 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Dunkin%E2%80%99%20Donuts&query_place_id=ChIJ1frhZQBZwokR9PAWlRgiyMg&center=40.751087299999995,-73.9922431"
+    }
+  ],
+  "team_lunch": [
+    {
+      "name": "Penn Cafe & Eatery",
+      "distance": "0.1 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Penn%20Cafe%20%26%20Eatery&query_place_id=ChIJP_D1PehZwokRoVmwpUvw-ek&center=40.750568,-73.993519"
+    },
+    {
+      "name": "Don Pepi Deli",
+      "distance": "0.1 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Don%20Pepi%20Deli&query_place_id=ChIJiag-Wq5ZwokRF7-3vlvEWJQ&center=40.750075599999995,-73.99304000000001"
+    },
+    {
+      "name": "Pizzeria Dell'Orto",
+      "distance": "0.1 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Pizzeria%20Dell'Orto&query_place_id=ChIJmXMKO65ZwokRM1Zm7kvr93I&center=40.7500466,-73.99384959999999"
+    },
+    {
+      "name": "Le cafe Penn station",
+      "distance": "0.1 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Le%20cafe%20Penn%20station&query_place_id=ChIJF8PxFgBZwokR19gg76BVm9M&center=40.7513839,-73.99299049999999"
+    },
+    {
+      "name": "Auntie Anne's",
+      "distance": "0.1 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Auntie%20Anne's&query_place_id=ChIJc-dAJpFZwokRSY30c9e--SE&center=40.750479899999995,-73.99476640000002"
+    },
+    {
+      "name": "Zaro's Family Bakery",
+      "distance": "0.1 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Zaro's%20Family%20Bakery&query_place_id=ChIJ30krXK5ZwokRN_iwisXhHxI&center=40.7511894,-73.992175"
+    }
+  ],
+  "dinner": [
+    {
+      "name": "Club Bar & Grill",
+      "distance": "0.1 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Club%20Bar%20%26%20Grill&query_place_id=ChIJJXfoP65ZwokR7mj2Skb3LAs&center=40.750442899999996,-73.9929743"
+    },
+    {
+      "name": "Healthy At The Garden",
+      "distance": "0.1 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Healthy%20At%20The%20Garden&query_place_id=ChIJ6fQqOa5ZwokRrH2Mq4ukoAM&center=40.7500909,-73.9934823"
+    },
+    {
+      "name": "Garden Market",
+      "distance": "0.1 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Garden%20Market&query_place_id=ChIJLcNSI65ZwokR9kkzuSIdWGo&center=40.7505467,-73.9928812"
+    },
+    {
+      "name": "Daily Burger",
+      "distance": "0.1 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Daily%20Burger&query_place_id=ChIJEQSGba5ZwokR2INTZLf4y9A&center=40.7509292,-73.9930808"
+    },
+    {
+      "name": "Rose pizza",
+      "distance": "0.1 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Rose%20pizza&query_place_id=ChIJMZ-sEQBZwokRxVDVAsTv5OU&center=40.7509552,-73.9930084"
+    },
+    {
+      "name": "Nick + Stef's Steakhouse",
+      "distance": "0.1 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Nick%20%2B%20Stef's%20Steakhouse&query_place_id=ChIJ25nNcq5ZwokRRLkSWz8jL3U&center=40.7510502,-73.9932346"
+    }
+  ],
+  "bowling": [
+    {
+      "name": "Frames Bowling Lounge",
+      "distance": "0.5 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Frames%20Bowling%20Lounge&query_place_id=ChIJYa50uFJYwokRC7PY8Ir6uYY&center=40.757115999999996,-73.99315"
+    }
+  ],
+  "arcade": [],
+  "movies": [
+    {
+      "name": "AMC 34th Street 14",
+      "distance": "0.1 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=AMC%2034th%20Street%2014&query_place_id=ChIJd0z48K1ZwokR38rt39Sh3Hc&center=40.752374499999995,-73.9946707"
+    },
+    {
+      "name": "29 Street Repertory",
+      "distance": "0.2 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=29%20Street%20Repertory&query_place_id=ChIJLTp4wq9ZwokRdXfvIhM3kD4&center=40.7479903,-73.9937964"
+    },
+    {
+      "name": "Paul & Eslanda Robeson Cinema",
+      "distance": "0.3 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Paul%20%26%20Eslanda%20Robeson%20Cinema&query_place_id=ChIJ6cj9n_xZwokR1SmJAryfVvM&center=40.754456499999996,-73.9932668"
+    }
+  ],
+  "fun": [
+    {
+      "name": "Circle in the Square Theatre",
+      "distance": "0.1 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Circle%20in%20the%20Square%20Theatre&query_place_id=ChIJbTFlKwBZwokRIGkVKRm-Ld4&center=40.75016,-73.99526139999999"
+    },
+    {
+      "name": "Hudson River Rail Excursions",
+      "distance": "0.1 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Hudson%20River%20Rail%20Excursions&query_place_id=ChIJM6YH5jZZwokRqW3EEVxVsDo&center=40.750917099999995,-73.99539159999999"
+    },
+    {
+      "name": "Adventuroursny",
+      "distance": "0.1 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Adventuroursny&query_place_id=ChIJWwB7UAVZwokRn9WzYZV98Qs&center=40.749145899999995,-73.9916751"
+    },
+    {
+      "name": "The New Yorker hotel new york",
+      "distance": "0.2 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=The%20New%20Yorker%20hotel%20new%20york&query_place_id=ChIJzZNEdABZwokRYwFeGD47JnA&center=40.7526906,-73.99362099999999"
+    }
+  ],
+  "hotels": [],
+  "gas": [
+    {
+      "name": "Mobil",
+      "distance": "0.4 mi",
+      "url": "https://www.google.com/maps/search/Mobil+near+40.7505045%2C-73.9934387"
+    },
+    {
+      "name": "bp",
+      "distance": "1.4 mi",
+      "url": "https://www.google.com/maps/search/bp+near+40.7505045%2C-73.9934387"
+    },
+    {
+      "name": "Posto Ipiranga",
+      "distance": "1.7 mi",
+      "url": "https://www.google.com/maps/search/Posto%20Ipiranga+near+40.7505045%2C-73.9934387"
+    }
+  ]
+}

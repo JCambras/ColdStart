@@ -1,0 +1,185 @@
+{
+  "quick_bite": [
+    {
+      "name": "Modern Apartment Close to Park and Subway",
+      "distance": "0.3 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Modern%20Apartment%20Close%20to%20Park%20and%20Subway&query_place_id=ChIJw4g87D1bwokRd_kQxod-Y7Y&center=40.6530418,-73.9665298"
+    },
+    {
+      "name": "HYDRO Global",
+      "distance": "0.4 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=HYDRO%20Global&query_place_id=ChIJubpEFr1bwokRVj-gG13BpYQ&center=40.6530547,-73.9595439"
+    },
+    {
+      "name": "Wendy's",
+      "distance": "0.4 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Wendy's&query_place_id=ChIJu-DUghJbwokRLK0z8dgknvs&center=40.6629397,-73.9616985"
+    },
+    {
+      "name": "Sonic Drive-In",
+      "distance": "0.5 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Sonic%20Drive-In&query_place_id=ChIJZx1uhHVbwokRR0PkYVgC8E4&center=40.6635778,-73.96078299999999"
+    },
+    {
+      "name": "Lark by the Park",
+      "distance": "0.5 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Lark%20by%20the%20Park&query_place_id=ChIJ0S7X9TxbwokR-aTb9nFpYMo&center=40.6507188,-73.9684594"
+    },
+    {
+      "name": "Subway",
+      "distance": "0.5 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Subway&query_place_id=ChIJWdGZdj9bwokRHG73mAfGr_4&center=40.6503124,-73.9605074"
+    }
+  ],
+  "coffee": [
+    {
+      "name": "Edie Jo’s",
+      "distance": "0.2 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Edie%20Jo%E2%80%99s&query_place_id=ChIJPbxaKMtbwokR6MhWzaWGpfc&center=40.657914,-73.9605555"
+    },
+    {
+      "name": "Red Chaconia Cafe",
+      "distance": "0.2 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Red%20Chaconia%20Cafe&query_place_id=ChIJGXDWOgBbwokR83vUFIvphjQ&center=40.658311999999995,-73.96063"
+    },
+    {
+      "name": "Luo's Burgers | Flatbush",
+      "distance": "0.2 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Luo's%20Burgers%20%7C%20Flatbush&query_place_id=ChIJyd0AUuZbwokRrXvgbBjJSUc&center=40.6569893,-73.9603723"
+    },
+    {
+      "name": "Loud Baby Coffee Shop",
+      "distance": "0.2 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Loud%20Baby%20Coffee%20Shop&query_place_id=ChIJ0wrglpRbwokRVmd1RAnHb0A&center=40.6563684,-73.9603039"
+    },
+    {
+      "name": "BROOKLYN PERK Coffee",
+      "distance": "0.2 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=BROOKLYN%20PERK%20Coffee&query_place_id=ChIJ241qFchbwokRROiFMk2canc&center=40.658600899999996,-73.9603257"
+    }
+  ],
+  "team_lunch": [
+    {
+      "name": "Duck Island Café & Bar",
+      "distance": "0.1 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Duck%20Island%20Caf%C3%A9%20%26%20Bar&query_place_id=ChIJnwx0MR9bwokRTUN6NgAVqrM&center=40.656923,-73.9644533"
+    },
+    {
+      "name": "Momo Sushi",
+      "distance": "0.2 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Momo%20Sushi&query_place_id=ChIJlac2emFbwokRVv6A4pREVmE&center=40.657592799999996,-73.9606534"
+    },
+    {
+      "name": "Taquito Vegano",
+      "distance": "0.2 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Taquito%20Vegano&query_place_id=ChIJE2W8bwhbwokRsUcineaiVVc&center=40.6551213,-73.96161529999999"
+    },
+    {
+      "name": "Noodles House of 101",
+      "distance": "0.2 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Noodles%20House%20of%20101&query_place_id=ChIJcUDpWRNbwokRxLUu9nPYU7I&center=40.6581845,-73.9602919"
+    },
+    {
+      "name": "Hai Sun",
+      "distance": "0.2 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Hai%20Sun&query_place_id=ChIJw-XHqBRbwokR7_922xiFXuo&center=40.6575772,-73.9600679"
+    },
+    {
+      "name": "Cinnabon",
+      "distance": "0.3 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Cinnabon&query_place_id=ChIJzXONlmNbwokRg525Uq5DCW8&center=40.655582599999995,-73.9596148"
+    }
+  ],
+  "dinner": [
+    {
+      "name": "Jakarta Munch Prospect Park",
+      "distance": "0.1 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Jakarta%20Munch%20Prospect%20Park&query_place_id=ChIJp1bsO0xbwokRBbm0YcRkcDU&center=40.6587825,-73.9661856"
+    },
+    {
+      "name": "J & J Delicious Cakes",
+      "distance": "0.2 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=J%20%26%20J%20Delicious%20Cakes&query_place_id=ChIJBRifuxRbwokRD-bU6lHCnQ0&center=40.6571815,-73.9605129"
+    },
+    {
+      "name": "BLOSSOMING LOTUS CAKE SHOP",
+      "distance": "0.2 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=BLOSSOMING%20LOTUS%20CAKE%20SHOP&query_place_id=ChIJKaCOaxNbwokRC4S7yKmLoBM&center=40.6590451,-73.9612848"
+    },
+    {
+      "name": "Ouma Bakery and All Day Cafe",
+      "distance": "0.2 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Ouma%20Bakery%20and%20All%20Day%20Cafe&query_place_id=ChIJkeJvLQBbwokRcB9XybkjTkY&center=40.6568648,-73.9603911"
+    },
+    {
+      "name": "Taco azul... note: when it rains sometimes i dont open",
+      "distance": "0.2 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Taco%20azul...%20note%3A%20when%20it%20rains%20sometimes%20i%20dont%20open&query_place_id=ChIJeRtDemdbwokRUac-ZWyDJNM&center=40.655238399999995,-73.9614594"
+    }
+  ],
+  "bowling": [],
+  "arcade": [],
+  "movies": [
+    {
+      "name": "Nitehawk Cinema",
+      "distance": "0.9 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Nitehawk%20Cinema&query_place_id=ChIJR9uzk3pbwokRYObwHuNGtA8&center=40.6616346,-73.9798179"
+    },
+    {
+      "name": "Glowworm Events",
+      "distance": "1.3 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Glowworm%20Events&query_place_id=ChIJcQFRx6NbwokRNDU-cdTNVFk&center=40.6595778,-73.9883862"
+    },
+    {
+      "name": "Kent Theater",
+      "distance": "2.0 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Kent%20Theater&query_place_id=ChIJ0-X7ps5EwokRRW9eUOlOuLA&center=40.629062399999995,-73.9661428"
+    }
+  ],
+  "fun": [
+    {
+      "name": "Prospect Park Waterfall",
+      "distance": "0.3 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Prospect%20Park%20Waterfall&query_place_id=ChIJEaBSLFlbwokR6wUsyjuUCT0&center=40.661454299999995,-73.9663044"
+    },
+    {
+      "name": "Fallkill Falls",
+      "distance": "0.5 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Fallkill%20Falls&query_place_id=ChIJbQuxOIVbwokRzoVexY147zA&center=40.661838499999995,-73.97147509999999"
+    },
+    {
+      "name": "Discovery Kids",
+      "distance": "0.6 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Discovery%20Kids&query_place_id=ChIJM8TPYDlbwokRG4AUwAXWm0U&center=40.661687799999996,-73.95391459999999"
+    },
+    {
+      "name": "LeDanger",
+      "distance": "0.7 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=LeDanger&query_place_id=ChIJdUrkegBbwokROJ2vOBZbBqQ&center=40.6501987,-73.9724885"
+    }
+  ],
+  "hotels": [
+    {
+      "name": "parkside bed and breakfast brooklyn",
+      "distance": "0.1 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=parkside%20bed%20and%20breakfast%20brooklyn&query_place_id=ChIJ7WQSghRbwokRrjmJpy1E818&center=40.6581587,-73.96214619999999"
+    }
+  ],
+  "gas": [
+    {
+      "name": "bp",
+      "distance": "0.3 mi",
+      "url": "https://www.google.com/maps/search/bp+near+40.6572752%2C-73.96416110000001"
+    },
+    {
+      "name": "Shell",
+      "distance": "0.7 mi",
+      "url": "https://www.google.com/maps/search/Shell+near+40.6572752%2C-73.96416110000001"
+    },
+    {
+      "name": "Mobil",
+      "distance": "0.7 mi",
+      "url": "https://www.google.com/maps/search/Mobil+near+40.6572752%2C-73.96416110000001"
+    }
+  ]
+}

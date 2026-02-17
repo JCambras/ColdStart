@@ -1,0 +1,177 @@
+{
+  "quick_bite": [
+    {
+      "name": "Subway",
+      "distance": "0.3 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Subway&query_place_id=ChIJaYZEKuSw54kR-3tA61K4Qww&center=41.670057799999995,-72.8599377"
+    },
+    {
+      "name": "Little Red Grille",
+      "distance": "0.3 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Little%20Red%20Grille&query_place_id=ChIJByzzgAKx54kR38wkGofnUJg&center=41.6764532,-72.85129429999999"
+    },
+    {
+      "name": "Long John Silver's | Taco Bell",
+      "distance": "0.6 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Long%20John%20Silver's%20%7C%20Taco%20Bell&query_place_id=ChIJI71m4wOx54kROa67SkMyw0M&center=41.678053999999996,-72.8457174"
+    },
+    {
+      "name": "Taco Bell / Long John Silver's",
+      "distance": "0.6 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Taco%20Bell%20%2F%20Long%20John%20Silver's&query_place_id=ChIJI71m4wOx54kR9ENe8KylIVc&center=41.6780404,-72.845688"
+    },
+    {
+      "name": "Wendy's",
+      "distance": "0.6 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Wendy's&query_place_id=ChIJNRVb4wOx54kRQmuP1JM6j-U&center=41.6779904,-72.8447427"
+    },
+    {
+      "name": "Jersey Mike's Subs",
+      "distance": "0.9 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Jersey%20Mike's%20Subs&query_place_id=ChIJz5ubg6yx54kRaZ5x0xisbnU&center=41.674642999999996,-72.8377993"
+    }
+  ],
+  "coffee": [
+    {
+      "name": "Dunkin'",
+      "distance": "0.3 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Dunkin'&query_place_id=ChIJ5S-E8-Sw54kRv2InlIdLcro&center=41.6730301,-72.8595017"
+    },
+    {
+      "name": "Mozzicato DePasquale Bakery and Pastry Shop",
+      "distance": "0.4 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Mozzicato%20DePasquale%20Bakery%20and%20Pastry%20Shop&query_place_id=ChIJZ7o2eQKx54kRd-dZthYEOkk&center=41.6771665,-72.8504741"
+    },
+    {
+      "name": "Mei Tea",
+      "distance": "0.4 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Mei%20Tea&query_place_id=ChIJkUFpRuaw54kRTzD_8ojYECQ&center=41.6688474,-72.8615786"
+    },
+    {
+      "name": "Dunkin'",
+      "distance": "0.6 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Dunkin'&query_place_id=ChIJrbEF5AOx54kRaEitMOZoLiU&center=41.6782726,-72.8462289"
+    },
+    {
+      "name": "Kettle Bagels & GRILL #1 (Queen Street Location) Breakfast & Lunch & Dinner",
+      "distance": "1.8 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Kettle%20Bagels%20%26%20GRILL%20%231%20(Queen%20Street%20Location)%20Breakfast%20%26%20Lunch%20%26%20Dinner&query_place_id=ChIJK8NYbcuw54kR4qwlIzdcX8I&center=41.64982010000001,-72.8707381"
+    }
+  ],
+  "team_lunch": [
+    {
+      "name": "Lee's Garden Kitchen",
+      "distance": "0.3 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Lee's%20Garden%20Kitchen&query_place_id=ChIJj36QUPuw54kR1tg7-YNFbPM&center=41.675533699999995,-72.8583336"
+    },
+    {
+      "name": "Tong Sing Restaurant",
+      "distance": "0.4 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Tong%20Sing%20Restaurant&query_place_id=ChIJkfJJW-aw54kRCFM94yksI2I&center=41.6689157,-72.8615722"
+    },
+    {
+      "name": "Martin’s Famous Pastry Shoppe Inc",
+      "distance": "2.6 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Martin%E2%80%99s%20Famous%20Pastry%20Shoppe%20Inc&query_place_id=ChIJ1bsiyWS354kRvhqPvmDbV2U&center=41.645377499999995,-72.88990059999999"
+    }
+  ],
+  "dinner": [
+    {
+      "name": "Lola's Bistro & Grill",
+      "distance": "0.1 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Lola's%20Bistro%20%26%20Grill&query_place_id=ChIJjTJw_eKw54kR83G2TuXh2BQ&center=41.6716288,-72.8536398"
+    },
+    {
+      "name": "Fina’s Kitchen LLC",
+      "distance": "0.1 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Fina%E2%80%99s%20Kitchen%20LLC&query_place_id=ChIJ8UBfuOmw54kRGGr3zGZDjFI&center=41.6712032,-72.85508320000001"
+    },
+    {
+      "name": "Uncle Bob's Ham & Eggers",
+      "distance": "0.1 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Uncle%20Bob's%20Ham%20%26%20Eggers&query_place_id=ChIJw387suOw54kRICMsX33bcro&center=41.6712949,-72.8553855"
+    },
+    {
+      "name": "Blue Plate Tavern",
+      "distance": "0.1 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Blue%20Plate%20Tavern&query_place_id=ChIJm8dFTOKw54kRN1QKOCPody8&center=41.6708796,-72.8541097"
+    },
+    {
+      "name": "Sax Restaurant & Pizza",
+      "distance": "0.3 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Sax%20Restaurant%20%26%20Pizza&query_place_id=ChIJDXHaWeSw54kRMFrRfF5CPDM&center=41.6725687,-72.8595881"
+    },
+    {
+      "name": "Bright Light Diner",
+      "distance": "0.3 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Bright%20Light%20Diner&query_place_id=ChIJ1VCCcwCx54kRyuINGxIxdlI&center=41.6719582,-72.8602722"
+    }
+  ],
+  "bowling": [
+    {
+      "name": "Lessard Lanes",
+      "distance": "0.4 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Lessard%20Lanes&query_place_id=ChIJ85xFRgKx54kRM6v7PS17miY&center=41.6766662,-72.84931940000001"
+    },
+    {
+      "name": "Spare Time Bristol",
+      "distance": "4.5 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Spare%20Time%20Bristol&query_place_id=ChIJ6bswNE6654kRWg0dW8lWgWo&center=41.686447199999996,-72.9390426",
+      "isFar": true
+    }
+  ],
+  "arcade": [],
+  "movies": [
+    {
+      "name": "AMC Plainville 20",
+      "distance": "0.5 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=AMC%20Plainville%2020&query_place_id=ChIJRXCzPwSx54kRQoW7p9qiH18&center=41.6742602,-72.84505410000001"
+    }
+  ],
+  "fun": [
+    {
+      "name": "Paderewski Park Splash Pad",
+      "distance": "0.7 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Paderewski%20Park%20Splash%20Pad&query_place_id=ChIJ0Qv0IgCx54kRiDVD8M4UgjQ&center=41.6811526,-72.8495234"
+    },
+    {
+      "name": "April and Mark’s Cartoon Christmas Display",
+      "distance": "1.2 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=April%20and%20Mark%E2%80%99s%20Cartoon%20Christmas%20Display&query_place_id=ChIJOarZNwCx54kRj2PYvoBLdY4&center=41.6763476,-72.8766001"
+    },
+    {
+      "name": "Pine Lake Adventure Park",
+      "distance": "2.5 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Pine%20Lake%20Adventure%20Park&query_place_id=ChIJN6BrSGq754kRt3-3WrAlgeo&center=41.6655756,-72.9022356"
+    }
+  ],
+  "hotels": [
+    {
+      "name": "Advance Motel",
+      "distance": "0.3 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Advance%20Motel&query_place_id=ChIJ1SS1fgKx54kR4R4SDXi65uo&center=41.6764939,-72.85107670000001"
+    }
+  ],
+  "gas": [
+    {
+      "name": "Mobil",
+      "distance": "0.3 mi",
+      "url": "https://www.google.com/maps/search/Mobil+near+41.6723582%2C-72.8544452"
+    },
+    {
+      "name": "Citgo",
+      "distance": "0.5 mi",
+      "url": "https://www.google.com/maps/search/Citgo+near+41.6723582%2C-72.8544452"
+    },
+    {
+      "name": "XtraMart",
+      "distance": "0.6 mi",
+      "url": "https://www.google.com/maps/search/XtraMart+near+41.6723582%2C-72.8544452"
+    },
+    {
+      "name": "Exxon",
+      "distance": "0.6 mi",
+      "url": "https://www.google.com/maps/search/Exxon+near+41.6723582%2C-72.8544452"
+    }
+  ]
+}

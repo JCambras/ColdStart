@@ -1,0 +1,254 @@
+{
+  "quick_bite": [
+    {
+      "name": "White Castle",
+      "distance": "0.6 mi",
+      "url": "https://www.google.com/maps/search/White%20Castle+near+42.3619512%2C-83.346394"
+    },
+    {
+      "name": "Subway",
+      "distance": "0.6 mi",
+      "url": "https://www.google.com/maps/search/Subway+near+42.3619512%2C-83.346394"
+    },
+    {
+      "name": "Subway",
+      "distance": "0.6 mi",
+      "url": "https://www.google.com/maps/search/Subway+near+42.3619512%2C-83.346394"
+    },
+    {
+      "name": "Taco Bell",
+      "distance": "0.6 mi",
+      "url": "https://www.google.com/maps/search/Taco%20Bell+near+42.3619512%2C-83.346394"
+    },
+    {
+      "name": "Big Chicken",
+      "distance": "0.6 mi",
+      "url": "https://www.google.com/maps/search/Big%20Chicken+near+42.3619512%2C-83.346394"
+    }
+  ],
+  "coffee": [
+    {
+      "name": "Fattoush Village Cafe & Grill",
+      "distance": "0.5 mi",
+      "url": "https://www.google.com/maps/search/Fattoush%20Village%20Cafe%20%26%20Grill+near+42.3619512%2C-83.346394"
+    },
+    {
+      "name": "McDonald's",
+      "distance": "0.6 mi",
+      "url": "https://www.google.com/maps/search/McDonald's+near+42.3619512%2C-83.346394"
+    },
+    {
+      "name": "Haraz Coffee House",
+      "distance": "0.6 mi",
+      "url": "https://www.google.com/maps/search/Haraz%20Coffee%20House+near+42.3619512%2C-83.346394"
+    },
+    {
+      "name": "Starbucks Coffee Company",
+      "distance": "0.7 mi",
+      "url": "https://www.google.com/maps/search/Starbucks%20Coffee%20Company+near+42.3619512%2C-83.346394"
+    }
+  ],
+  "team_lunch": [
+    {
+      "name": "Sports Locker Bar & Grill",
+      "distance": "0.5 mi",
+      "url": "https://www.google.com/maps/search/Sports%20Locker%20Bar%20%26%20Grill+near+42.3619512%2C-83.346394"
+    },
+    {
+      "name": "Walmart Bakery",
+      "distance": "0.6 mi",
+      "url": "https://www.google.com/maps/search/Walmart%20Bakery+near+42.3619512%2C-83.346394"
+    },
+    {
+      "name": "Red Lobster",
+      "distance": "0.7 mi",
+      "url": "https://www.google.com/maps/search/Red%20Lobster+near+42.3619512%2C-83.346394"
+    }
+  ],
+  "dinner": [
+    {
+      "name": "Beirut Vibes Restaurant",
+      "distance": "0.5 mi",
+      "url": "https://www.google.com/maps/search/Beirut%20Vibes%20Restaurant+near+42.3619512%2C-83.346394"
+    },
+    {
+      "name": "Toarmina's Pizza",
+      "distance": "0.5 mi",
+      "url": "https://www.google.com/maps/search/Toarmina's%20Pizza+near+42.3619512%2C-83.346394"
+    },
+    {
+      "name": "Daly Drive-In",
+      "distance": "0.6 mi",
+      "url": "https://www.google.com/maps/search/Daly%20Drive-In+near+42.3619512%2C-83.346394"
+    },
+    {
+      "name": "J9 Cookie Design Studio",
+      "distance": "0.6 mi",
+      "url": "https://www.google.com/maps/search/J9%20Cookie%20Design%20Studio+near+42.3619512%2C-83.346394"
+    },
+    {
+      "name": "Luigi's Trattoria Pizzeria",
+      "distance": "0.6 mi",
+      "url": "https://www.google.com/maps/search/Luigi's%20Trattoria%20Pizzeria+near+42.3619512%2C-83.346394"
+    },
+    {
+      "name": "Benny's Pizza",
+      "distance": "0.7 mi",
+      "url": "https://www.google.com/maps/search/Benny's%20Pizza+near+42.3619512%2C-83.346394"
+    },
+    {
+      "name": "Antonio's Piccolo Ristorante",
+      "distance": "0.7 mi",
+      "url": "https://www.google.com/maps/search/Antonio's%20Piccolo%20Ristorante+near+42.3619512%2C-83.346394"
+    }
+  ],
+  "bowling": [
+    {
+      "name": "Oak Lanes",
+      "distance": "1.1 mi",
+      "url": "https://www.google.com/maps/search/Oak%20Lanes+near+42.3619512%2C-83.346394"
+    },
+    {
+      "name": "Woodland Lanes",
+      "distance": "1.6 mi",
+      "url": "https://www.google.com/maps/search/Woodland%20Lanes+near+42.3619512%2C-83.346394"
+    },
+    {
+      "name": "Mayflower Lanes",
+      "distance": "2.2 mi",
+      "url": "https://www.google.com/maps/search/Mayflower%20Lanes+near+42.3619512%2C-83.346394"
+    },
+    {
+      "name": "Merri-Bowl Lanes",
+      "distance": "2.6 mi",
+      "url": "https://www.google.com/maps/search/Merri-Bowl%20Lanes+near+42.3619512%2C-83.346394"
+    },
+    {
+      "name": "Westland Bowl",
+      "distance": "3.2 mi",
+      "url": "https://www.google.com/maps/search/Westland%20Bowl+near+42.3619512%2C-83.346394",
+      "isFar": true
+    },
+    {
+      "name": "Western Wayne County Usbc Association",
+      "distance": "3.3 mi",
+      "url": "https://www.google.com/maps/search/Western%20Wayne%20County%20Usbc%20Association+near+42.3619512%2C-83.346394",
+      "isFar": true
+    },
+    {
+      "name": "Hamtramck Singles Classic",
+      "distance": "4.4 mi",
+      "url": "https://www.google.com/maps/search/Hamtramck%20Singles%20Classic+near+42.3619512%2C-83.346394",
+      "isFar": true
+    }
+  ],
+  "arcade": [],
+  "movies": [
+    {
+      "name": "MJR Westland Grand Cinema 16",
+      "distance": "2.7 mi",
+      "url": "https://www.google.com/maps/search/MJR%20Westland%20Grand%20Cinema%2016+near+42.3619512%2C-83.346394"
+    }
+  ],
+  "fun": [
+    {
+      "name": "Bounce It Up",
+      "distance": "0.7 mi",
+      "url": "https://www.google.com/maps/search/Bounce%20It%20Up+near+42.3619512%2C-83.346394"
+    },
+    {
+      "name": "Urban Air Trampoline and Adventure Park",
+      "distance": "0.7 mi",
+      "url": "https://www.google.com/maps/search/Urban%20Air%20Trampoline%20and%20Adventure%20Park+near+42.3619512%2C-83.346394"
+    },
+    {
+      "name": "Yoyo's Fun Center",
+      "distance": "1.3 mi",
+      "url": "https://www.google.com/maps/search/Yoyo's%20Fun%20Center+near+42.3619512%2C-83.346394"
+    },
+    {
+      "name": "Fun ZoneZ",
+      "distance": "1.8 mi",
+      "url": "https://www.google.com/maps/search/Fun%20ZoneZ+near+42.3619512%2C-83.346394"
+    },
+    {
+      "name": "Handy Park Spray Pad",
+      "distance": "2.3 mi",
+      "url": "https://www.google.com/maps/search/Handy%20Park%20Spray%20Pad+near+42.3619512%2C-83.346394"
+    },
+    {
+      "name": "Knockerball Michigan",
+      "distance": "2.4 mi",
+      "url": "https://www.google.com/maps/search/Knockerball%20Michigan+near+42.3619512%2C-83.346394"
+    },
+    {
+      "name": "Fun 4 Us Entertainment",
+      "distance": "2.6 mi",
+      "url": "https://www.google.com/maps/search/Fun%204%20Us%20Entertainment+near+42.3619512%2C-83.346394"
+    }
+  ],
+  "hotels": [
+    {
+      "name": "Quality Inn & Suites Banquet Center",
+      "distance": "0.5 mi",
+      "url": "https://www.google.com/maps/search/Quality%20Inn%20%26%20Suites%20Banquet%20Center+near+42.3619512%2C-83.346394"
+    },
+    {
+      "name": "HomeTowne Studios Detroit - Livonia",
+      "distance": "1.0 mi",
+      "url": "https://www.google.com/maps/search/HomeTowne%20Studios%20Detroit%20-%20Livonia+near+42.3619512%2C-83.346394"
+    },
+    {
+      "name": "Big Trees Mobile Home Community",
+      "distance": "1.4 mi",
+      "url": "https://www.google.com/maps/search/Big%20Trees%20Mobile%20Home%20Community+near+42.3619512%2C-83.346394"
+    },
+    {
+      "name": "Plymouth Motel",
+      "distance": "1.5 mi",
+      "url": "https://www.google.com/maps/search/Plymouth%20Motel+near+42.3619512%2C-83.346394"
+    },
+    {
+      "name": "The Royal Motor Inn",
+      "distance": "1.6 mi",
+      "url": "https://www.google.com/maps/search/The%20Royal%20Motor%20Inn+near+42.3619512%2C-83.346394"
+    },
+    {
+      "name": "The Dog Lovers",
+      "distance": "1.6 mi",
+      "url": "https://www.google.com/maps/search/The%20Dog%20Lovers+near+42.3619512%2C-83.346394"
+    },
+    {
+      "name": "Wingate by Wyndham Livonia",
+      "distance": "1.8 mi",
+      "url": "https://www.google.com/maps/search/Wingate%20by%20Wyndham%20Livonia+near+42.3619512%2C-83.346394"
+    }
+  ],
+  "gas": [
+    {
+      "name": "Shell",
+      "distance": "0.5 mi",
+      "url": "https://www.google.com/maps/search/Shell+near+42.3619512%2C-83.346394"
+    },
+    {
+      "name": "bp",
+      "distance": "0.6 mi",
+      "url": "https://www.google.com/maps/search/bp+near+42.3619512%2C-83.346394"
+    },
+    {
+      "name": "M 09 Fuels",
+      "distance": "0.6 mi",
+      "url": "https://www.google.com/maps/search/M%2009%20Fuels+near+42.3619512%2C-83.346394"
+    },
+    {
+      "name": "Exxon",
+      "distance": "0.9 mi",
+      "url": "https://www.google.com/maps/search/Exxon+near+42.3619512%2C-83.346394"
+    },
+    {
+      "name": "Shell",
+      "distance": "1.1 mi",
+      "url": "https://www.google.com/maps/search/Shell+near+42.3619512%2C-83.346394"
+    }
+  ]
+}

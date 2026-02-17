@@ -1,0 +1,207 @@
+{
+  "quick_bite": [
+    {
+      "name": "Taco Bell",
+      "distance": "0.2 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Taco%20Bell&query_place_id=ChIJVU38gs0P04kRuLRQwAUapBE&center=42.832392899999995,-78.7531956"
+    },
+    {
+      "name": "Subway",
+      "distance": "0.4 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Subway&query_place_id=ChIJBQPMp84O04kRAGi5wMFYhz8&center=42.8283493,-78.75557549999999"
+    },
+    {
+      "name": "Just Pizza",
+      "distance": "0.5 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Just%20Pizza&query_place_id=ChIJG_yWGbMO04kRlXW7OLNRDdQ&center=42.8392686,-78.7500733"
+    },
+    {
+      "name": "Ultima Taco",
+      "distance": "0.5 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Ultima%20Taco&query_place_id=ChIJX3GZsYkO04kR1kMFXq7gUd8&center=42.8394507,-78.7640595"
+    },
+    {
+      "name": "Wendy's",
+      "distance": "1.1 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Wendy's&query_place_id=ChIJCY09xe4O04kRJ026--0I-Ks&center=42.829084800000004,-78.777039"
+    }
+  ],
+  "coffee": [
+    {
+      "name": "Spot Coffee Express Cafe",
+      "distance": "0.1 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Spot%20Coffee%20Express%20Cafe&query_place_id=ChIJI3RgoMsP04kR9anILI6k3Z0&center=42.8353262,-78.754479"
+    },
+    {
+      "name": "Dunkin'",
+      "distance": "0.3 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Dunkin'&query_place_id=ChIJsfr5hskO04kRzCJyg4GOFWI&center=42.831251599999995,-78.7531796"
+    },
+    {
+      "name": "CrocSplash",
+      "distance": "0.4 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=CrocSplash&query_place_id=ChIJJQUQ5dcP04kRlIxBl8BdrJs&center=42.8370666,-78.7503685"
+    },
+    {
+      "name": "Tim Hortons",
+      "distance": "0.5 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Tim%20Hortons&query_place_id=ChIJ6emUg7EO04kRKySp6FiXXKQ&center=42.840764899999996,-78.75379"
+    },
+    {
+      "name": "Paula's Donuts",
+      "distance": "0.6 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Paula's%20Donuts&query_place_id=ChIJlwz7gc4O04kR4SYIr_f9E4o&center=42.8259498,-78.75397339999999"
+    }
+  ],
+  "team_lunch": [
+    {
+      "name": "LT's Pizza And Subs",
+      "distance": "0.2 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=LT's%20Pizza%20And%20Subs&query_place_id=ChIJTUFdzrUO04kRIVvekY0fs_8&center=42.835786299999995,-78.7534088"
+    },
+    {
+      "name": "Jim's Steakout",
+      "distance": "0.3 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Jim's%20Steakout&query_place_id=ChIJtROqDskO04kRQtzahlAKS04&center=42.830495,-78.75498"
+    },
+    {
+      "name": "Applebee's Grill + Bar",
+      "distance": "0.4 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Applebee's%20Grill%20%2B%20Bar&query_place_id=ChIJ49n8tM4O04kRbWn22JxM-C0&center=42.828277,-78.7544739"
+    },
+    {
+      "name": "Legacy Sports Bar & Papa’s Pizza Oven",
+      "distance": "0.6 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Legacy%20Sports%20Bar%20%26%20Papa%E2%80%99s%20Pizza%20Oven&query_place_id=ChIJQb9PBwAP04kRKCSGUje0jGI&center=42.8419902,-78.7537755"
+    },
+    {
+      "name": "Food Service",
+      "distance": "1.2 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Food%20Service&query_place_id=ChIJo0mEQAAP04kRVfIYUs-9e2k&center=42.847448,-78.7729689"
+    }
+  ],
+  "dinner": [
+    {
+      "name": "Asian Star Restaurant",
+      "distance": "0.3 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Asian%20Star%20Restaurant&query_place_id=ChIJxw92LcoO04kRHaZTPZ7VW7Y&center=42.830804,-78.75265"
+    },
+    {
+      "name": "Schwabl's",
+      "distance": "0.4 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Schwabl's&query_place_id=ChIJnd4jYLEO04kRMJ_zLNTpqe8&center=42.839261199999996,-78.7534537"
+    },
+    {
+      "name": "Christe's Restaurant",
+      "distance": "0.4 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Christe's%20Restaurant&query_place_id=ChIJ2WzUVMkO04kRFF48EIrlR3w&center=42.828651699999995,-78.7544873"
+    },
+    {
+      "name": "Pasquale's Italian Restaurant West Seneca",
+      "distance": "0.5 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Pasquale's%20Italian%20Restaurant%20West%20Seneca&query_place_id=ChIJ61zYVsEO04kRFhjtMcizM8U&center=42.8297137,-78.7651475"
+    },
+    {
+      "name": "Eileen's Centerview Bakery",
+      "distance": "0.6 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Eileen's%20Centerview%20Bakery&query_place_id=ChIJHzUsBbwO04kRSatV0AM8fH4&center=42.839162099999996,-78.7653797"
+    },
+    {
+      "name": "Ebenezer Ale House",
+      "distance": "0.7 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Ebenezer%20Ale%20House&query_place_id=ChIJJz8nG0oJ04kRcO4n8078wY8&center=42.8325762,-78.74242029999999"
+    }
+  ],
+  "bowling": [
+    {
+      "name": "Wimbledon Bowling Lanes",
+      "distance": "0.9 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Wimbledon%20Bowling%20Lanes&query_place_id=ChIJYcvSfZYO04kRs0x_X64TyOQ&center=42.8397454,-78.77369329999999"
+    },
+    {
+      "name": "Sunset Lanes",
+      "distance": "2.3 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Sunset%20Lanes&query_place_id=ChIJdXtxqBYM04kRCChywWBzE1g&center=42.8671613,-78.765084"
+    },
+    {
+      "name": "Abbott Lanes",
+      "distance": "2.6 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Abbott%20Lanes&query_place_id=ChIJ44MRPqwP04kRMQ3APeR083k&center=42.8147926,-78.7996063"
+    }
+  ],
+  "arcade": [],
+  "movies": [
+    {
+      "name": "Regal Quaker Crossing",
+      "distance": "3.4 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Regal%20Quaker%20Crossing&query_place_id=ChIJJ0EpPnEP04kRYdFywt7qkUI&center=42.7912872,-78.7875116",
+      "isFar": true
+    },
+    {
+      "name": "FLIX STADIUM 10",
+      "distance": "4.4 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=FLIX%20STADIUM%2010&query_place_id=ChIJw17yIVIK04kRBcPmML7vysU&center=42.878146099999995,-78.69403679999999",
+      "isFar": true
+    },
+    {
+      "name": "Ismail",
+      "distance": "4.8 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Ismail&query_place_id=ChIJaYL90YMR04kRENC3bHq6z4U&center=42.816961299999996,-78.8477438",
+      "isFar": true
+    }
+  ],
+  "fun": [
+    {
+      "name": "Dragons Lair Play Place",
+      "distance": "4.2 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Dragons%20Lair%20Play%20Place&query_place_id=ChIJvZrLVl4P04kRS39ma_4w0NU&center=42.787871599999995,-78.81019210000001",
+      "isFar": true
+    },
+    {
+      "name": "Blasdell Splash Pad",
+      "distance": "4.4 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Blasdell%20Splash%20Pad&query_place_id=ChIJo_gsQOYP04kR5JOrKQQKjL0&center=42.798341699999995,-78.82890479999999",
+      "isFar": true
+    },
+    {
+      "name": "Blasdell books",
+      "distance": "4.4 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Blasdell%20books&query_place_id=ChIJ641sz9wP04kRxT1saIJfhvM&center=42.795609299999995,-78.82678229999999",
+      "isFar": true
+    }
+  ],
+  "hotels": [
+    {
+      "name": "Wolters Estates",
+      "distance": "0.2 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Wolters%20Estates&query_place_id=ChIJPY-oHDsP04kR9SE5Prc75vY&center=42.8358977,-78.7538895"
+    },
+    {
+      "name": "Omnipoint Management Solutions LLC",
+      "distance": "0.3 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Omnipoint%20Management%20Solutions%20LLC&query_place_id=ChIJ45c_zQgM04kRmhPiPWZC4P4&center=42.8303041,-78.7535837"
+    },
+    {
+      "name": "Hampton Inn Buffalo South/I-90",
+      "distance": "1.7 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Hampton%20Inn%20Buffalo%20South%2FI-90&query_place_id=ChIJgRCwtBpbaIYR6xhwekCokhs&center=42.8298838,-78.78885"
+    }
+  ],
+  "gas": [
+    {
+      "name": "Sunoco",
+      "distance": "0.3 mi",
+      "url": "https://www.google.com/maps/search/Sunoco+near+42.8342923%2C-78.7567419"
+    },
+    {
+      "name": "STOP AND GAS",
+      "distance": "0.4 mi",
+      "url": "https://www.google.com/maps/search/STOP%20AND%20GAS+near+42.8342923%2C-78.7567419"
+    },
+    {
+      "name": "Mobil",
+      "distance": "1.1 mi",
+      "url": "https://www.google.com/maps/search/Mobil+near+42.8342923%2C-78.7567419"
+    }
+  ]
+}

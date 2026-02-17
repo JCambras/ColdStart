@@ -1,0 +1,142 @@
+{
+  "quick_bite": [
+    {
+      "name": "Wendy's",
+      "distance": "0.1 mi",
+      "url": "https://www.google.com/maps/search/Wendy's+near+38.4294328%2C-78.8825775"
+    },
+    {
+      "name": "Thai Phanom",
+      "distance": "0.3 mi",
+      "url": "https://www.google.com/maps/search/Thai%20Phanom+near+38.4294328%2C-78.8825775"
+    },
+    {
+      "name": "Subway",
+      "distance": "0.7 mi",
+      "url": "https://www.google.com/maps/search/Subway+near+38.4294328%2C-78.8825775"
+    },
+    {
+      "name": "Brother's Pizza, Pasta, & Subs",
+      "distance": "0.7 mi",
+      "url": "https://www.google.com/maps/search/Brother's%20Pizza%2C%20Pasta%2C%20%26%20Subs+near+38.4294328%2C-78.8825775"
+    }
+  ],
+  "coffee": [
+    {
+      "name": "Starbucks Coffee Company",
+      "distance": "0.3 mi",
+      "url": "https://www.google.com/maps/search/Starbucks%20Coffee%20Company+near+38.4294328%2C-78.8825775"
+    },
+    {
+      "name": "Starbucks",
+      "distance": "0.5 mi",
+      "url": "https://www.google.com/maps/search/Starbucks+near+38.4294328%2C-78.8825775"
+    },
+    {
+      "name": "Greens & Grains Cafe",
+      "distance": "0.6 mi",
+      "url": "https://www.google.com/maps/search/Greens%20%26%20Grains%20Cafe+near+38.4294328%2C-78.8825775"
+    }
+  ],
+  "team_lunch": [
+    {
+      "name": "Artisan Taste Noodles & Dumplings",
+      "distance": "0.7 mi",
+      "url": "https://www.google.com/maps/search/Artisan%20Taste%20Noodles%20%26%20Dumplings+near+38.4294328%2C-78.8825775"
+    }
+  ],
+  "dinner": [
+    {
+      "name": "El Charro -South Main",
+      "distance": "0.1 mi",
+      "url": "https://www.google.com/maps/search/El%20Charro%20-South%20Main+near+38.4294328%2C-78.8825775"
+    },
+    {
+      "name": "Grilled Cheese Mania",
+      "distance": "0.2 mi",
+      "url": "https://www.google.com/maps/search/Grilled%20Cheese%20Mania+near+38.4294328%2C-78.8825775"
+    },
+    {
+      "name": "Little Italy Pizza",
+      "distance": "0.2 mi",
+      "url": "https://www.google.com/maps/search/Little%20Italy%20Pizza+near+38.4294328%2C-78.8825775"
+    },
+    {
+      "name": "Babylon",
+      "distance": "0.3 mi",
+      "url": "https://www.google.com/maps/search/Babylon+near+38.4294328%2C-78.8825775"
+    },
+    {
+      "name": "Pasha Rest & Cafe",
+      "distance": "0.4 mi",
+      "url": "https://www.google.com/maps/search/Pasha%20Rest%20%26%20Cafe+near+38.4294328%2C-78.8825775"
+    },
+    {
+      "name": "Mi Placita",
+      "distance": "0.4 mi",
+      "url": "https://www.google.com/maps/search/Mi%20Placita+near+38.4294328%2C-78.8825775"
+    }
+  ],
+  "bowling": [
+    {
+      "name": "Interstate Bowl North",
+      "distance": "1.7 mi",
+      "url": "https://www.google.com/maps/search/Interstate%20Bowl%20North+near+38.4294328%2C-78.8825775"
+    }
+  ],
+  "arcade": [],
+  "movies": [
+    {
+      "name": "Regal Harrisonburg",
+      "distance": "1.6 mi",
+      "url": "https://www.google.com/maps/search/Regal%20Harrisonburg+near+38.4294328%2C-78.8825775"
+    }
+  ],
+  "fun": [
+    {
+      "name": "Escapism Escape Rooms",
+      "distance": "1.5 mi",
+      "url": "https://www.google.com/maps/search/Escapism%20Escape%20Rooms+near+38.4294328%2C-78.8825775"
+    },
+    {
+      "name": "Ralph Sampson Park Spraygrounds",
+      "distance": "2.2 mi",
+      "url": "https://www.google.com/maps/search/Ralph%20Sampson%20Park%20Spraygrounds+near+38.4294328%2C-78.8825775"
+    },
+    {
+      "name": "Valley Jump Park",
+      "distance": "4.4 mi",
+      "url": "https://www.google.com/maps/search/Valley%20Jump%20Park+near+38.4294328%2C-78.8825775",
+      "isFar": true
+    }
+  ],
+  "hotels": [
+    {
+      "name": "Harrisonburg Hidden Gem Across from JMU & Hotspots",
+      "distance": "0.4 mi",
+      "url": "https://www.google.com/maps/search/Harrisonburg%20Hidden%20Gem%20Across%20from%20JMU%20%26%20Hotspots+near+38.4294328%2C-78.8825775"
+    }
+  ],
+  "gas": [
+    {
+      "name": "Liberty",
+      "distance": "0.1 mi",
+      "url": "https://www.google.com/maps/search/Liberty+near+38.4294328%2C-78.8825775"
+    },
+    {
+      "name": "Speedway",
+      "distance": "0.2 mi",
+      "url": "https://www.google.com/maps/search/Speedway+near+38.4294328%2C-78.8825775"
+    },
+    {
+      "name": "Exxon",
+      "distance": "0.4 mi",
+      "url": "https://www.google.com/maps/search/Exxon+near+38.4294328%2C-78.8825775"
+    },
+    {
+      "name": "Royal",
+      "distance": "0.5 mi",
+      "url": "https://www.google.com/maps/search/Royal+near+38.4294328%2C-78.8825775"
+    }
+  ]
+}

@@ -1,0 +1,227 @@
+{
+  "quick_bite": [
+    {
+      "name": "Subway",
+      "distance": "0.1 mi",
+      "url": "https://www.google.com/maps/search/Subway+near+41.5222779%2C-81.65539129999999"
+    },
+    {
+      "name": "Wendy's",
+      "distance": "0.2 mi",
+      "url": "https://www.google.com/maps/search/Wendy's+near+41.5222779%2C-81.65539129999999"
+    },
+    {
+      "name": "Convenient Food Mart",
+      "distance": "0.3 mi",
+      "url": "https://www.google.com/maps/search/Convenient%20Food%20Mart+near+41.5222779%2C-81.65539129999999"
+    },
+    {
+      "name": "Hanini Subs",
+      "distance": "0.4 mi",
+      "url": "https://www.google.com/maps/search/Hanini%20Subs+near+41.5222779%2C-81.65539129999999"
+    },
+    {
+      "name": "Burger King",
+      "distance": "0.4 mi",
+      "url": "https://www.google.com/maps/search/Burger%20King+near+41.5222779%2C-81.65539129999999"
+    }
+  ],
+  "coffee": [
+    {
+      "name": "McDonald's",
+      "distance": "0.4 mi",
+      "url": "https://www.google.com/maps/search/McDonald's+near+41.5222779%2C-81.65539129999999"
+    }
+  ],
+  "team_lunch": [
+    {
+      "name": "Daiquiri Factory Restaurant & Lounge",
+      "distance": "0.1 mi",
+      "url": "https://www.google.com/maps/search/Daiquiri%20Factory%20Restaurant%20%26%20Lounge+near+41.5222779%2C-81.65539129999999"
+    },
+    {
+      "name": "Golden House Restaurant",
+      "distance": "0.1 mi",
+      "url": "https://www.google.com/maps/search/Golden%20House%20Restaurant+near+41.5222779%2C-81.65539129999999"
+    },
+    {
+      "name": "FIYAH Korean BBQ & Hot Pot",
+      "distance": "0.3 mi",
+      "url": "https://www.google.com/maps/search/FIYAH%20Korean%20BBQ%20%26%20Hot%20Pot+near+41.5222779%2C-81.65539129999999"
+    }
+  ],
+  "dinner": [
+    {
+      "name": "Landmark Restaurant",
+      "distance": "0.1 mi",
+      "url": "https://www.google.com/maps/search/Landmark%20Restaurant+near+41.5222779%2C-81.65539129999999"
+    },
+    {
+      "name": "Diner On 55th",
+      "distance": "0.2 mi",
+      "url": "https://www.google.com/maps/search/Diner%20On%2055th+near+41.5222779%2C-81.65539129999999"
+    },
+    {
+      "name": "St. Clair Deli",
+      "distance": "0.2 mi",
+      "url": "https://www.google.com/maps/search/St.%20Clair%20Deli+near+41.5222779%2C-81.65539129999999"
+    },
+    {
+      "name": "The Boiler 55",
+      "distance": "0.3 mi",
+      "url": "https://www.google.com/maps/search/The%20Boiler%2055+near+41.5222779%2C-81.65539129999999"
+    },
+    {
+      "name": "Marie's Restaurant",
+      "distance": "0.4 mi",
+      "url": "https://www.google.com/maps/search/Marie's%20Restaurant+near+41.5222779%2C-81.65539129999999"
+    },
+    {
+      "name": "The Chopping Block",
+      "distance": "0.4 mi",
+      "url": "https://www.google.com/maps/search/The%20Chopping%20Block+near+41.5222779%2C-81.65539129999999"
+    },
+    {
+      "name": "City Slice Pizzeria",
+      "distance": "0.4 mi",
+      "url": "https://www.google.com/maps/search/City%20Slice%20Pizzeria+near+41.5222779%2C-81.65539129999999"
+    }
+  ],
+  "bowling": [
+    {
+      "name": "Maple Lanes",
+      "distance": "0.8 mi",
+      "url": "https://www.google.com/maps/search/Maple%20Lanes+near+41.5222779%2C-81.65539129999999"
+    },
+    {
+      "name": "Euphoria Lanes",
+      "distance": "1.3 mi",
+      "url": "https://www.google.com/maps/search/Euphoria%20Lanes+near+41.5222779%2C-81.65539129999999"
+    },
+    {
+      "name": "Dickey Lanes",
+      "distance": "4.6 mi",
+      "url": "https://www.google.com/maps/search/Dickey%20Lanes+near+41.5222779%2C-81.65539129999999",
+      "isFar": true
+    }
+  ],
+  "arcade": [],
+  "movies": [
+    {
+      "name": "Cleveland Clinic DOME Theater",
+      "distance": "2.3 mi",
+      "url": "https://www.google.com/maps/search/Cleveland%20Clinic%20DOME%20Theater+near+41.5222779%2C-81.65539129999999"
+    },
+    {
+      "name": "Cinematheque (Cleveland Institute of Art)",
+      "distance": "2.9 mi",
+      "url": "https://www.google.com/maps/search/Cinematheque%20(Cleveland%20Institute%20of%20Art)+near+41.5222779%2C-81.65539129999999"
+    },
+    {
+      "name": "Atlas Cinemas Shaker Square 6",
+      "distance": "4.3 mi",
+      "url": "https://www.google.com/maps/search/Atlas%20Cinemas%20Shaker%20Square%206+near+41.5222779%2C-81.65539129999999",
+      "isFar": true
+    },
+    {
+      "name": "Capitol Theatre",
+      "distance": "4.7 mi",
+      "url": "https://www.google.com/maps/search/Capitol%20Theatre+near+41.5222779%2C-81.65539129999999",
+      "isFar": true
+    },
+    {
+      "name": "Cedar Lee Theatre",
+      "distance": "4.9 mi",
+      "url": "https://www.google.com/maps/search/Cedar%20Lee%20Theatre+near+41.5222779%2C-81.65539129999999",
+      "isFar": true
+    }
+  ],
+  "fun": [
+    {
+      "name": "Kenneth Perdue",
+      "distance": "0.1 mi",
+      "url": "https://www.google.com/maps/search/Kenneth%20Perdue+near+41.5222779%2C-81.65539129999999"
+    },
+    {
+      "name": "Priority Vending & Entertainment, Inc",
+      "distance": "1.5 mi",
+      "url": "https://www.google.com/maps/search/Priority%20Vending%20%26%20Entertainment%2C%20Inc+near+41.5222779%2C-81.65539129999999"
+    },
+    {
+      "name": "Perplexity Games Escape Room - Cleveland",
+      "distance": "3.6 mi",
+      "url": "https://www.google.com/maps/search/Perplexity%20Games%20Escape%20Room%20-%20Cleveland+near+41.5222779%2C-81.65539129999999",
+      "isFar": true
+    },
+    {
+      "name": "Escape Room Coventry",
+      "distance": "4.0 mi",
+      "url": "https://www.google.com/maps/search/Escape%20Room%20Coventry+near+41.5222779%2C-81.65539129999999",
+      "isFar": true
+    }
+  ],
+  "hotels": [
+    {
+      "name": "RENOVATED MODERN HEAVEN",
+      "distance": "0.1 mi",
+      "url": "https://www.google.com/maps/search/RENOVATED%20MODERN%20HEAVEN+near+41.5222779%2C-81.65539129999999"
+    },
+    {
+      "name": "Cozy apartment near the heart of Cleveland",
+      "distance": "0.3 mi",
+      "url": "https://www.google.com/maps/search/Cozy%20apartment%20near%20the%20heart%20of%20Cleveland+near+41.5222779%2C-81.65539129999999"
+    },
+    {
+      "name": "Charming 1 bedroom apartment in fabulous Cleveland",
+      "distance": "0.3 mi",
+      "url": "https://www.google.com/maps/search/Charming%201%20bedroom%20apartment%20in%20fabulous%20Cleveland+near+41.5222779%2C-81.65539129999999"
+    },
+    {
+      "name": "Rated Top 4 Places to Stay in Cleveland by cleveland.com newspaper!",
+      "distance": "0.4 mi",
+      "url": "https://www.google.com/maps/search/Rated%20Top%204%20Places%20to%20Stay%20in%20Cleveland%20by%20cleveland.com%20newspaper!+near+41.5222779%2C-81.65539129999999"
+    },
+    {
+      "name": "Comfy 1BR | Full Kitchen | Near AsiaTown & Downtown",
+      "distance": "0.4 mi",
+      "url": "https://www.google.com/maps/search/Comfy%201BR%20%7C%20Full%20Kitchen%20%7C%20Near%20AsiaTown%20%26%20Downtown+near+41.5222779%2C-81.65539129999999"
+    },
+    {
+      "name": "5 bedroom loft in Heart of Cleveland Modern Comfort Meets Urban Convenience",
+      "distance": "0.5 mi",
+      "url": "https://www.google.com/maps/search/5%20bedroom%20loft%20in%20Heart%20of%20Cleveland%20Modern%20Comfort%20Meets%20Urban%20Convenience+near+41.5222779%2C-81.65539129999999"
+    },
+    {
+      "name": "5 bedroom loft in Heart of Cleveland \\nModern Comfort Meets Urban Convenience\\n",
+      "distance": "0.5 mi",
+      "url": "https://www.google.com/maps/search/5%20bedroom%20loft%20in%20Heart%20of%20Cleveland%20%5CnModern%20Comfort%20Meets%20Urban%20Convenience%5Cn+near+41.5222779%2C-81.65539129999999"
+    }
+  ],
+  "gas": [
+    {
+      "name": "bp",
+      "distance": "0.2 mi",
+      "url": "https://www.google.com/maps/search/bp+near+41.5222779%2C-81.65539129999999"
+    },
+    {
+      "name": "Shell",
+      "distance": "0.2 mi",
+      "url": "https://www.google.com/maps/search/Shell+near+41.5222779%2C-81.65539129999999"
+    },
+    {
+      "name": "Hp",
+      "distance": "0.4 mi",
+      "url": "https://www.google.com/maps/search/Hp+near+41.5222779%2C-81.65539129999999"
+    },
+    {
+      "name": "Exxon",
+      "distance": "0.4 mi",
+      "url": "https://www.google.com/maps/search/Exxon+near+41.5222779%2C-81.65539129999999"
+    },
+    {
+      "name": "Marathon Gas",
+      "distance": "0.4 mi",
+      "url": "https://www.google.com/maps/search/Marathon%20Gas+near+41.5222779%2C-81.65539129999999"
+    }
+  ]
+}

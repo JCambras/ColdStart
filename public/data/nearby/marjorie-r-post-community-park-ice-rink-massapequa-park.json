@@ -1,0 +1,227 @@
+{
+  "quick_bite": [
+    {
+      "name": "Moe's Southwest Grill",
+      "distance": "0.5 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Moe's%20Southwest%20Grill&query_place_id=ChIJx27qQXXV6YkRVNUAiUjzBLs&center=40.6775407,-73.4417871"
+    },
+    {
+      "name": "Dairy Queen Grill & Chill",
+      "distance": "0.6 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Dairy%20Queen%20Grill%20%26%20Chill&query_place_id=ChIJrVk6WgrV6YkR57Ea8I-L_BU&center=40.6779896,-73.43833029999999"
+    },
+    {
+      "name": "Subway",
+      "distance": "0.6 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Subway&query_place_id=ChIJJfN6y6DV6YkRvkFecaf3A0Y&center=40.677051,-73.43470599999999"
+    },
+    {
+      "name": "Jersey Mike's Subs",
+      "distance": "0.7 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Jersey%20Mike's%20Subs&query_place_id=ChIJ_bUdjp3V6YkR9APKK9anVc4&center=40.67743,-73.449435"
+    },
+    {
+      "name": "Five Guys",
+      "distance": "1.0 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Five%20Guys&query_place_id=ChIJT267tqvV6YkR1DkdfyjP1mw&center=40.671018499999995,-73.42167979999999"
+    },
+    {
+      "name": "White Castle",
+      "distance": "1.1 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=White%20Castle&query_place_id=ChIJ38VeWwXV6YkRhiY1dDmRIVA&center=40.684014999999995,-73.429143"
+    }
+  ],
+  "coffee": [
+    {
+      "name": "Dunkin'",
+      "distance": "0.3 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Dunkin'&query_place_id=ChIJkZfeS6TV6YkRi3nz4qPUXnQ&center=40.669021099999995,-73.4351999"
+    },
+    {
+      "name": "WFM Coffee Shop",
+      "distance": "0.4 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=WFM%20Coffee%20Shop&query_place_id=ChIJxXfHW5DV6YkRrgPV5x2QEmg&center=40.676037,-73.4437106"
+    },
+    {
+      "name": "Panera Bread",
+      "distance": "0.5 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Panera%20Bread&query_place_id=ChIJy_8OanXV6YkRTyHnvpZr_Z8&center=40.677023999999996,-73.441846"
+    },
+    {
+      "name": "Salumi",
+      "distance": "0.5 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Salumi&query_place_id=ChIJIxSRx6XV6YkRvptDo30LvwU&center=40.669066,-73.430846"
+    }
+  ],
+  "team_lunch": [
+    {
+      "name": "Golden Garden",
+      "distance": "0.3 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Golden%20Garden&query_place_id=ChIJn3NRYGl_wokRGt1Z6dYJYB8&center=40.669052199999996,-73.4349841"
+    },
+    {
+      "name": "Gino's Tuscany",
+      "distance": "0.3 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Gino's%20Tuscany&query_place_id=ChIJXwqTmGzV6YkRL_TKcq2FLPk&center=40.667116899999996,-73.44571619999999"
+    },
+    {
+      "name": "Three Amigos Fresh Mexican Grill",
+      "distance": "0.3 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Three%20Amigos%20Fresh%20Mexican%20Grill&query_place_id=ChIJkZfeS6TV6YkR513rdDE44V8&center=40.667133899999996,-73.44587419999999"
+    },
+    {
+      "name": "Philly Pretzel Factory",
+      "distance": "0.4 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Philly%20Pretzel%20Factory&query_place_id=ChIJlY7ttJDV6YkRHy9smWlYoK8&center=40.6667886,-73.44756199999999"
+    },
+    {
+      "name": "Genji Sushi",
+      "distance": "0.4 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Genji%20Sushi&query_place_id=ChIJKS0O2CTV6YkRgqOnSKPhO6g&center=40.676037,-73.4437106"
+    },
+    {
+      "name": "Massapequa Pizza",
+      "distance": "0.4 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Massapequa%20Pizza&query_place_id=ChIJI0laMlnV6YkRcMG6WrmCKgc&center=40.676037,-73.4437106"
+    }
+  ],
+  "dinner": [
+    {
+      "name": "Chicken Au Go Go",
+      "distance": "0.2 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Chicken%20Au%20Go%20Go&query_place_id=ChIJeRY236LV6YkRHtOu6a9t-bk&center=40.667480999999995,-73.438811"
+    },
+    {
+      "name": "Corner Galley",
+      "distance": "0.2 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Corner%20Galley&query_place_id=ChIJvdvcDKPV6YkR7FQKCLz77_c&center=40.668334200000004,-73.4373121"
+    },
+    {
+      "name": "Juice N Blendz Healthy Eatery",
+      "distance": "0.3 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Juice%20N%20Blendz%20Healthy%20Eatery&query_place_id=ChIJ52fWxCnV6YkR9zA6goVqW6A&center=40.6690458,-73.4351247"
+    },
+    {
+      "name": "Guac Shop Mexican Grill",
+      "distance": "0.3 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Guac%20Shop%20Mexican%20Grill&query_place_id=ChIJ75GO58TV6YkRRbj__EzIfVk&center=40.6670112,-73.4458073"
+    },
+    {
+      "name": "Nautilus Diner",
+      "distance": "0.4 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Nautilus%20Diner&query_place_id=ChIJrXcAaaTV6YkRruvsqOlU73k&center=40.6692298,-73.4342297"
+    },
+    {
+      "name": "Phils Pizza 2",
+      "distance": "0.5 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Phils%20Pizza%202&query_place_id=ChIJd5PmQXXV6YkRKBqafy7BRmI&center=40.6773391,-73.441982"
+    }
+  ],
+  "bowling": [
+    {
+      "name": "Ultra Lanes Massapequa",
+      "distance": "1.9 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Ultra%20Lanes%20Massapequa&query_place_id=ChIJ7-6pA2Z_wokRFWJhEErpEJw&center=40.6672248,-73.4767379"
+    },
+    {
+      "name": "AMF Wantagh Lanes",
+      "distance": "3.8 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=AMF%20Wantagh%20Lanes&query_place_id=ChIJWUqdhKt_wokRuSU812VLaKo&center=40.6909925,-73.5090864",
+      "isFar": true
+    },
+    {
+      "name": "Levittown Lanes",
+      "distance": "4.8 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Levittown%20Lanes&query_place_id=ChIJt2-MONF_wokRHL8euqhqrhs&center=40.719842299999996,-73.5053806",
+      "isFar": true
+    }
+  ],
+  "arcade": [],
+  "movies": [
+    {
+      "name": "LI Movie Nights - Movie Screen Rental & Drive-In Experience",
+      "distance": "3.4 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=LI%20Movie%20Nights%20-%20Movie%20Screen%20Rental%20%26%20Drive-In%20Experience&query_place_id=ChIJO5UQHiMr6IkR444ba3GwZyU&center=40.716344899999996,-73.4157213",
+      "isFar": true
+    },
+    {
+      "name": "Regal UA Farmingdale",
+      "distance": "4.0 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Regal%20UA%20Farmingdale&query_place_id=ChIJ40tE3dsq6IkRvu8kVqFh3Uw&center=40.7276174,-73.4257618",
+      "isFar": true
+    },
+    {
+      "name": "The Loft 525",
+      "distance": "4.6 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=The%20Loft%20525&query_place_id=ChIJW0u3oel-wokRRbQK-r2cZ7A&center=40.672126999999996,-73.52837699999999",
+      "isFar": true
+    }
+  ],
+  "fun": [
+    {
+      "name": "Just Escape",
+      "distance": "1.7 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Just%20Escape&query_place_id=ChIJw6erOn9_wokR_YF0rv7rrJ0&center=40.679322,-73.4701975"
+    },
+    {
+      "name": "Interactive Spray Park",
+      "distance": "2.5 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Interactive%20Spray%20Park&query_place_id=ChIJTdd3R0LU6YkRHKGosuw7JnA&center=40.6590498,-73.3959201"
+    },
+    {
+      "name": "Jump Town USA",
+      "distance": "3.4 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Jump%20Town%20USA&query_place_id=ChIJu4ZBL88r6IkRUEVEMfM6Nco&center=40.7172012,-73.4209671",
+      "isFar": true
+    }
+  ],
+  "hotels": [
+    {
+      "name": "Oasis on Long Island",
+      "distance": "0.5 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Oasis%20on%20Long%20Island&query_place_id=ChIJDySTHqXV6YkR4po6dWMu088&center=40.66714090000001,-73.4325104"
+    },
+    {
+      "name": "Long Island Oasis - Deluxe Double Room",
+      "distance": "0.5 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Long%20Island%20Oasis%20-%20Deluxe%20Double%20Room&query_place_id=ChIJwfOJyqfV6YkR9cQWPe0TnJM&center=40.672840099999995,-73.4314804"
+    },
+    {
+      "name": "Best Western Bar Harbour Inn",
+      "distance": "0.6 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Best%20Western%20Bar%20Harbour%20Inn&query_place_id=ChIJCVA893XV6YkRydRaKlsqxDc&center=40.6776716,-73.44574879999999"
+    },
+    {
+      "name": "Oasis on Long Island",
+      "distance": "0.7 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Oasis%20on%20Long%20Island&query_place_id=ChIJqQrmr6_V6YkRMb_j4Lfmgp4&center=40.666824299999995,-73.42752829999999"
+    },
+    {
+      "name": "Oasis on Long Island",
+      "distance": "0.7 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Oasis%20on%20Long%20Island&query_place_id=ChIJV3_mr6_V6YkRqKGJojd9MmI&center=40.6668205,-73.42752829999999"
+    }
+  ],
+  "gas": [
+    {
+      "name": "Mobil",
+      "distance": "0.2 mi",
+      "url": "https://www.google.com/maps/search/Mobil+near+40.670253699999996%2C-73.44101189999999"
+    },
+    {
+      "name": "bp",
+      "distance": "0.3 mi",
+      "url": "https://www.google.com/maps/search/bp+near+40.670253699999996%2C-73.44101189999999"
+    },
+    {
+      "name": "Shell",
+      "distance": "0.4 mi",
+      "url": "https://www.google.com/maps/search/Shell+near+40.670253699999996%2C-73.44101189999999"
+    },
+    {
+      "name": "Fas",
+      "distance": "0.6 mi",
+      "url": "https://www.google.com/maps/search/Fas+near+40.670253699999996%2C-73.44101189999999"
+    }
+  ]
+}

@@ -1,0 +1,95 @@
+{
+  "quick_bite": [],
+  "coffee": [],
+  "team_lunch": [],
+  "dinner": [],
+  "bowling": [
+    {
+      "name": "Scott Annex Center Strike Zone",
+      "distance": "3.4 mi",
+      "url": "https://www.google.com/maps/search/Scott%20Annex%20Center%20Strike%20Zone+near+36.8532544%2C-76.28687800000002",
+      "isFar": true
+    },
+    {
+      "name": "AMF Indian River Lanes",
+      "distance": "4.3 mi",
+      "url": "https://www.google.com/maps/search/AMF%20Indian%20River%20Lanes+near+36.8532544%2C-76.28687800000002",
+      "isFar": true
+    }
+  ],
+  "arcade": [],
+  "movies": [
+    {
+      "name": "Regal Macarthur Center",
+      "distance": "0.3 mi",
+      "url": "https://www.google.com/maps/search/Regal%20Macarthur%20Center+near+36.8532544%2C-76.28687800000002"
+    },
+    {
+      "name": "Naro Expanded Cinema",
+      "distance": "1.2 mi",
+      "url": "https://www.google.com/maps/search/Naro%20Expanded%20Cinema+near+36.8532544%2C-76.28687800000002"
+    },
+    {
+      "name": "The Commodore Theatre",
+      "distance": "1.5 mi",
+      "url": "https://www.google.com/maps/search/The%20Commodore%20Theatre+near+36.8532544%2C-76.28687800000002"
+    }
+  ],
+  "fun": [
+    {
+      "name": "Curtain Calls Xscape",
+      "distance": "0.3 mi",
+      "url": "https://www.google.com/maps/search/Curtain%20Calls%20Xscape+near+36.8532544%2C-76.28687800000002"
+    },
+    {
+      "name": "Portsmouth Splash Park",
+      "distance": "2.1 mi",
+      "url": "https://www.google.com/maps/search/Portsmouth%20Splash%20Park+near+36.8532544%2C-76.28687800000002"
+    },
+    {
+      "name": "Another Realm Escape",
+      "distance": "4.9 mi",
+      "url": "https://www.google.com/maps/search/Another%20Realm%20Escape+near+36.8532544%2C-76.28687800000002",
+      "isFar": true
+    }
+  ],
+  "hotels": [
+    {
+      "name": "The Grid: A Downtown Norfolk Escape",
+      "distance": "0.1 mi",
+      "url": "https://www.google.com/maps/search/The%20Grid%3A%20A%20Downtown%20Norfolk%20Escape+near+36.8532544%2C-76.28687800000002"
+    },
+    {
+      "name": "Pure Lagos Bogobiri Haus",
+      "distance": "0.1 mi",
+      "url": "https://www.google.com/maps/search/Pure%20Lagos%20Bogobiri%20Haus+near+36.8532544%2C-76.28687800000002"
+    },
+    {
+      "name": "Philip Thomas Enterprises LLC",
+      "distance": "0.1 mi",
+      "url": "https://www.google.com/maps/search/Philip%20Thomas%20Enterprises%20LLC+near+36.8532544%2C-76.28687800000002"
+    }
+  ],
+  "gas": [
+    {
+      "name": "Sentry Commercial - Fleet Vehicles Only",
+      "distance": "0.3 mi",
+      "url": "https://www.google.com/maps/search/Sentry%20Commercial%20-%20Fleet%20Vehicles%20Only+near+36.8532544%2C-76.28687800000002"
+    },
+    {
+      "name": "Marathon",
+      "distance": "0.3 mi",
+      "url": "https://www.google.com/maps/search/Marathon+near+36.8532544%2C-76.28687800000002"
+    },
+    {
+      "name": "Exxon",
+      "distance": "0.3 mi",
+      "url": "https://www.google.com/maps/search/Exxon+near+36.8532544%2C-76.28687800000002"
+    },
+    {
+      "name": "bp",
+      "distance": "0.4 mi",
+      "url": "https://www.google.com/maps/search/bp+near+36.8532544%2C-76.28687800000002"
+    }
+  ]
+}

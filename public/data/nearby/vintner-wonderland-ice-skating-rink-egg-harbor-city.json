@@ -1,0 +1,174 @@
+{
+  "quick_bite": [
+    {
+      "name": "Al's Luncheonette",
+      "distance": "2.2 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Al's%20Luncheonette&query_place_id=ChIJj3qsa4fewIkRvb4qnY1gOjA&center=39.5337852,-74.6413927"
+    },
+    {
+      "name": "Masonic Lodge",
+      "distance": "2.5 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Masonic%20Lodge&query_place_id=ChIJxYCEd4HewIkRa3f8_9YBX98&center=39.530381,-74.64513199999999"
+    },
+    {
+      "name": "Tak Shing Chinese Restaurant",
+      "distance": "2.6 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Tak%20Shing%20Chinese%20Restaurant&query_place_id=ChIJQZcHECrcwIkRszZ3UkUztSA&center=39.5266306,-74.64535579999999"
+    },
+    {
+      "name": "South Shore Pizza",
+      "distance": "2.6 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=South%20Shore%20Pizza&query_place_id=ChIJdSZkI83dwIkRkexA3izBMU0&center=39.511658,-74.6224984"
+    },
+    {
+      "name": "Wendy's",
+      "distance": "5.0 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Wendy's&query_place_id=ChIJ83ltVwDnwIkR1eiNFgJQBGw&center=39.4781769,-74.57424499999999",
+      "isFar": true
+    },
+    {
+      "name": "Chuck E. Cheese",
+      "distance": "6.9 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Chuck%20E.%20Cheese&query_place_id=ChIJd_h4lDLdwIkRRD62GigvgBc&center=39.448670299999996,-74.63242939999999",
+      "isFar": true
+    }
+  ],
+  "coffee": [
+    {
+      "name": "Café la Fleur",
+      "distance": "0.1 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Caf%C3%A9%20la%20Fleur&query_place_id=ChIJyX-pfxHfwIkRYKubmUJwgII&center=39.546380899999996,-74.6038994"
+    },
+    {
+      "name": "Dunkin'",
+      "distance": "2.7 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Dunkin'&query_place_id=ChIJz8QQb4LewIkRKA4SWqcijuw&center=39.5287966,-74.64816739999999"
+    }
+  ],
+  "team_lunch": [],
+  "dinner": [
+    {
+      "name": "Renault Beer & Wine Garden",
+      "distance": "0.1 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Renault%20Beer%20%26%20Wine%20Garden&query_place_id=ChIJT89XW3vfwIkRAs8ASIQhZxA&center=39.546380899999996,-74.6038994"
+    },
+    {
+      "name": "Taste 1864",
+      "distance": "0.1 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Taste%201864&query_place_id=ChIJOaLyzGPfwIkRNozSzrH-08w&center=39.546380899999996,-74.6038994"
+    },
+    {
+      "name": "The Inn on St. Louis",
+      "distance": "2.1 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=The%20Inn%20on%20St.%20Louis&query_place_id=ChIJo6T2JgDfwIkR_tQs4pP5Wa0&center=39.530716399999996,-74.637367"
+    },
+    {
+      "name": "Chen's Kitchen Asian Cuisine",
+      "distance": "2.5 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Chen's%20Kitchen%20Asian%20Cuisine&query_place_id=ChIJS6c-M3HfwIkRJhdNCmm_D6g&center=39.5305762,-74.6451953"
+    },
+    {
+      "name": "Pepes",
+      "distance": "2.5 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Pepes&query_place_id=ChIJV2yvmoHewIkRssdT0fhm5gA&center=39.5295607,-74.6449769"
+    },
+    {
+      "name": "Crossroads Bar & Grill",
+      "distance": "2.5 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Crossroads%20Bar%20%26%20Grill&query_place_id=ChIJVR3lMYLewIkR9kLkGO_hqw4&center=39.529972,-74.6464594"
+    }
+  ],
+  "bowling": [
+    {
+      "name": "King Pin Bowling",
+      "distance": "9.0 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=King%20Pin%20Bowling&query_place_id=ChIJ7X8nJhbowIkR9QVW-KZ8vOs&center=39.417324,-74.5781326",
+      "isFar": true
+    },
+    {
+      "name": "DiDonato Family Fun Center",
+      "distance": "10.0 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=DiDonato%20Family%20Fun%20Center&query_place_id=ChIJcUNSpRrYwIkRqFgqd4tO-UI&center=39.6144846,-74.7695634",
+      "isFar": true
+    }
+  ],
+  "arcade": [],
+  "movies": [
+    {
+      "name": "Regal Hamilton Commons",
+      "distance": "7.0 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Regal%20Hamilton%20Commons&query_place_id=ChIJd_h4lDLdwIkRvmOg2BSyCqY&center=39.4467152,-74.62668459999999",
+      "isFar": true
+    }
+  ],
+  "fun": [
+    {
+      "name": "Port Lake",
+      "distance": "6.1 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Port%20Lake&query_place_id=ChIJz9TGPADjwIkRP3lg2qnAvjk&center=39.517676099999996,-74.49652209999999",
+      "isFar": true
+    },
+    {
+      "name": "Port Republic",
+      "distance": "6.2 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Port%20Republic&query_place_id=ChIJwSejHwDjwIkRUAf7-5QWFzg&center=39.51763940000001,-74.4930333",
+      "isFar": true
+    },
+    {
+      "name": "Get Air Trampoline Park",
+      "distance": "6.6 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Get%20Air%20Trampoline%20Park&query_place_id=ChIJ-QaD-9bcwIkRlZbomBTogYM&center=39.455926500000004,-74.6449791",
+      "isFar": true
+    },
+    {
+      "name": "Wine Bottle Statue",
+      "distance": "8.1 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Wine%20Bottle%20Statue&query_place_id=ChIJB61RmZQdwYkRU2oMpO_nvWE&center=39.589168699999995,-74.4632134",
+      "isFar": true
+    }
+  ],
+  "hotels": [
+    {
+      "name": "Tuscany House Hotel at Renault Winery",
+      "distance": "0.1 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Tuscany%20House%20Hotel%20at%20Renault%20Winery&query_place_id=ChIJe94uSSPewIkRHvz66EkimaY&center=39.547315999999995,-74.6042026"
+    },
+    {
+      "name": "Renault Winery",
+      "distance": "0.1 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Renault%20Winery&query_place_id=ChIJASFE3iLewIkRfx-mYZu08T8&center=39.5455241,-74.60383259999999"
+    },
+    {
+      "name": "Egg Harbor Lake Campground",
+      "distance": "0.8 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Egg%20Harbor%20Lake%20Campground&query_place_id=ChIJozXiYTHewIkRhVKVvCLJ3Ag&center=39.558184,-74.60900199999999"
+    },
+    {
+      "name": "Holly Acres Campground",
+      "distance": "1.4 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Holly%20Acres%20Campground&query_place_id=ChIJl66ifQbewIkRtF4BwGwKNKI&center=39.526520999999995,-74.602071"
+    },
+    {
+      "name": "Beautiful Estate with Tennis Court and Swimming Pool",
+      "distance": "1.7 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Beautiful%20Estate%20with%20Tennis%20Court%20and%20Swimming%20Pool&query_place_id=ChIJMWB0tK_gwIkRTsTKsF_Rj_s&center=39.5271682,-74.5832901"
+    }
+  ],
+  "gas": [
+    {
+      "name": "Sunoco Gas Station",
+      "distance": "2.5 mi",
+      "url": "https://www.google.com/maps/search/Sunoco%20Gas%20Station+near+39.5465083%2C-74.6039988"
+    },
+    {
+      "name": "Egg Harbor Gas And Tobacco",
+      "distance": "2.5 mi",
+      "url": "https://www.google.com/maps/search/Egg%20Harbor%20Gas%20And%20Tobacco+near+39.5465083%2C-74.6039988"
+    },
+    {
+      "name": "Delta",
+      "distance": "3.1 mi",
+      "url": "https://www.google.com/maps/search/Delta+near+39.5465083%2C-74.6039988"
+    }
+  ]
+}

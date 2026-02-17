@@ -1,0 +1,245 @@
+{
+  "quick_bite": [
+    {
+      "name": "Smashburger",
+      "distance": "0.2 mi",
+      "url": "https://www.google.com/maps/search/Smashburger+near+39.891604199999996%2C-105.06846309999999"
+    },
+    {
+      "name": "Bonefish Grill",
+      "distance": "0.4 mi",
+      "url": "https://www.google.com/maps/search/Bonefish%20Grill+near+39.891604199999996%2C-105.06846309999999"
+    },
+    {
+      "name": "BJ's Restaurant & Brewhouse",
+      "distance": "0.4 mi",
+      "url": "https://www.google.com/maps/search/BJ's%20Restaurant%20%26%20Brewhouse+near+39.891604199999996%2C-105.06846309999999"
+    },
+    {
+      "name": "Buffalo Wild Wings",
+      "distance": "0.5 mi",
+      "url": "https://www.google.com/maps/search/Buffalo%20Wild%20Wings+near+39.891604199999996%2C-105.06846309999999"
+    },
+    {
+      "name": "Jersey Mike's Subs",
+      "distance": "0.5 mi",
+      "url": "https://www.google.com/maps/search/Jersey%20Mike's%20Subs+near+39.891604199999996%2C-105.06846309999999"
+    }
+  ],
+  "coffee": [
+    {
+      "name": "Black Rock Coffee Bar",
+      "distance": "0.2 mi",
+      "url": "https://www.google.com/maps/search/Black%20Rock%20Coffee%20Bar+near+39.891604199999996%2C-105.06846309999999"
+    },
+    {
+      "name": "Snooze, an A.M. Eatery",
+      "distance": "0.2 mi",
+      "url": "https://www.google.com/maps/search/Snooze%2C%20an%20A.M.%20Eatery+near+39.891604199999996%2C-105.06846309999999"
+    },
+    {
+      "name": "Serendipity Cafe at Circle Point",
+      "distance": "0.5 mi",
+      "url": "https://www.google.com/maps/search/Serendipity%20Cafe%20at%20Circle%20Point+near+39.891604199999996%2C-105.06846309999999"
+    }
+  ],
+  "team_lunch": [
+    {
+      "name": "The Stillery",
+      "distance": "0.2 mi",
+      "url": "https://www.google.com/maps/search/The%20Stillery+near+39.891604199999996%2C-105.06846309999999"
+    }
+  ],
+  "dinner": [
+    {
+      "name": "Tuk Tuk Thai Eats - Westminster (Same Tuk Tuk Family)",
+      "distance": "0.1 mi",
+      "url": "https://www.google.com/maps/search/Tuk%20Tuk%20Thai%20Eats%20-%20Westminster%20(Same%20Tuk%20Tuk%20Family)+near+39.891604199999996%2C-105.06846309999999"
+    },
+    {
+      "name": "Dave's Hot Chicken",
+      "distance": "0.2 mi",
+      "url": "https://www.google.com/maps/search/Dave's%20Hot%20Chicken+near+39.891604199999996%2C-105.06846309999999"
+    },
+    {
+      "name": "MOD Pizza",
+      "distance": "0.2 mi",
+      "url": "https://www.google.com/maps/search/MOD%20Pizza+near+39.891604199999996%2C-105.06846309999999"
+    },
+    {
+      "name": "Chuy's",
+      "distance": "0.3 mi",
+      "url": "https://www.google.com/maps/search/Chuy's+near+39.891604199999996%2C-105.06846309999999"
+    },
+    {
+      "name": "Island Fin Poké Company - Westminster, CO",
+      "distance": "0.4 mi",
+      "url": "https://www.google.com/maps/search/Island%20Fin%20Pok%C3%A9%20Company%20-%20Westminster%2C%20CO+near+39.891604199999996%2C-105.06846309999999"
+    },
+    {
+      "name": "Crumbl",
+      "distance": "0.4 mi",
+      "url": "https://www.google.com/maps/search/Crumbl+near+39.891604199999996%2C-105.06846309999999"
+    },
+    {
+      "name": "Mochinut Westminster",
+      "distance": "0.5 mi",
+      "url": "https://www.google.com/maps/search/Mochinut%20Westminster+near+39.891604199999996%2C-105.06846309999999"
+    }
+  ],
+  "bowling": [
+    {
+      "name": "Bowlero Promenade",
+      "distance": "0.2 mi",
+      "url": "https://www.google.com/maps/search/Bowlero%20Promenade+near+39.891604199999996%2C-105.06846309999999"
+    },
+    {
+      "name": "Bowlero Westminster",
+      "distance": "2.1 mi",
+      "url": "https://www.google.com/maps/search/Bowlero%20Westminster+near+39.891604199999996%2C-105.06846309999999"
+    },
+    {
+      "name": "100 Nickel at Chipper's Lanes - Live Music, Bowling, Arcade",
+      "distance": "2.1 mi",
+      "url": "https://www.google.com/maps/search/100%20Nickel%20at%20Chipper's%20Lanes%20-%20Live%20Music%2C%20Bowling%2C%20Arcade+near+39.891604199999996%2C-105.06846309999999"
+    },
+    {
+      "name": "AMF Northglenn Lanes",
+      "distance": "4.2 mi",
+      "url": "https://www.google.com/maps/search/AMF%20Northglenn%20Lanes+near+39.891604199999996%2C-105.06846309999999",
+      "isFar": true
+    },
+    {
+      "name": "Boondocks Food and Fun - Northglenn",
+      "distance": "4.3 mi",
+      "url": "https://www.google.com/maps/search/Boondocks%20Food%20and%20Fun%20-%20Northglenn+near+39.891604199999996%2C-105.06846309999999",
+      "isFar": true
+    }
+  ],
+  "arcade": [],
+  "movies": [
+    {
+      "name": "AMC Westminster Promenade 24",
+      "distance": "0.2 mi",
+      "url": "https://www.google.com/maps/search/AMC%20Westminster%20Promenade%2024+near+39.891604199999996%2C-105.06846309999999"
+    },
+    {
+      "name": "Alamo Drafthouse Cinema Westminster",
+      "distance": "2.3 mi",
+      "url": "https://www.google.com/maps/search/Alamo%20Drafthouse%20Cinema%20Westminster+near+39.891604199999996%2C-105.06846309999999"
+    },
+    {
+      "name": "Imax",
+      "distance": "4.4 mi",
+      "url": "https://www.google.com/maps/search/Imax+near+39.891604199999996%2C-105.06846309999999",
+      "isFar": true
+    },
+    {
+      "name": "AMC Flatiron Crossing 14",
+      "distance": "4.4 mi",
+      "url": "https://www.google.com/maps/search/AMC%20Flatiron%20Crossing%2014+near+39.891604199999996%2C-105.06846309999999",
+      "isFar": true
+    }
+  ],
+  "fun": [
+    {
+      "name": "Dave & Buster's Westminster",
+      "distance": "0.1 mi",
+      "url": "https://www.google.com/maps/search/Dave%20%26%20Buster's%20Westminster+near+39.891604199999996%2C-105.06846309999999"
+    },
+    {
+      "name": "HD Escape Rooms at Westminster Brewery",
+      "distance": "0.8 mi",
+      "url": "https://www.google.com/maps/search/HD%20Escape%20Rooms%20at%20Westminster%20Brewery+near+39.891604199999996%2C-105.06846309999999"
+    },
+    {
+      "name": "Themescape Escape Rooms",
+      "distance": "1.7 mi",
+      "url": "https://www.google.com/maps/search/Themescape%20Escape%20Rooms+near+39.891604199999996%2C-105.06846309999999"
+    },
+    {
+      "name": "HD Escape Rooms - Westminster",
+      "distance": "2.3 mi",
+      "url": "https://www.google.com/maps/search/HD%20Escape%20Rooms%20-%20Westminster+near+39.891604199999996%2C-105.06846309999999"
+    },
+    {
+      "name": "Urban Air Trampoline and Adventure Park",
+      "distance": "2.3 mi",
+      "url": "https://www.google.com/maps/search/Urban%20Air%20Trampoline%20and%20Adventure%20Park+near+39.891604199999996%2C-105.06846309999999"
+    },
+    {
+      "name": "Puzzlers Escape",
+      "distance": "2.4 mi",
+      "url": "https://www.google.com/maps/search/Puzzlers%20Escape+near+39.891604199999996%2C-105.06846309999999"
+    },
+    {
+      "name": "Super Smash Rooms",
+      "distance": "3.0 mi",
+      "url": "https://www.google.com/maps/search/Super%20Smash%20Rooms+near+39.891604199999996%2C-105.06846309999999"
+    }
+  ],
+  "hotels": [
+    {
+      "name": "The Westin Westminster",
+      "distance": "0.2 mi",
+      "url": "https://www.google.com/maps/search/The%20Westin%20Westminster+near+39.891604199999996%2C-105.06846309999999"
+    },
+    {
+      "name": "Near Broomfield, Interlocken, Denver, and Boulder.",
+      "distance": "0.2 mi",
+      "url": "https://www.google.com/maps/search/Near%20Broomfield%2C%20Interlocken%2C%20Denver%2C%20and%20Boulder.+near+39.891604199999996%2C-105.06846309999999"
+    },
+    {
+      "name": "Sleeps14 L Westin Convention Center L 1stbankcenter - Holiday Home",
+      "distance": "0.3 mi",
+      "url": "https://www.google.com/maps/search/Sleeps14%20L%20Westin%20Convention%20Center%20L%201stbankcenter%20-%20Holiday%20Home+near+39.891604199999996%2C-105.06846309999999"
+    },
+    {
+      "name": "Colorado Family Lodge* Games, Theatre, Dogs",
+      "distance": "0.3 mi",
+      "url": "https://www.google.com/maps/search/Colorado%20Family%20Lodge*%20Games%2C%20Theatre%2C%20Dogs+near+39.891604199999996%2C-105.06846309999999"
+    },
+    {
+      "name": "Spacious Home-20 minutes to Denver& Boulder-Hot Tub/ Game Room/ Basketball Court",
+      "distance": "0.3 mi",
+      "url": "https://www.google.com/maps/search/Spacious%20Home-20%20minutes%20to%20Denver%26%20Boulder-Hot%20Tub%2F%20Game%20Room%2F%20Basketball%20Court+near+39.891604199999996%2C-105.06846309999999"
+    },
+    {
+      "name": "Newly Renovated-Spacious-20min to Den& Boulder-HotTub/Game Room/Basketball Court",
+      "distance": "0.3 mi",
+      "url": "https://www.google.com/maps/search/Newly%20Renovated-Spacious-20min%20to%20Den%26%20Boulder-HotTub%2FGame%20Room%2FBasketball%20Court+near+39.891604199999996%2C-105.06846309999999"
+    },
+    {
+      "name": "Newly Renovated-Spacious-20min to Den Boulder-HotTub /Game Room /Basketball Court",
+      "distance": "0.3 mi",
+      "url": "https://www.google.com/maps/search/Newly%20Renovated-Spacious-20min%20to%20Den%20Boulder-HotTub%20%2FGame%20Room%20%2FBasketball%20Court+near+39.891604199999996%2C-105.06846309999999"
+    }
+  ],
+  "gas": [
+    {
+      "name": "Conoco",
+      "distance": "0.5 mi",
+      "url": "https://www.google.com/maps/search/Conoco+near+39.891604199999996%2C-105.06846309999999"
+    },
+    {
+      "name": "Phillips 66",
+      "distance": "0.7 mi",
+      "url": "https://www.google.com/maps/search/Phillips%2066+near+39.891604199999996%2C-105.06846309999999"
+    },
+    {
+      "name": "7-Eleven",
+      "distance": "0.7 mi",
+      "url": "https://www.google.com/maps/search/7-Eleven+near+39.891604199999996%2C-105.06846309999999"
+    },
+    {
+      "name": "Circle K | Gas Station",
+      "distance": "0.9 mi",
+      "url": "https://www.google.com/maps/search/Circle%20K%20%7C%20Gas%20Station+near+39.891604199999996%2C-105.06846309999999"
+    },
+    {
+      "name": "Valero",
+      "distance": "1.1 mi",
+      "url": "https://www.google.com/maps/search/Valero+near+39.891604199999996%2C-105.06846309999999"
+    }
+  ]
+}

@@ -1,0 +1,179 @@
+{
+  "quick_bite": [
+    {
+      "name": "Real Good Pizza",
+      "distance": "0.1 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Real%20Good%20Pizza&query_place_id=ChIJnf_W7ITFNIgRi7ZqvQq6KrM&center=40.4010946,-79.5759717"
+    },
+    {
+      "name": "Wendy's",
+      "distance": "0.2 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Wendy's&query_place_id=ChIJz_zdT-bFNIgRuts7IS_asUs&center=40.398680299999995,-79.5794826"
+    },
+    {
+      "name": "Taco Bell",
+      "distance": "0.4 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Taco%20Bell&query_place_id=ChIJeVh9nd3FNIgRIEsjOUPWITY&center=40.3997409,-79.58371869999999"
+    },
+    {
+      "name": "Jersey Mike's Subs",
+      "distance": "0.4 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Jersey%20Mike's%20Subs&query_place_id=ChIJTecCCTnFNIgRdwNXiCBJbaQ&center=40.3997464,-79.5842261"
+    }
+  ],
+  "coffee": [
+    {
+      "name": "Starbucks Coffee Company",
+      "distance": "0.4 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Starbucks%20Coffee%20Company&query_place_id=ChIJL2UgZADFNIgRu5n6k63dUjk&center=40.39992,-79.58418999999999"
+    }
+  ],
+  "team_lunch": [
+    {
+      "name": "Pittsburgh BBQ Company",
+      "distance": "0.2 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Pittsburgh%20BBQ%20Company&query_place_id=ChIJjzSs2-XFNIgRNo417Rkk5tw&center=40.3981528,-79.5765729"
+    },
+    {
+      "name": "The Lamplighter Restaurant",
+      "distance": "0.3 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=The%20Lamplighter%20Restaurant&query_place_id=ChIJZQOldefFNIgRS3bp2Xw3X_E&center=40.40004510000001,-79.5813854"
+    },
+    {
+      "name": "whisk & jar",
+      "distance": "3.3 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=whisk%20%26%20jar&query_place_id=ChIJG-EKYVXHNIgRnEWWL5rgkv8&center=40.447326,-79.5905066",
+      "isFar": true
+    },
+    {
+      "name": "Giant Eagle Bakery",
+      "distance": "4.2 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Giant%20Eagle%20Bakery&query_place_id=ChIJfZtXtIXENIgRbGNetdzlj0Q&center=40.365611,-79.64187679999999",
+      "isFar": true
+    }
+  ],
+  "dinner": [
+    {
+      "name": "The Happy Badger Sports Pub",
+      "distance": "0.1 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=The%20Happy%20Badger%20Sports%20Pub&query_place_id=ChIJPRvzL0HFNIgRTr0A5cVeS6w&center=40.4010946,-79.5759717"
+    },
+    {
+      "name": "Red Barn Winery, Kitchen, Event Venue",
+      "distance": "0.4 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Red%20Barn%20Winery%2C%20Kitchen%2C%20Event%20Venue&query_place_id=ChIJWylBo-3FNIgRsC7u96v5vKQ&center=40.406032499999995,-79.57861140000001"
+    },
+    {
+      "name": "Picante Mexican Grille",
+      "distance": "0.4 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Picante%20Mexican%20Grille&query_place_id=ChIJxw0GB93FNIgRcw7IjAB7QTE&center=40.399634999999996,-79.584412"
+    },
+    {
+      "name": "Bob's Sub and Donut Connection",
+      "distance": "0.5 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Bob's%20Sub%20and%20Donut%20Connection&query_place_id=ChIJHeGSLQDFNIgR8WQvfvuVsRc&center=40.3954251,-79.57150469999999"
+    },
+    {
+      "name": "Asian Dragon",
+      "distance": "0.5 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Asian%20Dragon&query_place_id=ChIJ05MA0N3FNIgRPT-2SVCXRS4&center=40.4017742,-79.5852851"
+    },
+    {
+      "name": "Lilja's Premiere Pizza",
+      "distance": "0.6 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Lilja's%20Premiere%20Pizza&query_place_id=ChIJAQD8jwjGNIgRcTz_mX-QvkE&center=40.409409,-79.572307"
+    }
+  ],
+  "bowling": [
+    {
+      "name": "Export Moose Lanes",
+      "distance": "2.7 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Export%20Moose%20Lanes&query_place_id=ChIJwUfyN5nGNIgRYg4RuSW3-Qw&center=40.4163536,-79.62338799999999"
+    },
+    {
+      "name": "Bowl-A-Rena Bowling Lanes",
+      "distance": "6.2 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Bowl-A-Rena%20Bowling%20Lanes&query_place_id=ChIJV1yMXTrbNIgR9hUhapXdg4g&center=40.318397499999996,-79.6198806",
+      "isFar": true
+    },
+    {
+      "name": "Hillview Bowling Lanes",
+      "distance": "7.3 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Hillview%20Bowling%20Lanes&query_place_id=ChIJRUVARDbQNIgR9s19vaL_C5g&center=40.302856399999996,-79.5229949",
+      "isFar": true
+    }
+  ],
+  "arcade": [],
+  "movies": [
+    {
+      "name": "AMC Westmoreland 15",
+      "distance": "8.1 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=AMC%20Westmoreland%2015&query_place_id=ChIJJ8LVYcnRNIgRAvjwXYhv5Xk&center=40.2974259,-79.50507019999999",
+      "isFar": true
+    }
+  ],
+  "fun": [
+    {
+      "name": "Chimney Swift Tower",
+      "distance": "1.5 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Chimney%20Swift%20Tower&query_place_id=ChIJj--3GwDHNIgReE5fQI6jsT4&center=40.422748999999996,-79.5836525"
+    },
+    {
+      "name": "60 Minute Missions Escape Room",
+      "distance": "5.4 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=60%20Minute%20Missions%20Escape%20Room&query_place_id=ChIJEYU_sa_BNIgRXC59-YBOXIs&center=40.4263835,-79.67250829999999",
+      "isFar": true
+    },
+    {
+      "name": "60 Minute Missions Escape Room",
+      "distance": "7.0 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=60%20Minute%20Missions%20Escape%20Room&query_place_id=ChIJuRVWzBTQNIgROTu4hKo0Xgw&center=40.302730499999996,-79.541603",
+      "isFar": true
+    },
+    {
+      "name": "SeaBase Family Fun Center",
+      "distance": "7.3 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=SeaBase%20Family%20Fun%20Center&query_place_id=ChIJj-B5_zfQNIgRyzQxJowxrqw&center=40.3017475,-79.52678449999999",
+      "isFar": true
+    }
+  ],
+  "hotels": [
+    {
+      "name": "Holiday Inn Express Murrysville-Delmont by IHG",
+      "distance": "0.3 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Holiday%20Inn%20Express%20Murrysville-Delmont%20by%20IHG&query_place_id=ChIJBT2oht3FNIgRVuuyjIHjMMw&center=40.4007939,-79.58152009999999"
+    },
+    {
+      "name": "Rodeway Inn Delmont",
+      "distance": "0.4 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Rodeway%20Inn%20Delmont&query_place_id=ChIJNf6sD93FNIgRrLj9OkANsvM&center=40.3954319,-79.572695"
+    },
+    {
+      "name": "Super 8 by Wyndham Delmont",
+      "distance": "0.4 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Super%208%20by%20Wyndham%20Delmont&query_place_id=ChIJK0a15-_FNIgRQySwSqmNMEM&center=40.3953731,-79.57263300000001"
+    }
+  ],
+  "gas": [
+    {
+      "name": "GetGo Café + Market & WetGo Car Wash",
+      "distance": "0.2 mi",
+      "url": "https://www.google.com/maps/search/GetGo%20Caf%C3%A9%20%2B%20Market%20%26%20WetGo%20Car%20Wash+near+40.401077799999996%2C-79.57636389999999"
+    },
+    {
+      "name": "bp",
+      "distance": "0.5 mi",
+      "url": "https://www.google.com/maps/search/bp+near+40.401077799999996%2C-79.57636389999999"
+    },
+    {
+      "name": "Sunoco",
+      "distance": "0.7 mi",
+      "url": "https://www.google.com/maps/search/Sunoco+near+40.401077799999996%2C-79.57636389999999"
+    },
+    {
+      "name": "Victory",
+      "distance": "0.7 mi",
+      "url": "https://www.google.com/maps/search/Victory+near+40.401077799999996%2C-79.57636389999999"
+    }
+  ]
+}

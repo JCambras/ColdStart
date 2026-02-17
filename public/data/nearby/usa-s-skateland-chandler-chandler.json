@@ -1,0 +1,237 @@
+{
+  "quick_bite": [
+    {
+      "name": "Philly's Famous - Chandler",
+      "distance": "0.2 mi",
+      "url": "https://www.google.com/maps/search/Philly's%20Famous%20-%20Chandler+near+33.3197517%2C-111.86151079999999"
+    },
+    {
+      "name": "Chuck E. Cheese",
+      "distance": "2.4 mi",
+      "url": "https://www.google.com/maps/search/Chuck%20E.%20Cheese+near+33.3197517%2C-111.86151079999999"
+    }
+  ],
+  "coffee": [
+    {
+      "name": "Black Rock Coffee Bar",
+      "distance": "0.1 mi",
+      "url": "https://www.google.com/maps/search/Black%20Rock%20Coffee%20Bar+near+33.3197517%2C-111.86151079999999"
+    },
+    {
+      "name": "Revive Chandler",
+      "distance": "0.2 mi",
+      "url": "https://www.google.com/maps/search/Revive%20Chandler+near+33.3197517%2C-111.86151079999999"
+    }
+  ],
+  "team_lunch": [
+    {
+      "name": "PARADISE KITCHEN",
+      "distance": "0.1 mi",
+      "url": "https://www.google.com/maps/search/PARADISE%20KITCHEN+near+33.3197517%2C-111.86151079999999"
+    },
+    {
+      "name": "Wing SZN - Arrowhead",
+      "distance": "0.1 mi",
+      "url": "https://www.google.com/maps/search/Wing%20SZN%20-%20Arrowhead+near+33.3197517%2C-111.86151079999999"
+    },
+    {
+      "name": "Tribeca Pizza & Wings",
+      "distance": "0.1 mi",
+      "url": "https://www.google.com/maps/search/Tribeca%20Pizza%20%26%20Wings+near+33.3197517%2C-111.86151079999999"
+    },
+    {
+      "name": "Papa Johns Pizza",
+      "distance": "0.1 mi",
+      "url": "https://www.google.com/maps/search/Papa%20Johns%20Pizza+near+33.3197517%2C-111.86151079999999"
+    },
+    {
+      "name": "Agege Bites",
+      "distance": "0.2 mi",
+      "url": "https://www.google.com/maps/search/Agege%20Bites+near+33.3197517%2C-111.86151079999999"
+    }
+  ],
+  "dinner": [
+    {
+      "name": "Chang's Kitchen",
+      "distance": "0.1 mi",
+      "url": "https://www.google.com/maps/search/Chang's%20Kitchen+near+33.3197517%2C-111.86151079999999"
+    },
+    {
+      "name": "OUTTA BRONX",
+      "distance": "0.1 mi",
+      "url": "https://www.google.com/maps/search/OUTTA%20BRONX+near+33.3197517%2C-111.86151079999999"
+    },
+    {
+      "name": "Yama Sushi House - Premium AYCE Sushi",
+      "distance": "0.1 mi",
+      "url": "https://www.google.com/maps/search/Yama%20Sushi%20House%20-%20Premium%20AYCE%20Sushi+near+33.3197517%2C-111.86151079999999"
+    },
+    {
+      "name": "AZ Mucho Taco",
+      "distance": "0.1 mi",
+      "url": "https://www.google.com/maps/search/AZ%20Mucho%20Taco+near+33.3197517%2C-111.86151079999999"
+    },
+    {
+      "name": "Chou's Kitchen",
+      "distance": "0.1 mi",
+      "url": "https://www.google.com/maps/search/Chou's%20Kitchen+near+33.3197517%2C-111.86151079999999"
+    },
+    {
+      "name": "Honest Indian Restaurant",
+      "distance": "0.1 mi",
+      "url": "https://www.google.com/maps/search/Honest%20Indian%20Restaurant+near+33.3197517%2C-111.86151079999999"
+    },
+    {
+      "name": "Quiches & Pies",
+      "distance": "0.2 mi",
+      "url": "https://www.google.com/maps/search/Quiches%20%26%20Pies+near+33.3197517%2C-111.86151079999999"
+    }
+  ],
+  "bowling": [
+    {
+      "name": "AMF Chandler Lanes",
+      "distance": "1.4 mi",
+      "url": "https://www.google.com/maps/search/AMF%20Chandler%20Lanes+near+33.3197517%2C-111.86151079999999"
+    },
+    {
+      "name": "Round1 Bowling & Arcade Chandler - Chandler Fashion Center",
+      "distance": "2.6 mi",
+      "url": "https://www.google.com/maps/search/Round1%20Bowling%20%26%20Arcade%20Chandler%20-%20Chandler%20Fashion%20Center+near+33.3197517%2C-111.86151079999999"
+    },
+    {
+      "name": "AMF McRay Plaza Lanes",
+      "distance": "2.7 mi",
+      "url": "https://www.google.com/maps/search/AMF%20McRay%20Plaza%20Lanes+near+33.3197517%2C-111.86151079999999"
+    },
+    {
+      "name": "Lucky Strike Gilbert",
+      "distance": "4.0 mi",
+      "url": "https://www.google.com/maps/search/Lucky%20Strike%20Gilbert+near+33.3197517%2C-111.86151079999999",
+      "isFar": true
+    }
+  ],
+  "arcade": [],
+  "movies": [
+    {
+      "name": "Harkins Theatres Chandler Fashion",
+      "distance": "2.6 mi",
+      "url": "https://www.google.com/maps/search/Harkins%20Theatres%20Chandler%20Fashion+near+33.3197517%2C-111.86151079999999"
+    },
+    {
+      "name": "Pollack Cinemas",
+      "distance": "3.4 mi",
+      "url": "https://www.google.com/maps/search/Pollack%20Cinemas+near+33.3197517%2C-111.86151079999999",
+      "isFar": true
+    },
+    {
+      "name": "Regal Gilbert",
+      "distance": "3.8 mi",
+      "url": "https://www.google.com/maps/search/Regal%20Gilbert+near+33.3197517%2C-111.86151079999999",
+      "isFar": true
+    }
+  ],
+  "fun": [
+    {
+      "name": "ESCAPE:chandler",
+      "distance": "0.8 mi",
+      "url": "https://www.google.com/maps/search/ESCAPE%3Achandler+near+33.3197517%2C-111.86151079999999"
+    },
+    {
+      "name": "Scorch VR",
+      "distance": "1.9 mi",
+      "url": "https://www.google.com/maps/search/Scorch%20VR+near+33.3197517%2C-111.86151079999999"
+    },
+    {
+      "name": "Sky Zone Chandler",
+      "distance": "2.4 mi",
+      "url": "https://www.google.com/maps/search/Sky%20Zone%20Chandler+near+33.3197517%2C-111.86151079999999"
+    },
+    {
+      "name": "KTR Chandler",
+      "distance": "2.9 mi",
+      "url": "https://www.google.com/maps/search/KTR%20Chandler+near+33.3197517%2C-111.86151079999999"
+    },
+    {
+      "name": "Splash Pad",
+      "distance": "3.5 mi",
+      "url": "https://www.google.com/maps/search/Splash%20Pad+near+33.3197517%2C-111.86151079999999",
+      "isFar": true
+    },
+    {
+      "name": "Exit 4 Escape Rooms Chandler",
+      "distance": "3.8 mi",
+      "url": "https://www.google.com/maps/search/Exit%204%20Escape%20Rooms%20Chandler+near+33.3197517%2C-111.86151079999999",
+      "isFar": true
+    },
+    {
+      "name": "Big Air Trampoline Park",
+      "distance": "3.8 mi",
+      "url": "https://www.google.com/maps/search/Big%20Air%20Trampoline%20Park+near+33.3197517%2C-111.86151079999999",
+      "isFar": true
+    }
+  ],
+  "hotels": [
+    {
+      "name": "Newly Remodeled Chandler Gem — Stylish 3 Bed, 2 Bath Home Awaits!",
+      "distance": "0.2 mi",
+      "url": "https://www.google.com/maps/search/Newly%20Remodeled%20Chandler%20Gem%20%E2%80%94%20Stylish%203%20Bed%2C%202%20Bath%20Home%20Awaits!+near+33.3197517%2C-111.86151079999999"
+    },
+    {
+      "name": "Family-Friendly Chandler Home Near Downtown!",
+      "distance": "0.2 mi",
+      "url": "https://www.google.com/maps/search/Family-Friendly%20Chandler%20Home%20Near%20Downtown!+near+33.3197517%2C-111.86151079999999"
+    },
+    {
+      "name": "Amazing 2-bedroom apartment with AC in charming Chandler",
+      "distance": "0.3 mi",
+      "url": "https://www.google.com/maps/search/Amazing%202-bedroom%20apartment%20with%20AC%20in%20charming%20Chandler+near+33.3197517%2C-111.86151079999999"
+    },
+    {
+      "name": "Cozy Chandler Condo 1 Bedroom Condo by Redawning",
+      "distance": "0.3 mi",
+      "url": "https://www.google.com/maps/search/Cozy%20Chandler%20Condo%201%20Bedroom%20Condo%20by%20Redawning+near+33.3197517%2C-111.86151079999999"
+    },
+    {
+      "name": "Awesome Lakefront and poolside 2 bedroom /2 bath condo in gated community!",
+      "distance": "0.3 mi",
+      "url": "https://www.google.com/maps/search/Awesome%20Lakefront%20and%20poolside%202%20bedroom%20%2F2%20bath%20condo%20in%20gated%20community!+near+33.3197517%2C-111.86151079999999"
+    },
+    {
+      "name": "Luxury HomeKing BedPatioPoolLong Stays - Four-Bedroom House",
+      "distance": "0.4 mi",
+      "url": "https://www.google.com/maps/search/Luxury%20HomeKing%20BedPatioPoolLong%20Stays%20-%20Four-Bedroom%20House+near+33.3197517%2C-111.86151079999999"
+    },
+    {
+      "name": "Spacious 4 bedroom house with WiFi, A /C in nice Chandler",
+      "distance": "0.4 mi",
+      "url": "https://www.google.com/maps/search/Spacious%204%20bedroom%20house%20with%20WiFi%2C%20A%20%2FC%20in%20nice%20Chandler+near+33.3197517%2C-111.86151079999999"
+    }
+  ],
+  "gas": [
+    {
+      "name": "Circle K | Gas Station",
+      "distance": "0.6 mi",
+      "url": "https://www.google.com/maps/search/Circle%20K%20%7C%20Gas%20Station+near+33.3197517%2C-111.86151079999999"
+    },
+    {
+      "name": "Chevron Chandler",
+      "distance": "0.8 mi",
+      "url": "https://www.google.com/maps/search/Chevron%20Chandler+near+33.3197517%2C-111.86151079999999"
+    },
+    {
+      "name": "QuikTrip",
+      "distance": "0.9 mi",
+      "url": "https://www.google.com/maps/search/QuikTrip+near+33.3197517%2C-111.86151079999999"
+    },
+    {
+      "name": "Circle K | Gas Station",
+      "distance": "1.0 mi",
+      "url": "https://www.google.com/maps/search/Circle%20K%20%7C%20Gas%20Station+near+33.3197517%2C-111.86151079999999"
+    },
+    {
+      "name": "76",
+      "distance": "1.0 mi",
+      "url": "https://www.google.com/maps/search/76+near+33.3197517%2C-111.86151079999999"
+    }
+  ]
+}

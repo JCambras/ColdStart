@@ -1,0 +1,94 @@
+{
+  "quick_bite": [
+    {
+      "name": "Subway",
+      "distance": "0.3 mi",
+      "url": "https://www.google.com/maps/search/Subway+near+38.0925632%2C-76.79965179999999"
+    }
+  ],
+  "coffee": [
+    {
+      "name": "Fisher’s Roadhouse Cafe",
+      "distance": "0.6 mi",
+      "url": "https://www.google.com/maps/search/Fisher%E2%80%99s%20Roadhouse%20Cafe+near+38.0925632%2C-76.79965179999999"
+    },
+    {
+      "name": "Art of Coffee",
+      "distance": "1.6 mi",
+      "url": "https://www.google.com/maps/search/Art%20of%20Coffee+near+38.0925632%2C-76.79965179999999"
+    }
+  ],
+  "team_lunch": [
+    {
+      "name": "Food Lion Bakery",
+      "distance": "0.6 mi",
+      "url": "https://www.google.com/maps/search/Food%20Lion%20Bakery+near+38.0925632%2C-76.79965179999999"
+    }
+  ],
+  "dinner": [
+    {
+      "name": "El Mariachi Restaurant",
+      "distance": "0.2 mi",
+      "url": "https://www.google.com/maps/search/El%20Mariachi%20Restaurant+near+38.0925632%2C-76.79965179999999"
+    },
+    {
+      "name": "Krispy Krunchy Chicken",
+      "distance": "0.3 mi",
+      "url": "https://www.google.com/maps/search/Krispy%20Krunchy%20Chicken+near+38.0925632%2C-76.79965179999999"
+    },
+    {
+      "name": "Angelo's Pizza Restaurant Seafood & Steamer Bar",
+      "distance": "1.5 mi",
+      "url": "https://www.google.com/maps/search/Angelo's%20Pizza%20Restaurant%20Seafood%20%26%20Steamer%20Bar+near+38.0925632%2C-76.79965179999999"
+    }
+  ],
+  "bowling": [],
+  "arcade": [],
+  "movies": [],
+  "fun": [],
+  "hotels": [
+    {
+      "name": "Washington & Lee Motel",
+      "distance": "0.3 mi",
+      "url": "https://www.google.com/maps/search/Washington%20%26%20Lee%20Motel+near+38.0925632%2C-76.79965179999999"
+    },
+    {
+      "name": "Inn at Montross",
+      "distance": "1.6 mi",
+      "url": "https://www.google.com/maps/search/Inn%20at%20Montross+near+38.0925632%2C-76.79965179999999"
+    },
+    {
+      "name": "Montross Village operated by Montross Enterprises, LLC",
+      "distance": "1.9 mi",
+      "url": "https://www.google.com/maps/search/Montross%20Village%20operated%20by%20Montross%20Enterprises%2C%20LLC+near+38.0925632%2C-76.79965179999999"
+    },
+    {
+      "name": "Stunning Riverfront Property - New Listing",
+      "distance": "3.8 mi",
+      "url": "https://www.google.com/maps/search/Stunning%20Riverfront%20Property%20-%20New%20Listing+near+38.0925632%2C-76.79965179999999",
+      "isFar": true
+    }
+  ],
+  "gas": [
+    {
+      "name": "bp",
+      "distance": "0.1 mi",
+      "url": "https://www.google.com/maps/search/bp+near+38.0925632%2C-76.79965179999999"
+    },
+    {
+      "name": "Get & Zip Convenience",
+      "distance": "0.1 mi",
+      "url": "https://www.google.com/maps/search/Get%20%26%20Zip%20Convenience+near+38.0925632%2C-76.79965179999999"
+    },
+    {
+      "name": "Montross Citgo",
+      "distance": "0.3 mi",
+      "url": "https://www.google.com/maps/search/Montross%20Citgo+near+38.0925632%2C-76.79965179999999"
+    },
+    {
+      "name": "Exxon",
+      "distance": "2.1 mi",
+      "url": "https://www.google.com/maps/search/Exxon+near+38.0925632%2C-76.79965179999999"
+    }
+  ]
+}

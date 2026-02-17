@@ -1,0 +1,193 @@
+{
+  "quick_bite": [
+    {
+      "name": "Captain D's",
+      "distance": "0.2 mi",
+      "url": "https://www.google.com/maps/search/Captain%20D's+near+33.614781%2C-86.612448"
+    },
+    {
+      "name": "Sonic Drive-In",
+      "distance": "0.3 mi",
+      "url": "https://www.google.com/maps/search/Sonic%20Drive-In+near+33.614781%2C-86.612448"
+    },
+    {
+      "name": "Marco's Pizza",
+      "distance": "0.3 mi",
+      "url": "https://www.google.com/maps/search/Marco's%20Pizza+near+33.614781%2C-86.612448"
+    },
+    {
+      "name": "Three Earred Rabbit",
+      "distance": "0.4 mi",
+      "url": "https://www.google.com/maps/search/Three%20Earred%20Rabbit+near+33.614781%2C-86.612448"
+    }
+  ],
+  "coffee": [
+    {
+      "name": "Hero Diner",
+      "distance": "0.3 mi",
+      "url": "https://www.google.com/maps/search/Hero%20Diner+near+33.614781%2C-86.612448"
+    },
+    {
+      "name": "Maple Avenue Coffee House",
+      "distance": "0.3 mi",
+      "url": "https://www.google.com/maps/search/Maple%20Avenue%20Coffee%20House+near+33.614781%2C-86.612448"
+    }
+  ],
+  "team_lunch": [
+    {
+      "name": "Hunt Brother's Pizza",
+      "distance": "0.3 mi",
+      "url": "https://www.google.com/maps/search/Hunt%20Brother's%20Pizza+near+33.614781%2C-86.612448"
+    },
+    {
+      "name": "Trussville Social",
+      "distance": "0.4 mi",
+      "url": "https://www.google.com/maps/search/Trussville%20Social+near+33.614781%2C-86.612448"
+    }
+  ],
+  "dinner": [
+    {
+      "name": "LQ Asian",
+      "distance": "0.2 mi",
+      "url": "https://www.google.com/maps/search/LQ%20Asian+near+33.614781%2C-86.612448"
+    },
+    {
+      "name": "Thai Basil & Sushi Restaurant",
+      "distance": "0.3 mi",
+      "url": "https://www.google.com/maps/search/Thai%20Basil%20%26%20Sushi%20Restaurant+near+33.614781%2C-86.612448"
+    },
+    {
+      "name": "Umami Trussville",
+      "distance": "0.3 mi",
+      "url": "https://www.google.com/maps/search/Umami%20Trussville+near+33.614781%2C-86.612448"
+    },
+    {
+      "name": "Pinchgut Pies",
+      "distance": "0.3 mi",
+      "url": "https://www.google.com/maps/search/Pinchgut%20Pies+near+33.614781%2C-86.612448"
+    },
+    {
+      "name": "Rodney Scott's BBQ",
+      "distance": "0.3 mi",
+      "url": "https://www.google.com/maps/search/Rodney%20Scott's%20BBQ+near+33.614781%2C-86.612448"
+    },
+    {
+      "name": "Mr. West's Asian Kitchen",
+      "distance": "0.3 mi",
+      "url": "https://www.google.com/maps/search/Mr.%20West's%20Asian%20Kitchen+near+33.614781%2C-86.612448"
+    },
+    {
+      "name": "Levant Mediterranean Fusion",
+      "distance": "0.3 mi",
+      "url": "https://www.google.com/maps/search/Levant%20Mediterranean%20Fusion+near+33.614781%2C-86.612448"
+    }
+  ],
+  "bowling": [
+    {
+      "name": "Spare Time Trussville",
+      "distance": "1.6 mi",
+      "url": "https://www.google.com/maps/search/Spare%20Time%20Trussville+near+33.614781%2C-86.612448"
+    }
+  ],
+  "arcade": [],
+  "movies": [
+    {
+      "name": "Regal Trussville",
+      "distance": "2.1 mi",
+      "url": "https://www.google.com/maps/search/Regal%20Trussville+near+33.614781%2C-86.612448"
+    },
+    {
+      "name": "Grand River Drive-In",
+      "distance": "4.5 mi",
+      "url": "https://www.google.com/maps/search/Grand%20River%20Drive-In+near+33.614781%2C-86.612448",
+      "isFar": true
+    }
+  ],
+  "fun": [
+    {
+      "name": "Trussville Playstation",
+      "distance": "0.1 mi",
+      "url": "https://www.google.com/maps/search/Trussville%20Playstation+near+33.614781%2C-86.612448"
+    },
+    {
+      "name": "Urban Air Trampoline and Adventure Park",
+      "distance": "1.5 mi",
+      "url": "https://www.google.com/maps/search/Urban%20Air%20Trampoline%20and%20Adventure%20Park+near+33.614781%2C-86.612448"
+    },
+    {
+      "name": "Pump It Up Trussville Kids Birthdays and More!",
+      "distance": "2.5 mi",
+      "url": "https://www.google.com/maps/search/Pump%20It%20Up%20Trussville%20Kids%20Birthdays%20and%20More!+near+33.614781%2C-86.612448"
+    },
+    {
+      "name": "FUNBOX BIRMINGHAM",
+      "distance": "4.7 mi",
+      "url": "https://www.google.com/maps/search/FUNBOX%20BIRMINGHAM+near+33.614781%2C-86.612448",
+      "isFar": true
+    }
+  ],
+  "hotels": [
+    {
+      "name": "Beautiful Main Street Living in Trussville",
+      "distance": "0.2 mi",
+      "url": "https://www.google.com/maps/search/Beautiful%20Main%20Street%20Living%20in%20Trussville+near+33.614781%2C-86.612448"
+    },
+    {
+      "name": "Beautiful Main Street Living in Trussville",
+      "distance": "0.2 mi",
+      "url": "https://www.google.com/maps/search/Beautiful%20Main%20Street%20Living%20in%20Trussville+near+33.614781%2C-86.612448"
+    },
+    {
+      "name": "Fabulous Flat in Downtown Trussville",
+      "distance": "0.2 mi",
+      "url": "https://www.google.com/maps/search/Fabulous%20Flat%20in%20Downtown%20Trussville+near+33.614781%2C-86.612448"
+    },
+    {
+      "name": "5 Star Flat in Downtown Trussville",
+      "distance": "0.3 mi",
+      "url": "https://www.google.com/maps/search/5%20Star%20Flat%20in%20Downtown%20Trussville+near+33.614781%2C-86.612448"
+    },
+    {
+      "name": "Main Street Flats",
+      "distance": "0.3 mi",
+      "url": "https://www.google.com/maps/search/Main%20Street%20Flats+near+33.614781%2C-86.612448"
+    },
+    {
+      "name": "5 Star Flat in Downtown Trussville",
+      "distance": "0.3 mi",
+      "url": "https://www.google.com/maps/search/5%20Star%20Flat%20in%20Downtown%20Trussville+near+33.614781%2C-86.612448"
+    },
+    {
+      "name": "Luxury in Downtown Trussville",
+      "distance": "0.3 mi",
+      "url": "https://www.google.com/maps/search/Luxury%20in%20Downtown%20Trussville+near+33.614781%2C-86.612448"
+    }
+  ],
+  "gas": [
+    {
+      "name": "Shell",
+      "distance": "0.3 mi",
+      "url": "https://www.google.com/maps/search/Shell+near+33.614781%2C-86.612448"
+    },
+    {
+      "name": "Supermart",
+      "distance": "0.3 mi",
+      "url": "https://www.google.com/maps/search/Supermart+near+33.614781%2C-86.612448"
+    },
+    {
+      "name": "Shell",
+      "distance": "0.4 mi",
+      "url": "https://www.google.com/maps/search/Shell+near+33.614781%2C-86.612448"
+    },
+    {
+      "name": "Circle K | Gas Station",
+      "distance": "0.4 mi",
+      "url": "https://www.google.com/maps/search/Circle%20K%20%7C%20Gas%20Station+near+33.614781%2C-86.612448"
+    },
+    {
+      "name": "Standard Oil Products",
+      "distance": "0.5 mi",
+      "url": "https://www.google.com/maps/search/Standard%20Oil%20Products+near+33.614781%2C-86.612448"
+    }
+  ]
+}

@@ -1,0 +1,172 @@
+{
+  "quick_bite": [
+    {
+      "name": "Wendy's",
+      "distance": "0.6 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Wendy's&query_place_id=ChIJbed-6CwE5IkR4r9oPO3-QqA&center=42.2430102,-71.8108866"
+    },
+    {
+      "name": "Subway",
+      "distance": "0.7 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Subway&query_place_id=ChIJTzDYrsQF5IkRL_2DHCjwFEo&center=42.237769899999996,-71.792873"
+    },
+    {
+      "name": "Subway",
+      "distance": "0.8 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Subway&query_place_id=ChIJTwgzzcMF5IkR2stONSOnv_A&center=42.2333171,-71.791573"
+    },
+    {
+      "name": "Crown Fried Chicken",
+      "distance": "0.9 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Crown%20Fried%20Chicken&query_place_id=ChIJKUeEUwMF5IkRqjzEbGR_Nio&center=42.247109099999996,-71.8004021"
+    }
+  ],
+  "coffee": [
+    {
+      "name": "Acoustic Java Roastery & Tasting Room",
+      "distance": "0.6 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Acoustic%20Java%20Roastery%20%26%20Tasting%20Room&query_place_id=ChIJ7aZp7y0E5IkRSXe-GKguaLQ&center=42.241608600000006,-71.81531679999999"
+    },
+    {
+      "name": "Dunkin'",
+      "distance": "0.7 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Dunkin'&query_place_id=ChIJPUYMfdsF5IkRWpNzpQoIHsA&center=42.237795899999995,-71.7928426"
+    },
+    {
+      "name": "Dunkin'",
+      "distance": "0.8 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Dunkin'&query_place_id=ChIJYeV0oEoF5IkRUlf_a5TQdgU&center=42.2458086,-71.8099416"
+    }
+  ],
+  "team_lunch": [
+    {
+      "name": "Anokye Krom",
+      "distance": "0.5 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Anokye%20Krom&query_place_id=ChIJD-YSBtAF5IkRYbDFCfO93XA&center=42.238455599999995,-71.79816389999999"
+    },
+    {
+      "name": "Golden House Restaurant",
+      "distance": "0.6 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Golden%20House%20Restaurant&query_place_id=ChIJx4IMxSwE5IkR3RYoy3MTPOQ&center=42.2430187,-71.8101709"
+    },
+    {
+      "name": "Nouria's Kitchen Featuring Amato's",
+      "distance": "0.6 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Nouria's%20Kitchen%20Featuring%20Amato's&query_place_id=ChIJ8ZwmTz0F5IkRZKRF7_S1GPc&center=42.242469199999995,-71.81202739999999"
+    },
+    {
+      "name": "Joyful Way Restaurant",
+      "distance": "0.7 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Joyful%20Way%20Restaurant&query_place_id=ChIJd8OCi9oF5IkR_UX_C-FuTDc&center=42.232629599999996,-71.7943982"
+    }
+  ],
+  "dinner": [
+    {
+      "name": "Culpeppers Bakery & Cafe",
+      "distance": "0.6 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Culpeppers%20Bakery%20%26%20Cafe&query_place_id=ChIJWchJuSwE5IkRW6U55UF0ycU&center=42.243611099999995,-71.8102778"
+    },
+    {
+      "name": "Sweet T Southern Kitchen",
+      "distance": "0.6 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Sweet%20T%20Southern%20Kitchen&query_place_id=ChIJp9m3McEF5IkRR-1wNmLCKog&center=42.233061299999996,-71.7947482"
+    },
+    {
+      "name": "Pizzeria Delight",
+      "distance": "0.6 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Pizzeria%20Delight&query_place_id=ChIJh_QCUtMF5IkRG_5_RP29pv4&center=42.2440651,-71.8093434"
+    },
+    {
+      "name": "Herbie's",
+      "distance": "0.7 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Herbie's&query_place_id=ChIJ3a0rKkgE5IkR-tliOM-ehXs&center=42.2315957,-71.8188406"
+    },
+    {
+      "name": "Palace Pizza",
+      "distance": "0.7 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Palace%20Pizza&query_place_id=ChIJ5zkkLEgE5IkRzAC-qsYFCXE&center=42.231352199999996,-71.8189136"
+    },
+    {
+      "name": "Cohen's United Baking Co",
+      "distance": "0.7 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Cohen's%20United%20Baking%20Co&query_place_id=ChIJYTTKu9QF5IkRXypogFu1LmA&center=42.2452691,-71.8087579"
+    }
+  ],
+  "bowling": [
+    {
+      "name": "Bowlero Worcester",
+      "distance": "1.2 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Bowlero%20Worcester&query_place_id=ChIJ9yYRg0UE5IkRQKGFdfmWGIg&center=42.222310799999995,-71.8227363"
+    },
+    {
+      "name": "Gold Crown Service",
+      "distance": "1.2 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Gold%20Crown%20Service&query_place_id=ChIJRasnanIF5IkRjGN-wNtFXp0&center=42.2206471,-71.82084689999999"
+    },
+    {
+      "name": "Bowlero Shrewsbury",
+      "distance": "4.9 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Bowlero%20Shrewsbury&query_place_id=ChIJUQdYslkI5IkRsV_lEiRy1g8&center=42.2767841,-71.728645",
+      "isFar": true
+    }
+  ],
+  "arcade": [],
+  "movies": [
+    {
+      "name": "Blackstone Valley 14 Cinema de Lux",
+      "distance": "2.8 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Blackstone%20Valley%2014%20Cinema%20de%20Lux&query_place_id=ChIJDxMTEXEF5IkRpshjBiP00Vc&center=42.199782,-71.77851"
+    },
+    {
+      "name": "Elm Draught House Cinema Inc",
+      "distance": "3.9 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Elm%20Draught%20House%20Cinema%20Inc&query_place_id=ChIJueORFWAF5IkRDbumm2DssSQ&center=42.191963099999995,-71.7583999",
+      "isFar": true
+    }
+  ],
+  "fun": [
+    {
+      "name": "Power industry 50",
+      "distance": "0.6 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Power%20industry%2050&query_place_id=ChIJCWvtXkwF5IkRxOgSs7fEUaY&center=42.2385574,-71.7955315"
+    },
+    {
+      "name": "Bunnies of Clark",
+      "distance": "1.4 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Bunnies%20of%20Clark&query_place_id=ChIJgXy9QAAF5IkRg7Ajxow0MlE&center=42.251061199999995,-71.8223486"
+    },
+    {
+      "name": "Polar Park Warehouse Facade",
+      "distance": "1.5 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Polar%20Park%20Warehouse%20Facade&query_place_id=ChIJm-h3dgAH5IkRV_LqRJHLkpw&center=42.256329,-71.8003495"
+    },
+    {
+      "name": "Beantown Betty Duckboat",
+      "distance": "1.6 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Beantown%20Betty%20Duckboat&query_place_id=ChIJhyo2cHMH5IkRsgeW1mGhQdU&center=42.2576937,-71.7988489"
+    }
+  ],
+  "hotels": [],
+  "gas": [
+    {
+      "name": "Woosta Gas Car Auto Repair, Inspection, & Sales",
+      "distance": "0.5 mi",
+      "url": "https://www.google.com/maps/search/Woosta%20Gas%20Car%20Auto%20Repair%2C%20Inspection%2C%20%26%20Sales+near+42.234985699999996%2C-71.80672659999999"
+    },
+    {
+      "name": "A.L. Prime Energy",
+      "distance": "0.5 mi",
+      "url": "https://www.google.com/maps/search/A.L.%20Prime%20Energy+near+42.234985699999996%2C-71.80672659999999"
+    },
+    {
+      "name": "bp",
+      "distance": "0.6 mi",
+      "url": "https://www.google.com/maps/search/bp+near+42.234985699999996%2C-71.80672659999999"
+    },
+    {
+      "name": "Gulf Gas/ Chop Chop Convenience",
+      "distance": "0.7 mi",
+      "url": "https://www.google.com/maps/search/Gulf%20Gas%2F%20Chop%20Chop%20Convenience+near+42.234985699999996%2C-71.80672659999999"
+    }
+  ]
+}

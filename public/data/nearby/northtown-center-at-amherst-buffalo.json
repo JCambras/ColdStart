@@ -1,0 +1,216 @@
+{
+  "quick_bite": [
+    {
+      "name": "Moe's Southwest Grill",
+      "distance": "0.5 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Moe's%20Southwest%20Grill&query_place_id=ChIJxQEAldFz04kRhVir6brKeco&center=43.0011763,-78.78619499999999"
+    },
+    {
+      "name": "Subway",
+      "distance": "0.5 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Subway&query_place_id=ChIJ_beErdFz04kRZnUfrcNIyUE&center=43.001925500000006,-78.7846587"
+    },
+    {
+      "name": "Sultan's Kitchen",
+      "distance": "0.6 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Sultan's%20Kitchen&query_place_id=ChIJr5IGm1Nz04kRHzRi36ENivg&center=42.9900868,-78.7920844"
+    },
+    {
+      "name": "Mrs. Rich's Corner Cafe",
+      "distance": "0.7 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Mrs.%20Rich's%20Corner%20Cafe&query_place_id=ChIJaehzpNJz04kRrfsjSBuOPag&center=43.000822899999996,-78.7919179"
+    },
+    {
+      "name": "Mighty Taco",
+      "distance": "0.9 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Mighty%20Taco&query_place_id=ChIJ5ZlTRDFy04kRIQ4hqv4YBog&center=42.997261099999996,-78.8002037"
+    }
+  ],
+  "coffee": [
+    {
+      "name": "Tim Hortons",
+      "distance": "0.4 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Tim%20Hortons&query_place_id=ChIJO_5JN0xz04kRpSGo5ZIZiw4&center=42.9996718,-78.7866651"
+    },
+    {
+      "name": "Starbucks Coffee Company",
+      "distance": "0.5 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Starbucks%20Coffee%20Company&query_place_id=ChIJHxc-CdFz04kR9qposmgQJAo&center=43.00178,-78.78535"
+    },
+    {
+      "name": "One World Café. Amhest, NY 14260",
+      "distance": "0.6 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=One%20World%20Caf%C3%A9.%20Amhest%2C%20NY%2014260&query_place_id=ChIJMXWIJr9z04kRiTQisH2GRJ4&center=43.001065,-78.788613"
+    }
+  ],
+  "team_lunch": [
+    {
+      "name": "skybox grille",
+      "distance": "0.1 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=skybox%20grille&query_place_id=ChIJ94T9s8hz04kRQLu2rzw7pAE&center=42.994572,-78.78253000000001"
+    },
+    {
+      "name": "Pistachio's",
+      "distance": "0.5 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Pistachio's&query_place_id=ChIJ2Yu_ktFz04kR7Izl7r3JQN4&center=43.0011648,-78.7864918"
+    },
+    {
+      "name": "Champa Sushi",
+      "distance": "0.5 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Champa%20Sushi&query_place_id=ChIJ7Vv5ktFz04kR7kBjMNa--to&center=43.001222,-78.78642839999999"
+    },
+    {
+      "name": "La Rosa",
+      "distance": "0.5 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=La%20Rosa&query_place_id=ChIJ_beErdFz04kRMhs_oUbf9us&center=43.001696599999995,-78.7849312"
+    },
+    {
+      "name": "Young Chow",
+      "distance": "0.5 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Young%20Chow&query_place_id=ChIJ_beErdFz04kRh5CQ50b7EgA&center=43.0019472,-78.78446559999999"
+    },
+    {
+      "name": "Austin's Kitchen ( AK Korean Comfort Food)",
+      "distance": "0.5 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Austin's%20Kitchen%20(%20AK%20Korean%20Comfort%20Food)&query_place_id=ChIJhSHNbGNz04kRzL8LImSV2fc&center=43.0019656,-78.78439420000001"
+    }
+  ],
+  "dinner": [
+    {
+      "name": "The Cheesy Chick @ UB North",
+      "distance": "0.5 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=The%20Cheesy%20Chick%20%40%20UB%20North&query_place_id=ChIJUWpygpNz04kRXYxByZi-6uw&center=43.0019231,-78.7842364"
+    },
+    {
+      "name": "Mo'z Pizza and Wingz",
+      "distance": "0.5 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Mo'z%20Pizza%20and%20Wingz&query_place_id=ChIJ-fIlHQBz04kRQRRHhgUBUPE&center=42.990823,-78.791697"
+    },
+    {
+      "name": "bb.q Chicken Buffalo - Amherst",
+      "distance": "0.5 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=bb.q%20Chicken%20Buffalo%20-%20Amherst&query_place_id=ChIJU6FEo7Zz04kRIqpTpLdsi6o&center=42.9893025,-78.79070709999999"
+    },
+    {
+      "name": "Arirang Restaurant",
+      "distance": "0.6 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Arirang%20Restaurant&query_place_id=ChIJg-wIE7Vz04kRcr3wMPXaomc&center=42.9894422,-78.79104650000001"
+    },
+    {
+      "name": "Nature's Marketplace Bakery",
+      "distance": "1.8 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Nature's%20Marketplace%20Bakery&query_place_id=ChIJn2vdDmpy04kRcunhbG_wC_U&center=42.989411499999996,-78.816616"
+    },
+    {
+      "name": "Crumbl",
+      "distance": "1.9 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Crumbl&query_place_id=ChIJh1lE21Jz04kR3uzcYskpVvY&center=42.9991902,-78.81960839999999"
+    }
+  ],
+  "bowling": [
+    {
+      "name": "Cherry Laurel Lanes",
+      "distance": "4.2 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Cherry%20Laurel%20Lanes&query_place_id=ChIJWVL0EP5x04kRYM0JmYJZ5BE&center=43.0467302,-78.8229277",
+      "isFar": true
+    },
+    {
+      "name": "Tonawanda Bowling Center",
+      "distance": "4.2 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Tonawanda%20Bowling%20Center&query_place_id=ChIJA11D0MJt04kRQro_cvPfdXo&center=43.0072222,-78.8627778",
+      "isFar": true
+    },
+    {
+      "name": "Transit Lanes Inc",
+      "distance": "4.4 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Transit%20Lanes%20Inc&query_place_id=ChIJUSla08t104kRFmY2Cm40dKs&center=42.982088999999995,-78.697981",
+      "isFar": true
+    }
+  ],
+  "arcade": [],
+  "movies": [
+    {
+      "name": "AMC Maple Ridge 8",
+      "distance": "1.1 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=AMC%20Maple%20Ridge%208&query_place_id=ChIJA7zVGDhy04kRRnVQYTy2kks&center=42.993148,-78.8043701"
+    },
+    {
+      "name": "The Screening Room Cinema & Arts Cafe",
+      "distance": "1.9 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=The%20Screening%20Room%20Cinema%20%26%20Arts%20Cafe&query_place_id=ChIJd6xJB15y04kR0Pdv1eqMdEQ&center=42.9889941,-78.8193588"
+    },
+    {
+      "name": "Movie Management Pro",
+      "distance": "2.5 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Movie%20Management%20Pro&query_place_id=ChIJiYv9Tgx104kRCeVzszXv6Gc&center=42.974437800000004,-78.7403114"
+    }
+  ],
+  "fun": [
+    {
+      "name": "Glen Falls",
+      "distance": "2.9 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Glen%20Falls&query_place_id=ChIJqUD_GoF004kRaQuKkFLGOYs&center=42.9639922,-78.7439067"
+    },
+    {
+      "name": "Friendship Fortress",
+      "distance": "2.9 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Friendship%20Fortress&query_place_id=ChIJV1ctKGV304kRPbTDIYnX0Eg&center=43.0226393,-78.7390404"
+    },
+    {
+      "name": "Kenilworth park splash pad",
+      "distance": "3.0 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Kenilworth%20park%20splash%20pad&query_place_id=ChIJGT30cRpz04kRVjg99dCeT30&center=42.964668700000004,-78.8263008",
+      "isFar": true
+    },
+    {
+      "name": "Adventure Landing",
+      "distance": "3.3 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Adventure%20Landing&query_place_id=ChIJgRoj7oNt04kR5JbnO5uLmX0&center=42.9811967,-78.8450743",
+      "isFar": true
+    }
+  ],
+  "hotels": [
+    {
+      "name": "Hampton Inn Buffalo - Amherst",
+      "distance": "0.1 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Hampton%20Inn%20Buffalo%20-%20Amherst&query_place_id=ChIJRwVSaslz04kRhFXd0Hd50G8&center=42.9944509,-78.7854078"
+    },
+    {
+      "name": "301 Flint Village",
+      "distance": "0.3 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=301%20Flint%20Village&query_place_id=ChIJaTI1Eglz04kR9tcCet8Bddc&center=42.9975576,-78.7860608"
+    },
+    {
+      "name": "Comfort Inn University",
+      "distance": "0.5 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Comfort%20Inn%20University&query_place_id=ChIJuX5_WbVz04kRtVvYuN60SAQ&center=42.990455999999995,-78.790734"
+    },
+    {
+      "name": "Comfort Inn University - King Room - Non-Smoking",
+      "distance": "0.5 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Comfort%20Inn%20University%20-%20King%20Room%20-%20Non-Smoking&query_place_id=ChIJi23FY7Vz04kRSZVw9fFHBJc&center=42.9905586,-78.79113009999999"
+    }
+  ],
+  "gas": [
+    {
+      "name": "Sunoco",
+      "distance": "0.5 mi",
+      "url": "https://www.google.com/maps/search/Sunoco+near+42.9944487%2C-78.7824547"
+    },
+    {
+      "name": "Mobil",
+      "distance": "1.1 mi",
+      "url": "https://www.google.com/maps/search/Mobil+near+42.9944487%2C-78.7824547"
+    },
+    {
+      "name": "Marathon",
+      "distance": "1.1 mi",
+      "url": "https://www.google.com/maps/search/Marathon+near+42.9944487%2C-78.7824547"
+    },
+    {
+      "name": "Buddy's",
+      "distance": "1.1 mi",
+      "url": "https://www.google.com/maps/search/Buddy's+near+42.9944487%2C-78.7824547"
+    }
+  ]
+}

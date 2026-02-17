@@ -1,0 +1,201 @@
+{
+  "quick_bite": [],
+  "coffee": [
+    {
+      "name": "Shine Wellness Bar",
+      "distance": "0.1 mi",
+      "url": "https://www.google.com/maps/search/Shine%20Wellness%20Bar+near+43.6660562%2C-116.68824810000001"
+    },
+    {
+      "name": "Flying M Coffeeshop",
+      "distance": "0.1 mi",
+      "url": "https://www.google.com/maps/search/Flying%20M%20Coffeeshop+near+43.6660562%2C-116.68824810000001"
+    },
+    {
+      "name": "Bond and Bevel",
+      "distance": "0.1 mi",
+      "url": "https://www.google.com/maps/search/Bond%20and%20Bevel+near+43.6660562%2C-116.68824810000001"
+    }
+  ],
+  "team_lunch": [
+    {
+      "name": "jose churros",
+      "distance": "0.1 mi",
+      "url": "https://www.google.com/maps/search/jose%20churros+near+43.6660562%2C-116.68824810000001"
+    },
+    {
+      "name": "Nara Ramen & Sushi Bar -Caldwell",
+      "distance": "0.1 mi",
+      "url": "https://www.google.com/maps/search/Nara%20Ramen%20%26%20Sushi%20Bar%20-Caldwell+near+43.6660562%2C-116.68824810000001"
+    },
+    {
+      "name": "Golden Palace Restaurant",
+      "distance": "0.1 mi",
+      "url": "https://www.google.com/maps/search/Golden%20Palace%20Restaurant+near+43.6660562%2C-116.68824810000001"
+    },
+    {
+      "name": "El Rico Pan Bakery",
+      "distance": "0.1 mi",
+      "url": "https://www.google.com/maps/search/El%20Rico%20Pan%20Bakery+near+43.6660562%2C-116.68824810000001"
+    }
+  ],
+  "dinner": [
+    {
+      "name": "The Twisted Fig",
+      "distance": "0.1 mi",
+      "url": "https://www.google.com/maps/search/The%20Twisted%20Fig+near+43.6660562%2C-116.68824810000001"
+    },
+    {
+      "name": "Chop Shop",
+      "distance": "0.1 mi",
+      "url": "https://www.google.com/maps/search/Chop%20Shop+near+43.6660562%2C-116.68824810000001"
+    },
+    {
+      "name": "Extreme Pizza Caldwell",
+      "distance": "0.1 mi",
+      "url": "https://www.google.com/maps/search/Extreme%20Pizza%20Caldwell+near+43.6660562%2C-116.68824810000001"
+    },
+    {
+      "name": "Grit 2C",
+      "distance": "0.1 mi",
+      "url": "https://www.google.com/maps/search/Grit%202C+near+43.6660562%2C-116.68824810000001"
+    },
+    {
+      "name": "AMANO",
+      "distance": "0.1 mi",
+      "url": "https://www.google.com/maps/search/AMANO+near+43.6660562%2C-116.68824810000001"
+    },
+    {
+      "name": "Indian Creek Steakhouse",
+      "distance": "0.1 mi",
+      "url": "https://www.google.com/maps/search/Indian%20Creek%20Steakhouse+near+43.6660562%2C-116.68824810000001"
+    },
+    {
+      "name": "Casa Añejo",
+      "distance": "0.1 mi",
+      "url": "https://www.google.com/maps/search/Casa%20A%C3%B1ejo+near+43.6660562%2C-116.68824810000001"
+    }
+  ],
+  "bowling": [
+    {
+      "name": "Caldwell Bowl",
+      "distance": "1.0 mi",
+      "url": "https://www.google.com/maps/search/Caldwell%20Bowl+near+43.6660562%2C-116.68824810000001"
+    },
+    {
+      "name": "Nampa Bowl",
+      "distance": "7.1 mi",
+      "url": "https://www.google.com/maps/search/Nampa%20Bowl+near+43.6660562%2C-116.68824810000001",
+      "isFar": true
+    },
+    {
+      "name": "11th Frame Lounge",
+      "distance": "7.1 mi",
+      "url": "https://www.google.com/maps/search/11th%20Frame%20Lounge+near+43.6660562%2C-116.68824810000001",
+      "isFar": true
+    }
+  ],
+  "arcade": [],
+  "movies": [
+    {
+      "name": "Caldwell Luxe Reel Theatre",
+      "distance": "0.1 mi",
+      "url": "https://www.google.com/maps/search/Caldwell%20Luxe%20Reel%20Theatre+near+43.6660562%2C-116.68824810000001"
+    },
+    {
+      "name": "Terrace Drive-In Theatre and Events Center",
+      "distance": "2.8 mi",
+      "url": "https://www.google.com/maps/search/Terrace%20Drive-In%20Theatre%20and%20Events%20Center+near+43.6660562%2C-116.68824810000001"
+    },
+    {
+      "name": "Regal Edwards Nampa Spectrum",
+      "distance": "6.0 mi",
+      "url": "https://www.google.com/maps/search/Regal%20Edwards%20Nampa%20Spectrum+near+43.6660562%2C-116.68824810000001",
+      "isFar": true
+    }
+  ],
+  "fun": [
+    {
+      "name": "Izzy's awesome garage arcade",
+      "distance": "4.6 mi",
+      "url": "https://www.google.com/maps/search/Izzy's%20awesome%20garage%20arcade+near+43.6660562%2C-116.68824810000001",
+      "isFar": true
+    },
+    {
+      "name": "Labyrinth Escape Games Nampa",
+      "distance": "8.9 mi",
+      "url": "https://www.google.com/maps/search/Labyrinth%20Escape%20Games%20Nampa+near+43.6660562%2C-116.68824810000001",
+      "isFar": true
+    },
+    {
+      "name": "Sky Zone Trampoline Park",
+      "distance": "10.0 mi",
+      "url": "https://www.google.com/maps/search/Sky%20Zone%20Trampoline%20Park+near+43.6660562%2C-116.68824810000001",
+      "isFar": true
+    }
+  ],
+  "hotels": [
+    {
+      "name": "Eagles Lodge",
+      "distance": "0.1 mi",
+      "url": "https://www.google.com/maps/search/Eagles%20Lodge+near+43.6660562%2C-116.68824810000001"
+    },
+    {
+      "name": "Sawtooth Outdoor Vibes, Vaulted ceilings, Sleeps 8",
+      "distance": "0.2 mi",
+      "url": "https://www.google.com/maps/search/Sawtooth%20Outdoor%20Vibes%2C%20Vaulted%20ceilings%2C%20Sleeps%208+near+43.6660562%2C-116.68824810000001"
+    },
+    {
+      "name": "The Greenhouse!",
+      "distance": "0.3 mi",
+      "url": "https://www.google.com/maps/search/The%20Greenhouse!+near+43.6660562%2C-116.68824810000001"
+    },
+    {
+      "name": "2BR Dog-Friendly Duplex Close to Boise with W and D - Two-Bedroom House",
+      "distance": "0.4 mi",
+      "url": "https://www.google.com/maps/search/2BR%20Dog-Friendly%20Duplex%20Close%20to%20Boise%20with%20W%20and%20D%20-%20Two-Bedroom%20House+near+43.6660562%2C-116.68824810000001"
+    },
+    {
+      "name": "'the Diamond Bungalow' - Cozy Caldwell Home! - House (3 Bedrooms)",
+      "distance": "0.4 mi",
+      "url": "https://www.google.com/maps/search/'the%20Diamond%20Bungalow'%20-%20Cozy%20Caldwell%20Home!%20-%20House%20(3%20Bedrooms)+near+43.6660562%2C-116.68824810000001"
+    },
+    {
+      "name": "The Diamond Bungalow - Cozy Caldwell Home!",
+      "distance": "0.4 mi",
+      "url": "https://www.google.com/maps/search/The%20Diamond%20Bungalow%20-%20Cozy%20Caldwell%20Home!+near+43.6660562%2C-116.68824810000001"
+    },
+    {
+      "name": "'the Diamond Bungalow' - Cozy Caldwell Home!",
+      "distance": "0.4 mi",
+      "url": "https://www.google.com/maps/search/'the%20Diamond%20Bungalow'%20-%20Cozy%20Caldwell%20Home!+near+43.6660562%2C-116.68824810000001"
+    }
+  ],
+  "gas": [
+    {
+      "name": "Sinclair Gas Station",
+      "distance": "0.2 mi",
+      "url": "https://www.google.com/maps/search/Sinclair%20Gas%20Station+near+43.6660562%2C-116.68824810000001"
+    },
+    {
+      "name": "Shell",
+      "distance": "0.3 mi",
+      "url": "https://www.google.com/maps/search/Shell+near+43.6660562%2C-116.68824810000001"
+    },
+    {
+      "name": "Chevron",
+      "distance": "0.5 mi",
+      "url": "https://www.google.com/maps/search/Chevron+near+43.6660562%2C-116.68824810000001"
+    },
+    {
+      "name": "Cfn",
+      "distance": "0.6 mi",
+      "url": "https://www.google.com/maps/search/Cfn+near+43.6660562%2C-116.68824810000001"
+    },
+    {
+      "name": "Chevron",
+      "distance": "0.6 mi",
+      "url": "https://www.google.com/maps/search/Chevron+near+43.6660562%2C-116.68824810000001"
+    }
+  ]
+}

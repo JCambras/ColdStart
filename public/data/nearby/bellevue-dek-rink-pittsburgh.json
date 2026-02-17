@@ -1,0 +1,164 @@
+{
+  "quick_bite": [
+    {
+      "name": "Subway",
+      "distance": "0.8 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Subway&query_place_id=ChIJKVt9xMf0NIgRpIQ5v3luLhA&center=40.5169393,-80.0328266"
+    },
+    {
+      "name": "Taco Bell",
+      "distance": "0.8 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Taco%20Bell&query_place_id=ChIJ4RuE6Mf0NIgRmNBzcfDBh6E&center=40.5170254,-80.03223430000001"
+    },
+    {
+      "name": "KFC",
+      "distance": "0.9 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=KFC&query_place_id=ChIJdabF3cf0NIgRZ_N7vutN08c&center=40.5174516,-80.0326832"
+    },
+    {
+      "name": "Florence Pizza and Pasta",
+      "distance": "1.0 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Florence%20Pizza%20and%20Pasta&query_place_id=ChIJh4COw3D1NIgRvtt7roZYV7E&center=40.5205574,-80.033298"
+    },
+    {
+      "name": "Wendy's",
+      "distance": "1.5 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Wendy's&query_place_id=ChIJteciFQb1NIgRG_Sreb5vmiU&center=40.494122499999996,-80.0635886"
+    }
+  ],
+  "coffee": [
+    {
+      "name": "Dunkin'",
+      "distance": "0.9 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Dunkin'&query_place_id=ChIJA9JXBsj0NIgR6xMN6qfuHME&center=40.5178326,-80.031713"
+    },
+    {
+      "name": "Dragon's Roast Cafe",
+      "distance": "0.9 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Dragon's%20Roast%20Cafe&query_place_id=ChIJ3yRcLyz1NIgRZc0b5PEZPbc&center=40.517840899999996,-80.03055359999999"
+    },
+    {
+      "name": "West View Brew",
+      "distance": "1.0 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=West%20View%20Brew&query_place_id=ChIJ6-L3HQD1NIgRXWzwMa9YJNQ&center=40.5196106,-80.0321769"
+    }
+  ],
+  "team_lunch": [
+    {
+      "name": "Giant Eagle Bakery",
+      "distance": "0.7 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Giant%20Eagle%20Bakery&query_place_id=ChIJm4tLR8b0NIgRsjBy07Ii1qo&center=40.5169323,-80.0391527"
+    },
+    {
+      "name": "Peace of Bread",
+      "distance": "1.1 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Peace%20of%20Bread&query_place_id=ChIJq6m4rc71NIgRWweaJwzU0Qs&center=40.520528899999995,-80.0316428"
+    }
+  ],
+  "dinner": [
+    {
+      "name": "Danny's Bar & Grill",
+      "distance": "0.6 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Danny's%20Bar%20%26%20Grill&query_place_id=ChIJuSg4d9v0NIgRwC9BwhBCY5o&center=40.514514,-80.0448624"
+    },
+    {
+      "name": "Big Shot Bob’s House of Wings - North Hills",
+      "distance": "0.6 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Big%20Shot%20Bob%E2%80%99s%20House%20of%20Wings%20-%20North%20Hills&query_place_id=ChIJz4A16HytNYgRZFAllacgcyU&center=40.5115446,-80.030497"
+    },
+    {
+      "name": "Chan's Tea House",
+      "distance": "0.7 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Chan's%20Tea%20House&query_place_id=ChIJfwtER8b0NIgRNEGdROQr1HY&center=40.5161209,-80.03763579999999"
+    },
+    {
+      "name": "Howard's Tavern",
+      "distance": "0.7 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Howard's%20Tavern&query_place_id=ChIJuc-YQWf1NIgRi3FYNbcPek0&center=40.5112242,-80.0274081"
+    },
+    {
+      "name": "Gino Bros Pizza Express",
+      "distance": "0.8 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Gino%20Bros%20Pizza%20Express&query_place_id=ChIJHe4onqb1NIgR5mfJvYv8g9o&center=40.5168988,-80.03277489999999"
+    },
+    {
+      "name": "Royal Myanmar Restaurant",
+      "distance": "1.0 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Royal%20Myanmar%20Restaurant&query_place_id=ChIJc3XI4bf0NIgRWFiQNvHOPNo&center=40.518584399999995,-80.03108"
+    }
+  ],
+  "bowling": [
+    {
+      "name": "Pines Plaza Lanes",
+      "distance": "2.9 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Pines%20Plaza%20Lanes&query_place_id=ChIJ0y2rHj6LNIgRhEEJFWBHj2I&center=40.548567299999995,-80.0357607"
+    },
+    {
+      "name": "Kennedy Lanes",
+      "distance": "3.2 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Kennedy%20Lanes&query_place_id=ChIJ9QZ1po31NIgRuGiSjg-SqXs&center=40.4752219,-80.08609899999999",
+      "isFar": true
+    },
+    {
+      "name": "Millvale Lanes",
+      "distance": "3.9 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Millvale%20Lanes&query_place_id=ChIJF9KOFqjzNIgRZTFvyGDO8pE&center=40.481462,-79.974139",
+      "isFar": true
+    }
+  ],
+  "arcade": [],
+  "movies": [
+    {
+      "name": "The Parkway Theater & Film Lounge",
+      "distance": "2.9 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=The%20Parkway%20Theater%20%26%20Film%20Lounge&query_place_id=ChIJrb0cc7_1NIgR4XHDE41Sy3Q&center=40.4719482,-80.0725132"
+    },
+    {
+      "name": "The Rangos Giant Cinema",
+      "distance": "4.4 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=The%20Rangos%20Giant%20Cinema&query_place_id=ChIJq6pqogL0NIgRsYCh106RjUY&center=40.4455834,-80.0178218",
+      "isFar": true
+    },
+    {
+      "name": "Row House Cinema - Lawrenceville",
+      "distance": "4.9 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Row%20House%20Cinema%20-%20Lawrenceville&query_place_id=ChIJg3lfn03yNIgRsLsytAqbydA&center=40.469939,-79.96106499999999",
+      "isFar": true
+    }
+  ],
+  "fun": [
+    {
+      "name": "Davis Avenue Pedestrian Bridge to Riverview Park",
+      "distance": "1.9 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Davis%20Avenue%20Pedestrian%20Bridge%20to%20Riverview%20Park&query_place_id=ChIJL6ybNgD1NIgR99KE5NEfIwU&center=40.4817368,-80.02616189999999"
+    },
+    {
+      "name": "The Elusive Chicken Tender Man, Public Sculpture, Artist Unkown",
+      "distance": "2.3 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=The%20Elusive%20Chicken%20Tender%20Man%2C%20Public%20Sculpture%2C%20Artist%20Unkown&query_place_id=ChIJRyXQbgD1NIgRxtmLfuC5FPg&center=40.4765922,-80.0228634"
+    },
+    {
+      "name": "Three Rivers Water Trail Launch - Westhall St",
+      "distance": "2.4 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Three%20Rivers%20Water%20Trail%20Launch%20-%20Westhall%20St&query_place_id=ChIJleLYhhb1NIgRivL2frOdsKU&center=40.472074000000006,-80.04345099999999"
+    }
+  ],
+  "hotels": [],
+  "gas": [
+    {
+      "name": "Shell",
+      "distance": "0.6 mi",
+      "url": "https://www.google.com/maps/search/Shell+near+40.5063977%2C-80.0401523"
+    },
+    {
+      "name": "Sunoco",
+      "distance": "0.7 mi",
+      "url": "https://www.google.com/maps/search/Sunoco+near+40.5063977%2C-80.0401523"
+    },
+    {
+      "name": "Stop Go",
+      "distance": "1.2 mi",
+      "url": "https://www.google.com/maps/search/Stop%20Go+near+40.5063977%2C-80.0401523"
+    }
+  ]
+}

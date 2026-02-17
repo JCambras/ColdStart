@@ -1,0 +1,214 @@
+{
+  "quick_bite": [
+    {
+      "name": "Subway",
+      "distance": "1.0 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Subway&query_place_id=ChIJO9-nf5yIwokRYRfczaEkPEc&center=40.800045999999995,-73.6592306"
+    },
+    {
+      "name": "Subway",
+      "distance": "1.5 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Subway&query_place_id=ChIJiw4-lsyIwokR4WqeS05UJow&center=40.829377,-73.684112"
+    },
+    {
+      "name": "Wings Plus",
+      "distance": "1.7 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Wings%20Plus&query_place_id=ChIJCQbSZ82IwokRNctojA6LyRI&center=40.8293848,-73.68822770000001"
+    },
+    {
+      "name": "Burger King",
+      "distance": "1.8 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Burger%20King&query_place_id=ChIJKwk6wmyGwokRcD_L7TN4ni8&center=40.808957,-73.629086"
+    },
+    {
+      "name": "Wendy's",
+      "distance": "1.9 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Wendy's&query_place_id=ChIJ951z5myGwokRIPJBU7lwRo4&center=40.808883099999996,-73.6280298"
+    },
+    {
+      "name": "Taco Bell / KFC",
+      "distance": "1.9 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Taco%20Bell%20%2F%20KFC&query_place_id=ChIJ_Zvwem2GwokR7HKALw0DmSM&center=40.813033,-73.62705330000001"
+    }
+  ],
+  "coffee": [
+    {
+      "name": "Dunkin'",
+      "distance": "1.0 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Dunkin'&query_place_id=ChIJ7RwvFpyIwokRvOokHnL9I80&center=40.799036,-73.663151"
+    },
+    {
+      "name": "Organic Krush Kitchen & Eatery",
+      "distance": "1.1 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Organic%20Krush%20Kitchen%20%26%20Eatery&query_place_id=ChIJ7-APGduHwokRkuv39eRQKMI&center=40.8034871,-73.6462109"
+    },
+    {
+      "name": "Boychiks Bagels",
+      "distance": "1.5 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Boychiks%20Bagels&query_place_id=ChIJGR5-ag-JwokRC-666uiklw0&center=40.828862099999995,-73.68408529999999"
+    },
+    {
+      "name": "Ble Cafe & Bakery",
+      "distance": "1.8 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Ble%20Cafe%20%26%20Bakery&query_place_id=ChIJ2SAEHTyJwokR3UkpuW9fd_4&center=40.830863,-73.687727"
+    }
+  ],
+  "team_lunch": [
+    {
+      "name": "Farmer's Fridge",
+      "distance": "0.7 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Farmer's%20Fridge&query_place_id=ChIJV73ZZVGJwokR1kSP6xr-5SQ&center=40.804269,-73.6704524"
+    },
+    {
+      "name": "Roslyn's Cellar",
+      "distance": "1.0 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Roslyn's%20Cellar&query_place_id=ChIJq6q6tSCGwokRy_aqKdNAbFY&center=40.80159640000001,-73.6522872"
+    },
+    {
+      "name": "مكان تمشيه",
+      "distance": "1.1 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=%D9%85%D9%83%D8%A7%D9%86%20%D8%AA%D9%85%D8%B4%D9%8A%D9%87&query_place_id=ChIJDbFbQACHwokR18ukuxlSELc&center=40.8037902,-73.64683409999999"
+    },
+    {
+      "name": "Landmark Diner",
+      "distance": "1.1 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Landmark%20Diner&query_place_id=ChIJHW0McZyIwokRF0dPYwOi6Cs&center=40.7978168,-73.667683"
+    },
+    {
+      "name": "Let There Be Bagels",
+      "distance": "1.2 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Let%20There%20Be%20Bagels&query_place_id=ChIJH3KnIcmIwokRpnGlDZjSRU4&center=40.8230674,-73.6813719"
+    },
+    {
+      "name": "Munsey Park Bagel",
+      "distance": "1.7 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Munsey%20Park%20Bagel&query_place_id=ChIJYVYI5vaIwokRBbn6DTL7-UY&center=40.7947527,-73.685479"
+    }
+  ],
+  "dinner": [
+    {
+      "name": "Wild Fig",
+      "distance": "1.0 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Wild%20Fig&query_place_id=ChIJUVOsepuIwokR0611gwTS26I&center=40.7994832,-73.66009559999999"
+    },
+    {
+      "name": "Atlas New World Bistro",
+      "distance": "1.0 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Atlas%20New%20World%20Bistro&query_place_id=ChIJOV_YbqaHwokRrqfGRG7XCaw&center=40.80159640000001,-73.6522872"
+    },
+    {
+      "name": "Bryant & Cooper",
+      "distance": "1.0 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Bryant%20%26%20Cooper&query_place_id=ChIJOUM-uJqIwokRpMRFFgntNlE&center=40.798914499999995,-73.663983"
+    },
+    {
+      "name": "Babite Bakery",
+      "distance": "1.0 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Babite%20Bakery&query_place_id=ChIJV1uLRu-JwokRMpQcCM-Pjq0&center=40.8156932,-73.6830666"
+    },
+    {
+      "name": "Panini Café at Diane's",
+      "distance": "1.1 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Panini%20Caf%C3%A9%20at%20Diane's&query_place_id=ChIJp0hGFItiwokRyDTmv_Jo6us&center=40.804053499999995,-73.6468395"
+    },
+    {
+      "name": "LIMANI",
+      "distance": "1.1 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=LIMANI&query_place_id=ChIJx7s3E5yIwokRyk3QGa4nVqk&center=40.798066,-73.66593800000001"
+    }
+  ],
+  "bowling": [
+    {
+      "name": "Bowl 360 New Hyde Park",
+      "distance": "4.3 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Bowl%20360%20New%20Hyde%20Park&query_place_id=ChIJd0qUAU2JwokRPemv-zbPEIA&center=40.7521039,-73.6583235",
+      "isFar": true
+    },
+    {
+      "name": "Lucky Strike Mineola",
+      "distance": "4.6 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Lucky%20Strike%20Mineola&query_place_id=ChIJhah-nZKHwokRrplQxyycKRU&center=40.753293899999996,-73.6272212",
+      "isFar": true
+    }
+  ],
+  "arcade": [],
+  "movies": [
+    {
+      "name": "Roslyn Cinema",
+      "distance": "1.2 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Roslyn%20Cinema&query_place_id=ChIJjfyvPx6HwokRjQ8v9Cr8yww&center=40.7997855,-73.6498957"
+    },
+    {
+      "name": "Manhasset Cinemas",
+      "distance": "2.2 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Manhasset%20Cinemas&query_place_id=ChIJXzg0aimJwokRAb7DSg0pQto&center=40.798538199999996,-73.6998989"
+    },
+    {
+      "name": "AMC Glen Cove 6",
+      "distance": "4.0 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=AMC%20Glen%20Cove%206&query_place_id=ChIJoXROF3WFwokR9pym6QT941c&center=40.865886599999996,-73.63116269999999",
+      "isFar": true
+    }
+  ],
+  "fun": [
+    {
+      "name": "Miracle on 34th St House",
+      "distance": "1.1 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Miracle%20on%2034th%20St%20House&query_place_id=ChIJNVxc-1OJwokR31sZs9NZbqo&center=40.819972199999995,-73.6822014"
+    },
+    {
+      "name": "Ellen E. Ward Memorial Clock Tower",
+      "distance": "1.2 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Ellen%20E.%20Ward%20Memorial%20Clock%20Tower&query_place_id=ChIJYyXQm96HwokRE2-eaAikuXU&center=40.799759699999996,-73.6504939"
+    },
+    {
+      "name": "Splash pad",
+      "distance": "2.0 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Splash%20pad&query_place_id=ChIJd6ADkgiHwokR_oVm-JYZyQc&center=40.7882956,-73.6429232"
+    },
+    {
+      "name": "Hamlet Estates Lake",
+      "distance": "2.2 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Hamlet%20Estates%20Lake&query_place_id=ChIJIxgQVQCJwokRaD8joQX6bKs&center=40.7836344,-73.6780131"
+    }
+  ],
+  "hotels": [
+    {
+      "name": "Hilton Garden Inn Roslyn",
+      "distance": "0.5 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Hilton%20Garden%20Inn%20Roslyn&query_place_id=ChIJDbaLx6GIwokRNKBjpnZOPOo&center=40.808448999999996,-73.6572762"
+    },
+    {
+      "name": "The Roslyn, Tapestry Collection by Hilton",
+      "distance": "1.0 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=The%20Roslyn%2C%20Tapestry%20Collection%20by%20Hilton&query_place_id=ChIJU6rAsCCGwokRNh7V9_JEJEU&center=40.801560699999996,-73.6523009"
+    },
+    {
+      "name": "Swan country club",
+      "distance": "1.0 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Swan%20country%20club&query_place_id=ChIJ3aHOYgCJwokRt8gax26vrik&center=40.798727799999995,-73.6643236"
+    }
+  ],
+  "gas": [
+    {
+      "name": "bp",
+      "distance": "0.9 mi",
+      "url": "https://www.google.com/maps/search/bp+near+40.8135629%2C-73.6632302"
+    },
+    {
+      "name": "Wave Gas Station",
+      "distance": "1.0 mi",
+      "url": "https://www.google.com/maps/search/Wave%20Gas%20Station+near+40.8135629%2C-73.6632302"
+    },
+    {
+      "name": "Gulf",
+      "distance": "1.0 mi",
+      "url": "https://www.google.com/maps/search/Gulf+near+40.8135629%2C-73.6632302"
+    },
+    {
+      "name": "Mobil",
+      "distance": "1.2 mi",
+      "url": "https://www.google.com/maps/search/Mobil+near+40.8135629%2C-73.6632302"
+    }
+  ]
+}

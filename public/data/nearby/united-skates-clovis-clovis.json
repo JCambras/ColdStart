@@ -1,0 +1,238 @@
+{
+  "quick_bite": [
+    {
+      "name": "Taco Bell",
+      "distance": "0.4 mi",
+      "url": "https://www.google.com/maps/search/Taco%20Bell+near+36.7997047%2C-119.7177769"
+    },
+    {
+      "name": "Rally's",
+      "distance": "0.4 mi",
+      "url": "https://www.google.com/maps/search/Rally's+near+36.7997047%2C-119.7177769"
+    },
+    {
+      "name": "SNOWFOX Sushi",
+      "distance": "0.5 mi",
+      "url": "https://www.google.com/maps/search/SNOWFOX%20Sushi+near+36.7997047%2C-119.7177769"
+    },
+    {
+      "name": "Subway",
+      "distance": "0.5 mi",
+      "url": "https://www.google.com/maps/search/Subway+near+36.7997047%2C-119.7177769"
+    },
+    {
+      "name": "La Pizza Nostra",
+      "distance": "0.6 mi",
+      "url": "https://www.google.com/maps/search/La%20Pizza%20Nostra+near+36.7997047%2C-119.7177769"
+    },
+    {
+      "name": "Long John Silver's | A&W",
+      "distance": "0.6 mi",
+      "url": "https://www.google.com/maps/search/Long%20John%20Silver's%20%7C%20A%26W+near+36.7997047%2C-119.7177769"
+    },
+    {
+      "name": "A&W Restaurant",
+      "distance": "0.6 mi",
+      "url": "https://www.google.com/maps/search/A%26W%20Restaurant+near+36.7997047%2C-119.7177769"
+    }
+  ],
+  "coffee": [
+    {
+      "name": "Starbucks Coffee Company",
+      "distance": "0.4 mi",
+      "url": "https://www.google.com/maps/search/Starbucks%20Coffee%20Company+near+36.7997047%2C-119.7177769"
+    },
+    {
+      "name": "Panaderia Cafe Oaxaca",
+      "distance": "0.5 mi",
+      "url": "https://www.google.com/maps/search/Panaderia%20Cafe%20Oaxaca+near+36.7997047%2C-119.7177769"
+    },
+    {
+      "name": "Kalisskilportablecarwash",
+      "distance": "0.5 mi",
+      "url": "https://www.google.com/maps/search/Kalisskilportablecarwash+near+36.7997047%2C-119.7177769"
+    },
+    {
+      "name": "Monkey Dog Coffee",
+      "distance": "0.5 mi",
+      "url": "https://www.google.com/maps/search/Monkey%20Dog%20Coffee+near+36.7997047%2C-119.7177769"
+    }
+  ],
+  "team_lunch": [
+    {
+      "name": "Romeo's Pizza & Sandwiches",
+      "distance": "0.5 mi",
+      "url": "https://www.google.com/maps/search/Romeo's%20Pizza%20%26%20Sandwiches+near+36.7997047%2C-119.7177769"
+    },
+    {
+      "name": "La Cocina Vallarta",
+      "distance": "0.6 mi",
+      "url": "https://www.google.com/maps/search/La%20Cocina%20Vallarta+near+36.7997047%2C-119.7177769"
+    }
+  ],
+  "dinner": [
+    {
+      "name": "Leonardi's Pizza",
+      "distance": "0.5 mi",
+      "url": "https://www.google.com/maps/search/Leonardi's%20Pizza+near+36.7997047%2C-119.7177769"
+    },
+    {
+      "name": "Paris Banh Mi - Clovis",
+      "distance": "0.6 mi",
+      "url": "https://www.google.com/maps/search/Paris%20Banh%20Mi%20-%20Clovis+near+36.7997047%2C-119.7177769"
+    },
+    {
+      "name": "iKitchen Chinese Food",
+      "distance": "0.6 mi",
+      "url": "https://www.google.com/maps/search/iKitchen%20Chinese%20Food+near+36.7997047%2C-119.7177769"
+    },
+    {
+      "name": "Dream Donuts",
+      "distance": "0.6 mi",
+      "url": "https://www.google.com/maps/search/Dream%20Donuts+near+36.7997047%2C-119.7177769"
+    },
+    {
+      "name": "Triangle Drive In Burgers(Clovis)",
+      "distance": "0.6 mi",
+      "url": "https://www.google.com/maps/search/Triangle%20Drive%20In%20Burgers(Clovis)+near+36.7997047%2C-119.7177769"
+    }
+  ],
+  "bowling": [
+    {
+      "name": "Lucky Strike Clovis",
+      "distance": "0.8 mi",
+      "url": "https://www.google.com/maps/search/Lucky%20Strike%20Clovis+near+36.7997047%2C-119.7177769"
+    },
+    {
+      "name": "Bulldog Bowl",
+      "distance": "1.9 mi",
+      "url": "https://www.google.com/maps/search/Bulldog%20Bowl+near+36.7997047%2C-119.7177769"
+    },
+    {
+      "name": "XLanes",
+      "distance": "3.3 mi",
+      "url": "https://www.google.com/maps/search/XLanes+near+36.7997047%2C-119.7177769",
+      "isFar": true
+    }
+  ],
+  "arcade": [],
+  "movies": [
+    {
+      "name": "Maya Cinemas Fresno",
+      "distance": "1.3 mi",
+      "url": "https://www.google.com/maps/search/Maya%20Cinemas%20Fresno+near+36.7997047%2C-119.7177769"
+    },
+    {
+      "name": "Sierra Vista Cinemas 16",
+      "distance": "1.5 mi",
+      "url": "https://www.google.com/maps/search/Sierra%20Vista%20Cinemas%2016+near+36.7997047%2C-119.7177769"
+    },
+    {
+      "name": "Regal Manchester - Fresno",
+      "distance": "4.0 mi",
+      "url": "https://www.google.com/maps/search/Regal%20Manchester%20-%20Fresno+near+36.7997047%2C-119.7177769",
+      "isFar": true
+    }
+  ],
+  "fun": [
+    {
+      "name": "Extreme laser tag",
+      "distance": "0.8 mi",
+      "url": "https://www.google.com/maps/search/Extreme%20laser%20tag+near+36.7997047%2C-119.7177769"
+    },
+    {
+      "name": "Blackbeard's Family Entertainment",
+      "distance": "0.9 mi",
+      "url": "https://www.google.com/maps/search/Blackbeard's%20Family%20Entertainment+near+36.7997047%2C-119.7177769"
+    },
+    {
+      "name": "Puzzle Effect Escape Rooms - Clovis",
+      "distance": "0.9 mi",
+      "url": "https://www.google.com/maps/search/Puzzle%20Effect%20Escape%20Rooms%20-%20Clovis+near+36.7997047%2C-119.7177769"
+    },
+    {
+      "name": "The Jungle Party House",
+      "distance": "1.3 mi",
+      "url": "https://www.google.com/maps/search/The%20Jungle%20Party%20House+near+36.7997047%2C-119.7177769"
+    },
+    {
+      "name": "No Surrender Adventure Park",
+      "distance": "1.4 mi",
+      "url": "https://www.google.com/maps/search/No%20Surrender%20Adventure%20Park+near+36.7997047%2C-119.7177769"
+    },
+    {
+      "name": "K1 Speed Clovis",
+      "distance": "1.4 mi",
+      "url": "https://www.google.com/maps/search/K1%20Speed%20Clovis+near+36.7997047%2C-119.7177769"
+    },
+    {
+      "name": "Unlock Escape Rooms",
+      "distance": "1.6 mi",
+      "url": "https://www.google.com/maps/search/Unlock%20Escape%20Rooms+near+36.7997047%2C-119.7177769"
+    }
+  ],
+  "hotels": [
+    {
+      "name": "Home away from home!",
+      "distance": "0.3 mi",
+      "url": "https://www.google.com/maps/search/Home%20away%20from%20home!+near+36.7997047%2C-119.7177769"
+    },
+    {
+      "name": "Perfect Summer Retreat in Clovis w Swimming Pool",
+      "distance": "0.3 mi",
+      "url": "https://www.google.com/maps/search/Perfect%20Summer%20Retreat%20in%20Clovis%20w%20Swimming%20Pool+near+36.7997047%2C-119.7177769"
+    },
+    {
+      "name": "Launchpad to Adventure and Relaxation",
+      "distance": "0.3 mi",
+      "url": "https://www.google.com/maps/search/Launchpad%20to%20Adventure%20and%20Relaxation+near+36.7997047%2C-119.7177769"
+    },
+    {
+      "name": "Family friendly home a short distance from Old town Clovis!",
+      "distance": "0.4 mi",
+      "url": "https://www.google.com/maps/search/Family%20friendly%20home%20a%20short%20distance%20from%20Old%20town%20Clovis!+near+36.7997047%2C-119.7177769"
+    },
+    {
+      "name": "Elegant Hot tub l Fire Pit l BBQ l Oldtown Clovis",
+      "distance": "0.4 mi",
+      "url": "https://www.google.com/maps/search/Elegant%20Hot%20tub%20l%20Fire%20Pit%20l%20BBQ%20l%20Oldtown%20Clovis+near+36.7997047%2C-119.7177769"
+    },
+    {
+      "name": "Stone Hearth Cottage in tranquil Clovis",
+      "distance": "0.4 mi",
+      "url": "https://www.google.com/maps/search/Stone%20Hearth%20Cottage%20in%20tranquil%20Clovis+near+36.7997047%2C-119.7177769"
+    },
+    {
+      "name": "Inviting 3bd /2ba Clovis home w /pool, jacuzzi,gym.",
+      "distance": "0.4 mi",
+      "url": "https://www.google.com/maps/search/Inviting%203bd%20%2F2ba%20Clovis%20home%20w%20%2Fpool%2C%20jacuzzi%2Cgym.+near+36.7997047%2C-119.7177769"
+    }
+  ],
+  "gas": [
+    {
+      "name": "Chevron",
+      "distance": "0.4 mi",
+      "url": "https://www.google.com/maps/search/Chevron+near+36.7997047%2C-119.7177769"
+    },
+    {
+      "name": "76",
+      "distance": "0.5 mi",
+      "url": "https://www.google.com/maps/search/76+near+36.7997047%2C-119.7177769"
+    },
+    {
+      "name": "Griffins Gas Liquor & Food",
+      "distance": "0.5 mi",
+      "url": "https://www.google.com/maps/search/Griffins%20Gas%20Liquor%20%26%20Food+near+36.7997047%2C-119.7177769"
+    },
+    {
+      "name": "Valero",
+      "distance": "0.5 mi",
+      "url": "https://www.google.com/maps/search/Valero+near+36.7997047%2C-119.7177769"
+    },
+    {
+      "name": "Valero",
+      "distance": "0.6 mi",
+      "url": "https://www.google.com/maps/search/Valero+near+36.7997047%2C-119.7177769"
+    }
+  ]
+}

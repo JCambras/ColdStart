@@ -1,0 +1,243 @@
+{
+  "quick_bite": [
+    {
+      "name": "Red Pepper",
+      "distance": "0.5 mi",
+      "url": "https://www.google.com/maps/search/Red%20Pepper+near+46.8123076%2C-96.8525725"
+    },
+    {
+      "name": "Jimmy John's",
+      "distance": "0.6 mi",
+      "url": "https://www.google.com/maps/search/Jimmy%20John's+near+46.8123076%2C-96.8525725"
+    },
+    {
+      "name": "Dairy Queen Grill & Chill",
+      "distance": "0.6 mi",
+      "url": "https://www.google.com/maps/search/Dairy%20Queen%20Grill%20%26%20Chill+near+46.8123076%2C-96.8525725"
+    },
+    {
+      "name": "Chipotle Mexican Grill",
+      "distance": "0.7 mi",
+      "url": "https://www.google.com/maps/search/Chipotle%20Mexican%20Grill+near+46.8123076%2C-96.8525725"
+    },
+    {
+      "name": "Panda Express",
+      "distance": "0.7 mi",
+      "url": "https://www.google.com/maps/search/Panda%20Express+near+46.8123076%2C-96.8525725"
+    }
+  ],
+  "coffee": [
+    {
+      "name": "Froth Coffeehouse",
+      "distance": "0.5 mi",
+      "url": "https://www.google.com/maps/search/Froth%20Coffeehouse+near+46.8123076%2C-96.8525725"
+    },
+    {
+      "name": "Sandy's Donuts & Coffee Shop",
+      "distance": "0.5 mi",
+      "url": "https://www.google.com/maps/search/Sandy's%20Donuts%20%26%20Coffee%20Shop+near+46.8123076%2C-96.8525725"
+    },
+    {
+      "name": "Caribou Coffee",
+      "distance": "0.6 mi",
+      "url": "https://www.google.com/maps/search/Caribou%20Coffee+near+46.8123076%2C-96.8525725"
+    },
+    {
+      "name": "Starbucks",
+      "distance": "0.7 mi",
+      "url": "https://www.google.com/maps/search/Starbucks+near+46.8123076%2C-96.8525725"
+    },
+    {
+      "name": "Ziggi's Coffee",
+      "distance": "0.8 mi",
+      "url": "https://www.google.com/maps/search/Ziggi's%20Coffee+near+46.8123076%2C-96.8525725"
+    }
+  ],
+  "team_lunch": [
+    {
+      "name": "Casey's",
+      "distance": "0.5 mi",
+      "url": "https://www.google.com/maps/search/Casey's+near+46.8123076%2C-96.8525725"
+    },
+    {
+      "name": "Duane's House of Pizza - Osgood",
+      "distance": "0.5 mi",
+      "url": "https://www.google.com/maps/search/Duane's%20House%20of%20Pizza%20-%20Osgood+near+46.8123076%2C-96.8525725"
+    },
+    {
+      "name": "Lucy's North China Cuisine",
+      "distance": "0.6 mi",
+      "url": "https://www.google.com/maps/search/Lucy's%20North%20China%20Cuisine+near+46.8123076%2C-96.8525725"
+    },
+    {
+      "name": "DJ’s Grill & Lounge",
+      "distance": "0.9 mi",
+      "url": "https://www.google.com/maps/search/DJ%E2%80%99s%20Grill%20%26%20Lounge+near+46.8123076%2C-96.8525725"
+    },
+    {
+      "name": "Baron's Eatery & Bar",
+      "distance": "0.9 mi",
+      "url": "https://www.google.com/maps/search/Baron's%20Eatery%20%26%20Bar+near+46.8123076%2C-96.8525725"
+    }
+  ],
+  "dinner": [
+    {
+      "name": "SouthTown PourHouse",
+      "distance": "0.5 mi",
+      "url": "https://www.google.com/maps/search/SouthTown%20PourHouse+near+46.8123076%2C-96.8525725"
+    },
+    {
+      "name": "Puerto Vallarta Bar and Grill",
+      "distance": "0.6 mi",
+      "url": "https://www.google.com/maps/search/Puerto%20Vallarta%20Bar%20and%20Grill+near+46.8123076%2C-96.8525725"
+    },
+    {
+      "name": "The Bulldog Tap",
+      "distance": "0.6 mi",
+      "url": "https://www.google.com/maps/search/The%20Bulldog%20Tap+near+46.8123076%2C-96.8525725"
+    },
+    {
+      "name": "Tacos Trompo",
+      "distance": "0.6 mi",
+      "url": "https://www.google.com/maps/search/Tacos%20Trompo+near+46.8123076%2C-96.8525725"
+    }
+  ],
+  "bowling": [
+    {
+      "name": "Kingpinz Social",
+      "distance": "0.9 mi",
+      "url": "https://www.google.com/maps/search/Kingpinz%20Social+near+46.8123076%2C-96.8525725"
+    },
+    {
+      "name": "The Bowler Inc.",
+      "distance": "3.2 mi",
+      "url": "https://www.google.com/maps/search/The%20Bowler%20Inc.+near+46.8123076%2C-96.8525725",
+      "isFar": true
+    },
+    {
+      "name": "West Acres Bowl",
+      "distance": "3.6 mi",
+      "url": "https://www.google.com/maps/search/West%20Acres%20Bowl+near+46.8123076%2C-96.8525725",
+      "isFar": true
+    }
+  ],
+  "arcade": [],
+  "movies": [
+    {
+      "name": "Marcus West Acres Cinema",
+      "distance": "3.0 mi",
+      "url": "https://www.google.com/maps/search/Marcus%20West%20Acres%20Cinema+near+46.8123076%2C-96.8525725",
+      "isFar": true
+    },
+    {
+      "name": "Marcus Century Cinema",
+      "distance": "3.8 mi",
+      "url": "https://www.google.com/maps/search/Marcus%20Century%20Cinema+near+46.8123076%2C-96.8525725",
+      "isFar": true
+    }
+  ],
+  "fun": [
+    {
+      "name": "Slick City Action Park",
+      "distance": "1.0 mi",
+      "url": "https://www.google.com/maps/search/Slick%20City%20Action%20Park+near+46.8123076%2C-96.8525725"
+    },
+    {
+      "name": "Thunder Road",
+      "distance": "1.8 mi",
+      "url": "https://www.google.com/maps/search/Thunder%20Road+near+46.8123076%2C-96.8525725"
+    },
+    {
+      "name": "Shadow Wood Splash Pad",
+      "distance": "2.2 mi",
+      "url": "https://www.google.com/maps/search/Shadow%20Wood%20Splash%20Pad+near+46.8123076%2C-96.8525725"
+    },
+    {
+      "name": "Puzzled Escape Rooms",
+      "distance": "2.8 mi",
+      "url": "https://www.google.com/maps/search/Puzzled%20Escape%20Rooms+near+46.8123076%2C-96.8525725"
+    },
+    {
+      "name": "Hartze's Sorta Resorta",
+      "distance": "3.7 mi",
+      "url": "https://www.google.com/maps/search/Hartze's%20Sorta%20Resorta+near+46.8123076%2C-96.8525725",
+      "isFar": true
+    },
+    {
+      "name": "Sky Zone Trampoline Park",
+      "distance": "3.7 mi",
+      "url": "https://www.google.com/maps/search/Sky%20Zone%20Trampoline%20Park+near+46.8123076%2C-96.8525725",
+      "isFar": true
+    },
+    {
+      "name": "Escape Jr's",
+      "distance": "4.0 mi",
+      "url": "https://www.google.com/maps/search/Escape%20Jr's+near+46.8123076%2C-96.8525725",
+      "isFar": true
+    }
+  ],
+  "hotels": [
+    {
+      "name": "Four Pillars Hospitality",
+      "distance": "0.4 mi",
+      "url": "https://www.google.com/maps/search/Four%20Pillars%20Hospitality+near+46.8123076%2C-96.8525725"
+    },
+    {
+      "name": "Spacious Fargo Family Home w/ Fenced Backyard!",
+      "distance": "0.4 mi",
+      "url": "https://www.google.com/maps/search/Spacious%20Fargo%20Family%20Home%20w%2F%20Fenced%20Backyard!+near+46.8123076%2C-96.8525725"
+    },
+    {
+      "name": "3BR Fenced Yard I King, Pack 'n Play, 75\" TV",
+      "distance": "0.5 mi",
+      "url": "https://www.google.com/maps/search/3BR%20Fenced%20Yard%20I%20King%2C%20Pack%20'n%20Play%2C%2075%22%20TV+near+46.8123076%2C-96.8525725"
+    },
+    {
+      "name": "Hot Tub & Fenced Yard: Spacious Fargo Home!",
+      "distance": "0.5 mi",
+      "url": "https://www.google.com/maps/search/Hot%20Tub%20%26%20Fenced%20Yard%3A%20Spacious%20Fargo%20Home!+near+46.8123076%2C-96.8525725"
+    },
+    {
+      "name": "King Bed I Keyless Entry I 75\\\" TV I Pack 'N Play",
+      "distance": "0.5 mi",
+      "url": "https://www.google.com/maps/search/King%20Bed%20I%20Keyless%20Entry%20I%2075%5C%22%20TV%20I%20Pack%20'N%20Play+near+46.8123076%2C-96.8525725"
+    },
+    {
+      "name": "Serene Location\\ Garage\\ Close to\\Suite Shots Golf\\Hospital\\Interstate",
+      "distance": "0.8 mi",
+      "url": "https://www.google.com/maps/search/Serene%20Location%5C%20Garage%5C%20Close%20to%5CSuite%20Shots%20Golf%5CHospital%5CInterstate+near+46.8123076%2C-96.8525725"
+    },
+    {
+      "name": "Serene Location\\ Garage\\ Close to\\Suite Shots Golf\\Hospital\\Interstate",
+      "distance": "0.8 mi",
+      "url": "https://www.google.com/maps/search/Serene%20Location%5C%20Garage%5C%20Close%20to%5CSuite%20Shots%20Golf%5CHospital%5CInterstate+near+46.8123076%2C-96.8525725"
+    }
+  ],
+  "gas": [
+    {
+      "name": "Holiday",
+      "distance": "0.5 mi",
+      "url": "https://www.google.com/maps/search/Holiday+near+46.8123076%2C-96.8525725"
+    },
+    {
+      "name": "Circle K Gas Station",
+      "distance": "0.5 mi",
+      "url": "https://www.google.com/maps/search/Circle%20K%20Gas%20Station+near+46.8123076%2C-96.8525725"
+    },
+    {
+      "name": "Fleet Farm Gas Mart",
+      "distance": "1.0 mi",
+      "url": "https://www.google.com/maps/search/Fleet%20Farm%20Gas%20Mart+near+46.8123076%2C-96.8525725"
+    },
+    {
+      "name": "Cash Wise Express",
+      "distance": "1.1 mi",
+      "url": "https://www.google.com/maps/search/Cash%20Wise%20Express+near+46.8123076%2C-96.8525725"
+    },
+    {
+      "name": "Circle K Gas Station",
+      "distance": "1.6 mi",
+      "url": "https://www.google.com/maps/search/Circle%20K%20Gas%20Station+near+46.8123076%2C-96.8525725"
+    }
+  ]
+}

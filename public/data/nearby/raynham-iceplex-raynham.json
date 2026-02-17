@@ -1,0 +1,212 @@
+{
+  "quick_bite": [
+    {
+      "name": "Cape Cod Cafe",
+      "distance": "1.1 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Cape%20Cod%20Cafe&query_place_id=ChIJx2ymbz-M5IkRIxDWWePC59I&center=41.9544674,-71.06982239999999"
+    },
+    {
+      "name": "Taco Bell",
+      "distance": "1.3 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Taco%20Bell&query_place_id=ChIJre7v5O2N5IkRvVK-8diAKEY&center=41.952024099999996,-71.0706075"
+    },
+    {
+      "name": "PieZoni's Pizza",
+      "distance": "1.3 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=PieZoni's%20Pizza&query_place_id=ChIJv4Ynr0GM5IkRIycWwAnrBfg&center=41.9511465,-71.07083159999999"
+    },
+    {
+      "name": "Burger King",
+      "distance": "2.3 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Burger%20King&query_place_id=ChIJa0af58KN5IkRDhxH_OK1Qgw&center=41.956801899999995,-71.02566449999999"
+    },
+    {
+      "name": "Subway",
+      "distance": "2.7 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Subway&query_place_id=ChIJuYmTB5WL5IkRkcBb3-NsUxY&center=41.959558799999996,-71.1185563"
+    },
+    {
+      "name": "Wendy's",
+      "distance": "2.8 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Wendy's&query_place_id=ChIJHQBs7JSL5IkR9EMel_S7m0E&center=41.959165899999995,-71.11904109999999"
+    }
+  ],
+  "coffee": [
+    {
+      "name": "Dunkin'",
+      "distance": "0.3 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Dunkin'&query_place_id=ChIJj7BkUq-P5IkRpWuOzLwoZac&center=41.974323299999995,-71.0676084"
+    },
+    {
+      "name": "Colebella Coffee Company",
+      "distance": "0.6 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Colebella%20Coffee%20Company&query_place_id=ChIJDT4tYBCP5IkRPbCs-A5Z0KU&center=41.977779299999995,-71.0732269"
+    },
+    {
+      "name": "Honey Dew Donuts",
+      "distance": "1.4 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Honey%20Dew%20Donuts&query_place_id=ChIJl-P_r0GM5IkRMdeJGPR4ETc&center=41.9509793,-71.0713231"
+    },
+    {
+      "name": "Honey Dew Donuts",
+      "distance": "2.3 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Honey%20Dew%20Donuts&query_place_id=ChIJzx8MBguO5IkRpu_Uhyq-Na8&center=41.967780999999995,-71.023353"
+    }
+  ],
+  "team_lunch": [
+    {
+      "name": "Honey Place Market",
+      "distance": "0.5 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Honey%20Place%20Market&query_place_id=ChIJPRFUNACN5IkR-DQvLCbX_UA&center=41.9625516,-71.06889579999999"
+    },
+    {
+      "name": "Lucky Corner",
+      "distance": "1.1 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Lucky%20Corner&query_place_id=ChIJx2ymbz-M5IkR3EFSF2AtrSA&center=41.9543153,-71.0698247"
+    },
+    {
+      "name": "Harry's La Casa Mia Restaurant",
+      "distance": "1.4 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Harry's%20La%20Casa%20Mia%20Restaurant&query_place_id=ChIJ_UpuyEGM5IkRWIwr3q6lf-k&center=41.9507597,-71.0721727"
+    },
+    {
+      "name": "Stacys Cookie Corner",
+      "distance": "4.2 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Stacys%20Cookie%20Corner&query_place_id=ChIJMXM4LqOJ5IkRGPPg9wEooMo&center=42.0206601,-71.1138898",
+      "isFar": true
+    }
+  ],
+  "dinner": [
+    {
+      "name": "Barrels & Boards MA",
+      "distance": "0.5 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Barrels%20%26%20Boards%20MA&query_place_id=ChIJWYd8vtiN5IkRILJ86vcR_gM&center=41.9629091,-71.0674425"
+    },
+    {
+      "name": "Raynham's Cake Diva",
+      "distance": "1.1 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Raynham's%20Cake%20Diva&query_place_id=ChIJfUx1jayN5IkRNSO5rmqofK0&center=41.954374699999995,-71.0698321"
+    },
+    {
+      "name": "Baja's Fresh Grill LLC",
+      "distance": "1.1 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Baja's%20Fresh%20Grill%20LLC&query_place_id=ChIJW5iUiymN5IkRYaWRjqNqRw4&center=41.9542934,-71.06986429999999"
+    },
+    {
+      "name": "Brothers Pizza",
+      "distance": "1.4 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Brothers%20Pizza&query_place_id=ChIJOz8lA0KM5IkRvnDfzSgB5Uc&center=41.949922799999996,-71.0731933"
+    },
+    {
+      "name": "The Milk Bottle",
+      "distance": "1.5 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=The%20Milk%20Bottle&query_place_id=ChIJCT-0jEGM5IkRR8zZhAR78pE&center=41.949635,-71.07207199999999"
+    },
+    {
+      "name": "2 Jerks BBQ & Market",
+      "distance": "1.6 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=2%20Jerks%20BBQ%20%26%20Market&query_place_id=ChIJ2VyweUKM5IkRgVJ5MpMRSvw&center=41.9475078,-71.0734198"
+    }
+  ],
+  "bowling": [
+    {
+      "name": "Ryan Family Amusements - Raynham",
+      "distance": "4.6 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Ryan%20Family%20Amusements%20-%20Raynham&query_place_id=ChIJw_LKjcWM5IkRy6LhWpT9f6k&center=41.904617099999996,-71.0608252",
+      "isFar": true
+    },
+    {
+      "name": "Westgate Lanes, Pub & Grill, Arcade & Billiards",
+      "distance": "8.4 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Westgate%20Lanes%2C%20Pub%20%26%20Grill%2C%20Arcade%20%26%20Billiards&query_place_id=ChIJIbYZkviE5IkRzDE1NhFx16Q&center=42.0904994,-71.0477339",
+      "isFar": true
+    }
+  ],
+  "arcade": [],
+  "movies": [
+    {
+      "name": "David Guimaraes",
+      "distance": "3.5 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=David%20Guimaraes&query_place_id=ChIJDea8_MmN5IkR1XuPM7IaeB8&center=41.9326151,-71.02237339999999",
+      "isFar": true
+    },
+    {
+      "name": "East Bridgewater Cinemas",
+      "distance": "6.7 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=East%20Bridgewater%20Cinemas&query_place_id=ChIJfcGCun6Q5IkRaHipxKw89vk&center=42.0264952,-70.9601247",
+      "isFar": true
+    }
+  ],
+  "fun": [
+    {
+      "name": "Hockomock Swamp Bridgewater",
+      "distance": "3.1 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Hockomock%20Swamp%20Bridgewater&query_place_id=ChIJmbk2KwCP5IkRwC47y4irYwg&center=41.9909944,-71.0134721",
+      "isFar": true
+    },
+    {
+      "name": "Platinum City Gaming -Bar-Gaming Lounge- Arcade- Nerf Arena-Gellyball-Smash Room -Rage Room-Basketball",
+      "distance": "6.4 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Platinum%20City%20Gaming%20-Bar-Gaming%20Lounge-%20Arcade-%20Nerf%20Arena-Gellyball-Smash%20Room%20-Rage%20Room-Basketball&query_place_id=ChIJwyBNu1vz5IkRrmNrJGVwlek&center=41.887535,-71.12097159999999",
+      "isFar": true
+    },
+    {
+      "name": "Funcity Adventure Park",
+      "distance": "6.4 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Funcity%20Adventure%20Park&query_place_id=ChIJoepTtubz5IkRZhEAYM_wo5g&center=41.8773219,-71.068785",
+      "isFar": true
+    },
+    {
+      "name": "Rocky Marciano Statue",
+      "distance": "7.0 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Rocky%20Marciano%20Statue&query_place_id=ChIJ7SgFQUOF5IkR982QbCtqYfM&center=42.0691151,-71.0400777",
+      "isFar": true
+    }
+  ],
+  "hotels": [
+    {
+      "name": "Residence Inn by Marriott Boston Bridgewater",
+      "distance": "1.7 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Residence%20Inn%20by%20Marriott%20Boston%20Bridgewater&query_place_id=ChIJ0bUmmNCN5IkRIYERhbMruN8&center=41.961118299999995,-71.0372381"
+    },
+    {
+      "name": "Colonial Estates Inc",
+      "distance": "1.8 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Colonial%20Estates%20Inc&query_place_id=ChIJP_04J3SM5IkRQ0pe1LJErAk&center=41.9529822,-71.0932924"
+    },
+    {
+      "name": "Clarion Hotel",
+      "distance": "3.2 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Clarion%20Hotel&query_place_id=ChIJP9loJ7mL5IkRji-3lmaLWZc&center=41.961155,-71.1280288",
+      "isFar": true
+    },
+    {
+      "name": "Extended Stay America Suites- Foxboro - Norton",
+      "distance": "3.5 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Extended%20Stay%20America%20Suites-%20Foxboro%20-%20Norton&query_place_id=ChIJ4zxqpLeL5IkRJ0eRQ7P1FrI&center=41.9628339,-71.13494779999999",
+      "isFar": true
+    }
+  ],
+  "gas": [
+    {
+      "name": "Speedway",
+      "distance": "0.5 mi",
+      "url": "https://www.google.com/maps/search/Speedway+near+41.9704379%2C-71.0674721"
+    },
+    {
+      "name": "Mobil",
+      "distance": "0.5 mi",
+      "url": "https://www.google.com/maps/search/Mobil+near+41.9704379%2C-71.0674721"
+    },
+    {
+      "name": "Honey Farms Market",
+      "distance": "0.6 mi",
+      "url": "https://www.google.com/maps/search/Honey%20Farms%20Market+near+41.9704379%2C-71.0674721"
+    },
+    {
+      "name": "diesel",
+      "distance": "1.0 mi",
+      "url": "https://www.google.com/maps/search/diesel+near+41.9704379%2C-71.0674721"
+    }
+  ]
+}

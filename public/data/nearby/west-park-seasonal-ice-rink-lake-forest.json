@@ -1,0 +1,229 @@
+{
+  "quick_bite": [
+    {
+      "name": "ZENSHI Handcrafted Sushi",
+      "distance": "0.2 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=ZENSHI%20Handcrafted%20Sushi&query_place_id=ChIJvSnwxfnrD4gR8h8NT9yzcHg&center=42.2556793,-87.8416989"
+    },
+    {
+      "name": "Donati's Pizza",
+      "distance": "0.2 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Donati's%20Pizza&query_place_id=ChIJgVM2o5WUD4gRTvQCnvEUPu4&center=42.256918999999996,-87.84185839999999"
+    },
+    {
+      "name": "The Left Bank",
+      "distance": "0.3 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=The%20Left%20Bank&query_place_id=ChIJL4zrR9nqD4gRyAyt3Ye-wMc&center=42.2517347,-87.84094069999999"
+    },
+    {
+      "name": "Potbelly",
+      "distance": "2.1 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Potbelly&query_place_id=ChIJyYGZFZKUD4gRnA76BYI-Suk&center=42.2790969,-87.8714206"
+    },
+    {
+      "name": "Jersey Mike's Subs",
+      "distance": "2.3 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Jersey%20Mike's%20Subs&query_place_id=ChIJ1-l7EBqVD4gRDq_Pw3mmDvE&center=42.2788277,-87.87602989999999"
+    },
+    {
+      "name": "Jimmy John's",
+      "distance": "2.3 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Jimmy%20John's&query_place_id=ChIJJ9-_MpSUD4gRltPOnQJSwG8&center=42.2800905,-87.87644999999999"
+    }
+  ],
+  "coffee": [
+    {
+      "name": "The Gallery",
+      "distance": "0.2 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=The%20Gallery&query_place_id=ChIJG8hHjdjqD4gR_K-BgmMIC5U&center=42.254184099999996,-87.8421812"
+    },
+    {
+      "name": "The Sweet Spot",
+      "distance": "0.2 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=The%20Sweet%20Spot&query_place_id=ChIJbc_z-fvrD4gRb1kGl8dblis&center=42.256918999999996,-87.84185839999999"
+    },
+    {
+      "name": "Hometown Coffee & Juice",
+      "distance": "0.2 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Hometown%20Coffee%20%26%20Juice&query_place_id=ChIJX1QEtRvrD4gRSE_ehpg1xEA&center=42.253968799999996,-87.8414327"
+    },
+    {
+      "name": "Gerhard's Elegant European Desserts",
+      "distance": "0.3 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Gerhard's%20Elegant%20European%20Desserts&query_place_id=ChIJT9GrK9nqD4gRxEPkqVFyPIs&center=42.252699299999996,-87.8404515"
+    },
+    {
+      "name": "Starbucks Coffee Company",
+      "distance": "0.3 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Starbucks%20Coffee%20Company&query_place_id=ChIJ66ktNdnqD4gRp2ucKhwwgJA&center=42.2518679,-87.84007729999999"
+    }
+  ],
+  "team_lunch": [
+    {
+      "name": "NSCG Food, Beverage & Entertainment",
+      "distance": "0.2 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=NSCG%20Food%2C%20Beverage%20%26%20Entertainment&query_place_id=ChIJJb79jpbrD4gReCnvxuifafE&center=42.2532365,-87.8420044"
+    },
+    {
+      "name": "Taylor’d Cookies",
+      "distance": "2.9 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Taylor%E2%80%99d%20Cookies&query_place_id=ChIJkaWMhw6TD4gRecn0qnEYjm0&center=42.2968274,-87.85541669999999"
+    },
+    {
+      "name": "Auntie Anne's",
+      "distance": "2.9 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Auntie%20Anne's&query_place_id=ChIJmb6ZaayVD4gRDGbWQo4R9kw&center=42.252884099999996,-87.9019232"
+    },
+    {
+      "name": "Dina A’s Cookies",
+      "distance": "3.0 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Dina%20A%E2%80%99s%20Cookies&query_place_id=ChIJE-Py8OKVD4gRs162wZBylr4&center=42.2878243,-87.8838739"
+    },
+    {
+      "name": "Blissful Brownies",
+      "distance": "3.2 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Blissful%20Brownies&query_place_id=ChIJFVV5QFyUD4gRFqUxcDoAQNA&center=42.273772199999996,-87.9013998",
+      "isFar": true
+    },
+    {
+      "name": "Tom's Pastry",
+      "distance": "3.2 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Tom's%20Pastry&query_place_id=ChIJfwrKzHrBD4gRRh280PkyR-8&center=42.2137509,-87.8180138",
+      "isFar": true
+    }
+  ],
+  "dinner": [
+    {
+      "name": "Lucky Duck",
+      "distance": "0.2 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Lucky%20Duck&query_place_id=ChIJKzKNJ2_rD4gRqsXkRXF-VYE&center=42.254149399999996,-87.842159"
+    },
+    {
+      "name": "Follia",
+      "distance": "0.2 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Follia&query_place_id=ChIJQfzVtP3rD4gRoKvHwOLJr_E&center=42.256925599999995,-87.8416936"
+    },
+    {
+      "name": "Kuro Bistro",
+      "distance": "0.2 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Kuro%20Bistro&query_place_id=ChIJn_L6AIDrD4gR50amejLxcEM&center=42.2571349,-87.8418494"
+    },
+    {
+      "name": "Duffer's Pub",
+      "distance": "0.2 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Duffer's%20Pub&query_place_id=ChIJ4eUWS2rrD4gROngWmDqMHK0&center=42.256765699999995,-87.8415215"
+    },
+    {
+      "name": "Fresh Market Bakery",
+      "distance": "0.2 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Fresh%20Market%20Bakery&query_place_id=ChIJW7W8ewDrD4gRxBnDD6eLvNs&center=42.255142899999996,-87.84111"
+    },
+    {
+      "name": "Ferentino's Pizzeria",
+      "distance": "0.2 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Ferentino's%20Pizzeria&query_place_id=ChIJ-d8xmNjqD4gRpOlX3l8SFcs&center=42.2550129,-87.8410961"
+    }
+  ],
+  "bowling": [
+    {
+      "name": "Bowlero Vernon Hills",
+      "distance": "5.7 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Bowlero%20Vernon%20Hills&query_place_id=ChIJf5RlWEKWD4gRB4S3wK1PHm8&center=42.2451836,-87.9547073",
+      "isFar": true
+    },
+    {
+      "name": "Bowlero Waukegan",
+      "distance": "6.4 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Bowlero%20Waukegan&query_place_id=ChIJBdhBEVSSD4gRXuxa53f0xz8&center=42.3392717,-87.8985359",
+      "isFar": true
+    },
+    {
+      "name": "Bertrand Bowling Lanes Inc",
+      "distance": "7.3 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Bertrand%20Bowling%20Lanes%20Inc&query_place_id=ChIJK4luSrqSD4gRqxQlNIYScv4&center=42.3603908,-87.8661879",
+      "isFar": true
+    }
+  ],
+  "arcade": [],
+  "movies": [
+    {
+      "name": "Wayfarer Theaters",
+      "distance": "5.3 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Wayfarer%20Theaters&query_place_id=ChIJmatyh3bBD4gRjmFgdvAfi3g&center=42.1860122,-87.80165509999999",
+      "isFar": true
+    },
+    {
+      "name": "AMC Hawthorn 12",
+      "distance": "5.4 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=AMC%20Hawthorn%2012&query_place_id=ChIJgd9AnG6WD4gRPw-Bub35BSs&center=42.2440917,-87.9493403",
+      "isFar": true
+    },
+    {
+      "name": "Belvidere Cinema Gallery",
+      "distance": "6.5 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Belvidere%20Cinema%20Gallery&query_place_id=ChIJVQ_kNaWTD4gRFh9O9x4vVoA&center=42.348856100000006,-87.8599375",
+      "isFar": true
+    }
+  ],
+  "fun": [
+    {
+      "name": "Lake Bluff Beach",
+      "distance": "1.7 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Lake%20Bluff%20Beach&query_place_id=ChIJDVBlblXrD4gR8X7pskAHD1A&center=42.2774469,-87.82875949999999"
+    },
+    {
+      "name": "Townline Park Splash Pad",
+      "distance": "2.4 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Townline%20Park%20Splash%20Pad&query_place_id=ChIJrwKhOgCVD4gRBlUEvYOJoiw&center=42.237185,-87.8838538"
+    },
+    {
+      "name": "Fort Sheridan Point",
+      "distance": "2.7 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Fort%20Sheridan%20Point&query_place_id=ChIJUepwoULrD4gR1PNNDjkKmpQ&center=42.2251019,-87.810538"
+    },
+    {
+      "name": "Naval Recruitment",
+      "distance": "3.0 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Naval%20Recruitment&query_place_id=ChIJvWtlHgDtD4gRnRZAy70aaYU&center=42.2984936,-87.8492912"
+    }
+  ],
+  "hotels": [
+    {
+      "name": "Coveted Location:Downtown Lake Forest 3/2.5 Duplex",
+      "distance": "0.3 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Coveted%20Location%3ADowntown%20Lake%20Forest%203%2F2.5%20Duplex&query_place_id=ChIJeciiKSfrD4gRuUpaGWscd0I&center=42.257774399999995,-87.8406296"
+    },
+    {
+      "name": "Coveted Location:Downtown Lake Forest 3/2.5 Duplex",
+      "distance": "0.3 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Coveted%20Location%3ADowntown%20Lake%20Forest%203%2F2.5%20Duplex&query_place_id=ChIJxYAXlSDrD4gRJJXrxU-TDqI&center=42.2565422,-87.83889769999999"
+    },
+    {
+      "name": "Deer Path Inn",
+      "distance": "0.5 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Deer%20Path%20Inn&query_place_id=ChIJ6UZG8tvqD4gR32czV61u_yA&center=42.2495816,-87.84062580000001"
+    }
+  ],
+  "gas": [
+    {
+      "name": "Shell",
+      "distance": "0.4 mi",
+      "url": "https://www.google.com/maps/search/Shell+near+42.255507%2C-87.8447922"
+    },
+    {
+      "name": "bp",
+      "distance": "0.5 mi",
+      "url": "https://www.google.com/maps/search/bp+near+42.255507%2C-87.8447922"
+    },
+    {
+      "name": "Mobil",
+      "distance": "2.4 mi",
+      "url": "https://www.google.com/maps/search/Mobil+near+42.255507%2C-87.8447922"
+    },
+    {
+      "name": "BP",
+      "distance": "2.8 mi",
+      "url": "https://www.google.com/maps/search/BP+near+42.255507%2C-87.8447922"
+    }
+  ]
+}

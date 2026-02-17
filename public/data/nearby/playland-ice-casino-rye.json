@@ -1,0 +1,186 @@
+{
+  "quick_bite": [
+    {
+      "name": "Piazza Pizza",
+      "distance": "0.8 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Piazza%20Pizza&query_place_id=ChIJeeqXZe-QwokRTsvcG4AqDEw&center=40.9626411,-73.68822209999999"
+    },
+    {
+      "name": "Little Thai Kitchen",
+      "distance": "1.3 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Little%20Thai%20Kitchen&query_place_id=ChIJd6bzxs6QwokRKefLrgNJ0Ys&center=40.9821665,-73.6839468"
+    },
+    {
+      "name": "Market Sandwich",
+      "distance": "1.9 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Market%20Sandwich&query_place_id=ChIJmeqn_SCXwokR5CZOcUAJyiY&center=40.992398699999995,-73.6754493"
+    },
+    {
+      "name": "Nana Deli",
+      "distance": "2.1 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Nana%20Deli&query_place_id=ChIJzTgfpU-XwokRWVZBLb1rt7E&center=40.9939003,-73.6676525"
+    },
+    {
+      "name": "Tako Catering",
+      "distance": "2.1 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Tako%20Catering&query_place_id=ChIJVczy2HWRwokRbRxI--7OBYs&center=40.968297299999996,-73.71354389999999"
+    },
+    {
+      "name": "Taco Bell",
+      "distance": "2.2 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Taco%20Bell&query_place_id=ChIJPQaCT0-XwokR1dUOoUrE9yQ&center=40.9956058,-73.6710326"
+    }
+  ],
+  "coffee": [
+    {
+      "name": "Poppy's Cafe",
+      "distance": "1.4 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Poppy's%20Cafe&query_place_id=ChIJ3d-rvc6QwokRJWiV0Ak6-N0&center=40.982497300000006,-73.6845778"
+    },
+    {
+      "name": "Le Pain Quotidien",
+      "distance": "1.4 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Le%20Pain%20Quotidien&query_place_id=ChIJx9BTn86QwokRQdpNk5nOnb8&center=40.982763399999996,-73.6842575"
+    },
+    {
+      "name": "Hand Rolled Bagels",
+      "distance": "1.5 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Hand%20Rolled%20Bagels&query_place_id=ChIJza_mc8yQwokRngLBu5XghZo&center=40.984673199999996,-73.6835584"
+    },
+    {
+      "name": "Patisserie Salzburg of Rye",
+      "distance": "1.5 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Patisserie%20Salzburg%20of%20Rye&query_place_id=ChIJ-1hRP8yQwokRh_uSrqJsVds&center=40.9853266,-73.68344669999999"
+    },
+    {
+      "name": "Casa D'italia Sandwich Shoppe",
+      "distance": "2.1 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Casa%20D'italia%20Sandwich%20Shoppe&query_place_id=ChIJn-ueRReRwokRVYZFKwB1MEY&center=40.9684488,-73.7133259"
+    }
+  ],
+  "team_lunch": [
+    {
+      "name": "Tiki Beach Pier Restaurant",
+      "distance": "0.1 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Tiki%20Beach%20Pier%20Restaurant&query_place_id=ChIJGeY88xiRwokRBr5ZLJpC544&center=40.9640442,-73.67379509999999"
+    },
+    {
+      "name": "The Barley Beach House",
+      "distance": "0.4 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=The%20Barley%20Beach%20House&query_place_id=ChIJH7OAOgORwokRziBioOiJc8k&center=40.9604921,-73.68024679999999"
+    },
+    {
+      "name": "Allendale Cork Co Inc",
+      "distance": "1.2 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Allendale%20Cork%20Co%20Inc&query_place_id=ChIJEXNUp8-QwokREEDtAePj0rQ&center=40.9799187,-73.68595080000001"
+    },
+    {
+      "name": "Badass Bagels Rye",
+      "distance": "1.3 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Badass%20Bagels%20Rye&query_place_id=ChIJNYpH5ISRwokRCRZ5oeoYM4o&center=40.982344,-73.6841168"
+    },
+    {
+      "name": "J & J Bagels Inc",
+      "distance": "1.5 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=J%20%26%20J%20Bagels%20Inc&query_place_id=ChIJza_mc8yQwokRmJkZnkZEFzM&center=40.9847098,-73.6835519"
+    }
+  ],
+  "dinner": [
+    {
+      "name": "On the Way Cafe",
+      "distance": "0.4 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=On%20the%20Way%20Cafe&query_place_id=ChIJd20IzuuQwokRCWqQ2TkC6Dc&center=40.965461499999996,-73.6814237"
+    },
+    {
+      "name": "Ora Steakhouse Rye",
+      "distance": "0.8 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Ora%20Steakhouse%20Rye&query_place_id=ChIJK3od9TmRwokR5UceoSpDh-s&center=40.9620263,-73.6885037"
+    },
+    {
+      "name": "Antonio’s Italian Deli & Market",
+      "distance": "0.8 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Antonio%E2%80%99s%20Italian%20Deli%20%26%20Market&query_place_id=ChIJwWJDTgCRwokRoBfrZVrHSpU&center=40.9615874,-73.68845499999999"
+    },
+    {
+      "name": "Milton Point Provisions",
+      "distance": "0.9 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Milton%20Point%20Provisions&query_place_id=ChIJ8QE8eS6RwokRAHnxoSYAPk8&center=40.958577999999996,-73.68860699999999"
+    },
+    {
+      "name": "Yaku Restaurant",
+      "distance": "1.0 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Yaku%20Restaurant&query_place_id=ChIJSXGdOySRwokRwVCJGhflCG0&center=40.9779804,-73.67913999999999"
+    },
+    {
+      "name": "Delicias Arellano",
+      "distance": "1.0 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Delicias%20Arellano&query_place_id=ChIJNUMSGCmRwokRlKE3Q3gjmUk&center=40.9787148,-73.6786147"
+    }
+  ],
+  "bowling": [],
+  "arcade": [],
+  "movies": [
+    {
+      "name": "AMC Port Chester 14",
+      "distance": "2.5 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=AMC%20Port%20Chester%2014&query_place_id=ChIJ0bQ_flyXwokRt23wRaq3GXc&center=40.999824,-73.66329900000001"
+    },
+    {
+      "name": "Mamaroneck Cinemas",
+      "distance": "3.3 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Mamaroneck%20Cinemas&query_place_id=ChIJ92bUepuRwokR4WLv5ePsZ7E&center=40.950628099999996,-73.73379729999999",
+      "isFar": true
+    }
+  ],
+  "fun": [
+    {
+      "name": "Playland Park",
+      "distance": "0.1 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Playland%20Park&query_place_id=ChIJTVRHOuuQwokR6vFt-0kB3DU&center=40.9651419,-73.6751251"
+    },
+    {
+      "name": "Ferris Wheel",
+      "distance": "0.1 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Ferris%20Wheel&query_place_id=ChIJv9zvh-mRwokR4OxTK8TQCdU&center=40.966078499999995,-73.6743047"
+    },
+    {
+      "name": "Kiddie Carpet Slide",
+      "distance": "0.1 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Kiddie%20Carpet%20Slide&query_place_id=ChIJCcMv0HiRwokRfJP4MYacNKo&center=40.9659488,-73.67499500000001"
+    },
+    {
+      "name": "Oakland Beach",
+      "distance": "0.5 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Oakland%20Beach&query_place_id=ChIJs7k4t72RwokR88B11DT5zLY&center=40.959804399999996,-73.6801241"
+    }
+  ],
+  "hotels": [
+    {
+      "name": "Waterfront home on the Long Island sound with private beach access",
+      "distance": "0.9 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Waterfront%20home%20on%20the%20Long%20Island%20sound%20with%20private%20beach%20access&query_place_id=ChIJ2Tin4fCQwokRBsoBf1M0rGc&center=40.9554901,-73.6861725"
+    }
+  ],
+  "gas": [
+    {
+      "name": "Sunoco",
+      "distance": "0.4 mi",
+      "url": "https://www.google.com/maps/search/Sunoco+near+40.9644584%2C-73.673737"
+    },
+    {
+      "name": "Gulf",
+      "distance": "1.2 mi",
+      "url": "https://www.google.com/maps/search/Gulf+near+40.9644584%2C-73.673737"
+    },
+    {
+      "name": "Casey store",
+      "distance": "1.4 mi",
+      "url": "https://www.google.com/maps/search/Casey%20store+near+40.9644584%2C-73.673737"
+    },
+    {
+      "name": "Shell",
+      "distance": "1.5 mi",
+      "url": "https://www.google.com/maps/search/Shell+near+40.9644584%2C-73.673737"
+    }
+  ]
+}

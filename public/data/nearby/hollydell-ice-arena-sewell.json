@@ -1,0 +1,194 @@
+{
+  "quick_bite": [
+    {
+      "name": "Taco Bell",
+      "distance": "1.5 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Taco%20Bell&query_place_id=ChIJ9cYLnKrXxokRlc-H0AkexRA&center=39.7250363,-75.1164613"
+    },
+    {
+      "name": "Chick-fil-A",
+      "distance": "1.5 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Chick-fil-A&query_place_id=ChIJUUFfJrnQxokRH6K5CDtIK2U&center=39.7600549,-75.13125339999999"
+    },
+    {
+      "name": "Jersey Mike's Subs",
+      "distance": "1.7 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Jersey%20Mike's%20Subs&query_place_id=ChIJhVSxYTTRxokRAZcUGkFiWiw&center=39.748748899999995,-75.0762366"
+    },
+    {
+      "name": "Wendy's",
+      "distance": "1.8 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Wendy's&query_place_id=ChIJMRJrkLfQxokR1TS6cdk1YiE&center=39.7633254,-75.13334689999999"
+    }
+  ],
+  "coffee": [
+    {
+      "name": "Dunkin'",
+      "distance": "0.2 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Dunkin'&query_place_id=ChIJLyA0kivXxokRDT3R6IjWa34&center=39.747701899999996,-75.1126783"
+    },
+    {
+      "name": "Endgrain Coffee Roasters",
+      "distance": "1.5 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Endgrain%20Coffee%20Roasters&query_place_id=ChIJuwnaNxXXxokRsoMHHYwLMMo&center=39.7319862,-75.1297963"
+    },
+    {
+      "name": "Crave Pitman",
+      "distance": "1.5 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Crave%20Pitman&query_place_id=ChIJYbkVEnXXxokRzdFaRqvv4zg&center=39.7329629,-75.1312003"
+    }
+  ],
+  "team_lunch": [
+    {
+      "name": "Dunlop's Bar & Grill",
+      "distance": "0.1 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Dunlop's%20Bar%20%26%20Grill&query_place_id=ChIJqXONvZzXxokRxB7u1hTBIhs&center=39.745919099999995,-75.10887509999999"
+    },
+    {
+      "name": "White Pine Tavern",
+      "distance": "0.6 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=White%20Pine%20Tavern&query_place_id=ChIJqbP8QP3RxokR69Grz5G2xIo&center=39.7534181,-75.1015003"
+    },
+    {
+      "name": "Kakes By Kendall",
+      "distance": "0.7 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Kakes%20By%20Kendall&query_place_id=ChIJCZYyRPvRxokRVnAn7Kc6ntY&center=39.7517345,-75.0984316"
+    },
+    {
+      "name": "The Crazy Kat",
+      "distance": "1.5 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=The%20Crazy%20Kat&query_place_id=ChIJ1V55Uh_XxokRXWCEtnvsRVs&center=39.7329447,-75.13107640000001"
+    },
+    {
+      "name": "Pitman Pastries",
+      "distance": "1.5 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Pitman%20Pastries&query_place_id=ChIJYUObjh_XxokRI6XmtZ6niNo&center=39.730807899999995,-75.1295226"
+    }
+  ],
+  "dinner": [
+    {
+      "name": "Pizza Italia",
+      "distance": "0.2 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Pizza%20Italia&query_place_id=ChIJe_udXAHXxokRWXf9LSTA1Xo&center=39.7475573,-75.1126914"
+    },
+    {
+      "name": "Terra Nova Restaurant",
+      "distance": "0.2 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Terra%20Nova%20Restaurant&query_place_id=ChIJuegPoivXxokR72fb87fm0tg&center=39.7483745,-75.11227160000001"
+    },
+    {
+      "name": "Fireside Family Restaurant",
+      "distance": "0.9 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Fireside%20Family%20Restaurant&query_place_id=ChIJnf4BRTTXxokRG1k66Ofumb4&center=39.7437912,-75.12458769999999"
+    },
+    {
+      "name": "Papa Luigi",
+      "distance": "1.0 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Papa%20Luigi&query_place_id=ChIJEfu_hTzXxokRsj0C8PbSaX0&center=39.736913799999996,-75.1222882"
+    },
+    {
+      "name": "Pep Pizza - Formerly Sollena's Pizza",
+      "distance": "1.4 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Pep%20Pizza%20-%20Formerly%20Sollena's%20Pizza&query_place_id=ChIJnyHqqyDRxokRvbPX2lQZWZg&center=39.7659802,-75.1076526"
+    },
+    {
+      "name": "Johnny Di's Beef & Pork",
+      "distance": "1.4 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Johnny%20Di's%20Beef%20%26%20Pork&query_place_id=ChIJwTRLcLLXxokReMBfi7F1Y-o&center=39.746108899999996,-75.0819666"
+    }
+  ],
+  "bowling": [
+    {
+      "name": "Bowlero Turnersville",
+      "distance": "4.3 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Bowlero%20Turnersville&query_place_id=ChIJFYBjyGvUxokRLZnXlo7m7RE&center=39.7239748,-75.03365819999999",
+      "isFar": true
+    }
+  ],
+  "arcade": [],
+  "movies": [
+    {
+      "name": "Regal Cross Keys",
+      "distance": "3.8 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Regal%20Cross%20Keys&query_place_id=ChIJE0vHJRPUxokRenAI-yio-n4&center=39.728778,-75.039956",
+      "isFar": true
+    },
+    {
+      "name": "Regal UA Washington Township",
+      "distance": "4.7 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Regal%20UA%20Washington%20Township&query_place_id=ChIJ9fl2c0PUxokRUowZqlGMVzE&center=39.716057299999996,-75.0284841",
+      "isFar": true
+    }
+  ],
+  "fun": [
+    {
+      "name": "Hagerty’s Christmas Lights",
+      "distance": "1.6 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Hagerty%E2%80%99s%20Christmas%20Lights&query_place_id=ChIJXRFY6TvXxokRdLUjbRdaH3g&center=39.7316163,-75.1323961"
+    },
+    {
+      "name": "Frostland Village",
+      "distance": "1.9 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Frostland%20Village&query_place_id=ChIJd2W_Gh_XxokRLaCt0opLLv8&center=39.7206173,-75.1220879"
+    },
+    {
+      "name": "Escape Room \"Cabin Of The Jersey Devil\"",
+      "distance": "2.8 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Escape%20Room%20%22Cabin%20Of%20The%20Jersey%20Devil%22&query_place_id=ChIJlTY2qK7XxokRgD25aIW5cuI&center=39.7056505,-75.1137178"
+    },
+    {
+      "name": "Exit 4 Escape Rooms",
+      "distance": "2.8 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Exit%204%20Escape%20Rooms&query_place_id=ChIJM48kA6zXxokRJ_TSy6a5da8&center=39.7056505,-75.1137178"
+    }
+  ],
+  "hotels": [
+    {
+      "name": "Melbourne Portuguese Cong",
+      "distance": "1.0 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Melbourne%20Portuguese%20Cong&query_place_id=ChIJF_Uw-zvRxokRCGQznFjfifk&center=39.7551208,-75.0947783"
+    },
+    {
+      "name": "Ultimately,a perfect home is less about the material aspects and more about love",
+      "distance": "1.3 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Ultimately%2Ca%20perfect%20home%20is%20less%20about%20the%20material%20aspects%20and%20more%20about%20love&query_place_id=ChIJR-tOI-fWxokRztQgB9cFuiM&center=39.7276459,-75.1008377"
+    },
+    {
+      "name": "Lake Kandle",
+      "distance": "1.6 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Lake%20Kandle&query_place_id=ChIJk4ZB-8DWxokRhNO6S1J0Oe8&center=39.730827,-75.086961"
+    },
+    {
+      "name": "The Inn on Holly Bed and Breakfast",
+      "distance": "1.6 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=The%20Inn%20on%20Holly%20Bed%20and%20Breakfast&query_place_id=ChIJ835ni2rXxokRss_Fc_No98I&center=39.7327501,-75.1337825"
+    },
+    {
+      "name": "James T Carns",
+      "distance": "1.6 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=James%20T%20Carns&query_place_id=ChIJ14M3z0rRxokRMisA9s0z4QU&center=39.7598348,-75.1337874"
+    }
+  ],
+  "gas": [
+    {
+      "name": "Xtra Power",
+      "distance": "0.5 mi",
+      "url": "https://www.google.com/maps/search/Xtra%20Power+near+39.7460506%2C-75.1087069"
+    },
+    {
+      "name": "SPEEDY GAS",
+      "distance": "0.9 mi",
+      "url": "https://www.google.com/maps/search/SPEEDY%20GAS+near+39.7460506%2C-75.1087069"
+    },
+    {
+      "name": "Gulf",
+      "distance": "0.9 mi",
+      "url": "https://www.google.com/maps/search/Gulf+near+39.7460506%2C-75.1087069"
+    },
+    {
+      "name": "Shell",
+      "distance": "1.0 mi",
+      "url": "https://www.google.com/maps/search/Shell+near+39.7460506%2C-75.1087069"
+    }
+  ]
+}

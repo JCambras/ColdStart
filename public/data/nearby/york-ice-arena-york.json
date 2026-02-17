@@ -1,0 +1,202 @@
+{
+  "quick_bite": [
+    {
+      "name": "Popeyes Louisiana Kitchen",
+      "distance": "0.5 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Popeyes%20Louisiana%20Kitchen&query_place_id=ChIJm4k1OsSOyIkRnXGmpcnpViE&center=39.960276199999996,-76.7033788"
+    },
+    {
+      "name": "MariSal's Pizza Shop",
+      "distance": "0.7 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=MariSal's%20Pizza%20Shop&query_place_id=ChIJAQCwLMWOyIkR7EcA-xrNW3w&center=39.959492,-76.699062"
+    },
+    {
+      "name": "Pizza Boli's",
+      "distance": "0.7 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Pizza%20Boli's&query_place_id=ChIJMdGL68WPyIkRuRf6ateYDTA&center=39.959415199999995,-76.6989701"
+    },
+    {
+      "name": "THE HOUSE OF FLAVORS",
+      "distance": "0.9 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=THE%20HOUSE%20OF%20FLAVORS&query_place_id=ChIJ4wtb596PyIkR6KBVcL1eTJE&center=39.965158699999996,-76.7182827"
+    },
+    {
+      "name": "York City Snack Shack",
+      "distance": "1.1 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=York%20City%20Snack%20Shack&query_place_id=ChIJb74R90GPyIkRDk_VFlphCLU&center=39.96240480000001,-76.7283121"
+    },
+    {
+      "name": "Subway",
+      "distance": "1.1 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Subway&query_place_id=ChIJizXBfqaOyIkRULlN0nTOqtU&center=39.9629879,-76.7282661"
+    }
+  ],
+  "coffee": [
+    {
+      "name": "HHM Cafe",
+      "distance": "0.2 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=HHM%20Cafe&query_place_id=ChIJHXf7M3-PyIkR0QClGgAOKZ4&center=39.9523392,-76.707415"
+    },
+    {
+      "name": "Britton Coffee Co - York",
+      "distance": "0.2 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Britton%20Coffee%20Co%20-%20York&query_place_id=ChIJvXDLcIePyIkRZ5ba1MHiqQg&center=39.951395,-76.7099544"
+    },
+    {
+      "name": "Latin Station Cuisine",
+      "distance": "0.5 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Latin%20Station%20Cuisine&query_place_id=ChIJ5VSvYgCPyIkRnNVSUcuLRBo&center=39.9612367,-76.7114733"
+    },
+    {
+      "name": "Dunkin'",
+      "distance": "0.5 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Dunkin'&query_place_id=ChIJXaw51cWOyIkRCdTYEDzBwi8&center=39.961129899999996,-76.7055109"
+    },
+    {
+      "name": "The Copper Crust Co.",
+      "distance": "0.8 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=The%20Copper%20Crust%20Co.&query_place_id=ChIJIXTGJKSOyIkRPGja_cbseRo&center=39.9473803,-76.721282"
+    }
+  ],
+  "team_lunch": [
+    {
+      "name": "Papa Johns Pizza",
+      "distance": "0.3 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Papa%20Johns%20Pizza&query_place_id=ChIJMTp7e7SOyIkR2RXcEFQO2OY&center=39.9520531,-76.7158579"
+    },
+    {
+      "name": "Lily’s Delicias.",
+      "distance": "0.4 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Lily%E2%80%99s%20Delicias.&query_place_id=ChIJXVGyMnuPyIkRtLzWwipPeeg&center=39.9599324,-76.7121757"
+    },
+    {
+      "name": "Crabby Daddy's",
+      "distance": "0.5 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Crabby%20Daddy's&query_place_id=ChIJ0c9UYlaPyIkR3_ZMv4tDiYQ&center=39.9595631,-76.7032928"
+    },
+    {
+      "name": "Home of the Real Philly East york",
+      "distance": "0.5 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Home%20of%20the%20Real%20Philly%20East%20york&query_place_id=ChIJB74PGQCPyIkRoN0GM15w-dI&center=39.959066299999996,-76.7177212"
+    },
+    {
+      "name": "Cake Dummies",
+      "distance": "0.6 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Cake%20Dummies&query_place_id=ChIJl2KmPceOyIkRnIpw0R3oH8E&center=39.9623438,-76.708634"
+    },
+    {
+      "name": "UNFI",
+      "distance": "1.1 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=UNFI&query_place_id=ChIJdRmJcgCPyIkRcoSmf3NmQug&center=39.9625984,-76.727745"
+    }
+  ],
+  "dinner": [
+    {
+      "name": "Rosie's at Penn State York",
+      "distance": "0.4 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Rosie's%20at%20Penn%20State%20York&query_place_id=ChIJVVWVcMyOyIkRB8BjVrrok28&center=39.951077100000006,-76.7043393"
+    },
+    {
+      "name": "Del Mar Restaurant",
+      "distance": "0.5 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Del%20Mar%20Restaurant&query_place_id=ChIJR43c4LWPyIkRBm6ue6Obzrg&center=39.9545716,-76.71876449999999"
+    },
+    {
+      "name": "Joe's Pizza Plaza",
+      "distance": "0.5 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Joe's%20Pizza%20Plaza&query_place_id=ChIJt-FIfseOyIkRu40XVFXV96Q&center=39.9613124,-76.7105552"
+    },
+    {
+      "name": "El Punto de Ica",
+      "distance": "0.6 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=El%20Punto%20de%20Ica&query_place_id=ChIJ1ylXhPOPyIkR6LGHraVvuaY&center=39.959230399999996,-76.7019545"
+    },
+    {
+      "name": "York Bakery and Hot Food",
+      "distance": "0.6 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=York%20Bakery%20and%20Hot%20Food&query_place_id=ChIJCbEGnfiPyIkR_90o9SsA62c&center=39.9568219,-76.72023899999999"
+    },
+    {
+      "name": "Fratellis Italian restaurant",
+      "distance": "0.6 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Fratellis%20Italian%20restaurant&query_place_id=ChIJoX0KFgCPyIkR3KGxNViGMwc&center=39.9605524,-76.71758729999999"
+    }
+  ],
+  "bowling": [
+    {
+      "name": "National Bowling Media Network",
+      "distance": "0.9 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=National%20Bowling%20Media%20Network&query_place_id=ChIJo9_ArDaJyIkRPIIAQyzGx1E&center=39.9423948,-76.7049129"
+    },
+    {
+      "name": "Suburban Bowlerama",
+      "distance": "1.1 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Suburban%20Bowlerama&query_place_id=ChIJiz08GS6JyIkRaIXRKH_eKsA&center=39.9407631,-76.6989834"
+    },
+    {
+      "name": "York County Usbc Bowling Association",
+      "distance": "1.5 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=York%20County%20Usbc%20Bowling%20Association&query_place_id=ChIJcU1k-iiJyIkRG4PpRm8UfxM&center=39.9380847,-76.6909404"
+    }
+  ],
+  "arcade": [],
+  "movies": [
+    {
+      "name": "R/C Queensgate Movies 13 & IMAX",
+      "distance": "1.2 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=R%2FC%20Queensgate%20Movies%2013%20%26%20IMAX&query_place_id=ChIJWTKxdGWJyIkR1x0SuFAdpk8&center=39.94166,-76.6934"
+    },
+    {
+      "name": "Regal West Manchester",
+      "distance": "3.5 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Regal%20West%20Manchester&query_place_id=ChIJZ10CxGaMyIkRT3XYOOoEEM0&center=39.9714576,-76.7714489",
+      "isFar": true
+    }
+  ],
+  "fun": [
+    {
+      "name": "Lucky Wallz",
+      "distance": "0.1 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Lucky%20Wallz&query_place_id=ChIJgV1xRgCPyIkR79_3HLEw3LI&center=39.9527341,-76.7090451"
+    },
+    {
+      "name": "Royal Square Mural Park",
+      "distance": "0.9 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Royal%20Square%20Mural%20Park&query_place_id=ChIJ97XufwCPyIkRCZMWVELppOM&center=39.9611617,-76.7243061"
+    },
+    {
+      "name": "Dale Rogers Studio Love Sculpture",
+      "distance": "1.0 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Dale%20Rogers%20Studio%20Love%20Sculpture&query_place_id=ChIJa2WmNLCPyIkRaapfd-vVRlc&center=39.960321199999996,-76.7265134"
+    }
+  ],
+  "hotels": [
+    {
+      "name": "Don't miss this Cute, Quaint Brick Cottage which is is located in York, PA.",
+      "distance": "0.4 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Don't%20miss%20this%20Cute%2C%20Quaint%20Brick%20Cottage%20which%20is%20is%20located%20in%20York%2C%20PA.&query_place_id=ChIJh0To2rSOyIkRIh_3uulpgeg&center=39.949718499999996,-76.7140732"
+    }
+  ],
+  "gas": [
+    {
+      "name": "Sunoco",
+      "distance": "0.7 mi",
+      "url": "https://www.google.com/maps/search/Sunoco+near+39.9543081%2C-76.7101751"
+    },
+    {
+      "name": "Carroll Motor Fuels",
+      "distance": "0.8 mi",
+      "url": "https://www.google.com/maps/search/Carroll%20Motor%20Fuels+near+39.9543081%2C-76.7101751"
+    },
+    {
+      "name": "Weis Gas n' Go",
+      "distance": "1.3 mi",
+      "url": "https://www.google.com/maps/search/Weis%20Gas%20n'%20Go+near+39.9543081%2C-76.7101751"
+    },
+    {
+      "name": "Pac Pride",
+      "distance": "1.6 mi",
+      "url": "https://www.google.com/maps/search/Pac%20Pride+near+39.9543081%2C-76.7101751"
+    }
+  ]
+}

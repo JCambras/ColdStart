@@ -1,0 +1,223 @@
+{
+  "quick_bite": [
+    {
+      "name": "Jimmy John's",
+      "distance": "0.1 mi",
+      "url": "https://www.google.com/maps/search/Jimmy%20John's+near+40.0399976%2C-86.1379547"
+    },
+    {
+      "name": "Culver’s",
+      "distance": "0.2 mi",
+      "url": "https://www.google.com/maps/search/Culver%E2%80%99s+near+40.0399976%2C-86.1379547"
+    },
+    {
+      "name": "Taco Bell",
+      "distance": "0.3 mi",
+      "url": "https://www.google.com/maps/search/Taco%20Bell+near+40.0399976%2C-86.1379547"
+    },
+    {
+      "name": "Chipotle Mexican Grill",
+      "distance": "0.3 mi",
+      "url": "https://www.google.com/maps/search/Chipotle%20Mexican%20Grill+near+40.0399976%2C-86.1379547"
+    },
+    {
+      "name": "Denny's",
+      "distance": "0.3 mi",
+      "url": "https://www.google.com/maps/search/Denny's+near+40.0399976%2C-86.1379547"
+    },
+    {
+      "name": "Subway",
+      "distance": "0.3 mi",
+      "url": "https://www.google.com/maps/search/Subway+near+40.0399976%2C-86.1379547"
+    },
+    {
+      "name": "The Burger Den",
+      "distance": "0.3 mi",
+      "url": "https://www.google.com/maps/search/The%20Burger%20Den+near+40.0399976%2C-86.1379547"
+    }
+  ],
+  "coffee": [
+    {
+      "name": "Rivet at the Library",
+      "distance": "0.3 mi",
+      "url": "https://www.google.com/maps/search/Rivet%20at%20the%20Library+near+40.0399976%2C-86.1379547"
+    },
+    {
+      "name": "McDonald's",
+      "distance": "0.3 mi",
+      "url": "https://www.google.com/maps/search/McDonald's+near+40.0399976%2C-86.1379547"
+    },
+    {
+      "name": "RIVET Coffee Bar and Roastery",
+      "distance": "0.3 mi",
+      "url": "https://www.google.com/maps/search/RIVET%20Coffee%20Bar%20and%20Roastery+near+40.0399976%2C-86.1379547"
+    },
+    {
+      "name": "Dunkin'",
+      "distance": "0.3 mi",
+      "url": "https://www.google.com/maps/search/Dunkin'+near+40.0399976%2C-86.1379547"
+    }
+  ],
+  "team_lunch": [
+    {
+      "name": "Donuts & Deli",
+      "distance": "0.2 mi",
+      "url": "https://www.google.com/maps/search/Donuts%20%26%20Deli+near+40.0399976%2C-86.1379547"
+    },
+    {
+      "name": "Saladworks",
+      "distance": "0.3 mi",
+      "url": "https://www.google.com/maps/search/Saladworks+near+40.0399976%2C-86.1379547"
+    }
+  ],
+  "dinner": [
+    {
+      "name": "Noble Roman's Craft Pizza & Pub",
+      "distance": "0.1 mi",
+      "url": "https://www.google.com/maps/search/Noble%20Roman's%20Craft%20Pizza%20%26%20Pub+near+40.0399976%2C-86.1379547"
+    },
+    {
+      "name": "Thai Delight",
+      "distance": "0.2 mi",
+      "url": "https://www.google.com/maps/search/Thai%20Delight+near+40.0399976%2C-86.1379547"
+    },
+    {
+      "name": "Los Agaves",
+      "distance": "0.2 mi",
+      "url": "https://www.google.com/maps/search/Los%20Agaves+near+40.0399976%2C-86.1379547"
+    },
+    {
+      "name": "Titus Bakery and Deli",
+      "distance": "0.2 mi",
+      "url": "https://www.google.com/maps/search/Titus%20Bakery%20and%20Deli+near+40.0399976%2C-86.1379547"
+    },
+    {
+      "name": "Grindstone on the Monon",
+      "distance": "0.2 mi",
+      "url": "https://www.google.com/maps/search/Grindstone%20on%20the%20Monon+near+40.0399976%2C-86.1379547"
+    }
+  ],
+  "bowling": [
+    {
+      "name": "Bowl 32",
+      "distance": "5.7 mi",
+      "url": "https://www.google.com/maps/search/Bowl%2032+near+40.0399976%2C-86.1379547",
+      "isFar": true
+    },
+    {
+      "name": "Three - Two - FUN!!",
+      "distance": "5.7 mi",
+      "url": "https://www.google.com/maps/search/Three%20-%20Two%20-%20FUN!!+near+40.0399976%2C-86.1379547",
+      "isFar": true
+    }
+  ],
+  "arcade": [],
+  "movies": [
+    {
+      "name": "Regal Village Park",
+      "distance": "2.8 mi",
+      "url": "https://www.google.com/maps/search/Regal%20Village%20Park+near+40.0399976%2C-86.1379547"
+    },
+    {
+      "name": "Carmel Theatre Company",
+      "distance": "4.4 mi",
+      "url": "https://www.google.com/maps/search/Carmel%20Theatre%20Company+near+40.0399976%2C-86.1379547",
+      "isFar": true
+    },
+    {
+      "name": "Flix Brewhouse",
+      "distance": "5.7 mi",
+      "url": "https://www.google.com/maps/search/Flix%20Brewhouse+near+40.0399976%2C-86.1379547",
+      "isFar": true
+    }
+  ],
+  "fun": [
+    {
+      "name": "The Escape Room USA Westfield",
+      "distance": "0.6 mi",
+      "url": "https://www.google.com/maps/search/The%20Escape%20Room%20USA%20Westfield+near+40.0399976%2C-86.1379547"
+    },
+    {
+      "name": "Dillon Park Splash Pad",
+      "distance": "4.5 mi",
+      "url": "https://www.google.com/maps/search/Dillon%20Park%20Splash%20Pad+near+40.0399976%2C-86.1379547",
+      "isFar": true
+    },
+    {
+      "name": "Splash Pad",
+      "distance": "5.7 mi",
+      "url": "https://www.google.com/maps/search/Splash%20Pad+near+40.0399976%2C-86.1379547",
+      "isFar": true
+    },
+    {
+      "name": "Splash pad",
+      "distance": "6.1 mi",
+      "url": "https://www.google.com/maps/search/Splash%20pad+near+40.0399976%2C-86.1379547",
+      "isFar": true
+    }
+  ],
+  "hotels": [
+    {
+      "name": "Hampton Inn Westfield Indianapolis",
+      "distance": "0.1 mi",
+      "url": "https://www.google.com/maps/search/Hampton%20Inn%20Westfield%20Indianapolis+near+40.0399976%2C-86.1379547"
+    },
+    {
+      "name": "Lux Home 5 mins to Grand Park w Private Garage",
+      "distance": "0.3 mi",
+      "url": "https://www.google.com/maps/search/Lux%20Home%205%20mins%20to%20Grand%20Park%20w%20Private%20Garage+near+40.0399976%2C-86.1379547"
+    },
+    {
+      "name": "Grand Park Westfield New Townhome-4 Bedrooms, 7 Beds",
+      "distance": "0.3 mi",
+      "url": "https://www.google.com/maps/search/Grand%20Park%20Westfield%20New%20Townhome-4%20Bedrooms%2C%207%20Beds+near+40.0399976%2C-86.1379547"
+    },
+    {
+      "name": "NEW! Grand Park-2 min drive. Dwntwn Westfield-walk to restaurants & Monon.",
+      "distance": "0.3 mi",
+      "url": "https://www.google.com/maps/search/NEW!%20Grand%20Park-2%20min%20drive.%20Dwntwn%20Westfield-walk%20to%20restaurants%20%26%20Monon.+near+40.0399976%2C-86.1379547"
+    },
+    {
+      "name": "Enjoy the ambiance of Poplar Cottage at Grand Park!",
+      "distance": "0.3 mi",
+      "url": "https://www.google.com/maps/search/Enjoy%20the%20ambiance%20of%20Poplar%20Cottage%20at%20Grand%20Park!+near+40.0399976%2C-86.1379547"
+    },
+    {
+      "name": "Enjoy the ambiance of Poplar Cottage at Grand Park!",
+      "distance": "0.3 mi",
+      "url": "https://www.google.com/maps/search/Enjoy%20the%20ambiance%20of%20Poplar%20Cottage%20at%20Grand%20Park!+near+40.0399976%2C-86.1379547"
+    },
+    {
+      "name": "5 minutes from Grand Park! - Jersey Street Junction",
+      "distance": "0.3 mi",
+      "url": "https://www.google.com/maps/search/5%20minutes%20from%20Grand%20Park!%20-%20Jersey%20Street%20Junction+near+40.0399976%2C-86.1379547"
+    }
+  ],
+  "gas": [
+    {
+      "name": "GetGo Café + Market",
+      "distance": "0.2 mi",
+      "url": "https://www.google.com/maps/search/GetGo%20Caf%C3%A9%20%2B%20Market+near+40.0399976%2C-86.1379547"
+    },
+    {
+      "name": "Speedway",
+      "distance": "0.5 mi",
+      "url": "https://www.google.com/maps/search/Speedway+near+40.0399976%2C-86.1379547"
+    },
+    {
+      "name": "Speedway",
+      "distance": "0.5 mi",
+      "url": "https://www.google.com/maps/search/Speedway+near+40.0399976%2C-86.1379547"
+    },
+    {
+      "name": "Wawa",
+      "distance": "1.4 mi",
+      "url": "https://www.google.com/maps/search/Wawa+near+40.0399976%2C-86.1379547"
+    },
+    {
+      "name": "Kroger Fuel Center",
+      "distance": "1.7 mi",
+      "url": "https://www.google.com/maps/search/Kroger%20Fuel%20Center+near+40.0399976%2C-86.1379547"
+    }
+  ]
+}

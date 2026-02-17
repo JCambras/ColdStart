@@ -1,0 +1,192 @@
+{
+  "quick_bite": [
+    {
+      "name": "Carlos Pancake House",
+      "distance": "0.4 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Carlos%20Pancake%20House&query_place_id=ChIJY-lN8wNzD4gRDw0Flkm4kyU&center=42.2429906,-88.3170026"
+    },
+    {
+      "name": "Georgio's Chicago Pizzeria & Pub",
+      "distance": "0.5 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Georgio's%20Chicago%20Pizzeria%20%26%20Pub&query_place_id=ChIJYUcKdqJyD4gRw-ZvIYCxaiE&center=42.243645,-88.3177163"
+    },
+    {
+      "name": "Papa Saverio's Pizzeria",
+      "distance": "0.5 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Papa%20Saverio's%20Pizzeria&query_place_id=ChIJebFS2-5yD4gR0JHcfIAFkKU&center=42.2491859,-88.30102869999999"
+    },
+    {
+      "name": "Subway",
+      "distance": "0.7 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Subway&query_place_id=ChIJuxDRc55yD4gR5xpRG2s3kCY&center=42.2488782,-88.32245530000002"
+    },
+    {
+      "name": "McDonald's",
+      "distance": "1.1 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=McDonald's&query_place_id=ChIJXRzzeOFyD4gRqRzWPgSRg6U&center=42.2477634,-88.2875382"
+    },
+    {
+      "name": "Jimmy John's",
+      "distance": "1.2 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Jimmy%20John's&query_place_id=ChIJS-XNG-FyD4gR_dbqJqFZYKc&center=42.2539344,-88.28739759999999"
+    }
+  ],
+  "coffee": [
+    {
+      "name": "Breaking Bread - Crystal Lake",
+      "distance": "0.4 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Breaking%20Bread%20-%20Crystal%20Lake&query_place_id=ChIJMwt-qVZtD4gRV1HFGracKvk&center=42.2440351,-88.31721830000001"
+    },
+    {
+      "name": "Trax Depot Cafe",
+      "distance": "0.4 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Trax%20Depot%20Cafe&query_place_id=ChIJZX2-oZhyD4gRS_rBeV0bVVE&center=42.2440964,-88.3172927"
+    },
+    {
+      "name": "Grounds Coffee Bar",
+      "distance": "0.4 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Grounds%20Coffee%20Bar&query_place_id=ChIJe325jphyD4gRxMudKGimzXM&center=42.243142999999996,-88.31688869999999"
+    },
+    {
+      "name": "AROMA Coffee & Wine",
+      "distance": "0.5 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=AROMA%20Coffee%20%26%20Wine&query_place_id=ChIJbzYJ0B1zD4gRW37Vrp6F5f4&center=42.2435659,-88.317572"
+    }
+  ],
+  "team_lunch": [
+    {
+      "name": "Crystal Lake Junction",
+      "distance": "0.4 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Crystal%20Lake%20Junction&query_place_id=ChIJq8GOxn9zD4gRyhuC_zK0ixE&center=42.2444698,-88.3167558"
+    },
+    {
+      "name": "Fresh Market Bakery",
+      "distance": "1.3 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Fresh%20Market%20Bakery&query_place_id=ChIJnVdSTABzD4gRR2xWIqQbf4Q&center=42.227827399999995,-88.3121211"
+    },
+    {
+      "name": "Potbelly",
+      "distance": "1.4 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Potbelly&query_place_id=ChIJYbcofrJyD4gR5lzhJk6l6IU&center=42.226563299999995,-88.31280699999999"
+    }
+  ],
+  "dinner": [
+    {
+      "name": "Prado’s Market",
+      "distance": "0.4 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Prado%E2%80%99s%20Market&query_place_id=ChIJcVzjIaJzD4gRmli2hw7d120&center=42.2448378,-88.31596809999999"
+    },
+    {
+      "name": "da Baffone Cucina Italiana",
+      "distance": "0.4 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=da%20Baffone%20Cucina%20Italiana&query_place_id=ChIJJb18cJhyD4gRJWc9eVmov6I&center=42.244135799999995,-88.3158794"
+    },
+    {
+      "name": "That's Amore Pizza",
+      "distance": "0.4 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=That's%20Amore%20Pizza&query_place_id=ChIJZ4Qq8-FyD4gRnSBKlzYrziA&center=42.243918,-88.315921"
+    },
+    {
+      "name": "Duke's Alehouse and Kitchen",
+      "distance": "0.4 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Duke's%20Alehouse%20and%20Kitchen&query_place_id=ChIJOaJVe5hyD4gRQ0ftD-K4lAU&center=42.2442321,-88.3163002"
+    },
+    {
+      "name": "Moontime Smokin' Que",
+      "distance": "0.4 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Moontime%20Smokin'%20Que&query_place_id=ChIJ__9LjdBsD4gRANmHyVFo5ko&center=42.2444698,-88.3167558"
+    },
+    {
+      "name": "Cafe Olympic",
+      "distance": "0.5 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Cafe%20Olympic&query_place_id=ChIJee8CeqJyD4gRTmUwJtfqmRQ&center=42.2433757,-88.31730350000001"
+    }
+  ],
+  "bowling": [
+    {
+      "name": "Metro Bowl",
+      "distance": "0.5 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Metro%20Bowl&query_place_id=ChIJRW4AT6JyD4gRzG29RYTiIEg&center=42.241728599999995,-88.3173907"
+    }
+  ],
+  "arcade": [],
+  "movies": [
+    {
+      "name": "Regal Crystal Lake Showplace",
+      "distance": "1.5 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Regal%20Crystal%20Lake%20Showplace&query_place_id=ChIJu2VsZFRtD4gRE5vBIRAuas0&center=42.22737,-88.2945"
+    },
+    {
+      "name": "AMC Lake In The Hills 12",
+      "distance": "4.7 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=AMC%20Lake%20In%20The%20Hills%2012&query_place_id=ChIJ9QvZq2QSD4gRnmepsWpuP04&center=42.1799448,-88.3334879",
+      "isFar": true
+    }
+  ],
+  "fun": [
+    {
+      "name": "Geocache",
+      "distance": "0.6 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Geocache&query_place_id=ChIJA_3gCABzD4gRwPFUNlB13y8&center=42.249366699999996,-88.3196"
+    },
+    {
+      "name": "Acorn Alley Splash Pad & Playground",
+      "distance": "0.7 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Acorn%20Alley%20Splash%20Pad%20%26%20Playground&query_place_id=ChIJ97h7OQBzD4gRv_QTGMBpRSA&center=42.2513772,-88.3203431"
+    },
+    {
+      "name": "Sledding Hill | Veteran Acres Park",
+      "distance": "0.7 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Sledding%20Hill%20%7C%20Veteran%20Acres%20Park&query_place_id=ChIJsdy8SNBzD4gRYn5D_D1kA3k&center=42.2522887,-88.32007519999999"
+    },
+    {
+      "name": "Urban Air Trampoline and Adventure Park",
+      "distance": "0.8 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Urban%20Air%20Trampoline%20and%20Adventure%20Park&query_place_id=ChIJy1zlCLhyD4gRi7x4bbQ3fAU&center=42.2343925,-88.3046427"
+    }
+  ],
+  "hotels": [
+    {
+      "name": "-NEW- Blue Magnolia Cottage -3 King Beds- Luxury\\n",
+      "distance": "1.1 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=-NEW-%20Blue%20Magnolia%20Cottage%20-3%20King%20Beds-%20Luxury%5Cn&query_place_id=ChIJmz9viF1tD4gR6uG4ySqAVco&center=42.243751499999995,-88.33055879999999"
+    },
+    {
+      "name": "Country Inn & Suites by Radisson, Crystal Lake, IL",
+      "distance": "1.3 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Country%20Inn%20%26%20Suites%20by%20Radisson%2C%20Crystal%20Lake%2C%20IL&query_place_id=ChIJ3S8lJcxyD4gRkPJf1nDku98&center=42.2286544,-88.2978353"
+    },
+    {
+      "name": "Comfort Inn Crystal Lake - Algonquin - King Suite - Non-Smoking",
+      "distance": "1.4 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Comfort%20Inn%20Crystal%20Lake%20-%20Algonquin%20-%20King%20Suite%20-%20Non-Smoking&query_place_id=ChIJ4ZKbQMxyD4gR_ePFDdhev0o&center=42.2273407,-88.2982102"
+    },
+    {
+      "name": "Comfort Inn Crystal Lake - Algonquin",
+      "distance": "1.4 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Comfort%20Inn%20Crystal%20Lake%20-%20Algonquin&query_place_id=ChIJjUshP8xyD4gRgH1bPcUZUNg&center=42.227244,-88.29821700000001"
+    }
+  ],
+  "gas": [
+    {
+      "name": "Mobil",
+      "distance": "0.5 mi",
+      "url": "https://www.google.com/maps/search/Mobil+near+42.246047999999995%2C-88.3092483"
+    },
+    {
+      "name": "Shell",
+      "distance": "1.1 mi",
+      "url": "https://www.google.com/maps/search/Shell+near+42.246047999999995%2C-88.3092483"
+    },
+    {
+      "name": "Circle K | Gas Station",
+      "distance": "1.1 mi",
+      "url": "https://www.google.com/maps/search/Circle%20K%20%7C%20Gas%20Station+near+42.246047999999995%2C-88.3092483"
+    },
+    {
+      "name": "HP Petroleum",
+      "distance": "1.1 mi",
+      "url": "https://www.google.com/maps/search/HP%20Petroleum+near+42.246047999999995%2C-88.3092483"
+    }
+  ]
+}

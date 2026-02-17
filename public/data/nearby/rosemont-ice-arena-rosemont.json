@@ -1,0 +1,204 @@
+{
+  "quick_bite": [
+    {
+      "name": "Jimmy John's",
+      "distance": "0.2 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Jimmy%20John's&query_place_id=ChIJ2TsOVVe2D4gRctRZQLQCgXg&center=42.0090168,-87.88879419999999"
+    },
+    {
+      "name": "Buona",
+      "distance": "0.2 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Buona&query_place_id=ChIJoyHFqlC2D4gRLyN5JcZcl5M&center=42.0089109,-87.8885348"
+    },
+    {
+      "name": "MR. BROAST ROSEMONT",
+      "distance": "0.2 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=MR.%20BROAST%20ROSEMONT&query_place_id=ChIJNWkPYVq2D4gRZkxswphiY-Y&center=42.0082683,-87.88706309999999"
+    },
+    {
+      "name": "Subway",
+      "distance": "0.2 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Subway&query_place_id=ChIJPab5L1u2D4gRwjF183YKG7o&center=42.007788600000005,-87.88684479999999"
+    }
+  ],
+  "coffee": [
+    {
+      "name": "Starbucks Coffee Company",
+      "distance": "0.2 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Starbucks%20Coffee%20Company&query_place_id=ChIJVzQUMlu2D4gRTJWWFVnSWXs&center=42.00685,-87.88678"
+    },
+    {
+      "name": "Starbucks Coffee Company",
+      "distance": "0.4 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Starbucks%20Coffee%20Company&query_place_id=ChIJO91vskS2D4gRs7Z7moZdCjI&center=42.0049511,-87.8842499"
+    }
+  ],
+  "team_lunch": [
+    {
+      "name": "Steak 'n Shake",
+      "distance": "0.2 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Steak%20'n%20Shake&query_place_id=ChIJKQnSp1C2D4gRSu_g3meMiTo&center=42.008934700000005,-87.888014"
+    },
+    {
+      "name": "IHOP",
+      "distance": "0.2 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=IHOP&query_place_id=ChIJYXOpwFq2D4gRMwmW7nKgsU0&center=42.008730799999995,-87.88715300000001"
+    },
+    {
+      "name": "Chili's Grill & Bar",
+      "distance": "0.3 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Chili's%20Grill%20%26%20Bar&query_place_id=ChIJY4KmmFq2D4gRcR3zy4L9Bqc&center=42.008773999999995,-87.88617099999999"
+    },
+    {
+      "name": "Oak Mill Bakery",
+      "distance": "0.9 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Oak%20Mill%20Bakery&query_place_id=ChIJ3RA-1ui2D4gRshaxpdXFNew&center=42.007311800000004,-87.9093565"
+    }
+  ],
+  "dinner": [
+    {
+      "name": "Hatty's Club",
+      "distance": "0.1 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Hatty's%20Club&query_place_id=ChIJGf1kvFm2D4gRBktFxkW2gew&center=42.007479599999996,-87.89144979999999"
+    },
+    {
+      "name": "Naf Naf Grill",
+      "distance": "0.1 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Naf%20Naf%20Grill&query_place_id=ChIJIZIvBFq2D4gR4hh0grV3gqY&center=42.0088602,-87.88897460000001"
+    },
+    {
+      "name": "Sultan Kebab & Shawerma",
+      "distance": "0.2 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Sultan%20Kebab%20%26%20Shawerma&query_place_id=ChIJfQUtiFe3D4gRDIYMRTOsKZk&center=42.0084191,-87.8870851"
+    },
+    {
+      "name": "Taco Maya",
+      "distance": "0.2 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Taco%20Maya&query_place_id=ChIJ3e6_Gey3D4gRTCDPRdLSiRw&center=42.007853,-87.886888"
+    },
+    {
+      "name": "Little Angelo's Pizza & Catering",
+      "distance": "0.2 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Little%20Angelo's%20Pizza%20%26%20Catering&query_place_id=ChIJIwItxVq2D4gRutM3GUDJ9c4&center=42.0083838,-87.8869912"
+    },
+    {
+      "name": "Mi Tierrita Colombia",
+      "distance": "0.8 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Mi%20Tierrita%20Colombia&query_place_id=ChIJ22rpfJW3D4gRbpZuHVeVhkQ&center=42.0102608,-87.8761066"
+    }
+  ],
+  "bowling": [
+    {
+      "name": "Parkway Bank Park Entertainment District",
+      "distance": "2.3 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Parkway%20Bank%20Park%20Entertainment%20District&query_place_id=ChIJ0UJBfeK1D4gRJLOM9wGgWXs&center=41.9786104,-87.86783020000001"
+    },
+    {
+      "name": "River Rand Bowl",
+      "distance": "3.0 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=River%20Rand%20Bowl&query_place_id=ChIJAy-JI4W3D4gRiRvO0xZwZjU&center=42.0499763,-87.885437"
+    },
+    {
+      "name": "Edison Park Bowl",
+      "distance": "3.8 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Edison%20Park%20Bowl&query_place_id=ChIJrQSSxaDJD4gRjK0JUN5QNtQ&center=42.0025195,-87.8171423",
+      "isFar": true
+    }
+  ],
+  "arcade": [],
+  "movies": [
+    {
+      "name": "AMC DINE-IN Rosemont 12",
+      "distance": "2.3 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=AMC%20DINE-IN%20Rosemont%2012&query_place_id=ChIJbZx_zgm2D4gRk95LEubZw2A&center=41.97975460000001,-87.86753080000001"
+    },
+    {
+      "name": "Pickwick Theatre",
+      "distance": "3.2 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Pickwick%20Theatre&query_place_id=ChIJq8ukILHJD4gROnlJarpE8Jw&center=42.010633899999995,-87.82923240000001",
+      "isFar": true
+    },
+    {
+      "name": "Ciné LOUNGE at Niles [MovieTheater & Restaurant]",
+      "distance": "3.8 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Cin%C3%A9%20LOUNGE%20at%20Niles%20%5BMovieTheater%20%26%20Restaurant%5D&query_place_id=ChIJ-eK68JrJD4gRkM7FhQAFRRo&center=42.055219799999996,-87.8545125",
+      "isFar": true
+    }
+  ],
+  "fun": [
+    {
+      "name": "Play It Safe",
+      "distance": "2.2 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Play%20It%20Safe&query_place_id=ChIJYVAF7tO1D4gRDmYKdEmzc6Y&center=41.975144199999995,-87.8915184"
+    },
+    {
+      "name": "Sledding Hill",
+      "distance": "2.2 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Sledding%20Hill&query_place_id=ChIJO7qQUvLJD4gRiLhAEtAvr6U&center=42.0074476,-87.84756929999999"
+    },
+    {
+      "name": "Mystic Waters Family Aquatic Center",
+      "distance": "2.3 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Mystic%20Waters%20Family%20Aquatic%20Center&query_place_id=ChIJh3huVJW3D4gR65YTxbKaLcY&center=42.0378798,-87.8742757"
+    },
+    {
+      "name": "Metropolitan Square",
+      "distance": "2.4 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Metropolitan%20Square&query_place_id=ChIJG38FmZm3D4gRE4iFsZFIEBg&center=42.042187600000005,-87.8857427"
+    }
+  ],
+  "hotels": [
+    {
+      "name": "Extended Stay America Suites- Chicago - O'Hare - Allstate Arena",
+      "distance": "0.1 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Extended%20Stay%20America%20Suites-%20Chicago%20-%20O'Hare%20-%20Allstate%20Arena&query_place_id=ChIJFeKZFFi2D4gRViz4g79ayJk&center=42.0079457,-87.8932267"
+    },
+    {
+      "name": "Residence Inn by Marriott Chicago O'Hare",
+      "distance": "0.1 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Residence%20Inn%20by%20Marriott%20Chicago%20O'Hare&query_place_id=ChIJUc7kJ1q2D4gRR8qyDVK_PUg&center=42.0082342,-87.8887419"
+    },
+    {
+      "name": "Extended Stay America Select Suites- Chicago - O'Hare",
+      "distance": "0.1 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Extended%20Stay%20America%20Select%20Suites-%20Chicago%20-%20O'Hare&query_place_id=ChIJ8eaIGli2D4gRAidW0XwVObI&center=42.008736,-87.893338"
+    },
+    {
+      "name": "Wyndham Chicago O'Hare",
+      "distance": "0.3 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Wyndham%20Chicago%20O'Hare&query_place_id=ChIJb_oTjVC2D4gRQS837bjPlLw&center=42.01018,-87.88773739999999"
+    },
+    {
+      "name": "Fairfield by Marriott Inn & Suites Chicago O'Hare",
+      "distance": "0.3 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Fairfield%20by%20Marriott%20Inn%20%26%20Suites%20Chicago%20O'Hare&query_place_id=ChIJB2xhaFC2D4gRignzNYnsUaU&center=42.0109145,-87.88690439999999"
+    },
+    {
+      "name": "avid hotel Chicago O’hare – Des Plaines by IHG",
+      "distance": "0.4 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=avid%20hotel%20Chicago%20O%E2%80%99hare%20%E2%80%93%20Des%20Plaines%20by%20IHG&query_place_id=ChIJefjZB8a3D4gR4EEB82xRdsk&center=42.009201,-87.8846444"
+    }
+  ],
+  "gas": [
+    {
+      "name": "Rental Park Chicago",
+      "distance": "0.4 mi",
+      "url": "https://www.google.com/maps/search/Rental%20Park%20Chicago+near+42.007433299999995%2C-87.89114500000001"
+    },
+    {
+      "name": "Speedway",
+      "distance": "0.5 mi",
+      "url": "https://www.google.com/maps/search/Speedway+near+42.007433299999995%2C-87.89114500000001"
+    },
+    {
+      "name": "Chicago Airport Plaza",
+      "distance": "0.6 mi",
+      "url": "https://www.google.com/maps/search/Chicago%20Airport%20Plaza+near+42.007433299999995%2C-87.89114500000001"
+    },
+    {
+      "name": "bp",
+      "distance": "0.6 mi",
+      "url": "https://www.google.com/maps/search/bp+near+42.007433299999995%2C-87.89114500000001"
+    }
+  ]
+}

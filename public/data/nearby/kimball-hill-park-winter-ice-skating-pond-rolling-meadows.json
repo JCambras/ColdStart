@@ -1,0 +1,189 @@
+{
+  "quick_bite": [
+    {
+      "name": "Little Caesars Pizza",
+      "distance": "0.2 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Little%20Caesars%20Pizza&query_place_id=ChIJb2X5AUmlD4gR9vZZWO6WXeE&center=42.079246,-88.01840299999999"
+    },
+    {
+      "name": "ZENSHI Handcrafted Sushi",
+      "distance": "0.2 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=ZENSHI%20Handcrafted%20Sushi&query_place_id=ChIJRbsot1KlD4gRehsmGUq5mIo&center=42.0788851,-88.0171993"
+    },
+    {
+      "name": "Fratellos 2",
+      "distance": "0.3 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Fratellos%202&query_place_id=ChIJmR6-MkalD4gRALJi79UI5z0&center=42.078441,-88.02234299999999"
+    },
+    {
+      "name": "Subway",
+      "distance": "0.5 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Subway&query_place_id=ChIJr8yJNTKlD4gRUoDTs13UpxU&center=42.0890879,-88.0200764"
+    },
+    {
+      "name": "Hangry Joe's Hot Chicken & Wings",
+      "distance": "0.5 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Hangry%20Joe's%20Hot%20Chicken%20%26%20Wings&query_place_id=ChIJ3Yy2_4GlD4gRwbpSzTEo7B0&center=42.0891421,-88.01951199999999"
+    }
+  ],
+  "coffee": [
+    {
+      "name": "Dunkin'",
+      "distance": "0.2 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Dunkin'&query_place_id=ChIJ4Qcz2EelD4gRkrME5wOSYng&center=42.079217799999995,-88.02169970000001"
+    },
+    {
+      "name": "Starbucks Coffee Company",
+      "distance": "0.2 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Starbucks%20Coffee%20Company&query_place_id=ChIJyQRxmkmlD4gRimP2T8Zvc-8&center=42.07868,-88.01722"
+    },
+    {
+      "name": "Honey-Jam Cafe Arlington Heights",
+      "distance": "0.5 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Honey-Jam%20Cafe%20Arlington%20Heights&query_place_id=ChIJ9eQRRTClD4gRIH_YAiurmbA&center=42.0890547,-88.01973749999999"
+    },
+    {
+      "name": "Starbucks Coffee Company",
+      "distance": "0.5 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Starbucks%20Coffee%20Company&query_place_id=ChIJz6ZePjulD4gRSLJDfAcekL0&center=42.08907,-88.02021"
+    }
+  ],
+  "team_lunch": [
+    {
+      "name": "Uyghur Lagman House",
+      "distance": "0.3 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Uyghur%20Lagman%20House&query_place_id=ChIJ0xH42aylD4gRU7Zmvh1713c&center=42.07745020000001,-88.0167031"
+    },
+    {
+      "name": "Señor Tacos",
+      "distance": "0.4 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Se%C3%B1or%20Tacos&query_place_id=ChIJJ4-QFEulD4gRU7JwO0eC8bU&center=42.0768679,-88.0140931"
+    },
+    {
+      "name": "Rosati's Pizza - Rolling Meadows",
+      "distance": "0.4 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Rosati's%20Pizza%20-%20Rolling%20Meadows&query_place_id=ChIJoShncUalD4gRXHy9uZZV_sI&center=42.076831999999996,-88.0141432"
+    },
+    {
+      "name": "Pizza2Wings",
+      "distance": "0.4 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Pizza2Wings&query_place_id=ChIJFeeTKQalD4gRbS2GkiwwGdk&center=42.0768505,-88.0138073"
+    },
+    {
+      "name": "Mandi",
+      "distance": "0.4 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Mandi&query_place_id=ChIJi-hzWgClD4gRzWdXJ6hqEIM&center=42.0848519,-88.0118828"
+    },
+    {
+      "name": "Farmer's Fridge",
+      "distance": "0.6 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Farmer's%20Fridge&query_place_id=ChIJ88oGpsylD4gRvhOA1rAH7PQ&center=42.090952,-88.018957"
+    }
+  ],
+  "dinner": [
+    {
+      "name": "Phoenix Flame",
+      "distance": "0.1 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Phoenix%20Flame&query_place_id=ChIJ5bPuRlOlD4gRMC_5Dxdhg0M&center=42.0796388,-88.0193785"
+    },
+    {
+      "name": "Wingstop",
+      "distance": "0.2 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Wingstop&query_place_id=ChIJn6h4Us2lD4gRcKxreSUpDB4&center=42.079230200000005,-88.0181741"
+    },
+    {
+      "name": "T N T's Snack Shop",
+      "distance": "0.8 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=T%20N%20T's%20Snack%20Shop&query_place_id=ChIJefbNT8i6D4gRbWiNMI6INaw&center=42.0826333,-88.0041123"
+    },
+    {
+      "name": "The Bakester",
+      "distance": "1.8 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=The%20Bakester&query_place_id=ChIJP_Df4li7D4gRjanlJAx921o&center=42.0834786,-87.98363669999999"
+    },
+    {
+      "name": "Sweet T's Bakery & Cake Studio",
+      "distance": "1.9 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Sweet%20T's%20Bakery%20%26%20Cake%20Studio&query_place_id=ChIJQXAGZ-26D4gRDCPfgDEsPI0&center=42.081978,-87.98273789999999"
+    }
+  ],
+  "bowling": [
+    {
+      "name": "Beverly Lanes",
+      "distance": "2.4 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Beverly%20Lanes&query_place_id=ChIJlYOwb_W6D4gRjpm8M3HqTQ8&center=42.081573399999996,-87.9734115"
+    },
+    {
+      "name": "Arlington Lanes",
+      "distance": "4.1 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Arlington%20Lanes&query_place_id=ChIJ1S62rl-7D4gR2NSmOSaT3YA&center=42.1376973,-87.99413419999999",
+      "isFar": true
+    },
+    {
+      "name": "Bowlero Mount Prospect",
+      "distance": "4.9 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Bowlero%20Mount%20Prospect&query_place_id=ChIJA1KpcPC5D4gRyS3TpdStku8&center=42.0707654,-87.92474729999999",
+      "isFar": true
+    }
+  ],
+  "arcade": [],
+  "movies": [
+    {
+      "name": "AMC Streets of Woodfield 20",
+      "distance": "3.0 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=AMC%20Streets%20of%20Woodfield%2020&query_place_id=ChIJj_FcAL-vD4gR3EyqWWAi5QA&center=42.0392702,-88.0346445",
+      "isFar": true
+    },
+    {
+      "name": "AMC Randhurst 12",
+      "distance": "4.5 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=AMC%20Randhurst%2012&query_place_id=ChIJ9_gUoYm5D4gRw6p5VFa1eNc&center=42.085706300000005,-87.9313598",
+      "isFar": true
+    }
+  ],
+  "fun": [
+    {
+      "name": "Break Escape",
+      "distance": "1.9 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Break%20Escape&query_place_id=ChIJ6wSJYvK6D4gR1tonftKKzcA&center=42.0813874,-87.982676"
+    },
+    {
+      "name": "Panic Escape Room Games",
+      "distance": "2.5 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Panic%20Escape%20Room%20Games&query_place_id=ChIJRS3d6OilD4gRPv0UZixaYdI&center=42.1155392,-88.03432819999999"
+    },
+    {
+      "name": "Mastermind Escape Games",
+      "distance": "2.5 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Mastermind%20Escape%20Games&query_place_id=ChIJpbqJFnmvD4gRaVQ29Z5j4xw&center=42.055586,-88.05422399999999"
+    },
+    {
+      "name": "golf du mexique",
+      "distance": "2.6 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=golf%20du%20mexique&query_place_id=ChIJTSOyKgCxD4gRCtQRRW1tQP4&center=42.051271199999995,-87.9898425"
+    }
+  ],
+  "hotels": [],
+  "gas": [
+    {
+      "name": "76",
+      "distance": "0.3 mi",
+      "url": "https://www.google.com/maps/search/76+near+42.08158830000001%2C-88.0193188"
+    },
+    {
+      "name": "Marathon Gas",
+      "distance": "0.8 mi",
+      "url": "https://www.google.com/maps/search/Marathon%20Gas+near+42.08158830000001%2C-88.0193188"
+    },
+    {
+      "name": "Mobil",
+      "distance": "0.9 mi",
+      "url": "https://www.google.com/maps/search/Mobil+near+42.08158830000001%2C-88.0193188"
+    },
+    {
+      "name": "bp",
+      "distance": "0.9 mi",
+      "url": "https://www.google.com/maps/search/bp+near+42.08158830000001%2C-88.0193188"
+    }
+  ]
+}

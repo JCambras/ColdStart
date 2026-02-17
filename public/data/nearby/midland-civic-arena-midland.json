@@ -1,0 +1,189 @@
+{
+  "quick_bite": [
+    {
+      "name": "Burger King",
+      "distance": "1.9 mi",
+      "url": "https://www.google.com/maps/search/Burger%20King+near+43.6029331%2C-84.17603"
+    },
+    {
+      "name": "Subway",
+      "distance": "1.9 mi",
+      "url": "https://www.google.com/maps/search/Subway+near+43.6029331%2C-84.17603"
+    },
+    {
+      "name": "Long John Silver's",
+      "distance": "1.9 mi",
+      "url": "https://www.google.com/maps/search/Long%20John%20Silver's+near+43.6029331%2C-84.17603"
+    },
+    {
+      "name": "Rally's",
+      "distance": "1.9 mi",
+      "url": "https://www.google.com/maps/search/Rally's+near+43.6029331%2C-84.17603"
+    },
+    {
+      "name": "Jersey Mike's Subs",
+      "distance": "2.0 mi",
+      "url": "https://www.google.com/maps/search/Jersey%20Mike's%20Subs+near+43.6029331%2C-84.17603"
+    },
+    {
+      "name": "Jimmy John's",
+      "distance": "2.0 mi",
+      "url": "https://www.google.com/maps/search/Jimmy%20John's+near+43.6029331%2C-84.17603"
+    },
+    {
+      "name": "China Palace Restaurant",
+      "distance": "2.0 mi",
+      "url": "https://www.google.com/maps/search/China%20Palace%20Restaurant+near+43.6029331%2C-84.17603"
+    }
+  ],
+  "coffee": [
+    {
+      "name": "Black River Coffee Co",
+      "distance": "0.6 mi",
+      "url": "https://www.google.com/maps/search/Black%20River%20Coffee%20Co+near+43.6029331%2C-84.17603"
+    },
+    {
+      "name": "McDonald's",
+      "distance": "0.6 mi",
+      "url": "https://www.google.com/maps/search/McDonald's+near+43.6029331%2C-84.17603"
+    },
+    {
+      "name": "Live Oak Coffeehouse",
+      "distance": "1.6 mi",
+      "url": "https://www.google.com/maps/search/Live%20Oak%20Coffeehouse+near+43.6029331%2C-84.17603"
+    },
+    {
+      "name": "Tim Hortons",
+      "distance": "2.0 mi",
+      "url": "https://www.google.com/maps/search/Tim%20Hortons+near+43.6029331%2C-84.17603"
+    }
+  ],
+  "team_lunch": [
+    {
+      "name": "Hunt Brothers Pizza",
+      "distance": "0.8 mi",
+      "url": "https://www.google.com/maps/search/Hunt%20Brothers%20Pizza+near+43.6029331%2C-84.17603"
+    }
+  ],
+  "dinner": [
+    {
+      "name": "Costco Bakery",
+      "distance": "0.3 mi",
+      "url": "https://www.google.com/maps/search/Costco%20Bakery+near+43.6029331%2C-84.17603"
+    },
+    {
+      "name": "Gimmicks For Food & Fun",
+      "distance": "0.5 mi",
+      "url": "https://www.google.com/maps/search/Gimmicks%20For%20Food%20%26%20Fun+near+43.6029331%2C-84.17603"
+    },
+    {
+      "name": "Ghengis Khan Mongolian BBQ",
+      "distance": "0.5 mi",
+      "url": "https://www.google.com/maps/search/Ghengis%20Khan%20Mongolian%20BBQ+near+43.6029331%2C-84.17603"
+    },
+    {
+      "name": "The Wheel House - An American Grill",
+      "distance": "0.8 mi",
+      "url": "https://www.google.com/maps/search/The%20Wheel%20House%20-%20An%20American%20Grill+near+43.6029331%2C-84.17603"
+    },
+    {
+      "name": "The Taste of Midland",
+      "distance": "1.6 mi",
+      "url": "https://www.google.com/maps/search/The%20Taste%20of%20Midland+near+43.6029331%2C-84.17603"
+    }
+  ],
+  "bowling": [
+    {
+      "name": "Valley Lanes Family Entertainment Center",
+      "distance": "0.5 mi",
+      "url": "https://www.google.com/maps/search/Valley%20Lanes%20Family%20Entertainment%20Center+near+43.6029331%2C-84.17603"
+    },
+    {
+      "name": "Northern Lanes Recreation",
+      "distance": "8.3 mi",
+      "url": "https://www.google.com/maps/search/Northern%20Lanes%20Recreation+near+43.6029331%2C-84.17603",
+      "isFar": true
+    }
+  ],
+  "arcade": [],
+  "movies": [
+    {
+      "name": "NCG Cinemas - Midland",
+      "distance": "4.7 mi",
+      "url": "https://www.google.com/maps/search/NCG%20Cinemas%20-%20Midland+near+43.6029331%2C-84.17603",
+      "isFar": true
+    }
+  ],
+  "fun": [
+    {
+      "name": "Code Breakers Escape and Puzzle Rooms",
+      "distance": "5.9 mi",
+      "url": "https://www.google.com/maps/search/Code%20Breakers%20Escape%20and%20Puzzle%20Rooms+near+43.6029331%2C-84.17603",
+      "isFar": true
+    }
+  ],
+  "hotels": [
+    {
+      "name": "Arlington Manor",
+      "distance": "0.5 mi",
+      "url": "https://www.google.com/maps/search/Arlington%20Manor+near+43.6029331%2C-84.17603"
+    },
+    {
+      "name": "Cute Convenient Midland Duplex",
+      "distance": "1.0 mi",
+      "url": "https://www.google.com/maps/search/Cute%20Convenient%20Midland%20Duplex+near+43.6029331%2C-84.17603"
+    },
+    {
+      "name": "Cute Convenient Midland Duplex",
+      "distance": "1.0 mi",
+      "url": "https://www.google.com/maps/search/Cute%20Convenient%20Midland%20Duplex+near+43.6029331%2C-84.17603"
+    },
+    {
+      "name": "Victoria Woods Mobile Home Park",
+      "distance": "1.2 mi",
+      "url": "https://www.google.com/maps/search/Victoria%20Woods%20Mobile%20Home%20Park+near+43.6029331%2C-84.17603"
+    },
+    {
+      "name": "Two - bedroom apartment with deck and firepit.",
+      "distance": "1.3 mi",
+      "url": "https://www.google.com/maps/search/Two%20-%20bedroom%20apartment%20with%20deck%20and%20firepit.+near+43.6029331%2C-84.17603"
+    },
+    {
+      "name": "Oakside Mobile Home Park Inc",
+      "distance": "1.3 mi",
+      "url": "https://www.google.com/maps/search/Oakside%20Mobile%20Home%20Park%20Inc+near+43.6029331%2C-84.17603"
+    },
+    {
+      "name": "Legacy Home- Spacious 4 bedroom family friendly home.",
+      "distance": "1.7 mi",
+      "url": "https://www.google.com/maps/search/Legacy%20Home-%20Spacious%204%20bedroom%20family%20friendly%20home.+near+43.6029331%2C-84.17603"
+    }
+  ],
+  "gas": [
+    {
+      "name": "Costco Gas Station",
+      "distance": "0.4 mi",
+      "url": "https://www.google.com/maps/search/Costco%20Gas%20Station+near+43.6029331%2C-84.17603"
+    },
+    {
+      "name": "Marathon",
+      "distance": "0.8 mi",
+      "url": "https://www.google.com/maps/search/Marathon+near+43.6029331%2C-84.17603"
+    },
+    {
+      "name": "Pacific Pride",
+      "distance": "1.5 mi",
+      "url": "https://www.google.com/maps/search/Pacific%20Pride+near+43.6029331%2C-84.17603"
+    },
+    {
+      "name": "Shell",
+      "distance": "1.9 mi",
+      "url": "https://www.google.com/maps/search/Shell+near+43.6029331%2C-84.17603"
+    },
+    {
+      "name": "Admiral Petroleum Co",
+      "distance": "2.1 mi",
+      "url": "https://www.google.com/maps/search/Admiral%20Petroleum%20Co+near+43.6029331%2C-84.17603"
+    }
+  ]
+}

@@ -1,0 +1,200 @@
+{
+  "quick_bite": [
+    {
+      "name": "ZENSHI Handcrafted Sushi",
+      "distance": "0.1 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=ZENSHI%20Handcrafted%20Sushi&query_place_id=ChIJO9K8oU0f54kRHW3NYe9w8Vc&center=42.1123695,-72.7469131"
+    },
+    {
+      "name": "Burger King",
+      "distance": "0.6 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Burger%20King&query_place_id=ChIJNfXMqloe54kRrQxaJ2CGQbw&center=42.1207673,-72.7454594"
+    },
+    {
+      "name": "Subway",
+      "distance": "0.6 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Subway&query_place_id=ChIJ_5j9flAe54kR93FkqTHPSfE&center=42.1211915,-72.7478859"
+    },
+    {
+      "name": "Pizza Towne",
+      "distance": "0.6 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Pizza%20Towne&query_place_id=ChIJM4FiV0Ue54kRnuNhyz4cL2s&center=42.1206757,-72.74413969999999"
+    },
+    {
+      "name": "Subway",
+      "distance": "0.9 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Subway&query_place_id=ChIJ8ZAbM4we54kRFVkN-_bMLDQ&center=42.1099423,-72.7653857"
+    },
+    {
+      "name": "Taco Bell",
+      "distance": "0.9 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Taco%20Bell&query_place_id=ChIJudGJLDke54kRpLtVuvdngIk&center=42.1146373,-72.7309739"
+    }
+  ],
+  "coffee": [
+    {
+      "name": "Dunkin'",
+      "distance": "0.5 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Dunkin'&query_place_id=ChIJx78oO2Akw4kRXNbvieYaAXY&center=42.119330999999995,-72.7435237"
+    },
+    {
+      "name": "Circuit Coffee",
+      "distance": "0.6 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Circuit%20Coffee&query_place_id=ChIJn_8vnlAe54kR2EAB0KMhiDM&center=42.1211489,-72.7493446"
+    },
+    {
+      "name": "Crave Café",
+      "distance": "0.6 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Crave%20Caf%C3%A9&query_place_id=ChIJCQNKvFAf54kRHNqhAyDYQmM&center=42.1213248,-72.7492602"
+    },
+    {
+      "name": "Café Zernó",
+      "distance": "0.6 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Caf%C3%A9%20Zern%C3%B3&query_place_id=ChIJiwpHiBUf54kRL2U-OZ4X-3c&center=42.1215768,-72.74916689999999"
+    },
+    {
+      "name": "Fancy Bagels Southwick",
+      "distance": "3.6 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Fancy%20Bagels%20Southwick&query_place_id=ChIJq2EgKQcd54kRnTnCIOQ0LH0&center=42.0617922,-72.76607609999999",
+      "isFar": true
+    }
+  ],
+  "team_lunch": [
+    {
+      "name": "Nana's kitchen",
+      "distance": "0.6 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Nana's%20kitchen&query_place_id=ChIJhZv9KVwf54kRyjG9HODqeH4&center=42.1212795,-72.74991969999999"
+    },
+    {
+      "name": "Boston Bay Pizza 2",
+      "distance": "0.7 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Boston%20Bay%20Pizza%202&query_place_id=ChIJpZLSilAe54kRXrH_wYns0vM&center=42.122198,-72.7485117"
+    }
+  ],
+  "dinner": [
+    {
+      "name": "Tavern Restaurant",
+      "distance": "0.5 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Tavern%20Restaurant&query_place_id=ChIJe5zlfVoe54kRcEanqlaxqQw&center=42.1205759,-72.74824280000001"
+    },
+    {
+      "name": "Comfort Bagel (Westfield)",
+      "distance": "0.6 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Comfort%20Bagel%20(Westfield)&query_place_id=ChIJmZXUY0nd5okR8FYj4a20QNk&center=42.120695,-72.74598689999999"
+    },
+    {
+      "name": "Janik's Pierogi Cafe",
+      "distance": "0.6 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Janik's%20Pierogi%20Cafe&query_place_id=ChIJ4_3_d1Ae54kR4emuzD9tnGk&center=42.120965999999996,-72.7475077"
+    },
+    {
+      "name": "The Good Table",
+      "distance": "0.6 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=The%20Good%20Table&query_place_id=ChIJae4GoVAe54kRLaJaRhZ7xWQ&center=42.121265099999995,-72.74976"
+    },
+    {
+      "name": "Ray Ray's Cafe",
+      "distance": "0.6 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Ray%20Ray's%20Cafe&query_place_id=ChIJHcPnTNPZ5okRYJJK-D-zHZ4&center=42.1213377,-72.7487372"
+    },
+    {
+      "name": "Two Rivers Burrito Co.",
+      "distance": "0.6 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Two%20Rivers%20Burrito%20Co.&query_place_id=ChIJKzGtkFAe54kRUqOpgknT_BI&center=42.1216454,-72.7491119"
+    }
+  ],
+  "bowling": [
+    {
+      "name": "Agawam Bowl",
+      "distance": "6.4 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Agawam%20Bowl&query_place_id=ChIJrw71y0Xh5okRROv_aC9Agn4&center=42.087821999999996,-72.629002",
+      "isFar": true
+    },
+    {
+      "name": "Round1 Bowling & Arcade Holyoke Mall",
+      "distance": "6.7 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Round1%20Bowling%20%26%20Arcade%20Holyoke%20Mall&query_place_id=ChIJVVVVYT7e5okRat3GZB7OBh8&center=42.1676302,-72.64135689999999",
+      "isFar": true
+    },
+    {
+      "name": "Tap Bowling",
+      "distance": "8.4 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Tap%20Bowling&query_place_id=ChIJf_CpB5nn5okRy7JNCiFvC6w&center=42.0990603,-72.586687",
+      "isFar": true
+    }
+  ],
+  "arcade": [],
+  "movies": [
+    {
+      "name": "Agawam Cinemas",
+      "distance": "6.9 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Agawam%20Cinemas&query_place_id=ChIJp0AfW-nj5okRx0267v6X-Xs&center=42.060007999999996,-72.634445",
+      "isFar": true
+    },
+    {
+      "name": "Regal MGM Springfield",
+      "distance": "8.4 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Regal%20MGM%20Springfield&query_place_id=ChIJ5e80LTLn5okRVZXsj7AkHEI&center=42.099245200000006,-72.58671319999999",
+      "isFar": true
+    }
+  ],
+  "fun": [
+    {
+      "name": "Westfield Clock Tower",
+      "distance": "1.0 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Westfield%20Clock%20Tower&query_place_id=ChIJEYhFSQAf54kRJ78f1MdLOOc&center=42.1274518,-72.7467549"
+    },
+    {
+      "name": "Bible Adventure Land",
+      "distance": "5.5 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Bible%20Adventure%20Land&query_place_id=ChIJzQ8k4kLh5okR8D-n4EFbJFo&center=42.0796517,-72.6507574",
+      "isFar": true
+    },
+    {
+      "name": "Noble View StoryWalk",
+      "distance": "5.8 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Noble%20View%20StoryWalk&query_place_id=ChIJ93SncmoZ54kRvz6c7skw9e4&center=42.1355849,-72.85844809999999",
+      "isFar": true
+    },
+    {
+      "name": "Altitude Trampoline & Adventure Park – Holyoke Mall’s Premier Party & Event Venue with New Arcade Games",
+      "distance": "6.6 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Altitude%20Trampoline%20%26%20Adventure%20Park%20%E2%80%93%20Holyoke%20Mall%E2%80%99s%20Premier%20Party%20%26%20Event%20Venue%20with%20New%20Arcade%20Games&query_place_id=ChIJn6r2fS7f5okRFAmRy2QkCZo&center=42.16600460000001,-72.6416059",
+      "isFar": true
+    }
+  ],
+  "hotels": [
+    {
+      "name": "Westfield Elks Lodge",
+      "distance": "0.9 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Westfield%20Elks%20Lodge&query_place_id=ChIJaUUoNwAf54kR_24TdV24CJY&center=42.1249448,-72.7516924"
+    },
+    {
+      "name": "Elm Motel",
+      "distance": "1.4 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Elm%20Motel&query_place_id=ChIJ_d1XePse54kRQ9Fg1xCJmi4&center=42.1281229,-72.76594"
+    }
+  ],
+  "gas": [
+    {
+      "name": "Cumberland Farms",
+      "distance": "0.5 mi",
+      "url": "https://www.google.com/maps/search/Cumberland%20Farms+near+42.1126383%2C-72.74892849999999"
+    },
+    {
+      "name": "Sunoco",
+      "distance": "0.7 mi",
+      "url": "https://www.google.com/maps/search/Sunoco+near+42.1126383%2C-72.74892849999999"
+    },
+    {
+      "name": "F.L.Roberts",
+      "distance": "0.7 mi",
+      "url": "https://www.google.com/maps/search/F.L.Roberts+near+42.1126383%2C-72.74892849999999"
+    },
+    {
+      "name": "Mobil",
+      "distance": "0.8 mi",
+      "url": "https://www.google.com/maps/search/Mobil+near+42.1126383%2C-72.74892849999999"
+    }
+  ]
+}

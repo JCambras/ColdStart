@@ -1,0 +1,207 @@
+{
+  "quick_bite": [
+    {
+      "name": "Subway",
+      "distance": "0.5 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Subway&query_place_id=ChIJI4y1z84zDogRVVqJjMM3KLk&center=41.8304263,-87.74673349999999"
+    },
+    {
+      "name": "Portillo's Cicero",
+      "distance": "0.6 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Portillo's%20Cicero&query_place_id=ChIJ-VbD8cwzDogRlc-OB0Dxe8w&center=41.832512,-87.74470300000002"
+    },
+    {
+      "name": "Jimmy John's",
+      "distance": "0.6 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Jimmy%20John's&query_place_id=ChIJj3FWhKozDogRcr5q8hyK2SY&center=41.8310191,-87.7443354"
+    },
+    {
+      "name": "Golden Corral Buffet & Grill",
+      "distance": "0.6 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Golden%20Corral%20Buffet%20%26%20Grill&query_place_id=ChIJpeKTHuwzDogRRTzsqPLUWXg&center=41.829589999999996,-87.7443895"
+    }
+  ],
+  "coffee": [
+    {
+      "name": "Dulce Mami Café",
+      "distance": "0.4 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Dulce%20Mami%20Caf%C3%A9&query_place_id=ChIJIUhqe_QzDogRfvgaowwVLdY&center=41.8293001,-87.76409509999999"
+    },
+    {
+      "name": "Starbucks",
+      "distance": "0.6 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Starbucks&query_place_id=ChIJTypUGrkzDogROG9ELkt5Cts&center=41.830439999999996,-87.74427999999999"
+    },
+    {
+      "name": "Mrs. Fields",
+      "distance": "0.7 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Mrs.%20Fields&query_place_id=ChIJW3S1e-8zDogRnqti9Uv598o&center=41.836285499999995,-87.7441499"
+    },
+    {
+      "name": "Atizapan Bakery and Gaming Cafe",
+      "distance": "0.8 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Atizapan%20Bakery%20and%20Gaming%20Cafe&query_place_id=ChIJ0c-ArvAzDogRyve3shhm7sg&center=41.8292412,-87.7711164"
+    },
+    {
+      "name": "Bambinos bakery Coffee and Chocolate",
+      "distance": "0.9 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Bambinos%20bakery%20Coffee%20and%20Chocolate&query_place_id=ChIJX0mq0lYzDogRzB3tfX0oHVM&center=41.84406320000001,-87.7543774"
+    }
+  ],
+  "team_lunch": [
+    {
+      "name": "Post Time Catering Inc",
+      "distance": "0.2 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Post%20Time%20Catering%20Inc&query_place_id=ChIJAwWcPMMzDogRE59Cq7YoGRk&center=41.828364099999995,-87.75258"
+    },
+    {
+      "name": "Mariscos Bucerias Nayarit - CALI VE",
+      "distance": "0.4 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Mariscos%20Bucerias%20Nayarit%20-%20CALI%20VE&query_place_id=ChIJpywBhMAzDogRR-ozxG0F76w&center=41.8366885,-87.7539645"
+    },
+    {
+      "name": "Hawthorne's Backstretch Kitchen",
+      "distance": "0.5 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Hawthorne's%20Backstretch%20Kitchen&query_place_id=ChIJW_9UNAAzDogR93Lp-MLb7bU&center=41.8243897,-87.75181339999999"
+    },
+    {
+      "name": "Taquería El Porvenir Super",
+      "distance": "0.5 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Taquer%C3%ADa%20El%20Porvenir%20Super&query_place_id=ChIJ5QsAeAAzDogRvI9iLYjulU4&center=41.8375986,-87.7540495"
+    },
+    {
+      "name": "Farmer's Fridge",
+      "distance": "0.6 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Farmer's%20Fridge&query_place_id=ChIJleaoKTAzDogRamird_HRAfE&center=41.823806399999995,-87.7627342"
+    }
+  ],
+  "dinner": [
+    {
+      "name": "El Taco Jalisco",
+      "distance": "0.3 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=El%20Taco%20Jalisco&query_place_id=ChIJo_vLbMEzDogRB2Xjx0RlFoc&center=41.8345178,-87.7533922"
+    },
+    {
+      "name": "Paisans Pizza",
+      "distance": "0.5 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Paisans%20Pizza&query_place_id=ChIJ1dVPjOMzDogRRIyEJ96GR8U&center=41.8246651,-87.7618746"
+    },
+    {
+      "name": "El Porvenir Bakery #2",
+      "distance": "0.5 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=El%20Porvenir%20Bakery%20%232&query_place_id=ChIJH7FNpoIzDogRYHt4o96USXo&center=41.8377943,-87.7540697"
+    },
+    {
+      "name": "Panaderia Pan-Chito",
+      "distance": "0.5 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Panaderia%20Pan-Chito&query_place_id=ChIJNbgZh8AzDogRwan5BabLGjs&center=41.8377943,-87.7540697"
+    },
+    {
+      "name": "Mariscos La Ramada Estilo Nayarit Bar and Grill",
+      "distance": "0.5 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Mariscos%20La%20Ramada%20Estilo%20Nayarit%20Bar%20and%20Grill&query_place_id=ChIJk1LOxHQzDogRIEtH2Rvm7tk&center=41.8378582,-87.7539627"
+    }
+  ],
+  "bowling": [
+    {
+      "name": "Town Hall Bowl",
+      "distance": "1.1 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Town%20Hall%20Bowl&query_place_id=ChIJkWgFCrszDogRsQi3Hjd9A-s&center=41.8456,-87.7503"
+    },
+    {
+      "name": "Striker Lanes Inc",
+      "distance": "2.6 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Striker%20Lanes%20Inc&query_place_id=ChIJ99Ngy2E0DogR2PRc861SOXc&center=41.857622,-87.792684"
+    },
+    {
+      "name": "Round1 Bowling & Arcade North Riverside Park Mall",
+      "distance": "3.1 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Round1%20Bowling%20%26%20Arcade%20North%20Riverside%20Park%20Mall&query_place_id=ChIJwRKKNt41DogRJ7ycycHBrJ4&center=41.8488784,-87.81153270000001",
+      "isFar": true
+    }
+  ],
+  "arcade": [],
+  "movies": [
+    {
+      "name": "AMC Cicero 14",
+      "distance": "1.4 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=AMC%20Cicero%2014&query_place_id=ChIJp5ic464zDogRBUDBD1e-SuU&center=41.8489098,-87.74297159999999"
+    },
+    {
+      "name": "Classic Cinemas North Riverside XQ",
+      "distance": "3.0 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Classic%20Cinemas%20North%20Riverside%20XQ&query_place_id=ChIJxbJv3U00DogREpxkodeZkIY&center=41.847205300000006,-87.80993330000001"
+    }
+  ],
+  "fun": [
+    {
+      "name": "Kujawa Park Spray Pool",
+      "distance": "1.9 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Kujawa%20Park%20Spray%20Pool&query_place_id=ChIJdwzJYQAxDogRgCoIgP8RVYA&center=41.814315799999996,-87.727696"
+    },
+    {
+      "name": "Octoberfest Berwyn",
+      "distance": "1.9 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Octoberfest%20Berwyn&query_place_id=ChIJBck5BAA1DogRTfWqOdXWA38&center=41.8331303,-87.7933539"
+    },
+    {
+      "name": "Vittum Park Water Spray Feature",
+      "distance": "2.0 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Vittum%20Park%20Water%20Spray%20Feature&query_place_id=ChIJo1daeQAxDogRZ5-9-1HRSE8&center=41.80273040000001,-87.7473538"
+    },
+    {
+      "name": "Spray Pool North Berwyn Park District",
+      "distance": "2.1 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Spray%20Pool%20North%20Berwyn%20Park%20District&query_place_id=ChIJQVZpEnw0DogRpBUfcMp9tiA&center=41.8543187,-87.7822711"
+    }
+  ],
+  "hotels": [
+    {
+      "name": "Cicer3bdrm w Pool Table Shufflle Board",
+      "distance": "0.1 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Cicer3bdrm%20w%20Pool%20Table%20Shufflle%20Board&query_place_id=ChIJFVkz58IzDogRl_wD1kZ-C0g&center=41.8296089,-87.7545013"
+    },
+    {
+      "name": "Cicer3bdrm w Pool Table & Shufflle Board",
+      "distance": "0.2 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Cicer3bdrm%20w%20Pool%20Table%20%26%20Shufflle%20Board&query_place_id=ChIJ5-78kcEzDogRaG8B-5dbYHg&center=41.833881399999996,-87.75508119999999"
+    },
+    {
+      "name": "Small hidden Gem",
+      "distance": "0.4 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Small%20hidden%20Gem&query_place_id=ChIJX1o5etszDogRRajEdKtqBwM&center=41.8260918,-87.7512131"
+    },
+    {
+      "name": "PremiumValue",
+      "distance": "0.7 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=PremiumValue&query_place_id=ChIJke0BTvEzDogRcGSI8kWuCH4&center=41.8306263,-87.7435584"
+    },
+    {
+      "name": "5029 Ogden Ave",
+      "distance": "0.8 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=5029%20Ogden%20Ave&query_place_id=ChIJI0YQE7kzDogRKPP0QazJJUE&center=41.841730999999996,-87.750083"
+    }
+  ],
+  "gas": [
+    {
+      "name": "Shell",
+      "distance": "0.4 mi",
+      "url": "https://www.google.com/maps/search/Shell+near+41.830631%2C-87.75619"
+    },
+    {
+      "name": "Ap Advanced",
+      "distance": "0.4 mi",
+      "url": "https://www.google.com/maps/search/Ap%20Advanced+near+41.830631%2C-87.75619"
+    },
+    {
+      "name": "KAMJAN, INC.",
+      "distance": "0.4 mi",
+      "url": "https://www.google.com/maps/search/KAMJAN%2C%20INC.+near+41.830631%2C-87.75619"
+    },
+    {
+      "name": "Citgo",
+      "distance": "0.4 mi",
+      "url": "https://www.google.com/maps/search/Citgo+near+41.830631%2C-87.75619"
+    }
+  ]
+}

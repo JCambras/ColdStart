@@ -1,0 +1,212 @@
+{
+  "quick_bite": [
+    {
+      "name": "Burger King",
+      "distance": "0.8 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Burger%20King&query_place_id=ChIJJQeJfwA36IkRZIjawqy5tik&center=40.8075342,-73.16086419999999"
+    },
+    {
+      "name": "Subway - Islandia - 54406",
+      "distance": "1.2 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Subway%20-%20Islandia%20-%2054406&query_place_id=ChIJ7TifYsI36IkR90hOpuv6vOk&center=40.8043422,-73.18082679999999"
+    },
+    {
+      "name": "New York Bagel Co",
+      "distance": "1.2 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=New%20York%20Bagel%20Co&query_place_id=ChIJTwlcZy036IkREV9yos1Jsnc&center=40.8042338,-73.18081"
+    },
+    {
+      "name": "Chipotle Mexican Grill",
+      "distance": "1.3 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Chipotle%20Mexican%20Grill&query_place_id=ChIJxcbfKQA36IkRDuEKYEZa9kM&center=40.8014219,-73.17615669999999"
+    }
+  ],
+  "coffee": [
+    {
+      "name": "Starbucks Coffee Company",
+      "distance": "0.6 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Starbucks%20Coffee%20Company&query_place_id=ChIJjbOLyT836IkR91Wgs8Uw5ic&center=40.81033,-73.15969"
+    },
+    {
+      "name": "Starbucks",
+      "distance": "1.2 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Starbucks&query_place_id=ChIJz_peRAA36IkRQhKFNGR1a2Y&center=40.804059699999996,-73.1793811"
+    },
+    {
+      "name": "Panera Bread",
+      "distance": "1.3 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Panera%20Bread&query_place_id=ChIJs3_1TTU36IkRYLqbMx2MCt0&center=40.8014219,-73.17615669999999"
+    },
+    {
+      "name": "Dunkin'",
+      "distance": "1.3 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Dunkin'&query_place_id=ChIJLSxbuOk36IkR0wM9QChZqlY&center=40.799568699999995,-73.1745632"
+    },
+    {
+      "name": "Graci Gourmet Market, Inc.",
+      "distance": "1.4 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Graci%20Gourmet%20Market%2C%20Inc.&query_place_id=ChIJC15xq5cx6IkRCzibQXi5KlI&center=40.8079168,-73.1888896"
+    }
+  ],
+  "team_lunch": [
+    {
+      "name": "Tastefully Plated",
+      "distance": "0.3 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Tastefully%20Plated&query_place_id=ChIJ__8_mDg36IkR5zRWykra3Ic&center=40.8129706,-73.166065"
+    },
+    {
+      "name": "Islandia Buffet",
+      "distance": "1.2 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Islandia%20Buffet&query_place_id=ChIJ_wcVqDI36IkRa2Viuecwxs8&center=40.8046617,-73.18080499999999"
+    },
+    {
+      "name": "Long Island Bagel Cafe",
+      "distance": "1.4 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Long%20Island%20Bagel%20Cafe&query_place_id=ChIJ23TvGOQ56IkRrQASiIQa31A&center=40.833053899999996,-73.14814439999999"
+    },
+    {
+      "name": "Paws & Claws Bakery",
+      "distance": "1.8 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Paws%20%26%20Claws%20Bakery&query_place_id=ChIJ1ehxIoM36IkRmEPADPAVX0c&center=40.8199446,-73.1317511"
+    },
+    {
+      "name": "Brendel's Bagels-Catering Long Island",
+      "distance": "2.1 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Brendel's%20Bagels-Catering%20Long%20Island&query_place_id=ChIJKdoD8L0w6IkRFpTUfrwgKXY&center=40.824920999999996,-73.205079"
+    },
+    {
+      "name": "Panepinto Bakery",
+      "distance": "2.2 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Panepinto%20Bakery&query_place_id=ChIJVTWZySM56IkR7b98qBQ1vy8&center=40.8495346,-73.17048120000001"
+    }
+  ],
+  "dinner": [
+    {
+      "name": "BJ's Bakery",
+      "distance": "0.5 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=BJ's%20Bakery&query_place_id=ChIJ85306z836IkRPJcAk62M2cQ&center=40.811549299999996,-73.1606516"
+    },
+    {
+      "name": "Kings Deli And Taqueria",
+      "distance": "0.7 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Kings%20Deli%20And%20Taqueria&query_place_id=ChIJqVvaC5036IkRzFFLb4gsPzM&center=40.8281595,-73.16802899999999"
+    },
+    {
+      "name": "Bonappetito Pizzeria and Ristorante",
+      "distance": "0.7 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Bonappetito%20Pizzeria%20and%20Ristorante&query_place_id=ChIJSfLIKVo36IkRK4m8sPv9z-I&center=40.8283414,-73.16801389999999"
+    },
+    {
+      "name": "Lezzet Mediterranean Grill",
+      "distance": "0.7 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Lezzet%20Mediterranean%20Grill&query_place_id=ChIJpwNSx7o36IkR_NhmWi01n-U&center=40.828437799999996,-73.1680109"
+    },
+    {
+      "name": "Mugi Sushi Hibachi And Bar",
+      "distance": "1.2 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Mugi%20Sushi%20Hibachi%20And%20Bar&query_place_id=ChIJqWKOWC036IkR7YYUz1CZm6s&center=40.8045441,-73.1807936"
+    },
+    {
+      "name": "Fountain Cafe 1393",
+      "distance": "1.3 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Fountain%20Cafe%201393&query_place_id=ChIJz-A5DMkw6IkR2zrL7xlYFIk&center=40.8139371,-73.1900464"
+    }
+  ],
+  "bowling": [
+    {
+      "name": "GutterBallz",
+      "distance": "4.1 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=GutterBallz&query_place_id=ChIJrzw2qjY26IkRMQmQMSGiERE&center=40.7797039,-73.10573409999999",
+      "isFar": true
+    }
+  ],
+  "arcade": [],
+  "movies": [
+    {
+      "name": "Stargaze Outdoor Movies",
+      "distance": "3.5 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Stargaze%20Outdoor%20Movies&query_place_id=ChIJ95bNeFQ36IkR8P1c7KEk1h8&center=40.7812469,-73.1191245",
+      "isFar": true
+    },
+    {
+      "name": "Regal Ronkonkoma",
+      "distance": "3.9 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Regal%20Ronkonkoma&query_place_id=ChIJNchCjfdH6IkR5dlBrU9gzwc&center=40.830583000000004,-73.0939796",
+      "isFar": true
+    },
+    {
+      "name": "Imax",
+      "distance": "4.4 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Imax&query_place_id=ChIJD3F8Gfs46IkRe68-_d5pDwo&center=40.8749271,-73.1266316",
+      "isFar": true
+    }
+  ],
+  "fun": [
+    {
+      "name": "Dave & Buster's Islandia",
+      "distance": "1.2 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Dave%20%26%20Buster's%20Islandia&query_place_id=ChIJOwv0yy036IkRl6DqJnUSu_M&center=40.8032276,-73.17846329999999"
+    },
+    {
+      "name": "PadLOCKED INc- Escape Room",
+      "distance": "2.3 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=PadLOCKED%20INc-%20Escape%20Room&query_place_id=ChIJp6eZl6I36IkRluiweyCajJ0&center=40.8068495,-73.1246263"
+    },
+    {
+      "name": "Memorial Day Ronkonkoma Street Fair",
+      "distance": "3.1 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Memorial%20Day%20Ronkonkoma%20Street%20Fair&query_place_id=ChIJdYM-Nog36IkRKfMn9y9mcC0&center=40.825533500000006,-73.1074919",
+      "isFar": true
+    },
+    {
+      "name": "Escape Zone Long Island",
+      "distance": "3.2 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Escape%20Zone%20Long%20Island&query_place_id=ChIJBzIFuq856IkROCUV9OjZ-0M&center=40.8611079,-73.14465419999999",
+      "isFar": true
+    }
+  ],
+  "hotels": [
+    {
+      "name": "Hyatt Regency Long Island",
+      "distance": "0.3 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Hyatt%20Regency%20Long%20Island&query_place_id=ChIJjR9qTFcv6IkRL2696sykeKE&center=40.8151085,-73.1710164"
+    },
+    {
+      "name": "Jake's 58 Casino Hotel",
+      "distance": "0.5 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Jake's%2058%20Casino%20Hotel&query_place_id=ChIJc-iIFzk36IkRwR5QBF5qYPQ&center=40.810505,-73.1660287"
+    },
+    {
+      "name": "Tranquil & Pet-friendly Estate on Long Island!",
+      "distance": "1.1 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Tranquil%20%26%20Pet-friendly%20Estate%20on%20Long%20Island!&query_place_id=ChIJe21I7bMw6IkR2CmocwHKlUM&center=40.822177,-73.18663"
+    },
+    {
+      "name": "Tranquil & Pet-Friendly Estate on Long Island!",
+      "distance": "1.1 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Tranquil%20%26%20Pet-Friendly%20Estate%20on%20Long%20Island!&query_place_id=ChIJYw1I7bMw6IkR_DeoD06uOTA&center=40.8221779,-73.1866302"
+    }
+  ],
+  "gas": [
+    {
+      "name": "Mobil",
+      "distance": "0.7 mi",
+      "url": "https://www.google.com/maps/search/Mobil+near+40.8180165%2C-73.1664909"
+    },
+    {
+      "name": "Shell",
+      "distance": "0.8 mi",
+      "url": "https://www.google.com/maps/search/Shell+near+40.8180165%2C-73.1664909"
+    },
+    {
+      "name": "bp",
+      "distance": "1.2 mi",
+      "url": "https://www.google.com/maps/search/bp+near+40.8180165%2C-73.1664909"
+    },
+    {
+      "name": "BP",
+      "distance": "1.2 mi",
+      "url": "https://www.google.com/maps/search/BP+near+40.8180165%2C-73.1664909"
+    }
+  ]
+}

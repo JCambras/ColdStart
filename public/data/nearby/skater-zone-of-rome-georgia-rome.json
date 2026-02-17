@@ -1,0 +1,224 @@
+{
+  "quick_bite": [
+    {
+      "name": "Subway",
+      "distance": "1.4 mi",
+      "url": "https://www.google.com/maps/search/Subway+near+34.296390599999995%2C-85.1119337"
+    },
+    {
+      "name": "Chick-fil-A",
+      "distance": "3.4 mi",
+      "url": "https://www.google.com/maps/search/Chick-fil-A+near+34.296390599999995%2C-85.1119337",
+      "isFar": true
+    },
+    {
+      "name": "Zaxby's Chicken Fingers & Buffalo Wings",
+      "distance": "3.6 mi",
+      "url": "https://www.google.com/maps/search/Zaxby's%20Chicken%20Fingers%20%26%20Buffalo%20Wings+near+34.296390599999995%2C-85.1119337",
+      "isFar": true
+    },
+    {
+      "name": "Subway",
+      "distance": "3.6 mi",
+      "url": "https://www.google.com/maps/search/Subway+near+34.296390599999995%2C-85.1119337",
+      "isFar": true
+    },
+    {
+      "name": "Jack's Family Restaurant",
+      "distance": "3.6 mi",
+      "url": "https://www.google.com/maps/search/Jack's%20Family%20Restaurant+near+34.296390599999995%2C-85.1119337",
+      "isFar": true
+    }
+  ],
+  "coffee": [
+    {
+      "name": "Wildflower Energy",
+      "distance": "3.0 mi",
+      "url": "https://www.google.com/maps/search/Wildflower%20Energy+near+34.296390599999995%2C-85.1119337",
+      "isFar": true
+    },
+    {
+      "name": "Lumina Coffee Co.",
+      "distance": "3.4 mi",
+      "url": "https://www.google.com/maps/search/Lumina%20Coffee%20Co.+near+34.296390599999995%2C-85.1119337",
+      "isFar": true
+    }
+  ],
+  "team_lunch": [
+    {
+      "name": "Japan Cafe",
+      "distance": "3.4 mi",
+      "url": "https://www.google.com/maps/search/Japan%20Cafe+near+34.296390599999995%2C-85.1119337",
+      "isFar": true
+    },
+    {
+      "name": "China Max",
+      "distance": "3.4 mi",
+      "url": "https://www.google.com/maps/search/China%20Max+near+34.296390599999995%2C-85.1119337",
+      "isFar": true
+    },
+    {
+      "name": "Auntie Anne's",
+      "distance": "3.4 mi",
+      "url": "https://www.google.com/maps/search/Auntie%20Anne's+near+34.296390599999995%2C-85.1119337",
+      "isFar": true
+    },
+    {
+      "name": "Milano's Pizza",
+      "distance": "3.4 mi",
+      "url": "https://www.google.com/maps/search/Milano's%20Pizza+near+34.296390599999995%2C-85.1119337",
+      "isFar": true
+    },
+    {
+      "name": "Rome India Multicuisine Restaurant",
+      "distance": "3.6 mi",
+      "url": "https://www.google.com/maps/search/Rome%20India%20Multicuisine%20Restaurant+near+34.296390599999995%2C-85.1119337",
+      "isFar": true
+    }
+  ],
+  "dinner": [
+    {
+      "name": "Log Cabin Smoke House",
+      "distance": "3.0 mi",
+      "url": "https://www.google.com/maps/search/Log%20Cabin%20Smoke%20House+near+34.296390599999995%2C-85.1119337",
+      "isFar": true
+    },
+    {
+      "name": "Flowers Distributing Co",
+      "distance": "3.0 mi",
+      "url": "https://www.google.com/maps/search/Flowers%20Distributing%20Co+near+34.296390599999995%2C-85.1119337",
+      "isFar": true
+    },
+    {
+      "name": "Bella Roma Grill",
+      "distance": "3.1 mi",
+      "url": "https://www.google.com/maps/search/Bella%20Roma%20Grill+near+34.296390599999995%2C-85.1119337",
+      "isFar": true
+    },
+    {
+      "name": "Stanley's On North Broad",
+      "distance": "3.2 mi",
+      "url": "https://www.google.com/maps/search/Stanley's%20On%20North%20Broad+near+34.296390599999995%2C-85.1119337",
+      "isFar": true
+    },
+    {
+      "name": "Sweet P's at the Palladium",
+      "distance": "3.4 mi",
+      "url": "https://www.google.com/maps/search/Sweet%20P's%20at%20the%20Palladium+near+34.296390599999995%2C-85.1119337",
+      "isFar": true
+    },
+    {
+      "name": "Pick O Deli Cafeteria",
+      "distance": "3.4 mi",
+      "url": "https://www.google.com/maps/search/Pick%20O%20Deli%20Cafeteria+near+34.296390599999995%2C-85.1119337",
+      "isFar": true
+    },
+    {
+      "name": "Tonya's Diner",
+      "distance": "3.6 mi",
+      "url": "https://www.google.com/maps/search/Tonya's%20Diner+near+34.296390599999995%2C-85.1119337",
+      "isFar": true
+    }
+  ],
+  "bowling": [
+    {
+      "name": "Floyd Bowling & Amusement Center",
+      "distance": "4.6 mi",
+      "url": "https://www.google.com/maps/search/Floyd%20Bowling%20%26%20Amusement%20Center+near+34.296390599999995%2C-85.1119337",
+      "isFar": true
+    },
+    {
+      "name": "Classic Bowling Center",
+      "distance": "7.5 mi",
+      "url": "https://www.google.com/maps/search/Classic%20Bowling%20Center+near+34.296390599999995%2C-85.1119337",
+      "isFar": true
+    }
+  ],
+  "arcade": [],
+  "movies": [
+    {
+      "name": "Movies at Berry Square",
+      "distance": "3.5 mi",
+      "url": "https://www.google.com/maps/search/Movies%20at%20Berry%20Square+near+34.296390599999995%2C-85.1119337",
+      "isFar": true
+    }
+  ],
+  "fun": [
+    {
+      "name": "Kangaroo Jake's",
+      "distance": "3.9 mi",
+      "url": "https://www.google.com/maps/search/Kangaroo%20Jake's+near+34.296390599999995%2C-85.1119337",
+      "isFar": true
+    },
+    {
+      "name": "Froggy's Family Entertainment Center",
+      "distance": "3.9 mi",
+      "url": "https://www.google.com/maps/search/Froggy's%20Family%20Entertainment%20Center+near+34.296390599999995%2C-85.1119337",
+      "isFar": true
+    }
+  ],
+  "hotels": [
+    {
+      "name": "Hidden Springs Cottage, Rome, GA, King Loft Bedroom, Private Lake Access",
+      "distance": "2.0 mi",
+      "url": "https://www.google.com/maps/search/Hidden%20Springs%20Cottage%2C%20Rome%2C%20GA%2C%20King%20Loft%20Bedroom%2C%20Private%20Lake%20Access+near+34.296390599999995%2C-85.1119337"
+    },
+    {
+      "name": "New w/ King Bed, Walk to Park, Near Downtown Rome",
+      "distance": "2.2 mi",
+      "url": "https://www.google.com/maps/search/New%20w%2F%20King%20Bed%2C%20Walk%20to%20Park%2C%20Near%20Downtown%20Rome+near+34.296390599999995%2C-85.1119337"
+    },
+    {
+      "name": "Riverside Community at Celanese Village",
+      "distance": "2.8 mi",
+      "url": "https://www.google.com/maps/search/Riverside%20Community%20at%20Celanese%20Village+near+34.296390599999995%2C-85.1119337"
+    },
+    {
+      "name": "Perfect location, modern renovation destination.",
+      "distance": "2.8 mi",
+      "url": "https://www.google.com/maps/search/Perfect%20location%2C%20modern%20renovation%20destination.+near+34.296390599999995%2C-85.1119337"
+    },
+    {
+      "name": "Perfect location, modern renovation destination.",
+      "distance": "3.0 mi",
+      "url": "https://www.google.com/maps/search/Perfect%20location%2C%20modern%20renovation%20destination.+near+34.296390599999995%2C-85.1119337"
+    },
+    {
+      "name": "Cozy Cute Modern Tennis Wifi Pit Broad Berry Train - Two-Bedroom Apartment",
+      "distance": "3.0 mi",
+      "url": "https://www.google.com/maps/search/Cozy%20Cute%20Modern%20Tennis%20Wifi%20Pit%20Broad%20Berry%20Train%20-%20Two-Bedroom%20Apartment+near+34.296390599999995%2C-85.1119337"
+    },
+    {
+      "name": "Fairfield by Marriott Inn & Suites Rome",
+      "distance": "3.0 mi",
+      "url": "https://www.google.com/maps/search/Fairfield%20by%20Marriott%20Inn%20%26%20Suites%20Rome+near+34.296390599999995%2C-85.1119337"
+    }
+  ],
+  "gas": [
+    {
+      "name": "Valero",
+      "distance": "0.5 mi",
+      "url": "https://www.google.com/maps/search/Valero+near+34.296390599999995%2C-85.1119337"
+    },
+    {
+      "name": "Circle K | Gas Station",
+      "distance": "1.0 mi",
+      "url": "https://www.google.com/maps/search/Circle%20K%20%7C%20Gas%20Station+near+34.296390599999995%2C-85.1119337"
+    },
+    {
+      "name": "Texaco",
+      "distance": "2.5 mi",
+      "url": "https://www.google.com/maps/search/Texaco+near+34.296390599999995%2C-85.1119337"
+    },
+    {
+      "name": "Calhoun Quick Stop",
+      "distance": "2.5 mi",
+      "url": "https://www.google.com/maps/search/Calhoun%20Quick%20Stop+near+34.296390599999995%2C-85.1119337"
+    },
+    {
+      "name": "Citgo Ricks food mart 293",
+      "distance": "2.8 mi",
+      "url": "https://www.google.com/maps/search/Citgo%20Ricks%20food%20mart%20293+near+34.296390599999995%2C-85.1119337"
+    }
+  ]
+}

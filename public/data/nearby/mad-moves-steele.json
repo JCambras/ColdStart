@@ -1,0 +1,91 @@
+{
+  "quick_bite": [
+    {
+      "name": "Pizza Hut Express",
+      "distance": "0.5 mi",
+      "url": "https://www.google.com/maps/search/Pizza%20Hut%20Express+near+46.8537934%2C-99.9152968"
+    },
+    {
+      "name": "Subway",
+      "distance": "0.5 mi",
+      "url": "https://www.google.com/maps/search/Subway+near+46.8537934%2C-99.9152968"
+    },
+    {
+      "name": "Located right off main roads - with access to fishing, boating & hunting nearby!",
+      "distance": "7.9 mi",
+      "url": "https://www.google.com/maps/search/Located%20right%20off%20main%20roads%20-%20with%20access%20to%20fishing%2C%20boating%20%26%20hunting%20nearby!+near+46.8537934%2C-99.9152968",
+      "isFar": true
+    },
+    {
+      "name": "Located right off main roads - with access to fishing, boating hunting nearby!",
+      "distance": "7.9 mi",
+      "url": "https://www.google.com/maps/search/Located%20right%20off%20main%20roads%20-%20with%20access%20to%20fishing%2C%20boating%20hunting%20nearby!+near+46.8537934%2C-99.9152968",
+      "isFar": true
+    }
+  ],
+  "coffee": [
+    {
+      "name": "Caribou Coffee",
+      "distance": "0.5 mi",
+      "url": "https://www.google.com/maps/search/Caribou%20Coffee+near+46.8537934%2C-99.9152968"
+    }
+  ],
+  "team_lunch": [],
+  "dinner": [
+    {
+      "name": "Steele Veterans Club, Bar & Grill",
+      "distance": "0.2 mi",
+      "url": "https://www.google.com/maps/search/Steele%20Veterans%20Club%2C%20Bar%20%26%20Grill+near+46.8537934%2C-99.9152968"
+    },
+    {
+      "name": "Cinnabon",
+      "distance": "0.5 mi",
+      "url": "https://www.google.com/maps/search/Cinnabon+near+46.8537934%2C-99.9152968"
+    },
+    {
+      "name": "Lakeside Family Bar & Grill",
+      "distance": "7.7 mi",
+      "url": "https://www.google.com/maps/search/Lakeside%20Family%20Bar%20%26%20Grill+near+46.8537934%2C-99.9152968",
+      "isFar": true
+    }
+  ],
+  "bowling": [],
+  "arcade": [],
+  "movies": [],
+  "fun": [],
+  "hotels": [
+    {
+      "name": "Nineteen26 Campground & Lodging",
+      "distance": "0.3 mi",
+      "url": "https://www.google.com/maps/search/Nineteen26%20Campground%20%26%20Lodging+near+46.8537934%2C-99.9152968"
+    },
+    {
+      "name": "Sportsman's HQ /Garage /Pet Friendly /WD /EZ Access",
+      "distance": "0.4 mi",
+      "url": "https://www.google.com/maps/search/Sportsman's%20HQ%20%2FGarage%20%2FPet%20Friendly%20%2FWD%20%2FEZ%20Access+near+46.8537934%2C-99.9152968"
+    },
+    {
+      "name": "Cobblestone Inn & Suites - Steele",
+      "distance": "0.6 mi",
+      "url": "https://www.google.com/maps/search/Cobblestone%20Inn%20%26%20Suites%20-%20Steele+near+46.8537934%2C-99.9152968"
+    },
+    {
+      "name": "Steele inn& suites",
+      "distance": "0.6 mi",
+      "url": "https://www.google.com/maps/search/Steele%20inn%26%20suites+near+46.8537934%2C-99.9152968"
+    },
+    {
+      "name": "Bridal Suite Cabin Rental",
+      "distance": "7.8 mi",
+      "url": "https://www.google.com/maps/search/Bridal%20Suite%20Cabin%20Rental+near+46.8537934%2C-99.9152968",
+      "isFar": true
+    }
+  ],
+  "gas": [
+    {
+      "name": "Shell",
+      "distance": "0.6 mi",
+      "url": "https://www.google.com/maps/search/Shell+near+46.8537934%2C-99.9152968"
+    }
+  ]
+}

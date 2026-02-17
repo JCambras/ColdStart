@@ -1,0 +1,191 @@
+{
+  "quick_bite": [
+    {
+      "name": "Taco Bell",
+      "distance": "1.1 mi",
+      "url": "https://www.google.com/maps/search/Taco%20Bell+near+40.123219%2C-83.198619"
+    },
+    {
+      "name": "Wendy's",
+      "distance": "1.1 mi",
+      "url": "https://www.google.com/maps/search/Wendy's+near+40.123219%2C-83.198619"
+    },
+    {
+      "name": "Moe's Southwest Grill",
+      "distance": "2.2 mi",
+      "url": "https://www.google.com/maps/search/Moe's%20Southwest%20Grill+near+40.123219%2C-83.198619"
+    },
+    {
+      "name": "Five Guys",
+      "distance": "2.2 mi",
+      "url": "https://www.google.com/maps/search/Five%20Guys+near+40.123219%2C-83.198619"
+    }
+  ],
+  "coffee": [
+    {
+      "name": "TOUS les JOURS Bakery & Cafe",
+      "distance": "1.0 mi",
+      "url": "https://www.google.com/maps/search/TOUS%20les%20JOURS%20Bakery%20%26%20Cafe+near+40.123219%2C-83.198619"
+    },
+    {
+      "name": "Tim Hortons",
+      "distance": "1.1 mi",
+      "url": "https://www.google.com/maps/search/Tim%20Hortons+near+40.123219%2C-83.198619"
+    },
+    {
+      "name": "Starbucks Coffee Company",
+      "distance": "2.2 mi",
+      "url": "https://www.google.com/maps/search/Starbucks%20Coffee%20Company+near+40.123219%2C-83.198619"
+    }
+  ],
+  "team_lunch": [],
+  "dinner": [
+    {
+      "name": "The Tres Gusto Gourmet Food",
+      "distance": "0.3 mi",
+      "url": "https://www.google.com/maps/search/The%20Tres%20Gusto%20Gourmet%20Food+near+40.123219%2C-83.198619"
+    },
+    {
+      "name": "Costco Bakery",
+      "distance": "1.0 mi",
+      "url": "https://www.google.com/maps/search/Costco%20Bakery+near+40.123219%2C-83.198619"
+    },
+    {
+      "name": "Wild Ginger Asian Fusion",
+      "distance": "1.0 mi",
+      "url": "https://www.google.com/maps/search/Wild%20Ginger%20Asian%20Fusion+near+40.123219%2C-83.198619"
+    },
+    {
+      "name": "The Bourbon Barrel Room",
+      "distance": "1.1 mi",
+      "url": "https://www.google.com/maps/search/The%20Bourbon%20Barrel%20Room+near+40.123219%2C-83.198619"
+    },
+    {
+      "name": "Beer Barrel Pizza & Grill",
+      "distance": "1.1 mi",
+      "url": "https://www.google.com/maps/search/Beer%20Barrel%20Pizza%20%26%20Grill+near+40.123219%2C-83.198619"
+    },
+    {
+      "name": "Jacquemin Farms Bakery & Cafe",
+      "distance": "1.1 mi",
+      "url": "https://www.google.com/maps/search/Jacquemin%20Farms%20Bakery%20%26%20Cafe+near+40.123219%2C-83.198619"
+    },
+    {
+      "name": "Agape Mediterranean",
+      "distance": "1.1 mi",
+      "url": "https://www.google.com/maps/search/Agape%20Mediterranean+near+40.123219%2C-83.198619"
+    }
+  ],
+  "bowling": [
+    {
+      "name": "Plain City Lanes & Pizza",
+      "distance": "4.3 mi",
+      "url": "https://www.google.com/maps/search/Plain%20City%20Lanes%20%26%20Pizza+near+40.123219%2C-83.198619",
+      "isFar": true
+    }
+  ],
+  "arcade": [],
+  "movies": [
+    {
+      "name": "Columbus Zoo 4-D Theater",
+      "distance": "4.7 mi",
+      "url": "https://www.google.com/maps/search/Columbus%20Zoo%204-D%20Theater+near+40.123219%2C-83.198619",
+      "isFar": true
+    }
+  ],
+  "fun": [
+    {
+      "name": "Urban Air Trampoline and Adventure Park",
+      "distance": "1.2 mi",
+      "url": "https://www.google.com/maps/search/Urban%20Air%20Trampoline%20and%20Adventure%20Park+near+40.123219%2C-83.198619"
+    },
+    {
+      "name": "Apex Jumps Trampoline Park - Dublin, OH",
+      "distance": "3.6 mi",
+      "url": "https://www.google.com/maps/search/Apex%20Jumps%20Trampoline%20Park%20-%20Dublin%2C%20OH+near+40.123219%2C-83.198619",
+      "isFar": true
+    },
+    {
+      "name": "Lucy Depp Park Light Show",
+      "distance": "4.4 mi",
+      "url": "https://www.google.com/maps/search/Lucy%20Depp%20Park%20Light%20Show+near+40.123219%2C-83.198619",
+      "isFar": true
+    },
+    {
+      "name": "Zoombezi Bay",
+      "distance": "4.7 mi",
+      "url": "https://www.google.com/maps/search/Zoombezi%20Bay+near+40.123219%2C-83.198619",
+      "isFar": true
+    },
+    {
+      "name": "Rides At Adventure Cove",
+      "distance": "4.8 mi",
+      "url": "https://www.google.com/maps/search/Rides%20At%20Adventure%20Cove+near+40.123219%2C-83.198619",
+      "isFar": true
+    }
+  ],
+  "hotels": [
+    {
+      "name": "Tranquil Farmhouse Retreat - Dublin, Murfield, Plain City",
+      "distance": "0.9 mi",
+      "url": "https://www.google.com/maps/search/Tranquil%20Farmhouse%20Retreat%20-%20Dublin%2C%20Murfield%2C%20Plain%20City+near+40.123219%2C-83.198619"
+    },
+    {
+      "name": "Tranquil Farmhouse Retreat - Dublin, Murfield, Plain City",
+      "distance": "1.2 mi",
+      "url": "https://www.google.com/maps/search/Tranquil%20Farmhouse%20Retreat%20-%20Dublin%2C%20Murfield%2C%20Plain%20City+near+40.123219%2C-83.198619"
+    },
+    {
+      "name": "Nice Condo on Nature Preserve - One-Bedroom Apartment",
+      "distance": "1.9 mi",
+      "url": "https://www.google.com/maps/search/Nice%20Condo%20on%20Nature%20Preserve%20-%20One-Bedroom%20Apartment+near+40.123219%2C-83.198619"
+    },
+    {
+      "name": "Dubin Condo on Nature Preserve",
+      "distance": "1.9 mi",
+      "url": "https://www.google.com/maps/search/Dubin%20Condo%20on%20Nature%20Preserve+near+40.123219%2C-83.198619"
+    },
+    {
+      "name": "Hotal",
+      "distance": "2.3 mi",
+      "url": "https://www.google.com/maps/search/Hotal+near+40.123219%2C-83.198619"
+    },
+    {
+      "name": "Spacious 5-bed farmhouse w/Pool Table, Table Tennis Close to Columbus Zoo",
+      "distance": "2.5 mi",
+      "url": "https://www.google.com/maps/search/Spacious%205-bed%20farmhouse%20w%2FPool%20Table%2C%20Table%20Tennis%20Close%20to%20Columbus%20Zoo+near+40.123219%2C-83.198619"
+    },
+    {
+      "name": "Luxury Modern 1 Bed /1 Bath Condo",
+      "distance": "2.6 mi",
+      "url": "https://www.google.com/maps/search/Luxury%20Modern%201%20Bed%20%2F1%20Bath%20Condo+near+40.123219%2C-83.198619"
+    }
+  ],
+  "gas": [
+    {
+      "name": "Costco Gas Station",
+      "distance": "1.1 mi",
+      "url": "https://www.google.com/maps/search/Costco%20Gas%20Station+near+40.123219%2C-83.198619"
+    },
+    {
+      "name": "Kroger Fuel Center",
+      "distance": "2.4 mi",
+      "url": "https://www.google.com/maps/search/Kroger%20Fuel%20Center+near+40.123219%2C-83.198619"
+    },
+    {
+      "name": "GetGo Gas Station & WetGo Car Wash",
+      "distance": "2.5 mi",
+      "url": "https://www.google.com/maps/search/GetGo%20Gas%20Station%20%26%20WetGo%20Car%20Wash+near+40.123219%2C-83.198619"
+    },
+    {
+      "name": "bp",
+      "distance": "2.5 mi",
+      "url": "https://www.google.com/maps/search/bp+near+40.123219%2C-83.198619"
+    },
+    {
+      "name": "Shell",
+      "distance": "2.6 mi",
+      "url": "https://www.google.com/maps/search/Shell+near+40.123219%2C-83.198619"
+    }
+  ]
+}

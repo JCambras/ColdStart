@@ -1,0 +1,206 @@
+{
+  "quick_bite": [
+    {
+      "name": "Jet's Pizza",
+      "distance": "0.4 mi",
+      "url": "https://www.google.com/maps/search/Jet's%20Pizza+near+42.5965147%2C-83.3556318"
+    },
+    {
+      "name": "UK PIZZA BROS",
+      "distance": "0.5 mi",
+      "url": "https://www.google.com/maps/search/UK%20PIZZA%20BROS+near+42.5965147%2C-83.3556318"
+    },
+    {
+      "name": "Burger Stand",
+      "distance": "1.0 mi",
+      "url": "https://www.google.com/maps/search/Burger%20Stand+near+42.5965147%2C-83.3556318"
+    },
+    {
+      "name": "Lorenzo's Pizza",
+      "distance": "1.0 mi",
+      "url": "https://www.google.com/maps/search/Lorenzo's%20Pizza+near+42.5965147%2C-83.3556318"
+    }
+  ],
+  "coffee": [
+    {
+      "name": "Dunkin'",
+      "distance": "0.9 mi",
+      "url": "https://www.google.com/maps/search/Dunkin'+near+42.5965147%2C-83.3556318"
+    }
+  ],
+  "team_lunch": [
+    {
+      "name": "Santia Cantina",
+      "distance": "0.2 mi",
+      "url": "https://www.google.com/maps/search/Santia%20Cantina+near+42.5965147%2C-83.3556318"
+    },
+    {
+      "name": "Bowl Appetit",
+      "distance": "0.4 mi",
+      "url": "https://www.google.com/maps/search/Bowl%20Appetit+near+42.5965147%2C-83.3556318"
+    },
+    {
+      "name": "Sand-o",
+      "distance": "0.4 mi",
+      "url": "https://www.google.com/maps/search/Sand-o+near+42.5965147%2C-83.3556318"
+    },
+    {
+      "name": "Lodge Grill & Bar",
+      "distance": "1.1 mi",
+      "url": "https://www.google.com/maps/search/Lodge%20Grill%20%26%20Bar+near+42.5965147%2C-83.3556318"
+    },
+    {
+      "name": "Paradise Cakes",
+      "distance": "1.1 mi",
+      "url": "https://www.google.com/maps/search/Paradise%20Cakes+near+42.5965147%2C-83.3556318"
+    }
+  ],
+  "dinner": [
+    {
+      "name": "Early Bird Cafe",
+      "distance": "0.4 mi",
+      "url": "https://www.google.com/maps/search/Early%20Bird%20Cafe+near+42.5965147%2C-83.3556318"
+    },
+    {
+      "name": "M.K. Cannelle Keego Harbor",
+      "distance": "0.4 mi",
+      "url": "https://www.google.com/maps/search/M.K.%20Cannelle%20Keego%20Harbor+near+42.5965147%2C-83.3556318"
+    },
+    {
+      "name": "The Harbor Steak House",
+      "distance": "0.6 mi",
+      "url": "https://www.google.com/maps/search/The%20Harbor%20Steak%20House+near+42.5965147%2C-83.3556318"
+    },
+    {
+      "name": "Brewhaus Bar & Grill",
+      "distance": "0.7 mi",
+      "url": "https://www.google.com/maps/search/Brewhaus%20Bar%20%26%20Grill+near+42.5965147%2C-83.3556318"
+    },
+    {
+      "name": "Bk Sushi Thai Food",
+      "distance": "0.9 mi",
+      "url": "https://www.google.com/maps/search/Bk%20Sushi%20Thai%20Food+near+42.5965147%2C-83.3556318"
+    },
+    {
+      "name": "Happy You Chinese Restaurant",
+      "distance": "1.0 mi",
+      "url": "https://www.google.com/maps/search/Happy%20You%20Chinese%20Restaurant+near+42.5965147%2C-83.3556318"
+    },
+    {
+      "name": "Gino's Pizzeria & Restaurant",
+      "distance": "1.1 mi",
+      "url": "https://www.google.com/maps/search/Gino's%20Pizzeria%20%26%20Restaurant+near+42.5965147%2C-83.3556318"
+    }
+  ],
+  "bowling": [
+    {
+      "name": "Three Hundred Bowl",
+      "distance": "2.8 mi",
+      "url": "https://www.google.com/maps/search/Three%20Hundred%20Bowl+near+42.5965147%2C-83.3556318"
+    },
+    {
+      "name": "Wonderland Lanes",
+      "distance": "4.7 mi",
+      "url": "https://www.google.com/maps/search/Wonderland%20Lanes+near+42.5965147%2C-83.3556318",
+      "isFar": true
+    }
+  ],
+  "arcade": [],
+  "movies": [],
+  "fun": [
+    {
+      "name": "Lily Pad Springs",
+      "distance": "3.7 mi",
+      "url": "https://www.google.com/maps/search/Lily%20Pad%20Springs+near+42.5965147%2C-83.3556318",
+      "isFar": true
+    },
+    {
+      "name": "Erebus Escape",
+      "distance": "4.4 mi",
+      "url": "https://www.google.com/maps/search/Erebus%20Escape+near+42.5965147%2C-83.3556318",
+      "isFar": true
+    },
+    {
+      "name": "Sky Zone Trampoline Park",
+      "distance": "4.5 mi",
+      "url": "https://www.google.com/maps/search/Sky%20Zone%20Trampoline%20Park+near+42.5965147%2C-83.3556318",
+      "isFar": true
+    },
+    {
+      "name": "Urban Air Trampoline and Adventure Park",
+      "distance": "4.7 mi",
+      "url": "https://www.google.com/maps/search/Urban%20Air%20Trampoline%20and%20Adventure%20Park+near+42.5965147%2C-83.3556318",
+      "isFar": true
+    },
+    {
+      "name": "Waterford Oaks Wave Pool",
+      "distance": "4.7 mi",
+      "url": "https://www.google.com/maps/search/Waterford%20Oaks%20Wave%20Pool+near+42.5965147%2C-83.3556318",
+      "isFar": true
+    }
+  ],
+  "hotels": [
+    {
+      "name": "Keego Harbor Manufactured Housing Community",
+      "distance": "0.7 mi",
+      "url": "https://www.google.com/maps/search/Keego%20Harbor%20Manufactured%20Housing%20Community+near+42.5965147%2C-83.3556318"
+    },
+    {
+      "name": "Charming 2-bedroom apartment with AC, WiFi in Pleasant Keego Harbor",
+      "distance": "0.7 mi",
+      "url": "https://www.google.com/maps/search/Charming%202-bedroom%20apartment%20with%20AC%2C%20WiFi%20in%20Pleasant%20Keego%20Harbor+near+42.5965147%2C-83.3556318"
+    },
+    {
+      "name": "Charming 2-bedroom apartment with AC, WiFi in Pleasant Keego Harbor",
+      "distance": "0.7 mi",
+      "url": "https://www.google.com/maps/search/Charming%202-bedroom%20apartment%20with%20AC%2C%20WiFi%20in%20Pleasant%20Keego%20Harbor+near+42.5965147%2C-83.3556318"
+    },
+    {
+      "name": "Cozy 1-bedroom with WiFi and AC in quaint Keego Harbor",
+      "distance": "0.8 mi",
+      "url": "https://www.google.com/maps/search/Cozy%201-bedroom%20with%20WiFi%20and%20AC%20in%20quaint%20Keego%20Harbor+near+42.5965147%2C-83.3556318"
+    },
+    {
+      "name": "Urban oasis-lake/beach/boat in city. Sleeps 8-12. - Five-Bedroom House",
+      "distance": "0.8 mi",
+      "url": "https://www.google.com/maps/search/Urban%20oasis-lake%2Fbeach%2Fboat%20in%20city.%20Sleeps%208-12.%20-%20Five-Bedroom%20House+near+42.5965147%2C-83.3556318"
+    },
+    {
+      "name": "Urban oasis-lake/beach/boat in city. Sleeps 8-12.",
+      "distance": "0.8 mi",
+      "url": "https://www.google.com/maps/search/Urban%20oasis-lake%2Fbeach%2Fboat%20in%20city.%20Sleeps%208-12.+near+42.5965147%2C-83.3556318"
+    },
+    {
+      "name": "Luxury 4 Bedroom Lake House W/ amazing views!",
+      "distance": "0.9 mi",
+      "url": "https://www.google.com/maps/search/Luxury%204%20Bedroom%20Lake%20House%20W%2F%20amazing%20views!+near+42.5965147%2C-83.3556318"
+    }
+  ],
+  "gas": [
+    {
+      "name": "Marathon Gas",
+      "distance": "0.4 mi",
+      "url": "https://www.google.com/maps/search/Marathon%20Gas+near+42.5965147%2C-83.3556318"
+    },
+    {
+      "name": "Mobil",
+      "distance": "1.2 mi",
+      "url": "https://www.google.com/maps/search/Mobil+near+42.5965147%2C-83.3556318"
+    },
+    {
+      "name": "BP",
+      "distance": "1.3 mi",
+      "url": "https://www.google.com/maps/search/BP+near+42.5965147%2C-83.3556318"
+    },
+    {
+      "name": "Exxon",
+      "distance": "1.4 mi",
+      "url": "https://www.google.com/maps/search/Exxon+near+42.5965147%2C-83.3556318"
+    },
+    {
+      "name": "Mobil",
+      "distance": "1.5 mi",
+      "url": "https://www.google.com/maps/search/Mobil+near+42.5965147%2C-83.3556318"
+    }
+  ]
+}

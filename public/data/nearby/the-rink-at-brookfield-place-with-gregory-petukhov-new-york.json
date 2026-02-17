@@ -1,0 +1,201 @@
+{
+  "quick_bite": [
+    {
+      "name": "Dig Inn",
+      "distance": "0.1 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Dig%20Inn&query_place_id=ChIJjesj_hpawokRd8ExYeL4YUo&center=40.7127482,-74.015579"
+    },
+    {
+      "name": "Mighty Quinn's Barbeque",
+      "distance": "0.1 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Mighty%20Quinn's%20Barbeque&query_place_id=ChIJfcCDixpawokRRwGmDlfU8a0&center=40.7125422,-74.01566629999999"
+    },
+    {
+      "name": "Krispy Rice",
+      "distance": "0.1 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Krispy%20Rice&query_place_id=ChIJmUgHfcNbwokRKSXg9jGLBtI&center=40.7120627,-74.0151624"
+    },
+    {
+      "name": "Spiro's Best Grilled Hot Dogs",
+      "distance": "0.2 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Spiro's%20Best%20Grilled%20Hot%20Dogs&query_place_id=ChIJ0zYXJgBbwokRF7B5N15SCOU&center=40.710600199999995,-74.0162993"
+    },
+    {
+      "name": "Breakfast Bagels n More",
+      "distance": "0.2 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Breakfast%20Bagels%20n%20More&query_place_id=ChIJB_URLqhbwokROm4ydwEX3qE&center=40.714333599999996,-74.0117825"
+    },
+    {
+      "name": "Market Sandwich",
+      "distance": "0.3 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Market%20Sandwich&query_place_id=ChIJYcAhG2RbwokRcP7NaETyHu0&center=40.7156327,-74.0121111"
+    }
+  ],
+  "coffee": [
+    {
+      "name": "Mah-Ze-Dahr",
+      "distance": "0.1 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Mah-Ze-Dahr&query_place_id=ChIJU7XySD9bwokRzxnhM1S8uWw&center=40.7129499,-74.015706"
+    },
+    {
+      "name": "Black Seed Bagels - Brookfield Place",
+      "distance": "0.1 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Black%20Seed%20Bagels%20-%20Brookfield%20Place&query_place_id=ChIJE5Zg_BpawokRCua8UNq2OYY&center=40.7125334,-74.0154193"
+    },
+    {
+      "name": "For Five Coffee @ Brookfield Place",
+      "distance": "0.1 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=For%20Five%20Coffee%20%40%20Brookfield%20Place&query_place_id=ChIJ-wSdx3ZbwokRJ4dRba0XniM&center=40.71234,-74.0151576"
+    },
+    {
+      "name": "Pret A Manger",
+      "distance": "0.2 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Pret%20A%20Manger&query_place_id=ChIJyT0AurZbwokRUCuTX6IUETQ&center=40.7115663,-74.0114261"
+    }
+  ],
+  "team_lunch": [
+    {
+      "name": "All'Antico Vinaio",
+      "distance": "0.1 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=All'Antico%20Vinaio&query_place_id=ChIJQ0JUGU1bwokRX_fb3-DDmfs&center=40.712629,-74.0155092"
+    },
+    {
+      "name": "Daily Provisions - Brookfield Place",
+      "distance": "0.1 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Daily%20Provisions%20-%20Brookfield%20Place&query_place_id=ChIJb1gFZjZbwokRROCAvT6qmoc&center=40.7126191,-74.0154394"
+    },
+    {
+      "name": "Springbone Kitchen",
+      "distance": "0.1 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Springbone%20Kitchen&query_place_id=ChIJ8ybwb_lbwokRo5AnVfeduG0&center=40.7125334,-74.0154193"
+    },
+    {
+      "name": "Pick A Bagel",
+      "distance": "0.1 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Pick%20A%20Bagel&query_place_id=ChIJ-8HrdxtawokRhqL25U5YQms&center=40.7145055,-74.0150857"
+    },
+    {
+      "name": "Pret A Manger",
+      "distance": "0.1 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Pret%20A%20Manger&query_place_id=ChIJs4rn0RtawokREL4YcC8ebIM&center=40.7130082,-74.0131689"
+    },
+    {
+      "name": "2 Emiratesrc Health Gates Pharmacy Qadissiyah",
+      "distance": "0.1 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=2%20Emiratesrc%20Health%20Gates%20Pharmacy%20Qadissiyah&query_place_id=ChIJaURjZwBbwokRMTATQatCioU&center=40.714751,-74.0143441"
+    }
+  ],
+  "dinner": [
+    {
+      "name": "Dos Toros Taqueria",
+      "distance": "0.1 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Dos%20Toros%20Taqueria&query_place_id=ChIJiYWcABtawokR1hgYz-4_mOQ&center=40.71286740000001,-74.0157527"
+    },
+    {
+      "name": "Chopt",
+      "distance": "0.1 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Chopt&query_place_id=ChIJ4UWIWCVfwokR_rpLIISCJhM&center=40.712782399999995,-74.0157971"
+    },
+    {
+      "name": "Bistro at Le District",
+      "distance": "0.1 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Bistro%20at%20Le%20District&query_place_id=ChIJnSESWBpawokRSvsd8IZoA9A&center=40.7128308,-74.0159195"
+    },
+    {
+      "name": "Blue Ribbon Sushi Bar at Hudson Eats",
+      "distance": "0.1 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Blue%20Ribbon%20Sushi%20Bar%20at%20Hudson%20Eats&query_place_id=ChIJOYCk_RpawokRXAVyblcSSas&center=40.7127025,-74.0158356"
+    },
+    {
+      "name": "Carrot Express",
+      "distance": "0.1 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Carrot%20Express&query_place_id=ChIJaX4lq65bwokRNHDsoW3jCNQ&center=40.712677,-74.01586189999999"
+    },
+    {
+      "name": "Sant Ambroeus Brookfield",
+      "distance": "0.1 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Sant%20Ambroeus%20Brookfield&query_place_id=ChIJBfPp9pNbwokRhmKBnSX-_bc&center=40.713403199999995,-74.0148877"
+    }
+  ],
+  "bowling": [
+    {
+      "name": "The Gutter L.E.S.",
+      "distance": "1.4 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=The%20Gutter%20L.E.S.&query_place_id=ChIJfx3HmItZwokR7ssq4aeNH6Y&center=40.7180167,-73.9886502"
+    }
+  ],
+  "arcade": [],
+  "movies": [
+    {
+      "name": "Regal movies",
+      "distance": "0.1 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Regal%20movies&query_place_id=ChIJGX5QCg9bwokRxOO153_Glds&center=40.714626700000004,-74.0153591"
+    },
+    {
+      "name": "Regal Battery Park",
+      "distance": "0.1 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Regal%20Battery%20Park&query_place_id=ChIJ4ex3fRtawokRbJjmIA_H0mo&center=40.7150015,-74.01522179999999"
+    },
+    {
+      "name": "Alamo Drafthouse Cinema Lower Manhattan",
+      "distance": "0.5 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Alamo%20Drafthouse%20Cinema%20Lower%20Manhattan&query_place_id=ChIJrYQRAcdbwokRv5M_GCGiQUY&center=40.7077585,-74.00885029999999"
+    }
+  ],
+  "fun": [
+    {
+      "name": "Berlin Wall",
+      "distance": "0.1 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Berlin%20Wall&query_place_id=ChIJy3hd6xpawokR03z35Gt60jU&center=40.7117091,-74.0166011"
+    },
+    {
+      "name": "Battery Park Esplanade",
+      "distance": "0.1 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Battery%20Park%20Esplanade&query_place_id=ChIJ3yJVEwBbwokRk1-FMuslj-4&center=40.713662899999996,-74.0174517"
+    },
+    {
+      "name": "1 WTC/Brookfield Place Viewpoint",
+      "distance": "0.1 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=1%20WTC%2FBrookfield%20Place%20Viewpoint&query_place_id=ChIJRTx5dgBbwokRhgkNOxzW3-4&center=40.7130842,-74.0177056"
+    },
+    {
+      "name": "The Arms of Friendship",
+      "distance": "0.2 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=The%20Arms%20of%20Friendship&query_place_id=ChIJbaSFWQBbwokRSgd0QGPm9YQ&center=40.711576799999996,-74.0119332"
+    }
+  ],
+  "hotels": [
+    {
+      "name": "Conrad New York Downtown",
+      "distance": "0.1 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Conrad%20New%20York%20Downtown&query_place_id=ChIJ-8HrdxtawokREfw5AkGs_Os&center=40.7150355,-74.0158397"
+    },
+    {
+      "name": "Marriot",
+      "distance": "0.2 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Marriot&query_place_id=ChIJm0pwawBbwokRezU3jcbl_p0&center=40.7115294,-74.0123704"
+    }
+  ],
+  "gas": [
+    {
+      "name": "Liberty Landing Marina Fuel Dock",
+      "distance": "1.4 mi",
+      "url": "https://www.google.com/maps/search/Liberty%20Landing%20Marina%20Fuel%20Dock+near+40.7130393%2C-74.0154858"
+    },
+    {
+      "name": "Speedway",
+      "distance": "1.8 mi",
+      "url": "https://www.google.com/maps/search/Speedway+near+40.7130393%2C-74.0154858"
+    },
+    {
+      "name": "Shell",
+      "distance": "1.8 mi",
+      "url": "https://www.google.com/maps/search/Shell+near+40.7130393%2C-74.0154858"
+    },
+    {
+      "name": "Gulf",
+      "distance": "1.8 mi",
+      "url": "https://www.google.com/maps/search/Gulf+near+40.7130393%2C-74.0154858"
+    }
+  ]
+}

@@ -1,0 +1,207 @@
+{
+  "quick_bite": [
+    {
+      "name": "Wahoo's Fish Taco",
+      "distance": "0.9 mi",
+      "url": "https://www.google.com/maps/search/Wahoo's%20Fish%20Taco+near+33.8733333%2C-117.72138890000001"
+    },
+    {
+      "name": "Subway",
+      "distance": "1.3 mi",
+      "url": "https://www.google.com/maps/search/Subway+near+33.8733333%2C-117.72138890000001"
+    },
+    {
+      "name": "Chuck E. Cheese",
+      "distance": "7.2 mi",
+      "url": "https://www.google.com/maps/search/Chuck%20E.%20Cheese+near+33.8733333%2C-117.72138890000001",
+      "isFar": true
+    }
+  ],
+  "coffee": [
+    {
+      "name": "Fantasy Burger",
+      "distance": "0.1 mi",
+      "url": "https://www.google.com/maps/search/Fantasy%20Burger+near+33.8733333%2C-117.72138890000001"
+    },
+    {
+      "name": "Healthy Coffee International Inc",
+      "distance": "1.0 mi",
+      "url": "https://www.google.com/maps/search/Healthy%20Coffee%20International%20Inc+near+33.8733333%2C-117.72138890000001"
+    },
+    {
+      "name": "Waveryder Coffee",
+      "distance": "1.2 mi",
+      "url": "https://www.google.com/maps/search/Waveryder%20Coffee+near+33.8733333%2C-117.72138890000001"
+    },
+    {
+      "name": "Sunbliss Cafe - Anaheim",
+      "distance": "1.3 mi",
+      "url": "https://www.google.com/maps/search/Sunbliss%20Cafe%20-%20Anaheim+near+33.8733333%2C-117.72138890000001"
+    },
+    {
+      "name": "Starbucks Coffee Company",
+      "distance": "1.3 mi",
+      "url": "https://www.google.com/maps/search/Starbucks%20Coffee%20Company+near+33.8733333%2C-117.72138890000001"
+    }
+  ],
+  "team_lunch": [
+    {
+      "name": "The Meltdown",
+      "distance": "1.3 mi",
+      "url": "https://www.google.com/maps/search/The%20Meltdown+near+33.8733333%2C-117.72138890000001"
+    },
+    {
+      "name": "Denny's",
+      "distance": "1.3 mi",
+      "url": "https://www.google.com/maps/search/Denny's+near+33.8733333%2C-117.72138890000001"
+    },
+    {
+      "name": "KD's Donuts",
+      "distance": "1.3 mi",
+      "url": "https://www.google.com/maps/search/KD's%20Donuts+near+33.8733333%2C-117.72138890000001"
+    }
+  ],
+  "dinner": [
+    {
+      "name": "World Donuts",
+      "distance": "0.1 mi",
+      "url": "https://www.google.com/maps/search/World%20Donuts+near+33.8733333%2C-117.72138890000001"
+    },
+    {
+      "name": "Mix Gourmet",
+      "distance": "0.1 mi",
+      "url": "https://www.google.com/maps/search/Mix%20Gourmet+near+33.8733333%2C-117.72138890000001"
+    },
+    {
+      "name": "Bombay Grill Bar and Banquet",
+      "distance": "0.8 mi",
+      "url": "https://www.google.com/maps/search/Bombay%20Grill%20Bar%20and%20Banquet+near+33.8733333%2C-117.72138890000001"
+    },
+    {
+      "name": "Monarch 9",
+      "distance": "1.0 mi",
+      "url": "https://www.google.com/maps/search/Monarch%209+near+33.8733333%2C-117.72138890000001"
+    },
+    {
+      "name": "El Torito",
+      "distance": "1.1 mi",
+      "url": "https://www.google.com/maps/search/El%20Torito+near+33.8733333%2C-117.72138890000001"
+    },
+    {
+      "name": "Rosine's",
+      "distance": "1.3 mi",
+      "url": "https://www.google.com/maps/search/Rosine's+near+33.8733333%2C-117.72138890000001"
+    },
+    {
+      "name": "Costco Bakery",
+      "distance": "1.3 mi",
+      "url": "https://www.google.com/maps/search/Costco%20Bakery+near+33.8733333%2C-117.72138890000001"
+    }
+  ],
+  "bowling": [],
+  "arcade": [],
+  "movies": [
+    {
+      "name": "Regal Yorba Linda",
+      "distance": "5.3 mi",
+      "url": "https://www.google.com/maps/search/Regal%20Yorba%20Linda+near+33.8733333%2C-117.72138890000001",
+      "isFar": true
+    }
+  ],
+  "fun": [
+    {
+      "name": "Cloud Escape - Escape Room",
+      "distance": "3.9 mi",
+      "url": "https://www.google.com/maps/search/Cloud%20Escape%20-%20Escape%20Room+near+33.8733333%2C-117.72138890000001",
+      "isFar": true
+    },
+    {
+      "name": "Exodus Escape Room",
+      "distance": "4.1 mi",
+      "url": "https://www.google.com/maps/search/Exodus%20Escape%20Room+near+33.8733333%2C-117.72138890000001",
+      "isFar": true
+    },
+    {
+      "name": "Sky Zone Trampoline Park",
+      "distance": "5.0 mi",
+      "url": "https://www.google.com/maps/search/Sky%20Zone%20Trampoline%20Park+near+33.8733333%2C-117.72138890000001",
+      "isFar": true
+    },
+    {
+      "name": "Seascape Kids Fun",
+      "distance": "5.4 mi",
+      "url": "https://www.google.com/maps/search/Seascape%20Kids%20Fun+near+33.8733333%2C-117.72138890000001",
+      "isFar": true
+    },
+    {
+      "name": "Irvine Park Railroad",
+      "distance": "5.6 mi",
+      "url": "https://www.google.com/maps/search/Irvine%20Park%20Railroad+near+33.8733333%2C-117.72138890000001",
+      "isFar": true
+    }
+  ],
+  "hotels": [
+    {
+      "name": "Canyon RV Park",
+      "distance": "0.6 mi",
+      "url": "https://www.google.com/maps/search/Canyon%20RV%20Park+near+33.8733333%2C-117.72138890000001"
+    },
+    {
+      "name": "Stylish 2 bdrm Condo w / fireplace. Lux King Suite.",
+      "distance": "1.1 mi",
+      "url": "https://www.google.com/maps/search/Stylish%202%20bdrm%20Condo%20w%20%2F%20fireplace.%20Lux%20King%20Suite.+near+33.8733333%2C-117.72138890000001"
+    },
+    {
+      "name": "Stylish 2 bdrm Condo w/ fireplace. Lux King Suite.",
+      "distance": "1.1 mi",
+      "url": "https://www.google.com/maps/search/Stylish%202%20bdrm%20Condo%20w%2F%20fireplace.%20Lux%20King%20Suite.+near+33.8733333%2C-117.72138890000001"
+    },
+    {
+      "name": "Yorba Linda Condo - Community Pool, Fireplace - Apartment",
+      "distance": "1.1 mi",
+      "url": "https://www.google.com/maps/search/Yorba%20Linda%20Condo%20-%20Community%20Pool%2C%20Fireplace%20-%20Apartment+near+33.8733333%2C-117.72138890000001"
+    },
+    {
+      "name": "Ayres Suites Yorba Linda",
+      "distance": "1.1 mi",
+      "url": "https://www.google.com/maps/search/Ayres%20Suites%20Yorba%20Linda+near+33.8733333%2C-117.72138890000001"
+    },
+    {
+      "name": "ANAHEIM HILLS EXECUTIVE SUITES",
+      "distance": "1.2 mi",
+      "url": "https://www.google.com/maps/search/ANAHEIM%20HILLS%20EXECUTIVE%20SUITES+near+33.8733333%2C-117.72138890000001"
+    },
+    {
+      "name": "Luxury 3 BR, 3 Baths Huge Backyard, WFH, Smart Home - Three-Bedroom Villa",
+      "distance": "1.3 mi",
+      "url": "https://www.google.com/maps/search/Luxury%203%20BR%2C%203%20Baths%20Huge%20Backyard%2C%20WFH%2C%20Smart%20Home%20-%20Three-Bedroom%20Villa+near+33.8733333%2C-117.72138890000001"
+    }
+  ],
+  "gas": [
+    {
+      "name": "ARCO",
+      "distance": "0.1 mi",
+      "url": "https://www.google.com/maps/search/ARCO+near+33.8733333%2C-117.72138890000001"
+    },
+    {
+      "name": "Mobil",
+      "distance": "1.3 mi",
+      "url": "https://www.google.com/maps/search/Mobil+near+33.8733333%2C-117.72138890000001"
+    },
+    {
+      "name": "Circle K | Gas Station",
+      "distance": "1.3 mi",
+      "url": "https://www.google.com/maps/search/Circle%20K%20%7C%20Gas%20Station+near+33.8733333%2C-117.72138890000001"
+    },
+    {
+      "name": "Shell",
+      "distance": "1.3 mi",
+      "url": "https://www.google.com/maps/search/Shell+near+33.8733333%2C-117.72138890000001"
+    },
+    {
+      "name": "Costco Gas Station",
+      "distance": "1.4 mi",
+      "url": "https://www.google.com/maps/search/Costco%20Gas%20Station+near+33.8733333%2C-117.72138890000001"
+    }
+  ]
+}

@@ -1,0 +1,202 @@
+{
+  "quick_bite": [
+    {
+      "name": "Burger King",
+      "distance": "0.2 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Burger%20King&query_place_id=ChIJQy2wxiMx-4kRiCWGPOAG7m4&center=41.6522055,-70.28961810000001"
+    },
+    {
+      "name": "El Mariachi Loco",
+      "distance": "0.3 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=El%20Mariachi%20Loco&query_place_id=ChIJ32hR9wEx-4kRPijKAy5ehiM&center=41.649755299999995,-70.2894779"
+    },
+    {
+      "name": "Subway",
+      "distance": "0.5 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Subway&query_place_id=ChIJFaT7nwcx-4kRSQzX_Jcph1g&center=41.647681299999995,-70.2974249"
+    },
+    {
+      "name": "Taco Bell / KFC",
+      "distance": "0.7 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Taco%20Bell%20%2F%20KFC&query_place_id=ChIJV3MzWOAw-4kR2nxBGLOEBd0&center=41.66190590000001,-70.2854576"
+    },
+    {
+      "name": "Subway",
+      "distance": "0.7 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Subway&query_place_id=ChIJcfJboucw-4kRROODU7mmTH0&center=41.6623838,-70.28484399999999"
+    },
+    {
+      "name": "Wendy's",
+      "distance": "0.9 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Wendy's&query_place_id=ChIJ2_q1diAx-4kR-9EsAkkBdwQ&center=41.665951299999996,-70.28813749999999"
+    }
+  ],
+  "coffee": [
+    {
+      "name": "Mayflour Bakery & Cafe",
+      "distance": "0.7 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Mayflour%20Bakery%20%26%20Cafe&query_place_id=ChIJ-c0Mc-0x-4kRhqG7CDalt9k&center=41.6634494,-70.294919"
+    },
+    {
+      "name": "Honey Dew Donuts",
+      "distance": "0.8 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Honey%20Dew%20Donuts&query_place_id=ChIJb2oBaucw-4kRPI5IPIcIj1Y&center=41.6619616,-70.2809403"
+    }
+  ],
+  "team_lunch": [
+    {
+      "name": "Indian Pavilion",
+      "distance": "0.3 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Indian%20Pavilion&query_place_id=ChIJLb8G8_0w-4kR-N97W6tHqn8&center=41.650691099999996,-70.2878003"
+    },
+    {
+      "name": "521 MAIN",
+      "distance": "0.3 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=521%20MAIN&query_place_id=ChIJwdC5-v0w-4kR97EjTfSAmkE&center=41.650498999999996,-70.288023"
+    },
+    {
+      "name": "Gone Acai Hyannis",
+      "distance": "0.3 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Gone%20Acai%20Hyannis&query_place_id=ChIJoX58NUsx-4kR-hDJ4yzOUAI&center=41.649842299999996,-70.28911599999999"
+    },
+    {
+      "name": "Twisted Cape",
+      "distance": "0.3 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Twisted%20Cape&query_place_id=ChIJu1hddZwx-4kRqEDaTDjB05Q&center=41.649547,-70.2891088"
+    },
+    {
+      "name": "Bagel Mike",
+      "distance": "0.4 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Bagel%20Mike&query_place_id=ChIJ_VdbBgUx-4kRtiNyQN88ljc&center=41.6528803,-70.2839357"
+    },
+    {
+      "name": "Bagels & Beyond 2",
+      "distance": "0.4 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Bagels%20%26%20Beyond%202&query_place_id=ChIJxbbnkoAx-4kRsGFkhrgLKI8&center=41.6528803,-70.2839357"
+    }
+  ],
+  "dinner": [
+    {
+      "name": "COLOMBO'S RESTAURANT",
+      "distance": "0.3 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=COLOMBO'S%20RESTAURANT&query_place_id=ChIJM1PzCAIx-4kRg-2FoW1KCEo&center=41.6505556,-70.2886833"
+    },
+    {
+      "name": "The Daily Paper on Main",
+      "distance": "0.3 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=The%20Daily%20Paper%20on%20Main&query_place_id=ChIJTyQwBgIx-4kRbOyYZiJMFHc&center=41.650453399999996,-70.2887725"
+    },
+    {
+      "name": "Tap City Grille",
+      "distance": "0.3 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Tap%20City%20Grille&query_place_id=ChIJkTdQigEx-4kRujpdMPy7OR0&center=41.6498734,-70.2900076"
+    },
+    {
+      "name": "TUMI CEVICHE BAR & RISTORANTE",
+      "distance": "0.3 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=TUMI%20CEVICHE%20BAR%20%26%20RISTORANTE&query_place_id=ChIJm4yzjgEx-4kRFWwV1ZG0AkM&center=41.6497586,-70.2901966"
+    },
+    {
+      "name": "Maresa's Cooking",
+      "distance": "0.3 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Maresa's%20Cooking&query_place_id=ChIJFdsvMgEx-4kRtV0GJYOhtVw&center=41.6495491,-70.29366279999999"
+    },
+    {
+      "name": "Grilled Cheese Gallery",
+      "distance": "0.3 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Grilled%20Cheese%20Gallery&query_place_id=ChIJpZNS9wEx-4kRiwnmCVv0sag&center=41.6497959,-70.2894206"
+    }
+  ],
+  "bowling": [
+    {
+      "name": "Ryan Family Amusements - South Yarmouth",
+      "distance": "4.7 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Ryan%20Family%20Amusements%20-%20South%20Yarmouth&query_place_id=ChIJDx5lTC46-4kRve0f2Kq8AtU&center=41.6599952,-70.2018497",
+      "isFar": true
+    }
+  ],
+  "arcade": [],
+  "movies": [
+    {
+      "name": "Regal Cape Cod Mall",
+      "distance": "0.9 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Regal%20Cape%20Cod%20Mall&query_place_id=ChIJ____TyIx-4kRX494k8OxIr4&center=41.6666819,-70.2964037"
+    },
+    {
+      "name": "Entertainment Luxury Cinemas Hyannis",
+      "distance": "0.9 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Entertainment%20Luxury%20Cinemas%20Hyannis&query_place_id=ChIJzyhWiYkx-4kRY1uu2vmxQzE&center=41.6667451,-70.2963176"
+    },
+    {
+      "name": "Bill Hanney's Entertainment Experience",
+      "distance": "0.9 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Bill%20Hanney's%20Entertainment%20Experience&query_place_id=ChIJn5g0ZgAx-4kRuZJiWbMJD-M&center=41.6669736,-70.2967543"
+    }
+  ],
+  "fun": [
+    {
+      "name": "Walkway to the Sea",
+      "distance": "0.5 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Walkway%20to%20the%20Sea&query_place_id=ChIJLbuDnvww-4kRX-vhJBEyac8&center=41.652095800000005,-70.2827184"
+    },
+    {
+      "name": "John F. Kennedy Memorial",
+      "distance": "1.1 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=John%20F.%20Kennedy%20Memorial&query_place_id=ChIJYU4wt1cw-4kRMW4WMGNxfmU&center=41.641861899999995,-70.2786505"
+    },
+    {
+      "name": "Highland Street Beach",
+      "distance": "1.2 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Highland%20Street%20Beach&query_place_id=ChIJVxLabgAx-4kRpD7hQrtcGgI&center=41.6464366,-70.2712234"
+    },
+    {
+      "name": "Grove Street Beach",
+      "distance": "1.3 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Grove%20Street%20Beach&query_place_id=ChIJy19MJgAx-4kRnLX6V4mi8ps&center=41.646090099999995,-70.2701208"
+    }
+  ],
+  "hotels": [
+    {
+      "name": "Right in the heart of Hyannis, Cape Cod. Walking distance to the harbor!",
+      "distance": "0.2 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Right%20in%20the%20heart%20of%20Hyannis%2C%20Cape%20Cod.%20Walking%20distance%20to%20the%20harbor!&query_place_id=ChIJr6hPzAMx-4kRGVaEDS1N9tw&center=41.651157399999995,-70.2916717"
+    },
+    {
+      "name": "Private resort style Hyannis property. HEATED Pool, Playground&Basketball court",
+      "distance": "0.3 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Private%20resort%20style%20Hyannis%20property.%20HEATED%20Pool%2C%20Playground%26Basketball%20court&query_place_id=ChIJ42RvmeIw-4kR377a9x1Dn-Q&center=41.655975399999996,-70.28795629999999"
+    },
+    {
+      "name": "Courtyard Resort",
+      "distance": "0.3 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Courtyard%20Resort&query_place_id=ChIJwdcvDP0w-4kRd9K53mD5UlY&center=41.6523403,-70.2867885"
+    },
+    {
+      "name": "Courtyard Resort - Studio",
+      "distance": "0.3 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Courtyard%20Resort%20-%20Studio&query_place_id=ChIJNW-yDf0w-4kRr6DUS7fgAUo&center=41.652359,-70.2867279"
+    }
+  ],
+  "gas": [
+    {
+      "name": "Speedway",
+      "distance": "0.3 mi",
+      "url": "https://www.google.com/maps/search/Speedway+near+41.6536991%2C-70.2922443"
+    },
+    {
+      "name": "EXCEL GAS",
+      "distance": "0.5 mi",
+      "url": "https://www.google.com/maps/search/EXCEL%20GAS+near+41.6536991%2C-70.2922443"
+    },
+    {
+      "name": "Stop & Shop Gas Station",
+      "distance": "0.6 mi",
+      "url": "https://www.google.com/maps/search/Stop%20%26%20Shop%20Gas%20Station+near+41.6536991%2C-70.2922443"
+    },
+    {
+      "name": "United Gas Hyannis",
+      "distance": "0.7 mi",
+      "url": "https://www.google.com/maps/search/United%20Gas%20Hyannis+near+41.6536991%2C-70.2922443"
+    }
+  ]
+}

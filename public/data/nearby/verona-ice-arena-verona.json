@@ -1,0 +1,234 @@
+{
+  "quick_bite": [
+    {
+      "name": "Culver’s",
+      "distance": "0.1 mi",
+      "url": "https://www.google.com/maps/search/Culver%E2%80%99s+near+42.991872199999996%2C-89.5262877"
+    },
+    {
+      "name": "Domino's Pizza",
+      "distance": "0.3 mi",
+      "url": "https://www.google.com/maps/search/Domino's%20Pizza+near+42.991872199999996%2C-89.5262877"
+    },
+    {
+      "name": "Noodles and Company",
+      "distance": "0.3 mi",
+      "url": "https://www.google.com/maps/search/Noodles%20and%20Company+near+42.991872199999996%2C-89.5262877"
+    },
+    {
+      "name": "Jimmy John's",
+      "distance": "0.3 mi",
+      "url": "https://www.google.com/maps/search/Jimmy%20John's+near+42.991872199999996%2C-89.5262877"
+    },
+    {
+      "name": "Arby's",
+      "distance": "0.3 mi",
+      "url": "https://www.google.com/maps/search/Arby's+near+42.991872199999996%2C-89.5262877"
+    },
+    {
+      "name": "Taco Bell",
+      "distance": "0.4 mi",
+      "url": "https://www.google.com/maps/search/Taco%20Bell+near+42.991872199999996%2C-89.5262877"
+    },
+    {
+      "name": "Pizza Ranch",
+      "distance": "0.5 mi",
+      "url": "https://www.google.com/maps/search/Pizza%20Ranch+near+42.991872199999996%2C-89.5262877"
+    }
+  ],
+  "coffee": [
+    {
+      "name": "McDonald's",
+      "distance": "0.2 mi",
+      "url": "https://www.google.com/maps/search/McDonald's+near+42.991872199999996%2C-89.5262877"
+    },
+    {
+      "name": "The Sow's Ear",
+      "distance": "0.4 mi",
+      "url": "https://www.google.com/maps/search/The%20Sow's%20Ear+near+42.991872199999996%2C-89.5262877"
+    },
+    {
+      "name": "Tuvalu Coffee House & Gallery",
+      "distance": "0.5 mi",
+      "url": "https://www.google.com/maps/search/Tuvalu%20Coffee%20House%20%26%20Gallery+near+42.991872199999996%2C-89.5262877"
+    },
+    {
+      "name": "Alice Good Specialty Coffee",
+      "distance": "0.5 mi",
+      "url": "https://www.google.com/maps/search/Alice%20Good%20Specialty%20Coffee+near+42.991872199999996%2C-89.5262877"
+    },
+    {
+      "name": "Icki Sticki",
+      "distance": "0.7 mi",
+      "url": "https://www.google.com/maps/search/Icki%20Sticki+near+42.991872199999996%2C-89.5262877"
+    }
+  ],
+  "team_lunch": [
+    {
+      "name": "Pasqual's Cantina",
+      "distance": "0.7 mi",
+      "url": "https://www.google.com/maps/search/Pasqual's%20Cantina+near+42.991872199999996%2C-89.5262877"
+    }
+  ],
+  "dinner": [
+    {
+      "name": "5th Quarter Bar & Grill",
+      "distance": "0.3 mi",
+      "url": "https://www.google.com/maps/search/5th%20Quarter%20Bar%20%26%20Grill+near+42.991872199999996%2C-89.5262877"
+    },
+    {
+      "name": "La Penca Mexican Restaurant Verona",
+      "distance": "0.3 mi",
+      "url": "https://www.google.com/maps/search/La%20Penca%20Mexican%20Restaurant%20Verona+near+42.991872199999996%2C-89.5262877"
+    },
+    {
+      "name": "BeneBlends",
+      "distance": "0.3 mi",
+      "url": "https://www.google.com/maps/search/BeneBlends+near+42.991872199999996%2C-89.5262877"
+    },
+    {
+      "name": "Avantis Italian Restaurant & Pub",
+      "distance": "0.4 mi",
+      "url": "https://www.google.com/maps/search/Avantis%20Italian%20Restaurant%20%26%20Pub+near+42.991872199999996%2C-89.5262877"
+    },
+    {
+      "name": "Gus's Diner",
+      "distance": "0.4 mi",
+      "url": "https://www.google.com/maps/search/Gus's%20Diner+near+42.991872199999996%2C-89.5262877"
+    },
+    {
+      "name": "Taqueria los Atlantes",
+      "distance": "0.5 mi",
+      "url": "https://www.google.com/maps/search/Taqueria%20los%20Atlantes+near+42.991872199999996%2C-89.5262877"
+    },
+    {
+      "name": "AzTec Taqueria",
+      "distance": "0.5 mi",
+      "url": "https://www.google.com/maps/search/AzTec%20Taqueria+near+42.991872199999996%2C-89.5262877"
+    }
+  ],
+  "bowling": [
+    {
+      "name": "Spare Time Madison",
+      "distance": "4.7 mi",
+      "url": "https://www.google.com/maps/search/Spare%20Time%20Madison+near+42.991872199999996%2C-89.5262877",
+      "isFar": true
+    },
+    {
+      "name": "Schwoegler Park Towne Lanes",
+      "distance": "4.8 mi",
+      "url": "https://www.google.com/maps/search/Schwoegler%20Park%20Towne%20Lanes+near+42.991872199999996%2C-89.5262877",
+      "isFar": true
+    }
+  ],
+  "arcade": [],
+  "movies": [
+    {
+      "name": "AMC Fitchburg 18",
+      "distance": "3.4 mi",
+      "url": "https://www.google.com/maps/search/AMC%20Fitchburg%2018+near+42.991872199999996%2C-89.5262877",
+      "isFar": true
+    },
+    {
+      "name": "Star Cinema",
+      "distance": "3.4 mi",
+      "url": "https://www.google.com/maps/search/Star%20Cinema+near+42.991872199999996%2C-89.5262877",
+      "isFar": true
+    },
+    {
+      "name": "Marcus Point Cinema",
+      "distance": "4.6 mi",
+      "url": "https://www.google.com/maps/search/Marcus%20Point%20Cinema+near+42.991872199999996%2C-89.5262877",
+      "isFar": true
+    }
+  ],
+  "fun": [
+    {
+      "name": "Escapology Escape Rooms Verona",
+      "distance": "0.5 mi",
+      "url": "https://www.google.com/maps/search/Escapology%20Escape%20Rooms%20Verona+near+42.991872199999996%2C-89.5262877"
+    },
+    {
+      "name": "Legacy Academy - Birthday Parties & More",
+      "distance": "3.2 mi",
+      "url": "https://www.google.com/maps/search/Legacy%20Academy%20-%20Birthday%20Parties%20%26%20More+near+42.991872199999996%2C-89.5262877",
+      "isFar": true
+    },
+    {
+      "name": "Urban Air Trampoline and Adventure Park",
+      "distance": "4.4 mi",
+      "url": "https://www.google.com/maps/search/Urban%20Air%20Trampoline%20and%20Adventure%20Park+near+42.991872199999996%2C-89.5262877",
+      "isFar": true
+    },
+    {
+      "name": "Escape In Time - Escape Rooms",
+      "distance": "4.8 mi",
+      "url": "https://www.google.com/maps/search/Escape%20In%20Time%20-%20Escape%20Rooms+near+42.991872199999996%2C-89.5262877",
+      "isFar": true
+    }
+  ],
+  "hotels": [
+    {
+      "name": "Sleep Inn & Suites Verona - Madison Southwest",
+      "distance": "0.2 mi",
+      "url": "https://www.google.com/maps/search/Sleep%20Inn%20%26%20Suites%20Verona%20-%20Madison%20Southwest+near+42.991872199999996%2C-89.5262877"
+    },
+    {
+      "name": "Look out at the treetops at the cozy Paoli Nest. Near Epic Systems and Madison.",
+      "distance": "0.4 mi",
+      "url": "https://www.google.com/maps/search/Look%20out%20at%20the%20treetops%20at%20the%20cozy%20Paoli%20Nest.%20Near%20Epic%20Systems%20and%20Madison.+near+42.991872199999996%2C-89.5262877"
+    },
+    {
+      "name": "Paoli Den - Newly Remodeled!",
+      "distance": "0.6 mi",
+      "url": "https://www.google.com/maps/search/Paoli%20Den%20-%20Newly%20Remodeled!+near+42.991872199999996%2C-89.5262877"
+    },
+    {
+      "name": "Paoli Den - Newly Remodeled!",
+      "distance": "0.6 mi",
+      "url": "https://www.google.com/maps/search/Paoli%20Den%20-%20Newly%20Remodeled!+near+42.991872199999996%2C-89.5262877"
+    },
+    {
+      "name": "Downtown Verona Hideaway 2",
+      "distance": "0.7 mi",
+      "url": "https://www.google.com/maps/search/Downtown%20Verona%20Hideaway%202+near+42.991872199999996%2C-89.5262877"
+    },
+    {
+      "name": "Schettler Terrace",
+      "distance": "0.7 mi",
+      "url": "https://www.google.com/maps/search/Schettler%20Terrace+near+42.991872199999996%2C-89.5262877"
+    },
+    {
+      "name": "Verona Home 10 miles from CrossFit Games",
+      "distance": "0.7 mi",
+      "url": "https://www.google.com/maps/search/Verona%20Home%2010%20miles%20from%20CrossFit%20Games+near+42.991872199999996%2C-89.5262877"
+    }
+  ],
+  "gas": [
+    {
+      "name": "Mobil",
+      "distance": "0.4 mi",
+      "url": "https://www.google.com/maps/search/Mobil+near+42.991872199999996%2C-89.5262877"
+    },
+    {
+      "name": "Kwik Trip",
+      "distance": "1.4 mi",
+      "url": "https://www.google.com/maps/search/Kwik%20Trip+near+42.991872199999996%2C-89.5262877"
+    },
+    {
+      "name": "Kwik Trip",
+      "distance": "1.6 mi",
+      "url": "https://www.google.com/maps/search/Kwik%20Trip+near+42.991872199999996%2C-89.5262877"
+    },
+    {
+      "name": "Costco Gas Station",
+      "distance": "1.7 mi",
+      "url": "https://www.google.com/maps/search/Costco%20Gas%20Station+near+42.991872199999996%2C-89.5262877"
+    },
+    {
+      "name": "Kwik Trip",
+      "distance": "3.3 mi",
+      "url": "https://www.google.com/maps/search/Kwik%20Trip+near+42.991872199999996%2C-89.5262877"
+    }
+  ]
+}

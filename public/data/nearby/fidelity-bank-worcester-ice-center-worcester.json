@@ -1,0 +1,199 @@
+{
+  "quick_bite": [
+    {
+      "name": "Fresh Way Pizza",
+      "distance": "0.1 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Fresh%20Way%20Pizza&query_place_id=ChIJJSZ7IXAG5IkRK0u-jSUzz7I&center=42.256538,-71.796105"
+    },
+    {
+      "name": "Subway",
+      "distance": "0.2 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Subway&query_place_id=ChIJ7dvdenAG5IkRdxvA__jV2Tg&center=42.255237699999995,-71.7975458"
+    },
+    {
+      "name": "Cluck & Crispy Chicken",
+      "distance": "0.3 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Cluck%20%26%20Crispy%20Chicken&query_place_id=ChIJ9z7ptE0H5IkRl5e4RzvTkaY&center=42.2617243,-71.7970313"
+    },
+    {
+      "name": "Jersey Mike's Subs",
+      "distance": "0.3 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Jersey%20Mike's%20Subs&query_place_id=ChIJeUGr100H5IkRKWdrNsUw_y0&center=42.254911,-71.79858899999999"
+    },
+    {
+      "name": "Burger King",
+      "distance": "0.3 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Burger%20King&query_place_id=ChIJhZtX7XoG5IkRDwxAMlVnI8k&center=42.2549924,-71.7994049"
+    },
+    {
+      "name": "Jimmy John's",
+      "distance": "0.4 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Jimmy%20John's&query_place_id=ChIJcTIwImYG5IkRMpJPEr1PB8Q&center=42.263362,-71.7975299"
+    }
+  ],
+  "coffee": [
+    {
+      "name": "Infused Cafe",
+      "distance": "0.1 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Infused%20Cafe&query_place_id=ChIJCZYyng4H5IkRju-YBeCR6yM&center=42.2580947,-71.796536"
+    },
+    {
+      "name": "Tasty Experience Bistro",
+      "distance": "0.1 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Tasty%20Experience%20Bistro&query_place_id=ChIJUwlz47gH5IkRXiafbXtoDO0&center=42.257093,-71.7963876"
+    },
+    {
+      "name": "BirchTree Bread Company",
+      "distance": "0.2 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=BirchTree%20Bread%20Company&query_place_id=ChIJF3NUBnAG5IkRIYiUDydXNRU&center=42.2562472,-71.79779719999999"
+    },
+    {
+      "name": "La Central Bakery & Cafe",
+      "distance": "0.5 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=La%20Central%20Bakery%20%26%20Cafe&query_place_id=ChIJ7ySE_YYH5IkR8zdI_DOXPDk&center=42.2636464,-71.80229659999999"
+    },
+    {
+      "name": "Crust Artisan Bakeshop",
+      "distance": "0.8 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Crust%20Artisan%20Bakeshop&query_place_id=ChIJn4TvBl0G5IkRXnOuDHFTr6c&center=42.26894360000001,-71.8005635"
+    }
+  ],
+  "team_lunch": [
+    {
+      "name": "JU'S BAR & GRILL",
+      "distance": "0.1 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=JU'S%20BAR%20%26%20GRILL&query_place_id=ChIJWbRUiSYH5IkRUolBObYVpNo&center=42.2575915,-71.7977949"
+    },
+    {
+      "name": "Creative Cakes Cafe",
+      "distance": "0.2 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Creative%20Cakes%20Cafe&query_place_id=ChIJk8iUCnAG5IkRCN3Z2X2v_3w&center=42.2558444,-71.7977432"
+    }
+  ],
+  "dinner": [
+    {
+      "name": "Bay State Brewery & Tap Room",
+      "distance": "0.1 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Bay%20State%20Brewery%20%26%20Tap%20Room&query_place_id=ChIJOcDrXB4H5IkRuBmyn26RejY&center=42.258409,-71.79583"
+    },
+    {
+      "name": "Sham restaurant",
+      "distance": "0.1 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Sham%20restaurant&query_place_id=ChIJCx8PEwAH5IkRWF3CMcW8MgE&center=42.257345799999996,-71.7953777"
+    },
+    {
+      "name": "Bombay Lounge Indian Restaurant",
+      "distance": "0.1 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Bombay%20Lounge%20Indian%20Restaurant&query_place_id=ChIJP7bnMpcH5IkRMt4DGbNzruI&center=42.257031600000005,-71.7957627"
+    },
+    {
+      "name": "Green Island Oyster",
+      "distance": "0.1 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Green%20Island%20Oyster&query_place_id=ChIJXTgHdLgH5IkR42wfIVcddb0&center=42.2592304,-71.7954535"
+    },
+    {
+      "name": "1885",
+      "distance": "0.1 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=1885&query_place_id=ChIJU0w8TgAH5IkR1dZeTUMNNq8&center=42.258930899999996,-71.79784599999999"
+    },
+    {
+      "name": "Bocado Tapas Wine Bar",
+      "distance": "0.1 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Bocado%20Tapas%20Wine%20Bar&query_place_id=ChIJbfJH-G4G5IkR6Ns-O9kktx4&center=42.258747199999995,-71.7942341"
+    }
+  ],
+  "bowling": [
+    {
+      "name": "Bowlero Worcester",
+      "distance": "2.8 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Bowlero%20Worcester&query_place_id=ChIJ9yYRg0UE5IkRQKGFdfmWGIg&center=42.222310799999995,-71.8227363"
+    },
+    {
+      "name": "Gold Crown Service",
+      "distance": "2.9 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Gold%20Crown%20Service&query_place_id=ChIJRasnanIF5IkRjGN-wNtFXp0&center=42.2206471,-71.82084689999999"
+    },
+    {
+      "name": "Bowlero Shrewsbury",
+      "distance": "3.7 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Bowlero%20Shrewsbury&query_place_id=ChIJUQdYslkI5IkRsV_lEiRy1g8&center=42.2767841,-71.728645",
+      "isFar": true
+    }
+  ],
+  "arcade": [],
+  "movies": [
+    {
+      "name": "Blackstone Valley 14 Cinema de Lux",
+      "distance": "4.1 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Blackstone%20Valley%2014%20Cinema%20de%20Lux&query_place_id=ChIJDxMTEXEF5IkRpshjBiP00Vc&center=42.199782,-71.77851",
+      "isFar": true
+    },
+    {
+      "name": "Elm Draught House Cinema Inc",
+      "distance": "5.0 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Elm%20Draught%20House%20Cinema%20Inc&query_place_id=ChIJueORFWAF5IkRDbumm2DssSQ&center=42.191963099999995,-71.7583999",
+      "isFar": true
+    }
+  ],
+  "fun": [
+    {
+      "name": "The Green Street Bridge",
+      "distance": "0.1 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=The%20Green%20Street%20Bridge&query_place_id=ChIJi_y1uUMH5IkRxzdWEVLMJtA&center=42.2594005,-71.79823859999999"
+    },
+    {
+      "name": "Beantown Betty Duckboat",
+      "distance": "0.1 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Beantown%20Betty%20Duckboat&query_place_id=ChIJhyo2cHMH5IkRsgeW1mGhQdU&center=42.2576937,-71.7988489"
+    },
+    {
+      "name": "Polar Park Warehouse Facade",
+      "distance": "0.3 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Polar%20Park%20Warehouse%20Facade&query_place_id=ChIJm-h3dgAH5IkRV_LqRJHLkpw&center=42.256329,-71.8003495"
+    },
+    {
+      "name": "Worcester Higher education, music and arts festival",
+      "distance": "0.3 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Worcester%20Higher%20education%2C%20music%20and%20arts%20festival&query_place_id=ChIJQ3jZTgAH5IkRUHW77sMtIGE&center=42.262467,-71.7981823"
+    }
+  ],
+  "hotels": [
+    {
+      "name": "AC Hotel Worcester",
+      "distance": "0.3 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=AC%20Hotel%20Worcester&query_place_id=ChIJAQAA42UG5IkR1xephANp35U&center=42.261863999999996,-71.798542"
+    },
+    {
+      "name": "Electric House",
+      "distance": "0.3 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Electric%20House&query_place_id=ChIJ89xy1KQH5IkRvzb-mGiXrBQ&center=42.254352999999995,-71.7982569"
+    },
+    {
+      "name": "Homewood Suites by Hilton Worcester",
+      "distance": "0.3 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Homewood%20Suites%20by%20Hilton%20Worcester&query_place_id=ChIJ1StnIWkG5IkRFqNc5EkEjLs&center=42.263006399999995,-71.7945117"
+    }
+  ],
+  "gas": [
+    {
+      "name": "Speedway",
+      "distance": "0.2 mi",
+      "url": "https://www.google.com/maps/search/Speedway+near+42.2581632%2C-71.7961115"
+    },
+    {
+      "name": "Gulf",
+      "distance": "0.3 mi",
+      "url": "https://www.google.com/maps/search/Gulf+near+42.2581632%2C-71.7961115"
+    },
+    {
+      "name": "CHOP CHOP CONVENIENCE KELLEY SQUARE",
+      "distance": "0.3 mi",
+      "url": "https://www.google.com/maps/search/CHOP%20CHOP%20CONVENIENCE%20KELLEY%20SQUARE+near+42.2581632%2C-71.7961115"
+    },
+    {
+      "name": "Mobil",
+      "distance": "0.3 mi",
+      "url": "https://www.google.com/maps/search/Mobil+near+42.2581632%2C-71.7961115"
+    }
+  ]
+}

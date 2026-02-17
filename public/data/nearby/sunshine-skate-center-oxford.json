@@ -1,0 +1,182 @@
+{
+  "quick_bite": [
+    {
+      "name": "Krispy Krunchy Chicken",
+      "distance": "0.1 mi",
+      "url": "https://www.google.com/maps/search/Krispy%20Krunchy%20Chicken+near+33.6015975%2C-85.8318185"
+    },
+    {
+      "name": "Waffle House",
+      "distance": "0.1 mi",
+      "url": "https://www.google.com/maps/search/Waffle%20House+near+33.6015975%2C-85.8318185"
+    },
+    {
+      "name": "Wendy's",
+      "distance": "0.2 mi",
+      "url": "https://www.google.com/maps/search/Wendy's+near+33.6015975%2C-85.8318185"
+    },
+    {
+      "name": "Culver’s",
+      "distance": "0.4 mi",
+      "url": "https://www.google.com/maps/search/Culver%E2%80%99s+near+33.6015975%2C-85.8318185"
+    },
+    {
+      "name": "Captain D's",
+      "distance": "0.4 mi",
+      "url": "https://www.google.com/maps/search/Captain%20D's+near+33.6015975%2C-85.8318185"
+    },
+    {
+      "name": "Little Caesars Pizza",
+      "distance": "0.5 mi",
+      "url": "https://www.google.com/maps/search/Little%20Caesars%20Pizza+near+33.6015975%2C-85.8318185"
+    },
+    {
+      "name": "Taco Bell",
+      "distance": "0.5 mi",
+      "url": "https://www.google.com/maps/search/Taco%20Bell+near+33.6015975%2C-85.8318185"
+    }
+  ],
+  "coffee": [
+    {
+      "name": "McDonald's",
+      "distance": "0.4 mi",
+      "url": "https://www.google.com/maps/search/McDonald's+near+33.6015975%2C-85.8318185"
+    },
+    {
+      "name": "Starbucks Coffee Company",
+      "distance": "0.5 mi",
+      "url": "https://www.google.com/maps/search/Starbucks%20Coffee%20Company+near+33.6015975%2C-85.8318185"
+    }
+  ],
+  "team_lunch": [
+    {
+      "name": "Zheng'Garden Chinese Restaurant",
+      "distance": "0.1 mi",
+      "url": "https://www.google.com/maps/search/Zheng'Garden%20Chinese%20Restaurant+near+33.6015975%2C-85.8318185"
+    },
+    {
+      "name": "Walmart Bakery",
+      "distance": "0.2 mi",
+      "url": "https://www.google.com/maps/search/Walmart%20Bakery+near+33.6015975%2C-85.8318185"
+    }
+  ],
+  "dinner": [
+    {
+      "name": "Rack's BBQ",
+      "distance": "0.2 mi",
+      "url": "https://www.google.com/maps/search/Rack's%20BBQ+near+33.6015975%2C-85.8318185"
+    },
+    {
+      "name": "Mangos Cantina and Grill Oxford, AL",
+      "distance": "0.3 mi",
+      "url": "https://www.google.com/maps/search/Mangos%20Cantina%20and%20Grill%20Oxford%2C%20AL+near+33.6015975%2C-85.8318185"
+    },
+    {
+      "name": "Western Sizzlin Steakhouse & Buffet",
+      "distance": "0.3 mi",
+      "url": "https://www.google.com/maps/search/Western%20Sizzlin%20Steakhouse%20%26%20Buffet+near+33.6015975%2C-85.8318185"
+    },
+    {
+      "name": "Jefferson's",
+      "distance": "0.4 mi",
+      "url": "https://www.google.com/maps/search/Jefferson's+near+33.6015975%2C-85.8318185"
+    },
+    {
+      "name": "Lickin Good Donuts",
+      "distance": "0.5 mi",
+      "url": "https://www.google.com/maps/search/Lickin%20Good%20Donuts+near+33.6015975%2C-85.8318185"
+    }
+  ],
+  "bowling": [
+    {
+      "name": "BigTime Entertainment",
+      "distance": "0.3 mi",
+      "url": "https://www.google.com/maps/search/BigTime%20Entertainment+near+33.6015975%2C-85.8318185"
+    }
+  ],
+  "arcade": [],
+  "movies": [
+    {
+      "name": "AmStar Oxford by Santikos",
+      "distance": "1.0 mi",
+      "url": "https://www.google.com/maps/search/AmStar%20Oxford%20by%20Santikos+near+33.6015975%2C-85.8318185"
+    }
+  ],
+  "fun": [
+    {
+      "name": "Moore's Family Fun Center",
+      "distance": "0.3 mi",
+      "url": "https://www.google.com/maps/search/Moore's%20Family%20Fun%20Center+near+33.6015975%2C-85.8318185"
+    },
+    {
+      "name": "1st Class Parties and Events",
+      "distance": "5.8 mi",
+      "url": "https://www.google.com/maps/search/1st%20Class%20Parties%20and%20Events+near+33.6015975%2C-85.8318185",
+      "isFar": true
+    }
+  ],
+  "hotels": [
+    {
+      "name": "Red Roof Inn & Suites Oxford",
+      "distance": "0.1 mi",
+      "url": "https://www.google.com/maps/search/Red%20Roof%20Inn%20%26%20Suites%20Oxford+near+33.6015975%2C-85.8318185"
+    },
+    {
+      "name": "Motel 6 Anniston, AL",
+      "distance": "0.1 mi",
+      "url": "https://www.google.com/maps/search/Motel%206%20Anniston%2C%20AL+near+33.6015975%2C-85.8318185"
+    },
+    {
+      "name": "Rodeway Inn Oxford",
+      "distance": "0.2 mi",
+      "url": "https://www.google.com/maps/search/Rodeway%20Inn%20Oxford+near+33.6015975%2C-85.8318185"
+    },
+    {
+      "name": "Super 8 by Wyndham Oxford",
+      "distance": "0.2 mi",
+      "url": "https://www.google.com/maps/search/Super%208%20by%20Wyndham%20Oxford+near+33.6015975%2C-85.8318185"
+    },
+    {
+      "name": "Econo Lodge Oxford near Choccolocco Park",
+      "distance": "0.2 mi",
+      "url": "https://www.google.com/maps/search/Econo%20Lodge%20Oxford%20near%20Choccolocco%20Park+near+33.6015975%2C-85.8318185"
+    },
+    {
+      "name": "Red Carpet Inn Anniston Oxford",
+      "distance": "0.5 mi",
+      "url": "https://www.google.com/maps/search/Red%20Carpet%20Inn%20Anniston%20Oxford+near+33.6015975%2C-85.8318185"
+    },
+    {
+      "name": "Motel",
+      "distance": "0.5 mi",
+      "url": "https://www.google.com/maps/search/Motel+near+33.6015975%2C-85.8318185"
+    }
+  ],
+  "gas": [
+    {
+      "name": "Circle K | Gas Station",
+      "distance": "0.1 mi",
+      "url": "https://www.google.com/maps/search/Circle%20K%20%7C%20Gas%20Station+near+33.6015975%2C-85.8318185"
+    },
+    {
+      "name": "RaceTrac",
+      "distance": "0.1 mi",
+      "url": "https://www.google.com/maps/search/RaceTrac+near+33.6015975%2C-85.8318185"
+    },
+    {
+      "name": "Ev",
+      "distance": "0.1 mi",
+      "url": "https://www.google.com/maps/search/Ev+near+33.6015975%2C-85.8318185"
+    },
+    {
+      "name": "76",
+      "distance": "0.1 mi",
+      "url": "https://www.google.com/maps/search/76+near+33.6015975%2C-85.8318185"
+    },
+    {
+      "name": "Murphy USA",
+      "distance": "0.2 mi",
+      "url": "https://www.google.com/maps/search/Murphy%20USA+near+33.6015975%2C-85.8318185"
+    }
+  ]
+}

@@ -1,0 +1,249 @@
+{
+  "quick_bite": [
+    {
+      "name": "Wendy's",
+      "distance": "0.1 mi",
+      "url": "https://www.google.com/maps/search/Wendy's+near+61.20902869999999%2C-149.7440186"
+    },
+    {
+      "name": "Subway",
+      "distance": "0.2 mi",
+      "url": "https://www.google.com/maps/search/Subway+near+61.20902869999999%2C-149.7440186"
+    },
+    {
+      "name": "Taco Bell",
+      "distance": "0.4 mi",
+      "url": "https://www.google.com/maps/search/Taco%20Bell+near+61.20902869999999%2C-149.7440186"
+    },
+    {
+      "name": "Arby's",
+      "distance": "0.4 mi",
+      "url": "https://www.google.com/maps/search/Arby's+near+61.20902869999999%2C-149.7440186"
+    },
+    {
+      "name": "Hamburger Haven",
+      "distance": "0.6 mi",
+      "url": "https://www.google.com/maps/search/Hamburger%20Haven+near+61.20902869999999%2C-149.7440186"
+    },
+    {
+      "name": "Chuck E. Cheese",
+      "distance": "4.6 mi",
+      "url": "https://www.google.com/maps/search/Chuck%20E.%20Cheese+near+61.20902869999999%2C-149.7440186",
+      "isFar": true
+    },
+    {
+      "name": "Cinemark Century Anchorage 16 and XD",
+      "distance": "4.7 mi",
+      "url": "https://www.google.com/maps/search/Cinemark%20Century%20Anchorage%2016%20and%20XD+near+61.20902869999999%2C-149.7440186",
+      "isFar": true
+    }
+  ],
+  "coffee": [
+    {
+      "name": "gambo restorante",
+      "distance": "0.2 mi",
+      "url": "https://www.google.com/maps/search/gambo%20restorante+near+61.20902869999999%2C-149.7440186"
+    },
+    {
+      "name": "Krispy Kreme Doughnuts",
+      "distance": "0.3 mi",
+      "url": "https://www.google.com/maps/search/Krispy%20Kreme%20Doughnuts+near+61.20902869999999%2C-149.7440186"
+    },
+    {
+      "name": "Starbucks Coffee Company",
+      "distance": "0.3 mi",
+      "url": "https://www.google.com/maps/search/Starbucks%20Coffee%20Company+near+61.20902869999999%2C-149.7440186"
+    },
+    {
+      "name": "Starbucks Coffee Company",
+      "distance": "0.3 mi",
+      "url": "https://www.google.com/maps/search/Starbucks%20Coffee%20Company+near+61.20902869999999%2C-149.7440186"
+    },
+    {
+      "name": "Motor Mocha Inc",
+      "distance": "0.5 mi",
+      "url": "https://www.google.com/maps/search/Motor%20Mocha%20Inc+near+61.20902869999999%2C-149.7440186"
+    }
+  ],
+  "team_lunch": [
+    {
+      "name": "Walmart Bakery",
+      "distance": "0.2 mi",
+      "url": "https://www.google.com/maps/search/Walmart%20Bakery+near+61.20902869999999%2C-149.7440186"
+    },
+    {
+      "name": "Wingstop",
+      "distance": "0.3 mi",
+      "url": "https://www.google.com/maps/search/Wingstop+near+61.20902869999999%2C-149.7440186"
+    },
+    {
+      "name": "Ding How Mongolian BBQ",
+      "distance": "0.4 mi",
+      "url": "https://www.google.com/maps/search/Ding%20How%20Mongolian%20BBQ+near+61.20902869999999%2C-149.7440186"
+    },
+    {
+      "name": "Oriental Garden",
+      "distance": "0.6 mi",
+      "url": "https://www.google.com/maps/search/Oriental%20Garden+near+61.20902869999999%2C-149.7440186"
+    },
+    {
+      "name": "Leahmaris Bakes",
+      "distance": "0.6 mi",
+      "url": "https://www.google.com/maps/search/Leahmaris%20Bakes+near+61.20902869999999%2C-149.7440186"
+    }
+  ],
+  "dinner": [
+    {
+      "name": "Samurai Sushi",
+      "distance": "0.4 mi",
+      "url": "https://www.google.com/maps/search/Samurai%20Sushi+near+61.20902869999999%2C-149.7440186"
+    },
+    {
+      "name": "Top Wings",
+      "distance": "0.4 mi",
+      "url": "https://www.google.com/maps/search/Top%20Wings+near+61.20902869999999%2C-149.7440186"
+    },
+    {
+      "name": "Celiacs' Delights",
+      "distance": "0.4 mi",
+      "url": "https://www.google.com/maps/search/Celiacs'%20Delights+near+61.20902869999999%2C-149.7440186"
+    },
+    {
+      "name": "Thai Village Restaurant",
+      "distance": "0.5 mi",
+      "url": "https://www.google.com/maps/search/Thai%20Village%20Restaurant+near+61.20902869999999%2C-149.7440186"
+    },
+    {
+      "name": "Ronnie 2 Sushi",
+      "distance": "0.5 mi",
+      "url": "https://www.google.com/maps/search/Ronnie%202%20Sushi+near+61.20902869999999%2C-149.7440186"
+    }
+  ],
+  "bowling": [
+    {
+      "name": "Polar Bowl",
+      "distance": "4.2 mi",
+      "url": "https://www.google.com/maps/search/Polar%20Bowl+near+61.20902869999999%2C-149.7440186",
+      "isFar": true
+    }
+  ],
+  "arcade": [],
+  "movies": [
+    {
+      "name": "Regal Totem",
+      "distance": "1.2 mi",
+      "url": "https://www.google.com/maps/search/Regal%20Totem+near+61.20902869999999%2C-149.7440186"
+    },
+    {
+      "name": "Regal Tikahtnu",
+      "distance": "1.2 mi",
+      "url": "https://www.google.com/maps/search/Regal%20Tikahtnu+near+61.20902869999999%2C-149.7440186"
+    },
+    {
+      "name": "Frontier Theater",
+      "distance": "3.5 mi",
+      "url": "https://www.google.com/maps/search/Frontier%20Theater+near+61.20902869999999%2C-149.7440186",
+      "isFar": true
+    },
+    {
+      "name": "Talkeetna Theater",
+      "distance": "4.4 mi",
+      "url": "https://www.google.com/maps/search/Talkeetna%20Theater+near+61.20902869999999%2C-149.7440186",
+      "isFar": true
+    },
+    {
+      "name": "Alaska Experience Theater",
+      "distance": "4.9 mi",
+      "url": "https://www.google.com/maps/search/Alaska%20Experience%20Theater+near+61.20902869999999%2C-149.7440186",
+      "isFar": true
+    },
+    {
+      "name": "Bear and Raven Adventure Theater",
+      "distance": "4.9 mi",
+      "url": "https://www.google.com/maps/search/Bear%20and%20Raven%20Adventure%20Theater+near+61.20902869999999%2C-149.7440186",
+      "isFar": true
+    },
+    {
+      "name": "E Street Theater",
+      "distance": "4.9 mi",
+      "url": "https://www.google.com/maps/search/E%20Street%20Theater+near+61.20902869999999%2C-149.7440186",
+      "isFar": true
+    }
+  ],
+  "fun": [
+    {
+      "name": "KidsEvent",
+      "distance": "1.7 mi",
+      "url": "https://www.google.com/maps/search/KidsEvent+near+61.20902869999999%2C-149.7440186"
+    },
+    {
+      "name": "Shockwave Trampoline Park",
+      "distance": "2.5 mi",
+      "url": "https://www.google.com/maps/search/Shockwave%20Trampoline%20Park+near+61.20902869999999%2C-149.7440186"
+    }
+  ],
+  "hotels": [
+    {
+      "name": "Cozy Family-Friendly Alaskan Home",
+      "distance": "0.1 mi",
+      "url": "https://www.google.com/maps/search/Cozy%20Family-Friendly%20Alaskan%20Home+near+61.20902869999999%2C-149.7440186"
+    },
+    {
+      "name": "Blueberry Cottage - Quaint Cozy Alaskan home",
+      "distance": "0.2 mi",
+      "url": "https://www.google.com/maps/search/Blueberry%20Cottage%20-%20Quaint%20Cozy%20Alaskan%20home+near+61.20902869999999%2C-149.7440186"
+    },
+    {
+      "name": "True North Retreat-open concept, newly remodeled, backyard with fire pit",
+      "distance": "0.4 mi",
+      "url": "https://www.google.com/maps/search/True%20North%20Retreat-open%20concept%2C%20newly%20remodeled%2C%20backyard%20with%20fire%20pit+near+61.20902869999999%2C-149.7440186"
+    },
+    {
+      "name": "True North Retreat-open concept, newly remodeled, backyard with fire pit",
+      "distance": "0.4 mi",
+      "url": "https://www.google.com/maps/search/True%20North%20Retreat-open%20concept%2C%20newly%20remodeled%2C%20backyard%20with%20fire%20pit+near+61.20902869999999%2C-149.7440186"
+    },
+    {
+      "name": "Sweet Caroline w/ Mtn view. Entire Downstairs Unit. Quiet family-friendly",
+      "distance": "0.4 mi",
+      "url": "https://www.google.com/maps/search/Sweet%20Caroline%20w%2F%20Mtn%20view.%20Entire%20Downstairs%20Unit.%20Quiet%20family-friendly+near+61.20902869999999%2C-149.7440186"
+    },
+    {
+      "name": "Peaceful Valley 2",
+      "distance": "0.5 mi",
+      "url": "https://www.google.com/maps/search/Peaceful%20Valley%202+near+61.20902869999999%2C-149.7440186"
+    },
+    {
+      "name": "Quiet Gem, right on a creek. Newley Renovated.",
+      "distance": "0.5 mi",
+      "url": "https://www.google.com/maps/search/Quiet%20Gem%2C%20right%20on%20a%20creek.%20Newley%20Renovated.+near+61.20902869999999%2C-149.7440186"
+    }
+  ],
+  "gas": [
+    {
+      "name": "Fred Meyer Fuel Center",
+      "distance": "0.3 mi",
+      "url": "https://www.google.com/maps/search/Fred%20Meyer%20Fuel%20Center+near+61.20902869999999%2C-149.7440186"
+    },
+    {
+      "name": "Arco",
+      "distance": "0.7 mi",
+      "url": "https://www.google.com/maps/search/Arco+near+61.20902869999999%2C-149.7440186"
+    },
+    {
+      "name": "Chevron Denali Express",
+      "distance": "0.7 mi",
+      "url": "https://www.google.com/maps/search/Chevron%20Denali%20Express+near+61.20902869999999%2C-149.7440186"
+    },
+    {
+      "name": "Circle k",
+      "distance": "0.9 mi",
+      "url": "https://www.google.com/maps/search/Circle%20k+near+61.20902869999999%2C-149.7440186"
+    },
+    {
+      "name": "Circle K Gas Station",
+      "distance": "0.9 mi",
+      "url": "https://www.google.com/maps/search/Circle%20K%20Gas%20Station+near+61.20902869999999%2C-149.7440186"
+    }
+  ]
+}

@@ -1,0 +1,152 @@
+{
+  "quick_bite": [
+    {
+      "name": "Five Guys",
+      "distance": "0.6 mi",
+      "url": "https://www.google.com/maps/search/Five%20Guys+near+38.935316%2C-76.7385037"
+    },
+    {
+      "name": "Chipotle Mexican Grill",
+      "distance": "0.7 mi",
+      "url": "https://www.google.com/maps/search/Chipotle%20Mexican%20Grill+near+38.935316%2C-76.7385037"
+    },
+    {
+      "name": "Noodles and Company",
+      "distance": "0.7 mi",
+      "url": "https://www.google.com/maps/search/Noodles%20and%20Company+near+38.935316%2C-76.7385037"
+    },
+    {
+      "name": "Red Robin Gourmet Burgers and Brews",
+      "distance": "0.7 mi",
+      "url": "https://www.google.com/maps/search/Red%20Robin%20Gourmet%20Burgers%20and%20Brews+near+38.935316%2C-76.7385037"
+    }
+  ],
+  "coffee": [
+    {
+      "name": "Panera Bread",
+      "distance": "0.7 mi",
+      "url": "https://www.google.com/maps/search/Panera%20Bread+near+38.935316%2C-76.7385037"
+    },
+    {
+      "name": "Starbucks Coffee Company",
+      "distance": "0.7 mi",
+      "url": "https://www.google.com/maps/search/Starbucks%20Coffee%20Company+near+38.935316%2C-76.7385037"
+    }
+  ],
+  "team_lunch": [
+    {
+      "name": "Ichiban Sushi Asian Bistro",
+      "distance": "0.5 mi",
+      "url": "https://www.google.com/maps/search/Ichiban%20Sushi%20Asian%20Bistro+near+38.935316%2C-76.7385037"
+    },
+    {
+      "name": "California Tortilla",
+      "distance": "0.5 mi",
+      "url": "https://www.google.com/maps/search/California%20Tortilla+near+38.935316%2C-76.7385037"
+    },
+    {
+      "name": "Simply Acai",
+      "distance": "0.6 mi",
+      "url": "https://www.google.com/maps/search/Simply%20Acai+near+38.935316%2C-76.7385037"
+    },
+    {
+      "name": "Jas & Fam Caribbean Flavor",
+      "distance": "0.6 mi",
+      "url": "https://www.google.com/maps/search/Jas%20%26%20Fam%20Caribbean%20Flavor+near+38.935316%2C-76.7385037"
+    },
+    {
+      "name": "Potbelly",
+      "distance": "0.7 mi",
+      "url": "https://www.google.com/maps/search/Potbelly+near+38.935316%2C-76.7385037"
+    }
+  ],
+  "dinner": [
+    {
+      "name": "Quickway Japanese Hibachi",
+      "distance": "0.6 mi",
+      "url": "https://www.google.com/maps/search/Quickway%20Japanese%20Hibachi+near+38.935316%2C-76.7385037"
+    },
+    {
+      "name": "The Twisted Crab-Bowie",
+      "distance": "0.7 mi",
+      "url": "https://www.google.com/maps/search/The%20Twisted%20Crab-Bowie+near+38.935316%2C-76.7385037"
+    },
+    {
+      "name": "mezeh",
+      "distance": "0.7 mi",
+      "url": "https://www.google.com/maps/search/mezeh+near+38.935316%2C-76.7385037"
+    },
+    {
+      "name": "Spice Kitchen West African Grill",
+      "distance": "0.7 mi",
+      "url": "https://www.google.com/maps/search/Spice%20Kitchen%20West%20African%20Grill+near+38.935316%2C-76.7385037"
+    },
+    {
+      "name": "Sardi's Pollo A La Brasa - Bowie",
+      "distance": "0.7 mi",
+      "url": "https://www.google.com/maps/search/Sardi's%20Pollo%20A%20La%20Brasa%20-%20Bowie+near+38.935316%2C-76.7385037"
+    }
+  ],
+  "bowling": [
+    {
+      "name": "Crofton Bowling Centre",
+      "distance": "4.3 mi",
+      "url": "https://www.google.com/maps/search/Crofton%20Bowling%20Centre+near+38.935316%2C-76.7385037",
+      "isFar": true
+    }
+  ],
+  "arcade": [],
+  "movies": [],
+  "fun": [
+    {
+      "name": "FUNBOX Bounce & Party Center",
+      "distance": "0.5 mi",
+      "url": "https://www.google.com/maps/search/FUNBOX%20Bounce%20%26%20Party%20Center+near+38.935316%2C-76.7385037"
+    },
+    {
+      "name": "All In Adventures Escape Rooms",
+      "distance": "0.6 mi",
+      "url": "https://www.google.com/maps/search/All%20In%20Adventures%20Escape%20Rooms+near+38.935316%2C-76.7385037"
+    },
+    {
+      "name": "Sky Zone Trampoline Park",
+      "distance": "2.1 mi",
+      "url": "https://www.google.com/maps/search/Sky%20Zone%20Trampoline%20Park+near+38.935316%2C-76.7385037"
+    },
+    {
+      "name": "Watkins Antique Carousel, Train & Miniature Golf",
+      "distance": "4.4 mi",
+      "url": "https://www.google.com/maps/search/Watkins%20Antique%20Carousel%2C%20Train%20%26%20Miniature%20Golf+near+38.935316%2C-76.7385037",
+      "isFar": true
+    }
+  ],
+  "hotels": [
+    {
+      "name": "TownePlace Suites by Marriott Bowie Town Center",
+      "distance": "0.4 mi",
+      "url": "https://www.google.com/maps/search/TownePlace%20Suites%20by%20Marriott%20Bowie%20Town%20Center+near+38.935316%2C-76.7385037"
+    },
+    {
+      "name": "Hampton Inn Bowie",
+      "distance": "1.1 mi",
+      "url": "https://www.google.com/maps/search/Hampton%20Inn%20Bowie+near+38.935316%2C-76.7385037"
+    }
+  ],
+  "gas": [
+    {
+      "name": "Exxon",
+      "distance": "1.2 mi",
+      "url": "https://www.google.com/maps/search/Exxon+near+38.935316%2C-76.7385037"
+    },
+    {
+      "name": "Shell",
+      "distance": "1.3 mi",
+      "url": "https://www.google.com/maps/search/Shell+near+38.935316%2C-76.7385037"
+    },
+    {
+      "name": "BJ's Gas Station",
+      "distance": "1.5 mi",
+      "url": "https://www.google.com/maps/search/BJ's%20Gas%20Station+near+38.935316%2C-76.7385037"
+    }
+  ]
+}

@@ -1,0 +1,215 @@
+{
+  "quick_bite": [
+    {
+      "name": "Lilly's Taqueria",
+      "distance": "0.2 mi",
+      "url": "https://www.google.com/maps/search/Lilly's%20Taqueria+near+34.425953%2C-119.87147340000001"
+    },
+    {
+      "name": "On The Alley Goleta",
+      "distance": "0.3 mi",
+      "url": "https://www.google.com/maps/search/On%20The%20Alley%20Goleta+near+34.425953%2C-119.87147340000001"
+    },
+    {
+      "name": "Chipotle Mexican Grill",
+      "distance": "0.3 mi",
+      "url": "https://www.google.com/maps/search/Chipotle%20Mexican%20Grill+near+34.425953%2C-119.87147340000001"
+    },
+    {
+      "name": "Jersey Mike's Subs",
+      "distance": "0.3 mi",
+      "url": "https://www.google.com/maps/search/Jersey%20Mike's%20Subs+near+34.425953%2C-119.87147340000001"
+    },
+    {
+      "name": "It's Just Wings",
+      "distance": "0.3 mi",
+      "url": "https://www.google.com/maps/search/It's%20Just%20Wings+near+34.425953%2C-119.87147340000001"
+    }
+  ],
+  "coffee": [
+    {
+      "name": "Rinkside Cafe",
+      "distance": "0.1 mi",
+      "url": "https://www.google.com/maps/search/Rinkside%20Cafe+near+34.425953%2C-119.87147340000001"
+    },
+    {
+      "name": "McDonald's",
+      "distance": "0.2 mi",
+      "url": "https://www.google.com/maps/search/McDonald's+near+34.425953%2C-119.87147340000001"
+    },
+    {
+      "name": "Natural Cafe",
+      "distance": "0.2 mi",
+      "url": "https://www.google.com/maps/search/Natural%20Cafe+near+34.425953%2C-119.87147340000001"
+    },
+    {
+      "name": "Anna's Marketplace Bakery",
+      "distance": "0.2 mi",
+      "url": "https://www.google.com/maps/search/Anna's%20Marketplace%20Bakery+near+34.425953%2C-119.87147340000001"
+    },
+    {
+      "name": "Starbucks Coffee Company",
+      "distance": "0.3 mi",
+      "url": "https://www.google.com/maps/search/Starbucks%20Coffee%20Company+near+34.425953%2C-119.87147340000001"
+    }
+  ],
+  "team_lunch": [
+    {
+      "name": "Rusty's Pizza Parlo",
+      "distance": "0.2 mi",
+      "url": "https://www.google.com/maps/search/Rusty's%20Pizza%20Parlo+near+34.425953%2C-119.87147340000001"
+    },
+    {
+      "name": "Sushi Ai",
+      "distance": "0.2 mi",
+      "url": "https://www.google.com/maps/search/Sushi%20Ai+near+34.425953%2C-119.87147340000001"
+    },
+    {
+      "name": "Finney's Crafthouse - Goleta",
+      "distance": "0.3 mi",
+      "url": "https://www.google.com/maps/search/Finney's%20Crafthouse%20-%20Goleta+near+34.425953%2C-119.87147340000001"
+    },
+    {
+      "name": "Chili's Grill & Bar",
+      "distance": "0.3 mi",
+      "url": "https://www.google.com/maps/search/Chili's%20Grill%20%26%20Bar+near+34.425953%2C-119.87147340000001"
+    }
+  ],
+  "dinner": [
+    {
+      "name": "Slodoco Donuts",
+      "distance": "0.2 mi",
+      "url": "https://www.google.com/maps/search/Slodoco%20Donuts+near+34.425953%2C-119.87147340000001"
+    },
+    {
+      "name": "Costco Bakery",
+      "distance": "0.2 mi",
+      "url": "https://www.google.com/maps/search/Costco%20Bakery+near+34.425953%2C-119.87147340000001"
+    },
+    {
+      "name": "Jane At The Marketplace",
+      "distance": "0.3 mi",
+      "url": "https://www.google.com/maps/search/Jane%20At%20The%20Marketplace+near+34.425953%2C-119.87147340000001"
+    },
+    {
+      "name": "Los Agaves",
+      "distance": "0.3 mi",
+      "url": "https://www.google.com/maps/search/Los%20Agaves+near+34.425953%2C-119.87147340000001"
+    },
+    {
+      "name": "Ca'Dario Goleta",
+      "distance": "0.3 mi",
+      "url": "https://www.google.com/maps/search/Ca'Dario%20Goleta+near+34.425953%2C-119.87147340000001"
+    }
+  ],
+  "bowling": [
+    {
+      "name": "Bowlero Santa Barbara",
+      "distance": "2.6 mi",
+      "url": "https://www.google.com/maps/search/Bowlero%20Santa%20Barbara+near+34.425953%2C-119.87147340000001"
+    }
+  ],
+  "arcade": [],
+  "movies": [
+    {
+      "name": "Metropolitan Camino Real Cinemas",
+      "distance": "0.2 mi",
+      "url": "https://www.google.com/maps/search/Metropolitan%20Camino%20Real%20Cinemas+near+34.425953%2C-119.87147340000001"
+    },
+    {
+      "name": "Metropolitan Fairview Theatre",
+      "distance": "2.6 mi",
+      "url": "https://www.google.com/maps/search/Metropolitan%20Fairview%20Theatre+near+34.425953%2C-119.87147340000001"
+    },
+    {
+      "name": "The Hitchcock Cinema (Metropolitan Theatres)",
+      "distance": "7.2 mi",
+      "url": "https://www.google.com/maps/search/The%20Hitchcock%20Cinema%20(Metropolitan%20Theatres)+near+34.425953%2C-119.87147340000001",
+      "isFar": true
+    },
+    {
+      "name": "SBIFF Riviera Theatre",
+      "distance": "9.4 mi",
+      "url": "https://www.google.com/maps/search/SBIFF%20Riviera%20Theatre+near+34.425953%2C-119.87147340000001",
+      "isFar": true
+    },
+    {
+      "name": "SBIFF Film Center",
+      "distance": "9.7 mi",
+      "url": "https://www.google.com/maps/search/SBIFF%20Film%20Center+near+34.425953%2C-119.87147340000001",
+      "isFar": true
+    }
+  ],
+  "fun": [
+    {
+      "name": "The House of Clues Escape room games",
+      "distance": "10.0 mi",
+      "url": "https://www.google.com/maps/search/The%20House%20of%20Clues%20Escape%20room%20games+near+34.425953%2C-119.87147340000001",
+      "isFar": true
+    }
+  ],
+  "hotels": [
+    {
+      "name": "Courtyard by Marriott Santa Barbara Goleta",
+      "distance": "0.1 mi",
+      "url": "https://www.google.com/maps/search/Courtyard%20by%20Marriott%20Santa%20Barbara%20Goleta+near+34.425953%2C-119.87147340000001"
+    },
+    {
+      "name": "Hilton Garden Inn Santa Barbara/Goleta",
+      "distance": "0.4 mi",
+      "url": "https://www.google.com/maps/search/Hilton%20Garden%20Inn%20Santa%20Barbara%2FGoleta+near+34.425953%2C-119.87147340000001"
+    },
+    {
+      "name": "Huntington Hotel Group",
+      "distance": "0.4 mi",
+      "url": "https://www.google.com/maps/search/Huntington%20Hotel%20Group+near+34.425953%2C-119.87147340000001"
+    },
+    {
+      "name": "Bird Watcher's Delight Close To Golf And Local Attractions",
+      "distance": "0.4 mi",
+      "url": "https://www.google.com/maps/search/Bird%20Watcher's%20Delight%20Close%20To%20Golf%20And%20Local%20Attractions+near+34.425953%2C-119.87147340000001"
+    },
+    {
+      "name": "APR. MAY SALE! Water views -Sunny 2 BR condo Preserve Retreat",
+      "distance": "0.4 mi",
+      "url": "https://www.google.com/maps/search/APR.%20MAY%20SALE!%20Water%20views%20-Sunny%202%20BR%20condo%20Preserve%20Retreat+near+34.425953%2C-119.87147340000001"
+    },
+    {
+      "name": "Spacious Upper Apartment",
+      "distance": "0.5 mi",
+      "url": "https://www.google.com/maps/search/Spacious%20Upper%20Apartment+near+34.425953%2C-119.87147340000001"
+    },
+    {
+      "name": "Lovely 3-bedroom Coastal Haven • Firepit • Hot Tub • Beach 5 mins",
+      "distance": "0.6 mi",
+      "url": "https://www.google.com/maps/search/Lovely%203-bedroom%20Coastal%20Haven%20%E2%80%A2%20Firepit%20%E2%80%A2%20Hot%20Tub%20%E2%80%A2%20Beach%205%20mins+near+34.425953%2C-119.87147340000001"
+    }
+  ],
+  "gas": [
+    {
+      "name": "Storke Fuel Depot",
+      "distance": "0.1 mi",
+      "url": "https://www.google.com/maps/search/Storke%20Fuel%20Depot+near+34.425953%2C-119.87147340000001"
+    },
+    {
+      "name": "Chevron",
+      "distance": "0.3 mi",
+      "url": "https://www.google.com/maps/search/Chevron+near+34.425953%2C-119.87147340000001"
+    },
+    {
+      "name": "Mobil",
+      "distance": "0.6 mi",
+      "url": "https://www.google.com/maps/search/Mobil+near+34.425953%2C-119.87147340000001"
+    },
+    {
+      "name": "7-Eleven Fuel",
+      "distance": "0.9 mi",
+      "url": "https://www.google.com/maps/search/7-Eleven%20Fuel+near+34.425953%2C-119.87147340000001"
+    },
+    {
+      "name": "76",
+      "distance": "1.7 mi",
+      "url": "https://www.google.com/maps/search/76+near+34.425953%2C-119.87147340000001"
+    }
+  ]
+}

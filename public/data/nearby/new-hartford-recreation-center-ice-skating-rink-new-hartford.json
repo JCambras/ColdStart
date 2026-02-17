@@ -1,0 +1,160 @@
+{
+  "quick_bite": [
+    {
+      "name": "One Genny",
+      "distance": "0.2 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=One%20Genny&query_place_id=ChIJ3xLGDkpB2YkR-fI8RqKTkYU&center=43.0738185,-75.28639059999999"
+    },
+    {
+      "name": "Jimmy John's",
+      "distance": "0.3 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Jimmy%20John's&query_place_id=ChIJgRydGnpB2YkRlVs-e1fOxxY&center=43.074956199999995,-75.2882336"
+    },
+    {
+      "name": "Pizzeria Italia",
+      "distance": "0.5 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Pizzeria%20Italia&query_place_id=ChIJQc9BO0BB2YkRR7Z2vI663lo&center=43.0771794,-75.2806038"
+    },
+    {
+      "name": "SNOWFOX Sushi",
+      "distance": "1.3 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=SNOWFOX%20Sushi&query_place_id=ChIJZfZl2OxD2YkRTIMcmnV-pSo&center=43.0535208,-75.277744"
+    },
+    {
+      "name": "Subway",
+      "distance": "1.3 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Subway&query_place_id=ChIJ_4pt9edD2YkRtOHuP2pzJhY&center=43.0535086,-75.277267"
+    },
+    {
+      "name": "Taco Bell",
+      "distance": "1.6 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Taco%20Bell&query_place_id=ChIJbRWbCl5B2YkR4Olvj42T_FI&center=43.0791992,-75.3152714"
+    }
+  ],
+  "coffee": [
+    {
+      "name": "Daylight Donuts",
+      "distance": "0.2 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Daylight%20Donuts&query_place_id=ChIJRSIaR3pB2YkR5czA0i4gyj0&center=43.0739765,-75.28695739999999"
+    },
+    {
+      "name": "Calabria Coffee",
+      "distance": "0.2 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Calabria%20Coffee&query_place_id=ChIJF8dSqRpB2YkR9zLKHDFRn3g&center=43.0731599,-75.28917849999999"
+    },
+    {
+      "name": "Stride Coffee Roasters",
+      "distance": "0.2 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Stride%20Coffee%20Roasters&query_place_id=ChIJKxd9eQBB2YkRfXSIB9bJnEQ&center=43.0747614,-75.28713400000001"
+    },
+    {
+      "name": "Cafe Ucopia",
+      "distance": "0.6 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Cafe%20Ucopia&query_place_id=ChIJNwPhfwNB2YkRb8JdC1ZjMh0&center=43.0771543,-75.2957992"
+    },
+    {
+      "name": "Salvatore's Italian Bakery & Bagel Shoppe",
+      "distance": "1.5 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Salvatore's%20Italian%20Bakery%20%26%20Bagel%20Shoppe&query_place_id=ChIJvU2NWMJD2YkRPpsDdrp-taE&center=43.0524462,-75.2732089"
+    }
+  ],
+  "team_lunch": [
+    {
+      "name": "Auntie Anne's",
+      "distance": "1.7 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Auntie%20Anne's&query_place_id=ChIJHayTY41B2YkRZ2rIdbBHxXE&center=43.0825344,-75.31565770000002"
+    }
+  ],
+  "dinner": [
+    {
+      "name": "Utica Bread",
+      "distance": "0.2 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Utica%20Bread&query_place_id=ChIJOXoGqSNH2YkR1P1i0tLIjSM&center=43.0730566,-75.2893224"
+    },
+    {
+      "name": "Taj Mahal Halal Indian Restaurant",
+      "distance": "0.2 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Taj%20Mahal%20Halal%20Indian%20Restaurant&query_place_id=ChIJt1EErCNH2YkRvK7kLuC2D_o&center=43.073026,-75.2894676"
+    },
+    {
+      "name": "Cafe CaNole Bakery & Restaurant",
+      "distance": "0.2 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Cafe%20CaNole%20Bakery%20%26%20Restaurant&query_place_id=ChIJ0TggM3pB2YkRZhfc83fLQJY&center=43.0742654,-75.288212"
+    },
+    {
+      "name": "Georgio's Village Cafe",
+      "distance": "0.2 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Georgio's%20Village%20Cafe&query_place_id=ChIJyY2n1ntB2YkReBjZ9KsnwCA&center=43.073039699999995,-75.2896295"
+    },
+    {
+      "name": "The Beer Hub",
+      "distance": "0.4 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=The%20Beer%20Hub&query_place_id=ChIJI3vsizlB2YkRAhPFwye6b0E&center=43.076772899999995,-75.28031299999999"
+    },
+    {
+      "name": "El Senor Tequila Grill and Bar",
+      "distance": "0.6 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=El%20Senor%20Tequila%20Grill%20and%20Bar&query_place_id=ChIJb7CNnmNB2YkRqvXXQpU7ohM&center=43.078370199999995,-75.2926098"
+    }
+  ],
+  "bowling": [
+    {
+      "name": "Vista Lanes Bowling Center",
+      "distance": "3.0 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Vista%20Lanes%20Bowling%20Center&query_place_id=ChIJJ1i1K-9A2YkRjY6A-VAityE&center=43.1143098,-75.2773936"
+    }
+  ],
+  "arcade": [],
+  "movies": [
+    {
+      "name": "Marquee Cinema - New Hartford, NY",
+      "distance": "2.0 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Marquee%20Cinema%20-%20New%20Hartford%2C%20NY&query_place_id=ChIJGRfTwb5B2YkR2FWEIFONV8w&center=43.0923935,-75.3142474"
+    }
+  ],
+  "fun": [
+    {
+      "name": "RAGE-N-RELAX",
+      "distance": "0.2 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=RAGE-N-RELAX&query_place_id=ChIJaSSV4Fs12YkRtCS6qg88hq0&center=43.0748014,-75.28718769999999"
+    },
+    {
+      "name": "The Family Fun Factory",
+      "distance": "0.6 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=The%20Family%20Fun%20Factory&query_place_id=ChIJ2eSGysRD2YkRzGYzzIVGYL4&center=43.077849799999996,-75.2932024"
+    },
+    {
+      "name": "Billy Beez Sangertown Square",
+      "distance": "1.7 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Billy%20Beez%20Sangertown%20Square&query_place_id=ChIJ-REcDpNB2YkRCQN8ttHi0go&center=43.0832001,-75.3150348"
+    },
+    {
+      "name": "Get Air Trampoline Park",
+      "distance": "2.0 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Get%20Air%20Trampoline%20Park&query_place_id=ChIJE0dw2W5B2YkR3Hmb9anslho&center=43.0854299,-75.3207785"
+    }
+  ],
+  "hotels": [],
+  "gas": [
+    {
+      "name": "Citgo",
+      "distance": "0.1 mi",
+      "url": "https://www.google.com/maps/search/Citgo+near+43.0716453%2C-75.2855404"
+    },
+    {
+      "name": "Byrne Dairy and Deli",
+      "distance": "0.3 mi",
+      "url": "https://www.google.com/maps/search/Byrne%20Dairy%20and%20Deli+near+43.0716453%2C-75.2855404"
+    },
+    {
+      "name": "Speedway",
+      "distance": "0.5 mi",
+      "url": "https://www.google.com/maps/search/Speedway+near+43.0716453%2C-75.2855404"
+    },
+    {
+      "name": "Stewart's Shops",
+      "distance": "0.5 mi",
+      "url": "https://www.google.com/maps/search/Stewart's%20Shops+near+43.0716453%2C-75.2855404"
+    }
+  ]
+}

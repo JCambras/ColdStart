@@ -1,0 +1,230 @@
+{
+  "quick_bite": [
+    {
+      "name": "Subway",
+      "distance": "0.5 mi",
+      "url": "https://www.google.com/maps/search/Subway+near+44.6601767%2C-93.2583765"
+    },
+    {
+      "name": "Papa Murphy's | Take 'N' Bake Pizza",
+      "distance": "0.5 mi",
+      "url": "https://www.google.com/maps/search/Papa%20Murphy's%20%7C%20Take%20'N'%20Bake%20Pizza+near+44.6601767%2C-93.2583765"
+    },
+    {
+      "name": "Toppers Pizza",
+      "distance": "1.1 mi",
+      "url": "https://www.google.com/maps/search/Toppers%20Pizza+near+44.6601767%2C-93.2583765"
+    },
+    {
+      "name": "Chuck E. Cheese",
+      "distance": "6.0 mi",
+      "url": "https://www.google.com/maps/search/Chuck%20E.%20Cheese+near+44.6601767%2C-93.2583765",
+      "isFar": true
+    }
+  ],
+  "coffee": [
+    {
+      "name": "McDonald's",
+      "distance": "0.3 mi",
+      "url": "https://www.google.com/maps/search/McDonald's+near+44.6601767%2C-93.2583765"
+    },
+    {
+      "name": "Tapestry Coffee",
+      "distance": "1.1 mi",
+      "url": "https://www.google.com/maps/search/Tapestry%20Coffee+near+44.6601767%2C-93.2583765"
+    },
+    {
+      "name": "Aatrox cafe",
+      "distance": "1.4 mi",
+      "url": "https://www.google.com/maps/search/Aatrox%20cafe+near+44.6601767%2C-93.2583765"
+    },
+    {
+      "name": "Buckboard",
+      "distance": "1.5 mi",
+      "url": "https://www.google.com/maps/search/Buckboard+near+44.6601767%2C-93.2583765"
+    },
+    {
+      "name": "Life Cafe",
+      "distance": "1.6 mi",
+      "url": "https://www.google.com/maps/search/Life%20Cafe+near+44.6601767%2C-93.2583765"
+    }
+  ],
+  "team_lunch": [
+    {
+      "name": "LBC on the Lake",
+      "distance": "0.3 mi",
+      "url": "https://www.google.com/maps/search/LBC%20on%20the%20Lake+near+44.6601767%2C-93.2583765"
+    },
+    {
+      "name": "Babe's Hometown Bar",
+      "distance": "1.0 mi",
+      "url": "https://www.google.com/maps/search/Babe's%20Hometown%20Bar+near+44.6601767%2C-93.2583765"
+    },
+    {
+      "name": "Sawa japan",
+      "distance": "1.1 mi",
+      "url": "https://www.google.com/maps/search/Sawa%20japan+near+44.6601767%2C-93.2583765"
+    }
+  ],
+  "dinner": [
+    {
+      "name": "Teresa's Mexican Restaurant",
+      "distance": "0.5 mi",
+      "url": "https://www.google.com/maps/search/Teresa's%20Mexican%20Restaurant+near+44.6601767%2C-93.2583765"
+    },
+    {
+      "name": "B-52 Burgers and Brew Lakeville",
+      "distance": "1.1 mi",
+      "url": "https://www.google.com/maps/search/B-52%20Burgers%20and%20Brew%20Lakeville+near+44.6601767%2C-93.2583765"
+    },
+    {
+      "name": "Lakeville Brewing Company",
+      "distance": "1.1 mi",
+      "url": "https://www.google.com/maps/search/Lakeville%20Brewing%20Company+near+44.6601767%2C-93.2583765"
+    },
+    {
+      "name": "The Better Half",
+      "distance": "1.2 mi",
+      "url": "https://www.google.com/maps/search/The%20Better%20Half+near+44.6601767%2C-93.2583765"
+    },
+    {
+      "name": "Baldy's BBQ",
+      "distance": "1.2 mi",
+      "url": "https://www.google.com/maps/search/Baldy's%20BBQ+near+44.6601767%2C-93.2583765"
+    },
+    {
+      "name": "Lions Beer Garden @ Lakeville's Pan-O-Prog",
+      "distance": "1.3 mi",
+      "url": "https://www.google.com/maps/search/Lions%20Beer%20Garden%20%40%20Lakeville's%20Pan-O-Prog+near+44.6601767%2C-93.2583765"
+    },
+    {
+      "name": "Farmer’s Grandson Eatery – Multi-Concept Dining in Lakeville",
+      "distance": "1.5 mi",
+      "url": "https://www.google.com/maps/search/Farmer%E2%80%99s%20Grandson%20Eatery%20%E2%80%93%20Multi-Concept%20Dining%20in%20Lakeville+near+44.6601767%2C-93.2583765"
+    }
+  ],
+  "bowling": [
+    {
+      "name": "Lucky Strike Lakeville",
+      "distance": "4.1 mi",
+      "url": "https://www.google.com/maps/search/Lucky%20Strike%20Lakeville+near+44.6601767%2C-93.2583765",
+      "isFar": true
+    },
+    {
+      "name": "Apple Place Bowl",
+      "distance": "5.6 mi",
+      "url": "https://www.google.com/maps/search/Apple%20Place%20Bowl+near+44.6601767%2C-93.2583765",
+      "isFar": true
+    },
+    {
+      "name": "Farmington Lanes",
+      "distance": "5.9 mi",
+      "url": "https://www.google.com/maps/search/Farmington%20Lanes+near+44.6601767%2C-93.2583765",
+      "isFar": true
+    }
+  ],
+  "arcade": [],
+  "movies": [
+    {
+      "name": "Emagine Lakeville",
+      "distance": "2.2 mi",
+      "url": "https://www.google.com/maps/search/Emagine%20Lakeville+near+44.6601767%2C-93.2583765"
+    }
+  ],
+  "fun": [
+    {
+      "name": "Urban Air Trampoline and Adventure Park",
+      "distance": "5.1 mi",
+      "url": "https://www.google.com/maps/search/Urban%20Air%20Trampoline%20and%20Adventure%20Park+near+44.6601767%2C-93.2583765",
+      "isFar": true
+    },
+    {
+      "name": "Big Air Burnsville",
+      "distance": "5.8 mi",
+      "url": "https://www.google.com/maps/search/Big%20Air%20Burnsville+near+44.6601767%2C-93.2583765",
+      "isFar": true
+    },
+    {
+      "name": "Escapology Escape Rooms Burnsville",
+      "distance": "5.9 mi",
+      "url": "https://www.google.com/maps/search/Escapology%20Escape%20Rooms%20Burnsville+near+44.6601767%2C-93.2583765",
+      "isFar": true
+    },
+    {
+      "name": "Splash Valley Water Park",
+      "distance": "6.5 mi",
+      "url": "https://www.google.com/maps/search/Splash%20Valley%20Water%20Park+near+44.6601767%2C-93.2583765",
+      "isFar": true
+    },
+    {
+      "name": "WreckIt Rage Room",
+      "distance": "6.9 mi",
+      "url": "https://www.google.com/maps/search/WreckIt%20Rage%20Room+near+44.6601767%2C-93.2583765",
+      "isFar": true
+    }
+  ],
+  "hotels": [
+    {
+      "name": "Lakeville Executive Home with every amenity, prime location - Four-Bedroom House",
+      "distance": "0.3 mi",
+      "url": "https://www.google.com/maps/search/Lakeville%20Executive%20Home%20with%20every%20amenity%2C%20prime%20location%20-%20Four-Bedroom%20House+near+44.6601767%2C-93.2583765"
+    },
+    {
+      "name": "Executive Home with every amenity, prime location",
+      "distance": "0.5 mi",
+      "url": "https://www.google.com/maps/search/Executive%20Home%20with%20every%20amenity%2C%20prime%20location+near+44.6601767%2C-93.2583765"
+    },
+    {
+      "name": "Executive Home with every amenity, prime location",
+      "distance": "0.5 mi",
+      "url": "https://www.google.com/maps/search/Executive%20Home%20with%20every%20amenity%2C%20prime%20location+near+44.6601767%2C-93.2583765"
+    },
+    {
+      "name": "Executive Home with every amenity, prime location",
+      "distance": "0.5 mi",
+      "url": "https://www.google.com/maps/search/Executive%20Home%20with%20every%20amenity%2C%20prime%20location+near+44.6601767%2C-93.2583765"
+    },
+    {
+      "name": "New Luxury Home With Huge Wet Bar Ready for Super Bowl LII",
+      "distance": "1.4 mi",
+      "url": "https://www.google.com/maps/search/New%20Luxury%20Home%20With%20Huge%20Wet%20Bar%20Ready%20for%20Super%20Bowl%20LII+near+44.6601767%2C-93.2583765"
+    },
+    {
+      "name": "New Luxury Home With Huge Wet Bar Ready for Super Bowl LII",
+      "distance": "1.4 mi",
+      "url": "https://www.google.com/maps/search/New%20Luxury%20Home%20With%20Huge%20Wet%20Bar%20Ready%20for%20Super%20Bowl%20LII+near+44.6601767%2C-93.2583765"
+    },
+    {
+      "name": "Holiday Inn & Suites Minneapolis - Lakeville by IHG",
+      "distance": "1.9 mi",
+      "url": "https://www.google.com/maps/search/Holiday%20Inn%20%26%20Suites%20Minneapolis%20-%20Lakeville%20by%20IHG+near+44.6601767%2C-93.2583765"
+    }
+  ],
+  "gas": [
+    {
+      "name": "Speedway",
+      "distance": "0.4 mi",
+      "url": "https://www.google.com/maps/search/Speedway+near+44.6601767%2C-93.2583765"
+    },
+    {
+      "name": "River Country Co-Op",
+      "distance": "0.4 mi",
+      "url": "https://www.google.com/maps/search/River%20Country%20Co-Op+near+44.6601767%2C-93.2583765"
+    },
+    {
+      "name": "Amoco",
+      "distance": "1.5 mi",
+      "url": "https://www.google.com/maps/search/Amoco+near+44.6601767%2C-93.2583765"
+    },
+    {
+      "name": "Speedway",
+      "distance": "2.0 mi",
+      "url": "https://www.google.com/maps/search/Speedway+near+44.6601767%2C-93.2583765"
+    },
+    {
+      "name": "Holiday Truck Stop",
+      "distance": "2.0 mi",
+      "url": "https://www.google.com/maps/search/Holiday%20Truck%20Stop+near+44.6601767%2C-93.2583765"
+    }
+  ]
+}

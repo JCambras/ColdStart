@@ -1,0 +1,206 @@
+{
+  "quick_bite": [
+    {
+      "name": "Subway",
+      "distance": "0.1 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Subway&query_place_id=ChIJiVCSWEftwokRHBd-CePwtwU&center=40.953437,-73.857767"
+    },
+    {
+      "name": "George's Luncheonette",
+      "distance": "0.6 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=George's%20Luncheonette&query_place_id=ChIJf-6ws2ntwokRPwbiE1avWGo&center=40.9481509,-73.86749689999999"
+    },
+    {
+      "name": "Famous Peppino’s Pizza",
+      "distance": "0.6 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Famous%20Peppino%E2%80%99s%20Pizza&query_place_id=ChIJxzWGmTXtwokRNfhFc3bse6s&center=40.953344,-73.84543889999999"
+    },
+    {
+      "name": "Market Sandwich",
+      "distance": "0.8 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Market%20Sandwich&query_place_id=ChIJOXqdd7rtwokR2nZUsdvPyIw&center=40.9631326,-73.85587360000001"
+    },
+    {
+      "name": "Angel's Hotdogs 2",
+      "distance": "0.8 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Angel's%20Hotdogs%202&query_place_id=ChIJ0WlYY6PtwokR0wZ2dhHp4zI&center=40.94133,-73.8526289"
+    },
+    {
+      "name": "Chuck E. Cheese",
+      "distance": "0.8 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Chuck%20E.%20Cheese&query_place_id=ChIJ3-4_KAztwokR7J14YEpSxLk&center=40.9578519,-73.843285"
+    }
+  ],
+  "coffee": [
+    {
+      "name": "Waffle Box food truck & Rink Side Café",
+      "distance": "0.1 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Waffle%20Box%20food%20truck%20%26%20Rink%20Side%20Caf%C3%A9&query_place_id=ChIJeSQXMUPtwokRB2rVPp_lKe4&center=40.95219000000001,-73.857062"
+    },
+    {
+      "name": "Dunkin'",
+      "distance": "0.5 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Dunkin'&query_place_id=ChIJGTVTAkDtwokRkV0Noqm_uUM&center=40.954716499999996,-73.8654311"
+    },
+    {
+      "name": "TOASTY SANDWICH SHOP",
+      "distance": "0.8 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=TOASTY%20SANDWICH%20SHOP&query_place_id=ChIJY50vNoztwokRqSiFwkXOzPo&center=40.947981399999996,-73.87083179999999"
+    },
+    {
+      "name": "Paris Baguette",
+      "distance": "0.9 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Paris%20Baguette&query_place_id=ChIJC51NBgDtwokRBoy9A8Dq6KU&center=40.960315900000005,-73.84296499999999"
+    }
+  ],
+  "team_lunch": [
+    {
+      "name": "Twin Donuts Inc",
+      "distance": "0.3 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Twin%20Donuts%20Inc&query_place_id=ChIJ0-NfzzftwokR6CJnnPiSHqQ&center=40.9540353,-73.8516169"
+    },
+    {
+      "name": "Kim Wei Kitchens",
+      "distance": "0.5 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Kim%20Wei%20Kitchens&query_place_id=ChIJGTVTAkDtwokRw7QNbnl3LGA&center=40.9548853,-73.8656592"
+    },
+    {
+      "name": "Wingstop",
+      "distance": "0.5 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Wingstop&query_place_id=ChIJq3GA7o7twokRMM18-tZ98CI&center=40.954986999999996,-73.86568059999999"
+    },
+    {
+      "name": "Lee's Kitchen",
+      "distance": "0.6 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Lee's%20Kitchen&query_place_id=ChIJyyHDljXtwokRmyPBrRg4rR4&center=40.9534543,-73.8458172"
+    },
+    {
+      "name": "L & T Chinese Kitchen",
+      "distance": "0.6 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=L%20%26%20T%20Chinese%20Kitchen&query_place_id=ChIJUba6ljXtwokRE6eFRyvGFVM&center=40.9533353,-73.84571989999999"
+    },
+    {
+      "name": "LUCKY WAY KITCHEN",
+      "distance": "0.6 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=LUCKY%20WAY%20KITCHEN&query_place_id=ChIJ8V7rrGntwokRtmv7nv0KK8A&center=40.948254,-73.8678355"
+    }
+  ],
+  "dinner": [
+    {
+      "name": "Grassy Sprain Diner",
+      "distance": "0.3 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Grassy%20Sprain%20Diner&query_place_id=ChIJ2U2-1zftwokR3jXvc5eRkfM&center=40.953383300000006,-73.8513723"
+    },
+    {
+      "name": "Aroma Trattoria",
+      "distance": "0.4 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Aroma%20Trattoria&query_place_id=ChIJiVCSWEftwokRSs2Ajb3SaNg&center=40.9554974,-73.8631553"
+    },
+    {
+      "name": "Roma II Pizza",
+      "distance": "0.6 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Roma%20II%20Pizza&query_place_id=ChIJ8V7rrGntwokRqXTXBvO4DBE&center=40.948250699999996,-73.8679677"
+    },
+    {
+      "name": "Yonkers Pizza",
+      "distance": "0.6 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Yonkers%20Pizza&query_place_id=ChIJCWZjJ9-SwokRlNWH_QqnUfU&center=40.9614805,-73.8563623"
+    },
+    {
+      "name": "Carolina's Desserts",
+      "distance": "0.7 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Carolina's%20Desserts&query_place_id=ChIJTxbth0rtwokRJJaBfDdjLl4&center=40.9524855,-73.84348000000001"
+    },
+    {
+      "name": "Chikies Creationz LLC",
+      "distance": "0.8 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Chikies%20Creationz%20LLC&query_place_id=ChIJ-3OdmwztwokRS7yQsQmUgM0&center=40.9622914,-73.8634455"
+    }
+  ],
+  "bowling": [
+    {
+      "name": "Homefield Bowl",
+      "distance": "1.2 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Homefield%20Bowl&query_place_id=ChIJ49a9wxntwokRSzuxa0KuzFg&center=40.967079,-73.869236"
+    },
+    {
+      "name": "New Paradise Lanes",
+      "distance": "2.1 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=New%20Paradise%20Lanes&query_place_id=ChIJmQJevL3ywokRgEoFgH_4i30&center=40.9221405,-73.8637418"
+    }
+  ],
+  "arcade": [],
+  "movies": [
+    {
+      "name": "Showcase Cinema de Lux Ridge Hill",
+      "distance": "1.0 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Showcase%20Cinema%20de%20Lux%20Ridge%20Hill&query_place_id=ChIJR5XlqSXtwokRPRcSXAELeCU&center=40.9668357,-73.85699079999999"
+    },
+    {
+      "name": "The Picture House - Bronxville",
+      "distance": "1.4 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=The%20Picture%20House%20-%20Bronxville&query_place_id=ChIJCeARPa6SwokRIO_Mxsq6OME&center=40.9402787,-73.8343795"
+    },
+    {
+      "name": "Showcase Cinema de Lux Cross County",
+      "distance": "1.9 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Showcase%20Cinema%20de%20Lux%20Cross%20County&query_place_id=ChIJJfyJeqXywokRZaYjMI1gJdo&center=40.9248688,-73.8544982"
+    }
+  ],
+  "fun": [
+    {
+      "name": "Sky Zone Trampoline Park",
+      "distance": "1.0 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Sky%20Zone%20Trampoline%20Park&query_place_id=ChIJMzj1_CTtwokRvdqI38FQpvQ&center=40.966184,-73.857327"
+    },
+    {
+      "name": "LEGOLAND® Discovery Center Westchester",
+      "distance": "1.0 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=LEGOLAND%C2%AE%20Discovery%20Center%20Westchester&query_place_id=ChIJM1vyBiXtwokRbUfHdGsOwJc&center=40.966834,-73.85681679999999"
+    },
+    {
+      "name": "FUNBOX YONKERS",
+      "distance": "1.6 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=FUNBOX%20YONKERS&query_place_id=ChIJW6X5ewfzwokRtRw-VkvDkzY&center=40.9294902,-73.8530038"
+    },
+    {
+      "name": "Slide City Waterpark",
+      "distance": "1.7 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Slide%20City%20Waterpark&query_place_id=ChIJfT8vlXfzwokRvZbZCaEWtOg&center=40.9281936,-73.85441999999999"
+    }
+  ],
+  "hotels": [
+    {
+      "name": "Hampton Inn & Suites Yonkers - Westchester",
+      "distance": "0.4 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Hampton%20Inn%20%26%20Suites%20Yonkers%20-%20Westchester&query_place_id=ChIJC-KQOTbtwokRIOXwvOiAMfs&center=40.9545983,-73.84996629999999"
+    },
+    {
+      "name": "Hilltop Inn & Suites Yonkers",
+      "distance": "0.5 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Hilltop%20Inn%20%26%20Suites%20Yonkers&query_place_id=ChIJawvbDkDtwokRtOhb-1EJFh8&center=40.9558864,-73.8647847"
+    }
+  ],
+  "gas": [
+    {
+      "name": "Mobil",
+      "distance": "0.4 mi",
+      "url": "https://www.google.com/maps/search/Mobil+near+40.9521553%2C-73.857068"
+    },
+    {
+      "name": "Gulf",
+      "distance": "0.4 mi",
+      "url": "https://www.google.com/maps/search/Gulf+near+40.9521553%2C-73.857068"
+    },
+    {
+      "name": "Mano's Mart",
+      "distance": "0.4 mi",
+      "url": "https://www.google.com/maps/search/Mano's%20Mart+near+40.9521553%2C-73.857068"
+    },
+    {
+      "name": "Vinnie's Citgo",
+      "distance": "0.4 mi",
+      "url": "https://www.google.com/maps/search/Vinnie's%20Citgo+near+40.9521553%2C-73.857068"
+    }
+  ]
+}

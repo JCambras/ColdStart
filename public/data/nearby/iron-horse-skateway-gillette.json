@@ -1,0 +1,184 @@
+{
+  "quick_bite": [
+    {
+      "name": "Snack Bar",
+      "distance": "0.3 mi",
+      "url": "https://www.google.com/maps/search/Snack%20Bar+near+44.302940299999996%2C-105.50656889999999"
+    },
+    {
+      "name": "Hardee's",
+      "distance": "0.9 mi",
+      "url": "https://www.google.com/maps/search/Hardee's+near+44.302940299999996%2C-105.50656889999999"
+    },
+    {
+      "name": "Trailer Birds",
+      "distance": "1.0 mi",
+      "url": "https://www.google.com/maps/search/Trailer%20Birds+near+44.302940299999996%2C-105.50656889999999"
+    }
+  ],
+  "coffee": [
+    {
+      "name": "The Commodore Cafe",
+      "distance": "0.7 mi",
+      "url": "https://www.google.com/maps/search/The%20Commodore%20Cafe+near+44.302940299999996%2C-105.50656889999999"
+    },
+    {
+      "name": "The Local",
+      "distance": "0.8 mi",
+      "url": "https://www.google.com/maps/search/The%20Local+near+44.302940299999996%2C-105.50656889999999"
+    }
+  ],
+  "team_lunch": [
+    {
+      "name": "Debars",
+      "distance": "0.7 mi",
+      "url": "https://www.google.com/maps/search/Debars+near+44.302940299999996%2C-105.50656889999999"
+    },
+    {
+      "name": "Don Chino Asian Street Food",
+      "distance": "0.7 mi",
+      "url": "https://www.google.com/maps/search/Don%20Chino%20Asian%20Street%20Food+near+44.302940299999996%2C-105.50656889999999"
+    },
+    {
+      "name": "Tacos Mexico Gillette",
+      "distance": "0.7 mi",
+      "url": "https://www.google.com/maps/search/Tacos%20Mexico%20Gillette+near+44.302940299999996%2C-105.50656889999999"
+    }
+  ],
+  "dinner": [
+    {
+      "name": "Lula Belle Cafe",
+      "distance": "0.6 mi",
+      "url": "https://www.google.com/maps/search/Lula%20Belle%20Cafe+near+44.302940299999996%2C-105.50656889999999"
+    },
+    {
+      "name": "Ranch and Roost",
+      "distance": "0.6 mi",
+      "url": "https://www.google.com/maps/search/Ranch%20and%20Roost+near+44.302940299999996%2C-105.50656889999999"
+    },
+    {
+      "name": "Momma Johna's Cakes",
+      "distance": "0.7 mi",
+      "url": "https://www.google.com/maps/search/Momma%20Johna's%20Cakes+near+44.302940299999996%2C-105.50656889999999"
+    },
+    {
+      "name": "The Railyard - Gillette",
+      "distance": "0.7 mi",
+      "url": "https://www.google.com/maps/search/The%20Railyard%20-%20Gillette+near+44.302940299999996%2C-105.50656889999999"
+    },
+    {
+      "name": "The Coop",
+      "distance": "0.7 mi",
+      "url": "https://www.google.com/maps/search/The%20Coop+near+44.302940299999996%2C-105.50656889999999"
+    },
+    {
+      "name": "El Changero",
+      "distance": "0.7 mi",
+      "url": "https://www.google.com/maps/search/El%20Changero+near+44.302940299999996%2C-105.50656889999999"
+    },
+    {
+      "name": "Breanna's Bakery",
+      "distance": "0.7 mi",
+      "url": "https://www.google.com/maps/search/Breanna's%20Bakery+near+44.302940299999996%2C-105.50656889999999"
+    }
+  ],
+  "bowling": [
+    {
+      "name": "Camelanes Bowling Center",
+      "distance": "0.9 mi",
+      "url": "https://www.google.com/maps/search/Camelanes%20Bowling%20Center+near+44.302940299999996%2C-105.50656889999999"
+    }
+  ],
+  "arcade": [],
+  "movies": [
+    {
+      "name": "Studio City Foothills Cinemas",
+      "distance": "1.1 mi",
+      "url": "https://www.google.com/maps/search/Studio%20City%20Foothills%20Cinemas+near+44.302940299999996%2C-105.50656889999999"
+    }
+  ],
+  "fun": [
+    {
+      "name": "Splash Pad",
+      "distance": "3.1 mi",
+      "url": "https://www.google.com/maps/search/Splash%20Pad+near+44.302940299999996%2C-105.50656889999999",
+      "isFar": true
+    },
+    {
+      "name": "Flight Zone",
+      "distance": "3.7 mi",
+      "url": "https://www.google.com/maps/search/Flight%20Zone+near+44.302940299999996%2C-105.50656889999999",
+      "isFar": true
+    },
+    {
+      "name": "The Axe House",
+      "distance": "4.0 mi",
+      "url": "https://www.google.com/maps/search/The%20Axe%20House+near+44.302940299999996%2C-105.50656889999999",
+      "isFar": true
+    }
+  ],
+  "hotels": [
+    {
+      "name": "Lakeview Mobile Home Park",
+      "distance": "0.2 mi",
+      "url": "https://www.google.com/maps/search/Lakeview%20Mobile%20Home%20Park+near+44.302940299999996%2C-105.50656889999999"
+    },
+    {
+      "name": "Lakeside Mobile Home Park",
+      "distance": "0.2 mi",
+      "url": "https://www.google.com/maps/search/Lakeside%20Mobile%20Home%20Park+near+44.302940299999996%2C-105.50656889999999"
+    },
+    {
+      "name": "Single-Story Gillette Home Walk to Lake and Trails! - Holiday Home",
+      "distance": "0.7 mi",
+      "url": "https://www.google.com/maps/search/Single-Story%20Gillette%20Home%20Walk%20to%20Lake%20and%20Trails!%20-%20Holiday%20Home+near+44.302940299999996%2C-105.50656889999999"
+    },
+    {
+      "name": "Frontier Vintage Station",
+      "distance": "0.7 mi",
+      "url": "https://www.google.com/maps/search/Frontier%20Vintage%20Station+near+44.302940299999996%2C-105.50656889999999"
+    },
+    {
+      "name": "Middle down town Gillette close to CCMH and legacy senior center",
+      "distance": "0.7 mi",
+      "url": "https://www.google.com/maps/search/Middle%20down%20town%20Gillette%20close%20to%20CCMH%20and%20legacy%20senior%20center+near+44.302940299999996%2C-105.50656889999999"
+    },
+    {
+      "name": "Cozy One Bedroom Cottage Getaway!",
+      "distance": "0.7 mi",
+      "url": "https://www.google.com/maps/search/Cozy%20One%20Bedroom%20Cottage%20Getaway!+near+44.302940299999996%2C-105.50656889999999"
+    },
+    {
+      "name": "Wyoming Haven 5 bdrm 2 bath- 5 Mins from Downtown - Five-Bedroom House",
+      "distance": "0.7 mi",
+      "url": "https://www.google.com/maps/search/Wyoming%20Haven%205%20bdrm%202%20bath-%205%20Mins%20from%20Downtown%20-%20Five-Bedroom%20House+near+44.302940299999996%2C-105.50656889999999"
+    }
+  ],
+  "gas": [
+    {
+      "name": "Sinclair Gas Station",
+      "distance": "0.9 mi",
+      "url": "https://www.google.com/maps/search/Sinclair%20Gas%20Station+near+44.302940299999996%2C-105.50656889999999"
+    },
+    {
+      "name": "Sinclair Gas Station",
+      "distance": "1.0 mi",
+      "url": "https://www.google.com/maps/search/Sinclair%20Gas%20Station+near+44.302940299999996%2C-105.50656889999999"
+    },
+    {
+      "name": "Big D Oil 37",
+      "distance": "1.0 mi",
+      "url": "https://www.google.com/maps/search/Big%20D%20Oil%2037+near+44.302940299999996%2C-105.50656889999999"
+    },
+    {
+      "name": "Smith's Fuel Center",
+      "distance": "1.0 mi",
+      "url": "https://www.google.com/maps/search/Smith's%20Fuel%20Center+near+44.302940299999996%2C-105.50656889999999"
+    },
+    {
+      "name": "Shell Food Mart – Hwy 14–16",
+      "distance": "1.2 mi",
+      "url": "https://www.google.com/maps/search/Shell%20Food%20Mart%20%E2%80%93%20Hwy%2014%E2%80%9316+near+44.302940299999996%2C-105.50656889999999"
+    }
+  ]
+}

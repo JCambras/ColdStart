@@ -1,0 +1,189 @@
+{
+  "quick_bite": [
+    {
+      "name": "Mark's Pizzeria",
+      "distance": "1.9 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Mark's%20Pizzeria&query_place_id=ChIJtzWp6_Ey0YkRoS3d4DqW_SQ&center=43.0648525,-77.4082682"
+    },
+    {
+      "name": "Tk's Pizzeria",
+      "distance": "2.1 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Tk's%20Pizzeria&query_place_id=ChIJu-V-PszM1okRlSEO9Q_YL3U&center=43.101722099999996,-77.4399403"
+    },
+    {
+      "name": "Salvatore's Old Fashioned Pizzeria",
+      "distance": "2.1 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Salvatore's%20Old%20Fashioned%20Pizzeria&query_place_id=ChIJXwWjfMvM1okRmSIfryBTMZ0&center=43.1000462,-77.4416651"
+    },
+    {
+      "name": "China King",
+      "distance": "2.1 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=China%20King&query_place_id=ChIJo7mSgcvM1okRmuak0d-fY1I&center=43.1008487,-77.4414477"
+    },
+    {
+      "name": "Wendy's",
+      "distance": "2.5 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Wendy's&query_place_id=ChIJTazJzxMz0YkRvw1qradFlMg&center=43.0718465,-77.443032"
+    },
+    {
+      "name": "Taco Bell",
+      "distance": "2.7 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Taco%20Bell&query_place_id=ChIJURgaa1cz0YkREZdbxPtT61I&center=43.068796999999996,-77.44447459999999"
+    }
+  ],
+  "coffee": [
+    {
+      "name": "Starbucks Coffee Company",
+      "distance": "2.1 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Starbucks%20Coffee%20Company&query_place_id=ChIJIwiK9ZHN1okRGu-iSHCxejo&center=43.09982,-77.44212999999999"
+    },
+    {
+      "name": "Bruegger's Bagels",
+      "distance": "2.6 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Bruegger's%20Bagels&query_place_id=ChIJz8nPDxIz0YkRVX1-s4LZ9MM&center=43.0708962,-77.4435486"
+    },
+    {
+      "name": "Bruegger's Bagels",
+      "distance": "4.4 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Bruegger's%20Bagels&query_place_id=ChIJM680J3w00YkRKmoKsOgHfk8&center=43.0605968,-77.4759346",
+      "isFar": true
+    }
+  ],
+  "team_lunch": [
+    {
+      "name": "Great American Wing Co.",
+      "distance": "0.1 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Great%20American%20Wing%20Co.&query_place_id=ChIJYZ3vRwAz0YkRIj0l3UWeqV0&center=43.091556499999996,-77.40055799999999"
+    },
+    {
+      "name": "Beyond the Loaf",
+      "distance": "1.8 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Beyond%20the%20Loaf&query_place_id=ChIJb9n1eccz0YkR_IIPk3tn4G8&center=43.0723626,-77.42398709999999"
+    },
+    {
+      "name": "Golden Phoenix",
+      "distance": "2.0 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Golden%20Phoenix&query_place_id=ChIJCy-jjvoy0YkRoVB0gWjVm5s&center=43.064635599999995,-77.41391229999999"
+    },
+    {
+      "name": "Bonnie & Clyde",
+      "distance": "2.1 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Bonnie%20%26%20Clyde&query_place_id=ChIJ456HWgDN1okRpbBKr7320HU&center=43.099948000000005,-77.4422915"
+    },
+    {
+      "name": "Tita's Little Bakehouse",
+      "distance": "3.1 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Tita's%20Little%20Bakehouse&query_place_id=ChIJ0yzUSksz0YkRhTbgrF8vLCs&center=43.0637147,-77.44832559999999",
+      "isFar": true
+    },
+    {
+      "name": "Sugar Art by Laura",
+      "distance": "3.3 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Sugar%20Art%20by%20Laura&query_place_id=ChIJuXT8wjbmUUIRg9JS2ghT37A&center=43.0733305,-77.4619307",
+      "isFar": true
+    }
+  ],
+  "dinner": [
+    {
+      "name": "Amazing Grains Bread Co.",
+      "distance": "1.5 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Amazing%20Grains%20Bread%20Co.&query_place_id=ChIJ7UZCkywz0YkR5tvMp0SavUU&center=43.095197899999995,-77.4307149"
+    },
+    {
+      "name": "Saks Thai Cuisine Inc",
+      "distance": "1.9 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Saks%20Thai%20Cuisine%20Inc&query_place_id=ChIJ_dGDPvAy0YkRMpyrCC-KJc8&center=43.0653781,-77.4111576"
+    },
+    {
+      "name": "Perinton Pizza Emporium",
+      "distance": "1.9 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Perinton%20Pizza%20Emporium&query_place_id=ChIJX_UyRg4z0YkRVGAYZSysz3E&center=43.065416600000006,-77.4116483"
+    },
+    {
+      "name": "J & L's Pizza Korner",
+      "distance": "1.9 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=J%20%26%20L's%20Pizza%20Korner&query_place_id=ChIJsTArT-My0YkR04gmWJtoWQQ&center=43.0674583,-77.4196355"
+    },
+    {
+      "name": "Salt. Fairport",
+      "distance": "1.9 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Salt.%20Fairport&query_place_id=ChIJbUfcW4Az0YkRmisgJGKKvrk&center=43.0646528,-77.4099945"
+    },
+    {
+      "name": "Chakara Sushi & Bar",
+      "distance": "1.9 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Chakara%20Sushi%20%26%20Bar&query_place_id=ChIJ9zoipfoy0YkRoK4tY2ml_JU&center=43.0653331,-77.41337109999999"
+    }
+  ],
+  "bowling": [
+    {
+      "name": "AMF Fairview Lanes",
+      "distance": "2.9 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=AMF%20Fairview%20Lanes&query_place_id=ChIJm4vQtbLM1okRfjlU8Ow2E0I&center=43.099602499999996,-77.45745959999999"
+    }
+  ],
+  "arcade": [],
+  "movies": [],
+  "fun": [
+    {
+      "name": "Fairport Music Festival",
+      "distance": "2.1 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Fairport%20Music%20Festival&query_place_id=ChIJJVOrAQDN1okRiHbXUE62D30&center=43.0986742,-77.44193779999999"
+    },
+    {
+      "name": "Fairport Junction Train Viewing Platform",
+      "distance": "2.1 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Fairport%20Junction%20Train%20Viewing%20Platform&query_place_id=ChIJ5YeRv7nN1okReiHLvg5_W9M&center=43.1026507,-77.44070049999999"
+    },
+    {
+      "name": "Fairport | Virtual Railfan LIVE",
+      "distance": "2.1 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Fairport%20%7C%20Virtual%20Railfan%20LIVE&query_place_id=ChIJ9fAMbADN1okRYwPJmyK_M4c&center=43.102669299999995,-77.4407437"
+    },
+    {
+      "name": "Ladybugs Play",
+      "distance": "3.0 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Ladybugs%20Play&query_place_id=ChIJS5nD2EjN1okRT1FmpAn10Js&center=43.1090282,-77.456801",
+      "isFar": true
+    }
+  ],
+  "hotels": [
+    {
+      "name": "Looking for a roommate",
+      "distance": "1.4 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Looking%20for%20a%20roommate&query_place_id=ChIJc66artXM1okR-e7-VEiBCCs&center=43.0992965,-77.4267654"
+    },
+    {
+      "name": "The Beal House",
+      "distance": "1.9 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=The%20Beal%20House&query_place_id=ChIJpbXwMpAy0YkRYVjgMqkHW1w&center=43.064845899999995,-77.3939394"
+    },
+    {
+      "name": "Budget Inn",
+      "distance": "1.9 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Budget%20Inn&query_place_id=ChIJv5trp_oy0YkRtxbKKX5Ad14&center=43.065477,-77.412896"
+    }
+  ],
+  "gas": [
+    {
+      "name": "Sunoco",
+      "distance": "1.3 mi",
+      "url": "https://www.google.com/maps/search/Sunoco+near+43.0920045%2C-77.401161"
+    },
+    {
+      "name": "Exxon",
+      "distance": "2.0 mi",
+      "url": "https://www.google.com/maps/search/Exxon+near+43.0920045%2C-77.401161"
+    },
+    {
+      "name": "Corner Market Sunoco",
+      "distance": "2.1 mi",
+      "url": "https://www.google.com/maps/search/Corner%20Market%20Sunoco+near+43.0920045%2C-77.401161"
+    },
+    {
+      "name": "Mobil",
+      "distance": "2.3 mi",
+      "url": "https://www.google.com/maps/search/Mobil+near+43.0920045%2C-77.401161"
+    }
+  ]
+}

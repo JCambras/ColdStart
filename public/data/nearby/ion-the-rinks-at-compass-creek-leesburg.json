@@ -1,0 +1,191 @@
+{
+  "quick_bite": [
+    {
+      "name": "Popeyes Louisiana Kitchen",
+      "distance": "0.1 mi",
+      "url": "https://www.google.com/maps/search/Popeyes%20Louisiana%20Kitchen+near+39.0855414%2C-77.56458599999999"
+    },
+    {
+      "name": "Chipotle Mexican Grill",
+      "distance": "0.2 mi",
+      "url": "https://www.google.com/maps/search/Chipotle%20Mexican%20Grill+near+39.0855414%2C-77.56458599999999"
+    },
+    {
+      "name": "Subway",
+      "distance": "0.3 mi",
+      "url": "https://www.google.com/maps/search/Subway+near+39.0855414%2C-77.56458599999999"
+    },
+    {
+      "name": "Sonic Drive-In",
+      "distance": "0.4 mi",
+      "url": "https://www.google.com/maps/search/Sonic%20Drive-In+near+39.0855414%2C-77.56458599999999"
+    },
+    {
+      "name": "Five Guys",
+      "distance": "0.4 mi",
+      "url": "https://www.google.com/maps/search/Five%20Guys+near+39.0855414%2C-77.56458599999999"
+    },
+    {
+      "name": "Chick-fil-A",
+      "distance": "0.5 mi",
+      "url": "https://www.google.com/maps/search/Chick-fil-A+near+39.0855414%2C-77.56458599999999"
+    }
+  ],
+  "coffee": [
+    {
+      "name": "Starbucks Coffee Company",
+      "distance": "0.2 mi",
+      "url": "https://www.google.com/maps/search/Starbucks%20Coffee%20Company+near+39.0855414%2C-77.56458599999999"
+    },
+    {
+      "name": "Dunkin'",
+      "distance": "0.4 mi",
+      "url": "https://www.google.com/maps/search/Dunkin'+near+39.0855414%2C-77.56458599999999"
+    },
+    {
+      "name": "SR Coffee Co",
+      "distance": "0.8 mi",
+      "url": "https://www.google.com/maps/search/SR%20Coffee%20Co+near+39.0855414%2C-77.56458599999999"
+    },
+    {
+      "name": "UP! Ultimate Adventure Park",
+      "distance": "5.8 mi",
+      "url": "https://www.google.com/maps/search/UP!%20Ultimate%20Adventure%20Park+near+39.0855414%2C-77.56458599999999",
+      "isFar": true
+    }
+  ],
+  "team_lunch": [
+    {
+      "name": "mezeh",
+      "distance": "0.2 mi",
+      "url": "https://www.google.com/maps/search/mezeh+near+39.0855414%2C-77.56458599999999"
+    },
+    {
+      "name": "Buffalo Wing Factory",
+      "distance": "0.2 mi",
+      "url": "https://www.google.com/maps/search/Buffalo%20Wing%20Factory+near+39.0855414%2C-77.56458599999999"
+    },
+    {
+      "name": "Hunan Cafe",
+      "distance": "0.8 mi",
+      "url": "https://www.google.com/maps/search/Hunan%20Cafe+near+39.0855414%2C-77.56458599999999"
+    },
+    {
+      "name": "Food Lion Bakery",
+      "distance": "1.3 mi",
+      "url": "https://www.google.com/maps/search/Food%20Lion%20Bakery+near+39.0855414%2C-77.56458599999999"
+    }
+  ],
+  "dinner": [
+    {
+      "name": "Halftime",
+      "distance": "0.8 mi",
+      "url": "https://www.google.com/maps/search/Halftime+near+39.0855414%2C-77.56458599999999"
+    },
+    {
+      "name": "New Yorker Pizza",
+      "distance": "1.3 mi",
+      "url": "https://www.google.com/maps/search/New%20Yorker%20Pizza+near+39.0855414%2C-77.56458599999999"
+    },
+    {
+      "name": "Chicken Salad Chick",
+      "distance": "1.3 mi",
+      "url": "https://www.google.com/maps/search/Chicken%20Salad%20Chick+near+39.0855414%2C-77.56458599999999"
+    },
+    {
+      "name": "Maudie Cakes",
+      "distance": "1.3 mi",
+      "url": "https://www.google.com/maps/search/Maudie%20Cakes+near+39.0855414%2C-77.56458599999999"
+    },
+    {
+      "name": "Velocity Wings at Loudoun Soccer club",
+      "distance": "1.3 mi",
+      "url": "https://www.google.com/maps/search/Velocity%20Wings%20at%20Loudoun%20Soccer%20club+near+39.0855414%2C-77.56458599999999"
+    }
+  ],
+  "bowling": [
+    {
+      "name": "The Branch - Restaurant & Bowling",
+      "distance": "1.4 mi",
+      "url": "https://www.google.com/maps/search/The%20Branch%20-%20Restaurant%20%26%20Bowling+near+39.0855414%2C-77.56458599999999"
+    },
+    {
+      "name": "Lucky Strike Leesburg",
+      "distance": "2.1 mi",
+      "url": "https://www.google.com/maps/search/Lucky%20Strike%20Leesburg+near+39.0855414%2C-77.56458599999999"
+    },
+    {
+      "name": "PINSTACK",
+      "distance": "7.7 mi",
+      "url": "https://www.google.com/maps/search/PINSTACK+near+39.0855414%2C-77.56458599999999",
+      "isFar": true
+    }
+  ],
+  "arcade": [],
+  "movies": [
+    {
+      "name": "CMX Village 14 Cinemas",
+      "distance": "2.1 mi",
+      "url": "https://www.google.com/maps/search/CMX%20Village%2014%20Cinemas+near+39.0855414%2C-77.56458599999999"
+    },
+    {
+      "name": "Alamo Drafthouse Cinema One Loudoun",
+      "distance": "6.3 mi",
+      "url": "https://www.google.com/maps/search/Alamo%20Drafthouse%20Cinema%20One%20Loudoun+near+39.0855414%2C-77.56458599999999",
+      "isFar": true
+    },
+    {
+      "name": "AMC Loudoun Station 11",
+      "distance": "6.9 mi",
+      "url": "https://www.google.com/maps/search/AMC%20Loudoun%20Station%2011+near+39.0855414%2C-77.56458599999999",
+      "isFar": true
+    }
+  ],
+  "fun": [
+    {
+      "name": "Escape Room LOCO",
+      "distance": "1.9 mi",
+      "url": "https://www.google.com/maps/search/Escape%20Room%20LOCO+near+39.0855414%2C-77.56458599999999"
+    },
+    {
+      "name": "Escape Room Ashburn",
+      "distance": "5.2 mi",
+      "url": "https://www.google.com/maps/search/Escape%20Room%20Ashburn+near+39.0855414%2C-77.56458599999999",
+      "isFar": true
+    }
+  ],
+  "hotels": [
+    {
+      "name": "Country Comfort Bed & Breakfast",
+      "distance": "1.0 mi",
+      "url": "https://www.google.com/maps/search/Country%20Comfort%20Bed%20%26%20Breakfast+near+39.0855414%2C-77.56458599999999"
+    },
+    {
+      "name": "Historic Downtown Leesburg Townhome",
+      "distance": "1.3 mi",
+      "url": "https://www.google.com/maps/search/Historic%20Downtown%20Leesburg%20Townhome+near+39.0855414%2C-77.56458599999999"
+    }
+  ],
+  "gas": [
+    {
+      "name": "Compass Creek Sunoco",
+      "distance": "0.2 mi",
+      "url": "https://www.google.com/maps/search/Compass%20Creek%20Sunoco+near+39.0855414%2C-77.56458599999999"
+    },
+    {
+      "name": "Exxon",
+      "distance": "0.4 mi",
+      "url": "https://www.google.com/maps/search/Exxon+near+39.0855414%2C-77.56458599999999"
+    },
+    {
+      "name": "Sunoco",
+      "distance": "1.7 mi",
+      "url": "https://www.google.com/maps/search/Sunoco+near+39.0855414%2C-77.56458599999999"
+    },
+    {
+      "name": "Shell",
+      "distance": "1.7 mi",
+      "url": "https://www.google.com/maps/search/Shell+near+39.0855414%2C-77.56458599999999"
+    }
+  ]
+}

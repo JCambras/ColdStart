@@ -1,0 +1,79 @@
+{
+  "quick_bite": [],
+  "coffee": [
+    {
+      "name": "Budget Host Caribou Inn",
+      "distance": "0.3 mi",
+      "url": "https://www.google.com/maps/search/Budget%20Host%20Caribou%20Inn+near+48.779595799999996%2C-96.9460378"
+    },
+    {
+      "name": "Bully Brew Coffee - Hallock",
+      "distance": "0.4 mi",
+      "url": "https://www.google.com/maps/search/Bully%20Brew%20Coffee%20-%20Hallock+near+48.779595799999996%2C-96.9460378"
+    },
+    {
+      "name": "Kennedy Cafe",
+      "distance": "9.6 mi",
+      "url": "https://www.google.com/maps/search/Kennedy%20Cafe+near+48.779595799999996%2C-96.9460378",
+      "isFar": true
+    }
+  ],
+  "team_lunch": [
+    {
+      "name": "Hot Stuff Pizza",
+      "distance": "0.8 mi",
+      "url": "https://www.google.com/maps/search/Hot%20Stuff%20Pizza+near+48.779595799999996%2C-96.9460378"
+    }
+  ],
+  "dinner": [
+    {
+      "name": "Craft Brewhaus",
+      "distance": "0.4 mi",
+      "url": "https://www.google.com/maps/search/Craft%20Brewhaus+near+48.779595799999996%2C-96.9460378"
+    },
+    {
+      "name": "W's Diner",
+      "distance": "8.5 mi",
+      "url": "https://www.google.com/maps/search/W's%20Diner+near+48.779595799999996%2C-96.9460378",
+      "isFar": true
+    }
+  ],
+  "bowling": [],
+  "arcade": [],
+  "movies": [],
+  "fun": [],
+  "hotels": [
+    {
+      "name": "Horseshoe Park",
+      "distance": "0.2 mi",
+      "url": "https://www.google.com/maps/search/Horseshoe%20Park+near+48.779595799999996%2C-96.9460378"
+    },
+    {
+      "name": "fun inn",
+      "distance": "0.4 mi",
+      "url": "https://www.google.com/maps/search/fun%20inn+near+48.779595799999996%2C-96.9460378"
+    },
+    {
+      "name": "Hotel Hallock",
+      "distance": "0.7 mi",
+      "url": "https://www.google.com/maps/search/Hotel%20Hallock+near+48.779595799999996%2C-96.9460378"
+    },
+    {
+      "name": "Gilbert Olson Campground",
+      "distance": "0.8 mi",
+      "url": "https://www.google.com/maps/search/Gilbert%20Olson%20Campground+near+48.779595799999996%2C-96.9460378"
+    }
+  ],
+  "gas": [
+    {
+      "name": "Cenex",
+      "distance": "0.3 mi",
+      "url": "https://www.google.com/maps/search/Cenex+near+48.779595799999996%2C-96.9460378"
+    },
+    {
+      "name": "CLARK",
+      "distance": "0.6 mi",
+      "url": "https://www.google.com/maps/search/CLARK+near+48.779595799999996%2C-96.9460378"
+    }
+  ]
+}

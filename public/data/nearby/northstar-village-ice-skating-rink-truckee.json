@@ -1,0 +1,213 @@
+{
+  "quick_bite": [
+    {
+      "name": "Frites",
+      "distance": "0.1 mi",
+      "url": "https://www.google.com/maps/search/Frites+near+39.274861099999995%2C-120.12102499999999"
+    },
+    {
+      "name": "Euro Snack Inc",
+      "distance": "0.1 mi",
+      "url": "https://www.google.com/maps/search/Euro%20Snack%20Inc+near+39.274861099999995%2C-120.12102499999999"
+    },
+    {
+      "name": "Inclined Burgers and Brew",
+      "distance": "0.1 mi",
+      "url": "https://www.google.com/maps/search/Inclined%20Burgers%20and%20Brew+near+39.274861099999995%2C-120.12102499999999"
+    }
+  ],
+  "coffee": [
+    {
+      "name": "Vous",
+      "distance": "0.1 mi",
+      "url": "https://www.google.com/maps/search/Vous+near+39.274861099999995%2C-120.12102499999999"
+    },
+    {
+      "name": "Coffeebar Northstar",
+      "distance": "0.1 mi",
+      "url": "https://www.google.com/maps/search/Coffeebar%20Northstar+near+39.274861099999995%2C-120.12102499999999"
+    },
+    {
+      "name": "Cafe Blue",
+      "distance": "0.6 mi",
+      "url": "https://www.google.com/maps/search/Cafe%20Blue+near+39.274861099999995%2C-120.12102499999999"
+    },
+    {
+      "name": "Red Truck",
+      "distance": "3.3 mi",
+      "url": "https://www.google.com/maps/search/Red%20Truck+near+39.274861099999995%2C-120.12102499999999",
+      "isFar": true
+    }
+  ],
+  "team_lunch": [
+    {
+      "name": "Wild Pine Kitchen",
+      "distance": "0.1 mi",
+      "url": "https://www.google.com/maps/search/Wild%20Pine%20Kitchen+near+39.274861099999995%2C-120.12102499999999"
+    },
+    {
+      "name": "Biggest Little Steakhouse",
+      "distance": "0.1 mi",
+      "url": "https://www.google.com/maps/search/Biggest%20Little%20Steakhouse+near+39.274861099999995%2C-120.12102499999999"
+    },
+    {
+      "name": "Los Arcos Mexican Grill",
+      "distance": "0.1 mi",
+      "url": "https://www.google.com/maps/search/Los%20Arcos%20Mexican%20Grill+near+39.274861099999995%2C-120.12102499999999"
+    },
+    {
+      "name": "Montesa",
+      "distance": "0.6 mi",
+      "url": "https://www.google.com/maps/search/Montesa+near+39.274861099999995%2C-120.12102499999999"
+    },
+    {
+      "name": "Living Room",
+      "distance": "0.6 mi",
+      "url": "https://www.google.com/maps/search/Living%20Room+near+39.274861099999995%2C-120.12102499999999"
+    },
+    {
+      "name": "The Backyard Bar & BBQ",
+      "distance": "0.7 mi",
+      "url": "https://www.google.com/maps/search/The%20Backyard%20Bar%20%26%20BBQ+near+39.274861099999995%2C-120.12102499999999"
+    },
+    {
+      "name": "Summit Smokehouse",
+      "distance": "2.6 mi",
+      "url": "https://www.google.com/maps/search/Summit%20Smokehouse+near+39.274861099999995%2C-120.12102499999999"
+    }
+  ],
+  "dinner": [
+    {
+      "name": "Rubicon Pizza",
+      "distance": "0.1 mi",
+      "url": "https://www.google.com/maps/search/Rubicon%20Pizza+near+39.274861099999995%2C-120.12102499999999"
+    },
+    {
+      "name": "Petra Restaurant & Wine Bar",
+      "distance": "0.1 mi",
+      "url": "https://www.google.com/maps/search/Petra%20Restaurant%20%26%20Wine%20Bar+near+39.274861099999995%2C-120.12102499999999"
+    },
+    {
+      "name": "Manzanita",
+      "distance": "0.6 mi",
+      "url": "https://www.google.com/maps/search/Manzanita+near+39.274861099999995%2C-120.12102499999999"
+    },
+    {
+      "name": "The Lodge at Big Springs",
+      "distance": "0.8 mi",
+      "url": "https://www.google.com/maps/search/The%20Lodge%20at%20Big%20Springs+near+39.274861099999995%2C-120.12102499999999"
+    },
+    {
+      "name": "Zephyr Lodge",
+      "distance": "1.7 mi",
+      "url": "https://www.google.com/maps/search/Zephyr%20Lodge+near+39.274861099999995%2C-120.12102499999999"
+    }
+  ],
+  "bowling": [
+    {
+      "name": "Bowl Incline",
+      "distance": "9.4 mi",
+      "url": "https://www.google.com/maps/search/Bowl%20Incline+near+39.274861099999995%2C-120.12102499999999",
+      "isFar": true
+    }
+  ],
+  "arcade": [],
+  "movies": [
+    {
+      "name": "The Village Cinemas",
+      "distance": "0.1 mi",
+      "url": "https://www.google.com/maps/search/The%20Village%20Cinemas+near+39.274861099999995%2C-120.12102499999999"
+    },
+    {
+      "name": "Tahoe Art Haus & Cinema",
+      "distance": "7.3 mi",
+      "url": "https://www.google.com/maps/search/Tahoe%20Art%20Haus%20%26%20Cinema+near+39.274861099999995%2C-120.12102499999999",
+      "isFar": true
+    },
+    {
+      "name": "Incline Village Cinema",
+      "distance": "9.2 mi",
+      "url": "https://www.google.com/maps/search/Incline%20Village%20Cinema+near+39.274861099999995%2C-120.12102499999999",
+      "isFar": true
+    }
+  ],
+  "fun": [
+    {
+      "name": "Slime Kitchen Truckee",
+      "distance": "5.9 mi",
+      "url": "https://www.google.com/maps/search/Slime%20Kitchen%20Truckee+near+39.274861099999995%2C-120.12102499999999",
+      "isFar": true
+    },
+    {
+      "name": "Elevation Escape Tahoe",
+      "distance": "6.4 mi",
+      "url": "https://www.google.com/maps/search/Elevation%20Escape%20Tahoe+near+39.274861099999995%2C-120.12102499999999",
+      "isFar": true
+    },
+    {
+      "name": "Olympic Valley Ropes Course",
+      "distance": "8.1 mi",
+      "url": "https://www.google.com/maps/search/Olympic%20Valley%20Ropes%20Course+near+39.274861099999995%2C-120.12102499999999",
+      "isFar": true
+    }
+  ],
+  "hotels": [
+    {
+      "name": "Hotel Room In Timber Creek Lodge 0 Bedroom Condo",
+      "distance": "0.1 mi",
+      "url": "https://www.google.com/maps/search/Hotel%20Room%20In%20Timber%20Creek%20Lodge%200%20Bedroom%20Condo+near+39.274861099999995%2C-120.12102499999999"
+    },
+    {
+      "name": "Great Bear Lodge 404",
+      "distance": "0.1 mi",
+      "url": "https://www.google.com/maps/search/Great%20Bear%20Lodge%20404+near+39.274861099999995%2C-120.12102499999999"
+    },
+    {
+      "name": "Luxury 3BD Village at Northstar Residence - Great Bear Lodge 303",
+      "distance": "0.1 mi",
+      "url": "https://www.google.com/maps/search/Luxury%203BD%20Village%20at%20Northstar%20Residence%20-%20Great%20Bear%20Lodge%20303+near+39.274861099999995%2C-120.12102499999999"
+    },
+    {
+      "name": "Great Bear Lodge 306 - Luxury Slopeside",
+      "distance": "0.1 mi",
+      "url": "https://www.google.com/maps/search/Great%20Bear%20Lodge%20306%20-%20Luxury%20Slopeside+near+39.274861099999995%2C-120.12102499999999"
+    },
+    {
+      "name": "NorthStar ski village 3 bedroom Condo. Tahoe",
+      "distance": "0.1 mi",
+      "url": "https://www.google.com/maps/search/NorthStar%20ski%20village%203%20bedroom%20Condo.%20Tahoe+near+39.274861099999995%2C-120.12102499999999"
+    },
+    {
+      "name": "Great Bear Lodge 501 by East West Hospitality",
+      "distance": "0.1 mi",
+      "url": "https://www.google.com/maps/search/Great%20Bear%20Lodge%20501%20by%20East%20West%20Hospitality+near+39.274861099999995%2C-120.12102499999999"
+    },
+    {
+      "name": "Great Bear Lodge 306 by East West Hospitality",
+      "distance": "0.1 mi",
+      "url": "https://www.google.com/maps/search/Great%20Bear%20Lodge%20306%20by%20East%20West%20Hospitality+near+39.274861099999995%2C-120.12102499999999"
+    }
+  ],
+  "gas": [
+    {
+      "name": "Fast Lane",
+      "distance": "3.3 mi",
+      "url": "https://www.google.com/maps/search/Fast%20Lane+near+39.274861099999995%2C-120.12102499999999"
+    },
+    {
+      "name": "Chevron",
+      "distance": "3.4 mi",
+      "url": "https://www.google.com/maps/search/Chevron+near+39.274861099999995%2C-120.12102499999999"
+    },
+    {
+      "name": "Power Market",
+      "distance": "5.0 mi",
+      "url": "https://www.google.com/maps/search/Power%20Market+near+39.274861099999995%2C-120.12102499999999"
+    },
+    {
+      "name": "76",
+      "distance": "5.0 mi",
+      "url": "https://www.google.com/maps/search/76+near+39.274861099999995%2C-120.12102499999999"
+    }
+  ]
+}

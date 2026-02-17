@@ -1,0 +1,185 @@
+{
+  "quick_bite": [
+    {
+      "name": "Subway",
+      "distance": "0.1 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Subway&query_place_id=ChIJJ6qNLtOn04kR_N8sxiIQJgc&center=42.768092599999996,-78.6118552"
+    },
+    {
+      "name": "Pizzeria Florian",
+      "distance": "0.1 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Pizzeria%20Florian&query_place_id=ChIJg7biY5pDQE8R9l1SxsaUGCE&center=42.7680541,-78.6105419"
+    },
+    {
+      "name": "Babcia's Pierogi",
+      "distance": "0.2 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Babcia's%20Pierogi&query_place_id=ChIJ23VhqTqn04kRtXhAXdMpFPk&center=42.7670108,-78.6116061"
+    },
+    {
+      "name": "Rick's On Main",
+      "distance": "0.2 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Rick's%20On%20Main&query_place_id=ChIJCW0a-yym04kRvTHApSoMzyA&center=42.767595299999996,-78.60923009999999"
+    },
+    {
+      "name": "Left Coast Taco",
+      "distance": "0.2 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Left%20Coast%20Taco&query_place_id=ChIJ0xaEUyum04kR9BrGcX4h-kw&center=42.766444299999996,-78.6108727"
+    }
+  ],
+  "coffee": [
+    {
+      "name": "Elm Street Bakery",
+      "distance": "0.3 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Elm%20Street%20Bakery&query_place_id=ChIJsytPqiym04kRyhjbKsRL_jU&center=42.7659222,-78.6110353"
+    },
+    {
+      "name": "Blue Violet Floral Studio",
+      "distance": "0.4 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Blue%20Violet%20Floral%20Studio&query_place_id=ChIJ8SXFu0in04kRpv1-0UJsu_Q&center=42.7682373,-78.61963659999999"
+    }
+  ],
+  "team_lunch": [
+    {
+      "name": "Fat Bob's at 42 North",
+      "distance": "0.2 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Fat%20Bob's%20at%2042%20North&query_place_id=ChIJjauCLe2n04kR0ZxS1Uk4YaU&center=42.7685767,-78.60809960000002"
+    }
+  ],
+  "dinner": [
+    {
+      "name": "Blue Eyed Baker",
+      "distance": "0.1 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Blue%20Eyed%20Baker&query_place_id=ChIJYzcQtW2n04kRTjtnbd_LUfQ&center=42.7696659,-78.611256"
+    },
+    {
+      "name": "The Rooftop at Blue Eyed Baker",
+      "distance": "0.1 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=The%20Rooftop%20at%20Blue%20Eyed%20Baker&query_place_id=ChIJj8i9tSKn04kRobXvw5-N10o&center=42.7696614,-78.61123649999999"
+    },
+    {
+      "name": "Riley Street Station",
+      "distance": "0.1 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Riley%20Street%20Station&query_place_id=ChIJJR9E0dKn04kRGiWkNcHwQEU&center=42.768744999999996,-78.6121398"
+    },
+    {
+      "name": "Arriba Tortilla",
+      "distance": "0.1 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Arriba%20Tortilla&query_place_id=ChIJBeqzPtOn04kR2J4KeBR71WY&center=42.7689903,-78.6105966"
+    },
+    {
+      "name": "Taste Bistro & Coffee Bar",
+      "distance": "0.1 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Taste%20Bistro%20%26%20Coffee%20Bar&query_place_id=ChIJL7_90yym04kRoakeCn_QBXI&center=42.7681112,-78.6112078"
+    },
+    {
+      "name": "The Griffon Gastropub",
+      "distance": "0.1 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=The%20Griffon%20Gastropub&query_place_id=ChIJ6f021Cym04kRiSSkAW8Qb5o&center=42.7680204,-78.6113434"
+    }
+  ],
+  "bowling": [
+    {
+      "name": "AMF Lancaster Lanes",
+      "distance": "8.6 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=AMF%20Lancaster%20Lanes&query_place_id=ChIJnzGicVEK04kRP-9kthzkc1U&center=42.8785526,-78.6949817",
+      "isFar": true
+    },
+    {
+      "name": "Wimbledon Bowling Lanes",
+      "distance": "9.5 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Wimbledon%20Bowling%20Lanes&query_place_id=ChIJYcvSfZYO04kRs0x_X64TyOQ&center=42.8397454,-78.77369329999999",
+      "isFar": true
+    },
+    {
+      "name": "Alden Bowling Center",
+      "distance": "9.7 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Alden%20Bowling%20Center&query_place_id=ChIJ-bZVvGOi04kRMCx5aanwpXU&center=42.8936347,-78.5238723",
+      "isFar": true
+    }
+  ],
+  "arcade": [],
+  "movies": [
+    {
+      "name": "Aurora Theatre and Popcorn Shop",
+      "distance": "0.2 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Aurora%20Theatre%20and%20Popcorn%20Shop&query_place_id=ChIJtyN95iym04kRKj9tPBBfR0g&center=42.767680999999996,-78.60968199999999"
+    },
+    {
+      "name": "FLIX STADIUM 10",
+      "distance": "8.6 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=FLIX%20STADIUM%2010&query_place_id=ChIJw17yIVIK04kRBcPmML7vysU&center=42.878146099999995,-78.69403679999999",
+      "isFar": true
+    },
+    {
+      "name": "Regal Quaker Crossing",
+      "distance": "9.0 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Regal%20Quaker%20Crossing&query_place_id=ChIJJ0EpPnEP04kRYdFywt7qkUI&center=42.7912872,-78.7875116",
+      "isFar": true
+    }
+  ],
+  "fun": [
+    {
+      "name": "Rowandale therapy goats",
+      "distance": "7.2 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Rowandale%20therapy%20goats&query_place_id=ChIJCQMARAAB04kRxuqnTXb8MxM&center=42.6690827,-78.6517636",
+      "isFar": true
+    },
+    {
+      "name": "Breezewood Pond",
+      "distance": "7.7 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Breezewood%20Pond&query_place_id=ChIJteu3AgAF04kRQ-Y6miwXXYY&center=42.745570799999996,-78.7595249",
+      "isFar": true
+    },
+    {
+      "name": "Eternal Flame Falls",
+      "distance": "8.5 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Eternal%20Flame%20Falls&query_place_id=ChIJ_6tDDQEE04kRQ0IG6MeyR6s&center=42.7016984,-78.75156059999999",
+      "isFar": true
+    },
+    {
+      "name": "Niagara Watershed Greenway Heritage Corridor",
+      "distance": "8.5 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Niagara%20Watershed%20Greenway%20Heritage%20Corridor&query_place_id=ChIJ6fIqNgAF04kRTRnkv4seRAU&center=42.6974933,-78.74762079999999",
+      "isFar": true
+    }
+  ],
+  "hotels": [
+    {
+      "name": "East Aurora",
+      "distance": "0.2 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=East%20Aurora&query_place_id=ChIJ1-IbGACn04kRkbhgYQH42b8&center=42.7677802,-78.61335989999999"
+    },
+    {
+      "name": "Blazing Star Lodge #694",
+      "distance": "0.2 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Blazing%20Star%20Lodge%20%23694&query_place_id=ChIJa9142iym04kRVIftp9PO9GQ&center=42.7675926,-78.6108631"
+    },
+    {
+      "name": "Carriage House at Rushing Waters",
+      "distance": "0.2 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Carriage%20House%20at%20Rushing%20Waters&query_place_id=ChIJXyuoWWyp04kRNzchMNmQGCM&center=42.7676771,-78.6134112"
+    }
+  ],
+  "gas": [
+    {
+      "name": "Marathon",
+      "distance": "0.3 mi",
+      "url": "https://www.google.com/maps/search/Marathon+near+42.7697654%2C-78.6118508"
+    },
+    {
+      "name": "Sunoco",
+      "distance": "0.8 mi",
+      "url": "https://www.google.com/maps/search/Sunoco+near+42.7697654%2C-78.6118508"
+    },
+    {
+      "name": "Kwik Fill",
+      "distance": "0.9 mi",
+      "url": "https://www.google.com/maps/search/Kwik%20Fill+near+42.7697654%2C-78.6118508"
+    },
+    {
+      "name": "Mobil",
+      "distance": "0.9 mi",
+      "url": "https://www.google.com/maps/search/Mobil+near+42.7697654%2C-78.6118508"
+    }
+  ]
+}

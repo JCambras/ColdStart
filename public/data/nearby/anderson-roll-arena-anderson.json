@@ -1,0 +1,207 @@
+{
+  "quick_bite": [
+    {
+      "name": "Captain D's",
+      "distance": "0.2 mi",
+      "url": "https://www.google.com/maps/search/Captain%20D's+near+40.1447443%2C-85.68042849999999"
+    },
+    {
+      "name": "Taco Bell",
+      "distance": "0.2 mi",
+      "url": "https://www.google.com/maps/search/Taco%20Bell+near+40.1447443%2C-85.68042849999999"
+    },
+    {
+      "name": "Wendy's",
+      "distance": "0.3 mi",
+      "url": "https://www.google.com/maps/search/Wendy's+near+40.1447443%2C-85.68042849999999"
+    },
+    {
+      "name": "Arby's",
+      "distance": "0.4 mi",
+      "url": "https://www.google.com/maps/search/Arby's+near+40.1447443%2C-85.68042849999999"
+    },
+    {
+      "name": "Burger King",
+      "distance": "0.5 mi",
+      "url": "https://www.google.com/maps/search/Burger%20King+near+40.1447443%2C-85.68042849999999"
+    },
+    {
+      "name": "Subway",
+      "distance": "0.7 mi",
+      "url": "https://www.google.com/maps/search/Subway+near+40.1447443%2C-85.68042849999999"
+    },
+    {
+      "name": "ZENSHI Handcrafted Sushi",
+      "distance": "0.8 mi",
+      "url": "https://www.google.com/maps/search/ZENSHI%20Handcrafted%20Sushi+near+40.1447443%2C-85.68042849999999"
+    }
+  ],
+  "coffee": [
+    {
+      "name": "McDonald's",
+      "distance": "0.4 mi",
+      "url": "https://www.google.com/maps/search/McDonald's+near+40.1447443%2C-85.68042849999999"
+    },
+    {
+      "name": "Starbucks Coffee Company",
+      "distance": "1.3 mi",
+      "url": "https://www.google.com/maps/search/Starbucks%20Coffee%20Company+near+40.1447443%2C-85.68042849999999"
+    },
+    {
+      "name": "Bobber's Cafe at Shadyside Bait & Tackle",
+      "distance": "1.4 mi",
+      "url": "https://www.google.com/maps/search/Bobber's%20Cafe%20at%20Shadyside%20Bait%20%26%20Tackle+near+40.1447443%2C-85.68042849999999"
+    }
+  ],
+  "team_lunch": [
+    {
+      "name": "Kung Fu Cafe",
+      "distance": "0.4 mi",
+      "url": "https://www.google.com/maps/search/Kung%20Fu%20Cafe+near+40.1447443%2C-85.68042849999999"
+    },
+    {
+      "name": "Nick's Restaurant",
+      "distance": "0.5 mi",
+      "url": "https://www.google.com/maps/search/Nick's%20Restaurant+near+40.1447443%2C-85.68042849999999"
+    },
+    {
+      "name": "Charlie Boy's Bbq & Seafood",
+      "distance": "0.6 mi",
+      "url": "https://www.google.com/maps/search/Charlie%20Boy's%20Bbq%20%26%20Seafood+near+40.1447443%2C-85.68042849999999"
+    },
+    {
+      "name": "Hunt Brothers Pizza",
+      "distance": "0.9 mi",
+      "url": "https://www.google.com/maps/search/Hunt%20Brothers%20Pizza+near+40.1447443%2C-85.68042849999999"
+    },
+    {
+      "name": "Delilah's Desserts",
+      "distance": "1.4 mi",
+      "url": "https://www.google.com/maps/search/Delilah's%20Desserts+near+40.1447443%2C-85.68042849999999"
+    }
+  ],
+  "dinner": [
+    {
+      "name": "Sno Castle",
+      "distance": "0.3 mi",
+      "url": "https://www.google.com/maps/search/Sno%20Castle+near+40.1447443%2C-85.68042849999999"
+    },
+    {
+      "name": "Art's Pizza",
+      "distance": "0.6 mi",
+      "url": "https://www.google.com/maps/search/Art's%20Pizza+near+40.1447443%2C-85.68042849999999"
+    },
+    {
+      "name": "Eva's Pancake House",
+      "distance": "1.5 mi",
+      "url": "https://www.google.com/maps/search/Eva's%20Pancake%20House+near+40.1447443%2C-85.68042849999999"
+    }
+  ],
+  "bowling": [
+    {
+      "name": "Championship Lanes",
+      "distance": "5.8 mi",
+      "url": "https://www.google.com/maps/search/Championship%20Lanes+near+40.1447443%2C-85.68042849999999",
+      "isFar": true
+    },
+    {
+      "name": "Norwood Bowl",
+      "distance": "9.1 mi",
+      "url": "https://www.google.com/maps/search/Norwood%20Bowl+near+40.1447443%2C-85.68042849999999",
+      "isFar": true
+    }
+  ],
+  "arcade": [],
+  "movies": [
+    {
+      "name": "Alexandria Movie Theatre",
+      "distance": "8.4 mi",
+      "url": "https://www.google.com/maps/search/Alexandria%20Movie%20Theatre+near+40.1447443%2C-85.68042849999999",
+      "isFar": true
+    }
+  ],
+  "fun": [
+    {
+      "name": "Aqua Park at Muncie",
+      "distance": "4.2 mi",
+      "url": "https://www.google.com/maps/search/Aqua%20Park%20at%20Muncie+near+40.1447443%2C-85.68042849999999",
+      "isFar": true
+    },
+    {
+      "name": "Indy Scream Park Haunted House",
+      "distance": "8.0 mi",
+      "url": "https://www.google.com/maps/search/Indy%20Scream%20Park%20Haunted%20House+near+40.1447443%2C-85.68042849999999",
+      "isFar": true
+    },
+    {
+      "name": "Railroad Escapes",
+      "distance": "8.3 mi",
+      "url": "https://www.google.com/maps/search/Railroad%20Escapes+near+40.1447443%2C-85.68042849999999",
+      "isFar": true
+    }
+  ],
+  "hotels": [
+    {
+      "name": "Shady Rest Mobile Parks",
+      "distance": "0.8 mi",
+      "url": "https://www.google.com/maps/search/Shady%20Rest%20Mobile%20Parks+near+40.1447443%2C-85.68042849999999"
+    },
+    {
+      "name": "Countryside Village",
+      "distance": "1.2 mi",
+      "url": "https://www.google.com/maps/search/Countryside%20Village+near+40.1447443%2C-85.68042849999999"
+    },
+    {
+      "name": "Lux 1 bed/1 bath unit ideal for traveling professional",
+      "distance": "1.9 mi",
+      "url": "https://www.google.com/maps/search/Lux%201%20bed%2F1%20bath%20unit%20ideal%20for%20traveling%20professional+near+40.1447443%2C-85.68042849999999"
+    },
+    {
+      "name": "Cozy 1-bedroom apartment in charming Anderson with AC, WiFi and mins to AU",
+      "distance": "2.1 mi",
+      "url": "https://www.google.com/maps/search/Cozy%201-bedroom%20apartment%20in%20charming%20Anderson%20with%20AC%2C%20WiFi%20and%20mins%20to%20AU+near+40.1447443%2C-85.68042849999999"
+    },
+    {
+      "name": "Spacious Modern 1bd /1bth Mins Downtown Anderson",
+      "distance": "2.1 mi",
+      "url": "https://www.google.com/maps/search/Spacious%20Modern%201bd%20%2F1bth%20Mins%20Downtown%20Anderson+near+40.1447443%2C-85.68042849999999"
+    },
+    {
+      "name": "Casa di Luca Ragno",
+      "distance": "2.2 mi",
+      "url": "https://www.google.com/maps/search/Casa%20di%20Luca%20Ragno+near+40.1447443%2C-85.68042849999999"
+    },
+    {
+      "name": "Spacious Modern 1bd/1bth Mins Downtown Anderson",
+      "distance": "2.2 mi",
+      "url": "https://www.google.com/maps/search/Spacious%20Modern%201bd%2F1bth%20Mins%20Downtown%20Anderson+near+40.1447443%2C-85.68042849999999"
+    }
+  ],
+  "gas": [
+    {
+      "name": "GetGo Gas Station",
+      "distance": "0.3 mi",
+      "url": "https://www.google.com/maps/search/GetGo%20Gas%20Station+near+40.1447443%2C-85.68042849999999"
+    },
+    {
+      "name": "Speedway",
+      "distance": "0.6 mi",
+      "url": "https://www.google.com/maps/search/Speedway+near+40.1447443%2C-85.68042849999999"
+    },
+    {
+      "name": "BP",
+      "distance": "0.7 mi",
+      "url": "https://www.google.com/maps/search/BP+near+40.1447443%2C-85.68042849999999"
+    },
+    {
+      "name": "Amoco",
+      "distance": "0.7 mi",
+      "url": "https://www.google.com/maps/search/Amoco+near+40.1447443%2C-85.68042849999999"
+    },
+    {
+      "name": "bp",
+      "distance": "0.7 mi",
+      "url": "https://www.google.com/maps/search/bp+near+40.1447443%2C-85.68042849999999"
+    }
+  ]
+}

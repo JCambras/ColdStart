@@ -1,0 +1,238 @@
+{
+  "quick_bite": [
+    {
+      "name": "Mr. Hero",
+      "distance": "0.5 mi",
+      "url": "https://www.google.com/maps/search/Mr.%20Hero+near+41.4025313%2C-81.71993619999999"
+    },
+    {
+      "name": "Guys Pizza Co. Parma",
+      "distance": "0.8 mi",
+      "url": "https://www.google.com/maps/search/Guys%20Pizza%20Co.%20Parma+near+41.4025313%2C-81.71993619999999"
+    },
+    {
+      "name": "Little Polish Diner",
+      "distance": "0.8 mi",
+      "url": "https://www.google.com/maps/search/Little%20Polish%20Diner+near+41.4025313%2C-81.71993619999999"
+    },
+    {
+      "name": "Burger King",
+      "distance": "0.8 mi",
+      "url": "https://www.google.com/maps/search/Burger%20King+near+41.4025313%2C-81.71993619999999"
+    },
+    {
+      "name": "Chuck E. Cheese",
+      "distance": "1.6 mi",
+      "url": "https://www.google.com/maps/search/Chuck%20E.%20Cheese+near+41.4025313%2C-81.71993619999999"
+    },
+    {
+      "name": "Seven Hills Lanes",
+      "distance": "3.0 mi",
+      "url": "https://www.google.com/maps/search/Seven%20Hills%20Lanes+near+41.4025313%2C-81.71993619999999",
+      "isFar": true
+    },
+    {
+      "name": "Cinemark Valley View and XD",
+      "distance": "5.0 mi",
+      "url": "https://www.google.com/maps/search/Cinemark%20Valley%20View%20and%20XD+near+41.4025313%2C-81.71993619999999",
+      "isFar": true
+    }
+  ],
+  "coffee": [
+    {
+      "name": "Love Coffee",
+      "distance": "0.8 mi",
+      "url": "https://www.google.com/maps/search/Love%20Coffee+near+41.4025313%2C-81.71993619999999"
+    }
+  ],
+  "team_lunch": [
+    {
+      "name": "Daddario Pizza",
+      "distance": "0.6 mi",
+      "url": "https://www.google.com/maps/search/Daddario%20Pizza+near+41.4025313%2C-81.71993619999999"
+    },
+    {
+      "name": "P.Jay’s Pizza",
+      "distance": "0.7 mi",
+      "url": "https://www.google.com/maps/search/P.Jay%E2%80%99s%20Pizza+near+41.4025313%2C-81.71993619999999"
+    },
+    {
+      "name": "DeFabbo Bookkeeping",
+      "distance": "0.8 mi",
+      "url": "https://www.google.com/maps/search/DeFabbo%20Bookkeeping+near+41.4025313%2C-81.71993619999999"
+    },
+    {
+      "name": "India's Cafe & Kitchen",
+      "distance": "0.9 mi",
+      "url": "https://www.google.com/maps/search/India's%20Cafe%20%26%20Kitchen+near+41.4025313%2C-81.71993619999999"
+    },
+    {
+      "name": "Empanadas Parma",
+      "distance": "0.9 mi",
+      "url": "https://www.google.com/maps/search/Empanadas%20Parma+near+41.4025313%2C-81.71993619999999"
+    }
+  ],
+  "dinner": [
+    {
+      "name": "Napoleon's Pizza",
+      "distance": "0.5 mi",
+      "url": "https://www.google.com/maps/search/Napoleon's%20Pizza+near+41.4025313%2C-81.71993619999999"
+    },
+    {
+      "name": "Sloppy Bobs",
+      "distance": "0.5 mi",
+      "url": "https://www.google.com/maps/search/Sloppy%20Bobs+near+41.4025313%2C-81.71993619999999"
+    },
+    {
+      "name": "Good Olde Daze - Parma",
+      "distance": "0.5 mi",
+      "url": "https://www.google.com/maps/search/Good%20Olde%20Daze%20-%20Parma+near+41.4025313%2C-81.71993619999999"
+    },
+    {
+      "name": "Royal Donut",
+      "distance": "0.6 mi",
+      "url": "https://www.google.com/maps/search/Royal%20Donut+near+41.4025313%2C-81.71993619999999"
+    },
+    {
+      "name": "Breads & Beyond Bakery",
+      "distance": "0.7 mi",
+      "url": "https://www.google.com/maps/search/Breads%20%26%20Beyond%20Bakery+near+41.4025313%2C-81.71993619999999"
+    },
+    {
+      "name": "Barabicu Smokehouse",
+      "distance": "0.8 mi",
+      "url": "https://www.google.com/maps/search/Barabicu%20Smokehouse+near+41.4025313%2C-81.71993619999999"
+    },
+    {
+      "name": "Colozza's Bakery",
+      "distance": "0.8 mi",
+      "url": "https://www.google.com/maps/search/Colozza's%20Bakery+near+41.4025313%2C-81.71993619999999"
+    }
+  ],
+  "bowling": [
+    {
+      "name": "Red Circle Bar & Lanes",
+      "distance": "0.6 mi",
+      "url": "https://www.google.com/maps/search/Red%20Circle%20Bar%20%26%20Lanes+near+41.4025313%2C-81.71993619999999"
+    },
+    {
+      "name": "Yorktown Lanes",
+      "distance": "2.2 mi",
+      "url": "https://www.google.com/maps/search/Yorktown%20Lanes+near+41.4025313%2C-81.71993619999999"
+    },
+    {
+      "name": "RollHouse Parma",
+      "distance": "3.3 mi",
+      "url": "https://www.google.com/maps/search/RollHouse%20Parma+near+41.4025313%2C-81.71993619999999",
+      "isFar": true
+    },
+    {
+      "name": "AMF Brookgate Lanes",
+      "distance": "4.2 mi",
+      "url": "https://www.google.com/maps/search/AMF%20Brookgate%20Lanes+near+41.4025313%2C-81.71993619999999",
+      "isFar": true
+    },
+    {
+      "name": "Spins Bowl Independence",
+      "distance": "4.2 mi",
+      "url": "https://www.google.com/maps/search/Spins%20Bowl%20Independence+near+41.4025313%2C-81.71993619999999",
+      "isFar": true
+    }
+  ],
+  "arcade": [],
+  "movies": [
+    {
+      "name": "AMC Ridge Park Square 8",
+      "distance": "1.9 mi",
+      "url": "https://www.google.com/maps/search/AMC%20Ridge%20Park%20Square%208+near+41.4025313%2C-81.71993619999999"
+    }
+  ],
+  "fun": [
+    {
+      "name": "Anthony Zielinski Park Splash Pad",
+      "distance": "1.5 mi",
+      "url": "https://www.google.com/maps/search/Anthony%20Zielinski%20Park%20Splash%20Pad+near+41.4025313%2C-81.71993619999999"
+    },
+    {
+      "name": "Jurassic Mountain",
+      "distance": "1.6 mi",
+      "url": "https://www.google.com/maps/search/Jurassic%20Mountain+near+41.4025313%2C-81.71993619999999"
+    },
+    {
+      "name": "Memphis Kiddie Park",
+      "distance": "3.3 mi",
+      "url": "https://www.google.com/maps/search/Memphis%20Kiddie%20Park+near+41.4025313%2C-81.71993619999999",
+      "isFar": true
+    },
+    {
+      "name": "Get Air Cleveland",
+      "distance": "4.9 mi",
+      "url": "https://www.google.com/maps/search/Get%20Air%20Cleveland+near+41.4025313%2C-81.71993619999999",
+      "isFar": true
+    }
+  ],
+  "hotels": [
+    {
+      "name": "Spacious Three Bedroom Parma Home Sleeps six Near Cleveland - Three-Bedroom House",
+      "distance": "0.2 mi",
+      "url": "https://www.google.com/maps/search/Spacious%20Three%20Bedroom%20Parma%20Home%20Sleeps%20six%20Near%20Cleveland%20-%20Three-Bedroom%20House+near+41.4025313%2C-81.71993619999999"
+    },
+    {
+      "name": "Charming Spacious & Affordable. Gem of Parma! Modern space superbly clean.",
+      "distance": "0.2 mi",
+      "url": "https://www.google.com/maps/search/Charming%20Spacious%20%26%20Affordable.%20Gem%20of%20Parma!%20Modern%20space%20superbly%20clean.+near+41.4025313%2C-81.71993619999999"
+    },
+    {
+      "name": "Charming Spacious & Affordable. Gem of Parma! Modern space superbly clean.",
+      "distance": "0.2 mi",
+      "url": "https://www.google.com/maps/search/Charming%20Spacious%20%26%20Affordable.%20Gem%20of%20Parma!%20Modern%20space%20superbly%20clean.+near+41.4025313%2C-81.71993619999999"
+    },
+    {
+      "name": "Enjoy a cute 1950's vacation bungalow in Cleve",
+      "distance": "0.3 mi",
+      "url": "https://www.google.com/maps/search/Enjoy%20a%20cute%201950's%20vacation%20bungalow%20in%20Cleve+near+41.4025313%2C-81.71993619999999"
+    },
+    {
+      "name": "Enjoy a cute 1950's vacation bungalow in Cleve",
+      "distance": "0.3 mi",
+      "url": "https://www.google.com/maps/search/Enjoy%20a%20cute%201950's%20vacation%20bungalow%20in%20Cleve+near+41.4025313%2C-81.71993619999999"
+    },
+    {
+      "name": "1 KING Bed 3 QUEEN Beds Pet Friendly Quiet",
+      "distance": "0.3 mi",
+      "url": "https://www.google.com/maps/search/1%20KING%20Bed%203%20QUEEN%20Beds%20Pet%20Friendly%20Quiet+near+41.4025313%2C-81.71993619999999"
+    },
+    {
+      "name": "Parma Home w/ Hot Tub and Arcade room!",
+      "distance": "0.6 mi",
+      "url": "https://www.google.com/maps/search/Parma%20Home%20w%2F%20Hot%20Tub%20and%20Arcade%20room!+near+41.4025313%2C-81.71993619999999"
+    }
+  ],
+  "gas": [
+    {
+      "name": "Speedway",
+      "distance": "0.5 mi",
+      "url": "https://www.google.com/maps/search/Speedway+near+41.4025313%2C-81.71993619999999"
+    },
+    {
+      "name": "Shell",
+      "distance": "0.5 mi",
+      "url": "https://www.google.com/maps/search/Shell+near+41.4025313%2C-81.71993619999999"
+    },
+    {
+      "name": "Shell",
+      "distance": "0.8 mi",
+      "url": "https://www.google.com/maps/search/Shell+near+41.4025313%2C-81.71993619999999"
+    },
+    {
+      "name": "Gulf",
+      "distance": "1.0 mi",
+      "url": "https://www.google.com/maps/search/Gulf+near+41.4025313%2C-81.71993619999999"
+    },
+    {
+      "name": "Par Mar",
+      "distance": "1.0 mi",
+      "url": "https://www.google.com/maps/search/Par%20Mar+near+41.4025313%2C-81.71993619999999"
+    }
+  ]
+}

@@ -1,0 +1,80 @@
+{
+  "quick_bite": [
+    {
+      "name": "Casey's",
+      "distance": "0.2 mi",
+      "url": "https://www.google.com/maps/search/Casey's+near+42.282661%2C-94.2878812"
+    },
+    {
+      "name": "Chester's Chicken",
+      "distance": "5.5 mi",
+      "url": "https://www.google.com/maps/search/Chester's%20Chicken+near+42.282661%2C-94.2878812",
+      "isFar": true
+    }
+  ],
+  "coffee": [
+    {
+      "name": "1108 Coffee and Boutique",
+      "distance": "0.1 mi",
+      "url": "https://www.google.com/maps/search/1108%20Coffee%20and%20Boutique+near+42.282661%2C-94.2878812"
+    }
+  ],
+  "team_lunch": [],
+  "dinner": [
+    {
+      "name": "Sinsational Bbq & Smoked Meats",
+      "distance": "0.1 mi",
+      "url": "https://www.google.com/maps/search/Sinsational%20Bbq%20%26%20Smoked%20Meats+near+42.282661%2C-94.2878812"
+    },
+    {
+      "name": "Mulligans",
+      "distance": "0.9 mi",
+      "url": "https://www.google.com/maps/search/Mulligans+near+42.282661%2C-94.2878812"
+    },
+    {
+      "name": "Hummingbird Confections Inc.",
+      "distance": "5.5 mi",
+      "url": "https://www.google.com/maps/search/Hummingbird%20Confections%20Inc.+near+42.282661%2C-94.2878812",
+      "isFar": true
+    },
+    {
+      "name": "209 Main",
+      "distance": "8.3 mi",
+      "url": "https://www.google.com/maps/search/209%20Main+near+42.282661%2C-94.2878812",
+      "isFar": true
+    }
+  ],
+  "bowling": [],
+  "arcade": [],
+  "movies": [],
+  "fun": [],
+  "hotels": [
+    {
+      "name": "Gowrie RV Park",
+      "distance": "0.1 mi",
+      "url": "https://www.google.com/maps/search/Gowrie%20RV%20Park+near+42.282661%2C-94.2878812"
+    },
+    {
+      "name": "New construction barndominium 2-bedroom house with a loft in Gowrie, Iowa!",
+      "distance": "0.5 mi",
+      "url": "https://www.google.com/maps/search/New%20construction%20barndominium%202-bedroom%20house%20with%20a%20loft%20in%20Gowrie%2C%20Iowa!+near+42.282661%2C-94.2878812"
+    }
+  ],
+  "gas": [
+    {
+      "name": "Clark",
+      "distance": "0.2 mi",
+      "url": "https://www.google.com/maps/search/Clark+near+42.282661%2C-94.2878812"
+    },
+    {
+      "name": "Fast Stop Express",
+      "distance": "0.4 mi",
+      "url": "https://www.google.com/maps/search/Fast%20Stop%20Express+near+42.282661%2C-94.2878812"
+    },
+    {
+      "name": "GOWRIE FUEL 24",
+      "distance": "0.4 mi",
+      "url": "https://www.google.com/maps/search/GOWRIE%20FUEL%2024+near+42.282661%2C-94.2878812"
+    }
+  ]
+}

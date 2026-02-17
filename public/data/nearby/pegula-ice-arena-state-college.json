@@ -1,0 +1,190 @@
+{
+  "quick_bite": [
+    {
+      "name": "Subway",
+      "distance": "0.1 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Subway&query_place_id=ChIJPXgkIR6mzokRkC7xFmBtXyc&center=40.8066749,-77.85694649999999"
+    },
+    {
+      "name": "Big Chicken",
+      "distance": "0.5 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Big%20Chicken&query_place_id=ChIJ7_mN5HenzokRDrE-kl9NWc0&center=40.7992558,-77.8549598"
+    },
+    {
+      "name": "Subway",
+      "distance": "0.5 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Subway&query_place_id=ChIJPXgkIR6mzokR7Axa9TL_nIY&center=40.798972,-77.85539299999999"
+    },
+    {
+      "name": "Osaka",
+      "distance": "0.5 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Osaka&query_place_id=ChIJ-XE4Jx6mzokRv3NophvUGns&center=40.7988063,-77.855582"
+    }
+  ],
+  "coffee": [
+    {
+      "name": "Starbucks",
+      "distance": "0.3 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Starbucks&query_place_id=ChIJnVAOOACnzokRSCjMv_5RDmw&center=40.8064465,-77.8622486"
+    },
+    {
+      "name": "Saxbys at Penn State University",
+      "distance": "0.5 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Saxbys%20at%20Penn%20State%20University&query_place_id=ChIJzcDaiOenzokRZa7xIGalA0o&center=40.803844999999995,-77.865218"
+    },
+    {
+      "name": "Irvings Bagels",
+      "distance": "0.9 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Irvings%20Bagels&query_place_id=ChIJY3NE6ZiozokREObS4zOEO-g&center=40.7944859,-77.8611214"
+    },
+    {
+      "name": "Duck Donuts",
+      "distance": "1.0 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Duck%20Donuts&query_place_id=ChIJEVwY3ZiozokRT4Uq78E0RVQ&center=40.793153,-77.862071"
+    }
+  ],
+  "team_lunch": [
+    {
+      "name": "Shake Smart",
+      "distance": "0.1 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Shake%20Smart&query_place_id=ChIJGy8JoainzokR43he0N4J8bA&center=40.8075402,-77.859267"
+    },
+    {
+      "name": "Sipping with Kambi",
+      "distance": "0.4 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Sipping%20with%20Kambi&query_place_id=ChIJmYZIJ-ynzokRpf1VDqRHEWA&center=40.8084075,-77.8638835"
+    },
+    {
+      "name": "Redifer City Grill",
+      "distance": "0.5 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Redifer%20City%20Grill&query_place_id=ChIJcSYDFwCnzokRhRdodeqid-c&center=40.7995211,-77.8559322"
+    },
+    {
+      "name": "Urban Garden",
+      "distance": "0.5 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Urban%20Garden&query_place_id=ChIJE2_lVACnzokRII7IoAUoQvM&center=40.7995211,-77.8559322"
+    },
+    {
+      "name": "Southside Buffet",
+      "distance": "0.5 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Southside%20Buffet&query_place_id=ChIJFeoACQCnzokR76Fj4TOhixU&center=40.7995211,-77.8559322"
+    },
+    {
+      "name": "Piatto Felice",
+      "distance": "0.5 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Piatto%20Felice&query_place_id=ChIJt1MnIwCnzokRM1ZWy3tPPos&center=40.7995211,-77.8559322"
+    }
+  ],
+  "dinner": [
+    {
+      "name": "Auntie Anne's",
+      "distance": "0.1 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Auntie%20Anne's&query_place_id=ChIJxWQiujWnzokRoVnMqnNhpE8&center=40.8061511,-77.8569381"
+    },
+    {
+      "name": "Pho Mi Now",
+      "distance": "0.5 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Pho%20Mi%20Now&query_place_id=ChIJxfRuH26nzokRrw2tuQGqwxM&center=40.7988796,-77.8554804"
+    },
+    {
+      "name": "Playa Bowls",
+      "distance": "0.6 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Playa%20Bowls&query_place_id=ChIJ1wxEiVWnzokR4y1xJmo8WCE&center=40.798756,-77.85433499999999"
+    },
+    {
+      "name": "Mosul Grill",
+      "distance": "0.6 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Mosul%20Grill&query_place_id=ChIJlZ9sPACpzokRZHVi08rrpC0&center=40.7983,-77.856109"
+    },
+    {
+      "name": "Penn State Halal Guys",
+      "distance": "0.6 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Penn%20State%20Halal%20Guys&query_place_id=ChIJJx-yTGCpzokRwCsVey0scRo&center=40.7980869,-77.8560806"
+    },
+    {
+      "name": "McAlister's Deli",
+      "distance": "0.6 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=McAlister's%20Deli&query_place_id=ChIJh0Bkx5-ozokRgb9W_zKRMAk&center=40.7982,-77.86149999999999"
+    }
+  ],
+  "bowling": [
+    {
+      "name": "Northland Bowl & Sports Center",
+      "distance": "1.8 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Northland%20Bowl%20%26%20Sports%20Center&query_place_id=ChIJyTbxBNenzokRqLNxcixPcvc&center=40.8055173,-77.8917805"
+    }
+  ],
+  "arcade": [],
+  "movies": [
+    {
+      "name": "College 9 Theatre",
+      "distance": "3.6 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=College%209%20Theatre&query_place_id=ChIJ80ZpPv-nzokRvC3s5zn9_AY&center=40.810202,-77.92642099999999",
+      "isFar": true
+    },
+    {
+      "name": "UEC Theatres 12",
+      "distance": "3.7 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=UEC%20Theatres%2012&query_place_id=ChIJlwt7zFGkzokRadqAmYKLpic&center=40.8402903,-77.8010786",
+      "isFar": true
+    }
+  ],
+  "fun": [
+    {
+      "name": "Get Air Trampoline Park",
+      "distance": "2.6 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Get%20Air%20Trampoline%20Park&query_place_id=ChIJdwDND4-lzokRHGzGbq5pmXs&center=40.8221822,-77.8122813"
+    },
+    {
+      "name": "Keith Spring",
+      "distance": "6.6 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Keith%20Spring&query_place_id=ChIJJYsTKCmvzokRT2b2fz-06Ts&center=40.725897599999996,-77.7891648",
+      "isFar": true
+    },
+    {
+      "name": "Mount Grello",
+      "distance": "7.1 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Mount%20Grello&query_place_id=ChIJ_a4IYgAdzIkRy_kKXi7B8d8&center=40.854698,-77.977913",
+      "isFar": true
+    }
+  ],
+  "hotels": [
+    {
+      "name": "PSU TAILGATE RV at BEAVER STADIUM",
+      "distance": "0.4 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=PSU%20TAILGATE%20RV%20at%20BEAVER%20STADIUM&query_place_id=ChIJg4uFJBamzokRc-CvdgNoj5c&center=40.8084068,-77.863884"
+    },
+    {
+      "name": "MAISON de BLUE et BLANC, Luxury Renovated Home, Close to Beaver Stadium.\\n",
+      "distance": "0.7 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=MAISON%20de%20BLUE%20et%20BLANC%2C%20Luxury%20Renovated%20Home%2C%20Close%20to%20Beaver%20Stadium.%5Cn&query_place_id=ChIJTYyuzgWmzokR1v8nIIYh2VE&center=40.8053284,-77.8434906"
+    },
+    {
+      "name": "Borough Highlands House",
+      "distance": "0.8 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Borough%20Highlands%20House&query_place_id=ChIJhyUB5KaozokRs9lnbkCM0sw&center=40.7956009,-77.85207369999999"
+    }
+  ],
+  "gas": [
+    {
+      "name": "Snappy's",
+      "distance": "0.7 mi",
+      "url": "https://www.google.com/maps/search/Snappy's+near+40.806567%2C-77.8570103"
+    },
+    {
+      "name": "College Heights Service Station",
+      "distance": "1.1 mi",
+      "url": "https://www.google.com/maps/search/College%20Heights%20Service%20Station+near+40.806567%2C-77.8570103"
+    },
+    {
+      "name": "Sunoco",
+      "distance": "1.1 mi",
+      "url": "https://www.google.com/maps/search/Sunoco+near+40.806567%2C-77.8570103"
+    },
+    {
+      "name": "Amerigreen",
+      "distance": "1.3 mi",
+      "url": "https://www.google.com/maps/search/Amerigreen+near+40.806567%2C-77.8570103"
+    }
+  ]
+}

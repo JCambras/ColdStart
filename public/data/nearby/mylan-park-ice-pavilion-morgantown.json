@@ -1,0 +1,194 @@
+{
+  "quick_bite": [
+    {
+      "name": "Little Caesars Pizza",
+      "distance": "1.4 mi",
+      "url": "https://www.google.com/maps/search/Little%20Caesars%20Pizza+near+39.6383982%2C-80.03160539999999"
+    },
+    {
+      "name": "Dairy Queen Grill & Chill",
+      "distance": "1.4 mi",
+      "url": "https://www.google.com/maps/search/Dairy%20Queen%20Grill%20%26%20Chill+near+39.6383982%2C-80.03160539999999"
+    },
+    {
+      "name": "KFC",
+      "distance": "1.4 mi",
+      "url": "https://www.google.com/maps/search/KFC+near+39.6383982%2C-80.03160539999999"
+    },
+    {
+      "name": "Burger King",
+      "distance": "1.5 mi",
+      "url": "https://www.google.com/maps/search/Burger%20King+near+39.6383982%2C-80.03160539999999"
+    },
+    {
+      "name": "Firehouse Subs University Town Center",
+      "distance": "1.6 mi",
+      "url": "https://www.google.com/maps/search/Firehouse%20Subs%20University%20Town%20Center+near+39.6383982%2C-80.03160539999999"
+    },
+    {
+      "name": "Chick-fil-A",
+      "distance": "1.7 mi",
+      "url": "https://www.google.com/maps/search/Chick-fil-A+near+39.6383982%2C-80.03160539999999"
+    },
+    {
+      "name": "Jersey Mike's Subs",
+      "distance": "1.7 mi",
+      "url": "https://www.google.com/maps/search/Jersey%20Mike's%20Subs+near+39.6383982%2C-80.03160539999999"
+    }
+  ],
+  "coffee": [
+    {
+      "name": "Tim Hortons",
+      "distance": "1.4 mi",
+      "url": "https://www.google.com/maps/search/Tim%20Hortons+near+39.6383982%2C-80.03160539999999"
+    },
+    {
+      "name": "The Playroom + Coffee Corner",
+      "distance": "4.4 mi",
+      "url": "https://www.google.com/maps/search/The%20Playroom%20%2B%20Coffee%20Corner+near+39.6383982%2C-80.03160539999999",
+      "isFar": true
+    }
+  ],
+  "team_lunch": [
+    {
+      "name": "Texas Roadhouse",
+      "distance": "1.5 mi",
+      "url": "https://www.google.com/maps/search/Texas%20Roadhouse+near+39.6383982%2C-80.03160539999999"
+    },
+    {
+      "name": "Giant Eagle Bakery",
+      "distance": "1.7 mi",
+      "url": "https://www.google.com/maps/search/Giant%20Eagle%20Bakery+near+39.6383982%2C-80.03160539999999"
+    }
+  ],
+  "dinner": [
+    {
+      "name": "Rising creek bakery",
+      "distance": "0.1 mi",
+      "url": "https://www.google.com/maps/search/Rising%20creek%20bakery+near+39.6383982%2C-80.03160539999999"
+    },
+    {
+      "name": "Beehive Café",
+      "distance": "0.3 mi",
+      "url": "https://www.google.com/maps/search/Beehive%20Caf%C3%A9+near+39.6383982%2C-80.03160539999999"
+    },
+    {
+      "name": "Crumbl",
+      "distance": "1.6 mi",
+      "url": "https://www.google.com/maps/search/Crumbl+near+39.6383982%2C-80.03160539999999"
+    },
+    {
+      "name": "Nothing Bundt Cakes",
+      "distance": "1.7 mi",
+      "url": "https://www.google.com/maps/search/Nothing%20Bundt%20Cakes+near+39.6383982%2C-80.03160539999999"
+    },
+    {
+      "name": "Blaze Pizza",
+      "distance": "1.7 mi",
+      "url": "https://www.google.com/maps/search/Blaze%20Pizza+near+39.6383982%2C-80.03160539999999"
+    }
+  ],
+  "bowling": [
+    {
+      "name": "Suburban Lanes",
+      "distance": "4.0 mi",
+      "url": "https://www.google.com/maps/search/Suburban%20Lanes+near+39.6383982%2C-80.03160539999999",
+      "isFar": true
+    }
+  ],
+  "arcade": [],
+  "movies": [
+    {
+      "name": "AMC Morgantown 12",
+      "distance": "1.9 mi",
+      "url": "https://www.google.com/maps/search/AMC%20Morgantown%2012+near+39.6383982%2C-80.03160539999999"
+    }
+  ],
+  "fun": [
+    {
+      "name": "Bungee Jump",
+      "distance": "1.9 mi",
+      "url": "https://www.google.com/maps/search/Bungee%20Jump+near+39.6383982%2C-80.03160539999999"
+    },
+    {
+      "name": "Cartoon Headquarters Family Fun Zone",
+      "distance": "2.1 mi",
+      "url": "https://www.google.com/maps/search/Cartoon%20Headquarters%20Family%20Fun%20Zone+near+39.6383982%2C-80.03160539999999"
+    },
+    {
+      "name": "Morgantown Escape Room",
+      "distance": "2.6 mi",
+      "url": "https://www.google.com/maps/search/Morgantown%20Escape%20Room+near+39.6383982%2C-80.03160539999999"
+    },
+    {
+      "name": "XSCAPE Live Escape Room Morgantown",
+      "distance": "3.8 mi",
+      "url": "https://www.google.com/maps/search/XSCAPE%20Live%20Escape%20Room%20Morgantown+near+39.6383982%2C-80.03160539999999",
+      "isFar": true
+    }
+  ],
+  "hotels": [
+    {
+      "name": "Morgantown / Mylan Park KOA Holiday",
+      "distance": "0.2 mi",
+      "url": "https://www.google.com/maps/search/Morgantown%20%2F%20Mylan%20Park%20KOA%20Holiday+near+39.6383982%2C-80.03160539999999"
+    },
+    {
+      "name": "La Quinta Inn & Suites by Wyndham Morgantown",
+      "distance": "1.6 mi",
+      "url": "https://www.google.com/maps/search/La%20Quinta%20Inn%20%26%20Suites%20by%20Wyndham%20Morgantown+near+39.6383982%2C-80.03160539999999"
+    },
+    {
+      "name": "Fairfield by Marriott Inn & Suites Morgantown",
+      "distance": "1.7 mi",
+      "url": "https://www.google.com/maps/search/Fairfield%20by%20Marriott%20Inn%20%26%20Suites%20Morgantown+near+39.6383982%2C-80.03160539999999"
+    },
+    {
+      "name": "Candlewood Suites Morgantown-Univ West Virginia by IHG",
+      "distance": "1.7 mi",
+      "url": "https://www.google.com/maps/search/Candlewood%20Suites%20Morgantown-Univ%20West%20Virginia%20by%20IHG+near+39.6383982%2C-80.03160539999999"
+    },
+    {
+      "name": "Hampton Inn & Suites Morgantown / University Town Centre",
+      "distance": "1.8 mi",
+      "url": "https://www.google.com/maps/search/Hampton%20Inn%20%26%20Suites%20Morgantown%20%2F%20University%20Town%20Centre+near+39.6383982%2C-80.03160539999999"
+    },
+    {
+      "name": "Courtyard by Marriott Morgantown",
+      "distance": "2.0 mi",
+      "url": "https://www.google.com/maps/search/Courtyard%20by%20Marriott%20Morgantown+near+39.6383982%2C-80.03160539999999"
+    },
+    {
+      "name": "St Johns Court",
+      "distance": "2.1 mi",
+      "url": "https://www.google.com/maps/search/St%20Johns%20Court+near+39.6383982%2C-80.03160539999999"
+    }
+  ],
+  "gas": [
+    {
+      "name": "Donnie's Citgo",
+      "distance": "1.4 mi",
+      "url": "https://www.google.com/maps/search/Donnie's%20Citgo+near+39.6383982%2C-80.03160539999999"
+    },
+    {
+      "name": "Sunoco",
+      "distance": "1.4 mi",
+      "url": "https://www.google.com/maps/search/Sunoco+near+39.6383982%2C-80.03160539999999"
+    },
+    {
+      "name": "Exxon",
+      "distance": "1.6 mi",
+      "url": "https://www.google.com/maps/search/Exxon+near+39.6383982%2C-80.03160539999999"
+    },
+    {
+      "name": "GetGo Gas Station",
+      "distance": "1.7 mi",
+      "url": "https://www.google.com/maps/search/GetGo%20Gas%20Station+near+39.6383982%2C-80.03160539999999"
+    },
+    {
+      "name": "Sam's Club Gas Station",
+      "distance": "1.8 mi",
+      "url": "https://www.google.com/maps/search/Sam's%20Club%20Gas%20Station+near+39.6383982%2C-80.03160539999999"
+    }
+  ]
+}

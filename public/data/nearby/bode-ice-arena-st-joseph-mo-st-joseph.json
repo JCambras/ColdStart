@@ -1,0 +1,192 @@
+{
+  "quick_bite": [
+    {
+      "name": "Little Caesars Pizza",
+      "distance": "1.2 mi",
+      "url": "https://www.google.com/maps/search/Little%20Caesars%20Pizza+near+39.738296%2C-94.82853019999999"
+    },
+    {
+      "name": "Taco Bell",
+      "distance": "1.5 mi",
+      "url": "https://www.google.com/maps/search/Taco%20Bell+near+39.738296%2C-94.82853019999999"
+    },
+    {
+      "name": "Chef Baldee's Pizza",
+      "distance": "1.7 mi",
+      "url": "https://www.google.com/maps/search/Chef%20Baldee's%20Pizza+near+39.738296%2C-94.82853019999999"
+    },
+    {
+      "name": "Burger King",
+      "distance": "1.7 mi",
+      "url": "https://www.google.com/maps/search/Burger%20King+near+39.738296%2C-94.82853019999999"
+    },
+    {
+      "name": "Wendy's",
+      "distance": "1.7 mi",
+      "url": "https://www.google.com/maps/search/Wendy's+near+39.738296%2C-94.82853019999999"
+    }
+  ],
+  "coffee": [
+    {
+      "name": "Scooter's Coffee",
+      "distance": "1.5 mi",
+      "url": "https://www.google.com/maps/search/Scooter's%20Coffee+near+39.738296%2C-94.82853019999999"
+    },
+    {
+      "name": "McDonald's",
+      "distance": "1.5 mi",
+      "url": "https://www.google.com/maps/search/McDonald's+near+39.738296%2C-94.82853019999999"
+    }
+  ],
+  "team_lunch": [
+    {
+      "name": "Casey's",
+      "distance": "0.5 mi",
+      "url": "https://www.google.com/maps/search/Casey's+near+39.738296%2C-94.82853019999999"
+    },
+    {
+      "name": "Walmart Bakery",
+      "distance": "1.3 mi",
+      "url": "https://www.google.com/maps/search/Walmart%20Bakery+near+39.738296%2C-94.82853019999999"
+    },
+    {
+      "name": "T’s cooking shack",
+      "distance": "1.6 mi",
+      "url": "https://www.google.com/maps/search/T%E2%80%99s%20cooking%20shack+near+39.738296%2C-94.82853019999999"
+    }
+  ],
+  "dinner": [
+    {
+      "name": "Murphy's Smokin Meats & Catering",
+      "distance": "0.4 mi",
+      "url": "https://www.google.com/maps/search/Murphy's%20Smokin%20Meats%20%26%20Catering+near+39.738296%2C-94.82853019999999"
+    },
+    {
+      "name": "Sweet Emotions Bake Shop",
+      "distance": "0.6 mi",
+      "url": "https://www.google.com/maps/search/Sweet%20Emotions%20Bake%20Shop+near+39.738296%2C-94.82853019999999"
+    },
+    {
+      "name": "Adam‘s Bar & Grill",
+      "distance": "0.6 mi",
+      "url": "https://www.google.com/maps/search/Adam%E2%80%98s%20Bar%20%26%20Grill+near+39.738296%2C-94.82853019999999"
+    },
+    {
+      "name": "Cabbage Roll",
+      "distance": "1.4 mi",
+      "url": "https://www.google.com/maps/search/Cabbage%20Roll+near+39.738296%2C-94.82853019999999"
+    },
+    {
+      "name": "Overtime Bar and Grill",
+      "distance": "1.5 mi",
+      "url": "https://www.google.com/maps/search/Overtime%20Bar%20and%20Grill+near+39.738296%2C-94.82853019999999"
+    },
+    {
+      "name": "Lisa's Roadside Diner",
+      "distance": "1.5 mi",
+      "url": "https://www.google.com/maps/search/Lisa's%20Roadside%20Diner+near+39.738296%2C-94.82853019999999"
+    },
+    {
+      "name": "Kingfishsoulfoodonwheelz",
+      "distance": "1.5 mi",
+      "url": "https://www.google.com/maps/search/Kingfishsoulfoodonwheelz+near+39.738296%2C-94.82853019999999"
+    }
+  ],
+  "bowling": [
+    {
+      "name": "Belt Entertainment",
+      "distance": "2.4 mi",
+      "url": "https://www.google.com/maps/search/Belt%20Entertainment+near+39.738296%2C-94.82853019999999"
+    },
+    {
+      "name": "Revolutions Lanes & Fun Center",
+      "distance": "3.2 mi",
+      "url": "https://www.google.com/maps/search/Revolutions%20Lanes%20%26%20Fun%20Center+near+39.738296%2C-94.82853019999999",
+      "isFar": true
+    }
+  ],
+  "arcade": [],
+  "movies": [
+    {
+      "name": "Trail Theatre",
+      "distance": "2.3 mi",
+      "url": "https://www.google.com/maps/search/Trail%20Theatre+near+39.738296%2C-94.82853019999999"
+    }
+  ],
+  "fun": [
+    {
+      "name": "Liberty Oak Splash Park",
+      "distance": "2.3 mi",
+      "url": "https://www.google.com/maps/search/Liberty%20Oak%20Splash%20Park+near+39.738296%2C-94.82853019999999"
+    },
+    {
+      "name": "Fun Run St Joe",
+      "distance": "2.9 mi",
+      "url": "https://www.google.com/maps/search/Fun%20Run%20St%20Joe+near+39.738296%2C-94.82853019999999"
+    }
+  ],
+  "hotels": [
+    {
+      "name": "Countryside Estates MHP",
+      "distance": "0.4 mi",
+      "url": "https://www.google.com/maps/search/Countryside%20Estates%20MHP+near+39.738296%2C-94.82853019999999"
+    },
+    {
+      "name": "Coachlight Place Manufactured Home Community",
+      "distance": "1.0 mi",
+      "url": "https://www.google.com/maps/search/Coachlight%20Place%20Manufactured%20Home%20Community+near+39.738296%2C-94.82853019999999"
+    },
+    {
+      "name": "Pony Express 1BR - Pets OK + Laundry - Blue Door",
+      "distance": "1.0 mi",
+      "url": "https://www.google.com/maps/search/Pony%20Express%201BR%20-%20Pets%20OK%20%2B%20Laundry%20-%20Blue%20Door+near+39.738296%2C-94.82853019999999"
+    },
+    {
+      "name": "Modern Garden 1BR - Laundry + Pets OK - Quiet",
+      "distance": "1.1 mi",
+      "url": "https://www.google.com/maps/search/Modern%20Garden%201BR%20-%20Laundry%20%2B%20Pets%20OK%20-%20Quiet+near+39.738296%2C-94.82853019999999"
+    },
+    {
+      "name": "Historic country feel, Cozy 1-bedroom condo in heart of Saint Joseph with WiFi,",
+      "distance": "1.2 mi",
+      "url": "https://www.google.com/maps/search/Historic%20country%20feel%2C%20Cozy%201-bedroom%20condo%20in%20heart%20of%20Saint%20Joseph%20with%20WiFi%2C+near+39.738296%2C-94.82853019999999"
+    },
+    {
+      "name": "Welcome to Casa de Campo! Your home away from home",
+      "distance": "1.4 mi",
+      "url": "https://www.google.com/maps/search/Welcome%20to%20Casa%20de%20Campo!%20Your%20home%20away%20from%20home+near+39.738296%2C-94.82853019999999"
+    },
+    {
+      "name": "Welcome to Casa de Campo!",
+      "distance": "1.4 mi",
+      "url": "https://www.google.com/maps/search/Welcome%20to%20Casa%20de%20Campo!+near+39.738296%2C-94.82853019999999"
+    }
+  ],
+  "gas": [
+    {
+      "name": "Road Star",
+      "distance": "0.4 mi",
+      "url": "https://www.google.com/maps/search/Road%20Star+near+39.738296%2C-94.82853019999999"
+    },
+    {
+      "name": "Walker Oil",
+      "distance": "0.4 mi",
+      "url": "https://www.google.com/maps/search/Walker%20Oil+near+39.738296%2C-94.82853019999999"
+    },
+    {
+      "name": "MIDWEST FUELS #9",
+      "distance": "1.0 mi",
+      "url": "https://www.google.com/maps/search/MIDWEST%20FUELS%20%239+near+39.738296%2C-94.82853019999999"
+    },
+    {
+      "name": "Conoco",
+      "distance": "1.0 mi",
+      "url": "https://www.google.com/maps/search/Conoco+near+39.738296%2C-94.82853019999999"
+    },
+    {
+      "name": "Kern's Service",
+      "distance": "1.2 mi",
+      "url": "https://www.google.com/maps/search/Kern's%20Service+near+39.738296%2C-94.82853019999999"
+    }
+  ]
+}

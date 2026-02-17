@@ -1,0 +1,209 @@
+{
+  "quick_bite": [
+    {
+      "name": "KFC",
+      "distance": "0.8 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=KFC&query_place_id=ChIJyX7LVelt04kRSwjTNA-Cf0Q&center=43.002006,-78.85549739999999"
+    },
+    {
+      "name": "Wendy's",
+      "distance": "0.8 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Wendy's&query_place_id=ChIJsaPgRelt04kR5gZkds3_qL4&center=43.0027184,-78.85595359999999"
+    },
+    {
+      "name": "Buffalo Wild Wings",
+      "distance": "0.9 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Buffalo%20Wild%20Wings&query_place_id=ChIJ0-jEZRFy04kRiFBfrh6coCs&center=42.9990659,-78.8229453"
+    },
+    {
+      "name": "Taco Bell",
+      "distance": "0.9 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Taco%20Bell&query_place_id=ChIJE_qyMwBt04kRH5aKYEzKA18&center=43.003215,-78.857703"
+    },
+    {
+      "name": "Five Guys",
+      "distance": "1.0 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Five%20Guys&query_place_id=ChIJdQTSjxNy04kRxSdvBtGWh2c&center=42.9969848,-78.82190159999999"
+    },
+    {
+      "name": "Subway",
+      "distance": "1.0 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Subway&query_place_id=ChIJmWJJoult04kRoiFXatMhgsI&center=43.0036529,-78.8586261"
+    }
+  ],
+  "coffee": [
+    {
+      "name": "Tim Hortons",
+      "distance": "0.8 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Tim%20Hortons&query_place_id=ChIJ-5aTqu5t04kRlgHyYH1c_BA&center=43.0019206,-78.8551305"
+    },
+    {
+      "name": "Blissful Bakes",
+      "distance": "1.1 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Blissful%20Bakes&query_place_id=ChIJf09jycRz04kRGa0HOiQUds0&center=43.008519899999996,-78.81870540000001"
+    },
+    {
+      "name": "Paula's Donuts",
+      "distance": "1.6 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Paula's%20Donuts&query_place_id=ChIJsdwJxphy04kRfvWockgtc5U&center=42.980473499999995,-78.84799819999999"
+    },
+    {
+      "name": "Classic Lanes",
+      "distance": "2.5 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Classic%20Lanes&query_place_id=ChIJ4eHAO1Ns04kRWcDkMjDYswg&center=42.9876242,-78.8848977"
+    }
+  ],
+  "team_lunch": [
+    {
+      "name": "Mike's Subs Express",
+      "distance": "0.1 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Mike's%20Subs%20Express&query_place_id=ChIJw6xQRX1t04kR0D-iTs-20NM&center=43.002232,-78.84019599999999"
+    },
+    {
+      "name": "Just Pizza & Wing Co.",
+      "distance": "0.7 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Just%20Pizza%20%26%20Wing%20Co.&query_place_id=ChIJdd3TE-1t04kR4MhK8Iw_v0E&center=42.9983296,-78.8513498"
+    },
+    {
+      "name": "Texas Roadhouse",
+      "distance": "0.8 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Texas%20Roadhouse&query_place_id=ChIJBbG97ett04kRyLNBbBA-hz0&center=43.001182799999995,-78.8558201"
+    },
+    {
+      "name": "Venus Greek & Mediterranean",
+      "distance": "0.8 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Venus%20Greek%20%26%20Mediterranean&query_place_id=ChIJZ_Sfd9Rz04kRjACoqOD-zbY&center=43.0022333,-78.8229382"
+    },
+    {
+      "name": "Wingstop",
+      "distance": "0.8 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Wingstop&query_place_id=ChIJv4u9WIBz04kRM97jOa5NLRU&center=43.0022333,-78.8229382"
+    },
+    {
+      "name": "Papa Johns Pizza",
+      "distance": "0.9 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Papa%20Johns%20Pizza&query_place_id=ChIJX_xUzhBy04kR6Y4G6h7At80&center=43.0017607,-78.8218751"
+    }
+  ],
+  "dinner": [
+    {
+      "name": "290 Slide, Sports Bar & Grill",
+      "distance": "0.6 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=290%20Slide%2C%20Sports%20Bar%20%26%20Grill&query_place_id=ChIJ3dJ2xjtt04kRk1_H_thLlew&center=42.9978774,-78.8503559"
+    },
+    {
+      "name": "La Hacienda Brighton",
+      "distance": "0.7 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=La%20Hacienda%20Brighton&query_place_id=ChIJXQNKPYpt04kRZxKL2dFjldc&center=42.991361999999995,-78.839766"
+    },
+    {
+      "name": "Rizzo's Casa Di Italia Restaurant",
+      "distance": "0.8 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Rizzo's%20Casa%20Di%20Italia%20Restaurant&query_place_id=ChIJUwit-Ylt04kRyKFlgUpgtbo&center=42.990508999999996,-78.8388595"
+    },
+    {
+      "name": "Peking Quick One Chinese Cuisine",
+      "distance": "0.8 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Peking%20Quick%20One%20Chinese%20Cuisine&query_place_id=ChIJUeTn_XVy04kRxwVSf_BlfH0&center=42.9904288,-78.8374419"
+    },
+    {
+      "name": "Haruko Craft Ramen & Umi Tea",
+      "distance": "0.8 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Haruko%20Craft%20Ramen%20%26%20Umi%20Tea&query_place_id=ChIJ279DGf1z04kRh8B_SC-thIY&center=42.9901245,-78.8375282"
+    },
+    {
+      "name": "White Rabbit Dessert Experience",
+      "distance": "0.8 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=White%20Rabbit%20Dessert%20Experience&query_place_id=ChIJQcng6hBy04kRf1Hjvwj7m2E&center=43.0021667,-78.8228335"
+    }
+  ],
+  "bowling": [
+    {
+      "name": "Tonawanda Bowling Center",
+      "distance": "1.2 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Tonawanda%20Bowling%20Center&query_place_id=ChIJA11D0MJt04kRQro_cvPfdXo&center=43.0072222,-78.8627778"
+    },
+    {
+      "name": "Cherry Laurel Lanes",
+      "distance": "3.2 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Cherry%20Laurel%20Lanes&query_place_id=ChIJWVL0EP5x04kRYM0JmYJZ5BE&center=43.0467302,-78.8229277",
+      "isFar": true
+    },
+    {
+      "name": "Kenmore Lanes",
+      "distance": "3.6 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Kenmore%20Lanes&query_place_id=ChIJpfQBACFt04kRERLWajYCOdA&center=42.9588162,-78.88081319999999",
+      "isFar": true
+    }
+  ],
+  "arcade": [],
+  "movies": [
+    {
+      "name": "The Screening Room Cinema & Arts Cafe",
+      "distance": "1.4 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=The%20Screening%20Room%20Cinema%20%26%20Arts%20Cafe&query_place_id=ChIJd6xJB15y04kR0Pdv1eqMdEQ&center=42.9889941,-78.8193588"
+    },
+    {
+      "name": "AMC Maple Ridge 8",
+      "distance": "1.9 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=AMC%20Maple%20Ridge%208&query_place_id=ChIJA7zVGDhy04kRRnVQYTy2kks&center=42.993148,-78.8043701"
+    },
+    {
+      "name": "Dipson Amherst Theatre",
+      "distance": "3.2 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Dipson%20Amherst%20Theatre&query_place_id=ChIJQbptr5Vy04kRJ3S9-8O5qrA&center=42.958614,-78.8166687",
+      "isFar": true
+    }
+  ],
+  "fun": [
+    {
+      "name": "Escape City Buffalo",
+      "distance": "1.0 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Escape%20City%20Buffalo&query_place_id=ChIJ7c7ovOlt04kRROLrslNUKV4&center=43.0036316,-78.85846649999999"
+    },
+    {
+      "name": "Get Air Trampoline Park",
+      "distance": "1.0 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Get%20Air%20Trampoline%20Park&query_place_id=ChIJmWLYbvlt04kRYO0sM0h3_ZA&center=43.0026089,-78.8600832"
+    },
+    {
+      "name": "Adventure Landing",
+      "distance": "1.5 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Adventure%20Landing&query_place_id=ChIJgRoj7oNt04kR5JbnO5uLmX0&center=42.9811967,-78.8450743"
+    },
+    {
+      "name": "Canal Street Pavilion",
+      "distance": "2.3 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Canal%20Street%20Pavilion&query_place_id=ChIJd5sg_c9v04kRrGyspnazL9I&center=43.0205498,-78.8768291"
+    }
+  ],
+  "hotels": [
+    {
+      "name": "Dolphann's Delightful Dive",
+      "distance": "0.8 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Dolphann's%20Delightful%20Dive&query_place_id=ChIJWwioj_9t04kRR7BbT_xQjg8&center=43.012969999999996,-78.8387985"
+    }
+  ],
+  "gas": [
+    {
+      "name": "Kwik Fill",
+      "distance": "0.7 mi",
+      "url": "https://www.google.com/maps/search/Kwik%20Fill+near+43.0020726%2C-78.83951069999999"
+    },
+    {
+      "name": "Sunoco Brighton Gas Station",
+      "distance": "0.7 mi",
+      "url": "https://www.google.com/maps/search/Sunoco%20Brighton%20Gas%20Station+near+43.0020726%2C-78.83951069999999"
+    },
+    {
+      "name": "Sunoco",
+      "distance": "0.8 mi",
+      "url": "https://www.google.com/maps/search/Sunoco+near+43.0020726%2C-78.83951069999999"
+    },
+    {
+      "name": "Tops Gas Pumps",
+      "distance": "0.9 mi",
+      "url": "https://www.google.com/maps/search/Tops%20Gas%20Pumps+near+43.0020726%2C-78.83951069999999"
+    }
+  ]
+}

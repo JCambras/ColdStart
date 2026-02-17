@@ -1,0 +1,189 @@
+{
+  "quick_bite": [
+    {
+      "name": "Standard cafe",
+      "distance": "0.6 mi",
+      "url": "https://www.google.com/maps/search/Standard%20cafe+near+37.9660595%2C-120.3231339"
+    },
+    {
+      "name": "Mike's Pizza of Sonora",
+      "distance": "0.7 mi",
+      "url": "https://www.google.com/maps/search/Mike's%20Pizza%20of%20Sonora+near+37.9660595%2C-120.3231339"
+    },
+    {
+      "name": "Round Table Pizza",
+      "distance": "1.2 mi",
+      "url": "https://www.google.com/maps/search/Round%20Table%20Pizza+near+37.9660595%2C-120.3231339"
+    }
+  ],
+  "coffee": [
+    {
+      "name": "The Refuge Coffee and Juice Bar",
+      "distance": "0.6 mi",
+      "url": "https://www.google.com/maps/search/The%20Refuge%20Coffee%20and%20Juice%20Bar+near+37.9660595%2C-120.3231339"
+    },
+    {
+      "name": "Schnoogs Station",
+      "distance": "0.6 mi",
+      "url": "https://www.google.com/maps/search/Schnoogs%20Station+near+37.9660595%2C-120.3231339"
+    },
+    {
+      "name": "Revive Coffee",
+      "distance": "0.6 mi",
+      "url": "https://www.google.com/maps/search/Revive%20Coffee+near+37.9660595%2C-120.3231339"
+    },
+    {
+      "name": "McDonald's",
+      "distance": "0.9 mi",
+      "url": "https://www.google.com/maps/search/McDonald's+near+37.9660595%2C-120.3231339"
+    },
+    {
+      "name": "Starbucks Coffee Company",
+      "distance": "1.3 mi",
+      "url": "https://www.google.com/maps/search/Starbucks%20Coffee%20Company+near+37.9660595%2C-120.3231339"
+    }
+  ],
+  "team_lunch": [
+    {
+      "name": "Great Wall Restaurant",
+      "distance": "1.1 mi",
+      "url": "https://www.google.com/maps/search/Great%20Wall%20Restaurant+near+37.9660595%2C-120.3231339"
+    }
+  ],
+  "dinner": [
+    {
+      "name": "Steve's Place",
+      "distance": "0.3 mi",
+      "url": "https://www.google.com/maps/search/Steve's%20Place+near+37.9660595%2C-120.3231339"
+    },
+    {
+      "name": "Mountain Q",
+      "distance": "0.3 mi",
+      "url": "https://www.google.com/maps/search/Mountain%20Q+near+37.9660595%2C-120.3231339"
+    },
+    {
+      "name": "The Standard Pour",
+      "distance": "0.6 mi",
+      "url": "https://www.google.com/maps/search/The%20Standard%20Pour+near+37.9660595%2C-120.3231339"
+    },
+    {
+      "name": "Pinocchio's",
+      "distance": "0.7 mi",
+      "url": "https://www.google.com/maps/search/Pinocchio's+near+37.9660595%2C-120.3231339"
+    },
+    {
+      "name": "Cocina Michoacana #2",
+      "distance": "0.7 mi",
+      "url": "https://www.google.com/maps/search/Cocina%20Michoacana%20%232+near+37.9660595%2C-120.3231339"
+    },
+    {
+      "name": "Taquería El Capitan",
+      "distance": "0.8 mi",
+      "url": "https://www.google.com/maps/search/Taquer%C3%ADa%20El%20Capitan+near+37.9660595%2C-120.3231339"
+    },
+    {
+      "name": "Taco Shop El Rey",
+      "distance": "1.0 mi",
+      "url": "https://www.google.com/maps/search/Taco%20Shop%20El%20Rey+near+37.9660595%2C-120.3231339"
+    }
+  ],
+  "bowling": [
+    {
+      "name": "Black Oak Lanes",
+      "distance": "4.6 mi",
+      "url": "https://www.google.com/maps/search/Black%20Oak%20Lanes+near+37.9660595%2C-120.3231339",
+      "isFar": true
+    }
+  ],
+  "arcade": [],
+  "movies": [
+    {
+      "name": "Regal Sonora",
+      "distance": "2.4 mi",
+      "url": "https://www.google.com/maps/search/Regal%20Sonora+near+37.9660595%2C-120.3231339"
+    }
+  ],
+  "fun": [
+    {
+      "name": "The Game Room",
+      "distance": "1.0 mi",
+      "url": "https://www.google.com/maps/search/The%20Game%20Room+near+37.9660595%2C-120.3231339"
+    },
+    {
+      "name": "The Motherlode Escape Rooms",
+      "distance": "3.3 mi",
+      "url": "https://www.google.com/maps/search/The%20Motherlode%20Escape%20Rooms+near+37.9660595%2C-120.3231339",
+      "isFar": true
+    },
+    {
+      "name": "Kids Quest at Black Oak Casino Resort",
+      "distance": "4.6 mi",
+      "url": "https://www.google.com/maps/search/Kids%20Quest%20at%20Black%20Oak%20Casino%20Resort+near+37.9660595%2C-120.3231339",
+      "isFar": true
+    }
+  ],
+  "hotels": [
+    {
+      "name": "Golden Sierra Estates",
+      "distance": "0.6 mi",
+      "url": "https://www.google.com/maps/search/Golden%20Sierra%20Estates+near+37.9660595%2C-120.3231339"
+    },
+    {
+      "name": "Cascade Estates MHP",
+      "distance": "0.7 mi",
+      "url": "https://www.google.com/maps/search/Cascade%20Estates%20MHP+near+37.9660595%2C-120.3231339"
+    },
+    {
+      "name": "Tamarron Mobile Estates",
+      "distance": "0.8 mi",
+      "url": "https://www.google.com/maps/search/Tamarron%20Mobile%20Estates+near+37.9660595%2C-120.3231339"
+    },
+    {
+      "name": "Pearl in The California Mother Lode",
+      "distance": "0.8 mi",
+      "url": "https://www.google.com/maps/search/Pearl%20in%20The%20California%20Mother%20Lode+near+37.9660595%2C-120.3231339"
+    },
+    {
+      "name": "Private Country Home Near Downtown - Sonora - Three-Bedroom House",
+      "distance": "0.9 mi",
+      "url": "https://www.google.com/maps/search/Private%20Country%20Home%20Near%20Downtown%20-%20Sonora%20-%20Three-Bedroom%20House+near+37.9660595%2C-120.3231339"
+    },
+    {
+      "name": "Large Peaceful Country Country Home Near Downtown Sonora",
+      "distance": "0.9 mi",
+      "url": "https://www.google.com/maps/search/Large%20Peaceful%20Country%20Country%20Home%20Near%20Downtown%20Sonora+near+37.9660595%2C-120.3231339"
+    },
+    {
+      "name": "Best Western Plus Sonora Oaks Hotel & Conference Center",
+      "distance": "1.0 mi",
+      "url": "https://www.google.com/maps/search/Best%20Western%20Plus%20Sonora%20Oaks%20Hotel%20%26%20Conference%20Center+near+37.9660595%2C-120.3231339"
+    }
+  ],
+  "gas": [
+    {
+      "name": "Sonora Mini Mart",
+      "distance": "0.4 mi",
+      "url": "https://www.google.com/maps/search/Sonora%20Mini%20Mart+near+37.9660595%2C-120.3231339"
+    },
+    {
+      "name": "Arco",
+      "distance": "0.8 mi",
+      "url": "https://www.google.com/maps/search/Arco+near+37.9660595%2C-120.3231339"
+    },
+    {
+      "name": "Sonora gas and food",
+      "distance": "1.0 mi",
+      "url": "https://www.google.com/maps/search/Sonora%20gas%20and%20food+near+37.9660595%2C-120.3231339"
+    },
+    {
+      "name": "KWIK SERV",
+      "distance": "1.0 mi",
+      "url": "https://www.google.com/maps/search/KWIK%20SERV+near+37.9660595%2C-120.3231339"
+    },
+    {
+      "name": "Sierra Station",
+      "distance": "1.3 mi",
+      "url": "https://www.google.com/maps/search/Sierra%20Station+near+37.9660595%2C-120.3231339"
+    }
+  ]
+}

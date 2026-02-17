@@ -1,0 +1,200 @@
+{
+  "quick_bite": [
+    {
+      "name": "Garden Pizza & Seafood",
+      "distance": "0.4 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Garden%20Pizza%20%26%20Seafood&query_place_id=ChIJFfrpctdY4YkRL0i-BcWChtA&center=42.575832999999996,-71.995752"
+    },
+    {
+      "name": "Parker House Of Pizza",
+      "distance": "0.4 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Parker%20House%20Of%20Pizza&query_place_id=ChIJQeNmbddY4YkRnUp4xjvzYh0&center=42.5754787,-71.9954478"
+    },
+    {
+      "name": "Jade II",
+      "distance": "1.0 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Jade%20II&query_place_id=ChIJhQN76cNY4YkRaIs6_BxeR_4&center=42.5670323,-71.98338609999999"
+    },
+    {
+      "name": "Burger King",
+      "distance": "1.0 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Burger%20King&query_place_id=ChIJn3wRot1Y4YkRtyty5ct5qFc&center=42.5655948,-71.99152459999999"
+    },
+    {
+      "name": "Taco Bell",
+      "distance": "1.1 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Taco%20Bell&query_place_id=ChIJ7dN5PcFY4YkRKn0Fdtq-BvI&center=42.566662199999996,-71.980536"
+    },
+    {
+      "name": "Wendy's",
+      "distance": "1.2 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Wendy's&query_place_id=ChIJvU1PGcFY4YkRu0kEbDOKczk&center=42.5661117,-71.9782242"
+    }
+  ],
+  "coffee": [
+    {
+      "name": "Victoria Coffee",
+      "distance": "0.4 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Victoria%20Coffee&query_place_id=ChIJZe8DUwBZ4YkRKPpxgciFSVs&center=42.575479099999995,-71.99488769999999"
+    },
+    {
+      "name": "Dunkin'",
+      "distance": "0.5 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Dunkin'&query_place_id=ChIJg_2S5NdY4YkRkZH7S1l6Ht0&center=42.576012999999996,-71.9993097"
+    },
+    {
+      "name": "Dunkin'",
+      "distance": "0.6 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Dunkin'&query_place_id=ChIJB1rjb9lY4YkRuxxMXs9pjGA&center=42.571391999999996,-71.99456099999999"
+    },
+    {
+      "name": "Cafe Edesia",
+      "distance": "0.9 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Cafe%20Edesia&query_place_id=ChIJF8rID8RY4YkRgkiqzSzgpW0&center=42.5682067,-71.9836959"
+    },
+    {
+      "name": "The Kitchen Garden",
+      "distance": "4.2 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=The%20Kitchen%20Garden&query_place_id=ChIJE1oyI79b4YkRCjI_q6DnoqQ&center=42.5746131,-72.07308859999999",
+      "isFar": true
+    }
+  ],
+  "team_lunch": [
+    {
+      "name": "Carousel grill",
+      "distance": "0.3 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Carousel%20grill&query_place_id=ChIJ5UXKLwBZ4YkRiz_61j6eLj4&center=42.576651299999995,-71.9930748"
+    },
+    {
+      "name": "Four Season Chinese Cuisine",
+      "distance": "1.0 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Four%20Season%20Chinese%20Cuisine&query_place_id=ChIJe2uEIgBZ4YkR_zIGjGQWB6g&center=42.566994199999996,-71.9833704"
+    },
+    {
+      "name": "D'Angelo Grilled Sandwiches",
+      "distance": "1.4 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=D'Angelo%20Grilled%20Sandwiches&query_place_id=ChIJBTpNCSBZ4YkReAh8oMgiSaU&center=42.5601008,-71.9889937"
+    },
+    {
+      "name": "Creative Sweets",
+      "distance": "1.9 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Creative%20Sweets&query_place_id=ChIJDQX1nadZ4YkRyS6y39cUxb8&center=42.554410000000004,-71.977734"
+    },
+    {
+      "name": "Caring Confections",
+      "distance": "2.1 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Caring%20Confections&query_place_id=ChIJy_ZUlGdf4YkRvw-n_-PHq3U&center=42.6031009,-72.01812369999999"
+    }
+  ],
+  "dinner": [
+    {
+      "name": "Chair City Diner",
+      "distance": "0.2 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Chair%20City%20Diner&query_place_id=ChIJSxbfXpdZ4YkRLmZPluRRDRM&center=42.5781663,-71.98991219999999"
+    },
+    {
+      "name": "Taco Rey Coliman",
+      "distance": "0.4 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Taco%20Rey%20Coliman&query_place_id=ChIJxWH4atdY4YkRHljN1IQOFls&center=42.575692,-71.9952397"
+    },
+    {
+      "name": "Paramount Cafe Inc",
+      "distance": "0.4 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Paramount%20Cafe%20Inc&query_place_id=ChIJGePQXddY4YkRBYub6mE8aGA&center=42.5750914,-71.9945449"
+    },
+    {
+      "name": "Gardner Ale House",
+      "distance": "0.4 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Gardner%20Ale%20House&query_place_id=ChIJqbYBmtdY4YkRGmNUs7hZ_pU&center=42.5758833,-71.9971648"
+    },
+    {
+      "name": "Moon Hill Brewing Co Inc",
+      "distance": "0.4 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Moon%20Hill%20Brewing%20Co%20Inc&query_place_id=ChIJgTu0c2xQ4YkR8bOe_2OEZBQ&center=42.575767000000006,-71.99713059999999"
+    },
+    {
+      "name": "Blue Moon Diner",
+      "distance": "0.5 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Blue%20Moon%20Diner&query_place_id=ChIJuXWb-dlY4YkRTnEqbgMDT4Q&center=42.5741379,-71.9944407"
+    }
+  ],
+  "bowling": [
+    {
+      "name": "Bowlaway",
+      "distance": "0.5 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Bowlaway&query_place_id=ChIJ73eWktlY4YkRIB6egDs55nU&center=42.573559,-71.994715"
+    },
+    {
+      "name": "Gardner Ten Pins",
+      "distance": "1.3 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Gardner%20Ten%20Pins&query_place_id=ChIJxee-6B5Z4YkRR1XQpugg1hE&center=42.5635292,-72.00355139999999"
+    }
+  ],
+  "arcade": [],
+  "movies": [
+    {
+      "name": "Gardner Cinemas",
+      "distance": "1.4 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Gardner%20Cinemas&query_place_id=ChIJe7ROW-RY4YkR3gpUuG6PEZY&center=42.5596639,-71.9888806"
+    }
+  ],
+  "fun": [
+    {
+      "name": "Bicentennial Giant Chair",
+      "distance": "0.5 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Bicentennial%20Giant%20Chair&query_place_id=ChIJW0nJ8c5Y4YkRJnU5hWH9Rt0&center=42.5759976,-71.983518"
+    },
+    {
+      "name": "Westminster Village-Academy Hill Historic District",
+      "distance": "5.1 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Westminster%20Village-Academy%20Hill%20Historic%20District&query_place_id=ChIJF4sNGE7i44kR1nofxVeu_4w&center=42.541759400000004,-71.90655389999999",
+      "isFar": true
+    },
+    {
+      "name": "Blue Star and Gold Star Monuments",
+      "distance": "7.1 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Blue%20Star%20and%20Gold%20Star%20Monuments&query_place_id=ChIJSwLeFABh4YkRlD4dw9jv5xs&center=42.6783303,-72.03153379999999",
+      "isFar": true
+    },
+    {
+      "name": "Oliver's Mining Co.",
+      "distance": "7.4 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Oliver's%20Mining%20Co.&query_place_id=ChIJjwSUHQDl44kREBiOv11u_KQ&center=42.545508399999996,-71.8540376",
+      "isFar": true
+    }
+  ],
+  "hotels": [
+    {
+      "name": "Gardner Inn",
+      "distance": "1.1 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Gardner%20Inn&query_place_id=ChIJD2zfTqRZ4YkRs3S6bgEa_eA&center=42.566765,-71.97900469999999"
+    },
+    {
+      "name": "Sapphire Park",
+      "distance": "1.4 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Sapphire%20Park&query_place_id=ChIJufykE9df4YkRz4PQJOIbus8&center=42.5907516,-71.9673385"
+    }
+  ],
+  "gas": [
+    {
+      "name": "bp",
+      "distance": "0.6 mi",
+      "url": "https://www.google.com/maps/search/bp+near+42.580314099999995%2C-71.9908593"
+    },
+    {
+      "name": "Shell",
+      "distance": "1.1 mi",
+      "url": "https://www.google.com/maps/search/Shell+near+42.580314099999995%2C-71.9908593"
+    },
+    {
+      "name": "Mobil",
+      "distance": "1.1 mi",
+      "url": "https://www.google.com/maps/search/Mobil+near+42.580314099999995%2C-71.9908593"
+    },
+    {
+      "name": "Alltown",
+      "distance": "1.1 mi",
+      "url": "https://www.google.com/maps/search/Alltown+near+42.580314099999995%2C-71.9908593"
+    }
+  ]
+}

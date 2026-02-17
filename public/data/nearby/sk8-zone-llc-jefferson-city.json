@@ -1,0 +1,197 @@
+{
+  "quick_bite": [
+    {
+      "name": "Sonic Drive-In",
+      "distance": "0.5 mi",
+      "url": "https://www.google.com/maps/search/Sonic%20Drive-In+near+38.558108%2C-92.1885397"
+    },
+    {
+      "name": "Taco Bell",
+      "distance": "0.6 mi",
+      "url": "https://www.google.com/maps/search/Taco%20Bell+near+38.558108%2C-92.1885397"
+    },
+    {
+      "name": "Culver’s",
+      "distance": "0.7 mi",
+      "url": "https://www.google.com/maps/search/Culver%E2%80%99s+near+38.558108%2C-92.1885397"
+    },
+    {
+      "name": "Subway",
+      "distance": "0.7 mi",
+      "url": "https://www.google.com/maps/search/Subway+near+38.558108%2C-92.1885397"
+    }
+  ],
+  "coffee": [
+    {
+      "name": "McDonald's",
+      "distance": "0.7 mi",
+      "url": "https://www.google.com/maps/search/McDonald's+near+38.558108%2C-92.1885397"
+    },
+    {
+      "name": "Green Leaf Cafe & Marketplace",
+      "distance": "1.1 mi",
+      "url": "https://www.google.com/maps/search/Green%20Leaf%20Cafe%20%26%20Marketplace+near+38.558108%2C-92.1885397"
+    }
+  ],
+  "team_lunch": [
+    {
+      "name": "Cheerleader Pub & Grill Jefferson City",
+      "distance": "0.2 mi",
+      "url": "https://www.google.com/maps/search/Cheerleader%20Pub%20%26%20Grill%20Jefferson%20City+near+38.558108%2C-92.1885397"
+    },
+    {
+      "name": "MrBeast Burger",
+      "distance": "0.4 mi",
+      "url": "https://www.google.com/maps/search/MrBeast%20Burger+near+38.558108%2C-92.1885397"
+    },
+    {
+      "name": "Perkins American Food Co.",
+      "distance": "0.4 mi",
+      "url": "https://www.google.com/maps/search/Perkins%20American%20Food%20Co.+near+38.558108%2C-92.1885397"
+    },
+    {
+      "name": "Hunt Brothers Pizza",
+      "distance": "0.5 mi",
+      "url": "https://www.google.com/maps/search/Hunt%20Brothers%20Pizza+near+38.558108%2C-92.1885397"
+    },
+    {
+      "name": "Hunt Brothers Pizza",
+      "distance": "0.5 mi",
+      "url": "https://www.google.com/maps/search/Hunt%20Brothers%20Pizza+near+38.558108%2C-92.1885397"
+    }
+  ],
+  "dinner": [
+    {
+      "name": "Das Stein Haus",
+      "distance": "0.3 mi",
+      "url": "https://www.google.com/maps/search/Das%20Stein%20Haus+near+38.558108%2C-92.1885397"
+    },
+    {
+      "name": "Pizza Kwik Food Truck",
+      "distance": "0.4 mi",
+      "url": "https://www.google.com/maps/search/Pizza%20Kwik%20Food%20Truck+near+38.558108%2C-92.1885397"
+    },
+    {
+      "name": "La Doña Authentic Mexican Restaurant",
+      "distance": "0.5 mi",
+      "url": "https://www.google.com/maps/search/La%20Do%C3%B1a%20Authentic%20Mexican%20Restaurant+near+38.558108%2C-92.1885397"
+    },
+    {
+      "name": "The Curry 'N' Grill",
+      "distance": "0.6 mi",
+      "url": "https://www.google.com/maps/search/The%20Curry%20'N'%20Grill+near+38.558108%2C-92.1885397"
+    },
+    {
+      "name": "Fatty's Seafood",
+      "distance": "0.7 mi",
+      "url": "https://www.google.com/maps/search/Fatty's%20Seafood+near+38.558108%2C-92.1885397"
+    },
+    {
+      "name": "La Estaca",
+      "distance": "0.7 mi",
+      "url": "https://www.google.com/maps/search/La%20Estaca+near+38.558108%2C-92.1885397"
+    },
+    {
+      "name": "El Poblano Grill and Cantina",
+      "distance": "0.8 mi",
+      "url": "https://www.google.com/maps/search/El%20Poblano%20Grill%20and%20Cantina+near+38.558108%2C-92.1885397"
+    }
+  ],
+  "bowling": [
+    {
+      "name": "Strikers",
+      "distance": "0.8 mi",
+      "url": "https://www.google.com/maps/search/Strikers+near+38.558108%2C-92.1885397"
+    },
+    {
+      "name": "West Gate Lanes Inc",
+      "distance": "0.8 mi",
+      "url": "https://www.google.com/maps/search/West%20Gate%20Lanes%20Inc+near+38.558108%2C-92.1885397"
+    }
+  ],
+  "arcade": [],
+  "movies": [
+    {
+      "name": "Capitol City Cinema",
+      "distance": "1.5 mi",
+      "url": "https://www.google.com/maps/search/Capitol%20City%20Cinema+near+38.558108%2C-92.1885397"
+    },
+    {
+      "name": "GQT Capital 8",
+      "distance": "3.9 mi",
+      "url": "https://www.google.com/maps/search/GQT%20Capital%208+near+38.558108%2C-92.1885397",
+      "isFar": true
+    }
+  ],
+  "fun": [
+    {
+      "name": "Capital Escape",
+      "distance": "1.0 mi",
+      "url": "https://www.google.com/maps/search/Capital%20Escape+near+38.558108%2C-92.1885397"
+    }
+  ],
+  "hotels": [
+    {
+      "name": "Holiday Inn & Suites Jefferson City by IHG",
+      "distance": "0.2 mi",
+      "url": "https://www.google.com/maps/search/Holiday%20Inn%20%26%20Suites%20Jefferson%20City%20by%20IHG+near+38.558108%2C-92.1885397"
+    },
+    {
+      "name": "Americas Best Value Inn Jefferson City",
+      "distance": "0.3 mi",
+      "url": "https://www.google.com/maps/search/Americas%20Best%20Value%20Inn%20Jefferson%20City+near+38.558108%2C-92.1885397"
+    },
+    {
+      "name": "Travelodge by Wyndham Jefferson City",
+      "distance": "0.4 mi",
+      "url": "https://www.google.com/maps/search/Travelodge%20by%20Wyndham%20Jefferson%20City+near+38.558108%2C-92.1885397"
+    },
+    {
+      "name": "MOWY Vacation Rentals",
+      "distance": "0.4 mi",
+      "url": "https://www.google.com/maps/search/MOWY%20Vacation%20Rentals+near+38.558108%2C-92.1885397"
+    },
+    {
+      "name": "Quality Inn & Suites Jefferson City",
+      "distance": "0.4 mi",
+      "url": "https://www.google.com/maps/search/Quality%20Inn%20%26%20Suites%20Jefferson%20City+near+38.558108%2C-92.1885397"
+    },
+    {
+      "name": "Hotel Development & Management",
+      "distance": "0.4 mi",
+      "url": "https://www.google.com/maps/search/Hotel%20Development%20%26%20Management+near+38.558108%2C-92.1885397"
+    },
+    {
+      "name": "Budget Inn",
+      "distance": "0.4 mi",
+      "url": "https://www.google.com/maps/search/Budget%20Inn+near+38.558108%2C-92.1885397"
+    }
+  ],
+  "gas": [
+    {
+      "name": "Wallis Lubricants",
+      "distance": "0.1 mi",
+      "url": "https://www.google.com/maps/search/Wallis%20Lubricants+near+38.558108%2C-92.1885397"
+    },
+    {
+      "name": "Phillips 66",
+      "distance": "0.2 mi",
+      "url": "https://www.google.com/maps/search/Phillips%2066+near+38.558108%2C-92.1885397"
+    },
+    {
+      "name": "Cenex",
+      "distance": "0.5 mi",
+      "url": "https://www.google.com/maps/search/Cenex+near+38.558108%2C-92.1885397"
+    },
+    {
+      "name": "STADIUM STOP N SHOP",
+      "distance": "0.5 mi",
+      "url": "https://www.google.com/maps/search/STADIUM%20STOP%20N%20SHOP+near+38.558108%2C-92.1885397"
+    },
+    {
+      "name": "Phillips 66",
+      "distance": "0.5 mi",
+      "url": "https://www.google.com/maps/search/Phillips%2066+near+38.558108%2C-92.1885397"
+    }
+  ]
+}

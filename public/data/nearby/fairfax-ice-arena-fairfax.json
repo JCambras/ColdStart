@@ -1,0 +1,200 @@
+{
+  "quick_bite": [
+    {
+      "name": "Chipotle Mexican Grill",
+      "distance": "0.4 mi",
+      "url": "https://www.google.com/maps/search/Chipotle%20Mexican%20Grill+near+38.8486662%2C-77.27269009999999"
+    },
+    {
+      "name": "Sarku Japan Teriyaki & Sushi Express",
+      "distance": "0.4 mi",
+      "url": "https://www.google.com/maps/search/Sarku%20Japan%20Teriyaki%20%26%20Sushi%20Express+near+38.8486662%2C-77.27269009999999"
+    },
+    {
+      "name": "Chef Yan 川府人家",
+      "distance": "0.4 mi",
+      "url": "https://www.google.com/maps/search/Chef%20Yan%20%E5%B7%9D%E5%BA%9C%E4%BA%BA%E5%AE%B6+near+38.8486662%2C-77.27269009999999"
+    },
+    {
+      "name": "Firehouse Subs Turnpike",
+      "distance": "0.4 mi",
+      "url": "https://www.google.com/maps/search/Firehouse%20Subs%20Turnpike+near+38.8486662%2C-77.27269009999999"
+    },
+    {
+      "name": "Chuck E. Cheese",
+      "distance": "0.5 mi",
+      "url": "https://www.google.com/maps/search/Chuck%20E.%20Cheese+near+38.8486662%2C-77.27269009999999"
+    }
+  ],
+  "coffee": [
+    {
+      "name": "Life Cafe",
+      "distance": "0.3 mi",
+      "url": "https://www.google.com/maps/search/Life%20Cafe+near+38.8486662%2C-77.27269009999999"
+    },
+    {
+      "name": "Baku Delicious",
+      "distance": "0.3 mi",
+      "url": "https://www.google.com/maps/search/Baku%20Delicious+near+38.8486662%2C-77.27269009999999"
+    },
+    {
+      "name": "Foundation Coffee",
+      "distance": "0.3 mi",
+      "url": "https://www.google.com/maps/search/Foundation%20Coffee+near+38.8486662%2C-77.27269009999999"
+    },
+    {
+      "name": "Peet's Coffee",
+      "distance": "0.4 mi",
+      "url": "https://www.google.com/maps/search/Peet's%20Coffee+near+38.8486662%2C-77.27269009999999"
+    }
+  ],
+  "team_lunch": [
+    {
+      "name": "Safeway Bakery",
+      "distance": "0.3 mi",
+      "url": "https://www.google.com/maps/search/Safeway%20Bakery+near+38.8486662%2C-77.27269009999999"
+    },
+    {
+      "name": "Lubrand of Faircity",
+      "distance": "0.3 mi",
+      "url": "https://www.google.com/maps/search/Lubrand%20of%20Faircity+near+38.8486662%2C-77.27269009999999"
+    },
+    {
+      "name": "Wingstop",
+      "distance": "0.4 mi",
+      "url": "https://www.google.com/maps/search/Wingstop+near+38.8486662%2C-77.27269009999999"
+    }
+  ],
+  "dinner": [
+    {
+      "name": "54 Restaurant Bar & Lounge",
+      "distance": "0.3 mi",
+      "url": "https://www.google.com/maps/search/54%20Restaurant%20Bar%20%26%20Lounge+near+38.8486662%2C-77.27269009999999"
+    },
+    {
+      "name": "Mamma Lucia",
+      "distance": "0.3 mi",
+      "url": "https://www.google.com/maps/search/Mamma%20Lucia+near+38.8486662%2C-77.27269009999999"
+    },
+    {
+      "name": "YamaChen's Sushi House",
+      "distance": "0.3 mi",
+      "url": "https://www.google.com/maps/search/YamaChen's%20Sushi%20House+near+38.8486662%2C-77.27269009999999"
+    },
+    {
+      "name": "Saba Restaurant",
+      "distance": "0.3 mi",
+      "url": "https://www.google.com/maps/search/Saba%20Restaurant+near+38.8486662%2C-77.27269009999999"
+    },
+    {
+      "name": "Wild Chicken",
+      "distance": "0.3 mi",
+      "url": "https://www.google.com/maps/search/Wild%20Chicken+near+38.8486662%2C-77.27269009999999"
+    },
+    {
+      "name": "First Watch",
+      "distance": "0.4 mi",
+      "url": "https://www.google.com/maps/search/First%20Watch+near+38.8486662%2C-77.27269009999999"
+    }
+  ],
+  "bowling": [
+    {
+      "name": "Bowl America Fairfax",
+      "distance": "1.1 mi",
+      "url": "https://www.google.com/maps/search/Bowl%20America%20Fairfax+near+38.8486662%2C-77.27269009999999"
+    },
+    {
+      "name": "Bowl America Burke",
+      "distance": "3.6 mi",
+      "url": "https://www.google.com/maps/search/Bowl%20America%20Burke+near+38.8486662%2C-77.27269009999999",
+      "isFar": true
+    },
+    {
+      "name": "Bowlero Annandale",
+      "distance": "4.2 mi",
+      "url": "https://www.google.com/maps/search/Bowlero%20Annandale+near+38.8486662%2C-77.27269009999999",
+      "isFar": true
+    }
+  ],
+  "arcade": [],
+  "movies": [
+    {
+      "name": "Cinema Arts Theatres",
+      "distance": "0.3 mi",
+      "url": "https://www.google.com/maps/search/Cinema%20Arts%20Theatres+near+38.8486662%2C-77.27269009999999"
+    },
+    {
+      "name": "University Mall Theatres",
+      "distance": "2.8 mi",
+      "url": "https://www.google.com/maps/search/University%20Mall%20Theatres+near+38.8486662%2C-77.27269009999999"
+    },
+    {
+      "name": "Mosaic",
+      "distance": "2.9 mi",
+      "url": "https://www.google.com/maps/search/Mosaic+near+38.8486662%2C-77.27269009999999"
+    }
+  ],
+  "fun": [
+    {
+      "name": "Bonds Escape Room - Fairfax",
+      "distance": "1.7 mi",
+      "url": "https://www.google.com/maps/search/Bonds%20Escape%20Room%20-%20Fairfax+near+38.8486662%2C-77.27269009999999"
+    },
+    {
+      "name": "Amusements Unlimited",
+      "distance": "1.8 mi",
+      "url": "https://www.google.com/maps/search/Amusements%20Unlimited+near+38.8486662%2C-77.27269009999999"
+    },
+    {
+      "name": "Break From Reality Escape Rooms",
+      "distance": "3.4 mi",
+      "url": "https://www.google.com/maps/search/Break%20From%20Reality%20Escape%20Rooms+near+38.8486662%2C-77.27269009999999",
+      "isFar": true
+    },
+    {
+      "name": "Sky Zone Trampoline Park",
+      "distance": "4.3 mi",
+      "url": "https://www.google.com/maps/search/Sky%20Zone%20Trampoline%20Park+near+38.8486662%2C-77.27269009999999",
+      "isFar": true
+    }
+  ],
+  "hotels": [
+    {
+      "name": "4-BR Home Fairfax/D.C. Metro Area [20 % OFF/Month]",
+      "distance": "0.6 mi",
+      "url": "https://www.google.com/maps/search/4-BR%20Home%20Fairfax%2FD.C.%20Metro%20Area%20%5B20%20%25%20OFF%2FMonth%5D+near+38.8486662%2C-77.27269009999999"
+    },
+    {
+      "name": "4-BR Home Fairfax /D.C. Metro Area [20 % OFF /Month]",
+      "distance": "0.6 mi",
+      "url": "https://www.google.com/maps/search/4-BR%20Home%20Fairfax%20%2FD.C.%20Metro%20Area%20%5B20%20%25%20OFF%20%2FMonth%5D+near+38.8486662%2C-77.27269009999999"
+    },
+    {
+      "name": "Hanover Street",
+      "distance": "1.1 mi",
+      "url": "https://www.google.com/maps/search/Hanover%20Street+near+38.8486662%2C-77.27269009999999"
+    }
+  ],
+  "gas": [
+    {
+      "name": "Shell",
+      "distance": "1.0 mi",
+      "url": "https://www.google.com/maps/search/Shell+near+38.8486662%2C-77.27269009999999"
+    },
+    {
+      "name": "Fairfax Circle Liberty Gas",
+      "distance": "1.1 mi",
+      "url": "https://www.google.com/maps/search/Fairfax%20Circle%20Liberty%20Gas+near+38.8486662%2C-77.27269009999999"
+    },
+    {
+      "name": "Sunoco",
+      "distance": "1.1 mi",
+      "url": "https://www.google.com/maps/search/Sunoco+near+38.8486662%2C-77.27269009999999"
+    },
+    {
+      "name": "Fairfax GLOBAL",
+      "distance": "1.3 mi",
+      "url": "https://www.google.com/maps/search/Fairfax%20GLOBAL+near+38.8486662%2C-77.27269009999999"
+    }
+  ]
+}

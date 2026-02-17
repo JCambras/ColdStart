@@ -1,0 +1,204 @@
+{
+  "quick_bite": [
+    {
+      "name": "Subway",
+      "distance": "0.6 mi",
+      "url": "https://www.google.com/maps/search/Subway+near+45.530516999999996%2C-122.91641750000001"
+    },
+    {
+      "name": "Carl's Jr.",
+      "distance": "0.6 mi",
+      "url": "https://www.google.com/maps/search/Carl's%20Jr.+near+45.530516999999996%2C-122.91641750000001"
+    },
+    {
+      "name": "Curry Pizza House Hillsboro",
+      "distance": "0.7 mi",
+      "url": "https://www.google.com/maps/search/Curry%20Pizza%20House%20Hillsboro+near+45.530516999999996%2C-122.91641750000001"
+    }
+  ],
+  "coffee": [
+    {
+      "name": "Ava Roasteria - Orenco",
+      "distance": "0.1 mi",
+      "url": "https://www.google.com/maps/search/Ava%20Roasteria%20-%20Orenco+near+45.530516999999996%2C-122.91641750000001"
+    },
+    {
+      "name": "Barn Sisters Coffee - Orenco Station",
+      "distance": "0.1 mi",
+      "url": "https://www.google.com/maps/search/Barn%20Sisters%20Coffee%20-%20Orenco%20Station+near+45.530516999999996%2C-122.91641750000001"
+    }
+  ],
+  "team_lunch": [
+    {
+      "name": "Swagat Indian Cuisine - Hillsboro",
+      "distance": "0.3 mi",
+      "url": "https://www.google.com/maps/search/Swagat%20Indian%20Cuisine%20-%20Hillsboro+near+45.530516999999996%2C-122.91641750000001"
+    },
+    {
+      "name": "Leonardi's Pizza",
+      "distance": "0.7 mi",
+      "url": "https://www.google.com/maps/search/Leonardi's%20Pizza+near+45.530516999999996%2C-122.91641750000001"
+    }
+  ],
+  "dinner": [
+    {
+      "name": "Little Big Burger",
+      "distance": "0.1 mi",
+      "url": "https://www.google.com/maps/search/Little%20Big%20Burger+near+45.530516999999996%2C-122.91641750000001"
+    },
+    {
+      "name": "9 Dang Fine Thai Cuisine, OR",
+      "distance": "0.1 mi",
+      "url": "https://www.google.com/maps/search/9%20Dang%20Fine%20Thai%20Cuisine%2C%20OR+near+45.530516999999996%2C-122.91641750000001"
+    },
+    {
+      "name": "Mazama Brewing Orenco Station",
+      "distance": "0.1 mi",
+      "url": "https://www.google.com/maps/search/Mazama%20Brewing%20Orenco%20Station+near+45.530516999999996%2C-122.91641750000001"
+    },
+    {
+      "name": "La Provence Boulangerie & Patisserie",
+      "distance": "0.1 mi",
+      "url": "https://www.google.com/maps/search/La%20Provence%20Boulangerie%20%26%20Patisserie+near+45.530516999999996%2C-122.91641750000001"
+    },
+    {
+      "name": "Schmizza Public House",
+      "distance": "0.1 mi",
+      "url": "https://www.google.com/maps/search/Schmizza%20Public%20House+near+45.530516999999996%2C-122.91641750000001"
+    },
+    {
+      "name": "Salam restaurant",
+      "distance": "0.1 mi",
+      "url": "https://www.google.com/maps/search/Salam%20restaurant+near+45.530516999999996%2C-122.91641750000001"
+    },
+    {
+      "name": "The Dignitary Restaurant & Lounge",
+      "distance": "0.3 mi",
+      "url": "https://www.google.com/maps/search/The%20Dignitary%20Restaurant%20%26%20Lounge+near+45.530516999999996%2C-122.91641750000001"
+    }
+  ],
+  "bowling": [
+    {
+      "name": "Park Lanes Family Entertainment Center",
+      "distance": "2.4 mi",
+      "url": "https://www.google.com/maps/search/Park%20Lanes%20Family%20Entertainment%20Center+near+45.530516999999996%2C-122.91641750000001"
+    },
+    {
+      "name": "Jungle Maze",
+      "distance": "2.4 mi",
+      "url": "https://www.google.com/maps/search/Jungle%20Maze+near+45.530516999999996%2C-122.91641750000001"
+    }
+  ],
+  "arcade": [],
+  "movies": [
+    {
+      "name": "Regal Evergreen Parkway",
+      "distance": "2.3 mi",
+      "url": "https://www.google.com/maps/search/Regal%20Evergreen%20Parkway+near+45.530516999999996%2C-122.91641750000001"
+    },
+    {
+      "name": "Regal Movies On TV",
+      "distance": "2.3 mi",
+      "url": "https://www.google.com/maps/search/Regal%20Movies%20On%20TV+near+45.530516999999996%2C-122.91641750000001"
+    },
+    {
+      "name": "Wunderland",
+      "distance": "3.0 mi",
+      "url": "https://www.google.com/maps/search/Wunderland+near+45.530516999999996%2C-122.91641750000001",
+      "isFar": true
+    }
+  ],
+  "fun": [
+    {
+      "name": "Hidden Creek Park East Water Fountain",
+      "distance": "0.8 mi",
+      "url": "https://www.google.com/maps/search/Hidden%20Creek%20Park%20East%20Water%20Fountain+near+45.530516999999996%2C-122.91641750000001"
+    },
+    {
+      "name": "The Slime Kitchen",
+      "distance": "1.9 mi",
+      "url": "https://www.google.com/maps/search/The%20Slime%20Kitchen+near+45.530516999999996%2C-122.91641750000001"
+    },
+    {
+      "name": "K1 Speed - Indoor Go Karts, Corporate Event Venue, Team Building Activities",
+      "distance": "1.9 mi",
+      "url": "https://www.google.com/maps/search/K1%20Speed%20-%20Indoor%20Go%20Karts%2C%20Corporate%20Event%20Venue%2C%20Team%20Building%20Activities+near+45.530516999999996%2C-122.91641750000001"
+    },
+    {
+      "name": "Neon Momo, Inc.",
+      "distance": "4.0 mi",
+      "url": "https://www.google.com/maps/search/Neon%20Momo%2C%20Inc.+near+45.530516999999996%2C-122.91641750000001",
+      "isFar": true
+    },
+    {
+      "name": "Portal Adventures - Escape Rooms Beaverton",
+      "distance": "4.2 mi",
+      "url": "https://www.google.com/maps/search/Portal%20Adventures%20-%20Escape%20Rooms%20Beaverton+near+45.530516999999996%2C-122.91641750000001",
+      "isFar": true
+    }
+  ],
+  "hotels": [
+    {
+      "name": "East Village @ Orenco Station",
+      "distance": "0.1 mi",
+      "url": "https://www.google.com/maps/search/East%20Village%20%40%20Orenco%20Station+near+45.530516999999996%2C-122.91641750000001"
+    },
+    {
+      "name": "Orenco Station Condo for Long-Term Guests",
+      "distance": "0.2 mi",
+      "url": "https://www.google.com/maps/search/Orenco%20Station%20Condo%20for%20Long-Term%20Guests+near+45.530516999999996%2C-122.91641750000001"
+    },
+    {
+      "name": "Pet Friendly Orenco Lofts",
+      "distance": "0.2 mi",
+      "url": "https://www.google.com/maps/search/Pet%20Friendly%20Orenco%20Lofts+near+45.530516999999996%2C-122.91641750000001"
+    },
+    {
+      "name": "Hillsboro's Best at Your Doorstep with pool & gym",
+      "distance": "0.2 mi",
+      "url": "https://www.google.com/maps/search/Hillsboro's%20Best%20at%20Your%20Doorstep%20with%20pool%20%26%20gym+near+45.530516999999996%2C-122.91641750000001"
+    },
+    {
+      "name": "Holiday Inn Express Portland West/Hillsboro by IHG",
+      "distance": "0.2 mi",
+      "url": "https://www.google.com/maps/search/Holiday%20Inn%20Express%20Portland%20West%2FHillsboro%20by%20IHG+near+45.530516999999996%2C-122.91641750000001"
+    },
+    {
+      "name": "PDX Iconic Executive Style Loft in Orenco Station - One-Bedroom Apartment",
+      "distance": "0.3 mi",
+      "url": "https://www.google.com/maps/search/PDX%20Iconic%20Executive%20Style%20Loft%20in%20Orenco%20Station%20-%20One-Bedroom%20Apartment+near+45.530516999999996%2C-122.91641750000001"
+    },
+    {
+      "name": "Orenco Station Executive Loft",
+      "distance": "0.3 mi",
+      "url": "https://www.google.com/maps/search/Orenco%20Station%20Executive%20Loft+near+45.530516999999996%2C-122.91641750000001"
+    }
+  ],
+  "gas": [
+    {
+      "name": "Shell",
+      "distance": "0.5 mi",
+      "url": "https://www.google.com/maps/search/Shell+near+45.530516999999996%2C-122.91641750000001"
+    },
+    {
+      "name": "Costco Gas Station",
+      "distance": "1.0 mi",
+      "url": "https://www.google.com/maps/search/Costco%20Gas%20Station+near+45.530516999999996%2C-122.91641750000001"
+    },
+    {
+      "name": "Jubitz Pacific Pride",
+      "distance": "1.1 mi",
+      "url": "https://www.google.com/maps/search/Jubitz%20Pacific%20Pride+near+45.530516999999996%2C-122.91641750000001"
+    },
+    {
+      "name": "Shell",
+      "distance": "1.2 mi",
+      "url": "https://www.google.com/maps/search/Shell+near+45.530516999999996%2C-122.91641750000001"
+    },
+    {
+      "name": "Fred Meyer Fuel Center",
+      "distance": "1.5 mi",
+      "url": "https://www.google.com/maps/search/Fred%20Meyer%20Fuel%20Center+near+45.530516999999996%2C-122.91641750000001"
+    }
+  ]
+}

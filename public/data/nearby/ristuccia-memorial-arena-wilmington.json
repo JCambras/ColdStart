@@ -1,0 +1,179 @@
+{
+  "quick_bite": [
+    {
+      "name": "Code 1 BBQ",
+      "distance": "0.1 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Code%201%20BBQ&query_place_id=ChIJ2ZwgjZN144kRC_ox_CWyFj8&center=42.5566464,-71.179047"
+    },
+    {
+      "name": "Simard's Super Roast Beef",
+      "distance": "0.3 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Simard's%20Super%20Roast%20Beef&query_place_id=ChIJy2Ng4Y8K44kRzJF0jqEmZbw&center=42.5534033,-71.1796593"
+    },
+    {
+      "name": "Greg's Pizza Route 38",
+      "distance": "0.6 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Greg's%20Pizza%20Route%2038&query_place_id=ChIJA_rqZnug44kREd8gPoq4s9w&center=42.565289899999996,-71.18474359999999"
+    },
+    {
+      "name": "Ej's Fresh Pizza",
+      "distance": "0.6 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Ej's%20Fresh%20Pizza&query_place_id=ChIJb1dvF0UK44kRFqG8_oqkU6U&center=42.5493737,-71.1761032"
+    },
+    {
+      "name": "Mona's Mexican Food",
+      "distance": "2.2 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Mona's%20Mexican%20Food&query_place_id=ChIJrQsIZ_ML44kRelwsSomCy5c&center=42.5586895,-71.1368138"
+    },
+    {
+      "name": "Subway",
+      "distance": "2.4 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Subway&query_place_id=ChIJM_1cEyUK44kRQPldEZcdf0M&center=42.5889477,-71.1581803"
+    }
+  ],
+  "coffee": [
+    {
+      "name": "Dunkin'",
+      "distance": "0.2 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Dunkin'&query_place_id=ChIJUx_C34UK44kR3NVy1_ZMosc&center=42.558324899999995,-71.182527"
+    },
+    {
+      "name": "Starbucks Coffee Company",
+      "distance": "0.2 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Starbucks%20Coffee%20Company&query_place_id=ChIJLV1N5I8K44kRZ8Lva_r5jCM&center=42.55554,-71.18109"
+    },
+    {
+      "name": "Dunkin'",
+      "distance": "0.5 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Dunkin'&query_place_id=ChIJIYBMrJEK44kRwP6iDIyWqoU&center=42.551086,-71.17773439999999"
+    },
+    {
+      "name": "Queen Bean Coffee Truck",
+      "distance": "1.0 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Queen%20Bean%20Coffee%20Truck&query_place_id=ChIJhx5SjwsL44kR6IW5xSK2P6A&center=42.555563899999996,-71.1606226"
+    },
+    {
+      "name": "Heav'nly Donuts",
+      "distance": "1.2 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Heav'nly%20Donuts&query_place_id=ChIJp-rMS5UK44kRKiQR-y8-6KA&center=42.5428688,-71.16930289999999"
+    }
+  ],
+  "team_lunch": [
+    {
+      "name": "Rocco's Restaurant & Bar",
+      "distance": "0.2 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Rocco's%20Restaurant%20%26%20Bar&query_place_id=ChIJuUzs34UK44kRN8KtL4bEKR8&center=42.5588226,-71.1825561"
+    },
+    {
+      "name": "Jeni Cakes",
+      "distance": "1.5 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Jeni%20Cakes&query_place_id=ChIJq6qWnacK44kRZy3fGMNolN8&center=42.53861390000001,-71.1913603"
+    },
+    {
+      "name": "D'Angelo Grilled Sandwiches",
+      "distance": "2.6 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=D'Angelo%20Grilled%20Sandwiches&query_place_id=ChIJd5WSuBKh44kRfvDFMtsGWbI&center=42.5909623,-71.2022198"
+    },
+    {
+      "name": "Pinehurst Yum Yum Shop",
+      "distance": "2.6 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Pinehurst%20Yum%20Yum%20Shop&query_place_id=ChIJezWUMtGh44kRUHBhPrXoINs&center=42.5322557,-71.2165472"
+    }
+  ],
+  "dinner": [
+    {
+      "name": "Casa Blanca Mexican Restaurant",
+      "distance": "0.1 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Casa%20Blanca%20Mexican%20Restaurant&query_place_id=ChIJg1DQ6qkL44kRy6fMX6sE67I&center=42.5566661,-71.1816592"
+    },
+    {
+      "name": "Golden Ginger",
+      "distance": "0.2 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Golden%20Ginger&query_place_id=ChIJiyb3CIUK44kRleQ-znCbeCQ&center=42.555878,-71.18267999999999"
+    },
+    {
+      "name": "Country Chef Restaurant",
+      "distance": "0.4 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Country%20Chef%20Restaurant&query_place_id=ChIJe4-3oYcK44kRApuWTZLA8bA&center=42.562213199999995,-71.1836324"
+    },
+    {
+      "name": "Wilmington House of Pizza",
+      "distance": "0.5 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Wilmington%20House%20of%20Pizza&query_place_id=ChIJ-SE3qZEK44kRML0vewPj0-Q&center=42.5506726,-71.1774426"
+    },
+    {
+      "name": "China Wok",
+      "distance": "0.5 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=China%20Wok&query_place_id=ChIJKQhxqJEK44kRrSp7oNnWUig&center=42.550278999999996,-71.17709060000001"
+    },
+    {
+      "name": "Nick's Pizza Roast Beef and Subs",
+      "distance": "0.5 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Nick's%20Pizza%20Roast%20Beef%20and%20Subs&query_place_id=ChIJ11PxBpEK44kRn4GDil56a58&center=42.550233999999996,-71.176996"
+    }
+  ],
+  "bowling": [
+    {
+      "name": "Collins Bowladrome",
+      "distance": "4.9 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Collins%20Bowladrome&query_place_id=ChIJIZ9CH5Ch44kRdV6POecWFBA&center=42.568293,-71.2753979",
+      "isFar": true
+    }
+  ],
+  "arcade": [],
+  "movies": [
+    {
+      "name": "Showcase Cinema de Lux Woburn",
+      "distance": "4.3 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Showcase%20Cinema%20de%20Lux%20Woburn&query_place_id=ChIJK_D4LhF144kRkh5AeFKl0ms&center=42.496956499999996,-71.16070189999999",
+      "isFar": true
+    }
+  ],
+  "fun": [
+    {
+      "name": "MBTA Railfans Hub",
+      "distance": "0.3 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=MBTA%20Railfans%20Hub&query_place_id=ChIJoYsPQwAL44kRnpnrShVzPzQ&center=42.5552364,-71.18418609999999"
+    },
+    {
+      "name": "K1 Speed - Indoor Go Karts, Corporate Event Venue, Team Building Activities",
+      "distance": "2.2 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=K1%20Speed%20-%20Indoor%20Go%20Karts%2C%20Corporate%20Event%20Venue%2C%20Team%20Building%20Activities&query_place_id=ChIJJdc05q4L44kReXqoMC5DFGk&center=42.5614144,-71.1364387"
+    },
+    {
+      "name": "XtremeCraze - Woburn",
+      "distance": "3.0 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=XtremeCraze%20-%20Woburn&query_place_id=ChIJtzTnuikL44kRJ5iCDzx0sJM&center=42.5240845,-71.1413401",
+      "isFar": true
+    },
+    {
+      "name": "Rocket Graveyard",
+      "distance": "3.2 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Rocket%20Graveyard&query_place_id=ChIJ25jgfQCh44kRwZ3R_4Gp4AU&center=42.600137499999995,-71.20401509999999",
+      "isFar": true
+    }
+  ],
+  "hotels": [],
+  "gas": [
+    {
+      "name": "Speedway",
+      "distance": "0.2 mi",
+      "url": "https://www.google.com/maps/search/Speedway+near+42.5579476%2C-71.17946959999999"
+    },
+    {
+      "name": "A.L. Prime Energy",
+      "distance": "0.6 mi",
+      "url": "https://www.google.com/maps/search/A.L.%20Prime%20Energy+near+42.5579476%2C-71.17946959999999"
+    },
+    {
+      "name": "Super Petroleum",
+      "distance": "1.0 mi",
+      "url": "https://www.google.com/maps/search/Super%20Petroleum+near+42.5579476%2C-71.17946959999999"
+    },
+    {
+      "name": "Z & S Gas and Service",
+      "distance": "1.2 mi",
+      "url": "https://www.google.com/maps/search/Z%20%26%20S%20Gas%20and%20Service+near+42.5579476%2C-71.17946959999999"
+    }
+  ]
+}

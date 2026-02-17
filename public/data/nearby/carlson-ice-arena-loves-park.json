@@ -1,0 +1,216 @@
+{
+  "quick_bite": [
+    {
+      "name": "Culver’s",
+      "distance": "0.2 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Culver%E2%80%99s&query_place_id=ChIJtSsXndG7CIgRmNhkz6OwlGg&center=42.3181265,-88.9850968"
+    },
+    {
+      "name": "Taco Bell",
+      "distance": "0.3 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Taco%20Bell&query_place_id=ChIJr491zNK7CIgRbNQ2s8cLb4M&center=42.3193142,-88.97937809999999"
+    },
+    {
+      "name": "Buddy's Burgers",
+      "distance": "0.3 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Buddy's%20Burgers&query_place_id=ChIJX9IWgdq7CIgRGrds9KY49k0&center=42.318026599999996,-88.9892301"
+    },
+    {
+      "name": "Chef Chen",
+      "distance": "0.3 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Chef%20Chen&query_place_id=ChIJo3xeMsm7CIgRvUMAxSAa22c&center=42.326405,-88.9854321"
+    },
+    {
+      "name": "Maciano's Pizza & Pastaria",
+      "distance": "0.3 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Maciano's%20Pizza%20%26%20Pastaria&query_place_id=ChIJo3xeMsm7CIgR8vkfmLTi5jQ&center=42.326456199999996,-88.9853024"
+    },
+    {
+      "name": "Dairy Queen Grill & Chill",
+      "distance": "0.4 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Dairy%20Queen%20Grill%20%26%20Chill&query_place_id=ChIJRQbDai26CIgRRmCbHEuJ5Xk&center=42.3193129,-88.97864530000001"
+    }
+  ],
+  "coffee": [
+    {
+      "name": "A M.. Social Brinch",
+      "distance": "0.2 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=A%20M..%20Social%20Brinch&query_place_id=ChIJ79WBRgC7CIgRomLmsE15QAs&center=42.319284499999995,-88.9883087"
+    },
+    {
+      "name": "SJ Cafe",
+      "distance": "0.3 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=SJ%20Cafe&query_place_id=ChIJUXjkrKW7CIgR8BG8J281sVE&center=42.3253473,-88.9850537"
+    },
+    {
+      "name": "Mollys Deli",
+      "distance": "0.3 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Mollys%20Deli&query_place_id=ChIJA9lPq867CIgR8IOw0aW8aZA&center=42.3254926,-88.9846132"
+    },
+    {
+      "name": "Bucciferro Family McDonald's",
+      "distance": "0.3 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Bucciferro%20Family%20McDonald's&query_place_id=ChIJY44sw9K7CIgRX3TT7rYvBMc&center=42.318244899999996,-88.9804253"
+    }
+  ],
+  "team_lunch": [
+    {
+      "name": "Fuji Cajun",
+      "distance": "0.2 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Fuji%20Cajun&query_place_id=ChIJnd6HUp67CIgR0aPeP5gCynA&center=42.3191695,-88.98725379999999"
+    },
+    {
+      "name": "Casey's",
+      "distance": "0.3 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Casey's&query_place_id=ChIJoWXGRyu7CIgR98py0uFo70M&center=42.3174129,-88.982705"
+    },
+    {
+      "name": "Creative Bakery Solutions LLC",
+      "distance": "0.5 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Creative%20Bakery%20Solutions%20LLC&query_place_id=ChIJLYeRk9y7CIgRHn-8TLI6zok&center=42.319208499999995,-88.9950624"
+    },
+    {
+      "name": "Quinny's Doughnuts",
+      "distance": "1.1 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Quinny's%20Doughnuts&query_place_id=ChIJFexrq7a7CIgReL6r69ivr_Y&center=42.3146427,-89.0051155"
+    },
+    {
+      "name": "Meijer Bakery",
+      "distance": "2.0 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Meijer%20Bakery&query_place_id=ChIJCdjyu5i5CIgRu3ZgbzxNLps&center=42.2926948,-88.9766874"
+    }
+  ],
+  "dinner": [
+    {
+      "name": "Tacos El Jefe mexican grill",
+      "distance": "0.2 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Tacos%20El%20Jefe%20mexican%20grill&query_place_id=ChIJE8NZl4W7CIgREDol0nx3rOQ&center=42.3191978,-88.9872658"
+    },
+    {
+      "name": "GreenFire",
+      "distance": "0.2 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=GreenFire&query_place_id=ChIJ09JAKdK7CIgRmGscyoqlHTM&center=42.318233199999995,-88.9840914"
+    },
+    {
+      "name": "Hachi Sushi",
+      "distance": "0.3 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Hachi%20Sushi&query_place_id=ChIJzenRcNC7CIgRi63qizzasS8&center=42.3193,-88.9889299"
+    },
+    {
+      "name": "A.M. Social Brunch",
+      "distance": "0.3 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=A.M.%20Social%20Brunch&query_place_id=ChIJLauQbk67CIgRoCCMJkWU4nU&center=42.319395,-88.98935689999999"
+    },
+    {
+      "name": "Rock Pho'd Asian Fusion Cuisine",
+      "distance": "0.3 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Rock%20Pho'd%20Asian%20Fusion%20Cuisine&query_place_id=ChIJAQAAi9C7CIgRzciZt-jW7GQ&center=42.31809390000001,-88.9887767"
+    },
+    {
+      "name": "Capri Restaurant",
+      "distance": "0.3 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Capri%20Restaurant&query_place_id=ChIJKRoUitO_CIgRoo6s3BrVPgw&center=42.3191876,-88.9903466"
+    }
+  ],
+  "bowling": [
+    {
+      "name": "Forest Hills Lanes",
+      "distance": "2.0 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Forest%20Hills%20Lanes&query_place_id=ChIJR7n2WXO8CIgRtbekEuax0Pk&center=42.332082,-89.02146499999999"
+    },
+    {
+      "name": "B & B Park Bowl",
+      "distance": "3.8 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=B%20%26%20B%20Park%20Bowl&query_place_id=ChIJx8q7BtW9CIgR0wLmNgwt8BY&center=42.313333300000004,-89.0583333",
+      "isFar": true
+    },
+    {
+      "name": "Park Lanes Bowl",
+      "distance": "3.9 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Park%20Lanes%20Bowl&query_place_id=ChIJIyvp736-CIgRZ-fQeooz4rY&center=42.3081283,-89.0591792",
+      "isFar": true
+    }
+  ],
+  "arcade": [],
+  "movies": [
+    {
+      "name": "AMC Machesney Park 14",
+      "distance": "3.6 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=AMC%20Machesney%20Park%2014&query_place_id=ChIJQTN1FEK7CIgRxUcABS7yadk&center=42.3712399,-89.0043386",
+      "isFar": true
+    },
+    {
+      "name": "AMC Rockford 16",
+      "distance": "3.9 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=AMC%20Rockford%2016&query_place_id=ChIJ96tJLDO4CIgRZnGZuvWXa-A&center=42.2706166,-88.9533294",
+      "isFar": true
+    }
+  ],
+  "fun": [
+    {
+      "name": "Sapora Playworld",
+      "distance": "0.1 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Sapora%20Playworld&query_place_id=ChIJ7WhV4M27CIgRcWumvt7HSEc&center=42.3215167,-88.9845776"
+    },
+    {
+      "name": "Volcano Falls Adventure Park",
+      "distance": "1.0 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Volcano%20Falls%20Adventure%20Park&query_place_id=ChIJcc-HkTu6CIgRHFAyRUwbzf0&center=42.323715199999995,-88.966217"
+    },
+    {
+      "name": "Go Carts",
+      "distance": "1.0 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Go%20Carts&query_place_id=ChIJ8RJGtqi7CIgRN7V806azO4o&center=42.3241101,-88.96602279999999"
+    },
+    {
+      "name": "Rhythm of the Heart Music Fest",
+      "distance": "3.2 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Rhythm%20of%20the%20Heart%20Music%20Fest&query_place_id=ChIJyX4KsT29CIgRpdOunL46Ei8&center=42.3142017,-89.0466446",
+      "isFar": true
+    }
+  ],
+  "hotels": [
+    {
+      "name": "WoodSpring Suites Loves Park - Rockford",
+      "distance": "0.6 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=WoodSpring%20Suites%20Loves%20Park%20-%20Rockford&query_place_id=ChIJJZcE-IO7CIgRJOVOsqW_Tgk&center=42.3211382,-88.9728102"
+    },
+    {
+      "name": "Home2 Suites by Hilton Loves Park Rockford",
+      "distance": "0.7 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Home2%20Suites%20by%20Hilton%20Loves%20Park%20Rockford&query_place_id=ChIJB9mTAzC6CIgRk9jTxszdarM&center=42.320951,-88.9708545"
+    },
+    {
+      "name": "Quality Inn & Suites Loves Park near Rockford",
+      "distance": "0.8 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Quality%20Inn%20%26%20Suites%20Loves%20Park%20near%20Rockford&query_place_id=ChIJTdfmXzq6CIgR2O-gUTzRcTw&center=42.3231908,-88.969219"
+    },
+    {
+      "name": "Holiday Inn Express & Suites Rockford - Loves Park, an IHG Hotel",
+      "distance": "0.9 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Holiday%20Inn%20Express%20%26%20Suites%20Rockford%20-%20Loves%20Park%2C%20an%20IHG%20Hotel&query_place_id=ChIJe4KMHzu6CIgRi_9J51WDJx0&center=42.321607300000004,-88.967643"
+    }
+  ],
+  "gas": [
+    {
+      "name": "Phillips 66",
+      "distance": "0.3 mi",
+      "url": "https://www.google.com/maps/search/Phillips%2066+near+42.321464899999995%2C-88.984956"
+    },
+    {
+      "name": "Loves Park 66",
+      "distance": "0.3 mi",
+      "url": "https://www.google.com/maps/search/Loves%20Park%2066+near+42.321464899999995%2C-88.984956"
+    },
+    {
+      "name": "Shell",
+      "distance": "0.3 mi",
+      "url": "https://www.google.com/maps/search/Shell+near+42.321464899999995%2C-88.984956"
+    },
+    {
+      "name": "Mobil",
+      "distance": "0.7 mi",
+      "url": "https://www.google.com/maps/search/Mobil+near+42.321464899999995%2C-88.984956"
+    }
+  ]
+}

@@ -1,0 +1,214 @@
+{
+  "quick_bite": [
+    {
+      "name": "Chipotle Mexican Grill",
+      "distance": "0.2 mi",
+      "url": "https://www.google.com/maps/search/Chipotle%20Mexican%20Grill+near+39.2350533%2C-94.4338906"
+    },
+    {
+      "name": "Subway",
+      "distance": "0.3 mi",
+      "url": "https://www.google.com/maps/search/Subway+near+39.2350533%2C-94.4338906"
+    },
+    {
+      "name": "Papa Murphy's | Take 'N' Bake Pizza",
+      "distance": "0.3 mi",
+      "url": "https://www.google.com/maps/search/Papa%20Murphy's%20%7C%20Take%20'N'%20Bake%20Pizza+near+39.2350533%2C-94.4338906"
+    },
+    {
+      "name": "Sonic Drive-In",
+      "distance": "0.4 mi",
+      "url": "https://www.google.com/maps/search/Sonic%20Drive-In+near+39.2350533%2C-94.4338906"
+    },
+    {
+      "name": "Texas toms Restaurant",
+      "distance": "0.4 mi",
+      "url": "https://www.google.com/maps/search/Texas%20toms%20Restaurant+near+39.2350533%2C-94.4338906"
+    },
+    {
+      "name": "Taco Bell",
+      "distance": "0.6 mi",
+      "url": "https://www.google.com/maps/search/Taco%20Bell+near+39.2350533%2C-94.4338906"
+    },
+    {
+      "name": "A&W Restaurant",
+      "distance": "0.6 mi",
+      "url": "https://www.google.com/maps/search/A%26W%20Restaurant+near+39.2350533%2C-94.4338906"
+    }
+  ],
+  "coffee": [
+    {
+      "name": "McDonald's",
+      "distance": "0.1 mi",
+      "url": "https://www.google.com/maps/search/McDonald's+near+39.2350533%2C-94.4338906"
+    },
+    {
+      "name": "Dunkin'",
+      "distance": "0.3 mi",
+      "url": "https://www.google.com/maps/search/Dunkin'+near+39.2350533%2C-94.4338906"
+    },
+    {
+      "name": "Café Equinox",
+      "distance": "0.4 mi",
+      "url": "https://www.google.com/maps/search/Caf%C3%A9%20Equinox+near+39.2350533%2C-94.4338906"
+    },
+    {
+      "name": "Over Flow Coffee House",
+      "distance": "0.5 mi",
+      "url": "https://www.google.com/maps/search/Over%20Flow%20Coffee%20House+near+39.2350533%2C-94.4338906"
+    }
+  ],
+  "team_lunch": [
+    {
+      "name": "Papa Johns Pizza",
+      "distance": "0.4 mi",
+      "url": "https://www.google.com/maps/search/Papa%20Johns%20Pizza+near+39.2350533%2C-94.4338906"
+    }
+  ],
+  "dinner": [
+    {
+      "name": "The Big Biscuit",
+      "distance": "0.2 mi",
+      "url": "https://www.google.com/maps/search/The%20Big%20Biscuit+near+39.2350533%2C-94.4338906"
+    },
+    {
+      "name": "Fuji Sushi & Grill",
+      "distance": "0.3 mi",
+      "url": "https://www.google.com/maps/search/Fuji%20Sushi%20%26%20Grill+near+39.2350533%2C-94.4338906"
+    },
+    {
+      "name": "Eileen's Colossal Cookies",
+      "distance": "0.3 mi",
+      "url": "https://www.google.com/maps/search/Eileen's%20Colossal%20Cookies+near+39.2350533%2C-94.4338906"
+    },
+    {
+      "name": "Rancho Grande Cantina",
+      "distance": "0.3 mi",
+      "url": "https://www.google.com/maps/search/Rancho%20Grande%20Cantina+near+39.2350533%2C-94.4338906"
+    },
+    {
+      "name": "J&S Pizza",
+      "distance": "0.3 mi",
+      "url": "https://www.google.com/maps/search/J%26S%20Pizza+near+39.2350533%2C-94.4338906"
+    },
+    {
+      "name": "Yummy’s Doughnut Palace",
+      "distance": "0.4 mi",
+      "url": "https://www.google.com/maps/search/Yummy%E2%80%99s%20Doughnut%20Palace+near+39.2350533%2C-94.4338906"
+    },
+    {
+      "name": "Paleteria La Monarca",
+      "distance": "0.5 mi",
+      "url": "https://www.google.com/maps/search/Paleteria%20La%20Monarca+near+39.2350533%2C-94.4338906"
+    }
+  ],
+  "bowling": [
+    {
+      "name": "Retro Bowl",
+      "distance": "0.4 mi",
+      "url": "https://www.google.com/maps/search/Retro%20Bowl+near+39.2350533%2C-94.4338906"
+    }
+  ],
+  "arcade": [],
+  "movies": [
+    {
+      "name": "B&B Theatres Liberty Cinema 12",
+      "distance": "1.0 mi",
+      "url": "https://www.google.com/maps/search/B%26B%20Theatres%20Liberty%20Cinema%2012+near+39.2350533%2C-94.4338906"
+    },
+    {
+      "name": "B&B KC Northland 14",
+      "distance": "4.8 mi",
+      "url": "https://www.google.com/maps/search/B%26B%20KC%20Northland%2014+near+39.2350533%2C-94.4338906",
+      "isFar": true
+    }
+  ],
+  "fun": [
+    {
+      "name": "Fun Run Liberty",
+      "distance": "1.7 mi",
+      "url": "https://www.google.com/maps/search/Fun%20Run%20Liberty+near+39.2350533%2C-94.4338906"
+    },
+    {
+      "name": "Above All Trampoline Park",
+      "distance": "1.7 mi",
+      "url": "https://www.google.com/maps/search/Above%20All%20Trampoline%20Park+near+39.2350533%2C-94.4338906"
+    },
+    {
+      "name": "Worlds of Fun",
+      "distance": "5.0 mi",
+      "url": "https://www.google.com/maps/search/Worlds%20of%20Fun+near+39.2350533%2C-94.4338906",
+      "isFar": true
+    },
+    {
+      "name": "Grand Carousel",
+      "distance": "5.0 mi",
+      "url": "https://www.google.com/maps/search/Grand%20Carousel+near+39.2350533%2C-94.4338906",
+      "isFar": true
+    }
+  ],
+  "hotels": [
+    {
+      "name": "7BR_4Bath|Perfect for Groups|ALL KING BEDS",
+      "distance": "0.3 mi",
+      "url": "https://www.google.com/maps/search/7BR_4Bath%7CPerfect%20for%20Groups%7CALL%20KING%20BEDS+near+39.2350533%2C-94.4338906"
+    },
+    {
+      "name": "Liberty Cozy Cottage, 2 Bedroom",
+      "distance": "0.6 mi",
+      "url": "https://www.google.com/maps/search/Liberty%20Cozy%20Cottage%2C%202%20Bedroom+near+39.2350533%2C-94.4338906"
+    },
+    {
+      "name": "The Yellow House",
+      "distance": "0.7 mi",
+      "url": "https://www.google.com/maps/search/The%20Yellow%20House+near+39.2350533%2C-94.4338906"
+    },
+    {
+      "name": "The Yellow House",
+      "distance": "0.7 mi",
+      "url": "https://www.google.com/maps/search/The%20Yellow%20House+near+39.2350533%2C-94.4338906"
+    },
+    {
+      "name": "14 Mi to Kansas City: Group Getaway in Liberty!",
+      "distance": "0.7 mi",
+      "url": "https://www.google.com/maps/search/14%20Mi%20to%20Kansas%20City%3A%20Group%20Getaway%20in%20Liberty!+near+39.2350533%2C-94.4338906"
+    },
+    {
+      "name": "The Cedar Retreat 2BR 1BTH Free Parking Fast Wi-Fi",
+      "distance": "0.8 mi",
+      "url": "https://www.google.com/maps/search/The%20Cedar%20Retreat%202BR%201BTH%20Free%20Parking%20Fast%20Wi-Fi+near+39.2350533%2C-94.4338906"
+    },
+    {
+      "name": "Modern Stylish Cottage",
+      "distance": "0.8 mi",
+      "url": "https://www.google.com/maps/search/Modern%20Stylish%20Cottage+near+39.2350533%2C-94.4338906"
+    }
+  ],
+  "gas": [
+    {
+      "name": "PLANET LIQUOR & MART 6",
+      "distance": "0.3 mi",
+      "url": "https://www.google.com/maps/search/PLANET%20LIQUOR%20%26%20MART%206+near+39.2350533%2C-94.4338906"
+    },
+    {
+      "name": "Phillips 66",
+      "distance": "0.3 mi",
+      "url": "https://www.google.com/maps/search/Phillips%2066+near+39.2350533%2C-94.4338906"
+    },
+    {
+      "name": "QuikTrip",
+      "distance": "0.4 mi",
+      "url": "https://www.google.com/maps/search/QuikTrip+near+39.2350533%2C-94.4338906"
+    },
+    {
+      "name": "bp",
+      "distance": "0.7 mi",
+      "url": "https://www.google.com/maps/search/bp+near+39.2350533%2C-94.4338906"
+    },
+    {
+      "name": "Casey's",
+      "distance": "0.9 mi",
+      "url": "https://www.google.com/maps/search/Casey's+near+39.2350533%2C-94.4338906"
+    }
+  ]
+}

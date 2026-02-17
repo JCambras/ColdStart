@@ -1,0 +1,202 @@
+{
+  "quick_bite": [
+    {
+      "name": "QDOBA Mexican Eats",
+      "distance": "0.4 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=QDOBA%20Mexican%20Eats&query_place_id=ChIJJZIpRtGd44kR63WlKhiLOzY&center=42.4525455,-71.2326873"
+    },
+    {
+      "name": "The Upper Crust Pizzeria",
+      "distance": "0.5 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=The%20Upper%20Crust%20Pizzeria&query_place_id=ChIJUQvaWMWd44kRDIYBrtBS5_U&center=42.4468177,-71.2279704"
+    },
+    {
+      "name": "Mario's Italian Restaurant",
+      "distance": "0.6 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Mario's%20Italian%20Restaurant&query_place_id=ChIJfW5-tNqd44kRCZ0fty9Hgqc&center=42.447468099999995,-71.2267742"
+    },
+    {
+      "name": "Royal Pastry Shop",
+      "distance": "0.8 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Royal%20Pastry%20Shop&query_place_id=ChIJxZjRI7Sd44kRHsPpUC21U_4&center=42.435994,-71.23415279999999"
+    },
+    {
+      "name": "Subway",
+      "distance": "2.1 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Subway&query_place_id=ChIJ40k0Vv-b44kRUdwcqr4W2rE&center=42.461230199999996,-71.2738755"
+    },
+    {
+      "name": "Burger King",
+      "distance": "2.2 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Burger%20King&query_place_id=ChIJS72RlxWe44kR5_ukxbUVYMg&center=42.4723441,-71.212423"
+    }
+  ],
+  "coffee": [
+    {
+      "name": "Starbucks Coffee Company",
+      "distance": "0.5 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Starbucks%20Coffee%20Company&query_place_id=ChIJ4eTfrdad44kR1Bsclxx_1_o&center=42.45361,-71.23331"
+    },
+    {
+      "name": "Avenue Deli",
+      "distance": "0.5 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Avenue%20Deli&query_place_id=ChIJnzD8ANCd44kRTWDxZ0ccUbo&center=42.4478426,-71.2283805"
+    },
+    {
+      "name": "Tatte Bakery & Cafe | Lexington",
+      "distance": "0.5 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Tatte%20Bakery%20%26%20Cafe%20%7C%20Lexington&query_place_id=ChIJ92ibZQCd44kRe8kxm4dRnUY&center=42.447807999999995,-71.2276444"
+    },
+    {
+      "name": "Revival Cafe+Kitchen",
+      "distance": "0.6 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Revival%20Cafe%2BKitchen&query_place_id=ChIJCQi0bN2d44kRzS53fI7ApmE&center=42.4474431,-71.22674719999999"
+    },
+    {
+      "name": "Galaray House",
+      "distance": "0.6 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Galaray%20House&query_place_id=ChIJYTgZq2yd44kRXgo2jF6_B5o&center=42.4469992,-71.2266997"
+    }
+  ],
+  "team_lunch": [
+    {
+      "name": "Beijing Chinese Restaurant",
+      "distance": "0.6 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Beijing%20Chinese%20Restaurant&query_place_id=ChIJq4k-NcWd44kR5FSQUYXKP7w&center=42.4472441,-71.2262159"
+    },
+    {
+      "name": "Cakes by Erica G",
+      "distance": "1.6 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Cakes%20by%20Erica%20G&query_place_id=ChIJD41ofVac44kRTuvRoC5uPrQ&center=42.4246601,-71.2464861"
+    }
+  ],
+  "dinner": [
+    {
+      "name": "Town Meeting Bistro",
+      "distance": "0.2 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Town%20Meeting%20Bistro&query_place_id=ChIJ7yOWfNKd44kR2lKbYxUoi9k&center=42.449528199999996,-71.2365195"
+    },
+    {
+      "name": "Royal India Bistro",
+      "distance": "0.5 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Royal%20India%20Bistro&query_place_id=ChIJl6U3F9Cd44kR99c_TFSzYBE&center=42.4487781,-71.2288149"
+    },
+    {
+      "name": "Sweet Thyme Bakery",
+      "distance": "0.5 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Sweet%20Thyme%20Bakery&query_place_id=ChIJ8zyFBNCd44kRkpPPhZPWQNA&center=42.448474999999995,-71.228706"
+    },
+    {
+      "name": "Daikanyama",
+      "distance": "0.5 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Daikanyama&query_place_id=ChIJ1WvEXsWd44kRM0_t97CM53Y&center=42.446711,-71.2279789"
+    },
+    {
+      "name": "Post 1917 Lexington",
+      "distance": "0.5 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Post%201917%20Lexington&query_place_id=ChIJybQeHwCd44kRXhCcWoFxVW4&center=42.447030500000004,-71.2278146"
+    },
+    {
+      "name": "Fiorella's Trattoria",
+      "distance": "0.5 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Fiorella's%20Trattoria&query_place_id=ChIJO0ao_dyd44kRkzJIn-WrwQU&center=42.447096800000004,-71.2277682"
+    }
+  ],
+  "bowling": [
+    {
+      "name": "Hanscom Lanes",
+      "distance": "2.2 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Hanscom%20Lanes&query_place_id=ChIJQUbVrLqd44kRexrNwYr4XSo&center=42.4605154,-71.2775638"
+    },
+    {
+      "name": "Kings Bowl",
+      "distance": "2.8 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Kings%20Bowl&query_place_id=ChIJt8zVE0-e44kRj9siItmboeI&center=42.4864408,-71.22410599999999"
+    },
+    {
+      "name": "Woburn Bowladrome",
+      "distance": "5.0 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Woburn%20Bowladrome&query_place_id=ChIJJwaA0at144kRVfnSIVdwDxQ&center=42.4793142,-71.1507146",
+      "isFar": true
+    }
+  ],
+  "arcade": [],
+  "movies": [
+    {
+      "name": "Theatre Block",
+      "distance": "0.5 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Theatre%20Block&query_place_id=ChIJQxLV_8-d44kRefvurRKha-Q&center=42.4477475,-71.228158"
+    },
+    {
+      "name": "Lexington Venue",
+      "distance": "0.5 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Lexington%20Venue&query_place_id=ChIJnzD8ANCd44kROBFpMPU32Z4&center=42.4477129,-71.22812619999999"
+    },
+    {
+      "name": "AMC Burlington Cinema 10",
+      "distance": "2.5 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=AMC%20Burlington%20Cinema%2010&query_place_id=ChIJIQcV2Eae44kRviKev-EuA88&center=42.481588099999996,-71.219089"
+    }
+  ],
+  "fun": [
+    {
+      "name": "The Math Tree",
+      "distance": "0.4 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=The%20Math%20Tree&query_place_id=ChIJDzM8CwCd44kRpYO66WPVqbM&center=42.4440293,-71.2323968"
+    },
+    {
+      "name": "The Quad",
+      "distance": "0.4 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=The%20Quad&query_place_id=ChIJXdjBGACd44kRekYYVMa2iLw&center=42.443599,-71.2326123"
+    },
+    {
+      "name": "Lafayette’s Tour",
+      "distance": "0.4 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Lafayette%E2%80%99s%20Tour&query_place_id=ChIJieMRIQCd44kRp8VwPrcbOMQ&center=42.448598,-71.22999089999999"
+    },
+    {
+      "name": "Liberty Ride Trolley Tour",
+      "distance": "0.4 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Liberty%20Ride%20Trolley%20Tour&query_place_id=ChIJb3fxdaKd44kRQqTi1vzizbY&center=42.4483811,-71.22966389999999"
+    }
+  ],
+  "hotels": [
+    {
+      "name": "The Inn at Hastings Park",
+      "distance": "0.2 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=The%20Inn%20at%20Hastings%20Park&query_place_id=ChIJ7yOWfNKd44kRL8fjuNGxV6I&center=42.4495315,-71.2364845"
+    },
+    {
+      "name": "Element Lexington",
+      "distance": "1.1 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Element%20Lexington&query_place_id=ChIJyUOwxz-c44kR-debVypscKw&center=42.4453245,-71.2593709"
+    },
+    {
+      "name": "Aloft Lexington",
+      "distance": "1.2 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Aloft%20Lexington&query_place_id=ChIJyUOwxz-c44kRnmb6RIw1_J4&center=42.4454269,-71.2606811"
+    }
+  ],
+  "gas": [
+    {
+      "name": "Gulf",
+      "distance": "0.5 mi",
+      "url": "https://www.google.com/maps/search/Gulf+near+42.447615899999995%2C-71.238039"
+    },
+    {
+      "name": "Sunoco",
+      "distance": "0.8 mi",
+      "url": "https://www.google.com/maps/search/Sunoco+near+42.447615899999995%2C-71.238039"
+    },
+    {
+      "name": "Mobil",
+      "distance": "0.9 mi",
+      "url": "https://www.google.com/maps/search/Mobil+near+42.447615899999995%2C-71.238039"
+    },
+    {
+      "name": "Gulf Gas Station",
+      "distance": "1.1 mi",
+      "url": "https://www.google.com/maps/search/Gulf%20Gas%20Station+near+42.447615899999995%2C-71.238039"
+    }
+  ]
+}

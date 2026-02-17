@@ -1,0 +1,197 @@
+{
+  "quick_bite": [
+    {
+      "name": "Pizza Hut Express",
+      "distance": "0.2 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Pizza%20Hut%20Express&query_place_id=ChIJWdKgvkCWD4gRvLSeSn0Uy3A&center=42.2388528,-87.9570385"
+    },
+    {
+      "name": "Portillo's & Barnelli's Vernon Hills",
+      "distance": "0.3 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Portillo's%20%26%20Barnelli's%20Vernon%20Hills&query_place_id=ChIJr0vgPEeWD4gR73HU3FPaJnQ&center=42.239915499999995,-87.9590944"
+    },
+    {
+      "name": "Panda Express",
+      "distance": "0.3 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Panda%20Express&query_place_id=ChIJSzOXdHiXD4gRwiAS9TeAogc&center=42.2408212,-87.9572597"
+    },
+    {
+      "name": "Wendy's",
+      "distance": "0.4 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Wendy's&query_place_id=ChIJs2Da3EaWD4gR23QsSZxcjpk&center=42.2410126,-87.95913929999999"
+    },
+    {
+      "name": "Subway",
+      "distance": "0.4 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Subway&query_place_id=ChIJEZFUFm2WD4gRMP-Zg-OzMBQ&center=42.2418567,-87.9587839"
+    }
+  ],
+  "coffee": [
+    {
+      "name": "Starbucks Coffee Company",
+      "distance": "0.3 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Starbucks%20Coffee%20Company&query_place_id=ChIJNbxxv0CWD4gREDHo9dRmZdI&center=42.24144,-87.95662"
+    },
+    {
+      "name": "Vernon Hills Electrical Co.",
+      "distance": "0.5 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Vernon%20Hills%20Electrical%20Co.&query_place_id=ChIJLaveFgCXD4gRk2UUDRE4OXA&center=42.232850899999995,-87.9479219"
+    },
+    {
+      "name": "Tous les Jours",
+      "distance": "0.6 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Tous%20les%20Jours&query_place_id=ChIJ356FFWmWD4gRajfX6hYP1w8&center=42.243895099999996,-87.94902189999999"
+    }
+  ],
+  "team_lunch": [
+    {
+      "name": "Casey's",
+      "distance": "0.3 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Casey's&query_place_id=ChIJ1_qWK0GWD4gRF4Vtkq6z-pQ&center=42.241011,-87.955576"
+    },
+    {
+      "name": "Tasty Thai Restaurant",
+      "distance": "0.4 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Tasty%20Thai%20Restaurant&query_place_id=ChIJPUtJOEGWD4gR4y3giNESwWQ&center=42.2416304,-87.9575713"
+    },
+    {
+      "name": "Yu's Mandarin (Vernon Hills)",
+      "distance": "0.5 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Yu's%20Mandarin%20(Vernon%20Hills)&query_place_id=ChIJi_h5eUiWD4gRQYnGHk9b0SA&center=42.239962000000006,-87.96299499999999"
+    },
+    {
+      "name": "Auntie Anne's",
+      "distance": "0.5 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Auntie%20Anne's&query_place_id=ChIJHRqcbWyWD4gRxlv9oZLxGNo&center=42.2429272,-87.95025419999999"
+    },
+    {
+      "name": "Cinnabon",
+      "distance": "0.6 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Cinnabon&query_place_id=ChIJX0IJcWmWD4gRwPDjgL_qals&center=42.243461599999996,-87.9502258"
+    },
+    {
+      "name": "Prairie City Bakery - Wholesale",
+      "distance": "0.6 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Prairie%20City%20Bakery%20-%20Wholesale&query_place_id=ChIJWfbmujyWD4gRiCGwhAFRFrA&center=42.2282526,-87.95616389999999"
+    }
+  ],
+  "dinner": [
+    {
+      "name": "Best Pho U",
+      "distance": "0.3 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Best%20Pho%20U&query_place_id=ChIJh5GeQYyXD4gRK7sXU99qFNs&center=42.2399648,-87.9539106"
+    },
+    {
+      "name": "Bo-Bo's Gyros Vernon Hills",
+      "distance": "0.4 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Bo-Bo's%20Gyros%20Vernon%20Hills&query_place_id=ChIJsdRzOEGWD4gRy3ByzL58a-c&center=42.241524899999995,-87.95732439999999"
+    },
+    {
+      "name": "Kong Dog Vernon Hills",
+      "distance": "0.4 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Kong%20Dog%20Vernon%20Hills&query_place_id=ChIJvfEUUgCXD4gRf-nprnGTAm4&center=42.241602799999995,-87.9581523"
+    },
+    {
+      "name": "Aroma Indian Cuisine",
+      "distance": "0.4 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Aroma%20Indian%20Cuisine&query_place_id=ChIJbeYQEkGWD4gR3AwxnLzAQco&center=42.2417741,-87.95772819999999"
+    },
+    {
+      "name": "Feather Glass Wine Bar & Eatery",
+      "distance": "0.4 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Feather%20Glass%20Wine%20Bar%20%26%20Eatery&query_place_id=ChIJLS-YSeKXD4gRfwQRut_otcE&center=42.2386171,-87.9478209"
+    },
+    {
+      "name": "Burrito Express - Vernon Hills",
+      "distance": "0.4 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Burrito%20Express%20-%20Vernon%20Hills&query_place_id=ChIJndYTvkaWD4gRsNbDlwZR_rw&center=42.2419119,-87.95907799999999"
+    }
+  ],
+  "bowling": [
+    {
+      "name": "Bowlero Vernon Hills",
+      "distance": "0.6 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Bowlero%20Vernon%20Hills&query_place_id=ChIJf5RlWEKWD4gRB4S3wK1PHm8&center=42.2451836,-87.9547073"
+    },
+    {
+      "name": "Lakeside Recreation Center",
+      "distance": "2.3 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Lakeside%20Recreation%20Center&query_place_id=ChIJp_3hoJmXD4gRsMYX0a93kCg&center=42.2507324,-87.99616999999999"
+    },
+    {
+      "name": "Fair Haven Lanes",
+      "distance": "3.1 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Fair%20Haven%20Lanes&query_place_id=ChIJx5CfwWyXD4gRg_ZHglybttc&center=42.2712729,-87.99362149999999",
+      "isFar": true
+    }
+  ],
+  "arcade": [],
+  "movies": [
+    {
+      "name": "AMC Hawthorn 12",
+      "distance": "0.6 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=AMC%20Hawthorn%2012&query_place_id=ChIJgd9AnG6WD4gRPw-Bub35BSs&center=42.2440917,-87.9493403"
+    }
+  ],
+  "fun": [
+    {
+      "name": "Hologram Zoo Illinois",
+      "distance": "0.5 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Hologram%20Zoo%20Illinois&query_place_id=ChIJKyJyN7WXD4gRiQNhhnnpuI4&center=42.2426244,-87.9506303"
+    },
+    {
+      "name": "WhirlyBall Vernon Hills",
+      "distance": "0.5 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=WhirlyBall%20Vernon%20Hills&query_place_id=ChIJ1cwDxUOWD4gRsExoyDIbOTQ&center=42.2436107,-87.9565724"
+    },
+    {
+      "name": "FUNBOX CHICAGO - VERNON HILLS",
+      "distance": "0.5 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=FUNBOX%20CHICAGO%20-%20VERNON%20HILLS&query_place_id=ChIJWZER-2yXD4gRJn8TPz8FDQg&center=42.2429479,-87.9503694"
+    },
+    {
+      "name": "Turtle Creek Waterpark",
+      "distance": "0.7 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Turtle%20Creek%20Waterpark&query_place_id=ChIJsxzDTzGXD4gRvt0UJHPym4c&center=42.2366515,-87.970069"
+    }
+  ],
+  "hotels": [
+    {
+      "name": "Holiday Inn Express Chicago NW-Vernon Hills",
+      "distance": "0.4 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Holiday%20Inn%20Express%20Chicago%20NW-Vernon%20Hills&query_place_id=ChIJjeMPckSWD4gRgxFheqOQncY&center=42.2423076,-87.9583713"
+    },
+    {
+      "name": "Hotel Indigo Chicago-Vernon Hills by IHG",
+      "distance": "0.6 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Hotel%20Indigo%20Chicago-Vernon%20Hills%20by%20IHG&query_place_id=ChIJg7FQexKWD4gR7EK4EBjy9EQ&center=42.234189,-87.944986"
+    },
+    {
+      "name": "Extended Stay America Suites- Chicago - Vernon Hills - Lake Forest",
+      "distance": "0.9 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Extended%20Stay%20America%20Suites-%20Chicago%20-%20Vernon%20Hills%20-%20Lake%20Forest&query_place_id=ChIJNTqjuA-WD4gRWsyaMfoCD-M&center=42.2295083,-87.9399028"
+    }
+  ],
+  "gas": [
+    {
+      "name": "AmeriStar",
+      "distance": "0.5 mi",
+      "url": "https://www.google.com/maps/search/AmeriStar+near+42.236466%2C-87.9554181"
+    },
+    {
+      "name": "Sam's Club Gas Station",
+      "distance": "0.8 mi",
+      "url": "https://www.google.com/maps/search/Sam's%20Club%20Gas%20Station+near+42.236466%2C-87.9554181"
+    },
+    {
+      "name": "Mobil",
+      "distance": "1.1 mi",
+      "url": "https://www.google.com/maps/search/Mobil+near+42.236466%2C-87.9554181"
+    },
+    {
+      "name": "M Sons Marathon Gas Station",
+      "distance": "1.2 mi",
+      "url": "https://www.google.com/maps/search/M%20Sons%20Marathon%20Gas%20Station+near+42.236466%2C-87.9554181"
+    }
+  ]
+}

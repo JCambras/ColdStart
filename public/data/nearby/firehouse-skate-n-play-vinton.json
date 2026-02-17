@@ -1,0 +1,182 @@
+{
+  "quick_bite": [
+    {
+      "name": "Krispy Krunchy Chicken",
+      "distance": "0.1 mi",
+      "url": "https://www.google.com/maps/search/Krispy%20Krunchy%20Chicken+near+37.279171999999996%2C-79.8694606"
+    },
+    {
+      "name": "Taco Bell / Pizza Hut",
+      "distance": "0.1 mi",
+      "url": "https://www.google.com/maps/search/Taco%20Bell%20%2F%20Pizza%20Hut+near+37.279171999999996%2C-79.8694606"
+    },
+    {
+      "name": "HCK Hot Chicken",
+      "distance": "0.4 mi",
+      "url": "https://www.google.com/maps/search/HCK%20Hot%20Chicken+near+37.279171999999996%2C-79.8694606"
+    },
+    {
+      "name": "Hunt Brothers Pizza",
+      "distance": "0.6 mi",
+      "url": "https://www.google.com/maps/search/Hunt%20Brothers%20Pizza+near+37.279171999999996%2C-79.8694606"
+    },
+    {
+      "name": "Marco's Pizza",
+      "distance": "1.0 mi",
+      "url": "https://www.google.com/maps/search/Marco's%20Pizza+near+37.279171999999996%2C-79.8694606"
+    },
+    {
+      "name": "China Wall Chinese Restaurant",
+      "distance": "1.0 mi",
+      "url": "https://www.google.com/maps/search/China%20Wall%20Chinese%20Restaurant+near+37.279171999999996%2C-79.8694606"
+    }
+  ],
+  "coffee": [
+    {
+      "name": "Dunkin'",
+      "distance": "1.0 mi",
+      "url": "https://www.google.com/maps/search/Dunkin'+near+37.279171999999996%2C-79.8694606"
+    },
+    {
+      "name": "Starbucks Coffee Company",
+      "distance": "1.1 mi",
+      "url": "https://www.google.com/maps/search/Starbucks%20Coffee%20Company+near+37.279171999999996%2C-79.8694606"
+    }
+  ],
+  "team_lunch": [
+    {
+      "name": "Food Lion Bakery",
+      "distance": "0.3 mi",
+      "url": "https://www.google.com/maps/search/Food%20Lion%20Bakery+near+37.279171999999996%2C-79.8694606"
+    },
+    {
+      "name": "Kroger Bakery",
+      "distance": "1.1 mi",
+      "url": "https://www.google.com/maps/search/Kroger%20Bakery+near+37.279171999999996%2C-79.8694606"
+    },
+    {
+      "name": "Sistaz Of Soulfood",
+      "distance": "1.1 mi",
+      "url": "https://www.google.com/maps/search/Sistaz%20Of%20Soulfood+near+37.279171999999996%2C-79.8694606"
+    }
+  ],
+  "dinner": [
+    {
+      "name": "Last Stop Lounge",
+      "distance": "0.2 mi",
+      "url": "https://www.google.com/maps/search/Last%20Stop%20Lounge+near+37.279171999999996%2C-79.8694606"
+    },
+    {
+      "name": "Pancho Mexican Restaurant Vinton",
+      "distance": "0.2 mi",
+      "url": "https://www.google.com/maps/search/Pancho%20Mexican%20Restaurant%20Vinton+near+37.279171999999996%2C-79.8694606"
+    },
+    {
+      "name": "Renee's Family Restaurant",
+      "distance": "0.2 mi",
+      "url": "https://www.google.com/maps/search/Renee's%20Family%20Restaurant+near+37.279171999999996%2C-79.8694606"
+    },
+    {
+      "name": "525 Shawarma",
+      "distance": "0.4 mi",
+      "url": "https://www.google.com/maps/search/525%20Shawarma+near+37.279171999999996%2C-79.8694606"
+    },
+    {
+      "name": "Frank's Pizza & Italian Subs",
+      "distance": "0.5 mi",
+      "url": "https://www.google.com/maps/search/Frank's%20Pizza%20%26%20Italian%20Subs+near+37.279171999999996%2C-79.8694606"
+    }
+  ],
+  "bowling": [
+    {
+      "name": "Vinton Bowling Center",
+      "distance": "1.0 mi",
+      "url": "https://www.google.com/maps/search/Vinton%20Bowling%20Center+near+37.279171999999996%2C-79.8694606"
+    },
+    {
+      "name": "AMF Hilltop Lanes",
+      "distance": "5.9 mi",
+      "url": "https://www.google.com/maps/search/AMF%20Hilltop%20Lanes+near+37.279171999999996%2C-79.8694606",
+      "isFar": true
+    }
+  ],
+  "arcade": [],
+  "movies": [
+    {
+      "name": "Megadome Theatre",
+      "distance": "3.9 mi",
+      "url": "https://www.google.com/maps/search/Megadome%20Theatre+near+37.279171999999996%2C-79.8694606",
+      "isFar": true
+    },
+    {
+      "name": "Regal Valley View Grande",
+      "distance": "4.9 mi",
+      "url": "https://www.google.com/maps/search/Regal%20Valley%20View%20Grande+near+37.279171999999996%2C-79.8694606",
+      "isFar": true
+    },
+    {
+      "name": "The Grandin Theatre",
+      "distance": "6.0 mi",
+      "url": "https://www.google.com/maps/search/The%20Grandin%20Theatre+near+37.279171999999996%2C-79.8694606",
+      "isFar": true
+    }
+  ],
+  "fun": [
+    {
+      "name": "Bounce Roanoke",
+      "distance": "2.2 mi",
+      "url": "https://www.google.com/maps/search/Bounce%20Roanoke+near+37.279171999999996%2C-79.8694606"
+    },
+    {
+      "name": "All In Adventures Escape Rooms",
+      "distance": "5.4 mi",
+      "url": "https://www.google.com/maps/search/All%20In%20Adventures%20Escape%20Rooms+near+37.279171999999996%2C-79.8694606",
+      "isFar": true
+    },
+    {
+      "name": "Sky Zone Trampoline Park",
+      "distance": "5.6 mi",
+      "url": "https://www.google.com/maps/search/Sky%20Zone%20Trampoline%20Park+near+37.279171999999996%2C-79.8694606",
+      "isFar": true
+    }
+  ],
+  "hotels": [
+    {
+      "name": "Right off the Blueridge Parkway",
+      "distance": "1.3 mi",
+      "url": "https://www.google.com/maps/search/Right%20off%20the%20Blueridge%20Parkway+near+37.279171999999996%2C-79.8694606"
+    },
+    {
+      "name": "Boxtree Lodge",
+      "distance": "1.6 mi",
+      "url": "https://www.google.com/maps/search/Boxtree%20Lodge+near+37.279171999999996%2C-79.8694606"
+    },
+    {
+      "name": "American Efficiency Inns",
+      "distance": "1.6 mi",
+      "url": "https://www.google.com/maps/search/American%20Efficiency%20Inns+near+37.279171999999996%2C-79.8694606"
+    }
+  ],
+  "gas": [
+    {
+      "name": "Shell",
+      "distance": "0.1 mi",
+      "url": "https://www.google.com/maps/search/Shell+near+37.279171999999996%2C-79.8694606"
+    },
+    {
+      "name": "bp",
+      "distance": "0.4 mi",
+      "url": "https://www.google.com/maps/search/bp+near+37.279171999999996%2C-79.8694606"
+    },
+    {
+      "name": "Vinton Tobacco &Grocery",
+      "distance": "0.4 mi",
+      "url": "https://www.google.com/maps/search/Vinton%20Tobacco%20%26Grocery+near+37.279171999999996%2C-79.8694606"
+    },
+    {
+      "name": "Vinton Foodmart BP",
+      "distance": "0.6 mi",
+      "url": "https://www.google.com/maps/search/Vinton%20Foodmart%20BP+near+37.279171999999996%2C-79.8694606"
+    }
+  ]
+}

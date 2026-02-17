@@ -1,0 +1,235 @@
+{
+  "quick_bite": [
+    {
+      "name": "PrimoHoagies",
+      "distance": "0.3 mi",
+      "url": "https://www.google.com/maps/search/PrimoHoagies+near+39.564623399999995%2C-104.926412"
+    },
+    {
+      "name": "Sweet & Savory Co.",
+      "distance": "0.3 mi",
+      "url": "https://www.google.com/maps/search/Sweet%20%26%20Savory%20Co.+near+39.564623399999995%2C-104.926412"
+    },
+    {
+      "name": "Chuck E. Cheese",
+      "distance": "1.2 mi",
+      "url": "https://www.google.com/maps/search/Chuck%20E.%20Cheese+near+39.564623399999995%2C-104.926412"
+    }
+  ],
+  "coffee": [
+    {
+      "name": "McDonald's",
+      "distance": "0.2 mi",
+      "url": "https://www.google.com/maps/search/McDonald's+near+39.564623399999995%2C-104.926412"
+    },
+    {
+      "name": "En-spire Nutrition Centennial",
+      "distance": "0.3 mi",
+      "url": "https://www.google.com/maps/search/En-spire%20Nutrition%20Centennial+near+39.564623399999995%2C-104.926412"
+    },
+    {
+      "name": "Starbucks Coffee Company",
+      "distance": "0.3 mi",
+      "url": "https://www.google.com/maps/search/Starbucks%20Coffee%20Company+near+39.564623399999995%2C-104.926412"
+    }
+  ],
+  "team_lunch": [
+    {
+      "name": "Project",
+      "distance": "0.8 mi",
+      "url": "https://www.google.com/maps/search/Project+near+39.564623399999995%2C-104.926412"
+    },
+    {
+      "name": "Walmart Bakery",
+      "distance": "0.8 mi",
+      "url": "https://www.google.com/maps/search/Walmart%20Bakery+near+39.564623399999995%2C-104.926412"
+    }
+  ],
+  "dinner": [
+    {
+      "name": "Sunset Grille",
+      "distance": "0.2 mi",
+      "url": "https://www.google.com/maps/search/Sunset%20Grille+near+39.564623399999995%2C-104.926412"
+    },
+    {
+      "name": "Los Dos Potrillos Mexican Restaurant",
+      "distance": "0.2 mi",
+      "url": "https://www.google.com/maps/search/Los%20Dos%20Potrillos%20Mexican%20Restaurant+near+39.564623399999995%2C-104.926412"
+    },
+    {
+      "name": "Big Bill's New York Pizza",
+      "distance": "0.2 mi",
+      "url": "https://www.google.com/maps/search/Big%20Bill's%20New%20York%20Pizza+near+39.564623399999995%2C-104.926412"
+    },
+    {
+      "name": "Wild Basil Restaurant",
+      "distance": "0.2 mi",
+      "url": "https://www.google.com/maps/search/Wild%20Basil%20Restaurant+near+39.564623399999995%2C-104.926412"
+    },
+    {
+      "name": "The Makery Cake Company",
+      "distance": "0.3 mi",
+      "url": "https://www.google.com/maps/search/The%20Makery%20Cake%20Company+near+39.564623399999995%2C-104.926412"
+    },
+    {
+      "name": "Wave The Grain - Centennial",
+      "distance": "0.3 mi",
+      "url": "https://www.google.com/maps/search/Wave%20The%20Grain%20-%20Centennial+near+39.564623399999995%2C-104.926412"
+    },
+    {
+      "name": "East Moon Asian Bistro & sushi",
+      "distance": "0.3 mi",
+      "url": "https://www.google.com/maps/search/East%20Moon%20Asian%20Bistro%20%26%20sushi+near+39.564623399999995%2C-104.926412"
+    }
+  ],
+  "bowling": [
+    {
+      "name": "Bowlero Littleton",
+      "distance": "1.8 mi",
+      "url": "https://www.google.com/maps/search/Bowlero%20Littleton+near+39.564623399999995%2C-104.926412"
+    },
+    {
+      "name": "Lucky Strike Lone Tree",
+      "distance": "2.5 mi",
+      "url": "https://www.google.com/maps/search/Lucky%20Strike%20Lone%20Tree+near+39.564623399999995%2C-104.926412"
+    },
+    {
+      "name": "Arapahoe Bowling Center",
+      "distance": "3.3 mi",
+      "url": "https://www.google.com/maps/search/Arapahoe%20Bowling%20Center+near+39.564623399999995%2C-104.926412",
+      "isFar": true
+    }
+  ],
+  "arcade": [],
+  "movies": [
+    {
+      "name": "Hollywood Theaters",
+      "distance": "2.8 mi",
+      "url": "https://www.google.com/maps/search/Hollywood%20Theaters+near+39.564623399999995%2C-104.926412"
+    },
+    {
+      "name": "Galaxy Flicks",
+      "distance": "2.8 mi",
+      "url": "https://www.google.com/maps/search/Galaxy%20Flicks+near+39.564623399999995%2C-104.926412"
+    },
+    {
+      "name": "Regal SouthGlenn",
+      "distance": "2.8 mi",
+      "url": "https://www.google.com/maps/search/Regal%20SouthGlenn+near+39.564623399999995%2C-104.926412"
+    },
+    {
+      "name": "AMC Highlands Ranch 24",
+      "distance": "3.5 mi",
+      "url": "https://www.google.com/maps/search/AMC%20Highlands%20Ranch%2024+near+39.564623399999995%2C-104.926412",
+      "isFar": true
+    },
+    {
+      "name": "The Landmark at Greenwood Village",
+      "distance": "3.9 mi",
+      "url": "https://www.google.com/maps/search/The%20Landmark%20at%20Greenwood%20Village+near+39.564623399999995%2C-104.926412",
+      "isFar": true
+    }
+  ],
+  "fun": [
+    {
+      "name": "Game Show Battle Rooms - Denver (Centennial)",
+      "distance": "0.8 mi",
+      "url": "https://www.google.com/maps/search/Game%20Show%20Battle%20Rooms%20-%20Denver%20(Centennial)+near+39.564623399999995%2C-104.926412"
+    },
+    {
+      "name": "CO Battle Zones",
+      "distance": "0.8 mi",
+      "url": "https://www.google.com/maps/search/CO%20Battle%20Zones+near+39.564623399999995%2C-104.926412"
+    },
+    {
+      "name": "The Escape Game Lone Tree",
+      "distance": "2.6 mi",
+      "url": "https://www.google.com/maps/search/The%20Escape%20Game%20Lone%20Tree+near+39.564623399999995%2C-104.926412"
+    },
+    {
+      "name": "The Clue Room",
+      "distance": "2.6 mi",
+      "url": "https://www.google.com/maps/search/The%20Clue%20Room+near+39.564623399999995%2C-104.926412"
+    },
+    {
+      "name": "Sandbox VR",
+      "distance": "2.6 mi",
+      "url": "https://www.google.com/maps/search/Sandbox%20VR+near+39.564623399999995%2C-104.926412"
+    },
+    {
+      "name": "Escapology Escape Rooms Centennial",
+      "distance": "2.7 mi",
+      "url": "https://www.google.com/maps/search/Escapology%20Escape%20Rooms%20Centennial+near+39.564623399999995%2C-104.926412"
+    },
+    {
+      "name": "Epic Escape Game Greenwood Village",
+      "distance": "3.3 mi",
+      "url": "https://www.google.com/maps/search/Epic%20Escape%20Game%20Greenwood%20Village+near+39.564623399999995%2C-104.926412",
+      "isFar": true
+    }
+  ],
+  "hotels": [
+    {
+      "name": "Spacious and Private 2-bedroom, 2-bathroom condo with a private 1-car garage.",
+      "distance": "0.4 mi",
+      "url": "https://www.google.com/maps/search/Spacious%20and%20Private%202-bedroom%2C%202-bathroom%20condo%20with%20a%20private%201-car%20garage.+near+39.564623399999995%2C-104.926412"
+    },
+    {
+      "name": "Near Shops & Eats! Centennial Escape w/ Sunroom",
+      "distance": "0.5 mi",
+      "url": "https://www.google.com/maps/search/Near%20Shops%20%26%20Eats!%20Centennial%20Escape%20w%2F%20Sunroom+near+39.564623399999995%2C-104.926412"
+    },
+    {
+      "name": "Near Shops & Eats! Centennial Escape w/ Sunroom",
+      "distance": "0.5 mi",
+      "url": "https://www.google.com/maps/search/Near%20Shops%20%26%20Eats!%20Centennial%20Escape%20w%2F%20Sunroom+near+39.564623399999995%2C-104.926412"
+    },
+    {
+      "name": "Centennial Charm: 4BR, 2.5BA w/ Grand Primary Ensuite",
+      "distance": "0.5 mi",
+      "url": "https://www.google.com/maps/search/Centennial%20Charm%3A%204BR%2C%202.5BA%20w%2F%20Grand%20Primary%20Ensuite+near+39.564623399999995%2C-104.926412"
+    },
+    {
+      "name": "3-Bedroom Condo in Amenity Rich and Gated, Palomino Park!",
+      "distance": "0.6 mi",
+      "url": "https://www.google.com/maps/search/3-Bedroom%20Condo%20in%20Amenity%20Rich%20and%20Gated%2C%20Palomino%20Park!+near+39.564623399999995%2C-104.926412"
+    },
+    {
+      "name": "Wow house ! Great for families with tons of room and space for everyone to enjoy",
+      "distance": "0.8 mi",
+      "url": "https://www.google.com/maps/search/Wow%20house%20!%20Great%20for%20families%20with%20tons%20of%20room%20and%20space%20for%20everyone%20to%20enjoy+near+39.564623399999995%2C-104.926412"
+    },
+    {
+      "name": "Blue Ridge Village",
+      "distance": "0.9 mi",
+      "url": "https://www.google.com/maps/search/Blue%20Ridge%20Village+near+39.564623399999995%2C-104.926412"
+    }
+  ],
+  "gas": [
+    {
+      "name": "King Soopers Fuel Center",
+      "distance": "0.3 mi",
+      "url": "https://www.google.com/maps/search/King%20Soopers%20Fuel%20Center+near+39.564623399999995%2C-104.926412"
+    },
+    {
+      "name": "Conoco",
+      "distance": "0.8 mi",
+      "url": "https://www.google.com/maps/search/Conoco+near+39.564623399999995%2C-104.926412"
+    },
+    {
+      "name": "Conoco",
+      "distance": "1.0 mi",
+      "url": "https://www.google.com/maps/search/Conoco+near+39.564623399999995%2C-104.926412"
+    },
+    {
+      "name": "Circle K | Gas Station",
+      "distance": "1.1 mi",
+      "url": "https://www.google.com/maps/search/Circle%20K%20%7C%20Gas%20Station+near+39.564623399999995%2C-104.926412"
+    },
+    {
+      "name": "Circle K | Gas Station",
+      "distance": "1.2 mi",
+      "url": "https://www.google.com/maps/search/Circle%20K%20%7C%20Gas%20Station+near+39.564623399999995%2C-104.926412"
+    }
+  ]
+}

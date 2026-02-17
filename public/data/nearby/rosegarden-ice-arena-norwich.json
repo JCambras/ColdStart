@@ -1,0 +1,161 @@
+{
+  "quick_bite": [
+    {
+      "name": "Chipotle Mexican Grill",
+      "distance": "0.6 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Chipotle%20Mexican%20Grill&query_place_id=ChIJpWAxNC1z5okRxj6H6kLPC6U&center=41.5134281,-72.10696109999999"
+    },
+    {
+      "name": "Burger King",
+      "distance": "0.6 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Burger%20King&query_place_id=ChIJl-mZGzpy5okRDmcc5Kxkeyc&center=41.5140374,-72.1070774"
+    },
+    {
+      "name": "Subway",
+      "distance": "0.6 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Subway&query_place_id=ChIJN71vcj9y5okRDgxmcI1GJIU&center=41.512923699999995,-72.1108907"
+    },
+    {
+      "name": "Taco Bell / KFC",
+      "distance": "0.7 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Taco%20Bell%20%2F%20KFC&query_place_id=ChIJkW8h9jly5okR2rLyj4W9dgc&center=41.513996899999995,-72.1083331"
+    },
+    {
+      "name": "KFC",
+      "distance": "0.7 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=KFC&query_place_id=ChIJkW8h9jly5okRNcP20w2WNbg&center=41.514011499999995,-72.1083323"
+    }
+  ],
+  "coffee": [
+    {
+      "name": "Starbucks Coffee Company",
+      "distance": "0.6 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Starbucks%20Coffee%20Company&query_place_id=ChIJByBqKDly5okRdzWm1lKQu20&center=41.51154,-72.11207999999999"
+    },
+    {
+      "name": "Dunkin'",
+      "distance": "0.7 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Dunkin'&query_place_id=ChIJxbjJ1Dhy5okRgXWzgY0ty2c&center=41.5114326,-72.1141609"
+    },
+    {
+      "name": "Krispy Kreme",
+      "distance": "1.2 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Krispy%20Kreme&query_place_id=ChIJNe_8fqtz5okRFremfVCmHp8&center=41.4909161,-72.0911385"
+    }
+  ],
+  "team_lunch": [
+    {
+      "name": "Infinity Palace Chinese Buffet",
+      "distance": "0.6 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Infinity%20Palace%20Chinese%20Buffet&query_place_id=ChIJb3aXDDly5okRC2i0hAW-0YE&center=41.513145,-72.11048989999999"
+    },
+    {
+      "name": "Wings'n'Pies Norwich",
+      "distance": "0.7 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Wings'n'Pies%20Norwich&query_place_id=ChIJBULPCLNz5okRYcLyQuCsLRc&center=41.5146344,-72.1038482"
+    }
+  ],
+  "dinner": [
+    {
+      "name": "Caddy Shack Cafe",
+      "distance": "0.2 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Caddy%20Shack%20Cafe&query_place_id=ChIJVYWHWE5y5okRcHxnGHFk42s&center=41.5015243,-72.103352"
+    },
+    {
+      "name": "Joys Restaurant",
+      "distance": "0.5 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Joys%20Restaurant&query_place_id=ChIJVVXFAE1y5okR7nn0MqBVHhQ&center=41.4996826,-72.0970208"
+    },
+    {
+      "name": "Great Oak Pizza",
+      "distance": "0.6 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Great%20Oak%20Pizza&query_place_id=ChIJb-AfvExy5okRmg7_o2KShyU&center=41.498625,-72.0971024"
+    },
+    {
+      "name": "Bella Fiore Restaurante",
+      "distance": "0.6 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Bella%20Fiore%20Restaurante&query_place_id=ChIJX0OSqLVz5okReiAYAI-48Mg&center=41.5031319,-72.0930259"
+    },
+    {
+      "name": "Mahzu Japanese Restaurant",
+      "distance": "0.6 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Mahzu%20Japanese%20Restaurant&query_place_id=ChIJfTwKjjFy5okRvDwOX0n3y_A&center=41.513611999999995,-72.101782"
+    },
+    {
+      "name": "Modelo Bar & Grill",
+      "distance": "0.6 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Modelo%20Bar%20%26%20Grill&query_place_id=ChIJCw7CqY5z5okRRC-lk8oEVA8&center=41.503222799999996,-72.0929331"
+    }
+  ],
+  "bowling": [
+    {
+      "name": "Norwich Bowling & Entertainment Center",
+      "distance": "3.4 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Norwich%20Bowling%20%26%20Entertainment%20Center&query_place_id=ChIJRUQrk7px5okR5bIO7iqJSaM&center=41.554460899999995,-72.1088046",
+      "isFar": true
+    }
+  ],
+  "arcade": [],
+  "movies": [],
+  "fun": [
+    {
+      "name": "Terrificon",
+      "distance": "1.1 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Terrificon&query_place_id=ChIJWzHiPABz5okRP6hz_ODQfU8&center=41.4916103,-72.0914064"
+    },
+    {
+      "name": "Casino of the Wind",
+      "distance": "1.2 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Casino%20of%20the%20Wind&query_place_id=ChIJ3aLi4npz5okRC3yjvs3xOzg&center=41.4917982,-72.09039729999999"
+    },
+    {
+      "name": "Kids Quest at Mohegan Sun",
+      "distance": "1.2 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Kids%20Quest%20at%20Mohegan%20Sun&query_place_id=ChIJNe_8fqtz5okR_6tZn0WMnqQ&center=41.4925375,-72.089119"
+    },
+    {
+      "name": "Perkins-Rockwell House",
+      "distance": "2.5 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Perkins-Rockwell%20House&query_place_id=ChIJESBNNwBx5okROu-nF2xnfb0&center=41.5349861,-72.0789759"
+    }
+  ],
+  "hotels": [
+    {
+      "name": "2 bed suite-type Norwich villa - spa Mohegan Sun",
+      "distance": "0.1 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=2%20bed%20suite-type%20Norwich%20villa%20-%20spa%20Mohegan%20Sun&query_place_id=ChIJ1Y_o2Ehy5okRZ_vbLzmTaRc&center=41.5041809,-72.103241"
+    },
+    {
+      "name": "Norwich Villa Royale",
+      "distance": "0.2 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Norwich%20Villa%20Royale&query_place_id=ChIJ0ePdSUly5okRcf1iJ5jjgO8&center=41.503479,-72.1016006"
+    },
+    {
+      "name": "Villa Noir",
+      "distance": "0.2 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Villa%20Noir&query_place_id=ChIJ9fTwlCBz5okRWs-3lm0wZI4&center=41.5030977,-72.1015133"
+    }
+  ],
+  "gas": [
+    {
+      "name": "Mobil",
+      "distance": "0.7 mi",
+      "url": "https://www.google.com/maps/search/Mobil+near+41.505030100000006%2C-72.10452409999999"
+    },
+    {
+      "name": "Chucky's",
+      "distance": "0.7 mi",
+      "url": "https://www.google.com/maps/search/Chucky's+near+41.505030100000006%2C-72.10452409999999"
+    },
+    {
+      "name": "EGP",
+      "distance": "0.7 mi",
+      "url": "https://www.google.com/maps/search/EGP+near+41.505030100000006%2C-72.10452409999999"
+    },
+    {
+      "name": "Mohegan Sun Employee Gas Station",
+      "distance": "0.9 mi",
+      "url": "https://www.google.com/maps/search/Mohegan%20Sun%20Employee%20Gas%20Station+near+41.505030100000006%2C-72.10452409999999"
+    }
+  ]
+}

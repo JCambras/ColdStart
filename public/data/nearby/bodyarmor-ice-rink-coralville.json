@@ -1,0 +1,200 @@
+{
+  "quick_bite": [
+    {
+      "name": "La Fry Co.",
+      "distance": "0.1 mi",
+      "url": "https://www.google.com/maps/search/La%20Fry%20Co.+near+41.690494799999996%2C-91.6007453"
+    },
+    {
+      "name": "A&W Restaurant",
+      "distance": "0.1 mi",
+      "url": "https://www.google.com/maps/search/A%26W%20Restaurant+near+41.690494799999996%2C-91.6007453"
+    },
+    {
+      "name": "Sarku Japan",
+      "distance": "0.1 mi",
+      "url": "https://www.google.com/maps/search/Sarku%20Japan+near+41.690494799999996%2C-91.6007453"
+    },
+    {
+      "name": "Chick-fil-A",
+      "distance": "0.1 mi",
+      "url": "https://www.google.com/maps/search/Chick-fil-A+near+41.690494799999996%2C-91.6007453"
+    },
+    {
+      "name": "Panda Express",
+      "distance": "0.1 mi",
+      "url": "https://www.google.com/maps/search/Panda%20Express+near+41.690494799999996%2C-91.6007453"
+    },
+    {
+      "name": "Pizza Hut Express",
+      "distance": "0.1 mi",
+      "url": "https://www.google.com/maps/search/Pizza%20Hut%20Express+near+41.690494799999996%2C-91.6007453"
+    },
+    {
+      "name": "Sbarro",
+      "distance": "0.2 mi",
+      "url": "https://www.google.com/maps/search/Sbarro+near+41.690494799999996%2C-91.6007453"
+    }
+  ],
+  "coffee": [
+    {
+      "name": "Panera Bread",
+      "distance": "0.1 mi",
+      "url": "https://www.google.com/maps/search/Panera%20Bread+near+41.690494799999996%2C-91.6007453"
+    },
+    {
+      "name": "Starbucks",
+      "distance": "0.1 mi",
+      "url": "https://www.google.com/maps/search/Starbucks+near+41.690494799999996%2C-91.6007453"
+    }
+  ],
+  "team_lunch": [
+    {
+      "name": "Charleys Cheesesteaks",
+      "distance": "0.1 mi",
+      "url": "https://www.google.com/maps/search/Charleys%20Cheesesteaks+near+41.690494799999996%2C-91.6007453"
+    },
+    {
+      "name": "Auntie Anne's",
+      "distance": "0.1 mi",
+      "url": "https://www.google.com/maps/search/Auntie%20Anne's+near+41.690494799999996%2C-91.6007453"
+    },
+    {
+      "name": "HAVELI INDIAN CUISINE",
+      "distance": "0.2 mi",
+      "url": "https://www.google.com/maps/search/HAVELI%20INDIAN%20CUISINE+near+41.690494799999996%2C-91.6007453"
+    }
+  ],
+  "dinner": [
+    {
+      "name": "ANDALE ANDALE",
+      "distance": "0.1 mi",
+      "url": "https://www.google.com/maps/search/ANDALE%20ANDALE+near+41.690494799999996%2C-91.6007453"
+    },
+    {
+      "name": "I Love Mochi",
+      "distance": "0.1 mi",
+      "url": "https://www.google.com/maps/search/I%20Love%20Mochi+near+41.690494799999996%2C-91.6007453"
+    },
+    {
+      "name": "Mr.Shawerma",
+      "distance": "0.1 mi",
+      "url": "https://www.google.com/maps/search/Mr.Shawerma+near+41.690494799999996%2C-91.6007453"
+    },
+    {
+      "name": "Crab House",
+      "distance": "0.2 mi",
+      "url": "https://www.google.com/maps/search/Crab%20House+near+41.690494799999996%2C-91.6007453"
+    },
+    {
+      "name": "Saj Grill Coralville",
+      "distance": "0.3 mi",
+      "url": "https://www.google.com/maps/search/Saj%20Grill%20Coralville+near+41.690494799999996%2C-91.6007453"
+    }
+  ],
+  "bowling": [
+    {
+      "name": "Bowldogs",
+      "distance": "4.4 mi",
+      "url": "https://www.google.com/maps/search/Bowldogs+near+41.690494799999996%2C-91.6007453",
+      "isFar": true
+    }
+  ],
+  "arcade": [],
+  "movies": [
+    {
+      "name": "Marcus Coral Ridge Cinema",
+      "distance": "0.1 mi",
+      "url": "https://www.google.com/maps/search/Marcus%20Coral%20Ridge%20Cinema+near+41.690494799999996%2C-91.6007453"
+    },
+    {
+      "name": "CAB",
+      "distance": "3.8 mi",
+      "url": "https://www.google.com/maps/search/CAB+near+41.690494799999996%2C-91.6007453",
+      "isFar": true
+    },
+    {
+      "name": "FilmScene on The Ped Mall",
+      "distance": "4.1 mi",
+      "url": "https://www.google.com/maps/search/FilmScene%20on%20The%20Ped%20Mall+near+41.690494799999996%2C-91.6007453",
+      "isFar": true
+    },
+    {
+      "name": "FilmScene at The Chauncey",
+      "distance": "4.3 mi",
+      "url": "https://www.google.com/maps/search/FilmScene%20at%20The%20Chauncey+near+41.690494799999996%2C-91.6007453",
+      "isFar": true
+    }
+  ],
+  "fun": [
+    {
+      "name": "The Slime Kitchen",
+      "distance": "0.1 mi",
+      "url": "https://www.google.com/maps/search/The%20Slime%20Kitchen+near+41.690494799999996%2C-91.6007453"
+    }
+  ],
+  "hotels": [
+    {
+      "name": "SpringHill Suites by Marriott Coralville",
+      "distance": "0.2 mi",
+      "url": "https://www.google.com/maps/search/SpringHill%20Suites%20by%20Marriott%20Coralville+near+41.690494799999996%2C-91.6007453"
+    },
+    {
+      "name": "Holiday Inn Express & Suites Coralville by IHG",
+      "distance": "0.3 mi",
+      "url": "https://www.google.com/maps/search/Holiday%20Inn%20Express%20%26%20Suites%20Coralville%20by%20IHG+near+41.690494799999996%2C-91.6007453"
+    },
+    {
+      "name": "Charming Newly Remodeled Condo",
+      "distance": "0.3 mi",
+      "url": "https://www.google.com/maps/search/Charming%20Newly%20Remodeled%20Condo+near+41.690494799999996%2C-91.6007453"
+    },
+    {
+      "name": "Comfort Suites Coralville I-80",
+      "distance": "0.4 mi",
+      "url": "https://www.google.com/maps/search/Comfort%20Suites%20Coralville%20I-80+near+41.690494799999996%2C-91.6007453"
+    },
+    {
+      "name": "Spacious and Bright 3 Bedroom, 2 Bath Townhome Conveniently Located!",
+      "distance": "0.5 mi",
+      "url": "https://www.google.com/maps/search/Spacious%20and%20Bright%203%20Bedroom%2C%202%20Bath%20Townhome%20Conveniently%20Located!+near+41.690494799999996%2C-91.6007453"
+    },
+    {
+      "name": "The Mirage, in beautiful Coralville with AC, WiFi. Enjoy your stay",
+      "distance": "0.5 mi",
+      "url": "https://www.google.com/maps/search/The%20Mirage%2C%20in%20beautiful%20Coralville%20with%20AC%2C%20WiFi.%20Enjoy%20your%20stay+near+41.690494799999996%2C-91.6007453"
+    },
+    {
+      "name": "Residence Inn by Marriott Coralville",
+      "distance": "0.5 mi",
+      "url": "https://www.google.com/maps/search/Residence%20Inn%20by%20Marriott%20Coralville+near+41.690494799999996%2C-91.6007453"
+    }
+  ],
+  "gas": [
+    {
+      "name": "Casey's",
+      "distance": "0.6 mi",
+      "url": "https://www.google.com/maps/search/Casey's+near+41.690494799999996%2C-91.6007453"
+    },
+    {
+      "name": "Maverik",
+      "distance": "0.7 mi",
+      "url": "https://www.google.com/maps/search/Maverik+near+41.690494799999996%2C-91.6007453"
+    },
+    {
+      "name": "Fast & Fresh",
+      "distance": "0.8 mi",
+      "url": "https://www.google.com/maps/search/Fast%20%26%20Fresh+near+41.690494799999996%2C-91.6007453"
+    },
+    {
+      "name": "Petroleum Services",
+      "distance": "1.0 mi",
+      "url": "https://www.google.com/maps/search/Petroleum%20Services+near+41.690494799999996%2C-91.6007453"
+    },
+    {
+      "name": "Costco Gas Station",
+      "distance": "1.0 mi",
+      "url": "https://www.google.com/maps/search/Costco%20Gas%20Station+near+41.690494799999996%2C-91.6007453"
+    }
+  ]
+}

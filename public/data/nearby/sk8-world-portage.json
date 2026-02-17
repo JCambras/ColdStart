@@ -1,0 +1,230 @@
+{
+  "quick_bite": [
+    {
+      "name": "Wendy's",
+      "distance": "0.3 mi",
+      "url": "https://www.google.com/maps/search/Wendy's+near+41.547264%2C-87.1723861"
+    },
+    {
+      "name": "Popeyes Louisiana Kitchen",
+      "distance": "0.3 mi",
+      "url": "https://www.google.com/maps/search/Popeyes%20Louisiana%20Kitchen+near+41.547264%2C-87.1723861"
+    },
+    {
+      "name": "Culver’s",
+      "distance": "0.3 mi",
+      "url": "https://www.google.com/maps/search/Culver%E2%80%99s+near+41.547264%2C-87.1723861"
+    },
+    {
+      "name": "Panda Express",
+      "distance": "0.3 mi",
+      "url": "https://www.google.com/maps/search/Panda%20Express+near+41.547264%2C-87.1723861"
+    },
+    {
+      "name": "Charleys Cheesesteaks and Wings",
+      "distance": "0.3 mi",
+      "url": "https://www.google.com/maps/search/Charleys%20Cheesesteaks%20and%20Wings+near+41.547264%2C-87.1723861"
+    },
+    {
+      "name": "Pop's Portage",
+      "distance": "0.5 mi",
+      "url": "https://www.google.com/maps/search/Pop's%20Portage+near+41.547264%2C-87.1723861"
+    },
+    {
+      "name": "Taco Bell",
+      "distance": "0.5 mi",
+      "url": "https://www.google.com/maps/search/Taco%20Bell+near+41.547264%2C-87.1723861"
+    }
+  ],
+  "coffee": [
+    {
+      "name": "McDonald's",
+      "distance": "0.4 mi",
+      "url": "https://www.google.com/maps/search/McDonald's+near+41.547264%2C-87.1723861"
+    },
+    {
+      "name": "Starbucks Coffee Company",
+      "distance": "0.5 mi",
+      "url": "https://www.google.com/maps/search/Starbucks%20Coffee%20Company+near+41.547264%2C-87.1723861"
+    },
+    {
+      "name": "Panera Bread",
+      "distance": "0.6 mi",
+      "url": "https://www.google.com/maps/search/Panera%20Bread+near+41.547264%2C-87.1723861"
+    },
+    {
+      "name": "Fireflies Fun Zone",
+      "distance": "7.4 mi",
+      "url": "https://www.google.com/maps/search/Fireflies%20Fun%20Zone+near+41.547264%2C-87.1723861",
+      "isFar": true
+    }
+  ],
+  "team_lunch": [
+    {
+      "name": "Steak ’n Shake",
+      "distance": "0.2 mi",
+      "url": "https://www.google.com/maps/search/Steak%20%E2%80%99n%20Shake+near+41.547264%2C-87.1723861"
+    },
+    {
+      "name": "Applebee's Grill + Bar",
+      "distance": "0.2 mi",
+      "url": "https://www.google.com/maps/search/Applebee's%20Grill%20%2B%20Bar+near+41.547264%2C-87.1723861"
+    },
+    {
+      "name": "Texas Roadhouse",
+      "distance": "0.4 mi",
+      "url": "https://www.google.com/maps/search/Texas%20Roadhouse+near+41.547264%2C-87.1723861"
+    }
+  ],
+  "dinner": [
+    {
+      "name": "Beijing Chinese Restaurant",
+      "distance": "0.3 mi",
+      "url": "https://www.google.com/maps/search/Beijing%20Chinese%20Restaurant+near+41.547264%2C-87.1723861"
+    },
+    {
+      "name": "Walmart Bakery",
+      "distance": "0.3 mi",
+      "url": "https://www.google.com/maps/search/Walmart%20Bakery+near+41.547264%2C-87.1723861"
+    },
+    {
+      "name": "Power Nutrition",
+      "distance": "0.4 mi",
+      "url": "https://www.google.com/maps/search/Power%20Nutrition+near+41.547264%2C-87.1723861"
+    },
+    {
+      "name": "Aurelio's Pizza",
+      "distance": "0.6 mi",
+      "url": "https://www.google.com/maps/search/Aurelio's%20Pizza+near+41.547264%2C-87.1723861"
+    },
+    {
+      "name": "La Cabaña",
+      "distance": "0.6 mi",
+      "url": "https://www.google.com/maps/search/La%20Caba%C3%B1a+near+41.547264%2C-87.1723861"
+    }
+  ],
+  "bowling": [
+    {
+      "name": "Hobart Lanes",
+      "distance": "3.6 mi",
+      "url": "https://www.google.com/maps/search/Hobart%20Lanes+near+41.547264%2C-87.1723861",
+      "isFar": true
+    },
+    {
+      "name": "Ray's Lanes",
+      "distance": "4.1 mi",
+      "url": "https://www.google.com/maps/search/Ray's%20Lanes+near+41.547264%2C-87.1723861",
+      "isFar": true
+    },
+    {
+      "name": "Cressmoor Lanes Inc",
+      "distance": "5.0 mi",
+      "url": "https://www.google.com/maps/search/Cressmoor%20Lanes%20Inc+near+41.547264%2C-87.1723861",
+      "isFar": true
+    }
+  ],
+  "arcade": [],
+  "movies": [
+    {
+      "name": "Emagine Portage",
+      "distance": "0.8 mi",
+      "url": "https://www.google.com/maps/search/Emagine%20Portage+near+41.547264%2C-87.1723861"
+    },
+    {
+      "name": "49er Drive-In Theatre",
+      "distance": "7.2 mi",
+      "url": "https://www.google.com/maps/search/49er%20Drive-In%20Theatre+near+41.547264%2C-87.1723861",
+      "isFar": true
+    }
+  ],
+  "fun": [
+    {
+      "name": "Deep River Waterpark",
+      "distance": "6.1 mi",
+      "url": "https://www.google.com/maps/search/Deep%20River%20Waterpark+near+41.547264%2C-87.1723861",
+      "isFar": true
+    },
+    {
+      "name": "Bellaboo's Play and Discovery Center",
+      "distance": "6.7 mi",
+      "url": "https://www.google.com/maps/search/Bellaboo's%20Play%20and%20Discovery%20Center+near+41.547264%2C-87.1723861",
+      "isFar": true
+    },
+    {
+      "name": "Mission: Escape",
+      "distance": "7.1 mi",
+      "url": "https://www.google.com/maps/search/Mission%3A%20Escape+near+41.547264%2C-87.1723861",
+      "isFar": true
+    },
+    {
+      "name": "Valparaiso Splash Pad",
+      "distance": "8.0 mi",
+      "url": "https://www.google.com/maps/search/Valparaiso%20Splash%20Pad+near+41.547264%2C-87.1723861",
+      "isFar": true
+    }
+  ],
+  "hotels": [
+    {
+      "name": "The Swan- The best place to stay in Portage Beautiful 4-Bed 2-Bath House",
+      "distance": "1.4 mi",
+      "url": "https://www.google.com/maps/search/The%20Swan-%20The%20best%20place%20to%20stay%20in%20Portage%20Beautiful%204-Bed%202-Bath%20House+near+41.547264%2C-87.1723861"
+    },
+    {
+      "name": "The Swan- The best place to stay in Portage Beautiful 4-Bed 2-Bath House",
+      "distance": "1.6 mi",
+      "url": "https://www.google.com/maps/search/The%20Swan-%20The%20best%20place%20to%20stay%20in%20Portage%20Beautiful%204-Bed%202-Bath%20House+near+41.547264%2C-87.1723861"
+    },
+    {
+      "name": "Meadowview Mobile Home Park",
+      "distance": "1.7 mi",
+      "url": "https://www.google.com/maps/search/Meadowview%20Mobile%20Home%20Park+near+41.547264%2C-87.1723861"
+    },
+    {
+      "name": "Charming 1-bedroom apt in house by creek with AC, in delightful Portage",
+      "distance": "1.8 mi",
+      "url": "https://www.google.com/maps/search/Charming%201-bedroom%20apt%20in%20house%20by%20creek%20with%20AC%2C%20in%20delightful%20Portage+near+41.547264%2C-87.1723861"
+    },
+    {
+      "name": "Founders square apartments",
+      "distance": "2.1 mi",
+      "url": "https://www.google.com/maps/search/Founders%20square%20apartments+near+41.547264%2C-87.1723861"
+    },
+    {
+      "name": "Pleasant Valley Manufactured Home Community",
+      "distance": "2.2 mi",
+      "url": "https://www.google.com/maps/search/Pleasant%20Valley%20Manufactured%20Home%20Community+near+41.547264%2C-87.1723861"
+    },
+    {
+      "name": "Hamstrom Hideaway",
+      "distance": "2.3 mi",
+      "url": "https://www.google.com/maps/search/Hamstrom%20Hideaway+near+41.547264%2C-87.1723861"
+    }
+  ],
+  "gas": [
+    {
+      "name": "bp",
+      "distance": "1.1 mi",
+      "url": "https://www.google.com/maps/search/bp+near+41.547264%2C-87.1723861"
+    },
+    {
+      "name": "Speedway",
+      "distance": "1.3 mi",
+      "url": "https://www.google.com/maps/search/Speedway+near+41.547264%2C-87.1723861"
+    },
+    {
+      "name": "GoLo",
+      "distance": "1.5 mi",
+      "url": "https://www.google.com/maps/search/GoLo+near+41.547264%2C-87.1723861"
+    },
+    {
+      "name": "Citgo",
+      "distance": "1.5 mi",
+      "url": "https://www.google.com/maps/search/Citgo+near+41.547264%2C-87.1723861"
+    },
+    {
+      "name": "Lil Saver Broaster Chicken",
+      "distance": "1.5 mi",
+      "url": "https://www.google.com/maps/search/Lil%20Saver%20Broaster%20Chicken+near+41.547264%2C-87.1723861"
+    }
+  ]
+}

@@ -1,0 +1,194 @@
+{
+  "quick_bite": [
+    {
+      "name": "Bob's Diner",
+      "distance": "0.1 mi",
+      "url": "https://www.google.com/maps/search/Bob's%20Diner+near+39.9783967%2C-105.1306201"
+    },
+    {
+      "name": "Chuck E. Cheese",
+      "distance": "2.5 mi",
+      "url": "https://www.google.com/maps/search/Chuck%20E.%20Cheese+near+39.9783967%2C-105.1306201"
+    }
+  ],
+  "coffee": [
+    {
+      "name": "Bittersweet Cafe & Confections",
+      "distance": "0.1 mi",
+      "url": "https://www.google.com/maps/search/Bittersweet%20Cafe%20%26%20Confections+near+39.9783967%2C-105.1306201"
+    },
+    {
+      "name": "The Coffee Roasting Co. at Bittersweet",
+      "distance": "0.1 mi",
+      "url": "https://www.google.com/maps/search/The%20Coffee%20Roasting%20Co.%20at%20Bittersweet+near+39.9783967%2C-105.1306201"
+    },
+    {
+      "name": "Giovannitti Coffee Roasters",
+      "distance": "0.1 mi",
+      "url": "https://www.google.com/maps/search/Giovannitti%20Coffee%20Roasters+near+39.9783967%2C-105.1306201"
+    },
+    {
+      "name": "Ziggi's Coffee",
+      "distance": "0.1 mi",
+      "url": "https://www.google.com/maps/search/Ziggi's%20Coffee+near+39.9783967%2C-105.1306201"
+    }
+  ],
+  "team_lunch": [
+    {
+      "name": "C’s. Work",
+      "distance": "0.1 mi",
+      "url": "https://www.google.com/maps/search/C%E2%80%99s.%20Work+near+39.9783967%2C-105.1306201"
+    },
+    {
+      "name": "Double Happy",
+      "distance": "0.1 mi",
+      "url": "https://www.google.com/maps/search/Double%20Happy+near+39.9783967%2C-105.1306201"
+    }
+  ],
+  "dinner": [
+    {
+      "name": "Pica's Taqueria",
+      "distance": "0.1 mi",
+      "url": "https://www.google.com/maps/search/Pica's%20Taqueria+near+39.9783967%2C-105.1306201"
+    },
+    {
+      "name": "740 Front",
+      "distance": "0.1 mi",
+      "url": "https://www.google.com/maps/search/740%20Front+near+39.9783967%2C-105.1306201"
+    },
+    {
+      "name": "Shin Yuu Izakaya",
+      "distance": "0.1 mi",
+      "url": "https://www.google.com/maps/search/Shin%20Yuu%20Izakaya+near+39.9783967%2C-105.1306201"
+    },
+    {
+      "name": "Zucca",
+      "distance": "0.1 mi",
+      "url": "https://www.google.com/maps/search/Zucca+near+39.9783967%2C-105.1306201"
+    },
+    {
+      "name": "12Degree Brewing",
+      "distance": "0.1 mi",
+      "url": "https://www.google.com/maps/search/12Degree%20Brewing+near+39.9783967%2C-105.1306201"
+    },
+    {
+      "name": "Waterloo",
+      "distance": "0.1 mi",
+      "url": "https://www.google.com/maps/search/Waterloo+near+39.9783967%2C-105.1306201"
+    },
+    {
+      "name": "Melting Pot",
+      "distance": "0.1 mi",
+      "url": "https://www.google.com/maps/search/Melting%20Pot+near+39.9783967%2C-105.1306201"
+    }
+  ],
+  "bowling": [
+    {
+      "name": "Coal Creek Bowling Center",
+      "distance": "1.8 mi",
+      "url": "https://www.google.com/maps/search/Coal%20Creek%20Bowling%20Center+near+39.9783967%2C-105.1306201"
+    },
+    {
+      "name": "100 Nickel at Chipper's Lanes - Live Music, Bowling, Arcade",
+      "distance": "4.7 mi",
+      "url": "https://www.google.com/maps/search/100%20Nickel%20at%20Chipper's%20Lanes%20-%20Live%20Music%2C%20Bowling%2C%20Arcade+near+39.9783967%2C-105.1306201",
+      "isFar": true
+    }
+  ],
+  "arcade": [],
+  "movies": [
+    {
+      "name": "AMC Flatiron Crossing 14",
+      "distance": "3.3 mi",
+      "url": "https://www.google.com/maps/search/AMC%20Flatiron%20Crossing%2014+near+39.9783967%2C-105.1306201",
+      "isFar": true
+    },
+    {
+      "name": "Imax",
+      "distance": "3.4 mi",
+      "url": "https://www.google.com/maps/search/Imax+near+39.9783967%2C-105.1306201",
+      "isFar": true
+    }
+  ],
+  "fun": [
+    {
+      "name": "Bounce Empire",
+      "distance": "2.2 mi",
+      "url": "https://www.google.com/maps/search/Bounce%20Empire+near+39.9783967%2C-105.1306201"
+    },
+    {
+      "name": "Rabbit Hole Recreation Services - Escape Rooms",
+      "distance": "2.3 mi",
+      "url": "https://www.google.com/maps/search/Rabbit%20Hole%20Recreation%20Services%20-%20Escape%20Rooms+near+39.9783967%2C-105.1306201"
+    },
+    {
+      "name": "The Great Outdoors Waterpark",
+      "distance": "2.5 mi",
+      "url": "https://www.google.com/maps/search/The%20Great%20Outdoors%20Waterpark+near+39.9783967%2C-105.1306201"
+    }
+  ],
+  "hotels": [
+    {
+      "name": "Charming cottage located in historic downtown Louisville.",
+      "distance": "0.1 mi",
+      "url": "https://www.google.com/maps/search/Charming%20cottage%20located%20in%20historic%20downtown%20Louisville.+near+39.9783967%2C-105.1306201"
+    },
+    {
+      "name": "Downtown Louisville 3-BDR Fully Furnished Gem",
+      "distance": "0.1 mi",
+      "url": "https://www.google.com/maps/search/Downtown%20Louisville%203-BDR%20Fully%20Furnished%20Gem+near+39.9783967%2C-105.1306201"
+    },
+    {
+      "name": "The 'Posh Pickle'- Chic Unique\\n\\n",
+      "distance": "0.2 mi",
+      "url": "https://www.google.com/maps/search/The%20'Posh%20Pickle'-%20Chic%20Unique%5Cn%5Cn+near+39.9783967%2C-105.1306201"
+    },
+    {
+      "name": "Charming 2BR in Historic Old Town Grocery",
+      "distance": "0.2 mi",
+      "url": "https://www.google.com/maps/search/Charming%202BR%20in%20Historic%20Old%20Town%20Grocery+near+39.9783967%2C-105.1306201"
+    },
+    {
+      "name": "Beautiful, Historic Home in Old Town Louisville",
+      "distance": "0.2 mi",
+      "url": "https://www.google.com/maps/search/Beautiful%2C%20Historic%20Home%20in%20Old%20Town%20Louisville+near+39.9783967%2C-105.1306201"
+    },
+    {
+      "name": "Beautiful, Historic Home in Old Town Louisville",
+      "distance": "0.2 mi",
+      "url": "https://www.google.com/maps/search/Beautiful%2C%20Historic%20Home%20in%20Old%20Town%20Louisville+near+39.9783967%2C-105.1306201"
+    },
+    {
+      "name": "The Guest House on Main",
+      "distance": "0.2 mi",
+      "url": "https://www.google.com/maps/search/The%20Guest%20House%20on%20Main+near+39.9783967%2C-105.1306201"
+    }
+  ],
+  "gas": [
+    {
+      "name": "Shamrock",
+      "distance": "0.1 mi",
+      "url": "https://www.google.com/maps/search/Shamrock+near+39.9783967%2C-105.1306201"
+    },
+    {
+      "name": "Diamond Shamrock",
+      "distance": "0.6 mi",
+      "url": "https://www.google.com/maps/search/Diamond%20Shamrock+near+39.9783967%2C-105.1306201"
+    },
+    {
+      "name": "Valero",
+      "distance": "0.6 mi",
+      "url": "https://www.google.com/maps/search/Valero+near+39.9783967%2C-105.1306201"
+    },
+    {
+      "name": "King Soopers Fuel Center",
+      "distance": "0.8 mi",
+      "url": "https://www.google.com/maps/search/King%20Soopers%20Fuel%20Center+near+39.9783967%2C-105.1306201"
+    },
+    {
+      "name": "Conoco",
+      "distance": "1.1 mi",
+      "url": "https://www.google.com/maps/search/Conoco+near+39.9783967%2C-105.1306201"
+    }
+  ]
+}

@@ -1,0 +1,199 @@
+{
+  "quick_bite": [
+    {
+      "name": "Culver’s",
+      "distance": "1.5 mi",
+      "url": "https://www.google.com/maps/search/Culver%E2%80%99s+near+42.5286062%2C-87.91678019999999"
+    },
+    {
+      "name": "Pizza Hut Express",
+      "distance": "2.5 mi",
+      "url": "https://www.google.com/maps/search/Pizza%20Hut%20Express+near+42.5286062%2C-87.91678019999999"
+    },
+    {
+      "name": "Jimano's Pizzeria",
+      "distance": "2.5 mi",
+      "url": "https://www.google.com/maps/search/Jimano's%20Pizzeria+near+42.5286062%2C-87.91678019999999"
+    },
+    {
+      "name": "Chick-fil-A",
+      "distance": "2.6 mi",
+      "url": "https://www.google.com/maps/search/Chick-fil-A+near+42.5286062%2C-87.91678019999999"
+    },
+    {
+      "name": "MOD Pizza",
+      "distance": "2.6 mi",
+      "url": "https://www.google.com/maps/search/MOD%20Pizza+near+42.5286062%2C-87.91678019999999"
+    },
+    {
+      "name": "Potbelly",
+      "distance": "2.6 mi",
+      "url": "https://www.google.com/maps/search/Potbelly+near+42.5286062%2C-87.91678019999999"
+    },
+    {
+      "name": "Five Guys",
+      "distance": "2.6 mi",
+      "url": "https://www.google.com/maps/search/Five%20Guys+near+42.5286062%2C-87.91678019999999"
+    }
+  ],
+  "coffee": [
+    {
+      "name": "Starbucks Coffee Company",
+      "distance": "0.6 mi",
+      "url": "https://www.google.com/maps/search/Starbucks%20Coffee%20Company+near+42.5286062%2C-87.91678019999999"
+    },
+    {
+      "name": "McDonald's",
+      "distance": "1.6 mi",
+      "url": "https://www.google.com/maps/search/McDonald's+near+42.5286062%2C-87.91678019999999"
+    },
+    {
+      "name": "Starbucks Coffee Company",
+      "distance": "1.8 mi",
+      "url": "https://www.google.com/maps/search/Starbucks%20Coffee%20Company+near+42.5286062%2C-87.91678019999999"
+    }
+  ],
+  "team_lunch": [
+    {
+      "name": "Shelby Campbell's Eatery & Bar",
+      "distance": "1.8 mi",
+      "url": "https://www.google.com/maps/search/Shelby%20Campbell's%20Eatery%20%26%20Bar+near+42.5286062%2C-87.91678019999999"
+    },
+    {
+      "name": "Great Steak",
+      "distance": "1.8 mi",
+      "url": "https://www.google.com/maps/search/Great%20Steak+near+42.5286062%2C-87.91678019999999"
+    },
+    {
+      "name": "Teriyaki Grill& China Town",
+      "distance": "1.8 mi",
+      "url": "https://www.google.com/maps/search/Teriyaki%20Grill%26%20China%20Town+near+42.5286062%2C-87.91678019999999"
+    },
+    {
+      "name": "Villa Italian Kitchen",
+      "distance": "1.8 mi",
+      "url": "https://www.google.com/maps/search/Villa%20Italian%20Kitchen+near+42.5286062%2C-87.91678019999999"
+    }
+  ],
+  "dinner": [
+    {
+      "name": "Lake Andrea Beer Garden",
+      "distance": "0.5 mi",
+      "url": "https://www.google.com/maps/search/Lake%20Andrea%20Beer%20Garden+near+42.5286062%2C-87.91678019999999"
+    },
+    {
+      "name": "Pepperidge Farm",
+      "distance": "1.9 mi",
+      "url": "https://www.google.com/maps/search/Pepperidge%20Farm+near+42.5286062%2C-87.91678019999999"
+    },
+    {
+      "name": "Iguana Wana Mexican Grill and Tequila Bar",
+      "distance": "2.6 mi",
+      "url": "https://www.google.com/maps/search/Iguana%20Wana%20Mexican%20Grill%20and%20Tequila%20Bar+near+42.5286062%2C-87.91678019999999"
+    },
+    {
+      "name": "Cafe Zupas",
+      "distance": "2.6 mi",
+      "url": "https://www.google.com/maps/search/Cafe%20Zupas+near+42.5286062%2C-87.91678019999999"
+    },
+    {
+      "name": "Crumbl",
+      "distance": "2.6 mi",
+      "url": "https://www.google.com/maps/search/Crumbl+near+42.5286062%2C-87.91678019999999"
+    }
+  ],
+  "bowling": [
+    {
+      "name": "Guttormsen Recreation Center",
+      "distance": "4.4 mi",
+      "url": "https://www.google.com/maps/search/Guttormsen%20Recreation%20Center+near+42.5286062%2C-87.91678019999999",
+      "isFar": true
+    }
+  ],
+  "arcade": [],
+  "movies": [],
+  "fun": [
+    {
+      "name": "Pirate Ship",
+      "distance": "3.1 mi",
+      "url": "https://www.google.com/maps/search/Pirate%20Ship+near+42.5286062%2C-87.91678019999999",
+      "isFar": true
+    },
+    {
+      "name": "Escape Room",
+      "distance": "3.1 mi",
+      "url": "https://www.google.com/maps/search/Escape%20Room+near+42.5286062%2C-87.91678019999999",
+      "isFar": true
+    },
+    {
+      "name": "Lakeside Amusement",
+      "distance": "4.3 mi",
+      "url": "https://www.google.com/maps/search/Lakeside%20Amusement+near+42.5286062%2C-87.91678019999999",
+      "isFar": true
+    }
+  ],
+  "hotels": [
+    {
+      "name": "Fairfield by Marriott Inn & Suites Kenosha Pleasant Prairie",
+      "distance": "1.6 mi",
+      "url": "https://www.google.com/maps/search/Fairfield%20by%20Marriott%20Inn%20%26%20Suites%20Kenosha%20Pleasant%20Prairie+near+42.5286062%2C-87.91678019999999"
+    },
+    {
+      "name": "LESS THAN 1 MILE OFF FREEWAY",
+      "distance": "1.7 mi",
+      "url": "https://www.google.com/maps/search/LESS%20THAN%201%20MILE%20OFF%20FREEWAY+near+42.5286062%2C-87.91678019999999"
+    },
+    {
+      "name": "DoubleTree by Hilton Pleasant Prairie Kenosha",
+      "distance": "1.8 mi",
+      "url": "https://www.google.com/maps/search/DoubleTree%20by%20Hilton%20Pleasant%20Prairie%20Kenosha+near+42.5286062%2C-87.91678019999999"
+    },
+    {
+      "name": "Country suite inn",
+      "distance": "1.9 mi",
+      "url": "https://www.google.com/maps/search/Country%20suite%20inn+near+42.5286062%2C-87.91678019999999"
+    },
+    {
+      "name": "The Executive Home Away from Home",
+      "distance": "2.0 mi",
+      "url": "https://www.google.com/maps/search/The%20Executive%20Home%20Away%20from%20Home+near+42.5286062%2C-87.91678019999999"
+    },
+    {
+      "name": "Westwood Estates",
+      "distance": "2.3 mi",
+      "url": "https://www.google.com/maps/search/Westwood%20Estates+near+42.5286062%2C-87.91678019999999"
+    },
+    {
+      "name": "Holiday Inn Express & Suites Pleasant Prairie / Kenosha by IHG",
+      "distance": "2.4 mi",
+      "url": "https://www.google.com/maps/search/Holiday%20Inn%20Express%20%26%20Suites%20Pleasant%20Prairie%20%2F%20Kenosha%20by%20IHG+near+42.5286062%2C-87.91678019999999"
+    }
+  ],
+  "gas": [
+    {
+      "name": "Kwik Trip",
+      "distance": "1.2 mi",
+      "url": "https://www.google.com/maps/search/Kwik%20Trip+near+42.5286062%2C-87.91678019999999"
+    },
+    {
+      "name": "Kwik Trip",
+      "distance": "1.4 mi",
+      "url": "https://www.google.com/maps/search/Kwik%20Trip+near+42.5286062%2C-87.91678019999999"
+    },
+    {
+      "name": "bp",
+      "distance": "1.6 mi",
+      "url": "https://www.google.com/maps/search/bp+near+42.5286062%2C-87.91678019999999"
+    },
+    {
+      "name": "She'll gas station",
+      "distance": "1.9 mi",
+      "url": "https://www.google.com/maps/search/She'll%20gas%20station+near+42.5286062%2C-87.91678019999999"
+    },
+    {
+      "name": "Costco Gas Station",
+      "distance": "2.5 mi",
+      "url": "https://www.google.com/maps/search/Costco%20Gas%20Station+near+42.5286062%2C-87.91678019999999"
+    }
+  ]
+}

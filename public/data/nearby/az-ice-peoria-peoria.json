@@ -1,0 +1,232 @@
+{
+  "quick_bite": [
+    {
+      "name": "Abuelo's Mexican Restaurant",
+      "distance": "0.5 mi",
+      "url": "https://www.google.com/maps/search/Abuelo's%20Mexican%20Restaurant+near+33.6261791%2C-112.2359257"
+    },
+    {
+      "name": "The Cheesecake Factory",
+      "distance": "0.5 mi",
+      "url": "https://www.google.com/maps/search/The%20Cheesecake%20Factory+near+33.6261791%2C-112.2359257"
+    },
+    {
+      "name": "Blanco Cocina + Cantina",
+      "distance": "0.5 mi",
+      "url": "https://www.google.com/maps/search/Blanco%20Cocina%20%2B%20Cantina+near+33.6261791%2C-112.2359257"
+    },
+    {
+      "name": "P.F. Chang's",
+      "distance": "0.6 mi",
+      "url": "https://www.google.com/maps/search/P.F.%20Chang's+near+33.6261791%2C-112.2359257"
+    },
+    {
+      "name": "North Italia",
+      "distance": "0.6 mi",
+      "url": "https://www.google.com/maps/search/North%20Italia+near+33.6261791%2C-112.2359257"
+    }
+  ],
+  "coffee": [],
+  "team_lunch": [
+    {
+      "name": "Brave Sushi All You Can Eat",
+      "distance": "0.3 mi",
+      "url": "https://www.google.com/maps/search/Brave%20Sushi%20All%20You%20Can%20Eat+near+33.6261791%2C-112.2359257"
+    },
+    {
+      "name": "Hana Tokyo All You Can Eat",
+      "distance": "0.3 mi",
+      "url": "https://www.google.com/maps/search/Hana%20Tokyo%20All%20You%20Can%20Eat+near+33.6261791%2C-112.2359257"
+    },
+    {
+      "name": "Texas Roadhouse",
+      "distance": "0.4 mi",
+      "url": "https://www.google.com/maps/search/Texas%20Roadhouse+near+33.6261791%2C-112.2359257"
+    },
+    {
+      "name": "Pardon My Cheesesteak",
+      "distance": "0.4 mi",
+      "url": "https://www.google.com/maps/search/Pardon%20My%20Cheesesteak+near+33.6261791%2C-112.2359257"
+    }
+  ],
+  "dinner": [
+    {
+      "name": "Potbelly Sandwich Shop",
+      "distance": "0.1 mi",
+      "url": "https://www.google.com/maps/search/Potbelly%20Sandwich%20Shop+near+33.6261791%2C-112.2359257"
+    },
+    {
+      "name": "Pho for Days",
+      "distance": "0.1 mi",
+      "url": "https://www.google.com/maps/search/Pho%20for%20Days+near+33.6261791%2C-112.2359257"
+    },
+    {
+      "name": "Headquarters Grill Bar Sushi",
+      "distance": "0.3 mi",
+      "url": "https://www.google.com/maps/search/Headquarters%20Grill%20Bar%20Sushi+near+33.6261791%2C-112.2359257"
+    },
+    {
+      "name": "Kusina",
+      "distance": "0.3 mi",
+      "url": "https://www.google.com/maps/search/Kusina+near+33.6261791%2C-112.2359257"
+    },
+    {
+      "name": "Firebirds Wood Fired Grill",
+      "distance": "0.4 mi",
+      "url": "https://www.google.com/maps/search/Firebirds%20Wood%20Fired%20Grill+near+33.6261791%2C-112.2359257"
+    },
+    {
+      "name": "Buca di Beppo Italian Restaurant",
+      "distance": "0.4 mi",
+      "url": "https://www.google.com/maps/search/Buca%20di%20Beppo%20Italian%20Restaurant+near+33.6261791%2C-112.2359257"
+    },
+    {
+      "name": "Creators' Kitchen as Seen on TikTok",
+      "distance": "0.4 mi",
+      "url": "https://www.google.com/maps/search/Creators'%20Kitchen%20as%20Seen%20on%20TikTok+near+33.6261791%2C-112.2359257"
+    }
+  ],
+  "bowling": [
+    {
+      "name": "Round1 Bowling & Arcade - Glendale",
+      "distance": "1.2 mi",
+      "url": "https://www.google.com/maps/search/Round1%20Bowling%20%26%20Arcade%20-%20Glendale+near+33.6261791%2C-112.2359257"
+    },
+    {
+      "name": "Bell Lanes",
+      "distance": "2.3 mi",
+      "url": "https://www.google.com/maps/search/Bell%20Lanes+near+33.6261791%2C-112.2359257"
+    },
+    {
+      "name": "Bowlero Glendale",
+      "distance": "2.9 mi",
+      "url": "https://www.google.com/maps/search/Bowlero%20Glendale+near+33.6261791%2C-112.2359257"
+    },
+    {
+      "name": "Lakeview Lanes",
+      "distance": "3.2 mi",
+      "url": "https://www.google.com/maps/search/Lakeview%20Lanes+near+33.6261791%2C-112.2359257",
+      "isFar": true
+    },
+    {
+      "name": "AMF Peoria Lanes",
+      "distance": "4.2 mi",
+      "url": "https://www.google.com/maps/search/AMF%20Peoria%20Lanes+near+33.6261791%2C-112.2359257",
+      "isFar": true
+    }
+  ],
+  "arcade": [],
+  "movies": [
+    {
+      "name": "Harkins Theatres Arrowhead",
+      "distance": "0.4 mi",
+      "url": "https://www.google.com/maps/search/Harkins%20Theatres%20Arrowhead+near+33.6261791%2C-112.2359257"
+    },
+    {
+      "name": "AMC Arrowhead 14",
+      "distance": "1.3 mi",
+      "url": "https://www.google.com/maps/search/AMC%20Arrowhead%2014+near+33.6261791%2C-112.2359257"
+    }
+  ],
+  "fun": [
+    {
+      "name": "Urban Air Trampoline and Adventure Park",
+      "distance": "0.8 mi",
+      "url": "https://www.google.com/maps/search/Urban%20Air%20Trampoline%20and%20Adventure%20Park+near+33.6261791%2C-112.2359257"
+    },
+    {
+      "name": "Spo-Cha at Round1",
+      "distance": "1.2 mi",
+      "url": "https://www.google.com/maps/search/Spo-Cha%20at%20Round1+near+33.6261791%2C-112.2359257"
+    },
+    {
+      "name": "Slick City Action Park",
+      "distance": "1.3 mi",
+      "url": "https://www.google.com/maps/search/Slick%20City%20Action%20Park+near+33.6261791%2C-112.2359257"
+    },
+    {
+      "name": "Funbox Glendale",
+      "distance": "1.3 mi",
+      "url": "https://www.google.com/maps/search/Funbox%20Glendale+near+33.6261791%2C-112.2359257"
+    },
+    {
+      "name": "Sky Zone Trampoline Park",
+      "distance": "2.1 mi",
+      "url": "https://www.google.com/maps/search/Sky%20Zone%20Trampoline%20Park+near+33.6261791%2C-112.2359257"
+    },
+    {
+      "name": "Baffled Escape Rooms",
+      "distance": "2.3 mi",
+      "url": "https://www.google.com/maps/search/Baffled%20Escape%20Rooms+near+33.6261791%2C-112.2359257"
+    },
+    {
+      "name": "Klawz",
+      "distance": "2.4 mi",
+      "url": "https://www.google.com/maps/search/Klawz+near+33.6261791%2C-112.2359257"
+    }
+  ],
+  "hotels": [
+    {
+      "name": "Blackout Curtains, Private Yard, Gated Community",
+      "distance": "0.2 mi",
+      "url": "https://www.google.com/maps/search/Blackout%20Curtains%2C%20Private%20Yard%2C%20Gated%20Community+near+33.6261791%2C-112.2359257"
+    },
+    {
+      "name": "3BR/2BA King Suite • Pet Friendly • Dog Park • Gated • Near Entertainment",
+      "distance": "0.3 mi",
+      "url": "https://www.google.com/maps/search/3BR%2F2BA%20King%20Suite%20%E2%80%A2%20Pet%20Friendly%20%E2%80%A2%20Dog%20Park%20%E2%80%A2%20Gated%20%E2%80%A2%20Near%20Entertainment+near+33.6261791%2C-112.2359257"
+    },
+    {
+      "name": "Fabulous Designer Desert Retreat",
+      "distance": "0.3 mi",
+      "url": "https://www.google.com/maps/search/Fabulous%20Designer%20Desert%20Retreat+near+33.6261791%2C-112.2359257"
+    },
+    {
+      "name": "Private Guesthouse On 1 Acre Property",
+      "distance": "0.3 mi",
+      "url": "https://www.google.com/maps/search/Private%20Guesthouse%20On%201%20Acre%20Property+near+33.6261791%2C-112.2359257"
+    },
+    {
+      "name": "3BR/2BA King Suite • Pet Friendly • Dog Park • Gated • Near Entertainment Dist",
+      "distance": "0.4 mi",
+      "url": "https://www.google.com/maps/search/3BR%2F2BA%20King%20Suite%20%E2%80%A2%20Pet%20Friendly%20%E2%80%A2%20Dog%20Park%20%E2%80%A2%20Gated%20%E2%80%A2%20Near%20Entertainment%20Dist+near+33.6261791%2C-112.2359257"
+    },
+    {
+      "name": "3 Bedroom 2 Bathroom Family House Playstation 4 Sleeps 10 King Beds Sports Shop",
+      "distance": "0.4 mi",
+      "url": "https://www.google.com/maps/search/3%20Bedroom%202%20Bathroom%20Family%20House%20Playstation%204%20Sleeps%2010%20King%20Beds%20Sports%20Shop+near+33.6261791%2C-112.2359257"
+    },
+    {
+      "name": "3 Bedroom 2 Bathroom Family House Playstation 4 Sleeps 10 King Beds Sports Shop",
+      "distance": "0.4 mi",
+      "url": "https://www.google.com/maps/search/3%20Bedroom%202%20Bathroom%20Family%20House%20Playstation%204%20Sleeps%2010%20King%20Beds%20Sports%20Shop+near+33.6261791%2C-112.2359257"
+    }
+  ],
+  "gas": [
+    {
+      "name": "Circle K | Gas Station",
+      "distance": "0.8 mi",
+      "url": "https://www.google.com/maps/search/Circle%20K%20%7C%20Gas%20Station+near+33.6261791%2C-112.2359257"
+    },
+    {
+      "name": "Shell",
+      "distance": "0.9 mi",
+      "url": "https://www.google.com/maps/search/Shell+near+33.6261791%2C-112.2359257"
+    },
+    {
+      "name": "Circle K | Gas Station",
+      "distance": "1.1 mi",
+      "url": "https://www.google.com/maps/search/Circle%20K%20%7C%20Gas%20Station+near+33.6261791%2C-112.2359257"
+    },
+    {
+      "name": "Costco Gas Station",
+      "distance": "1.1 mi",
+      "url": "https://www.google.com/maps/search/Costco%20Gas%20Station+near+33.6261791%2C-112.2359257"
+    },
+    {
+      "name": "Chevron Peoria",
+      "distance": "1.1 mi",
+      "url": "https://www.google.com/maps/search/Chevron%20Peoria+near+33.6261791%2C-112.2359257"
+    }
+  ]
+}

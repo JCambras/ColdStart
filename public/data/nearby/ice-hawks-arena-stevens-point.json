@@ -1,0 +1,194 @@
+{
+  "quick_bite": [
+    {
+      "name": "Subway",
+      "distance": "0.2 mi",
+      "url": "https://www.google.com/maps/search/Subway+near+44.527685899999994%2C-89.4971529"
+    },
+    {
+      "name": "Arby's",
+      "distance": "0.5 mi",
+      "url": "https://www.google.com/maps/search/Arby's+near+44.527685899999994%2C-89.4971529"
+    },
+    {
+      "name": "Burger King",
+      "distance": "1.1 mi",
+      "url": "https://www.google.com/maps/search/Burger%20King+near+44.527685899999994%2C-89.4971529"
+    },
+    {
+      "name": "Taco Bell",
+      "distance": "1.1 mi",
+      "url": "https://www.google.com/maps/search/Taco%20Bell+near+44.527685899999994%2C-89.4971529"
+    },
+    {
+      "name": "Dairy Queen Grill & Chill",
+      "distance": "1.2 mi",
+      "url": "https://www.google.com/maps/search/Dairy%20Queen%20Grill%20%26%20Chill+near+44.527685899999994%2C-89.4971529"
+    },
+    {
+      "name": "Buffalo Wild Wings",
+      "distance": "1.2 mi",
+      "url": "https://www.google.com/maps/search/Buffalo%20Wild%20Wings+near+44.527685899999994%2C-89.4971529"
+    },
+    {
+      "name": "Culver’s",
+      "distance": "1.2 mi",
+      "url": "https://www.google.com/maps/search/Culver%E2%80%99s+near+44.527685899999994%2C-89.4971529"
+    }
+  ],
+  "coffee": [
+    {
+      "name": "Scooter's Coffee",
+      "distance": "0.4 mi",
+      "url": "https://www.google.com/maps/search/Scooter's%20Coffee+near+44.527685899999994%2C-89.4971529"
+    },
+    {
+      "name": "McDonald's",
+      "distance": "0.6 mi",
+      "url": "https://www.google.com/maps/search/McDonald's+near+44.527685899999994%2C-89.4971529"
+    },
+    {
+      "name": "Dunkin'",
+      "distance": "0.7 mi",
+      "url": "https://www.google.com/maps/search/Dunkin'+near+44.527685899999994%2C-89.4971529"
+    }
+  ],
+  "team_lunch": [
+    {
+      "name": "Amber Grill",
+      "distance": "0.4 mi",
+      "url": "https://www.google.com/maps/search/Amber%20Grill+near+44.527685899999994%2C-89.4971529"
+    },
+    {
+      "name": "Pho Ever 21",
+      "distance": "0.9 mi",
+      "url": "https://www.google.com/maps/search/Pho%20Ever%2021+near+44.527685899999994%2C-89.4971529"
+    }
+  ],
+  "dinner": [
+    {
+      "name": "Franny's Family Restaurant & Pancake House",
+      "distance": "0.3 mi",
+      "url": "https://www.google.com/maps/search/Franny's%20Family%20Restaurant%20%26%20Pancake%20House+near+44.527685899999994%2C-89.4971529"
+    },
+    {
+      "name": "Chef Chu's",
+      "distance": "0.3 mi",
+      "url": "https://www.google.com/maps/search/Chef%20Chu's+near+44.527685899999994%2C-89.4971529"
+    },
+    {
+      "name": "El Mezcal Stevens Point",
+      "distance": "0.3 mi",
+      "url": "https://www.google.com/maps/search/El%20Mezcal%20Stevens%20Point+near+44.527685899999994%2C-89.4971529"
+    },
+    {
+      "name": "Matsu Ya Sushi Bar & Grill",
+      "distance": "0.4 mi",
+      "url": "https://www.google.com/maps/search/Matsu%20Ya%20Sushi%20Bar%20%26%20Grill+near+44.527685899999994%2C-89.4971529"
+    },
+    {
+      "name": "Fazoli's",
+      "distance": "0.5 mi",
+      "url": "https://www.google.com/maps/search/Fazoli's+near+44.527685899999994%2C-89.4971529"
+    }
+  ],
+  "bowling": [
+    {
+      "name": "Skipp's Bowling Center",
+      "distance": "4.0 mi",
+      "url": "https://www.google.com/maps/search/Skipp's%20Bowling%20Center+near+44.527685899999994%2C-89.4971529",
+      "isFar": true
+    },
+    {
+      "name": "5 Star Lanes",
+      "distance": "4.7 mi",
+      "url": "https://www.google.com/maps/search/5%20Star%20Lanes+near+44.527685899999994%2C-89.4971529",
+      "isFar": true
+    }
+  ],
+  "arcade": [],
+  "movies": [
+    {
+      "name": "Rogers Cinema 7",
+      "distance": "3.8 mi",
+      "url": "https://www.google.com/maps/search/Rogers%20Cinema%207+near+44.527685899999994%2C-89.4971529",
+      "isFar": true
+    }
+  ],
+  "fun": [
+    {
+      "name": "Breakpoint Escape Rooms",
+      "distance": "0.5 mi",
+      "url": "https://www.google.com/maps/search/Breakpoint%20Escape%20Rooms+near+44.527685899999994%2C-89.4971529"
+    },
+    {
+      "name": "Tactical Escape 101- Stevens Point Escape Room",
+      "distance": "2.5 mi",
+      "url": "https://www.google.com/maps/search/Tactical%20Escape%20101-%20Stevens%20Point%20Escape%20Room+near+44.527685899999994%2C-89.4971529"
+    }
+  ],
+  "hotels": [
+    {
+      "name": "Holiday Inn Stevens Point - Convention Ctr by IHG",
+      "distance": "0.4 mi",
+      "url": "https://www.google.com/maps/search/Holiday%20Inn%20Stevens%20Point%20-%20Convention%20Ctr%20by%20IHG+near+44.527685899999994%2C-89.4971529"
+    },
+    {
+      "name": "Holiday Inn Express & Suites Stevens Point by IHG",
+      "distance": "0.5 mi",
+      "url": "https://www.google.com/maps/search/Holiday%20Inn%20Express%20%26%20Suites%20Stevens%20Point%20by%20IHG+near+44.527685899999994%2C-89.4971529"
+    },
+    {
+      "name": "Serene Stevens Point Retreat with Sunroom! - Holiday Home",
+      "distance": "0.9 mi",
+      "url": "https://www.google.com/maps/search/Serene%20Stevens%20Point%20Retreat%20with%20Sunroom!%20-%20Holiday%20Home+near+44.527685899999994%2C-89.4971529"
+    },
+    {
+      "name": "Serene Stevens Point Retreat w/ Sunroom!",
+      "distance": "0.9 mi",
+      "url": "https://www.google.com/maps/search/Serene%20Stevens%20Point%20Retreat%20w%2F%20Sunroom!+near+44.527685899999994%2C-89.4971529"
+    },
+    {
+      "name": "Maple Bluff - A-Frame Perfection",
+      "distance": "1.0 mi",
+      "url": "https://www.google.com/maps/search/Maple%20Bluff%20-%20A-Frame%20Perfection+near+44.527685899999994%2C-89.4971529"
+    },
+    {
+      "name": "Maple Bluff Escape | Hot Tub A-Frame Getaway",
+      "distance": "1.0 mi",
+      "url": "https://www.google.com/maps/search/Maple%20Bluff%20Escape%20%7C%20Hot%20Tub%20A-Frame%20Getaway+near+44.527685899999994%2C-89.4971529"
+    },
+    {
+      "name": "New! Fully furnished & fully stocked 2-bedroom 1 bath home in Stevens Point.",
+      "distance": "1.3 mi",
+      "url": "https://www.google.com/maps/search/New!%20Fully%20furnished%20%26%20fully%20stocked%202-bedroom%201%20bath%20home%20in%20Stevens%20Point.+near+44.527685899999994%2C-89.4971529"
+    }
+  ],
+  "gas": [
+    {
+      "name": "The Store",
+      "distance": "0.2 mi",
+      "url": "https://www.google.com/maps/search/The%20Store+near+44.527685899999994%2C-89.4971529"
+    },
+    {
+      "name": "Fleet Farm Gas Mart",
+      "distance": "0.7 mi",
+      "url": "https://www.google.com/maps/search/Fleet%20Farm%20Gas%20Mart+near+44.527685899999994%2C-89.4971529"
+    },
+    {
+      "name": "Amoco",
+      "distance": "0.9 mi",
+      "url": "https://www.google.com/maps/search/Amoco+near+44.527685899999994%2C-89.4971529"
+    },
+    {
+      "name": "Riiser Fuels",
+      "distance": "0.9 mi",
+      "url": "https://www.google.com/maps/search/Riiser%20Fuels+near+44.527685899999994%2C-89.4971529"
+    },
+    {
+      "name": "bp",
+      "distance": "1.8 mi",
+      "url": "https://www.google.com/maps/search/bp+near+44.527685899999994%2C-89.4971529"
+    }
+  ]
+}

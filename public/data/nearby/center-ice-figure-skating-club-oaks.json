@@ -1,0 +1,188 @@
+{
+  "quick_bite": [
+    {
+      "name": "Buffalo Wild Wings",
+      "distance": "0.6 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Buffalo%20Wild%20Wings&query_place_id=ChIJXWjYeUGRxokRGlqxbpt-ZpQ&center=40.1337821,-75.4530298"
+    },
+    {
+      "name": "QDOBA Mexican Eats",
+      "distance": "0.6 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=QDOBA%20Mexican%20Eats&query_place_id=ChIJaxzOwZuRxokRqGMPvZSPhxQ&center=40.133123999999995,-75.4522022"
+    },
+    {
+      "name": "Wendy's",
+      "distance": "0.6 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Wendy's&query_place_id=ChIJLQH8hEGRxokRTuyZnYYVBOY&center=40.133974699999996,-75.45198260000001"
+    },
+    {
+      "name": "Bob Evans",
+      "distance": "0.7 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Bob%20Evans&query_place_id=ChIJ98s4zvWRxokRctiSBZ04jDw&center=40.133084,-75.450242"
+    },
+    {
+      "name": "Jersey Mike's Subs",
+      "distance": "0.7 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Jersey%20Mike's%20Subs&query_place_id=ChIJn72pNUGRxokRrcWNgsln4bQ&center=40.1352069,-75.45088129999999"
+    }
+  ],
+  "coffee": [
+    {
+      "name": "Starbucks Coffee Company",
+      "distance": "0.5 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Starbucks%20Coffee%20Company&query_place_id=ChIJWY-DuEORxokRZj2iDDuxpgo&center=40.130680000000005,-75.45312"
+    },
+    {
+      "name": "Starbucks Coffee Company",
+      "distance": "0.6 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Starbucks%20Coffee%20Company&query_place_id=ChIJ_dF86_6RxokR3VG1tjIYYpk&center=40.133109999999995,-75.45218"
+    },
+    {
+      "name": "Dunkin'",
+      "distance": "0.8 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Dunkin'&query_place_id=ChIJUelTukeRxokRM3bV01aw3OI&center=40.1349503,-75.4481102"
+    }
+  ],
+  "team_lunch": [
+    {
+      "name": "Auntie Anne's",
+      "distance": "3.1 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Auntie%20Anne's&query_place_id=ChIJpw3DWpKWxokRN59HhcMsNro&center=40.1272751,-75.4015122",
+      "isFar": true
+    }
+  ],
+  "dinner": [
+    {
+      "name": "Jake’s Cafe",
+      "distance": "0.1 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Jake%E2%80%99s%20Cafe&query_place_id=ChIJLbwFfACRxokRvSdpdXgHgJk&center=40.1277155,-75.4612365"
+    },
+    {
+      "name": "The Perky",
+      "distance": "0.3 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=The%20Perky&query_place_id=ChIJjfu33GmRxokRlmD3uqdO5Lk&center=40.1313671,-75.4584465"
+    },
+    {
+      "name": "South Avenue Indian Cuisine",
+      "distance": "0.4 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=South%20Avenue%20Indian%20Cuisine&query_place_id=ChIJ9c6_1QyRxokRarT6-csXw-I&center=40.128925599999995,-75.45368549999999"
+    },
+    {
+      "name": "Dim Sum Court Oaks",
+      "distance": "0.4 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Dim%20Sum%20Court%20Oaks&query_place_id=ChIJAV3nIQCRxokR7FbaqbHR-28&center=40.1289312,-75.4535557"
+    },
+    {
+      "name": "P.J. Whelihan's Pub + Restaurant - Oaks",
+      "distance": "0.4 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=P.J.%20Whelihan's%20Pub%20%2B%20Restaurant%20-%20Oaks&query_place_id=ChIJCQ43cUORxokR9ZOkytdnOVI&center=40.1292122,-75.4530674"
+    },
+    {
+      "name": "Garden Grille & Bar",
+      "distance": "0.6 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Garden%20Grille%20%26%20Bar&query_place_id=ChIJvSMpakSRxokRAdiAgwS41dA&center=40.1301431,-75.4507452"
+    }
+  ],
+  "bowling": [
+    {
+      "name": "Arnold's Family Fun Center",
+      "distance": "0.4 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Arnold's%20Family%20Fun%20Center&query_place_id=ChIJ82E5UGeRxokRlqa3NT_D-6g&center=40.1234895,-75.4564767"
+    },
+    {
+      "name": "Arnold's Bowling Bistro & Bar",
+      "distance": "0.4 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Arnold's%20Bowling%20Bistro%20%26%20Bar&query_place_id=ChIJVcSG6V2RxokREgfiR0YYJ2Y&center=40.1229981,-75.4562869"
+    }
+  ],
+  "arcade": [],
+  "movies": [
+    {
+      "name": "Oaks Center Cinema",
+      "distance": "0.4 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Oaks%20Center%20Cinema&query_place_id=ChIJWb9poTeRxokRxAh53jQ1Bmg&center=40.1274362,-75.4535624"
+    },
+    {
+      "name": "Movie Tavern Collegeville",
+      "distance": "2.9 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Movie%20Tavern%20Collegeville&query_place_id=ChIJoejDVWaJsIkRnXbZym5YKrI&center=40.1665345,-75.4797928"
+    },
+    {
+      "name": "The Colonial Theatre",
+      "distance": "3.0 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=The%20Colonial%20Theatre&query_place_id=ChIJ8yyxlPqRxokRmUifK2Advkg&center=40.134072499999995,-75.517511",
+      "isFar": true
+    }
+  ],
+  "fun": [
+    {
+      "name": "The National Dog Show",
+      "distance": "0.3 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=The%20National%20Dog%20Show&query_place_id=ChIJkQq4DaKRxokRpxM2FsneGHQ&center=40.1238514,-75.4581862"
+    },
+    {
+      "name": "Sky Zone Trampoline Park",
+      "distance": "0.4 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Sky%20Zone%20Trampoline%20Park&query_place_id=ChIJR3oFU1yRxokRpaA2cvz2nAc&center=40.124769799999996,-75.45524429999999"
+    },
+    {
+      "name": "Alfred E. Neuman Muffler Man",
+      "distance": "0.4 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Alfred%20E.%20Neuman%20Muffler%20Man&query_place_id=ChIJTUxhvZ6RxokRptRmEifVuqo&center=40.1234895,-75.4564767"
+    },
+    {
+      "name": "Giant Lumberjack & Giraffe",
+      "distance": "0.4 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Giant%20Lumberjack%20%26%20Giraffe&query_place_id=ChIJHRmiGA6RxokR2C3Dnx29flM&center=40.1224798,-75.4561229"
+    }
+  ],
+  "hotels": [
+    {
+      "name": "Extended stay",
+      "distance": "0.3 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Extended%20stay&query_place_id=ChIJS70fVQCRxokR_eyYbr7iEAk&center=40.1238514,-75.4581862"
+    },
+    {
+      "name": "Hilton Garden Inn Valley Forge/Oaks",
+      "distance": "0.6 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Hilton%20Garden%20Inn%20Valley%20Forge%2FOaks&query_place_id=ChIJvSMpakSRxokRcpBmhTqvDKk&center=40.1301725,-75.4505983"
+    },
+    {
+      "name": "Hampton Inn & Suites Valley Forge/Oaks",
+      "distance": "0.7 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Hampton%20Inn%20%26%20Suites%20Valley%20Forge%2FOaks&query_place_id=ChIJF7svo2mRxokR0CPXXXYpl3M&center=40.1326683,-75.45020699999999"
+    },
+    {
+      "name": "The Conference Center at Valley Forge",
+      "distance": "1.6 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=The%20Conference%20Center%20at%20Valley%20Forge&query_place_id=ChIJO2VIl82TxokRlgRG3WboKNE&center=40.1092034,-75.477356"
+    },
+    {
+      "name": "Residence Inn by Marriott Philadelphia Valley Forge/Collegeville",
+      "distance": "2.2 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Residence%20Inn%20by%20Marriott%20Philadelphia%20Valley%20Forge%2FCollegeville&query_place_id=ChIJVzAYvf2QxokRNr8V25iOD88&center=40.158806,-75.4722305"
+    }
+  ],
+  "gas": [
+    {
+      "name": "BJ's Gas Station",
+      "distance": "0.2 mi",
+      "url": "https://www.google.com/maps/search/BJ's%20Gas%20Station+near+40.1278548%2C-75.4608665"
+    },
+    {
+      "name": "Redners",
+      "distance": "1.4 mi",
+      "url": "https://www.google.com/maps/search/Redners+near+40.1278548%2C-75.4608665"
+    },
+    {
+      "name": "Gulf",
+      "distance": "2.0 mi",
+      "url": "https://www.google.com/maps/search/Gulf+near+40.1278548%2C-75.4608665"
+    },
+    {
+      "name": "Valley Forge Freedom",
+      "distance": "2.0 mi",
+      "url": "https://www.google.com/maps/search/Valley%20Forge%20Freedom+near+40.1278548%2C-75.4608665"
+    }
+  ]
+}

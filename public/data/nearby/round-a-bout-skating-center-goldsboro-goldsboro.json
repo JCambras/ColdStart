@@ -1,0 +1,207 @@
+{
+  "quick_bite": [
+    {
+      "name": "Chick-fil-A",
+      "distance": "0.1 mi",
+      "url": "https://www.google.com/maps/search/Chick-fil-A+near+35.3820682%2C-77.93314219999999"
+    },
+    {
+      "name": "Arby's",
+      "distance": "0.1 mi",
+      "url": "https://www.google.com/maps/search/Arby's+near+35.3820682%2C-77.93314219999999"
+    },
+    {
+      "name": "Jimmy John's",
+      "distance": "0.1 mi",
+      "url": "https://www.google.com/maps/search/Jimmy%20John's+near+35.3820682%2C-77.93314219999999"
+    },
+    {
+      "name": "TenderFix by Noah Schnapp",
+      "distance": "0.1 mi",
+      "url": "https://www.google.com/maps/search/TenderFix%20by%20Noah%20Schnapp+near+35.3820682%2C-77.93314219999999"
+    },
+    {
+      "name": "Pizza Hut Express",
+      "distance": "0.4 mi",
+      "url": "https://www.google.com/maps/search/Pizza%20Hut%20Express+near+35.3820682%2C-77.93314219999999"
+    },
+    {
+      "name": "Olive Garden Italian Restaurant",
+      "distance": "0.5 mi",
+      "url": "https://www.google.com/maps/search/Olive%20Garden%20Italian%20Restaurant+near+35.3820682%2C-77.93314219999999"
+    },
+    {
+      "name": "Chuck E. Cheese",
+      "distance": "1.2 mi",
+      "url": "https://www.google.com/maps/search/Chuck%20E.%20Cheese+near+35.3820682%2C-77.93314219999999"
+    }
+  ],
+  "coffee": [
+    {
+      "name": "Sam's Club Cafe",
+      "distance": "0.2 mi",
+      "url": "https://www.google.com/maps/search/Sam's%20Club%20Cafe+near+35.3820682%2C-77.93314219999999"
+    },
+    {
+      "name": "Starbucks Coffee Company",
+      "distance": "0.4 mi",
+      "url": "https://www.google.com/maps/search/Starbucks%20Coffee%20Company+near+35.3820682%2C-77.93314219999999"
+    }
+  ],
+  "team_lunch": [
+    {
+      "name": "Roseli Philly Steak Sub",
+      "distance": "0.1 mi",
+      "url": "https://www.google.com/maps/search/Roseli%20Philly%20Steak%20Sub+near+35.3820682%2C-77.93314219999999"
+    },
+    {
+      "name": "Papa Johns Pizza",
+      "distance": "0.1 mi",
+      "url": "https://www.google.com/maps/search/Papa%20Johns%20Pizza+near+35.3820682%2C-77.93314219999999"
+    },
+    {
+      "name": "IHOP",
+      "distance": "0.2 mi",
+      "url": "https://www.google.com/maps/search/IHOP+near+35.3820682%2C-77.93314219999999"
+    },
+    {
+      "name": "Pier 34 Seafood & Pub",
+      "distance": "0.2 mi",
+      "url": "https://www.google.com/maps/search/Pier%2034%20Seafood%20%26%20Pub+near+35.3820682%2C-77.93314219999999"
+    },
+    {
+      "name": "Dona Elva’s Mexican Food Truck",
+      "distance": "0.2 mi",
+      "url": "https://www.google.com/maps/search/Dona%20Elva%E2%80%99s%20Mexican%20Food%20Truck+near+35.3820682%2C-77.93314219999999"
+    }
+  ],
+  "dinner": [
+    {
+      "name": "Empire Fire Mongolian Grill",
+      "distance": "0.1 mi",
+      "url": "https://www.google.com/maps/search/Empire%20Fire%20Mongolian%20Grill+near+35.3820682%2C-77.93314219999999"
+    },
+    {
+      "name": "Skullies Street Q",
+      "distance": "0.1 mi",
+      "url": "https://www.google.com/maps/search/Skullies%20Street%20Q+near+35.3820682%2C-77.93314219999999"
+    },
+    {
+      "name": "WAFU STEAKHOUSE & SUSHI BAR",
+      "distance": "0.1 mi",
+      "url": "https://www.google.com/maps/search/WAFU%20STEAKHOUSE%20%26%20SUSHI%20BAR+near+35.3820682%2C-77.93314219999999"
+    },
+    {
+      "name": "Best Bites Mediterranean Restaurant & Grocery",
+      "distance": "0.2 mi",
+      "url": "https://www.google.com/maps/search/Best%20Bites%20Mediterranean%20Restaurant%20%26%20Grocery+near+35.3820682%2C-77.93314219999999"
+    },
+    {
+      "name": "La Purepecha",
+      "distance": "0.2 mi",
+      "url": "https://www.google.com/maps/search/La%20Purepecha+near+35.3820682%2C-77.93314219999999"
+    }
+  ],
+  "bowling": [
+    {
+      "name": "AMF Boulevard Lanes",
+      "distance": "1.4 mi",
+      "url": "https://www.google.com/maps/search/AMF%20Boulevard%20Lanes+near+35.3820682%2C-77.93314219999999"
+    },
+    {
+      "name": "Phantom Lanes",
+      "distance": "2.4 mi",
+      "url": "https://www.google.com/maps/search/Phantom%20Lanes+near+35.3820682%2C-77.93314219999999"
+    }
+  ],
+  "arcade": [],
+  "movies": [
+    {
+      "name": "Sabre Cinema",
+      "distance": "2.3 mi",
+      "url": "https://www.google.com/maps/search/Sabre%20Cinema+near+35.3820682%2C-77.93314219999999"
+    },
+    {
+      "name": "UEC Theatres",
+      "distance": "2.6 mi",
+      "url": "https://www.google.com/maps/search/UEC%20Theatres+near+35.3820682%2C-77.93314219999999"
+    },
+    {
+      "name": "Premiere Theatre 12",
+      "distance": "2.6 mi",
+      "url": "https://www.google.com/maps/search/Premiere%20Theatre%2012+near+35.3820682%2C-77.93314219999999"
+    }
+  ],
+  "fun": [
+    {
+      "name": "Downtown Escapes",
+      "distance": "3.5 mi",
+      "url": "https://www.google.com/maps/search/Downtown%20Escapes+near+35.3820682%2C-77.93314219999999",
+      "isFar": true
+    }
+  ],
+  "hotels": [
+    {
+      "name": "Irish Inn",
+      "distance": "0.4 mi",
+      "url": "https://www.google.com/maps/search/Irish%20Inn+near+35.3820682%2C-77.93314219999999"
+    },
+    {
+      "name": "basco",
+      "distance": "0.5 mi",
+      "url": "https://www.google.com/maps/search/basco+near+35.3820682%2C-77.93314219999999"
+    },
+    {
+      "name": "Quality Inn Goldsboro",
+      "distance": "0.6 mi",
+      "url": "https://www.google.com/maps/search/Quality%20Inn%20Goldsboro+near+35.3820682%2C-77.93314219999999"
+    },
+    {
+      "name": "Tanglewood Mobile Home Park",
+      "distance": "0.6 mi",
+      "url": "https://www.google.com/maps/search/Tanglewood%20Mobile%20Home%20Park+near+35.3820682%2C-77.93314219999999"
+    },
+    {
+      "name": "Holiday Inn Express & Suites Goldsboro - Base Area by IHG",
+      "distance": "0.7 mi",
+      "url": "https://www.google.com/maps/search/Holiday%20Inn%20Express%20%26%20Suites%20Goldsboro%20-%20Base%20Area%20by%20IHG+near+35.3820682%2C-77.93314219999999"
+    },
+    {
+      "name": "stayAPT Suites Goldsboro-Seymour Johnson",
+      "distance": "0.7 mi",
+      "url": "https://www.google.com/maps/search/stayAPT%20Suites%20Goldsboro-Seymour%20Johnson+near+35.3820682%2C-77.93314219999999"
+    },
+    {
+      "name": "Home2 Suites by Hilton Goldsboro",
+      "distance": "0.7 mi",
+      "url": "https://www.google.com/maps/search/Home2%20Suites%20by%20Hilton%20Goldsboro+near+35.3820682%2C-77.93314219999999"
+    }
+  ],
+  "gas": [
+    {
+      "name": "Sam's Club Gas Station",
+      "distance": "0.2 mi",
+      "url": "https://www.google.com/maps/search/Sam's%20Club%20Gas%20Station+near+35.3820682%2C-77.93314219999999"
+    },
+    {
+      "name": "ATM Kangaroo Express 924",
+      "distance": "0.8 mi",
+      "url": "https://www.google.com/maps/search/ATM%20Kangaroo%20Express%20924+near+35.3820682%2C-77.93314219999999"
+    },
+    {
+      "name": "Shell",
+      "distance": "0.8 mi",
+      "url": "https://www.google.com/maps/search/Shell+near+35.3820682%2C-77.93314219999999"
+    },
+    {
+      "name": "bp",
+      "distance": "0.8 mi",
+      "url": "https://www.google.com/maps/search/bp+near+35.3820682%2C-77.93314219999999"
+    },
+    {
+      "name": "Circle K | Gas Station",
+      "distance": "0.8 mi",
+      "url": "https://www.google.com/maps/search/Circle%20K%20%7C%20Gas%20Station+near+35.3820682%2C-77.93314219999999"
+    }
+  ]
+}

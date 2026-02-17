@@ -1,0 +1,201 @@
+{
+  "quick_bite": [
+    {
+      "name": "Hai Hong Restaurant",
+      "distance": "0.5 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Hai%20Hong%20Restaurant&query_place_id=ChIJ1cRs242B0IkR8bkcJRcPA7k&center=42.4418625,-76.48460299999999"
+    },
+    {
+      "name": "Ninja Chicken & Friends",
+      "distance": "0.5 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Ninja%20Chicken%20%26%20Friends&query_place_id=ChIJO4bOwyOB0IkRMCJqcc5LfBY&center=42.4417431,-76.4858521"
+    },
+    {
+      "name": "Louie’s Food Truck",
+      "distance": "0.6 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Louie%E2%80%99s%20Food%20Truck&query_place_id=ChIJsxIqjGaD0IkR8eEXTmJaJoE&center=42.453372099999996,-76.48126189999999"
+    },
+    {
+      "name": "Adelina's",
+      "distance": "0.9 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Adelina's&query_place_id=ChIJfzU-TwaB0IkRiGHf59IHkKc&center=42.4397175,-76.49320039999999"
+    },
+    {
+      "name": "Jimmy John's",
+      "distance": "1.0 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Jimmy%20John's&query_place_id=ChIJlyfaa5uB0IkR5cpedGg3t2g&center=42.440305599999995,-76.495882"
+    },
+    {
+      "name": "Gorgers",
+      "distance": "1.2 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Gorgers&query_place_id=ChIJb_ngqp2B0IkRUtYxQ7p1QqU&center=42.439642899999996,-76.4996727"
+    }
+  ],
+  "coffee": [
+    {
+      "name": "Bus Stop Bagels",
+      "distance": "0.2 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Bus%20Stop%20Bagels&query_place_id=ChIJC9Z7tYqB0IkRt6zgAoRXPAg&center=42.4480423,-76.4793327"
+    },
+    {
+      "name": "Mann Café",
+      "distance": "0.2 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Mann%20Caf%C3%A9&query_place_id=ChIJ-9v7h3CB0IkRx3vSb-3okQQ&center=42.4486248,-76.476565"
+    },
+    {
+      "name": "Gimme! Coffee",
+      "distance": "0.2 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Gimme!%20Coffee&query_place_id=ChIJ_e9KYYuB0IkR3GlS-OHLMZM&center=42.4449103,-76.4812869"
+    },
+    {
+      "name": "Mattin's Café",
+      "distance": "0.3 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Mattin's%20Caf%C3%A9&query_place_id=ChIJ30CCfYyB0IkR5eBZGHb8c-8&center=42.4448296,-76.48257319999999"
+    },
+    {
+      "name": "Rusty's",
+      "distance": "0.3 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Rusty's&query_place_id=ChIJe_cP_4qB0IkR_ARDkq7hxLs&center=42.4474569,-76.4822465"
+    }
+  ],
+  "team_lunch": [
+    {
+      "name": "Mac's Cafe",
+      "distance": "0.2 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Mac's%20Cafe&query_place_id=ChIJzb-1dIuB0IkRGbtEU3S2eUI&center=42.4459683,-76.4820581"
+    },
+    {
+      "name": "Asian Chili Spot",
+      "distance": "0.5 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Asian%20Chili%20Spot&query_place_id=ChIJt6Iq4K6B0IkRhkczK6fuTJ4&center=42.4418625,-76.48460299999999"
+    },
+    {
+      "name": "Pho Time Vietnamese Cuisine",
+      "distance": "0.5 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Pho%20Time%20Vietnamese%20Cuisine&query_place_id=ChIJ1cRs242B0IkR-IgYuB8mbqs&center=42.4417449,-76.484661"
+    },
+    {
+      "name": "310 Stewart Ave Inc",
+      "distance": "0.7 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=310%20Stewart%20Ave%20Inc&query_place_id=ChIJ42nx7I-B0IkRywK_-BeeN88&center=42.441996599999996,-76.489995"
+    },
+    {
+      "name": "Ithaca Breadworks",
+      "distance": "0.8 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Ithaca%20Breadworks&query_place_id=ChIJ5ce-hwuB0IkRYPtorNoEw3g&center=42.4383591,-76.4662408"
+    },
+    {
+      "name": "Ithaca Hot Buns",
+      "distance": "1.3 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Ithaca%20Hot%20Buns&query_place_id=ChIJARa7ikKB0IkRMa24CNCPLOs&center=42.4405441,-76.50135929999999"
+    }
+  ],
+  "dinner": [
+    {
+      "name": "The Terrace Restaurant",
+      "distance": "0.2 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=The%20Terrace%20Restaurant&query_place_id=ChIJ97dJC4uB0IkRg08wPuauAWE&center=42.4461438,-76.48217149999999"
+    },
+    {
+      "name": "Taverna Banfi",
+      "distance": "0.3 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Taverna%20Banfi&query_place_id=ChIJD6RICIuB0IkRJAkwTTcAvLo&center=42.4464908,-76.48222620000001"
+    },
+    {
+      "name": "The Establishment",
+      "distance": "0.3 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=The%20Establishment&query_place_id=ChIJD6RICIuB0IkRi0ln6iJR1ws&center=42.4454292,-76.4823345"
+    },
+    {
+      "name": "Collegetown Bagels",
+      "distance": "0.5 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Collegetown%20Bagels&query_place_id=ChIJ-TWeeI6B0IkRCubzG-VVovA&center=42.4422042,-76.48550139999999"
+    },
+    {
+      "name": "Collegetown Bagels",
+      "distance": "1.0 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Collegetown%20Bagels&query_place_id=ChIJ7RxdQZuB0IkRx0ZfKXmBdU4&center=42.4394583,-76.4949594"
+    },
+    {
+      "name": "Rashida Sawyer Bakery",
+      "distance": "1.2 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Rashida%20Sawyer%20Bakery&query_place_id=ChIJIX94p_-B0IkR8jw66Ylwxio&center=42.438729699999996,-76.4995053"
+    }
+  ],
+  "bowling": [
+    {
+      "name": "Helen Newman Bowling Center",
+      "distance": "0.5 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Helen%20Newman%20Bowling%20Center&query_place_id=ChIJG2JEOKSB0IkRb83yC-m5DVs&center=42.4531218,-76.4773506"
+    }
+  ],
+  "arcade": [],
+  "movies": [
+    {
+      "name": "Cornell Cinema",
+      "distance": "0.4 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Cornell%20Cinema&query_place_id=ChIJAQBAZ4mB0IkRgkizhvcgkEk&center=42.446491,-76.485678"
+    },
+    {
+      "name": "Cinemapolis",
+      "distance": "1.1 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Cinemapolis&query_place_id=ChIJkTixe5yB0IkRIaV8x4f2BwE&center=42.438779499999995,-76.497034"
+    },
+    {
+      "name": "Regal Ithaca Mall",
+      "distance": "2.8 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Regal%20Ithaca%20Mall&query_place_id=ChIJKaOTClqC0IkR08o9vqce8kE&center=42.4842957,-76.49183359999999"
+    }
+  ],
+  "fun": [
+    {
+      "name": "Triphammer Falls",
+      "distance": "0.4 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Triphammer%20Falls&query_place_id=ChIJeYCkWSCC0IkR4lc5DpbABoA&center=42.4515727,-76.4803428"
+    },
+    {
+      "name": "Rocky Falls",
+      "distance": "0.6 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Rocky%20Falls&query_place_id=ChIJk2nn2SCC0IkR7OeWFarFHbM&center=42.452073999999996,-76.484475"
+    },
+    {
+      "name": "Horseshoe Falls",
+      "distance": "0.6 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Horseshoe%20Falls&query_place_id=ChIJ4UYsNieC0IkRi6V43Yo0S_Q&center=42.451990599999995,-76.4859848"
+    }
+  ],
+  "hotels": [
+    {
+      "name": "The Statler Hotel at Cornell University",
+      "distance": "0.2 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=The%20Statler%20Hotel%20at%20Cornell%20University&query_place_id=ChIJD6RICIuB0IkRvZ74UJEf3RQ&center=42.4462031,-76.48204199999999"
+    },
+    {
+      "name": "Belle Sherman House",
+      "distance": "0.5 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Belle%20Sherman%20House&query_place_id=ChIJj4SXZ-2B0IkRJEHc0iqo_ec&center=42.4389597,-76.4779186"
+    }
+  ],
+  "gas": [
+    {
+      "name": "Sunoco",
+      "distance": "1.2 mi",
+      "url": "https://www.google.com/maps/search/Sunoco+near+42.445735299999996%2C-76.4773981"
+    },
+    {
+      "name": "Speedway",
+      "distance": "1.6 mi",
+      "url": "https://www.google.com/maps/search/Speedway+near+42.445735299999996%2C-76.4773981"
+    },
+    {
+      "name": "Mobil",
+      "distance": "1.6 mi",
+      "url": "https://www.google.com/maps/search/Mobil+near+42.445735299999996%2C-76.4773981"
+    },
+    {
+      "name": "Citgo",
+      "distance": "1.9 mi",
+      "url": "https://www.google.com/maps/search/Citgo+near+42.445735299999996%2C-76.4773981"
+    }
+  ]
+}

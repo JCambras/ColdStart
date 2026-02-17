@@ -1,0 +1,174 @@
+{
+  "quick_bite": [
+    {
+      "name": "Jersey Mike's Subs",
+      "distance": "2.0 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Jersey%20Mike's%20Subs&query_place_id=ChIJFcjJA5Mb04kRc4i0B-Dmih4&center=42.7421544,-78.8693667"
+    },
+    {
+      "name": "Subway",
+      "distance": "2.0 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Subway&query_place_id=ChIJ-fHXXBsb04kRlwAe-lp666E&center=42.7431596,-78.8716762"
+    },
+    {
+      "name": "Chipotle Mexican Grill",
+      "distance": "2.1 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Chipotle%20Mexican%20Grill&query_place_id=ChIJEU-w_OMb04kR7I8EXSm_2cQ&center=42.742615799999996,-78.86862359999999"
+    },
+    {
+      "name": "Subway",
+      "distance": "2.1 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Subway&query_place_id=ChIJSxTwMt0b04kRsr6uTiGa6SM&center=42.735205699999995,-78.9177642"
+    }
+  ],
+  "coffee": [
+    {
+      "name": "Tim Hortons",
+      "distance": "1.7 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Tim%20Hortons&query_place_id=ChIJKzwZd14d04kRgRt7cErNobA&center=42.7089494,-78.91808859999999"
+    }
+  ],
+  "team_lunch": [
+    {
+      "name": "The Nurse's Whisk",
+      "distance": "0.9 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=The%20Nurse's%20Whisk&query_place_id=ChIJp0RZfdYd04kRVai228ezxCw&center=42.7078043,-78.90013259999999"
+    },
+    {
+      "name": "Bella Pizza",
+      "distance": "2.4 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Bella%20Pizza&query_place_id=ChIJK8K0HrMb04kRo_I1OQOR6Jc&center=42.7492528,-78.89790769999999"
+    },
+    {
+      "name": "Pierce Ave Bar & Grill",
+      "distance": "2.4 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Pierce%20Ave%20Bar%20%26%20Grill&query_place_id=ChIJHRNaslEb04kRIFrJx1OaOZI&center=42.715994699999996,-78.8395808"
+    },
+    {
+      "name": "The Public House on the Lake",
+      "distance": "2.4 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=The%20Public%20House%20on%20the%20Lake&query_place_id=ChIJObVyFLMb04kR9POvInAkAQc&center=42.749572699999995,-78.8988037"
+    }
+  ],
+  "dinner": [
+    {
+      "name": "Junior's Corner",
+      "distance": "1.8 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Junior's%20Corner&query_place_id=ChIJdUdDn1sb04kRxUiCjUtF4Ug&center=42.7411101,-78.87723720000001"
+    },
+    {
+      "name": "Wanakah Grill",
+      "distance": "1.8 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Wanakah%20Grill&query_place_id=ChIJIy5PpOgb04kRX4tLWFhu3sw&center=42.7293886,-78.91702939999999"
+    },
+    {
+      "name": "Ladybird",
+      "distance": "2.0 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Ladybird&query_place_id=ChIJwXDxhwod04kRKdhatDIBu1c&center=42.706109500000004,-78.849628"
+    },
+    {
+      "name": "Cozy Thai Restaurant",
+      "distance": "2.3 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Cozy%20Thai%20Restaurant&query_place_id=ChIJ8WgpcFIb04kRHVtw1P1QNDY&center=42.715787,-78.842067"
+    },
+    {
+      "name": "The West End Inn",
+      "distance": "2.3 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=The%20West%20End%20Inn&query_place_id=ChIJCxOkitob04kRte8t1cmmAHc&center=42.7184587,-78.84174589999999"
+    }
+  ],
+  "bowling": [
+    {
+      "name": "Cloverbank Bowling",
+      "distance": "1.8 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Cloverbank%20Bowling&query_place_id=ChIJSy0VFZ8b04kRDHv17bxly2E&center=42.7413679,-78.8778294"
+    }
+  ],
+  "arcade": [],
+  "movies": [
+    {
+      "name": "Hamburg Palace Theatre",
+      "distance": "2.9 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Hamburg%20Palace%20Theatre&query_place_id=ChIJDfLaTrAE04kRn6WFtpmoEGE&center=42.7167611,-78.8292359"
+    }
+  ],
+  "fun": [
+    {
+      "name": "Rubber Duck in a Pool House LLC",
+      "distance": "2.4 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Rubber%20Duck%20in%20a%20Pool%20House%20LLC&query_place_id=ChIJ36WsdAsb04kR7LZ2rxvOwrc&center=42.7159694,-78.8400032"
+    },
+    {
+      "name": "The Warrior Factory Buffalo South - Hamburg",
+      "distance": "5.2 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=The%20Warrior%20Factory%20Buffalo%20South%20-%20Hamburg&query_place_id=ChIJ-R4gX98F04kR7ODK-fe1PUg&center=42.7675999,-78.8124407",
+      "isFar": true
+    },
+    {
+      "name": "Blasdell books",
+      "distance": "6.3 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Blasdell%20books&query_place_id=ChIJ641sz9wP04kRxT1saIJfhvM&center=42.795609299999995,-78.82678229999999",
+      "isFar": true
+    },
+    {
+      "name": "Dragons Lair Play Place",
+      "distance": "6.3 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Dragons%20Lair%20Play%20Place&query_place_id=ChIJvZrLVl4P04kRS39ma_4w0NU&center=42.787871599999995,-78.81019210000001",
+      "isFar": true
+    }
+  ],
+  "hotels": [
+    {
+      "name": "Hamburg Community Trailer Park",
+      "distance": "1.6 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Hamburg%20Community%20Trailer%20Park&query_place_id=ChIJr708aSEb04kR4QucJmhrXP0&center=42.7368674,-78.8743519"
+    },
+    {
+      "name": "The Club House",
+      "distance": "1.9 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=The%20Club%20House&query_place_id=ChIJA_mxZ8cb04kRAREiGSJ75UU&center=42.738639899999995,-78.9067688"
+    },
+    {
+      "name": "45 Cottage In Lake View",
+      "distance": "2.1 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=45%20Cottage%20In%20Lake%20View&query_place_id=ChIJMWuJKMMb04kRvd4Fo5GUyB8&center=42.736038199999996,-78.9168625"
+    },
+    {
+      "name": "1 Mi to Beach: Nature Paradise in Lake View!",
+      "distance": "2.1 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=1%20Mi%20to%20Beach%3A%20Nature%20Paradise%20in%20Lake%20View!&query_place_id=ChIJgxXg1cIb04kRIomc1sj5Wno&center=42.7358322,-78.91716"
+    },
+    {
+      "name": "Private stay near buffalo",
+      "distance": "2.1 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Private%20stay%20near%20buffalo&query_place_id=ChIJz9e76v8b04kRKarHpMxax5k&center=42.716331499999995,-78.92746729999999"
+    },
+    {
+      "name": "Turtle Cove Bay Beach House ~ 13 Mi to Buffalo!",
+      "distance": "2.1 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Turtle%20Cove%20Bay%20Beach%20House%20~%2013%20Mi%20to%20Buffalo!&query_place_id=ChIJB6Q3ed0b04kRbZ8ykN_L6xM&center=42.734108,-78.9200821"
+    }
+  ],
+  "gas": [
+    {
+      "name": "Exxon",
+      "distance": "1.7 mi",
+      "url": "https://www.google.com/maps/search/Exxon+near+42.7158851%2C-78.88642879999999"
+    },
+    {
+      "name": "Corner Market Sunoco",
+      "distance": "2.4 mi",
+      "url": "https://www.google.com/maps/search/Corner%20Market%20Sunoco+near+42.7158851%2C-78.88642879999999"
+    },
+    {
+      "name": "Sunoco",
+      "distance": "2.4 mi",
+      "url": "https://www.google.com/maps/search/Sunoco+near+42.7158851%2C-78.88642879999999"
+    },
+    {
+      "name": "Mobil",
+      "distance": "2.4 mi",
+      "url": "https://www.google.com/maps/search/Mobil+near+42.7158851%2C-78.88642879999999"
+    }
+  ]
+}

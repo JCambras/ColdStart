@@ -1,0 +1,173 @@
+{
+  "quick_bite": [
+    {
+      "name": "Subway",
+      "distance": "0.5 mi",
+      "url": "https://www.google.com/maps/search/Subway+near+45.408985099999995%2C-91.85266109999999"
+    },
+    {
+      "name": "Dairy Queen Grill & Chill",
+      "distance": "0.7 mi",
+      "url": "https://www.google.com/maps/search/Dairy%20Queen%20Grill%20%26%20Chill+near+45.408985099999995%2C-91.85266109999999"
+    },
+    {
+      "name": "A&W Restaurant",
+      "distance": "1.3 mi",
+      "url": "https://www.google.com/maps/search/A%26W%20Restaurant+near+45.408985099999995%2C-91.85266109999999"
+    }
+  ],
+  "coffee": [
+    {
+      "name": "The Blueberry Line Coffee House",
+      "distance": "0.4 mi",
+      "url": "https://www.google.com/maps/search/The%20Blueberry%20Line%20Coffee%20House+near+45.408985099999995%2C-91.85266109999999"
+    },
+    {
+      "name": "Golden Bear Fuel",
+      "distance": "0.5 mi",
+      "url": "https://www.google.com/maps/search/Golden%20Bear%20Fuel+near+45.408985099999995%2C-91.85266109999999"
+    },
+    {
+      "name": "McDonald's",
+      "distance": "0.5 mi",
+      "url": "https://www.google.com/maps/search/McDonald's+near+45.408985099999995%2C-91.85266109999999"
+    }
+  ],
+  "team_lunch": [
+    {
+      "name": "SCHWANK",
+      "distance": "0.6 mi",
+      "url": "https://www.google.com/maps/search/SCHWANK+near+45.408985099999995%2C-91.85266109999999"
+    },
+    {
+      "name": "Tree Stand Tavern",
+      "distance": "0.6 mi",
+      "url": "https://www.google.com/maps/search/Tree%20Stand%20Tavern+near+45.408985099999995%2C-91.85266109999999"
+    },
+    {
+      "name": "Rolling Oaks Supper Club, Lounge & Catering",
+      "distance": "0.8 mi",
+      "url": "https://www.google.com/maps/search/Rolling%20Oaks%20Supper%20Club%2C%20Lounge%20%26%20Catering+near+45.408985099999995%2C-91.85266109999999"
+    },
+    {
+      "name": "Hot Stuff Pizza",
+      "distance": "1.3 mi",
+      "url": "https://www.google.com/maps/search/Hot%20Stuff%20Pizza+near+45.408985099999995%2C-91.85266109999999"
+    }
+  ],
+  "dinner": [
+    {
+      "name": "Happy Wok, Inc.",
+      "distance": "0.5 mi",
+      "url": "https://www.google.com/maps/search/Happy%20Wok%2C%20Inc.+near+45.408985099999995%2C-91.85266109999999"
+    },
+    {
+      "name": "Sharpley's Seasons Cafe",
+      "distance": "0.5 mi",
+      "url": "https://www.google.com/maps/search/Sharpley's%20Seasons%20Cafe+near+45.408985099999995%2C-91.85266109999999"
+    },
+    {
+      "name": "Kate's Bar",
+      "distance": "0.6 mi",
+      "url": "https://www.google.com/maps/search/Kate's%20Bar+near+45.408985099999995%2C-91.85266109999999"
+    },
+    {
+      "name": "Papa Pirelli's",
+      "distance": "0.6 mi",
+      "url": "https://www.google.com/maps/search/Papa%20Pirelli's+near+45.408985099999995%2C-91.85266109999999"
+    }
+  ],
+  "bowling": [
+    {
+      "name": "Rand's Bowling Lanes & Lounge",
+      "distance": "7.8 mi",
+      "url": "https://www.google.com/maps/search/Rand's%20Bowling%20Lanes%20%26%20Lounge+near+45.408985099999995%2C-91.85266109999999",
+      "isFar": true
+    }
+  ],
+  "arcade": [],
+  "movies": [
+    {
+      "name": "Lake 7 Theatre",
+      "distance": "6.8 mi",
+      "url": "https://www.google.com/maps/search/Lake%207%20Theatre+near+45.408985099999995%2C-91.85266109999999",
+      "isFar": true
+    },
+    {
+      "name": "Stardust Drive in Movie Theater",
+      "distance": "8.4 mi",
+      "url": "https://www.google.com/maps/search/Stardust%20Drive%20in%20Movie%20Theater+near+45.408985099999995%2C-91.85266109999999",
+      "isFar": true
+    }
+  ],
+  "fun": [
+    {
+      "name": "Cameron Splash Pad",
+      "distance": "5.0 mi",
+      "url": "https://www.google.com/maps/search/Cameron%20Splash%20Pad+near+45.408985099999995%2C-91.85266109999999",
+      "isFar": true
+    },
+    {
+      "name": "Tactical Escape 101- Rice Lake Escape Rooms",
+      "distance": "7.0 mi",
+      "url": "https://www.google.com/maps/search/Tactical%20Escape%20101-%20Rice%20Lake%20Escape%20Rooms+near+45.408985099999995%2C-91.85266109999999",
+      "isFar": true
+    },
+    {
+      "name": "Rice Lake Splash Pad",
+      "distance": "7.9 mi",
+      "url": "https://www.google.com/maps/search/Rice%20Lake%20Splash%20Pad+near+45.408985099999995%2C-91.85266109999999",
+      "isFar": true
+    }
+  ],
+  "hotels": [
+    {
+      "name": "Properties of Barron, LLC (Riverview Terrace, Mill Street Acres, East End Estates)",
+      "distance": "0.6 mi",
+      "url": "https://www.google.com/maps/search/Properties%20of%20Barron%2C%20LLC%20(Riverview%20Terrace%2C%20Mill%20Street%20Acres%2C%20East%20End%20Estates)+near+45.408985099999995%2C-91.85266109999999"
+    },
+    {
+      "name": "Cobblestone Inn & Suites - Barron",
+      "distance": "0.8 mi",
+      "url": "https://www.google.com/maps/search/Cobblestone%20Inn%20%26%20Suites%20-%20Barron+near+45.408985099999995%2C-91.85266109999999"
+    },
+    {
+      "name": "Stop On Inn Motel & Campground",
+      "distance": "1.1 mi",
+      "url": "https://www.google.com/maps/search/Stop%20On%20Inn%20Motel%20%26%20Campground+near+45.408985099999995%2C-91.85266109999999"
+    },
+    {
+      "name": "Barron's First Ramblers Rest",
+      "distance": "1.2 mi",
+      "url": "https://www.google.com/maps/search/Barron's%20First%20Ramblers%20Rest+near+45.408985099999995%2C-91.85266109999999"
+    },
+    {
+      "name": "Hogans Ho House",
+      "distance": "4.1 mi",
+      "url": "https://www.google.com/maps/search/Hogans%20Ho%20House+near+45.408985099999995%2C-91.85266109999999",
+      "isFar": true
+    }
+  ],
+  "gas": [
+    {
+      "name": "Applegreen",
+      "distance": "0.5 mi",
+      "url": "https://www.google.com/maps/search/Applegreen+near+45.408985099999995%2C-91.85266109999999"
+    },
+    {
+      "name": "MARATHON",
+      "distance": "0.6 mi",
+      "url": "https://www.google.com/maps/search/MARATHON+near+45.408985099999995%2C-91.85266109999999"
+    },
+    {
+      "name": "Kwik Trip",
+      "distance": "1.1 mi",
+      "url": "https://www.google.com/maps/search/Kwik%20Trip+near+45.408985099999995%2C-91.85266109999999"
+    },
+    {
+      "name": "Cenex",
+      "distance": "1.3 mi",
+      "url": "https://www.google.com/maps/search/Cenex+near+45.408985099999995%2C-91.85266109999999"
+    }
+  ]
+}

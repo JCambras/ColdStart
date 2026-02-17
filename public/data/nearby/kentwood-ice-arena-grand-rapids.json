@@ -1,0 +1,228 @@
+{
+  "quick_bite": [
+    {
+      "name": "QDOBA Mexican Eats",
+      "distance": "0.3 mi",
+      "url": "https://www.google.com/maps/search/QDOBA%20Mexican%20Eats+near+42.8495644%2C-85.62034299999999"
+    },
+    {
+      "name": "Penn Station East Coast Subs",
+      "distance": "0.3 mi",
+      "url": "https://www.google.com/maps/search/Penn%20Station%20East%20Coast%20Subs+near+42.8495644%2C-85.62034299999999"
+    },
+    {
+      "name": "Chipotle Mexican Grill",
+      "distance": "0.3 mi",
+      "url": "https://www.google.com/maps/search/Chipotle%20Mexican%20Grill+near+42.8495644%2C-85.62034299999999"
+    },
+    {
+      "name": "Panda Express",
+      "distance": "0.3 mi",
+      "url": "https://www.google.com/maps/search/Panda%20Express+near+42.8495644%2C-85.62034299999999"
+    },
+    {
+      "name": "Little Caesars Pizza",
+      "distance": "0.3 mi",
+      "url": "https://www.google.com/maps/search/Little%20Caesars%20Pizza+near+42.8495644%2C-85.62034299999999"
+    }
+  ],
+  "coffee": [
+    {
+      "name": "Starbucks",
+      "distance": "0.2 mi",
+      "url": "https://www.google.com/maps/search/Starbucks+near+42.8495644%2C-85.62034299999999"
+    },
+    {
+      "name": "Starbucks Coffee Company",
+      "distance": "0.3 mi",
+      "url": "https://www.google.com/maps/search/Starbucks%20Coffee%20Company+near+42.8495644%2C-85.62034299999999"
+    },
+    {
+      "name": "Panera Bread",
+      "distance": "0.3 mi",
+      "url": "https://www.google.com/maps/search/Panera%20Bread+near+42.8495644%2C-85.62034299999999"
+    },
+    {
+      "name": "Starbucks Coffee Company",
+      "distance": "0.3 mi",
+      "url": "https://www.google.com/maps/search/Starbucks%20Coffee%20Company+near+42.8495644%2C-85.62034299999999"
+    },
+    {
+      "name": "BIGGBY COFFEE",
+      "distance": "0.3 mi",
+      "url": "https://www.google.com/maps/search/BIGGBY%20COFFEE+near+42.8495644%2C-85.62034299999999"
+    }
+  ],
+  "team_lunch": [
+    {
+      "name": "Steak 'n Shake",
+      "distance": "0.3 mi",
+      "url": "https://www.google.com/maps/search/Steak%20'n%20Shake+near+42.8495644%2C-85.62034299999999"
+    },
+    {
+      "name": "Applebee's Grill + Bar",
+      "distance": "0.3 mi",
+      "url": "https://www.google.com/maps/search/Applebee's%20Grill%20%2B%20Bar+near+42.8495644%2C-85.62034299999999"
+    },
+    {
+      "name": "Great Garden Buffet",
+      "distance": "0.3 mi",
+      "url": "https://www.google.com/maps/search/Great%20Garden%20Buffet+near+42.8495644%2C-85.62034299999999"
+    },
+    {
+      "name": "Tacos el Cuñado Kentwood",
+      "distance": "0.3 mi",
+      "url": "https://www.google.com/maps/search/Tacos%20el%20Cu%C3%B1ado%20Kentwood+near+42.8495644%2C-85.62034299999999"
+    }
+  ],
+  "dinner": [
+    {
+      "name": "Auntie Anne's",
+      "distance": "0.2 mi",
+      "url": "https://www.google.com/maps/search/Auntie%20Anne's+near+42.8495644%2C-85.62034299999999"
+    },
+    {
+      "name": "Meijer Bakery",
+      "distance": "0.2 mi",
+      "url": "https://www.google.com/maps/search/Meijer%20Bakery+near+42.8495644%2C-85.62034299999999"
+    },
+    {
+      "name": "Cinnabon",
+      "distance": "0.2 mi",
+      "url": "https://www.google.com/maps/search/Cinnabon+near+42.8495644%2C-85.62034299999999"
+    },
+    {
+      "name": "Jaku Sushi & Grill",
+      "distance": "0.3 mi",
+      "url": "https://www.google.com/maps/search/Jaku%20Sushi%20%26%20Grill+near+42.8495644%2C-85.62034299999999"
+    },
+    {
+      "name": "Power of the Tongue Tasty Treats Catering Service",
+      "distance": "0.3 mi",
+      "url": "https://www.google.com/maps/search/Power%20of%20the%20Tongue%20Tasty%20Treats%20Catering%20Service+near+42.8495644%2C-85.62034299999999"
+    }
+  ],
+  "bowling": [
+    {
+      "name": "Lucky Strike Grand Rapids",
+      "distance": "3.2 mi",
+      "url": "https://www.google.com/maps/search/Lucky%20Strike%20Grand%20Rapids+near+42.8495644%2C-85.62034299999999",
+      "isFar": true
+    },
+    {
+      "name": "Main Event Grand Rapids",
+      "distance": "4.8 mi",
+      "url": "https://www.google.com/maps/search/Main%20Event%20Grand%20Rapids+near+42.8495644%2C-85.62034299999999",
+      "isFar": true
+    }
+  ],
+  "arcade": [],
+  "movies": [
+    {
+      "name": "Celebration Cinema Grand Rapids South",
+      "distance": "0.4 mi",
+      "url": "https://www.google.com/maps/search/Celebration%20Cinema%20Grand%20Rapids%20South+near+42.8495644%2C-85.62034299999999"
+    },
+    {
+      "name": "Phoenix Theatres Woodland Mall",
+      "distance": "4.8 mi",
+      "url": "https://www.google.com/maps/search/Phoenix%20Theatres%20Woodland%20Mall+near+42.8495644%2C-85.62034299999999",
+      "isFar": true
+    }
+  ],
+  "fun": [
+    {
+      "name": "Battle Front Gaming",
+      "distance": "2.2 mi",
+      "url": "https://www.google.com/maps/search/Battle%20Front%20Gaming+near+42.8495644%2C-85.62034299999999"
+    },
+    {
+      "name": "Craig's Cruisers - Grand Rapids",
+      "distance": "3.1 mi",
+      "url": "https://www.google.com/maps/search/Craig's%20Cruisers%20-%20Grand%20Rapids+near+42.8495644%2C-85.62034299999999",
+      "isFar": true
+    },
+    {
+      "name": "Break Room Therapy",
+      "distance": "3.7 mi",
+      "url": "https://www.google.com/maps/search/Break%20Room%20Therapy+near+42.8495644%2C-85.62034299999999",
+      "isFar": true
+    },
+    {
+      "name": "Sky Zone Grand Rapids",
+      "distance": "4.6 mi",
+      "url": "https://www.google.com/maps/search/Sky%20Zone%20Grand%20Rapids+near+42.8495644%2C-85.62034299999999",
+      "isFar": true
+    },
+    {
+      "name": "FUNBOX GRAND RAPIDS",
+      "distance": "4.7 mi",
+      "url": "https://www.google.com/maps/search/FUNBOX%20GRAND%20RAPIDS+near+42.8495644%2C-85.62034299999999",
+      "isFar": true
+    }
+  ],
+  "hotels": [
+    {
+      "name": "Staybridge Suites Grand Rapids South, an IHG Hotel",
+      "distance": "0.4 mi",
+      "url": "https://www.google.com/maps/search/Staybridge%20Suites%20Grand%20Rapids%20South%2C%20an%20IHG%20Hotel+near+42.8495644%2C-85.62034299999999"
+    },
+    {
+      "name": "Studio King Suite in Grand Rapids with AC, WiFi, Fitness Room and Breakfast",
+      "distance": "0.4 mi",
+      "url": "https://www.google.com/maps/search/Studio%20King%20Suite%20in%20Grand%20Rapids%20with%20AC%2C%20WiFi%2C%20Fitness%20Room%20and%20Breakfast+near+42.8495644%2C-85.62034299999999"
+    },
+    {
+      "name": "1 Bedroom Hotel Suite in Grand Rapids with AC, WiFi, Fitness Room and Breakfast",
+      "distance": "0.6 mi",
+      "url": "https://www.google.com/maps/search/1%20Bedroom%20Hotel%20Suite%20in%20Grand%20Rapids%20with%20AC%2C%20WiFi%2C%20Fitness%20Room%20and%20Breakfast+near+42.8495644%2C-85.62034299999999"
+    },
+    {
+      "name": "Entire Bright & Cozy Home Midterm",
+      "distance": "0.9 mi",
+      "url": "https://www.google.com/maps/search/Entire%20Bright%20%26%20Cozy%20Home%20Midterm+near+42.8495644%2C-85.62034299999999"
+    },
+    {
+      "name": "Charming 2-bedroom house with gated yard in delightful Kentwood",
+      "distance": "1.1 mi",
+      "url": "https://www.google.com/maps/search/Charming%202-bedroom%20house%20with%20gated%20yard%20in%20delightful%20Kentwood+near+42.8495644%2C-85.62034299999999"
+    },
+    {
+      "name": "Beautifully eclectic eco-friendly 2-bedroom, 2-bathroom home with office - Two-Bedroom Apartment",
+      "distance": "1.1 mi",
+      "url": "https://www.google.com/maps/search/Beautifully%20eclectic%20eco-friendly%202-bedroom%2C%202-bathroom%20home%20with%20office%20-%20Two-Bedroom%20Apartment+near+42.8495644%2C-85.62034299999999"
+    },
+    {
+      "name": "Country Corners Mobile Home Park",
+      "distance": "1.2 mi",
+      "url": "https://www.google.com/maps/search/Country%20Corners%20Mobile%20Home%20Park+near+42.8495644%2C-85.62034299999999"
+    }
+  ],
+  "gas": [
+    {
+      "name": "Shell",
+      "distance": "0.4 mi",
+      "url": "https://www.google.com/maps/search/Shell+near+42.8495644%2C-85.62034299999999"
+    },
+    {
+      "name": "Kentwood Citgo",
+      "distance": "0.4 mi",
+      "url": "https://www.google.com/maps/search/Kentwood%20Citgo+near+42.8495644%2C-85.62034299999999"
+    },
+    {
+      "name": "Caseys",
+      "distance": "1.3 mi",
+      "url": "https://www.google.com/maps/search/Caseys+near+42.8495644%2C-85.62034299999999"
+    },
+    {
+      "name": "Marathon Gas",
+      "distance": "1.4 mi",
+      "url": "https://www.google.com/maps/search/Marathon%20Gas+near+42.8495644%2C-85.62034299999999"
+    },
+    {
+      "name": "Marathon Gas",
+      "distance": "1.4 mi",
+      "url": "https://www.google.com/maps/search/Marathon%20Gas+near+42.8495644%2C-85.62034299999999"
+    }
+  ]
+}

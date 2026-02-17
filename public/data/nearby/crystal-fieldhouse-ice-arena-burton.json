@@ -1,0 +1,203 @@
+{
+  "quick_bite": [
+    {
+      "name": "KFC",
+      "distance": "0.2 mi",
+      "url": "https://www.google.com/maps/search/KFC+near+43.0256945%2C-83.59898969999999"
+    },
+    {
+      "name": "Taco Bell",
+      "distance": "0.2 mi",
+      "url": "https://www.google.com/maps/search/Taco%20Bell+near+43.0256945%2C-83.59898969999999"
+    },
+    {
+      "name": "Halo Burger (Belsay Road)",
+      "distance": "0.3 mi",
+      "url": "https://www.google.com/maps/search/Halo%20Burger%20(Belsay%20Road)+near+43.0256945%2C-83.59898969999999"
+    },
+    {
+      "name": "Subway",
+      "distance": "0.3 mi",
+      "url": "https://www.google.com/maps/search/Subway+near+43.0256945%2C-83.59898969999999"
+    },
+    {
+      "name": "Wendy's",
+      "distance": "0.3 mi",
+      "url": "https://www.google.com/maps/search/Wendy's+near+43.0256945%2C-83.59898969999999"
+    },
+    {
+      "name": "Little Caesars Pizza",
+      "distance": "0.9 mi",
+      "url": "https://www.google.com/maps/search/Little%20Caesars%20Pizza+near+43.0256945%2C-83.59898969999999"
+    },
+    {
+      "name": "Taco Bell",
+      "distance": "1.8 mi",
+      "url": "https://www.google.com/maps/search/Taco%20Bell+near+43.0256945%2C-83.59898969999999"
+    }
+  ],
+  "coffee": [
+    {
+      "name": "McDonald's",
+      "distance": "0.3 mi",
+      "url": "https://www.google.com/maps/search/McDonald's+near+43.0256945%2C-83.59898969999999"
+    },
+    {
+      "name": "Biggby Coffee",
+      "distance": "0.6 mi",
+      "url": "https://www.google.com/maps/search/Biggby%20Coffee+near+43.0256945%2C-83.59898969999999"
+    }
+  ],
+  "team_lunch": [
+    {
+      "name": "Applebee's Grill + Bar",
+      "distance": "1.6 mi",
+      "url": "https://www.google.com/maps/search/Applebee's%20Grill%20%2B%20Bar+near+43.0256945%2C-83.59898969999999"
+    },
+    {
+      "name": "Bon's Sauce",
+      "distance": "1.7 mi",
+      "url": "https://www.google.com/maps/search/Bon's%20Sauce+near+43.0256945%2C-83.59898969999999"
+    }
+  ],
+  "dinner": [
+    {
+      "name": "Walmart Bakery",
+      "distance": "0.2 mi",
+      "url": "https://www.google.com/maps/search/Walmart%20Bakery+near+43.0256945%2C-83.59898969999999"
+    },
+    {
+      "name": "Tasty Layers LLC",
+      "distance": "0.6 mi",
+      "url": "https://www.google.com/maps/search/Tasty%20Layers%20LLC+near+43.0256945%2C-83.59898969999999"
+    },
+    {
+      "name": "Manee Thai Cuisine",
+      "distance": "0.7 mi",
+      "url": "https://www.google.com/maps/search/Manee%20Thai%20Cuisine+near+43.0256945%2C-83.59898969999999"
+    },
+    {
+      "name": "Thai Nation Bistro",
+      "distance": "1.3 mi",
+      "url": "https://www.google.com/maps/search/Thai%20Nation%20Bistro+near+43.0256945%2C-83.59898969999999"
+    },
+    {
+      "name": "Empire Wok",
+      "distance": "1.5 mi",
+      "url": "https://www.google.com/maps/search/Empire%20Wok+near+43.0256945%2C-83.59898969999999"
+    },
+    {
+      "name": "Starlite Burger and Coney Shop",
+      "distance": "1.6 mi",
+      "url": "https://www.google.com/maps/search/Starlite%20Burger%20and%20Coney%20Shop+near+43.0256945%2C-83.59898969999999"
+    },
+    {
+      "name": "Brothers Brunch House",
+      "distance": "1.6 mi",
+      "url": "https://www.google.com/maps/search/Brothers%20Brunch%20House+near+43.0256945%2C-83.59898969999999"
+    }
+  ],
+  "bowling": [
+    {
+      "name": "Richfield Bowl",
+      "distance": "1.8 mi",
+      "url": "https://www.google.com/maps/search/Richfield%20Bowl+near+43.0256945%2C-83.59898969999999"
+    },
+    {
+      "name": "B's Bowling Center",
+      "distance": "1.9 mi",
+      "url": "https://www.google.com/maps/search/B's%20Bowling%20Center+near+43.0256945%2C-83.59898969999999"
+    },
+    {
+      "name": "Rollaway Lanes & Lounge",
+      "distance": "4.2 mi",
+      "url": "https://www.google.com/maps/search/Rollaway%20Lanes%20%26%20Lounge+near+43.0256945%2C-83.59898969999999",
+      "isFar": true
+    }
+  ],
+  "arcade": [],
+  "movies": [],
+  "fun": [
+    {
+      "name": "Spymaker Escape Rooms",
+      "distance": "2.0 mi",
+      "url": "https://www.google.com/maps/search/Spymaker%20Escape%20Rooms+near+43.0256945%2C-83.59898969999999"
+    },
+    {
+      "name": "Michigan Escape Games",
+      "distance": "3.2 mi",
+      "url": "https://www.google.com/maps/search/Michigan%20Escape%20Games+near+43.0256945%2C-83.59898969999999",
+      "isFar": true
+    },
+    {
+      "name": "Adventure Mode Unlocked",
+      "distance": "4.2 mi",
+      "url": "https://www.google.com/maps/search/Adventure%20Mode%20Unlocked+near+43.0256945%2C-83.59898969999999",
+      "isFar": true
+    }
+  ],
+  "hotels": [
+    {
+      "name": "Centennial Farms",
+      "distance": "1.1 mi",
+      "url": "https://www.google.com/maps/search/Centennial%20Farms+near+43.0256945%2C-83.59898969999999"
+    },
+    {
+      "name": "Landstar Homes",
+      "distance": "1.2 mi",
+      "url": "https://www.google.com/maps/search/Landstar%20Homes+near+43.0256945%2C-83.59898969999999"
+    },
+    {
+      "name": "Villa-Grande Estates",
+      "distance": "1.2 mi",
+      "url": "https://www.google.com/maps/search/Villa-Grande%20Estates+near+43.0256945%2C-83.59898969999999"
+    },
+    {
+      "name": "Burton Inn & Suites",
+      "distance": "2.1 mi",
+      "url": "https://www.google.com/maps/search/Burton%20Inn%20%26%20Suites+near+43.0256945%2C-83.59898969999999"
+    },
+    {
+      "name": "HOTEL AMENITIES, LTD",
+      "distance": "2.7 mi",
+      "url": "https://www.google.com/maps/search/HOTEL%20AMENITIES%2C%20LTD+near+43.0256945%2C-83.59898969999999"
+    },
+    {
+      "name": "Spacious 4-bedroom house in lovely Flint with fitness room, WiFi",
+      "distance": "2.8 mi",
+      "url": "https://www.google.com/maps/search/Spacious%204-bedroom%20house%20in%20lovely%20Flint%20with%20fitness%20room%2C%20WiFi+near+43.0256945%2C-83.59898969999999"
+    },
+    {
+      "name": "Benmark Park",
+      "distance": "2.9 mi",
+      "url": "https://www.google.com/maps/search/Benmark%20Park+near+43.0256945%2C-83.59898969999999"
+    }
+  ],
+  "gas": [
+    {
+      "name": "Marathon Gas",
+      "distance": "0.3 mi",
+      "url": "https://www.google.com/maps/search/Marathon%20Gas+near+43.0256945%2C-83.59898969999999"
+    },
+    {
+      "name": "Mobil",
+      "distance": "0.6 mi",
+      "url": "https://www.google.com/maps/search/Mobil+near+43.0256945%2C-83.59898969999999"
+    },
+    {
+      "name": "Road Runner Express",
+      "distance": "0.7 mi",
+      "url": "https://www.google.com/maps/search/Road%20Runner%20Express+near+43.0256945%2C-83.59898969999999"
+    },
+    {
+      "name": "Exxon",
+      "distance": "0.7 mi",
+      "url": "https://www.google.com/maps/search/Exxon+near+43.0256945%2C-83.59898969999999"
+    },
+    {
+      "name": "Speedway",
+      "distance": "1.8 mi",
+      "url": "https://www.google.com/maps/search/Speedway+near+43.0256945%2C-83.59898969999999"
+    }
+  ]
+}

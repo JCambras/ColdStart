@@ -1,0 +1,223 @@
+{
+  "quick_bite": [
+    {
+      "name": "Pizza Hut Express",
+      "distance": "0.7 mi",
+      "url": "https://www.google.com/maps/search/Pizza%20Hut%20Express+near+45.161141099999995%2C-93.8481738"
+    },
+    {
+      "name": "A&W Restaurant",
+      "distance": "0.9 mi",
+      "url": "https://www.google.com/maps/search/A%26W%20Restaurant+near+45.161141099999995%2C-93.8481738"
+    },
+    {
+      "name": "Taco Bell",
+      "distance": "0.9 mi",
+      "url": "https://www.google.com/maps/search/Taco%20Bell+near+45.161141099999995%2C-93.8481738"
+    },
+    {
+      "name": "Culver’s",
+      "distance": "1.4 mi",
+      "url": "https://www.google.com/maps/search/Culver%E2%80%99s+near+45.161141099999995%2C-93.8481738"
+    },
+    {
+      "name": "Dairy Queen Grill & Chill",
+      "distance": "1.5 mi",
+      "url": "https://www.google.com/maps/search/Dairy%20Queen%20Grill%20%26%20Chill+near+45.161141099999995%2C-93.8481738"
+    }
+  ],
+  "coffee": [
+    {
+      "name": "Starbucks Coffee Company",
+      "distance": "0.4 mi",
+      "url": "https://www.google.com/maps/search/Starbucks%20Coffee%20Company+near+45.161141099999995%2C-93.8481738"
+    },
+    {
+      "name": "Caribou Coffee",
+      "distance": "1.1 mi",
+      "url": "https://www.google.com/maps/search/Caribou%20Coffee+near+45.161141099999995%2C-93.8481738"
+    },
+    {
+      "name": "Caribou Coffee",
+      "distance": "1.3 mi",
+      "url": "https://www.google.com/maps/search/Caribou%20Coffee+near+45.161141099999995%2C-93.8481738"
+    },
+    {
+      "name": "Dunkin'",
+      "distance": "1.4 mi",
+      "url": "https://www.google.com/maps/search/Dunkin'+near+45.161141099999995%2C-93.8481738"
+    }
+  ],
+  "team_lunch": [
+    {
+      "name": "Applebee's Grill + Bar",
+      "distance": "0.9 mi",
+      "url": "https://www.google.com/maps/search/Applebee's%20Grill%20%2B%20Bar+near+45.161141099999995%2C-93.8481738"
+    },
+    {
+      "name": "Picadeli",
+      "distance": "1.3 mi",
+      "url": "https://www.google.com/maps/search/Picadeli+near+45.161141099999995%2C-93.8481738"
+    },
+    {
+      "name": "Papa Johns Pizza",
+      "distance": "1.5 mi",
+      "url": "https://www.google.com/maps/search/Papa%20Johns%20Pizza+near+45.161141099999995%2C-93.8481738"
+    }
+  ],
+  "dinner": [
+    {
+      "name": "Buffalo American Legion Post 270",
+      "distance": "0.6 mi",
+      "url": "https://www.google.com/maps/search/Buffalo%20American%20Legion%20Post%20270+near+45.161141099999995%2C-93.8481738"
+    },
+    {
+      "name": "Rancho Grande - Buffalo",
+      "distance": "0.9 mi",
+      "url": "https://www.google.com/maps/search/Rancho%20Grande%20-%20Buffalo+near+45.161141099999995%2C-93.8481738"
+    },
+    {
+      "name": "Norm's Wayside",
+      "distance": "1.1 mi",
+      "url": "https://www.google.com/maps/search/Norm's%20Wayside+near+45.161141099999995%2C-93.8481738"
+    },
+    {
+      "name": "Chicken Shack",
+      "distance": "1.3 mi",
+      "url": "https://www.google.com/maps/search/Chicken%20Shack+near+45.161141099999995%2C-93.8481738"
+    },
+    {
+      "name": "Bugambilias Cocina Latina",
+      "distance": "1.4 mi",
+      "url": "https://www.google.com/maps/search/Bugambilias%20Cocina%20Latina+near+45.161141099999995%2C-93.8481738"
+    },
+    {
+      "name": "Cambo Flare",
+      "distance": "1.5 mi",
+      "url": "https://www.google.com/maps/search/Cambo%20Flare+near+45.161141099999995%2C-93.8481738"
+    },
+    {
+      "name": "Forget Me Not Cafe",
+      "distance": "1.5 mi",
+      "url": "https://www.google.com/maps/search/Forget%20Me%20Not%20Cafe+near+45.161141099999995%2C-93.8481738"
+    }
+  ],
+  "bowling": [
+    {
+      "name": "Huikko's Bowling Center",
+      "distance": "2.2 mi",
+      "url": "https://www.google.com/maps/search/Huikko's%20Bowling%20Center+near+45.161141099999995%2C-93.8481738"
+    },
+    {
+      "name": "River City Extreme",
+      "distance": "8.9 mi",
+      "url": "https://www.google.com/maps/search/River%20City%20Extreme+near+45.161141099999995%2C-93.8481738",
+      "isFar": true
+    },
+    {
+      "name": "Foul Line",
+      "distance": "8.9 mi",
+      "url": "https://www.google.com/maps/search/Foul%20Line+near+45.161141099999995%2C-93.8481738",
+      "isFar": true
+    },
+    {
+      "name": "Delano Lanes & Entertainment Center",
+      "distance": "9.3 mi",
+      "url": "https://www.google.com/maps/search/Delano%20Lanes%20%26%20Entertainment%20Center+near+45.161141099999995%2C-93.8481738",
+      "isFar": true
+    },
+    {
+      "name": "Big Al's Bowling & Bar",
+      "distance": "9.9 mi",
+      "url": "https://www.google.com/maps/search/Big%20Al's%20Bowling%20%26%20Bar+near+45.161141099999995%2C-93.8481738",
+      "isFar": true
+    }
+  ],
+  "arcade": [],
+  "movies": [
+    {
+      "name": "Emagine Delano",
+      "distance": "8.2 mi",
+      "url": "https://www.google.com/maps/search/Emagine%20Delano+near+45.161141099999995%2C-93.8481738",
+      "isFar": true
+    },
+    {
+      "name": "Emagine Monticello",
+      "distance": "8.9 mi",
+      "url": "https://www.google.com/maps/search/Emagine%20Monticello+near+45.161141099999995%2C-93.8481738",
+      "isFar": true
+    }
+  ],
+  "fun": [
+    {
+      "name": "City of Delano Splashpad",
+      "distance": "8.3 mi",
+      "url": "https://www.google.com/maps/search/City%20of%20Delano%20Splashpad+near+45.161141099999995%2C-93.8481738",
+      "isFar": true
+    }
+  ],
+  "hotels": [
+    {
+      "name": "Super 8 by Wyndham Buffalo",
+      "distance": "0.6 mi",
+      "url": "https://www.google.com/maps/search/Super%208%20by%20Wyndham%20Buffalo+near+45.161141099999995%2C-93.8481738"
+    },
+    {
+      "name": "Budget Host Inn Buffalo",
+      "distance": "0.7 mi",
+      "url": "https://www.google.com/maps/search/Budget%20Host%20Inn%20Buffalo+near+45.161141099999995%2C-93.8481738"
+    },
+    {
+      "name": "Buffalo Manor Mobile Home Park",
+      "distance": "0.9 mi",
+      "url": "https://www.google.com/maps/search/Buffalo%20Manor%20Mobile%20Home%20Park+near+45.161141099999995%2C-93.8481738"
+    },
+    {
+      "name": "Country Inn & Suites by Radisson, Buffalo, MN",
+      "distance": "0.9 mi",
+      "url": "https://www.google.com/maps/search/Country%20Inn%20%26%20Suites%20by%20Radisson%2C%20Buffalo%2C%20MN+near+45.161141099999995%2C-93.8481738"
+    },
+    {
+      "name": "Chic Family Home, Walk to Buffalo Lake and Breweries - Holiday Home",
+      "distance": "1.4 mi",
+      "url": "https://www.google.com/maps/search/Chic%20Family%20Home%2C%20Walk%20to%20Buffalo%20Lake%20and%20Breweries%20-%20Holiday%20Home+near+45.161141099999995%2C-93.8481738"
+    },
+    {
+      "name": "Buffalo Getaways",
+      "distance": "1.5 mi",
+      "url": "https://www.google.com/maps/search/Buffalo%20Getaways+near+45.161141099999995%2C-93.8481738"
+    },
+    {
+      "name": "1 acre lake front 4 bedroom home on Buffalo Lake close to Downtown shops.",
+      "distance": "1.6 mi",
+      "url": "https://www.google.com/maps/search/1%20acre%20lake%20front%204%20bedroom%20home%20on%20Buffalo%20Lake%20close%20to%20Downtown%20shops.+near+45.161141099999995%2C-93.8481738"
+    }
+  ],
+  "gas": [
+    {
+      "name": "Kwik Trip",
+      "distance": "0.4 mi",
+      "url": "https://www.google.com/maps/search/Kwik%20Trip+near+45.161141099999995%2C-93.8481738"
+    },
+    {
+      "name": "Speedway",
+      "distance": "0.7 mi",
+      "url": "https://www.google.com/maps/search/Speedway+near+45.161141099999995%2C-93.8481738"
+    },
+    {
+      "name": "Express Lane",
+      "distance": "1.0 mi",
+      "url": "https://www.google.com/maps/search/Express%20Lane+near+45.161141099999995%2C-93.8481738"
+    },
+    {
+      "name": "Marathon",
+      "distance": "1.2 mi",
+      "url": "https://www.google.com/maps/search/Marathon+near+45.161141099999995%2C-93.8481738"
+    },
+    {
+      "name": "Coborn's Express",
+      "distance": "1.3 mi",
+      "url": "https://www.google.com/maps/search/Coborn's%20Express+near+45.161141099999995%2C-93.8481738"
+    }
+  ]
+}

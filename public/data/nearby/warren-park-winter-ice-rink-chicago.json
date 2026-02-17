@@ -1,0 +1,185 @@
+{
+  "quick_bite": [
+    {
+      "name": "KFC",
+      "distance": "0.2 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=KFC&query_place_id=ChIJad93YNrRD4gRJRhpEtOGVs4&center=42.0042847,-87.6903858"
+    },
+    {
+      "name": "Tahoora Sweets & Bakery",
+      "distance": "0.3 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Tahoora%20Sweets%20%26%20Bakery&query_place_id=ChIJSePZG93RD4gRKPqsofmWZps&center=41.9974987,-87.6892781"
+    },
+    {
+      "name": "Wendy's",
+      "distance": "0.4 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Wendy's&query_place_id=ChIJbwm4dN3RD4gRhGH-1O4AdYg&center=41.996793,-87.6901639"
+    },
+    {
+      "name": "Saba Pan Shop",
+      "distance": "0.4 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Saba%20Pan%20Shop&query_place_id=ChIJW49WzifRD4gRG1vaF34lMjI&center=41.997796099999995,-87.69274569999999"
+    },
+    {
+      "name": "Jimmy John's",
+      "distance": "0.6 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Jimmy%20John's&query_place_id=ChIJcxaA-ObRD4gR3GnHcaLsshw&center=41.9928387,-87.6902116"
+    },
+    {
+      "name": "Subway",
+      "distance": "0.7 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Subway&query_place_id=ChIJkeylWyDOD4gRmIMMFIuqp6Y&center=41.9977702,-87.69919"
+    }
+  ],
+  "coffee": [
+    {
+      "name": "Heavenly Treats Healthy Café",
+      "distance": "0.3 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Heavenly%20Treats%20Healthy%20Caf%C3%A9&query_place_id=ChIJh_VdVELRD4gR24fE_I1KHQQ&center=41.9985424,-87.68472090000002"
+    },
+    {
+      "name": "ClimbZone Chicago",
+      "distance": "3.6 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=ClimbZone%20Chicago&query_place_id=ChIJ7RWfavfTD4gR689_KGnj-QQ&center=41.9501539,-87.69231769999999",
+      "isFar": true
+    }
+  ],
+  "team_lunch": [
+    {
+      "name": "Moghlai-Kitchen",
+      "distance": "0.3 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Moghlai-Kitchen&query_place_id=ChIJTaPBSwDRD4gR4VT7MGcyHfQ&center=41.998623699999996,-87.6901027"
+    },
+    {
+      "name": "AL - Kabeer Restaurant",
+      "distance": "0.3 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=AL%20-%20Kabeer%20Restaurant&query_place_id=ChIJm3fJN4zRD4gRHkjQbf-YoQs&center=41.998623699999996,-87.6901027"
+    },
+    {
+      "name": "Bawarchi",
+      "distance": "0.3 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Bawarchi&query_place_id=ChIJmVIVMtLRD4gRv69XnIv2-IM&center=41.9980517,-87.6876024"
+    },
+    {
+      "name": "Usmania Fine Dining",
+      "distance": "0.3 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Usmania%20Fine%20Dining&query_place_id=ChIJsXGF2MLRD4gRAnhcpO-Mu0w&center=41.9980925,-87.686887"
+    },
+    {
+      "name": "TAWAKKUL RESTAURANT",
+      "distance": "0.3 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=TAWAKKUL%20RESTAURANT&query_place_id=ChIJ6-WW5ZHRD4gRDuLnboloUEw&center=41.9981303,-87.68882289999999"
+    },
+    {
+      "name": "New York Halal Pizza",
+      "distance": "0.3 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=New%20York%20Halal%20Pizza&query_place_id=ChIJAQBw1sLRD4gRgR1EXX2ZhFM&center=41.9979521,-87.68727710000002"
+    }
+  ],
+  "dinner": [
+    {
+      "name": "HFCC Eats",
+      "distance": "0.3 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=HFCC%20Eats&query_place_id=ChIJ8_yxJ0TRD4gRMsqI7qCTYno&center=41.998623599999995,-87.6901008"
+    },
+    {
+      "name": "King Sweets Restaurant",
+      "distance": "0.3 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=King%20Sweets%20Restaurant&query_place_id=ChIJM827K93RD4gRiOD968XpUgE&center=41.998005899999995,-87.68790899999999"
+    },
+    {
+      "name": "Halal Food Studio",
+      "distance": "0.3 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Halal%20Food%20Studio&query_place_id=ChIJWwDmHwzRD4gRXMMk_5VgbmM&center=41.9980899,-87.68602229999999"
+    },
+    {
+      "name": "Dastarkhwan",
+      "distance": "0.3 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Dastarkhwan&query_place_id=ChIJ6_lgtAnRD4gRexfcTVaoamU&center=41.998277,-87.69026699999999"
+    },
+    {
+      "name": "Taquería Mondragón",
+      "distance": "0.3 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Taquer%C3%ADa%20Mondrag%C3%B3n&query_place_id=ChIJlZAeyKzRD4gRooWEUAQjcBg&center=41.9980285,-87.6858604"
+    },
+    {
+      "name": "Pak Sweets",
+      "distance": "0.3 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Pak%20Sweets&query_place_id=ChIJC68dJN3RD4gRdV1oMWjWAUo&center=41.997848999999995,-87.68854499999999"
+    }
+  ],
+  "bowling": [
+    {
+      "name": "Timber Lanes Bowling Alley",
+      "distance": "3.4 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Timber%20Lanes%20Bowling%20Alley&query_place_id=ChIJW9hNW0DSD4gRRSgIPp6bD70&center=41.9539729,-87.67611409999999",
+      "isFar": true
+    },
+    {
+      "name": "Waveland Bowl",
+      "distance": "3.7 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Waveland%20Bowl&query_place_id=ChIJhyTEzHHSD4gRaYbCaJ_fWCM&center=41.948729199999995,-87.68863089999999",
+      "isFar": true
+    }
+  ],
+  "arcade": [],
+  "movies": [
+    {
+      "name": "Davis Theater, Chicago",
+      "distance": "2.5 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Davis%20Theater%2C%20Chicago&query_place_id=ChIJF-WvDRDSD4gRdJs_AjKy9L4&center=41.965306,-87.686599"
+    },
+    {
+      "name": "AMC Evanston 12",
+      "distance": "3.3 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=AMC%20Evanston%2012&query_place_id=ChIJa3YWHfrRD4gRoh0YNYFFzYE&center=42.0490201,-87.68438189999999",
+      "isFar": true
+    },
+    {
+      "name": "Music Box Theatre",
+      "distance": "3.8 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Music%20Box%20Theatre&query_place_id=ChIJzy-bW7DTD4gR0s0jCuNMinA&center=41.94985,-87.6638528",
+      "isFar": true
+    }
+  ],
+  "fun": [
+    {
+      "name": "Warren Park Winter Sled Hill",
+      "distance": "0.1 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Warren%20Park%20Winter%20Sled%20Hill&query_place_id=ChIJSy7l6cTRD4gRJ4ajrUsXthg&center=42.0020294,-87.6863905"
+    },
+    {
+      "name": "Indian Boundary Park Water Park",
+      "distance": "0.6 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Indian%20Boundary%20Park%20Water%20Park&query_place_id=ChIJsSZwtWfRD4gRZdKddiq6WcM&center=42.0099466,-87.6927041"
+    },
+    {
+      "name": "WhereChicago",
+      "distance": "0.6 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=WhereChicago&query_place_id=ChIJnbuA5WHRD4gRVmkeX_HqGaw&center=41.992972,-87.688825"
+    },
+    {
+      "name": "Chippewa Park Water Spray Feature",
+      "distance": "0.9 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Chippewa%20Park%20Water%20Spray%20Feature&query_place_id=ChIJuT_bAADPD4gRIJ33_Bz-El0&center=42.004110399999995,-87.7053139"
+    }
+  ],
+  "hotels": [],
+  "gas": [
+    {
+      "name": "Mobil",
+      "distance": "0.2 mi",
+      "url": "https://www.google.com/maps/search/Mobil+near+42.002020699999996%2C-87.68768209999999"
+    },
+    {
+      "name": "Shell",
+      "distance": "0.6 mi",
+      "url": "https://www.google.com/maps/search/Shell+near+42.002020699999996%2C-87.68768209999999"
+    },
+    {
+      "name": "bp",
+      "distance": "0.7 mi",
+      "url": "https://www.google.com/maps/search/bp+near+42.002020699999996%2C-87.68768209999999"
+    }
+  ]
+}

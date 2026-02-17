@@ -1,0 +1,202 @@
+{
+  "quick_bite": [
+    {
+      "name": "Jersey Mike's Subs",
+      "distance": "0.4 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Jersey%20Mike's%20Subs&query_place_id=ChIJjV-DG4wN04kRI5TvwmWXAq0&center=42.9060189,-78.7539273"
+    },
+    {
+      "name": "Wendy's",
+      "distance": "0.5 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Wendy's&query_place_id=ChIJgUPKNQgL04kRvJUGxKtUkhc&center=42.9088875,-78.7427326"
+    },
+    {
+      "name": "Subway",
+      "distance": "0.5 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Subway&query_place_id=ChIJi8KJal4L04kR4jROt1OYJ7c&center=42.909905300000005,-78.7441631"
+    },
+    {
+      "name": "Popeyes Louisiana Kitchen",
+      "distance": "0.6 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Popeyes%20Louisiana%20Kitchen&query_place_id=ChIJRVkBSJ0N04kRgNprsY9Q0hs&center=42.9093042,-78.7537614"
+    }
+  ],
+  "coffee": [
+    {
+      "name": "Dunkin'",
+      "distance": "0.4 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Dunkin'&query_place_id=ChIJc1hr4Z4M04kRXo5CKZjyKnU&center=42.9066487,-78.7523578"
+    },
+    {
+      "name": "Tim Hortons",
+      "distance": "0.5 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Tim%20Hortons&query_place_id=ChIJ89ZfzpgM04kRsThXYy5eDuo&center=42.908498,-78.7537028"
+    }
+  ],
+  "team_lunch": [
+    {
+      "name": "Zhang's Buffet",
+      "distance": "0.7 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Zhang's%20Buffet&query_place_id=ChIJJSZsG6IM04kRCn4n_SufoHc&center=42.9108476,-78.75374149999999"
+    },
+    {
+      "name": "Bozzy's Pizzeria",
+      "distance": "0.8 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Bozzy's%20Pizzeria&query_place_id=ChIJHVe_EfYN04kRSwmIgBi3fs0&center=42.8936358,-78.754858"
+    },
+    {
+      "name": "Mighty Taco",
+      "distance": "0.8 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Mighty%20Taco&query_place_id=ChIJd4y9EJcM04kRFMasURg_L1E&center=42.9077778,-78.7611111"
+    },
+    {
+      "name": "Mrs. Fields - Walden Galleria",
+      "distance": "1.1 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Mrs.%20Fields%20-%20Walden%20Galleria&query_place_id=ChIJJys7FMcsDogRWExwsk-qVho&center=42.9125079,-78.7629312"
+    },
+    {
+      "name": "Auntie Anne's",
+      "distance": "1.1 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Auntie%20Anne's&query_place_id=ChIJPYgThnsN04kR4uWylaHbdfY&center=42.912588899999996,-78.7629031"
+    }
+  ],
+  "dinner": [
+    {
+      "name": "Alton's Restaurant - Cheektowaga",
+      "distance": "0.5 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Alton's%20Restaurant%20-%20Cheektowaga&query_place_id=ChIJN967Kp8M04kRyykuxxQKT7U&center=42.9076832,-78.7529212"
+    },
+    {
+      "name": "White Rabbit Dessert Experience",
+      "distance": "0.6 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=White%20Rabbit%20Dessert%20Experience&query_place_id=ChIJnd1dz5sN04kRVIQHONFHpLo&center=42.907861,-78.7571535"
+    },
+    {
+      "name": "Bobby J's Italian American Grille",
+      "distance": "0.7 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Bobby%20J's%20Italian%20American%20Grille&query_place_id=ChIJqWTmCIEM04kRokxoTyemA0Q&center=42.8934564,-78.7499814"
+    },
+    {
+      "name": "J J's Texas Hots",
+      "distance": "0.8 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=J%20J's%20Texas%20Hots&query_place_id=ChIJETon4IYM04kRMf9JJbibHfY&center=42.893429399999995,-78.75483489999999"
+    },
+    {
+      "name": "Bellevue Hotel",
+      "distance": "0.8 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Bellevue%20Hotel&query_place_id=ChIJw8il7XkL04kRGrIPOAOdGFc&center=42.8934279,-78.7377266"
+    },
+    {
+      "name": "DiBella's Subs",
+      "distance": "1.3 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=DiBella's%20Subs&query_place_id=ChIJFe6HRq8M04kRFOQj6hL277E&center=42.9210768,-78.7547642"
+    }
+  ],
+  "bowling": [
+    {
+      "name": "Broadway Sports Center",
+      "distance": "0.1 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Broadway%20Sports%20Center&query_place_id=ChIJtfcKIWIL04kRuFUdFJ2TIms&center=42.9042641,-78.74630719999999"
+    },
+    {
+      "name": "Spare Time Bowling Center",
+      "distance": "1.5 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Spare%20Time%20Bowling%20Center&query_place_id=ChIJBTxFzGUM04kRFyWQh5g2YDY&center=42.8845117,-78.76383489999999"
+    },
+    {
+      "name": "AMF Airport Lanes",
+      "distance": "1.8 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=AMF%20Airport%20Lanes&query_place_id=ChIJCx-KsKp004kRCtAx93ABNRk&center=42.929005499999995,-78.7469479"
+    }
+  ],
+  "arcade": [],
+  "movies": [
+    {
+      "name": "Buffalo Outdoor Movies",
+      "distance": "0.7 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Buffalo%20Outdoor%20Movies&query_place_id=ChIJXcKhvodt04kRK8fYKnwDMoE&center=42.904962499999996,-78.7324915"
+    },
+    {
+      "name": "Regal Walden Galleria",
+      "distance": "1.2 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Regal%20Walden%20Galleria&query_place_id=ChIJq6qqqroM04kRQyWWkLOA4yc&center=42.9151126,-78.7627086"
+    },
+    {
+      "name": "FLIX STADIUM 10",
+      "distance": "3.2 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=FLIX%20STADIUM%2010&query_place_id=ChIJw17yIVIK04kRBcPmML7vysU&center=42.878146099999995,-78.69403679999999",
+      "isFar": true
+    }
+  ],
+  "fun": [
+    {
+      "name": "Get Air Trampoline Park",
+      "distance": "0.7 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Get%20Air%20Trampoline%20Park&query_place_id=ChIJgamDeaEM04kRzwsQpeEbVas&center=42.9127723,-78.7512376"
+    },
+    {
+      "name": "Funcity Adventure Park",
+      "distance": "1.0 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Funcity%20Adventure%20Park&query_place_id=ChIJhb51jBkN04kR2Rs5z2qXDK0&center=42.916674199999996,-78.7509948"
+    },
+    {
+      "name": "Urban Air Trampoline and Adventure Park",
+      "distance": "1.1 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Urban%20Air%20Trampoline%20and%20Adventure%20Park&query_place_id=ChIJq-2YD2EN04kRBgRGLP-R0lg&center=42.914078599999996,-78.7612388"
+    },
+    {
+      "name": "5 Wits Buffalo",
+      "distance": "1.1 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=5%20Wits%20Buffalo&query_place_id=ChIJiamJ670M04kRnahubHkHvQE&center=42.915231899999995,-78.7615946"
+    }
+  ],
+  "hotels": [
+    {
+      "name": "Safe Large Parking Quiet Laundry AC BBQ Patio",
+      "distance": "0.4 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Safe%20Large%20Parking%20Quiet%20Laundry%20AC%20BBQ%20Patio&query_place_id=ChIJyw5meWYL04kRRThwCc9pS24&center=42.904113699999996,-78.7386551"
+    },
+    {
+      "name": "Huge Best Parking Laundry AC BBQ Patio",
+      "distance": "0.4 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Huge%20Best%20Parking%20Laundry%20AC%20BBQ%20Patio&query_place_id=ChIJyw5meWYL04kRCXA5uY8uzEQ&center=42.904113699999996,-78.7386551"
+    },
+    {
+      "name": "Best Parking AC Laundry BBQ Patio",
+      "distance": "0.4 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Best%20Parking%20AC%20Laundry%20BBQ%20Patio&query_place_id=ChIJyZLCe2YL04kRf1wQx9bI9uQ&center=42.904193899999996,-78.73867039999999"
+    },
+    {
+      "name": "Baymont by Wyndham Buffalo",
+      "distance": "0.5 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Baymont%20by%20Wyndham%20Buffalo&query_place_id=ChIJW3VlxpgM04kRoR6B9unN2lY&center=42.9082643,-78.75245629999999"
+    },
+    {
+      "name": "KING Master En-Suite- BRAND NEW Home- Buffalo's Best Kept Secret!",
+      "distance": "0.8 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=KING%20Master%20En-Suite-%20BRAND%20NEW%20Home-%20Buffalo's%20Best%20Kept%20Secret!&query_place_id=ChIJMSTRTKIM04kRAWF1LjeCQOs&center=42.912677699999996,-78.7552109"
+    }
+  ],
+  "gas": [
+    {
+      "name": "Kwik Fill",
+      "distance": "0.4 mi",
+      "url": "https://www.google.com/maps/search/Kwik%20Fill+near+42.9028618%2C-78.746524"
+    },
+    {
+      "name": "Truck Stop W Parking",
+      "distance": "0.7 mi",
+      "url": "https://www.google.com/maps/search/Truck%20Stop%20W%20Parking+near+42.9028618%2C-78.746524"
+    },
+    {
+      "name": "Sunoco",
+      "distance": "0.7 mi",
+      "url": "https://www.google.com/maps/search/Sunoco+near+42.9028618%2C-78.746524"
+    },
+    {
+      "name": "Atlas Convenience",
+      "distance": "1.2 mi",
+      "url": "https://www.google.com/maps/search/Atlas%20Convenience+near+42.9028618%2C-78.746524"
+    }
+  ]
+}

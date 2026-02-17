@@ -1,0 +1,259 @@
+{
+  "quick_bite": [
+    {
+      "name": "Jimmy John's",
+      "distance": "0.6 mi",
+      "url": "https://www.google.com/maps/search/Jimmy%20John's+near+44.8711564%2C-93.3604027"
+    },
+    {
+      "name": "Burger King",
+      "distance": "0.6 mi",
+      "url": "https://www.google.com/maps/search/Burger%20King+near+44.8711564%2C-93.3604027"
+    },
+    {
+      "name": "Hangry Joe's Hot Chicken & Wings",
+      "distance": "0.6 mi",
+      "url": "https://www.google.com/maps/search/Hangry%20Joe's%20Hot%20Chicken%20%26%20Wings+near+44.8711564%2C-93.3604027"
+    },
+    {
+      "name": "Subway",
+      "distance": "0.6 mi",
+      "url": "https://www.google.com/maps/search/Subway+near+44.8711564%2C-93.3604027"
+    }
+  ],
+  "coffee": [
+    {
+      "name": "Edina Coffee Roasters",
+      "distance": "0.4 mi",
+      "url": "https://www.google.com/maps/search/Edina%20Coffee%20Roasters+near+44.8711564%2C-93.3604027"
+    },
+    {
+      "name": "Starbucks Coffee Company",
+      "distance": "0.6 mi",
+      "url": "https://www.google.com/maps/search/Starbucks%20Coffee%20Company+near+44.8711564%2C-93.3604027"
+    },
+    {
+      "name": "Caribou Coffee",
+      "distance": "0.6 mi",
+      "url": "https://www.google.com/maps/search/Caribou%20Coffee+near+44.8711564%2C-93.3604027"
+    }
+  ],
+  "team_lunch": [
+    {
+      "name": "Asian House",
+      "distance": "0.3 mi",
+      "url": "https://www.google.com/maps/search/Asian%20House+near+44.8711564%2C-93.3604027"
+    },
+    {
+      "name": "Imperial House Chinese Restaurant",
+      "distance": "0.3 mi",
+      "url": "https://www.google.com/maps/search/Imperial%20House%20Chinese%20Restaurant+near+44.8711564%2C-93.3604027"
+    },
+    {
+      "name": "Edina Eatery",
+      "distance": "0.4 mi",
+      "url": "https://www.google.com/maps/search/Edina%20Eatery+near+44.8711564%2C-93.3604027"
+    },
+    {
+      "name": "Hero",
+      "distance": "0.4 mi",
+      "url": "https://www.google.com/maps/search/Hero+near+44.8711564%2C-93.3604027"
+    },
+    {
+      "name": "DQFanFeedback",
+      "distance": "0.5 mi",
+      "url": "https://www.google.com/maps/search/DQFanFeedback+near+44.8711564%2C-93.3604027"
+    }
+  ],
+  "dinner": [
+    {
+      "name": "TJ's of Edina Restaurant",
+      "distance": "0.2 mi",
+      "url": "https://www.google.com/maps/search/TJ's%20of%20Edina%20Restaurant+near+44.8711564%2C-93.3604027"
+    },
+    {
+      "name": "Cahill Bistro",
+      "distance": "0.3 mi",
+      "url": "https://www.google.com/maps/search/Cahill%20Bistro+near+44.8711564%2C-93.3604027"
+    },
+    {
+      "name": "Muddy Tiger Bistro",
+      "distance": "0.3 mi",
+      "url": "https://www.google.com/maps/search/Muddy%20Tiger%20Bistro+near+44.8711564%2C-93.3604027"
+    },
+    {
+      "name": "Muddy Tiger Indian Food Truck",
+      "distance": "0.3 mi",
+      "url": "https://www.google.com/maps/search/Muddy%20Tiger%20Indian%20Food%20Truck+near+44.8711564%2C-93.3604027"
+    },
+    {
+      "name": "Queen Of Cakes",
+      "distance": "0.3 mi",
+      "url": "https://www.google.com/maps/search/Queen%20Of%20Cakes+near+44.8711564%2C-93.3604027"
+    },
+    {
+      "name": "JK's Table",
+      "distance": "0.5 mi",
+      "url": "https://www.google.com/maps/search/JK's%20Table+near+44.8711564%2C-93.3604027"
+    },
+    {
+      "name": "Taco Libre",
+      "distance": "0.6 mi",
+      "url": "https://www.google.com/maps/search/Taco%20Libre+near+44.8711564%2C-93.3604027"
+    }
+  ],
+  "bowling": [
+    {
+      "name": "AMF Southtown Lanes",
+      "distance": "2.9 mi",
+      "url": "https://www.google.com/maps/search/AMF%20Southtown%20Lanes+near+44.8711564%2C-93.3604027"
+    },
+    {
+      "name": "Bowlero Eden Prairie",
+      "distance": "3.6 mi",
+      "url": "https://www.google.com/maps/search/Bowlero%20Eden%20Prairie+near+44.8711564%2C-93.3604027",
+      "isFar": true
+    },
+    {
+      "name": "Tuttle's Eat Bowl Play",
+      "distance": "4.8 mi",
+      "url": "https://www.google.com/maps/search/Tuttle's%20Eat%20Bowl%20Play+near+44.8711564%2C-93.3604027",
+      "isFar": true
+    }
+  ],
+  "arcade": [],
+  "movies": [
+    {
+      "name": "AMC Southdale 16",
+      "distance": "1.8 mi",
+      "url": "https://www.google.com/maps/search/AMC%20Southdale%2016+near+44.8711564%2C-93.3604027"
+    },
+    {
+      "name": "Edina Mann Theatre",
+      "distance": "3.2 mi",
+      "url": "https://www.google.com/maps/search/Edina%20Mann%20Theatre+near+44.8711564%2C-93.3604027",
+      "isFar": true
+    },
+    {
+      "name": "AMC Eden Prairie Mall 18",
+      "distance": "3.4 mi",
+      "url": "https://www.google.com/maps/search/AMC%20Eden%20Prairie%20Mall%2018+near+44.8711564%2C-93.3604027",
+      "isFar": true
+    },
+    {
+      "name": "Backyard Theater Systems",
+      "distance": "4.2 mi",
+      "url": "https://www.google.com/maps/search/Backyard%20Theater%20Systems+near+44.8711564%2C-93.3604027",
+      "isFar": true
+    },
+    {
+      "name": "Hopkins Community Cinema",
+      "distance": "4.6 mi",
+      "url": "https://www.google.com/maps/search/Hopkins%20Community%20Cinema+near+44.8711564%2C-93.3604027",
+      "isFar": true
+    }
+  ],
+  "fun": [
+    {
+      "name": "Sky Zone Trampoline Park",
+      "distance": "0.4 mi",
+      "url": "https://www.google.com/maps/search/Sky%20Zone%20Trampoline%20Park+near+44.8711564%2C-93.3604027"
+    },
+    {
+      "name": "Missing Pieces Escape Games",
+      "distance": "0.6 mi",
+      "url": "https://www.google.com/maps/search/Missing%20Pieces%20Escape%20Games+near+44.8711564%2C-93.3604027"
+    },
+    {
+      "name": "Lock and Key Escape Rooms",
+      "distance": "1.9 mi",
+      "url": "https://www.google.com/maps/search/Lock%20and%20Key%20Escape%20Rooms+near+44.8711564%2C-93.3604027"
+    },
+    {
+      "name": "Pump It Up Eden Prairie Kids Birthdays and More",
+      "distance": "2.0 mi",
+      "url": "https://www.google.com/maps/search/Pump%20It%20Up%20Eden%20Prairie%20Kids%20Birthdays%20and%20More+near+44.8711564%2C-93.3604027"
+    },
+    {
+      "name": "Edinborough Park",
+      "distance": "2.0 mi",
+      "url": "https://www.google.com/maps/search/Edinborough%20Park+near+44.8711564%2C-93.3604027"
+    },
+    {
+      "name": "Sandbox VR",
+      "distance": "3.4 mi",
+      "url": "https://www.google.com/maps/search/Sandbox%20VR+near+44.8711564%2C-93.3604027",
+      "isFar": true
+    },
+    {
+      "name": "Game Show Studio Eden Prairie",
+      "distance": "3.4 mi",
+      "url": "https://www.google.com/maps/search/Game%20Show%20Studio%20Eden%20Prairie+near+44.8711564%2C-93.3604027",
+      "isFar": true
+    }
+  ],
+  "hotels": [
+    {
+      "name": "DoubleTree by Hilton Hotel Bloomington - Minneapolis South",
+      "distance": "0.7 mi",
+      "url": "https://www.google.com/maps/search/DoubleTree%20by%20Hilton%20Hotel%20Bloomington%20-%20Minneapolis%20South+near+44.8711564%2C-93.3604027"
+    },
+    {
+      "name": "Parking",
+      "distance": "0.8 mi",
+      "url": "https://www.google.com/maps/search/Parking+near+44.8711564%2C-93.3604027"
+    },
+    {
+      "name": "Sheraton Bloomington Hotel",
+      "distance": "0.8 mi",
+      "url": "https://www.google.com/maps/search/Sheraton%20Bloomington%20Hotel+near+44.8711564%2C-93.3604027"
+    },
+    {
+      "name": "A Twin Cities stay with easy airport access",
+      "distance": "0.8 mi",
+      "url": "https://www.google.com/maps/search/A%20Twin%20Cities%20stay%20with%20easy%20airport%20access+near+44.8711564%2C-93.3604027"
+    },
+    {
+      "name": "Hampton comfort outside Minneapolis",
+      "distance": "0.9 mi",
+      "url": "https://www.google.com/maps/search/Hampton%20comfort%20outside%20Minneapolis+near+44.8711564%2C-93.3604027"
+    },
+    {
+      "name": "Renaissance Minneapolis Bloomington Hotel",
+      "distance": "1.1 mi",
+      "url": "https://www.google.com/maps/search/Renaissance%20Minneapolis%20Bloomington%20Hotel+near+44.8711564%2C-93.3604027"
+    },
+    {
+      "name": "Holiday Inn Bloomington W Msp Airport Area by IHG",
+      "distance": "1.1 mi",
+      "url": "https://www.google.com/maps/search/Holiday%20Inn%20Bloomington%20W%20Msp%20Airport%20Area%20by%20IHG+near+44.8711564%2C-93.3604027"
+    }
+  ],
+  "gas": [
+    {
+      "name": "Holiday",
+      "distance": "0.6 mi",
+      "url": "https://www.google.com/maps/search/Holiday+near+44.8711564%2C-93.3604027"
+    },
+    {
+      "name": "Circle K",
+      "distance": "1.4 mi",
+      "url": "https://www.google.com/maps/search/Circle%20K+near+44.8711564%2C-93.3604027"
+    },
+    {
+      "name": "Holiday",
+      "distance": "1.4 mi",
+      "url": "https://www.google.com/maps/search/Holiday+near+44.8711564%2C-93.3604027"
+    },
+    {
+      "name": "Gas Station",
+      "distance": "1.7 mi",
+      "url": "https://www.google.com/maps/search/Gas%20Station+near+44.8711564%2C-93.3604027"
+    },
+    {
+      "name": "Mobil",
+      "distance": "1.7 mi",
+      "url": "https://www.google.com/maps/search/Mobil+near+44.8711564%2C-93.3604027"
+    }
+  ]
+}

@@ -1,0 +1,211 @@
+{
+  "quick_bite": [
+    {
+      "name": "Jersey Mike's Subs",
+      "distance": "0.8 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Jersey%20Mike's%20Subs&query_place_id=ChIJd37poirJ5IkRzhmuPc1vpZU&center=41.7520214,-70.5943015"
+    },
+    {
+      "name": "Subway",
+      "distance": "3.6 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Subway&query_place_id=ChIJF_Bp2QfP5IkRvZIMXPR-nF4&center=41.6990693,-70.58566139999999",
+      "isFar": true
+    },
+    {
+      "name": "Lilly’s Cafe",
+      "distance": "3.7 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Lilly%E2%80%99s%20Cafe&query_place_id=ChIJjWugBQDL5IkRG4lvWB29yYI&center=41.749156,-70.50651189999999",
+      "isFar": true
+    },
+    {
+      "name": "canal pizza",
+      "distance": "3.9 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=canal%20pizza&query_place_id=ChIJ27UgESXL5IkRh51g1GrQeCc&center=41.766838500000006,-70.5063603",
+      "isFar": true
+    },
+    {
+      "name": "Taco Bell / KFC",
+      "distance": "4.3 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Taco%20Bell%20%2F%20KFC&query_place_id=ChIJc6Z4y2TG5IkRs1gxcEIH6fY&center=41.7581148,-70.6605846",
+      "isFar": true
+    },
+    {
+      "name": "Snack Shack",
+      "distance": "4.4 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Snack%20Shack&query_place_id=ChIJHZJ3PQDL5IkRFJexMtawn4k&center=41.752484599999995,-70.4932577",
+      "isFar": true
+    }
+  ],
+  "coffee": [
+    {
+      "name": "Dunkin'",
+      "distance": "0.6 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Dunkin'&query_place_id=ChIJefZn3M_I5IkRBzDD6Fe54jU&center=41.7441454,-70.5865185"
+    },
+    {
+      "name": "Dunkin'",
+      "distance": "0.8 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Dunkin'&query_place_id=ChIJXZnJN8HI5IkRBSPVy5L_Two&center=41.7520938,-70.593665"
+    },
+    {
+      "name": "Starbucks Coffee Company",
+      "distance": "0.8 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Starbucks%20Coffee%20Company&query_place_id=ChIJc4oKLcHI5IkREnvEAnLQtMs&center=41.751889999999996,-70.59427"
+    },
+    {
+      "name": "Honey Dew Donuts",
+      "distance": "1.0 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Honey%20Dew%20Donuts&query_place_id=ChIJa6L_mrjI5IkRe-c48hjHOns&center=41.7509143,-70.5984101"
+    },
+    {
+      "name": "Dunkin'",
+      "distance": "1.1 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Dunkin'&query_place_id=ChIJRXWPjrjI5IkRmfViSOa6mwM&center=41.750872199999996,-70.5988445"
+    }
+  ],
+  "team_lunch": [
+    {
+      "name": "Bridge View Grill",
+      "distance": "0.8 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Bridge%20View%20Grill&query_place_id=ChIJXXvKRPPJ5IkRzTW4LCi1Nic&center=41.7430223,-70.58963"
+    },
+    {
+      "name": "Domino’s",
+      "distance": "0.8 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Domino%E2%80%99s&query_place_id=ChIJVZspfr7J5IkRqqTU306a9Fg&center=41.7519518,-70.5944777"
+    },
+    {
+      "name": "Way Ho Restaurant",
+      "distance": "1.0 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Way%20Ho%20Restaurant&query_place_id=ChIJbRjRX8fI5IkRwOZVgsbJAiY&center=41.7512626,-70.59780119999999"
+    },
+    {
+      "name": "Sarah's Sourdough Bakery",
+      "distance": "3.6 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Sarah's%20Sourdough%20Bakery&query_place_id=ChIJwWA7di7L5IkRvfKYUGobIzw&center=41.7853747,-70.5262377",
+      "isFar": true
+    },
+    {
+      "name": "D'Angelo Grilled Sandwiches",
+      "distance": "4.6 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=D'Angelo%20Grilled%20Sandwiches&query_place_id=ChIJNUA8X9XH5IkRyFE2tykfZ-s&center=41.7594378,-70.6660008",
+      "isFar": true
+    }
+  ],
+  "dinner": [
+    {
+      "name": "The Seaweed Shack",
+      "distance": "0.1 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=The%20Seaweed%20Shack&query_place_id=ChIJAYe6DjLJ5IkRaxC0vUNthvQ&center=41.750698799999995,-70.5784575"
+    },
+    {
+      "name": "Grill & More",
+      "distance": "0.8 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Grill%20%26%20More&query_place_id=ChIJTfaQTADJ5IkRRTj04Hh7pUo&center=41.7514391,-70.59349259999999"
+    },
+    {
+      "name": "Sub-Marines",
+      "distance": "1.1 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Sub-Marines&query_place_id=ChIJx_-Sdb7J5IkR0snRwc7wT_0&center=41.751041,-70.598531"
+    },
+    {
+      "name": "Buzzards Bay House of Pizza",
+      "distance": "1.1 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Buzzards%20Bay%20House%20of%20Pizza&query_place_id=ChIJuxZQ9LjI5IkRdG_gfZU6aIM&center=41.750676,-70.599509"
+    },
+    {
+      "name": "Mezza Luna Restaurant",
+      "distance": "1.2 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Mezza%20Luna%20Restaurant&query_place_id=ChIJD_-pmLnI5IkR9FBcmV14fSs&center=41.75044,-70.602347"
+    },
+    {
+      "name": "Leo's Breakfast Restaurant",
+      "distance": "1.3 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Leo's%20Breakfast%20Restaurant&query_place_id=ChIJsai6kbnI5IkRBNoWbrpRj54&center=41.750118,-70.60306299999999"
+    }
+  ],
+  "bowling": [
+    {
+      "name": "Ryan Family Amusements- Buzzards Bay",
+      "distance": "1.5 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Ryan%20Family%20Amusements-%20Buzzards%20Bay&query_place_id=ChIJ4VcKVrDI5IkRLPGWU50G5N0&center=41.748062399999995,-70.6068542"
+    }
+  ],
+  "arcade": [],
+  "movies": [],
+  "fun": [
+    {
+      "name": "Scusset Fishing Pier",
+      "distance": "3.5 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Scusset%20Fishing%20Pier&query_place_id=ChIJ2UPXWQDL5IkRmlrf5e-XpOs&center=41.7741287,-70.5175512",
+      "isFar": true
+    },
+    {
+      "name": "Flume Fountain",
+      "distance": "3.7 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Flume%20Fountain&query_place_id=ChIJgdWtecPL5IkRNUGQc3DVlWI&center=41.748729999999995,-70.5072512",
+      "isFar": true
+    },
+    {
+      "name": "Cartland of Cape Cod",
+      "distance": "3.9 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Cartland%20of%20Cape%20Cod&query_place_id=ChIJ24coLXDG5IkRABGYndrNN60&center=41.7572055,-70.6541123",
+      "isFar": true
+    },
+    {
+      "name": "Water Wizz of Cape Cod",
+      "distance": "4.2 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Water%20Wizz%20of%20Cape%20Cod&query_place_id=ChIJWeb1r3rG5IkR4iKoXOOH2QU&center=41.757417499999995,-70.6583157",
+      "isFar": true
+    }
+  ],
+  "hotels": [
+    {
+      "name": "Bourne Scenic Park",
+      "distance": "0.6 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Bourne%20Scenic%20Park&query_place_id=ChIJv8MGiMPI5IkRGxvi8V3UfW0&center=41.750853,-70.58989199999999"
+    },
+    {
+      "name": "All Seasons Inn & Suites",
+      "distance": "0.8 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=All%20Seasons%20Inn%20%26%20Suites&query_place_id=ChIJs8QRQ87I5IkRzOuKqZqG74Q&center=41.7423709,-70.58830859999999"
+    },
+    {
+      "name": "Nickerson-Bourne",
+      "distance": "0.8 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Nickerson-Bourne&query_place_id=ChIJVaJgB87I5IkRdXE_D_b2_Bo&center=41.7408692,-70.58646159999999"
+    },
+    {
+      "name": "Quality Inn Bourne - Cape Cod",
+      "distance": "0.8 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Quality%20Inn%20Bourne%20-%20Cape%20Cod&query_place_id=ChIJRdSqi87I5IkRrPnmFLoCvTo&center=41.74294280000001,-70.5899276"
+    },
+    {
+      "name": "Eastern Inn",
+      "distance": "0.8 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Eastern%20Inn&query_place_id=ChIJpaMSzcDI5IkRqDYA2CgtL6c&center=41.752521099999996,-70.5942479"
+    }
+  ],
+  "gas": [
+    {
+      "name": "Sav-On",
+      "distance": "0.8 mi",
+      "url": "https://www.google.com/maps/search/Sav-On+near+41.7505637%2C-70.5781607"
+    },
+    {
+      "name": "Speedway",
+      "distance": "0.8 mi",
+      "url": "https://www.google.com/maps/search/Speedway+near+41.7505637%2C-70.5781607"
+    },
+    {
+      "name": "Mobil",
+      "distance": "1.0 mi",
+      "url": "https://www.google.com/maps/search/Mobil+near+41.7505637%2C-70.5781607"
+    },
+    {
+      "name": "Shell",
+      "distance": "1.1 mi",
+      "url": "https://www.google.com/maps/search/Shell+near+41.7505637%2C-70.5781607"
+    }
+  ]
+}

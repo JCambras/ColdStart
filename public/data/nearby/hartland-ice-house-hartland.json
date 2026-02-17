@@ -1,0 +1,230 @@
+{
+  "quick_bite": [
+    {
+      "name": "Little Caesars Pizza",
+      "distance": "0.2 mi",
+      "url": "https://www.google.com/maps/search/Little%20Caesars%20Pizza+near+42.638583%2C-83.73022879999999"
+    },
+    {
+      "name": "KFC",
+      "distance": "0.3 mi",
+      "url": "https://www.google.com/maps/search/KFC+near+42.638583%2C-83.73022879999999"
+    },
+    {
+      "name": "Culver’s",
+      "distance": "0.6 mi",
+      "url": "https://www.google.com/maps/search/Culver%E2%80%99s+near+42.638583%2C-83.73022879999999"
+    },
+    {
+      "name": "Gus's Carry Out",
+      "distance": "0.8 mi",
+      "url": "https://www.google.com/maps/search/Gus's%20Carry%20Out+near+42.638583%2C-83.73022879999999"
+    },
+    {
+      "name": "Big Chicken",
+      "distance": "0.8 mi",
+      "url": "https://www.google.com/maps/search/Big%20Chicken+near+42.638583%2C-83.73022879999999"
+    }
+  ],
+  "coffee": [
+    {
+      "name": "BIGGBY COFFEE",
+      "distance": "0.2 mi",
+      "url": "https://www.google.com/maps/search/BIGGBY%20COFFEE+near+42.638583%2C-83.73022879999999"
+    },
+    {
+      "name": "Dunkin'",
+      "distance": "0.4 mi",
+      "url": "https://www.google.com/maps/search/Dunkin'+near+42.638583%2C-83.73022879999999"
+    },
+    {
+      "name": "Tim Hortons",
+      "distance": "0.6 mi",
+      "url": "https://www.google.com/maps/search/Tim%20Hortons+near+42.638583%2C-83.73022879999999"
+    },
+    {
+      "name": "Michigan Waffle Company",
+      "distance": "0.7 mi",
+      "url": "https://www.google.com/maps/search/Michigan%20Waffle%20Company+near+42.638583%2C-83.73022879999999"
+    },
+    {
+      "name": "Starbucks Coffee Company",
+      "distance": "0.8 mi",
+      "url": "https://www.google.com/maps/search/Starbucks%20Coffee%20Company+near+42.638583%2C-83.73022879999999"
+    }
+  ],
+  "team_lunch": [
+    {
+      "name": "Leo's Coney Island Hartland",
+      "distance": "0.5 mi",
+      "url": "https://www.google.com/maps/search/Leo's%20Coney%20Island%20Hartland+near+42.638583%2C-83.73022879999999"
+    },
+    {
+      "name": "Meijer Bakery",
+      "distance": "0.7 mi",
+      "url": "https://www.google.com/maps/search/Meijer%20Bakery+near+42.638583%2C-83.73022879999999"
+    },
+    {
+      "name": "Ocean Star",
+      "distance": "0.8 mi",
+      "url": "https://www.google.com/maps/search/Ocean%20Star+near+42.638583%2C-83.73022879999999"
+    }
+  ],
+  "dinner": [
+    {
+      "name": "Hallboy Barbeque",
+      "distance": "0.1 mi",
+      "url": "https://www.google.com/maps/search/Hallboy%20Barbeque+near+42.638583%2C-83.73022879999999"
+    },
+    {
+      "name": "Red Olive Restaurant - Hartland",
+      "distance": "0.8 mi",
+      "url": "https://www.google.com/maps/search/Red%20Olive%20Restaurant%20-%20Hartland+near+42.638583%2C-83.73022879999999"
+    },
+    {
+      "name": "Hatorando Sushi and Sports Bar",
+      "distance": "0.8 mi",
+      "url": "https://www.google.com/maps/search/Hatorando%20Sushi%20and%20Sports%20Bar+near+42.638583%2C-83.73022879999999"
+    },
+    {
+      "name": "Wing Snob",
+      "distance": "0.8 mi",
+      "url": "https://www.google.com/maps/search/Wing%20Snob+near+42.638583%2C-83.73022879999999"
+    },
+    {
+      "name": "El Cerro Grande Mexican Restaurant",
+      "distance": "0.8 mi",
+      "url": "https://www.google.com/maps/search/El%20Cerro%20Grande%20Mexican%20Restaurant+near+42.638583%2C-83.73022879999999"
+    }
+  ],
+  "bowling": [
+    {
+      "name": "Brighton Bowl",
+      "distance": "8.2 mi",
+      "url": "https://www.google.com/maps/search/Brighton%20Bowl+near+42.638583%2C-83.73022879999999",
+      "isFar": true
+    },
+    {
+      "name": "Howell Bowl-E-Drome",
+      "distance": "9.9 mi",
+      "url": "https://www.google.com/maps/search/Howell%20Bowl-E-Drome+near+42.638583%2C-83.73022879999999",
+      "isFar": true
+    }
+  ],
+  "arcade": [],
+  "movies": [
+    {
+      "name": "Emagine Hartland",
+      "distance": "0.8 mi",
+      "url": "https://www.google.com/maps/search/Emagine%20Hartland+near+42.638583%2C-83.73022879999999"
+    },
+    {
+      "name": "MJR Brighton Cinema",
+      "distance": "7.2 mi",
+      "url": "https://www.google.com/maps/search/MJR%20Brighton%20Cinema+near+42.638583%2C-83.73022879999999",
+      "isFar": true
+    },
+    {
+      "name": "Milford Independent Cinema",
+      "distance": "7.7 mi",
+      "url": "https://www.google.com/maps/search/Milford%20Independent%20Cinema+near+42.638583%2C-83.73022879999999",
+      "isFar": true
+    }
+  ],
+  "fun": [
+    {
+      "name": "Zap Zone",
+      "distance": "6.4 mi",
+      "url": "https://www.google.com/maps/search/Zap%20Zone+near+42.638583%2C-83.73022879999999",
+      "isFar": true
+    },
+    {
+      "name": "Escape Room Brighton",
+      "distance": "6.6 mi",
+      "url": "https://www.google.com/maps/search/Escape%20Room%20Brighton+near+42.638583%2C-83.73022879999999",
+      "isFar": true
+    },
+    {
+      "name": "Airborne Adventure Park - Brighton, MI",
+      "distance": "7.0 mi",
+      "url": "https://www.google.com/maps/search/Airborne%20Adventure%20Park%20-%20Brighton%2C%20MI+near+42.638583%2C-83.73022879999999",
+      "isFar": true
+    },
+    {
+      "name": "Stemville Howell",
+      "distance": "8.0 mi",
+      "url": "https://www.google.com/maps/search/Stemville%20Howell+near+42.638583%2C-83.73022879999999",
+      "isFar": true
+    },
+    {
+      "name": "Splash ‘n’ Blast",
+      "distance": "9.0 mi",
+      "url": "https://www.google.com/maps/search/Splash%20%E2%80%98n%E2%80%99%20Blast+near+42.638583%2C-83.73022879999999",
+      "isFar": true
+    }
+  ],
+  "hotels": [
+    {
+      "name": "Lakeside Retreat ~ Cozy Cottage with Firepit ~",
+      "distance": "0.4 mi",
+      "url": "https://www.google.com/maps/search/Lakeside%20Retreat%20~%20Cozy%20Cottage%20with%20Firepit%20~+near+42.638583%2C-83.73022879999999"
+    },
+    {
+      "name": "Lakeside Retreat - Cozy Cottage with Firepit - Two-Bedroom House",
+      "distance": "0.4 mi",
+      "url": "https://www.google.com/maps/search/Lakeside%20Retreat%20-%20Cozy%20Cottage%20with%20Firepit%20-%20Two-Bedroom%20House+near+42.638583%2C-83.73022879999999"
+    },
+    {
+      "name": "Grand Motel",
+      "distance": "0.6 mi",
+      "url": "https://www.google.com/maps/search/Grand%20Motel+near+42.638583%2C-83.73022879999999"
+    },
+    {
+      "name": "Lakefront Hartland Cottage w/ Patio Fire Pits! - Cottage (3 Bedrooms)",
+      "distance": "0.9 mi",
+      "url": "https://www.google.com/maps/search/Lakefront%20Hartland%20Cottage%20w%2F%20Patio%20Fire%20Pits!%20-%20Cottage%20(3%20Bedrooms)+near+42.638583%2C-83.73022879999999"
+    },
+    {
+      "name": "Lakefront Hartland Cottage with Patio and Fire Pits!",
+      "distance": "0.9 mi",
+      "url": "https://www.google.com/maps/search/Lakefront%20Hartland%20Cottage%20with%20Patio%20and%20Fire%20Pits!+near+42.638583%2C-83.73022879999999"
+    },
+    {
+      "name": "Lakefront Hartland Cottage w/ Patio & Fire Pits!",
+      "distance": "0.9 mi",
+      "url": "https://www.google.com/maps/search/Lakefront%20Hartland%20Cottage%20w%2F%20Patio%20%26%20Fire%20Pits!+near+42.638583%2C-83.73022879999999"
+    },
+    {
+      "name": "Lakefront Hartland Cottage with Patio and Fire Pits! - Vacation Home",
+      "distance": "0.9 mi",
+      "url": "https://www.google.com/maps/search/Lakefront%20Hartland%20Cottage%20with%20Patio%20and%20Fire%20Pits!%20-%20Vacation%20Home+near+42.638583%2C-83.73022879999999"
+    }
+  ],
+  "gas": [
+    {
+      "name": "Mobil",
+      "distance": "0.4 mi",
+      "url": "https://www.google.com/maps/search/Mobil+near+42.638583%2C-83.73022879999999"
+    },
+    {
+      "name": "bp",
+      "distance": "0.8 mi",
+      "url": "https://www.google.com/maps/search/bp+near+42.638583%2C-83.73022879999999"
+    },
+    {
+      "name": "Speedway",
+      "distance": "1.2 mi",
+      "url": "https://www.google.com/maps/search/Speedway+near+42.638583%2C-83.73022879999999"
+    },
+    {
+      "name": "Mobil",
+      "distance": "3.0 mi",
+      "url": "https://www.google.com/maps/search/Mobil+near+42.638583%2C-83.73022879999999"
+    },
+    {
+      "name": "Red Barn Market #16",
+      "distance": "3.0 mi",
+      "url": "https://www.google.com/maps/search/Red%20Barn%20Market%20%2316+near+42.638583%2C-83.73022879999999"
+    }
+  ]
+}

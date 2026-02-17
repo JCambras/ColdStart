@@ -1,0 +1,225 @@
+{
+  "quick_bite": [
+    {
+      "name": "Dairy Queen Grill & Chill",
+      "distance": "0.2 mi",
+      "url": "https://www.google.com/maps/search/Dairy%20Queen%20Grill%20%26%20Chill+near+46.8344989%2C-96.9090315"
+    },
+    {
+      "name": "Subway",
+      "distance": "1.0 mi",
+      "url": "https://www.google.com/maps/search/Subway+near+46.8344989%2C-96.9090315"
+    },
+    {
+      "name": "Deek's Pizza",
+      "distance": "1.0 mi",
+      "url": "https://www.google.com/maps/search/Deek's%20Pizza+near+46.8344989%2C-96.9090315"
+    },
+    {
+      "name": "Subway",
+      "distance": "1.2 mi",
+      "url": "https://www.google.com/maps/search/Subway+near+46.8344989%2C-96.9090315"
+    }
+  ],
+  "coffee": [
+    {
+      "name": "Moxie Java",
+      "distance": "0.1 mi",
+      "url": "https://www.google.com/maps/search/Moxie%20Java+near+46.8344989%2C-96.9090315"
+    },
+    {
+      "name": "Caribou Coffee",
+      "distance": "1.1 mi",
+      "url": "https://www.google.com/maps/search/Caribou%20Coffee+near+46.8344989%2C-96.9090315"
+    }
+  ],
+  "team_lunch": [
+    {
+      "name": "Hunt Brothers Pizza",
+      "distance": "0.2 mi",
+      "url": "https://www.google.com/maps/search/Hunt%20Brothers%20Pizza+near+46.8344989%2C-96.9090315"
+    },
+    {
+      "name": "Unhynged Sports Bar",
+      "distance": "0.3 mi",
+      "url": "https://www.google.com/maps/search/Unhynged%20Sports%20Bar+near+46.8344989%2C-96.9090315"
+    },
+    {
+      "name": "Louie’s Sports Bar & Grill",
+      "distance": "1.0 mi",
+      "url": "https://www.google.com/maps/search/Louie%E2%80%99s%20Sports%20Bar%20%26%20Grill+near+46.8344989%2C-96.9090315"
+    }
+  ],
+  "dinner": [
+    {
+      "name": "Hooligans",
+      "distance": "0.1 mi",
+      "url": "https://www.google.com/maps/search/Hooligans+near+46.8344989%2C-96.9090315"
+    },
+    {
+      "name": "Bar Down",
+      "distance": "0.1 mi",
+      "url": "https://www.google.com/maps/search/Bar%20Down+near+46.8344989%2C-96.9090315"
+    },
+    {
+      "name": "Ziti's Italian American",
+      "distance": "0.1 mi",
+      "url": "https://www.google.com/maps/search/Ziti's%20Italian%20American+near+46.8344989%2C-96.9090315"
+    },
+    {
+      "name": "Smoke & Iron",
+      "distance": "0.1 mi",
+      "url": "https://www.google.com/maps/search/Smoke%20%26%20Iron+near+46.8344989%2C-96.9090315"
+    },
+    {
+      "name": "Randy's Diner Too",
+      "distance": "0.2 mi",
+      "url": "https://www.google.com/maps/search/Randy's%20Diner%20Too+near+46.8344989%2C-96.9090315"
+    },
+    {
+      "name": "Shy Bar",
+      "distance": "0.3 mi",
+      "url": "https://www.google.com/maps/search/Shy%20Bar+near+46.8344989%2C-96.9090315"
+    },
+    {
+      "name": "Sonder Bakehouse",
+      "distance": "0.8 mi",
+      "url": "https://www.google.com/maps/search/Sonder%20Bakehouse+near+46.8344989%2C-96.9090315"
+    }
+  ],
+  "bowling": [
+    {
+      "name": "West Acres Bowl",
+      "distance": "4.0 mi",
+      "url": "https://www.google.com/maps/search/West%20Acres%20Bowl+near+46.8344989%2C-96.9090315",
+      "isFar": true
+    },
+    {
+      "name": "Kingpinz Social",
+      "distance": "4.0 mi",
+      "url": "https://www.google.com/maps/search/Kingpinz%20Social+near+46.8344989%2C-96.9090315",
+      "isFar": true
+    }
+  ],
+  "arcade": [],
+  "movies": [
+    {
+      "name": "Marcus West Acres Cinema",
+      "distance": "3.3 mi",
+      "url": "https://www.google.com/maps/search/Marcus%20West%20Acres%20Cinema+near+46.8344989%2C-96.9090315",
+      "isFar": true
+    },
+    {
+      "name": "Marcus Century Cinema",
+      "distance": "3.7 mi",
+      "url": "https://www.google.com/maps/search/Marcus%20Century%20Cinema+near+46.8344989%2C-96.9090315",
+      "isFar": true
+    }
+  ],
+  "fun": [
+    {
+      "name": "Shadow Wood Splash Pad",
+      "distance": "0.9 mi",
+      "url": "https://www.google.com/maps/search/Shadow%20Wood%20Splash%20Pad+near+46.8344989%2C-96.9090315"
+    },
+    {
+      "name": "Hartze's Sorta Resorta",
+      "distance": "1.9 mi",
+      "url": "https://www.google.com/maps/search/Hartze's%20Sorta%20Resorta+near+46.8344989%2C-96.9090315"
+    },
+    {
+      "name": "Thunder Road",
+      "distance": "3.1 mi",
+      "url": "https://www.google.com/maps/search/Thunder%20Road+near+46.8344989%2C-96.9090315",
+      "isFar": true
+    },
+    {
+      "name": "Sky Zone Trampoline Park",
+      "distance": "3.6 mi",
+      "url": "https://www.google.com/maps/search/Sky%20Zone%20Trampoline%20Park+near+46.8344989%2C-96.9090315",
+      "isFar": true
+    },
+    {
+      "name": "Fargo Escape Room",
+      "distance": "3.7 mi",
+      "url": "https://www.google.com/maps/search/Fargo%20Escape%20Room+near+46.8344989%2C-96.9090315",
+      "isFar": true
+    },
+    {
+      "name": "Slick City Action Park",
+      "distance": "4.0 mi",
+      "url": "https://www.google.com/maps/search/Slick%20City%20Action%20Park+near+46.8344989%2C-96.9090315",
+      "isFar": true
+    },
+    {
+      "name": "Escape Jr's",
+      "distance": "4.6 mi",
+      "url": "https://www.google.com/maps/search/Escape%20Jr's+near+46.8344989%2C-96.9090315",
+      "isFar": true
+    }
+  ],
+  "hotels": [
+    {
+      "name": "Work, Play, Enjoy! The Lights WF",
+      "distance": "0.1 mi",
+      "url": "https://www.google.com/maps/search/Work%2C%20Play%2C%20Enjoy!%20The%20Lights%20WF+near+46.8344989%2C-96.9090315"
+    },
+    {
+      "name": "Come, Stay, Relax - The Lights",
+      "distance": "0.1 mi",
+      "url": "https://www.google.com/maps/search/Come%2C%20Stay%2C%20Relax%20-%20The%20Lights+near+46.8344989%2C-96.9090315"
+    },
+    {
+      "name": "Work, Play, Enjoy! The Lights WF",
+      "distance": "0.1 mi",
+      "url": "https://www.google.com/maps/search/Work%2C%20Play%2C%20Enjoy!%20The%20Lights%20WF+near+46.8344989%2C-96.9090315"
+    },
+    {
+      "name": "The MikkonINN - Modern 3 bed home by The Lights",
+      "distance": "0.3 mi",
+      "url": "https://www.google.com/maps/search/The%20MikkonINN%20-%20Modern%203%20bed%20home%20by%20The%20Lights+near+46.8344989%2C-96.9090315"
+    },
+    {
+      "name": "The MikkonINN - Modern 3 bed home by The Lights",
+      "distance": "0.3 mi",
+      "url": "https://www.google.com/maps/search/The%20MikkonINN%20-%20Modern%203%20bed%20home%20by%20The%20Lights+near+46.8344989%2C-96.9090315"
+    },
+    {
+      "name": "Spacious Child-Infant Friendly West Fargo Home. - Four-Bedroom House",
+      "distance": "0.4 mi",
+      "url": "https://www.google.com/maps/search/Spacious%20Child-Infant%20Friendly%20West%20Fargo%20Home.%20-%20Four-Bedroom%20House+near+46.8344989%2C-96.9090315"
+    },
+    {
+      "name": "Spacious Child-Infant Friendly West Fargo Home.",
+      "distance": "0.4 mi",
+      "url": "https://www.google.com/maps/search/Spacious%20Child-Infant%20Friendly%20West%20Fargo%20Home.+near+46.8344989%2C-96.9090315"
+    }
+  ],
+  "gas": [
+    {
+      "name": "ARCO",
+      "distance": "0.2 mi",
+      "url": "https://www.google.com/maps/search/ARCO+near+46.8344989%2C-96.9090315"
+    },
+    {
+      "name": "Marathon",
+      "distance": "0.9 mi",
+      "url": "https://www.google.com/maps/search/Marathon+near+46.8344989%2C-96.9090315"
+    },
+    {
+      "name": "R J's Gas Station",
+      "distance": "0.9 mi",
+      "url": "https://www.google.com/maps/search/R%20J's%20Gas%20Station+near+46.8344989%2C-96.9090315"
+    },
+    {
+      "name": "Holiday",
+      "distance": "1.2 mi",
+      "url": "https://www.google.com/maps/search/Holiday+near+46.8344989%2C-96.9090315"
+    },
+    {
+      "name": "Little Dukes",
+      "distance": "1.2 mi",
+      "url": "https://www.google.com/maps/search/Little%20Dukes+near+46.8344989%2C-96.9090315"
+    }
+  ]
+}

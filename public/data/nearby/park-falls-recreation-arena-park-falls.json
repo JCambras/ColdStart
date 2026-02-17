@@ -1,0 +1,157 @@
+{
+  "quick_bite": [
+    {
+      "name": "Subway",
+      "distance": "1.0 mi",
+      "url": "https://www.google.com/maps/search/Subway+near+45.9378975%2C-90.4510104"
+    }
+  ],
+  "coffee": [
+    {
+      "name": "Kayla's Kitchen and Closet",
+      "distance": "0.2 mi",
+      "url": "https://www.google.com/maps/search/Kayla's%20Kitchen%20and%20Closet+near+45.9378975%2C-90.4510104"
+    },
+    {
+      "name": "Old Abe's Coffee",
+      "distance": "0.2 mi",
+      "url": "https://www.google.com/maps/search/Old%20Abe's%20Coffee+near+45.9378975%2C-90.4510104"
+    },
+    {
+      "name": "McDonald's",
+      "distance": "1.1 mi",
+      "url": "https://www.google.com/maps/search/McDonald's+near+45.9378975%2C-90.4510104"
+    }
+  ],
+  "team_lunch": [
+    {
+      "name": "Piccadilly Circus Pizza",
+      "distance": "0.1 mi",
+      "url": "https://www.google.com/maps/search/Piccadilly%20Circus%20Pizza+near+45.9378975%2C-90.4510104"
+    },
+    {
+      "name": "Captain Nemo's Pub & Grub",
+      "distance": "0.2 mi",
+      "url": "https://www.google.com/maps/search/Captain%20Nemo's%20Pub%20%26%20Grub+near+45.9378975%2C-90.4510104"
+    },
+    {
+      "name": "The Lanes",
+      "distance": "1.1 mi",
+      "url": "https://www.google.com/maps/search/The%20Lanes+near+45.9378975%2C-90.4510104"
+    },
+    {
+      "name": "Butternut Resort",
+      "distance": "4.7 mi",
+      "url": "https://www.google.com/maps/search/Butternut%20Resort+near+45.9378975%2C-90.4510104",
+      "isFar": true
+    }
+  ],
+  "dinner": [
+    {
+      "name": "Feit's Ice Cream & BBQ",
+      "distance": "0.2 mi",
+      "url": "https://www.google.com/maps/search/Feit's%20Ice%20Cream%20%26%20BBQ+near+45.9378975%2C-90.4510104"
+    },
+    {
+      "name": "Vichy's Pub",
+      "distance": "0.2 mi",
+      "url": "https://www.google.com/maps/search/Vichy's%20Pub+near+45.9378975%2C-90.4510104"
+    },
+    {
+      "name": "Beijing Restaurant",
+      "distance": "1.0 mi",
+      "url": "https://www.google.com/maps/search/Beijing%20Restaurant+near+45.9378975%2C-90.4510104"
+    },
+    {
+      "name": "Park Falls Family Restaurant",
+      "distance": "1.2 mi",
+      "url": "https://www.google.com/maps/search/Park%20Falls%20Family%20Restaurant+near+45.9378975%2C-90.4510104"
+    },
+    {
+      "name": "MT Pockets",
+      "distance": "3.1 mi",
+      "url": "https://www.google.com/maps/search/MT%20Pockets+near+45.9378975%2C-90.4510104",
+      "isFar": true
+    },
+    {
+      "name": "Northwoods Supper Club",
+      "distance": "4.3 mi",
+      "url": "https://www.google.com/maps/search/Northwoods%20Supper%20Club+near+45.9378975%2C-90.4510104",
+      "isFar": true
+    },
+    {
+      "name": "Smokehouse",
+      "distance": "4.3 mi",
+      "url": "https://www.google.com/maps/search/Smokehouse+near+45.9378975%2C-90.4510104",
+      "isFar": true
+    }
+  ],
+  "bowling": [],
+  "arcade": [],
+  "movies": [],
+  "fun": [],
+  "hotels": [
+    {
+      "name": "Legen-dairy Hideaway, in the heart of Park Falls!",
+      "distance": "0.3 mi",
+      "url": "https://www.google.com/maps/search/Legen-dairy%20Hideaway%2C%20in%20the%20heart%20of%20Park%20Falls!+near+45.9378975%2C-90.4510104"
+    },
+    {
+      "name": "Tuscobia Terrace Estates",
+      "distance": "0.4 mi",
+      "url": "https://www.google.com/maps/search/Tuscobia%20Terrace%20Estates+near+45.9378975%2C-90.4510104"
+    },
+    {
+      "name": "Trailside Tuckaway | 3 Bed, 1 Bath",
+      "distance": "0.5 mi",
+      "url": "https://www.google.com/maps/search/Trailside%20Tuckaway%20%7C%203%20Bed%2C%201%20Bath+near+45.9378975%2C-90.4510104"
+    },
+    {
+      "name": "Pointed Firs Inn",
+      "distance": "0.6 mi",
+      "url": "https://www.google.com/maps/search/Pointed%20Firs%20Inn+near+45.9378975%2C-90.4510104"
+    },
+    {
+      "name": "Small Studio apartment",
+      "distance": "0.7 mi",
+      "url": "https://www.google.com/maps/search/Small%20Studio%20apartment+near+45.9378975%2C-90.4510104"
+    },
+    {
+      "name": "Hilltop Lodging",
+      "distance": "0.9 mi",
+      "url": "https://www.google.com/maps/search/Hilltop%20Lodging+near+45.9378975%2C-90.4510104"
+    },
+    {
+      "name": "Furnished Studio 9",
+      "distance": "0.9 mi",
+      "url": "https://www.google.com/maps/search/Furnished%20Studio%209+near+45.9378975%2C-90.4510104"
+    }
+  ],
+  "gas": [
+    {
+      "name": "Amoco",
+      "distance": "0.1 mi",
+      "url": "https://www.google.com/maps/search/Amoco+near+45.9378975%2C-90.4510104"
+    },
+    {
+      "name": "Krist Food Mart #064",
+      "distance": "0.3 mi",
+      "url": "https://www.google.com/maps/search/Krist%20Food%20Mart%20%23064+near+45.9378975%2C-90.4510104"
+    },
+    {
+      "name": "bp",
+      "distance": "1.2 mi",
+      "url": "https://www.google.com/maps/search/bp+near+45.9378975%2C-90.4510104"
+    },
+    {
+      "name": "Fifield Express Mart",
+      "distance": "4.3 mi",
+      "url": "https://www.google.com/maps/search/Fifield%20Express%20Mart+near+45.9378975%2C-90.4510104"
+    },
+    {
+      "name": "Cenex",
+      "distance": "4.3 mi",
+      "url": "https://www.google.com/maps/search/Cenex+near+45.9378975%2C-90.4510104"
+    }
+  ]
+}

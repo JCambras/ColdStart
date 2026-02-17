@@ -1,0 +1,146 @@
+{
+  "quick_bite": [
+    {
+      "name": "Subway",
+      "distance": "1.3 mi",
+      "url": "https://www.google.com/maps/search/Subway+near+39.4722475%2C-76.8435807"
+    },
+    {
+      "name": "Rice Kitchen",
+      "distance": "1.4 mi",
+      "url": "https://www.google.com/maps/search/Rice%20Kitchen+near+39.4722475%2C-76.8435807"
+    }
+  ],
+  "coffee": [
+    {
+      "name": "Dunkin'",
+      "distance": "0.8 mi",
+      "url": "https://www.google.com/maps/search/Dunkin'+near+39.4722475%2C-76.8435807"
+    },
+    {
+      "name": "The Reister's Daughter",
+      "distance": "1.0 mi",
+      "url": "https://www.google.com/maps/search/The%20Reister's%20Daughter+near+39.4722475%2C-76.8435807"
+    }
+  ],
+  "team_lunch": [
+    {
+      "name": "Mama Tana Reisterstown",
+      "distance": "0.8 mi",
+      "url": "https://www.google.com/maps/search/Mama%20Tana%20Reisterstown+near+39.4722475%2C-76.8435807"
+    },
+    {
+      "name": "Kuki Chinese Restaurant",
+      "distance": "1.3 mi",
+      "url": "https://www.google.com/maps/search/Kuki%20Chinese%20Restaurant+near+39.4722475%2C-76.8435807"
+    },
+    {
+      "name": "Royal Buffet & Grill",
+      "distance": "1.5 mi",
+      "url": "https://www.google.com/maps/search/Royal%20Buffet%20%26%20Grill+near+39.4722475%2C-76.8435807"
+    }
+  ],
+  "dinner": [
+    {
+      "name": "Kecco's Woodfire Kitchen",
+      "distance": "0.5 mi",
+      "url": "https://www.google.com/maps/search/Kecco's%20Woodfire%20Kitchen+near+39.4722475%2C-76.8435807"
+    },
+    {
+      "name": "Village Pizza",
+      "distance": "0.7 mi",
+      "url": "https://www.google.com/maps/search/Village%20Pizza+near+39.4722475%2C-76.8435807"
+    },
+    {
+      "name": "Little Georgia",
+      "distance": "0.8 mi",
+      "url": "https://www.google.com/maps/search/Little%20Georgia+near+39.4722475%2C-76.8435807"
+    },
+    {
+      "name": "FOOD STOP PIZZA & GRILL",
+      "distance": "0.8 mi",
+      "url": "https://www.google.com/maps/search/FOOD%20STOP%20PIZZA%20%26%20GRILL+near+39.4722475%2C-76.8435807"
+    },
+    {
+      "name": "Maria's",
+      "distance": "0.8 mi",
+      "url": "https://www.google.com/maps/search/Maria's+near+39.4722475%2C-76.8435807"
+    },
+    {
+      "name": "El Gran Pollo",
+      "distance": "0.8 mi",
+      "url": "https://www.google.com/maps/search/El%20Gran%20Pollo+near+39.4722475%2C-76.8435807"
+    }
+  ],
+  "bowling": [
+    {
+      "name": "Bowlero Pikesville",
+      "distance": "8.6 mi",
+      "url": "https://www.google.com/maps/search/Bowlero%20Pikesville+near+39.4722475%2C-76.8435807",
+      "isFar": true
+    }
+  ],
+  "arcade": [],
+  "movies": [
+    {
+      "name": "AMC Owings Mills 17",
+      "distance": "5.5 mi",
+      "url": "https://www.google.com/maps/search/AMC%20Owings%20Mills%2017+near+39.4722475%2C-76.8435807",
+      "isFar": true
+    },
+    {
+      "name": "Pikes Studio Cinema",
+      "distance": "9.5 mi",
+      "url": "https://www.google.com/maps/search/Pikes%20Studio%20Cinema+near+39.4722475%2C-76.8435807",
+      "isFar": true
+    }
+  ],
+  "fun": [
+    {
+      "name": "Sky Zone Trampoline Park",
+      "distance": "4.4 mi",
+      "url": "https://www.google.com/maps/search/Sky%20Zone%20Trampoline%20Park+near+39.4722475%2C-76.8435807",
+      "isFar": true
+    },
+    {
+      "name": "Players Fun Zone",
+      "distance": "9.4 mi",
+      "url": "https://www.google.com/maps/search/Players%20Fun%20Zone+near+39.4722475%2C-76.8435807",
+      "isFar": true
+    }
+  ],
+  "hotels": [
+    {
+      "name": "Juway Empire Homes - Double Room with Shared Bathroom",
+      "distance": "1.1 mi",
+      "url": "https://www.google.com/maps/search/Juway%20Empire%20Homes%20-%20Double%20Room%20with%20Shared%20Bathroom+near+39.4722475%2C-76.8435807"
+    },
+    {
+      "name": "A Townhome located in historic Reisterstown .",
+      "distance": "1.8 mi",
+      "url": "https://www.google.com/maps/search/A%20Townhome%20located%20in%20historic%20Reisterstown%20.+near+39.4722475%2C-76.8435807"
+    }
+  ],
+  "gas": [
+    {
+      "name": "Shell",
+      "distance": "0.8 mi",
+      "url": "https://www.google.com/maps/search/Shell+near+39.4722475%2C-76.8435807"
+    },
+    {
+      "name": "Wawa",
+      "distance": "1.5 mi",
+      "url": "https://www.google.com/maps/search/Wawa+near+39.4722475%2C-76.8435807"
+    },
+    {
+      "name": "Express Fuel Reisterstown",
+      "distance": "2.3 mi",
+      "url": "https://www.google.com/maps/search/Express%20Fuel%20Reisterstown+near+39.4722475%2C-76.8435807"
+    },
+    {
+      "name": "Exxon",
+      "distance": "2.3 mi",
+      "url": "https://www.google.com/maps/search/Exxon+near+39.4722475%2C-76.8435807"
+    }
+  ]
+}

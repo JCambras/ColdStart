@@ -1,0 +1,192 @@
+{
+  "quick_bite": [
+    {
+      "name": "Subway",
+      "distance": "0.2 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Subway&query_place_id=ChIJAQAAv9cS04kRTQ4vQeTaR50&center=42.9337575,-78.8820423"
+    },
+    {
+      "name": "TASTY TRAILS",
+      "distance": "0.2 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=TASTY%20TRAILS&query_place_id=ChIJmVxNn7AT04kRaao3ew4pSGo&center=42.93150120000001,-78.8886429"
+    },
+    {
+      "name": "good food",
+      "distance": "0.3 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=good%20food&query_place_id=ChIJyR3YKiAT04kROxSeK7Ax43g&center=42.9320549,-78.89088249999999"
+    },
+    {
+      "name": "Burger King",
+      "distance": "0.3 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Burger%20King&query_place_id=ChIJyWSZpi4T04kR8F88MMr4u2U&center=42.937706999999996,-78.8901843"
+    }
+  ],
+  "coffee": [
+    {
+      "name": "Starbucks",
+      "distance": "0.3 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Starbucks&query_place_id=ChIJN2WZN-8T04kRRYw6cV_mWxY&center=42.93385,-78.8801"
+    },
+    {
+      "name": "Raha Coffee House",
+      "distance": "0.3 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Raha%20Coffee%20House&query_place_id=ChIJn0mGS5gT04kR7QPPZ4c-azc&center=42.938375,-78.890197"
+    },
+    {
+      "name": "Bruegger's Bagels",
+      "distance": "1.0 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Bruegger's%20Bagels&query_place_id=ChIJAbluazNt04kRxEq4t29tDok&center=42.9421494,-78.8685023"
+    },
+    {
+      "name": "Classic Lanes",
+      "distance": "3.7 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Classic%20Lanes&query_place_id=ChIJ4eHAO1Ns04kRWcDkMjDYswg&center=42.9876242,-78.8848977",
+      "isFar": true
+    }
+  ],
+  "team_lunch": [
+    {
+      "name": "Mister Pizza",
+      "distance": "0.2 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Mister%20Pizza&query_place_id=ChIJk2V11c8T04kR9ZknBaVQgW4&center=42.9317248,-78.8887233"
+    },
+    {
+      "name": "Richardson Hotel Restaurant",
+      "distance": "0.4 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Richardson%20Hotel%20Restaurant&query_place_id=ChIJm_t7XAAT04kRr7naaujRtQg&center=42.9294726,-78.88233799999999"
+    },
+    {
+      "name": "Dturn",
+      "distance": "0.5 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Dturn&query_place_id=ChIJgV9PQAAT04kRuaaXmiT7HRI&center=42.9269496,-78.8859498"
+    },
+    {
+      "name": "Sweet Dreams Bakery",
+      "distance": "0.6 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Sweet%20Dreams%20Bakery&query_place_id=ChIJxbQuRTIT04kRkOtC6wUzV14&center=42.9269393,-78.8911208"
+    }
+  ],
+  "dinner": [
+    {
+      "name": "Buffalo Star Kabab/HimalayanFeast",
+      "distance": "0.2 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Buffalo%20Star%20Kabab%2FHimalayanFeast&query_place_id=ChIJP99aiiYT04kRdIhJun7_lPk&center=42.93150120000001,-78.8886429"
+    },
+    {
+      "name": "La Casa De Sabores",
+      "distance": "0.3 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=La%20Casa%20De%20Sabores&query_place_id=ChIJn0-9vSUT04kRRZPUknBWnJg&center=42.932068699999995,-78.89112639999999"
+    },
+    {
+      "name": "Nine & Night Thai Cuisine",
+      "distance": "0.3 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Nine%20%26%20Night%20Thai%20Cuisine&query_place_id=ChIJnVnrc4cT04kR1FGQFSVctaA&center=42.9388772,-78.8887061"
+    },
+    {
+      "name": "Joe's New York Style Pizza",
+      "distance": "0.3 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Joe's%20New%20York%20Style%20Pizza&query_place_id=ChIJx6ueHSwT04kRReCfATaftsQ&center=42.9375698,-78.8912039"
+    },
+    {
+      "name": "Nadi",
+      "distance": "0.3 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Nadi&query_place_id=ChIJ3WKKwN8T04kRUCtHuKQd4D4&center=42.9384928,-78.8897673"
+    },
+    {
+      "name": "The Dapper Goose",
+      "distance": "0.3 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=The%20Dapper%20Goose&query_place_id=ChIJ1bUZTioT04kR9QCDdz4oFM4&center=42.939431299999995,-78.8860132"
+    }
+  ],
+  "bowling": [
+    {
+      "name": "Lucky Stryx",
+      "distance": "1.5 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Lucky%20Stryx&query_place_id=ChIJUQEYckQT04kRC601hZjWJ_k&center=42.929171,-78.9151133"
+    },
+    {
+      "name": "Kenmore Lanes",
+      "distance": "1.7 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Kenmore%20Lanes&query_place_id=ChIJpfQBACFt04kRERLWajYCOdA&center=42.9588162,-78.88081319999999"
+    },
+    {
+      "name": "Spare Lanes",
+      "distance": "2.9 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Spare%20Lanes&query_place_id=ChIJMWnEccET04kRvjZtowrTxqM&center=42.89320420000001,-78.87342819999999"
+    }
+  ],
+  "arcade": [],
+  "movies": [
+    {
+      "name": "Regal Elmwood Center",
+      "distance": "1.3 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Regal%20Elmwood%20Center&query_place_id=ChIJX3oBDCZt04kRkrOYEYbXWio&center=42.95238,-78.87684"
+    },
+    {
+      "name": "North Park Theatre",
+      "distance": "1.8 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=North%20Park%20Theatre&query_place_id=ChIJk4vPykht04kR540K6c2F2vg&center=42.9479257,-78.8553613"
+    },
+    {
+      "name": "Billy's Cinema",
+      "distance": "2.0 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Billy's%20Cinema&query_place_id=ChIJAycDVwAT04kRWXVgVMlogmI&center=42.93156570000001,-78.9259234"
+    }
+  ],
+  "fun": [
+    {
+      "name": "The South Lawn",
+      "distance": "0.4 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=The%20South%20Lawn&query_place_id=ChIJUdHDTAAT04kRLBycvCl_k0g&center=42.9292333,-78.8821427"
+    },
+    {
+      "name": "Mirror Lake",
+      "distance": "0.6 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Mirror%20Lake&query_place_id=ChIJDYCCWAAT04kRVq4Gd67RJTM&center=42.9346579,-78.87512199999999"
+    },
+    {
+      "name": "Hoyt Lake",
+      "distance": "0.8 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Hoyt%20Lake&query_place_id=ChIJl94Epc8S04kRbGf6c5A0eYs&center=42.9329171,-78.8699742"
+    },
+    {
+      "name": "Metropolitan",
+      "distance": "1.7 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Metropolitan&query_place_id=ChIJCb2-1-oS04kRUi0pqWG_4AY&center=42.9184738,-78.86156559999999"
+    }
+  ],
+  "hotels": [
+    {
+      "name": "City Oasis - Historic Blackrock- Pets and Parking",
+      "distance": "0.3 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=City%20Oasis%20-%20Historic%20Blackrock-%20Pets%20and%20Parking&query_place_id=ChIJ4WHEPioT04kRA0tTKhoqCqg&center=42.938549099999996,-78.88526159999999"
+    },
+    {
+      "name": "The Richardson Hotel",
+      "distance": "0.4 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=The%20Richardson%20Hotel&query_place_id=ChIJt-srMNgS04kRQwgRq0hGS58&center=42.9294862,-78.8822806"
+    }
+  ],
+  "gas": [
+    {
+      "name": "Tops Gas Pumps",
+      "distance": "0.2 mi",
+      "url": "https://www.google.com/maps/search/Tops%20Gas%20Pumps+near+42.9345298%2C-78.886324"
+    },
+    {
+      "name": "Sunoco",
+      "distance": "0.6 mi",
+      "url": "https://www.google.com/maps/search/Sunoco+near+42.9345298%2C-78.886324"
+    },
+    {
+      "name": "Speedway",
+      "distance": "0.7 mi",
+      "url": "https://www.google.com/maps/search/Speedway+near+42.9345298%2C-78.886324"
+    },
+    {
+      "name": "First Line",
+      "distance": "0.8 mi",
+      "url": "https://www.google.com/maps/search/First%20Line+near+42.9345298%2C-78.886324"
+    }
+  ]
+}

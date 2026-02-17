@@ -1,0 +1,215 @@
+{
+  "quick_bite": [
+    {
+      "name": "Shake Shack Union",
+      "distance": "0.2 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Shake%20Shack%20Union&query_place_id=ChIJ2TRUldOtw4kRvqlW6isiOKA&center=40.6906919,-74.296714"
+    },
+    {
+      "name": "Subway",
+      "distance": "0.2 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Subway&query_place_id=ChIJfVw_I8Gtw4kR-ud6KNfVBZM&center=40.690536699999996,-74.2988731"
+    },
+    {
+      "name": "White Castle",
+      "distance": "0.3 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=White%20Castle&query_place_id=ChIJ-8ssEe6tw4kRlmEoBoVHSiE&center=40.6892743,-74.2980262"
+    },
+    {
+      "name": "Chick-fil-A",
+      "distance": "0.3 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Chick-fil-A&query_place_id=ChIJoesYn-2tw4kR6_jg6NHlF6E&center=40.690891099999995,-74.2909104"
+    }
+  ],
+  "coffee": [
+    {
+      "name": "Janet's Living Room Cafe",
+      "distance": "0.1 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Janet's%20Living%20Room%20Cafe&query_place_id=ChIJJVKpv7atw4kR-JtAd-dFqtU&center=40.6924938,-74.2955894"
+    },
+    {
+      "name": "Starbucks",
+      "distance": "0.1 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Starbucks&query_place_id=ChIJKzVlVQCtw4kR6RgOywPfXRA&center=40.6909553,-74.2955448"
+    },
+    {
+      "name": "Freedom Coffee Shop serving Black Rifle Coffee",
+      "distance": "0.3 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Freedom%20Coffee%20Shop%20serving%20Black%20Rifle%20Coffee&query_place_id=ChIJ_VJ5qZqtw4kRlPZqEuHgCHY&center=40.689104799999996,-74.2967046"
+    },
+    {
+      "name": "Krispy Kreme",
+      "distance": "1.0 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Krispy%20Kreme&query_place_id=ChIJj4qwtDGvw4kRWaN8y2bR-Po&center=40.687190199999996,-74.3127506"
+    }
+  ],
+  "team_lunch": [
+    {
+      "name": "Good Fortune Chinese Restaurant",
+      "distance": "0.1 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Good%20Fortune%20Chinese%20Restaurant&query_place_id=ChIJ6W-kKvCtw4kRnMv0wYFNMxc&center=40.6927812,-74.2979924"
+    },
+    {
+      "name": "Don Alex Restaurant",
+      "distance": "0.2 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Don%20Alex%20Restaurant&query_place_id=ChIJL5Pi9_Gtw4kRH0_CcDOFkQ0&center=40.689392999999995,-74.29405299999999"
+    },
+    {
+      "name": "Pollos Alec",
+      "distance": "0.2 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Pollos%20Alec&query_place_id=ChIJC_btTWCtw4kRS2ZgaFADiGk&center=40.6893625,-74.29415949999999"
+    },
+    {
+      "name": "Deep Indian Kitchen (Union)",
+      "distance": "0.3 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Deep%20Indian%20Kitchen%20(Union)&query_place_id=ChIJE8EaBW-tw4kRQ2FRAV8riaw&center=40.6920031,-74.30069519999999"
+    },
+    {
+      "name": "Wingstop",
+      "distance": "0.3 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Wingstop&query_place_id=ChIJQx2-cO2tw4kRtNumnhFrr4M&center=40.6901824,-74.2907555"
+    },
+    {
+      "name": "Teriyaki One Japanese Grill (Teriyaki & Sushi)",
+      "distance": "0.3 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Teriyaki%20One%20Japanese%20Grill%20(Teriyaki%20%26%20Sushi)&query_place_id=ChIJjyFjJlatw4kRdEgLgvOhCsY&center=40.69023130000001,-74.29041629999999"
+    }
+  ],
+  "dinner": [
+    {
+      "name": "Dave's Hot Chicken",
+      "distance": "0.1 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Dave's%20Hot%20Chicken&query_place_id=ChIJcUSgIFCtw4kR_R8IW2cILU0&center=40.6908871,-74.2967458"
+    },
+    {
+      "name": "The Halal Guys",
+      "distance": "0.2 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=The%20Halal%20Guys&query_place_id=ChIJr7i6H-6tw4kRfKGO8NI8g78&center=40.690197,-74.2957334"
+    },
+    {
+      "name": "Ciao Pizza and Catering",
+      "distance": "0.2 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Ciao%20Pizza%20and%20Catering&query_place_id=ChIJVRk4uu2tw4kRhhJI62au77A&center=40.691334999999995,-74.29223809999999"
+    },
+    {
+      "name": "KPOT Korean BBQ & Hot Pot",
+      "distance": "0.2 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=KPOT%20Korean%20BBQ%20%26%20Hot%20Pot&query_place_id=ChIJkQsltyqtw4kRvKWinjWSzYs&center=40.6905821,-74.29825620000001"
+    },
+    {
+      "name": "District Taco",
+      "distance": "0.2 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=District%20Taco&query_place_id=ChIJpxyTTO-tw4kRs4iyy3QfhX0&center=40.689998599999996,-74.2979125"
+    },
+    {
+      "name": "Crumbl",
+      "distance": "0.4 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Crumbl&query_place_id=ChIJN6mYCYCtw4kRnNF1u_FtZ2M&center=40.6919602,-74.2887709"
+    }
+  ],
+  "bowling": [
+    {
+      "name": "Garwood Lanes",
+      "distance": "3.1 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Garwood%20Lanes&query_place_id=ChIJM0Cv6pqxw4kRxEljfw8LwXY&center=40.6535386,-74.3251253",
+      "isFar": true
+    },
+    {
+      "name": "Jersey Lanes",
+      "distance": "4.5 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Jersey%20Lanes&query_place_id=ChIJs-6WuMeyw4kRIRN3f9LxdgM&center=40.6500524,-74.23112689999999",
+      "isFar": true
+    },
+    {
+      "name": "Linden Lanes",
+      "distance": "4.8 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Linden%20Lanes&query_place_id=ChIJC2TxGKazw4kRM6rSCbQAj8I&center=40.626906,-74.2693788",
+      "isFar": true
+    }
+  ],
+  "arcade": [],
+  "movies": [
+    {
+      "name": "AMC Mountainside 10",
+      "distance": "2.2 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=AMC%20Mountainside%2010&query_place_id=ChIJwRP0Ld6xw4kROH2thxn9TwA&center=40.683523,-74.335413"
+    },
+    {
+      "name": "The Cranford Theater",
+      "distance": "2.6 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=The%20Cranford%20Theater&query_place_id=ChIJ49xoniayw4kRZE98hTCU0s0&center=40.6557538,-74.3061414"
+    },
+    {
+      "name": "The Village at SOPAC",
+      "distance": "4.1 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=The%20Village%20at%20SOPAC&query_place_id=ChIJVVUVR4asw4kRfGvKThA0foI&center=40.7459026,-74.26092830000002",
+      "isFar": true
+    }
+  ],
+  "fun": [
+    {
+      "name": "Sky Zone Trampoline Park",
+      "distance": "1.0 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Sky%20Zone%20Trampoline%20Park&query_place_id=ChIJ___PsACuw4kRkDy50wr8low&center=40.6863617,-74.31327449999999"
+    },
+    {
+      "name": "The Center",
+      "distance": "1.4 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=The%20Center&query_place_id=ChIJIWkFPACtw4kRzhvg_6kzczM&center=40.6964551,-74.269842"
+    },
+    {
+      "name": "Halloween Haus 701",
+      "distance": "1.8 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Halloween%20Haus%20701&query_place_id=ChIJJ_txMwCvw4kRjBHNXWr_h1Y&center=40.6913038,-74.3302684"
+    },
+    {
+      "name": "Gazebo",
+      "distance": "2.2 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Gazebo&query_place_id=ChIJP6OyJgCtw4kRe7x49IgReD0&center=40.7240093,-74.3053061"
+    }
+  ],
+  "hotels": [
+    {
+      "name": "FrankLettice House",
+      "distance": "0.4 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=FrankLettice%20House&query_place_id=ChIJoWKRGeqtw4kRLNe_9S64cok&center=40.6988602,-74.29360199999999"
+    },
+    {
+      "name": "Everything you need to feel like home",
+      "distance": "0.6 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Everything%20you%20need%20to%20feel%20like%20home&query_place_id=ChIJlfBUPfetw4kRhnOnsWvKiRA&center=40.6843605,-74.2978973"
+    },
+    {
+      "name": "Union Oasis: Hot Tub, Grill, Gym, Games, Massage chair, EWR 10min, NYC 30 min",
+      "distance": "0.7 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Union%20Oasis%3A%20Hot%20Tub%2C%20Grill%2C%20Gym%2C%20Games%2C%20Massage%20chair%2C%20EWR%2010min%2C%20NYC%2030%20min&query_place_id=ChIJjzONjb-tw4kRno1VpHd9g5c&center=40.7004814,-74.2876587"
+    },
+    {
+      "name": "Wonderful moments",
+      "distance": "1.1 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Wonderful%20moments&query_place_id=ChIJczB_lJmtw4kR6ewC80BXEAs&center=40.693229699999996,-74.27494820000001"
+    }
+  ],
+  "gas": [
+    {
+      "name": "Sunoco",
+      "distance": "0.2 mi",
+      "url": "https://www.google.com/maps/search/Sunoco+near+40.692755999999996%2C-74.295597"
+    },
+    {
+      "name": "LUKOIL",
+      "distance": "0.2 mi",
+      "url": "https://www.google.com/maps/search/LUKOIL+near+40.692755999999996%2C-74.295597"
+    },
+    {
+      "name": "Shell",
+      "distance": "0.3 mi",
+      "url": "https://www.google.com/maps/search/Shell+near+40.692755999999996%2C-74.295597"
+    },
+    {
+      "name": "Costco Gas Station",
+      "distance": "0.3 mi",
+      "url": "https://www.google.com/maps/search/Costco%20Gas%20Station+near+40.692755999999996%2C-74.295597"
+    }
+  ]
+}

@@ -1,0 +1,184 @@
+{
+  "quick_bite": [
+    {
+      "name": "Subway",
+      "distance": "0.5 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Subway&query_place_id=ChIJIbeZfJJTwokRzh62ySm9m-c&center=40.72851,-74.1510283"
+    },
+    {
+      "name": "Vieira & Gomes Corporation",
+      "distance": "0.8 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Vieira%20%26%20Gomes%20Corporation&query_place_id=ChIJHwqaMpZTwokRpdlV2PYCnlk&center=40.7209966,-74.1561407"
+    },
+    {
+      "name": "Cafe Noponto",
+      "distance": "0.8 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Cafe%20Noponto&query_place_id=ChIJ-8BfdRxTwokR0E6Zr2AP2U0&center=40.729939,-74.1576682"
+    },
+    {
+      "name": "Chuck E. Cheese",
+      "distance": "2.5 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Chuck%20E.%20Cheese&query_place_id=ChIJxa7oUzdRwokRejK703aEyns&center=40.7218084,-74.0949193"
+    }
+  ],
+  "coffee": [
+    {
+      "name": "Costa Nova Cafe",
+      "distance": "0.2 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Costa%20Nova%20Cafe&query_place_id=ChIJ_19yZ61TwokR3Lw693U76Yw&center=40.7283228,-74.145879"
+    },
+    {
+      "name": "Vic's Cafe",
+      "distance": "0.4 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Vic's%20Cafe&query_place_id=ChIJP9PaY_FTwokRH3JKHvpKKyg&center=40.731408099999996,-74.14139089999999"
+    },
+    {
+      "name": "Cantinho D'Avo",
+      "distance": "0.4 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Cantinho%20D'Avo&query_place_id=ChIJvTMrYxxTwokR74w4GH5vhJw&center=40.731418,-74.1414269"
+    },
+    {
+      "name": "MINAS CAFE NEWARK",
+      "distance": "0.8 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=MINAS%20CAFE%20NEWARK&query_place_id=ChIJR-uRMQBTwokR9QK8pKlWEVU&center=40.7294124,-74.1573015"
+    },
+    {
+      "name": "condando scooter & motorcylce rentals",
+      "distance": "2.0 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=condando%20scooter%20%26%20motorcylce%20rentals&query_place_id=ChIJ3YTa8XpTwokRzc5sg_r_da0&center=40.7234586,-74.18072699999999"
+    }
+  ],
+  "team_lunch": [
+    {
+      "name": "Logicamente assim",
+      "distance": "0.2 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Logicamente%20assim&query_place_id=ChIJJQSm501TwokRKgEvvDWPAEs&center=40.7247031,-74.1452521"
+    },
+    {
+      "name": "Kevon's Deli",
+      "distance": "0.3 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Kevon's%20Deli&query_place_id=ChIJJx1fd5dTwokRywZSEVsmL7c&center=40.7294469,-74.1388418"
+    },
+    {
+      "name": "Ferry Diner & Restaurant",
+      "distance": "0.3 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Ferry%20Diner%20%26%20Restaurant&query_place_id=ChIJPSpeM_JTwokRbVrEbYRV1Pc&center=40.7305506,-74.1425888"
+    },
+    {
+      "name": "La Jarochita food truck",
+      "distance": "0.4 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=La%20Jarochita%20food%20truck&query_place_id=ChIJr-_VOABTwokRV3ffp7i6Xrw&center=40.7207085,-74.1431238"
+    },
+    {
+      "name": "El Fogón Bar and Restaurant",
+      "distance": "0.4 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=El%20Fog%C3%B3n%20Bar%20and%20Restaurant&query_place_id=ChIJbxIdmS9TwokRtujNz6u7zhc&center=40.731075,-74.145774"
+    }
+  ],
+  "dinner": [
+    {
+      "name": "Teixeira's Bakery",
+      "distance": "0.2 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Teixeira's%20Bakery&query_place_id=ChIJ1ZwL7exTwokRBt6qpof9KLM&center=40.7247463,-74.14553819999999"
+    },
+    {
+      "name": "Iberia Bakery Inc",
+      "distance": "0.2 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Iberia%20Bakery%20Inc&query_place_id=ChIJ1ZwL7exTwokRN9Qqm62r02U&center=40.724829,-74.145641"
+    },
+    {
+      "name": "Pour Abbey's Bar & Grill",
+      "distance": "0.2 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Pour%20Abbey's%20Bar%20%26%20Grill&query_place_id=ChIJaYhH0fFTwokRwLd6bzWn00A&center=40.7280866,-74.139048"
+    },
+    {
+      "name": "Spanish Sangria",
+      "distance": "0.2 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Spanish%20Sangria&query_place_id=ChIJwb8-hexTwokR9mx7mkxygsU&center=40.7239959,-74.14532849999999"
+    },
+    {
+      "name": "Vila Verde BBQ",
+      "distance": "0.2 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Vila%20Verde%20BBQ&query_place_id=ChIJY7dJ1-xTwokRgXtJURF9CZg&center=40.7261434,-74.1467277"
+    }
+  ],
+  "bowling": [
+    {
+      "name": "Hudson Lanes",
+      "distance": "3.5 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Hudson%20Lanes&query_place_id=ChIJZ5ONeqJRwokRk9cEyVLlrpY&center=40.6864585,-74.0998001",
+      "isFar": true
+    },
+    {
+      "name": "Nationwide Bowling Inc",
+      "distance": "3.5 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Nationwide%20Bowling%20Inc&query_place_id=ChIJZ5ONeqJRwokRnlIMzZwBtJE&center=40.6864432,-74.0996413",
+      "isFar": true
+    },
+    {
+      "name": "New North Arlington Bowl",
+      "distance": "4.1 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=New%20North%20Arlington%20Bowl&query_place_id=ChIJqXGAkhRUwokRRonO-6Ca4FY&center=40.7839762,-74.1256523",
+      "isFar": true
+    }
+  ],
+  "arcade": [],
+  "movies": [
+    {
+      "name": "CityPlex 12 Newark",
+      "distance": "2.9 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=CityPlex%2012%20Newark&query_place_id=ChIJ-9KziUJTwokR9jaQ-SaUGYI&center=40.733568299999995,-74.1964655"
+    }
+  ],
+  "fun": [
+    {
+      "name": "Independence Park Splash Pad",
+      "distance": "1.0 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Independence%20Park%20Splash%20Pad&query_place_id=ChIJd0i4rCxTwokRWqqmUgwTyHk&center=40.723426599999996,-74.1613127"
+    },
+    {
+      "name": "Ex-Casa do Paulo Landim II",
+      "distance": "1.1 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Ex-Casa%20do%20Paulo%20Landim%20II&query_place_id=ChIJDb5ncCRTwokRGrw-W8WJp6s&center=40.723808999999996,-74.1623347"
+    },
+    {
+      "name": "Mural by Hiroshi Murata",
+      "distance": "1.3 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Mural%20by%20Hiroshi%20Murata&query_place_id=ChIJlQhZUwBTwokRGhacoFfuVo8&center=40.734957699999995,-74.1642598"
+    },
+    {
+      "name": "SPORTS Illustraded",
+      "distance": "1.6 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=SPORTS%20Illustraded&query_place_id=ChIJCcaMKwBTwokRvfEY0OjSKJc&center=40.7367324,-74.169401"
+    }
+  ],
+  "hotels": [
+    {
+      "name": "Very Quiet, Clean and comfortable",
+      "distance": "0.4 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Very%20Quiet%2C%20Clean%20and%20comfortable&query_place_id=ChIJ6egr4fNTwokRw51DLVMvsuA&center=40.731998399999995,-74.14196009999999"
+    }
+  ],
+  "gas": [
+    {
+      "name": "Charles Knehr & Sons Getty",
+      "distance": "0.5 mi",
+      "url": "https://www.google.com/maps/search/Charles%20Knehr%20%26%20Sons%20Getty+near+40.7261932%2C-74.14231029999999"
+    },
+    {
+      "name": "Power Fuel",
+      "distance": "0.5 mi",
+      "url": "https://www.google.com/maps/search/Power%20Fuel+near+40.7261932%2C-74.14231029999999"
+    },
+    {
+      "name": "Delta",
+      "distance": "0.5 mi",
+      "url": "https://www.google.com/maps/search/Delta+near+40.7261932%2C-74.14231029999999"
+    },
+    {
+      "name": "Sunoco",
+      "distance": "0.6 mi",
+      "url": "https://www.google.com/maps/search/Sunoco+near+40.7261932%2C-74.14231029999999"
+    }
+  ]
+}

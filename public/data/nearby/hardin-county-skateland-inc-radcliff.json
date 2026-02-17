@@ -1,0 +1,219 @@
+{
+  "quick_bite": [
+    {
+      "name": "My Hot Spot | Fine Dining Restaurant",
+      "distance": "0.4 mi",
+      "url": "https://www.google.com/maps/search/My%20Hot%20Spot%20%7C%20Fine%20Dining%20Restaurant+near+37.823682399999996%2C-85.9281975"
+    },
+    {
+      "name": "Captain D's",
+      "distance": "0.8 mi",
+      "url": "https://www.google.com/maps/search/Captain%20D's+near+37.823682399999996%2C-85.9281975"
+    },
+    {
+      "name": "Freddy's Frozen Custard & Steakburgers",
+      "distance": "0.9 mi",
+      "url": "https://www.google.com/maps/search/Freddy's%20Frozen%20Custard%20%26%20Steakburgers+near+37.823682399999996%2C-85.9281975"
+    },
+    {
+      "name": "Taco Bell",
+      "distance": "1.0 mi",
+      "url": "https://www.google.com/maps/search/Taco%20Bell+near+37.823682399999996%2C-85.9281975"
+    },
+    {
+      "name": "Burger King",
+      "distance": "1.1 mi",
+      "url": "https://www.google.com/maps/search/Burger%20King+near+37.823682399999996%2C-85.9281975"
+    },
+    {
+      "name": "Waffle House",
+      "distance": "1.2 mi",
+      "url": "https://www.google.com/maps/search/Waffle%20House+near+37.823682399999996%2C-85.9281975"
+    },
+    {
+      "name": "Lee's Famous Recipe Chicken",
+      "distance": "1.2 mi",
+      "url": "https://www.google.com/maps/search/Lee's%20Famous%20Recipe%20Chicken+near+37.823682399999996%2C-85.9281975"
+    }
+  ],
+  "coffee": [
+    {
+      "name": "Apostoli Coffee",
+      "distance": "0.7 mi",
+      "url": "https://www.google.com/maps/search/Apostoli%20Coffee+near+37.823682399999996%2C-85.9281975"
+    },
+    {
+      "name": "McDonald's",
+      "distance": "1.2 mi",
+      "url": "https://www.google.com/maps/search/McDonald's+near+37.823682399999996%2C-85.9281975"
+    }
+  ],
+  "team_lunch": [
+    {
+      "name": "Blissful Bakes by Jess",
+      "distance": "0.7 mi",
+      "url": "https://www.google.com/maps/search/Blissful%20Bakes%20by%20Jess+near+37.823682399999996%2C-85.9281975"
+    },
+    {
+      "name": "power stashoin",
+      "distance": "0.8 mi",
+      "url": "https://www.google.com/maps/search/power%20stashoin+near+37.823682399999996%2C-85.9281975"
+    },
+    {
+      "name": "MA TAMALES",
+      "distance": "1.0 mi",
+      "url": "https://www.google.com/maps/search/MA%20TAMALES+near+37.823682399999996%2C-85.9281975"
+    }
+  ],
+  "dinner": [
+    {
+      "name": "Eat at the Spot",
+      "distance": "0.4 mi",
+      "url": "https://www.google.com/maps/search/Eat%20at%20the%20Spot+near+37.823682399999996%2C-85.9281975"
+    },
+    {
+      "name": "Sakura 17 Japanese restaurant",
+      "distance": "0.8 mi",
+      "url": "https://www.google.com/maps/search/Sakura%2017%20Japanese%20restaurant+near+37.823682399999996%2C-85.9281975"
+    },
+    {
+      "name": "El Molino Mexican Restaurant",
+      "distance": "0.9 mi",
+      "url": "https://www.google.com/maps/search/El%20Molino%20Mexican%20Restaurant+near+37.823682399999996%2C-85.9281975"
+    },
+    {
+      "name": "Papa Haoles Hawaiian Food Truck",
+      "distance": "1.0 mi",
+      "url": "https://www.google.com/maps/search/Papa%20Haoles%20Hawaiian%20Food%20Truck+near+37.823682399999996%2C-85.9281975"
+    },
+    {
+      "name": "Simply Fresh Donutz",
+      "distance": "1.1 mi",
+      "url": "https://www.google.com/maps/search/Simply%20Fresh%20Donutz+near+37.823682399999996%2C-85.9281975"
+    }
+  ],
+  "bowling": [
+    {
+      "name": "Strike & Spare B&B Lanes",
+      "distance": "5.3 mi",
+      "url": "https://www.google.com/maps/search/Strike%20%26%20Spare%20B%26B%20Lanes+near+37.823682399999996%2C-85.9281975",
+      "isFar": true
+    },
+    {
+      "name": "Houston Bowling Center",
+      "distance": "6.1 mi",
+      "url": "https://www.google.com/maps/search/Houston%20Bowling%20Center+near+37.823682399999996%2C-85.9281975",
+      "isFar": true
+    }
+  ],
+  "arcade": [],
+  "movies": [
+    {
+      "name": "Waybur Theatre",
+      "distance": "5.1 mi",
+      "url": "https://www.google.com/maps/search/Waybur%20Theatre+near+37.823682399999996%2C-85.9281975",
+      "isFar": true
+    },
+    {
+      "name": "Crowne Pointe Theatre",
+      "distance": "8.9 mi",
+      "url": "https://www.google.com/maps/search/Crowne%20Pointe%20Theatre+near+37.823682399999996%2C-85.9281975",
+      "isFar": true
+    }
+  ],
+  "fun": [
+    {
+      "name": "Blazer's Fun Zone",
+      "distance": "1.4 mi",
+      "url": "https://www.google.com/maps/search/Blazer's%20Fun%20Zone+near+37.823682399999996%2C-85.9281975"
+    },
+    {
+      "name": "Fort Knox Water Park",
+      "distance": "5.9 mi",
+      "url": "https://www.google.com/maps/search/Fort%20Knox%20Water%20Park+near+37.823682399999996%2C-85.9281975",
+      "isFar": true
+    },
+    {
+      "name": "Malibu Jack's Elizabethtown",
+      "distance": "6.7 mi",
+      "url": "https://www.google.com/maps/search/Malibu%20Jack's%20Elizabethtown+near+37.823682399999996%2C-85.9281975",
+      "isFar": true
+    },
+    {
+      "name": "Sky's the Limit",
+      "distance": "9.1 mi",
+      "url": "https://www.google.com/maps/search/Sky's%20the%20Limit+near+37.823682399999996%2C-85.9281975",
+      "isFar": true
+    },
+    {
+      "name": "Unlock Elizabethtown",
+      "distance": "9.4 mi",
+      "url": "https://www.google.com/maps/search/Unlock%20Elizabethtown+near+37.823682399999996%2C-85.9281975",
+      "isFar": true
+    }
+  ],
+  "hotels": [
+    {
+      "name": "Duvall Mobile Home Park",
+      "distance": "0.2 mi",
+      "url": "https://www.google.com/maps/search/Duvall%20Mobile%20Home%20Park+near+37.823682399999996%2C-85.9281975"
+    },
+    {
+      "name": "Sunset Village",
+      "distance": "0.2 mi",
+      "url": "https://www.google.com/maps/search/Sunset%20Village+near+37.823682399999996%2C-85.9281975"
+    },
+    {
+      "name": "Masden Mobile Park",
+      "distance": "0.3 mi",
+      "url": "https://www.google.com/maps/search/Masden%20Mobile%20Park+near+37.823682399999996%2C-85.9281975"
+    },
+    {
+      "name": "Yarwood Mobile Home Park",
+      "distance": "0.3 mi",
+      "url": "https://www.google.com/maps/search/Yarwood%20Mobile%20Home%20Park+near+37.823682399999996%2C-85.9281975"
+    },
+    {
+      "name": "Hardin county mobile heme park",
+      "distance": "0.3 mi",
+      "url": "https://www.google.com/maps/search/Hardin%20county%20mobile%20heme%20park+near+37.823682399999996%2C-85.9281975"
+    },
+    {
+      "name": "Yarwood Mobile Home Park- Lot 139",
+      "distance": "0.3 mi",
+      "url": "https://www.google.com/maps/search/Yarwood%20Mobile%20Home%20Park-%20Lot%20139+near+37.823682399999996%2C-85.9281975"
+    },
+    {
+      "name": "Valor Cottage / close to Ft. Knox and Louisville",
+      "distance": "0.5 mi",
+      "url": "https://www.google.com/maps/search/Valor%20Cottage%20%2F%20close%20to%20Ft.%20Knox%20and%20Louisville+near+37.823682399999996%2C-85.9281975"
+    }
+  ],
+  "gas": [
+    {
+      "name": "Shamrock",
+      "distance": "0.5 mi",
+      "url": "https://www.google.com/maps/search/Shamrock+near+37.823682399999996%2C-85.9281975"
+    },
+    {
+      "name": "Valero",
+      "distance": "0.5 mi",
+      "url": "https://www.google.com/maps/search/Valero+near+37.823682399999996%2C-85.9281975"
+    },
+    {
+      "name": "Marathon Gas",
+      "distance": "0.7 mi",
+      "url": "https://www.google.com/maps/search/Marathon%20Gas+near+37.823682399999996%2C-85.9281975"
+    },
+    {
+      "name": "Marathon Gas",
+      "distance": "1.2 mi",
+      "url": "https://www.google.com/maps/search/Marathon%20Gas+near+37.823682399999996%2C-85.9281975"
+    },
+    {
+      "name": "Shell",
+      "distance": "1.4 mi",
+      "url": "https://www.google.com/maps/search/Shell+near+37.823682399999996%2C-85.9281975"
+    }
+  ]
+}

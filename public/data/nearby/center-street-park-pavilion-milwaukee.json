@@ -1,0 +1,276 @@
+{
+  "quick_bite": [
+    {
+      "name": "Dairy Queen",
+      "distance": "0.4 mi",
+      "url": "https://www.google.com/maps/search/Dairy%20Queen+near+43.0666197%2C-87.9928422"
+    },
+    {
+      "name": "JJ fish & Chicken",
+      "distance": "0.4 mi",
+      "url": "https://www.google.com/maps/search/JJ%20fish%20%26%20Chicken+near+43.0666197%2C-87.9928422"
+    },
+    {
+      "name": "Gyros Corner",
+      "distance": "0.4 mi",
+      "url": "https://www.google.com/maps/search/Gyros%20Corner+near+43.0666197%2C-87.9928422"
+    },
+    {
+      "name": "KFC",
+      "distance": "0.4 mi",
+      "url": "https://www.google.com/maps/search/KFC+near+43.0666197%2C-87.9928422"
+    },
+    {
+      "name": "Little Caesars Pizza",
+      "distance": "0.5 mi",
+      "url": "https://www.google.com/maps/search/Little%20Caesars%20Pizza+near+43.0666197%2C-87.9928422"
+    }
+  ],
+  "coffee": [
+    {
+      "name": "Cafe Blue",
+      "distance": "0.4 mi",
+      "url": "https://www.google.com/maps/search/Cafe%20Blue+near+43.0666197%2C-87.9928422"
+    },
+    {
+      "name": "Delicious Bites",
+      "distance": "0.4 mi",
+      "url": "https://www.google.com/maps/search/Delicious%20Bites+near+43.0666197%2C-87.9928422"
+    },
+    {
+      "name": "The Little Village Play Cafe",
+      "distance": "0.4 mi",
+      "url": "https://www.google.com/maps/search/The%20Little%20Village%20Play%20Cafe+near+43.0666197%2C-87.9928422"
+    },
+    {
+      "name": "McDonald's",
+      "distance": "0.4 mi",
+      "url": "https://www.google.com/maps/search/McDonald's+near+43.0666197%2C-87.9928422"
+    }
+  ],
+  "team_lunch": [
+    {
+      "name": "Red Snapper Fish Company",
+      "distance": "0.3 mi",
+      "url": "https://www.google.com/maps/search/Red%20Snapper%20Fish%20Company+near+43.0666197%2C-87.9928422"
+    },
+    {
+      "name": "Garden House Subs & Sandwiches Shop LLC",
+      "distance": "0.4 mi",
+      "url": "https://www.google.com/maps/search/Garden%20House%20Subs%20%26%20Sandwiches%20Shop%20LLC+near+43.0666197%2C-87.9928422"
+    },
+    {
+      "name": "Great Taste Chinese",
+      "distance": "0.4 mi",
+      "url": "https://www.google.com/maps/search/Great%20Taste%20Chinese+near+43.0666197%2C-87.9928422"
+    },
+    {
+      "name": "No 1 Chinese Restaurant",
+      "distance": "0.4 mi",
+      "url": "https://www.google.com/maps/search/No%201%20Chinese%20Restaurant+near+43.0666197%2C-87.9928422"
+    }
+  ],
+  "dinner": [
+    {
+      "name": "Grandma's Hands",
+      "distance": "0.2 mi",
+      "url": "https://www.google.com/maps/search/Grandma's%20Hands+near+43.0666197%2C-87.9928422"
+    },
+    {
+      "name": "Five Corner Fish Market",
+      "distance": "0.3 mi",
+      "url": "https://www.google.com/maps/search/Five%20Corner%20Fish%20Market+near+43.0666197%2C-87.9928422"
+    },
+    {
+      "name": "Wauwatiki Bar & Grill",
+      "distance": "0.4 mi",
+      "url": "https://www.google.com/maps/search/Wauwatiki%20Bar%20%26%20Grill+near+43.0666197%2C-87.9928422"
+    },
+    {
+      "name": "Crafty Cow - Burgers & Fried Chicken",
+      "distance": "0.4 mi",
+      "url": "https://www.google.com/maps/search/Crafty%20Cow%20-%20Burgers%20%26%20Fried%20Chicken+near+43.0666197%2C-87.9928422"
+    },
+    {
+      "name": "Outlaw Oyster",
+      "distance": "0.4 mi",
+      "url": "https://www.google.com/maps/search/Outlaw%20Oyster+near+43.0666197%2C-87.9928422"
+    },
+    {
+      "name": "Ted's Ice Cream & Restaurant",
+      "distance": "0.4 mi",
+      "url": "https://www.google.com/maps/search/Ted's%20Ice%20Cream%20%26%20Restaurant+near+43.0666197%2C-87.9928422"
+    },
+    {
+      "name": "Ca’Lucchenzo",
+      "distance": "0.5 mi",
+      "url": "https://www.google.com/maps/search/Ca%E2%80%99Lucchenzo+near+43.0666197%2C-87.9928422"
+    }
+  ],
+  "bowling": [
+    {
+      "name": "Highland Lanes",
+      "distance": "1.2 mi",
+      "url": "https://www.google.com/maps/search/Highland%20Lanes+near+43.0666197%2C-87.9928422"
+    },
+    {
+      "name": "Bowlero Wauwatosa",
+      "distance": "3.5 mi",
+      "url": "https://www.google.com/maps/search/Bowlero%20Wauwatosa+near+43.0666197%2C-87.9928422",
+      "isFar": true
+    },
+    {
+      "name": "Riviera Lanes",
+      "distance": "3.7 mi",
+      "url": "https://www.google.com/maps/search/Riviera%20Lanes+near+43.0666197%2C-87.9928422",
+      "isFar": true
+    },
+    {
+      "name": "Burnham Bowl",
+      "distance": "3.9 mi",
+      "url": "https://www.google.com/maps/search/Burnham%20Bowl+near+43.0666197%2C-87.9928422",
+      "isFar": true
+    },
+    {
+      "name": "The New Fashioned - A Bars & Recreation Experience",
+      "distance": "4.2 mi",
+      "url": "https://www.google.com/maps/search/The%20New%20Fashioned%20-%20A%20Bars%20%26%20Recreation%20Experience+near+43.0666197%2C-87.9928422",
+      "isFar": true
+    },
+    {
+      "name": "Bluemound Bowl",
+      "distance": "4.6 mi",
+      "url": "https://www.google.com/maps/search/Bluemound%20Bowl+near+43.0666197%2C-87.9928422",
+      "isFar": true
+    },
+    {
+      "name": "Falcon Bowl | Historic Bowling Alley & Event Hall",
+      "distance": "4.6 mi",
+      "url": "https://www.google.com/maps/search/Falcon%20Bowl%20%7C%20Historic%20Bowling%20Alley%20%26%20Event%20Hall+near+43.0666197%2C-87.9928422",
+      "isFar": true
+    }
+  ],
+  "arcade": [],
+  "movies": [
+    {
+      "name": "Rosebud Cinema Drafthouse by the Neighborhood Theater Group, LLC",
+      "distance": "0.5 mi",
+      "url": "https://www.google.com/maps/search/Rosebud%20Cinema%20Drafthouse%20by%20the%20Neighborhood%20Theater%20Group%2C%20LLC+near+43.0666197%2C-87.9928422"
+    },
+    {
+      "name": "The Times Cinema by the Neighborhood Theater Group, LLC",
+      "distance": "1.2 mi",
+      "url": "https://www.google.com/maps/search/The%20Times%20Cinema%20by%20the%20Neighborhood%20Theater%20Group%2C%20LLC+near+43.0666197%2C-87.9928422"
+    },
+    {
+      "name": "AMC Mayfair Mall 18",
+      "distance": "2.6 mi",
+      "url": "https://www.google.com/maps/search/AMC%20Mayfair%20Mall%2018+near+43.0666197%2C-87.9928422"
+    }
+  ],
+  "fun": [
+    {
+      "name": "GEL TOY NATION (Shipping Warehouse)no pickup",
+      "distance": "2.2 mi",
+      "url": "https://www.google.com/maps/search/GEL%20TOY%20NATION%20(Shipping%20Warehouse)no%20pickup+near+43.0666197%2C-87.9928422"
+    },
+    {
+      "name": "FUNBOX MILWAUKEE",
+      "distance": "2.6 mi",
+      "url": "https://www.google.com/maps/search/FUNBOX%20MILWAUKEE+near+43.0666197%2C-87.9928422"
+    },
+    {
+      "name": "Smash Zone",
+      "distance": "2.8 mi",
+      "url": "https://www.google.com/maps/search/Smash%20Zone+near+43.0666197%2C-87.9928422"
+    },
+    {
+      "name": "First and Bowl – Football Bowling, Group Parties, and Corporate Team Building",
+      "distance": "3.2 mi",
+      "url": "https://www.google.com/maps/search/First%20and%20Bowl%20%E2%80%93%20Football%20Bowling%2C%20Group%20Parties%2C%20and%20Corporate%20Team%20Building+near+43.0666197%2C-87.9928422",
+      "isFar": true
+    },
+    {
+      "name": "Slick City Action Park",
+      "distance": "3.4 mi",
+      "url": "https://www.google.com/maps/search/Slick%20City%20Action%20Park+near+43.0666197%2C-87.9928422",
+      "isFar": true
+    },
+    {
+      "name": "Game Show MKE - A Bars & Recreation Experience",
+      "distance": "3.8 mi",
+      "url": "https://www.google.com/maps/search/Game%20Show%20MKE%20-%20A%20Bars%20%26%20Recreation%20Experience+near+43.0666197%2C-87.9928422",
+      "isFar": true
+    },
+    {
+      "name": "Game Show Battle Rooms - Milwaukee (Brookfield)",
+      "distance": "4.0 mi",
+      "url": "https://www.google.com/maps/search/Game%20Show%20Battle%20Rooms%20-%20Milwaukee%20(Brookfield)+near+43.0666197%2C-87.9928422",
+      "isFar": true
+    }
+  ],
+  "hotels": [
+    {
+      "name": "Charming 2-bedroom, 2 bathroom home in desirable Milwaukee suburb",
+      "distance": "0.1 mi",
+      "url": "https://www.google.com/maps/search/Charming%202-bedroom%2C%202%20bathroom%20home%20in%20desirable%20Milwaukee%20suburb+near+43.0666197%2C-87.9928422"
+    },
+    {
+      "name": "Charming East Tosa Flat - Upper",
+      "distance": "0.1 mi",
+      "url": "https://www.google.com/maps/search/Charming%20East%20Tosa%20Flat%20-%20Upper+near+43.0666197%2C-87.9928422"
+    },
+    {
+      "name": "Charming Spacious Comfort Near Tosa - 11 minutes to Froedtert Hospital",
+      "distance": "0.2 mi",
+      "url": "https://www.google.com/maps/search/Charming%20Spacious%20Comfort%20Near%20Tosa%20-%2011%20minutes%20to%20Froedtert%20Hospital+near+43.0666197%2C-87.9928422"
+    },
+    {
+      "name": "Central Spacious Unit: Pet Friendly W/ King Bed",
+      "distance": "0.2 mi",
+      "url": "https://www.google.com/maps/search/Central%20Spacious%20Unit%3A%20Pet%20Friendly%20W%2F%20King%20Bed+near+43.0666197%2C-87.9928422"
+    },
+    {
+      "name": "Newley Remodeled 1 Bedroom Apartment -Near Wauwatosa, Free Parking",
+      "distance": "0.2 mi",
+      "url": "https://www.google.com/maps/search/Newley%20Remodeled%201%20Bedroom%20Apartment%20-Near%20Wauwatosa%2C%20Free%20Parking+near+43.0666197%2C-87.9928422"
+    },
+    {
+      "name": "Charming Spacious Long-Stay Comfort Near Tosa!",
+      "distance": "0.2 mi",
+      "url": "https://www.google.com/maps/search/Charming%20Spacious%20Long-Stay%20Comfort%20Near%20Tosa!+near+43.0666197%2C-87.9928422"
+    },
+    {
+      "name": "Newley Remodeled Apartment W/ Parking - Near Tosa",
+      "distance": "0.2 mi",
+      "url": "https://www.google.com/maps/search/Newley%20Remodeled%20Apartment%20W%2F%20Parking%20-%20Near%20Tosa+near+43.0666197%2C-87.9928422"
+    }
+  ],
+  "gas": [
+    {
+      "name": "Z Petro Mart",
+      "distance": "0.4 mi",
+      "url": "https://www.google.com/maps/search/Z%20Petro%20Mart+near+43.0666197%2C-87.9928422"
+    },
+    {
+      "name": "CENTER ST CITGO",
+      "distance": "0.4 mi",
+      "url": "https://www.google.com/maps/search/CENTER%20ST%20CITGO+near+43.0666197%2C-87.9928422"
+    },
+    {
+      "name": "Speedway",
+      "distance": "0.5 mi",
+      "url": "https://www.google.com/maps/search/Speedway+near+43.0666197%2C-87.9928422"
+    },
+    {
+      "name": "Clark",
+      "distance": "0.5 mi",
+      "url": "https://www.google.com/maps/search/Clark+near+43.0666197%2C-87.9928422"
+    },
+    {
+      "name": "Lisbon Gas Depot",
+      "distance": "0.6 mi",
+      "url": "https://www.google.com/maps/search/Lisbon%20Gas%20Depot+near+43.0666197%2C-87.9928422"
+    }
+  ]
+}

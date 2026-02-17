@@ -1,0 +1,203 @@
+{
+  "quick_bite": [
+    {
+      "name": "Chuck E. Cheese",
+      "distance": "0.2 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Chuck%20E.%20Cheese&query_place_id=ChIJx5b0BvpXNIgR0tfuqmRSU04&center=40.3644074,-80.11039269999999"
+    },
+    {
+      "name": "Subway",
+      "distance": "0.2 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Subway&query_place_id=ChIJrdPSgvpXNIgR79vitUFTPnM&center=40.3646969,-80.1109773"
+    },
+    {
+      "name": "Chick-fil-A",
+      "distance": "0.2 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Chick-fil-A&query_place_id=ChIJyfJhPUtXNIgRjtROl_yLFoc&center=40.3654223,-80.1090426"
+    },
+    {
+      "name": "Sonic Drive-In",
+      "distance": "0.2 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Sonic%20Drive-In&query_place_id=ChIJX3CbxPtXNIgRr3Ehxv9J6uc&center=40.3654568,-80.10964"
+    }
+  ],
+  "coffee": [
+    {
+      "name": "Starbucks Coffee Company",
+      "distance": "0.3 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Starbucks%20Coffee%20Company&query_place_id=ChIJl4WPaQBXNIgR2ZE6GGZRrhI&center=40.36575,-80.11023"
+    },
+    {
+      "name": "Panera Bread",
+      "distance": "0.3 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Panera%20Bread&query_place_id=ChIJk_Mp3oZjy4kRYRbi1kc8cYk&center=40.366003,-80.10807"
+    },
+    {
+      "name": "Dunkin'",
+      "distance": "0.4 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Dunkin'&query_place_id=ChIJ_Q9huvtXNIgRGs6aQJrX8No&center=40.366661199999996,-80.1054377"
+    },
+    {
+      "name": "LaBella Bean Coffee House & Eatery",
+      "distance": "0.4 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=LaBella%20Bean%20Coffee%20House%20%26%20Eatery&query_place_id=ChIJoY-PGOlXNIgRz0fduRkM9Z0&center=40.3571385,-80.1127533"
+    },
+    {
+      "name": "Bartram House Cafe and Bakery",
+      "distance": "0.8 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Bartram%20House%20Cafe%20and%20Bakery&query_place_id=ChIJidxlQKhXNIgRvcBm1IN9pw4&center=40.356243299999996,-80.1226276"
+    }
+  ],
+  "team_lunch": [
+    {
+      "name": "Doce Taqueria Bridgeville",
+      "distance": "0.3 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Doce%20Taqueria%20Bridgeville&query_place_id=ChIJQVFmhkRXNIgRoc-rm_GK4sg&center=40.366571199999996,-80.1087001"
+    },
+    {
+      "name": "Burgh's Pizza & Wing Pub",
+      "distance": "0.4 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Burgh's%20Pizza%20%26%20Wing%20Pub&query_place_id=ChIJdx0KJelXNIgRXqfC9pKc_bU&center=40.3575447,-80.1124547"
+    },
+    {
+      "name": "Philly Pretzel Factory",
+      "distance": "0.6 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Philly%20Pretzel%20Factory&query_place_id=ChIJS-jilP5XNIgRBOE7L3cUlM4&center=40.368508299999995,-80.10220939999999"
+    },
+    {
+      "name": "Primanti Bros. Restaurant and Bar",
+      "distance": "0.8 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Primanti%20Bros.%20Restaurant%20and%20Bar&query_place_id=ChIJCUPo5a9XNIgRVKCYLeKHEE8&center=40.3563003,-80.1225509"
+    }
+  ],
+  "dinner": [
+    {
+      "name": "Shouf's Cafe",
+      "distance": "0.1 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Shouf's%20Cafe&query_place_id=ChIJp6KyH_BXNIgREZCLtFVQUxs&center=40.3630955,-80.1105327"
+    },
+    {
+      "name": "Big Guys Pizza",
+      "distance": "0.2 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Big%20Guys%20Pizza&query_place_id=ChIJ1QHkaO9XNIgRCtwatoEHvKk&center=40.3596505,-80.11021319999999"
+    },
+    {
+      "name": "Classic Chinese Cuisine",
+      "distance": "0.2 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Classic%20Chinese%20Cuisine&query_place_id=ChIJx5b0BvpXNIgRq5c1lEivRRw&center=40.3646333,-80.1111232"
+    },
+    {
+      "name": "Serafina's Pizza",
+      "distance": "0.3 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Serafina's%20Pizza&query_place_id=ChIJh56uUe9XNIgRhShgeSDD180&center=40.358413,-80.1099826"
+    },
+    {
+      "name": "Di Mario's Railroad St Cafe",
+      "distance": "0.3 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Di%20Mario's%20Railroad%20St%20Cafe&query_place_id=ChIJe6qPTu9XNIgRqU4eKB78Gxs&center=40.3582824,-80.11022439999999"
+    },
+    {
+      "name": "31 Sports Bar & Grille",
+      "distance": "0.3 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=31%20Sports%20Bar%20%26%20Grille&query_place_id=ChIJyT7ysvtXNIgRRQuW5Xk-hLw&center=40.366036199999996,-80.10637679999999"
+    }
+  ],
+  "bowling": [
+    {
+      "name": "Sports Haven Bowl",
+      "distance": "0.1 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Sports%20Haven%20Bowl&query_place_id=ChIJwwYige9XNIgRqLIvPWtQPb4&center=40.3606972,-80.10965829999999"
+    },
+    {
+      "name": "AMF Mt. Lebanon Lanes",
+      "distance": "3.2 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=AMF%20Mt.%20Lebanon%20Lanes&query_place_id=ChIJ_QOhFMz5NIgRZsTsRn2HTZI&center=40.35383960000001,-80.0493273",
+      "isFar": true
+    }
+  ],
+  "arcade": [],
+  "movies": [
+    {
+      "name": "Phoenix Theatres Luxury 14 + PTX",
+      "distance": "0.4 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Phoenix%20Theatres%20Luxury%2014%20%2B%20PTX&query_place_id=ChIJm3BBu_BXNIgR41yDTJ3C3K8&center=40.367894,-80.112015"
+    },
+    {
+      "name": "AMC CLASSIC Mount Lebanon 6",
+      "distance": "3.0 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=AMC%20CLASSIC%20Mount%20Lebanon%206&query_place_id=ChIJVVVVac35NIgRumdqkdKC1hQ&center=40.3572442,-80.05227099999999"
+    },
+    {
+      "name": "AMC CLASSIC South Hills Village 10",
+      "distance": "3.2 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=AMC%20CLASSIC%20South%20Hills%20Village%2010&query_place_id=ChIJH4i4UEv4NIgRbkFXe7jNF1o&center=40.343377499999995,-80.0539289",
+      "isFar": true
+    }
+  ],
+  "fun": [
+    {
+      "name": "Altitude Trampoline Park - Pittsburgh/Bridgeville",
+      "distance": "0.5 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Altitude%20Trampoline%20Park%20-%20Pittsburgh%2FBridgeville&query_place_id=ChIJS-KnMVVXNIgRI4qpzLbCoqo&center=40.36854890000001,-80.1096187"
+    },
+    {
+      "name": "Fairview Park Splash Pad",
+      "distance": "2.4 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Fairview%20Park%20Splash%20Pad&query_place_id=ChIJi4PrdgBXNIgRbh58qi0VaB0&center=40.3277216,-80.1154194"
+    },
+    {
+      "name": "Eatmoreash Bridge",
+      "distance": "3.0 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Eatmoreash%20Bridge&query_place_id=ChIJk60ZMQD3NIgRS1hn0UcWPQY&center=40.402217799999995,-80.0886245"
+    }
+  ],
+  "hotels": [
+    {
+      "name": "Holiday Inn Express Pittsburgh-Bridgeville by IHG",
+      "distance": "0.7 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Holiday%20Inn%20Express%20Pittsburgh-Bridgeville%20by%20IHG&query_place_id=ChIJFf2mesJXNIgReaQ-tzM2Sp4&center=40.3522677,-80.11268559999999"
+    },
+    {
+      "name": "Hampton Inn Pittsburgh-Bridgeville",
+      "distance": "0.8 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Hampton%20Inn%20Pittsburgh-Bridgeville&query_place_id=ChIJZ-aXUpVXNIgRnX-f7qWi7eU&center=40.354214999999996,-80.12053279999999"
+    },
+    {
+      "name": "Cheerful townhome SouthWest of Pittsburgh",
+      "distance": "1.0 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Cheerful%20townhome%20SouthWest%20of%20Pittsburgh&query_place_id=ChIJXV59YI1ZNIgRLPktbXuwYII&center=40.3749659,-80.11789689999999"
+    },
+    {
+      "name": "The House That Love Built Airport, Pgh, Wash PA",
+      "distance": "1.8 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=The%20House%20That%20Love%20Built%20Airport%2C%20Pgh%2C%20Wash%20PA&query_place_id=ChIJQXozx4BXNIgR0SdjsNt5n_o&center=40.3741493,-80.1383133"
+    },
+    {
+      "name": "Kehoe Bed & Breakfast",
+      "distance": "1.9 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Kehoe%20Bed%20%26%20Breakfast&query_place_id=ChIJ6aOjastZNIgRpFwLuRxghnE&center=40.387405199999996,-80.1233033"
+    }
+  ],
+  "gas": [
+    {
+      "name": "Sunoco",
+      "distance": "0.2 mi",
+      "url": "https://www.google.com/maps/search/Sunoco+near+40.361945%2C-80.108735"
+    },
+    {
+      "name": "Gulf",
+      "distance": "0.3 mi",
+      "url": "https://www.google.com/maps/search/Gulf+near+40.361945%2C-80.108735"
+    },
+    {
+      "name": "CoGo's 1322",
+      "distance": "0.3 mi",
+      "url": "https://www.google.com/maps/search/CoGo's%201322+near+40.361945%2C-80.108735"
+    },
+    {
+      "name": "Mike & Rob Inc",
+      "distance": "0.7 mi",
+      "url": "https://www.google.com/maps/search/Mike%20%26%20Rob%20Inc+near+40.361945%2C-80.108735"
+    }
+  ]
+}

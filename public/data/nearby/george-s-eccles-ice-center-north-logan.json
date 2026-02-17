@@ -1,0 +1,220 @@
+{
+  "quick_bite": [
+    {
+      "name": "The Corndog Company",
+      "distance": "0.7 mi",
+      "url": "https://www.google.com/maps/search/The%20Corndog%20Company+near+41.7834165%2C-111.8299498"
+    },
+    {
+      "name": "Mo' Bettahs Hawaiian Style Food",
+      "distance": "0.9 mi",
+      "url": "https://www.google.com/maps/search/Mo'%20Bettahs%20Hawaiian%20Style%20Food+near+41.7834165%2C-111.8299498"
+    },
+    {
+      "name": "Krispy Krunchy Chicken",
+      "distance": "1.2 mi",
+      "url": "https://www.google.com/maps/search/Krispy%20Krunchy%20Chicken+near+41.7834165%2C-111.8299498"
+    },
+    {
+      "name": "Subway",
+      "distance": "1.3 mi",
+      "url": "https://www.google.com/maps/search/Subway+near+41.7834165%2C-111.8299498"
+    },
+    {
+      "name": "Sweeto Burrito",
+      "distance": "1.4 mi",
+      "url": "https://www.google.com/maps/search/Sweeto%20Burrito+near+41.7834165%2C-111.8299498"
+    }
+  ],
+  "coffee": [
+    {
+      "name": "Kneaders Bakery & Cafe",
+      "distance": "1.4 mi",
+      "url": "https://www.google.com/maps/search/Kneaders%20Bakery%20%26%20Cafe+near+41.7834165%2C-111.8299498"
+    },
+    {
+      "name": "Starbucks Coffee Company",
+      "distance": "1.5 mi",
+      "url": "https://www.google.com/maps/search/Starbucks%20Coffee%20Company+near+41.7834165%2C-111.8299498"
+    },
+    {
+      "name": "Logan Lanes Inc.",
+      "distance": "2.1 mi",
+      "url": "https://www.google.com/maps/search/Logan%20Lanes%20Inc.+near+41.7834165%2C-111.8299498"
+    }
+  ],
+  "team_lunch": [
+    {
+      "name": "Gracy's",
+      "distance": "0.7 mi",
+      "url": "https://www.google.com/maps/search/Gracy's+near+41.7834165%2C-111.8299498"
+    },
+    {
+      "name": "Morty's Cafe: North Logan",
+      "distance": "1.5 mi",
+      "url": "https://www.google.com/maps/search/Morty's%20Cafe%3A%20North%20Logan+near+41.7834165%2C-111.8299498"
+    }
+  ],
+  "dinner": [
+    {
+      "name": "Pho King",
+      "distance": "0.7 mi",
+      "url": "https://www.google.com/maps/search/Pho%20King+near+41.7834165%2C-111.8299498"
+    },
+    {
+      "name": "Shaffer House Bakery",
+      "distance": "0.9 mi",
+      "url": "https://www.google.com/maps/search/Shaffer%20House%20Bakery+near+41.7834165%2C-111.8299498"
+    },
+    {
+      "name": "Black Pearl Asian Bistro & Sushi",
+      "distance": "0.9 mi",
+      "url": "https://www.google.com/maps/search/Black%20Pearl%20Asian%20Bistro%20%26%20Sushi+near+41.7834165%2C-111.8299498"
+    },
+    {
+      "name": "Bussin Bread - Alaskan Sourdough",
+      "distance": "1.0 mi",
+      "url": "https://www.google.com/maps/search/Bussin%20Bread%20-%20Alaskan%20Sourdough+near+41.7834165%2C-111.8299498"
+    },
+    {
+      "name": "Park Cafe",
+      "distance": "1.4 mi",
+      "url": "https://www.google.com/maps/search/Park%20Cafe+near+41.7834165%2C-111.8299498"
+    },
+    {
+      "name": "The Rollin' Donut",
+      "distance": "1.5 mi",
+      "url": "https://www.google.com/maps/search/The%20Rollin'%20Donut+near+41.7834165%2C-111.8299498"
+    },
+    {
+      "name": "Ginza Japanese Shabu Shabu Logan",
+      "distance": "1.5 mi",
+      "url": "https://www.google.com/maps/search/Ginza%20Japanese%20Shabu%20Shabu%20Logan+near+41.7834165%2C-111.8299498"
+    }
+  ],
+  "bowling": [
+    {
+      "name": "The Gutter @The Cache Valley Fun Park",
+      "distance": "1.4 mi",
+      "url": "https://www.google.com/maps/search/The%20Gutter%20%40The%20Cache%20Valley%20Fun%20Park+near+41.7834165%2C-111.8299498"
+    }
+  ],
+  "arcade": [],
+  "movies": [
+    {
+      "name": "University Stadium 6",
+      "distance": "2.1 mi",
+      "url": "https://www.google.com/maps/search/University%20Stadium%206+near+41.7834165%2C-111.8299498"
+    },
+    {
+      "name": "Megaplex Theatres at University",
+      "distance": "2.1 mi",
+      "url": "https://www.google.com/maps/search/Megaplex%20Theatres%20at%20University+near+41.7834165%2C-111.8299498"
+    },
+    {
+      "name": "Utah Theatre",
+      "distance": "3.6 mi",
+      "url": "https://www.google.com/maps/search/Utah%20Theatre+near+41.7834165%2C-111.8299498",
+      "isFar": true
+    },
+    {
+      "name": "Megaplex Theatres at Providence",
+      "distance": "5.0 mi",
+      "url": "https://www.google.com/maps/search/Megaplex%20Theatres%20at%20Providence+near+41.7834165%2C-111.8299498",
+      "isFar": true
+    }
+  ],
+  "fun": [
+    {
+      "name": "The Rush Funplex",
+      "distance": "0.4 mi",
+      "url": "https://www.google.com/maps/search/The%20Rush%20Funplex+near+41.7834165%2C-111.8299498"
+    },
+    {
+      "name": "Cache Valley Fun Park",
+      "distance": "1.4 mi",
+      "url": "https://www.google.com/maps/search/Cache%20Valley%20Fun%20Park+near+41.7834165%2C-111.8299498"
+    },
+    {
+      "name": "The Jump Zone",
+      "distance": "1.7 mi",
+      "url": "https://www.google.com/maps/search/The%20Jump%20Zone+near+41.7834165%2C-111.8299498"
+    },
+    {
+      "name": "Bounce N Slide",
+      "distance": "3.1 mi",
+      "url": "https://www.google.com/maps/search/Bounce%20N%20Slide+near+41.7834165%2C-111.8299498",
+      "isFar": true
+    },
+    {
+      "name": "Locked In Escape Room - Logan",
+      "distance": "3.9 mi",
+      "url": "https://www.google.com/maps/search/Locked%20In%20Escape%20Room%20-%20Logan+near+41.7834165%2C-111.8299498",
+      "isFar": true
+    }
+  ],
+  "hotels": [
+    {
+      "name": "Sheila Olsen, Cinnamon Ridge Mobile Home Community",
+      "distance": "0.5 mi",
+      "url": "https://www.google.com/maps/search/Sheila%20Olsen%2C%20Cinnamon%20Ridge%20Mobile%20Home%20Community+near+41.7834165%2C-111.8299498"
+    },
+    {
+      "name": "Room in Logan",
+      "distance": "0.7 mi",
+      "url": "https://www.google.com/maps/search/Room%20in%20Logan+near+41.7834165%2C-111.8299498"
+    },
+    {
+      "name": "Holiday Inn Express & Suites Logan by IHG",
+      "distance": "0.8 mi",
+      "url": "https://www.google.com/maps/search/Holiday%20Inn%20Express%20%26%20Suites%20Logan%20by%20IHG+near+41.7834165%2C-111.8299498"
+    },
+    {
+      "name": "Charming Home North Logan 3BD/2.5BA Sleeps 6",
+      "distance": "0.9 mi",
+      "url": "https://www.google.com/maps/search/Charming%20Home%20North%20Logan%203BD%2F2.5BA%20Sleeps%206+near+41.7834165%2C-111.8299498"
+    },
+    {
+      "name": "Charming Home North Logan 3BD /2.5BA Sleeps 6",
+      "distance": "0.9 mi",
+      "url": "https://www.google.com/maps/search/Charming%20Home%20North%20Logan%203BD%20%2F2.5BA%20Sleeps%206+near+41.7834165%2C-111.8299498"
+    },
+    {
+      "name": "Room in Logan",
+      "distance": "0.9 mi",
+      "url": "https://www.google.com/maps/search/Room%20in%20Logan+near+41.7834165%2C-111.8299498"
+    },
+    {
+      "name": "Loaded Logan Loft near USU & EVERYTHING Else - Sleeps 8 in beds",
+      "distance": "0.9 mi",
+      "url": "https://www.google.com/maps/search/Loaded%20Logan%20Loft%20near%20USU%20%26%20EVERYTHING%20Else%20-%20Sleeps%208%20in%20beds+near+41.7834165%2C-111.8299498"
+    }
+  ],
+  "gas": [
+    {
+      "name": "Maverik",
+      "distance": "1.2 mi",
+      "url": "https://www.google.com/maps/search/Maverik+near+41.7834165%2C-111.8299498"
+    },
+    {
+      "name": "Top Stop Chevron - North Logan C34",
+      "distance": "1.2 mi",
+      "url": "https://www.google.com/maps/search/Top%20Stop%20Chevron%20-%20North%20Logan%20C34+near+41.7834165%2C-111.8299498"
+    },
+    {
+      "name": "Chevron North Logan",
+      "distance": "1.2 mi",
+      "url": "https://www.google.com/maps/search/Chevron%20North%20Logan+near+41.7834165%2C-111.8299498"
+    },
+    {
+      "name": "Walmart Fuel Station",
+      "distance": "1.6 mi",
+      "url": "https://www.google.com/maps/search/Walmart%20Fuel%20Station+near+41.7834165%2C-111.8299498"
+    },
+    {
+      "name": "7-Eleven Fuel",
+      "distance": "1.8 mi",
+      "url": "https://www.google.com/maps/search/7-Eleven%20Fuel+near+41.7834165%2C-111.8299498"
+    }
+  ]
+}

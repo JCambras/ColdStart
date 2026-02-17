@@ -1,0 +1,216 @@
+{
+  "quick_bite": [
+    {
+      "name": "Jimmy John's",
+      "distance": "0.3 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Jimmy%20John's&query_place_id=ChIJd32n7mpUNIgR1bKPoNRwx-w&center=40.275323799999995,-80.1666843"
+    },
+    {
+      "name": "Wendy's",
+      "distance": "1.1 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Wendy's&query_place_id=ChIJtbMXYmRUNIgRwXrZW-ZiCVc&center=40.263782,-80.1732648"
+    },
+    {
+      "name": "Taco Bell / KFC",
+      "distance": "1.2 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Taco%20Bell%20%2F%20KFC&query_place_id=ChIJo6gWYmRUNIgR4Ug-OLGgcS4&center=40.2628834,-80.17458289999999"
+    },
+    {
+      "name": "Sonic Drive-In",
+      "distance": "1.6 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Sonic%20Drive-In&query_place_id=ChIJQ6uaxldUNIgRGRxbnJo4HyY&center=40.2562727,-80.1521676"
+    },
+    {
+      "name": "Subway",
+      "distance": "1.6 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Subway&query_place_id=ChIJoTmM0H1UNIgRxFwA0tvH_rA&center=40.260118999999996,-80.1814454"
+    }
+  ],
+  "coffee": [
+    {
+      "name": "Crazy Horse Coffee 3",
+      "distance": "0.1 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Crazy%20Horse%20Coffee%203&query_place_id=ChIJKSEWZRpVNIgRemuEIinqI4g&center=40.2778171,-80.1615227"
+    },
+    {
+      "name": "Perked Up Cafe",
+      "distance": "0.3 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Perked%20Up%20Cafe&query_place_id=ChIJ-dN7xBdVNIgRnTyxfOhou6s&center=40.279494,-80.1669477"
+    },
+    {
+      "name": "LaBella Bean Coffee House and Eatery",
+      "distance": "0.3 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=LaBella%20Bean%20Coffee%20House%20and%20Eatery&query_place_id=ChIJ_fo15QxVNIgR1mAXCWNxI8w&center=40.2751106,-80.16720029999999"
+    },
+    {
+      "name": "Peace, Love and Little Donuts of Peters Twp",
+      "distance": "1.7 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Peace%2C%20Love%20and%20Little%20Donuts%20of%20Peters%20Twp&query_place_id=ChIJ9fLkOFlVNIgRpTRhZuBtrw8&center=40.2623871,-80.13603859999999"
+    },
+    {
+      "name": "Einstein Bros. Bagels",
+      "distance": "1.9 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Einstein%20Bros.%20Bagels&query_place_id=ChIJVWZFprhVNIgRt2OdT2Jh3L0&center=40.2731615,-80.12637289999999"
+    }
+  ],
+  "team_lunch": [
+    {
+      "name": "Bubba's Gourmet Burghers & Beer - Southpointe",
+      "distance": "0.1 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Bubba's%20Gourmet%20Burghers%20%26%20Beer%20-%20Southpointe&query_place_id=ChIJ7WdGEj9UNIgRR7uqvc4YMck&center=40.2780609,-80.16166679999999"
+    },
+    {
+      "name": "Baxter’s R•Cade",
+      "distance": "0.3 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Baxter%E2%80%99s%20R%E2%80%A2Cade&query_place_id=ChIJleICih5VNIgR6D4yGihToBA&center=40.275273399999996,-80.16638909999999"
+    },
+    {
+      "name": "Steel City Subs",
+      "distance": "0.3 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Steel%20City%20Subs&query_place_id=ChIJNY4qcIFVNIgRTq6QJuiB9gc&center=40.2751106,-80.16720029999999"
+    },
+    {
+      "name": "All Star Sports Bar & Grill",
+      "distance": "0.3 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=All%20Star%20Sports%20Bar%20%26%20Grill&query_place_id=ChIJCcqB5mpUNIgRx7u9x1C0esc&center=40.2753404,-80.167693"
+    },
+    {
+      "name": "Gourmet Grab-N-Go",
+      "distance": "1.0 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Gourmet%20Grab-N-Go&query_place_id=ChIJlYtnXmZUNIgRsRL7Q0QcwIU&center=40.264641,-80.1692338"
+    },
+    {
+      "name": "Pan Wei Buffet & Grill",
+      "distance": "1.2 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Pan%20Wei%20Buffet%20%26%20Grill&query_place_id=ChIJtbMXYmRUNIgRGD9vLrYk_9Q&center=40.263579299999996,-80.1736123"
+    }
+  ],
+  "dinner": [
+    {
+      "name": "Nate's Chop House",
+      "distance": "0.3 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Nate's%20Chop%20House&query_place_id=ChIJ5_R25k9VNIgRL7JsmZfR4fs&center=40.275035800000005,-80.166608"
+    },
+    {
+      "name": "Toscana Brick Oven",
+      "distance": "0.3 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Toscana%20Brick%20Oven&query_place_id=ChIJocyB6mpUNIgRCtltrhCn01I&center=40.2756391,-80.1675001"
+    },
+    {
+      "name": "Zoup! Eatery",
+      "distance": "0.3 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Zoup!%20Eatery&query_place_id=ChIJX3LCg2pUNIgRulDd9tDC8FA&center=40.2750604,-80.167191"
+    },
+    {
+      "name": "Desire to be Well Juicery - Fresh Express at Southpointe",
+      "distance": "0.8 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Desire%20to%20be%20Well%20Juicery%20-%20Fresh%20Express%20at%20Southpointe&query_place_id=ChIJO4gWOIVVNIgR7jueqcpXeNs&center=40.2830435,-80.1759545"
+    },
+    {
+      "name": "Fuzed Asian American Cuisine",
+      "distance": "0.9 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Fuzed%20Asian%20American%20Cuisine&query_place_id=ChIJy3w1eHRVNIgRHB3jUQlzLGc&center=40.287099999999995,-80.1725537"
+    },
+    {
+      "name": "Los Bajitos Mexican Restaurant & Grill",
+      "distance": "0.9 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Los%20Bajitos%20Mexican%20Restaurant%20%26%20Grill&query_place_id=ChIJNRq5RMFVNIgRJq99ZGwbVUk&center=40.287099999999995,-80.1725537"
+    }
+  ],
+  "bowling": [
+    {
+      "name": "Major Mallard’s Duckpin Bowling",
+      "distance": "1.9 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Major%20Mallard%E2%80%99s%20Duckpin%20Bowling&query_place_id=ChIJBdmbDQBTNIgRvj86If_FHbo&center=40.2587245,-80.1881243"
+    },
+    {
+      "name": "West Pike Bowl",
+      "distance": "2.7 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=West%20Pike%20Bowl&query_place_id=ChIJAU39KnRTNIgRnPU0LkQmnKY&center=40.255731999999995,-80.203334"
+    },
+    {
+      "name": "The Bowling Alley at The Meadows",
+      "distance": "4.5 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=The%20Bowling%20Alley%20at%20The%20Meadows&query_place_id=ChIJkxGG6UxTNIgR92zn-uZeY7c&center=40.2205301,-80.2024816",
+      "isFar": true
+    }
+  ],
+  "arcade": [],
+  "movies": [],
+  "fun": [
+    {
+      "name": "Canonsburg Lake Dam",
+      "distance": "1.3 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Canonsburg%20Lake%20Dam&query_place_id=ChIJE3LMcE9VNIgRmnh3U5MfUAY&center=40.2735555,-80.1374708"
+    },
+    {
+      "name": "Escape Room South",
+      "distance": "1.7 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Escape%20Room%20South&query_place_id=ChIJ5VsAL6ysNYgRG1zeH5l5-yg&center=40.263132399999996,-80.1347677"
+    },
+    {
+      "name": "Petite Street",
+      "distance": "1.9 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Petite%20Street&query_place_id=ChIJA2A9UndVNIgRxmwc0pbY9Hc&center=40.263554299999996,-80.13092929999999"
+    },
+    {
+      "name": "Morganza",
+      "distance": "2.0 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Morganza&query_place_id=ChIJo4reSQBXNIgRDazfRLlkNrY&center=40.305782,-80.149981"
+    }
+  ],
+  "hotels": [
+    {
+      "name": "AC Hotel Pittsburgh Southpointe",
+      "distance": "0.3 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=AC%20Hotel%20Pittsburgh%20Southpointe&query_place_id=ChIJkeQZ_TNVNIgREoblB852ElI&center=40.274322500000004,-80.165596"
+    },
+    {
+      "name": "Homewood Suites by Hilton Pittsburgh-Southpointe",
+      "distance": "0.4 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Homewood%20Suites%20by%20Hilton%20Pittsburgh-Southpointe&query_place_id=ChIJPdbpIGtUNIgRqH2ReCEQrnQ&center=40.275852199999996,-80.16849599999999"
+    },
+    {
+      "name": "Holiday Inn Express & Suites Pittsburgh SW - Southpointe by IHG",
+      "distance": "0.4 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Holiday%20Inn%20Express%20%26%20Suites%20Pittsburgh%20SW%20-%20Southpointe%20by%20IHG&query_place_id=ChIJ3ZNYxWpUNIgR6ZOFpAEjTi8&center=40.274499,-80.16935699999999"
+    },
+    {
+      "name": "Super 8 by Wyndham Canonsburg/Pittsburgh Area",
+      "distance": "0.8 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Super%208%20by%20Wyndham%20Canonsburg%2FPittsburgh%20Area&query_place_id=ChIJE7az5mdUNIgRgPMOk7dM3kQ&center=40.266810899999996,-80.1654906"
+    },
+    {
+      "name": "PHG",
+      "distance": "1.6 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=PHG&query_place_id=ChIJDUMNLTxXNIgR99ogXMVLvLQ&center=40.2986627,-80.174237"
+    },
+    {
+      "name": "Hilton Garden Inn Pittsburgh/Southpointe",
+      "distance": "1.6 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Hilton%20Garden%20Inn%20Pittsburgh%2FSouthpointe&query_place_id=ChIJP94G5KdWNIgRkUPkBwjY588&center=40.2988777,-80.17439689999999"
+    }
+  ],
+  "gas": [
+    {
+      "name": "bp",
+      "distance": "1.0 mi",
+      "url": "https://www.google.com/maps/search/bp+near+40.2776636%2C-80.1619142"
+    },
+    {
+      "name": "Amoco",
+      "distance": "1.6 mi",
+      "url": "https://www.google.com/maps/search/Amoco+near+40.2776636%2C-80.1619142"
+    },
+    {
+      "name": "Energy Products",
+      "distance": "1.7 mi",
+      "url": "https://www.google.com/maps/search/Energy%20Products+near+40.2776636%2C-80.1619142"
+    },
+    {
+      "name": "GetGo Gas Station & WetGo Car Wash",
+      "distance": "1.9 mi",
+      "url": "https://www.google.com/maps/search/GetGo%20Gas%20Station%20%26%20WetGo%20Car%20Wash+near+40.2776636%2C-80.1619142"
+    }
+  ]
+}

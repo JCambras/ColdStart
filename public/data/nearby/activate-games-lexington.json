@@ -1,0 +1,232 @@
+{
+  "quick_bite": [
+    {
+      "name": "QDOBA Mexican Eats",
+      "distance": "0.1 mi",
+      "url": "https://www.google.com/maps/search/QDOBA%20Mexican%20Eats+near+38.023607%2C-84.42246399999999"
+    },
+    {
+      "name": "Bonefish Grill",
+      "distance": "0.1 mi",
+      "url": "https://www.google.com/maps/search/Bonefish%20Grill+near+38.023607%2C-84.42246399999999"
+    },
+    {
+      "name": "Subway",
+      "distance": "0.2 mi",
+      "url": "https://www.google.com/maps/search/Subway+near+38.023607%2C-84.42246399999999"
+    },
+    {
+      "name": "Culver’s",
+      "distance": "0.2 mi",
+      "url": "https://www.google.com/maps/search/Culver%E2%80%99s+near+38.023607%2C-84.42246399999999"
+    },
+    {
+      "name": "Logan's Roadhouse",
+      "distance": "0.4 mi",
+      "url": "https://www.google.com/maps/search/Logan's%20Roadhouse+near+38.023607%2C-84.42246399999999"
+    }
+  ],
+  "coffee": [
+    {
+      "name": "Ranoush",
+      "distance": "0.1 mi",
+      "url": "https://www.google.com/maps/search/Ranoush+near+38.023607%2C-84.42246399999999"
+    }
+  ],
+  "team_lunch": [
+    {
+      "name": "Johnny Carino's",
+      "distance": "0.1 mi",
+      "url": "https://www.google.com/maps/search/Johnny%20Carino's+near+38.023607%2C-84.42246399999999"
+    },
+    {
+      "name": "Wow Bao at BD's Mongolian-Lexington (KY)",
+      "distance": "0.1 mi",
+      "url": "https://www.google.com/maps/search/Wow%20Bao%20at%20BD's%20Mongolian-Lexington%20(KY)+near+38.023607%2C-84.42246399999999"
+    },
+    {
+      "name": "Meijer Bakery",
+      "distance": "0.3 mi",
+      "url": "https://www.google.com/maps/search/Meijer%20Bakery+near+38.023607%2C-84.42246399999999"
+    },
+    {
+      "name": "Red Lobster",
+      "distance": "0.4 mi",
+      "url": "https://www.google.com/maps/search/Red%20Lobster+near+38.023607%2C-84.42246399999999"
+    },
+    {
+      "name": "The Local Taco Lexington - Hamburg Location",
+      "distance": "0.4 mi",
+      "url": "https://www.google.com/maps/search/The%20Local%20Taco%20Lexington%20-%20Hamburg%20Location+near+38.023607%2C-84.42246399999999"
+    }
+  ],
+  "dinner": [
+    {
+      "name": "The Honey Baked Ham Company",
+      "distance": "0.1 mi",
+      "url": "https://www.google.com/maps/search/The%20Honey%20Baked%20Ham%20Company+near+38.023607%2C-84.42246399999999"
+    },
+    {
+      "name": "Big City Pizza Hamburg",
+      "distance": "0.1 mi",
+      "url": "https://www.google.com/maps/search/Big%20City%20Pizza%20Hamburg+near+38.023607%2C-84.42246399999999"
+    },
+    {
+      "name": "Ted's Montana Grill",
+      "distance": "0.1 mi",
+      "url": "https://www.google.com/maps/search/Ted's%20Montana%20Grill+near+38.023607%2C-84.42246399999999"
+    },
+    {
+      "name": "BD's Mongolian Grill",
+      "distance": "0.1 mi",
+      "url": "https://www.google.com/maps/search/BD's%20Mongolian%20Grill+near+38.023607%2C-84.42246399999999"
+    },
+    {
+      "name": "Joella’s Hot Chicken - Hamburg",
+      "distance": "0.1 mi",
+      "url": "https://www.google.com/maps/search/Joella%E2%80%99s%20Hot%20Chicken%20-%20Hamburg+near+38.023607%2C-84.42246399999999"
+    },
+    {
+      "name": "Tekka Japanese Grill & Sushi Lexington KY",
+      "distance": "0.1 mi",
+      "url": "https://www.google.com/maps/search/Tekka%20Japanese%20Grill%20%26%20Sushi%20Lexington%20KY+near+38.023607%2C-84.42246399999999"
+    },
+    {
+      "name": "Crumbl",
+      "distance": "0.2 mi",
+      "url": "https://www.google.com/maps/search/Crumbl+near+38.023607%2C-84.42246399999999"
+    }
+  ],
+  "bowling": [
+    {
+      "name": "Krikorian Theatres",
+      "distance": "4.7 mi",
+      "url": "https://www.google.com/maps/search/Krikorian%20Theatres+near+38.023607%2C-84.42246399999999",
+      "isFar": true
+    },
+    {
+      "name": "LexLive",
+      "distance": "4.7 mi",
+      "url": "https://www.google.com/maps/search/LexLive+near+38.023607%2C-84.42246399999999",
+      "isFar": true
+    }
+  ],
+  "arcade": [],
+  "movies": [
+    {
+      "name": "Regal Hamburg Pavilion",
+      "distance": "0.2 mi",
+      "url": "https://www.google.com/maps/search/Regal%20Hamburg%20Pavilion+near+38.023607%2C-84.42246399999999"
+    },
+    {
+      "name": "Kentucky Theatre",
+      "distance": "4.2 mi",
+      "url": "https://www.google.com/maps/search/Kentucky%20Theatre+near+38.023607%2C-84.42246399999999",
+      "isFar": true
+    },
+    {
+      "name": "Worsham Theater",
+      "distance": "4.6 mi",
+      "url": "https://www.google.com/maps/search/Worsham%20Theater+near+38.023607%2C-84.42246399999999",
+      "isFar": true
+    },
+    {
+      "name": "The Bourbon Theatres",
+      "distance": "4.6 mi",
+      "url": "https://www.google.com/maps/search/The%20Bourbon%20Theatres+near+38.023607%2C-84.42246399999999",
+      "isFar": true
+    }
+  ],
+  "fun": [
+    {
+      "name": "Activate Games",
+      "distance": "0.1 mi",
+      "url": "https://www.google.com/maps/search/Activate%20Games+near+38.023607%2C-84.42246399999999"
+    },
+    {
+      "name": "Countdown Games",
+      "distance": "0.5 mi",
+      "url": "https://www.google.com/maps/search/Countdown%20Games+near+38.023607%2C-84.42246399999999"
+    },
+    {
+      "name": "Monkey Joe's",
+      "distance": "0.6 mi",
+      "url": "https://www.google.com/maps/search/Monkey%20Joe's+near+38.023607%2C-84.42246399999999"
+    },
+    {
+      "name": "Lexrage",
+      "distance": "2.4 mi",
+      "url": "https://www.google.com/maps/search/Lexrage+near+38.023607%2C-84.42246399999999"
+    },
+    {
+      "name": "Breakout Games",
+      "distance": "3.3 mi",
+      "url": "https://www.google.com/maps/search/Breakout%20Games+near+38.023607%2C-84.42246399999999",
+      "isFar": true
+    }
+  ],
+  "hotels": [
+    {
+      "name": "Lexington Near downtown/keeneland/interstate. Pool table. Self check in 3000sqft",
+      "distance": "0.2 mi",
+      "url": "https://www.google.com/maps/search/Lexington%20Near%20downtown%2Fkeeneland%2Finterstate.%20Pool%20table.%20Self%20check%20in%203000sqft+near+38.023607%2C-84.42246399999999"
+    },
+    {
+      "name": "Residence Inn by Marriott Lexington South/Hamburg Place",
+      "distance": "0.3 mi",
+      "url": "https://www.google.com/maps/search/Residence%20Inn%20by%20Marriott%20Lexington%20South%2FHamburg%20Place+near+38.023607%2C-84.42246399999999"
+    },
+    {
+      "name": "Elkhorn Rd",
+      "distance": "0.3 mi",
+      "url": "https://www.google.com/maps/search/Elkhorn%20Rd+near+38.023607%2C-84.42246399999999"
+    },
+    {
+      "name": "Lovely Townhome in Horse Country/Lexington, Ky-Located near Keeneland and city!.",
+      "distance": "0.3 mi",
+      "url": "https://www.google.com/maps/search/Lovely%20Townhome%20in%20Horse%20Country%2FLexington%2C%20Ky-Located%20near%20Keeneland%20and%20city!.+near+38.023607%2C-84.42246399999999"
+    },
+    {
+      "name": "Lovely Townhome in Horse Country /Lexington, Ky-Located near Keeneland and city!.",
+      "distance": "0.3 mi",
+      "url": "https://www.google.com/maps/search/Lovely%20Townhome%20in%20Horse%20Country%20%2FLexington%2C%20Ky-Located%20near%20Keeneland%20and%20city!.+near+38.023607%2C-84.42246399999999"
+    },
+    {
+      "name": "TownePlace Suites by Marriott Lexington South/Hamburg Place",
+      "distance": "0.4 mi",
+      "url": "https://www.google.com/maps/search/TownePlace%20Suites%20by%20Marriott%20Lexington%20South%2FHamburg%20Place+near+38.023607%2C-84.42246399999999"
+    },
+    {
+      "name": "Tru by Hilton Lexington Hamburg",
+      "distance": "0.4 mi",
+      "url": "https://www.google.com/maps/search/Tru%20by%20Hilton%20Lexington%20Hamburg+near+38.023607%2C-84.42246399999999"
+    }
+  ],
+  "gas": [
+    {
+      "name": "Meijer",
+      "distance": "0.3 mi",
+      "url": "https://www.google.com/maps/search/Meijer+near+38.023607%2C-84.42246399999999"
+    },
+    {
+      "name": "Shell",
+      "distance": "0.5 mi",
+      "url": "https://www.google.com/maps/search/Shell+near+38.023607%2C-84.42246399999999"
+    },
+    {
+      "name": "Marathon Gas",
+      "distance": "0.6 mi",
+      "url": "https://www.google.com/maps/search/Marathon%20Gas+near+38.023607%2C-84.42246399999999"
+    },
+    {
+      "name": "Hucks",
+      "distance": "0.8 mi",
+      "url": "https://www.google.com/maps/search/Hucks+near+38.023607%2C-84.42246399999999"
+    },
+    {
+      "name": "Costco Gas Station",
+      "distance": "0.8 mi",
+      "url": "https://www.google.com/maps/search/Costco%20Gas%20Station+near+38.023607%2C-84.42246399999999"
+    }
+  ]
+}

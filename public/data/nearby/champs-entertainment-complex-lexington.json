@@ -1,0 +1,253 @@
+{
+  "quick_bite": [
+    {
+      "name": "Culver's",
+      "distance": "0.3 mi",
+      "url": "https://www.google.com/maps/search/Culver's+near+37.9980206%2C-84.5334621"
+    },
+    {
+      "name": "Popeyes Louisiana Kitchen",
+      "distance": "0.6 mi",
+      "url": "https://www.google.com/maps/search/Popeyes%20Louisiana%20Kitchen+near+37.9980206%2C-84.5334621"
+    },
+    {
+      "name": "Sarku Japan",
+      "distance": "0.6 mi",
+      "url": "https://www.google.com/maps/search/Sarku%20Japan+near+37.9980206%2C-84.5334621"
+    },
+    {
+      "name": "Cinemark Fayette Mall and XD",
+      "distance": "1.0 mi",
+      "url": "https://www.google.com/maps/search/Cinemark%20Fayette%20Mall%20and%20XD+near+37.9980206%2C-84.5334621"
+    },
+    {
+      "name": "Southland Lanes",
+      "distance": "1.3 mi",
+      "url": "https://www.google.com/maps/search/Southland%20Lanes+near+37.9980206%2C-84.5334621"
+    }
+  ],
+  "coffee": [
+    {
+      "name": "Coffee Times Coffee House",
+      "distance": "0.5 mi",
+      "url": "https://www.google.com/maps/search/Coffee%20Times%20Coffee%20House+near+37.9980206%2C-84.5334621"
+    },
+    {
+      "name": "Starbucks Coffee Company",
+      "distance": "0.6 mi",
+      "url": "https://www.google.com/maps/search/Starbucks%20Coffee%20Company+near+37.9980206%2C-84.5334621"
+    },
+    {
+      "name": "Starbucks Coffee Company",
+      "distance": "0.6 mi",
+      "url": "https://www.google.com/maps/search/Starbucks%20Coffee%20Company+near+37.9980206%2C-84.5334621"
+    }
+  ],
+  "team_lunch": [
+    {
+      "name": "ThaHomieslivinroom",
+      "distance": "0.2 mi",
+      "url": "https://www.google.com/maps/search/ThaHomieslivinroom+near+37.9980206%2C-84.5334621"
+    },
+    {
+      "name": "Sam's Hot Dog Stand Lexington Green",
+      "distance": "0.5 mi",
+      "url": "https://www.google.com/maps/search/Sam's%20Hot%20Dog%20Stand%20Lexington%20Green+near+37.9980206%2C-84.5334621"
+    },
+    {
+      "name": "Brontë Bistro at Joseph-Beth",
+      "distance": "0.5 mi",
+      "url": "https://www.google.com/maps/search/Bront%C3%AB%20Bistro%20at%20Joseph-Beth+near+37.9980206%2C-84.5334621"
+    },
+    {
+      "name": "Poké Life",
+      "distance": "0.6 mi",
+      "url": "https://www.google.com/maps/search/Pok%C3%A9%20Life+near+37.9980206%2C-84.5334621"
+    },
+    {
+      "name": "Panda Garden",
+      "distance": "0.6 mi",
+      "url": "https://www.google.com/maps/search/Panda%20Garden+near+37.9980206%2C-84.5334621"
+    },
+    {
+      "name": "Pizza Inn Express",
+      "distance": "0.6 mi",
+      "url": "https://www.google.com/maps/search/Pizza%20Inn%20Express+near+37.9980206%2C-84.5334621"
+    },
+    {
+      "name": "Charleys Cheesesteaks",
+      "distance": "0.6 mi",
+      "url": "https://www.google.com/maps/search/Charleys%20Cheesesteaks+near+37.9980206%2C-84.5334621"
+    }
+  ],
+  "dinner": [
+    {
+      "name": "Meijer Bakery",
+      "distance": "0.2 mi",
+      "url": "https://www.google.com/maps/search/Meijer%20Bakery+near+37.9980206%2C-84.5334621"
+    },
+    {
+      "name": "LeanFeast",
+      "distance": "0.3 mi",
+      "url": "https://www.google.com/maps/search/LeanFeast+near+37.9980206%2C-84.5334621"
+    },
+    {
+      "name": "Mr. Brews Taphouse",
+      "distance": "0.3 mi",
+      "url": "https://www.google.com/maps/search/Mr.%20Brews%20Taphouse+near+37.9980206%2C-84.5334621"
+    },
+    {
+      "name": "Goodwood Lexington",
+      "distance": "0.4 mi",
+      "url": "https://www.google.com/maps/search/Goodwood%20Lexington+near+37.9980206%2C-84.5334621"
+    },
+    {
+      "name": "Palmers Fresh Grill",
+      "distance": "0.5 mi",
+      "url": "https://www.google.com/maps/search/Palmers%20Fresh%20Grill+near+37.9980206%2C-84.5334621"
+    },
+    {
+      "name": "Food Court - Fayette Mall",
+      "distance": "0.6 mi",
+      "url": "https://www.google.com/maps/search/Food%20Court%20-%20Fayette%20Mall+near+37.9980206%2C-84.5334621"
+    },
+    {
+      "name": "Jojo Gyros",
+      "distance": "0.6 mi",
+      "url": "https://www.google.com/maps/search/Jojo%20Gyros+near+37.9980206%2C-84.5334621"
+    }
+  ],
+  "bowling": [
+    {
+      "name": "LexLive",
+      "distance": "3.8 mi",
+      "url": "https://www.google.com/maps/search/LexLive+near+37.9980206%2C-84.5334621",
+      "isFar": true
+    },
+    {
+      "name": "Krikorian Theatres",
+      "distance": "3.8 mi",
+      "url": "https://www.google.com/maps/search/Krikorian%20Theatres+near+37.9980206%2C-84.5334621",
+      "isFar": true
+    }
+  ],
+  "arcade": [],
+  "movies": [
+    {
+      "name": "Marcus Brannon Crossing Cinema",
+      "distance": "3.2 mi",
+      "url": "https://www.google.com/maps/search/Marcus%20Brannon%20Crossing%20Cinema+near+37.9980206%2C-84.5334621",
+      "isFar": true
+    },
+    {
+      "name": "Worsham Theater",
+      "distance": "3.3 mi",
+      "url": "https://www.google.com/maps/search/Worsham%20Theater+near+37.9980206%2C-84.5334621",
+      "isFar": true
+    },
+    {
+      "name": "Kentucky Theatre",
+      "distance": "3.8 mi",
+      "url": "https://www.google.com/maps/search/Kentucky%20Theatre+near+37.9980206%2C-84.5334621",
+      "isFar": true
+    },
+    {
+      "name": "The Bourbon Theatres",
+      "distance": "3.8 mi",
+      "url": "https://www.google.com/maps/search/The%20Bourbon%20Theatres+near+37.9980206%2C-84.5334621",
+      "isFar": true
+    }
+  ],
+  "fun": [
+    {
+      "name": "Champs Entertainment Complex",
+      "distance": "0.1 mi",
+      "url": "https://www.google.com/maps/search/Champs%20Entertainment%20Complex+near+37.9980206%2C-84.5334621"
+    },
+    {
+      "name": "Malibu Jack's Lexington",
+      "distance": "0.8 mi",
+      "url": "https://www.google.com/maps/search/Malibu%20Jack's%20Lexington+near+37.9980206%2C-84.5334621"
+    },
+    {
+      "name": "Sky Zone Trampoline Park",
+      "distance": "1.5 mi",
+      "url": "https://www.google.com/maps/search/Sky%20Zone%20Trampoline%20Park+near+37.9980206%2C-84.5334621"
+    },
+    {
+      "name": "Fun Net Skill Arcade",
+      "distance": "2.9 mi",
+      "url": "https://www.google.com/maps/search/Fun%20Net%20Skill%20Arcade+near+37.9980206%2C-84.5334621"
+    },
+    {
+      "name": "Get Air Trampoline Park",
+      "distance": "3.0 mi",
+      "url": "https://www.google.com/maps/search/Get%20Air%20Trampoline%20Park+near+37.9980206%2C-84.5334621",
+      "isFar": true
+    }
+  ],
+  "hotels": [
+    {
+      "name": "2 Convenient Suites Near Airport | Free Parking | Seasonal Pool | Kitchen",
+      "distance": "0.2 mi",
+      "url": "https://www.google.com/maps/search/2%20Convenient%20Suites%20Near%20Airport%20%7C%20Free%20Parking%20%7C%20Seasonal%20Pool%20%7C%20Kitchen+near+37.9980206%2C-84.5334621"
+    },
+    {
+      "name": "Homewood Suites by Hilton Lexington Fayette Mall",
+      "distance": "0.2 mi",
+      "url": "https://www.google.com/maps/search/Homewood%20Suites%20by%20Hilton%20Lexington%20Fayette%20Mall+near+37.9980206%2C-84.5334621"
+    },
+    {
+      "name": "Staybridge Suites Lexington South by IHG",
+      "distance": "0.3 mi",
+      "url": "https://www.google.com/maps/search/Staybridge%20Suites%20Lexington%20South%20by%20IHG+near+37.9980206%2C-84.5334621"
+    },
+    {
+      "name": "Embassy Suites by Hilton Lexington Green",
+      "distance": "0.5 mi",
+      "url": "https://www.google.com/maps/search/Embassy%20Suites%20by%20Hilton%20Lexington%20Green+near+37.9980206%2C-84.5334621"
+    },
+    {
+      "name": "\"The Regent\" - Modern Home near The Summit in Lexington",
+      "distance": "0.6 mi",
+      "url": "https://www.google.com/maps/search/%22The%20Regent%22%20-%20Modern%20Home%20near%20The%20Summit%20in%20Lexington+near+37.9980206%2C-84.5334621"
+    },
+    {
+      "name": "\\\"The Regent\\\" - Modern Home near The Summit in Lexington",
+      "distance": "0.6 mi",
+      "url": "https://www.google.com/maps/search/%5C%22The%20Regent%5C%22%20-%20Modern%20Home%20near%20The%20Summit%20in%20Lexington+near+37.9980206%2C-84.5334621"
+    },
+    {
+      "name": "Lexington Home ~ 2 Mi to University of Kentucky!",
+      "distance": "0.6 mi",
+      "url": "https://www.google.com/maps/search/Lexington%20Home%20~%202%20Mi%20to%20University%20of%20Kentucky!+near+37.9980206%2C-84.5334621"
+    }
+  ],
+  "gas": [
+    {
+      "name": "Goodstop",
+      "distance": "0.6 mi",
+      "url": "https://www.google.com/maps/search/Goodstop+near+37.9980206%2C-84.5334621"
+    },
+    {
+      "name": "goodstop by Casey’s",
+      "distance": "0.6 mi",
+      "url": "https://www.google.com/maps/search/goodstop%20by%20Casey%E2%80%99s+near+37.9980206%2C-84.5334621"
+    },
+    {
+      "name": "Shell",
+      "distance": "0.7 mi",
+      "url": "https://www.google.com/maps/search/Shell+near+37.9980206%2C-84.5334621"
+    },
+    {
+      "name": "Speedway",
+      "distance": "0.8 mi",
+      "url": "https://www.google.com/maps/search/Speedway+near+37.9980206%2C-84.5334621"
+    },
+    {
+      "name": "Marathon",
+      "distance": "0.8 mi",
+      "url": "https://www.google.com/maps/search/Marathon+near+37.9980206%2C-84.5334621"
+    }
+  ]
+}

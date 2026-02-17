@@ -1,0 +1,249 @@
+{
+  "quick_bite": [
+    {
+      "name": "Subway",
+      "distance": "0.1 mi",
+      "url": "https://www.google.com/maps/search/Subway+near+44.866922599999995%2C-93.3260174"
+    },
+    {
+      "name": "Five Guys",
+      "distance": "0.2 mi",
+      "url": "https://www.google.com/maps/search/Five%20Guys+near+44.866922599999995%2C-93.3260174"
+    },
+    {
+      "name": "Potbelly",
+      "distance": "0.3 mi",
+      "url": "https://www.google.com/maps/search/Potbelly+near+44.866922599999995%2C-93.3260174"
+    }
+  ],
+  "coffee": [
+    {
+      "name": "Starbucks Coffee Company",
+      "distance": "0.1 mi",
+      "url": "https://www.google.com/maps/search/Starbucks%20Coffee%20Company+near+44.866922599999995%2C-93.3260174"
+    },
+    {
+      "name": "Ambrosia Coffee MN",
+      "distance": "0.2 mi",
+      "url": "https://www.google.com/maps/search/Ambrosia%20Coffee%20MN+near+44.866922599999995%2C-93.3260174"
+    },
+    {
+      "name": "Mykenna's Cafe",
+      "distance": "0.2 mi",
+      "url": "https://www.google.com/maps/search/Mykenna's%20Cafe+near+44.866922599999995%2C-93.3260174"
+    }
+  ],
+  "team_lunch": [
+    {
+      "name": "Edina Pizza",
+      "distance": "0.1 mi",
+      "url": "https://www.google.com/maps/search/Edina%20Pizza+near+44.866922599999995%2C-93.3260174"
+    },
+    {
+      "name": "Sushi Avenue",
+      "distance": "0.1 mi",
+      "url": "https://www.google.com/maps/search/Sushi%20Avenue+near+44.866922599999995%2C-93.3260174"
+    },
+    {
+      "name": "Hope Breakfast Bar - Edina",
+      "distance": "0.1 mi",
+      "url": "https://www.google.com/maps/search/Hope%20Breakfast%20Bar%20-%20Edina+near+44.866922599999995%2C-93.3260174"
+    }
+  ],
+  "dinner": [
+    {
+      "name": "Q. Cumbers",
+      "distance": "0.1 mi",
+      "url": "https://www.google.com/maps/search/Q.%20Cumbers+near+44.866922599999995%2C-93.3260174"
+    },
+    {
+      "name": "Master Noodle (Edina)",
+      "distance": "0.1 mi",
+      "url": "https://www.google.com/maps/search/Master%20Noodle%20(Edina)+near+44.866922599999995%2C-93.3260174"
+    },
+    {
+      "name": "Fired Up Pizzeria",
+      "distance": "0.1 mi",
+      "url": "https://www.google.com/maps/search/Fired%20Up%20Pizzeria+near+44.866922599999995%2C-93.3260174"
+    },
+    {
+      "name": "El Camino Gourmet Tacos",
+      "distance": "0.1 mi",
+      "url": "https://www.google.com/maps/search/El%20Camino%20Gourmet%20Tacos+near+44.866922599999995%2C-93.3260174"
+    },
+    {
+      "name": "Whole Foods Bakery",
+      "distance": "0.1 mi",
+      "url": "https://www.google.com/maps/search/Whole%20Foods%20Bakery+near+44.866922599999995%2C-93.3260174"
+    },
+    {
+      "name": "Tavern 23",
+      "distance": "0.2 mi",
+      "url": "https://www.google.com/maps/search/Tavern%2023+near+44.866922599999995%2C-93.3260174"
+    },
+    {
+      "name": "Tamarind Indian Cuisine",
+      "distance": "0.2 mi",
+      "url": "https://www.google.com/maps/search/Tamarind%20Indian%20Cuisine+near+44.866922599999995%2C-93.3260174"
+    }
+  ],
+  "bowling": [
+    {
+      "name": "Pinstripes",
+      "distance": "0.2 mi",
+      "url": "https://www.google.com/maps/search/Pinstripes+near+44.866922599999995%2C-93.3260174"
+    },
+    {
+      "name": "AMF Southtown Lanes",
+      "distance": "1.2 mi",
+      "url": "https://www.google.com/maps/search/AMF%20Southtown%20Lanes+near+44.866922599999995%2C-93.3260174"
+    },
+    {
+      "name": "Ten Paw Alley",
+      "distance": "3.7 mi",
+      "url": "https://www.google.com/maps/search/Ten%20Paw%20Alley+near+44.866922599999995%2C-93.3260174",
+      "isFar": true
+    },
+    {
+      "name": "WhirlyBall Twin Cities",
+      "distance": "4.5 mi",
+      "url": "https://www.google.com/maps/search/WhirlyBall%20Twin%20Cities+near+44.866922599999995%2C-93.3260174",
+      "isFar": true
+    }
+  ],
+  "arcade": [],
+  "movies": [
+    {
+      "name": "AMC Southdale 16",
+      "distance": "0.9 mi",
+      "url": "https://www.google.com/maps/search/AMC%20Southdale%2016+near+44.866922599999995%2C-93.3260174"
+    },
+    {
+      "name": "Backyard Theater Systems",
+      "distance": "3.0 mi",
+      "url": "https://www.google.com/maps/search/Backyard%20Theater%20Systems+near+44.866922599999995%2C-93.3260174"
+    },
+    {
+      "name": "Edina Mann Theatre",
+      "distance": "3.1 mi",
+      "url": "https://www.google.com/maps/search/Edina%20Mann%20Theatre+near+44.866922599999995%2C-93.3260174",
+      "isFar": true
+    },
+    {
+      "name": "5D Extreme Attraction",
+      "distance": "4.1 mi",
+      "url": "https://www.google.com/maps/search/5D%20Extreme%20Attraction+near+44.866922599999995%2C-93.3260174",
+      "isFar": true
+    },
+    {
+      "name": "B&B Theatres Bloomington 13 @ Mall of America",
+      "distance": "4.2 mi",
+      "url": "https://www.google.com/maps/search/B%26B%20Theatres%20Bloomington%2013%20%40%20Mall%20of%20America+near+44.866922599999995%2C-93.3260174",
+      "isFar": true
+    }
+  ],
+  "fun": [
+    {
+      "name": "Edinborough Park",
+      "distance": "0.4 mi",
+      "url": "https://www.google.com/maps/search/Edinborough%20Park+near+44.866922599999995%2C-93.3260174"
+    },
+    {
+      "name": "Lock and Key Escape Rooms",
+      "distance": "1.0 mi",
+      "url": "https://www.google.com/maps/search/Lock%20and%20Key%20Escape%20Rooms+near+44.866922599999995%2C-93.3260174"
+    },
+    {
+      "name": "Missing Pieces Escape Games",
+      "distance": "1.5 mi",
+      "url": "https://www.google.com/maps/search/Missing%20Pieces%20Escape%20Games+near+44.866922599999995%2C-93.3260174"
+    },
+    {
+      "name": "Sky Zone Trampoline Park",
+      "distance": "1.8 mi",
+      "url": "https://www.google.com/maps/search/Sky%20Zone%20Trampoline%20Park+near+44.866922599999995%2C-93.3260174"
+    },
+    {
+      "name": "Pump It Up Eden Prairie Kids Birthdays and More",
+      "distance": "3.6 mi",
+      "url": "https://www.google.com/maps/search/Pump%20It%20Up%20Eden%20Prairie%20Kids%20Birthdays%20and%20More+near+44.866922599999995%2C-93.3260174",
+      "isFar": true
+    },
+    {
+      "name": "Wiley's Water Park",
+      "distance": "3.7 mi",
+      "url": "https://www.google.com/maps/search/Wiley's%20Water%20Park+near+44.866922599999995%2C-93.3260174",
+      "isFar": true
+    },
+    {
+      "name": "Nickelodeon Universe",
+      "distance": "4.2 mi",
+      "url": "https://www.google.com/maps/search/Nickelodeon%20Universe+near+44.866922599999995%2C-93.3260174",
+      "isFar": true
+    }
+  ],
+  "hotels": [
+    {
+      "name": "Richfield Home about 10 Mi to Central Minneapolis! - Holiday Home",
+      "distance": "0.5 mi",
+      "url": "https://www.google.com/maps/search/Richfield%20Home%20about%2010%20Mi%20to%20Central%20Minneapolis!%20-%20Holiday%20Home+near+44.866922599999995%2C-93.3260174"
+    },
+    {
+      "name": "Restful Richfield Retreat with Attached Gargage and King Bed. MSP & Shopping.",
+      "distance": "0.5 mi",
+      "url": "https://www.google.com/maps/search/Restful%20Richfield%20Retreat%20with%20Attached%20Gargage%20and%20King%20Bed.%20MSP%20%26%20Shopping.+near+44.866922599999995%2C-93.3260174"
+    },
+    {
+      "name": "Gorgeous l 3 Season Porch l Dry Bar l Fireplace",
+      "distance": "0.5 mi",
+      "url": "https://www.google.com/maps/search/Gorgeous%20l%203%20Season%20Porch%20l%20Dry%20Bar%20l%20Fireplace+near+44.866922599999995%2C-93.3260174"
+    },
+    {
+      "name": "Pet Friendly Gorgeous 4/2 Home with 3 Season Porch & Fireplace",
+      "distance": "0.5 mi",
+      "url": "https://www.google.com/maps/search/Pet%20Friendly%20Gorgeous%204%2F2%20Home%20with%203%20Season%20Porch%20%26%20Fireplace+near+44.866922599999995%2C-93.3260174"
+    },
+    {
+      "name": "Gorgeous l 3 Season Porch l Dry Bar l Fireplace",
+      "distance": "0.5 mi",
+      "url": "https://www.google.com/maps/search/Gorgeous%20l%203%20Season%20Porch%20l%20Dry%20Bar%20l%20Fireplace+near+44.866922599999995%2C-93.3260174"
+    },
+    {
+      "name": "Welcome to our charming and newly remodeled home, close to everything",
+      "distance": "0.5 mi",
+      "url": "https://www.google.com/maps/search/Welcome%20to%20our%20charming%20and%20newly%20remodeled%20home%2C%20close%20to%20everything+near+44.866922599999995%2C-93.3260174"
+    },
+    {
+      "name": "Holiday Inn Express & Suites Bloomington - Mpls Arpt Area W by IHG",
+      "distance": "0.7 mi",
+      "url": "https://www.google.com/maps/search/Holiday%20Inn%20Express%20%26%20Suites%20Bloomington%20-%20Mpls%20Arpt%20Area%20W%20by%20IHG+near+44.866922599999995%2C-93.3260174"
+    }
+  ],
+  "gas": [
+    {
+      "name": "Mobil",
+      "distance": "0.5 mi",
+      "url": "https://www.google.com/maps/search/Mobil+near+44.866922599999995%2C-93.3260174"
+    },
+    {
+      "name": "Gas Station",
+      "distance": "0.5 mi",
+      "url": "https://www.google.com/maps/search/Gas%20Station+near+44.866922599999995%2C-93.3260174"
+    },
+    {
+      "name": "Speedway",
+      "distance": "1.2 mi",
+      "url": "https://www.google.com/maps/search/Speedway+near+44.866922599999995%2C-93.3260174"
+    },
+    {
+      "name": "Minnoco",
+      "distance": "1.2 mi",
+      "url": "https://www.google.com/maps/search/Minnoco+near+44.866922599999995%2C-93.3260174"
+    },
+    {
+      "name": "Holiday",
+      "distance": "1.3 mi",
+      "url": "https://www.google.com/maps/search/Holiday+near+44.866922599999995%2C-93.3260174"
+    }
+  ]
+}

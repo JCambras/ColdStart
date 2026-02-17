@@ -1,0 +1,233 @@
+{
+  "quick_bite": [
+    {
+      "name": "Taco Bell",
+      "distance": "1.3 mi",
+      "url": "https://www.google.com/maps/search/Taco%20Bell+near+42.849244299999995%2C-86.09091599999999"
+    },
+    {
+      "name": "Red Robin Gourmet Burgers and Brews",
+      "distance": "1.4 mi",
+      "url": "https://www.google.com/maps/search/Red%20Robin%20Gourmet%20Burgers%20and%20Brews+near+42.849244299999995%2C-86.09091599999999"
+    },
+    {
+      "name": "Logan's Roadhouse",
+      "distance": "1.5 mi",
+      "url": "https://www.google.com/maps/search/Logan's%20Roadhouse+near+42.849244299999995%2C-86.09091599999999"
+    },
+    {
+      "name": "Jimmy John's",
+      "distance": "1.5 mi",
+      "url": "https://www.google.com/maps/search/Jimmy%20John's+near+42.849244299999995%2C-86.09091599999999"
+    },
+    {
+      "name": "Panda Express",
+      "distance": "1.5 mi",
+      "url": "https://www.google.com/maps/search/Panda%20Express+near+42.849244299999995%2C-86.09091599999999"
+    },
+    {
+      "name": "D Dogs",
+      "distance": "1.5 mi",
+      "url": "https://www.google.com/maps/search/D%20Dogs+near+42.849244299999995%2C-86.09091599999999"
+    },
+    {
+      "name": "Mr You Chinese Food",
+      "distance": "1.5 mi",
+      "url": "https://www.google.com/maps/search/Mr%20You%20Chinese%20Food+near+42.849244299999995%2C-86.09091599999999"
+    }
+  ],
+  "coffee": [
+    {
+      "name": "Zlodelandia",
+      "distance": "1.2 mi",
+      "url": "https://www.google.com/maps/search/Zlodelandia+near+42.849244299999995%2C-86.09091599999999"
+    },
+    {
+      "name": "Starbucks Coffee Company",
+      "distance": "1.3 mi",
+      "url": "https://www.google.com/maps/search/Starbucks%20Coffee%20Company+near+42.849244299999995%2C-86.09091599999999"
+    },
+    {
+      "name": "Starbucks Coffee Company",
+      "distance": "1.5 mi",
+      "url": "https://www.google.com/maps/search/Starbucks%20Coffee%20Company+near+42.849244299999995%2C-86.09091599999999"
+    },
+    {
+      "name": "McDonald's",
+      "distance": "1.5 mi",
+      "url": "https://www.google.com/maps/search/McDonald's+near+42.849244299999995%2C-86.09091599999999"
+    },
+    {
+      "name": "BIGGBY COFFEE",
+      "distance": "1.6 mi",
+      "url": "https://www.google.com/maps/search/BIGGBY%20COFFEE+near+42.849244299999995%2C-86.09091599999999"
+    }
+  ],
+  "team_lunch": [
+    {
+      "name": "Wow Bao- Holland (MI)",
+      "distance": "1.3 mi",
+      "url": "https://www.google.com/maps/search/Wow%20Bao-%20Holland%20(MI)+near+42.849244299999995%2C-86.09091599999999"
+    },
+    {
+      "name": "Meijer Bakery",
+      "distance": "1.4 mi",
+      "url": "https://www.google.com/maps/search/Meijer%20Bakery+near+42.849244299999995%2C-86.09091599999999"
+    },
+    {
+      "name": "MEXICAN GRILL & BAR",
+      "distance": "1.5 mi",
+      "url": "https://www.google.com/maps/search/MEXICAN%20GRILL%20%26%20BAR+near+42.849244299999995%2C-86.09091599999999"
+    }
+  ],
+  "dinner": [
+    {
+      "name": "El Patron Holland",
+      "distance": "1.4 mi",
+      "url": "https://www.google.com/maps/search/El%20Patron%20Holland+near+42.849244299999995%2C-86.09091599999999"
+    },
+    {
+      "name": "El Rancho",
+      "distance": "1.5 mi",
+      "url": "https://www.google.com/maps/search/El%20Rancho+near+42.849244299999995%2C-86.09091599999999"
+    }
+  ],
+  "bowling": [
+    {
+      "name": "Northland Lanes",
+      "distance": "3.2 mi",
+      "url": "https://www.google.com/maps/search/Northland%20Lanes+near+42.849244299999995%2C-86.09091599999999",
+      "isFar": true
+    },
+    {
+      "name": "Lucky Strike Holland",
+      "distance": "4.7 mi",
+      "url": "https://www.google.com/maps/search/Lucky%20Strike%20Holland+near+42.849244299999995%2C-86.09091599999999",
+      "isFar": true
+    }
+  ],
+  "arcade": [],
+  "movies": [
+    {
+      "name": "AMC Holland 8",
+      "distance": "2.9 mi",
+      "url": "https://www.google.com/maps/search/AMC%20Holland%208+near+42.849244299999995%2C-86.09091599999999"
+    },
+    {
+      "name": "Knickerbocker Theatre",
+      "distance": "4.1 mi",
+      "url": "https://www.google.com/maps/search/Knickerbocker%20Theatre+near+42.849244299999995%2C-86.09091599999999",
+      "isFar": true
+    },
+    {
+      "name": "Sperry's Moviehouse",
+      "distance": "4.2 mi",
+      "url": "https://www.google.com/maps/search/Sperry's%20Moviehouse+near+42.849244299999995%2C-86.09091599999999",
+      "isFar": true
+    },
+    {
+      "name": "GQT Holland 7",
+      "distance": "4.9 mi",
+      "url": "https://www.google.com/maps/search/GQT%20Holland%207+near+42.849244299999995%2C-86.09091599999999",
+      "isFar": true
+    },
+    {
+      "name": "emblem cinema",
+      "distance": "4.9 mi",
+      "url": "https://www.google.com/maps/search/emblem%20cinema+near+42.849244299999995%2C-86.09091599999999",
+      "isFar": true
+    }
+  ],
+  "fun": [
+    {
+      "name": "Urban Air Trampoline and Adventure Park",
+      "distance": "2.4 mi",
+      "url": "https://www.google.com/maps/search/Urban%20Air%20Trampoline%20and%20Adventure%20Park+near+42.849244299999995%2C-86.09091599999999"
+    },
+    {
+      "name": "Nelis' Dutch Village",
+      "distance": "2.7 mi",
+      "url": "https://www.google.com/maps/search/Nelis'%20Dutch%20Village+near+42.849244299999995%2C-86.09091599999999"
+    },
+    {
+      "name": "The Lost City",
+      "distance": "2.8 mi",
+      "url": "https://www.google.com/maps/search/The%20Lost%20City+near+42.849244299999995%2C-86.09091599999999"
+    },
+    {
+      "name": "Skerbeck Entertainment Group",
+      "distance": "3.0 mi",
+      "url": "https://www.google.com/maps/search/Skerbeck%20Entertainment%20Group+near+42.849244299999995%2C-86.09091599999999"
+    },
+    {
+      "name": "Craig's Cruisers - Holland",
+      "distance": "3.6 mi",
+      "url": "https://www.google.com/maps/search/Craig's%20Cruisers%20-%20Holland+near+42.849244299999995%2C-86.09091599999999",
+      "isFar": true
+    }
+  ],
+  "hotels": [
+    {
+      "name": "Drew's Campground",
+      "distance": "0.5 mi",
+      "url": "https://www.google.com/maps/search/Drew's%20Campground+near+42.849244299999995%2C-86.09091599999999"
+    },
+    {
+      "name": "Quiet Suburban Escape - Holland North Side - Holiday Home",
+      "distance": "1.5 mi",
+      "url": "https://www.google.com/maps/search/Quiet%20Suburban%20Escape%20-%20Holland%20North%20Side%20-%20Holiday%20Home+near+42.849244299999995%2C-86.09091599999999"
+    },
+    {
+      "name": "Home2 Suites by Hilton Holland",
+      "distance": "1.6 mi",
+      "url": "https://www.google.com/maps/search/Home2%20Suites%20by%20Hilton%20Holland+near+42.849244299999995%2C-86.09091599999999"
+    },
+    {
+      "name": "Tru by Hilton Holland MI",
+      "distance": "1.7 mi",
+      "url": "https://www.google.com/maps/search/Tru%20by%20Hilton%20Holland%20MI+near+42.849244299999995%2C-86.09091599999999"
+    },
+    {
+      "name": "Waverly Shores Village",
+      "distance": "1.7 mi",
+      "url": "https://www.google.com/maps/search/Waverly%20Shores%20Village+near+42.849244299999995%2C-86.09091599999999"
+    },
+    {
+      "name": "SpringHill Suites by Marriott Holland",
+      "distance": "1.7 mi",
+      "url": "https://www.google.com/maps/search/SpringHill%20Suites%20by%20Marriott%20Holland+near+42.849244299999995%2C-86.09091599999999"
+    },
+    {
+      "name": "White Pines Inn & Suites of Holland",
+      "distance": "1.9 mi",
+      "url": "https://www.google.com/maps/search/White%20Pines%20Inn%20%26%20Suites%20of%20Holland+near+42.849244299999995%2C-86.09091599999999"
+    }
+  ],
+  "gas": [
+    {
+      "name": "Mobil",
+      "distance": "1.6 mi",
+      "url": "https://www.google.com/maps/search/Mobil+near+42.849244299999995%2C-86.09091599999999"
+    },
+    {
+      "name": "Blarney Castle Oil",
+      "distance": "2.5 mi",
+      "url": "https://www.google.com/maps/search/Blarney%20Castle%20Oil+near+42.849244299999995%2C-86.09091599999999"
+    },
+    {
+      "name": "Marathon Gas",
+      "distance": "2.5 mi",
+      "url": "https://www.google.com/maps/search/Marathon%20Gas+near+42.849244299999995%2C-86.09091599999999"
+    },
+    {
+      "name": "Speedway",
+      "distance": "2.6 mi",
+      "url": "https://www.google.com/maps/search/Speedway+near+42.849244299999995%2C-86.09091599999999"
+    },
+    {
+      "name": "Mobil",
+      "distance": "2.7 mi",
+      "url": "https://www.google.com/maps/search/Mobil+near+42.849244299999995%2C-86.09091599999999"
+    }
+  ]
+}

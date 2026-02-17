@@ -1,0 +1,206 @@
+{
+  "quick_bite": [
+    {
+      "name": "Jimmy John's",
+      "distance": "0.2 mi",
+      "url": "https://www.google.com/maps/search/Jimmy%20John's+near+39.7645135%2C-84.188729"
+    }
+  ],
+  "coffee": [
+    {
+      "name": "Winans Coffee & Chocolate",
+      "distance": "0.1 mi",
+      "url": "https://www.google.com/maps/search/Winans%20Coffee%20%26%20Chocolate+near+39.7645135%2C-84.188729"
+    },
+    {
+      "name": "Fountain Snack Bar",
+      "distance": "0.1 mi",
+      "url": "https://www.google.com/maps/search/Fountain%20Snack%20Bar+near+39.7645135%2C-84.188729"
+    },
+    {
+      "name": "Starbucks Coffee Company",
+      "distance": "0.3 mi",
+      "url": "https://www.google.com/maps/search/Starbucks%20Coffee%20Company+near+39.7645135%2C-84.188729"
+    },
+    {
+      "name": "Teapot Cafe",
+      "distance": "0.3 mi",
+      "url": "https://www.google.com/maps/search/Teapot%20Cafe+near+39.7645135%2C-84.188729"
+    }
+  ],
+  "team_lunch": [
+    {
+      "name": "Dana’s Soulfood",
+      "distance": "0.2 mi",
+      "url": "https://www.google.com/maps/search/Dana%E2%80%99s%20Soulfood+near+39.7645135%2C-84.188729"
+    },
+    {
+      "name": "Bistecca",
+      "distance": "0.3 mi",
+      "url": "https://www.google.com/maps/search/Bistecca+near+39.7645135%2C-84.188729"
+    },
+    {
+      "name": "Dayton Street Snacks",
+      "distance": "0.3 mi",
+      "url": "https://www.google.com/maps/search/Dayton%20Street%20Snacks+near+39.7645135%2C-84.188729"
+    }
+  ],
+  "dinner": [
+    {
+      "name": "Gulzar's Indian Cuisine",
+      "distance": "0.1 mi",
+      "url": "https://www.google.com/maps/search/Gulzar's%20Indian%20Cuisine+near+39.7645135%2C-84.188729"
+    },
+    {
+      "name": "The Foundry",
+      "distance": "0.2 mi",
+      "url": "https://www.google.com/maps/search/The%20Foundry+near+39.7645135%2C-84.188729"
+    },
+    {
+      "name": "Flying Pizza",
+      "distance": "0.3 mi",
+      "url": "https://www.google.com/maps/search/Flying%20Pizza+near+39.7645135%2C-84.188729"
+    },
+    {
+      "name": "Carmens Deli & Bistro",
+      "distance": "0.3 mi",
+      "url": "https://www.google.com/maps/search/Carmens%20Deli%20%26%20Bistro+near+39.7645135%2C-84.188729"
+    },
+    {
+      "name": "Mikey's Late Night Slice",
+      "distance": "0.3 mi",
+      "url": "https://www.google.com/maps/search/Mikey's%20Late%20Night%20Slice+near+39.7645135%2C-84.188729"
+    },
+    {
+      "name": "Yummy Burger",
+      "distance": "0.3 mi",
+      "url": "https://www.google.com/maps/search/Yummy%20Burger+near+39.7645135%2C-84.188729"
+    },
+    {
+      "name": "White Lotus Restaurant",
+      "distance": "0.3 mi",
+      "url": "https://www.google.com/maps/search/White%20Lotus%20Restaurant+near+39.7645135%2C-84.188729"
+    }
+  ],
+  "bowling": [
+    {
+      "name": "Hangar",
+      "distance": "1.9 mi",
+      "url": "https://www.google.com/maps/search/Hangar+near+39.7645135%2C-84.188729"
+    },
+    {
+      "name": "Relentless Performance Products - Pro Shop Poelking",
+      "distance": "3.6 mi",
+      "url": "https://www.google.com/maps/search/Relentless%20Performance%20Products%20-%20Pro%20Shop%20Poelking+near+39.7645135%2C-84.188729",
+      "isFar": true
+    },
+    {
+      "name": "Poelking Lanes",
+      "distance": "3.6 mi",
+      "url": "https://www.google.com/maps/search/Poelking%20Lanes+near+39.7645135%2C-84.188729",
+      "isFar": true
+    },
+    {
+      "name": "Strike & Spare Capri Lanes",
+      "distance": "3.6 mi",
+      "url": "https://www.google.com/maps/search/Strike%20%26%20Spare%20Capri%20Lanes+near+39.7645135%2C-84.188729",
+      "isFar": true
+    }
+  ],
+  "arcade": [],
+  "movies": [
+    {
+      "name": "The Neon",
+      "distance": "0.5 mi",
+      "url": "https://www.google.com/maps/search/The%20Neon+near+39.7645135%2C-84.188729"
+    },
+    {
+      "name": "Dayton Dinner Theater",
+      "distance": "0.5 mi",
+      "url": "https://www.google.com/maps/search/Dayton%20Dinner%20Theater+near+39.7645135%2C-84.188729"
+    },
+    {
+      "name": "Doorlyft",
+      "distance": "3.5 mi",
+      "url": "https://www.google.com/maps/search/Doorlyft+near+39.7645135%2C-84.188729",
+      "isFar": true
+    },
+    {
+      "name": "Air Force Museum Theatre",
+      "distance": "4.3 mi",
+      "url": "https://www.google.com/maps/search/Air%20Force%20Museum%20Theatre+near+39.7645135%2C-84.188729",
+      "isFar": true
+    },
+    {
+      "name": "Dixie Twin Drive-In",
+      "distance": "4.3 mi",
+      "url": "https://www.google.com/maps/search/Dixie%20Twin%20Drive-In+near+39.7645135%2C-84.188729",
+      "isFar": true
+    }
+  ],
+  "fun": [],
+  "hotels": [
+    {
+      "name": "Fairfield by Marriott Inn & Suites Dayton Downtown",
+      "distance": "0.1 mi",
+      "url": "https://www.google.com/maps/search/Fairfield%20by%20Marriott%20Inn%20%26%20Suites%20Dayton%20Downtown+near+39.7645135%2C-84.188729"
+    },
+    {
+      "name": "Downtown Dayton townhouse with private garage AND rooftop patio!",
+      "distance": "0.1 mi",
+      "url": "https://www.google.com/maps/search/Downtown%20Dayton%20townhouse%20with%20private%20garage%20AND%20rooftop%20patio!+near+39.7645135%2C-84.188729"
+    },
+    {
+      "name": "Charming Downtown Dayton Townhome with private garage",
+      "distance": "0.1 mi",
+      "url": "https://www.google.com/maps/search/Charming%20Downtown%20Dayton%20Townhome%20with%20private%20garage+near+39.7645135%2C-84.188729"
+    },
+    {
+      "name": "Spacious, Stylish and right in the middle of everything awesome.",
+      "distance": "0.1 mi",
+      "url": "https://www.google.com/maps/search/Spacious%2C%20Stylish%20and%20right%20in%20the%20middle%20of%20everything%20awesome.+near+39.7645135%2C-84.188729"
+    },
+    {
+      "name": "AC Hotel Dayton",
+      "distance": "0.2 mi",
+      "url": "https://www.google.com/maps/search/AC%20Hotel%20Dayton+near+39.7645135%2C-84.188729"
+    },
+    {
+      "name": "Hotel Ardent Dayton Downtown, Tapestry Collection by Hilton",
+      "distance": "0.3 mi",
+      "url": "https://www.google.com/maps/search/Hotel%20Ardent%20Dayton%20Downtown%2C%20Tapestry%20Collection%20by%20Hilton+near+39.7645135%2C-84.188729"
+    },
+    {
+      "name": "Downtown Dayton townhouse with private garage AND rooftop patio!",
+      "distance": "0.3 mi",
+      "url": "https://www.google.com/maps/search/Downtown%20Dayton%20townhouse%20with%20private%20garage%20AND%20rooftop%20patio!+near+39.7645135%2C-84.188729"
+    }
+  ],
+  "gas": [
+    {
+      "name": "Pure Beginning",
+      "distance": "0.4 mi",
+      "url": "https://www.google.com/maps/search/Pure%20Beginning+near+39.7645135%2C-84.188729"
+    },
+    {
+      "name": "bp",
+      "distance": "0.8 mi",
+      "url": "https://www.google.com/maps/search/bp+near+39.7645135%2C-84.188729"
+    },
+    {
+      "name": "On The Fly",
+      "distance": "0.8 mi",
+      "url": "https://www.google.com/maps/search/On%20The%20Fly+near+39.7645135%2C-84.188729"
+    },
+    {
+      "name": "Marathon Gas",
+      "distance": "0.9 mi",
+      "url": "https://www.google.com/maps/search/Marathon%20Gas+near+39.7645135%2C-84.188729"
+    },
+    {
+      "name": "Big Daddy's Mini Mart & Gas",
+      "distance": "1.0 mi",
+      "url": "https://www.google.com/maps/search/Big%20Daddy's%20Mini%20Mart%20%26%20Gas+near+39.7645135%2C-84.188729"
+    }
+  ]
+}

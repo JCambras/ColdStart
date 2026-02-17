@@ -1,0 +1,270 @@
+{
+  "quick_bite": [
+    {
+      "name": "Subway",
+      "distance": "0.2 mi",
+      "url": "https://www.google.com/maps/search/Subway+near+42.2039366%2C-83.2089362"
+    },
+    {
+      "name": "Carrabba's Italian Grill",
+      "distance": "0.2 mi",
+      "url": "https://www.google.com/maps/search/Carrabba's%20Italian%20Grill+near+42.2039366%2C-83.2089362"
+    },
+    {
+      "name": "Burger King",
+      "distance": "0.3 mi",
+      "url": "https://www.google.com/maps/search/Burger%20King+near+42.2039366%2C-83.2089362"
+    },
+    {
+      "name": "Olive Garden Italian Restaurant",
+      "distance": "0.4 mi",
+      "url": "https://www.google.com/maps/search/Olive%20Garden%20Italian%20Restaurant+near+42.2039366%2C-83.2089362"
+    },
+    {
+      "name": "Jet's Pizza",
+      "distance": "0.5 mi",
+      "url": "https://www.google.com/maps/search/Jet's%20Pizza+near+42.2039366%2C-83.2089362"
+    },
+    {
+      "name": "Outback Steakhouse",
+      "distance": "0.5 mi",
+      "url": "https://www.google.com/maps/search/Outback%20Steakhouse+near+42.2039366%2C-83.2089362"
+    },
+    {
+      "name": "Chuck E. Cheese",
+      "distance": "0.5 mi",
+      "url": "https://www.google.com/maps/search/Chuck%20E.%20Cheese+near+42.2039366%2C-83.2089362"
+    }
+  ],
+  "coffee": [
+    {
+      "name": "Southgate Nutrition",
+      "distance": "0.3 mi",
+      "url": "https://www.google.com/maps/search/Southgate%20Nutrition+near+42.2039366%2C-83.2089362"
+    },
+    {
+      "name": "McDonald's",
+      "distance": "0.4 mi",
+      "url": "https://www.google.com/maps/search/McDonald's+near+42.2039366%2C-83.2089362"
+    },
+    {
+      "name": "Dunkin'",
+      "distance": "0.4 mi",
+      "url": "https://www.google.com/maps/search/Dunkin'+near+42.2039366%2C-83.2089362"
+    }
+  ],
+  "team_lunch": [
+    {
+      "name": "Parkside Gardens",
+      "distance": "0.1 mi",
+      "url": "https://www.google.com/maps/search/Parkside%20Gardens+near+42.2039366%2C-83.2089362"
+    },
+    {
+      "name": "Thai Place",
+      "distance": "0.3 mi",
+      "url": "https://www.google.com/maps/search/Thai%20Place+near+42.2039366%2C-83.2089362"
+    },
+    {
+      "name": "Mandarin Kitchen",
+      "distance": "0.5 mi",
+      "url": "https://www.google.com/maps/search/Mandarin%20Kitchen+near+42.2039366%2C-83.2089362"
+    }
+  ],
+  "dinner": [
+    {
+      "name": "Foggia's Pizzeria",
+      "distance": "0.2 mi",
+      "url": "https://www.google.com/maps/search/Foggia's%20Pizzeria+near+42.2039366%2C-83.2089362"
+    },
+    {
+      "name": "Walmart Bakery",
+      "distance": "0.2 mi",
+      "url": "https://www.google.com/maps/search/Walmart%20Bakery+near+42.2039366%2C-83.2089362"
+    },
+    {
+      "name": "Agave Grill & Bar",
+      "distance": "0.3 mi",
+      "url": "https://www.google.com/maps/search/Agave%20Grill%20%26%20Bar+near+42.2039366%2C-83.2089362"
+    },
+    {
+      "name": "Southgate Grill",
+      "distance": "0.4 mi",
+      "url": "https://www.google.com/maps/search/Southgate%20Grill+near+42.2039366%2C-83.2089362"
+    },
+    {
+      "name": "Middle Eats",
+      "distance": "0.4 mi",
+      "url": "https://www.google.com/maps/search/Middle%20Eats+near+42.2039366%2C-83.2089362"
+    },
+    {
+      "name": "3 Nicks Tap Room",
+      "distance": "0.5 mi",
+      "url": "https://www.google.com/maps/search/3%20Nicks%20Tap%20Room+near+42.2039366%2C-83.2089362"
+    },
+    {
+      "name": "Kinya Ramen",
+      "distance": "0.5 mi",
+      "url": "https://www.google.com/maps/search/Kinya%20Ramen+near+42.2039366%2C-83.2089362"
+    }
+  ],
+  "bowling": [
+    {
+      "name": "Main Event Taylor",
+      "distance": "1.8 mi",
+      "url": "https://www.google.com/maps/search/Main%20Event%20Taylor+near+42.2039366%2C-83.2089362"
+    },
+    {
+      "name": "Belmar Lanes Inc",
+      "distance": "2.1 mi",
+      "url": "https://www.google.com/maps/search/Belmar%20Lanes%20Inc+near+42.2039366%2C-83.2089362"
+    },
+    {
+      "name": "Indian Lanes",
+      "distance": "2.3 mi",
+      "url": "https://www.google.com/maps/search/Indian%20Lanes+near+42.2039366%2C-83.2089362"
+    },
+    {
+      "name": "The Lanes at 2|42",
+      "distance": "3.5 mi",
+      "url": "https://www.google.com/maps/search/The%20Lanes%20at%202%7C42+near+42.2039366%2C-83.2089362",
+      "isFar": true
+    },
+    {
+      "name": "Roosevelt Lanes Recreation",
+      "distance": "3.8 mi",
+      "url": "https://www.google.com/maps/search/Roosevelt%20Lanes%20Recreation+near+42.2039366%2C-83.2089362",
+      "isFar": true
+    },
+    {
+      "name": "Skore Lanes",
+      "distance": "4.2 mi",
+      "url": "https://www.google.com/maps/search/Skore%20Lanes+near+42.2039366%2C-83.2089362",
+      "isFar": true
+    },
+    {
+      "name": "10 Pins of Trenton",
+      "distance": "4.3 mi",
+      "url": "https://www.google.com/maps/search/10%20Pins%20of%20Trenton+near+42.2039366%2C-83.2089362",
+      "isFar": true
+    }
+  ],
+  "arcade": [],
+  "movies": [
+    {
+      "name": "MJR Southgate Cinema",
+      "distance": "1.1 mi",
+      "url": "https://www.google.com/maps/search/MJR%20Southgate%20Cinema+near+42.2039366%2C-83.2089362"
+    },
+    {
+      "name": "Emagine Woodhaven",
+      "distance": "3.9 mi",
+      "url": "https://www.google.com/maps/search/Emagine%20Woodhaven+near+42.2039366%2C-83.2089362",
+      "isFar": true
+    }
+  ],
+  "fun": [
+    {
+      "name": "Spray Pad",
+      "distance": "1.1 mi",
+      "url": "https://www.google.com/maps/search/Spray%20Pad+near+42.2039366%2C-83.2089362"
+    },
+    {
+      "name": "Mystery Escapes LLC",
+      "distance": "2.5 mi",
+      "url": "https://www.google.com/maps/search/Mystery%20Escapes%20LLC+near+42.2039366%2C-83.2089362"
+    },
+    {
+      "name": "Airborne Adventure Park - Taylor, MI",
+      "distance": "2.6 mi",
+      "url": "https://www.google.com/maps/search/Airborne%20Adventure%20Park%20-%20Taylor%2C%20MI+near+42.2039366%2C-83.2089362"
+    },
+    {
+      "name": "Sportway of Brownstown",
+      "distance": "3.3 mi",
+      "url": "https://www.google.com/maps/search/Sportway%20of%20Brownstown+near+42.2039366%2C-83.2089362",
+      "isFar": true
+    },
+    {
+      "name": "Spray Pad",
+      "distance": "4.1 mi",
+      "url": "https://www.google.com/maps/search/Spray%20Pad+near+42.2039366%2C-83.2089362",
+      "isFar": true
+    },
+    {
+      "name": "Rev'd Up Fun",
+      "distance": "4.3 mi",
+      "url": "https://www.google.com/maps/search/Rev'd%20Up%20Fun+near+42.2039366%2C-83.2089362",
+      "isFar": true
+    },
+    {
+      "name": "Spray Pad",
+      "distance": "4.6 mi",
+      "url": "https://www.google.com/maps/search/Spray%20Pad+near+42.2039366%2C-83.2089362",
+      "isFar": true
+    }
+  ],
+  "hotels": [
+    {
+      "name": "London Motel",
+      "distance": "0.3 mi",
+      "url": "https://www.google.com/maps/search/London%20Motel+near+42.2039366%2C-83.2089362"
+    },
+    {
+      "name": "Hollywood Motel - Southgate",
+      "distance": "0.7 mi",
+      "url": "https://www.google.com/maps/search/Hollywood%20Motel%20-%20Southgate+near+42.2039366%2C-83.2089362"
+    },
+    {
+      "name": "Harion Inc",
+      "distance": "0.7 mi",
+      "url": "https://www.google.com/maps/search/Harion%20Inc+near+42.2039366%2C-83.2089362"
+    },
+    {
+      "name": "Holiday Inn Express & Suites Southgate - Detroit Area by IHG",
+      "distance": "0.8 mi",
+      "url": "https://www.google.com/maps/search/Holiday%20Inn%20Express%20%26%20Suites%20Southgate%20-%20Detroit%20Area%20by%20IHG+near+42.2039366%2C-83.2089362"
+    },
+    {
+      "name": "Almar Motel",
+      "distance": "0.9 mi",
+      "url": "https://www.google.com/maps/search/Almar%20Motel+near+42.2039366%2C-83.2089362"
+    },
+    {
+      "name": "Hampton Inn Detroit/Southgate",
+      "distance": "0.9 mi",
+      "url": "https://www.google.com/maps/search/Hampton%20Inn%20Detroit%2FSouthgate+near+42.2039366%2C-83.2089362"
+    },
+    {
+      "name": "Studio 6 Southgate, MI - Detroit",
+      "distance": "1.0 mi",
+      "url": "https://www.google.com/maps/search/Studio%206%20Southgate%2C%20MI%20-%20Detroit+near+42.2039366%2C-83.2089362"
+    }
+  ],
+  "gas": [
+    {
+      "name": "Mobil",
+      "distance": "0.4 mi",
+      "url": "https://www.google.com/maps/search/Mobil+near+42.2039366%2C-83.2089362"
+    },
+    {
+      "name": "bp",
+      "distance": "0.5 mi",
+      "url": "https://www.google.com/maps/search/bp+near+42.2039366%2C-83.2089362"
+    },
+    {
+      "name": "bp",
+      "distance": "0.7 mi",
+      "url": "https://www.google.com/maps/search/bp+near+42.2039366%2C-83.2089362"
+    },
+    {
+      "name": "Sam's Club Gas Station",
+      "distance": "0.8 mi",
+      "url": "https://www.google.com/maps/search/Sam's%20Club%20Gas%20Station+near+42.2039366%2C-83.2089362"
+    },
+    {
+      "name": "bp",
+      "distance": "0.9 mi",
+      "url": "https://www.google.com/maps/search/bp+near+42.2039366%2C-83.2089362"
+    }
+  ]
+}

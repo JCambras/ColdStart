@@ -1,0 +1,172 @@
+{
+  "quick_bite": [
+    {
+      "name": "Subway",
+      "distance": "1.4 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Subway&query_place_id=ChIJRVEsvOfzw4kRRW0MZFNQLqQ&center=40.527607599999996,-74.85047039999999"
+    },
+    {
+      "name": "Just Subs Flemington",
+      "distance": "1.4 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Just%20Subs%20Flemington&query_place_id=ChIJD1MaV13xw4kRaUOblnmoEws&center=40.5123716,-74.8514347"
+    },
+    {
+      "name": "It's Just Wings",
+      "distance": "1.4 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=It's%20Just%20Wings&query_place_id=ChIJgX79gzLxw4kR8-PFG7AHIYQ&center=40.506366,-74.84748499999999"
+    },
+    {
+      "name": "Delizia Pizza Kitchen (Flemington)",
+      "distance": "1.5 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Delizia%20Pizza%20Kitchen%20(Flemington)&query_place_id=ChIJseCBsufzw4kRaeWGIGzDJY4&center=40.5262533,-74.8534397"
+    },
+    {
+      "name": "LongHorn Steakhouse",
+      "distance": "1.5 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=LongHorn%20Steakhouse&query_place_id=ChIJC8Ch7Obzw4kR1daIVB2XDy0&center=40.525233,-74.85414999999999"
+    }
+  ],
+  "coffee": [
+    {
+      "name": "Dunkin'",
+      "distance": "1.3 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Dunkin'&query_place_id=ChIJOVWPPVXxw4kR-3PMdcCMnPA&center=40.513365799999995,-74.8512002"
+    },
+    {
+      "name": "Village Gyro Mediterranean Grill",
+      "distance": "1.3 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Village%20Gyro%20Mediterranean%20Grill&query_place_id=ChIJVW_X2G7xw4kR8_sbT7y_A1U&center=40.5046216,-74.8436626"
+    },
+    {
+      "name": "Bread & Culture Artisan Bakery",
+      "distance": "1.8 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Bread%20%26%20Culture%20Artisan%20Bakery&query_place_id=ChIJu6R1vA3xw4kRZJZvDDOIHSU&center=40.5089318,-74.858995"
+    }
+  ],
+  "team_lunch": [
+    {
+      "name": "Great Wall",
+      "distance": "1.4 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Great%20Wall&query_place_id=ChIJX2fA2W7xw4kRlUYS1ZritRE&center=40.5044196,-74.84381390000001"
+    },
+    {
+      "name": "Chili's Grill & Bar",
+      "distance": "1.4 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Chili's%20Grill%20%26%20Bar&query_place_id=ChIJwd9j72jxw4kRQG4nBAFjLhg&center=40.506366,-74.84748499999999"
+    },
+    {
+      "name": "DIVS INDO AMERICAN BANQUET & PARTY HALL",
+      "distance": "1.5 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=DIVS%20INDO%20AMERICAN%20BANQUET%20%26%20PARTY%20HALL&query_place_id=ChIJQ8YLcT_xw4kRU57tN281lvQ&center=40.508075600000005,-74.85064"
+    }
+  ],
+  "dinner": [
+    {
+      "name": "Gabby's Cafe",
+      "distance": "0.1 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Gabby's%20Cafe&query_place_id=ChIJnxnwn53zw4kRMAi0HvSlPJ0&center=40.5193435,-74.8267848"
+    },
+    {
+      "name": "Kyoto Japanese Restaurant",
+      "distance": "1.4 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Kyoto%20Japanese%20Restaurant&query_place_id=ChIJbZrX2G7xw4kRfiQWKJAc19k&center=40.5045419,-74.8436184"
+    },
+    {
+      "name": "Lenny's Pizza",
+      "distance": "1.4 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Lenny's%20Pizza&query_place_id=ChIJX2fA2W7xw4kRvwn2EFzw3Ho&center=40.5044444,-74.8438889"
+    },
+    {
+      "name": "Philippine Cuisine",
+      "distance": "1.4 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Philippine%20Cuisine&query_place_id=ChIJDamJ713xw4kRvk-HvCa-fbA&center=40.5123787,-74.8515396"
+    },
+    {
+      "name": "Luna Pizza",
+      "distance": "1.4 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Luna%20Pizza&query_place_id=ChIJL97ruBnyw4kR6LEWLNSQnZE&center=40.519394999999996,-74.80029859999999"
+    },
+    {
+      "name": "Three Bridges Cafe",
+      "distance": "1.4 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Three%20Bridges%20Cafe&query_place_id=ChIJy9DR-CLzw4kRIKzztx71Ou4&center=40.5202877,-74.7999906"
+    }
+  ],
+  "bowling": [],
+  "arcade": [],
+  "movies": [
+    {
+      "name": "Hillsborough Cinemas",
+      "distance": "9.8 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Hillsborough%20Cinemas&query_place_id=ChIJ1_6LaNTrw4kRnQTfGSyxwCs&center=40.492609699999996,-74.6443069",
+      "isFar": true
+    }
+  ],
+  "fun": [
+    {
+      "name": "Everitt Farms",
+      "distance": "2.0 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Everitt%20Farms&query_place_id=ChIJpffhg0Xxw4kRUXRzCeV69Pg&center=40.5066431,-74.8620404"
+    },
+    {
+      "name": "Public road",
+      "distance": "2.3 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Public%20road&query_place_id=ChIJxRn4PADzw4kR1vl74HsABl4&center=40.546881299999995,-74.8529427"
+    },
+    {
+      "name": "Race Against the Machine",
+      "distance": "2.6 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Race%20Against%20the%20Machine&query_place_id=ChIJiU-ZZbHxw4kR_lT1FB5b5gM&center=40.4928132,-74.8619523"
+    },
+    {
+      "name": "Bounce City",
+      "distance": "3.4 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Bounce%20City&query_place_id=ChIJ330P4ITxw4kRB6rNKaIOZcI&center=40.4790707,-74.8626833",
+      "isFar": true
+    }
+  ],
+  "hotels": [
+    {
+      "name": "Travel Inn & Suites",
+      "distance": "0.4 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Travel%20Inn%20%26%20Suites&query_place_id=ChIJq6Wadyryw4kR2iIU8CpSzZs&center=40.514195699999995,-74.8232286"
+    },
+    {
+      "name": "Hampton Inn Flemington",
+      "distance": "1.2 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Hampton%20Inn%20Flemington&query_place_id=ChIJk-Of5GXxw4kRhAnB9G6Nk78&center=40.5078689,-74.8444995"
+    },
+    {
+      "name": "Main Street Livin’",
+      "distance": "2.1 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Main%20Street%20Livin%E2%80%99&query_place_id=ChIJibowdE_xw4kR3rpZaCo19oQ&center=40.5069084,-74.8635711"
+    },
+    {
+      "name": "Ramada by Wyndham Flemington",
+      "distance": "2.5 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Ramada%20by%20Wyndham%20Flemington&query_place_id=ChIJiQJDOzrxw4kRRSsmWPBtI0w&center=40.493496199999996,-74.8596452"
+    }
+  ],
+  "gas": [
+    {
+      "name": "Costco Gas Station",
+      "distance": "1.4 mi",
+      "url": "https://www.google.com/maps/search/Costco%20Gas%20Station+near+40.519369499999996%2C-74.8268281"
+    },
+    {
+      "name": "FLEMINGTON SHELL",
+      "distance": "1.4 mi",
+      "url": "https://www.google.com/maps/search/FLEMINGTON%20SHELL+near+40.519369499999996%2C-74.8268281"
+    },
+    {
+      "name": "Speedway",
+      "distance": "1.6 mi",
+      "url": "https://www.google.com/maps/search/Speedway+near+40.519369499999996%2C-74.8268281"
+    },
+    {
+      "name": "Marathon",
+      "distance": "1.7 mi",
+      "url": "https://www.google.com/maps/search/Marathon+near+40.519369499999996%2C-74.8268281"
+    }
+  ]
+}

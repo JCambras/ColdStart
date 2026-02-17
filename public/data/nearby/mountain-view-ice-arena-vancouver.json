@@ -1,0 +1,256 @@
+{
+  "quick_bite": [
+    {
+      "name": "Papa Murphy's | Take 'N' Bake Pizza",
+      "distance": "0.1 mi",
+      "url": "https://www.google.com/maps/search/Papa%20Murphy's%20%7C%20Take%20'N'%20Bake%20Pizza+near+45.6166401%2C-122.52510439999998"
+    },
+    {
+      "name": "Wendy's",
+      "distance": "0.3 mi",
+      "url": "https://www.google.com/maps/search/Wendy's+near+45.6166401%2C-122.52510439999998"
+    },
+    {
+      "name": "Donny's Dogs",
+      "distance": "0.3 mi",
+      "url": "https://www.google.com/maps/search/Donny's%20Dogs+near+45.6166401%2C-122.52510439999998"
+    },
+    {
+      "name": "Subway",
+      "distance": "0.4 mi",
+      "url": "https://www.google.com/maps/search/Subway+near+45.6166401%2C-122.52510439999998"
+    },
+    {
+      "name": "Round Table Pizza",
+      "distance": "0.5 mi",
+      "url": "https://www.google.com/maps/search/Round%20Table%20Pizza+near+45.6166401%2C-122.52510439999998"
+    },
+    {
+      "name": "Big Town Hero",
+      "distance": "0.5 mi",
+      "url": "https://www.google.com/maps/search/Big%20Town%20Hero+near+45.6166401%2C-122.52510439999998"
+    },
+    {
+      "name": "Chuck E. Cheese",
+      "distance": "4.1 mi",
+      "url": "https://www.google.com/maps/search/Chuck%20E.%20Cheese+near+45.6166401%2C-122.52510439999998",
+      "isFar": true
+    }
+  ],
+  "coffee": [
+    {
+      "name": "Dutch Bros Coffee",
+      "distance": "0.1 mi",
+      "url": "https://www.google.com/maps/search/Dutch%20Bros%20Coffee+near+45.6166401%2C-122.52510439999998"
+    },
+    {
+      "name": "Black Rock Coffee Bar",
+      "distance": "0.3 mi",
+      "url": "https://www.google.com/maps/search/Black%20Rock%20Coffee%20Bar+near+45.6166401%2C-122.52510439999998"
+    }
+  ],
+  "team_lunch": [
+    {
+      "name": "Yummy boba😋",
+      "distance": "0.1 mi",
+      "url": "https://www.google.com/maps/search/Yummy%20boba%F0%9F%98%8B+near+45.6166401%2C-122.52510439999998"
+    },
+    {
+      "name": "Chen’s Good Taste",
+      "distance": "0.3 mi",
+      "url": "https://www.google.com/maps/search/Chen%E2%80%99s%20Good%20Taste+near+45.6166401%2C-122.52510439999998"
+    },
+    {
+      "name": "Papa Johns Pizza",
+      "distance": "0.4 mi",
+      "url": "https://www.google.com/maps/search/Papa%20Johns%20Pizza+near+45.6166401%2C-122.52510439999998"
+    },
+    {
+      "name": "Sushi Hana",
+      "distance": "0.5 mi",
+      "url": "https://www.google.com/maps/search/Sushi%20Hana+near+45.6166401%2C-122.52510439999998"
+    }
+  ],
+  "dinner": [
+    {
+      "name": "My Phở",
+      "distance": "0.1 mi",
+      "url": "https://www.google.com/maps/search/My%20Ph%E1%BB%9F+near+45.6166401%2C-122.52510439999998"
+    },
+    {
+      "name": "Jorge's Margarita Factory Mill Plain",
+      "distance": "0.1 mi",
+      "url": "https://www.google.com/maps/search/Jorge's%20Margarita%20Factory%20Mill%20Plain+near+45.6166401%2C-122.52510439999998"
+    },
+    {
+      "name": "Cloud 9 Pho & Teatime",
+      "distance": "0.1 mi",
+      "url": "https://www.google.com/maps/search/Cloud%209%20Pho%20%26%20Teatime+near+45.6166401%2C-122.52510439999998"
+    },
+    {
+      "name": "El Viejón Taquería y Mariscos food truck",
+      "distance": "0.2 mi",
+      "url": "https://www.google.com/maps/search/El%20Viej%C3%B3n%20Taquer%C3%ADa%20y%20Mariscos%20food%20truck+near+45.6166401%2C-122.52510439999998"
+    },
+    {
+      "name": "Cascade Bar & Grill",
+      "distance": "0.4 mi",
+      "url": "https://www.google.com/maps/search/Cascade%20Bar%20%26%20Grill+near+45.6166401%2C-122.52510439999998"
+    },
+    {
+      "name": "Szechuan Brothers Chinese Restaurant",
+      "distance": "0.5 mi",
+      "url": "https://www.google.com/maps/search/Szechuan%20Brothers%20Chinese%20Restaurant+near+45.6166401%2C-122.52510439999998"
+    },
+    {
+      "name": "Larson's Bakery",
+      "distance": "0.5 mi",
+      "url": "https://www.google.com/maps/search/Larson's%20Bakery+near+45.6166401%2C-122.52510439999998"
+    }
+  ],
+  "bowling": [
+    {
+      "name": "Round1 Bowling & Arcade Vancouver Mall",
+      "distance": "4.0 mi",
+      "url": "https://www.google.com/maps/search/Round1%20Bowling%20%26%20Arcade%20Vancouver%20Mall+near+45.6166401%2C-122.52510439999998",
+      "isFar": true
+    }
+  ],
+  "arcade": [],
+  "movies": [
+    {
+      "name": "Regal Cascade",
+      "distance": "0.9 mi",
+      "url": "https://www.google.com/maps/search/Regal%20Cascade+near+45.6166401%2C-122.52510439999998"
+    },
+    {
+      "name": "AMC CLASSIC Mill Plain 8",
+      "distance": "1.2 mi",
+      "url": "https://www.google.com/maps/search/AMC%20CLASSIC%20Mill%20Plain%208+near+45.6166401%2C-122.52510439999998"
+    },
+    {
+      "name": "Hollywood Theatre - Portland Airport",
+      "distance": "4.0 mi",
+      "url": "https://www.google.com/maps/search/Hollywood%20Theatre%20-%20Portland%20Airport+near+45.6166401%2C-122.52510439999998",
+      "isFar": true
+    },
+    {
+      "name": "Regal Vancouver Plaza",
+      "distance": "4.0 mi",
+      "url": "https://www.google.com/maps/search/Regal%20Vancouver%20Plaza+near+45.6166401%2C-122.52510439999998",
+      "isFar": true
+    },
+    {
+      "name": "AMC Vancouver Mall 23",
+      "distance": "4.0 mi",
+      "url": "https://www.google.com/maps/search/AMC%20Vancouver%20Mall%2023+near+45.6166401%2C-122.52510439999998",
+      "isFar": true
+    }
+  ],
+  "fun": [
+    {
+      "name": "paradigmQ",
+      "distance": "0.1 mi",
+      "url": "https://www.google.com/maps/search/paradigmQ+near+45.6166401%2C-122.52510439999998"
+    },
+    {
+      "name": "Just For Kids Arcade & Play",
+      "distance": "2.5 mi",
+      "url": "https://www.google.com/maps/search/Just%20For%20Kids%20Arcade%20%26%20Play+near+45.6166401%2C-122.52510439999998"
+    },
+    {
+      "name": "D&M Concessions",
+      "distance": "3.3 mi",
+      "url": "https://www.google.com/maps/search/D%26M%20Concessions+near+45.6166401%2C-122.52510439999998",
+      "isFar": true
+    },
+    {
+      "name": "Cipher Solver Escape Games",
+      "distance": "3.7 mi",
+      "url": "https://www.google.com/maps/search/Cipher%20Solver%20Escape%20Games+near+45.6166401%2C-122.52510439999998",
+      "isFar": true
+    },
+    {
+      "name": "Urban Air Trampoline and Adventure Park",
+      "distance": "3.9 mi",
+      "url": "https://www.google.com/maps/search/Urban%20Air%20Trampoline%20and%20Adventure%20Park+near+45.6166401%2C-122.52510439999998",
+      "isFar": true
+    },
+    {
+      "name": "Twisted Escape Rooms",
+      "distance": "4.0 mi",
+      "url": "https://www.google.com/maps/search/Twisted%20Escape%20Rooms+near+45.6166401%2C-122.52510439999998",
+      "isFar": true
+    },
+    {
+      "name": "Sky Zone Trampoline Park",
+      "distance": "4.9 mi",
+      "url": "https://www.google.com/maps/search/Sky%20Zone%20Trampoline%20Park+near+45.6166401%2C-122.52510439999998",
+      "isFar": true
+    }
+  ],
+  "hotels": [
+    {
+      "name": "Pet Friendly Restful PNW Ranch Close to PDX",
+      "distance": "0.1 mi",
+      "url": "https://www.google.com/maps/search/Pet%20Friendly%20Restful%20PNW%20Ranch%20Close%20to%20PDX+near+45.6166401%2C-122.52510439999998"
+    },
+    {
+      "name": "Hampton Inn & Suites Portland/Vancouver",
+      "distance": "0.2 mi",
+      "url": "https://www.google.com/maps/search/Hampton%20Inn%20%26%20Suites%20Portland%2FVancouver+near+45.6166401%2C-122.52510439999998"
+    },
+    {
+      "name": "~Welcome Home Vancouver~ Short term, Long Term.",
+      "distance": "0.2 mi",
+      "url": "https://www.google.com/maps/search/~Welcome%20Home%20Vancouver~%20Short%20term%2C%20Long%20Term.+near+45.6166401%2C-122.52510439999998"
+    },
+    {
+      "name": "~Welcome Home Vancouver~ Short term, Long Term.",
+      "distance": "0.2 mi",
+      "url": "https://www.google.com/maps/search/~Welcome%20Home%20Vancouver~%20Short%20term%2C%20Long%20Term.+near+45.6166401%2C-122.52510439999998"
+    },
+    {
+      "name": "Arbor House - Holiday Home",
+      "distance": "0.2 mi",
+      "url": "https://www.google.com/maps/search/Arbor%20House%20-%20Holiday%20Home+near+45.6166401%2C-122.52510439999998"
+    },
+    {
+      "name": "Close to two big towns and the airport",
+      "distance": "0.3 mi",
+      "url": "https://www.google.com/maps/search/Close%20to%20two%20big%20towns%20and%20the%20airport+near+45.6166401%2C-122.52510439999998"
+    },
+    {
+      "name": "~Home Sweet Home Vancouver~ Short term, Long Term",
+      "distance": "0.3 mi",
+      "url": "https://www.google.com/maps/search/~Home%20Sweet%20Home%20Vancouver~%20Short%20term%2C%20Long%20Term+near+45.6166401%2C-122.52510439999998"
+    }
+  ],
+  "gas": [
+    {
+      "name": "Sinclair Gas Station",
+      "distance": "0.1 mi",
+      "url": "https://www.google.com/maps/search/Sinclair%20Gas%20Station+near+45.6166401%2C-122.52510439999998"
+    },
+    {
+      "name": "Chevron",
+      "distance": "0.1 mi",
+      "url": "https://www.google.com/maps/search/Chevron+near+45.6166401%2C-122.52510439999998"
+    },
+    {
+      "name": "Space Age | MP Fuel Stop",
+      "distance": "0.3 mi",
+      "url": "https://www.google.com/maps/search/Space%20Age%20%7C%20MP%20Fuel%20Stop+near+45.6166401%2C-122.52510439999998"
+    },
+    {
+      "name": "Gas Express",
+      "distance": "0.7 mi",
+      "url": "https://www.google.com/maps/search/Gas%20Express+near+45.6166401%2C-122.52510439999998"
+    },
+    {
+      "name": "Shell",
+      "distance": "0.7 mi",
+      "url": "https://www.google.com/maps/search/Shell+near+45.6166401%2C-122.52510439999998"
+    }
+  ]
+}

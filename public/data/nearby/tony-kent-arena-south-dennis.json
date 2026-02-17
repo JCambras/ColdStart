@@ -1,0 +1,202 @@
+{
+  "quick_bite": [
+    {
+      "name": "Burger King",
+      "distance": "0.6 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Burger%20King&query_place_id=ChIJE3kY6Cs5-4kRzhB17tcD6nk&center=41.6935905,-70.1506716"
+    },
+    {
+      "name": "The Other Guys",
+      "distance": "2.9 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=The%20Other%20Guys&query_place_id=ChIJIZfbcRw5-4kRcyV8vCpmP1A&center=41.6671755,-70.18478999999999"
+    },
+    {
+      "name": "Dairy Queen Grill & Chill",
+      "distance": "3.3 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Dairy%20Queen%20Grill%20%26%20Chill&query_place_id=ChIJlaloR0M--4kRFU-Hfdzylwo&center=41.669347099999996,-70.0840636",
+      "isFar": true
+    },
+    {
+      "name": "Pleasant Lake Pizza Shark",
+      "distance": "3.3 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Pleasant%20Lake%20Pizza%20Shark&query_place_id=ChIJyZLLxJE_-4kRTpJ8jxQOj7c&center=41.7129203,-70.0820866",
+      "isFar": true
+    },
+    {
+      "name": "Wendy's",
+      "distance": "3.6 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Wendy's&query_place_id=ChIJVcQjz5Y5-4kRfceMBuCDQXo&center=41.684465499999995,-70.20918619999999",
+      "isFar": true
+    },
+    {
+      "name": "Subway",
+      "distance": "3.7 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Subway&query_place_id=ChIJq9PlCJY5-4kRsp-AGtvZteo&center=41.688359000000005,-70.2109553",
+      "isFar": true
+    }
+  ],
+  "coffee": [
+    {
+      "name": "Dunkin'",
+      "distance": "0.5 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Dunkin'&query_place_id=ChIJMVki8Ss5-4kR1zBQzMOQahM&center=41.693086799999996,-70.1502786"
+    },
+    {
+      "name": "Starbucks Coffee Company",
+      "distance": "0.6 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Starbucks%20Coffee%20Company&query_place_id=ChIJp87RcM84-4kREDvbvS-wOdk&center=41.69549,-70.15057999999999"
+    },
+    {
+      "name": "Dunkin'",
+      "distance": "0.7 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Dunkin'&query_place_id=ChIJf8wO-G45-4kRPJM-2BZFLDk&center=41.693861299999995,-70.1537075"
+    },
+    {
+      "name": "Old King’s Coffeehouse",
+      "distance": "0.8 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Old%20King%E2%80%99s%20Coffeehouse&query_place_id=ChIJV1PtUwA5-4kRCfHiWYRtG3s&center=41.6929588,-70.15515789999999"
+    },
+    {
+      "name": "Honey Dew Donuts",
+      "distance": "1.8 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Honey%20Dew%20Donuts&query_place_id=ChIJKdK2Uq0--4kRGM8Ke_2sta4&center=41.666917,-70.1454797"
+    }
+  ],
+  "team_lunch": [
+    {
+      "name": "Bangkok Thai Cuisine II",
+      "distance": "0.5 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Bangkok%20Thai%20Cuisine%20II&query_place_id=ChIJE3kY6Cs5-4kRbtCetls2XaA&center=41.6927674,-70.1501388"
+    },
+    {
+      "name": "Quan Chinese Kitchen",
+      "distance": "0.7 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Quan%20Chinese%20Kitchen&query_place_id=ChIJS-GsKy85-4kRKmDvFwGWeTc&center=41.6929423,-70.15431199999999"
+    },
+    {
+      "name": "Montillios",
+      "distance": "0.8 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Montillios&query_place_id=ChIJDX4o0PU5-4kRiWbWgVekhbs&center=41.692724,-70.15473779999999"
+    },
+    {
+      "name": "Dolly banderas",
+      "distance": "2.4 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Dolly%20banderas&query_place_id=ChIJc51VLgA_-4kRJ21agR8ZKMo&center=41.6581889,-70.1370786"
+    },
+    {
+      "name": "hawia",
+      "distance": "2.7 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=hawia&query_place_id=ChIJ_wbBXAA_-4kRNwR6zee46PI&center=41.654864499999995,-70.1248817"
+    },
+    {
+      "name": "Bagel Hound",
+      "distance": "2.8 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Bagel%20Hound&query_place_id=ChIJQRS1fwA_-4kRccPDC81Fuc0&center=41.6696864,-70.0955189"
+    }
+  ],
+  "dinner": [
+    {
+      "name": "Jason's Tavern",
+      "distance": "0.6 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Jason's%20Tavern&query_place_id=ChIJK3-9Ryk5-4kRFkZsfHQ9gBY&center=41.6948936,-70.1503056"
+    },
+    {
+      "name": "Pete's Point",
+      "distance": "0.6 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Pete's%20Point&query_place_id=ChIJj39EcaY5-4kRdgtrXc7QhzE&center=41.689189899999995,-70.1516036"
+    },
+    {
+      "name": "Veterans Lunch Box",
+      "distance": "0.7 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Veterans%20Lunch%20Box&query_place_id=ChIJywQtHY85-4kRbZEIR0lTUHU&center=41.691204299999995,-70.15311559999999"
+    },
+    {
+      "name": "D'Angelo Grilled Sandwiches",
+      "distance": "0.7 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=D'Angelo%20Grilled%20Sandwiches&query_place_id=ChIJS-GsKy85-4kRf1Ghuijz5TQ&center=41.6930025,-70.153989"
+    },
+    {
+      "name": "Nata's Cake & Cookhouse",
+      "distance": "0.7 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Nata's%20Cake%20%26%20Cookhouse&query_place_id=ChIJS-GsKy85-4kRQUuYxt0xeQ0&center=41.6928001,-70.1546322"
+    }
+  ],
+  "bowling": [
+    {
+      "name": "Ryan Family Amusements - South Yarmouth",
+      "distance": "3.9 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Ryan%20Family%20Amusements%20-%20South%20Yarmouth&query_place_id=ChIJDx5lTC46-4kRve0f2Kq8AtU&center=41.6599952,-70.2018497",
+      "isFar": true
+    }
+  ],
+  "arcade": [],
+  "movies": [
+    {
+      "name": "Entertainment Luxury Cinemas South Dennis",
+      "distance": "0.5 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Entertainment%20Luxury%20Cinemas%20South%20Dennis&query_place_id=ChIJfbJiLehm-4kR5jZksVXvyIU&center=41.6926626,-70.15040499999999"
+    },
+    {
+      "name": "Cape Cinema",
+      "distance": "4.3 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Cape%20Cinema&query_place_id=ChIJf7VVF344-4kRj_TwLBRRO_o&center=41.740371599999996,-70.1934642",
+      "isFar": true
+    }
+  ],
+  "fun": [
+    {
+      "name": "Halls Cape Cod Cranberries",
+      "distance": "0.8 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Halls%20Cape%20Cod%20Cranberries&query_place_id=ChIJbTERHNw--4kRZFt0cwHpOAY&center=41.688013,-70.1266655"
+    },
+    {
+      "name": "Cranberry Bog Tours",
+      "distance": "1.7 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Cranberry%20Bog%20Tours&query_place_id=ChIJ7YXW6Q8_-4kRu9-EPJqEcz4&center=41.700404,-70.108901"
+    },
+    {
+      "name": "Bumper Cars and Arcade",
+      "distance": "1.8 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Bumper%20Cars%20and%20Arcade&query_place_id=ChIJc7ktErA--4kR9iFibT-n3BE&center=41.6662817,-70.1349881"
+    },
+    {
+      "name": "Sea Street Beach",
+      "distance": "2.8 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Sea%20Street%20Beach&query_place_id=ChIJozpjQwA9-4kRCQ1TZSrmdR8&center=41.6523696,-70.1343749"
+    }
+  ],
+  "hotels": [
+    {
+      "name": "Thayer Thicket",
+      "distance": "0.4 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Thayer%20Thicket&query_place_id=ChIJ7a3G8tI--4kRh6Iv9oqUNAk&center=41.687465599999996,-70.1432343"
+    },
+    {
+      "name": "The camp",
+      "distance": "0.5 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=The%20camp&query_place_id=ChIJCeY5Um05-4kRBL6Z_h1K2h0&center=41.6879773,-70.1491719"
+    }
+  ],
+  "gas": [
+    {
+      "name": "Mobil",
+      "distance": "0.6 mi",
+      "url": "https://www.google.com/maps/search/Mobil+near+41.692175299999995%2C-70.14014770000001"
+    },
+    {
+      "name": "Shell",
+      "distance": "0.7 mi",
+      "url": "https://www.google.com/maps/search/Shell+near+41.692175299999995%2C-70.14014770000001"
+    },
+    {
+      "name": "SAV ON",
+      "distance": "1.9 mi",
+      "url": "https://www.google.com/maps/search/SAV%20ON+near+41.692175299999995%2C-70.14014770000001"
+    },
+    {
+      "name": "Speedway",
+      "distance": "2.9 mi",
+      "url": "https://www.google.com/maps/search/Speedway+near+41.692175299999995%2C-70.14014770000001"
+    }
+  ]
+}

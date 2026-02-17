@@ -1,0 +1,215 @@
+{
+  "quick_bite": [
+    {
+      "name": "It's Just Wings",
+      "distance": "0.5 mi",
+      "url": "https://www.google.com/maps/search/It's%20Just%20Wings+near+39.5121733%2C-86.0729932"
+    },
+    {
+      "name": "Buffalo Wild Wings",
+      "distance": "0.5 mi",
+      "url": "https://www.google.com/maps/search/Buffalo%20Wild%20Wings+near+39.5121733%2C-86.0729932"
+    },
+    {
+      "name": "Freddy's Frozen Custard & Steakburgers",
+      "distance": "0.5 mi",
+      "url": "https://www.google.com/maps/search/Freddy's%20Frozen%20Custard%20%26%20Steakburgers+near+39.5121733%2C-86.0729932"
+    },
+    {
+      "name": "QDOBA Mexican Eats",
+      "distance": "0.6 mi",
+      "url": "https://www.google.com/maps/search/QDOBA%20Mexican%20Eats+near+39.5121733%2C-86.0729932"
+    },
+    {
+      "name": "Subway",
+      "distance": "0.8 mi",
+      "url": "https://www.google.com/maps/search/Subway+near+39.5121733%2C-86.0729932"
+    }
+  ],
+  "coffee": [
+    {
+      "name": "Starbucks Coffee Company",
+      "distance": "0.5 mi",
+      "url": "https://www.google.com/maps/search/Starbucks%20Coffee%20Company+near+39.5121733%2C-86.0729932"
+    },
+    {
+      "name": "Panera Bread",
+      "distance": "0.6 mi",
+      "url": "https://www.google.com/maps/search/Panera%20Bread+near+39.5121733%2C-86.0729932"
+    },
+    {
+      "name": "Vogue Bubble Tea & Coffee Bar-Franklin",
+      "distance": "0.8 mi",
+      "url": "https://www.google.com/maps/search/Vogue%20Bubble%20Tea%20%26%20Coffee%20Bar-Franklin+near+39.5121733%2C-86.0729932"
+    }
+  ],
+  "team_lunch": [
+    {
+      "name": "south aberdeen",
+      "distance": "0.4 mi",
+      "url": "https://www.google.com/maps/search/south%20aberdeen+near+39.5121733%2C-86.0729932"
+    },
+    {
+      "name": "McAlister's Deli",
+      "distance": "0.4 mi",
+      "url": "https://www.google.com/maps/search/McAlister's%20Deli+near+39.5121733%2C-86.0729932"
+    },
+    {
+      "name": "Meijer Bakery",
+      "distance": "0.5 mi",
+      "url": "https://www.google.com/maps/search/Meijer%20Bakery+near+39.5121733%2C-86.0729932"
+    },
+    {
+      "name": "Chili's Grill & Bar",
+      "distance": "0.5 mi",
+      "url": "https://www.google.com/maps/search/Chili's%20Grill%20%26%20Bar+near+39.5121733%2C-86.0729932"
+    },
+    {
+      "name": "King Buffet",
+      "distance": "0.5 mi",
+      "url": "https://www.google.com/maps/search/King%20Buffet+near+39.5121733%2C-86.0729932"
+    },
+    {
+      "name": "Casey's",
+      "distance": "0.6 mi",
+      "url": "https://www.google.com/maps/search/Casey's+near+39.5121733%2C-86.0729932"
+    },
+    {
+      "name": "Walmart Bakery",
+      "distance": "0.8 mi",
+      "url": "https://www.google.com/maps/search/Walmart%20Bakery+near+39.5121733%2C-86.0729932"
+    }
+  ],
+  "dinner": [
+    {
+      "name": "Mi Abuelito 3 Mexican Restaurant",
+      "distance": "0.1 mi",
+      "url": "https://www.google.com/maps/search/Mi%20Abuelito%203%20Mexican%20Restaurant+near+39.5121733%2C-86.0729932"
+    },
+    {
+      "name": "Wings Etc.",
+      "distance": "0.5 mi",
+      "url": "https://www.google.com/maps/search/Wings%20Etc.+near+39.5121733%2C-86.0729932"
+    },
+    {
+      "name": "Noble Roman's Craft Pizza and Pub",
+      "distance": "1.1 mi",
+      "url": "https://www.google.com/maps/search/Noble%20Roman's%20Craft%20Pizza%20and%20Pub+near+39.5121733%2C-86.0729932"
+    }
+  ],
+  "bowling": [
+    {
+      "name": "Hi-Way Lanes",
+      "distance": "2.0 mi",
+      "url": "https://www.google.com/maps/search/Hi-Way%20Lanes+near+39.5121733%2C-86.0729932"
+    },
+    {
+      "name": "10 Pins",
+      "distance": "2.4 mi",
+      "url": "https://www.google.com/maps/search/10%20Pins+near+39.5121733%2C-86.0729932"
+    }
+  ],
+  "arcade": [],
+  "movies": [
+    {
+      "name": "The Historic Artcraft Theatre",
+      "distance": "2.4 mi",
+      "url": "https://www.google.com/maps/search/The%20Historic%20Artcraft%20Theatre+near+39.5121733%2C-86.0729932"
+    },
+    {
+      "name": "Regal Greenwood & RPX",
+      "distance": "8.4 mi",
+      "url": "https://www.google.com/maps/search/Regal%20Greenwood%20%26%20RPX+near+39.5121733%2C-86.0729932",
+      "isFar": true
+    }
+  ],
+  "fun": [
+    {
+      "name": "Urban Air Trampoline and Adventure Park",
+      "distance": "1.4 mi",
+      "url": "https://www.google.com/maps/search/Urban%20Air%20Trampoline%20and%20Adventure%20Park+near+39.5121733%2C-86.0729932"
+    },
+    {
+      "name": "Freedom Springs Greenwood Aquatics Park",
+      "distance": "6.4 mi",
+      "url": "https://www.google.com/maps/search/Freedom%20Springs%20Greenwood%20Aquatics%20Park+near+39.5121733%2C-86.0729932",
+      "isFar": true
+    },
+    {
+      "name": "Splash Pad",
+      "distance": "7.2 mi",
+      "url": "https://www.google.com/maps/search/Splash%20Pad+near+39.5121733%2C-86.0729932",
+      "isFar": true
+    },
+    {
+      "name": "FUNBOX INDIANAPOLIS - GREENWOOD",
+      "distance": "8.7 mi",
+      "url": "https://www.google.com/maps/search/FUNBOX%20INDIANAPOLIS%20-%20GREENWOOD+near+39.5121733%2C-86.0729932",
+      "isFar": true
+    }
+  ],
+  "hotels": [
+    {
+      "name": "Private Room Bathroom - Hot Tub on Patio - Double Room With Private Bathroom",
+      "distance": "0.2 mi",
+      "url": "https://www.google.com/maps/search/Private%20Room%20Bathroom%20-%20Hot%20Tub%20on%20Patio%20-%20Double%20Room%20With%20Private%20Bathroom+near+39.5121733%2C-86.0729932"
+    },
+    {
+      "name": "Pennington Mobile Home Park",
+      "distance": "0.5 mi",
+      "url": "https://www.google.com/maps/search/Pennington%20Mobile%20Home%20Park+near+39.5121733%2C-86.0729932"
+    },
+    {
+      "name": "Quiet Peaceful Home in Franklin Sleeps 6 - Family Room",
+      "distance": "1.7 mi",
+      "url": "https://www.google.com/maps/search/Quiet%20Peaceful%20Home%20in%20Franklin%20Sleeps%206%20-%20Family%20Room+near+39.5121733%2C-86.0729932"
+    },
+    {
+      "name": "Oliver Ave BNB",
+      "distance": "1.7 mi",
+      "url": "https://www.google.com/maps/search/Oliver%20Ave%20BNB+near+39.5121733%2C-86.0729932"
+    },
+    {
+      "name": "The Dragonfly- A Historic Gem COMPLETELY Restored!",
+      "distance": "2.0 mi",
+      "url": "https://www.google.com/maps/search/The%20Dragonfly-%20A%20Historic%20Gem%20COMPLETELY%20Restored!+near+39.5121733%2C-86.0729932"
+    },
+    {
+      "name": "Johnson County Fairground Campground",
+      "distance": "2.0 mi",
+      "url": "https://www.google.com/maps/search/Johnson%20County%20Fairground%20Campground+near+39.5121733%2C-86.0729932"
+    },
+    {
+      "name": "Wishing Well Motel LLC",
+      "distance": "2.1 mi",
+      "url": "https://www.google.com/maps/search/Wishing%20Well%20Motel%20LLC+near+39.5121733%2C-86.0729932"
+    }
+  ],
+  "gas": [
+    {
+      "name": "Shell",
+      "distance": "0.6 mi",
+      "url": "https://www.google.com/maps/search/Shell+near+39.5121733%2C-86.0729932"
+    },
+    {
+      "name": "Murphy USA",
+      "distance": "0.8 mi",
+      "url": "https://www.google.com/maps/search/Murphy%20USA+near+39.5121733%2C-86.0729932"
+    },
+    {
+      "name": "Kroger Fuel Center",
+      "distance": "1.2 mi",
+      "url": "https://www.google.com/maps/search/Kroger%20Fuel%20Center+near+39.5121733%2C-86.0729932"
+    },
+    {
+      "name": "Tarp",
+      "distance": "1.8 mi",
+      "url": "https://www.google.com/maps/search/Tarp+near+39.5121733%2C-86.0729932"
+    },
+    {
+      "name": "Circle K | Gas Station",
+      "distance": "2.0 mi",
+      "url": "https://www.google.com/maps/search/Circle%20K%20%7C%20Gas%20Station+near+39.5121733%2C-86.0729932"
+    }
+  ]
+}

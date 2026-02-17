@@ -1,0 +1,254 @@
+{
+  "quick_bite": [
+    {
+      "name": "Subway",
+      "distance": "0.1 mi",
+      "url": "https://www.google.com/maps/search/Subway+near+33.8856245%2C-118.158473"
+    },
+    {
+      "name": "Carl's Jr.",
+      "distance": "0.2 mi",
+      "url": "https://www.google.com/maps/search/Carl's%20Jr.+near+33.8856245%2C-118.158473"
+    },
+    {
+      "name": "Habit Burger & Grill",
+      "distance": "0.3 mi",
+      "url": "https://www.google.com/maps/search/Habit%20Burger%20%26%20Grill+near+33.8856245%2C-118.158473"
+    },
+    {
+      "name": "WaBa Grill",
+      "distance": "0.3 mi",
+      "url": "https://www.google.com/maps/search/WaBa%20Grill+near+33.8856245%2C-118.158473"
+    },
+    {
+      "name": "Chuck E. Cheese",
+      "distance": "2.5 mi",
+      "url": "https://www.google.com/maps/search/Chuck%20E.%20Cheese+near+33.8856245%2C-118.158473"
+    },
+    {
+      "name": "Cinemark Downey and XD",
+      "distance": "2.9 mi",
+      "url": "https://www.google.com/maps/search/Cinemark%20Downey%20and%20XD+near+33.8856245%2C-118.158473"
+    },
+    {
+      "name": "Chuck E. Cheese",
+      "distance": "3.9 mi",
+      "url": "https://www.google.com/maps/search/Chuck%20E.%20Cheese+near+33.8856245%2C-118.158473",
+      "isFar": true
+    }
+  ],
+  "coffee": [
+    {
+      "name": "Horchata Coffee Churros",
+      "distance": "0.2 mi",
+      "url": "https://www.google.com/maps/search/Horchata%20Coffee%20Churros+near+33.8856245%2C-118.158473"
+    }
+  ],
+  "team_lunch": [
+    {
+      "name": "MLB Ballpark Bites",
+      "distance": "0.1 mi",
+      "url": "https://www.google.com/maps/search/MLB%20Ballpark%20Bites+near+33.8856245%2C-118.158473"
+    },
+    {
+      "name": "IHOP",
+      "distance": "0.1 mi",
+      "url": "https://www.google.com/maps/search/IHOP+near+33.8856245%2C-118.158473"
+    },
+    {
+      "name": "Chinese Gourmet",
+      "distance": "0.1 mi",
+      "url": "https://www.google.com/maps/search/Chinese%20Gourmet+near+33.8856245%2C-118.158473"
+    },
+    {
+      "name": "Paramount Stinkin Crawfish",
+      "distance": "0.3 mi",
+      "url": "https://www.google.com/maps/search/Paramount%20Stinkin%20Crawfish+near+33.8856245%2C-118.158473"
+    }
+  ],
+  "dinner": [
+    {
+      "name": "Waikiki Hawaiian Grill",
+      "distance": "0.1 mi",
+      "url": "https://www.google.com/maps/search/Waikiki%20Hawaiian%20Grill+near+33.8856245%2C-118.158473"
+    },
+    {
+      "name": "Japanese Castle Sushi & Roll",
+      "distance": "0.1 mi",
+      "url": "https://www.google.com/maps/search/Japanese%20Castle%20Sushi%20%26%20Roll+near+33.8856245%2C-118.158473"
+    },
+    {
+      "name": "Tasty Donuts",
+      "distance": "0.1 mi",
+      "url": "https://www.google.com/maps/search/Tasty%20Donuts+near+33.8856245%2C-118.158473"
+    },
+    {
+      "name": "Oishi Teriyaki & Sushi",
+      "distance": "0.1 mi",
+      "url": "https://www.google.com/maps/search/Oishi%20Teriyaki%20%26%20Sushi+near+33.8856245%2C-118.158473"
+    },
+    {
+      "name": "Maya Teriyaki",
+      "distance": "0.1 mi",
+      "url": "https://www.google.com/maps/search/Maya%20Teriyaki+near+33.8856245%2C-118.158473"
+    },
+    {
+      "name": "Cascada Refrescante",
+      "distance": "0.2 mi",
+      "url": "https://www.google.com/maps/search/Cascada%20Refrescante+near+33.8856245%2C-118.158473"
+    },
+    {
+      "name": "Mariscos El Perihuete",
+      "distance": "0.2 mi",
+      "url": "https://www.google.com/maps/search/Mariscos%20El%20Perihuete+near+33.8856245%2C-118.158473"
+    }
+  ],
+  "bowling": [
+    {
+      "name": "Round1 Bowling & Arcade Lakewood Center Mall",
+      "distance": "2.7 mi",
+      "url": "https://www.google.com/maps/search/Round1%20Bowling%20%26%20Arcade%20Lakewood%20Center%20Mall+near+33.8856245%2C-118.158473"
+    },
+    {
+      "name": "Cal Bowl",
+      "distance": "3.8 mi",
+      "url": "https://www.google.com/maps/search/Cal%20Bowl+near+33.8856245%2C-118.158473",
+      "isFar": true
+    }
+  ],
+  "arcade": [],
+  "movies": [
+    {
+      "name": "Paramount Drive-In Theatres",
+      "distance": "1.0 mi",
+      "url": "https://www.google.com/maps/search/Paramount%20Drive-In%20Theatres+near+33.8856245%2C-118.158473"
+    },
+    {
+      "name": "Paramount Entertainment Center",
+      "distance": "1.1 mi",
+      "url": "https://www.google.com/maps/search/Paramount%20Entertainment%20Center+near+33.8856245%2C-118.158473"
+    },
+    {
+      "name": "Bianchi Theatres",
+      "distance": "1.2 mi",
+      "url": "https://www.google.com/maps/search/Bianchi%20Theatres+near+33.8856245%2C-118.158473"
+    },
+    {
+      "name": "Starlight Cinemas Lakewood Center",
+      "distance": "2.7 mi",
+      "url": "https://www.google.com/maps/search/Starlight%20Cinemas%20Lakewood%20Center+near+33.8856245%2C-118.158473"
+    },
+    {
+      "name": "Harkins Theatres Cerritos",
+      "distance": "4.0 mi",
+      "url": "https://www.google.com/maps/search/Harkins%20Theatres%20Cerritos+near+33.8856245%2C-118.158473",
+      "isFar": true
+    }
+  ],
+  "fun": [
+    {
+      "name": "Orange Avenue Splash Zone",
+      "distance": "1.5 mi",
+      "url": "https://www.google.com/maps/search/Orange%20Avenue%20Splash%20Zone+near+33.8856245%2C-118.158473"
+    },
+    {
+      "name": "American Family Amusement",
+      "distance": "2.7 mi",
+      "url": "https://www.google.com/maps/search/American%20Family%20Amusement+near+33.8856245%2C-118.158473"
+    },
+    {
+      "name": "Sky Zone Trampoline Park",
+      "distance": "3.5 mi",
+      "url": "https://www.google.com/maps/search/Sky%20Zone%20Trampoline%20Park+near+33.8856245%2C-118.158473",
+      "isFar": true
+    },
+    {
+      "name": "El Milagro de la Guadalupana \"The Experience\"",
+      "distance": "3.6 mi",
+      "url": "https://www.google.com/maps/search/El%20Milagro%20de%20la%20Guadalupana%20%22The%20Experience%22+near+33.8856245%2C-118.158473",
+      "isFar": true
+    },
+    {
+      "name": "Regency Fun Center",
+      "distance": "3.7 mi",
+      "url": "https://www.google.com/maps/search/Regency%20Fun%20Center+near+33.8856245%2C-118.158473",
+      "isFar": true
+    },
+    {
+      "name": "Bumper Boats - Norwalk, CA (mini golf)",
+      "distance": "4.1 mi",
+      "url": "https://www.google.com/maps/search/Bumper%20Boats%20-%20Norwalk%2C%20CA%20(mini%20golf)+near+33.8856245%2C-118.158473",
+      "isFar": true
+    },
+    {
+      "name": "The Karate Kid- Movie (Filming Scene)",
+      "distance": "4.2 mi",
+      "url": "https://www.google.com/maps/search/The%20Karate%20Kid-%20Movie%20(Filming%20Scene)+near+33.8856245%2C-118.158473",
+      "isFar": true
+    }
+  ],
+  "hotels": [
+    {
+      "name": "LB Comfy Home",
+      "distance": "0.2 mi",
+      "url": "https://www.google.com/maps/search/LB%20Comfy%20Home+near+33.8856245%2C-118.158473"
+    },
+    {
+      "name": "LB Comfy Home",
+      "distance": "0.2 mi",
+      "url": "https://www.google.com/maps/search/LB%20Comfy%20Home+near+33.8856245%2C-118.158473"
+    },
+    {
+      "name": "Americana Mobile Home Park",
+      "distance": "0.5 mi",
+      "url": "https://www.google.com/maps/search/Americana%20Mobile%20Home%20Park+near+33.8856245%2C-118.158473"
+    },
+    {
+      "name": "Cuartos De Renta",
+      "distance": "0.5 mi",
+      "url": "https://www.google.com/maps/search/Cuartos%20De%20Renta+near+33.8856245%2C-118.158473"
+    },
+    {
+      "name": "Paramount Mobile Village",
+      "distance": "0.6 mi",
+      "url": "https://www.google.com/maps/search/Paramount%20Mobile%20Village+near+33.8856245%2C-118.158473"
+    },
+    {
+      "name": "Cherryfield Village Mobile Home Park",
+      "distance": "0.6 mi",
+      "url": "https://www.google.com/maps/search/Cherryfield%20Village%20Mobile%20Home%20Park+near+33.8856245%2C-118.158473"
+    },
+    {
+      "name": "Woodland Grove Trailer Park",
+      "distance": "0.7 mi",
+      "url": "https://www.google.com/maps/search/Woodland%20Grove%20Trailer%20Park+near+33.8856245%2C-118.158473"
+    }
+  ],
+  "gas": [
+    {
+      "name": "ARCO",
+      "distance": "0.2 mi",
+      "url": "https://www.google.com/maps/search/ARCO+near+33.8856245%2C-118.158473"
+    },
+    {
+      "name": "Sinclair",
+      "distance": "0.3 mi",
+      "url": "https://www.google.com/maps/search/Sinclair+near+33.8856245%2C-118.158473"
+    },
+    {
+      "name": "Dino 2",
+      "distance": "0.3 mi",
+      "url": "https://www.google.com/maps/search/Dino%202+near+33.8856245%2C-118.158473"
+    },
+    {
+      "name": "ARCO",
+      "distance": "0.5 mi",
+      "url": "https://www.google.com/maps/search/ARCO+near+33.8856245%2C-118.158473"
+    },
+    {
+      "name": "SC Fuels",
+      "distance": "0.6 mi",
+      "url": "https://www.google.com/maps/search/SC%20Fuels+near+33.8856245%2C-118.158473"
+    }
+  ]
+}

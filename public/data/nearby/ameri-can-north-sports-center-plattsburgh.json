@@ -1,0 +1,178 @@
+{
+  "quick_bite": [
+    {
+      "name": "Burger King",
+      "distance": "0.3 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Burger%20King&query_place_id=ChIJkQcv_bBAykwRyi_0MY-Nz44&center=44.6815478,-73.4484985"
+    },
+    {
+      "name": "Subway",
+      "distance": "0.3 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Subway&query_place_id=ChIJGyFd861AykwRN4VIxOASsQY&center=44.6829404,-73.44927559999999"
+    },
+    {
+      "name": "Clare & Carl's Hot Dog Stand",
+      "distance": "0.6 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Clare%20%26%20Carl's%20Hot%20Dog%20Stand&query_place_id=ChIJhVVGdbhAykwRN9MuGLY3bZM&center=44.671192999999995,-73.4463256"
+    },
+    {
+      "name": "Burger King",
+      "distance": "1.7 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Burger%20King&query_place_id=ChIJbwoB5504ykwRBrkOyJrAzl0&center=44.6972113,-73.47647940000002"
+    }
+  ],
+  "coffee": [
+    {
+      "name": "Dunkin'",
+      "distance": "0.2 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Dunkin'&query_place_id=ChIJe94ZArJAykwRYJcuMHYvwUc&center=44.6810572,-73.4490667"
+    },
+    {
+      "name": "Einstein Bros. Bagels",
+      "distance": "1.5 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Einstein%20Bros.%20Bagels&query_place_id=ChIJ02AuG6E4ykwR5xa-T33rfqc&center=44.6972373,-73.46774839999999"
+    }
+  ],
+  "team_lunch": [
+    {
+      "name": "Bazzano's Pizza",
+      "distance": "0.9 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Bazzano's%20Pizza&query_place_id=ChIJh9J2RVZHykwR0MQGcJULDqM&center=44.691426,-73.45748250000001"
+    },
+    {
+      "name": "Kent Cafe",
+      "distance": "1.1 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Kent%20Cafe&query_place_id=ChIJ6STFBDxHykwRwYJqwQuADAw&center=44.6908963,-73.4668556"
+    },
+    {
+      "name": "Samuel D's",
+      "distance": "1.1 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Samuel%20D's&query_place_id=ChIJiUNpZlxHykwRQcxoHEw_q_U&center=44.6888322,-73.4698784"
+    },
+    {
+      "name": "Tailwind",
+      "distance": "1.2 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Tailwind&query_place_id=ChIJjbXgzzJHykwRFwb2pWnuyGU&center=44.6692051,-73.4720778"
+    },
+    {
+      "name": "In The Mix Bakeshop",
+      "distance": "1.3 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=In%20The%20Mix%20Bakeshop&query_place_id=ChIJH_h_GH85ykwR5Tc64BAH58U&center=44.6970569,-73.45256429999999"
+    }
+  ],
+  "dinner": [
+    {
+      "name": "Rambach's Bakery and Fudge",
+      "distance": "0.2 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Rambach's%20Bakery%20and%20Fudge&query_place_id=ChIJxWroiJ04ykwRKwQ1EW92zlU&center=44.68164850000001,-73.453574"
+    },
+    {
+      "name": "Jade Garden",
+      "distance": "0.3 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Jade%20Garden&query_place_id=ChIJIQ1e861AykwRU36Pqki_d7c&center=44.6829032,-73.44937519999999"
+    },
+    {
+      "name": "Latitude 44 Bistro",
+      "distance": "0.4 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Latitude%2044%20Bistro&query_place_id=ChIJm8B3Bq1AykwROitLZQix19g&center=44.684269099999995,-73.45023859999999"
+    },
+    {
+      "name": "Plattsburgh Sourdough Co",
+      "distance": "0.4 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Plattsburgh%20Sourdough%20Co&query_place_id=ChIJ89ar9vBBykwR-_QJcIYydhw&center=44.6846142,-73.4501928"
+    },
+    {
+      "name": "BIG T'z House of Soul' Soul Food Restaurant",
+      "distance": "0.4 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=BIG%20T'z%20House%20of%20Soul'%20Soul%20Food%20Restaurant&query_place_id=ChIJfwO8JQBBykwRo1EAQNaedz8&center=44.684732499999996,-73.4501482"
+    }
+  ],
+  "bowling": [
+    {
+      "name": "North Bowl Lanes",
+      "distance": "3.9 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=North%20Bowl%20Lanes&query_place_id=ChIJgfDP3S45ykwR69Fh2CrSdeg&center=44.7333901,-73.4333511",
+      "isFar": true
+    }
+  ],
+  "arcade": [],
+  "movies": [
+    {
+      "name": "Plattsburgh State Clg Hartman",
+      "distance": "1.2 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Plattsburgh%20State%20Clg%20Hartman&query_place_id=ChIJzT4ERac4ykwRViqirIAJs7o&center=44.6944369,-73.4661151"
+    },
+    {
+      "name": "Regal Champlain Centre",
+      "distance": "2.5 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Regal%20Champlain%20Centre&query_place_id=ChIJ4UG8J4E4ykwRawDpwS9VVZ8&center=44.703526,-73.49161"
+    },
+    {
+      "name": "Cumberland12 Cinemas",
+      "distance": "3.9 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Cumberland12%20Cinemas&query_place_id=ChIJEUo9vy45ykwReZM0Y18Ksyk&center=44.7339285,-73.4317777",
+      "isFar": true
+    }
+  ],
+  "fun": [
+    {
+      "name": "Bench along Terry Gordon Rec Trail",
+      "distance": "0.5 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Bench%20along%20Terry%20Gordon%20Rec%20Trail&query_place_id=ChIJzdLpfsVBykwRcypIGy-AX5Y&center=44.6829,-73.444"
+    },
+    {
+      "name": "Gazebo",
+      "distance": "0.7 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Gazebo&query_place_id=ChIJm-rJWoxBykwRO5aO2iwp544&center=44.6885802,-73.448168"
+    },
+    {
+      "name": "Terry James Gordon Rec Path",
+      "distance": "1.1 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Terry%20James%20Gordon%20Rec%20Path&query_place_id=ChIJY-C-lH4_ykwRlcaSqkfa-Vk&center=44.693481399999996,-73.4443405"
+    }
+  ],
+  "hotels": [
+    {
+      "name": "Plattsburgh Moose Lodge #2390",
+      "distance": "0.1 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Plattsburgh%20Moose%20Lodge%20%232390&query_place_id=ChIJA3iPnbNAykwRqmxrEBvmO_8&center=44.678958,-73.4530465"
+    },
+    {
+      "name": "The Village Suites - Community Living",
+      "distance": "0.7 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=The%20Village%20Suites%20-%20Community%20Living&query_place_id=ChIJ6djKH1RHykwRJHe1TA35TXM&center=44.6892814,-73.4566804"
+    },
+    {
+      "name": "The Village Suites - Community Living",
+      "distance": "0.8 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=The%20Village%20Suites%20-%20Community%20Living&query_place_id=ChIJwUvtuFVHykwRlA5gYO-5Xe8&center=44.690681399999995,-73.4582672"
+    },
+    {
+      "name": "The Village Suites - Community Living",
+      "distance": "0.9 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=The%20Village%20Suites%20-%20Community%20Living&query_place_id=ChIJv3kfZlZHykwR_QgZI2Pjo3c&center=44.691238399999996,-73.4569396"
+    }
+  ],
+  "gas": [
+    {
+      "name": "Maplefields",
+      "distance": "0.3 mi",
+      "url": "https://www.google.com/maps/search/Maplefields+near+44.678958%2C-73.4530465"
+    },
+    {
+      "name": "Mobil",
+      "distance": "0.3 mi",
+      "url": "https://www.google.com/maps/search/Mobil+near+44.678958%2C-73.4530465"
+    },
+    {
+      "name": "Citgo",
+      "distance": "0.4 mi",
+      "url": "https://www.google.com/maps/search/Citgo+near+44.678958%2C-73.4530465"
+    },
+    {
+      "name": "Dubrey's Service Station",
+      "distance": "0.4 mi",
+      "url": "https://www.google.com/maps/search/Dubrey's%20Service%20Station+near+44.678958%2C-73.4530465"
+    }
+  ]
+}

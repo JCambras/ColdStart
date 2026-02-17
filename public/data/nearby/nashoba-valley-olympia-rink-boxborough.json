@@ -1,0 +1,182 @@
+{
+  "quick_bite": [
+    {
+      "name": "Dicapri Pizzeria",
+      "distance": "0.9 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Dicapri%20Pizzeria&query_place_id=ChIJ-UthDGGR44kRVY1cb8Qg_yM&center=42.4759974,-71.4737688"
+    },
+    {
+      "name": "Subway",
+      "distance": "1.9 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Subway&query_place_id=ChIJyzI0KGuR44kRxHMmQcuh44I&center=42.4739089,-71.45380440000001"
+    },
+    {
+      "name": "Not Your Average Joe's - Acton",
+      "distance": "2.1 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Not%20Your%20Average%20Joe's%20-%20Acton&query_place_id=ChIJ0Z9f0j-R44kRSV-em-pEGvM&center=42.4761606,-71.4505961"
+    },
+    {
+      "name": "Nan's Kitchen",
+      "distance": "2.9 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Nan's%20Kitchen&query_place_id=ChIJaRXdxWST44kRR1GcdGmGnOE&center=42.4355117,-71.4967444"
+    },
+    {
+      "name": "Subway",
+      "distance": "3.6 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Subway&query_place_id=ChIJazvKx-mR44kR0clpoQE4IFI&center=42.432662099999995,-71.4542847",
+      "isFar": true
+    },
+    {
+      "name": "Subway",
+      "distance": "3.9 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Subway&query_place_id=ChIJ6zTkn8-Q44kRLTB3B8CcwTA&center=42.480408999999995,-71.415236",
+      "isFar": true
+    }
+  ],
+  "coffee": [
+    {
+      "name": "Legend Café & Catering",
+      "distance": "1.0 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Legend%20Caf%C3%A9%20%26%20Catering&query_place_id=ChIJrbWGOmGR44kRKkLxKhu1bzE&center=42.4765472,-71.4722281"
+    },
+    {
+      "name": "Acton Coffee",
+      "distance": "1.1 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Acton%20Coffee&query_place_id=ChIJPTCWwiSX44kRrkTEFvDzbNs&center=42.4762491,-71.4707889"
+    },
+    {
+      "name": "Cafe at 80",
+      "distance": "1.6 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Cafe%20at%2080&query_place_id=ChIJo0BofQCR44kRrbow7jRvbJs&center=42.4980847,-71.4770766"
+    },
+    {
+      "name": "Dunkin'",
+      "distance": "1.9 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Dunkin'&query_place_id=ChIJe6FlDG2R44kRvcpT-nzWQaY&center=42.4689416,-71.4566761"
+    },
+    {
+      "name": "Starbucks Coffee Company",
+      "distance": "2.1 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Starbucks%20Coffee%20Company&query_place_id=ChIJxwF5bhWR44kR4hLara3TO2M&center=42.47491,-71.4516"
+    }
+  ],
+  "team_lunch": [],
+  "dinner": [
+    {
+      "name": "Oscars Burritos Mexican Grill",
+      "distance": "0.1 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Oscars%20Burritos%20Mexican%20Grill&query_place_id=ChIJLzqEnsST44kReGT1X4CKcNY&center=42.4778814,-71.4909181"
+    },
+    {
+      "name": "Silver Girl",
+      "distance": "0.9 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Silver%20Girl&query_place_id=ChIJPxDzcACR44kRJyXqBN0ueV4&center=42.477021199999996,-71.473974"
+    },
+    {
+      "name": "Acton New London Style Pizza",
+      "distance": "1.0 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Acton%20New%20London%20Style%20Pizza&query_place_id=ChIJ77AxGGGR44kR-lxxEuJa0og&center=42.4763313,-71.4730622"
+    },
+    {
+      "name": "Thinking flower bakery",
+      "distance": "1.0 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Thinking%20flower%20bakery&query_place_id=ChIJa0uOMQCT44kR8za4njsEWp8&center=42.4821333,-71.5109288"
+    },
+    {
+      "name": "Acton Seafood and Burger Company",
+      "distance": "1.0 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Acton%20Seafood%20and%20Burger%20Company&query_place_id=ChIJF-UwLWGR44kROnJDY3xMRQk&center=42.4761731,-71.47145619999999"
+    },
+    {
+      "name": "True West Brewing Co.",
+      "distance": "1.1 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=True%20West%20Brewing%20Co.&query_place_id=ChIJr3Sr4maR44kRUNheFqa2qfQ&center=42.476215499999995,-71.47048529999999"
+    }
+  ],
+  "bowling": [
+    {
+      "name": "Acton Bowladrome & Arcade",
+      "distance": "2.0 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Acton%20Bowladrome%20%26%20Arcade&query_place_id=ChIJhSIx02qR44kRGRp8L1dMRQg&center=42.474329,-71.4537052"
+    }
+  ],
+  "arcade": [],
+  "movies": [
+    {
+      "name": "Maynard Fine Arts Theatre",
+      "distance": "3.6 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Maynard%20Fine%20Arts%20Theatre&query_place_id=ChIJKxdnjMGR44kRl7lHT23aZhc&center=42.433558500000004,-71.4517333",
+      "isFar": true
+    }
+  ],
+  "fun": [
+    {
+      "name": "Metro West Pinball @ Acton Bowladrome",
+      "distance": "2.0 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Metro%20West%20Pinball%20%40%20Acton%20Bowladrome&query_place_id=ChIJnQa6ylWR44kRSSr_9qcr3nU&center=42.4742621,-71.4534867"
+    },
+    {
+      "name": "Delaney Flood Control Site",
+      "distance": "3.2 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Delaney%20Flood%20Control%20Site&query_place_id=ChIJEYB8OMCS44kR17qErEMyGgc&center=42.4549099,-71.5471724",
+      "isFar": true
+    },
+    {
+      "name": "Jam Time Maynard",
+      "distance": "3.7 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Jam%20Time%20Maynard&query_place_id=ChIJxYChILiR44kRO_eI0o8shpM&center=42.437584699999995,-71.4419889",
+      "isFar": true
+    },
+    {
+      "name": "Nara Park Picnic Tables",
+      "distance": "4.9 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Nara%20Park%20Picnic%20Tables&query_place_id=ChIJGfnQDhqX44kRt4UL3-0fIkI&center=42.5170501,-71.41316859999999",
+      "isFar": true
+    }
+  ],
+  "hotels": [
+    {
+      "name": "Lodging Near Public Transportation",
+      "distance": "2.1 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Lodging%20Near%20Public%20Transportation&query_place_id=ChIJNXBAZ3SR44kR4ygioSbqkxE&center=42.4613495,-71.4571076"
+    },
+    {
+      "name": "AJ & H Private Accommodations and Needs",
+      "distance": "2.2 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=AJ%20%26%20H%20Private%20Accommodations%20and%20Needs&query_place_id=ChIJKTtnPhyR44kRlPy-4orWtcc&center=42.4606816,-71.4547927"
+    },
+    {
+      "name": "Boxboro Regency",
+      "distance": "2.8 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Boxboro%20Regency&query_place_id=ChIJp-4bKxiT44kRxrmQaI5aPf4&center=42.4817089,-71.5457704"
+    },
+    {
+      "name": "Michael McCormick",
+      "distance": "3.1 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Michael%20McCormick&query_place_id=ChIJw2c0rr2R44kRkZGDRl6HBI4&center=42.485137699999996,-71.43274640000001",
+      "isFar": true
+    }
+  ],
+  "gas": [
+    {
+      "name": "Mobil",
+      "distance": "1.0 mi",
+      "url": "https://www.google.com/maps/search/Mobil+near+42.477157399999996%2C-71.49180319999999"
+    },
+    {
+      "name": "Haffner's",
+      "distance": "1.7 mi",
+      "url": "https://www.google.com/maps/search/Haffner's+near+42.477157399999996%2C-71.49180319999999"
+    },
+    {
+      "name": "South Acton Gas",
+      "distance": "1.9 mi",
+      "url": "https://www.google.com/maps/search/South%20Acton%20Gas+near+42.477157399999996%2C-71.49180319999999"
+    },
+    {
+      "name": "Phillips 66",
+      "distance": "2.0 mi",
+      "url": "https://www.google.com/maps/search/Phillips%2066+near+42.477157399999996%2C-71.49180319999999"
+    }
+  ]
+}

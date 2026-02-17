@@ -1,0 +1,232 @@
+{
+  "quick_bite": [
+    {
+      "name": "Jack in the Box",
+      "distance": "0.2 mi",
+      "url": "https://www.google.com/maps/search/Jack%20in%20the%20Box+near+34.1023546%2C-117.54841019999998"
+    },
+    {
+      "name": "Popeyes Louisiana Kitchen",
+      "distance": "0.3 mi",
+      "url": "https://www.google.com/maps/search/Popeyes%20Louisiana%20Kitchen+near+34.1023546%2C-117.54841019999998"
+    },
+    {
+      "name": "Carl's Jr.",
+      "distance": "0.3 mi",
+      "url": "https://www.google.com/maps/search/Carl's%20Jr.+near+34.1023546%2C-117.54841019999998"
+    },
+    {
+      "name": "The Old Spaghetti Factory",
+      "distance": "0.3 mi",
+      "url": "https://www.google.com/maps/search/The%20Old%20Spaghetti%20Factory+near+34.1023546%2C-117.54841019999998"
+    },
+    {
+      "name": "Chuck E. Cheese",
+      "distance": "3.0 mi",
+      "url": "https://www.google.com/maps/search/Chuck%20E.%20Cheese+near+34.1023546%2C-117.54841019999998",
+      "isFar": true
+    }
+  ],
+  "coffee": [
+    {
+      "name": "85°C Bakery Cafe - Rancho Cucamonga",
+      "distance": "0.3 mi",
+      "url": "https://www.google.com/maps/search/85%C2%B0C%20Bakery%20Cafe%20-%20Rancho%20Cucamonga+near+34.1023546%2C-117.54841019999998"
+    }
+  ],
+  "team_lunch": [
+    {
+      "name": "Korita’s Bakery",
+      "distance": "0.2 mi",
+      "url": "https://www.google.com/maps/search/Korita%E2%80%99s%20Bakery+near+34.1023546%2C-117.54841019999998"
+    },
+    {
+      "name": "Gen Korean BBQ House",
+      "distance": "0.3 mi",
+      "url": "https://www.google.com/maps/search/Gen%20Korean%20BBQ%20House+near+34.1023546%2C-117.54841019999998"
+    },
+    {
+      "name": "The Meltdown",
+      "distance": "0.3 mi",
+      "url": "https://www.google.com/maps/search/The%20Meltdown+near+34.1023546%2C-117.54841019999998"
+    },
+    {
+      "name": "Denny's",
+      "distance": "0.3 mi",
+      "url": "https://www.google.com/maps/search/Denny's+near+34.1023546%2C-117.54841019999998"
+    }
+  ],
+  "dinner": [
+    {
+      "name": "My Healthy Penguin",
+      "distance": "0.2 mi",
+      "url": "https://www.google.com/maps/search/My%20Healthy%20Penguin+near+34.1023546%2C-117.54841019999998"
+    },
+    {
+      "name": "Yumberry Bowl",
+      "distance": "0.2 mi",
+      "url": "https://www.google.com/maps/search/Yumberry%20Bowl+near+34.1023546%2C-117.54841019999998"
+    },
+    {
+      "name": "WOW KABAB",
+      "distance": "0.2 mi",
+      "url": "https://www.google.com/maps/search/WOW%20KABAB+near+34.1023546%2C-117.54841019999998"
+    },
+    {
+      "name": "Papa Zhang’s BBQ & Hot Pot",
+      "distance": "0.2 mi",
+      "url": "https://www.google.com/maps/search/Papa%20Zhang%E2%80%99s%20BBQ%20%26%20Hot%20Pot+near+34.1023546%2C-117.54841019999998"
+    },
+    {
+      "name": "Taco Hut",
+      "distance": "0.2 mi",
+      "url": "https://www.google.com/maps/search/Taco%20Hut+near+34.1023546%2C-117.54841019999998"
+    },
+    {
+      "name": "Wabi Sabi",
+      "distance": "0.2 mi",
+      "url": "https://www.google.com/maps/search/Wabi%20Sabi+near+34.1023546%2C-117.54841019999998"
+    },
+    {
+      "name": "Ramen Masuta",
+      "distance": "0.2 mi",
+      "url": "https://www.google.com/maps/search/Ramen%20Masuta+near+34.1023546%2C-117.54841019999998"
+    }
+  ],
+  "bowling": [
+    {
+      "name": "Lucky Strike Rancho Cucamonga",
+      "distance": "1.7 mi",
+      "url": "https://www.google.com/maps/search/Lucky%20Strike%20Rancho%20Cucamonga+near+34.1023546%2C-117.54841019999998"
+    },
+    {
+      "name": "Big Al's",
+      "distance": "2.0 mi",
+      "url": "https://www.google.com/maps/search/Big%20Al's+near+34.1023546%2C-117.54841019999998"
+    }
+  ],
+  "arcade": [],
+  "movies": [
+    {
+      "name": "AMC Victoria Gardens 12",
+      "distance": "1.3 mi",
+      "url": "https://www.google.com/maps/search/AMC%20Victoria%20Gardens%2012+near+34.1023546%2C-117.54841019999998"
+    },
+    {
+      "name": "Starlight Terra Vista 6 Movies",
+      "distance": "1.4 mi",
+      "url": "https://www.google.com/maps/search/Starlight%20Terra%20Vista%206%20Movies+near+34.1023546%2C-117.54841019999998"
+    },
+    {
+      "name": "Regal Edwards Ontario Palace",
+      "distance": "1.8 mi",
+      "url": "https://www.google.com/maps/search/Regal%20Edwards%20Ontario%20Palace+near+34.1023546%2C-117.54841019999998"
+    },
+    {
+      "name": "AMC Ontario Mills 30",
+      "distance": "1.9 mi",
+      "url": "https://www.google.com/maps/search/AMC%20Ontario%20Mills%2030+near+34.1023546%2C-117.54841019999998"
+    }
+  ],
+  "fun": [
+    {
+      "name": "Unity Escape Rooms",
+      "distance": "0.2 mi",
+      "url": "https://www.google.com/maps/search/Unity%20Escape%20Rooms+near+34.1023546%2C-117.54841019999998"
+    },
+    {
+      "name": "Sky Zone Trampoline Park",
+      "distance": "0.8 mi",
+      "url": "https://www.google.com/maps/search/Sky%20Zone%20Trampoline%20Park+near+34.1023546%2C-117.54841019999998"
+    },
+    {
+      "name": "Immersive Gamebox - Victoria Gardens, Rancho Cucamonga",
+      "distance": "1.1 mi",
+      "url": "https://www.google.com/maps/search/Immersive%20Gamebox%20-%20Victoria%20Gardens%2C%20Rancho%20Cucamonga+near+34.1023546%2C-117.54841019999998"
+    },
+    {
+      "name": "Living Spaces Kids Spaces",
+      "distance": "1.1 mi",
+      "url": "https://www.google.com/maps/search/Living%20Spaces%20Kids%20Spaces+near+34.1023546%2C-117.54841019999998"
+    },
+    {
+      "name": "The Escape Game Rancho Cucamonga",
+      "distance": "1.2 mi",
+      "url": "https://www.google.com/maps/search/The%20Escape%20Game%20Rancho%20Cucamonga+near+34.1023546%2C-117.54841019999998"
+    },
+    {
+      "name": "Mega Entertainment, Inc.",
+      "distance": "1.2 mi",
+      "url": "https://www.google.com/maps/search/Mega%20Entertainment%2C%20Inc.+near+34.1023546%2C-117.54841019999998"
+    },
+    {
+      "name": "Breaking Point Escape Rooms",
+      "distance": "1.5 mi",
+      "url": "https://www.google.com/maps/search/Breaking%20Point%20Escape%20Rooms+near+34.1023546%2C-117.54841019999998"
+    }
+  ],
+  "hotels": [
+    {
+      "name": "Hampton Inn & Suites Ontario Rancho Cucamonga",
+      "distance": "0.3 mi",
+      "url": "https://www.google.com/maps/search/Hampton%20Inn%20%26%20Suites%20Ontario%20Rancho%20Cucamonga+near+34.1023546%2C-117.54841019999998"
+    },
+    {
+      "name": "希尔顿",
+      "distance": "0.5 mi",
+      "url": "https://www.google.com/maps/search/%E5%B8%8C%E5%B0%94%E9%A1%BF+near+34.1023546%2C-117.54841019999998"
+    },
+    {
+      "name": "Four Points by Sheraton Ontario-Rancho Cucamonga",
+      "distance": "0.5 mi",
+      "url": "https://www.google.com/maps/search/Four%20Points%20by%20Sheraton%20Ontario-Rancho%20Cucamonga+near+34.1023546%2C-117.54841019999998"
+    },
+    {
+      "name": "Execustay At Amli At Empire Lk",
+      "distance": "1.0 mi",
+      "url": "https://www.google.com/maps/search/Execustay%20At%20Amli%20At%20Empire%20Lk+near+34.1023546%2C-117.54841019999998"
+    },
+    {
+      "name": "Best Western Plus Heritage Inn Ontario Rancho Cucamonga",
+      "distance": "1.0 mi",
+      "url": "https://www.google.com/maps/search/Best%20Western%20Plus%20Heritage%20Inn%20Ontario%20Rancho%20Cucamonga+near+34.1023546%2C-117.54841019999998"
+    },
+    {
+      "name": "Sanctity Hotel Rancho Cucamonga, Tapestry Collection by Hilton",
+      "distance": "1.4 mi",
+      "url": "https://www.google.com/maps/search/Sanctity%20Hotel%20Rancho%20Cucamonga%2C%20Tapestry%20Collection%20by%20Hilton+near+34.1023546%2C-117.54841019999998"
+    },
+    {
+      "name": "School District",
+      "distance": "1.5 mi",
+      "url": "https://www.google.com/maps/search/School%20District+near+34.1023546%2C-117.54841019999998"
+    }
+  ],
+  "gas": [
+    {
+      "name": "Shell",
+      "distance": "0.2 mi",
+      "url": "https://www.google.com/maps/search/Shell+near+34.1023546%2C-117.54841019999998"
+    },
+    {
+      "name": "ARCO",
+      "distance": "0.3 mi",
+      "url": "https://www.google.com/maps/search/ARCO+near+34.1023546%2C-117.54841019999998"
+    },
+    {
+      "name": "76",
+      "distance": "0.4 mi",
+      "url": "https://www.google.com/maps/search/76+near+34.1023546%2C-117.54841019999998"
+    },
+    {
+      "name": "Shell",
+      "distance": "0.8 mi",
+      "url": "https://www.google.com/maps/search/Shell+near+34.1023546%2C-117.54841019999998"
+    },
+    {
+      "name": "Chevron",
+      "distance": "0.8 mi",
+      "url": "https://www.google.com/maps/search/Chevron+near+34.1023546%2C-117.54841019999998"
+    }
+  ]
+}

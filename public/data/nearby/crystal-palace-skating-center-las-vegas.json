@@ -1,0 +1,225 @@
+{
+  "quick_bite": [
+    {
+      "name": "Panda Express",
+      "distance": "0.7 mi",
+      "url": "https://www.google.com/maps/search/Panda%20Express+near+36.2283849%2C-115.2236223"
+    },
+    {
+      "name": "Jimmy John's",
+      "distance": "0.7 mi",
+      "url": "https://www.google.com/maps/search/Jimmy%20John's+near+36.2283849%2C-115.2236223"
+    },
+    {
+      "name": "Roberto's Taco Shop",
+      "distance": "0.8 mi",
+      "url": "https://www.google.com/maps/search/Roberto's%20Taco%20Shop+near+36.2283849%2C-115.2236223"
+    },
+    {
+      "name": "Cinemark Century Santa Fe Station 16 and XD",
+      "distance": "1.9 mi",
+      "url": "https://www.google.com/maps/search/Cinemark%20Century%20Santa%20Fe%20Station%2016%20and%20XD+near+36.2283849%2C-115.2236223"
+    },
+    {
+      "name": "Chuck E. Cheese",
+      "distance": "2.9 mi",
+      "url": "https://www.google.com/maps/search/Chuck%20E.%20Cheese+near+36.2283849%2C-115.2236223"
+    }
+  ],
+  "coffee": [
+    {
+      "name": "Dunkin'",
+      "distance": "0.7 mi",
+      "url": "https://www.google.com/maps/search/Dunkin'+near+36.2283849%2C-115.2236223"
+    },
+    {
+      "name": "McDonald's",
+      "distance": "0.8 mi",
+      "url": "https://www.google.com/maps/search/McDonald's+near+36.2283849%2C-115.2236223"
+    },
+    {
+      "name": "Starbucks Coffee Company",
+      "distance": "0.8 mi",
+      "url": "https://www.google.com/maps/search/Starbucks%20Coffee%20Company+near+36.2283849%2C-115.2236223"
+    }
+  ],
+  "team_lunch": [
+    {
+      "name": "Chill-N-Grill",
+      "distance": "0.4 mi",
+      "url": "https://www.google.com/maps/search/Chill-N-Grill+near+36.2283849%2C-115.2236223"
+    },
+    {
+      "name": "Sierra PT",
+      "distance": "0.7 mi",
+      "url": "https://www.google.com/maps/search/Sierra%20PT+near+36.2283849%2C-115.2236223"
+    }
+  ],
+  "dinner": [
+    {
+      "name": "Timbers Bar & Grill",
+      "distance": "0.5 mi",
+      "url": "https://www.google.com/maps/search/Timbers%20Bar%20%26%20Grill+near+36.2283849%2C-115.2236223"
+    },
+    {
+      "name": "La Mojarra Loca Rancho",
+      "distance": "0.5 mi",
+      "url": "https://www.google.com/maps/search/La%20Mojarra%20Loca%20Rancho+near+36.2283849%2C-115.2236223"
+    },
+    {
+      "name": "John Mull's Meats & Road Kill Grill",
+      "distance": "0.7 mi",
+      "url": "https://www.google.com/maps/search/John%20Mull's%20Meats%20%26%20Road%20Kill%20Grill+near+36.2283849%2C-115.2236223"
+    },
+    {
+      "name": "Bun Bun chicken",
+      "distance": "0.7 mi",
+      "url": "https://www.google.com/maps/search/Bun%20Bun%20chicken+near+36.2283849%2C-115.2236223"
+    },
+    {
+      "name": "NÖM PANG sandwiches & more",
+      "distance": "0.7 mi",
+      "url": "https://www.google.com/maps/search/N%C3%96M%20PANG%20sandwiches%20%26%20more+near+36.2283849%2C-115.2236223"
+    },
+    {
+      "name": "Mezzo Bistro and Wine",
+      "distance": "0.7 mi",
+      "url": "https://www.google.com/maps/search/Mezzo%20Bistro%20and%20Wine+near+36.2283849%2C-115.2236223"
+    },
+    {
+      "name": "Hawaiian Bros Island Grill",
+      "distance": "0.8 mi",
+      "url": "https://www.google.com/maps/search/Hawaiian%20Bros%20Island%20Grill+near+36.2283849%2C-115.2236223"
+    }
+  ],
+  "bowling": [
+    {
+      "name": "Santa Fe Lanes",
+      "distance": "1.9 mi",
+      "url": "https://www.google.com/maps/search/Santa%20Fe%20Lanes+near+36.2283849%2C-115.2236223"
+    },
+    {
+      "name": "Round1 Bowling & Arcade Meadows Mall",
+      "distance": "4.2 mi",
+      "url": "https://www.google.com/maps/search/Round1%20Bowling%20%26%20Arcade%20Meadows%20Mall+near+36.2283849%2C-115.2236223",
+      "isFar": true
+    }
+  ],
+  "arcade": [],
+  "movies": [
+    {
+      "name": "AMC Rainbow Promenade 10",
+      "distance": "2.1 mi",
+      "url": "https://www.google.com/maps/search/AMC%20Rainbow%20Promenade%2010+near+36.2283849%2C-115.2236223"
+    },
+    {
+      "name": "West Wind Las Vegas Drive-In",
+      "distance": "2.2 mi",
+      "url": "https://www.google.com/maps/search/West%20Wind%20Las%20Vegas%20Drive-In+near+36.2283849%2C-115.2236223"
+    }
+  ],
+  "fun": [
+    {
+      "name": "dudes",
+      "distance": "1.8 mi",
+      "url": "https://www.google.com/maps/search/dudes+near+36.2283849%2C-115.2236223"
+    },
+    {
+      "name": "Kids Quest at Santa Fe Station",
+      "distance": "1.9 mi",
+      "url": "https://www.google.com/maps/search/Kids%20Quest%20at%20Santa%20Fe%20Station+near+36.2283849%2C-115.2236223"
+    },
+    {
+      "name": "Sky Zone Trampoline Park",
+      "distance": "2.2 mi",
+      "url": "https://www.google.com/maps/search/Sky%20Zone%20Trampoline%20Park+near+36.2283849%2C-115.2236223"
+    },
+    {
+      "name": "Gravady trampoline park",
+      "distance": "2.2 mi",
+      "url": "https://www.google.com/maps/search/Gravady%20trampoline%20park+near+36.2283849%2C-115.2236223"
+    },
+    {
+      "name": "MarketMaster",
+      "distance": "3.7 mi",
+      "url": "https://www.google.com/maps/search/MarketMaster+near+36.2283849%2C-115.2236223",
+      "isFar": true
+    },
+    {
+      "name": "Splash Pad",
+      "distance": "3.9 mi",
+      "url": "https://www.google.com/maps/search/Splash%20Pad+near+36.2283849%2C-115.2236223",
+      "isFar": true
+    },
+    {
+      "name": "Splash Pad",
+      "distance": "4.5 mi",
+      "url": "https://www.google.com/maps/search/Splash%20Pad+near+36.2283849%2C-115.2236223",
+      "isFar": true
+    }
+  ],
+  "hotels": [
+    {
+      "name": "Pelallo",
+      "distance": "0.1 mi",
+      "url": "https://www.google.com/maps/search/Pelallo+near+36.2283849%2C-115.2236223"
+    },
+    {
+      "name": "Elegant 1 Bedroom Guesthouse w/ Living Room and Kitchen.",
+      "distance": "0.3 mi",
+      "url": "https://www.google.com/maps/search/Elegant%201%20Bedroom%20Guesthouse%20w%2F%20Living%20Room%20and%20Kitchen.+near+36.2283849%2C-115.2236223"
+    },
+    {
+      "name": "Elegant 1 Bedroom Guesthouse w / Living Room and Kitchen.",
+      "distance": "0.3 mi",
+      "url": "https://www.google.com/maps/search/Elegant%201%20Bedroom%20Guesthouse%20w%20%2F%20Living%20Room%20and%20Kitchen.+near+36.2283849%2C-115.2236223"
+    },
+    {
+      "name": "Cozy Vegas Bunkhouse RV",
+      "distance": "0.3 mi",
+      "url": "https://www.google.com/maps/search/Cozy%20Vegas%20Bunkhouse%20RV+near+36.2283849%2C-115.2236223"
+    },
+    {
+      "name": "Cozy Guest House in amazing Las Vegas",
+      "distance": "0.3 mi",
+      "url": "https://www.google.com/maps/search/Cozy%20Guest%20House%20in%20amazing%20Las%20Vegas+near+36.2283849%2C-115.2236223"
+    },
+    {
+      "name": "Cozy Guest House in amazing Las Vegas - One-Bedroom Apartment",
+      "distance": "0.3 mi",
+      "url": "https://www.google.com/maps/search/Cozy%20Guest%20House%20in%20amazing%20Las%20Vegas%20-%20One-Bedroom%20Apartment+near+36.2283849%2C-115.2236223"
+    },
+    {
+      "name": "Pet Friendly 3BR/3BA Home with Parking & Washer",
+      "distance": "0.3 mi",
+      "url": "https://www.google.com/maps/search/Pet%20Friendly%203BR%2F3BA%20Home%20with%20Parking%20%26%20Washer+near+36.2283849%2C-115.2236223"
+    }
+  ],
+  "gas": [
+    {
+      "name": "Sinclair Gas Station",
+      "distance": "0.4 mi",
+      "url": "https://www.google.com/maps/search/Sinclair%20Gas%20Station+near+36.2283849%2C-115.2236223"
+    },
+    {
+      "name": "Funny's II",
+      "distance": "0.4 mi",
+      "url": "https://www.google.com/maps/search/Funny's%20II+near+36.2283849%2C-115.2236223"
+    },
+    {
+      "name": "Circle K | Gas Station",
+      "distance": "0.7 mi",
+      "url": "https://www.google.com/maps/search/Circle%20K%20%7C%20Gas%20Station+near+36.2283849%2C-115.2236223"
+    },
+    {
+      "name": "Murphy USA",
+      "distance": "0.7 mi",
+      "url": "https://www.google.com/maps/search/Murphy%20USA+near+36.2283849%2C-115.2236223"
+    },
+    {
+      "name": "Shell",
+      "distance": "0.8 mi",
+      "url": "https://www.google.com/maps/search/Shell+near+36.2283849%2C-115.2236223"
+    }
+  ]
+}

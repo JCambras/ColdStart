@@ -1,0 +1,183 @@
+{
+  "quick_bite": [
+    {
+      "name": "Wing Boss",
+      "distance": "0.6 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Wing%20Boss&query_place_id=ChIJM_HNJN43dYgRdSX93xC8DoM&center=39.8307977,-89.6401332"
+    },
+    {
+      "name": "Trailer Birds",
+      "distance": "0.6 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Trailer%20Birds&query_place_id=ChIJtSnCABM3dYgRRUD3ZC2_XJM&center=39.8307977,-89.6401332"
+    },
+    {
+      "name": "Dolphin Chicken, Fish and Grill",
+      "distance": "0.8 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Dolphin%20Chicken%2C%20Fish%20and%20Grill&query_place_id=ChIJI8qoowQ3dYgRsY6ICCZiwfU&center=39.816537499999995,-89.65004230000001"
+    },
+    {
+      "name": "Subway",
+      "distance": "0.8 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Subway&query_place_id=ChIJqZMlft85dYgRACrOjg3HBsU&center=39.8160878,-89.6464531"
+    },
+    {
+      "name": "Hardee's",
+      "distance": "1.1 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Hardee's&query_place_id=ChIJj11OcZYwdYgR6Zr5EMvFCVg&center=39.8314266,-89.6311154"
+    }
+  ],
+  "coffee": [
+    {
+      "name": "Hae's Bakery & Coffee Shoppe",
+      "distance": "1.8 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Hae's%20Bakery%20%26%20Coffee%20Shoppe&query_place_id=ChIJLZKUMRA5dYgRG3l93R48Ees&center=39.8047349,-89.6674322"
+    },
+    {
+      "name": "Golden Hour Bake House",
+      "distance": "1.8 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Golden%20Hour%20Bake%20House&query_place_id=ChIJO-OvLPI5dYgRhc2AmnpWJQw&center=39.8008734,-89.64965769999999"
+    }
+  ],
+  "team_lunch": [
+    {
+      "name": "Pardon My Cheesesteak",
+      "distance": "0.6 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Pardon%20My%20Cheesesteak&query_place_id=ChIJV4WZTL83dYgRLdcRLS2nb2c&center=39.830768,-89.64022380000002"
+    },
+    {
+      "name": "Main Gate Bar & Grill",
+      "distance": "0.6 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Main%20Gate%20Bar%20%26%20Grill&query_place_id=ChIJm6ny5lA3dYgRwkH0u4zgXgw&center=39.8307779,-89.64022519999999"
+    },
+    {
+      "name": "Pat and Mike's Corner",
+      "distance": "0.7 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Pat%20and%20Mike's%20Corner&query_place_id=ChIJM7JHcgA3dYgRlrB-bNlBavs&center=39.8344117,-89.6411334"
+    },
+    {
+      "name": "Papa Johns Pizza",
+      "distance": "0.8 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Papa%20Johns%20Pizza&query_place_id=ChIJ8wZU_dc5dYgR7NwGfapPxa4&center=39.8165723,-89.6538494"
+    },
+    {
+      "name": "Fulgenzi's Pizza & Pasta",
+      "distance": "0.8 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Fulgenzi's%20Pizza%20%26%20Pasta&query_place_id=ChIJ5zlzEEQ3dYgRgB-nF0NsMdk&center=39.83072370000001,-89.6372851"
+    },
+    {
+      "name": "China King",
+      "distance": "0.8 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=China%20King&query_place_id=ChIJN5xI39c5dYgRmXzC37YzVHg&center=39.815833,-89.6551418"
+    }
+  ],
+  "dinner": [
+    {
+      "name": "The Winner's Circle",
+      "distance": "0.4 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=The%20Winner's%20Circle&query_place_id=ChIJRTdTQrE3dYgRWxMSy7DLApo&center=39.8333176,-89.64988149999999"
+    },
+    {
+      "name": "Franny's",
+      "distance": "0.4 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Franny's&query_place_id=ChIJgwqWwmk3dYgR_4NGjGjQYe4&center=39.8306909,-89.6444384"
+    },
+    {
+      "name": "Palermo Pizza & Subs",
+      "distance": "0.5 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Palermo%20Pizza%20%26%20Subs&query_place_id=ChIJAYyLmQ83dYgRa-JjP_b5kqU&center=39.8254654,-89.64165779999999"
+    },
+    {
+      "name": "Fairgrounds Cafe",
+      "distance": "0.6 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Fairgrounds%20Cafe&query_place_id=ChIJpVUtYAA3dYgRJSdwp7XByBw&center=39.826849,-89.6404996"
+    },
+    {
+      "name": "American Legion post 32",
+      "distance": "0.7 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=American%20Legion%20post%2032&query_place_id=ChIJucVu90M3dYgRKcNLnRfpwjA&center=39.8307453,-89.63901919999999"
+    },
+    {
+      "name": "Coliseum Corner",
+      "distance": "0.7 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Coliseum%20Corner&query_place_id=ChIJfaDg72k3dYgRrH5xp9bFo4g&center=39.8341772,-89.6413479"
+    }
+  ],
+  "bowling": [
+    {
+      "name": "King Pin Lanes",
+      "distance": "2.6 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=King%20Pin%20Lanes&query_place_id=ChIJZQItgZYwdYgR-ysdwGCR2js&center=39.8321647,-89.6035156"
+    },
+    {
+      "name": "AMF Springfield Lanes",
+      "distance": "3.6 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=AMF%20Springfield%20Lanes&query_place_id=ChIJb9WvWotHdYgR0ix0ytUw9w4&center=39.7944479,-89.70342869999999",
+      "isFar": true
+    }
+  ],
+  "arcade": [],
+  "movies": [
+    {
+      "name": "AMC Springfield 8",
+      "distance": "5.0 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=AMC%20Springfield%208&query_place_id=ChIJtySJ6Mc7dYgRhjSzyADbgjQ&center=39.7638511,-89.6082721",
+      "isFar": true
+    }
+  ],
+  "fun": [
+    {
+      "name": "Coliseum",
+      "distance": "0.7 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Coliseum&query_place_id=ChIJGRp3G0E3dYgRPomvIJk7mwY&center=39.8338805,-89.64090279999999"
+    },
+    {
+      "name": "Village of Cultures",
+      "distance": "0.8 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Village%20of%20Cultures&query_place_id=ChIJxQ79jRE3dYgRElET0J-Fn8s&center=39.8324436,-89.638162"
+    },
+    {
+      "name": "Illinois Route 66 Experience at Illinois State Fairground",
+      "distance": "0.8 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Illinois%20Route%2066%20Experience%20at%20Illinois%20State%20Fairground&query_place_id=ChIJ_y1azrU3dYgRkIBl3Fma8dQ&center=39.832453199999996,-89.6373246"
+    },
+    {
+      "name": "Butter Cow",
+      "distance": "0.8 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Butter%20Cow&query_place_id=ChIJjxJ8Dec3dYgRsYKrUga9A1I&center=39.8341585,-89.6378582"
+    }
+  ],
+  "hotels": [
+    {
+      "name": "Illinois State Fair Campground",
+      "distance": "0.4 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Illinois%20State%20Fair%20Campground&query_place_id=ChIJxwG094I3dYgRc0zo1nWUZ0o&center=39.8327259,-89.64717139999999"
+    },
+    {
+      "name": "Adorable house",
+      "distance": "0.7 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Adorable%20house&query_place_id=ChIJLbHjkWI3dYgRXfuO9kWmb6g&center=39.8171386,-89.6516494"
+    }
+  ],
+  "gas": [
+    {
+      "name": "VP FUEL Springfield",
+      "distance": "0.6 mi",
+      "url": "https://www.google.com/maps/search/VP%20FUEL%20Springfield+near+39.827543%2C-89.6513397"
+    },
+    {
+      "name": "Qik-N-EZ",
+      "distance": "0.8 mi",
+      "url": "https://www.google.com/maps/search/Qik-N-EZ+near+39.827543%2C-89.6513397"
+    },
+    {
+      "name": "Thorntons",
+      "distance": "0.9 mi",
+      "url": "https://www.google.com/maps/search/Thorntons+near+39.827543%2C-89.6513397"
+    },
+    {
+      "name": "bp",
+      "distance": "0.9 mi",
+      "url": "https://www.google.com/maps/search/bp+near+39.827543%2C-89.6513397"
+    }
+  ]
+}

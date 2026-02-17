@@ -1,0 +1,233 @@
+{
+  "quick_bite": [
+    {
+      "name": "Cinemark Sugarhouse",
+      "distance": "2.4 mi",
+      "url": "https://www.google.com/maps/search/Cinemark%20Sugarhouse+near+40.7552212%2C-111.8443382"
+    },
+    {
+      "name": "Chuck E. Cheese",
+      "distance": "3.6 mi",
+      "url": "https://www.google.com/maps/search/Chuck%20E.%20Cheese+near+40.7552212%2C-111.8443382",
+      "isFar": true
+    },
+    {
+      "name": "Cinemark Century Salt Lake 16 and XD",
+      "distance": "4.4 mi",
+      "url": "https://www.google.com/maps/search/Cinemark%20Century%20Salt%20Lake%2016%20and%20XD+near+40.7552212%2C-111.8443382",
+      "isFar": true
+    }
+  ],
+  "coffee": [
+    {
+      "name": "Brio Coffee (Architecture)",
+      "distance": "0.4 mi",
+      "url": "https://www.google.com/maps/search/Brio%20Coffee%20(Architecture)+near+40.7552212%2C-111.8443382"
+    },
+    {
+      "name": "Cafe Madsen",
+      "distance": "0.4 mi",
+      "url": "https://www.google.com/maps/search/Cafe%20Madsen+near+40.7552212%2C-111.8443382"
+    },
+    {
+      "name": "U Hungry Cafe",
+      "distance": "0.5 mi",
+      "url": "https://www.google.com/maps/search/U%20Hungry%20Cafe+near+40.7552212%2C-111.8443382"
+    },
+    {
+      "name": "Starbucks",
+      "distance": "0.5 mi",
+      "url": "https://www.google.com/maps/search/Starbucks+near+40.7552212%2C-111.8443382"
+    },
+    {
+      "name": "Counsel Cafe",
+      "distance": "0.5 mi",
+      "url": "https://www.google.com/maps/search/Counsel%20Cafe+near+40.7552212%2C-111.8443382"
+    },
+    {
+      "name": "Corner Bakery Cafe",
+      "distance": "0.5 mi",
+      "url": "https://www.google.com/maps/search/Corner%20Bakery%20Cafe+near+40.7552212%2C-111.8443382"
+    },
+    {
+      "name": "Red Chair Cafe",
+      "distance": "0.5 mi",
+      "url": "https://www.google.com/maps/search/Red%20Chair%20Cafe+near+40.7552212%2C-111.8443382"
+    }
+  ],
+  "team_lunch": [
+    {
+      "name": "Seagull Sunrise",
+      "distance": "0.4 mi",
+      "url": "https://www.google.com/maps/search/Seagull%20Sunrise+near+40.7552212%2C-111.8443382"
+    },
+    {
+      "name": "Carolyn's Kitchen @ Gardener Commons",
+      "distance": "0.6 mi",
+      "url": "https://www.google.com/maps/search/Carolyn's%20Kitchen%20%40%20Gardener%20Commons+near+40.7552212%2C-111.8443382"
+    },
+    {
+      "name": "Tacos Mi Pueblito",
+      "distance": "0.7 mi",
+      "url": "https://www.google.com/maps/search/Tacos%20Mi%20Pueblito+near+40.7552212%2C-111.8443382"
+    }
+  ],
+  "dinner": [
+    {
+      "name": "Jeeva’s Greek Café",
+      "distance": "0.5 mi",
+      "url": "https://www.google.com/maps/search/Jeeva%E2%80%99s%20Greek%20Caf%C3%A9+near+40.7552212%2C-111.8443382"
+    },
+    {
+      "name": "Chimichurri Grill",
+      "distance": "0.5 mi",
+      "url": "https://www.google.com/maps/search/Chimichurri%20Grill+near+40.7552212%2C-111.8443382"
+    }
+  ],
+  "bowling": [
+    {
+      "name": "Union Recreation",
+      "distance": "0.7 mi",
+      "url": "https://www.google.com/maps/search/Union%20Recreation+near+40.7552212%2C-111.8443382"
+    },
+    {
+      "name": "Bonwood Bowl",
+      "distance": "3.7 mi",
+      "url": "https://www.google.com/maps/search/Bonwood%20Bowl+near+40.7552212%2C-111.8443382",
+      "isFar": true
+    }
+  ],
+  "arcade": [],
+  "movies": [
+    {
+      "name": "Broadway Centre Cinemas, operated by Salt Lake Film Society",
+      "distance": "2.3 mi",
+      "url": "https://www.google.com/maps/search/Broadway%20Centre%20Cinemas%2C%20operated%20by%20Salt%20Lake%20Film%20Society+near+40.7552212%2C-111.8443382"
+    },
+    {
+      "name": "Salt Lake Film Society",
+      "distance": "2.3 mi",
+      "url": "https://www.google.com/maps/search/Salt%20Lake%20Film%20Society+near+40.7552212%2C-111.8443382"
+    },
+    {
+      "name": "Brewvies Cinema Pub",
+      "distance": "2.7 mi",
+      "url": "https://www.google.com/maps/search/Brewvies%20Cinema%20Pub+near+40.7552212%2C-111.8443382"
+    },
+    {
+      "name": "Imax Theatre",
+      "distance": "3.2 mi",
+      "url": "https://www.google.com/maps/search/Imax%20Theatre+near+40.7552212%2C-111.8443382",
+      "isFar": true
+    },
+    {
+      "name": "Megaplex Luxury Theatres at The Gateway",
+      "distance": "3.2 mi",
+      "url": "https://www.google.com/maps/search/Megaplex%20Luxury%20Theatres%20at%20The%20Gateway+near+40.7552212%2C-111.8443382",
+      "isFar": true
+    }
+  ],
+  "fun": [
+    {
+      "name": "Lighthouse Point Splash Zone at Hogle Zoo",
+      "distance": "1.4 mi",
+      "url": "https://www.google.com/maps/search/Lighthouse%20Point%20Splash%20Zone%20at%20Hogle%20Zoo+near+40.7552212%2C-111.8443382"
+    },
+    {
+      "name": "Claw Zone",
+      "distance": "2.3 mi",
+      "url": "https://www.google.com/maps/search/Claw%20Zone+near+40.7552212%2C-111.8443382"
+    },
+    {
+      "name": "Himitsu Station",
+      "distance": "2.7 mi",
+      "url": "https://www.google.com/maps/search/Himitsu%20Station+near+40.7552212%2C-111.8443382"
+    },
+    {
+      "name": "Heber Hatchets",
+      "distance": "2.8 mi",
+      "url": "https://www.google.com/maps/search/Heber%20Hatchets+near+40.7552212%2C-111.8443382"
+    },
+    {
+      "name": "Getout Games",
+      "distance": "2.8 mi",
+      "url": "https://www.google.com/maps/search/Getout%20Games+near+40.7552212%2C-111.8443382"
+    },
+    {
+      "name": "Salt Lake Game Show Experience",
+      "distance": "3.0 mi",
+      "url": "https://www.google.com/maps/search/Salt%20Lake%20Game%20Show%20Experience+near+40.7552212%2C-111.8443382",
+      "isFar": true
+    },
+    {
+      "name": "Smash it Rage Rooms",
+      "distance": "3.0 mi",
+      "url": "https://www.google.com/maps/search/Smash%20it%20Rage%20Rooms+near+40.7552212%2C-111.8443382",
+      "isFar": true
+    }
+  ],
+  "hotels": [
+    {
+      "name": "Cozy & Central Downtown SLC 1 Bdrm",
+      "distance": "0.3 mi",
+      "url": "https://www.google.com/maps/search/Cozy%20%26%20Central%20Downtown%20SLC%201%20Bdrm+near+40.7552212%2C-111.8443382"
+    },
+    {
+      "name": "Red Butte River Gem-Close to the U, Downtown & Mtn",
+      "distance": "0.4 mi",
+      "url": "https://www.google.com/maps/search/Red%20Butte%20River%20Gem-Close%20to%20the%20U%2C%20Downtown%20%26%20Mtn+near+40.7552212%2C-111.8443382"
+    },
+    {
+      "name": "Red Butte River Gem Close to the U Downtown - Vacation Home",
+      "distance": "0.4 mi",
+      "url": "https://www.google.com/maps/search/Red%20Butte%20River%20Gem%20Close%20to%20the%20U%20Downtown%20-%20Vacation%20Home+near+40.7552212%2C-111.8443382"
+    },
+    {
+      "name": "Charming home near the U of U",
+      "distance": "0.5 mi",
+      "url": "https://www.google.com/maps/search/Charming%20home%20near%20the%20U%20of%20U+near+40.7552212%2C-111.8443382"
+    },
+    {
+      "name": "Ski trip or U of U 2-bedroom apartment in Salt Lake City with AC, WiFi",
+      "distance": "0.5 mi",
+      "url": "https://www.google.com/maps/search/Ski%20trip%20or%20U%20of%20U%202-bedroom%20apartment%20in%20Salt%20Lake%20City%20with%20AC%2C%20WiFi+near+40.7552212%2C-111.8443382"
+    },
+    {
+      "name": "Highspeed wifi; near University, public transit, genealogy library, ski resorts.",
+      "distance": "0.5 mi",
+      "url": "https://www.google.com/maps/search/Highspeed%20wifi%3B%20near%20University%2C%20public%20transit%2C%20genealogy%20library%2C%20ski%20resorts.+near+40.7552212%2C-111.8443382"
+    },
+    {
+      "name": "The Ivy House -Close to the U of U and Mountains",
+      "distance": "0.6 mi",
+      "url": "https://www.google.com/maps/search/The%20Ivy%20House%20-Close%20to%20the%20U%20of%20U%20and%20Mountains+near+40.7552212%2C-111.8443382"
+    }
+  ],
+  "gas": [
+    {
+      "name": "Smith's Fuel Center",
+      "distance": "1.2 mi",
+      "url": "https://www.google.com/maps/search/Smith's%20Fuel%20Center+near+40.7552212%2C-111.8443382"
+    },
+    {
+      "name": "Top Stop Chevron - Foothill C13",
+      "distance": "1.2 mi",
+      "url": "https://www.google.com/maps/search/Top%20Stop%20Chevron%20-%20Foothill%20C13+near+40.7552212%2C-111.8443382"
+    },
+    {
+      "name": "Maverik",
+      "distance": "1.2 mi",
+      "url": "https://www.google.com/maps/search/Maverik+near+40.7552212%2C-111.8443382"
+    },
+    {
+      "name": "Chevron",
+      "distance": "1.3 mi",
+      "url": "https://www.google.com/maps/search/Chevron+near+40.7552212%2C-111.8443382"
+    },
+    {
+      "name": "Tesoro",
+      "distance": "1.4 mi",
+      "url": "https://www.google.com/maps/search/Tesoro+near+40.7552212%2C-111.8443382"
+    }
+  ]
+}

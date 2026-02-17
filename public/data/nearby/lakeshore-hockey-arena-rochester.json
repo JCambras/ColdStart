@@ -1,0 +1,188 @@
+{
+  "quick_bite": [
+    {
+      "name": "New Chinatown Asian Restaurant",
+      "distance": "1.1 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=New%20Chinatown%20Asian%20Restaurant&query_place_id=ChIJH6X2iTa31okRp1Ebx0dJ1Y0&center=43.2516165,-77.6477757"
+    },
+    {
+      "name": "Burger King",
+      "distance": "1.1 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Burger%20King&query_place_id=ChIJp2krnDa31okRfIyZ42hSlm4&center=43.251224,-77.6473841"
+    },
+    {
+      "name": "Bill Gray's Port of Rochester",
+      "distance": "1.4 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Bill%20Gray's%20Port%20of%20Rochester&query_place_id=ChIJP8VsHpu31okRMqc2P4vaK8w&center=43.256064900000005,-77.60685389999999"
+    },
+    {
+      "name": "Taco Bell",
+      "distance": "1.7 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Taco%20Bell&query_place_id=ChIJXbH9vi631okRC1ZkMVKMO6Y&center=43.2412579,-77.64647219999999"
+    },
+    {
+      "name": "Subway",
+      "distance": "1.7 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Subway&query_place_id=ChIJ254XLy-31okRKVxR1BY5C8I&center=43.2396703,-77.6436082"
+    },
+    {
+      "name": "Wendy's",
+      "distance": "1.8 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Wendy's&query_place_id=ChIJiWG3rS631okRNIWlLe1Q-R8&center=43.240231099999995,-77.6474015"
+    }
+  ],
+  "coffee": [
+    {
+      "name": "Bruegger's Bagels",
+      "distance": "3.5 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Bruegger's%20Bagels&query_place_id=ChIJEX7A_lew1okRm3xPz4xeVIY&center=43.2517341,-77.6989289",
+      "isFar": true
+    }
+  ],
+  "team_lunch": [
+    {
+      "name": "Lake Chinese Food",
+      "distance": "1.3 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Lake%20Chinese%20Food&query_place_id=ChIJMejNmHS31okRZel0MlHi4O0&center=43.2517509,-77.6128768"
+    },
+    {
+      "name": "Pontillo's Pizzerias",
+      "distance": "1.3 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Pontillo's%20Pizzerias&query_place_id=ChIJn4eJZ3S31okR80-qOjU4aHU&center=43.2518968,-77.6125982"
+    },
+    {
+      "name": "Jetty at the Port",
+      "distance": "1.3 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Jetty%20at%20the%20Port&query_place_id=ChIJr-PF85231okRJ2aOi1MZy7s&center=43.2560245,-77.60731439999999"
+    },
+    {
+      "name": "Pelican's Nest Waterfront Restaurant",
+      "distance": "1.3 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Pelican's%20Nest%20Waterfront%20Restaurant&query_place_id=ChIJ9fcwH3W31okR4xUQOfaiIc4&center=43.25340020000001,-77.6089891"
+    },
+    {
+      "name": "California Rollin II Sushi Bar",
+      "distance": "1.4 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=California%20Rollin%20II%20Sushi%20Bar&query_place_id=ChIJM97A9Z231okR3fTkRZanzQ8&center=43.255784000000006,-77.60729599999999"
+    },
+    {
+      "name": "Our Daily Bread Sourdough LLC",
+      "distance": "2.8 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Our%20Daily%20Bread%20Sourdough%20LLC&query_place_id=ChIJoxijpRex1okRfm2Z_aQbXSM&center=43.2313591,-77.6668779"
+    }
+  ],
+  "dinner": [
+    {
+      "name": "Parkway Family Restaurant",
+      "distance": "0.7 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Parkway%20Family%20Restaurant&query_place_id=ChIJ9XQ4JE631okRA-fox2hXRgA&center=43.263422999999996,-77.645967"
+    },
+    {
+      "name": "Russell Station Bar & Grill",
+      "distance": "0.7 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Russell%20Station%20Bar%20%26%20Grill&query_place_id=ChIJZRKzIVm31okRAi8NGf2-lYI&center=43.263458199999995,-77.6461858"
+    },
+    {
+      "name": "Aunty’s Jamaican kitchen",
+      "distance": "1.0 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Aunty%E2%80%99s%20Jamaican%20kitchen&query_place_id=ChIJt2Q7cAC31okRNzdt_7c8OjQ&center=43.253287799999995,-77.6451895"
+    },
+    {
+      "name": "Roc Nutrition",
+      "distance": "1.0 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Roc%20Nutrition&query_place_id=ChIJcduyRl-31okRQCUB58m8NYc&center=43.2532876,-77.64521909999999"
+    },
+    {
+      "name": "Ezzy's @Latta Restaurant",
+      "distance": "1.0 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Ezzy's%20%40Latta%20Restaurant&query_place_id=ChIJU6N2Sja31okRqblFJGhOelo&center=43.253279899999995,-77.6453878"
+    },
+    {
+      "name": "Alpha Street Pizzeria",
+      "distance": "1.0 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Alpha%20Street%20Pizzeria&query_place_id=ChIJl-hNfau31okRNOqHN-8-C7U&center=43.26034,-77.6123613"
+    }
+  ],
+  "bowling": [
+    {
+      "name": "AMF Dewey Garden Lanes",
+      "distance": "0.9 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=AMF%20Dewey%20Garden%20Lanes&query_place_id=ChIJvxYbJDa31okR80bwqfGT22g&center=43.2539631,-77.6460403"
+    },
+    {
+      "name": "Domm's Bowling Center",
+      "distance": "4.2 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Domm's%20Bowling%20Center&query_place_id=ChIJdxSAR6-21okRWywm8NjJgNs&center=43.2036677,-77.6436421",
+      "isFar": true
+    },
+    {
+      "name": "Sea Breeze Bowl",
+      "distance": "5.0 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Sea%20Breeze%20Bowl&query_place_id=ChIJC3cApTPI1okRvgos-1LcEbA&center=43.22714,-77.546724",
+      "isFar": true
+    }
+  ],
+  "arcade": [],
+  "movies": [
+    {
+      "name": "Apple Cinemas Greece Ridge Mall",
+      "distance": "4.9 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Apple%20Cinemas%20Greece%20Ridge%20Mall&query_place_id=ChIJranicGGx1okRt3o9LvsfUh0&center=43.205372499999996,-77.68873839999999",
+      "isFar": true
+    }
+  ],
+  "fun": [
+    {
+      "name": "Dark Matter Escape Rooms",
+      "distance": "1.0 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Dark%20Matter%20Escape%20Rooms&query_place_id=ChIJ0wkmTFq31okRsafkRC92-qQ&center=43.25222,-77.645648"
+    },
+    {
+      "name": "Long Pond",
+      "distance": "3.1 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Long%20Pond&query_place_id=ChIJ43vGKQC71okRU7noIQ-LJWk&center=43.2930371,-77.6777772",
+      "isFar": true
+    },
+    {
+      "name": "Town Of Greece Spray Park (Wild Over Water Zone)",
+      "distance": "3.4 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Town%20Of%20Greece%20Spray%20Park%20(Wild%20Over%20Water%20Zone)&query_place_id=ChIJLaXdll-w1okRbDJCm-1t7qw&center=43.2594999,-77.7000044",
+      "isFar": true
+    },
+    {
+      "name": "George Eastman Memorial",
+      "distance": "4.5 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=George%20Eastman%20Memorial&query_place_id=ChIJIZ9mBGC31okR2XDXd-pWlwY&center=43.1977894,-77.62858419999999",
+      "isFar": true
+    }
+  ],
+  "hotels": [
+    {
+      "name": "Seahorse, Charlotte Beach, Rochester, NY",
+      "distance": "0.5 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Seahorse%2C%20Charlotte%20Beach%2C%20Rochester%2C%20NY&query_place_id=ChIJkQLNDGW31okRaNRknAGE-ck&center=43.262329099999995,-77.6216278"
+    }
+  ],
+  "gas": [
+    {
+      "name": "A Plus",
+      "distance": "1.0 mi",
+      "url": "https://www.google.com/maps/search/A%20Plus+near+43.263242999999996%2C-77.632127"
+    },
+    {
+      "name": "Sunoco",
+      "distance": "1.0 mi",
+      "url": "https://www.google.com/maps/search/Sunoco+near+43.263242999999996%2C-77.632127"
+    },
+    {
+      "name": "Exxon",
+      "distance": "1.1 mi",
+      "url": "https://www.google.com/maps/search/Exxon+near+43.263242999999996%2C-77.632127"
+    },
+    {
+      "name": "Fuel dock - Shumway Marine",
+      "distance": "1.4 mi",
+      "url": "https://www.google.com/maps/search/Fuel%20dock%20-%20Shumway%20Marine+near+43.263242999999996%2C-77.632127"
+    }
+  ]
+}

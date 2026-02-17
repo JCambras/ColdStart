@@ -1,0 +1,179 @@
+{
+  "quick_bite": [
+    {
+      "name": "Dairy Queen Grill & Chill",
+      "distance": "0.4 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Dairy%20Queen%20Grill%20%26%20Chill&query_place_id=ChIJTVXG_NbO1okRBiPWmnTQd1A&center=43.2127738,-77.46211319999999"
+    },
+    {
+      "name": "Taco Bell",
+      "distance": "0.5 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Taco%20Bell&query_place_id=ChIJJ3dl_NbO1okR3V3QonUWDqQ&center=43.2121202,-77.46199709999999"
+    },
+    {
+      "name": "Popeyes Louisiana Kitchen",
+      "distance": "0.5 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Popeyes%20Louisiana%20Kitchen&query_place_id=ChIJ1d3M26PP1okRcEXxz9KzNaM&center=43.211799899999995,-77.46216799999999"
+    },
+    {
+      "name": "Burger King",
+      "distance": "0.6 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Burger%20King&query_place_id=ChIJjY83JNfO1okRtFm1zspda7o&center=43.2104092,-77.46035800000001"
+    }
+  ],
+  "coffee": [
+    {
+      "name": "Starbucks",
+      "distance": "0.6 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Starbucks&query_place_id=ChIJs57XSNfO1okR9Xj13qDXD04&center=43.2098,-77.46034"
+    }
+  ],
+  "team_lunch": [
+    {
+      "name": "China Chef",
+      "distance": "0.7 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=China%20Chef&query_place_id=ChIJJ3kPSdfO1okR6WDftTpqtCk&center=43.210094,-77.45921059999999"
+    },
+    {
+      "name": "Atlantic Family Restaurant",
+      "distance": "0.7 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Atlantic%20Family%20Restaurant&query_place_id=ChIJK2XLvdLO1okRHh613Jt30IU&center=43.2070602,-77.46900649999999"
+    },
+    {
+      "name": "Black Duck Bakery",
+      "distance": "1.0 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Black%20Duck%20Bakery&query_place_id=ChIJkyWKbwDJ1okRLVlUoKAF8C4&center=43.2174988,-77.4889508"
+    },
+    {
+      "name": "Vals Cookies and Treats",
+      "distance": "1.2 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Vals%20Cookies%20and%20Treats&query_place_id=ChIJW0euNSDQ1okRZ0jlvXfQAtc&center=43.2042353,-77.4862175"
+    },
+    {
+      "name": "Fleur Sourdough Bakery",
+      "distance": "1.4 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Fleur%20Sourdough%20Bakery&query_place_id=ChIJC6IL73nP1okRtbNiTcYPHFM&center=43.196282599999996,-77.46527619999999"
+    }
+  ],
+  "dinner": [
+    {
+      "name": "BJ's Bakery",
+      "distance": "0.4 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=BJ's%20Bakery&query_place_id=ChIJC40DBtTO1okR0_WlXBFHUV0&center=43.210837,-77.4661043"
+    },
+    {
+      "name": "Moon’s Thai & Myanmar Cuisine",
+      "distance": "0.4 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Moon%E2%80%99s%20Thai%20%26%20Myanmar%20Cuisine&query_place_id=ChIJq84mpuXP1okRywB3q0GVeT8&center=43.210687899999996,-77.4653464"
+    },
+    {
+      "name": "T's Family Restaurant",
+      "distance": "0.5 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=T's%20Family%20Restaurant&query_place_id=ChIJWy2SUdHO1okRthGonBcl9vM&center=43.2100296,-77.4648727"
+    },
+    {
+      "name": "Sogo Japanese Steakhouse",
+      "distance": "0.7 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Sogo%20Japanese%20Steakhouse&query_place_id=ChIJJ3kPSdfO1okRIYptc41naDU&center=43.210308,-77.459053"
+    },
+    {
+      "name": "Proietti's Italian Restaurant & Catering",
+      "distance": "0.7 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Proietti's%20Italian%20Restaurant%20%26%20Catering&query_place_id=ChIJJ3kPSdfO1okRcPvDxECk4iU&center=43.209976999999995,-77.459047"
+    },
+    {
+      "name": "Scottish Shortbread Company",
+      "distance": "1.2 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Scottish%20Shortbread%20Company&query_place_id=ChIJvQud5ebJ1okRDkQZ9lUq-2w&center=43.2042353,-77.4862175"
+    }
+  ],
+  "bowling": [
+    {
+      "name": "Bowlero Rochester",
+      "distance": "1.5 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Bowlero%20Rochester&query_place_id=ChIJFfCnOD7J1okRfqixaprigVI&center=43.203331399999996,-77.492454"
+    },
+    {
+      "name": "Sea Breeze Bowl",
+      "distance": "4.0 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Sea%20Breeze%20Bowl&query_place_id=ChIJC3cApTPI1okRvgos-1LcEbA&center=43.22714,-77.546724",
+      "isFar": true
+    }
+  ],
+  "arcade": [],
+  "movies": [
+    {
+      "name": "AMC Webster 12",
+      "distance": "1.6 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=AMC%20Webster%2012&query_place_id=ChIJc3okoBXJ1okRsNhPDzGoK68&center=43.201953499999995,-77.4940364"
+    },
+    {
+      "name": "Three Season Theater",
+      "distance": "1.8 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Three%20Season%20Theater&query_place_id=ChIJ8-6Qd_fP1okRXxiHqPJUEBQ&center=43.227312,-77.43511579999999"
+    }
+  ],
+  "fun": [
+    {
+      "name": "Baytowne. Thursday Night Cruise Night",
+      "distance": "2.3 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Baytowne.%20Thursday%20Night%20Cruise%20Night&query_place_id=ChIJO9z4VgDJ1okR4Le4jQHiUrQ&center=43.1922851,-77.5005697"
+    },
+    {
+      "name": "Webster Pier",
+      "distance": "3.2 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Webster%20Pier&query_place_id=ChIJ1Ts93ijF1okRNotVWZh34Jk&center=43.2613758,-77.4496513",
+      "isFar": true
+    },
+    {
+      "name": "Seabreeze Amusement Park",
+      "distance": "3.9 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Seabreeze%20Amusement%20Park&query_place_id=ChIJLboTEDfI1okR4KUv0b0xdAM&center=43.232215200000006,-77.5423136",
+      "isFar": true
+    }
+  ],
+  "hotels": [
+    {
+      "name": "Fairfield Inn and Suites Rochester East",
+      "distance": "0.4 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Fairfield%20Inn%20and%20Suites%20Rochester%20East&query_place_id=ChIJh7ApRdbO1okRrRYhlv1YvBU&center=43.2131501,-77.46233579999999"
+    },
+    {
+      "name": "Hampton Inn Rochester-Webster",
+      "distance": "0.4 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Hampton%20Inn%20Rochester-Webster&query_place_id=ChIJpbCsQCjP1okRPdTaLl4OWS0&center=43.2161042,-77.46045289999999"
+    },
+    {
+      "name": "Sunset Valley In Webster",
+      "distance": "0.5 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Sunset%20Valley%20In%20Webster&query_place_id=ChIJ7STTEtPO1okRqryEHAR3Hh0&center=43.209637099999995,-77.4681763"
+    },
+    {
+      "name": "Holiday Inn Express & Suites Rochester Webster by IHG",
+      "distance": "1.2 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Holiday%20Inn%20Express%20%26%20Suites%20Rochester%20Webster%20by%20IHG&query_place_id=ChIJA3LIrxjP1okRBnzGzX4ird8&center=43.2169536,-77.4452379"
+    }
+  ],
+  "gas": [
+    {
+      "name": "BJ's Gas Station",
+      "distance": "0.4 mi",
+      "url": "https://www.google.com/maps/search/BJ's%20Gas%20Station+near+43.2167167%2C-77.4686353"
+    },
+    {
+      "name": "Sunoco",
+      "distance": "0.8 mi",
+      "url": "https://www.google.com/maps/search/Sunoco+near+43.2167167%2C-77.4686353"
+    },
+    {
+      "name": "Mobil",
+      "distance": "0.9 mi",
+      "url": "https://www.google.com/maps/search/Mobil+near+43.2167167%2C-77.4686353"
+    },
+    {
+      "name": "Speedy’s Convenience Store",
+      "distance": "1.9 mi",
+      "url": "https://www.google.com/maps/search/Speedy%E2%80%99s%20Convenience%20Store+near+43.2167167%2C-77.4686353"
+    }
+  ]
+}

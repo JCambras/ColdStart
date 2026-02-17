@@ -1,0 +1,251 @@
+{
+  "quick_bite": [
+    {
+      "name": "Burger King",
+      "distance": "0.2 mi",
+      "url": "https://www.google.com/maps/search/Burger%20King+near+43.683972399999995%2C-70.3323622"
+    },
+    {
+      "name": "McDonald's",
+      "distance": "0.4 mi",
+      "url": "https://www.google.com/maps/search/McDonald's+near+43.683972399999995%2C-70.3323622"
+    },
+    {
+      "name": "Wendy's",
+      "distance": "0.4 mi",
+      "url": "https://www.google.com/maps/search/Wendy's+near+43.683972399999995%2C-70.3323622"
+    },
+    {
+      "name": "Chick-fil-A",
+      "distance": "0.5 mi",
+      "url": "https://www.google.com/maps/search/Chick-fil-A+near+43.683972399999995%2C-70.3323622"
+    },
+    {
+      "name": "Chipotle Mexican Grill",
+      "distance": "0.5 mi",
+      "url": "https://www.google.com/maps/search/Chipotle%20Mexican%20Grill+near+43.683972399999995%2C-70.3323622"
+    },
+    {
+      "name": "KFC",
+      "distance": "0.5 mi",
+      "url": "https://www.google.com/maps/search/KFC+near+43.683972399999995%2C-70.3323622"
+    },
+    {
+      "name": "Taco Bell / KFC",
+      "distance": "0.5 mi",
+      "url": "https://www.google.com/maps/search/Taco%20Bell%20%2F%20KFC+near+43.683972399999995%2C-70.3323622"
+    }
+  ],
+  "coffee": [
+    {
+      "name": "Dunkin'",
+      "distance": "0.4 mi",
+      "url": "https://www.google.com/maps/search/Dunkin'+near+43.683972399999995%2C-70.3323622"
+    },
+    {
+      "name": "Panera Bread",
+      "distance": "0.4 mi",
+      "url": "https://www.google.com/maps/search/Panera%20Bread+near+43.683972399999995%2C-70.3323622"
+    },
+    {
+      "name": "Dunkin'",
+      "distance": "0.5 mi",
+      "url": "https://www.google.com/maps/search/Dunkin'+near+43.683972399999995%2C-70.3323622"
+    },
+    {
+      "name": "Starbucks Coffee Company",
+      "distance": "0.5 mi",
+      "url": "https://www.google.com/maps/search/Starbucks%20Coffee%20Company+near+43.683972399999995%2C-70.3323622"
+    }
+  ],
+  "team_lunch": [
+    {
+      "name": "Stacks Pancake Co.",
+      "distance": "0.3 mi",
+      "url": "https://www.google.com/maps/search/Stacks%20Pancake%20Co.+near+43.683972399999995%2C-70.3323622"
+    },
+    {
+      "name": "Zero Bar & Grille",
+      "distance": "0.3 mi",
+      "url": "https://www.google.com/maps/search/Zero%20Bar%20%26%20Grille+near+43.683972399999995%2C-70.3323622"
+    },
+    {
+      "name": "Oola Bowls Westbrook",
+      "distance": "0.4 mi",
+      "url": "https://www.google.com/maps/search/Oola%20Bowls%20Westbrook+near+43.683972399999995%2C-70.3323622"
+    }
+  ],
+  "dinner": [
+    {
+      "name": "Rio Bravo - Westbrook",
+      "distance": "0.4 mi",
+      "url": "https://www.google.com/maps/search/Rio%20Bravo%20-%20Westbrook+near+43.683972399999995%2C-70.3323622"
+    },
+    {
+      "name": "Ocha Thai",
+      "distance": "0.5 mi",
+      "url": "https://www.google.com/maps/search/Ocha%20Thai+near+43.683972399999995%2C-70.3323622"
+    },
+    {
+      "name": "Playa Bowls",
+      "distance": "0.5 mi",
+      "url": "https://www.google.com/maps/search/Playa%20Bowls+near+43.683972399999995%2C-70.3323622"
+    },
+    {
+      "name": "Crumbl",
+      "distance": "0.5 mi",
+      "url": "https://www.google.com/maps/search/Crumbl+near+43.683972399999995%2C-70.3323622"
+    }
+  ],
+  "bowling": [
+    {
+      "name": "Westport Bowling Lanes",
+      "distance": "0.4 mi",
+      "url": "https://www.google.com/maps/search/Westport%20Bowling%20Lanes+near+43.683972399999995%2C-70.3323622"
+    },
+    {
+      "name": "Spare Time Portland",
+      "distance": "1.6 mi",
+      "url": "https://www.google.com/maps/search/Spare%20Time%20Portland+near+43.683972399999995%2C-70.3323622"
+    },
+    {
+      "name": "Round1 Bowling & Arcade The Maine Mall",
+      "distance": "3.6 mi",
+      "url": "https://www.google.com/maps/search/Round1%20Bowling%20%26%20Arcade%20The%20Maine%20Mall+near+43.683972399999995%2C-70.3323622",
+      "isFar": true
+    },
+    {
+      "name": "Bayside Bowl",
+      "distance": "3.8 mi",
+      "url": "https://www.google.com/maps/search/Bayside%20Bowl+near+43.683972399999995%2C-70.3323622",
+      "isFar": true
+    }
+  ],
+  "arcade": [],
+  "movies": [
+    {
+      "name": "Apple Cinemas Westbrook",
+      "distance": "2.4 mi",
+      "url": "https://www.google.com/maps/search/Apple%20Cinemas%20Westbrook+near+43.683972399999995%2C-70.3323622"
+    },
+    {
+      "name": "Prides Corner Drive-In",
+      "distance": "2.8 mi",
+      "url": "https://www.google.com/maps/search/Prides%20Corner%20Drive-In+near+43.683972399999995%2C-70.3323622"
+    },
+    {
+      "name": "Entertainment Luxury Cinemas South Portland",
+      "distance": "3.6 mi",
+      "url": "https://www.google.com/maps/search/Entertainment%20Luxury%20Cinemas%20South%20Portland+near+43.683972399999995%2C-70.3323622",
+      "isFar": true
+    },
+    {
+      "name": "MHC Premier Clark’s Pond 8",
+      "distance": "3.6 mi",
+      "url": "https://www.google.com/maps/search/MHC%20Premier%20Clark%E2%80%99s%20Pond%208+near+43.683972399999995%2C-70.3323622",
+      "isFar": true
+    },
+    {
+      "name": "SPACE Films",
+      "distance": "4.1 mi",
+      "url": "https://www.google.com/maps/search/SPACE%20Films+near+43.683972399999995%2C-70.3323622",
+      "isFar": true
+    },
+    {
+      "name": "PMA Films",
+      "distance": "4.1 mi",
+      "url": "https://www.google.com/maps/search/PMA%20Films+near+43.683972399999995%2C-70.3323622",
+      "isFar": true
+    },
+    {
+      "name": "Nickelodeon Cinemas (Patriot Cinemas)",
+      "distance": "4.2 mi",
+      "url": "https://www.google.com/maps/search/Nickelodeon%20Cinemas%20(Patriot%20Cinemas)+near+43.683972399999995%2C-70.3323622",
+      "isFar": true
+    }
+  ],
+  "fun": [
+    {
+      "name": "Urban Air Trampoline and Adventure Park",
+      "distance": "3.7 mi",
+      "url": "https://www.google.com/maps/search/Urban%20Air%20Trampoline%20and%20Adventure%20Park+near+43.683972399999995%2C-70.3323622",
+      "isFar": true
+    },
+    {
+      "name": "Maine Escape Games",
+      "distance": "3.8 mi",
+      "url": "https://www.google.com/maps/search/Maine%20Escape%20Games+near+43.683972399999995%2C-70.3323622",
+      "isFar": true
+    },
+    {
+      "name": "The Escape Room",
+      "distance": "4.1 mi",
+      "url": "https://www.google.com/maps/search/The%20Escape%20Room+near+43.683972399999995%2C-70.3323622",
+      "isFar": true
+    }
+  ],
+  "hotels": [
+    {
+      "name": "Super 8 by Wyndham Portland ME",
+      "distance": "0.2 mi",
+      "url": "https://www.google.com/maps/search/Super%208%20by%20Wyndham%20Portland%20ME+near+43.683972399999995%2C-70.3323622"
+    },
+    {
+      "name": "Ramada Plaza by Wyndham Portland",
+      "distance": "0.3 mi",
+      "url": "https://www.google.com/maps/search/Ramada%20Plaza%20by%20Wyndham%20Portland+near+43.683972399999995%2C-70.3323622"
+    },
+    {
+      "name": "Fireside Inn & Suites Portland",
+      "distance": "0.4 mi",
+      "url": "https://www.google.com/maps/search/Fireside%20Inn%20%26%20Suites%20Portland+near+43.683972399999995%2C-70.3323622"
+    },
+    {
+      "name": "Portland Maine",
+      "distance": "0.4 mi",
+      "url": "https://www.google.com/maps/search/Portland%20Maine+near+43.683972399999995%2C-70.3323622"
+    },
+    {
+      "name": "Motel 6 Portland, ME",
+      "distance": "0.5 mi",
+      "url": "https://www.google.com/maps/search/Motel%206%20Portland%2C%20ME+near+43.683972399999995%2C-70.3323622"
+    },
+    {
+      "name": "Hampton Inn & Suites Portland West",
+      "distance": "0.6 mi",
+      "url": "https://www.google.com/maps/search/Hampton%20Inn%20%26%20Suites%20Portland%20West+near+43.683972399999995%2C-70.3323622"
+    },
+    {
+      "name": "Inn at Portland",
+      "distance": "0.7 mi",
+      "url": "https://www.google.com/maps/search/Inn%20at%20Portland+near+43.683972399999995%2C-70.3323622"
+    }
+  ],
+  "gas": [
+    {
+      "name": "Irving Oil",
+      "distance": "0.2 mi",
+      "url": "https://www.google.com/maps/search/Irving%20Oil+near+43.683972399999995%2C-70.3323622"
+    },
+    {
+      "name": "IRVING 24",
+      "distance": "0.2 mi",
+      "url": "https://www.google.com/maps/search/IRVING%2024+near+43.683972399999995%2C-70.3323622"
+    },
+    {
+      "name": "Circle K | Gas Station",
+      "distance": "0.2 mi",
+      "url": "https://www.google.com/maps/search/Circle%20K%20%7C%20Gas%20Station+near+43.683972399999995%2C-70.3323622"
+    },
+    {
+      "name": "Mobil Gas Station and Car Wash",
+      "distance": "0.4 mi",
+      "url": "https://www.google.com/maps/search/Mobil%20Gas%20Station%20and%20Car%20Wash+near+43.683972399999995%2C-70.3323622"
+    },
+    {
+      "name": "Mobil",
+      "distance": "0.4 mi",
+      "url": "https://www.google.com/maps/search/Mobil+near+43.683972399999995%2C-70.3323622"
+    }
+  ]
+}

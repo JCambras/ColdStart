@@ -1,0 +1,237 @@
+{
+  "quick_bite": [
+    {
+      "name": "Charleys Cheesesteaks",
+      "distance": "1.0 mi",
+      "url": "https://www.google.com/maps/search/Charleys%20Cheesesteaks+near+34.6997615%2C-86.64832539999999"
+    },
+    {
+      "name": "Popeyes Louisiana Kitchen",
+      "distance": "1.0 mi",
+      "url": "https://www.google.com/maps/search/Popeyes%20Louisiana%20Kitchen+near+34.6997615%2C-86.64832539999999"
+    },
+    {
+      "name": "Subway",
+      "distance": "1.1 mi",
+      "url": "https://www.google.com/maps/search/Subway+near+34.6997615%2C-86.64832539999999"
+    },
+    {
+      "name": "Fiero Mexican Grill",
+      "distance": "1.4 mi",
+      "url": "https://www.google.com/maps/search/Fiero%20Mexican%20Grill+near+34.6997615%2C-86.64832539999999"
+    },
+    {
+      "name": "Cinemark Bridge Street and XD",
+      "distance": "2.0 mi",
+      "url": "https://www.google.com/maps/search/Cinemark%20Bridge%20Street%20and%20XD+near+34.6997615%2C-86.64832539999999"
+    }
+  ],
+  "coffee": [
+    {
+      "name": "The Heroes Cafe",
+      "distance": "0.7 mi",
+      "url": "https://www.google.com/maps/search/The%20Heroes%20Cafe+near+34.6997615%2C-86.64832539999999"
+    },
+    {
+      "name": "Starbucks Coffee Company",
+      "distance": "0.9 mi",
+      "url": "https://www.google.com/maps/search/Starbucks%20Coffee%20Company+near+34.6997615%2C-86.64832539999999"
+    },
+    {
+      "name": "Crew Dogs",
+      "distance": "1.2 mi",
+      "url": "https://www.google.com/maps/search/Crew%20Dogs+near+34.6997615%2C-86.64832539999999"
+    },
+    {
+      "name": "Beignets & Brew",
+      "distance": "1.4 mi",
+      "url": "https://www.google.com/maps/search/Beignets%20%26%20Brew+near+34.6997615%2C-86.64832539999999"
+    }
+  ],
+  "team_lunch": [
+    {
+      "name": "The Great Room",
+      "distance": "0.8 mi",
+      "url": "https://www.google.com/maps/search/The%20Great%20Room+near+34.6997615%2C-86.64832539999999"
+    },
+    {
+      "name": "Seasons",
+      "distance": "0.8 mi",
+      "url": "https://www.google.com/maps/search/Seasons+near+34.6997615%2C-86.64832539999999"
+    },
+    {
+      "name": "The Southern Chop",
+      "distance": "0.8 mi",
+      "url": "https://www.google.com/maps/search/The%20Southern%20Chop+near+34.6997615%2C-86.64832539999999"
+    }
+  ],
+  "dinner": [
+    {
+      "name": "Greek Gyro Express on Redstone Arsenal",
+      "distance": "0.4 mi",
+      "url": "https://www.google.com/maps/search/Greek%20Gyro%20Express%20on%20Redstone%20Arsenal+near+34.6997615%2C-86.64832539999999"
+    },
+    {
+      "name": "Big John’s BBQ and Company",
+      "distance": "0.9 mi",
+      "url": "https://www.google.com/maps/search/Big%20John%E2%80%99s%20BBQ%20and%20Company+near+34.6997615%2C-86.64832539999999"
+    },
+    {
+      "name": "Weeden Mountain Grill",
+      "distance": "1.0 mi",
+      "url": "https://www.google.com/maps/search/Weeden%20Mountain%20Grill+near+34.6997615%2C-86.64832539999999"
+    },
+    {
+      "name": "Fern & Feast Bistro",
+      "distance": "1.1 mi",
+      "url": "https://www.google.com/maps/search/Fern%20%26%20Feast%20Bistro+near+34.6997615%2C-86.64832539999999"
+    },
+    {
+      "name": "Taqueria las Adelitas",
+      "distance": "1.1 mi",
+      "url": "https://www.google.com/maps/search/Taqueria%20las%20Adelitas+near+34.6997615%2C-86.64832539999999"
+    },
+    {
+      "name": "Rosa Mexican Cocina",
+      "distance": "1.2 mi",
+      "url": "https://www.google.com/maps/search/Rosa%20Mexican%20Cocina+near+34.6997615%2C-86.64832539999999"
+    },
+    {
+      "name": "Rocket City Market. Salads + Sandwiches",
+      "distance": "1.4 mi",
+      "url": "https://www.google.com/maps/search/Rocket%20City%20Market.%20Salads%20%2B%20Sandwiches+near+34.6997615%2C-86.64832539999999"
+    }
+  ],
+  "bowling": [
+    {
+      "name": "Redstone Lanes Bowling Center(Army Base)",
+      "distance": "1.7 mi",
+      "url": "https://www.google.com/maps/search/Redstone%20Lanes%20Bowling%20Center(Army%20Base)+near+34.6997615%2C-86.64832539999999"
+    },
+    {
+      "name": "AMF Pin Palace Lanes",
+      "distance": "4.0 mi",
+      "url": "https://www.google.com/maps/search/AMF%20Pin%20Palace%20Lanes+near+34.6997615%2C-86.64832539999999",
+      "isFar": true
+    }
+  ],
+  "arcade": [],
+  "movies": [
+    {
+      "name": "Charger Union Theater",
+      "distance": "2.0 mi",
+      "url": "https://www.google.com/maps/search/Charger%20Union%20Theater+near+34.6997615%2C-86.64832539999999"
+    },
+    {
+      "name": "Huntsville Independent Cinema",
+      "distance": "3.1 mi",
+      "url": "https://www.google.com/maps/search/Huntsville%20Independent%20Cinema+near+34.6997615%2C-86.64832539999999",
+      "isFar": true
+    }
+  ],
+  "fun": [
+    {
+      "name": "Childwise, Children's Play Morning",
+      "distance": "1.4 mi",
+      "url": "https://www.google.com/maps/search/Childwise%2C%20Children's%20Play%20Morning+near+34.6997615%2C-86.64832539999999"
+    },
+    {
+      "name": "Splash Pad",
+      "distance": "1.8 mi",
+      "url": "https://www.google.com/maps/search/Splash%20Pad+near+34.6997615%2C-86.64832539999999"
+    },
+    {
+      "name": "Escape Alley Huntsville Escape Rooms",
+      "distance": "2.7 mi",
+      "url": "https://www.google.com/maps/search/Escape%20Alley%20Huntsville%20Escape%20Rooms+near+34.6997615%2C-86.64832539999999"
+    },
+    {
+      "name": "Urban Air Trampoline and Adventure Park",
+      "distance": "3.1 mi",
+      "url": "https://www.google.com/maps/search/Urban%20Air%20Trampoline%20and%20Adventure%20Park+near+34.6997615%2C-86.64832539999999",
+      "isFar": true
+    },
+    {
+      "name": "Flow Huntsville Trampoline Park",
+      "distance": "3.3 mi",
+      "url": "https://www.google.com/maps/search/Flow%20Huntsville%20Trampoline%20Park+near+34.6997615%2C-86.64832539999999",
+      "isFar": true
+    },
+    {
+      "name": "Altitude Trampoline Park Huntsville",
+      "distance": "3.5 mi",
+      "url": "https://www.google.com/maps/search/Altitude%20Trampoline%20Park%20Huntsville+near+34.6997615%2C-86.64832539999999",
+      "isFar": true
+    },
+    {
+      "name": "Mall Jump",
+      "distance": "3.5 mi",
+      "url": "https://www.google.com/maps/search/Mall%20Jump+near+34.6997615%2C-86.64832539999999",
+      "isFar": true
+    }
+  ],
+  "hotels": [
+    {
+      "name": "US Army MWR Redstone Arsenal RV Park",
+      "distance": "0.7 mi",
+      "url": "https://www.google.com/maps/search/US%20Army%20MWR%20Redstone%20Arsenal%20RV%20Park+near+34.6997615%2C-86.64832539999999"
+    },
+    {
+      "name": "Redstone MWR Campground",
+      "distance": "0.8 mi",
+      "url": "https://www.google.com/maps/search/Redstone%20MWR%20Campground+near+34.6997615%2C-86.64832539999999"
+    },
+    {
+      "name": "Huntsville Marriott at the Space & Rocket Center",
+      "distance": "0.8 mi",
+      "url": "https://www.google.com/maps/search/Huntsville%20Marriott%20at%20the%20Space%20%26%20Rocket%20Center+near+34.6997615%2C-86.64832539999999"
+    },
+    {
+      "name": "RV Park",
+      "distance": "0.8 mi",
+      "url": "https://www.google.com/maps/search/RV%20Park+near+34.6997615%2C-86.64832539999999"
+    },
+    {
+      "name": "Drury Inn & Suites Huntsville at the Space & Rocket Center",
+      "distance": "1.1 mi",
+      "url": "https://www.google.com/maps/search/Drury%20Inn%20%26%20Suites%20Huntsville%20at%20the%20Space%20%26%20Rocket%20Center+near+34.6997615%2C-86.64832539999999"
+    },
+    {
+      "name": "Holiday Inn Express & Suites Huntsville - Space Center, an IHG Hotel",
+      "distance": "1.1 mi",
+      "url": "https://www.google.com/maps/search/Holiday%20Inn%20Express%20%26%20Suites%20Huntsville%20-%20Space%20Center%2C%20an%20IHG%20Hotel+near+34.6997615%2C-86.64832539999999"
+    },
+    {
+      "name": "Cozy 1 bedroom gated community!",
+      "distance": "1.1 mi",
+      "url": "https://www.google.com/maps/search/Cozy%201%20bedroom%20gated%20community!+near+34.6997615%2C-86.64832539999999"
+    }
+  ],
+  "gas": [
+    {
+      "name": "Redstone Express",
+      "distance": "0.7 mi",
+      "url": "https://www.google.com/maps/search/Redstone%20Express+near+34.6997615%2C-86.64832539999999"
+    },
+    {
+      "name": "Papa Jack's (Exxon)",
+      "distance": "1.1 mi",
+      "url": "https://www.google.com/maps/search/Papa%20Jack's%20(Exxon)+near+34.6997615%2C-86.64832539999999"
+    },
+    {
+      "name": "Citgo",
+      "distance": "1.1 mi",
+      "url": "https://www.google.com/maps/search/Citgo+near+34.6997615%2C-86.64832539999999"
+    },
+    {
+      "name": "C & S Fuels",
+      "distance": "1.2 mi",
+      "url": "https://www.google.com/maps/search/C%20%26%20S%20Fuels+near+34.6997615%2C-86.64832539999999"
+    },
+    {
+      "name": "Sunoco",
+      "distance": "1.2 mi",
+      "url": "https://www.google.com/maps/search/Sunoco+near+34.6997615%2C-86.64832539999999"
+    }
+  ]
+}

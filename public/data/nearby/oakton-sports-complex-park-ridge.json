@@ -1,0 +1,141 @@
+{
+  "quick_bite": [
+    {
+      "name": "Paradise Pup",
+      "distance": "0.8 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Paradise%20Pup&query_place_id=ChIJheSXu7W3D4gRIks7pa7NdjM&center=42.0221587,-87.8760793"
+    },
+    {
+      "name": "SUSHI UA",
+      "distance": "0.9 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=SUSHI%20UA&query_place_id=ChIJw606Df63D4gR7CULUaiPSmY&center=42.0177978,-87.87491179999999"
+    },
+    {
+      "name": "Wendy's",
+      "distance": "1.0 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Wendy's&query_place_id=ChIJNzodQaC3D4gRjcXf5s8OzkY&center=42.0397471,-87.8604101"
+    },
+    {
+      "name": "Subway",
+      "distance": "1.0 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Subway&query_place_id=ChIJCbY8bxbID4gRkw3hBEfaqek&center=42.0400664,-87.8590275"
+    },
+    {
+      "name": "Subway",
+      "distance": "1.0 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Subway&query_place_id=ChIJkY0JJDPID4gR4NI1M5lfPaY&center=42.0189947,-87.84321279999999"
+    },
+    {
+      "name": "Lou Malnati's Pizzeria",
+      "distance": "1.1 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Lou%20Malnati's%20Pizzeria&query_place_id=ChIJkY0JJDPID4gRBmcycwpiJQM&center=42.018949899999996,-87.843055"
+    }
+  ],
+  "coffee": [
+    {
+      "name": "Amazing Breads and Cakes LLC",
+      "distance": "1.7 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Amazing%20Breads%20and%20Cakes%20LLC&query_place_id=ChIJ5Y-jG5m3D4gRN6Dd5nLaxXM&center=42.04181570000001,-87.8876626"
+    }
+  ],
+  "team_lunch": [
+    {
+      "name": "LifeInTheMiddle",
+      "distance": "1.6 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=LifeInTheMiddle&query_place_id=ChIJO72yCxe3D4gRa0ew9hS1v1M&center=42.0375266,-87.8887428"
+    }
+  ],
+  "dinner": [
+    {
+      "name": "Lemon Tiramisu Bakery",
+      "distance": "0.5 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Lemon%20Tiramisu%20Bakery&query_place_id=ChIJr1FPmFHJD4gR-eKF3OmxIAE&center=42.025903,-87.85218429999999"
+    },
+    {
+      "name": "Mi Tierrita Colombia",
+      "distance": "1.3 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Mi%20Tierrita%20Colombia&query_place_id=ChIJ22rpfJW3D4gRbpZuHVeVhkQ&center=42.0102608,-87.8761066"
+    },
+    {
+      "name": "Greenwood Deli - New York Bagels & Bialy",
+      "distance": "1.3 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Greenwood%20Deli%20-%20New%20York%20Bagels%20%26%20Bialy&query_place_id=ChIJJRxKiBfID4gRMH7xXya8NOE&center=42.0409566,-87.8451719"
+    }
+  ],
+  "bowling": [
+    {
+      "name": "River Rand Bowl",
+      "distance": "2.1 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=River%20Rand%20Bowl&query_place_id=ChIJAy-JI4W3D4gRiRvO0xZwZjU&center=42.0499763,-87.885437"
+    },
+    {
+      "name": "Edison Park Bowl",
+      "distance": "2.8 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Edison%20Park%20Bowl&query_place_id=ChIJrQSSxaDJD4gRjK0JUN5QNtQ&center=42.0025195,-87.8171423"
+    },
+    {
+      "name": "Bowlero Niles",
+      "distance": "3.1 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Bowlero%20Niles&query_place_id=ChIJg5u29xzJD4gRFSb970QvqbU&center=42.01478290000001,-87.8031786",
+      "isFar": true
+    }
+  ],
+  "arcade": [],
+  "movies": [
+    {
+      "name": "Pickwick Theatre",
+      "distance": "2.0 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Pickwick%20Theatre&query_place_id=ChIJq8ukILHJD4gROnlJarpE8Jw&center=42.010633899999995,-87.82923240000001"
+    },
+    {
+      "name": "AMC Niles 12",
+      "distance": "2.0 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=AMC%20Niles%2012&query_place_id=ChIJ310ITnS-D4gRc2Ju9VzsyFE&center=42.049814,-87.838629"
+    },
+    {
+      "name": "Ciné LOUNGE at Niles [MovieTheater & Restaurant]",
+      "distance": "2.1 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Cin%C3%A9%20LOUNGE%20at%20Niles%20%5BMovieTheater%20%26%20Restaurant%5D&query_place_id=ChIJ-eK68JrJD4gRkM7FhQAFRRo&center=42.055219799999996,-87.8545125"
+    }
+  ],
+  "fun": [
+    {
+      "name": "Mystic Waters Family Aquatic Center",
+      "distance": "1.1 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Mystic%20Waters%20Family%20Aquatic%20Center&query_place_id=ChIJh3huVJW3D4gR65YTxbKaLcY&center=42.0378798,-87.8742757"
+    },
+    {
+      "name": "Sledding Hill",
+      "distance": "1.5 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Sledding%20Hill&query_place_id=ChIJO7qQUvLJD4gRiLhAEtAvr6U&center=42.0074476,-87.84756929999999"
+    },
+    {
+      "name": "Metropolitan Square",
+      "distance": "1.7 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Metropolitan%20Square&query_place_id=ChIJG38FmZm3D4gRE4iFsZFIEBg&center=42.042187600000005,-87.8857427"
+    },
+    {
+      "name": "Niles Park District Oasis Waterpark",
+      "distance": "2.6 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Niles%20Park%20District%20Oasis%20Waterpark&query_place_id=ChIJBwTWWvnID4gRwTwP0ONEgjE&center=42.023669,-87.8110634"
+    }
+  ],
+  "hotels": [],
+  "gas": [
+    {
+      "name": "Shell",
+      "distance": "0.8 mi",
+      "url": "https://www.google.com/maps/search/Shell+near+42.025941%2C-87.8612496"
+    },
+    {
+      "name": "Mobil",
+      "distance": "0.8 mi",
+      "url": "https://www.google.com/maps/search/Mobil+near+42.025941%2C-87.8612496"
+    },
+    {
+      "name": "Exxon",
+      "distance": "1.0 mi",
+      "url": "https://www.google.com/maps/search/Exxon+near+42.025941%2C-87.8612496"
+    }
+  ]
+}

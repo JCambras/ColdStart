@@ -1,0 +1,214 @@
+{
+  "quick_bite": [
+    {
+      "name": "Noodles and Company",
+      "distance": "0.9 mi",
+      "url": "https://www.google.com/maps/search/Noodles%20and%20Company+near+39.825974599999995%2C-105.145449"
+    },
+    {
+      "name": "Burger King",
+      "distance": "1.0 mi",
+      "url": "https://www.google.com/maps/search/Burger%20King+near+39.825974599999995%2C-105.145449"
+    },
+    {
+      "name": "Firehouse Subs Ralston Plaza",
+      "distance": "1.0 mi",
+      "url": "https://www.google.com/maps/search/Firehouse%20Subs%20Ralston%20Plaza+near+39.825974599999995%2C-105.145449"
+    },
+    {
+      "name": "Taco Bell",
+      "distance": "1.0 mi",
+      "url": "https://www.google.com/maps/search/Taco%20Bell+near+39.825974599999995%2C-105.145449"
+    },
+    {
+      "name": "EL TEQUILEÑO Family Mexican Restaurant",
+      "distance": "1.0 mi",
+      "url": "https://www.google.com/maps/search/EL%20TEQUILE%C3%91O%20Family%20Mexican%20Restaurant+near+39.825974599999995%2C-105.145449"
+    },
+    {
+      "name": "Papa Murphy's | Take 'N' Bake Pizza",
+      "distance": "1.0 mi",
+      "url": "https://www.google.com/maps/search/Papa%20Murphy's%20%7C%20Take%20'N'%20Bake%20Pizza+near+39.825974599999995%2C-105.145449"
+    },
+    {
+      "name": "Jimmy John's",
+      "distance": "1.1 mi",
+      "url": "https://www.google.com/maps/search/Jimmy%20John's+near+39.825974599999995%2C-105.145449"
+    }
+  ],
+  "coffee": [
+    {
+      "name": "Panera Bread",
+      "distance": "0.9 mi",
+      "url": "https://www.google.com/maps/search/Panera%20Bread+near+39.825974599999995%2C-105.145449"
+    },
+    {
+      "name": "Starbucks Coffee Company",
+      "distance": "1.0 mi",
+      "url": "https://www.google.com/maps/search/Starbucks%20Coffee%20Company+near+39.825974599999995%2C-105.145449"
+    },
+    {
+      "name": "House of Js Coffee",
+      "distance": "1.0 mi",
+      "url": "https://www.google.com/maps/search/House%20of%20Js%20Coffee+near+39.825974599999995%2C-105.145449"
+    }
+  ],
+  "team_lunch": [
+    {
+      "name": "Papa Johns Pizza",
+      "distance": "1.0 mi",
+      "url": "https://www.google.com/maps/search/Papa%20Johns%20Pizza+near+39.825974599999995%2C-105.145449"
+    },
+    {
+      "name": "Sultan Grill",
+      "distance": "1.0 mi",
+      "url": "https://www.google.com/maps/search/Sultan%20Grill+near+39.825974599999995%2C-105.145449"
+    }
+  ],
+  "dinner": [
+    {
+      "name": "Das Meyer Fine Pastry Chalet",
+      "distance": "0.9 mi",
+      "url": "https://www.google.com/maps/search/Das%20Meyer%20Fine%20Pastry%20Chalet+near+39.825974599999995%2C-105.145449"
+    },
+    {
+      "name": "Rockabillies",
+      "distance": "1.0 mi",
+      "url": "https://www.google.com/maps/search/Rockabillies+near+39.825974599999995%2C-105.145449"
+    },
+    {
+      "name": "First Watch",
+      "distance": "1.0 mi",
+      "url": "https://www.google.com/maps/search/First%20Watch+near+39.825974599999995%2C-105.145449"
+    },
+    {
+      "name": "Krumbs and Co. (Located in Dream Dinners)",
+      "distance": "1.0 mi",
+      "url": "https://www.google.com/maps/search/Krumbs%20and%20Co.%20(Located%20in%20Dream%20Dinners)+near+39.825974599999995%2C-105.145449"
+    },
+    {
+      "name": "Mika Sushi",
+      "distance": "1.0 mi",
+      "url": "https://www.google.com/maps/search/Mika%20Sushi+near+39.825974599999995%2C-105.145449"
+    }
+  ],
+  "bowling": [
+    {
+      "name": "Lucky Strike Wheat Ridge",
+      "distance": "3.4 mi",
+      "url": "https://www.google.com/maps/search/Lucky%20Strike%20Wheat%20Ridge+near+39.825974599999995%2C-105.145449",
+      "isFar": true
+    }
+  ],
+  "arcade": [],
+  "movies": [
+    {
+      "name": "Harkins Theatres Arvada",
+      "distance": "4.0 mi",
+      "url": "https://www.google.com/maps/search/Harkins%20Theatres%20Arvada+near+39.825974599999995%2C-105.145449",
+      "isFar": true
+    },
+    {
+      "name": "Alamo Drafthouse Cinema Westminster",
+      "distance": "5.0 mi",
+      "url": "https://www.google.com/maps/search/Alamo%20Drafthouse%20Cinema%20Westminster+near+39.825974599999995%2C-105.145449",
+      "isFar": true
+    }
+  ],
+  "fun": [
+    {
+      "name": "Super Smash Rooms",
+      "distance": "3.2 mi",
+      "url": "https://www.google.com/maps/search/Super%20Smash%20Rooms+near+39.825974599999995%2C-105.145449",
+      "isFar": true
+    },
+    {
+      "name": "Conundrum Escape Rooms",
+      "distance": "3.6 mi",
+      "url": "https://www.google.com/maps/search/Conundrum%20Escape%20Rooms+near+39.825974599999995%2C-105.145449",
+      "isFar": true
+    },
+    {
+      "name": "Puzzlers Escape",
+      "distance": "4.0 mi",
+      "url": "https://www.google.com/maps/search/Puzzlers%20Escape+near+39.825974599999995%2C-105.145449",
+      "isFar": true
+    },
+    {
+      "name": "Urban Air Trampoline and Adventure Park",
+      "distance": "4.3 mi",
+      "url": "https://www.google.com/maps/search/Urban%20Air%20Trampoline%20and%20Adventure%20Park+near+39.825974599999995%2C-105.145449",
+      "isFar": true
+    },
+    {
+      "name": "Sky Zone Trampoline Park",
+      "distance": "4.4 mi",
+      "url": "https://www.google.com/maps/search/Sky%20Zone%20Trampoline%20Park+near+39.825974599999995%2C-105.145449",
+      "isFar": true
+    }
+  ],
+  "hotels": [
+    {
+      "name": "420Friendly 7BR HotTub Sauna Theater PS5 Arcade RedRocks",
+      "distance": "0.2 mi",
+      "url": "https://www.google.com/maps/search/420Friendly%207BR%20HotTub%20Sauna%20Theater%20PS5%20Arcade%20RedRocks+near+39.825974599999995%2C-105.145449"
+    },
+    {
+      "name": "Pure Luxury W Private Pool/Spa & Game Center!",
+      "distance": "0.2 mi",
+      "url": "https://www.google.com/maps/search/Pure%20Luxury%20W%20Private%20Pool%2FSpa%20%26%20Game%20Center!+near+39.825974599999995%2C-105.145449"
+    },
+    {
+      "name": "New! Pure Luxury Retreat W Private Heated Pool/Spa & Game Center!",
+      "distance": "0.2 mi",
+      "url": "https://www.google.com/maps/search/New!%20Pure%20Luxury%20Retreat%20W%20Private%20Heated%20Pool%2FSpa%20%26%20Game%20Center!+near+39.825974599999995%2C-105.145449"
+    },
+    {
+      "name": "HotTub Sauna Theater PS5 Arcade RedRocks 7BR 420",
+      "distance": "0.3 mi",
+      "url": "https://www.google.com/maps/search/HotTub%20Sauna%20Theater%20PS5%20Arcade%20RedRocks%207BR%20420+near+39.825974599999995%2C-105.145449"
+    },
+    {
+      "name": "Denver 3bed/2 bath with spacious backyard",
+      "distance": "0.3 mi",
+      "url": "https://www.google.com/maps/search/Denver%203bed%2F2%20bath%20with%20spacious%20backyard+near+39.825974599999995%2C-105.145449"
+    },
+    {
+      "name": "Denver 3bed /2 bath with spacious backyard",
+      "distance": "0.3 mi",
+      "url": "https://www.google.com/maps/search/Denver%203bed%20%2F2%20bath%20with%20spacious%20backyard+near+39.825974599999995%2C-105.145449"
+    },
+    {
+      "name": "JoyNest Retreat - Spacious 5BR, Epic Backyard, Family and Pet Friendly",
+      "distance": "0.4 mi",
+      "url": "https://www.google.com/maps/search/JoyNest%20Retreat%20-%20Spacious%205BR%2C%20Epic%20Backyard%2C%20Family%20and%20Pet%20Friendly+near+39.825974599999995%2C-105.145449"
+    }
+  ],
+  "gas": [
+    {
+      "name": "Phillips 66",
+      "distance": "0.9 mi",
+      "url": "https://www.google.com/maps/search/Phillips%2066+near+39.825974599999995%2C-105.145449"
+    },
+    {
+      "name": "Shell",
+      "distance": "1.0 mi",
+      "url": "https://www.google.com/maps/search/Shell+near+39.825974599999995%2C-105.145449"
+    },
+    {
+      "name": "Phillips 66",
+      "distance": "1.0 mi",
+      "url": "https://www.google.com/maps/search/Phillips%2066+near+39.825974599999995%2C-105.145449"
+    },
+    {
+      "name": "King Soopers Fuel Center",
+      "distance": "1.1 mi",
+      "url": "https://www.google.com/maps/search/King%20Soopers%20Fuel%20Center+near+39.825974599999995%2C-105.145449"
+    },
+    {
+      "name": "Phillips 66",
+      "distance": "1.2 mi",
+      "url": "https://www.google.com/maps/search/Phillips%2066+near+39.825974599999995%2C-105.145449"
+    }
+  ]
+}

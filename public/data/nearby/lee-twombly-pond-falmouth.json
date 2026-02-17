@@ -1,0 +1,207 @@
+{
+  "quick_bite": [
+    {
+      "name": "Subway",
+      "distance": "0.2 mi",
+      "url": "https://www.google.com/maps/search/Subway+near+43.7204512%2C-70.236751"
+    },
+    {
+      "name": "Jersey Mike's Subs",
+      "distance": "0.3 mi",
+      "url": "https://www.google.com/maps/search/Jersey%20Mike's%20Subs+near+43.7204512%2C-70.236751"
+    },
+    {
+      "name": "ZENSHI Handcrafted Sushi",
+      "distance": "0.4 mi",
+      "url": "https://www.google.com/maps/search/ZENSHI%20Handcrafted%20Sushi+near+43.7204512%2C-70.236751"
+    }
+  ],
+  "coffee": [
+    {
+      "name": "Dunkin'",
+      "distance": "0.2 mi",
+      "url": "https://www.google.com/maps/search/Dunkin'+near+43.7204512%2C-70.236751"
+    },
+    {
+      "name": "McDonald's",
+      "distance": "0.2 mi",
+      "url": "https://www.google.com/maps/search/McDonald's+near+43.7204512%2C-70.236751"
+    },
+    {
+      "name": "Mornings in Paris",
+      "distance": "0.3 mi",
+      "url": "https://www.google.com/maps/search/Mornings%20in%20Paris+near+43.7204512%2C-70.236751"
+    },
+    {
+      "name": "Starbucks Coffee Company",
+      "distance": "0.3 mi",
+      "url": "https://www.google.com/maps/search/Starbucks%20Coffee%20Company+near+43.7204512%2C-70.236751"
+    },
+    {
+      "name": "Cafe Luna Falmouth",
+      "distance": "0.6 mi",
+      "url": "https://www.google.com/maps/search/Cafe%20Luna%20Falmouth+near+43.7204512%2C-70.236751"
+    }
+  ],
+  "team_lunch": [
+    {
+      "name": "Nouria's Kitchen Featuring Amato's",
+      "distance": "0.4 mi",
+      "url": "https://www.google.com/maps/search/Nouria's%20Kitchen%20Featuring%20Amato's+near+43.7204512%2C-70.236751"
+    },
+    {
+      "name": "Foreside Tavern & Side Bar",
+      "distance": "0.5 mi",
+      "url": "https://www.google.com/maps/search/Foreside%20Tavern%20%26%20Side%20Bar+near+43.7204512%2C-70.236751"
+    }
+  ],
+  "dinner": [
+    {
+      "name": "Bernie's Foreside",
+      "distance": "0.2 mi",
+      "url": "https://www.google.com/maps/search/Bernie's%20Foreside+near+43.7204512%2C-70.236751"
+    },
+    {
+      "name": "JP's Bistro",
+      "distance": "0.2 mi",
+      "url": "https://www.google.com/maps/search/JP's%20Bistro+near+43.7204512%2C-70.236751"
+    },
+    {
+      "name": "Orchid Thai Restaurant",
+      "distance": "0.2 mi",
+      "url": "https://www.google.com/maps/search/Orchid%20Thai%20Restaurant+near+43.7204512%2C-70.236751"
+    },
+    {
+      "name": "Portland Pie Company - Falmouth, ME",
+      "distance": "0.2 mi",
+      "url": "https://www.google.com/maps/search/Portland%20Pie%20Company%20-%20Falmouth%2C%20ME+near+43.7204512%2C-70.236751"
+    },
+    {
+      "name": "Fuego",
+      "distance": "0.2 mi",
+      "url": "https://www.google.com/maps/search/Fuego+near+43.7204512%2C-70.236751"
+    },
+    {
+      "name": "Foreside House of Pizza",
+      "distance": "0.4 mi",
+      "url": "https://www.google.com/maps/search/Foreside%20House%20of%20Pizza+near+43.7204512%2C-70.236751"
+    },
+    {
+      "name": "Sicilian Table",
+      "distance": "0.4 mi",
+      "url": "https://www.google.com/maps/search/Sicilian%20Table+near+43.7204512%2C-70.236751"
+    }
+  ],
+  "bowling": [
+    {
+      "name": "Spare Time Portland",
+      "distance": "4.2 mi",
+      "url": "https://www.google.com/maps/search/Spare%20Time%20Portland+near+43.7204512%2C-70.236751",
+      "isFar": true
+    },
+    {
+      "name": "Bayside Bowl",
+      "distance": "4.4 mi",
+      "url": "https://www.google.com/maps/search/Bayside%20Bowl+near+43.7204512%2C-70.236751",
+      "isFar": true
+    }
+  ],
+  "arcade": [],
+  "movies": [
+    {
+      "name": "Flagship Premium Cinemas",
+      "distance": "0.1 mi",
+      "url": "https://www.google.com/maps/search/Flagship%20Premium%20Cinemas+near+43.7204512%2C-70.236751"
+    },
+    {
+      "name": "Nickelodeon Cinemas (Patriot Cinemas)",
+      "distance": "4.5 mi",
+      "url": "https://www.google.com/maps/search/Nickelodeon%20Cinemas%20(Patriot%20Cinemas)+near+43.7204512%2C-70.236751",
+      "isFar": true
+    },
+    {
+      "name": "SPACE Films",
+      "distance": "4.6 mi",
+      "url": "https://www.google.com/maps/search/SPACE%20Films+near+43.7204512%2C-70.236751",
+      "isFar": true
+    },
+    {
+      "name": "PMA Films",
+      "distance": "4.8 mi",
+      "url": "https://www.google.com/maps/search/PMA%20Films+near+43.7204512%2C-70.236751",
+      "isFar": true
+    }
+  ],
+  "fun": [
+    {
+      "name": "The Escape Room",
+      "distance": "4.6 mi",
+      "url": "https://www.google.com/maps/search/The%20Escape%20Room+near+43.7204512%2C-70.236751",
+      "isFar": true
+    }
+  ],
+  "hotels": [
+    {
+      "name": "Historic, Antique Southern Maine Farmhouse For All Seasons - 5 mins to Portland!",
+      "distance": "0.3 mi",
+      "url": "https://www.google.com/maps/search/Historic%2C%20Antique%20Southern%20Maine%20Farmhouse%20For%20All%20Seasons%20-%205%20mins%20to%20Portland!+near+43.7204512%2C-70.236751"
+    },
+    {
+      "name": "Wild Rose Farm Bed and Breakfast",
+      "distance": "0.5 mi",
+      "url": "https://www.google.com/maps/search/Wild%20Rose%20Farm%20Bed%20and%20Breakfast+near+43.7204512%2C-70.236751"
+    },
+    {
+      "name": "Oceanfront Luxury Modern Home - Heated Pool & Hot Tub - Minutes to Old Port",
+      "distance": "0.6 mi",
+      "url": "https://www.google.com/maps/search/Oceanfront%20Luxury%20Modern%20Home%20-%20Heated%20Pool%20%26%20Hot%20Tub%20-%20Minutes%20to%20Old%20Port+near+43.7204512%2C-70.236751"
+    },
+    {
+      "name": "Oceanfront Luxury Modern Home with Pool & Hot Tub",
+      "distance": "0.6 mi",
+      "url": "https://www.google.com/maps/search/Oceanfront%20Luxury%20Modern%20Home%20with%20Pool%20%26%20Hot%20Tub+near+43.7204512%2C-70.236751"
+    },
+    {
+      "name": "Oceanfront Luxury Modern Home - Heated Pool Hot Tub - Minutes to Old Port",
+      "distance": "0.6 mi",
+      "url": "https://www.google.com/maps/search/Oceanfront%20Luxury%20Modern%20Home%20-%20Heated%20Pool%20Hot%20Tub%20-%20Minutes%20to%20Old%20Port+near+43.7204512%2C-70.236751"
+    },
+    {
+      "name": "Beautiful Falmouth Condo w/ Patio: Near Portland!",
+      "distance": "0.7 mi",
+      "url": "https://www.google.com/maps/search/Beautiful%20Falmouth%20Condo%20w%2F%20Patio%3A%20Near%20Portland!+near+43.7204512%2C-70.236751"
+    },
+    {
+      "name": "Beautiful Falmouth Condo with Patio Near Portland! - Apartment",
+      "distance": "0.7 mi",
+      "url": "https://www.google.com/maps/search/Beautiful%20Falmouth%20Condo%20with%20Patio%20Near%20Portland!%20-%20Apartment+near+43.7204512%2C-70.236751"
+    }
+  ],
+  "gas": [
+    {
+      "name": "LAMPRON IRVING",
+      "distance": "0.4 mi",
+      "url": "https://www.google.com/maps/search/LAMPRON%20IRVING+near+43.7204512%2C-70.236751"
+    },
+    {
+      "name": "Irving Oil",
+      "distance": "0.4 mi",
+      "url": "https://www.google.com/maps/search/Irving%20Oil+near+43.7204512%2C-70.236751"
+    },
+    {
+      "name": "WALDO'S GENERAL STORE",
+      "distance": "0.4 mi",
+      "url": "https://www.google.com/maps/search/WALDO'S%20GENERAL%20STORE+near+43.7204512%2C-70.236751"
+    },
+    {
+      "name": "Citgo",
+      "distance": "0.4 mi",
+      "url": "https://www.google.com/maps/search/Citgo+near+43.7204512%2C-70.236751"
+    },
+    {
+      "name": "Irving Oil",
+      "distance": "0.5 mi",
+      "url": "https://www.google.com/maps/search/Irving%20Oil+near+43.7204512%2C-70.236751"
+    }
+  ]
+}

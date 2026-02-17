@@ -1,0 +1,201 @@
+{
+  "quick_bite": [
+    {
+      "name": "Subway",
+      "distance": "0.3 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Subway&query_place_id=ChIJXRgksraAMogRZRn45pk563M&center=42.0485079,-80.08121779999999"
+    },
+    {
+      "name": "Cracker Barrel Old Country Store",
+      "distance": "0.3 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Cracker%20Barrel%20Old%20Country%20Store&query_place_id=ChIJqeJfkLGAMogRGc6eqfQRuk0&center=42.0491226,-80.0855316"
+    },
+    {
+      "name": "Bob Evans",
+      "distance": "0.4 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Bob%20Evans&query_place_id=ChIJsWCGlbaAMogRcB9nShOsHls&center=42.0490241,-80.0798125"
+    },
+    {
+      "name": "Burger King",
+      "distance": "0.4 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Burger%20King&query_place_id=ChIJabuTGLGAMogR8GogIICkdCU&center=42.050188899999995,-80.0831109"
+    },
+    {
+      "name": "Golden Corral Buffet & Grill",
+      "distance": "0.5 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Golden%20Corral%20Buffet%20%26%20Grill&query_place_id=ChIJ_TH_JbCAMogRtA0HQBfJqqQ&center=42.051890199999995,-80.0862114"
+    }
+  ],
+  "coffee": [
+    {
+      "name": "Krispy Kreme",
+      "distance": "0.6 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Krispy%20Kreme&query_place_id=ChIJNQ76hbCAMogRcwxMKhP6YEY&center=42.0525419,-80.0840114"
+    }
+  ],
+  "team_lunch": [
+    {
+      "name": "IHOP",
+      "distance": "0.3 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=IHOP&query_place_id=ChIJtV_crraAMogRN7igBToJ52s&center=42.048164799999995,-80.08112369999999"
+    },
+    {
+      "name": "Garden Grille Restaurant",
+      "distance": "0.4 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Garden%20Grille%20Restaurant&query_place_id=ChIJVxjNfa6AMogRqcXHjKTnGMM&center=42.049983999999995,-80.08528"
+    },
+    {
+      "name": "Quaker Steak & Lube",
+      "distance": "0.4 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Quaker%20Steak%20%26%20Lube&query_place_id=ChIJsemrqHZKQIgRH9QbWpJRvW0&center=42.0485422,-80.0789789"
+    },
+    {
+      "name": "Applebee's Grill + Bar",
+      "distance": "0.4 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Applebee's%20Grill%20%2B%20Bar&query_place_id=ChIJx8jZ_bCAMogR3_V-FKP6Ygo&center=42.0507596,-80.083655"
+    },
+    {
+      "name": "Texas Roadhouse",
+      "distance": "0.6 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Texas%20Roadhouse&query_place_id=ChIJ87VrgrqAMogR_sw8h4001xU&center=42.053221099999995,-80.0847368"
+    }
+  ],
+  "dinner": [
+    {
+      "name": "Bro Man’s Sammiches",
+      "distance": "0.4 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Bro%20Man%E2%80%99s%20Sammiches&query_place_id=ChIJv-8EISx_MogRlxw3jfidPP0&center=42.0438555,-80.07559739999999"
+    },
+    {
+      "name": "Storming Crab Erie PA",
+      "distance": "0.5 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Storming%20Crab%20Erie%20PA&query_place_id=ChIJo-08DLqBMogRksv2snQAwWE&center=42.0515877,-80.0826076"
+    },
+    {
+      "name": "John Russell Brewing Company Brew House & Restaurant",
+      "distance": "0.5 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=John%20Russell%20Brewing%20Company%20Brew%20House%20%26%20Restaurant&query_place_id=ChIJdx-9-oGBMogRuiQ9t4I2p8s&center=42.0517949,-80.08526839999999"
+    },
+    {
+      "name": "The Honey Baked Ham Company",
+      "distance": "0.5 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=The%20Honey%20Baked%20Ham%20Company&query_place_id=ChIJ0xQmB7CAMogR3_c6arLx94w&center=42.0506583,-80.09031440000001"
+    },
+    {
+      "name": "Imperial Buffet",
+      "distance": "0.5 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Imperial%20Buffet&query_place_id=ChIJb7jvuPeBMogRBePaSrUqOjQ&center=42.051886599999996,-80.0880962"
+    },
+    {
+      "name": "Nothing Bundt Cakes",
+      "distance": "0.8 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Nothing%20Bundt%20Cakes&query_place_id=ChIJl9wz8jqBMogRMY7UjVJwiEM&center=42.0554464,-80.0847024"
+    }
+  ],
+  "bowling": [
+    {
+      "name": "Round1 Bowling & Arcade Millcreek Mall",
+      "distance": "1.8 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Round1%20Bowling%20%26%20Arcade%20Millcreek%20Mall&query_place_id=ChIJR_-CmWh_MogRTu28GSptga8&center=42.068382899999996,-80.0997027"
+    },
+    {
+      "name": "Greengarden Lanes",
+      "distance": "3.2 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Greengarden%20Lanes&query_place_id=ChIJPzdrZNZ_MogRCgJyWyp-8Y0&center=42.0891788,-80.10016569999999",
+      "isFar": true
+    },
+    {
+      "name": "Rolling Meadow Lanes",
+      "distance": "3.6 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Rolling%20Meadow%20Lanes&query_place_id=ChIJPzxw_Ux-MogRYVod0cZV_sY&center=42.084188100000006,-80.1289917",
+      "isFar": true
+    }
+  ],
+  "arcade": [],
+  "movies": [
+    {
+      "name": "CW IN",
+      "distance": "4.2 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=CW%20IN&query_place_id=ChIJxcS7QDmAMogRs7KaN7g3OXw&center=42.104483699999996,-80.0691497",
+      "isFar": true
+    }
+  ],
+  "fun": [
+    {
+      "name": "Splash Lagoon",
+      "distance": "0.4 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Splash%20Lagoon&query_place_id=ChIJ0be0fraAMogRwnyxXR4TzXY&center=42.048294999999996,-80.07792200000002"
+    },
+    {
+      "name": "Parque",
+      "distance": "0.4 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Parque&query_place_id=ChIJWeCsPACBMogRQbPlkn03qb0&center=42.048370399999996,-80.07776299999999"
+    },
+    {
+      "name": "Victorian princess",
+      "distance": "4.5 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Victorian%20princess&query_place_id=ChIJU-aEXwB9MogROF5gOsRr6h4&center=41.996634,-80.1444298",
+      "isFar": true
+    },
+    {
+      "name": "Play Port Arcade & Family Fun Center",
+      "distance": "4.9 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Play%20Port%20Arcade%20%26%20Family%20Fun%20Center&query_place_id=ChIJQwGQW6d_MogRF6loK8J-HeU&center=42.1014268,-80.1423749",
+      "isFar": true
+    }
+  ],
+  "hotels": [
+    {
+      "name": "Home2 Suites by Hilton Erie, PA",
+      "distance": "0.2 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Home2%20Suites%20by%20Hilton%20Erie%2C%20PA&query_place_id=ChIJbwpterSAMogRagS5OXLeiQc&center=42.0458309,-80.0809175"
+    },
+    {
+      "name": "Wingate by Wyndham Erie",
+      "distance": "0.2 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Wingate%20by%20Wyndham%20Erie&query_place_id=ChIJJX4Ki7OAMogRmcF1-dWtIsY&center=42.047680299999996,-80.0834804"
+    },
+    {
+      "name": "Best Western Erie Inn & Suites",
+      "distance": "0.2 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Best%20Western%20Erie%20Inn%20%26%20Suites&query_place_id=ChIJQwQjCgiBMogRMzm0JaAr0yc&center=42.046954400000004,-80.08129819999999"
+    },
+    {
+      "name": "Spark by Hilton Erie",
+      "distance": "0.2 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Spark%20by%20Hilton%20Erie&query_place_id=ChIJ8dcbFjyBMogRSpo97PqM3ms&center=42.0460391,-80.0802704"
+    },
+    {
+      "name": "Hampton Inn Erie-South",
+      "distance": "0.3 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Hampton%20Inn%20Erie-South&query_place_id=ChIJi5ZTUrGAMogRP44K2XngUMA&center=42.0481693,-80.0826019"
+    },
+    {
+      "name": "Country Inn & Suites by Radisson, Erie, PA",
+      "distance": "0.3 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Country%20Inn%20%26%20Suites%20by%20Radisson%2C%20Erie%2C%20PA&query_place_id=ChIJCYrrmLaAMogRFHzGoYbeGpY&center=42.0477142,-80.08106289999999"
+    }
+  ],
+  "gas": [
+    {
+      "name": "Gulf",
+      "distance": "0.4 mi",
+      "url": "https://www.google.com/maps/search/Gulf+near+42.0445213%2C-80.0843124"
+    },
+    {
+      "name": "Kwik Fill",
+      "distance": "0.5 mi",
+      "url": "https://www.google.com/maps/search/Kwik%20Fill+near+42.0445213%2C-80.0843124"
+    },
+    {
+      "name": "Country Fair - Peach & Fern",
+      "distance": "0.6 mi",
+      "url": "https://www.google.com/maps/search/Country%20Fair%20-%20Peach%20%26%20Fern+near+42.0445213%2C-80.0843124"
+    },
+    {
+      "name": "Citgo",
+      "distance": "0.6 mi",
+      "url": "https://www.google.com/maps/search/Citgo+near+42.0445213%2C-80.0843124"
+    }
+  ]
+}

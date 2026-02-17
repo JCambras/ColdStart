@@ -1,0 +1,203 @@
+{
+  "quick_bite": [
+    {
+      "name": "Raising Cane's Chicken Fingers",
+      "distance": "0.4 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Raising%20Cane's%20Chicken%20Fingers&query_place_id=ChIJy2zmGgC1xokRhtbzs3L3VV8&center=40.046954199999995,-75.0578481"
+    },
+    {
+      "name": "Wendy's",
+      "distance": "0.5 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Wendy's&query_place_id=ChIJ1bOWfqC2xokRrgeDlUAwRWE&center=40.047863299999996,-75.05940509999999"
+    },
+    {
+      "name": "Ildeflame",
+      "distance": "0.5 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Ildeflame&query_place_id=ChIJJan2GAC1xokRCF1hhXVjkss&center=40.0336292,-75.0528052"
+    },
+    {
+      "name": "Kings Shawarma & Falafel",
+      "distance": "0.6 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Kings%20Shawarma%20%26%20Falafel&query_place_id=ChIJW1Qp61K3xokRMRIcMF3rpeo&center=40.048743099999996,-75.06207239999999"
+    },
+    {
+      "name": "Taco Bell",
+      "distance": "0.7 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Taco%20Bell&query_place_id=ChIJ__97OIK2xokRH_Qp1k_uFPk&center=40.0326733,-75.0631416"
+    },
+    {
+      "name": "PrimoHoagies",
+      "distance": "0.7 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=PrimoHoagies&query_place_id=ChIJE8D5sS60xokRC4060dDhqEs&center=40.030965699999996,-75.05482429999999"
+    }
+  ],
+  "coffee": [
+    {
+      "name": "Coffee Apollonia",
+      "distance": "0.2 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Coffee%20Apollonia&query_place_id=ChIJ3X-mRiK0xokRA18DC43-plQ&center=40.043546899999996,-75.0534783"
+    },
+    {
+      "name": "Dunkin'",
+      "distance": "0.4 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Dunkin'&query_place_id=ChIJtUVQPR-0xokRGy6H7D9l4hI&center=40.0461805,-75.05656809999999"
+    }
+  ],
+  "team_lunch": [
+    {
+      "name": "Dragon Phoenix house",
+      "distance": "0.1 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Dragon%20Phoenix%20house&query_place_id=ChIJ75rFE0i1xokRIkR7Nx7D80E&center=40.039527,-75.0564266"
+    },
+    {
+      "name": "El Provocon Restaurant",
+      "distance": "0.1 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=El%20Provocon%20Restaurant&query_place_id=ChIJj1LPvSa0xokRRMcPsLxU_EU&center=40.039456099999995,-75.0562953"
+    },
+    {
+      "name": "Fu Hai Lou",
+      "distance": "0.1 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Fu%20Hai%20Lou&query_place_id=ChIJv0PSEVW1xokRmiC8633jsjI&center=40.0414354,-75.0547067"
+    },
+    {
+      "name": "Magic noodles",
+      "distance": "0.3 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Magic%20noodles&query_place_id=ChIJKZDV8qy1xokRk2ZbdyJE348&center=40.043487999999996,-75.05227169999999"
+    },
+    {
+      "name": "Four Seasons Diner Restaurant",
+      "distance": "0.3 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Four%20Seasons%20Diner%20Restaurant&query_place_id=ChIJSddtQiK0xokR1yYRlBmH_do&center=40.0441435,-75.0530576"
+    },
+    {
+      "name": "Voix Asian Kitchen 華都",
+      "distance": "0.3 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Voix%20Asian%20Kitchen%20%E8%8F%AF%E9%83%BD&query_place_id=ChIJsX7ZGVq1xokRzEuKG3cBQXE&center=40.0437029,-75.0523111"
+    }
+  ],
+  "dinner": [
+    {
+      "name": "Empório Café BR",
+      "distance": "0.1 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Emp%C3%B3rio%20Caf%C3%A9%20BR&query_place_id=ChIJecAExo61xokRwSU3g-ps40w&center=40.0394972,-75.0563694"
+    },
+    {
+      "name": "China Gourmet",
+      "distance": "0.1 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=China%20Gourmet&query_place_id=ChIJo6QVPZy2xokRD5pt1KXOwbw&center=40.0415412,-75.05488749999999"
+    },
+    {
+      "name": "Pho Nam Giang",
+      "distance": "0.1 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Pho%20Nam%20Giang&query_place_id=ChIJQV4EKb-1xokRyDV7lxPtsn4&center=40.0412512,-75.054329"
+    },
+    {
+      "name": "Tender Grill",
+      "distance": "0.3 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Tender%20Grill&query_place_id=ChIJYynXJ0G1xokRs_964j4TXUY&center=40.043875,-75.05382500000002"
+    },
+    {
+      "name": "Rayaki Ramen Cottman Philadelphia",
+      "distance": "0.3 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Rayaki%20Ramen%20Cottman%20Philadelphia&query_place_id=ChIJsUvq8O61xokRa_BgsRbytoI&center=40.0437267,-75.053517"
+    },
+    {
+      "name": "Kennedy chicken & burguer",
+      "distance": "0.3 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Kennedy%20chicken%20%26%20burguer&query_place_id=ChIJ57hLu3K1xokRzDXeQpUWI18&center=40.0432626,-75.0527133"
+    }
+  ],
+  "bowling": [
+    {
+      "name": "Thunderbird Lanes Castor Ave",
+      "distance": "1.6 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Thunderbird%20Lanes%20Castor%20Ave&query_place_id=ChIJkzkrNou2xokRO_8_15qaRqE&center=40.0329889,-75.08407220000001"
+    },
+    {
+      "name": "Thunderbird Lanes - Holme Ave.",
+      "distance": "2.4 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Thunderbird%20Lanes%20-%20Holme%20Ave.&query_place_id=ChIJqaqvRn60xokR5nAOpz0_W8s&center=40.0569318,-75.0162034"
+    }
+  ],
+  "arcade": [],
+  "movies": [
+    {
+      "name": "Regal UA Grant Plaza",
+      "distance": "3.4 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Regal%20UA%20Grant%20Plaza&query_place_id=ChIJ0eD6HcGzxokRpQ77kKGSDZ8&center=40.087869999999995,-75.03788",
+      "isFar": true
+    },
+    {
+      "name": "Parking Lot Theaters",
+      "distance": "4.8 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Parking%20Lot%20Theaters&query_place_id=ChIJf0bX8qu3xokRVJBEV2pGMSQ&center=40.0313691,-75.1467972",
+      "isFar": true
+    }
+  ],
+  "fun": [
+    {
+      "name": "Rage Philly",
+      "distance": "1.5 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Rage%20Philly&query_place_id=ChIJHUQ3BwfHxokRzsQNNvk307o&center=40.0426126,-75.0271849"
+    },
+    {
+      "name": "Koi Pond",
+      "distance": "2.4 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Koi%20Pond&query_place_id=ChIJLya4AAC1xokRZpeCefVEC68&center=40.0454004,-75.0112242"
+    },
+    {
+      "name": "Turtletopia",
+      "distance": "2.4 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Turtletopia&query_place_id=ChIJM4kmEwm1xokRj_3IpBU-yNE&center=40.007414499999996,-75.04296839999999"
+    },
+    {
+      "name": "Rainbow House Philadelphia",
+      "distance": "2.4 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Rainbow%20House%20Philadelphia&query_place_id=ChIJB1J0wRC3xokRQgHeb0Qz8C4&center=40.0171237,-75.09033819999999"
+    }
+  ],
+  "hotels": [
+    {
+      "name": "Motel69",
+      "distance": "0.3 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Motel69&query_place_id=ChIJQ-fzIgC3xokR72SCjM7rnzc&center=40.0419349,-75.0621701"
+    },
+    {
+      "name": "Ñeca",
+      "distance": "0.6 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=%C3%91eca&query_place_id=ChIJH0LsJAC3xokRyqvdo56Ta7A&center=40.0394711,-75.0675011"
+    },
+    {
+      "name": "Hub Motel",
+      "distance": "0.7 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Hub%20Motel&query_place_id=ChIJr0zMbKm1xokR69LHj9hBqzk&center=40.0504174,-75.0504596"
+    },
+    {
+      "name": "Roosevelt Inn",
+      "distance": "0.8 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Roosevelt%20Inn&query_place_id=ChIJxX9IT42zxokR244NBUD37LQ&center=40.0514484,-75.05178219999999"
+    }
+  ],
+  "gas": [
+    {
+      "name": "Sunoco",
+      "distance": "0.3 mi",
+      "url": "https://www.google.com/maps/search/Sunoco+near+40.04076%2C-75.05638119999999"
+    },
+    {
+      "name": "Philly Gas",
+      "distance": "0.3 mi",
+      "url": "https://www.google.com/maps/search/Philly%20Gas+near+40.04076%2C-75.05638119999999"
+    },
+    {
+      "name": "Mobil",
+      "distance": "0.5 mi",
+      "url": "https://www.google.com/maps/search/Mobil+near+40.04076%2C-75.05638119999999"
+    },
+    {
+      "name": "Conoco",
+      "distance": "0.7 mi",
+      "url": "https://www.google.com/maps/search/Conoco+near+40.04076%2C-75.05638119999999"
+    }
+  ]
+}

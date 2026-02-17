@@ -1,0 +1,258 @@
+{
+  "quick_bite": [
+    {
+      "name": "La Tavolata Italian Kitchen",
+      "distance": "0.2 mi",
+      "url": "https://www.google.com/maps/search/La%20Tavolata%20Italian%20Kitchen+near+44.9372645%2C-93.34262059999999"
+    },
+    {
+      "name": "The Taco Shop",
+      "distance": "0.4 mi",
+      "url": "https://www.google.com/maps/search/The%20Taco%20Shop+near+44.9372645%2C-93.34262059999999"
+    },
+    {
+      "name": "Subway",
+      "distance": "0.5 mi",
+      "url": "https://www.google.com/maps/search/Subway+near+44.9372645%2C-93.34262059999999"
+    },
+    {
+      "name": "Chipotle Mexican Grill",
+      "distance": "0.5 mi",
+      "url": "https://www.google.com/maps/search/Chipotle%20Mexican%20Grill+near+44.9372645%2C-93.34262059999999"
+    }
+  ],
+  "coffee": [
+    {
+      "name": "Starbucks Coffee Company",
+      "distance": "0.2 mi",
+      "url": "https://www.google.com/maps/search/Starbucks%20Coffee%20Company+near+44.9372645%2C-93.34262059999999"
+    },
+    {
+      "name": "Lunds & Byerlys Creations Cafe - St. Louis Park",
+      "distance": "0.3 mi",
+      "url": "https://www.google.com/maps/search/Lunds%20%26%20Byerlys%20Creations%20Cafe%20-%20St.%20Louis%20Park+near+44.9372645%2C-93.34262059999999"
+    },
+    {
+      "name": "Caribou Coffee",
+      "distance": "0.3 mi",
+      "url": "https://www.google.com/maps/search/Caribou%20Coffee+near+44.9372645%2C-93.34262059999999"
+    },
+    {
+      "name": "Starbucks Coffee Company",
+      "distance": "0.3 mi",
+      "url": "https://www.google.com/maps/search/Starbucks%20Coffee%20Company+near+44.9372645%2C-93.34262059999999"
+    },
+    {
+      "name": "Honey & Rye",
+      "distance": "0.4 mi",
+      "url": "https://www.google.com/maps/search/Honey%20%26%20Rye+near+44.9372645%2C-93.34262059999999"
+    },
+    {
+      "name": "McDonald's",
+      "distance": "0.4 mi",
+      "url": "https://www.google.com/maps/search/McDonald's+near+44.9372645%2C-93.34262059999999"
+    },
+    {
+      "name": "Caribou Coffee",
+      "distance": "0.8 mi",
+      "url": "https://www.google.com/maps/search/Caribou%20Coffee+near+44.9372645%2C-93.34262059999999"
+    }
+  ],
+  "team_lunch": [
+    {
+      "name": "Café Nicollet",
+      "distance": "0.3 mi",
+      "url": "https://www.google.com/maps/search/Caf%C3%A9%20Nicollet+near+44.9372645%2C-93.34262059999999"
+    }
+  ],
+  "dinner": [
+    {
+      "name": "Lago Tacos - St. Louis Park",
+      "distance": "0.2 mi",
+      "url": "https://www.google.com/maps/search/Lago%20Tacos%20-%20St.%20Louis%20Park+near+44.9372645%2C-93.34262059999999"
+    },
+    {
+      "name": "Vibe Organic Juice Bar",
+      "distance": "0.3 mi",
+      "url": "https://www.google.com/maps/search/Vibe%20Organic%20Juice%20Bar+near+44.9372645%2C-93.34262059999999"
+    },
+    {
+      "name": "Hazelwood Food & Drink - St Louis Park",
+      "distance": "0.3 mi",
+      "url": "https://www.google.com/maps/search/Hazelwood%20Food%20%26%20Drink%20-%20St%20Louis%20Park+near+44.9372645%2C-93.34262059999999"
+    },
+    {
+      "name": "Bogart's Doughnut Co.",
+      "distance": "0.4 mi",
+      "url": "https://www.google.com/maps/search/Bogart's%20Doughnut%20Co.+near+44.9372645%2C-93.34262059999999"
+    },
+    {
+      "name": "Mill Valley Kitchen",
+      "distance": "0.7 mi",
+      "url": "https://www.google.com/maps/search/Mill%20Valley%20Kitchen+near+44.9372645%2C-93.34262059999999"
+    },
+    {
+      "name": "Heather’s Pies",
+      "distance": "0.7 mi",
+      "url": "https://www.google.com/maps/search/Heather%E2%80%99s%20Pies+near+44.9372645%2C-93.34262059999999"
+    },
+    {
+      "name": "Basil",
+      "distance": "0.7 mi",
+      "url": "https://www.google.com/maps/search/Basil+near+44.9372645%2C-93.34262059999999"
+    }
+  ],
+  "bowling": [
+    {
+      "name": "Texa-Tonka Lanes",
+      "distance": "2.2 mi",
+      "url": "https://www.google.com/maps/search/Texa-Tonka%20Lanes+near+44.9372645%2C-93.34262059999999"
+    },
+    {
+      "name": "Bryant Lake Bowl and Theater",
+      "distance": "2.7 mi",
+      "url": "https://www.google.com/maps/search/Bryant%20Lake%20Bowl%20and%20Theater+near+44.9372645%2C-93.34262059999999"
+    },
+    {
+      "name": "Tuttle's Eat Bowl Play",
+      "distance": "4.2 mi",
+      "url": "https://www.google.com/maps/search/Tuttle's%20Eat%20Bowl%20Play+near+44.9372645%2C-93.34262059999999",
+      "isFar": true
+    }
+  ],
+  "arcade": [],
+  "movies": [
+    {
+      "name": "Edina Mann Theatre",
+      "distance": "1.8 mi",
+      "url": "https://www.google.com/maps/search/Edina%20Mann%20Theatre+near+44.9372645%2C-93.34262059999999"
+    },
+    {
+      "name": "Marcus West End Cinema",
+      "distance": "2.1 mi",
+      "url": "https://www.google.com/maps/search/Marcus%20West%20End%20Cinema+near+44.9372645%2C-93.34262059999999"
+    },
+    {
+      "name": "Landmark's Lagoon Cinema",
+      "distance": "2.4 mi",
+      "url": "https://www.google.com/maps/search/Landmark's%20Lagoon%20Cinema+near+44.9372645%2C-93.34262059999999"
+    },
+    {
+      "name": "Hopkins Community Cinema",
+      "distance": "3.6 mi",
+      "url": "https://www.google.com/maps/search/Hopkins%20Community%20Cinema+near+44.9372645%2C-93.34262059999999",
+      "isFar": true
+    },
+    {
+      "name": "AMC Southdale 16",
+      "distance": "4.1 mi",
+      "url": "https://www.google.com/maps/search/AMC%20Southdale%2016+near+44.9372645%2C-93.34262059999999",
+      "isFar": true
+    }
+  ],
+  "fun": [
+    {
+      "name": "Cliff Turner's Halloween CHUD Dungeon",
+      "distance": "0.9 mi",
+      "url": "https://www.google.com/maps/search/Cliff%20Turner's%20Halloween%20CHUD%20Dungeon+near+44.9372645%2C-93.34262059999999"
+    },
+    {
+      "name": "Oak Hill Park Splash Pad",
+      "distance": "1.7 mi",
+      "url": "https://www.google.com/maps/search/Oak%20Hill%20Park%20Splash%20Pad+near+44.9372645%2C-93.34262059999999"
+    },
+    {
+      "name": "Game Show Battle Rooms - Minneapolis (St. Louis Park)",
+      "distance": "2.0 mi",
+      "url": "https://www.google.com/maps/search/Game%20Show%20Battle%20Rooms%20-%20Minneapolis%20(St.%20Louis%20Park)+near+44.9372645%2C-93.34262059999999"
+    },
+    {
+      "name": "Lock and Key Escape Rooms",
+      "distance": "4.0 mi",
+      "url": "https://www.google.com/maps/search/Lock%20and%20Key%20Escape%20Rooms+near+44.9372645%2C-93.34262059999999",
+      "isFar": true
+    },
+    {
+      "name": "Escape The Room Minneapolis",
+      "distance": "4.2 mi",
+      "url": "https://www.google.com/maps/search/Escape%20The%20Room%20Minneapolis+near+44.9372645%2C-93.34262059999999",
+      "isFar": true
+    },
+    {
+      "name": "North Commons Water Park",
+      "distance": "4.6 mi",
+      "url": "https://www.google.com/maps/search/North%20Commons%20Water%20Park+near+44.9372645%2C-93.34262059999999",
+      "isFar": true
+    },
+    {
+      "name": "Trapped Puzzle Rooms",
+      "distance": "4.9 mi",
+      "url": "https://www.google.com/maps/search/Trapped%20Puzzle%20Rooms+near+44.9372645%2C-93.34262059999999",
+      "isFar": true
+    }
+  ],
+  "hotels": [
+    {
+      "name": "The Sutton Place Hotel Vancouver",
+      "distance": "0.1 mi",
+      "url": "https://www.google.com/maps/search/The%20Sutton%20Place%20Hotel%20Vancouver+near+44.9372645%2C-93.34262059999999"
+    },
+    {
+      "name": "Charming Pet-Friendly 2BR Duplex Haven",
+      "distance": "0.4 mi",
+      "url": "https://www.google.com/maps/search/Charming%20Pet-Friendly%202BR%20Duplex%20Haven+near+44.9372645%2C-93.34262059999999"
+    },
+    {
+      "name": "Cozy 3 Bedroom. Family Pet Friendly.",
+      "distance": "0.6 mi",
+      "url": "https://www.google.com/maps/search/Cozy%203%20Bedroom.%20Family%20Pet%20Friendly.+near+44.9372645%2C-93.34262059999999"
+    },
+    {
+      "name": "Family Friendly Home in Great Location",
+      "distance": "0.6 mi",
+      "url": "https://www.google.com/maps/search/Family%20Friendly%20Home%20in%20Great%20Location+near+44.9372645%2C-93.34262059999999"
+    },
+    {
+      "name": "Eames Estate - Holiday Home",
+      "distance": "0.7 mi",
+      "url": "https://www.google.com/maps/search/Eames%20Estate%20-%20Holiday%20Home+near+44.9372645%2C-93.34262059999999"
+    },
+    {
+      "name": "Pet Friendly Home Convenient to Lakes & Bike Trails",
+      "distance": "0.7 mi",
+      "url": "https://www.google.com/maps/search/Pet%20Friendly%20Home%20Convenient%20to%20Lakes%20%26%20Bike%20Trails+near+44.9372645%2C-93.34262059999999"
+    },
+    {
+      "name": "Luxury Linden Hills: 3BR + Lounge Near Bde Maka Ska",
+      "distance": "0.7 mi",
+      "url": "https://www.google.com/maps/search/Luxury%20Linden%20Hills%3A%203BR%20%2B%20Lounge%20Near%20Bde%20Maka%20Ska+near+44.9372645%2C-93.34262059999999"
+    }
+  ],
+  "gas": [
+    {
+      "name": "Excelsior BP",
+      "distance": "0.3 mi",
+      "url": "https://www.google.com/maps/search/Excelsior%20BP+near+44.9372645%2C-93.34262059999999"
+    },
+    {
+      "name": "Holiday Gas Station",
+      "distance": "0.7 mi",
+      "url": "https://www.google.com/maps/search/Holiday%20Gas%20Station+near+44.9372645%2C-93.34262059999999"
+    },
+    {
+      "name": "Circle K",
+      "distance": "0.7 mi",
+      "url": "https://www.google.com/maps/search/Circle%20K+near+44.9372645%2C-93.34262059999999"
+    },
+    {
+      "name": "Marathon Gas",
+      "distance": "0.9 mi",
+      "url": "https://www.google.com/maps/search/Marathon%20Gas+near+44.9372645%2C-93.34262059999999"
+    },
+    {
+      "name": "Speedway",
+      "distance": "1.1 mi",
+      "url": "https://www.google.com/maps/search/Speedway+near+44.9372645%2C-93.34262059999999"
+    }
+  ]
+}

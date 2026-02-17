@@ -1,0 +1,194 @@
+{
+  "quick_bite": [
+    {
+      "name": "Arby's",
+      "distance": "0.1 mi",
+      "url": "https://www.google.com/maps/search/Arby's+near+37.655%2C-77.61388889999999"
+    },
+    {
+      "name": "Chipotle Mexican Grill",
+      "distance": "0.1 mi",
+      "url": "https://www.google.com/maps/search/Chipotle%20Mexican%20Grill+near+37.655%2C-77.61388889999999"
+    },
+    {
+      "name": "Hangry Joe's Hot Chicken & Wings",
+      "distance": "0.2 mi",
+      "url": "https://www.google.com/maps/search/Hangry%20Joe's%20Hot%20Chicken%20%26%20Wings+near+37.655%2C-77.61388889999999"
+    },
+    {
+      "name": "Burger King",
+      "distance": "0.2 mi",
+      "url": "https://www.google.com/maps/search/Burger%20King+near+37.655%2C-77.61388889999999"
+    },
+    {
+      "name": "Cook Out",
+      "distance": "0.2 mi",
+      "url": "https://www.google.com/maps/search/Cook%20Out+near+37.655%2C-77.61388889999999"
+    },
+    {
+      "name": "Maggiano's Little Italy",
+      "distance": "0.2 mi",
+      "url": "https://www.google.com/maps/search/Maggiano's%20Little%20Italy+near+37.655%2C-77.61388889999999"
+    }
+  ],
+  "coffee": [
+    {
+      "name": "Starbucks Coffee Company",
+      "distance": "0.2 mi",
+      "url": "https://www.google.com/maps/search/Starbucks%20Coffee%20Company+near+37.655%2C-77.61388889999999"
+    }
+  ],
+  "team_lunch": [
+    {
+      "name": "Frostings Bake Shop",
+      "distance": "0.1 mi",
+      "url": "https://www.google.com/maps/search/Frostings%20Bake%20Shop+near+37.655%2C-77.61388889999999"
+    },
+    {
+      "name": "Elephant Thai Short Pump",
+      "distance": "0.1 mi",
+      "url": "https://www.google.com/maps/search/Elephant%20Thai%20Short%20Pump+near+37.655%2C-77.61388889999999"
+    },
+    {
+      "name": "China Wok",
+      "distance": "0.2 mi",
+      "url": "https://www.google.com/maps/search/China%20Wok+near+37.655%2C-77.61388889999999"
+    }
+  ],
+  "dinner": [
+    {
+      "name": "Anant Cuisine of India",
+      "distance": "0.1 mi",
+      "url": "https://www.google.com/maps/search/Anant%20Cuisine%20of%20India+near+37.655%2C-77.61388889999999"
+    },
+    {
+      "name": "Sushi Kingdom Glen Allen",
+      "distance": "0.1 mi",
+      "url": "https://www.google.com/maps/search/Sushi%20Kingdom%20Glen%20Allen+near+37.655%2C-77.61388889999999"
+    },
+    {
+      "name": "Qpot Hot Pot & BBQ 自助火锅烧烤",
+      "distance": "0.1 mi",
+      "url": "https://www.google.com/maps/search/Qpot%20Hot%20Pot%20%26%20BBQ%20%E8%87%AA%E5%8A%A9%E7%81%AB%E9%94%85%E7%83%A7%E7%83%A4+near+37.655%2C-77.61388889999999"
+    },
+    {
+      "name": "YaYas Cookbook",
+      "distance": "0.1 mi",
+      "url": "https://www.google.com/maps/search/YaYas%20Cookbook+near+37.655%2C-77.61388889999999"
+    },
+    {
+      "name": "Indian Aroma",
+      "distance": "0.1 mi",
+      "url": "https://www.google.com/maps/search/Indian%20Aroma+near+37.655%2C-77.61388889999999"
+    },
+    {
+      "name": "Poke Sushi Bowl - Henrico",
+      "distance": "0.1 mi",
+      "url": "https://www.google.com/maps/search/Poke%20Sushi%20Bowl%20-%20Henrico+near+37.655%2C-77.61388889999999"
+    }
+  ],
+  "bowling": [
+    {
+      "name": "Bowl America Short Pump",
+      "distance": "0.1 mi",
+      "url": "https://www.google.com/maps/search/Bowl%20America%20Short%20Pump+near+37.655%2C-77.61388889999999"
+    },
+    {
+      "name": "Bowlero West End",
+      "distance": "5.0 mi",
+      "url": "https://www.google.com/maps/search/Bowlero%20West%20End+near+37.655%2C-77.61388889999999",
+      "isFar": true
+    }
+  ],
+  "arcade": [],
+  "movies": [
+    {
+      "name": "Regal Short Pump",
+      "distance": "0.1 mi",
+      "url": "https://www.google.com/maps/search/Regal%20Short%20Pump+near+37.655%2C-77.61388889999999"
+    },
+    {
+      "name": "Regal Cinemas 10",
+      "distance": "4.0 mi",
+      "url": "https://www.google.com/maps/search/Regal%20Cinemas%2010+near+37.655%2C-77.61388889999999",
+      "isFar": true
+    },
+    {
+      "name": "Regal West Tower",
+      "distance": "4.0 mi",
+      "url": "https://www.google.com/maps/search/Regal%20West%20Tower+near+37.655%2C-77.61388889999999",
+      "isFar": true
+    }
+  ],
+  "fun": [
+    {
+      "name": "Red Door Escape Room",
+      "distance": "0.2 mi",
+      "url": "https://www.google.com/maps/search/Red%20Door%20Escape%20Room+near+37.655%2C-77.61388889999999"
+    },
+    {
+      "name": "Sandbox VR",
+      "distance": "0.3 mi",
+      "url": "https://www.google.com/maps/search/Sandbox%20VR+near+37.655%2C-77.61388889999999"
+    },
+    {
+      "name": "Zero Latency VR - Richmond",
+      "distance": "0.4 mi",
+      "url": "https://www.google.com/maps/search/Zero%20Latency%20VR%20-%20Richmond+near+37.655%2C-77.61388889999999"
+    },
+    {
+      "name": "Sky Zone Trampoline Park",
+      "distance": "0.7 mi",
+      "url": "https://www.google.com/maps/search/Sky%20Zone%20Trampoline%20Park+near+37.655%2C-77.61388889999999"
+    }
+  ],
+  "hotels": [
+    {
+      "name": "Hyatt House Richmond / Short Pump",
+      "distance": "0.3 mi",
+      "url": "https://www.google.com/maps/search/Hyatt%20House%20Richmond%20%2F%20Short%20Pump+near+37.655%2C-77.61388889999999"
+    },
+    {
+      "name": "Execustay The Madisn Spng Oak",
+      "distance": "0.4 mi",
+      "url": "https://www.google.com/maps/search/Execustay%20The%20Madisn%20Spng%20Oak+near+37.655%2C-77.61388889999999"
+    },
+    {
+      "name": "Home2 Suites by Hilton Richmond Short Pump",
+      "distance": "0.6 mi",
+      "url": "https://www.google.com/maps/search/Home2%20Suites%20by%20Hilton%20Richmond%20Short%20Pump+near+37.655%2C-77.61388889999999"
+    },
+    {
+      "name": "The Flats at West Broad Village",
+      "distance": "0.8 mi",
+      "url": "https://www.google.com/maps/search/The%20Flats%20at%20West%20Broad%20Village+near+37.655%2C-77.61388889999999"
+    },
+    {
+      "name": "Hilton Richmond Hotel & Spa/Short Pump",
+      "distance": "0.8 mi",
+      "url": "https://www.google.com/maps/search/Hilton%20Richmond%20Hotel%20%26%20Spa%2FShort%20Pump+near+37.655%2C-77.61388889999999"
+    }
+  ],
+  "gas": [
+    {
+      "name": "Shell",
+      "distance": "0.3 mi",
+      "url": "https://www.google.com/maps/search/Shell+near+37.655%2C-77.61388889999999"
+    },
+    {
+      "name": "Kroger Fuel Center",
+      "distance": "0.6 mi",
+      "url": "https://www.google.com/maps/search/Kroger%20Fuel%20Center+near+37.655%2C-77.61388889999999"
+    },
+    {
+      "name": "Valero",
+      "distance": "0.7 mi",
+      "url": "https://www.google.com/maps/search/Valero+near+37.655%2C-77.61388889999999"
+    },
+    {
+      "name": "Exxon",
+      "distance": "1.5 mi",
+      "url": "https://www.google.com/maps/search/Exxon+near+37.655%2C-77.61388889999999"
+    }
+  ]
+}

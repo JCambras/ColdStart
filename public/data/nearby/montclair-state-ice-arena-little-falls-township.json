@@ -1,0 +1,199 @@
+{
+  "quick_bite": [
+    {
+      "name": "Jersey Mike's Subs",
+      "distance": "0.2 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Jersey%20Mike's%20Subs&query_place_id=ChIJzx0Fy7D_wokRFVlTgsTOYbg&center=40.864092199999995,-74.1958408"
+    },
+    {
+      "name": "Panda Express",
+      "distance": "0.4 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Panda%20Express&query_place_id=ChIJHepSkGv_wokRB8-6zYFnFHc&center=40.8597586,-74.1997454"
+    },
+    {
+      "name": "Happy Tenders",
+      "distance": "0.5 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Happy%20Tenders&query_place_id=ChIJyyxl18D_wokRZhc-o6IyyYc&center=40.872097,-74.1943153"
+    },
+    {
+      "name": "Taco Bell",
+      "distance": "1.2 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Taco%20Bell&query_place_id=ChIJzZksniP-wokR4Tq7MKHYkNA&center=40.8812402,-74.2089979"
+    },
+    {
+      "name": "SnowFox Sushi",
+      "distance": "1.3 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=SnowFox%20Sushi&query_place_id=ChIJkwGw2dv_wokRz86LWAhaf8I&center=40.8819458,-74.21217200000001"
+    }
+  ],
+  "coffee": [
+    {
+      "name": "Dunkin’ Donuts",
+      "distance": "0.2 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Dunkin%E2%80%99%20Donuts&query_place_id=ChIJy1Y5NAD_wokRQWlrYtjwU4k&center=40.8641741,-74.1952051"
+    },
+    {
+      "name": "University Hall Cafe",
+      "distance": "0.3 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=University%20Hall%20Cafe&query_place_id=ChIJASCRCsv_wokRjRyug5b7tFE&center=40.8620817,-74.1987238"
+    },
+    {
+      "name": "The Venture Cafe",
+      "distance": "0.3 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=The%20Venture%20Cafe&query_place_id=ChIJjcaemsv_wokRK1OiqyCx8F4&center=40.861600599999996,-74.1994799"
+    },
+    {
+      "name": "Saxbys at Montclair State University",
+      "distance": "0.3 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Saxbys%20at%20Montclair%20State%20University&query_place_id=ChIJfQ1dnDT_wokRJIhq35BOKgo&center=40.8610922,-74.1991307"
+    },
+    {
+      "name": "Dunkin’",
+      "distance": "0.4 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Dunkin%E2%80%99&query_place_id=ChIJ_UIYBAD_wokRwhszLnfawms&center=40.8597586,-74.1997454"
+    }
+  ],
+  "team_lunch": [
+    {
+      "name": "Farmer's Fridge",
+      "distance": "0.1 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Farmer's%20Fridge&query_place_id=ChIJoUdlLQ__wokRtLUiwv4tJCg&center=40.865328600000005,-74.1958219"
+    },
+    {
+      "name": "Sam's Place",
+      "distance": "0.2 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Sam's%20Place&query_place_id=ChIJM9gfgDX-wokRIpZC1qIrANc&center=40.8665586,-74.1949657"
+    },
+    {
+      "name": "Yella's",
+      "distance": "0.2 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Yella's&query_place_id=ChIJF38npJL_wokRQ1cwYDmLdvA&center=40.866407099999996,-74.19486979999999"
+    },
+    {
+      "name": "Chick-N-Bap (Montclair State University)",
+      "distance": "0.2 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Chick-N-Bap%20(Montclair%20State%20University)&query_place_id=ChIJeXaSBCr_wokRzICsm0GG8_4&center=40.8640405,-74.1955237"
+    },
+    {
+      "name": "Farmer's Fridge",
+      "distance": "0.2 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Farmer's%20Fridge&query_place_id=ChIJtYJreiD_wokRPCxagKiiDAw&center=40.8666637,-74.1942452"
+    },
+    {
+      "name": "The Student Center Cafe",
+      "distance": "0.2 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=The%20Student%20Center%20Cafe&query_place_id=ChIJs3cB4sr_wokRr1ziMrMWhUw&center=40.8626581,-74.1969512"
+    }
+  ],
+  "dinner": [
+    {
+      "name": "Farmer's Fridge",
+      "distance": "0.2 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Farmer's%20Fridge&query_place_id=ChIJnb5RfZX_wokRazqKdNGYIIk&center=40.862449999999995,-74.19803"
+    },
+    {
+      "name": "Dante's Restaurant",
+      "distance": "0.4 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Dante's%20Restaurant&query_place_id=ChIJS0Mm8qX_wokRUkPttLlb5Hs&center=40.8684198,-74.19069259999999"
+    },
+    {
+      "name": "Li's Hot Pot & BBQ",
+      "distance": "0.5 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Li's%20Hot%20Pot%20%26%20BBQ&query_place_id=ChIJl8ZQsfz_wokRHqSPQI3L5Lo&center=40.87238740000001,-74.195543"
+    },
+    {
+      "name": "Bagels Unlimited",
+      "distance": "1.3 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Bagels%20Unlimited&query_place_id=ChIJySjQ4yf-wokRZjcKZb17RXM&center=40.8769444,-74.2172222"
+    },
+    {
+      "name": "Better On A Bagel",
+      "distance": "1.4 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Better%20On%20A%20Bagel&query_place_id=ChIJf8HcNhf-wokRzbuGt3XMxx0&center=40.884860499999995,-74.20714720000001"
+    },
+    {
+      "name": "Bagel Station",
+      "distance": "1.5 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Bagel%20Station&query_place_id=ChIJa-G_G_j-wokRNl6CmqggfHo&center=40.869810699999995,-74.16997549999999"
+    }
+  ],
+  "bowling": [
+    {
+      "name": "Lucky Strike Wallington",
+      "distance": "4.8 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Lucky%20Strike%20Wallington&query_place_id=ChIJrYMcItr4wokRECDm9iYI2YQ&center=40.846732599999996,-74.1101612",
+      "isFar": true
+    }
+  ],
+  "arcade": [],
+  "movies": [
+    {
+      "name": "The Bellevue Theatre",
+      "distance": "1.8 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=The%20Bellevue%20Theatre&query_place_id=ChIJVUTP4yf_wokRsoMeQN7RFf8&center=40.841160099999996,-74.20892169999999"
+    },
+    {
+      "name": "AMC Wayne 14",
+      "distance": "3.1 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=AMC%20Wayne%2014&query_place_id=ChIJ_9i46LwBw4kRLXwXMfuBD5U&center=40.8881897,-74.2506269",
+      "isFar": true
+    },
+    {
+      "name": "The Clairidge",
+      "distance": "3.7 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=The%20Clairidge&query_place_id=ChIJbyEaNbOqw4kR2UsjjmjTthc&center=40.814344,-74.218509",
+      "isFar": true
+    }
+  ],
+  "fun": [
+    {
+      "name": "Splash Pad",
+      "distance": "2.0 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Splash%20Pad&query_place_id=ChIJlxBWXQD_wokRz_Fj5NjB9Pg&center=40.8931484,-74.18788169999999"
+    },
+    {
+      "name": "K1 Speed Totowa",
+      "distance": "2.4 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=K1%20Speed%20Totowa&query_place_id=ChIJY0oz_HcBw4kRGtgpLok1Fwg&center=40.8940013,-74.2242249"
+    },
+    {
+      "name": "Petar’s View",
+      "distance": "2.9 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Petar%E2%80%99s%20View&query_place_id=ChIJq-zvu9z9wokR2eGeEmpwEoc&center=40.9027846,-74.1734121"
+    },
+    {
+      "name": "Brighton Asylum Escape Room",
+      "distance": "2.9 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Brighton%20Asylum%20Escape%20Room&query_place_id=ChIJG1iw19H_wokRqjovttF9yIM&center=40.8587357,-74.14322469999999"
+    }
+  ],
+  "hotels": [
+    {
+      "name": "private bath laundry free Wi-Fi 10 miles west of Midtown Manhattan direct bus",
+      "distance": "0.8 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=private%20bath%20laundry%20free%20Wi-Fi%2010%20miles%20west%20of%20Midtown%20Manhattan%20direct%20bus&query_place_id=ChIJIz67Yjn-wokRkIhjJTxFO8w&center=40.8777237,-74.2002716"
+    }
+  ],
+  "gas": [
+    {
+      "name": "Delta",
+      "distance": "0.4 mi",
+      "url": "https://www.google.com/maps/search/Delta+near+40.8658857%2C-74.19814439999999"
+    },
+    {
+      "name": "Exxon",
+      "distance": "0.5 mi",
+      "url": "https://www.google.com/maps/search/Exxon+near+40.8658857%2C-74.19814439999999"
+    },
+    {
+      "name": "Mobil",
+      "distance": "0.6 mi",
+      "url": "https://www.google.com/maps/search/Mobil+near+40.8658857%2C-74.19814439999999"
+    },
+    {
+      "name": "Fuel 4",
+      "distance": "1.0 mi",
+      "url": "https://www.google.com/maps/search/Fuel%204+near+40.8658857%2C-74.19814439999999"
+    }
+  ]
+}

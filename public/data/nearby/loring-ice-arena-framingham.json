@@ -1,0 +1,185 @@
+{
+  "quick_bite": [
+    {
+      "name": "EL PIKANTE FOODS",
+      "distance": "0.5 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=EL%20PIKANTE%20FOODS&query_place_id=ChIJYT9b1jCI44kRT5S96bGC1Cs&center=42.2753702,-71.4209709"
+    },
+    {
+      "name": "Hot Dog da Marcia",
+      "distance": "0.6 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Hot%20Dog%20da%20Marcia&query_place_id=ChIJIw-ReQCJ44kR6Kw-3PXWihc&center=42.275751,-71.4180219"
+    },
+    {
+      "name": "Subway",
+      "distance": "0.8 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Subway&query_place_id=ChIJ15nY40yI44kR_ekA0cCX3Qw&center=42.2884363,-71.4281718"
+    },
+    {
+      "name": "Slaps Food Trailer",
+      "distance": "1.0 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Slaps%20Food%20Trailer&query_place_id=ChIJdSdIlEOJ44kRihCKUjyTq6c&center=42.2755132,-71.4112823"
+    },
+    {
+      "name": "Jersey Mike's Subs",
+      "distance": "1.6 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Jersey%20Mike's%20Subs&query_place_id=ChIJ8xjyvCqJ44kR3H5krxHpknQ&center=42.2984473,-71.4196393"
+    }
+  ],
+  "coffee": [
+    {
+      "name": "Franklin St Cafe",
+      "distance": "0.6 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Franklin%20St%20Cafe&query_place_id=ChIJJ3LKcpyJ44kRlyhzsiDPqRE&center=42.281121899999995,-71.42011149999999"
+    },
+    {
+      "name": "Padaria Brasil - Bakery, Buffet & Pizzeria",
+      "distance": "0.7 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Padaria%20Brasil%20-%20Bakery%2C%20Buffet%20%26%20Pizzeria&query_place_id=ChIJZ2DkEjiI44kR9NcJ4lhiKqU&center=42.2794794,-71.41619829999999"
+    }
+  ],
+  "team_lunch": [
+    {
+      "name": "Miranda Bread",
+      "distance": "0.6 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Miranda%20Bread&query_place_id=ChIJr7vcRDeI44kRd6FfN_fm3eA&center=42.2759746,-71.4185328"
+    },
+    {
+      "name": "lunch parck",
+      "distance": "0.6 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=lunch%20parck&query_place_id=ChIJ8Y1DBwCJ44kRJMDaVl5_neo&center=42.279159799999995,-71.4177674"
+    },
+    {
+      "name": "La Perla Bakery",
+      "distance": "0.7 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=La%20Perla%20Bakery&query_place_id=ChIJhyjUXvmJ44kRPWbJgLrXZYA&center=42.2761718,-71.41641489999999"
+    },
+    {
+      "name": "Reis bakery",
+      "distance": "1.4 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Reis%20bakery&query_place_id=ChIJJbSHIKWJ44kRtdrR9gg-RQU&center=42.296105499999996,-71.42797949999999"
+    },
+    {
+      "name": "Lanche steeyk cheese",
+      "distance": "1.6 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Lanche%20steeyk%20cheese&query_place_id=ChIJsfQBarKJ44kRpBt-5seTHfQ&center=42.298403,-71.418673"
+    },
+    {
+      "name": "Baked by Jenny",
+      "distance": "1.8 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Baked%20by%20Jenny&query_place_id=ChIJwX48WAx35IkR0A8C-eJDm9w&center=42.251799999999996,-71.43934999999999"
+    }
+  ],
+  "dinner": [
+    {
+      "name": "Guanachapis express",
+      "distance": "0.1 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Guanachapis%20express&query_place_id=ChIJ58G6lj-J44kR6htVZQ9I_A4&center=42.2755125,-71.42858640000001"
+    },
+    {
+      "name": "Lloyd's Diner",
+      "distance": "0.2 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Lloyd's%20Diner&query_place_id=ChIJQc8v4syJ44kROU1N1qK-ZSA&center=42.2753386,-71.4330988"
+    },
+    {
+      "name": "Framingham Baking Co",
+      "distance": "0.3 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Framingham%20Baking%20Co&query_place_id=ChIJv8lmg82J44kRiA1VwwlD2O4&center=42.273346599999996,-71.43330619999999"
+    },
+    {
+      "name": "Halal grill kabab & fried chicken",
+      "distance": "0.3 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Halal%20grill%20kabab%20%26%20fried%20chicken&query_place_id=ChIJG2jQ0-6J44kRuKuRPdM2qhw&center=42.2741174,-71.4250721"
+    },
+    {
+      "name": "El Sabor Salvadoreño Restaurant",
+      "distance": "0.3 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=El%20Sabor%20Salvadore%C3%B1o%20Restaurant&query_place_id=ChIJH_xZxbuJ44kRygzsJ9Pe7sk&center=42.271895,-71.42903869999999"
+    },
+    {
+      "name": "The Halal Fusion",
+      "distance": "0.3 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=The%20Halal%20Fusion&query_place_id=ChIJT0E81dyJ44kRrf7Z9ij-QXU&center=42.2735033,-71.424927"
+    }
+  ],
+  "bowling": [],
+  "arcade": [],
+  "movies": [
+    {
+      "name": "IMAX 3D Theater at Jordan's Furniture Natick",
+      "distance": "2.1 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=IMAX%203D%20Theater%20at%20Jordan's%20Furniture%20Natick&query_place_id=ChIJk_MsfWKI44kRfINNKB7umBE&center=42.2949905,-71.39796439999999"
+    },
+    {
+      "name": "Natick Sunbrella IMAX 3D",
+      "distance": "2.1 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Natick%20Sunbrella%20IMAX%203D&query_place_id=ChIJObs7eqaJ44kRKvKsguL7ORM&center=42.294984799999995,-71.3974428"
+    },
+    {
+      "name": "AMC DINE-IN Framingham 16",
+      "distance": "2.7 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=AMC%20DINE-IN%20Framingham%2016&query_place_id=ChIJ8YIs3YSI44kRMH8ZQyVzmhs&center=42.3032403,-71.3909393"
+    }
+  ],
+  "fun": [
+    {
+      "name": "Monkey Island",
+      "distance": "0.7 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Monkey%20Island&query_place_id=ChIJxZl-JgCJ44kR0BYjyKwGDtM&center=42.2668239,-71.4289807"
+    },
+    {
+      "name": "Mcfarland's Treasure",
+      "distance": "1.9 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Mcfarland's%20Treasure&query_place_id=ChIJ7SdMqz135IkRSSwzMb_os4I&center=42.249440899999996,-71.4193159"
+    },
+    {
+      "name": "Henry Wilson Shoe Shop",
+      "distance": "2.5 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Henry%20Wilson%20Shoe%20Shop&query_place_id=ChIJrWa5ItiH44kRcb65rE0_yJM&center=42.282702300000004,-71.3808818"
+    },
+    {
+      "name": "Immersive Gamebox - Natick Mall",
+      "distance": "3.0 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Immersive%20Gamebox%20-%20Natick%20Mall&query_place_id=ChIJQ0UT8E2J44kRd9cc_TAJVRA&center=42.3008357,-71.3823792"
+    }
+  ],
+  "hotels": [
+    {
+      "name": "Old Colony Hotel, Inc.",
+      "distance": "0.6 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Old%20Colony%20Hotel%2C%20Inc.&query_place_id=ChIJL0TofTeI44kRVriXRef2hac&center=42.277238499999996,-71.4179765"
+    },
+    {
+      "name": "Balanced Solutions Vacation Club",
+      "distance": "0.7 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Balanced%20Solutions%20Vacation%20Club&query_place_id=ChIJze9g0kqJ44kR_b1CB5ym1Dw&center=42.2784323,-71.41734319999999"
+    },
+    {
+      "name": "Bruno's House",
+      "distance": "0.8 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Bruno's%20House&query_place_id=ChIJYTggkjiI44kRkEJnqSCw5Eo&center=42.278258799999996,-71.41421629999999"
+    }
+  ],
+  "gas": [
+    {
+      "name": "Binzeen",
+      "distance": "0.3 mi",
+      "url": "https://www.google.com/maps/search/Binzeen+near+42.2763357%2C-71.4298436"
+    },
+    {
+      "name": "Al Prime",
+      "distance": "0.3 mi",
+      "url": "https://www.google.com/maps/search/Al%20Prime+near+42.2763357%2C-71.4298436"
+    },
+    {
+      "name": "Union Avenue Gas Station & Auto Service",
+      "distance": "0.7 mi",
+      "url": "https://www.google.com/maps/search/Union%20Avenue%20Gas%20Station%20%26%20Auto%20Service+near+42.2763357%2C-71.4298436"
+    },
+    {
+      "name": "Sunoco",
+      "distance": "0.7 mi",
+      "url": "https://www.google.com/maps/search/Sunoco+near+42.2763357%2C-71.4298436"
+    }
+  ]
+}

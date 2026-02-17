@@ -1,0 +1,211 @@
+{
+  "quick_bite": [
+    {
+      "name": "Jimmy John's",
+      "distance": "0.3 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Jimmy%20John's&query_place_id=ChIJIwmJdtS_CIgRZ_4ktV6GizU&center=42.268834399999996,-89.08958899999999"
+    },
+    {
+      "name": "Uncle Nick's",
+      "distance": "0.5 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Uncle%20Nick's&query_place_id=ChIJWWmxg86_CIgRoO4zwy9VE4o&center=42.2670719,-89.08247709999999"
+    },
+    {
+      "name": "Wendy's",
+      "distance": "0.6 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Wendy's&query_place_id=ChIJpScH4su_CIgRkSMCPRK9bKs&center=42.2671478,-89.0791749"
+    },
+    {
+      "name": "Subway",
+      "distance": "0.6 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Subway&query_place_id=ChIJbxDk3su_CIgRM7o5claNGOM&center=42.2671152,-89.0785662"
+    },
+    {
+      "name": "Burger King",
+      "distance": "0.6 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Burger%20King&query_place_id=ChIJxVTofcm_CIgRc-PEI-nqCw0&center=42.2672641,-89.0779719"
+    },
+    {
+      "name": "Taco Bell",
+      "distance": "1.2 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Taco%20Bell&query_place_id=ChIJZZG1iouVCIgR9WHrxUNKLw8&center=42.2881566,-89.0990791"
+    }
+  ],
+  "coffee": [
+    {
+      "name": "Crust & Crumbles",
+      "distance": "0.2 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Crust%20%26%20Crumbles&query_place_id=ChIJgWM0V1-_CIgRrOzcolbf_kM&center=42.2694549,-89.0898842"
+    },
+    {
+      "name": "Velvet Robot Coffee Lab",
+      "distance": "0.2 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Velvet%20Robot%20Coffee%20Lab&query_place_id=ChIJYY9nGhW_CIgRnKo2S-ufjhY&center=42.2693863,-89.0897427"
+    },
+    {
+      "name": "Inzombia Coffee",
+      "distance": "0.3 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Inzombia%20Coffee&query_place_id=ChIJtcXOCRa_CIgROBywPeKmYMA&center=42.2688311,-89.089693"
+    },
+    {
+      "name": "RAD Coffee Club",
+      "distance": "0.3 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=RAD%20Coffee%20Club&query_place_id=ChIJu3c7E3w91CwRPyJ0t_FT_4Q&center=42.2683421,-89.0884856"
+    },
+    {
+      "name": "Wired Café",
+      "distance": "0.3 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Wired%20Caf%C3%A9&query_place_id=ChIJ754owdO_CIgRBrCo5iH78wo&center=42.268108399999996,-89.08818819999999"
+    }
+  ],
+  "team_lunch": [
+    {
+      "name": "Cahoots Rockford, LLC",
+      "distance": "0.1 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Cahoots%20Rockford%2C%20LLC&query_place_id=ChIJSYBAVjO_CIgRXqgkKn6FhbY&center=42.27283,-89.08609899999999"
+    },
+    {
+      "name": "G and G Latin Cusine and Bar",
+      "distance": "0.3 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=G%20and%20G%20Latin%20Cusine%20and%20Bar&query_place_id=ChIJx5iH1Ea_CIgRmxAXDnTttfc&center=42.2687995,-89.09033079999999"
+    },
+    {
+      "name": "District Bar and Grill",
+      "distance": "0.3 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=District%20Bar%20and%20Grill&query_place_id=ChIJS32iXtW_CIgRxZGQc5sv1Hs&center=42.271307300000004,-89.0939854"
+    },
+    {
+      "name": "Prarie St Brwwery",
+      "distance": "0.3 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Prarie%20St%20Brwwery&query_place_id=ChIJ_71NTaG_CIgRrmU4xqtFGFc&center=42.271156600000005,-89.0939777"
+    },
+    {
+      "name": "rsgS",
+      "distance": "0.3 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=rsgS&query_place_id=ChIJsX6-LQC_CIgRG_AAhG42cfU&center=42.2676758,-89.0878152"
+    },
+    {
+      "name": "Olivieri's Cookies",
+      "distance": "0.8 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Olivieri's%20Cookies&query_place_id=ChIJ_YRXYUe_CIgR8i5CPLojNu8&center=42.2618903,-89.09217420000002"
+    }
+  ],
+  "dinner": [
+    {
+      "name": "Prairie Street Brewing Co.",
+      "distance": "0.1 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Prairie%20Street%20Brewing%20Co.&query_place_id=ChIJz78I3Cy-CIgR3b95-xrGKho&center=42.273028599999996,-89.0875677"
+    },
+    {
+      "name": "Bop Bop Korean BBQ & Rice Bowl",
+      "distance": "0.2 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Bop%20Bop%20Korean%20BBQ%20%26%20Rice%20Bowl&query_place_id=ChIJiTQr45e_CIgRzwKNfZ6ZRrg&center=42.2693863,-89.0897427"
+    },
+    {
+      "name": "Quixotic Bakery",
+      "distance": "0.2 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Quixotic%20Bakery&query_place_id=ChIJGQHeMCS_CIgRAIhUSIaLcfY&center=42.2693863,-89.0897427"
+    },
+    {
+      "name": "Disco Chicken",
+      "distance": "0.3 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Disco%20Chicken&query_place_id=ChIJtUgrQbS_CIgR2KVZYk2UBA4&center=42.2693225,-89.090415"
+    },
+    {
+      "name": "Honey Boy's BBQ & Catering",
+      "distance": "0.3 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Honey%20Boy's%20BBQ%20%26%20Catering&query_place_id=ChIJfUdCayDZZysRe8d0w61fveY&center=42.2690403,-89.0896798"
+    },
+    {
+      "name": "Woodfire Rockford",
+      "distance": "0.3 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Woodfire%20Rockford&query_place_id=ChIJG-dDwNO_CIgRvDsI66VaBdg&center=42.2682365,-89.0883151"
+    }
+  ],
+  "bowling": [
+    {
+      "name": "Rissa's Lanes",
+      "distance": "2.5 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Rissa's%20Lanes&query_place_id=ChIJ-aDRkEqVCIgRT7h4wULHRIs&center=42.3016611,-89.1154763"
+    },
+    {
+      "name": "Don Carter Lanes",
+      "distance": "2.7 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Don%20Carter%20Lanes&query_place_id=ChIJw7HzciK_CIgRxfXLfQ5wGvw&center=42.2647948,-89.03592789999999"
+    },
+    {
+      "name": "Park Lanes Bowl",
+      "distance": "2.9 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Park%20Lanes%20Bowl&query_place_id=ChIJIyvp736-CIgRZ-fQeooz4rY&center=42.3081283,-89.0591792"
+    }
+  ],
+  "arcade": [],
+  "movies": [
+    {
+      "name": "Rockford Film Project Strfrnt",
+      "distance": "0.3 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Rockford%20Film%20Project%20Strfrnt&query_place_id=ChIJsQ22Aiy-CIgRJxW1oIwwPk8&center=42.276936299999996,-89.08899070000001"
+    }
+  ],
+  "fun": [
+    {
+      "name": "Arboretum",
+      "distance": "0.3 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Arboretum&query_place_id=ChIJdYvPDAC_CIgRI9ZNk0fq2wU&center=42.2711311,-89.0939952"
+    },
+    {
+      "name": "Rockford Schriftzug",
+      "distance": "0.4 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Rockford%20Schriftzug&query_place_id=ChIJsyVOviOVCIgRe_Mox5ejARs&center=42.269020999999995,-89.0949918"
+    },
+    {
+      "name": "Big Hoop",
+      "distance": "0.5 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Big%20Hoop&query_place_id=ChIJybEZx7C_CIgRvFLe6bxCaDE&center=42.2666342,-89.0941848"
+    },
+    {
+      "name": "Brass Ring Amusements",
+      "distance": "2.7 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Brass%20Ring%20Amusements&query_place_id=ChIJw7HzciK_CIgROBhfuOoMA4g&center=42.2648036,-89.03595779999999"
+    }
+  ],
+  "hotels": [
+    {
+      "name": "COLUMBIA HOTEL",
+      "distance": "0.3 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=COLUMBIA%20HOTEL&query_place_id=ChIJbxIfd9S_CIgRj71ShqX6Ef0&center=42.2688755,-89.0897759"
+    },
+    {
+      "name": "Hotels or rental property",
+      "distance": "0.3 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Hotels%20or%20rental%20property&query_place_id=ChIJ8XMpdPC_CIgRtiMzHTJuhcc&center=42.271156600000005,-89.0939777"
+    },
+    {
+      "name": "City Plaza Suites",
+      "distance": "0.4 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=City%20Plaza%20Suites&query_place_id=ChIJiWcIIyq-CIgRoB44bZgRXyg&center=42.2765888,-89.09270839999999"
+    },
+    {
+      "name": "Lafayette Hotel",
+      "distance": "0.4 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Lafayette%20Hotel&query_place_id=ChIJGTbJF4CVCIgRMf9Qutw-cls&center=42.2729383,-89.0953509"
+    }
+  ],
+  "gas": [
+    {
+      "name": "Mobil",
+      "distance": "0.3 mi",
+      "url": "https://www.google.com/maps/search/Mobil+near+42.2724628%2C-89.0879655"
+    },
+    {
+      "name": "Circle K | Gas Station",
+      "distance": "0.5 mi",
+      "url": "https://www.google.com/maps/search/Circle%20K%20%7C%20Gas%20Station+near+42.2724628%2C-89.0879655"
+    },
+    {
+      "name": "City Fuels",
+      "distance": "0.7 mi",
+      "url": "https://www.google.com/maps/search/City%20Fuels+near+42.2724628%2C-89.0879655"
+    }
+  ]
+}

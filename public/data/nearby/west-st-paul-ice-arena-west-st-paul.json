@@ -1,0 +1,221 @@
+{
+  "quick_bite": [
+    {
+      "name": "Denny's",
+      "distance": "0.4 mi",
+      "url": "https://www.google.com/maps/search/Denny's+near+44.9025853%2C-93.0875159"
+    },
+    {
+      "name": "KFC",
+      "distance": "0.4 mi",
+      "url": "https://www.google.com/maps/search/KFC+near+44.9025853%2C-93.0875159"
+    },
+    {
+      "name": "Pollo Campero St Paul",
+      "distance": "0.4 mi",
+      "url": "https://www.google.com/maps/search/Pollo%20Campero%20St%20Paul+near+44.9025853%2C-93.0875159"
+    },
+    {
+      "name": "Pineda Tacos Plus 2",
+      "distance": "0.5 mi",
+      "url": "https://www.google.com/maps/search/Pineda%20Tacos%20Plus%202+near+44.9025853%2C-93.0875159"
+    },
+    {
+      "name": "Noodles and Company",
+      "distance": "0.5 mi",
+      "url": "https://www.google.com/maps/search/Noodles%20and%20Company+near+44.9025853%2C-93.0875159"
+    },
+    {
+      "name": "The Fireside Lounge Bar & Restaurant",
+      "distance": "0.5 mi",
+      "url": "https://www.google.com/maps/search/The%20Fireside%20Lounge%20Bar%20%26%20Restaurant+near+44.9025853%2C-93.0875159"
+    },
+    {
+      "name": "Jimmy John's",
+      "distance": "0.5 mi",
+      "url": "https://www.google.com/maps/search/Jimmy%20John's+near+44.9025853%2C-93.0875159"
+    }
+  ],
+  "coffee": [
+    {
+      "name": "Starbucks Coffee Company",
+      "distance": "0.4 mi",
+      "url": "https://www.google.com/maps/search/Starbucks%20Coffee%20Company+near+44.9025853%2C-93.0875159"
+    },
+    {
+      "name": "McDonald's",
+      "distance": "0.5 mi",
+      "url": "https://www.google.com/maps/search/McDonald's+near+44.9025853%2C-93.0875159"
+    }
+  ],
+  "team_lunch": [
+    {
+      "name": "The Meltdown",
+      "distance": "0.4 mi",
+      "url": "https://www.google.com/maps/search/The%20Meltdown+near+44.9025853%2C-93.0875159"
+    },
+    {
+      "name": "The Burger Den",
+      "distance": "0.4 mi",
+      "url": "https://www.google.com/maps/search/The%20Burger%20Den+near+44.9025853%2C-93.0875159"
+    },
+    {
+      "name": "Wingstop",
+      "distance": "0.5 mi",
+      "url": "https://www.google.com/maps/search/Wingstop+near+44.9025853%2C-93.0875159"
+    }
+  ],
+  "dinner": [
+    {
+      "name": "Grande Sunrise Mexican Restaurant",
+      "distance": "0.3 mi",
+      "url": "https://www.google.com/maps/search/Grande%20Sunrise%20Mexican%20Restaurant+near+44.9025853%2C-93.0875159"
+    },
+    {
+      "name": "Hawaii Poke Bowl",
+      "distance": "0.3 mi",
+      "url": "https://www.google.com/maps/search/Hawaii%20Poke%20Bowl+near+44.9025853%2C-93.0875159"
+    },
+    {
+      "name": "El Taquito Taco Shop Inc",
+      "distance": "0.4 mi",
+      "url": "https://www.google.com/maps/search/El%20Taquito%20Taco%20Shop%20Inc+near+44.9025853%2C-93.0875159"
+    },
+    {
+      "name": "Carbone's Pizzeria Bar & Grill",
+      "distance": "0.4 mi",
+      "url": "https://www.google.com/maps/search/Carbone's%20Pizzeria%20Bar%20%26%20Grill+near+44.9025853%2C-93.0875159"
+    },
+    {
+      "name": "Thai Delicious",
+      "distance": "0.4 mi",
+      "url": "https://www.google.com/maps/search/Thai%20Delicious+near+44.9025853%2C-93.0875159"
+    }
+  ],
+  "bowling": [
+    {
+      "name": "Concord Lanes",
+      "distance": "2.5 mi",
+      "url": "https://www.google.com/maps/search/Concord%20Lanes+near+44.9025853%2C-93.0875159"
+    },
+    {
+      "name": "Ran-Ham Bowling Center",
+      "distance": "3.8 mi",
+      "url": "https://www.google.com/maps/search/Ran-Ham%20Bowling%20Center+near+44.9025853%2C-93.0875159",
+      "isFar": true
+    },
+    {
+      "name": "Drkula's 32 Bowl",
+      "distance": "4.1 mi",
+      "url": "https://www.google.com/maps/search/Drkula's%2032%20Bowl+near+44.9025853%2C-93.0875159",
+      "isFar": true
+    }
+  ],
+  "arcade": [],
+  "movies": [
+    {
+      "name": "AMC Inver Grove 16",
+      "distance": "2.8 mi",
+      "url": "https://www.google.com/maps/search/AMC%20Inver%20Grove%2016+near+44.9025853%2C-93.0875159"
+    },
+    {
+      "name": "Mann Theatres",
+      "distance": "5.0 mi",
+      "url": "https://www.google.com/maps/search/Mann%20Theatres+near+44.9025853%2C-93.0875159",
+      "isFar": true
+    }
+  ],
+  "fun": [
+    {
+      "name": "Splatter Paints",
+      "distance": "0.5 mi",
+      "url": "https://www.google.com/maps/search/Splatter%20Paints+near+44.9025853%2C-93.0875159"
+    },
+    {
+      "name": "Nowhere Entertainment",
+      "distance": "2.1 mi",
+      "url": "https://www.google.com/maps/search/Nowhere%20Entertainment+near+44.9025853%2C-93.0875159"
+    },
+    {
+      "name": "The Lodge of Lazarus Crowe",
+      "distance": "2.6 mi",
+      "url": "https://www.google.com/maps/search/The%20Lodge%20of%20Lazarus%20Crowe+near+44.9025853%2C-93.0875159"
+    },
+    {
+      "name": "Trapped Puzzle Rooms",
+      "distance": "4.2 mi",
+      "url": "https://www.google.com/maps/search/Trapped%20Puzzle%20Rooms+near+44.9025853%2C-93.0875159",
+      "isFar": true
+    },
+    {
+      "name": "Great River Water Park",
+      "distance": "4.3 mi",
+      "url": "https://www.google.com/maps/search/Great%20River%20Water%20Park+near+44.9025853%2C-93.0875159",
+      "isFar": true
+    }
+  ],
+  "hotels": [
+    {
+      "name": "BRAND NEW BUILD! gourmet kitchen, King bed, 75” Smart TV, close to MSP, St Paul",
+      "distance": "0.8 mi",
+      "url": "https://www.google.com/maps/search/BRAND%20NEW%20BUILD!%20gourmet%20kitchen%2C%20King%20bed%2C%2075%E2%80%9D%20Smart%20TV%2C%20close%20to%20MSP%2C%20St%20Paul+near+44.9025853%2C-93.0875159"
+    },
+    {
+      "name": "St. Paul Studio Unit - 2 guests",
+      "distance": "1.1 mi",
+      "url": "https://www.google.com/maps/search/St.%20Paul%20Studio%20Unit%20-%202%20guests+near+44.9025853%2C-93.0875159"
+    },
+    {
+      "name": "King queen beds with spacious private backyard!",
+      "distance": "1.1 mi",
+      "url": "https://www.google.com/maps/search/King%20queen%20beds%20with%20spacious%20private%20backyard!+near+44.9025853%2C-93.0875159"
+    },
+    {
+      "name": "Holiday Special - Cozy farmhouse in the heart of West St. Paul.",
+      "distance": "1.1 mi",
+      "url": "https://www.google.com/maps/search/Holiday%20Special%20-%20Cozy%20farmhouse%20in%20the%20heart%20of%20West%20St.%20Paul.+near+44.9025853%2C-93.0875159"
+    },
+    {
+      "name": "Holiday Special - Cozy farmhouse in the heart of West St. Paul.",
+      "distance": "1.1 mi",
+      "url": "https://www.google.com/maps/search/Holiday%20Special%20-%20Cozy%20farmhouse%20in%20the%20heart%20of%20West%20St.%20Paul.+near+44.9025853%2C-93.0875159"
+    },
+    {
+      "name": "Holiday Special - Cozy farmhouse in the heart of West St. Paul.",
+      "distance": "1.1 mi",
+      "url": "https://www.google.com/maps/search/Holiday%20Special%20-%20Cozy%20farmhouse%20in%20the%20heart%20of%20West%20St.%20Paul.+near+44.9025853%2C-93.0875159"
+    },
+    {
+      "name": "Newly renovated 3 bedroom, 2 bathroom home (8.5 miles from airport)",
+      "distance": "1.2 mi",
+      "url": "https://www.google.com/maps/search/Newly%20renovated%203%20bedroom%2C%202%20bathroom%20home%20(8.5%20miles%20from%20airport)+near+44.9025853%2C-93.0875159"
+    }
+  ],
+  "gas": [
+    {
+      "name": "Speedway",
+      "distance": "0.4 mi",
+      "url": "https://www.google.com/maps/search/Speedway+near+44.9025853%2C-93.0875159"
+    },
+    {
+      "name": "Marathon Gas",
+      "distance": "0.5 mi",
+      "url": "https://www.google.com/maps/search/Marathon%20Gas+near+44.9025853%2C-93.0875159"
+    },
+    {
+      "name": "Amoco",
+      "distance": "0.5 mi",
+      "url": "https://www.google.com/maps/search/Amoco+near+44.9025853%2C-93.0875159"
+    },
+    {
+      "name": "Pace Gas Station",
+      "distance": "0.5 mi",
+      "url": "https://www.google.com/maps/search/Pace%20Gas%20Station+near+44.9025853%2C-93.0875159"
+    },
+    {
+      "name": "bp",
+      "distance": "0.9 mi",
+      "url": "https://www.google.com/maps/search/bp+near+44.9025853%2C-93.0875159"
+    }
+  ]
+}

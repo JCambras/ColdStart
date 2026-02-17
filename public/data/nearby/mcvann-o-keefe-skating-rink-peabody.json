@@ -1,0 +1,209 @@
+{
+  "quick_bite": [
+    {
+      "name": "Londi's Roast Beef And Pizza",
+      "distance": "0.1 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Londi's%20Roast%20Beef%20And%20Pizza&query_place_id=ChIJPasbYWoS44kR-wdIMFfPSuw&center=42.5449576,-70.9797219"
+    },
+    {
+      "name": "Jade's Restaurant",
+      "distance": "0.1 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Jade's%20Restaurant&query_place_id=ChIJl2-QTRUS44kRvpYaFH7ycnk&center=42.5475479,-70.9792456"
+    },
+    {
+      "name": "Subway",
+      "distance": "0.8 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Subway&query_place_id=ChIJQVFq2zoS44kR-YLbhSw1PDg&center=42.5543568,-70.9681129"
+    },
+    {
+      "name": "Mayu Sushi",
+      "distance": "1.2 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Mayu%20Sushi&query_place_id=ChIJE8bKVyAT44kRC6-PzE3yEhk&center=42.5591455,-70.9634973"
+    },
+    {
+      "name": "Wendy's",
+      "distance": "1.5 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Wendy's&query_place_id=ChIJE0dKVoYS44kRJhGEF064awY&center=42.5272193,-70.9936152"
+    }
+  ],
+  "coffee": [
+    {
+      "name": "Perfecto's Caffe",
+      "distance": "0.1 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Perfecto's%20Caffe&query_place_id=ChIJUZDTY2oS44kR1wTfkC9ZqTA&center=42.5451419,-70.98018019999999"
+    },
+    {
+      "name": "Dunkin'",
+      "distance": "0.1 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Dunkin'&query_place_id=ChIJPTjN-2oS44kRb56tc5CWoz8&center=42.5457044,-70.9808706"
+    },
+    {
+      "name": "Clean Eatz",
+      "distance": "0.9 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Clean%20Eatz&query_place_id=ChIJt7-2Lk0T44kRTlvbHLruNk4&center=42.556994599999996,-70.9702136"
+    },
+    {
+      "name": "Honey Dew Donuts",
+      "distance": "0.9 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Honey%20Dew%20Donuts&query_place_id=ChIJObVc8CQS44kRP0xHI8mh-9s&center=42.5575197,-70.9705271"
+    },
+    {
+      "name": "Honey Dew Donuts",
+      "distance": "0.9 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Honey%20Dew%20Donuts&query_place_id=ChIJW7h-rWQS44kR3znlcSavY8Y&center=42.5354944,-70.99013889999999"
+    }
+  ],
+  "team_lunch": [
+    {
+      "name": "Giovanni's House of Pizza & Roast Beef",
+      "distance": "0.1 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Giovanni's%20House%20of%20Pizza%20%26%20Roast%20Beef&query_place_id=ChIJUZDTY2oS44kR28eQjnCeycM&center=42.545421,-70.980628"
+    },
+    {
+      "name": "The Smart Cookie by Stingo's Sweets LLC",
+      "distance": "1.2 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=The%20Smart%20Cookie%20by%20Stingo's%20Sweets%20LLC&query_place_id=ChIJC4SYdIIT44kRLsyfRTl4RWY&center=42.5591455,-70.9634973"
+    }
+  ],
+  "dinner": [
+    {
+      "name": "De Mi Cocina",
+      "distance": "0.1 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=De%20Mi%20Cocina&query_place_id=ChIJK9l9Q8UT44kR3Zw9V5dY0OQ&center=42.5463635,-70.9791099"
+    },
+    {
+      "name": "J Cakes",
+      "distance": "0.1 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=J%20Cakes&query_place_id=ChIJLSt-5YET44kRlxKjNTMmg_0&center=42.5463635,-70.9791099"
+    },
+    {
+      "name": "Toscana's Ristorante",
+      "distance": "0.1 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Toscana's%20Ristorante&query_place_id=ChIJvzTvjWoS44kRsl6AKHS2oIk&center=42.5457511,-70.979975"
+    },
+    {
+      "name": "CRACK'D Kitchen & Coffee",
+      "distance": "0.1 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=CRACK'D%20Kitchen%20%26%20Coffee&query_place_id=ChIJ4_h6XGsT44kRvgCaCX7TNrw&center=42.5466671,-70.9805164"
+    },
+    {
+      "name": "Ziggy & Sons' Donuts",
+      "distance": "0.2 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Ziggy%20%26%20Sons'%20Donuts&query_place_id=ChIJZZ1uFwAT44kRR6hIrpFNfcM&center=42.54803820000001,-70.980127"
+    }
+  ],
+  "bowling": [
+    {
+      "name": "Gametime Lanes & Entertainment",
+      "distance": "1.7 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Gametime%20Lanes%20%26%20Entertainment&query_place_id=ChIJI7gLNf0T44kRtCes574f9kI&center=42.5414196,-70.9445901"
+    },
+    {
+      "name": "Metro Bowl",
+      "distance": "2.9 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Metro%20Bowl&query_place_id=ChIJyVrjR58T44kRQ4WWhh1fDrg&center=42.52404,-70.929493"
+    },
+    {
+      "name": "Sunnyside Bowladrome Inc",
+      "distance": "3.0 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Sunnyside%20Bowladrome%20Inc&query_place_id=ChIJext8IO4T44kRVH7aJhOjV4k&center=42.5430135,-70.9191318",
+      "isFar": true
+    }
+  ],
+  "arcade": [],
+  "movies": [
+    {
+      "name": "AMC Liberty Tree Mall 20",
+      "distance": "2.0 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=AMC%20Liberty%20Tree%20Mall%2020&query_place_id=ChIJe-DeqNsT44kRERxFxSKWaxI&center=42.5527231,-70.9410852"
+    },
+    {
+      "name": "Cinema Salem",
+      "distance": "4.6 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Cinema%20Salem&query_place_id=ChIJF9fRaWUU44kRS9VAuN8nudQ&center=42.522611,-70.893118",
+      "isFar": true
+    },
+    {
+      "name": "Side door for Cinema Salem",
+      "distance": "4.7 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Side%20door%20for%20Cinema%20Salem&query_place_id=ChIJA7ARJwAV44kRs6Gs55-Tboc&center=42.5224815,-70.8925131",
+      "isFar": true
+    }
+  ],
+  "fun": [
+    {
+      "name": "Immersive Gamebox - Northshore Mall, Massachusetts",
+      "distance": "1.7 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Immersive%20Gamebox%20-%20Northshore%20Mall%2C%20Massachusetts&query_place_id=ChIJR0wqsrIT44kRQKxWw_7XA_A&center=42.5414196,-70.9445901"
+    },
+    {
+      "name": "Slime Zone",
+      "distance": "2.0 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Slime%20Zone&query_place_id=ChIJ1T6SKL0T44kR2tVmUltL1Qg&center=42.552847899999996,-70.9401907"
+    },
+    {
+      "name": "Sky Zone Trampoline Park",
+      "distance": "2.0 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Sky%20Zone%20Trampoline%20Park&query_place_id=ChIJ5Y5R-NoT44kRwfgHOeTxI-E&center=42.554406199999995,-70.9402621"
+    },
+    {
+      "name": "Endicott Park Lake",
+      "distance": "2.1 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Endicott%20Park%20Lake&query_place_id=ChIJ2UWDcAAR44kRc5f0qtGXsCg&center=42.5747657,-70.9663843"
+    }
+  ],
+  "hotels": [
+    {
+      "name": "Red Hill Cooperative",
+      "distance": "0.5 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Red%20Hill%20Cooperative&query_place_id=ChIJP1Wb8IQT44kRNoDhfj2-Kqk&center=42.552379599999995,-70.9804382"
+    },
+    {
+      "name": "Newbury Street Inn",
+      "distance": "0.6 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Newbury%20Street%20Inn&query_place_id=ChIJ19a8C28S44kRf115ZXaphuE&center=42.5407807,-70.98744310000001"
+    },
+    {
+      "name": "Whispering Meadows Co-op",
+      "distance": "0.7 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Whispering%20Meadows%20Co-op&query_place_id=ChIJd0lITRYS44kRzspLXxJ0Kfo&center=42.5553051,-70.9802775"
+    },
+    {
+      "name": "Family Estates",
+      "distance": "0.7 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Family%20Estates&query_place_id=ChIJ0cb66coT44kRGV1EaiDFdtA&center=42.538894299999995,-70.9893846"
+    },
+    {
+      "name": "Residence Inn by Marriott Boston North Shore/Danvers",
+      "distance": "0.9 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Residence%20Inn%20by%20Marriott%20Boston%20North%20Shore%2FDanvers&query_place_id=ChIJOZyGYCIS44kRbX8_uzVpggc&center=42.559359,-70.9768721"
+    },
+    {
+      "name": "Plaza Hotel Peabody Massachusetts",
+      "distance": "1.0 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Plaza%20Hotel%20Peabody%20Massachusetts&query_place_id=ChIJNer_N2MS44kRjbSz7-dNMXs&center=42.5338029,-70.98936920000001"
+    }
+  ],
+  "gas": [
+    {
+      "name": "Speedway",
+      "distance": "0.2 mi",
+      "url": "https://www.google.com/maps/search/Speedway+near+42.545880499999996%2C-70.9783633"
+    },
+    {
+      "name": "Sunoco",
+      "distance": "0.4 mi",
+      "url": "https://www.google.com/maps/search/Sunoco+near+42.545880499999996%2C-70.9783633"
+    },
+    {
+      "name": "Gaeta's Gulf, Route 1 North",
+      "distance": "0.7 mi",
+      "url": "https://www.google.com/maps/search/Gaeta's%20Gulf%2C%20Route%201%20North+near+42.545880499999996%2C-70.9783633"
+    },
+    {
+      "name": "Costco Gas Station",
+      "distance": "0.7 mi",
+      "url": "https://www.google.com/maps/search/Costco%20Gas%20Station+near+42.545880499999996%2C-70.9783633"
+    }
+  ]
+}

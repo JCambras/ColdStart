@@ -1,0 +1,223 @@
+{
+  "quick_bite": [
+    {
+      "name": "Captain D's",
+      "distance": "0.4 mi",
+      "url": "https://www.google.com/maps/search/Captain%20D's+near+33.603411%2C-84.4703402"
+    },
+    {
+      "name": "Wendy's",
+      "distance": "0.6 mi",
+      "url": "https://www.google.com/maps/search/Wendy's+near+33.603411%2C-84.4703402"
+    },
+    {
+      "name": "KFC",
+      "distance": "0.6 mi",
+      "url": "https://www.google.com/maps/search/KFC+near+33.603411%2C-84.4703402"
+    },
+    {
+      "name": "JJ Fish & Chicken",
+      "distance": "0.7 mi",
+      "url": "https://www.google.com/maps/search/JJ%20Fish%20%26%20Chicken+near+33.603411%2C-84.4703402"
+    },
+    {
+      "name": "Krystal",
+      "distance": "0.7 mi",
+      "url": "https://www.google.com/maps/search/Krystal+near+33.603411%2C-84.4703402"
+    },
+    {
+      "name": "China Cafeteria",
+      "distance": "0.7 mi",
+      "url": "https://www.google.com/maps/search/China%20Cafeteria+near+33.603411%2C-84.4703402"
+    },
+    {
+      "name": "American Deli",
+      "distance": "0.7 mi",
+      "url": "https://www.google.com/maps/search/American%20Deli+near+33.603411%2C-84.4703402"
+    }
+  ],
+  "coffee": [],
+  "team_lunch": [
+    {
+      "name": "Big Daddy's at Heroes Haven",
+      "distance": "0.2 mi",
+      "url": "https://www.google.com/maps/search/Big%20Daddy's%20at%20Heroes%20Haven+near+33.603411%2C-84.4703402"
+    },
+    {
+      "name": "112 Atlanta",
+      "distance": "0.2 mi",
+      "url": "https://www.google.com/maps/search/112%20Atlanta+near+33.603411%2C-84.4703402"
+    },
+    {
+      "name": "Harold's Chicken Shack",
+      "distance": "0.2 mi",
+      "url": "https://www.google.com/maps/search/Harold's%20Chicken%20Shack+near+33.603411%2C-84.4703402"
+    },
+    {
+      "name": "The Blue Marlin Bistro",
+      "distance": "0.2 mi",
+      "url": "https://www.google.com/maps/search/The%20Blue%20Marlin%20Bistro+near+33.603411%2C-84.4703402"
+    },
+    {
+      "name": "New Orleans Daiquiri Bar & Grill",
+      "distance": "0.3 mi",
+      "url": "https://www.google.com/maps/search/New%20Orleans%20Daiquiri%20Bar%20%26%20Grill+near+33.603411%2C-84.4703402"
+    },
+    {
+      "name": "Southside Wings",
+      "distance": "0.5 mi",
+      "url": "https://www.google.com/maps/search/Southside%20Wings+near+33.603411%2C-84.4703402"
+    },
+    {
+      "name": "Lost In Da Souse Kitchen",
+      "distance": "0.5 mi",
+      "url": "https://www.google.com/maps/search/Lost%20In%20Da%20Souse%20Kitchen+near+33.603411%2C-84.4703402"
+    }
+  ],
+  "dinner": [
+    {
+      "name": "The Original Big Daddy's",
+      "distance": "0.1 mi",
+      "url": "https://www.google.com/maps/search/The%20Original%20Big%20Daddy's+near+33.603411%2C-84.4703402"
+    },
+    {
+      "name": "Crab Pot Lounge",
+      "distance": "0.2 mi",
+      "url": "https://www.google.com/maps/search/Crab%20Pot%20Lounge+near+33.603411%2C-84.4703402"
+    },
+    {
+      "name": "Hungry AF Old National",
+      "distance": "0.3 mi",
+      "url": "https://www.google.com/maps/search/Hungry%20AF%20Old%20National+near+33.603411%2C-84.4703402"
+    },
+    {
+      "name": "Harold's Chicken & Ice Bar Old National",
+      "distance": "0.3 mi",
+      "url": "https://www.google.com/maps/search/Harold's%20Chicken%20%26%20Ice%20Bar%20Old%20National+near+33.603411%2C-84.4703402"
+    },
+    {
+      "name": "Yasin's Homestyle Seafood - College Park",
+      "distance": "0.5 mi",
+      "url": "https://www.google.com/maps/search/Yasin's%20Homestyle%20Seafood%20-%20College%20Park+near+33.603411%2C-84.4703402"
+    }
+  ],
+  "bowling": [
+    {
+      "name": "Hacienda Lanes & Lounge",
+      "distance": "4.9 mi",
+      "url": "https://www.google.com/maps/search/Hacienda%20Lanes%20%26%20Lounge+near+33.603411%2C-84.4703402",
+      "isFar": true
+    },
+    {
+      "name": "Fun Bowl Fayette County",
+      "distance": "8.5 mi",
+      "url": "https://www.google.com/maps/search/Fun%20Bowl%20Fayette%20County+near+33.603411%2C-84.4703402",
+      "isFar": true
+    }
+  ],
+  "arcade": [],
+  "movies": [
+    {
+      "name": "AMC Camp Creek 14",
+      "distance": "4.4 mi",
+      "url": "https://www.google.com/maps/search/AMC%20Camp%20Creek%2014+near+33.603411%2C-84.4703402",
+      "isFar": true
+    },
+    {
+      "name": "Residential Theaters",
+      "distance": "7.5 mi",
+      "url": "https://www.google.com/maps/search/Residential%20Theaters+near+33.603411%2C-84.4703402",
+      "isFar": true
+    }
+  ],
+  "fun": [
+    {
+      "name": "Tutu’s & Tiara’s",
+      "distance": "3.7 mi",
+      "url": "https://www.google.com/maps/search/Tutu%E2%80%99s%20%26%20Tiara%E2%80%99s+near+33.603411%2C-84.4703402",
+      "isFar": true
+    },
+    {
+      "name": "Splash Fountain",
+      "distance": "7.1 mi",
+      "url": "https://www.google.com/maps/search/Splash%20Fountain+near+33.603411%2C-84.4703402",
+      "isFar": true
+    },
+    {
+      "name": "Fun Spot America Theme Parks — Atlanta",
+      "distance": "7.8 mi",
+      "url": "https://www.google.com/maps/search/Fun%20Spot%20America%20Theme%20Parks%20%E2%80%94%20Atlanta+near+33.603411%2C-84.4703402",
+      "isFar": true
+    },
+    {
+      "name": "Reverend James Orange Park Splash Pad",
+      "distance": "8.3 mi",
+      "url": "https://www.google.com/maps/search/Reverend%20James%20Orange%20Park%20Splash%20Pad+near+33.603411%2C-84.4703402",
+      "isFar": true
+    }
+  ],
+  "hotels": [
+    {
+      "name": "Studio by Dane & Dianne",
+      "distance": "0.4 mi",
+      "url": "https://www.google.com/maps/search/Studio%20by%20Dane%20%26%20Dianne+near+33.603411%2C-84.4703402"
+    },
+    {
+      "name": "Studio by Dane Dianne",
+      "distance": "0.4 mi",
+      "url": "https://www.google.com/maps/search/Studio%20by%20Dane%20Dianne+near+33.603411%2C-84.4703402"
+    },
+    {
+      "name": "Close to everything.Family style home.",
+      "distance": "0.4 mi",
+      "url": "https://www.google.com/maps/search/Close%20to%20everything.Family%20style%20home.+near+33.603411%2C-84.4703402"
+    },
+    {
+      "name": "Clean! Renovated Oasis Estate, 7mins from Airport!",
+      "distance": "0.5 mi",
+      "url": "https://www.google.com/maps/search/Clean!%20Renovated%20Oasis%20Estate%2C%207mins%20from%20Airport!+near+33.603411%2C-84.4703402"
+    },
+    {
+      "name": "Month to month oasis rental-7 mins fro ATL airport",
+      "distance": "0.5 mi",
+      "url": "https://www.google.com/maps/search/Month%20to%20month%20oasis%20rental-7%20mins%20fro%20ATL%20airport+near+33.603411%2C-84.4703402"
+    },
+    {
+      "name": "Heroes Plush-Exclusive bougie abode",
+      "distance": "0.5 mi",
+      "url": "https://www.google.com/maps/search/Heroes%20Plush-Exclusive%20bougie%20abode+near+33.603411%2C-84.4703402"
+    },
+    {
+      "name": "Louis vuitton versace Decor' Jacuzzi - One-Bedroom House",
+      "distance": "0.5 mi",
+      "url": "https://www.google.com/maps/search/Louis%20vuitton%20versace%20Decor'%20Jacuzzi%20-%20One-Bedroom%20House+near+33.603411%2C-84.4703402"
+    }
+  ],
+  "gas": [
+    {
+      "name": "Shell",
+      "distance": "0.2 mi",
+      "url": "https://www.google.com/maps/search/Shell+near+33.603411%2C-84.4703402"
+    },
+    {
+      "name": "Mobil 1 Lube Express",
+      "distance": "0.6 mi",
+      "url": "https://www.google.com/maps/search/Mobil%201%20Lube%20Express+near+33.603411%2C-84.4703402"
+    },
+    {
+      "name": "Citgo",
+      "distance": "0.6 mi",
+      "url": "https://www.google.com/maps/search/Citgo+near+33.603411%2C-84.4703402"
+    },
+    {
+      "name": "Texaco",
+      "distance": "0.8 mi",
+      "url": "https://www.google.com/maps/search/Texaco+near+33.603411%2C-84.4703402"
+    },
+    {
+      "name": "Chevron",
+      "distance": "0.9 mi",
+      "url": "https://www.google.com/maps/search/Chevron+near+33.603411%2C-84.4703402"
+    }
+  ]
+}

@@ -1,0 +1,205 @@
+{
+  "quick_bite": [
+    {
+      "name": "Chipotle Mexican Grill",
+      "distance": "0.9 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Chipotle%20Mexican%20Grill&query_place_id=ChIJmY7uhdoRD4gR8WrWLGNmLaQ&center=42.094729,-88.3364088"
+    },
+    {
+      "name": "Jimmy John's",
+      "distance": "1.0 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Jimmy%20John's&query_place_id=ChIJV1ApszsQD4gRg-zx8Wu-iCQ&center=42.092789200000006,-88.33766419999999"
+    },
+    {
+      "name": "Big Sammy's Hot Dogs II",
+      "distance": "1.0 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Big%20Sammy's%20Hot%20Dogs%20II&query_place_id=ChIJFdptaToQD4gRMuhfZTSeBjc&center=42.0926925,-88.3376349"
+    },
+    {
+      "name": "Charles Fast Foods & Taco Grill",
+      "distance": "1.1 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Charles%20Fast%20Foods%20%26%20Taco%20Grill&query_place_id=ChIJDwSlKsQRD4gR-qOJDiaDtrk&center=42.1027773,-88.36815779999999"
+    },
+    {
+      "name": "Lou Malnati's Pizzeria",
+      "distance": "1.3 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Lou%20Malnati's%20Pizzeria&query_place_id=ChIJdee4JugRD4gRYNAv9pkHg4g&center=42.1226525,-88.3343546"
+    }
+  ],
+  "coffee": [
+    {
+      "name": "Dunkin'",
+      "distance": "0.9 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Dunkin'&query_place_id=ChIJO7G_iVUQD4gRDPohtWZ-ggE&center=42.1028161,-88.362736"
+    },
+    {
+      "name": "BIGGBY COFFEE",
+      "distance": "1.1 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=BIGGBY%20COFFEE&query_place_id=ChIJmyNwxFkRD4gRqMKqs88CNV4&center=42.1194711,-88.3359033"
+    },
+    {
+      "name": "Panera Bread",
+      "distance": "1.1 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Panera%20Bread&query_place_id=ChIJfU_WSRAQD4gRThDE2kId8VI&center=42.091907,-88.33614899999999"
+    },
+    {
+      "name": "Starbucks Coffee Company",
+      "distance": "1.1 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Starbucks%20Coffee%20Company&query_place_id=ChIJfU_WSRAQD4gRKfnHYP_NAVk&center=42.091809999999995,-88.33610999999999"
+    },
+    {
+      "name": "Bucciferro Family McDonald's",
+      "distance": "1.3 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Bucciferro%20Family%20McDonald's&query_place_id=ChIJU4JMVsIRD4gRVgftOcv0io0&center=42.1235067,-88.33625529999999"
+    }
+  ],
+  "team_lunch": [
+    {
+      "name": "Lou13tsweettreats",
+      "distance": "0.3 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Lou13tsweettreats&query_place_id=ChIJRbPjCJERD4gRPJ2og3p7u3I&center=42.106105799999995,-88.3410545"
+    },
+    {
+      "name": "Arthur's Diner",
+      "distance": "1.0 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Arthur's%20Diner&query_place_id=ChIJOZjlWAARD4gRQQkNX2NcZTc&center=42.092737299999996,-88.3376704"
+    },
+    {
+      "name": "Mr. Wok",
+      "distance": "1.1 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Mr.%20Wok&query_place_id=ChIJVa9AwPcRD4gRVEw263hG3xE&center=42.1195253,-88.3359921"
+    },
+    {
+      "name": "Drunken Cupcake Ladies",
+      "distance": "2.7 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Drunken%20Cupcake%20Ladies&query_place_id=ChIJtc-MWKwPD4gR_HvRoUM_c4A&center=42.0969383,-88.2955272"
+    },
+    {
+      "name": "The Meltdown",
+      "distance": "2.7 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=The%20Meltdown&query_place_id=ChIJW-rVsyoPD4gR1exvwdOfIW8&center=42.106131,-88.293251"
+    },
+    {
+      "name": "Beef-A-Roo",
+      "distance": "3.0 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Beef-A-Roo&query_place_id=ChIJlR86FuoPD4gRbmUAkzTLm30&center=42.098849,-88.288932"
+    }
+  ],
+  "dinner": [
+    {
+      "name": "Blue Line Bar & Grill",
+      "distance": "0.1 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Blue%20Line%20Bar%20%26%20Grill&query_place_id=ChIJZwIdk0wRD4gR5ApBS8ds1w0&center=42.106037699999995,-88.3461952"
+    },
+    {
+      "name": "Addy's Subs & Salads",
+      "distance": "0.2 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Addy's%20Subs%20%26%20Salads&query_place_id=ChIJg1lAPhsPD4gRD6VjluZZDwA&center=42.103922,-88.3480992"
+    },
+    {
+      "name": "Desserts Without Regrets LLC",
+      "distance": "0.7 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Desserts%20Without%20Regrets%20LLC&query_place_id=ChIJCag8o88RD4gRNal3gPiKAd0&center=42.112545000000004,-88.3564377"
+    },
+    {
+      "name": "Poke West",
+      "distance": "0.9 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Poke%20West&query_place_id=ChIJD1RE5iQRD4gRy45Kt25N1nU&center=42.094720099999996,-88.3363833"
+    },
+    {
+      "name": "Village Pizza and Pub Elgin",
+      "distance": "1.0 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Village%20Pizza%20and%20Pub%20Elgin&query_place_id=ChIJrQ0QWDoQD4gRLJT4vl3vUkI&center=42.093801899999995,-88.3360948"
+    }
+  ],
+  "bowling": [
+    {
+      "name": "Lucky Strike Algonquin",
+      "distance": "3.3 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Lucky%20Strike%20Algonquin&query_place_id=ChIJJYgZ8AQSD4gRw67vNfLO-zQ&center=42.1518896,-88.3318745",
+      "isFar": true
+    },
+    {
+      "name": "Liberty Lanes",
+      "distance": "4.4 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Liberty%20Lanes&query_place_id=ChIJveq6WsMOD4gR2yvJC9vJlkQ&center=42.1154728,-88.2613622",
+      "isFar": true
+    }
+  ],
+  "arcade": [],
+  "movies": [
+    {
+      "name": "Carpenter Park Open Air Stage",
+      "distance": "3.3 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Carpenter%20Park%20Open%20Air%20Stage&query_place_id=ChIJ7UiS5N8PD4gRvSlGasON3wA&center=42.1117376,-88.2821678",
+      "isFar": true
+    },
+    {
+      "name": "Classic Cinemas Carpentersville XQ",
+      "distance": "4.4 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Classic%20Cinemas%20Carpentersville%20XQ&query_place_id=ChIJCSwoqNwOD4gRUv1H3mDEcsw&center=42.1145656,-88.2610935",
+      "isFar": true
+    }
+  ],
+  "fun": [
+    {
+      "name": "Lightshow on Deerpath",
+      "distance": "1.5 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Lightshow%20on%20Deerpath&query_place_id=ChIJ4aFxwK4RD4gRCVcB2QDcDPg&center=42.126588299999995,-88.3543109"
+    },
+    {
+      "name": "Lights on Woodside",
+      "distance": "1.6 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Lights%20on%20Woodside&query_place_id=ChIJexS_jh4RD4gRMQxvyHc2-XA&center=42.128899700000005,-88.3491225"
+    },
+    {
+      "name": "Sky Zone Trampoline Park",
+      "distance": "2.0 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Sky%20Zone%20Trampoline%20Park&query_place_id=ChIJZSxOPssRD4gRjSv3M-34cK8&center=42.132914899999996,-88.3337317"
+    },
+    {
+      "name": "Adrenaline Monkey Adventure Park",
+      "distance": "2.7 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Adrenaline%20Monkey%20Adventure%20Park&query_place_id=ChIJf-IHoxYPD4gRyOf-CuzA1ak&center=42.0969383,-88.2955272"
+    }
+  ],
+  "hotels": [
+    {
+      "name": "Comfort Suites Elgin Northwest",
+      "distance": "1.1 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Comfort%20Suites%20Elgin%20Northwest&query_place_id=ChIJi_xP5DsQD4gRIhn15j9G7M0&center=42.09187,-88.33749"
+    },
+    {
+      "name": "Country Inn & Suites by Radisson, Elgin, IL",
+      "distance": "1.7 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Country%20Inn%20%26%20Suites%20by%20Radisson%2C%20Elgin%2C%20IL&query_place_id=ChIJ4zMwmiUHyIkRdDyu3QtZYb0&center=42.083104999999996,-88.33258029999999"
+    },
+    {
+      "name": "Meet up spot",
+      "distance": "1.7 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Meet%20up%20spot&query_place_id=ChIJy6pjdgARD4gR0gb--dtYCKU&center=42.0811581,-88.34048609999999"
+    }
+  ],
+  "gas": [
+    {
+      "name": "Grove Mart Shell",
+      "distance": "0.8 mi",
+      "url": "https://www.google.com/maps/search/Grove%20Mart%20Shell+near+42.1057948%2C-88.3463303"
+    },
+    {
+      "name": "Shell",
+      "distance": "0.9 mi",
+      "url": "https://www.google.com/maps/search/Shell+near+42.1057948%2C-88.3463303"
+    },
+    {
+      "name": "Woodman's Gas Station",
+      "distance": "1.1 mi",
+      "url": "https://www.google.com/maps/search/Woodman's%20Gas%20Station+near+42.1057948%2C-88.3463303"
+    },
+    {
+      "name": "Mobil",
+      "distance": "1.1 mi",
+      "url": "https://www.google.com/maps/search/Mobil+near+42.1057948%2C-88.3463303"
+    }
+  ]
+}

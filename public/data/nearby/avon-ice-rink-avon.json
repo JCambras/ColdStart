@@ -1,0 +1,215 @@
+{
+  "quick_bite": [
+    {
+      "name": "Subway",
+      "distance": "0.9 mi",
+      "url": "https://www.google.com/maps/search/Subway+near+39.752829399999996%2C-86.4189411"
+    },
+    {
+      "name": "Chester's Chicken",
+      "distance": "0.9 mi",
+      "url": "https://www.google.com/maps/search/Chester's%20Chicken+near+39.752829399999996%2C-86.4189411"
+    },
+    {
+      "name": "Taco Bell",
+      "distance": "1.1 mi",
+      "url": "https://www.google.com/maps/search/Taco%20Bell+near+39.752829399999996%2C-86.4189411"
+    },
+    {
+      "name": "ZENSHI Handcrafted Sushi",
+      "distance": "1.2 mi",
+      "url": "https://www.google.com/maps/search/ZENSHI%20Handcrafted%20Sushi+near+39.752829399999996%2C-86.4189411"
+    },
+    {
+      "name": "Chuck E. Cheese",
+      "distance": "3.9 mi",
+      "url": "https://www.google.com/maps/search/Chuck%20E.%20Cheese+near+39.752829399999996%2C-86.4189411",
+      "isFar": true
+    }
+  ],
+  "coffee": [
+    {
+      "name": "Cabin Coffee Co.",
+      "distance": "0.8 mi",
+      "url": "https://www.google.com/maps/search/Cabin%20Coffee%20Co.+near+39.752829399999996%2C-86.4189411"
+    },
+    {
+      "name": "Parlor Doughnuts",
+      "distance": "0.9 mi",
+      "url": "https://www.google.com/maps/search/Parlor%20Doughnuts+near+39.752829399999996%2C-86.4189411"
+    },
+    {
+      "name": "7 Brew Coffee",
+      "distance": "1.1 mi",
+      "url": "https://www.google.com/maps/search/7%20Brew%20Coffee+near+39.752829399999996%2C-86.4189411"
+    },
+    {
+      "name": "McDonald's",
+      "distance": "1.1 mi",
+      "url": "https://www.google.com/maps/search/McDonald's+near+39.752829399999996%2C-86.4189411"
+    },
+    {
+      "name": "Starbucks Coffee Company",
+      "distance": "1.2 mi",
+      "url": "https://www.google.com/maps/search/Starbucks%20Coffee%20Company+near+39.752829399999996%2C-86.4189411"
+    }
+  ],
+  "team_lunch": [
+    {
+      "name": "WildFlour Bakery",
+      "distance": "0.4 mi",
+      "url": "https://www.google.com/maps/search/WildFlour%20Bakery+near+39.752829399999996%2C-86.4189411"
+    },
+    {
+      "name": "Kroger Bakery",
+      "distance": "1.2 mi",
+      "url": "https://www.google.com/maps/search/Kroger%20Bakery+near+39.752829399999996%2C-86.4189411"
+    },
+    {
+      "name": "Papa Johns Pizza",
+      "distance": "1.3 mi",
+      "url": "https://www.google.com/maps/search/Papa%20Johns%20Pizza+near+39.752829399999996%2C-86.4189411"
+    },
+    {
+      "name": "China Buffet",
+      "distance": "1.3 mi",
+      "url": "https://www.google.com/maps/search/China%20Buffet+near+39.752829399999996%2C-86.4189411"
+    }
+  ],
+  "dinner": [
+    {
+      "name": "Pizzaville",
+      "distance": "0.9 mi",
+      "url": "https://www.google.com/maps/search/Pizzaville+near+39.752829399999996%2C-86.4189411"
+    },
+    {
+      "name": "Hotcakes Emporium Pancake House & Restaurant",
+      "distance": "0.9 mi",
+      "url": "https://www.google.com/maps/search/Hotcakes%20Emporium%20Pancake%20House%20%26%20Restaurant+near+39.752829399999996%2C-86.4189411"
+    },
+    {
+      "name": "Whiskey Bent Bar & Grill",
+      "distance": "0.9 mi",
+      "url": "https://www.google.com/maps/search/Whiskey%20Bent%20Bar%20%26%20Grill+near+39.752829399999996%2C-86.4189411"
+    },
+    {
+      "name": "Hummus Republic",
+      "distance": "1.3 mi",
+      "url": "https://www.google.com/maps/search/Hummus%20Republic+near+39.752829399999996%2C-86.4189411"
+    },
+    {
+      "name": "Nautical Bowls",
+      "distance": "1.3 mi",
+      "url": "https://www.google.com/maps/search/Nautical%20Bowls+near+39.752829399999996%2C-86.4189411"
+    },
+    {
+      "name": "Charbonos",
+      "distance": "1.3 mi",
+      "url": "https://www.google.com/maps/search/Charbonos+near+39.752829399999996%2C-86.4189411"
+    },
+    {
+      "name": "La Hacienda Mexican Restaurant",
+      "distance": "1.6 mi",
+      "url": "https://www.google.com/maps/search/La%20Hacienda%20Mexican%20Restaurant+near+39.752829399999996%2C-86.4189411"
+    }
+  ],
+  "bowling": [],
+  "arcade": [],
+  "movies": [
+    {
+      "name": "AMC Perry Crossing 18",
+      "distance": "4.2 mi",
+      "url": "https://www.google.com/maps/search/AMC%20Perry%20Crossing%2018+near+39.752829399999996%2C-86.4189411",
+      "isFar": true
+    },
+    {
+      "name": "Regal Shiloh Crossing",
+      "distance": "4.4 mi",
+      "url": "https://www.google.com/maps/search/Regal%20Shiloh%20Crossing+near+39.752829399999996%2C-86.4189411",
+      "isFar": true
+    }
+  ],
+  "fun": [
+    {
+      "name": "Washington Township Park Splash Pad",
+      "distance": "0.1 mi",
+      "url": "https://www.google.com/maps/search/Washington%20Township%20Park%20Splash%20Pad+near+39.752829399999996%2C-86.4189411"
+    },
+    {
+      "name": "Splash Island",
+      "distance": "3.0 mi",
+      "url": "https://www.google.com/maps/search/Splash%20Island+near+39.752829399999996%2C-86.4189411",
+      "isFar": true
+    },
+    {
+      "name": "Max Missions Escape Rooms",
+      "distance": "4.2 mi",
+      "url": "https://www.google.com/maps/search/Max%20Missions%20Escape%20Rooms+near+39.752829399999996%2C-86.4189411",
+      "isFar": true
+    }
+  ],
+  "hotels": [
+    {
+      "name": "Angela Hardman !",
+      "distance": "1.3 mi",
+      "url": "https://www.google.com/maps/search/Angela%20Hardman%20!+near+39.752829399999996%2C-86.4189411"
+    },
+    {
+      "name": "Quiet Avon Home - Near Indianapolis Speedway!",
+      "distance": "1.4 mi",
+      "url": "https://www.google.com/maps/search/Quiet%20Avon%20Home%20-%20Near%20Indianapolis%20Speedway!+near+39.752829399999996%2C-86.4189411"
+    },
+    {
+      "name": "16 Mi to Indianapolis: Group Getaway w/ Pool Table",
+      "distance": "1.5 mi",
+      "url": "https://www.google.com/maps/search/16%20Mi%20to%20Indianapolis%3A%20Group%20Getaway%20w%2F%20Pool%20Table+near+39.752829399999996%2C-86.4189411"
+    },
+    {
+      "name": "Luxurious and Spacious Rental in Avon for an Amazing Vacation in Indiana",
+      "distance": "1.8 mi",
+      "url": "https://www.google.com/maps/search/Luxurious%20and%20Spacious%20Rental%20in%20Avon%20for%20an%20Amazing%20Vacation%20in%20Indiana+near+39.752829399999996%2C-86.4189411"
+    },
+    {
+      "name": "Huge Home in Avon 4BDR 2 5BA Sleeps 12 - Family Room",
+      "distance": "1.9 mi",
+      "url": "https://www.google.com/maps/search/Huge%20Home%20in%20Avon%204BDR%202%205BA%20Sleeps%2012%20-%20Family%20Room+near+39.752829399999996%2C-86.4189411"
+    },
+    {
+      "name": "Charming 2-bedroom duplex in fabulous Avon with WiFi, AC",
+      "distance": "1.9 mi",
+      "url": "https://www.google.com/maps/search/Charming%202-bedroom%20duplex%20in%20fabulous%20Avon%20with%20WiFi%2C%20AC+near+39.752829399999996%2C-86.4189411"
+    },
+    {
+      "name": "Beechwood Villa - Suburban Modern",
+      "distance": "1.9 mi",
+      "url": "https://www.google.com/maps/search/Beechwood%20Villa%20-%20Suburban%20Modern+near+39.752829399999996%2C-86.4189411"
+    }
+  ],
+  "gas": [
+    {
+      "name": "Marathon Gas",
+      "distance": "0.9 mi",
+      "url": "https://www.google.com/maps/search/Marathon%20Gas+near+39.752829399999996%2C-86.4189411"
+    },
+    {
+      "name": "Kroger Fuel Center",
+      "distance": "1.2 mi",
+      "url": "https://www.google.com/maps/search/Kroger%20Fuel%20Center+near+39.752829399999996%2C-86.4189411"
+    },
+    {
+      "name": "Circle K | Gas Station",
+      "distance": "1.2 mi",
+      "url": "https://www.google.com/maps/search/Circle%20K%20%7C%20Gas%20Station+near+39.752829399999996%2C-86.4189411"
+    },
+    {
+      "name": "Marathon",
+      "distance": "1.8 mi",
+      "url": "https://www.google.com/maps/search/Marathon+near+39.752829399999996%2C-86.4189411"
+    },
+    {
+      "name": "Speedway",
+      "distance": "2.0 mi",
+      "url": "https://www.google.com/maps/search/Speedway+near+39.752829399999996%2C-86.4189411"
+    }
+  ]
+}

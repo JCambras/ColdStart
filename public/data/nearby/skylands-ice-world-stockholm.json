@@ -1,0 +1,190 @@
+{
+  "quick_bite": [
+    {
+      "name": "Krispy Krunchy Chicken",
+      "distance": "0.1 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Krispy%20Krunchy%20Chicken&query_place_id=ChIJDbBldPYTw4kRvHyRjgShx7o&center=41.0879009,-74.51884249999999"
+    },
+    {
+      "name": "Tony's Restaurant Pizza & Pub",
+      "distance": "0.2 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Tony's%20Restaurant%20Pizza%20%26%20Pub&query_place_id=ChIJFTO5tpQTw4kRjunBkteE0YA&center=41.0907524,-74.5234555"
+    },
+    {
+      "name": "TJ's Banginboli.Pizza",
+      "distance": "3.4 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=TJ's%20Banginboli.Pizza&query_place_id=ChIJN-_NZ0UTw4kRRLj2S0TwkY4&center=41.108315,-74.58102800000002",
+      "isFar": true
+    },
+    {
+      "name": "Wendy's",
+      "distance": "3.5 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Wendy's&query_place_id=ChIJU3iNFqYUw4kRv1ecf8qsra8&center=41.11368230000001,-74.5801433",
+      "isFar": true
+    },
+    {
+      "name": "Taco Bell",
+      "distance": "3.6 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Taco%20Bell&query_place_id=ChIJfTOnxacUw4kR3tBxykqcn8o&center=41.1159813,-74.5805455",
+      "isFar": true
+    }
+  ],
+  "coffee": [
+    {
+      "name": "Dunkin'",
+      "distance": "0.1 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Dunkin'&query_place_id=ChIJk5cmUeoTw4kRqBjcFTKxetc&center=41.088377099999995,-74.5195323"
+    },
+    {
+      "name": "Starbucks Coffee Company",
+      "distance": "3.4 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Starbucks%20Coffee%20Company&query_place_id=ChIJxUDyD1oTw4kRagwFZRNtdRg&center=41.10884,-74.58081",
+      "isFar": true
+    },
+    {
+      "name": "Dunkin'",
+      "distance": "3.6 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Dunkin'&query_place_id=ChIJyXf2C6YUw4kRNpcLCzkB4AA&center=41.1156673,-74.5806157",
+      "isFar": true
+    }
+  ],
+  "team_lunch": [
+    {
+      "name": "Dom",
+      "distance": "3.3 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Dom&query_place_id=ChIJW9gzyTYTw4kR8ULLBiaUIbw&center=41.0908643,-74.5855268",
+      "isFar": true
+    }
+  ],
+  "dinner": [
+    {
+      "name": "U.S. DELI & CONVENIENCE",
+      "distance": "0.2 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=U.S.%20DELI%20%26%20CONVENIENCE&query_place_id=ChIJo1K8rZQTw4kRYn5qFCQjJWk&center=41.0912262,-74.52313459999999"
+    },
+    {
+      "name": "Jimmy Geez North",
+      "distance": "2.9 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Jimmy%20Geez%20North&query_place_id=ChIJS9RQkqgRw4kRpS5bJejxnLQ&center=41.060694999999996,-74.48015099999999"
+    },
+    {
+      "name": "Brick & Brew",
+      "distance": "3.2 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Brick%20%26%20Brew&query_place_id=ChIJH2uhdUUTw4kRR-Zp4dxZzl0&center=41.1021248,-74.5802188",
+      "isFar": true
+    },
+    {
+      "name": "The Bagel Tree",
+      "distance": "3.3 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=The%20Bagel%20Tree&query_place_id=ChIJNx_jZUUTw4kRqiGTiPhTC_M&center=41.1065685,-74.58018450000002",
+      "isFar": true
+    },
+    {
+      "name": "Tacos & Empanadas by Juanito's",
+      "distance": "3.3 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Tacos%20%26%20Empanadas%20by%20Juanito's&query_place_id=ChIJl6k4AK8Tw4kRpZ5DdxjFeC4&center=41.1043671,-74.5820036",
+      "isFar": true
+    },
+    {
+      "name": "bb.q Chicken Franklin",
+      "distance": "3.3 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=bb.q%20Chicken%20Franklin&query_place_id=ChIJHzRJN2ITw4kRl7RhP-gUEgA&center=41.1062958,-74.5810772",
+      "isFar": true
+    }
+  ],
+  "bowling": [
+    {
+      "name": "Sparta Lanes",
+      "distance": "7.2 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Sparta%20Lanes&query_place_id=ChIJZVbM3ohyw4kRwpc9VC2r0cU&center=41.030474999999996,-74.634832",
+      "isFar": true
+    }
+  ],
+  "arcade": [],
+  "movies": [
+    {
+      "name": "Box Office Cinemas",
+      "distance": "7.2 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Box%20Office%20Cinemas&query_place_id=ChIJq6qa4Ihyw4kR0IDp9zGOGnk&center=41.03101970000001,-74.6356972",
+      "isFar": true
+    },
+    {
+      "name": "New Vision Theatres Sparta",
+      "distance": "7.2 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=New%20Vision%20Theatres%20Sparta&query_place_id=ChIJG1j4H4lyw4kRHnQ6Ly2ONNQ&center=41.03101970000001,-74.6356972",
+      "isFar": true
+    },
+    {
+      "name": "to2incluido",
+      "distance": "8.6 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=to2incluido&query_place_id=ChIJcd-_IO5zw4kRCYZV0p2Kdc0&center=41.0148951,-74.65436319999999",
+      "isFar": true
+    }
+  ],
+  "fun": [
+    {
+      "name": "Ogdensburg Mine Cart",
+      "distance": "3.6 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Ogdensburg%20Mine%20Cart&query_place_id=ChIJpSFAFwATw4kRl09IcIlVIXk&center=41.08508990000001,-74.5901949",
+      "isFar": true
+    },
+    {
+      "name": "Fairy Tale Forest",
+      "distance": "3.7 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Fairy%20Tale%20Forest&query_place_id=ChIJt_bDjKQRw4kR9m_EkIUsm3k&center=41.0524649,-74.469605",
+      "isFar": true
+    },
+    {
+      "name": "Grance Cascades Quarry",
+      "distance": "4.8 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Grance%20Cascades%20Quarry&query_place_id=ChIJvwZ7AAAVw4kR6IzoHve0g7I&center=41.155114,-74.551025",
+      "isFar": true
+    },
+    {
+      "name": "Zero-G",
+      "distance": "6.8 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Zero-G&query_place_id=ChIJLW4J8gM-w4kRcwvLGvAPmIA&center=41.1871687,-74.5064758",
+      "isFar": true
+    }
+  ],
+  "hotels": [
+    {
+      "name": "Seasonal Rental Luxury Lake Front Beauty",
+      "distance": "1.0 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Seasonal%20Rental%20Luxury%20Lake%20Front%20Beauty&query_place_id=ChIJneJr948Tw4kRvtf_PYSywcA&center=41.0988846,-74.5343552"
+    },
+    {
+      "name": "Paradise Valley Homestead",
+      "distance": "2.5 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Paradise%20Valley%20Homestead&query_place_id=ChIJ-94F8mQRw4kRIdTPcogonZI&center=41.0807169,-74.47470969999999"
+    },
+    {
+      "name": "Hillside Estates At Franklin",
+      "distance": "3.1 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Hillside%20Estates%20At%20Franklin&query_place_id=ChIJey7n9EYTw4kRnZAkdZ_CyK0&center=41.0984763,-74.57912680000001",
+      "isFar": true
+    }
+  ],
+  "gas": [
+    {
+      "name": "VP Racing Fuels",
+      "distance": "0.1 mi",
+      "url": "https://www.google.com/maps/search/VP%20Racing%20Fuels+near+41.088836099999995%2C-74.5212806"
+    },
+    {
+      "name": "Phillips 66",
+      "distance": "0.1 mi",
+      "url": "https://www.google.com/maps/search/Phillips%2066+near+41.088836099999995%2C-74.5212806"
+    },
+    {
+      "name": "LUKOIL",
+      "distance": "3.4 mi",
+      "url": "https://www.google.com/maps/search/LUKOIL+near+41.088836099999995%2C-74.5212806"
+    },
+    {
+      "name": "QuickChek Gas Station",
+      "distance": "3.5 mi",
+      "url": "https://www.google.com/maps/search/QuickChek%20Gas%20Station+near+41.088836099999995%2C-74.5212806"
+    }
+  ]
+}

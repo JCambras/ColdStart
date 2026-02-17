@@ -1,0 +1,221 @@
+{
+  "quick_bite": [
+    {
+      "name": "LongHorn Steakhouse",
+      "distance": "0.2 mi",
+      "url": "https://www.google.com/maps/search/LongHorn%20Steakhouse+near+38.911747999999996%2C-94.77583659999999"
+    },
+    {
+      "name": "Cracker Barrel Old Country Store",
+      "distance": "0.2 mi",
+      "url": "https://www.google.com/maps/search/Cracker%20Barrel%20Old%20Country%20Store+near+38.911747999999996%2C-94.77583659999999"
+    },
+    {
+      "name": "Jimmy John's",
+      "distance": "0.2 mi",
+      "url": "https://www.google.com/maps/search/Jimmy%20John's+near+38.911747999999996%2C-94.77583659999999"
+    },
+    {
+      "name": "Buffalo Wild Wings",
+      "distance": "0.3 mi",
+      "url": "https://www.google.com/maps/search/Buffalo%20Wild%20Wings+near+38.911747999999996%2C-94.77583659999999"
+    },
+    {
+      "name": "Panda Express",
+      "distance": "0.4 mi",
+      "url": "https://www.google.com/maps/search/Panda%20Express+near+38.911747999999996%2C-94.77583659999999"
+    },
+    {
+      "name": "Mo' Bettahs Hawaiian Style Food",
+      "distance": "0.4 mi",
+      "url": "https://www.google.com/maps/search/Mo'%20Bettahs%20Hawaiian%20Style%20Food+near+38.911747999999996%2C-94.77583659999999"
+    },
+    {
+      "name": "Subway",
+      "distance": "0.4 mi",
+      "url": "https://www.google.com/maps/search/Subway+near+38.911747999999996%2C-94.77583659999999"
+    }
+  ],
+  "coffee": [
+    {
+      "name": "Starbucks Coffee Company",
+      "distance": "0.1 mi",
+      "url": "https://www.google.com/maps/search/Starbucks%20Coffee%20Company+near+38.911747999999996%2C-94.77583659999999"
+    },
+    {
+      "name": "McDonald's",
+      "distance": "0.2 mi",
+      "url": "https://www.google.com/maps/search/McDonald's+near+38.911747999999996%2C-94.77583659999999"
+    },
+    {
+      "name": "Geo's Bakery & Market",
+      "distance": "0.3 mi",
+      "url": "https://www.google.com/maps/search/Geo's%20Bakery%20%26%20Market+near+38.911747999999996%2C-94.77583659999999"
+    }
+  ],
+  "team_lunch": [
+    {
+      "name": "Anejo Modern Mexican Cuisine",
+      "distance": "0.1 mi",
+      "url": "https://www.google.com/maps/search/Anejo%20Modern%20Mexican%20Cuisine+near+38.911747999999996%2C-94.77583659999999"
+    },
+    {
+      "name": "Cinnabon at Schlotzsky's",
+      "distance": "0.3 mi",
+      "url": "https://www.google.com/maps/search/Cinnabon%20at%20Schlotzsky's+near+38.911747999999996%2C-94.77583659999999"
+    }
+  ],
+  "dinner": [
+    {
+      "name": "Jason's Deli",
+      "distance": "0.1 mi",
+      "url": "https://www.google.com/maps/search/Jason's%20Deli+near+38.911747999999996%2C-94.77583659999999"
+    },
+    {
+      "name": "Schlotzsky's",
+      "distance": "0.3 mi",
+      "url": "https://www.google.com/maps/search/Schlotzsky's+near+38.911747999999996%2C-94.77583659999999"
+    },
+    {
+      "name": "Johnny's Italian Steakhouse - Kansas City Metro Area",
+      "distance": "0.3 mi",
+      "url": "https://www.google.com/maps/search/Johnny's%20Italian%20Steakhouse%20-%20Kansas%20City%20Metro%20Area+near+38.911747999999996%2C-94.77583659999999"
+    },
+    {
+      "name": "THE 180 ROOM",
+      "distance": "0.4 mi",
+      "url": "https://www.google.com/maps/search/THE%20180%20ROOM+near+38.911747999999996%2C-94.77583659999999"
+    },
+    {
+      "name": "Joe's KC BBQ",
+      "distance": "0.4 mi",
+      "url": "https://www.google.com/maps/search/Joe's%20KC%20BBQ+near+38.911747999999996%2C-94.77583659999999"
+    }
+  ],
+  "bowling": [
+    {
+      "name": "Main Event Olathe",
+      "distance": "0.1 mi",
+      "url": "https://www.google.com/maps/search/Main%20Event%20Olathe+near+38.911747999999996%2C-94.77583659999999"
+    },
+    {
+      "name": "Olathe Lanes East Bowling Center",
+      "distance": "1.9 mi",
+      "url": "https://www.google.com/maps/search/Olathe%20Lanes%20East%20Bowling%20Center+near+38.911747999999996%2C-94.77583659999999"
+    },
+    {
+      "name": "Lucky Strike Overland Park",
+      "distance": "4.1 mi",
+      "url": "https://www.google.com/maps/search/Lucky%20Strike%20Overland%20Park+near+38.911747999999996%2C-94.77583659999999",
+      "isFar": true
+    },
+    {
+      "name": "Mission Bowl",
+      "distance": "4.1 mi",
+      "url": "https://www.google.com/maps/search/Mission%20Bowl+near+38.911747999999996%2C-94.77583659999999",
+      "isFar": true
+    }
+  ],
+  "arcade": [],
+  "movies": [
+    {
+      "name": "AMC Studio 28",
+      "distance": "0.6 mi",
+      "url": "https://www.google.com/maps/search/AMC%20Studio%2028+near+38.911747999999996%2C-94.77583659999999"
+    },
+    {
+      "name": "SciFlix Theater",
+      "distance": "2.8 mi",
+      "url": "https://www.google.com/maps/search/SciFlix%20Theater+near+38.911747999999996%2C-94.77583659999999"
+    }
+  ],
+  "fun": [
+    {
+      "name": "Paulie’s Penguin Legacy",
+      "distance": "1.5 mi",
+      "url": "https://www.google.com/maps/search/Paulie%E2%80%99s%20Penguin%20Legacy+near+38.911747999999996%2C-94.77583659999999"
+    },
+    {
+      "name": "Black Bob Bay",
+      "distance": "3.8 mi",
+      "url": "https://www.google.com/maps/search/Black%20Bob%20Bay+near+38.911747999999996%2C-94.77583659999999",
+      "isFar": true
+    },
+    {
+      "name": "Living Spaces Kids Spaces",
+      "distance": "3.9 mi",
+      "url": "https://www.google.com/maps/search/Living%20Spaces%20Kids%20Spaces+near+38.911747999999996%2C-94.77583659999999",
+      "isFar": true
+    },
+    {
+      "name": "Urban Air Trampoline and Adventure Park",
+      "distance": "4.2 mi",
+      "url": "https://www.google.com/maps/search/Urban%20Air%20Trampoline%20and%20Adventure%20Park+near+38.911747999999996%2C-94.77583659999999",
+      "isFar": true
+    }
+  ],
+  "hotels": [
+    {
+      "name": "PTP Kansas",
+      "distance": "0.3 mi",
+      "url": "https://www.google.com/maps/search/PTP%20Kansas+near+38.911747999999996%2C-94.77583659999999"
+    },
+    {
+      "name": "Hampton Inn Olathe",
+      "distance": "0.3 mi",
+      "url": "https://www.google.com/maps/search/Hampton%20Inn%20Olathe+near+38.911747999999996%2C-94.77583659999999"
+    },
+    {
+      "name": "Holiday Inn Express & Suites Olathe North by IHG",
+      "distance": "0.3 mi",
+      "url": "https://www.google.com/maps/search/Holiday%20Inn%20Express%20%26%20Suites%20Olathe%20North%20by%20IHG+near+38.911747999999996%2C-94.77583659999999"
+    },
+    {
+      "name": "Hilton Garden Inn Olathe",
+      "distance": "0.3 mi",
+      "url": "https://www.google.com/maps/search/Hilton%20Garden%20Inn%20Olathe+near+38.911747999999996%2C-94.77583659999999"
+    },
+    {
+      "name": "Residence Inn by Marriott Kansas City Olathe",
+      "distance": "0.3 mi",
+      "url": "https://www.google.com/maps/search/Residence%20Inn%20by%20Marriott%20Kansas%20City%20Olathe+near+38.911747999999996%2C-94.77583659999999"
+    },
+    {
+      "name": "Comfort Inn & Suites Olathe - Kansas City",
+      "distance": "0.4 mi",
+      "url": "https://www.google.com/maps/search/Comfort%20Inn%20%26%20Suites%20Olathe%20-%20Kansas%20City+near+38.911747999999996%2C-94.77583659999999"
+    },
+    {
+      "name": "Courtyard by Marriott Kansas City Olathe",
+      "distance": "0.4 mi",
+      "url": "https://www.google.com/maps/search/Courtyard%20by%20Marriott%20Kansas%20City%20Olathe+near+38.911747999999996%2C-94.77583659999999"
+    }
+  ],
+  "gas": [
+    {
+      "name": "Phillips 66",
+      "distance": "0.3 mi",
+      "url": "https://www.google.com/maps/search/Phillips%2066+near+38.911747999999996%2C-94.77583659999999"
+    },
+    {
+      "name": "Phillips 66",
+      "distance": "0.5 mi",
+      "url": "https://www.google.com/maps/search/Phillips%2066+near+38.911747999999996%2C-94.77583659999999"
+    },
+    {
+      "name": "bp",
+      "distance": "0.7 mi",
+      "url": "https://www.google.com/maps/search/bp+near+38.911747999999996%2C-94.77583659999999"
+    },
+    {
+      "name": "Phillips 66",
+      "distance": "0.8 mi",
+      "url": "https://www.google.com/maps/search/Phillips%2066+near+38.911747999999996%2C-94.77583659999999"
+    },
+    {
+      "name": "Minit Mart",
+      "distance": "0.8 mi",
+      "url": "https://www.google.com/maps/search/Minit%20Mart+near+38.911747999999996%2C-94.77583659999999"
+    }
+  ]
+}

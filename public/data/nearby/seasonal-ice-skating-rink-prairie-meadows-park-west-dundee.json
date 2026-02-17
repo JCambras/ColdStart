@@ -1,0 +1,197 @@
+{
+  "quick_bite": [
+    {
+      "name": "Subway",
+      "distance": "0.3 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Subway&query_place_id=ChIJXWD0KqYPD4gRd2aPjSdN9L4&center=42.094989299999995,-88.2874344"
+    },
+    {
+      "name": "Jimmy John's",
+      "distance": "0.4 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Jimmy%20John's&query_place_id=ChIJ4a0md6kPD4gRHIlUsHbY5AU&center=42.0992738,-88.28773029999999"
+    },
+    {
+      "name": "ZENSHI Handcrafted Sushi",
+      "distance": "0.5 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=ZENSHI%20Handcrafted%20Sushi&query_place_id=ChIJQxxOhSwPD4gRRzgiRqQV60A&center=42.1004061,-88.300051"
+    },
+    {
+      "name": "Chipotle Mexican Grill",
+      "distance": "0.5 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Chipotle%20Mexican%20Grill&query_place_id=ChIJV3CHmakPD4gRZElXe2QI4AM&center=42.0997357,-88.2865667"
+    },
+    {
+      "name": "Cinemark West Dundee and XD",
+      "distance": "0.5 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Cinemark%20West%20Dundee%20and%20XD&query_place_id=ChIJz576lNEPD4gR_VcKq67GQhg&center=42.1026934,-88.29653809999999"
+    }
+  ],
+  "coffee": [
+    {
+      "name": "Van's Frozen Custard",
+      "distance": "0.4 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Van's%20Frozen%20Custard&query_place_id=ChIJA6XbZkwOD4gRmv8tUsLNANE&center=42.0987826,-88.28855209999999"
+    },
+    {
+      "name": "Dunkin'",
+      "distance": "0.4 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Dunkin'&query_place_id=ChIJk6d8NbEPD4gR_3clDt-vBbw&center=42.0991593,-88.299168"
+    },
+    {
+      "name": "Starbucks Coffee Company",
+      "distance": "0.5 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Starbucks%20Coffee%20Company&query_place_id=ChIJV3Hri6kPD4gRY5mk64xuwzs&center=42.099799999999995,-88.28649"
+    },
+    {
+      "name": "Mrs. Fields",
+      "distance": "1.5 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Mrs.%20Fields&query_place_id=ChIJW2k6CDkPD4gR8a1KnvC34nc&center=42.0743058,-88.2906648"
+    }
+  ],
+  "team_lunch": [
+    {
+      "name": "Drunken Cupcake Ladies",
+      "distance": "0.1 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Drunken%20Cupcake%20Ladies&query_place_id=ChIJtc-MWKwPD4gR_HvRoUM_c4A&center=42.0969383,-88.2955272"
+    },
+    {
+      "name": "Isla Azul Restaurant & Bar",
+      "distance": "0.3 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Isla%20Azul%20Restaurant%20%26%20Bar&query_place_id=ChIJ5-96X7YPD4gR_VsUWA1Gns4&center=42.098493399999995,-88.2988318"
+    },
+    {
+      "name": "Rosati's Pizza",
+      "distance": "0.3 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Rosati's%20Pizza&query_place_id=ChIJ7bPyc7EPD4gRa-J1KwJTPRs&center=42.098512299999996,-88.29903499999999"
+    },
+    {
+      "name": "Beef-A-Roo",
+      "distance": "0.3 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Beef-A-Roo&query_place_id=ChIJlR86FuoPD4gRbmUAkzTLm30&center=42.098849,-88.288932"
+    },
+    {
+      "name": "Casey's",
+      "distance": "0.4 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Casey's&query_place_id=ChIJldecEC0PD4gRrEz-wWE6-fk&center=42.0909121,-88.2899072"
+    }
+  ],
+  "dinner": [
+    {
+      "name": "The Assembly American Bar & Cafe at West Dundee",
+      "distance": "0.2 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=The%20Assembly%20American%20Bar%20%26%20Cafe%20at%20West%20Dundee&query_place_id=ChIJu3Ct4b4PD4gR1biosvgEcJw&center=42.098168199999996,-88.2924085"
+    },
+    {
+      "name": "Hong Kong Chef Chinese",
+      "distance": "0.4 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Hong%20Kong%20Chef%20Chinese&query_place_id=ChIJB9U6sacPD4gRPNiVdYWfeGU&center=42.0925133,-88.286836"
+    },
+    {
+      "name": "Taqueria El Tio Ramos",
+      "distance": "0.4 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Taqueria%20El%20Tio%20Ramos&query_place_id=ChIJm94wBqcPD4gRFBDcnD-2YzA&center=42.0924084,-88.2868226"
+    },
+    {
+      "name": "Maple and Hash",
+      "distance": "0.5 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Maple%20and%20Hash&query_place_id=ChIJO8nNtNoPD4gRDaudPN4cJb4&center=42.0900792,-88.2888033"
+    },
+    {
+      "name": "Roll N Donut Cafe & Douangchay's Kitchen Store",
+      "distance": "1.2 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Roll%20N%20Donut%20Cafe%20%26%20Douangchay's%20Kitchen%20Store&query_place_id=ChIJpwAZPaAPD4gRrh9-KV7MPdM&center=42.098723799999995,-88.2700322"
+    },
+    {
+      "name": "The Little Things Cake Company",
+      "distance": "1.5 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=The%20Little%20Things%20Cake%20Company&query_place_id=ChIJfQVHntjZFwURv5wxNu2LmN8&center=42.075476699999996,-88.3045288"
+    }
+  ],
+  "bowling": [
+    {
+      "name": "Liberty Lanes",
+      "distance": "2.2 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Liberty%20Lanes&query_place_id=ChIJveq6WsMOD4gR2yvJC9vJlkQ&center=42.1154728,-88.2613622"
+    },
+    {
+      "name": "Lucky Strike Algonquin",
+      "distance": "4.4 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Lucky%20Strike%20Algonquin&query_place_id=ChIJJYgZ8AQSD4gRw67vNfLO-zQ&center=42.1518896,-88.3318745",
+      "isFar": true
+    }
+  ],
+  "arcade": [],
+  "movies": [
+    {
+      "name": "Carpenter Park Open Air Stage",
+      "distance": "1.3 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Carpenter%20Park%20Open%20Air%20Stage&query_place_id=ChIJ7UiS5N8PD4gRvSlGasON3wA&center=42.1117376,-88.2821678"
+    },
+    {
+      "name": "Classic Cinemas Carpentersville XQ",
+      "distance": "2.1 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Classic%20Cinemas%20Carpentersville%20XQ&query_place_id=ChIJCSwoqNwOD4gRUv1H3mDEcsw&center=42.1145656,-88.2610935"
+    }
+  ],
+  "fun": [
+    {
+      "name": "Adrenaline Monkey Adventure Park",
+      "distance": "0.1 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Adrenaline%20Monkey%20Adventure%20Park&query_place_id=ChIJf-IHoxYPD4gRyOf-CuzA1ak&center=42.0969383,-88.2955272"
+    },
+    {
+      "name": "River Walk",
+      "distance": "0.7 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=River%20Walk&query_place_id=ChIJa3fqfwAPD4gRxwGy87Jz5XU&center=42.100940699999995,-88.2815945"
+    },
+    {
+      "name": "The Picture Place",
+      "distance": "1.7 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=The%20Picture%20Place&query_place_id=ChIJrU-CV18PD4gRy5lHkFzCCHw&center=42.0912879,-88.26082509999999"
+    },
+    {
+      "name": "Santa’s Village Amusement & Water Park",
+      "distance": "1.7 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Santa%E2%80%99s%20Village%20Amusement%20%26%20Water%20Park&query_place_id=ChIJkbOqwTsPD4gRbgvrDzlU_m0&center=42.091242,-88.26029"
+    }
+  ],
+  "hotels": [
+    {
+      "name": "B & B Ltd",
+      "distance": "0.6 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=B%20%26%20B%20Ltd&query_place_id=ChIJJb1VEQcPD4gRNILmVBp1Zv8&center=42.098361399999995,-88.2836105"
+    },
+    {
+      "name": "The Mansion Bed & Breakfast",
+      "distance": "0.7 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=The%20Mansion%20Bed%20%26%20Breakfast&query_place_id=ChIJBX0VdwYPD4gRmmxoMiLT05I&center=42.0967238,-88.2803557"
+    },
+    {
+      "name": "Kildahl House",
+      "distance": "0.8 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Kildahl%20House&query_place_id=ChIJgx0dVgAPD4gRdc8oU7mcZ6E&center=42.0975208,-88.27886749999999"
+    }
+  ],
+  "gas": [
+    {
+      "name": "Circle K | Gas Station",
+      "distance": "0.4 mi",
+      "url": "https://www.google.com/maps/search/Circle%20K%20%7C%20Gas%20Station+near+42.095420499999996%2C-88.2939153"
+    },
+    {
+      "name": "Shell",
+      "distance": "0.4 mi",
+      "url": "https://www.google.com/maps/search/Shell+near+42.095420499999996%2C-88.2939153"
+    },
+    {
+      "name": "John's Citgo Mechanic & Repair",
+      "distance": "0.4 mi",
+      "url": "https://www.google.com/maps/search/John's%20Citgo%20Mechanic%20%26%20Repair+near+42.095420499999996%2C-88.2939153"
+    },
+    {
+      "name": "Speedway",
+      "distance": "0.4 mi",
+      "url": "https://www.google.com/maps/search/Speedway+near+42.095420499999996%2C-88.2939153"
+    }
+  ]
+}

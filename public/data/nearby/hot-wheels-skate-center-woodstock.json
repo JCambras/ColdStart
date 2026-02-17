@@ -1,0 +1,222 @@
+{
+  "quick_bite": [
+    {
+      "name": "Waffle House",
+      "distance": "0.5 mi",
+      "url": "https://www.google.com/maps/search/Waffle%20House+near+34.0751501%2C-84.5246323"
+    },
+    {
+      "name": "GW Gyro & Wings(Woodstock Square)",
+      "distance": "0.7 mi",
+      "url": "https://www.google.com/maps/search/GW%20Gyro%20%26%20Wings(Woodstock%20Square)+near+34.0751501%2C-84.5246323"
+    },
+    {
+      "name": "Subway",
+      "distance": "0.7 mi",
+      "url": "https://www.google.com/maps/search/Subway+near+34.0751501%2C-84.5246323"
+    },
+    {
+      "name": "Whataburger",
+      "distance": "0.7 mi",
+      "url": "https://www.google.com/maps/search/Whataburger+near+34.0751501%2C-84.5246323"
+    },
+    {
+      "name": "Burger Inn",
+      "distance": "0.7 mi",
+      "url": "https://www.google.com/maps/search/Burger%20Inn+near+34.0751501%2C-84.5246323"
+    },
+    {
+      "name": "Chick-fil-A",
+      "distance": "0.7 mi",
+      "url": "https://www.google.com/maps/search/Chick-fil-A+near+34.0751501%2C-84.5246323"
+    },
+    {
+      "name": "Chipotle Mexican Grill",
+      "distance": "0.7 mi",
+      "url": "https://www.google.com/maps/search/Chipotle%20Mexican%20Grill+near+34.0751501%2C-84.5246323"
+    }
+  ],
+  "coffee": [],
+  "team_lunch": [
+    {
+      "name": "The Patty Wagon",
+      "distance": "0.5 mi",
+      "url": "https://www.google.com/maps/search/The%20Patty%20Wagon+near+34.0751501%2C-84.5246323"
+    },
+    {
+      "name": "Altimate Quality Services",
+      "distance": "0.6 mi",
+      "url": "https://www.google.com/maps/search/Altimate%20Quality%20Services+near+34.0751501%2C-84.5246323"
+    },
+    {
+      "name": "Bub-Ba-Q",
+      "distance": "0.7 mi",
+      "url": "https://www.google.com/maps/search/Bub-Ba-Q+near+34.0751501%2C-84.5246323"
+    }
+  ],
+  "dinner": [
+    {
+      "name": "Ray's Donut Shop",
+      "distance": "0.5 mi",
+      "url": "https://www.google.com/maps/search/Ray's%20Donut%20Shop+near+34.0751501%2C-84.5246323"
+    },
+    {
+      "name": "Vespucci's Italian Kitchen",
+      "distance": "0.5 mi",
+      "url": "https://www.google.com/maps/search/Vespucci's%20Italian%20Kitchen+near+34.0751501%2C-84.5246323"
+    },
+    {
+      "name": "Thai Taste Cuisine",
+      "distance": "0.5 mi",
+      "url": "https://www.google.com/maps/search/Thai%20Taste%20Cuisine+near+34.0751501%2C-84.5246323"
+    },
+    {
+      "name": "La Escondida Bakery",
+      "distance": "0.6 mi",
+      "url": "https://www.google.com/maps/search/La%20Escondida%20Bakery+near+34.0751501%2C-84.5246323"
+    },
+    {
+      "name": "San Andres Grocery and Bakery",
+      "distance": "0.7 mi",
+      "url": "https://www.google.com/maps/search/San%20Andres%20Grocery%20and%20Bakery+near+34.0751501%2C-84.5246323"
+    },
+    {
+      "name": "Sushi Bros",
+      "distance": "0.7 mi",
+      "url": "https://www.google.com/maps/search/Sushi%20Bros+near+34.0751501%2C-84.5246323"
+    },
+    {
+      "name": "Ninja Sushi and Steak",
+      "distance": "0.7 mi",
+      "url": "https://www.google.com/maps/search/Ninja%20Sushi%20and%20Steak+near+34.0751501%2C-84.5246323"
+    }
+  ],
+  "bowling": [
+    {
+      "name": "Stars and Strikes",
+      "distance": "0.6 mi",
+      "url": "https://www.google.com/maps/search/Stars%20and%20Strikes+near+34.0751501%2C-84.5246323"
+    },
+    {
+      "name": "AMF Woodstock Lanes",
+      "distance": "0.9 mi",
+      "url": "https://www.google.com/maps/search/AMF%20Woodstock%20Lanes+near+34.0751501%2C-84.5246323"
+    }
+  ],
+  "arcade": [],
+  "movies": [
+    {
+      "name": "Regal Cherokee",
+      "distance": "2.5 mi",
+      "url": "https://www.google.com/maps/search/Regal%20Cherokee+near+34.0751501%2C-84.5246323"
+    },
+    {
+      "name": "AMC Barrett Commons 24",
+      "distance": "4.9 mi",
+      "url": "https://www.google.com/maps/search/AMC%20Barrett%20Commons%2024+near+34.0751501%2C-84.5246323",
+      "isFar": true
+    },
+    {
+      "name": "Showtime Entertainment",
+      "distance": "5.0 mi",
+      "url": "https://www.google.com/maps/search/Showtime%20Entertainment+near+34.0751501%2C-84.5246323",
+      "isFar": true
+    }
+  ],
+  "fun": [
+    {
+      "name": "Mindscape Escape Rooms",
+      "distance": "3.6 mi",
+      "url": "https://www.google.com/maps/search/Mindscape%20Escape%20Rooms+near+34.0751501%2C-84.5246323",
+      "isFar": true
+    },
+    {
+      "name": "Jumping World",
+      "distance": "4.0 mi",
+      "url": "https://www.google.com/maps/search/Jumping%20World+near+34.0751501%2C-84.5246323",
+      "isFar": true
+    },
+    {
+      "name": "Monkey Joe's - Marietta",
+      "distance": "4.3 mi",
+      "url": "https://www.google.com/maps/search/Monkey%20Joe's%20-%20Marietta+near+34.0751501%2C-84.5246323",
+      "isFar": true
+    },
+    {
+      "name": "Catch Air",
+      "distance": "4.5 mi",
+      "url": "https://www.google.com/maps/search/Catch%20Air+near+34.0751501%2C-84.5246323",
+      "isFar": true
+    },
+    {
+      "name": "The Hangout Zone",
+      "distance": "4.7 mi",
+      "url": "https://www.google.com/maps/search/The%20Hangout%20Zone+near+34.0751501%2C-84.5246323",
+      "isFar": true
+    }
+  ],
+  "hotels": [
+    {
+      "name": "Metro Lodge",
+      "distance": "0.2 mi",
+      "url": "https://www.google.com/maps/search/Metro%20Lodge+near+34.0751501%2C-84.5246323"
+    },
+    {
+      "name": "Quiet house near Downtown Woodstock",
+      "distance": "0.3 mi",
+      "url": "https://www.google.com/maps/search/Quiet%20house%20near%20Downtown%20Woodstock+near+34.0751501%2C-84.5246323"
+    },
+    {
+      "name": "Luxury 5BR/5BA Estate in Marietta | Pool, Hot Tub, Cinema & Game Room |Sleeps 12",
+      "distance": "0.5 mi",
+      "url": "https://www.google.com/maps/search/Luxury%205BR%2F5BA%20Estate%20in%20Marietta%20%7C%20Pool%2C%20Hot%20Tub%2C%20Cinema%20%26%20Game%20Room%20%7CSleeps%2012+near+34.0751501%2C-84.5246323"
+    },
+    {
+      "name": "Spacious 2-bedroom Basement in Marietta with Outdoor Swing",
+      "distance": "0.6 mi",
+      "url": "https://www.google.com/maps/search/Spacious%202-bedroom%20Basement%20in%20Marietta%20with%20Outdoor%20Swing+near+34.0751501%2C-84.5246323"
+    },
+    {
+      "name": "Luxury 5BR/5BA Estate in Marietta | Pool, Hot Tub, Cinema & Game Room |Sleeps 12",
+      "distance": "0.7 mi",
+      "url": "https://www.google.com/maps/search/Luxury%205BR%2F5BA%20Estate%20in%20Marietta%20%7C%20Pool%2C%20Hot%20Tub%2C%20Cinema%20%26%20Game%20Room%20%7CSleeps%2012+near+34.0751501%2C-84.5246323"
+    },
+    {
+      "name": "Hip Cozy 3 - Bedroom on Wooded Lot in Kennesaw",
+      "distance": "0.8 mi",
+      "url": "https://www.google.com/maps/search/Hip%20Cozy%203%20-%20Bedroom%20on%20Wooded%20Lot%20in%20Kennesaw+near+34.0751501%2C-84.5246323"
+    },
+    {
+      "name": "Suburban Extended Stay Hotel",
+      "distance": "0.9 mi",
+      "url": "https://www.google.com/maps/search/Suburban%20Extended%20Stay%20Hotel+near+34.0751501%2C-84.5246323"
+    }
+  ],
+  "gas": [
+    {
+      "name": "Chevron",
+      "distance": "0.5 mi",
+      "url": "https://www.google.com/maps/search/Chevron+near+34.0751501%2C-84.5246323"
+    },
+    {
+      "name": "Shell",
+      "distance": "0.8 mi",
+      "url": "https://www.google.com/maps/search/Shell+near+34.0751501%2C-84.5246323"
+    },
+    {
+      "name": "QuikTrip",
+      "distance": "0.8 mi",
+      "url": "https://www.google.com/maps/search/QuikTrip+near+34.0751501%2C-84.5246323"
+    },
+    {
+      "name": "Sam's Club Gas Station",
+      "distance": "0.9 mi",
+      "url": "https://www.google.com/maps/search/Sam's%20Club%20Gas%20Station+near+34.0751501%2C-84.5246323"
+    },
+    {
+      "name": "Chevron",
+      "distance": "1.0 mi",
+      "url": "https://www.google.com/maps/search/Chevron+near+34.0751501%2C-84.5246323"
+    }
+  ]
+}

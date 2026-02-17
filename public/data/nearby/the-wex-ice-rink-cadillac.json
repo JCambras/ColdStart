@@ -1,0 +1,198 @@
+{
+  "quick_bite": [
+    {
+      "name": "Burger King",
+      "distance": "0.3 mi",
+      "url": "https://www.google.com/maps/search/Burger%20King+near+44.26757620000001%2C-85.4052219"
+    },
+    {
+      "name": "Wendy's",
+      "distance": "0.4 mi",
+      "url": "https://www.google.com/maps/search/Wendy's+near+44.26757620000001%2C-85.4052219"
+    },
+    {
+      "name": "Subway",
+      "distance": "0.5 mi",
+      "url": "https://www.google.com/maps/search/Subway+near+44.26757620000001%2C-85.4052219"
+    },
+    {
+      "name": "Arby's",
+      "distance": "0.6 mi",
+      "url": "https://www.google.com/maps/search/Arby's+near+44.26757620000001%2C-85.4052219"
+    },
+    {
+      "name": "Asian Buffet",
+      "distance": "0.7 mi",
+      "url": "https://www.google.com/maps/search/Asian%20Buffet+near+44.26757620000001%2C-85.4052219"
+    },
+    {
+      "name": "Bob Evans",
+      "distance": "0.7 mi",
+      "url": "https://www.google.com/maps/search/Bob%20Evans+near+44.26757620000001%2C-85.4052219"
+    },
+    {
+      "name": "Taco Bell",
+      "distance": "0.8 mi",
+      "url": "https://www.google.com/maps/search/Taco%20Bell+near+44.26757620000001%2C-85.4052219"
+    }
+  ],
+  "coffee": [
+    {
+      "name": "BIGGBY COFFEE",
+      "distance": "0.7 mi",
+      "url": "https://www.google.com/maps/search/BIGGBY%20COFFEE+near+44.26757620000001%2C-85.4052219"
+    },
+    {
+      "name": "Cadillac Java",
+      "distance": "0.8 mi",
+      "url": "https://www.google.com/maps/search/Cadillac%20Java+near+44.26757620000001%2C-85.4052219"
+    },
+    {
+      "name": "Starbucks",
+      "distance": "0.9 mi",
+      "url": "https://www.google.com/maps/search/Starbucks+near+44.26757620000001%2C-85.4052219"
+    },
+    {
+      "name": "McDonald's",
+      "distance": "0.9 mi",
+      "url": "https://www.google.com/maps/search/McDonald's+near+44.26757620000001%2C-85.4052219"
+    }
+  ],
+  "team_lunch": [
+    {
+      "name": "Great Wall Chinese Restaurant",
+      "distance": "0.9 mi",
+      "url": "https://www.google.com/maps/search/Great%20Wall%20Chinese%20Restaurant+near+44.26757620000001%2C-85.4052219"
+    }
+  ],
+  "dinner": [
+    {
+      "name": "Cantina Bamba: Sabor a Mexico Restaurant",
+      "distance": "0.4 mi",
+      "url": "https://www.google.com/maps/search/Cantina%20Bamba%3A%20Sabor%20a%20Mexico%20Restaurant+near+44.26757620000001%2C-85.4052219"
+    },
+    {
+      "name": "Annie's Baked Goods",
+      "distance": "0.5 mi",
+      "url": "https://www.google.com/maps/search/Annie's%20Baked%20Goods+near+44.26757620000001%2C-85.4052219"
+    },
+    {
+      "name": "The Food Mafia’s BBQ Restaurant & Rolled Ice Cream",
+      "distance": "0.5 mi",
+      "url": "https://www.google.com/maps/search/The%20Food%20Mafia%E2%80%99s%20BBQ%20Restaurant%20%26%20Rolled%20Ice%20Cream+near+44.26757620000001%2C-85.4052219"
+    },
+    {
+      "name": "Dawn's Midtown Food & Beverage",
+      "distance": "0.6 mi",
+      "url": "https://www.google.com/maps/search/Dawn's%20Midtown%20Food%20%26%20Beverage+near+44.26757620000001%2C-85.4052219"
+    },
+    {
+      "name": "Cadillac Nutrition",
+      "distance": "0.8 mi",
+      "url": "https://www.google.com/maps/search/Cadillac%20Nutrition+near+44.26757620000001%2C-85.4052219"
+    },
+    {
+      "name": "The Truck Stop",
+      "distance": "0.8 mi",
+      "url": "https://www.google.com/maps/search/The%20Truck%20Stop+near+44.26757620000001%2C-85.4052219"
+    },
+    {
+      "name": "Little Mexico",
+      "distance": "0.9 mi",
+      "url": "https://www.google.com/maps/search/Little%20Mexico+near+44.26757620000001%2C-85.4052219"
+    }
+  ],
+  "bowling": [
+    {
+      "name": "Parkview Lanes",
+      "distance": "1.2 mi",
+      "url": "https://www.google.com/maps/search/Parkview%20Lanes+near+44.26757620000001%2C-85.4052219"
+    },
+    {
+      "name": "Blue Pin Alley",
+      "distance": "9.9 mi",
+      "url": "https://www.google.com/maps/search/Blue%20Pin%20Alley+near+44.26757620000001%2C-85.4052219",
+      "isFar": true
+    }
+  ],
+  "arcade": [],
+  "movies": [
+    {
+      "name": "GQT Cadillac",
+      "distance": "1.3 mi",
+      "url": "https://www.google.com/maps/search/GQT%20Cadillac+near+44.26757620000001%2C-85.4052219"
+    }
+  ],
+  "fun": [
+    {
+      "name": "Adventure Island",
+      "distance": "3.1 mi",
+      "url": "https://www.google.com/maps/search/Adventure%20Island+near+44.26757620000001%2C-85.4052219",
+      "isFar": true
+    }
+  ],
+  "hotels": [
+    {
+      "name": "Cadillac Leisure Manufactured Housing Community",
+      "distance": "1.0 mi",
+      "url": "https://www.google.com/maps/search/Cadillac%20Leisure%20Manufactured%20Housing%20Community+near+44.26757620000001%2C-85.4052219"
+    },
+    {
+      "name": "Luxe EstateFeet from Lake & DowntownHot TubPets",
+      "distance": "1.1 mi",
+      "url": "https://www.google.com/maps/search/Luxe%20EstateFeet%20from%20Lake%20%26%20DowntownHot%20TubPets+near+44.26757620000001%2C-85.4052219"
+    },
+    {
+      "name": "Downtown 6 Bedroom/11 Beds Home with HotTub, Pool, Speakeasy, and Fireplaces",
+      "distance": "1.1 mi",
+      "url": "https://www.google.com/maps/search/Downtown%206%20Bedroom%2F11%20Beds%20Home%20with%20HotTub%2C%20Pool%2C%20Speakeasy%2C%20and%20Fireplaces+near+44.26757620000001%2C-85.4052219"
+    },
+    {
+      "name": "Sun-Dappled Cadillac Gem with Kayaks and Grill!",
+      "distance": "1.1 mi",
+      "url": "https://www.google.com/maps/search/Sun-Dappled%20Cadillac%20Gem%20with%20Kayaks%20and%20Grill!+near+44.26757620000001%2C-85.4052219"
+    },
+    {
+      "name": "Cadillac",
+      "distance": "1.1 mi",
+      "url": "https://www.google.com/maps/search/Cadillac+near+44.26757620000001%2C-85.4052219"
+    },
+    {
+      "name": "winipeg",
+      "distance": "1.2 mi",
+      "url": "https://www.google.com/maps/search/winipeg+near+44.26757620000001%2C-85.4052219"
+    },
+    {
+      "name": "Hampton Inn & Suites Cadillac",
+      "distance": "1.2 mi",
+      "url": "https://www.google.com/maps/search/Hampton%20Inn%20%26%20Suites%20Cadillac+near+44.26757620000001%2C-85.4052219"
+    }
+  ],
+  "gas": [
+    {
+      "name": "Admiral Petroleum Co",
+      "distance": "0.2 mi",
+      "url": "https://www.google.com/maps/search/Admiral%20Petroleum%20Co+near+44.26757620000001%2C-85.4052219"
+    },
+    {
+      "name": "Marathon Gas",
+      "distance": "0.2 mi",
+      "url": "https://www.google.com/maps/search/Marathon%20Gas+near+44.26757620000001%2C-85.4052219"
+    },
+    {
+      "name": "Pacific Pride",
+      "distance": "0.2 mi",
+      "url": "https://www.google.com/maps/search/Pacific%20Pride+near+44.26757620000001%2C-85.4052219"
+    },
+    {
+      "name": "Wesco",
+      "distance": "0.4 mi",
+      "url": "https://www.google.com/maps/search/Wesco+near+44.26757620000001%2C-85.4052219"
+    },
+    {
+      "name": "Speedway",
+      "distance": "0.7 mi",
+      "url": "https://www.google.com/maps/search/Speedway+near+44.26757620000001%2C-85.4052219"
+    }
+  ]
+}

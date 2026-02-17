@@ -1,0 +1,177 @@
+{
+  "quick_bite": [
+    {
+      "name": "KFC",
+      "distance": "0.6 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=KFC&query_place_id=ChIJfWvvWM-M5IkRlcano6ldLEE&center=41.9060231,-71.0657626"
+    },
+    {
+      "name": "7 Spices - Mediterranean Grill",
+      "distance": "0.8 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=7%20Spices%20-%20Mediterranean%20Grill&query_place_id=ChIJozRw4QiN5IkRkU4dGUWStD4&center=41.901509499999996,-71.0899043"
+    },
+    {
+      "name": "Patricia’s Kitchen",
+      "distance": "0.9 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Patricia%E2%80%99s%20Kitchen&query_place_id=ChIJ5zVw4iHz5IkRsP-3Yv8vUEk&center=41.896032399999996,-71.091073"
+    },
+    {
+      "name": "Adonai Cuisine",
+      "distance": "1.0 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Adonai%20Cuisine&query_place_id=ChIJg8QZQAmN5IkRPbVCvlSTv0o&center=41.9030996,-71.0935525"
+    },
+    {
+      "name": "Weir Dogs",
+      "distance": "1.2 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Weir%20Dogs&query_place_id=ChIJD77Zu1vz5IkRbMtUQuLh-ok&center=41.8864484,-71.08943889999999"
+    }
+  ],
+  "coffee": [
+    {
+      "name": "Dunkin'",
+      "distance": "0.6 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Dunkin'&query_place_id=ChIJP42ZYM-M5IkRMhcYyzH2_Bg&center=41.9051815,-71.0659604"
+    },
+    {
+      "name": "Identity Coffee Co. - Taunton, MA",
+      "distance": "0.8 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Identity%20Coffee%20Co.%20-%20Taunton%2C%20MA&query_place_id=ChIJAceVDaiN5IkRMS2QsL7IFtg&center=41.901440699999995,-71.09114220000001"
+    },
+    {
+      "name": "Neighbors Coffee & Co",
+      "distance": "0.9 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Neighbors%20Coffee%20%26%20Co&query_place_id=ChIJbSbeCzKN5IkRP3hUa52zu00&center=41.900909899999995,-71.0922336"
+    },
+    {
+      "name": "Honey Dew Donuts",
+      "distance": "0.9 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Honey%20Dew%20Donuts&query_place_id=ChIJv6pddlTz5IkRhgW1U-Zszq0&center=41.896645799999995,-71.09168559999999"
+    },
+    {
+      "name": "GuChanYa Pastry, LLC",
+      "distance": "1.0 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=GuChanYa%20Pastry%2C%20LLC&query_place_id=ChIJbZNY1nr15IkRkZT0Pjt9quU&center=41.9136595,-71.0828011"
+    }
+  ],
+  "team_lunch": [
+    {
+      "name": "Hibachi Sushi Buffet",
+      "distance": "0.7 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Hibachi%20Sushi%20Buffet&query_place_id=ChIJuWMy8s-M5IkRMhgjPwDlDaw&center=41.9042491,-71.06234719999999"
+    },
+    {
+      "name": "The Jockey Club",
+      "distance": "0.8 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=The%20Jockey%20Club&query_place_id=ChIJ6UASZACN5IkRp5ScqmLkbLI&center=41.9041265,-71.0604912"
+    },
+    {
+      "name": "Devito’s Pizzeria",
+      "distance": "0.9 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Devito%E2%80%99s%20Pizzeria&query_place_id=ChIJzUUkcauM5IkRabdKyq22pK0&center=41.902052499999996,-71.0923258"
+    },
+    {
+      "name": "Oh So Sweet Kupcakes",
+      "distance": "1.3 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Oh%20So%20Sweet%20Kupcakes&query_place_id=ChIJoeSN1unz5IkRx0yOLK1uAWQ&center=41.891192,-71.053981"
+    },
+    {
+      "name": "D'Angelo Grilled Sandwiches",
+      "distance": "1.5 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=D'Angelo%20Grilled%20Sandwiches&query_place_id=ChIJsbim6cDz5IkRl0xRmPCiT5I&center=41.8790817,-71.06654"
+    }
+  ],
+  "dinner": [
+    {
+      "name": "99 Restaurants",
+      "distance": "0.5 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=99%20Restaurants&query_place_id=ChIJTw2NIcaM5IkRFWexG34uiL0&center=41.9064184,-71.0688253"
+    },
+    {
+      "name": "Nytia's Soul Kitchen",
+      "distance": "0.8 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Nytia's%20Soul%20Kitchen&query_place_id=ChIJWT4sNQCN5IkR0JvWwuk-zOs&center=41.9012904,-71.0906535"
+    },
+    {
+      "name": "Maria’s Place",
+      "distance": "0.8 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Maria%E2%80%99s%20Place&query_place_id=ChIJUWvr8k2N5IkR4qc7qKRM_mc&center=41.9014958,-71.0908058"
+    },
+    {
+      "name": "Union Straw",
+      "distance": "0.8 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Union%20Straw&query_place_id=ChIJ1deA4aSN5IkRpSu3fgmOKB0&center=41.9024273,-71.0910383"
+    },
+    {
+      "name": "The Pearl",
+      "distance": "0.9 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=The%20Pearl&query_place_id=ChIJD9IK3tLz5IkRDU3TwI1APEQ&center=41.8997393,-71.09195509999999"
+    },
+    {
+      "name": "Tex Barry's Coney Island",
+      "distance": "0.9 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Tex%20Barry's%20Coney%20Island&query_place_id=ChIJpzB_aKuM5IkRheoETwJ_7iA&center=41.9015,-71.091909"
+    }
+  ],
+  "bowling": [
+    {
+      "name": "Ryan Family Amusements - Raynham",
+      "distance": "0.8 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Ryan%20Family%20Amusements%20-%20Raynham&query_place_id=ChIJw_LKjcWM5IkRy6LhWpT9f6k&center=41.904617099999996,-71.0608252"
+    }
+  ],
+  "arcade": [],
+  "movies": [
+    {
+      "name": "David Guimaraes",
+      "distance": "3.5 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=David%20Guimaraes&query_place_id=ChIJDea8_MmN5IkR1XuPM7IaeB8&center=41.9326151,-71.02237339999999",
+      "isFar": true
+    }
+  ],
+  "fun": [
+    {
+      "name": "Funcity Adventure Park",
+      "distance": "1.6 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Funcity%20Adventure%20Park&query_place_id=ChIJoepTtubz5IkRZhEAYM_wo5g&center=41.8773219,-71.068785"
+    },
+    {
+      "name": "Platinum City Gaming -Bar-Gaming Lounge- Arcade- Nerf Arena-Gellyball-Smash Room -Rage Room-Basketball",
+      "distance": "2.5 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Platinum%20City%20Gaming%20-Bar-Gaming%20Lounge-%20Arcade-%20Nerf%20Arena-Gellyball-Smash%20Room%20-Rage%20Room-Basketball&query_place_id=ChIJwyBNu1vz5IkRrmNrJGVwlek&center=41.887535,-71.12097159999999"
+    }
+  ],
+  "hotels": [
+    {
+      "name": "Quality Inn Raynham - Taunton - Non-Smoking - King Room",
+      "distance": "0.9 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Quality%20Inn%20Raynham%20-%20Taunton%20-%20Non-Smoking%20-%20King%20Room&query_place_id=ChIJ2RC08NqM5IkRHRaYLZU4MQo&center=41.9057007,-71.059082"
+    },
+    {
+      "name": "Quality Inn Raynham - Taunton",
+      "distance": "0.9 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Quality%20Inn%20Raynham%20-%20Taunton&query_place_id=ChIJxbk7jdqM5IkRbd9epGCEPZk&center=41.905793599999996,-71.0590263"
+    }
+  ],
+  "gas": [
+    {
+      "name": "Super Petroleum",
+      "distance": "0.3 mi",
+      "url": "https://www.google.com/maps/search/Super%20Petroleum+near+41.900234100000006%2C-71.0750875"
+    },
+    {
+      "name": "Canaan Fuels",
+      "distance": "0.3 mi",
+      "url": "https://www.google.com/maps/search/Canaan%20Fuels+near+41.900234100000006%2C-71.0750875"
+    },
+    {
+      "name": "Gulf Gas",
+      "distance": "0.3 mi",
+      "url": "https://www.google.com/maps/search/Gulf%20Gas+near+41.900234100000006%2C-71.0750875"
+    },
+    {
+      "name": "The Local Shoppe # 014",
+      "distance": "0.3 mi",
+      "url": "https://www.google.com/maps/search/The%20Local%20Shoppe%20%23%20014+near+41.900234100000006%2C-71.0750875"
+    }
+  ]
+}

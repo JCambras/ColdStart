@@ -1,0 +1,135 @@
+{
+  "quick_bite": [
+    {
+      "name": "Wendy's",
+      "distance": "0.8 mi",
+      "url": "https://www.google.com/maps/search/Wendy's+near+38.4915938%2C-77.9938787"
+    },
+    {
+      "name": "Taco Bell",
+      "distance": "1.0 mi",
+      "url": "https://www.google.com/maps/search/Taco%20Bell+near+38.4915938%2C-77.9938787"
+    },
+    {
+      "name": "Popeyes Louisiana Kitchen",
+      "distance": "1.0 mi",
+      "url": "https://www.google.com/maps/search/Popeyes%20Louisiana%20Kitchen+near+38.4915938%2C-77.9938787"
+    }
+  ],
+  "coffee": [],
+  "team_lunch": [
+    {
+      "name": "Wingstreet",
+      "distance": "0.7 mi",
+      "url": "https://www.google.com/maps/search/Wingstreet+near+38.4915938%2C-77.9938787"
+    },
+    {
+      "name": "Mama Mais Pizza",
+      "distance": "1.0 mi",
+      "url": "https://www.google.com/maps/search/Mama%20Mais%20Pizza+near+38.4915938%2C-77.9938787"
+    },
+    {
+      "name": "Food Truck (Taquería)",
+      "distance": "1.0 mi",
+      "url": "https://www.google.com/maps/search/Food%20Truck%20(Taquer%C3%ADa)+near+38.4915938%2C-77.9938787"
+    }
+  ],
+  "dinner": [
+    {
+      "name": "El Quetzal Grill",
+      "distance": "0.2 mi",
+      "url": "https://www.google.com/maps/search/El%20Quetzal%20Grill+near+38.4915938%2C-77.9938787"
+    },
+    {
+      "name": "Hornitos International Grill",
+      "distance": "0.2 mi",
+      "url": "https://www.google.com/maps/search/Hornitos%20International%20Grill+near+38.4915938%2C-77.9938787"
+    },
+    {
+      "name": "Los Potrillos Taqueria",
+      "distance": "0.2 mi",
+      "url": "https://www.google.com/maps/search/Los%20Potrillos%20Taqueria+near+38.4915938%2C-77.9938787"
+    },
+    {
+      "name": "Frank’s Diner",
+      "distance": "0.7 mi",
+      "url": "https://www.google.com/maps/search/Frank%E2%80%99s%20Diner+near+38.4915938%2C-77.9938787"
+    },
+    {
+      "name": "Dolcery Desserts",
+      "distance": "0.8 mi",
+      "url": "https://www.google.com/maps/search/Dolcery%20Desserts+near+38.4915938%2C-77.9938787"
+    },
+    {
+      "name": "Pete's Pizza",
+      "distance": "0.8 mi",
+      "url": "https://www.google.com/maps/search/Pete's%20Pizza+near+38.4915938%2C-77.9938787"
+    }
+  ],
+  "bowling": [],
+  "arcade": [],
+  "movies": [
+    {
+      "name": "Regal Culpeper",
+      "distance": "1.3 mi",
+      "url": "https://www.google.com/maps/search/Regal%20Culpeper+near+38.4915938%2C-77.9938787"
+    }
+  ],
+  "fun": [
+    {
+      "name": "Meadows of Culpeper Recreation",
+      "distance": "0.8 mi",
+      "url": "https://www.google.com/maps/search/Meadows%20of%20Culpeper%20Recreation+near+38.4915938%2C-77.9938787"
+    },
+    {
+      "name": "Puzzle Room Live",
+      "distance": "1.5 mi",
+      "url": "https://www.google.com/maps/search/Puzzle%20Room%20Live+near+38.4915938%2C-77.9938787"
+    },
+    {
+      "name": "Bounce With Us LLC",
+      "distance": "5.4 mi",
+      "url": "https://www.google.com/maps/search/Bounce%20With%20Us%20LLC+near+38.4915938%2C-77.9938787",
+      "isFar": true
+    }
+  ],
+  "hotels": [
+    {
+      "name": "Sleepy Hollow Motel",
+      "distance": "0.8 mi",
+      "url": "https://www.google.com/maps/search/Sleepy%20Hollow%20Motel+near+38.4915938%2C-77.9938787"
+    },
+    {
+      "name": "Botanical Oasis in downtown Culpeper",
+      "distance": "1.2 mi",
+      "url": "https://www.google.com/maps/search/Botanical%20Oasis%20in%20downtown%20Culpeper+near+38.4915938%2C-77.9938787"
+    },
+    {
+      "name": "West Davis Mill",
+      "distance": "1.3 mi",
+      "url": "https://www.google.com/maps/search/West%20Davis%20Mill+near+38.4915938%2C-77.9938787"
+    }
+  ],
+  "gas": [
+    {
+      "name": "Marathon Gas",
+      "distance": "0.1 mi",
+      "url": "https://www.google.com/maps/search/Marathon%20Gas+near+38.4915938%2C-77.9938787"
+    },
+    {
+      "name": "7-Eleven Fuel",
+      "distance": "0.7 mi",
+      "url": "https://www.google.com/maps/search/7-Eleven%20Fuel+near+38.4915938%2C-77.9938787"
+    },
+    {
+      "name": "E & C Enterprises Inc",
+      "distance": "0.9 mi",
+      "url": "https://www.google.com/maps/search/E%20%26%20C%20Enterprises%20Inc+near+38.4915938%2C-77.9938787"
+    },
+    {
+      "name": "Shell",
+      "distance": "0.9 mi",
+      "url": "https://www.google.com/maps/search/Shell+near+38.4915938%2C-77.9938787"
+    }
+  ]
+}

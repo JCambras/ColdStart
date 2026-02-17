@@ -1,0 +1,209 @@
+{
+  "quick_bite": [
+    {
+      "name": "Subway",
+      "distance": "0.1 mi",
+      "url": "https://www.google.com/maps/search/Subway+near+39.7410913%2C-105.19744329999999"
+    },
+    {
+      "name": "Taco Bell",
+      "distance": "0.2 mi",
+      "url": "https://www.google.com/maps/search/Taco%20Bell+near+39.7410913%2C-105.19744329999999"
+    },
+    {
+      "name": "SNOWFOX Sushi",
+      "distance": "0.3 mi",
+      "url": "https://www.google.com/maps/search/SNOWFOX%20Sushi+near+39.7410913%2C-105.19744329999999"
+    },
+    {
+      "name": "Sonic Drive-In",
+      "distance": "0.3 mi",
+      "url": "https://www.google.com/maps/search/Sonic%20Drive-In+near+39.7410913%2C-105.19744329999999"
+    },
+    {
+      "name": "Medicine Mike's",
+      "distance": "0.5 mi",
+      "url": "https://www.google.com/maps/search/Medicine%20Mike's+near+39.7410913%2C-105.19744329999999"
+    }
+  ],
+  "coffee": [
+    {
+      "name": "McDonald's",
+      "distance": "0.1 mi",
+      "url": "https://www.google.com/maps/search/McDonald's+near+39.7410913%2C-105.19744329999999"
+    },
+    {
+      "name": "Starbucks Coffee Company",
+      "distance": "0.2 mi",
+      "url": "https://www.google.com/maps/search/Starbucks%20Coffee%20Company+near+39.7410913%2C-105.19744329999999"
+    },
+    {
+      "name": "Starbucks Coffee Company",
+      "distance": "0.3 mi",
+      "url": "https://www.google.com/maps/search/Starbucks%20Coffee%20Company+near+39.7410913%2C-105.19744329999999"
+    }
+  ],
+  "team_lunch": [
+    {
+      "name": "New Panda",
+      "distance": "0.2 mi",
+      "url": "https://www.google.com/maps/search/New%20Panda+near+39.7410913%2C-105.19744329999999"
+    },
+    {
+      "name": "Phở Golden",
+      "distance": "0.2 mi",
+      "url": "https://www.google.com/maps/search/Ph%E1%BB%9F%20Golden+near+39.7410913%2C-105.19744329999999"
+    },
+    {
+      "name": "Wingstop",
+      "distance": "0.3 mi",
+      "url": "https://www.google.com/maps/search/Wingstop+near+39.7410913%2C-105.19744329999999"
+    }
+  ],
+  "dinner": [
+    {
+      "name": "Tequila's Family Mexican Restaurant",
+      "distance": "0.1 mi",
+      "url": "https://www.google.com/maps/search/Tequila's%20Family%20Mexican%20Restaurant+near+39.7410913%2C-105.19744329999999"
+    },
+    {
+      "name": "Blue Pan Pizza",
+      "distance": "0.1 mi",
+      "url": "https://www.google.com/maps/search/Blue%20Pan%20Pizza+near+39.7410913%2C-105.19744329999999"
+    },
+    {
+      "name": "Dumpling Bay",
+      "distance": "0.2 mi",
+      "url": "https://www.google.com/maps/search/Dumpling%20Bay+near+39.7410913%2C-105.19744329999999"
+    },
+    {
+      "name": "India's Best Curry & Grill",
+      "distance": "0.3 mi",
+      "url": "https://www.google.com/maps/search/India's%20Best%20Curry%20%26%20Grill+near+39.7410913%2C-105.19744329999999"
+    },
+    {
+      "name": "Primito's Burritos and Chilaquiles",
+      "distance": "0.3 mi",
+      "url": "https://www.google.com/maps/search/Primito's%20Burritos%20and%20Chilaquiles+near+39.7410913%2C-105.19744329999999"
+    },
+    {
+      "name": "Aladdin Mediterranean Grill",
+      "distance": "0.4 mi",
+      "url": "https://www.google.com/maps/search/Aladdin%20Mediterranean%20Grill+near+39.7410913%2C-105.19744329999999"
+    },
+    {
+      "name": "Pepe's Tortas & Burgers",
+      "distance": "0.4 mi",
+      "url": "https://www.google.com/maps/search/Pepe's%20Tortas%20%26%20Burgers+near+39.7410913%2C-105.19744329999999"
+    }
+  ],
+  "bowling": [
+    {
+      "name": "Holiday Bowling & Billards",
+      "distance": "4.5 mi",
+      "url": "https://www.google.com/maps/search/Holiday%20Bowling%20%26%20Billards+near+39.7410913%2C-105.19744329999999",
+      "isFar": true
+    }
+  ],
+  "arcade": [],
+  "movies": [
+    {
+      "name": "Regal UA Colorado Mills",
+      "distance": "2.3 mi",
+      "url": "https://www.google.com/maps/search/Regal%20UA%20Colorado%20Mills+near+39.7410913%2C-105.19744329999999"
+    }
+  ],
+  "fun": [
+    {
+      "name": "The Splash at Fossil Trace",
+      "distance": "0.7 mi",
+      "url": "https://www.google.com/maps/search/The%20Splash%20at%20Fossil%20Trace+near+39.7410913%2C-105.19744329999999"
+    },
+    {
+      "name": "Heritage Amusements",
+      "distance": "2.2 mi",
+      "url": "https://www.google.com/maps/search/Heritage%20Amusements+near+39.7410913%2C-105.19744329999999"
+    },
+    {
+      "name": "Slick City Action Park",
+      "distance": "2.3 mi",
+      "url": "https://www.google.com/maps/search/Slick%20City%20Action%20Park+near+39.7410913%2C-105.19744329999999"
+    },
+    {
+      "name": "Conundrum Escape Rooms",
+      "distance": "4.8 mi",
+      "url": "https://www.google.com/maps/search/Conundrum%20Escape%20Rooms+near+39.7410913%2C-105.19744329999999",
+      "isFar": true
+    },
+    {
+      "name": "Golden Puzzle Room",
+      "distance": "4.9 mi",
+      "url": "https://www.google.com/maps/search/Golden%20Puzzle%20Room+near+39.7410913%2C-105.19744329999999",
+      "isFar": true
+    }
+  ],
+  "hotels": [
+    {
+      "name": "Golden Dreamhouse Superhost 3 BR | Trails & Brews - Extended Stay",
+      "distance": "0.1 mi",
+      "url": "https://www.google.com/maps/search/Golden%20Dreamhouse%20Superhost%203%20BR%20%7C%20Trails%20%26%20Brews%20-%20Extended%20Stay+near+39.7410913%2C-105.19744329999999"
+    },
+    {
+      "name": "Comfy Bedroom & Half Bath w/ Fast Wifi",
+      "distance": "0.2 mi",
+      "url": "https://www.google.com/maps/search/Comfy%20Bedroom%20%26%20Half%20Bath%20w%2F%20Fast%20Wifi+near+39.7410913%2C-105.19744329999999"
+    },
+    {
+      "name": "Central Suite",
+      "distance": "0.4 mi",
+      "url": "https://www.google.com/maps/search/Central%20Suite+near+39.7410913%2C-105.19744329999999"
+    },
+    {
+      "name": "Golden Foothills | Hot Tub | Hiking & Biking!",
+      "distance": "0.4 mi",
+      "url": "https://www.google.com/maps/search/Golden%20Foothills%20%7C%20Hot%20Tub%20%7C%20Hiking%20%26%20Biking!+near+39.7410913%2C-105.19744329999999"
+    },
+    {
+      "name": "Golden Foothills - Hot Tub - Hiking Biking! - Three-Bedroom Apartment",
+      "distance": "0.4 mi",
+      "url": "https://www.google.com/maps/search/Golden%20Foothills%20-%20Hot%20Tub%20-%20Hiking%20Biking!%20-%20Three-Bedroom%20Apartment+near+39.7410913%2C-105.19744329999999"
+    },
+    {
+      "name": "Bright Open Layout With Great Access to Outdoor Spaces THE Gateway to Colorado!",
+      "distance": "0.5 mi",
+      "url": "https://www.google.com/maps/search/Bright%20Open%20Layout%20With%20Great%20Access%20to%20Outdoor%20Spaces%20THE%20Gateway%20to%20Colorado!+near+39.7410913%2C-105.19744329999999"
+    },
+    {
+      "name": "Pet Friendly Cheerful 2 Bedroom Basement Apartment in Golden",
+      "distance": "0.5 mi",
+      "url": "https://www.google.com/maps/search/Pet%20Friendly%20Cheerful%202%20Bedroom%20Basement%20Apartment%20in%20Golden+near+39.7410913%2C-105.19744329999999"
+    }
+  ],
+  "gas": [
+    {
+      "name": "King Soopers Fuel Center",
+      "distance": "0.3 mi",
+      "url": "https://www.google.com/maps/search/King%20Soopers%20Fuel%20Center+near+39.7410913%2C-105.19744329999999"
+    },
+    {
+      "name": "GOLDEN EAGLE GAS",
+      "distance": "0.3 mi",
+      "url": "https://www.google.com/maps/search/GOLDEN%20EAGLE%20GAS+near+39.7410913%2C-105.19744329999999"
+    },
+    {
+      "name": "Shell",
+      "distance": "1.1 mi",
+      "url": "https://www.google.com/maps/search/Shell+near+39.7410913%2C-105.19744329999999"
+    },
+    {
+      "name": "Conoco",
+      "distance": "1.1 mi",
+      "url": "https://www.google.com/maps/search/Conoco+near+39.7410913%2C-105.19744329999999"
+    },
+    {
+      "name": "Circle K | Gas Station",
+      "distance": "1.4 mi",
+      "url": "https://www.google.com/maps/search/Circle%20K%20%7C%20Gas%20Station+near+39.7410913%2C-105.19744329999999"
+    }
+  ]
+}

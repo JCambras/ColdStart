@@ -1,0 +1,183 @@
+{
+  "quick_bite": [
+    {
+      "name": "The Grill",
+      "distance": "0.4 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=The%20Grill&query_place_id=ChIJMXShWwB_MogRpsRd2cnv2q0&center=42.108726,-80.1572314"
+    },
+    {
+      "name": "Taco Bell",
+      "distance": "0.7 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Taco%20Bell&query_place_id=ChIJl9Y99gh_MogR3xAyWZo9UTU&center=42.0992999,-80.1457284"
+    },
+    {
+      "name": "Fresh Monkee",
+      "distance": "0.8 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Fresh%20Monkee&query_place_id=ChIJGWfpAwB_MogRrSRfINqsOas&center=42.1001,-80.1441246"
+    },
+    {
+      "name": "Subway",
+      "distance": "0.8 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Subway&query_place_id=ChIJc3eSmgp_MogRvh8NPYzkhuQ&center=42.105199999999996,-80.1434119"
+    },
+    {
+      "name": "Five Guys",
+      "distance": "0.8 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Five%20Guys&query_place_id=ChIJ1asoCwh_MogRiIx0qn5gXVo&center=42.097561299999995,-80.1447838"
+    }
+  ],
+  "coffee": [],
+  "team_lunch": [
+    {
+      "name": "Hi & Dri Pub",
+      "distance": "0.2 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Hi%20%26%20Dri%20Pub&query_place_id=ChIJIeAl9BF_MogRAIp1kGS0NR8&center=42.103265199999996,-80.1549723"
+    },
+    {
+      "name": "Sunset Cafe",
+      "distance": "0.5 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Sunset%20Cafe&query_place_id=ChIJsT3rmHJ_MogRE-B2Q22tTgs&center=42.1097518,-80.1541202"
+    },
+    {
+      "name": "Roma's Italian Kitchen",
+      "distance": "0.7 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Roma's%20Italian%20Kitchen&query_place_id=ChIJqd-Y6wh_MogRxJWJWzCQx0s&center=42.099029699999996,-80.1467729"
+    },
+    {
+      "name": "Applebee's Grill + Bar",
+      "distance": "0.7 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Applebee's%20Grill%20%2B%20Bar&query_place_id=ChIJbXWs8Qh_MogR0s7PrS9BHoQ&center=42.0991036,-80.1461891"
+    },
+    {
+      "name": "Icing on the Lake Sweet Vault",
+      "distance": "1.2 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Icing%20on%20the%20Lake%20Sweet%20Vault&query_place_id=ChIJERaPMwB_MogRtvNjpO-rnTI&center=42.106953999999995,-80.13432960000002"
+    }
+  ],
+  "dinner": [
+    {
+      "name": "Oasis Pub & Tiki Bar",
+      "distance": "0.1 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Oasis%20Pub%20%26%20Tiki%20Bar&query_place_id=ChIJrWnr0hN_MogR68Scgw8zguU&center=42.103462,-80.15675569999999"
+    },
+    {
+      "name": "Syd's Place",
+      "distance": "0.3 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Syd's%20Place&query_place_id=ChIJX9Gyxw1_MogRhmu-kVf2foE&center=42.1039591,-80.1519562"
+    },
+    {
+      "name": "West Lake Bakery & Deli",
+      "distance": "0.4 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=West%20Lake%20Bakery%20%26%20Deli&query_place_id=ChIJ1RIUwRd_MogR8JOUTtJM6iA&center=42.1003271,-80.1640779"
+    },
+    {
+      "name": "Royal Chopstix Asian Cuisine",
+      "distance": "0.4 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Royal%20Chopstix%20Asian%20Cuisine&query_place_id=ChIJAaURoml_MogRYzchoqS96XA&center=42.1005703,-80.1645313"
+    },
+    {
+      "name": "Hibachi Japanese Steak House",
+      "distance": "0.6 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Hibachi%20Japanese%20Steak%20House&query_place_id=ChIJv-DJSQ9_MogRcA6R5sbTMBM&center=42.098968,-80.1488234"
+    },
+    {
+      "name": "Thai Taste Cuisine",
+      "distance": "0.6 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Thai%20Taste%20Cuisine&query_place_id=ChIJp0sWNgB_MogRaTjolj4eX1I&center=42.1117831,-80.15528719999999"
+    }
+  ],
+  "bowling": [
+    {
+      "name": "Rolling Meadow Lanes",
+      "distance": "2.0 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Rolling%20Meadow%20Lanes&query_place_id=ChIJPzxw_Ux-MogRYVod0cZV_sY&center=42.084188100000006,-80.1289917"
+    },
+    {
+      "name": "Greengarden Lanes",
+      "distance": "3.1 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Greengarden%20Lanes&query_place_id=ChIJPzdrZNZ_MogRCgJyWyp-8Y0&center=42.0891788,-80.10016569999999",
+      "isFar": true
+    },
+    {
+      "name": "Round1 Bowling & Arcade Millcreek Mall",
+      "distance": "3.9 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Round1%20Bowling%20%26%20Arcade%20Millcreek%20Mall&query_place_id=ChIJR_-CmWh_MogRTu28GSptga8&center=42.068382899999996,-80.0997027",
+      "isFar": true
+    }
+  ],
+  "arcade": [],
+  "movies": [
+    {
+      "name": "Erie Movie House - Rent your own movie theater",
+      "distance": "0.3 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Erie%20Movie%20House%20-%20Rent%20your%20own%20movie%20theater&query_place_id=ChIJmWNd2tjYM4gRcFK7T3-mvaM&center=42.101079999999996,-80.1639363"
+    },
+    {
+      "name": "TREC Giant Screen Theater",
+      "distance": "0.5 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=TREC%20Giant%20Screen%20Theater&query_place_id=ChIJsT3rmHJ_MogRoUY82TLMuUE&center=42.1097518,-80.1541201"
+    },
+    {
+      "name": "Starlight Cinema Entertainment",
+      "distance": "3.6 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Starlight%20Cinema%20Entertainment&query_place_id=ChIJO6G07d1_LYgRtqIUuo8ZMuc&center=42.1251144,-80.09432509999999",
+      "isFar": true
+    }
+  ],
+  "fun": [
+    {
+      "name": "Rocket Blast",
+      "distance": "0.3 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Rocket%20Blast&query_place_id=ChIJfQ6yj9F_MogR0PFVDKcGzfI&center=42.1077823,-80.1546942"
+    },
+    {
+      "name": "Waldameer & Water World",
+      "distance": "0.3 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Waldameer%20%26%20Water%20World&query_place_id=ChIJUR1JZGR_MogRPdhih7Z06hs&center=42.1082542,-80.1560721"
+    },
+    {
+      "name": "Rainbow Gardens",
+      "distance": "0.4 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Rainbow%20Gardens&query_place_id=ChIJ-8P6tGx_MogRveszw-DXRKc&center=42.1086136,-80.1584199"
+    },
+    {
+      "name": "Pirates Cove",
+      "distance": "0.4 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Pirates%20Cove&query_place_id=ChIJw0bHQ5F_MogRpGy9uCIUcSQ&center=42.108625700000005,-80.15832879999999"
+    }
+  ],
+  "hotels": [
+    {
+      "name": "Blue Coral",
+      "distance": "0.1 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Blue%20Coral&query_place_id=ChIJK4-SxxN_MogR4B_t6ept81o&center=42.1047113,-80.1576024"
+    },
+    {
+      "name": "Riviera Motel Erie",
+      "distance": "0.1 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Riviera%20Motel%20Erie&query_place_id=ChIJQYXdjhF_MogRBW4vI9iknJk&center=42.102857199999995,-80.1558323"
+    }
+  ],
+  "gas": [
+    {
+      "name": "Texaco",
+      "distance": "0.6 mi",
+      "url": "https://www.google.com/maps/search/Texaco+near+42.1035231%2C-80.15808729999999"
+    },
+    {
+      "name": "PENNZOIL",
+      "distance": "0.7 mi",
+      "url": "https://www.google.com/maps/search/PENNZOIL+near+42.1035231%2C-80.15808729999999"
+    },
+    {
+      "name": "Citgo",
+      "distance": "0.7 mi",
+      "url": "https://www.google.com/maps/search/Citgo+near+42.1035231%2C-80.15808729999999"
+    },
+    {
+      "name": "MILLCREEK SPEEDCHECK",
+      "distance": "0.8 mi",
+      "url": "https://www.google.com/maps/search/MILLCREEK%20SPEEDCHECK+near+42.1035231%2C-80.15808729999999"
+    }
+  ]
+}

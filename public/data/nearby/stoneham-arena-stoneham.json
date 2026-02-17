@@ -1,0 +1,196 @@
+{
+  "quick_bite": [
+    {
+      "name": "Boston Meals Inc",
+      "distance": "0.4 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Boston%20Meals%20Inc&query_place_id=ChIJT7rpJYt044kR-825ywES8H8&center=42.47928460000001,-71.1204838"
+    },
+    {
+      "name": "Wendy's",
+      "distance": "0.4 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Wendy's&query_place_id=ChIJPVF41Yp044kR6JzNzXgCFQQ&center=42.4792504,-71.1207783"
+    },
+    {
+      "name": "In A Bite",
+      "distance": "0.6 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=In%20A%20Bite&query_place_id=ChIJR6Zrdnt144kR-QxuTl8kF9M&center=42.4820037,-71.1008219"
+    },
+    {
+      "name": "Anthony's Italian Specialties",
+      "distance": "0.7 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Anthony's%20Italian%20Specialties&query_place_id=ChIJb4tYMoJ044kRWhLAiKLNCXk&center=42.4788311,-71.0999382"
+    }
+  ],
+  "coffee": [
+    {
+      "name": "Dunkin'",
+      "distance": "0.3 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Dunkin'&query_place_id=ChIJfY4kvYV044kRp3BE7D7rLI4&center=42.4809853,-71.1076029"
+    },
+    {
+      "name": "Dunkin'",
+      "distance": "0.4 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Dunkin'&query_place_id=ChIJ0-11O4t044kRM6dhVop5qPU&center=42.479912399999996,-71.12006629999999"
+    },
+    {
+      "name": "Starbucks Coffee Company",
+      "distance": "0.6 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Starbucks%20Coffee%20Company&query_place_id=ChIJlbwNUwl144kRoT7xKasQ5KA&center=42.48477,-71.10157"
+    },
+    {
+      "name": "Pignone's Cafe of Stoneham, LLC",
+      "distance": "0.7 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Pignone's%20Cafe%20of%20Stoneham%2C%20LLC&query_place_id=ChIJ9XtaHoN044kRgLjjzjh7hKA&center=42.4815629,-71.1004432"
+    },
+    {
+      "name": "Kushala Sip Coffee House",
+      "distance": "0.7 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Kushala%20Sip%20Coffee%20House&query_place_id=ChIJebDOA4N044kRTF9tP-qE6OY&center=42.480827,-71.100399"
+    }
+  ],
+  "team_lunch": [
+    {
+      "name": "Polcari's Restaurant",
+      "distance": "0.4 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Polcari's%20Restaurant&query_place_id=ChIJT7rpJYt044kRjjO4Q4rezOE&center=42.47928460000001,-71.1204838"
+    },
+    {
+      "name": "D'Angelo Grilled Sandwiches",
+      "distance": "0.9 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=D'Angelo%20Grilled%20Sandwiches&query_place_id=ChIJbZvVWxd144kR63jRPr9MTzY&center=42.489539099999995,-71.09980100000001"
+    },
+    {
+      "name": "Swan Cake",
+      "distance": "1.4 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Swan%20Cake&query_place_id=ChIJ1TeRicF044kR0HjzuIdO4k4&center=42.4984447,-71.1269049"
+    }
+  ],
+  "dinner": [
+    {
+      "name": "Charlie's On Main pizza",
+      "distance": "0.3 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Charlie's%20On%20Main%20pizza&query_place_id=ChIJ9-1AZZJz44kRDLWQJfX2yas&center=42.480726499999996,-71.1079942"
+    },
+    {
+      "name": "Sam Walker's American Tavern",
+      "distance": "0.3 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Sam%20Walker's%20American%20Tavern&query_place_id=ChIJq6rqcYt044kRl7RZ7CJ609o&center=42.4804044,-71.1187479"
+    },
+    {
+      "name": "Ailaa Himalayan Bar and Grill",
+      "distance": "0.3 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Ailaa%20Himalayan%20Bar%20and%20Grill&query_place_id=ChIJxWYmhCZ144kRCBQ7vLj8ytI&center=42.4810735,-71.107205"
+    },
+    {
+      "name": "Freedom Gluten Free",
+      "distance": "0.5 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Freedom%20Gluten%20Free&query_place_id=ChIJAQBwPWB044kR3J0bfoi9yQM&center=42.475991799999996,-71.11955309999999"
+    },
+    {
+      "name": "Gaetano's Ristorante",
+      "distance": "0.7 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Gaetano's%20Ristorante&query_place_id=ChIJebz315x044kRkzydus2GT5A&center=42.4835719,-71.10034830000001"
+    },
+    {
+      "name": "Bacci's Restaurant",
+      "distance": "0.7 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Bacci's%20Restaurant&query_place_id=ChIJp4EB4YJ044kRbDYvEIhNXHA&center=42.4815502,-71.09997299999999"
+    }
+  ],
+  "bowling": [
+    {
+      "name": "Woburn Bowladrome",
+      "distance": "1.9 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Woburn%20Bowladrome&query_place_id=ChIJJwaA0at144kRVfnSIVdwDxQ&center=42.4793142,-71.1507146"
+    },
+    {
+      "name": "Wakefield Bowladrome",
+      "distance": "2.8 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Wakefield%20Bowladrome&query_place_id=ChIJkaOqnzNz44kR3ureV7mHlyk&center=42.5029481,-71.0661721"
+    }
+  ],
+  "arcade": [],
+  "movies": [
+    {
+      "name": "Showcase Cinema de Lux Woburn",
+      "distance": "2.6 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Showcase%20Cinema%20de%20Lux%20Woburn&query_place_id=ChIJK_D4LhF144kRkh5AeFKl0ms&center=42.496956499999996,-71.16070189999999"
+    },
+    {
+      "name": "IMAX 3D Theater",
+      "distance": "2.9 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=IMAX%203D%20Theater&query_place_id=ChIJ4QqUlaUM44kRW5y4r-q8SjE&center=42.5202021,-71.08976369999999"
+    }
+  ],
+  "fun": [
+    {
+      "name": "Jump On In",
+      "distance": "1.4 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Jump%20On%20In&query_place_id=ChIJ-5iQwuB044kRdIc5o1w5tug&center=42.4977661,-71.12834099999999"
+    },
+    {
+      "name": "Sheppard's Stone",
+      "distance": "1.8 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Sheppard's%20Stone&query_place_id=ChIJs6XOjGh144kRT23YIvCUR8k&center=42.4559019,-71.1074203"
+    },
+    {
+      "name": "Winchester Cultural District - Sculpture \"Waterfowl\" by R. Douglass Rice",
+      "distance": "2.2 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Winchester%20Cultural%20District%20-%20Sculpture%20%22Waterfowl%22%20by%20R.%20Douglass%20Rice&query_place_id=ChIJy0IPcwB144kRpZKxjhimAe0&center=42.454318099999995,-71.13508759999999"
+    },
+    {
+      "name": "Christmas Box Angel of Hope",
+      "distance": "2.2 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Christmas%20Box%20Angel%20of%20Hope&query_place_id=ChIJjTZEcQB144kR331oQy2BUPM&center=42.4710177,-71.15482829999999"
+    }
+  ],
+  "hotels": [
+    {
+      "name": "Spark by Hilton Woburn Boston",
+      "distance": "0.2 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Spark%20by%20Hilton%20Woburn%20Boston&query_place_id=ChIJiVFiDy1144kRxlWjDTUpHg0&center=42.479081199999996,-71.1153235"
+    },
+    {
+      "name": "Best Western Plus New Englander",
+      "distance": "0.3 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Best%20Western%20Plus%20New%20Englander&query_place_id=ChIJJdiHxox044kRHD5ft4PEaGQ&center=42.480823699999995,-71.1188319"
+    },
+    {
+      "name": "Delightful New England Townhome",
+      "distance": "0.4 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Delightful%20New%20England%20Townhome&query_place_id=ChIJf6ORtox044kRSC7kfUl_7p8&center=42.4826164,-71.1206512"
+    },
+    {
+      "name": "Enchanting Hidden Door Escape",
+      "distance": "0.4 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Enchanting%20Hidden%20Door%20Escape&query_place_id=ChIJITVj5IR044kRjzgQUdaQj2s&center=42.482219699999995,-71.105812"
+    },
+    {
+      "name": "Courtyard by Marriott Boston Woburn/Boston North",
+      "distance": "0.5 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Courtyard%20by%20Marriott%20Boston%20Woburn%2FBoston%20North&query_place_id=ChIJ9-Q4N5J044kR_k-Q6YoL2-A&center=42.488075599999995,-71.1165654"
+    }
+  ],
+  "gas": [
+    {
+      "name": "Mobil",
+      "distance": "0.1 mi",
+      "url": "https://www.google.com/maps/search/Mobil+near+42.4813699%2C-71.11333359999999"
+    },
+    {
+      "name": "AL Prime",
+      "distance": "0.2 mi",
+      "url": "https://www.google.com/maps/search/AL%20Prime+near+42.4813699%2C-71.11333359999999"
+    },
+    {
+      "name": "Montvale Gulf",
+      "distance": "0.3 mi",
+      "url": "https://www.google.com/maps/search/Montvale%20Gulf+near+42.4813699%2C-71.11333359999999"
+    },
+    {
+      "name": "bp",
+      "distance": "0.3 mi",
+      "url": "https://www.google.com/maps/search/bp+near+42.4813699%2C-71.11333359999999"
+    }
+  ]
+}

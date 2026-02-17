@@ -1,0 +1,198 @@
+{
+  "quick_bite": [
+    {
+      "name": "Dan's Rice Box Asian Cuisine",
+      "distance": "0.9 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Dan's%20Rice%20Box%20Asian%20Cuisine&query_place_id=ChIJVYfBtrUO5okR6P3Bb0IZw0o&center=41.347153999999996,-72.0485307"
+    },
+    {
+      "name": "ZENSHI Handcrafted Sushi",
+      "distance": "1.0 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=ZENSHI%20Handcrafted%20Sushi&query_place_id=ChIJWf6b2CsP5okR5tbR-RbXnP8&center=41.3448792,-72.0491369"
+    },
+    {
+      "name": "Subway",
+      "distance": "1.0 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Subway&query_place_id=ChIJG4gwsbUO5okRQy-EWm5XNuM&center=41.345118,-72.0498592"
+    },
+    {
+      "name": "Supreme Hot Dogs",
+      "distance": "1.2 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Supreme%20Hot%20Dogs&query_place_id=ChIJF34bPl0P5okRok65ZoKoIBU&center=41.346121,-72.0536685"
+    },
+    {
+      "name": "Wendy's",
+      "distance": "1.3 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Wendy's&query_place_id=ChIJE6mSKbcO5okRdGZeSfL4Asw&center=41.3492049,-72.0553833"
+    },
+    {
+      "name": "Five Guys",
+      "distance": "2.2 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Five%20Guys&query_place_id=ChIJGYulfaAO5okRNIIY5AmVX7E&center=41.3677907,-72.0640514"
+    }
+  ],
+  "coffee": [
+    {
+      "name": "Dunkin'",
+      "distance": "0.8 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Dunkin'&query_place_id=ChIJc1WpO0sJ5okR8d4a6vVgxHo&center=41.346992199999995,-72.0458852"
+    },
+    {
+      "name": "Starbucks Coffee Company",
+      "distance": "0.9 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Starbucks%20Coffee%20Company&query_place_id=ChIJ1138GbUO5okRbPfy2lLQhqY&center=41.34605,-72.04863"
+    }
+  ],
+  "team_lunch": [
+    {
+      "name": "Midway Pizza",
+      "distance": "0.3 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Midway%20Pizza&query_place_id=ChIJszTVH0YJ5okR2Haq61Kukg4&center=41.345714,-72.0349992"
+    },
+    {
+      "name": "NEW YORK DELI & DINER",
+      "distance": "1.1 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=NEW%20YORK%20DELI%20%26%20DINER&query_place_id=ChIJv8QSwCIP5okRTFXRKft1MuY&center=41.3483672,-72.0526264"
+    },
+    {
+      "name": "Sift Bake Shop Mystic",
+      "distance": "3.1 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Sift%20Bake%20Shop%20Mystic&query_place_id=ChIJFwZc8x4K5okRrReBaWI8mhQ&center=41.353902999999995,-71.97132309999999",
+      "isFar": true
+    },
+    {
+      "name": "Bake Shop",
+      "distance": "3.6 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Bake%20Shop&query_place_id=ChIJRx810Q8K5okRjDZJNUSB1kI&center=41.35978720000001,-71.9640702",
+      "isFar": true
+    }
+  ],
+  "dinner": [
+    {
+      "name": "PUPUSAS La Primera",
+      "distance": "0.2 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=PUPUSAS%20La%20Primera&query_place_id=ChIJVSFkCdUJ5okRoGVbiTAVOfQ&center=41.346459499999995,-72.0279992"
+    },
+    {
+      "name": "The Spot Cafe",
+      "distance": "0.7 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=The%20Spot%20Cafe&query_place_id=ChIJ_RuQn0sJ5okRS3V5PeB0EIU&center=41.346990399999996,-72.043775"
+    },
+    {
+      "name": "JU-SUSHI​ Groton",
+      "distance": "0.8 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=JU-SUSHI%E2%80%8B%20Groton&query_place_id=ChIJTyt4ybUO5okR-Cfb61RDJLk&center=41.346360999999995,-72.0464633"
+    },
+    {
+      "name": "Mañana Cafe",
+      "distance": "1.0 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Ma%C3%B1ana%20Cafe&query_place_id=ChIJCxqW47QO5okRU4VEVf_f3_k&center=41.347153,-72.04919"
+    },
+    {
+      "name": "Christopher's Cafe",
+      "distance": "1.0 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Christopher's%20Cafe&query_place_id=ChIJuyHkALUO5okR5kNQnEd99TQ&center=41.3466495,-72.0495433"
+    },
+    {
+      "name": "Pizza Palace",
+      "distance": "1.0 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Pizza%20Palace&query_place_id=ChIJ1Rm-ouwO5okRZy_r3YLie-c&center=41.3468614,-72.0501748"
+    }
+  ],
+  "bowling": [
+    {
+      "name": "Groton Bowling Center",
+      "distance": "2.2 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Groton%20Bowling%20Center&query_place_id=ChIJl_dql6EO5okR5bsdX4-MT_g&center=41.36287,-72.068383"
+    },
+    {
+      "name": "Coast Guard Academy Bowling Alley/Rental Center",
+      "distance": "3.9 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Coast%20Guard%20Academy%20Bowling%20Alley%2FRental%20Center&query_place_id=ChIJzauwyNUN5okRTMf1gewOpgE&center=41.373598,-72.098987",
+      "isFar": true
+    },
+    {
+      "name": "Bowling Center",
+      "distance": "4.2 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Bowling%20Center&query_place_id=ChIJbadKeKMN5okR-5ToUcf9vn8&center=41.3918721,-72.0883578",
+      "isFar": true
+    }
+  ],
+  "arcade": [],
+  "movies": [
+    {
+      "name": "Mobile Movie Theater CT",
+      "distance": "4.0 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Mobile%20Movie%20Theater%20CT&query_place_id=ChIJ58aZ8lQP5okRalwyBUGjJwk&center=41.368290599999995,-72.1024326",
+      "isFar": true
+    },
+    {
+      "name": "Mystic Luxury Cinemas",
+      "distance": "4.1 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Mystic%20Luxury%20Cinemas&query_place_id=ChIJ43x-LHQK5okRZtO1hzQmJwM&center=41.3733457,-71.9582595",
+      "isFar": true
+    },
+    {
+      "name": "Dealey Center Theater",
+      "distance": "4.1 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Dealey%20Center%20Theater&query_place_id=ChIJ7wVVg7sN5okRi_Ig0tN1K0U&center=41.3906993,-72.08763119999999",
+      "isFar": true
+    }
+  ],
+  "fun": [
+    {
+      "name": "USS Groton Sail Memorial",
+      "distance": "0.1 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=USS%20Groton%20Sail%20Memorial&query_place_id=ChIJ4yleiiML5okRKMwztf0c8Dk&center=41.3482908,-72.0292415"
+    },
+    {
+      "name": "Mystic Duck Library -Duck Hollow",
+      "distance": "2.1 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Mystic%20Duck%20Library%20-Duck%20Hollow&query_place_id=ChIJg_H99NQJ5okRs-qwURFRYTo&center=41.352115999999995,-71.9909426"
+    },
+    {
+      "name": "TreeTrails Adventures Mystic",
+      "distance": "2.2 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=TreeTrails%20Adventures%20Mystic&query_place_id=ChIJ2ZUJcDMK5okRKklW5yEOwug&center=41.3692588,-71.9989547"
+    }
+  ],
+  "hotels": [
+    {
+      "name": "Oak Grove Cottage - in the foothills of Mystic",
+      "distance": "0.1 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Oak%20Grove%20Cottage%20-%20in%20the%20foothills%20of%20Mystic&query_place_id=ChIJ1QxxeEMJ5okRM_ZwLhaBY4A&center=41.348278,-72.0284195"
+    },
+    {
+      "name": "Oak Grove Cottage - in the foothills of Mystic",
+      "distance": "0.1 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Oak%20Grove%20Cottage%20-%20in%20the%20foothills%20of%20Mystic&query_place_id=ChIJVzVxeEMJ5okRs4zCDdxavu8&center=41.3482704,-72.0284195"
+    },
+    {
+      "name": "Groton Town Smith House",
+      "distance": "0.7 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Groton%20Town%20Smith%20House&query_place_id=ChIJ1Yo-114J5okRoLLKDegOjWY&center=41.357724399999995,-72.02840789999999"
+    }
+  ],
+  "gas": [
+    {
+      "name": "Shell",
+      "distance": "0.2 mi",
+      "url": "https://www.google.com/maps/search/Shell+near+41.3484063%2C-72.0309109"
+    },
+    {
+      "name": "Citgo",
+      "distance": "0.5 mi",
+      "url": "https://www.google.com/maps/search/Citgo+near+41.3484063%2C-72.0309109"
+    },
+    {
+      "name": "Mobil",
+      "distance": "0.9 mi",
+      "url": "https://www.google.com/maps/search/Mobil+near+41.3484063%2C-72.0309109"
+    },
+    {
+      "name": "Sunoco",
+      "distance": "1.2 mi",
+      "url": "https://www.google.com/maps/search/Sunoco+near+41.3484063%2C-72.0309109"
+    }
+  ]
+}

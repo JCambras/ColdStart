@@ -1,0 +1,250 @@
+{
+  "quick_bite": [
+    {
+      "name": "Little Caesars Pizza",
+      "distance": "0.1 mi",
+      "url": "https://www.google.com/maps/search/Little%20Caesars%20Pizza+near+29.8916821%2C-90.0321889"
+    },
+    {
+      "name": "Wendy's",
+      "distance": "0.1 mi",
+      "url": "https://www.google.com/maps/search/Wendy's+near+29.8916821%2C-90.0321889"
+    },
+    {
+      "name": "Popeyes Louisiana Kitchen",
+      "distance": "0.2 mi",
+      "url": "https://www.google.com/maps/search/Popeyes%20Louisiana%20Kitchen+near+29.8916821%2C-90.0321889"
+    },
+    {
+      "name": "Exotic Soda Co",
+      "distance": "0.6 mi",
+      "url": "https://www.google.com/maps/search/Exotic%20Soda%20Co+near+29.8916821%2C-90.0321889"
+    },
+    {
+      "name": "Chuck E. Cheese",
+      "distance": "2.3 mi",
+      "url": "https://www.google.com/maps/search/Chuck%20E.%20Cheese+near+29.8916821%2C-90.0321889"
+    }
+  ],
+  "coffee": [
+    {
+      "name": "Joe's Cafe & Donuts & King Cakes",
+      "distance": "0.1 mi",
+      "url": "https://www.google.com/maps/search/Joe's%20Cafe%20%26%20Donuts%20%26%20King%20Cakes+near+29.8916821%2C-90.0321889"
+    },
+    {
+      "name": "Starbucks Coffee Company",
+      "distance": "0.2 mi",
+      "url": "https://www.google.com/maps/search/Starbucks%20Coffee%20Company+near+29.8916821%2C-90.0321889"
+    },
+    {
+      "name": "Le cafe eblouir",
+      "distance": "0.2 mi",
+      "url": "https://www.google.com/maps/search/Le%20cafe%20eblouir+near+29.8916821%2C-90.0321889"
+    },
+    {
+      "name": "PJ's Coffee",
+      "distance": "0.6 mi",
+      "url": "https://www.google.com/maps/search/PJ's%20Coffee+near+29.8916821%2C-90.0321889"
+    },
+    {
+      "name": "McDonald's",
+      "distance": "0.6 mi",
+      "url": "https://www.google.com/maps/search/McDonald's+near+29.8916821%2C-90.0321889"
+    }
+  ],
+  "team_lunch": [
+    {
+      "name": "Danny & Bonnie Sea Food",
+      "distance": "0.2 mi",
+      "url": "https://www.google.com/maps/search/Danny%20%26%20Bonnie%20Sea%20Food+near+29.8916821%2C-90.0321889"
+    },
+    {
+      "name": "China kitchen",
+      "distance": "0.6 mi",
+      "url": "https://www.google.com/maps/search/China%20kitchen+near+29.8916821%2C-90.0321889"
+    }
+  ],
+  "dinner": [
+    {
+      "name": "MO FRIES",
+      "distance": "0.1 mi",
+      "url": "https://www.google.com/maps/search/MO%20FRIES+near+29.8916821%2C-90.0321889"
+    },
+    {
+      "name": "The Honey Baked Ham Company",
+      "distance": "0.1 mi",
+      "url": "https://www.google.com/maps/search/The%20Honey%20Baked%20Ham%20Company+near+29.8916821%2C-90.0321889"
+    },
+    {
+      "name": "Southern Charm Bistreaux & Bar",
+      "distance": "0.2 mi",
+      "url": "https://www.google.com/maps/search/Southern%20Charm%20Bistreaux%20%26%20Bar+near+29.8916821%2C-90.0321889"
+    },
+    {
+      "name": "Jasmine Rice Thai Cuisine",
+      "distance": "0.2 mi",
+      "url": "https://www.google.com/maps/search/Jasmine%20Rice%20Thai%20Cuisine+near+29.8916821%2C-90.0321889"
+    },
+    {
+      "name": "Sabores del Puerto",
+      "distance": "0.2 mi",
+      "url": "https://www.google.com/maps/search/Sabores%20del%20Puerto+near+29.8916821%2C-90.0321889"
+    },
+    {
+      "name": "Sakura sushi and hibachi",
+      "distance": "0.2 mi",
+      "url": "https://www.google.com/maps/search/Sakura%20sushi%20and%20hibachi+near+29.8916821%2C-90.0321889"
+    },
+    {
+      "name": "One Smart Cookie Co",
+      "distance": "0.3 mi",
+      "url": "https://www.google.com/maps/search/One%20Smart%20Cookie%20Co+near+29.8916821%2C-90.0321889"
+    }
+  ],
+  "bowling": [
+    {
+      "name": "Westside Bowling Lanes",
+      "distance": "3.4 mi",
+      "url": "https://www.google.com/maps/search/Westside%20Bowling%20Lanes+near+29.8916821%2C-90.0321889",
+      "isFar": true
+    },
+    {
+      "name": "Fulton Alley",
+      "distance": "4.3 mi",
+      "url": "https://www.google.com/maps/search/Fulton%20Alley+near+29.8916821%2C-90.0321889",
+      "isFar": true
+    },
+    {
+      "name": "Bayou Fun Time Bowl & Grill",
+      "distance": "4.6 mi",
+      "url": "https://www.google.com/maps/search/Bayou%20Fun%20Time%20Bowl%20%26%20Grill+near+29.8916821%2C-90.0321889",
+      "isFar": true
+    }
+  ],
+  "arcade": [],
+  "movies": [
+    {
+      "name": "AMC Westbank Palace 16",
+      "distance": "1.8 mi",
+      "url": "https://www.google.com/maps/search/AMC%20Westbank%20Palace%2016+near+29.8916821%2C-90.0321889"
+    },
+    {
+      "name": "Video Bingo",
+      "distance": "2.2 mi",
+      "url": "https://www.google.com/maps/search/Video%20Bingo+near+29.8916821%2C-90.0321889"
+    },
+    {
+      "name": "Solomon Victory Theater",
+      "distance": "4.2 mi",
+      "url": "https://www.google.com/maps/search/Solomon%20Victory%20Theater+near+29.8916821%2C-90.0321889",
+      "isFar": true
+    },
+    {
+      "name": "Prytania Theatres at Canal Place",
+      "distance": "4.6 mi",
+      "url": "https://www.google.com/maps/search/Prytania%20Theatres%20at%20Canal%20Place+near+29.8916821%2C-90.0321889",
+      "isFar": true
+    },
+    {
+      "name": "Zeitgeist Theatre & Lounge",
+      "distance": "4.9 mi",
+      "url": "https://www.google.com/maps/search/Zeitgeist%20Theatre%20%26%20Lounge+near+29.8916821%2C-90.0321889",
+      "isFar": true
+    }
+  ],
+  "fun": [
+    {
+      "name": "B & L Amusements",
+      "distance": "1.4 mi",
+      "url": "https://www.google.com/maps/search/B%20%26%20L%20Amusements+near+29.8916821%2C-90.0321889"
+    },
+    {
+      "name": "Airborne X Harvey",
+      "distance": "2.0 mi",
+      "url": "https://www.google.com/maps/search/Airborne%20X%20Harvey+near+29.8916821%2C-90.0321889"
+    },
+    {
+      "name": "Escape My Room New Orleans",
+      "distance": "4.1 mi",
+      "url": "https://www.google.com/maps/search/Escape%20My%20Room%20New%20Orleans+near+29.8916821%2C-90.0321889",
+      "isFar": true
+    },
+    {
+      "name": "The Escape Game New Orleans",
+      "distance": "4.7 mi",
+      "url": "https://www.google.com/maps/search/The%20Escape%20Game%20New%20Orleans+near+29.8916821%2C-90.0321889",
+      "isFar": true
+    },
+    {
+      "name": "Clue Carré - New Orleans",
+      "distance": "4.8 mi",
+      "url": "https://www.google.com/maps/search/Clue%20Carr%C3%A9%20-%20New%20Orleans+near+29.8916821%2C-90.0321889",
+      "isFar": true
+    }
+  ],
+  "hotels": [
+    {
+      "name": "𝒞𝒶𝓈𝒶 Terrytown",
+      "distance": "0.6 mi",
+      "url": "https://www.google.com/maps/search/%F0%9D%92%9E%F0%9D%92%B6%F0%9D%93%88%F0%9D%92%B6%20Terrytown+near+29.8916821%2C-90.0321889"
+    },
+    {
+      "name": "Three Whales RV Park",
+      "distance": "1.0 mi",
+      "url": "https://www.google.com/maps/search/Three%20Whales%20RV%20Park+near+29.8916821%2C-90.0321889"
+    },
+    {
+      "name": "Vibrant Terrytown Home w / Yard ~ 6 Mi to NOLA",
+      "distance": "1.1 mi",
+      "url": "https://www.google.com/maps/search/Vibrant%20Terrytown%20Home%20w%20%2F%20Yard%20~%206%20Mi%20to%20NOLA+near+29.8916821%2C-90.0321889"
+    },
+    {
+      "name": "Vibrant Terrytown Home w/ Yard ~ 6 Mi to NOLA",
+      "distance": "1.1 mi",
+      "url": "https://www.google.com/maps/search/Vibrant%20Terrytown%20Home%20w%2F%20Yard%20~%206%20Mi%20to%20NOLA+near+29.8916821%2C-90.0321889"
+    },
+    {
+      "name": "Vibrant Terrytown Home with Yard about 6 Mi to NOLA",
+      "distance": "1.1 mi",
+      "url": "https://www.google.com/maps/search/Vibrant%20Terrytown%20Home%20with%20Yard%20about%206%20Mi%20to%20NOLA+near+29.8916821%2C-90.0321889"
+    },
+    {
+      "name": "Gretna Getaway/great for travel nurses/7 miles to French Quarter",
+      "distance": "1.1 mi",
+      "url": "https://www.google.com/maps/search/Gretna%20Getaway%2Fgreat%20for%20travel%20nurses%2F7%20miles%20to%20French%20Quarter+near+29.8916821%2C-90.0321889"
+    },
+    {
+      "name": "Gretna Getaway /great for travel nurses /7 miles to French Quarter",
+      "distance": "1.1 mi",
+      "url": "https://www.google.com/maps/search/Gretna%20Getaway%20%2Fgreat%20for%20travel%20nurses%20%2F7%20miles%20to%20French%20Quarter+near+29.8916821%2C-90.0321889"
+    }
+  ],
+  "gas": [
+    {
+      "name": "Discount Zone",
+      "distance": "0.1 mi",
+      "url": "https://www.google.com/maps/search/Discount%20Zone+near+29.8916821%2C-90.0321889"
+    },
+    {
+      "name": "Budget Zone",
+      "distance": "0.1 mi",
+      "url": "https://www.google.com/maps/search/Budget%20Zone+near+29.8916821%2C-90.0321889"
+    },
+    {
+      "name": "Exxon",
+      "distance": "0.3 mi",
+      "url": "https://www.google.com/maps/search/Exxon+near+29.8916821%2C-90.0321889"
+    },
+    {
+      "name": "Shell",
+      "distance": "0.6 mi",
+      "url": "https://www.google.com/maps/search/Shell+near+29.8916821%2C-90.0321889"
+    },
+    {
+      "name": "Linder Oil Co",
+      "distance": "0.6 mi",
+      "url": "https://www.google.com/maps/search/Linder%20Oil%20Co+near+29.8916821%2C-90.0321889"
+    }
+  ]
+}

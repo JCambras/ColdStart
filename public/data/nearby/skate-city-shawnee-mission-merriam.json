@@ -1,0 +1,226 @@
+{
+  "quick_bite": [
+    {
+      "name": "Long John Silver's | A&W",
+      "distance": "0.1 mi",
+      "url": "https://www.google.com/maps/search/Long%20John%20Silver's%20%7C%20A%26W+near+39.016157799999995%2C-94.6998114"
+    },
+    {
+      "name": "A&W Restaurant",
+      "distance": "0.1 mi",
+      "url": "https://www.google.com/maps/search/A%26W%20Restaurant+near+39.016157799999995%2C-94.6998114"
+    },
+    {
+      "name": "Raising Cane's Chicken Fingers",
+      "distance": "0.6 mi",
+      "url": "https://www.google.com/maps/search/Raising%20Cane's%20Chicken%20Fingers+near+39.016157799999995%2C-94.6998114"
+    },
+    {
+      "name": "Taco Bell",
+      "distance": "0.6 mi",
+      "url": "https://www.google.com/maps/search/Taco%20Bell+near+39.016157799999995%2C-94.6998114"
+    },
+    {
+      "name": "Freddy's Frozen Custard & Steakburgers",
+      "distance": "0.6 mi",
+      "url": "https://www.google.com/maps/search/Freddy's%20Frozen%20Custard%20%26%20Steakburgers+near+39.016157799999995%2C-94.6998114"
+    },
+    {
+      "name": "Chipotle Mexican Grill",
+      "distance": "0.6 mi",
+      "url": "https://www.google.com/maps/search/Chipotle%20Mexican%20Grill+near+39.016157799999995%2C-94.6998114"
+    },
+    {
+      "name": "Jimmy John's",
+      "distance": "0.6 mi",
+      "url": "https://www.google.com/maps/search/Jimmy%20John's+near+39.016157799999995%2C-94.6998114"
+    }
+  ],
+  "coffee": [
+    {
+      "name": "Panera Bread",
+      "distance": "0.5 mi",
+      "url": "https://www.google.com/maps/search/Panera%20Bread+near+39.016157799999995%2C-94.6998114"
+    },
+    {
+      "name": "Grand Coffee + Smoothies - Shawnee",
+      "distance": "0.5 mi",
+      "url": "https://www.google.com/maps/search/Grand%20Coffee%20%2B%20Smoothies%20-%20Shawnee+near+39.016157799999995%2C-94.6998114"
+    },
+    {
+      "name": "Krispy Kreme",
+      "distance": "0.6 mi",
+      "url": "https://www.google.com/maps/search/Krispy%20Kreme+near+39.016157799999995%2C-94.6998114"
+    },
+    {
+      "name": "Starbucks Coffee Company",
+      "distance": "0.7 mi",
+      "url": "https://www.google.com/maps/search/Starbucks%20Coffee%20Company+near+39.016157799999995%2C-94.6998114"
+    },
+    {
+      "name": "Little Monkey Bizness",
+      "distance": "1.5 mi",
+      "url": "https://www.google.com/maps/search/Little%20Monkey%20Bizness+near+39.016157799999995%2C-94.6998114"
+    }
+  ],
+  "team_lunch": [
+    {
+      "name": "Cakes Made by Madi",
+      "distance": "0.5 mi",
+      "url": "https://www.google.com/maps/search/Cakes%20Made%20by%20Madi+near+39.016157799999995%2C-94.6998114"
+    },
+    {
+      "name": "IKEA Restaurant",
+      "distance": "0.5 mi",
+      "url": "https://www.google.com/maps/search/IKEA%20Restaurant+near+39.016157799999995%2C-94.6998114"
+    }
+  ],
+  "dinner": [
+    {
+      "name": "Cocina sabor latino",
+      "distance": "0.4 mi",
+      "url": "https://www.google.com/maps/search/Cocina%20sabor%20latino+near+39.016157799999995%2C-94.6998114"
+    },
+    {
+      "name": "El Pulgarcito Salvadorean Restaurant",
+      "distance": "0.5 mi",
+      "url": "https://www.google.com/maps/search/El%20Pulgarcito%20Salvadorean%20Restaurant+near+39.016157799999995%2C-94.6998114"
+    },
+    {
+      "name": "Strip's Chicken & Brewing",
+      "distance": "0.6 mi",
+      "url": "https://www.google.com/maps/search/Strip's%20Chicken%20%26%20Brewing+near+39.016157799999995%2C-94.6998114"
+    },
+    {
+      "name": "Tarahumaras Mexican Food #3",
+      "distance": "0.6 mi",
+      "url": "https://www.google.com/maps/search/Tarahumaras%20Mexican%20Food%20%233+near+39.016157799999995%2C-94.6998114"
+    },
+    {
+      "name": "30hop",
+      "distance": "0.7 mi",
+      "url": "https://www.google.com/maps/search/30hop+near+39.016157799999995%2C-94.6998114"
+    }
+  ],
+  "bowling": [
+    {
+      "name": "The Rush Funplex",
+      "distance": "2.1 mi",
+      "url": "https://www.google.com/maps/search/The%20Rush%20Funplex+near+39.016157799999995%2C-94.6998114"
+    },
+    {
+      "name": "Park Lanes Family Fun Center",
+      "distance": "4.6 mi",
+      "url": "https://www.google.com/maps/search/Park%20Lanes%20Family%20Fun%20Center+near+39.016157799999995%2C-94.6998114",
+      "isFar": true
+    }
+  ],
+  "arcade": [],
+  "movies": [
+    {
+      "name": "B&B Theatres Shawnee 18",
+      "distance": "4.3 mi",
+      "url": "https://www.google.com/maps/search/B%26B%20Theatres%20Shawnee%2018+near+39.016157799999995%2C-94.6998114",
+      "isFar": true
+    },
+    {
+      "name": "Boulevard Drive-In Theatre",
+      "distance": "4.3 mi",
+      "url": "https://www.google.com/maps/search/Boulevard%20Drive-In%20Theatre+near+39.016157799999995%2C-94.6998114",
+      "isFar": true
+    }
+  ],
+  "fun": [
+    {
+      "name": "Splash Cove",
+      "distance": "1.1 mi",
+      "url": "https://www.google.com/maps/search/Splash%20Cove+near+39.016157799999995%2C-94.6998114"
+    },
+    {
+      "name": "Sky Zone Trampoline Park",
+      "distance": "1.2 mi",
+      "url": "https://www.google.com/maps/search/Sky%20Zone%20Trampoline%20Park+near+39.016157799999995%2C-94.6998114"
+    },
+    {
+      "name": "Wonder and Whoa",
+      "distance": "2.5 mi",
+      "url": "https://www.google.com/maps/search/Wonder%20and%20Whoa+near+39.016157799999995%2C-94.6998114"
+    },
+    {
+      "name": "Spray Park",
+      "distance": "3.7 mi",
+      "url": "https://www.google.com/maps/search/Spray%20Park+near+39.016157799999995%2C-94.6998114",
+      "isFar": true
+    },
+    {
+      "name": "Living Spaces Kids Spaces",
+      "distance": "4.5 mi",
+      "url": "https://www.google.com/maps/search/Living%20Spaces%20Kids%20Spaces+near+39.016157799999995%2C-94.6998114",
+      "isFar": true
+    }
+  ],
+  "hotels": [
+    {
+      "name": "Charming Mid-Century Ranch w /Dual Living Space",
+      "distance": "0.4 mi",
+      "url": "https://www.google.com/maps/search/Charming%20Mid-Century%20Ranch%20w%20%2FDual%20Living%20Space+near+39.016157799999995%2C-94.6998114"
+    },
+    {
+      "name": "Extended Stay America Suites- Kansas City - Shawnee Mission",
+      "distance": "0.5 mi",
+      "url": "https://www.google.com/maps/search/Extended%20Stay%20America%20Suites-%20Kansas%20City%20-%20Shawnee%20Mission+near+39.016157799999995%2C-94.6998114"
+    },
+    {
+      "name": "Quality Inn Merriam Kansas City - Standard King Room - Non-Smoking",
+      "distance": "0.5 mi",
+      "url": "https://www.google.com/maps/search/Quality%20Inn%20Merriam%20Kansas%20City%20-%20Standard%20King%20Room%20-%20Non-Smoking+near+39.016157799999995%2C-94.6998114"
+    },
+    {
+      "name": "Quality Inn Merriam Kansas City",
+      "distance": "0.5 mi",
+      "url": "https://www.google.com/maps/search/Quality%20Inn%20Merriam%20Kansas%20City+near+39.016157799999995%2C-94.6998114"
+    },
+    {
+      "name": "Walnut Grove RV Park",
+      "distance": "0.5 mi",
+      "url": "https://www.google.com/maps/search/Walnut%20Grove%20RV%20Park+near+39.016157799999995%2C-94.6998114"
+    },
+    {
+      "name": "Hotel Lotus Merriam",
+      "distance": "0.5 mi",
+      "url": "https://www.google.com/maps/search/Hotel%20Lotus%20Merriam+near+39.016157799999995%2C-94.6998114"
+    },
+    {
+      "name": "Spacious 4-bedroom house, easy access to EVERYTHING, arcade room",
+      "distance": "0.7 mi",
+      "url": "https://www.google.com/maps/search/Spacious%204-bedroom%20house%2C%20easy%20access%20to%20EVERYTHING%2C%20arcade%20room+near+39.016157799999995%2C-94.6998114"
+    }
+  ],
+  "gas": [
+    {
+      "name": "Cenex",
+      "distance": "0.5 mi",
+      "url": "https://www.google.com/maps/search/Cenex+near+39.016157799999995%2C-94.6998114"
+    },
+    {
+      "name": "Snappy TOGO",
+      "distance": "0.5 mi",
+      "url": "https://www.google.com/maps/search/Snappy%20TOGO+near+39.016157799999995%2C-94.6998114"
+    },
+    {
+      "name": "bp",
+      "distance": "0.5 mi",
+      "url": "https://www.google.com/maps/search/bp+near+39.016157799999995%2C-94.6998114"
+    },
+    {
+      "name": "QuikTrip",
+      "distance": "0.6 mi",
+      "url": "https://www.google.com/maps/search/QuikTrip+near+39.016157799999995%2C-94.6998114"
+    },
+    {
+      "name": "Phillips 66",
+      "distance": "0.6 mi",
+      "url": "https://www.google.com/maps/search/Phillips%2066+near+39.016157799999995%2C-94.6998114"
+    }
+  ]
+}

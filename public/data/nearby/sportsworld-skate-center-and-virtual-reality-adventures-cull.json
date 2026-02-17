@@ -1,0 +1,190 @@
+{
+  "quick_bite": [
+    {
+      "name": "Jack's Family Restaurant",
+      "distance": "0.1 mi",
+      "url": "https://www.google.com/maps/search/Jack's%20Family%20Restaurant+near+34.2437284%2C-86.86832989999999"
+    },
+    {
+      "name": "Logan's Roadhouse",
+      "distance": "2.5 mi",
+      "url": "https://www.google.com/maps/search/Logan's%20Roadhouse+near+34.2437284%2C-86.86832989999999"
+    },
+    {
+      "name": "Cracker Barrel Old Country Store",
+      "distance": "2.5 mi",
+      "url": "https://www.google.com/maps/search/Cracker%20Barrel%20Old%20Country%20Store+near+34.2437284%2C-86.86832989999999"
+    },
+    {
+      "name": "Subway",
+      "distance": "2.5 mi",
+      "url": "https://www.google.com/maps/search/Subway+near+34.2437284%2C-86.86832989999999"
+    },
+    {
+      "name": "Burger King",
+      "distance": "2.5 mi",
+      "url": "https://www.google.com/maps/search/Burger%20King+near+34.2437284%2C-86.86832989999999"
+    },
+    {
+      "name": "Arby's",
+      "distance": "2.5 mi",
+      "url": "https://www.google.com/maps/search/Arby's+near+34.2437284%2C-86.86832989999999"
+    },
+    {
+      "name": "Taco Bell",
+      "distance": "2.6 mi",
+      "url": "https://www.google.com/maps/search/Taco%20Bell+near+34.2437284%2C-86.86832989999999"
+    }
+  ],
+  "coffee": [
+    {
+      "name": "McDonald's",
+      "distance": "2.6 mi",
+      "url": "https://www.google.com/maps/search/McDonald's+near+34.2437284%2C-86.86832989999999"
+    }
+  ],
+  "team_lunch": [
+    {
+      "name": "The Veranda",
+      "distance": "1.8 mi",
+      "url": "https://www.google.com/maps/search/The%20Veranda+near+34.2437284%2C-86.86832989999999"
+    },
+    {
+      "name": "Denny's",
+      "distance": "2.6 mi",
+      "url": "https://www.google.com/maps/search/Denny's+near+34.2437284%2C-86.86832989999999"
+    },
+    {
+      "name": "The Meltdown",
+      "distance": "2.6 mi",
+      "url": "https://www.google.com/maps/search/The%20Meltdown+near+34.2437284%2C-86.86832989999999"
+    },
+    {
+      "name": "McAlister's Deli",
+      "distance": "2.6 mi",
+      "url": "https://www.google.com/maps/search/McAlister's%20Deli+near+34.2437284%2C-86.86832989999999"
+    }
+  ],
+  "dinner": [
+    {
+      "name": "The Landing At Cullman Regional Airport",
+      "distance": "1.8 mi",
+      "url": "https://www.google.com/maps/search/The%20Landing%20At%20Cullman%20Regional%20Airport+near+34.2437284%2C-86.86832989999999"
+    },
+    {
+      "name": "Puckett's Restaurant",
+      "distance": "2.5 mi",
+      "url": "https://www.google.com/maps/search/Puckett's%20Restaurant+near+34.2437284%2C-86.86832989999999"
+    },
+    {
+      "name": "Buenavista Mexican Cantina (Cullman)",
+      "distance": "2.5 mi",
+      "url": "https://www.google.com/maps/search/Buenavista%20Mexican%20Cantina%20(Cullman)+near+34.2437284%2C-86.86832989999999"
+    },
+    {
+      "name": "Barnett Bakery",
+      "distance": "2.5 mi",
+      "url": "https://www.google.com/maps/search/Barnett%20Bakery+near+34.2437284%2C-86.86832989999999"
+    },
+    {
+      "name": "LawLers Barbecue",
+      "distance": "2.6 mi",
+      "url": "https://www.google.com/maps/search/LawLers%20Barbecue+near+34.2437284%2C-86.86832989999999"
+    }
+  ],
+  "bowling": [
+    {
+      "name": "Cullman Bowling Center",
+      "distance": "5.3 mi",
+      "url": "https://www.google.com/maps/search/Cullman%20Bowling%20Center+near+34.2437284%2C-86.86832989999999",
+      "isFar": true
+    }
+  ],
+  "arcade": [],
+  "movies": [
+    {
+      "name": "AMC CLASSIC Marktplatz 10",
+      "distance": "6.8 mi",
+      "url": "https://www.google.com/maps/search/AMC%20CLASSIC%20Marktplatz%2010+near+34.2437284%2C-86.86832989999999",
+      "isFar": true
+    }
+  ],
+  "fun": [
+    {
+      "name": "Escape Cullman",
+      "distance": "4.9 mi",
+      "url": "https://www.google.com/maps/search/Escape%20Cullman+near+34.2437284%2C-86.86832989999999",
+      "isFar": true
+    },
+    {
+      "name": "WildWater Cullman",
+      "distance": "6.1 mi",
+      "url": "https://www.google.com/maps/search/WildWater%20Cullman+near+34.2437284%2C-86.86832989999999",
+      "isFar": true
+    }
+  ],
+  "hotels": [
+    {
+      "name": "Vinemont Estates Mobile Home Community",
+      "distance": "1.0 mi",
+      "url": "https://www.google.com/maps/search/Vinemont%20Estates%20Mobile%20Home%20Community+near+34.2437284%2C-86.86832989999999"
+    },
+    {
+      "name": "Vinemont Village Mobile Home Community",
+      "distance": "1.3 mi",
+      "url": "https://www.google.com/maps/search/Vinemont%20Village%20Mobile%20Home%20Community+near+34.2437284%2C-86.86832989999999"
+    },
+    {
+      "name": "Guadalupe Home, Minutes to I-65",
+      "distance": "1.4 mi",
+      "url": "https://www.google.com/maps/search/Guadalupe%20Home%2C%20Minutes%20to%20I-65+near+34.2437284%2C-86.86832989999999"
+    },
+    {
+      "name": "Guadalupe Home, Minutes to I-65",
+      "distance": "1.4 mi",
+      "url": "https://www.google.com/maps/search/Guadalupe%20Home%2C%20Minutes%20to%20I-65+near+34.2437284%2C-86.86832989999999"
+    },
+    {
+      "name": "Comfort house",
+      "distance": "2.3 mi",
+      "url": "https://www.google.com/maps/search/Comfort%20house+near+34.2437284%2C-86.86832989999999"
+    },
+    {
+      "name": "Fairfield by Marriott Inn & Suites Cullman",
+      "distance": "2.3 mi",
+      "url": "https://www.google.com/maps/search/Fairfield%20by%20Marriott%20Inn%20%26%20Suites%20Cullman+near+34.2437284%2C-86.86832989999999"
+    },
+    {
+      "name": "Holiday Inn Express & Suites Cullman by IHG",
+      "distance": "2.4 mi",
+      "url": "https://www.google.com/maps/search/Holiday%20Inn%20Express%20%26%20Suites%20Cullman%20by%20IHG+near+34.2437284%2C-86.86832989999999"
+    }
+  ],
+  "gas": [
+    {
+      "name": "Sunoco",
+      "distance": "1.1 mi",
+      "url": "https://www.google.com/maps/search/Sunoco+near+34.2437284%2C-86.86832989999999"
+    },
+    {
+      "name": "Marathon Gas",
+      "distance": "1.2 mi",
+      "url": "https://www.google.com/maps/search/Marathon%20Gas+near+34.2437284%2C-86.86832989999999"
+    },
+    {
+      "name": "Harry’s #57",
+      "distance": "2.5 mi",
+      "url": "https://www.google.com/maps/search/Harry%E2%80%99s%20%2357+near+34.2437284%2C-86.86832989999999"
+    },
+    {
+      "name": "Shell",
+      "distance": "2.5 mi",
+      "url": "https://www.google.com/maps/search/Shell+near+34.2437284%2C-86.86832989999999"
+    },
+    {
+      "name": "Mobil",
+      "distance": "2.5 mi",
+      "url": "https://www.google.com/maps/search/Mobil+near+34.2437284%2C-86.86832989999999"
+    }
+  ]
+}

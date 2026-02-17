@@ -1,0 +1,209 @@
+{
+  "quick_bite": [
+    {
+      "name": "Subway",
+      "distance": "0.1 mi",
+      "url": "https://www.google.com/maps/search/Subway+near+44.1879272%2C-88.46388999999999"
+    },
+    {
+      "name": "Hong Kong Buffet",
+      "distance": "0.1 mi",
+      "url": "https://www.google.com/maps/search/Hong%20Kong%20Buffet+near+44.1879272%2C-88.46388999999999"
+    },
+    {
+      "name": "Bao Ju",
+      "distance": "0.3 mi",
+      "url": "https://www.google.com/maps/search/Bao%20Ju+near+44.1879272%2C-88.46388999999999"
+    },
+    {
+      "name": "Dairy Queen Downtown Neenah",
+      "distance": "0.4 mi",
+      "url": "https://www.google.com/maps/search/Dairy%20Queen%20Downtown%20Neenah+near+44.1879272%2C-88.46388999999999"
+    }
+  ],
+  "coffee": [
+    {
+      "name": "The Plaza at Gateway Park & Globe Coffee",
+      "distance": "0.1 mi",
+      "url": "https://www.google.com/maps/search/The%20Plaza%20at%20Gateway%20Park%20%26%20Globe%20Coffee+near+44.1879272%2C-88.46388999999999"
+    },
+    {
+      "name": "Urban Market Neenah",
+      "distance": "0.1 mi",
+      "url": "https://www.google.com/maps/search/Urban%20Market%20Neenah+near+44.1879272%2C-88.46388999999999"
+    },
+    {
+      "name": "Lawlss Coffee - Neenah",
+      "distance": "0.1 mi",
+      "url": "https://www.google.com/maps/search/Lawlss%20Coffee%20-%20Neenah+near+44.1879272%2C-88.46388999999999"
+    }
+  ],
+  "team_lunch": [
+    {
+      "name": "The Forge Kitchen & Parlor",
+      "distance": "0.2 mi",
+      "url": "https://www.google.com/maps/search/The%20Forge%20Kitchen%20%26%20Parlor+near+44.1879272%2C-88.46388999999999"
+    }
+  ],
+  "dinner": [
+    {
+      "name": "Bona Fide Juicery",
+      "distance": "0.1 mi",
+      "url": "https://www.google.com/maps/search/Bona%20Fide%20Juicery+near+44.1879272%2C-88.46388999999999"
+    },
+    {
+      "name": "Just Dzuricks Cheesecakes",
+      "distance": "0.1 mi",
+      "url": "https://www.google.com/maps/search/Just%20Dzuricks%20Cheesecakes+near+44.1879272%2C-88.46388999999999"
+    },
+    {
+      "name": "Little Siam",
+      "distance": "0.1 mi",
+      "url": "https://www.google.com/maps/search/Little%20Siam+near+44.1879272%2C-88.46388999999999"
+    },
+    {
+      "name": "Zacatecas Mexican Grill & Tequila Lounge",
+      "distance": "0.1 mi",
+      "url": "https://www.google.com/maps/search/Zacatecas%20Mexican%20Grill%20%26%20Tequila%20Lounge+near+44.1879272%2C-88.46388999999999"
+    },
+    {
+      "name": "Greene's Pour House",
+      "distance": "0.1 mi",
+      "url": "https://www.google.com/maps/search/Greene's%20Pour%20House+near+44.1879272%2C-88.46388999999999"
+    },
+    {
+      "name": "Town Council Kitchen & Bar",
+      "distance": "0.1 mi",
+      "url": "https://www.google.com/maps/search/Town%20Council%20Kitchen%20%26%20Bar+near+44.1879272%2C-88.46388999999999"
+    },
+    {
+      "name": "Broken Tree Pizza",
+      "distance": "0.1 mi",
+      "url": "https://www.google.com/maps/search/Broken%20Tree%20Pizza+near+44.1879272%2C-88.46388999999999"
+    }
+  ],
+  "bowling": [
+    {
+      "name": "Rolling Thunder Lanes",
+      "distance": "2.1 mi",
+      "url": "https://www.google.com/maps/search/Rolling%20Thunder%20Lanes+near+44.1879272%2C-88.46388999999999"
+    },
+    {
+      "name": "Sabre Lanes",
+      "distance": "3.7 mi",
+      "url": "https://www.google.com/maps/search/Sabre%20Lanes+near+44.1879272%2C-88.46388999999999",
+      "isFar": true
+    },
+    {
+      "name": "The 10th Frame",
+      "distance": "6.4 mi",
+      "url": "https://www.google.com/maps/search/The%2010th%20Frame+near+44.1879272%2C-88.46388999999999",
+      "isFar": true
+    }
+  ],
+  "arcade": [],
+  "movies": [
+    {
+      "name": "Marcus Hollywood Cinema",
+      "distance": "5.3 mi",
+      "url": "https://www.google.com/maps/search/Marcus%20Hollywood%20Cinema+near+44.1879272%2C-88.46388999999999",
+      "isFar": true
+    }
+  ],
+  "fun": [
+    {
+      "name": "Urban Air Trampoline and Adventure Park",
+      "distance": "5.1 mi",
+      "url": "https://www.google.com/maps/search/Urban%20Air%20Trampoline%20and%20Adventure%20Park+near+44.1879272%2C-88.46388999999999",
+      "isFar": true
+    },
+    {
+      "name": "Funset Boulevard",
+      "distance": "5.2 mi",
+      "url": "https://www.google.com/maps/search/Funset%20Boulevard+near+44.1879272%2C-88.46388999999999",
+      "isFar": true
+    },
+    {
+      "name": "PixelJoy Claw Arcade",
+      "distance": "5.6 mi",
+      "url": "https://www.google.com/maps/search/PixelJoy%20Claw%20Arcade+near+44.1879272%2C-88.46388999999999",
+      "isFar": true
+    },
+    {
+      "name": "Altitude Trampoline Park - Appleton",
+      "distance": "5.9 mi",
+      "url": "https://www.google.com/maps/search/Altitude%20Trampoline%20Park%20-%20Appleton+near+44.1879272%2C-88.46388999999999",
+      "isFar": true
+    },
+    {
+      "name": "The Breaking Point LLC",
+      "distance": "6.8 mi",
+      "url": "https://www.google.com/maps/search/The%20Breaking%20Point%20LLC+near+44.1879272%2C-88.46388999999999",
+      "isFar": true
+    }
+  ],
+  "hotels": [
+    {
+      "name": "Luxury Downtown Flat - Apartment",
+      "distance": "0.1 mi",
+      "url": "https://www.google.com/maps/search/Luxury%20Downtown%20Flat%20-%20Apartment+near+44.1879272%2C-88.46388999999999"
+    },
+    {
+      "name": "Luxury Downtown 2 Bedroom Flat",
+      "distance": "0.1 mi",
+      "url": "https://www.google.com/maps/search/Luxury%20Downtown%202%20Bedroom%20Flat+near+44.1879272%2C-88.46388999999999"
+    },
+    {
+      "name": "Super cute house with views of the lake. Great walkability score!",
+      "distance": "0.2 mi",
+      "url": "https://www.google.com/maps/search/Super%20cute%20house%20with%20views%20of%20the%20lake.%20Great%20walkability%20score!+near+44.1879272%2C-88.46388999999999"
+    },
+    {
+      "name": "15 minutes to EAA. Newly renovated, Luxury 1 Bedroom in historic downtown Neenah",
+      "distance": "0.3 mi",
+      "url": "https://www.google.com/maps/search/15%20minutes%20to%20EAA.%20Newly%20renovated%2C%20Luxury%201%20Bedroom%20in%20historic%20downtown%20Neenah+near+44.1879272%2C-88.46388999999999"
+    },
+    {
+      "name": "15 minutes to EAA. Newly renovated, Luxury 1 Bedroom in historic downtown Neenah",
+      "distance": "0.3 mi",
+      "url": "https://www.google.com/maps/search/15%20minutes%20to%20EAA.%20Newly%20renovated%2C%20Luxury%201%20Bedroom%20in%20historic%20downtown%20Neenah+near+44.1879272%2C-88.46388999999999"
+    },
+    {
+      "name": "DoubleTree by Hilton Neenah",
+      "distance": "0.3 mi",
+      "url": "https://www.google.com/maps/search/DoubleTree%20by%20Hilton%20Neenah+near+44.1879272%2C-88.46388999999999"
+    },
+    {
+      "name": "Furnished executive apartments at an affordable price, perfect downtown location",
+      "distance": "0.3 mi",
+      "url": "https://www.google.com/maps/search/Furnished%20executive%20apartments%20at%20an%20affordable%20price%2C%20perfect%20downtown%20location+near+44.1879272%2C-88.46388999999999"
+    }
+  ],
+  "gas": [
+    {
+      "name": "Mobil",
+      "distance": "0.5 mi",
+      "url": "https://www.google.com/maps/search/Mobil+near+44.1879272%2C-88.46388999999999"
+    },
+    {
+      "name": "Commercial Petro",
+      "distance": "0.5 mi",
+      "url": "https://www.google.com/maps/search/Commercial%20Petro+near+44.1879272%2C-88.46388999999999"
+    },
+    {
+      "name": "Mobil",
+      "distance": "0.6 mi",
+      "url": "https://www.google.com/maps/search/Mobil+near+44.1879272%2C-88.46388999999999"
+    },
+    {
+      "name": "Amoco",
+      "distance": "1.0 mi",
+      "url": "https://www.google.com/maps/search/Amoco+near+44.1879272%2C-88.46388999999999"
+    },
+    {
+      "name": "bp",
+      "distance": "1.1 mi",
+      "url": "https://www.google.com/maps/search/bp+near+44.1879272%2C-88.46388999999999"
+    }
+  ]
+}

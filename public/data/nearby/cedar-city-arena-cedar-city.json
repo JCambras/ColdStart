@@ -1,0 +1,156 @@
+{
+  "quick_bite": [
+    {
+      "name": "Subway",
+      "distance": "1.5 mi",
+      "url": "https://www.google.com/maps/search/Subway+near+37.678685099999996%2C-113.10813669999999"
+    },
+    {
+      "name": "Wendy's",
+      "distance": "1.6 mi",
+      "url": "https://www.google.com/maps/search/Wendy's+near+37.678685099999996%2C-113.10813669999999"
+    },
+    {
+      "name": "Burger King",
+      "distance": "1.6 mi",
+      "url": "https://www.google.com/maps/search/Burger%20King+near+37.678685099999996%2C-113.10813669999999"
+    },
+    {
+      "name": "Dairy Queen Grill & Chill",
+      "distance": "1.7 mi",
+      "url": "https://www.google.com/maps/search/Dairy%20Queen%20Grill%20%26%20Chill+near+37.678685099999996%2C-113.10813669999999"
+    },
+    {
+      "name": "Rita’s Taco Shop",
+      "distance": "1.7 mi",
+      "url": "https://www.google.com/maps/search/Rita%E2%80%99s%20Taco%20Shop+near+37.678685099999996%2C-113.10813669999999"
+    }
+  ],
+  "coffee": [
+    {
+      "name": "Silver Silo Bakery & Espresso",
+      "distance": "1.0 mi",
+      "url": "https://www.google.com/maps/search/Silver%20Silo%20Bakery%20%26%20Espresso+near+37.678685099999996%2C-113.10813669999999"
+    },
+    {
+      "name": "Lizzie & Lola’s Espresso and More",
+      "distance": "1.4 mi",
+      "url": "https://www.google.com/maps/search/Lizzie%20%26%20Lola%E2%80%99s%20Espresso%20and%20More+near+37.678685099999996%2C-113.10813669999999"
+    }
+  ],
+  "team_lunch": [
+    {
+      "name": "Puerto Vallarta Taqueria #2",
+      "distance": "1.4 mi",
+      "url": "https://www.google.com/maps/search/Puerto%20Vallarta%20Taqueria%20%232+near+37.678685099999996%2C-113.10813669999999"
+    },
+    {
+      "name": "Cedar Shakes",
+      "distance": "1.7 mi",
+      "url": "https://www.google.com/maps/search/Cedar%20Shakes+near+37.678685099999996%2C-113.10813669999999"
+    },
+    {
+      "name": "Einstein Bro’s Bagels",
+      "distance": "1.7 mi",
+      "url": "https://www.google.com/maps/search/Einstein%20Bro%E2%80%99s%20Bagels+near+37.678685099999996%2C-113.10813669999999"
+    }
+  ],
+  "dinner": [
+    {
+      "name": "Chef Alfredo's Ristorante Italiano",
+      "distance": "0.8 mi",
+      "url": "https://www.google.com/maps/search/Chef%20Alfredo's%20Ristorante%20Italiano+near+37.678685099999996%2C-113.10813669999999"
+    },
+    {
+      "name": "Market Grill",
+      "distance": "0.9 mi",
+      "url": "https://www.google.com/maps/search/Market%20Grill+near+37.678685099999996%2C-113.10813669999999"
+    },
+    {
+      "name": "Cedar Mountain Sourdough",
+      "distance": "1.2 mi",
+      "url": "https://www.google.com/maps/search/Cedar%20Mountain%20Sourdough+near+37.678685099999996%2C-113.10813669999999"
+    },
+    {
+      "name": "Puerto Vallarta Jalisco",
+      "distance": "1.4 mi",
+      "url": "https://www.google.com/maps/search/Puerto%20Vallarta%20Jalisco+near+37.678685099999996%2C-113.10813669999999"
+    },
+    {
+      "name": "Drunken Butcher BBQ, LLC",
+      "distance": "1.6 mi",
+      "url": "https://www.google.com/maps/search/Drunken%20Butcher%20BBQ%2C%20LLC+near+37.678685099999996%2C-113.10813669999999"
+    },
+    {
+      "name": "Red Fort Cuisine of India",
+      "distance": "1.7 mi",
+      "url": "https://www.google.com/maps/search/Red%20Fort%20Cuisine%20of%20India+near+37.678685099999996%2C-113.10813669999999"
+    },
+    {
+      "name": "China Kitchen",
+      "distance": "1.7 mi",
+      "url": "https://www.google.com/maps/search/China%20Kitchen+near+37.678685099999996%2C-113.10813669999999"
+    }
+  ],
+  "bowling": [
+    {
+      "name": "Cedar Bowling Center",
+      "distance": "4.7 mi",
+      "url": "https://www.google.com/maps/search/Cedar%20Bowling%20Center+near+37.678685099999996%2C-113.10813669999999",
+      "isFar": true
+    }
+  ],
+  "arcade": [],
+  "movies": [
+    {
+      "name": "Megaplex Theatres at Cedar City",
+      "distance": "2.0 mi",
+      "url": "https://www.google.com/maps/search/Megaplex%20Theatres%20at%20Cedar%20City+near+37.678685099999996%2C-113.10813669999999"
+    },
+    {
+      "name": "Cedar Fun Center",
+      "distance": "3.5 mi",
+      "url": "https://www.google.com/maps/search/Cedar%20Fun%20Center+near+37.678685099999996%2C-113.10813669999999",
+      "isFar": true
+    }
+  ],
+  "fun": [],
+  "hotels": [
+    {
+      "name": "Kingsbury Manor",
+      "distance": "0.4 mi",
+      "url": "https://www.google.com/maps/search/Kingsbury%20Manor+near+37.678685099999996%2C-113.10813669999999"
+    },
+    {
+      "name": "Spacious 5-BR Home. Pool Table, Air Hockey, TVs in Every Room, & Outdoor Dining",
+      "distance": "0.5 mi",
+      "url": "https://www.google.com/maps/search/Spacious%205-BR%20Home.%20Pool%20Table%2C%20Air%20Hockey%2C%20TVs%20in%20Every%20Room%2C%20%26%20Outdoor%20Dining+near+37.678685099999996%2C-113.10813669999999"
+    },
+    {
+      "name": "Spacious 5-BR Home. Pool Table, Air Hockey, TVs in Every Room, Outdoor Dining",
+      "distance": "0.5 mi",
+      "url": "https://www.google.com/maps/search/Spacious%205-BR%20Home.%20Pool%20Table%2C%20Air%20Hockey%2C%20TVs%20in%20Every%20Room%2C%20Outdoor%20Dining+near+37.678685099999996%2C-113.10813669999999"
+    },
+    {
+      "name": "Panoramic Views: Spacious Home in Cedar City!",
+      "distance": "0.5 mi",
+      "url": "https://www.google.com/maps/search/Panoramic%20Views%3A%20Spacious%20Home%20in%20Cedar%20City!+near+37.678685099999996%2C-113.10813669999999"
+    },
+    {
+      "name": "Cross Hollow RV Resort",
+      "distance": "0.6 mi",
+      "url": "https://www.google.com/maps/search/Cross%20Hollow%20RV%20Resort+near+37.678685099999996%2C-113.10813669999999"
+    },
+    {
+      "name": "BNB Swiss , Bed & Breakfast, RV Park",
+      "distance": "0.6 mi",
+      "url": "https://www.google.com/maps/search/BNB%20Swiss%20%2C%20Bed%20%26%20Breakfast%2C%20RV%20Park+near+37.678685099999996%2C-113.10813669999999"
+    },
+    {
+      "name": "Bnbswiss",
+      "distance": "0.6 mi",
+      "url": "https://www.google.com/maps/search/Bnbswiss+near+37.678685099999996%2C-113.10813669999999"
+    }
+  ],
+  "gas": []
+}

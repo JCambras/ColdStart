@@ -1,0 +1,202 @@
+{
+  "quick_bite": [
+    {
+      "name": "Subway",
+      "distance": "3.3 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Subway&query_place_id=ChIJZT_gAz_X5IkRrIC2_YkwEDk&center=41.5667459,-70.5955773",
+      "isFar": true
+    },
+    {
+      "name": "Cape Cod Pie Shop",
+      "distance": "3.4 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Cape%20Cod%20Pie%20Shop&query_place_id=ChIJMV74wD_X5IkRXFXSaWeiM6M&center=41.5656609,-70.59624629999999",
+      "isFar": true
+    },
+    {
+      "name": "Subway",
+      "distance": "3.8 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Subway&query_place_id=ChIJG6S4ZhXX5IkR54Xpz5l8LGA&center=41.5606966,-70.5944169",
+      "isFar": true
+    },
+    {
+      "name": "TheKTCHN Food Tralier",
+      "distance": "4.3 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=TheKTCHN%20Food%20Tralier&query_place_id=ChIJeQ5lYMfX5IkRUzBUH2_QVvU&center=41.5521862,-70.6047164",
+      "isFar": true
+    },
+    {
+      "name": "Chawgies Food Trailer",
+      "distance": "4.8 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Chawgies%20Food%20Trailer&query_place_id=ChIJT7VtjqXR5IkRVKwkjxfD_fU&center=41.545094999999996,-70.59659040000001",
+      "isFar": true
+    }
+  ],
+  "coffee": [
+    {
+      "name": "Village Cafe",
+      "distance": "1.5 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Village%20Cafe&query_place_id=ChIJY9ts7RHa5IkRUUPDcKqWTgg&center=41.6044919,-70.6349381"
+    },
+    {
+      "name": "Daily Brew Coffee House & Lounge",
+      "distance": "1.8 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Daily%20Brew%20Coffee%20House%20%26%20Lounge&query_place_id=ChIJ0_8jxBzQ5IkRUIdWfvg_o5U&center=41.6394559,-70.61642789999999"
+    },
+    {
+      "name": "Dunkin'",
+      "distance": "2.5 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Dunkin'&query_place_id=ChIJyWrgeg7Q5IkRF6H94EJReWg&center=41.6508292,-70.61266839999999"
+    },
+    {
+      "name": "Maison Villatte",
+      "distance": "4.3 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Maison%20Villatte&query_place_id=ChIJZ7-sMHnX5IkRgLmGtLoQQBE&center=41.5520212,-70.6148688",
+      "isFar": true
+    }
+  ],
+  "team_lunch": [
+    {
+      "name": "The Cape Grille",
+      "distance": "1.5 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=The%20Cape%20Grille&query_place_id=ChIJBW5hE2nQ5IkRzzPebtIh1PY&center=41.6340335,-70.5995899"
+    },
+    {
+      "name": "Sandwich Bred",
+      "distance": "1.5 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Sandwich%20Bred&query_place_id=ChIJ69mJRVHb5IkRgSVlikGD5RE&center=41.6325928,-70.6231541"
+    },
+    {
+      "name": "Silver Beach Pizza & Seafood",
+      "distance": "2.3 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Silver%20Beach%20Pizza%20%26%20Seafood&query_place_id=ChIJCd70AA3Q5IkRs-Vn25TVN2o&center=41.646722499999996,-70.61206849999999"
+    },
+    {
+      "name": "Cupcakecreationsbysheila",
+      "distance": "3.9 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Cupcakecreationsbysheila&query_place_id=ChIJs8FVhdzX5IkR4HKzbINvNgg&center=41.5580791,-70.59809369999999",
+      "isFar": true
+    }
+  ],
+  "dinner": [
+    {
+      "name": "The Buffalo Jump",
+      "distance": "1.6 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=The%20Buffalo%20Jump&query_place_id=ChIJDamFvv_Q5IkRjPvG73Enizg&center=41.616417399999996,-70.5775804"
+    },
+    {
+      "name": "Talk of the Town Diner",
+      "distance": "1.7 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Talk%20of%20the%20Town%20Diner&query_place_id=ChIJ6xibE3fQ5IkRb8FhtKwqXQc&center=41.637139,-70.6175949"
+    },
+    {
+      "name": "The Burger Shack",
+      "distance": "1.7 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=The%20Burger%20Shack&query_place_id=ChIJP2E1_nXb5IkRsmH52Dr0vew&center=41.624556399999996,-70.63927079999999"
+    },
+    {
+      "name": "The Lantern Room",
+      "distance": "1.8 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=The%20Lantern%20Room&query_place_id=ChIJa2X2WCfb5IkRx7xXdrXKqmc&center=41.6267789,-70.6397841"
+    },
+    {
+      "name": "The Irish Goodbye Pinthouse",
+      "distance": "1.9 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=The%20Irish%20Goodbye%20Pinthouse&query_place_id=ChIJl3MjXgDR5IkRoRvwAodlTTs&center=41.6411599,-70.6157015"
+    },
+    {
+      "name": "Chapoquoit Grill",
+      "distance": "2.1 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Chapoquoit%20Grill&query_place_id=ChIJn8mnGh3a5IkRAAfyA4kGVjw&center=41.5925825,-70.63594259999999"
+    }
+  ],
+  "bowling": [
+    {
+      "name": "C-Side Bowling Alley",
+      "distance": "3.6 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=C-Side%20Bowling%20Alley&query_place_id=ChIJh2PNq13P5IkREeuQ4LhAbKA&center=41.6576194,-70.5692291",
+      "isFar": true
+    },
+    {
+      "name": "Trade Center Bowl",
+      "distance": "3.9 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Trade%20Center%20Bowl&query_place_id=ChIJ7ylZxhPX5IkRFQugYYM9zCc&center=41.5593299,-70.59309379999999",
+      "isFar": true
+    }
+  ],
+  "arcade": [],
+  "movies": [
+    {
+      "name": "Falmouth Cinema Pub",
+      "distance": "3.7 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Falmouth%20Cinema%20Pub&query_place_id=ChIJG6S4ZhXX5IkRnoR3QenXT2c&center=41.5618365,-70.5959951",
+      "isFar": true
+    },
+    {
+      "name": "Base Theatre",
+      "distance": "3.8 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Base%20Theatre&query_place_id=ChIJpzke8OPP5IkR4TlzPmSkw6U&center=41.6583476,-70.5638575",
+      "isFar": true
+    }
+  ],
+  "fun": [
+    {
+      "name": "W falmouth dock",
+      "distance": "1.7 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=W%20falmouth%20dock&query_place_id=ChIJ9TmjOADb5IkRz8n6yUE7xcg&center=41.603830599999995,-70.6392418"
+    },
+    {
+      "name": "Cranberry bogs",
+      "distance": "2.0 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Cranberry%20bogs&query_place_id=ChIJU3CxAQDR5IkRfZa7oPSpsqA&center=41.6096703,-70.5709778"
+    },
+    {
+      "name": "New Silver Beach",
+      "distance": "2.6 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=New%20Silver%20Beach&query_place_id=ChIJ-WFIVQDb5IkReXauFzFO4RI&center=41.63972630000001,-70.6442232"
+    },
+    {
+      "name": "Harvest of Horrors",
+      "distance": "2.6 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Harvest%20of%20Horrors&query_place_id=ChIJ___DdhjR5IkRVjrYFbAzpuA&center=41.5978341,-70.5641721"
+    }
+  ],
+  "hotels": [
+    {
+      "name": "Golf in Cape Cod",
+      "distance": "0.8 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Golf%20in%20Cape%20Cod&query_place_id=ChIJWb_KHGDQ5IkRrrpp0a1JUb0&center=41.623084999999996,-70.59863279999999"
+    },
+    {
+      "name": "Not a Cottage, but a Castle!",
+      "distance": "0.9 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Not%20a%20Cottage%2C%20but%20a%20Castle!&query_place_id=ChIJieJVrIHQ5IkRioPqWFW9m3I&center=41.623909,-70.6192398"
+    },
+    {
+      "name": "Exceptional home 3min to bike path bogs, beach, restaurants. Private pool.",
+      "distance": "0.9 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Exceptional%20home%203min%20to%20bike%20path%20bogs%2C%20beach%2C%20restaurants.%20Private%20pool.&query_place_id=ChIJw6DVTX_a5IkRiDe-69Xjndc&center=41.622539499999995,-70.6225967"
+    }
+  ],
+  "gas": [
+    {
+      "name": "Citgo",
+      "distance": "1.3 mi",
+      "url": "https://www.google.com/maps/search/Citgo+near+41.6141298%2C-70.6085655"
+    },
+    {
+      "name": "EXPRESS MART",
+      "distance": "1.3 mi",
+      "url": "https://www.google.com/maps/search/EXPRESS%20MART+near+41.6141298%2C-70.6085655"
+    },
+    {
+      "name": "Wild Harbor Gas Station",
+      "distance": "2.2 mi",
+      "url": "https://www.google.com/maps/search/Wild%20Harbor%20Gas%20Station+near+41.6141298%2C-70.6085655"
+    },
+    {
+      "name": "Shell",
+      "distance": "3.0 mi",
+      "url": "https://www.google.com/maps/search/Shell+near+41.6141298%2C-70.6085655"
+    }
+  ]
+}

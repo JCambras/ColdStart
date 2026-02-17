@@ -1,0 +1,180 @@
+{
+  "quick_bite": [
+    {
+      "name": "Chicken-n-More",
+      "distance": "0.1 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Chicken-n-More&query_place_id=ChIJiUiB49B-wYkRe1uojdJFg5Y&center=40.1273054,-74.2744311"
+    },
+    {
+      "name": "Jersey Mike's Subs",
+      "distance": "0.2 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Jersey%20Mike's%20Subs&query_place_id=ChIJiUiB49B-wYkRoRBl9sD24b8&center=40.127989,-74.2753236"
+    },
+    {
+      "name": "Emilio’s Pizza & Restaurant",
+      "distance": "0.8 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Emilio%E2%80%99s%20Pizza%20%26%20Restaurant&query_place_id=ChIJeXY17sp-wYkRGoJbF2n1hyE&center=40.122996199999996,-74.28616509999999"
+    },
+    {
+      "name": "MunchiesLokos",
+      "distance": "0.9 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=MunchiesLokos&query_place_id=ChIJFzcrB95_wYkRRMmA4ICCor0&center=40.1402778,-74.2666345"
+    },
+    {
+      "name": "Krazy Munchies & Ice Cream",
+      "distance": "0.9 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Krazy%20Munchies%20%26%20Ice%20Cream&query_place_id=ChIJQxvamwF_wYkR1s69HvklZAk&center=40.140179499999995,-74.26620729999999"
+    },
+    {
+      "name": "Bento Sushi",
+      "distance": "1.3 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Bento%20Sushi&query_place_id=ChIJfQ_uyQh_wYkRn_TziWPGXpw&center=40.138673399999995,-74.2928469"
+    }
+  ],
+  "coffee": [
+    {
+      "name": "The Green Bowl of Jackson",
+      "distance": "0.1 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=The%20Green%20Bowl%20of%20Jackson&query_place_id=ChIJxcL0Vzx_wYkR1Er3JVWIJyg&center=40.1268089,-74.2735014"
+    },
+    {
+      "name": "Dunkin'",
+      "distance": "0.8 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Dunkin'&query_place_id=ChIJeXY17sp-wYkRQFXgSyW7oLo&center=40.1227179,-74.2857791"
+    },
+    {
+      "name": "Bagel Run",
+      "distance": "1.7 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Bagel%20Run&query_place_id=ChIJ108uRqN-wYkRg0GWngIKXV0&center=40.1389025,-74.3009089"
+    }
+  ],
+  "team_lunch": [
+    {
+      "name": "Chin Wong Chinese Restaurant",
+      "distance": "0.2 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Chin%20Wong%20Chinese%20Restaurant&query_place_id=ChIJiUiB49B-wYkRj4UvrmzEaqs&center=40.127947999999996,-74.2752687"
+    },
+    {
+      "name": "Pizza on the 9",
+      "distance": "0.8 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Pizza%20on%20the%209&query_place_id=ChIJAfQnmgp_wYkR52twkcZOhnA&center=40.121246899999996,-74.2594503"
+    },
+    {
+      "name": "Shing Loon",
+      "distance": "0.8 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Shing%20Loon&query_place_id=ChIJeXY17sp-wYkRjeLDsEH-kqs&center=40.122813199999996,-74.2857926"
+    },
+    {
+      "name": "La Herencia Restaurant",
+      "distance": "0.8 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=La%20Herencia%20Restaurant&query_place_id=ChIJ02_Lc1x_wYkRvhmvcltjjxA&center=40.1336156,-74.25818240000001"
+    },
+    {
+      "name": "Mein King Restaurant",
+      "distance": "0.9 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Mein%20King%20Restaurant&query_place_id=ChIJRbwxIO57wYkRAt3X2n959uY&center=40.1395896,-74.26693440000001"
+    },
+    {
+      "name": "La Casa de la Tia II LLC",
+      "distance": "0.9 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=La%20Casa%20de%20la%20Tia%20II%20LLC&query_place_id=ChIJhWiOSGB_wYkR_MGiGqiHMQI&center=40.1396363,-74.2670705"
+    }
+  ],
+  "dinner": [
+    {
+      "name": "Cinco De Mayo",
+      "distance": "0.1 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Cinco%20De%20Mayo&query_place_id=ChIJTcLgCip_wYkRAkuDEty2i2M&center=40.1273506,-74.2745224"
+    },
+    {
+      "name": "Tacos Y Alitas Food Truck",
+      "distance": "0.5 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Tacos%20Y%20Alitas%20Food%20Truck&query_place_id=ChIJU8t9y9F_wYkRZUj_T8rAkBs&center=40.1315934,-74.2804443"
+    },
+    {
+      "name": "Pescada New Jersey",
+      "distance": "0.7 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Pescada%20New%20Jersey&query_place_id=ChIJjwaaUQB_wYkR1ful9fAqNAc&center=40.1330652,-74.2829148"
+    },
+    {
+      "name": "Fialkoffs Pizza - Jackson",
+      "distance": "0.7 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Fialkoffs%20Pizza%20-%20Jackson&query_place_id=ChIJUQ316kl_wYkRDUG3iQmWLoA&center=40.122297700000004,-74.26031069999999"
+    },
+    {
+      "name": "Inzillo's Pizzeria & Restaurant",
+      "distance": "0.8 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Inzillo's%20Pizzeria%20%26%20Restaurant&query_place_id=ChIJaf_Nfyt_wYkRAEofSK8-hTY&center=40.1210429,-74.260603"
+    },
+    {
+      "name": "Sunrise Diner of Jackson",
+      "distance": "0.8 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Sunrise%20Diner%20of%20Jackson&query_place_id=ChIJY9wfG0x_wYkRI0K3grKDcTE&center=40.1339645,-74.28467549999999"
+    }
+  ],
+  "bowling": [],
+  "arcade": [],
+  "movies": [],
+  "fun": [
+    {
+      "name": "SAY CHEEZ LA NJ",
+      "distance": "0.2 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=SAY%20CHEEZ%20LA%20NJ&query_place_id=ChIJc77gsQB_wYkRrNnm_FaX2vA&center=40.1280649,-74.2753204"
+    },
+    {
+      "name": "The strand",
+      "distance": "2.7 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=The%20strand&query_place_id=ChIJR1GvBAB_wYkRbxI_whkbqxc&center=40.12766,-74.22175"
+    },
+    {
+      "name": "ClimbZone",
+      "distance": "2.9 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=ClimbZone&query_place_id=ChIJAY75hoiBwYkRuPJBpFxiIFU&center=40.126682699999996,-74.2179117"
+    },
+    {
+      "name": "Viking Electronics Inc",
+      "distance": "3.6 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Viking%20Electronics%20Inc&query_place_id=ChIJt71EVj58wYkR4B5862zlf3M&center=40.1506534,-74.332707",
+      "isFar": true
+    }
+  ],
+  "hotels": [
+    {
+      "name": "Jersey Home with Private In-Ground Pool and Hot Tub!",
+      "distance": "1.2 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Jersey%20Home%20with%20Private%20In-Ground%20Pool%20and%20Hot%20Tub!&query_place_id=ChIJM_kQzuN-wYkRBWlrU2NTSYo&center=40.1450195,-74.26824189999999"
+    },
+    {
+      "name": "Jersey Home with Hot Tub and Private Pool!",
+      "distance": "1.2 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Jersey%20Home%20with%20Hot%20Tub%20and%20Private%20Pool!&query_place_id=ChIJtRscM-J-wYkROcIOFEWQP_g&center=40.1450691,-74.2677002"
+    },
+    {
+      "name": "Jersey Home w/ Hot Tub & Private Pool!",
+      "distance": "1.2 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Jersey%20Home%20w%2F%20Hot%20Tub%20%26%20Private%20Pool!&query_place_id=ChIJ-fgbM-J-wYkRMXq1QDCJl0I&center=40.145072899999995,-74.2677002"
+    }
+  ],
+  "gas": [
+    {
+      "name": "United Gas Station",
+      "distance": "0.2 mi",
+      "url": "https://www.google.com/maps/search/United%20Gas%20Station+near+40.12788330000001%2C-74.2719552"
+    },
+    {
+      "name": "Sunoco",
+      "distance": "0.2 mi",
+      "url": "https://www.google.com/maps/search/Sunoco+near+40.12788330000001%2C-74.2719552"
+    },
+    {
+      "name": "BJ's Gas Station",
+      "distance": "2.8 mi",
+      "url": "https://www.google.com/maps/search/BJ's%20Gas%20Station+near+40.12788330000001%2C-74.2719552"
+    },
+    {
+      "name": "bp",
+      "distance": "3.0 mi",
+      "url": "https://www.google.com/maps/search/bp+near+40.12788330000001%2C-74.2719552"
+    }
+  ]
+}

@@ -1,0 +1,273 @@
+{
+  "quick_bite": [
+    {
+      "name": "The Kathmandu",
+      "distance": "0.1 mi",
+      "url": "https://www.google.com/maps/search/The%20Kathmandu+near+40.701021%2C-111.85240119999999"
+    },
+    {
+      "name": "Jimmy John's",
+      "distance": "0.1 mi",
+      "url": "https://www.google.com/maps/search/Jimmy%20John's+near+40.701021%2C-111.85240119999999"
+    },
+    {
+      "name": "Little Caesars Pizza",
+      "distance": "0.1 mi",
+      "url": "https://www.google.com/maps/search/Little%20Caesars%20Pizza+near+40.701021%2C-111.85240119999999"
+    },
+    {
+      "name": "Burger King",
+      "distance": "0.2 mi",
+      "url": "https://www.google.com/maps/search/Burger%20King+near+40.701021%2C-111.85240119999999"
+    },
+    {
+      "name": "Jersey Mike's Subs",
+      "distance": "0.2 mi",
+      "url": "https://www.google.com/maps/search/Jersey%20Mike's%20Subs+near+40.701021%2C-111.85240119999999"
+    },
+    {
+      "name": "Del Taco",
+      "distance": "0.3 mi",
+      "url": "https://www.google.com/maps/search/Del%20Taco+near+40.701021%2C-111.85240119999999"
+    },
+    {
+      "name": "Cinemark Sugarhouse",
+      "distance": "1.5 mi",
+      "url": "https://www.google.com/maps/search/Cinemark%20Sugarhouse+near+40.701021%2C-111.85240119999999"
+    }
+  ],
+  "coffee": [
+    {
+      "name": "Einstein Bros. Bagels",
+      "distance": "0.1 mi",
+      "url": "https://www.google.com/maps/search/Einstein%20Bros.%20Bagels+near+40.701021%2C-111.85240119999999"
+    },
+    {
+      "name": "Table X Bread",
+      "distance": "0.2 mi",
+      "url": "https://www.google.com/maps/search/Table%20X%20Bread+near+40.701021%2C-111.85240119999999"
+    },
+    {
+      "name": "Toasters Deli",
+      "distance": "0.3 mi",
+      "url": "https://www.google.com/maps/search/Toasters%20Deli+near+40.701021%2C-111.85240119999999"
+    }
+  ],
+  "team_lunch": [
+    {
+      "name": "Noodlehead",
+      "distance": "0.1 mi",
+      "url": "https://www.google.com/maps/search/Noodlehead+near+40.701021%2C-111.85240119999999"
+    },
+    {
+      "name": "Tres Hombres Mexican Grill and Cantina",
+      "distance": "0.1 mi",
+      "url": "https://www.google.com/maps/search/Tres%20Hombres%20Mexican%20Grill%20and%20Cantina+near+40.701021%2C-111.85240119999999"
+    },
+    {
+      "name": "Wingstop",
+      "distance": "0.1 mi",
+      "url": "https://www.google.com/maps/search/Wingstop+near+40.701021%2C-111.85240119999999"
+    },
+    {
+      "name": "Ortega's Asada & Wings SLC",
+      "distance": "0.2 mi",
+      "url": "https://www.google.com/maps/search/Ortega's%20Asada%20%26%20Wings%20SLC+near+40.701021%2C-111.85240119999999"
+    }
+  ],
+  "dinner": [
+    {
+      "name": "Crown Burgers",
+      "distance": "0.1 mi",
+      "url": "https://www.google.com/maps/search/Crown%20Burgers+near+40.701021%2C-111.85240119999999"
+    },
+    {
+      "name": "Millcreek Pizza House",
+      "distance": "0.1 mi",
+      "url": "https://www.google.com/maps/search/Millcreek%20Pizza%20House+near+40.701021%2C-111.85240119999999"
+    },
+    {
+      "name": "Pie Party",
+      "distance": "0.1 mi",
+      "url": "https://www.google.com/maps/search/Pie%20Party+near+40.701021%2C-111.85240119999999"
+    },
+    {
+      "name": "Baya Bar - Acai & Smoothie Shop",
+      "distance": "0.1 mi",
+      "url": "https://www.google.com/maps/search/Baya%20Bar%20-%20Acai%20%26%20Smoothie%20Shop+near+40.701021%2C-111.85240119999999"
+    },
+    {
+      "name": "Table X",
+      "distance": "0.2 mi",
+      "url": "https://www.google.com/maps/search/Table%20X+near+40.701021%2C-111.85240119999999"
+    },
+    {
+      "name": "Burattino Brick Oven Pizza",
+      "distance": "0.3 mi",
+      "url": "https://www.google.com/maps/search/Burattino%20Brick%20Oven%20Pizza+near+40.701021%2C-111.85240119999999"
+    },
+    {
+      "name": "Per Noi Trattoria",
+      "distance": "0.3 mi",
+      "url": "https://www.google.com/maps/search/Per%20Noi%20Trattoria+near+40.701021%2C-111.85240119999999"
+    }
+  ],
+  "bowling": [
+    {
+      "name": "Bonwood Bowl",
+      "distance": "2.3 mi",
+      "url": "https://www.google.com/maps/search/Bonwood%20Bowl+near+40.701021%2C-111.85240119999999"
+    },
+    {
+      "name": "Olympus Hills Bowling Lanes",
+      "distance": "3.3 mi",
+      "url": "https://www.google.com/maps/search/Olympus%20Hills%20Bowling%20Lanes+near+40.701021%2C-111.85240119999999",
+      "isFar": true
+    },
+    {
+      "name": "Union Recreation",
+      "distance": "4.4 mi",
+      "url": "https://www.google.com/maps/search/Union%20Recreation+near+40.701021%2C-111.85240119999999",
+      "isFar": true
+    }
+  ],
+  "arcade": [],
+  "movies": [
+    {
+      "name": "Organ Loft",
+      "distance": "1.8 mi",
+      "url": "https://www.google.com/maps/search/Organ%20Loft+near+40.701021%2C-111.85240119999999"
+    },
+    {
+      "name": "Megaplex Luxury Theatres At Cottonwood",
+      "distance": "2.5 mi",
+      "url": "https://www.google.com/maps/search/Megaplex%20Luxury%20Theatres%20At%20Cottonwood+near+40.701021%2C-111.85240119999999"
+    },
+    {
+      "name": "Brewvies Cinema Pub",
+      "distance": "4.4 mi",
+      "url": "https://www.google.com/maps/search/Brewvies%20Cinema%20Pub+near+40.701021%2C-111.85240119999999",
+      "isFar": true
+    },
+    {
+      "name": "Broadway Centre Cinemas, operated by Salt Lake Film Society",
+      "distance": "4.7 mi",
+      "url": "https://www.google.com/maps/search/Broadway%20Centre%20Cinemas%2C%20operated%20by%20Salt%20Lake%20Film%20Society+near+40.701021%2C-111.85240119999999",
+      "isFar": true
+    },
+    {
+      "name": "Salt Lake Film Society",
+      "distance": "4.7 mi",
+      "url": "https://www.google.com/maps/search/Salt%20Lake%20Film%20Society+near+40.701021%2C-111.85240119999999",
+      "isFar": true
+    }
+  ],
+  "fun": [
+    {
+      "name": "Escape on 13th",
+      "distance": "3.8 mi",
+      "url": "https://www.google.com/maps/search/Escape%20on%2013th+near+40.701021%2C-111.85240119999999",
+      "isFar": true
+    },
+    {
+      "name": "Lighthouse Point Splash Zone at Hogle Zoo",
+      "distance": "3.8 mi",
+      "url": "https://www.google.com/maps/search/Lighthouse%20Point%20Splash%20Zone%20at%20Hogle%20Zoo+near+40.701021%2C-111.85240119999999",
+      "isFar": true
+    },
+    {
+      "name": "Salt Lake Game Show Experience",
+      "distance": "3.9 mi",
+      "url": "https://www.google.com/maps/search/Salt%20Lake%20Game%20Show%20Experience+near+40.701021%2C-111.85240119999999",
+      "isFar": true
+    },
+    {
+      "name": "Smash it Rage Rooms",
+      "distance": "3.9 mi",
+      "url": "https://www.google.com/maps/search/Smash%20it%20Rage%20Rooms+near+40.701021%2C-111.85240119999999",
+      "isFar": true
+    },
+    {
+      "name": "Jump Around Utah",
+      "distance": "3.9 mi",
+      "url": "https://www.google.com/maps/search/Jump%20Around%20Utah+near+40.701021%2C-111.85240119999999",
+      "isFar": true
+    },
+    {
+      "name": "Claw Zone",
+      "distance": "4.2 mi",
+      "url": "https://www.google.com/maps/search/Claw%20Zone+near+40.701021%2C-111.85240119999999",
+      "isFar": true
+    },
+    {
+      "name": "More Than Mysteries",
+      "distance": "4.4 mi",
+      "url": "https://www.google.com/maps/search/More%20Than%20Mysteries+near+40.701021%2C-111.85240119999999",
+      "isFar": true
+    }
+  ],
+  "hotels": [
+    {
+      "name": "BEAUTIFUL COZY VACATION HOME, IN THE HEART OF THE BRICKYARD & MILLCREEK COMMONS!",
+      "distance": "0.2 mi",
+      "url": "https://www.google.com/maps/search/BEAUTIFUL%20COZY%20VACATION%20HOME%2C%20IN%20THE%20HEART%20OF%20THE%20BRICKYARD%20%26%20MILLCREEK%20COMMONS!+near+40.701021%2C-111.85240119999999"
+    },
+    {
+      "name": "BEAUTIFUL COZY VACATION HOME, IN THE HEART OF THE BRICKYARD MILLCREEK COMMONS!",
+      "distance": "0.2 mi",
+      "url": "https://www.google.com/maps/search/BEAUTIFUL%20COZY%20VACATION%20HOME%2C%20IN%20THE%20HEART%20OF%20THE%20BRICKYARD%20MILLCREEK%20COMMONS!+near+40.701021%2C-111.85240119999999"
+    },
+    {
+      "name": "Adorably Retro - Private exclusive Hot Tub",
+      "distance": "0.2 mi",
+      "url": "https://www.google.com/maps/search/Adorably%20Retro%20-%20Private%20exclusive%20Hot%20Tub+near+40.701021%2C-111.85240119999999"
+    },
+    {
+      "name": "Secluded and Quiet on Wooded Lot w/ Stream 30 min to Resorts 6",
+      "distance": "0.2 mi",
+      "url": "https://www.google.com/maps/search/Secluded%20and%20Quiet%20on%20Wooded%20Lot%20w%2F%20Stream%2030%20min%20to%20Resorts%206+near+40.701021%2C-111.85240119999999"
+    },
+    {
+      "name": "Secluded and Quiet on Wooded Lot w / Stream 30 min to Resorts 6",
+      "distance": "0.2 mi",
+      "url": "https://www.google.com/maps/search/Secluded%20and%20Quiet%20on%20Wooded%20Lot%20w%20%2F%20Stream%2030%20min%20to%20Resorts%206+near+40.701021%2C-111.85240119999999"
+    },
+    {
+      "name": "Secluded Wooded Lot in the Heart of the City",
+      "distance": "0.2 mi",
+      "url": "https://www.google.com/maps/search/Secluded%20Wooded%20Lot%20in%20the%20Heart%20of%20the%20City+near+40.701021%2C-111.85240119999999"
+    },
+    {
+      "name": "Fullcondo-nearSkiResorts-Sleep3-Hotub-fastWiFi-Gym 15mintSLCairport -free Garage",
+      "distance": "0.3 mi",
+      "url": "https://www.google.com/maps/search/Fullcondo-nearSkiResorts-Sleep3-Hotub-fastWiFi-Gym%2015mintSLCairport%20-free%20Garage+near+40.701021%2C-111.85240119999999"
+    }
+  ],
+  "gas": [
+    {
+      "name": "Harmon's Fuel Stop",
+      "distance": "0.2 mi",
+      "url": "https://www.google.com/maps/search/Harmon's%20Fuel%20Stop+near+40.701021%2C-111.85240119999999"
+    },
+    {
+      "name": "Chevron",
+      "distance": "0.4 mi",
+      "url": "https://www.google.com/maps/search/Chevron+near+40.701021%2C-111.85240119999999"
+    },
+    {
+      "name": "Phillips 66",
+      "distance": "1.0 mi",
+      "url": "https://www.google.com/maps/search/Phillips%2066+near+40.701021%2C-111.85240119999999"
+    },
+    {
+      "name": "Holiday Oil #39",
+      "distance": "1.0 mi",
+      "url": "https://www.google.com/maps/search/Holiday%20Oil%20%2339+near+40.701021%2C-111.85240119999999"
+    },
+    {
+      "name": "Chevron",
+      "distance": "1.0 mi",
+      "url": "https://www.google.com/maps/search/Chevron+near+40.701021%2C-111.85240119999999"
+    }
+  ]
+}

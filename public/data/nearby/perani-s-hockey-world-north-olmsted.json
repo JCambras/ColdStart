@@ -1,0 +1,246 @@
+{
+  "quick_bite": [
+    {
+      "name": "Subway",
+      "distance": "0.1 mi",
+      "url": "https://www.google.com/maps/search/Subway+near+41.4305108%2C-81.88977179999999"
+    },
+    {
+      "name": "Taco Bell",
+      "distance": "0.2 mi",
+      "url": "https://www.google.com/maps/search/Taco%20Bell+near+41.4305108%2C-81.88977179999999"
+    },
+    {
+      "name": "Dairy Queen Grill and Chill",
+      "distance": "0.3 mi",
+      "url": "https://www.google.com/maps/search/Dairy%20Queen%20Grill%20and%20Chill+near+41.4305108%2C-81.88977179999999"
+    },
+    {
+      "name": "Marco's Pizza",
+      "distance": "0.4 mi",
+      "url": "https://www.google.com/maps/search/Marco's%20Pizza+near+41.4305108%2C-81.88977179999999"
+    },
+    {
+      "name": "Mr. Hero- North Olmsted",
+      "distance": "0.5 mi",
+      "url": "https://www.google.com/maps/search/Mr.%20Hero-%20North%20Olmsted+near+41.4305108%2C-81.88977179999999"
+    },
+    {
+      "name": "Chipotle Mexican Grill",
+      "distance": "0.5 mi",
+      "url": "https://www.google.com/maps/search/Chipotle%20Mexican%20Grill+near+41.4305108%2C-81.88977179999999"
+    },
+    {
+      "name": "Chuck E. Cheese",
+      "distance": "1.4 mi",
+      "url": "https://www.google.com/maps/search/Chuck%20E.%20Cheese+near+41.4305108%2C-81.88977179999999"
+    }
+  ],
+  "coffee": [
+    {
+      "name": "Starbucks Coffee Company",
+      "distance": "0.5 mi",
+      "url": "https://www.google.com/maps/search/Starbucks%20Coffee%20Company+near+41.4305108%2C-81.88977179999999"
+    }
+  ],
+  "team_lunch": [
+    {
+      "name": "Game On North Olmsted",
+      "distance": "0.1 mi",
+      "url": "https://www.google.com/maps/search/Game%20On%20North%20Olmsted+near+41.4305108%2C-81.88977179999999"
+    },
+    {
+      "name": "Lee's Seafood Boil-North Olmsted",
+      "distance": "0.4 mi",
+      "url": "https://www.google.com/maps/search/Lee's%20Seafood%20Boil-North%20Olmsted+near+41.4305108%2C-81.88977179999999"
+    },
+    {
+      "name": "Papa Johns Pizza",
+      "distance": "0.5 mi",
+      "url": "https://www.google.com/maps/search/Papa%20Johns%20Pizza+near+41.4305108%2C-81.88977179999999"
+    },
+    {
+      "name": "Back Draft Bar and Grill",
+      "distance": "0.5 mi",
+      "url": "https://www.google.com/maps/search/Back%20Draft%20Bar%20and%20Grill+near+41.4305108%2C-81.88977179999999"
+    }
+  ],
+  "dinner": [
+    {
+      "name": "Big Egg Restaurant North Olmsted",
+      "distance": "0.1 mi",
+      "url": "https://www.google.com/maps/search/Big%20Egg%20Restaurant%20North%20Olmsted+near+41.4305108%2C-81.88977179999999"
+    },
+    {
+      "name": "Captain Hooks Seafood & Grill",
+      "distance": "0.1 mi",
+      "url": "https://www.google.com/maps/search/Captain%20Hooks%20Seafood%20%26%20Grill+near+41.4305108%2C-81.88977179999999"
+    },
+    {
+      "name": "Danny Boy’s Pizza (North Olmsted, OH)",
+      "distance": "0.1 mi",
+      "url": "https://www.google.com/maps/search/Danny%20Boy%E2%80%99s%20Pizza%20(North%20Olmsted%2C%20OH)+near+41.4305108%2C-81.88977179999999"
+    },
+    {
+      "name": "Imperial Garden restaurant",
+      "distance": "0.1 mi",
+      "url": "https://www.google.com/maps/search/Imperial%20Garden%20restaurant+near+41.4305108%2C-81.88977179999999"
+    },
+    {
+      "name": "Travelers Grille",
+      "distance": "0.3 mi",
+      "url": "https://www.google.com/maps/search/Travelers%20Grille+near+41.4305108%2C-81.88977179999999"
+    },
+    {
+      "name": "Cookies by Design",
+      "distance": "0.3 mi",
+      "url": "https://www.google.com/maps/search/Cookies%20by%20Design+near+41.4305108%2C-81.88977179999999"
+    },
+    {
+      "name": "Ohashi",
+      "distance": "0.4 mi",
+      "url": "https://www.google.com/maps/search/Ohashi+near+41.4305108%2C-81.88977179999999"
+    }
+  ],
+  "bowling": [
+    {
+      "name": "RollHouse North Olmsted",
+      "distance": "0.3 mi",
+      "url": "https://www.google.com/maps/search/RollHouse%20North%20Olmsted+near+41.4305108%2C-81.88977179999999"
+    },
+    {
+      "name": "Fairview Lanes",
+      "distance": "1.6 mi",
+      "url": "https://www.google.com/maps/search/Fairview%20Lanes+near+41.4305108%2C-81.88977179999999"
+    },
+    {
+      "name": "AMF Brookgate Lanes",
+      "distance": "4.9 mi",
+      "url": "https://www.google.com/maps/search/AMF%20Brookgate%20Lanes+near+41.4305108%2C-81.88977179999999",
+      "isFar": true
+    }
+  ],
+  "arcade": [],
+  "movies": [
+    {
+      "name": "Phoenix Theatres Great Northern Mall",
+      "distance": "1.3 mi",
+      "url": "https://www.google.com/maps/search/Phoenix%20Theatres%20Great%20Northern%20Mall+near+41.4305108%2C-81.88977179999999"
+    },
+    {
+      "name": "AMC Westwood Town Center 6",
+      "distance": "2.5 mi",
+      "url": "https://www.google.com/maps/search/AMC%20Westwood%20Town%20Center%206+near+41.4305108%2C-81.88977179999999"
+    },
+    {
+      "name": "Regal Crocker Park",
+      "distance": "3.9 mi",
+      "url": "https://www.google.com/maps/search/Regal%20Crocker%20Park+near+41.4305108%2C-81.88977179999999",
+      "isFar": true
+    }
+  ],
+  "fun": [
+    {
+      "name": "Escapology Escape Rooms North Olmsted",
+      "distance": "0.3 mi",
+      "url": "https://www.google.com/maps/search/Escapology%20Escape%20Rooms%20North%20Olmsted+near+41.4305108%2C-81.88977179999999"
+    },
+    {
+      "name": "Escape Room Cleveland",
+      "distance": "0.5 mi",
+      "url": "https://www.google.com/maps/search/Escape%20Room%20Cleveland+near+41.4305108%2C-81.88977179999999"
+    },
+    {
+      "name": "All Smiles Aboard Railroad at Great Northern Mall",
+      "distance": "1.3 mi",
+      "url": "https://www.google.com/maps/search/All%20Smiles%20Aboard%20Railroad%20at%20Great%20Northern%20Mall+near+41.4305108%2C-81.88977179999999"
+    },
+    {
+      "name": "I-X Center Indoor Amusement Park",
+      "distance": "2.9 mi",
+      "url": "https://www.google.com/maps/search/I-X%20Center%20Indoor%20Amusement%20Park+near+41.4305108%2C-81.88977179999999"
+    },
+    {
+      "name": "Urban Air Trampoline and Adventure Park",
+      "distance": "3.6 mi",
+      "url": "https://www.google.com/maps/search/Urban%20Air%20Trampoline%20and%20Adventure%20Park+near+41.4305108%2C-81.88977179999999",
+      "isFar": true
+    },
+    {
+      "name": "The Escape Game Crocker Park",
+      "distance": "3.8 mi",
+      "url": "https://www.google.com/maps/search/The%20Escape%20Game%20Crocker%20Park+near+41.4305108%2C-81.88977179999999",
+      "isFar": true
+    },
+    {
+      "name": "Sandbox VR",
+      "distance": "3.9 mi",
+      "url": "https://www.google.com/maps/search/Sandbox%20VR+near+41.4305108%2C-81.88977179999999",
+      "isFar": true
+    }
+  ],
+  "hotels": [
+    {
+      "name": "Cozy 2-bedroom house sleeps 6+ with heated inground pool in North Olmsted",
+      "distance": "0.2 mi",
+      "url": "https://www.google.com/maps/search/Cozy%202-bedroom%20house%20sleeps%206%2B%20with%20heated%20inground%20pool%20in%20North%20Olmsted+near+41.4305108%2C-81.88977179999999"
+    },
+    {
+      "name": "Cozy 2-bedroom house sleeps 6+ with heated inground pool in North Olmsted",
+      "distance": "0.2 mi",
+      "url": "https://www.google.com/maps/search/Cozy%202-bedroom%20house%20sleeps%206%2B%20with%20heated%20inground%20pool%20in%20North%20Olmsted+near+41.4305108%2C-81.88977179999999"
+    },
+    {
+      "name": "Karen‘s house",
+      "distance": "0.4 mi",
+      "url": "https://www.google.com/maps/search/Karen%E2%80%98s%20house+near+41.4305108%2C-81.88977179999999"
+    },
+    {
+      "name": "Perfect 2-bedroom condo Near Everything",
+      "distance": "0.8 mi",
+      "url": "https://www.google.com/maps/search/Perfect%202-bedroom%20condo%20Near%20Everything+near+41.4305108%2C-81.88977179999999"
+    },
+    {
+      "name": "A peaceful of mind getaway !",
+      "distance": "0.8 mi",
+      "url": "https://www.google.com/maps/search/A%20peaceful%20of%20mind%20getaway%20!+near+41.4305108%2C-81.88977179999999"
+    },
+    {
+      "name": "Motel 6 North Olmsted, OH",
+      "distance": "0.9 mi",
+      "url": "https://www.google.com/maps/search/Motel%206%20North%20Olmsted%2C%20OH+near+41.4305108%2C-81.88977179999999"
+    },
+    {
+      "name": "Hampton Inn North Olmsted Cleveland Airport",
+      "distance": "1.0 mi",
+      "url": "https://www.google.com/maps/search/Hampton%20Inn%20North%20Olmsted%20Cleveland%20Airport+near+41.4305108%2C-81.88977179999999"
+    }
+  ],
+  "gas": [
+    {
+      "name": "Speedway",
+      "distance": "0.1 mi",
+      "url": "https://www.google.com/maps/search/Speedway+near+41.4305108%2C-81.88977179999999"
+    },
+    {
+      "name": "Marathon",
+      "distance": "0.4 mi",
+      "url": "https://www.google.com/maps/search/Marathon+near+41.4305108%2C-81.88977179999999"
+    },
+    {
+      "name": "Uptown Mart",
+      "distance": "0.4 mi",
+      "url": "https://www.google.com/maps/search/Uptown%20Mart+near+41.4305108%2C-81.88977179999999"
+    },
+    {
+      "name": "Mobil",
+      "distance": "0.4 mi",
+      "url": "https://www.google.com/maps/search/Mobil+near+41.4305108%2C-81.88977179999999"
+    },
+    {
+      "name": "bp",
+      "distance": "0.5 mi",
+      "url": "https://www.google.com/maps/search/bp+near+41.4305108%2C-81.88977179999999"
+    }
+  ]
+}

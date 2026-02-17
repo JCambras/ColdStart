@@ -1,0 +1,179 @@
+{
+  "quick_bite": [
+    {
+      "name": "Positano's Pizza",
+      "distance": "0.2 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Positano's%20Pizza&query_place_id=ChIJaYVDvJy1D4gRNjthQFU1PVo&center=41.943618,-87.865515"
+    },
+    {
+      "name": "Mr T's Gyros",
+      "distance": "0.3 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Mr%20T's%20Gyros&query_place_id=ChIJjUTtf5m1D4gR3cgq9AAY1Ec&center=41.9491162,-87.8701964"
+    },
+    {
+      "name": "Wendy's",
+      "distance": "0.7 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Wendy's&query_place_id=ChIJi102qY61D4gRyiSs7aFvlO4&center=41.9537535,-87.8601343"
+    },
+    {
+      "name": "Jimmy John's",
+      "distance": "0.7 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Jimmy%20John's&query_place_id=ChIJxyPKDJS1D4gRg8M8V-vr0ss&center=41.9556955,-87.8703568"
+    },
+    {
+      "name": "Subway",
+      "distance": "0.7 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Subway&query_place_id=ChIJgavyXYm1D4gRGV9Wn6Q3I0c&center=41.9542791,-87.8593633"
+    }
+  ],
+  "coffee": [
+    {
+      "name": "Starbucks Coffee Company",
+      "distance": "0.7 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Starbucks%20Coffee%20Company&query_place_id=ChIJYQapOpS1D4gRybYZOUpl5BQ&center=41.955190400000006,-87.8715483"
+    }
+  ],
+  "team_lunch": [
+    {
+      "name": "La Tapatia Bakery",
+      "distance": "0.7 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=La%20Tapatia%20Bakery&query_place_id=ChIJQ2D0lHa1D4gRNUGi3O_9Rx0&center=41.9360466,-87.86863699999999"
+    },
+    {
+      "name": "Azucar Rococo",
+      "distance": "0.7 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Azucar%20Rococo&query_place_id=ChIJkbbEK4y1D4gRwtSxeo3j1jg&center=41.9545677,-87.8620736"
+    }
+  ],
+  "dinner": [
+    {
+      "name": "New David's Mexican Grill",
+      "distance": "0.2 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=New%20David's%20Mexican%20Grill&query_place_id=ChIJo41rNea1D4gRKS39ttwpFkc&center=41.9433095,-87.8655249"
+    },
+    {
+      "name": "Snack & Shrack Restaurant",
+      "distance": "0.3 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Snack%20%26%20Shrack%20Restaurant&query_place_id=ChIJxU6RcKe1D4gRWaqEUzbW16E&center=41.949056899999995,-87.8702481"
+    },
+    {
+      "name": "Taste of the middle east",
+      "distance": "0.3 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Taste%20of%20the%20middle%20east&query_place_id=ChIJ07dYV3_KD4gRxZu1SIZ5Nj8&center=41.949038400000006,-87.8704411"
+    },
+    {
+      "name": "Chinese Kitchen",
+      "distance": "0.3 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Chinese%20Kitchen&query_place_id=ChIJL3ogS-21D4gRB5HU7Uxm_rY&center=41.9492745,-87.87064749999999"
+    },
+    {
+      "name": "NOOR SWEET & BAKERY مخبز وحلويات النور",
+      "distance": "0.5 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=NOOR%20SWEET%20%26%20BAKERY%20%D9%85%D8%AE%D8%A8%D8%B2%20%D9%88%D8%AD%D9%84%D9%88%D9%8A%D8%A7%D8%AA%20%D8%A7%D9%84%D9%86%D9%88%D8%B1&query_place_id=ChIJQyeWOUy1D4gRi3xtav7v718&center=41.9511709,-87.8623798"
+    },
+    {
+      "name": "Just nutrition",
+      "distance": "0.6 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Just%20nutrition&query_place_id=ChIJ-dJmMQ61D4gRQ8KF__J84Mk&center=41.936334599999995,-87.8685098"
+    }
+  ],
+  "bowling": [
+    {
+      "name": "Bowlero River Grove",
+      "distance": "1.2 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Bowlero%20River%20Grove&query_place_id=ChIJDQ9qzIbKD4gR__cB5HlnG90&center=41.935942999999995,-87.84944259999999"
+    },
+    {
+      "name": "Parkway Bank Park Entertainment District",
+      "distance": "2.3 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Parkway%20Bank%20Park%20Entertainment%20District&query_place_id=ChIJ0UJBfeK1D4gRJLOM9wGgWXs&center=41.9786104,-87.86783020000001"
+    },
+    {
+      "name": "Edison Park Bowl",
+      "distance": "4.7 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Edison%20Park%20Bowl&query_place_id=ChIJrQSSxaDJD4gRjK0JUN5QNtQ&center=42.0025195,-87.8171423",
+      "isFar": true
+    }
+  ],
+  "arcade": [],
+  "movies": [
+    {
+      "name": "AMC DINE-IN Rosemont 12",
+      "distance": "2.4 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=AMC%20DINE-IN%20Rosemont%2012&query_place_id=ChIJbZx_zgm2D4gRk95LEubZw2A&center=41.97975460000001,-87.86753080000001"
+    },
+    {
+      "name": "AMC Norridge 6",
+      "distance": "3.2 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=AMC%20Norridge%206&query_place_id=ChIJy1JvwcjLD4gRza-lVFyGYFc&center=41.962359899999996,-87.8105587",
+      "isFar": true
+    },
+    {
+      "name": "Bensenville's Center Theatre",
+      "distance": "3.8 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Bensenville's%20Center%20Theatre&query_place_id=ChIJg05q0o2zD4gRvMrW276vJps&center=41.956141699999996,-87.9407947",
+      "isFar": true
+    }
+  ],
+  "fun": [
+    {
+      "name": "Water Park Water Slide",
+      "distance": "0.6 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Water%20Park%20Water%20Slide&query_place_id=ChIJZ0K2BGy1D4gRNuPiEXspfqA&center=41.952353699999996,-87.8751678"
+    },
+    {
+      "name": "B-12 Park",
+      "distance": "0.6 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=B-12%20Park&query_place_id=ChIJL-1NYrq1D4gR_c9Ms1UrxVY&center=41.936942599999995,-87.868881"
+    },
+    {
+      "name": "Geocache",
+      "distance": "1.5 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Geocache&query_place_id=ChIJvesDTQDLD4gRcgER3tSRYl4&center=41.930433300000004,-87.8471667"
+    },
+    {
+      "name": "Hiawatha Park Water Spray Feature",
+      "distance": "2.0 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Hiawatha%20Park%20Water%20Spray%20Feature&query_place_id=ChIJTTRxZVnKD4gRpVFMxEG4i3M&center=41.9432604,-87.8287063"
+    }
+  ],
+  "hotels": [
+    {
+      "name": "Modern Schiller Park Studio with Downtown Access",
+      "distance": "0.1 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Modern%20Schiller%20Park%20Studio%20with%20Downtown%20Access&query_place_id=ChIJ0dtpcZm1D4gRCN-VEnbCKi0&center=41.9466934,-87.870575"
+    },
+    {
+      "name": "Bretford manufacturing",
+      "distance": "0.3 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Bretford%20manufacturing&query_place_id=ChIJianL3WC1D4gReG4rMM8Y5LQ&center=41.9498423,-87.86904580000001"
+    },
+    {
+      "name": "Relax Inn",
+      "distance": "0.6 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Relax%20Inn&query_place_id=ChIJkXpmeoe1D4gR5YmRLLB2jw4&center=41.946658,-87.856242"
+    }
+  ],
+  "gas": [
+    {
+      "name": "Mobil",
+      "distance": "0.7 mi",
+      "url": "https://www.google.com/maps/search/Mobil+near+41.945679899999995%2C-87.8681328"
+    },
+    {
+      "name": "Phillips 66",
+      "distance": "0.7 mi",
+      "url": "https://www.google.com/maps/search/Phillips%2066+near+41.945679899999995%2C-87.8681328"
+    },
+    {
+      "name": "O'Hare Oasis Mobil Gas Station Car Wash",
+      "distance": "0.8 mi",
+      "url": "https://www.google.com/maps/search/O'Hare%20Oasis%20Mobil%20Gas%20Station%20Car%20Wash+near+41.945679899999995%2C-87.8681328"
+    },
+    {
+      "name": "BP Gas Station",
+      "distance": "0.8 mi",
+      "url": "https://www.google.com/maps/search/BP%20Gas%20Station+near+41.945679899999995%2C-87.8681328"
+    }
+  ]
+}

@@ -1,0 +1,210 @@
+{
+  "quick_bite": [
+    {
+      "name": "Cheng Du Restaurant",
+      "distance": "0.4 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Cheng%20Du%20Restaurant&query_place_id=ChIJc4Va24UK5IkRInqOzwkNrBc&center=42.285208999999995,-71.61272699999999"
+    },
+    {
+      "name": "Chipotle Mexican Grill",
+      "distance": "0.6 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Chipotle%20Mexican%20Grill&query_place_id=ChIJn3DG_oQK5IkRHuIZPJhzjUo&center=42.2858857,-71.60855719999999"
+    },
+    {
+      "name": "Jersey Mike's Subs",
+      "distance": "0.6 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Jersey%20Mike's%20Subs&query_place_id=ChIJbRnL4K8L5IkRTXGF06MHohM&center=42.285595699999995,-71.6084117"
+    },
+    {
+      "name": "Burger King",
+      "distance": "0.7 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Burger%20King&query_place_id=ChIJw1wdL5sK5IkRqV4R9iESl_0&center=42.285550099999995,-71.60754829999999"
+    },
+    {
+      "name": "Subway",
+      "distance": "0.7 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Subway&query_place_id=ChIJrdgExY8K5IkR1KaT-97By4I&center=42.281537,-71.6089685"
+    }
+  ],
+  "coffee": [
+    {
+      "name": "Dunkin'",
+      "distance": "0.1 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Dunkin'&query_place_id=ChIJU19XTkEL5IkRogPM3Mc5uj0&center=42.2852022,-71.62023599999999"
+    },
+    {
+      "name": "Starbucks Coffee Company",
+      "distance": "0.7 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Starbucks%20Coffee%20Company&query_place_id=ChIJtxlbE4UK5IkRdw38vYW-azk&center=42.285689999999995,-71.60746999999999"
+    },
+    {
+      "name": "Dunkin'",
+      "distance": "0.7 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Dunkin'&query_place_id=ChIJ9_JdHpsK5IkRaNPPTjpbH8k&center=42.2845338,-71.6060301"
+    },
+    {
+      "name": "Honey Dew Donuts",
+      "distance": "1.8 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Honey%20Dew%20Donuts&query_place_id=ChIJv-SFF1j144kREioxt3Bbra0&center=42.2897834,-71.5850067"
+    },
+    {
+      "name": "Nicky D's Donuts",
+      "distance": "2.4 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Nicky%20D's%20Donuts&query_place_id=ChIJx--Vq_r144kREy2pyVrNEgk&center=42.3091218,-71.6558144"
+    }
+  ],
+  "team_lunch": [
+    {
+      "name": "Creators' Kitchen as Seen on TikTok",
+      "distance": "0.4 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Creators'%20Kitchen%20as%20Seen%20on%20TikTok&query_place_id=ChIJTTb5KcYL5IkRxGm0CmFV8e4&center=42.2843164,-71.613703"
+    },
+    {
+      "name": "Pardon My Cheesesteak",
+      "distance": "0.4 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Pardon%20My%20Cheesesteak&query_place_id=ChIJg0Ys8FcL5IkRXx21U9Ty6p8&center=42.2843164,-71.613703"
+    },
+    {
+      "name": "Tenka Asian Bistro",
+      "distance": "0.5 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Tenka%20Asian%20Bistro&query_place_id=ChIJWUDDHgEL5IkRcMvHojALQUw&center=42.285423699999996,-71.6116169"
+    },
+    {
+      "name": "Mandarin Westboro Inc",
+      "distance": "0.6 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Mandarin%20Westboro%20Inc&query_place_id=ChIJY-zJu5IK5IkR8zg7AeVmyYI&center=42.2845035,-71.6089959"
+    },
+    {
+      "name": "Three Gorges",
+      "distance": "0.7 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Three%20Gorges&query_place_id=ChIJ8QStrpoK5IkRavQso2kuc_I&center=42.283302899999995,-71.60766199999999"
+    },
+    {
+      "name": "Celes Confections",
+      "distance": "1.3 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Celes%20Confections&query_place_id=ChIJp6kuNwAL5IkRSp6voltvNGw&center=42.269406599999996,-71.6133569"
+    }
+  ],
+  "dinner": [
+    {
+      "name": "Bertucci's Italian Restaurant",
+      "distance": "0.4 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Bertucci's%20Italian%20Restaurant&query_place_id=ChIJpd-zfY8K5IkR163rqsSoAGo&center=42.2843605,-71.6136148"
+    },
+    {
+      "name": "Harry's Restaurant",
+      "distance": "0.5 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Harry's%20Restaurant&query_place_id=ChIJX_gMBYUK5IkRuqfA3cA6OKk&center=42.285354999999996,-71.61063"
+    },
+    {
+      "name": "Black Rose European Bakery",
+      "distance": "0.6 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Black%20Rose%20European%20Bakery&query_place_id=ChIJ4ZIuimUK5IkRhZarHmHRkPc&center=42.28356,-71.631579"
+    },
+    {
+      "name": "Papa Gino's",
+      "distance": "0.7 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Papa%20Gino's&query_place_id=ChIJ-eHAIWYK5IkR-O5jdEJD2sc&center=42.2808079,-71.631247"
+    },
+    {
+      "name": "Yummy Mummy Bakery",
+      "distance": "1.0 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Yummy%20Mummy%20Bakery&query_place_id=ChIJbWb-Io0K5IkR6W48OLh5w3k&center=42.2738012,-71.6112605"
+    },
+    {
+      "name": "Roccos Doughnut Company",
+      "distance": "1.1 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Roccos%20Doughnut%20Company&query_place_id=ChIJqzrR9hsL5IkRGXjg0fXB3WM&center=42.2726092,-71.61012149999999"
+    }
+  ],
+  "bowling": [
+    {
+      "name": "Sawyer's Bowladrome",
+      "distance": "2.6 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Sawyer's%20Bowladrome&query_place_id=ChIJoWGzbL_144kRYvb95tfr2hM&center=42.3203758,-71.6422324"
+    },
+    {
+      "name": "Apex Entertainment Marlborough",
+      "distance": "4.0 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Apex%20Entertainment%20Marlborough&query_place_id=ChIJ4etQ1sj044kReA0Y8miTegI&center=42.3384089,-71.5850275",
+      "isFar": true
+    }
+  ],
+  "arcade": [],
+  "movies": [
+    {
+      "name": "Regal Solomon Pond",
+      "distance": "4.8 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Regal%20Solomon%20Pond&query_place_id=ChIJ_fXjoYv044kRX_EIlG6kmTg&center=42.3561526,-71.6136393",
+      "isFar": true
+    }
+  ],
+  "fun": [
+    {
+      "name": "Live Action Escapes Westborough",
+      "distance": "1.2 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Live%20Action%20Escapes%20Westborough&query_place_id=ChIJQQ41tp8L5IkRGuYtRfXvoxc&center=42.2824542,-71.6436564"
+    },
+    {
+      "name": "Launch Family Entertainment Park Westboro",
+      "distance": "1.4 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Launch%20Family%20Entertainment%20Park%20Westboro&query_place_id=ChIJFxWOYlUL5IkRJMCWcaqfQ58&center=42.2804341,-71.6460056"
+    },
+    {
+      "name": "Sudbury River",
+      "distance": "3.5 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Sudbury%20River&query_place_id=ChIJdfbbREd15IkRdEfCjDFtrtE&center=42.2667323,-71.5568167",
+      "isFar": true
+    },
+    {
+      "name": "Jump Nation",
+      "distance": "3.6 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Jump%20Nation&query_place_id=ChIJdVCx7ZcJ5IkRZlCRP-ZUzZ8&center=42.277659799999995,-71.6900464",
+      "isFar": true
+    }
+  ],
+  "hotels": [
+    {
+      "name": "Westborough Inn",
+      "distance": "1.1 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Westborough%20Inn&query_place_id=ChIJ848U2vUK5IkRZXYp0CuqOmc&center=42.270683299999995,-71.61732909999999"
+    },
+    {
+      "name": "Westborough Inn - Standard Queen Room",
+      "distance": "1.1 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Westborough%20Inn%20-%20Standard%20Queen%20Room&query_place_id=ChIJ5ZpA0fUK5IkRQBmTNH_J5aQ&center=42.2705688,-71.617363"
+    },
+    {
+      "name": "Extended Stay America Suites- Boston - Westborough - East Main Street",
+      "distance": "1.2 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Extended%20Stay%20America%20Suites-%20Boston%20-%20Westborough%20-%20East%20Main%20Street&query_place_id=ChIJg3NeiaAK5IkRw6DCH9k1Dhs&center=42.287939,-71.596003"
+    },
+    {
+      "name": "Extended Stay America Suites- Boston - Westborough - Connector Road",
+      "distance": "1.6 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Extended%20Stay%20America%20Suites-%20Boston%20-%20Westborough%20-%20Connector%20Road&query_place_id=ChIJdZja8qcK5IkR51PsHn0WRFU&center=42.2870134,-71.58843159999999"
+    }
+  ],
+  "gas": [
+    {
+      "name": "Global",
+      "distance": "0.1 mi",
+      "url": "https://www.google.com/maps/search/Global+near+42.2868139%2C-71.6202653"
+    },
+    {
+      "name": "XtraMart",
+      "distance": "0.1 mi",
+      "url": "https://www.google.com/maps/search/XtraMart+near+42.2868139%2C-71.6202653"
+    },
+    {
+      "name": "Exxon",
+      "distance": "0.1 mi",
+      "url": "https://www.google.com/maps/search/Exxon+near+42.2868139%2C-71.6202653"
+    },
+    {
+      "name": "Alltown",
+      "distance": "0.6 mi",
+      "url": "https://www.google.com/maps/search/Alltown+near+42.2868139%2C-71.6202653"
+    }
+  ]
+}

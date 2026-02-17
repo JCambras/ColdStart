@@ -1,0 +1,183 @@
+{
+  "quick_bite": [
+    {
+      "name": "Subway",
+      "distance": "0.5 mi",
+      "url": "https://www.google.com/maps/search/Subway+near+40.666387%2C-99.09241999999999"
+    },
+    {
+      "name": "Jimmy John's",
+      "distance": "0.5 mi",
+      "url": "https://www.google.com/maps/search/Jimmy%20John's+near+40.666387%2C-99.09241999999999"
+    },
+    {
+      "name": "Godfather's Pizza",
+      "distance": "0.6 mi",
+      "url": "https://www.google.com/maps/search/Godfather's%20Pizza+near+40.666387%2C-99.09241999999999"
+    }
+  ],
+  "coffee": [
+    {
+      "name": "Starbucks Coffee Company",
+      "distance": "0.5 mi",
+      "url": "https://www.google.com/maps/search/Starbucks%20Coffee%20Company+near+40.666387%2C-99.09241999999999"
+    },
+    {
+      "name": "Scooter's Coffee",
+      "distance": "0.6 mi",
+      "url": "https://www.google.com/maps/search/Scooter's%20Coffee+near+40.666387%2C-99.09241999999999"
+    }
+  ],
+  "team_lunch": [
+    {
+      "name": "Casey's",
+      "distance": "0.6 mi",
+      "url": "https://www.google.com/maps/search/Casey's+near+40.666387%2C-99.09241999999999"
+    },
+    {
+      "name": "Nebraska Ale Works",
+      "distance": "0.7 mi",
+      "url": "https://www.google.com/maps/search/Nebraska%20Ale%20Works+near+40.666387%2C-99.09241999999999"
+    },
+    {
+      "name": "Red Lobster",
+      "distance": "0.7 mi",
+      "url": "https://www.google.com/maps/search/Red%20Lobster+near+40.666387%2C-99.09241999999999"
+    }
+  ],
+  "dinner": [
+    {
+      "name": "The Lodge Restaurant",
+      "distance": "0.3 mi",
+      "url": "https://www.google.com/maps/search/The%20Lodge%20Restaurant+near+40.666387%2C-99.09241999999999"
+    },
+    {
+      "name": "Cunningham's Journal On The Lake",
+      "distance": "0.4 mi",
+      "url": "https://www.google.com/maps/search/Cunningham's%20Journal%20On%20The%20Lake+near+40.666387%2C-99.09241999999999"
+    },
+    {
+      "name": "Joy's Table Pasta & Steak",
+      "distance": "0.5 mi",
+      "url": "https://www.google.com/maps/search/Joy's%20Table%20Pasta%20%26%20Steak+near+40.666387%2C-99.09241999999999"
+    },
+    {
+      "name": "Kinkaider Brewing Co & Bierhaus Maisschaler",
+      "distance": "0.5 mi",
+      "url": "https://www.google.com/maps/search/Kinkaider%20Brewing%20Co%20%26%20Bierhaus%20Maisschaler+near+40.666387%2C-99.09241999999999"
+    },
+    {
+      "name": "Fyre Modern Grill",
+      "distance": "0.5 mi",
+      "url": "https://www.google.com/maps/search/Fyre%20Modern%20Grill+near+40.666387%2C-99.09241999999999"
+    },
+    {
+      "name": "Angus Burgers & Shakes",
+      "distance": "0.5 mi",
+      "url": "https://www.google.com/maps/search/Angus%20Burgers%20%26%20Shakes+near+40.666387%2C-99.09241999999999"
+    },
+    {
+      "name": "Coppermill Steakhouse & Lounge",
+      "distance": "0.5 mi",
+      "url": "https://www.google.com/maps/search/Coppermill%20Steakhouse%20%26%20Lounge+near+40.666387%2C-99.09241999999999"
+    }
+  ],
+  "bowling": [
+    {
+      "name": "Big Apple Fun Center",
+      "distance": "0.8 mi",
+      "url": "https://www.google.com/maps/search/Big%20Apple%20Fun%20Center+near+40.666387%2C-99.09241999999999"
+    }
+  ],
+  "arcade": [],
+  "movies": [
+    {
+      "name": "The World Theatre",
+      "distance": "2.3 mi",
+      "url": "https://www.google.com/maps/search/The%20World%20Theatre+near+40.666387%2C-99.09241999999999"
+    },
+    {
+      "name": "Golden Ticket Cinemas Hilltop 4",
+      "distance": "4.0 mi",
+      "url": "https://www.google.com/maps/search/Golden%20Ticket%20Cinemas%20Hilltop%204+near+40.666387%2C-99.09241999999999",
+      "isFar": true
+    }
+  ],
+  "fun": [
+    {
+      "name": "Kearney Water Trail",
+      "distance": "1.5 mi",
+      "url": "https://www.google.com/maps/search/Kearney%20Water%20Trail+near+40.666387%2C-99.09241999999999"
+    },
+    {
+      "name": "Axe Holes",
+      "distance": "4.0 mi",
+      "url": "https://www.google.com/maps/search/Axe%20Holes+near+40.666387%2C-99.09241999999999",
+      "isFar": true
+    }
+  ],
+  "hotels": [
+    {
+      "name": "Best Western Plus Mid Nebraska Inn & Suites",
+      "distance": "0.3 mi",
+      "url": "https://www.google.com/maps/search/Best%20Western%20Plus%20Mid%20Nebraska%20Inn%20%26%20Suites+near+40.666387%2C-99.09241999999999"
+    },
+    {
+      "name": "Holiday Inn Express Kearney by IHG",
+      "distance": "0.3 mi",
+      "url": "https://www.google.com/maps/search/Holiday%20Inn%20Express%20Kearney%20by%20IHG+near+40.666387%2C-99.09241999999999"
+    },
+    {
+      "name": "Younes Hospitality",
+      "distance": "0.4 mi",
+      "url": "https://www.google.com/maps/search/Younes%20Hospitality+near+40.666387%2C-99.09241999999999"
+    },
+    {
+      "name": "La Quinta Inn & Suites by Wyndham Kearney",
+      "distance": "0.4 mi",
+      "url": "https://www.google.com/maps/search/La%20Quinta%20Inn%20%26%20Suites%20by%20Wyndham%20Kearney+near+40.666387%2C-99.09241999999999"
+    },
+    {
+      "name": "Fairfield by Marriott Inn & Suites Kearney",
+      "distance": "0.5 mi",
+      "url": "https://www.google.com/maps/search/Fairfield%20by%20Marriott%20Inn%20%26%20Suites%20Kearney+near+40.666387%2C-99.09241999999999"
+    },
+    {
+      "name": "Holiday Inn Kearney by IHG",
+      "distance": "0.5 mi",
+      "url": "https://www.google.com/maps/search/Holiday%20Inn%20Kearney%20by%20IHG+near+40.666387%2C-99.09241999999999"
+    },
+    {
+      "name": "Comfort Inn Kearney I-80",
+      "distance": "0.5 mi",
+      "url": "https://www.google.com/maps/search/Comfort%20Inn%20Kearney%20I-80+near+40.666387%2C-99.09241999999999"
+    }
+  ],
+  "gas": [
+    {
+      "name": "Conoco",
+      "distance": "0.3 mi",
+      "url": "https://www.google.com/maps/search/Conoco+near+40.666387%2C-99.09241999999999"
+    },
+    {
+      "name": "Phillips 66",
+      "distance": "0.6 mi",
+      "url": "https://www.google.com/maps/search/Phillips%2066+near+40.666387%2C-99.09241999999999"
+    },
+    {
+      "name": "Casey's",
+      "distance": "0.6 mi",
+      "url": "https://www.google.com/maps/search/Casey's+near+40.666387%2C-99.09241999999999"
+    },
+    {
+      "name": "Cenex",
+      "distance": "0.9 mi",
+      "url": "https://www.google.com/maps/search/Cenex+near+40.666387%2C-99.09241999999999"
+    },
+    {
+      "name": "Phillips 66",
+      "distance": "0.9 mi",
+      "url": "https://www.google.com/maps/search/Phillips%2066+near+40.666387%2C-99.09241999999999"
+    }
+  ]
+}

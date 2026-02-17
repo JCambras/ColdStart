@@ -1,0 +1,209 @@
+{
+  "quick_bite": [
+    {
+      "name": "Subway",
+      "distance": "0.4 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Subway&query_place_id=ChIJQXUntQp744kRJkOfhOlRoT0&center=42.2935103,-71.0478109"
+    },
+    {
+      "name": "Five Star Pizza",
+      "distance": "0.5 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Five%20Star%20Pizza&query_place_id=ChIJV55J6oJ744kRUUZaHAGV9_I&center=42.2835932,-71.05068729999999"
+    },
+    {
+      "name": "Blasi's Kitchen and Bar / The Fat Belly Deli",
+      "distance": "0.6 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Blasi's%20Kitchen%20and%20Bar%20%2F%20The%20Fat%20Belly%20Deli&query_place_id=ChIJn9X1Y4N744kRIHSV7OuHtr0&center=42.2837136,-71.05536839999999"
+    },
+    {
+      "name": "Subway",
+      "distance": "1.0 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Subway&query_place_id=ChIJVZAXx6J744kRBKVVlSzOqRw&center=42.2971923,-71.0605162"
+    },
+    {
+      "name": "Golden Chef /New Golden Kitchen",
+      "distance": "1.1 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Golden%20Chef%20%2FNew%20Golden%20Kitchen&query_place_id=ChIJp3pURbN744kRrSXD7aS6yQc&center=42.299565199999996,-71.06055429999999"
+    },
+    {
+      "name": "Dorchester Fried chicken halal",
+      "distance": "1.4 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Dorchester%20Fried%20chicken%20halal&query_place_id=ChIJox7r6oN744kR1cSsNXxpX3Y&center=42.2818049,-71.07139579999999"
+    }
+  ],
+  "coffee": [
+    {
+      "name": "Mud House",
+      "distance": "0.1 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Mud%20House&query_place_id=ChIJJ8aYz3Z744kRtSw3sCZQzJc&center=42.2865688,-71.0446418"
+    },
+    {
+      "name": "Dunkin'",
+      "distance": "0.3 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Dunkin'&query_place_id=ChIJMTRpe3d744kRSD_eOIFaEII&center=42.2838253,-71.0461339"
+    },
+    {
+      "name": "Dunkin'",
+      "distance": "0.4 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Dunkin'&query_place_id=ChIJf-ovtQp744kRa8pFJDDjD8k&center=42.2937096,-71.0481144"
+    },
+    {
+      "name": "Paris Baguette",
+      "distance": "1.1 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Paris%20Baguette&query_place_id=ChIJKZSXzOR744kRcovj6GyaZUA&center=42.2770401,-71.0298085"
+    }
+  ],
+  "team_lunch": [
+    {
+      "name": "Windy City Pizza - Dorchester, Serving Quincy & Milton",
+      "distance": "0.2 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Windy%20City%20Pizza%20-%20Dorchester%2C%20Serving%20Quincy%20%26%20Milton&query_place_id=ChIJG8xIf4R744kR7o2squOIei8&center=42.2916733,-71.0468521"
+    },
+    {
+      "name": "Papa Gino's",
+      "distance": "0.3 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Papa%20Gino's&query_place_id=ChIJDbTNQXd744kRNd2GB45fijA&center=42.2847276,-71.0454269"
+    },
+    {
+      "name": "Hot Ones™",
+      "distance": "0.5 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Hot%20Ones%E2%84%A2&query_place_id=ChIJrQv-HCJ744kRfTq0BlbI_AM&center=42.2954243,-71.0488946"
+    },
+    {
+      "name": "China Sky Restaurant",
+      "distance": "0.7 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=China%20Sky%20Restaurant&query_place_id=ChIJE8nrf4N744kRHTw9osxtiEE&center=42.2830389,-71.0557001"
+    },
+    {
+      "name": "Chau's Bakery",
+      "distance": "1.1 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Chau's%20Bakery&query_place_id=ChIJWQXhmaR744kR016OGyOH0YQ&center=42.300947799999996,-71.05978259999999"
+    },
+    {
+      "name": "Global Gourmet",
+      "distance": "1.5 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Global%20Gourmet&query_place_id=ChIJPbRROk1744kRm3e3792wWq0&center=42.301409199999995,-71.0697191"
+    }
+  ],
+  "dinner": [
+    {
+      "name": "Milkweed",
+      "distance": "0.1 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Milkweed&query_place_id=ChIJPQfHbgB744kRL0I_sZugWPI&center=42.2901458,-71.0449995"
+    },
+    {
+      "name": "McGonagle’s Pub & Restaurant",
+      "distance": "0.1 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=McGonagle%E2%80%99s%20Pub%20%26%20Restaurant&query_place_id=ChIJw9TKOwB744kRrq2jubTFhyY&center=42.2865748,-71.04514619999999"
+    },
+    {
+      "name": "Umami Tsunami Taqueria",
+      "distance": "0.2 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Umami%20Tsunami%20Taqueria&query_place_id=ChIJ1fKRgR1744kRhf_EseEu7oY&center=42.2864964,-71.0437505"
+    },
+    {
+      "name": "Venezia Restaurant Boston",
+      "distance": "0.4 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Venezia%20Restaurant%20Boston&query_place_id=ChIJXasc0XJ744kRc1NDEPZsI00&center=42.2928364,-71.0400378"
+    },
+    {
+      "name": "Puritan Pizza",
+      "distance": "0.5 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Puritan%20Pizza&query_place_id=ChIJeykUZwp744kRmBnP5pOOqWQ&center=42.2956022,-71.0489686"
+    },
+    {
+      "name": "The Adams Pub",
+      "distance": "0.5 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=The%20Adams%20Pub&query_place_id=ChIJv5R3HXB744kR_QHrL5FBCNA&center=42.28223,-71.0386927"
+    }
+  ],
+  "bowling": [
+    {
+      "name": "Boston Bowl",
+      "distance": "0.4 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Boston%20Bowl&query_place_id=ChIJrdZPJAt744kRBmpg1AaD1uY&center=42.2941667,-71.04611109999999"
+    },
+    {
+      "name": "South Boston Candlepin",
+      "distance": "3.2 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=South%20Boston%20Candlepin&query_place_id=ChIJZVYyoI5644kRnr6Tlu1Ob6M&center=42.3353464,-71.042349",
+      "isFar": true
+    },
+    {
+      "name": "Olindy's Quincy Avenue Lanes",
+      "distance": "4.1 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Olindy's%20Quincy%20Avenue%20Lanes&query_place_id=ChIJ1U_z3jZj44kRLUqKXye5mJo&center=42.2424825,-70.9935759",
+      "isFar": true
+    }
+  ],
+  "arcade": [],
+  "movies": [
+    {
+      "name": "AMC South Bay Center 12",
+      "distance": "2.7 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=AMC%20South%20Bay%20Center%2012&query_place_id=ChIJm86ZREV644kRI3FtJbbArJ0&center=42.3254576,-71.06210860000002"
+    },
+    {
+      "name": "Boston Arts Sport Entertainment",
+      "distance": "2.9 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Boston%20Arts%20Sport%20Entertainment&query_place_id=ChIJv6enPXV744kR8wNfei0XST4&center=42.325332100000004,-71.070437"
+    },
+    {
+      "name": "Wenham Street Cinema",
+      "distance": "3.6 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Wenham%20Street%20Cinema&query_place_id=ChIJ0T4kjGJ544kRgaTIFbCfZ5M&center=42.2961077,-71.11484089999999",
+      "isFar": true
+    }
+  ],
+  "fun": [
+    {
+      "name": "Neponset Landing Pier",
+      "distance": "0.5 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Neponset%20Landing%20Pier&query_place_id=ChIJA01m129744kR0rkYotU7INE&center=42.2840519,-71.03762449999999"
+    },
+    {
+      "name": "Geneva Cliffs",
+      "distance": "1.8 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Geneva%20Cliffs&query_place_id=ChIJryGW_Gp744kREbvDJuOw9p0&center=42.3041725,-71.07233459999999"
+    },
+    {
+      "name": "Myles Standish Cairn",
+      "distance": "2.0 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Myles%20Standish%20Cairn&query_place_id=ChIJn-uEafh744kRB6zFAAx_l4c&center=42.3043447,-71.0115994"
+    },
+    {
+      "name": "Harbor Point on the Bay Pavilions",
+      "distance": "2.2 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Harbor%20Point%20on%20the%20Bay%20Pavilions&query_place_id=ChIJS3pEDKl744kRs1yGwdbqm9o&center=42.3201136,-71.0395741"
+    }
+  ],
+  "hotels": [
+    {
+      "name": "Lorenzo Inn",
+      "distance": "0.1 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Lorenzo%20Inn&query_place_id=ChIJxXj5J3R744kR-bY6OWRU4X4&center=42.2884484,-71.0460281"
+    }
+  ],
+  "gas": [
+    {
+      "name": "John's Gas and Auto Repair",
+      "distance": "0.2 mi",
+      "url": "https://www.google.com/maps/search/John's%20Gas%20and%20Auto%20Repair+near+42.288585%2C-71.0450046"
+    },
+    {
+      "name": "Express Gas",
+      "distance": "0.2 mi",
+      "url": "https://www.google.com/maps/search/Express%20Gas+near+42.288585%2C-71.0450046"
+    },
+    {
+      "name": "Speedway",
+      "distance": "0.4 mi",
+      "url": "https://www.google.com/maps/search/Speedway+near+42.288585%2C-71.0450046"
+    },
+    {
+      "name": "Morrissey Blvd CITGO",
+      "distance": "0.5 mi",
+      "url": "https://www.google.com/maps/search/Morrissey%20Blvd%20CITGO+near+42.288585%2C-71.0450046"
+    }
+  ]
+}

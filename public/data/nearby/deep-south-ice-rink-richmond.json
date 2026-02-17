@@ -1,0 +1,203 @@
+{
+  "quick_bite": [
+    {
+      "name": "Subway",
+      "distance": "0.3 mi",
+      "url": "https://www.google.com/maps/search/Subway+near+29.680876599999994%2C-95.71385049999999"
+    }
+  ],
+  "coffee": [
+    {
+      "name": "Early Bird Cafe",
+      "distance": "0.1 mi",
+      "url": "https://www.google.com/maps/search/Early%20Bird%20Cafe+near+29.680876599999994%2C-95.71385049999999"
+    },
+    {
+      "name": "WAH COFFEE",
+      "distance": "0.2 mi",
+      "url": "https://www.google.com/maps/search/WAH%20COFFEE+near+29.680876599999994%2C-95.71385049999999"
+    },
+    {
+      "name": "Beans & Brews Coffee House",
+      "distance": "0.2 mi",
+      "url": "https://www.google.com/maps/search/Beans%20%26%20Brews%20Coffee%20House+near+29.680876599999994%2C-95.71385049999999"
+    }
+  ],
+  "team_lunch": [
+    {
+      "name": "Saigon Basil",
+      "distance": "0.2 mi",
+      "url": "https://www.google.com/maps/search/Saigon%20Basil+near+29.680876599999994%2C-95.71385049999999"
+    },
+    {
+      "name": "Tacos Puro Michoacán",
+      "distance": "0.9 mi",
+      "url": "https://www.google.com/maps/search/Tacos%20Puro%20Michoac%C3%A1n+near+29.680876599999994%2C-95.71385049999999"
+    },
+    {
+      "name": "Farmer's Fridge",
+      "distance": "0.9 mi",
+      "url": "https://www.google.com/maps/search/Farmer's%20Fridge+near+29.680876599999994%2C-95.71385049999999"
+    },
+    {
+      "name": "Southwest Farmers Market",
+      "distance": "1.1 mi",
+      "url": "https://www.google.com/maps/search/Southwest%20Farmers%20Market+near+29.680876599999994%2C-95.71385049999999"
+    },
+    {
+      "name": "Dulces y Salados",
+      "distance": "1.2 mi",
+      "url": "https://www.google.com/maps/search/Dulces%20y%20Salados+near+29.680876599999994%2C-95.71385049999999"
+    }
+  ],
+  "dinner": [
+    {
+      "name": "Westco Donuts Richmond",
+      "distance": "0.2 mi",
+      "url": "https://www.google.com/maps/search/Westco%20Donuts%20Richmond+near+29.680876599999994%2C-95.71385049999999"
+    },
+    {
+      "name": "Shamsi's Simply Greek",
+      "distance": "0.3 mi",
+      "url": "https://www.google.com/maps/search/Shamsi's%20Simply%20Greek+near+29.680876599999994%2C-95.71385049999999"
+    },
+    {
+      "name": "chiglobal bakery",
+      "distance": "0.4 mi",
+      "url": "https://www.google.com/maps/search/chiglobal%20bakery+near+29.680876599999994%2C-95.71385049999999"
+    },
+    {
+      "name": "Harlem Road Texas BBQ",
+      "distance": "0.7 mi",
+      "url": "https://www.google.com/maps/search/Harlem%20Road%20Texas%20BBQ+near+29.680876599999994%2C-95.71385049999999"
+    },
+    {
+      "name": "Sweet Cravings by Victoria",
+      "distance": "0.8 mi",
+      "url": "https://www.google.com/maps/search/Sweet%20Cravings%20by%20Victoria+near+29.680876599999994%2C-95.71385049999999"
+    },
+    {
+      "name": "Nono's Homemade Sweets #areyouonthesweetlist",
+      "distance": "0.9 mi",
+      "url": "https://www.google.com/maps/search/Nono's%20Homemade%20Sweets%20%23areyouonthesweetlist+near+29.680876599999994%2C-95.71385049999999"
+    },
+    {
+      "name": "Chef Tayo's FoodPrep Co.",
+      "distance": "1.1 mi",
+      "url": "https://www.google.com/maps/search/Chef%20Tayo's%20FoodPrep%20Co.+near+29.680876599999994%2C-95.71385049999999"
+    }
+  ],
+  "bowling": [
+    {
+      "name": "Funplex",
+      "distance": "5.4 mi",
+      "url": "https://www.google.com/maps/search/Funplex+near+29.680876599999994%2C-95.71385049999999",
+      "isFar": true
+    }
+  ],
+  "arcade": [],
+  "movies": [
+    {
+      "name": "Star Cinema Grill",
+      "distance": "3.3 mi",
+      "url": "https://www.google.com/maps/search/Star%20Cinema%20Grill+near+29.680876599999994%2C-95.71385049999999",
+      "isFar": true
+    }
+  ],
+  "fun": [
+    {
+      "name": "Let Me Out Escape Rooms - Sugar Land",
+      "distance": "3.1 mi",
+      "url": "https://www.google.com/maps/search/Let%20Me%20Out%20Escape%20Rooms%20-%20Sugar%20Land+near+29.680876599999994%2C-95.71385049999999",
+      "isFar": true
+    },
+    {
+      "name": "Hooray Play Center",
+      "distance": "4.4 mi",
+      "url": "https://www.google.com/maps/search/Hooray%20Play%20Center+near+29.680876599999994%2C-95.71385049999999",
+      "isFar": true
+    },
+    {
+      "name": "Katy Arcade",
+      "distance": "5.1 mi",
+      "url": "https://www.google.com/maps/search/Katy%20Arcade+near+29.680876599999994%2C-95.71385049999999",
+      "isFar": true
+    },
+    {
+      "name": "Katy Ferris Wheel - Open Limited Hours Fri, Sat & Sun",
+      "distance": "5.2 mi",
+      "url": "https://www.google.com/maps/search/Katy%20Ferris%20Wheel%20-%20Open%20Limited%20Hours%20Fri%2C%20Sat%20%26%20Sun+near+29.680876599999994%2C-95.71385049999999",
+      "isFar": true
+    },
+    {
+      "name": "Inflatable Katy - Katy Party Place",
+      "distance": "5.2 mi",
+      "url": "https://www.google.com/maps/search/Inflatable%20Katy%20-%20Katy%20Party%20Place+near+29.680876599999994%2C-95.71385049999999",
+      "isFar": true
+    }
+  ],
+  "hotels": [
+    {
+      "name": "Feel At Home in Richmond",
+      "distance": "0.3 mi",
+      "url": "https://www.google.com/maps/search/Feel%20At%20Home%20in%20Richmond+near+29.680876599999994%2C-95.71385049999999"
+    },
+    {
+      "name": "Feel At Home in Richmond",
+      "distance": "0.3 mi",
+      "url": "https://www.google.com/maps/search/Feel%20At%20Home%20in%20Richmond+near+29.680876599999994%2C-95.71385049999999"
+    },
+    {
+      "name": "Cozy fully fitted 3 Bedroom House.",
+      "distance": "0.6 mi",
+      "url": "https://www.google.com/maps/search/Cozy%20fully%20fitted%203%20Bedroom%20House.+near+29.680876599999994%2C-95.71385049999999"
+    },
+    {
+      "name": "Modern Comforts with a Cozy Touch: Stay in Our Contemporary Home Away from Home",
+      "distance": "0.6 mi",
+      "url": "https://www.google.com/maps/search/Modern%20Comforts%20with%20a%20Cozy%20Touch%3A%20Stay%20in%20Our%20Contemporary%20Home%20Away%20from%20Home+near+29.680876599999994%2C-95.71385049999999"
+    },
+    {
+      "name": "Family-Friendly Home about 25 Mi to Dtwn Houston! - Holiday Home",
+      "distance": "0.8 mi",
+      "url": "https://www.google.com/maps/search/Family-Friendly%20Home%20about%2025%20Mi%20to%20Dtwn%20Houston!%20-%20Holiday%20Home+near+29.680876599999994%2C-95.71385049999999"
+    },
+    {
+      "name": "3-bedroom house in beautiful Richmond with AC, WiFi",
+      "distance": "0.8 mi",
+      "url": "https://www.google.com/maps/search/3-bedroom%20house%20in%20beautiful%20Richmond%20with%20AC%2C%20WiFi+near+29.680876599999994%2C-95.71385049999999"
+    },
+    {
+      "name": "Elegance made for you",
+      "distance": "0.8 mi",
+      "url": "https://www.google.com/maps/search/Elegance%20made%20for%20you+near+29.680876599999994%2C-95.71385049999999"
+    }
+  ],
+  "gas": [
+    {
+      "name": "Tex Stop Valero",
+      "distance": "0.2 mi",
+      "url": "https://www.google.com/maps/search/Tex%20Stop%20Valero+near+29.680876599999994%2C-95.71385049999999"
+    },
+    {
+      "name": "Valero",
+      "distance": "0.2 mi",
+      "url": "https://www.google.com/maps/search/Valero+near+29.680876599999994%2C-95.71385049999999"
+    },
+    {
+      "name": "Mobil",
+      "distance": "1.3 mi",
+      "url": "https://www.google.com/maps/search/Mobil+near+29.680876599999994%2C-95.71385049999999"
+    },
+    {
+      "name": "Circle K | Gas Station",
+      "distance": "1.5 mi",
+      "url": "https://www.google.com/maps/search/Circle%20K%20%7C%20Gas%20Station+near+29.680876599999994%2C-95.71385049999999"
+    },
+    {
+      "name": "Valero",
+      "distance": "1.5 mi",
+      "url": "https://www.google.com/maps/search/Valero+near+29.680876599999994%2C-95.71385049999999"
+    }
+  ]
+}

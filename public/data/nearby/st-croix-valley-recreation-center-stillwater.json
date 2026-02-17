@@ -1,0 +1,211 @@
+{
+  "quick_bite": [
+    {
+      "name": "Subway",
+      "distance": "0.1 mi",
+      "url": "https://www.google.com/maps/search/Subway+near+45.0425786%2C-92.83650879999999"
+    },
+    {
+      "name": "Culver’s",
+      "distance": "0.2 mi",
+      "url": "https://www.google.com/maps/search/Culver%E2%80%99s+near+45.0425786%2C-92.83650879999999"
+    },
+    {
+      "name": "Papa Murphy's | Take 'N' Bake Pizza",
+      "distance": "0.3 mi",
+      "url": "https://www.google.com/maps/search/Papa%20Murphy's%20%7C%20Take%20'N'%20Bake%20Pizza+near+45.0425786%2C-92.83650879999999"
+    },
+    {
+      "name": "Jersey Mike's Subs",
+      "distance": "0.3 mi",
+      "url": "https://www.google.com/maps/search/Jersey%20Mike's%20Subs+near+45.0425786%2C-92.83650879999999"
+    },
+    {
+      "name": "Pancheros Mexican Grill - Stillwater",
+      "distance": "0.4 mi",
+      "url": "https://www.google.com/maps/search/Pancheros%20Mexican%20Grill%20-%20Stillwater+near+45.0425786%2C-92.83650879999999"
+    },
+    {
+      "name": "Buffalo Wild Wings GO",
+      "distance": "0.4 mi",
+      "url": "https://www.google.com/maps/search/Buffalo%20Wild%20Wings%20GO+near+45.0425786%2C-92.83650879999999"
+    },
+    {
+      "name": "Chipotle Mexican Grill",
+      "distance": "0.5 mi",
+      "url": "https://www.google.com/maps/search/Chipotle%20Mexican%20Grill+near+45.0425786%2C-92.83650879999999"
+    }
+  ],
+  "coffee": [
+    {
+      "name": "Lift Bridge Nutrition",
+      "distance": "0.1 mi",
+      "url": "https://www.google.com/maps/search/Lift%20Bridge%20Nutrition+near+45.0425786%2C-92.83650879999999"
+    },
+    {
+      "name": "Stilly Nutrition",
+      "distance": "0.1 mi",
+      "url": "https://www.google.com/maps/search/Stilly%20Nutrition+near+45.0425786%2C-92.83650879999999"
+    },
+    {
+      "name": "McDonald's",
+      "distance": "0.1 mi",
+      "url": "https://www.google.com/maps/search/McDonald's+near+45.0425786%2C-92.83650879999999"
+    },
+    {
+      "name": "Dunn Brothers Coffee",
+      "distance": "0.3 mi",
+      "url": "https://www.google.com/maps/search/Dunn%20Brothers%20Coffee+near+45.0425786%2C-92.83650879999999"
+    },
+    {
+      "name": "Caribou Coffee",
+      "distance": "0.4 mi",
+      "url": "https://www.google.com/maps/search/Caribou%20Coffee+near+45.0425786%2C-92.83650879999999"
+    },
+    {
+      "name": "Starbucks Coffee Company",
+      "distance": "0.4 mi",
+      "url": "https://www.google.com/maps/search/Starbucks%20Coffee%20Company+near+45.0425786%2C-92.83650879999999"
+    },
+    {
+      "name": "Bruegger's Bagels",
+      "distance": "0.4 mi",
+      "url": "https://www.google.com/maps/search/Bruegger's%20Bagels+near+45.0425786%2C-92.83650879999999"
+    }
+  ],
+  "team_lunch": [
+    {
+      "name": "Perkins American Food Co.",
+      "distance": "0.4 mi",
+      "url": "https://www.google.com/maps/search/Perkins%20American%20Food%20Co.+near+45.0425786%2C-92.83650879999999"
+    }
+  ],
+  "dinner": [
+    {
+      "name": "Mi Pueblo Stillwater",
+      "distance": "0.1 mi",
+      "url": "https://www.google.com/maps/search/Mi%20Pueblo%20Stillwater+near+45.0425786%2C-92.83650879999999"
+    },
+    {
+      "name": "Great Harvest Bread Co. Stillwater",
+      "distance": "0.2 mi",
+      "url": "https://www.google.com/maps/search/Great%20Harvest%20Bread%20Co.%20Stillwater+near+45.0425786%2C-92.83650879999999"
+    }
+  ],
+  "bowling": [
+    {
+      "name": "Stillwater Bowl & Lounge",
+      "distance": "1.3 mi",
+      "url": "https://www.google.com/maps/search/Stillwater%20Bowl%20%26%20Lounge+near+45.0425786%2C-92.83650879999999"
+    },
+    {
+      "name": "PINZ",
+      "distance": "6.5 mi",
+      "url": "https://www.google.com/maps/search/PINZ+near+45.0425786%2C-92.83650879999999",
+      "isFar": true
+    },
+    {
+      "name": "Hudson Bowling Center Inc",
+      "distance": "7.4 mi",
+      "url": "https://www.google.com/maps/search/Hudson%20Bowling%20Center%20Inc+near+45.0425786%2C-92.83650879999999",
+      "isFar": true
+    }
+  ],
+  "arcade": [],
+  "movies": [
+    {
+      "name": "Summer Tuesdays - Stillwater",
+      "distance": "1.8 mi",
+      "url": "https://www.google.com/maps/search/Summer%20Tuesdays%20-%20Stillwater+near+45.0425786%2C-92.83650879999999"
+    },
+    {
+      "name": "Marcus Oakdale Cinema",
+      "distance": "6.7 mi",
+      "url": "https://www.google.com/maps/search/Marcus%20Oakdale%20Cinema+near+45.0425786%2C-92.83650879999999",
+      "isFar": true
+    },
+    {
+      "name": "Alamo Drafthouse Cinema Woodbury",
+      "distance": "7.9 mi",
+      "url": "https://www.google.com/maps/search/Alamo%20Drafthouse%20Cinema%20Woodbury+near+45.0425786%2C-92.83650879999999",
+      "isFar": true
+    }
+  ],
+  "fun": [
+    {
+      "name": "Stillwater Escape Co.",
+      "distance": "1.7 mi",
+      "url": "https://www.google.com/maps/search/Stillwater%20Escape%20Co.+near+45.0425786%2C-92.83650879999999"
+    },
+    {
+      "name": "Green Acres Recreation - Snow Tubing",
+      "distance": "4.6 mi",
+      "url": "https://www.google.com/maps/search/Green%20Acres%20Recreation%20-%20Snow%20Tubing+near+45.0425786%2C-92.83650879999999",
+      "isFar": true
+    }
+  ],
+  "hotels": [
+    {
+      "name": "Country Inn & Suites by Radisson, Stillwater, MN",
+      "distance": "0.3 mi",
+      "url": "https://www.google.com/maps/search/Country%20Inn%20%26%20Suites%20by%20Radisson%2C%20Stillwater%2C%20MN+near+45.0425786%2C-92.83650879999999"
+    },
+    {
+      "name": "Quality Inn & Suites Stillwater",
+      "distance": "0.4 mi",
+      "url": "https://www.google.com/maps/search/Quality%20Inn%20%26%20Suites%20Stillwater+near+45.0425786%2C-92.83650879999999"
+    },
+    {
+      "name": "Asteria Inn & Suites",
+      "distance": "0.4 mi",
+      "url": "https://www.google.com/maps/search/Asteria%20Inn%20%26%20Suites+near+45.0425786%2C-92.83650879999999"
+    },
+    {
+      "name": "Coratel Inn and Suites by Jasper Stillwater",
+      "distance": "0.4 mi",
+      "url": "https://www.google.com/maps/search/Coratel%20Inn%20and%20Suites%20by%20Jasper%20Stillwater+near+45.0425786%2C-92.83650879999999"
+    },
+    {
+      "name": "The Pine House: a cozy home for you yours!",
+      "distance": "0.5 mi",
+      "url": "https://www.google.com/maps/search/The%20Pine%20House%3A%20a%20cozy%20home%20for%20you%20yours!+near+45.0425786%2C-92.83650879999999"
+    },
+    {
+      "name": "The Pine House: a cozy home for you & yours!",
+      "distance": "0.5 mi",
+      "url": "https://www.google.com/maps/search/The%20Pine%20House%3A%20a%20cozy%20home%20for%20you%20%26%20yours!+near+45.0425786%2C-92.83650879999999"
+    },
+    {
+      "name": "Stillwater Inn & Suites",
+      "distance": "0.5 mi",
+      "url": "https://www.google.com/maps/search/Stillwater%20Inn%20%26%20Suites+near+45.0425786%2C-92.83650879999999"
+    }
+  ],
+  "gas": [
+    {
+      "name": "Circle K",
+      "distance": "0.1 mi",
+      "url": "https://www.google.com/maps/search/Circle%20K+near+45.0425786%2C-92.83650879999999"
+    },
+    {
+      "name": "Holiday Gas Station",
+      "distance": "0.1 mi",
+      "url": "https://www.google.com/maps/search/Holiday%20Gas%20Station+near+45.0425786%2C-92.83650879999999"
+    },
+    {
+      "name": "Holiday Gas Station",
+      "distance": "0.3 mi",
+      "url": "https://www.google.com/maps/search/Holiday%20Gas%20Station+near+45.0425786%2C-92.83650879999999"
+    },
+    {
+      "name": "Circle K",
+      "distance": "0.3 mi",
+      "url": "https://www.google.com/maps/search/Circle%20K+near+45.0425786%2C-92.83650879999999"
+    },
+    {
+      "name": "bp",
+      "distance": "0.7 mi",
+      "url": "https://www.google.com/maps/search/bp+near+45.0425786%2C-92.83650879999999"
+    }
+  ]
+}

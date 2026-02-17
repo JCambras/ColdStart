@@ -1,0 +1,183 @@
+{
+  "quick_bite": [
+    {
+      "name": "Five Guys",
+      "distance": "1.7 mi",
+      "url": "https://www.google.com/maps/search/Five%20Guys+near+40.0126707%2C-105.1346294"
+    },
+    {
+      "name": "Chick-fil-A",
+      "distance": "1.7 mi",
+      "url": "https://www.google.com/maps/search/Chick-fil-A+near+40.0126707%2C-105.1346294"
+    },
+    {
+      "name": "Shopey's Pizza Louisville",
+      "distance": "1.7 mi",
+      "url": "https://www.google.com/maps/search/Shopey's%20Pizza%20Louisville+near+40.0126707%2C-105.1346294"
+    },
+    {
+      "name": "Taco Bell",
+      "distance": "1.7 mi",
+      "url": "https://www.google.com/maps/search/Taco%20Bell+near+40.0126707%2C-105.1346294"
+    },
+    {
+      "name": "Chuck E. Cheese",
+      "distance": "4.2 mi",
+      "url": "https://www.google.com/maps/search/Chuck%20E.%20Cheese+near+40.0126707%2C-105.1346294",
+      "isFar": true
+    }
+  ],
+  "coffee": [
+    {
+      "name": "Brewing Market Coffee",
+      "distance": "0.1 mi",
+      "url": "https://www.google.com/maps/search/Brewing%20Market%20Coffee+near+40.0126707%2C-105.1346294"
+    },
+    {
+      "name": "Kismet Cafe",
+      "distance": "0.3 mi",
+      "url": "https://www.google.com/maps/search/Kismet%20Cafe+near+40.0126707%2C-105.1346294"
+    },
+    {
+      "name": "Morning Glory Cafe",
+      "distance": "0.3 mi",
+      "url": "https://www.google.com/maps/search/Morning%20Glory%20Cafe+near+40.0126707%2C-105.1346294"
+    },
+    {
+      "name": "Starbucks Coffee Company",
+      "distance": "1.7 mi",
+      "url": "https://www.google.com/maps/search/Starbucks%20Coffee%20Company+near+40.0126707%2C-105.1346294"
+    }
+  ],
+  "team_lunch": [],
+  "dinner": [
+    {
+      "name": "Gundruk- Taste of Nepal and India",
+      "distance": "0.1 mi",
+      "url": "https://www.google.com/maps/search/Gundruk-%20Taste%20of%20Nepal%20and%20India+near+40.0126707%2C-105.1346294"
+    },
+    {
+      "name": "HOKKAIDO SUSHI",
+      "distance": "0.1 mi",
+      "url": "https://www.google.com/maps/search/HOKKAIDO%20SUSHI+near+40.0126707%2C-105.1346294"
+    },
+    {
+      "name": "Jeannot's Patisserie & Bistro",
+      "distance": "0.1 mi",
+      "url": "https://www.google.com/maps/search/Jeannot's%20Patisserie%20%26%20Bistro+near+40.0126707%2C-105.1346294"
+    },
+    {
+      "name": "Westbound & Down Brewing Company",
+      "distance": "0.2 mi",
+      "url": "https://www.google.com/maps/search/Westbound%20%26%20Down%20Brewing%20Company+near+40.0126707%2C-105.1346294"
+    },
+    {
+      "name": "Bangkok Thai Food",
+      "distance": "0.3 mi",
+      "url": "https://www.google.com/maps/search/Bangkok%20Thai%20Food+near+40.0126707%2C-105.1346294"
+    },
+    {
+      "name": "Bada Bing Pizzeria",
+      "distance": "0.3 mi",
+      "url": "https://www.google.com/maps/search/Bada%20Bing%20Pizzeria+near+40.0126707%2C-105.1346294"
+    },
+    {
+      "name": "Valles Mexican Restaurant and Bar",
+      "distance": "0.4 mi",
+      "url": "https://www.google.com/maps/search/Valles%20Mexican%20Restaurant%20and%20Bar+near+40.0126707%2C-105.1346294"
+    }
+  ],
+  "bowling": [
+    {
+      "name": "Coal Creek Bowling Center",
+      "distance": "2.7 mi",
+      "url": "https://www.google.com/maps/search/Coal%20Creek%20Bowling%20Center+near+40.0126707%2C-105.1346294"
+    }
+  ],
+  "arcade": [],
+  "movies": [],
+  "fun": [
+    {
+      "name": "Bounce Empire",
+      "distance": "3.1 mi",
+      "url": "https://www.google.com/maps/search/Bounce%20Empire+near+40.0126707%2C-105.1346294",
+      "isFar": true
+    },
+    {
+      "name": "The Great Outdoors Waterpark",
+      "distance": "3.2 mi",
+      "url": "https://www.google.com/maps/search/The%20Great%20Outdoors%20Waterpark+near+40.0126707%2C-105.1346294",
+      "isFar": true
+    },
+    {
+      "name": "Rabbit Hole Recreation Services - Escape Rooms",
+      "distance": "4.0 mi",
+      "url": "https://www.google.com/maps/search/Rabbit%20Hole%20Recreation%20Services%20-%20Escape%20Rooms+near+40.0126707%2C-105.1346294",
+      "isFar": true
+    }
+  ],
+  "hotels": [
+    {
+      "name": "Luxury Retreat w / Hot Tub, Home Theater more. Kid Pet Friendly!",
+      "distance": "0.2 mi",
+      "url": "https://www.google.com/maps/search/Luxury%20Retreat%20w%20%2F%20Hot%20Tub%2C%20Home%20Theater%20more.%20Kid%20Pet%20Friendly!+near+40.0126707%2C-105.1346294"
+    },
+    {
+      "name": "3-level Home On Golf Course 10 Min. From Boulder/25 Min. From Denver",
+      "distance": "0.3 mi",
+      "url": "https://www.google.com/maps/search/3-level%20Home%20On%20Golf%20Course%2010%20Min.%20From%20Boulder%2F25%20Min.%20From%20Denver+near+40.0126707%2C-105.1346294"
+    },
+    {
+      "name": "3-level Home On Golf Course 10 Min. From Boulder /25 Min. From Denver",
+      "distance": "0.3 mi",
+      "url": "https://www.google.com/maps/search/3-level%20Home%20On%20Golf%20Course%2010%20Min.%20From%20Boulder%20%2F25%20Min.%20From%20Denver+near+40.0126707%2C-105.1346294"
+    },
+    {
+      "name": "Beautiful home 10 min E of Boulder",
+      "distance": "0.3 mi",
+      "url": "https://www.google.com/maps/search/Beautiful%20home%2010%20min%20E%20of%20Boulder+near+40.0126707%2C-105.1346294"
+    },
+    {
+      "name": "Luxury Retreat w/ Hot Tub, Home Theater & more. Kid & Pet Friendly!",
+      "distance": "0.3 mi",
+      "url": "https://www.google.com/maps/search/Luxury%20Retreat%20w%2F%20Hot%20Tub%2C%20Home%20Theater%20%26%20more.%20Kid%20%26%20Pet%20Friendly!+near+40.0126707%2C-105.1346294"
+    },
+    {
+      "name": "Luxury Retreat w/ Hot Tub, Home Theater & more. Kid & Pet Friendly!",
+      "distance": "0.3 mi",
+      "url": "https://www.google.com/maps/search/Luxury%20Retreat%20w%2F%20Hot%20Tub%2C%20Home%20Theater%20%26%20more.%20Kid%20%26%20Pet%20Friendly!+near+40.0126707%2C-105.1346294"
+    },
+    {
+      "name": "Spacious 4BDR Retreat in Lafayette",
+      "distance": "0.5 mi",
+      "url": "https://www.google.com/maps/search/Spacious%204BDR%20Retreat%20in%20Lafayette+near+40.0126707%2C-105.1346294"
+    }
+  ],
+  "gas": [
+    {
+      "name": "Conoco",
+      "distance": "0.3 mi",
+      "url": "https://www.google.com/maps/search/Conoco+near+40.0126707%2C-105.1346294"
+    },
+    {
+      "name": "Murphy USA",
+      "distance": "1.7 mi",
+      "url": "https://www.google.com/maps/search/Murphy%20USA+near+40.0126707%2C-105.1346294"
+    },
+    {
+      "name": "King Soopers Fuel Center",
+      "distance": "1.7 mi",
+      "url": "https://www.google.com/maps/search/King%20Soopers%20Fuel%20Center+near+40.0126707%2C-105.1346294"
+    },
+    {
+      "name": "Kroger Fuel Center",
+      "distance": "1.7 mi",
+      "url": "https://www.google.com/maps/search/Kroger%20Fuel%20Center+near+40.0126707%2C-105.1346294"
+    },
+    {
+      "name": "Conoco",
+      "distance": "1.7 mi",
+      "url": "https://www.google.com/maps/search/Conoco+near+40.0126707%2C-105.1346294"
+    }
+  ]
+}

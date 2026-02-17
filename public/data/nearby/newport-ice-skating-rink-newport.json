@@ -1,0 +1,181 @@
+{
+  "quick_bite": [
+    {
+      "name": "Wendy's",
+      "distance": "0.2 mi",
+      "url": "https://www.google.com/maps/search/Wendy's+near+44.9387807%2C-72.20203049999999"
+    },
+    {
+      "name": "Subway",
+      "distance": "0.4 mi",
+      "url": "https://www.google.com/maps/search/Subway+near+44.9387807%2C-72.20203049999999"
+    }
+  ],
+  "coffee": [
+    {
+      "name": "Sol Cafe",
+      "distance": "0.4 mi",
+      "url": "https://www.google.com/maps/search/Sol%20Cafe+near+44.9387807%2C-72.20203049999999"
+    },
+    {
+      "name": "The Brew Bus",
+      "distance": "1.6 mi",
+      "url": "https://www.google.com/maps/search/The%20Brew%20Bus+near+44.9387807%2C-72.20203049999999"
+    },
+    {
+      "name": "Dunkin'",
+      "distance": "2.2 mi",
+      "url": "https://www.google.com/maps/search/Dunkin'+near+44.9387807%2C-72.20203049999999"
+    },
+    {
+      "name": "McDonald's",
+      "distance": "2.3 mi",
+      "url": "https://www.google.com/maps/search/McDonald's+near+44.9387807%2C-72.20203049999999"
+    }
+  ],
+  "team_lunch": [
+    {
+      "name": "Wok & Roll",
+      "distance": "0.4 mi",
+      "url": "https://www.google.com/maps/search/Wok%20%26%20Roll+near+44.9387807%2C-72.20203049999999"
+    },
+    {
+      "name": "Portside",
+      "distance": "0.5 mi",
+      "url": "https://www.google.com/maps/search/Portside+near+44.9387807%2C-72.20203049999999"
+    },
+    {
+      "name": "Amato's",
+      "distance": "0.5 mi",
+      "url": "https://www.google.com/maps/search/Amato's+near+44.9387807%2C-72.20203049999999"
+    },
+    {
+      "name": "Walmart Bakery",
+      "distance": "1.7 mi",
+      "url": "https://www.google.com/maps/search/Walmart%20Bakery+near+44.9387807%2C-72.20203049999999"
+    },
+    {
+      "name": "Market Center Cafe",
+      "distance": "2.3 mi",
+      "url": "https://www.google.com/maps/search/Market%20Center%20Cafe+near+44.9387807%2C-72.20203049999999"
+    }
+  ],
+  "dinner": [
+    {
+      "name": "Hoagie's Pizza & Pasta",
+      "distance": "0.2 mi",
+      "url": "https://www.google.com/maps/search/Hoagie's%20Pizza%20%26%20Pasta+near+44.9387807%2C-72.20203049999999"
+    },
+    {
+      "name": "The East Side Restaurant & Pub",
+      "distance": "0.3 mi",
+      "url": "https://www.google.com/maps/search/The%20East%20Side%20Restaurant%20%26%20Pub+near+44.9387807%2C-72.20203049999999"
+    },
+    {
+      "name": "Brown Cow Restaurant",
+      "distance": "0.4 mi",
+      "url": "https://www.google.com/maps/search/Brown%20Cow%20Restaurant+near+44.9387807%2C-72.20203049999999"
+    },
+    {
+      "name": "JUMBO BITE",
+      "distance": "0.4 mi",
+      "url": "https://www.google.com/maps/search/JUMBO%20BITE+near+44.9387807%2C-72.20203049999999"
+    },
+    {
+      "name": "Dusit Thai Cuisine",
+      "distance": "0.4 mi",
+      "url": "https://www.google.com/maps/search/Dusit%20Thai%20Cuisine+near+44.9387807%2C-72.20203049999999"
+    },
+    {
+      "name": "Miller's Pub",
+      "distance": "0.6 mi",
+      "url": "https://www.google.com/maps/search/Miller's%20Pub+near+44.9387807%2C-72.20203049999999"
+    },
+    {
+      "name": "Burger Bus",
+      "distance": "1.6 mi",
+      "url": "https://www.google.com/maps/search/Burger%20Bus+near+44.9387807%2C-72.20203049999999"
+    }
+  ],
+  "bowling": [
+    {
+      "name": "Centre Récréatif Stanstead",
+      "distance": "6.5 mi",
+      "url": "https://www.google.com/maps/search/Centre%20R%C3%A9cr%C3%A9atif%20Stanstead+near+44.9387807%2C-72.20203049999999",
+      "isFar": true
+    }
+  ],
+  "arcade": [],
+  "movies": [
+    {
+      "name": "City Cinema",
+      "distance": "0.2 mi",
+      "url": "https://www.google.com/maps/search/City%20Cinema+near+44.9387807%2C-72.20203049999999"
+    }
+  ],
+  "fun": [],
+  "hotels": [
+    {
+      "name": "burlington",
+      "distance": "0.2 mi",
+      "url": "https://www.google.com/maps/search/burlington+near+44.9387807%2C-72.20203049999999"
+    },
+    {
+      "name": "Beach House - Lake Memphremagog - Four-Bedroom Apartment with Lake View",
+      "distance": "0.4 mi",
+      "url": "https://www.google.com/maps/search/Beach%20House%20-%20Lake%20Memphremagog%20-%20Four-Bedroom%20Apartment%20with%20Lake%20View+near+44.9387807%2C-72.20203049999999"
+    },
+    {
+      "name": "Beach House - On Lake Time - Two-Bedroom Apartment",
+      "distance": "0.4 mi",
+      "url": "https://www.google.com/maps/search/Beach%20House%20-%20On%20Lake%20Time%20-%20Two-Bedroom%20Apartment+near+44.9387807%2C-72.20203049999999"
+    },
+    {
+      "name": "Beach House - The Three Fish - Two-Bedroom Apartment with Lake View",
+      "distance": "0.4 mi",
+      "url": "https://www.google.com/maps/search/Beach%20House%20-%20The%20Three%20Fish%20-%20Two-Bedroom%20Apartment%20with%20Lake%20View+near+44.9387807%2C-72.20203049999999"
+    },
+    {
+      "name": "Beach House - The Three Fish",
+      "distance": "0.4 mi",
+      "url": "https://www.google.com/maps/search/Beach%20House%20-%20The%20Three%20Fish+near+44.9387807%2C-72.20203049999999"
+    },
+    {
+      "name": "Beach House - On Lake Time",
+      "distance": "0.4 mi",
+      "url": "https://www.google.com/maps/search/Beach%20House%20-%20On%20Lake%20Time+near+44.9387807%2C-72.20203049999999"
+    },
+    {
+      "name": "Beach House - Lake Memphremagog",
+      "distance": "0.4 mi",
+      "url": "https://www.google.com/maps/search/Beach%20House%20-%20Lake%20Memphremagog+near+44.9387807%2C-72.20203049999999"
+    }
+  ],
+  "gas": [
+    {
+      "name": "Ward' Fuels",
+      "distance": "0.2 mi",
+      "url": "https://www.google.com/maps/search/Ward'%20Fuels+near+44.9387807%2C-72.20203049999999"
+    },
+    {
+      "name": "Jimmy Kwik Store",
+      "distance": "0.4 mi",
+      "url": "https://www.google.com/maps/search/Jimmy%20Kwik%20Store+near+44.9387807%2C-72.20203049999999"
+    },
+    {
+      "name": "Irving Oil",
+      "distance": "0.5 mi",
+      "url": "https://www.google.com/maps/search/Irving%20Oil+near+44.9387807%2C-72.20203049999999"
+    },
+    {
+      "name": "Mobil",
+      "distance": "2.4 mi",
+      "url": "https://www.google.com/maps/search/Mobil+near+44.9387807%2C-72.20203049999999"
+    },
+    {
+      "name": "Irving Oil",
+      "distance": "2.4 mi",
+      "url": "https://www.google.com/maps/search/Irving%20Oil+near+44.9387807%2C-72.20203049999999"
+    }
+  ]
+}

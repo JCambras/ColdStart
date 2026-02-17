@@ -1,0 +1,189 @@
+{
+  "quick_bite": [
+    {
+      "name": "Brush Hollow Pizza and Ice Cream",
+      "distance": "0.7 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Brush%20Hollow%20Pizza%20and%20Ice%20Cream&query_place_id=ChIJN3_CUQCBwokRi5zd86zEeag&center=40.776949699999996,-73.5586306"
+    },
+    {
+      "name": "Subway",
+      "distance": "0.7 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Subway&query_place_id=ChIJHTZ62NSGwokRBxhekcNJoek&center=40.7770261,-73.5586721"
+    },
+    {
+      "name": "Pizza Hut Express",
+      "distance": "0.7 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Pizza%20Hut%20Express&query_place_id=ChIJhxQcqR-BwokReORF-arQD6s&center=40.7721325,-73.5330981"
+    },
+    {
+      "name": "Potato Corner",
+      "distance": "0.8 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Potato%20Corner&query_place_id=ChIJeSjKzXSBwokRsjMQvCPLebw&center=40.7731839,-73.53197159999999"
+    }
+  ],
+  "coffee": [
+    {
+      "name": "Dunkin'",
+      "distance": "0.5 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Dunkin'&query_place_id=ChIJy8f4tt6AwokR8edrdCcgqgc&center=40.7666481,-73.5413696"
+    },
+    {
+      "name": "Dunkin'",
+      "distance": "0.9 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Dunkin'&query_place_id=ChIJadihatOGwokRiFncDbcFzKk&center=40.7788976,-73.56153619999999"
+    }
+  ],
+  "team_lunch": [
+    {
+      "name": "Best Cookies Shop NYC / New York Bakery Cookies/ The Cookie Outlet",
+      "distance": "0.4 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Best%20Cookies%20Shop%20NYC%20%2F%20New%20York%20Bakery%20Cookies%2F%20The%20Cookie%20Outlet&query_place_id=ChIJ68AXi9mAwokR9VjQt4HF0TY&center=40.766357299999996,-73.5460257"
+    },
+    {
+      "name": "Noel Dough Ventures",
+      "distance": "0.6 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Noel%20Dough%20Ventures&query_place_id=ChIJGwx_ByuBwokR60R0C6HSwRA&center=40.7756057,-73.5564876"
+    },
+    {
+      "name": "Marco Polo's",
+      "distance": "0.7 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Marco%20Polo's&query_place_id=ChIJaVqfMyuBwokRly9DUZWVCmc&center=40.7764206,-73.55891419999999"
+    },
+    {
+      "name": "Auntie Anne's",
+      "distance": "0.8 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Auntie%20Anne's&query_place_id=ChIJMd6YwR6BwokRMTf3y2olZyY&center=40.7740778,-73.5329677"
+    },
+    {
+      "name": "IKEA Restaurant",
+      "distance": "0.9 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=IKEA%20Restaurant&query_place_id=ChIJDUppmAuBwokRvbZgJi_BFlc&center=40.774515199999996,-73.5312264"
+    }
+  ],
+  "dinner": [
+    {
+      "name": "La familia Chimichurry",
+      "distance": "0.5 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=La%20familia%20Chimichurry&query_place_id=ChIJ9-ZRQQCBwokRzuMzKW0hpw4&center=40.7643746,-73.5503712"
+    },
+    {
+      "name": "BJ's Bakery",
+      "distance": "0.6 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=BJ's%20Bakery&query_place_id=ChIJk_CG9CuBwokRyKmeAqkhMxo&center=40.7771982,-73.55586339999999"
+    },
+    {
+      "name": "DD Soup Dumpling & Hibachi",
+      "distance": "0.9 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=DD%20Soup%20Dumpling%20%26%20Hibachi&query_place_id=ChIJke_WSLGHwokRtja0lYSbl3E&center=40.7799088,-73.5597542"
+    },
+    {
+      "name": "Blaze Pizza",
+      "distance": "0.9 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Blaze%20Pizza&query_place_id=ChIJT2KADRyBwokRxODK5thS_Bc&center=40.7726094,-73.5305193"
+    },
+    {
+      "name": "Bagel Doctor",
+      "distance": "1.1 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Bagel%20Doctor&query_place_id=ChIJV9vmUBeBwokR6nA_VGkjHQ8&center=40.779214599999996,-73.5296717"
+    }
+  ],
+  "bowling": [
+    {
+      "name": "Round1 Bowling & Arcade Broadway Commons",
+      "distance": "0.8 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Round1%20Bowling%20%26%20Arcade%20Broadway%20Commons&query_place_id=ChIJOUZnBByBwokRtuHHuQQ4zE4&center=40.7739924,-73.5328717"
+    },
+    {
+      "name": "AMF Syosset Lanes",
+      "distance": "2.6 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=AMF%20Syosset%20Lanes&query_place_id=ChIJhQofznyBwokRQEvsYohwrGU&center=40.804128399999996,-73.52349219999999"
+    },
+    {
+      "name": "AMF Garden City Lanes",
+      "distance": "3.6 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=AMF%20Garden%20City%20Lanes&query_place_id=ChIJrWFu9oZ9wokRow0JQO4biEg&center=40.7357286,-73.5977006",
+      "isFar": true
+    }
+  ],
+  "arcade": [],
+  "movies": [
+    {
+      "name": "Regal Westbury",
+      "distance": "0.7 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Regal%20Westbury&query_place_id=ChIJV_PEZCyBwokRJKI2XImekVo&center=40.7783209,-73.5560418"
+    },
+    {
+      "name": "AMC Raceway 10",
+      "distance": "3.3 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=AMC%20Raceway%2010&query_place_id=ChIJ-Q86532HwokRq68KeMt3IsM&center=40.7424482,-73.5963609",
+      "isFar": true
+    },
+    {
+      "name": "AMC DINE-IN Levittown 10",
+      "distance": "3.8 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=AMC%20DINE-IN%20Levittown%2010&query_place_id=ChIJFbYmnXiAwokRWHc7eiSYZng&center=40.728201,-73.50286679999999",
+      "isFar": true
+    }
+  ],
+  "fun": [
+    {
+      "name": "The MNH Wonder Rides",
+      "distance": "0.8 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=The%20MNH%20Wonder%20Rides&query_place_id=ChIJK9Y-IvaBwokRw4dLv_y9LvM&center=40.7721531,-73.53181769999999"
+    },
+    {
+      "name": "Milleridge Car Meets",
+      "distance": "1.5 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Milleridge%20Car%20Meets&query_place_id=ChIJ7bad_6mBwokR44CI1fByCJU&center=40.791585999999995,-73.53778679999999"
+    },
+    {
+      "name": "The Milleridge Village",
+      "distance": "1.5 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=The%20Milleridge%20Village&query_place_id=ChIJfVSoGwCBwokRJMtIIKEbC3s&center=40.7913898,-73.5369188"
+    },
+    {
+      "name": "Bounce! Family Entertainment Center",
+      "distance": "2.6 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Bounce!%20Family%20Entertainment%20Center&query_place_id=ChIJH8r45X6BwokR4Yv_AVx9TdY&center=40.8009494,-73.5148565"
+    }
+  ],
+  "hotels": [
+    {
+      "name": "Viana Hotel and Spa, Trademark Collection by Wyndham",
+      "distance": "0.7 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Viana%20Hotel%20and%20Spa%2C%20Trademark%20Collection%20by%20Wyndham&query_place_id=ChIJaVqfMyuBwokRwcHdqyFaDY8&center=40.7763839,-73.55883949999999"
+    },
+    {
+      "name": "Samar Hospitality",
+      "distance": "0.9 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Samar%20Hospitality&query_place_id=ChIJg_wW0yuBwokRiGvl_DoW9P8&center=40.7790572,-73.5606279"
+    },
+    {
+      "name": "Inn At Jericho",
+      "distance": "0.9 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Inn%20At%20Jericho&query_place_id=ChIJg2t0ONOGwokR4GJMAvLiH1E&center=40.7794131,-73.56027019999999"
+    },
+    {
+      "name": "The Heart of Hicksville House",
+      "distance": "0.9 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=The%20Heart%20of%20Hicksville%20House&query_place_id=ChIJRZ2Q0R2BwokR_Ki-ikZirNo&center=40.770813,-73.52936559999999"
+    }
+  ],
+  "gas": [
+    {
+      "name": "BJ's Gas Station",
+      "distance": "0.7 mi",
+      "url": "https://www.google.com/maps/search/BJ's%20Gas%20Station+near+40.771614799999995%2C-73.54731760000001"
+    },
+    {
+      "name": "Speedway",
+      "distance": "1.0 mi",
+      "url": "https://www.google.com/maps/search/Speedway+near+40.771614799999995%2C-73.54731760000001"
+    },
+    {
+      "name": "Sunoco",
+      "distance": "1.0 mi",
+      "url": "https://www.google.com/maps/search/Sunoco+near+40.771614799999995%2C-73.54731760000001"
+    }
+  ]
+}
