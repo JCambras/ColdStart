@@ -251,3 +251,20 @@ export const SEEDED_NEARBY: Record<string, Record<string, NearbyPlace[]>> = {
     ],
   },
 };
+
+// Fan favorites seed data for demo rinks
+export const SEEDED_FAN_FAVORITES: Record<string, { name: string; review: string; category: string; author: string; date: string }[]> = {
+  'bww': [
+    { name: "Shield's Pizza", review: "Detroit-style deep dish, perfect after a long tournament day. Kids love it.", category: "Team lunch", author: "Mike B.", date: "2026-01-18T14:30:00Z" },
+    { name: "Biggby Coffee", review: "Way better than Starbucks and never a line on Saturday mornings.", category: "Coffee", author: "Sarah K.", date: "2026-01-25T08:15:00Z" },
+  ],
+  'ice-line': [
+    { name: "Barnaby's", review: "Huge portions, seats 30 easy. Our go-to for post-tournament team dinner.", category: "Team lunch", author: "Kevin M.", date: "2026-01-20T18:00:00Z" },
+    { name: "La Colombe Coffee", review: "Best lattes in West Chester. Warm up between games.", category: "Coffee", author: "Jen T.", date: "2026-02-01T09:30:00Z" },
+    { name: "Kildare's Irish Pub", review: "Great loaded nachos and plenty of TVs for the parents.", category: "Dinner", author: "Dan R.", date: "2026-02-08T19:45:00Z" },
+  ],
+  'proskate': [
+    { name: "White Manna", review: "Tiny burger joint, cash only. Legendary sliders — a must-try.", category: "Quick bite", author: "Tom L.", date: "2026-01-12T12:00:00Z" },
+    { name: "Nobi Sushi", review: "Surprisingly great sushi near the rink. Kids menu available.", category: "Dinner", author: "Lisa P.", date: "2026-02-05T18:30:00Z" },
+  ],
+};

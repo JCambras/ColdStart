@@ -2,8 +2,10 @@
 
 import { useState, useEffect } from 'react';
 import { NearbyPlace } from '../../lib/seedData';
-import { storage } from '../../lib/storage';
+import { storage, FanFavorite } from '../../lib/storage';
 import { colors, text, radius } from '../../lib/theme';
+
+const FAN_FAV_CATEGORIES = ['Quick bite', 'Coffee', 'Team lunch', 'Dinner', 'Other'] as const;
 
 export interface NearbyCategory {
   label: string;
@@ -13,7 +15,178 @@ export interface NearbyCategory {
   partnerPlaces?: NearbyPlace[];
 }
 
-export function NearbySection({ title, icon, categories, rinkSlug }: { title: string; icon: string; categories: NearbyCategory[]; rinkSlug: string }) {
+function FanFavoritesCategory({ rinkSlug, expanded, onToggle }: { rinkSlug: string; expanded: boolean; onToggle: () => void }) {
+  const [favorites, setFavorites] = useState<FanFavorite[]>([]);
+  const [showForm, setShowForm] = useState(false);
+  const [name, setName] = useState('');
+  const [review, setReview] = useState('');
+  const [category, setCategory] = useState<string>(FAN_FAV_CATEGORIES[0]);
+
+  useEffect(() => {
+    setFavorites(storage.getFanFavorites(rinkSlug));
+  }, [rinkSlug]);
+
+  function handleSubmit() {
+    if (!name.trim() || !review.trim()) return;
+    const user = storage.getCurrentUser();
+    const newFav: FanFavorite = {
+      name: name.trim(),
+      review: review.trim(),
+      category,
+      author: user?.name || 'Hockey parent',
+      date: new Date().toISOString(),
+    };
+    const updated = [...favorites, newFav];
+    storage.setFanFavorites(rinkSlug, updated);
+    setFavorites(updated);
+    setName('');
+    setReview('');
+    setCategory(FAN_FAV_CATEGORIES[0]);
+    setShowForm(false);
+  }
+
+  return (
+    <div>
+      <div
+        onClick={onToggle}
+        style={{
+          padding: '14px 20px', cursor: 'pointer',
+          display: 'flex', alignItems: 'center', justifyContent: 'space-between',
+          transition: 'background 0.1s',
+          background: expanded ? '#f8fafc' : colors.white,
+        }}
+        onMouseEnter={(e) => { if (!expanded) e.currentTarget.style.background = colors.bgPage; }}
+        onMouseLeave={(e) => { if (!expanded) e.currentTarget.style.background = colors.white; }}
+      >
+        <div style={{ display: 'flex', alignItems: 'center', gap: 12 }}>
+          <span style={{ fontSize: 20 }}>⭐</span>
+          <div>
+            <div style={{ fontSize: text.base, fontWeight: 600, color: colors.textPrimary }}>
+              Fan Favorites
+              <span style={{ fontSize: text.sm, fontWeight: 400, color: colors.textMuted, marginLeft: 6 }}>
+                {favorites.length} spot{favorites.length !== 1 ? 's' : ''}
+              </span>
+            </div>
+            <div style={{ fontSize: text.sm, color: colors.textMuted, marginTop: 1 }}>Parent-recommended spots</div>
+          </div>
+        </div>
+        <span style={{
+          fontSize: text.sm, color: colors.textMuted,
+          transform: expanded ? 'rotate(90deg)' : 'none',
+          transition: 'transform 0.2s',
+        }}>
+          ▸
+        </span>
+      </div>
+      {expanded && (
+        <div style={{ padding: '0 20px 16px', background: '#f8fafc' }}>
+          {favorites.map((fav, i) => (
+            <div key={i} style={{
+              marginTop: 8, padding: '10px 12px', borderRadius: radius.lg,
+              background: colors.white, border: `1px solid ${colors.borderDefault}`,
+            }}>
+              <div style={{ display: 'flex', alignItems: 'center', gap: 8 }}>
+                <div style={{ fontSize: text.md, fontWeight: 500, color: colors.textPrimary }}>{fav.name}</div>
+                <span style={{
+                  fontSize: 9, fontWeight: 600, padding: '2px 6px', borderRadius: 4,
+                  background: colors.brandBg, color: colors.brandDark, textTransform: 'uppercase', letterSpacing: 0.5,
+                }}>
+                  {fav.category}
+                </span>
+              </div>
+              <div style={{ fontSize: text.sm, color: colors.textSecondary, marginTop: 4, fontStyle: 'italic' }}>
+                &ldquo;{fav.review}&rdquo;
+              </div>
+              <div style={{ fontSize: text.xs, color: colors.textMuted, marginTop: 4 }}>
+                — {fav.author}
+              </div>
+            </div>
+          ))}
+          {showForm ? (
+            <div style={{
+              marginTop: 8, padding: '12px', borderRadius: radius.lg,
+              background: colors.white, border: `1px solid ${colors.borderMedium}`,
+            }}>
+              <input
+                value={name}
+                onChange={(e) => setName(e.target.value)}
+                placeholder="e.g. Tony's Pizza"
+                autoFocus
+                style={{
+                  width: '100%', padding: '8px 10px', fontSize: text.sm,
+                  border: `1px solid ${colors.borderDefault}`, borderRadius: radius.md,
+                  outline: 'none', boxSizing: 'border-box',
+                }}
+              />
+              <textarea
+                value={review}
+                onChange={(e) => setReview(e.target.value.slice(0, 140))}
+                placeholder="What makes it great?"
+                rows={2}
+                style={{
+                  width: '100%', padding: '8px 10px', fontSize: text.sm, marginTop: 8,
+                  border: `1px solid ${colors.borderDefault}`, borderRadius: radius.md,
+                  outline: 'none', resize: 'none', boxSizing: 'border-box',
+                  fontFamily: 'inherit',
+                }}
+              />
+              <div style={{ fontSize: text.xs, color: colors.textMuted, textAlign: 'right', marginTop: 2 }}>
+                {review.length}/140
+              </div>
+              <select
+                value={category}
+                onChange={(e) => setCategory(e.target.value)}
+                style={{
+                  width: '100%', padding: '8px 10px', fontSize: text.sm, marginTop: 4,
+                  border: `1px solid ${colors.borderDefault}`, borderRadius: radius.md,
+                  outline: 'none', background: colors.white, boxSizing: 'border-box',
+                }}
+              >
+                {FAN_FAV_CATEGORIES.map(c => (
+                  <option key={c} value={c}>{c}</option>
+                ))}
+              </select>
+              <div style={{ display: 'flex', gap: 8, marginTop: 8 }}>
+                <button
+                  onClick={handleSubmit}
+                  disabled={!name.trim() || !review.trim()}
+                  style={{
+                    fontSize: text.sm, fontWeight: 600, color: colors.white,
+                    background: name.trim() && review.trim() ? colors.brand : colors.textDisabled,
+                    border: 'none', borderRadius: radius.md, padding: '8px 16px',
+                    cursor: name.trim() && review.trim() ? 'pointer' : 'default',
+                  }}
+                >
+                  Submit
+                </button>
+                <button
+                  onClick={() => { setShowForm(false); setName(''); setReview(''); setCategory(FAN_FAV_CATEGORIES[0]); }}
+                  style={{ fontSize: text.sm, color: colors.textMuted, background: 'none', border: 'none', cursor: 'pointer' }}
+                >
+                  Cancel
+                </button>
+              </div>
+            </div>
+          ) : (
+            <button
+              onClick={() => setShowForm(true)}
+              style={{
+                marginTop: 8, fontSize: text.sm, fontWeight: 500,
+                color: colors.brand, background: 'none', border: `1px dashed ${colors.brandLight}`,
+                borderRadius: radius.md, padding: '8px 14px', cursor: 'pointer',
+                width: '100%',
+              }}
+            >
+              + Add your favorite
+            </button>
+          )}
+        </div>
+      )}
+    </div>
+  );
+}
+
+export function NearbySection({ title, icon, categories, rinkSlug, fanFavorites }: { title: string; icon: string; categories: NearbyCategory[]; rinkSlug: string; fanFavorites?: boolean }) {
   const [expanded, setExpanded] = useState<string | null>(null);
   const [tipOpen, setTipOpen] = useState<string | null>(null);
   const [tipText, setTipText] = useState('');
@@ -58,6 +231,16 @@ export function NearbySection({ title, icon, categories, rinkSlug }: { title: st
         background: colors.white, border: `1px solid ${colors.borderDefault}`,
         borderRadius: 16, overflow: 'hidden',
       }}>
+        {fanFavorites && (
+          <>
+            <FanFavoritesCategory
+              rinkSlug={rinkSlug}
+              expanded={expanded === '__fan_favorites__'}
+              onToggle={() => setExpanded(expanded === '__fan_favorites__' ? null : '__fan_favorites__')}
+            />
+            <div style={{ height: 1, background: colors.borderLight }} />
+          </>
+        )}
         {categories.map((cat, i) => (
           <div key={cat.label}>
             <div

@@ -5,7 +5,7 @@ import { useParams, useRouter } from 'next/navigation';
 import Image from 'next/image';
 import { PageShell } from '../../../components/PageShell';
 import { RinkSummary, RinkDetail } from '../../../lib/rinkTypes';
-import { NearbyPlace } from '../../../lib/seedData';
+import { NearbyPlace, SEEDED_FAN_FAVORITES } from '../../../lib/seedData';
 import { getRinkSlug, getNearbyPlaces, buildRinkDetailFromSeed } from '../../../lib/rinkHelpers';
 import { NearbySection } from '../../../components/rink/NearbySection';
 import { RateAndContribute } from '../../../components/rink/ContributeFlow';
@@ -70,6 +70,18 @@ export default function RinkPage() {
     storage.setPlaceTipsSeeded('1');
   }, []);
 
+  // Seed fan favorites for demo rinks (once)
+  useEffect(() => {
+    if (storage.getFanFavsSeeded()) return;
+    for (const [slug, favs] of Object.entries(SEEDED_FAN_FAVORITES)) {
+      const existing = storage.getFanFavorites(slug);
+      if (existing.length === 0) {
+        storage.setFanFavorites(slug, favs);
+      }
+    }
+    storage.setFanFavsSeeded('1');
+  }, []);
+
   // Track rink views for post-visit prompt
   useEffect(() => {
     if (!rinkId) return;
@@ -86,11 +98,39 @@ export default function RinkPage() {
   useEffect(() => {
     if (!detail) return;
     const slug = getRinkSlug(detail.rink);
-    if (!slug) return;
-    seedGet<Record<string, NearbyPlace[]>>(`/data/nearby/${slug}.json`)
-      .then(data => { if (data) setNearbyData(data); });
+    const id = detail.rink.id;
+    // Find matching seed rink ID by name (handles API rinks with UUID ids)
+    const findSeedId = async (): Promise<string | null> => {
+      const rinks = await seedGet<Array<{ id: string; name: string }>>('/data/rinks.json');
+      if (!rinks) return null;
+      const nameNorm = detail.rink.name.toLowerCase().replace(/[^a-z0-9]/g, '');
+      const match = rinks.find(r => r.name.toLowerCase().replace(/[^a-z0-9]/g, '') === nameNorm);
+      return match?.id || null;
+    };
+    const tryNearby = async () => {
+      // Try seed ID match first (most reliable for API rinks with UUID ids)
+      const seedId = await findSeedId();
+      if (seedId) {
+        const bySeed = await seedGet<Record<string, NearbyPlace[]>>(`/data/nearby/${seedId}.json`);
+        if (bySeed) { setNearbyData(bySeed); return; }
+      }
+      // Then try rink ID directly
+      const byId = await seedGet<Record<string, NearbyPlace[]>>(`/data/nearby/${id}.json`);
+      if (byId) { setNearbyData(byId); return; }
+      // Finally try generated slug
+      if (slug && slug !== id) {
+        const bySlug = await seedGet<Record<string, NearbyPlace[]>>(`/data/nearby/${slug}.json`);
+        if (bySlug) setNearbyData(bySlug);
+      }
+    };
+    tryNearby();
     seedGet<Record<string, Record<string, { value: number; count: number; confidence: number }>>>('/data/signals.json')
-      .then(data => { if (data && data[slug]) setLoadedSignals(data[slug]); });
+      .then(async data => {
+        if (!data) return;
+        const seedId = await findSeedId();
+        const match = (seedId ? data[seedId] : null) || data[id] || (slug ? data[slug] : null);
+        if (match) setLoadedSignals(match);
+      });
   }, [detail]);
 
   useEffect(() => {
@@ -318,7 +358,7 @@ export default function RinkPage() {
 
         {/* Nearby sections */}
         <div id="nearby-section">
-          <NearbySection title="Places to eat" icon="🍽️" rinkSlug={getRinkSlug(rink)} categories={[
+          <NearbySection title="Places to eat" icon="🍽️" rinkSlug={getRinkSlug(rink)} fanFavorites categories={[
             { label: 'Quick bite', icon: '🥯', description: 'Diners, bagel shops, fast casual', places: getNearbyPlaces(rink, 'quick_bite', nearbyData) },
             { label: 'Good coffee', icon: '☕', description: 'Coffee shops nearby', places: getNearbyPlaces(rink, 'coffee', nearbyData) },
             { label: 'Team lunch', icon: '🍕', description: 'Casual chains and group-friendly spots', places: getNearbyPlaces(rink, 'team_lunch', nearbyData) },

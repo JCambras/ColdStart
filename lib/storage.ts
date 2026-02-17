@@ -1,5 +1,13 @@
 import type { UserProfile } from './rinkTypes';
 
+export interface FanFavorite {
+  name: string;
+  review: string;
+  category: string;
+  author: string;
+  date: string;
+}
+
 // ── Core helpers — all try/catch in one place ──
 
 function getJSON<T>(key: string, fallback: T): T {
@@ -92,6 +100,16 @@ export const storage = {
   // Rink view tracking
   getRinkViewed: (id: string) => getJSON<string | null>(`coldstart_viewed_${id}`, null),
   setRinkViewed: (id: string, date: string) => setJSON(`coldstart_viewed_${id}`, date),
+
+  // Fan favorites
+  getFanFavorites: (slug: string) =>
+    getJSON<FanFavorite[]>(`coldstart_fan_favs_${slug}`, []),
+  setFanFavorites: (slug: string, favs: FanFavorite[]) =>
+    setJSON(`coldstart_fan_favs_${slug}`, favs),
+
+  // Fan favorites seeded flag
+  getFanFavsSeeded: () => getJSON<string | null>('coldstart_fan_favs_seeded', null),
+  setFanFavsSeeded: (v: string) => setJSON('coldstart_fan_favs_seeded', v),
 
   // All place tips for a rink (enumerate by scanning localStorage)
   getAllPlaceTips: (rinkSlug: string) => {
