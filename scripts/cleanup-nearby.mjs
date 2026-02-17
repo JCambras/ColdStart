@@ -14,7 +14,7 @@ const TARGET_STATES = ['PA', 'NJ', 'NY', 'IL', 'MA', 'MD', 'VA', 'CT'];
 
 // ── Patterns for filtering bad entries ──
 
-// Not real coffee shops
+// Not real coffee shops (bars, gas stations, big-box, pharmacies)
 const NOT_COFFEE = [
   /^mcdonald/i, /^burger king/i, /^wendy/i, /^wawa$/i, /^sheetz$/i,
   /^7-eleven/i, /^speedway/i, /^shell$/i, /^sunoco$/i, /^exxon/i,
@@ -22,6 +22,19 @@ const NOT_COFFEE = [
   /^royal farms/i, /^racetrac/i, /^quickchek/i, /^turkey hill/i,
   /gas\s*(station|kiosk)/i, /^sam'?s club/i, /^walmart/i, /^costco/i,
   /^target$/i, /^rite aid/i, /^cvs/i, /^walgreens/i,
+  // Bars, breweries, pubs — not coffee shops
+  // BUT keep "coffee bar", "espresso bar", "smoothie bar", "crepe bar", "juice bar"
+  /\balehouse\b/i, /\btap\s*(house|room)\b/i,
+  /\bpub\b/i, /\btavern\b/i, /\bwine\s*bar\b/i,
+  /\bbeer\s*(garden|hall)\b/i, /\bsaloon\b/i, /\bbrewery\b/i,
+  /\bbiergarten\b/i, /\bdraughthouse\b/i,
+  /\brestaurant\s*(and|&)\s*bar\b/i,  // "Severina Restaurant and Bar"
+  /\bcafe\s*(and|&)\s*bar\b/i,        // "Chit Chaat Cafe & Bar"
+  /\bbar\s*(and|&)\s*grill\b/i,       // "Bar & Grill"
+  /\bgrill\s*cafe\b/i,                // "Illusion Bar Grill Cafe"
+  /\bbrew\s*(pub|house|ery|haus)\b/i,  // "Germania Brew Haus"
+  /\bcafé?\s*-?\s*bar\b(?!.*coffee)(?!.*espresso)/i,  // "Tartinery Café - Bar" but not "Cafe Bar with coffee"
+  /\bcafe\s*bar\s*popularr/i,         // Known misclassification
 ];
 
 // Not real hotels (Airbnb, vacation rentals, apartments, etc.)
@@ -70,6 +83,20 @@ const NOT_HOTEL = [
   /\bspaciously\b/i,
   /\b\d+\s*BR\b/i,   // "4 BR, 2 BA" abbreviation
   /\blake\s*house\b/i,
+  // Generic/suspicious hotel names (just a city, state, or "Hotel" alone)
+  /^hotel$/i,
+  /^\w+\s+(NY|NJ|PA|CT|MA|MD|VA|IL)$/i,  // "Saugerties NY" — just a city + state
+];
+
+// Suspicious names that are too short/generic for any category
+// Note: "bp" and "76" are legitimate gas stations — handled separately
+const JUNK_NAMES = [
+  /^hotel$/i,
+  /^fountain$/i,
+  /^parking$/i, /^parking\s*(lot|garage|structure)$/i,
+  /^atm$/i,
+  /^.{1}$/i,    // Single-character names like "A"
+  /^[a-z]{2}$/i, // Two-letter names like "jw", "LB" (except gas where "bp" is valid)
 ];
 
 // Not real dinner restaurants
@@ -84,6 +111,11 @@ const NOT_FUN = [
   /\bstate\s*sign\b/i, /\bwelcome\s*(to|sign)\b/i,
   /\bhistorical?\s*(marker|sign|plaque)\b/i,
   /\bmonument\b/i,
+  /^downtown\b/i,                     // "Downtown Morristown" — just a Google pin
+  /\btrain\s*station\b/i,             // "West Chester University Train Station"
+  /\bparking\s*(lot|garage|structure)?\b/i,  // "Point of view parking lot"
+  /^fountain$/i,                       // Just a fountain pin
+  /\bmural$/i,                         // "Downtown Ithaca Mural"
 ];
 
 // ── Cleanup functions ──
@@ -110,8 +142,12 @@ function limitEntries(places, max) {
   return places.slice(0, max);
 }
 
-function cleanCategory(places, { notPatterns = [], maxEntries = 8 } = {}) {
+function cleanCategory(places, { notPatterns = [], maxEntries = 8, skipJunkFilter = false } = {}) {
   let cleaned = removeDuplicates(places);
+  // Remove junk/generic names (skip for gas where "bp", "76" are valid)
+  if (!skipJunkFilter) {
+    cleaned = removeByPattern(cleaned, JUNK_NAMES);
+  }
   if (notPatterns.length > 0) {
     cleaned = removeByPattern(cleaned, notPatterns);
   }
@@ -178,9 +214,9 @@ function cleanNearbyData(data) {
     result.hotels = cleanCategory(data.hotels, { notPatterns: NOT_HOTEL, maxEntries: 6 });
   }
 
-  // Gas: dedup, limit to 4
+  // Gas: dedup, limit to 4 (skip junk filter — "bp" and "76" are valid gas stations)
   if (data.gas) {
-    result.gas = cleanCategory(data.gas, { maxEntries: 4 });
+    result.gas = cleanCategory(data.gas, { maxEntries: 4, skipJunkFilter: true });
   }
 
   return result;
