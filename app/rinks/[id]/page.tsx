@@ -5,13 +5,13 @@ import { useParams, useRouter } from 'next/navigation';
 import Image from 'next/image';
 import { PageShell } from '../../../components/PageShell';
 import { RinkSummary, RinkDetail } from '../../../lib/rinkTypes';
-import { NearbyPlace, SEEDED_FAN_FAVORITES } from '../../../lib/seedData';
-import { getRinkSlug, getNearbyPlaces, buildRinkDetailFromSeed } from '../../../lib/rinkHelpers';
+import { NearbyPlace, SEEDED_FAN_FAVORITES, RINK_STREAMING, RINK_HOME_TEAMS } from '../../../lib/seedData';
+import { getRinkSlug, getNearbyPlaces, buildRinkDetailFromSeed, getVerdictColor, getVerdictBg, timeAgo, ensureAllSignals } from '../../../lib/rinkHelpers';
+import { SIGNAL_META, API_URL } from '../../../lib/constants';
 import { NearbySection } from '../../../components/rink/NearbySection';
 import { RateAndContribute } from '../../../components/rink/ContributeFlow';
 import { ClaimRinkCTA } from '../../../components/rink/ClaimRinkCTA';
-import { RinkHeader } from '../../../components/rink/RinkHeader';
-import { VerdictCard } from '../../../components/rink/VerdictCard';
+import { SaveRinkButton } from '../../../components/rink/SaveRinkButton';
 import { SignalsSection } from '../../../components/rink/SignalsSection';
 import { TipsSection } from '../../../components/rink/TipsSection';
 import { apiGet, seedGet } from '../../../lib/api';
@@ -19,6 +19,298 @@ import { storage } from '../../../lib/storage';
 import { LoadingSkeleton } from '../../../components/LoadingSkeleton';
 import { useAuth } from '../../../contexts/AuthContext';
 import { colors } from '../../../lib/theme';
+import type { Signal } from '../../../lib/rinkTypes';
+
+// ── Post-Visit Rating Prompt — single-signal-at-a-time ──
+function ReturnRatingPrompt({
+  rinkId,
+  rinkName,
+  onDismiss,
+  onSummaryUpdate
+}: {
+  rinkId: string;
+  rinkName: string;
+  onDismiss: () => void;
+  onSummaryUpdate: (s: RinkSummary) => void;
+}) {
+  const PROMPT_SIGNALS = [
+    { key: 'parking', icon: '🅿️', question: 'How was parking?', low: 'Tough', high: 'Easy' },
+    { key: 'cold', icon: '❄️', question: 'How cold was it?', low: 'Warm', high: 'Freezing' },
+    { key: 'food_nearby', icon: '🍔', question: 'Food options nearby?', low: 'None', high: 'Plenty' },
+    { key: 'chaos', icon: '🌀', question: 'How chaotic was it?', low: 'Calm', high: 'Wild' },
+    { key: 'family_friendly', icon: '👨‍👩‍👧', question: 'Family friendly?', low: 'Not great', high: 'Great' },
+    { key: 'locker_rooms', icon: '🚪', question: 'Locker rooms?', low: 'Tight', high: 'Spacious' },
+    { key: 'pro_shop', icon: '🏒', question: 'Pro shop?', low: 'None', high: 'Stocked' },
+  ];
+
+  const [currentIndex, setCurrentIndex] = useState(0);
+  const [rated, setRated] = useState<Record<string, number>>({});
+  const [submitting, setSubmitting] = useState(false);
+  const [done, setDone] = useState(false);
+  const [tipMode, setTipMode] = useState(false);
+  const [tipText, setTipText] = useState('');
+
+  const current = PROMPT_SIGNALS[currentIndex];
+  const totalRated = Object.keys(rated).length;
+
+  async function submitRating(signal: string, value: number) {
+    setRated(prev => ({ ...prev, [signal]: value }));
+    setSubmitting(true);
+
+    try {
+      const res = await fetch(`${API_URL}/contributions`, {
+        method: 'POST',
+        headers: { 'Content-Type': 'application/json' },
+        body: JSON.stringify({
+          rink_id: rinkId,
+          kind: 'signal_rating',
+          contributor_type: 'visiting_parent',
+          signal_rating: { signal, value },
+        }),
+      });
+      if (res.ok) {
+        const data = await res.json();
+        if (data.data?.summary) onSummaryUpdate(data.data.summary);
+      }
+    } catch {}
+
+    setSubmitting(false);
+
+    // Move to next signal or show done state
+    if (currentIndex < PROMPT_SIGNALS.length - 1) {
+      setTimeout(() => setCurrentIndex(prev => prev + 1), 300);
+    } else {
+      setDone(true);
+    }
+  }
+
+  async function submitTip() {
+    if (!tipText.trim()) return;
+    try {
+      const res = await fetch(`${API_URL}/contributions`, {
+        method: 'POST',
+        headers: { 'Content-Type': 'application/json' },
+        body: JSON.stringify({
+          rink_id: rinkId,
+          kind: 'tip',
+          contributor_type: 'visiting_parent',
+          tip: { text: tipText.trim() },
+        }),
+      });
+      if (res.ok) {
+        const data = await res.json();
+        if (data.data?.summary) onSummaryUpdate(data.data.summary);
+      }
+    } catch {}
+    setTipMode(false);
+    setDone(true);
+  }
+
+  // Mark this rink as rated so prompt doesn't show again
+  function handleFinish() {
+    try {
+      localStorage.setItem(`coldstart_rated_${rinkId}`, new Date().toISOString());
+    } catch {}
+    onDismiss();
+  }
+
+  if (done) {
+    return (
+      <section style={{
+        background: 'linear-gradient(135deg, #ecfdf5 0%, #f0fdf4 100%)',
+        border: '1px solid #a7f3d0',
+        borderRadius: 14, padding: '18px 20px', marginTop: 16,
+      }}>
+        <div style={{ display: 'flex', alignItems: 'center', justifyContent: 'space-between' }}>
+          <div>
+            <p style={{ fontSize: 15, fontWeight: 700, color: '#059669', margin: 0 }}>
+              Thanks! You rated {totalRated} signal{totalRated !== 1 ? 's' : ''}.
+            </p>
+            <p style={{ fontSize: 12, color: '#6b7280', marginTop: 3, margin: '3px 0 0' }}>
+              The next family will see your intel.
+            </p>
+          </div>
+          <button
+            onClick={handleFinish}
+            style={{
+              fontSize: 12, fontWeight: 600, color: '#059669',
+              background: '#fff', border: '1px solid #a7f3d0',
+              borderRadius: 8, padding: '6px 14px', cursor: 'pointer',
+            }}
+          >
+            Done
+          </button>
+        </div>
+      </section>
+    );
+  }
+
+  if (tipMode) {
+    return (
+      <section style={{
+        background: 'linear-gradient(135deg, #eff6ff 0%, #faf5ff 100%)',
+        border: '1px solid #c7d2fe',
+        borderRadius: 14, padding: '18px 20px', marginTop: 16,
+      }}>
+        <p style={{ fontSize: 14, fontWeight: 600, color: '#4338ca', margin: 0 }}>
+          Drop a quick tip about {rinkName}
+        </p>
+        <p style={{ fontSize: 12, color: '#6b7280', marginTop: 3, margin: '3px 0 0' }}>
+          Parking hack, entrance tip, food recommendation — anything that helps the next family.
+        </p>
+        <div style={{ display: 'flex', gap: 8, marginTop: 12 }}>
+          <input
+            value={tipText}
+            onChange={(e) => setTipText(e.target.value)}
+            placeholder="e.g. Use the side entrance for Rink C"
+            onKeyDown={(e) => e.key === 'Enter' && submitTip()}
+            autoFocus
+            style={{
+              flex: 1, fontSize: 14, padding: '10px 14px',
+              border: '1px solid #d1d5db', borderRadius: 10,
+              outline: 'none', fontFamily: 'inherit',
+            }}
+          />
+          <button
+            onClick={submitTip}
+            disabled={!tipText.trim()}
+            style={{
+              fontSize: 13, fontWeight: 600, color: '#fff',
+              background: tipText.trim() ? '#4338ca' : '#c7d2fe',
+              border: 'none', borderRadius: 10, padding: '10px 18px',
+              cursor: tipText.trim() ? 'pointer' : 'default',
+              whiteSpace: 'nowrap',
+            }}
+          >
+            Send
+          </button>
+        </div>
+        <button
+          onClick={() => { setTipMode(false); setDone(true); }}
+          style={{
+            fontSize: 11, color: '#9ca3af', background: 'none', border: 'none',
+            cursor: 'pointer', marginTop: 8, padding: 0,
+          }}
+        >
+          Skip →
+        </button>
+      </section>
+    );
+  }
+
+  return (
+    <section style={{
+      background: 'linear-gradient(135deg, #eff6ff 0%, #faf5ff 100%)',
+      border: '1px solid #c7d2fe',
+      borderRadius: 14, padding: '18px 20px', marginTop: 16,
+    }}>
+      {/* Header with progress and dismiss */}
+      <div style={{ display: 'flex', alignItems: 'center', justifyContent: 'space-between', marginBottom: 12 }}>
+        <div>
+          <p style={{ fontSize: 14, fontWeight: 700, color: '#4338ca', margin: 0 }}>
+            {totalRated === 0 ? `Been to ${rinkName}?` : current.question}
+          </p>
+          <p style={{ fontSize: 11, color: '#6b7280', marginTop: 2, margin: '2px 0 0' }}>
+            {totalRated === 0
+              ? 'Quick rate — tap a number, help the next family.'
+              : `${totalRated} of ${PROMPT_SIGNALS.length} · tap to rate or skip`
+            }
+          </p>
+        </div>
+        <button
+          onClick={() => {
+            if (totalRated > 0) { setDone(true); }
+            else { handleFinish(); }
+          }}
+          style={{ fontSize: 14, color: '#c7d2fe', background: 'none', border: 'none', cursor: 'pointer', flexShrink: 0, padding: '4px' }}
+        >
+          ✕
+        </button>
+      </div>
+
+      {/* Progress bar */}
+      <div style={{ height: 3, background: '#e0e7ff', borderRadius: 2, marginBottom: 14, overflow: 'hidden' }}>
+        <div style={{
+          height: '100%', borderRadius: 2,
+          background: '#4338ca',
+          width: `${(currentIndex / PROMPT_SIGNALS.length) * 100}%`,
+          transition: 'width 0.3s ease',
+        }} />
+      </div>
+
+      {/* Current signal */}
+      <div style={{ display: 'flex', alignItems: 'center', gap: 12, marginBottom: 12 }}>
+        <span style={{ fontSize: 28 }}>{current.icon}</span>
+        <div>
+          <div style={{ fontSize: 15, fontWeight: 700, color: '#111827' }}>
+            {current.question}
+          </div>
+          <div style={{ fontSize: 11, color: '#9ca3af', marginTop: 2 }}>
+            {current.low} ← 1 · · · 5 → {current.high}
+          </div>
+        </div>
+      </div>
+
+      {/* Rating buttons — 1 through 5 */}
+      <div style={{ display: 'flex', gap: 8 }}>
+        {[1, 2, 3, 4, 5].map((val) => {
+          const isRated = rated[current.key] === val;
+          const color = val >= 4 ? '#059669' : val >= 3 ? '#d97706' : '#ef4444';
+          const bg = val >= 4 ? '#ecfdf5' : val >= 3 ? '#fffbeb' : '#fef2f2';
+          return (
+            <button
+              key={val}
+              onClick={() => !submitting && submitRating(current.key, val)}
+              disabled={submitting}
+              style={{
+                flex: 1, height: 48,
+                fontSize: 18, fontWeight: 700,
+                color: isRated ? '#fff' : color,
+                background: isRated ? color : bg,
+                border: `2px solid ${isRated ? color : 'transparent'}`,
+                borderRadius: 10, cursor: submitting ? 'wait' : 'pointer',
+                transition: 'all 0.15s',
+                opacity: submitting ? 0.6 : 1,
+              }}
+            >
+              {val}
+            </button>
+          );
+        })}
+      </div>
+
+      {/* Skip / add tip links */}
+      <div style={{ display: 'flex', justifyContent: 'space-between', alignItems: 'center', marginTop: 10 }}>
+        <button
+          onClick={() => {
+            if (currentIndex < PROMPT_SIGNALS.length - 1) {
+              setCurrentIndex(prev => prev + 1);
+            } else {
+              setTipMode(true);
+            }
+          }}
+          style={{
+            fontSize: 12, color: '#9ca3af', background: 'none', border: 'none',
+            cursor: 'pointer', padding: 0,
+          }}
+        >
+          Skip this →
+        </button>
+        {totalRated > 0 && (
+          <button
+            onClick={() => setTipMode(true)}
+            style={{
+              fontSize: 12, color: '#4338ca', background: 'none', border: 'none',
+              cursor: 'pointer', padding: 0, fontWeight: 600,
+            }}
+          >
+            + Add a tip instead
+          </button>
+        )}
+      </div>
+    </section>
+  );
+}
 
 export default function RinkPage() {
   const params = useParams();
@@ -85,13 +377,31 @@ export default function RinkPage() {
   // Track rink views for post-visit prompt
   useEffect(() => {
     if (!rinkId) return;
-    const prev = storage.getRinkViewed(rinkId);
-    if (prev) {
-      const prevDate = new Date(prev);
-      const hoursSince = (Date.now() - prevDate.getTime()) / (1000 * 60 * 60);
-      if (hoursSince > 2) setShowReturnPrompt(true);
-    }
-    storage.setRinkViewed(rinkId, new Date().toISOString());
+    try {
+      // Don't show if already rated this rink
+      const alreadyRated = localStorage.getItem(`coldstart_rated_${rinkId}`);
+      if (alreadyRated) return;
+
+      // Show if: viewed before (>2 hours ago, <7 days ago) OR rink is saved
+      const key = `coldstart_viewed_${rinkId}`;
+      const prev = localStorage.getItem(key);
+      const savedRinks = JSON.parse(localStorage.getItem('coldstart_my_rinks') || '[]');
+      const isSaved = savedRinks.includes(rinkId);
+
+      if (prev) {
+        const prevDate = new Date(prev);
+        const hoursSince = (Date.now() - prevDate.getTime()) / (1000 * 60 * 60);
+        const daysSince = hoursSince / 24;
+        if (hoursSince > 2 && daysSince < 7) {
+          setShowReturnPrompt(true);
+        }
+      } else if (isSaved) {
+        // Saved rink, first detail visit — they might have just been there
+        setShowReturnPrompt(true);
+      }
+
+      localStorage.setItem(key, new Date().toISOString());
+    } catch {}
   }, [rinkId]);
 
   // Load nearby + signal seed data when rink detail is available
@@ -305,9 +615,180 @@ export default function RinkPage() {
           </div>
         )}
 
-        <RinkHeader rink={rink} rinkId={rinkId} verdict={summary.verdict} />
+        {/* ── Rink header — Glance View (mobile-first) ── */}
+        <section style={{ paddingTop: 24, paddingBottom: 0 }}>
+          {/* Row 1: Name + Save button — always visible */}
+          <div style={{ display: 'flex', alignItems: 'flex-start', justifyContent: 'space-between', gap: 12 }}>
+            <div style={{ flex: 1 }}>
+              <h1 style={{
+                fontSize: 'clamp(22px, 5vw, 36px)',
+                fontWeight: 700, color: '#111827',
+                lineHeight: 1.15, letterSpacing: -0.5, margin: 0,
+              }}>
+                {rink.name}
+              </h1>
+              <p style={{ fontSize: 13, color: '#6b7280', marginTop: 4, lineHeight: 1.4, margin: '4px 0 0' }}>
+                {rink.address}, {rink.city}, {rink.state}
+              </p>
+            </div>
+            <div style={{ flexShrink: 0, paddingTop: 4 }}>
+              <SaveRinkButton rinkId={rinkId} />
+            </div>
+          </div>
 
-        <VerdictCard rink={rink} summary={summary} loadedSignals={loadedSignals} />
+          {/* Verdict card — immediately after name */}
+          {hasData && (
+            <div style={{
+              background: getVerdictBg(summary.verdict),
+              border: `1px solid ${getVerdictColor(summary.verdict)}22`,
+              borderRadius: 12, padding: '14px 18px', marginTop: 14,
+            }}>
+              <p style={{
+                fontSize: 16, fontWeight: 700,
+                color: getVerdictColor(summary.verdict),
+                margin: 0, lineHeight: 1.3,
+              }}>
+                {summary.verdict}
+              </p>
+              <p style={{ fontSize: 11, color: '#6b7280', marginTop: 3, margin: '3px 0 0' }}>
+                From {summary.contribution_count} hockey parent{summary.contribution_count !== 1 ? 's' : ''}
+                {summary.last_updated_at && ` · Updated ${timeAgo(summary.last_updated_at)}`}
+              </p>
+            </div>
+          )}
+
+          {/* ── Top 3 Signals — ABOVE THE FOLD on mobile ── */}
+          {hasData && (() => {
+            const TOP_3 = ['parking', 'cold', 'food_nearby'];
+            const allSignals = ensureAllSignals(summary.signals, getRinkSlug(rink), loadedSignals);
+            const topSignals = TOP_3.map(key => allSignals.find(s => s.signal === key)).filter(Boolean) as Signal[];
+
+            return (
+              <div style={{
+                background: '#fff', border: '1px solid #e5e7eb',
+                borderRadius: 12, marginTop: 12, padding: '14px 18px',
+              }}>
+                <div style={{ display: 'flex', flexDirection: 'column', gap: 10 }}>
+                  {topSignals.map((s) => {
+                    const meta = SIGNAL_META[s.signal];
+                    const pct = Math.round(((s.value - 1) / 4) * 100);
+                    const barColor = s.value >= 3.5 ? '#0ea5e9' : s.value >= 2.5 ? '#f59e0b' : '#ef4444';
+                    return (
+                      <div key={s.signal} style={{ display: 'flex', alignItems: 'center', gap: 10 }}>
+                        <span style={{ fontSize: 16, width: 22, textAlign: 'center', flexShrink: 0 }}>{meta?.icon}</span>
+                        <span style={{ width: 56, flexShrink: 0, fontSize: 13, fontWeight: 600, color: '#374151' }}>
+                          {meta?.label?.split(' ')[0] || s.signal}
+                        </span>
+                        <div style={{ flex: 1, height: 6, background: '#f1f5f9', borderRadius: 3, overflow: 'hidden' }}>
+                          <div style={{ width: `${pct}%`, height: '100%', borderRadius: 3, background: barColor, transition: 'width 0.6s ease' }} />
+                        </div>
+                        <span style={{ width: 28, textAlign: 'right', fontWeight: 700, fontSize: 13, color: '#374151' }}>
+                          {s.value.toFixed(1)}
+                        </span>
+                      </div>
+                    );
+                  })}
+                </div>
+                {summary.tips.length > 0 && (
+                  <p style={{
+                    fontSize: 12, color: '#6b7280', lineHeight: 1.45, margin: '12px 0 0',
+                    fontStyle: 'italic', borderTop: '1px solid #f1f5f9', paddingTop: 10,
+                  }}>
+                    &ldquo;{summary.tips[0].text}&rdquo;
+                  </p>
+                )}
+              </div>
+            );
+          })()}
+
+          {/* ── Secondary info — below the fold ── */}
+          <div style={{ marginTop: 16, display: 'flex', flexDirection: 'column', gap: 8 }}>
+            {/* Streaming badge */}
+            {(() => {
+              const streaming = RINK_STREAMING[getRinkSlug(rink)];
+              if (!streaming || streaming.type === 'none') return null;
+              const isLiveBarn = streaming.type === 'livebarn';
+              return (
+                <a
+                  href={streaming.url}
+                  target="_blank"
+                  rel="noopener noreferrer"
+                  style={{
+                    display: 'inline-flex', alignItems: 'center', gap: 6,
+                    padding: '5px 12px', borderRadius: 8,
+                    background: isLiveBarn ? '#fff7ed' : '#f0f9ff',
+                    border: `1px solid ${isLiveBarn ? '#fed7aa' : '#bae6fd'}`,
+                    fontSize: 12, fontWeight: 600,
+                    color: isLiveBarn ? '#c2410c' : '#0369a1',
+                    textDecoration: 'none', cursor: 'pointer',
+                    alignSelf: 'flex-start',
+                  }}
+                >
+                  {isLiveBarn ? '📹 LiveBarn' : '🐻 BlackBear TV'}
+                  <span style={{ fontSize: 10, opacity: 0.7 }}>Watch live →</span>
+                </a>
+              );
+            })()}
+
+            {/* Home teams */}
+            {(() => {
+              const teams = RINK_HOME_TEAMS[getRinkSlug(rink)];
+              if (!teams || teams.length === 0) return null;
+              return (
+                <div style={{ fontSize: 12, color: '#6b7280' }}>
+                  🏠 Home of <span style={{ fontWeight: 600, color: '#374151' }}>{teams.join(', ')}</span>
+                </div>
+              );
+            })()}
+
+            {/* Action buttons — horizontal row */}
+            <div style={{ display: 'flex', gap: 8, flexWrap: 'wrap', marginTop: 4 }}>
+              <button
+                onClick={() => router.push(`/compare?rinks=${rinkId}`)}
+                style={{
+                  fontSize: 12, fontWeight: 600,
+                  color: '#6b7280', background: '#f9fafb',
+                  border: '1px solid #e5e7eb',
+                  borderRadius: 8, padding: '6px 14px', cursor: 'pointer',
+                  display: 'flex', alignItems: 'center', gap: 4,
+                }}
+              >
+                ⚖️ Compare
+              </button>
+              <button
+                onClick={() => router.push(`/trip/new?rink=${rinkId}`)}
+                style={{
+                  fontSize: 12, fontWeight: 600,
+                  color: '#6b7280', background: '#f9fafb',
+                  border: '1px solid #e5e7eb',
+                  borderRadius: 8, padding: '6px 14px', cursor: 'pointer',
+                  display: 'flex', alignItems: 'center', gap: 4,
+                }}
+              >
+                📋 Plan trip
+              </button>
+              <span
+                onClick={() => {
+                  const el = document.getElementById('claim-section');
+                  if (el) el.scrollIntoView({ behavior: 'smooth' });
+                }}
+                style={{ fontSize: 11, color: '#3b82f6', cursor: 'pointer', padding: '6px 0', display: 'flex', alignItems: 'center' }}
+              >
+                Claim this rink →
+              </span>
+            </div>
+          </div>
+        </section>
+
+        {/* ── Post-visit rating prompt ── */}
+        {showReturnPrompt && (
+          <ReturnRatingPrompt
+            rinkId={rinkId}
+            rinkName={rink.name}
+            onDismiss={() => setShowReturnPrompt(false)}
+            onSummaryUpdate={handleSummaryUpdate}
+          />
+        )}
 
         {/* Rate & Contribute */}
         <div id="contribute-section">
@@ -340,21 +821,6 @@ export default function RinkPage() {
         )}
 
         <TipsSection tips={summary.tips} rinkSlug={getRinkSlug(rink)} />
-
-        {/* Return visit prompt */}
-        {showReturnPrompt && (
-          <section style={{
-            background: 'linear-gradient(135deg, #eff6ff 0%, #faf5ff 100%)',
-            border: '1px solid #c7d2fe', borderRadius: 14, padding: '16px 20px', marginTop: 24,
-            display: 'flex', alignItems: 'center', justifyContent: 'space-between', gap: 12,
-          }}>
-            <div style={{ flex: 1 }}>
-              <p style={{ fontSize: 14, fontWeight: 600, color: '#4338ca', margin: 0 }}>Been to {rink.name}?</p>
-              <p style={{ fontSize: 12, color: colors.textTertiary, marginTop: 2 }}>You looked this up before — how was it?</p>
-            </div>
-            <button onClick={() => setShowReturnPrompt(false)} aria-label="Dismiss prompt" style={{ fontSize: 14, color: '#c7d2fe', background: 'none', border: 'none', cursor: 'pointer', flexShrink: 0 }}>✕</button>
-          </section>
-        )}
 
         {/* Nearby sections */}
         <div id="nearby-section">

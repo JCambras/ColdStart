@@ -15,8 +15,6 @@ interface SignalsSectionProps {
 }
 
 export function SignalsSection({ rink, summary, loadedSignals, signalFilter, onFilterChange }: SignalsSectionProps) {
-  if (summary.signals.length === 0) return null;
-
   const slug = getRinkSlug(rink);
   const allSignals = ensureAllSignals(summary.signals, slug, loadedSignals);
   const sorted = [...allSignals].sort((a, b) => {
@@ -69,15 +67,6 @@ export function SignalsSection({ rink, summary, loadedSignals, signalFilter, onF
           </div>
         ))}
       </div>
-      {signalFilter !== 'all' && (
-        <div style={{ padding: '8px 24px', background: signalFilter === 'tournament' ? colors.bgWarning : colors.bgInfo, borderTop: `1px solid ${colors.borderLight}` }}>
-          <p style={{ fontSize: 11, color: colors.textTertiary, margin: 0 }}>
-            {signalFilter === 'tournament'
-              ? '🏆 Showing tournament weekend ratings only. In production, this filters to ratings tagged as tournament.'
-              : '📅 Showing regular season ratings only. In production, this filters to ratings tagged as regular season.'}
-          </p>
-        </div>
-      )}
     </section>
   );
 }
