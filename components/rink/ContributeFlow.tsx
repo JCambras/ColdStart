@@ -228,7 +228,7 @@ export function RateAndContribute({ rinkId, rinkName, onSummaryUpdate }: { rinkI
           }}
           onMouseEnter={(e) => { if (!hasRated) e.currentTarget.style.borderColor = colors.brand; }}
           onMouseLeave={(e) => { if (!hasRated) e.currentTarget.style.borderColor = colors.borderDefault; }}>
-            {hasRated ? <><span>✓</span> Rated</> : <><span>📊</span> Rate it</>}
+            {hasRated ? <><span>✓</span> Rated</> : <><span>📊</span> Rate the rink</>}
           </button>
           <button onClick={() => startFlow('tip')} style={{
             flex: 1, padding: '16px 20px', background: colors.white, color: colors.textPrimary,

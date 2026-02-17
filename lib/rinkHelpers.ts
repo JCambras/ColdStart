@@ -41,8 +41,13 @@ export function ensureAllSignals(signals: Signal[], rinkSlug: string, loadedSign
   const seeded = SEEDED_SIGNALS[rinkSlug] || loadedSignals || {};
   const result = [...signals];
   for (const key of allKeys) {
-    if (!existing.has(key) && seeded[key]) {
-      result.push({ signal: key, ...seeded[key] });
+    if (!existing.has(key)) {
+      if (seeded[key]) {
+        result.push({ signal: key, ...seeded[key] });
+      } else {
+        // Always show all 7 — placeholder for missing data
+        result.push({ signal: key, value: 0, count: 0, confidence: 0 });
+      }
     }
   }
   return result;

@@ -2,7 +2,8 @@
 
 import { useState, useEffect } from 'react';
 import { NearbyPlace } from '../../lib/seedData';
-import { storage, FanFavorite } from '../../lib/storage';
+import { storage, FanFavorite, PlaceSuggestion } from '../../lib/storage';
+import { useAuth } from '../../contexts/AuthContext';
 import { colors, text, radius } from '../../lib/theme';
 
 const FAN_FAV_CATEGORIES = ['Quick bite', 'Coffee', 'Team lunch', 'Dinner', 'Other'] as const;
@@ -13,6 +14,143 @@ export interface NearbyCategory {
   description: string;
   places: NearbyPlace[];
   partnerPlaces?: NearbyPlace[];
+}
+
+// Sanitize place names for storage keys
+function cleanName(name: string) {
+  return name.replace(/[^a-zA-Z0-9]/g, '_');
+}
+
+// ── Compact vote buttons for a place ──
+function PlaceVoteButtons({ rinkSlug, placeName, score, userVote, onVote }: {
+  rinkSlug: string;
+  placeName: string;
+  score: number;
+  userVote: 'up' | 'down' | null;
+  onVote: (direction: 'up' | 'down') => void;
+}) {
+  return (
+    <div style={{ display: 'flex', alignItems: 'center', gap: 2, flexShrink: 0 }} onClick={(e) => e.preventDefault()}>
+      <button
+        onClick={(e) => { e.preventDefault(); e.stopPropagation(); onVote('up'); }}
+        style={{
+          background: 'none', border: 'none', cursor: 'pointer', padding: '2px 4px',
+          fontSize: 12, lineHeight: 1,
+          color: userVote === 'up' ? colors.brand : colors.textDisabled,
+          transition: 'color 0.15s',
+        }}
+        title="Thumbs up"
+      >👍</button>
+      <span style={{
+        fontSize: text.xs, fontWeight: 700, lineHeight: 1, minWidth: 16, textAlign: 'center',
+        color: score > 0 ? colors.textPrimary : score < 0 ? colors.error : colors.textMuted,
+      }}>{score}</span>
+      <button
+        onClick={(e) => { e.preventDefault(); e.stopPropagation(); onVote('down'); }}
+        style={{
+          background: 'none', border: 'none', cursor: 'pointer', padding: '2px 4px',
+          fontSize: 12, lineHeight: 1,
+          color: userVote === 'down' ? colors.error : colors.textDisabled,
+          transition: 'color 0.15s',
+        }}
+        title="Thumbs down"
+      >👎</button>
+    </div>
+  );
+}
+
+// ── Suggest a place form ──
+function SuggestPlaceForm({ rinkSlug, categoryKey, onSubmit }: {
+  rinkSlug: string;
+  categoryKey: string;
+  onSubmit: () => void;
+}) {
+  const [open, setOpen] = useState(false);
+  const [name, setName] = useState('');
+  const [comment, setComment] = useState('');
+
+  function handleSubmit() {
+    if (!name.trim()) return;
+    const user = storage.getCurrentUser();
+    const suggestion: PlaceSuggestion = {
+      name: name.trim(),
+      comment: comment.trim(),
+      author: user?.name || 'Hockey parent',
+      date: new Date().toISOString(),
+    };
+    const existing = storage.getPlaceSuggestions(rinkSlug, categoryKey);
+    storage.setPlaceSuggestions(rinkSlug, categoryKey, [...existing, suggestion]);
+    setName('');
+    setComment('');
+    setOpen(false);
+    onSubmit();
+  }
+
+  if (!open) {
+    return (
+      <button
+        onClick={() => setOpen(true)}
+        style={{
+          marginTop: 10, fontSize: text.sm, fontWeight: 500,
+          color: colors.brand, background: 'none', border: `1px dashed ${colors.brandLight}`,
+          borderRadius: radius.md, padding: '8px 14px', cursor: 'pointer',
+          width: '100%',
+        }}
+      >
+        + Suggest a place
+      </button>
+    );
+  }
+
+  return (
+    <div style={{
+      marginTop: 10, padding: '12px', borderRadius: radius.lg,
+      background: colors.white, border: `1px solid ${colors.borderMedium}`,
+    }}>
+      <input
+        value={name}
+        onChange={(e) => setName(e.target.value)}
+        placeholder="e.g. Tony's Pizza"
+        autoFocus
+        style={{
+          width: '100%', padding: '8px 10px', fontSize: text.sm,
+          border: `1px solid ${colors.borderDefault}`, borderRadius: radius.md,
+          outline: 'none', boxSizing: 'border-box',
+        }}
+      />
+      <input
+        value={comment}
+        onChange={(e) => setComment(e.target.value.slice(0, 140))}
+        placeholder="What makes it great? (optional)"
+        style={{
+          width: '100%', padding: '8px 10px', fontSize: text.sm, marginTop: 8,
+          border: `1px solid ${colors.borderDefault}`, borderRadius: radius.md,
+          outline: 'none', boxSizing: 'border-box',
+        }}
+        onKeyDown={(e) => e.key === 'Enter' && handleSubmit()}
+      />
+      <div style={{ display: 'flex', gap: 8, marginTop: 8 }}>
+        <button
+          onClick={handleSubmit}
+          disabled={!name.trim()}
+          style={{
+            fontSize: text.sm, fontWeight: 600, color: colors.white,
+            background: name.trim() ? colors.brand : colors.textDisabled,
+            border: 'none', borderRadius: radius.md, padding: '8px 16px',
+            cursor: name.trim() ? 'pointer' : 'default',
+          }}
+        >
+          Submit
+        </button>
+        <button
+          onClick={() => { setOpen(false); setName(''); setComment(''); }}
+          style={{ fontSize: text.sm, color: colors.textMuted, background: 'none', border: 'none', cursor: 'pointer' }}
+        >
+          Cancel
+        </button>
+      </div>
+    </div>
+  );
 }
 
 function FanFavoritesCategory({ rinkSlug, expanded, onToggle }: { rinkSlug: string; expanded: boolean; onToggle: () => void }) {
@@ -186,36 +324,146 @@ function FanFavoritesCategory({ rinkSlug, expanded, onToggle }: { rinkSlug: stri
   );
 }
 
+// Unified type for rendering both data places and community suggestions
+interface PlaceEntry {
+  name: string;
+  distance?: string;
+  url?: string;
+  isPartner?: boolean;
+  partnerNote?: string;
+  isFar?: boolean;
+  isSuggestion?: boolean;
+  suggestionComment?: string;
+  suggestionAuthor?: string;
+}
+
 export function NearbySection({ title, icon, categories, rinkSlug, fanFavorites }: { title: string; icon: string; categories: NearbyCategory[]; rinkSlug: string; fanFavorites?: boolean }) {
+  const { isLoggedIn, openAuth } = useAuth();
   const [expanded, setExpanded] = useState<string | null>(null);
   const [tipOpen, setTipOpen] = useState<string | null>(null);
   const [tipText, setTipText] = useState('');
   const [tipSaved, setTipSaved] = useState<string | null>(null);
   const [placeTips, setPlaceTips] = useState<Record<string, { text: string; author: string; date: string }[]>>({});
+  // Vote state: keyed by sanitized place name
+  const [placeVotes, setPlaceVotes] = useState<Record<string, { vote: string | null; score: number }>>({});
+  // Suggestion refresh counter
+  const [suggestRefresh, setSuggestRefresh] = useState(0);
 
   useEffect(() => {
     setPlaceTips(storage.getAllPlaceTips(rinkSlug));
   }, [rinkSlug, tipSaved]);
 
+  // Load votes for all places across all categories + suggestions
+  useEffect(() => {
+    const votes: Record<string, { vote: string | null; score: number }> = {};
+    categories.forEach((cat, catIdx) => {
+      // Load votes for data places
+      cat.places.forEach((p, j) => {
+        const key = cleanName(p.name);
+        const saved = storage.getPlaceVote(rinkSlug, key);
+        if (saved.vote !== null || saved.score !== 0) {
+          votes[key] = saved;
+        } else {
+          // Seed default scores
+          const seeded = j === 0 ? 5 : j === 1 ? 3 : Math.floor(Math.random() * 3) + 1;
+          votes[key] = { vote: null, score: seeded };
+        }
+      });
+      // Load votes for suggestions
+      const catKey = cleanName(cat.label);
+      const suggestions = storage.getPlaceSuggestions(rinkSlug, catKey);
+      suggestions.forEach((s) => {
+        const key = cleanName(s.name);
+        const saved = storage.getPlaceVote(rinkSlug, key);
+        if (saved.vote !== null || saved.score !== 0) {
+          votes[key] = saved;
+        } else {
+          votes[key] = { vote: null, score: 1 };
+        }
+      });
+    });
+    setPlaceVotes(votes);
+  // eslint-disable-next-line react-hooks/exhaustive-deps
+  }, [rinkSlug, suggestRefresh]);
+
+  function handlePlaceVote(placeName: string, direction: 'up' | 'down') {
+    if (!isLoggedIn) { openAuth(); return; }
+    const key = cleanName(placeName);
+    const current = placeVotes[key] || { vote: null, score: 0 };
+    let newVote: string | null = direction;
+    let newScore = current.score;
+
+    if (current.vote === direction) {
+      newVote = null;
+      newScore += direction === 'up' ? -1 : 1;
+    } else if (current.vote === null) {
+      newScore += direction === 'up' ? 1 : -1;
+    } else {
+      newScore += direction === 'up' ? 2 : -2;
+    }
+
+    const updated = { vote: newVote, score: newScore };
+    storage.setPlaceVote(rinkSlug, key, updated);
+    setPlaceVotes(prev => ({ ...prev, [key]: updated }));
+  }
+
+  function getVoteData(placeName: string) {
+    const key = cleanName(placeName);
+    return placeVotes[key] || { vote: null, score: 0 };
+  }
+
   function submitPlaceTip(placeName: string) {
+    if (!isLoggedIn) { openAuth(); return; }
     if (!tipText.trim()) return;
-    const cleanName = placeName.replace(/[^a-zA-Z0-9]/g, '_');
-    const existing = storage.getPlaceTips(rinkSlug, cleanName);
+    const cn = cleanName(placeName);
+    const existing = storage.getPlaceTips(rinkSlug, cn);
     const user = storage.getCurrentUser();
     existing.push({
       text: tipText.trim(),
       author: user?.name || 'Hockey parent',
       date: new Date().toISOString(),
     });
-    storage.setPlaceTips(rinkSlug, cleanName, existing);
+    storage.setPlaceTips(rinkSlug, cn, existing);
     setTipText('');
     setTipOpen(null);
     setTipSaved(placeName + Date.now());
   }
 
-  function getPlaceTips(placeName: string): { text: string; author: string; date: string }[] {
-    const cleanName = placeName.replace(/[^a-zA-Z0-9]/g, '_');
-    return placeTips[cleanName] || [];
+  function getPlaceTipsFor(placeName: string): { text: string; author: string; date: string }[] {
+    const cn = cleanName(placeName);
+    return placeTips[cn] || [];
+  }
+
+  // Build sorted place list for a category (data places + suggestions, sorted by votes)
+  function getSortedEntries(cat: NearbyCategory): PlaceEntry[] {
+    const catKey = cleanName(cat.label);
+    const suggestions = storage.getPlaceSuggestions(rinkSlug, catKey);
+
+    const entries: PlaceEntry[] = [
+      ...cat.places.map(p => ({
+        name: p.name,
+        distance: p.distance,
+        url: p.url,
+        isPartner: p.isPartner,
+        partnerNote: p.partnerNote,
+        isFar: p.isFar,
+      })),
+      ...suggestions.map(s => ({
+        name: s.name,
+        isSuggestion: true,
+        suggestionComment: s.comment,
+        suggestionAuthor: s.author,
+      })),
+    ];
+
+    // Sort by vote score descending
+    entries.sort((a, b) => {
+      const scoreA = getVoteData(a.name).score;
+      const scoreB = getVoteData(b.name).score;
+      return scoreB - scoreA;
+    });
+
+    return entries;
   }
 
   return (
@@ -241,7 +489,13 @@ export function NearbySection({ title, icon, categories, rinkSlug, fanFavorites 
             <div style={{ height: 1, background: colors.borderLight }} />
           </>
         )}
-        {categories.map((cat, i) => (
+        {categories.map((cat, i) => {
+          const sortedEntries = expanded === cat.label ? getSortedEntries(cat) : [];
+          const catKey = cleanName(cat.label);
+          const suggestionCount = expanded === cat.label ? storage.getPlaceSuggestions(rinkSlug, catKey).length : 0;
+          const totalCount = cat.places.length + suggestionCount;
+
+          return (
           <div key={cat.label}>
             <div
               onClick={() => setExpanded(expanded === cat.label ? null : cat.label)}
@@ -260,7 +514,7 @@ export function NearbySection({ title, icon, categories, rinkSlug, fanFavorites 
                   <div style={{ fontSize: text.base, fontWeight: 600, color: colors.textPrimary }}>
                     {cat.label}
                     <span style={{ fontSize: text.sm, fontWeight: 400, color: colors.textMuted, marginLeft: 6 }}>
-                      {cat.places.length} spot{cat.places.length !== 1 ? 's' : ''}
+                      {totalCount} spot{totalCount !== 1 ? 's' : ''}
                     </span>
                   </div>
                   <div style={{ fontSize: text.sm, color: colors.textMuted, marginTop: 1 }}>{cat.description}</div>
@@ -285,58 +539,105 @@ export function NearbySection({ title, icon, categories, rinkSlug, fanFavorites 
                     ⚠️ Limited options nearby — these are further from the rink
                   </div>
                 )}
-                {cat.places.map((place, j) => {
-                  const placeKey = `${cat.label}::${place.name}`;
-                  const tips = getPlaceTips(place.name);
+                {sortedEntries.map((entry, j) => {
+                  const placeKey = `${cat.label}::${entry.name}`;
+                  const tips = getPlaceTipsFor(entry.name);
+                  const voteData = getVoteData(entry.name);
+
                   return (
-                  <div key={j} style={{ marginTop: 8 }}>
-                    <a
-                      href={place.url}
-                      target="_blank"
-                      rel="noopener noreferrer"
-                      style={{
-                        display: 'block',
+                  <div key={`${entry.name}-${j}`} style={{ marginTop: 8 }}>
+                    {entry.isSuggestion ? (
+                      // Community suggestion card (no maps link)
+                      <div style={{
                         padding: '10px 12px', borderRadius: radius.lg,
-                        background: place.isPartner ? colors.bgWarning : colors.white,
-                        border: `1px solid ${place.isPartner ? colors.warningBorder : colors.borderDefault}`,
-                        textDecoration: 'none',
-                        transition: 'border-color 0.15s', cursor: 'pointer',
-                      }}
-                      onMouseEnter={(e) => { (e.currentTarget as HTMLElement).style.borderColor = colors.brand; }}
-                      onMouseLeave={(e) => { (e.currentTarget as HTMLElement).style.borderColor = place.isPartner ? colors.warningBorder : colors.borderDefault; }}
-                    >
-                      <div style={{ display: 'flex', alignItems: 'center', justifyContent: 'space-between' }}>
-                        <div style={{ display: 'flex', alignItems: 'center', gap: 8 }}>
-                          <div style={{ fontSize: text.md, fontWeight: 500, color: colors.textPrimary }}>{place.name}</div>
-                          {place.isPartner && (
+                        background: colors.white, border: `1px solid ${colors.borderDefault}`,
+                      }}>
+                        <div style={{ display: 'flex', alignItems: 'center', justifyContent: 'space-between' }}>
+                          <div style={{ display: 'flex', alignItems: 'center', gap: 8 }}>
+                            <div style={{ fontSize: text.md, fontWeight: 500, color: colors.textPrimary }}>{entry.name}</div>
                             <span style={{
                               fontSize: 9, fontWeight: 600, padding: '2px 6px', borderRadius: 4,
-                              background: '#fef3c7', color: colors.amberDark, textTransform: 'uppercase', letterSpacing: 0.5,
+                              background: colors.brandBg, color: colors.brandDark, textTransform: 'uppercase', letterSpacing: 0.5,
                             }}>
-                              Rink pick
+                              Community pick
                             </span>
-                          )}
-                          {place.isFar && !place.isPartner && (
-                            <span style={{
-                              fontSize: 9, fontWeight: 500, padding: '2px 6px', borderRadius: 4,
-                              background: colors.bgError, color: '#991b1b',
-                            }}>
-                              drive
-                            </span>
-                          )}
+                          </div>
+                          <PlaceVoteButtons
+                            rinkSlug={rinkSlug}
+                            placeName={entry.name}
+                            score={voteData.score}
+                            userVote={voteData.vote as 'up' | 'down' | null}
+                            onVote={(dir) => handlePlaceVote(entry.name, dir)}
+                          />
                         </div>
-                        <div style={{ display: 'flex', alignItems: 'center', gap: 8 }}>
-                          {place.distance && <span style={{ fontSize: text.xs, color: place.isFar ? colors.amber : colors.textMuted }}>{place.distance}</span>}
-                          <span style={{ fontSize: text.xs, color: colors.brand, fontWeight: 500 }}>→</span>
-                        </div>
+                        {entry.suggestionComment && (
+                          <div style={{ fontSize: text.sm, color: colors.textSecondary, marginTop: 4, fontStyle: 'italic' }}>
+                            &ldquo;{entry.suggestionComment}&rdquo;
+                          </div>
+                        )}
+                        {entry.suggestionAuthor && (
+                          <div style={{ fontSize: text.xs, color: colors.textMuted, marginTop: 2 }}>
+                            — {entry.suggestionAuthor}
+                          </div>
+                        )}
                       </div>
-                      {place.isPartner && place.partnerNote && (
-                        <div style={{ fontSize: text.xs, color: colors.amberDark, marginTop: 4, fontStyle: 'italic' }}>
-                          {place.partnerNote}
+                    ) : (
+                      // Standard place card with maps link
+                      <a
+                        href={entry.url}
+                        target="_blank"
+                        rel="noopener noreferrer"
+                        style={{
+                          display: 'block',
+                          padding: '10px 12px', borderRadius: radius.lg,
+                          background: entry.isPartner ? colors.bgWarning : colors.white,
+                          border: `1px solid ${entry.isPartner ? colors.warningBorder : colors.borderDefault}`,
+                          textDecoration: 'none',
+                          transition: 'border-color 0.15s', cursor: 'pointer',
+                        }}
+                        onMouseEnter={(e) => { (e.currentTarget as HTMLElement).style.borderColor = colors.brand; }}
+                        onMouseLeave={(e) => { (e.currentTarget as HTMLElement).style.borderColor = entry.isPartner ? colors.warningBorder : colors.borderDefault; }}
+                      >
+                        <div style={{ display: 'flex', alignItems: 'center', justifyContent: 'space-between' }}>
+                          <div style={{ display: 'flex', alignItems: 'center', gap: 8 }}>
+                            <div style={{ fontSize: text.md, fontWeight: 500, color: colors.textPrimary }}>{entry.name}</div>
+                            {entry.isPartner && (
+                              <span style={{
+                                fontSize: 9, fontWeight: 600, padding: '2px 6px', borderRadius: 4,
+                                background: '#fef3c7', color: colors.amberDark, textTransform: 'uppercase', letterSpacing: 0.5,
+                              }}>
+                                Rink pick
+                              </span>
+                            )}
+                            {entry.isFar && !entry.isPartner && (
+                              <span style={{
+                                fontSize: 9, fontWeight: 500, padding: '2px 6px', borderRadius: 4,
+                                background: colors.bgError, color: '#991b1b',
+                              }}>
+                                drive
+                              </span>
+                            )}
+                          </div>
+                          <div style={{ display: 'flex', alignItems: 'center', gap: 8 }}>
+                            {entry.distance && <span style={{ fontSize: text.xs, color: entry.isFar ? colors.amber : colors.textMuted }}>{entry.distance}</span>}
+                            <PlaceVoteButtons
+                              rinkSlug={rinkSlug}
+                              placeName={entry.name}
+                              score={voteData.score}
+                              userVote={voteData.vote as 'up' | 'down' | null}
+                              onVote={(dir) => handlePlaceVote(entry.name, dir)}
+                            />
+                            <span style={{ fontSize: text.xs, color: colors.brand, fontWeight: 500 }}>→</span>
+                          </div>
                         </div>
-                      )}
-                    </a>
-                    {/* Parent tips for this place */}
+                        {entry.isPartner && entry.partnerNote && (
+                          <div style={{ fontSize: text.xs, color: colors.amberDark, marginTop: 4, fontStyle: 'italic' }}>
+                            {entry.partnerNote}
+                          </div>
+                        )}
+                      </a>
+                    )}
+                    {/* Parent comments for this place */}
                     {tips.length > 0 && (
                       <div style={{ marginTop: 4, marginLeft: 8 }}>
                         {tips.map((tip, ti) => (
@@ -351,14 +652,14 @@ export function NearbySection({ title, icon, categories, rinkSlug, fanFavorites 
                         ))}
                       </div>
                     )}
-                    {/* Add a tip button */}
+                    {/* Add a comment button */}
                     {tipOpen === placeKey ? (
                       <div style={{ marginTop: 6, marginLeft: 8, display: 'flex', gap: 6 }}>
                         <input
                           value={tipText}
                           onChange={(e) => setTipText(e.target.value)}
-                          onKeyDown={(e) => e.key === 'Enter' && submitPlaceTip(place.name)}
-                          placeholder="E.g. &quot;Call ahead for 20+&quot;"
+                          onKeyDown={(e) => e.key === 'Enter' && submitPlaceTip(entry.name)}
+                          placeholder='E.g. "Great for big groups"'
                           autoFocus
                           style={{
                             flex: 1, padding: '6px 10px', fontSize: text.sm,
@@ -366,7 +667,7 @@ export function NearbySection({ title, icon, categories, rinkSlug, fanFavorites 
                           }}
                         />
                         <button
-                          onClick={() => submitPlaceTip(place.name)}
+                          onClick={() => submitPlaceTip(entry.name)}
                           style={{
                             fontSize: text.xs, fontWeight: 600, color: colors.white,
                             background: tipText.trim() ? colors.brand : colors.textDisabled,
@@ -384,24 +685,31 @@ export function NearbySection({ title, icon, categories, rinkSlug, fanFavorites 
                       </div>
                     ) : (
                       <button
-                        onClick={(e) => { e.preventDefault(); setTipOpen(placeKey); setTipText(''); }}
+                        onClick={(e) => { e.preventDefault(); if (!isLoggedIn) { openAuth(); return; } setTipOpen(placeKey); setTipText(''); }}
                         style={{
                           marginTop: 4, marginLeft: 8, fontSize: text.xs, fontWeight: 500,
                           color: colors.brand, background: 'none', border: 'none',
                           cursor: 'pointer', padding: '2px 0',
                         }}
                       >
-                        💬 Add a tip
+                        💬 Add a comment
                       </button>
                     )}
                   </div>
                   );
                 })}
+                {/* Suggest a place */}
+                <SuggestPlaceForm
+                  rinkSlug={rinkSlug}
+                  categoryKey={catKey}
+                  onSubmit={() => setSuggestRefresh(prev => prev + 1)}
+                />
               </div>
             )}
             {i < categories.length - 1 && <div style={{ height: 1, background: colors.borderLight }} />}
           </div>
-        ))}
+          );
+        })}
       </div>
     </section>
   );

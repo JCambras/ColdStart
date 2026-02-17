@@ -9,19 +9,20 @@ import { colors, text, radius } from '../../lib/theme';
 
 export function SignalBar({ signal, rinkSlug }: { signal: Signal; rinkSlug: string }) {
   const meta = SIGNAL_META[signal.signal] || { label: signal.signal, icon: '', lowLabel: '1', highLabel: '5', info: '' };
-  const pct = Math.round(((signal.value - 1) / 4) * 100);
-  const color = getBarColor(signal.value);
+  const noData = signal.count === 0;
+  const pct = noData ? 0 : Math.round(((signal.value - 1) / 4) * 100);
+  const color = noData ? colors.textMuted : getBarColor(signal.value);
   const [expanded, setExpanded] = useState(false);
   const facilityDetail = FACILITY_DETAILS[rinkSlug]?.[signal.signal];
 
   return (
     <div
-      style={{ padding: '14px 0', cursor: 'pointer' }}
+      style={{ padding: '14px 0', cursor: 'pointer', opacity: noData ? 0.6 : 1 }}
       onClick={() => setExpanded(!expanded)}
     >
       <div style={{ display: 'flex', justifyContent: 'space-between', alignItems: 'center', marginBottom: 8 }}>
         <div style={{ display: 'flex', alignItems: 'center', gap: 6 }}>
-          <span style={{ fontSize: text.base, fontWeight: 500, color: colors.textSecondary }}>
+          <span style={{ fontSize: text.base, fontWeight: 500, color: noData ? colors.textMuted : colors.textSecondary }}>
             {meta.icon} {meta.label}
           </span>
           <span style={{
@@ -33,24 +34,30 @@ export function SignalBar({ signal, rinkSlug }: { signal: Signal; rinkSlug: stri
           </span>
         </div>
         <div style={{ display: 'flex', alignItems: 'center', gap: 8 }}>
-          <span style={{ fontSize: 22, fontWeight: 700, color }}>{signal.value.toFixed(1)}</span>
-          <span style={{ fontSize: text.xs, color: colors.textMuted }}>/5</span>
+          {noData ? (
+            <span style={{ fontSize: text.sm, fontWeight: 500, color: colors.textMuted, fontStyle: 'italic' }}>—</span>
+          ) : (
+            <>
+              <span style={{ fontSize: 22, fontWeight: 700, color }}>{signal.value.toFixed(1)}</span>
+              <span style={{ fontSize: text.xs, color: colors.textMuted }}>/5</span>
+            </>
+          )}
         </div>
       </div>
       <div style={{ height: 10, background: colors.borderLight, borderRadius: 5, overflow: 'hidden' }}>
         <div style={{
-          width: `${pct}%`,
+          width: noData ? '100%' : `${pct}%`,
           height: '100%',
           borderRadius: 5,
-          background: color,
+          background: noData ? colors.borderLight : color,
           transition: 'width 0.8s ease',
         }} />
       </div>
       {!expanded && (
         <div style={{ display: 'flex', justifyContent: 'space-between', marginTop: 4 }}>
           <span style={{ fontSize: text['2xs'], color: colors.textMuted }}>{meta.lowLabel}</span>
-          <span style={{ fontSize: text.sm, fontWeight: 600, color: colors.textSecondary }}>
-            {signal.count} rating{signal.count !== 1 ? 's' : ''}
+          <span style={{ fontSize: text.sm, fontWeight: noData ? 400 : 600, color: colors.textMuted, fontStyle: noData ? 'italic' : 'normal' }}>
+            {noData ? 'No ratings yet' : `${signal.count} rating${signal.count !== 1 ? 's' : ''}`}
           </span>
           <span style={{ fontSize: text['2xs'], color: colors.textMuted }}>{meta.highLabel}</span>
         </div>
@@ -59,11 +66,15 @@ export function SignalBar({ signal, rinkSlug }: { signal: Signal; rinkSlug: stri
         <div style={{ marginTop: 8 }}>
           <div style={{ display: 'flex', justifyContent: 'space-between', marginBottom: 8 }}>
             <span style={{ fontSize: text['2xs'], color: colors.textMuted }}>← {meta.lowLabel}</span>
-            <span style={{ fontSize: text.sm, fontWeight: 600, color: colors.textSecondary }}>
-              {signal.count} rating{signal.count !== 1 ? 's' : ''}
-              <span style={{ fontSize: text['2xs'], fontWeight: 400, color: colors.textMuted, marginLeft: 6 }}>
-                {Math.round(signal.confidence * 100)}% confident
-              </span>
+            <span style={{ fontSize: text.sm, fontWeight: noData ? 400 : 600, color: noData ? colors.textMuted : colors.textSecondary, fontStyle: noData ? 'italic' : 'normal' }}>
+              {noData ? 'No ratings yet' : (
+                <>
+                  {signal.count} rating{signal.count !== 1 ? 's' : ''}
+                  <span style={{ fontSize: text['2xs'], fontWeight: 400, color: colors.textMuted, marginLeft: 6 }}>
+                    {Math.round(signal.confidence * 100)}% confident
+                  </span>
+                </>
+              )}
             </span>
             <span style={{ fontSize: text['2xs'], color: colors.textMuted }}>{meta.highLabel} →</span>
           </div>

@@ -8,6 +8,13 @@ export interface FanFavorite {
   date: string;
 }
 
+export interface PlaceSuggestion {
+  name: string;
+  comment: string;
+  author: string;
+  date: string;
+}
+
 // ── Core helpers — all try/catch in one place ──
 
 function getJSON<T>(key: string, fallback: T): T {
@@ -110,6 +117,18 @@ export const storage = {
   // Fan favorites seeded flag
   getFanFavsSeeded: () => getJSON<string | null>('coldstart_fan_favs_seeded', null),
   setFanFavsSeeded: (v: string) => setJSON('coldstart_fan_favs_seeded', v),
+
+  // Place suggestions per category
+  getPlaceSuggestions: (slug: string, category: string) =>
+    getJSON<PlaceSuggestion[]>(`coldstart_suggestions_${slug}_${category}`, []),
+  setPlaceSuggestions: (slug: string, category: string, s: PlaceSuggestion[]) =>
+    setJSON(`coldstart_suggestions_${slug}_${category}`, s),
+
+  // Place votes (thumbs up/down)
+  getPlaceVote: (slug: string, place: string) =>
+    getJSON<{ vote: string | null; score: number }>(`coldstart_place_vote_${slug}_${place}`, { vote: null, score: 0 }),
+  setPlaceVote: (slug: string, place: string, v: { vote: string | null; score: number }) =>
+    setJSON(`coldstart_place_vote_${slug}_${place}`, v),
 
   // All place tips for a rink (enumerate by scanning localStorage)
   getAllPlaceTips: (rinkSlug: string) => {

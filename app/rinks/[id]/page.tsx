@@ -846,16 +846,16 @@ export default function RinkPage() {
         {/* Nearby sections */}
         <div id="nearby-section">
           <NearbySection title="Places to eat" icon="🍽️" rinkSlug={getRinkSlug(rink)} fanFavorites categories={[
-            { label: 'Quick bite', icon: '🥯', description: 'Diners, bagel shops, fast casual', places: getNearbyPlaces(rink, 'quick_bite', nearbyData) },
-            { label: 'Good coffee', icon: '☕', description: 'Coffee shops nearby', places: getNearbyPlaces(rink, 'coffee', nearbyData) },
-            { label: 'Team lunch', icon: '🍕', description: 'Casual chains and group-friendly spots', places: getNearbyPlaces(rink, 'team_lunch', nearbyData) },
-            { label: 'Post-game dinner', icon: '🍝', description: 'Family sit-downs after the game', places: getNearbyPlaces(rink, 'dinner', nearbyData) },
+            { label: 'Quick bite', icon: '🥯', description: 'Grab & go before the game — bagels, donuts, drive-throughs. Think Wawa run at 6am.', places: getNearbyPlaces(rink, 'quick_bite', nearbyData) },
+            { label: 'Good coffee', icon: '☕', description: 'A real coffee while you wait for warmups. Not the vending machine in the lobby.', places: getNearbyPlaces(rink, 'coffee', nearbyData) },
+            { label: 'Team lunch', icon: '🍕', description: 'Where you take 15 kids in hockey gear between games. Needs big tables and patience.', places: getNearbyPlaces(rink, 'team_lunch', nearbyData) },
+            { label: 'Post-game dinner', icon: '🍝', description: 'Sit-down spot after the last game. Somewhere the parents can finally relax.', places: getNearbyPlaces(rink, 'dinner', nearbyData) },
           ]} />
           <NearbySection title="Team activities" icon="🎳" rinkSlug={getRinkSlug(rink)} categories={[
-            { label: 'Bowling', icon: '🎳', description: 'Bowling alleys nearby', places: getNearbyPlaces(rink, 'bowling', nearbyData) },
-            { label: 'Arcade', icon: '🕹️', description: 'Arcades and game centers', places: getNearbyPlaces(rink, 'arcade', nearbyData) },
-            { label: 'Movies', icon: '🎬', description: 'Movie theaters nearby', places: getNearbyPlaces(rink, 'movies', nearbyData) },
-            { label: 'Fun zone', icon: '🎢', description: 'Trampoline parks, laser tag, etc.', places: getNearbyPlaces(rink, 'fun', nearbyData) },
+            { label: 'Bowling', icon: '🎳', description: 'Classic team bonding night. Book lanes ahead on tournament weekends.', places: getNearbyPlaces(rink, 'bowling', nearbyData) },
+            { label: 'Arcade', icon: '🕹️', description: 'Burn off energy between games. Dave & Busters, Round1, local spots.', places: getNearbyPlaces(rink, 'arcade', nearbyData) },
+            { label: 'Movies', icon: '🎬', description: 'Kill 2 hours between a 9am and 3pm game. Popcorn counts as a meal.', places: getNearbyPlaces(rink, 'movies', nearbyData) },
+            { label: 'Fun zone', icon: '🎢', description: 'Trampoline parks, laser tag, go-karts — the stuff kids actually want to do.', places: getNearbyPlaces(rink, 'fun', nearbyData) },
           ]} />
           <NearbySection title="Where to stay" icon="🏨" rinkSlug={getRinkSlug(rink)} categories={[
             { label: 'Hotels nearby', icon: '🏨', description: 'Within 10 minutes of the rink', places: getNearbyPlaces(rink, 'hotels', nearbyData) },

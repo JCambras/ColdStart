@@ -15,9 +15,23 @@ interface AuthModalProps {
 export function AuthModal({ isOpen, onClose, onSuccess }: AuthModalProps) {
   const [mode, setMode] = useState<'signin' | 'signup'>('signin');
   const [email, setEmail] = useState('');
+  const [password, setPassword] = useState('');
   const [name, setName] = useState('');
   const [sending, setSending] = useState(false);
   const [sent, setSent] = useState(false);
+  const [error, setError] = useState('');
+
+  // Reset state when modal opens
+  useEffect(() => {
+    if (isOpen) {
+      setEmail('');
+      setPassword('');
+      setName('');
+      setError('');
+      setSent(false);
+      setMode('signin');
+    }
+  }, [isOpen]);
 
   // Focus trap and auto-focus
   useEffect(() => {
@@ -46,15 +60,30 @@ export function AuthModal({ isOpen, onClose, onSuccess }: AuthModalProps) {
   if (!isOpen) return null;
 
   function handleSubmit() {
-    if (!email.trim()) return;
+    if (!email.trim() || !password.trim()) return;
+    setError('');
     setSending(true);
     setTimeout(() => {
       const existing = storage.getProfiles();
       let profile = existing[email.toLowerCase()];
-      if (!profile) {
-        if (mode === 'signin') {
+
+      if (mode === 'signin') {
+        if (!profile) {
           setSending(false);
+          setError('No account found. Sign up below.');
           setMode('signup');
+          return;
+        }
+        // For demo: accept any password for existing accounts
+        storage.setCurrentUser(profile);
+        setSending(false);
+        setSent(true);
+        setTimeout(() => onSuccess(profile), 600);
+      } else {
+        if (profile) {
+          setSending(false);
+          setError('Account already exists. Sign in instead.');
+          setMode('signin');
           return;
         }
         profile = {
@@ -67,13 +96,15 @@ export function AuthModal({ isOpen, onClose, onSuccess }: AuthModalProps) {
         };
         existing[email.toLowerCase()] = profile;
         storage.setProfiles(existing);
+        storage.setCurrentUser(profile);
+        setSending(false);
+        setSent(true);
+        setTimeout(() => onSuccess(profile), 600);
       }
-      storage.setCurrentUser(profile);
-      setSending(false);
-      setSent(true);
-      setTimeout(() => onSuccess(profile), 600);
     }, 800);
   }
+
+  const canSubmit = email.trim() && password.trim() && (mode === 'signin' || name.trim());
 
   return (
     <div
@@ -104,12 +135,30 @@ export function AuthModal({ isOpen, onClose, onSuccess }: AuthModalProps) {
           </div>
         ) : (
           <>
+            {/* Apple logo + branding */}
             <div style={{ textAlign: 'center', marginBottom: 24 }}>
-              <Logo size={28} />
-              <p id="auth-modal-title" style={{ fontSize: text.lg, color: colors.textTertiary, marginTop: 8, margin: '8px 0 0' }}>
-                {mode === 'signin' ? 'Sign in to your account' : 'Create your account'}
+              <div style={{ fontSize: 40, marginBottom: 8 }}></div>
+              <p id="auth-modal-title" style={{
+                fontSize: 20, fontWeight: 600, color: colors.textPrimary, margin: 0,
+              }}>
+                {mode === 'signin' ? 'Log in with your Apple Account' : 'Create your Apple Account'}
+              </p>
+              <p style={{ fontSize: text.sm, color: colors.textTertiary, marginTop: 6, margin: '6px 0 0' }}>
+                {mode === 'signin'
+                  ? 'Use your email and password to sign in.'
+                  : 'Set up a new account to get started.'}
               </p>
             </div>
+
+            {error && (
+              <div style={{
+                padding: '8px 12px', marginBottom: 12, borderRadius: radius.md,
+                background: '#fef2f2', border: '1px solid #fecaca',
+                fontSize: text.sm, color: '#991b1b',
+              }}>
+                {error}
+              </div>
+            )}
 
             {mode === 'signup' && (
               <div style={{ marginBottom: 12 }}>
@@ -121,7 +170,7 @@ export function AuthModal({ isOpen, onClose, onSuccess }: AuthModalProps) {
                   onChange={(e) => setName(e.target.value)}
                   placeholder="Your name"
                   style={{
-                    width: '100%', padding: '10px 14px', fontSize: text.lg,
+                    width: '100%', padding: '10px 14px', fontSize: text.base,
                     border: `1px solid ${colors.borderMedium}`, borderRadius: radius.lg,
                     outline: 'none', boxSizing: 'border-box',
                   }}
@@ -129,19 +178,36 @@ export function AuthModal({ isOpen, onClose, onSuccess }: AuthModalProps) {
               </div>
             )}
 
-            <div style={{ marginBottom: 16 }}>
+            <div style={{ marginBottom: 12 }}>
               <label style={{ fontSize: text.sm, fontWeight: 600, color: colors.textSecondary, display: 'block', marginBottom: 4 }}>
                 Email
               </label>
               <input
                 type="email"
                 value={email}
-                onChange={(e) => setEmail(e.target.value)}
-                onKeyDown={(e) => e.key === 'Enter' && handleSubmit()}
+                onChange={(e) => { setEmail(e.target.value); setError(''); }}
                 placeholder="your@email.com"
                 autoFocus
                 style={{
-                  width: '100%', padding: '10px 14px', fontSize: text.lg,
+                  width: '100%', padding: '10px 14px', fontSize: text.base,
+                  border: `1px solid ${colors.borderMedium}`, borderRadius: radius.lg,
+                  outline: 'none', boxSizing: 'border-box',
+                }}
+              />
+            </div>
+
+            <div style={{ marginBottom: 16 }}>
+              <label style={{ fontSize: text.sm, fontWeight: 600, color: colors.textSecondary, display: 'block', marginBottom: 4 }}>
+                Password
+              </label>
+              <input
+                type="password"
+                value={password}
+                onChange={(e) => { setPassword(e.target.value); setError(''); }}
+                onKeyDown={(e) => e.key === 'Enter' && handleSubmit()}
+                placeholder="Enter your password"
+                style={{
+                  width: '100%', padding: '10px 14px', fontSize: text.base,
                   border: `1px solid ${colors.borderMedium}`, borderRadius: radius.lg,
                   outline: 'none', boxSizing: 'border-box',
                 }}
@@ -150,28 +216,29 @@ export function AuthModal({ isOpen, onClose, onSuccess }: AuthModalProps) {
 
             <button
               onClick={handleSubmit}
-              disabled={sending || !email.trim()}
+              disabled={sending || !canSubmit}
               style={{
-                width: '100%', padding: '12px 0', fontSize: text.lg, fontWeight: 700,
-                background: sending ? '#93c5fd' : colors.brand, color: '#fff',
+                width: '100%', padding: '12px 0', fontSize: text.base, fontWeight: 700,
+                background: sending ? '#93c5fd' : '#000', color: '#fff',
                 border: 'none', borderRadius: radius.lg, cursor: sending ? 'wait' : 'pointer',
                 transition: 'all 0.15s',
-                opacity: !email.trim() ? 0.5 : 1,
+                opacity: !canSubmit ? 0.5 : 1,
+                display: 'flex', alignItems: 'center', justifyContent: 'center', gap: 8,
               }}
             >
-              {sending ? 'Signing in...' : mode === 'signin' ? 'Sign in' : 'Create account'}
+              {sending ? 'Signing in...' : mode === 'signin' ? <><span style={{ fontSize: 16 }}></span> Sign In</> : <><span style={{ fontSize: 16 }}></span> Create Account</>}
             </button>
 
-            <p style={{ fontSize: text.md, color: colors.textMuted, textAlign: 'center', marginTop: 16, marginBottom: 0 }}>
+            <p style={{ fontSize: text.sm, color: colors.textMuted, textAlign: 'center', marginTop: 16, marginBottom: 0 }}>
               {mode === 'signin' ? (
                 <>Don&apos;t have an account?{' '}
-                  <span onClick={() => setMode('signup')} style={{ color: colors.brand, cursor: 'pointer', fontWeight: 600 }}>
+                  <span onClick={() => { setMode('signup'); setError(''); }} style={{ color: colors.brand, cursor: 'pointer', fontWeight: 600 }}>
                     Sign up
                   </span>
                 </>
               ) : (
                 <>Already have an account?{' '}
-                  <span onClick={() => setMode('signin')} style={{ color: colors.brand, cursor: 'pointer', fontWeight: 600 }}>
+                  <span onClick={() => { setMode('signin'); setError(''); }} style={{ color: colors.brand, cursor: 'pointer', fontWeight: 600 }}>
                     Sign in
                   </span>
                 </>
@@ -180,10 +247,9 @@ export function AuthModal({ isOpen, onClose, onSuccess }: AuthModalProps) {
 
             <div style={{
               marginTop: 20, paddingTop: 16, borderTop: `1px solid ${colors.borderLight}`,
-              display: 'flex', flexDirection: 'column', gap: 8,
             }}>
               <p style={{ fontSize: text.xs, color: colors.textMuted, textAlign: 'center', margin: 0 }}>
-                Save rinks, track your contributions, and build your reputation as a trusted reviewer.
+                Sign in to vote, comment, and save your favorite rinks.
               </p>
             </div>
           </>
