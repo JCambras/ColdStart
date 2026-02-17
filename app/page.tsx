@@ -17,8 +17,8 @@ import { RinkRequestForm } from '../components/home/RinkRequestForm';
 
 
 const FEATURED_SEARCHES = [
-  'IceWorks',
   'Ice Line',
+  'IceWorks',
   'hackensack',
 ];
 
