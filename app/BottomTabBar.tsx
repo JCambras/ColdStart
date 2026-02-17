@@ -11,6 +11,7 @@ export default function BottomTabBar() {
   const tabs = [
     { label: 'Explore', icon: '🔍', path: '/', match: (p: string) => p === '/' },
     { label: 'Trips', icon: '📋', path: '/trips', match: (p: string) => p.startsWith('/trip') },
+    { label: 'Team', icon: '🛡️', path: '/team', match: (p: string) => p.startsWith('/team') },
     {
       label: 'Profile',
       icon: '👤',
