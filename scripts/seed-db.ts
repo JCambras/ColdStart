@@ -1,0 +1,193 @@
+import pg from 'pg';
+import { readFileSync } from 'fs';
+import { join } from 'path';
+
+const { Pool } = pg;
+
+const DATABASE_URL = process.env.DATABASE_URL;
+if (!DATABASE_URL) {
+  console.error('DATABASE_URL environment variable is required');
+  process.exit(1);
+}
+
+const pool = new Pool({
+  connectionString: DATABASE_URL,
+  ssl: { rejectUnauthorized: false },
+});
+
+async function run() {
+  const client = await pool.connect();
+  try {
+    console.log('Creating tables...');
+    await client.query(`
+      CREATE TABLE IF NOT EXISTS rinks (
+        id TEXT PRIMARY KEY,
+        name TEXT NOT NULL,
+        city TEXT NOT NULL,
+        state CHAR(2) NOT NULL,
+        address TEXT NOT NULL DEFAULT '',
+        latitude DOUBLE PRECISION,
+        longitude DOUBLE PRECISION,
+        created_at TIMESTAMPTZ NOT NULL DEFAULT NOW()
+      );
+
+      CREATE TABLE IF NOT EXISTS signal_ratings (
+        id SERIAL PRIMARY KEY,
+        rink_id TEXT NOT NULL REFERENCES rinks(id),
+        signal TEXT NOT NULL CHECK (signal IN ('parking','cold','food_nearby','chaos','family_friendly','locker_rooms','pro_shop')),
+        value INTEGER NOT NULL CHECK (value BETWEEN 1 AND 5),
+        contributor_type TEXT NOT NULL DEFAULT 'visiting_parent',
+        context TEXT,
+        created_at TIMESTAMPTZ NOT NULL DEFAULT NOW()
+      );
+
+      CREATE TABLE IF NOT EXISTS tips (
+        id SERIAL PRIMARY KEY,
+        rink_id TEXT NOT NULL REFERENCES rinks(id),
+        text TEXT NOT NULL,
+        contributor_type TEXT NOT NULL DEFAULT 'visiting_parent',
+        context TEXT,
+        created_at TIMESTAMPTZ NOT NULL DEFAULT NOW()
+      );
+    `);
+
+    console.log('Creating indexes...');
+    await client.query(`
+      CREATE INDEX IF NOT EXISTS idx_rinks_state ON rinks(state);
+      CREATE INDEX IF NOT EXISTS idx_rinks_name_lower ON rinks(lower(name));
+      CREATE INDEX IF NOT EXISTS idx_signal_ratings_rink ON signal_ratings(rink_id);
+      CREATE INDEX IF NOT EXISTS idx_signal_ratings_rink_signal ON signal_ratings(rink_id, signal);
+      CREATE INDEX IF NOT EXISTS idx_tips_rink ON tips(rink_id);
+    `);
+
+    // Load rinks
+    console.log('Loading rinks.json...');
+    const rinksPath = join(process.cwd(), 'public', 'data', 'rinks.json');
+    const rinks: Array<{
+      id: string;
+      name: string;
+      city: string;
+      state: string;
+      address?: string;
+      latitude?: number;
+      longitude?: number;
+    }> = JSON.parse(readFileSync(rinksPath, 'utf-8'));
+    console.log(`Found ${rinks.length} rinks`);
+
+    // Batch insert rinks (100 at a time)
+    const BATCH_SIZE = 100;
+    let inserted = 0;
+    for (let i = 0; i < rinks.length; i += BATCH_SIZE) {
+      const batch = rinks.slice(i, i + BATCH_SIZE);
+      const values: unknown[] = [];
+      const placeholders: string[] = [];
+
+      for (let j = 0; j < batch.length; j++) {
+        const r = batch[j];
+        const offset = j * 7;
+        placeholders.push(`($${offset + 1}, $${offset + 2}, $${offset + 3}, $${offset + 4}, $${offset + 5}, $${offset + 6}, $${offset + 7})`);
+        values.push(r.id, r.name, r.city, r.state, r.address || '', r.latitude ?? null, r.longitude ?? null);
+      }
+
+      await client.query(
+        `INSERT INTO rinks (id, name, city, state, address, latitude, longitude)
+         VALUES ${placeholders.join(', ')}
+         ON CONFLICT (id) DO NOTHING`,
+        values
+      );
+      inserted += batch.length;
+      if (inserted % 500 === 0 || inserted === rinks.length) {
+        console.log(`  Inserted ${inserted}/${rinks.length} rinks`);
+      }
+    }
+
+    // Load signals
+    console.log('Loading signals.json...');
+    const signalsPath = join(process.cwd(), 'public', 'data', 'signals.json');
+    const signals: Record<string, Record<string, { value: number; count: number; confidence: number }>> =
+      JSON.parse(readFileSync(signalsPath, 'utf-8'));
+
+    const rinkIds = Object.keys(signals);
+    console.log(`Found signals for ${rinkIds.length} rinks`);
+
+    let totalRatings = 0;
+    const ratingValues: unknown[] = [];
+    const ratingPlaceholders: string[] = [];
+    let paramIndex = 1;
+
+    for (const rinkId of rinkIds) {
+      const rinkSignals = signals[rinkId];
+      for (const [signal, data] of Object.entries(rinkSignals)) {
+        const { value: targetAvg, count } = data;
+        if (count <= 0) continue;
+
+        // Distribute floor/ceil values to approximate the target average
+        const floor = Math.floor(targetAvg);
+        const ceil = Math.ceil(targetAvg);
+
+        if (floor === ceil || floor < 1) {
+          // Exact integer or edge case — all same value
+          const v = Math.max(1, Math.min(5, Math.round(targetAvg)));
+          for (let k = 0; k < count; k++) {
+            ratingPlaceholders.push(`($${paramIndex}, $${paramIndex + 1}, $${paramIndex + 2}, $${paramIndex + 3})`);
+            ratingValues.push(rinkId, signal, v, 'visiting_parent');
+            paramIndex += 4;
+            totalRatings++;
+          }
+        } else {
+          // Split between floor and ceil to get target average
+          const ceilCount = Math.round((targetAvg - floor) * count);
+          const floorCount = count - ceilCount;
+          const clampedFloor = Math.max(1, Math.min(5, floor));
+          const clampedCeil = Math.max(1, Math.min(5, ceil));
+
+          for (let k = 0; k < floorCount; k++) {
+            ratingPlaceholders.push(`($${paramIndex}, $${paramIndex + 1}, $${paramIndex + 2}, $${paramIndex + 3})`);
+            ratingValues.push(rinkId, signal, clampedFloor, 'visiting_parent');
+            paramIndex += 4;
+            totalRatings++;
+          }
+          for (let k = 0; k < ceilCount; k++) {
+            ratingPlaceholders.push(`($${paramIndex}, $${paramIndex + 1}, $${paramIndex + 2}, $${paramIndex + 3})`);
+            ratingValues.push(rinkId, signal, clampedCeil, 'visiting_parent');
+            paramIndex += 4;
+            totalRatings++;
+          }
+        }
+
+        // Batch insert every 5000 ratings to avoid huge queries
+        if (ratingPlaceholders.length >= 5000) {
+          await client.query(
+            `INSERT INTO signal_ratings (rink_id, signal, value, contributor_type)
+             VALUES ${ratingPlaceholders.join(', ')}`,
+            ratingValues
+          );
+          console.log(`  Inserted ${totalRatings} signal ratings so far...`);
+          ratingPlaceholders.length = 0;
+          ratingValues.length = 0;
+          paramIndex = 1;
+        }
+      }
+    }
+
+    // Insert remaining ratings
+    if (ratingPlaceholders.length > 0) {
+      await client.query(
+        `INSERT INTO signal_ratings (rink_id, signal, value, contributor_type)
+         VALUES ${ratingPlaceholders.join(', ')}`,
+        ratingValues
+      );
+    }
+    console.log(`Inserted ${totalRatings} total signal ratings`);
+
+    console.log('Done! Database seeded successfully.');
+  } finally {
+    client.release();
+    await pool.end();
+  }
+}
+
+run().catch((err) => {
+  console.error('Seed failed:', err);
+  process.exit(1);
+});

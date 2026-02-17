@@ -143,7 +143,7 @@ function SignalBar({ label, value, inverted }: { label: string; value: number; i
 
   return (
     <div style={{ display: 'flex', alignItems: 'center', gap: 8 }}>
-      <span style={{ width: 96, fontSize: text.xs, color: colors.textTertiary, flexShrink: 0 }}>{label}</span>
+      <span style={{ width: 80, fontSize: text.xs, color: colors.textTertiary, flexShrink: 0 }}>{label}</span>
       <div style={{ flex: 1, height: 6, background: colors.borderLight, borderRadius: 999, overflow: 'hidden' }}>
         <div style={{ height: '100%', borderRadius: 999, background: color, width: `${pct}%` }} />
       </div>
@@ -171,19 +171,19 @@ function GameCard({ game, expanded, onToggle }: { game: Game; expanded: boolean;
         style={{
           width: '100%',
           textAlign: 'left',
-          padding: '14px 16px',
+          padding: '12px 12px',
           display: 'flex',
           alignItems: 'center',
-          gap: 12,
+          gap: 8,
           background: 'none',
           border: 'none',
           cursor: 'pointer',
         }}
       >
         {/* Date column */}
-        <div style={{ width: 52, textAlign: 'center', flexShrink: 0 }}>
-          <div style={{ fontSize: text.xs, color: colors.textMuted, fontWeight: 500 }}>{weekday}</div>
-          <div style={{ fontSize: text.base, fontWeight: 600, color: colors.textPrimary, lineHeight: 1.2 }}>{monthDay}</div>
+        <div style={{ width: 44, textAlign: 'center', flexShrink: 0 }}>
+          <div style={{ fontSize: text['2xs'], color: colors.textMuted, fontWeight: 500 }}>{weekday}</div>
+          <div style={{ fontSize: text.sm, fontWeight: 600, color: colors.textPrimary, lineHeight: 1.2 }}>{monthDay}</div>
         </div>
 
         {/* Divider */}
@@ -191,12 +191,13 @@ function GameCard({ game, expanded, onToggle }: { game: Game; expanded: boolean;
 
         {/* Game info */}
         <div style={{ flex: 1, minWidth: 0 }}>
-          <div style={{ display: 'flex', alignItems: 'center', gap: 8 }}>
+          <div style={{ display: 'flex', alignItems: 'center', gap: 6, minWidth: 0 }}>
             <span style={{
               fontSize: text.xs, fontWeight: 500,
               padding: '2px 6px', borderRadius: radius.sm,
               background: game.isHome ? colors.borderLight : colors.bgInfo,
               color: game.isHome ? colors.textTertiary : colors.brand,
+              flexShrink: 0,
             }}>
               {game.isHome ? 'HOME' : 'AWAY'}
             </span>
@@ -249,7 +250,7 @@ function GameCard({ game, expanded, onToggle }: { game: Game; expanded: boolean;
       {/* Expanded detail */}
       {expanded && (
         <div style={{ padding: '4px 16px 16px', borderTop: `1px solid ${colors.borderLight}` }}>
-          <div style={{ display: 'grid', gridTemplateColumns: '1fr 1fr', gap: 20 }}>
+          <div style={{ display: 'flex', flexDirection: 'column', gap: 16 }}>
             {/* Signals */}
             <div>
               <h4 style={{ fontSize: text.xs, fontWeight: 500, color: colors.textTertiary, textTransform: 'uppercase', letterSpacing: '0.05em', marginBottom: 10 }}>
@@ -359,7 +360,7 @@ export default function TeamDashboardPage() {
       {/* Stats strip */}
       <div style={{ background: colors.white, borderBottom: `1px solid ${colors.borderLight}` }}>
         <div style={{ maxWidth: 680, margin: '0 auto', padding: '14px 20px' }}>
-          <div style={{ display: 'grid', gridTemplateColumns: 'repeat(4, 1fr)', gap: 12 }}>
+          <div style={{ display: 'grid', gridTemplateColumns: 'repeat(2, 1fr)', gap: '8px 12px' }}>
             {[
               { label: 'Games left', value: String(SCHEDULE.length) },
               { label: 'Road miles', value: totalMiles.toLocaleString() },
