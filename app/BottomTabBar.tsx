@@ -1,12 +1,13 @@
 'use client';
 
 import { usePathname, useRouter } from 'next/navigation';
-import { storage } from '../lib/storage';
+import { useAuth } from '../contexts/AuthContext';
 import { colors, text } from '../lib/theme';
 
 export default function BottomTabBar() {
   const pathname = usePathname();
   const router = useRouter();
+  const { currentUser, openAuth } = useAuth();
 
   const tabs = [
     { label: 'Explore', icon: '🔍', path: '/', match: (p: string) => p === '/' },
@@ -22,6 +23,10 @@ export default function BottomTabBar() {
 
   function handleTab(tab: (typeof tabs)[number]) {
     if (tab.path === '#profile') {
+      if (!currentUser) {
+        openAuth();
+        return;
+      }
       if (pathname === '/') {
         const el = document.getElementById('my-rinks-section');
         if (el) {
@@ -29,16 +34,11 @@ export default function BottomTabBar() {
           return;
         }
       }
-      const u = storage.getCurrentUser();
-      if (u) {
-        router.push('/');
-        setTimeout(() => {
-          const el = document.getElementById('my-rinks-section');
-          if (el) el.scrollIntoView({ behavior: 'smooth' });
-        }, 300);
-      } else {
-        router.push('/');
-      }
+      router.push('/');
+      setTimeout(() => {
+        const el = document.getElementById('my-rinks-section');
+        if (el) el.scrollIntoView({ behavior: 'smooth' });
+      }, 300);
       return;
     }
     router.push(tab.path);

@@ -12,6 +12,8 @@ interface PageShellProps {
   backLabel?: string;
   /** Logo size override (default 36) */
   logoSize?: number;
+  /** Stack logo text vertically (coldstart / hockey) */
+  logoStacked?: boolean;
   /** Content rendered in the right side of nav */
   navRight?: React.ReactNode;
   /** Content rendered between logo and right slot */
@@ -25,6 +27,7 @@ export function PageShell({
   back,
   backLabel,
   logoSize = 36,
+  logoStacked = false,
   navRight,
   navCenter,
   navBelow,
@@ -40,16 +43,16 @@ export function PageShell({
       <nav aria-label="Main navigation" style={{
         display: 'flex',
         alignItems: 'center',
-        justifyContent: navRight ? 'space-between' : undefined,
+        justifyContent: logoStacked ? 'center' : (navRight ? 'space-between' : undefined),
         gap: 12,
-        padding: '14px 24px',
+        padding: logoStacked ? '12px 24px 6px' : '14px 24px',
         background: navTokens.bg,
         backdropFilter: navTokens.blur,
         WebkitBackdropFilter: navTokens.blur,
         position: 'sticky',
         top: 0,
         zIndex: 50,
-        borderBottom: `1px solid ${colors.borderLight}`,
+        borderBottom: logoStacked ? 'none' : `1px solid ${colors.borderLight}`,
       }}>
         <div style={{ display: 'flex', alignItems: 'center', gap: 12 }}>
           {back && (
@@ -58,7 +61,7 @@ export function PageShell({
               label={backLabel}
             />
           )}
-          <Logo size={logoSize} />
+          <Logo size={logoSize} stacked={logoStacked} />
         </div>
         {navCenter}
         {navRight && <div style={{ display: 'flex', alignItems: 'center', gap: 8 }}>{navRight}</div>}
