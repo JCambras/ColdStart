@@ -652,19 +652,13 @@ export default function RinkPage() {
                 {rink.address}, {rink.city}, {rink.state}
               </p>
               {getRinkSlug(rink) === 'ice-line' && (
-                <div style={{ fontSize: 12, color: '#6b7280', marginTop: 4, display: 'flex', flexWrap: 'wrap', gap: 4, alignItems: 'center' }}>
-                  🏒{' '}
-                  <a href="https://myhockeyrankings.com/association-info?a=212" target="_blank" rel="noopener noreferrer" style={{ color: colors.brand, textDecoration: 'none', fontWeight: 500 }}>Philadelphia Jr Flyers</a>
-                  <span style={{ color: '#d1d5db' }}>·</span>
-                  <a href="https://myhockeyrankings.com/association-info?a=3363" target="_blank" rel="noopener noreferrer" style={{ color: colors.brand, textDecoration: 'none', fontWeight: 500 }}>Team Philadelphia</a>
-                  <span style={{ color: '#d1d5db' }}>·</span>
+                <div style={{ fontSize: 12, color: '#6b7280', marginTop: 4 }}>
+                  🏠 Home of{' '}
+                  <a href="https://myhockeyrankings.com/association-info?a=212" target="_blank" rel="noopener noreferrer" style={{ color: colors.brand, textDecoration: 'none', fontWeight: 500 }}>Junior Flyers</a>
+                  ,{' '}
+                  <a href="https://myhockeyrankings.com/association-info?a=3363" target="_blank" rel="noopener noreferrer" style={{ color: colors.brand, textDecoration: 'none', fontWeight: 500 }}>Team PHL</a>
+                  , and{' '}
                   <a href="https://myhockeyrankings.com/association_info.php?a=4054" target="_blank" rel="noopener noreferrer" style={{ color: colors.brand, textDecoration: 'none', fontWeight: 500 }}>West Chester Wolverines</a>
-                  <span style={{ color: '#d1d5db' }}>·</span>
-                  <a href="https://myhockeyrankings.com/team-info?y=2025&t=8562" target="_blank" rel="noopener noreferrer" style={{ color: colors.brand, textDecoration: 'none', fontWeight: 500 }}>Malvern Prep</a>
-                  <span style={{ color: '#d1d5db' }}>·</span>
-                  <a href="https://myhockeyrankings.com/team-info?y=2025&t=8590" target="_blank" rel="noopener noreferrer" style={{ color: colors.brand, textDecoration: 'none', fontWeight: 500 }}>West Chester East HS</a>
-                  <span style={{ color: '#d1d5db' }}>·</span>
-                  <a href="https://myhockeyrankings.com/team-info?y=2025&t=8662" target="_blank" rel="noopener noreferrer" style={{ color: colors.brand, textDecoration: 'none', fontWeight: 500 }}>West Chester Henderson HS</a>
                 </div>
               )}
             </div>
