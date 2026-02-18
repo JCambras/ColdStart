@@ -9,11 +9,18 @@ export async function GET(request: NextRequest) {
   try {
     if (!query) {
       // No search — return first N rinks ordered by name
-      const { rows } = await pool.query(
-        'SELECT id, name, city, state, address, latitude, longitude, created_at FROM rinks ORDER BY name LIMIT $1',
-        [limit]
-      );
-      return NextResponse.json(rows);
+      const [{ rows }, countResult] = await Promise.all([
+        pool.query(
+          'SELECT id, name, city, state, address, latitude, longitude, created_at FROM rinks ORDER BY name LIMIT $1',
+          [limit]
+        ),
+        pool.query('SELECT COUNT(*)::int AS total, COUNT(DISTINCT state)::int AS states FROM rinks'),
+      ]);
+      return NextResponse.json({
+        data: rows,
+        total: countResult.rows[0].total,
+        states: countResult.rows[0].states,
+      });
     }
 
     // ILIKE search on name/city/state, prefix matches first

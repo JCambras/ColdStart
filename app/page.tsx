@@ -65,8 +65,7 @@ export default function HomePage() {
     }
   }, []);
 
-  // Count unique states from featured + recent rinks
-  const stateCount = new Set([...rinks, ...recentRinks].map(r => r.state)).size || 15;
+  const [stateCount, setStateCount] = useState(0);
 
   // Load featured rinks + recent rinks on mount
   useEffect(() => {
@@ -96,7 +95,21 @@ export default function HomePage() {
     }
 
     async function loadRecent() {
-      const { data } = await apiGet<RinkData[]>('/rinks?limit=6', {
+      try {
+        const res = await fetch(`${process.env.NEXT_PUBLIC_API_URL || '/api/v1'}/rinks?limit=6`);
+        if (res.ok) {
+          const json = await res.json();
+          const rinkList = json.data ?? json;
+          if (Array.isArray(rinkList) && rinkList.length > 0) {
+            setRecentRinks(rinkList);
+          }
+          if (json.total) setTotalRinks(json.total);
+          if (json.states) setStateCount(json.states);
+          return;
+        }
+      } catch {}
+      // Fallback to seed data
+      const seedData = await apiGet<RinkData[]>('/rinks?limit=6', {
         seedPath: '/data/rinks.json',
         transform: (raw) => {
           const rinks = raw as RinkData[];
@@ -104,9 +117,8 @@ export default function HomePage() {
           return rinks.slice(0, 6);
         },
       });
-      if (data && data.length > 0) {
-        setRecentRinks(data);
-        if (!totalRinks) setTotalRinks(data.length);
+      if (seedData.data && seedData.data.length > 0) {
+        setRecentRinks(seedData.data);
       }
     }
 
