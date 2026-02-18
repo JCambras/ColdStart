@@ -658,6 +658,8 @@ export default function RinkPage() {
                   <span style={{ color: '#d1d5db' }}>·</span>
                   <a href="https://myhockeyrankings.com/association-info?a=3363" target="_blank" rel="noopener noreferrer" style={{ color: colors.brand, textDecoration: 'none', fontWeight: 500 }}>Team Philadelphia</a>
                   <span style={{ color: '#d1d5db' }}>·</span>
+                  <a href="https://myhockeyrankings.com/association_info.php?a=4054" target="_blank" rel="noopener noreferrer" style={{ color: colors.brand, textDecoration: 'none', fontWeight: 500 }}>West Chester Wolverines</a>
+                  <span style={{ color: '#d1d5db' }}>·</span>
                   <a href="https://myhockeyrankings.com/team-info?y=2025&t=8562" target="_blank" rel="noopener noreferrer" style={{ color: colors.brand, textDecoration: 'none', fontWeight: 500 }}>Malvern Prep</a>
                   <span style={{ color: '#d1d5db' }}>·</span>
                   <a href="https://myhockeyrankings.com/team-info?y=2025&t=8590" target="_blank" rel="noopener noreferrer" style={{ color: colors.brand, textDecoration: 'none', fontWeight: 500 }}>West Chester East HS</a>
