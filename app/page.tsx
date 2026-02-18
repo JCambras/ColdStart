@@ -216,7 +216,7 @@ export default function HomePage() {
 
   return (
     <PageShell
-      logoSize={42}
+      logoSize={52}
       logoStacked
       navBelow={navBelowContent}
     >
