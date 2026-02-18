@@ -740,8 +740,8 @@ export default function RinkPage() {
               </a>
             )}
 
-            {/* Home teams */}
-            {(() => {
+            {/* Home teams (skip for Ice Line — shown under address with links) */}
+            {getRinkSlug(rink) !== 'ice-line' && (() => {
               const teams = detail.home_teams;
               if (!teams || teams.length === 0) return null;
               return (
@@ -837,7 +837,7 @@ export default function RinkPage() {
           <NearbySection title="Places to eat" icon="🍽️" rinkSlug={getRinkSlug(rink)} fanFavorites categories={[
             { label: 'Quick bite', icon: '🥯', description: 'Grab & go before the game — bagels, donuts, drive-throughs. Think Wawa run at 6am.', places: getNearbyPlaces(rink, 'quick_bite', nearbyData) },
             { label: 'Good coffee', icon: '☕', description: 'A real coffee while you wait for warmups. Not the vending machine in the lobby.', places: getNearbyPlaces(rink, 'coffee', nearbyData) },
-            { label: 'Team lunch', icon: '🍕', description: 'Where you take 15 kids in hockey gear between games. Needs big tables and patience.', places: getNearbyPlaces(rink, 'team_lunch', nearbyData) },
+            { label: 'Team Restaurants', icon: '🍕', description: 'Where you take 15 kids in hockey gear between games. Needs big tables and patience.', places: getNearbyPlaces(rink, 'team_lunch', nearbyData) },
             { label: 'Post-game dinner', icon: '🍝', description: 'Sit-down spot after the last game. Somewhere the parents can finally relax.', places: getNearbyPlaces(rink, 'dinner', nearbyData) },
           ]} />
           <NearbySection title="Team activities" icon="🎳" rinkSlug={getRinkSlug(rink)} categories={[
