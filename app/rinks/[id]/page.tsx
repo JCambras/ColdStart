@@ -651,6 +651,16 @@ export default function RinkPage() {
               <p style={{ fontSize: 13, color: '#6b7280', marginTop: 4, lineHeight: 1.4, margin: '4px 0 0' }}>
                 {rink.address}, {rink.city}, {rink.state}
               </p>
+              {getRinkSlug(rink) === 'ice-line' && (
+                <div style={{ fontSize: 12, color: '#6b7280', marginTop: 4, display: 'flex', flexWrap: 'wrap', gap: 4, alignItems: 'center' }}>
+                  🏫{' '}
+                  <a href="https://myhockeyrankings.com/team-info?y=2025&t=8562" target="_blank" rel="noopener noreferrer" style={{ color: colors.brand, textDecoration: 'none', fontWeight: 500 }}>Malvern Prep</a>
+                  <span style={{ color: '#d1d5db' }}>·</span>
+                  <a href="https://myhockeyrankings.com/team-info?y=2025&t=8590" target="_blank" rel="noopener noreferrer" style={{ color: colors.brand, textDecoration: 'none', fontWeight: 500 }}>West Chester East HS</a>
+                  <span style={{ color: '#d1d5db' }}>·</span>
+                  <a href="https://myhockeyrankings.com/team-info?y=2025&t=8662" target="_blank" rel="noopener noreferrer" style={{ color: colors.brand, textDecoration: 'none', fontWeight: 500 }}>West Chester Henderson HS</a>
+                </div>
+              )}
             </div>
             <div style={{ flexShrink: 0, paddingTop: 4 }}>
               <SaveRinkButton rinkId={rinkId} />

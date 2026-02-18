@@ -204,15 +204,19 @@ export default function HomePage() {
   );
 
   const navBelowContent = (
-    <div className="nav-below-bar" style={{
-      padding: '6px 24px 10px',
+    <div style={{
+      display: 'flex', flexDirection: 'column', alignItems: 'center', gap: 6,
+      padding: '0 24px 10px',
       background: 'rgba(250,251,252,0.92)',
       backdropFilter: 'blur(8px)',
       borderBottom: `1px solid ${colors.borderLight}`,
       position: 'relative', zIndex: 100,
     }}>
+      {/* Sign in + My Rinks: visible only on mobile, hidden on desktop */}
+      <div className="mobile-only" style={{ display: 'flex', alignItems: 'center', gap: 8 }}>
+        {signInMyRinks}
+      </div>
       <StateDropdown onSelect={(code) => router.push(`/states/${code}`)} />
-      {signInMyRinks}
     </div>
   );
 
@@ -220,6 +224,7 @@ export default function HomePage() {
     <PageShell
       logoSize={48}
       logoStacked
+      navRight={<div className="desktop-only">{signInMyRinks}</div>}
       navBelow={navBelowContent}
     >
       {/* ── Hero + Search ── */}
