@@ -209,6 +209,7 @@ export default function HomePage() {
       background: 'rgba(250,251,252,0.92)',
       backdropFilter: 'blur(8px)',
       borderBottom: `1px solid ${colors.borderLight}`,
+      position: 'relative', zIndex: 100,
     }}>
       <StateDropdown onSelect={(code) => router.push(`/states/${code}`)} />
       {signInMyRinks}

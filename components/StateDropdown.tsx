@@ -29,10 +29,10 @@ export function StateDropdown({ onSelect }: { onSelect: (code: string) => void }
       </span>
       {open && (
         <div style={{
-          position: 'absolute', top: '100%', right: 0, marginTop: 8,
+          position: 'absolute', top: '100%', left: '50%', transform: 'translateX(-50%)', marginTop: 8,
           background: '#fff', border: `1px solid ${colors.borderDefault}`, borderRadius: 14,
           boxShadow: '0 20px 50px rgba(0,0,0,0.12)', padding: '12px 0',
-          width: 280, maxHeight: 400, overflowY: 'auto', zIndex: 100,
+          width: 280, maxHeight: 400, overflowY: 'auto', zIndex: 200,
         }}>
           <div style={{ padding: '0 16px 8px', fontSize: text['2xs'], fontWeight: 600, color: colors.textMuted, textTransform: 'uppercase', letterSpacing: 1 }}>
             Top hockey states
