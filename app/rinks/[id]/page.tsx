@@ -341,12 +341,6 @@ export default function RinkPage() {
       'coldstart_place_tips_bww_Tim_Hortons': [
         { text: "Drive-thru line is 15 min on Saturday mornings, go inside", author: "Sarah K." },
       ],
-      'coldstart_place_tips_ice-line_Sal_s_Pizza': [
-        { text: "Honors the 10% rink discount even for takeout orders", author: "Kevin M." },
-      ],
-      'coldstart_place_tips_ice-line_Hampton_Inn': [
-        { text: "Has a small pool — good for siblings between games", author: "Sarah K." },
-      ],
     };
     for (const [key, tips] of Object.entries(seeds)) {
       const existing = storage.getPlaceTips(
