@@ -55,9 +55,42 @@
       "url": "https://www.google.com/maps/search/Buffalo+Wild+Wings+1510+Egypt+Rd+Phoenixville+PA"
     },
     {
+      "name": "Uno Pizzeria & Grill",
+      "distance": "1.0 mi",
+      "url": "https://www.google.com/maps/search/Uno+Pizzeria+Grill+106+Black+Rock+Rd+Oaks+PA"
+    },
+    {
+      "name": "Chickie's & Pete's",
+      "distance": "3.0 mi",
+      "url": "https://www.google.com/maps/search/Chickies+and+Petes+675+Shannondell+Blvd+Audubon+PA"
+    },
+    {
       "name": "Red Robin",
       "distance": "5.0 mi",
       "url": "https://www.google.com/maps/search/Red+Robin+220+Plaza+Dr+Collegeville+PA"
+    },
+    {
+      "name": "Olive Garden",
+      "distance": "5.0 mi",
+      "url": "https://www.google.com/maps/search/Olive+Garden+1+Town+Center+Dr+Collegeville+PA"
+    },
+    {
+      "name": "Red Lobster",
+      "distance": "7.0 mi",
+      "url": "https://www.google.com/maps/search/Red+Lobster+425+W+DeKalb+Pike+King+of+Prussia+PA",
+      "isFar": true
+    },
+    {
+      "name": "Texas Roadhouse",
+      "distance": "8.0 mi",
+      "url": "https://www.google.com/maps/search/Texas+Roadhouse+70+Buckwalter+Rd+Royersford+PA",
+      "isFar": true
+    },
+    {
+      "name": "Applebee's",
+      "distance": "8.0 mi",
+      "url": "https://www.google.com/maps/search/Applebees+2710+DeKalb+Pike+East+Norriton+PA",
+      "isFar": true
     }
   ],
   "bowling": [

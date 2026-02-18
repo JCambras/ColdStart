@@ -124,9 +124,15 @@ export const SEEDED_NEARBY: Record<string, Record<string, NearbyPlace[]>> = {
       { name: "Dunkin'", distance: "1.1 mi", url: "https://www.google.com/maps/search/Dunkin+West+Chester+PA" },
     ],
     team_lunch: [
-      { name: "P.J. Whelihan's", distance: "3.0 mi", url: "https://www.google.com/maps/search/PJ+Whelihans+1347+Wilmington+Pike+West+Chester+PA" },
       { name: "Applebee's", distance: "2.5 mi", url: "https://www.google.com/maps/search/Applebees+1107+West+Chester+Pike+West+Chester+PA" },
+      { name: "P.J. Whelihan's", distance: "3.0 mi", url: "https://www.google.com/maps/search/PJ+Whelihans+1347+Wilmington+Pike+West+Chester+PA" },
       { name: "TGI Friday's", distance: "3.0 mi", url: "https://www.google.com/maps/search/TGI+Fridays+7656+Cox+Ln+West+Chester+PA" },
+      { name: "Outback Steakhouse", distance: "5.0 mi", url: "https://www.google.com/maps/search/Outback+Steakhouse+675+Lancaster+Ave+Frazer+PA" },
+      { name: "IHOP", distance: "5.0 mi", url: "https://www.google.com/maps/search/IHOP+471+John+Young+Way+Exton+PA" },
+      { name: "Olive Garden", distance: "7.0 mi", url: "https://www.google.com/maps/search/Olive+Garden+101+Quarry+Rd+Downingtown+PA", isFar: true },
+      { name: "Texas Roadhouse", distance: "7.0 mi", url: "https://www.google.com/maps/search/Texas+Roadhouse+1205+E+Lancaster+Ave+Downingtown+PA", isFar: true },
+      { name: "Cracker Barrel", distance: "7.0 mi", url: "https://www.google.com/maps/search/Cracker+Barrel+1215+E+Lancaster+Ave+Downingtown+PA", isFar: true },
+      { name: "Buffalo Wild Wings", distance: "9.0 mi", url: "https://www.google.com/maps/search/Buffalo+Wild+Wings+920+Baltimore+Pike+Glen+Mills+PA", isFar: true },
     ],
     bowling: [
       { name: "Palace Bowling", distance: "2.5 mi", url: "https://www.google.com/maps/search/bowling+near+West+Chester+PA" },

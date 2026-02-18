@@ -55,14 +55,48 @@
       "url": "https://www.google.com/maps/search/Applebees+4301+Pennell+Rd+Aston+PA"
     },
     {
+      "name": "Chili's Grill & Bar",
+      "distance": "2.5 mi",
+      "url": "https://www.google.com/maps/search/Chilis+4750+Edgmont+Ave+Brookhaven+PA"
+    },
+    {
       "name": "Buffalo Wild Wings",
       "distance": "5.0 mi",
       "url": "https://www.google.com/maps/search/Buffalo+Wild+Wings+920+Baltimore+Pike+Glen+Mills+PA"
     },
     {
+      "name": "Texas Roadhouse",
+      "distance": "5.0 mi",
+      "url": "https://www.google.com/maps/search/Texas+Roadhouse+1051+Baltimore+Pike+Glen+Mills+PA"
+    },
+    {
+      "name": "Olive Garden",
+      "distance": "7.0 mi",
+      "url": "https://www.google.com/maps/search/Olive+Garden+1001+Baltimore+Pike+Springfield+PA",
+      "isFar": true
+    },
+    {
+      "name": "Outback Steakhouse",
+      "distance": "7.0 mi",
+      "url": "https://www.google.com/maps/search/Outback+Steakhouse+1118+Baltimore+Pike+Springfield+PA",
+      "isFar": true
+    },
+    {
       "name": "P.J. Whelihan's",
       "distance": "7.0 mi",
       "url": "https://www.google.com/maps/search/PJ+Whelihans+1991+Sproul+Rd+Broomall+PA",
+      "isFar": true
+    },
+    {
+      "name": "Cracker Barrel",
+      "distance": "7.5 mi",
+      "url": "https://www.google.com/maps/search/Cracker+Barrel+125+S+Stewart+Ave+Ridley+Park+PA",
+      "isFar": true
+    },
+    {
+      "name": "Red Lobster",
+      "distance": "8.0 mi",
+      "url": "https://www.google.com/maps/search/Red+Lobster+1+Baltimore+Pike+Springfield+PA",
       "isFar": true
     }
   ],
