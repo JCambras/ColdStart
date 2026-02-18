@@ -17,7 +17,7 @@ export function Logo({ size = 36, stacked = false }: { size?: number; stacked?: 
           cursor: 'pointer',
         }}
       >
-        cold<span style={{ color: colors.brand }}>start</span>{' '}
+        Cold<span style={{ color: colors.brand }}>Start</span>{' '}
         <span style={{ fontSize: '0.45em', fontWeight: 500, color: colors.textTertiary, letterSpacing: 1 }}>
           hockey
         </span>
@@ -36,7 +36,7 @@ export function Logo({ size = 36, stacked = false }: { size?: number; stacked?: 
         cursor: 'pointer',
       }}
     >
-      cold<span style={{ color: colors.brand }}>start</span>{' '}
+      Cold<span style={{ color: colors.brand }}>Start</span>{' '}
       <span style={{ fontSize: '0.5em', fontWeight: 500, color: colors.textTertiary, letterSpacing: 1 }}>
         hockey
       </span>

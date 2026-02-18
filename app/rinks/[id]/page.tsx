@@ -449,15 +449,26 @@ export default function RinkPage() {
         seedPath: '/data/rinks.json',
         transform: () => null as unknown as RinkDetail,
       });
-      if (data) { setDetail(data); setLoading(false); return; }
+      if (data) {
+        // If API didn't return home_teams, try loading from seed
+        if (!data.home_teams || data.home_teams.length === 0) {
+          const ht = await seedGet<Record<string, string[]>>('/data/home-teams.json');
+          if (ht && ht[rinkId]) data.home_teams = ht[rinkId];
+        }
+        setDetail(data); setLoading(false); return;
+      }
       try {
-        const [rinks, signals] = await Promise.all([
+        const [rinks, signals, homeTeams] = await Promise.all([
           seedGet<unknown[]>('/data/rinks.json'),
           seedGet<Record<string, unknown>>('/data/signals.json'),
+          seedGet<Record<string, string[]>>('/data/home-teams.json'),
         ]);
         if (!rinks) throw new Error('No seed data');
         const built = buildRinkDetailFromSeed(rinkId, rinks, signals);
-        if (built) setDetail(built);
+        if (built) {
+          if (homeTeams && homeTeams[rinkId]) built.home_teams = homeTeams[rinkId];
+          setDetail(built);
+        }
         else setError('Rink not found');
       } catch (e: unknown) {
         setError(e instanceof Error ? e.message : 'Failed to load rink');
