@@ -6,7 +6,7 @@ import { storage, FanFavorite, PlaceSuggestion } from '../../lib/storage';
 import { useAuth } from '../../contexts/AuthContext';
 import { colors, text, radius } from '../../lib/theme';
 
-const FAN_FAV_CATEGORIES = ['Quick bite', 'Coffee', 'Team Restaurants', 'Dinner', 'Other'] as const;
+const FAN_FAV_CATEGORIES = ['Quick bite', 'Coffee', 'Team Restaurants', 'Other'] as const;
 
 export interface NearbyCategory {
   label: string;
