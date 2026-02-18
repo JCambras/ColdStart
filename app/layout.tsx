@@ -4,11 +4,11 @@ import BottomTabBar from './BottomTabBar';
 import { ClientProviders } from '../components/ClientProviders';
 
 export const metadata: Metadata = {
-  title: { default: 'ColdStart Hockey — Know the rink before you get there', template: '%s | ColdStart Hockey' },
+  title: { default: 'ColdStart Hockey — Scout the rink before you go', template: '%s | ColdStart Hockey' },
   description:
     'Real conditions from hockey parents who have been there. Parking, cold, food, chaos — summarized in seconds.',
   openGraph: {
-    title: 'ColdStart Hockey — Know the rink before you get there',
+    title: 'ColdStart Hockey — Scout the rink before you go',
     description:
       'Real conditions from hockey parents who have been there. Parking, cold, food, chaos — summarized in seconds.',
     siteName: 'ColdStart Hockey',
@@ -16,7 +16,7 @@ export const metadata: Metadata = {
   },
   twitter: {
     card: 'summary_large_image',
-    title: 'ColdStart Hockey — Know the rink before you get there',
+    title: 'ColdStart Hockey — Scout the rink before you go',
     description:
       'Real conditions from hockey parents who have been there. Parking, cold, food, chaos — summarized in seconds.',
   },
