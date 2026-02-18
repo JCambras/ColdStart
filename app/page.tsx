@@ -157,60 +157,61 @@ export default function HomePage() {
     searchRef.current?.focus();
   }
 
+  const signInMyRinks = (
+    <div style={{ display: 'flex', alignItems: 'center', gap: 8 }}>
+      {isLoggedIn && currentUser ? (
+        <button
+          onClick={() => setShowProfileDropdown(true)}
+          aria-label="Profile menu"
+          style={{
+            width: 34, height: 34, borderRadius: '50%',
+            background: 'linear-gradient(135deg, #0ea5e9, #3b82f6)',
+            display: 'flex', alignItems: 'center', justifyContent: 'center',
+            color: colors.white, fontSize: text.sm, fontWeight: 700,
+            border: 'none', cursor: 'pointer', flexShrink: 0,
+          }}
+        >
+          {(currentUser.name || currentUser.email).slice(0, 2).toUpperCase()}
+        </button>
+      ) : (
+        <button
+          onClick={openAuth}
+          style={{
+            fontSize: text.md, fontWeight: 600, color: colors.white,
+            background: colors.textPrimary, border: 'none',
+            borderRadius: 8, padding: '7px 16px', cursor: 'pointer',
+            whiteSpace: 'nowrap',
+          }}
+        >
+          Sign in
+        </button>
+      )}
+      <button
+        onClick={() => {
+          const el = document.getElementById('my-rinks-section');
+          if (el) el.scrollIntoView({ behavior: 'smooth' });
+        }}
+        style={{
+          fontSize: text.md, fontWeight: 600, color: colors.brand,
+          background: colors.bgInfo, border: `1px solid ${colors.brandLight}`,
+          borderRadius: 8, padding: '6px 14px', cursor: 'pointer',
+          display: 'flex', alignItems: 'center', gap: 5,
+        }}
+      >
+        ⭐ My Rinks
+      </button>
+    </div>
+  );
+
   const navBelowContent = (
-    <div style={{
-      display: 'flex', flexDirection: 'column', alignItems: 'center', gap: 6,
-      padding: '0 24px 10px',
+    <div className="nav-below-bar" style={{
+      padding: '6px 24px 10px',
       background: 'rgba(250,251,252,0.92)',
       backdropFilter: 'blur(8px)',
       borderBottom: `1px solid ${colors.borderLight}`,
     }}>
-      {/* Row: Sign in / profile + My Rinks */}
-      <div style={{ display: 'flex', alignItems: 'center', gap: 8 }}>
-        {isLoggedIn && currentUser ? (
-          <button
-            onClick={() => setShowProfileDropdown(true)}
-            aria-label="Profile menu"
-            style={{
-              width: 34, height: 34, borderRadius: '50%',
-              background: 'linear-gradient(135deg, #0ea5e9, #3b82f6)',
-              display: 'flex', alignItems: 'center', justifyContent: 'center',
-              color: colors.white, fontSize: text.sm, fontWeight: 700,
-              border: 'none', cursor: 'pointer', flexShrink: 0,
-            }}
-          >
-            {(currentUser.name || currentUser.email).slice(0, 2).toUpperCase()}
-          </button>
-        ) : (
-          <button
-            onClick={openAuth}
-            style={{
-              fontSize: text.md, fontWeight: 600, color: colors.white,
-              background: colors.textPrimary, border: 'none',
-              borderRadius: 8, padding: '7px 16px', cursor: 'pointer',
-              whiteSpace: 'nowrap',
-            }}
-          >
-            Sign in
-          </button>
-        )}
-        <button
-          onClick={() => {
-            const el = document.getElementById('my-rinks-section');
-            if (el) el.scrollIntoView({ behavior: 'smooth' });
-          }}
-          style={{
-            fontSize: text.md, fontWeight: 600, color: colors.brand,
-            background: colors.bgInfo, border: `1px solid ${colors.brandLight}`,
-            borderRadius: 8, padding: '6px 14px', cursor: 'pointer',
-            display: 'flex', alignItems: 'center', gap: 5,
-          }}
-        >
-          ⭐ My Rinks
-        </button>
-      </div>
-      {/* Row: Browse by state */}
       <StateDropdown onSelect={(code) => router.push(`/states/${code}`)} />
+      {signInMyRinks}
     </div>
   );
 
