@@ -691,54 +691,85 @@ export default function RinkPage() {
 
           {/* ── Secondary info — below the fold ── */}
           <div style={{ marginTop: 16, display: 'flex', flexDirection: 'column', gap: 8 }}>
-            {/* Streaming badge */}
-            {(() => {
-              const streaming = RINK_STREAMING[getRinkSlug(rink)];
-              if (!streaming || streaming.type === 'none') return null;
-              const isLiveBarn = streaming.type === 'livebarn';
-              return (
-                <a
-                  href={streaming.url}
-                  target="_blank"
-                  rel="noopener noreferrer"
+            {/* Badges row: LiveBarn/Pro Shop on left, Compare/Plan trip on right */}
+            <div style={{ display: 'flex', justifyContent: 'space-between', alignItems: 'flex-start', flexWrap: 'wrap', gap: 8 }}>
+              <div style={{ display: 'flex', gap: 8, flexWrap: 'wrap' }}>
+                {/* Streaming badge */}
+                {(() => {
+                  const streaming = RINK_STREAMING[getRinkSlug(rink)];
+                  if (!streaming || streaming.type === 'none') return null;
+                  const isLiveBarn = streaming.type === 'livebarn';
+                  return (
+                    <a
+                      href={streaming.url}
+                      target="_blank"
+                      rel="noopener noreferrer"
+                      style={{
+                        display: 'inline-flex', alignItems: 'center', gap: 6,
+                        padding: '5px 12px', borderRadius: 8,
+                        background: isLiveBarn ? '#fff7ed' : '#f0f9ff',
+                        border: `1px solid ${isLiveBarn ? '#fed7aa' : '#bae6fd'}`,
+                        fontSize: 12, fontWeight: 600,
+                        color: isLiveBarn ? '#c2410c' : '#0369a1',
+                        textDecoration: 'none', cursor: 'pointer',
+                      }}
+                    >
+                      {isLiveBarn ? '📹 LiveBarn' : '🐻 BlackBear TV'}
+                      <span style={{ fontSize: 10, opacity: 0.7 }}>Watch live →</span>
+                    </a>
+                  );
+                })()}
+
+                {/* Pro shop link */}
+                {getRinkSlug(rink) === 'ice-line' && (
+                  <a
+                    href="https://icelinequadrinks.com/about/pro-shop/"
+                    target="_blank"
+                    rel="noopener noreferrer"
+                    style={{
+                      display: 'inline-flex', alignItems: 'center', gap: 6,
+                      padding: '5px 12px', borderRadius: 8,
+                      background: '#f0fdf4',
+                      border: '1px solid #bbf7d0',
+                      fontSize: 12, fontWeight: 600,
+                      color: '#15803d',
+                      textDecoration: 'none', cursor: 'pointer',
+                    }}
+                  >
+                    🏒 Pro Shop
+                    <span style={{ fontSize: 10, opacity: 0.7 }}>Visit site →</span>
+                  </a>
+                )}
+              </div>
+
+              {/* Compare + Plan trip on the right */}
+              <div style={{ display: 'flex', gap: 8, flexWrap: 'wrap' }}>
+                <button
+                  onClick={() => router.push(`/compare?rinks=${rinkId}`)}
                   style={{
-                    display: 'inline-flex', alignItems: 'center', gap: 6,
-                    padding: '5px 12px', borderRadius: 8,
-                    background: isLiveBarn ? '#fff7ed' : '#f0f9ff',
-                    border: `1px solid ${isLiveBarn ? '#fed7aa' : '#bae6fd'}`,
                     fontSize: 12, fontWeight: 600,
-                    color: isLiveBarn ? '#c2410c' : '#0369a1',
-                    textDecoration: 'none', cursor: 'pointer',
-                    alignSelf: 'flex-start',
+                    color: '#6b7280', background: '#f9fafb',
+                    border: '1px solid #e5e7eb',
+                    borderRadius: 8, padding: '6px 14px', cursor: 'pointer',
+                    display: 'flex', alignItems: 'center', gap: 4,
                   }}
                 >
-                  {isLiveBarn ? '📹 LiveBarn' : '🐻 BlackBear TV'}
-                  <span style={{ fontSize: 10, opacity: 0.7 }}>Watch live →</span>
-                </a>
-              );
-            })()}
-
-            {/* Pro shop link */}
-            {getRinkSlug(rink) === 'ice-line' && (
-              <a
-                href="https://icelinequadrinks.com/about/pro-shop/"
-                target="_blank"
-                rel="noopener noreferrer"
-                style={{
-                  display: 'inline-flex', alignItems: 'center', gap: 6,
-                  padding: '5px 12px', borderRadius: 8,
-                  background: '#f0fdf4',
-                  border: '1px solid #bbf7d0',
-                  fontSize: 12, fontWeight: 600,
-                  color: '#15803d',
-                  textDecoration: 'none', cursor: 'pointer',
-                  alignSelf: 'flex-start',
-                }}
-              >
-                🏒 Pro Shop
-                <span style={{ fontSize: 10, opacity: 0.7 }}>Visit site →</span>
-              </a>
-            )}
+                  ⚖️ Compare
+                </button>
+                <button
+                  onClick={() => router.push(`/trip/new?rink=${rinkId}`)}
+                  style={{
+                    fontSize: 12, fontWeight: 600,
+                    color: '#6b7280', background: '#f9fafb',
+                    border: '1px solid #e5e7eb',
+                    borderRadius: 8, padding: '6px 14px', cursor: 'pointer',
+                    display: 'flex', alignItems: 'center', gap: 4,
+                  }}
+                >
+                  📋 Plan trip
+                </button>
+              </div>
+            </div>
 
             {/* Home teams (skip for Ice Line — shown under address with links) */}
             {getRinkSlug(rink) !== 'ice-line' && (() => {
@@ -751,42 +782,15 @@ export default function RinkPage() {
               );
             })()}
 
-            {/* Action buttons — horizontal row */}
-            <div style={{ display: 'flex', gap: 8, flexWrap: 'wrap', marginTop: 4 }}>
-              <button
-                onClick={() => router.push(`/compare?rinks=${rinkId}`)}
-                style={{
-                  fontSize: 12, fontWeight: 600,
-                  color: '#6b7280', background: '#f9fafb',
-                  border: '1px solid #e5e7eb',
-                  borderRadius: 8, padding: '6px 14px', cursor: 'pointer',
-                  display: 'flex', alignItems: 'center', gap: 4,
-                }}
-              >
-                ⚖️ Compare
-              </button>
-              <button
-                onClick={() => router.push(`/trip/new?rink=${rinkId}`)}
-                style={{
-                  fontSize: 12, fontWeight: 600,
-                  color: '#6b7280', background: '#f9fafb',
-                  border: '1px solid #e5e7eb',
-                  borderRadius: 8, padding: '6px 14px', cursor: 'pointer',
-                  display: 'flex', alignItems: 'center', gap: 4,
-                }}
-              >
-                📋 Plan trip
-              </button>
-              <span
-                onClick={() => {
-                  const el = document.getElementById('claim-section');
-                  if (el) el.scrollIntoView({ behavior: 'smooth' });
-                }}
-                style={{ fontSize: 11, color: '#3b82f6', cursor: 'pointer', padding: '6px 0', display: 'flex', alignItems: 'center' }}
-              >
-                Claim this rink →
-              </span>
-            </div>
+            <span
+              onClick={() => {
+                const el = document.getElementById('claim-section');
+                if (el) el.scrollIntoView({ behavior: 'smooth' });
+              }}
+              style={{ fontSize: 11, color: '#3b82f6', cursor: 'pointer', padding: '6px 0', display: 'flex', alignItems: 'center' }}
+            >
+              Claim this rink →
+            </span>
           </div>
         </section>
 
