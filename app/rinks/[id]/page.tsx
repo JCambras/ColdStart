@@ -557,7 +557,7 @@ export default function RinkPage() {
 
   const tabBar = (
     <div role="tablist" aria-label="Rink sections" style={{
-      position: 'sticky', top: 57, zIndex: 40,
+      position: 'sticky', top: 0, zIndex: 40,
       background: 'rgba(250,251,252,0.92)', backdropFilter: 'blur(8px)',
       borderBottom: `1px solid ${colors.borderLight}`,
       display: 'flex', justifyContent: 'center', gap: 0, padding: '0 24px',
@@ -591,7 +591,17 @@ export default function RinkPage() {
   );
 
   return (
-    <PageShell back="/" navRight={<>{shareButton}{authSlot}</>} navBelow={tabBar}>
+    <PageShell logoStacked navBelow={<>
+      <div style={{
+        display: 'flex', alignItems: 'center', justifyContent: 'center', gap: 8,
+        padding: '6px 24px 8px',
+        background: 'rgba(250,251,252,0.92)',
+        backdropFilter: 'blur(8px)',
+      }}>
+        {shareButton}
+      </div>
+      {tabBar}
+    </>}>
       <div style={{ maxWidth: 680, margin: '0 auto', padding: '0 24px' }}>
 
         {/* Rink hero image */}
