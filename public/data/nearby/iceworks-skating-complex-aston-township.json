@@ -6,9 +6,24 @@
       "url": "https://www.google.com/maps/search/?api=1&query=Chipotle%20Mexican%20Grill&query_place_id=ChIJpZHaO1PnxokR2K4JqpvBiMU&center=39.8567475,-75.4273716"
     },
     {
+      "name": "Popeyes Louisiana Kitchen",
+      "distance": "0.2 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Popeyes%20Louisiana%20Kitchen&query_place_id=ChIJZY1-zAXmxokRrppEmpC696I&center=39.8602024,-75.4267649"
+    },
+    {
+      "name": "Laspada's Original Steaks & Hoagies",
+      "distance": "0.2 mi",
+      "url": "https://www.google.com/maps/search/Laspadas+Original+Steaks+4724+Pennell+Rd+Aston+PA"
+    },
+    {
       "name": "Wawa",
       "distance": "1.0 mi",
       "url": "https://www.google.com/maps/search/Wawa+5008+Pennell+Rd+Aston+PA"
+    },
+    {
+      "name": "Wendy's",
+      "distance": "1.0 mi",
+      "url": "https://www.google.com/maps/search/Wendys+5150+Pennell+Rd+Media+PA"
     },
     {
       "name": "Wawa",
@@ -21,31 +36,60 @@
       "url": "https://www.google.com/maps/search/Chick-fil-A+4700+Edgmont+Ave+Brookhaven+PA"
     },
     {
-      "name": "Wendy's",
-      "distance": "1.0 mi",
-      "url": "https://www.google.com/maps/search/Wendys+5150+Pennell+Rd+Media+PA"
+      "name": "McDonald's",
+      "distance": "2.5 mi",
+      "url": "https://www.google.com/maps/search/McDonalds+4206+Edgmont+Ave+Brookhaven+PA"
     },
     {
-      "name": "Popeyes Louisiana Kitchen",
-      "distance": "0.2 mi",
-      "url": "https://www.google.com/maps/search/?api=1&query=Popeyes%20Louisiana%20Kitchen&query_place_id=ChIJZY1-zAXmxokRrppEmpC696I&center=39.8602024,-75.4267649"
+      "name": "Panera Bread",
+      "distance": "4.0 mi",
+      "url": "https://www.google.com/maps/search/Panera+Bread+1022+Baltimore+Pike+Springfield+PA",
+      "isFar": true
     }
   ],
   "coffee": [
     {
-      "name": "Taste Budz Cafe",
-      "distance": "0.3 mi",
-      "url": "https://www.google.com/maps/search/?api=1&query=Taste%20Budz%20Cafe%204820%20Pennell%20Rd%20Aston%20PA%2019014"
+      "name": "Dunkin'",
+      "distance": "1.5 mi",
+      "url": "https://www.google.com/maps/search/Dunkin+464A+Conchester+Hwy+Aston+PA"
+    },
+    {
+      "name": "Wawa",
+      "distance": "2.0 mi",
+      "url": "https://www.google.com/maps/search/Wawa+5008+Pennell+Rd+Aston+PA"
+    },
+    {
+      "name": "Wawa",
+      "distance": "2.5 mi",
+      "url": "https://www.google.com/maps/search/Wawa+4703+Edgmont+Ave+Brookhaven+PA"
     },
     {
       "name": "Dunkin'",
-      "distance": "1.0 mi",
-      "url": "https://www.google.com/maps/search/?api=1&query=Dunkin%20464A%20Conchester%20Hwy%20Aston%20PA%2019014"
+      "distance": "2.5 mi",
+      "url": "https://www.google.com/maps/search/Dunkin+2705+Edgmont+Ave+Brookhaven+PA"
+    },
+    {
+      "name": "Dunkin'",
+      "distance": "3.0 mi",
+      "url": "https://www.google.com/maps/search/Dunkin+4580+Edgmont+Ave+Brookhaven+PA"
+    },
+    {
+      "name": "Wawa",
+      "distance": "3.5 mi",
+      "url": "https://www.google.com/maps/search/Wawa+489+Conchester+Hwy+Aston+PA",
+      "isFar": true
     },
     {
       "name": "Starbucks",
-      "distance": "3.0 mi",
-      "url": "https://www.google.com/maps/search/?api=1&query=Starbucks%204816%20Edgmont%20Ave%20Brookhaven%20PA%2019015"
+      "distance": "4.0 mi",
+      "url": "https://www.google.com/maps/search/Starbucks+501+E+Baltimore+Pike+Media+PA",
+      "isFar": true
+    },
+    {
+      "name": "Dunkin'",
+      "distance": "4.0 mi",
+      "url": "https://www.google.com/maps/search/Dunkin+400+E+Baltimore+Pike+Media+PA",
+      "isFar": true
     }
   ],
   "team_lunch": [

@@ -24,23 +24,73 @@
       "name": "Tropical Smoothie Cafe",
       "distance": "1.0 mi",
       "url": "https://www.google.com/maps/search/Tropical+Smoothie+Cafe+Egypt+Rd+Oaks+PA"
+    },
+    {
+      "name": "Uno Pizzeria & Grill",
+      "distance": "1.0 mi",
+      "url": "https://www.google.com/maps/search/Uno+Pizzeria+Grill+106+Black+Rock+Rd+Oaks+PA"
+    },
+    {
+      "name": "Chick-fil-A",
+      "distance": "3.0 mi",
+      "url": "https://www.google.com/maps/search/Chick-fil-A+680+S+Trooper+Rd+Audubon+PA"
+    },
+    {
+      "name": "McDonald's",
+      "distance": "4.0 mi",
+      "url": "https://www.google.com/maps/search/McDonalds+222+E+Main+St+Collegeville+PA",
+      "isFar": true
+    },
+    {
+      "name": "Panera Bread",
+      "distance": "5.0 mi",
+      "url": "https://www.google.com/maps/search/Panera+Bread+51+Town+Center+Dr+Collegeville+PA",
+      "isFar": true
     }
   ],
   "coffee": [
     {
-      "name": "Starbucks Coffee Company",
+      "name": "Wawa",
       "distance": "0.5 mi",
-      "url": "https://www.google.com/maps/search/?api=1&query=Starbucks%20Coffee%20Company&query_place_id=ChIJWY-DuEORxokRZj2iDDuxpgo&center=40.130680000000005,-75.45312"
+      "url": "https://www.google.com/maps/search/Wawa+1600+Egypt+Rd+Oaks+PA"
     },
     {
-      "name": "Starbucks Coffee Company",
-      "distance": "0.6 mi",
-      "url": "https://www.google.com/maps/search/?api=1&query=Starbucks%20Coffee%20Company&query_place_id=ChIJ_dF86_6RxokR3VG1tjIYYpk&center=40.133109999999995,-75.45218"
+      "name": "Starbucks",
+      "distance": "0.5 mi",
+      "url": "https://www.google.com/maps/search/Starbucks+1601+Egypt+Rd+Phoenixville+PA"
     },
     {
       "name": "Dunkin'",
-      "distance": "0.8 mi",
-      "url": "https://www.google.com/maps/search/?api=1&query=Dunkin'&query_place_id=ChIJUelTukeRxokRM3bV01aw3OI&center=40.1349503,-75.4481102"
+      "distance": "1.5 mi",
+      "url": "https://www.google.com/maps/search/Dunkin+108+Black+Rock+Rd+Oaks+PA"
+    },
+    {
+      "name": "Dunkin'",
+      "distance": "3.0 mi",
+      "url": "https://www.google.com/maps/search/Dunkin+218+Nutt+Rd+Phoenixville+PA"
+    },
+    {
+      "name": "Wawa",
+      "distance": "3.0 mi",
+      "url": "https://www.google.com/maps/search/Wawa+120+Schuylkill+Rd+Phoenixville+PA"
+    },
+    {
+      "name": "Starbucks",
+      "distance": "4.0 mi",
+      "url": "https://www.google.com/maps/search/Starbucks+500+Broad+St+Collegeville+PA",
+      "isFar": true
+    },
+    {
+      "name": "Dunkin'",
+      "distance": "4.0 mi",
+      "url": "https://www.google.com/maps/search/Dunkin+407+2nd+Ave+Collegeville+PA",
+      "isFar": true
+    },
+    {
+      "name": "Wawa",
+      "distance": "4.0 mi",
+      "url": "https://www.google.com/maps/search/Wawa+1860+S+Collegeville+Rd+Collegeville+PA",
+      "isFar": true
     }
   ],
   "team_lunch": [

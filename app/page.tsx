@@ -158,7 +158,21 @@ export default function HomePage() {
   }
 
   const signInMyRinks = (
-    <div style={{ display: 'flex', alignItems: 'center', gap: 8 }}>
+    <div style={{ display: 'flex', flexDirection: 'column', alignItems: 'center', gap: 4 }}>
+      <button
+        onClick={() => {
+          const el = document.getElementById('my-rinks-section');
+          if (el) el.scrollIntoView({ behavior: 'smooth' });
+        }}
+        style={{
+          fontSize: text.md, fontWeight: 600, color: colors.brand,
+          background: colors.bgInfo, border: `1px solid ${colors.brandLight}`,
+          borderRadius: 8, padding: '6px 14px', cursor: 'pointer',
+          display: 'flex', alignItems: 'center', gap: 5,
+        }}
+      >
+        ⭐ My Rinks
+      </button>
       {isLoggedIn && currentUser ? (
         <button
           onClick={() => setShowProfileDropdown(true)}
@@ -177,29 +191,15 @@ export default function HomePage() {
         <button
           onClick={openAuth}
           style={{
-            fontSize: text.md, fontWeight: 600, color: colors.white,
-            background: colors.textPrimary, border: 'none',
-            borderRadius: 8, padding: '7px 16px', cursor: 'pointer',
+            fontSize: text.xs, fontWeight: 500, color: colors.textMuted,
+            background: 'none', border: 'none',
+            padding: '2px 8px', cursor: 'pointer',
             whiteSpace: 'nowrap',
           }}
         >
           Sign in
         </button>
       )}
-      <button
-        onClick={() => {
-          const el = document.getElementById('my-rinks-section');
-          if (el) el.scrollIntoView({ behavior: 'smooth' });
-        }}
-        style={{
-          fontSize: text.md, fontWeight: 600, color: colors.brand,
-          background: colors.bgInfo, border: `1px solid ${colors.brandLight}`,
-          borderRadius: 8, padding: '6px 14px', cursor: 'pointer',
-          display: 'flex', alignItems: 'center', gap: 5,
-        }}
-      >
-        ⭐ My Rinks
-      </button>
     </div>
   );
 

@@ -2,7 +2,6 @@
 
 import { useState, useEffect } from 'react';
 import { SIGNAL_LABELS } from '../lib/constants';
-import { getVerdictColor } from '../lib/rinkHelpers';
 import { colors, text } from '../lib/theme';
 
 interface Signal {
@@ -91,14 +90,6 @@ export function RinkCard({ rink, onClick }: { rink: RinkData; onClick: () => voi
       {summary ? (
         <div style={{ flex: 1, display: 'flex', flexDirection: 'column', justifyContent: 'space-between', marginTop: 10 }}>
           <div>
-            {/* Verdict */}
-            <p style={{
-              fontSize: text.md, fontWeight: 600, color: getVerdictColor(summary.verdict),
-              margin: 0, lineHeight: 1.4,
-            }}>
-              {summary.verdict}
-            </p>
-
             {/* Signal bars — all signals, parking first */}
             <div style={{ display: 'flex', flexDirection: 'column' as const, gap: isMobile ? 7 : 8, marginTop: 10 }}>
               {[...summary.signals]

@@ -124,16 +124,6 @@ export function TipCard({ tip, tipIndex, rinkSlug }: { tip: Tip; tipIndex: numbe
                 }}>
                   {isLocal ? 'Plays here regularly' : 'Visiting parent'}
                 </span>
-                {tip.context && (
-                  <span style={{
-                    fontSize: text['2xs'], fontWeight: 500, padding: '2px 8px',
-                    borderRadius: radius.lg,
-                    background: tip.context === 'tournament' ? colors.bgWarning : colors.bgSuccess,
-                    color: tip.context === 'tournament' ? colors.warning : colors.success,
-                  }}>
-                    {tip.context === 'tournament' ? '🏆 Tournament' : '📅 Regular season'}
-                  </span>
-                )}
                 <span style={{ fontSize: text['2xs'], color: colors.textMuted }}>{timeAgo(tip.created_at)}</span>
               </div>
               {response && (

@@ -9,11 +9,10 @@ import { colors } from '../../lib/theme';
 
 interface QuickVoteRowProps {
   rinkId: string;
-  context: string;
   onSummaryUpdate: (s: RinkSummary) => void;
 }
 
-export function QuickVoteRow({ rinkId, context, onSummaryUpdate }: QuickVoteRowProps) {
+export function QuickVoteRow({ rinkId, onSummaryUpdate }: QuickVoteRowProps) {
   const [activeSignal, setActiveSignal] = useState<SignalType | null>(null);
   const [hoveredValue, setHoveredValue] = useState<number | null>(null);
   const [submitting, setSubmitting] = useState(false);
@@ -35,7 +34,7 @@ export function QuickVoteRow({ rinkId, context, onSummaryUpdate }: QuickVoteRowP
     const contributorType = storage.getContributorType();
     const { data } = await apiPost<{ summary?: RinkSummary }>('/contributions', {
       rink_id: rinkId, kind: 'signal_rating', contributor_type: contributorType,
-      context, signal_rating: { signal: activeSignal, value },
+      signal_rating: { signal: activeSignal, value },
     });
     if (data?.summary) onSummaryUpdate(data.summary);
     setJustRated(activeSignal);

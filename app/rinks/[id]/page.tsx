@@ -322,7 +322,6 @@ export default function RinkPage() {
   const [error, setError] = useState<string | null>(null);
   const [shareCopied, setShareCopied] = useState(false);
   const [showReturnPrompt, setShowReturnPrompt] = useState(false);
-  const [signalFilter, setSignalFilter] = useState<'all' | 'tournament' | 'regular'>('all');
 
   const [nearbyData, setNearbyData] = useState<Record<string, NearbyPlace[]> | null>(null);
   const [loadedSignals, setLoadedSignals] = useState<Record<string, { value: number; count: number; confidence: number }> | null>(null);
@@ -652,7 +651,7 @@ export default function RinkPage() {
                   ,{' '}
                   <a href="https://myhockeyrankings.com/association-info?a=3363" target="_blank" rel="noopener noreferrer" style={{ color: colors.brand, textDecoration: 'none', fontWeight: 500 }}>Team Philadelphia</a>
                   , and{' '}
-                  <a href="https://myhockeyrankings.com/association_info.php?a=4054" target="_blank" rel="noopener noreferrer" style={{ color: colors.brand, textDecoration: 'none', fontWeight: 500 }}>West Chester Wolverines</a>
+                  <a href="https://www.wcwolverines.org/" target="_blank" rel="noopener noreferrer" style={{ color: colors.brand, textDecoration: 'none', fontWeight: 500 }}>West Chester Wolverines</a>
                 </div>
               )}
             </div>
@@ -685,9 +684,9 @@ export default function RinkPage() {
 
           {/* ── Secondary info — below the fold ── */}
           <div style={{ marginTop: 16, display: 'flex', flexDirection: 'column', gap: 8 }}>
-            {/* Badges row: LiveBarn/Pro Shop on left, Compare/Plan trip on right */}
-            <div style={{ display: 'flex', justifyContent: 'space-between', alignItems: 'flex-start', flexWrap: 'wrap', gap: 8 }}>
-              <div style={{ display: 'flex', gap: 8, flexWrap: 'wrap' }}>
+            {/* Badges row: LiveBarn/Pro Shop stacked on left, Compare/Plan trip stacked on right */}
+            <div style={{ display: 'flex', justifyContent: 'space-between', alignItems: 'flex-start', gap: 8 }}>
+              <div style={{ display: 'flex', flexDirection: 'column', gap: 6 }}>
                 {/* Streaming badge */}
                 {(() => {
                   const streaming = RINK_STREAMING[getRinkSlug(rink)];
@@ -736,8 +735,8 @@ export default function RinkPage() {
                 )}
               </div>
 
-              {/* Compare + Plan trip on the right */}
-              <div style={{ display: 'flex', gap: 8, flexWrap: 'wrap' }}>
+              {/* Compare + Plan trip stacked on the right */}
+              <div style={{ display: 'flex', flexDirection: 'column', gap: 6 }}>
                 <button
                   onClick={() => router.push(`/compare?rinks=${rinkId}`)}
                   style={{
@@ -807,8 +806,6 @@ export default function RinkPage() {
           rink={rink}
           summary={summary}
           loadedSignals={loadedSignals}
-          signalFilter={signalFilter}
-          onFilterChange={setSignalFilter}
         />
 
         {/* No data state */}

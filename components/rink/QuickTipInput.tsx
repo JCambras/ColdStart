@@ -9,11 +9,10 @@ import { colors } from '../../lib/theme';
 
 interface QuickTipInputProps {
   rinkId: string;
-  context: string;
   onSummaryUpdate: (s: RinkSummary) => void;
 }
 
-export function QuickTipInput({ rinkId, context, onSummaryUpdate }: QuickTipInputProps) {
+export function QuickTipInput({ rinkId, onSummaryUpdate }: QuickTipInputProps) {
   const { isLoggedIn, openAuth } = useAuth();
   const [text, setText] = useState('');
   const [submitting, setSubmitting] = useState(false);
@@ -35,7 +34,7 @@ export function QuickTipInput({ rinkId, context, onSummaryUpdate }: QuickTipInpu
     const contributorType = storage.getContributorType();
     const { data } = await apiPost<{ summary?: RinkSummary }>('/contributions', {
       rink_id: rinkId, kind: 'one_thing_tip', contributor_type: contributorType,
-      context, one_thing_tip: { text: tipText.trim() },
+      one_thing_tip: { text: tipText.trim() },
     });
     if (data?.summary) onSummaryUpdate(data.summary);
     setText('');

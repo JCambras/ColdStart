@@ -172,10 +172,9 @@ export function ContributeSection({ rinkId, onSummaryUpdate }: { rinkId: string;
 // ── Rate & Contribute — main flow ──
 export function RateAndContribute({ rinkId, rinkName, onSummaryUpdate }: { rinkId: string; rinkName: string; onSummaryUpdate: (s: RinkSummary) => void }) {
   const { isLoggedIn } = useAuth();
-  const [phase, setPhase] = useState<'button' | 'verify' | 'context' | 'rate' | 'tip' | 'done_rate' | 'done_tip'>('button');
+  const [phase, setPhase] = useState<'button' | 'verify' | 'rate' | 'tip' | 'done_rate' | 'done_tip'>('button');
   const [botAnswer, setBotAnswer] = useState('');
   const verifyNum = useRef(Math.floor(Math.random() * 5) + 2);
-  const [ratingContext, setRatingContext] = useState<'tournament' | 'regular' | null>(null);
   const [pendingFlow, setPendingFlow] = useState<'rate' | 'tip'>('rate');
   const [hasRated, setHasRated] = useState(false);
 
@@ -192,13 +191,7 @@ export function RateAndContribute({ rinkId, rinkName, onSummaryUpdate }: { rinkI
   }
 
   function checkBot() {
-    if (parseInt(botAnswer) === verifyNum.current + 3) setPhase('context');
-  }
-
-  function selectContext(ctx: 'tournament' | 'regular') {
-    setRatingContext(ctx);
-    storage.setRatingContext(ctx);
-    setPhase(pendingFlow);
+    if (parseInt(botAnswer) === verifyNum.current + 3) setPhase(pendingFlow);
   }
 
   function startFlow(flow: 'rate' | 'tip') {
@@ -209,9 +202,7 @@ export function RateAndContribute({ rinkId, rinkName, onSummaryUpdate }: { rinkI
       setPhase('verify');
       return;
     }
-    const savedCtx = storage.getRatingContext() as 'tournament' | 'regular' | null;
-    if (savedCtx) { setRatingContext(savedCtx); setPhase(flow); }
-    else setPhase('context');
+    setPhase(flow);
   }
 
   if (phase === 'button') {
@@ -265,48 +256,18 @@ export function RateAndContribute({ rinkId, rinkName, onSummaryUpdate }: { rinkI
     );
   }
 
-  if (phase === 'context') {
-    return (
-      <section style={{ marginTop: 16, background: colors.white, border: `1px solid ${colors.borderDefault}`, borderRadius: 16, padding: 24, textAlign: 'center' }}>
-        <p style={{ fontSize: 14, fontWeight: 600, color: colors.textPrimary, margin: 0 }}>When were you here?</p>
-        <p style={{ fontSize: 12, color: colors.textTertiary, marginTop: 4 }}>Helps parents filter by context</p>
-        <div style={{ display: 'flex', gap: 12, justifyContent: 'center', marginTop: 16 }}>
-          {([['tournament', '🏆', 'Tournament', 'Weekend event'], ['regular', '📅', 'Regular season', 'League or practice']] as const).map(([key, icon, title, sub]) => (
-            <button key={key} onClick={() => selectContext(key as 'tournament' | 'regular')} style={{
-              flex: 1, maxWidth: 180, padding: '14px 16px', background: colors.white, border: `1.5px solid ${colors.borderDefault}`, borderRadius: 12, cursor: 'pointer', transition: 'all 0.15s', textAlign: 'center',
-            }}
-            onMouseEnter={(e) => { e.currentTarget.style.borderColor = key === 'tournament' ? colors.amber : colors.brand; e.currentTarget.style.background = key === 'tournament' ? colors.bgWarning : colors.bgInfo; }}
-            onMouseLeave={(e) => { e.currentTarget.style.borderColor = colors.borderDefault; e.currentTarget.style.background = colors.white; }}>
-              <div style={{ fontSize: 22, marginBottom: 4 }}>{icon}</div>
-              <div style={{ fontSize: 13, fontWeight: 600, color: colors.textPrimary }}>{title}</div>
-              <div style={{ fontSize: 11, color: colors.textMuted, marginTop: 2 }}>{sub}</div>
-            </button>
-          ))}
-        </div>
-      </section>
-    );
-  }
-
   if (phase === 'rate') {
     return (
       <section style={{ marginTop: 16, background: colors.white, border: `1px solid ${colors.borderDefault}`, borderRadius: 16, overflow: 'hidden' }}>
-        <div style={{ padding: '8px 24px', background: ratingContext === 'tournament' ? colors.bgWarning : colors.bgInfo, borderBottom: `1px solid ${colors.borderLight}`, display: 'flex', alignItems: 'center', justifyContent: 'space-between' }}>
-          <div style={{ display: 'flex', gap: 4 }}>
-            {(['tournament', 'regular'] as const).map(ctx => (
-              <button key={ctx} onClick={() => { setRatingContext(ctx); storage.setRatingContext(ctx); }}
-                style={{ fontSize: 11, fontWeight: ratingContext === ctx ? 600 : 400, padding: '4px 10px', borderRadius: 6, border: 'none', cursor: 'pointer', background: ratingContext === ctx ? (ctx === 'tournament' ? colors.warningBorder : colors.brandLight) : 'transparent', color: ratingContext === ctx ? (ctx === 'tournament' ? colors.amberDark : colors.indigo) : colors.textMuted, transition: 'all 0.15s' }}>
-                {ctx === 'tournament' ? '🏆 Tournament' : '📅 Regular'}
-              </button>
-            ))}
-          </div>
+        <div style={{ padding: '8px 24px', background: colors.bgInfo, borderBottom: `1px solid ${colors.borderLight}`, display: 'flex', alignItems: 'center', justifyContent: 'space-between' }}>
+          <span style={{ fontSize: 13, fontWeight: 600, color: colors.textPrimary }}>Rate the signals</span>
           <VisitorToggle />
         </div>
         <div style={{ padding: '18px 24px' }}>
-          <div style={{ display: 'flex', alignItems: 'center', justifyContent: 'space-between', marginBottom: 14 }}>
-            <span style={{ fontSize: 13, fontWeight: 600, color: colors.textPrimary }}>Rate the signals</span>
+          <div style={{ display: 'flex', alignItems: 'center', justifyContent: 'flex-end', marginBottom: 14 }}>
             <span style={{ fontSize: 11, color: colors.textMuted }}>Tap one, then rate 1-5</span>
           </div>
-          <QuickVoteRow rinkId={rinkId} context={ratingContext || ''} onSummaryUpdate={onSummaryUpdate} />
+          <QuickVoteRow rinkId={rinkId} onSummaryUpdate={onSummaryUpdate} />
         </div>
         <div style={{ padding: '12px 24px 16px', borderTop: `1px solid ${colors.borderLight}` }}>
           <button onClick={() => { markRated(); setPhase('done_rate'); }} style={{ width: '100%', padding: '13px 20px', fontSize: 14, fontWeight: 600, background: colors.textPrimary, color: colors.white, border: 'none', borderRadius: 12, cursor: 'pointer', transition: 'all 0.2s' }}
@@ -322,23 +283,15 @@ export function RateAndContribute({ rinkId, rinkName, onSummaryUpdate }: { rinkI
   if (phase === 'tip') {
     return (
       <section style={{ marginTop: 16, background: colors.white, border: `1px solid ${colors.borderDefault}`, borderRadius: 16, overflow: 'hidden' }}>
-        <div style={{ padding: '8px 24px', background: ratingContext === 'tournament' ? colors.bgWarning : colors.bgInfo, borderBottom: `1px solid ${colors.borderLight}`, display: 'flex', alignItems: 'center', justifyContent: 'space-between' }}>
-          <div style={{ display: 'flex', gap: 4 }}>
-            {(['tournament', 'regular'] as const).map(ctx => (
-              <button key={ctx} onClick={() => { setRatingContext(ctx); storage.setRatingContext(ctx); }}
-                style={{ fontSize: 11, fontWeight: ratingContext === ctx ? 600 : 400, padding: '4px 10px', borderRadius: 6, border: 'none', cursor: 'pointer', background: ratingContext === ctx ? (ctx === 'tournament' ? colors.warningBorder : colors.brandLight) : 'transparent', color: ratingContext === ctx ? (ctx === 'tournament' ? colors.amberDark : colors.indigo) : colors.textMuted, transition: 'all 0.15s' }}>
-                {ctx === 'tournament' ? '🏆 Tournament' : '📅 Regular'}
-              </button>
-            ))}
-          </div>
+        <div style={{ padding: '8px 24px', background: colors.bgInfo, borderBottom: `1px solid ${colors.borderLight}`, display: 'flex', alignItems: 'center', justifyContent: 'space-between' }}>
+          <span style={{ fontSize: 13, fontWeight: 600, color: colors.textPrimary }}>Drop a tip</span>
           <VisitorToggle />
         </div>
         <div style={{ padding: '18px 24px' }}>
           <div style={{ marginBottom: 10 }}>
-            <span style={{ fontSize: 13, fontWeight: 600, color: colors.textPrimary }}>Drop a tip</span>
-            <span style={{ fontSize: 11, color: colors.textMuted, marginLeft: 8 }}>What should parents know?</span>
+            <span style={{ fontSize: 11, color: colors.textMuted }}>What should parents know?</span>
           </div>
-          <QuickTipInput rinkId={rinkId} context={ratingContext || ''} onSummaryUpdate={onSummaryUpdate} />
+          <QuickTipInput rinkId={rinkId} onSummaryUpdate={onSummaryUpdate} />
         </div>
         <div style={{ padding: '12px 24px 16px', borderTop: `1px solid ${colors.borderLight}`, textAlign: 'center' }}>
           {!hasRated ? (

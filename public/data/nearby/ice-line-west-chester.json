@@ -6,6 +6,16 @@
       "url": "https://www.google.com/maps/search/Chick-fil-A+991+Paoli+Pike+West+Chester+PA"
     },
     {
+      "name": "Popeyes",
+      "distance": "1.5 mi",
+      "url": "https://www.google.com/maps/search/Popeyes+829+Paoli+Pike+West+Chester+PA"
+    },
+    {
+      "name": "Wawa",
+      "distance": "1.5 mi",
+      "url": "https://www.google.com/maps/search/Wawa+1195+Pottstown+Pike+West+Chester+PA"
+    },
+    {
       "name": "Chipotle Mexican Grill",
       "distance": "2.0 mi",
       "url": "https://www.google.com/maps/search/Chipotle+101+Turner+Ln+West+Chester+PA"
@@ -16,41 +26,73 @@
       "url": "https://www.google.com/maps/search/Wawa+1594+Paoli+Pike+West+Chester+PA"
     },
     {
+      "name": "QDOBA Mexican Eats",
+      "distance": "2.5 mi",
+      "url": "https://www.google.com/maps/search/QDOBA+1107+West+Chester+Pike+West+Chester+PA"
+    },
+    {
       "name": "Panera Bread",
       "distance": "2.5 mi",
       "url": "https://www.google.com/maps/search/Panera+Bread+1115+W+Chester+Pike+West+Chester+PA"
     },
     {
-      "name": "Popeyes",
-      "distance": "1.5 mi",
-      "url": "https://www.google.com/maps/search/Popeyes+829+Paoli+Pike+West+Chester+PA"
+      "name": "Wendy's",
+      "distance": "3.0 mi",
+      "url": "https://www.google.com/maps/search/Wendys+700+E+Gay+St+West+Chester+PA"
     },
     {
-      "name": "QDOBA Mexican Eats",
-      "distance": "2.5 mi",
-      "url": "https://www.google.com/maps/search/QDOBA+1107+West+Chester+Pike+West+Chester+PA"
+      "name": "Jersey Mike's Subs",
+      "distance": "3.0 mi",
+      "url": "https://www.google.com/maps/search/Jersey+Mikes+323+E+Gay+St+West+Chester+PA"
+    },
+    {
+      "name": "McDonald's",
+      "distance": "3.0 mi",
+      "url": "https://www.google.com/maps/search/McDonalds+701+E+Gay+St+West+Chester+PA"
     }
   ],
   "coffee": [
     {
-      "name": "Starbucks Coffee Company",
+      "name": "Wawa",
+      "distance": "0.5 mi",
+      "url": "https://www.google.com/maps/search/Wawa+10+W+Boot+Rd+West+Chester+PA"
+    },
+    {
+      "name": "Starbucks",
       "distance": "0.7 mi",
-      "url": "https://www.google.com/maps/search/?api=1&query=Starbucks%20Coffee%20Company&query_place_id=ChIJ5YV33bT2xokRhEWSOfk6Gag&center=39.9722557,-75.5857916"
-    },
-    {
-      "name": "Starbucks Coffee Company",
-      "distance": "0.8 mi",
-      "url": "https://www.google.com/maps/search/?api=1&query=Starbucks%20Coffee%20Company&query_place_id=ChIJveoWAgXxxokRUsEbGwcjIZY&center=39.97153,-75.58635"
-    },
-    {
-      "name": "Panera Bread",
-      "distance": "1.0 mi",
-      "url": "https://www.google.com/maps/search/?api=1&query=Panera%20Bread&query_place_id=ChIJXwqSO4DxxokRBqxLgGExaLA&center=39.970380000000006,-75.573898"
+      "url": "https://www.google.com/maps/search/Starbucks+1375+Boot+Rd+West+Chester+PA"
     },
     {
       "name": "Dunkin'",
-      "distance": "1.1 mi",
-      "url": "https://www.google.com/maps/search/?api=1&query=Dunkin'&query_place_id=ChIJndbSv37xxokRXIkcYLcz6N8&center=39.9683677,-75.5784585"
+      "distance": "1.5 mi",
+      "url": "https://www.google.com/maps/search/Dunkin+750+Miles+Rd+West+Chester+PA"
+    },
+    {
+      "name": "Dunkin'",
+      "distance": "2.0 mi",
+      "url": "https://www.google.com/maps/search/Dunkin+1500+Paoli+Pike+West+Chester+PA"
+    },
+    {
+      "name": "Wawa",
+      "distance": "2.0 mi",
+      "url": "https://www.google.com/maps/search/Wawa+1594+Paoli+Pike+West+Chester+PA"
+    },
+    {
+      "name": "Starbucks",
+      "distance": "3.0 mi",
+      "url": "https://www.google.com/maps/search/Starbucks+1304+Wilmington+Pike+West+Chester+PA"
+    },
+    {
+      "name": "Dunkin'",
+      "distance": "3.5 mi",
+      "url": "https://www.google.com/maps/search/Dunkin+607+E+Market+St+West+Chester+PA",
+      "isFar": true
+    },
+    {
+      "name": "Wawa",
+      "distance": "3.5 mi",
+      "url": "https://www.google.com/maps/search/Wawa+706+E+Gay+St+West+Chester+PA",
+      "isFar": true
     }
   ],
   "team_lunch": [
