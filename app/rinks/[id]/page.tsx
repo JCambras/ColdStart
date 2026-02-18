@@ -653,10 +653,10 @@ export default function RinkPage() {
               </p>
               {getRinkSlug(rink) === 'ice-line' && (
                 <div style={{ fontSize: 12, color: '#6b7280', marginTop: 4 }}>
-                  🏠 Home of{' '}
-                  <a href="https://myhockeyrankings.com/association-info?a=212" target="_blank" rel="noopener noreferrer" style={{ color: colors.brand, textDecoration: 'none', fontWeight: 500 }}>Junior Flyers</a>
+                  🏠 Home of the{' '}
+                  <a href="https://myhockeyrankings.com/association-info?a=212" target="_blank" rel="noopener noreferrer" style={{ color: colors.brand, textDecoration: 'none', fontWeight: 500 }}>Philadelphia Junior Flyers</a>
                   ,{' '}
-                  <a href="https://myhockeyrankings.com/association-info?a=3363" target="_blank" rel="noopener noreferrer" style={{ color: colors.brand, textDecoration: 'none', fontWeight: 500 }}>Team PHL</a>
+                  <a href="https://myhockeyrankings.com/association-info?a=3363" target="_blank" rel="noopener noreferrer" style={{ color: colors.brand, textDecoration: 'none', fontWeight: 500 }}>Team Philadelphia</a>
                   , and{' '}
                   <a href="https://myhockeyrankings.com/association_info.php?a=4054" target="_blank" rel="noopener noreferrer" style={{ color: colors.brand, textDecoration: 'none', fontWeight: 500 }}>West Chester Wolverines</a>
                 </div>
