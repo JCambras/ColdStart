@@ -204,13 +204,14 @@ export function RateAndContribute({ rinkId, rinkName, onSummaryUpdate }: { rinkI
   function startFlow(flow: 'rate' | 'tip') {
     setPendingFlow(flow);
     if (hasRated && flow === 'rate') return;
-    if (isLoggedIn) {
-      const savedCtx = storage.getRatingContext() as 'tournament' | 'regular' | null;
-      if (savedCtx) { setRatingContext(savedCtx); setPhase(flow); }
-      else setPhase('context');
-    } else {
+    // Ratings don't require login; tips and comments do
+    if (flow === 'tip' && !isLoggedIn) {
       setPhase('verify');
+      return;
     }
+    const savedCtx = storage.getRatingContext() as 'tournament' | 'regular' | null;
+    if (savedCtx) { setRatingContext(savedCtx); setPhase(flow); }
+    else setPhase('context');
   }
 
   if (phase === 'button') {

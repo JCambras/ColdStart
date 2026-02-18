@@ -1,11 +1,10 @@
 'use client';
 
-import { useState, useEffect, useRef } from 'react';
+import { useState } from 'react';
 import { SIGNAL_META, SignalType } from '../../lib/constants';
 import { RinkSummary } from '../../lib/rinkTypes';
 import { apiPost } from '../../lib/api';
 import { storage } from '../../lib/storage';
-import { useAuth } from '../../contexts/AuthContext';
 import { colors } from '../../lib/theme';
 
 interface QuickVoteRowProps {
@@ -15,21 +14,10 @@ interface QuickVoteRowProps {
 }
 
 export function QuickVoteRow({ rinkId, context, onSummaryUpdate }: QuickVoteRowProps) {
-  const { isLoggedIn, openAuth } = useAuth();
   const [activeSignal, setActiveSignal] = useState<SignalType | null>(null);
   const [hoveredValue, setHoveredValue] = useState<number | null>(null);
   const [submitting, setSubmitting] = useState(false);
   const [justRated, setJustRated] = useState<string | null>(null);
-  const pendingSubmitRef = useRef<{ signal: SignalType; value: number } | null>(null);
-
-  useEffect(() => {
-    if (isLoggedIn && pendingSubmitRef.current) {
-      const { signal, value } = pendingSubmitRef.current;
-      pendingSubmitRef.current = null;
-      setActiveSignal(signal);
-      submitRating(value);
-    }
-  }, [isLoggedIn]); // eslint-disable-line react-hooks/exhaustive-deps
 
   const signals: { key: SignalType; icon: string; label: string }[] = [
     { key: 'parking', icon: '🅿️', label: 'Parking' },
@@ -43,11 +31,6 @@ export function QuickVoteRow({ rinkId, context, onSummaryUpdate }: QuickVoteRowP
 
   async function submitRating(value: number) {
     if (!activeSignal || submitting) return;
-    if (!isLoggedIn) {
-      pendingSubmitRef.current = { signal: activeSignal, value };
-      openAuth();
-      return;
-    }
     setSubmitting(true);
     const contributorType = storage.getContributorType();
     const { data } = await apiPost<{ summary?: RinkSummary }>('/contributions', {
