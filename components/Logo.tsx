@@ -15,6 +15,7 @@ export function Logo({ size = 36, stacked = false }: { size?: number; stacked?: 
           color: colors.textPrimary,
           letterSpacing: -1,
           cursor: 'pointer',
+          whiteSpace: 'nowrap',
         }}
       >
         Cold<span style={{ color: colors.brand }}>Start</span>{' '}
@@ -34,6 +35,7 @@ export function Logo({ size = 36, stacked = false }: { size?: number; stacked?: 
         color: colors.textPrimary,
         letterSpacing: size >= 48 ? -1 : -0.5,
         cursor: 'pointer',
+        whiteSpace: 'nowrap',
       }}
     >
       Cold<span style={{ color: colors.brand }}>Start</span>{' '}
