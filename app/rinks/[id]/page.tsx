@@ -718,6 +718,28 @@ export default function RinkPage() {
               );
             })()}
 
+            {/* Pro shop link */}
+            {getRinkSlug(rink) === 'ice-line' && (
+              <a
+                href="https://icelinequadrinks.com/about/pro-shop/"
+                target="_blank"
+                rel="noopener noreferrer"
+                style={{
+                  display: 'inline-flex', alignItems: 'center', gap: 6,
+                  padding: '5px 12px', borderRadius: 8,
+                  background: '#f0fdf4',
+                  border: '1px solid #bbf7d0',
+                  fontSize: 12, fontWeight: 600,
+                  color: '#15803d',
+                  textDecoration: 'none', cursor: 'pointer',
+                  alignSelf: 'flex-start',
+                }}
+              >
+                🏒 Pro Shop
+                <span style={{ fontSize: 10, opacity: 0.7 }}>Visit site →</span>
+              </a>
+            )}
+
             {/* Home teams */}
             {(() => {
               const teams = detail.home_teams;
