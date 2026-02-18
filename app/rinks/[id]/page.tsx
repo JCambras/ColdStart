@@ -5,7 +5,7 @@ import { useParams, useRouter } from 'next/navigation';
 import Image from 'next/image';
 import { PageShell } from '../../../components/PageShell';
 import { RinkSummary, RinkDetail } from '../../../lib/rinkTypes';
-import { NearbyPlace, SEEDED_FAN_FAVORITES, RINK_STREAMING, RINK_HOME_TEAMS } from '../../../lib/seedData';
+import { NearbyPlace, SEEDED_FAN_FAVORITES, RINK_STREAMING } from '../../../lib/seedData';
 import { getRinkSlug, getNearbyPlaces, buildRinkDetailFromSeed, getVerdictColor, getVerdictBg, timeAgo, ensureAllSignals, getBarColor } from '../../../lib/rinkHelpers';
 import { SIGNAL_META, API_URL } from '../../../lib/constants';
 import { NearbySection } from '../../../components/rink/NearbySection';
@@ -689,7 +689,7 @@ export default function RinkPage() {
 
             {/* Home teams */}
             {(() => {
-              const teams = RINK_HOME_TEAMS[getRinkSlug(rink)];
+              const teams = detail.home_teams;
               if (!teams || teams.length === 0) return null;
               return (
                 <div style={{ fontSize: 12, color: '#6b7280' }}>

@@ -21,7 +21,13 @@ export async function GET(
     const rink = rows[0];
     const summary = await buildSummary(id);
 
-    return NextResponse.json({ rink, summary });
+    const { rows: teamRows } = await pool.query(
+      'SELECT team_name FROM home_teams WHERE rink_id = $1 ORDER BY id',
+      [id]
+    );
+    const home_teams = teamRows.map((r: { team_name: string }) => r.team_name);
+
+    return NextResponse.json({ rink, summary, home_teams });
   } catch (err) {
     console.error('GET /api/v1/rinks/[id] error:', err);
     return NextResponse.json({ error: 'Internal server error' }, { status: 500 });

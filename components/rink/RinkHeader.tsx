@@ -3,7 +3,7 @@
 import { useRouter } from 'next/navigation';
 import { SaveRinkButton } from './SaveRinkButton';
 import { getVerdictColor, getRinkSlug } from '../../lib/rinkHelpers';
-import { RINK_STREAMING, RINK_HOME_TEAMS } from '../../lib/seedData';
+import { RINK_STREAMING } from '../../lib/seedData';
 import { colors } from '../../lib/theme';
 import type { Rink } from '../../lib/rinkTypes';
 
@@ -11,13 +11,14 @@ interface RinkHeaderProps {
   rink: Rink;
   rinkId: string;
   verdict: string;
+  homeTeams?: string[];
 }
 
-export function RinkHeader({ rink, rinkId, verdict }: RinkHeaderProps) {
+export function RinkHeader({ rink, rinkId, verdict, homeTeams }: RinkHeaderProps) {
   const router = useRouter();
   const slug = getRinkSlug(rink);
   const streaming = RINK_STREAMING[slug];
-  const teams = RINK_HOME_TEAMS[slug];
+  const teams = homeTeams;
 
   return (
     <section style={{ paddingTop: 40, paddingBottom: 8 }}>

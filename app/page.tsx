@@ -159,32 +159,6 @@ export default function HomePage() {
 
   const navRightContent = (
     <>
-      <button
-        onClick={() => router.push('/calendar')}
-        aria-label="Tournaments"
-        style={{
-          fontSize: text.md, fontWeight: 600, color: colors.warning,
-          background: colors.bgWarning, border: `1px solid ${colors.warningBorder}`,
-          borderRadius: 8, padding: '6px 14px', cursor: 'pointer',
-          display: 'flex', alignItems: 'center', gap: 5,
-        }}
-      >
-        🏆
-      </button>
-      <button
-        onClick={() => {
-          const el = document.getElementById('my-rinks-section');
-          if (el) el.scrollIntoView({ behavior: 'smooth' });
-        }}
-        style={{
-          fontSize: text.md, fontWeight: 600, color: colors.brand,
-          background: colors.bgInfo, border: `1px solid ${colors.brandLight}`,
-          borderRadius: 8, padding: '6px 14px', cursor: 'pointer',
-          display: 'flex', alignItems: 'center', gap: 5,
-        }}
-      >
-        ⭐ My Rinks
-      </button>
       {isLoggedIn && currentUser ? (
         <button
           onClick={() => setShowProfileDropdown(true)}
@@ -215,11 +189,37 @@ export default function HomePage() {
     </>
   );
 
+  const navBelowContent = (
+    <div style={{
+      display: 'flex', alignItems: 'center', justifyContent: 'center', gap: 8,
+      padding: '8px 24px',
+      background: 'rgba(250,251,252,0.92)',
+      backdropFilter: 'blur(8px)',
+      borderBottom: `1px solid ${colors.borderLight}`,
+    }}>
+      <StateDropdown onSelect={(code) => router.push(`/states/${code}`)} />
+      <button
+        onClick={() => {
+          const el = document.getElementById('my-rinks-section');
+          if (el) el.scrollIntoView({ behavior: 'smooth' });
+        }}
+        style={{
+          fontSize: text.md, fontWeight: 600, color: colors.brand,
+          background: colors.bgInfo, border: `1px solid ${colors.brandLight}`,
+          borderRadius: 8, padding: '6px 14px', cursor: 'pointer',
+          display: 'flex', alignItems: 'center', gap: 5,
+        }}
+      >
+        ⭐ My Rinks
+      </button>
+    </div>
+  );
+
   return (
     <PageShell
       logoSize={48}
-      navCenter={<StateDropdown onSelect={(code) => router.push(`/states/${code}`)} />}
       navRight={navRightContent}
+      navBelow={navBelowContent}
     >
       {/* ── Hero + Search ── */}
       <HeroSearch

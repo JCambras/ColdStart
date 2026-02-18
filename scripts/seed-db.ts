@@ -1,5 +1,5 @@
 import pg from 'pg';
-import { readFileSync } from 'fs';
+import { readFileSync, existsSync } from 'fs';
 import { join } from 'path';
 
 const { Pool } = pg;
@@ -49,6 +49,14 @@ async function run() {
         context TEXT,
         created_at TIMESTAMPTZ NOT NULL DEFAULT NOW()
       );
+
+      CREATE TABLE IF NOT EXISTS home_teams (
+        id SERIAL PRIMARY KEY,
+        rink_id TEXT NOT NULL REFERENCES rinks(id),
+        team_name TEXT NOT NULL,
+        category TEXT,
+        created_at TIMESTAMPTZ NOT NULL DEFAULT NOW()
+      );
     `);
 
     console.log('Creating indexes...');
@@ -58,6 +66,7 @@ async function run() {
       CREATE INDEX IF NOT EXISTS idx_signal_ratings_rink ON signal_ratings(rink_id);
       CREATE INDEX IF NOT EXISTS idx_signal_ratings_rink_signal ON signal_ratings(rink_id, signal);
       CREATE INDEX IF NOT EXISTS idx_tips_rink ON tips(rink_id);
+      CREATE INDEX IF NOT EXISTS idx_home_teams_rink ON home_teams(rink_id);
     `);
 
     // Load rinks
@@ -179,6 +188,56 @@ async function run() {
       );
     }
     console.log(`Inserted ${totalRatings} total signal ratings`);
+
+    // Load home teams
+    const homeTeamsPath = join(process.cwd(), 'public', 'data', 'home-teams.json');
+    if (existsSync(homeTeamsPath)) {
+      console.log('Loading home-teams.json...');
+      const homeTeams: Record<string, string[]> = JSON.parse(readFileSync(homeTeamsPath, 'utf-8'));
+      const rinkIdsWithTeams = Object.keys(homeTeams);
+      console.log(`Found home teams for ${rinkIdsWithTeams.length} rinks`);
+
+      const teamValues: unknown[] = [];
+      const teamPlaceholders: string[] = [];
+      let teamParamIndex = 1;
+      let totalTeams = 0;
+
+      for (const [htRinkId, teams] of Object.entries(homeTeams)) {
+        for (const teamName of teams) {
+          teamPlaceholders.push(`($${teamParamIndex}, $${teamParamIndex + 1})`);
+          teamValues.push(htRinkId, teamName);
+          teamParamIndex += 2;
+          totalTeams++;
+
+          // Batch insert every 2000 teams
+          if (teamPlaceholders.length >= 2000) {
+            await client.query(
+              `INSERT INTO home_teams (rink_id, team_name)
+               VALUES ${teamPlaceholders.join(', ')}
+               ON CONFLICT DO NOTHING`,
+              teamValues
+            );
+            console.log(`  Inserted ${totalTeams} home teams so far...`);
+            teamPlaceholders.length = 0;
+            teamValues.length = 0;
+            teamParamIndex = 1;
+          }
+        }
+      }
+
+      // Insert remaining teams
+      if (teamPlaceholders.length > 0) {
+        await client.query(
+          `INSERT INTO home_teams (rink_id, team_name)
+           VALUES ${teamPlaceholders.join(', ')}
+           ON CONFLICT DO NOTHING`,
+          teamValues
+        );
+      }
+      console.log(`Inserted ${totalTeams} total home teams`);
+    } else {
+      console.log('No home-teams.json found, skipping home teams seeding');
+    }
 
     console.log('Done! Database seeded successfully.');
   } finally {

@@ -39,6 +39,7 @@ export interface Rink {
 export interface RinkDetail {
   rink: Rink;
   summary: RinkSummary;
+  home_teams?: string[];
 }
 
 export interface UserProfile {
