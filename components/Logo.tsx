@@ -8,28 +8,20 @@ export function Logo({ size = 36, stacked = false }: { size?: number; stacked?: 
 
   if (stacked) {
     return (
-      <div
+      <span
         onClick={() => router.push('/')}
         style={{
-          display: 'flex', flexDirection: 'column', alignItems: 'center',
-          cursor: 'pointer', lineHeight: 1,
-        }}
-      >
-        <span style={{
           fontSize: size, fontWeight: 800,
           color: colors.textPrimary,
           letterSpacing: -1,
-        }}>
-          cold<span style={{ color: colors.brand }}>start</span>
-        </span>
-        <span style={{
-          fontSize: size * 0.38, fontWeight: 500,
-          color: colors.textTertiary, letterSpacing: 2,
-          marginTop: 2,
-        }}>
+          cursor: 'pointer',
+        }}
+      >
+        cold<span style={{ color: colors.brand }}>start</span>{' '}
+        <span style={{ fontSize: '0.45em', fontWeight: 500, color: colors.textTertiary, letterSpacing: 1 }}>
           hockey
         </span>
-      </div>
+      </span>
     );
   }
 
