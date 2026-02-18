@@ -12,14 +12,6 @@ export interface NearbyPlace {
 
 // Rink manager notes per signal
 export const FACILITY_DETAILS: Record<string, Record<string, { text: string; name: string }>> = {
-  'ice-line': {
-    parking: { text: "200 spots in main lot + 30 overflow behind Building C. Free parking always.", name: "Kevin M." },
-    cold: { text: "We keep the arena at 55°F. Heated viewing room available upstairs for families.", name: "Kevin M." },
-    family_friendly: { text: "New family seating section installed this season with wider seats and cup holders. Family restroom on the ground floor.", name: "Kevin M." },
-    food_nearby: { text: "Sal's Pizza next door gives our families 10% off. Vending machines inside with hot chocolate.", name: "Kevin M." },
-    locker_rooms: { text: "Full-size rooms for home and away, separate ref room. Rubber flooring installed this season. Each room fits 20 players with bags.", name: "Kevin M." },
-    pro_shop: { text: "Full pro shop on-site — tape, laces, skate sharpening while you wait. Open during all ice times.", name: "Kevin M." },
-  },
 };
 
 // Demo signal values for hardcoded rinks — ensures all 6 signals show
@@ -63,10 +55,6 @@ export const RINK_HOME_TEAMS: Record<string, string[]> = {
 
 // Manager replies to tips
 export const MANAGER_RESPONSES: Record<string, Record<number, { text: string; name: string; role: string }>> = {
-  'ice-line': {
-    0: { text: "We added 30 overflow spots behind Building C this season. Should help on tournament weekends!", name: "Kevin M.", role: "Rink Manager" },
-    1: { text: "Great tip! We also have the heated viewing room upstairs if the bleachers are too cold.", name: "Kevin M.", role: "Rink Manager" },
-  },
 };
 
 // Nearby places per rink (up to 10 per category within 3mi)
