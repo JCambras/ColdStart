@@ -24,8 +24,10 @@ export async function GET(request: NextRequest) {
     }
 
     // ILIKE search on name/city/state, prefix matches first
+    // Also match with spaces removed (e.g. "Ice Works" matches "IceWorks")
     const pattern = `%${query}%`;
     const prefixPattern = `${query}%`;
+    const compactPattern = `%${query.replace(/\s+/g, '')}%`;
     const { rows } = await pool.query(
       `SELECT id, name, city, state, address, latitude, longitude, created_at,
         CASE
@@ -36,9 +38,10 @@ export async function GET(request: NextRequest) {
         END AS rank
        FROM rinks
        WHERE name ILIKE $1 OR city ILIKE $1 OR state ILIKE $1
+          OR REPLACE(lower(name), ' ', '') LIKE lower($5)
        ORDER BY rank, name
        LIMIT $4`,
-      [pattern, prefixPattern, query, limit]
+      [pattern, prefixPattern, query, limit, compactPattern]
     );
 
     // Strip the rank column before returning
