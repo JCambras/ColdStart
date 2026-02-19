@@ -29,7 +29,7 @@ export function HeroSearch({
         fontWeight: 700, color: colors.textPrimary,
         lineHeight: 1.08, letterSpacing: -1,
       }}>
-        Scout the rink before you go.
+        Scout the rink.
       </h1>
       <p style={{
         fontSize: 17, color: colors.textTertiary, lineHeight: 1.5,
