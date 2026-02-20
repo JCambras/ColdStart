@@ -23,11 +23,11 @@ export function Logo({ size = 36, stacked = false, light = false }: { size?: num
           letterSpacing: -1,
           whiteSpace: 'nowrap',
         }}>
-          Cold<span style={{ color: light ? 'rgba(255,255,255,0.95)' : colors.brand }}>Start</span>
+          Cold<span style={{ color: colors.brand }}>Start</span>
         </span>
         <span style={{
           fontSize: size * 0.45, fontWeight: 500,
-          color: light ? 'rgba(255,255,255,0.45)' : colors.textTertiary, letterSpacing: 1,
+          color: light ? 'rgba(255,255,255,0.55)' : colors.textTertiary, letterSpacing: 1,
         }}>
           hockey
         </span>
@@ -47,8 +47,8 @@ export function Logo({ size = 36, stacked = false, light = false }: { size?: num
         whiteSpace: 'nowrap',
       }}
     >
-      Cold<span style={{ color: light ? 'rgba(255,255,255,0.95)' : colors.brand }}>Start</span>{' '}
-      <span style={{ fontSize: '0.5em', fontWeight: 500, color: light ? 'rgba(255,255,255,0.45)' : colors.textTertiary, letterSpacing: 1 }}>
+      Cold<span style={{ color: colors.brand }}>Start</span>{' '}
+      <span style={{ fontSize: '0.5em', fontWeight: 500, color: light ? 'rgba(255,255,255,0.55)' : colors.textTertiary, letterSpacing: 1 }}>
         hockey
       </span>
     </span>

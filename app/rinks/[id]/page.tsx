@@ -595,17 +595,7 @@ export default function RinkPage() {
   );
 
   return (
-    <PageShell logoStacked navBelow={<>
-      <div style={{
-        display: 'flex', alignItems: 'center', justifyContent: 'center', gap: 8,
-        padding: '6px 24px 8px',
-        background: 'rgba(250,251,252,0.92)',
-        backdropFilter: 'blur(8px)',
-      }}>
-        {shareButton}
-      </div>
-      {tabBar}
-    </>}>
+    <PageShell logoStacked navBelow={tabBar}>
       <div style={{ maxWidth: 680, margin: '0 auto', padding: '0 24px' }}>
 
         {/* Rink hero image */}
@@ -851,6 +841,10 @@ export default function RinkPage() {
         <section id="claim-section" style={{ marginTop: 24 }}>
           <ClaimRinkCTA rinkId={rinkId} rinkName={rink.name} />
         </section>
+
+        <div style={{ display: 'flex', justifyContent: 'center', marginTop: 24 }}>
+          {shareButton}
+        </div>
 
         <section style={{ marginTop: 24, paddingBottom: 60 }}>
           <div
