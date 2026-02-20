@@ -83,6 +83,18 @@ export function getRinkSlug(rink: { name: string; city?: string }): string {
     .slice(0, 60);
 }
 
+/** Slug → photo path for rinks with hero images. */
+export const RINK_PHOTOS: Record<string, string> = {
+  'ice-line': '/rink-photos/ice-line.jpeg',
+  'iceworks-skating-complex-aston-township': '/rink-photos/iceworks-aston.jpeg',
+  'oaks-center-ice-oaks': '/rink-photos/oaks-center-ice.jpeg',
+};
+
+/** Returns the photo path for a rink, or undefined if none exists. */
+export function getRinkPhoto(rink: { name: string; city?: string }): string | undefined {
+  return RINK_PHOTOS[getRinkSlug(rink)];
+}
+
 export function getNearbyPlaces(rink: Rink, category: string, loadedNearby?: Record<string, NearbyPlace[]> | null): NearbyPlace[] {
   const slug = getRinkSlug(rink);
 

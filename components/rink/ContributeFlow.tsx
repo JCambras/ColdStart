@@ -196,7 +196,6 @@ export function RateAndContribute({ rinkId, rinkName, onSummaryUpdate }: { rinkI
 
   function startFlow(flow: 'rate' | 'tip') {
     setPendingFlow(flow);
-    if (hasRated && flow === 'rate') return;
     // Ratings don't require login; tips and comments do
     if (flow === 'tip' && !isLoggedIn) {
       setPhase('verify');
@@ -213,14 +212,14 @@ export function RateAndContribute({ rinkId, rinkName, onSummaryUpdate }: { rinkI
             flex: 1, padding: '16px 20px',
             background: hasRated ? colors.bgSuccess : colors.white,
             color: hasRated ? colors.success : colors.textPrimary,
-            border: hasRated ? `1px solid ${colors.successBorder}` : `1px solid ${colors.borderDefault}`,
-            borderRadius: 14, cursor: hasRated ? 'default' : 'pointer',
+            border: `1px solid ${hasRated ? colors.successBorder : colors.borderDefault}`,
+            borderRadius: 14, cursor: 'pointer',
             fontSize: 15, fontWeight: 600, transition: 'all 0.2s',
             display: 'flex', alignItems: 'center', justifyContent: 'center', gap: 8,
           }}
-          onMouseEnter={(e) => { if (!hasRated) e.currentTarget.style.borderColor = colors.brand; }}
-          onMouseLeave={(e) => { if (!hasRated) e.currentTarget.style.borderColor = colors.borderDefault; }}>
-            {hasRated ? <><span>✓</span> Rated</> : <><span>📊</span> Rate the rink</>}
+          onMouseEnter={(e) => { e.currentTarget.style.borderColor = colors.brand; }}
+          onMouseLeave={(e) => { e.currentTarget.style.borderColor = hasRated ? colors.successBorder : colors.borderDefault; }}>
+            {hasRated ? <><span>✓</span> Update ratings</> : <><span>📊</span> Rate the rink</>}
           </button>
           <button onClick={() => startFlow('tip')} style={{
             flex: 1, padding: '16px 20px', background: colors.white, color: colors.textPrimary,
@@ -234,7 +233,7 @@ export function RateAndContribute({ rinkId, rinkName, onSummaryUpdate }: { rinkI
           </button>
         </div>
         {hasRated && (
-          <p style={{ fontSize: 11, color: colors.textMuted, marginTop: 6, textAlign: 'center' }}>You&apos;ve already rated this rink. You can still drop tips.</p>
+          <p style={{ fontSize: 11, color: colors.textMuted, marginTop: 6, textAlign: 'center' }}>Tap &ldquo;Update ratings&rdquo; to add or change signal ratings.</p>
         )}
       </section>
     );
@@ -264,16 +263,18 @@ export function RateAndContribute({ rinkId, rinkName, onSummaryUpdate }: { rinkI
           <VisitorToggle />
         </div>
         <div style={{ padding: '18px 24px' }}>
-          <div style={{ display: 'flex', alignItems: 'center', justifyContent: 'flex-end', marginBottom: 14 }}>
-            <span style={{ fontSize: 11, color: colors.textMuted }}>Tap one, then rate 1-5</span>
-          </div>
           <QuickVoteRow rinkId={rinkId} onSummaryUpdate={onSummaryUpdate} />
         </div>
-        <div style={{ padding: '12px 24px 16px', borderTop: `1px solid ${colors.borderLight}` }}>
-          <button onClick={() => { markRated(); setPhase('done_rate'); }} style={{ width: '100%', padding: '13px 20px', fontSize: 14, fontWeight: 600, background: colors.textPrimary, color: colors.white, border: 'none', borderRadius: 12, cursor: 'pointer', transition: 'all 0.2s' }}
+        <div style={{ padding: '12px 24px 16px', borderTop: `1px solid ${colors.borderLight}`, display: 'flex', gap: 10 }}>
+          <button onClick={() => { markRated(); setPhase('done_rate'); }} style={{ flex: 1, padding: '13px 20px', fontSize: 14, fontWeight: 600, background: colors.textPrimary, color: colors.white, border: 'none', borderRadius: 12, cursor: 'pointer', transition: 'all 0.2s' }}
             onMouseEnter={(e) => { e.currentTarget.style.background = '#1f2937'; }}
             onMouseLeave={(e) => { e.currentTarget.style.background = colors.textPrimary; }}>
-            Submit rating
+            Done
+          </button>
+          <button onClick={() => setPhase('tip')} style={{ padding: '13px 20px', fontSize: 14, fontWeight: 600, color: colors.brand, background: colors.white, border: `1px solid ${colors.borderDefault}`, borderRadius: 12, cursor: 'pointer', transition: 'all 0.15s' }}
+            onMouseEnter={(e) => { e.currentTarget.style.borderColor = colors.brand; }}
+            onMouseLeave={(e) => { e.currentTarget.style.borderColor = colors.borderDefault; }}>
+            💬 Add tip
           </button>
         </div>
       </section>

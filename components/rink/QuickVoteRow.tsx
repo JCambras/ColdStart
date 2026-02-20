@@ -12,101 +12,100 @@ interface QuickVoteRowProps {
   onSummaryUpdate: (s: RinkSummary) => void;
 }
 
+const signals: { key: SignalType; icon: string; label: string }[] = [
+  { key: 'parking', icon: '🅿️', label: 'Parking' },
+  { key: 'cold', icon: '❄️', label: 'Cold' },
+  { key: 'food_nearby', icon: '🍔', label: 'Food' },
+  { key: 'chaos', icon: '🌀', label: 'Chaos' },
+  { key: 'family_friendly', icon: '👨‍👩‍👧', label: 'Family' },
+  { key: 'locker_rooms', icon: '🚪', label: 'Lockers' },
+  { key: 'pro_shop', icon: '🏒', label: 'Pro shop' },
+];
+
 export function QuickVoteRow({ rinkId, onSummaryUpdate }: QuickVoteRowProps) {
-  const [activeSignal, setActiveSignal] = useState<SignalType | null>(null);
-  const [hoveredValue, setHoveredValue] = useState<number | null>(null);
-  const [submitting, setSubmitting] = useState(false);
-  const [ratedSignals, setRatedSignals] = useState<Set<string>>(new Set());
+  const [ratings, setRatings] = useState<Record<string, number>>({});
+  const [submitting, setSubmitting] = useState<string | null>(null);
+  const [submitted, setSubmitted] = useState<Set<string>>(new Set());
 
-  const signals: { key: SignalType; icon: string; label: string }[] = [
-    { key: 'parking', icon: '🅿️', label: 'Parking' },
-    { key: 'cold', icon: '❄️', label: 'Cold' },
-    { key: 'food_nearby', icon: '🍔', label: 'Food' },
-    { key: 'chaos', icon: '🌀', label: 'Chaos' },
-    { key: 'family_friendly', icon: '👨‍👩‍👧', label: 'Family' },
-    { key: 'locker_rooms', icon: '🚪', label: 'Lockers' },
-    { key: 'pro_shop', icon: '🏒', label: 'Pro shop' },
-  ];
+  async function submitRating(signal: SignalType, value: number) {
+    // Update local selection immediately
+    setRatings(prev => ({ ...prev, [signal]: value }));
 
-  async function submitRating(value: number) {
-    if (!activeSignal || submitting) return;
-    setSubmitting(true);
+    // If already submitted this signal, allow re-rating
+    setSubmitting(signal);
     const contributorType = storage.getContributorType();
     const { data } = await apiPost<{ summary?: RinkSummary }>('/contributions', {
       rink_id: rinkId, kind: 'signal_rating', contributor_type: contributorType,
-      signal_rating: { signal: activeSignal, value },
+      signal_rating: { signal, value },
     });
     if (data?.summary) onSummaryUpdate(data.summary);
-    setRatedSignals(prev => new Set(prev).add(activeSignal));
-    setActiveSignal(null);
-    setSubmitting(false);
+    setSubmitted(prev => new Set(prev).add(signal));
+    setSubmitting(null);
   }
 
   return (
-    <div>
-      {!activeSignal && (
-        <div style={{ display: 'flex', gap: 8, justifyContent: 'center' }} role="group" aria-label="Select a signal to rate">
-          {signals.map(s => {
-            const rated = ratedSignals.has(s.key);
-            return (
-              <button
-                key={s.key}
-                onClick={() => { if (!rated) setActiveSignal(s.key); }}
-                disabled={rated}
-                aria-label={rated ? `${s.label} already rated` : `Rate ${s.label}`}
-                style={{
-                  display: 'flex', flexDirection: 'column', alignItems: 'center', gap: 4,
-                  padding: '10px 14px', borderRadius: 12,
-                  background: rated ? colors.bgSuccess : colors.bgPage,
-                  border: `1px solid ${rated ? colors.successBorder : colors.borderDefault}`,
-                  cursor: rated ? 'default' : 'pointer', transition: 'all 0.15s', minWidth: 64,
-                  opacity: rated ? 0.8 : 1,
-                }}
-                onMouseEnter={(e) => { if (!rated) { e.currentTarget.style.borderColor = colors.brand; e.currentTarget.style.background = colors.bgInfo; } }}
-                onMouseLeave={(e) => { if (!rated) { e.currentTarget.style.borderColor = colors.borderDefault; e.currentTarget.style.background = colors.bgPage; } }}
-              >
-                <span style={{ fontSize: 22 }}>{rated ? '✓' : s.icon}</span>
-                <span style={{ fontSize: 10, fontWeight: 500, color: rated ? colors.success : colors.textTertiary }}>{s.label}</span>
-              </button>
-            );
-          })}
-        </div>
-      )}
+    <div style={{ display: 'flex', flexDirection: 'column', gap: 14 }}>
+      {signals.map(s => {
+        const meta = SIGNAL_META[s.key];
+        const selected = ratings[s.key];
+        const done = submitted.has(s.key);
+        const busy = submitting === s.key;
+        return (
+          <div key={s.key} style={{ display: 'flex', alignItems: 'center', gap: 10 }}>
+            {/* Label */}
+            <div style={{
+              width: 72, flexShrink: 0,
+              display: 'flex', alignItems: 'center', gap: 5,
+            }}>
+              <span style={{ fontSize: 15 }}>{s.icon}</span>
+              <span style={{
+                fontSize: 11, fontWeight: 600,
+                color: done ? colors.success : colors.textSecondary,
+              }}>
+                {s.label}
+              </span>
+            </div>
 
-      {activeSignal && (
-        <div style={{ textAlign: 'center' }}>
-          <div style={{ display: 'flex', alignItems: 'center', justifyContent: 'center', gap: 8, marginBottom: 10 }}>
-            <span style={{ fontSize: 20 }}>{SIGNAL_META[activeSignal]?.icon}</span>
-            <span style={{ fontSize: 14, fontWeight: 600, color: colors.textPrimary }}>{SIGNAL_META[activeSignal]?.label}</span>
-            <button onClick={() => setActiveSignal(null)} aria-label="Cancel rating" style={{ fontSize: 11, color: colors.textMuted, background: 'none', border: 'none', cursor: 'pointer', marginLeft: 4 }}>✕</button>
+            {/* 1-5 buttons */}
+            <div style={{ display: 'flex', gap: 4, flex: 1 }} role="group" aria-label={`Rate ${s.label} from 1 to 5`}>
+              {[1, 2, 3, 4, 5].map(v => {
+                const isSelected = selected === v;
+                return (
+                  <button
+                    key={v}
+                    onClick={() => submitRating(s.key, v)}
+                    disabled={busy}
+                    aria-label={`Rate ${s.label} ${v} out of 5`}
+                    style={{
+                      flex: 1, height: 36, borderRadius: 8,
+                      border: `1.5px solid ${isSelected ? colors.brand : colors.borderDefault}`,
+                      background: isSelected ? colors.brand : colors.white,
+                      color: isSelected ? colors.white : colors.textSecondary,
+                      fontSize: 14, fontWeight: 700,
+                      cursor: busy ? 'wait' : 'pointer',
+                      transition: 'all 0.12s',
+                      opacity: busy && !isSelected ? 0.5 : 1,
+                    }}
+                  >
+                    {v}
+                  </button>
+                );
+              })}
+            </div>
+
+            {/* Done check */}
+            <div style={{ width: 18, flexShrink: 0, textAlign: 'center' }}>
+              {done && <span style={{ fontSize: 13, color: colors.success }}>✓</span>}
+            </div>
           </div>
-          <div style={{ display: 'flex', gap: 8, justifyContent: 'center' }} role="group" aria-label={`Rate ${SIGNAL_META[activeSignal]?.label} from 1 to 5`}>
-            {[1, 2, 3, 4, 5].map(v => (
-              <button
-                key={v}
-                onClick={() => submitRating(v)}
-                onMouseEnter={() => setHoveredValue(v)}
-                onMouseLeave={() => setHoveredValue(null)}
-                aria-label={`Rate ${v} out of 5`}
-                style={{
-                  width: 48, height: 48, borderRadius: 12,
-                  border: `1.5px solid ${hoveredValue === v ? colors.brand : colors.borderDefault}`,
-                  background: hoveredValue === v ? colors.bgInfo : colors.white,
-                  color: colors.textSecondary, fontSize: 18, fontWeight: 700,
-                  cursor: 'pointer', transition: 'all 0.15s',
-                  opacity: submitting ? 0.5 : 1,
-                }}
-              >
-                {v}
-              </button>
-            ))}
-          </div>
-          <div style={{ display: 'flex', justifyContent: 'space-between', maxWidth: 280, margin: '6px auto 0', padding: '0 4px' }}>
-            <span style={{ fontSize: 10, color: colors.textMuted }}>← {SIGNAL_META[activeSignal]?.lowLabel}</span>
-            <span style={{ fontSize: 10, color: colors.textMuted }}>{SIGNAL_META[activeSignal]?.highLabel} →</span>
-          </div>
-        </div>
-      )}
+        );
+      })}
+
+      {/* Low/high hint for context */}
+      <div style={{ display: 'flex', justifyContent: 'space-between', paddingLeft: 82, paddingRight: 22 }}>
+        <span style={{ fontSize: 10, color: colors.textMuted }}>← Low</span>
+        <span style={{ fontSize: 10, color: colors.textMuted }}>High →</span>
+      </div>
     </div>
   );
 }

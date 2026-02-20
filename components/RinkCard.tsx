@@ -2,7 +2,7 @@
 
 import { useState, useEffect } from 'react';
 import { SIGNAL_LABELS } from '../lib/constants';
-import { getBarColor } from '../lib/rinkHelpers';
+import { getBarColor, getRinkPhoto } from '../lib/rinkHelpers';
 import { colors, text } from '../lib/theme';
 
 interface Signal {
@@ -43,24 +43,25 @@ export function RinkCard({ rink, onClick }: { rink: RinkData; onClick: () => voi
     return () => window.removeEventListener('resize', check);
   }, []);
 
-  const hasPhoto = (rink.name || '').toLowerCase().includes('ice line');
+  const rinkPhoto = getRinkPhoto(rink);
 
   // Photo section (shared between layouts)
-  const photoSection = hasPhoto ? (
+  const photoSection = rinkPhoto ? (
     <div style={{
       width: isMobile ? '100%' : 180,
       height: isMobile ? 160 : 'auto',
       flexShrink: 0,
       position: 'relative', overflow: 'hidden',
+      background: '#f1f5f9',
       borderBottom: isMobile ? `1px solid ${colors.borderLight}` : 'none',
       borderLeft: isMobile ? 'none' : `1px solid ${colors.borderLight}`,
     }}>
       <img
-        src="/rink-photos/ice-line.jpeg"
+        src={rinkPhoto}
         alt={rink.name}
         style={{
           width: '100%', height: '100%',
-          objectFit: 'cover', objectPosition: 'center',
+          objectFit: 'contain', objectPosition: 'center',
           display: 'block',
         }}
       />

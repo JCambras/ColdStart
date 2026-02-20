@@ -6,7 +6,7 @@ import Image from 'next/image';
 import { PageShell } from '../../../components/PageShell';
 import { RinkSummary, RinkDetail } from '../../../lib/rinkTypes';
 import { NearbyPlace, SEEDED_FAN_FAVORITES, RINK_STREAMING } from '../../../lib/seedData';
-import { getRinkSlug, getNearbyPlaces, buildRinkDetailFromSeed, getVerdictColor, getVerdictBg, timeAgo, ensureAllSignals, getBarColor } from '../../../lib/rinkHelpers';
+import { getRinkSlug, getRinkPhoto, getNearbyPlaces, buildRinkDetailFromSeed, getVerdictColor, getVerdictBg, timeAgo, ensureAllSignals, getBarColor } from '../../../lib/rinkHelpers';
 import { SIGNAL_META, API_URL } from '../../../lib/constants';
 import { NearbySection } from '../../../components/rink/NearbySection';
 import { RateAndContribute } from '../../../components/rink/ContributeFlow';
@@ -516,13 +516,7 @@ export default function RinkPage() {
   const { rink, summary } = detail;
   const hasData = summary.contribution_count > 0;
 
-  // Slug-to-photo mapping for rinks with hero images
-  const rinkPhotoMap: Record<string, string> = {
-    'ice-line': '/rink-photos/ice-line.jpeg',
-    'iceworks-skating-complex-aston-township': '/rink-photos/iceworks-aston.jpeg',
-    'oaks-center-ice-oaks': '/rink-photos/oaks-center-ice.jpeg',
-  };
-  const rinkPhoto = rinkPhotoMap[getRinkSlug(rink)];
+  const rinkPhoto = getRinkPhoto(rink);
 
   const shareButton = (
     <button
@@ -608,12 +602,12 @@ export default function RinkPage() {
 
         {/* Rink hero image */}
         {rinkPhoto && (
-          <div style={{ marginTop: 16, borderRadius: 16, overflow: 'hidden', height: 220, position: 'relative' }}>
+          <div style={{ marginTop: 16, borderRadius: 16, overflow: 'hidden', height: 220, position: 'relative', background: '#f1f5f9' }}>
             <Image
               src={rinkPhoto}
               alt={rink.name}
               fill
-              style={{ objectFit: 'cover', objectPosition: 'center' }}
+              style={{ objectFit: 'contain', objectPosition: 'center' }}
               sizes="(max-width: 680px) 100vw, 680px"
             />
             <div style={{
