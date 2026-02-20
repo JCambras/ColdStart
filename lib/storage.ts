@@ -1,5 +1,3 @@
-import type { UserProfile } from './rinkTypes';
-
 export interface FanFavorite {
   name: string;
   review: string;
@@ -42,15 +40,6 @@ function remove(key: string): void {
 // ── Typed accessors ──
 
 export const storage = {
-  // User auth
-  getCurrentUser: () => getJSON<UserProfile | null>('coldstart_current_user', null),
-  setCurrentUser: (u: UserProfile | null) =>
-    u ? setJSON('coldstart_current_user', u) : remove('coldstart_current_user'),
-
-  // User profiles (account store)
-  getProfiles: () => getJSON<Record<string, UserProfile>>('coldstart_profiles', {}),
-  setProfiles: (p: Record<string, UserProfile>) => setJSON('coldstart_profiles', p),
-
   // Saved rinks
   getSavedRinks: () => getJSON<string[]>('coldstart_my_rinks', []),
   setSavedRinks: (ids: string[]) => setJSON('coldstart_my_rinks', ids),

@@ -46,6 +46,7 @@ export interface UserProfile {
   id: string;
   email: string;
   name: string;
+  image?: string;
   createdAt: string;
   rinksRated: number;
   tipsSubmitted: number;

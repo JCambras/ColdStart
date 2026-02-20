@@ -6,6 +6,7 @@ import { getVibe } from '../../../app/vibe';
 import { Logo } from '../../../components/Logo';
 import { apiGet } from '../../../lib/api';
 import { storage } from '../../../lib/storage';
+import { useAuth } from '../../../contexts/AuthContext';
 import { getBarColor, getVerdictColor } from '../../../lib/rinkHelpers';
 import { LoadingSkeleton } from '../../../components/LoadingSkeleton';
 import { colors, text, radius } from '../../../lib/theme';
@@ -60,6 +61,7 @@ export default function TripPage() {
   const [summary, setSummary] = useState<RinkSummary | null>(null);
   const [loading, setLoading] = useState(true);
   const [shareCopied, setShareCopied] = useState(false);
+  const { currentUser } = useAuth();
   const [showAddForm, setShowAddForm] = useState(false);
   const [addType, setAddType] = useState<'restaurant' | 'tip' | 'note'>('restaurant');
   const [addText, setAddText] = useState('');
@@ -98,8 +100,7 @@ export default function TripPage() {
 
   function submitAddition() {
     if (!addText.trim() || !trip) return;
-    const user = storage.getCurrentUser();
-    const addition: Addition = { type: addType, text: addText.trim(), cost: addCost.trim() || undefined, addedBy: user?.name || 'Team parent', createdAt: new Date().toISOString() };
+    const addition: Addition = { type: addType, text: addText.trim(), cost: addCost.trim() || undefined, addedBy: currentUser?.name || 'Team parent', createdAt: new Date().toISOString() };
     const updated = { ...trip, additions: [...(trip.additions || []), addition] };
     setTrip(updated);
     const trips = storage.getTrips();

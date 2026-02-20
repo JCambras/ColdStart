@@ -1,6 +1,4 @@
 import { describe, it, expect, beforeEach, vi } from 'vitest';
-import type { UserProfile } from '../../lib/rinkTypes';
-
 // Provide a clean localStorage mock that both the test and the storage module share.
 // Node 22+ has a built-in localStorage that conflicts with jsdom's in vitest.
 let store: Record<string, string>;
@@ -62,34 +60,6 @@ describe('contributorType', () => {
   });
 });
 
-// ── currentUser ──
-describe('currentUser', () => {
-  const profile: UserProfile = {
-    id: 'u1',
-    email: 'test@example.com',
-    name: 'Test User',
-    createdAt: '2025-01-01T00:00:00Z',
-    rinksRated: 5,
-    tipsSubmitted: 3,
-  };
-
-  it('returns null by default', () => {
-    expect(storage.getCurrentUser()).toBeNull();
-  });
-
-  it('returns the profile after setCurrentUser', () => {
-    storage.setCurrentUser(profile);
-    expect(storage.getCurrentUser()).toEqual(profile);
-  });
-
-  it('removes the key when set to null', () => {
-    storage.setCurrentUser(profile);
-    storage.setCurrentUser(null);
-    expect(storage.getCurrentUser()).toBeNull();
-    expect(localStorage.getItem('coldstart_current_user')).toBeNull();
-  });
-});
-
 // ── tripDraft ──
 describe('tripDraft', () => {
   it('returns null by default', () => {
@@ -147,8 +117,4 @@ describe('corrupted JSON handling', () => {
     expect(storage.getSavedRinks()).toEqual([]);
   });
 
-  it('returns fallback for corrupted user profile', () => {
-    localStorage.setItem('coldstart_current_user', '{bad json');
-    expect(storage.getCurrentUser()).toBeNull();
-  });
 });

@@ -69,13 +69,14 @@ function SuggestPlaceForm({ rinkSlug, categoryKey, onSubmit }: {
   const [name, setName] = useState('');
   const [comment, setComment] = useState('');
 
+  const { currentUser } = useAuth();
+
   function handleSubmit() {
     if (!name.trim()) return;
-    const user = storage.getCurrentUser();
     const suggestion: PlaceSuggestion = {
       name: name.trim(),
       comment: comment.trim(),
-      author: user?.name || 'Hockey parent',
+      author: currentUser?.name || 'Hockey parent',
       date: new Date().toISOString(),
     };
     const existing = storage.getPlaceSuggestions(rinkSlug, categoryKey);
@@ -164,14 +165,15 @@ function FanFavoritesCategory({ rinkSlug, expanded, onToggle }: { rinkSlug: stri
     setFavorites(storage.getFanFavorites(rinkSlug));
   }, [rinkSlug]);
 
+  const { currentUser } = useAuth();
+
   function handleSubmit() {
     if (!name.trim() || !review.trim()) return;
-    const user = storage.getCurrentUser();
     const newFav: FanFavorite = {
       name: name.trim(),
       review: review.trim(),
       category,
-      author: user?.name || 'Hockey parent',
+      author: currentUser?.name || 'Hockey parent',
       date: new Date().toISOString(),
     };
     const updated = [...favorites, newFav];
@@ -338,7 +340,7 @@ interface PlaceEntry {
 }
 
 export function NearbySection({ title, icon, categories, rinkSlug, fanFavorites }: { title: string; icon: string; categories: NearbyCategory[]; rinkSlug: string; fanFavorites?: boolean }) {
-  const { isLoggedIn, openAuth } = useAuth();
+  const { isLoggedIn, openAuth, currentUser } = useAuth();
   const [expanded, setExpanded] = useState<string | null>(null);
   const [tipOpen, setTipOpen] = useState<string | null>(null);
   const [tipText, setTipText] = useState('');
@@ -417,10 +419,9 @@ export function NearbySection({ title, icon, categories, rinkSlug, fanFavorites 
     if (!tipText.trim()) return;
     const cn = cleanName(placeName);
     const existing = storage.getPlaceTips(rinkSlug, cn);
-    const user = storage.getCurrentUser();
     existing.push({
       text: tipText.trim(),
-      author: user?.name || 'Hockey parent',
+      author: currentUser?.name || 'Hockey parent',
       date: new Date().toISOString(),
     });
     storage.setPlaceTips(rinkSlug, cn, existing);

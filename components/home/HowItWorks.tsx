@@ -1,46 +1,70 @@
 'use client';
 
-import { colors, text } from '../../lib/theme';
+import { useState, useEffect } from 'react';
+import { colors, layout } from '../../lib/theme';
 
 const STEPS = [
-  { num: '01', title: 'Search for a rink', desc: 'By name, city, or state. New rinks added weekly.' },
-  { num: '02', title: 'Get the parent verdict', desc: 'Parking, cold, food, chaos — rated and summarized by parents who were just there.' },
-  { num: '03', title: 'Drop a tip or rate a signal', desc: 'Takes 10 seconds. Your info updates the summary instantly for the next family.' },
-  { num: '04', title: 'Share with the team', desc: 'Send the link to your group chat. Better info = fewer surprises on game day.' },
+  { num: '01', title: 'Scout a rink', desc: 'Search by name or city before your next tournament weekend.' },
+  { num: '02', title: 'See what to expect', desc: 'Parking, cold, food options — summarized from real parent reports.' },
+  { num: '03', title: 'Share what you know', desc: 'Quick signal taps and one-sentence tips. Takes 10 seconds.' },
 ];
 
 export function HowItWorks() {
-  return (
-    <section aria-label="How it works" style={{ maxWidth: 640, margin: '0 auto', padding: '60px 24px 40px' }}>
-      <h2 style={{
-        fontSize: 28, fontWeight: 700, color: colors.textPrimary,
-        textAlign: 'center', marginBottom: 28, letterSpacing: -0.5,
-      }}>
-        How it works
-      </h2>
+  const [isMobile, setIsMobile] = useState(false);
 
-      {STEPS.map((step, i) => (
-        <div key={step.num} style={{
-          display: 'flex', gap: 20, alignItems: 'flex-start',
-          padding: '16px 0',
-          borderBottom: i < STEPS.length - 1 ? `1px solid ${colors.borderLight}` : 'none',
+  useEffect(() => {
+    const check = () => setIsMobile(window.innerWidth < 768);
+    check();
+    window.addEventListener('resize', check);
+    return () => window.removeEventListener('resize', check);
+  }, []);
+
+  return (
+    <section aria-label="How it works" style={{
+      maxWidth: layout.maxWidth5xl, margin: '0 auto',
+      padding: '0 24px 48px',
+    }}>
+      <div style={{
+        borderTop: `1px solid ${colors.stone200}`,
+        paddingTop: 40,
+      }}>
+        <h2 style={{
+          fontSize: 12, fontWeight: 500, color: colors.stone500,
+          textTransform: 'uppercase', letterSpacing: 1.5,
+          marginBottom: 28,
         }}>
-          <span style={{
-            fontSize: 32, fontWeight: 700, color: colors.borderDefault, lineHeight: 1,
-            flexShrink: 0, width: 40,
-          }}>
-            {step.num}
-          </span>
-          <div>
-            <h3 style={{ fontSize: 16, fontWeight: 600, color: colors.textPrimary, margin: 0 }}>
-              {step.title}
-            </h3>
-            <p style={{ fontSize: text.base, color: colors.textTertiary, lineHeight: 1.55, marginTop: 4 }}>
-              {step.desc}
-            </p>
-          </div>
+          How it works
+        </h2>
+
+        <div style={{
+          display: 'grid',
+          gridTemplateColumns: isMobile ? '1fr' : 'repeat(3, 1fr)',
+          gap: 32,
+        }}>
+          {STEPS.map((step) => (
+            <div key={step.num}>
+              <span style={{
+                fontSize: 12, fontFamily: 'ui-monospace, SFMono-Regular, Menlo, monospace',
+                color: colors.stone300,
+                display: 'block', marginBottom: 8,
+              }}>
+                {step.num}
+              </span>
+              <h3 style={{
+                fontSize: 14, fontWeight: 500, color: colors.stone700,
+                margin: '0 0 6px',
+              }}>
+                {step.title}
+              </h3>
+              <p style={{
+                fontSize: 14, color: colors.stone400, lineHeight: 1.55, margin: 0,
+              }}>
+                {step.desc}
+              </p>
+            </div>
+          ))}
         </div>
-      ))}
+      </div>
     </section>
   );
 }

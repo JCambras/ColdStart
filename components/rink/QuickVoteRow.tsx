@@ -16,7 +16,7 @@ export function QuickVoteRow({ rinkId, onSummaryUpdate }: QuickVoteRowProps) {
   const [activeSignal, setActiveSignal] = useState<SignalType | null>(null);
   const [hoveredValue, setHoveredValue] = useState<number | null>(null);
   const [submitting, setSubmitting] = useState(false);
-  const [justRated, setJustRated] = useState<string | null>(null);
+  const [ratedSignals, setRatedSignals] = useState<Set<string>>(new Set());
 
   const signals: { key: SignalType; icon: string; label: string }[] = [
     { key: 'parking', icon: '🅿️', label: 'Parking' },
@@ -37,9 +37,8 @@ export function QuickVoteRow({ rinkId, onSummaryUpdate }: QuickVoteRowProps) {
       signal_rating: { signal: activeSignal, value },
     });
     if (data?.summary) onSummaryUpdate(data.summary);
-    setJustRated(activeSignal);
+    setRatedSignals(prev => new Set(prev).add(activeSignal));
     setActiveSignal(null);
-    setTimeout(() => setJustRated(null), 2000);
     setSubmitting(false);
   }
 
@@ -47,25 +46,30 @@ export function QuickVoteRow({ rinkId, onSummaryUpdate }: QuickVoteRowProps) {
     <div>
       {!activeSignal && (
         <div style={{ display: 'flex', gap: 8, justifyContent: 'center' }} role="group" aria-label="Select a signal to rate">
-          {signals.map(s => (
-            <button
-              key={s.key}
-              onClick={() => setActiveSignal(s.key)}
-              aria-label={`Rate ${s.label}`}
-              style={{
-                display: 'flex', flexDirection: 'column', alignItems: 'center', gap: 4,
-                padding: '10px 14px', borderRadius: 12,
-                background: justRated === s.key ? colors.bgSuccess : colors.bgPage,
-                border: `1px solid ${justRated === s.key ? colors.successBorder : colors.borderDefault}`,
-                cursor: 'pointer', transition: 'all 0.15s', minWidth: 64,
-              }}
-              onMouseEnter={(e) => { if (justRated !== s.key) { e.currentTarget.style.borderColor = colors.brand; e.currentTarget.style.background = colors.bgInfo; } }}
-              onMouseLeave={(e) => { if (justRated !== s.key) { e.currentTarget.style.borderColor = colors.borderDefault; e.currentTarget.style.background = colors.bgPage; } }}
-            >
-              <span style={{ fontSize: 22 }}>{justRated === s.key ? '✓' : s.icon}</span>
-              <span style={{ fontSize: 10, fontWeight: 500, color: justRated === s.key ? colors.success : colors.textTertiary }}>{s.label}</span>
-            </button>
-          ))}
+          {signals.map(s => {
+            const rated = ratedSignals.has(s.key);
+            return (
+              <button
+                key={s.key}
+                onClick={() => { if (!rated) setActiveSignal(s.key); }}
+                disabled={rated}
+                aria-label={rated ? `${s.label} already rated` : `Rate ${s.label}`}
+                style={{
+                  display: 'flex', flexDirection: 'column', alignItems: 'center', gap: 4,
+                  padding: '10px 14px', borderRadius: 12,
+                  background: rated ? colors.bgSuccess : colors.bgPage,
+                  border: `1px solid ${rated ? colors.successBorder : colors.borderDefault}`,
+                  cursor: rated ? 'default' : 'pointer', transition: 'all 0.15s', minWidth: 64,
+                  opacity: rated ? 0.8 : 1,
+                }}
+                onMouseEnter={(e) => { if (!rated) { e.currentTarget.style.borderColor = colors.brand; e.currentTarget.style.background = colors.bgInfo; } }}
+                onMouseLeave={(e) => { if (!rated) { e.currentTarget.style.borderColor = colors.borderDefault; e.currentTarget.style.background = colors.bgPage; } }}
+              >
+                <span style={{ fontSize: 22 }}>{rated ? '✓' : s.icon}</span>
+                <span style={{ fontSize: 10, fontWeight: 500, color: rated ? colors.success : colors.textTertiary }}>{s.label}</span>
+              </button>
+            );
+          })}
         </div>
       )}
 
