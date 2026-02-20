@@ -46,10 +46,10 @@ export function SignalBar({ signal, rinkSlug }: { signal: Signal; rinkSlug: stri
       </div>
       <div style={{ height: 10, background: colors.borderLight, borderRadius: 5, overflow: 'hidden' }}>
         <div style={{
-          width: noData ? '100%' : `${pct}%`,
+          width: noData ? '0%' : `${pct}%`,
           height: '100%',
           borderRadius: 5,
-          background: noData ? colors.borderLight : color,
+          background: color,
           transition: 'width 0.8s ease',
         }} />
       </div>
@@ -95,7 +95,7 @@ export function SignalBar({ signal, rinkSlug }: { signal: Signal; rinkSlug: stri
             }}>
               <div style={{ display: 'flex', alignItems: 'center', gap: 4, marginBottom: 3 }}>
                 <span style={{
-                  fontSize: 8, fontWeight: 700, padding: '1px 4px', borderRadius: 3,
+                  fontSize: 10, fontWeight: 700, padding: '1px 4px', borderRadius: 3,
                   background: colors.brandAccent, color: colors.white, textTransform: 'uppercase', letterSpacing: 0.5,
                 }}>
                   Verified

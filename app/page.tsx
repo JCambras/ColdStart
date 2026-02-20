@@ -113,12 +113,13 @@ export default function HomePage() {
     loadRecent();
   }, []); // eslint-disable-line react-hooks/exhaustive-deps
 
-  // Search with debounce
+  // Search with debounce + AbortController to prevent stale results
   useEffect(() => {
     if (!query.trim()) {
       setSearchResults(null);
       return;
     }
+    const controller = new AbortController();
     const timeout = setTimeout(async () => {
       const q = query.toLowerCase();
       const { data } = await apiGet<RinkData[]>(`/rinks?query=${encodeURIComponent(query)}`, {
@@ -130,9 +131,11 @@ export default function HomePage() {
           ).slice(0, 10);
         },
       });
-      setSearchResults(data || []);
+      if (!controller.signal.aborted) {
+        setSearchResults(data || []);
+      }
     }, 300);
-    return () => clearTimeout(timeout);
+    return () => { clearTimeout(timeout); controller.abort(); };
   }, [query]);
 
   function handleClearSearch() {

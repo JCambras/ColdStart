@@ -82,7 +82,7 @@ export function QuickVoteRow({ rinkId, onSummaryUpdate, onRatedCountChange }: Qu
                     disabled={busy}
                     aria-label={`Rate ${s.label} ${v} out of 5`}
                     style={{
-                      flex: 1, height: 36, borderRadius: 8,
+                      flex: 1, height: 44, borderRadius: 8,
                       border: `1.5px solid ${isSelected ? colors.brand : colors.borderDefault}`,
                       background: isSelected ? colors.brand : colors.white,
                       color: isSelected ? colors.white : colors.textSecondary,

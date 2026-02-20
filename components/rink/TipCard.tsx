@@ -72,13 +72,14 @@ export function TipCard({ tip, tipIndex, rinkSlug }: { tip: Tip; tipIndex: numbe
         }}>
           <button
             onClick={(e) => handleVote('up', e)}
+            aria-label="Helpful"
             style={{
-              background: 'none', border: 'none', cursor: 'pointer', padding: '2px 4px',
+              background: 'none', border: 'none', cursor: 'pointer',
+              padding: '8px 10px',
               fontSize: text.base, lineHeight: 1,
               color: userVote === 'up' ? colors.brand : colors.textDisabled,
               transition: 'color 0.15s',
             }}
-            title="Helpful"
           >▲</button>
           <span style={{
             fontSize: text.sm, fontWeight: 700, lineHeight: 1,
@@ -86,13 +87,14 @@ export function TipCard({ tip, tipIndex, rinkSlug }: { tip: Tip; tipIndex: numbe
           }}>{score}</span>
           <button
             onClick={(e) => handleVote('down', e)}
+            aria-label="Not helpful"
             style={{
-              background: 'none', border: 'none', cursor: 'pointer', padding: '2px 4px',
+              background: 'none', border: 'none', cursor: 'pointer',
+              padding: '8px 10px',
               fontSize: text.base, lineHeight: 1,
               color: userVote === 'down' ? colors.error : colors.textDisabled,
               transition: 'color 0.15s',
             }}
-            title="Not helpful"
           >▼</button>
         </div>
 
@@ -134,7 +136,7 @@ export function TipCard({ tip, tipIndex, rinkSlug }: { tip: Tip; tipIndex: numbe
                 }}>
                   <div style={{ display: 'flex', alignItems: 'center', gap: 6, marginBottom: 3 }}>
                     <span style={{
-                      fontSize: 8, fontWeight: 700, padding: '1px 5px', borderRadius: 3,
+                      fontSize: 10, fontWeight: 700, padding: '1px 5px', borderRadius: 3,
                       background: colors.brandAccent, color: colors.white, textTransform: 'uppercase', letterSpacing: 0.5,
                     }}>
                       Verified

@@ -264,15 +264,15 @@ export function AuthModal({ isOpen, onClose, onSuccess }: AuthModalProps) {
             <p style={{ fontSize: text.sm, color: colors.textMuted, textAlign: 'center', marginTop: 16, marginBottom: 0 }}>
               {mode === 'signin' ? (
                 <>Don&apos;t have an account?{' '}
-                  <span onClick={() => { setMode('signup'); setError(''); }} style={{ color: colors.brand, cursor: 'pointer', fontWeight: 600 }}>
+                  <button onClick={() => { setMode('signup'); setError(''); }} style={{ color: colors.brand, cursor: 'pointer', fontWeight: 600, background: 'none', border: 'none', padding: 0, font: 'inherit' }}>
                     Sign up
-                  </span>
+                  </button>
                 </>
               ) : (
                 <>Already have an account?{' '}
-                  <span onClick={() => { setMode('signin'); setError(''); }} style={{ color: colors.brand, cursor: 'pointer', fontWeight: 600 }}>
+                  <button onClick={() => { setMode('signin'); setError(''); }} style={{ color: colors.brand, cursor: 'pointer', fontWeight: 600, background: 'none', border: 'none', padding: 0, font: 'inherit' }}>
                     Sign in
-                  </span>
+                  </button>
                 </>
               )}
             </p>

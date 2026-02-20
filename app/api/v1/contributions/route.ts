@@ -42,6 +42,9 @@ export async function POST(request: NextRequest) {
       if (!tipData?.text?.trim()) {
         return NextResponse.json({ error: 'tip text is required' }, { status: 400 });
       }
+      if (tipData.text.trim().length > 140) {
+        return NextResponse.json({ error: 'tip text must be 140 characters or fewer' }, { status: 400 });
+      }
 
       await pool.query(
         `INSERT INTO tips (rink_id, text, contributor_type, context)

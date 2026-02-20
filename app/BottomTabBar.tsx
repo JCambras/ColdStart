@@ -116,7 +116,7 @@ export default function BottomTabBar() {
               />
             )}
             <tab.Icon color={color} />
-            <span style={{ fontSize: text['2xs'], fontWeight: active ? 700 : 400 }}>
+            <span style={{ fontSize: text.xs, fontWeight: active ? 700 : 400 }}>
               {tab.label}
             </span>
           </button>

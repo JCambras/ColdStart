@@ -110,6 +110,10 @@ function ReturnRatingPrompt({
   function handleFinish() {
     try {
       localStorage.setItem(`coldstart_rated_${rinkId}`, new Date().toISOString());
+      // Also update the shared rated-rinks map used by ContributeFlow
+      const rated = storage.getRatedRinks();
+      rated[rinkId] = Date.now();
+      storage.setRatedRinks(rated);
     } catch {}
     onDismiss();
   }
@@ -164,6 +168,8 @@ function ReturnRatingPrompt({
             onChange={(e) => setTipText(e.target.value)}
             placeholder="e.g. Use the side entrance for Rink C"
             onKeyDown={(e) => e.key === 'Enter' && submitTip()}
+            maxLength={140}
+            aria-label="Write a tip"
             autoFocus
             style={{
               flex: 1, fontSize: 14, padding: '10px 14px',
@@ -753,15 +759,15 @@ export default function RinkPage() {
               );
             })()}
 
-            <span
+            <button
               onClick={() => {
                 const el = document.getElementById('claim-section');
                 if (el) el.scrollIntoView({ behavior: 'smooth' });
               }}
-              style={{ fontSize: 11, color: '#3b82f6', cursor: 'pointer', padding: '6px 0', display: 'flex', alignItems: 'center' }}
+              style={{ fontSize: 11, color: '#3b82f6', cursor: 'pointer', padding: '6px 0', display: 'flex', alignItems: 'center', background: 'none', border: 'none' }}
             >
               Claim this rink →
-            </span>
+            </button>
           </div>
         </section>
 
