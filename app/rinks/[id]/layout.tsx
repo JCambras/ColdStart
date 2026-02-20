@@ -1,5 +1,6 @@
 import type { Metadata } from 'next';
 import { pool } from '../../../lib/db';
+import { RINK_PHOTOS, getRinkSlug } from '../../../lib/rinkHelpers';
 
 interface Props {
   params: Promise<{ id: string }>;
@@ -22,6 +23,9 @@ export async function generateMetadata({ params }: Props): Promise<Metadata> {
     const rink = rows[0];
     const title = `${rink.name} — ${rink.city}, ${rink.state}`;
     const description = `Scout ${rink.name} before you go. Parking, cold, food, and tips from hockey parents who were just there.`;
+    const slug = getRinkSlug({ name: rink.name, city: rink.city });
+    const photo = RINK_PHOTOS[slug];
+    const images = photo ? [{ url: photo }] : undefined;
 
     return {
       title,
@@ -31,11 +35,13 @@ export async function generateMetadata({ params }: Props): Promise<Metadata> {
         description,
         siteName: 'ColdStart Hockey',
         type: 'website',
+        images,
       },
       twitter: {
-        card: 'summary',
+        card: photo ? 'summary_large_image' : 'summary',
         title: `${title} | ColdStart Hockey`,
         description,
+        images: photo ? [photo] : undefined,
       },
     };
   } catch {

@@ -14,6 +14,7 @@ import { ClaimRinkCTA } from '../../../components/rink/ClaimRinkCTA';
 import { SaveRinkButton } from '../../../components/rink/SaveRinkButton';
 import { SignalsSection } from '../../../components/rink/SignalsSection';
 import { TipsSection } from '../../../components/rink/TipsSection';
+import { VerdictCard } from '../../../components/rink/VerdictCard';
 import { apiGet, apiPost, seedGet } from '../../../lib/api';
 import { storage } from '../../../lib/storage';
 import { LoadingSkeleton } from '../../../components/LoadingSkeleton';
@@ -385,6 +386,19 @@ export default function RinkPage() {
     } catch {}
   }, [rinkId]);
 
+  // Store richer view data for "Recently Viewed" on homepage
+  useEffect(() => {
+    if (!detail || !rinkId) return;
+    try {
+      localStorage.setItem(`coldstart_viewed_meta_${rinkId}`, JSON.stringify({
+        name: detail.rink.name,
+        city: detail.rink.city,
+        state: detail.rink.state,
+        viewedAt: new Date().toISOString(),
+      }));
+    } catch {}
+  }, [detail, rinkId]);
+
   // Load nearby + signal seed data when rink detail is available
   useEffect(() => {
     if (!detail) return;
@@ -621,9 +635,14 @@ export default function RinkPage() {
               }}>
                 {rink.name}
               </h1>
-              <p style={{ fontSize: 13, color: colors.textTertiary, marginTop: 4, lineHeight: 1.4, margin: '4px 0 0' }}>
+              <a
+                href={`https://maps.apple.com/?address=${encodeURIComponent(`${rink.address}, ${rink.city}, ${rink.state}`)}`}
+                target="_blank"
+                rel="noopener noreferrer"
+                style={{ fontSize: 13, color: colors.textTertiary, marginTop: 4, lineHeight: 1.4, margin: '4px 0 0', display: 'block', textDecoration: 'underline', textDecorationColor: colors.borderMedium, textUnderlineOffset: 2 }}
+              >
                 {rink.address}, {rink.city}, {rink.state}
-              </p>
+              </a>
               {getRinkSlug(rink) === 'ice-line' && (
                 <div style={{ fontSize: 12, color: colors.textTertiary, marginTop: 4 }}>
                   🏠 Home of the{' '}
@@ -647,6 +666,15 @@ export default function RinkPage() {
             </p>
           )}
 
+          {/* Verdict — the quick "should I worry?" answer */}
+          {hasData && (
+            <VerdictCard rink={rink} summary={summary} loadedSignals={loadedSignals} />
+          )}
+
+          {/* Share button — accessible near top of page */}
+          <div style={{ marginTop: 12 }}>
+            {shareButton}
+          </div>
 
           {/* ── Secondary info — below the fold ── */}
           <div style={{ marginTop: 16, display: 'flex', flexDirection: 'column', gap: 8 }}>
@@ -817,10 +845,6 @@ export default function RinkPage() {
         <section id="claim-section" style={{ marginTop: 24 }}>
           <ClaimRinkCTA rinkId={rinkId} rinkName={rink.name} />
         </section>
-
-        <div style={{ display: 'flex', justifyContent: 'center', marginTop: 24 }}>
-          {shareButton}
-        </div>
 
         <section style={{ marginTop: 24, paddingBottom: 60 }}>
           <div

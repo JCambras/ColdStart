@@ -13,6 +13,15 @@ import { HowItWorks } from '../components/home/HowItWorks';
 import { RinkRequestForm } from '../components/home/RinkRequestForm';
 import { FeaturedRinksGrid } from '../components/home/FeaturedRinksGrid';
 import { TeamManagerCTA } from '../components/home/TeamManagerCTA';
+import { timeAgo } from '../lib/rinkHelpers';
+
+interface RecentlyViewedRink {
+  id: string;
+  name: string;
+  city: string;
+  state: string;
+  viewedAt: string;
+}
 
 
 const FEATURED_SEARCHES = [
@@ -32,10 +41,33 @@ export default function HomePage() {
   const searchRef = useRef<HTMLInputElement>(null);
   const [savedRinkIds, setSavedRinkIds] = useState<string[]>([]);
   const [savedRinks, setSavedRinks] = useState<RinkData[]>([]);
+  const [recentlyViewed, setRecentlyViewed] = useState<RecentlyViewedRink[]>([]);
 
   // Load saved rinks
   useEffect(() => {
     setSavedRinkIds(storage.getSavedRinks());
+  }, []);
+
+  // Load recently viewed rinks from localStorage
+  useEffect(() => {
+    try {
+      const viewed: RecentlyViewedRink[] = [];
+      for (let i = 0; i < localStorage.length; i++) {
+        const key = localStorage.key(i);
+        if (key?.startsWith('coldstart_viewed_meta_')) {
+          const id = key.replace('coldstart_viewed_meta_', '');
+          const raw = localStorage.getItem(key);
+          if (raw) {
+            const data = JSON.parse(raw);
+            if (data.name) {
+              viewed.push({ id, ...data });
+            }
+          }
+        }
+      }
+      viewed.sort((a, b) => new Date(b.viewedAt).getTime() - new Date(a.viewedAt).getTime());
+      setRecentlyViewed(viewed.slice(0, 5));
+    } catch {}
   }, []);
 
   // Fetch saved rink details
@@ -270,6 +302,47 @@ export default function HomePage() {
                       ✕
                     </button>
                   </div>
+                </div>
+              ))}
+            </div>
+          </section>
+        )}
+
+        {/* Recently Viewed — shows when user has view history but no saved rinks */}
+        {recentlyViewed.length > 0 && savedRinks.length === 0 && (
+          <section aria-label="Recently viewed rinks" style={{
+            maxWidth: layout.maxWidth5xl, margin: '0 auto', padding: '32px 24px 0',
+          }}>
+            <h3 style={{
+              fontSize: 12, fontWeight: 500, color: colors.stone500,
+              textTransform: 'uppercase', letterSpacing: 1.5, marginBottom: 16,
+              display: 'flex', alignItems: 'center', gap: 6,
+            }}>
+              Recently Viewed
+            </h3>
+            <div style={{ display: 'flex', flexDirection: 'column', gap: 8 }}>
+              {recentlyViewed.map((rink) => (
+                <div
+                  key={rink.id}
+                  role="button"
+                  tabIndex={0}
+                  onClick={() => router.push(`/rinks/${rink.id}`)}
+                  onKeyDown={(e) => { if (e.key === 'Enter' || e.key === ' ') { e.preventDefault(); router.push(`/rinks/${rink.id}`); } }}
+                  style={{
+                    display: 'flex', alignItems: 'center', justifyContent: 'space-between',
+                    padding: '12px 18px', background: colors.white, border: `1px solid ${colors.stone200}`,
+                    borderRadius: 10, cursor: 'pointer', transition: 'border-color 0.15s',
+                  }}
+                  onMouseEnter={(e) => { e.currentTarget.style.borderColor = colors.brand; }}
+                  onMouseLeave={(e) => { e.currentTarget.style.borderColor = colors.stone200; }}
+                >
+                  <div>
+                    <div style={{ fontSize: text.base, fontWeight: 600, color: colors.stone800 }}>{rink.name}</div>
+                    <div style={{ fontSize: text.xs, color: colors.stone400, marginTop: 2 }}>{rink.city}, {rink.state}</div>
+                  </div>
+                  <span style={{ fontSize: text.xs, color: colors.stone400, whiteSpace: 'nowrap', marginLeft: 12 }}>
+                    {timeAgo(rink.viewedAt)}
+                  </span>
                 </div>
               ))}
             </div>
