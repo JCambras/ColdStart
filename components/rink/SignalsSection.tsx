@@ -24,7 +24,7 @@ export function SignalsSection({ rink, summary, loadedSignals }: SignalsSectionP
   return (
     <section
       id="signals-section"
-      aria-label="Rink signals"
+      aria-label="Rink ratings"
       style={{
         background: colors.white, border: `1px solid ${colors.borderDefault}`,
         borderRadius: 16, marginTop: 16, overflow: 'hidden',
@@ -35,7 +35,7 @@ export function SignalsSection({ rink, summary, loadedSignals }: SignalsSectionP
         padding: '10px 24px', background: colors.bgPage, borderBottom: `1px solid ${colors.borderLight}`,
         display: 'flex', alignItems: 'center',
       }}>
-        <span style={{ fontSize: 12, fontWeight: 600, color: colors.textSecondary }}>Signals</span>
+        <span style={{ fontSize: 12, fontWeight: 600, color: colors.textSecondary }}>Ratings</span>
       </div>
       <div style={{ padding: '0 24px' }}>
         {sorted.map((s, i) => (

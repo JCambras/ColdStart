@@ -74,10 +74,7 @@ export function SignalBar({ signal, rinkSlug }: { signal: Signal; rinkSlug: stri
             <span style={{ fontSize: text.sm, fontWeight: noData ? 400 : 600, color: noData ? colors.textMuted : colors.textSecondary, fontStyle: noData ? 'italic' : 'normal' }}>
               {noData ? 'No ratings yet' : (
                 <>
-                  {signal.count} rating{signal.count !== 1 ? 's' : ''}
-                  <span style={{ fontSize: text['2xs'], fontWeight: 400, color: colors.textMuted, marginLeft: 6 }}>
-                    {Math.round(signal.confidence * 100)}% confident
-                  </span>
+                  Based on {signal.count} rating{signal.count !== 1 ? 's' : ''}
                 </>
               )}
             </span>

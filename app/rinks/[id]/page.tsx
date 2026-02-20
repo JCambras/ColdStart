@@ -527,8 +527,9 @@ export default function RinkPage() {
         const url = window.location.href;
         const parking = summary.signals.find(s => s.signal === 'parking');
         const parkingNote = parking ? ` (Parking: ${parking.value.toFixed(1)}/5)` : '';
+        const address = `📍 ${rink.address}, ${rink.city}, ${rink.state}`;
         const topTip = summary.tips.length > 0 ? `\n💡 "${summary.tips[0].text}"` : '';
-        const shareText = `${rink.name}${parkingNote}\n${topTip}\nRink info from hockey parents: ${url}`;
+        const shareText = `${rink.name}${parkingNote}\n${address}${topTip}\nRink info from hockey parents: ${url}`;
         if (navigator.share) {
           navigator.share({ title: `${rink.name} — ColdStart Hockey`, text: shareText, url }).catch(() => {});
         } else {
@@ -571,7 +572,7 @@ export default function RinkPage() {
       display: 'flex', justifyContent: 'center', gap: 0, padding: '0 24px',
     }}>
       {[
-        { key: 'signals', label: 'Signals' },
+        { key: 'signals', label: 'Ratings' },
         { key: 'tips', label: 'Tips' },
         { key: 'nearby', label: 'Nearby' },
       ].map(tab => (
