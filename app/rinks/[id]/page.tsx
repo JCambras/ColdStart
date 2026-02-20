@@ -37,7 +37,7 @@ function ReturnRatingPrompt({
     { key: 'parking', icon: '🅿️', question: 'How was parking?', low: 'Tough', high: 'Easy' },
     { key: 'cold', icon: '❄️', question: 'How cold was it?', low: 'Freezing', high: 'Comfortable' },
     { key: 'food_nearby', icon: '🍔', question: 'Food options nearby?', low: 'None', high: 'Plenty' },
-    { key: 'chaos', icon: '🌀', question: 'How chaotic was it?', low: 'Calm', high: 'Wild' },
+    { key: 'chaos', icon: '🌀', question: 'How chaotic was it?', low: 'Hectic', high: 'Calm' },
     { key: 'family_friendly', icon: '👨‍👩‍👧', question: 'Family friendly?', low: 'Not great', high: 'Great' },
     { key: 'locker_rooms', icon: '🚪', question: 'Locker rooms?', low: 'Tight', high: 'Spacious' },
     { key: 'pro_shop', icon: '🏒', question: 'Pro shop?', low: 'None', high: 'Stocked' },

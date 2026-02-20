@@ -51,6 +51,8 @@ export function TipCard({ tip, tipIndex, rinkSlug }: { tip: Tip; tipIndex: numbe
 
   return (
     <div
+      role="button"
+      tabIndex={0}
       style={{
         padding: '10px 14px',
         background: colors.white,
@@ -61,6 +63,7 @@ export function TipCard({ tip, tipIndex, rinkSlug }: { tip: Tip; tipIndex: numbe
         transition: 'border-color 0.15s',
       }}
       onClick={() => setExpanded(!expanded)}
+      onKeyDown={(e) => { if (e.key === 'Enter' || e.key === ' ') { e.preventDefault(); setExpanded(!expanded); } }}
       onMouseEnter={(e) => { e.currentTarget.style.borderColor = colors.borderDefault; }}
       onMouseLeave={(e) => { e.currentTarget.style.borderColor = colors.borderLight; }}
     >

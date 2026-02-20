@@ -17,8 +17,11 @@ export function SignalBar({ signal, rinkSlug }: { signal: Signal; rinkSlug: stri
 
   return (
     <div
+      role="button"
+      tabIndex={0}
       style={{ padding: '14px 0', cursor: 'pointer', opacity: noData ? 0.6 : 1 }}
       onClick={() => setExpanded(!expanded)}
+      onKeyDown={(e) => { if (e.key === 'Enter' || e.key === ' ') { e.preventDefault(); setExpanded(!expanded); } }}
     >
       <div style={{ display: 'flex', justifyContent: 'space-between', alignItems: 'center', marginBottom: 8 }}>
         <div style={{ display: 'flex', alignItems: 'center', gap: 6 }}>
