@@ -216,7 +216,7 @@ export default function TripPage() {
                   <div style={{ display: 'flex', alignItems: 'center', gap: 10, padding: '10px 12px', background: parking.value >= 3.5 ? colors.bgSuccess : parking.value >= 2.5 ? colors.bgWarning : colors.bgError, borderRadius: 10, border: `1px solid ${parking.value >= 3.5 ? colors.successBorder : parking.value >= 2.5 ? colors.warningBorder : '#fecaca'}` }}>
                     <span style={{ fontSize: 18 }}>🅿️</span>
                     <div>
-                      <div style={{ fontSize: 14, fontWeight: 700, color: getBarColor(parking.value) }}>
+                      <div style={{ fontSize: 14, fontWeight: 700, color: getBarColor(parking.value, parking.count) }}>
                         Parking: {parking.value >= 3.5 ? 'Easy' : parking.value >= 2.5 ? 'Tight' : 'Tough'} ({parking.value.toFixed(1)}/5)
                       </div>
                       {summary.tips?.[0] && summary.tips[0].text.toLowerCase().includes('park') && (
@@ -302,7 +302,7 @@ export default function TripPage() {
                 const meta = SIGNAL_META[sig.signal] || { label: sig.signal, icon: '' };
                 return (
                   <div key={sig.signal} style={{ padding: '6px 10px', borderRadius: 8, background: sig.value >= 3.5 ? colors.bgSuccess : sig.value >= 2.5 ? colors.bgWarning : colors.bgError, border: `1px solid ${sig.value >= 3.5 ? colors.successBorder : sig.value >= 2.5 ? colors.warningBorder : '#fecaca'}`, fontSize: 12 }}>
-                    <span>{meta.icon}</span> <span style={{ fontWeight: 600, color: getBarColor(sig.value) }}>{sig.value.toFixed(1)}</span> <span style={{ color: colors.textTertiary }}>{meta.label}</span>
+                    <span>{meta.icon}</span> <span style={{ fontWeight: 600, color: getBarColor(sig.value, sig.count) }}>{sig.value.toFixed(1)}</span> <span style={{ color: colors.textTertiary }}>{meta.label}</span>
                   </div>
                 );
               })}
