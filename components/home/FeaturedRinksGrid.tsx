@@ -3,6 +3,7 @@
 import { useState, useEffect } from 'react';
 import { RinkData } from '../RinkCard';
 import { SIGNAL_LABELS } from '../../lib/constants';
+import { getBarColor } from '../../lib/rinkHelpers';
 import { colors, text, layout } from '../../lib/theme';
 
 interface FeaturedRinksGridProps {
@@ -118,7 +119,7 @@ export function FeaturedRinksGrid({ rinks, onRinkClick }: FeaturedRinksGridProps
                     {topSignals.map((s) => {
                       const pct = Math.round(((s.value - 1) / 4) * 100);
                       const label = SIGNAL_LABELS[s.signal] || s.signal;
-                      const barColor = s.value >= 3.5 ? colors.brand : s.value >= 2.5 ? '#f59e0b' : colors.error;
+                      const barColor = getBarColor(s.value, s.count);
                       return (
                         <div key={s.signal} style={{ display: 'flex', alignItems: 'center', gap: 8, fontSize: text.xs }}>
                           <span style={{ width: 48, flexShrink: 0, color: colors.stone500, fontWeight: 500 }}>{label}</span>
