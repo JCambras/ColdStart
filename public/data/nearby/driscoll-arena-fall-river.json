@@ -1,6 +1,16 @@
 {
   "quick_bite": [
     {
+      "name": "Dunkin'",
+      "distance": "0.1 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Dunkin'&query_place_id=ChIJO_WM_wn55IkRKQ_5lP62YFg&center=41.713715199999996,-71.1272307"
+    },
+    {
+      "name": "Dunkin'",
+      "distance": "0.7 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Dunkin'&query_place_id=ChIJZcLoMwL55IkRLtoNkuBO2eM&center=41.7109227,-71.14219299999999"
+    },
+    {
       "name": "Marcucci's Bakery",
       "distance": "1.1 mi",
       "url": "https://www.google.com/maps/search/?api=1&query=Marcucci's%20Bakery&query_place_id=ChIJAcL8_xj55IkRGwGHzvkKasg&center=41.6985564,-71.1359921"
@@ -29,6 +39,11 @@
       "name": "Burger King",
       "distance": "1.5 mi",
       "url": "https://www.google.com/maps/search/?api=1&query=Burger%20King&query_place_id=ChIJZ2Tu1t_45IkRfo8KOfAgnJU&center=41.6977944,-71.1472658"
+    },
+    {
+      "name": "Homemade Food by Katia - Fall River MA",
+      "distance": "1.5 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Homemade%20Food%20by%20Katia%20-%20Fall%20River%20MA&query_place_id=ChIJZRvoFbz55IkR_gigxrAkAn4&center=41.693340299999996,-71.1376724"
     }
   ],
   "coffee": [
@@ -36,6 +51,11 @@
       "name": "Dunkin'",
       "distance": "0.1 mi",
       "url": "https://www.google.com/maps/search/?api=1&query=Dunkin'&query_place_id=ChIJO_WM_wn55IkRKQ_5lP62YFg&center=41.713715199999996,-71.1272307"
+    },
+    {
+      "name": "McDonald's",
+      "distance": "0.2 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=McDonald's&query_place_id=ChIJm77wJQr55IkRS6bW1QmGlto&center=41.7121721,-71.1266698"
     },
     {
       "name": "smile bread",
@@ -48,14 +68,19 @@
       "url": "https://www.google.com/maps/search/?api=1&query=Christopher's%20New%20Boston%20Road&query_place_id=ChIJZXlPEQD55IkRWPcUGUO5K4Q&center=41.7094359,-71.1393099"
     },
     {
-      "name": "Troia Cafe",
-      "distance": "0.7 mi",
-      "url": "https://www.google.com/maps/search/?api=1&query=Troia%20Cafe&query_place_id=ChIJ3RWUtuv55IkRjDPuP-4GCZc&center=41.7104162,-71.1406993"
-    },
-    {
       "name": "Dunkin'",
       "distance": "0.7 mi",
       "url": "https://www.google.com/maps/search/?api=1&query=Dunkin'&query_place_id=ChIJZcLoMwL55IkRLtoNkuBO2eM&center=41.7109227,-71.14219299999999"
+    },
+    {
+      "name": "Barcelos Bakery",
+      "distance": "1.2 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Barcelos%20Bakery&query_place_id=ChIJ0Vgrsh_55IkRCatrDGP3htE&center=41.699453999999996,-71.1429485"
+    },
+    {
+      "name": "Duke's Bakery and Cafe",
+      "distance": "1.4 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Duke's%20Bakery%20and%20Cafe&query_place_id=ChIJCVZ5lsH45IkRLXNE-s-Sdvg&center=41.7188545,-71.1554178"
     }
   ],
   "team_lunch": [

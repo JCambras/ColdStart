@@ -1,6 +1,11 @@
 {
   "quick_bite": [
     {
+      "name": "Wawa",
+      "distance": "0.3 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Wawa&query_place_id=ChIJ83CDr_wpwokRwAVVBdZSi4M&center=40.21583,-74.126189"
+    },
+    {
       "name": "On A Roll NJ",
       "distance": "0.9 mi",
       "url": "https://www.google.com/maps/search/?api=1&query=On%20A%20Roll%20NJ&query_place_id=ChIJFYWxt7orwokRdnBkIPlUzsA&center=40.2235571,-74.14051169999999"
@@ -21,9 +26,20 @@
       "url": "https://www.google.com/maps/search/?api=1&query=%E1%83%95%E1%83%90%E1%83%9F%E1%83%90%20%E1%83%95%E1%83%9D%E1%83%9A%E1%83%9B%E1%83%90%E1%83%A0%E1%83%A2%E1%83%97%E1%83%90%E1%83%9C&query_place_id=ChIJnSY-PgApwokRjksB5w7THHU&center=40.2251763,-74.0769401"
     },
     {
+      "name": "Wawa",
+      "distance": "2.5 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Wawa&query_place_id=ChIJO5WEvOYowokRCpr6sT5YSjE&center=40.2250528,-74.07689049999999"
+    },
+    {
       "name": "Jersey Mike's Subs",
       "distance": "2.5 mi",
       "url": "https://www.google.com/maps/search/?api=1&query=Jersey%20Mike's%20Subs&query_place_id=ChIJCa6quKArwokRW-HDc3wIpaQ&center=40.225399499999995,-74.172352"
+    },
+    {
+      "name": "Wawa",
+      "distance": "3.2 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Wawa&query_place_id=ChIJYQZKlsouwokRXR_LlOmQCyA&center=40.258030999999995,-74.09075399999999",
+      "isFar": true
     },
     {
       "name": "Jersey Mike's Subs",
@@ -34,9 +50,30 @@
   ],
   "coffee": [
     {
+      "name": "Wawa",
+      "distance": "0.3 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Wawa&query_place_id=ChIJ83CDr_wpwokRwAVVBdZSi4M&center=40.21583,-74.126189"
+    },
+    {
       "name": "Hole in One Bagel-Deli",
       "distance": "1.9 mi",
       "url": "https://www.google.com/maps/search/?api=1&query=Hole%20in%20One%20Bagel-Deli&query_place_id=ChIJ5V6cXaYpwokRci-BU0FATBM&center=40.2113152,-74.09127149999999"
+    },
+    {
+      "name": "McDonald's",
+      "distance": "2.1 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=McDonald's&query_place_id=ChIJCcp2twQpwokRQPeYoEP-BfI&center=40.2227307,-74.0842243"
+    },
+    {
+      "name": "Wawa",
+      "distance": "2.5 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Wawa&query_place_id=ChIJO5WEvOYowokRCpr6sT5YSjE&center=40.2250528,-74.07689049999999"
+    },
+    {
+      "name": "Wawa",
+      "distance": "3.2 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Wawa&query_place_id=ChIJYQZKlsouwokRXR_LlOmQCyA&center=40.258030999999995,-74.09075399999999",
+      "isFar": true
     }
   ],
   "team_lunch": [
@@ -69,6 +106,26 @@
       "name": "Charleys Cheesesteaks & Wings",
       "distance": "1.6 mi",
       "url": "https://www.google.com/maps/search/?api=1&query=Charleys%20Cheesesteaks%20%26%20Wings&query_place_id=ChIJiW_SFE8pwokRbNKoPB_8t4k&center=40.2244398,-74.0943269"
+    },
+    {
+      "name": "Auntie Anne's",
+      "distance": "1.7 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Auntie%20Anne's&query_place_id=ChIJW2bEPCgpwokRZ42LBkD_RQI&center=40.2257738,-74.0934455"
+    },
+    {
+      "name": "Auntie Anne's",
+      "distance": "2.0 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Auntie%20Anne's&query_place_id=ChIJ6RJ4Nb4pwokRqK82HB5M6HY&center=40.1980867,-74.0991774"
+    },
+    {
+      "name": "Walmart Bakery",
+      "distance": "2.1 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Walmart%20Bakery&query_place_id=ChIJ____GBspwokRg4ldZ8ir4M4&center=40.224999,-74.0852701"
+    },
+    {
+      "name": "Philly Pretzel Factory",
+      "distance": "2.1 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Philly%20Pretzel%20Factory&query_place_id=ChIJz_tLPRspwokRDJ1eaqQQR78&center=40.224999,-74.0852701"
     }
   ],
   "dinner": [

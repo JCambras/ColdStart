@@ -3,71 +3,111 @@
     {
       "name": "Little Caesars Pizza",
       "distance": "0.2 mi",
-      "url": "https://www.google.com/maps/search/Little%20Caesars%20Pizza+near+42.638583%2C-83.73022879999999"
+      "url": "https://www.google.com/maps/search/?api=1&query=Little%20Caesars%20Pizza&query_place_id=ChIJu8v6-L9cI4gRNBGiO10gMPg&center=42.636449999999996,-83.73281899999999"
     },
     {
       "name": "KFC",
       "distance": "0.3 mi",
-      "url": "https://www.google.com/maps/search/KFC+near+42.638583%2C-83.73022879999999"
+      "url": "https://www.google.com/maps/search/?api=1&query=KFC&query_place_id=ChIJA8iC7-xcI4gRiELuHS7_X_s&center=42.6360919,-83.7347068"
+    },
+    {
+      "name": "Dunkin'",
+      "distance": "0.4 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Dunkin'&query_place_id=ChIJ0d0FEOtcI4gRrc8nV5HTWSI&center=42.6358822,-83.73774329999999"
     },
     {
       "name": "Culver’s",
       "distance": "0.6 mi",
-      "url": "https://www.google.com/maps/search/Culver%E2%80%99s+near+42.638583%2C-83.73022879999999"
+      "url": "https://www.google.com/maps/search/?api=1&query=Culver%E2%80%99s&query_place_id=ChIJGfR-979cI4gRZnloe_QKD1M&center=42.635317,-83.7401464"
+    },
+    {
+      "name": "Tim Hortons",
+      "distance": "0.6 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Tim%20Hortons&query_place_id=ChIJQUDktepcI4gRbB2FwiqsVrU&center=42.6352009,-83.74081040000002"
     },
     {
       "name": "Gus's Carry Out",
       "distance": "0.8 mi",
-      "url": "https://www.google.com/maps/search/Gus's%20Carry%20Out+near+42.638583%2C-83.73022879999999"
+      "url": "https://www.google.com/maps/search/?api=1&query=Gus's%20Carry%20Out&query_place_id=ChIJq_iAnb9cI4gR3JSaDHFtAY4&center=42.6325868,-83.7427996"
     },
     {
       "name": "Big Chicken",
       "distance": "0.8 mi",
-      "url": "https://www.google.com/maps/search/Big%20Chicken+near+42.638583%2C-83.73022879999999"
+      "url": "https://www.google.com/maps/search/?api=1&query=Big%20Chicken&query_place_id=ChIJ5RlEEQBdI4gR77QZ3ROt2kA&center=42.6334169,-83.7440677"
+    },
+    {
+      "name": "Taco Bell",
+      "distance": "0.8 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Taco%20Bell&query_place_id=ChIJQ8JhYsBcI4gRnGL6MjiV-cc&center=42.634597,-83.7447827"
+    },
+    {
+      "name": "Wendy's",
+      "distance": "1.0 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Wendy's&query_place_id=ChIJU_dq2rhcI4gRsdH5hBfCXsI&center=42.6328226,-83.74722059999999"
+    },
+    {
+      "name": "Enzo’s Pizzeria of Hartland",
+      "distance": "1.0 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Enzo%E2%80%99s%20Pizzeria%20of%20Hartland&query_place_id=ChIJ-46YW9NdI4gR31brlxEx9r8&center=42.6344619,-83.7110648"
     }
   ],
   "coffee": [
     {
       "name": "BIGGBY COFFEE",
       "distance": "0.2 mi",
-      "url": "https://www.google.com/maps/search/BIGGBY%20COFFEE+near+42.638583%2C-83.73022879999999"
+      "url": "https://www.google.com/maps/search/?api=1&query=BIGGBY%20COFFEE&query_place_id=ChIJvVjRAe1cI4gR1oy3hH86q-k&center=42.6364914,-83.7331172"
     },
     {
       "name": "Dunkin'",
       "distance": "0.4 mi",
-      "url": "https://www.google.com/maps/search/Dunkin'+near+42.638583%2C-83.73022879999999"
+      "url": "https://www.google.com/maps/search/?api=1&query=Dunkin'&query_place_id=ChIJ0d0FEOtcI4gRrc8nV5HTWSI&center=42.6358822,-83.73774329999999"
     },
     {
       "name": "Tim Hortons",
       "distance": "0.6 mi",
-      "url": "https://www.google.com/maps/search/Tim%20Hortons+near+42.638583%2C-83.73022879999999"
+      "url": "https://www.google.com/maps/search/?api=1&query=Tim%20Hortons&query_place_id=ChIJQUDktepcI4gRbB2FwiqsVrU&center=42.6352009,-83.74081040000002"
     },
     {
       "name": "Michigan Waffle Company",
       "distance": "0.7 mi",
-      "url": "https://www.google.com/maps/search/Michigan%20Waffle%20Company+near+42.638583%2C-83.73022879999999"
+      "url": "https://www.google.com/maps/search/?api=1&query=Michigan%20Waffle%20Company&query_place_id=ChIJgVp7OQBdI4gRzSWrpxloF-I&center=42.6384805,-83.74371500000001"
     },
     {
       "name": "Starbucks Coffee Company",
       "distance": "0.8 mi",
-      "url": "https://www.google.com/maps/search/Starbucks%20Coffee%20Company+near+42.638583%2C-83.73022879999999"
+      "url": "https://www.google.com/maps/search/?api=1&query=Starbucks%20Coffee%20Company&query_place_id=ChIJXyM6zxRdI4gR7ku01ak6Ios&center=42.63469,-83.74407"
+    },
+    {
+      "name": "McDonald's",
+      "distance": "0.8 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=McDonald's&query_place_id=ChIJVQU0BV1cI4gRpxsYJasas3c&center=42.6335189,-83.7433928"
     }
   ],
   "team_lunch": [
     {
       "name": "Leo's Coney Island Hartland",
       "distance": "0.5 mi",
-      "url": "https://www.google.com/maps/search/Leo's%20Coney%20Island%20Hartland+near+42.638583%2C-83.73022879999999"
+      "url": "https://www.google.com/maps/search/?api=1&query=Leo's%20Coney%20Island%20Hartland&query_place_id=ChIJ69Tn-79cI4gRAlhWHnKPOJc&center=42.6342479,-83.738113"
     },
     {
       "name": "Meijer Bakery",
       "distance": "0.7 mi",
-      "url": "https://www.google.com/maps/search/Meijer%20Bakery+near+42.638583%2C-83.73022879999999"
+      "url": "https://www.google.com/maps/search/?api=1&query=Meijer%20Bakery&query_place_id=ChIJuzJsRmldI4gR845j-bTENGs&center=42.6386786,-83.74415069999999"
     },
     {
       "name": "Ocean Star",
       "distance": "0.8 mi",
-      "url": "https://www.google.com/maps/search/Ocean%20Star+near+42.638583%2C-83.73022879999999"
+      "url": "https://www.google.com/maps/search/?api=1&query=Ocean%20Star&query_place_id=ChIJqZMtdr9cI4gRDl1TAzHsBxI&center=42.6324353,-83.74281409999999"
+    },
+    {
+      "name": "Kroger Bakery",
+      "distance": "1.2 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Kroger%20Bakery&query_place_id=ChIJw6-J1LdcI4gRk8pNK1wypFo&center=42.634988899999996,-83.7543079"
+    },
+    {
+      "name": "Greenhouse Bakery",
+      "distance": "1.8 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Greenhouse%20Bakery&query_place_id=ChIJ_7maaLRdI4gRfDl3-L8YX3M&center=42.6571814,-83.7541292"
     }
   ],
   "dinner": [

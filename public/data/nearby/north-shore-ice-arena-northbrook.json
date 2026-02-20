@@ -11,11 +11,6 @@
       "url": "https://www.google.com/maps/search/?api=1&query=Potbelly&query_place_id=ChIJM7EbMO7GD4gRPRhzGN-NYbo&center=42.1067399,-87.8029462"
     },
     {
-      "name": "Buffalo Wild Wings",
-      "distance": "0.6 mi",
-      "url": "https://www.google.com/maps/search/?api=1&query=Buffalo%20Wild%20Wings&query_place_id=ChIJ1-vBaf3GD4gRibFGRVsy8tw&center=42.106181799999995,-87.8036782"
-    },
-    {
       "name": "Market Sandwich",
       "distance": "0.6 mi",
       "url": "https://www.google.com/maps/search/?api=1&query=Market%20Sandwich&query_place_id=ChIJ9_7S8rDHD4gRf5fiHSbB-P4&center=42.106183099999996,-87.8019992"
@@ -24,6 +19,36 @@
       "name": "Chipotle Mexican Grill",
       "distance": "0.6 mi",
       "url": "https://www.google.com/maps/search/?api=1&query=Chipotle%20Mexican%20Grill&query_place_id=ChIJtS8GF_vGD4gRzX0PJTvrRSU&center=42.1047829,-87.81413169999999"
+    },
+    {
+      "name": "Panda Express",
+      "distance": "0.6 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Panda%20Express&query_place_id=ChIJ1UailfHGD4gR8bSZhVMtvHw&center=42.104424,-87.81294489999999"
+    },
+    {
+      "name": "Jersey Mike's Subs",
+      "distance": "0.6 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Jersey%20Mike's%20Subs&query_place_id=ChIJa9Ca6PzGD4gRBbOGt-yoHSQ&center=42.1043634,-87.812834"
+    },
+    {
+      "name": "Zippys Burgers & More",
+      "distance": "1.1 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Zippys%20Burgers%20%26%20More&query_place_id=ChIJKZXJu1_HD4gRm1UFrLLoQy0&center=42.1048195,-87.82882149999999"
+    },
+    {
+      "name": "Subway",
+      "distance": "1.2 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Subway&query_place_id=ChIJfYaqvw7HD4gR_qMuVHv4cXw&center=42.1044735,-87.8288809"
+    },
+    {
+      "name": "Lou Malnati's Pizzeria",
+      "distance": "1.4 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Lou%20Malnati's%20Pizzeria&query_place_id=ChIJ38X0NjDHD4gRonPcunOXWB8&center=42.1290358,-87.82674469999999"
+    },
+    {
+      "name": "Subway",
+      "distance": "1.5 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Subway&query_place_id=ChIJbae9gzHHD4gRaALpY-EdVyk&center=42.1302234,-87.8277545"
     }
   ],
   "coffee": [
@@ -68,6 +93,11 @@
       "name": "Whole Foods Bakery",
       "distance": "0.7 mi",
       "url": "https://www.google.com/maps/search/?api=1&query=Whole%20Foods%20Bakery&query_place_id=ChIJ5d-cAADHD4gRM2iWtgVaMDc&center=42.1066794,-87.80070359999999"
+    },
+    {
+      "name": "Tasty Breads International",
+      "distance": "1.4 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Tasty%20Breads%20International&query_place_id=ChIJNWLK1wvHD4gRLgnRwaIfaLA&center=42.100246999999996,-87.830488"
     }
   ],
   "dinner": [

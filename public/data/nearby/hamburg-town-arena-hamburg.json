@@ -1,6 +1,11 @@
 {
   "quick_bite": [
     {
+      "name": "Tim Hortons",
+      "distance": "1.7 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Tim%20Hortons&query_place_id=ChIJKzwZd14d04kRgRt7cErNobA&center=42.7089494,-78.91808859999999"
+    },
+    {
       "name": "Jersey Mike's Subs",
       "distance": "2.0 mi",
       "url": "https://www.google.com/maps/search/?api=1&query=Jersey%20Mike's%20Subs&query_place_id=ChIJFcjJA5Mb04kRc4i0B-Dmih4&center=42.7421544,-78.8693667"
@@ -19,6 +24,32 @@
       "name": "Subway",
       "distance": "2.1 mi",
       "url": "https://www.google.com/maps/search/?api=1&query=Subway&query_place_id=ChIJSxTwMt0b04kRsr6uTiGa6SM&center=42.735205699999995,-78.9177642"
+    },
+    {
+      "name": "Route 5 cornerstore and pizzeria",
+      "distance": "2.4 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Route%205%20cornerstore%20and%20pizzeria&query_place_id=ChIJbduXBVcZ04kRfsc2UQKex0I&center=42.7234336,-78.9321324"
+    },
+    {
+      "name": "Subway",
+      "distance": "2.7 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Subway&query_place_id=ChIJ5YXtfC0b04kRcSgswCSfCio&center=42.735910399999995,-78.8405341"
+    },
+    {
+      "name": "Wendy's",
+      "distance": "2.8 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Wendy's&query_place_id=ChIJ_1f5gCgb04kRjwab94CMdPA&center=42.7483534,-78.85281309999999"
+    },
+    {
+      "name": "Arby's",
+      "distance": "2.8 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Arby's&query_place_id=ChIJeZ-U_tga04kRlAoVnhkMXZM&center=42.748792699999996,-78.8531806"
+    },
+    {
+      "name": "Subway",
+      "distance": "3.1 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Subway&query_place_id=ChIJ-Voki8cE04kRa1Dxs6_3WZY&center=42.7247676,-78.8255678",
+      "isFar": true
     }
   ],
   "coffee": [
@@ -26,6 +57,17 @@
       "name": "Tim Hortons",
       "distance": "1.7 mi",
       "url": "https://www.google.com/maps/search/?api=1&query=Tim%20Hortons&query_place_id=ChIJKzwZd14d04kRgRt7cErNobA&center=42.7089494,-78.91808859999999"
+    },
+    {
+      "name": "McDonald's",
+      "distance": "2.8 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=McDonald's&query_place_id=ChIJe-N288UE04kR5AKHCXaBFf8&center=42.749113799999996,-78.85332939999999"
+    },
+    {
+      "name": "McDonald's",
+      "distance": "3.2 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=McDonald's&query_place_id=ChIJe-N288UE04kRkkkkWCDLtK0&center=42.730498,-78.826274",
+      "isFar": true
     }
   ],
   "team_lunch": [
@@ -38,11 +80,6 @@
       "name": "Bella Pizza",
       "distance": "2.4 mi",
       "url": "https://www.google.com/maps/search/?api=1&query=Bella%20Pizza&query_place_id=ChIJK8K0HrMb04kRo_I1OQOR6Jc&center=42.7492528,-78.89790769999999"
-    },
-    {
-      "name": "Pierce Ave Bar & Grill",
-      "distance": "2.4 mi",
-      "url": "https://www.google.com/maps/search/?api=1&query=Pierce%20Ave%20Bar%20%26%20Grill&query_place_id=ChIJHRNaslEb04kRIFrJx1OaOZI&center=42.715994699999996,-78.8395808"
     },
     {
       "name": "The Public House on the Lake",

@@ -3,71 +3,136 @@
     {
       "name": "Jet's Pizza",
       "distance": "1.0 mi",
-      "url": "https://www.google.com/maps/search/Jet's%20Pizza+near+42.2545289%2C-83.7789566"
-    },
-    {
-      "name": "Outback Steakhouse",
-      "distance": "1.0 mi",
-      "url": "https://www.google.com/maps/search/Outback%20Steakhouse+near+42.2545289%2C-83.7789566"
+      "url": "https://www.google.com/maps/search/?api=1&query=Jet's%20Pizza&query_place_id=ChIJy11c5xiwPIgR4sIRwTrPIr8&center=42.242015599999995,-83.7698781"
     },
     {
       "name": "Taystee's Burgers",
       "distance": "1.1 mi",
-      "url": "https://www.google.com/maps/search/Taystee's%20Burgers+near+42.2545289%2C-83.7789566"
+      "url": "https://www.google.com/maps/search/?api=1&query=Taystee's%20Burgers&query_place_id=ChIJ8zvxBG6vPIgRMcYR1SlQGKM&center=42.2477744,-83.7598782"
     },
     {
       "name": "Pancheros Mexican Grill - Ann Arbor Pittsfield",
       "distance": "1.1 mi",
-      "url": "https://www.google.com/maps/search/Pancheros%20Mexican%20Grill%20-%20Ann%20Arbor%20Pittsfield+near+42.2545289%2C-83.7789566"
+      "url": "https://www.google.com/maps/search/?api=1&query=Pancheros%20Mexican%20Grill%20-%20Ann%20Arbor%20Pittsfield&query_place_id=ChIJQVhZJR-wPIgR3j29qK6BF6c&center=42.24054470000001,-83.7690686"
     },
     {
       "name": "Marco's Pizza",
       "distance": "1.1 mi",
-      "url": "https://www.google.com/maps/search/Marco's%20Pizza+near+42.2545289%2C-83.7789566"
+      "url": "https://www.google.com/maps/search/?api=1&query=Marco's%20Pizza&query_place_id=ChIJh5_KnfexPIgRNPiYK4jriwc&center=42.2398741,-83.7710286"
     },
     {
       "name": "Happy Wok",
       "distance": "1.1 mi",
-      "url": "https://www.google.com/maps/search/Happy%20Wok+near+42.2545289%2C-83.7789566"
+      "url": "https://www.google.com/maps/search/?api=1&query=Happy%20Wok&query_place_id=ChIJH9_zPdKxPIgR5I3LKVqS_Ho&center=42.2695843,-83.7723772"
     },
     {
       "name": "Five Guys",
       "distance": "1.1 mi",
-      "url": "https://www.google.com/maps/search/Five%20Guys+near+42.2545289%2C-83.7789566"
+      "url": "https://www.google.com/maps/search/?api=1&query=Five%20Guys&query_place_id=ChIJQVhZJR-wPIgRoe1fGR5rrE8&center=42.240426,-83.76917"
+    },
+    {
+      "name": "Tim Hortons",
+      "distance": "1.1 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Tim%20Hortons&query_place_id=ChIJdUtNIN-vPIgRnNxzoUyYd4s&center=42.2478431,-83.7595336"
+    },
+    {
+      "name": "Izzy's Hoagie Shop",
+      "distance": "1.1 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Izzy's%20Hoagie%20Shop&query_place_id=ChIJARalF9KxPIgRhH5-DV9S9-g&center=42.269729999999996,-83.772488"
+    },
+    {
+      "name": "Taco Bell",
+      "distance": "1.5 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Taco%20Bell&query_place_id=ChIJ2UQY3cWxPIgRzYI8z5HbVzI&center=42.2760418,-83.7775008"
+    },
+    {
+      "name": "SNOWFOX Sushi",
+      "distance": "1.6 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=SNOWFOX%20Sushi&query_place_id=ChIJ-wlmrg-xPIgRwgxTpD8l1SY&center=42.2775968,-83.7821475"
     }
   ],
   "coffee": [
     {
       "name": "Starbucks Coffee Company",
       "distance": "0.9 mi",
-      "url": "https://www.google.com/maps/search/Starbucks%20Coffee%20Company+near+42.2545289%2C-83.7789566"
+      "url": "https://www.google.com/maps/search/?api=1&query=Starbucks%20Coffee%20Company&query_place_id=ChIJQdEtkRiwPIgRX1YteumbphE&center=42.243719999999996,-83.76939"
     },
     {
       "name": "Starbucks Coffee Company",
       "distance": "1.1 mi",
-      "url": "https://www.google.com/maps/search/Starbucks%20Coffee%20Company+near+42.2545289%2C-83.7789566"
+      "url": "https://www.google.com/maps/search/?api=1&query=Starbucks%20Coffee%20Company&query_place_id=ChIJP_rLOh-wPIgRKBnlOjMUfjk&center=42.241389999999996,-83.76804"
     },
     {
       "name": "Tim Hortons",
       "distance": "1.1 mi",
-      "url": "https://www.google.com/maps/search/Tim%20Hortons+near+42.2545289%2C-83.7789566"
+      "url": "https://www.google.com/maps/search/?api=1&query=Tim%20Hortons&query_place_id=ChIJdUtNIN-vPIgRnNxzoUyYd4s&center=42.2478431,-83.7595336"
+    },
+    {
+      "name": "McDonald's",
+      "distance": "1.1 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=McDonald's&query_place_id=ChIJl5g5HR-wPIgRbsKuBrsuLQs&center=42.2420548,-83.7657174"
+    },
+    {
+      "name": "Bruegger's Bagels",
+      "distance": "1.4 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Bruegger's%20Bagels&query_place_id=ChIJZcIiic-vPIgRn0eCZcGC1o0&center=42.253759599999995,-83.75198720000002"
+    },
+    {
+      "name": "Great Harvest Bread Co.",
+      "distance": "1.5 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Great%20Harvest%20Bread%20Co.&query_place_id=ChIJeU-Kjs-vPIgRLcAZrj6Aouw&center=42.252863,-83.7505334"
+    },
+    {
+      "name": "McDonald's",
+      "distance": "1.5 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=McDonald's&query_place_id=ChIJv7dI0cWxPIgRcrmwuwklcow&center=42.276620099999995,-83.7777539"
+    },
+    {
+      "name": "Tous Les Jours Ann Arbor",
+      "distance": "1.7 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Tous%20Les%20Jours%20Ann%20Arbor&query_place_id=ChIJGUAQSRaxPIgRGLmFC52MmdA&center=42.2785047,-83.7812014"
     }
   ],
   "team_lunch": [
     {
       "name": "Chop Detroit",
       "distance": "0.1 mi",
-      "url": "https://www.google.com/maps/search/Chop%20Detroit+near+42.2545289%2C-83.7789566"
+      "url": "https://www.google.com/maps/search/?api=1&query=Chop%20Detroit&query_place_id=ChIJy0Zo54-xPIgRJAKdcQsQvw8&center=42.2543607,-83.77816639999999"
     },
     {
       "name": "Texas Roadhouse",
       "distance": "1.1 mi",
-      "url": "https://www.google.com/maps/search/Texas%20Roadhouse+near+42.2545289%2C-83.7789566"
+      "url": "https://www.google.com/maps/search/?api=1&query=Texas%20Roadhouse&query_place_id=ChIJSQHl1R6wPIgRsF0MItc4Vgk&center=42.2416428,-83.7676269"
     },
     {
-      "name": "Applebee's Grill + Bar",
+      "name": "Whole Foods Bakery",
       "distance": "1.1 mi",
-      "url": "https://www.google.com/maps/search/Applebee's%20Grill%20%2B%20Bar+near+42.2545289%2C-83.7789566"
+      "url": "https://www.google.com/maps/search/?api=1&query=Whole%20Foods%20Bakery&query_place_id=ChIJ30rBbQCvPIgR7HV3c4crDe4&center=42.2484951,-83.7580862"
+    },
+    {
+      "name": "Meijer Bakery",
+      "distance": "1.1 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Meijer%20Bakery&query_place_id=ChIJTWJBtQyxPIgRioLe2uznn80&center=42.2411621,-83.7656899"
+    },
+    {
+      "name": "DiBella's Subs",
+      "distance": "1.2 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=DiBella's%20Subs&query_place_id=ChIJkX1Tb96vPIgRJTVoPgGf1dw&center=42.2472388,-83.7572462"
+    },
+    {
+      "name": "Auntie Anne's",
+      "distance": "1.2 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Auntie%20Anne's&query_place_id=ChIJU-tkL-qxPIgRY3QcbqLG-wM&center=42.239177999999995,-83.766483"
+    },
+    {
+      "name": "Cinnabon",
+      "distance": "1.2 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Cinnabon&query_place_id=ChIJnTSGXdyxPIgRXVDOqkIZBPg&center=42.239303,-83.766033"
+    },
+    {
+      "name": "Kroger Bakery",
+      "distance": "1.6 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Kroger%20Bakery&query_place_id=ChIJ82TJ8MaxPIgRsfF-diWg0Lw&center=42.277533399999996,-83.7821256"
     }
   ],
   "dinner": [

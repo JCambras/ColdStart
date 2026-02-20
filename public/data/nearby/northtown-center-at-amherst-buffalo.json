@@ -1,6 +1,11 @@
 {
   "quick_bite": [
     {
+      "name": "Tim Hortons",
+      "distance": "0.4 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Tim%20Hortons&query_place_id=ChIJO_5JN0xz04kRpSGo5ZIZiw4&center=42.9996718,-78.7866651"
+    },
+    {
       "name": "Moe's Southwest Grill",
       "distance": "0.5 mi",
       "url": "https://www.google.com/maps/search/?api=1&query=Moe's%20Southwest%20Grill&query_place_id=ChIJxQEAldFz04kRhVir6brKeco&center=43.0011763,-78.78619499999999"
@@ -24,6 +29,26 @@
       "name": "Mighty Taco",
       "distance": "0.9 mi",
       "url": "https://www.google.com/maps/search/?api=1&query=Mighty%20Taco&query_place_id=ChIJ5ZlTRDFy04kRIQ4hqv4YBog&center=42.997261099999996,-78.8002037"
+    },
+    {
+      "name": "Hubie's",
+      "distance": "1.0 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Hubie's&query_place_id=ChIJQS0sI9Zz04kRPAeNLQ19OXQ&center=43.0088419,-78.7856771"
+    },
+    {
+      "name": "Subway",
+      "distance": "1.2 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Subway&query_place_id=ChIJT8Kc_kdy04kR7bfFVho-upc&center=42.9920614,-78.80500669999999"
+    },
+    {
+      "name": "Taco Bell",
+      "distance": "1.2 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Taco%20Bell&query_place_id=ChIJf-tf3kdy04kRUCgB855Nuyc&center=42.9913879,-78.8049477"
+    },
+    {
+      "name": "Subway",
+      "distance": "1.5 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Subway&query_place_id=ChIJk-ty7l1x04kRF8-oF5fSttE&center=43.0135426,-78.7688531"
     }
   ],
   "coffee": [
@@ -41,14 +66,19 @@
       "name": "One World Café. Amhest, NY 14260",
       "distance": "0.6 mi",
       "url": "https://www.google.com/maps/search/?api=1&query=One%20World%20Caf%C3%A9.%20Amhest%2C%20NY%2014260&query_place_id=ChIJMXWIJr9z04kRiTQisH2GRJ4&center=43.001065,-78.788613"
+    },
+    {
+      "name": "McDonald's",
+      "distance": "1.6 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=McDonald's&query_place_id=ChIJ2fYGqlty04kRL4MvCOjXmWk&center=42.980346999999995,-78.807244"
+    },
+    {
+      "name": "McDonald's",
+      "distance": "2.0 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=McDonald's&query_place_id=ChIJ744Hj2xy04kRE75CVbd-GMM&center=42.991821699999996,-78.8219433"
     }
   ],
   "team_lunch": [
-    {
-      "name": "skybox grille",
-      "distance": "0.1 mi",
-      "url": "https://www.google.com/maps/search/?api=1&query=skybox%20grille&query_place_id=ChIJ94T9s8hz04kRQLu2rzw7pAE&center=42.994572,-78.78253000000001"
-    },
     {
       "name": "Pistachio's",
       "distance": "0.5 mi",
@@ -73,6 +103,31 @@
       "name": "Austin's Kitchen ( AK Korean Comfort Food)",
       "distance": "0.5 mi",
       "url": "https://www.google.com/maps/search/?api=1&query=Austin's%20Kitchen%20(%20AK%20Korean%20Comfort%20Food)&query_place_id=ChIJhSHNbGNz04kRzL8LImSV2fc&center=43.0019656,-78.78439420000001"
+    },
+    {
+      "name": "Bollywood Bistro",
+      "distance": "0.5 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Bollywood%20Bistro&query_place_id=ChIJ_beErdFz04kRBnGiDXqq4Ao&center=43.002018899999996,-78.78428"
+    },
+    {
+      "name": "Dancing Chopsticks",
+      "distance": "0.5 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Dancing%20Chopsticks&query_place_id=ChIJJaiT_9Bz04kRM3A_jZxm2aw&center=43.002067,-78.78428"
+    },
+    {
+      "name": "Poke Factory",
+      "distance": "0.5 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Poke%20Factory&query_place_id=ChIJBbX3rtFz04kRpo0f1pGDxqo&center=43.0020618,-78.7845475"
+    },
+    {
+      "name": "Chick Mex Halal Food",
+      "distance": "0.5 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Chick%20Mex%20Halal%20Food&query_place_id=ChIJf5mHANFz04kRlrV-TbRF_jo&center=43.0021334,-78.7846639"
+    },
+    {
+      "name": "Walmart Bakery",
+      "distance": "1.7 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Walmart%20Bakery&query_place_id=ChIJAQAAxFxy04kRs8WcdJnZNEc&center=42.9822883,-78.8117226"
     }
   ],
   "dinner": [

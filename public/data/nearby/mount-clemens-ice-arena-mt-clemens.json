@@ -3,46 +3,106 @@
     {
       "name": "Tubby's Sub Shop",
       "distance": "0.6 mi",
-      "url": "https://www.google.com/maps/search/Tubby's%20Sub%20Shop+near+42.6091603%2C-82.8932298"
+      "url": "https://www.google.com/maps/search/?api=1&query=Tubby's%20Sub%20Shop&query_place_id=ChIJ5yAPzGkgJYgRMme7g1OqwIM&center=42.616470799999995,-82.8867878"
     },
     {
       "name": "Taco Bell",
       "distance": "0.7 mi",
-      "url": "https://www.google.com/maps/search/Taco%20Bell+near+42.6091603%2C-82.8932298"
+      "url": "https://www.google.com/maps/search/?api=1&query=Taco%20Bell&query_place_id=ChIJJ4x-kYYgJYgRMwDVQ5qPFkw&center=42.601106099999996,-82.8999856"
     },
     {
       "name": "Subway",
       "distance": "0.7 mi",
-      "url": "https://www.google.com/maps/search/Subway+near+42.6091603%2C-82.8932298"
+      "url": "https://www.google.com/maps/search/?api=1&query=Subway&query_place_id=ChIJ1TYZJYQgJYgR-akjVzOi37s&center=42.5997238,-82.8978042"
+    },
+    {
+      "name": "Dunkin'",
+      "distance": "0.8 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Dunkin'&query_place_id=ChIJ3Q5yaoQgJYgRyJsWjdlMRh8&center=42.5986051,-82.9004472"
     },
     {
       "name": "Little Caesars Pizza",
       "distance": "0.8 mi",
-      "url": "https://www.google.com/maps/search/Little%20Caesars%20Pizza+near+42.6091603%2C-82.8932298"
+      "url": "https://www.google.com/maps/search/?api=1&query=Little%20Caesars%20Pizza&query_place_id=ChIJcwxyQ4QgJYgRRhRtEGVAz4k&center=42.598034,-82.899429"
+    },
+    {
+      "name": "Sonic Drive-In",
+      "distance": "1.1 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Sonic%20Drive-In&query_place_id=ChIJ5ahM-psgJYgRutB5yWYd62U&center=42.594615499999996,-82.9011124"
+    },
+    {
+      "name": "Jimmy John's",
+      "distance": "1.1 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Jimmy%20John's&query_place_id=ChIJ-7MeMWggJYgRWQzOVoA4new&center=42.5939933,-82.9010984"
+    },
+    {
+      "name": "Popeyes Louisiana Kitchen",
+      "distance": "1.4 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Popeyes%20Louisiana%20Kitchen&query_place_id=ChIJmSGhVoshJYgRaV4fUbzz8t0&center=42.628616,-82.8984511"
+    },
+    {
+      "name": "Subway",
+      "distance": "1.7 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Subway&query_place_id=ChIJPVgFvfPfJIgRm-h6KXwo60I&center=42.6280125,-82.9131958"
+    },
+    {
+      "name": "Wendy's",
+      "distance": "1.7 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Wendy's&query_place_id=ChIJ7-oj_jogJYgRr5ZbC5v37rQ&center=42.630631699999995,-82.8776488"
     }
   ],
   "coffee": [
     {
       "name": "McDonald's",
       "distance": "0.6 mi",
-      "url": "https://www.google.com/maps/search/McDonald's+near+42.6091603%2C-82.8932298"
+      "url": "https://www.google.com/maps/search/?api=1&query=McDonald's&query_place_id=ChIJQ55v5YYgJYgR5euwda0oBx0&center=42.6019662,-82.89989229999999"
     },
     {
       "name": "Dunkin'",
       "distance": "0.8 mi",
-      "url": "https://www.google.com/maps/search/Dunkin'+near+42.6091603%2C-82.8932298"
+      "url": "https://www.google.com/maps/search/?api=1&query=Dunkin'&query_place_id=ChIJ3Q5yaoQgJYgRyJsWjdlMRh8&center=42.5986051,-82.9004472"
+    },
+    {
+      "name": "McDonald's",
+      "distance": "1.3 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=McDonald's&query_place_id=ChIJVSZHNBIgJYgRRE_e3zs4hFs&center=42.6280052,-82.893976"
     }
   ],
   "team_lunch": [
     {
       "name": "Chop Detroit",
       "distance": "0.1 mi",
-      "url": "https://www.google.com/maps/search/Chop%20Detroit+near+42.6091603%2C-82.8932298"
+      "url": "https://www.google.com/maps/search/?api=1&query=Chop%20Detroit&query_place_id=ChIJZxwQ1dQhJYgRZAhbgoPVGSM&center=42.6092744,-82.8931642"
     },
     {
       "name": "China 1",
       "distance": "0.7 mi",
-      "url": "https://www.google.com/maps/search/China%201+near+42.6091603%2C-82.8932298"
+      "url": "https://www.google.com/maps/search/?api=1&query=China%201&query_place_id=ChIJ05DjHVchJYgRrHKnSWrX9uA&center=42.599126399999996,-82.8985046"
+    },
+    {
+      "name": "Renee Cookie Studio",
+      "distance": "1.0 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Renee%20Cookie%20Studio&query_place_id=ChIJrwmd7JEhJYgRxt03Ti7ggI4&center=42.595031899999995,-82.8918448"
+    },
+    {
+      "name": "Meijer Bakery",
+      "distance": "1.0 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Meijer%20Bakery&query_place_id=ChIJpSd8BeEhJYgRmQsbTUk6oaQ&center=42.5960052,-82.9032565"
+    },
+    {
+      "name": "Isminy Bakes",
+      "distance": "1.1 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Isminy%20Bakes&query_place_id=ChIJzQGzGfMhJYgRDI_tRVBJlrU&center=42.5970119,-82.8788215"
+    },
+    {
+      "name": "Sweet and Savory TC LLC",
+      "distance": "1.3 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Sweet%20and%20Savory%20TC%20LLC&query_place_id=ChIJhURAN03fJIgRyzWIkXpiBgg&center=42.6220973,-82.91175109999999"
+    },
+    {
+      "name": "Daisies Cakes and Bakes",
+      "distance": "1.3 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Daisies%20Cakes%20and%20Bakes&query_place_id=ChIJLRvSGuYhJYgRrtVxJgXVM-0&center=42.627269,-82.8856486"
     }
   ],
   "dinner": [

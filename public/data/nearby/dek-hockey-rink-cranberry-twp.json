@@ -16,9 +16,39 @@
       "url": "https://www.google.com/maps/search/?api=1&query=Subway&query_place_id=ChIJZQgNqlZ9NIgRlzfZsRvKvlY&center=40.6998007,-80.10330479999999"
     },
     {
+      "name": "Dunkin'",
+      "distance": "1.3 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Dunkin'&query_place_id=ChIJv5q4L61iNIgRqSDutcx2Z7o&center=40.6948915,-80.1050458"
+    },
+    {
       "name": "Firehouse Subs Cranberry Township",
       "distance": "1.4 mi",
       "url": "https://www.google.com/maps/search/?api=1&query=Firehouse%20Subs%20Cranberry%20Township&query_place_id=ChIJ6aQ_yFR9NIgRbiEeVhkixH4&center=40.695446,-80.10405"
+    },
+    {
+      "name": "Jersey Mike's Subs",
+      "distance": "1.6 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Jersey%20Mike's%20Subs&query_place_id=ChIJQZPKgahiNIgRSuCuYFVZVCI&center=40.6914665,-80.1027764"
+    },
+    {
+      "name": "Joll Restaurant Concepts Inc",
+      "distance": "1.6 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Joll%20Restaurant%20Concepts%20Inc&query_place_id=ChIJwUS83atiNIgRaL_FQdIQwMI&center=40.6901848,-80.10227189999999"
+    },
+    {
+      "name": "Vitalia Wood Fired Oven",
+      "distance": "1.7 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Vitalia%20Wood%20Fired%20Oven&query_place_id=ChIJX8hKWJYfewARkXp3A51aTdQ&center=40.6822417,-80.1384533"
+    },
+    {
+      "name": "Subway",
+      "distance": "1.7 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Subway&query_place_id=ChIJl5-Ox95iNIgRHrvezimGp4w&center=40.6818172,-80.1389876"
+    },
+    {
+      "name": "Burger King",
+      "distance": "1.9 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Burger%20King&query_place_id=ChIJ_____z99NIgRmpOjDf_tghE&center=40.6857016,-80.1009569"
     }
   ],
   "coffee": [
@@ -73,6 +103,16 @@
       "name": "Jordan’s LLC",
       "distance": "1.3 mi",
       "url": "https://www.google.com/maps/search/?api=1&query=Jordan%E2%80%99s%20LLC&query_place_id=ChIJi5a4PkBeNIgRFpZFlW7RxQw&center=40.7044158,-80.10289949999999"
+    },
+    {
+      "name": "Costco Bakery",
+      "distance": "1.4 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Costco%20Bakery&query_place_id=ChIJ__-jcq5iNIgRZ2hGr4VZyO0&center=40.6912052,-80.1073637"
+    },
+    {
+      "name": "Walmart Bakery",
+      "distance": "1.6 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Walmart%20Bakery&query_place_id=ChIJq6qq5q5iNIgRvT5YDIQJjHE&center=40.6878457,-80.1055174"
     }
   ],
   "dinner": [

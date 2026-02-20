@@ -3,22 +3,52 @@
     {
       "name": "Ruggero's Restaurant",
       "distance": "1.6 mi",
-      "url": "https://www.google.com/maps/search/Ruggero's%20Restaurant+near+43.0112861%2C-83.81369389999999"
+      "url": "https://www.google.com/maps/search/?api=1&query=Ruggero's%20Restaurant&query_place_id=ChIJf7NpoPx3I4gRCy8aot52ST8&center=43.0016043,-83.7843611"
     },
     {
       "name": "Freakin' Unbelievable Burgers",
       "distance": "2.0 mi",
-      "url": "https://www.google.com/maps/search/Freakin'%20Unbelievable%20Burgers+near+43.0112861%2C-83.81369389999999"
+      "url": "https://www.google.com/maps/search/?api=1&query=Freakin'%20Unbelievable%20Burgers&query_place_id=ChIJWTlWu-N3I4gRstvnU2NHBgc&center=43.002487099999996,-83.7763971"
     },
     {
       "name": "Little Caesars Pizza",
       "distance": "2.1 mi",
-      "url": "https://www.google.com/maps/search/Little%20Caesars%20Pizza+near+43.0112861%2C-83.81369389999999"
+      "url": "https://www.google.com/maps/search/?api=1&query=Little%20Caesars%20Pizza&query_place_id=ChIJl7TCwOJ3I4gR4sdWWOCPclo&center=43.0029,-83.77344"
     },
     {
-      "name": "Cinemark Flint West 14",
-      "distance": "3.2 mi",
-      "url": "https://www.google.com/maps/search/Cinemark%20Flint%20West%2014+near+43.0112861%2C-83.81369389999999",
+      "name": "Tim Hortons",
+      "distance": "2.1 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Tim%20Hortons&query_place_id=ChIJAwDXK-N3I4gRyeZc3RGnOno&center=43.003026899999995,-83.773192"
+    },
+    {
+      "name": "Rally's",
+      "distance": "2.3 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Rally's&query_place_id=ChIJLRFTQvx3I4gRDDJHRlJijdo&center=43.001743999999995,-83.7697998"
+    },
+    {
+      "name": "Wendy's",
+      "distance": "2.5 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Wendy's&query_place_id=ChIJnzB_q_93I4gRqL_zGfbKC7k&center=43.002818999999995,-83.76510619999999"
+    },
+    {
+      "name": "Subway",
+      "distance": "2.6 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Subway&query_place_id=ChIJK2-iKvl3I4gR55CtBxRX0-Y&center=43.0000225,-83.7650148"
+    },
+    {
+      "name": "White Castle",
+      "distance": "2.6 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=White%20Castle&query_place_id=ChIJIyVgf_93I4gRVwO7s5DU1mY&center=43.0024975,-83.7626911"
+    },
+    {
+      "name": "V’s Drive Thru Flint",
+      "distance": "2.8 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=V%E2%80%99s%20Drive%20Thru%20Flint&query_place_id=ChIJeXdow3x5I4gRVEndq2nuiTU&center=43.0018119,-83.76013320000001"
+    },
+    {
+      "name": "Jimmy John's",
+      "distance": "3.0 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Jimmy%20John's&query_place_id=ChIJnxsZK453I4gRpQIN7hF116g&center=42.979008300000004,-83.7727996",
       "isFar": true
     }
   ],
@@ -26,44 +56,71 @@
     {
       "name": "Dave's Coffee Services Inc",
       "distance": "1.3 mi",
-      "url": "https://www.google.com/maps/search/Dave's%20Coffee%20Services%20Inc+near+43.0112861%2C-83.81369389999999"
+      "url": "https://www.google.com/maps/search/?api=1&query=Dave's%20Coffee%20Services%20Inc&query_place_id=ChIJt7ieeNB3I4gRtFqM2q0FuvI&center=42.9991056,-83.7944292"
     },
     {
       "name": "Tim Hortons",
       "distance": "2.1 mi",
-      "url": "https://www.google.com/maps/search/Tim%20Hortons+near+43.0112861%2C-83.81369389999999"
+      "url": "https://www.google.com/maps/search/?api=1&query=Tim%20Hortons&query_place_id=ChIJAwDXK-N3I4gRyeZc3RGnOno&center=43.003026899999995,-83.773192"
     },
     {
       "name": "Fireside Coffee Co",
       "distance": "2.2 mi",
-      "url": "https://www.google.com/maps/search/Fireside%20Coffee%20Co+near+43.0112861%2C-83.81369389999999"
+      "url": "https://www.google.com/maps/search/?api=1&query=Fireside%20Coffee%20Co&query_place_id=ChIJVaYv3lF2I4gRVviyhlxhhMM&center=42.9797382,-83.8107876"
     },
     {
       "name": "BAYT & BREW",
       "distance": "2.2 mi",
-      "url": "https://www.google.com/maps/search/BAYT%20%26%20BREW+near+43.0112861%2C-83.81369389999999"
+      "url": "https://www.google.com/maps/search/?api=1&query=BAYT%20%26%20BREW&query_place_id=ChIJ4-SOFWp3I4gRIaqnCuxSzWs&center=43.0031743,-83.7715735"
+    },
+    {
+      "name": "McDonald's",
+      "distance": "2.3 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=McDonald's&query_place_id=ChIJq9Q_4fp3I4gRtWZNpmGo7k4&center=42.9979914,-83.7715566"
+    },
+    {
+      "name": "McDonald's",
+      "distance": "3.2 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=McDonald's&query_place_id=ChIJUZx6P_l2I4gRbCf6wectJoY&center=42.9653689,-83.81088299999999",
+      "isFar": true
     }
   ],
   "team_lunch": [
     {
       "name": "Cement Shoes Oyster Spot",
       "distance": "2.0 mi",
-      "url": "https://www.google.com/maps/search/Cement%20Shoes%20Oyster%20Spot+near+43.0112861%2C-83.81369389999999"
+      "url": "https://www.google.com/maps/search/?api=1&query=Cement%20Shoes%20Oyster%20Spot&query_place_id=ChIJzbmt_WqdI4gRLLGHnECWiY8&center=43.0169419,-83.7744082"
     },
     {
       "name": "Papa’s Drive-Thru Linden Rd",
       "distance": "2.1 mi",
-      "url": "https://www.google.com/maps/search/Papa%E2%80%99s%20Drive-Thru%20Linden%20Rd+near+43.0112861%2C-83.81369389999999"
+      "url": "https://www.google.com/maps/search/?api=1&query=Papa%E2%80%99s%20Drive-Thru%20Linden%20Rd&query_place_id=ChIJfw13Bm53I4gRBtTyTzCSavM&center=43.004173699999996,-83.7734064"
     },
     {
       "name": "Paul’s Steakhouse and Grille",
       "distance": "2.2 mi",
-      "url": "https://www.google.com/maps/search/Paul%E2%80%99s%20Steakhouse%20and%20Grille+near+43.0112861%2C-83.81369389999999"
+      "url": "https://www.google.com/maps/search/?api=1&query=Paul%E2%80%99s%20Steakhouse%20and%20Grille&query_place_id=ChIJay9mfAB3I4gRLmyEHAzfz8Y&center=43.0008834,-83.7718139"
     },
     {
       "name": "Mega Classic Diner",
       "distance": "2.3 mi",
-      "url": "https://www.google.com/maps/search/Mega%20Classic%20Diner+near+43.0112861%2C-83.81369389999999"
+      "url": "https://www.google.com/maps/search/?api=1&query=Mega%20Classic%20Diner&query_place_id=ChIJgynV_vx3I4gRPSLTpXL_lS4&center=43.0024419,-83.7705745"
+    },
+    {
+      "name": "Lighthouse Sweets Shop",
+      "distance": "2.5 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Lighthouse%20Sweets%20Shop&query_place_id=ChIJeRSp-QWdI4gR5Sfef-JKHto&center=43.0294563,-83.7713603"
+    },
+    {
+      "name": "Walmart Bakery",
+      "distance": "2.6 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Walmart%20Bakery&query_place_id=ChIJBVSr2_h3I4gRkcvrv4V0rx0&center=42.999511,-83.7645819"
+    },
+    {
+      "name": "Meijer Bakery",
+      "distance": "3.0 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Meijer%20Bakery&query_place_id=ChIJh_irx4t3I4gRoQNMAZ_93qM&center=42.968217599999996,-83.82689340000002",
+      "isFar": true
     }
   ],
   "dinner": [

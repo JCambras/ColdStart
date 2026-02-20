@@ -3,66 +3,121 @@
     {
       "name": "Subway",
       "distance": "0.5 mi",
-      "url": "https://www.google.com/maps/search/Subway+near+42.7282659%2C-84.48936599999999"
+      "url": "https://www.google.com/maps/search/?api=1&query=Subway&query_place_id=ChIJqX3q1IbCIogRFcuI05IPNDU&center=42.726633199999995,-84.4806517"
     },
     {
       "name": "Panda Express",
       "distance": "0.5 mi",
-      "url": "https://www.google.com/maps/search/Panda%20Express+near+42.7282659%2C-84.48936599999999"
+      "url": "https://www.google.com/maps/search/?api=1&query=Panda%20Express&query_place_id=ChIJAQDABX7CIogRIEY3k6r7R-g&center=42.7267477,-84.48059529999999"
     },
     {
       "name": "Jimmy John's",
       "distance": "0.5 mi",
-      "url": "https://www.google.com/maps/search/Jimmy%20John's+near+42.7282659%2C-84.48936599999999"
+      "url": "https://www.google.com/maps/search/?api=1&query=Jimmy%20John's&query_place_id=ChIJgdaQBdnpIogRDto4ekoWgRo&center=42.7346329,-84.49382620000002"
+    },
+    {
+      "name": "Dunkin'",
+      "distance": "0.6 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Dunkin'&query_place_id=ChIJrxzVqi7pIogRex8nRkk2jmI&center=42.7355866,-84.4843096"
     },
     {
       "name": "Jamba",
       "distance": "0.6 mi",
-      "url": "https://www.google.com/maps/search/Jamba+near+42.7282659%2C-84.48936599999999"
+      "url": "https://www.google.com/maps/search/?api=1&query=Jamba&query_place_id=ChIJsznuLJnpIogR8PQRDWV6o9o&center=42.735330999999995,-84.483527"
     },
     {
       "name": "Noodles and Company",
       "distance": "0.6 mi",
-      "url": "https://www.google.com/maps/search/Noodles%20and%20Company+near+42.7282659%2C-84.48936599999999"
+      "url": "https://www.google.com/maps/search/?api=1&query=Noodles%20and%20Company&query_place_id=ChIJD32mjdTpIogRHf2WwDVGoR4&center=42.7353583,-84.4835597"
+    },
+    {
+      "name": "Potbelly",
+      "distance": "0.6 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Potbelly&query_place_id=ChIJUZVAjdTpIogRpyca26a6D8o&center=42.7348834,-84.4816385"
+    },
+    {
+      "name": "Raising Cane's Chicken Fingers",
+      "distance": "0.6 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Raising%20Cane's%20Chicken%20Fingers&query_place_id=ChIJidSQB4_pIogRLY9B2HGvCnM&center=42.734746,-84.4813583"
+    },
+    {
+      "name": "Savvy Sliders",
+      "distance": "0.7 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Savvy%20Sliders&query_place_id=ChIJyyYkOSzpIogRNGgvTHgVEKc&center=42.7359055,-84.4810722"
+    },
+    {
+      "name": "Taco Bell",
+      "distance": "0.7 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Taco%20Bell&query_place_id=ChIJSUC9S2zCIogRTKyiW0q_6tI&center=42.719425199999996,-84.4975408"
     }
   ],
   "coffee": [
     {
       "name": "Starbucks Coffee Company",
       "distance": "0.3 mi",
-      "url": "https://www.google.com/maps/search/Starbucks%20Coffee%20Company+near+42.7282659%2C-84.48936599999999"
+      "url": "https://www.google.com/maps/search/?api=1&query=Starbucks%20Coffee%20Company&query_place_id=ChIJ5Z-f7nbCIogRBAFYpLiyc2M&center=42.7285356,-84.4945539"
     },
     {
       "name": "Starbucks Coffee Company",
       "distance": "0.4 mi",
-      "url": "https://www.google.com/maps/search/Starbucks%20Coffee%20Company+near+42.7282659%2C-84.48936599999999"
+      "url": "https://www.google.com/maps/search/?api=1&query=Starbucks%20Coffee%20Company&query_place_id=ChIJq4TE4PTDIogRN_xccouE9Co&center=42.73086,-84.48306"
     },
     {
       "name": "Strange Matter Coffee MSU Union",
       "distance": "0.5 mi",
-      "url": "https://www.google.com/maps/search/Strange%20Matter%20Coffee%20MSU%20Union+near+42.7282659%2C-84.48936599999999"
+      "url": "https://www.google.com/maps/search/?api=1&query=Strange%20Matter%20Coffee%20MSU%20Union&query_place_id=ChIJK2NS_IrpIogR3hiOgNZhZvI&center=42.7341192,-84.4828959"
     },
     {
       "name": "Dunkin'",
       "distance": "0.6 mi",
-      "url": "https://www.google.com/maps/search/Dunkin'+near+42.7282659%2C-84.48936599999999"
+      "url": "https://www.google.com/maps/search/?api=1&query=Dunkin'&query_place_id=ChIJrxzVqi7pIogRex8nRkk2jmI&center=42.7355866,-84.4843096"
     },
     {
       "name": "Poindexter Coffee",
       "distance": "0.6 mi",
-      "url": "https://www.google.com/maps/search/Poindexter%20Coffee+near+42.7282659%2C-84.48936599999999"
+      "url": "https://www.google.com/maps/search/?api=1&query=Poindexter%20Coffee&query_place_id=ChIJY_dzWxnpIogRfXVsAWGN7_Q&center=42.7357501,-84.4847693"
+    },
+    {
+      "name": "BIGGBY COFFEE",
+      "distance": "0.6 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=BIGGBY%20COFFEE&query_place_id=ChIJlzUnMtHpIogRLapQTxL1nZ8&center=42.736666799999995,-84.48837259999999"
+    },
+    {
+      "name": "Bruegger's Bagels",
+      "distance": "0.7 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Bruegger's%20Bagels&query_place_id=ChIJazAmBSvoIogRmKDCoVm1a7k&center=42.7339714,-84.47819799999999"
+    },
+    {
+      "name": "McDonald's",
+      "distance": "1.0 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=McDonald's&query_place_id=ChIJwTht4ifoIogRsuXdEOrKGMk&center=42.7312199,-84.4701903"
     }
   ],
   "team_lunch": [
     {
       "name": "Woody's Oasis Mediterranean Deli",
       "distance": "0.5 mi",
-      "url": "https://www.google.com/maps/search/Woody's%20Oasis%20Mediterranean%20Deli+near+42.7282659%2C-84.48936599999999"
+      "url": "https://www.google.com/maps/search/?api=1&query=Woody's%20Oasis%20Mediterranean%20Deli&query_place_id=ChIJAQDABX7CIogRY2MA6XVas8E&center=42.7266616,-84.48050599999999"
     },
     {
-      "name": "Landshark Bar & Grill",
+      "name": "GoMochi",
       "distance": "0.6 mi",
-      "url": "https://www.google.com/maps/search/Landshark%20Bar%20%26%20Grill+near+42.7282659%2C-84.48936599999999"
+      "url": "https://www.google.com/maps/search/?api=1&query=GoMochi&query_place_id=ChIJJRwfRHXDIogRyWNRR7Q0w3Y&center=42.720698299999995,-84.4957688"
+    },
+    {
+      "name": "Bake N' Cakes",
+      "distance": "1.0 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Bake%20N'%20Cakes&query_place_id=ChIJrfhGVAjCIogRqyi0yH45SgI&center=42.7302228,-84.50933719999999"
+    },
+    {
+      "name": "Sugar Shack",
+      "distance": "1.1 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Sugar%20Shack&query_place_id=ChIJlbwBrOPpIogRZE6anSC7Ysw&center=42.735160099999995,-84.5087046"
+    },
+    {
+      "name": "Kroger Bakery",
+      "distance": "1.2 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Kroger%20Bakery&query_place_id=ChIJAzazrFLpIogR-xV3w7TCOJ4&center=42.738513999999995,-84.5074836"
     }
   ],
   "dinner": [

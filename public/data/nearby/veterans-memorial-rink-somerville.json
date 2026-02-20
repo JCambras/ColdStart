@@ -1,19 +1,14 @@
 {
   "quick_bite": [
     {
+      "name": "Dunkin'",
+      "distance": "0.1 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Dunkin'&query_place_id=ChIJJSzaJjd344kRJa9Dnb3RNeI&center=42.3835464,-71.1065596"
+    },
+    {
       "name": "Wings Over Somerville",
       "distance": "0.1 mi",
       "url": "https://www.google.com/maps/search/?api=1&query=Wings%20Over%20Somerville&query_place_id=ChIJJSzaJjd344kRIxrEzovPyJE&center=42.383454,-71.1063029"
-    },
-    {
-      "name": "Boston 2Bd Kg-Qn Bds entire unshared space near Harvard, MIT Subway w /parking",
-      "distance": "0.2 mi",
-      "url": "https://www.google.com/maps/search/?api=1&query=Boston%202Bd%20Kg-Qn%20Bds%20entire%20unshared%20space%20near%20Harvard%2C%20MIT%20Subway%20w%20%2Fparking&query_place_id=ChIJpeNgbTl344kRG8QL9WDI6eI&center=42.3843002,-71.1129303"
-    },
-    {
-      "name": "Boston 2Bd Kg-Qn Bds entire unshared space near Harvard, MIT Subway w/parking",
-      "distance": "0.2 mi",
-      "url": "https://www.google.com/maps/search/?api=1&query=Boston%202Bd%20Kg-Qn%20Bds%20entire%20unshared%20space%20near%20Harvard%2C%20MIT%20Subway%20w%2Fparking&query_place_id=ChIJJS1hbTl344kRn7lkRnPkvl8&center=42.3843041,-71.11293789999999"
     },
     {
       "name": "Beacon Street Pizza",
@@ -26,9 +21,29 @@
       "url": "https://www.google.com/maps/search/?api=1&query=Subway&query_place_id=ChIJT3Y15Dt344kRxT-zuAcHKmQ&center=42.386064399999995,-71.1140776"
     },
     {
-      "name": "Boston 2Bd Kg&Qn Harvard MIT Subway with parking 2",
-      "distance": "0.4 mi",
-      "url": "https://www.google.com/maps/search/?api=1&query=Boston%202Bd%20Kg%26Qn%20Harvard%20MIT%20Subway%20with%20parking%202&query_place_id=ChIJff0HVTl344kRJ0AgDxhoFto&center=42.3856392,-71.1149598"
+      "name": "Hot Box Pizza & Roast Beef",
+      "distance": "0.5 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Hot%20Box%20Pizza%20%26%20Roast%20Beef&query_place_id=ChIJi2egeA1344kRClSmUSAS01A&center=42.380894999999995,-71.0980328"
+    },
+    {
+      "name": "Market Sandwich",
+      "distance": "0.6 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Market%20Sandwich&query_place_id=ChIJU78ZTAp344kRZ0EFvU0IXcg&center=42.376019,-71.102897"
+    },
+    {
+      "name": "Indo Yums Cambridge",
+      "distance": "0.6 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Indo%20Yums%20Cambridge&query_place_id=ChIJcYcq2fN344kRbdUTykOr0KA&center=42.382454800000005,-71.1199013"
+    },
+    {
+      "name": "KAVERI INDIAN BISTRO",
+      "distance": "0.6 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=KAVERI%20INDIAN%20BISTRO&query_place_id=ChIJ6cmFpeB344kRs0pIowdoXjg&center=42.382454800000005,-71.1199013"
+    },
+    {
+      "name": "Mama Gina's Pizzeria",
+      "distance": "0.7 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Mama%20Gina's%20Pizzeria&query_place_id=ChIJF70I4cpw44kRc5YvrWKyXRc&center=42.379422000000005,-71.096218"
     }
   ],
   "coffee": [
@@ -56,6 +71,11 @@
       "name": "Union Square Donuts",
       "distance": "0.6 mi",
       "url": "https://www.google.com/maps/search/?api=1&query=Union%20Square%20Donuts&query_place_id=ChIJ3WhYLMtw44kRSGYMDNO7oU8&center=42.380837199999995,-71.09721379999999"
+    },
+    {
+      "name": "Clover",
+      "distance": "0.6 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Clover&query_place_id=ChIJuVSb4EN344kRagPj71eZbI0&center=42.376345199999996,-71.11660429999999"
     }
   ],
   "team_lunch": [

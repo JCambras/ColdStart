@@ -1,11 +1,6 @@
 {
   "quick_bite": [
     {
-      "name": "The Ritz-Carlton New York, Central Park",
-      "distance": "0.2 mi",
-      "url": "https://www.google.com/maps/search/?api=1&query=The%20Ritz-Carlton%20New%20York%2C%20Central%20Park&query_place_id=ChIJ4yNdwPBYwokRqc1lCC4n89w&center=40.7652719,-73.97599919999999"
-    },
-    {
       "name": "Nathan's Famous",
       "distance": "0.2 mi",
       "url": "https://www.google.com/maps/search/?api=1&query=Nathan's%20Famous&query_place_id=ChIJsxqhP_BYwokRyqMPKQaofME&center=40.764672399999995,-73.9734534"
@@ -51,6 +46,31 @@
       "name": "Mighty Luck Store Loft",
       "distance": "0.2 mi",
       "url": "https://www.google.com/maps/search/?api=1&query=Mighty%20Luck%20Store%20Loft&query_place_id=ChIJW1d2ODZZwokR0oQWJ9XyyiA&center=40.7654246,-73.97664569999999"
+    },
+    {
+      "name": "Le Cafe Coffee",
+      "distance": "0.2 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Le%20Cafe%20Coffee&query_place_id=ChIJ-Y-kFABZwokRIpR1-ZpuRjQ&center=40.765291,-73.9767121"
+    },
+    {
+      "name": "Sip + Co.",
+      "distance": "0.2 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Sip%20%2B%20Co.&query_place_id=ChIJK4Gklg1ZwokRmDGLQSxEaUI&center=40.7647538,-73.9758633"
+    },
+    {
+      "name": "KAFI",
+      "distance": "0.2 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=KAFI&query_place_id=ChIJ_zFbnG9ZwokRqsw8o9xGRsk&center=40.7647538,-73.9758633"
+    },
+    {
+      "name": "Pret A Manger",
+      "distance": "0.4 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Pret%20A%20Manger&query_place_id=ChIJrQYljPlYwokRVqQGXxbHaCo&center=40.762561399999996,-73.9777983"
+    },
+    {
+      "name": "Pret A Manger",
+      "distance": "0.4 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Pret%20A%20Manger&query_place_id=ChIJ2QlLvSlZwokR6vfol9U6OCQ&center=40.765642,-73.981662"
     }
   ],
   "team_lunch": [
@@ -83,6 +103,11 @@
       "name": "Lady M",
       "distance": "0.4 mi",
       "url": "https://www.google.com/maps/search/?api=1&query=Lady%20M&query_place_id=ChIJr7zEWgBZwokRQCDoaWI44Sk&center=40.769266699999996,-73.9826318"
+    },
+    {
+      "name": "Sabor de Sajoma",
+      "distance": "0.4 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Sabor%20de%20Sajoma&query_place_id=ChIJxfybdM9ZwokR1IISTLC0wic&center=40.76600450000001,-73.98259039999999"
     }
   ],
   "dinner": [

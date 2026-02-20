@@ -3,66 +3,106 @@
     {
       "name": "Taco Bell",
       "distance": "0.3 mi",
-      "url": "https://www.google.com/maps/search/Taco%20Bell+near+42.311616%2C-83.344526"
+      "url": "https://www.google.com/maps/search/?api=1&query=Taco%20Bell&query_place_id=ChIJcTPXZWVMO4gR_FFTUI9EQy0&center=42.3097467,-83.3488943"
     },
     {
       "name": "Burger King",
       "distance": "0.3 mi",
-      "url": "https://www.google.com/maps/search/Burger%20King+near+42.311616%2C-83.344526"
+      "url": "https://www.google.com/maps/search/?api=1&query=Burger%20King&query_place_id=ChIJ5Uo1hmVMO4gRAb8yE5cMbOk&center=42.3094621,-83.3501848"
     },
     {
       "name": "Bamboo Garden",
       "distance": "0.4 mi",
-      "url": "https://www.google.com/maps/search/Bamboo%20Garden+near+42.311616%2C-83.344526"
+      "url": "https://www.google.com/maps/search/?api=1&query=Bamboo%20Garden&query_place_id=ChIJ92avCmVMO4gRmZjk2OKts-U&center=42.310144699999995,-83.3520039"
     },
     {
       "name": "Little Caesars Pizza",
       "distance": "0.4 mi",
-      "url": "https://www.google.com/maps/search/Little%20Caesars%20Pizza+near+42.311616%2C-83.344526"
+      "url": "https://www.google.com/maps/search/?api=1&query=Little%20Caesars%20Pizza&query_place_id=ChIJWWpTrlxMO4gRo7GpNbEOwfE&center=42.308545,-83.351899"
     },
     {
       "name": "Papa's Pizza",
       "distance": "0.9 mi",
-      "url": "https://www.google.com/maps/search/Papa's%20Pizza+near+42.311616%2C-83.344526"
+      "url": "https://www.google.com/maps/search/?api=1&query=Papa's%20Pizza&query_place_id=ChIJxXk6vY5LO4gRWHprx3uyLUY&center=42.3037517,-83.3294409"
     },
     {
       "name": "Checkers",
       "distance": "1.0 mi",
-      "url": "https://www.google.com/maps/search/Checkers+near+42.311616%2C-83.344526"
+      "url": "https://www.google.com/maps/search/?api=1&query=Checkers&query_place_id=ChIJ3xjVRhJNO4gRjliH2jF2VHM&center=42.324891,-83.3498149"
     },
     {
-      "name": "Chuck E. Cheese",
-      "distance": "3.7 mi",
-      "url": "https://www.google.com/maps/search/Chuck%20E.%20Cheese+near+42.311616%2C-83.344526",
-      "isFar": true
+      "name": "Subway",
+      "distance": "1.0 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Subway&query_place_id=ChIJeTRDhYNMO4gRhGomw7_39y8&center=42.325590399999996,-83.3409769"
+    },
+    {
+      "name": "Arby's",
+      "distance": "1.0 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Arby's&query_place_id=ChIJE9MSRIJMO4gRxwXe_VHCf_k&center=42.325046199999996,-83.33784860000002"
+    },
+    {
+      "name": "Savvy Sliders",
+      "distance": "1.0 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Savvy%20Sliders&query_place_id=ChIJsaxx2pNLO4gRVbFjf4_4M2w&center=42.3107666,-83.3638708"
+    },
+    {
+      "name": "A&W Restaurant",
+      "distance": "1.1 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=A%26W%20Restaurant&query_place_id=ChIJY9oTWfNMO4gRcB-bpHDvfYg&center=42.3246797,-83.35802389999999"
     }
   ],
-  "coffee": [],
+  "coffee": [
+    {
+      "name": "McDonald's",
+      "distance": "1.1 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=McDonald's&query_place_id=ChIJkbhyeXxLO4gRLHsDkpt95OI&center=42.324954399999996,-83.3313532"
+    }
+  ],
   "team_lunch": [
     {
       "name": "Mr bs soul food",
       "distance": "0.3 mi",
-      "url": "https://www.google.com/maps/search/Mr%20bs%20soul%20food+near+42.311616%2C-83.344526"
+      "url": "https://www.google.com/maps/search/?api=1&query=Mr%20bs%20soul%20food&query_place_id=ChIJSc2B3wlNO4gR2GC6P6esEjg&center=42.310591099999996,-83.3395918"
     },
     {
       "name": "China Hut",
       "distance": "0.3 mi",
-      "url": "https://www.google.com/maps/search/China%20Hut+near+42.311616%2C-83.344526"
+      "url": "https://www.google.com/maps/search/?api=1&query=China%20Hut&query_place_id=ChIJRSQ1VnhMO4gRPiO8-X0Ry0k&center=42.3099038,-83.33942449999999"
     },
     {
       "name": "The First Little Caesars",
       "distance": "0.9 mi",
-      "url": "https://www.google.com/maps/search/The%20First%20Little%20Caesars+near+42.311616%2C-83.344526"
+      "url": "https://www.google.com/maps/search/?api=1&query=The%20First%20Little%20Caesars&query_place_id=ChIJP2OEZQBNO4gRLKf7Uxw88OQ&center=42.310763,-83.36222470000001"
     },
     {
       "name": "THE MUNCH BOX STREET GRILL LLC",
       "distance": "0.9 mi",
-      "url": "https://www.google.com/maps/search/THE%20MUNCH%20BOX%20STREET%20GRILL%20LLC+near+42.311616%2C-83.344526"
+      "url": "https://www.google.com/maps/search/?api=1&query=THE%20MUNCH%20BOX%20STREET%20GRILL%20LLC&query_place_id=ChIJRYm5IpZNO4gRVVz2mchg5wM&center=42.3249189,-83.34011459999999"
     },
     {
       "name": "Wings A Million",
       "distance": "0.9 mi",
-      "url": "https://www.google.com/maps/search/Wings%20A%20Million+near+42.311616%2C-83.344526"
+      "url": "https://www.google.com/maps/search/?api=1&query=Wings%20A%20Million&query_place_id=ChIJp8FrFcBNO4gRH73NdjDFJqU&center=42.298446,-83.3496359"
+    },
+    {
+      "name": "Captain Jay's Fish & Chicken",
+      "distance": "1.0 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Captain%20Jay's%20Fish%20%26%20Chicken&query_place_id=ChIJe1F7GIxLO4gR6FHxkWv7nQ4&center=42.302909199999995,-83.329612"
+    },
+    {
+      "name": "Antonia's Italian Bakery Company",
+      "distance": "1.3 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Antonia's%20Italian%20Bakery%20Company&query_place_id=ChIJTe1-_6FNO4gRmGZNj_0RMmQ&center=42.3246916,-83.36383819999999"
+    },
+    {
+      "name": "Hunny Bunny's",
+      "distance": "1.4 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Hunny%20Bunny's&query_place_id=ChIJi4R70RRNO4gRhn4lNHzlYdM&center=42.3064031,-83.37067250000001"
+    },
+    {
+      "name": "Kroger Bakery",
+      "distance": "1.7 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Kroger%20Bakery&query_place_id=ChIJnYE4oQVMO4gRXIc-5p_gdVI&center=42.2872085,-83.3471551"
     }
   ],
   "dinner": [

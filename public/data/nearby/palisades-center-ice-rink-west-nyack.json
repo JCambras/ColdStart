@@ -24,6 +24,31 @@
       "name": "The Cheesecake Factory",
       "distance": "0.1 mi",
       "url": "https://www.google.com/maps/search/?api=1&query=The%20Cheesecake%20Factory&query_place_id=ChIJ_dFY7-bpwokRIIneirh0PV0&center=41.0965365,-73.9555908"
+    },
+    {
+      "name": "Wendy's",
+      "distance": "0.1 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Wendy's&query_place_id=ChIJ1Xd-RObpwokRaweCGvHGky8&center=41.096591,-73.9555936"
+    },
+    {
+      "name": "Taco Bell",
+      "distance": "0.2 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Taco%20Bell&query_place_id=ChIJuYMG7-bpwokROAlgurI9bXQ&center=41.0974151,-73.9554301"
+    },
+    {
+      "name": "KFC",
+      "distance": "0.2 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=KFC&query_place_id=ChIJ_3x6R-bpwokRLIGzmcKwd78&center=41.097218399999996,-73.9556139"
+    },
+    {
+      "name": "Popeyes Louisiana Kitchen",
+      "distance": "0.2 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Popeyes%20Louisiana%20Kitchen&query_place_id=ChIJH86aMuTpwokRqGloFsj1PA8&center=41.0966178,-73.9560271"
+    },
+    {
+      "name": "Burger King",
+      "distance": "0.2 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Burger%20King&query_place_id=ChIJ2w0B7-bpwokR-dZweyD3I-k&center=41.097254199999995,-73.9560235"
     }
   ],
   "coffee": [
@@ -46,6 +71,11 @@
       "name": "Starbucks",
       "distance": "0.1 mi",
       "url": "https://www.google.com/maps/search/?api=1&query=Starbucks&query_place_id=ChIJNVTFdwDpwokRzPUb4EVhr6Q&center=41.097403799999995,-73.9552492"
+    },
+    {
+      "name": "McDonald's",
+      "distance": "0.8 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=McDonald's&query_place_id=ChIJW5ovQPjpwokROpWUtd9RGhE&center=41.094296899999996,-73.9371158"
     },
     {
       "name": "Patisserie Didier Dumas",

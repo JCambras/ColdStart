@@ -1,19 +1,24 @@
 {
   "quick_bite": [
     {
+      "name": "Dunkin'",
+      "distance": "0.3 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Dunkin'&query_place_id=ChIJMTRpe3d744kRSD_eOIFaEII&center=42.2838253,-71.0461339"
+    },
+    {
       "name": "Subway",
       "distance": "0.4 mi",
       "url": "https://www.google.com/maps/search/?api=1&query=Subway&query_place_id=ChIJQXUntQp744kRJkOfhOlRoT0&center=42.2935103,-71.0478109"
     },
     {
+      "name": "Dunkin'",
+      "distance": "0.4 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Dunkin'&query_place_id=ChIJf-ovtQp744kRa8pFJDDjD8k&center=42.2937096,-71.0481144"
+    },
+    {
       "name": "Five Star Pizza",
       "distance": "0.5 mi",
       "url": "https://www.google.com/maps/search/?api=1&query=Five%20Star%20Pizza&query_place_id=ChIJV55J6oJ744kRUUZaHAGV9_I&center=42.2835932,-71.05068729999999"
-    },
-    {
-      "name": "Blasi's Kitchen and Bar / The Fat Belly Deli",
-      "distance": "0.6 mi",
-      "url": "https://www.google.com/maps/search/?api=1&query=Blasi's%20Kitchen%20and%20Bar%20%2F%20The%20Fat%20Belly%20Deli&query_place_id=ChIJn9X1Y4N744kRIHSV7OuHtr0&center=42.2837136,-71.05536839999999"
     },
     {
       "name": "Subway",
@@ -29,6 +34,21 @@
       "name": "Dorchester Fried chicken halal",
       "distance": "1.4 mi",
       "url": "https://www.google.com/maps/search/?api=1&query=Dorchester%20Fried%20chicken%20halal&query_place_id=ChIJox7r6oN744kR1cSsNXxpX3Y&center=42.2818049,-71.07139579999999"
+    },
+    {
+      "name": "Johns Pizza Dorchester",
+      "distance": "1.4 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Johns%20Pizza%20Dorchester&query_place_id=ChIJ97lsiLl744kRjtkOKsWWA7E&center=42.2815986,-71.07133"
+    },
+    {
+      "name": "Burger King",
+      "distance": "1.6 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Burger%20King&query_place_id=ChIJQzughK5744kR57rv6MajY1k&center=42.309272899999996,-71.0577424"
+    },
+    {
+      "name": "New York Fried Chicken & Shawarma (Halal)",
+      "distance": "1.7 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=New%20York%20Fried%20Chicken%20%26%20Shawarma%20(Halal)&query_place_id=ChIJtamMDQx744kRtE40zKUF6II&center=42.3062291,-71.06679249999999"
     }
   ],
   "coffee": [
@@ -48,9 +68,34 @@
       "url": "https://www.google.com/maps/search/?api=1&query=Dunkin'&query_place_id=ChIJf-ovtQp744kRa8pFJDDjD8k&center=42.2937096,-71.0481144"
     },
     {
+      "name": "McDonald's",
+      "distance": "0.7 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=McDonald's&query_place_id=ChIJjc4Ug4N744kRmTie6l0to1k&center=42.2823466,-71.05513859999999"
+    },
+    {
+      "name": "McDonald's",
+      "distance": "1.1 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=McDonald's&query_place_id=ChIJ13NJOKN744kRhcihIEFqWFY&center=42.299141,-71.06088299999999"
+    },
+    {
       "name": "Paris Baguette",
       "distance": "1.1 mi",
       "url": "https://www.google.com/maps/search/?api=1&query=Paris%20Baguette&query_place_id=ChIJKZSXzOR744kRcovj6GyaZUA&center=42.2770401,-71.0298085"
+    },
+    {
+      "name": "McDonald's",
+      "distance": "1.1 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=McDonald's&query_place_id=ChIJ3RLu2WZ744kRil5fh1BQCvQ&center=42.276606199999996,-71.0294383"
+    },
+    {
+      "name": "McDonald's",
+      "distance": "1.4 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=McDonald's&query_place_id=ChIJe645PYNw44kRxSvHOf9lqmg&center=42.290420999999995,-71.071777"
+    },
+    {
+      "name": "Tous Les Jours Café",
+      "distance": "1.4 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Tous%20Les%20Jours%20Caf%C3%A9&query_place_id=ChIJMWsdD0h744kRbEuffayWT0Y&center=42.273842800000004,-71.02506939999999"
     }
   ],
   "team_lunch": [

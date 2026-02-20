@@ -3,71 +3,106 @@
     {
       "name": "Wendy's",
       "distance": "0.1 mi",
-      "url": "https://www.google.com/maps/search/Wendy's+near+42.2598407%2C-84.4296609"
+      "url": "https://www.google.com/maps/search/?api=1&query=Wendy's&query_place_id=ChIJD4ZDG_gvPYgRs-eJIAX9aq4&center=42.259917699999995,-84.4279031"
     },
     {
       "name": "Ichiban Japanese Steakhouse Jackson",
       "distance": "0.1 mi",
-      "url": "https://www.google.com/maps/search/Ichiban%20Japanese%20Steakhouse%20Jackson+near+42.2598407%2C-84.4296609"
+      "url": "https://www.google.com/maps/search/?api=1&query=Ichiban%20Japanese%20Steakhouse%20Jackson&query_place_id=ChIJf_HYk_cvPYgR0YIqD0rRfIc&center=42.2602276,-84.42690999999999"
     },
     {
       "name": "Rally's",
       "distance": "0.2 mi",
-      "url": "https://www.google.com/maps/search/Rally's+near+42.2598407%2C-84.4296609"
+      "url": "https://www.google.com/maps/search/?api=1&query=Rally's&query_place_id=ChIJNUYH1_kvPYgRfGPiWkMcxwA&center=42.2616884,-84.4278181"
     },
     {
       "name": "Lucky Cafe Chinese Restaurant",
       "distance": "0.3 mi",
-      "url": "https://www.google.com/maps/search/Lucky%20Cafe%20Chinese%20Restaurant+near+42.2598407%2C-84.4296609"
+      "url": "https://www.google.com/maps/search/?api=1&query=Lucky%20Cafe%20Chinese%20Restaurant&query_place_id=ChIJ4_1wIPcvPYgRQimUIV9Qlv0&center=42.2624314,-84.4252841"
+    },
+    {
+      "name": "Dunkin'",
+      "distance": "0.3 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Dunkin'&query_place_id=ChIJ4SysFvYvPYgRlkjSWFrzkBU&center=42.259451999999996,-84.4237132"
     },
     {
       "name": "Arby's",
       "distance": "0.3 mi",
-      "url": "https://www.google.com/maps/search/Arby's+near+42.2598407%2C-84.4296609"
+      "url": "https://www.google.com/maps/search/?api=1&query=Arby's&query_place_id=ChIJcVRK8_YvPYgR0vAh4L8XEX8&center=42.261480399999996,-84.4238099"
     },
     {
       "name": "Popeyes Louisiana Kitchen",
       "distance": "0.3 mi",
-      "url": "https://www.google.com/maps/search/Popeyes%20Louisiana%20Kitchen+near+42.2598407%2C-84.4296609"
+      "url": "https://www.google.com/maps/search/?api=1&query=Popeyes%20Louisiana%20Kitchen&query_place_id=ChIJcwdEXQYvPYgRqkR5l-nUAxY&center=42.2618015,-84.423902"
     },
     {
       "name": "Subway",
       "distance": "0.3 mi",
-      "url": "https://www.google.com/maps/search/Subway+near+42.2598407%2C-84.4296609"
+      "url": "https://www.google.com/maps/search/?api=1&query=Subway&query_place_id=ChIJf8idcPYvPYgREqOhj1ancRU&center=42.260342699999995,-84.4229758"
+    },
+    {
+      "name": "Chick-fil-A",
+      "distance": "0.4 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Chick-fil-A&query_place_id=ChIJBUgaSAAvPYgRTvwfyARg-EQ&center=42.2617233,-84.4231436"
+    },
+    {
+      "name": "Burger King",
+      "distance": "0.4 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Burger%20King&query_place_id=ChIJw74uoPYvPYgR1aS79yg1kV4&center=42.2623345,-84.42286539999999"
     }
   ],
   "coffee": [
     {
       "name": "BIGGBY COFFEE",
       "distance": "0.1 mi",
-      "url": "https://www.google.com/maps/search/BIGGBY%20COFFEE+near+42.2598407%2C-84.4296609"
+      "url": "https://www.google.com/maps/search/?api=1&query=BIGGBY%20COFFEE&query_place_id=ChIJG0sOJvgvPYgR_hPKy_O8WRQ&center=42.260559099999995,-84.42775720000002"
     },
     {
       "name": "Dunkin'",
       "distance": "0.3 mi",
-      "url": "https://www.google.com/maps/search/Dunkin'+near+42.2598407%2C-84.4296609"
+      "url": "https://www.google.com/maps/search/?api=1&query=Dunkin'&query_place_id=ChIJ4SysFvYvPYgRlkjSWFrzkBU&center=42.259451999999996,-84.4237132"
+    },
+    {
+      "name": "McDonald's",
+      "distance": "0.4 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=McDonald's&query_place_id=ChIJH9gTpvYvPYgRmgetwTfuUrI&center=42.262870899999996,-84.42290520000002"
+    },
+    {
+      "name": "McDonald's",
+      "distance": "1.0 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=McDonald's&query_place_id=ChIJ39s8IE0lPYgR92FSYE6l_Yg&center=42.2471204,-84.4370663"
     }
   ],
   "team_lunch": [
     {
       "name": "Hibachi Grill Sushi and Buffet",
       "distance": "0.2 mi",
-      "url": "https://www.google.com/maps/search/Hibachi%20Grill%20Sushi%20and%20Buffet+near+42.2598407%2C-84.4296609"
+      "url": "https://www.google.com/maps/search/?api=1&query=Hibachi%20Grill%20Sushi%20and%20Buffet&query_place_id=ChIJYT9vVPYvPYgRcjJwTYiCKNw&center=42.2608355,-84.4249605"
     },
     {
       "name": "New Country China Buffet",
       "distance": "0.3 mi",
-      "url": "https://www.google.com/maps/search/New%20Country%20China%20Buffet+near+42.2598407%2C-84.4296609"
+      "url": "https://www.google.com/maps/search/?api=1&query=New%20Country%20China%20Buffet&query_place_id=ChIJKexV-vkvPYgRV4XPnn8qrTQ&center=42.2636952,-84.4275716"
     },
     {
       "name": "Kroger Bakery",
       "distance": "0.3 mi",
-      "url": "https://www.google.com/maps/search/Kroger%20Bakery+near+42.2598407%2C-84.4296609"
+      "url": "https://www.google.com/maps/search/?api=1&query=Kroger%20Bakery&query_place_id=ChIJfatcM_cvPYgRuo7zEicbT5o&center=42.263522599999995,-84.4264589"
     },
     {
       "name": "Papa Johns Pizza",
       "distance": "0.3 mi",
-      "url": "https://www.google.com/maps/search/Papa%20Johns%20Pizza+near+42.2598407%2C-84.4296609"
+      "url": "https://www.google.com/maps/search/?api=1&query=Papa%20Johns%20Pizza&query_place_id=ChIJhyhyZfYvPYgRjb0QPLzcj14&center=42.2604336,-84.422975"
+    },
+    {
+      "name": "McAlister's Deli",
+      "distance": "0.7 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=McAlister's%20Deli&query_place_id=ChIJn4At2mEvPYgRfT1-4s6GhTU&center=42.2699268,-84.432465"
+    },
+    {
+      "name": "Meijer Bakery",
+      "distance": "1.3 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Meijer%20Bakery&query_place_id=ChIJW2RmOJExPYgR-alqFAiuA8E&center=42.271135,-84.4494186"
     }
   ],
   "dinner": [

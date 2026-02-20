@@ -1,7 +1,115 @@
 {
-  "quick_bite": [],
-  "coffee": [],
-  "team_lunch": [],
+  "quick_bite": [
+    {
+      "name": "Dunkin'",
+      "distance": "0.5 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Dunkin'&query_place_id=ChIJLewngCwfDogRHCxALBvn9UE&center=41.523755,-87.55775899999999"
+    },
+    {
+      "name": "Krispy Krunchy Chicken",
+      "distance": "1.8 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Krispy%20Krunchy%20Chicken&query_place_id=ChIJ0932IWofDogRU0N69W--LU8&center=41.506517599999995,-87.5882565"
+    },
+    {
+      "name": "Sharks Burnham Lansing",
+      "distance": "1.9 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Sharks%20Burnham%20Lansing&query_place_id=ChIJe6dOReHhEYgR1W1pelfzbuw&center=41.5454864,-87.5389254"
+    },
+    {
+      "name": "Boz Hot Dogs - Lansing, IL",
+      "distance": "2.6 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Boz%20Hot%20Dogs%20-%20Lansing%2C%20IL&query_place_id=ChIJhbecje0fDogRzmR7xZ3AKU0&center=41.5645342,-87.5557093"
+    },
+    {
+      "name": "Subway",
+      "distance": "2.7 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Subway&query_place_id=ChIJEd1WXpXhEYgRVozvzBPox0U&center=41.5149593,-87.5182854"
+    },
+    {
+      "name": "Boz Hot Dogs",
+      "distance": "2.8 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Boz%20Hot%20Dogs&query_place_id=ChIJM321mZThEYgRRxv4sh0N6Fc&center=41.5101417,-87.5184049"
+    },
+    {
+      "name": "Taco Bell",
+      "distance": "2.9 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Taco%20Bell&query_place_id=ChIJufKNDTwfDogRFzqjyD9eO5Y&center=41.5689225,-87.55837969999999"
+    },
+    {
+      "name": "White Castle",
+      "distance": "3.1 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=White%20Castle&query_place_id=ChIJy6rOAFLgEYgRQlnaLC1HZ98&center=41.5390059,-87.50979029999999",
+      "isFar": true
+    },
+    {
+      "name": "Subway",
+      "distance": "3.1 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Subway&query_place_id=ChIJKa4Y0BrgEYgRz37QZbEIRS4&center=41.5641314,-87.5317762",
+      "isFar": true
+    },
+    {
+      "name": "Subway",
+      "distance": "3.1 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Subway&query_place_id=ChIJ169E1_QfDogRAsWIKH5LMn4&center=41.5722455,-87.55832380000001",
+      "isFar": true
+    }
+  ],
+  "coffee": [
+    {
+      "name": "Dunkin'",
+      "distance": "0.5 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Dunkin'&query_place_id=ChIJLewngCwfDogRHCxALBvn9UE&center=41.523755,-87.55775899999999"
+    },
+    {
+      "name": "McDonald's",
+      "distance": "3.1 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=McDonald's&query_place_id=ChIJ0x8jyvQfDogRdFs1z8FNcik&center=41.571556,-87.55923800000001",
+      "isFar": true
+    }
+  ],
+  "team_lunch": [
+    {
+      "name": "Lisa’s Kitchen",
+      "distance": "0.6 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Lisa%E2%80%99s%20Kitchen&query_place_id=ChIJC92EgTUfDogRQsZ_J2fSodA&center=41.5330645,-87.5590331"
+    },
+    {
+      "name": "Juancho's Tacos #4",
+      "distance": "0.8 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Juancho's%20Tacos%20%234&query_place_id=ChIJn0DpovcfDogRQHeV2YyR8s0&center=41.536519399999996,-87.55789829999999"
+    },
+    {
+      "name": "G Vibez",
+      "distance": "0.8 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=G%20Vibez&query_place_id=ChIJW0GKfCIfDogRv-cAf4rkTHE&center=41.536519399999996,-87.55789829999999"
+    },
+    {
+      "name": "Margarita's Bar & Grill",
+      "distance": "1.6 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Margarita's%20Bar%20%26%20Grill&query_place_id=ChIJ9dbYitUfDogR75OrJXBqMOE&center=41.5389481,-87.5398738"
+    },
+    {
+      "name": "Elite jerk restaurant",
+      "distance": "1.8 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Elite%20jerk%20restaurant&query_place_id=ChIJyV-0PBIfDogRCCfCtzlQ56E&center=41.506698899999996,-87.58922109999999"
+    },
+    {
+      "name": "Confectionately Yours",
+      "distance": "2.2 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Confectionately%20Yours&query_place_id=ChIJsT0qh9gdDogRMcIltFWX1E8&center=41.4952709,-87.5666471"
+    },
+    {
+      "name": "Sweet Jeannie",
+      "distance": "2.4 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Sweet%20Jeannie&query_place_id=ChIJqbfmm74dDogRHRB_06BCxJI&center=41.4926563,-87.5727702"
+    },
+    {
+      "name": "Silvia's Bakers",
+      "distance": "3.1 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Silvia's%20Bakers&query_place_id=ChIJQXbngcMdDogRiCfkBtaPDNI&center=41.4830567,-87.56409359999999",
+      "isFar": true
+    }
+  ],
   "dinner": [],
   "bowling": [],
   "arcade": [],

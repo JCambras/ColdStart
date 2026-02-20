@@ -6,11 +6,6 @@
       "url": "https://www.google.com/maps/search/?api=1&query=McDonald%E2%80%99s&query_place_id=ChIJuSUxLACFNIgRajliyEBmFOk&center=40.693913599999995,-79.9732449"
     },
     {
-      "name": "Buffalo Wild Wings",
-      "distance": "2.3 mi",
-      "url": "https://www.google.com/maps/search/?api=1&query=Buffalo%20Wild%20Wings&query_place_id=ChIJQ9-8WMqPNIgRaL8lRJ9cohc&center=40.643062,-79.939081"
-    },
-    {
       "name": "Subway",
       "distance": "2.3 mi",
       "url": "https://www.google.com/maps/search/?api=1&query=Subway&query_place_id=ChIJQ9-8WMqPNIgR7DGFv9wx9QA&center=40.643021999999995,-79.9393841"
@@ -19,6 +14,27 @@
       "name": "Wendy's",
       "distance": "2.7 mi",
       "url": "https://www.google.com/maps/search/?api=1&query=Wendy's&query_place_id=ChIJ5cbsczaONIgR3vlpmBznYD4&center=40.6377014,-79.9393129"
+    },
+    {
+      "name": "Taco Bell",
+      "distance": "2.7 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Taco%20Bell&query_place_id=ChIJ5cbsczaONIgRmMiV-LgG2S4&center=40.6374062,-79.9395758"
+    },
+    {
+      "name": "Giant Eagle Prepared Foods",
+      "distance": "2.8 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Giant%20Eagle%20Prepared%20Foods&query_place_id=ChIJSWvfBEqONIgRz1bSAL7S8Hc&center=40.6363205,-79.9425119"
+    },
+    {
+      "name": "Penn Station East Coast Subs",
+      "distance": "2.8 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Penn%20Station%20East%20Coast%20Subs&query_place_id=ChIJ68TR2zWONIgR79-MAaQojMI&center=40.635920999999996,-79.939773"
+    },
+    {
+      "name": "Arby's",
+      "distance": "4.8 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Arby's&query_place_id=ChIJEYjj4nOONIgRSkBNo5hBWo4&center=40.6067916,-79.9467616",
+      "isFar": true
     }
   ],
   "coffee": [
@@ -43,6 +59,12 @@
       "url": "https://www.google.com/maps/search/?api=1&query=Starbucks%20Coffee%20Company&query_place_id=ChIJFRilKcuPNIgRctfgHAjxL9o&center=40.6408,-79.93872999999999"
     },
     {
+      "name": "McDonald's",
+      "distance": "3.8 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=McDonald's&query_place_id=ChIJd8aXMkCONIgR-gA12q2tuIo&center=40.6214805,-79.9441087",
+      "isFar": true
+    },
+    {
       "name": "Donut Connection",
       "distance": "4.9 mi",
       "url": "https://www.google.com/maps/search/?api=1&query=Donut%20Connection&query_place_id=ChIJq75QB3SONIgRGnLDoI5fr1s&center=40.605923100000005,-79.9468315",
@@ -50,11 +72,6 @@
     }
   ],
   "team_lunch": [
-    {
-      "name": "Applebee's Grill + Bar",
-      "distance": "2.5 mi",
-      "url": "https://www.google.com/maps/search/?api=1&query=Applebee's%20Grill%20%2B%20Bar&query_place_id=ChIJrS4a2TSONIgRXeQwPho2p0I&center=40.6396158,-79.938688"
-    },
     {
       "name": "Grandma Ann's Nutbread",
       "distance": "3.8 mi",

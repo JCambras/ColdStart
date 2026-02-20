@@ -3,66 +3,91 @@
     {
       "name": "Burger King",
       "distance": "1.9 mi",
-      "url": "https://www.google.com/maps/search/Burger%20King+near+43.6029331%2C-84.17603"
+      "url": "https://www.google.com/maps/search/?api=1&query=Burger%20King&query_place_id=ChIJXb24MrHVI4gRfiYzNrTYq6k&center=43.6128469,-84.2110359"
     },
     {
       "name": "Subway",
       "distance": "1.9 mi",
-      "url": "https://www.google.com/maps/search/Subway+near+43.6029331%2C-84.17603"
+      "url": "https://www.google.com/maps/search/?api=1&query=Subway&query_place_id=ChIJrcGa2LDVI4gRiTOhrryLIRs&center=43.613213,-84.2117676"
     },
     {
       "name": "Long John Silver's",
       "distance": "1.9 mi",
-      "url": "https://www.google.com/maps/search/Long%20John%20Silver's+near+43.6029331%2C-84.17603"
+      "url": "https://www.google.com/maps/search/?api=1&query=Long%20John%20Silver's&query_place_id=ChIJL9ZgdLHVI4gRWwQe2BqVDfQ&center=43.6119991,-84.21253229999999"
     },
     {
       "name": "Rally's",
       "distance": "1.9 mi",
-      "url": "https://www.google.com/maps/search/Rally's+near+43.6029331%2C-84.17603"
+      "url": "https://www.google.com/maps/search/?api=1&query=Rally's&query_place_id=ChIJxTg1y7bVI4gRzuxsybjrdx8&center=43.6124498,-84.2123857"
+    },
+    {
+      "name": "Tim Hortons",
+      "distance": "2.0 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Tim%20Hortons&query_place_id=ChIJqcDILbHVI4gRs5M6-q3c2UU&center=43.613688,-84.2122141"
     },
     {
       "name": "Jersey Mike's Subs",
       "distance": "2.0 mi",
-      "url": "https://www.google.com/maps/search/Jersey%20Mike's%20Subs+near+43.6029331%2C-84.17603"
+      "url": "https://www.google.com/maps/search/?api=1&query=Jersey%20Mike's%20Subs&query_place_id=ChIJWcwfl4fVI4gRM-sbJz0eFlg&center=43.613914,-84.21261000000001"
     },
     {
       "name": "Jimmy John's",
       "distance": "2.0 mi",
-      "url": "https://www.google.com/maps/search/Jimmy%20John's+near+43.6029331%2C-84.17603"
+      "url": "https://www.google.com/maps/search/?api=1&query=Jimmy%20John's&query_place_id=ChIJeRwp37DVI4gRiKgPN2GRy0s&center=43.6134092,-84.2133815"
     },
     {
       "name": "China Palace Restaurant",
       "distance": "2.0 mi",
-      "url": "https://www.google.com/maps/search/China%20Palace%20Restaurant+near+43.6029331%2C-84.17603"
+      "url": "https://www.google.com/maps/search/?api=1&query=China%20Palace%20Restaurant&query_place_id=ChIJAS_p3rDVI4gRgTZSKlp_VYQ&center=43.6131606,-84.21374999999999"
+    },
+    {
+      "name": "Popeyes Louisiana Kitchen",
+      "distance": "2.0 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Popeyes%20Louisiana%20Kitchen&query_place_id=ChIJn-kUGcTVI4gRKBY5qIkPPnM&center=43.614553699999995,-84.213334"
+    },
+    {
+      "name": "Taco Bell",
+      "distance": "2.1 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Taco%20Bell&query_place_id=ChIJ-54M8bDVI4gRz6TO2W_imkc&center=43.6140857,-84.2141678"
     }
   ],
   "coffee": [
     {
       "name": "Black River Coffee Co",
       "distance": "0.6 mi",
-      "url": "https://www.google.com/maps/search/Black%20River%20Coffee%20Co+near+43.6029331%2C-84.17603"
+      "url": "https://www.google.com/maps/search/?api=1&query=Black%20River%20Coffee%20Co&query_place_id=ChIJJSy9JBDVI4gRc4Y3g2N4u0w&center=43.6047631,-84.1872718"
     },
     {
       "name": "McDonald's",
       "distance": "0.6 mi",
-      "url": "https://www.google.com/maps/search/McDonald's+near+43.6029331%2C-84.17603"
+      "url": "https://www.google.com/maps/search/?api=1&query=McDonald's&query_place_id=ChIJ73YczSrUI4gRCqAaKjJOf7Y&center=43.6060332,-84.1880769"
     },
     {
       "name": "Live Oak Coffeehouse",
       "distance": "1.6 mi",
-      "url": "https://www.google.com/maps/search/Live%20Oak%20Coffeehouse+near+43.6029331%2C-84.17603"
+      "url": "https://www.google.com/maps/search/?api=1&query=Live%20Oak%20Coffeehouse&query_place_id=ChIJCx5WlTrVI4gRh608C05-vV8&center=43.619723199999996,-84.1980368"
     },
     {
       "name": "Tim Hortons",
       "distance": "2.0 mi",
-      "url": "https://www.google.com/maps/search/Tim%20Hortons+near+43.6029331%2C-84.17603"
+      "url": "https://www.google.com/maps/search/?api=1&query=Tim%20Hortons&query_place_id=ChIJqcDILbHVI4gRs5M6-q3c2UU&center=43.613688,-84.2122141"
+    },
+    {
+      "name": "McDonald's",
+      "distance": "2.1 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=McDonald's&query_place_id=ChIJr3MgirDVI4gRUj6-egCfch4&center=43.6150607,-84.21375770000002"
     }
   ],
   "team_lunch": [
     {
       "name": "Hunt Brothers Pizza",
       "distance": "0.8 mi",
-      "url": "https://www.google.com/maps/search/Hunt%20Brothers%20Pizza+near+43.6029331%2C-84.17603"
+      "url": "https://www.google.com/maps/search/?api=1&query=Hunt%20Brothers%20Pizza&query_place_id=ChIJYw_bbQDVI4gR-Pp-raD3J28&center=43.606113799999996,-84.1905738"
+    },
+    {
+      "name": "A-n-N Bakery",
+      "distance": "2.7 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=A-n-N%20Bakery&query_place_id=ChIJKweN1zHVI4gRmovygHgIdyQ&center=43.616150399999995,-84.2271911"
     }
   ],
   "dinner": [

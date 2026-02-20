@@ -11,6 +11,11 @@
       "url": "https://www.google.com/maps/search/?api=1&query=Aganja%20Kitchen&query_place_id=ChIJc21e6GGxw4kRvAaKctnY-iY&center=40.6534597,-74.3252789"
     },
     {
+      "name": "Dunkin'",
+      "distance": "0.4 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Dunkin'&query_place_id=ChIJIdRzTIWxw4kR1ipTir38Z64&center=40.652963299999996,-74.3241936"
+    },
+    {
       "name": "Wendy's",
       "distance": "0.5 mi",
       "url": "https://www.google.com/maps/search/?api=1&query=Wendy's&query_place_id=ChIJfwL-BWqxw4kRaH7bUFfpOQ4&center=40.653471599999996,-74.32222209999999"
@@ -53,9 +58,24 @@
       "url": "https://www.google.com/maps/search/?api=1&query=Blue%20Java%20cafe&query_place_id=ChIJY1GA-xGxw4kRN3EBH9N02RY&center=40.651069,-74.3246605"
     },
     {
+      "name": "McDonald's",
+      "distance": "0.6 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=McDonald's&query_place_id=ChIJpf1rh4-xw4kRX77NeO_HofE&center=40.654126,-74.321094"
+    },
+    {
       "name": "Manhattan Bagel",
       "distance": "0.7 mi",
       "url": "https://www.google.com/maps/search/?api=1&query=Manhattan%20Bagel&query_place_id=ChIJV9SDpKexw4kRmtT2YUFUou0&center=40.6495767,-74.3445411"
+    },
+    {
+      "name": "Farinolio Westfield NJ",
+      "distance": "0.9 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Farinolio%20Westfield%20NJ&query_place_id=ChIJedznE6Cxw4kRydTmxVfChPE&center=40.651027,-74.3492521"
+    },
+    {
+      "name": "Bovella's Pastry Shoppe",
+      "distance": "0.9 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Bovella's%20Pastry%20Shoppe&query_place_id=ChIJ8be1_qixw4kRQ4GSFQCkNCg&center=40.6508691,-74.3495551"
     }
   ],
   "team_lunch": [

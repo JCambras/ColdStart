@@ -1,6 +1,11 @@
 {
   "quick_bite": [
     {
+      "name": "Dunkin'",
+      "distance": "0.3 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Dunkin'&query_place_id=ChIJ59I-GxfJD4gRA8cgvsjZr_8&center=42.0402333,-87.8396444"
+    },
+    {
       "name": "Subway",
       "distance": "0.3 mi",
       "url": "https://www.google.com/maps/search/?api=1&query=Subway&query_place_id=ChIJbXJBrxbID4gRuGdMUnpjUgg&center=42.042906599999995,-87.84207730000001"
@@ -29,9 +34,29 @@
       "name": "Wendy's",
       "distance": "0.8 mi",
       "url": "https://www.google.com/maps/search/?api=1&query=Wendy's&query_place_id=ChIJhYhG93TID4gRmumrl7jagVY&center=42.0541762,-87.8334455"
+    },
+    {
+      "name": "Chick-fil-A",
+      "distance": "0.8 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Chick-fil-A&query_place_id=ChIJxS5Q7mTJD4gRrl1xlyMKyug&center=42.0541939,-87.8395767"
+    },
+    {
+      "name": "Jimmy John's",
+      "distance": "0.9 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Jimmy%20John's&query_place_id=ChIJx2J6swvID4gRW6TweeGytkI&center=42.0563053,-87.8389883"
+    },
+    {
+      "name": "The Works Grill",
+      "distance": "1.1 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=The%20Works%20Grill&query_place_id=ChIJSVH0IHnID4gR5N0aUSsEnEQ&center=42.0556203,-87.82445419999999"
     }
   ],
   "coffee": [
+    {
+      "name": "McDonald's",
+      "distance": "0.2 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=McDonald's&query_place_id=ChIJF-l9eozID4gRL9ZckwfKRMc&center=42.0405367,-87.83765249999999"
+    },
     {
       "name": "Dunkin'",
       "distance": "0.3 mi",
@@ -41,6 +66,11 @@
       "name": "Papagalino's Cafe",
       "distance": "0.3 mi",
       "url": "https://www.google.com/maps/search/?api=1&query=Papagalino's%20Cafe&query_place_id=ChIJ5WHS0xvID4gRuLHrL30CyEA&center=42.0445712,-87.8307311"
+    },
+    {
+      "name": "McDonald's",
+      "distance": "1.1 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=McDonald's&query_place_id=ChIJGW3JceLHD4gR8aMmAMjMoIY&center=42.059039399999996,-87.84174709999999"
     }
   ],
   "team_lunch": [
@@ -68,6 +98,11 @@
       "name": "Chicken & Snack",
       "distance": "0.4 mi",
       "url": "https://www.google.com/maps/search/?api=1&query=Chicken%20%26%20Snack&query_place_id=ChIJB9oPIQDJD4gRvEuSm3cebtk&center=42.0432086,-87.8278754"
+    },
+    {
+      "name": "Walmart Bakery",
+      "distance": "0.9 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Walmart%20Bakery&query_place_id=ChIJ_cmqywrID4gRmDVnZ_HFbcc&center=42.0564465,-87.83548619999999"
     }
   ],
   "dinner": [

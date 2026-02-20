@@ -1,6 +1,11 @@
 {
   "quick_bite": [
     {
+      "name": "Dunkin'",
+      "distance": "0.3 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Dunkin'&query_place_id=ChIJ5S-E8-Sw54kRv2InlIdLcro&center=41.6730301,-72.8595017"
+    },
+    {
       "name": "Subway",
       "distance": "0.3 mi",
       "url": "https://www.google.com/maps/search/?api=1&query=Subway&query_place_id=ChIJaYZEKuSw54kR-3tA61K4Qww&center=41.670057799999995,-72.8599377"
@@ -9,6 +14,11 @@
       "name": "Little Red Grille",
       "distance": "0.3 mi",
       "url": "https://www.google.com/maps/search/?api=1&query=Little%20Red%20Grille&query_place_id=ChIJByzzgAKx54kR38wkGofnUJg&center=41.6764532,-72.85129429999999"
+    },
+    {
+      "name": "Dunkin'",
+      "distance": "0.6 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Dunkin'&query_place_id=ChIJrbEF5AOx54kRaEitMOZoLiU&center=41.6782726,-72.8462289"
     },
     {
       "name": "Long John Silver's | Taco Bell",
@@ -29,6 +39,16 @@
       "name": "Jersey Mike's Subs",
       "distance": "0.9 mi",
       "url": "https://www.google.com/maps/search/?api=1&query=Jersey%20Mike's%20Subs&query_place_id=ChIJz5ubg6yx54kRaZ5x0xisbnU&center=41.674642999999996,-72.8377993"
+    },
+    {
+      "name": "Subway",
+      "distance": "2.0 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Subway&query_place_id=ChIJgeumpqGw54kRv-K6XEhfo9k&center=41.669666899999996,-72.8928887"
+    },
+    {
+      "name": "Chick-fil-A",
+      "distance": "2.5 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Chick-fil-A&query_place_id=ChIJlzbuije354kRsRtRjv6FyR4&center=41.6387249,-72.8735604"
     }
   ],
   "coffee": [
@@ -53,9 +73,19 @@
       "url": "https://www.google.com/maps/search/?api=1&query=Dunkin'&query_place_id=ChIJrbEF5AOx54kRaEitMOZoLiU&center=41.6782726,-72.8462289"
     },
     {
+      "name": "McDonald's",
+      "distance": "0.7 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=McDonald's&query_place_id=ChIJA6fB6gWx54kRC8nXCSCsToY&center=41.675903,-72.84130139999999"
+    },
+    {
       "name": "Kettle Bagels & GRILL #1 (Queen Street Location) Breakfast & Lunch & Dinner",
       "distance": "1.8 mi",
       "url": "https://www.google.com/maps/search/?api=1&query=Kettle%20Bagels%20%26%20GRILL%20%231%20(Queen%20Street%20Location)%20Breakfast%20%26%20Lunch%20%26%20Dinner&query_place_id=ChIJK8NYbcuw54kR4qwlIzdcX8I&center=41.64982010000001,-72.8707381"
+    },
+    {
+      "name": "McDonald's",
+      "distance": "2.5 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=McDonald's&query_place_id=ChIJmzP9wWKx54kRY7g93ah0qqo&center=41.6659253,-72.8059512"
     }
   ],
   "team_lunch": [

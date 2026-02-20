@@ -11,19 +11,44 @@
       "url": "https://www.google.com/maps/search/?api=1&query=Subway&query_place_id=ChIJDzpIpVbxNIgR_mgo0UY-PIg&center=40.4401839,-80.002468"
     },
     {
-      "name": "Genoa Pizza & Bar",
-      "distance": "0.1 mi",
-      "url": "https://www.google.com/maps/search/?api=1&query=Genoa%20Pizza%20%26%20Bar&query_place_id=ChIJCUPo71PxNIgR0DN7_HDvu2o&center=40.438928,-80.003948"
-    },
-    {
       "name": "Moe's Southwest Grill",
       "distance": "0.1 mi",
       "url": "https://www.google.com/maps/search/?api=1&query=Moe's%20Southwest%20Grill&query_place_id=ChIJHct_wFbxNIgRaO_h4WbplGk&center=40.4403928,-80.0020681"
     },
     {
+      "name": "Dunkin'",
+      "distance": "0.1 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Dunkin'&query_place_id=ChIJLbPZlVbxNIgRUiWtcqhZS7k&center=40.4409657,-80.0030141"
+    },
+    {
       "name": "Okane Sushi",
       "distance": "0.1 mi",
       "url": "https://www.google.com/maps/search/?api=1&query=Okane%20Sushi&query_place_id=ChIJHcbmdZzxNIgRD6w-U-T3DWs&center=40.439647799999996,-80.0015927"
+    },
+    {
+      "name": "Jimmy John's",
+      "distance": "0.1 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Jimmy%20John's&query_place_id=ChIJ327AJ1TxNIgRvLL_q98Xstc&center=40.4413536,-80.0034154"
+    },
+    {
+      "name": "Mad chicken",
+      "distance": "0.2 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Mad%20chicken&query_place_id=ChIJp1tqyuvxNIgROzXlw3OKjeA&center=40.441989899999996,-80.00256159999999"
+    },
+    {
+      "name": "PrimoHoagies",
+      "distance": "0.2 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=PrimoHoagies&query_place_id=ChIJm6G6nrDxNIgROFbEEL6eRd8&center=40.442403899999995,-80.0027185"
+    },
+    {
+      "name": "Subway",
+      "distance": "0.2 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Subway&query_place_id=ChIJjUwJy1DxNIgR8Q6rGrtjaVA&center=40.439066499999996,-79.9991086"
+    },
+    {
+      "name": "Subway",
+      "distance": "0.3 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Subway&query_place_id=ChIJOVe7tlfxNIgROQaZO9R4M3s&center=40.442782,-79.99929399999999"
     }
   ],
   "coffee": [
@@ -51,6 +76,21 @@
       "name": "Bluebird Kitchen",
       "distance": "0.1 mi",
       "url": "https://www.google.com/maps/search/?api=1&query=Bluebird%20Kitchen&query_place_id=ChIJs2Jlv1bxNIgR1BjwPx-efhY&center=40.440546399999995,-80.0017735"
+    },
+    {
+      "name": "La Gourmandine Downtown",
+      "distance": "0.2 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=La%20Gourmandine%20Downtown&query_place_id=ChIJDwC811bxNIgR7u9WMUuNjto&center=40.4398492,-80.0004969"
+    },
+    {
+      "name": "Bruegger's Bagels",
+      "distance": "0.3 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Bruegger's%20Bagels&query_place_id=ChIJo5IOulDxNIgRCjQSyJviOTM&center=40.4384971,-79.9984717"
+    },
+    {
+      "name": "Bruegger's Bagels",
+      "distance": "0.4 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Bruegger's%20Bagels&query_place_id=ChIJr5_PwVnxNIgRW6wYCkEkfv0&center=40.4402542,-79.9964758"
     }
   ],
   "team_lunch": [

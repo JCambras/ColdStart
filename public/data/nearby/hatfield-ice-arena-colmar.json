@@ -1,6 +1,16 @@
 {
   "quick_bite": [
     {
+      "name": "Dunkin'",
+      "distance": "0.6 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Dunkin'&query_place_id=ChIJSzkGWyShxokRLWGl86WDiLk&center=40.2853138,-75.2630037"
+    },
+    {
+      "name": "Wawa",
+      "distance": "0.7 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Wawa&query_place_id=ChIJ03Q8mUmhxokR5VYi8oymL1w&center=40.269641799999995,-75.2549947"
+    },
+    {
       "name": "Mi Mex Cocina",
       "distance": "0.8 mi",
       "url": "https://www.google.com/maps/search/?api=1&query=Mi%20Mex%20Cocina&query_place_id=ChIJsUYLKCChxokRKGWHHkE4hM8&center=40.2688232,-75.2557887"
@@ -24,6 +34,21 @@
       "name": "Dairy Queen Grill & Chill",
       "distance": "0.9 mi",
       "url": "https://www.google.com/maps/search/?api=1&query=Dairy%20Queen%20Grill%20%26%20Chill&query_place_id=ChIJDe9-tU6hxokRQWC3Ma4ebm0&center=40.2667096,-75.2552037"
+    },
+    {
+      "name": "Anandam Foods",
+      "distance": "1.1 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Anandam%20Foods&query_place_id=ChIJARHS2WyhxokRzYn53Te_GDo&center=40.289983299999996,-75.2703507"
+    },
+    {
+      "name": "Wawa",
+      "distance": "1.5 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Wawa&query_place_id=ChIJvwnG1CuhxokR-ogVi7sU-PI&center=40.2591682,-75.2653069"
+    },
+    {
+      "name": "Wawa",
+      "distance": "1.7 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Wawa&query_place_id=ChIJGXCTISqnxokRoFBAmiBMZoA&center=40.2672987,-75.2278745"
     }
   ],
   "coffee": [
@@ -33,9 +58,39 @@
       "url": "https://www.google.com/maps/search/?api=1&query=Dunkin'&query_place_id=ChIJSzkGWyShxokRLWGl86WDiLk&center=40.2853138,-75.2630037"
     },
     {
+      "name": "Wawa",
+      "distance": "0.7 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Wawa&query_place_id=ChIJ03Q8mUmhxokR5VYi8oymL1w&center=40.269641799999995,-75.2549947"
+    },
+    {
       "name": "Hanane’s Signature Patisserie",
       "distance": "0.8 mi",
       "url": "https://www.google.com/maps/search/?api=1&query=Hanane%E2%80%99s%20Signature%20Patisserie&query_place_id=ChIJZWkgQQChxokRg7WM7cWIbQQ&center=40.287007599999995,-75.2662266"
+    },
+    {
+      "name": "McDonald's",
+      "distance": "0.8 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=McDonald's&query_place_id=ChIJyQoL4SOhxokRLkLEI_v9ZzI&center=40.2881378,-75.26562679999999"
+    },
+    {
+      "name": "Yum Yum Bake Shops",
+      "distance": "0.9 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Yum%20Yum%20Bake%20Shops&query_place_id=ChIJATTzTEmhxokR1-Qhhk6fBPA&center=40.2669825,-75.25479659999999"
+    },
+    {
+      "name": "Wawa",
+      "distance": "1.5 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Wawa&query_place_id=ChIJvwnG1CuhxokR-ogVi7sU-PI&center=40.2591682,-75.2653069"
+    },
+    {
+      "name": "Wawa",
+      "distance": "1.7 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Wawa&query_place_id=ChIJGXCTISqnxokRoFBAmiBMZoA&center=40.2672987,-75.2278745"
+    },
+    {
+      "name": "McDonald's",
+      "distance": "1.8 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=McDonald's&query_place_id=ChIJL3HqK76mxokRDFBAydXvHYs&center=40.265785900000004,-75.22670769999999"
     }
   ],
   "team_lunch": [
@@ -45,14 +100,14 @@
       "url": "https://www.google.com/maps/search/?api=1&query=Boar's%20Head%20Rinkside%20Cafe&query_place_id=ChIJb8ICPQChxokRvt2Jt1Fl0Lg&center=40.2796885,-75.2551972"
     },
     {
-      "name": "Red Cedar Grille & Cocktails",
-      "distance": "0.4 mi",
-      "url": "https://www.google.com/maps/search/?api=1&query=Red%20Cedar%20Grille%20%26%20Cocktails&query_place_id=ChIJN94vkTehxokRkmagwhgKW6E&center=40.2741757,-75.2585304"
-    },
-    {
       "name": "Formosa Chinese Restaurant",
       "distance": "0.8 mi",
       "url": "https://www.google.com/maps/search/?api=1&query=Formosa%20Chinese%20Restaurant&query_place_id=ChIJSzkGWyShxokR0Cj3eE39DNE&center=40.286991799999996,-75.2662328"
+    },
+    {
+      "name": "Walmart Bakery",
+      "distance": "0.9 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Walmart%20Bakery&query_place_id=ChIJPaGqIyehxokRJ-pzjeM7jxU&center=40.2910313,-75.2641349"
     },
     {
       "name": "Philly Pretzel Factory",

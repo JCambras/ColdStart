@@ -3,67 +3,103 @@
     {
       "name": "Little Caesars Pizza",
       "distance": "0.6 mi",
-      "url": "https://www.google.com/maps/search/Little%20Caesars%20Pizza+near+42.2478289%2C-83.7116887"
+      "url": "https://www.google.com/maps/search/?api=1&query=Little%20Caesars%20Pizza&query_place_id=ChIJDSlK3RWvPIgR_0elbsPzx5M&center=42.244662999999996,-83.699941"
     },
     {
       "name": "Subway",
       "distance": "0.6 mi",
-      "url": "https://www.google.com/maps/search/Subway+near+42.2478289%2C-83.7116887"
+      "url": "https://www.google.com/maps/search/?api=1&query=Subway&query_place_id=ChIJcyjzwxWvPIgRXTGYaDUOdrU&center=42.2435689,-83.70038749999999"
     },
     {
       "name": "Tmaz Taqueria",
       "distance": "0.8 mi",
-      "url": "https://www.google.com/maps/search/Tmaz%20Taqueria+near+42.2478289%2C-83.7116887"
+      "url": "https://www.google.com/maps/search/?api=1&query=Tmaz%20Taqueria&query_place_id=ChIJl7_DcD6vPIgRX8rFb8xXfp0&center=42.2446884,-83.6963418"
     },
     {
       "name": "Bigalora Wood Fired Cucina",
       "distance": "0.9 mi",
-      "url": "https://www.google.com/maps/search/Bigalora%20Wood%20Fired%20Cucina+near+42.2478289%2C-83.7116887"
+      "url": "https://www.google.com/maps/search/?api=1&query=Bigalora%20Wood%20Fired%20Cucina&query_place_id=ChIJnfwjCR-vPIgR5h3Tf00QDyg&center=42.2564063,-83.6990701"
     },
     {
       "name": "Shake Shack Ann Arbor",
       "distance": "0.9 mi",
-      "url": "https://www.google.com/maps/search/Shake%20Shack%20Ann%20Arbor+near+42.2478289%2C-83.7116887"
+      "url": "https://www.google.com/maps/search/?api=1&query=Shake%20Shack%20Ann%20Arbor&query_place_id=ChIJ71dsdsivPIgRXOYDZRAtEHg&center=42.257058199999996,-83.6988356"
     },
     {
       "name": "sweetgreen - Healthy Salads, Bowls and Plates",
       "distance": "0.9 mi",
-      "url": "https://www.google.com/maps/search/sweetgreen%20-%20Healthy%20Salads%2C%20Bowls%20and%20Plates+near+42.2478289%2C-83.7116887"
+      "url": "https://www.google.com/maps/search/?api=1&query=sweetgreen%20-%20Healthy%20Salads%2C%20Bowls%20and%20Plates&query_place_id=ChIJV2q-ybivPIgRke8sqvGBMxk&center=42.256843499999995,-83.6978046"
     },
     {
-      "name": "Cinemark Ann Arbor 20 and IMAX",
-      "distance": "2.1 mi",
-      "url": "https://www.google.com/maps/search/Cinemark%20Ann%20Arbor%2020%20and%20IMAX+near+42.2478289%2C-83.7116887"
+      "name": "Market Sandwich",
+      "distance": "1.0 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Market%20Sandwich&query_place_id=ChIJ60HaAiKvPIgRQxtSramjPPo&center=42.2579883,-83.6981808"
+    },
+    {
+      "name": "Chick-fil-A",
+      "distance": "1.0 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Chick-fil-A&query_place_id=ChIJo5XkPeOvPIgRQY-yX29w8ZI&center=42.2558712,-83.694842"
+    },
+    {
+      "name": "Jimmy John's",
+      "distance": "1.2 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Jimmy%20John's&query_place_id=ChIJaaTYtSavPIgRffY3UYCeyXo&center=42.2566367,-83.6922089"
+    },
+    {
+      "name": "MD Bagel Fragel",
+      "distance": "1.2 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=MD%20Bagel%20Fragel&query_place_id=ChIJ521tp3muPIgR4bcRLb3EwVs&center=42.254899599999995,-83.6894354"
     }
   ],
   "coffee": [
     {
       "name": "Socotra Coffee House",
       "distance": "0.8 mi",
-      "url": "https://www.google.com/maps/search/Socotra%20Coffee%20House+near+42.2478289%2C-83.7116887"
+      "url": "https://www.google.com/maps/search/?api=1&query=Socotra%20Coffee%20House&query_place_id=ChIJZ-W7t7uvPIgR-4x_8YoIohw&center=42.2446047,-83.6975564"
     },
     {
       "name": "Blue Whale Cafe",
       "distance": "0.8 mi",
-      "url": "https://www.google.com/maps/search/Blue%20Whale%20Cafe+near+42.2478289%2C-83.7116887"
+      "url": "https://www.google.com/maps/search/?api=1&query=Blue%20Whale%20Cafe&query_place_id=ChIJlSIOkgSvPIgRFg-R7sZzU7w&center=42.2590959,-83.71242199999999"
     },
     {
       "name": "Bearclaw Coffee Co.",
       "distance": "0.8 mi",
-      "url": "https://www.google.com/maps/search/Bearclaw%20Coffee%20Co.+near+42.2478289%2C-83.7116887"
+      "url": "https://www.google.com/maps/search/?api=1&query=Bearclaw%20Coffee%20Co.&query_place_id=ChIJC0rOXQKvPIgRUWwvH7uoU5k&center=42.2596035,-83.7120946"
     },
     {
       "name": "Zola Bistro",
       "distance": "0.9 mi",
-      "url": "https://www.google.com/maps/search/Zola%20Bistro+near+42.2478289%2C-83.7116887"
+      "url": "https://www.google.com/maps/search/?api=1&query=Zola%20Bistro&query_place_id=ChIJcyQhCR-vPIgRnBg_JipT_eg&center=42.2570401,-83.6991415"
     },
     {
       "name": "Hazel Coffee Co",
       "distance": "0.9 mi",
-      "url": "https://www.google.com/maps/search/Hazel%20Coffee%20Co+near+42.2478289%2C-83.7116887"
+      "url": "https://www.google.com/maps/search/?api=1&query=Hazel%20Coffee%20Co&query_place_id=ChIJWyUug4KvPIgRx2Xm6kAh4IU&center=42.25616,-83.726301"
+    },
+    {
+      "name": "McDonald's",
+      "distance": "1.1 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=McDonald's&query_place_id=ChIJz6wQOCGvPIgRXmcz8giksJI&center=42.2567494,-83.6937998"
     }
   ],
-  "team_lunch": [],
+  "team_lunch": [
+    {
+      "name": "AshBash Cakes 'N' Bakes",
+      "distance": "1.3 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=AshBash%20Cakes%20'N'%20Bakes&query_place_id=ChIJdwxKTkKvPIgRrTheY8bh1Vk&center=42.250459199999995,-83.6868834"
+    },
+    {
+      "name": "Kroger Bakery",
+      "distance": "1.4 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Kroger%20Bakery&query_place_id=ChIJxXa7wyevPIgRgoarLo_VUvA&center=42.258277299999996,-83.68881139999999"
+    },
+    {
+      "name": "Kroger Bakery",
+      "distance": "1.5 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Kroger%20Bakery&query_place_id=ChIJw8b5LjSvPIgR4RhOAyoU7F4&center=42.242919799999996,-83.6821276"
+    }
+  ],
   "dinner": [
     {
       "name": "Sweet Moonlight Bakery",

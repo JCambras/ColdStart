@@ -1,19 +1,9 @@
 {
   "quick_bite": [
     {
-      "name": "Woodbridge Bowling Center",
-      "distance": "0.6 mi",
-      "url": "https://www.google.com/maps/search/?api=1&query=Woodbridge%20Bowling%20Center&query_place_id=ChIJR3omRsa1w4kR1uOxqIsIvj0&center=40.5501775,-74.29177709999999"
-    },
-    {
       "name": "Chick-fil-A",
       "distance": "0.7 mi",
       "url": "https://www.google.com/maps/search/?api=1&query=Chick-fil-A&query_place_id=ChIJ2eutM9C1w4kRkbF_7skSNFs&center=40.5560974,-74.2977318"
-    },
-    {
-      "name": "Olive Garden Italian Restaurant",
-      "distance": "0.7 mi",
-      "url": "https://www.google.com/maps/search/?api=1&query=Olive%20Garden%20Italian%20Restaurant&query_place_id=ChIJPamEONG1w4kRtCgmIMr47UQ&center=40.556447,-74.3048285"
     },
     {
       "name": "Sbarro Woodbridge Mall",
@@ -21,14 +11,44 @@
       "url": "https://www.google.com/maps/search/?api=1&query=Sbarro%20Woodbridge%20Mall&query_place_id=ChIJhdESKNC1w4kRpfhm7ttmSgA&center=40.556359,-74.29799799999999"
     },
     {
-      "name": "Miller's Ale House",
+      "name": "Dunkin'",
       "distance": "0.7 mi",
-      "url": "https://www.google.com/maps/search/?api=1&query=Miller's%20Ale%20House&query_place_id=ChIJjaA_oxSLZUARoTmcK6tnxsE&center=40.537581,-74.2947562"
+      "url": "https://www.google.com/maps/search/?api=1&query=Dunkin'&query_place_id=ChIJN5KD1c21w4kReOTnJ8nwNT0&center=40.5561315,-74.29706259999999"
     },
     {
       "name": "Wetzel's Pretzels",
       "distance": "0.7 mi",
       "url": "https://www.google.com/maps/search/?api=1&query=Wetzel's%20Pretzels&query_place_id=ChIJhdESKNC1w4kR1YEc2cYlay0&center=40.556463799999996,-74.2981519"
+    },
+    {
+      "name": "Wawa",
+      "distance": "0.7 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Wawa&query_place_id=ChIJGSi83kDOw4kRsmF7RmJsy30&center=40.5361827,-74.2973928"
+    },
+    {
+      "name": "Chick-fil-A",
+      "distance": "0.8 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Chick-fil-A&query_place_id=ChIJ11tUfhC1w4kRZYBMRoQ5R68&center=40.53559,-74.29621999999999"
+    },
+    {
+      "name": "Subway",
+      "distance": "0.8 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Subway&query_place_id=ChIJVdU_OOm1w4kROw3jsaVq2go&center=40.53603890000001,-74.2935751"
+    },
+    {
+      "name": "Majestic Lanes Snack Shop",
+      "distance": "1.0 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Majestic%20Lanes%20Snack%20Shop&query_place_id=ChIJKX_pMe61w4kRisBpAxkDIvE&center=40.5323728,-74.29687249999999"
+    },
+    {
+      "name": "Dunkin’",
+      "distance": "1.1 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Dunkin%E2%80%99&query_place_id=ChIJsXAbTUa1w4kRNNdnmpfRcbY&center=40.5625315,-74.2991284"
+    },
+    {
+      "name": "Wendy's",
+      "distance": "1.2 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Wendy's&query_place_id=ChIJ032lEgu1w4kRz7S1_LPc2lE&center=40.563486,-74.2996158"
     }
   ],
   "coffee": [
@@ -56,6 +76,21 @@
       "name": "Dunkin'",
       "distance": "0.7 mi",
       "url": "https://www.google.com/maps/search/?api=1&query=Dunkin'&query_place_id=ChIJN5KD1c21w4kReOTnJ8nwNT0&center=40.5561315,-74.29706259999999"
+    },
+    {
+      "name": "Wawa",
+      "distance": "0.7 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Wawa&query_place_id=ChIJGSi83kDOw4kRsmF7RmJsy30&center=40.5361827,-74.2973928"
+    },
+    {
+      "name": "McDonald's",
+      "distance": "0.8 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=McDonald's&query_place_id=ChIJZaeNM-m1w4kRs7VNYKjH6dk&center=40.53634230000001,-74.29576879999999"
+    },
+    {
+      "name": "Dunkin’",
+      "distance": "1.1 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Dunkin%E2%80%99&query_place_id=ChIJsXAbTUa1w4kRNNdnmpfRcbY&center=40.5625315,-74.2991284"
     }
   ],
   "team_lunch": [
@@ -75,11 +110,6 @@
       "url": "https://www.google.com/maps/search/?api=1&query=Roman%20Delight%20Pizza&query_place_id=ChIJj62Mbc61w4kRg8dvos8fthE&center=40.5561408,-74.29831879999999"
     },
     {
-      "name": "Applebee's Grill + Bar",
-      "distance": "0.7 mi",
-      "url": "https://www.google.com/maps/search/?api=1&query=Applebee's%20Grill%20%2B%20Bar&query_place_id=ChIJS-V14dG1w4kRxED21qsPuYI&center=40.556658899999995,-74.3000797"
-    },
-    {
       "name": "Crosswinds Restaurant",
       "distance": "0.7 mi",
       "url": "https://www.google.com/maps/search/?api=1&query=Crosswinds%20Restaurant&query_place_id=ChIJJ_7Z9kPnj4ARO8aLEQG2ajI&center=40.5565795,-74.29902489999999"
@@ -88,6 +118,31 @@
       "name": "Halal Eatz",
       "distance": "0.7 mi",
       "url": "https://www.google.com/maps/search/?api=1&query=Halal%20Eatz&query_place_id=ChIJ3-7rioC1w4kRh7svPC5PUQs&center=40.5565795,-74.29902489999999"
+    },
+    {
+      "name": "Charleys Cheesesteaks",
+      "distance": "0.7 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Charleys%20Cheesesteaks&query_place_id=ChIJIWaHHM61w4kRd3I0r5w6zcM&center=40.556138399999995,-74.2970392"
+    },
+    {
+      "name": "Cinnabon",
+      "distance": "0.7 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Cinnabon&query_place_id=ChIJhdESKNC1w4kR-LPQdrzCkVU&center=40.5568303,-74.3001681"
+    },
+    {
+      "name": "Auntie Anne's",
+      "distance": "0.7 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Auntie%20Anne's&query_place_id=ChIJhdESKNC1w4kRzvsC_czex4g&center=40.5569582,-74.300129"
+    },
+    {
+      "name": "Auntie Anne's",
+      "distance": "0.9 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Auntie%20Anne's&query_place_id=ChIJhSbkNKy1w4kRdZvlwOADRzI&center=40.5352307,-74.2942437"
+    },
+    {
+      "name": "Fast Bagel - Woodbridge",
+      "distance": "1.1 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Fast%20Bagel%20-%20Woodbridge&query_place_id=ChIJ81NFiwm3w4kR6Am7H-zvOks&center=40.5502125,-74.32277479999999"
     }
   ],
   "dinner": [

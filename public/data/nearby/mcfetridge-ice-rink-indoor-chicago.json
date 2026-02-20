@@ -24,6 +24,31 @@
       "name": "Chicago’s Red Hots",
       "distance": "0.4 mi",
       "url": "https://www.google.com/maps/search/?api=1&query=Chicago%E2%80%99s%20Red%20Hots&query_place_id=ChIJD706XgDTD4gRg67yyCgn5pk&center=41.9576232,-87.69748179999999"
+    },
+    {
+      "name": "Potbelly",
+      "distance": "0.5 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Potbelly&query_place_id=ChIJkRslPXDSD4gR8aSw3urHoZ0&center=41.948437899999995,-87.6885897"
+    },
+    {
+      "name": "Jersey Mike's Subs",
+      "distance": "0.5 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Jersey%20Mike's%20Subs&query_place_id=ChIJ_TBYU_zTD4gRv-F0VvIhUkw&center=41.9478307,-87.6886572"
+    },
+    {
+      "name": "Emma's Frutas",
+      "distance": "0.5 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Emma's%20Frutas&query_place_id=ChIJnVUU0IjND4gRg5NqPSpEgY0&center=41.959441999999996,-87.6982352"
+    },
+    {
+      "name": "Wendy's",
+      "distance": "0.6 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Wendy's&query_place_id=ChIJDSv2FnDSD4gRrgb591jD_8A&center=41.947161099999995,-87.68857919999999"
+    },
+    {
+      "name": "Subway",
+      "distance": "0.6 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Subway&query_place_id=ChIJqz0tGHDSD4gRHT8u0D1rLts&center=41.946995,-87.68780129999999"
     }
   ],
   "coffee": [
@@ -33,9 +58,9 @@
       "url": "https://www.google.com/maps/search/?api=1&query=Mima's%20Taste%20Of%20Cuba&query_place_id=ChIJ9UP2B1LOD4gR0RKe-hqxR3o&center=41.9537291,-87.7017075"
     },
     {
-      "name": "ClimbZone Chicago",
-      "distance": "0.3 mi",
-      "url": "https://www.google.com/maps/search/?api=1&query=ClimbZone%20Chicago&query_place_id=ChIJ7RWfavfTD4gR689_KGnj-QQ&center=41.9501539,-87.69231769999999"
+      "name": "McDonald's",
+      "distance": "0.4 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=McDonald's&query_place_id=ChIJGb5ZQ3fSD4gR0t71F5fGGHI&center=41.946968999999996,-87.693607"
     }
   ],
   "team_lunch": [

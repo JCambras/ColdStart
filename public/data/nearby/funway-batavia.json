@@ -29,6 +29,26 @@
       "name": "Wendy's",
       "distance": "1.9 mi",
       "url": "https://www.google.com/maps/search/?api=1&query=Wendy's&query_place_id=ChIJywBqIj_jDogRggLA2vSqNss&center=41.8502795,-88.3396348"
+    },
+    {
+      "name": "Sonic Drive-In",
+      "distance": "2.0 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Sonic%20Drive-In&query_place_id=ChIJbxHOWZn7DogRP6-0jSAmFzo&center=41.8161135,-88.2804901"
+    },
+    {
+      "name": "Wendy's",
+      "distance": "2.0 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Wendy's&query_place_id=ChIJF8y7GVr7DogR1PEagP_D_-Q&center=41.815592099999996,-88.2804089"
+    },
+    {
+      "name": "Jersey Mike's Subs",
+      "distance": "2.0 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Jersey%20Mike's%20Subs&query_place_id=ChIJ2zDI6KL7DogRkfFASqCqL3Q&center=41.8148637,-88.28034459999999"
+    },
+    {
+      "name": "Subway",
+      "distance": "2.0 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Subway&query_place_id=ChIJdTKtEz_jDogR7yKcoEi9ngE&center=41.8494093,-88.34248319999999"
     }
   ],
   "coffee": [
@@ -43,9 +63,19 @@
       "url": "https://www.google.com/maps/search/?api=1&query=Limestone%20Coffee%20%26%20Tea&query_place_id=ChIJNe0Is8H8DogRmRWEXySaaW8&center=41.8498849,-88.3079341"
     },
     {
+      "name": "McDonald's",
+      "distance": "1.0 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=McDonald's&query_place_id=ChIJJdxULMH8DogRp1iuvM0V-H8&center=41.8504193,-88.3092535"
+    },
+    {
       "name": "Dimples Donuts",
       "distance": "1.3 mi",
       "url": "https://www.google.com/maps/search/?api=1&query=Dimples%20Donuts&query_place_id=ChIJJWpb_-r8DogRvgpHEpeXnQg&center=41.8516895,-88.2916981"
+    },
+    {
+      "name": "McDonald's",
+      "distance": "2.2 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=McDonald's&query_place_id=ChIJ04FIJJz7DogRgqJb6nZN0Qk&center=41.812553,-88.2786548"
     }
   ],
   "team_lunch": [
@@ -68,6 +98,11 @@
       "name": "Lucky Joe's",
       "distance": "1.0 mi",
       "url": "https://www.google.com/maps/search/?api=1&query=Lucky%20Joe's&query_place_id=ChIJlaJpIQD9DogRjPq9yYuaGlc&center=41.8496842,-88.3127751"
+    },
+    {
+      "name": "Walmart Bakery",
+      "distance": "1.9 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Walmart%20Bakery&query_place_id=ChIJG4N7Bp37DogR2CpQOs8Ve0c&center=41.8152794,-88.2830872"
     }
   ],
   "dinner": [

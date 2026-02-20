@@ -11,6 +11,11 @@
       "url": "https://www.google.com/maps/search/?api=1&query=Subway&query_place_id=ChIJrcF5cyQtDogRRK41cyroB9M&center=41.8812739,-87.6651215"
     },
     {
+      "name": "Dunkin'",
+      "distance": "0.2 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Dunkin'&query_place_id=ChIJz4w3gSQtDogRIpZWDUCknLE&center=41.8813317,-87.6652186"
+    },
+    {
       "name": "Maxwells",
       "distance": "0.3 mi",
       "url": "https://www.google.com/maps/search/?api=1&query=Maxwells&query_place_id=ChIJMdIQCQAtDogRQGW7-Hqhma8&center=41.8831841,-87.6673017"
@@ -56,6 +61,31 @@
       "name": "Stan's Donuts & Coffee",
       "distance": "0.3 mi",
       "url": "https://www.google.com/maps/search/?api=1&query=Stan's%20Donuts%20%26%20Coffee&query_place_id=ChIJDX9e5ictDogRw03crW7R5Pw&center=41.8850383,-87.6591117"
+    },
+    {
+      "name": "McDonald's",
+      "distance": "0.3 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=McDonald's&query_place_id=ChIJZay3GCYtDogRPVf-ERj2CpU&center=41.8857455,-87.66201149999999"
+    },
+    {
+      "name": "McDonald's - Corporate Office",
+      "distance": "0.4 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=McDonald's%20-%20Corporate%20Office&query_place_id=ChIJ8Qf_zjAtDogR8srMLQw9iZg&center=41.8835943,-87.6536048"
+    },
+    {
+      "name": "McDonald's",
+      "distance": "0.5 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=McDonald's&query_place_id=ChIJMbh4gdksDogRIJap-Eb3PWY&center=41.883820799999995,-87.6535796"
+    },
+    {
+      "name": "Tilly Bagel Shop",
+      "distance": "0.5 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Tilly%20Bagel%20Shop&query_place_id=ChIJYXPOzJctDogRatJBBhblmO8&center=41.885934,-87.65481559999999"
+    },
+    {
+      "name": "Au Bon Pain",
+      "distance": "0.6 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Au%20Bon%20Pain&query_place_id=ChIJna1yYT0tDogRqmdWRZhh8kk&center=41.8764519,-87.6702674"
     }
   ],
   "team_lunch": [
@@ -63,16 +93,6 @@
       "name": "800 Investments Holding LLC",
       "distance": "0.1 mi",
       "url": "https://www.google.com/maps/search/?api=1&query=800%20Investments%20Holding%20LLC&query_place_id=ChIJa7oKq7YtDogRn-BPYcLGl9I&center=41.882678999999996,-87.6601654"
-    },
-    {
-      "name": "La Cuchara",
-      "distance": "0.2 mi",
-      "url": "https://www.google.com/maps/search/?api=1&query=La%20Cuchara&query_place_id=ChIJa-D8cyQtDogRlWOfgnLTKPI&center=41.8813603,-87.6653027"
-    },
-    {
-      "name": "Expat",
-      "distance": "0.2 mi",
-      "url": "https://www.google.com/maps/search/?api=1&query=Expat&query_place_id=ChIJ_yw7ZwAtDogRHE_JTpqrwIg&center=41.884508100000005,-87.6627103"
     },
     {
       "name": "Trabjo",

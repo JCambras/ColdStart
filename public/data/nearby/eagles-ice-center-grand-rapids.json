@@ -1,63 +1,103 @@
 {
   "quick_bite": [
     {
-      "name": "Buffalo Wild Wings",
-      "distance": "0.3 mi",
-      "url": "https://www.google.com/maps/search/Buffalo%20Wild%20Wings+near+42.917707799999995%2C-85.6199647"
-    },
-    {
       "name": "BWW GR1",
       "distance": "0.3 mi",
-      "url": "https://www.google.com/maps/search/BWW%20GR1+near+42.917707799999995%2C-85.6199647"
+      "url": "https://www.google.com/maps/search/?api=1&query=BWW%20GR1&query_place_id=ChIJ22KI0sayGYgR_m3qtjUrz1I&center=42.9133895,-85.61763789999999"
     },
     {
       "name": "Madras Indian Grill",
       "distance": "0.4 mi",
-      "url": "https://www.google.com/maps/search/Madras%20Indian%20Grill+near+42.917707799999995%2C-85.6199647"
+      "url": "https://www.google.com/maps/search/?api=1&query=Madras%20Indian%20Grill&query_place_id=ChIJ7Z-9Zo-zGYgROMiPNn0UHn8&center=42.9121642,-85.61718200000001"
     },
     {
       "name": "Papa Chops Eatery",
       "distance": "0.6 mi",
-      "url": "https://www.google.com/maps/search/Papa%20Chops%20Eatery+near+42.917707799999995%2C-85.6199647"
+      "url": "https://www.google.com/maps/search/?api=1&query=Papa%20Chops%20Eatery&query_place_id=ChIJJ2imMJyzGYgR9epAv6uxh2U&center=42.912096,-85.6116536"
     },
     {
       "name": "Wendy's",
       "distance": "0.6 mi",
-      "url": "https://www.google.com/maps/search/Wendy's+near+42.917707799999995%2C-85.6199647"
+      "url": "https://www.google.com/maps/search/?api=1&query=Wendy's&query_place_id=ChIJ00wmGsmyGYgRo2cuyCqoQWE&center=42.913033999999996,-85.6092748"
     },
     {
       "name": "Subway",
       "distance": "0.6 mi",
-      "url": "https://www.google.com/maps/search/Subway+near+42.917707799999995%2C-85.6199647"
+      "url": "https://www.google.com/maps/search/?api=1&query=Subway&query_place_id=ChIJW0gXmO6yGYgRrVqLr2JATPo&center=42.911305999999996,-85.6288572"
     },
     {
       "name": "Subway",
       "distance": "0.7 mi",
-      "url": "https://www.google.com/maps/search/Subway+near+42.917707799999995%2C-85.6199647"
+      "url": "https://www.google.com/maps/search/?api=1&query=Subway&query_place_id=ChIJdXFfFMmyGYgRuooEBzW8YrY&center=42.9129906,-85.6087718"
+    },
+    {
+      "name": "Popeyes Louisiana Kitchen",
+      "distance": "0.8 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Popeyes%20Louisiana%20Kitchen&query_place_id=ChIJ84cmv5ezGYgRcDrizey9nws&center=42.9122239,-85.6059824"
+    },
+    {
+      "name": "Grand Indian Cuisine | Best Indian Restaurant in Grand Rapids, MI",
+      "distance": "0.9 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Grand%20Indian%20Cuisine%20%7C%20Best%20Indian%20Restaurant%20in%20Grand%20Rapids%2C%20MI&query_place_id=ChIJl9iR3DezGYgREKua-V5vbUQ&center=42.9123002,-85.6351456"
+    },
+    {
+      "name": "Blimpie",
+      "distance": "1.1 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Blimpie&query_place_id=ChIJH5ncM6myGYgRiuP4nfiRNgc&center=42.9306804,-85.608791"
+    },
+    {
+      "name": "Taqueria Mr. Chicken",
+      "distance": "1.2 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Taqueria%20Mr.%20Chicken&query_place_id=ChIJ77PIlzuzGYgRWf5-131AEog&center=42.9270371,-85.6396062"
     }
   ],
   "coffee": [
     {
       "name": "Samboosa Bell",
       "distance": "0.9 mi",
-      "url": "https://www.google.com/maps/search/Samboosa%20Bell+near+42.917707799999995%2C-85.6199647"
+      "url": "https://www.google.com/maps/search/?api=1&query=Samboosa%20Bell&query_place_id=ChIJ8UBkTA-zGYgRHTG-OdIWR3Y&center=42.9221761,-85.6362552"
+    },
+    {
+      "name": "McDonald's",
+      "distance": "1.2 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=McDonald's&query_place_id=ChIJYTs-GDRNGIgRzcsIdqqpDNg&center=42.9118178,-85.5977776"
     }
   ],
   "team_lunch": [
     {
       "name": "Meijer Bakery",
       "distance": "0.7 mi",
-      "url": "https://www.google.com/maps/search/Meijer%20Bakery+near+42.917707799999995%2C-85.6199647"
+      "url": "https://www.google.com/maps/search/?api=1&query=Meijer%20Bakery&query_place_id=ChIJ_01kch2zGYgR36u9s_MZNg8&center=42.9109047,-85.62919409999999"
     },
     {
       "name": "Palermo Pizza",
       "distance": "0.7 mi",
-      "url": "https://www.google.com/maps/search/Palermo%20Pizza+near+42.917707799999995%2C-85.6199647"
+      "url": "https://www.google.com/maps/search/?api=1&query=Palermo%20Pizza&query_place_id=ChIJc1fIm86yGYgRmDuz5LdRbv8&center=42.9113836,-85.6092713"
     },
     {
       "name": "CoreLife Eatery",
       "distance": "0.9 mi",
-      "url": "https://www.google.com/maps/search/CoreLife%20Eatery+near+42.917707799999995%2C-85.6199647"
+      "url": "https://www.google.com/maps/search/?api=1&query=CoreLife%20Eatery&query_place_id=ChIJoe5bq6CzGYgR60hysEhB5RI&center=42.927372399999996,-85.60798799999999"
+    },
+    {
+      "name": "Donut Dohjo",
+      "distance": "1.0 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Donut%20Dohjo&query_place_id=ChIJsQOcAACzGYgRKXp2g7yBRSQ&center=42.9294862,-85.6079584"
+    },
+    {
+      "name": "Ashirvad Bakery Help Corporation",
+      "distance": "1.3 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Ashirvad%20Bakery%20Help%20Corporation&query_place_id=ChIJJy-JNQizGYgRCf6dQ7x-97E&center=42.9012861,-85.60735220000001"
+    },
+    {
+      "name": "Whole Foods Bakery",
+      "distance": "1.5 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Whole%20Foods%20Bakery&query_place_id=ChIJl7rQWABNGIgRYB3zvJj3oKE&center=42.9110897,-85.5923323"
+    },
+    {
+      "name": "Auntie Anne's",
+      "distance": "1.6 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Auntie%20Anne's&query_place_id=ChIJBRlLGTlNGIgREnZMSG5-VWI&center=42.9169844,-85.5887111"
     }
   ],
   "dinner": [

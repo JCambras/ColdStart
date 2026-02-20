@@ -19,6 +19,36 @@
       "name": "Chipotle Mexican Grill",
       "distance": "1.3 mi",
       "url": "https://www.google.com/maps/search/?api=1&query=Chipotle%20Mexican%20Grill&query_place_id=ChIJxcbfKQA36IkRDuEKYEZa9kM&center=40.8014219,-73.17615669999999"
+    },
+    {
+      "name": "Dunkin'",
+      "distance": "1.3 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Dunkin'&query_place_id=ChIJLSxbuOk36IkR0wM9QChZqlY&center=40.7995744,-73.17446369999999"
+    },
+    {
+      "name": "La Slice Pizzeria",
+      "distance": "1.4 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=La%20Slice%20Pizzeria&query_place_id=ChIJ2VLJyS036IkRAF-N15fnk5w&center=40.8010095,-73.17942930000001"
+    },
+    {
+      "name": "Subway",
+      "distance": "1.4 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Subway&query_place_id=ChIJcz1GUec56IkRDNSEdUTHmg4&center=40.8370208,-73.1565861"
+    },
+    {
+      "name": "Burger King",
+      "distance": "1.5 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Burger%20King&query_place_id=ChIJm26F0N0x6IkR-eftlGaNIFA&center=40.808254399999996,-73.19277869999999"
+    },
+    {
+      "name": "YoYo Chicken",
+      "distance": "1.6 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=YoYo%20Chicken&query_place_id=ChIJJSgxmMc56IkRxtVvwWsaOpg&center=40.8406427,-73.16651399999999"
+    },
+    {
+      "name": "Chick-fil-A",
+      "distance": "1.8 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Chick-fil-A&query_place_id=ChIJK9HXAxQx6IkRn-Fp3gKE7Ko&center=40.8316628,-73.19642499999999"
     }
   ],
   "coffee": [
@@ -40,12 +70,27 @@
     {
       "name": "Dunkin'",
       "distance": "1.3 mi",
-      "url": "https://www.google.com/maps/search/?api=1&query=Dunkin'&query_place_id=ChIJLSxbuOk36IkR0wM9QChZqlY&center=40.799568699999995,-73.1745632"
+      "url": "https://www.google.com/maps/search/?api=1&query=Dunkin'&query_place_id=ChIJLSxbuOk36IkR0wM9QChZqlY&center=40.7995744,-73.17446369999999"
     },
     {
       "name": "Graci Gourmet Market, Inc.",
       "distance": "1.4 mi",
       "url": "https://www.google.com/maps/search/?api=1&query=Graci%20Gourmet%20Market%2C%20Inc.&query_place_id=ChIJC15xq5cx6IkRCzibQXi5KlI&center=40.8079168,-73.1888896"
+    },
+    {
+      "name": "McDonald's",
+      "distance": "1.4 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=McDonald's&query_place_id=ChIJ8cIOdyw36IkRlabYS1c2uGs&center=40.8004703,-73.17866269999999"
+    },
+    {
+      "name": "Frankie's Cookies",
+      "distance": "1.9 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Frankie's%20Cookies&query_place_id=ChIJPVXkTEwx6IkRygDef-xzInQ&center=40.8188126,-73.202079"
+    },
+    {
+      "name": "Duck Donuts",
+      "distance": "2.3 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Duck%20Donuts&query_place_id=ChIJPaYx8ysx6IkREMKjMZrUiIM&center=40.8228873,-73.2095619"
     }
   ],
   "team_lunch": [

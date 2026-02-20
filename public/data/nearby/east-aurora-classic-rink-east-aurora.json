@@ -16,14 +16,20 @@
       "url": "https://www.google.com/maps/search/?api=1&query=Babcia's%20Pierogi&query_place_id=ChIJ23VhqTqn04kRtXhAXdMpFPk&center=42.7670108,-78.6116061"
     },
     {
-      "name": "Rick's On Main",
-      "distance": "0.2 mi",
-      "url": "https://www.google.com/maps/search/?api=1&query=Rick's%20On%20Main&query_place_id=ChIJCW0a-yym04kRvTHApSoMzyA&center=42.767595299999996,-78.60923009999999"
+      "name": "Pizza Del Aureo's",
+      "distance": "0.3 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Pizza%20Del%20Aureo's&query_place_id=ChIJQ1qppdSn04kRUW_SKMX3O6w&center=42.7654563,-78.61211349999999"
     },
     {
-      "name": "Left Coast Taco",
-      "distance": "0.2 mi",
-      "url": "https://www.google.com/maps/search/?api=1&query=Left%20Coast%20Taco&query_place_id=ChIJ0xaEUyum04kR9BrGcX4h-kw&center=42.766444299999996,-78.6108727"
+      "name": "Jersey Mike's Subs",
+      "distance": "0.8 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Jersey%20Mike's%20Subs&query_place_id=ChIJh2A02_2n04kR9teJEVWNpcg&center=42.7685538,-78.6285317"
+    },
+    {
+      "name": "Subway",
+      "distance": "4.7 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Subway&query_place_id=ChIJdwi8DEmn04kRQ85Y2Zt-g2I&center=42.8348423,-78.6374414",
+      "isFar": true
     }
   ],
   "coffee": [
@@ -36,6 +42,11 @@
       "name": "Blue Violet Floral Studio",
       "distance": "0.4 mi",
       "url": "https://www.google.com/maps/search/?api=1&query=Blue%20Violet%20Floral%20Studio&query_place_id=ChIJ8SXFu0in04kRpv1-0UJsu_Q&center=42.7682373,-78.61963659999999"
+    },
+    {
+      "name": "McDonald's",
+      "distance": "0.9 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=McDonald's&query_place_id=ChIJpR-MHNyn04kRt0xZfLSmcUA&center=42.7676886,-78.6298504"
     }
   ],
   "team_lunch": [

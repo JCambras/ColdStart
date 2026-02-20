@@ -6,12 +6,27 @@
       "url": "https://www.google.com/maps/search/?api=1&query=Subway&query_place_id=ChIJDeT750xn4YkRTwvVJcI0pX0&center=42.6810712,-72.04761529999999"
     },
     {
+      "name": "Dunkin'",
+      "distance": "0.8 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Dunkin'&query_place_id=ChIJzY1q5Exn4YkR7HmVJ3j31bs&center=42.681076399999995,-72.0481715"
+    },
+    {
       "name": "Gabby's Pizza",
       "distance": "1.0 mi",
       "url": "https://www.google.com/maps/search/?api=1&query=Gabby's%20Pizza&query_place_id=ChIJUfBPpeRg4YkRiSb809RCmis&center=42.6858631,-72.04438979999999"
+    },
+    {
+      "name": "Dunkin'",
+      "distance": "2.8 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Dunkin'&query_place_id=ChIJxwtqmTVe4YkRO_3HhdfeYkw&center=42.640472900000006,-72.0048202"
     }
   ],
   "coffee": [
+    {
+      "name": "McDonald's",
+      "distance": "0.5 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=McDonald's&query_place_id=ChIJVRreoLFg4YkRDSUWgU8IPlE&center=42.678812199999996,-72.0391586"
+    },
     {
       "name": "The Sunshine Café",
       "distance": "0.8 mi",

@@ -3,42 +3,78 @@
     {
       "name": "KFC",
       "distance": "0.5 mi",
-      "url": "https://www.google.com/maps/search/KFC+near+42.388467%2C-83.37679949999999"
+      "url": "https://www.google.com/maps/search/?api=1&query=KFC&query_place_id=ChIJT5Af0hizJIgRMD6_SjB45qE&center=42.381410699999996,-83.3733938"
     },
     {
       "name": "David's New York Deli",
       "distance": "0.6 mi",
-      "url": "https://www.google.com/maps/search/David's%20New%20York%20Deli+near+42.388467%2C-83.37679949999999"
+      "url": "https://www.google.com/maps/search/?api=1&query=David's%20New%20York%20Deli&query_place_id=ChIJu39gKgGzJIgRr9PUxLBaixI&center=42.3963714,-83.37380069999999"
     },
     {
       "name": "Bates Burgers",
       "distance": "0.6 mi",
-      "url": "https://www.google.com/maps/search/Bates%20Burgers+near+42.388467%2C-83.37679949999999"
+      "url": "https://www.google.com/maps/search/?api=1&query=Bates%20Burgers&query_place_id=ChIJA9KNywCzJIgRYg3oAunXOC4&center=42.397413199999995,-83.3738738"
     },
     {
       "name": "Tony Boloney's Submarines and Pizza",
       "distance": "1.3 mi",
-      "url": "https://www.google.com/maps/search/Tony%20Boloney's%20Submarines%20and%20Pizza+near+42.388467%2C-83.37679949999999"
+      "url": "https://www.google.com/maps/search/?api=1&query=Tony%20Boloney's%20Submarines%20and%20Pizza&query_place_id=ChIJI1-7GmyzJIgRfEINQEmenI4&center=42.384088999999996,-83.353022"
+    },
+    {
+      "name": "Tim Hortons",
+      "distance": "1.4 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Tim%20Hortons&query_place_id=ChIJ07l_HZ6zJIgRWoeX4My3Frs&center=42.398041,-83.3532603"
+    },
+    {
+      "name": "Tim Hortons",
+      "distance": "1.4 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Tim%20Hortons&query_place_id=ChIJizQCUC-zJIgRgLW6jkDRjJ0&center=42.3687056,-83.37330229999999"
     },
     {
       "name": "Pita Way - Livonia Mediterranean",
       "distance": "1.4 mi",
-      "url": "https://www.google.com/maps/search/Pita%20Way%20-%20Livonia%20Mediterranean+near+42.388467%2C-83.37679949999999"
+      "url": "https://www.google.com/maps/search/?api=1&query=Pita%20Way%20-%20Livonia%20Mediterranean&query_place_id=ChIJoeJt8BmzJIgRpnNSQBcV8fM&center=42.3689989,-83.37029"
+    },
+    {
+      "name": "Wendy's",
+      "distance": "1.4 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Wendy's&query_place_id=ChIJD4MhEdeyJIgR_Emi9y3lhsY&center=42.3686631,-83.3825719"
+    },
+    {
+      "name": "Wendy's",
+      "distance": "1.4 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Wendy's&query_place_id=ChIJAfv0Bp6zJIgR3Ina3fhD4fk&center=42.398106,-83.3524896"
+    },
+    {
+      "name": "Dairy Queen Grill & Chill",
+      "distance": "1.5 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Dairy%20Queen%20Grill%20%26%20Chill&query_place_id=ChIJpa6u3GmzJIgR-b_vfbt3mWQ&center=42.367878,-83.3710686"
     }
   ],
   "coffee": [
     {
       "name": "Tim Hortons",
       "distance": "1.4 mi",
-      "url": "https://www.google.com/maps/search/Tim%20Hortons+near+42.388467%2C-83.37679949999999"
+      "url": "https://www.google.com/maps/search/?api=1&query=Tim%20Hortons&query_place_id=ChIJ07l_HZ6zJIgRWoeX4My3Frs&center=42.398041,-83.3532603"
     },
     {
       "name": "Tim Hortons",
       "distance": "1.4 mi",
-      "url": "https://www.google.com/maps/search/Tim%20Hortons+near+42.388467%2C-83.37679949999999"
+      "url": "https://www.google.com/maps/search/?api=1&query=Tim%20Hortons&query_place_id=ChIJizQCUC-zJIgRgLW6jkDRjJ0&center=42.3687056,-83.37330229999999"
     }
   ],
-  "team_lunch": [],
+  "team_lunch": [
+    {
+      "name": "Red Olive Restaurant - Livonia",
+      "distance": "1.4 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Red%20Olive%20Restaurant%20-%20Livonia&query_place_id=ChIJc00MlC-zJIgRZIvKO9O9j2g&center=42.368894000000004,-83.370646"
+    },
+    {
+      "name": "Tubby's Sub Shop",
+      "distance": "1.4 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Tubby's%20Sub%20Shop&query_place_id=ChIJ9cVHqqezJIgR_hcU7uVk4cc&center=42.36871800000001,-83.3845123"
+    }
+  ],
   "dinner": [
     {
       "name": "The Looney Baker",

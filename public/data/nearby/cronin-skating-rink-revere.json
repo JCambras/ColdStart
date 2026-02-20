@@ -1,14 +1,19 @@
 {
   "quick_bite": [
     {
+      "name": "Dunkin'",
+      "distance": "0.2 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Dunkin'&query_place_id=ChIJFcS7ef1x44kRssM6gSdYqbE&center=42.4057682,-71.0149174"
+    },
+    {
       "name": "It's Just Wings",
       "distance": "0.3 mi",
       "url": "https://www.google.com/maps/search/?api=1&query=It's%20Just%20Wings&query_place_id=ChIJa3nNR0Vx44kRVIxtbZK4YDI&center=42.404043,-71.021928"
     },
     {
-      "name": "The Brown Jug",
+      "name": "Dunkin'",
       "distance": "0.3 mi",
-      "url": "https://www.google.com/maps/search/?api=1&query=The%20Brown%20Jug&query_place_id=ChIJBflBh5Vx44kRomKyT2EJIr8&center=42.403190099999996,-71.0229607"
+      "url": "https://www.google.com/maps/search/?api=1&query=Dunkin'&query_place_id=ChIJCyLpocFx44kRBE8PruIzsOQ&center=42.4007983,-71.0215472"
     },
     {
       "name": "Auto Grill @ A.L. Prime",
@@ -29,6 +34,21 @@
       "name": "Dulce Sophia",
       "distance": "0.7 mi",
       "url": "https://www.google.com/maps/search/?api=1&query=Dulce%20Sophia&query_place_id=ChIJSed5adlx44kRiUsfihL9NIE&center=42.403766399999995,-71.0024272"
+    },
+    {
+      "name": "Los Quesudos de Chucho",
+      "distance": "0.7 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Los%20Quesudos%20de%20Chucho&query_place_id=ChIJoW35IwBx44kRqWSpYx7_F3E&center=42.396373399999995,-71.0273801"
+    },
+    {
+      "name": "Wendy's",
+      "distance": "0.9 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Wendy's&query_place_id=ChIJg41fdh9u44kRaaqXwkY93FQ&center=42.398398400000005,-70.9998382"
+    },
+    {
+      "name": "Subway",
+      "distance": "0.9 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Subway&query_place_id=ChIJK0kNr_tx44kRHEgF_ytvUys&center=42.409993799999995,-71.000945"
     }
   ],
   "coffee": [
@@ -41,6 +61,11 @@
       "name": "Dunkin'",
       "distance": "0.3 mi",
       "url": "https://www.google.com/maps/search/?api=1&query=Dunkin'&query_place_id=ChIJCyLpocFx44kRBE8PruIzsOQ&center=42.4007983,-71.0215472"
+    },
+    {
+      "name": "McDonald's",
+      "distance": "0.4 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=McDonald's&query_place_id=ChIJmx7ggJVx44kRy2NEvLk4DVc&center=42.4036887,-71.02336919999999"
     }
   ],
   "team_lunch": [
@@ -60,11 +85,6 @@
       "url": "https://www.google.com/maps/search/?api=1&query=Bobby%20Jr.%20Burgers&query_place_id=ChIJNeO8uMxx44kR7XJLQDDn_Sc&center=42.4060438,-71.0149031"
     },
     {
-      "name": "Chili's Grill & Bar",
-      "distance": "0.3 mi",
-      "url": "https://www.google.com/maps/search/?api=1&query=Chili's%20Grill%20%26%20Bar&query_place_id=ChIJH9zIcZVx44kRVGhctaSQVR8&center=42.404043,-71.021928"
-    },
-    {
       "name": "El Pulgarcito Bakery",
       "distance": "0.4 mi",
       "url": "https://www.google.com/maps/search/?api=1&query=El%20Pulgarcito%20Bakery&query_place_id=ChIJn168EMFx44kRmmgsSF-oUQI&center=42.3999461,-71.0222428"
@@ -73,6 +93,21 @@
       "name": "Super Bakery",
       "distance": "0.4 mi",
       "url": "https://www.google.com/maps/search/?api=1&query=Super%20Bakery&query_place_id=ChIJSX_NEMFx44kRQx9vhvR4qOo&center=42.3999461,-71.0222428"
+    },
+    {
+      "name": "Los Hornitos Bakery",
+      "distance": "0.5 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Los%20Hornitos%20Bakery&query_place_id=ChIJb_P5Z4hx44kRyTmNSKsAc_I&center=42.4099236,-71.0127071"
+    },
+    {
+      "name": "JSB Industries Inc",
+      "distance": "0.7 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=JSB%20Industries%20Inc&query_place_id=ChIJIS16hcdx44kREPKGsYryq3g&center=42.396054899999996,-71.0252922"
+    },
+    {
+      "name": "Cakes & Beyond By Dawn",
+      "distance": "0.8 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Cakes%20%26%20Beyond%20By%20Dawn&query_place_id=ChIJJUN8Trtx44kRuGyq7Moko_c&center=42.412360899999996,-71.02691130000001"
     }
   ],
   "dinner": [

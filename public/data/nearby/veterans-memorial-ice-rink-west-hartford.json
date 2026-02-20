@@ -6,9 +6,9 @@
       "url": "https://www.google.com/maps/search/?api=1&query=PICK%20%26%20MIX%20%7C%20West%20Hartford&query_place_id=ChIJIxLrqlGs54kR-N4KCZ5muNg&center=41.755176299999995,-72.766306"
     },
     {
-      "name": "Max Burger",
-      "distance": "1.4 mi",
-      "url": "https://www.google.com/maps/search/?api=1&query=Max%20Burger&query_place_id=ChIJOWQHEO6s54kRaN8aromAIE0&center=41.758650300000006,-72.7441585"
+      "name": "Dunkin'",
+      "distance": "0.4 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Dunkin'&query_place_id=ChIJIxLrqlGs54kRMNyPBJUi_cs&center=41.7552485,-72.7660416"
     },
     {
       "name": "Marbles Café",
@@ -56,6 +56,31 @@
       "name": "Bruegger's Bagels",
       "distance": "1.5 mi",
       "url": "https://www.google.com/maps/search/?api=1&query=Bruegger's%20Bagels&query_place_id=ChIJOZ9T4eys54kRhUYFmy6GVrU&center=41.761705299999996,-72.74244949999999"
+    },
+    {
+      "name": "Pink Petal Bakery & Cafe",
+      "distance": "1.9 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Pink%20Petal%20Bakery%20%26%20Cafe&query_place_id=ChIJa90sX3at54kRPpog7p3RiN0&center=41.7229812,-72.763282"
+    },
+    {
+      "name": "Paris Baguette",
+      "distance": "1.9 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Paris%20Baguette&query_place_id=ChIJNbJofgCt54kR0361uzhX548&center=41.7235903,-72.7577021"
+    },
+    {
+      "name": "Taste by Spellbound",
+      "distance": "2.1 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Taste%20by%20Spellbound&query_place_id=ChIJ-Uo_qn-t54kRiVuigThcIEM&center=41.7330251,-72.735052"
+    },
+    {
+      "name": "Elmwood Pastry Shop",
+      "distance": "2.2 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Elmwood%20Pastry%20Shop&query_place_id=ChIJJ1Q6Uj2t54kRomDCN7tKkCI&center=41.7333007,-72.73296119999999"
+    },
+    {
+      "name": "McDonald's",
+      "distance": "2.4 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=McDonald's&query_place_id=ChIJmzP9wWKx54kRwsMfR7EVn4E&center=41.715661,-72.762592"
     }
   ],
   "team_lunch": [
@@ -88,6 +113,21 @@
       "name": "Cinnabon",
       "distance": "1.8 mi",
       "url": "https://www.google.com/maps/search/?api=1&query=Cinnabon&query_place_id=ChIJ4ROouFmt54kRoP0ng78A2lM&center=41.7240599,-72.7625833"
+    },
+    {
+      "name": "Auntie Anne's",
+      "distance": "1.9 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Auntie%20Anne's&query_place_id=ChIJF1Ehu56t54kRm_Ts-CDx-JE&center=41.7231715,-72.7630492"
+    },
+    {
+      "name": "Goldberg's Bagels",
+      "distance": "2.2 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Goldberg's%20Bagels&query_place_id=ChIJ21whUj2t54kRlRjXOAcvYEE&center=41.732575,-72.7326667"
+    },
+    {
+      "name": "The Sourdough Summit Cottage Bakery",
+      "distance": "2.4 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=The%20Sourdough%20Summit%20Cottage%20Bakery&query_place_id=ChIJR8XKL--t54kRF2BwszGZ64M&center=41.778377899999995,-72.7412816"
     }
   ],
   "dinner": [

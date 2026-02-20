@@ -3,96 +3,134 @@
     {
       "name": "Jet's Pizza",
       "distance": "1.7 mi",
-      "url": "https://www.google.com/maps/search/Jet's%20Pizza+near+42.923674299999995%2C-85.90144749999999"
+      "url": "https://www.google.com/maps/search/?api=1&query=Jet's%20Pizza&query_place_id=ChIJqxiIPPa8GYgRfTazc_z79o0&center=42.9080556,-85.8758333"
     },
     {
       "name": "Subway",
       "distance": "1.7 mi",
-      "url": "https://www.google.com/maps/search/Subway+near+42.923674299999995%2C-85.90144749999999"
-    },
-    {
-      "name": "Subway",
-      "distance": "1.7 mi",
-      "url": "https://www.google.com/maps/search/Subway+near+42.923674299999995%2C-85.90144749999999"
-    },
-    {
-      "name": "QDOBA Mexican Eats",
-      "distance": "2.8 mi",
-      "url": "https://www.google.com/maps/search/QDOBA%20Mexican%20Eats+near+42.923674299999995%2C-85.90144749999999"
+      "url": "https://www.google.com/maps/search/?api=1&query=Subway&query_place_id=ChIJ8bf_QPa8GYgRVrtvvUEnDi0&center=42.9080898,-85.8751906"
     },
     {
       "name": "Cottage Inn Pizza Allendale",
       "distance": "2.8 mi",
-      "url": "https://www.google.com/maps/search/Cottage%20Inn%20Pizza%20Allendale+near+42.923674299999995%2C-85.90144749999999"
+      "url": "https://www.google.com/maps/search/?api=1&query=Cottage%20Inn%20Pizza%20Allendale&query_place_id=ChIJ89gNp8GiGYgRksLx-kpC29g&center=42.96388530000001,-85.9049515"
     },
     {
       "name": "Panda Express",
       "distance": "2.8 mi",
-      "url": "https://www.google.com/maps/search/Panda%20Express+near+42.923674299999995%2C-85.90144749999999"
+      "url": "https://www.google.com/maps/search/?api=1&query=Panda%20Express&query_place_id=ChIJQzUPYiCjGYgRmUD4QgnZCY0&center=42.9628722,-85.8886261"
     },
     {
       "name": "Bento Sushi",
       "distance": "2.9 mi",
-      "url": "https://www.google.com/maps/search/Bento%20Sushi+near+42.923674299999995%2C-85.90144749999999"
+      "url": "https://www.google.com/maps/search/?api=1&query=Bento%20Sushi&query_place_id=ChIJzfMsB_-jGYgRIPpZnbNaYSg&center=42.9641221,-85.8890404"
+    },
+    {
+      "name": "Jimmy John's",
+      "distance": "3.3 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Jimmy%20John's&query_place_id=ChIJAYEvp-6iGYgRKGvfIXAUSvk&center=42.971605,-85.9048208",
+      "isFar": true
+    },
+    {
+      "name": "Wendy's",
+      "distance": "3.4 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Wendy's&query_place_id=ChIJd79V5o2jGYgRKbJA3LWWIcU&center=42.9730381,-85.90337869999999",
+      "isFar": true
+    },
+    {
+      "name": "Taco Bell",
+      "distance": "3.4 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Taco%20Bell&query_place_id=ChIJg0ekUOyiGYgRbqrUksrPqfw&center=42.972817899999995,-85.90917639999999",
+      "isFar": true
+    },
+    {
+      "name": "Arby's",
+      "distance": "3.5 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Arby's&query_place_id=ChIJZd5YM7OjGYgRIIiWWhccM_w&center=42.972964999999995,-85.91364209999999",
+      "isFar": true
+    },
+    {
+      "name": "Subway",
+      "distance": "3.5 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Subway&query_place_id=ChIJ6SE57HS8GYgR9ibe32tTpog&center=42.888013199999996,-85.8524365",
+      "isFar": true
     }
   ],
   "coffee": [
     {
       "name": "BIGGBY COFFEE",
       "distance": "1.7 mi",
-      "url": "https://www.google.com/maps/search/BIGGBY%20COFFEE+near+42.923674299999995%2C-85.90144749999999"
+      "url": "https://www.google.com/maps/search/?api=1&query=BIGGBY%20COFFEE&query_place_id=ChIJ6S_hFva8GYgRp5cL0PLHZvI&center=42.908041700000005,-85.8760041"
     },
     {
       "name": "daybreak coffee co",
       "distance": "1.8 mi",
-      "url": "https://www.google.com/maps/search/daybreak%20coffee%20co+near+42.923674299999995%2C-85.90144749999999"
+      "url": "https://www.google.com/maps/search/?api=1&query=daybreak%20coffee%20co&query_place_id=ChIJjd9m3ZG9GYgRMorytWgLbFQ&center=42.910458299999995,-85.8710363"
     },
     {
       "name": "The Borough",
       "distance": "2.4 mi",
-      "url": "https://www.google.com/maps/search/The%20Borough+near+42.923674299999995%2C-85.90144749999999"
+      "url": "https://www.google.com/maps/search/?api=1&query=The%20Borough&query_place_id=ChIJqWJHMwCjGYgRYAg2LsUMoBg&center=42.956673800000004,-85.8896099"
     },
     {
       "name": "Starbucks Coffee Company",
       "distance": "2.7 mi",
-      "url": "https://www.google.com/maps/search/Starbucks%20Coffee%20Company+near+42.923674299999995%2C-85.90144749999999"
+      "url": "https://www.google.com/maps/search/?api=1&query=Starbucks%20Coffee%20Company&query_place_id=ChIJU-hZ_h-jGYgRcMtET1c1QZA&center=42.96143,-85.88864"
     },
     {
       "name": "Java City Coffee",
       "distance": "2.8 mi",
-      "url": "https://www.google.com/maps/search/Java%20City%20Coffee+near+42.923674299999995%2C-85.90144749999999"
+      "url": "https://www.google.com/maps/search/?api=1&query=Java%20City%20Coffee&query_place_id=ChIJhd_BTQSjGYgRY4ywmtf1Jsg&center=42.9625979,-85.8886433"
     },
     {
       "name": "GV Brew",
       "distance": "2.8 mi",
-      "url": "https://www.google.com/maps/search/GV%20Brew+near+42.923674299999995%2C-85.90144749999999"
+      "url": "https://www.google.com/maps/search/?api=1&query=GV%20Brew&query_place_id=ChIJ_QnbIACjGYgRDM3v6cJxlFo&center=42.9629058,-85.8899016"
     },
     {
       "name": "The Marketplace (LMP)",
       "distance": "2.9 mi",
-      "url": "https://www.google.com/maps/search/The%20Marketplace%20(LMP)+near+42.923674299999995%2C-85.90144749999999"
+      "url": "https://www.google.com/maps/search/?api=1&query=The%20Marketplace%20(LMP)&query_place_id=ChIJRdXj7x-jGYgREibfksiw3tw&center=42.9651905,-85.8895244"
+    },
+    {
+      "name": "Einstein Bros. Bagels",
+      "distance": "3.1 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Einstein%20Bros.%20Bagels&query_place_id=ChIJNY9oTuKiGYgROn64oGsb9zI&center=42.966487900000004,-85.88576139999999",
+      "isFar": true
+    },
+    {
+      "name": "McDonald's",
+      "distance": "3.5 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=McDonald's&query_place_id=ChIJu0UM8pCiGYgRQj3cZJw_b-c&center=42.973088399999995,-85.91849859999999",
+      "isFar": true
+    },
+    {
+      "name": "McDonald's",
+      "distance": "3.9 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=McDonald's&query_place_id=ChIJzZM_1HS7GYgRdS3f5IHLuvg&center=42.907534,-85.8284314",
+      "isFar": true
     }
   ],
   "team_lunch": [
     {
       "name": "The Blue Connection",
       "distance": "2.6 mi",
-      "url": "https://www.google.com/maps/search/The%20Blue%20Connection+near+42.923674299999995%2C-85.90144749999999"
+      "url": "https://www.google.com/maps/search/?api=1&query=The%20Blue%20Connection&query_place_id=ChIJIwEJOCejGYgRN4glcvjIJ6E&center=42.9598574,-85.888402"
+    },
+    {
+      "name": "Grain and Simple Gluten Free Bakery",
+      "distance": "2.9 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Grain%20and%20Simple%20Gluten%20Free%20Bakery&query_place_id=ChIJwwR5-0-9GYgRGzXfMbTV61U&center=42.892402399999995,-85.8639966"
     },
     {
       "name": "Sip of Sunshine Play Cafe",
       "distance": "2.9 mi",
-      "url": "https://www.google.com/maps/search/Sip%20of%20Sunshine%20Play%20Cafe+near+42.923674299999995%2C-85.90144749999999"
-    },
-    {
-      "name": "Sip of Sunshine Play Cafe",
-      "distance": "2.9 mi",
-      "url": "https://www.google.com/maps/search/Sip%20of%20Sunshine%20Play%20Cafe+near+42.923674299999995%2C-85.90144749999999"
+      "url": "https://www.google.com/maps/search/?api=1&query=Sip%20of%20Sunshine%20Play%20Cafe&query_place_id=ChIJJZnW9Zy9GYgRHgt-4ZX3blE&center=42.90381620000001,-85.85141410000001"
     },
     {
       "name": "The Great Bread Company",
       "distance": "3.6 mi",
-      "url": "https://www.google.com/maps/search/The%20Great%20Bread%20Company+near+42.923674299999995%2C-85.90144749999999",
+      "url": "https://www.google.com/maps/search/?api=1&query=The%20Great%20Bread%20Company&query_place_id=ChIJk4Mmiu2iGYgRvm9X81K17lc&center=42.975525999999995,-85.906475",
       "isFar": true
     }
   ],

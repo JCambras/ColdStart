@@ -1,9 +1,19 @@
 {
   "quick_bite": [
     {
+      "name": "Dunkin'",
+      "distance": "0.1 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Dunkin'&query_place_id=ChIJES1wMxcP6IkRBzjBn4Bjosw&center=41.218752099999996,-73.255827"
+    },
+    {
       "name": "Subway",
       "distance": "0.2 mi",
       "url": "https://www.google.com/maps/search/?api=1&query=Subway&query_place_id=ChIJj8mlh2oP6IkRAIa8DkfcGq0&center=41.2187523,-73.25587019999999"
+    },
+    {
+      "name": "Dunkin'",
+      "distance": "0.2 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Dunkin'&query_place_id=ChIJcaeBh2oP6IkRUfI3IhIrif4&center=41.219025699999996,-73.2564634"
     },
     {
       "name": "Pizza Hut Express",
@@ -29,6 +39,16 @@
       "name": "Maddy's Grill",
       "distance": "2.1 mi",
       "url": "https://www.google.com/maps/search/?api=1&query=Maddy's%20Grill&query_place_id=ChIJWVac7wEP6IkRR25KtsmWd7Y&center=41.2164649,-73.2131016"
+    },
+    {
+      "name": "Los parceros french fries",
+      "distance": "2.2 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Los%20parceros%20french%20fries&query_place_id=ChIJJZwGZFMP6IkRhGYjXKrUjyY&center=41.213908499999995,-73.2115895"
+    },
+    {
+      "name": "Subway",
+      "distance": "2.2 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Subway&query_place_id=ChIJNbyN_MEO6IkRPOMQjfoWkqQ&center=41.212840899999996,-73.2112971"
     }
   ],
   "coffee": [
@@ -51,6 +71,16 @@
       "name": "Brewberry Cafe (Coffee Trailer)",
       "distance": "0.9 mi",
       "url": "https://www.google.com/maps/search/?api=1&query=Brewberry%20Cafe%20(Coffee%20Trailer)&query_place_id=ChIJe41wGp0P6IkR6xc0giOj3Co&center=41.217973799999996,-73.2363475"
+    },
+    {
+      "name": "McDonald's",
+      "distance": "1.6 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=McDonald's&query_place_id=ChIJV0OqJdQO6IkRwFdE3JYMB4Q&center=41.2293787,-73.2262588"
+    },
+    {
+      "name": "McDonald's",
+      "distance": "2.0 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=McDonald's&query_place_id=ChIJl2fbfsMO6IkRGx-MD1G50do&center=41.217590799999996,-73.2151581"
     }
   ],
   "team_lunch": [
@@ -83,6 +113,21 @@
       "name": "KayBonCafe",
       "distance": "1.1 mi",
       "url": "https://www.google.com/maps/search/?api=1&query=KayBonCafe&query_place_id=ChIJr-5ybL8P6IkRB7M2WFK2FWI&center=41.2138938,-73.2331988"
+    },
+    {
+      "name": "Charleys Cheesesteaks",
+      "distance": "1.6 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Charleys%20Cheesesteaks&query_place_id=ChIJ5Xn7LdQO6IkRiD9QGI48k8I&center=41.2293413,-73.2267736"
+    },
+    {
+      "name": "Cinnabon",
+      "distance": "1.7 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Cinnabon&query_place_id=ChIJV0OqJdQO6IkReMZc7oH9OFs&center=41.229830199999995,-73.2263009"
+    },
+    {
+      "name": "Guatemala Bakery",
+      "distance": "2.2 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Guatemala%20Bakery&query_place_id=ChIJsTRCAcIO6IkRrEt_wz-3JOo&center=41.2131962,-73.21192529999999"
     }
   ],
   "dinner": [

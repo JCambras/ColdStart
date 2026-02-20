@@ -6,6 +6,11 @@
       "url": "https://www.google.com/maps/search/?api=1&query=Bar%20Down%20Cafe&query_place_id=ChIJjepT6J-fw4kR8NwsXPvgQ2s&center=40.858116599999995,-74.6166338"
     },
     {
+      "name": "Dunkin'",
+      "distance": "0.8 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Dunkin'&query_place_id=ChIJwypnfbafw4kR7yRBwd7kcNE&center=40.8627991,-74.6336707"
+    },
+    {
       "name": "Mama's Pizzeria Roxbury",
       "distance": "1.2 mi",
       "url": "https://www.google.com/maps/search/?api=1&query=Mama's%20Pizzeria%20Roxbury&query_place_id=ChIJlcwO8imfw4kRpfo6iekM7s4&center=40.8661889,-74.6382247"
@@ -24,6 +29,26 @@
       "name": "Taco Bell",
       "distance": "1.6 mi",
       "url": "https://www.google.com/maps/search/?api=1&query=Taco%20Bell&query_place_id=ChIJ_46pjTOew4kRvO55LTQ4uDA&center=40.8720095,-74.6445884"
+    },
+    {
+      "name": "Jersey Mike's Subs",
+      "distance": "1.7 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Jersey%20Mike's%20Subs&query_place_id=ChIJY9E2lzaew4kR_tD-6Imspes&center=40.8711653,-74.6459684"
+    },
+    {
+      "name": "Bento Sushi",
+      "distance": "1.7 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Bento%20Sushi&query_place_id=ChIJw7mOnKSfw4kRuy7dGBGXmtc&center=40.867696699999996,-74.64822579999999"
+    },
+    {
+      "name": "Popeyes Louisiana Kitchen",
+      "distance": "1.8 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Popeyes%20Louisiana%20Kitchen&query_place_id=ChIJVYWcRwCfw4kRI6_Ints0ANY&center=40.873385600000006,-74.6479215"
+    },
+    {
+      "name": "Giancarlo's Bakery",
+      "distance": "1.9 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Giancarlo's%20Bakery&query_place_id=ChIJ6Re7GjGew4kRHxLP0kD98rg&center=40.8744048,-74.6477312"
     }
   ],
   "coffee": [
@@ -46,6 +71,11 @@
       "name": "Leggo My Bagel",
       "distance": "1.6 mi",
       "url": "https://www.google.com/maps/search/?api=1&query=Leggo%20My%20Bagel&query_place_id=ChIJZxTjO9Gfw4kREtE1z6qUO-M&center=40.87903730000001,-74.6323413"
+    },
+    {
+      "name": "McDonald's",
+      "distance": "1.6 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=McDonald's&query_place_id=ChIJByi2kDaew4kR8S56AOEWs4k&center=40.870795199999996,-74.6447584"
     }
   ],
   "team_lunch": [

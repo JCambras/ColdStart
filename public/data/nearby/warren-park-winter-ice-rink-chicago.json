@@ -29,6 +29,11 @@
       "name": "Subway",
       "distance": "0.7 mi",
       "url": "https://www.google.com/maps/search/?api=1&query=Subway&query_place_id=ChIJkeylWyDOD4gRmIMMFIuqp6Y&center=41.9977702,-87.69919"
+    },
+    {
+      "name": "Subway",
+      "distance": "0.8 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Subway&query_place_id=ChIJ9R4VjLvRD4gRNB-pqe1rJAc&center=42.0015885,-87.6713451"
     }
   ],
   "coffee": [
@@ -38,10 +43,19 @@
       "url": "https://www.google.com/maps/search/?api=1&query=Heavenly%20Treats%20Healthy%20Caf%C3%A9&query_place_id=ChIJh_VdVELRD4gR24fE_I1KHQQ&center=41.9985424,-87.68472090000002"
     },
     {
-      "name": "ClimbZone Chicago",
-      "distance": "3.6 mi",
-      "url": "https://www.google.com/maps/search/?api=1&query=ClimbZone%20Chicago&query_place_id=ChIJ7RWfavfTD4gR689_KGnj-QQ&center=41.9501539,-87.69231769999999",
-      "isFar": true
+      "name": "McDonald's",
+      "distance": "0.4 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=McDonald's&query_place_id=ChIJS2J19NDRD4gRjtlNL_LGGR4&center=42.0071508,-87.6904656"
+    },
+    {
+      "name": "McDonald's",
+      "distance": "0.7 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=McDonald's&query_place_id=ChIJKVnHCb_RD4gRcVA5qtAhxO0&center=41.9975545,-87.6761898"
+    },
+    {
+      "name": "McDonald's",
+      "distance": "0.8 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=McDonald's&query_place_id=ChIJ72tT-bnRD4gRPvMDaiK3r2Y&center=42.0048278,-87.6731401"
     }
   ],
   "team_lunch": [
@@ -74,6 +88,21 @@
       "name": "New York Halal Pizza",
       "distance": "0.3 mi",
       "url": "https://www.google.com/maps/search/?api=1&query=New%20York%20Halal%20Pizza&query_place_id=ChIJAQBw1sLRD4gRgR1EXX2ZhFM&center=41.9979521,-87.68727710000002"
+    },
+    {
+      "name": "House of Biryani",
+      "distance": "0.3 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=House%20of%20Biryani&query_place_id=ChIJ-VLLABrRD4gR323fqUjmwxE&center=41.9979339,-87.68785"
+    },
+    {
+      "name": "Hyderabad House Family Dining",
+      "distance": "0.3 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Hyderabad%20House%20Family%20Dining&query_place_id=ChIJ41JyyM7RD4gRQLdOj_keNOs&center=41.997986,-87.6860537"
+    },
+    {
+      "name": "Amira’s Bakery",
+      "distance": "0.6 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Amira%E2%80%99s%20Bakery&query_place_id=ChIJBZet60Stki4R700zAf1wu_0&center=41.993674299999995,-87.68390649999999"
     }
   ],
   "dinner": [

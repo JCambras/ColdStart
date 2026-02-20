@@ -19,6 +19,31 @@
       "name": "Burger King",
       "distance": "0.3 mi",
       "url": "https://www.google.com/maps/search/?api=1&query=Burger%20King&query_place_id=ChIJyWSZpi4T04kR8F88MMr4u2U&center=42.937706999999996,-78.8901843"
+    },
+    {
+      "name": "Subway",
+      "distance": "0.7 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Subway&query_place_id=ChIJpZ1D5dsS04kRvqq_aQsqrIQ&center=42.9278009,-78.8772607"
+    },
+    {
+      "name": "POPularity! Soda, Popcorn, Culture",
+      "distance": "0.7 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=POPularity!%20Soda%2C%20Popcorn%2C%20Culture&query_place_id=ChIJsQFkMKoT04kRw5DBAJUFAFA&center=42.9277994,-78.8772534"
+    },
+    {
+      "name": "King Of BBQ",
+      "distance": "0.8 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=King%20Of%20BBQ&query_place_id=ChIJDZ9shZsT04kRdOflINPQGkM&center=42.9356659,-78.9031626"
+    },
+    {
+      "name": "Elmwood Taco & Subs",
+      "distance": "0.9 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Elmwood%20Taco%20%26%20Subs&query_place_id=ChIJK8b_9d0S04kRTf8zt5IQZBA&center=42.9228946,-78.87686649999999"
+    },
+    {
+      "name": "Sonic Drive-In",
+      "distance": "1.0 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Sonic%20Drive-In&query_place_id=ChIJ721hwIht04kRAYTQO5Cgj0s&center=42.948603999999996,-78.87862539999999"
     }
   ],
   "coffee": [
@@ -36,12 +61,6 @@
       "name": "Bruegger's Bagels",
       "distance": "1.1 mi",
       "url": "https://www.google.com/maps/search/?api=1&query=Bruegger's%20Bagels&query_place_id=ChIJAbluazNt04kRxEq4t29tDok&center=42.9421494,-78.8685023"
-    },
-    {
-      "name": "Classic Lanes",
-      "distance": "3.7 mi",
-      "url": "https://www.google.com/maps/search/?api=1&query=Classic%20Lanes&query_place_id=ChIJ4eHAO1Ns04kRWcDkMjDYswg&center=42.9876242,-78.8848977",
-      "isFar": true
     }
   ],
   "team_lunch": [

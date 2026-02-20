@@ -1,11 +1,6 @@
 {
   "quick_bite": [
     {
-      "name": "Sapori Cucina & Bar",
-      "distance": "0.1 mi",
-      "url": "https://www.google.com/maps/search/?api=1&query=Sapori%20Cucina%20%26%20Bar&query_place_id=ChIJp_V-C6Nj44kRM1ZLf7QjzUE&center=42.249589,-71.00143410000001"
-    },
-    {
       "name": "Angelina's Pizza",
       "distance": "0.1 mi",
       "url": "https://www.google.com/maps/search/?api=1&query=Angelina's%20Pizza&query_place_id=ChIJV7JsNLV844kRzaPpLhmESeQ&center=42.249026,-71.002543"
@@ -29,6 +24,31 @@
       "name": "Five Guys",
       "distance": "0.2 mi",
       "url": "https://www.google.com/maps/search/?api=1&query=Five%20Guys&query_place_id=ChIJD5RbqLR844kRhqSB2qglYZQ&center=42.2517807,-71.00317079999999"
+    },
+    {
+      "name": "Wendy's",
+      "distance": "0.4 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Wendy's&query_place_id=ChIJ_em9Wk5j44kRqWYSB20kZIY&center=42.253834999999995,-70.9941083"
+    },
+    {
+      "name": "Subway",
+      "distance": "0.8 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Subway&query_place_id=ChIJT0_d_zlj44kRyTJBhNfQGLo&center=42.2408626,-70.9903795"
+    },
+    {
+      "name": "Jersey Mike's Subs",
+      "distance": "0.9 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Jersey%20Mike's%20Subs&query_place_id=ChIJJT4VLpBj44kRV1RmddbhYfY&center=42.2476704,-70.98196589999999"
+    },
+    {
+      "name": "Fritay 509",
+      "distance": "1.0 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Fritay%20509&query_place_id=ChIJH-HPqzV944kRyxypG6uZiCk&center=42.2345986,-71.0055805"
+    },
+    {
+      "name": "Subway",
+      "distance": "1.1 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Subway&query_place_id=ChIJ9c9vGjtj44kRuM9N19CNt7g&center=42.2364459,-70.9869831"
     }
   ],
   "coffee": [
@@ -46,6 +66,11 @@
       "name": "Roots & Roasts",
       "distance": "0.2 mi",
       "url": "https://www.google.com/maps/search/?api=1&query=Roots%20%26%20Roasts&query_place_id=ChIJJxzYk8Vj44kR76mGxrA8OBg&center=42.2471725,-71.00141119999999"
+    },
+    {
+      "name": "McDonald's",
+      "distance": "0.4 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=McDonald's&query_place_id=ChIJ4ZsFylJj44kRtoThD-_B5KM&center=42.2544616,-70.99619609999999"
     },
     {
       "name": "Tous Les Jours Cafe",

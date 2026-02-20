@@ -16,6 +16,11 @@
       "url": "https://www.google.com/maps/search/?api=1&query=Jaenicke's%20Root%20Beer%20Stand&query_place_id=ChIJ-eu1oFvdDYgRFCqKSMprRzE&center=41.1135276,-87.8625809"
     },
     {
+      "name": "Dunkin'",
+      "distance": "1.5 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Dunkin'&query_place_id=ChIJk8Q8KUrDDYgRvS9GESTc0pg&center=41.078514999999996,-87.866778"
+    },
+    {
       "name": "Taco Bell",
       "distance": "1.5 mi",
       "url": "https://www.google.com/maps/search/?api=1&query=Taco%20Bell&query_place_id=ChIJueW6TJbCDYgRdd30jbFFvUU&center=41.0786164,-87.8672572"
@@ -24,6 +29,26 @@
       "name": "Poor Boy Restaurant",
       "distance": "1.6 mi",
       "url": "https://www.google.com/maps/search/?api=1&query=Poor%20Boy%20Restaurant&query_place_id=ChIJl-IJYe3nDYgR87o1IpQSBE0&center=41.1185635,-87.84493359999999"
+    },
+    {
+      "name": "Captain Fresh Fish & Chicken",
+      "distance": "1.7 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Captain%20Fresh%20Fish%20%26%20Chicken&query_place_id=ChIJC7UKR-3nDYgRoMjd17naIA8&center=41.1192601,-87.8440111"
+    },
+    {
+      "name": "Burger King",
+      "distance": "1.7 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Burger%20King&query_place_id=ChIJm0xMrVzdDYgRWGA8RhNggJ0&center=41.1155742,-87.8652974"
+    },
+    {
+      "name": "Wendy's",
+      "distance": "1.8 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Wendy's&query_place_id=ChIJy9tAUUHnDYgRNcf0rJq6p0A&center=41.11974730000001,-87.8340987"
+    },
+    {
+      "name": "Arby's",
+      "distance": "1.9 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Arby's&query_place_id=ChIJmxQbUXrDDYgRWCMVt_Zmk_A&center=41.072922899999995,-87.8673171"
     }
   ],
   "coffee": [
@@ -36,6 +61,16 @@
       "name": "Dunkin'",
       "distance": "1.5 mi",
       "url": "https://www.google.com/maps/search/?api=1&query=Dunkin'&query_place_id=ChIJk8Q8KUrDDYgRvS9GESTc0pg&center=41.078514999999996,-87.866778"
+    },
+    {
+      "name": "McDonald's",
+      "distance": "1.6 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=McDonald's&query_place_id=ChIJDU4bv-znDYgRTJSCTFAEfmA&center=41.1185189,-87.84094309999999"
+    },
+    {
+      "name": "McDonald's",
+      "distance": "3.0 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=McDonald's&query_place_id=ChIJCa8mOw3dDYgRdCVirffTdDs&center=41.1324045,-87.8761461"
     }
   ],
   "team_lunch": [

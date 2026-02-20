@@ -11,6 +11,11 @@
       "url": "https://www.google.com/maps/search/?api=1&query=Jersey%20Mike's%20Subs&query_place_id=ChIJiUiB49B-wYkRoRBl9sD24b8&center=40.127989,-74.2753236"
     },
     {
+      "name": "Dunkin'",
+      "distance": "0.8 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Dunkin'&query_place_id=ChIJeXY17sp-wYkRQFXgSyW7oLo&center=40.1227179,-74.2857791"
+    },
+    {
       "name": "Emilio’s Pizza & Restaurant",
       "distance": "0.8 mi",
       "url": "https://www.google.com/maps/search/?api=1&query=Emilio%E2%80%99s%20Pizza%20%26%20Restaurant&query_place_id=ChIJeXY17sp-wYkRGoJbF2n1hyE&center=40.122996199999996,-74.28616509999999"
@@ -29,6 +34,21 @@
       "name": "Bento Sushi",
       "distance": "1.3 mi",
       "url": "https://www.google.com/maps/search/?api=1&query=Bento%20Sushi&query_place_id=ChIJfQ_uyQh_wYkRn_TziWPGXpw&center=40.138673399999995,-74.2928469"
+    },
+    {
+      "name": "Wawa",
+      "distance": "1.6 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Wawa&query_place_id=ChIJB_FkYrt-wYkRPcePRUXa0tQ&center=40.1382505,-74.2985392"
+    },
+    {
+      "name": "Wawa",
+      "distance": "2.5 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Wawa&query_place_id=ChIJ-_NvuGZ_wYkRwplvan2ND3I&center=40.136758,-74.225383"
+    },
+    {
+      "name": "Sonic Drive-In",
+      "distance": "2.6 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Sonic%20Drive-In&query_place_id=ChIJQYLbamR_wYkRx4d8kwBgFys&center=40.1395766,-74.22576219999999"
     }
   ],
   "coffee": [
@@ -43,9 +63,24 @@
       "url": "https://www.google.com/maps/search/?api=1&query=Dunkin'&query_place_id=ChIJeXY17sp-wYkRQFXgSyW7oLo&center=40.1227179,-74.2857791"
     },
     {
+      "name": "McDonald's",
+      "distance": "1.5 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=McDonald's&query_place_id=ChIJY8n-c7x-wYkR_NHnpzw3rNY&center=40.13894,-74.29554"
+    },
+    {
+      "name": "Wawa",
+      "distance": "1.6 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Wawa&query_place_id=ChIJB_FkYrt-wYkRPcePRUXa0tQ&center=40.1382505,-74.2985392"
+    },
+    {
       "name": "Bagel Run",
       "distance": "1.7 mi",
       "url": "https://www.google.com/maps/search/?api=1&query=Bagel%20Run&query_place_id=ChIJ108uRqN-wYkRg0GWngIKXV0&center=40.1389025,-74.3009089"
+    },
+    {
+      "name": "Wawa",
+      "distance": "2.5 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Wawa&query_place_id=ChIJ-_NvuGZ_wYkRwplvan2ND3I&center=40.136758,-74.225383"
     }
   ],
   "team_lunch": [
@@ -78,6 +113,21 @@
       "name": "La Casa de la Tia II LLC",
       "distance": "0.9 mi",
       "url": "https://www.google.com/maps/search/?api=1&query=La%20Casa%20de%20la%20Tia%20II%20LLC&query_place_id=ChIJhWiOSGB_wYkR_MGiGqiHMQI&center=40.1396363,-74.2670705"
+    },
+    {
+      "name": "Bagel Bazaar Jackson Twp",
+      "distance": "0.9 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Bagel%20Bazaar%20Jackson%20Twp&query_place_id=ChIJafS0MKl_wYkR4ZBpdKXV0K0&center=40.1395628,-74.26667080000001"
+    },
+    {
+      "name": "Walmart Bakery",
+      "distance": "2.4 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Walmart%20Bakery&query_place_id=ChIJAQAArF1_wYkRqidioVpj4l8&center=40.1307987,-74.22664189999999"
+    },
+    {
+      "name": "Charleys Cheesesteaks and Wings",
+      "distance": "2.4 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Charleys%20Cheesesteaks%20and%20Wings&query_place_id=ChIJnxS_0r1_wYkRi6L8Tz_JmlQ&center=40.131344999999996,-74.2263698"
     }
   ],
   "dinner": [

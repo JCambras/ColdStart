@@ -15,6 +15,11 @@
   ],
   "coffee": [
     {
+      "name": "Hidden Valley Market",
+      "distance": "2.5 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Hidden%20Valley%20Market&query_place_id=ChIJV7IydTWN54kR7wwFPQxcJgY&center=41.6518338,-73.3172556"
+    },
+    {
       "name": "Marty's Cafe",
       "distance": "3.2 mi",
       "url": "https://www.google.com/maps/search/?api=1&query=Marty's%20Cafe&query_place_id=ChIJo8zfeCuN54kR6wyDbdipJ7M&center=41.6404895,-73.31827679999999",
@@ -44,12 +49,6 @@
       "name": "The Tap Room at Mayflower Inn & Spa",
       "distance": "3.8 mi",
       "url": "https://www.google.com/maps/search/?api=1&query=The%20Tap%20Room%20at%20Mayflower%20Inn%20%26%20Spa&query_place_id=ChIJvVFisc7y54kRkeDvX3RQBUI&center=41.6288552,-73.306542",
-      "isFar": true
-    },
-    {
-      "name": "Wood's Pit BBQ & Mexican Cafe",
-      "distance": "4.0 mi",
-      "url": "https://www.google.com/maps/search/?api=1&query=Wood's%20Pit%20BBQ%20%26%20Mexican%20Cafe&query_place_id=ChIJz39B15iR54kRmRSOpcxL-Gw&center=41.72036,-73.235686",
       "isFar": true
     },
     {

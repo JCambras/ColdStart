@@ -19,6 +19,36 @@
       "name": "Taco John's",
       "distance": "0.5 mi",
       "url": "https://www.google.com/maps/search/?api=1&query=Taco%20John's&query_place_id=ChIJByEmf7o74ocRPHkunqZol_g&center=41.490082799999996,-90.44607889999999"
+    },
+    {
+      "name": "Enzo's Chicken",
+      "distance": "0.5 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Enzo's%20Chicken&query_place_id=ChIJOy-liJc74ocRWWY4o3u8eK8&center=41.490126,-90.44607649999999"
+    },
+    {
+      "name": "Checkers",
+      "distance": "0.6 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Checkers&query_place_id=ChIJIy4HWXc64ocRsN7Eyk4RUcY&center=41.4901559,-90.44756679999999"
+    },
+    {
+      "name": "Jimmy John's",
+      "distance": "0.9 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Jimmy%20John's&query_place_id=ChIJ99iqEFE64ocRybMeKy56F0w&center=41.4877178,-90.41942929999999"
+    },
+    {
+      "name": "Dairy Queen Grill & Chill",
+      "distance": "0.9 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Dairy%20Queen%20Grill%20%26%20Chill&query_place_id=ChIJtcA3bFE64ocRWidDLpX3rpg&center=41.487158199999996,-90.4184192"
+    },
+    {
+      "name": "Hardee's",
+      "distance": "1.0 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Hardee's&query_place_id=ChIJCSoxb5sw4ocRM_JYhZJaKYI&center=41.491969000000005,-90.45566079999999"
+    },
+    {
+      "name": "Hungry Hobo",
+      "distance": "1.1 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Hungry%20Hobo&query_place_id=ChIJN8CZMIUw4ocRRETrgN0Afz8&center=41.4915047,-90.4569855"
     }
   ],
   "coffee": [
@@ -26,6 +56,11 @@
       "name": "Julie's Video Poker & Slots",
       "distance": "0.3 mi",
       "url": "https://www.google.com/maps/search/?api=1&query=Julie's%20Video%20Poker%20%26%20Slots&query_place_id=ChIJ06mfYRE74ocRqNgH5kauaZM&center=41.4891284,-90.4416241"
+    },
+    {
+      "name": "McDonald's",
+      "distance": "0.4 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=McDonald's&query_place_id=ChIJd-TFcHA64ocRk9DuSU-AiuA&center=41.490649,-90.442358"
     },
     {
       "name": "East Moline Coffee Company",
@@ -50,9 +85,9 @@
       "url": "https://www.google.com/maps/search/?api=1&query=Yen%20Ching%20Express&query_place_id=ChIJe6K4T8g74ocRH1F5SrYCflQ&center=41.4901704,-90.44854930000001"
     },
     {
-      "name": "Hy-Vee Pickup",
-      "distance": "2.1 mi",
-      "url": "https://www.google.com/maps/search/?api=1&query=Hy-Vee%20Pickup&query_place_id=ChIJwYJIbv8x4ocRcGb34dz3kb8&center=41.4888772,-90.4755625"
+      "name": "Walmart Bakery",
+      "distance": "1.8 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Walmart%20Bakery&query_place_id=ChIJBWptq0A64ocRlRVz28-vEgk&center=41.4940082,-90.4023327"
     }
   ],
   "dinner": [

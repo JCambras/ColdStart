@@ -1,6 +1,21 @@
 {
   "quick_bite": [
     {
+      "name": "Jersey Mike's Subs",
+      "distance": "0.3 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Jersey%20Mike's%20Subs&query_place_id=ChIJgRk9dgDBxokRML4F8JI-9EE&center=40.0094709,-75.29584969999999"
+    },
+    {
+      "name": "Dunkin'",
+      "distance": "0.3 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Dunkin'&query_place_id=ChIJSxfnmX3AxokRUdZ_Od-8oRo&center=40.0096762,-75.2957572"
+    },
+    {
+      "name": "Wawa",
+      "distance": "0.4 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Wawa&query_place_id=ChIJz3YO9X3AxokRfl3E9fzUiv0&center=40.010749,-75.295312"
+    },
+    {
       "name": "PrimoHoagies",
       "distance": "0.4 mi",
       "url": "https://www.google.com/maps/search/?api=1&query=PrimoHoagies&query_place_id=ChIJK50pe4fAxokRkErpt2C0dGc&center=40.009936499999995,-75.2938191"
@@ -14,6 +29,16 @@
       "name": "Wendy's",
       "distance": "0.7 mi",
       "url": "https://www.google.com/maps/search/?api=1&query=Wendy's&query_place_id=ChIJ6aYltHfAxokRiyc0g3m4m_w&center=40.0172137,-75.3091907"
+    },
+    {
+      "name": "Wawa",
+      "distance": "1.3 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Wawa&query_place_id=ChIJi-XfzQvAxokRdIEw6VsqxnM&center=40.017044,-75.32209999999999"
+    },
+    {
+      "name": "Wawa",
+      "distance": "1.4 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Wawa&query_place_id=ChIJL6N6gkXAxokRF9_TPh_BEbs&center=39.988614999999996,-75.309089"
     },
     {
       "name": "Market Sandwich",
@@ -38,9 +63,34 @@
       "url": "https://www.google.com/maps/search/?api=1&query=The%20Library%20Cafe&query_place_id=ChIJN2dFCQDBxokRmkorr1OWVw8&center=40.0090299,-75.30821759999999"
     },
     {
+      "name": "Wawa",
+      "distance": "0.4 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Wawa&query_place_id=ChIJz3YO9X3AxokRfl3E9fzUiv0&center=40.010749,-75.295312"
+    },
+    {
       "name": "Green Engine Coffee Co",
       "distance": "0.4 mi",
       "url": "https://www.google.com/maps/search/?api=1&query=Green%20Engine%20Coffee%20Co&query_place_id=ChIJ9WtvOHnAxokRfKcuQ1lXu1g&center=40.01359370000001,-75.3012456"
+    },
+    {
+      "name": "McDonald's",
+      "distance": "0.4 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=McDonald's&query_place_id=ChIJ5ereu_C_xokRcfoRa7AGhco&center=40.009333,-75.2931527"
+    },
+    {
+      "name": "Wawa",
+      "distance": "1.3 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Wawa&query_place_id=ChIJi-XfzQvAxokRdIEw6VsqxnM&center=40.017044,-75.32209999999999"
+    },
+    {
+      "name": "Wawa",
+      "distance": "1.4 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Wawa&query_place_id=ChIJL6N6gkXAxokRF9_TPh_BEbs&center=39.988614999999996,-75.309089"
+    },
+    {
+      "name": "Spread Bagelry",
+      "distance": "1.5 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Spread%20Bagelry&query_place_id=ChIJmSqAJiu_xokRZbupuncyEZI&center=40.023408200000006,-75.3209474"
     }
   ],
   "team_lunch": [

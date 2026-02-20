@@ -11,6 +11,11 @@
       "url": "https://www.google.com/maps/search/?api=1&query=Little%20Thai%20Kitchen&query_place_id=ChIJd6bzxs6QwokRKefLrgNJ0Ys&center=40.9821665,-73.6839468"
     },
     {
+      "name": "Jersey Mike's Subs",
+      "distance": "1.9 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Jersey%20Mike's%20Subs&query_place_id=ChIJ737VZ7iRwokRd_m5VN6QrHI&center=40.96932410000001,-73.7091227"
+    },
+    {
       "name": "Market Sandwich",
       "distance": "1.9 mi",
       "url": "https://www.google.com/maps/search/?api=1&query=Market%20Sandwich&query_place_id=ChIJmeqn_SCXwokR5CZOcUAJyiY&center=40.992398699999995,-73.6754493"
@@ -29,6 +34,11 @@
       "name": "Taco Bell",
       "distance": "2.2 mi",
       "url": "https://www.google.com/maps/search/?api=1&query=Taco%20Bell&query_place_id=ChIJPQaCT0-XwokR1dUOoUrE9yQ&center=40.9956058,-73.6710326"
+    },
+    {
+      "name": "Subway",
+      "distance": "2.2 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Subway&query_place_id=ChIJyaUsw0iXwokRLL2uhvoUNC0&center=40.996655,-73.67256979999999"
     }
   ],
   "coffee": [
@@ -53,17 +63,22 @@
       "url": "https://www.google.com/maps/search/?api=1&query=Patisserie%20Salzburg%20of%20Rye&query_place_id=ChIJ-1hRP8yQwokRh_uSrqJsVds&center=40.9853266,-73.68344669999999"
     },
     {
+      "name": "McDonald's",
+      "distance": "2.1 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=McDonald's&query_place_id=ChIJLclxcUmXwokRRkQy6ndj3dc&center=40.9945729,-73.6734424"
+    },
+    {
       "name": "Casa D'italia Sandwich Shoppe",
       "distance": "2.1 mi",
       "url": "https://www.google.com/maps/search/?api=1&query=Casa%20D'italia%20Sandwich%20Shoppe&query_place_id=ChIJn-ueRReRwokRVYZFKwB1MEY&center=40.9684488,-73.7133259"
+    },
+    {
+      "name": "Harrison Bagels",
+      "distance": "2.1 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Harrison%20Bagels&query_place_id=ChIJx1TPSBeRwokRSaym8pNWypE&center=40.9682892,-73.7134497"
     }
   ],
   "team_lunch": [
-    {
-      "name": "Tiki Beach Pier Restaurant",
-      "distance": "0.1 mi",
-      "url": "https://www.google.com/maps/search/?api=1&query=Tiki%20Beach%20Pier%20Restaurant&query_place_id=ChIJGeY88xiRwokRBr5ZLJpC544&center=40.9640442,-73.67379509999999"
-    },
     {
       "name": "The Barley Beach House",
       "distance": "0.4 mi",
@@ -83,6 +98,26 @@
       "name": "J & J Bagels Inc",
       "distance": "1.5 mi",
       "url": "https://www.google.com/maps/search/?api=1&query=J%20%26%20J%20Bagels%20Inc&query_place_id=ChIJza_mc8yQwokRmJkZnkZEFzM&center=40.9847098,-73.6835519"
+    },
+    {
+      "name": "Empire Bagels",
+      "distance": "1.9 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Empire%20Bagels&query_place_id=ChIJBY4nAhmRwokRc9ULZY6656c&center=40.9690383,-73.7086945"
+    },
+    {
+      "name": "Harrison Bake Shop",
+      "distance": "1.9 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Harrison%20Bake%20Shop&query_place_id=ChIJDX38ABmRwokR8gawuCQEqMw&center=40.969125399999996,-73.70907679999999"
+    },
+    {
+      "name": "Nothing Bundt Cakes",
+      "distance": "2.2 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Nothing%20Bundt%20Cakes&query_place_id=ChIJ0UvI_OSXwokR7V7iUzFfqvc&center=40.9967985,-73.6721079"
+    },
+    {
+      "name": "Gilshire Corporation",
+      "distance": "2.3 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Gilshire%20Corporation&query_place_id=ChIJjeiPuhaRwokRPBLTPxh1K4U&center=40.9692918,-73.7173984"
     }
   ],
   "dinner": [

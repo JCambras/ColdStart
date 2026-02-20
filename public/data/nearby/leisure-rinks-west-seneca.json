@@ -1,11 +1,6 @@
 {
   "quick_bite": [
     {
-      "name": "240 South Bar and Grill",
-      "distance": "0.2 mi",
-      "url": "https://www.google.com/maps/search/?api=1&query=240%20South%20Bar%20and%20Grill&query_place_id=ChIJwf_v3jEP04kRABMHmFUlUbA&center=42.8041779,-78.75518129999999"
-    },
-    {
       "name": "Nino's Pizza",
       "distance": "0.2 mi",
       "url": "https://www.google.com/maps/search/?api=1&query=Nino's%20Pizza&query_place_id=ChIJq83U0y8P04kR0qMFEwLfySg&center=42.8048454,-78.75689369999999"
@@ -21,12 +16,47 @@
       "url": "https://www.google.com/maps/search/?api=1&query=Taco%20Bell&query_place_id=ChIJgV3tbTQP04kRUGB7LMDpcp0&center=42.7987545,-78.7509974"
     },
     {
+      "name": "Tim Hortons",
+      "distance": "0.4 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Tim%20Hortons&query_place_id=ChIJ5zGxizUP04kRrInsCo7lZFc&center=42.7975332,-78.7508299"
+    },
+    {
       "name": "Taffy's Hot Dog Stand",
       "distance": "0.5 mi",
       "url": "https://www.google.com/maps/search/?api=1&query=Taffy's%20Hot%20Dog%20Stand&query_place_id=ChIJHQZRujUP04kRa_jU8pKV76c&center=42.796068299999995,-78.7513507"
+    },
+    {
+      "name": "Wendy's",
+      "distance": "0.5 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Wendy's&query_place_id=ChIJV62uozUP04kRhjwYY-PbfeA&center=42.7957189,-78.7509376"
+    },
+    {
+      "name": "Tim Hortons",
+      "distance": "0.5 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Tim%20Hortons&query_place_id=ChIJ5zGxizUP04kRVwHVwPuyS6I&center=42.795668299999996,-78.75093609999999"
+    },
+    {
+      "name": "Taj of Orchard Park",
+      "distance": "1.1 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Taj%20of%20Orchard%20Park&query_place_id=ChIJv1pCL9wP04kRkh9eP02g1UI&center=42.7875076,-78.7497499"
+    },
+    {
+      "name": "Subway",
+      "distance": "1.5 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Subway&query_place_id=ChIJwcF5LnAP04kRNARioPICdsc&center=42.7901479,-78.78117879999999"
+    },
+    {
+      "name": "Subway",
+      "distance": "1.8 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Subway&query_place_id=ChIJBQPMp84O04kRAGi5wMFYhz8&center=42.8283493,-78.75557549999999"
     }
   ],
   "coffee": [
+    {
+      "name": "McDonald's",
+      "distance": "0.4 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=McDonald's&query_place_id=ChIJQ3AySzQP04kRKwgquZTfp1U&center=42.7970698,-78.75230599999999"
+    },
     {
       "name": "Tim Hortons",
       "distance": "0.4 mi",
@@ -46,6 +76,11 @@
       "name": "Paula's Donuts",
       "distance": "1.7 mi",
       "url": "https://www.google.com/maps/search/?api=1&query=Paula's%20Donuts&query_place_id=ChIJlwz7gc4O04kR4SYIr_f9E4o&center=42.8259498,-78.75397339999999"
+    },
+    {
+      "name": "McDonald's",
+      "distance": "2.0 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=McDonald's&query_place_id=ChIJAcysjckO04kRIL8tWYLR9cU&center=42.831289,-78.7541241"
     }
   ],
   "team_lunch": [

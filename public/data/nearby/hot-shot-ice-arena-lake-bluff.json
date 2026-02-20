@@ -1,6 +1,11 @@
 {
   "quick_bite": [
     {
+      "name": "Dunkin'",
+      "distance": "0.5 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Dunkin'&query_place_id=ChIJWdcyu2eTD4gReb1x12XFWOs&center=42.303580499999995,-87.8766212"
+    },
+    {
       "name": "Subway",
       "distance": "0.6 mi",
       "url": "https://www.google.com/maps/search/?api=1&query=Subway&query_place_id=ChIJlTnvP2CTD4gRtuSI330I6Zs&center=42.3044803,-87.8763146"
@@ -11,14 +16,39 @@
       "url": "https://www.google.com/maps/search/?api=1&query=Luke's%20of%20Lake%20Bluff&query_place_id=ChIJseRz45CUD4gRDKDJjzjX4Lg&center=42.2836438,-87.8807727"
     },
     {
-      "name": "Gus' Grille",
-      "distance": "1.1 mi",
-      "url": "https://www.google.com/maps/search/?api=1&query=Gus'%20Grille&query_place_id=ChIJq6pmB5SUD4gRIEUfCzfpng8&center=42.280409899999995,-87.8795128"
-    },
-    {
       "name": "Jimmy John's",
       "distance": "1.1 mi",
       "url": "https://www.google.com/maps/search/?api=1&query=Jimmy%20John's&query_place_id=ChIJJ9-_MpSUD4gRltPOnQJSwG8&center=42.2800905,-87.87644999999999"
+    },
+    {
+      "name": "Dunkin'",
+      "distance": "1.1 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Dunkin'&query_place_id=ChIJhwivYb6UD4gRvGWnz0cmCk0&center=42.2800842,-87.87687489999999"
+    },
+    {
+      "name": "Jersey Mike's Subs",
+      "distance": "1.2 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Jersey%20Mike's%20Subs&query_place_id=ChIJ1-l7EBqVD4gRDq_Pw3mmDvE&center=42.2788277,-87.87602989999999"
+    },
+    {
+      "name": "Potbelly",
+      "distance": "1.2 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Potbelly&query_place_id=ChIJyYGZFZKUD4gRnA76BYI-Suk&center=42.2790969,-87.8714206"
+    },
+    {
+      "name": "Arby's",
+      "distance": "1.3 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Arby's&query_place_id=ChIJE2DM-UiTD4gRlMmVKkV9xAM&center=42.312390699999995,-87.86311529999999"
+    },
+    {
+      "name": "Wendy's",
+      "distance": "1.6 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Wendy's&query_place_id=ChIJq7F_gd6SD4gRCS90VybS4pk&center=42.316794099999996,-87.8654739"
+    },
+    {
+      "name": "Subway",
+      "distance": "1.6 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Subway&query_place_id=ChIJgwvSMjiTD4gRHA1n6SPo-WY&center=42.3172874,-87.8656527"
     }
   ],
   "coffee": [
@@ -28,14 +58,39 @@
       "url": "https://www.google.com/maps/search/?api=1&query=Dunkin'&query_place_id=ChIJWdcyu2eTD4gReb1x12XFWOs&center=42.303580499999995,-87.8766212"
     },
     {
+      "name": "McDonald's",
+      "distance": "0.6 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=McDonald's&query_place_id=ChIJicvCc2iTD4gReuipBiIDI6U&center=42.304007399999996,-87.87642"
+    },
+    {
       "name": "Lumburr hotel",
       "distance": "0.9 mi",
       "url": "https://www.google.com/maps/search/?api=1&query=Lumburr%20hotel&query_place_id=ChIJOUAWIgCVD4gRn83yUfq2UX8&center=42.282671,-87.880167"
     },
     {
+      "name": "McDonald's",
+      "distance": "1.0 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=McDonald's&query_place_id=ChIJ77t4SpGUD4gRWVNiP96xtqg&center=42.281966399999995,-87.87967619999999"
+    },
+    {
       "name": "Starbucks Coffee Company",
       "distance": "1.0 mi",
       "url": "https://www.google.com/maps/search/?api=1&query=Starbucks%20Coffee%20Company&query_place_id=ChIJkbdHBZSUD4gRr_SAhMdBSAU&center=42.280919999999995,-87.87986"
+    },
+    {
+      "name": "Dunkin'",
+      "distance": "1.1 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Dunkin'&query_place_id=ChIJhwivYb6UD4gRvGWnz0cmCk0&center=42.2800842,-87.87687489999999"
+    },
+    {
+      "name": "McDonald's",
+      "distance": "1.7 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=McDonald's&query_place_id=ChIJq7F_gd6SD4gR-v52f6EChto&center=42.319048099999996,-87.8654739"
+    },
+    {
+      "name": "McDonald's",
+      "distance": "2.6 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=McDonald's&query_place_id=ChIJ_____1uTD4gRkIb17xCnNgE&center=42.3188738,-87.83528629999999"
     }
   ],
   "team_lunch": [
@@ -50,19 +105,14 @@
       "url": "https://www.google.com/maps/search/?api=1&query=Original%20Recipe%20Pizza%20Pasta%20Ribs&query_place_id=ChIJBZdV55CUD4gRAF3kRE3iOoQ&center=42.2835927,-87.88075409999999"
     },
     {
-      "name": "Flanagan's Sports Bar & Restaurant",
-      "distance": "0.9 mi",
-      "url": "https://www.google.com/maps/search/?api=1&query=Flanagan's%20Sports%20Bar%20%26%20Restaurant&query_place_id=ChIJdxUwIWmTD4gRxp9y4rTOs58&center=42.308261900000005,-87.87852699999999"
-    },
-    {
-      "name": "Big Game Sports Cards, Inc",
-      "distance": "1.1 mi",
-      "url": "https://www.google.com/maps/search/?api=1&query=Big%20Game%20Sports%20Cards%2C%20Inc&query_place_id=ChIJb8Rjx76UD4gRt5F-jkpUPpo&center=42.280840500000004,-87.8699357"
-    },
-    {
       "name": "Taylor’d Cookies",
       "distance": "1.1 mi",
       "url": "https://www.google.com/maps/search/?api=1&query=Taylor%E2%80%99d%20Cookies&query_place_id=ChIJkaWMhw6TD4gRecn0qnEYjm0&center=42.2968274,-87.85541669999999"
+    },
+    {
+      "name": "Blissful Brownies",
+      "distance": "2.0 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Blissful%20Brownies&query_place_id=ChIJFVV5QFyUD4gRFqUxcDoAQNA&center=42.273772199999996,-87.9013998"
     }
   ],
   "dinner": [

@@ -6,6 +6,11 @@
       "url": "https://www.google.com/maps/search/?api=1&query=Which%20Wich&query_place_id=ChIJ11E29o0_xIkRGD09vIceeg0&center=40.6525295,-75.4352641"
     },
     {
+      "name": "Dunkin'",
+      "distance": "0.7 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Dunkin'&query_place_id=ChIJSau9M28_xIkRRhki898Kfns&center=40.652370499999996,-75.4356221"
+    },
+    {
       "name": "Feasta Pizza",
       "distance": "0.8 mi",
       "url": "https://www.google.com/maps/search/?api=1&query=Feasta%20Pizza&query_place_id=ChIJZVJyKjA_xIkROOUhqM8JmLA&center=40.6594797,-75.4207433"
@@ -16,6 +21,11 @@
       "url": "https://www.google.com/maps/search/?api=1&query=Inihaw%20Filipino%20Barbecue&query_place_id=ChIJdU0bA7Q_xIkR1E0iqb4_IDY&center=40.6594775,-75.41885669999999"
     },
     {
+      "name": "Wawa",
+      "distance": "0.9 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Wawa&query_place_id=ChIJ54Q9G0Q_xIkRSxL0ZbZwHHo&center=40.658705999999995,-75.41833"
+    },
+    {
       "name": "Jimmy John's",
       "distance": "1.0 mi",
       "url": "https://www.google.com/maps/search/?api=1&query=Jimmy%20John's&query_place_id=ChIJmZr3E6A_xIkREQbY5WH5VAI&center=40.6569692,-75.41846910000001"
@@ -24,6 +34,21 @@
       "name": "Haazs",
       "distance": "1.0 mi",
       "url": "https://www.google.com/maps/search/?api=1&query=Haazs&query_place_id=ChIJT59GRIg_xIkR9oXgH-WBftw&center=40.6569177,-75.4183334"
+    },
+    {
+      "name": "Moe's Southwest Grill",
+      "distance": "1.0 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Moe's%20Southwest%20Grill&query_place_id=ChIJb9FLqEY_xIkRsQFVfW9tEUc&center=40.6566459,-75.4181509"
+    },
+    {
+      "name": "PrimoHoagies",
+      "distance": "1.4 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=PrimoHoagies&query_place_id=ChIJrZn1bxU_xIkRwLC62wG-hV0&center=40.643499899999995,-75.4269214"
+    },
+    {
+      "name": "Subway",
+      "distance": "1.6 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Subway&query_place_id=ChIJFf3kXyw_xIkRzYnKndIigKg&center=40.639682799999996,-75.4296274"
     }
   ],
   "coffee": [
@@ -48,17 +73,17 @@
       "url": "https://www.google.com/maps/search/?api=1&query=Lehigh%20Valley%20Cafe&query_place_id=ChIJ98xd08o4xIkR83VgbbtUbnQ&center=40.65184670000001,-75.434541"
     },
     {
+      "name": "Wawa",
+      "distance": "0.9 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Wawa&query_place_id=ChIJ54Q9G0Q_xIkRSxL0ZbZwHHo&center=40.658705999999995,-75.41833"
+    },
+    {
       "name": "Manhattan Bagel",
       "distance": "1.0 mi",
       "url": "https://www.google.com/maps/search/?api=1&query=Manhattan%20Bagel&query_place_id=ChIJPWc_bBY_xIkRQA8QcATfod8&center=40.6570393,-75.41845409999999"
     }
   ],
   "team_lunch": [
-    {
-      "name": "The Jetport Restaurant & Lounge",
-      "distance": "0.6 mi",
-      "url": "https://www.google.com/maps/search/?api=1&query=The%20Jetport%20Restaurant%20%26%20Lounge&query_place_id=ChIJIf_3RUk_xIkR1L0cRFhQfnM&center=40.6575136,-75.42695259999999"
-    },
     {
       "name": "Biryani Hut",
       "distance": "0.6 mi",
@@ -83,6 +108,16 @@
       "name": "Zach's Cookies",
       "distance": "1.3 mi",
       "url": "https://www.google.com/maps/search/?api=1&query=Zach's%20Cookies&query_place_id=ChIJ9Y9PBNI4xIkRzrG71Hu9io8&center=40.6441063,-75.43949289999999"
+    },
+    {
+      "name": "Kogelman Distributing Co",
+      "distance": "1.8 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Kogelman%20Distributing%20Co&query_place_id=ChIJLURsxe04xIkRvpjYJMURf0E&center=40.653903,-75.4673849"
+    },
+    {
+      "name": "BJ's Bakery",
+      "distance": "1.8 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=BJ's%20Bakery&query_place_id=ChIJWUZ02So_xIkRmpjalthhdnA&center=40.6362285,-75.4335474"
     }
   ],
   "dinner": [

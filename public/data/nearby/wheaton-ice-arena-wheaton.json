@@ -3,71 +3,116 @@
     {
       "name": "Holy Chow!",
       "distance": "0.6 mi",
-      "url": "https://www.google.com/maps/search/Holy%20Chow!+near+39.049347999999995%2C-77.033779"
+      "url": "https://www.google.com/maps/search/?api=1&query=Holy%20Chow!&query_place_id=ChIJuSFxk3LPt4kRW5AnpNUQq6s&center=39.0410909,-77.03154529999999"
     },
     {
       "name": "Ben Yehuda Pizza",
       "distance": "0.7 mi",
-      "url": "https://www.google.com/maps/search/Ben%20Yehuda%20Pizza+near+39.049347999999995%2C-77.033779"
+      "url": "https://www.google.com/maps/search/?api=1&query=Ben%20Yehuda%20Pizza&query_place_id=ChIJ7UvkknLPt4kR1HYZbp5Zma4&center=39.040091,-77.0308251"
     },
     {
       "name": "Dumpling District",
       "distance": "0.9 mi",
-      "url": "https://www.google.com/maps/search/Dumpling%20District+near+39.049347999999995%2C-77.033779"
+      "url": "https://www.google.com/maps/search/?api=1&query=Dumpling%20District&query_place_id=ChIJ__Q9Yo3Pt4kR0ohk0Mo4ug0&center=39.052099299999995,-77.04972269999999"
     },
     {
       "name": "KFC",
       "distance": "0.9 mi",
-      "url": "https://www.google.com/maps/search/KFC+near+39.049347999999995%2C-77.033779"
+      "url": "https://www.google.com/maps/search/?api=1&query=KFC&query_place_id=ChIJg5yVLgXPt4kRAKsmhOAti74&center=39.041410899999995,-77.0473335"
     },
     {
       "name": "Taco Bell / KFC",
       "distance": "0.9 mi",
-      "url": "https://www.google.com/maps/search/Taco%20Bell%20%2F%20KFC+near+39.049347999999995%2C-77.033779"
+      "url": "https://www.google.com/maps/search/?api=1&query=Taco%20Bell%20%2F%20KFC&query_place_id=ChIJg5yVLgXPt4kRVcBaeKhaK1Q&center=39.0414284,-77.0473872"
     },
     {
-      "name": "White Oak Bowling Lanes",
-      "distance": "2.4 mi",
-      "url": "https://www.google.com/maps/search/White%20Oak%20Bowling%20Lanes+near+39.049347999999995%2C-77.033779"
+      "name": "Subway",
+      "distance": "1.1 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Subway&query_place_id=ChIJU5p1rhzPt4kRtKytbl1WTV0&center=39.0411132,-77.0512219"
+    },
+    {
+      "name": "Subway",
+      "distance": "1.1 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Subway&query_place_id=ChIJYWgTea7Pt4kRhD49rpZGObo&center=39.06067,-77.0485295"
+    },
+    {
+      "name": "Red Ribbon Bakeshop",
+      "distance": "1.1 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Red%20Ribbon%20Bakeshop&query_place_id=ChIJrSi4M7DPt4kRVbqurYs09ts&center=39.041644999999995,-77.052106"
+    },
+    {
+      "name": "Kenny's Sub Shop",
+      "distance": "1.2 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Kenny's%20Sub%20Shop&query_place_id=ChIJI7pThhzPt4kRO8t2jtxD_GA&center=39.0391824,-77.0514147"
+    },
+    {
+      "name": "Chill'ys Sazon",
+      "distance": "1.2 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Chill'ys%20Sazon&query_place_id=ChIJjSB_Qp3Pt4kRw7cpQJSCJ5U&center=39.0413484,-77.0533462"
     }
   ],
   "coffee": [
     {
       "name": "Kosher Pastry Oven Inc",
       "distance": "0.7 mi",
-      "url": "https://www.google.com/maps/search/Kosher%20Pastry%20Oven%20Inc+near+39.049347999999995%2C-77.033779"
+      "url": "https://www.google.com/maps/search/?api=1&query=Kosher%20Pastry%20Oven%20Inc&query_place_id=ChIJuVqdk3LPt4kRFq34ziuMex0&center=39.040096,-77.0310736"
+    },
+    {
+      "name": "McDonald's",
+      "distance": "1.1 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=McDonald's&query_place_id=ChIJvc0Giq7Pt4kRI3sfoFIEYeA&center=39.05913960000001,-77.0496216"
     }
   ],
   "team_lunch": [
     {
       "name": "Tu cheff latino",
       "distance": "0.4 mi",
-      "url": "https://www.google.com/maps/search/Tu%20cheff%20latino+near+39.049347999999995%2C-77.033779"
+      "url": "https://www.google.com/maps/search/?api=1&query=Tu%20cheff%20latino&query_place_id=ChIJ8yVapkjPt4kRwVclVh6R7VY&center=39.0451663,-77.03917539999999"
     },
     {
       "name": "Rollmasters Gourmet Sushi",
       "distance": "0.6 mi",
-      "url": "https://www.google.com/maps/search/Rollmasters%20Gourmet%20Sushi+near+39.049347999999995%2C-77.033779"
+      "url": "https://www.google.com/maps/search/?api=1&query=Rollmasters%20Gourmet%20Sushi&query_place_id=ChIJDQbz_TLPt4kRw9_8wpbAyDE&center=39.0408185,-77.0321263"
     },
     {
       "name": "La Cocina de Minin",
       "distance": "0.7 mi",
-      "url": "https://www.google.com/maps/search/La%20Cocina%20de%20Minin+near+39.049347999999995%2C-77.033779"
+      "url": "https://www.google.com/maps/search/?api=1&query=La%20Cocina%20de%20Minin&query_place_id=ChIJKQ5gV17Pt4kRT22-6FhQFPM&center=39.0541979,-77.0462259"
     },
     {
       "name": "Tones family kitchen",
       "distance": "0.9 mi",
-      "url": "https://www.google.com/maps/search/Tones%20family%20kitchen+near+39.049347999999995%2C-77.033779"
-    },
-    {
-      "name": "Pho District",
-      "distance": "0.9 mi",
-      "url": "https://www.google.com/maps/search/Pho%20District+near+39.049347999999995%2C-77.033779"
+      "url": "https://www.google.com/maps/search/?api=1&query=Tones%20family%20kitchen&query_place_id=ChIJ5YJ9l0TPt4kRiFiF7gxWY1U&center=39.037431,-77.0290909"
     },
     {
       "name": "Mo Mo Bakery",
       "distance": "0.9 mi",
-      "url": "https://www.google.com/maps/search/Mo%20Mo%20Bakery+near+39.049347999999995%2C-77.033779"
+      "url": "https://www.google.com/maps/search/?api=1&query=Mo%20Mo%20Bakery&query_place_id=ChIJ1W4h8KnPt4kRq0fbVHrdA2Y&center=39.0524005,-77.0496781"
+    },
+    {
+      "name": "El Catrachito Wheaton",
+      "distance": "0.9 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=El%20Catrachito%20Wheaton&query_place_id=ChIJt_Vu55rPt4kRcnjKJZKOwH0&center=39.052848,-77.0495882"
+    },
+    {
+      "name": "Passion Bakery Cafe",
+      "distance": "0.9 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Passion%20Bakery%20Cafe&query_place_id=ChIJYUETvuTPt4kRjSD0lAV3Efc&center=39.051839699999995,-77.0502624"
+    },
+    {
+      "name": "Brother Chinese Food",
+      "distance": "0.9 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Brother%20Chinese%20Food&query_place_id=ChIJo9dr7F3Pt4kRKAEz2fkjPOo&center=39.0416682,-77.04758629999999"
+    },
+    {
+      "name": "Papa Johns Pizza",
+      "distance": "0.9 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Papa%20Johns%20Pizza&query_place_id=ChIJO9S3-KnPt4kRTPeRqHkEJAM&center=39.0518153,-77.05060639999999"
+    },
+    {
+      "name": "La Baguette 20 Bakery",
+      "distance": "1.0 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=La%20Baguette%2020%20Bakery&query_place_id=ChIJHVT0FDPPt4kRFvEB-tO3ts8&center=39.041723499999996,-77.0485427"
     }
   ],
   "dinner": [

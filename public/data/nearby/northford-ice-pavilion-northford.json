@@ -1,6 +1,11 @@
 {
   "quick_bite": [
     {
+      "name": "Dunkin'",
+      "distance": "1.2 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Dunkin'&query_place_id=ChIJf4XxfxrS54kRIaoH6lw6UHI&center=41.390784599999996,-72.7918838"
+    },
+    {
       "name": "Subway",
       "distance": "1.2 mi",
       "url": "https://www.google.com/maps/search/?api=1&query=Subway&query_place_id=ChIJf4XxfxrS54kRa0GwIEuNHNU&center=41.39071920000001,-72.7918744"
@@ -29,6 +34,21 @@
       "name": "Popeyes Louisiana Kitchen",
       "distance": "2.1 mi",
       "url": "https://www.google.com/maps/search/?api=1&query=Popeyes%20Louisiana%20Kitchen&query_place_id=ChIJIUCXajPQ54kRiKdHSkBPgdk&center=41.398623,-72.8533477"
+    },
+    {
+      "name": "Jersey Mike's Subs",
+      "distance": "2.1 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Jersey%20Mike's%20Subs&query_place_id=ChIJh7WcH5zR54kRj46c9Gwclfg&center=41.3969278,-72.85370809999999"
+    },
+    {
+      "name": "Subway",
+      "distance": "2.4 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Subway&query_place_id=ChIJT5o270nQ54kRXHx4PBdjtRI&center=41.392905,-72.8588907"
+    },
+    {
+      "name": "Dairy Queen Grill & Chill",
+      "distance": "2.4 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Dairy%20Queen%20Grill%20%26%20Chill&query_place_id=ChIJLWAZwEnQ54kR9-xeX3DIHS8&center=41.392482199999996,-72.8592937"
     }
   ],
   "coffee": [
@@ -46,6 +66,11 @@
       "name": "Sam's Place",
       "distance": "1.8 mi",
       "url": "https://www.google.com/maps/search/?api=1&query=Sam's%20Place&query_place_id=ChIJQX_yKNjR54kRAkhdRq7DHIU&center=41.4069925,-72.844704"
+    },
+    {
+      "name": "McDonald's",
+      "distance": "2.2 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=McDonald's&query_place_id=ChIJr0PXXTTQ54kR3viYd8oZqDM&center=41.396389,-72.85571250000001"
     }
   ],
   "team_lunch": [

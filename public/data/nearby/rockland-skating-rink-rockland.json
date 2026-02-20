@@ -11,6 +11,11 @@
       "url": "https://www.google.com/maps/search/?api=1&query=Themis%20Pizza&query_place_id=ChIJ8VBtjpye5IkRaqnRZ4_6k3g&center=42.1243118,-70.9027243"
     },
     {
+      "name": "Dunkin'",
+      "distance": "1.1 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Dunkin'&query_place_id=ChIJwfoV5SOc5IkRz-BfZF9-500&center=42.1212138,-70.914012"
+    },
+    {
       "name": "West Hanover Pizzeria",
       "distance": "1.2 mi",
       "url": "https://www.google.com/maps/search/?api=1&query=West%20Hanover%20Pizzeria&query_place_id=ChIJZ4puxOye5IkRWPyRowfLwl4&center=42.1192719,-70.88212419999999"
@@ -29,6 +34,23 @@
       "name": "Submarine Galley",
       "distance": "2.5 mi",
       "url": "https://www.google.com/maps/search/?api=1&query=Submarine%20Galley&query_place_id=ChIJ23fbTn-c5IkRHeTfEHrfYNY&center=42.1056584,-70.9490498"
+    },
+    {
+      "name": "Subway",
+      "distance": "2.9 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Subway&query_place_id=ChIJIUFpT1mc5IkRA7hbIbNyBoY&center=42.1295876,-70.94963469999999"
+    },
+    {
+      "name": "Burger King",
+      "distance": "3.1 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Burger%20King&query_place_id=ChIJ-ysJaaSb5IkRCmh92r-IkrY&center=42.079784599999996,-70.94655279999999",
+      "isFar": true
+    },
+    {
+      "name": "Wendy's",
+      "distance": "3.6 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Wendy's&query_place_id=ChIJTY8EDqyb5IkRr-6H3K-UsZQ&center=42.0706,-70.9484822",
+      "isFar": true
     }
   ],
   "coffee": [
@@ -48,9 +70,36 @@
       "url": "https://www.google.com/maps/search/?api=1&query=Hole%20In%20One%20Donuts%20and%20Coffee%20Rockland&query_place_id=ChIJX6ndHwCf5IkRD3-hTOmcteE&center=42.1243555,-70.90292029999999"
     },
     {
+      "name": "McDonald's",
+      "distance": "1.1 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=McDonald's&query_place_id=ChIJi_kdkyOc5IkRjP7fd5-13D0&center=42.1218236,-70.9149842"
+    },
+    {
       "name": "KING STREET MARKET AND GRILL",
       "distance": "1.3 mi",
       "url": "https://www.google.com/maps/search/?api=1&query=KING%20STREET%20MARKET%20AND%20GRILL&query_place_id=ChIJn3wIGcSe5IkRDE8u5Ezo70E&center=42.105723399999995,-70.8769148"
+    },
+    {
+      "name": "Starbucks Coffee Company",
+      "distance": "1.3 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Starbucks%20Coffee%20Company&query_place_id=ChIJRWnjTQ2c5IkRy5GNhcRmv8Q&center=42.11031,-70.92703999999999"
+    },
+    {
+      "name": "Honey Dew Donuts",
+      "distance": "1.6 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Honey%20Dew%20Donuts&query_place_id=ChIJz-8u-3Kc5IkRcgvcUQEqKto&center=42.1099094,-70.9331218"
+    },
+    {
+      "name": "McDonald's",
+      "distance": "3.2 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=McDonald's&query_place_id=ChIJY5ru1hCZ5IkRPlSU7Q8Ug6A&center=42.067760199999995,-70.8743075",
+      "isFar": true
+    },
+    {
+      "name": "McDonald's",
+      "distance": "3.6 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=McDonald's&query_place_id=ChIJvcP_fKyb5IkRG_ZGX6sphi8&center=42.069468,-70.94765",
+      "isFar": true
     }
   ],
   "team_lunch": [

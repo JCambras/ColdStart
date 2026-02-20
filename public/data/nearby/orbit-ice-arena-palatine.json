@@ -1,6 +1,11 @@
 {
   "quick_bite": [
     {
+      "name": "Dunkin'",
+      "distance": "0.4 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Dunkin'&query_place_id=ChIJebkPF9G6D4gRVLP01XjsLCE&center=42.094606999999996,-88.0055847"
+    },
+    {
       "name": "Napoli Pizza",
       "distance": "0.8 mi",
       "url": "https://www.google.com/maps/search/?api=1&query=Napoli%20Pizza&query_place_id=ChIJvZDFCdmkD4gRcCrN2easw1E&center=42.1043811,-88.02310500000002"
@@ -16,17 +21,42 @@
       "url": "https://www.google.com/maps/search/?api=1&query=Subway&query_place_id=ChIJr8yJNTKlD4gRUoDTs13UpxU&center=42.0890879,-88.0200764"
     },
     {
+      "name": "Dunkin'",
+      "distance": "1.2 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Dunkin'&query_place_id=ChIJr--31BilD4gRInZkSTJUejA&center=42.096009099999996,-88.0335396"
+    },
+    {
       "name": "Wendy's",
       "distance": "1.7 mi",
       "url": "https://www.google.com/maps/search/?api=1&query=Wendy's&query_place_id=ChIJZx9EKOqkD4gRYtG2OneeYUY&center=42.115890799999995,-88.0335314"
     },
     {
-      "name": "Chuck E. Cheese",
+      "name": "Lou Malnati's Pizzeria",
       "distance": "1.7 mi",
-      "url": "https://www.google.com/maps/search/?api=1&query=Chuck%20E.%20Cheese&query_place_id=ChIJD_hfvV-7D4gRuVLPrYHXGTE&center=42.1130849,-87.9839576"
+      "url": "https://www.google.com/maps/search/?api=1&query=Lou%20Malnati's%20Pizzeria&query_place_id=ChIJEynNMuqkD4gR9gMEUeNENDQ&center=42.1163411,-88.03334129999999"
+    },
+    {
+      "name": "Mindful Kitchen",
+      "distance": "1.7 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Mindful%20Kitchen&query_place_id=ChIJ0eeF9_G6D4gRxP1cVBhObtg&center=42.085274399999996,-87.9818298"
+    },
+    {
+      "name": "Photo's Hotdogs",
+      "distance": "1.7 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Photo's%20Hotdogs&query_place_id=ChIJOWvh7ri5D4gRjfkCb2fMU3Y&center=42.1172359,-88.0334292"
+    },
+    {
+      "name": "Taco Bell",
+      "distance": "1.7 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Taco%20Bell&query_place_id=ChIJ9dlWyeukD4gR7e6NVGhlEFU&center=42.116609499999996,-88.0343396"
     }
   ],
   "coffee": [
+    {
+      "name": "McDonald's",
+      "distance": "0.3 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=McDonald's&query_place_id=ChIJ7YolQ9G6D4gRQ4HF1X_yVVc&center=42.094836099999995,-88.0060586"
+    },
     {
       "name": "Dunkin'",
       "distance": "0.4 mi",
@@ -51,6 +81,16 @@
       "name": "Dunkin'",
       "distance": "1.2 mi",
       "url": "https://www.google.com/maps/search/?api=1&query=Dunkin'&query_place_id=ChIJr--31BilD4gRInZkSTJUejA&center=42.096009099999996,-88.0335396"
+    },
+    {
+      "name": "McDonald's",
+      "distance": "1.5 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=McDonald's&query_place_id=ChIJwZYO90ilD4gRib6QPsQSIsI&center=42.0786071,-88.0192191"
+    },
+    {
+      "name": "McDonald's",
+      "distance": "1.7 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=McDonald's&query_place_id=ChIJ-41tuA-7D4gRjETjO_oGI8g&center=42.1115572,-87.9811931"
     }
   ],
   "team_lunch": [
@@ -78,6 +118,16 @@
       "name": "Primavera cakes",
       "distance": "1.1 mi",
       "url": "https://www.google.com/maps/search/?api=1&query=Primavera%20cakes&query_place_id=ChIJ3ene_Zq7D4gRGODWjTmRzmg&center=42.082758999999996,-88.0053951"
+    },
+    {
+      "name": "Farmer's Fridge",
+      "distance": "1.2 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Farmer's%20Fridge&query_place_id=ChIJYy5JCsGlD4gRSJZjLmmFdNU&center=42.1011995,-88.03325939999999"
+    },
+    {
+      "name": "TheBakersBlueprint",
+      "distance": "1.8 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=TheBakersBlueprint&query_place_id=ChIJTdNJkpa7D4gRfACmV9zv_OQ&center=42.074656,-87.9987139"
     }
   ],
   "dinner": [

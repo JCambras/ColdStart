@@ -1,6 +1,16 @@
 {
   "quick_bite": [
     {
+      "name": "Dunkin'",
+      "distance": "0.5 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Dunkin'&query_place_id=ChIJhUZyAcmd44kRfrGLZovjPOw&center=42.3972112,-71.2588865"
+    },
+    {
+      "name": "Dunkin'",
+      "distance": "0.6 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Dunkin'&query_place_id=ChIJD0AEjMic44kRZ6ETIwNaAk8&center=42.3950256,-71.2610529"
+    },
+    {
       "name": "Jimmy John's",
       "distance": "0.7 mi",
       "url": "https://www.google.com/maps/search/?api=1&query=Jimmy%20John's&query_place_id=ChIJqQQsmMec44kRjVx8GCZYojk&center=42.3980147,-71.2626719"
@@ -29,6 +39,16 @@
       "name": "Five Guys",
       "distance": "1.5 mi",
       "url": "https://www.google.com/maps/search/?api=1&query=Five%20Guys&query_place_id=ChIJL3-apjqD44kRCce-Im3T5Ow&center=42.3758098,-71.2528901"
+    },
+    {
+      "name": "Wendy's",
+      "distance": "1.5 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Wendy's&query_place_id=ChIJ7wMJViiD44kR__Kk45ZV-QY&center=42.376058799999996,-71.2425706"
+    },
+    {
+      "name": "Bucciferro Family McDonald’s",
+      "distance": "1.5 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Bucciferro%20Family%20McDonald%E2%80%99s&query_place_id=ChIJfd9Q1cyD44kRvW3LIHG7uGc&center=42.376435099999995,-71.2362874"
     }
   ],
   "coffee": [
@@ -48,6 +68,11 @@
       "url": "https://www.google.com/maps/search/?api=1&query=Dunkin'&query_place_id=ChIJD0AEjMic44kRZ6ETIwNaAk8&center=42.3950256,-71.2610529"
     },
     {
+      "name": "McDonald's",
+      "distance": "1.4 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=McDonald's&query_place_id=ChIJKxkKRUaD44kRcpkeCfLUJAc&center=42.376653,-71.24207"
+    },
+    {
       "name": "Bentley dunkin",
       "distance": "1.5 mi",
       "url": "https://www.google.com/maps/search/?api=1&query=Bentley%20dunkin&query_place_id=ChIJX4UQOgCd44kRNutY7KgX0vo&center=42.3858361,-71.2225926"
@@ -59,11 +84,6 @@
     }
   ],
   "team_lunch": [
-    {
-      "name": "Copper House Tavern",
-      "distance": "0.4 mi",
-      "url": "https://www.google.com/maps/search/?api=1&query=Copper%20House%20Tavern&query_place_id=ChIJiyQGQsac44kRdzrrOIGJ6V4&center=42.3974294,-71.2579155"
-    },
     {
       "name": "Sousviderie",
       "distance": "0.5 mi",
@@ -88,6 +108,26 @@
       "name": "Wow Bao @Bertucci's - Waltham (MA)",
       "distance": "0.7 mi",
       "url": "https://www.google.com/maps/search/?api=1&query=Wow%20Bao%20%40Bertucci's%20-%20Waltham%20(MA)&query_place_id=ChIJewF8myed44kRCjJUVNHejGE&center=42.3983438,-71.2622676"
+    },
+    {
+      "name": "Pardon My Cheesesteak",
+      "distance": "0.7 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Pardon%20My%20Cheesesteak&query_place_id=ChIJ_4uvkbGd44kRjrqT1Hv2rCs&center=42.3983424,-71.26227089999999"
+    },
+    {
+      "name": "Bobo’s Bakery",
+      "distance": "0.8 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Bobo%E2%80%99s%20Bakery&query_place_id=ChIJL4CKwZud44kR_2JbdXzFFg8&center=42.4078133,-71.2499041"
+    },
+    {
+      "name": "Quinsam Treats",
+      "distance": "0.8 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Quinsam%20Treats&query_place_id=ChIJASg48_md44kRQFXe1XFCLr4&center=42.404718599999995,-71.2368906"
+    },
+    {
+      "name": "Harriet's Bakery",
+      "distance": "1.4 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Harriet's%20Bakery&query_place_id=ChIJRZc7MNSC44kRn1s5YV5tRKw&center=42.378486599999995,-71.2363117"
     }
   ],
   "dinner": [

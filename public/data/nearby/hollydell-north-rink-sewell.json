@@ -1,6 +1,16 @@
 {
   "quick_bite": [
     {
+      "name": "Dunkin'",
+      "distance": "0.1 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Dunkin'&query_place_id=ChIJLyA0kivXxokRDT3R6IjWa34&center=39.747701899999996,-75.1126783"
+    },
+    {
+      "name": "Wawa",
+      "distance": "0.8 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Wawa&query_place_id=ChIJ2zAbvdnXxokR4be_y5EsFqM&center=39.749316199999996,-75.126307"
+    },
+    {
       "name": "Chick-fil-A",
       "distance": "1.4 mi",
       "url": "https://www.google.com/maps/search/?api=1&query=Chick-fil-A&query_place_id=ChIJUUFfJrnQxokRH6K5CDtIK2U&center=39.7600549,-75.13125339999999"
@@ -19,6 +29,11 @@
       "name": "Jersey Mike's Subs",
       "distance": "1.9 mi",
       "url": "https://www.google.com/maps/search/?api=1&query=Jersey%20Mike's%20Subs&query_place_id=ChIJhVSxYTTRxokRAZcUGkFiWiw&center=39.748748899999995,-75.0762366"
+    },
+    {
+      "name": "Wawa",
+      "distance": "1.9 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Wawa&query_place_id=ChIJ8ZbOLkzRxokRzYXMdba2KzU&center=39.7513862,-75.07596459999999"
     }
   ],
   "coffee": [
@@ -26,6 +41,11 @@
       "name": "Dunkin'",
       "distance": "0.1 mi",
       "url": "https://www.google.com/maps/search/?api=1&query=Dunkin'&query_place_id=ChIJLyA0kivXxokRDT3R6IjWa34&center=39.747701899999996,-75.1126783"
+    },
+    {
+      "name": "Wawa",
+      "distance": "0.8 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Wawa&query_place_id=ChIJ2zAbvdnXxokR4be_y5EsFqM&center=39.749316199999996,-75.126307"
     },
     {
       "name": "Quarry Grounds Cafe",
@@ -41,19 +61,14 @@
       "name": "Township Bagel Cafe",
       "distance": "1.9 mi",
       "url": "https://www.google.com/maps/search/?api=1&query=Township%20Bagel%20Cafe&query_place_id=ChIJXw3Rkz_RxokRRXJmxVFMCNM&center=39.765780199999995,-75.08494569999999"
+    },
+    {
+      "name": "Wawa",
+      "distance": "1.9 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Wawa&query_place_id=ChIJ8ZbOLkzRxokRzYXMdba2KzU&center=39.7513862,-75.07596459999999"
     }
   ],
   "team_lunch": [
-    {
-      "name": "Dunlop's Bar & Grill",
-      "distance": "0.2 mi",
-      "url": "https://www.google.com/maps/search/?api=1&query=Dunlop's%20Bar%20%26%20Grill&query_place_id=ChIJqXONvZzXxokRxB7u1hTBIhs&center=39.745919099999995,-75.10887509999999"
-    },
-    {
-      "name": "White Pine Tavern",
-      "distance": "0.6 mi",
-      "url": "https://www.google.com/maps/search/?api=1&query=White%20Pine%20Tavern&query_place_id=ChIJqbP8QP3RxokR69Grz5G2xIo&center=39.7534181,-75.1015003"
-    },
     {
       "name": "Kakes By Kendall",
       "distance": "0.7 mi",
@@ -68,6 +83,11 @@
       "name": "The Crazy Kat",
       "distance": "1.5 mi",
       "url": "https://www.google.com/maps/search/?api=1&query=The%20Crazy%20Kat&query_place_id=ChIJ1V55Uh_XxokRXWCEtnvsRVs&center=39.7329447,-75.13107640000001"
+    },
+    {
+      "name": "Pitman Pastries",
+      "distance": "1.5 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Pitman%20Pastries&query_place_id=ChIJYUObjh_XxokRI6XmtZ6niNo&center=39.730807899999995,-75.1295226"
     }
   ],
   "dinner": [

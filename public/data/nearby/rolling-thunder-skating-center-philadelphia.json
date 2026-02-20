@@ -1,6 +1,16 @@
 {
   "quick_bite": [
     {
+      "name": "Wawa",
+      "distance": "0.1 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Wawa&query_place_id=ChIJx9Hhzia0xokRYTVYdMh-BVs&center=40.040167,-75.057343"
+    },
+    {
+      "name": "Dunkin'",
+      "distance": "0.4 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Dunkin'&query_place_id=ChIJtUVQPR-0xokRGy6H7D9l4hI&center=40.0461805,-75.05656809999999"
+    },
+    {
       "name": "Raising Cane's Chicken Fingers",
       "distance": "0.4 mi",
       "url": "https://www.google.com/maps/search/?api=1&query=Raising%20Cane's%20Chicken%20Fingers&query_place_id=ChIJy2zmGgC1xokRhtbzs3L3VV8&center=40.046954199999995,-75.0578481"
@@ -29,18 +39,43 @@
       "name": "PrimoHoagies",
       "distance": "0.7 mi",
       "url": "https://www.google.com/maps/search/?api=1&query=PrimoHoagies&query_place_id=ChIJE8D5sS60xokRC4060dDhqEs&center=40.030965699999996,-75.05482429999999"
+    },
+    {
+      "name": "OK HOT CHICKEN",
+      "distance": "0.7 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=OK%20HOT%20CHICKEN&query_place_id=ChIJYxzKIAC1xokRtSNkjBvie4c&center=40.0341294,-75.04646260000001"
+    },
+    {
+      "name": "Taco Bell",
+      "distance": "0.7 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Taco%20Bell&query_place_id=ChIJqcGgxFG1xokRnm8P6vIMlN0&center=40.0512606,-75.0574472"
     }
   ],
   "coffee": [
+    {
+      "name": "Wawa",
+      "distance": "0.1 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Wawa&query_place_id=ChIJx9Hhzia0xokRYTVYdMh-BVs&center=40.040167,-75.057343"
+    },
     {
       "name": "Coffee Apollonia",
       "distance": "0.2 mi",
       "url": "https://www.google.com/maps/search/?api=1&query=Coffee%20Apollonia&query_place_id=ChIJ3X-mRiK0xokRA18DC43-plQ&center=40.043546899999996,-75.0534783"
     },
     {
+      "name": "McDonald's",
+      "distance": "0.3 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=McDonald's&query_place_id=ChIJLZZdbiK0xokRqpqP6w3DRiM&center=40.0444786,-75.0533567"
+    },
+    {
       "name": "Dunkin'",
       "distance": "0.4 mi",
       "url": "https://www.google.com/maps/search/?api=1&query=Dunkin'&query_place_id=ChIJtUVQPR-0xokRGy6H7D9l4hI&center=40.0461805,-75.05656809999999"
+    },
+    {
+      "name": "Wawa",
+      "distance": "0.8 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Wawa&query_place_id=ChIJf3MrIoW2xokRCCe5fFDNyoQ&center=40.0362405,-75.070295"
     }
   ],
   "team_lunch": [
@@ -73,6 +108,26 @@
       "name": "Voix Asian Kitchen 華都",
       "distance": "0.3 mi",
       "url": "https://www.google.com/maps/search/?api=1&query=Voix%20Asian%20Kitchen%20%E8%8F%AF%E9%83%BD&query_place_id=ChIJsX7ZGVq1xokRzEuKG3cBQXE&center=40.0437029,-75.0523111"
+    },
+    {
+      "name": "LOS PRIMOS TACOS LLC",
+      "distance": "0.4 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=LOS%20PRIMOS%20TACOS%20LLC&query_place_id=ChIJG1x6L7e1xokR1gDQMJauOLw&center=40.0450296,-75.0606842"
+    },
+    {
+      "name": "Angelos Pizza",
+      "distance": "0.4 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Angelos%20Pizza&query_place_id=ChIJLeWPYZ62xokRk__cVOKrJds&center=40.042508999999995,-75.0637936"
+    },
+    {
+      "name": "Morning Star Pastries",
+      "distance": "0.4 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Morning%20Star%20Pastries&query_place_id=ChIJUxIZYp62xokRdr3pN8ZwZ9Q&center=40.042508,-75.0639522"
+    },
+    {
+      "name": "KC Pastries",
+      "distance": "0.5 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=KC%20Pastries&query_place_id=ChIJJfzIJ5y2xokRUaTlcTtGzsA&center=40.0415822,-75.0648408"
     }
   ],
   "dinner": [

@@ -1,19 +1,19 @@
 {
   "quick_bite": [
     {
-      "name": "Jack's Coal Fired Pizza",
-      "distance": "0.4 mi",
-      "url": "https://www.google.com/maps/search/?api=1&query=Jack's%20Coal%20Fired%20Pizza&query_place_id=ChIJtfzO54N144kRx7kC0Won4oU&center=42.4850097,-71.18904739999999"
-    },
-    {
-      "name": "Seasons 52",
-      "distance": "0.5 mi",
-      "url": "https://www.google.com/maps/search/?api=1&query=Seasons%2052&query_place_id=ChIJPZi5n4B144kR6zWTMGPUnVA&center=42.485729,-71.192437"
+      "name": "Dunkin'",
+      "distance": "0.3 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Dunkin'&query_place_id=ChIJm7WGAYF144kRwNXU3kP6X8o&center=42.4850048,-71.18839489999999"
     },
     {
       "name": "Potbelly",
       "distance": "0.6 mi",
       "url": "https://www.google.com/maps/search/?api=1&query=Potbelly&query_place_id=ChIJbwN5jCme44kRM7UTl18RMTc&center=42.4845439,-71.1937186"
+    },
+    {
+      "name": "Dunkin'",
+      "distance": "0.7 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Dunkin'&query_place_id=ChIJkVYt8XN144kRxNCm2xJuJIM&center=42.490909599999995,-71.17347459999999"
     },
     {
       "name": "Taco Bell / KFC",
@@ -29,6 +29,21 @@
       "name": "Chick-fil-A",
       "distance": "1.6 mi",
       "url": "https://www.google.com/maps/search/?api=1&query=Chick-fil-A&query_place_id=ChIJr8sxeEee44kRVTpECrrvDis&center=42.4828054,-71.2134339"
+    },
+    {
+      "name": "Five Guys",
+      "distance": "1.6 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Five%20Guys&query_place_id=ChIJ55eLcRae44kROsxgHZriwiI&center=42.4714684,-71.2094846"
+    },
+    {
+      "name": "Roma's Bakery & Deli",
+      "distance": "1.6 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Roma's%20Bakery%20%26%20Deli&query_place_id=ChIJsUahQ6l144kRez_96F8L-c0&center=42.478361,-71.151636"
+    },
+    {
+      "name": "Sergeant Burgers",
+      "distance": "1.6 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Sergeant%20Burgers&query_place_id=ChIJCyQAk46f44kRHbfmLZ65HG8&center=42.4815244,-71.21445349999999"
     }
   ],
   "coffee": [
@@ -53,9 +68,19 @@
       "url": "https://www.google.com/maps/search/?api=1&query=Dunkin'&query_place_id=ChIJkVYt8XN144kRxNCm2xJuJIM&center=42.490909599999995,-71.17347459999999"
     },
     {
+      "name": "McDonald's",
+      "distance": "1.1 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=McDonald's&query_place_id=ChIJ_S8cLe1144kR5XyfRIp0xGg&center=42.466929199999996,-71.1782621"
+    },
+    {
       "name": "Tous les Jours",
       "distance": "1.5 mi",
       "url": "https://www.google.com/maps/search/?api=1&query=Tous%20les%20Jours&query_place_id=ChIJHZ_ZHhae44kRsO55p1YEA_U&center=42.4728944,-71.20865150000002"
+    },
+    {
+      "name": "Clover",
+      "distance": "1.5 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Clover&query_place_id=ChIJ9c5-JEie44kRlJWsQuXrZ2o&center=42.486191999999996,-71.212429"
     }
   ],
   "team_lunch": [
@@ -88,6 +113,26 @@
       "name": "The Lobby Restaurant",
       "distance": "0.8 mi",
       "url": "https://www.google.com/maps/search/?api=1&query=The%20Lobby%20Restaurant&query_place_id=ChIJCd8cOSmf44kRkh76uvYta0s&center=42.4896015,-71.19532749999999"
+    },
+    {
+      "name": "Charleys Cheesesteaks",
+      "distance": "1.6 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Charleys%20Cheesesteaks&query_place_id=ChIJP5AL1Tme44kRwirgP_tBWxg&center=42.4822881,-71.213627"
+    },
+    {
+      "name": "Auntie Anne's",
+      "distance": "1.6 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Auntie%20Anne's&query_place_id=ChIJP-LDFkyf44kRxXiWMTmoEV4&center=42.482391,-71.2136759"
+    },
+    {
+      "name": "Hot Breads",
+      "distance": "1.6 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Hot%20Breads&query_place_id=ChIJ2WgX86l144kRVhbzKvfLcOg&center=42.4810355,-71.1512951"
+    },
+    {
+      "name": "Bennett's Sandwich Shop",
+      "distance": "1.6 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Bennett's%20Sandwich%20Shop&query_place_id=ChIJ6cXYGYuf44kRIpV0xfPXQr0&center=42.4844303,-71.2145878"
     }
   ],
   "dinner": [

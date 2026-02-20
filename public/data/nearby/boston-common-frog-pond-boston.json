@@ -1,9 +1,19 @@
 {
   "quick_bite": [
     {
+      "name": "Dunkin'",
+      "distance": "0.1 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Dunkin'&query_place_id=ChIJ22NeGYFx44kR5IpHrOfM0Nk&center=42.3551835,-71.06314379999999"
+    },
+    {
       "name": "Herrera's Mexican Grill",
       "distance": "0.2 mi",
       "url": "https://www.google.com/maps/search/?api=1&query=Herrera's%20Mexican%20Grill&query_place_id=ChIJb8BV9XZ644kRO6grADKMNx8&center=42.3552688,-71.0625534"
+    },
+    {
+      "name": "Dunkin'",
+      "distance": "0.2 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Dunkin'&query_place_id=ChIJy64WUZtw44kRE9Dyjp6hVYs&center=42.357706199999996,-71.0627885"
     },
     {
       "name": "Burger King",
@@ -29,18 +39,23 @@
       "name": "Al's Cafe",
       "distance": "0.3 mi",
       "url": "https://www.google.com/maps/search/?api=1&query=Al's%20Cafe&query_place_id=ChIJ1_6PVgBx44kR3LIF5hc_L6I&center=42.357747499999995,-71.05924929999999"
+    },
+    {
+      "name": "Boston City Hall café",
+      "distance": "0.4 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Boston%20City%20Hall%20caf%C3%A9&query_place_id=ChIJtYXOqoFx44kRalthWMrfP04&center=42.3580781,-71.059341"
     }
   ],
   "coffee": [
     {
-      "name": "Boston Common Frog Pond",
-      "distance": "0.1 mi",
-      "url": "https://www.google.com/maps/search/?api=1&query=Boston%20Common%20Frog%20Pond&query_place_id=ChIJB939tp9w44kR4OL1wUOrtrc&center=42.3560935,-71.0657231"
-    },
-    {
       "name": "Dunkin'",
       "distance": "0.1 mi",
       "url": "https://www.google.com/maps/search/?api=1&query=Dunkin'&query_place_id=ChIJ22NeGYFx44kR5IpHrOfM0Nk&center=42.3551835,-71.06314379999999"
+    },
+    {
+      "name": "McDonald's",
+      "distance": "0.2 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=McDonald's&query_place_id=ChIJe645PYNw44kR_0ilqhElTKw&center=42.3552106,-71.06300110000001"
     },
     {
       "name": "Bakey",
@@ -51,6 +66,36 @@
       "name": "Thinking Cup",
       "distance": "0.2 mi",
       "url": "https://www.google.com/maps/search/?api=1&query=Thinking%20Cup&query_place_id=ChIJf0MVcJ1w44kR7gaeGNHmba0&center=42.3540564,-71.0637663"
+    },
+    {
+      "name": "CHA FEO",
+      "distance": "0.2 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=CHA%20FEO&query_place_id=ChIJY1P3UPF744kRusshJZyYNis&center=42.3560076,-71.0621371"
+    },
+    {
+      "name": "Starbucks",
+      "distance": "0.2 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Starbucks&query_place_id=ChIJh9ONXp5w44kRjaiElgcABnc&center=42.356391599999995,-71.0693239"
+    },
+    {
+      "name": "Dunkin'",
+      "distance": "0.2 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Dunkin'&query_place_id=ChIJy64WUZtw44kRE9Dyjp6hVYs&center=42.357706199999996,-71.0627885"
+    },
+    {
+      "name": "Kured",
+      "distance": "0.3 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Kured&query_place_id=ChIJsbWDMl1x44kRoiL61nQmB1w&center=42.358496200000005,-71.0705318"
+    },
+    {
+      "name": "McDonald's",
+      "distance": "0.3 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=McDonald's&query_place_id=ChIJe645PYNw44kRrNMypLAQ6lc&center=42.356899,-71.058975"
+    },
+    {
+      "name": "Crane River Cheese Club",
+      "distance": "0.4 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Crane%20River%20Cheese%20Club&query_place_id=ChIJHUJGNIdx44kRrwnHoNjJapw&center=42.3610568,-71.06381189999999"
     }
   ],
   "team_lunch": [
@@ -83,6 +128,11 @@
       "name": "Blackbird Doughnuts Beacon Hill",
       "distance": "0.4 mi",
       "url": "https://www.google.com/maps/search/?api=1&query=Blackbird%20Doughnuts%20Beacon%20Hill&query_place_id=ChIJURxeOvBx44kRkhlkXf9Y9Fk&center=42.3613846,-71.0657096"
+    },
+    {
+      "name": "Mei Sum Bakery",
+      "distance": "0.4 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Mei%20Sum%20Bakery&query_place_id=ChIJ2_jVI3h644kRdG9H7EZ2yoY&center=42.3515326,-71.0619966"
     }
   ],
   "dinner": [

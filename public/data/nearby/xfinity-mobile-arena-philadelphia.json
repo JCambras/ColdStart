@@ -6,6 +6,11 @@
       "url": "https://www.google.com/maps/search/?api=1&query=Shake%20Shack&query_place_id=ChIJ62Dv3-vFxokRXReWTr0f67Y&center=39.901179899999995,-75.17197159999999"
     },
     {
+      "name": "Dunkin'",
+      "distance": "0.2 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Dunkin'&query_place_id=ChIJ_____1PPxokRGvonkG2G-Q4&center=39.900216,-75.1681335"
+    },
+    {
       "name": "Shake Shack",
       "distance": "0.4 mi",
       "url": "https://www.google.com/maps/search/?api=1&query=Shake%20Shack&query_place_id=ChIJZfM9JO7FxokR-gpfwtzKdc0&center=39.9048401,-75.1670827"
@@ -29,6 +34,21 @@
       "name": "Checkers",
       "distance": "1.3 mi",
       "url": "https://www.google.com/maps/search/?api=1&query=Checkers&query_place_id=ChIJl38t7t7FxokRRmVCRE3Om4A&center=39.9178286,-75.1814797"
+    },
+    {
+      "name": "Rocco's Italian Sausages & Cheese Steaks",
+      "distance": "1.3 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Rocco's%20Italian%20Sausages%20%26%20Cheese%20Steaks&query_place_id=ChIJD3JPxtvFxokRJLXa27aYAcU&center=39.915896,-75.18622859999999"
+    },
+    {
+      "name": "Bento Sushi",
+      "distance": "1.3 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Bento%20Sushi&query_place_id=ChIJV7De1GDFxokRlWmbNk-Cckg&center=39.9137689,-75.1545162"
+    },
+    {
+      "name": "Burger King",
+      "distance": "1.3 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Burger%20King&query_place_id=ChIJrenrGADFxokRjRUt9i406ys&center=39.915095099999995,-75.1558732"
     }
   ],
   "coffee": [
@@ -41,6 +61,11 @@
       "name": "Dodo Bakery",
       "distance": "1.1 mi",
       "url": "https://www.google.com/maps/search/?api=1&query=Dodo%20Bakery&query_place_id=ChIJXym_l6zFxokR-AP-H35G2X4&center=39.9163107,-75.1658587"
+    },
+    {
+      "name": "Wawa",
+      "distance": "1.3 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Wawa&query_place_id=ChIJW8hLVC7FxokRsKGCTB8J-g8&center=39.9037908,-75.196985"
     }
   ],
   "team_lunch": [
@@ -73,6 +98,26 @@
       "name": "Philly Cheesesteak Co.",
       "distance": "0.3 mi",
       "url": "https://www.google.com/maps/search/?api=1&query=Philly%20Cheesesteak%20Co.&query_place_id=ChIJ_U8ZhK_FxokRcRbqBDngFc4&center=39.9010075,-75.1667404"
+    },
+    {
+      "name": "Federal Donuts",
+      "distance": "0.4 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Federal%20Donuts&query_place_id=ChIJZfM9JO7FxokRfQyHjHtaO4Y&center=39.9062613,-75.1677083"
+    },
+    {
+      "name": "Tony Luke's",
+      "distance": "0.5 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Tony%20Luke's&query_place_id=ChIJJUlgJu7FxokRIAJCpcI3Lg8&center=39.906971399999996,-75.1666304"
+    },
+    {
+      "name": "Manco & Manco Pizza",
+      "distance": "0.5 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Manco%20%26%20Manco%20Pizza&query_place_id=ChIJg-P2sKrFxokRV0hHSA0hUDQ&center=39.906870999999995,-75.16607669999999"
+    },
+    {
+      "name": "Chickie's & Pete's Crabfries at Citizens Bank Park",
+      "distance": "0.5 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Chickie's%20%26%20Pete's%20Crabfries%20at%20Citizens%20Bank%20Park&query_place_id=ChIJf73TeUbFxokR-58d6qCLrns&center=39.9067893,-75.1658049"
     }
   ],
   "dinner": [

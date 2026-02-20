@@ -1,6 +1,11 @@
 {
   "quick_bite": [
     {
+      "name": "Wawa",
+      "distance": "0.8 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Wawa&query_place_id=ChIJq2bFMj3KxokRGx4rqEbNumQ&center=39.964203999999995,-75.050457"
+    },
+    {
       "name": "Wendy's",
       "distance": "0.9 mi",
       "url": "https://www.google.com/maps/search/?api=1&query=Wendy's&query_place_id=ChIJN1MhSBHKxokR-RW-nlDO1uc&center=39.9693585,-75.04500279999999"
@@ -19,9 +24,39 @@
       "name": "Taco Bell",
       "distance": "0.9 mi",
       "url": "https://www.google.com/maps/search/?api=1&query=Taco%20Bell&query_place_id=ChIJ6XWOVj_LxokR6b3mdTbKBGw&center=39.9697794,-75.0446419"
+    },
+    {
+      "name": "Dunkin'",
+      "distance": "0.9 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Dunkin'&query_place_id=ChIJC8XHMRXLxokRuEMUP9GplPA&center=39.9609917,-75.05229969999999"
+    },
+    {
+      "name": "La Cocina Latín Cuisine",
+      "distance": "0.9 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=La%20Cocina%20Lat%C3%ADn%20Cuisine&query_place_id=ChIJibHaAInJxokRS7HFLctqRm0&center=39.959064,-75.064173"
+    },
+    {
+      "name": "Tim Hortons",
+      "distance": "0.9 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Tim%20Hortons&query_place_id=ChIJxfYdKwDLxokRf4HyrdvJ_5I&center=39.9700549,-75.0444112"
+    },
+    {
+      "name": "Wild Wings Pizza & Grill",
+      "distance": "0.9 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Wild%20Wings%20Pizza%20%26%20Grill&query_place_id=ChIJm93L4YjJxokRjaQHeXj3Aiw&center=39.958881999999996,-75.065322"
+    },
+    {
+      "name": "Wawa",
+      "distance": "1.7 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Wawa&query_place_id=ChIJuThIlRq2xokRPpDhkEAhCu4&center=39.9944977,-75.0750474"
     }
   ],
   "coffee": [
+    {
+      "name": "Wawa",
+      "distance": "0.8 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Wawa&query_place_id=ChIJq2bFMj3KxokRGx4rqEbNumQ&center=39.964203999999995,-75.050457"
+    },
     {
       "name": "Dunkin'",
       "distance": "0.9 mi",
@@ -36,6 +71,11 @@
       "name": "Santana's Bakery & Cafe",
       "distance": "1.5 mi",
       "url": "https://www.google.com/maps/search/?api=1&query=Santana's%20Bakery%20%26%20Cafe&query_place_id=ChIJv7ApP73JxokRJiyn7K5InME&center=39.96028340000001,-75.08625529999999"
+    },
+    {
+      "name": "Wawa",
+      "distance": "1.7 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Wawa&query_place_id=ChIJuThIlRq2xokRPpDhkEAhCu4&center=39.9944977,-75.0750474"
     }
   ],
   "team_lunch": [
@@ -68,6 +108,11 @@
       "name": "Lynn's Bakery",
       "distance": "1.8 mi",
       "url": "https://www.google.com/maps/search/?api=1&query=Lynn's%20Bakery&query_place_id=ChIJV0dWVp3JxokRG3XpsiEy2aM&center=39.9476424,-75.07333969999999"
+    },
+    {
+      "name": "Mama's Homemade Cookies",
+      "distance": "2.0 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Mama's%20Homemade%20Cookies&query_place_id=ChIJeydTPivLxokRp0k8jqNrGzc&center=39.9737015,-75.022984"
     }
   ],
   "dinner": [

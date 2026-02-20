@@ -24,6 +24,16 @@
       "name": "Subway",
       "distance": "0.1 mi",
       "url": "https://www.google.com/maps/search/?api=1&query=Subway&query_place_id=ChIJTQ8_b6pZwokRUop6v6X0mPM&center=40.7521366,-73.98405939999999"
+    },
+    {
+      "name": "Deli & Dogz Food Truck",
+      "distance": "0.1 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Deli%20%26%20Dogz%20Food%20Truck&query_place_id=ChIJy36sfgBZwokRB_OcQBgEKXk&center=40.7546791,-73.9854553"
+    },
+    {
+      "name": "Elturbo Halal Food",
+      "distance": "0.1 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Elturbo%20Halal%20Food&query_place_id=ChIJmURKcgBZwokRHfn47FLABTc&center=40.7517705,-73.98240059999999"
     }
   ],
   "coffee": [
@@ -51,6 +61,21 @@
       "name": "Ole & Steen",
       "distance": "0.1 mi",
       "url": "https://www.google.com/maps/search/?api=1&query=Ole%20%26%20Steen&query_place_id=ChIJiTOvCb5ZwokRh6XlNvmbjmw&center=40.7533193,-73.9848854"
+    },
+    {
+      "name": "Pret A Manger",
+      "distance": "0.1 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Pret%20A%20Manger&query_place_id=ChIJa0Ak6KpZwokR2LRm1IGHG4c&center=40.753988,-73.98497689999999"
+    },
+    {
+      "name": "Heritage Grand Bakery",
+      "distance": "0.1 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Heritage%20Grand%20Bakery&query_place_id=ChIJPa72SSdZwokR4kO-TXUQFW4&center=40.7523176,-73.9826875"
+    },
+    {
+      "name": "Rosetta Bakery",
+      "distance": "0.1 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Rosetta%20Bakery&query_place_id=ChIJ40SO6-1ZwokRq58sBdwAOqU&center=40.7551634,-73.9852502"
     }
   ],
   "team_lunch": [
@@ -78,6 +103,21 @@
       "name": "Doughnuttery",
       "distance": "0.1 mi",
       "url": "https://www.google.com/maps/search/?api=1&query=Doughnuttery&query_place_id=ChIJG40EXS9ZwokRhtGtNf9KAkI&center=40.7542416,-73.9826836"
+    },
+    {
+      "name": "Baked by Melissa",
+      "distance": "0.1 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Baked%20by%20Melissa&query_place_id=ChIJg21phJxZwokRRNlxgrALcdI&center=40.754025899999995,-73.98439259999999"
+    },
+    {
+      "name": "Zucker's Bagels and Smoked Fish",
+      "distance": "0.1 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Zucker's%20Bagels%20and%20Smoked%20Fish&query_place_id=ChIJ71RmM5pZwokR1WA7WBZX0AM&center=40.7538353,-73.9850634"
+    },
+    {
+      "name": "Whole Foods Bakery",
+      "distance": "0.1 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Whole%20Foods%20Bakery&query_place_id=ChIJYap3PwBZwokRC47ccDfxYn4&center=40.7545155,-73.9846775"
     }
   ],
   "dinner": [

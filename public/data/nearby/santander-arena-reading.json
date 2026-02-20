@@ -1,6 +1,11 @@
 {
   "quick_bite": [
     {
+      "name": "Dunkin'",
+      "distance": "0.1 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Dunkin'&query_place_id=ChIJXZfI6spwxokR5wI2yzDqVHw&center=40.3354029,-75.9242699"
+    },
+    {
       "name": "SUBWAY",
       "distance": "0.1 mi",
       "url": "https://www.google.com/maps/search/?api=1&query=SUBWAY&query_place_id=ChIJm-Q6GstwxokRgq5FSSG_dsw&center=40.3355262,-75.926148"
@@ -78,6 +83,21 @@
       "name": "Boríken Delights Bakery",
       "distance": "0.3 mi",
       "url": "https://www.google.com/maps/search/?api=1&query=Bor%C3%ADken%20Delights%20Bakery&query_place_id=ChIJkZpq1Mp3xokRYaBz0_mAHLg&center=40.339085999999995,-75.9260682"
+    },
+    {
+      "name": "Ninth Street Subs Inc",
+      "distance": "0.3 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Ninth%20Street%20Subs%20Inc&query_place_id=ChIJVbC3hrZwxokRDxV0OFphMuc&center=40.3308181,-75.92008969999999"
+    },
+    {
+      "name": "Tasty Maid Bakery LLC",
+      "distance": "0.5 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Tasty%20Maid%20Bakery%20LLC&query_place_id=ChIJBy3yDUx3xokRDuGpKJvhbTw&center=40.3396524,-75.9166206"
+    },
+    {
+      "name": "Sweet Creations",
+      "distance": "0.5 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Sweet%20Creations&query_place_id=ChIJmXorOgBxxokRJ4gddk3ublI&center=40.3352828,-75.9336179"
     }
   ],
   "dinner": [

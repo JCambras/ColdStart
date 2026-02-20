@@ -1,6 +1,11 @@
 {
   "quick_bite": [
     {
+      "name": "Dunkin'",
+      "distance": "0.4 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Dunkin'&query_place_id=ChIJc1hr4Z4M04kRXo5CKZjyKnU&center=42.9066487,-78.7523578"
+    },
+    {
       "name": "Jersey Mike's Subs",
       "distance": "0.4 mi",
       "url": "https://www.google.com/maps/search/?api=1&query=Jersey%20Mike's%20Subs&query_place_id=ChIJjV-DG4wN04kRI5TvwmWXAq0&center=42.9060189,-78.7539273"
@@ -16,9 +21,34 @@
       "url": "https://www.google.com/maps/search/?api=1&query=Subway&query_place_id=ChIJi8KJal4L04kR4jROt1OYJ7c&center=42.909905300000005,-78.7441631"
     },
     {
+      "name": "Tim Hortons",
+      "distance": "0.5 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Tim%20Hortons&query_place_id=ChIJ89ZfzpgM04kRsThXYy5eDuo&center=42.908498,-78.7537028"
+    },
+    {
       "name": "Popeyes Louisiana Kitchen",
       "distance": "0.6 mi",
       "url": "https://www.google.com/maps/search/?api=1&query=Popeyes%20Louisiana%20Kitchen&query_place_id=ChIJRVkBSJ0N04kRgNprsY9Q0hs&center=42.9093042,-78.7537614"
+    },
+    {
+      "name": "Rachel's Mediterranean Grill",
+      "distance": "0.6 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Rachel's%20Mediterranean%20Grill&query_place_id=ChIJEdGaWO8M04kRbC6cRdcspyE&center=42.9079775,-78.757177"
+    },
+    {
+      "name": "Sonic Drive-In",
+      "distance": "0.7 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Sonic%20Drive-In&query_place_id=ChIJN4vuMKIM04kRG983n5O4kVg&center=42.912234999999995,-78.75356099999999"
+    },
+    {
+      "name": "Papa's Pizza Oven Cheektowaga",
+      "distance": "0.8 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Papa's%20Pizza%20Oven%20Cheektowaga&query_place_id=ChIJE8UTRI0N04kROecl9Kn2sNE&center=42.8936358,-78.75485789999999"
+    },
+    {
+      "name": "Ted's Hot Dog",
+      "distance": "0.8 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Ted's%20Hot%20Dog&query_place_id=ChIJGUHtzKMM04kR8KH3iv8NNNw&center=42.913115,-78.753635"
     }
   ],
   "coffee": [
@@ -31,9 +61,19 @@
       "name": "Tim Hortons",
       "distance": "0.5 mi",
       "url": "https://www.google.com/maps/search/?api=1&query=Tim%20Hortons&query_place_id=ChIJ89ZfzpgM04kRsThXYy5eDuo&center=42.908498,-78.7537028"
+    },
+    {
+      "name": "McDonald's",
+      "distance": "1.1 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=McDonald's&query_place_id=ChIJd6iu2qUM04kRIef_eOTgh8I&center=42.9182768,-78.75351909999999"
     }
   ],
   "team_lunch": [
+    {
+      "name": "Walmart Bakery",
+      "distance": "0.6 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Walmart%20Bakery&query_place_id=ChIJy2VVal4L04kR2IKDakBWAIM&center=42.9104628,-78.7431999"
+    },
     {
       "name": "Zhang's Buffet",
       "distance": "0.7 mi",
@@ -58,6 +98,16 @@
       "name": "Auntie Anne's",
       "distance": "1.1 mi",
       "url": "https://www.google.com/maps/search/?api=1&query=Auntie%20Anne's&query_place_id=ChIJPYgThnsN04kR4uWylaHbdfY&center=42.912588899999996,-78.7629031"
+    },
+    {
+      "name": "Cinnabon",
+      "distance": "1.1 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Cinnabon&query_place_id=ChIJC7E7i9sN04kR9WTuEgQwlvM&center=42.9135693,-78.76331170000002"
+    },
+    {
+      "name": "Charleys Cheesesteaks",
+      "distance": "1.1 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Charleys%20Cheesesteaks&query_place_id=ChIJJfg5lb0M04kRGmsV7FtZj88&center=42.9135693,-78.76331170000002"
     }
   ],
   "dinner": [

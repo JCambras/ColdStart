@@ -3,51 +3,101 @@
     {
       "name": "Culver’s",
       "distance": "0.9 mi",
-      "url": "https://www.google.com/maps/search/Culver%E2%80%99s+near+43.171732999999996%2C-86.201118"
+      "url": "https://www.google.com/maps/search/?api=1&query=Culver%E2%80%99s&query_place_id=ChIJD3pfJ5t_GYgRMgixEN3cEpE&center=43.1582045,-86.20191539999999"
     },
     {
       "name": "Subway",
       "distance": "1.0 mi",
-      "url": "https://www.google.com/maps/search/Subway+near+43.171732999999996%2C-86.201118"
+      "url": "https://www.google.com/maps/search/?api=1&query=Subway&query_place_id=ChIJCeAG-mN-GYgRCHjgKTkDB_E&center=43.175995199999996,-86.2209584"
     },
     {
       "name": "El Regio Authentic Mexican food",
       "distance": "1.0 mi",
-      "url": "https://www.google.com/maps/search/El%20Regio%20Authentic%20Mexican%20food+near+43.171732999999996%2C-86.201118"
+      "url": "https://www.google.com/maps/search/?api=1&query=El%20Regio%20Authentic%20Mexican%20food&query_place_id=ChIJE_DPsBfXG4gRJcVHsudLXp0&center=43.176884799999996,-86.2206745"
+    },
+    {
+      "name": "Jersey Mike's Subs",
+      "distance": "1.2 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Jersey%20Mike's%20Subs&query_place_id=ChIJUQ9X7F5_GYgR3u1K7KP7_xU&center=43.15482,-86.20418"
+    },
+    {
+      "name": "Olga's Mediterranean Kitchen (Inside Big Boy)",
+      "distance": "1.2 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Olga's%20Mediterranean%20Kitchen%20(Inside%20Big%20Boy)&query_place_id=ChIJw5EOOoR_GYgRq15CPQAImqg&center=43.1546764,-86.2027987"
+    },
+    {
+      "name": "Burger King",
+      "distance": "1.2 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Burger%20King&query_place_id=ChIJL8jFaeF-GYgRf79haWYnlzI&center=43.153805899999995,-86.2010978"
+    },
+    {
+      "name": "Taco Bell",
+      "distance": "1.3 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Taco%20Bell&query_place_id=ChIJVbAgAON-GYgR3Mm0vPtHdto&center=43.1537064,-86.19871669999999"
+    },
+    {
+      "name": "Five Guys",
+      "distance": "1.3 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Five%20Guys&query_place_id=ChIJEVp0zPx-GYgRDcWY6hRkBAs&center=43.1534486,-86.2064487"
+    },
+    {
+      "name": "Subway",
+      "distance": "1.4 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Subway&query_place_id=ChIJJ1QuM_1-GYgRBg0Fd8y2U8Q&center=43.1521519,-86.2047339"
+    },
+    {
+      "name": "Arby's",
+      "distance": "1.5 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Arby's&query_place_id=ChIJ6QaJrAJ_GYgRy8cO-0A_NTw&center=43.1504894,-86.20518249999999"
     }
   ],
   "coffee": [
     {
       "name": "Starbucks Coffee Company",
       "distance": "0.9 mi",
-      "url": "https://www.google.com/maps/search/Starbucks%20Coffee%20Company+near+43.171732999999996%2C-86.201118"
+      "url": "https://www.google.com/maps/search/?api=1&query=Starbucks%20Coffee%20Company&query_place_id=ChIJwfhNTvp-GYgR23v_4d4uKIQ&center=43.1605698,-86.2088558"
     },
     {
       "name": "BIGGBY COFFEE",
       "distance": "1.0 mi",
-      "url": "https://www.google.com/maps/search/BIGGBY%20COFFEE+near+43.171732999999996%2C-86.201118"
+      "url": "https://www.google.com/maps/search/?api=1&query=BIGGBY%20COFFEE&query_place_id=ChIJ-Rp5__1_GYgRERtmL542Pk4&center=43.1583931,-86.2065715"
     },
     {
       "name": "Community House",
       "distance": "1.1 mi",
-      "url": "https://www.google.com/maps/search/Community%20House+near+43.171732999999996%2C-86.201118"
+      "url": "https://www.google.com/maps/search/?api=1&query=Community%20House&query_place_id=ChIJoZBv6Kh_GYgRIUEcDe7l2p4&center=43.1777465,-86.2206854"
+    },
+    {
+      "name": "McDonald's",
+      "distance": "1.2 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=McDonald's&query_place_id=ChIJwwerdON-GYgRrszM9V7_2Dk&center=43.154677799999995,-86.20342529999999"
     }
   ],
   "team_lunch": [
     {
       "name": "The Kings Kingdom",
       "distance": "0.5 mi",
-      "url": "https://www.google.com/maps/search/The%20Kings%20Kingdom+near+43.171732999999996%2C-86.201118"
+      "url": "https://www.google.com/maps/search/?api=1&query=The%20Kings%20Kingdom&query_place_id=ChIJU2waBAB_GYgR5g9LLWSH6vo&center=43.1752914,-86.2099425"
     },
     {
       "name": "IHOP",
       "distance": "1.0 mi",
-      "url": "https://www.google.com/maps/search/IHOP+near+43.171732999999996%2C-86.201118"
+      "url": "https://www.google.com/maps/search/?api=1&query=IHOP&query_place_id=ChIJ1X_A0OR-GYgRtS_ESi3mzEA&center=43.1575255,-86.20485029999999"
     },
     {
       "name": "Texas Roadhouse",
       "distance": "1.0 mi",
-      "url": "https://www.google.com/maps/search/Texas%20Roadhouse+near+43.171732999999996%2C-86.201118"
+      "url": "https://www.google.com/maps/search/?api=1&query=Texas%20Roadhouse&query_place_id=ChIJ70tHy-R-GYgRVF8h1N2Gvcc&center=43.1570081,-86.2048652"
+    },
+    {
+      "name": "Sam's Club Bakery",
+      "distance": "2.1 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Sam's%20Club%20Bakery&query_place_id=ChIJTepUujt8GYgRPz4KwC-VJdg&center=43.2021531,-86.20235389999999"
+    },
+    {
+      "name": "Walmart Bakery",
+      "distance": "2.1 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Walmart%20Bakery&query_place_id=ChIJa9ZvRTx8GYgRV1H4C70sk9c&center=43.2027223,-86.1982426"
     }
   ],
   "dinner": [

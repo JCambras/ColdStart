@@ -29,6 +29,21 @@
       "name": "Halal R Us",
       "distance": "0.2 mi",
       "url": "https://www.google.com/maps/search/?api=1&query=Halal%20R%20Us&query_place_id=ChIJh4t0LQBTwokRPUq2D57lj0c&center=40.7356711,-74.1716662"
+    },
+    {
+      "name": "Jersey Mike's Subs",
+      "distance": "0.2 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Jersey%20Mike's%20Subs&query_place_id=ChIJYZktLrdTwokR5o8ZDwMeL6w&center=40.7351153,-74.1676348"
+    },
+    {
+      "name": "Pollito's Krispy Chicken",
+      "distance": "0.3 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Pollito's%20Krispy%20Chicken&query_place_id=ChIJY0-lMtJTwokRj7Sr5_j_zlI&center=40.7287594,-74.17124559999999"
+    },
+    {
+      "name": "Burger King",
+      "distance": "0.3 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Burger%20King&query_place_id=ChIJGfUbdaFTwokRUZpgzRhMFcE&center=40.7371504,-74.17086789999999"
     }
   ],
   "coffee": [
@@ -41,11 +56,6 @@
       "name": "Cafe Airlie",
       "distance": "0.3 mi",
       "url": "https://www.google.com/maps/search/?api=1&query=Cafe%20Airlie&query_place_id=ChIJu76DGYJTwokRUzW3K32npXk&center=40.736509,-74.169888"
-    },
-    {
-      "name": "condando scooter & motorcylce rentals",
-      "distance": "0.8 mi",
-      "url": "https://www.google.com/maps/search/?api=1&query=condando%20scooter%20%26%20motorcylce%20rentals&query_place_id=ChIJ3YTa8XpTwokRzc5sg_r_da0&center=40.7234586,-74.18072699999999"
     }
   ],
   "team_lunch": [
@@ -70,14 +80,24 @@
       "url": "https://www.google.com/maps/search/?api=1&query=Firstclass%20Restaurant%20%26%20Lounge&query_place_id=ChIJcbHw7JNTwokRksuKl-7Io7E&center=40.733521599999996,-74.1730365"
     },
     {
-      "name": "American Whiskey Newark",
-      "distance": "0.1 mi",
-      "url": "https://www.google.com/maps/search/?api=1&query=American%20Whiskey%20Newark&query_place_id=ChIJn3H7LCJTwokR0MyDoK2B9iY&center=40.7344205,-74.1703047"
-    },
-    {
       "name": "Carmen's Place",
       "distance": "0.1 mi",
       "url": "https://www.google.com/maps/search/?api=1&query=Carmen's%20Place&query_place_id=ChIJNeb608hTwokRAF9wSxaj9cs&center=40.7318942,-74.17349709999999"
+    },
+    {
+      "name": "BAKED by Tobi",
+      "distance": "0.2 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=BAKED%20by%20Tobi&query_place_id=ChIJvb0yuFdTwokRu8moX3LWYqQ&center=40.735287199999995,-74.1695999"
+    },
+    {
+      "name": "Multiverse",
+      "distance": "0.2 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Multiverse&query_place_id=ChIJqWR38VJVwokRuu65AuoJ0NM&center=40.7315293,-74.1744671"
+    },
+    {
+      "name": "Om natn Bnattarai",
+      "distance": "0.2 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Om%20natn%20Bnattarai&query_place_id=ChIJwZC6RgBTwokRQ_Pp56VVf0U&center=40.7301363,-74.1742268"
     }
   ],
   "dinner": [

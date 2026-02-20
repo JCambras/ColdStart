@@ -1,14 +1,14 @@
 {
   "quick_bite": [
     {
+      "name": "Dunkin'",
+      "distance": "0.1 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Dunkin'&query_place_id=ChIJk5cmUeoTw4kRqBjcFTKxetc&center=41.088377099999995,-74.5195323"
+    },
+    {
       "name": "Krispy Krunchy Chicken",
       "distance": "0.1 mi",
       "url": "https://www.google.com/maps/search/?api=1&query=Krispy%20Krunchy%20Chicken&query_place_id=ChIJDbBldPYTw4kRvHyRjgShx7o&center=41.0879009,-74.51884249999999"
-    },
-    {
-      "name": "Tony's Restaurant Pizza & Pub",
-      "distance": "0.2 mi",
-      "url": "https://www.google.com/maps/search/?api=1&query=Tony's%20Restaurant%20Pizza%20%26%20Pub&query_place_id=ChIJFTO5tpQTw4kRjunBkteE0YA&center=41.0907524,-74.5234555"
     },
     {
       "name": "TJ's Banginboli.Pizza",
@@ -23,9 +23,27 @@
       "isFar": true
     },
     {
+      "name": "Dunkin'",
+      "distance": "3.6 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Dunkin'&query_place_id=ChIJyXf2C6YUw4kRNpcLCzkB4AA&center=41.1156673,-74.5806157",
+      "isFar": true
+    },
+    {
       "name": "Taco Bell",
       "distance": "3.6 mi",
       "url": "https://www.google.com/maps/search/?api=1&query=Taco%20Bell&query_place_id=ChIJfTOnxacUw4kR3tBxykqcn8o&center=41.1159813,-74.5805455",
+      "isFar": true
+    },
+    {
+      "name": "Bento Sushi",
+      "distance": "3.6 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Bento%20Sushi&query_place_id=ChIJg1lPmEQVw4kRp7vIiS73wFQ&center=41.118019499999996,-74.579336",
+      "isFar": true
+    },
+    {
+      "name": "The Spot NJ Grill",
+      "distance": "4.4 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=The%20Spot%20NJ%20Grill&query_place_id=ChIJiyfoa-gVw4kR-anS_WCz05M&center=41.1391041,-74.5722102",
       "isFar": true
     }
   ],
@@ -46,6 +64,18 @@
       "distance": "3.6 mi",
       "url": "https://www.google.com/maps/search/?api=1&query=Dunkin'&query_place_id=ChIJyXf2C6YUw4kRNpcLCzkB4AA&center=41.1156673,-74.5806157",
       "isFar": true
+    },
+    {
+      "name": "McDonald's",
+      "distance": "3.6 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=McDonald's&query_place_id=ChIJoxESgKUUw4kRxRZLvL_gIP0&center=41.116652800000004,-74.5803229",
+      "isFar": true
+    },
+    {
+      "name": "McDonald's",
+      "distance": "3.7 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=McDonald's&query_place_id=ChIJB8AV8hwSw4kRUhFmJRqEJZg&center=41.036364999999996,-74.505363",
+      "isFar": true
     }
   ],
   "team_lunch": [
@@ -53,6 +83,12 @@
       "name": "Dom",
       "distance": "3.3 mi",
       "url": "https://www.google.com/maps/search/?api=1&query=Dom&query_place_id=ChIJW9gzyTYTw4kR8ULLBiaUIbw&center=41.0908643,-74.5855268",
+      "isFar": true
+    },
+    {
+      "name": "macaroni grill",
+      "distance": "3.4 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=macaroni%20grill&query_place_id=ChIJaR5yDgATw4kRjYqkB4nlnSw&center=41.1082835,-74.5811341",
       "isFar": true
     }
   ],

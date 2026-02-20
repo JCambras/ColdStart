@@ -24,6 +24,31 @@
       "name": "Taco Bell",
       "distance": "0.8 mi",
       "url": "https://www.google.com/maps/search/?api=1&query=Taco%20Bell&query_place_id=ChIJi3ZwT7hL0YkR3pk5h8n_xCo&center=43.116330399999995,-77.6219981"
+    },
+    {
+      "name": "Burger King",
+      "distance": "0.9 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Burger%20King&query_place_id=ChIJtZt1UzJL0YkRdAenvsnJQJo&center=43.115240400000005,-77.6217779"
+    },
+    {
+      "name": "Thurston Seafood",
+      "distance": "1.2 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Thurston%20Seafood&query_place_id=ChIJiy6aHWK11okRQefxBmHu7t4&center=43.1364607,-77.6512887"
+    },
+    {
+      "name": "Chick-fil-A",
+      "distance": "1.4 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Chick-fil-A&query_place_id=ChIJ4_EiKphL0YkR2W2JsZwgTek&center=43.1114544,-77.6145128"
+    },
+    {
+      "name": "Subway",
+      "distance": "1.5 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Subway&query_place_id=ChIJGTRMhk6z1okRyAbYSSedSr4&center=43.1272446,-77.6647089"
+    },
+    {
+      "name": "MAMACITAS PLACE",
+      "distance": "2.0 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=MAMACITAS%20PLACE&query_place_id=ChIJjeFeoTe11okRoGGUhIopWdc&center=43.152515,-77.62718869999999"
     }
   ],
   "coffee": [
@@ -48,6 +73,11 @@
       "url": "https://www.google.com/maps/search/?api=1&query=Finger%20Lakes%20Coffee%20Roasters&query_place_id=ChIJx266GMy01okRtkUVoMfFGFg&center=43.1228619,-77.6237009"
     },
     {
+      "name": "McDonald's",
+      "distance": "0.8 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=McDonald's&query_place_id=ChIJbbarbgK11okRBlOENwgaNc0&center=43.121801399999995,-77.6185826"
+    },
+    {
       "name": "Pellegrino's Deli Cafe",
       "distance": "1.0 mi",
       "url": "https://www.google.com/maps/search/?api=1&query=Pellegrino's%20Deli%20Cafe&query_place_id=ChIJT1oxaNq01okRBdUzwO9CRgA&center=43.1280395,-77.6152681"
@@ -65,14 +95,14 @@
       "url": "https://www.google.com/maps/search/?api=1&query=Brooks%20Landing%20Diner&query_place_id=ChIJSzheZLm01okRza-dbU0iOK8&center=43.1323382,-77.63561349999999"
     },
     {
-      "name": "Grappa Italian Nouveau",
-      "distance": "0.8 mi",
-      "url": "https://www.google.com/maps/search/?api=1&query=Grappa%20Italian%20Nouveau&query_place_id=ChIJa4Zs2NG01okRI7JyEAMxRks&center=43.1243558,-77.6189708"
-    },
-    {
       "name": "Baked N Boujee",
       "distance": "1.3 mi",
       "url": "https://www.google.com/maps/search/?api=1&query=Baked%20N%20Boujee&query_place_id=ChIJHXyLy6C11okR3nCmN_SGruA&center=43.138098899999996,-77.6527215"
+    },
+    {
+      "name": "Costco Bakery",
+      "distance": "1.4 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Costco%20Bakery&query_place_id=ChIJq6qq7ytL0YkRJ5xKMws5Vek&center=43.1129907,-77.6126206"
     }
   ],
   "dinner": [

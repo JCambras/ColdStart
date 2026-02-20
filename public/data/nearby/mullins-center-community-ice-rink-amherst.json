@@ -29,6 +29,21 @@
       "name": "Jersey Mike's Subs",
       "distance": "2.5 mi",
       "url": "https://www.google.com/maps/search/?api=1&query=Jersey%20Mike's%20Subs&query_place_id=ChIJOcasWgDR5okRbtZEL_l9Ruk&center=42.356792899999995,-72.55176940000001"
+    },
+    {
+      "name": "Five Guys",
+      "distance": "2.5 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Five%20Guys&query_place_id=ChIJhUUvMjDR5okRFfX5ndORyh4&center=42.356792899999995,-72.55176940000001"
+    },
+    {
+      "name": "Subway",
+      "distance": "2.7 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Subway&query_place_id=ChIJQ3gHVpDR5okRyShDzH9OIr0&center=42.3545338,-72.5526641"
+    },
+    {
+      "name": "Market Sandwich",
+      "distance": "2.8 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Market%20Sandwich&query_place_id=ChIJSy-moAjR5okRMdzWR7j7jl4&center=42.3530868,-72.55551249999999"
     }
   ],
   "coffee": [
@@ -56,6 +71,31 @@
       "name": "Quad Café",
       "distance": "0.4 mi",
       "url": "https://www.google.com/maps/search/?api=1&query=Quad%20Caf%C3%A9&query_place_id=ChIJ_UCDZXrS5okRss3vsfRJOss&center=42.3939887,-72.528616"
+    },
+    {
+      "name": "People's Organic",
+      "distance": "0.4 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=People's%20Organic&query_place_id=ChIJ-Z6ct3DS5okRVYaokWYGLz8&center=42.3917879,-72.5270149"
+    },
+    {
+      "name": "Snack Overflow",
+      "distance": "0.4 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Snack%20Overflow&query_place_id=ChIJrVg8xHrS5okRqr5CvCPuebM&center=42.395365299999995,-72.53042289999999"
+    },
+    {
+      "name": "Peet's Coffee",
+      "distance": "0.4 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Peet's%20Coffee&query_place_id=ChIJgSNXMHfS5okRlqBcuF5XDFI&center=42.391250799999995,-72.52625979999999"
+    },
+    {
+      "name": "Herter Café",
+      "distance": "0.4 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Herter%20Caf%C3%A9&query_place_id=ChIJLaWa5HPS5okRL4Nby196rlk&center=42.3874648,-72.5271765"
+    },
+    {
+      "name": "Bruegger's Bagels",
+      "distance": "1.1 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Bruegger's%20Bagels&query_place_id=ChIJvze2hfXN5okRy3Q_lfKRooM&center=42.3781111,-72.5202772"
     }
   ],
   "team_lunch": [
@@ -83,6 +123,26 @@
       "name": "Deli Delish",
       "distance": "0.4 mi",
       "url": "https://www.google.com/maps/search/?api=1&query=Deli%20Delish&query_place_id=ChIJEdnzt3DS5okRZwgGg4dcY64&center=42.391458,-72.5267926"
+    },
+    {
+      "name": "Star Ginger",
+      "distance": "0.4 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Star%20Ginger&query_place_id=ChIJR8IKuHDS5okRNBWvXV08eiQ&center=42.391602999999996,-72.52679119999999"
+    },
+    {
+      "name": "Wasabi",
+      "distance": "0.4 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Wasabi&query_place_id=ChIJv2VMyHDS5okRmW4AyWUMcxU&center=42.3915789,-72.5265381"
+    },
+    {
+      "name": "Green Fields",
+      "distance": "0.4 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Green%20Fields&query_place_id=ChIJZf3HsHDS5okR783Edi5jLlE&center=42.391682200000005,-72.5265415"
+    },
+    {
+      "name": "Whole Foods Bakery",
+      "distance": "2.8 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Whole%20Foods%20Bakery&query_place_id=ChIJzbPwBADR5okRymkwSnY2FwM&center=42.3530434,-72.555447"
     }
   ],
   "dinner": [

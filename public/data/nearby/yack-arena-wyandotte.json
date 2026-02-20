@@ -3,42 +3,86 @@
     {
       "name": "Tru Pizza Co Wyandotte",
       "distance": "0.1 mi",
-      "url": "https://www.google.com/maps/search/Tru%20Pizza%20Co%20Wyandotte+near+42.201558%2C-83.1526181"
+      "url": "https://www.google.com/maps/search/?api=1&query=Tru%20Pizza%20Co%20Wyandotte&query_place_id=ChIJ0cwmbwAxO4gRpyMvKrRVu0g&center=42.2015844,-83.1503893"
+    },
+    {
+      "name": "Dunkin'",
+      "distance": "0.1 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Dunkin'&query_place_id=ChIJRQcXDwAxO4gRXzEHkN_hBdw&center=42.1996798,-83.15176749999999"
     },
     {
       "name": "Jimmy John's",
       "distance": "0.1 mi",
-      "url": "https://www.google.com/maps/search/Jimmy%20John's+near+42.201558%2C-83.1526181"
+      "url": "https://www.google.com/maps/search/?api=1&query=Jimmy%20John's&query_place_id=ChIJg9aPbbswO4gRh-yvp7Lg3WQ&center=42.2011545,-83.1498869"
     },
     {
       "name": "Subway",
       "distance": "0.2 mi",
-      "url": "https://www.google.com/maps/search/Subway+near+42.201558%2C-83.1526181"
+      "url": "https://www.google.com/maps/search/?api=1&query=Subway&query_place_id=ChIJUVYbG7AwO4gRHOjkypI8FrY&center=42.2003135,-83.1550719"
     },
     {
-      "name": "Chuck E. Cheese",
-      "distance": "3.2 mi",
-      "url": "https://www.google.com/maps/search/Chuck%20E.%20Cheese+near+42.201558%2C-83.1526181",
-      "isFar": true
+      "name": "Taco Bell",
+      "distance": "0.2 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Taco%20Bell&query_place_id=ChIJcQPGDwAxO4gRhnSaJFXM8V4&center=42.19813130000001,-83.15208679999999"
+    },
+    {
+      "name": "Bishop Park Concession Stand",
+      "distance": "0.4 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Bishop%20Park%20Concession%20Stand&query_place_id=ChIJN7Va8L4wO4gRDPjlXgOgfWE&center=42.2058202,-83.1466744"
+    },
+    {
+      "name": "Subway",
+      "distance": "0.7 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Subway&query_place_id=ChIJZ70-7sAwO4gR1iGG0RDboa8&center=42.210491999999995,-83.146885"
+    },
+    {
+      "name": "C’s Taco House",
+      "distance": "0.7 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=C%E2%80%99s%20Taco%20House&query_place_id=ChIJZWymAi83O4gRZmaOT36bsFQ&center=42.203795799999995,-83.1658326"
+    },
+    {
+      "name": "Subway",
+      "distance": "1.5 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Subway&query_place_id=ChIJBe-_OuA5O4gRmpxsyWwBX0Q&center=42.2028502,-83.1810502"
+    },
+    {
+      "name": "A B & D Savory & Sweet",
+      "distance": "1.5 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=A%20B%20%26%20D%20Savory%20%26%20Sweet&query_place_id=ChIJnW6TQAA3O4gR6t9lKdG0IE8&center=42.1996927,-83.1814134"
     }
   ],
   "coffee": [
     {
       "name": "Dunkin'",
       "distance": "0.1 mi",
-      "url": "https://www.google.com/maps/search/Dunkin'+near+42.201558%2C-83.1526181"
+      "url": "https://www.google.com/maps/search/?api=1&query=Dunkin'&query_place_id=ChIJRQcXDwAxO4gRXzEHkN_hBdw&center=42.1996798,-83.15176749999999"
     },
     {
       "name": "James Oliver Wyandotte",
       "distance": "0.2 mi",
-      "url": "https://www.google.com/maps/search/James%20Oliver%20Wyandotte+near+42.201558%2C-83.1526181"
+      "url": "https://www.google.com/maps/search/?api=1&query=James%20Oliver%20Wyandotte&query_place_id=ChIJLxUJwG8xO4gRojunzRXq9K8&center=42.2026241,-83.14980290000001"
+    },
+    {
+      "name": "McDonald's",
+      "distance": "0.2 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=McDonald's&query_place_id=ChIJFSBx0KQwO4gRMhbgC8hPWXA&center=42.198504299999996,-83.15076739999999"
     }
   ],
   "team_lunch": [
     {
       "name": "The Spaghetti Hut",
       "distance": "0.2 mi",
-      "url": "https://www.google.com/maps/search/The%20Spaghetti%20Hut+near+42.201558%2C-83.1526181"
+      "url": "https://www.google.com/maps/search/?api=1&query=The%20Spaghetti%20Hut&query_place_id=ChIJcwtrvVkxO4gRwRwTR2aFcSU&center=42.2025383,-83.1498134"
+    },
+    {
+      "name": "Noble Dough",
+      "distance": "0.3 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Noble%20Dough&query_place_id=ChIJ89T77RwxO4gRDe4t6Xu4N5M&center=42.2050808,-83.1514158"
+    },
+    {
+      "name": "Four Loaves Sourdough & Sandwiches",
+      "distance": "1.1 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Four%20Loaves%20Sourdough%20%26%20Sandwiches&query_place_id=ChIJ_yJJu4E3O4gRseRN92_2py8&center=42.203118499999995,-83.1749786"
     }
   ],
   "dinner": [

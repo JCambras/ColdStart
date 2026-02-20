@@ -24,6 +24,26 @@
       "name": "Subway",
       "distance": "1.2 mi",
       "url": "https://www.google.com/maps/search/?api=1&query=Subway&query_place_id=ChIJJV5fr2H3NIgRI4NlIg-nLrc&center=40.36855,-80.0354089"
+    },
+    {
+      "name": "Wendy's",
+      "distance": "1.2 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Wendy's&query_place_id=ChIJ016oDqP3NIgR6w1VJ_xBaCA&center=40.392724699999995,-80.06215209999999"
+    },
+    {
+      "name": "Taco Bell",
+      "distance": "1.2 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Taco%20Bell&query_place_id=ChIJV6hNE6P3NIgRFrhoje6vmYQ&center=40.3930648,-80.0628357"
+    },
+    {
+      "name": "Jet's Pizza",
+      "distance": "1.6 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Jet's%20Pizza&query_place_id=ChIJK8TNbQX3NIgR1bNF6AY_SA8&center=40.3984734,-80.0443076"
+    },
+    {
+      "name": "Chick-fil-A",
+      "distance": "1.7 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Chick-fil-A&query_place_id=ChIJCWD2bsv5NIgRjLYr2n9z08A&center=40.3520051,-80.05157179999999"
     }
   ],
   "coffee": [
@@ -46,6 +66,11 @@
       "name": "Orbis Caffe",
       "distance": "0.7 mi",
       "url": "https://www.google.com/maps/search/?api=1&query=Orbis%20Caffe&query_place_id=ChIJ55B3vXH3NIgRFZgNAf0CYfo&center=40.3811002,-80.04408339999999"
+    },
+    {
+      "name": "McDonald's",
+      "distance": "1.0 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=McDonald's&query_place_id=ChIJA0tcOWL3NIgRmifTynVWTEU&center=40.368614099999995,-80.0378389"
     }
   ],
   "team_lunch": [

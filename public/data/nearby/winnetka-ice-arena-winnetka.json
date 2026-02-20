@@ -29,6 +29,26 @@
       "name": "Jersey Mike's Subs",
       "distance": "1.8 mi",
       "url": "https://www.google.com/maps/search/?api=1&query=Jersey%20Mike's%20Subs&query_place_id=ChIJ7XJJ1KLFD4gR3zVecfJWgV8&center=42.079006799999995,-87.75486230000001"
+    },
+    {
+      "name": "Irving's for Red Hot Lovers",
+      "distance": "1.8 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Irving's%20for%20Red%20Hot%20Lovers&query_place_id=ChIJD0PIG7_FD4gRtldpOvpByRs&center=42.079,-87.7548144"
+    },
+    {
+      "name": "Lou Malnati's Pizzeria",
+      "distance": "1.8 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Lou%20Malnati's%20Pizzeria&query_place_id=ChIJBZKpE7_FD4gRV3vZUjJxDpY&center=42.078893799999996,-87.7560508"
+    },
+    {
+      "name": "Dairy Queen",
+      "distance": "1.8 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Dairy%20Queen&query_place_id=ChIJS4sw3cPFD4gRdVZnw1Ch4S8&center=42.079790599999995,-87.7622116"
+    },
+    {
+      "name": "Jimmy John's",
+      "distance": "1.8 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Jimmy%20John's&query_place_id=ChIJi3prwMPFD4gRnfpD0lOaAN4&center=42.0798368,-87.76267469999999"
     }
   ],
   "coffee": [
@@ -43,6 +63,11 @@
       "url": "https://www.google.com/maps/search/?api=1&query=Peet's%20Coffee&query_place_id=ChIJrQSChPfED4gRT3RGloZ2Nj8&center=42.105914999999996,-87.734985"
     },
     {
+      "name": "McDonald's",
+      "distance": "0.9 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=McDonald's&query_place_id=ChIJeeDPGl7ED4gRLaf2Qk8a0qQ&center=42.114866,-87.74171299999999"
+    },
+    {
       "name": "Original Greenbay Cafe",
       "distance": "0.9 mi",
       "url": "https://www.google.com/maps/search/?api=1&query=Original%20Greenbay%20Cafe&query_place_id=ChIJ1-mkoffED4gReNyq4SALbhc&center=42.1066667,-87.7347222"
@@ -51,6 +76,11 @@
       "name": "Three Tarts Bakery & Cafe",
       "distance": "0.9 mi",
       "url": "https://www.google.com/maps/search/?api=1&query=Three%20Tarts%20Bakery%20%26%20Cafe&query_place_id=ChIJb4ZqSyzED4gRVv_4vXlQhZU&center=42.0997614,-87.7681793"
+    },
+    {
+      "name": "Fresh Made Cafe and Smoothie Bar",
+      "distance": "1.1 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Fresh%20Made%20Cafe%20and%20Smoothie%20Bar&query_place_id=ChIJD1iq4mDFD4gReLyjB9z2Bf8&center=42.107900699999995,-87.7735816"
     }
   ],
   "team_lunch": [

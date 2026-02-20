@@ -16,14 +16,31 @@
       "url": "https://www.google.com/maps/search/?api=1&query=ZENSHI%20Handcrafted%20Sushi&query_place_id=ChIJN6shwjXV5YkRPXd8eb1dAFU&center=41.6619119,-71.9133186"
     },
     {
+      "name": "Dunkin'",
+      "distance": "0.8 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Dunkin'&query_place_id=ChIJ2ywUWs7V5YkRi05MlQ8Cyhw&center=41.663272600000006,-71.91330119999999"
+    },
+    {
       "name": "Wendy's",
       "distance": "0.9 mi",
       "url": "https://www.google.com/maps/search/?api=1&query=Wendy's&query_place_id=ChIJHz9NwM7V5YkRJ1BMxDcUgUY&center=41.6648182,-71.91240549999999"
     },
     {
+      "name": "Dunkin'",
+      "distance": "3.7 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Dunkin'&query_place_id=ChIJhRUWpHV_5okRuhLwgGl6ANw&center=41.698482899999995,-71.9719227",
+      "isFar": true
+    },
+    {
       "name": "Subway",
       "distance": "4.5 mi",
       "url": "https://www.google.com/maps/search/?api=1&query=Subway&query_place_id=ChIJvY757SnV5YkRedtYZdFVPSM&center=41.7191906,-71.9035799",
+      "isFar": true
+    },
+    {
+      "name": "Subway",
+      "distance": "5.0 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Subway&query_place_id=ChIJIW14DPrX5YkRhMvwjAY6_uw&center=41.5853135,-71.9394459",
       "isFar": true
     }
   ],
@@ -32,6 +49,11 @@
       "name": "Dunkin'",
       "distance": "0.8 mi",
       "url": "https://www.google.com/maps/search/?api=1&query=Dunkin'&query_place_id=ChIJ2ywUWs7V5YkRi05MlQ8Cyhw&center=41.663272600000006,-71.91330119999999"
+    },
+    {
+      "name": "McDonald's",
+      "distance": "0.9 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=McDonald's&query_place_id=ChIJh54YrsjV5YkRMLeBmmf5vK8&center=41.666975199999996,-71.9156979"
     },
     {
       "name": "Baker's Dozen of Plainfield",

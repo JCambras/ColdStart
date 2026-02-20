@@ -11,6 +11,11 @@
       "url": "https://www.google.com/maps/search/?api=1&query=KFC&query_place_id=ChIJb_qAr8kH44kRsYAsWvPSQOY&center=42.689603999999996,-71.15277999999999"
     },
     {
+      "name": "Dunkin'",
+      "distance": "0.3 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Dunkin'&query_place_id=ChIJXaLBYcoH44kRr_TGUKcXyFQ&center=42.6888253,-71.1482204"
+    },
+    {
       "name": "Wendy's",
       "distance": "0.3 mi",
       "url": "https://www.google.com/maps/search/?api=1&query=Wendy's&query_place_id=ChIJCYMNdMoH44kRLxEqbF9XoZA&center=42.689071999999996,-71.1487363"
@@ -24,6 +29,26 @@
       "name": "Popeyes Louisiana Kitchen",
       "distance": "0.4 mi",
       "url": "https://www.google.com/maps/search/?api=1&query=Popeyes%20Louisiana%20Kitchen&query_place_id=ChIJvS5mZfQH44kRVK-SM5iTinU&center=42.6909252,-71.15053429999999"
+    },
+    {
+      "name": "Dunkin'",
+      "distance": "0.6 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Dunkin'&query_place_id=ChIJXaLBYcoH44kR8sLH-wJoUFE&center=42.685071699999995,-71.13976699999999"
+    },
+    {
+      "name": "Passion Steak Tacos Food Truck #2",
+      "distance": "0.7 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Passion%20Steak%20Tacos%20Food%20Truck%20%232&query_place_id=ChIJkS44Hl0H44kRnzEY87_ep2M&center=42.6922533,-71.1603234"
+    },
+    {
+      "name": "Mr. Takeout",
+      "distance": "0.9 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Mr.%20Takeout&query_place_id=ChIJCRdQRysG44kRiEOHlqFGF6w&center=42.6737347,-71.14363"
+    },
+    {
+      "name": "Carlos Cakes",
+      "distance": "1.0 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Carlos%20Cakes&query_place_id=ChIJF4YitLEH44kRI3Mwtrdn-Q0&center=42.6985643,-71.1535768"
     }
   ],
   "coffee": [
@@ -51,6 +76,11 @@
       "name": "Dunkin'",
       "distance": "0.6 mi",
       "url": "https://www.google.com/maps/search/?api=1&query=Dunkin'&query_place_id=ChIJXaLBYcoH44kR8sLH-wJoUFE&center=42.685071699999995,-71.13976699999999"
+    },
+    {
+      "name": "McDonald's",
+      "distance": "1.1 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=McDonald's&query_place_id=ChIJQXoK6-sH44kRW3HoutYf434&center=42.6902243,-71.17291949999999"
     }
   ],
   "team_lunch": [

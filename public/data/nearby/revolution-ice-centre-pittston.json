@@ -19,6 +19,36 @@
       "name": "Taco Bell",
       "distance": "1.4 mi",
       "url": "https://www.google.com/maps/search/?api=1&query=Taco%20Bell&query_place_id=ChIJAWIHd6kfxYkRSgkLunkrxIk&center=41.313667900000006,-75.7573601"
+    },
+    {
+      "name": "Burger King",
+      "distance": "1.5 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Burger%20King&query_place_id=ChIJqXQ7lL0fxYkR9t7bKsijqLM&center=41.314336399999995,-75.7567949"
+    },
+    {
+      "name": "Subway",
+      "distance": "1.5 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Subway&query_place_id=ChIJr_GssQ4fxYkRFYR-RPjXkZI&center=41.3157372,-75.7587333"
+    },
+    {
+      "name": "Wendy's",
+      "distance": "1.5 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Wendy's&query_place_id=ChIJqXQ7lL0fxYkRNAe5jWUC314&center=41.314069499999995,-75.7551307"
+    },
+    {
+      "name": "PJ Fresh Marketplace",
+      "distance": "1.5 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=PJ%20Fresh%20Marketplace&query_place_id=ChIJp_vzSkwfxYkR84es1Ux5PK0&center=41.3141876,-75.7549623"
+    },
+    {
+      "name": "PrimoHoagies",
+      "distance": "1.6 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=PrimoHoagies&query_place_id=ChIJQ_0b6y8fxYkRnc5DKxzr4zk&center=41.3159069,-75.7561991"
+    },
+    {
+      "name": "Subway",
+      "distance": "1.7 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Subway&query_place_id=ChIJHQdUDhAfxYkRFb-X30xnZQM&center=41.320980999999996,-75.771081"
     }
   ],
   "coffee": [
@@ -31,6 +61,11 @@
       "name": "The Avenue Coffee & Cafe",
       "distance": "0.6 mi",
       "url": "https://www.google.com/maps/search/?api=1&query=The%20Avenue%20Coffee%20%26%20Cafe&query_place_id=ChIJ287lM6MfxYkRwZA5XrpE4_4&center=41.3052931,-75.7698553"
+    },
+    {
+      "name": "McDonald's",
+      "distance": "0.9 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=McDonald's&query_place_id=ChIJg7bWDqUfxYkRMzHoCxL5Of8&center=41.3070119,-75.7641301"
     },
     {
       "name": "Bubble Barista",

@@ -3,51 +3,99 @@
     {
       "name": "That'sa Pizza: Hammond Rd",
       "distance": "0.6 mi",
-      "url": "https://www.google.com/maps/search/That'sa%20Pizza%3A%20Hammond%20Rd+near+44.708913599999995%2C-85.5446087"
+      "url": "https://www.google.com/maps/search/?api=1&query=That'sa%20Pizza%3A%20Hammond%20Rd&query_place_id=ChIJNa5o6FjNH4gRZnj1JSGf9gk&center=44.714862,-85.554464"
     },
     {
       "name": "Krispy Krunchy Chicken",
       "distance": "0.7 mi",
-      "url": "https://www.google.com/maps/search/Krispy%20Krunchy%20Chicken+near+44.708913599999995%2C-85.5446087"
+      "url": "https://www.google.com/maps/search/?api=1&query=Krispy%20Krunchy%20Chicken&query_place_id=ChIJzzDfgN3NH4gRJ8q9ChXlYqg&center=44.7158902,-85.55623109999999"
     },
     {
       "name": "Subway",
       "distance": "2.5 mi",
-      "url": "https://www.google.com/maps/search/Subway+near+44.708913599999995%2C-85.5446087"
+      "url": "https://www.google.com/maps/search/?api=1&query=Subway&query_place_id=ChIJ5bqp6c7MH4gRILZfSbunx4g&center=44.7156953,-85.5945911"
     },
     {
       "name": "Bob Evans",
       "distance": "2.5 mi",
-      "url": "https://www.google.com/maps/search/Bob%20Evans+near+44.708913599999995%2C-85.5446087"
+      "url": "https://www.google.com/maps/search/?api=1&query=Bob%20Evans&query_place_id=ChIJ8flXerxyaYgRJQSIJF9vFeg&center=44.7453206,-85.53721449999999"
     },
     {
       "name": "Whitefish Wayne's - A Great Lakes Food Truck",
       "distance": "2.6 mi",
-      "url": "https://www.google.com/maps/search/Whitefish%20Wayne's%20-%20A%20Great%20Lakes%20Food%20Truck+near+44.708913599999995%2C-85.5446087"
+      "url": "https://www.google.com/maps/search/?api=1&query=Whitefish%20Wayne's%20-%20A%20Great%20Lakes%20Food%20Truck&query_place_id=ChIJV3MQNQrNH4gR-IB4Xw5x4n0&center=44.7461318,-85.54270729999999"
+    },
+    {
+      "name": "Burger King",
+      "distance": "2.8 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Burger%20King&query_place_id=ChIJaZZSk-nNH4gR_TLPPuSFJ54&center=44.7470876,-85.5261531"
+    },
+    {
+      "name": "Burger King",
+      "distance": "3.1 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Burger%20King&query_place_id=ChIJ3_sx9y7NH4gRbXtc0L7X-LQ&center=44.7336303,-85.59611389999999",
+      "isFar": true
+    },
+    {
+      "name": "Wendy's",
+      "distance": "3.1 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Wendy's&query_place_id=ChIJZTwGU7HNH4gR8NEbRLuAQiA&center=44.734736399999996,-85.5959238",
+      "isFar": true
+    },
+    {
+      "name": "Taqueria Las Lagunas",
+      "distance": "3.2 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Taqueria%20Las%20Lagunas&query_place_id=ChIJnVQmWZUrS00RkMAeGAm3nLU&center=44.73515510000001,-85.598084",
+      "isFar": true
+    },
+    {
+      "name": "Jimmy John's",
+      "distance": "3.3 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Jimmy%20John's&query_place_id=ChIJN1uDoizNH4gRUGZO0J5n1M8&center=44.7338167,-85.6010718",
+      "isFar": true
     }
   ],
   "coffee": [
     {
       "name": "Cuppa Joe Eastside",
       "distance": "2.5 mi",
-      "url": "https://www.google.com/maps/search/Cuppa%20Joe%20Eastside+near+44.708913599999995%2C-85.5446087"
+      "url": "https://www.google.com/maps/search/?api=1&query=Cuppa%20Joe%20Eastside&query_place_id=ChIJfRRp6czNH4gRJ-PGTjUhcA0&center=44.745153099999996,-85.5366389"
     },
     {
-      "name": "Cherry Country Cafe & Gift Shop Inc.",
-      "distance": "2.6 mi",
-      "url": "https://www.google.com/maps/search/Cherry%20Country%20Cafe%20%26%20Gift%20Shop%20Inc.+near+44.708913599999995%2C-85.5446087"
+      "name": "Big Apple Bagels",
+      "distance": "3.1 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Big%20Apple%20Bagels&query_place_id=ChIJSz0NCSzNH4gRNEhcEgwt63A&center=44.733049099999995,-85.5980428",
+      "isFar": true
+    },
+    {
+      "name": "Third Coast Bakery",
+      "distance": "3.8 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Third%20Coast%20Bakery&query_place_id=ChIJTxxKzTovS00RzG-gJyAEV2s&center=44.758075500000004,-85.57756719999999",
+      "isFar": true
     }
   ],
   "team_lunch": [
     {
       "name": "Morganic Farm CSA Pickup",
       "distance": "1.1 mi",
-      "url": "https://www.google.com/maps/search/Morganic%20Farm%20CSA%20Pickup+near+44.708913599999995%2C-85.5446087"
+      "url": "https://www.google.com/maps/search/?api=1&query=Morganic%20Farm%20CSA%20Pickup&query_place_id=ChIJ8S4ju5_NH4gRiDJBlANECmQ&center=44.722413499999995,-85.5571346"
     },
     {
       "name": "G J's Pizza & Market",
       "distance": "2.8 mi",
-      "url": "https://www.google.com/maps/search/G%20J's%20Pizza%20%26%20Market+near+44.708913599999995%2C-85.5446087"
+      "url": "https://www.google.com/maps/search/?api=1&query=G%20J's%20Pizza%20%26%20Market&query_place_id=ChIJI7U6q-HNH4gRNl6la1N8AOo&center=44.746469999999995,-85.5228016"
+    },
+    {
+      "name": "Keke's Cheesecakes",
+      "distance": "3.7 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Keke's%20Cheesecakes&query_place_id=ChIJN6TxVVQzHogRyQXvd45JdGg&center=44.739568399999996,-85.60708300000002",
+      "isFar": true
+    },
+    {
+      "name": "The Midori Plate",
+      "distance": "3.9 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=The%20Midori%20Plate&query_place_id=ChIJ-5btqeHNH4gRcJMAGPCrfc8&center=44.7441243,-85.60686059999999",
+      "isFar": true
     }
   ],
   "dinner": [

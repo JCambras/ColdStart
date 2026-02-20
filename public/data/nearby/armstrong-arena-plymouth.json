@@ -11,6 +11,11 @@
       "url": "https://www.google.com/maps/search/?api=1&query=Wendy's&query_place_id=ChIJ00LiiU-65IkRJUqN1z7nL7o&center=41.9298005,-70.6589824"
     },
     {
+      "name": "Dunkin'",
+      "distance": "0.5 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Dunkin'&query_place_id=ChIJE0a780-65IkRdN7KxwkRu0A&center=41.933273799999995,-70.6586657"
+    },
+    {
       "name": "Pizza Factory & Steakhouse",
       "distance": "0.6 mi",
       "url": "https://www.google.com/maps/search/?api=1&query=Pizza%20Factory%20%26%20Steakhouse&query_place_id=ChIJBYlv-FC65IkR6jQpbcbEg94&center=41.934109,-70.659632"
@@ -24,6 +29,12 @@
       "name": "Chick-fil-A",
       "distance": "3.3 mi",
       "url": "https://www.google.com/maps/search/?api=1&query=Chick-fil-A&query_place_id=ChIJ2QkQY7-75IkR8dWBOk9aAX4&center=41.9525599,-70.7114387",
+      "isFar": true
+    },
+    {
+      "name": "Wendy's",
+      "distance": "3.4 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Wendy's&query_place_id=ChIJoeOpDXy75IkRgTJs26MrSLo&center=41.9515143,-70.7128529",
       "isFar": true
     }
   ],
@@ -49,9 +60,29 @@
       "url": "https://www.google.com/maps/search/?api=1&query=Dunkin'&query_place_id=ChIJE0a780-65IkRdN7KxwkRu0A&center=41.933273799999995,-70.6586657"
     },
     {
+      "name": "McDonald's",
+      "distance": "0.7 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=McDonald's&query_place_id=ChIJ3ey9zla65IkRczP6ll806nc&center=41.9361976,-70.6613349"
+    },
+    {
       "name": "Plimoth General Store & Eatery",
       "distance": "2.2 mi",
       "url": "https://www.google.com/maps/search/?api=1&query=Plimoth%20General%20Store%20%26%20Eatery&query_place_id=ChIJI3YjX7-75IkRKr8Qk7Z02iM&center=41.9566357,-70.6647512"
+    },
+    {
+      "name": "Keegan Kreations",
+      "distance": "2.2 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Keegan%20Kreations&query_place_id=ChIJTX9uX8Rw44kRj5Ncv_lwu6I&center=41.9574232,-70.66602999999999"
+    },
+    {
+      "name": "Gunther Tootie's Bagel",
+      "distance": "2.2 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Gunther%20Tootie's%20Bagel&query_place_id=ChIJl3wLCeG65IkR4xz_37hAJlU&center=41.9574285,-70.666091"
+    },
+    {
+      "name": "McDonald's",
+      "distance": "2.4 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=McDonald's&query_place_id=ChIJzYXn0g-75IkR6PWsVASrhX8&center=41.952964,-70.686376"
     }
   ],
   "team_lunch": [
@@ -84,6 +115,16 @@
       "name": "Man vs Fries",
       "distance": "0.4 mi",
       "url": "https://www.google.com/maps/search/?api=1&query=Man%20vs%20Fries&query_place_id=ChIJEYpedfK75IkRw17AKmBkZBs&center=41.9312551,-70.6589269"
+    },
+    {
+      "name": "Cafe Create a Cake LLC",
+      "distance": "1.8 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Cafe%20Create%20a%20Cake%20LLC&query_place_id=ChIJ-eJFe9e75IkRaDj6h-_CGVU&center=41.908083,-70.6814081"
+    },
+    {
+      "name": "Cares O-lot Confections",
+      "distance": "2.6 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Cares%20O-lot%20Confections&query_place_id=ChIJ8__Jm5u75IkR6XSg1iYBQkA&center=41.91574370000001,-70.7053353"
     }
   ],
   "dinner": [

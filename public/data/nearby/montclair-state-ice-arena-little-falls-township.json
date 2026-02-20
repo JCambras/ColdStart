@@ -6,6 +6,16 @@
       "url": "https://www.google.com/maps/search/?api=1&query=Jersey%20Mike's%20Subs&query_place_id=ChIJzx0Fy7D_wokRFVlTgsTOYbg&center=40.864092199999995,-74.1958408"
     },
     {
+      "name": "Dunkin’ Donuts",
+      "distance": "0.2 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Dunkin%E2%80%99%20Donuts&query_place_id=ChIJy1Y5NAD_wokRQWlrYtjwU4k&center=40.8641741,-74.1952051"
+    },
+    {
+      "name": "Dunkin’",
+      "distance": "0.4 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Dunkin%E2%80%99&query_place_id=ChIJ_UIYBAD_wokRwhszLnfawms&center=40.8597586,-74.1997454"
+    },
+    {
       "name": "Panda Express",
       "distance": "0.4 mi",
       "url": "https://www.google.com/maps/search/?api=1&query=Panda%20Express&query_place_id=ChIJHepSkGv_wokRB8-6zYFnFHc&center=40.8597586,-74.1997454"
@@ -24,6 +34,21 @@
       "name": "SnowFox Sushi",
       "distance": "1.3 mi",
       "url": "https://www.google.com/maps/search/?api=1&query=SnowFox%20Sushi&query_place_id=ChIJkwGw2dv_wokRz86LWAhaf8I&center=40.8819458,-74.21217200000001"
+    },
+    {
+      "name": "Krispy Kreme",
+      "distance": "1.5 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Krispy%20Kreme&query_place_id=ChIJdYsQDwD_wokRmVjYSIq81EQ&center=40.885055799999996,-74.20997899999999"
+    },
+    {
+      "name": "Troops Subs",
+      "distance": "1.5 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Troops%20Subs&query_place_id=ChIJi4WBGPj-wokRqORW4yldIT0&center=40.8698348,-74.16948839999999"
+    },
+    {
+      "name": "Little prince corner",
+      "distance": "1.8 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Little%20prince%20corner&query_place_id=ChIJd1EU7kX_wokRA2qIa5Cphzs&center=40.8619704,-74.164642"
     }
   ],
   "coffee": [
@@ -51,6 +76,16 @@
       "name": "Dunkin’",
       "distance": "0.4 mi",
       "url": "https://www.google.com/maps/search/?api=1&query=Dunkin%E2%80%99&query_place_id=ChIJ_UIYBAD_wokRwhszLnfawms&center=40.8597586,-74.1997454"
+    },
+    {
+      "name": "Panera Bread",
+      "distance": "0.5 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Panera%20Bread&query_place_id=ChIJ0yViNhb_wokRpw31e-gF1wQ&center=40.859196,-74.19914"
+    },
+    {
+      "name": "McDonald's",
+      "distance": "0.5 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=McDonald's&query_place_id=ChIJVSoTFTr-wokR82cETPZzV5Y&center=40.8723447,-74.1947218"
     }
   ],
   "team_lunch": [
@@ -83,6 +118,26 @@
       "name": "The Student Center Cafe",
       "distance": "0.2 mi",
       "url": "https://www.google.com/maps/search/?api=1&query=The%20Student%20Center%20Cafe&query_place_id=ChIJs3cB4sr_wokRr1ziMrMWhUw&center=40.8626581,-74.1969512"
+    },
+    {
+      "name": "Farmer's Fridge",
+      "distance": "0.4 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Farmer's%20Fridge&query_place_id=ChIJAXNQgEn_wokRgXrmdGzPkYY&center=40.8597586,-74.1997454"
+    },
+    {
+      "name": "David's Cookies Headquarters",
+      "distance": "1.2 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=David's%20Cookies%20Headquarters&query_place_id=ChIJGwcWxCoAw4kRf0-OKLBqAlM&center=40.8656334,-74.220546"
+    },
+    {
+      "name": "David's Cookies Facility",
+      "distance": "1.2 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=David's%20Cookies%20Facility&query_place_id=ChIJsTaERvKlNagR5CvE7WRCtHg&center=40.866919599999996,-74.2206692"
+    },
+    {
+      "name": "Beyond the Bagel",
+      "distance": "1.8 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Beyond%20the%20Bagel&query_place_id=ChIJ9Wu0C-b_wokR-PCT6UxrldU&center=40.8411869,-74.2073817"
     }
   ],
   "dinner": [

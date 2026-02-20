@@ -3,72 +3,121 @@
     {
       "name": "NICOLE’S FOOD TRUCK",
       "distance": "0.3 mi",
-      "url": "https://www.google.com/maps/search/NICOLE%E2%80%99S%20FOOD%20TRUCK+near+39.0786973%2C-76.9210992"
+      "url": "https://www.google.com/maps/search/?api=1&query=NICOLE%E2%80%99S%20FOOD%20TRUCK&query_place_id=ChIJ4VkZe3bdt4kR6iqeMHHUi-A&center=39.080878999999996,-76.91586149999999"
     },
     {
       "name": "Subway",
       "distance": "1.3 mi",
-      "url": "https://www.google.com/maps/search/Subway+near+39.0786973%2C-76.9210992"
+      "url": "https://www.google.com/maps/search/?api=1&query=Subway&query_place_id=ChIJQUIyfTPbt4kRDzAXzZBLHag&center=39.0831119,-76.9450662"
     },
     {
       "name": "Hangry Joe's Hot Chicken & Wings",
       "distance": "1.3 mi",
-      "url": "https://www.google.com/maps/search/Hangry%20Joe's%20Hot%20Chicken%20%26%20Wings+near+39.0786973%2C-76.9210992"
+      "url": "https://www.google.com/maps/search/?api=1&query=Hangry%20Joe's%20Hot%20Chicken%20%26%20Wings&query_place_id=ChIJE3DKasXbt4kRVWhYbKMQD1c&center=39.081971599999996,-76.9457953"
     },
     {
       "name": "Chipotle Mexican Grill",
       "distance": "1.4 mi",
-      "url": "https://www.google.com/maps/search/Chipotle%20Mexican%20Grill+near+39.0786973%2C-76.9210992"
+      "url": "https://www.google.com/maps/search/?api=1&query=Chipotle%20Mexican%20Grill&query_place_id=ChIJaUqlF_Lbt4kRUTds9eeTgtQ&center=39.0821727,-76.9467744"
+    },
+    {
+      "name": "Dunkin'",
+      "distance": "1.4 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Dunkin'&query_place_id=ChIJpw8m84bbt4kRwG2d5gNyMYI&center=39.082856299999996,-76.9467722"
     },
     {
       "name": "Popeyes Louisiana Kitchen",
       "distance": "1.7 mi",
-      "url": "https://www.google.com/maps/search/Popeyes%20Louisiana%20Kitchen+near+39.0786973%2C-76.9210992"
+      "url": "https://www.google.com/maps/search/?api=1&query=Popeyes%20Louisiana%20Kitchen&query_place_id=ChIJ_x-aaCHbt4kR-vV77HfLCew&center=39.084243,-76.95154"
     },
     {
-      "name": "Chuck E. Cheese",
-      "distance": "3.8 mi",
-      "url": "https://www.google.com/maps/search/Chuck%20E.%20Cheese+near+39.0786973%2C-76.9210992",
-      "isFar": true
+      "name": "Chipotle Mexican Grill",
+      "distance": "1.7 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Chipotle%20Mexican%20Grill&query_place_id=ChIJSw16kovdt4kRYpzzrbkgRWo&center=39.083373,-76.889938"
+    },
+    {
+      "name": "Jersey Mike's Subs",
+      "distance": "1.7 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Jersey%20Mike's%20Subs&query_place_id=ChIJ22B4Rindt4kRN_xEb0-eRCs&center=39.0834335,-76.88953269999999"
+    },
+    {
+      "name": "Wawa",
+      "distance": "1.8 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Wawa&query_place_id=ChIJ27SAcO7dt4kRphht4S8u0_8&center=39.082826,-76.888902"
+    },
+    {
+      "name": "Taco Bell",
+      "distance": "2.1 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Taco%20Bell&query_place_id=ChIJ8xK0PpLEt4kRJgfq5xLyDkk&center=39.0506252,-76.9367286"
     }
   ],
   "coffee": [
     {
       "name": "Icebreakers Cafe",
       "distance": "0.1 mi",
-      "url": "https://www.google.com/maps/search/Icebreakers%20Cafe+near+39.0786973%2C-76.9210992"
+      "url": "https://www.google.com/maps/search/?api=1&query=Icebreakers%20Cafe&query_place_id=ChIJYxJ80FTbt4kRc1b5upy0C5Y&center=39.078595,-76.921651"
     },
     {
       "name": "Dunkin'",
       "distance": "1.4 mi",
-      "url": "https://www.google.com/maps/search/Dunkin'+near+39.0786973%2C-76.9210992"
+      "url": "https://www.google.com/maps/search/?api=1&query=Dunkin'&query_place_id=ChIJpw8m84bbt4kRwG2d5gNyMYI&center=39.082856299999996,-76.9467722"
+    },
+    {
+      "name": "McDonald's",
+      "distance": "1.4 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=McDonald's&query_place_id=ChIJnV6qmjTbt4kRX3yUp8EAmRA&center=39.0827963,-76.94727089999999"
+    },
+    {
+      "name": "Wawa",
+      "distance": "1.8 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Wawa&query_place_id=ChIJ27SAcO7dt4kRphht4S8u0_8&center=39.082826,-76.888902"
+    },
+    {
+      "name": "McDonald's",
+      "distance": "2.3 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=McDonald's&query_place_id=ChIJK1SX2HHbt4kRW4UPY_grgos&center=39.1102458,-76.9334843"
+    },
+    {
+      "name": "McDonald's",
+      "distance": "2.3 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=McDonald's&query_place_id=ChIJWXtEsI3Et4kR8ga0v5cZp1k&center=39.0478216,-76.93744629999999"
+    },
+    {
+      "name": "McDonald's",
+      "distance": "2.5 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=McDonald's&query_place_id=ChIJqVLVn-XEt4kRiuSE_SKdn98&center=39.0536047,-76.9542792"
     }
   ],
   "team_lunch": [
     {
       "name": "DOVIS BEST RESTAURANT & BAR, CYNDY'S SEAFOOD",
       "distance": "1.3 mi",
-      "url": "https://www.google.com/maps/search/DOVIS%20BEST%20RESTAURANT%20%26%20BAR%2C%20CYNDY'S%20SEAFOOD+near+39.0786973%2C-76.9210992"
+      "url": "https://www.google.com/maps/search/?api=1&query=DOVIS%20BEST%20RESTAURANT%20%26%20BAR%2C%20CYNDY'S%20SEAFOOD&query_place_id=ChIJGY0gYdLbt4kRoc28UU3IQ6o&center=39.0824936,-76.9448924"
     },
     {
       "name": "Cielo Dorado Bakery & Deli",
       "distance": "1.3 mi",
-      "url": "https://www.google.com/maps/search/Cielo%20Dorado%20Bakery%20%26%20Deli+near+39.0786973%2C-76.9210992"
+      "url": "https://www.google.com/maps/search/?api=1&query=Cielo%20Dorado%20Bakery%20%26%20Deli&query_place_id=ChIJWW9CYQDbt4kRKuQav1GIofg&center=39.0832857,-76.9453612"
     },
     {
       "name": "Don Pollo of Briggs Chaney",
       "distance": "1.3 mi",
-      "url": "https://www.google.com/maps/search/Don%20Pollo%20of%20Briggs%20Chaney+near+39.0786973%2C-76.9210992"
+      "url": "https://www.google.com/maps/search/?api=1&query=Don%20Pollo%20of%20Briggs%20Chaney&query_place_id=ChIJZb8oYDPbt4kR7lVnF2IWtas&center=39.083357199999995,-76.9455134"
     },
     {
       "name": "Hip Hop Fish & Chicken",
       "distance": "1.7 mi",
-      "url": "https://www.google.com/maps/search/Hip%20Hop%20Fish%20%26%20Chicken+near+39.0786973%2C-76.9210992"
+      "url": "https://www.google.com/maps/search/?api=1&query=Hip%20Hop%20Fish%20%26%20Chicken&query_place_id=ChIJA8SZn2Hbt4kRNf43MLRUmyk&center=39.0837253,-76.9519959"
     },
     {
       "name": "Taco Mex",
       "distance": "1.7 mi",
-      "url": "https://www.google.com/maps/search/Taco%20Mex+near+39.0786973%2C-76.9210992"
+      "url": "https://www.google.com/maps/search/?api=1&query=Taco%20Mex&query_place_id=ChIJW-momjLbt4kR6g7ZtuQ786E&center=39.0836858,-76.9523474"
+    },
+    {
+      "name": "Giant Food Bakery",
+      "distance": "2.5 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Giant%20Food%20Bakery&query_place_id=ChIJ1b4_YgDbt4kR5Arp1NyTSUM&center=39.1131783,-76.9355339"
     }
   ],
   "dinner": [

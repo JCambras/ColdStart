@@ -11,6 +11,11 @@
       "url": "https://www.google.com/maps/search/?api=1&query=Pizza%20Hut%20Express&query_place_id=ChIJnaVxbFzm5okRv4uqUYClmcI&center=42.0860492,-72.56016369999999"
     },
     {
+      "name": "Dunkin'",
+      "distance": "0.4 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Dunkin'&query_place_id=ChIJhVOgo1zm5okRBLDmBaupZiw&center=42.0858584,-72.55702389999999"
+    },
+    {
       "name": "The Farmer's House Restaurant",
       "distance": "0.4 mi",
       "url": "https://www.google.com/maps/search/?api=1&query=The%20Farmer's%20House%20Restaurant&query_place_id=ChIJkRHDpmPn5okRTpbXPex8sow&center=42.0855853,-72.5561262"
@@ -19,6 +24,31 @@
       "name": "Subway",
       "distance": "0.4 mi",
       "url": "https://www.google.com/maps/search/?api=1&query=Subway&query_place_id=ChIJh2UpUlvm5okRNQd6f-43PFU&center=42.0866717,-72.55649"
+    },
+    {
+      "name": "Dunkin'",
+      "distance": "0.4 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Dunkin'&query_place_id=ChIJhVOgo1zm5okRLYzgLaavLr4&center=42.086902599999995,-72.5560306"
+    },
+    {
+      "name": "Souper Sweet Sandwich Shop",
+      "distance": "0.9 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Souper%20Sweet%20Sandwich%20Shop&query_place_id=ChIJ0VhnpkDm5okRnOioUArGGSs&center=42.083862599999996,-72.5444335"
+    },
+    {
+      "name": "Subway",
+      "distance": "1.2 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Subway&query_place_id=ChIJ31lhwT3m5okRXdOW1q5y7uo&center=42.079785199999996,-72.5367488"
+    },
+    {
+      "name": "Subway",
+      "distance": "1.4 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Subway&query_place_id=ChIJ0ZaYaK3n5okR2SO17kkTqTI&center=42.1022098,-72.5566223"
+    },
+    {
+      "name": "Fu's Chinchorreo",
+      "distance": "1.5 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Fu's%20Chinchorreo&query_place_id=ChIJqSzYjGrn5okRCODqBXpOgTo&center=42.0961656,-72.5816395"
     }
   ],
   "coffee": [
@@ -31,6 +61,11 @@
       "name": "Dunkin'",
       "distance": "0.4 mi",
       "url": "https://www.google.com/maps/search/?api=1&query=Dunkin'&query_place_id=ChIJhVOgo1zm5okRLYzgLaavLr4&center=42.086902599999995,-72.5560306"
+    },
+    {
+      "name": "McDonald's",
+      "distance": "1.2 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=McDonald's&query_place_id=ChIJJ_rsI-7m5okRmEKZK3gOvzM&center=42.0913937,-72.5801817"
     },
     {
       "name": "La Fiorentina Pastry Shop",

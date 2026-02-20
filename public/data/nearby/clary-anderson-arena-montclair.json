@@ -1,21 +1,6 @@
 {
   "quick_bite": [
     {
-      "name": "Halcyon",
-      "distance": "0.2 mi",
-      "url": "https://www.google.com/maps/search/?api=1&query=Halcyon&query_place_id=ChIJWV31-VFVwokR6JTW97g0O50&center=40.817592999999995,-74.21151499999999"
-    },
-    {
-      "name": "Downtown Montclair 2BR Apt Parking & Train Nearby",
-      "distance": "0.3 mi",
-      "url": "https://www.google.com/maps/search/?api=1&query=Downtown%20Montclair%202BR%20Apt%20Parking%20%26%20Train%20Nearby&query_place_id=ChIJj2P-B05VwokRyWE5IsmVDN0&center=40.8163986,-74.2120438"
-    },
-    {
-      "name": "Downtown Montclair | 2BR Apt | Parking Train Nearby",
-      "distance": "0.3 mi",
-      "url": "https://www.google.com/maps/search/?api=1&query=Downtown%20Montclair%20%7C%202BR%20Apt%20%7C%20Parking%20Train%20Nearby&query_place_id=ChIJbxz-B05VwokRf5wZgfCJYTU&center=40.816390999999996,-74.2120438"
-    },
-    {
       "name": "CARS Eatery",
       "distance": "0.6 mi",
       "url": "https://www.google.com/maps/search/?api=1&query=CARS%20Eatery&query_place_id=ChIJafqFQquqw4kRn6hM9VgoatU&center=40.823718,-74.21935599999999"
@@ -56,14 +41,19 @@
       "name": "The Corner",
       "distance": "0.3 mi",
       "url": "https://www.google.com/maps/search/?api=1&query=The%20Corner&query_place_id=ChIJuYuJv09VwokR9I1suoMaWtY&center=40.8151638,-74.2076776"
+    },
+    {
+      "name": "Tous Les Jours Montclair",
+      "distance": "0.6 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Tous%20Les%20Jours%20Montclair&query_place_id=ChIJxa9ktMGrw4kRIIeLwzEWNVY&center=40.8148597,-74.2190878"
+    },
+    {
+      "name": "Stuff by SJ",
+      "distance": "0.6 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Stuff%20by%20SJ&query_place_id=ChIJ1421UuJVwokR9GE-FpB6mr8&center=40.8117729,-74.2151009"
     }
   ],
   "team_lunch": [
-    {
-      "name": "Oso Felipe",
-      "distance": "0.1 mi",
-      "url": "https://www.google.com/maps/search/?api=1&query=Oso%20Felipe&query_place_id=ChIJp0HuRU1VwokRqckV89VYgjA&center=40.817931200000004,-74.2099269"
-    },
     {
       "name": "Maison Fête",
       "distance": "0.2 mi",
@@ -88,6 +78,11 @@
       "name": "Bar Focaccia",
       "distance": "0.6 mi",
       "url": "https://www.google.com/maps/search/?api=1&query=Bar%20Focaccia&query_place_id=ChIJqxJXuVVVwokRQGCTbJdR4K4&center=40.813340000000004,-74.217073"
+    },
+    {
+      "name": "Sunrise Bagels",
+      "distance": "0.7 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Sunrise%20Bagels&query_place_id=ChIJC-aZX_f_wokRwEzXvvZcK9g&center=40.8300322,-74.2060968"
     }
   ],
   "dinner": [

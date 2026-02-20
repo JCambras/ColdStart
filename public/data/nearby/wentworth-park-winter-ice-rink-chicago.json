@@ -1,14 +1,14 @@
 {
   "quick_bite": [
     {
-      "name": "Harmony Restaurant",
-      "distance": "0.3 mi",
-      "url": "https://www.google.com/maps/search/?api=1&query=Harmony%20Restaurant&query_place_id=ChIJ5dzicc82DogRAgt6UbqYZO0&center=41.7920249,-87.7852874"
-    },
-    {
       "name": "Home Run Inn Pizza",
       "distance": "0.4 mi",
       "url": "https://www.google.com/maps/search/?api=1&query=Home%20Run%20Inn%20Pizza&query_place_id=ChIJYbTnXjMxDogR5fcNTEFwNQI&center=41.79335210000001,-87.7753283"
+    },
+    {
+      "name": "Dunkin'",
+      "distance": "0.5 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Dunkin'&query_place_id=ChIJVYlXesQ2DogRHo0_ztwNS6s&center=41.792430499999995,-87.7906914"
     },
     {
       "name": "Triano's Pizza",
@@ -29,6 +29,26 @@
       "name": "Subway",
       "distance": "0.8 mi",
       "url": "https://www.google.com/maps/search/?api=1&query=Subway&query_place_id=ChIJDfpNtCk3DogRq_b0L3cG7hU&center=41.77797270000001,-87.7835547"
+    },
+    {
+      "name": "Archer bakery",
+      "distance": "0.9 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Archer%20bakery&query_place_id=ChIJiZdbHgA3DogRca8Rpn3e3_U&center=41.7917497,-87.798693"
+    },
+    {
+      "name": "Potbelly",
+      "distance": "1.0 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Potbelly&query_place_id=ChIJ19003OU2DogRcIbRdZuKCxk&center=41.7879616,-87.8008277"
+    },
+    {
+      "name": "Subway",
+      "distance": "1.0 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Subway&query_place_id=ChIJHzsfGjkxDogR41cEL1rg5aA&center=41.795164299999996,-87.7629182"
+    },
+    {
+      "name": "Subway",
+      "distance": "1.1 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Subway&query_place_id=ChIJV33xsO42DogR3kjiKHmc_Ek&center=41.793627799999996,-87.8010922"
     }
   ],
   "coffee": [
@@ -36,6 +56,11 @@
       "name": "Prime Nutrition",
       "distance": "0.4 mi",
       "url": "https://www.google.com/maps/search/?api=1&query=Prime%20Nutrition&query_place_id=ChIJsfZNk1A3DogRizD78LH2EhE&center=41.7920054,-87.7870015"
+    },
+    {
+      "name": "McDonald's",
+      "distance": "0.5 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=McDonald's&query_place_id=ChIJMW_meGkxDogRicRaFhpCTD4&center=41.7923696,-87.78994159999999"
     },
     {
       "name": "Dunkin'",

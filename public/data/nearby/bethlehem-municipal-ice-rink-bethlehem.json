@@ -1,6 +1,11 @@
 {
   "quick_bite": [
     {
+      "name": "Wawa",
+      "distance": "0.7 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Wawa&query_place_id=ChIJe8perQU_xIkRD_mARURBt-o&center=40.635666,-75.39529999999999"
+    },
+    {
       "name": "Carl's Corner",
       "distance": "0.7 mi",
       "url": "https://www.google.com/maps/search/?api=1&query=Carl's%20Corner&query_place_id=ChIJAUdmxa0_xIkRJXhiACobY18&center=40.631196599999996,-75.3783289"
@@ -29,9 +34,29 @@
       "name": "Potts' Doggie Shop",
       "distance": "0.9 mi",
       "url": "https://www.google.com/maps/search/?api=1&query=Potts'%20Doggie%20Shop&query_place_id=ChIJPxNCV6s_xIkRV88grQT1Qpg&center=40.627914499999996,-75.3823462"
+    },
+    {
+      "name": "Dunkin'",
+      "distance": "1.0 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Dunkin'&query_place_id=ChIJwfQR_7M_xIkR44Vj5yIBoRg&center=40.6307154,-75.370564"
+    },
+    {
+      "name": "Jersey Mike's Subs",
+      "distance": "1.0 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Jersey%20Mike's%20Subs&query_place_id=ChIJtfbfNAA_xIkRpsDSsZRfLj8&center=40.6425067,-75.4037827"
+    },
+    {
+      "name": "McDonald’s",
+      "distance": "1.1 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=McDonald%E2%80%99s&query_place_id=ChIJAcDnVAA_xIkRksa75-An5-k&center=40.6440494,-75.4047744"
     }
   ],
   "coffee": [
+    {
+      "name": "Wawa",
+      "distance": "0.7 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Wawa&query_place_id=ChIJe8perQU_xIkRD_mARURBt-o&center=40.635666,-75.39529999999999"
+    },
     {
       "name": "Jumbars",
       "distance": "0.7 mi",

@@ -1,6 +1,11 @@
 {
   "quick_bite": [
     {
+      "name": "Dunkin'",
+      "distance": "0.2 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Dunkin'&query_place_id=ChIJ8--6irBUDogRUO36iTfTcZI&center=41.895719,-88.10137150000001"
+    },
+    {
       "name": "KFC",
       "distance": "0.2 mi",
       "url": "https://www.google.com/maps/search/?api=1&query=KFC&query_place_id=ChIJO4iHrLFUDogRX-3rKYJXwek&center=41.8960289,-88.1014417"
@@ -24,9 +29,34 @@
       "name": "Jack in the Box",
       "distance": "0.4 mi",
       "url": "https://www.google.com/maps/search/?api=1&query=Jack%20in%20the%20Box&query_place_id=ChIJdWB8KO1VDogRyjk6bzBzICE&center=41.888523,-88.105706"
+    },
+    {
+      "name": "Jersey Mike's Subs",
+      "distance": "0.4 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Jersey%20Mike's%20Subs&query_place_id=ChIJMcH-QpNVDogRldxyYJtqMPs&center=41.888945899999996,-88.1063695"
+    },
+    {
+      "name": "Lou Malnati's Pizzeria",
+      "distance": "0.6 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Lou%20Malnati's%20Pizzeria&query_place_id=ChIJTSCIYbxUDogRJy_FBVJQUEc&center=41.888498899999995,-88.1111413"
+    },
+    {
+      "name": "Taco Bell",
+      "distance": "1.1 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Taco%20Bell&query_place_id=ChIJzxd3QVNTDogRDcz6Nel4byg&center=41.902239699999996,-88.08410649999999"
+    },
+    {
+      "name": "Subway",
+      "distance": "1.1 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Subway&query_place_id=ChIJwfEBP1NTDogRAn8Yk28RzsQ&center=41.9009469,-88.082933"
     }
   ],
   "coffee": [
+    {
+      "name": "McDonald's-Schmale Rd-O'Keefe Family Restaurants",
+      "distance": "0.1 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=McDonald's-Schmale%20Rd-O'Keefe%20Family%20Restaurants&query_place_id=ChIJifdfebpUDogR_gjkW7tWyH8&center=41.8940334,-88.1023793"
+    },
     {
       "name": "Beverly's Café",
       "distance": "0.1 mi",
@@ -38,9 +68,9 @@
       "url": "https://www.google.com/maps/search/?api=1&query=Dunkin'&query_place_id=ChIJ8--6irBUDogRUO36iTfTcZI&center=41.895719,-88.10137150000001"
     },
     {
-      "name": "Tracy's",
-      "distance": "0.3 mi",
-      "url": "https://www.google.com/maps/search/?api=1&query=Tracy's&query_place_id=ChIJCb_Zu7lUDogRXsb1CSAkGqs&center=41.8926678,-88.1064322"
+      "name": "McDonald's Glendale Heights-O’Keefe Family Restaurants",
+      "distance": "1.2 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=McDonald's%20Glendale%20Heights-O%E2%80%99Keefe%20Family%20Restaurants&query_place_id=ChIJMboalVJTDogR1k0_m2wwdBw&center=41.9023715,-88.0814856"
     }
   ],
   "team_lunch": [

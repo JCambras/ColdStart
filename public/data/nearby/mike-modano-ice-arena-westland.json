@@ -3,56 +3,96 @@
     {
       "name": "KFC",
       "distance": "0.4 mi",
-      "url": "https://www.google.com/maps/search/KFC+near+42.3302748%2C-83.37741729999999"
+      "url": "https://www.google.com/maps/search/?api=1&query=KFC&query_place_id=ChIJj-fpjv5MO4gRFsEi6KJMlgo&center=42.324393099999995,-83.3759549"
     },
     {
       "name": "Popeyes Louisiana Kitchen",
       "distance": "0.4 mi",
-      "url": "https://www.google.com/maps/search/Popeyes%20Louisiana%20Kitchen+near+42.3302748%2C-83.37741729999999"
+      "url": "https://www.google.com/maps/search/?api=1&query=Popeyes%20Louisiana%20Kitchen&query_place_id=ChIJZ9uF4AFNO4gRssVbBRjyigI&center=42.324239299999995,-83.37889419999999"
+    },
+    {
+      "name": "Dunkin'",
+      "distance": "0.4 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Dunkin'&query_place_id=ChIJxcfEwwFNO4gR8Cz4j2tzHW0&center=42.3242302,-83.3797063"
     },
     {
       "name": "Jet's Pizza",
       "distance": "0.4 mi",
-      "url": "https://www.google.com/maps/search/Jet's%20Pizza+near+42.3302748%2C-83.37741729999999"
+      "url": "https://www.google.com/maps/search/?api=1&query=Jet's%20Pizza&query_place_id=ChIJt_8aERtNO4gR3Q42hHjK_uU&center=42.332789999999996,-83.38534489999999"
     },
     {
-      "name": "Buffalo Wild Wings",
-      "distance": "0.5 mi",
-      "url": "https://www.google.com/maps/search/Buffalo%20Wild%20Wings+near+42.3302748%2C-83.37741729999999"
+      "name": "Taco Bell",
+      "distance": "0.6 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Taco%20Bell&query_place_id=ChIJ3yojRRlNO4gRza4tZXWQLhA&center=42.336588,-83.3853132"
+    },
+    {
+      "name": "Subway",
+      "distance": "0.9 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Subway&query_place_id=ChIJu04XWj1NO4gR2uzIsu0znVc&center=42.3404891,-83.3890253"
+    },
+    {
+      "name": "Firehouse Subs Westridge",
+      "distance": "1.0 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Firehouse%20Subs%20Westridge&query_place_id=ChIJe1xT7BZNO4gRMEVD6MqQ400&center=42.338135,-83.39334"
+    },
+    {
+      "name": "Sonic Drive-In",
+      "distance": "1.0 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Sonic%20Drive-In&query_place_id=ChIJvyrBuSNNO4gRQ-UL_yKUsV8&center=42.3439787,-83.3858604"
+    },
+    {
+      "name": "A&W Restaurant",
+      "distance": "1.1 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=A%26W%20Restaurant&query_place_id=ChIJY9oTWfNMO4gRcB-bpHDvfYg&center=42.3246797,-83.35802389999999"
+    },
+    {
+      "name": "Subway",
+      "distance": "1.1 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Subway&query_place_id=ChIJm_AHrgtNO4gRDmhA9QvYUp4&center=42.324556699999995,-83.3970805"
     }
   ],
   "coffee": [
     {
       "name": "Dunkin'",
       "distance": "0.4 mi",
-      "url": "https://www.google.com/maps/search/Dunkin'+near+42.3302748%2C-83.37741729999999"
+      "url": "https://www.google.com/maps/search/?api=1&query=Dunkin'&query_place_id=ChIJxcfEwwFNO4gR8Cz4j2tzHW0&center=42.3242302,-83.3797063"
     },
     {
       "name": "McDonald's",
       "distance": "0.4 mi",
-      "url": "https://www.google.com/maps/search/McDonald's+near+42.3302748%2C-83.37741729999999"
+      "url": "https://www.google.com/maps/search/?api=1&query=McDonald's&query_place_id=ChIJlQMRlf5MO4gR7K0_2peMStI&center=42.3241885,-83.3750376"
     },
     {
       "name": "Apollonia Cafe",
       "distance": "0.6 mi",
-      "url": "https://www.google.com/maps/search/Apollonia%20Cafe+near+42.3302748%2C-83.37741729999999"
+      "url": "https://www.google.com/maps/search/?api=1&query=Apollonia%20Cafe&query_place_id=ChIJmdVwZzNNO4gRIB2wBn-HKSs&center=42.3322341,-83.387909"
     },
     {
       "name": "Cafe Shkodra",
       "distance": "0.6 mi",
-      "url": "https://www.google.com/maps/search/Cafe%20Shkodra+near+42.3302748%2C-83.37741729999999"
+      "url": "https://www.google.com/maps/search/?api=1&query=Cafe%20Shkodra&query_place_id=ChIJc-q02gZNO4gRMFyXIKzyd7Y&center=42.3242046,-83.3850181"
+    },
+    {
+      "name": "McDonald's",
+      "distance": "0.7 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=McDonald's&query_place_id=ChIJsddptBhNO4gRCQhlBr3-VVQ&center=42.3393847,-83.3843232"
     }
   ],
   "team_lunch": [
     {
       "name": "Tubby's Sub Shop",
       "distance": "0.4 mi",
-      "url": "https://www.google.com/maps/search/Tubby's%20Sub%20Shop+near+42.3302748%2C-83.37741729999999"
+      "url": "https://www.google.com/maps/search/?api=1&query=Tubby's%20Sub%20Shop&query_place_id=ChIJnf43BpRNO4gRggFkBXYV1oQ&center=42.3243748,-83.3756497"
     },
     {
       "name": "Hibachi Grill and Buffet",
       "distance": "0.6 mi",
-      "url": "https://www.google.com/maps/search/Hibachi%20Grill%20and%20Buffet+near+42.3302748%2C-83.37741729999999"
+      "url": "https://www.google.com/maps/search/?api=1&query=Hibachi%20Grill%20and%20Buffet&query_place_id=ChIJhX3HBRtNO4gRTp9fl_a_Wis&center=42.332719999999995,-83.3879463"
+    },
+    {
+      "name": "Antonia's Italian Bakery Company",
+      "distance": "0.8 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Antonia's%20Italian%20Bakery%20Company&query_place_id=ChIJTe1-_6FNO4gRmGZNj_0RMmQ&center=42.3246916,-83.36383819999999"
     }
   ],
   "dinner": [

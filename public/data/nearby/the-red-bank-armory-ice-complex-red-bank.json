@@ -11,6 +11,11 @@
       "url": "https://www.google.com/maps/search/?api=1&query=G%26G%20Hot%20Dogs&query_place_id=ChIJeVzWLzUwwokR6V1XtIKq05A&center=40.349981899999996,-74.07642919999999"
     },
     {
+      "name": "Wawa",
+      "distance": "0.3 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Wawa&query_place_id=ChIJWYGXXDUwwokRBmRPDjpeqNI&center=40.3513616,-74.0758046"
+    },
+    {
       "name": "WindMill Hot Dogs of Red Bank",
       "distance": "0.4 mi",
       "url": "https://www.google.com/maps/search/?api=1&query=WindMill%20Hot%20Dogs%20of%20Red%20Bank&query_place_id=ChIJjWJCYDUwwokRy701Yyw-MTw&center=40.351735,-74.075648"
@@ -19,12 +24,6 @@
       "name": "Harvest Moon Hut",
       "distance": "0.4 mi",
       "url": "https://www.google.com/maps/search/?api=1&query=Harvest%20Moon%20Hut&query_place_id=ChIJb2twRskxwokRnzsek-zzR2g&center=40.3497841,-74.0665197"
-    },
-    {
-      "name": "Chuck E. Cheese",
-      "distance": "4.0 mi",
-      "url": "https://www.google.com/maps/search/?api=1&query=Chuck%20E.%20Cheese&query_place_id=ChIJjSWQx0IxwokR4gBPvwUMu0o&center=40.3982374,-74.10864839999999",
-      "isFar": true
     }
   ],
   "coffee": [
@@ -49,9 +48,19 @@
       "url": "https://www.google.com/maps/search/?api=1&query=Volcafe&query_place_id=ChIJvb48GTUwwokRECQBBX6c4sg&center=40.349587,-74.07533169999999"
     },
     {
+      "name": "Wawa",
+      "distance": "0.3 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Wawa&query_place_id=ChIJWYGXXDUwwokRBmRPDjpeqNI&center=40.3513616,-74.0758046"
+    },
+    {
       "name": "Paris Baguette",
       "distance": "0.4 mi",
       "url": "https://www.google.com/maps/search/?api=1&query=Paris%20Baguette&query_place_id=ChIJP8RA_y4xwokRjY7waVQOtsU&center=40.347788699999995,-74.0654911"
+    },
+    {
+      "name": "Bakers On Broad",
+      "distance": "0.4 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Bakers%20On%20Broad&query_place_id=ChIJw6-0feoxwokRD_MIbBWU5HU&center=40.348955,-74.0649404"
     }
   ],
   "team_lunch": [

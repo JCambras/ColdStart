@@ -1,11 +1,6 @@
 {
   "quick_bite": [
     {
-      "name": "Let's Sushi",
-      "distance": "1.6 mi",
-      "url": "https://www.google.com/maps/search/?api=1&query=Let's%20Sushi&query_place_id=ChIJyc2oWACJNIgRjF4Fvk1sV28&center=40.6135551,-80.0532133"
-    },
-    {
       "name": "Wendy's",
       "distance": "1.6 mi",
       "url": "https://www.google.com/maps/search/?api=1&query=Wendy's&query_place_id=ChIJB771R4KJNIgR5Rl6IeWlRqM&center=40.6156447,-80.054814"
@@ -29,6 +24,28 @@
       "name": "Taco Bell / KFC",
       "distance": "2.3 mi",
       "url": "https://www.google.com/maps/search/?api=1&query=Taco%20Bell%20%2F%20KFC&query_place_id=ChIJnQQW8L6LNIgRZw9SJWcpOlE&center=40.584942,-80.0371212"
+    },
+    {
+      "name": "Subway",
+      "distance": "2.3 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Subway&query_place_id=ChIJ-8C-x7mLNIgR6ltQwawqe-c&center=40.584645599999995,-80.039389"
+    },
+    {
+      "name": "Bob's Sub",
+      "distance": "2.4 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Bob's%20Sub&query_place_id=ChIJz5WWhruLNIgRsJq8PM7EtvE&center=40.582082899999996,-80.0369095"
+    },
+    {
+      "name": "Subway",
+      "distance": "3.6 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Subway&query_place_id=ChIJJeu3cQJeNIgRMEVyj52ZPXQ&center=40.6152352,-80.0913164",
+      "isFar": true
+    },
+    {
+      "name": "Arby's",
+      "distance": "4.1 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Arby's&query_place_id=ChIJEYjj4nOONIgRSkBNo5hBWo4&center=40.6067916,-79.9467616",
+      "isFar": true
     }
   ],
   "coffee": [
@@ -56,6 +73,31 @@
       "name": "Starbucks Coffee Company",
       "distance": "1.6 mi",
       "url": "https://www.google.com/maps/search/?api=1&query=Starbucks%20Coffee%20Company&query_place_id=ChIJSxGJHICJNIgRdYm59clq0HU&center=40.622589999999995,-80.05340000000001"
+    },
+    {
+      "name": "McDonald's",
+      "distance": "1.7 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=McDonald's&query_place_id=ChIJu-s1AICJNIgRvNfCS7MgYV4&center=40.610161,-80.0540532"
+    },
+    {
+      "name": "Cadence Clubhouse",
+      "distance": "1.7 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Cadence%20Clubhouse&query_place_id=ChIJYXO3taWLNIgRulCGLlC1nxM&center=40.592685599999996,-80.0156555"
+    },
+    {
+      "name": "Cafe Conmigo - Wexford",
+      "distance": "1.7 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Cafe%20Conmigo%20-%20Wexford&query_place_id=ChIJvcn7zKWJNIgRd21UADZZJnw&center=40.612556399999995,-80.054985"
+    },
+    {
+      "name": "Peace, Love and Little Donuts of Wexford",
+      "distance": "2.0 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Peace%2C%20Love%20and%20Little%20Donuts%20of%20Wexford&query_place_id=ChIJ-wPGY5-JNIgRAQzUTGCPhcQ&center=40.630058399999996,-80.05729989999999"
+    },
+    {
+      "name": "Bartram House Bakery",
+      "distance": "2.1 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Bartram%20House%20Bakery&query_place_id=ChIJ6WElG6GJNIgRRBSSFCBtBps&center=40.6333336,-80.0568419"
     }
   ],
   "team_lunch": [

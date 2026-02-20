@@ -29,13 +29,43 @@
       "name": "Jimmy John's",
       "distance": "1.4 mi",
       "url": "https://www.google.com/maps/search/?api=1&query=Jimmy%20John's&query_place_id=ChIJcTygpY--D4gRbOquU4N5ufo&center=42.1702648,-87.9217808"
+    },
+    {
+      "name": "Chick-fil-A",
+      "distance": "1.5 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Chick-fil-A&query_place_id=ChIJK71qriq9D4gRAnmoYbIWEGE&center=42.1581869,-87.9606826"
+    },
+    {
+      "name": "Wendy's",
+      "distance": "1.6 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Wendy's&query_place_id=ChIJy7p_4qK9D4gRlQc40jT98RU&center=42.1967091,-87.9648594"
+    },
+    {
+      "name": "Subway",
+      "distance": "1.6 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Subway&query_place_id=ChIJH12A4qK9D4gRBmI2H2LdGOE&center=42.196882599999995,-87.9651731"
+    },
+    {
+      "name": "Jersey Mike's Subs",
+      "distance": "1.6 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Jersey%20Mike's%20Subs&query_place_id=ChIJEbWbplm8D4gRIe-IDdyr0zI&center=42.1563254,-87.9587694"
     }
   ],
   "coffee": [
     {
+      "name": "McDonald's",
+      "distance": "1.6 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=McDonald's&query_place_id=ChIJObm0cAq-D4gReQc_f-Brkcw&center=42.1982966,-87.9327773"
+    },
+    {
       "name": "Deerfields Bakery - Buffalo Grove",
       "distance": "1.7 mi",
       "url": "https://www.google.com/maps/search/?api=1&query=Deerfields%20Bakery%20-%20Buffalo%20Grove&query_place_id=ChIJrQWgy2e8D4gRxjgyvUhMbOc&center=42.1566951,-87.9630638"
+    },
+    {
+      "name": "McDonald's",
+      "distance": "1.8 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=McDonald's&query_place_id=ChIJQ4t-eRO8D4gRDQhuloM4uoE&center=42.152666499999995,-87.95058039999999"
     }
   ],
   "team_lunch": [

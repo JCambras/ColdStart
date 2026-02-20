@@ -1,6 +1,11 @@
 {
   "quick_bite": [
     {
+      "name": "Dunkin'",
+      "distance": "0.1 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Dunkin'&query_place_id=ChIJ4VVf_LJZwokRJenYZQ6SvGQ&center=40.750562099999996,-73.99347089999999"
+    },
+    {
       "name": "Chick-fil-A",
       "distance": "0.1 mi",
       "url": "https://www.google.com/maps/search/?api=1&query=Chick-fil-A&query_place_id=ChIJEWLHKwxZwokRFAotaI0A6tE&center=40.751293499999996,-73.99269629999999"
@@ -9,6 +14,11 @@
       "name": "Raising Cane's Chicken Fingers",
       "distance": "0.1 mi",
       "url": "https://www.google.com/maps/search/?api=1&query=Raising%20Cane's%20Chicken%20Fingers&query_place_id=ChIJ_-4-VcdZwokRaUIsCdExQco&center=40.7511423,-73.99246459999999"
+    },
+    {
+      "name": "Dunkin’ Donuts",
+      "distance": "0.1 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Dunkin%E2%80%99%20Donuts&query_place_id=ChIJ1frhZQBZwokR9PAWlRgiyMg&center=40.751087299999995,-73.9922431"
     },
     {
       "name": "R Slice Pizza",
@@ -51,6 +61,16 @@
       "name": "Dunkin’ Donuts",
       "distance": "0.1 mi",
       "url": "https://www.google.com/maps/search/?api=1&query=Dunkin%E2%80%99%20Donuts&query_place_id=ChIJ1frhZQBZwokR9PAWlRgiyMg&center=40.751087299999995,-73.9922431"
+    },
+    {
+      "name": "Pret A Manger",
+      "distance": "0.1 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Pret%20A%20Manger&query_place_id=ChIJ6UdEcaRZwokRHssIrmUo8uk&center=40.75128,-73.99186399999999"
+    },
+    {
+      "name": "Pret A Manger",
+      "distance": "0.1 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Pret%20A%20Manger&query_place_id=ChIJMwXyOr5ZwokRW_kcAE0h9S0&center=40.7507032,-73.9910704"
     }
   ],
   "team_lunch": [
@@ -83,6 +103,26 @@
       "name": "Zaro's Family Bakery",
       "distance": "0.1 mi",
       "url": "https://www.google.com/maps/search/?api=1&query=Zaro's%20Family%20Bakery&query_place_id=ChIJ30krXK5ZwokRN_iwisXhHxI&center=40.7511894,-73.992175"
+    },
+    {
+      "name": "H&H Bagels",
+      "distance": "0.1 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=H%26H%20Bagels&query_place_id=ChIJDd3IkoBZwokReUVlqft6YS0&center=40.7511448,-73.9918246"
+    },
+    {
+      "name": "Vesuvio Bakery Moynihan Train Hall",
+      "distance": "0.1 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Vesuvio%20Bakery%20Moynihan%20Train%20Hall&query_place_id=ChIJrW4JIp1ZwokRCe0L95wnvvA&center=40.751625399999995,-73.9948885"
+    },
+    {
+      "name": "Magnolia Bakery - Moynihan Train Hall",
+      "distance": "0.1 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Magnolia%20Bakery%20-%20Moynihan%20Train%20Hall&query_place_id=ChIJKcqx0LRZwokRDlocSbnaLoY&center=40.751626699999996,-73.9954372"
+    },
+    {
+      "name": "H&H Bagels",
+      "distance": "0.1 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=H%26H%20Bagels&query_place_id=ChIJF6XdfChZwokR_z5fZ1tycE0&center=40.7515116,-73.99555459999999"
     }
   ],
   "dinner": [

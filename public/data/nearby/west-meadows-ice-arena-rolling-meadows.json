@@ -1,6 +1,11 @@
 {
   "quick_bite": [
     {
+      "name": "Dunkin'",
+      "distance": "0.3 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Dunkin'&query_place_id=ChIJr--31BilD4gRInZkSTJUejA&center=42.096009099999996,-88.0335396"
+    },
+    {
       "name": "Subway",
       "distance": "0.6 mi",
       "url": "https://www.google.com/maps/search/?api=1&query=Subway&query_place_id=ChIJr8yJNTKlD4gRUoDTs13UpxU&center=42.0890879,-88.0200764"
@@ -19,6 +24,31 @@
       "name": "Subway",
       "distance": "0.7 mi",
       "url": "https://www.google.com/maps/search/?api=1&query=Subway&query_place_id=ChIJ0yHOgQ6lD4gRKvcxh0R_vYw&center=42.0898481,-88.04447040000001"
+    },
+    {
+      "name": "Billy's Hot Dogs, Beef and Sandwiches",
+      "distance": "0.7 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Billy's%20Hot%20Dogs%2C%20Beef%20and%20Sandwiches&query_place_id=ChIJ44CQDASlD4gRMKmjRQy8VWo&center=42.096300400000004,-88.0444718"
+    },
+    {
+      "name": "Dario's",
+      "distance": "1.5 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Dario's&query_place_id=ChIJ_3ThufCkD4gR0zBLufCzXEU&center=42.112044499999996,-88.0455947"
+    },
+    {
+      "name": "Julies mexican restaurant",
+      "distance": "1.5 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Julies%20mexican%20restaurant&query_place_id=ChIJkal62EClD4gRdaBuD3Yqdg0&center=42.0890726,-88.06081379999999"
+    },
+    {
+      "name": "Jimmy John's",
+      "distance": "1.6 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Jimmy%20John's&query_place_id=ChIJiVl2TrulD4gRWTmv2q4qCUw&center=42.088678,-88.0616739"
+    },
+    {
+      "name": "Wendy's",
+      "distance": "1.6 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Wendy's&query_place_id=ChIJZx9EKOqkD4gRYtG2OneeYUY&center=42.115890799999995,-88.0335314"
     }
   ],
   "coffee": [
@@ -41,6 +71,16 @@
       "name": "Hangout cafe",
       "distance": "0.7 mi",
       "url": "https://www.google.com/maps/search/?api=1&query=Hangout%20cafe&query_place_id=ChIJj4z7AhelD4gR4Vng4ZwN0RQ&center=42.0895825,-88.0447501"
+    },
+    {
+      "name": "McDonald's",
+      "distance": "1.2 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=McDonald's&query_place_id=ChIJwZYO90ilD4gRib6QPsQSIsI&center=42.0786071,-88.0192191"
+    },
+    {
+      "name": "McDonald's",
+      "distance": "1.3 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=McDonald's&query_place_id=ChIJ7YolQ9G6D4gRQ4HF1X_yVVc&center=42.094836099999995,-88.0060586"
     }
   ],
   "team_lunch": [

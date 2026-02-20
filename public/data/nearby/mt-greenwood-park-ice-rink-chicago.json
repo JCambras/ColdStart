@@ -6,11 +6,6 @@
       "url": "https://www.google.com/maps/search/?api=1&query=Nicky%20V%E2%80%99s%20Beef%2C%20Dogs%2C%20and%20Food%20Trucks&query_place_id=ChIJ8WPr2g47DogRnRU_DdLP2Xg&center=41.691443,-87.7199921"
     },
     {
-      "name": "Las Fuentes",
-      "distance": "0.6 mi",
-      "url": "https://www.google.com/maps/search/?api=1&query=Las%20Fuentes&query_place_id=ChIJl0PrfRY7DogRn7Ltz1_xH40&center=41.6836182,-87.7195516"
-    },
-    {
       "name": "NICKY'S The Real McCoy",
       "distance": "0.6 mi",
       "url": "https://www.google.com/maps/search/?api=1&query=NICKY'S%20The%20Real%20McCoy&query_place_id=ChIJ5eYSJRQ7DogR6TCifEvY5ow&center=41.6828068,-87.7203509"
@@ -19,15 +14,56 @@
       "name": "Poor Dog Inc",
       "distance": "0.6 mi",
       "url": "https://www.google.com/maps/search/?api=1&query=Poor%20Dog%20Inc&query_place_id=ChIJD674hRY7DogRjt6S5tAAU54&center=41.683578999999995,-87.722285"
+    },
+    {
+      "name": "Burger King",
+      "distance": "0.7 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Burger%20King&query_place_id=ChIJGQV3dCw7DogRhZKbRX68ntI&center=41.6926211,-87.7011457"
+    },
+    {
+      "name": "Subway",
+      "distance": "0.7 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Subway&query_place_id=ChIJGWsL4DM7DogR8n6M4F-DtOA&center=41.6839642,-87.7038766"
+    },
+    {
+      "name": "Taco Bell",
+      "distance": "0.9 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Taco%20Bell&query_place_id=ChIJHbtT1hQ7DogReM_HoxLv48E&center=41.6791017,-87.7201893"
+    },
+    {
+      "name": "Subway",
+      "distance": "1.0 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Subway&query_place_id=ChIJcWdm8uY6DogRPHBQgs8jAPU&center=41.705334099999995,-87.7203914"
+    },
+    {
+      "name": "Sonic Drive-In",
+      "distance": "1.1 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Sonic%20Drive-In&query_place_id=ChIJbR7HNtw7DogRCSiXSvGpo64&center=41.6761044,-87.7193205"
+    },
+    {
+      "name": "Mr. Submarine",
+      "distance": "1.1 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Mr.%20Submarine&query_place_id=ChIJBX8HU2o7DogRcoT9DTEvZYQ&center=41.6753005,-87.71925350000001"
+    },
+    {
+      "name": "South Side Shrimp",
+      "distance": "1.1 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=South%20Side%20Shrimp&query_place_id=ChIJ96j56tM6DogR4DMFl3X-wMk&center=41.7040088,-87.7016105"
     }
   ],
-  "coffee": [],
-  "team_lunch": [
+  "coffee": [
     {
-      "name": "La Fiesta Mexican Restaurant",
-      "distance": "0.5 mi",
-      "url": "https://www.google.com/maps/search/?api=1&query=La%20Fiesta%20Mexican%20Restaurant&query_place_id=ChIJN_XX6C47DogRti4_PDgOvXA&center=41.6912084,-87.7042539"
+      "name": "McDonald's",
+      "distance": "1.0 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=McDonald's&query_place_id=ChIJY8d6IWs7DogRU0xArMVpTZc&center=41.6770901,-87.72022840000001"
     },
+    {
+      "name": "McDonald's",
+      "distance": "1.2 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=McDonald's&query_place_id=ChIJ3ZAZM9I6DogRDykX7BgY8L4&center=41.705594,-87.701669"
+    }
+  ],
+  "team_lunch": [
     {
       "name": "Mariscos Estilo Nayarit",
       "distance": "0.6 mi",

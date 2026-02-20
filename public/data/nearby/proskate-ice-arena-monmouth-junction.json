@@ -11,9 +11,29 @@
       "url": "https://www.google.com/maps/search/?api=1&query=Burger%20King&query_place_id=ChIJ57qL4DPdw4kRG5qRatLysy8&center=40.4063449,-74.545805"
     },
     {
+      "name": "Dunkin'",
+      "distance": "1.1 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Dunkin'&query_place_id=ChIJoQOmGXTDw4kRCf8h6UqXxTI&center=40.4295626,-74.5176467"
+    },
+    {
+      "name": "Wawa",
+      "distance": "1.6 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Wawa&query_place_id=ChIJcfjwEv7Cw4kRqwYJQZ5R9sQ&center=40.4328158,-74.5475914"
+    },
+    {
       "name": "Taco Bell",
       "distance": "1.6 mi",
       "url": "https://www.google.com/maps/search/?api=1&query=Taco%20Bell&query_place_id=ChIJ5SeOfEnFw4kRGzTgZe9rCd0&center=40.4196775,-74.4984521"
+    },
+    {
+      "name": "Dunkin'",
+      "distance": "1.6 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Dunkin'&query_place_id=ChIJBRLnQwDDw4kRMG3Y71TDLV0&center=40.4349565,-74.54435459999999"
+    },
+    {
+      "name": "Dunkin'",
+      "distance": "1.6 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Dunkin'&query_place_id=ChIJD2Zd3JzDw4kRMzLoyPaDvQU&center=40.435155099999996,-74.51244729999999"
     },
     {
       "name": "5ive Spice | Best Indian Restaurant & Catering In Franklin Park NJ",
@@ -24,6 +44,11 @@
       "name": "Crown Fish and Chicken",
       "distance": "1.6 mi",
       "url": "https://www.google.com/maps/search/?api=1&query=Crown%20Fish%20and%20Chicken&query_place_id=ChIJHZ37VcvDw4kRFWvEb-B5nL8&center=40.4379498,-74.5362353"
+    },
+    {
+      "name": "Sonic Drive-In",
+      "distance": "1.8 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Sonic%20Drive-In&query_place_id=ChIJwWbFwfrCw4kRUvHQGl8gT90&center=40.429939499999996,-74.5569953"
     }
   ],
   "coffee": [
@@ -38,9 +63,29 @@
       "url": "https://www.google.com/maps/search/?api=1&query=Dunkin'&query_place_id=ChIJoQOmGXTDw4kRCf8h6UqXxTI&center=40.4295626,-74.5176467"
     },
     {
+      "name": "McDonald's",
+      "distance": "1.2 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=McDonald's&query_place_id=ChIJ7-u0V9bCw4kRtMPBZ3FsqIQ&center=40.406321,-74.54791"
+    },
+    {
+      "name": "Wawa",
+      "distance": "1.6 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Wawa&query_place_id=ChIJcfjwEv7Cw4kRqwYJQZ5R9sQ&center=40.4328158,-74.5475914"
+    },
+    {
       "name": "Dunkin'",
       "distance": "1.6 mi",
       "url": "https://www.google.com/maps/search/?api=1&query=Dunkin'&query_place_id=ChIJBRLnQwDDw4kRMG3Y71TDLV0&center=40.4349565,-74.54435459999999"
+    },
+    {
+      "name": "Dunkin'",
+      "distance": "1.6 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Dunkin'&query_place_id=ChIJD2Zd3JzDw4kRMzLoyPaDvQU&center=40.435155099999996,-74.51244729999999"
+    },
+    {
+      "name": "Bagel Mart & Cafe",
+      "distance": "1.9 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Bagel%20Mart%20%26%20Cafe&query_place_id=ChIJy_Z9zofDw4kRwJDTbPvo7PQ&center=40.438727,-74.5088194"
     }
   ],
   "team_lunch": [

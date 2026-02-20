@@ -1,6 +1,16 @@
 {
   "quick_bite": [
     {
+      "name": "Dunkin'",
+      "distance": "1.7 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Dunkin'&query_place_id=ChIJg71vYXHPwokRQIqFO5-jhRo&center=41.3355299,-73.9848411"
+    },
+    {
+      "name": "Dunkin'",
+      "distance": "3.0 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Dunkin'&query_place_id=ChIJbfvqMSbPwokRuB0-VdaBT40&center=41.2986291,-73.93652759999999"
+    },
+    {
       "name": "Subway",
       "distance": "4.0 mi",
       "url": "https://www.google.com/maps/search/?api=1&query=Subway&query_place_id=ChIJ6Sds89vIwokRJCI1Tx3IKM8&center=41.2904105,-73.9188149",
@@ -10,12 +20,6 @@
       "name": "Deli",
       "distance": "4.2 mi",
       "url": "https://www.google.com/maps/search/?api=1&query=Deli&query_place_id=ChIJP1cGdoDPwokRDpPcxv-EVnM&center=41.2655009,-73.93720739999999",
-      "isFar": true
-    },
-    {
-      "name": "West Point FMWR Bowling Center",
-      "distance": "4.9 mi",
-      "url": "https://www.google.com/maps/search/?api=1&query=West%20Point%20FMWR%20Bowling%20Center&query_place_id=ChIJOb7j317MwokRzdIQd8RMe_E&center=41.37874,-73.96391899999999",
       "isFar": true
     },
     {
@@ -42,6 +46,12 @@
       "url": "https://www.google.com/maps/search/?api=1&query=Dunkin'&query_place_id=ChIJbfvqMSbPwokRuB0-VdaBT40&center=41.2986291,-73.93652759999999"
     },
     {
+      "name": "McDonald's",
+      "distance": "4.0 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=McDonald's&query_place_id=ChIJM3jglLLIwokRB-DEOaU6o0w&center=41.2705266,-73.9366656",
+      "isFar": true
+    },
+    {
       "name": "Bake Me a Wish of Westchester",
       "distance": "4.0 mi",
       "url": "https://www.google.com/maps/search/?api=1&query=Bake%20Me%20a%20Wish%20of%20Westchester&query_place_id=ChIJRdkqSMjIwokRJGcBLgGo4j0&center=41.2793506,-73.9268886",
@@ -51,6 +61,12 @@
       "name": "Bear Mountain Bakery & Cafe",
       "distance": "4.3 mi",
       "url": "https://www.google.com/maps/search/?api=1&query=Bear%20Mountain%20Bakery%20%26%20Cafe&query_place_id=ChIJlUKxKpbNwokRz0CXZkBSmTk&center=41.370714899999996,-73.96521469999999",
+      "isFar": true
+    },
+    {
+      "name": "McDonald's",
+      "distance": "4.6 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=McDonald's&query_place_id=ChIJHeVeSEPMwokRyCeBX53AsJc&center=41.3748917,-73.96265939999999",
       "isFar": true
     }
   ],
@@ -69,12 +85,6 @@
       "name": "De Pasadita Food Truck",
       "distance": "3.1 mi",
       "url": "https://www.google.com/maps/search/?api=1&query=De%20Pasadita%20Food%20Truck&query_place_id=ChIJedS7_5_JwokR6hxgp-ROByk&center=41.2993494,-73.9344041",
-      "isFar": true
-    },
-    {
-      "name": "Apropos Restaurant at The Abbey Inn",
-      "distance": "3.5 mi",
-      "url": "https://www.google.com/maps/search/?api=1&query=Apropos%20Restaurant%20at%20The%20Abbey%20Inn&query_place_id=ChIJKYHkNdHIwokR3OuNOr5py0s&center=41.2927876,-73.9285774",
       "isFar": true
     },
     {

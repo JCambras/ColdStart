@@ -3,71 +3,71 @@
     {
       "name": "KFC",
       "distance": "0.2 mi",
-      "url": "https://www.google.com/maps/search/KFC+near+42.3014411%2C-84.0279006"
+      "url": "https://www.google.com/maps/search/?api=1&query=KFC&query_place_id=ChIJqRa5ubfOPIgRHoBW1fEjI6U&center=42.2988108,-84.02533679999999"
     },
     {
       "name": "Taco Bell",
       "distance": "0.2 mi",
-      "url": "https://www.google.com/maps/search/Taco%20Bell+near+42.3014411%2C-84.0279006"
+      "url": "https://www.google.com/maps/search/?api=1&query=Taco%20Bell&query_place_id=ChIJqRa5ubfOPIgR6Co3GuWz1l0&center=42.298805699999996,-84.025342"
     },
     {
       "name": "Culver’s",
       "distance": "0.2 mi",
-      "url": "https://www.google.com/maps/search/Culver%E2%80%99s+near+42.3014411%2C-84.0279006"
+      "url": "https://www.google.com/maps/search/?api=1&query=Culver%E2%80%99s&query_place_id=ChIJp8x9PjHPPIgR9LoLaacD2hI&center=42.2984043,-84.0255243"
     },
     {
       "name": "Wendy's",
       "distance": "0.3 mi",
-      "url": "https://www.google.com/maps/search/Wendy's+near+42.3014411%2C-84.0279006"
+      "url": "https://www.google.com/maps/search/?api=1&query=Wendy's&query_place_id=ChIJuwU9isfOPIgR21Hx3bHTrGU&center=42.297449799999995,-84.02883440000001"
+    },
+    {
+      "name": "Dunkin'",
+      "distance": "0.4 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Dunkin'&query_place_id=ChIJIyJiAmjPPIgR3k7HjAik1Pc&center=42.2966572,-84.0256027"
     },
     {
       "name": "Jimmy John's",
       "distance": "0.4 mi",
-      "url": "https://www.google.com/maps/search/Jimmy%20John's+near+42.3014411%2C-84.0279006"
+      "url": "https://www.google.com/maps/search/?api=1&query=Jimmy%20John's&query_place_id=ChIJk_cbMrLOPIgRebY1bKXKYto&center=42.304081200000006,-84.02034859999999"
     },
     {
       "name": "Subway",
       "distance": "0.5 mi",
-      "url": "https://www.google.com/maps/search/Subway+near+42.3014411%2C-84.0279006"
-    },
-    {
-      "name": "Cottage Inn Pizza Chelsea",
-      "distance": "0.9 mi",
-      "url": "https://www.google.com/maps/search/Cottage%20Inn%20Pizza%20Chelsea+near+42.3014411%2C-84.0279006"
+      "url": "https://www.google.com/maps/search/?api=1&query=Subway&query_place_id=ChIJf9XjDbLOPIgRmL2g5Xg5lXY&center=42.305065299999995,-84.0199387"
     }
   ],
   "coffee": [
     {
       "name": "McDonald's",
       "distance": "0.3 mi",
-      "url": "https://www.google.com/maps/search/McDonald's+near+42.3014411%2C-84.0279006"
+      "url": "https://www.google.com/maps/search/?api=1&query=McDonald's&query_place_id=ChIJm-PitLfOPIgRsVy6oqToGb8&center=42.2987562,-84.0241671"
     },
     {
       "name": "Starbucks Coffee Company",
       "distance": "0.3 mi",
-      "url": "https://www.google.com/maps/search/Starbucks%20Coffee%20Company+near+42.3014411%2C-84.0279006"
+      "url": "https://www.google.com/maps/search/?api=1&query=Starbucks%20Coffee%20Company&query_place_id=ChIJn3lnXLvPPIgROZZdYRXyZw0&center=42.29759,-84.02595"
     },
     {
       "name": "Dunkin'",
       "distance": "0.4 mi",
-      "url": "https://www.google.com/maps/search/Dunkin'+near+42.3014411%2C-84.0279006"
+      "url": "https://www.google.com/maps/search/?api=1&query=Dunkin'&query_place_id=ChIJIyJiAmjPPIgR3k7HjAik1Pc&center=42.2966572,-84.0256027"
     },
     {
       "name": "BIGGBY COFFEE",
       "distance": "0.4 mi",
-      "url": "https://www.google.com/maps/search/BIGGBY%20COFFEE+near+42.3014411%2C-84.0279006"
+      "url": "https://www.google.com/maps/search/?api=1&query=BIGGBY%20COFFEE&query_place_id=ChIJq6JW17POPIgRJeCqu392VdA&center=42.303721499999995,-84.021373"
     }
   ],
   "team_lunch": [
     {
       "name": "Chinese Tonite Restaurant",
       "distance": "0.5 mi",
-      "url": "https://www.google.com/maps/search/Chinese%20Tonite%20Restaurant+near+42.3014411%2C-84.0279006"
+      "url": "https://www.google.com/maps/search/?api=1&query=Chinese%20Tonite%20Restaurant&query_place_id=ChIJUTHmPbLOPIgRT7VQooALrvk&center=42.304834,-84.019939"
     },
     {
       "name": "Speedy Cafe",
       "distance": "0.5 mi",
-      "url": "https://www.google.com/maps/search/Speedy%20Cafe+near+42.3014411%2C-84.0279006"
+      "url": "https://www.google.com/maps/search/?api=1&query=Speedy%20Cafe&query_place_id=ChIJ-ygb35jPPIgRZvxkuKUaKJc&center=42.307224500000004,-84.0215276"
     }
   ],
   "dinner": [

@@ -14,6 +14,41 @@
       "name": "Wing Zone Hot Chicken & Wings",
       "distance": "0.5 mi",
       "url": "https://www.google.com/maps/search/?api=1&query=Wing%20Zone%20Hot%20Chicken%20%26%20Wings&query_place_id=ChIJo7WniRL5dYgRqy2aeXovD5w&center=38.7894247,-89.9809982"
+    },
+    {
+      "name": "Quiznos",
+      "distance": "0.5 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Quiznos&query_place_id=ChIJfcuaiGf4dYgRBDQAmC9lHmE&center=38.787768299999996,-89.98138279999999"
+    },
+    {
+      "name": "Subway",
+      "distance": "1.0 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Subway&query_place_id=ChIJYX2-bYr4dYgRwihVPJpgRcA&center=38.7793371,-89.9828228"
+    },
+    {
+      "name": "Penn Station East Coast Subs",
+      "distance": "1.0 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Penn%20Station%20East%20Coast%20Subs&query_place_id=ChIJh96J_Lr5dYgRvqjx39H31o0&center=38.7919473,-89.9531956"
+    },
+    {
+      "name": "Five Guys",
+      "distance": "1.1 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Five%20Guys&query_place_id=ChIJo-gByBf5dYgRTDP-0DqSlcU&center=38.79148,-89.950829"
+    },
+    {
+      "name": "Arby's",
+      "distance": "1.1 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Arby's&query_place_id=ChIJVWEtrbv5dYgRGtP_4_LY6dU&center=38.7923188,-89.9508903"
+    },
+    {
+      "name": "Jimmy John's",
+      "distance": "1.2 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Jimmy%20John's&query_place_id=ChIJN-YSosH5dYgRdBw0MPEEUi0&center=38.7766823,-89.98398019999999"
+    },
+    {
+      "name": "Taco Bell",
+      "distance": "1.2 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Taco%20Bell&query_place_id=ChIJLwmutLv5dYgR5Z-iuux_qQA&center=38.7927827,-89.9508623"
     }
   ],
   "coffee": [
@@ -33,9 +68,19 @@
       "url": "https://www.google.com/maps/search/?api=1&query=Twisted%20Biscuit%20Brunch%20Co.&query_place_id=ChIJpzTPvv_5dYgRzZO7PjEr1Yo&center=38.7883326,-89.98022209999999"
     },
     {
+      "name": "McDonald's",
+      "distance": "0.5 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=McDonald's&query_place_id=ChIJN4YmGl34dYgRDroNa1HKTZI&center=38.787791299999995,-89.9804601"
+    },
+    {
       "name": "The Cup",
       "distance": "0.6 mi",
       "url": "https://www.google.com/maps/search/?api=1&query=The%20Cup&query_place_id=ChIJfcuaiGf4dYgR5XIP5sUh9OM&center=38.787765199999996,-89.9819102"
+    },
+    {
+      "name": "McDonald's",
+      "distance": "1.2 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=McDonald's&query_place_id=ChIJvbPtSrr5dYgRQZUl1P40ajU&center=38.793076,-89.95069199999999"
     }
   ],
   "team_lunch": [
@@ -48,6 +93,16 @@
       "name": "China King",
       "distance": "0.5 mi",
       "url": "https://www.google.com/maps/search/?api=1&query=China%20King&query_place_id=ChIJc0JyS134dYgR-xvVrIJ1Rrs&center=38.7895843,-89.9803829"
+    },
+    {
+      "name": "Pasta House Co",
+      "distance": "0.5 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Pasta%20House%20Co&query_place_id=ChIJWfiYy134dYgRR03FdvppBg4&center=38.7856843,-89.9798502"
+    },
+    {
+      "name": "Sam's Club Bakery",
+      "distance": "1.2 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Sam's%20Club%20Bakery&query_place_id=ChIJq6qqXaj5dYgREJyoLLAAQG4&center=38.780574099999995,-89.955012"
     }
   ],
   "dinner": [

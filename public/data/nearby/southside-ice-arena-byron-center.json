@@ -3,28 +3,58 @@
     {
       "name": "Subway",
       "distance": "0.6 mi",
-      "url": "https://www.google.com/maps/search/Subway+near+42.7813837%2C-85.6772917"
+      "url": "https://www.google.com/maps/search/?api=1&query=Subway&query_place_id=ChIJN5xtc_W1GYgRJ78G0jzu_0Q&center=42.783354900000006,-85.6666638"
     },
     {
       "name": "Culver’s",
       "distance": "2.1 mi",
-      "url": "https://www.google.com/maps/search/Culver%E2%80%99s+near+42.7813837%2C-85.6772917"
+      "url": "https://www.google.com/maps/search/?api=1&query=Culver%E2%80%99s&query_place_id=ChIJfblqsb-1GYgREG8Zp3L9TFI&center=42.8116449,-85.6764953"
     },
     {
       "name": "Peppino's Pizza of Byron Center",
       "distance": "3.0 mi",
-      "url": "https://www.google.com/maps/search/Peppino's%20Pizza%20of%20Byron%20Center+near+42.7813837%2C-85.6772917"
+      "url": "https://www.google.com/maps/search/?api=1&query=Peppino's%20Pizza%20of%20Byron%20Center&query_place_id=ChIJ2ZiYVVK2GYgRJhUB1W6QCyY&center=42.8125856,-85.7178139"
     },
     {
       "name": "Player’s Fuel LLC",
       "distance": "3.0 mi",
-      "url": "https://www.google.com/maps/search/Player%E2%80%99s%20Fuel%20LLC+near+42.7813837%2C-85.6772917",
+      "url": "https://www.google.com/maps/search/?api=1&query=Player%E2%80%99s%20Fuel%20LLC&query_place_id=ChIJhZbg0Fm3GYgRp-p1sJgAqJc&center=42.8226829,-85.6966186",
       "isFar": true
     },
     {
-      "name": "Park Center Lanes",
-      "distance": "9.4 mi",
-      "url": "https://www.google.com/maps/search/Park%20Center%20Lanes+near+42.7813837%2C-85.6772917",
+      "name": "Subway",
+      "distance": "3.2 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Subway&query_place_id=ChIJxRJpnk22GYgRx8fW3G8u0Wg&center=42.8127023,-85.7233275",
+      "isFar": true
+    },
+    {
+      "name": "Boardwalk Subs",
+      "distance": "3.3 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Boardwalk%20Subs&query_place_id=ChIJ92nd-FK2GYgR6wfEitjNqA0&center=42.815180999999995,-85.723557",
+      "isFar": true
+    },
+    {
+      "name": "Champs Chicken",
+      "distance": "3.9 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Champs%20Chicken&query_place_id=ChIJYYg2MN3LGYgRcJg2dJoAC3c&center=42.725287,-85.6762741",
+      "isFar": true
+    },
+    {
+      "name": "Subway",
+      "distance": "4.1 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Subway&query_place_id=ChIJPzE3_Be0GYgRj9sIuUHXLPo&center=42.8404033,-85.6740734",
+      "isFar": true
+    },
+    {
+      "name": "Wendy's",
+      "distance": "4.1 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Wendy's&query_place_id=ChIJe_WUoSK0GYgRl6RGKY5e9z8&center=42.8405245,-85.6754713",
+      "isFar": true
+    },
+    {
+      "name": "Arby's",
+      "distance": "4.1 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Arby's&query_place_id=ChIJI2fq9he0GYgR0TmgkmTQWVI&center=42.841248,-85.6741203",
       "isFar": true
     }
   ],
@@ -32,51 +62,58 @@
     {
       "name": "Lola Lee’s Coffee & Books",
       "distance": "2.0 mi",
-      "url": "https://www.google.com/maps/search/Lola%20Lee%E2%80%99s%20Coffee%20%26%20Books+near+42.7813837%2C-85.6772917"
+      "url": "https://www.google.com/maps/search/?api=1&query=Lola%20Lee%E2%80%99s%20Coffee%20%26%20Books&query_place_id=ChIJ915kIiC1GYgRdFHFxSOzvUo&center=42.8096281,-85.6711299"
     },
     {
       "name": "Starbucks Coffee Company",
       "distance": "2.1 mi",
-      "url": "https://www.google.com/maps/search/Starbucks%20Coffee%20Company+near+42.7813837%2C-85.6772917"
+      "url": "https://www.google.com/maps/search/?api=1&query=Starbucks%20Coffee%20Company&query_place_id=ChIJ1fZ2YcW1GYgRKjG7BEgHMR4&center=42.81138,-85.67282999999999"
     },
     {
       "name": "Foxtail Coffee Byron Center",
       "distance": "2.2 mi",
-      "url": "https://www.google.com/maps/search/Foxtail%20Coffee%20Byron%20Center+near+42.7813837%2C-85.6772917"
+      "url": "https://www.google.com/maps/search/?api=1&query=Foxtail%20Coffee%20Byron%20Center&query_place_id=ChIJQ4YGjI-1GYgRKMZjgqOdDHI&center=42.8124002,-85.6714324"
     },
     {
       "name": "Sunrise Coffee Co.",
       "distance": "2.3 mi",
-      "url": "https://www.google.com/maps/search/Sunrise%20Coffee%20Co.+near+42.7813837%2C-85.6772917"
+      "url": "https://www.google.com/maps/search/?api=1&query=Sunrise%20Coffee%20Co.&query_place_id=ChIJxVXgcUe1GYgR4BAjjtlZaRs&center=42.8115678,-85.65782329999999"
     },
     {
       "name": "Dino Daisy Play Cafe",
       "distance": "3.1 mi",
-      "url": "https://www.google.com/maps/search/Dino%20Daisy%20Play%20Cafe+near+42.7813837%2C-85.6772917",
+      "url": "https://www.google.com/maps/search/?api=1&query=Dino%20Daisy%20Play%20Cafe&query_place_id=ChIJSas_1vu3GYgRgn1OFZ1-B_E&center=42.814155299999996,-85.7189143",
+      "isFar": true
+    },
+    {
+      "name": "McDonald's",
+      "distance": "3.3 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=McDonald's&query_place_id=ChIJyZEiXbK3GYgRyldsJIr9t-4&center=42.81187,-85.7283595",
+      "isFar": true
+    },
+    {
+      "name": "McDonald's",
+      "distance": "4.1 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=McDonald's&query_place_id=ChIJR-OvgBi0GYgRDdS-K40rUS0&center=42.841363699999995,-85.67687339999999",
       "isFar": true
     }
   ],
   "team_lunch": [
     {
-      "name": "5 Lakes Brew Pub",
-      "distance": "1.9 mi",
-      "url": "https://www.google.com/maps/search/5%20Lakes%20Brew%20Pub+near+42.7813837%2C-85.6772917"
-    },
-    {
       "name": "Auntie Anne's",
       "distance": "2.0 mi",
-      "url": "https://www.google.com/maps/search/Auntie%20Anne's+near+42.7813837%2C-85.6772917"
+      "url": "https://www.google.com/maps/search/?api=1&query=Auntie%20Anne's&query_place_id=ChIJs5dRBsW1GYgR55VN-OnVWFs&center=42.8096159,-85.6711129"
     },
     {
       "name": "China Kitchen",
       "distance": "3.1 mi",
-      "url": "https://www.google.com/maps/search/China%20Kitchen+near+42.7813837%2C-85.6772917",
+      "url": "https://www.google.com/maps/search/?api=1&query=China%20Kitchen&query_place_id=ChIJp2Mk6k-2GYgRNb24GVsiZgo&center=42.814138,-85.71831",
       "isFar": true
     },
     {
       "name": "Mannie's Pizza",
       "distance": "3.1 mi",
-      "url": "https://www.google.com/maps/search/Mannie's%20Pizza+near+42.7813837%2C-85.6772917",
+      "url": "https://www.google.com/maps/search/?api=1&query=Mannie's%20Pizza&query_place_id=ChIJ63hmgiO1GYgRMVHu2ED5mRk&center=42.8258887,-85.67660839999999",
       "isFar": true
     }
   ],

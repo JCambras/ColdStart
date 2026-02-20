@@ -1,11 +1,6 @@
 {
   "quick_bite": [
     {
-      "name": "Yard House",
-      "distance": "0.7 mi",
-      "url": "https://www.google.com/maps/search/?api=1&query=Yard%20House&query_place_id=ChIJ2Q0RoO9_44kRyz2IfZ5J9x4&center=42.23044,-71.1759"
-    },
-    {
       "name": "Shake Shack Dedham",
       "distance": "0.7 mi",
       "url": "https://www.google.com/maps/search/?api=1&query=Shake%20Shack%20Dedham&query_place_id=ChIJxaVC6u9_44kR3i8tqi1J9cY&center=42.2313273,-71.1765619"
@@ -29,6 +24,26 @@
       "name": "Market Sandwich",
       "distance": "0.8 mi",
       "url": "https://www.google.com/maps/search/?api=1&query=Market%20Sandwich&query_place_id=ChIJ-VovADp_44kR-zixBLuOlnA&center=42.2328164,-71.17808529999999"
+    },
+    {
+      "name": "Subway",
+      "distance": "1.2 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Subway&query_place_id=ChIJjef11ZJ_44kR9e3mYteQsBM&center=42.2405127,-71.1787532"
+    },
+    {
+      "name": "Robo Dough",
+      "distance": "1.3 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Robo%20Dough&query_place_id=ChIJxTyDQch_44kRxgwOANTrIPA&center=42.2425263,-71.1509398"
+    },
+    {
+      "name": "Salem Food Market",
+      "distance": "1.7 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Salem%20Food%20Market&query_place_id=ChIJg6ect5l_44kRBvrvwqYNHfM&center=42.2493464,-71.1722089"
+    },
+    {
+      "name": "Jersey Mike's Subs",
+      "distance": "1.7 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Jersey%20Mike's%20Subs&query_place_id=ChIJ0a8uOUJ_44kRw5VK3SrjotM&center=42.2499726,-71.172074"
     }
   ],
   "coffee": [
@@ -36,6 +51,11 @@
       "name": "Caffè Nero",
       "distance": "0.7 mi",
       "url": "https://www.google.com/maps/search/?api=1&query=Caff%C3%A8%20Nero&query_place_id=ChIJY-6PFO9_44kR2NgTAaumYyk&center=42.2310198,-71.176525"
+    },
+    {
+      "name": "McDonald's",
+      "distance": "1.4 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=McDonald's&query_place_id=ChIJr0Qudw-A5IkRXGsBpbXzXGw&center=42.2118311,-71.1839292"
     }
   ],
   "team_lunch": [
@@ -45,14 +65,14 @@
       "url": "https://www.google.com/maps/search/?api=1&query=Fisherman's%20Restaurant&query_place_id=ChIJ5beJicZ_44kR8zrOFacSAfk&center=42.2326009,-71.1596568"
     },
     {
+      "name": "Costco Bakery",
+      "distance": "0.6 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Costco%20Bakery&query_place_id=ChIJuzNBGOl_44kRoiVpxVSkD3Q&center=42.2320085,-71.17295750000001"
+    },
+    {
       "name": "Temazcal Tequila Cantina",
       "distance": "0.6 mi",
       "url": "https://www.google.com/maps/search/?api=1&query=Temazcal%20Tequila%20Cantina&query_place_id=ChIJhYPjTe5_44kRB4CJmqcCvv0&center=42.22999,-71.176142"
-    },
-    {
-      "name": "The Friendly Toast",
-      "distance": "0.7 mi",
-      "url": "https://www.google.com/maps/search/?api=1&query=The%20Friendly%20Toast&query_place_id=ChIJWWbxlJN_44kRdVflUxU-QUQ&center=42.2308075,-71.1762466"
     },
     {
       "name": "Boston Pizza Cupcakes",
@@ -63,6 +83,31 @@
       "name": "Anna's Taqueria",
       "distance": "0.7 mi",
       "url": "https://www.google.com/maps/search/?api=1&query=Anna's%20Taqueria&query_place_id=ChIJ5xHtaMZ_44kRbMbU4o1sqdw&center=42.2311926,-71.1771803"
+    },
+    {
+      "name": "Home Bakery-by Elci",
+      "distance": "0.8 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Home%20Bakery-by%20Elci&query_place_id=ChIJP7hX2uV_44kRqtoYdauQwX4&center=42.2258219,-71.1797773"
+    },
+    {
+      "name": "La Patrona Mexican Grill Boston",
+      "distance": "0.8 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=La%20Patrona%20Mexican%20Grill%20Boston&query_place_id=ChIJ6SQdg2V_44kRjIGYo0q23FI&center=42.2258219,-71.1797773"
+    },
+    {
+      "name": "Whole Foods Bakery",
+      "distance": "0.8 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Whole%20Foods%20Bakery&query_place_id=ChIJ8WkwNQB_44kRfzCo4Jvlu48&center=42.2328141,-71.1780033"
+    },
+    {
+      "name": "Savory Sweets",
+      "distance": "1.0 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Savory%20Sweets&query_place_id=ChIJB2dCVwOA5IkRYIN3gk_B2vM&center=42.2177845,-71.1802067"
+    },
+    {
+      "name": "Star-Osco - Dedham (136)",
+      "distance": "1.2 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Star-Osco%20-%20Dedham%20(136)&query_place_id=ChIJ8UrAGe1_44kRCA0kyQrFi5E&center=42.240327199999996,-71.1789208"
     }
   ],
   "dinner": [

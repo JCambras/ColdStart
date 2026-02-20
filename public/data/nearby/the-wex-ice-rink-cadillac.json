@@ -3,66 +3,92 @@
     {
       "name": "Burger King",
       "distance": "0.3 mi",
-      "url": "https://www.google.com/maps/search/Burger%20King+near+44.26757620000001%2C-85.4052219"
+      "url": "https://www.google.com/maps/search/?api=1&query=Burger%20King&query_place_id=ChIJIYZuYlcIH4gRnlDiHtCmNZI&center=44.2725711,-85.4060251"
     },
     {
       "name": "Wendy's",
       "distance": "0.4 mi",
-      "url": "https://www.google.com/maps/search/Wendy's+near+44.26757620000001%2C-85.4052219"
+      "url": "https://www.google.com/maps/search/?api=1&query=Wendy's&query_place_id=ChIJJcnCV1cIH4gR8JQRo8g9b8U&center=44.273852999999995,-85.4060385"
     },
     {
       "name": "Subway",
       "distance": "0.5 mi",
-      "url": "https://www.google.com/maps/search/Subway+near+44.26757620000001%2C-85.4052219"
+      "url": "https://www.google.com/maps/search/?api=1&query=Subway&query_place_id=ChIJKdZR9VcIH4gRXJ5bk4zwftw&center=44.2598158,-85.4055592"
     },
     {
       "name": "Arby's",
       "distance": "0.6 mi",
-      "url": "https://www.google.com/maps/search/Arby's+near+44.26757620000001%2C-85.4052219"
+      "url": "https://www.google.com/maps/search/?api=1&query=Arby's&query_place_id=ChIJa1ScglAIH4gRfq74U_hQwz8&center=44.275712999999996,-85.4061694"
     },
     {
       "name": "Asian Buffet",
       "distance": "0.7 mi",
-      "url": "https://www.google.com/maps/search/Asian%20Buffet+near+44.26757620000001%2C-85.4052219"
+      "url": "https://www.google.com/maps/search/?api=1&query=Asian%20Buffet&query_place_id=ChIJo-94gloIH4gRNuDZNoMUt40&center=44.2771252,-85.4061564"
     },
     {
       "name": "Bob Evans",
       "distance": "0.7 mi",
-      "url": "https://www.google.com/maps/search/Bob%20Evans+near+44.26757620000001%2C-85.4052219"
+      "url": "https://www.google.com/maps/search/?api=1&query=Bob%20Evans&query_place_id=ChIJXRfrp1oIH4gRxcn5N_iJIK4&center=44.2781644,-85.4072394"
     },
     {
       "name": "Taco Bell",
       "distance": "0.8 mi",
-      "url": "https://www.google.com/maps/search/Taco%20Bell+near+44.26757620000001%2C-85.4052219"
+      "url": "https://www.google.com/maps/search/?api=1&query=Taco%20Bell&query_place_id=ChIJJyWO908IH4gRuQU_gf63ZoM&center=44.2794999,-85.4060446"
+    },
+    {
+      "name": "Jersey Mike's Subs",
+      "distance": "1.0 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Jersey%20Mike's%20Subs&query_place_id=ChIJp1aZdiwJH4gRcZUJ8A1HO98&center=44.2809623,-85.3997705"
+    },
+    {
+      "name": "Popeyes Louisiana Kitchen",
+      "distance": "1.1 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Popeyes%20Louisiana%20Kitchen&query_place_id=ChIJb2g9UwAJH4gR8BPhH6n-MsI&center=44.2820847,-85.3987035"
+    },
+    {
+      "name": "Subway",
+      "distance": "1.2 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Subway&query_place_id=ChIJZ7JOm04IH4gRrcZKOdqVBKQ&center=44.2840962,-85.39804889999999"
     }
   ],
   "coffee": [
     {
       "name": "BIGGBY COFFEE",
       "distance": "0.7 mi",
-      "url": "https://www.google.com/maps/search/BIGGBY%20COFFEE+near+44.26757620000001%2C-85.4052219"
+      "url": "https://www.google.com/maps/search/?api=1&query=BIGGBY%20COFFEE&query_place_id=ChIJe_1HcFAIH4gRLp5uob23Fjg&center=44.2771252,-85.4061564"
     },
     {
       "name": "Cadillac Java",
       "distance": "0.8 mi",
-      "url": "https://www.google.com/maps/search/Cadillac%20Java+near+44.26757620000001%2C-85.4052219"
+      "url": "https://www.google.com/maps/search/?api=1&query=Cadillac%20Java&query_place_id=ChIJ5yyazOUIH4gRkKbsqpnVTao&center=44.256304799999995,-85.404698"
     },
     {
       "name": "Starbucks",
       "distance": "0.9 mi",
-      "url": "https://www.google.com/maps/search/Starbucks+near+44.26757620000001%2C-85.4052219"
+      "url": "https://www.google.com/maps/search/?api=1&query=Starbucks&query_place_id=ChIJP3UugMQJH4gRgFHRqYaVcvE&center=44.280905499999996,-85.4046818"
     },
     {
       "name": "McDonald's",
       "distance": "0.9 mi",
-      "url": "https://www.google.com/maps/search/McDonald's+near+44.26757620000001%2C-85.4052219"
+      "url": "https://www.google.com/maps/search/?api=1&query=McDonald's&query_place_id=ChIJD0Osn1AIH4gRB9ARq4crBN4&center=44.280927899999995,-85.40540349999999"
+    },
+    {
+      "name": "McDonald's",
+      "distance": "3.2 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=McDonald's&query_place_id=ChIJe5adSRMGH4gR_QUrnoqPFEM&center=44.2354335,-85.4521389",
+      "isFar": true
     }
   ],
   "team_lunch": [
     {
       "name": "Great Wall Chinese Restaurant",
       "distance": "0.9 mi",
-      "url": "https://www.google.com/maps/search/Great%20Wall%20Chinese%20Restaurant+near+44.26757620000001%2C-85.4052219"
+      "url": "https://www.google.com/maps/search/?api=1&query=Great%20Wall%20Chinese%20Restaurant&query_place_id=ChIJ_0BDX0UIH4gR5XwVGTBd2pw&center=44.2798881,-85.403946"
+    },
+    {
+      "name": "Red Box Baking Co.",
+      "distance": "3.0 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Red%20Box%20Baking%20Co.&query_place_id=ChIJcfS4mysJH4gRFcgfW_N9FZc&center=44.3047871,-85.4353196"
     }
   ],
   "dinner": [

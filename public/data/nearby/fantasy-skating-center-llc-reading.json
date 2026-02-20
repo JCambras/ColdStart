@@ -24,6 +24,31 @@
       "name": "The King Of Fire",
       "distance": "0.5 mi",
       "url": "https://www.google.com/maps/search/?api=1&query=The%20King%20Of%20Fire&query_place_id=ChIJ5UU0l653xokRsCwTs0H-eUA&center=40.3696841,-75.92733869999999"
+    },
+    {
+      "name": "Haiku Hibachi & Sushi",
+      "distance": "0.5 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Haiku%20Hibachi%20%26%20Sushi&query_place_id=ChIJWT2pb6F3xokRnMofCLfAhAc&center=40.3825943,-75.926988"
+    },
+    {
+      "name": "Jersey Mike's Subs",
+      "distance": "0.5 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Jersey%20Mike's%20Subs&query_place_id=ChIJVbPJwKN3xokRF7EaPQULRXo&center=40.383215199999995,-75.9271413"
+    },
+    {
+      "name": "Arby's",
+      "distance": "0.6 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Arby's&query_place_id=ChIJf7Aj6qN3xokR7f9Hf6T0lz4&center=40.38384310000001,-75.9281068"
+    },
+    {
+      "name": "Wendy's",
+      "distance": "0.6 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Wendy's&query_place_id=ChIJwayYv6N3xokRkX4B9ZYAbng&center=40.3842606,-75.92703809999999"
+    },
+    {
+      "name": "Subway",
+      "distance": "0.6 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Subway&query_place_id=ChIJwayYv6N3xokRktqYySetl_8&center=40.3841223,-75.9256817"
     }
   ],
   "coffee": [
@@ -36,6 +61,16 @@
       "name": "7 Brew Coffee",
       "distance": "0.4 mi",
       "url": "https://www.google.com/maps/search/?api=1&query=7%20Brew%20Coffee&query_place_id=ChIJDQ9KNQB3xokRY14BxRjvvxQ&center=40.3808243,-75.9271473"
+    },
+    {
+      "name": "McDonald's",
+      "distance": "0.7 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=McDonald's&query_place_id=ChIJTRaYD6N3xokRn2G3XDzMY8U&center=40.38494620000001,-75.92644530000001"
+    },
+    {
+      "name": "Wawa",
+      "distance": "0.9 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Wawa&query_place_id=ChIJ71bmE7B3xokRxEPe1gyTVXk&center=40.389156,-75.935637"
     }
   ],
   "team_lunch": [
@@ -43,11 +78,6 @@
       "name": "Pizzariffic",
       "distance": "0.4 mi",
       "url": "https://www.google.com/maps/search/?api=1&query=Pizzariffic&query_place_id=ChIJgcJ3z6d3xokRK66uDGl75T4&center=40.380962200000006,-75.9335772"
-    },
-    {
-      "name": "Applebee's Grill + Bar",
-      "distance": "0.4 mi",
-      "url": "https://www.google.com/maps/search/?api=1&query=Applebee's%20Grill%20%2B%20Bar&query_place_id=ChIJeWF8R6F3xokRCKdqLIxVjgA&center=40.3808661,-75.92796510000001"
     },
     {
       "name": "Samara's treats",
@@ -68,6 +98,16 @@
       "name": "Bittersweet Confections",
       "distance": "0.5 mi",
       "url": "https://www.google.com/maps/search/?api=1&query=Bittersweet%20Confections&query_place_id=ChIJu6k5TQB3xokRVFHgkbVpU9w&center=40.383792,-75.93157409999999"
+    },
+    {
+      "name": "Bruno's Bakery/ Guiseppe's",
+      "distance": "0.5 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Bruno's%20Bakery%2F%20Guiseppe's&query_place_id=ChIJQUBOn_13xokREoyn6YcGflQ&center=40.3839286,-75.9313279"
+    },
+    {
+      "name": "lancaster",
+      "distance": "0.9 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=lancaster&query_place_id=ChIJA4yghgl3xokRAFFuQIlR6SY&center=40.364202999999996,-75.9263144"
     }
   ],
   "dinner": [

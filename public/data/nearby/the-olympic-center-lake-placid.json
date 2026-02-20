@@ -31,6 +31,11 @@
       "name": "Bluesberry Bakery",
       "distance": "0.5 mi",
       "url": "https://www.google.com/maps/search/?api=1&query=Bluesberry%20Bakery&query_place_id=ChIJURkOnI_iykwRS0xYSU-hpYg&center=44.2904875,-73.9852125"
+    },
+    {
+      "name": "McDonald's",
+      "distance": "0.9 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=McDonald's&query_place_id=ChIJmbcsIWIdy0wRHyTmJXkiDkU&center=44.2937373,-73.9952776"
     }
   ],
   "team_lunch": [
@@ -38,11 +43,6 @@
       "name": "Roamer’s Cafe",
       "distance": "0.1 mi",
       "url": "https://www.google.com/maps/search/?api=1&query=Roamer%E2%80%99s%20Cafe&query_place_id=ChIJ40KXah_jykwRe2fMvYE3zCM&center=44.283954699999995,-73.98507409999999"
-    },
-    {
-      "name": "The Pickled Pig",
-      "distance": "0.1 mi",
-      "url": "https://www.google.com/maps/search/?api=1&query=The%20Pickled%20Pig&query_place_id=ChIJy7B2PI_iykwRK9Oq0kF57LU&center=44.283719,-73.9840219"
     },
     {
       "name": "The Great Room & Mackenzie Restaurant",
@@ -53,11 +53,6 @@
       "name": "Bazzi's Pizza",
       "distance": "0.2 mi",
       "url": "https://www.google.com/maps/search/?api=1&query=Bazzi's%20Pizza&query_place_id=ChIJg9fDToXiykwRpHaSNLz8xzI&center=44.2868754,-73.9853205"
-    },
-    {
-      "name": "Marcy Bar Room & Marcy Café",
-      "distance": "0.2 mi",
-      "url": "https://www.google.com/maps/search/?api=1&query=Marcy%20Bar%20Room%20%26%20Marcy%20Caf%C3%A9&query_place_id=ChIJVVWlSYXiykwRUx5lXAVYodA&center=44.2873385,-73.98554159999999"
     },
     {
       "name": "Saranac Sourdough",

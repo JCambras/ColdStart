@@ -3,66 +3,111 @@
     {
       "name": "Subway",
       "distance": "0.3 mi",
-      "url": "https://www.google.com/maps/search/Subway+near+39.368846399999995%2C-76.577778"
+      "url": "https://www.google.com/maps/search/?api=1&query=Subway&query_place_id=ChIJxfeRzmIPyIkRDhMlpGoW0t4&center=39.3675303,-76.5829425"
     },
     {
       "name": "KFC",
       "distance": "0.6 mi",
-      "url": "https://www.google.com/maps/search/KFC+near+39.368846399999995%2C-76.577778"
+      "url": "https://www.google.com/maps/search/?api=1&query=KFC&query_place_id=ChIJy_eZ61wPyIkRba8sxN9O8dg&center=39.372605,-76.5679622"
     },
     {
       "name": "China Ex Carryout",
       "distance": "0.6 mi",
-      "url": "https://www.google.com/maps/search/China%20Ex%20Carryout+near+39.368846399999995%2C-76.577778"
+      "url": "https://www.google.com/maps/search/?api=1&query=China%20Ex%20Carryout&query_place_id=ChIJexOQKtgPyIkRsE2CQNZ-mqM&center=39.366749999999996,-76.56623379999999"
+    },
+    {
+      "name": "Subway",
+      "distance": "0.7 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Subway&query_place_id=ChIJbew2kVwPyIkRDEtQfDulOrk&center=39.372389999999996,-76.5658833"
     },
     {
       "name": "Pizza Boli's",
       "distance": "0.7 mi",
-      "url": "https://www.google.com/maps/search/Pizza%20Boli's+near+39.368846399999995%2C-76.577778"
+      "url": "https://www.google.com/maps/search/?api=1&query=Pizza%20Boli's&query_place_id=ChIJI5cdmVwPyIkRMrjEA_oP_cw&center=39.372473,-76.565072"
     },
     {
       "name": "Wings & Seafood - Parkville",
       "distance": "0.8 mi",
-      "url": "https://www.google.com/maps/search/Wings%20%26%20Seafood%20-%20Parkville+near+39.368846399999995%2C-76.577778"
+      "url": "https://www.google.com/maps/search/?api=1&query=Wings%20%26%20Seafood%20-%20Parkville&query_place_id=ChIJO1ydC7kPyIkRyKxnM5maS6A&center=39.3725831,-76.5634041"
     },
     {
       "name": "Sherwood Carry Out",
       "distance": "0.9 mi",
-      "url": "https://www.google.com/maps/search/Sherwood%20Carry%20Out+near+39.368846399999995%2C-76.577778"
+      "url": "https://www.google.com/maps/search/?api=1&query=Sherwood%20Carry%20Out&query_place_id=ChIJr4rlq3gPyIkRlbm9orzN8Dc&center=39.372629599999996,-76.5948176"
+    },
+    {
+      "name": "JoJoes Deli",
+      "distance": "1.0 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=JoJoes%20Deli&query_place_id=ChIJ08Y2RWsPyIkRFiXN7n2YDKU&center=39.3834634,-76.57618769999999"
+    },
+    {
+      "name": "Burger King",
+      "distance": "1.0 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Burger%20King&query_place_id=ChIJq5MFTmsPyIkRBSaBN6gzrBM&center=39.3837877,-76.5746953"
+    },
+    {
+      "name": "Hiphop Fish & Chicken",
+      "distance": "1.1 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Hiphop%20Fish%20%26%20Chicken&query_place_id=ChIJmbIRzGwPyIkRpZSNX0qpTWo&center=39.3728507,-76.55873129999999"
     }
   ],
   "coffee": [
     {
       "name": "Cheryl's Space",
       "distance": "0.6 mi",
-      "url": "https://www.google.com/maps/search/Cheryl's%20Space+near+39.368846399999995%2C-76.577778"
+      "url": "https://www.google.com/maps/search/?api=1&query=Cheryl's%20Space&query_place_id=ChIJwxXRTKIPyIkRDIeeVf1JPjw&center=39.36606,-76.5669911"
+    },
+    {
+      "name": "McDonald's",
+      "distance": "0.6 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=McDonald's&query_place_id=ChIJOc4AmFwPyIkRHQ8Vsot0wqY&center=39.372814999999996,-76.5669818"
+    },
+    {
+      "name": "McDonald's",
+      "distance": "1.1 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=McDonald's&query_place_id=ChIJWxJFWWsPyIkRH60YB1Ok67g&center=39.3847368,-76.57794609999999"
     }
   ],
   "team_lunch": [
     {
       "name": "Cibo Caldo",
       "distance": "0.6 mi",
-      "url": "https://www.google.com/maps/search/Cibo%20Caldo+near+39.368846399999995%2C-76.577778"
+      "url": "https://www.google.com/maps/search/?api=1&query=Cibo%20Caldo&query_place_id=ChIJM6cctl4PyIkRuvD6QtMSoAw&center=39.3677096,-76.5665728"
     },
     {
       "name": "Top Trelawny Cuisine",
       "distance": "0.6 mi",
-      "url": "https://www.google.com/maps/search/Top%20Trelawny%20Cuisine+near+39.368846399999995%2C-76.577778"
+      "url": "https://www.google.com/maps/search/?api=1&query=Top%20Trelawny%20Cuisine&query_place_id=ChIJIT84QgEPyIkRANVsrBRfjDo&center=39.3780906,-76.5787868"
     },
     {
       "name": "Flaming Wok",
       "distance": "0.7 mi",
-      "url": "https://www.google.com/maps/search/Flaming%20Wok+near+39.368846399999995%2C-76.577778"
+      "url": "https://www.google.com/maps/search/?api=1&query=Flaming%20Wok&query_place_id=ChIJsxQtl1wPyIkRiy3yz5J6WA8&center=39.3723731,-76.56580579999999"
     },
     {
       "name": "Chan's Chinese Restaurant",
       "distance": "0.9 mi",
-      "url": "https://www.google.com/maps/search/Chan's%20Chinese%20Restaurant+near+39.368846399999995%2C-76.577778"
+      "url": "https://www.google.com/maps/search/?api=1&query=Chan's%20Chinese%20Restaurant&query_place_id=ChIJ_5GUqngPyIkR2f1IA26Uom4&center=39.3725853,-76.5946968"
     },
     {
       "name": "Hands Of Thelma Jeans Southern Style Cooking",
       "distance": "0.9 mi",
-      "url": "https://www.google.com/maps/search/Hands%20Of%20Thelma%20Jeans%20Southern%20Style%20Cooking+near+39.368846399999995%2C-76.577778"
+      "url": "https://www.google.com/maps/search/?api=1&query=Hands%20Of%20Thelma%20Jeans%20Southern%20Style%20Cooking&query_place_id=ChIJP7B1fA4PyIkRZ2cYrhkZE6Q&center=39.3726335,-76.59472459999999"
+    },
+    {
+      "name": "Bismillah Chicken & Pizza",
+      "distance": "1.0 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Bismillah%20Chicken%20%26%20Pizza&query_place_id=ChIJHVhG5RkPyIkRweODDAH-D4w&center=39.3830278,-76.57786650000001"
+    },
+    {
+      "name": "Cake Dreams",
+      "distance": "1.2 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Cake%20Dreams&query_place_id=ChIJO3Uy89IPyIkRYMUw18CvqW4&center=39.3851539,-76.5852653"
+    },
+    {
+      "name": "Giant Food Bakery",
+      "distance": "1.3 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Giant%20Food%20Bakery&query_place_id=ChIJx_uYKAAPyIkRNV3uXSQrEj4&center=39.38717,-76.5768518"
     }
   ],
   "dinner": [

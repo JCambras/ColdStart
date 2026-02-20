@@ -1,9 +1,19 @@
 {
   "quick_bite": [
     {
+      "name": "Dunkin'",
+      "distance": "0.5 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Dunkin'&query_place_id=ChIJMVki8Ss5-4kR1zBQzMOQahM&center=41.693086799999996,-70.1502786"
+    },
+    {
       "name": "Burger King",
       "distance": "0.6 mi",
       "url": "https://www.google.com/maps/search/?api=1&query=Burger%20King&query_place_id=ChIJE3kY6Cs5-4kRzhB17tcD6nk&center=41.6935905,-70.1506716"
+    },
+    {
+      "name": "Dunkin'",
+      "distance": "0.7 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Dunkin'&query_place_id=ChIJf8wO-G45-4kRPJM-2BZFLDk&center=41.693861299999995,-70.1537075"
     },
     {
       "name": "The Other Guys",
@@ -60,6 +70,22 @@
       "name": "Honey Dew Donuts",
       "distance": "1.8 mi",
       "url": "https://www.google.com/maps/search/?api=1&query=Honey%20Dew%20Donuts&query_place_id=ChIJKdK2Uq0--4kRGM8Ke_2sta4&center=41.666917,-70.1454797"
+    },
+    {
+      "name": "Buckies Biscotti & Bakery Cafe",
+      "distance": "1.9 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Buckies%20Biscotti%20%26%20Bakery%20Cafe&query_place_id=ChIJ8-xBU7w--4kRHXJxClEClpM&center=41.66805,-70.123482"
+    },
+    {
+      "name": "Woolfie's Coffee and Breakfast Bakery",
+      "distance": "2.4 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Woolfie's%20Coffee%20and%20Breakfast%20Bakery&query_place_id=ChIJ5ShLb6g--4kRyGGg3R9ldjs&center=41.6577389,-70.13481469999999"
+    },
+    {
+      "name": "McDonald's",
+      "distance": "3.9 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=McDonald's&query_place_id=ChIJle_xvC86-4kRjMEPHCPS2B8&center=41.6602745,-70.2033166",
+      "isFar": true
     }
   ],
   "team_lunch": [

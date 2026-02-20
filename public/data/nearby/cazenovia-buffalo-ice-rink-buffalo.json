@@ -6,6 +6,16 @@
       "url": "https://www.google.com/maps/search/?api=1&query=Subway&query_place_id=ChIJKWL4e20O04kR_g4_wc2A1yA&center=42.847556999999995,-78.81258299999999"
     },
     {
+      "name": "Tim Hortons",
+      "distance": "0.1 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Tim%20Hortons&query_place_id=ChIJcbqT0hAO04kRxXlHpiCIf7E&center=42.8473344,-78.8126001"
+    },
+    {
+      "name": "Tim Hortons",
+      "distance": "0.1 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Tim%20Hortons&query_place_id=ChIJq1h3um0O04kRQYs9usXsTtg&center=42.846833,-78.81256119999999"
+    },
+    {
       "name": "Cazanova's Takeout",
       "distance": "0.4 mi",
       "url": "https://www.google.com/maps/search/?api=1&query=Cazanova's%20Takeout&query_place_id=ChIJvefofQAP04kReRH0ZosgoVs&center=42.8509446,-78.80435969999999"
@@ -16,9 +26,29 @@
       "url": "https://www.google.com/maps/search/?api=1&query=Burger%20King&query_place_id=ChIJV-JP33oO04kRsKSdJA7DxQA&center=42.8487089,-78.8009412"
     },
     {
+      "name": "Tim Hortons",
+      "distance": "0.6 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Tim%20Hortons&query_place_id=ChIJ-X0jl3UO04kR2vPFAwR1Y2I&center=42.856845,-78.8119011"
+    },
+    {
       "name": "Mister Submarine",
       "distance": "0.7 mi",
       "url": "https://www.google.com/maps/search/?api=1&query=Mister%20Submarine&query_place_id=ChIJObTJ1BYO04kRqNqsp0PyqqQ&center=42.84485420000001,-78.823859"
+    },
+    {
+      "name": "Taco Bell / KFC",
+      "distance": "0.8 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Taco%20Bell%20%2F%20KFC&query_place_id=ChIJ20M9EwkO04kRT_cjFr2GT_k&center=42.856138,-78.8226968"
+    },
+    {
+      "name": "Wendy's",
+      "distance": "0.9 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Wendy's&query_place_id=ChIJ_7U0ZWgP04kRGdhNwB3JEKY&center=42.857544999999995,-78.823814"
+    },
+    {
+      "name": "Subway",
+      "distance": "1.0 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Subway&query_place_id=ChIJh7zjjxsO04kRUoIK8xeh_qI&center=42.8476631,-78.8318807"
     }
   ],
   "coffee": [
@@ -41,6 +71,21 @@
       "name": "Public Espresso + Coffee",
       "distance": "0.4 mi",
       "url": "https://www.google.com/maps/search/?api=1&query=Public%20Espresso%20%2B%20Coffee&query_place_id=ChIJ7QBmIwEP04kRsBJrN4c3rgw&center=42.853336299999995,-78.80715169999999"
+    },
+    {
+      "name": "Tim Hortons",
+      "distance": "0.6 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Tim%20Hortons&query_place_id=ChIJ-X0jl3UO04kR2vPFAwR1Y2I&center=42.856845,-78.8119011"
+    },
+    {
+      "name": "McDonald's",
+      "distance": "1.0 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=McDonald's&query_place_id=ChIJ6ai-RggO04kRwZlcKxtXDa0&center=42.858,-78.8250915"
+    },
+    {
+      "name": "McDonald's",
+      "distance": "1.2 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=McDonald's&query_place_id=ChIJXdNnKEUO04kR1HgFVnuYZxg&center=42.8309356,-78.80482359999999"
     }
   ],
   "team_lunch": [
@@ -65,14 +110,24 @@
       "url": "https://www.google.com/maps/search/?api=1&query=Buffalo%20Bites%20Pizzeria&query_place_id=ChIJ30KF8XoO04kR1jjFvaN1p40&center=42.849536,-78.80245099999999"
     },
     {
-      "name": "Casa Di Francesca's",
-      "distance": "0.6 mi",
-      "url": "https://www.google.com/maps/search/?api=1&query=Casa%20Di%20Francesca's&query_place_id=ChIJdQU9wnUO04kR8MSpmIrlAIY&center=42.8567165,-78.81111159999999"
-    },
-    {
       "name": "Sugar Rush Bakery",
       "distance": "0.6 mi",
       "url": "https://www.google.com/maps/search/?api=1&query=Sugar%20Rush%20Bakery&query_place_id=ChIJ7XQju34P04kRO_usNCoNt5g&center=42.850005499999995,-78.82330859999999"
+    },
+    {
+      "name": "Wesley",
+      "distance": "0.9 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Wesley&query_place_id=ChIJ59Z9PwAP04kRrDy8pSEN8Es&center=42.8387199,-78.8235995"
+    },
+    {
+      "name": "Ohgoodnessbaking",
+      "distance": "1.1 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Ohgoodnessbaking&query_place_id=ChIJe5vEArcP04kR5ZYeeTePEcE&center=42.8567822,-78.8304282"
+    },
+    {
+      "name": "tamia",
+      "distance": "1.9 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=tamia&query_place_id=ChIJL9IKa-oP04kRZcdM6q8eOXk&center=42.824285499999995,-78.8278168"
     }
   ],
   "dinner": [

@@ -3,56 +3,91 @@
     {
       "name": "Quiznos",
       "distance": "0.2 mi",
-      "url": "https://www.google.com/maps/search/Quiznos+near+42.3671832%2C-83.4050618"
+      "url": "https://www.google.com/maps/search/?api=1&query=Quiznos&query_place_id=ChIJy16jxsmyJIgRIpbCcCbZeVE&center=42.3667557,-83.4004367"
     },
     {
       "name": "Papa Romano's Pizza & Brews",
       "distance": "0.3 mi",
-      "url": "https://www.google.com/maps/search/Papa%20Romano's%20Pizza%20%26%20Brews+near+42.3671832%2C-83.4050618"
+      "url": "https://www.google.com/maps/search/?api=1&query=Papa%20Romano's%20Pizza%20%26%20Brews&query_place_id=ChIJp9xnckqzJIgR2FxWjowerkw&center=42.3672657,-83.3993998"
     },
     {
       "name": "Little Caesars Pizza",
       "distance": "0.8 mi",
-      "url": "https://www.google.com/maps/search/Little%20Caesars%20Pizza+near+42.3671832%2C-83.4050618"
+      "url": "https://www.google.com/maps/search/?api=1&query=Little%20Caesars%20Pizza&query_place_id=ChIJhTh86VRNO4gRy4MEPkPp1NQ&center=42.360426,-83.417299"
+    },
+    {
+      "name": "Dunkin'",
+      "distance": "1.0 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Dunkin'&query_place_id=ChIJIYl7A9GyJIgRBgMyfI1hTN4&center=42.3674914,-83.3863956"
     },
     {
       "name": "Subway",
       "distance": "1.0 mi",
-      "url": "https://www.google.com/maps/search/Subway+near+42.3671832%2C-83.4050618"
+      "url": "https://www.google.com/maps/search/?api=1&query=Subway&query_place_id=ChIJj-YG0U9NO4gR_4FoaRBggbk&center=42.3538703,-83.4114792"
+    },
+    {
+      "name": "Wendy's",
+      "distance": "1.2 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Wendy's&query_place_id=ChIJD4MhEdeyJIgR_Emi9y3lhsY&center=42.3686631,-83.3825719"
+    },
+    {
+      "name": "Subway",
+      "distance": "1.2 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Subway&query_place_id=ChIJIzQMBteyJIgRPC1896rGGl0&center=42.3670378,-83.38155599999999"
+    },
+    {
+      "name": "Cooper's Express",
+      "distance": "1.3 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Cooper's%20Express&query_place_id=ChIJ__9jZVCtJIgRk8kNkoQF7aY&center=42.37205600000001,-83.430315"
+    },
+    {
+      "name": "Penn Station East Coast Subs",
+      "distance": "1.5 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Penn%20Station%20East%20Coast%20Subs&query_place_id=ChIJ00dnkyVNO4gRipl7BFjI2Q0&center=42.3497906,-83.38674139999999"
+    },
+    {
+      "name": "Dairy Queen Grill & Chill",
+      "distance": "1.7 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Dairy%20Queen%20Grill%20%26%20Chill&query_place_id=ChIJpa6u3GmzJIgR-b_vfbt3mWQ&center=42.367878,-83.3710686"
     }
   ],
   "coffee": [
     {
       "name": "McDonald's",
       "distance": "0.7 mi",
-      "url": "https://www.google.com/maps/search/McDonald's+near+42.3671832%2C-83.4050618"
+      "url": "https://www.google.com/maps/search/?api=1&query=McDonald's&query_place_id=ChIJMfS7WVNNO4gRGit-4WlJ3IQ&center=42.361465300000006,-83.4160352"
     },
     {
       "name": "BIGGBY COFFEE Drive-Thru",
       "distance": "0.7 mi",
-      "url": "https://www.google.com/maps/search/BIGGBY%20COFFEE%20Drive-Thru+near+42.3671832%2C-83.4050618"
+      "url": "https://www.google.com/maps/search/?api=1&query=BIGGBY%20COFFEE%20Drive-Thru&query_place_id=ChIJndUSb62yJIgRKOee4l33ZFQ&center=42.3611335,-83.4165632"
     },
     {
       "name": "Dunkin'",
       "distance": "1.0 mi",
-      "url": "https://www.google.com/maps/search/Dunkin'+near+42.3671832%2C-83.4050618"
+      "url": "https://www.google.com/maps/search/?api=1&query=Dunkin'&query_place_id=ChIJIYl7A9GyJIgRBgMyfI1hTN4&center=42.3674914,-83.3863956"
     },
     {
       "name": "Cafe Au Lait",
       "distance": "1.0 mi",
-      "url": "https://www.google.com/maps/search/Cafe%20Au%20Lait+near+42.3671832%2C-83.4050618"
+      "url": "https://www.google.com/maps/search/?api=1&query=Cafe%20Au%20Lait&query_place_id=ChIJe8PUXwCzJIgR0BGNHpz11WI&center=42.3685847,-83.3857553"
     }
   ],
   "team_lunch": [
     {
       "name": "Hines place Condominium",
       "distance": "0.6 mi",
-      "url": "https://www.google.com/maps/search/Hines%20place%20Condominium+near+42.3671832%2C-83.4050618"
+      "url": "https://www.google.com/maps/search/?api=1&query=Hines%20place%20Condominium&query_place_id=ChIJh-ZDZQCzJIgRtO2ov6mTwTs&center=42.370909,-83.41631699999999"
     },
     {
       "name": "Tubby's Sub Shop",
       "distance": "1.1 mi",
-      "url": "https://www.google.com/maps/search/Tubby's%20Sub%20Shop+near+42.3671832%2C-83.4050618"
+      "url": "https://www.google.com/maps/search/?api=1&query=Tubby's%20Sub%20Shop&query_place_id=ChIJ9cVHqqezJIgR_hcU7uVk4cc&center=42.36871800000001,-83.3845123"
+    },
+    {
+      "name": "YANNIES RAINBOW OF FUDGE AND PASTRIES LLC CAKESHOP",
+      "distance": "1.8 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=YANNIES%20RAINBOW%20OF%20FUDGE%20AND%20PASTRIES%20LLC%20CAKESHOP&query_place_id=ChIJLU5o_zFNO4gR-Mij6jrdNdk&center=42.341681,-83.3988802"
     }
   ],
   "dinner": [

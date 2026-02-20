@@ -1,73 +1,118 @@
 {
   "quick_bite": [
     {
-      "name": "Stoney River Steakhouse and Grill",
-      "distance": "0.4 mi",
-      "url": "https://www.google.com/maps/search/Stoney%20River%20Steakhouse%20and%20Grill+near+42.5671408%2C-83.1532407"
-    },
-    {
-      "name": "Carrabba's Italian Grill",
-      "distance": "0.5 mi",
-      "url": "https://www.google.com/maps/search/Carrabba's%20Italian%20Grill+near+42.5671408%2C-83.1532407"
-    },
-    {
       "name": "Jersey Mike's Subs",
       "distance": "0.6 mi",
-      "url": "https://www.google.com/maps/search/Jersey%20Mike's%20Subs+near+42.5671408%2C-83.1532407"
+      "url": "https://www.google.com/maps/search/?api=1&query=Jersey%20Mike's%20Subs&query_place_id=ChIJaVWTKiDEJIgR6v7234i2T9Q&center=42.56241,-83.16212500000002"
     },
     {
-      "name": "Condado Tacos",
-      "distance": "0.6 mi",
-      "url": "https://www.google.com/maps/search/Condado%20Tacos+near+42.5671408%2C-83.1532407"
+      "name": "Potbelly",
+      "distance": "0.8 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Potbelly&query_place_id=ChIJ__DPLKDGJIgR4VzMFi65yL8&center=42.563044999999995,-83.1681162"
     },
     {
-      "name": "Chuck E. Cheese",
-      "distance": "3.0 mi",
-      "url": "https://www.google.com/maps/search/Chuck%20E.%20Cheese+near+42.5671408%2C-83.1532407"
+      "name": "Savvy Sliders",
+      "distance": "0.8 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Savvy%20Sliders&query_place_id=ChIJb-mTyejHJIgRcVauZ4NnMkE&center=42.5621915,-83.1676846"
+    },
+    {
+      "name": "Jimmy John's",
+      "distance": "1.2 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Jimmy%20John's&query_place_id=ChIJo0CjvWbEJIgRX-wh7BM41sM&center=42.5641195,-83.1292826"
+    },
+    {
+      "name": "Burger King",
+      "distance": "1.2 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Burger%20King&query_place_id=ChIJbSBqBWfEJIgRhqLEAasbNrw&center=42.562283099999995,-83.12973889999999"
+    },
+    {
+      "name": "SpiceHub Kitchen",
+      "distance": "1.3 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=SpiceHub%20Kitchen&query_place_id=ChIJdTmnYH7FJIgRQGFaX1QsfYc&center=42.5488479,-83.14944609999999"
+    },
+    {
+      "name": "Taco Bell",
+      "distance": "1.3 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Taco%20Bell&query_place_id=ChIJi7ULeWTEJIgROmrEn_ZFtHA&center=42.56712110000001,-83.1271076"
+    },
+    {
+      "name": "Subway",
+      "distance": "1.4 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Subway&query_place_id=ChIJl7uZ8zbEJIgRzA2qjSg9xPY&center=42.547909,-83.1463354"
     }
   ],
   "coffee": [
     {
       "name": "Harvey's Hut",
       "distance": "0.2 mi",
-      "url": "https://www.google.com/maps/search/Harvey's%20Hut+near+42.5671408%2C-83.1532407"
+      "url": "https://www.google.com/maps/search/?api=1&query=Harvey's%20Hut&query_place_id=ChIJkU-trYLFJIgR-IQUPISdULE&center=42.568353699999996,-83.15584849999999"
     },
     {
       "name": "The Breakroom",
       "distance": "0.3 mi",
-      "url": "https://www.google.com/maps/search/The%20Breakroom+near+42.5671408%2C-83.1532407"
+      "url": "https://www.google.com/maps/search/?api=1&query=The%20Breakroom&query_place_id=ChIJSWAAaTDFJIgRRtfXLQDaTMo&center=42.562987899999996,-83.1500751"
     },
     {
       "name": "Link Cafe",
       "distance": "0.5 mi",
-      "url": "https://www.google.com/maps/search/Link%20Cafe+near+42.5671408%2C-83.1532407"
+      "url": "https://www.google.com/maps/search/?api=1&query=Link%20Cafe&query_place_id=ChIJq6p67D3EJIgR-gMLfLUcFOk&center=42.5608074,-83.14994949999999"
     },
     {
       "name": "Utopia Coffee",
       "distance": "0.6 mi",
-      "url": "https://www.google.com/maps/search/Utopia%20Coffee+near+42.5671408%2C-83.1532407"
+      "url": "https://www.google.com/maps/search/?api=1&query=Utopia%20Coffee&query_place_id=ChIJPbM5pcDFJIgRgolWQy4GjWE&center=42.5628034,-83.1639747"
+    },
+    {
+      "name": "Einstein Bros. Bagels",
+      "distance": "0.8 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Einstein%20Bros.%20Bagels&query_place_id=ChIJFZcVgZ_GJIgRI4O_2X7i7RQ&center=42.562409599999995,-83.16803809999999"
+    },
+    {
+      "name": "McDonald's",
+      "distance": "1.2 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=McDonald's&query_place_id=ChIJa0ZI6mbEJIgRmSAl2ZIxQVg&center=42.5635514,-83.1295189"
+    },
+    {
+      "name": "McDonald's",
+      "distance": "1.3 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=McDonald's&query_place_id=ChIJg8SVTzTEJIgREZEpGywhtQg&center=42.5488115,-83.1482803"
     }
   ],
   "team_lunch": [
     {
       "name": "Famous Dave's Bar-B-Que - to go",
       "distance": "0.6 mi",
-      "url": "https://www.google.com/maps/search/Famous%20Dave's%20Bar-B-Que%20-%20to%20go+near+42.5671408%2C-83.1532407"
-    },
-    {
-      "name": "Granite City Food & Brewery",
-      "distance": "0.6 mi",
-      "url": "https://www.google.com/maps/search/Granite%20City%20Food%20%26%20Brewery+near+42.5671408%2C-83.1532407"
+      "url": "https://www.google.com/maps/search/?api=1&query=Famous%20Dave's%20Bar-B-Que%20-%20to%20go&query_place_id=ChIJfbxYUZPFJIgRBURFqlHXfC4&center=42.5615224,-83.1611381"
     },
     {
       "name": "The Hudson Cafe",
       "distance": "0.6 mi",
-      "url": "https://www.google.com/maps/search/The%20Hudson%20Cafe+near+42.5671408%2C-83.1532407"
+      "url": "https://www.google.com/maps/search/?api=1&query=The%20Hudson%20Cafe&query_place_id=ChIJURXAUwDFJIgR4MAYL2hoLJo&center=42.5623985,-83.1632079"
     },
     {
       "name": "Two Hands Fresh Corn Dogs",
       "distance": "0.6 mi",
-      "url": "https://www.google.com/maps/search/Two%20Hands%20Fresh%20Corn%20Dogs+near+42.5671408%2C-83.1532407"
+      "url": "https://www.google.com/maps/search/?api=1&query=Two%20Hands%20Fresh%20Corn%20Dogs&query_place_id=ChIJZ2W_VdDFJIgRRBCUbFr_Rlw&center=42.5623237,-83.163652"
+    },
+    {
+      "name": "Atlas Market And Bakery",
+      "distance": "1.1 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Atlas%20Market%20And%20Bakery&query_place_id=ChIJwdTqqR3HJIgROxQJMgIRsfc&center=42.565050199999995,-83.173971"
+    },
+    {
+      "name": "Nothing Bundt Cakes",
+      "distance": "1.1 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Nothing%20Bundt%20Cakes&query_place_id=ChIJW1kPHQ3FJIgR_meMy0XrvqM&center=42.5624143,-83.132164"
+    },
+    {
+      "name": "Bober Tea & Mochi Dough",
+      "distance": "1.2 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Bober%20Tea%20%26%20Mochi%20Dough&query_place_id=ChIJxe1gda7FJIgRzlwjDWCQ1QM&center=42.562613999999996,-83.1311458"
+    },
+    {
+      "name": "Elaine's Bagels",
+      "distance": "1.4 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Elaine's%20Bagels&query_place_id=ChIJd7x04nvEJIgRKLaChlvWjpw&center=42.5756623,-83.1291093"
     }
   ],
   "dinner": [

@@ -1,93 +1,103 @@
 {
   "quick_bite": [
     {
-      "name": "Jersey Mike's Subs",
+      "name": "Tim Hortons",
       "distance": "0.4 mi",
-      "url": "https://www.google.com/maps/search/Jersey%20Mike's%20Subs+near+42.471876099999996%2C-82.9140833"
+      "url": "https://www.google.com/maps/search/?api=1&query=Tim%20Hortons&query_place_id=ChIJGZEazB8oJYgRZGWq5yPDf-Y&center=42.470891099999996,-82.9063242"
     },
     {
       "name": "Jersey Mike's Subs",
       "distance": "0.4 mi",
-      "url": "https://www.google.com/maps/search/Jersey%20Mike's%20Subs+near+42.471876099999996%2C-82.9140833"
+      "url": "https://www.google.com/maps/search/?api=1&query=Jersey%20Mike's%20Subs&query_place_id=ChIJW_bPTh4oJYgRpDVVi6T0b5E&center=42.4717142,-82.9062086"
     },
     {
       "name": "Taco Bell",
       "distance": "0.4 mi",
-      "url": "https://www.google.com/maps/search/Taco%20Bell+near+42.471876099999996%2C-82.9140833"
-    },
-    {
-      "name": "Taco Bell",
-      "distance": "0.4 mi",
-      "url": "https://www.google.com/maps/search/Taco%20Bell+near+42.471876099999996%2C-82.9140833"
+      "url": "https://www.google.com/maps/search/?api=1&query=Taco%20Bell&query_place_id=ChIJYdIc6h8oJYgRJ0kXITRFE4Q&center=42.4701327,-82.9063761"
     },
     {
       "name": "Burger King",
       "distance": "0.4 mi",
-      "url": "https://www.google.com/maps/search/Burger%20King+near+42.471876099999996%2C-82.9140833"
+      "url": "https://www.google.com/maps/search/?api=1&query=Burger%20King&query_place_id=ChIJI6T0bx4oJYgRrjswsI1c4dI&center=42.4728388,-82.90536139999999"
     },
     {
-      "name": "Burger King",
-      "distance": "0.4 mi",
-      "url": "https://www.google.com/maps/search/Burger%20King+near+42.471876099999996%2C-82.9140833"
-    },
-    {
-      "name": "Buffalo Wild Wings",
+      "name": "SNOWFOX Sushi",
       "distance": "0.5 mi",
-      "url": "https://www.google.com/maps/search/Buffalo%20Wild%20Wings+near+42.471876099999996%2C-82.9140833"
+      "url": "https://www.google.com/maps/search/?api=1&query=SNOWFOX%20Sushi&query_place_id=ChIJfYuXsAbXJIgRE84REhLCM2Q&center=42.465173799999995,-82.9107238"
+    },
+    {
+      "name": "Jimmy John's",
+      "distance": "0.5 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Jimmy%20John's&query_place_id=ChIJ33UMiN_XJIgRHeajgpY1m4c&center=42.4667824,-82.9069476"
+    },
+    {
+      "name": "Ferlito's Pizzeria",
+      "distance": "0.6 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Ferlito's%20Pizzeria&query_place_id=ChIJHX_o_TvXJIgRt7pRGECMHXw&center=42.4649529,-82.9078376"
+    },
+    {
+      "name": "Arby's",
+      "distance": "0.6 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Arby's&query_place_id=ChIJBb-gT9_XJIgRJPgu7k8ZTyc&center=42.4644699,-82.90807649999999"
+    },
+    {
+      "name": "Subway",
+      "distance": "0.6 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Subway&query_place_id=ChIJ__t29RwoJYgRIMAuH-2J9SM&center=42.475893299999996,-82.9031329"
+    },
+    {
+      "name": "Subway",
+      "distance": "0.9 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Subway&query_place_id=ChIJcWZ7tLjXJIgRAEbxtZgzCAg&center=42.4651559,-82.9299475"
     }
   ],
   "coffee": [
     {
       "name": "Tim Hortons",
       "distance": "0.4 mi",
-      "url": "https://www.google.com/maps/search/Tim%20Hortons+near+42.471876099999996%2C-82.9140833"
+      "url": "https://www.google.com/maps/search/?api=1&query=Tim%20Hortons&query_place_id=ChIJGZEazB8oJYgRZGWq5yPDf-Y&center=42.470891099999996,-82.9063242"
     },
     {
       "name": "Starbucks Coffee Company",
       "distance": "0.5 mi",
-      "url": "https://www.google.com/maps/search/Starbucks%20Coffee%20Company+near+42.471876099999996%2C-82.9140833"
+      "url": "https://www.google.com/maps/search/?api=1&query=Starbucks%20Coffee%20Company&query_place_id=ChIJ3V2wajjXJIgROCHZXXovxCE&center=42.465129999999995,-82.91071"
     },
     {
       "name": "The Cheesecake Shoppe & Café",
       "distance": "0.9 mi",
-      "url": "https://www.google.com/maps/search/The%20Cheesecake%20Shoppe%20%26%20Caf%C3%A9+near+42.471876099999996%2C-82.9140833"
+      "url": "https://www.google.com/maps/search/?api=1&query=The%20Cheesecake%20Shoppe%20%26%20Caf%C3%A9&query_place_id=ChIJYywy_CIoJYgRqnpUW1U5UKw&center=42.4658349,-82.8983575"
     },
     {
       "name": "McDonald's",
       "distance": "1.0 mi",
-      "url": "https://www.google.com/maps/search/McDonald's+near+42.471876099999996%2C-82.9140833"
+      "url": "https://www.google.com/maps/search/?api=1&query=McDonald's&query_place_id=ChIJHziBNj0oJYgRCHRvSJUianw&center=42.466948099999996,-82.8959461"
     }
   ],
   "team_lunch": [
     {
       "name": "Canton express",
       "distance": "0.4 mi",
-      "url": "https://www.google.com/maps/search/Canton%20express+near+42.471876099999996%2C-82.9140833"
+      "url": "https://www.google.com/maps/search/?api=1&query=Canton%20express&query_place_id=ChIJ-2ooTx4oJYgRo9QbQXJ1pH4&center=42.4718261,-82.90616659999999"
     },
     {
       "name": "Comet Burgers St. Clair Shores",
       "distance": "0.4 mi",
-      "url": "https://www.google.com/maps/search/Comet%20Burgers%20St.%20Clair%20Shores+near+42.471876099999996%2C-82.9140833"
+      "url": "https://www.google.com/maps/search/?api=1&query=Comet%20Burgers%20St.%20Clair%20Shores&query_place_id=ChIJFYJBIAApJYgRsgEitElo3nI&center=42.4724303,-82.9054749"
     },
     {
       "name": "Kroger Bakery",
       "distance": "0.5 mi",
-      "url": "https://www.google.com/maps/search/Kroger%20Bakery+near+42.471876099999996%2C-82.9140833"
-    },
-    {
-      "name": "Kroger Bakery",
-      "distance": "0.5 mi",
-      "url": "https://www.google.com/maps/search/Kroger%20Bakery+near+42.471876099999996%2C-82.9140833"
+      "url": "https://www.google.com/maps/search/?api=1&query=Kroger%20Bakery&query_place_id=ChIJ5WhrkeTXJIgRLSZpAumqfOE&center=42.465069,-82.9107293"
     },
     {
       "name": "DeRos Delicacies",
       "distance": "0.6 mi",
-      "url": "https://www.google.com/maps/search/DeRos%20Delicacies+near+42.471876099999996%2C-82.9140833"
+      "url": "https://www.google.com/maps/search/?api=1&query=DeRos%20Delicacies&query_place_id=ChIJC04HRPInJYgRLuBRdRpbHqI&center=42.4753274,-82.90338109999999"
     },
     {
       "name": "LASTRATE BAKEHOUSE",
       "distance": "0.6 mi",
-      "url": "https://www.google.com/maps/search/LASTRATE%20BAKEHOUSE+near+42.471876099999996%2C-82.9140833"
+      "url": "https://www.google.com/maps/search/?api=1&query=LASTRATE%20BAKEHOUSE&query_place_id=ChIJFZTqICLXJIgRSy_Zt3kUkU4&center=42.47943310000001,-82.9203182"
     }
   ],
   "dinner": [

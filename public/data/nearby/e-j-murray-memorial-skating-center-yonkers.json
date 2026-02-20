@@ -6,6 +6,11 @@
       "url": "https://www.google.com/maps/search/?api=1&query=Subway&query_place_id=ChIJiVCSWEftwokRHBd-CePwtwU&center=40.953437,-73.857767"
     },
     {
+      "name": "Dunkin'",
+      "distance": "0.5 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Dunkin'&query_place_id=ChIJGTVTAkDtwokRkV0Noqm_uUM&center=40.954716499999996,-73.8654311"
+    },
+    {
       "name": "George's Luncheonette",
       "distance": "0.6 mi",
       "url": "https://www.google.com/maps/search/?api=1&query=George's%20Luncheonette&query_place_id=ChIJf-6ws2ntwokRPwbiE1avWGo&center=40.9481509,-73.86749689999999"
@@ -14,21 +19,6 @@
       "name": "Famous Peppino’s Pizza",
       "distance": "0.6 mi",
       "url": "https://www.google.com/maps/search/?api=1&query=Famous%20Peppino%E2%80%99s%20Pizza&query_place_id=ChIJxzWGmTXtwokRNfhFc3bse6s&center=40.953344,-73.84543889999999"
-    },
-    {
-      "name": "Market Sandwich",
-      "distance": "0.8 mi",
-      "url": "https://www.google.com/maps/search/?api=1&query=Market%20Sandwich&query_place_id=ChIJOXqdd7rtwokR2nZUsdvPyIw&center=40.9631326,-73.85587360000001"
-    },
-    {
-      "name": "Angel's Hotdogs 2",
-      "distance": "0.8 mi",
-      "url": "https://www.google.com/maps/search/?api=1&query=Angel's%20Hotdogs%202&query_place_id=ChIJ0WlYY6PtwokR0wZ2dhHp4zI&center=40.94133,-73.8526289"
-    },
-    {
-      "name": "Chuck E. Cheese",
-      "distance": "0.8 mi",
-      "url": "https://www.google.com/maps/search/?api=1&query=Chuck%20E.%20Cheese&query_place_id=ChIJ3-4_KAztwokR7J14YEpSxLk&center=40.9578519,-73.843285"
     }
   ],
   "coffee": [
@@ -38,19 +28,14 @@
       "url": "https://www.google.com/maps/search/?api=1&query=Waffle%20Box%20food%20truck%20%26%20Rink%20Side%20Caf%C3%A9&query_place_id=ChIJeSQXMUPtwokRB2rVPp_lKe4&center=40.95219000000001,-73.857062"
     },
     {
+      "name": "McDonald's",
+      "distance": "0.1 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=McDonald's&query_place_id=ChIJOS8nZ0ftwokRswUHpwEHXss&center=40.9532368,-73.85729669999999"
+    },
+    {
       "name": "Dunkin'",
       "distance": "0.5 mi",
       "url": "https://www.google.com/maps/search/?api=1&query=Dunkin'&query_place_id=ChIJGTVTAkDtwokRkV0Noqm_uUM&center=40.954716499999996,-73.8654311"
-    },
-    {
-      "name": "TOASTY SANDWICH SHOP",
-      "distance": "0.8 mi",
-      "url": "https://www.google.com/maps/search/?api=1&query=TOASTY%20SANDWICH%20SHOP&query_place_id=ChIJY50vNoztwokRqSiFwkXOzPo&center=40.947981399999996,-73.87083179999999"
-    },
-    {
-      "name": "Paris Baguette",
-      "distance": "0.9 mi",
-      "url": "https://www.google.com/maps/search/?api=1&query=Paris%20Baguette&query_place_id=ChIJC51NBgDtwokRBoy9A8Dq6KU&center=40.960315900000005,-73.84296499999999"
     }
   ],
   "team_lunch": [
@@ -83,6 +68,26 @@
       "name": "LUCKY WAY KITCHEN",
       "distance": "0.6 mi",
       "url": "https://www.google.com/maps/search/?api=1&query=LUCKY%20WAY%20KITCHEN&query_place_id=ChIJ8V7rrGntwokRtmv7nv0KK8A&center=40.948254,-73.8678355"
+    },
+    {
+      "name": "Genji Sushi",
+      "distance": "0.7 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Genji%20Sushi&query_place_id=ChIJy3e03h7twokRO6UHlv26uac&center=40.9616863,-73.8563492"
+    },
+    {
+      "name": "Peaberry Cafe",
+      "distance": "0.7 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Peaberry%20Cafe&query_place_id=ChIJuRL6LQDtwokRAN2exbH3pNA&center=40.9520084,-73.8439739"
+    },
+    {
+      "name": "Un Chin Taino",
+      "distance": "0.7 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Un%20Chin%20Taino&query_place_id=ChIJCTrBPk_twokRoYd2DIdO-vU&center=40.9534266,-73.84400769999999"
+    },
+    {
+      "name": "Lola On the Grill",
+      "distance": "0.7 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Lola%20On%20the%20Grill&query_place_id=ChIJCfeHEjXtwokRi6PNqVthS88&center=40.9534959,-73.8439477"
     }
   ],
   "dinner": [

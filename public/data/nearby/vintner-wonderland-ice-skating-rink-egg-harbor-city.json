@@ -6,11 +6,6 @@
       "url": "https://www.google.com/maps/search/?api=1&query=Al's%20Luncheonette&query_place_id=ChIJj3qsa4fewIkRvb4qnY1gOjA&center=39.5337852,-74.6413927"
     },
     {
-      "name": "Masonic Lodge",
-      "distance": "2.5 mi",
-      "url": "https://www.google.com/maps/search/?api=1&query=Masonic%20Lodge&query_place_id=ChIJxYCEd4HewIkRa3f8_9YBX98&center=39.530381,-74.64513199999999"
-    },
-    {
       "name": "Tak Shing Chinese Restaurant",
       "distance": "2.6 mi",
       "url": "https://www.google.com/maps/search/?api=1&query=Tak%20Shing%20Chinese%20Restaurant&query_place_id=ChIJQZcHECrcwIkRszZ3UkUztSA&center=39.5266306,-74.64535579999999"
@@ -21,15 +16,31 @@
       "url": "https://www.google.com/maps/search/?api=1&query=South%20Shore%20Pizza&query_place_id=ChIJdSZkI83dwIkRkexA3izBMU0&center=39.511658,-74.6224984"
     },
     {
-      "name": "Wendy's",
-      "distance": "5.0 mi",
-      "url": "https://www.google.com/maps/search/?api=1&query=Wendy's&query_place_id=ChIJ83ltVwDnwIkR1eiNFgJQBGw&center=39.4781769,-74.57424499999999",
+      "name": "Wawa",
+      "distance": "2.6 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Wawa&query_place_id=ChIJd6_Ag2_fwIkRikvDhqS_62w&center=39.5283759,-74.6474181"
+    },
+    {
+      "name": "Dunkin'",
+      "distance": "2.7 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Dunkin'&query_place_id=ChIJz8QQb4LewIkRKA4SWqcijuw&center=39.5287966,-74.64816739999999"
+    },
+    {
+      "name": "Wawa",
+      "distance": "3.2 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Wawa&query_place_id=ChIJVxmZAJPdwIkROOtKwXBMj7I&center=39.500067699999995,-74.6074876",
       "isFar": true
     },
     {
-      "name": "Chuck E. Cheese",
-      "distance": "6.9 mi",
-      "url": "https://www.google.com/maps/search/?api=1&query=Chuck%20E.%20Cheese&query_place_id=ChIJd_h4lDLdwIkRRD62GigvgBc&center=39.448670299999996,-74.63242939999999",
+      "name": "Wawa",
+      "distance": "4.9 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Wawa&query_place_id=ChIJddQS3XXnwIkRwq5-whI2s8U&center=39.4790615,-74.57487789999999",
+      "isFar": true
+    },
+    {
+      "name": "Wendy's",
+      "distance": "5.0 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Wendy's&query_place_id=ChIJ83ltVwDnwIkR1eiNFgJQBGw&center=39.4781769,-74.57424499999999",
       "isFar": true
     }
   ],
@@ -40,9 +51,31 @@
       "url": "https://www.google.com/maps/search/?api=1&query=Caf%C3%A9%20la%20Fleur&query_place_id=ChIJyX-pfxHfwIkRYKubmUJwgII&center=39.546380899999996,-74.6038994"
     },
     {
+      "name": "McDonald's",
+      "distance": "2.6 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=McDonald's&query_place_id=ChIJacvkaSrcwIkRYTDHMqVqi9E&center=39.5255988,-74.64400470000001"
+    },
+    {
+      "name": "Wawa",
+      "distance": "2.6 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Wawa&query_place_id=ChIJd6_Ag2_fwIkRikvDhqS_62w&center=39.5283759,-74.6474181"
+    },
+    {
       "name": "Dunkin'",
       "distance": "2.7 mi",
       "url": "https://www.google.com/maps/search/?api=1&query=Dunkin'&query_place_id=ChIJz8QQb4LewIkRKA4SWqcijuw&center=39.5287966,-74.64816739999999"
+    },
+    {
+      "name": "Wawa",
+      "distance": "3.2 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Wawa&query_place_id=ChIJVxmZAJPdwIkROOtKwXBMj7I&center=39.500067699999995,-74.6074876",
+      "isFar": true
+    },
+    {
+      "name": "Wawa",
+      "distance": "4.9 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Wawa&query_place_id=ChIJddQS3XXnwIkRwq5-whI2s8U&center=39.4790615,-74.57487789999999",
+      "isFar": true
     }
   ],
   "team_lunch": [],

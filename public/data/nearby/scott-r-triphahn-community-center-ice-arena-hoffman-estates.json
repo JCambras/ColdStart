@@ -19,6 +19,36 @@
       "name": "Chicago Hot Breads",
       "distance": "0.8 mi",
       "url": "https://www.google.com/maps/search/?api=1&query=Chicago%20Hot%20Breads&query_place_id=ChIJF9DLGLyoD4gRU8Rea223S9g&center=42.0476627,-88.10588"
+    },
+    {
+      "name": "Brown's Chicken",
+      "distance": "0.8 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Brown's%20Chicken&query_place_id=ChIJuy42GbyoD4gR1DYVvX2eP9A&center=42.0475016,-88.1058619"
+    },
+    {
+      "name": "Buona",
+      "distance": "0.9 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Buona&query_place_id=ChIJ-fUoFnqoD4gRls8-fMvgtkk&center=42.057825199999996,-88.1374884"
+    },
+    {
+      "name": "Subway",
+      "distance": "1.1 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Subway&query_place_id=ChIJ-dWVE7qoD4gRJXAJKhlgmVk&center=42.0488712,-88.1007429"
+    },
+    {
+      "name": "Jimmy John's",
+      "distance": "1.3 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Jimmy%20John's&query_place_id=ChIJk0wzdcanD4gRriUpZRcrHpQ&center=42.061253799999996,-88.143935"
+    },
+    {
+      "name": "Subway",
+      "distance": "1.3 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Subway&query_place_id=ChIJ_f5gF3SoD4gRrFLAQVhYAaY&center=42.0618711,-88.143716"
+    },
+    {
+      "name": "Taco Bell",
+      "distance": "1.8 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Taco%20Bell&query_place_id=ChIJZ9U0P0yvD4gReOITjRz2PBM&center=42.0486303,-88.0861611"
     }
   ],
   "coffee": [
@@ -33,9 +63,29 @@
       "url": "https://www.google.com/maps/search/?api=1&query=Mumbai%20Cafe&query_place_id=ChIJI3r6oL6oD4gRz-rY7nKi9As&center=42.047736799999996,-88.105886"
     },
     {
+      "name": "McDonald's",
+      "distance": "0.9 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=McDonald's&query_place_id=ChIJ9ebB-7OoD4gRM3ES5EHIvr8&center=42.057386799999996,-88.1364194"
+    },
+    {
+      "name": "McDonald's-Hoffman Estates-O'Keefe Family Restaurants",
+      "distance": "1.2 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=McDonald's-Hoffman%20Estates-O'Keefe%20Family%20Restaurants&query_place_id=ChIJdfD9YmmoD4gRC3uvRz8Y8Qk&center=42.0470663,-88.143318"
+    },
+    {
+      "name": "McDonald's",
+      "distance": "2.1 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=McDonald's&query_place_id=ChIJ-53s-EWvD4gRtS0c3Yzch3A&center=42.0477041,-88.0803533"
+    },
+    {
       "name": "Krispy Kreme",
       "distance": "2.2 mi",
       "url": "https://www.google.com/maps/search/?api=1&query=Krispy%20Kreme&query_place_id=ChIJBflNCqCvD4gRMrvVvrCFiP4&center=42.0518274,-88.078637"
+    },
+    {
+      "name": "Tous Les Jours",
+      "distance": "2.2 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Tous%20Les%20Jours&query_place_id=ChIJm0Q8qUWvD4gRZSF1lbSRgjM&center=42.0514872,-88.07774289999999"
     }
   ],
   "team_lunch": [

@@ -24,6 +24,31 @@
       "name": "Harold's Chicken Shack",
       "distance": "0.7 mi",
       "url": "https://www.google.com/maps/search/?api=1&query=Harold's%20Chicken%20Shack&query_place_id=ChIJSTFU2YoXDogR-VkhKIOsobE&center=41.557726599999995,-87.70009759999999"
+    },
+    {
+      "name": "Subway",
+      "distance": "0.7 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Subway&query_place_id=ChIJlfSDXT4YDogRWI3ySQTIUJA&center=41.556026100000004,-87.682638"
+    },
+    {
+      "name": "Flossmoor Park Concession Stand",
+      "distance": "0.9 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Flossmoor%20Park%20Concession%20Stand&query_place_id=ChIJl_v0FVcZDogR0esqjSJjQ1s&center=41.5445028,-87.67654739999999"
+    },
+    {
+      "name": "Lou Malnati's Pizzeria",
+      "distance": "1.4 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Lou%20Malnati's%20Pizzeria&query_place_id=ChIJfclXHNgZDogRzUadCLctF1A&center=41.528599899999996,-87.6969721"
+    },
+    {
+      "name": "Subway",
+      "distance": "1.4 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Subway&query_place_id=ChIJQ-MKqmIXDogRKN4cRHXRlfw&center=41.5286,-87.6973687"
+    },
+    {
+      "name": "Ariston",
+      "distance": "1.6 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Ariston&query_place_id=ChIJAR5wvQMYDogRssu9jd7DZz4&center=41.571426200000005,-87.6939759"
     }
   ],
   "coffee": [
@@ -31,6 +56,11 @@
       "name": "Hope and Healing",
       "distance": "0.6 mi",
       "url": "https://www.google.com/maps/search/?api=1&query=Hope%20and%20Healing&query_place_id=ChIJJVKcPtMZDogR3FbxxwikrQo&center=41.5400771,-87.69058539999999"
+    },
+    {
+      "name": "McDonald's",
+      "distance": "0.6 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=McDonald's&query_place_id=ChIJyRE37iEYDogRemUsO2b1tXA&center=41.557635999999995,-87.693322"
     },
     {
       "name": "Beyond Borders Cafe",
@@ -73,6 +103,11 @@
       "name": "Confections",
       "distance": "1.4 mi",
       "url": "https://www.google.com/maps/search/?api=1&query=Confections&query_place_id=ChIJz7O4WJ4ZDogR8Q98OY1Lcms&center=41.543568400000005,-87.6679379"
+    },
+    {
+      "name": "Meijer Bakery",
+      "distance": "1.5 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Meijer%20Bakery&query_place_id=ChIJCRmFuNsXDogRr7y5q5F1T3Q&center=41.5305676,-87.7106025"
     }
   ],
   "dinner": [

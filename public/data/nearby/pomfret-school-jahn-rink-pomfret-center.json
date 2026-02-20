@@ -23,12 +23,6 @@
       "distance": "5.0 mi",
       "url": "https://www.google.com/maps/search/?api=1&query=Subway&query_place_id=ChIJH1_LdPEm5IkRU0j042rNfE4&center=41.9234104,-71.889218",
       "isFar": true
-    },
-    {
-      "name": "Mohegan Bowl",
-      "distance": "13.1 mi",
-      "url": "https://www.google.com/maps/search/?api=1&query=Mohegan%20Bowl&query_place_id=ChIJo-Y_ITIf5IkRo4Hy9d56Bbs&center=42.0558149,-71.8622974",
-      "isFar": true
     }
   ],
   "coffee": [
@@ -56,12 +50,6 @@
       "isFar": true
     },
     {
-      "name": "Charlee Bravos Bar & Grill",
-      "distance": "3.8 mi",
-      "url": "https://www.google.com/maps/search/?api=1&query=Charlee%20Bravos%20Bar%20%26%20Grill&query_place_id=ChIJ58mABa0n5IkRNxOsyMWanmE&center=41.9126045,-71.9070074",
-      "isFar": true
-    },
-    {
       "name": "Blackstone Putnam",
       "distance": "3.8 mi",
       "url": "https://www.google.com/maps/search/?api=1&query=Blackstone%20Putnam&query_place_id=ChIJucB7pg4n5IkRcUXnhHniDOg&center=41.9141141,-71.9081948",
@@ -71,6 +59,12 @@
       "name": "Woodstock Tavern",
       "distance": "3.8 mi",
       "url": "https://www.google.com/maps/search/?api=1&query=Woodstock%20Tavern&query_place_id=ChIJZ3CDW9Un5IkRJYvnh2cjzNo&center=41.934149399999995,-71.93666069999999",
+      "isFar": true
+    },
+    {
+      "name": "Walmart Bakery",
+      "distance": "5.0 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Walmart%20Bakery&query_place_id=ChIJ____IvEm5IkRuBlbwsMpGOc&center=41.9233519,-71.8891874",
       "isFar": true
     }
   ],

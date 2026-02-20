@@ -1,6 +1,11 @@
 {
   "quick_bite": [
     {
+      "name": "Dunkin'",
+      "distance": "0.5 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Dunkin'&query_place_id=ChIJXaw51cWOyIkRCdTYEDzBwi8&center=39.961129899999996,-76.7055109"
+    },
+    {
       "name": "Popeyes Louisiana Kitchen",
       "distance": "0.5 mi",
       "url": "https://www.google.com/maps/search/?api=1&query=Popeyes%20Louisiana%20Kitchen&query_place_id=ChIJm4k1OsSOyIkRnXGmpcnpViE&center=39.960276199999996,-76.7033788"
@@ -29,6 +34,21 @@
       "name": "Subway",
       "distance": "1.1 mi",
       "url": "https://www.google.com/maps/search/?api=1&query=Subway&query_place_id=ChIJizXBfqaOyIkRULlN0nTOqtU&center=39.9629879,-76.7282661"
+    },
+    {
+      "name": "Lori Vs Pizza City Bagels",
+      "distance": "1.2 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Lori%20Vs%20Pizza%20City%20Bagels&query_place_id=ChIJl8rOjZSPyIkRcq64WfvhLkE&center=39.9629531,-76.72934579999999"
+    },
+    {
+      "name": "Auggie’s Joint",
+      "distance": "1.2 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Auggie%E2%80%99s%20Joint&query_place_id=ChIJL1x2tLuPyIkREYEPuAo0qdM&center=39.9629531,-76.72934579999999"
+    },
+    {
+      "name": "SNOWFOX Sushi",
+      "distance": "1.3 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=SNOWFOX%20Sushi&query_place_id=ChIJS87TIAGJyIkRgiFIrB65dfw&center=39.9412817,-76.6922058"
     }
   ],
   "coffee": [
@@ -56,6 +76,11 @@
       "name": "The Copper Crust Co.",
       "distance": "0.8 mi",
       "url": "https://www.google.com/maps/search/?api=1&query=The%20Copper%20Crust%20Co.&query_place_id=ChIJIXTGJKSOyIkRPGja_cbseRo&center=39.9473803,-76.721282"
+    },
+    {
+      "name": "McDonald's",
+      "distance": "1.0 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=McDonald's&query_place_id=ChIJAf47Ra-OyIkRWUzRlj3wDNw&center=39.959887699999996,-76.72688749999999"
     }
   ],
   "team_lunch": [
@@ -88,6 +113,11 @@
       "name": "UNFI",
       "distance": "1.1 mi",
       "url": "https://www.google.com/maps/search/?api=1&query=UNFI&query_place_id=ChIJdRmJcgCPyIkRcoSmf3NmQug&center=39.9625984,-76.727745"
+    },
+    {
+      "name": "Tabarak Ali",
+      "distance": "1.1 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Tabarak%20Ali&query_place_id=ChIJH5w35CSPyIkRmOACxXM6HqA&center=39.9625984,-76.727745"
     }
   ],
   "dinner": [

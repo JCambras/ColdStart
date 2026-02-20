@@ -3,61 +3,86 @@
     {
       "name": "Arby's",
       "distance": "0.3 mi",
-      "url": "https://www.google.com/maps/search/Arby's+near+42.5875093%2C-83.8864912"
+      "url": "https://www.google.com/maps/search/?api=1&query=Arby's&query_place_id=ChIJX6U4AfpGI4gR_Yfr3-OBbOs&center=42.5899466,-83.8816018"
     },
     {
       "name": "Taco Bell",
       "distance": "0.3 mi",
-      "url": "https://www.google.com/maps/search/Taco%20Bell+near+42.5875093%2C-83.8864912"
+      "url": "https://www.google.com/maps/search/?api=1&query=Taco%20Bell&query_place_id=ChIJoX9GAfpGI4gRZmMMgPASgug&center=42.589598099999996,-83.88072910000001"
     },
     {
       "name": "KFC",
       "distance": "0.4 mi",
-      "url": "https://www.google.com/maps/search/KFC+near+42.5875093%2C-83.8864912"
+      "url": "https://www.google.com/maps/search/?api=1&query=KFC&query_place_id=ChIJd3EBvsw-I4gRflMaasyCA5E&center=42.5878897,-83.8788288"
     },
     {
       "name": "White Castle",
       "distance": "0.4 mi",
-      "url": "https://www.google.com/maps/search/White%20Castle+near+42.5875093%2C-83.8864912"
-    },
-    {
-      "name": "QDOBA Mexican Eats",
-      "distance": "0.4 mi",
-      "url": "https://www.google.com/maps/search/QDOBA%20Mexican%20Eats+near+42.5875093%2C-83.8864912"
+      "url": "https://www.google.com/maps/search/?api=1&query=White%20Castle&query_place_id=ChIJ_2KdYss-I4gR_FY9ASlUSE0&center=42.587728999999996,-83.878115"
     },
     {
       "name": "Bob Evans",
       "distance": "0.5 mi",
-      "url": "https://www.google.com/maps/search/Bob%20Evans+near+42.5875093%2C-83.8864912"
+      "url": "https://www.google.com/maps/search/?api=1&query=Bob%20Evans&query_place_id=ChIJfRe8dss-I4gRn_VnOV4jDd8&center=42.5870142,-83.8763579"
     },
     {
       "name": "Culver’s",
       "distance": "0.6 mi",
-      "url": "https://www.google.com/maps/search/Culver%E2%80%99s+near+42.5875093%2C-83.8864912"
+      "url": "https://www.google.com/maps/search/?api=1&query=Culver%E2%80%99s&query_place_id=ChIJ3Vzj6PZGI4gRQTclDR15B-M&center=42.586650999999996,-83.87533959999999"
+    },
+    {
+      "name": "Subway",
+      "distance": "0.7 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Subway&query_place_id=ChIJGWmVA_RGI4gR2m0XZcGG0H4&center=42.587702199999995,-83.8733091"
+    },
+    {
+      "name": "Panda Express",
+      "distance": "0.7 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Panda%20Express&query_place_id=ChIJJfR1giNHI4gRZygiCp2a4nc&center=42.5825284,-83.8748887"
+    },
+    {
+      "name": "Panda Express",
+      "distance": "0.7 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Panda%20Express&query_place_id=ChIJ4Y9NpQRHI4gRwK2dqXo2FM4&center=42.5824998,-83.87490100000001"
+    },
+    {
+      "name": "Jimmy John's",
+      "distance": "1.4 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Jimmy%20John's&query_place_id=ChIJ9ZWdg45GI4gReT3FIOc-CkU&center=42.581035199999995,-83.8595773"
     }
   ],
   "coffee": [
     {
       "name": "McDonald's",
       "distance": "0.4 mi",
-      "url": "https://www.google.com/maps/search/McDonald's+near+42.5875093%2C-83.8864912"
+      "url": "https://www.google.com/maps/search/?api=1&query=McDonald's&query_place_id=ChIJjyTaTPdGI4gRSG3A_nR4jlw&center=42.5889968,-83.8787218"
     },
     {
       "name": "Panera Bread",
       "distance": "0.6 mi",
-      "url": "https://www.google.com/maps/search/Panera%20Bread+near+42.5875093%2C-83.8864912"
+      "url": "https://www.google.com/maps/search/?api=1&query=Panera%20Bread&query_place_id=ChIJs0y4k_ZGI4gRYT0k9tRcllc&center=42.586484999999996,-83.8749491"
+    },
+    {
+      "name": "M Street Baking Company",
+      "distance": "2.6 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=M%20Street%20Baking%20Company&query_place_id=ChIJw2fLbsZHI4gRrlOe4VWMh2A&center=42.6076686,-83.9290118"
     }
   ],
   "team_lunch": [
     {
       "name": "Meijer Bakery",
       "distance": "0.5 mi",
-      "url": "https://www.google.com/maps/search/Meijer%20Bakery+near+42.5875093%2C-83.8864912"
+      "url": "https://www.google.com/maps/search/?api=1&query=Meijer%20Bakery&query_place_id=ChIJg2WXWm9HI4gRaxf60EMLYVA&center=42.590378699999995,-83.877326"
     },
     {
-      "name": "Applebee's Grill + Bar",
-      "distance": "0.6 mi",
-      "url": "https://www.google.com/maps/search/Applebee's%20Grill%20%2B%20Bar+near+42.5875093%2C-83.8864912"
+      "name": "Megs Creations",
+      "distance": "2.6 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Megs%20Creations&query_place_id=ChIJuVyyjIVHI4gRatPQfCRAl_g&center=42.607238699999996,-83.9293515"
+    },
+    {
+      "name": "Benny’s Bakery",
+      "distance": "2.6 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Benny%E2%80%99s%20Bakery&query_place_id=ChIJif9nhnxHI4gRX-_6SrdSvyg&center=42.6071331,-83.9295187"
     }
   ],
   "dinner": [

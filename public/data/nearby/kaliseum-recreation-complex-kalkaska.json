@@ -1,88 +1,78 @@
 {
   "quick_bite": [
     {
-      "name": "Horse show, casinos, lakes, trails, beaches nearby or just relax by the pool",
-      "distance": "0.4 mi",
-      "url": "https://www.google.com/maps/search/Horse%20show%2C%20casinos%2C%20lakes%2C%20trails%2C%20beaches%20nearby%20or%20just%20relax%20by%20the%20pool+near+44.7422222%2C-85.1883333"
-    },
-    {
-      "name": "Horse show, casinos, lakes, trails, beaches nearby or just relax by the pool",
-      "distance": "0.5 mi",
-      "url": "https://www.google.com/maps/search/Horse%20show%2C%20casinos%2C%20lakes%2C%20trails%2C%20beaches%20nearby%20or%20just%20relax%20by%20the%20pool+near+44.7422222%2C-85.1883333"
-    },
-    {
       "name": "Subway",
       "distance": "0.6 mi",
-      "url": "https://www.google.com/maps/search/Subway+near+44.7422222%2C-85.1883333"
+      "url": "https://www.google.com/maps/search/?api=1&query=Subway&query_place_id=ChIJDdO9oEzvH4gROxeqh87LQhY&center=44.7444767,-85.17566509999999"
     },
     {
       "name": "Little Caesars Pizza",
       "distance": "0.6 mi",
-      "url": "https://www.google.com/maps/search/Little%20Caesars%20Pizza+near+44.7422222%2C-85.1883333"
+      "url": "https://www.google.com/maps/search/?api=1&query=Little%20Caesars%20Pizza&query_place_id=ChIJK0isBqXoH4gR_rEynqyXe-Y&center=44.744487799999995,-85.17555879999999"
     },
     {
       "name": "Burger King",
       "distance": "0.7 mi",
-      "url": "https://www.google.com/maps/search/Burger%20King+near+44.7422222%2C-85.1883333"
+      "url": "https://www.google.com/maps/search/?api=1&query=Burger%20King&query_place_id=ChIJyaa4j1vvH4gRync2ozRum9I&center=44.7424545,-85.1737833"
     },
     {
       "name": "Taco Bell",
       "distance": "0.7 mi",
-      "url": "https://www.google.com/maps/search/Taco%20Bell+near+44.7422222%2C-85.1883333"
+      "url": "https://www.google.com/maps/search/?api=1&query=Taco%20Bell&query_place_id=ChIJNyLpbPPvH4gRVFORVYOUoeg&center=44.739987,-85.1739331"
     },
     {
       "name": "Arby's",
       "distance": "0.7 mi",
-      "url": "https://www.google.com/maps/search/Arby's+near+44.7422222%2C-85.1883333"
+      "url": "https://www.google.com/maps/search/?api=1&query=Arby's&query_place_id=ChIJyaa4j1vvH4gRqjhgNjjlMJ0&center=44.7436144,-85.1736629"
     }
   ],
   "coffee": [
     {
       "name": "Moose & Stella’s Cafe",
       "distance": "0.9 mi",
-      "url": "https://www.google.com/maps/search/Moose%20%26%20Stella%E2%80%99s%20Cafe+near+44.7422222%2C-85.1883333"
+      "url": "https://www.google.com/maps/search/?api=1&query=Moose%20%26%20Stella%E2%80%99s%20Cafe&query_place_id=ChIJ8QVG25LvH4gRDmvrxzGZDtU&center=44.7335954,-85.1756795"
     },
     {
       "name": "Holsum Brew Cafe & Bakery",
       "distance": "1.0 mi",
-      "url": "https://www.google.com/maps/search/Holsum%20Brew%20Cafe%20%26%20Bakery+near+44.7422222%2C-85.1883333"
+      "url": "https://www.google.com/maps/search/?api=1&query=Holsum%20Brew%20Cafe%20%26%20Bakery&query_place_id=ChIJk1OnRgDvH4gR-QAhsIPidic&center=44.729766,-85.1766629"
     },
     {
       "name": "Biggby Coffee",
       "distance": "1.1 mi",
-      "url": "https://www.google.com/maps/search/Biggby%20Coffee+near+44.7422222%2C-85.1883333"
+      "url": "https://www.google.com/maps/search/?api=1&query=Biggby%20Coffee&query_place_id=ChIJK1k5HcLvH4gR7-GJ4-sTe5I&center=44.7271633,-85.1816721"
     },
     {
       "name": "McDonald's",
       "distance": "1.2 mi",
-      "url": "https://www.google.com/maps/search/McDonald's+near+44.7422222%2C-85.1883333"
+      "url": "https://www.google.com/maps/search/?api=1&query=McDonald's&query_place_id=ChIJmaoCqNToH4gRLuRCvfecIAg&center=44.7253726,-85.183804"
     }
   ],
   "team_lunch": [
     {
       "name": "BC Pizza Kalkaska",
       "distance": "0.8 mi",
-      "url": "https://www.google.com/maps/search/BC%20Pizza%20Kalkaska+near+44.7422222%2C-85.1883333"
+      "url": "https://www.google.com/maps/search/?api=1&query=BC%20Pizza%20Kalkaska&query_place_id=ChIJwxQ2EETvH4gRdqe2CwCXfTQ&center=44.735717099999995,-85.17423880000001"
     },
     {
       "name": "Summer Gig Food Truck",
       "distance": "0.9 mi",
-      "url": "https://www.google.com/maps/search/Summer%20Gig%20Food%20Truck+near+44.7422222%2C-85.1883333"
+      "url": "https://www.google.com/maps/search/?api=1&query=Summer%20Gig%20Food%20Truck&query_place_id=ChIJzx0dO_PvH4gRSZj95_Mtf1o&center=44.7316067,-85.1768404"
     },
     {
       "name": "Indo-China Garden",
       "distance": "1.1 mi",
-      "url": "https://www.google.com/maps/search/Indo-China%20Garden+near+44.7422222%2C-85.1883333"
+      "url": "https://www.google.com/maps/search/?api=1&query=Indo-China%20Garden&query_place_id=ChIJLTRKBTfvH4gR-L3trYjwENA&center=44.7273729,-85.1808382"
     },
     {
       "name": "MrBeast Burger",
       "distance": "1.2 mi",
-      "url": "https://www.google.com/maps/search/MrBeast%20Burger+near+44.7422222%2C-85.1883333"
+      "url": "https://www.google.com/maps/search/?api=1&query=MrBeast%20Burger&query_place_id=ChIJd-fvxyHvH4gRkULmE994njo&center=44.724833,-85.184151"
     },
     {
       "name": "Big Boy",
       "distance": "1.2 mi",
-      "url": "https://www.google.com/maps/search/Big%20Boy+near+44.7422222%2C-85.1883333"
+      "url": "https://www.google.com/maps/search/?api=1&query=Big%20Boy&query_place_id=ChIJmaoCqNToH4gRthMHqXZiZzE&center=44.724833,-85.184151"
     }
   ],
   "dinner": [

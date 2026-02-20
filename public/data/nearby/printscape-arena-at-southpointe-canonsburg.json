@@ -24,6 +24,31 @@
       "name": "Subway",
       "distance": "1.6 mi",
       "url": "https://www.google.com/maps/search/?api=1&query=Subway&query_place_id=ChIJoTmM0H1UNIgRxFwA0tvH_rA&center=40.260118999999996,-80.1814454"
+    },
+    {
+      "name": "Subway",
+      "distance": "1.6 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Subway&query_place_id=ChIJP94G5KdWNIgR33bYlJpHwbw&center=40.2994753,-80.17443709999999"
+    },
+    {
+      "name": "Subway",
+      "distance": "1.7 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Subway&query_place_id=ChIJV1-MS65VNIgRAjesGTeDfwU&center=40.2629616,-80.1351624"
+    },
+    {
+      "name": "Dairy Queen Grill & Chill",
+      "distance": "1.8 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Dairy%20Queen%20Grill%20%26%20Chill&query_place_id=ChIJp1fUx69VNIgReD-WN-c-i-4&center=40.270004799999995,-80.1293689"
+    },
+    {
+      "name": "PrimoHoagies",
+      "distance": "1.9 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=PrimoHoagies&query_place_id=ChIJrW9SEtdVNIgR7KY8ySvBUZI&center=40.2658503,-80.1300303"
+    },
+    {
+      "name": "Taco Bell",
+      "distance": "1.9 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Taco%20Bell&query_place_id=ChIJJZ72uLhVNIgRflRwa1WVgD8&center=40.2722038,-80.12681010000001"
     }
   ],
   "coffee": [
@@ -43,6 +68,11 @@
       "url": "https://www.google.com/maps/search/?api=1&query=LaBella%20Bean%20Coffee%20House%20and%20Eatery&query_place_id=ChIJ_fo15QxVNIgR1mAXCWNxI8w&center=40.2751106,-80.16720029999999"
     },
     {
+      "name": "McDonald's",
+      "distance": "1.1 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=McDonald's&query_place_id=ChIJv7vWYGRUNIgR-7t4clOpxHk&center=40.2636234,-80.1722454"
+    },
+    {
       "name": "Peace, Love and Little Donuts of Peters Twp",
       "distance": "1.7 mi",
       "url": "https://www.google.com/maps/search/?api=1&query=Peace%2C%20Love%20and%20Little%20Donuts%20of%20Peters%20Twp&query_place_id=ChIJ9fLkOFlVNIgRpTRhZuBtrw8&center=40.2623871,-80.13603859999999"
@@ -60,19 +90,9 @@
       "url": "https://www.google.com/maps/search/?api=1&query=Bubba's%20Gourmet%20Burghers%20%26%20Beer%20-%20Southpointe&query_place_id=ChIJ7WdGEj9UNIgRR7uqvc4YMck&center=40.2780609,-80.16166679999999"
     },
     {
-      "name": "Baxter’s R•Cade",
-      "distance": "0.3 mi",
-      "url": "https://www.google.com/maps/search/?api=1&query=Baxter%E2%80%99s%20R%E2%80%A2Cade&query_place_id=ChIJleICih5VNIgR6D4yGihToBA&center=40.275273399999996,-80.16638909999999"
-    },
-    {
       "name": "Steel City Subs",
       "distance": "0.3 mi",
       "url": "https://www.google.com/maps/search/?api=1&query=Steel%20City%20Subs&query_place_id=ChIJNY4qcIFVNIgRTq6QJuiB9gc&center=40.2751106,-80.16720029999999"
-    },
-    {
-      "name": "All Star Sports Bar & Grill",
-      "distance": "0.3 mi",
-      "url": "https://www.google.com/maps/search/?api=1&query=All%20Star%20Sports%20Bar%20%26%20Grill&query_place_id=ChIJCcqB5mpUNIgRx7u9x1C0esc&center=40.2753404,-80.167693"
     },
     {
       "name": "Gourmet Grab-N-Go",
@@ -83,6 +103,16 @@
       "name": "Pan Wei Buffet & Grill",
       "distance": "1.2 mi",
       "url": "https://www.google.com/maps/search/?api=1&query=Pan%20Wei%20Buffet%20%26%20Grill&query_place_id=ChIJtbMXYmRUNIgRGD9vLrYk_9Q&center=40.263579299999996,-80.1736123"
+    },
+    {
+      "name": "Bartram House Bakery",
+      "distance": "1.9 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Bartram%20House%20Bakery&query_place_id=ChIJZ5IuUrpVNIgR2wiDuPOf45k&center=40.2648186,-80.1308366"
+    },
+    {
+      "name": "Turner’s Treats",
+      "distance": "1.9 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Turner%E2%80%99s%20Treats&query_place_id=ChIJLRilli1TNIgRMQ7B7vzjVok&center=40.268892,-80.196162"
     }
   ],
   "dinner": [

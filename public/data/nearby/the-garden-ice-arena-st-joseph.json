@@ -3,72 +3,111 @@
     {
       "name": "Culver’s",
       "distance": "1.1 mi",
-      "url": "https://www.google.com/maps/search/Culver%E2%80%99s+near+42.042381899999995%2C-86.4934202"
+      "url": "https://www.google.com/maps/search/?api=1&query=Culver%E2%80%99s&query_place_id=ChIJadNUjEXDEIgRv7Dl83gxiRs&center=42.0356202,-86.5132739"
     },
     {
       "name": "Jimmy John's",
       "distance": "1.1 mi",
-      "url": "https://www.google.com/maps/search/Jimmy%20John's+near+42.042381899999995%2C-86.4934202"
+      "url": "https://www.google.com/maps/search/?api=1&query=Jimmy%20John's&query_place_id=ChIJ_Y9jQFrDEIgR1giyD6ViWy4&center=42.036038399999995,-86.51368839999999"
     },
     {
       "name": "Dairy Queen Grill & Chill",
       "distance": "1.2 mi",
-      "url": "https://www.google.com/maps/search/Dairy%20Queen%20Grill%20%26%20Chill+near+42.042381899999995%2C-86.4934202"
+      "url": "https://www.google.com/maps/search/?api=1&query=Dairy%20Queen%20Grill%20%26%20Chill&query_place_id=ChIJF76D3EXDEIgRxYUfPlVWPUM&center=42.0367521,-86.51493169999999"
     },
     {
       "name": "Subway",
       "distance": "1.2 mi",
-      "url": "https://www.google.com/maps/search/Subway+near+42.042381899999995%2C-86.4934202"
+      "url": "https://www.google.com/maps/search/?api=1&query=Subway&query_place_id=ChIJUbPAJkLDEIgR-V6FFtpMCoc&center=42.036451799999995,-86.5148892"
+    },
+    {
+      "name": "Dunkin'",
+      "distance": "1.2 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Dunkin'&query_place_id=ChIJ8btdQE_DEIgRuil29geRvkY&center=42.0341156,-86.5136017"
     },
     {
       "name": "Taco Bell",
       "distance": "1.2 mi",
-      "url": "https://www.google.com/maps/search/Taco%20Bell+near+42.042381899999995%2C-86.4934202"
+      "url": "https://www.google.com/maps/search/?api=1&query=Taco%20Bell&query_place_id=ChIJz4xPJmTDEIgRu_I39WCUqDk&center=42.0340249,-86.5148634"
+    },
+    {
+      "name": "RED LOTUS NUTRITION (aka: Red Lotus Lifestyle on Facebook)",
+      "distance": "1.3 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=RED%20LOTUS%20NUTRITION%20(aka%3A%20Red%20Lotus%20Lifestyle%20on%20Facebook)&query_place_id=ChIJh7mIb1rFEIgRYDf9GDJ2hX0&center=42.0583362,-86.48172679999999"
+    },
+    {
+      "name": "Burger King",
+      "distance": "1.3 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Burger%20King&query_place_id=ChIJ40ctME_DEIgRxO0CyuVmiFU&center=42.0333548,-86.51492669999999"
+    },
+    {
+      "name": "Five Guys",
+      "distance": "2.1 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Five%20Guys&query_place_id=ChIJ4yPNTQLFEIgR-NOI3CS8lms&center=42.056571000000005,-86.4570706"
+    },
+    {
+      "name": "Baguette De France",
+      "distance": "2.6 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Baguette%20De%20France&query_place_id=ChIJ96glKWzEEIgRP_Ap2JO2Chs&center=42.0791766,-86.48715709999999"
     }
   ],
   "coffee": [
     {
       "name": "Crimson Cafe",
       "distance": "1.1 mi",
-      "url": "https://www.google.com/maps/search/Crimson%20Cafe+near+42.042381899999995%2C-86.4934202"
+      "url": "https://www.google.com/maps/search/?api=1&query=Crimson%20Cafe&query_place_id=ChIJ-z7JIULDEIgR_RjufHJO7Rc&center=42.043939699999996,-86.5146544"
     },
     {
       "name": "Dunkin'",
       "distance": "1.2 mi",
-      "url": "https://www.google.com/maps/search/Dunkin'+near+42.042381899999995%2C-86.4934202"
+      "url": "https://www.google.com/maps/search/?api=1&query=Dunkin'&query_place_id=ChIJ8btdQE_DEIgRuil29geRvkY&center=42.0341156,-86.5136017"
     },
     {
       "name": "McDonald's",
       "distance": "1.2 mi",
-      "url": "https://www.google.com/maps/search/McDonald's+near+42.042381899999995%2C-86.4934202"
+      "url": "https://www.google.com/maps/search/?api=1&query=McDonald's&query_place_id=ChIJ7TeYRU_DEIgRwyCzXVAH0M4&center=42.033215399999996,-86.513532"
     },
     {
       "name": "Starbucks",
       "distance": "1.3 mi",
-      "url": "https://www.google.com/maps/search/Starbucks+near+42.042381899999995%2C-86.4934202"
+      "url": "https://www.google.com/maps/search/?api=1&query=Starbucks&query_place_id=ChIJoZ1xlLjDEIgRnpSeF-tBaVI&center=42.032906,-86.514565"
     },
     {
-      "name": "Striker's Bowl",
-      "distance": "3.1 mi",
-      "url": "https://www.google.com/maps/search/Striker's%20Bowl+near+42.042381899999995%2C-86.4934202",
-      "isFar": true
+      "name": "Red Coach Donuts",
+      "distance": "2.5 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Red%20Coach%20Donuts&query_place_id=ChIJg-2S8MHdEIgR3sGoqWGqjR4&center=42.01246520000001,-86.519352"
+    },
+    {
+      "name": "Sandra Kay's",
+      "distance": "2.7 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Sandra%20Kay's&query_place_id=ChIJdXzFdtfaEIgRtrYWgwchvCA&center=42.0142198,-86.45638869999999"
     }
   ],
   "team_lunch": [
     {
       "name": "Honeybloom Bakery",
       "distance": "0.7 mi",
-      "url": "https://www.google.com/maps/search/Honeybloom%20Bakery+near+42.042381899999995%2C-86.4934202"
+      "url": "https://www.google.com/maps/search/?api=1&query=Honeybloom%20Bakery&query_place_id=ChIJEwNVRAXDEIgRXASJnz7glQw&center=42.040504899999995,-86.5073759"
     },
     {
       "name": "Papa Johns Pizza",
       "distance": "1.1 mi",
-      "url": "https://www.google.com/maps/search/Papa%20Johns%20Pizza+near+42.042381899999995%2C-86.4934202"
+      "url": "https://www.google.com/maps/search/?api=1&query=Papa%20Johns%20Pizza&query_place_id=ChIJTc1IGELDEIgRRYdvwNXsTgU&center=42.044061,-86.514845"
     },
     {
       "name": "Texas Corral",
       "distance": "1.2 mi",
-      "url": "https://www.google.com/maps/search/Texas%20Corral+near+42.042381899999995%2C-86.4934202"
+      "url": "https://www.google.com/maps/search/?api=1&query=Texas%20Corral&query_place_id=ChIJZTqmv4HDEIgRuDnHJXsZ1AA&center=42.0336006,-86.51361879999999"
+    },
+    {
+      "name": "Meijer Bakery",
+      "distance": "1.6 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Meijer%20Bakery&query_place_id=ChIJJYOXAiTDEIgRmZTwUaxkSP0&center=42.0260235,-86.5160081"
+    },
+    {
+      "name": "Sunset Shores Bakery",
+      "distance": "2.9 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Sunset%20Shores%20Bakery&query_place_id=ChIJfYrXPWjFEIgRqN-HRbBhXvA&center=42.083708699999995,-86.4955927"
     }
   ],
   "dinner": [

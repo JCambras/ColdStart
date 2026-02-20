@@ -3,60 +3,106 @@
     {
       "name": "GT Cook Shop",
       "distance": "0.6 mi",
-      "url": "https://www.google.com/maps/search/GT%20Cook%20Shop+near+38.7844482%2C-76.9777572"
+      "url": "https://www.google.com/maps/search/?api=1&query=GT%20Cook%20Shop&query_place_id=ChIJvSGjv-67t4kRisqbt5yohFQ&center=38.7910691,-76.9857052"
     },
     {
       "name": "Burger King",
       "distance": "1.4 mi",
-      "url": "https://www.google.com/maps/search/Burger%20King+near+38.7844482%2C-76.9777572"
+      "url": "https://www.google.com/maps/search/?api=1&query=Burger%20King&query_place_id=ChIJPWELUlq6t4kRg21gE2TlsJc&center=38.804238,-76.9785158"
     },
     {
       "name": "KFC",
       "distance": "1.4 mi",
-      "url": "https://www.google.com/maps/search/KFC+near+38.7844482%2C-76.9777572"
+      "url": "https://www.google.com/maps/search/?api=1&query=KFC&query_place_id=ChIJwc7vXFq6t4kREQH311dAwd8&center=38.8043255,-76.9775997"
     },
     {
       "name": "Danny's Carryout",
       "distance": "1.4 mi",
-      "url": "https://www.google.com/maps/search/Danny's%20Carryout+near+38.7844482%2C-76.9777572"
+      "url": "https://www.google.com/maps/search/?api=1&query=Danny's%20Carryout&query_place_id=ChIJQfs3q2C6t4kRcE1ReL-RDyk&center=38.803207199999996,-76.9876414"
     },
     {
       "name": "Wendy's",
       "distance": "1.4 mi",
-      "url": "https://www.google.com/maps/search/Wendy's+near+38.7844482%2C-76.9777572"
+      "url": "https://www.google.com/maps/search/?api=1&query=Wendy's&query_place_id=ChIJXbW-glq6t4kR4bDcw6n28FA&center=38.804801399999995,-76.9756973"
     },
     {
       "name": "Checkers",
       "distance": "1.4 mi",
-      "url": "https://www.google.com/maps/search/Checkers+near+38.7844482%2C-76.9777572"
+      "url": "https://www.google.com/maps/search/?api=1&query=Checkers&query_place_id=ChIJHQcqVlq6t4kR1lOEFiggtaU&center=38.804878699999996,-76.9799446"
+    },
+    {
+      "name": "Cameron's Seafood",
+      "distance": "1.4 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Cameron's%20Seafood&query_place_id=ChIJz1QEVlq6t4kRxfkkqmSf18w&center=38.8046145,-76.98267"
+    },
+    {
+      "name": "Five Guys",
+      "distance": "1.4 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Five%20Guys&query_place_id=ChIJS1sYHCO7t4kR1YlZTnb7VsI&center=38.805014899999996,-76.97799839999999"
+    },
+    {
+      "name": "TenderFix by Noah Schnapp",
+      "distance": "1.4 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=TenderFix%20by%20Noah%20Schnapp&query_place_id=ChIJyy_BcCy7t4kRNKfzR9sUzLw&center=38.8046514,-76.9827844"
+    },
+    {
+      "name": "Jersey Mike's Subs",
+      "distance": "1.4 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Jersey%20Mike's%20Subs&query_place_id=ChIJU5XyDmy7t4kRIF2SCBA_O7k&center=38.8051834,-76.9781225"
     }
   ],
-  "coffee": [],
+  "coffee": [
+    {
+      "name": "McDonald's",
+      "distance": "1.4 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=McDonald's&query_place_id=ChIJeZE2h1q6t4kRMA0eGliXvzo&center=38.8046322,-76.9762535"
+    }
+  ],
   "team_lunch": [
     {
       "name": "LW PIZZA",
       "distance": "0.7 mi",
-      "url": "https://www.google.com/maps/search/LW%20PIZZA+near+38.7844482%2C-76.9777572"
-    },
-    {
-      "name": "Zodiac Brewing Company",
-      "distance": "1.3 mi",
-      "url": "https://www.google.com/maps/search/Zodiac%20Brewing%20Company+near+38.7844482%2C-76.9777572"
+      "url": "https://www.google.com/maps/search/?api=1&query=LW%20PIZZA&query_place_id=ChIJLXhtYAC7t4kRQACp-wEBFIM&center=38.787723799999995,-76.9895043"
     },
     {
       "name": "Good Luck Carryout",
       "distance": "1.4 mi",
-      "url": "https://www.google.com/maps/search/Good%20Luck%20Carryout+near+38.7844482%2C-76.9777572"
+      "url": "https://www.google.com/maps/search/?api=1&query=Good%20Luck%20Carryout&query_place_id=ChIJGX2d5V26t4kRHGVlEEC3e3A&center=38.803305,-76.986529"
     },
     {
       "name": "Johnny Rockets",
       "distance": "1.4 mi",
-      "url": "https://www.google.com/maps/search/Johnny%20Rockets+near+38.7844482%2C-76.9777572"
+      "url": "https://www.google.com/maps/search/?api=1&query=Johnny%20Rockets&query_place_id=ChIJHewTZYa6t4kRBv_MbcaZb5s&center=38.7940833,-77.0009224"
     },
     {
       "name": "IHOP",
       "distance": "1.4 mi",
-      "url": "https://www.google.com/maps/search/IHOP+near+38.7844482%2C-76.9777572"
+      "url": "https://www.google.com/maps/search/?api=1&query=IHOP&query_place_id=ChIJK8MGpFu6t4kRXa5OOYpXHpI&center=38.804667099999996,-76.9828027"
+    },
+    {
+      "name": "Auntie Anne's",
+      "distance": "1.4 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Auntie%20Anne's&query_place_id=ChIJ8_irT1y6t4kR-U4DGnqjmv8&center=38.794576299999996,-77.0011495"
+    },
+    {
+      "name": "Safeway Bakery",
+      "distance": "1.5 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Safeway%20Bakery&query_place_id=ChIJAQDAvl26t4kRBueAzInqKPE&center=38.804542399999995,-76.9856399"
+    },
+    {
+      "name": "Cinnabon",
+      "distance": "1.5 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Cinnabon&query_place_id=ChIJh8veHbm7t4kRWxyF-5gzOvw&center=38.7933652,-77.0024138"
+    },
+    {
+      "name": "Sabor Casero Bakery Oxon Hill",
+      "distance": "1.5 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Sabor%20Casero%20Bakery%20Oxon%20Hill&query_place_id=ChIJDxgAMWe7t4kRB3JHQpwFiqE&center=38.806056,-76.98016679999999"
+    },
+    {
+      "name": "Sweet Bonds Caked Up Creations",
+      "distance": "1.5 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Sweet%20Bonds%20Caked%20Up%20Creations&query_place_id=ChIJhdUst1y7t4kRLE8JHcwkbhk&center=38.7998604,-76.9985504"
     }
   ],
   "dinner": [

@@ -3,52 +3,101 @@
     {
       "name": "Bode's Corned Beef House",
       "distance": "0.2 mi",
-      "url": "https://www.google.com/maps/search/Bode's%20Corned%20Beef%20House+near+42.3768779%2C-83.46611299999999"
+      "url": "https://www.google.com/maps/search/?api=1&query=Bode's%20Corned%20Beef%20House&query_place_id=ChIJT4HBASitJIgRkmHjekReq0k&center=42.3744917,-83.464125"
     },
     {
       "name": "Taco Bell",
       "distance": "0.3 mi",
-      "url": "https://www.google.com/maps/search/Taco%20Bell+near+42.3768779%2C-83.46611299999999"
+      "url": "https://www.google.com/maps/search/?api=1&query=Taco%20Bell&query_place_id=ChIJK3UXtietJIgRNzDjg0KtOY8&center=42.3767558,-83.4611003"
     },
     {
       "name": "Old Village General",
       "distance": "0.3 mi",
-      "url": "https://www.google.com/maps/search/Old%20Village%20General+near+42.3768779%2C-83.46611299999999"
+      "url": "https://www.google.com/maps/search/?api=1&query=Old%20Village%20General&query_place_id=ChIJOTW1epitJIgR8Fd9cMwyz1M&center=42.3791832,-83.4609919"
+    },
+    {
+      "name": "Tim Hortons",
+      "distance": "0.3 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Tim%20Hortons&query_place_id=ChIJYVAhaCatJIgRW5Eg8nceSDQ&center=42.3762857,-83.4600524"
     },
     {
       "name": "Simply Fresh Mediterranean Grill",
       "distance": "0.4 mi",
-      "url": "https://www.google.com/maps/search/Simply%20Fresh%20Mediterranean%20Grill+near+42.3768779%2C-83.46611299999999"
+      "url": "https://www.google.com/maps/search/?api=1&query=Simply%20Fresh%20Mediterranean%20Grill&query_place_id=ChIJWVjUytasJIgRFN5kymi9CR4&center=42.3713,-83.4696239"
     },
     {
-      "name": "Chuck E. Cheese",
-      "distance": "3.8 mi",
-      "url": "https://www.google.com/maps/search/Chuck%20E.%20Cheese+near+42.3768779%2C-83.46611299999999",
-      "isFar": true
+      "name": "Jimmy John's",
+      "distance": "0.4 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Jimmy%20John's&query_place_id=ChIJ8XChotasJIgR8yZrValrMyc&center=42.3705974,-83.4684269"
+    },
+    {
+      "name": "Subway",
+      "distance": "0.5 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Subway&query_place_id=ChIJE9884NOsJIgRUqL2LKhaGaQ&center=42.3702154,-83.4709052"
+    },
+    {
+      "name": "Savvy Sliders",
+      "distance": "1.2 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Savvy%20Sliders&query_place_id=ChIJ-3wPmFZTO4gRpUlktI8qjBU&center=42.3592228,-83.4659463"
+    },
+    {
+      "name": "Arby's",
+      "distance": "1.3 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Arby's&query_place_id=ChIJu5yHqClTO4gRxWjHdhMJf80&center=42.35845200000001,-83.46682419999999"
+    },
+    {
+      "name": "Taco Bell",
+      "distance": "1.3 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Taco%20Bell&query_place_id=ChIJa5fii9ZSO4gRXt1mijnyzHs&center=42.3585954,-83.4615417"
     }
   ],
   "coffee": [
     {
       "name": "Meridian Coffee Co.",
       "distance": "0.3 mi",
-      "url": "https://www.google.com/maps/search/Meridian%20Coffee%20Co.+near+42.3768779%2C-83.46611299999999"
+      "url": "https://www.google.com/maps/search/?api=1&query=Meridian%20Coffee%20Co.&query_place_id=ChIJEU4eB1etJIgRc8fTHqf6tys&center=42.3787764,-83.4616563"
     },
     {
       "name": "Tim Hortons",
       "distance": "0.3 mi",
-      "url": "https://www.google.com/maps/search/Tim%20Hortons+near+42.3768779%2C-83.46611299999999"
+      "url": "https://www.google.com/maps/search/?api=1&query=Tim%20Hortons&query_place_id=ChIJYVAhaCatJIgRW5Eg8nceSDQ&center=42.3762857,-83.4600524"
     },
     {
       "name": "Plymouth Coffee Bean",
       "distance": "0.4 mi",
-      "url": "https://www.google.com/maps/search/Plymouth%20Coffee%20Bean+near+42.3768779%2C-83.46611299999999"
+      "url": "https://www.google.com/maps/search/?api=1&query=Plymouth%20Coffee%20Bean&query_place_id=ChIJE5P2MNGsJIgRx6xaSpGLVEw&center=42.3719375,-83.4702202"
+    },
+    {
+      "name": "Bakehouse 46",
+      "distance": "0.5 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Bakehouse%2046&query_place_id=ChIJY5MDr9asJIgRDHp231PK8lg&center=42.3705983,-83.4693482"
+    },
+    {
+      "name": "McDonald's",
+      "distance": "1.2 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=McDonald's&query_place_id=ChIJn42AidZSO4gRORAnmWtVS0Y&center=42.359415999999996,-83.4624937"
+    },
+    {
+      "name": "Einstein Bros. Bagels",
+      "distance": "1.2 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Einstein%20Bros.%20Bagels&query_place_id=ChIJMZlxnilTO4gR4rnJw8b6IFw&center=42.3592148,-83.46686969999999"
+    },
+    {
+      "name": "Einstein Bros. Bagels",
+      "distance": "1.4 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Einstein%20Bros.%20Bagels&query_place_id=ChIJP-CTyO2sJIgRd5F15Krib0k&center=42.393415399999995,-83.4830769"
     }
   ],
   "team_lunch": [
     {
       "name": "The Simple Kitchen",
       "distance": "0.2 mi",
-      "url": "https://www.google.com/maps/search/The%20Simple%20Kitchen+near+42.3768779%2C-83.46611299999999"
+      "url": "https://www.google.com/maps/search/?api=1&query=The%20Simple%20Kitchen&query_place_id=ChIJVVWF_ixTO4gR0bsMnYLg4SM&center=42.373885099999995,-83.46727779999999"
+    },
+    {
+      "name": "Gingie's",
+      "distance": "0.9 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Gingie's&query_place_id=ChIJGZ1JUC5TO4gRI1i0Au_Q__M&center=42.36462530000001,-83.47315259999999"
     }
   ],
   "dinner": [

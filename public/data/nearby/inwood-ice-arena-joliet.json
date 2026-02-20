@@ -1,6 +1,11 @@
 {
   "quick_bite": [
     {
+      "name": "Dunkin'",
+      "distance": "0.1 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Dunkin'&query_place_id=ChIJiWHPN-lhDogRxMHZoURqd3o&center=41.522639999999996,-88.1551128"
+    },
+    {
       "name": "Aurelio's Pizza Joliet",
       "distance": "0.2 mi",
       "url": "https://www.google.com/maps/search/?api=1&query=Aurelio's%20Pizza%20Joliet&query_place_id=ChIJ7XVmF-ZhDogRyXrdSHazaI0&center=41.5227802,-88.1581868"
@@ -29,6 +34,21 @@
       "name": "PIZZAS BY MARCHELLONI",
       "distance": "0.7 mi",
       "url": "https://www.google.com/maps/search/?api=1&query=PIZZAS%20BY%20MARCHELLONI&query_place_id=ChIJD_1_hZZhDogRpSjK331_VqI&center=41.523575,-88.142898"
+    },
+    {
+      "name": "Rax",
+      "distance": "1.0 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Rax&query_place_id=ChIJ6RFeQJlhDogR4_sWbXMxAus&center=41.521949899999996,-88.13565849999999"
+    },
+    {
+      "name": "Subway",
+      "distance": "1.4 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Subway&query_place_id=ChIJo0Q5oNFhDogRpijL-CrpQLw&center=41.5406135,-88.16163730000001"
+    },
+    {
+      "name": "Jimmy John's",
+      "distance": "1.5 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Jimmy%20John's&query_place_id=ChIJ2wYXqQBiDogRaFs81d1DQ4k&center=41.5019577,-88.1679339"
     }
   ],
   "coffee": [
@@ -51,6 +71,16 @@
       "name": "7 Brew Coffee",
       "distance": "0.7 mi",
       "url": "https://www.google.com/maps/search/?api=1&query=7%20Brew%20Coffee&query_place_id=ChIJT0kOnIdhDogRY9mdVS8zqmI&center=41.522653,-88.14283130000001"
+    },
+    {
+      "name": "McDonald's",
+      "distance": "1.5 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=McDonald's&query_place_id=ChIJu_-0hRaKDogR8yshMO9uKWU&center=41.5212661,-88.18456499999999"
+    },
+    {
+      "name": "McDonald's",
+      "distance": "1.9 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=McDonald's&query_place_id=ChIJgbzlhW1hDogRspEn69rkigw&center=41.523173799999995,-88.11956719999999"
     }
   ],
   "team_lunch": [
@@ -78,6 +108,11 @@
       "name": "Sweet Bloom Bakery",
       "distance": "0.8 mi",
       "url": "https://www.google.com/maps/search/?api=1&query=Sweet%20Bloom%20Bakery&query_place_id=ChIJd866rjxhDogRg0Kq7tCttd4&center=41.5320937,-88.15358379999999"
+    },
+    {
+      "name": "Brick Oven Cafe & Bakery",
+      "distance": "1.6 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Brick%20Oven%20Cafe%20%26%20Bakery&query_place_id=ChIJbS6aG3RhDogRa1qOjdauPFg&center=41.5212977,-88.1253239"
     }
   ],
   "dinner": [

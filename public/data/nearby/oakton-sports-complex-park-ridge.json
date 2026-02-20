@@ -6,6 +6,11 @@
       "url": "https://www.google.com/maps/search/?api=1&query=Paradise%20Pup&query_place_id=ChIJheSXu7W3D4gRIks7pa7NdjM&center=42.0221587,-87.8760793"
     },
     {
+      "name": "Dunkin'",
+      "distance": "0.9 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Dunkin'&query_place_id=ChIJh_ajoUq2D4gR-TC9uVB_txw&center=42.0178505,-87.87491159999999"
+    },
+    {
       "name": "SUSHI UA",
       "distance": "0.9 mi",
       "url": "https://www.google.com/maps/search/?api=1&query=SUSHI%20UA&query_place_id=ChIJw606Df63D4gR7CULUaiPSmY&center=42.0177978,-87.87491179999999"
@@ -14,6 +19,11 @@
       "name": "Wendy's",
       "distance": "1.0 mi",
       "url": "https://www.google.com/maps/search/?api=1&query=Wendy's&query_place_id=ChIJNzodQaC3D4gRjcXf5s8OzkY&center=42.0397471,-87.8604101"
+    },
+    {
+      "name": "Dunkin'",
+      "distance": "1.0 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Dunkin'&query_place_id=ChIJo848bxbID4gRoT0Re_Lny1I&center=42.0400718,-87.85963819999999"
     },
     {
       "name": "Subway",
@@ -29,9 +39,39 @@
       "name": "Lou Malnati's Pizzeria",
       "distance": "1.1 mi",
       "url": "https://www.google.com/maps/search/?api=1&query=Lou%20Malnati's%20Pizzeria&query_place_id=ChIJkY0JJDPID4gRBmcycwpiJQM&center=42.018949899999996,-87.843055"
+    },
+    {
+      "name": "Subway",
+      "distance": "1.1 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Subway&query_place_id=ChIJn_nofeq3D4gR_-F1mRLHlZI&center=42.039293799999996,-87.8721374"
+    },
+    {
+      "name": "Portillo's & Barnelli's Niles",
+      "distance": "1.3 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Portillo's%20%26%20Barnelli's%20Niles&query_place_id=ChIJ48ASRxjID4gRqz9gaSYfCzg&center=42.0402695,-87.84636859999999"
     }
   ],
   "coffee": [
+    {
+      "name": "McDonald's",
+      "distance": "0.4 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=McDonald's&query_place_id=ChIJE9mTsinID4gRKuBHTuql_h8&center=42.025870499999996,-87.8532413"
+    },
+    {
+      "name": "Dunkin'",
+      "distance": "0.9 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Dunkin'&query_place_id=ChIJh_ajoUq2D4gR-TC9uVB_txw&center=42.0178505,-87.87491159999999"
+    },
+    {
+      "name": "Dunkin'",
+      "distance": "1.0 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Dunkin'&query_place_id=ChIJo848bxbID4gRoT0Re_Lny1I&center=42.0400718,-87.85963819999999"
+    },
+    {
+      "name": "McDonald's",
+      "distance": "1.6 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=McDonald's&query_place_id=ChIJF-l9eozID4gRL9ZckwfKRMc&center=42.0405367,-87.83765249999999"
+    },
     {
       "name": "Amazing Breads and Cakes LLC",
       "distance": "1.7 mi",
@@ -39,6 +79,16 @@
     }
   ],
   "team_lunch": [
+    {
+      "name": "Farmer's Fridge",
+      "distance": "1.0 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Farmer's%20Fridge&query_place_id=ChIJ35R8GHzJD4gRrTpkupEfquQ&center=42.037815599999995,-87.8505601"
+    },
+    {
+      "name": "New China 1 Chinese Restaurant",
+      "distance": "1.0 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=New%20China%201%20Chinese%20Restaurant&query_place_id=ChIJ4608bxbID4gRz7BcDd3YsVQ&center=42.0401232,-87.85852419999999"
+    },
     {
       "name": "LifeInTheMiddle",
       "distance": "1.6 mi",

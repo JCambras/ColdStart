@@ -1,78 +1,113 @@
 {
   "quick_bite": [
     {
-      "name": "QDOBA Mexican Eats",
-      "distance": "0.3 mi",
-      "url": "https://www.google.com/maps/search/QDOBA%20Mexican%20Eats+near+42.8495644%2C-85.62034299999999"
-    },
-    {
       "name": "Penn Station East Coast Subs",
       "distance": "0.3 mi",
-      "url": "https://www.google.com/maps/search/Penn%20Station%20East%20Coast%20Subs+near+42.8495644%2C-85.62034299999999"
+      "url": "https://www.google.com/maps/search/?api=1&query=Penn%20Station%20East%20Coast%20Subs&query_place_id=ChIJGd_6zpm0GYgR3oPZb2ZIYYI&center=42.849520299999995,-85.62595490000001"
     },
     {
       "name": "Chipotle Mexican Grill",
       "distance": "0.3 mi",
-      "url": "https://www.google.com/maps/search/Chipotle%20Mexican%20Grill+near+42.8495644%2C-85.62034299999999"
+      "url": "https://www.google.com/maps/search/?api=1&query=Chipotle%20Mexican%20Grill&query_place_id=ChIJz-dE0Jm0GYgRWUzU5H2QMyI&center=42.8491977,-85.62602249999999"
     },
     {
       "name": "Panda Express",
       "distance": "0.3 mi",
-      "url": "https://www.google.com/maps/search/Panda%20Express+near+42.8495644%2C-85.62034299999999"
+      "url": "https://www.google.com/maps/search/?api=1&query=Panda%20Express&query_place_id=ChIJWytsZ-e1GYgRXiz1Xdn22dI&center=42.8452664,-85.621607"
     },
     {
       "name": "Little Caesars Pizza",
       "distance": "0.3 mi",
-      "url": "https://www.google.com/maps/search/Little%20Caesars%20Pizza+near+42.8495644%2C-85.62034299999999"
+      "url": "https://www.google.com/maps/search/?api=1&query=Little%20Caesars%20Pizza&query_place_id=ChIJA_YuI5-0GYgRkK2ZGQ102io&center=42.853215000000006,-85.62397659999999"
+    },
+    {
+      "name": "Jimmy John's",
+      "distance": "0.3 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Jimmy%20John's&query_place_id=ChIJCeUcOZa0GYgRaosVZA2ul1c&center=42.8453397,-85.6241331"
+    },
+    {
+      "name": "Chick-fil-A",
+      "distance": "0.4 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Chick-fil-A&query_place_id=ChIJrVUwlZa0GYgRDk_UwuMttv0&center=42.845639299999995,-85.6256531"
+    },
+    {
+      "name": "Wendy's",
+      "distance": "0.4 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Wendy's&query_place_id=ChIJP2-5cJa0GYgR2a2E3ob__eM&center=42.8444417,-85.62410489999999"
+    },
+    {
+      "name": "Big Apple Bagels",
+      "distance": "0.4 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Big%20Apple%20Bagels&query_place_id=ChIJE3s-2pW0GYgRGpQvp_8W3TE&center=42.8436585,-85.62391079999999"
+    },
+    {
+      "name": "Taco Bell",
+      "distance": "0.5 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Taco%20Bell&query_place_id=ChIJI3P8uJW0GYgRdQnxgXUA0ZU&center=42.842486699999995,-85.6242603"
+    },
+    {
+      "name": "Subway",
+      "distance": "0.6 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Subway&query_place_id=ChIJhXa3fis1GIgRtRZHY9-kqyc&center=42.841947999999995,-85.62427319999999"
     }
   ],
   "coffee": [
     {
       "name": "Starbucks",
       "distance": "0.2 mi",
-      "url": "https://www.google.com/maps/search/Starbucks+near+42.8495644%2C-85.62034299999999"
+      "url": "https://www.google.com/maps/search/?api=1&query=Starbucks&query_place_id=ChIJAQAA9Ly0GYgR9VjdmPSMfEs&center=42.846251599999995,-85.6193955"
     },
     {
       "name": "Starbucks Coffee Company",
       "distance": "0.3 mi",
-      "url": "https://www.google.com/maps/search/Starbucks%20Coffee%20Company+near+42.8495644%2C-85.62034299999999"
+      "url": "https://www.google.com/maps/search/?api=1&query=Starbucks%20Coffee%20Company&query_place_id=ChIJfwHnVby0GYgRh77JbdDbFTM&center=42.8459,-85.62006"
     },
     {
       "name": "Panera Bread",
       "distance": "0.3 mi",
-      "url": "https://www.google.com/maps/search/Panera%20Bread+near+42.8495644%2C-85.62034299999999"
+      "url": "https://www.google.com/maps/search/?api=1&query=Panera%20Bread&query_place_id=ChIJEUZwLJa0GYgR2HrZYrRv1nw&center=42.845940299999995,-85.6222469"
     },
     {
       "name": "Starbucks Coffee Company",
       "distance": "0.3 mi",
-      "url": "https://www.google.com/maps/search/Starbucks%20Coffee%20Company+near+42.8495644%2C-85.62034299999999"
+      "url": "https://www.google.com/maps/search/?api=1&query=Starbucks%20Coffee%20Company&query_place_id=ChIJd167MJi0GYgR0a6sTLXweGI&center=42.848710000000004,-85.62577"
     },
     {
       "name": "BIGGBY COFFEE",
       "distance": "0.3 mi",
-      "url": "https://www.google.com/maps/search/BIGGBY%20COFFEE+near+42.8495644%2C-85.62034299999999"
+      "url": "https://www.google.com/maps/search/?api=1&query=BIGGBY%20COFFEE&query_place_id=ChIJYzRJI5-0GYgRtsj5UrPvoLM&center=42.852882199999996,-85.6239657"
+    },
+    {
+      "name": "McDonald's",
+      "distance": "0.4 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=McDonald's&query_place_id=ChIJHZpDK5-0GYgR0Z3zZ8nBcXI&center=42.853619099999996,-85.6255498"
+    },
+    {
+      "name": "McDonald's",
+      "distance": "2.3 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=McDonald's&query_place_id=ChIJlWc9BRazGYgRr12owY5G7ZI&center=42.8831487,-85.6234221"
     }
   ],
   "team_lunch": [
     {
       "name": "Steak 'n Shake",
       "distance": "0.3 mi",
-      "url": "https://www.google.com/maps/search/Steak%20'n%20Shake+near+42.8495644%2C-85.62034299999999"
-    },
-    {
-      "name": "Applebee's Grill + Bar",
-      "distance": "0.3 mi",
-      "url": "https://www.google.com/maps/search/Applebee's%20Grill%20%2B%20Bar+near+42.8495644%2C-85.62034299999999"
+      "url": "https://www.google.com/maps/search/?api=1&query=Steak%20'n%20Shake&query_place_id=ChIJ85CbVJi0GYgRH1N-WrkbYn8&center=42.8508223,-85.6254529"
     },
     {
       "name": "Great Garden Buffet",
       "distance": "0.3 mi",
-      "url": "https://www.google.com/maps/search/Great%20Garden%20Buffet+near+42.8495644%2C-85.62034299999999"
+      "url": "https://www.google.com/maps/search/?api=1&query=Great%20Garden%20Buffet&query_place_id=ChIJ3-7OIp-0GYgRdnlpar26kcU&center=42.8534948,-85.6240306"
     },
     {
       "name": "Tacos el Cuñado Kentwood",
       "distance": "0.3 mi",
-      "url": "https://www.google.com/maps/search/Tacos%20el%20Cu%C3%B1ado%20Kentwood+near+42.8495644%2C-85.62034299999999"
+      "url": "https://www.google.com/maps/search/?api=1&query=Tacos%20el%20Cu%C3%B1ado%20Kentwood&query_place_id=ChIJ9bNqzKu1GYgRRYq8NF-gpZY&center=42.8515787,-85.6263554"
+    },
+    {
+      "name": "GourmetcakesSR",
+      "distance": "2.6 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=GourmetcakesSR&query_place_id=ChIJW-TSfelLGIgRxjsG7-buBn0&center=42.8553846,-85.5704646"
     }
   ],
   "dinner": [

@@ -6,6 +6,11 @@
       "url": "https://www.google.com/maps/search/?api=1&query=Arby's&query_place_id=ChIJ0QVkf82BMogRM2efm_iIU-M&center=42.10836150000001,-80.0508064"
     },
     {
+      "name": "Tim Hortons",
+      "distance": "0.5 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Tim%20Hortons&query_place_id=ChIJ-_E--M2BMogR9FOvzqVlGXs&center=42.108678,-80.04837289999999"
+    },
+    {
       "name": "Dairy Queen Grill & Chill",
       "distance": "1.1 mi",
       "url": "https://www.google.com/maps/search/?api=1&query=Dairy%20Queen%20Grill%20%26%20Chill&query_place_id=ChIJl_ImOMOBMogR1k1NY40trpU&center=42.1070383,-80.0352207"
@@ -24,6 +29,26 @@
       "name": "Arby's",
       "distance": "1.4 mi",
       "url": "https://www.google.com/maps/search/?api=1&query=Arby's&query_place_id=ChIJ-Vh3Yw-BMogRU6AqY_bp-sQ&center=42.0826257,-80.0574018"
+    },
+    {
+      "name": "Dairy Queen Grill & Chill",
+      "distance": "1.4 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Dairy%20Queen%20Grill%20%26%20Chill&query_place_id=ChIJtV9j9WuAMogR2Srh3SLcQj8&center=42.0981701,-80.08154189999999"
+    },
+    {
+      "name": "Subway",
+      "distance": "1.5 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Subway&query_place_id=ChIJcX99uyh-LYgRkOt0hGtvNyE&center=42.1225883,-80.0418199"
+    },
+    {
+      "name": "Burger King",
+      "distance": "1.6 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Burger%20King&query_place_id=ChIJT4mkNy9-LYgRQft9MbkZVKg&center=42.1236341,-80.04395400000001"
+    },
+    {
+      "name": "Arby's",
+      "distance": "1.7 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Arby's&query_place_id=ChIJOZ96gWWAMogRwTI8K_gmu1w&center=42.0920357,-80.0840681"
     }
   ],
   "coffee": [
@@ -36,6 +61,16 @@
       "name": "Mighty Fine Donuts",
       "distance": "1.0 mi",
       "url": "https://www.google.com/maps/search/?api=1&query=Mighty%20Fine%20Donuts&query_place_id=ChIJ27Q9-SWAMogRyY_5FM4r6mk&center=42.114632,-80.06497"
+    },
+    {
+      "name": "McDonald's",
+      "distance": "1.5 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=McDonald's&query_place_id=ChIJg5-SKzB-LYgRDow5Frpk92w&center=42.1230635,-80.0430761"
+    },
+    {
+      "name": "McDonald's",
+      "distance": "1.8 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=McDonald's&query_place_id=ChIJBdgTw2SAMogR7R8JoPkoQ3w&center=42.08930110000001,-80.0854665"
     }
   ],
   "team_lunch": [
@@ -63,6 +98,11 @@
       "name": "Betsy Ann’s Bakery",
       "distance": "1.2 mi",
       "url": "https://www.google.com/maps/search/?api=1&query=Betsy%20Ann%E2%80%99s%20Bakery&query_place_id=ChIJWfS7vGmBMogRHd9QCHSNp28&center=42.1063738,-80.07701039999999"
+    },
+    {
+      "name": "Walmart Bakery",
+      "distance": "1.6 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Walmart%20Bakery&query_place_id=ChIJASfR4yV-LYgRwlXJpEUNZYk&center=42.1229896,-80.0412924"
     }
   ],
   "dinner": [

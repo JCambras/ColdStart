@@ -35,6 +35,18 @@
       "distance": "4.8 mi",
       "url": "https://www.google.com/maps/search/?api=1&query=Moe%E2%80%99s%20Italian%20Sandwiches%20of%20Newburyport%2C%20MA&query_place_id=ChIJGSO01NTj4okRddh33lzjJ7U&center=42.8188141,-70.9103499",
       "isFar": true
+    },
+    {
+      "name": "Jersey Mike's Subs",
+      "distance": "4.9 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Jersey%20Mike's%20Subs&query_place_id=ChIJ-fvXAt3h4okRJDbLq_Bl4QU&center=42.821155999999995,-70.9045",
+      "isFar": true
+    },
+    {
+      "name": "Wendy's",
+      "distance": "4.9 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Wendy's&query_place_id=ChIJl9sAvH7h4okRByXNTkCL3OY&center=42.8216019,-70.9038643",
+      "isFar": true
     }
   ],
   "coffee": [
@@ -64,6 +76,24 @@
       "name": "The Angry Donut and Cafe",
       "distance": "4.5 mi",
       "url": "https://www.google.com/maps/search/?api=1&query=The%20Angry%20Donut%20and%20Cafe&query_place_id=ChIJC7jOZ6fh4okRSVq72RWuH8s&center=42.810590499999996,-70.87083",
+      "isFar": true
+    },
+    {
+      "name": "Chococoa Baking Co. & Cafe",
+      "distance": "4.5 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Chococoa%20Baking%20Co.%20%26%20Cafe&query_place_id=ChIJra21Oqfh4okRLp-3Co4W3zw&center=42.809889299999995,-70.8664479",
+      "isFar": true
+    },
+    {
+      "name": "Abraham's Bagels",
+      "distance": "4.5 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Abraham's%20Bagels&query_place_id=ChIJg-sBMKjh4okRVbgtt3HlJk4&center=42.8111244,-70.8691104",
+      "isFar": true
+    },
+    {
+      "name": "McDonald's",
+      "distance": "4.9 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=McDonald's&query_place_id=ChIJs_ZGiX7h4okRDyGAWIAb-SQ&center=42.8210148,-70.9052284",
       "isFar": true
     }
   ],

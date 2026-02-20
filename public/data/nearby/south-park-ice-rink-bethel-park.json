@@ -24,9 +24,39 @@
       "name": "KFC",
       "distance": "0.7 mi",
       "url": "https://www.google.com/maps/search/?api=1&query=KFC&query_place_id=ChIJk3f3vpD5NIgR5BHkHzUzZl8&center=40.3361277,-80.02400399999999"
+    },
+    {
+      "name": "Dunkin'",
+      "distance": "0.8 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Dunkin'&query_place_id=ChIJCSsTfJH5NIgRiJWy_IezKPk&center=40.336694,-80.0235889"
+    },
+    {
+      "name": "PrimoHoagies - Coming Soon!",
+      "distance": "0.8 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=PrimoHoagies%20-%20Coming%20Soon!&query_place_id=ChIJJfBAtXX5NIgR8qv3iSyCpFg&center=40.3280708,-80.0337783"
+    },
+    {
+      "name": "Wendy's",
+      "distance": "0.9 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Wendy's&query_place_id=ChIJiVRbPJH5NIgRECY-THgwmq8&center=40.3381945,-80.0255267"
+    },
+    {
+      "name": "Subway",
+      "distance": "0.9 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Subway&query_place_id=ChIJiVRbPJH5NIgR8Oiu7YctS4c&center=40.338897,-80.0234826"
+    },
+    {
+      "name": "Subway",
+      "distance": "1.1 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Subway&query_place_id=ChIJJ2eUFKf5NIgRb_Bo5CF7JA0&center=40.3279347,-80.03865239999999"
     }
   ],
   "coffee": [
+    {
+      "name": "McDonald's",
+      "distance": "0.4 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=McDonald's&query_place_id=ChIJR7R6C5v5NIgRTd-cI6E_kSs&center=40.3318988,-80.022391"
+    },
     {
       "name": "Panera Bread",
       "distance": "0.5 mi",
@@ -46,6 +76,11 @@
       "name": "Dunkin'",
       "distance": "0.8 mi",
       "url": "https://www.google.com/maps/search/?api=1&query=Dunkin'&query_place_id=ChIJCSsTfJH5NIgRiJWy_IezKPk&center=40.336694,-80.0235889"
+    },
+    {
+      "name": "McDonald's",
+      "distance": "1.9 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=McDonald's&query_place_id=ChIJvchDhLL5NIgRcVFK7NfXTkc&center=40.3381215,-80.0507713"
     }
   ],
   "team_lunch": [

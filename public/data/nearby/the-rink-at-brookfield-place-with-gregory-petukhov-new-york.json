@@ -1,16 +1,6 @@
 {
   "quick_bite": [
     {
-      "name": "Dig Inn",
-      "distance": "0.1 mi",
-      "url": "https://www.google.com/maps/search/?api=1&query=Dig%20Inn&query_place_id=ChIJjesj_hpawokRd8ExYeL4YUo&center=40.7127482,-74.015579"
-    },
-    {
-      "name": "Mighty Quinn's Barbeque",
-      "distance": "0.1 mi",
-      "url": "https://www.google.com/maps/search/?api=1&query=Mighty%20Quinn's%20Barbeque&query_place_id=ChIJfcCDixpawokRRwGmDlfU8a0&center=40.7125422,-74.01566629999999"
-    },
-    {
       "name": "Krispy Rice",
       "distance": "0.1 mi",
       "url": "https://www.google.com/maps/search/?api=1&query=Krispy%20Rice&query_place_id=ChIJmUgHfcNbwokRKSXg9jGLBtI&center=40.7120627,-74.0151624"
@@ -29,6 +19,16 @@
       "name": "Market Sandwich",
       "distance": "0.3 mi",
       "url": "https://www.google.com/maps/search/?api=1&query=Market%20Sandwich&query_place_id=ChIJYcAhG2RbwokRcP7NaETyHu0&center=40.7156327,-74.0121111"
+    },
+    {
+      "name": "Indian Biryani Delights Halal Food",
+      "distance": "0.3 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Indian%20Biryani%20Delights%20Halal%20Food&query_place_id=ChIJu1IAThlawokR75F5QetVXYA&center=40.7152199,-74.01147929999999"
+    },
+    {
+      "name": "Halah Food Cart",
+      "distance": "0.3 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Halah%20Food%20Cart&query_place_id=ChIJw7cfLDVbwokRCzSKDzY2BeU&center=40.7095298,-74.01309959999999"
     }
   ],
   "coffee": [
@@ -43,14 +43,14 @@
       "url": "https://www.google.com/maps/search/?api=1&query=Black%20Seed%20Bagels%20-%20Brookfield%20Place&query_place_id=ChIJE5Zg_BpawokRCua8UNq2OYY&center=40.7125334,-74.0154193"
     },
     {
-      "name": "For Five Coffee @ Brookfield Place",
-      "distance": "0.1 mi",
-      "url": "https://www.google.com/maps/search/?api=1&query=For%20Five%20Coffee%20%40%20Brookfield%20Place&query_place_id=ChIJ-wSdx3ZbwokRJ4dRba0XniM&center=40.71234,-74.0151576"
-    },
-    {
       "name": "Pret A Manger",
       "distance": "0.2 mi",
-      "url": "https://www.google.com/maps/search/?api=1&query=Pret%20A%20Manger&query_place_id=ChIJyT0AurZbwokRUCuTX6IUETQ&center=40.7115663,-74.0114261"
+      "url": "https://www.google.com/maps/search/?api=1&query=Pret%20A%20Manger&query_place_id=ChIJyT0AurZbwokRUCuTX6IUETQ&center=40.711574999999996,-74.011524"
+    },
+    {
+      "name": "Lady M Cake Boutique - NY",
+      "distance": "0.3 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Lady%20M%20Cake%20Boutique%20-%20NY&query_place_id=ChIJB0ruVxdawokRxz0qOwwzK98&center=40.7102305,-74.0118468"
     }
   ],
   "team_lunch": [
@@ -58,16 +58,6 @@
       "name": "All'Antico Vinaio",
       "distance": "0.1 mi",
       "url": "https://www.google.com/maps/search/?api=1&query=All'Antico%20Vinaio&query_place_id=ChIJQ0JUGU1bwokRX_fb3-DDmfs&center=40.712629,-74.0155092"
-    },
-    {
-      "name": "Daily Provisions - Brookfield Place",
-      "distance": "0.1 mi",
-      "url": "https://www.google.com/maps/search/?api=1&query=Daily%20Provisions%20-%20Brookfield%20Place&query_place_id=ChIJb1gFZjZbwokRROCAvT6qmoc&center=40.7126191,-74.0154394"
-    },
-    {
-      "name": "Springbone Kitchen",
-      "distance": "0.1 mi",
-      "url": "https://www.google.com/maps/search/?api=1&query=Springbone%20Kitchen&query_place_id=ChIJ8ybwb_lbwokRo5AnVfeduG0&center=40.7125334,-74.0154193"
     },
     {
       "name": "Pick A Bagel",
@@ -83,6 +73,21 @@
       "name": "2 Emiratesrc Health Gates Pharmacy Qadissiyah",
       "distance": "0.1 mi",
       "url": "https://www.google.com/maps/search/?api=1&query=2%20Emiratesrc%20Health%20Gates%20Pharmacy%20Qadissiyah&query_place_id=ChIJaURjZwBbwokRMTATQatCioU&center=40.714751,-74.0143441"
+    },
+    {
+      "name": "Épicerie Boulud",
+      "distance": "0.2 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=%C3%89picerie%20Boulud&query_place_id=ChIJM6beZxlawokRB_KgURjCchU&center=40.7115991,-74.01142109999999"
+    },
+    {
+      "name": "Pulia",
+      "distance": "0.2 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Pulia&query_place_id=ChIJxZIJmBlawokRbfNL1FywXmI&center=40.7115663,-74.0114261"
+    },
+    {
+      "name": "Auntie Anne's",
+      "distance": "0.3 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Auntie%20Anne's&query_place_id=ChIJNVAXx8NbwokRhE5C05x3dqY&center=40.711086099999996,-74.01092109999999"
     }
   ],
   "dinner": [

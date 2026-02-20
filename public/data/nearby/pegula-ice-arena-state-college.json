@@ -19,6 +19,36 @@
       "name": "Osaka",
       "distance": "0.5 mi",
       "url": "https://www.google.com/maps/search/?api=1&query=Osaka&query_place_id=ChIJ-XE4Jx6mzokRv3NophvUGns&center=40.7988063,-77.855582"
+    },
+    {
+      "name": "Tokyo Sushi & Hibachi",
+      "distance": "0.6 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Tokyo%20Sushi%20%26%20Hibachi&query_place_id=ChIJuQ93hqCozokRFByYLZQn4As&center=40.7980777,-77.8563989"
+    },
+    {
+      "name": "Burger King",
+      "distance": "0.6 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Burger%20King&query_place_id=ChIJZer94xymzokRRz-fbddQkbY&center=40.7982204,-77.8616322"
+    },
+    {
+      "name": "Wendy's",
+      "distance": "0.7 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Wendy's&query_place_id=ChIJecrWXxWnzokR5eUzsviMLEM&center=40.7998143,-77.84811409999999"
+    },
+    {
+      "name": "Tasty K",
+      "distance": "0.7 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Tasty%20K&query_place_id=ChIJqRSE0LqpzokRxkfIGfoI-6M&center=40.796833899999996,-77.8575977"
+    },
+    {
+      "name": "Raising Cane's Chicken Fingers",
+      "distance": "0.8 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Raising%20Cane's%20Chicken%20Fingers&query_place_id=ChIJBYjl4TSpzokRLRmEOyjD7W8&center=40.7958184,-77.8593993"
+    },
+    {
+      "name": "Doggie's Pizza",
+      "distance": "0.8 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Doggie's%20Pizza&query_place_id=ChIJGQZi7_ypzokRM2rkv_txgn8&center=40.7947838,-77.86024499999999"
     }
   ],
   "coffee": [
@@ -73,6 +103,26 @@
       "name": "Piatto Felice",
       "distance": "0.5 mi",
       "url": "https://www.google.com/maps/search/?api=1&query=Piatto%20Felice&query_place_id=ChIJt1MnIwCnzokRM1ZWy3tPPos&center=40.7995211,-77.8559322"
+    },
+    {
+      "name": "Beijing Restaurant",
+      "distance": "0.5 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Beijing%20Restaurant&query_place_id=ChIJpwPoIB6mzokRBLPM8-t344w&center=40.798848,-77.85555029999999"
+    },
+    {
+      "name": "Shake Smart",
+      "distance": "0.6 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Shake%20Smart&query_place_id=ChIJU-_GhTepzokRE4mVjVocd_4&center=40.798735099999995,-77.8593988"
+    },
+    {
+      "name": "Cinnabon",
+      "distance": "0.7 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Cinnabon&query_place_id=ChIJ-5WpEdSpzokRbXVw-rcirrE&center=40.7969418,-77.8577875"
+    },
+    {
+      "name": "Bagel Crust",
+      "distance": "1.0 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Bagel%20Crust&query_place_id=ChIJn5_eDRCpzokRj6M_f8B4jAM&center=40.792192899999996,-77.8622535"
     }
   ],
   "dinner": [

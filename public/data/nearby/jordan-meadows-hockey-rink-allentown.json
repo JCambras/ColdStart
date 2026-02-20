@@ -29,6 +29,26 @@
       "name": "ahuevo tacos",
       "distance": "0.5 mi",
       "url": "https://www.google.com/maps/search/?api=1&query=ahuevo%20tacos&query_place_id=ChIJd9ugQ3k5xIkR6nKXVaXCqH4&center=40.6182751,-75.4701182"
+    },
+    {
+      "name": "D yoshis food",
+      "distance": "0.6 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=D%20yoshis%20food&query_place_id=ChIJ5b_iKQA5xIkRGTM_IYMgwyM&center=40.6045796,-75.4619937"
+    },
+    {
+      "name": "Chillin'Snacking",
+      "distance": "0.9 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Chillin'Snacking&query_place_id=ChIJxb0DtT45xIkRhM9I2XMuim8&center=40.6011111,-75.4749592"
+    },
+    {
+      "name": "White Castle",
+      "distance": "1.2 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=White%20Castle&query_place_id=ChIJW4zGlKA5xIkRcl3o9Uqhivk&center=40.6238461,-75.4824665"
+    },
+    {
+      "name": "Subway",
+      "distance": "1.2 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Subway&query_place_id=ChIJyZbazjc5xIkRoq37vSsBaCw&center=40.6165467,-75.4438121"
     }
   ],
   "coffee": [
@@ -39,11 +59,6 @@
     }
   ],
   "team_lunch": [
-    {
-      "name": "Gordon Grill",
-      "distance": "0.3 mi",
-      "url": "https://www.google.com/maps/search/?api=1&query=Gordon%20Grill&query_place_id=ChIJlxnv4m85xIkRvb5WKdXGR_4&center=40.609459,-75.469301"
-    },
     {
       "name": "Romeo's Deli",
       "distance": "0.4 mi",

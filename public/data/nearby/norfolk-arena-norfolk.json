@@ -6,6 +6,11 @@
       "url": "https://www.google.com/maps/search/?api=1&query=Medway%20Village%20Pizza%20%26%20Subs&query_place_id=ChIJv5J4BGNw5IkRgPp3FHd7-mM&center=42.139928499999996,-71.3966161"
     },
     {
+      "name": "Dunkin'",
+      "distance": "2.1 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Dunkin'&query_place_id=ChIJCWK8vBp75IkRgBZVDmG5pt4&center=42.1200629,-71.3242109"
+    },
+    {
       "name": "Lucas Italian Deli",
       "distance": "2.3 mi",
       "url": "https://www.google.com/maps/search/?api=1&query=Lucas%20Italian%20Deli&query_place_id=ChIJncoMh3d75IkR8fDB9vth24Y&center=42.166579,-71.3612532"
@@ -31,6 +36,24 @@
       "name": "Jersey Mike's Subs",
       "distance": "4.2 mi",
       "url": "https://www.google.com/maps/search/?api=1&query=Jersey%20Mike's%20Subs&query_place_id=ChIJjzz0LXVv5IkRZPJgGt6poJI&center=42.0890365,-71.4168661",
+      "isFar": true
+    },
+    {
+      "name": "Wendy's",
+      "distance": "4.2 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Wendy's&query_place_id=ChIJdfWUCMhv5IkRb4HJYKlGhn8&center=42.089934199999995,-71.4183425",
+      "isFar": true
+    },
+    {
+      "name": "Taco Bell",
+      "distance": "4.2 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Taco%20Bell&query_place_id=ChIJYX_sYrhv5IkR4cv_z1NK4vk&center=42.0876417,-71.4152902",
+      "isFar": true
+    },
+    {
+      "name": "Subway",
+      "distance": "4.2 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Subway&query_place_id=ChIJQYr-ibtv5IkRFPDhQqzTcoM&center=42.089403,-71.4193873",
       "isFar": true
     }
   ],
@@ -59,6 +82,34 @@
       "name": "Nirvana Tea House & Cafe",
       "distance": "2.3 mi",
       "url": "https://www.google.com/maps/search/?api=1&query=Nirvana%20Tea%20House%20%26%20Cafe&query_place_id=ChIJx8obXOd75IkRJq2g2LALkyU&center=42.1657301,-71.36208049999999"
+    },
+    {
+      "name": "Twist Bakery & Cafe",
+      "distance": "2.4 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Twist%20Bakery%20%26%20Cafe&query_place_id=ChIJiw0f7iN65IkRzHDEt_Q4Qkg&center=42.1672717,-71.35373919999999"
+    },
+    {
+      "name": "McDonald's",
+      "distance": "2.4 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=McDonald's&query_place_id=ChIJxYP4xSN65IkRqKKcqq3XHeA&center=42.1677366,-71.3554978"
+    },
+    {
+      "name": "McDonald's",
+      "distance": "3.8 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=McDonald's&query_place_id=ChIJZaz-LGBl5IkRfzrxskiJzxo&center=42.080663,-71.381951",
+      "isFar": true
+    },
+    {
+      "name": "Honey Dew Donuts",
+      "distance": "3.9 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Honey%20Dew%20Donuts&query_place_id=ChIJd4jJj4tv5IkRgzsHgbxMZ8A&center=42.0808148,-71.3876568",
+      "isFar": true
+    },
+    {
+      "name": "Honey Dew Donuts",
+      "distance": "4.1 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Honey%20Dew%20Donuts&query_place_id=ChIJ9dW-o7hv5IkRRkqbNBie7L4&center=42.0878356,-71.4133818",
+      "isFar": true
     }
   ],
   "team_lunch": [

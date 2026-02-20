@@ -19,6 +19,36 @@
       "name": "Wendy's",
       "distance": "0.8 mi",
       "url": "https://www.google.com/maps/search/?api=1&query=Wendy's&query_place_id=ChIJf7z31i0H44kRMheoaNiEdww&center=42.742387199999996,-71.1610101"
+    },
+    {
+      "name": "Dunkin'",
+      "distance": "0.9 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Dunkin'&query_place_id=ChIJY3gWFxEH44kRu0fYpjTGSKA&center=42.7234273,-71.1597335"
+    },
+    {
+      "name": "Jersey Mike's Subs",
+      "distance": "0.9 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Jersey%20Mike's%20Subs&query_place_id=ChIJ5c7a-2AH44kRsV7wE7yMUZI&center=42.7425727,-71.15982810000001"
+    },
+    {
+      "name": "Cooks Window Pizza",
+      "distance": "0.9 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Cooks%20Window%20Pizza&query_place_id=ChIJF5BKoWQH44kRLGZIzrO323U&center=42.725445199999996,-71.1861565"
+    },
+    {
+      "name": "Raising Cane's Chicken Fingers",
+      "distance": "0.9 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Raising%20Cane's%20Chicken%20Fingers&query_place_id=ChIJefwN-qYH44kRm0k3kDY75N8&center=42.7425578,-71.1589006"
+    },
+    {
+      "name": "Burger King",
+      "distance": "1.0 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Burger%20King&query_place_id=ChIJJbEqay4H44kR5Im2cdltlSM&center=42.741875,-71.1551602"
+    },
+    {
+      "name": "Passion Steak Tacos Food Truck #1",
+      "distance": "1.1 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Passion%20Steak%20Tacos%20Food%20Truck%20%231&query_place_id=ChIJoRP2o08H44kRVJHyizl0sVw&center=42.7170971,-71.1660764"
     }
   ],
   "coffee": [
@@ -41,6 +71,11 @@
       "name": "Dunkin'",
       "distance": "0.9 mi",
       "url": "https://www.google.com/maps/search/?api=1&query=Dunkin'&query_place_id=ChIJY3gWFxEH44kRu0fYpjTGSKA&center=42.7234273,-71.1597335"
+    },
+    {
+      "name": "McDonald's",
+      "distance": "0.9 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=McDonald's&query_place_id=ChIJwzUvHhEH44kRBY8MrmKX87g&center=42.7225302,-71.16023249999999"
     }
   ],
   "team_lunch": [
@@ -73,6 +108,16 @@
       "name": "Cake creations",
       "distance": "1.0 mi",
       "url": "https://www.google.com/maps/search/?api=1&query=Cake%20creations&query_place_id=ChIJQTvzgPcH44kR4YefrF1I_DQ&center=42.7178848,-71.17454769999999"
+    },
+    {
+      "name": "Methuen Cpl Inc",
+      "distance": "1.1 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Methuen%20Cpl%20Inc&query_place_id=ChIJPxIGr3AH44kRufbPzL_6OJY&center=42.7192526,-71.18077520000001"
+    },
+    {
+      "name": "D' Maggie Postres Y Más",
+      "distance": "1.1 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=D'%20Maggie%20Postres%20Y%20M%C3%A1s&query_place_id=ChIJo1OOjoYH44kRvxcKryo3H0I&center=42.717625299999995,-71.17514129999999"
     }
   ],
   "dinner": [

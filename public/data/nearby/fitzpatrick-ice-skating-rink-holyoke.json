@@ -1,6 +1,11 @@
 {
   "quick_bite": [
     {
+      "name": "Dunkin'",
+      "distance": "0.1 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Dunkin'&query_place_id=ChIJDYBYWgDf5okRq046y_rU_PA&center=42.1968039,-72.6203645"
+    },
+    {
       "name": "House of Chicken Casa del Pollo",
       "distance": "0.4 mi",
       "url": "https://www.google.com/maps/search/?api=1&query=House%20of%20Chicken%20Casa%20del%20Pollo&query_place_id=ChIJuR9p31bd5okRrVjXJ43TU0o&center=42.200786,-72.61343099999999"
@@ -41,6 +46,31 @@
       "name": "The Dam Cafe",
       "distance": "0.6 mi",
       "url": "https://www.google.com/maps/search/?api=1&query=The%20Dam%20Cafe&query_place_id=ChIJ_RJH1Yje5okRyengBTSq_5k&center=42.1935569,-72.6295672"
+    },
+    {
+      "name": "McDonald's",
+      "distance": "0.7 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=McDonald's&query_place_id=ChIJccPkQh_c5okR9GfgW7G87vQ&center=42.2057724,-72.610683"
+    },
+    {
+      "name": "McDonald's",
+      "distance": "0.9 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=McDonald's&query_place_id=ChIJT11N_mLe5okRFXInfyBg168&center=42.186614899999995,-72.6298707"
+    },
+    {
+      "name": "McDonald's",
+      "distance": "1.9 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=McDonald's&query_place_id=ChIJTZAHvUHe5okRIiMK8QTQ0Dk&center=42.175238,-72.6408053"
+    },
+    {
+      "name": "McDonald's",
+      "distance": "2.3 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=McDonald's&query_place_id=ChIJI_xVMeDd5okRZxS8vtvIYbA&center=42.1646997,-72.61363419999999"
+    },
+    {
+      "name": "McDonald's",
+      "distance": "2.3 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=McDonald's&query_place_id=ChIJp9idDT7e5okRU49K27kX7dw&center=42.1676302,-72.64135689999999"
     }
   ],
   "team_lunch": [
@@ -73,6 +103,21 @@
       "name": "Old San Juan Bakery",
       "distance": "0.7 mi",
       "url": "https://www.google.com/maps/search/?api=1&query=Old%20San%20Juan%20Bakery&query_place_id=ChIJL2BM6SHc5okRbbc_wWv9xS4&center=42.2041596,-72.61012989999999"
+    },
+    {
+      "name": "China House",
+      "distance": "0.7 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=China%20House&query_place_id=ChIJbe5oZB_c5okRmlYDR34SWFM&center=42.2055231,-72.6111544"
+    },
+    {
+      "name": "First Capitol Baking",
+      "distance": "1.2 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=First%20Capitol%20Baking&query_place_id=ChIJq6pq12be5okRC0xq5IOoD9Y&center=42.1844786,-72.6355363"
+    },
+    {
+      "name": "Cinnabon",
+      "distance": "2.3 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Cinnabon&query_place_id=ChIJt4ErIZPf5okRt4nJn9sTRRY&center=42.1676302,-72.64135689999999"
     }
   ],
   "dinner": [

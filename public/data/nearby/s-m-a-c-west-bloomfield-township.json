@@ -3,56 +3,106 @@
     {
       "name": "Jet's Pizza",
       "distance": "0.4 mi",
-      "url": "https://www.google.com/maps/search/Jet's%20Pizza+near+42.5965147%2C-83.3556318"
+      "url": "https://www.google.com/maps/search/?api=1&query=Jet's%20Pizza&query_place_id=ChIJe5YPtXy-JIgRjWQW8Q75QHc&center=42.599576,-83.348683"
     },
     {
       "name": "UK PIZZA BROS",
       "distance": "0.5 mi",
-      "url": "https://www.google.com/maps/search/UK%20PIZZA%20BROS+near+42.5965147%2C-83.3556318"
+      "url": "https://www.google.com/maps/search/?api=1&query=UK%20PIZZA%20BROS&query_place_id=ChIJCVrwyIS9JIgR0vUwMVHO8NI&center=42.6024107,-83.34907059999999"
+    },
+    {
+      "name": "Dunkin'",
+      "distance": "0.9 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Dunkin'&query_place_id=ChIJlcCs8hu8JIgRViNaatNYfx4&center=42.6059428,-83.3421827"
     },
     {
       "name": "Burger Stand",
       "distance": "1.0 mi",
-      "url": "https://www.google.com/maps/search/Burger%20Stand+near+42.5965147%2C-83.3556318"
+      "url": "https://www.google.com/maps/search/?api=1&query=Burger%20Stand&query_place_id=ChIJY3iME--9JIgR3yYv3UGQE7s&center=42.606373999999995,-83.3419547"
     },
     {
       "name": "Lorenzo's Pizza",
       "distance": "1.0 mi",
-      "url": "https://www.google.com/maps/search/Lorenzo's%20Pizza+near+42.5965147%2C-83.3556318"
+      "url": "https://www.google.com/maps/search/?api=1&query=Lorenzo's%20Pizza&query_place_id=ChIJMQh4Vxm9JIgRpvXOpsWHZ7o&center=42.608800699999996,-83.3445153"
+    },
+    {
+      "name": "Subway",
+      "distance": "1.4 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Subway&query_place_id=ChIJV5G76JW7JIgRbNRamR4wEwg&center=42.5762043,-83.36113739999999"
+    },
+    {
+      "name": "SNOWFOX Sushi",
+      "distance": "1.6 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=SNOWFOX%20Sushi&query_place_id=ChIJbWLlf4i7JIgRNIbf3ob3xeQ&center=42.573951199999996,-83.3607399"
+    },
+    {
+      "name": "Taco Bell",
+      "distance": "1.8 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Taco%20Bell&query_place_id=ChIJM6EvW5i-JIgRdxyRr824FTk&center=42.612761299999995,-83.3275697"
+    },
+    {
+      "name": "Detroit Curbside Coney",
+      "distance": "2.8 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Detroit%20Curbside%20Coney&query_place_id=ChIJcQatCwC_JIgRzLTavN1KDCc&center=42.612544799999995,-83.304175"
+    },
+    {
+      "name": "Barb's Food Stand",
+      "distance": "2.8 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Barb's%20Food%20Stand&query_place_id=ChIJK8NlVgC_JIgRXTV9NFpAB-s&center=42.6133619,-83.3046075"
     }
   ],
   "coffee": [
     {
       "name": "Dunkin'",
       "distance": "0.9 mi",
-      "url": "https://www.google.com/maps/search/Dunkin'+near+42.5965147%2C-83.3556318"
+      "url": "https://www.google.com/maps/search/?api=1&query=Dunkin'&query_place_id=ChIJlcCs8hu8JIgRViNaatNYfx4&center=42.6059428,-83.3421827"
+    },
+    {
+      "name": "Sweet Dreams Bakery",
+      "distance": "1.5 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Sweet%20Dreams%20Bakery&query_place_id=ChIJwRaiJJS7JIgRW0i0UQs0XGM&center=42.5754939,-83.3611447"
+    },
+    {
+      "name": "Jen's Gifts of Love",
+      "distance": "1.5 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Jen's%20Gifts%20of%20Love&query_place_id=ChIJ5V2C6JW7JIgR7fgDi2oIM6s&center=42.575271799999996,-83.36276520000001"
+    },
+    {
+      "name": "McDonald's",
+      "distance": "1.8 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=McDonald's&query_place_id=ChIJ_fx-ZJi-JIgRovgA6ueK4e4&center=42.6123002,-83.3281942"
     }
   ],
   "team_lunch": [
     {
       "name": "Santia Cantina",
       "distance": "0.2 mi",
-      "url": "https://www.google.com/maps/search/Santia%20Cantina+near+42.5965147%2C-83.3556318"
+      "url": "https://www.google.com/maps/search/?api=1&query=Santia%20Cantina&query_place_id=ChIJG7KPgJS9JIgRR17tR3hG5uw&center=42.595552,-83.3584285"
     },
     {
       "name": "Bowl Appetit",
       "distance": "0.4 mi",
-      "url": "https://www.google.com/maps/search/Bowl%20Appetit+near+42.5965147%2C-83.3556318"
+      "url": "https://www.google.com/maps/search/?api=1&query=Bowl%20Appetit&query_place_id=ChIJI3EVcRy9JIgReH961NiHJBU&center=42.5995109,-83.3486739"
     },
     {
       "name": "Sand-o",
       "distance": "0.4 mi",
-      "url": "https://www.google.com/maps/search/Sand-o+near+42.5965147%2C-83.3556318"
-    },
-    {
-      "name": "Lodge Grill & Bar",
-      "distance": "1.1 mi",
-      "url": "https://www.google.com/maps/search/Lodge%20Grill%20%26%20Bar+near+42.5965147%2C-83.3556318"
+      "url": "https://www.google.com/maps/search/?api=1&query=Sand-o&query_place_id=ChIJhXUVCu69JIgRbrXC9KfSdKA&center=42.5995109,-83.3486739"
     },
     {
       "name": "Paradise Cakes",
       "distance": "1.1 mi",
-      "url": "https://www.google.com/maps/search/Paradise%20Cakes+near+42.5965147%2C-83.3556318"
+      "url": "https://www.google.com/maps/search/?api=1&query=Paradise%20Cakes&query_place_id=ChIJxyMchqC-JIgRwR6q5zYQnSs&center=42.6021113,-83.3344008"
+    },
+    {
+      "name": "Leo's Coney Island",
+      "distance": "1.2 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Leo's%20Coney%20Island&query_place_id=ChIJ_dqaOB68JIgRoBN8rRkQ2pI&center=42.6085669,-83.3374675"
+    },
+    {
+      "name": "Kroger Bakery",
+      "distance": "1.6 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Kroger%20Bakery&query_place_id=ChIJ3_BKJ767JIgRmfXcCjKBE1Q&center=42.5740024,-83.36078719999999"
     }
   ],
   "dinner": [

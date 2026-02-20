@@ -24,6 +24,31 @@
       "name": "Golden Corral Buffet & Grill",
       "distance": "0.5 mi",
       "url": "https://www.google.com/maps/search/?api=1&query=Golden%20Corral%20Buffet%20%26%20Grill&query_place_id=ChIJ_TH_JbCAMogRtA0HQBfJqqQ&center=42.051890199999995,-80.0862114"
+    },
+    {
+      "name": "Subway",
+      "distance": "0.6 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Subway&query_place_id=ChIJyRm16buAMogR0VVNyiFkCcU&center=42.0521131,-80.0798871"
+    },
+    {
+      "name": "Chick-fil-A",
+      "distance": "0.7 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Chick-fil-A&query_place_id=ChIJtzlVTqWAMogRLcHtHAdQZcc&center=42.054085199999996,-80.0875902"
+    },
+    {
+      "name": "Taco Bell",
+      "distance": "0.8 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Taco%20Bell&query_place_id=ChIJGcGzKaWAMogRXvxUlEILdt4&center=42.0557096,-80.0876195"
+    },
+    {
+      "name": "Jersey Mike's Subs",
+      "distance": "0.9 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Jersey%20Mike's%20Subs&query_place_id=ChIJUy-Adl2BMogRdPMx-SmSddw&center=42.056613899999995,-80.08845389999999"
+    },
+    {
+      "name": "Five Guys",
+      "distance": "1.0 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Five%20Guys&query_place_id=ChIJoxw8e6OAMogR0OufU7hx-CY&center=42.058811999999996,-80.089066"
     }
   ],
   "coffee": [
@@ -31,6 +56,16 @@
       "name": "Krispy Kreme",
       "distance": "0.6 mi",
       "url": "https://www.google.com/maps/search/?api=1&query=Krispy%20Kreme&query_place_id=ChIJNQ76hbCAMogRcwxMKhP6YEY&center=42.0525419,-80.0840114"
+    },
+    {
+      "name": "McDonald's",
+      "distance": "0.6 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=McDonald's&query_place_id=ChIJ6yEMJamAMogRYFI3xDpB1nI&center=42.0531629,-80.0865462"
+    },
+    {
+      "name": "McDonald's",
+      "distance": "1.6 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=McDonald's&query_place_id=ChIJKZ5H2iF-MogRT2on-sQkkts&center=42.0640207,-80.1007739"
     }
   ],
   "team_lunch": [
@@ -50,14 +85,19 @@
       "url": "https://www.google.com/maps/search/?api=1&query=Quaker%20Steak%20%26%20Lube&query_place_id=ChIJsemrqHZKQIgRH9QbWpJRvW0&center=42.0485422,-80.0789789"
     },
     {
-      "name": "Applebee's Grill + Bar",
-      "distance": "0.4 mi",
-      "url": "https://www.google.com/maps/search/?api=1&query=Applebee's%20Grill%20%2B%20Bar&query_place_id=ChIJx8jZ_bCAMogR3_V-FKP6Ygo&center=42.0507596,-80.083655"
+      "name": "Walmart Bakery",
+      "distance": "0.6 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Walmart%20Bakery&query_place_id=ChIJm02daLeAMogReegdR6rZ4wo&center=42.0520698,-80.0798135"
     },
     {
       "name": "Texas Roadhouse",
       "distance": "0.6 mi",
       "url": "https://www.google.com/maps/search/?api=1&query=Texas%20Roadhouse&query_place_id=ChIJ87VrgrqAMogR_sw8h4001xU&center=42.053221099999995,-80.0847368"
+    },
+    {
+      "name": "Sam's Club Bakery",
+      "distance": "0.6 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Sam's%20Club%20Bakery&query_place_id=ChIJ4_9GLqmAMogRi_tThKqUSR8&center=42.0508597,-80.0930703"
     }
   ],
   "dinner": [

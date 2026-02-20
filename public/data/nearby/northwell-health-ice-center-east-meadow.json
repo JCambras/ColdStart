@@ -19,6 +19,36 @@
       "name": "Taco Bell",
       "distance": "0.6 mi",
       "url": "https://www.google.com/maps/search/?api=1&query=Taco%20Bell&query_place_id=ChIJryBasvx9wokRPzyTMzhC7V0&center=40.724606099999995,-73.564539"
+    },
+    {
+      "name": "Burger City",
+      "distance": "0.6 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Burger%20City&query_place_id=ChIJ_4J5puR9wokRVbFYLwfczeY&center=40.723897300000004,-73.5646424"
+    },
+    {
+      "name": "Seraphic Saba Food Truck",
+      "distance": "0.7 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Seraphic%20Saba%20Food%20Truck&query_place_id=ChIJ6Y-ZdqB9wokRxRuI9JrNckk&center=40.7241807,-73.5637405"
+    },
+    {
+      "name": "MÓGŪ Modern Chinese Kitchen",
+      "distance": "0.7 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=M%C3%93G%C5%AA%20Modern%20Chinese%20Kitchen&query_place_id=ChIJ8_yiBfx9wokRdkKRv3McfZU&center=40.722682899999995,-73.5643135"
+    },
+    {
+      "name": "Subway - East Meadow - 57290",
+      "distance": "0.9 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Subway%20-%20East%20Meadow%20-%2057290&query_place_id=ChIJUWq8Q-F9wokRxTSWILR3Rvo&center=40.7188959,-73.5636126"
+    },
+    {
+      "name": "Arby's",
+      "distance": "0.9 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Arby's&query_place_id=ChIJX4rtWf19wokRJ2dnBXQH8CA&center=40.724488,-73.5597411"
+    },
+    {
+      "name": "Datar gyro & Grill",
+      "distance": "1.0 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Datar%20gyro%20%26%20Grill&query_place_id=ChIJm4wsCwB9wokRsWOE_e1319w&center=40.7167102,-73.5613685"
     }
   ],
   "coffee": [
@@ -38,6 +68,11 @@
       "url": "https://www.google.com/maps/search/?api=1&query=Pantano's%20Gourmet%20Eats%20Uniondale&query_place_id=ChIJIaHlbb19wokRtkXID1aTKq8&center=40.7177899,-73.5926137"
     },
     {
+      "name": "McDonald's",
+      "distance": "1.1 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=McDonald's&query_place_id=ChIJ09NtwB5jwokROC04cUaPKEE&center=40.717318399999996,-73.5938542"
+    },
+    {
       "name": "Einstein Bros. Bagels",
       "distance": "1.4 mi",
       "url": "https://www.google.com/maps/search/?api=1&query=Einstein%20Bros.%20Bagels&query_place_id=ChIJJT8vyS59wokRDtZ8CtzV-tg&center=40.714023,-73.59754649999999"
@@ -46,6 +81,11 @@
       "name": "Duck Donuts",
       "distance": "1.4 mi",
       "url": "https://www.google.com/maps/search/?api=1&query=Duck%20Donuts&query_place_id=ChIJvc9ERl5_wokRKqgvyQTH69A&center=40.7248178,-73.5496354"
+    },
+    {
+      "name": "McDonald's",
+      "distance": "1.4 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=McDonald's&query_place_id=ChIJ37nMZbp9wokRNBywY3jLjJ4&center=40.7093693,-73.5911552"
     }
   ],
   "team_lunch": [
@@ -78,6 +118,16 @@
       "name": "Cafe 1600",
       "distance": "0.7 mi",
       "url": "https://www.google.com/maps/search/?api=1&query=Cafe%201600&query_place_id=ChIJuTxAF1V9wokRwffXL6H6U0M&center=40.7357924,-73.5832449"
+    },
+    {
+      "name": "Happy Wok",
+      "distance": "0.8 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Happy%20Wok&query_place_id=ChIJ347EuOJ9wokRSPuMY3WhaV0&center=40.7222413,-73.5630419"
+    },
+    {
+      "name": "Bagelicious East Meadow",
+      "distance": "0.9 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Bagelicious%20East%20Meadow&query_place_id=ChIJb5G-V-F9wokRgEToCS5vDr8&center=40.7188831,-73.5638099"
     }
   ],
   "dinner": [

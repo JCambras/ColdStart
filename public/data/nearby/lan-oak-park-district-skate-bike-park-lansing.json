@@ -1,7 +1,105 @@
 {
-  "quick_bite": [],
-  "coffee": [],
-  "team_lunch": [],
+  "quick_bite": [
+    {
+      "name": "Subway",
+      "distance": "0.1 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Subway&query_place_id=ChIJKa4Y0BrgEYgRz37QZbEIRS4&center=41.5641314,-87.5317762"
+    },
+    {
+      "name": "Beggars Pizza - Lansing",
+      "distance": "0.1 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Beggars%20Pizza%20-%20Lansing&query_place_id=ChIJpRUczxrgEYgRUuEvIZQERPU&center=41.5645332,-87.53133389999999"
+    },
+    {
+      "name": "Mancino's Pizza & Grinders",
+      "distance": "0.2 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Mancino's%20Pizza%20%26%20Grinders&query_place_id=ChIJDURE1BzgEYgRE9YnmnBIIsY&center=41.5648486,-87.5367421"
+    },
+    {
+      "name": "Ooo Wee Chicken & Ribs",
+      "distance": "0.2 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Ooo%20Wee%20Chicken%20%26%20Ribs&query_place_id=ChIJl0I43ArhEYgRorVPzHz2I5I&center=41.565132,-87.536705"
+    },
+    {
+      "name": "ZENSHI Handcrafted Sushi",
+      "distance": "0.4 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=ZENSHI%20Handcrafted%20Sushi&query_place_id=ChIJL9fLjyjhEYgRvsRWsDlIsCU&center=41.5625304,-87.5247684"
+    },
+    {
+      "name": "Jimmy John's",
+      "distance": "1.0 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Jimmy%20John's&query_place_id=ChIJf0DffW7gEYgRpC0XYF-j_to&center=41.561639799999995,-87.5143482"
+    },
+    {
+      "name": "Boz Hot Dogs - Lansing, IL",
+      "distance": "1.2 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Boz%20Hot%20Dogs%20-%20Lansing%2C%20IL&query_place_id=ChIJhbecje0fDogRzmR7xZ3AKU0&center=41.5645342,-87.5557093"
+    },
+    {
+      "name": "Arby's",
+      "distance": "1.2 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Arby's&query_place_id=ChIJldElkXrgEYgRqnCNv7KlIDY&center=41.5658631,-87.5092787"
+    },
+    {
+      "name": "Jersey Mike's",
+      "distance": "1.3 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Jersey%20Mike's&query_place_id=ChIJTVuKforhEYgRHdwOyS2jTWc&center=41.564394,-87.50853"
+    },
+    {
+      "name": "Five Guys",
+      "distance": "1.3 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Five%20Guys&query_place_id=ChIJS0rPOGXgEYgR4VSrDswPMoY&center=41.563614799999996,-87.5084481"
+    }
+  ],
+  "coffee": [
+    {
+      "name": "Kdulche Cafe 1 Inc",
+      "distance": "0.1 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Kdulche%20Cafe%201%20Inc&query_place_id=ChIJ6TNLlMHhEYgRiepEU6mskAk&center=41.564124299999996,-87.53144139999999"
+    },
+    {
+      "name": "McDonald's",
+      "distance": "0.9 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=McDonald's&query_place_id=ChIJF0ml0W3gEYgR8EpAiSVJ7Eo&center=41.562424,-87.5150362"
+    },
+    {
+      "name": "Parlor Doughnuts",
+      "distance": "1.2 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Parlor%20Doughnuts&query_place_id=ChIJsdPcjczhEYgR0HMUCbQ1yW0&center=41.565352399999995,-87.50948969999999"
+    }
+  ],
+  "team_lunch": [
+    {
+      "name": "Tacos & Burritos Rancho Grande",
+      "distance": "0.1 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Tacos%20%26%20Burritos%20Rancho%20Grande&query_place_id=ChIJqcLyLhvgEYgRYDGPWZJOUOw&center=41.564533,-87.53266909999999"
+    },
+    {
+      "name": "Honey Berry Pancakes and Cafe",
+      "distance": "0.1 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Honey%20Berry%20Pancakes%20and%20Cafe&query_place_id=ChIJm-TBsB3hEYgRwCBJ3DPt71I&center=41.5638746,-87.5305058"
+    },
+    {
+      "name": "Bulldog Ale House",
+      "distance": "0.1 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Bulldog%20Ale%20House&query_place_id=ChIJwxHv_NzhEYgRlwKOFeDQ2_0&center=41.564509699999995,-87.5355868"
+    },
+    {
+      "name": "Waldo Cooney's Pizza",
+      "distance": "0.2 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Waldo%20Cooney's%20Pizza&query_place_id=ChIJazA7FhDgEYgRTUNe9UHnzwI&center=41.56399510000001,-87.5285947"
+    },
+    {
+      "name": "Papa Johns Pizza",
+      "distance": "0.6 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Papa%20Johns%20Pizza&query_place_id=ChIJQSzU8xLgEYgRADM0puALgP8&center=41.5632277,-87.5218112"
+    },
+    {
+      "name": "Shrimp Shack",
+      "distance": "0.6 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Shrimp%20Shack&query_place_id=ChIJnZJG8xLgEYgRR2ixrbYjNqU&center=41.5633694,-87.52178889999999"
+    }
+  ],
   "dinner": [],
   "bowling": [],
   "arcade": [],

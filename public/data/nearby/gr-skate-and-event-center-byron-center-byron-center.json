@@ -3,66 +3,135 @@
     {
       "name": "Little Caesars Pizza",
       "distance": "1.4 mi",
-      "url": "https://www.google.com/maps/search/Little%20Caesars%20Pizza+near+42.8126263%2C-85.7538376"
+      "url": "https://www.google.com/maps/search/?api=1&query=Little%20Caesars%20Pizza&query_place_id=ChIJ3av6jbK3GYgRhv1KQ4kFsR0&center=42.812038,-85.72709700000001"
     },
     {
       "name": "Jet's Pizza",
       "distance": "1.5 mi",
-      "url": "https://www.google.com/maps/search/Jet's%20Pizza+near+42.8126263%2C-85.7538376"
+      "url": "https://www.google.com/maps/search/?api=1&query=Jet's%20Pizza&query_place_id=ChIJq9Na81K2GYgREwLsQrDPdzw&center=42.8147125,-85.723648"
     },
     {
       "name": "Boardwalk Subs",
       "distance": "1.5 mi",
-      "url": "https://www.google.com/maps/search/Boardwalk%20Subs+near+42.8126263%2C-85.7538376"
+      "url": "https://www.google.com/maps/search/?api=1&query=Boardwalk%20Subs&query_place_id=ChIJ92nd-FK2GYgR6wfEitjNqA0&center=42.815180999999995,-85.723557"
     },
     {
       "name": "Subway",
       "distance": "1.5 mi",
-      "url": "https://www.google.com/maps/search/Subway+near+42.8126263%2C-85.7538376"
+      "url": "https://www.google.com/maps/search/?api=1&query=Subway&query_place_id=ChIJxRJpnk22GYgRx8fW3G8u0Wg&center=42.8127023,-85.7233275"
     },
     {
       "name": "Peppino's Pizza of Byron Center",
       "distance": "1.8 mi",
-      "url": "https://www.google.com/maps/search/Peppino's%20Pizza%20of%20Byron%20Center+near+42.8126263%2C-85.7538376"
+      "url": "https://www.google.com/maps/search/?api=1&query=Peppino's%20Pizza%20of%20Byron%20Center&query_place_id=ChIJ2ZiYVVK2GYgRJhUB1W6QCyY&center=42.8125856,-85.7178139"
+    },
+    {
+      "name": "Dunkin'",
+      "distance": "2.9 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Dunkin'&query_place_id=ChIJddIv1gG3GYgRTl81wTrLVTI&center=42.8475962,-85.7225727"
+    },
+    {
+      "name": "Player’s Fuel LLC",
+      "distance": "3.0 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Player%E2%80%99s%20Fuel%20LLC&query_place_id=ChIJhZbg0Fm3GYgRp-p1sJgAqJc&center=42.8226829,-85.6966186"
+    },
+    {
+      "name": "Subway",
+      "distance": "3.5 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Subway&query_place_id=ChIJ2dvKu9W2GYgR-8VhZf2RdSI&center=42.858806,-85.72392219999999",
+      "isFar": true
+    },
+    {
+      "name": "Jimmy John's",
+      "distance": "3.6 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Jimmy%20John's&query_place_id=ChIJMc6FpdW2GYgR_-3766YYoVQ&center=42.8593702,-85.72384989999999",
+      "isFar": true
+    },
+    {
+      "name": "Jersey Mike's Subs",
+      "distance": "3.6 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Jersey%20Mike's%20Subs&query_place_id=ChIJxdkqa9S3GYgRjolPOLztyWE&center=42.8595337,-85.72255080000001",
+      "isFar": true
     }
   ],
   "coffee": [
     {
       "name": "McDonald's",
       "distance": "1.3 mi",
-      "url": "https://www.google.com/maps/search/McDonald's+near+42.8126263%2C-85.7538376"
+      "url": "https://www.google.com/maps/search/?api=1&query=McDonald's&query_place_id=ChIJyZEiXbK3GYgRyldsJIr9t-4&center=42.81187,-85.7283595"
     },
     {
       "name": "Full Circle Coffee",
       "distance": "1.5 mi",
-      "url": "https://www.google.com/maps/search/Full%20Circle%20Coffee+near+42.8126263%2C-85.7538376"
+      "url": "https://www.google.com/maps/search/?api=1&query=Full%20Circle%20Coffee&query_place_id=ChIJp0-EvFK3GYgRs1C2FuBAtTk&center=42.8151243,-85.7236331"
     },
     {
       "name": "Byron Center Nutrition",
       "distance": "1.5 mi",
-      "url": "https://www.google.com/maps/search/Byron%20Center%20Nutrition+near+42.8126263%2C-85.7538376"
+      "url": "https://www.google.com/maps/search/?api=1&query=Byron%20Center%20Nutrition&query_place_id=ChIJ-yhbEv63GYgR5v2uRVjDjk8&center=42.8150731,-85.7236223"
     },
     {
       "name": "Starbucks Coffee Company",
       "distance": "1.7 mi",
-      "url": "https://www.google.com/maps/search/Starbucks%20Coffee%20Company+near+42.8126263%2C-85.7538376"
+      "url": "https://www.google.com/maps/search/?api=1&query=Starbucks%20Coffee%20Company&query_place_id=ChIJv2KLiui3GYgRlbak3jaDqEc&center=42.81417,-85.7194"
     },
     {
       "name": "Dino Daisy Play Cafe",
       "distance": "1.8 mi",
-      "url": "https://www.google.com/maps/search/Dino%20Daisy%20Play%20Cafe+near+42.8126263%2C-85.7538376"
+      "url": "https://www.google.com/maps/search/?api=1&query=Dino%20Daisy%20Play%20Cafe&query_place_id=ChIJSas_1vu3GYgRgn1OFZ1-B_E&center=42.814155299999996,-85.7189143"
+    },
+    {
+      "name": "Dunkin'",
+      "distance": "2.9 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Dunkin'&query_place_id=ChIJddIv1gG3GYgRTl81wTrLVTI&center=42.8475962,-85.7225727"
+    },
+    {
+      "name": "McDonald's",
+      "distance": "3.7 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=McDonald's&query_place_id=ChIJtT2l6U6wGYgRZEOmgg0eEcY&center=42.8616758,-85.72381299999999",
+      "isFar": true
+    },
+    {
+      "name": "McDonald's",
+      "distance": "4.4 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=McDonald's&query_place_id=ChIJR-OvgBi0GYgRDdS-K40rUS0&center=42.841363699999995,-85.67687339999999",
+      "isFar": true
     }
   ],
   "team_lunch": [
     {
       "name": "Railside Bar & Grill",
       "distance": "1.7 mi",
-      "url": "https://www.google.com/maps/search/Railside%20Bar%20%26%20Grill+near+42.8126263%2C-85.7538376"
+      "url": "https://www.google.com/maps/search/?api=1&query=Railside%20Bar%20%26%20Grill&query_place_id=ChIJkdscNSe3GYgREzVw3idyF2s&center=42.8265439,-85.72548839999999"
     },
     {
       "name": "China Kitchen",
       "distance": "1.8 mi",
-      "url": "https://www.google.com/maps/search/China%20Kitchen+near+42.8126263%2C-85.7538376"
+      "url": "https://www.google.com/maps/search/?api=1&query=China%20Kitchen&query_place_id=ChIJp2Mk6k-2GYgRNb24GVsiZgo&center=42.814138,-85.71831"
+    },
+    {
+      "name": "McAlister's Deli",
+      "distance": "3.6 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=McAlister's%20Deli&query_place_id=ChIJ3aXdAZq3GYgRkAnpbCfBCuw&center=42.859393399999995,-85.7225692",
+      "isFar": true
+    },
+    {
+      "name": "Donut Dohjo",
+      "distance": "3.7 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Donut%20Dohjo&query_place_id=ChIJoUllYgC3GYgRUO99tOVsxGU&center=42.8602385,-85.7200426",
+      "isFar": true
+    },
+    {
+      "name": "Auntie Anne's",
+      "distance": "4.2 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Auntie%20Anne's&query_place_id=ChIJs5dRBsW1GYgR55VN-OnVWFs&center=42.8096159,-85.6711129",
+      "isFar": true
+    },
+    {
+      "name": "Costco Bakery",
+      "distance": "4.3 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Costco%20Bakery&query_place_id=ChIJVVXht6ewGYgRqQJYYvmmFQI&center=42.874531000000005,-85.764682",
+      "isFar": true
     }
   ],
   "dinner": [

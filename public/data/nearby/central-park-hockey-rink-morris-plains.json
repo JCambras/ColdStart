@@ -6,6 +6,11 @@
       "url": "https://www.google.com/maps/search/?api=1&query=Annabella's%20Pizzeria%20%26%20Restaurant&query_place_id=ChIJG0QBZt-mw4kRuvX0FYvDqH8&center=40.823892099999995,-74.4800503"
     },
     {
+      "name": "Dunkin'",
+      "distance": "1.2 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Dunkin'&query_place_id=ChIJG0QBZt-mw4kR-rkVJZ_KZ9A&center=40.8239662,-74.4799012"
+    },
+    {
       "name": "Taco Bell",
       "distance": "1.8 mi",
       "url": "https://www.google.com/maps/search/?api=1&query=Taco%20Bell&query_place_id=ChIJgQP8FAqnw4kRtxN3LO6mjH8&center=40.815269,-74.4733069"
@@ -29,18 +34,28 @@
       "name": "Market Sandwich",
       "distance": "2.3 mi",
       "url": "https://www.google.com/maps/search/?api=1&query=Market%20Sandwich&query_place_id=ChIJtcswRKunw4kR0NFptABiWMY&center=40.799524999999996,-74.4881425"
+    },
+    {
+      "name": "PrimoHoagies",
+      "distance": "2.4 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=PrimoHoagies&query_place_id=ChIJ__-zB7ymw4kRdq2nIZBJfqc&center=40.7995115,-74.4817095"
+    },
+    {
+      "name": "Verrilli's",
+      "distance": "2.4 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Verrilli's&query_place_id=ChIJ_coDLL6mw4kRBxq3Ifchq30&center=40.801491999999996,-74.476449"
     }
   ],
   "coffee": [
     {
+      "name": "Jersey Artisan Cafe",
+      "distance": "0.8 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Jersey%20Artisan%20Cafe&query_place_id=ChIJ3wEx7S-nw4kR2mfyUvkDoRA&center=40.822467599999996,-74.4897395"
+    },
+    {
       "name": "Dunkin'",
       "distance": "1.2 mi",
       "url": "https://www.google.com/maps/search/?api=1&query=Dunkin'&query_place_id=ChIJG0QBZt-mw4kR-rkVJZ_KZ9A&center=40.8239662,-74.4799012"
-    },
-    {
-      "name": "Jersey Artisan Cafe",
-      "distance": "1.2 mi",
-      "url": "https://www.google.com/maps/search/?api=1&query=Jersey%20Artisan%20Cafe&query_place_id=ChIJ3wEx7S-nw4kR2mfyUvkDoRA&center=40.818672199999995,-74.4838011"
     },
     {
       "name": "A & B Bagel and Deli",
@@ -83,6 +98,11 @@
       "name": "The Bagelry",
       "distance": "2.1 mi",
       "url": "https://www.google.com/maps/search/?api=1&query=The%20Bagelry&query_place_id=ChIJ6_E8tNSnw4kRHCJqiflQ9NQ&center=40.8116729,-74.4685524"
+    },
+    {
+      "name": "Whole Foods Bakery",
+      "distance": "2.3 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Whole%20Foods%20Bakery&query_place_id=ChIJWTZZNQCnw4kRWld3WgqFObA&center=40.7993909,-74.4886179"
     }
   ],
   "dinner": [

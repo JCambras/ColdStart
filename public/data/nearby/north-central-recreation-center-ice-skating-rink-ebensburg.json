@@ -26,9 +26,29 @@
       "url": "https://www.google.com/maps/search/?api=1&query=Chipotle%20Mexican%20Grill&query_place_id=ChIJx8YedUpzy4kRboTwO3mJ1B8&center=40.472706699999996,-78.7489733"
     },
     {
+      "name": "Dunkin'",
+      "distance": "1.2 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Dunkin'&query_place_id=ChIJNZ9lOQBzy4kRvQQ_JV7uU3k&center=40.4726621,-78.74989149999999"
+    },
+    {
       "name": "Taco Bell",
       "distance": "1.5 mi",
       "url": "https://www.google.com/maps/search/?api=1&query=Taco%20Bell&query_place_id=ChIJL5EL7X5zy4kRToH_UXxDf9k&center=40.4703605,-78.7540975"
+    },
+    {
+      "name": "KFC",
+      "distance": "1.5 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=KFC&query_place_id=ChIJ-2dZ0ldzy4kRWTESnoQpP4Q&center=40.46971130000001,-78.755104"
+    },
+    {
+      "name": "Dairy Queen Grill & Chill",
+      "distance": "1.6 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Dairy%20Queen%20Grill%20%26%20Chill&query_place_id=ChIJGXleHgp0y4kRUdVhhXZ7jl4&center=40.4685637,-78.7571507"
+    },
+    {
+      "name": "Wendy's",
+      "distance": "1.7 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Wendy's&query_place_id=ChIJiSfRnZJzy4kRh1qBjnH_5r4&center=40.467774999999996,-78.7587246"
     }
   ],
   "coffee": [
@@ -45,7 +65,12 @@
     {
       "name": "Starbucks",
       "distance": "1.5 mi",
-      "url": "https://www.google.com/maps/search/?api=1&query=Starbucks&query_place_id=ChIJcQIEjipzy4kRhAYJKjN0g9s&center=40.470251499999996,-78.75436239999999"
+      "url": "https://www.google.com/maps/search/?api=1&query=Starbucks&query_place_id=ChIJcQIEjipzy4kRhAYJKjN0g9s&center=40.47043,-78.75453"
+    },
+    {
+      "name": "McDonald's",
+      "distance": "1.7 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=McDonald's&query_place_id=ChIJtx8MKSB0y4kRNjvdLcY_9YU&center=40.4682281,-78.75787500000001"
     }
   ],
   "team_lunch": [
@@ -55,9 +80,9 @@
       "url": "https://www.google.com/maps/search/?api=1&query=Hong%20Xin%20Garden&query_place_id=ChIJwXQzmx90y4kROO2uworM-0Y&center=40.4850202,-78.72576939999999"
     },
     {
-      "name": "Applebee's Grill + Bar",
+      "name": "Walmart Bakery",
       "distance": "1.1 mi",
-      "url": "https://www.google.com/maps/search/?api=1&query=Applebee's%20Grill%20%2B%20Bar&query_place_id=ChIJB2n0jAl0y4kRDYgXR0hFw7U&center=40.4746731,-78.74660229999999"
+      "url": "https://www.google.com/maps/search/?api=1&query=Walmart%20Bakery&query_place_id=ChIJq6qqZvZzy4kRfBVoMd6W-to&center=40.4755274,-78.7501004"
     },
     {
       "name": "Schwebel Baking Outlet 23 23",

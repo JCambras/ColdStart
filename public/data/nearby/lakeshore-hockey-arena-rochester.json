@@ -29,9 +29,41 @@
       "name": "Wendy's",
       "distance": "1.8 mi",
       "url": "https://www.google.com/maps/search/?api=1&query=Wendy's&query_place_id=ChIJiWG3rS631okRNIWlLe1Q-R8&center=43.240231099999995,-77.6474015"
+    },
+    {
+      "name": "Dairy Queen Grill & Chill",
+      "distance": "1.9 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Dairy%20Queen%20Grill%20%26%20Chill&query_place_id=ChIJZ1gWlym31okRHFyTQUpaMQ8&center=43.2370988,-77.6464017"
+    },
+    {
+      "name": "Lakeside Hots",
+      "distance": "2.2 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Lakeside%20Hots&query_place_id=ChIJQUbNmeG21okRQRYlwq9ZNRA&center=43.2312613,-77.62634899999999"
+    },
+    {
+      "name": "Brittanys Fresh Squeezed Lemonade",
+      "distance": "2.3 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Brittanys%20Fresh%20Squeezed%20Lemonade&query_place_id=ChIJ_3LzWIK31okROCAPduT162Q&center=43.230528400000004,-77.6264796"
+    },
+    {
+      "name": "Burger King",
+      "distance": "3.2 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Burger%20King&query_place_id=ChIJjzvxyq6x1okRiucsX6L8vaA&center=43.2525553,-77.69494259999999",
+      "isFar": true
     }
   ],
   "coffee": [
+    {
+      "name": "McDonald's",
+      "distance": "1.8 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=McDonald's&query_place_id=ChIJ254XLy-31okRTOCV2cfcqJg&center=43.238878,-77.6462495"
+    },
+    {
+      "name": "McDonald's",
+      "distance": "3.4 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=McDonald's&query_place_id=ChIJt9M5rfmw1okRKSnOVzkWt8c&center=43.249103399999996,-77.6971226",
+      "isFar": true
+    },
     {
       "name": "Bruegger's Bagels",
       "distance": "3.5 mi",
@@ -49,21 +81,6 @@
       "name": "Pontillo's Pizzerias",
       "distance": "1.3 mi",
       "url": "https://www.google.com/maps/search/?api=1&query=Pontillo's%20Pizzerias&query_place_id=ChIJn4eJZ3S31okR80-qOjU4aHU&center=43.2518968,-77.6125982"
-    },
-    {
-      "name": "Jetty at the Port",
-      "distance": "1.3 mi",
-      "url": "https://www.google.com/maps/search/?api=1&query=Jetty%20at%20the%20Port&query_place_id=ChIJr-PF85231okRJ2aOi1MZy7s&center=43.2560245,-77.60731439999999"
-    },
-    {
-      "name": "Pelican's Nest Waterfront Restaurant",
-      "distance": "1.3 mi",
-      "url": "https://www.google.com/maps/search/?api=1&query=Pelican's%20Nest%20Waterfront%20Restaurant&query_place_id=ChIJ9fcwH3W31okR4xUQOfaiIc4&center=43.25340020000001,-77.6089891"
-    },
-    {
-      "name": "California Rollin II Sushi Bar",
-      "distance": "1.4 mi",
-      "url": "https://www.google.com/maps/search/?api=1&query=California%20Rollin%20II%20Sushi%20Bar&query_place_id=ChIJM97A9Z231okR3fTkRZanzQ8&center=43.255784000000006,-77.60729599999999"
     },
     {
       "name": "Our Daily Bread Sourdough LLC",

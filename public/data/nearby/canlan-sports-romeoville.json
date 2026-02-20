@@ -21,9 +21,34 @@
       "url": "https://www.google.com/maps/search/?api=1&query=Benny's%20%40%20Stella%E2%80%99s%20Bar%20%26%20Grill&query_place_id=ChIJwfYencoxDogRj5i5JV_SS24&center=41.6391981,-88.126317"
     },
     {
+      "name": "Dunkin'",
+      "distance": "0.9 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Dunkin'&query_place_id=ChIJT974EQBfDogRUyNqZrGeSk0&center=41.6504188,-88.1238642"
+    },
+    {
       "name": "Subway",
       "distance": "0.9 mi",
       "url": "https://www.google.com/maps/search/?api=1&query=Subway&query_place_id=ChIJPy0UTOFeDogR2h4sAz7Cpik&center=41.641739199999996,-88.1237984"
+    },
+    {
+      "name": "Halsted Street Dawgs",
+      "distance": "0.9 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Halsted%20Street%20Dawgs&query_place_id=ChIJi7l8OHpfDogRqD-HdKBOv9c&center=41.6417363,-88.123736"
+    },
+    {
+      "name": "Rosati's Pizza",
+      "distance": "0.9 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Rosati's%20Pizza&query_place_id=ChIJ8wbuS-FeDogRD6UsxU3UoiE&center=41.6418453,-88.1236686"
+    },
+    {
+      "name": "White Castle",
+      "distance": "1.0 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=White%20Castle&query_place_id=ChIJ3x8I7NteDogRfAPq6CSdRA4&center=41.651798799999995,-88.1231882"
+    },
+    {
+      "name": "Wendy's",
+      "distance": "1.2 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Wendy's&query_place_id=ChIJ5WGnIdFeDogRp-gnxFInq7A&center=41.6585112,-88.1231323"
     }
   ],
   "coffee": [
@@ -33,17 +58,17 @@
       "url": "https://www.google.com/maps/search/?api=1&query=Penny's%20Place&query_place_id=ChIJFWNJseBeDogRNFXp5phmU24&center=41.6403877,-88.1264568"
     },
     {
+      "name": "McDonald's",
+      "distance": "0.9 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=McDonald's&query_place_id=ChIJSzmY_tteDogRNl8QsJ1Hv9Q&center=41.651053399999995,-88.1241723"
+    },
+    {
       "name": "Dunkin'",
       "distance": "0.9 mi",
       "url": "https://www.google.com/maps/search/?api=1&query=Dunkin'&query_place_id=ChIJT974EQBfDogRUyNqZrGeSk0&center=41.6504188,-88.1238642"
     }
   ],
   "team_lunch": [
-    {
-      "name": "Stella's Bar & Grill",
-      "distance": "0.9 mi",
-      "url": "https://www.google.com/maps/search/?api=1&query=Stella's%20Bar%20%26%20Grill&query_place_id=ChIJh8goj-NeDogRDd7l3ApmdxA&center=41.6391707,-88.1259841"
-    },
     {
       "name": "Cilantro Taco Grill - Romeoville",
       "distance": "0.9 mi",
@@ -53,6 +78,11 @@
       "name": "cfhv",
       "distance": "2.4 mi",
       "url": "https://www.google.com/maps/search/?api=1&query=cfhv&query_place_id=ChIJFdhrcgBZDogRip0bVHSR9Cc&center=41.679774699999996,-88.1498968"
+    },
+    {
+      "name": "Walmart Bakery",
+      "distance": "2.8 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Walmart%20Bakery&query_place_id=ChIJY70SWEpeDogRcxGWcZ2d624&center=41.607729,-88.1266574"
     }
   ],
   "dinner": [

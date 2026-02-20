@@ -1,6 +1,11 @@
 {
   "quick_bite": [
     {
+      "name": "Dunkin'",
+      "distance": "1.1 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Dunkin'&query_place_id=ChIJiR2WLL0M44kRqee2IFt1gjk&center=42.526096900000006,-71.0871638"
+    },
+    {
       "name": "Fred's Franks (Hot Dog Truck)",
       "distance": "1.2 mi",
       "url": "https://www.google.com/maps/search/?api=1&query=Fred's%20Franks%20(Hot%20Dog%20Truck)&query_place_id=ChIJqdZvJbwM44kRssORJwFtxdM&center=42.5237206,-71.0799906"
@@ -29,6 +34,11 @@
       "name": "Nick's Place North Reading",
       "distance": "2.4 mi",
       "url": "https://www.google.com/maps/search/?api=1&query=Nick's%20Place%20North%20Reading&query_place_id=ChIJcSHhqt0N44kRl2yfZn9lCFY&center=42.5750868,-71.07289759999999"
+    },
+    {
+      "name": "Subway - North Reading - 34571",
+      "distance": "2.4 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Subway%20-%20North%20Reading%20-%2034571&query_place_id=ChIJAxCW2uwL44kRsSjYAM9d0a0&center=42.570239199999996,-71.1125771"
     }
   ],
   "coffee": [
@@ -46,6 +56,16 @@
       "name": "Caffè Nero",
       "distance": "1.5 mi",
       "url": "https://www.google.com/maps/search/?api=1&query=Caff%C3%A8%20Nero&query_place_id=ChIJ1TVyYFkL44kR58T8PRCKv8w&center=42.5248353,-71.1029882"
+    },
+    {
+      "name": "McDonald's",
+      "distance": "1.7 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=McDonald's&query_place_id=ChIJd7fXTFcL44kR0DEIgyZhiPw&center=42.5205663,-71.1028726"
+    },
+    {
+      "name": "McDonald's",
+      "distance": "2.3 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=McDonald's&query_place_id=ChIJBfe_tfIL44kR1B3rfsB8bto&center=42.569428099999996,-71.10852059999999"
     }
   ],
   "team_lunch": [

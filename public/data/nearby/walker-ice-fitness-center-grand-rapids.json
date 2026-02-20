@@ -3,46 +3,96 @@
     {
       "name": "Krispy Krunchy Chicken",
       "distance": "0.8 mi",
-      "url": "https://www.google.com/maps/search/Krispy%20Krunchy%20Chicken+near+43.0056454%2C-85.7712046"
-    },
-    {
-      "name": "Alfano's Pub and Ristorante",
-      "distance": "1.4 mi",
-      "url": "https://www.google.com/maps/search/Alfano's%20Pub%20and%20Ristorante+near+43.0056454%2C-85.7712046"
+      "url": "https://www.google.com/maps/search/?api=1&query=Krispy%20Krunchy%20Chicken&query_place_id=ChIJNxoVaMyvGYgRXWefmUVZKek&center=43.0154852,-85.7614592"
     },
     {
       "name": "Subway",
       "distance": "2.3 mi",
-      "url": "https://www.google.com/maps/search/Subway+near+43.0056454%2C-85.7712046"
+      "url": "https://www.google.com/maps/search/?api=1&query=Subway&query_place_id=ChIJNUyt_nqlGYgRm0Vr7kfMob8&center=42.972899500000004,-85.77473859999999"
     },
     {
       "name": "Little Caesars Pizza",
       "distance": "2.3 mi",
-      "url": "https://www.google.com/maps/search/Little%20Caesars%20Pizza+near+43.0056454%2C-85.7712046"
+      "url": "https://www.google.com/maps/search/?api=1&query=Little%20Caesars%20Pizza&query_place_id=ChIJNUyt_nqlGYgROe5SRyQS9mE&center=42.9728448,-85.77475"
     },
     {
       "name": "Arby's",
       "distance": "2.3 mi",
-      "url": "https://www.google.com/maps/search/Arby's+near+43.0056454%2C-85.7712046"
+      "url": "https://www.google.com/maps/search/?api=1&query=Arby's&query_place_id=ChIJ5zpGZXClGYgRrnD40zn4ItI&center=42.9727357,-85.7776145"
+    },
+    {
+      "name": "Taco Bell",
+      "distance": "2.3 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Taco%20Bell&query_place_id=ChIJy66c01quGYgRvlwI9y50eJI&center=42.971881499999995,-85.7721411"
+    },
+    {
+      "name": "Chick-fil-A",
+      "distance": "2.3 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Chick-fil-A&query_place_id=ChIJQ-s_bSylGYgRkkkFqFqSb80&center=42.971951,-85.77575"
+    },
+    {
+      "name": "Jimmy John's",
+      "distance": "2.4 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Jimmy%20John's&query_place_id=ChIJDdA9R3ClGYgRMnm19rtaXrg&center=42.9718958,-85.77866689999999"
+    },
+    {
+      "name": "Wendy's",
+      "distance": "2.4 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Wendy's&query_place_id=ChIJgx3Cs4evGYgR383Ls3oiPR0&center=42.9717763,-85.7642274"
+    },
+    {
+      "name": "Subway",
+      "distance": "3.4 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Subway&query_place_id=ChIJmyEgT_KuGYgRl_YB-yt-LyE&center=42.985777299999995,-85.7086046",
+      "isFar": true
+    },
+    {
+      "name": "Burger King",
+      "distance": "3.9 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Burger%20King&query_place_id=ChIJ83N2aI6uGYgRpgzwImiFyLM&center=42.98587380000001,-85.6986032",
+      "isFar": true
     }
   ],
   "coffee": [
     {
       "name": "McDonald's",
       "distance": "2.3 mi",
-      "url": "https://www.google.com/maps/search/McDonald's+near+43.0056454%2C-85.7712046"
+      "url": "https://www.google.com/maps/search/?api=1&query=McDonald's&query_place_id=ChIJwxKDHnulGYgRXjAekJIdCiA&center=42.972777,-85.77427399999999"
+    },
+    {
+      "name": "McDonald's",
+      "distance": "2.5 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=McDonald's&query_place_id=ChIJ4dXmjCqpGYgRHkQj8_dmUcw&center=43.0195189,-85.7245815"
     }
   ],
   "team_lunch": [
     {
       "name": "Simply Rustic Dough",
       "distance": "0.4 mi",
-      "url": "https://www.google.com/maps/search/Simply%20Rustic%20Dough+near+43.0056454%2C-85.7712046"
+      "url": "https://www.google.com/maps/search/?api=1&query=Simply%20Rustic%20Dough&query_place_id=ChIJnfYSJzKlGYgRdE91ramjwuc&center=43.0011004,-85.767653"
     },
     {
       "name": "China Chef Chinese Restaurant",
       "distance": "2.3 mi",
-      "url": "https://www.google.com/maps/search/China%20Chef%20Chinese%20Restaurant+near+43.0056454%2C-85.7712046"
+      "url": "https://www.google.com/maps/search/?api=1&query=China%20Chef%20Chinese%20Restaurant&query_place_id=ChIJNUyt_nqlGYgRWLZ2pzGaqK0&center=42.9731301,-85.775041"
+    },
+    {
+      "name": "Lou's Cottage Bakery",
+      "distance": "3.2 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Lou's%20Cottage%20Bakery&query_place_id=ChIJHVXsG5mmGYgRUeMwdTRplBc&center=43.0274998,-85.8273384",
+      "isFar": true
+    },
+    {
+      "name": "Big Apple Bagels",
+      "distance": "3.6 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Big%20Apple%20Bagels&query_place_id=ChIJ5T42nlGuGYgRqtD3G2yz2CE&center=42.9708548,-85.7193308",
+      "isFar": true
+    },
+    {
+      "name": "Meijer Bakery",
+      "distance": "4.0 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Meijer%20Bakery&query_place_id=ChIJW0L6fBivGYgRvb4mFuRK2s0&center=43.0078835,-85.69123069999999",
+      "isFar": true
     }
   ],
   "dinner": [

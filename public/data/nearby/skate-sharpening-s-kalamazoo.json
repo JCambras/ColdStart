@@ -3,71 +3,91 @@
     {
       "name": "Taco Bell",
       "distance": "0.2 mi",
-      "url": "https://www.google.com/maps/search/Taco%20Bell+near+42.2566293%2C-85.59004209999999"
-    },
-    {
-      "name": "QDOBA Mexican Eats",
-      "distance": "0.2 mi",
-      "url": "https://www.google.com/maps/search/QDOBA%20Mexican%20Eats+near+42.2566293%2C-85.59004209999999"
+      "url": "https://www.google.com/maps/search/?api=1&query=Taco%20Bell&query_place_id=ChIJLyv39ZCdF4gRio9I6aoTpu4&center=42.2587392,-85.589164"
     },
     {
       "name": "Little Caesars Pizza",
       "distance": "0.2 mi",
-      "url": "https://www.google.com/maps/search/Little%20Caesars%20Pizza+near+42.2566293%2C-85.59004209999999"
+      "url": "https://www.google.com/maps/search/?api=1&query=Little%20Caesars%20Pizza&query_place_id=ChIJQXDkfJCdF4gRJLfwpzAxl00&center=42.259696999999996,-85.59084000000001"
     },
     {
       "name": "Jimmy John's",
       "distance": "0.2 mi",
-      "url": "https://www.google.com/maps/search/Jimmy%20John's+near+42.2566293%2C-85.59004209999999"
+      "url": "https://www.google.com/maps/search/?api=1&query=Jimmy%20John's&query_place_id=ChIJiZVfcZCdF4gRr_IQa0cBPl0&center=42.2600526,-85.5901185"
+    },
+    {
+      "name": "Dunkin'",
+      "distance": "0.3 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Dunkin'&query_place_id=ChIJ5VLdgJqdF4gRdrDnDdxUNMc&center=42.260224,-85.59084779999999"
     },
     {
       "name": "Great Wall Express",
       "distance": "0.3 mi",
-      "url": "https://www.google.com/maps/search/Great%20Wall%20Express+near+42.2566293%2C-85.59004209999999"
+      "url": "https://www.google.com/maps/search/?api=1&query=Great%20Wall%20Express&query_place_id=ChIJsVogipqdF4gRxhK68RkCiCc&center=42.2607601,-85.58932340000001"
     },
     {
       "name": "Burger King",
       "distance": "0.3 mi",
-      "url": "https://www.google.com/maps/search/Burger%20King+near+42.2566293%2C-85.59004209999999"
+      "url": "https://www.google.com/maps/search/?api=1&query=Burger%20King&query_place_id=ChIJ8Xk5ipqdF4gRnNreUw__ZPU&center=42.261196999999996,-85.5891395"
     },
     {
       "name": "Subway",
       "distance": "0.8 mi",
-      "url": "https://www.google.com/maps/search/Subway+near+42.2566293%2C-85.59004209999999"
+      "url": "https://www.google.com/maps/search/?api=1&query=Subway&query_place_id=ChIJb3WJsu2dF4gRSj6bxA0ShNE&center=42.2455206,-85.5900456"
+    },
+    {
+      "name": "Lee's Famous Recipe Chicken",
+      "distance": "0.8 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Lee's%20Famous%20Recipe%20Chicken&query_place_id=ChIJE9GQtO2dF4gRVN8nTR0Iwko&center=42.245398099999996,-85.5892068"
+    },
+    {
+      "name": "Jersey Giant SUBS!",
+      "distance": "1.1 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Jersey%20Giant%20SUBS!&query_place_id=ChIJTRM0Ve6dF4gR-UWal5KrPRY&center=42.241243,-85.5904427"
+    },
+    {
+      "name": "Firehouse Subs Westnedge Avenue",
+      "distance": "1.2 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Firehouse%20Subs%20Westnedge%20Avenue&query_place_id=ChIJB0n9-P6dF4gRRHtvI2zsIHU&center=42.23983,-85.58876"
     }
   ],
   "coffee": [
     {
       "name": "McDonald's",
       "distance": "0.1 mi",
-      "url": "https://www.google.com/maps/search/McDonald's+near+42.2566293%2C-85.59004209999999"
+      "url": "https://www.google.com/maps/search/?api=1&query=McDonald's&query_place_id=ChIJ0e_QVZCdF4gRRpQAAWx_m5w&center=42.2580897,-85.5901983"
     },
     {
       "name": "Dunkin'",
       "distance": "0.3 mi",
-      "url": "https://www.google.com/maps/search/Dunkin'+near+42.2566293%2C-85.59004209999999"
+      "url": "https://www.google.com/maps/search/?api=1&query=Dunkin'&query_place_id=ChIJ5VLdgJqdF4gRdrDnDdxUNMc&center=42.260224,-85.59084779999999"
     },
     {
       "name": "BIGGBY COFFEE",
       "distance": "1.0 mi",
-      "url": "https://www.google.com/maps/search/BIGGBY%20COFFEE+near+42.2566293%2C-85.59004209999999"
+      "url": "https://www.google.com/maps/search/?api=1&query=BIGGBY%20COFFEE&query_place_id=ChIJJx3pWO6dF4gR6cIB6lKpLQg&center=42.242584900000004,-85.589878"
     }
   ],
   "team_lunch": [
     {
       "name": "Kalamazoo Latino",
       "distance": "0.6 mi",
-      "url": "https://www.google.com/maps/search/Kalamazoo%20Latino+near+42.2566293%2C-85.59004209999999"
+      "url": "https://www.google.com/maps/search/?api=1&query=Kalamazoo%20Latino&query_place_id=ChIJ445-0bydF4gRNs8IKfF29vI&center=42.259322999999995,-85.57875349999999"
     },
     {
       "name": "Hibachi Sushi Buffet",
       "distance": "0.7 mi",
-      "url": "https://www.google.com/maps/search/Hibachi%20Sushi%20Buffet+near+42.2566293%2C-85.59004209999999"
+      "url": "https://www.google.com/maps/search/?api=1&query=Hibachi%20Sushi%20Buffet&query_place_id=ChIJHx1ss-2dF4gRVvG7zcLgSJ0&center=42.2463889,-85.58916669999999"
     },
     {
       "name": "Los Amigos Portage",
       "distance": "0.9 mi",
-      "url": "https://www.google.com/maps/search/Los%20Amigos%20Portage+near+42.2566293%2C-85.59004209999999"
+      "url": "https://www.google.com/maps/search/?api=1&query=Los%20Amigos%20Portage&query_place_id=ChIJ3RaqPn6dF4gR27jTZN-07qE&center=42.2440204,-85.5899163"
+    },
+    {
+      "name": "Cinnabon",
+      "distance": "1.0 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Cinnabon&query_place_id=ChIJkcIVAEqdF4gRzQSkNVvu7HM&center=42.2424359,-85.58725659999999"
     }
   ],
   "dinner": [

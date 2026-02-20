@@ -24,6 +24,31 @@
       "name": "Subway",
       "distance": "0.3 mi",
       "url": "https://www.google.com/maps/search/?api=1&query=Subway&query_place_id=ChIJXQKOQ-V_LYgRZZPO87iSJB4&center=42.1308179,-80.0857925"
+    },
+    {
+      "name": "Arby's",
+      "distance": "0.4 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Arby's&query_place_id=ChIJx8joP-J_LYgRU-lJ4He4WqI&center=42.12271,-80.0827027"
+    },
+    {
+      "name": "KABAB MASTER",
+      "distance": "1.4 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=KABAB%20MASTER&query_place_id=ChIJ--VFImd_LYgRYi_HmI6Q6EI&center=42.1081351,-80.07634449999999"
+    },
+    {
+      "name": "Trap Shacc LLC",
+      "distance": "1.8 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Trap%20Shacc%20LLC&query_place_id=ChIJ5SIS3FR_LYgRNP0d19XfVu8&center=42.127835399999995,-80.04571370000001"
+    },
+    {
+      "name": "Burger King",
+      "distance": "1.9 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Burger%20King&query_place_id=ChIJT4mkNy9-LYgRQft9MbkZVKg&center=42.1236341,-80.04395400000001"
+    },
+    {
+      "name": "Subway",
+      "distance": "2.0 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Subway&query_place_id=ChIJcX99uyh-LYgRkOt0hGtvNyE&center=42.1225883,-80.0418199"
     }
   ],
   "coffee": [
@@ -31,11 +56,6 @@
       "name": "Rose Garden Cafe",
       "distance": "0.1 mi",
       "url": "https://www.google.com/maps/search/?api=1&query=Rose%20Garden%20Cafe&query_place_id=ChIJGW4_buR_LYgRmyL1TwTMn2A&center=42.127129499999995,-80.0833877"
-    },
-    {
-      "name": "The 1020 Collective",
-      "distance": "0.2 mi",
-      "url": "https://www.google.com/maps/search/?api=1&query=The%201020%20Collective&query_place_id=ChIJO02PpYt_LYgReNIAFpv1fAU&center=42.1261948,-80.0787699"
     },
     {
       "name": "Cafe 7-10",
@@ -48,9 +68,19 @@
       "url": "https://www.google.com/maps/search/?api=1&query=Purrista%20Cat%20Cafe&query_place_id=ChIJ11XrHmx_LYgRhfW8stn8pUY&center=42.1271716,-80.08506179999999"
     },
     {
+      "name": "McDonald's",
+      "distance": "0.4 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=McDonald's&query_place_id=ChIJTbhMkuJ_LYgRWzeonC1hYio&center=42.1227747,-80.08514149999999"
+    },
+    {
       "name": "Mighty Fine Donuts",
       "distance": "1.2 mi",
       "url": "https://www.google.com/maps/search/?api=1&query=Mighty%20Fine%20Donuts&query_place_id=ChIJ27Q9-SWAMogRyY_5FM4r6mk&center=42.114632,-80.06497"
+    },
+    {
+      "name": "McDonald's",
+      "distance": "2.0 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=McDonald's&query_place_id=ChIJg5-SKzB-LYgRDow5Frpk92w&center=42.1230635,-80.0430761"
     }
   ],
   "team_lunch": [

@@ -11,11 +11,6 @@
       "url": "https://www.google.com/maps/search/?api=1&query=Kayties%20Kafe&query_place_id=ChIJFX7dXQAtDogRuMX2VTw18b8&center=41.8738961,-87.67204819999999"
     },
     {
-      "name": "Su Taqueria El Rey Del Taco",
-      "distance": "0.3 mi",
-      "url": "https://www.google.com/maps/search/?api=1&query=Su%20Taqueria%20El%20Rey%20Del%20Taco&query_place_id=ChIJ3Ve13DwtDogRx_sFONNEmFE&center=41.879328099999995,-87.6690036"
-    },
-    {
       "name": "Chick-fil-A",
       "distance": "0.3 mi",
       "url": "https://www.google.com/maps/search/?api=1&query=Chick-fil-A&query_place_id=ChIJT7mTpW8tDogRlxnT_uleM6U&center=41.8730731,-87.676811"
@@ -29,6 +24,31 @@
       "name": "Five Guys",
       "distance": "0.4 mi",
       "url": "https://www.google.com/maps/search/?api=1&query=Five%20Guys&query_place_id=ChIJqRe0mlUtDogRxdQlapFbEmw&center=41.8729897,-87.6774813"
+    },
+    {
+      "name": "Jimmy John's",
+      "distance": "0.4 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Jimmy%20John's&query_place_id=ChIJHSKxffhTDogR8V0nnHZkDC4&center=41.8725352,-87.6770512"
+    },
+    {
+      "name": "Subway",
+      "distance": "0.4 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Subway&query_place_id=ChIJudIkLhgtDogRVCbHCR_v8o4&center=41.8739765,-87.6669139"
+    },
+    {
+      "name": "Subway",
+      "distance": "0.4 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Subway&query_place_id=ChIJH9RD8RMtDogRG813nDodAJA&center=41.870926399999995,-87.6745129"
+    },
+    {
+      "name": "Subway",
+      "distance": "0.5 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Subway&query_place_id=ChIJrcF5cyQtDogRRK41cyroB9M&center=41.8812739,-87.6651215"
+    },
+    {
+      "name": "Maxwells",
+      "distance": "0.5 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Maxwells&query_place_id=ChIJMdIQCQAtDogRQGW7-Hqhma8&center=41.8831841,-87.6673017"
     }
   ],
   "coffee": [
@@ -78,6 +98,26 @@
       "name": "Viet Nom Nom",
       "distance": "0.2 mi",
       "url": "https://www.google.com/maps/search/?api=1&query=Viet%20Nom%20Nom&query_place_id=ChIJP27CW14tDogRITI5_yiEQow&center=41.87386920000001,-87.6721111"
+    },
+    {
+      "name": "Levy Restaurants At United Center",
+      "distance": "0.3 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Levy%20Restaurants%20At%20United%20Center&query_place_id=ChIJZzr5xz4tDogRJfcvwGlogPs&center=41.8806468,-87.6741528"
+    },
+    {
+      "name": "Nora.bessette",
+      "distance": "0.3 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Nora.bessette&query_place_id=ChIJ5YhsHQAtDogRE41rxhHL9xY&center=41.8734608,-87.6704264"
+    },
+    {
+      "name": "Farmer's Fridge",
+      "distance": "0.3 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Farmer's%20Fridge&query_place_id=ChIJ91eInPEtDogRABTYgpmC6-M&center=41.8740034,-87.6692578"
+    },
+    {
+      "name": "Auntie Anne's | Cinnabon | Carvel",
+      "distance": "0.3 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Auntie%20Anne's%20%7C%20Cinnabon%20%7C%20Carvel&query_place_id=ChIJp94uQugtDogR1phEfou7e6E&center=41.8730559,-87.67705430000001"
     }
   ],
   "dinner": [

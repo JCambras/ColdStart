@@ -1,6 +1,21 @@
 {
   "quick_bite": [
     {
+      "name": "Tim Hortons",
+      "distance": "0.1 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Tim%20Hortons&query_place_id=ChIJ-8E86jES04kRBq2ZOz0Wuyc&center=42.877063799999995,-78.8768765"
+    },
+    {
+      "name": "Tim Hortons",
+      "distance": "0.1 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Tim%20Hortons&query_place_id=ChIJjwzHwzES04kRJcaV39vM8eo&center=42.875001,-78.8765413"
+    },
+    {
+      "name": "Dunkin'",
+      "distance": "0.3 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Dunkin'&query_place_id=ChIJH5Tnz-kT04kRRWVJhvdBVTU&center=42.875575399999995,-78.87051540000002"
+    },
+    {
       "name": "Subway",
       "distance": "1.0 mi",
       "url": "https://www.google.com/maps/search/?api=1&query=Subway&query_place_id=ChIJ_xj-g04S04kRh0D5s8siduE&center=42.890769299999995,-78.8776099"
@@ -29,6 +44,11 @@
       "name": "Wendy's",
       "distance": "1.9 mi",
       "url": "https://www.google.com/maps/search/?api=1&query=Wendy's&query_place_id=ChIJl_q9L_YS04kR2CWK-ADJ-s0&center=42.9030716,-78.8682532"
+    },
+    {
+      "name": "Burger King",
+      "distance": "1.9 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Burger%20King&query_place_id=ChIJ_5bjrqgT04kRvmQ9_oYnOKc&center=42.900728099999995,-78.89444089999999"
     }
   ],
   "coffee": [
@@ -56,19 +76,24 @@
       "name": "Underground’s Coffee Seneca One",
       "distance": "0.2 mi",
       "url": "https://www.google.com/maps/search/?api=1&query=Underground%E2%80%99s%20Coffee%20Seneca%20One&query_place_id=ChIJPdEvU5wT04kRqU2NsSkFB_A&center=42.8799335,-78.8764159"
+    },
+    {
+      "name": "Dunkin'",
+      "distance": "0.3 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Dunkin'&query_place_id=ChIJH5Tnz-kT04kRRWVJhvdBVTU&center=42.875575399999995,-78.87051540000002"
+    },
+    {
+      "name": "McDonald's",
+      "distance": "1.3 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=McDonald's&query_place_id=ChIJSe9TaWwS04kRJ7H9G8_t1uw&center=42.8847113,-78.85433139999999"
+    },
+    {
+      "name": "McDonald's",
+      "distance": "1.3 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=McDonald's&query_place_id=ChIJxYN9gK0T04kRd413kPuu4W8&center=42.8944179,-78.8864359"
     }
   ],
   "team_lunch": [
-    {
-      "name": "Pizza Plant Italian Pub - Canalside",
-      "distance": "0.1 mi",
-      "url": "https://www.google.com/maps/search/?api=1&query=Pizza%20Plant%20Italian%20Pub%20-%20Canalside&query_place_id=ChIJz-yhNzES04kRXn9oXts0i8k&center=42.878392,-78.876308"
-    },
-    {
-      "name": "The Draft Room",
-      "distance": "0.2 mi",
-      "url": "https://www.google.com/maps/search/?api=1&query=The%20Draft%20Room&query_place_id=ChIJWQmwulwT04kRmIilKN6n4Zc&center=42.875181600000005,-78.87454029999999"
-    },
     {
       "name": "The Brick",
       "distance": "0.3 mi",

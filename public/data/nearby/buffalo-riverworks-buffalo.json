@@ -1,9 +1,24 @@
 {
   "quick_bite": [
     {
+      "name": "Dunkin'",
+      "distance": "0.4 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Dunkin'&query_place_id=ChIJH5Tnz-kT04kRRWVJhvdBVTU&center=42.875575399999995,-78.87051540000002"
+    },
+    {
+      "name": "Tim Hortons",
+      "distance": "0.4 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Tim%20Hortons&query_place_id=ChIJjwzHwzES04kRJcaV39vM8eo&center=42.875001,-78.8765413"
+    },
+    {
       "name": "Krispy Krunchy Chicken",
       "distance": "0.4 mi",
       "url": "https://www.google.com/maps/search/?api=1&query=Krispy%20Krunchy%20Chicken&query_place_id=ChIJeU1JF9MT04kRr-9rjr8R0CI&center=42.871997199999996,-78.8639505"
+    },
+    {
+      "name": "Tim Hortons",
+      "distance": "0.6 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Tim%20Hortons&query_place_id=ChIJ-8E86jES04kRBq2ZOz0Wuyc&center=42.877063799999995,-78.8768765"
     },
     {
       "name": "Progress Food Market",
@@ -56,23 +71,23 @@
       "name": "Low Bridge Café",
       "distance": "0.6 mi",
       "url": "https://www.google.com/maps/search/?api=1&query=Low%20Bridge%20Caf%C3%A9&query_place_id=ChIJ_8hWJAAT04kRtdVq6meyp30&center=42.8778539,-78.8781941"
+    },
+    {
+      "name": "McDonald's",
+      "distance": "1.4 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=McDonald's&query_place_id=ChIJSe9TaWwS04kRJ7H9G8_t1uw&center=42.8847113,-78.85433139999999"
+    },
+    {
+      "name": "McDonald's",
+      "distance": "1.8 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=McDonald's&query_place_id=ChIJxYN9gK0T04kRd413kPuu4W8&center=42.8944179,-78.8864359"
     }
   ],
   "team_lunch": [
     {
-      "name": "WD Bar & Grille",
-      "distance": "0.3 mi",
-      "url": "https://www.google.com/maps/search/?api=1&query=WD%20Bar%20%26%20Grille&query_place_id=ChIJm4JbNCUS04kRna6olw6QcOI&center=42.87338030000001,-78.870578"
-    },
-    {
       "name": "The Brick",
       "distance": "0.3 mi",
       "url": "https://www.google.com/maps/search/?api=1&query=The%20Brick&query_place_id=ChIJw5bmVQAT04kRwTHHHMaqphU&center=42.874901,-78.871416"
-    },
-    {
-      "name": "The Draft Room",
-      "distance": "0.4 mi",
-      "url": "https://www.google.com/maps/search/?api=1&query=The%20Draft%20Room&query_place_id=ChIJWQmwulwT04kRmIilKN6n4Zc&center=42.875181600000005,-78.87454029999999"
     },
     {
       "name": "Perro and Poni",
@@ -80,14 +95,19 @@
       "url": "https://www.google.com/maps/search/?api=1&query=Perro%20and%20Poni&query_place_id=ChIJFaTJXgAT04kRsBRPO4_zKeI&center=42.87128,-78.8823434"
     },
     {
-      "name": "Pizza Plant Italian Pub - Canalside",
-      "distance": "0.6 mi",
-      "url": "https://www.google.com/maps/search/?api=1&query=Pizza%20Plant%20Italian%20Pub%20-%20Canalside&query_place_id=ChIJz-yhNzES04kRXn9oXts0i8k&center=42.878392,-78.876308"
-    },
-    {
       "name": "Kaylena Marie's Bakery",
       "distance": "1.9 mi",
       "url": "https://www.google.com/maps/search/?api=1&query=Kaylena%20Marie's%20Bakery&query_place_id=ChIJdbH8JQAT04kRtXN0Rr4qfSA&center=42.897994,-78.870764"
+    },
+    {
+      "name": "Radah Baked Goods",
+      "distance": "2.2 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Radah%20Baked%20Goods&query_place_id=ChIJF9cdKE0T04kRE2EjwMJwls0&center=42.8996627,-78.85424359999999"
+    },
+    {
+      "name": "Ohgoodnessbaking",
+      "distance": "2.3 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Ohgoodnessbaking&query_place_id=ChIJe5vEArcP04kR5ZYeeTePEcE&center=42.8567822,-78.8304282"
     }
   ],
   "dinner": [

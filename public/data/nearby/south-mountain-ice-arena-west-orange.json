@@ -1,6 +1,11 @@
 {
   "quick_bite": [
     {
+      "name": "Dunkin'",
+      "distance": "0.1 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Dunkin'&query_place_id=ChIJw56HKZKrw4kRA8XS10YrSz8&center=40.770263299999996,-74.2812661"
+    },
+    {
       "name": "Sun Wah Kitchen",
       "distance": "0.2 mi",
       "url": "https://www.google.com/maps/search/?api=1&query=Sun%20Wah%20Kitchen&query_place_id=ChIJ96vo65Crw4kRhKgajY0ZIqk&center=40.7703845,-74.278435"
@@ -23,6 +28,11 @@
   ],
   "coffee": [
     {
+      "name": "McDonald's",
+      "distance": "0.1 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=McDonald's&query_place_id=ChIJEbPGd5Grw4kRrYum_XrY8i4&center=40.7701237,-74.2816964"
+    },
+    {
       "name": "Dunkin'",
       "distance": "0.1 mi",
       "url": "https://www.google.com/maps/search/?api=1&query=Dunkin'&query_place_id=ChIJw56HKZKrw4kRA8XS10YrSz8&center=40.770263299999996,-74.2812661"
@@ -41,6 +51,26 @@
       "name": "Jay Coffee Shop",
       "distance": "0.2 mi",
       "url": "https://www.google.com/maps/search/?api=1&query=Jay%20Coffee%20Shop&query_place_id=ChIJQQhoVJKrw4kR7dEZFj-kLFc&center=40.7702026,-74.28514539999999"
+    },
+    {
+      "name": "Market Cafe",
+      "distance": "0.8 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Market%20Cafe&query_place_id=ChIJS7HI0_Grw4kRyX1NgsL4usI&center=40.769657099999996,-74.2963693"
+    },
+    {
+      "name": "Starbucks at Cooperman Barnabas Medical Center",
+      "distance": "1.2 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Starbucks%20at%20Cooperman%20Barnabas%20Medical%20Center&query_place_id=ChIJYaZ9o56rw4kRawr2bSHX1ZQ&center=40.76345,-74.3026"
+    },
+    {
+      "name": "Alice Coffee Shop",
+      "distance": "1.2 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Alice%20Coffee%20Shop&query_place_id=ChIJQ7B2QPirw4kRoTJ6EjYPz0Y&center=40.761989199999995,-74.30217510000001"
+    },
+    {
+      "name": "Three Daughters Baking LLC",
+      "distance": "2.0 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Three%20Daughters%20Baking%20LLC&query_place_id=ChIJuT6cyNOtw4kR9veEx0Axcb8&center=40.746472,-74.2586251"
     }
   ],
   "team_lunch": [
@@ -63,6 +93,36 @@
       "name": "Purple Cookie Company",
       "distance": "0.9 mi",
       "url": "https://www.google.com/maps/search/?api=1&query=Purple%20Cookie%20Company&query_place_id=ChIJ8VFZRI2rw4kR3a_wk5_ZNqE&center=40.7707368,-74.29974399999999"
+    },
+    {
+      "name": "Livingston Diner",
+      "distance": "1.0 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Livingston%20Diner&query_place_id=ChIJOwF-VeWrw4kRJMJOQ3P_92c&center=40.770189800000004,-74.3000476"
+    },
+    {
+      "name": "Extreme Love Baking",
+      "distance": "1.9 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Extreme%20Love%20Baking&query_place_id=ChIJVVVBRGmrw4kRVUZqfMksj3c&center=40.7666195,-74.24629279999999"
+    },
+    {
+      "name": "Cake Jars/ADAD Baked Goods Inc",
+      "distance": "1.9 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Cake%20Jars%2FADAD%20Baked%20Goods%20Inc&query_place_id=ChIJi2y4KQurw4kRThOzk0HXyqI&center=40.766618799999996,-74.24629259999999"
+    },
+    {
+      "name": "Cait & Abby's Bakery",
+      "distance": "2.0 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Cait%20%26%20Abby's%20Bakery&query_place_id=ChIJu5V_bIasw4kR8cdeArJwuEQ&center=40.7458917,-74.2604333"
+    },
+    {
+      "name": "Hot bagels abroad",
+      "distance": "2.0 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Hot%20bagels%20abroad&query_place_id=ChIJeyxEaFGtw4kRAqRgU8laXMk&center=40.7460804,-74.2595352"
+    },
+    {
+      "name": "Bagels4u of Livingston",
+      "distance": "2.1 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Bagels4u%20of%20Livingston&query_place_id=ChIJK4RRiVqpw4kR02wRAXxM2Ns&center=40.7737647,-74.3209205"
     }
   ],
   "dinner": [

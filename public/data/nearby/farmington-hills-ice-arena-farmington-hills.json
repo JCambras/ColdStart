@@ -3,96 +3,106 @@
     {
       "name": "Papa Romano's Pizza & Mr. Pita",
       "distance": "0.7 mi",
-      "url": "https://www.google.com/maps/search/Papa%20Romano's%20Pizza%20%26%20Mr.%20Pita+near+42.441077899999996%2C-83.3960297"
+      "url": "https://www.google.com/maps/search/?api=1&query=Papa%20Romano's%20Pizza%20%26%20Mr.%20Pita&query_place_id=ChIJLdHDboCxJIgRIUV_9iwNYC8&center=42.4398565,-83.38243829999999"
     },
     {
       "name": "Subway",
       "distance": "0.7 mi",
-      "url": "https://www.google.com/maps/search/Subway+near+42.441077899999996%2C-83.3960297"
-    },
-    {
-      "name": "Subway",
-      "distance": "0.7 mi",
-      "url": "https://www.google.com/maps/search/Subway+near+42.441077899999996%2C-83.3960297"
+      "url": "https://www.google.com/maps/search/?api=1&query=Subway&query_place_id=ChIJLdHDboCxJIgREZ0tEF8mgT4&center=42.4398364,-83.38220439999999"
     },
     {
       "name": "Arby's",
       "distance": "0.8 mi",
-      "url": "https://www.google.com/maps/search/Arby's+near+42.441077899999996%2C-83.3960297"
-    },
-    {
-      "name": "Arby's",
-      "distance": "0.8 mi",
-      "url": "https://www.google.com/maps/search/Arby's+near+42.441077899999996%2C-83.3960297"
+      "url": "https://www.google.com/maps/search/?api=1&query=Arby's&query_place_id=ChIJIbhtKYCxJIgR7q_DJy1BO34&center=42.439924,-83.3799894"
     },
     {
       "name": "Little Caesars Pizza",
       "distance": "1.0 mi",
-      "url": "https://www.google.com/maps/search/Little%20Caesars%20Pizza+near+42.441077899999996%2C-83.3960297"
+      "url": "https://www.google.com/maps/search/?api=1&query=Little%20Caesars%20Pizza&query_place_id=ChIJexFkPXmxJIgRBJbGPCZmM9I&center=42.444369,-83.37621899999999"
+    },
+    {
+      "name": "Dunkin'",
+      "distance": "1.1 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Dunkin'&query_place_id=ChIJpaa0v36xJIgR7llBfA5u5CA&center=42.4418563,-83.37493909999999"
     },
     {
       "name": "Taco Bell",
       "distance": "1.1 mi",
-      "url": "https://www.google.com/maps/search/Taco%20Bell+near+42.441077899999996%2C-83.3960297"
+      "url": "https://www.google.com/maps/search/?api=1&query=Taco%20Bell&query_place_id=ChIJ6XWBLHyxJIgR4vn1nnD8nkU&center=42.4401368,-83.3737538"
+    },
+    {
+      "name": "Jimmy John's",
+      "distance": "1.2 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Jimmy%20John's&query_place_id=ChIJZ7efLXyxJIgRUb1eNEs_1EQ&center=42.4401535,-83.3733377"
+    },
+    {
+      "name": "Savvy Sliders Farmington",
+      "distance": "1.4 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Savvy%20Sliders%20Farmington&query_place_id=ChIJtx0PIyqxJIgRDtB6fcSuEmY&center=42.455469199999996,-83.37546789999999"
+    },
+    {
+      "name": "Subway",
+      "distance": "1.9 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Subway&query_place_id=ChIJD40Zr7CxJIgRBZKPLF8HYV8&center=42.4681948,-83.3947608"
     }
   ],
   "coffee": [
     {
       "name": "Starbucks Coffee Company",
       "distance": "0.7 mi",
-      "url": "https://www.google.com/maps/search/Starbucks%20Coffee%20Company+near+42.441077899999996%2C-83.3960297"
+      "url": "https://www.google.com/maps/search/?api=1&query=Starbucks%20Coffee%20Company&query_place_id=ChIJcV98HI2xJIgRUi7L1AIBZY0&center=42.43925000000001,-83.38211"
     },
     {
       "name": "Dunkin'",
       "distance": "1.1 mi",
-      "url": "https://www.google.com/maps/search/Dunkin'+near+42.441077899999996%2C-83.3960297"
+      "url": "https://www.google.com/maps/search/?api=1&query=Dunkin'&query_place_id=ChIJpaa0v36xJIgR7llBfA5u5CA&center=42.4418563,-83.37493909999999"
     },
     {
       "name": "McDonald's",
       "distance": "1.4 mi",
-      "url": "https://www.google.com/maps/search/McDonald's+near+42.441077899999996%2C-83.3960297"
+      "url": "https://www.google.com/maps/search/?api=1&query=McDonald's&query_place_id=ChIJgXxugc2zJIgRc4M52nGn4uQ&center=42.4281803,-83.3757413"
     },
     {
       "name": "Cannelle Farmington",
       "distance": "1.9 mi",
-      "url": "https://www.google.com/maps/search/Cannelle%20Farmington+near+42.441077899999996%2C-83.3960297"
+      "url": "https://www.google.com/maps/search/?api=1&query=Cannelle%20Farmington&query_place_id=ChIJfxYo1KmxJIgRiiO0Cs21doY&center=42.4646854,-83.37531829999999"
     }
   ],
   "team_lunch": [
     {
       "name": "Sweet Dreams Desserts LLC",
       "distance": "0.5 mi",
-      "url": "https://www.google.com/maps/search/Sweet%20Dreams%20Desserts%20LLC+near+42.441077899999996%2C-83.3960297"
-    },
-    {
-      "name": "Sweet Dreams Desserts LLC",
-      "distance": "0.5 mi",
-      "url": "https://www.google.com/maps/search/Sweet%20Dreams%20Desserts%20LLC+near+42.441077899999996%2C-83.3960297"
+      "url": "https://www.google.com/maps/search/?api=1&query=Sweet%20Dreams%20Desserts%20LLC&query_place_id=ChIJW0qGrsyxJIgR3J_fcJj1ewA&center=42.447843999999996,-83.3983712"
     },
     {
       "name": "Dynasty of Livonia",
       "distance": "0.7 mi",
-      "url": "https://www.google.com/maps/search/Dynasty%20of%20Livonia+near+42.441077899999996%2C-83.3960297"
+      "url": "https://www.google.com/maps/search/?api=1&query=Dynasty%20of%20Livonia&query_place_id=ChIJNy3JVgWxJIgR6dvPMW87znk&center=42.4399582,-83.3821257"
     },
     {
       "name": "kyaaefood",
       "distance": "0.7 mi",
-      "url": "https://www.google.com/maps/search/kyaaefood+near+42.441077899999996%2C-83.3960297"
+      "url": "https://www.google.com/maps/search/?api=1&query=kyaaefood&query_place_id=ChIJw_mQ8X2xJIgR04i8kG6mTY0&center=42.4399504,-83.3818987"
     },
     {
       "name": "Art of Bread by Joe's",
       "distance": "1.6 mi",
-      "url": "https://www.google.com/maps/search/Art%20of%20Bread%20by%20Joe's+near+42.441077899999996%2C-83.3960297"
+      "url": "https://www.google.com/maps/search/?api=1&query=Art%20of%20Bread%20by%20Joe's&query_place_id=ChIJQfZUrc-zJIgRXy_-EFs-hQI&center=42.426863000000004,-83.371174"
     },
     {
       "name": "The Layer Home",
       "distance": "1.6 mi",
-      "url": "https://www.google.com/maps/search/The%20Layer%20Home+near+42.441077899999996%2C-83.3960297"
+      "url": "https://www.google.com/maps/search/?api=1&query=The%20Layer%20Home&query_place_id=ChIJKcIqY7WxJIgREug2Yby1voc&center=42.45889830000001,-83.3757439"
     },
     {
       "name": "Sweet Timez Indian Sweets & Bakery",
       "distance": "1.9 mi",
-      "url": "https://www.google.com/maps/search/Sweet%20Timez%20Indian%20Sweets%20%26%20Bakery+near+42.441077899999996%2C-83.3960297"
+      "url": "https://www.google.com/maps/search/?api=1&query=Sweet%20Timez%20Indian%20Sweets%20%26%20Bakery&query_place_id=ChIJ3_3bVIyxJIgRnYtvzopV3ko&center=42.468305,-83.3903806"
+    },
+    {
+      "name": "Kadence Townsend",
+      "distance": "1.9 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Kadence%20Townsend&query_place_id=ChIJPXmPMgCxJIgRtpLyz6BNJ-I&center=42.464479499999996,-83.37632180000001"
     }
   ],
   "dinner": [

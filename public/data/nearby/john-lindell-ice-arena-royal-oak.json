@@ -3,71 +3,116 @@
     {
       "name": "Marco's Pizza",
       "distance": "0.3 mi",
-      "url": "https://www.google.com/maps/search/Marco's%20Pizza+near+42.52137270000001%2C-83.1613902"
+      "url": "https://www.google.com/maps/search/?api=1&query=Marco's%20Pizza&query_place_id=ChIJfyL7Z53FJIgRemEycTIXpnQ&center=42.525264,-83.16464100000002"
     },
     {
       "name": "Checkers",
       "distance": "0.7 mi",
-      "url": "https://www.google.com/maps/search/Checkers+near+42.52137270000001%2C-83.1613902"
+      "url": "https://www.google.com/maps/search/?api=1&query=Checkers&query_place_id=ChIJ87rm13fGJIgREBVc6DTVnvw&center=42.5314538,-83.1650434"
     },
     {
       "name": "Taco Bell",
       "distance": "0.7 mi",
-      "url": "https://www.google.com/maps/search/Taco%20Bell+near+42.52137270000001%2C-83.1613902"
+      "url": "https://www.google.com/maps/search/?api=1&query=Taco%20Bell&query_place_id=ChIJa8EwdNjFJIgR3eW44t9O55k&center=42.5318817,-83.1650542"
     },
     {
       "name": "Subway",
       "distance": "0.8 mi",
-      "url": "https://www.google.com/maps/search/Subway+near+42.52137270000001%2C-83.1613902"
+      "url": "https://www.google.com/maps/search/?api=1&query=Subway&query_place_id=ChIJA3cMwnfGJIgREWxeb84DEyA&center=42.5321752,-83.1658626"
     },
     {
       "name": "Chicken Shack Clawson",
       "distance": "0.8 mi",
-      "url": "https://www.google.com/maps/search/Chicken%20Shack%20Clawson+near+42.52137270000001%2C-83.1613902"
+      "url": "https://www.google.com/maps/search/?api=1&query=Chicken%20Shack%20Clawson&query_place_id=ChIJC2MlptDFJIgRqEX3p0HVelQ&center=42.532799999999995,-83.158684"
     },
     {
       "name": "Del Taco",
       "distance": "0.8 mi",
-      "url": "https://www.google.com/maps/search/Del%20Taco+near+42.52137270000001%2C-83.1613902"
+      "url": "https://www.google.com/maps/search/?api=1&query=Del%20Taco&query_place_id=ChIJJamUf9fFJIgRhZ059lI6B7o&center=42.5334304,-83.16237199999999"
+    },
+    {
+      "name": "Dunkin'",
+      "distance": "0.9 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Dunkin'&query_place_id=ChIJ_XoJi3fGJIgRcAV8k6m1eR8&center=42.5332353,-83.1663445"
     },
     {
       "name": "Hippie's Pizza",
       "distance": "0.9 mi",
-      "url": "https://www.google.com/maps/search/Hippie's%20Pizza+near+42.52137270000001%2C-83.1613902"
+      "url": "https://www.google.com/maps/search/?api=1&query=Hippie's%20Pizza&query_place_id=ChIJOwEmI-vFJIgRJFghCz7dEQI&center=42.5194127,-83.1447079"
+    },
+    {
+      "name": "Jimmy John's",
+      "distance": "0.9 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Jimmy%20John's&query_place_id=ChIJa-F2KNjFJIgR9v9EDKrufYQ&center=42.5336417,-83.1644022"
+    },
+    {
+      "name": "Tim Hortons",
+      "distance": "0.9 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Tim%20Hortons&query_place_id=ChIJX9V3KNjFJIgR2Y-m0Eou8-Y&center=42.533629399999995,-83.1646717"
     }
   ],
   "coffee": [
     {
       "name": "Dunkin'",
       "distance": "0.9 mi",
-      "url": "https://www.google.com/maps/search/Dunkin'+near+42.52137270000001%2C-83.1613902"
+      "url": "https://www.google.com/maps/search/?api=1&query=Dunkin'&query_place_id=ChIJ_XoJi3fGJIgRcAV8k6m1eR8&center=42.5332353,-83.1663445"
     },
     {
       "name": "Tim Hortons",
       "distance": "0.9 mi",
-      "url": "https://www.google.com/maps/search/Tim%20Hortons+near+42.52137270000001%2C-83.1613902"
+      "url": "https://www.google.com/maps/search/?api=1&query=Tim%20Hortons&query_place_id=ChIJX9V3KNjFJIgR2Y-m0Eou8-Y&center=42.533629399999995,-83.1646717"
+    },
+    {
+      "name": "McDonald's",
+      "distance": "1.2 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=McDonald's&query_place_id=ChIJcS7S0pXFJIgRR5BguqTisas&center=42.5195589,-83.13875379999999"
+    },
+    {
+      "name": "White Wolf Japanese Patisserie at Noble Village Clawson",
+      "distance": "1.2 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=White%20Wolf%20Japanese%20Patisserie%20at%20Noble%20Village%20Clawson&query_place_id=ChIJP-hjwzjFJIgRHf0EmZ2SRrw&center=42.5337807,-83.14518699999999"
+    },
+    {
+      "name": "McDonald's",
+      "distance": "1.2 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=McDonald's&query_place_id=ChIJUZu-KG_GJIgRzREEM_9a2SY&center=42.5320971,-83.1804453"
+    },
+    {
+      "name": "McDonald's",
+      "distance": "1.3 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=McDonald's&query_place_id=ChIJX8f5VpLIJIgRlw4rKSx-onA&center=42.515655300000006,-83.1849273"
     }
   ],
   "team_lunch": [
     {
       "name": "Baked by Lindsay",
       "distance": "0.6 mi",
-      "url": "https://www.google.com/maps/search/Baked%20by%20Lindsay+near+42.52137270000001%2C-83.1613902"
+      "url": "https://www.google.com/maps/search/?api=1&query=Baked%20by%20Lindsay&query_place_id=ChIJ1SP6nB7FJIgRZE22b1vnh3I&center=42.530608699999995,-83.16256109999999"
     },
     {
       "name": "Mui's Chinese Food Carry Out",
       "distance": "0.8 mi",
-      "url": "https://www.google.com/maps/search/Mui's%20Chinese%20Food%20Carry%20Out+near+42.52137270000001%2C-83.1613902"
+      "url": "https://www.google.com/maps/search/?api=1&query=Mui's%20Chinese%20Food%20Carry%20Out&query_place_id=ChIJdTY4ptDFJIgRenj32qoC2HM&center=42.5327969,-83.1585952"
     },
     {
       "name": "Barry Bagels Clawson",
       "distance": "0.8 mi",
-      "url": "https://www.google.com/maps/search/Barry%20Bagels%20Clawson+near+42.52137270000001%2C-83.1613902"
+      "url": "https://www.google.com/maps/search/?api=1&query=Barry%20Bagels%20Clawson&query_place_id=ChIJ499tyWvFJIgRV4F8x5v2KW8&center=42.5328141,-83.158354"
     },
     {
       "name": "Red Olive Restaurant - Clawson",
       "distance": "0.9 mi",
-      "url": "https://www.google.com/maps/search/Red%20Olive%20Restaurant%20-%20Clawson+near+42.52137270000001%2C-83.1613902"
+      "url": "https://www.google.com/maps/search/?api=1&query=Red%20Olive%20Restaurant%20-%20Clawson&query_place_id=ChIJYa9xKNjFJIgR3mJs7CKty_A&center=42.533667099999995,-83.16409890000001"
+    },
+    {
+      "name": "litas sweets",
+      "distance": "1.2 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=litas%20sweets&query_place_id=ChIJx7xy7nHHJIgRkN-tCu2kUhU&center=42.5105041,-83.1784988"
+    },
+    {
+      "name": "Tubby's Sub Shop",
+      "distance": "1.2 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Tubby's%20Sub%20Shop&query_place_id=ChIJB84WfBXHJIgRJvTdkkEGRpo&center=42.5328417,-83.1783288"
     }
   ],
   "dinner": [

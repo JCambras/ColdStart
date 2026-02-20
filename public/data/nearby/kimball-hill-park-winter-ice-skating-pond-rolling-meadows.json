@@ -6,6 +6,11 @@
       "url": "https://www.google.com/maps/search/?api=1&query=Little%20Caesars%20Pizza&query_place_id=ChIJb2X5AUmlD4gR9vZZWO6WXeE&center=42.079246,-88.01840299999999"
     },
     {
+      "name": "Dunkin'",
+      "distance": "0.2 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Dunkin'&query_place_id=ChIJ4Qcz2EelD4gRkrME5wOSYng&center=42.079217799999995,-88.02169970000001"
+    },
+    {
       "name": "ZENSHI Handcrafted Sushi",
       "distance": "0.2 mi",
       "url": "https://www.google.com/maps/search/?api=1&query=ZENSHI%20Handcrafted%20Sushi&query_place_id=ChIJRbsot1KlD4gRehsmGUq5mIo&center=42.0788851,-88.0171993"
@@ -24,6 +29,26 @@
       "name": "Hangry Joe's Hot Chicken & Wings",
       "distance": "0.5 mi",
       "url": "https://www.google.com/maps/search/?api=1&query=Hangry%20Joe's%20Hot%20Chicken%20%26%20Wings&query_place_id=ChIJ3Yy2_4GlD4gRwbpSzTEo7B0&center=42.0891421,-88.01951199999999"
+    },
+    {
+      "name": "Subway",
+      "distance": "1.3 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Subway&query_place_id=ChIJr5odBQ6wD4gR_dpxO_t4Ua4&center=42.067026999999996,-88.0046172"
+    },
+    {
+      "name": "Subway",
+      "distance": "1.4 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Subway&query_place_id=ChIJ0yHOgQ6lD4gRKvcxh0R_vYw&center=42.0898481,-88.04447040000001"
+    },
+    {
+      "name": "Wendy's",
+      "distance": "1.5 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Wendy's&query_place_id=ChIJc_iIPXulD4gR0WlsOz_q_X0&center=42.0679065,-88.04129119999999"
+    },
+    {
+      "name": "Subway",
+      "distance": "1.5 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Subway&query_place_id=ChIJw4ey1HulD4gR7by0SCQTABE&center=42.0689037,-88.0423768"
     }
   ],
   "coffee": [
@@ -31,6 +56,11 @@
       "name": "Dunkin'",
       "distance": "0.2 mi",
       "url": "https://www.google.com/maps/search/?api=1&query=Dunkin'&query_place_id=ChIJ4Qcz2EelD4gRkrME5wOSYng&center=42.079217799999995,-88.02169970000001"
+    },
+    {
+      "name": "McDonald's",
+      "distance": "0.2 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=McDonald's&query_place_id=ChIJwZYO90ilD4gRib6QPsQSIsI&center=42.0786071,-88.0192191"
     },
     {
       "name": "Starbucks Coffee Company",
@@ -46,6 +76,11 @@
       "name": "Starbucks Coffee Company",
       "distance": "0.5 mi",
       "url": "https://www.google.com/maps/search/?api=1&query=Starbucks%20Coffee%20Company&query_place_id=ChIJz6ZePjulD4gRSLJDfAcekL0&center=42.08907,-88.02021"
+    },
+    {
+      "name": "McDonald's",
+      "distance": "1.1 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=McDonald's&query_place_id=ChIJ7YolQ9G6D4gRQ4HF1X_yVVc&center=42.094836099999995,-88.0060586"
     }
   ],
   "team_lunch": [
@@ -78,6 +113,26 @@
       "name": "Farmer's Fridge",
       "distance": "0.6 mi",
       "url": "https://www.google.com/maps/search/?api=1&query=Farmer's%20Fridge&query_place_id=ChIJ88oGpsylD4gRvhOA1rAH7PQ&center=42.090952,-88.018957"
+    },
+    {
+      "name": "Primavera cakes",
+      "distance": "0.7 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Primavera%20cakes&query_place_id=ChIJ3ene_Zq7D4gRGODWjTmRzmg&center=42.082758999999996,-88.0053951"
+    },
+    {
+      "name": "TheBakersBlueprint",
+      "distance": "1.2 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=TheBakersBlueprint&query_place_id=ChIJTdNJkpa7D4gRfACmV9zv_OQ&center=42.074656,-87.9987139"
+    },
+    {
+      "name": "biserici",
+      "distance": "1.6 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=biserici&query_place_id=ChIJESSkw2GlD4gRldJU8Wgpj1E&center=42.062194999999996,-88.034836"
+    },
+    {
+      "name": "Izucar Bakery",
+      "distance": "1.7 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Izucar%20Bakery&query_place_id=ChIJkXU4LwGwD4gR1IItkghwezE&center=42.058607099999996,-88.0081139"
     }
   ],
   "dinner": [

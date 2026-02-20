@@ -21,9 +21,34 @@
       "url": "https://www.google.com/maps/search/?api=1&query=Arby's&query_place_id=ChIJV1Ia0OYK04kRRv-DD82kSYM&center=42.9014472,-78.6960594"
     },
     {
+      "name": "Tim Hortons",
+      "distance": "0.6 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Tim%20Hortons&query_place_id=ChIJgyNaVuEK04kRXjgMUCevr3A&center=42.899845899999995,-78.6975172"
+    },
+    {
       "name": "Mighty Taco",
       "distance": "0.6 mi",
       "url": "https://www.google.com/maps/search/?api=1&query=Mighty%20Taco&query_place_id=ChIJRa7pUqwL04kRFq3Op-pdjUM&center=42.9122096,-78.6974156"
+    },
+    {
+      "name": "Grasso's Pizza",
+      "distance": "0.7 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Grasso's%20Pizza&query_place_id=ChIJ36oqcOMK04kRVrWshIfWV5o&center=42.8967227,-78.6973611"
+    },
+    {
+      "name": "Tim Hortons",
+      "distance": "0.8 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Tim%20Hortons&query_place_id=ChIJ320zJdcK04kRLbHxG6tG4pU&center=42.9157429,-78.6974797"
+    },
+    {
+      "name": "Joey's Pizza Depew",
+      "distance": "1.0 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Joey's%20Pizza%20Depew&query_place_id=ChIJq4aHKy4L04kRxnbbTBfsr8U&center=42.918466699999996,-78.7131472"
+    },
+    {
+      "name": "Ronny's Take Out",
+      "distance": "1.7 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Ronny's%20Take%20Out&query_place_id=ChIJr-JceJIK04kRgwxRn6NBEPw&center=42.892982599999996,-78.6760702"
     }
   ],
   "coffee": [
@@ -36,6 +61,21 @@
       "name": "Tim Hortons",
       "distance": "0.8 mi",
       "url": "https://www.google.com/maps/search/?api=1&query=Tim%20Hortons&query_place_id=ChIJ320zJdcK04kRLbHxG6tG4pU&center=42.9157429,-78.6974797"
+    },
+    {
+      "name": "McDonald's",
+      "distance": "1.1 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=McDonald's&query_place_id=ChIJyUmEQOoK04kRiwyv6jvsENo&center=42.901740000000004,-78.68373199999999"
+    },
+    {
+      "name": "McDonald's",
+      "distance": "1.6 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=McDonald's&query_place_id=ChIJfyQ2d1YK04kRe2mOo7WYbIs&center=42.8834791,-78.6963531"
+    },
+    {
+      "name": "McDonald's",
+      "distance": "1.7 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=McDonald's&query_place_id=ChIJyeH3Pyl104kROOMSYcVubYc&center=42.930122,-78.6976084"
     },
     {
       "name": "Lancaster’s Broadway Deli",

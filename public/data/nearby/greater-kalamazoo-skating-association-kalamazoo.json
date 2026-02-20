@@ -3,76 +3,101 @@
     {
       "name": "Culver’s",
       "distance": "0.1 mi",
-      "url": "https://www.google.com/maps/search/Culver%E2%80%99s+near+42.2439918%2C-85.67516549999999"
+      "url": "https://www.google.com/maps/search/?api=1&query=Culver%E2%80%99s&query_place_id=ChIJ9SuKJa52F4gRE6Alo9eV6CQ&center=42.2433444,-85.6769489"
     },
     {
       "name": "Arby's",
       "distance": "0.1 mi",
-      "url": "https://www.google.com/maps/search/Arby's+near+42.2439918%2C-85.67516549999999"
+      "url": "https://www.google.com/maps/search/?api=1&query=Arby's&query_place_id=ChIJc-wWxrF2F4gR7frLsPpqvfY&center=42.244920500000006,-85.6770525"
     },
     {
       "name": "Taco Bell",
       "distance": "0.1 mi",
-      "url": "https://www.google.com/maps/search/Taco%20Bell+near+42.2439918%2C-85.67516549999999"
+      "url": "https://www.google.com/maps/search/?api=1&query=Taco%20Bell&query_place_id=ChIJW0r_2LF2F4gRKq27qhZSTWI&center=42.2439408,-85.678063"
     },
     {
       "name": "Jimmy John's",
       "distance": "0.2 mi",
-      "url": "https://www.google.com/maps/search/Jimmy%20John's+near+42.2439918%2C-85.67516549999999"
+      "url": "https://www.google.com/maps/search/?api=1&query=Jimmy%20John's&query_place_id=ChIJiznkR652F4gR3XDzoT6g2nE&center=42.2422684,-85.6780813"
+    },
+    {
+      "name": "Dunkin'",
+      "distance": "0.2 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Dunkin'&query_place_id=ChIJRQ8HOK52F4gR4aMFej3stt8&center=42.242123199999995,-85.678101"
     },
     {
       "name": "Subway",
       "distance": "0.3 mi",
-      "url": "https://www.google.com/maps/search/Subway+near+42.2439918%2C-85.67516549999999"
+      "url": "https://www.google.com/maps/search/?api=1&query=Subway&query_place_id=ChIJaUZE4A6eF4gRRRgR2KFOKYA&center=42.240338699999995,-85.67642630000002"
     },
     {
       "name": "Subway",
       "distance": "1.1 mi",
-      "url": "https://www.google.com/maps/search/Subway+near+42.2439918%2C-85.67516549999999"
+      "url": "https://www.google.com/maps/search/?api=1&query=Subway&query_place_id=ChIJUZm0Ic92F4gR_0Rr1ekmhrs&center=42.2597625,-85.6770104"
     },
     {
       "name": "Subway",
       "distance": "1.3 mi",
-      "url": "https://www.google.com/maps/search/Subway+near+42.2439918%2C-85.67516549999999"
+      "url": "https://www.google.com/maps/search/?api=1&query=Subway&query_place_id=ChIJy45LUAN1F4gRDKssRrUSH1g&center=42.226321,-85.68145"
+    },
+    {
+      "name": "Firehouse Subs Corner Shoppes",
+      "distance": "2.4 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Firehouse%20Subs%20Corner%20Shoppes&query_place_id=ChIJM5cZ__12F4gRNwe806clzrI&center=42.272391999999996,-85.648865"
+    },
+    {
+      "name": "Arby's",
+      "distance": "2.4 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Arby's&query_place_id=ChIJVxfaUv52F4gRW2Oi5KHVtBE&center=42.2705767,-85.64548549999999"
     }
   ],
   "coffee": [
     {
       "name": "Dunkin'",
       "distance": "0.2 mi",
-      "url": "https://www.google.com/maps/search/Dunkin'+near+42.2439918%2C-85.67516549999999"
+      "url": "https://www.google.com/maps/search/?api=1&query=Dunkin'&query_place_id=ChIJRQ8HOK52F4gR4aMFej3stt8&center=42.242123199999995,-85.678101"
     },
     {
       "name": "McDonald's",
       "distance": "0.3 mi",
-      "url": "https://www.google.com/maps/search/McDonald's+near+42.2439918%2C-85.67516549999999"
+      "url": "https://www.google.com/maps/search/?api=1&query=McDonald's&query_place_id=ChIJlUbYWa52F4gRFT0BlYUThOY&center=42.2410049,-85.67809559999999"
     },
     {
       "name": "Starbucks Coffee Company",
       "distance": "0.3 mi",
-      "url": "https://www.google.com/maps/search/Starbucks%20Coffee%20Company+near+42.2439918%2C-85.67516549999999"
+      "url": "https://www.google.com/maps/search/?api=1&query=Starbucks%20Coffee%20Company&query_place_id=ChIJUTZfuc93F4gRsWlBQeekGqE&center=42.24022000000001,-85.67689"
+    },
+    {
+      "name": "McDonald's",
+      "distance": "2.5 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=McDonald's&query_place_id=ChIJ-d_Ua1V2F4gRJNdko6T8_CA&center=42.271053099999996,-85.6424061"
     }
   ],
   "team_lunch": [
     {
       "name": "Speedy Cafe",
       "distance": "0.2 mi",
-      "url": "https://www.google.com/maps/search/Speedy%20Cafe+near+42.2439918%2C-85.67516549999999"
+      "url": "https://www.google.com/maps/search/?api=1&query=Speedy%20Cafe&query_place_id=ChIJ47vVC0V3F4gRa-WAoKgIFM4&center=42.241565400000006,-85.67794490000001"
     },
     {
       "name": "RSVP The Gardens",
       "distance": "0.5 mi",
-      "url": "https://www.google.com/maps/search/RSVP%20The%20Gardens+near+42.2439918%2C-85.67516549999999"
+      "url": "https://www.google.com/maps/search/?api=1&query=RSVP%20The%20Gardens&query_place_id=ChIJv54bl893F4gRhCBR1z2H7gw&center=42.2365631,-85.67475809999999"
     },
     {
       "name": "Great Wall Express",
       "distance": "1.0 mi",
-      "url": "https://www.google.com/maps/search/Great%20Wall%20Express+near+42.2439918%2C-85.67516549999999"
+      "url": "https://www.google.com/maps/search/?api=1&query=Great%20Wall%20Express&query_place_id=ChIJX6l8sc52F4gRVeTz2nVQl6o&center=42.258264,-85.6787248"
     },
     {
       "name": "Taloja faje1",
       "distance": "1.3 mi",
-      "url": "https://www.google.com/maps/search/Taloja%20faje1+near+42.2439918%2C-85.67516549999999"
+      "url": "https://www.google.com/maps/search/?api=1&query=Taloja%20faje1&query_place_id=ChIJu1dsEgBxF4gR62jcLkyRm-o&center=42.2548732,-85.694853"
+    },
+    {
+      "name": "Costco Bakery",
+      "distance": "2.4 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Costco%20Bakery&query_place_id=ChIJVVVZkv12F4gRS5MwQ479Tmc&center=42.272926,-85.65017449999999"
     }
   ],
   "dinner": [

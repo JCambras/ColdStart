@@ -1,11 +1,6 @@
 {
   "quick_bite": [
     {
-      "name": "Bounce Kraze",
-      "distance": "0.1 mi",
-      "url": "https://www.google.com/maps/search/?api=1&query=Bounce%20Kraze&query_place_id=ChIJAeN_mZojxokRWPbzOgb3LWU&center=40.0754282,-76.32825559999999"
-    },
-    {
       "name": "Five Guys",
       "distance": "0.2 mi",
       "url": "https://www.google.com/maps/search/?api=1&query=Five%20Guys&query_place_id=ChIJR4Tpn5wjxokRjJ46NgDlR34&center=40.0751643,-76.32334639999999"
@@ -19,6 +14,36 @@
       "name": "Chipotle Mexican Grill",
       "distance": "0.2 mi",
       "url": "https://www.google.com/maps/search/?api=1&query=Chipotle%20Mexican%20Grill&query_place_id=ChIJW65NRZojxokRZHXx2LbtAz0&center=40.077073399999996,-76.32557849999999"
+    },
+    {
+      "name": "PrimoHoagies",
+      "distance": "0.2 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=PrimoHoagies&query_place_id=ChIJ9W2MqpsjxokRZU1Qg3DrRkU&center=40.077112,-76.3256854"
+    },
+    {
+      "name": "Noodles and Company",
+      "distance": "0.2 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Noodles%20and%20Company&query_place_id=ChIJV8X2RpojxokRv8LuDiJhPjw&center=40.0773926,-76.3261326"
+    },
+    {
+      "name": "SNOWFOX Sushi",
+      "distance": "0.7 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=SNOWFOX%20Sushi&query_place_id=ChIJ96IiWz8jxokRAbY6PjPxmSI&center=40.068003399999995,-76.3169616"
+    },
+    {
+      "name": "Chick-fil-A",
+      "distance": "0.7 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Chick-fil-A&query_place_id=ChIJPbvRUn4jxokRkS9dZE088kU&center=40.0686695,-76.31502909999999"
+    },
+    {
+      "name": "Jersey Mike's Subs",
+      "distance": "0.8 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Jersey%20Mike's%20Subs&query_place_id=ChIJmwtsA38jxokRbb2kVb87bWo&center=40.068901499999996,-76.3140885"
+    },
+    {
+      "name": "Subway",
+      "distance": "0.8 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Subway&query_place_id=ChIJA16rG5MjxokRylBqjrddgYo&center=40.080897199999995,-76.33918849999999"
     }
   ],
   "coffee": [
@@ -46,6 +71,16 @@
       "name": "Lancaster Cupcake",
       "distance": "0.4 mi",
       "url": "https://www.google.com/maps/search/?api=1&query=Lancaster%20Cupcake&query_place_id=ChIJExAExgcnxokR_-cUVpQrsps&center=40.07769100000001,-76.332585"
+    },
+    {
+      "name": "Manheim Pike McDonald's",
+      "distance": "0.4 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Manheim%20Pike%20McDonald's&query_place_id=ChIJCwHtx44jxokRWtiu1CmFSAo&center=40.0708017,-76.3335389"
+    },
+    {
+      "name": "Taylor Chip Cookies",
+      "distance": "0.8 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Taylor%20Chip%20Cookies&query_place_id=ChIJBXO77f0jxokRvaU9PxO4XnI&center=40.0808691,-76.3384588"
     }
   ],
   "team_lunch": [
@@ -78,6 +113,21 @@
       "name": "Auntie Anne's",
       "distance": "0.9 mi",
       "url": "https://www.google.com/maps/search/?api=1&query=Auntie%20Anne's&query_place_id=ChIJc4iQrbUlxokRoJCja_hjQyo&center=40.0678731,-76.3408039"
+    },
+    {
+      "name": "Great American Cookies",
+      "distance": "0.9 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Great%20American%20Cookies&query_place_id=ChIJcS85gO4jxokRT4EiY1rkCD8&center=40.0678348,-76.34090119999999"
+    },
+    {
+      "name": "Whole Foods Bakery",
+      "distance": "0.9 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Whole%20Foods%20Bakery&query_place_id=ChIJ_X6mKQAjxokRa9jKKOhaI2A&center=40.0653249,-76.313193"
+    },
+    {
+      "name": "Auntie Anne's Inc",
+      "distance": "1.1 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Auntie%20Anne's%20Inc&query_place_id=ChIJ0UJZWwAlxokRCiPE785AzKs&center=40.0602024,-76.3172696"
     }
   ],
   "dinner": [

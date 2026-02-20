@@ -3,81 +3,106 @@
     {
       "name": "Jet's Pizza",
       "distance": "0.4 mi",
-      "url": "https://www.google.com/maps/search/Jet's%20Pizza+near+43.4963951%2C-83.9748153"
+      "url": "https://www.google.com/maps/search/?api=1&query=Jet's%20Pizza&query_place_id=ChIJUx-teSfdI4gRx_LOwPzWgOk&center=43.4908931,-83.9747467"
     },
     {
       "name": "Subway",
       "distance": "0.5 mi",
-      "url": "https://www.google.com/maps/search/Subway+near+43.4963951%2C-83.9748153"
+      "url": "https://www.google.com/maps/search/?api=1&query=Subway&query_place_id=ChIJuXCd5CXdI4gRPwmA9L9Vf1I&center=43.4896988,-83.9694128"
     },
     {
       "name": "Culver’s",
       "distance": "0.8 mi",
-      "url": "https://www.google.com/maps/search/Culver%E2%80%99s+near+43.4963951%2C-83.9748153"
+      "url": "https://www.google.com/maps/search/?api=1&query=Culver%E2%80%99s&query_place_id=ChIJF1FXPtbcI4gRp_nt2e3MTQA&center=43.4852695,-83.97555109999999"
     },
     {
       "name": "Dickey's Barbecue Pit",
       "distance": "0.8 mi",
-      "url": "https://www.google.com/maps/search/Dickey's%20Barbecue%20Pit+near+43.4963951%2C-83.9748153"
+      "url": "https://www.google.com/maps/search/?api=1&query=Dickey's%20Barbecue%20Pit&query_place_id=ChIJbWTsy_ndI4gR1wsykR7zKZw&center=43.5081804,-83.9712141"
     },
     {
       "name": "Firehouse Subs Bay Rd.",
       "distance": "1.0 mi",
-      "url": "https://www.google.com/maps/search/Firehouse%20Subs%20Bay%20Rd.+near+43.4963951%2C-83.9748153"
+      "url": "https://www.google.com/maps/search/?api=1&query=Firehouse%20Subs%20Bay%20Rd.&query_place_id=ChIJk1XIitXcI4gRPI8zaHrSPf0&center=43.482628,-83.97449499999999"
     },
     {
-      "name": "QDOBA Mexican Eats",
-      "distance": "1.0 mi",
-      "url": "https://www.google.com/maps/search/QDOBA%20Mexican%20Eats+near+43.4963951%2C-83.9748153"
+      "name": "Bob Evans",
+      "distance": "1.1 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Bob%20Evans&query_place_id=ChIJFXx_5SrdI4gRXzlhwK_4_dc&center=43.4806008,-83.9724663"
     },
     {
-      "name": "Chuck E. Cheese",
-      "distance": "1.0 mi",
-      "url": "https://www.google.com/maps/search/Chuck%20E.%20Cheese+near+43.4963951%2C-83.9748153"
+      "name": "Burger King",
+      "distance": "1.2 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Burger%20King&query_place_id=ChIJ_y0cuizdI4gR-GOwttBdUAk&center=43.479399699999995,-83.9680097"
+    },
+    {
+      "name": "Arby's",
+      "distance": "1.2 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Arby's&query_place_id=ChIJmwTgySrDI4gRvzki1tvDT_c&center=43.4787214,-83.9762159"
+    },
+    {
+      "name": "Taco Bell",
+      "distance": "1.2 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Taco%20Bell&query_place_id=ChIJn6p-gjLdI4gRyCB7fCeOd_o&center=43.480428599999996,-83.9639014"
+    },
+    {
+      "name": "Chick-fil-A",
+      "distance": "1.2 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Chick-fil-A&query_place_id=ChIJ59OGSgDdI4gRvH1naFzcRi4&center=43.4795832,-83.9664268"
     }
   ],
   "coffee": [
     {
       "name": "Sam's Club Cafe",
       "distance": "0.5 mi",
-      "url": "https://www.google.com/maps/search/Sam's%20Club%20Cafe+near+43.4963951%2C-83.9748153"
+      "url": "https://www.google.com/maps/search/?api=1&query=Sam's%20Club%20Cafe&query_place_id=ChIJ312mbpDdI4gRThnkk8KsEXo&center=43.489428,-83.9720894"
     },
     {
       "name": "Starbucks Coffee Company",
       "distance": "0.9 mi",
-      "url": "https://www.google.com/maps/search/Starbucks%20Coffee%20Company+near+43.4963951%2C-83.9748153"
+      "url": "https://www.google.com/maps/search/?api=1&query=Starbucks%20Coffee%20Company&query_place_id=ChIJteqY0gDdI4gRfUpORwVjQN0&center=43.48332,-83.97087"
     },
     {
       "name": "McDonald's",
       "distance": "1.1 mi",
-      "url": "https://www.google.com/maps/search/McDonald's+near+43.4963951%2C-83.9748153"
+      "url": "https://www.google.com/maps/search/?api=1&query=McDonald's&query_place_id=ChIJqTG4nirdI4gR7oVQ5anvOMg&center=43.4805403,-83.9739749"
+    },
+    {
+      "name": "Einstein Bros. Bagels",
+      "distance": "1.4 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Einstein%20Bros.%20Bagels&query_place_id=ChIJn6AzbqjdI4gRjK1W5hJbDZ0&center=43.5136101,-83.9609301"
     }
   ],
   "team_lunch": [
     {
       "name": "Sam's Club Bakery",
       "distance": "0.5 mi",
-      "url": "https://www.google.com/maps/search/Sam's%20Club%20Bakery+near+43.4963951%2C-83.9748153"
+      "url": "https://www.google.com/maps/search/?api=1&query=Sam's%20Club%20Bakery&query_place_id=ChIJ13lWSybdI4gRwebLyIwya7s&center=43.489948999999996,-83.9717335"
     },
     {
       "name": "Walmart Bakery",
       "distance": "0.5 mi",
-      "url": "https://www.google.com/maps/search/Walmart%20Bakery+near+43.4963951%2C-83.9748153"
+      "url": "https://www.google.com/maps/search/?api=1&query=Walmart%20Bakery&query_place_id=ChIJWQfLcSbdI4gRaiCnD9ciILI&center=43.4900032,-83.9697252"
     },
     {
       "name": "Sombreros Mexican Restaurant",
       "distance": "0.8 mi",
-      "url": "https://www.google.com/maps/search/Sombreros%20Mexican%20Restaurant+near+43.4963951%2C-83.9748153"
+      "url": "https://www.google.com/maps/search/?api=1&query=Sombreros%20Mexican%20Restaurant&query_place_id=ChIJXT8KApDdI4gRvnsdIXWp2fE&center=43.5082484,-83.9710489"
     },
     {
       "name": "Heidi's Cookies",
       "distance": "1.0 mi",
-      "url": "https://www.google.com/maps/search/Heidi's%20Cookies+near+43.4963951%2C-83.9748153"
+      "url": "https://www.google.com/maps/search/?api=1&query=Heidi's%20Cookies&query_place_id=ChIJdUWIEgDdI4gR4raLyjDUqmU&center=43.5086839,-83.9843514"
     },
     {
       "name": "Meijer Bakery",
       "distance": "1.1 mi",
-      "url": "https://www.google.com/maps/search/Meijer%20Bakery+near+43.4963951%2C-83.9748153"
+      "url": "https://www.google.com/maps/search/?api=1&query=Meijer%20Bakery&query_place_id=ChIJRS4TYwLdI4gR0W3cVEwZkeU&center=43.481986299999996,-83.9823018"
+    },
+    {
+      "name": "Auntie Anne's",
+      "distance": "1.4 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Auntie%20Anne's&query_place_id=ChIJ8XnfYSrDI4gR0RnwVfd486Y&center=43.475628,-83.9726867"
     }
   ],
   "dinner": [

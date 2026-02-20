@@ -21,6 +21,11 @@
       "url": "https://www.google.com/maps/search/?api=1&query=Shake%20Shack%20Derby%20Street%20Shops&query_place_id=ChIJeySMvpNj44kRu0YEVWN7gtU&center=42.1786202,-70.9100162"
     },
     {
+      "name": "Dunkin'",
+      "distance": "0.5 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Dunkin'&query_place_id=ChIJJwtfOvph44kRDOS2Nog-rWY&center=42.1810001,-70.8998069"
+    },
+    {
       "name": "Wendy's",
       "distance": "0.9 mi",
       "url": "https://www.google.com/maps/search/?api=1&query=Wendy's&query_place_id=ChIJI4bYCA-f5IkRcrN-ulgBj7c&center=42.1644179,-70.8968709"
@@ -29,6 +34,21 @@
       "name": "Seasons Café & Deli",
       "distance": "1.0 mi",
       "url": "https://www.google.com/maps/search/?api=1&query=Seasons%20Caf%C3%A9%20%26%20Deli&query_place_id=ChIJRx6iMg-e5IkRU0kkG1HZxAY&center=42.161201999999996,-70.9025453"
+    },
+    {
+      "name": "Burger King",
+      "distance": "1.1 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Burger%20King&query_place_id=ChIJC9WSqR6e5IkRW99-xzBy9sU&center=42.166754399999995,-70.8889684"
+    },
+    {
+      "name": "Taco Bell",
+      "distance": "1.3 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Taco%20Bell&query_place_id=ChIJeyVSEd5h44kRSXmz6iIkSGg&center=42.1731923,-70.881528"
+    },
+    {
+      "name": "Subway",
+      "distance": "1.5 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Subway&query_place_id=ChIJzxeoxN5h44kRxoyyWYx2iPU&center=42.1721193,-70.87778519999999"
     }
   ],
   "coffee": [
@@ -56,6 +76,16 @@
       "name": "Marylou's News",
       "distance": "0.9 mi",
       "url": "https://www.google.com/maps/search/?api=1&query=Marylou's%20News&query_place_id=ChIJ2UR2TOFh44kRG94ftJ9Ewj8&center=42.17508410000001,-70.8880399"
+    },
+    {
+      "name": "McDonald's",
+      "distance": "1.3 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=McDonald's&query_place_id=ChIJTYH8aN5h44kRDpjdJUg1qUw&center=42.17375,-70.88069"
+    },
+    {
+      "name": "Fratelli's Pastry Shop (Weymouth)",
+      "distance": "1.5 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Fratelli's%20Pastry%20Shop%20(Weymouth)&query_place_id=ChIJI8ylsBdi44kRXkcYaB1BJRk&center=42.194392,-70.9210737"
     }
   ],
   "team_lunch": [
@@ -83,6 +113,16 @@
       "name": "D'Angelo Grilled Sandwiches",
       "distance": "1.2 mi",
       "url": "https://www.google.com/maps/search/?api=1&query=D'Angelo%20Grilled%20Sandwiches&query_place_id=ChIJ4wFBuQNh44kR_w-VmuBEZ2M&center=42.1724507,-70.88376459999999"
+    },
+    {
+      "name": "Montilios Bakery",
+      "distance": "2.3 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Montilios%20Bakery&query_place_id=ChIJuzIDEoOd5IkRno01QL3LWDg&center=42.1738381,-70.9505786"
+    },
+    {
+      "name": "D'Angelo Grilled Sandwiches",
+      "distance": "2.9 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=D'Angelo%20Grilled%20Sandwiches&query_place_id=ChIJsRmQ56ud5IkRjgK3xb7TECY&center=42.152155,-70.9539834"
     }
   ],
   "dinner": [

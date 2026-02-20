@@ -1,6 +1,11 @@
 {
   "quick_bite": [
     {
+      "name": "Wawa",
+      "distance": "0.1 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Wawa&query_place_id=ChIJPwPHlMjmw4kRmwnPlYKNAQQ&center=40.341871399999995,-74.659044"
+    },
+    {
       "name": "Loco Cheese",
       "distance": "0.5 mi",
       "url": "https://www.google.com/maps/search/?api=1&query=Loco%20Cheese&query_place_id=ChIJrQusuErnw4kR-SjADbjm6t4&center=40.349047999999996,-74.6627984"
@@ -21,6 +26,11 @@
       "url": "https://www.google.com/maps/search/?api=1&query=Tropical%20flavor%20chicken%20wings&query_place_id=ChIJG-fUagXnw4kRS5nnNJk21XE&center=40.3513851,-74.6597132"
     },
     {
+      "name": "Wawa",
+      "distance": "2.3 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Wawa&query_place_id=ChIJufe_aUnhw4kRcwAroGDrHe8&center=40.309672299999995,-74.66537389999999"
+    },
+    {
       "name": "Market Sandwich",
       "distance": "2.3 mi",
       "url": "https://www.google.com/maps/search/?api=1&query=Market%20Sandwich&query_place_id=ChIJZx0j7PXhw4kRdAWNXjhf8fs&center=40.309950799999996,-74.66730609999999"
@@ -29,9 +39,19 @@
       "name": "Wendy's",
       "distance": "2.4 mi",
       "url": "https://www.google.com/maps/search/?api=1&query=Wendy's&query_place_id=ChIJd06fR2vhw4kR1EwGtb2xk5w&center=40.3091418,-74.6658714"
+    },
+    {
+      "name": "Jersey Mike's Subs",
+      "distance": "2.4 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Jersey%20Mike's%20Subs&query_place_id=ChIJa08PEGzhw4kRXjg-PVUIbSk&center=40.3093453,-74.667929"
     }
   ],
   "coffee": [
+    {
+      "name": "Wawa",
+      "distance": "0.1 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Wawa&query_place_id=ChIJPwPHlMjmw4kRmwnPlYKNAQQ&center=40.341871399999995,-74.659044"
+    },
     {
       "name": "Genomics Cafe",
       "distance": "0.3 mi",
@@ -56,6 +76,26 @@
       "name": "Chemistry CaFe",
       "distance": "0.4 mi",
       "url": "https://www.google.com/maps/search/?api=1&query=Chemistry%20CaFe&query_place_id=ChIJb-dnjD7nw4kR83shHSxE23M&center=40.3437057,-74.6506163"
+    },
+    {
+      "name": "Chancellor Green Cafe",
+      "distance": "0.4 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Chancellor%20Green%20Cafe&query_place_id=ChIJS1D-3ADnw4kR1q2jvlykJyA&center=40.349039,-74.6586026"
+    },
+    {
+      "name": "Shultz Cafe",
+      "distance": "0.4 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Shultz%20Cafe&query_place_id=ChIJl6P1s17nw4kRBct2hui4wAY&center=40.3486118,-74.6545124"
+    },
+    {
+      "name": "Tiger Tea Room",
+      "distance": "0.5 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Tiger%20Tea%20Room&query_place_id=ChIJo3JZHw_nw4kRH3OSqm_xkAQ&center=40.34955060000001,-74.6572535"
+    },
+    {
+      "name": "Atrium Cafe",
+      "distance": "0.5 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Atrium%20Cafe&query_place_id=ChIJDRfeqpfnw4kRwCQGwlANiRA&center=40.349201,-74.6549308"
     }
   ],
   "team_lunch": [
@@ -63,6 +103,11 @@
       "name": "Farmer's Fridge",
       "distance": "0.5 mi",
       "url": "https://www.google.com/maps/search/?api=1&query=Farmer's%20Fridge&query_place_id=ChIJlflCmaLnw4kRG_iprHgxpj8&center=40.3494507,-74.65743069999999"
+    },
+    {
+      "name": "Nassau diner",
+      "distance": "0.5 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Nassau%20diner&query_place_id=ChIJt_PpkwDnw4kRXyl2y4_Cx8s&center=40.349723999999995,-74.6602212"
     },
     {
       "name": "ThinSlim Foods",

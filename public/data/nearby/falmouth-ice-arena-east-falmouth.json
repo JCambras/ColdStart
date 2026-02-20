@@ -1,6 +1,11 @@
 {
   "quick_bite": [
     {
+      "name": "Dunkin'",
+      "distance": "2.5 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Dunkin'&query_place_id=ChIJyWrgeg7Q5IkRF6H94EJReWg&center=41.6508292,-70.61266839999999"
+    },
+    {
       "name": "Subway",
       "distance": "3.3 mi",
       "url": "https://www.google.com/maps/search/?api=1&query=Subway&query_place_id=ChIJZT_gAz_X5IkRrIC2_YkwEDk&center=41.5667459,-70.5955773",
@@ -46,6 +51,12 @@
       "name": "Dunkin'",
       "distance": "2.5 mi",
       "url": "https://www.google.com/maps/search/?api=1&query=Dunkin'&query_place_id=ChIJyWrgeg7Q5IkRF6H94EJReWg&center=41.6508292,-70.61266839999999"
+    },
+    {
+      "name": "McDonald's",
+      "distance": "3.3 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=McDonald's&query_place_id=ChIJpTL4-T7X5IkRqkAplFqR8OQ&center=41.567265899999995,-70.5947164",
+      "isFar": true
     },
     {
       "name": "Maison Villatte",

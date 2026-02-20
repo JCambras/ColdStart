@@ -11,6 +11,11 @@
       "url": "https://www.google.com/maps/search/?api=1&query=Lisa's%20by%20the%20Pool&query_place_id=ChIJe5i5SkelyIkRBg60qLlmCG0&center=40.3000056,-76.5862616"
     },
     {
+      "name": "Dunkin'",
+      "distance": "1.8 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Dunkin'&query_place_id=ChIJ0et6PwalyIkROs_dlWKj8_8&center=40.277568599999995,-76.59988369999999"
+    },
+    {
       "name": "Wendy's",
       "distance": "2.0 mi",
       "url": "https://www.google.com/maps/search/?api=1&query=Wendy's&query_place_id=ChIJ7ylbdKOlyIkRTwuS2TyDqrk&center=40.3125451,-76.5862479"
@@ -19,6 +24,34 @@
       "name": "Subway",
       "distance": "2.1 mi",
       "url": "https://www.google.com/maps/search/?api=1&query=Subway&query_place_id=ChIJ7-3fLqOlyIkRjyGsPaaWGRI&center=40.3146845,-76.5843553"
+    },
+    {
+      "name": "Burger King",
+      "distance": "2.2 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Burger%20King&query_place_id=ChIJbVntgOulyIkRtXFkrL8mfNk&center=40.3193681,-76.5685324"
+    },
+    {
+      "name": "Arby's",
+      "distance": "2.3 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Arby's&query_place_id=ChIJVeSApu6lyIkRsXDqFi_VQ4o&center=40.3205149,-76.562837"
+    },
+    {
+      "name": "Subway",
+      "distance": "4.1 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Subway&query_place_id=ChIJSwvSOJ2oyIkRpxBA4B93m5g&center=40.3295017,-76.5152124",
+      "isFar": true
+    },
+    {
+      "name": "Subway",
+      "distance": "4.2 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Subway&query_place_id=ChIJg2cxby67yIkRQhMF6TJfpUQ&center=40.2937722,-76.6486407",
+      "isFar": true
+    },
+    {
+      "name": "Wendy's",
+      "distance": "4.4 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Wendy's&query_place_id=ChIJ6bf0BDC7yIkRctTyvtLNrkA&center=40.2940949,-76.65171149999999",
+      "isFar": true
     }
   ],
   "coffee": [
@@ -43,6 +76,11 @@
       "url": "https://www.google.com/maps/search/?api=1&query=Corner%20Cafe%20Palmyra%2C%20PA&query_place_id=ChIJD1SBDhilyIkR21RXlkwebYI&center=40.3085257,-76.5932478"
     },
     {
+      "name": "McDonald's",
+      "distance": "2.0 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=McDonald's&query_place_id=ChIJ7-3fLqOlyIkRKLK3QzSf0jc&center=40.314094999999995,-76.5831"
+    },
+    {
       "name": "Whirling Dervish Bakery & Coffee Shop",
       "distance": "4.0 mi",
       "url": "https://www.google.com/maps/search/?api=1&query=Whirling%20Dervish%20Bakery%20%26%20Coffee%20Shop&query_place_id=ChIJXwiYgWGpyIkRJTQnmoMUxEo&center=40.3288327,-76.51693000000002",
@@ -54,6 +92,16 @@
       "name": "Roma Pizza",
       "distance": "2.0 mi",
       "url": "https://www.google.com/maps/search/?api=1&query=Roma%20Pizza&query_place_id=ChIJBTHx_gelyIkR9IxdBQ0XWc8&center=40.307235899999995,-76.5954476"
+    },
+    {
+      "name": "Royal Crumble Cookies & Confections",
+      "distance": "2.2 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Royal%20Crumble%20Cookies%20%26%20Confections&query_place_id=ChIJP05MNWylyIkRmUfgsWRv9SI&center=40.314682999999995,-76.5893329"
+    },
+    {
+      "name": "Walmart Bakery",
+      "distance": "2.5 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Walmart%20Bakery&query_place_id=ChIJAQAAz--lyIkRoJHhtG_8OiE&center=40.3225648,-76.56319409999999"
     }
   ],
   "dinner": [

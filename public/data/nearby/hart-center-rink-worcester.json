@@ -11,6 +11,16 @@
       "url": "https://www.google.com/maps/search/?api=1&query=Subway&query_place_id=ChIJTzDYrsQF5IkRL_2DHCjwFEo&center=42.237769899999996,-71.792873"
     },
     {
+      "name": "Dunkin'",
+      "distance": "0.7 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Dunkin'&query_place_id=ChIJPUYMfdsF5IkRWpNzpQoIHsA&center=42.237795899999995,-71.7928426"
+    },
+    {
+      "name": "Dunkin'",
+      "distance": "0.8 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Dunkin'&query_place_id=ChIJYeV0oEoF5IkRUlf_a5TQdgU&center=42.2458086,-71.8099416"
+    },
+    {
       "name": "Subway",
       "distance": "0.8 mi",
       "url": "https://www.google.com/maps/search/?api=1&query=Subway&query_place_id=ChIJTwgzzcMF5IkR2stONSOnv_A&center=42.2333171,-71.791573"
@@ -19,6 +29,16 @@
       "name": "Crown Fried Chicken",
       "distance": "0.9 mi",
       "url": "https://www.google.com/maps/search/?api=1&query=Crown%20Fried%20Chicken&query_place_id=ChIJKUeEUwMF5IkRqjzEbGR_Nio&center=42.247109099999996,-71.8004021"
+    },
+    {
+      "name": "Subway",
+      "distance": "1.1 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Subway&query_place_id=ChIJqbjB0X8G5IkRD59oia_eKoo&center=42.2512822,-71.8089882"
+    },
+    {
+      "name": "Cluck & Crispy Chicken",
+      "distance": "1.1 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Cluck%20%26%20Crispy%20Chicken&query_place_id=ChIJB7S4K2MF5IkRklgYhP5mGIc&center=42.2430946,-71.8263393"
     }
   ],
   "coffee": [
@@ -36,6 +56,11 @@
       "name": "Dunkin'",
       "distance": "0.8 mi",
       "url": "https://www.google.com/maps/search/?api=1&query=Dunkin'&query_place_id=ChIJYeV0oEoF5IkRUlf_a5TQdgU&center=42.2458086,-71.8099416"
+    },
+    {
+      "name": "McDonald's",
+      "distance": "1.3 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=McDonald's&query_place_id=ChIJh8o3oyYE5IkRBR1QBk1Yw5E&center=42.247715899999996,-71.82612139999999"
     }
   ],
   "team_lunch": [
@@ -58,6 +83,26 @@
       "name": "Joyful Way Restaurant",
       "distance": "0.7 mi",
       "url": "https://www.google.com/maps/search/?api=1&query=Joyful%20Way%20Restaurant&query_place_id=ChIJd8OCi9oF5IkR_UX_C-FuTDc&center=42.232629599999996,-71.7943982"
+    },
+    {
+      "name": "Walmart Bakery",
+      "distance": "0.8 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Walmart%20Bakery&query_place_id=ChIJVVUWh8MF5IkRJGj9eCtH1Xg&center=42.2341222,-71.7917654"
+    },
+    {
+      "name": "Elmer Fudd's pizza",
+      "distance": "0.8 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Elmer%20Fudd's%20pizza&query_place_id=ChIJuZ63PPYF5IkRMuBMO7qd9_M&center=42.24548250000001,-71.80118879999999"
+    },
+    {
+      "name": "Table Talk Pies",
+      "distance": "1.1 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Table%20Talk%20Pies&query_place_id=ChIJQYj4-csF5IkRziwJ8NY3j5M&center=42.2494643,-71.816255"
+    },
+    {
+      "name": "Jennifer Lee's Gourmet Bakery Worcester",
+      "distance": "1.2 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Jennifer%20Lee's%20Gourmet%20Bakery%20Worcester&query_place_id=ChIJORDaei8H5IkR3imqp9HHf70&center=42.2437624,-71.8258726"
     }
   ],
   "dinner": [

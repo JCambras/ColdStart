@@ -6,9 +6,19 @@
       "url": "https://www.google.com/maps/search/?api=1&query=Taco%20Bell&query_place_id=ChIJVU38gs0P04kRuLRQwAUapBE&center=42.832392899999995,-78.7531956"
     },
     {
+      "name": "Dunkin'",
+      "distance": "0.3 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Dunkin'&query_place_id=ChIJsfr5hskO04kRzCJyg4GOFWI&center=42.831251599999995,-78.7531796"
+    },
+    {
       "name": "Subway",
       "distance": "0.4 mi",
       "url": "https://www.google.com/maps/search/?api=1&query=Subway&query_place_id=ChIJBQPMp84O04kRAGi5wMFYhz8&center=42.8283493,-78.75557549999999"
+    },
+    {
+      "name": "Tim Hortons",
+      "distance": "0.5 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Tim%20Hortons&query_place_id=ChIJ6emUg7EO04kRKySp6FiXXKQ&center=42.840764899999996,-78.75379"
     },
     {
       "name": "Just Pizza",
@@ -24,6 +34,21 @@
       "name": "Wendy's",
       "distance": "1.1 mi",
       "url": "https://www.google.com/maps/search/?api=1&query=Wendy's&query_place_id=ChIJCY09xe4O04kRJ026--0I-Ks&center=42.829084800000004,-78.777039"
+    },
+    {
+      "name": "Burger King",
+      "distance": "1.1 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Burger%20King&query_place_id=ChIJO5zCCyEP04kRI9pN80ZSGjU&center=42.8290362,-78.7775198"
+    },
+    {
+      "name": "ZENSHI Handcrafted Sushi",
+      "distance": "1.4 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=ZENSHI%20Handcrafted%20Sushi&query_place_id=ChIJq_G_MakP04kRcl9nHky-dY4&center=42.8328272,-78.78397919999999"
+    },
+    {
+      "name": "Subway",
+      "distance": "1.4 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Subway&query_place_id=ChIJIdaaFvAO04kRM_nu7xn1C9E&center=42.829345499999995,-78.78327949999999"
     }
   ],
   "coffee": [
@@ -31,6 +56,11 @@
       "name": "Spot Coffee Express Cafe",
       "distance": "0.1 mi",
       "url": "https://www.google.com/maps/search/?api=1&query=Spot%20Coffee%20Express%20Cafe&query_place_id=ChIJI3RgoMsP04kR9anILI6k3Z0&center=42.8353262,-78.754479"
+    },
+    {
+      "name": "McDonald's",
+      "distance": "0.2 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=McDonald's&query_place_id=ChIJAcysjckO04kRIL8tWYLR9cU&center=42.831289,-78.7541241"
     },
     {
       "name": "Dunkin'",
@@ -51,6 +81,16 @@
       "name": "Paula's Donuts",
       "distance": "0.6 mi",
       "url": "https://www.google.com/maps/search/?api=1&query=Paula's%20Donuts&query_place_id=ChIJlwz7gc4O04kR4SYIr_f9E4o&center=42.8259498,-78.75397339999999"
+    },
+    {
+      "name": "McDonald's",
+      "distance": "2.4 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=McDonald's&query_place_id=ChIJXdNnKEUO04kR1HgFVnuYZxg&center=42.8309356,-78.80482359999999"
+    },
+    {
+      "name": "McDonald's",
+      "distance": "2.6 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=McDonald's&query_place_id=ChIJQ3AySzQP04kRKwgquZTfp1U&center=42.7970698,-78.75230599999999"
     }
   ],
   "team_lunch": [
@@ -63,11 +103,6 @@
       "name": "Jim's Steakout",
       "distance": "0.3 mi",
       "url": "https://www.google.com/maps/search/?api=1&query=Jim's%20Steakout&query_place_id=ChIJtROqDskO04kRQtzahlAKS04&center=42.830495,-78.75498"
-    },
-    {
-      "name": "Applebee's Grill + Bar",
-      "distance": "0.4 mi",
-      "url": "https://www.google.com/maps/search/?api=1&query=Applebee's%20Grill%20%2B%20Bar&query_place_id=ChIJ49n8tM4O04kRbWn22JxM-C0&center=42.828277,-78.7544739"
     },
     {
       "name": "Legacy Sports Bar & Papa’s Pizza Oven",

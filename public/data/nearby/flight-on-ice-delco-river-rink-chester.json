@@ -29,6 +29,26 @@
       "name": "Beer and Delicious",
       "distance": "1.3 mi",
       "url": "https://www.google.com/maps/search/?api=1&query=Beer%20and%20Delicious&query_place_id=ChIJy0Ifd1_nxokR5X1-UdwqSgM&center=39.8637084,-75.36687429999999"
+    },
+    {
+      "name": "Smash2Go",
+      "distance": "1.3 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Smash2Go&query_place_id=ChIJM2NyTtLnxokR2AObW56NqF8&center=39.858129999999996,-75.3719387"
+    },
+    {
+      "name": "NY HALAL FOOD TRUCK # 1",
+      "distance": "1.4 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=NY%20HALAL%20FOOD%20TRUCK%20%23%201&query_place_id=ChIJZVuB4c3nxokRZpAq6JztuHc&center=39.8642434,-75.3690697"
+    },
+    {
+      "name": "Wawa",
+      "distance": "1.4 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Wawa&query_place_id=ChIJ2fsTeA_oxokRQDXEA2QCBWo&center=39.870629799999996,-75.3535559"
+    },
+    {
+      "name": "Taco Bell",
+      "distance": "1.9 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Taco%20Bell&query_place_id=ChIJ01fliR7oxokR942U4pNI_O0&center=39.877944,-75.3441887"
     }
   ],
   "coffee": [
@@ -36,6 +56,21 @@
       "name": "Penn Cafe’",
       "distance": "0.6 mi",
       "url": "https://www.google.com/maps/search/?api=1&query=Penn%20Cafe%E2%80%99&query_place_id=ChIJ2SCLGKXnxokRTzam3DsJPdY&center=39.848065399999996,-75.3600909"
+    },
+    {
+      "name": "McDonald's",
+      "distance": "1.2 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=McDonald's&query_place_id=ChIJB0L-8QHoxokR-ssw6XcSuPs&center=39.8658758,-75.3417693"
+    },
+    {
+      "name": "Wawa",
+      "distance": "1.4 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Wawa&query_place_id=ChIJ2fsTeA_oxokRQDXEA2QCBWo&center=39.870629799999996,-75.3535559"
+    },
+    {
+      "name": "McDonald's",
+      "distance": "2.0 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=McDonald's&query_place_id=ChIJXUutWB7oxokRisAMbY4m2Hg&center=39.8786603,-75.3442034"
     }
   ],
   "team_lunch": [
@@ -48,11 +83,6 @@
       "name": "Cove Steakhouse & Raw Bar",
       "distance": "0.1 mi",
       "url": "https://www.google.com/maps/search/?api=1&query=Cove%20Steakhouse%20%26%20Raw%20Bar&query_place_id=ChIJKzuEwPDnxokRwWCLva6GYIA&center=39.850273099999995,-75.3488845"
-    },
-    {
-      "name": "C-Bar Harrah's Philadelphia",
-      "distance": "0.1 mi",
-      "url": "https://www.google.com/maps/search/?api=1&query=C-Bar%20Harrah's%20Philadelphia&query_place_id=ChIJXV1QSTznxokR2PfkDVIojio&center=39.8510843,-75.34836"
     },
     {
       "name": "Mien Noodles Asian Restaurant",
@@ -68,6 +98,31 @@
       "name": "T & T Backroom Steakhouse",
       "distance": "0.2 mi",
       "url": "https://www.google.com/maps/search/?api=1&query=T%20%26%20T%20Backroom%20Steakhouse&query_place_id=ChIJB8fVuDznxokRykIRmJxPg4o&center=39.8519675,-75.3471485"
+    },
+    {
+      "name": "Goldo Pleta & Jannet Frappes",
+      "distance": "0.3 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Goldo%20Pleta%20%26%20Jannet%20Frappes&query_place_id=ChIJaYhJzn4fJIkRCTZtU67mZzI&center=39.8549077,-75.352293"
+    },
+    {
+      "name": "Big Reds Kitchen",
+      "distance": "0.4 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Big%20Reds%20Kitchen&query_place_id=ChIJxxVqzf3nxokRh-iprjZN4Zk&center=39.856390999999995,-75.35115429999999"
+    },
+    {
+      "name": "Grab Your Wings",
+      "distance": "0.4 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Grab%20Your%20Wings&query_place_id=ChIJeYrl-OfnxokR5QqGRkh6K7U&center=39.856390999999995,-75.35115429999999"
+    },
+    {
+      "name": "Fatim's kitchen",
+      "distance": "0.5 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Fatim's%20kitchen&query_place_id=ChIJwXVAoD_nxokReZSJdjvAb3w&center=39.8495567,-75.359315"
+    },
+    {
+      "name": "Terrell's Restaurant in Chester",
+      "distance": "0.6 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Terrell's%20Restaurant%20in%20Chester&query_place_id=ChIJaR5zEdLnxokR5brBVOg0-_I&center=39.8477097,-75.3595331"
     }
   ],
   "dinner": [

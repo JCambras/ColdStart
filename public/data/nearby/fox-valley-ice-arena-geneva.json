@@ -16,9 +16,9 @@
       "url": "https://www.google.com/maps/search/?api=1&query=Munchie%20P's%20Eatery&query_place_id=ChIJ3RY2yBL9DogRAVn-TQvHd6c&center=41.8868486,-88.2963171"
     },
     {
-      "name": "Geneva Masonic Lodge",
-      "distance": "1.7 mi",
-      "url": "https://www.google.com/maps/search/?api=1&query=Geneva%20Masonic%20Lodge&query_place_id=ChIJQ-DDeED9DogRo6r8ZkijieM&center=41.887451899999995,-88.3067497"
+      "name": "Dunkin'",
+      "distance": "1.3 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Dunkin'&query_place_id=ChIJPeiFF0T9DogRS5KozKygAHo&center=41.8864204,-88.29870249999999"
     },
     {
       "name": "Bulldogs Red Hots",
@@ -27,6 +27,11 @@
     }
   ],
   "coffee": [
+    {
+      "name": "McDonald's",
+      "distance": "1.0 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=McDonald's&query_place_id=ChIJqVXRgZ_9DogRWtN-Vc5Vq9Y&center=41.8869495,-88.28247089999999"
+    },
     {
       "name": "Mrs. Fields",
       "distance": "1.0 mi",
@@ -46,6 +51,21 @@
       "name": "Dimples Donuts",
       "distance": "1.6 mi",
       "url": "https://www.google.com/maps/search/?api=1&query=Dimples%20Donuts&query_place_id=ChIJJWpb_-r8DogRvgpHEpeXnQg&center=41.8516895,-88.2916981"
+    },
+    {
+      "name": "HEY SUGAR",
+      "distance": "1.6 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=HEY%20SUGAR&query_place_id=ChIJPREnVwH9DogR7fVbGBNByWg&center=41.8826934,-88.3089066"
+    },
+    {
+      "name": "Gather Bakery",
+      "distance": "1.8 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Gather%20Bakery&query_place_id=ChIJSZ3aD6j9DogRX40C7p-c-5E&center=41.8881644,-88.3085693"
+    },
+    {
+      "name": "McDonald's",
+      "distance": "2.2 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=McDonald's&query_place_id=ChIJJdxULMH8DogRp1iuvM0V-H8&center=41.8504193,-88.3092535"
     }
   ],
   "team_lunch": [

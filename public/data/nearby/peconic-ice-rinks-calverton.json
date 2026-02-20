@@ -41,6 +41,12 @@
       "name": "Tweets Ice Cream Café",
       "distance": "1.8 mi",
       "url": "https://www.google.com/maps/search/?api=1&query=Tweets%20Ice%20Cream%20Caf%C3%A9&query_place_id=ChIJzb9vGQRn6IkRFl9cxzjeCiM&center=40.9453479,-72.8203935"
+    },
+    {
+      "name": "McDonald's",
+      "distance": "3.7 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=McDonald's&query_place_id=ChIJ58csq0xf6IkRdT1EWH4oVOI&center=40.8688205,-72.7945265",
+      "isFar": true
     }
   ],
   "team_lunch": [
@@ -73,6 +79,12 @@
       "name": "Bagel Palace",
       "distance": "3.7 mi",
       "url": "https://www.google.com/maps/search/?api=1&query=Bagel%20Palace&query_place_id=ChIJw-dO_KRe6IkRJtFLgtZyyiU&center=40.8683371,-72.7945166",
+      "isFar": true
+    },
+    {
+      "name": "Bagel Lady Cafe",
+      "distance": "4.5 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Bagel%20Lady%20Cafe&query_place_id=ChIJs3GjAVVd6IkRzAV6Kwu5pVw&center=40.946999399999996,-72.8945844",
       "isFar": true
     }
   ],

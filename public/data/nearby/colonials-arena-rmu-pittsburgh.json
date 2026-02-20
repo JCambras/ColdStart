@@ -30,6 +30,30 @@
       "distance": "3.2 mi",
       "url": "https://www.google.com/maps/search/?api=1&query=Subway&query_place_id=ChIJ781CmcpdNIgRkJ8cPk8vhM0&center=40.5053955,-80.20922879999999",
       "isFar": true
+    },
+    {
+      "name": "Burger King",
+      "distance": "3.5 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Burger%20King&query_place_id=ChIJd0n11w5eNIgRmf_DWrv3f6Q&center=40.5218768,-80.218032",
+      "isFar": true
+    },
+    {
+      "name": "Chick-fil-A",
+      "distance": "3.6 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Chick-fil-A&query_place_id=ChIJjzJ6JgBdNIgRW9dHTrLhUiY&center=40.5170283,-80.21843369999999",
+      "isFar": true
+    },
+    {
+      "name": "Jimmy John's",
+      "distance": "3.6 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Jimmy%20John's&query_place_id=ChIJn1O9hQddNIgR11TnYeOtYJA&center=40.515506300000006,-80.2196499",
+      "isFar": true
+    },
+    {
+      "name": "Giant Eagle Prepared Foods",
+      "distance": "3.7 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Giant%20Eagle%20Prepared%20Foods&query_place_id=ChIJs2_oLr1dNIgRdIAO8Z6Uj28&center=40.521746900000004,-80.2204544",
+      "isFar": true
     }
   ],
   "coffee": [
@@ -49,6 +73,11 @@
       "url": "https://www.google.com/maps/search/?api=1&query=Cafe%20A%20Mano&query_place_id=ChIJKzfcvEheNIgRrBAUCtW9Oqk&center=40.5140927,-80.15325059999999"
     },
     {
+      "name": "McDonald's",
+      "distance": "0.7 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=McDonald's&query_place_id=ChIJo2GXZUBeNIgRFJQOfej24Y0&center=40.517860999999996,-80.1631057"
+    },
+    {
       "name": "Anchor & Anvil Coffee Bar",
       "distance": "0.7 mi",
       "url": "https://www.google.com/maps/search/?api=1&query=Anchor%20%26%20Anvil%20Coffee%20Bar&query_place_id=ChIJLc7oT0BeNIgRdJ-uyYTPBJU&center=40.5169391,-80.1630852"
@@ -57,6 +86,23 @@
       "name": "Queen Beans Cafe",
       "distance": "0.8 mi",
       "url": "https://www.google.com/maps/search/?api=1&query=Queen%20Beans%20Cafe&query_place_id=ChIJL_YvgchfNIgRbqwPL3MGLKE&center=40.5182293,-80.1666872"
+    },
+    {
+      "name": "Bruegger's Bagels",
+      "distance": "2.2 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Bruegger's%20Bagels&query_place_id=ChIJyQyrqj9nNIgRtkUKmdcTerc&center=40.540638099999995,-80.18116909999999"
+    },
+    {
+      "name": "Bruegger's Bagels",
+      "distance": "3.2 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Bruegger's%20Bagels&query_place_id=ChIJNbEMmMpdNIgRYjUv4QzMR-A&center=40.50525,-80.2085704",
+      "isFar": true
+    },
+    {
+      "name": "McDonald's",
+      "distance": "3.6 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=McDonald's&query_place_id=ChIJBY0sDbtdNIgRIpQurRm1SCo&center=40.5169546,-80.2195079",
+      "isFar": true
     }
   ],
   "team_lunch": [
@@ -84,6 +130,12 @@
       "name": "Chalk Hill Confections",
       "distance": "3.0 mi",
       "url": "https://www.google.com/maps/search/?api=1&query=Chalk%20Hill%20Confections&query_place_id=ChIJ_QWsR-1fNIgRx8tYTdArNX8&center=40.4780808,-80.1690878"
+    },
+    {
+      "name": "Walmart Bakery",
+      "distance": "3.9 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Walmart%20Bakery&query_place_id=ChIJq6qqpqVdNIgRugXtMfaW24c&center=40.515601499999995,-80.2241145",
+      "isFar": true
     }
   ],
   "dinner": [

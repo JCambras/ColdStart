@@ -1,6 +1,11 @@
 {
   "quick_bite": [
     {
+      "name": "Dunkin'",
+      "distance": "0.4 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Dunkin'&query_place_id=ChIJ-0kawaam44kR1mqOdvYDLbM&center=42.630906599999996,-71.2824972"
+    },
+    {
       "name": "Jillies Roast Beef & Pizza",
       "distance": "0.4 mi",
       "url": "https://www.google.com/maps/search/?api=1&query=Jillies%20Roast%20Beef%20%26%20Pizza&query_place_id=ChIJ2xT526am44kRXueaBTqMMN0&center=42.631597,-71.283222"
@@ -19,9 +24,39 @@
       "name": "Burger King",
       "distance": "0.7 mi",
       "url": "https://www.google.com/maps/search/?api=1&query=Burger%20King&query_place_id=ChIJhWJYIrqm44kRG1pQgBv_uHQ&center=42.626313499999995,-71.2696323"
+    },
+    {
+      "name": "Dunkin'",
+      "distance": "0.9 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Dunkin'&query_place_id=ChIJc4k_Q46m44kRaNHl_o6yl-k&center=42.6462885,-71.2703992"
+    },
+    {
+      "name": "Subway",
+      "distance": "0.9 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Subway&query_place_id=ChIJtYGrJ7em44kRlDp5gJmxgUc&center=42.6228323,-71.2697958"
+    },
+    {
+      "name": "Rath's Beef Chips",
+      "distance": "1.0 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Rath's%20Beef%20Chips&query_place_id=ChIJoWEpfwKl44kRQnvf7ezBkWk&center=42.624064,-71.28818199999999"
+    },
+    {
+      "name": "Lizardo’s Market and Restaurant",
+      "distance": "1.6 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Lizardo%E2%80%99s%20Market%20and%20Restaurant&query_place_id=ChIJhYbhWoal44kRK3bf1CGyqMA&center=42.6397312,-71.3072605"
+    },
+    {
+      "name": "Sandwich King",
+      "distance": "1.7 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Sandwich%20King&query_place_id=ChIJVwZeCzqk44kR1MQ-JIgyeV8&center=42.649707,-71.3036582"
     }
   ],
   "coffee": [
+    {
+      "name": "McDonald's",
+      "distance": "0.4 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=McDonald's&query_place_id=ChIJMQHj2qSm44kRXwJWRf0xGr0&center=42.62935720000001,-71.2766133"
+    },
     {
       "name": "Dunkin'",
       "distance": "0.4 mi",
@@ -50,14 +85,14 @@
   ],
   "team_lunch": [
     {
-      "name": "Applebee's Grill + Bar",
-      "distance": "0.6 mi",
-      "url": "https://www.google.com/maps/search/?api=1&query=Applebee's%20Grill%20%2B%20Bar&query_place_id=ChIJDe8gPLqm44kRiANXBbQRXHI&center=42.626854099999996,-71.2707526"
-    },
-    {
       "name": "IHOP",
       "distance": "0.8 mi",
       "url": "https://www.google.com/maps/search/?api=1&query=IHOP&query_place_id=ChIJJf5j8rmm44kRMIN3r5aZTCQ&center=42.6254224,-71.2686281"
+    },
+    {
+      "name": "Walmart Bakery",
+      "distance": "0.9 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Walmart%20Bakery&query_place_id=ChIJq6qqK7Gm44kR1sOpNVtyrxs&center=42.622805199999995,-71.2697883"
     },
     {
       "name": "Sugar Sparks Bakery, LLC",

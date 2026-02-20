@@ -3,28 +3,28 @@
     {
       "name": "Subway",
       "distance": "0.3 mi",
-      "url": "https://www.google.com/maps/search/Subway+near+39.699517400000005%2C-79.1564925"
+      "url": "https://www.google.com/maps/search/?api=1&query=Subway&query_place_id=ChIJK7Ogpku6yokRpn28hPpyo2Q&center=39.6947063,-79.1575478"
     },
     {
       "name": "Burger King",
       "distance": "2.8 mi",
-      "url": "https://www.google.com/maps/search/Burger%20King+near+39.699517400000005%2C-79.1564925"
+      "url": "https://www.google.com/maps/search/?api=1&query=Burger%20King&query_place_id=ChIJkSHm9XS8yokRwFjz1xJ33Zk&center=39.6910544,-79.1040368"
     },
     {
       "name": "Little Caesars Pizza",
       "distance": "2.9 mi",
-      "url": "https://www.google.com/maps/search/Little%20Caesars%20Pizza+near+39.699517400000005%2C-79.1564925"
+      "url": "https://www.google.com/maps/search/?api=1&query=Little%20Caesars%20Pizza&query_place_id=ChIJ68CXenO8yokRxe42h9lm3h0&center=39.691702,-79.103715"
     },
     {
       "name": "PJ Fresh Marketplace",
       "distance": "3.0 mi",
-      "url": "https://www.google.com/maps/search/PJ%20Fresh%20Marketplace+near+39.699517400000005%2C-79.1564925",
+      "url": "https://www.google.com/maps/search/?api=1&query=PJ%20Fresh%20Marketplace&query_place_id=ChIJ3cO83JG9yokRCboS0R3YBRg&center=39.6922304,-79.1002932",
       "isFar": true
     },
     {
       "name": "Arby's",
       "distance": "3.0 mi",
-      "url": "https://www.google.com/maps/search/Arby's+near+39.699517400000005%2C-79.1564925",
+      "url": "https://www.google.com/maps/search/?api=1&query=Arby's&query_place_id=ChIJUy-H0HK8yokRDFBpAb-dwYo&center=39.6922426,-79.1002133",
       "isFar": true
     }
   ],
@@ -32,12 +32,18 @@
     {
       "name": "The Travel Mug",
       "distance": "0.1 mi",
-      "url": "https://www.google.com/maps/search/The%20Travel%20Mug+near+39.699517400000005%2C-79.1564925"
+      "url": "https://www.google.com/maps/search/?api=1&query=The%20Travel%20Mug&query_place_id=ChIJD3QfOXm7yokR8wKafkNjWnw&center=39.6979137,-79.15743270000002"
     },
     {
       "name": "Dawdy Haus Coffee",
       "distance": "4.0 mi",
-      "url": "https://www.google.com/maps/search/Dawdy%20Haus%20Coffee+near+39.699517400000005%2C-79.1564925",
+      "url": "https://www.google.com/maps/search/?api=1&query=Dawdy%20Haus%20Coffee&query_place_id=ChIJTcALvDK5yokR9LFOCBwDbTY&center=39.7444267,-79.11045829999999",
+      "isFar": true
+    },
+    {
+      "name": "McDonald's",
+      "distance": "4.8 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=McDonald's&query_place_id=ChIJxbQg9wKxyokRAGl0596ydAA&center=39.6941073,-79.246822",
       "isFar": true
     }
   ],
@@ -45,7 +51,7 @@
     {
       "name": "IHOP",
       "distance": "2.9 mi",
-      "url": "https://www.google.com/maps/search/IHOP+near+39.699517400000005%2C-79.1564925"
+      "url": "https://www.google.com/maps/search/?api=1&query=IHOP&query_place_id=ChIJp7ksh3O8yokRGoqKFrpNQ5s&center=39.691443799999995,-79.10386820000001"
     }
   ],
   "dinner": [

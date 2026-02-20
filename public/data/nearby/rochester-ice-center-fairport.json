@@ -29,6 +29,29 @@
       "name": "Taco Bell",
       "distance": "2.7 mi",
       "url": "https://www.google.com/maps/search/?api=1&query=Taco%20Bell&query_place_id=ChIJURgaa1cz0YkREZdbxPtT61I&center=43.068796999999996,-77.44447459999999"
+    },
+    {
+      "name": "Taco Bell",
+      "distance": "2.8 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Taco%20Bell&query_place_id=ChIJnRHdGq0t0YkR4l70QUyhDlY&center=43.0650584,-77.36065479999999"
+    },
+    {
+      "name": "Taco Bell",
+      "distance": "3.3 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Taco%20Bell&query_place_id=ChIJI0U-GUfN1okRoq7bYhLsnsk&center=43.1299342,-77.44194700000001",
+      "isFar": true
+    },
+    {
+      "name": "Subway",
+      "distance": "3.4 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Subway&query_place_id=ChIJx7qhBqvM1okRk2lN0cWYQSs&center=43.102661999999995,-77.46684139999999",
+      "isFar": true
+    },
+    {
+      "name": "Jersey Mike's Subs",
+      "distance": "3.5 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Jersey%20Mike's%20Subs&query_place_id=ChIJ_-skuoXN1okRsBqePAnEpCI&center=43.1328482,-77.44280049999999",
+      "isFar": true
     }
   ],
   "coffee": [
@@ -38,9 +61,20 @@
       "url": "https://www.google.com/maps/search/?api=1&query=Starbucks%20Coffee%20Company&query_place_id=ChIJIwiK9ZHN1okRGu-iSHCxejo&center=43.09982,-77.44212999999999"
     },
     {
+      "name": "McDonald's",
+      "distance": "2.5 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=McDonald's&query_place_id=ChIJWQvLuBEz0YkR7nGTRFOB3T0&center=43.0696164,-77.44109279999999"
+    },
+    {
       "name": "Bruegger's Bagels",
       "distance": "2.6 mi",
       "url": "https://www.google.com/maps/search/?api=1&query=Bruegger's%20Bagels&query_place_id=ChIJz8nPDxIz0YkRVX1-s4LZ9MM&center=43.0708962,-77.4435486"
+    },
+    {
+      "name": "McDonald's",
+      "distance": "3.3 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=McDonald's&query_place_id=ChIJF3vhD2_L1okRmVGt-VjrmE4&center=43.1303992,-77.440713",
+      "isFar": true
     },
     {
       "name": "Bruegger's Bagels",
@@ -66,11 +100,6 @@
       "url": "https://www.google.com/maps/search/?api=1&query=Golden%20Phoenix&query_place_id=ChIJCy-jjvoy0YkRoVB0gWjVm5s&center=43.064635599999995,-77.41391229999999"
     },
     {
-      "name": "Bonnie & Clyde",
-      "distance": "2.1 mi",
-      "url": "https://www.google.com/maps/search/?api=1&query=Bonnie%20%26%20Clyde&query_place_id=ChIJ456HWgDN1okRpbBKr7320HU&center=43.099948000000005,-77.4422915"
-    },
-    {
       "name": "Tita's Little Bakehouse",
       "distance": "3.1 mi",
       "url": "https://www.google.com/maps/search/?api=1&query=Tita's%20Little%20Bakehouse&query_place_id=ChIJ0yzUSksz0YkRhTbgrF8vLCs&center=43.0637147,-77.44832559999999",
@@ -80,6 +109,12 @@
       "name": "Sugar Art by Laura",
       "distance": "3.3 mi",
       "url": "https://www.google.com/maps/search/?api=1&query=Sugar%20Art%20by%20Laura&query_place_id=ChIJuXT8wjbmUUIRg9JS2ghT37A&center=43.0733305,-77.4619307",
+      "isFar": true
+    },
+    {
+      "name": "Bakewise Brands Inc",
+      "distance": "4.2 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Bakewise%20Brands%20Inc&query_place_id=ChIJ5T38fwAt0YkRooToICAAwIE&center=43.0675913,-77.3249393",
       "isFar": true
     }
   ],

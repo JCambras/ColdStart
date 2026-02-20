@@ -3,57 +3,93 @@
     {
       "name": "Subway",
       "distance": "0.2 mi",
-      "url": "https://www.google.com/maps/search/Subway+near+42.2813072%2C-83.7775152"
+      "url": "https://www.google.com/maps/search/?api=1&query=Subway&query_place_id=ChIJMfDIl8axPIgRFg3mpo_v748&center=42.278143,-83.7790404"
     },
     {
       "name": "Jersey Mike's Subs",
       "distance": "0.3 mi",
-      "url": "https://www.google.com/maps/search/Jersey%20Mike's%20Subs+near+42.2813072%2C-83.7775152"
+      "url": "https://www.google.com/maps/search/?api=1&query=Jersey%20Mike's%20Subs&query_place_id=ChIJi4wZlMCxPIgRKiijr1dEFFc&center=42.2798012,-83.7828317"
     },
     {
       "name": "SNOWFOX Sushi",
       "distance": "0.3 mi",
-      "url": "https://www.google.com/maps/search/SNOWFOX%20Sushi+near+42.2813072%2C-83.7775152"
+      "url": "https://www.google.com/maps/search/?api=1&query=SNOWFOX%20Sushi&query_place_id=ChIJ-wlmrg-xPIgRwgxTpD8l1SY&center=42.2775968,-83.7821475"
+    },
+    {
+      "name": "Taco Bell",
+      "distance": "0.4 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Taco%20Bell&query_place_id=ChIJ2UQY3cWxPIgRzYI8z5HbVzI&center=42.2760418,-83.7775008"
+    },
+    {
+      "name": "Izzy's Hoagie Shop",
+      "distance": "0.8 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Izzy's%20Hoagie%20Shop&query_place_id=ChIJARalF9KxPIgRhH5-DV9S9-g&center=42.269729999999996,-83.772488"
+    },
+    {
+      "name": "Subway",
+      "distance": "0.9 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Subway&query_place_id=ChIJqXClf_KxPIgRLJ1_9hrAy8Y&center=42.2945762,-83.7812967"
+    },
+    {
+      "name": "EJ’s! Gourmet Street Cuisine",
+      "distance": "1.3 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=EJ%E2%80%99s!%20Gourmet%20Street%20Cuisine&query_place_id=ChIJYTtPCQCvPIgRb6urQHRrPPw&center=42.2802523,-83.7513779"
     }
   ],
   "coffee": [
     {
       "name": "BIGGBY COFFEE",
       "distance": "0.2 mi",
-      "url": "https://www.google.com/maps/search/BIGGBY%20COFFEE+near+42.2813072%2C-83.7775152"
+      "url": "https://www.google.com/maps/search/?api=1&query=BIGGBY%20COFFEE&query_place_id=ChIJXW2YyMaxPIgRI_lQtDAAKR8&center=42.2796765,-83.7797866"
     },
     {
       "name": "Zingerman's Roadhouse",
       "distance": "0.2 mi",
-      "url": "https://www.google.com/maps/search/Zingerman's%20Roadhouse+near+42.2813072%2C-83.7775152"
+      "url": "https://www.google.com/maps/search/?api=1&query=Zingerman's%20Roadhouse&query_place_id=ChIJTQuF4cCxPIgR6H_8jbqyg88&center=42.279986099999995,-83.7809722"
     },
     {
       "name": "Qahwah House - Ann Arbor",
       "distance": "0.3 mi",
-      "url": "https://www.google.com/maps/search/Qahwah%20House%20-%20Ann%20Arbor+near+42.2813072%2C-83.7775152"
+      "url": "https://www.google.com/maps/search/?api=1&query=Qahwah%20House%20-%20Ann%20Arbor&query_place_id=ChIJJQhkEQCxPIgRXc1GWw4tp8A&center=42.2835355,-83.781573"
     },
     {
       "name": "Tous Les Jours Ann Arbor",
       "distance": "0.3 mi",
-      "url": "https://www.google.com/maps/search/Tous%20Les%20Jours%20Ann%20Arbor+near+42.2813072%2C-83.7775152"
+      "url": "https://www.google.com/maps/search/?api=1&query=Tous%20Les%20Jours%20Ann%20Arbor&query_place_id=ChIJGUAQSRaxPIgRGLmFC52MmdA&center=42.2785047,-83.7812014"
     },
     {
       "name": "Star's Cafe",
       "distance": "0.3 mi",
-      "url": "https://www.google.com/maps/search/Star's%20Cafe+near+42.2813072%2C-83.7775152"
+      "url": "https://www.google.com/maps/search/?api=1&query=Star's%20Cafe&query_place_id=ChIJOxnOlsCxPIgR_ib7fI9uzKA&center=42.2798421,-83.782594"
     },
     {
       "name": "Sweetwaters Coffee & Tea",
       "distance": "0.3 mi",
-      "url": "https://www.google.com/maps/search/Sweetwaters%20Coffee%20%26%20Tea+near+42.2813072%2C-83.7775152"
+      "url": "https://www.google.com/maps/search/?api=1&query=Sweetwaters%20Coffee%20%26%20Tea&query_place_id=ChIJE02_Q8exPIgRxButipUh0uw&center=42.2784373,-83.78215589999999"
     },
     {
       "name": "McDonald's",
       "distance": "0.3 mi",
-      "url": "https://www.google.com/maps/search/McDonald's+near+42.2813072%2C-83.7775152"
+      "url": "https://www.google.com/maps/search/?api=1&query=McDonald's&query_place_id=ChIJv7dI0cWxPIgRcrmwuwklcow&center=42.276620099999995,-83.7777539"
+    },
+    {
+      "name": "Big City Small World Bakery",
+      "distance": "1.3 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Big%20City%20Small%20World%20Bakery&query_place_id=ChIJs3khGhiuPIgRwpU8TtlcSMg&center=42.283986999999996,-83.75259040000002"
+    },
+    {
+      "name": "Bakehouse 46",
+      "distance": "1.5 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Bakehouse%2046&query_place_id=ChIJfZxdRTyuPIgRFLmtIWYVUbA&center=42.279433,-83.74776"
     }
   ],
-  "team_lunch": [],
+  "team_lunch": [
+    {
+      "name": "Kroger Bakery",
+      "distance": "0.4 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Kroger%20Bakery&query_place_id=ChIJ82TJ8MaxPIgRsfF-diWg0Lw&center=42.277533399999996,-83.7821256"
+    }
+  ],
   "dinner": [
     {
       "name": "HOMES Brewery - Brewpub",

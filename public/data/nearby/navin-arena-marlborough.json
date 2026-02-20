@@ -16,14 +16,19 @@
       "url": "https://www.google.com/maps/search/?api=1&query=Subway&query_place_id=ChIJ82fXXrCM44kR3MbU4Qm3IGg&center=42.372972,-71.559313"
     },
     {
-      "name": "Picco",
-      "distance": "1.0 mi",
-      "url": "https://www.google.com/maps/search/?api=1&query=Picco&query_place_id=ChIJE7IaeACL44kRFcbh8tszpn0&center=42.3468254,-71.54927459999999"
-    },
-    {
       "name": "Pleasant Pizza & Grill",
       "distance": "1.1 mi",
       "url": "https://www.google.com/maps/search/?api=1&query=Pleasant%20Pizza%20%26%20Grill&query_place_id=ChIJ2QoIck-L44kRronqZMoypN0&center=42.348591,-71.562257"
+    },
+    {
+      "name": "Subway",
+      "distance": "2.1 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Subway&query_place_id=ChIJZxpkTtCM44kR3e8nSyveefs&center=42.391422999999996,-71.5634403"
+    },
+    {
+      "name": "Jersey Mike's Subs",
+      "distance": "2.2 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Jersey%20Mike's%20Subs&query_place_id=ChIJ45fHOc_044kRjLTk_Fqd27E&center=42.3399937,-71.58252569999999"
     }
   ],
   "coffee": [
@@ -38,6 +43,11 @@
       "url": "https://www.google.com/maps/search/?api=1&query=Main%20Street%20Cafe&query_place_id=ChIJBc1XeUKL44kRzhhVxqaRJ0A&center=42.346541200000004,-71.5491887"
     },
     {
+      "name": "Emporium Brazil Coffee Shop",
+      "distance": "1.1 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Emporium%20Brazil%20Coffee%20Shop&query_place_id=ChIJt6xgtCyL44kRBeJryZWvuws&center=42.3464069,-71.55269009999999"
+    },
+    {
       "name": "Brazilian Flavor Bakery",
       "distance": "1.1 mi",
       "url": "https://www.google.com/maps/search/?api=1&query=Brazilian%20Flavor%20Bakery&query_place_id=ChIJZxrgOdWL44kR8_k55Z7-b8c&center=42.347353,-71.5427213"
@@ -46,13 +56,23 @@
       "name": "Honey Dew Donuts",
       "distance": "1.6 mi",
       "url": "https://www.google.com/maps/search/?api=1&query=Honey%20Dew%20Donuts&query_place_id=ChIJgc1pibWM44kRQtMzWQxNYF8&center=42.381474999999995,-71.5686389"
+    },
+    {
+      "name": "McDonald's",
+      "distance": "1.7 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=McDonald's&query_place_id=ChIJGU8XsmyL44kRAuJfgi5R2Os&center=42.339000299999995,-71.5416625"
+    },
+    {
+      "name": "McDonald's",
+      "distance": "1.7 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=McDonald's&query_place_id=ChIJH8P_cc2M44kRz-9bF41N2HU&center=42.3821134,-71.5690506"
     }
   ],
   "team_lunch": [
     {
-      "name": "Bolton Street Tavern",
-      "distance": "0.3 mi",
-      "url": "https://www.google.com/maps/search/?api=1&query=Bolton%20Street%20Tavern&query_place_id=ChIJFcQVJ6SM44kROfzbuYsAE1s&center=42.365196999999995,-71.5564"
+      "name": "Walmart Bakery",
+      "distance": "0.8 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Walmart%20Bakery&query_place_id=ChIJq6qqXbqM44kRaaKCnK-2CD0&center=42.3729018,-71.5588568"
     },
     {
       "name": "Tropical Cafe",

@@ -11,6 +11,11 @@
       "url": "https://www.google.com/maps/search/?api=1&query=Halal%20Cooco's%20Den&query_place_id=ChIJBe80MtyHwokR78kgDoEuxSg&center=40.7543144,-73.6531081"
     },
     {
+      "name": "Dunkin'",
+      "distance": "0.5 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Dunkin'&query_place_id=ChIJ3TAS_PyHwokRKgOUj8qlhDY&center=40.754795,-73.6502253"
+    },
+    {
       "name": "Wendy's",
       "distance": "0.6 mi",
       "url": "https://www.google.com/maps/search/?api=1&query=Wendy's&query_place_id=ChIJcVsh8fyHwokR2pYCKS4WIXQ&center=40.7545881,-73.64950329999999"
@@ -24,6 +29,26 @@
       "name": "Chipotle Mexican Grill",
       "distance": "0.6 mi",
       "url": "https://www.google.com/maps/search/?api=1&query=Chipotle%20Mexican%20Grill&query_place_id=ChIJE2QVCqtiwokRQu3WuIvloU8&center=40.744712899999996,-73.6561366"
+    },
+    {
+      "name": "Subway",
+      "distance": "0.6 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Subway&query_place_id=ChIJ5yMU1apiwokRpzIBEisvGzE&center=40.7450638,-73.6540412"
+    },
+    {
+      "name": "Five Guys",
+      "distance": "0.8 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Five%20Guys&query_place_id=ChIJURfr-q5iwokRtx45ic4Nvvk&center=40.7419599,-73.66234829999999"
+    },
+    {
+      "name": "Jersey Mike's Subs",
+      "distance": "0.8 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Jersey%20Mike's%20Subs&query_place_id=ChIJBWOOS-pjwokRmBMkkEv3Avc&center=40.7418178,-73.6622916"
+    },
+    {
+      "name": "PizzaWali by Varli",
+      "distance": "0.9 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=PizzaWali%20by%20Varli&query_place_id=ChIJS7TLFKiHwokRDKqpE-LykK0&center=40.757457599999995,-73.64268659999999"
     }
   ],
   "coffee": [
@@ -43,6 +68,11 @@
       "url": "https://www.google.com/maps/search/?api=1&query=Dunkin'&query_place_id=ChIJ3TAS_PyHwokRKgOUj8qlhDY&center=40.754795,-73.6502253"
     },
     {
+      "name": "Pantano's Doz Bagels GCP",
+      "distance": "0.7 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Pantano's%20Doz%20Bagels%20GCP&query_place_id=ChIJWWtI68xjwokRYZgcv5OCtDo&center=40.743527799999995,-73.6601903"
+    },
+    {
       "name": "Duck Donuts",
       "distance": "0.7 mi",
       "url": "https://www.google.com/maps/search/?api=1&query=Duck%20Donuts&query_place_id=ChIJf4uVVZNjwokRMWtsOLNJ9zw&center=40.7434577,-73.6600969"
@@ -51,6 +81,16 @@
       "name": "Bagels N A Hole Lot More (New Hyde Park)",
       "distance": "0.7 mi",
       "url": "https://www.google.com/maps/search/?api=1&query=Bagels%20N%20A%20Hole%20Lot%20More%20(New%20Hyde%20Park)&query_place_id=ChIJ0RUANh6IwokRWHX9kFYpfn4&center=40.751670399999995,-73.6740502"
+    },
+    {
+      "name": "McDonald's",
+      "distance": "1.2 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=McDonald's&query_place_id=ChIJu1lB9_KHwokRXX0zdmkLc5A&center=40.7506158,-73.6379168"
+    },
+    {
+      "name": "The Chefs Corner Cafe",
+      "distance": "1.3 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=The%20Chefs%20Corner%20Cafe&query_place_id=ChIJDTtQkll9wokRcVU7HPFvAYU&center=40.7413806,-73.64048869999999"
     }
   ],
   "team_lunch": [

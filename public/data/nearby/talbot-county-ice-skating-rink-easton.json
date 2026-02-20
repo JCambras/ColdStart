@@ -1,36 +1,61 @@
 {
   "quick_bite": [
     {
-      "name": "Olive Garden Italian Restaurant",
-      "distance": "2.0 mi",
-      "url": "https://www.google.com/maps/search/Olive%20Garden%20Italian%20Restaurant+near+38.826091%2C-76.0622575"
-    },
-    {
       "name": "Chipotle Mexican Grill",
       "distance": "2.2 mi",
-      "url": "https://www.google.com/maps/search/Chipotle%20Mexican%20Grill+near+38.826091%2C-76.0622575"
+      "url": "https://www.google.com/maps/search/?api=1&query=Chipotle%20Mexican%20Grill&query_place_id=ChIJR7NxCT9AuIkRw7j2KBGts5A&center=38.7939119,-76.0593858"
     },
     {
       "name": "Burger King",
       "distance": "3.0 mi",
-      "url": "https://www.google.com/maps/search/Burger%20King+near+38.826091%2C-76.0622575"
+      "url": "https://www.google.com/maps/search/?api=1&query=Burger%20King&query_place_id=ChIJ67pxHABBuIkRxbLq1MxihkY&center=38.7829106,-76.0608898"
     },
     {
-      "name": "Eastons Urban Oasis- centrally located townhome in Talbot County",
-      "distance": "3.0 mi",
-      "url": "https://www.google.com/maps/search/Eastons%20Urban%20Oasis-%20centrally%20located%20townhome%20in%20Talbot%20County+near+38.826091%2C-76.0622575",
+      "name": "Dunkin'",
+      "distance": "3.1 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Dunkin'&query_place_id=ChIJD2wXKV1AuIkRuq42y_7mpa4&center=38.781515899999995,-76.0596017",
       "isFar": true
     },
     {
       "name": "ZENSHI Handcrafted Sushi",
       "distance": "3.1 mi",
-      "url": "https://www.google.com/maps/search/ZENSHI%20Handcrafted%20Sushi+near+38.826091%2C-76.0622575",
+      "url": "https://www.google.com/maps/search/?api=1&query=ZENSHI%20Handcrafted%20Sushi&query_place_id=ChIJ-cBmCNI_uIkRmth0j4OVhlw&center=38.7853174,-76.0869341",
       "isFar": true
     },
     {
       "name": "Dairy Queen Grill & Chill",
       "distance": "3.1 mi",
-      "url": "https://www.google.com/maps/search/Dairy%20Queen%20Grill%20%26%20Chill+near+38.826091%2C-76.0622575",
+      "url": "https://www.google.com/maps/search/?api=1&query=Dairy%20Queen%20Grill%20%26%20Chill&query_place_id=ChIJoWpyFV1AuIkRIrdLuQN1_Lo&center=38.7807029,-76.0607629",
+      "isFar": true
+    },
+    {
+      "name": "Chick-fil-A",
+      "distance": "3.2 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Chick-fil-A&query_place_id=ChIJpX9qF3lAuIkRZD3klCtsSgI&center=38.7831076,-76.0827359",
+      "isFar": true
+    },
+    {
+      "name": "Arby's",
+      "distance": "3.3 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Arby's&query_place_id=ChIJRcCYsl1AuIkR9FMkHRGe1y8&center=38.7786839,-76.05962219999999",
+      "isFar": true
+    },
+    {
+      "name": "Capriotti's Sandwich Shop",
+      "distance": "3.3 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Capriotti's%20Sandwich%20Shop&query_place_id=ChIJ6Ta9k3tAuIkR7vcN-1jfg6k&center=38.7797859,-76.0781238",
+      "isFar": true
+    },
+    {
+      "name": "Hardee's",
+      "distance": "3.3 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Hardee's&query_place_id=ChIJ05zuyl1AuIkR3L6wW6uqMxI&center=38.7779518,-76.0596055",
+      "isFar": true
+    },
+    {
+      "name": "Subway",
+      "distance": "3.4 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Subway&query_place_id=ChIJF-ndLXlAuIkRkDosAfeNJyk&center=38.7795619,-76.0814491",
       "isFar": true
     }
   ],
@@ -38,18 +63,36 @@
     {
       "name": "Panera Bread",
       "distance": "2.2 mi",
-      "url": "https://www.google.com/maps/search/Panera%20Bread+near+38.826091%2C-76.0622575"
+      "url": "https://www.google.com/maps/search/?api=1&query=Panera%20Bread&query_place_id=ChIJ77cSBz9AuIkRPyjJkCC1ySY&center=38.794627,-76.059489"
     },
     {
       "name": "Dunkin'",
       "distance": "3.1 mi",
-      "url": "https://www.google.com/maps/search/Dunkin'+near+38.826091%2C-76.0622575",
+      "url": "https://www.google.com/maps/search/?api=1&query=Dunkin'&query_place_id=ChIJD2wXKV1AuIkRuq42y_7mpa4&center=38.781515899999995,-76.0596017",
       "isFar": true
     },
     {
       "name": "Starbucks",
       "distance": "3.1 mi",
-      "url": "https://www.google.com/maps/search/Starbucks+near+38.826091%2C-76.0622575",
+      "url": "https://www.google.com/maps/search/?api=1&query=Starbucks&query_place_id=ChIJm3_DbIc_uIkR3GRwY2MgdN8&center=38.784937299999996,-76.08615379999999",
+      "isFar": true
+    },
+    {
+      "name": "McDonald's",
+      "distance": "3.2 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=McDonald's&query_place_id=ChIJizOaCl1AuIkRRSIDMBluJZo&center=38.7795504,-76.0607793",
+      "isFar": true
+    },
+    {
+      "name": "McDonald's",
+      "distance": "3.2 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=McDonald's&query_place_id=ChIJETDR6nlAuIkRe_q0N8qK2r4&center=38.7818703,-76.08196099999999",
+      "isFar": true
+    },
+    {
+      "name": "Wawa",
+      "distance": "3.8 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Wawa&query_place_id=ChIJLX3LjF9AuIkRjz6kaUtApSU&center=38.771785,-76.061123",
       "isFar": true
     }
   ],
@@ -57,23 +100,23 @@
     {
       "name": "Sugar Buns Airport Cafe and Bakery",
       "distance": "1.0 mi",
-      "url": "https://www.google.com/maps/search/Sugar%20Buns%20Airport%20Cafe%20and%20Bakery+near+38.826091%2C-76.0622575"
+      "url": "https://www.google.com/maps/search/?api=1&query=Sugar%20Buns%20Airport%20Cafe%20and%20Bakery&query_place_id=ChIJ100ssB9AuIkRPaQ19WvGF-8&center=38.8114304,-76.06473989999999"
     },
     {
-      "name": "Applebee's Grill + Bar",
-      "distance": "2.1 mi",
-      "url": "https://www.google.com/maps/search/Applebee's%20Grill%20%2B%20Bar+near+38.826091%2C-76.0622575"
+      "name": "Honey Blossom Pantry",
+      "distance": "2.9 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Honey%20Blossom%20Pantry&query_place_id=ChIJT6cWXJBBuIkRhWGihqnnPdk&center=38.7854145,-76.0754274"
     },
     {
       "name": "Genesis Pizza and Mexican Grill",
       "distance": "3.1 mi",
-      "url": "https://www.google.com/maps/search/Genesis%20Pizza%20and%20Mexican%20Grill+near+38.826091%2C-76.0622575",
+      "url": "https://www.google.com/maps/search/?api=1&query=Genesis%20Pizza%20and%20Mexican%20Grill&query_place_id=ChIJgX9qcFNBuIkRsvFsRmsbN28&center=38.7837734,-76.0796913",
       "isFar": true
     },
     {
       "name": "Harris Teeter Bakery",
       "distance": "3.1 mi",
-      "url": "https://www.google.com/maps/search/Harris%20Teeter%20Bakery+near+38.826091%2C-76.0622575",
+      "url": "https://www.google.com/maps/search/?api=1&query=Harris%20Teeter%20Bakery&query_place_id=ChIJjaWWfAA_uIkRlz9drKi21PA&center=38.7851565,-76.0862255",
       "isFar": true
     }
   ],

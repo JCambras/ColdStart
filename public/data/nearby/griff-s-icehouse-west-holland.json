@@ -3,81 +3,116 @@
     {
       "name": "Taco Bell",
       "distance": "1.3 mi",
-      "url": "https://www.google.com/maps/search/Taco%20Bell+near+42.849244299999995%2C-86.09091599999999"
-    },
-    {
-      "name": "Red Robin Gourmet Burgers and Brews",
-      "distance": "1.4 mi",
-      "url": "https://www.google.com/maps/search/Red%20Robin%20Gourmet%20Burgers%20and%20Brews+near+42.849244299999995%2C-86.09091599999999"
-    },
-    {
-      "name": "Logan's Roadhouse",
-      "distance": "1.5 mi",
-      "url": "https://www.google.com/maps/search/Logan's%20Roadhouse+near+42.849244299999995%2C-86.09091599999999"
+      "url": "https://www.google.com/maps/search/?api=1&query=Taco%20Bell&query_place_id=ChIJ2-Ib432NGYgRQrnx2EQCgUs&center=42.8313576,-86.0948468"
     },
     {
       "name": "Jimmy John's",
       "distance": "1.5 mi",
-      "url": "https://www.google.com/maps/search/Jimmy%20John's+near+42.849244299999995%2C-86.09091599999999"
+      "url": "https://www.google.com/maps/search/?api=1&query=Jimmy%20John's&query_place_id=ChIJS4zDXnyNGYgRJNZlMaw-ZdI&center=42.8280518,-86.09617469999999"
     },
     {
       "name": "Panda Express",
       "distance": "1.5 mi",
-      "url": "https://www.google.com/maps/search/Panda%20Express+near+42.849244299999995%2C-86.09091599999999"
+      "url": "https://www.google.com/maps/search/?api=1&query=Panda%20Express&query_place_id=ChIJIStfooKSGYgRqs9X2fiW6LM&center=42.8277778,-86.09361109999999"
     },
     {
       "name": "D Dogs",
       "distance": "1.5 mi",
-      "url": "https://www.google.com/maps/search/D%20Dogs+near+42.849244299999995%2C-86.09091599999999"
+      "url": "https://www.google.com/maps/search/?api=1&query=D%20Dogs&query_place_id=ChIJO-Hk6YqNGYgRWlE8Hpc5JaU&center=42.8274927,-86.0966811"
     },
     {
       "name": "Mr You Chinese Food",
       "distance": "1.5 mi",
-      "url": "https://www.google.com/maps/search/Mr%20You%20Chinese%20Food+near+42.849244299999995%2C-86.09091599999999"
+      "url": "https://www.google.com/maps/search/?api=1&query=Mr%20You%20Chinese%20Food&query_place_id=ChIJS4zDXnyNGYgRiwluyFHUvLM&center=42.8273959,-86.0965678"
+    },
+    {
+      "name": "Subway",
+      "distance": "1.5 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Subway&query_place_id=ChIJVQLyzoKSGYgR32OkORERjKg&center=42.827032599999995,-86.0923942"
+    },
+    {
+      "name": "Don Petrino’s Pizzeria",
+      "distance": "1.5 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Don%20Petrino%E2%80%99s%20Pizzeria&query_place_id=ChIJS4zDXnyNGYgR7Aj5xLc0keM&center=42.827341,-86.096569"
+    },
+    {
+      "name": "Wendy's",
+      "distance": "1.6 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Wendy's&query_place_id=ChIJfamfzpySGYgRnWpfSQAxLvs&center=42.8261456,-86.09031019999999"
+    },
+    {
+      "name": "Dairy Queen Grill & Chill",
+      "distance": "1.7 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Dairy%20Queen%20Grill%20%26%20Chill&query_place_id=ChIJr3zQwYKSGYgRAVK5ZuFqLHc&center=42.8240416,-86.0902981"
+    },
+    {
+      "name": "Potbelly",
+      "distance": "2.3 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Potbelly&query_place_id=ChIJ-6rw86OSGYgRoV-X_WV3jnc&center=42.8159048,-86.08931"
     }
   ],
   "coffee": [
     {
       "name": "Zlodelandia",
       "distance": "1.2 mi",
-      "url": "https://www.google.com/maps/search/Zlodelandia+near+42.849244299999995%2C-86.09091599999999"
+      "url": "https://www.google.com/maps/search/?api=1&query=Zlodelandia&query_place_id=ChIJsZ-TBgCTGYgRGKGZQvnHZF4&center=42.8315032,-86.09166979999999"
     },
     {
       "name": "Starbucks Coffee Company",
       "distance": "1.3 mi",
-      "url": "https://www.google.com/maps/search/Starbucks%20Coffee%20Company+near+42.849244299999995%2C-86.09091599999999"
+      "url": "https://www.google.com/maps/search/?api=1&query=Starbucks%20Coffee%20Company&query_place_id=ChIJO1p3B4KSGYgR98Ig-3d2Zo8&center=42.831019999999995,-86.09178"
     },
     {
       "name": "Starbucks Coffee Company",
       "distance": "1.5 mi",
-      "url": "https://www.google.com/maps/search/Starbucks%20Coffee%20Company+near+42.849244299999995%2C-86.09091599999999"
+      "url": "https://www.google.com/maps/search/?api=1&query=Starbucks%20Coffee%20Company&query_place_id=ChIJN6ZCyIKSGYgRsjHXLyB8J64&center=42.82694,-86.0932"
     },
     {
       "name": "McDonald's",
       "distance": "1.5 mi",
-      "url": "https://www.google.com/maps/search/McDonald's+near+42.849244299999995%2C-86.09091599999999"
+      "url": "https://www.google.com/maps/search/?api=1&query=McDonald's&query_place_id=ChIJpzMhNn2NGYgRpUXZ2ps5ZWw&center=42.827081799999995,-86.0950623"
     },
     {
       "name": "BIGGBY COFFEE",
       "distance": "1.6 mi",
-      "url": "https://www.google.com/maps/search/BIGGBY%20COFFEE+near+42.849244299999995%2C-86.09091599999999"
+      "url": "https://www.google.com/maps/search/?api=1&query=BIGGBY%20COFFEE&query_place_id=ChIJxxfzjvSNGYgRHuq3AuimIMY&center=42.827016199999996,-86.0969667"
     }
   ],
   "team_lunch": [
     {
       "name": "Wow Bao- Holland (MI)",
       "distance": "1.3 mi",
-      "url": "https://www.google.com/maps/search/Wow%20Bao-%20Holland%20(MI)+near+42.849244299999995%2C-86.09091599999999"
+      "url": "https://www.google.com/maps/search/?api=1&query=Wow%20Bao-%20Holland%20(MI)&query_place_id=ChIJLUjJ_7eNGYgRdJvdWLhEfPY&center=42.830841199999995,-86.0945299"
     },
     {
       "name": "Meijer Bakery",
       "distance": "1.4 mi",
-      "url": "https://www.google.com/maps/search/Meijer%20Bakery+near+42.849244299999995%2C-86.09091599999999"
+      "url": "https://www.google.com/maps/search/?api=1&query=Meijer%20Bakery&query_place_id=ChIJz5meCt6TGYgRm5-YDQ5sHbw&center=42.82858350000001,-86.0902287"
     },
     {
       "name": "MEXICAN GRILL & BAR",
       "distance": "1.5 mi",
-      "url": "https://www.google.com/maps/search/MEXICAN%20GRILL%20%26%20BAR+near+42.849244299999995%2C-86.09091599999999"
+      "url": "https://www.google.com/maps/search/?api=1&query=MEXICAN%20GRILL%20%26%20BAR&query_place_id=ChIJIySJE32NGYgR8_L7v0Bm4fI&center=42.8281604,-86.09521509999999"
+    },
+    {
+      "name": "cakery",
+      "distance": "1.9 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=cakery&query_place_id=ChIJLwyRA_OTGYgRqDUP38kyxyw&center=42.8214222,-86.0869397"
+    },
+    {
+      "name": "McAlister's Deli",
+      "distance": "2.7 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=McAlister's%20Deli&query_place_id=ChIJ_68mHACTGYgRvKIotiVV0jA&center=42.8098837,-86.0884533"
+    },
+    {
+      "name": "Walmart Bakery",
+      "distance": "2.8 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Walmart%20Bakery&query_place_id=ChIJVVVBuqeSGYgRq_9KWre2YmA&center=42.8085439,-86.09095599999999"
+    },
+    {
+      "name": "Sam's Club Bakery",
+      "distance": "2.9 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Sam's%20Club%20Bakery&query_place_id=ChIJ2Xo6EQ6TGYgRGQgXZYh6YGU&center=42.807685,-86.0884691"
     }
   ],
   "dinner": [

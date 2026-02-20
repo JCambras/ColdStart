@@ -11,11 +11,6 @@
       "url": "https://www.google.com/maps/search/?api=1&query=Shake%20Shack%20Naperville&query_place_id=ChIJD-om7aP5DogRHQXBSGaVvjE&center=41.765011699999995,-88.2052066"
     },
     {
-      "name": "Yard House - Block 59",
-      "distance": "0.1 mi",
-      "url": "https://www.google.com/maps/search/?api=1&query=Yard%20House%20-%20Block%2059&query_place_id=ChIJSTuR01b5DogRMuaEprsN57c&center=41.765324799999995,-88.20374939999999"
-    },
-    {
       "name": "Nick's Red Hots Aurora",
       "distance": "0.1 mi",
       "url": "https://www.google.com/maps/search/?api=1&query=Nick's%20Red%20Hots%20Aurora&query_place_id=ChIJx4U0Zsv5DogRFK_SoSpiqFA&center=41.764375099999995,-88.2065042"
@@ -26,9 +21,34 @@
       "url": "https://www.google.com/maps/search/?api=1&query=Pita%20Pita%20Mediterranean%20Grill&query_place_id=ChIJM6tpTgD5DogRPFL_6dqUNs4&center=41.7658038,-88.2050722"
     },
     {
-      "name": "Chuck E. Cheese",
+      "name": "Dunkin'",
       "distance": "0.2 mi",
-      "url": "https://www.google.com/maps/search/?api=1&query=Chuck%20E.%20Cheese&query_place_id=ChIJN48PlSz4DogRDReQfQtTMTg&center=41.761979,-88.2021495"
+      "url": "https://www.google.com/maps/search/?api=1&query=Dunkin'&query_place_id=ChIJ-TCRtzT4DogR4HS1WsUCU8w&center=41.762764999999995,-88.2066275"
+    },
+    {
+      "name": "Taco Bell",
+      "distance": "0.2 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Taco%20Bell&query_place_id=ChIJRdb_7jb4DogR9a1yVhP1zqE&center=41.763233299999996,-88.2005377"
+    },
+    {
+      "name": "Arby's",
+      "distance": "0.2 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Arby's&query_place_id=ChIJZykThUr4DogRXnsl4cMebpg&center=41.767354,-88.20523639999999"
+    },
+    {
+      "name": "Potbelly",
+      "distance": "0.3 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Potbelly&query_place_id=ChIJr6fZo-75DogRTiM3wiHTjRs&center=41.7598722,-88.20643679999999"
+    },
+    {
+      "name": "Raising Cane's Chicken Fingers",
+      "distance": "0.3 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Raising%20Cane's%20Chicken%20Fingers&query_place_id=ChIJ8cLIBDP4DogRIhqvDi6nZk4&center=41.75951510000001,-88.2053517"
+    },
+    {
+      "name": "Two Hands Corn Dogs",
+      "distance": "0.3 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Two%20Hands%20Corn%20Dogs&query_place_id=ChIJY-rIz5_5DogRc7UhqEgYSew&center=41.7642914,-88.2110069"
     }
   ],
   "coffee": [
@@ -46,6 +66,11 @@
       "name": "Dunkin'",
       "distance": "0.2 mi",
       "url": "https://www.google.com/maps/search/?api=1&query=Dunkin'&query_place_id=ChIJ-TCRtzT4DogR4HS1WsUCU8w&center=41.762764999999995,-88.2066275"
+    },
+    {
+      "name": "McDonald's",
+      "distance": "0.3 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=McDonald's&query_place_id=ChIJ4dOxLjP4DogRgg7wtz5tMbw&center=41.7594814,-88.2068158"
     },
     {
       "name": "Mochii Donut",

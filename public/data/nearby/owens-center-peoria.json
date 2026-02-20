@@ -1,11 +1,6 @@
 {
   "quick_bite": [
     {
-      "name": "Hy-Vee Market Grille",
-      "distance": "0.2 mi",
-      "url": "https://www.google.com/maps/search/?api=1&query=Hy-Vee%20Market%20Grille&query_place_id=ChIJjeIfIr5bCogRfGVi3AwvHc8&center=40.738821099999996,-89.60571589999999"
-    },
-    {
       "name": "Jimmy John's",
       "distance": "0.3 mi",
       "url": "https://www.google.com/maps/search/?api=1&query=Jimmy%20John's&query_place_id=ChIJg62CfpdbCogR-Z-RkHW7EFA&center=40.7443903,-89.6094489"
@@ -29,6 +24,31 @@
       "name": "Penn Station East Coast Subs",
       "distance": "0.3 mi",
       "url": "https://www.google.com/maps/search/?api=1&query=Penn%20Station%20East%20Coast%20Subs&query_place_id=ChIJA2GCNZdbCogRuUqz6EP6hxk&center=40.7442973,-89.6118809"
+    },
+    {
+      "name": "Jersey Mike's Subs",
+      "distance": "0.3 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Jersey%20Mike's%20Subs&query_place_id=ChIJV-QAXnFbCogR06mNQz2OVW0&center=40.737629999999996,-89.6039091"
+    },
+    {
+      "name": "ZENSHI Handcrafted Sushi",
+      "distance": "0.3 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=ZENSHI%20Handcrafted%20Sushi&query_place_id=ChIJF7ujEvVbCogRbVVOq1w_cDI&center=40.7453888,-89.6100838"
+    },
+    {
+      "name": "Dairy Queen Grill & Chill",
+      "distance": "0.3 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Dairy%20Queen%20Grill%20%26%20Chill&query_place_id=ChIJW-Oow75bCogRxfJNRKE5ULk&center=40.7387158,-89.60261729999999"
+    },
+    {
+      "name": "Noodles and Company",
+      "distance": "0.3 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Noodles%20and%20Company&query_place_id=ChIJ0aM_u5BbCogRCR2MQFwCjZo&center=40.744837,-89.61224109999999"
+    },
+    {
+      "name": "Subway",
+      "distance": "0.5 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Subway&query_place_id=ChIJOwWYW5pbCogREDLHGKKz_Fc&center=40.7473478,-89.61298389999999"
     }
   ],
   "coffee": [
@@ -36,14 +56,19 @@
       "name": "Starbucks Coffee Company",
       "distance": "0.2 mi",
       "url": "https://www.google.com/maps/search/?api=1&query=Starbucks%20Coffee%20Company&query_place_id=ChIJ04JMOr5bCogRd8FYBk8xl90&center=40.73832,-89.60517"
+    },
+    {
+      "name": "McDonald's",
+      "distance": "0.7 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=McDonald's&query_place_id=ChIJYZIsFOxbCogRl_Y-zBz4Q-A&center=40.731503,-89.6120272"
+    },
+    {
+      "name": "McDonald's",
+      "distance": "1.2 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=McDonald's&query_place_id=ChIJ_aopyXBcCogRrb7dBQ2ibR0&center=40.744155,-89.6301663"
     }
   ],
   "team_lunch": [
-    {
-      "name": "Hy-Vee Pickup",
-      "distance": "0.2 mi",
-      "url": "https://www.google.com/maps/search/?api=1&query=Hy-Vee%20Pickup&query_place_id=ChIJQ0KtEoBbCogRjd-jWnAEXBw&center=40.7386288,-89.60573900000001"
-    },
     {
       "name": "Kroger Bakery",
       "distance": "0.2 mi",
@@ -53,6 +78,11 @@
       "name": "Papa Johns Pizza",
       "distance": "0.3 mi",
       "url": "https://www.google.com/maps/search/?api=1&query=Papa%20Johns%20Pizza&query_place_id=ChIJD38hkL5bCogRFns-uP8qqSc&center=40.739869299999995,-89.603476"
+    },
+    {
+      "name": "Dog Haus Biergarten",
+      "distance": "0.4 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Dog%20Haus%20Biergarten&query_place_id=ChIJ--jRIo5bCogRKisrrRS4B8s&center=40.7449453,-89.612252"
     },
     {
       "name": "Crafty Kitchen",

@@ -1,6 +1,16 @@
 {
   "quick_bite": [
     {
+      "name": "Dunkin'",
+      "distance": "0.4 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Dunkin'&query_place_id=ChIJw-uFEpCEwYkRgn4Jg1ymepI&center=40.0618394,-74.1442653"
+    },
+    {
+      "name": "Dunkin'",
+      "distance": "0.4 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Dunkin'&query_place_id=ChIJ59U32jCDwYkREZqGM22uO6s&center=40.06561,-74.137129"
+    },
+    {
       "name": "Shake Shack Brick",
       "distance": "0.5 mi",
       "url": "https://www.google.com/maps/search/?api=1&query=Shake%20Shack%20Brick&query_place_id=ChIJg2zeacqDwYkR00IV2gxyRu8&center=40.0604933,-74.14244839999999"
@@ -29,6 +39,16 @@
       "name": "Baron's Bagels - Brick",
       "distance": "0.7 mi",
       "url": "https://www.google.com/maps/search/?api=1&query=Baron's%20Bagels%20-%20Brick&query_place_id=ChIJyXIGj4WDwYkREfK8an7WfAU&center=40.069915,-74.13192699999999"
+    },
+    {
+      "name": "Wendy's",
+      "distance": "0.7 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Wendy's&query_place_id=ChIJFWnpYnuEwYkREHtHhJddJno&center=40.0568746,-74.1478206"
+    },
+    {
+      "name": "Jersey Mike's Subs",
+      "distance": "0.8 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Jersey%20Mike's%20Subs&query_place_id=ChIJKVqgMZuEwYkR94ebRXP49Qg&center=40.0576024,-74.1391192"
     }
   ],
   "coffee": [
@@ -46,6 +66,26 @@
       "name": "Dunkin'",
       "distance": "0.4 mi",
       "url": "https://www.google.com/maps/search/?api=1&query=Dunkin'&query_place_id=ChIJ59U32jCDwYkREZqGM22uO6s&center=40.06561,-74.137129"
+    },
+    {
+      "name": "McDonald's",
+      "distance": "0.5 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=McDonald's&query_place_id=ChIJxaIyE3eDwYkRGJk2LRhk8hU&center=40.0613771,-74.1418013"
+    },
+    {
+      "name": "Wawa",
+      "distance": "0.8 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Wawa&query_place_id=ChIJGQl82Y6DwYkRwJtCB0pEzTU&center=40.056616,-74.1513325"
+    },
+    {
+      "name": "Wawa",
+      "distance": "1.0 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Wawa&query_place_id=ChIJlxAPqHGDwYkRa31eEz_ve-8&center=40.0539169,-74.1394638"
+    },
+    {
+      "name": "Joe's Bagel and Grill",
+      "distance": "1.1 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Joe's%20Bagel%20and%20Grill&query_place_id=ChIJLzvn83iDwYkRNQRLDmCIKAs&center=40.0534035,-74.1356373"
     }
   ],
   "team_lunch": [
@@ -60,9 +100,9 @@
       "url": "https://www.google.com/maps/search/?api=1&query=Harpoon%20Willies&query_place_id=ChIJH4kBdACDwYkRATbQEC5WnrA&center=40.060744799999995,-74.14058849999999"
     },
     {
-      "name": "TGI Fridays",
-      "distance": "0.6 mi",
-      "url": "https://www.google.com/maps/search/?api=1&query=TGI%20Fridays&query_place_id=ChIJK3-ZKnaDwYkRxYxXz_dHDc8&center=40.0607064,-74.13955299999999"
+      "name": "Walmart Bakery",
+      "distance": "1.1 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Walmart%20Bakery&query_place_id=ChIJVVVVxImDwYkR35DyfMOgAAA&center=40.072986799999995,-74.12488259999999"
     }
   ],
   "dinner": [

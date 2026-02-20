@@ -29,6 +29,26 @@
       "name": "George's Hot Dog Cart",
       "distance": "0.5 mi",
       "url": "https://www.google.com/maps/search/?api=1&query=George's%20Hot%20Dog%20Cart&query_place_id=ChIJZadj9LJXwokRCA0bSrI0V8E&center=40.747293,-74.048641"
+    },
+    {
+      "name": "LA CASA Food cart",
+      "distance": "0.5 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=LA%20CASA%20Food%20cart&query_place_id=ChIJbZxeWABXwokRSi6lwCEh8_s&center=40.7372267,-74.0630192"
+    },
+    {
+      "name": "Red Ribbon Bakeshop",
+      "distance": "0.5 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Red%20Ribbon%20Bakeshop&query_place_id=ChIJ_9NTNDdXwokR4HemMFCbNYs&center=40.7348006,-74.0594625"
+    },
+    {
+      "name": "Subway",
+      "distance": "0.5 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Subway&query_place_id=ChIJca-4WTFXwokRR8rtzShqSQ8&center=40.7347156,-74.0594586"
+    },
+    {
+      "name": "Banana King",
+      "distance": "0.6 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Banana%20King&query_place_id=ChIJn4Bt5RdXwokR7QQNnDg3MiU&center=40.734437199999995,-74.059102"
     }
   ],
   "coffee": [
@@ -36,6 +56,11 @@
       "name": "Rizzo Bakery & Pizzeria",
       "distance": "0.1 mi",
       "url": "https://www.google.com/maps/search/?api=1&query=Rizzo%20Bakery%20%26%20Pizzeria&query_place_id=ChIJNwx_k0BXwokRtyFOqXeAoEc&center=40.7417489,-74.0521937"
+    },
+    {
+      "name": "McDonald's",
+      "distance": "0.3 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=McDonald's&query_place_id=ChIJP9zCTkBXwokRf4IutD8EBjc&center=40.743787999999995,-74.0507184"
     },
     {
       "name": "Hadassah Cafe",
@@ -51,6 +76,16 @@
       "name": "Choc O Pain French Bakery and Café - Jersey City Heights",
       "distance": "0.5 mi",
       "url": "https://www.google.com/maps/search/?api=1&query=Choc%20O%20Pain%20French%20Bakery%20and%20Caf%C3%A9%20-%20Jersey%20City%20Heights&query_place_id=ChIJYZgVvmpXwokRh_GANgTDph8&center=40.739967799999995,-74.0465492"
+    },
+    {
+      "name": "Bread & Salt",
+      "distance": "0.5 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Bread%20%26%20Salt&query_place_id=ChIJXyz2Q_VXwokRE7QKvakjz78&center=40.7435823,-74.0448569"
+    },
+    {
+      "name": "Dulce De Leche Bakery",
+      "distance": "0.5 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Dulce%20De%20Leche%20Bakery&query_place_id=ChIJC1Hd2WtXwokRjW4cq9dzqVQ&center=40.7476388,-74.0478916"
     }
   ],
   "team_lunch": [

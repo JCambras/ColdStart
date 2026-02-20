@@ -6,9 +6,24 @@
       "url": "https://www.google.com/maps/search/?api=1&query=Slices%20%26%20Fried%20Chicken%20Pizzeria&query_place_id=ChIJV1apY5yB5IkRxmQMrKmG5wQ&center=42.1753777,-71.1125675"
     },
     {
+      "name": "Dunkin'",
+      "distance": "1.2 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Dunkin'&query_place_id=ChIJvYeob-CB5IkRhX5IbX4o8z8&center=42.2089151,-71.12040619999999"
+    },
+    {
+      "name": "Dunkin'",
+      "distance": "1.3 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Dunkin'&query_place_id=ChIJ8Z5U45yB5IkRbRHVTRikIH4&center=42.1736286,-71.1113087"
+    },
+    {
       "name": "Grand Slam Pizza & Roast Beef",
       "distance": "1.3 mi",
       "url": "https://www.google.com/maps/search/?api=1&query=Grand%20Slam%20Pizza%20%26%20Roast%20Beef&query_place_id=ChIJNwZmVZyB5IkR04IcyrXN6oA&center=42.1734599,-71.1121047"
+    },
+    {
+      "name": "Dunkin'",
+      "distance": "2.0 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Dunkin'&query_place_id=ChIJr3uhgO6B5IkR5OYbi81pU_Y&center=42.2103877,-71.14749739999999"
     },
     {
       "name": "Chipotle Mexican Grill",
@@ -21,14 +36,19 @@
       "url": "https://www.google.com/maps/search/?api=1&query=Smashburger&query_place_id=ChIJJxBLAzGA5IkRKfWnctSIb_E&center=42.2049762,-71.1533675"
     },
     {
-      "name": "Not Your Average Joe's - Westwood",
-      "distance": "2.1 mi",
-      "url": "https://www.google.com/maps/search/?api=1&query=Not%20Your%20Average%20Joe's%20-%20Westwood&query_place_id=ChIJA7uY9iuA5IkRWa8btDeynRY&center=42.2095014,-71.15019079999999"
-    },
-    {
       "name": "Panda Express",
       "distance": "2.1 mi",
       "url": "https://www.google.com/maps/search/?api=1&query=Panda%20Express&query_place_id=ChIJiUCwhueB5IkRULFcnNJ7yZA&center=42.207424499999995,-71.15211930000001"
+    },
+    {
+      "name": "Anthony's Coal Fired Pizza & Wings",
+      "distance": "2.1 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Anthony's%20Coal%20Fired%20Pizza%20%26%20Wings&query_place_id=ChIJodvM7SuA5IkRuoW6KyYRcPg&center=42.207794799999995,-71.15196139999999"
+    },
+    {
+      "name": "The Vending Bar",
+      "distance": "3.0 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=The%20Vending%20Bar&query_place_id=ChIJAY--bACB5IkR4YnIXN5G76c&center=42.1544153,-71.1458553"
     }
   ],
   "coffee": [
@@ -56,6 +76,23 @@
       "name": "Starbucks Coffee Company",
       "distance": "2.1 mi",
       "url": "https://www.google.com/maps/search/?api=1&query=Starbucks%20Coffee%20Company&query_place_id=ChIJveNxcC6A5IkRiFOqgIgPakY&center=42.208259999999996,-71.15168"
+    },
+    {
+      "name": "Honey Dew Donuts",
+      "distance": "2.9 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Honey%20Dew%20Donuts&query_place_id=ChIJpy5Z8ueA5IkR5O5TKBdOYPk&center=42.1599165,-71.1554256"
+    },
+    {
+      "name": "Einstein Bros. Bagels",
+      "distance": "3.1 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Einstein%20Bros.%20Bagels&query_place_id=ChIJbYC9BjF_44kR4qEjl7N3OoU&center=42.2357334,-71.11312330000001",
+      "isFar": true
+    },
+    {
+      "name": "McDonald's",
+      "distance": "3.7 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=McDonald's&query_place_id=ChIJr0Qudw-A5IkRXGsBpbXzXGw&center=42.2118311,-71.1839292",
+      "isFar": true
     }
   ],
   "team_lunch": [
@@ -70,20 +107,9 @@
       "url": "https://www.google.com/maps/search/?api=1&query=Mirob%20Management&query_place_id=ChIJBfnVMoOB5IkRMD53fFXKiVM&center=42.1733587,-71.10910659999999"
     },
     {
-      "name": "Topgolf Boston - Canton",
-      "distance": "1.7 mi",
-      "url": "https://www.google.com/maps/search/?api=1&query=Topgolf%20Boston%20-%20Canton&query_place_id=ChIJEcUz3LWB5IkRAneAtHjs2H8&center=42.194418899999995,-71.15115639999999"
-    },
-    {
       "name": "Manje a",
       "distance": "3.1 mi",
       "url": "https://www.google.com/maps/search/?api=1&query=Manje%20a&query_place_id=ChIJBVsAPQCB5IkRv5H514xiZHM&center=42.1530516,-71.14827199999999",
-      "isFar": true
-    },
-    {
-      "name": "Dr. Finn T. Esrason, DMD",
-      "distance": "3.6 mi",
-      "url": "https://www.google.com/maps/search/?api=1&query=Dr.%20Finn%20T.%20Esrason%2C%20DMD&query_place_id=ChIJ6csO8lOC5IkRZP9sbq5qGMc&center=42.1649093,-71.0568847",
       "isFar": true
     },
     {

@@ -1,68 +1,128 @@
 {
   "quick_bite": [
     {
+      "name": "Dunkin'",
+      "distance": "0.1 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Dunkin'&query_place_id=ChIJD71zLkPft4kRzwiSfNve1mA&center=39.210088999999996,-76.84675779999999"
+    },
+    {
       "name": "Hip Hop Fish And Chicken",
       "distance": "0.2 mi",
-      "url": "https://www.google.com/maps/search/Hip%20Hop%20Fish%20And%20Chicken+near+39.209997200000004%2C-76.8441612"
+      "url": "https://www.google.com/maps/search/?api=1&query=Hip%20Hop%20Fish%20And%20Chicken&query_place_id=ChIJT_e6AwDft4kRIUmmPm--nG4&center=39.2104558,-76.84739569999999"
     },
     {
       "name": "PLNT Burger",
       "distance": "0.7 mi",
-      "url": "https://www.google.com/maps/search/PLNT%20Burger+near+39.209997200000004%2C-76.8441612"
+      "url": "https://www.google.com/maps/search/?api=1&query=PLNT%20Burger&query_place_id=ChIJ21kvIXvft4kR9sKHEdNQeRc&center=39.2139367,-76.8557901"
     },
     {
       "name": "Five Guys",
       "distance": "0.9 mi",
-      "url": "https://www.google.com/maps/search/Five%20Guys+near+39.209997200000004%2C-76.8441612"
+      "url": "https://www.google.com/maps/search/?api=1&query=Five%20Guys&query_place_id=ChIJz7QJFpjft4kRcrFvTBisISc&center=39.2146665,-76.8605745"
+    },
+    {
+      "name": "Dunkin'",
+      "distance": "0.9 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Dunkin'&query_place_id=ChIJJyEuOxDft4kRpqyfUG8A6a8&center=39.2155908,-76.8601004"
     },
     {
       "name": "Chick-fil-A",
       "distance": "0.9 mi",
-      "url": "https://www.google.com/maps/search/Chick-fil-A+near+39.209997200000004%2C-76.8441612"
+      "url": "https://www.google.com/maps/search/?api=1&query=Chick-fil-A&query_place_id=ChIJg76hpKLft4kRiCb5A-MxB7k&center=39.2147265,-76.86069499999999"
     },
     {
       "name": "Popeyes Louisiana Kitchen",
       "distance": "0.9 mi",
-      "url": "https://www.google.com/maps/search/Popeyes%20Louisiana%20Kitchen+near+39.209997200000004%2C-76.8441612"
+      "url": "https://www.google.com/maps/search/?api=1&query=Popeyes%20Louisiana%20Kitchen&query_place_id=ChIJCwzuqYrft4kRxp7ePqFKT9A&center=39.2146274,-76.8608253"
+    },
+    {
+      "name": "Sarku Japan",
+      "distance": "1.0 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Sarku%20Japan&query_place_id=ChIJf6b7A5jft4kR7K_MiyxITXU&center=39.2146325,-76.8609141"
+    },
+    {
+      "name": "SSONG'S HOTDOG - COLUMBIA",
+      "distance": "1.0 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=SSONG'S%20HOTDOG%20-%20COLUMBIA&query_place_id=ChIJMcO_5Wjft4kR3Pcjqr4Z6cM&center=39.2150135,-76.86183679999999"
+    },
+    {
+      "name": "Wendy's",
+      "distance": "1.6 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Wendy's&query_place_id=ChIJnc6_L3rgt4kRBHn9iw6cpXU&center=39.1973452,-76.8195813"
     }
   ],
   "coffee": [
     {
       "name": "Dunkin'",
       "distance": "0.1 mi",
-      "url": "https://www.google.com/maps/search/Dunkin'+near+39.209997200000004%2C-76.8441612"
+      "url": "https://www.google.com/maps/search/?api=1&query=Dunkin'&query_place_id=ChIJD71zLkPft4kRzwiSfNve1mA&center=39.210088999999996,-76.84675779999999"
     },
     {
       "name": "Osprey Cafe",
       "distance": "0.7 mi",
-      "url": "https://www.google.com/maps/search/Osprey%20Cafe+near+39.209997200000004%2C-76.8441612"
+      "url": "https://www.google.com/maps/search/?api=1&query=Osprey%20Cafe&query_place_id=ChIJLzM8DUzft4kRfpwu46_r3l8&center=39.2171802,-76.8544837"
+    },
+    {
+      "name": "Dunkin'",
+      "distance": "0.9 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Dunkin'&query_place_id=ChIJJyEuOxDft4kRpqyfUG8A6a8&center=39.2155908,-76.8601004"
+    },
+    {
+      "name": "McDonald's",
+      "distance": "1.0 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=McDonald's&query_place_id=ChIJB-cnAJnft4kRgPAX59waN0Q&center=39.2147824,-76.8617989"
+    },
+    {
+      "name": "Roggenart European Bakery, Bistro & Cafe",
+      "distance": "1.5 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Roggenart%20European%20Bakery%2C%20Bistro%20%26%20Cafe&query_place_id=ChIJzcLw3Irht4kRsmkrHCFcakg&center=39.1992671,-76.8199394"
+    },
+    {
+      "name": "McDonald's",
+      "distance": "1.6 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=McDonald's&query_place_id=ChIJOzaWTHrgt4kRljY5m2Keazs&center=39.1969728,-76.8189901"
+    },
+    {
+      "name": "McDonald's",
+      "distance": "1.6 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=McDonald's&query_place_id=ChIJxSB1lzbet4kR6ANM0Eo7K-g&center=39.1861943,-76.8448652"
     }
   ],
   "team_lunch": [
     {
       "name": "Lucky's China Inn Restaurant",
       "distance": "0.1 mi",
-      "url": "https://www.google.com/maps/search/Lucky's%20China%20Inn%20Restaurant+near+39.209997200000004%2C-76.8441612"
+      "url": "https://www.google.com/maps/search/?api=1&query=Lucky's%20China%20Inn%20Restaurant&query_place_id=ChIJLQ39ZsDft4kRXhBXSZPaIF4&center=39.210557699999995,-76.8457365"
     },
     {
       "name": "lāk Columbia",
       "distance": "0.7 mi",
-      "url": "https://www.google.com/maps/search/l%C4%81k%20Columbia+near+39.209997200000004%2C-76.8441612"
-    },
-    {
-      "name": "5485 Restaurant and Bar",
-      "distance": "0.9 mi",
-      "url": "https://www.google.com/maps/search/5485%20Restaurant%20and%20Bar+near+39.209997200000004%2C-76.8441612"
+      "url": "https://www.google.com/maps/search/?api=1&query=l%C4%81k%20Columbia&query_place_id=ChIJte4PQLXft4kRENoXyzR-K7A&center=39.2170093,-76.8546765"
     },
     {
       "name": "Auntie Anne's",
       "distance": "0.9 mi",
-      "url": "https://www.google.com/maps/search/Auntie%20Anne's+near+39.209997200000004%2C-76.8441612"
+      "url": "https://www.google.com/maps/search/?api=1&query=Auntie%20Anne's&query_place_id=ChIJB-cnAJnft4kRi6Ao7hNTOuc&center=39.2155316,-76.86040400000002"
     },
     {
       "name": "Bourbon Street Cajun Cafe",
       "distance": "1.0 mi",
-      "url": "https://www.google.com/maps/search/Bourbon%20Street%20Cajun%20Cafe+near+39.209997200000004%2C-76.8441612"
+      "url": "https://www.google.com/maps/search/?api=1&query=Bourbon%20Street%20Cajun%20Cafe&query_place_id=ChIJB-cnAJnft4kRo9I33FdKmZI&center=39.214634000000004,-76.8609695"
+    },
+    {
+      "name": "Charleys Cheesesteaks",
+      "distance": "1.0 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Charleys%20Cheesesteaks&query_place_id=ChIJv7mfBpjft4kRBGMvY9fayDM&center=39.2146432,-76.86115889999999"
+    },
+    {
+      "name": "Cinnabon",
+      "distance": "1.0 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Cinnabon&query_place_id=ChIJB-cnAJnft4kRNkxFIrphazI&center=39.214632800000004,-76.8611904"
+    },
+    {
+      "name": "Potbelly",
+      "distance": "1.5 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Potbelly&query_place_id=ChIJ8Vknj3ngt4kRyoEX4C2YoAY&center=39.1977873,-76.82074899999999"
     }
   ],
   "dinner": [

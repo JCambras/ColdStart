@@ -29,6 +29,16 @@
       "name": "Burger King",
       "distance": "1.2 mi",
       "url": "https://www.google.com/maps/search/?api=1&query=Burger%20King&query_place_id=ChIJ97lsRVV5wokR8B7tGljgyOE&center=40.6540098,-73.5582197"
+    },
+    {
+      "name": "Wendy's",
+      "distance": "1.2 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Wendy's&query_place_id=ChIJuT9lylR5wokRK7uK9ZRHq9s&center=40.653498,-73.5582448"
+    },
+    {
+      "name": "Taco Bell",
+      "distance": "1.2 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Taco%20Bell&query_place_id=ChIJR_PkUFV5wokRuXqGpzQVzkQ&center=40.654122099999995,-73.55895749999999"
     }
   ],
   "coffee": [
@@ -51,6 +61,11 @@
       "name": "Bagel Chalet - Merrick",
       "distance": "0.7 mi",
       "url": "https://www.google.com/maps/search/?api=1&query=Bagel%20Chalet%20-%20Merrick&query_place_id=ChIJZ7KXL_t_wokRJis_CplZ6LA&center=40.657088,-73.5487151"
+    },
+    {
+      "name": "McDonald's",
+      "distance": "1.0 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=McDonald's&query_place_id=ChIJA72EzVR5wokRvuefPlq5VtA&center=40.6538793,-73.5556246"
     }
   ],
   "team_lunch": [
@@ -78,6 +93,11 @@
       "name": "Bare Naked Bakery",
       "distance": "0.7 mi",
       "url": "https://www.google.com/maps/search/?api=1&query=Bare%20Naked%20Bakery&query_place_id=ChIJkx2HA5t_wokR_4-kWoBNtck&center=40.662349299999995,-73.5304051"
+    },
+    {
+      "name": "Cookie Fiesta Bakery",
+      "distance": "1.1 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Cookie%20Fiesta%20Bakery&query_place_id=ChIJZzdffm1_wokRWG2uwT2yt2I&center=40.6683976,-73.5265701"
     }
   ],
   "dinner": [

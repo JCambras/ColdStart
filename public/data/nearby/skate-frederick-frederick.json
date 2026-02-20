@@ -3,66 +3,111 @@
     {
       "name": "Roy Rogers",
       "distance": "0.2 mi",
-      "url": "https://www.google.com/maps/search/Roy%20Rogers+near+39.4455396%2C-77.3889633"
+      "url": "https://www.google.com/maps/search/?api=1&query=Roy%20Rogers&query_place_id=ChIJH769kK_ayYkR9arSxaA5i2c&center=39.447627,-77.38708199999999"
     },
     {
       "name": "Chick-fil-A",
       "distance": "0.2 mi",
-      "url": "https://www.google.com/maps/search/Chick-fil-A+near+39.4455396%2C-77.3889633"
+      "url": "https://www.google.com/maps/search/?api=1&query=Chick-fil-A&query_place_id=ChIJnatwU67ayYkRvKOUFMhKCu0&center=39.4487702,-77.3871056"
     },
     {
       "name": "Subway",
       "distance": "0.3 mi",
-      "url": "https://www.google.com/maps/search/Subway+near+39.4455396%2C-77.3889633"
+      "url": "https://www.google.com/maps/search/?api=1&query=Subway&query_place_id=ChIJvS_LQKbayYkR_gfQSXNw4K0&center=39.4491631,-77.389526"
     },
     {
       "name": "Five Guys",
       "distance": "0.3 mi",
-      "url": "https://www.google.com/maps/search/Five%20Guys+near+39.4455396%2C-77.3889633"
+      "url": "https://www.google.com/maps/search/?api=1&query=Five%20Guys&query_place_id=ChIJUUOdrqjayYkRpI-KwxuLGFU&center=39.4471542,-77.3840661"
     },
     {
       "name": "Firehouse Subs Shops At Monocacy",
       "distance": "0.3 mi",
-      "url": "https://www.google.com/maps/search/Firehouse%20Subs%20Shops%20At%20Monocacy+near+39.4455396%2C-77.3889633"
+      "url": "https://www.google.com/maps/search/?api=1&query=Firehouse%20Subs%20Shops%20At%20Monocacy&query_place_id=ChIJCfEW2ajayYkRnWLAQXane-4&center=39.44761,-77.38414999999999"
     },
     {
       "name": "Popeyes Louisiana Kitchen",
       "distance": "0.3 mi",
-      "url": "https://www.google.com/maps/search/Popeyes%20Louisiana%20Kitchen+near+39.4455396%2C-77.3889633"
+      "url": "https://www.google.com/maps/search/?api=1&query=Popeyes%20Louisiana%20Kitchen&query_place_id=ChIJOUEhBwDbyYkRzY5VPkTd8Ww&center=39.449241799999996,-77.3858466"
+    },
+    {
+      "name": "Corner Shoppe",
+      "distance": "0.3 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Corner%20Shoppe&query_place_id=ChIJKR3qKanbyYkRRI_izeCVxyI&center=39.447914999999995,-77.3838889"
+    },
+    {
+      "name": "Burger King",
+      "distance": "0.4 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Burger%20King&query_place_id=ChIJGzgyhVnayYkR8R79vprifBM&center=39.4446507,-77.3961818"
+    },
+    {
+      "name": "ZiPani Cafe Bistro",
+      "distance": "1.0 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=ZiPani%20Cafe%20Bistro&query_place_id=ChIJ8Z30tOnayYkRNOjc85MNXkI&center=39.4412392,-77.40725979999999"
+    },
+    {
+      "name": "Subway",
+      "distance": "1.0 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Subway&query_place_id=ChIJV_OR-8PayYkRB9WXkJkcxAg&center=39.4412118,-77.4073289"
     }
   ],
   "coffee": [
     {
       "name": "Starbucks Coffee Company",
       "distance": "0.2 mi",
-      "url": "https://www.google.com/maps/search/Starbucks%20Coffee%20Company+near+39.4455396%2C-77.3889633"
+      "url": "https://www.google.com/maps/search/?api=1&query=Starbucks%20Coffee%20Company&query_place_id=ChIJIUbXLQPbyYkR58ZNZHz8pzk&center=39.44845000000001,-77.38802"
+    },
+    {
+      "name": "McDonald's",
+      "distance": "0.3 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=McDonald's&query_place_id=ChIJM_0to7DayYkRuQMeW9fOguw&center=39.4462642,-77.3937732"
+    },
+    {
+      "name": "Paris Baguette",
+      "distance": "0.4 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Paris%20Baguette&query_place_id=ChIJU1fIUL3byYkR1LyOkVjT-lY&center=39.4517681,-77.3914259"
     }
   ],
   "team_lunch": [
     {
       "name": "Auntie Anne's",
       "distance": "0.1 mi",
-      "url": "https://www.google.com/maps/search/Auntie%20Anne's+near+39.4455396%2C-77.3889633"
+      "url": "https://www.google.com/maps/search/?api=1&query=Auntie%20Anne's&query_place_id=ChIJh3XzgaXayYkR0HTkO3CnHDo&center=39.4459279,-77.38716699999999"
     },
     {
       "name": "Pardon My Cheesesteak",
       "distance": "0.2 mi",
-      "url": "https://www.google.com/maps/search/Pardon%20My%20Cheesesteak+near+39.4455396%2C-77.3889633"
+      "url": "https://www.google.com/maps/search/?api=1&query=Pardon%20My%20Cheesesteak&query_place_id=ChIJkclQtI7byYkRdbXtphCWPIg&center=39.4462859,-77.3932237"
     },
     {
       "name": "IHOP",
       "distance": "0.2 mi",
-      "url": "https://www.google.com/maps/search/IHOP+near+39.4455396%2C-77.3889633"
+      "url": "https://www.google.com/maps/search/?api=1&query=IHOP&query_place_id=ChIJW8OvZbrayYkRHsSp5S6dV08&center=39.4462859,-77.3932237"
     },
     {
       "name": "MLB Ballpark Bites",
       "distance": "0.2 mi",
-      "url": "https://www.google.com/maps/search/MLB%20Ballpark%20Bites+near+39.4455396%2C-77.3889633"
+      "url": "https://www.google.com/maps/search/?api=1&query=MLB%20Ballpark%20Bites&query_place_id=ChIJV_LqHK7byYkR5TXYgqp7SDk&center=39.4463236,-77.3932224"
     },
     {
       "name": "California Tortilla",
       "distance": "0.3 mi",
-      "url": "https://www.google.com/maps/search/California%20Tortilla+near+39.4455396%2C-77.3889633"
+      "url": "https://www.google.com/maps/search/?api=1&query=California%20Tortilla&query_place_id=ChIJUUOdrqjayYkRUg35JykBWgE&center=39.447292999999995,-77.384435"
+    },
+    {
+      "name": "Sushiya",
+      "distance": "0.3 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Sushiya&query_place_id=ChIJy72Z_IrbyYkRuTlone7DY8U&center=39.4468027,-77.3836961"
+    },
+    {
+      "name": "Giant Food Bakery",
+      "distance": "0.3 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Giant%20Food%20Bakery&query_place_id=ChIJr4JfEwDbyYkROg28ZEGXPCM&center=39.4481518,-77.3835771"
+    },
+    {
+      "name": "Potbelly",
+      "distance": "0.4 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Potbelly&query_place_id=ChIJ8bVUdXHbyYkRyBITNPebCOc&center=39.4472915,-77.395293"
     }
   ],
   "dinner": [

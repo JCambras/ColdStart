@@ -11,6 +11,11 @@
       "url": "https://www.google.com/maps/search/?api=1&query=Subway&query_place_id=ChIJGU48dt866IkRGcwK1ylf2Hg&center=40.8847904,-73.2559971"
     },
     {
+      "name": "Dunkin'",
+      "distance": "0.9 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Dunkin'&query_place_id=ChIJRcsh5dg66IkRt722bC2ZhOM&center=40.8847704,-73.2609414"
+    },
+    {
       "name": "Burger King",
       "distance": "1.8 mi",
       "url": "https://www.google.com/maps/search/?api=1&query=Burger%20King&query_place_id=ChIJvShm9p466IkRliu1n3jIA7E&center=40.847890199999995,-73.245576"
@@ -29,6 +34,16 @@
       "name": "Wendy's",
       "distance": "2.6 mi",
       "url": "https://www.google.com/maps/search/?api=1&query=Wendy's&query_place_id=ChIJE-vi4vov6IkRuUzv5V9Kfhw&center=40.842451800000006,-73.28622159999999"
+    },
+    {
+      "name": "Taco Bell",
+      "distance": "2.6 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Taco%20Bell&query_place_id=ChIJeb514_ov6IkRINqIQKsYEkQ&center=40.8424006,-73.2865178"
+    },
+    {
+      "name": "White Castle",
+      "distance": "2.7 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=White%20Castle&query_place_id=ChIJ2ZJDwvEv6IkRcwADKYFjmrM&center=40.8432402,-73.2922877"
     }
   ],
   "coffee": [
@@ -41,6 +56,11 @@
       "name": "Dunkin'",
       "distance": "0.9 mi",
       "url": "https://www.google.com/maps/search/?api=1&query=Dunkin'&query_place_id=ChIJRcsh5dg66IkRt722bC2ZhOM&center=40.8847704,-73.2609414"
+    },
+    {
+      "name": "McDonald's",
+      "distance": "1.8 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=McDonald's&query_place_id=ChIJBx1gipw66IkRlMAFnlv6jkE&center=40.848633,-73.2440277"
     },
     {
       "name": "MAYFAIR BAGEL CAFE",

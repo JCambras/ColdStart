@@ -6,6 +6,11 @@
       "url": "https://www.google.com/maps/search/?api=1&query=J%20P%20House%20of%20Pizza&query_place_id=ChIJQ_9GAWx544kRsdcTEKrJeSw&center=42.310009799999996,-71.1154318"
     },
     {
+      "name": "Dunkin'",
+      "distance": "1.0 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Dunkin'&query_place_id=ChIJXz6OPc1544kRivoOdDePJ2o&center=42.3104562,-71.11521309999999"
+    },
+    {
       "name": "Fiore's Bakery",
       "distance": "1.0 mi",
       "url": "https://www.google.com/maps/search/?api=1&query=Fiore's%20Bakery&query_place_id=ChIJqRab0Gt544kRoI6atQPwEg8&center=42.3079551,-71.1157602"
@@ -19,12 +24,6 @@
       "name": "Italian Pizza and Subs",
       "distance": "1.1 mi",
       "url": "https://www.google.com/maps/search/?api=1&query=Italian%20Pizza%20and%20Subs&query_place_id=ChIJo0UjGkJ544kRkBI8P5Byie8&center=42.304015299999996,-71.11451269999999"
-    },
-    {
-      "name": "American Flatbread Brighton",
-      "distance": "3.2 mi",
-      "url": "https://www.google.com/maps/search/?api=1&query=American%20Flatbread%20Brighton&query_place_id=ChIJj4ugYc1544kR8RAdXR-VPog&center=42.356994199999995,-71.1444357",
-      "isFar": true
     }
   ],
   "coffee": [
@@ -47,6 +46,16 @@
       "name": "Drive-By Pies",
       "distance": "1.2 mi",
       "url": "https://www.google.com/maps/search/?api=1&query=Drive-By%20Pies&query_place_id=ChIJF24JXqB544kR1_N550p94D8&center=42.3266827,-71.1236634"
+    },
+    {
+      "name": "Bruegger's Bagels",
+      "distance": "1.6 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Bruegger's%20Bagels&query_place_id=ChIJe8mdic1444kRiLVOsk_GwDE&center=42.296434999999995,-71.1570096"
+    },
+    {
+      "name": "Cutty's",
+      "distance": "1.7 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Cutty's&query_place_id=ChIJKwMEP5h544kRft8S7vi1O7g&center=42.3331588,-71.1193352"
     }
   ],
   "team_lunch": [

@@ -19,18 +19,58 @@
       "name": "Subway",
       "distance": "1.0 mi",
       "url": "https://www.google.com/maps/search/?api=1&query=Subway&query_place_id=ChIJ3eVjhJdb34cR-vbPXCb9zdw&center=38.8848467,-90.10161629999999"
+    },
+    {
+      "name": "Jack in the Box",
+      "distance": "1.2 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Jack%20in%20the%20Box&query_place_id=ChIJyQFKGLpb34cRHhPeVE4mtF0&center=38.873996399999996,-90.0985417"
+    },
+    {
+      "name": "Subway",
+      "distance": "2.1 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Subway&query_place_id=ChIJHfCOLVVb34cRboSZcPFqXsE&center=38.9022303,-90.14849939999999"
+    },
+    {
+      "name": "Jack in the Box",
+      "distance": "2.2 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Jack%20in%20the%20Box&query_place_id=ChIJh_BtNFVb34cRBGAt2UjE_UQ&center=38.9027375,-90.149112"
+    },
+    {
+      "name": "Hardee's",
+      "distance": "2.5 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Hardee's&query_place_id=ChIJJRUzbtNb34cR6CjWhPjGrvE&center=38.8643718,-90.0793899"
+    },
+    {
+      "name": "King Louie's Drive-In",
+      "distance": "2.5 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=King%20Louie's%20Drive-In&query_place_id=ChIJn6GgnzFa34cRtQVq6KGjHDM&center=38.855916,-90.0861894"
+    },
+    {
+      "name": "Jimmy John's",
+      "distance": "2.6 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Jimmy%20John's&query_place_id=ChIJbc2V2tRb34cRKVVOy4g-K3w&center=38.8633895,-90.0778284"
     }
   ],
   "coffee": [
+    {
+      "name": "McDonald's",
+      "distance": "0.1 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=McDonald's&query_place_id=ChIJ6fLPWQ1b34cRk5EoLd5Q9oE&center=38.882787,-90.12065799999999"
+    },
+    {
+      "name": "Germania Brew Haus | East Alton | Drive-Thru",
+      "distance": "0.1 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Germania%20Brew%20Haus%20%7C%20East%20Alton%20%7C%20Drive-Thru&query_place_id=ChIJX62UMj9b34cRXawFSFIgTW4&center=38.8798392,-90.11750459999999"
+    },
     {
       "name": "Cafe Creations Ice Cream and More",
       "distance": "0.1 mi",
       "url": "https://www.google.com/maps/search/?api=1&query=Cafe%20Creations%20Ice%20Cream%20and%20More&query_place_id=ChIJE9bhz75b34cRub9zJUIIU24&center=38.8789489,-90.1187313"
     },
     {
-      "name": "Milton Place (Video Poker and Slots)",
-      "distance": "1.1 mi",
-      "url": "https://www.google.com/maps/search/?api=1&query=Milton%20Place%20(Video%20Poker%20and%20Slots)&query_place_id=ChIJ_wXOLl1b34cRwbxd_-Ztz8A&center=38.893767499999996,-90.1332223"
+      "name": "McDonald's",
+      "distance": "2.5 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=McDonald's&query_place_id=ChIJtR1I-NRb34cRRK4pOd8cev8&center=38.8648642,-90.07753459999999"
     }
   ],
   "team_lunch": [
@@ -43,6 +83,11 @@
       "name": "Hunt Brothers Pizza",
       "distance": "1.1 mi",
       "url": "https://www.google.com/maps/search/?api=1&query=Hunt%20Brothers%20Pizza&query_place_id=ChIJX16_zHlb34cROYUgl-B3KMA&center=38.8935858,-90.13321049999999"
+    },
+    {
+      "name": "Walmart Bakery",
+      "distance": "2.8 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Walmart%20Bakery&query_place_id=ChIJIT6fh3xZ34cRfw6_C5H9024&center=38.8702615,-90.0704568"
     }
   ],
   "dinner": [

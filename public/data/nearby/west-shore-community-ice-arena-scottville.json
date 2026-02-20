@@ -3,19 +3,19 @@
     {
       "name": "Taco Bell",
       "distance": "4.7 mi",
-      "url": "https://www.google.com/maps/search/Taco%20Bell+near+44.0100711%2C-86.3311518",
+      "url": "https://www.google.com/maps/search/?api=1&query=Taco%20Bell&query_place_id=ChIJS6QX6xoaHIgRbr9ScH3WHYk&center=43.9565945,-86.38989149999999",
       "isFar": true
     },
     {
       "name": "Arby's",
       "distance": "4.9 mi",
-      "url": "https://www.google.com/maps/search/Arby's+near+44.0100711%2C-86.3311518",
+      "url": "https://www.google.com/maps/search/?api=1&query=Arby's&query_place_id=ChIJF_3cDyMaHIgRpA8xAcxP5CY&center=43.9550002,-86.394735",
       "isFar": true
     },
     {
       "name": "Subway",
       "distance": "5.0 mi",
-      "url": "https://www.google.com/maps/search/Subway+near+44.0100711%2C-86.3311518",
+      "url": "https://www.google.com/maps/search/?api=1&query=Subway&query_place_id=ChIJQ7hPshkaHIgRwZiQsw-AvNA&center=43.9578284,-86.40037350000001",
       "isFar": true
     }
   ],
@@ -23,30 +23,30 @@
     {
       "name": "Jolly Plate",
       "distance": "2.6 mi",
-      "url": "https://www.google.com/maps/search/Jolly%20Plate+near+44.0100711%2C-86.3311518"
+      "url": "https://www.google.com/maps/search/?api=1&query=Jolly%20Plate&query_place_id=ChIJmSCxRTIdHIgRkNqftrZ1uHI&center=44.0003896,-86.27963129999999"
     },
     {
       "name": "North Country Cafe",
       "distance": "4.6 mi",
-      "url": "https://www.google.com/maps/search/North%20Country%20Cafe+near+44.0100711%2C-86.3311518",
+      "url": "https://www.google.com/maps/search/?api=1&query=North%20Country%20Cafe&query_place_id=ChIJy4qWYt4dHIgRgoV2FosSP_0&center=43.9554234,-86.2792715",
       "isFar": true
     },
     {
       "name": "State & Main",
       "distance": "4.6 mi",
-      "url": "https://www.google.com/maps/search/State%20%26%20Main+near+44.0100711%2C-86.3311518",
+      "url": "https://www.google.com/maps/search/?api=1&query=State%20%26%20Main&query_place_id=ChIJrwYrL24dHIgRc3V_rGqXPuo&center=43.954968,-86.279708",
       "isFar": true
     },
     {
       "name": "Starbucks",
       "distance": "4.8 mi",
-      "url": "https://www.google.com/maps/search/Starbucks+near+44.0100711%2C-86.3311518",
+      "url": "https://www.google.com/maps/search/?api=1&query=Starbucks&query_place_id=ChIJxa-VIg4bHIgRkCk_R9zR-Ls&center=43.95606,-86.39272",
       "isFar": true
     },
     {
       "name": "BIGGBY COFFEE",
       "distance": "4.9 mi",
-      "url": "https://www.google.com/maps/search/BIGGBY%20COFFEE+near+44.0100711%2C-86.3311518",
+      "url": "https://www.google.com/maps/search/?api=1&query=BIGGBY%20COFFEE&query_place_id=ChIJyRL7DSMaHIgR99O_TNoZ4CU&center=43.9550726,-86.3930026",
       "isFar": true
     }
   ],
@@ -54,25 +54,19 @@
     {
       "name": "Beamer's Restaurant",
       "distance": "3.8 mi",
-      "url": "https://www.google.com/maps/search/Beamer's%20Restaurant+near+44.0100711%2C-86.3311518",
+      "url": "https://www.google.com/maps/search/?api=1&query=Beamer's%20Restaurant&query_place_id=ChIJLd2MDwccHIgRb-py-obxxbE&center=43.9547032,-86.3358021",
       "isFar": true
     },
     {
       "name": "Meijer Bakery",
       "distance": "4.2 mi",
-      "url": "https://www.google.com/maps/search/Meijer%20Bakery+near+44.0100711%2C-86.3311518",
-      "isFar": true
-    },
-    {
-      "name": "Applebee's Grill + Bar",
-      "distance": "4.4 mi",
-      "url": "https://www.google.com/maps/search/Applebee's%20Grill%20%2B%20Bar+near+44.0100711%2C-86.3311518",
+      "url": "https://www.google.com/maps/search/?api=1&query=Meijer%20Bakery&query_place_id=ChIJ93E3TgwbHIgRjR_0OMLfSlI&center=43.958779299999996,-86.3772699",
       "isFar": true
     },
     {
       "name": "Ponderosa",
       "distance": "5.0 mi",
-      "url": "https://www.google.com/maps/search/Ponderosa+near+44.0100711%2C-86.3311518",
+      "url": "https://www.google.com/maps/search/?api=1&query=Ponderosa&query_place_id=ChIJ__xTnCIaHIgREt90qdLWcZ0&center=43.954732899999996,-86.3954703",
       "isFar": true
     }
   ],

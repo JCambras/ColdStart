@@ -11,6 +11,11 @@
       "url": "https://www.google.com/maps/search/?api=1&query=White%20Castle&query_place_id=ChIJ1yM8v_lFwokRTnfmwLRsvT8&center=40.5751481,-73.9809171"
     },
     {
+      "name": "Dunkin' Donuts",
+      "distance": "0.3 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Dunkin'%20Donuts&query_place_id=ChIJdxEZbzVEwokRJx6JXRBpWwY&center=40.57596300000001,-73.981059"
+    },
+    {
       "name": "Habibi Moroccan Halal Food & Smoothies",
       "distance": "0.3 mi",
       "url": "https://www.google.com/maps/search/?api=1&query=Habibi%20Moroccan%20Halal%20Food%20%26%20Smoothies&query_place_id=ChIJB5tynHVFwokR7J782jZUREQ&center=40.5763671,-73.9812513"
@@ -29,6 +34,11 @@
       "name": "Flywheel Eats",
       "distance": "0.4 mi",
       "url": "https://www.google.com/maps/search/?api=1&query=Flywheel%20Eats&query_place_id=ChIJyxch7-FFwokRuPfURDb9S2Q&center=40.575282699999995,-73.97819670000001"
+    },
+    {
+      "name": "Beka’s shaurma",
+      "distance": "0.9 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Beka%E2%80%99s%20shaurma&query_place_id=ChIJMSBVWTpFwokR3bGZ8iC3br8&center=40.5799903,-73.97153229999999"
     }
   ],
   "coffee": [
@@ -38,9 +48,14 @@
       "url": "https://www.google.com/maps/search/?api=1&query=Dunkin'%20Donuts&query_place_id=ChIJdxEZbzVEwokRJx6JXRBpWwY&center=40.57596300000001,-73.981059"
     },
     {
-      "name": "Land-O-Fun",
-      "distance": "1.6 mi",
-      "url": "https://www.google.com/maps/search/?api=1&query=Land-O-Fun&query_place_id=ChIJVf9kV11EwokRqKWYIyHCOM8&center=40.58417250000001,-73.95972359999999"
+      "name": "McDonald's",
+      "distance": "0.4 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=McDonald's&query_place_id=ChIJx866qWZEwokRkO6NcAaDEuE&center=40.577146299999995,-73.98181500000001"
+    },
+    {
+      "name": "McDonald's",
+      "distance": "0.7 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=McDonald's&query_place_id=ChIJx866qWZEwokRqDEZ0nKYmdY&center=40.5795745,-73.9750772"
     }
   ],
   "team_lunch": [
@@ -55,24 +70,44 @@
       "url": "https://www.google.com/maps/search/?api=1&query=Surf%20Pizza%20%26%20Wings%20halal&query_place_id=ChIJPRJEzJhFwokREzuvs65rBBg&center=40.5746113,-73.9882581"
     },
     {
-      "name": "Footprints Cafe",
-      "distance": "0.2 mi",
-      "url": "https://www.google.com/maps/search/?api=1&query=Footprints%20Cafe&query_place_id=ChIJTUFvyspFwokR_o5rC-O9aJA&center=40.575661499999995,-73.9832303"
-    },
-    {
       "name": "EMPANADAS JOE",
       "distance": "0.2 mi",
       "url": "https://www.google.com/maps/search/?api=1&query=EMPANADAS%20JOE&query_place_id=ChIJZUUlABJFwokR7SQrqWu2smo&center=40.57602,-73.98335290000001"
     },
     {
-      "name": "Salt & Sizzle",
-      "distance": "0.2 mi",
-      "url": "https://www.google.com/maps/search/?api=1&query=Salt%20%26%20Sizzle&query_place_id=ChIJDws-Y8tFwokRnJ87FCfTq6Y&center=40.5731737,-73.9811366"
-    },
-    {
       "name": "Papa Johns Pizza",
       "distance": "0.3 mi",
       "url": "https://www.google.com/maps/search/?api=1&query=Papa%20Johns%20Pizza&query_place_id=ChIJhefkFbVFwokRVGfEBa1uM9I&center=40.5760011,-73.9887007"
+    },
+    {
+      "name": "Sausage Heros Hot Pizza",
+      "distance": "0.3 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Sausage%20Heros%20Hot%20Pizza&query_place_id=ChIJYwt6OTVEwokRmKKo2iESc4I&center=40.5753275,-73.9819469"
+    },
+    {
+      "name": "Leanly",
+      "distance": "0.3 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Leanly&query_place_id=ChIJhUI4qcpFwokRKeSfnrlIqLE&center=40.576841,-73.98455729999999"
+    },
+    {
+      "name": "Auntie Anne's",
+      "distance": "0.3 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Auntie%20Anne's&query_place_id=ChIJ7TVdnzVEwokREDJdEnssrYc&center=40.574926600000005,-73.9813041"
+    },
+    {
+      "name": "Coney Island Finest Deli Inc",
+      "distance": "0.3 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Coney%20Island%20Finest%20Deli%20Inc&query_place_id=ChIJjQYdr8pFwokR1AYvW8jIldM&center=40.5766494,-73.9835634"
+    },
+    {
+      "name": "IMPERIAL GARDENS",
+      "distance": "0.3 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=IMPERIAL%20GARDENS&query_place_id=ChIJ_d63RgBFwokRaMjdcbwzk_M&center=40.574003,-73.9909415"
+    },
+    {
+      "name": "Tom's",
+      "distance": "0.3 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Tom's&query_place_id=ChIJyTdD8TREwokRpHqpZwrdpr8&center=40.5733333,-73.98055560000002"
     }
   ],
   "dinner": [

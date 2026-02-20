@@ -1,6 +1,11 @@
 {
   "quick_bite": [
     {
+      "name": "Wawa",
+      "distance": "0.2 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Wawa&query_place_id=ChIJuxBC6Eg4xIkRANemuNU1w2A&center=40.651008,-75.499831"
+    },
+    {
       "name": "Happy Garden",
       "distance": "0.2 mi",
       "url": "https://www.google.com/maps/search/?api=1&query=Happy%20Garden&query_place_id=ChIJl9wkTkQ4xIkRIQNX_VGbkd0&center=40.6549743,-75.49639979999999"
@@ -16,17 +21,47 @@
       "url": "https://www.google.com/maps/search/?api=1&query=Burger%20King&query_place_id=ChIJH2Uy7FE4xIkRxQydxRonn7I&center=40.6462241,-75.4935324"
     },
     {
-      "name": "QDOBA Mexican Eats",
-      "distance": "0.7 mi",
-      "url": "https://www.google.com/maps/search/?api=1&query=QDOBA%20Mexican%20Eats&query_place_id=ChIJC-Nk9U04xIkR27knG7IdAwo&center=40.6455534,-75.4924867"
-    },
-    {
       "name": "Chick-fil-A",
       "distance": "0.7 mi",
       "url": "https://www.google.com/maps/search/?api=1&query=Chick-fil-A&query_place_id=ChIJpz3Aj004xIkRGbe5tygJ6yI&center=40.644618699999995,-75.4931584"
+    },
+    {
+      "name": "Wendy's",
+      "distance": "0.8 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Wendy's&query_place_id=ChIJkeW-elI4xIkRnMTqWqVw93A&center=40.6446283,-75.4918046"
+    },
+    {
+      "name": "Arby's",
+      "distance": "1.0 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Arby's&query_place_id=ChIJvxCUc1M4xIkRGF4EhavmE9s&center=40.6430356,-75.48815479999999"
+    },
+    {
+      "name": "JJ\"s Sushi",
+      "distance": "1.2 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=JJ%22s%20Sushi&query_place_id=ChIJgaM73NE5xIkRX5c4M1V4oH8&center=40.6388612,-75.4894248"
+    },
+    {
+      "name": "Subway",
+      "distance": "1.2 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Subway&query_place_id=ChIJE1Mw5a05xIkRvps-FOHNBz0&center=40.636808599999995,-75.4918902"
+    },
+    {
+      "name": "Taco Bell",
+      "distance": "1.4 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Taco%20Bell&query_place_id=ChIJNdwpHaw5xIkRZIHBGbGh-kY&center=40.6356974,-75.4871368"
     }
   ],
   "coffee": [
+    {
+      "name": "Wawa",
+      "distance": "0.2 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Wawa&query_place_id=ChIJuxBC6Eg4xIkRANemuNU1w2A&center=40.651008,-75.499831"
+    },
+    {
+      "name": "McDonald's",
+      "distance": "0.2 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=McDonald's&query_place_id=ChIJ40OSoUM5xIkRsvOCrkyUdFA&center=40.650830000000006,-75.501122"
+    },
     {
       "name": "OA Donuts",
       "distance": "0.2 mi",
@@ -36,6 +71,21 @@
       "name": "3PC Chicken",
       "distance": "0.2 mi",
       "url": "https://www.google.com/maps/search/?api=1&query=3PC%20Chicken&query_place_id=ChIJscuDNgA5xIkRAzghossOcFQ&center=40.6550827,-75.49647949999999"
+    },
+    {
+      "name": "Starbucks",
+      "distance": "0.6 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Starbucks&query_place_id=ChIJD0BAQnY5xIkR1uUAe9lU-aE&center=40.64573,-75.49437"
+    },
+    {
+      "name": "Panera Bread",
+      "distance": "0.7 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Panera%20Bread&query_place_id=ChIJqbg79U04xIkRLMNvWTCKYow&center=40.6454075,-75.492701"
+    },
+    {
+      "name": "McDonald's",
+      "distance": "1.4 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=McDonald's&query_place_id=ChIJYy9mAqw5xIkRGIG4MrC9j7I&center=40.636126,-75.487082"
     }
   ],
   "team_lunch": [

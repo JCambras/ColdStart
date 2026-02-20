@@ -11,24 +11,29 @@
       "url": "https://www.google.com/maps/search/?api=1&query=Tri-City%20Wings%20%26%20Grill&query_place_id=ChIJB99ZXdKD44kRyHj1vTtbsVA&center=42.365585599999996,-71.21788169999999"
     },
     {
+      "name": "Dunkin'",
+      "distance": "0.5 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Dunkin'&query_place_id=ChIJWafO46KC44kRzEKtvwx668U&center=42.360291499999995,-71.20246879999999"
+    },
+    {
+      "name": "Dunkin'",
+      "distance": "0.5 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Dunkin'&query_place_id=ChIJ9ZyVv8eC44kRvces-RxXVKs&center=42.3688444,-71.2177808"
+    },
+    {
       "name": "Subway",
       "distance": "0.6 mi",
       "url": "https://www.google.com/maps/search/?api=1&query=Subway&query_place_id=ChIJ4cNvBcaC44kRk4YfoumdXM8&center=42.36884920000001,-71.2196428"
     },
     {
-      "name": "Brand new, centrally-located 3BR close to Boston",
-      "distance": "0.8 mi",
-      "url": "https://www.google.com/maps/search/?api=1&query=Brand%20new%2C%20centrally-located%203BR%20close%20to%20Boston&query_place_id=ChIJsQ3imamC44kR-rFBDS6pN7c&center=42.369838699999995,-71.19461059999999"
-    },
-    {
-      "name": "Brand new, centrally-located 3BR close to Boston",
-      "distance": "0.8 mi",
-      "url": "https://www.google.com/maps/search/?api=1&query=Brand%20new%2C%20centrally-located%203BR%20close%20to%20Boston&query_place_id=ChIJDXvimamC44kR7YbOs3ECZQM&center=42.3698426,-71.19461059999999"
-    },
-    {
       "name": "Market Sandwich",
       "distance": "0.9 mi",
       "url": "https://www.google.com/maps/search/?api=1&query=Market%20Sandwich&query_place_id=ChIJg9pBp7KD44kRxe3C4aQTnI0&center=42.3541532,-71.2000825"
+    },
+    {
+      "name": "Tru Foods Kitchen",
+      "distance": "1.1 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Tru%20Foods%20Kitchen&query_place_id=ChIJXSTRHUh544kRCSHrXm7b5AY&center=42.3673912,-71.1877823"
     }
   ],
   "coffee": [
@@ -41,6 +46,11 @@
       "name": "Dunkin'",
       "distance": "0.5 mi",
       "url": "https://www.google.com/maps/search/?api=1&query=Dunkin'&query_place_id=ChIJ9ZyVv8eC44kRvces-RxXVKs&center=42.3688444,-71.2177808"
+    },
+    {
+      "name": "McDonald's",
+      "distance": "0.6 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=McDonald's&query_place_id=ChIJpcq_RaaC44kRHdB5Z1Zfi3A&center=42.365097,-71.1962851"
     },
     {
       "name": "Clover",
@@ -78,6 +88,11 @@
       "name": "The Cookie Monstah",
       "distance": "0.9 mi",
       "url": "https://www.google.com/maps/search/?api=1&query=The%20Cookie%20Monstah&query_place_id=ChIJDVG8hgCD44kRDMUJGF36zLM&center=42.35174,-71.208494"
+    },
+    {
+      "name": "Panorama Bakery",
+      "distance": "1.1 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Panorama%20Bakery&query_place_id=ChIJcTj9igZ444kRRenOa4IvC1U&center=42.3673912,-71.1877823"
     }
   ],
   "dinner": [

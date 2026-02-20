@@ -24,6 +24,31 @@
       "name": "Chick-fil-A",
       "distance": "1.4 mi",
       "url": "https://www.google.com/maps/search/?api=1&query=Chick-fil-A&query_place_id=ChIJx3esDNhay4kRiF32Q_AcCIM&center=40.6192912,-79.1544418"
+    },
+    {
+      "name": "Taco Bell",
+      "distance": "1.8 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Taco%20Bell&query_place_id=ChIJI1CSydBay4kRL-2UchnmCSE&center=40.6185681,-79.1610405"
+    },
+    {
+      "name": "Subway",
+      "distance": "2.0 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Subway&query_place_id=ChIJd4QXZdFay4kRH7hPR2un_zQ&center=40.615945599999996,-79.1637071"
+    },
+    {
+      "name": "Arby's",
+      "distance": "2.0 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Arby's&query_place_id=ChIJSR5i7NFay4kRqU8L6tFBSYU&center=40.6158642,-79.16486069999999"
+    },
+    {
+      "name": "Burger King",
+      "distance": "2.6 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Burger%20King&query_place_id=ChIJGQohWMpay4kRgM1MYGfuF7U&center=40.6133905,-79.1752267"
+    },
+    {
+      "name": "Raising Cane's Chicken Fingers",
+      "distance": "2.6 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Raising%20Cane's%20Chicken%20Fingers&query_place_id=ChIJWd41PgBby4kRCM3ZUuwvxz8&center=40.612677999999995,-79.1757244"
     }
   ],
   "coffee": [
@@ -46,6 +71,16 @@
       "name": "Lemoona House Restaurant",
       "distance": "1.4 mi",
       "url": "https://www.google.com/maps/search/?api=1&query=Lemoona%20House%20Restaurant&query_place_id=ChIJ6ZJVUTtby4kRffnIpkbXZiM&center=40.6233942,-79.15310079999999"
+    },
+    {
+      "name": "McDonald's",
+      "distance": "1.6 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=McDonald's&query_place_id=ChIJX0dlE9Zay4kRUtfhqlTfpqI&center=40.615144799999996,-79.1563255"
+    },
+    {
+      "name": "McDonald's",
+      "distance": "2.3 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=McDonald's&query_place_id=ChIJ0Ud4Isxay4kRr__b_QE8wSc&center=40.6157493,-79.17057129999999"
     }
   ],
   "team_lunch": [
@@ -53,11 +88,6 @@
       "name": "Lotus Grill & Noodles",
       "distance": "1.1 mi",
       "url": "https://www.google.com/maps/search/?api=1&query=Lotus%20Grill%20%26%20Noodles&query_place_id=ChIJxdsiEnBby4kRupzzFiLqX_k&center=40.622546899999996,-79.1476105"
-    },
-    {
-      "name": "Boomerangs Bar & Grill",
-      "distance": "1.2 mi",
-      "url": "https://www.google.com/maps/search/?api=1&query=Boomerangs%20Bar%20%26%20Grill&query_place_id=ChIJ6a_ApSZby4kRRrywVCIDhic&center=40.6231398,-79.1496107"
     },
     {
       "name": "Italian Village Pizza",
@@ -78,6 +108,12 @@
       "name": "Auntie Anne's",
       "distance": "3.1 mi",
       "url": "https://www.google.com/maps/search/?api=1&query=Auntie%20Anne's&query_place_id=ChIJIwVMQkxFy4kRemjpSuhchjk&center=40.607563,-79.1833667",
+      "isFar": true
+    },
+    {
+      "name": "Giant Eagle Bakery",
+      "distance": "3.3 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Giant%20Eagle%20Bakery&query_place_id=ChIJU-M1eK1ay4kR8e1wVGLcRLs&center=40.614084,-79.1886703",
       "isFar": true
     }
   ],

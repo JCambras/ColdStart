@@ -1,11 +1,6 @@
 {
   "quick_bite": [
     {
-      "name": "Tony's Place Bar & Grill",
-      "distance": "0.5 mi",
-      "url": "https://www.google.com/maps/search/?api=1&query=Tony's%20Place%20Bar%20%26%20Grill&query_place_id=ChIJSwbWjaSuxokRhJu88zHOCwc&center=40.213310899999996,-75.0701107"
-    },
-    {
       "name": "Authentic Indian Immunity boosting comfort food",
       "distance": "0.5 mi",
       "url": "https://www.google.com/maps/search/?api=1&query=Authentic%20Indian%20Immunity%20boosting%20comfort%20food&query_place_id=ChIJB2NhB7KvxokR2Ax2AaHrAQk&center=40.2157694,-75.0620247"
@@ -21,9 +16,39 @@
       "url": "https://www.google.com/maps/search/?api=1&query=SNOWFOX%20Sushi&query_place_id=ChIJi7Eh8JGvxokR6bg_FvtBKoQ&center=40.2220106,-75.0962194"
     },
     {
+      "name": "Dunkin'",
+      "distance": "1.4 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Dunkin'&query_place_id=ChIJwZ41jNquxokRxPVWh-AajLk&center=40.2212797,-75.0976427"
+    },
+    {
       "name": "Muzzy's Shack",
       "distance": "1.7 mi",
       "url": "https://www.google.com/maps/search/?api=1&query=Muzzy's%20Shack&query_place_id=ChIJh5PJBpivxokRbO_RmPYJBu8&center=40.204902499999996,-75.0950859"
+    },
+    {
+      "name": "Wawa",
+      "distance": "1.7 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Wawa&query_place_id=ChIJV81CiuWuxokRxVy7AUKu6bs&center=40.20447,-75.0947498"
+    },
+    {
+      "name": "Chick-fil-A",
+      "distance": "1.7 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Chick-fil-A&query_place_id=ChIJ1-oSH42uxokRL01ZwRy-u2o&center=40.198169,-75.08399399999999"
+    },
+    {
+      "name": "Chipotle Mexican Grill",
+      "distance": "1.7 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Chipotle%20Mexican%20Grill&query_place_id=ChIJ2SK4BI2uxokRm8__VzsO4os&center=40.1974169,-75.0825828"
+    },
+    {
+      "name": "Popeyes Louisiana Kitchen",
+      "distance": "1.7 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Popeyes%20Louisiana%20Kitchen&query_place_id=ChIJg-c5ZOStxokRqNQfQGXU9HY&center=40.2014603,-75.0913442"
+    },
+    {
+      "name": "Burger King",
+      "distance": "1.8 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Burger%20King&query_place_id=ChIJbeuMxOWuxokRN9st7B56aeA&center=40.2046978,-75.097172"
     }
   ],
   "coffee": [
@@ -38,17 +63,22 @@
       "url": "https://www.google.com/maps/search/?api=1&query=Dunkin'&query_place_id=ChIJwZ41jNquxokRxPVWh-AajLk&center=40.2212797,-75.0976427"
     },
     {
+      "name": "Wawa",
+      "distance": "1.7 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Wawa&query_place_id=ChIJV81CiuWuxokRxVy7AUKu6bs&center=40.20447,-75.0947498"
+    },
+    {
       "name": "Yum Yum Bake Shops",
       "distance": "1.8 mi",
       "url": "https://www.google.com/maps/search/?api=1&query=Yum%20Yum%20Bake%20Shops&query_place_id=ChIJ7WN-ce-uxokRODVYIcBquZY&center=40.20361450000001,-75.0950486"
+    },
+    {
+      "name": "Wawa",
+      "distance": "2.1 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Wawa&query_place_id=ChIJ11jooT6pxokRfsgdP0r04UM&center=40.2466211,-75.0897745"
     }
   ],
   "team_lunch": [
-    {
-      "name": "Judd's & Jackson's Restaurant",
-      "distance": "0.9 mi",
-      "url": "https://www.google.com/maps/search/?api=1&query=Judd's%20%26%20Jackson's%20Restaurant&query_place_id=ChIJ4TI-BWCtxokRDj7PZT63mSg&center=40.2123728,-75.0580483"
-    },
     {
       "name": "Zara halal food",
       "distance": "1.7 mi",

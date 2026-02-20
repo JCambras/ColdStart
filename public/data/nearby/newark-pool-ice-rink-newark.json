@@ -14,11 +14,6 @@
       "name": "Cafe Noponto",
       "distance": "0.8 mi",
       "url": "https://www.google.com/maps/search/?api=1&query=Cafe%20Noponto&query_place_id=ChIJ-8BfdRxTwokR0E6Zr2AP2U0&center=40.729939,-74.1576682"
-    },
-    {
-      "name": "Chuck E. Cheese",
-      "distance": "2.5 mi",
-      "url": "https://www.google.com/maps/search/?api=1&query=Chuck%20E.%20Cheese&query_place_id=ChIJxa7oUzdRwokRejK703aEyns&center=40.7218084,-74.0949193"
     }
   ],
   "coffee": [
@@ -41,14 +36,14 @@
       "name": "MINAS CAFE NEWARK",
       "distance": "0.8 mi",
       "url": "https://www.google.com/maps/search/?api=1&query=MINAS%20CAFE%20NEWARK&query_place_id=ChIJR-uRMQBTwokR9QK8pKlWEVU&center=40.7294124,-74.1573015"
-    },
-    {
-      "name": "condando scooter & motorcylce rentals",
-      "distance": "2.0 mi",
-      "url": "https://www.google.com/maps/search/?api=1&query=condando%20scooter%20%26%20motorcylce%20rentals&query_place_id=ChIJ3YTa8XpTwokRzc5sg_r_da0&center=40.7234586,-74.18072699999999"
     }
   ],
   "team_lunch": [
+    {
+      "name": "LB",
+      "distance": "0.2 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=LB&query_place_id=ChIJCRG7TBtTwokRPLPgC3hp6k8&center=40.7254205,-74.1455006"
+    },
     {
       "name": "Logicamente assim",
       "distance": "0.2 mi",
@@ -70,9 +65,29 @@
       "url": "https://www.google.com/maps/search/?api=1&query=La%20Jarochita%20food%20truck&query_place_id=ChIJr-_VOABTwokRV3ffp7i6Xrw&center=40.7207085,-74.1431238"
     },
     {
-      "name": "El Fogón Bar and Restaurant",
+      "name": "Casa Humitas",
       "distance": "0.4 mi",
-      "url": "https://www.google.com/maps/search/?api=1&query=El%20Fog%C3%B3n%20Bar%20and%20Restaurant&query_place_id=ChIJbxIdmS9TwokRtujNz6u7zhc&center=40.731075,-74.145774"
+      "url": "https://www.google.com/maps/search/?api=1&query=Casa%20Humitas&query_place_id=ChIJda1cHPNTwokR1wuJkexa5g8&center=40.7312431,-74.1453872"
+    },
+    {
+      "name": "Fernandes Dos Dantos Wanderson",
+      "distance": "0.4 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Fernandes%20Dos%20Dantos%20Wanderson&query_place_id=ChIJMdunY_BTwokRrq-XUVhmOuc&center=40.7297179,-74.136541"
+    },
+    {
+      "name": "betel bakery",
+      "distance": "0.4 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=betel%20bakery&query_place_id=ChIJH6I78sNTwokRW08iW4dSG2k&center=40.729507600000005,-74.14881489999999"
+    },
+    {
+      "name": "Bolo no pote da marli",
+      "distance": "0.4 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Bolo%20no%20pote%20da%20marli&query_place_id=ChIJXSQ_CL9TwokRHcXyLGokOzQ&center=40.722422,-74.148946"
+    },
+    {
+      "name": "Bread of Life - Pão da Vida",
+      "distance": "0.5 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Bread%20of%20Life%20-%20P%C3%A3o%20da%20Vida&query_place_id=ChIJBZSeUwZTwokRigHBzC3llgg&center=40.727519,-74.1510668"
     }
   ],
   "dinner": [

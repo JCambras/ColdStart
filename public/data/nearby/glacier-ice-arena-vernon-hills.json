@@ -24,6 +24,31 @@
       "name": "Subway",
       "distance": "0.4 mi",
       "url": "https://www.google.com/maps/search/?api=1&query=Subway&query_place_id=ChIJEZFUFm2WD4gRMP-Zg-OzMBQ&center=42.2418567,-87.9587839"
+    },
+    {
+      "name": "Potbelly",
+      "distance": "0.5 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Potbelly&query_place_id=ChIJbWDdoG2WD4gRUCkq6uoaIyI&center=42.239786699999996,-87.947749"
+    },
+    {
+      "name": "Taco Bell",
+      "distance": "0.6 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Taco%20Bell&query_place_id=ChIJwbopMwCXD4gRcmwNSScicrY&center=42.2391155,-87.9449808"
+    },
+    {
+      "name": "Five Guys",
+      "distance": "0.6 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Five%20Guys&query_place_id=ChIJIY1iqBKWD4gRoI5umIKEwD8&center=42.236990999999996,-87.94343200000002"
+    },
+    {
+      "name": "Chick-fil-A",
+      "distance": "0.6 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Chick-fil-A&query_place_id=ChIJ8cne5nKWD4gR8B88H4Brh8w&center=42.2387689,-87.9437063"
+    },
+    {
+      "name": "Market Sandwich",
+      "distance": "0.7 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Market%20Sandwich&query_place_id=ChIJw7MARMCXD4gRK8vV65bTW3A&center=42.2411919,-87.9438327"
     }
   ],
   "coffee": [
@@ -36,6 +61,16 @@
       "name": "Vernon Hills Electrical Co.",
       "distance": "0.5 mi",
       "url": "https://www.google.com/maps/search/?api=1&query=Vernon%20Hills%20Electrical%20Co.&query_place_id=ChIJLaveFgCXD4gRk2UUDRE4OXA&center=42.232850899999995,-87.9479219"
+    },
+    {
+      "name": "McDonald's",
+      "distance": "0.6 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=McDonald's&query_place_id=ChIJEZFUFm2WD4gROo-gg5bVUGo&center=42.239519099999995,-87.9450725"
+    },
+    {
+      "name": "McDonald's",
+      "distance": "0.6 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=McDonald's&query_place_id=ChIJoQzoZGmWD4gRG4w9zVAQ310&center=42.2375778,-87.9443101"
     },
     {
       "name": "Tous les Jours",
@@ -73,6 +108,21 @@
       "name": "Prairie City Bakery - Wholesale",
       "distance": "0.6 mi",
       "url": "https://www.google.com/maps/search/?api=1&query=Prairie%20City%20Bakery%20-%20Wholesale&query_place_id=ChIJWfbmujyWD4gRiCGwhAFRFrA&center=42.2282526,-87.95616389999999"
+    },
+    {
+      "name": "Whole Foods Bakery",
+      "distance": "0.7 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Whole%20Foods%20Bakery&query_place_id=ChIJNbO6LwCXD4gRxsSjpo-AwPU&center=42.241128499999995,-87.94367609999999"
+    },
+    {
+      "name": "Nothing Bundt Cakes",
+      "distance": "0.7 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Nothing%20Bundt%20Cakes&query_place_id=ChIJnSmXf22WD4gR35dUv52yVXo&center=42.2400294,-87.94181139999999"
+    },
+    {
+      "name": "Mendocino Farms",
+      "distance": "0.7 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Mendocino%20Farms&query_place_id=ChIJReNPDb-XD4gRKBYVXFQzYxk&center=42.243024299999995,-87.9437741"
     }
   ],
   "dinner": [

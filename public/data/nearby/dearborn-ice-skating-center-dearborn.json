@@ -1,59 +1,88 @@
 {
   "quick_bite": [
     {
-      "name": "Olive Garden Italian Restaurant",
-      "distance": "0.6 mi",
-      "url": "https://www.google.com/maps/search/Olive%20Garden%20Italian%20Restaurant+near+42.330364599999996%2C-83.189342"
-    },
-    {
       "name": "Paisano's Pizza",
       "distance": "0.7 mi",
-      "url": "https://www.google.com/maps/search/Paisano's%20Pizza+near+42.330364599999996%2C-83.189342"
+      "url": "https://www.google.com/maps/search/?api=1&query=Paisano's%20Pizza&query_place_id=ChIJ-ShPWL00O4gRq2ytPQNvE2w&center=42.328666,-83.176521"
     },
     {
       "name": "Jimmy John's",
       "distance": "0.7 mi",
-      "url": "https://www.google.com/maps/search/Jimmy%20John's+near+42.330364599999996%2C-83.189342"
+      "url": "https://www.google.com/maps/search/?api=1&query=Jimmy%20John's&query_place_id=ChIJe9iTtOA0O4gRxF2rJrWoUBo&center=42.326575399999996,-83.2013229"
     },
     {
       "name": "Subway",
       "distance": "0.7 mi",
-      "url": "https://www.google.com/maps/search/Subway+near+42.330364599999996%2C-83.189342"
+      "url": "https://www.google.com/maps/search/?api=1&query=Subway&query_place_id=ChIJH2--u7w0O4gRVgQgzVMszGk&center=42.3325743,-83.1766446"
     },
     {
-      "name": "Chuck E. Cheese",
-      "distance": "4.9 mi",
-      "url": "https://www.google.com/maps/search/Chuck%20E.%20Cheese+near+42.330364599999996%2C-83.189342",
-      "isFar": true
+      "name": "HOT & PUFF",
+      "distance": "0.8 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=HOT%20%26%20PUFF&query_place_id=ChIJsU9pU0Q1O4gR_SeR_5-ampg&center=42.3189348,-83.1862289"
     }
   ],
   "coffee": [
     {
+      "name": "Medina Coffee Company",
+      "distance": "0.5 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Medina%20Coffee%20Company&query_place_id=ChIJOa3uUV41O4gR5jUu2OYWptE&center=42.3345039,-83.197"
+    },
+    {
       "name": "Starbucks Coffee Company",
       "distance": "0.5 mi",
-      "url": "https://www.google.com/maps/search/Starbucks%20Coffee%20Company+near+42.330364599999996%2C-83.189342"
+      "url": "https://www.google.com/maps/search/?api=1&query=Starbucks%20Coffee%20Company&query_place_id=ChIJQUQCQ1A1O4gRUWT5Hc7elTo&center=42.32748,-83.19899"
+    },
+    {
+      "name": "Einstein Bros. Bagels",
+      "distance": "0.7 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Einstein%20Bros.%20Bagels&query_place_id=ChIJN8jON940O4gRzhtqFncE8sU&center=42.331187899999996,-83.2037903"
+    },
+    {
+      "name": "McDonald's",
+      "distance": "0.8 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=McDonald's&query_place_id=ChIJ57NPkPI0O4gRzLOdaNnVfac&center=42.318932,-83.188386"
     }
   ],
   "team_lunch": [
     {
       "name": "Leo's Coney Island Dearborn",
       "distance": "0.4 mi",
-      "url": "https://www.google.com/maps/search/Leo's%20Coney%20Island%20Dearborn+near+42.330364599999996%2C-83.189342"
+      "url": "https://www.google.com/maps/search/?api=1&query=Leo's%20Coney%20Island%20Dearborn&query_place_id=ChIJP3iLF-g0O4gRVdZGm-Wt77w&center=42.3284021,-83.1963392"
     },
     {
       "name": "Sal’s Pizza Dearborn",
       "distance": "0.5 mi",
-      "url": "https://www.google.com/maps/search/Sal%E2%80%99s%20Pizza%20Dearborn+near+42.330364599999996%2C-83.189342"
+      "url": "https://www.google.com/maps/search/?api=1&query=Sal%E2%80%99s%20Pizza%20Dearborn&query_place_id=ChIJ-X8ZjGw1O4gR9TF7qGnLjPA&center=42.32450610000001,-83.1854781"
     },
     {
       "name": "Golden Bakery Chase",
       "distance": "0.6 mi",
-      "url": "https://www.google.com/maps/search/Golden%20Bakery%20Chase+near+42.330364599999996%2C-83.189342"
+      "url": "https://www.google.com/maps/search/?api=1&query=Golden%20Bakery%20Chase&query_place_id=ChIJYQuoAsg0O4gRgH7avXt_go8&center=42.3391612,-83.18566179999999"
     },
     {
       "name": "Alzahraa Seafood",
       "distance": "0.7 mi",
-      "url": "https://www.google.com/maps/search/Alzahraa%20Seafood+near+42.330364599999996%2C-83.189342"
+      "url": "https://www.google.com/maps/search/?api=1&query=Alzahraa%20Seafood&query_place_id=ChIJUbMHJb00O4gRbgcAwwKgzhk&center=42.3305173,-83.17648969999999"
+    },
+    {
+      "name": "ROTI MAX BAKERY Dearborn",
+      "distance": "0.8 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=ROTI%20MAX%20BAKERY%20Dearborn&query_place_id=ChIJ4Wp-Z5I0O4gRyetpCEEn8j0&center=42.3203399,-83.18317069999999"
+    },
+    {
+      "name": "Place Next to Riverside Academy west",
+      "distance": "0.8 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Place%20Next%20to%20Riverside%20Academy%20west&query_place_id=ChIJZwszQdU1O4gR8SvrhfDhA4s&center=42.336455699999995,-83.1767816"
+    },
+    {
+      "name": "Prince Bakeries Inc",
+      "distance": "0.8 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Prince%20Bakeries%20Inc&query_place_id=ChIJH8BWws80O4gRrcdFD_Hcj7E&center=42.340804399999996,-83.19656979999999"
+    },
+    {
+      "name": "Mr Sweet ملك الكنافة",
+      "distance": "0.8 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Mr%20Sweet%20%D9%85%D9%84%D9%83%20%D8%A7%D9%84%D9%83%D9%86%D8%A7%D9%81%D8%A9&query_place_id=ChIJ0RYjYgA1O4gRYstbXsPvHW4&center=42.3409396,-83.1965907"
     }
   ],
   "dinner": [

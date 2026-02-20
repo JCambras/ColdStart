@@ -1,9 +1,24 @@
 {
   "quick_bite": [
     {
+      "name": "Dunkin'",
+      "distance": "0.9 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Dunkin'&query_place_id=ChIJue4lPa595IkRcHy2b5smx8Y&center=42.123966599999996,-71.2321405"
+    },
+    {
       "name": "Jersey Mike's Subs",
       "distance": "0.9 mi",
       "url": "https://www.google.com/maps/search/?api=1&query=Jersey%20Mike's%20Subs&query_place_id=ChIJzSvcTal95IkRKNshkBHsdho&center=42.1244133,-71.2324318"
+    },
+    {
+      "name": "Dunkin'",
+      "distance": "1.1 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Dunkin'&query_place_id=ChIJ9wBam-l85IkR5vlMd4xETl8&center=42.102551399999996,-71.2569007"
+    },
+    {
+      "name": "Dunkin'",
+      "distance": "1.6 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Dunkin'&query_place_id=ChIJkbGS_j195IkRfDvvmuyLHzs&center=42.0945934,-71.219717"
     },
     {
       "name": "ZENSHI Handcrafted Sushi",
@@ -14,6 +29,11 @@
       "name": "Bristol Square Cafe",
       "distance": "1.8 mi",
       "url": "https://www.google.com/maps/search/?api=1&query=Bristol%20Square%20Cafe&query_place_id=ChIJB9jAWkJ85IkR8ztPi9gPCxY&center=42.132529999999996,-71.2616677"
+    },
+    {
+      "name": "Dunkin'",
+      "distance": "1.8 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Dunkin'&query_place_id=ChIJfe0gC0J85IkRBGB4PrAXuok&center=42.1330692,-71.2626946"
     },
     {
       "name": "Five Guys",
@@ -48,17 +68,27 @@
       "url": "https://www.google.com/maps/search/?api=1&query=Everything%20Bagel%20-%20Foxborough&query_place_id=ChIJa0wYZFd95IkRYWyAAoonM9g&center=42.1027129,-71.2588014"
     },
     {
+      "name": "McDonald's",
+      "distance": "1.3 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=McDonald's&query_place_id=ChIJXRKjRep85IkRVxXc35M1MN0&center=42.1022514,-71.2596617"
+    },
+    {
       "name": "Dunkin'",
       "distance": "1.6 mi",
       "url": "https://www.google.com/maps/search/?api=1&query=Dunkin'&query_place_id=ChIJkbGS_j195IkRfDvvmuyLHzs&center=42.0945934,-71.219717"
+    },
+    {
+      "name": "Starbucks",
+      "distance": "1.6 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Starbucks&query_place_id=ChIJ0X-xu3h95IkRijVtoXo7MLs&center=42.093830000000004,-71.22039"
+    },
+    {
+      "name": "Dunkin'",
+      "distance": "1.8 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Dunkin'&query_place_id=ChIJfe0gC0J85IkRBGB4PrAXuok&center=42.1330692,-71.2626946"
     }
   ],
   "team_lunch": [
-    {
-      "name": "Eastern Pearl",
-      "distance": "0.9 mi",
-      "url": "https://www.google.com/maps/search/?api=1&query=Eastern%20Pearl&query_place_id=ChIJI1nzPO985IkR_BjTYz6U3fI&center=42.1053828,-71.2538737"
-    },
     {
       "name": "Pizzeria Grande",
       "distance": "1.3 mi",
@@ -68,6 +98,11 @@
       "name": "Gracie's Bakery",
       "distance": "1.9 mi",
       "url": "https://www.google.com/maps/search/?api=1&query=Gracie's%20Bakery&query_place_id=ChIJz9AN99l95IkRRQeE3Q0Gozs&center=42.1388337,-71.2542662"
+    },
+    {
+      "name": "Walmart Bakery",
+      "distance": "2.4 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Walmart%20Bakery&query_place_id=ChIJVVVVwOd95IkRbwqBVdJHPiA&center=42.141821799999995,-71.2144721"
     }
   ],
   "dinner": [

@@ -1,62 +1,103 @@
 {
-  "quick_bite": [],
+  "quick_bite": [
+    {
+      "name": "Subway",
+      "distance": "0.2 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Subway&query_place_id=ChIJuQ5obqSsEIgRNf3RtlyP2j8&center=42.4055829,-86.27091209999999"
+    },
+    {
+      "name": "Burger King",
+      "distance": "0.5 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Burger%20King&query_place_id=ChIJn9Tjp7msEIgRIVVKgB5EpjI&center=42.3953924,-86.2695415"
+    },
+    {
+      "name": "Taco Bell",
+      "distance": "0.7 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Taco%20Bell&query_place_id=ChIJwbo1pq2sEIgRCby-K9ZWmIo&center=42.403802299999995,-86.2580304"
+    },
+    {
+      "name": "Arby's",
+      "distance": "0.9 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Arby's&query_place_id=ChIJ71Rq7a-sEIgRyMKz7u5Txiw&center=42.402924,-86.2555812"
+    },
+    {
+      "name": "Wendy's",
+      "distance": "1.2 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Wendy's&query_place_id=ChIJoVgjgFpTF4gRXn0nO1sWXAc&center=42.4031726,-86.2486222"
+    }
+  ],
   "coffee": [
     {
       "name": "ReCharge South Haven",
       "distance": "0.1 mi",
-      "url": "https://www.google.com/maps/search/ReCharge%20South%20Haven+near+42.402637399999996%2C-86.2723388"
+      "url": "https://www.google.com/maps/search/?api=1&query=ReCharge%20South%20Haven&query_place_id=ChIJvUzLP7utEIgRl2d-1IBz5-8&center=42.4030705,-86.2718603"
     },
     {
       "name": "Cafe Julia",
       "distance": "0.1 mi",
-      "url": "https://www.google.com/maps/search/Cafe%20Julia+near+42.402637399999996%2C-86.2723388"
+      "url": "https://www.google.com/maps/search/?api=1&query=Cafe%20Julia&query_place_id=ChIJaePnrbysEIgRkm2UzqNtCes&center=42.4021,-86.2718944"
     },
     {
-      "name": "Water’s Edge Coffee",
+      "name": "Water’s Edge Coffee South Haven",
       "distance": "0.1 mi",
-      "url": "https://www.google.com/maps/search/Water%E2%80%99s%20Edge%20Coffee+near+42.402637399999996%2C-86.2723388"
+      "url": "https://www.google.com/maps/search/?api=1&query=Water%E2%80%99s%20Edge%20Coffee%20South%20Haven&query_place_id=ChIJuZjxOKOsEIgR5h-VXTkhjHI&center=42.403029,-86.27309609999999"
     },
     {
       "name": "The Flying Saucer",
       "distance": "0.1 mi",
-      "url": "https://www.google.com/maps/search/The%20Flying%20Saucer+near+42.402637399999996%2C-86.2723388"
+      "url": "https://www.google.com/maps/search/?api=1&query=The%20Flying%20Saucer&query_place_id=ChIJDd8AaPKtEIgRvBYCZwhhj-I&center=42.4033246,-86.27510840000001"
+    },
+    {
+      "name": "Bunde's Bakery Cafe South Haven",
+      "distance": "0.4 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Bunde's%20Bakery%20Cafe%20South%20Haven&query_place_id=ChIJOR3q4JisEIgR5XBz2v4guzQ&center=42.406016,-86.2791561"
+    },
+    {
+      "name": "McDonald's",
+      "distance": "0.9 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=McDonald's&query_place_id=ChIJQ-k7kjYhF4gRzesVC8Whwsw&center=42.3904202,-86.2683911"
     }
   ],
   "team_lunch": [
     {
-      "name": "Tello Italian Bistro",
-      "distance": "0.1 mi",
-      "url": "https://www.google.com/maps/search/Tello%20Italian%20Bistro+near+42.402637399999996%2C-86.2723388"
-    },
-    {
       "name": "Subs N More",
       "distance": "0.1 mi",
-      "url": "https://www.google.com/maps/search/Subs%20N%20More+near+42.402637399999996%2C-86.2723388"
+      "url": "https://www.google.com/maps/search/?api=1&query=Subs%20N%20More&query_place_id=ChIJE0vdPqOsEIgRPKfO7SxxFEg&center=42.403306799999996,-86.27269489999999"
     },
     {
       "name": "MrBeast Burger",
       "distance": "0.1 mi",
-      "url": "https://www.google.com/maps/search/MrBeast%20Burger+near+42.402637399999996%2C-86.2723388"
+      "url": "https://www.google.com/maps/search/?api=1&query=MrBeast%20Burger&query_place_id=ChIJuQ3kNDitEIgR3xPnULvd6-Q&center=42.403449099999996,-86.27160409999999"
     },
     {
       "name": "China Cafe",
       "distance": "0.1 mi",
-      "url": "https://www.google.com/maps/search/China%20Cafe+near+42.402637399999996%2C-86.2723388"
-    },
-    {
-      "name": "Sophie's Steakhouse & Bar",
-      "distance": "0.1 mi",
-      "url": "https://www.google.com/maps/search/Sophie's%20Steakhouse%20%26%20Bar+near+42.402637399999996%2C-86.2723388"
+      "url": "https://www.google.com/maps/search/?api=1&query=China%20Cafe&query_place_id=ChIJ8RClsaSsEIgRPioMSBvCwUo&center=42.4022278,-86.2706425"
     },
     {
       "name": "Papa Johns Pizza",
       "distance": "0.1 mi",
-      "url": "https://www.google.com/maps/search/Papa%20Johns%20Pizza+near+42.402637399999996%2C-86.2723388"
+      "url": "https://www.google.com/maps/search/?api=1&query=Papa%20Johns%20Pizza&query_place_id=ChIJ-ZslbuatEIgRjyrbVDeCuO4&center=42.4013468,-86.2706523"
     },
     {
-      "name": "Su Casa Restaurante",
+      "name": "New Park Gastropub",
       "distance": "0.2 mi",
-      "url": "https://www.google.com/maps/search/Su%20Casa%20Restaurante+near+42.402637399999996%2C-86.2723388"
+      "url": "https://www.google.com/maps/search/?api=1&query=New%20Park%20Gastropub&query_place_id=ChIJj_x6wXatEIgRZQFIWKP2Drc&center=42.402407100000005,-86.27555029999999"
+    },
+    {
+      "name": "Katie's Baked Goods",
+      "distance": "0.5 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Katie's%20Baked%20Goods&query_place_id=ChIJ96XRW7CtEIgRq09uS8rZrMM&center=42.3981211,-86.2644473"
+    },
+    {
+      "name": "Meijer Bakery",
+      "distance": "0.9 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Meijer%20Bakery&query_place_id=ChIJ34JSt_9TF4gRqQAeMsn0PN0&center=42.4064431,-86.2563323"
+    },
+    {
+      "name": "Walmart Bakery",
+      "distance": "1.3 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Walmart%20Bakery&query_place_id=ChIJwTuFSldTF4gRA8yy1XrDrUk&center=42.406428999999996,-86.24757029999999"
     }
   ],
   "dinner": [

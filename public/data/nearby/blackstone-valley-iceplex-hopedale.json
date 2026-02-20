@@ -11,9 +11,19 @@
       "url": "https://www.google.com/maps/search/?api=1&query=Nonas%20Pizza%20Mendon%20-%20Hopedale&query_place_id=ChIJu-jBa75t5IkRrzVVzipeWWU&center=42.1022707,-71.505031"
     },
     {
+      "name": "Dunkin'",
+      "distance": "0.6 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Dunkin'&query_place_id=ChIJpRg4179t5IkRUsI2irZc4Ug&center=42.1032783,-71.503534"
+    },
+    {
       "name": "Maria's Pizza & Subs",
       "distance": "0.7 mi",
       "url": "https://www.google.com/maps/search/?api=1&query=Maria's%20Pizza%20%26%20Subs&query_place_id=ChIJqS8r2b9t5IkRCUC6MtkaRBA&center=42.1036593,-71.5013409"
+    },
+    {
+      "name": "Dunkin'",
+      "distance": "1.5 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Dunkin'&query_place_id=ChIJQYp7mnhy5IkRdT8NTGT3hms&center=42.1247176,-71.51625729999999"
     },
     {
       "name": "Mendon Drive-In Snack Bar",
@@ -29,6 +39,16 @@
       "name": "Subway",
       "distance": "2.3 mi",
       "url": "https://www.google.com/maps/search/?api=1&query=Subway&query_place_id=ChIJZ4cTzDpt5IkRmywR2xlwNvM&center=42.103132699999996,-71.5590583"
+    },
+    {
+      "name": "Subway",
+      "distance": "2.7 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Subway&query_place_id=ChIJQRe7649y5IkRkQ2qZqcQZQw&center=42.138233199999995,-71.5356591"
+    },
+    {
+      "name": "Subway",
+      "distance": "2.7 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Subway&query_place_id=ChIJKyPq4AJu5IkRLLgRfOfTlRI&center=42.1161165,-71.46448339999999"
     }
   ],
   "coffee": [
@@ -48,9 +68,29 @@
       "url": "https://www.google.com/maps/search/?api=1&query=Dunkin'&query_place_id=ChIJQYp7mnhy5IkRdT8NTGT3hms&center=42.1247176,-71.51625729999999"
     },
     {
+      "name": "McDonald's",
+      "distance": "1.6 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=McDonald's&query_place_id=ChIJu9_R3Hhy5IkRTFWMgMBf9Ug&center=42.126263,-71.5179504"
+    },
+    {
       "name": "Honey Dew Donuts",
       "distance": "1.6 mi",
       "url": "https://www.google.com/maps/search/?api=1&query=Honey%20Dew%20Donuts&query_place_id=ChIJxzcn73hy5IkRkqkqsVJUgJ0&center=42.1263484,-71.51703719999999"
+    },
+    {
+      "name": "Honey Dew Donuts",
+      "distance": "2.2 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Honey%20Dew%20Donuts&query_place_id=ChIJBYrMiXdu5IkRjHhOAE_ggto&center=42.0891352,-71.47536529999999"
+    },
+    {
+      "name": "Honey Dew Donuts",
+      "distance": "2.7 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Honey%20Dew%20Donuts&query_place_id=ChIJEaLZ649y5IkRzivMlR97dbA&center=42.1387589,-71.5363455"
+    },
+    {
+      "name": "McDonald's",
+      "distance": "2.9 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=McDonald's&query_place_id=ChIJwZE-0gJu5IkRidfawoXp7Zo&center=42.1152303,-71.4617461"
     }
   ],
   "team_lunch": [

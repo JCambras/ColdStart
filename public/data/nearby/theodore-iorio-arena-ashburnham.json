@@ -1,6 +1,17 @@
 {
   "quick_bite": [
     {
+      "name": "Dunkin'",
+      "distance": "2.2 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Dunkin'&query_place_id=ChIJQaZdKtLh44kR-9Knukad4F8&center=42.609019100000005,-71.9425376"
+    },
+    {
+      "name": "Dunkin'",
+      "distance": "4.5 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Dunkin'&query_place_id=ChIJxwtqmTVe4YkRO_3HhdfeYkw&center=42.640472900000006,-72.0048202",
+      "isFar": true
+    },
+    {
       "name": "Subway",
       "distance": "5.6 mi",
       "url": "https://www.google.com/maps/search/?api=1&query=Subway&query_place_id=ChIJ-zBPGcFY4YkRbaj6kbOyHhk&center=42.566033999999995,-71.9775004",
@@ -35,6 +46,18 @@
       "distance": "6.9 mi",
       "url": "https://www.google.com/maps/search/?api=1&query=Subway&query_place_id=ChIJzwjF14vm44kReQwsH5-EbHw&center=42.568981699999995,-71.81361559999999",
       "isFar": true
+    },
+    {
+      "name": "Subway",
+      "distance": "7.0 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Subway&query_place_id=ChIJ1b6d6ftY4YkRiy9LINixajY&center=42.551456099999996,-71.9946827",
+      "isFar": true
+    },
+    {
+      "name": "Subway",
+      "distance": "7.2 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Subway&query_place_id=ChIJT_acSUvm44kRaW5fFOI7I5w&center=42.5882997,-71.7897009",
+      "isFar": true
     }
   ],
   "coffee": [
@@ -47,6 +70,18 @@
       "name": "Dunkin'",
       "distance": "4.5 mi",
       "url": "https://www.google.com/maps/search/?api=1&query=Dunkin'&query_place_id=ChIJxwtqmTVe4YkRO_3HhdfeYkw&center=42.640472900000006,-72.0048202",
+      "isFar": true
+    },
+    {
+      "name": "McDonald's",
+      "distance": "6.2 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=McDonald's&query_place_id=ChIJZTe8dedY4YkRpIK9zH6G3W0&center=42.563243299999996,-71.99085699999999",
+      "isFar": true
+    },
+    {
+      "name": "McDonald's",
+      "distance": "7.0 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=McDonald's&query_place_id=ChIJVRreoLFg4YkRDSUWgU8IPlE&center=42.678812199999996,-72.0391586",
       "isFar": true
     }
   ],
@@ -72,6 +107,12 @@
       "name": "Creative Sweets",
       "distance": "6.3 mi",
       "url": "https://www.google.com/maps/search/?api=1&query=Creative%20Sweets&query_place_id=ChIJDQX1nadZ4YkRyS6y39cUxb8&center=42.554410000000004,-71.977734",
+      "isFar": true
+    },
+    {
+      "name": "Walmart Bakery",
+      "distance": "7.0 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Walmart%20Bakery&query_place_id=ChIJq6qqGfxY4YkRstkWiPteG9U&center=42.551348,-71.99477639999999",
       "isFar": true
     }
   ],

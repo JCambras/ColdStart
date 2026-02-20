@@ -1,43 +1,105 @@
 {
   "quick_bite": [
     {
+      "name": "Dunkin'",
+      "distance": "0.8 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Dunkin'&query_place_id=ChIJlz0LqPk9yIkROjPcciuAUVQ&center=39.4684707,-76.829936"
+    },
+    {
       "name": "Subway",
       "distance": "1.3 mi",
-      "url": "https://www.google.com/maps/search/Subway+near+39.4722475%2C-76.8435807"
+      "url": "https://www.google.com/maps/search/?api=1&query=Subway&query_place_id=ChIJR4PJ7v0VyIkRynv53i6GVrk&center=39.474992199999996,-76.8185588"
     },
     {
       "name": "Rice Kitchen",
       "distance": "1.4 mi",
-      "url": "https://www.google.com/maps/search/Rice%20Kitchen+near+39.4722475%2C-76.8435807"
+      "url": "https://www.google.com/maps/search/?api=1&query=Rice%20Kitchen&query_place_id=ChIJoak1TesXyIkRckOhp3Mt-Vc&center=39.457135099999995,-76.8252218"
+    },
+    {
+      "name": "Wawa",
+      "distance": "1.5 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Wawa&query_place_id=ChIJxagrWfU9yIkR-0ROH6LHKd8&center=39.455773099999995,-76.8260389"
+    },
+    {
+      "name": "Chick-fil-A",
+      "distance": "2.1 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Chick-fil-A&query_place_id=ChIJ9dG-VSMWyIkRmdOumalcDWk&center=39.4493296,-76.8166378"
+    },
+    {
+      "name": "Jersey Mike's Subs",
+      "distance": "2.3 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Jersey%20Mike's%20Subs&query_place_id=ChIJcyJbILQXyIkReQevsczBGSc&center=39.448126599999995,-76.8144749"
+    },
+    {
+      "name": "Popeyes Louisiana Kitchen",
+      "distance": "2.4 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Popeyes%20Louisiana%20Kitchen&query_place_id=ChIJJ1s9PAAXyIkRsluYVwcxyvc&center=39.4461164,-76.81375729999999"
+    },
+    {
+      "name": "Subway",
+      "distance": "2.5 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Subway&query_place_id=ChIJwajLYjoWyIkRSRHo-nIhNtg&center=39.445450099999995,-76.8129118"
+    },
+    {
+      "name": "Checkers & Rally’s",
+      "distance": "2.8 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Checkers%20%26%20Rally%E2%80%99s&query_place_id=ChIJ_QEQKTMXyIkR1OKtXd4xOVY&center=39.4425161,-76.80897759999999"
+    },
+    {
+      "name": "Subway",
+      "distance": "3.0 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Subway&query_place_id=ChIJdR1UGgA_yIkReAlxLRi90NA&center=39.496290099999996,-76.89148829999999",
+      "isFar": true
     }
   ],
   "coffee": [
     {
       "name": "Dunkin'",
       "distance": "0.8 mi",
-      "url": "https://www.google.com/maps/search/Dunkin'+near+39.4722475%2C-76.8435807"
+      "url": "https://www.google.com/maps/search/?api=1&query=Dunkin'&query_place_id=ChIJlz0LqPk9yIkROjPcciuAUVQ&center=39.4684707,-76.829936"
     },
     {
       "name": "The Reister's Daughter",
       "distance": "1.0 mi",
-      "url": "https://www.google.com/maps/search/The%20Reister's%20Daughter+near+39.4722475%2C-76.8435807"
+      "url": "https://www.google.com/maps/search/?api=1&query=The%20Reister's%20Daughter&query_place_id=ChIJX0N5M2E9yIkRAeg-hsAnsfI&center=39.4640779,-76.82905099999999"
+    },
+    {
+      "name": "Wawa",
+      "distance": "1.5 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Wawa&query_place_id=ChIJxagrWfU9yIkR-0ROH6LHKd8&center=39.455773099999995,-76.8260389"
+    },
+    {
+      "name": "McDonald's",
+      "distance": "2.1 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=McDonald's&query_place_id=ChIJsZWJkiMWyIkRq2uG_AF8a2Q&center=39.4497399,-76.8180846"
     }
   ],
   "team_lunch": [
     {
       "name": "Mama Tana Reisterstown",
       "distance": "0.8 mi",
-      "url": "https://www.google.com/maps/search/Mama%20Tana%20Reisterstown+near+39.4722475%2C-76.8435807"
+      "url": "https://www.google.com/maps/search/?api=1&query=Mama%20Tana%20Reisterstown&query_place_id=ChIJYbazaZ89yIkRjKUzG9WTehE&center=39.4694918,-76.8292366"
     },
     {
       "name": "Kuki Chinese Restaurant",
       "distance": "1.3 mi",
-      "url": "https://www.google.com/maps/search/Kuki%20Chinese%20Restaurant+near+39.4722475%2C-76.8435807"
+      "url": "https://www.google.com/maps/search/?api=1&query=Kuki%20Chinese%20Restaurant&query_place_id=ChIJie457_0VyIkRiQVnPBLYoSw&center=39.475577099999995,-76.8201797"
     },
     {
       "name": "Royal Buffet & Grill",
       "distance": "1.5 mi",
-      "url": "https://www.google.com/maps/search/Royal%20Buffet%20%26%20Grill+near+39.4722475%2C-76.8435807"
+      "url": "https://www.google.com/maps/search/?api=1&query=Royal%20Buffet%20%26%20Grill&query_place_id=ChIJT7i5-o8XyIkRFxw1EXXPuDI&center=39.4571561,-76.8238475"
+    },
+    {
+      "name": "My Sweet Palate K",
+      "distance": "1.8 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=My%20Sweet%20Palate%20K&query_place_id=ChIJbSPW-6MXyIkRiYs2u-VKsfc&center=39.4566192,-76.8168994"
+    },
+    {
+      "name": "Food Lion Bakery",
+      "distance": "3.1 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Food%20Lion%20Bakery&query_place_id=ChIJHfsHaAA_yIkRuvGzDOK4k-I&center=39.493553299999995,-76.89410579999999",
+      "isFar": true
     }
   ],
   "dinner": [

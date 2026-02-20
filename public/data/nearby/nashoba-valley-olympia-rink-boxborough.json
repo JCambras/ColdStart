@@ -6,14 +6,19 @@
       "url": "https://www.google.com/maps/search/?api=1&query=Dicapri%20Pizzeria&query_place_id=ChIJ-UthDGGR44kRVY1cb8Qg_yM&center=42.4759974,-71.4737688"
     },
     {
+      "name": "Dunkin'",
+      "distance": "1.9 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Dunkin'&query_place_id=ChIJe6FlDG2R44kRvcpT-nzWQaY&center=42.4689416,-71.4566761"
+    },
+    {
       "name": "Subway",
       "distance": "1.9 mi",
       "url": "https://www.google.com/maps/search/?api=1&query=Subway&query_place_id=ChIJyzI0KGuR44kRxHMmQcuh44I&center=42.4739089,-71.45380440000001"
     },
     {
-      "name": "Not Your Average Joe's - Acton",
+      "name": "Dunkin'",
       "distance": "2.1 mi",
-      "url": "https://www.google.com/maps/search/?api=1&query=Not%20Your%20Average%20Joe's%20-%20Acton&query_place_id=ChIJ0Z9f0j-R44kRSV-em-pEGvM&center=42.4761606,-71.4505961"
+      "url": "https://www.google.com/maps/search/?api=1&query=Dunkin'&query_place_id=ChIJKRcSSD6R44kR9YZKGUI3aTA&center=42.4768177,-71.4499716"
     },
     {
       "name": "Nan's Kitchen",
@@ -30,6 +35,24 @@
       "name": "Subway",
       "distance": "3.9 mi",
       "url": "https://www.google.com/maps/search/?api=1&query=Subway&query_place_id=ChIJ6zTkn8-Q44kRLTB3B8CcwTA&center=42.480408999999995,-71.415236",
+      "isFar": true
+    },
+    {
+      "name": "Wendy's",
+      "distance": "3.9 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Wendy's&query_place_id=ChIJrd-HPbSR44kR1n1EEzZ30aM&center=42.4385459,-71.4348596",
+      "isFar": true
+    },
+    {
+      "name": "Jersey Mike's Subs",
+      "distance": "4.7 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Jersey%20Mike's%20Subs&query_place_id=ChIJC8qGVOmR44kRjXQ3aqDaRIU&center=42.4184013,-71.44720219999999",
+      "isFar": true
+    },
+    {
+      "name": "Subway",
+      "distance": "4.8 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Subway&query_place_id=ChIJubQLf3qW44kRilslQfDUiT4&center=42.5449657,-71.4692036",
       "isFar": true
     }
   ],
@@ -58,6 +81,23 @@
       "name": "Starbucks Coffee Company",
       "distance": "2.1 mi",
       "url": "https://www.google.com/maps/search/?api=1&query=Starbucks%20Coffee%20Company&query_place_id=ChIJxwF5bhWR44kR4hLara3TO2M&center=42.47491,-71.4516"
+    },
+    {
+      "name": "Dunkin'",
+      "distance": "2.1 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Dunkin'&query_place_id=ChIJKRcSSD6R44kR9YZKGUI3aTA&center=42.4768177,-71.4499716"
+    },
+    {
+      "name": "McDonald's",
+      "distance": "3.7 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=McDonald's&query_place_id=ChIJ5355fcGR44kR94ujINg8TjI&center=42.43253,-71.4500302",
+      "isFar": true
+    },
+    {
+      "name": "McDonald's",
+      "distance": "4.2 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=McDonald's&query_place_id=ChIJq6bBV8aQ44kRvh0BvYD5q8I&center=42.475978399999995,-71.40948589999999",
+      "isFar": true
     }
   ],
   "team_lunch": [],

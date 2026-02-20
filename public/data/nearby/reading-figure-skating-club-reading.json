@@ -1,11 +1,6 @@
 {
   "quick_bite": [
     {
-      "name": "Outback Steakhouse",
-      "distance": "0.5 mi",
-      "url": "https://www.google.com/maps/search/?api=1&query=Outback%20Steakhouse&query_place_id=ChIJdx9MTgB3xokRA46AfBIcaJg&center=40.3604651,-75.9869472"
-    },
-    {
       "name": "Pizza Hut Express",
       "distance": "0.6 mi",
       "url": "https://www.google.com/maps/search/?api=1&query=Pizza%20Hut%20Express&query_place_id=ChIJpdhCcqN2xokRj2tJc5EY6e4&center=40.3600995,-75.9837507"
@@ -24,6 +19,36 @@
       "name": "Anthony's Coal Fired Pizza & Wings",
       "distance": "0.8 mi",
       "url": "https://www.google.com/maps/search/?api=1&query=Anthony's%20Coal%20Fired%20Pizza%20%26%20Wings&query_place_id=ChIJHQ808aR2xokRxCada_ap3WM&center=40.3574207,-75.9837866"
+    },
+    {
+      "name": "Chipotle Mexican Grill",
+      "distance": "0.8 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Chipotle%20Mexican%20Grill&query_place_id=ChIJc3w3XKR2xokRuw_4z_6nxIc&center=40.3573032,-75.9834908"
+    },
+    {
+      "name": "Wendy's",
+      "distance": "0.9 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Wendy's&query_place_id=ChIJ4-F84qR2xokR9g6xcY4MM_g&center=40.356653,-75.981306"
+    },
+    {
+      "name": "Chick-fil-A",
+      "distance": "1.0 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Chick-fil-A&query_place_id=ChIJpX5o27p2xokRB8Pq452ni3M&center=40.354780399999996,-75.9817157"
+    },
+    {
+      "name": "Wawa",
+      "distance": "1.0 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Wawa&query_place_id=ChIJjRUSxrp2xokRK8bku3Ay21U&center=40.355173,-75.9803735"
+    },
+    {
+      "name": "Subway",
+      "distance": "1.1 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Subway&query_place_id=ChIJG-xIlIZ2xokRj-GgmGrqXOE&center=40.3808042,-75.984518"
+    },
+    {
+      "name": "DirectLink Cafe",
+      "distance": "1.1 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=DirectLink%20Cafe&query_place_id=ChIJGRSyDwB3xokRtwDeW5aWlVQ&center=40.38109300000001,-75.98265839999999"
     }
   ],
   "coffee": [
@@ -38,9 +63,24 @@
       "url": "https://www.google.com/maps/search/?api=1&query=Panera%20Bread&query_place_id=ChIJITwhCaR2xokRIG2qa5mkf8E&center=40.357195999999995,-75.9832899"
     },
     {
+      "name": "McDonald's",
+      "distance": "0.9 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=McDonald's&query_place_id=ChIJ1TPNHqV2xokRM8RbCWFwbzA&center=40.356147199999995,-75.9828481"
+    },
+    {
+      "name": "Wawa",
+      "distance": "1.0 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Wawa&query_place_id=ChIJjRUSxrp2xokRK8bku3Ay21U&center=40.355173,-75.9803735"
+    },
+    {
       "name": "Duck Donuts",
       "distance": "1.4 mi",
       "url": "https://www.google.com/maps/search/?api=1&query=Duck%20Donuts&query_place_id=ChIJG-P6FgB3xokR4L4HPyCnOj0&center=40.3460283,-75.98979"
+    },
+    {
+      "name": "Wawa",
+      "distance": "1.7 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Wawa&query_place_id=ChIJAXOh1NV1xokRsuqjSJzbQwE&center=40.390772299999995,-75.9958967"
     }
   ],
   "team_lunch": [

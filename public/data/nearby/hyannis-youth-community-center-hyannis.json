@@ -29,9 +29,24 @@
       "name": "Wendy's",
       "distance": "0.9 mi",
       "url": "https://www.google.com/maps/search/?api=1&query=Wendy's&query_place_id=ChIJ2_q1diAx-4kR-9EsAkkBdwQ&center=41.665951299999996,-70.28813749999999"
+    },
+    {
+      "name": "Jersey Mike's Subs",
+      "distance": "1.0 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Jersey%20Mike's%20Subs&query_place_id=ChIJpZVpnNYx-4kR7C7jTeWXh4I&center=41.6680986,-70.29803079999999"
+    },
+    {
+      "name": "Five Guys",
+      "distance": "1.1 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Five%20Guys&query_place_id=ChIJs1brWiIx-4kRw9N7KWMgh80&center=41.6685982,-70.29770859999999"
     }
   ],
   "coffee": [
+    {
+      "name": "McDonald's",
+      "distance": "0.2 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=McDonald's&query_place_id=ChIJSbpOYwIx-4kR4dIkPD1aG44&center=41.6521323,-70.288403"
+    },
     {
       "name": "Mayflour Bakery & Cafe",
       "distance": "0.7 mi",
@@ -41,14 +56,14 @@
       "name": "Honey Dew Donuts",
       "distance": "0.8 mi",
       "url": "https://www.google.com/maps/search/?api=1&query=Honey%20Dew%20Donuts&query_place_id=ChIJb2oBaucw-4kRPI5IPIcIj1Y&center=41.6619616,-70.2809403"
+    },
+    {
+      "name": "McDonald's",
+      "distance": "1.0 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=McDonald's&query_place_id=ChIJsaxGACEx-4kRkb5adJVoUxQ&center=41.667604399999995,-70.2915171"
     }
   ],
   "team_lunch": [
-    {
-      "name": "Indian Pavilion",
-      "distance": "0.3 mi",
-      "url": "https://www.google.com/maps/search/?api=1&query=Indian%20Pavilion&query_place_id=ChIJLb8G8_0w-4kR-N97W6tHqn8&center=41.650691099999996,-70.2878003"
-    },
     {
       "name": "521 MAIN",
       "distance": "0.3 mi",
@@ -73,6 +88,16 @@
       "name": "Bagels & Beyond 2",
       "distance": "0.4 mi",
       "url": "https://www.google.com/maps/search/?api=1&query=Bagels%20%26%20Beyond%202&query_place_id=ChIJxbbnkoAx-4kRsGFkhrgLKI8&center=41.6528803,-70.2839357"
+    },
+    {
+      "name": "La Cake",
+      "distance": "0.5 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=La%20Cake&query_place_id=ChIJ9dMicv0x-4kRfZBaqnX3oZI&center=41.6470865,-70.2916882"
+    },
+    {
+      "name": "Auntie Anne's",
+      "distance": "0.9 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Auntie%20Anne's&query_place_id=ChIJcTKwxiMx-4kRz7QY_AjVavg&center=41.6669797,-70.29691609999999"
     }
   ],
   "dinner": [

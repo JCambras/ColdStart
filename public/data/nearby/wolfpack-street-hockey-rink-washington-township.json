@@ -6,6 +6,11 @@
       "url": "https://www.google.com/maps/search/?api=1&query=Szechuan%20Royale&query_place_id=ChIJ15ClYoGEw4kRanJRj2xf1p4&center=40.8293369,-74.82186759999999"
     },
     {
+      "name": "Dunkin'",
+      "distance": "2.0 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Dunkin'&query_place_id=ChIJT-BJxdeaw4kRwNbi0aYn08k&center=40.784591,-74.7722859"
+    },
+    {
       "name": "Pezzo Pizza 2 (Long Valley)",
       "distance": "2.1 mi",
       "url": "https://www.google.com/maps/search/?api=1&query=Pezzo%20Pizza%202%20(Long%20Valley)&query_place_id=ChIJc1Ro1Neaw4kR53VJH3x3vGc&center=40.7849364,-74.7710894"
@@ -29,6 +34,21 @@
       "name": "Taco Bell",
       "distance": "2.2 mi",
       "url": "https://www.google.com/maps/search/?api=1&query=Taco%20Bell&query_place_id=ChIJYegVPmWEw4kRNHw_C6cJiXQ&center=40.8220548,-74.83650519999999"
+    },
+    {
+      "name": "Jersey Mike's Subs",
+      "distance": "2.3 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Jersey%20Mike's%20Subs&query_place_id=ChIJbSouHIOFw4kRjIn0Srgd0-k&center=40.819621600000005,-74.8395817"
+    },
+    {
+      "name": "Bento Sushi",
+      "distance": "2.3 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Bento%20Sushi&query_place_id=ChIJZW1uBgGFw4kReY57LI9JJYc&center=40.823465399999996,-74.8365019"
+    },
+    {
+      "name": "Dairy Queen",
+      "distance": "2.4 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Dairy%20Queen&query_place_id=ChIJ347T63-Dw4kRWWlfKPdt_ds&center=40.8329466,-74.82611709999999"
     }
   ],
   "coffee": [
@@ -41,18 +61,23 @@
       "name": "Dunkin'",
       "distance": "2.0 mi",
       "url": "https://www.google.com/maps/search/?api=1&query=Dunkin'&query_place_id=ChIJT-BJxdeaw4kRwNbi0aYn08k&center=40.784591,-74.7722859"
+    },
+    {
+      "name": "Wawa",
+      "distance": "2.5 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Wawa&query_place_id=ChIJ_YpYpGmDw4kRk0i6K4CHOqc&center=40.8366727,-74.82242719999999"
+    },
+    {
+      "name": "McDonald's",
+      "distance": "2.8 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=McDonald's&query_place_id=ChIJQ3e70XmDw4kRxZK0H0gzAsM&center=40.840929599999996,-74.82418810000001"
     }
   ],
   "team_lunch": [
     {
       "name": "Jeffrey's Kid Restaurant",
       "distance": "1.6 mi",
-      "url": "https://www.google.com/maps/search/?api=1&query=Jeffrey's%20Kid%20Restaurant&query_place_id=ChIJh7doNwCFw4kRi1VkkcQgsiM&center=40.8249083,-74.81649159999999"
-    },
-    {
-      "name": "Long Valley Pub & Brewery at Restaurant Village",
-      "distance": "1.8 mi",
-      "url": "https://www.google.com/maps/search/?api=1&query=Long%20Valley%20Pub%20%26%20Brewery%20at%20Restaurant%20Village&query_place_id=ChIJkZQvLtWaw4kRADo6a3wVVVY&center=40.783980199999995,-74.7804444"
+      "url": "https://www.google.com/maps/search/?api=1&query=Jeffrey's%20Kid%20Restaurant&query_place_id=ChIJh7doNwCFw4kRi1VkkcQgsiM&center=40.8249472,-74.8164437"
     },
     {
       "name": "Restaurant Y pupuseria los veliz#2",

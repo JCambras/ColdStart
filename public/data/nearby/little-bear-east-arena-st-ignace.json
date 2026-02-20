@@ -1,68 +1,69 @@
 {
   "quick_bite": [
     {
-      "name": "Breakers Beach Bar Woodfired Pizza + Cocktails",
-      "distance": "0.8 mi",
-      "url": "https://www.google.com/maps/search/Breakers%20Beach%20Bar%20Woodfired%20Pizza%20%2B%20Cocktails+near+45.872464699999995%2C-84.734225"
-    },
-    {
       "name": "Subway",
       "distance": "1.0 mi",
-      "url": "https://www.google.com/maps/search/Subway+near+45.872464699999995%2C-84.734225"
+      "url": "https://www.google.com/maps/search/?api=1&query=Subway&query_place_id=ChIJJVUDO9j1NU0R4P1zr42KFDQ&center=45.857389399999995,-84.7337496"
     },
     {
       "name": "Clyde's Drive-In",
       "distance": "1.1 mi",
-      "url": "https://www.google.com/maps/search/Clyde's%20Drive-In+near+45.872464699999995%2C-84.734225"
+      "url": "https://www.google.com/maps/search/?api=1&query=Clyde's%20Drive-In&query_place_id=ChIJbbCS1joJSk0RpfqLEA72aNo&center=45.8572199,-84.73468869999999"
     },
     {
       "name": "Taco Bell",
       "distance": "1.1 mi",
-      "url": "https://www.google.com/maps/search/Taco%20Bell+near+45.872464699999995%2C-84.734225"
+      "url": "https://www.google.com/maps/search/?api=1&query=Taco%20Bell&query_place_id=ChIJmwfda8_1NU0RRlt32dtgHJA&center=45.8570943,-84.73559449999999"
     },
     {
       "name": "Burger King",
       "distance": "1.1 mi",
-      "url": "https://www.google.com/maps/search/Burger%20King+near+45.872464699999995%2C-84.734225"
+      "url": "https://www.google.com/maps/search/?api=1&query=Burger%20King&query_place_id=ChIJfbLyTNj1NU0RZIHeYFX_rbM&center=45.856709099999996,-84.73956849999999"
+    },
+    {
+      "name": "FISH TROLLEY",
+      "distance": "1.8 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=FISH%20TROLLEY&query_place_id=ChIJgb04gFT1NU0R5VlbUeJDEbw&center=45.8542379,-84.7607664"
+    },
+    {
+      "name": "Cannonball Oasis",
+      "distance": "4.3 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Cannonball%20Oasis&query_place_id=ChIJ6UfTQXXxNU0Rff5xN5cJz_U&center=45.877324699999996,-84.6444458",
+      "isFar": true
     }
   ],
   "coffee": [
     {
       "name": "Java Joe's Cafe",
       "distance": "0.8 mi",
-      "url": "https://www.google.com/maps/search/Java%20Joe's%20Cafe+near+45.872464699999995%2C-84.734225"
+      "url": "https://www.google.com/maps/search/?api=1&query=Java%20Joe's%20Cafe&query_place_id=ChIJMxamZFz2NU0RcJCvr1BhQQU&center=45.8816699,-84.725019"
     },
     {
       "name": "The Club at Breakers",
       "distance": "0.8 mi",
-      "url": "https://www.google.com/maps/search/The%20Club%20at%20Breakers+near+45.872464699999995%2C-84.734225"
+      "url": "https://www.google.com/maps/search/?api=1&query=The%20Club%20at%20Breakers&query_place_id=ChIJufQyB2n3NU0RYGvt2nXWuHg&center=45.8812165,-84.724034"
     },
     {
       "name": "Boardwalk Coffee & General Store",
       "distance": "0.8 mi",
-      "url": "https://www.google.com/maps/search/Boardwalk%20Coffee%20%26%20General%20Store+near+45.872464699999995%2C-84.734225"
+      "url": "https://www.google.com/maps/search/?api=1&query=Boardwalk%20Coffee%20%26%20General%20Store&query_place_id=ChIJ_7fkdwD3NU0RV9MV7MsFR4M&center=45.8653425,-84.7204576"
     },
     {
       "name": "BIGGBY COFFEE",
       "distance": "1.1 mi",
-      "url": "https://www.google.com/maps/search/BIGGBY%20COFFEE+near+45.872464699999995%2C-84.734225"
+      "url": "https://www.google.com/maps/search/?api=1&query=BIGGBY%20COFFEE&query_place_id=ChIJ0WhWV631NU0RWTeiNuWo6v4&center=45.8567007,-84.7352063"
     },
     {
       "name": "McDonald's",
       "distance": "1.1 mi",
-      "url": "https://www.google.com/maps/search/McDonald's+near+45.872464699999995%2C-84.734225"
+      "url": "https://www.google.com/maps/search/?api=1&query=McDonald's&query_place_id=ChIJbbCS1joJSk0R146yhbQ2Eyg&center=45.8568651,-84.738807"
     }
   ],
   "team_lunch": [
     {
       "name": "The Galley - St. Ignace",
       "distance": "0.5 mi",
-      "url": "https://www.google.com/maps/search/The%20Galley%20-%20St.%20Ignace+near+45.872464699999995%2C-84.734225"
-    },
-    {
-      "name": "Mackinac Grille & Patio Bar",
-      "distance": "0.9 mi",
-      "url": "https://www.google.com/maps/search/Mackinac%20Grille%20%26%20Patio%20Bar+near+45.872464699999995%2C-84.734225"
+      "url": "https://www.google.com/maps/search/?api=1&query=The%20Galley%20-%20St.%20Ignace&query_place_id=ChIJwTLnJWX2NU0RQvw9kbRWH8Q&center=45.868576,-84.7261123"
     }
   ],
   "dinner": [

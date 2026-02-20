@@ -3,56 +3,86 @@
     {
       "name": "Sonic Drive-In",
       "distance": "0.1 mi",
-      "url": "https://www.google.com/maps/search/Sonic%20Drive-In+near+42.2159543%2C-85.59160899999999"
-    },
-    {
-      "name": "QDOBA Mexican Eats",
-      "distance": "0.2 mi",
-      "url": "https://www.google.com/maps/search/QDOBA%20Mexican%20Eats+near+42.2159543%2C-85.59160899999999"
+      "url": "https://www.google.com/maps/search/?api=1&query=Sonic%20Drive-In&query_place_id=ChIJ-Y5fVheeF4gR3RZVqtykwD0&center=42.2150384,-85.59249969999999"
     },
     {
       "name": "Penn Station East Coast Subs",
       "distance": "0.2 mi",
-      "url": "https://www.google.com/maps/search/Penn%20Station%20East%20Coast%20Subs+near+42.2159543%2C-85.59160899999999"
+      "url": "https://www.google.com/maps/search/?api=1&query=Penn%20Station%20East%20Coast%20Subs&query_place_id=ChIJE51-qxGeF4gRnCzvYFGaYao&center=42.218493599999995,-85.5899606"
     },
     {
       "name": "Jet's Pizza",
       "distance": "0.3 mi",
-      "url": "https://www.google.com/maps/search/Jet's%20Pizza+near+42.2159543%2C-85.59160899999999"
+      "url": "https://www.google.com/maps/search/?api=1&query=Jet's%20Pizza&query_place_id=ChIJg0svmB6eF4gRGcXOJoy6Euw&center=42.213635499999995,-85.5964029"
     },
     {
-      "name": "Olive Garden Italian Restaurant",
+      "name": "Icarus Grilled Chicken",
       "distance": "0.3 mi",
-      "url": "https://www.google.com/maps/search/Olive%20Garden%20Italian%20Restaurant+near+42.2159543%2C-85.59160899999999"
+      "url": "https://www.google.com/maps/search/?api=1&query=Icarus%20Grilled%20Chicken&query_place_id=ChIJKQeNTBzvF4gRcbV4HHaaevs&center=42.2202403,-85.5943109"
+    },
+    {
+      "name": "Food Street",
+      "distance": "0.6 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Food%20Street&query_place_id=ChIJQ9Gf2A6eF4gRdLFtSV_XW5c&center=42.224313699999996,-85.5906868"
+    },
+    {
+      "name": "Jimmy John's",
+      "distance": "0.6 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Jimmy%20John's&query_place_id=ChIJqdHgWDyeF4gRrpp78S3kjv0&center=42.2078223,-85.588797"
+    },
+    {
+      "name": "Taco Bell",
+      "distance": "0.6 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Taco%20Bell&query_place_id=ChIJhbwIKgmeF4gRbdhSopXhV40&center=42.2249695,-85.5899163"
+    },
+    {
+      "name": "Five Guys",
+      "distance": "0.7 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Five%20Guys&query_place_id=ChIJfRGJsgieF4gRrBfJvsG3ksE&center=42.225828,-85.59158599999999"
+    },
+    {
+      "name": "Chick-fil-A",
+      "distance": "0.8 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Chick-fil-A&query_place_id=ChIJbag_5QieF4gRQpVehgZA_js&center=42.227475,-85.59006600000001"
+    },
+    {
+      "name": "Jersey Mike's Subs",
+      "distance": "0.8 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Jersey%20Mike's%20Subs&query_place_id=ChIJC2Jr_yGfF4gRFvXxna8Svbk&center=42.2281707,-85.5900568"
     }
   ],
   "coffee": [
     {
       "name": "McDonald's",
       "distance": "0.2 mi",
-      "url": "https://www.google.com/maps/search/McDonald's+near+42.2159543%2C-85.59160899999999"
+      "url": "https://www.google.com/maps/search/?api=1&query=McDonald's&query_place_id=ChIJ2WbQIRGeF4gRkVqYzH8Bh1E&center=42.216507899999996,-85.5886392"
     }
   ],
   "team_lunch": [
     {
       "name": "Executive Chef Stef",
       "distance": "0.1 mi",
-      "url": "https://www.google.com/maps/search/Executive%20Chef%20Stef+near+42.2159543%2C-85.59160899999999"
+      "url": "https://www.google.com/maps/search/?api=1&query=Executive%20Chef%20Stef&query_place_id=ChIJEdLEsGufF4gRqjVibvO3NOE&center=42.217905099999996,-85.5905116"
     },
     {
       "name": "Texas Roadhouse",
       "distance": "0.2 mi",
-      "url": "https://www.google.com/maps/search/Texas%20Roadhouse+near+42.2159543%2C-85.59160899999999"
-    },
-    {
-      "name": "Rocko's Bar & Grill",
-      "distance": "0.3 mi",
-      "url": "https://www.google.com/maps/search/Rocko's%20Bar%20%26%20Grill+near+42.2159543%2C-85.59160899999999"
+      "url": "https://www.google.com/maps/search/?api=1&query=Texas%20Roadhouse&query_place_id=ChIJzdVN2BaeF4gRtEfMOQhz95o&center=42.214213,-85.588832"
     },
     {
       "name": "Auntie Anne's",
       "distance": "0.3 mi",
-      "url": "https://www.google.com/maps/search/Auntie%20Anne's+near+42.2159543%2C-85.59160899999999"
+      "url": "https://www.google.com/maps/search/?api=1&query=Auntie%20Anne's&query_place_id=ChIJqy1kLQ6eF4gRD3NL_omO2Ik&center=42.2200543,-85.59405339999999"
+    },
+    {
+      "name": "Portage Cinnabon & Carvel Express",
+      "distance": "0.3 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Portage%20Cinnabon%20%26%20Carvel%20Express&query_place_id=ChIJZyLEZyGfF4gRvSPWpo0kEKE&center=42.2200628,-85.5941079"
+    },
+    {
+      "name": "Sweetsbyrobin2014",
+      "distance": "0.9 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Sweetsbyrobin2014&query_place_id=ChIJDXNhFgKfF4gRhlyUQLBwku0&center=42.2289591,-85.5965456"
     }
   ],
   "dinner": [

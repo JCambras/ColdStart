@@ -3,61 +3,101 @@
     {
       "name": "Jimmy John's",
       "distance": "0.1 mi",
-      "url": "https://www.google.com/maps/search/Jimmy%20John's+near+44.7634639%2C-85.5920996"
+      "url": "https://www.google.com/maps/search/?api=1&query=Jimmy%20John's&query_place_id=ChIJT1tjiVfNH4gRCGndGWnVS-I&center=44.764770299999995,-85.5919261"
     },
     {
       "name": "Little Caesars Pizza",
       "distance": "0.1 mi",
-      "url": "https://www.google.com/maps/search/Little%20Caesars%20Pizza+near+44.7634639%2C-85.5920996"
+      "url": "https://www.google.com/maps/search/?api=1&query=Little%20Caesars%20Pizza&query_place_id=ChIJibiujlfNH4gRndgD39i9ryU&center=44.7647822,-85.591796"
     },
     {
       "name": "Jersey Mike's Subs",
       "distance": "0.2 mi",
-      "url": "https://www.google.com/maps/search/Jersey%20Mike's%20Subs+near+44.7634639%2C-85.5920996"
-    },
-    {
-      "name": "Cottage Inn Pizza Traverse City",
-      "distance": "0.6 mi",
-      "url": "https://www.google.com/maps/search/Cottage%20Inn%20Pizza%20Traverse%20City+near+44.7634639%2C-85.5920996"
+      "url": "https://www.google.com/maps/search/?api=1&query=Jersey%20Mike's%20Subs&query_place_id=ChIJIai2iW3NH4gRwMaB8VdC8TQ&center=44.7638264,-85.5883599"
     },
     {
       "name": "Taco Bell",
       "distance": "0.6 mi",
-      "url": "https://www.google.com/maps/search/Taco%20Bell+near+44.7634639%2C-85.5920996"
+      "url": "https://www.google.com/maps/search/?api=1&query=Taco%20Bell&query_place_id=ChIJrYmD-6oyHogR_1ua1Hs8W8o&center=44.7637997,-85.60430389999999"
+    },
+    {
+      "name": "Two Sons Pizza",
+      "distance": "1.1 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Two%20Sons%20Pizza&query_place_id=ChIJN3iCWaIzHogR0Z5Hamk4Hbo&center=44.7597744,-85.6140188"
+    },
+    {
+      "name": "Subway",
+      "distance": "1.2 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Subway&query_place_id=ChIJ2XH_-GbNH4gRWcO6qPzPyas&center=44.7536839,-85.57272619999999"
     }
   ],
   "coffee": [
     {
       "name": "Starbucks",
       "distance": "0.1 mi",
-      "url": "https://www.google.com/maps/search/Starbucks+near+44.7634639%2C-85.5920996"
+      "url": "https://www.google.com/maps/search/?api=1&query=Starbucks&query_place_id=ChIJvYr7S2nNH4gRiAu0NE83Js8&center=44.7639196,-85.59413640000001"
     },
     {
       "name": "Cuppa Joe Drive Thru",
       "distance": "0.2 mi",
-      "url": "https://www.google.com/maps/search/Cuppa%20Joe%20Drive%20Thru+near+44.7634639%2C-85.5920996"
+      "url": "https://www.google.com/maps/search/?api=1&query=Cuppa%20Joe%20Drive%20Thru&query_place_id=ChIJcaA5aFbNH4gR4fgwZAoxKfI&center=44.763723299999995,-85.5955122"
     },
     {
       "name": "Common Good Bakery",
       "distance": "0.3 mi",
-      "url": "https://www.google.com/maps/search/Common%20Good%20Bakery+near+44.7634639%2C-85.5920996"
+      "url": "https://www.google.com/maps/search/?api=1&query=Common%20Good%20Bakery&query_place_id=ChIJKe4c_LnNH4gRNL9BMq9wvjE&center=44.758803799999995,-85.5942961"
     },
     {
-      "name": "Dunkin donuts",
-      "distance": "0.6 mi",
-      "url": "https://www.google.com/maps/search/Dunkin%20donuts+near+44.7634639%2C-85.5920996"
+      "name": "McDonald's",
+      "distance": "0.7 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=McDonald's&query_place_id=ChIJMU9zK6oyHogRUuZ78-XEzYU&center=44.763858299999995,-85.6069627"
+    },
+    {
+      "name": "Third Coast Bakery",
+      "distance": "0.8 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Third%20Coast%20Bakery&query_place_id=ChIJTxxKzTovS00RzG-gJyAEV2s&center=44.758075500000004,-85.57756719999999"
+    },
+    {
+      "name": "Peace, Love and Little Donuts of Traverse City",
+      "distance": "1.1 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Peace%2C%20Love%20and%20Little%20Donuts%20of%20Traverse%20City&query_place_id=ChIJQQjnSqYyHogRRwyQLzDstiE&center=44.764246799999995,-85.6140083"
     }
   ],
   "team_lunch": [
     {
       "name": "CuTea Boba",
       "distance": "0.2 mi",
-      "url": "https://www.google.com/maps/search/CuTea%20Boba+near+44.7634639%2C-85.5920996"
+      "url": "https://www.google.com/maps/search/?api=1&query=CuTea%20Boba&query_place_id=ChIJo8uDbQDNH4gREvfeVyODt7o&center=44.7634574,-85.5875767"
     },
     {
       "name": "Kumite Underground Noodles",
       "distance": "0.4 mi",
-      "url": "https://www.google.com/maps/search/Kumite%20Underground%20Noodles+near+44.7634639%2C-85.5920996"
+      "url": "https://www.google.com/maps/search/?api=1&query=Kumite%20Underground%20Noodles&query_place_id=ChIJq1wfHsvNH4gRCh11ao6ecBI&center=44.75844060000001,-85.5946101"
+    },
+    {
+      "name": "Hospitality Restaurant Group",
+      "distance": "0.7 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Hospitality%20Restaurant%20Group&query_place_id=ChIJBc4g-E7NH4gR9RIK6sjXh2w&center=44.7533562,-85.5951106"
+    },
+    {
+      "name": "Aunt Millie's Traverse City Sales Branch",
+      "distance": "1.0 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Aunt%20Millie's%20Traverse%20City%20Sales%20Branch&query_place_id=ChIJJ0Hn_LMyHogRg7nQuaReUEc&center=44.7530863,-85.6069168"
+    },
+    {
+      "name": "Yamaha bakery",
+      "distance": "1.4 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Yamaha%20bakery&query_place_id=ChIJue06eAAzHogRoi2dxr2OVig&center=44.7627838,-85.62140989999999"
+    },
+    {
+      "name": "Traverse Area Gluten Free Support Group",
+      "distance": "1.4 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Traverse%20Area%20Gluten%20Free%20Support%20Group&query_place_id=ChIJXQitiKEyHogRCWPlVoBnlLc&center=44.7620509,-85.6213854"
+    },
+    {
+      "name": "The Midori Plate",
+      "distance": "1.5 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=The%20Midori%20Plate&query_place_id=ChIJ-5btqeHNH4gRcJMAGPCrfc8&center=44.7441243,-85.60686059999999"
     }
   ],
   "dinner": [

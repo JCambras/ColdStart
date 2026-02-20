@@ -1,6 +1,11 @@
 {
   "quick_bite": [
     {
+      "name": "Dunkin'",
+      "distance": "0.1 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Dunkin'&query_place_id=ChIJVxx1T0r3wokRydLnnUkobwg&center=40.8081239,-73.9457803"
+    },
+    {
       "name": "Harlem Poke",
       "distance": "0.1 mi",
       "url": "https://www.google.com/maps/search/?api=1&query=Harlem%20Poke&query_place_id=ChIJ27WmH9D3wokRMQRZJgMhbNo&center=40.8099917,-73.9434895"
@@ -29,6 +34,21 @@
       "name": "Taco Bell",
       "distance": "0.2 mi",
       "url": "https://www.google.com/maps/search/?api=1&query=Taco%20Bell&query_place_id=ChIJwQtSQwD3wokRyWxVWPBYTjU&center=40.8087643,-73.94888639999999"
+    },
+    {
+      "name": "Chick-fil-A",
+      "distance": "0.2 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Chick-fil-A&query_place_id=ChIJW_cAAZr3wokR_XjHGpcIYsM&center=40.809089799999995,-73.9491517"
+    },
+    {
+      "name": "New Grab & Go Food",
+      "distance": "0.3 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=New%20Grab%20%26%20Go%20Food&query_place_id=ChIJF8lct3T2wokRx-hd_V0qA6I&center=40.808949999999996,-73.94082399999999"
+    },
+    {
+      "name": "Burger King",
+      "distance": "0.3 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Burger%20King&query_place_id=ChIJ-7F9T0v3wokRxm9izjwRnh4&center=40.8108042,-73.95181339999999"
     }
   ],
   "coffee": [
@@ -41,14 +61,19 @@
       "name": "Dunkin'",
       "distance": "0.1 mi",
       "url": "https://www.google.com/maps/search/?api=1&query=Dunkin'&query_place_id=ChIJVxx1T0r3wokRydLnnUkobwg&center=40.8081239,-73.9457803"
+    },
+    {
+      "name": "McDonald's",
+      "distance": "0.1 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=McDonald's&query_place_id=ChIJO7tNpxL2wokRqlBh1scZXfA&center=40.808569,-73.947756"
+    },
+    {
+      "name": "McDonald's",
+      "distance": "0.4 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=McDonald's&query_place_id=ChIJF26qyhL2wokRW6PK5adGA_k&center=40.8107815,-73.9530431"
     }
   ],
   "team_lunch": [
-    {
-      "name": "Lenox Saphire Harlem",
-      "distance": "0.1 mi",
-      "url": "https://www.google.com/maps/search/?api=1&query=Lenox%20Saphire%20Harlem&query_place_id=ChIJhfGrKXP2wokR7v-J71i8q9A&center=40.809368,-73.944751"
-    },
     {
       "name": "Uptown Veg 2 express",
       "distance": "0.1 mi",
@@ -73,6 +98,16 @@
       "name": "Whole Foods Bakery",
       "distance": "0.2 mi",
       "url": "https://www.google.com/maps/search/?api=1&query=Whole%20Foods%20Bakery&query_place_id=ChIJHUbkJgD3wokREbg3l4VR1Vc&center=40.807589,-73.946219"
+    },
+    {
+      "name": "Sweet Harlem",
+      "distance": "0.4 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Sweet%20Harlem&query_place_id=ChIJCeKXnAv2wokRnzlk6v2jUrA&center=40.805645,-73.94103369999999"
+    },
+    {
+      "name": "The Original Cake Man Raven",
+      "distance": "0.4 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=The%20Original%20Cake%20Man%20Raven&query_place_id=ChIJM68Wg7RdwokRrSZxJAZZRpA&center=40.8156895,-73.9441495"
     }
   ],
   "dinner": [

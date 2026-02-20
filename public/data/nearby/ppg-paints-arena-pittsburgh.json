@@ -24,6 +24,31 @@
       "name": "Jimmy John's",
       "distance": "0.4 mi",
       "url": "https://www.google.com/maps/search/?api=1&query=Jimmy%20John's&query_place_id=ChIJ327AJ1TxNIgReW7jGD36IyA&center=40.4400335,-79.9966305"
+    },
+    {
+      "name": "Subway",
+      "distance": "0.4 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Subway&query_place_id=ChIJQeMfFVjxNIgRc7AXSqrmnAc&center=40.4426908,-79.9961837"
+    },
+    {
+      "name": "Subway",
+      "distance": "0.4 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Subway&query_place_id=ChIJNylUelrxNIgRpyOyqK_w7Co&center=40.4370117,-79.996994"
+    },
+    {
+      "name": "Jimmy John's",
+      "distance": "0.5 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Jimmy%20John's&query_place_id=ChIJYce2iOLzNIgRku6-zTQ0I20&center=40.4447244,-79.9950834"
+    },
+    {
+      "name": "Subway",
+      "distance": "0.5 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Subway&query_place_id=ChIJjUwJy1DxNIgR8Q6rGrtjaVA&center=40.439066499999996,-79.9991086"
+    },
+    {
+      "name": "Arby's",
+      "distance": "0.5 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Arby's&query_place_id=ChIJpfxYllfxNIgR7rSRMdUI6NM&center=40.442575,-79.9987178"
     }
   ],
   "coffee": [
@@ -51,6 +76,31 @@
       "name": "Starbucks Coffee Company",
       "distance": "0.2 mi",
       "url": "https://www.google.com/maps/search/?api=1&query=Starbucks%20Coffee%20Company&query_place_id=ChIJ7eKcjLDxNIgRydcz6v-eerM&center=40.43947,-79.99401999999999"
+    },
+    {
+      "name": "Einstein Bros. Bagels",
+      "distance": "0.4 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Einstein%20Bros.%20Bagels&query_place_id=ChIJI9owWljxNIgRXdwOvcLtPcI&center=40.4421052,-79.9952652"
+    },
+    {
+      "name": "Bruegger's Bagels",
+      "distance": "0.4 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Bruegger's%20Bagels&query_place_id=ChIJr5_PwVnxNIgRW6wYCkEkfv0&center=40.4402542,-79.9964758"
+    },
+    {
+      "name": "Bruegger's Bagels",
+      "distance": "0.5 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Bruegger's%20Bagels&query_place_id=ChIJo5IOulDxNIgRCjQSyJviOTM&center=40.4384971,-79.9984717"
+    },
+    {
+      "name": "La Gourmandine Downtown",
+      "distance": "0.6 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=La%20Gourmandine%20Downtown&query_place_id=ChIJDwC811bxNIgR7u9WMUuNjto&center=40.4398492,-80.0004969"
+    },
+    {
+      "name": "Bluebird Kitchen",
+      "distance": "0.6 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Bluebird%20Kitchen&query_place_id=ChIJs2Jlv1bxNIgR1BjwPx-efhY&center=40.440546399999995,-80.0017735"
     }
   ],
   "team_lunch": [
@@ -58,16 +108,6 @@
       "name": "Taco Inc. Modern Mexican",
       "distance": "0.1 mi",
       "url": "https://www.google.com/maps/search/?api=1&query=Taco%20Inc.%20Modern%20Mexican&query_place_id=ChIJybnLWL7xNIgRwQVHhKG51wk&center=40.438562100000006,-79.99047039999999"
-    },
-    {
-      "name": "Social Circle Bar & Bistro",
-      "distance": "0.1 mi",
-      "url": "https://www.google.com/maps/search/?api=1&query=Social%20Circle%20Bar%20%26%20Bistro&query_place_id=ChIJXZF5KTDyNIgR5hj8iNmdfOA&center=40.44018620000001,-79.9881927"
-    },
-    {
-      "name": "Pizza Milano",
-      "distance": "0.1 mi",
-      "url": "https://www.google.com/maps/search/?api=1&query=Pizza%20Milano&query_place_id=ChIJd14Rc17xNIgRMq985izx13w&center=40.438587,-79.98796399999999"
     },
     {
       "name": "Freshëns",
@@ -78,11 +118,6 @@
       "name": "Toe Beans Bakery",
       "distance": "0.1 mi",
       "url": "https://www.google.com/maps/search/?api=1&query=Toe%20Beans%20Bakery&query_place_id=ChIJFW9w_WTxNIgRd3MkfoSN5NY&center=40.4376173,-79.9883823"
-    },
-    {
-      "name": "Crafted North",
-      "distance": "0.2 mi",
-      "url": "https://www.google.com/maps/search/?api=1&query=Crafted%20North&query_place_id=ChIJ0xL3TFnxNIgRbQ7AwtRilGM&center=40.4397623,-79.9925246"
     }
   ],
   "dinner": [

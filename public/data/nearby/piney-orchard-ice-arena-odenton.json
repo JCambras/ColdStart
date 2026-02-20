@@ -3,61 +3,111 @@
     {
       "name": "Subway",
       "distance": "0.5 mi",
-      "url": "https://www.google.com/maps/search/Subway+near+39.0614041%2C-76.72611049999999"
+      "url": "https://www.google.com/maps/search/?api=1&query=Subway&query_place_id=ChIJswoWcuvlt4kR1skrfirOa_0&center=39.065717,-76.71895599999999"
     },
     {
       "name": "Hana Japanese cuisine",
       "distance": "0.5 mi",
-      "url": "https://www.google.com/maps/search/Hana%20Japanese%20cuisine+near+39.0614041%2C-76.72611049999999"
+      "url": "https://www.google.com/maps/search/?api=1&query=Hana%20Japanese%20cuisine&query_place_id=ChIJUZGMau7lt4kR6pIRLEuHRGE&center=39.0662103,-76.71827259999999"
+    },
+    {
+      "name": "Dunkin'",
+      "distance": "0.6 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Dunkin'&query_place_id=ChIJUZGMau7lt4kRE2fLXk0Rvsw&center=39.066384899999996,-76.7176793"
     },
     {
       "name": "The Hotdog Hideout",
       "distance": "1.6 mi",
-      "url": "https://www.google.com/maps/search/The%20Hotdog%20Hideout+near+39.0614041%2C-76.72611049999999"
+      "url": "https://www.google.com/maps/search/?api=1&query=The%20Hotdog%20Hideout&query_place_id=ChIJW2s5D2Llt4kRQCjlJRbP1ag&center=39.060578799999995,-76.69537799999999"
     },
     {
       "name": "Little Caesars Pizza",
       "distance": "2.3 mi",
-      "url": "https://www.google.com/maps/search/Little%20Caesars%20Pizza+near+39.0614041%2C-76.72611049999999"
+      "url": "https://www.google.com/maps/search/?api=1&query=Little%20Caesars%20Pizza&query_place_id=ChIJoXGu6aflt4kRWqyKxJVs5N0&center=39.081181,-76.691803"
+    },
+    {
+      "name": "Five Guys",
+      "distance": "2.3 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Five%20Guys&query_place_id=ChIJGZ7L3Kflt4kR4zxYFMrJf6o&center=39.0804475,-76.69046569999999"
+    },
+    {
+      "name": "Corner Shoppe",
+      "distance": "2.3 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Corner%20Shoppe&query_place_id=ChIJD8EiinDlt4kRHItMqg8_Y7w&center=39.0801093,-76.6899059"
+    },
+    {
+      "name": "Subway",
+      "distance": "2.4 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Subway&query_place_id=ChIJW_Wo6aflt4kRlLkJUThko5A&center=39.079724899999995,-76.6882743"
+    },
+    {
+      "name": "Dairy Queen Grill & Chill",
+      "distance": "2.4 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Dairy%20Queen%20Grill%20%26%20Chill&query_place_id=ChIJwcbF3aflt4kRQIr1bxK5EUY&center=39.0819334,-76.68928559999999"
+    },
+    {
+      "name": "Jersey Mike's Subs",
+      "distance": "2.7 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Jersey%20Mike's%20Subs&query_place_id=ChIJGfFulLXlt4kRputxTCzWm2c&center=39.1004438,-76.7181097"
     }
   ],
   "coffee": [
     {
       "name": "Dunkin'",
       "distance": "0.6 mi",
-      "url": "https://www.google.com/maps/search/Dunkin'+near+39.0614041%2C-76.72611049999999"
+      "url": "https://www.google.com/maps/search/?api=1&query=Dunkin'&query_place_id=ChIJUZGMau7lt4kRE2fLXk0Rvsw&center=39.066384899999996,-76.7176793"
     },
     {
       "name": "Baltimore Coffee & Tea Company",
       "distance": "2.1 mi",
-      "url": "https://www.google.com/maps/search/Baltimore%20Coffee%20%26%20Tea%20Company+near+39.0614041%2C-76.72611049999999"
+      "url": "https://www.google.com/maps/search/?api=1&query=Baltimore%20Coffee%20%26%20Tea%20Company&query_place_id=ChIJyXl_crblt4kRV3ah1tvc4Fg&center=39.0889761,-76.7084886"
     },
     {
       "name": "Besayan Tea",
       "distance": "2.2 mi",
-      "url": "https://www.google.com/maps/search/Besayan%20Tea+near+39.0614041%2C-76.72611049999999"
+      "url": "https://www.google.com/maps/search/?api=1&query=Besayan%20Tea&query_place_id=ChIJif6TPADlt4kRBMkOBNgT6Uk&center=39.0856437,-76.6990497"
     },
     {
       "name": "Graze Craze Charcuterie Boards & Boxes - Odenton, MD",
       "distance": "2.2 mi",
-      "url": "https://www.google.com/maps/search/Graze%20Craze%20Charcuterie%20Boards%20%26%20Boxes%20-%20Odenton%2C%20MD+near+39.0614041%2C-76.72611049999999"
+      "url": "https://www.google.com/maps/search/?api=1&query=Graze%20Craze%20Charcuterie%20Boards%20%26%20Boxes%20-%20Odenton%2C%20MD&query_place_id=ChIJ5-YlQ8rlt4kRmPXMAMmgoUI&center=39.085689699999996,-76.6990325"
+    },
+    {
+      "name": "McDonald's",
+      "distance": "2.4 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=McDonald's&query_place_id=ChIJhwDb4aflt4kRhffkpV5nbo4&center=39.081677299999996,-76.68888059999999"
+    },
+    {
+      "name": "Shipley Do-Nuts",
+      "distance": "2.5 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Shipley%20Do-Nuts&query_place_id=ChIJdX0jUxXlt4kRreoGOU1bKl8&center=39.0776988,-76.68478619999999"
     }
   ],
   "team_lunch": [
     {
       "name": "Hunan China Restaurant",
       "distance": "0.5 mi",
-      "url": "https://www.google.com/maps/search/Hunan%20China%20Restaurant+near+39.0614041%2C-76.72611049999999"
+      "url": "https://www.google.com/maps/search/?api=1&query=Hunan%20China%20Restaurant&query_place_id=ChIJrwdRLe7lt4kR-McAqMzTMs0&center=39.0656245,-76.7192026"
     },
     {
       "name": "Baked by Blessing",
       "distance": "1.4 mi",
-      "url": "https://www.google.com/maps/search/Baked%20by%20Blessing+near+39.0614041%2C-76.72611049999999"
+      "url": "https://www.google.com/maps/search/?api=1&query=Baked%20by%20Blessing&query_place_id=ChIJSx2Opf_lt4kRbHuaLHehlgM&center=39.0622052,-76.6993329"
     },
     {
       "name": "Romeo's Pizza",
       "distance": "2.2 mi",
-      "url": "https://www.google.com/maps/search/Romeo's%20Pizza+near+39.0614041%2C-76.72611049999999"
+      "url": "https://www.google.com/maps/search/?api=1&query=Romeo's%20Pizza&query_place_id=ChIJJTJ217Hlt4kRtGnXLWr9j2M&center=39.0854912,-76.69916839999999"
+    },
+    {
+      "name": "Giant Food Bakery",
+      "distance": "2.3 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Giant%20Food%20Bakery&query_place_id=ChIJpdMMIgDlt4kRBtJi3OteY4o&center=39.0800298,-76.6899438"
+    },
+    {
+      "name": "Safeway Bakery",
+      "distance": "2.9 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Safeway%20Bakery&query_place_id=ChIJ____tITvt4kRVk0R7ZKD5-8&center=39.040216799999996,-76.6804331"
     }
   ],
   "dinner": [

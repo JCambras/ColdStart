@@ -3,91 +3,116 @@
     {
       "name": "Subway",
       "distance": "0.7 mi",
-      "url": "https://www.google.com/maps/search/Subway+near+47.1123143%2C-88.5458761"
+      "url": "https://www.google.com/maps/search/?api=1&query=Subway&query_place_id=ChIJA-oaeSTIUE0RZdnVprztVSk&center=47.1200538,-88.55483749999999"
     },
     {
       "name": "Jimmy John's",
       "distance": "1.1 mi",
-      "url": "https://www.google.com/maps/search/Jimmy%20John's+near+47.1123143%2C-88.5458761"
+      "url": "https://www.google.com/maps/search/?api=1&query=Jimmy%20John's&query_place_id=ChIJh1PAqC7IUE0RZHPYggk_7sg&center=47.1216551,-88.5636073"
     },
     {
       "name": "Subway",
       "distance": "1.1 mi",
-      "url": "https://www.google.com/maps/search/Subway+near+47.1123143%2C-88.5458761"
+      "url": "https://www.google.com/maps/search/?api=1&query=Subway&query_place_id=ChIJPWRqDizIUE0RrcSGHuBIjno&center=47.1220042,-88.56542499999999"
+    },
+    {
+      "name": "Subway",
+      "distance": "1.9 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Subway&query_place_id=ChIJGzlxvcbJUE0R5poT8eRying&center=47.112291400000004,-88.58526909999999"
+    },
+    {
+      "name": "Taco Bell",
+      "distance": "1.9 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Taco%20Bell&query_place_id=ChIJ0f0pzcDJUE0R77o-8MTXXHU&center=47.112375899999996,-88.5870364"
+    },
+    {
+      "name": "Subway",
+      "distance": "2.0 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Subway&query_place_id=ChIJUZp84sPJUE0R5vC3xVwOl6g&center=47.1064499,-88.58833310000001"
+    },
+    {
+      "name": "Border Grill",
+      "distance": "2.0 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Border%20Grill&query_place_id=ChIJMdHrn-LJUE0RDIKM7PFdDQg&center=47.110178999999995,-88.5891643"
+    },
+    {
+      "name": "Sushi Kabar",
+      "distance": "2.1 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Sushi%20Kabar&query_place_id=ChIJ18xzNwDJUE0R1UkDW7Szezs&center=47.114619399999995,-88.5901092"
     }
   ],
   "coffee": [
     {
       "name": "Velodrome Coffee Company",
       "distance": "0.1 mi",
-      "url": "https://www.google.com/maps/search/Velodrome%20Coffee%20Company+near+47.1123143%2C-88.5458761"
+      "url": "https://www.google.com/maps/search/?api=1&query=Velodrome%20Coffee%20Company&query_place_id=ChIJa_tkz6_JUE0R_xYuA9ZNJFs&center=47.1121056,-88.54728829999999"
     },
     {
       "name": "Campus Cafe",
       "distance": "0.3 mi",
-      "url": "https://www.google.com/maps/search/Campus%20Cafe+near+47.1123143%2C-88.5458761"
+      "url": "https://www.google.com/maps/search/?api=1&query=Campus%20Cafe&query_place_id=ChIJnR2GrBDIUE0RVd4NZPpaaAg&center=47.1169022,-88.544016"
     },
     {
       "name": "Velodrome Coffee Company",
       "distance": "0.4 mi",
-      "url": "https://www.google.com/maps/search/Velodrome%20Coffee%20Company+near+47.1123143%2C-88.5458761"
+      "url": "https://www.google.com/maps/search/?api=1&query=Velodrome%20Coffee%20Company&query_place_id=ChIJBS283pbJUE0R-tkq18DM5P0&center=47.1186864,-88.5477377"
     },
     {
       "name": "Fusion Café",
       "distance": "0.5 mi",
-      "url": "https://www.google.com/maps/search/Fusion%20Caf%C3%A9+near+47.1123143%2C-88.5458761"
+      "url": "https://www.google.com/maps/search/?api=1&query=Fusion%20Caf%C3%A9&query_place_id=ChIJscrrVBjIUE0RzM8CRbaYMO4&center=47.119496999999996,-88.54661759999999"
     },
     {
       "name": "BIGGBY COFFEE",
       "distance": "1.1 mi",
-      "url": "https://www.google.com/maps/search/BIGGBY%20COFFEE+near+47.1123143%2C-88.5458761"
+      "url": "https://www.google.com/maps/search/?api=1&query=BIGGBY%20COFFEE&query_place_id=ChIJYcbquS7IUE0R8B1jtj14_l4&center=47.1216796,-88.5635922"
     },
     {
       "name": "Camp Coffee Company",
       "distance": "1.2 mi",
-      "url": "https://www.google.com/maps/search/Camp%20Coffee%20Company+near+47.1123143%2C-88.5458761"
+      "url": "https://www.google.com/maps/search/?api=1&query=Camp%20Coffee%20Company&query_place_id=ChIJa79e0kDJUE0RcxoJN1LK3AI&center=47.1219488,-88.5662704"
     },
     {
       "name": "The Prickly Pine Cafe",
       "distance": "1.2 mi",
-      "url": "https://www.google.com/maps/search/The%20Prickly%20Pine%20Cafe+near+47.1123143%2C-88.5458761"
+      "url": "https://www.google.com/maps/search/?api=1&query=The%20Prickly%20Pine%20Cafe&query_place_id=ChIJkXc0oavJUE0Rh19-aJbR2Vk&center=47.121965599999996,-88.5670555"
+    },
+    {
+      "name": "NISU Bakery & Cafe",
+      "distance": "1.9 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=NISU%20Bakery%20%26%20Cafe&query_place_id=ChIJEx1P5hTJUE0RnO38nhDHBOI&center=47.126737299999995,-88.58132959999999"
+    },
+    {
+      "name": "McDonald's",
+      "distance": "2.1 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=McDonald's&query_place_id=ChIJRV5_K8DJUE0R4yr8C388Ffs&center=47.1103631,-88.59089999999999"
     }
   ],
   "team_lunch": [
     {
       "name": "McNair Dining Hall",
       "distance": "0.4 mi",
-      "url": "https://www.google.com/maps/search/McNair%20Dining%20Hall+near+47.1123143%2C-88.5458761"
+      "url": "https://www.google.com/maps/search/?api=1&query=McNair%20Dining%20Hall&query_place_id=ChIJXRf3Mu_JUE0R_dkF544YqJs&center=47.116248999999996,-88.54081959999999"
     },
     {
       "name": "Brkfst & Co.",
       "distance": "0.5 mi",
-      "url": "https://www.google.com/maps/search/Brkfst%20%26%20Co.+near+47.1123143%2C-88.5458761"
+      "url": "https://www.google.com/maps/search/?api=1&query=Brkfst%20%26%20Co.&query_place_id=ChIJBe9c5hvIUE0Rqwltd7Hh2lQ&center=47.118821999999994,-88.54934999999999"
     },
     {
       "name": "J J's Wok N Grill",
       "distance": "0.7 mi",
-      "url": "https://www.google.com/maps/search/J%20J's%20Wok%20N%20Grill+near+47.1123143%2C-88.5458761"
+      "url": "https://www.google.com/maps/search/?api=1&query=J%20J's%20Wok%20N%20Grill&query_place_id=ChIJA-oaeSTIUE0RGrbDGOEwu3M&center=47.1200617,-88.5552459"
     },
     {
       "name": "Lighthouse Restaurant",
       "distance": "1.1 mi",
-      "url": "https://www.google.com/maps/search/Lighthouse%20Restaurant+near+47.1123143%2C-88.5458761"
+      "url": "https://www.google.com/maps/search/?api=1&query=Lighthouse%20Restaurant&query_place_id=ChIJr6y45ovJUE0Rrzv7PN-PDq4&center=47.1229435,-88.56372750000001"
     },
     {
       "name": "Victoria's Kitchen",
       "distance": "1.2 mi",
-      "url": "https://www.google.com/maps/search/Victoria's%20Kitchen+near+47.1123143%2C-88.5458761"
-    },
-    {
-      "name": "The Library Restaurant",
-      "distance": "1.2 mi",
-      "url": "https://www.google.com/maps/search/The%20Library%20Restaurant+near+47.1123143%2C-88.5458761"
-    },
-    {
-      "name": "Bonfire at The Continental Fire Co.",
-      "distance": "1.2 mi",
-      "url": "https://www.google.com/maps/search/Bonfire%20at%20The%20Continental%20Fire%20Co.+near+47.1123143%2C-88.5458761"
+      "url": "https://www.google.com/maps/search/?api=1&query=Victoria's%20Kitchen&query_place_id=ChIJOZm_hyzIUE0RX6IrDt_97Gc&center=47.122008199999996,-88.5673267"
     }
   ],
   "dinner": [

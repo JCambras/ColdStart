@@ -6,14 +6,14 @@
       "url": "https://www.google.com/maps/search/?api=1&query=Happy%20Wok&query_place_id=ChIJ3QyJUU0VxIkRqi0_ApeWxvE&center=40.6661356,-75.3078357"
     },
     {
+      "name": "Dunkin'",
+      "distance": "0.1 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Dunkin'&query_place_id=ChIJlRSlcgRAxIkR3jG3EbANXqs&center=40.6660433,-75.3078972"
+    },
+    {
       "name": "Krispy Krunchy Chicken",
       "distance": "0.1 mi",
       "url": "https://www.google.com/maps/search/?api=1&query=Krispy%20Krunchy%20Chicken&query_place_id=ChIJw3lBRcRrxIkRly0POVm1tg0&center=40.666241199999995,-75.3083966"
-    },
-    {
-      "name": "Outback Steakhouse",
-      "distance": "0.6 mi",
-      "url": "https://www.google.com/maps/search/?api=1&query=Outback%20Steakhouse&query_place_id=ChIJ22p3_ydrxIkR-AFjBHQ7mO0&center=40.6663095,-75.29473689999999"
     },
     {
       "name": "Subway",
@@ -29,6 +29,26 @@
       "name": "Wayback Burgers",
       "distance": "1.3 mi",
       "url": "https://www.google.com/maps/search/?api=1&query=Wayback%20Burgers&query_place_id=ChIJezy6IS1rxIkRHxhkKfPeL64&center=40.655700599999996,-75.2859788"
+    },
+    {
+      "name": "Arby's",
+      "distance": "1.9 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Arby's&query_place_id=ChIJUzWoCqgVxIkRIf8lXrkDxXU&center=40.6502935,-75.3373495"
+    },
+    {
+      "name": "Hissho Sushi",
+      "distance": "2.0 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Hissho%20Sushi&query_place_id=ChIJxVOdGgAVxIkR4ye98Ozxw5o&center=40.6477605,-75.33730059999999"
+    },
+    {
+      "name": "Burger King",
+      "distance": "2.0 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Burger%20King&query_place_id=ChIJ7d9M8BxAxIkRpm-CiMPwUqM&center=40.6737518,-75.3445881"
+    },
+    {
+      "name": "Wawa",
+      "distance": "2.1 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Wawa&query_place_id=ChIJCZ4TLwVBxIkRB4eG8bkOUq0&center=40.6689495,-75.3468658"
     }
   ],
   "coffee": [
@@ -51,6 +71,26 @@
       "name": "Duck Donuts",
       "distance": "1.3 mi",
       "url": "https://www.google.com/maps/search/?api=1&query=Duck%20Donuts&query_place_id=ChIJFxTGeilrxIkRWeiNt3gnyOI&center=40.655655499999995,-75.285859"
+    },
+    {
+      "name": "McDonald's",
+      "distance": "2.1 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=McDonald's&query_place_id=ChIJ7cVlfh5AxIkRtqol0Vw0C6Q&center=40.6754977,-75.3448287"
+    },
+    {
+      "name": "Wawa",
+      "distance": "2.1 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Wawa&query_place_id=ChIJCZ4TLwVBxIkRB4eG8bkOUq0&center=40.6689495,-75.3468658"
+    },
+    {
+      "name": "McDonald's",
+      "distance": "2.6 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=McDonald's&query_place_id=ChIJJ3kJxeA_xIkR3QDYJUvgy80&center=40.6438815,-75.3460099"
+    },
+    {
+      "name": "Wawa",
+      "distance": "2.6 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Wawa&query_place_id=ChIJlRFXR-c_xIkROKFnqUbM5bs&center=40.644202299999996,-75.34819499999999"
     }
   ],
   "team_lunch": [

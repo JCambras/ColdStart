@@ -1,6 +1,11 @@
 {
   "quick_bite": [
     {
+      "name": "Dunkin'",
+      "distance": "0.7 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Dunkin'&query_place_id=ChIJhWakOxY4xIkRPZ8hZRyP_K0&center=40.6647848,-75.5121582"
+    },
+    {
       "name": "Mario's Pizza Shop",
       "distance": "0.9 mi",
       "url": "https://www.google.com/maps/search/?api=1&query=Mario's%20Pizza%20Shop&query_place_id=ChIJZT-Fyn44xIkRwc1b1MWWOnk&center=40.6768825,-75.48701059999999"
@@ -9,6 +14,11 @@
       "name": "Happy Garden",
       "distance": "1.0 mi",
       "url": "https://www.google.com/maps/search/?api=1&query=Happy%20Garden&query_place_id=ChIJl9wkTkQ4xIkRIQNX_VGbkd0&center=40.6549743,-75.49639979999999"
+    },
+    {
+      "name": "Wawa",
+      "distance": "1.3 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Wawa&query_place_id=ChIJuxBC6Eg4xIkRANemuNU1w2A&center=40.651008,-75.499831"
     },
     {
       "name": "Jersey Mike's Subs",
@@ -29,6 +39,16 @@
       "name": "Arby's",
       "distance": "1.9 mi",
       "url": "https://www.google.com/maps/search/?api=1&query=Arby's&query_place_id=ChIJvxCUc1M4xIkRGF4EhavmE9s&center=40.6430356,-75.48815479999999"
+    },
+    {
+      "name": "Subway",
+      "distance": "2.0 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Subway&query_place_id=ChIJ6xLWHPs3xIkRKVOGeE-2OSA&center=40.6797432,-75.5371794"
+    },
+    {
+      "name": "JJ\"s Sushi",
+      "distance": "2.2 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=JJ%22s%20Sushi&query_place_id=ChIJgaM73NE5xIkRX5c4M1V4oH8&center=40.6388612,-75.4894248"
     }
   ],
   "coffee": [
@@ -46,6 +66,16 @@
       "name": "OA Donuts",
       "distance": "1.0 mi",
       "url": "https://www.google.com/maps/search/?api=1&query=OA%20Donuts&query_place_id=ChIJb5EXpXY5xIkRqJjlg6-DXQs&center=40.6550717,-75.4965019"
+    },
+    {
+      "name": "Wawa",
+      "distance": "1.3 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Wawa&query_place_id=ChIJuxBC6Eg4xIkRANemuNU1w2A&center=40.651008,-75.499831"
+    },
+    {
+      "name": "McDonald's",
+      "distance": "1.3 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=McDonald's&query_place_id=ChIJ40OSoUM5xIkRsvOCrkyUdFA&center=40.650830000000006,-75.501122"
     }
   ],
   "team_lunch": [

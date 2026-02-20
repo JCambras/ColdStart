@@ -3,71 +3,103 @@
     {
       "name": "Subway",
       "distance": "0.5 mi",
-      "url": "https://www.google.com/maps/search/Subway+near+43.1863889%2C-85.5527778"
+      "url": "https://www.google.com/maps/search/?api=1&query=Subway&query_place_id=ChIJJzvlzxv9GIgRfCGsHubaI2Y&center=43.1792167,-85.5501549"
     },
     {
       "name": "Burger King",
       "distance": "0.6 mi",
-      "url": "https://www.google.com/maps/search/Burger%20King+near+43.1863889%2C-85.5527778"
+      "url": "https://www.google.com/maps/search/?api=1&query=Burger%20King&query_place_id=ChIJr0kT9jD8GIgRB07QwJLlU-E&center=43.178457699999996,-85.5539221"
+    },
+    {
+      "name": "Tim Hortons",
+      "distance": "1.5 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Tim%20Hortons&query_place_id=ChIJzy7Xipf9GIgRedXwXZHQ8Nk&center=43.1749089,-85.5791988"
     },
     {
       "name": "Culver’s",
       "distance": "2.4 mi",
-      "url": "https://www.google.com/maps/search/Culver%E2%80%99s+near+43.1863889%2C-85.5527778"
+      "url": "https://www.google.com/maps/search/?api=1&query=Culver%E2%80%99s&query_place_id=ChIJl3ew93j9GIgRyTcX-I8bWU8&center=43.218688199999995,-85.570577"
     },
     {
       "name": "Taco Bell",
       "distance": "2.4 mi",
-      "url": "https://www.google.com/maps/search/Taco%20Bell+near+43.1863889%2C-85.5527778"
+      "url": "https://www.google.com/maps/search/?api=1&query=Taco%20Bell&query_place_id=ChIJN8oaSx79GIgR3XnxGTOLWWI&center=43.2203648,-85.56394809999999"
     },
     {
       "name": "Subway",
       "distance": "2.4 mi",
-      "url": "https://www.google.com/maps/search/Subway+near+43.1863889%2C-85.5527778"
+      "url": "https://www.google.com/maps/search/?api=1&query=Subway&query_place_id=ChIJJzvlzxv9GIgRcOi7m9cF5bE&center=43.2195907,-85.568266"
     },
     {
       "name": "Little Caesars Pizza",
       "distance": "2.4 mi",
-      "url": "https://www.google.com/maps/search/Little%20Caesars%20Pizza+near+43.1863889%2C-85.5527778"
+      "url": "https://www.google.com/maps/search/?api=1&query=Little%20Caesars%20Pizza&query_place_id=ChIJJzvlzxv9GIgRDJHyhRJ9Uss&center=43.21982,-85.56817699999999"
     },
     {
       "name": "Arby's",
       "distance": "2.4 mi",
-      "url": "https://www.google.com/maps/search/Arby's+near+43.1863889%2C-85.5527778"
+      "url": "https://www.google.com/maps/search/?api=1&query=Arby's&query_place_id=ChIJ9_IKJBr9GIgRWQZntGyEhGY&center=43.2194313,-85.56972669999999"
+    },
+    {
+      "name": "Burger King",
+      "distance": "2.5 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Burger%20King&query_place_id=ChIJxRnyjxn9GIgR8yY7pxGa8WY&center=43.220323900000004,-85.56950030000002"
+    },
+    {
+      "name": "Wendy's",
+      "distance": "2.5 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Wendy's&query_place_id=ChIJHUA64xn9GIgRadLe93grdOo&center=43.2205759,-85.5717138"
     }
   ],
   "coffee": [
     {
       "name": "Biggby Coffee",
       "distance": "0.5 mi",
-      "url": "https://www.google.com/maps/search/Biggby%20Coffee+near+43.1863889%2C-85.5527778"
+      "url": "https://www.google.com/maps/search/?api=1&query=Biggby%20Coffee&query_place_id=ChIJB-j3yk79GIgRLPCDyBbFvec&center=43.180079,-85.5504327"
     },
     {
       "name": "Tim Hortons",
       "distance": "1.5 mi",
-      "url": "https://www.google.com/maps/search/Tim%20Hortons+near+43.1863889%2C-85.5527778"
+      "url": "https://www.google.com/maps/search/?api=1&query=Tim%20Hortons&query_place_id=ChIJzy7Xipf9GIgRedXwXZHQ8Nk&center=43.1749089,-85.5791988"
     },
     {
       "name": "McDonald's",
       "distance": "2.5 mi",
-      "url": "https://www.google.com/maps/search/McDonald's+near+43.1863889%2C-85.5527778"
+      "url": "https://www.google.com/maps/search/?api=1&query=McDonald's&query_place_id=ChIJpWEyXBn9GIgR4XotuHotaZ8&center=43.220318,-85.567689"
+    },
+    {
+      "name": "McDonald's",
+      "distance": "4.8 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=McDonald's&query_place_id=ChIJo2ytmxD_GIgRmXfUiTd43vM&center=43.1168832,-85.5473399",
+      "isFar": true
     }
   ],
   "team_lunch": [
     {
       "name": "Piccadilly Circus Pizza",
       "distance": "0.5 mi",
-      "url": "https://www.google.com/maps/search/Piccadilly%20Circus%20Pizza+near+43.1863889%2C-85.5527778"
+      "url": "https://www.google.com/maps/search/?api=1&query=Piccadilly%20Circus%20Pizza&query_place_id=ChIJQWSkwTX9GIgRaeigCkzy2aw&center=43.1791859,-85.5501725"
     },
     {
       "name": "MrBeast Burger",
       "distance": "2.4 mi",
-      "url": "https://www.google.com/maps/search/MrBeast%20Burger+near+43.1863889%2C-85.5527778"
+      "url": "https://www.google.com/maps/search/?api=1&query=MrBeast%20Burger&query_place_id=ChIJMZ4nhcb9GIgRBV5XqVoInpA&center=43.2189612,-85.5717829"
     },
     {
       "name": "Big Boy",
       "distance": "2.4 mi",
-      "url": "https://www.google.com/maps/search/Big%20Boy+near+43.1863889%2C-85.5527778"
+      "url": "https://www.google.com/maps/search/?api=1&query=Big%20Boy&query_place_id=ChIJl_vHphD9GIgRh7SYzw3uDSo&center=43.2189612,-85.5717829"
+    },
+    {
+      "name": "Meijer Bakery",
+      "distance": "2.5 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Meijer%20Bakery&query_place_id=ChIJXc6afwz9GIgRWY-TW7jXZ7k&center=43.2175787,-85.5795177"
+    },
+    {
+      "name": "Custom Cookies by Helen",
+      "distance": "4.6 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Custom%20Cookies%20by%20Helen&query_place_id=ChIJ3eUPRK35GIgRkbGxOzCgLC4&center=43.120027199999996,-85.5600477",
+      "isFar": true
     }
   ],
   "dinner": [

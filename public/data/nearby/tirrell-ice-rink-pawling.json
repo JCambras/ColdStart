@@ -6,11 +6,6 @@
       "url": "https://www.google.com/maps/search/?api=1&query=Great%20Wall%20II%20Take%20Out%20Chinese&query_place_id=ChIJ4eamRKtb3YkRavKajbT2dI8&center=41.5637379,-73.6016002"
     },
     {
-      "name": "McKinney & Doyle Corner Bakery & Fine Foods Cafe",
-      "distance": "0.7 mi",
-      "url": "https://www.google.com/maps/search/?api=1&query=McKinney%20%26%20Doyle%20Corner%20Bakery%20%26%20Fine%20Foods%20Cafe&query_place_id=ChIJ07JmuVRa3YkR_QGCnjpmP3c&center=41.5621492,-73.6018083"
-    },
-    {
       "name": "KFC",
       "distance": "2.4 mi",
       "url": "https://www.google.com/maps/search/?api=1&query=KFC&query_place_id=ChIJy9cOY2xa3YkRA3th5S_mgI4&center=41.5351712,-73.5856242"
@@ -25,12 +20,6 @@
       "name": "Subway",
       "distance": "3.6 mi",
       "url": "https://www.google.com/maps/search/?api=1&query=Subway&query_place_id=ChIJgSHSL3Ra3YkRSqvzu2A_oSg&center=41.5169269,-73.5919445",
-      "isFar": true
-    },
-    {
-      "name": "Fishkill Bowl",
-      "distance": "14.0 mi",
-      "url": "https://www.google.com/maps/search/?api=1&query=Fishkill%20Bowl&query_place_id=ChIJgQKIO-w33YkR8qliieGholk&center=41.5486344,-73.8608048",
       "isFar": true
     }
   ],
@@ -49,9 +38,9 @@
   ],
   "team_lunch": [
     {
-      "name": "Cornerstone Restaurant & Bar",
-      "distance": "1.0 mi",
-      "url": "https://www.google.com/maps/search/?api=1&query=Cornerstone%20Restaurant%20%26%20Bar&query_place_id=ChIJ99Fzjqhb3YkRzjwNRT_Hx-A&center=41.5543863,-73.5933888"
+      "name": "Black Horse Tavern",
+      "distance": "0.7 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Black%20Horse%20Tavern&query_place_id=ChIJi2mEdbNb3YkRJtuTjEGLURU&center=41.563232899999996,-73.6016069"
     }
   ],
   "dinner": [

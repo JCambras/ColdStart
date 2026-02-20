@@ -29,6 +29,11 @@
       "name": "Burger King",
       "distance": "1.3 mi",
       "url": "https://www.google.com/maps/search/?api=1&query=Burger%20King&query_place_id=ChIJ_5bjrqgT04kRvmQ9_oYnOKc&center=42.900728099999995,-78.89444089999999"
+    },
+    {
+      "name": "Progress Food Market",
+      "distance": "1.5 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Progress%20Food%20Market&query_place_id=ChIJY4G90hkS04kRHzf9qN4PJT4&center=42.871724799999996,-78.8577521"
     }
   ],
   "coffee": [
@@ -51,6 +56,21 @@
       "name": "Starbucks Coffee Company",
       "distance": "0.1 mi",
       "url": "https://www.google.com/maps/search/?api=1&query=Starbucks%20Coffee%20Company&query_place_id=ChIJVZNoykgS04kRO4Yv572eO8k&center=42.88818,-78.87451999999999"
+    },
+    {
+      "name": "McDonald's",
+      "distance": "0.7 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=McDonald's&query_place_id=ChIJxYN9gK0T04kRd413kPuu4W8&center=42.8944179,-78.8864359"
+    },
+    {
+      "name": "McDonald's",
+      "distance": "1.0 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=McDonald's&query_place_id=ChIJSe9TaWwS04kRJ7H9G8_t1uw&center=42.8847113,-78.85433139999999"
+    },
+    {
+      "name": "McDonald's",
+      "distance": "1.5 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=McDonald's&query_place_id=ChIJHT6hjvES04kR1mkwWVuTGEU&center=42.9101089,-78.8669443"
     }
   ],
   "team_lunch": [
@@ -58,11 +78,6 @@
       "name": "Señor Tequila Mexican Restaurant",
       "distance": "0.1 mi",
       "url": "https://www.google.com/maps/search/?api=1&query=Se%C3%B1or%20Tequila%20Mexican%20Restaurant&query_place_id=ChIJNfQTCE8S04kRGqmjuzolMr0&center=42.8906517,-78.8742065"
-    },
-    {
-      "name": "Soho Buffalo, NY",
-      "distance": "0.1 mi",
-      "url": "https://www.google.com/maps/search/?api=1&query=Soho%20Buffalo%2C%20NY&query_place_id=ChIJ3UNP-04S04kRty9KFaPMyxo&center=42.8903797,-78.87545519999999"
     },
     {
       "name": "Genesee Public House",

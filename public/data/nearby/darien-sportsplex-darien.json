@@ -26,12 +26,37 @@
       "url": "https://www.google.com/maps/search/?api=1&query=Jimmy%20John's&query_place_id=ChIJvwLHJ0VPDogRtoLIjfIeW5E&center=41.75306,-87.9454037"
     },
     {
-      "name": "Chuck E. Cheese",
+      "name": "Potbelly",
       "distance": "0.7 mi",
-      "url": "https://www.google.com/maps/search/?api=1&query=Chuck%20E.%20Cheese&query_place_id=ChIJ4bJHsIJPDogRM5-wX71BAa4&center=41.7532038,-87.9719204"
+      "url": "https://www.google.com/maps/search/?api=1&query=Potbelly&query_place_id=ChIJMTLeMkVPDogRYaQJaKzys7U&center=41.7518459,-87.9454087"
+    },
+    {
+      "name": "ZENSHI Handcrafted Sushi",
+      "distance": "0.7 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=ZENSHI%20Handcrafted%20Sushi&query_place_id=ChIJf_Uc0dxPDogRNvn5xUCw72Y&center=41.7535449,-87.9722218"
+    },
+    {
+      "name": "Panda Express",
+      "distance": "0.8 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Panda%20Express&query_place_id=ChIJn-GUMwBPDogRj4VgsmmAd28&center=41.75221,-87.9440303"
+    },
+    {
+      "name": "Buona",
+      "distance": "0.8 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Buona&query_place_id=ChIJNZHLR51PDogRqP_MwVUDnIU&center=41.752604999999996,-87.97326290000001"
+    },
+    {
+      "name": "Taco Bell",
+      "distance": "0.8 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Taco%20Bell&query_place_id=ChIJi5zTR51PDogRGr-TYHvy-_Q&center=41.7523769,-87.9733095"
     }
   ],
   "coffee": [
+    {
+      "name": "McDonald's",
+      "distance": "0.3 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=McDonald's&query_place_id=ChIJf-nMg3pPDogRnmBV5GgH9vo&center=41.752512599999996,-87.9648599"
+    },
     {
       "name": "Blueberry Hill Breakfast Cafe",
       "distance": "0.7 mi",

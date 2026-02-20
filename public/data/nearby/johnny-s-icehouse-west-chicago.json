@@ -16,12 +16,47 @@
       "url": "https://www.google.com/maps/search/?api=1&query=Taco%20Bell&query_place_id=ChIJ7ce8JwAtDogRX4Gmfyh6Wec&center=41.8828418,-87.68609889999999"
     },
     {
+      "name": "Dunkin'",
+      "distance": "0.3 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Dunkin'&query_place_id=ChIJ3eKa7kQtDogRs-6fFonz3i8&center=41.8832424,-87.6856774"
+    },
+    {
       "name": "Wendy's",
       "distance": "0.3 mi",
       "url": "https://www.google.com/maps/search/?api=1&query=Wendy's&query_place_id=ChIJCbCcHEMtDogRppZNzO0ZH6Y&center=41.8790513,-87.68601269999999"
+    },
+    {
+      "name": "Subway",
+      "distance": "0.3 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Subway&query_place_id=ChIJ7yM-WObRD4gRJUDuuiHWw_A&center=41.8809452,-87.6848967"
+    },
+    {
+      "name": "Al's Under the L",
+      "distance": "0.5 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Al's%20Under%20the%20L&query_place_id=ChIJjxTOCacyDogRctC1MQNHnLI&center=41.884336399999995,-87.6993023"
+    },
+    {
+      "name": "Go Fish & Chicken",
+      "distance": "0.6 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Go%20Fish%20%26%20Chicken&query_place_id=ChIJc5YgWqEyDogREcSUPdmGRDY&center=41.8811798,-87.70216309999999"
+    },
+    {
+      "name": "Dried & True",
+      "distance": "0.6 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Dried%20%26%20True&query_place_id=ChIJzW7BQyItDogRrxCUBKsqJrE&center=41.887825299999996,-87.68263329999999"
+    },
+    {
+      "name": "Peach Place",
+      "distance": "0.7 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Peach%20Place&query_place_id=ChIJ7XAzoUgzDogRQZEYs_zwiUI&center=41.8806539,-87.7042982"
     }
   ],
   "coffee": [
+    {
+      "name": "McDonald's",
+      "distance": "0.2 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=McDonald's&query_place_id=ChIJyXK6mEQtDogRtc_LxWLsjBY&center=41.8819112,-87.6860056"
+    },
     {
       "name": "Dunkin'",
       "distance": "0.3 mi",
@@ -58,6 +93,21 @@
       "name": "Luxe Eats To Go Upscale Carry Out",
       "distance": "0.4 mi",
       "url": "https://www.google.com/maps/search/?api=1&query=Luxe%20Eats%20To%20Go%20Upscale%20Carry%20Out&query_place_id=ChIJ61VWYlgtDogRCsbE68kDYpk&center=41.884351699999996,-87.6967746"
+    },
+    {
+      "name": "REEF Kitchens",
+      "distance": "0.4 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=REEF%20Kitchens&query_place_id=ChIJR44xyKktDogRsrWIe66bohI&center=41.8856743,-87.6967131"
+    },
+    {
+      "name": "Shark's Fish & Chicken",
+      "distance": "0.5 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Shark's%20Fish%20%26%20Chicken&query_place_id=ChIJAZHhJAYtDogRrNmc22gWtk8&center=41.8763789,-87.69656309999999"
+    },
+    {
+      "name": "The Corner Farmacy",
+      "distance": "0.6 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=The%20Corner%20Farmacy&query_place_id=ChIJOyR8yUgtDogRb73x19KmCzQ&center=41.8877269,-87.68229989999999"
     }
   ],
   "dinner": [

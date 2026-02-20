@@ -6,6 +6,11 @@
       "url": "https://www.google.com/maps/search/?api=1&query=Harold's%20Chicken%20Shack&query_place_id=ChIJy2pq2as6DogR5-ZYllUnpF4&center=41.734069999999996,-87.702696"
     },
     {
+      "name": "Dunkin'",
+      "distance": "0.2 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Dunkin'&query_place_id=ChIJjWkkCAo7DogRODUYq_dxDuo&center=41.734129599999996,-87.7028474"
+    },
+    {
       "name": "Lawrence's Fish & Shrimp",
       "distance": "0.3 mi",
       "url": "https://www.google.com/maps/search/?api=1&query=Lawrence's%20Fish%20%26%20Shrimp&query_place_id=ChIJHyCGqKk6DogRqOqPIer7Unw&center=41.7354767,-87.70436769999999"
@@ -24,6 +29,26 @@
       "name": "Jimmy John's",
       "distance": "0.7 mi",
       "url": "https://www.google.com/maps/search/?api=1&query=Jimmy%20John's&query_place_id=ChIJtRavF7Q6DogRJ0ptgVzdrfA&center=41.7213016,-87.7013982"
+    },
+    {
+      "name": "Little Caesars Pizza",
+      "distance": "0.7 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Little%20Caesars%20Pizza&query_place_id=ChIJTai455g7DogR-JVtut2d0Hg&center=41.721087,-87.702516"
+    },
+    {
+      "name": "Dunkin'",
+      "distance": "0.7 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Dunkin'&query_place_id=ChIJrdsHBrc6DogR0WNzPTj6qC8&center=41.7210742,-87.7056969"
+    },
+    {
+      "name": "Subway",
+      "distance": "0.7 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Subway&query_place_id=ChIJuZw0Cbc6DogR_U-xzoymBFg&center=41.7210751,-87.705878"
+    },
+    {
+      "name": "King's Wok",
+      "distance": "0.7 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=King's%20Wok&query_place_id=ChIJnTlUCbc6DogR1TjbRafTUT8&center=41.7210616,-87.7059464"
     }
   ],
   "coffee": [
@@ -31,6 +56,11 @@
       "name": "Dunkin'",
       "distance": "0.2 mi",
       "url": "https://www.google.com/maps/search/?api=1&query=Dunkin'&query_place_id=ChIJjWkkCAo7DogRODUYq_dxDuo&center=41.734129599999996,-87.7028474"
+    },
+    {
+      "name": "McDonald's",
+      "distance": "0.3 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=McDonald's&query_place_id=ChIJ-dH30Ks6DogR0McHtN7f7hM&center=41.7344714,-87.7018806"
     },
     {
       "name": "Dunkin'",
@@ -41,6 +71,16 @@
       "name": "Krispy Kreme",
       "distance": "1.1 mi",
       "url": "https://www.google.com/maps/search/?api=1&query=Krispy%20Kreme&query_place_id=ChIJl2-UXUMlDogRZ8MJr7JJSbk&center=41.727697899999995,-87.68291029999999"
+    },
+    {
+      "name": "McDonald's",
+      "distance": "1.1 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=McDonald's&query_place_id=ChIJB7phZ0MlDogR6L4cl9s86ik&center=41.7256631,-87.68288319999999"
+    },
+    {
+      "name": "McDonald's",
+      "distance": "1.1 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=McDonald's&query_place_id=ChIJdfQpxXUwDogRY44Foq2MeP8&center=41.740058999999995,-87.72130299999999"
     }
   ],
   "team_lunch": [
@@ -63,6 +103,11 @@
       "name": "Golden Griddle Pancake House",
       "distance": "0.7 mi",
       "url": "https://www.google.com/maps/search/?api=1&query=Golden%20Griddle%20Pancake%20House&query_place_id=ChIJQbrhzbQ6DogRQ8s9n25pfGQ&center=41.7210767,-87.6978924"
+    },
+    {
+      "name": "Walmart Bakery",
+      "distance": "1.1 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Walmart%20Bakery&query_place_id=ChIJr8Tu80YlDogR-XU8yai8vRw&center=41.7212361,-87.6858556"
     },
     {
       "name": "Pan Baguette",

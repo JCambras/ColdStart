@@ -29,6 +29,26 @@
       "name": "Burger King",
       "distance": "1.2 mi",
       "url": "https://www.google.com/maps/search/?api=1&query=Burger%20King&query_place_id=ChIJ6Yx2iT65w4kRxcki4ov3E-o&center=40.602382299999995,-74.4793251"
+    },
+    {
+      "name": "Sonic Drive-In",
+      "distance": "1.2 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Sonic%20Drive-In&query_place_id=ChIJd9htFjy5w4kRqSAJUxW61Zc&center=40.6006409,-74.4807105"
+    },
+    {
+      "name": "Burger King",
+      "distance": "1.2 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Burger%20King&query_place_id=ChIJx7mGCb65w4kRQDGJnpc2DI0&center=40.5975171,-74.43599669999999"
+    },
+    {
+      "name": "Wendy's Cake Art",
+      "distance": "1.3 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Wendy's%20Cake%20Art&query_place_id=ChIJFc_EIpJZwokR3z50xSPYHp8&center=40.612521799999996,-74.4545177"
+    },
+    {
+      "name": "Taco Bell",
+      "distance": "1.4 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Taco%20Bell&query_place_id=ChIJa10WyDq5w4kRLeTZXu8376E&center=40.5982535,-74.4850311"
     }
   ],
   "coffee": [
@@ -56,6 +76,11 @@
       "name": "Bagel Bazaar Deli & Grill Of Piscataway",
       "distance": "1.0 mi",
       "url": "https://www.google.com/maps/search/?api=1&query=Bagel%20Bazaar%20Deli%20%26%20Grill%20Of%20Piscataway&query_place_id=ChIJy-uKBf-4w4kRT6lRYLl7NFI&center=40.580490999999995,-74.455309"
+    },
+    {
+      "name": "McDonald's",
+      "distance": "1.1 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=McDonald's&query_place_id=ChIJ-VxVBm65w4kRc1O0TaABp9E&center=40.610083700000004,-74.46492169999999"
     }
   ],
   "team_lunch": [
@@ -83,6 +108,11 @@
       "name": "Filipino Food Express",
       "distance": "1.8 mi",
       "url": "https://www.google.com/maps/search/?api=1&query=Filipino%20Food%20Express&query_place_id=ChIJIbjKHEq5w4kRWCB5_oLpP-M&center=40.6194267,-74.4494835"
+    },
+    {
+      "name": "Confections By Jon",
+      "distance": "2.0 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Confections%20By%20Jon&query_place_id=ChIJ__-_fsW4w4kRXWF-Aqdru58&center=40.5756722,-74.4874559"
     }
   ],
   "dinner": [

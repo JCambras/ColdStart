@@ -1,9 +1,19 @@
 {
   "quick_bite": [
     {
+      "name": "Dunkin'",
+      "distance": "0.1 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Dunkin'&query_place_id=ChIJA0IB-RVR6IkRZHNkN-YEja4&center=40.785372699999996,-72.8643207"
+    },
+    {
       "name": "Tex's Chicken & Burgers",
       "distance": "0.2 mi",
       "url": "https://www.google.com/maps/search/?api=1&query=Tex's%20Chicken%20%26%20Burgers&query_place_id=ChIJswu7QgBR6IkRneoSQIbXKps&center=40.7810181,-72.86450889999999"
+    },
+    {
+      "name": "Dunkin'",
+      "distance": "0.8 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Dunkin'&query_place_id=ChIJqW-a1IZQ6IkRqc23z7W9FtQ&center=40.7804443,-72.8482003"
     },
     {
       "name": "Taco Bell",
@@ -29,6 +39,16 @@
       "name": "Sonic Drive-In",
       "distance": "1.2 mi",
       "url": "https://www.google.com/maps/search/?api=1&query=Sonic%20Drive-In&query_place_id=ChIJR-LwL8Bb6IkRvm4WC2-DK8Y&center=40.8003358,-72.870791"
+    },
+    {
+      "name": "Burger King",
+      "distance": "1.2 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Burger%20King&query_place_id=ChIJX7cblpFa6IkRW8B9HyS6SvU&center=40.8013307,-72.86530259999999"
+    },
+    {
+      "name": "Subway - Shirley - 7913",
+      "distance": "1.3 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Subway%20-%20Shirley%20-%207913&query_place_id=ChIJnbft95Fa6IkRYvygeZcMMzQ&center=40.8020711,-72.8640392"
     }
   ],
   "coffee": [
@@ -41,6 +61,11 @@
       "name": "Dunkin'",
       "distance": "0.8 mi",
       "url": "https://www.google.com/maps/search/?api=1&query=Dunkin'&query_place_id=ChIJqW-a1IZQ6IkRqc23z7W9FtQ&center=40.7804443,-72.8482003"
+    },
+    {
+      "name": "McDonald's",
+      "distance": "1.3 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=McDonald's&query_place_id=ChIJy0BJw41a6IkRka1bNfMX2Aw&center=40.8025574,-72.8615994"
     }
   ],
   "team_lunch": [
@@ -73,6 +98,16 @@
       "name": "flying arrow",
       "distance": "1.4 mi",
       "url": "https://www.google.com/maps/search/?api=1&query=flying%20arrow&query_place_id=ChIJmeQRfABb6IkRVGbcs1Bb378&center=40.788387,-72.8363801"
+    },
+    {
+      "name": "Cupcake Canvas",
+      "distance": "1.5 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Cupcake%20Canvas&query_place_id=ChIJ8z0mqBtb6IkRTIRAUiS9xmQ&center=40.805382699999996,-72.8595789"
+    },
+    {
+      "name": "Your Bagel Cafe Kohl's Shopping Center",
+      "distance": "1.5 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Your%20Bagel%20Cafe%20Kohl's%20Shopping%20Center&query_place_id=ChIJNyPhvo1a6IkRmEQER5ArVMY&center=40.805554,-72.8613288"
     }
   ],
   "dinner": [

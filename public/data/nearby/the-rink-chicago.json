@@ -24,9 +24,40 @@
       "name": "Captain Hooks Fish & Chicken",
       "distance": "0.5 mi",
       "url": "https://www.google.com/maps/search/?api=1&query=Captain%20Hooks%20Fish%20%26%20Chicken&query_place_id=ChIJgfMD36YoDogRW9r8FqP4MDM&center=41.7388051,-87.60572069999999"
+    },
+    {
+      "name": "Subway",
+      "distance": "0.5 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Subway&query_place_id=ChIJQYOpk6coDogRTscanbAlM7E&center=41.7369152,-87.605997"
+    },
+    {
+      "name": "Gianna's Pizza",
+      "distance": "0.5 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Gianna's%20Pizza&query_place_id=ChIJyR0PwYIoDogRMi6jpLreKvE&center=41.736537999999996,-87.58726399999999"
+    },
+    {
+      "name": "Tony's Original Phillysteak & Sharks Fish & Chicken 87th & Stony Island",
+      "distance": "0.5 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Tony's%20Original%20Phillysteak%20%26%20Sharks%20Fish%20%26%20Chicken%2087th%20%26%20Stony%20Island&query_place_id=ChIJPdSJpHYpDogR8-bgPRquvFI&center=41.7370759,-87.5864042"
+    },
+    {
+      "name": "JJ Fish & Chicken",
+      "distance": "0.6 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=JJ%20Fish%20%26%20Chicken&query_place_id=ChIJp-XJh4MoDogREnoOtHGMMN4&center=41.7397886,-87.5859136"
+    },
+    {
+      "name": "Wendy's",
+      "distance": "0.6 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Wendy's&query_place_id=ChIJc8OvNYIoDogRgl2woQ38rjs&center=41.7375177,-87.5848693"
     }
   ],
-  "coffee": [],
+  "coffee": [
+    {
+      "name": "McDonald's",
+      "distance": "0.4 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=McDonald's&query_place_id=ChIJr0sLtYIoDogRuismKPQDhAA&center=41.736573,-87.58881749999999"
+    }
+  ],
   "team_lunch": [
     {
       "name": "D & D fresh food",
@@ -57,6 +88,16 @@
       "name": "Taco Pros - Mexican Cocina (East 87th)",
       "distance": "0.5 mi",
       "url": "https://www.google.com/maps/search/?api=1&query=Taco%20Pros%20-%20Mexican%20Cocina%20(East%2087th)&query_place_id=ChIJa8-rIrEpDogR0Je9_WZuxHs&center=41.7365138,-87.58740759999999"
+    },
+    {
+      "name": "Nalama Cakes",
+      "distance": "0.8 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Nalama%20Cakes&query_place_id=ChIJ0TdTWo0nDogRaPNfhourWTs&center=41.732192999999995,-87.5830938"
+    },
+    {
+      "name": "West Indies Bakery",
+      "distance": "1.0 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=West%20Indies%20Bakery&query_place_id=ChIJQa31rb4oDogRhOtBfrOS0C0&center=41.7510568,-87.6035945"
     }
   ],
   "dinner": [

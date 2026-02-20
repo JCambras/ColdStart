@@ -29,14 +29,29 @@
       "name": "Jimmy John's",
       "distance": "2.3 mi",
       "url": "https://www.google.com/maps/search/?api=1&query=Jimmy%20John's&query_place_id=ChIJJ9-_MpSUD4gRltPOnQJSwG8&center=42.2800905,-87.87644999999999"
+    },
+    {
+      "name": "Lou Malnati's Pizzeria",
+      "distance": "2.6 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Lou%20Malnati's%20Pizzeria&query_place_id=ChIJ_dI1e12VD4gR04dDY3Xgzeg&center=42.2247197,-87.87445319999999"
+    },
+    {
+      "name": "Jimmy John's",
+      "distance": "2.6 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Jimmy%20John's&query_place_id=ChIJ_dI1e12VD4gRLbnAPs3SWO0&center=42.2246899,-87.8744569"
+    },
+    {
+      "name": "Luke's of Lake Bluff",
+      "distance": "2.7 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Luke's%20of%20Lake%20Bluff&query_place_id=ChIJseRz45CUD4gRDKDJjzjX4Lg&center=42.2836438,-87.8807727"
+    },
+    {
+      "name": "Subway",
+      "distance": "2.9 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Subway&query_place_id=ChIJmb6ZaayVD4gR2ojlUjkY3tQ&center=42.253195,-87.90089499999999"
     }
   ],
   "coffee": [
-    {
-      "name": "The Gallery",
-      "distance": "0.2 mi",
-      "url": "https://www.google.com/maps/search/?api=1&query=The%20Gallery&query_place_id=ChIJG8hHjdjqD4gR_K-BgmMIC5U&center=42.254184099999996,-87.8421812"
-    },
     {
       "name": "The Sweet Spot",
       "distance": "0.2 mi",
@@ -56,6 +71,22 @@
       "name": "Starbucks Coffee Company",
       "distance": "0.3 mi",
       "url": "https://www.google.com/maps/search/?api=1&query=Starbucks%20Coffee%20Company&query_place_id=ChIJ66ktNdnqD4gRp2ucKhwwgJA&center=42.2518679,-87.84007729999999"
+    },
+    {
+      "name": "McDonald's",
+      "distance": "2.6 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=McDonald's&query_place_id=ChIJ77t4SpGUD4gRWVNiP96xtqg&center=42.281966399999995,-87.87967619999999"
+    },
+    {
+      "name": "McDonald's",
+      "distance": "2.9 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=McDonald's&query_place_id=ChIJmb6ZaayVD4gRX-CIKrjzSLc&center=42.2530661,-87.9018401"
+    },
+    {
+      "name": "McDonald's",
+      "distance": "3.1 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=McDonald's&query_place_id=ChIJs8KjeyrAD4gRNEOoOpYVkO8&center=42.2153561,-87.8190637",
+      "isFar": true
     }
   ],
   "team_lunch": [

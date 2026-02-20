@@ -1,74 +1,118 @@
 {
   "quick_bite": [
     {
-      "name": "High-Tech nearby Sparrow, Lugnuts Capital",
-      "distance": "0.2 mi",
-      "url": "https://www.google.com/maps/search/High-Tech%20nearby%20Sparrow%2C%20Lugnuts%20Capital+near+42.7333755%2C-84.5454098"
-    },
-    {
-      "name": "High-Tech nearby Sparrow, Lugnuts & Capital",
-      "distance": "0.2 mi",
-      "url": "https://www.google.com/maps/search/High-Tech%20nearby%20Sparrow%2C%20Lugnuts%20%26%20Capital+near+42.7333755%2C-84.5454098"
-    },
-    {
       "name": "Wendy's",
       "distance": "0.3 mi",
-      "url": "https://www.google.com/maps/search/Wendy's+near+42.7333755%2C-84.5454098"
+      "url": "https://www.google.com/maps/search/?api=1&query=Wendy's&query_place_id=ChIJS51Xe97BIogRtEoNSlMg-u8&center=42.7294675,-84.54517539999999"
     },
     {
-      "name": "Chuck E. Cheese",
-      "distance": "4.1 mi",
-      "url": "https://www.google.com/maps/search/Chuck%20E.%20Cheese+near+42.7333755%2C-84.5454098",
-      "isFar": true
+      "name": "Jimmy John's",
+      "distance": "0.4 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Jimmy%20John's&query_place_id=ChIJO3Ila9jBIogRZAdg_yi5p9A&center=42.7327564,-84.5525546"
+    },
+    {
+      "name": "Firehouse Subs Downtown Lansing",
+      "distance": "0.4 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Firehouse%20Subs%20Downtown%20Lansing&query_place_id=ChIJZ3g3SNjBIogR7MFehgg3Pmk&center=42.732285,-84.55252"
+    },
+    {
+      "name": "Burger King",
+      "distance": "0.5 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Burger%20King&query_place_id=ChIJR9Tfq3PqIogR_gt9R7nmJig&center=42.7411598,-84.54601339999999"
+    },
+    {
+      "name": "Rally's",
+      "distance": "0.7 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Rally's&query_place_id=ChIJr0dMf3LqIogRdA-GqffeBXM&center=42.744047699999996,-84.5461129"
+    },
+    {
+      "name": "Olympic Broil",
+      "distance": "1.2 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Olympic%20Broil&query_place_id=ChIJOySTdGbqIogRn_hECY5NhVs&center=42.749434300000004,-84.55457109999999"
+    },
+    {
+      "name": "Subway",
+      "distance": "1.5 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Subway&query_place_id=ChIJEYFEgZTBIogRrn3tADN3LVw&center=42.7121466,-84.53858389999999"
+    },
+    {
+      "name": "Subway",
+      "distance": "1.7 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Subway&query_place_id=ChIJW2NspkDqIogRK_U2PkgUMjI&center=42.757644299999995,-84.54313429999999"
+    },
+    {
+      "name": "Subway",
+      "distance": "1.8 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Subway&query_place_id=ChIJh5kSMuXpIogRhK8lnnEdq6A&center=42.740429899999995,-84.5115014"
     }
   ],
   "coffee": [
     {
       "name": "BIGGBY COFFEE",
       "distance": "0.1 mi",
-      "url": "https://www.google.com/maps/search/BIGGBY%20COFFEE+near+42.7333755%2C-84.5454098"
+      "url": "https://www.google.com/maps/search/?api=1&query=BIGGBY%20COFFEE&query_place_id=ChIJn_hNcN_BIogRg1005z_x1cE&center=42.7333043,-84.5449539"
     },
     {
       "name": "GoodFellas Bagel Deli",
       "distance": "0.1 mi",
-      "url": "https://www.google.com/maps/search/GoodFellas%20Bagel%20Deli+near+42.7333755%2C-84.5454098"
+      "url": "https://www.google.com/maps/search/?api=1&query=GoodFellas%20Bagel%20Deli&query_place_id=ChIJa2HtyTbBIogRctUmT5Hl40s&center=42.7333315,-84.54427129999999"
     },
     {
       "name": "Starbucks Coffee Company",
       "distance": "0.1 mi",
-      "url": "https://www.google.com/maps/search/Starbucks%20Coffee%20Company+near+42.7333755%2C-84.5454098"
+      "url": "https://www.google.com/maps/search/?api=1&query=Starbucks%20Coffee%20Company&query_place_id=ChIJYUxP-c7rIogRf2t9FHABrSw&center=42.73426,-84.54301"
     },
     {
       "name": "Starbucks Kiosk",
       "distance": "0.3 mi",
-      "url": "https://www.google.com/maps/search/Starbucks%20Kiosk+near+42.7333755%2C-84.5454098"
+      "url": "https://www.google.com/maps/search/?api=1&query=Starbucks%20Kiosk&query_place_id=ChIJAWPmfdjBIogR6ulTs-wFupo&center=42.7340412,-84.550918"
+    },
+    {
+      "name": "McDonald's",
+      "distance": "1.6 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=McDonald's&query_place_id=ChIJr_EEkUDqIogRoCeC2j6bDHw&center=42.7569898,-84.5432321"
     }
   ],
   "team_lunch": [
     {
       "name": "Meijer Bakery",
       "distance": "0.1 mi",
-      "url": "https://www.google.com/maps/search/Meijer%20Bakery+near+42.7333755%2C-84.5454098"
+      "url": "https://www.google.com/maps/search/?api=1&query=Meijer%20Bakery&query_place_id=ChIJnR7PR4nBIogRrw3XFyVcdao&center=42.733274300000005,-84.5442819"
     },
     {
       "name": "Kin Thai",
       "distance": "0.2 mi",
-      "url": "https://www.google.com/maps/search/Kin%20Thai+near+42.7333755%2C-84.5454098"
+      "url": "https://www.google.com/maps/search/?api=1&query=Kin%20Thai&query_place_id=ChIJ5ec-84PrIogR8rIV3mrkk-8&center=42.7358404,-84.547939"
     },
     {
       "name": "Takitos AF",
       "distance": "0.2 mi",
-      "url": "https://www.google.com/maps/search/Takitos%20AF+near+42.7333755%2C-84.5454098"
+      "url": "https://www.google.com/maps/search/?api=1&query=Takitos%20AF&query_place_id=ChIJKWET0RHrIogR8CbY2gK1okc&center=42.7358404,-84.547939"
     },
     {
       "name": "Browndog At The Shuffle",
       "distance": "0.2 mi",
-      "url": "https://www.google.com/maps/search/Browndog%20At%20The%20Shuffle+near+42.7333755%2C-84.5454098"
+      "url": "https://www.google.com/maps/search/?api=1&query=Browndog%20At%20The%20Shuffle&query_place_id=ChIJGwIeSLfrIogRaSZNCEZs7tA&center=42.7358404,-84.547939"
     },
     {
       "name": "Lalafish",
       "distance": "0.2 mi",
-      "url": "https://www.google.com/maps/search/Lalafish+near+42.7333755%2C-84.5454098"
+      "url": "https://www.google.com/maps/search/?api=1&query=Lalafish&query_place_id=ChIJxQpOJADrIogRCc0FAmKyr_0&center=42.7358073,-84.5480333"
+    },
+    {
+      "name": "AG Bakes",
+      "distance": "0.7 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=AG%20Bakes&query_place_id=ChIJEfcGw9LrIogRng8NnQoD_MQ&center=42.736868199999996,-84.55732069999999"
+    },
+    {
+      "name": "Michigan Made Treats",
+      "distance": "1.0 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Michigan%20Made%20Treats&query_place_id=ChIJJ06ivgbBIogRqfl16ski4Ro&center=42.7302392,-84.5264546"
+    },
+    {
+      "name": "Windslope's Bakery",
+      "distance": "1.4 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Windslope's%20Bakery&query_place_id=ChIJYTqUwQLtLIYR5mP67MiR8ts&center=42.7529026,-84.5356077"
     }
   ],
   "dinner": [

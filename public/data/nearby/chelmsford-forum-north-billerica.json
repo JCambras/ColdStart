@@ -1,9 +1,9 @@
 {
   "quick_bite": [
     {
-      "name": "Casa Blanca Mexican Restaurant & Cantina",
+      "name": "Dunkin'",
       "distance": "0.1 mi",
-      "url": "https://www.google.com/maps/search/?api=1&query=Casa%20Blanca%20Mexican%20Restaurant%20%26%20Cantina&query_place_id=ChIJvxEewsuj44kRXexQAZWpOyc&center=42.5881571,-71.3071463"
+      "url": "https://www.google.com/maps/search/?api=1&query=Dunkin'&query_place_id=ChIJaZLPusuj44kRAZqcDr5FvOE&center=42.5873954,-71.30725749999999"
     },
     {
       "name": "Bella Pizza",
@@ -16,19 +16,39 @@
       "url": "https://www.google.com/maps/search/?api=1&query=Expresso%20Pizza&query_place_id=ChIJxetUYdGj44kRHyMfEync0RY&center=42.587487499999995,-71.29537599999999"
     },
     {
+      "name": "Dunkin'",
+      "distance": "1.0 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Dunkin'&query_place_id=ChIJdbE4JdWj44kRgVqaqrGTjXU&center=42.582036599999995,-71.2898003"
+    },
+    {
       "name": "Chipotle Mexican Grill",
       "distance": "1.2 mi",
       "url": "https://www.google.com/maps/search/?api=1&query=Chipotle%20Mexican%20Grill&query_place_id=ChIJk6hlxiqi44kR-85GUTs-awI&center=42.5804513,-71.2881532"
     },
     {
-      "name": "Purple Bamboo Restaurant",
-      "distance": "1.5 mi",
-      "url": "https://www.google.com/maps/search/?api=1&query=Purple%20Bamboo%20Restaurant&query_place_id=ChIJL0rlMYGh44kRV3G9qXAvCpM&center=42.5762429,-71.28371969999999"
-    },
-    {
       "name": "Wendy's",
       "distance": "2.0 mi",
       "url": "https://www.google.com/maps/search/?api=1&query=Wendy's&query_place_id=ChIJu5i6F4Wh44kRW_TL6r2M61s&center=42.571982299999995,-71.2769967"
+    },
+    {
+      "name": "Subway",
+      "distance": "2.3 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Subway&query_place_id=ChIJWTF_8hqj44kRvfN3SHzQH30&center=42.5989612,-71.34998829999999"
+    },
+    {
+      "name": "Rath's Beef Chips",
+      "distance": "2.6 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Rath's%20Beef%20Chips&query_place_id=ChIJoWEpfwKl44kRQnvf7ezBkWk&center=42.624064,-71.28818199999999"
+    },
+    {
+      "name": "Wendy's",
+      "distance": "2.8 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Wendy's&query_place_id=ChIJheoZaXek44kRvxzx-ui81nY&center=42.627965499999995,-71.3218644"
+    },
+    {
+      "name": "Subway",
+      "distance": "2.8 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Subway&query_place_id=ChIJcw_-SHek44kR8q07jYayOTE&center=42.628336999999995,-71.3213202"
     }
   ],
   "coffee": [
@@ -56,6 +76,26 @@
       "name": "Dunkin'",
       "distance": "1.0 mi",
       "url": "https://www.google.com/maps/search/?api=1&query=Dunkin'&query_place_id=ChIJdbE4JdWj44kRgVqaqrGTjXU&center=42.582036599999995,-71.2898003"
+    },
+    {
+      "name": "Starbucks Coffee Company",
+      "distance": "1.1 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Starbucks%20Coffee%20Company&query_place_id=ChIJs2FDMdWj44kR3GruASRmNik&center=42.58163,-71.28934"
+    },
+    {
+      "name": "McDonald's",
+      "distance": "1.6 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=McDonald's&query_place_id=ChIJnY9EqYah44kRRHx-SjQD5ws&center=42.5747052,-71.28210299999999"
+    },
+    {
+      "name": "McDonald's",
+      "distance": "2.7 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=McDonald's&query_place_id=ChIJNbGk7Hek44kRLAW2BKqXfrE&center=42.626234,-71.321696"
+    },
+    {
+      "name": "Lowell Portuguese Bakery",
+      "distance": "2.8 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Lowell%20Portuguese%20Bakery&query_place_id=ChIJ85KEVQyk44kR8vvmBzQEFDM&center=42.6293072,-71.3079815"
     }
   ],
   "team_lunch": [
@@ -63,11 +103,6 @@
       "name": "Suppa's Pizza & Subs",
       "distance": "0.1 mi",
       "url": "https://www.google.com/maps/search/?api=1&query=Suppa's%20Pizza%20%26%20Subs&query_place_id=ChIJtZCW6cuj44kRcjUZtL-qsio&center=42.587904099999996,-71.3061307"
-    },
-    {
-      "name": "Wu Loon Ming Restaurant",
-      "distance": "0.8 mi",
-      "url": "https://www.google.com/maps/search/?api=1&query=Wu%20Loon%20Ming%20Restaurant&query_place_id=ChIJi3w7fdOj44kRCk8_zNfyR3w&center=42.5840562,-71.2935166"
     },
     {
       "name": "Mamma Nonna's",
@@ -83,6 +118,12 @@
       "name": "Sugar Sparks Bakery, LLC",
       "distance": "2.3 mi",
       "url": "https://www.google.com/maps/search/?api=1&query=Sugar%20Sparks%20Bakery%2C%20LLC&query_place_id=ChIJ75wY_gOl44kRQNTKAORnX3Q&center=42.6221311,-71.3024974"
+    },
+    {
+      "name": "Walmart Bakery",
+      "distance": "3.0 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Walmart%20Bakery&query_place_id=ChIJq6qqK7Gm44kR1sOpNVtyrxs&center=42.622805199999995,-71.2697883",
+      "isFar": true
     }
   ],
   "dinner": [

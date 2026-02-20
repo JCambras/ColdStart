@@ -1,19 +1,24 @@
 {
   "quick_bite": [
     {
+      "name": "Dunkin'",
+      "distance": "0.3 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Dunkin'&query_place_id=ChIJY0qsdAxgwokR-MuabLvr_ZM&center=40.756539599999996,-73.837001"
+    },
+    {
       "name": "Hey Kitchen",
       "distance": "0.3 mi",
       "url": "https://www.google.com/maps/search/?api=1&query=Hey%20Kitchen&query_place_id=ChIJW_OxSh1hwokRk1QRqACkwRA&center=40.7559207,-73.8338143"
     },
     {
+      "name": "Dunkin'",
+      "distance": "0.4 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Dunkin'&query_place_id=ChIJs_XiVwxgwokRAdFmsYVr1T0&center=40.756048899999996,-73.83388719999999"
+    },
+    {
       "name": "East plaza grill",
       "distance": "0.4 mi",
       "url": "https://www.google.com/maps/search/?api=1&query=East%20plaza%20grill&query_place_id=ChIJp3GJgGlfwokRZJ0xpYlBhWQ&center=40.751102499999995,-73.8442958"
-    },
-    {
-      "name": "Chuck E. Cheese",
-      "distance": "0.4 mi",
-      "url": "https://www.google.com/maps/search/?api=1&query=Chuck%20E.%20Cheese&query_place_id=ChIJ-Vn5BAdgwokREygaLdvy4bY&center=40.757368199999995,-73.8350143"
     },
     {
       "name": "Subway",
@@ -24,6 +29,26 @@
       "name": "San Matteo Pizzeria - US Open",
       "distance": "0.4 mi",
       "url": "https://www.google.com/maps/search/?api=1&query=San%20Matteo%20Pizzeria%20-%20US%20Open&query_place_id=ChIJ11T0O3BfwokRWkAxBluZD68&center=40.7500341,-73.84508679999999"
+    },
+    {
+      "name": "Distinctive foods",
+      "distance": "0.5 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Distinctive%20foods&query_place_id=ChIJEQyWiy9hwokRgL3y8rUB0xk&center=40.7588339,-73.8331304"
+    },
+    {
+      "name": "Hao You Lai 好又來",
+      "distance": "0.5 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Hao%20You%20Lai%20%E5%A5%BD%E5%8F%88%E4%BE%86&query_place_id=ChIJWenqYQBhwokRO0UQ_2pnA0o&center=40.758836699999996,-73.8331334"
+    },
+    {
+      "name": "Lao Shan Xi'an Delicacies",
+      "distance": "0.5 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Lao%20Shan%20Xi'an%20Delicacies&query_place_id=ChIJORV4YwBhwokRCBTRsOuLjIE&center=40.758836699999996,-73.8331334"
+    },
+    {
+      "name": "Cousin Snail Noodles",
+      "distance": "0.5 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Cousin%20Snail%20Noodles&query_place_id=ChIJFellWABhwokRCOhCitbYiiI&center=40.758836699999996,-73.8331334"
     }
   ],
   "coffee": [
@@ -46,11 +71,6 @@
       "name": "Target Café",
       "distance": "0.4 mi",
       "url": "https://www.google.com/maps/search/?api=1&query=Target%20Caf%C3%A9&query_place_id=ChIJtUirDgBhwokRR2yqWzQ3BGo&center=40.7568451,-73.8362089"
-    },
-    {
-      "name": "Project KE (Anime Club)",
-      "distance": "0.8 mi",
-      "url": "https://www.google.com/maps/search/?api=1&query=Project%20KE%20(Anime%20Club)&query_place_id=ChIJc6Q6lg9hwokR5hG4VGEKHIs&center=40.7626646,-73.83199309999999"
     }
   ],
   "team_lunch": [
@@ -83,6 +103,16 @@
       "name": "Sky Food Court",
       "distance": "0.4 mi",
       "url": "https://www.google.com/maps/search/?api=1&query=Sky%20Food%20Court&query_place_id=ChIJOUsncABhwokRZUzapk9Bvjc&center=40.757202799999995,-73.8356721"
+    },
+    {
+      "name": "Fuku",
+      "distance": "0.4 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Fuku&query_place_id=ChIJrd_Cgp9fwokRxs7_jdVCeKs&center=40.7500341,-73.84508679999999"
+    },
+    {
+      "name": "Fay Da Bakery",
+      "distance": "0.4 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Fay%20Da%20Bakery&query_place_id=ChIJm5CT2g9gwokRsM9zJFMDFGY&center=40.7575278,-73.8353333"
     }
   ],
   "dinner": [

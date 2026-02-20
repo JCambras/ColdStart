@@ -6,9 +6,9 @@
       "url": "https://www.google.com/maps/search/?api=1&query=Londi's%20Roast%20Beef%20And%20Pizza&query_place_id=ChIJPasbYWoS44kR-wdIMFfPSuw&center=42.5449576,-70.9797219"
     },
     {
-      "name": "Jade's Restaurant",
+      "name": "Dunkin'",
       "distance": "0.1 mi",
-      "url": "https://www.google.com/maps/search/?api=1&query=Jade's%20Restaurant&query_place_id=ChIJl2-QTRUS44kRvpYaFH7ycnk&center=42.5475479,-70.9792456"
+      "url": "https://www.google.com/maps/search/?api=1&query=Dunkin'&query_place_id=ChIJPTjN-2oS44kRb56tc5CWoz8&center=42.5457044,-70.9808706"
     },
     {
       "name": "Subway",
@@ -24,6 +24,21 @@
       "name": "Wendy's",
       "distance": "1.5 mi",
       "url": "https://www.google.com/maps/search/?api=1&query=Wendy's&query_place_id=ChIJE0dKVoYS44kRJhGEF064awY&center=42.5272193,-70.9936152"
+    },
+    {
+      "name": "Five Guys",
+      "distance": "1.6 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Five%20Guys&query_place_id=ChIJd-RgLckT44kRSjdLCTq2vI0&center=42.5465989,-70.9462856"
+    },
+    {
+      "name": "Sonic Drive-In",
+      "distance": "1.6 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Sonic%20Drive-In&query_place_id=ChIJE_88OoQS44kRtwQRY9VdSKg&center=42.5253914,-70.9945346"
+    },
+    {
+      "name": "Pretzelmaker",
+      "distance": "1.7 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Pretzelmaker&query_place_id=ChIJPXDpz8cT44kRTRUrobe_cVc&center=42.5415449,-70.9453655"
     }
   ],
   "coffee": [
@@ -51,6 +66,11 @@
       "name": "Honey Dew Donuts",
       "distance": "0.9 mi",
       "url": "https://www.google.com/maps/search/?api=1&query=Honey%20Dew%20Donuts&query_place_id=ChIJW7h-rWQS44kR3znlcSavY8Y&center=42.5354944,-70.99013889999999"
+    },
+    {
+      "name": "McDonald's",
+      "distance": "0.9 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=McDonald's&query_place_id=ChIJe7otbiUS44kRQonZhsG2EcQ&center=42.5568738,-70.9673727"
     }
   ],
   "team_lunch": [

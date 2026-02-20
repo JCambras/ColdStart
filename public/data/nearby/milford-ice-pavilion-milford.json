@@ -16,6 +16,11 @@
       "url": "https://www.google.com/maps/search/?api=1&query=Taco%20Bell&query_place_id=ChIJEWgl0KwM6IkRUtz4hqbaljg&center=41.206852399999995,-73.0879439"
     },
     {
+      "name": "Dunkin'",
+      "distance": "0.8 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Dunkin'&query_place_id=ChIJn9lKz7EM6IkRVqNN5l3FT54&center=41.2045149,-73.09651579999999"
+    },
+    {
       "name": "ZENSHI Handcrafted Sushi",
       "distance": "0.9 mi",
       "url": "https://www.google.com/maps/search/?api=1&query=ZENSHI%20Handcrafted%20Sushi&query_place_id=ChIJ9Rt-HMx16IkRaMpmWfATf80&center=41.2203368,-73.07560149999999"
@@ -24,9 +29,34 @@
       "name": "Food For The Soul",
       "distance": "1.1 mi",
       "url": "https://www.google.com/maps/search/?api=1&query=Food%20For%20The%20Soul&query_place_id=ChIJwxd5a_oN6IkRlSTTxAF18OY&center=41.2021703,-73.10185779999999"
+    },
+    {
+      "name": "Subway",
+      "distance": "1.3 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Subway&query_place_id=ChIJLXTf-rt06IkRlfSyrrmZHj8&center=41.2252414,-73.070796"
+    },
+    {
+      "name": "Mr. Mac's Canteen Milford",
+      "distance": "1.3 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Mr.%20Mac's%20Canteen%20Milford&query_place_id=ChIJgdm6saN06IkRLG079dmYiRY&center=41.217303699999995,-73.0674519"
+    },
+    {
+      "name": "Subway",
+      "distance": "1.7 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Subway&query_place_id=ChIJjQVIDJMM6IkRzDRIi0dI3P0&center=41.2012735,-73.1187688"
+    },
+    {
+      "name": "Frosty Twist",
+      "distance": "1.8 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Frosty%20Twist&query_place_id=ChIJ04xoPJF06IkRpgkL_qpftYU&center=41.2219968,-73.0570511"
     }
   ],
   "coffee": [
+    {
+      "name": "McDonald's",
+      "distance": "0.8 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=McDonald's&query_place_id=ChIJyR50-a0M6IkRyHu6a04UmJw&center=41.205008,-73.0930602"
+    },
     {
       "name": "Dunkin'",
       "distance": "0.8 mi",
@@ -36,6 +66,11 @@
       "name": "Cafe 185",
       "distance": "0.9 mi",
       "url": "https://www.google.com/maps/search/?api=1&query=Cafe%20185&query_place_id=ChIJK4pUlQd16IkRN_uW23EvrtE&center=41.2256812,-73.07955729999999"
+    },
+    {
+      "name": "McDonald's",
+      "distance": "2.0 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=McDonald's&query_place_id=ChIJnRgaRu0M6IkRVxFFWtye-z4&center=41.1981526,-73.122818"
     }
   ],
   "team_lunch": [
@@ -68,6 +103,11 @@
       "name": "Devine's Bagels & Café",
       "distance": "1.2 mi",
       "url": "https://www.google.com/maps/search/?api=1&query=Devine's%20Bagels%20%26%20Caf%C3%A9&query_place_id=ChIJn0KwuKN06IkRvD_8vy8h-Io&center=41.2167027,-73.0681352"
+    },
+    {
+      "name": "BJ's Bakery",
+      "distance": "1.5 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=BJ's%20Bakery&query_place_id=ChIJg8cY3pUM6IkRjbplmifxyTs&center=41.2025017,-73.1132521"
     }
   ],
   "dinner": [

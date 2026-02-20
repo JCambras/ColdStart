@@ -1,6 +1,11 @@
 {
   "quick_bite": [
     {
+      "name": "Dunkin'",
+      "distance": "0.2 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Dunkin'&query_place_id=ChIJFf31ZTKUwokRvFLDz3zNmQk&center=41.037475500000006,-73.7601193"
+    },
+    {
       "name": "Michael's Pizza & Pasta",
       "distance": "0.2 mi",
       "url": "https://www.google.com/maps/search/?api=1&query=Michael's%20Pizza%20%26%20Pasta&query_place_id=ChIJO-bdujKUwokRmIa93_4C2MA&center=41.0378602,-73.7604293"
@@ -16,6 +21,11 @@
       "url": "https://www.google.com/maps/search/?api=1&query=Michelangelo's%20Pizza%20Pasta%20%26%20Things&query_place_id=ChIJ5zRkpdWVwokR12EXLKvaw80&center=41.0398262,-73.7497344"
     },
     {
+      "name": "Dunkin'",
+      "distance": "0.4 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Dunkin'&query_place_id=ChIJwQt9ey6UwokR980JT9sVEMI&center=41.033389799999995,-73.756922"
+    },
+    {
       "name": "P.F. Chang's",
       "distance": "0.5 mi",
       "url": "https://www.google.com/maps/search/?api=1&query=P.F.%20Chang's&query_place_id=ChIJl5QZbDCUwokRZigqHYQ4Lk8&center=41.032183499999995,-73.7604265"
@@ -29,6 +39,16 @@
       "name": "Mamma Rosa's Sons Italian Catering Deli",
       "distance": "0.7 mi",
       "url": "https://www.google.com/maps/search/?api=1&query=Mamma%20Rosa's%20Sons%20Italian%20Catering%20Deli&query_place_id=ChIJDRbjljCUwokRUnttUjLDFD8&center=41.0300079,-73.76313189999999"
+    },
+    {
+      "name": "Market Sandwich",
+      "distance": "0.7 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Market%20Sandwich&query_place_id=ChIJX8XRXyWUwokRXuJOlaedZ4A&center=41.028520799999995,-73.75875309999999"
+    },
+    {
+      "name": "Big City Gourmet",
+      "distance": "0.9 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Big%20City%20Gourmet&query_place_id=ChIJI86h-ziUwokR0I5PuDoTmsw&center=41.0291691,-73.7682931"
     }
   ],
   "coffee": [
@@ -56,6 +76,11 @@
       "name": "Tous les Jours Bakery Cafe",
       "distance": "0.8 mi",
       "url": "https://www.google.com/maps/search/?api=1&query=Tous%20les%20Jours%20Bakery%20Cafe&query_place_id=ChIJ44uyGACVwokRExaVOAzUjVw&center=41.0295774,-73.765198"
+    },
+    {
+      "name": "What A Bagel Cafe",
+      "distance": "1.1 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=What%20A%20Bagel%20Cafe&query_place_id=ChIJiWHxtDyUwokRuNg1pfbHAWE&center=41.0224124,-73.75994829999999"
     }
   ],
   "team_lunch": [

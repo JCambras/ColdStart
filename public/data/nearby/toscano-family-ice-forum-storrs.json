@@ -6,6 +6,11 @@
       "url": "https://www.google.com/maps/search/?api=1&query=Subway&query_place_id=ChIJHc5NpD6K5okR_TqvQnEfedo&center=41.8067528,-72.25436239999999"
     },
     {
+      "name": "Dunkin'",
+      "distance": "0.6 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Dunkin'&query_place_id=ChIJHc5NpD6K5okRtX7C3SuYvIc&center=41.806869999999996,-72.2542835"
+    },
+    {
       "name": "Subway",
       "distance": "0.7 mi",
       "url": "https://www.google.com/maps/search/?api=1&query=Subway&query_place_id=ChIJt1ohSUeK5okRdvlRpq_qegQ&center=41.8090675,-72.2605624"
@@ -19,6 +24,27 @@
       "name": "Gansett Wraps",
       "distance": "0.8 mi",
       "url": "https://www.google.com/maps/search/?api=1&query=Gansett%20Wraps&query_place_id=ChIJL8mjYyGK5okRlTd6QDdSzGo&center=41.8036226,-72.2429889"
+    },
+    {
+      "name": "Subway",
+      "distance": "0.8 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Subway&query_place_id=ChIJBcW4hCOK5okRjZY7anAjKnU&center=41.8050102,-72.2436924"
+    },
+    {
+      "name": "Jefferson Fry Company",
+      "distance": "0.8 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Jefferson%20Fry%20Company&query_place_id=ChIJy9_4cxuL5okRM9xfPYqdYUQ&center=41.8056048,-72.2425926"
+    },
+    {
+      "name": "Gelfenbien Grab & Go",
+      "distance": "1.0 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Gelfenbien%20Grab%20%26%20Go&query_place_id=ChIJZdyWHVmL5okR32ONFEDfZog&center=41.8137511,-72.2540451"
+    },
+    {
+      "name": "Subway",
+      "distance": "3.2 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Subway&query_place_id=ChIJhSUmWkBg5okR39KU4zxzYZs&center=41.7707414,-72.3047047",
+      "isFar": true
     }
   ],
   "coffee": [
@@ -46,6 +72,31 @@
       "name": "Dunkin'",
       "distance": "0.6 mi",
       "url": "https://www.google.com/maps/search/?api=1&query=Dunkin'&query_place_id=ChIJHc5NpD6K5okRtX7C3SuYvIc&center=41.806869999999996,-72.2542835"
+    },
+    {
+      "name": "Bookworms Cafe",
+      "distance": "0.6 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Bookworms%20Cafe&query_place_id=ChIJyQpk-IeL5okReflUDC91SC8&center=41.8063529,-72.2517673"
+    },
+    {
+      "name": "UConn Food Truck",
+      "distance": "0.6 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=UConn%20Food%20Truck&query_place_id=ChIJbf93ox-L5okRTj4uiW5KqZs&center=41.806654699999996,-72.25181529999999"
+    },
+    {
+      "name": "nanoByte Cafe",
+      "distance": "0.6 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=nanoByte%20Cafe&query_place_id=ChIJ79vy0laL5okRfun6TJIBP4M&center=41.807606,-72.2597264"
+    },
+    {
+      "name": "Beanery Cafe",
+      "distance": "0.7 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Beanery%20Cafe&query_place_id=ChIJj9bUyemL5okRDP1Ww1oif5E&center=41.8085399,-72.2528031"
+    },
+    {
+      "name": "Wilbur's",
+      "distance": "0.7 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Wilbur's&query_place_id=ChIJVeB5xr-L5okRLN6suVVVhpQ&center=41.8090611,-72.2522559"
     }
   ],
   "team_lunch": [
@@ -53,11 +104,6 @@
       "name": "Earth, Wok, & Fire",
       "distance": "0.6 mi",
       "url": "https://www.google.com/maps/search/?api=1&query=Earth%2C%20Wok%2C%20%26%20Fire&query_place_id=ChIJMT9YYeiL5okRw3KyQ2E2mFk&center=41.807386699999995,-72.2550828"
-    },
-    {
-      "name": "Ted's Restaurant & Bar",
-      "distance": "0.7 mi",
-      "url": "https://www.google.com/maps/search/?api=1&query=Ted's%20Restaurant%20%26%20Bar&query_place_id=ChIJDzTvqziK5okRW_gYG4H4rjc&center=41.809007799999996,-72.26001459999999"
     },
     {
       "name": "Krispy Krunchy Chicken",

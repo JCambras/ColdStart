@@ -1,6 +1,11 @@
 {
   "quick_bite": [
     {
+      "name": "Dunkin'",
+      "distance": "0.2 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Dunkin'&query_place_id=ChIJFYdebl3rNIgR1JuF1aIyuVw&center=40.47764,-79.7872721"
+    },
+    {
       "name": "Subway",
       "distance": "0.3 mi",
       "url": "https://www.google.com/maps/search/?api=1&query=Subway&query_place_id=ChIJIdbgcB3rNIgRMUgpPS0WyrE&center=40.4781243,-79.7858383"
@@ -29,9 +34,29 @@
       "name": "Taco Bell",
       "distance": "2.1 mi",
       "url": "https://www.google.com/maps/search/?api=1&query=Taco%20Bell&query_place_id=ChIJHb2jKg_rNIgR71pkQH4ER5Q&center=40.4635941,-79.8252534"
+    },
+    {
+      "name": "Subway",
+      "distance": "2.1 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Subway&query_place_id=ChIJl7KAIIHrNIgRvY5mmLfm4cE&center=40.4649071,-79.8268521"
+    },
+    {
+      "name": "Giant Eagle Prepared Foods",
+      "distance": "2.2 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Giant%20Eagle%20Prepared%20Foods&query_place_id=ChIJC9uSYobrNIgR1Ry8UfQa0bw&center=40.4616361,-79.8248943"
+    },
+    {
+      "name": "Long John Silver's",
+      "distance": "2.2 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Long%20John%20Silver's&query_place_id=ChIJMT0FcYbrNIgRCZxBL-5WOT0&center=40.460874,-79.82446"
     }
   ],
   "coffee": [
+    {
+      "name": "McDonald's",
+      "distance": "0.2 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=McDonald's&query_place_id=ChIJnd8m3BzrNIgRMS2G9OVuZjo&center=40.477192599999995,-79.78809129999999"
+    },
     {
       "name": "Dunkin'",
       "distance": "0.2 mi",
@@ -43,9 +68,9 @@
       "url": "https://www.google.com/maps/search/?api=1&query=Griff's%20Grounds%20Coff%C3%A9&query_place_id=ChIJZQukhCbrNIgR-9vCiwKpFG4&center=40.4933245,-79.7901112"
     },
     {
-      "name": "Outer Limits Adventure Park",
-      "distance": "2.9 mi",
-      "url": "https://www.google.com/maps/search/?api=1&query=Outer%20Limits%20Adventure%20Park&query_place_id=ChIJfULSKcPrNIgRv8p_4WmLDWE&center=40.4400317,-79.7692947"
+      "name": "McDonald's",
+      "distance": "2.2 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=McDonald's&query_place_id=ChIJ4c46rIDrNIgR1u4WqmD_qLo&center=40.465099800000004,-79.8289513"
     }
   ],
   "team_lunch": [

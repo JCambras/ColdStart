@@ -3,61 +3,101 @@
     {
       "name": "Subway",
       "distance": "0.5 mi",
-      "url": "https://www.google.com/maps/search/Subway+near+42.1853172%2C-85.59459410000001"
+      "url": "https://www.google.com/maps/search/?api=1&query=Subway&query_place_id=ChIJOUP4N351F4gRQ-7aVk6Vm0k&center=42.1882253,-85.6035713"
     },
     {
       "name": "Arby's",
       "distance": "0.6 mi",
-      "url": "https://www.google.com/maps/search/Arby's+near+42.1853172%2C-85.59459410000001"
+      "url": "https://www.google.com/maps/search/?api=1&query=Arby's&query_place_id=ChIJA3NzZSueF4gRTj6vU681x0Q&center=42.1941087,-85.5977903"
     },
     {
       "name": "Subway",
       "distance": "0.7 mi",
-      "url": "https://www.google.com/maps/search/Subway+near+42.1853172%2C-85.59459410000001"
+      "url": "https://www.google.com/maps/search/?api=1&query=Subway&query_place_id=ChIJYdpdEyyeF4gRYZLg3gL7_Gc&center=42.1952522,-85.59879769999999"
     },
     {
       "name": "Franco's Italian Pizzeria (Sub Station)",
       "distance": "1.1 mi",
-      "url": "https://www.google.com/maps/search/Franco's%20Italian%20Pizzeria%20(Sub%20Station)+near+42.1853172%2C-85.59459410000001"
+      "url": "https://www.google.com/maps/search/?api=1&query=Franco's%20Italian%20Pizzeria%20(Sub%20Station)&query_place_id=ChIJc07qhjCeF4gRlf1A-1t6Md8&center=42.2003207,-85.58969739999999"
     },
     {
       "name": "Taco Bob's",
       "distance": "1.1 mi",
-      "url": "https://www.google.com/maps/search/Taco%20Bob's+near+42.1853172%2C-85.59459410000001"
+      "url": "https://www.google.com/maps/search/?api=1&query=Taco%20Bob's&query_place_id=ChIJFQQGeDqeF4gRw85O3OGw318&center=42.2007413,-85.5883305"
+    },
+    {
+      "name": "Dairy Queen Store",
+      "distance": "1.2 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Dairy%20Queen%20Store&query_place_id=ChIJKz5h_jmeF4gRUXxYzhPZzb8&center=42.2013269,-85.58674429999999"
+    },
+    {
+      "name": "Subway",
+      "distance": "1.4 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Subway&query_place_id=ChIJx1ZsjUWeF4gRuYTkizJ6FJk&center=42.2006316,-85.5752926"
+    },
+    {
+      "name": "Jimmy John's",
+      "distance": "1.6 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Jimmy%20John's&query_place_id=ChIJqdHgWDyeF4gRrpp78S3kjv0&center=42.2078223,-85.588797"
+    },
+    {
+      "name": "Sonic Drive-In",
+      "distance": "2.1 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Sonic%20Drive-In&query_place_id=ChIJ-Y5fVheeF4gR3RZVqtykwD0&center=42.2150384,-85.59249969999999"
+    },
+    {
+      "name": "Subway",
+      "distance": "2.3 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Subway&query_place_id=ChIJq8gErqx1F4gRquIRSrTmITY&center=42.198705499999996,-85.63548519999999"
     }
   ],
   "coffee": [
     {
       "name": "Starbucks Coffee Company",
       "distance": "0.5 mi",
-      "url": "https://www.google.com/maps/search/Starbucks%20Coffee%20Company+near+42.1853172%2C-85.59459410000001"
+      "url": "https://www.google.com/maps/search/?api=1&query=Starbucks%20Coffee%20Company&query_place_id=ChIJmXmYbux1F4gR70D5qWj_lXk&center=42.186789999999995,-85.60334"
     },
     {
       "name": "Water Street Coffee Joint (Portage)",
       "distance": "1.1 mi",
-      "url": "https://www.google.com/maps/search/Water%20Street%20Coffee%20Joint%20(Portage)+near+42.1853172%2C-85.59459410000001"
+      "url": "https://www.google.com/maps/search/?api=1&query=Water%20Street%20Coffee%20Joint%20(Portage)&query_place_id=ChIJR2LODzCeF4gRN7g_1tWtO64&center=42.2004747,-85.5912986"
     },
     {
       "name": "Chocolatea",
       "distance": "1.4 mi",
-      "url": "https://www.google.com/maps/search/Chocolatea+near+42.1853172%2C-85.59459410000001"
+      "url": "https://www.google.com/maps/search/?api=1&query=Chocolatea&query_place_id=ChIJnZuOgTueF4gRhWryJV3TX_Q&center=42.2055693,-85.5898224"
+    },
+    {
+      "name": "McDonald's",
+      "distance": "2.0 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=McDonald's&query_place_id=ChIJeXN-9PeeF4gRAueUbZVAjDE&center=42.200246799999995,-85.5607615"
+    },
+    {
+      "name": "McDonald's",
+      "distance": "2.2 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=McDonald's&query_place_id=ChIJ2WbQIRGeF4gRkVqYzH8Bh1E&center=42.216507899999996,-85.5886392"
     }
   ],
   "team_lunch": [
     {
       "name": "Walmart Bakery",
       "distance": "0.7 mi",
-      "url": "https://www.google.com/maps/search/Walmart%20Bakery+near+42.1853172%2C-85.59459410000001"
+      "url": "https://www.google.com/maps/search/?api=1&query=Walmart%20Bakery&query_place_id=ChIJq6raqiueF4gRCvbCGah5dNE&center=42.1940925,-85.5997529"
     },
     {
       "name": "Landmark Breads",
       "distance": "1.4 mi",
-      "url": "https://www.google.com/maps/search/Landmark%20Breads+near+42.1853172%2C-85.59459410000001"
+      "url": "https://www.google.com/maps/search/?api=1&query=Landmark%20Breads&query_place_id=ChIJP_VlA_CfF4gRNW_nsHSSjPw&center=42.1949014,-85.5712763"
     },
     {
       "name": "Papa Johns Pizza",
       "distance": "1.4 mi",
-      "url": "https://www.google.com/maps/search/Papa%20Johns%20Pizza+near+42.1853172%2C-85.59459410000001"
+      "url": "https://www.google.com/maps/search/?api=1&query=Papa%20Johns%20Pizza&query_place_id=ChIJNzE_s5p1F4gRzV2gaeMpROE&center=42.2005226,-85.6127163"
+    },
+    {
+      "name": "Dual Delights LLC",
+      "distance": "2.4 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Dual%20Delights%20LLC&query_place_id=ChIJKzMBtfyfF4gR8ycIKxkGc58&center=42.1572239,-85.56834309999999"
     }
   ],
   "dinner": [

@@ -1,9 +1,9 @@
 {
   "quick_bite": [
     {
-      "name": "Buffalo Wild Wings",
-      "distance": "0.6 mi",
-      "url": "https://www.google.com/maps/search/?api=1&query=Buffalo%20Wild%20Wings&query_place_id=ChIJwWFxN66KwokR-EiSRJk3vwE&center=40.782044899999995,-73.833727"
+      "name": "Dunkin'",
+      "distance": "0.4 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Dunkin'&query_place_id=ChIJFQz7D7CKwokR54TwSl-8UNc&center=40.783671,-73.8317979"
     },
     {
       "name": "Subway",
@@ -14,17 +14,6 @@
       "name": "Subway",
       "distance": "1.0 mi",
       "url": "https://www.google.com/maps/search/?api=1&query=Subway&query_place_id=ChIJ9RhG6O2KwokRA8jp_89pHQU&center=40.7939031,-73.80794589999999"
-    },
-    {
-      "name": "Chuck E. Cheese",
-      "distance": "2.0 mi",
-      "url": "https://www.google.com/maps/search/?api=1&query=Chuck%20E.%20Cheese&query_place_id=ChIJ-Vn5BAdgwokREygaLdvy4bY&center=40.757368199999995,-73.8350143"
-    },
-    {
-      "name": "Wawawooo Park",
-      "distance": "3.5 mi",
-      "url": "https://www.google.com/maps/search/?api=1&query=Wawawooo%20Park&query_place_id=ChIJ-Sz_DwBfwokRYLrQmqxx3Vc&center=40.7631564,-73.8846671",
-      "isFar": true
     }
   ],
   "coffee": [
@@ -32,6 +21,11 @@
       "name": "Starbucks Coffee Company",
       "distance": "0.4 mi",
       "url": "https://www.google.com/maps/search/?api=1&query=Starbucks%20Coffee%20Company&query_place_id=ChIJ3x9eV6WKwokR_cY36CC8PWU&center=40.782019999999996,-73.82986"
+    },
+    {
+      "name": "McDonald's",
+      "distance": "0.4 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=McDonald's&query_place_id=ChIJ7S1NWKWKwokRwbNTb4T5Aro&center=40.7820137,-73.8299609"
     },
     {
       "name": "Dunkin'",
@@ -52,6 +46,16 @@
       "name": "Starbucks drive thru",
       "distance": "0.5 mi",
       "url": "https://www.google.com/maps/search/?api=1&query=Starbucks%20drive%20thru&query_place_id=ChIJuRAYNQCLwokRL4DsrvfZL6Q&center=40.7877978,-73.8142105"
+    },
+    {
+      "name": "Duck Donuts",
+      "distance": "0.6 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Duck%20Donuts&query_place_id=ChIJheFQUTCLwokRqGS4VrXMoGs&center=40.786739000000004,-73.8350386"
+    },
+    {
+      "name": "Paris Baguette",
+      "distance": "0.9 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Paris%20Baguette&query_place_id=ChIJp2ylmB1gwokRbRrsiO1FyxU&center=40.7711417,-73.8269194"
     }
   ],
   "team_lunch": [

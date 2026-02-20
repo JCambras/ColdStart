@@ -3,66 +3,101 @@
     {
       "name": "White Castle",
       "distance": "0.6 mi",
-      "url": "https://www.google.com/maps/search/White%20Castle+near+42.3619512%2C-83.346394"
+      "url": "https://www.google.com/maps/search/?api=1&query=White%20Castle&query_place_id=ChIJPcDN-VezJIgR2Nn7WDfxLSQ&center=42.3686169,-83.34035229999999"
     },
     {
       "name": "Subway",
       "distance": "0.6 mi",
-      "url": "https://www.google.com/maps/search/Subway+near+42.3619512%2C-83.346394"
+      "url": "https://www.google.com/maps/search/?api=1&query=Subway&query_place_id=ChIJPcDN-VezJIgRjC7UOI-o9Y4&center=42.366393699999996,-83.336556"
     },
     {
       "name": "Subway",
       "distance": "0.6 mi",
-      "url": "https://www.google.com/maps/search/Subway+near+42.3619512%2C-83.346394"
+      "url": "https://www.google.com/maps/search/?api=1&query=Subway&query_place_id=ChIJ71hht1qzJIgRzzoOZGy-1G4&center=42.3699826,-83.34167029999999"
     },
     {
       "name": "Taco Bell",
       "distance": "0.6 mi",
-      "url": "https://www.google.com/maps/search/Taco%20Bell+near+42.3619512%2C-83.346394"
+      "url": "https://www.google.com/maps/search/?api=1&query=Taco%20Bell&query_place_id=ChIJCVeHaUazJIgRm9fyOqUj9B0&center=42.3694699,-83.3531338"
     },
     {
       "name": "Big Chicken",
       "distance": "0.6 mi",
-      "url": "https://www.google.com/maps/search/Big%20Chicken+near+42.3619512%2C-83.346394"
+      "url": "https://www.google.com/maps/search/?api=1&query=Big%20Chicken&query_place_id=ChIJHeD6ARGzJIgRePrXVISRF4U&center=42.3695327,-83.33914089999999"
+    },
+    {
+      "name": "Potbelly",
+      "distance": "0.7 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Potbelly&query_place_id=ChIJlfoublizJIgRoDAVAxUJYyU&center=42.3685962,-83.3366484"
+    },
+    {
+      "name": "Five Guys",
+      "distance": "0.8 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Five%20Guys&query_place_id=ChIJW_TWpKe0JIgRXDXtsazvTN4&center=42.3684788,-83.3339884"
+    },
+    {
+      "name": "Firehouse Subs Middlebelt Road",
+      "distance": "0.9 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Firehouse%20Subs%20Middlebelt%20Road&query_place_id=ChIJa044GIq1JIgRaRTtcQvXsz0&center=42.3685306,-83.3319485"
+    },
+    {
+      "name": "Chick-fil-A",
+      "distance": "0.9 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Chick-fil-A&query_place_id=ChIJBU57g9O1JIgR-YJzl8JSXek&center=42.369285000000005,-83.332556"
+    },
+    {
+      "name": "Wendy's",
+      "distance": "0.9 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Wendy's&query_place_id=ChIJC4MJZlRLO4gRvXq1_ekHr3I&center=42.3543765,-83.3314504"
     }
   ],
   "coffee": [
     {
       "name": "Fattoush Village Cafe & Grill",
       "distance": "0.5 mi",
-      "url": "https://www.google.com/maps/search/Fattoush%20Village%20Cafe%20%26%20Grill+near+42.3619512%2C-83.346394"
+      "url": "https://www.google.com/maps/search/?api=1&query=Fattoush%20Village%20Cafe%20%26%20Grill&query_place_id=ChIJ69BzUE-zJIgRp-rfbagh_7U&center=42.3682921,-83.3510553"
     },
     {
       "name": "McDonald's",
       "distance": "0.6 mi",
-      "url": "https://www.google.com/maps/search/McDonald's+near+42.3619512%2C-83.346394"
+      "url": "https://www.google.com/maps/search/?api=1&query=McDonald's&query_place_id=ChIJs8VW3LNMO4gRpctg9B6gth0&center=42.353931599999996,-83.3503425"
     },
     {
       "name": "Haraz Coffee House",
       "distance": "0.6 mi",
-      "url": "https://www.google.com/maps/search/Haraz%20Coffee%20House+near+42.3619512%2C-83.346394"
+      "url": "https://www.google.com/maps/search/?api=1&query=Haraz%20Coffee%20House&query_place_id=ChIJnZs5T4WzJIgRrdMRJ4QjXb8&center=42.369533399999995,-83.33903"
     },
     {
       "name": "Starbucks Coffee Company",
       "distance": "0.7 mi",
-      "url": "https://www.google.com/maps/search/Starbucks%20Coffee%20Company+near+42.3619512%2C-83.346394"
+      "url": "https://www.google.com/maps/search/?api=1&query=Starbucks%20Coffee%20Company&query_place_id=ChIJ39BucKi0JIgRF-n4rpRIMWQ&center=42.3667,-83.33424"
+    },
+    {
+      "name": "McDonald's",
+      "distance": "1.0 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=McDonald's&query_place_id=ChIJf1oJzKa0JIgRLi0l3DBJn2g&center=42.371875599999996,-83.33247229999999"
     }
   ],
   "team_lunch": [
     {
-      "name": "Sports Locker Bar & Grill",
-      "distance": "0.5 mi",
-      "url": "https://www.google.com/maps/search/Sports%20Locker%20Bar%20%26%20Grill+near+42.3619512%2C-83.346394"
-    },
-    {
       "name": "Walmart Bakery",
       "distance": "0.6 mi",
-      "url": "https://www.google.com/maps/search/Walmart%20Bakery+near+42.3619512%2C-83.346394"
+      "url": "https://www.google.com/maps/search/?api=1&query=Walmart%20Bakery&query_place_id=ChIJAQAA5FezJIgR7nYm37zsi8E&center=42.366267799999996,-83.33617679999999"
     },
     {
       "name": "Red Lobster",
       "distance": "0.7 mi",
-      "url": "https://www.google.com/maps/search/Red%20Lobster+near+42.3619512%2C-83.346394"
+      "url": "https://www.google.com/maps/search/?api=1&query=Red%20Lobster&query_place_id=ChIJEXg4-FizJIgRhFBwBDiOO1E&center=42.369658199999996,-83.3381616"
+    },
+    {
+      "name": "Bread Basket Deli",
+      "distance": "0.8 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Bread%20Basket%20Deli&query_place_id=ChIJraLROKa0JIgRIl694DLVg70&center=42.3682772,-83.3325371"
+    },
+    {
+      "name": "Bakery Jill",
+      "distance": "1.3 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Bakery%20Jill&query_place_id=ChIJGzHfaVlLO4gRDpPtPWfC2lk&center=42.3476114,-83.33088389999999"
     }
   ],
   "dinner": [

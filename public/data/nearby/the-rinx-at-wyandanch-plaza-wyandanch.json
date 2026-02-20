@@ -1,11 +1,6 @@
 {
   "quick_bite": [
     {
-      "name": "Moe Brooker Just Jazz MTA Arts & Design inspired Spirit Ironworks, Inc.",
-      "distance": "0.1 mi",
-      "url": "https://www.google.com/maps/search/?api=1&query=Moe%20Brooker%20Just%20Jazz%20MTA%20Arts%20%26%20Design%20inspired%20Spirit%20Ironworks%2C%20Inc.&query_place_id=ChIJw0IqFXwt6IkRxKkFoShdp78&center=40.755991699999996,-73.35728809999999"
-    },
-    {
       "name": "Pizza House",
       "distance": "0.1 mi",
       "url": "https://www.google.com/maps/search/?api=1&query=Pizza%20House&query_place_id=ChIJxetR1KMt6IkRnYidUPaHxmA&center=40.7550953,-73.3604228"
@@ -29,6 +24,31 @@
       "name": "Five Guys",
       "distance": "1.5 mi",
       "url": "https://www.google.com/maps/search/?api=1&query=Five%20Guys&query_place_id=ChIJI7dipTYs6IkR2UZeBbBuG3w&center=40.7632185,-73.3313175"
+    },
+    {
+      "name": "Subway",
+      "distance": "1.5 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Subway&query_place_id=ChIJL1JopDYs6IkRD9eV979QlAY&center=40.7631312,-73.3307983"
+    },
+    {
+      "name": "Taco Bell",
+      "distance": "1.6 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Taco%20Bell&query_place_id=ChIJXxP0AjQs6IkRsX7NtuSguCU&center=40.763511199999996,-73.329565"
+    },
+    {
+      "name": "White Castle",
+      "distance": "1.7 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=White%20Castle&query_place_id=ChIJPUO3gEws6IkRyFu3YtCtqeE&center=40.7533574,-73.3264092"
+    },
+    {
+      "name": "Popeyes Drive-tru",
+      "distance": "1.7 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Popeyes%20Drive-tru&query_place_id=ChIJXz3jTAAt6IkRg8fJJ_sQONM&center=40.752945000000004,-73.326297"
+    },
+    {
+      "name": "Sonic Drive-In",
+      "distance": "2.0 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Sonic%20Drive-In&query_place_id=ChIJb3TOpawt6IkRl447MLx-d7w&center=40.7436053,-73.32277119999999"
     }
   ],
   "coffee": [
@@ -36,6 +56,11 @@
       "name": "Wyandanch's Electrical Contractor",
       "distance": "0.4 mi",
       "url": "https://www.google.com/maps/search/?api=1&query=Wyandanch's%20Electrical%20Contractor&query_place_id=ChIJm1IhOgAt6IkRN4AXHMNIuEw&center=40.7537504,-73.3657601"
+    },
+    {
+      "name": "McDonald's",
+      "distance": "1.8 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=McDonald's&query_place_id=ChIJQ4SlQqot6IkRb-8waWJ5rs4&center=40.749354,-73.3249453"
     }
   ],
   "team_lunch": [
@@ -68,6 +93,26 @@
       "name": "Brooklyn Fish Chicken & Soul Food",
       "distance": "0.8 mi",
       "url": "https://www.google.com/maps/search/?api=1&query=Brooklyn%20Fish%20Chicken%20%26%20Soul%20Food&query_place_id=ChIJK9MCnmkt6IkRcAW1YL7TLB0&center=40.7442284,-73.3652954"
+    },
+    {
+      "name": "Gold Lee Kitchen",
+      "distance": "0.9 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Gold%20Lee%20Kitchen&query_place_id=ChIJs_XijYgr6IkR_InmtRb58Nk&center=40.7561877,-73.3763118"
+    },
+    {
+      "name": "Sugar Symphony Bakery",
+      "distance": "1.2 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Sugar%20Symphony%20Bakery&query_place_id=ChIJ0dM04CEr6IkRmV2ffaYWi_0&center=40.7492643,-73.3807183"
+    },
+    {
+      "name": "Aunt Carmen",
+      "distance": "1.5 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Aunt%20Carmen&query_place_id=ChIJ8VgsLTEs6IkR9dzYMwZfTPQ&center=40.7643212,-73.331968"
+    },
+    {
+      "name": "Westside Bagels",
+      "distance": "1.8 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Westside%20Bagels&query_place_id=ChIJt8csVk0s6IkRbNrpN3X1XYw&center=40.7482763,-73.3255625"
     }
   ],
   "dinner": [

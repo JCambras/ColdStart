@@ -1,14 +1,29 @@
 {
   "quick_bite": [
     {
+      "name": "Dunkin'",
+      "distance": "0.5 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Dunkin'&query_place_id=ChIJn1w85otd5IkRbF_Z5hBv9Qo&center=41.9344162,-71.3163277"
+    },
+    {
+      "name": "Dunkin'",
+      "distance": "1.0 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Dunkin'&query_place_id=ChIJmc_Z8_dd5IkRwRh7arrzcwA&center=41.934216,-71.3001468"
+    },
+    {
       "name": "Route 152 Pizza",
       "distance": "1.7 mi",
       "url": "https://www.google.com/maps/search/?api=1&query=Route%20152%20Pizza&query_place_id=ChIJP9ntAqtg5IkRhQNfmjYJChs&center=41.934615699999995,-71.286947"
     },
     {
-      "name": "LongHorn Steakhouse",
-      "distance": "1.8 mi",
-      "url": "https://www.google.com/maps/search/?api=1&query=LongHorn%20Steakhouse&query_place_id=ChIJn9kHQWNd5IkRlfr58wuk6Ac&center=41.9404311,-71.3473951"
+      "name": "Dunkin'",
+      "distance": "1.7 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Dunkin'&query_place_id=ChIJo_j-Aqtg5IkR_OkdRhL39Pg&center=41.9347671,-71.2858873"
+    },
+    {
+      "name": "Dunkin'",
+      "distance": "1.7 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Dunkin'&query_place_id=ChIJfULJGv9m5IkRejuYQ5xqzIc&center=41.933139499999996,-71.35014939999999"
     },
     {
       "name": "Five Guys",
@@ -29,6 +44,11 @@
       "name": "Chick-fil-A",
       "distance": "2.1 mi",
       "url": "https://www.google.com/maps/search/?api=1&query=Chick-fil-A&query_place_id=ChIJEQgzwBVd5IkRwxPwSpfVrSA&center=41.9220968,-71.3571405"
+    },
+    {
+      "name": "Subway",
+      "distance": "2.4 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Subway&query_place_id=ChIJpY2Jt7Zg5IkRzJJ2uow_szE&center=41.9468586,-71.28011359999999"
     }
   ],
   "coffee": [
@@ -56,6 +76,26 @@
       "name": "Dunkin'",
       "distance": "1.7 mi",
       "url": "https://www.google.com/maps/search/?api=1&query=Dunkin'&query_place_id=ChIJo_j-Aqtg5IkR_OkdRhL39Pg&center=41.9347671,-71.2858873"
+    },
+    {
+      "name": "Dunkin'",
+      "distance": "1.7 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Dunkin'&query_place_id=ChIJfULJGv9m5IkRejuYQ5xqzIc&center=41.933139499999996,-71.35014939999999"
+    },
+    {
+      "name": "Panera Bread",
+      "distance": "1.8 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Panera%20Bread&query_place_id=ChIJn9kHQWNd5IkRljJ2XCZyUgs&center=41.940309299999996,-71.3473011"
+    },
+    {
+      "name": "McDonald's",
+      "distance": "2.3 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=McDonald's&query_place_id=ChIJs8NWYyFd5IkRKbgPpupTvgw&center=41.916657,-71.3594171"
+    },
+    {
+      "name": "McDonald's",
+      "distance": "2.6 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=McDonald's&query_place_id=ChIJ4-uhReZc5IkRaCKjWuI-hpY&center=41.900807199999996,-71.3532058"
     }
   ],
   "team_lunch": [
@@ -70,6 +110,11 @@
       "url": "https://www.google.com/maps/search/?api=1&query=Golden%20Dragon%20Restaurant&query_place_id=ChIJP9ntAqtg5IkRpzMb6QTbUGc&center=41.9344198,-71.2869317"
     },
     {
+      "name": "Walmart Bakery",
+      "distance": "1.7 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Walmart%20Bakery&query_place_id=ChIJ____c29d5IkRDmfnUDEtNbA&center=41.933139499999996,-71.35014939999999"
+    },
+    {
       "name": "Friendly's",
       "distance": "1.8 mi",
       "url": "https://www.google.com/maps/search/?api=1&query=Friendly's&query_place_id=ChIJf_W9NGld5IkR0k6ErXnMtwk&center=41.93045,-71.3527"
@@ -78,6 +123,21 @@
       "name": "Patel’s Fresh Kitchen",
       "distance": "1.8 mi",
       "url": "https://www.google.com/maps/search/?api=1&query=Patel%E2%80%99s%20Fresh%20Kitchen&query_place_id=ChIJK0BlUQBd5IkRQcJNevGdc74&center=41.9421001,-71.3465281"
+    },
+    {
+      "name": "Providence Bagel",
+      "distance": "1.9 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Providence%20Bagel&query_place_id=ChIJ02eBY4hd5IkREw8mFrEb6y8&center=41.929118599999995,-71.3535227"
+    },
+    {
+      "name": "Auntie Anne's",
+      "distance": "2.2 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Auntie%20Anne's&query_place_id=ChIJQ5D8Aoln5IkRXBue9LIuHrk&center=41.94726240000001,-71.3508007"
+    },
+    {
+      "name": "D'Angelo Grilled Sandwiches",
+      "distance": "2.5 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=D'Angelo%20Grilled%20Sandwiches&query_place_id=ChIJh3aqE6th5IkRCQc2E8x6-pg&center=41.9473523,-71.278719"
     }
   ],
   "dinner": [

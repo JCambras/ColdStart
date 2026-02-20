@@ -21,9 +21,34 @@
       "url": "https://www.google.com/maps/search/?api=1&query=Burger%20King&query_place_id=ChIJvVDbIDFt04kRiy07KOt3EjY&center=42.9475195,-78.8677074"
     },
     {
-      "name": "Chuck E. Cheese",
+      "name": "Top fork",
       "distance": "0.4 mi",
-      "url": "https://www.google.com/maps/search/?api=1&query=Chuck%20E.%20Cheese&query_place_id=ChIJxS47RQBt04kRBzPRHhwCRBI&center=42.9554034,-78.87108219999999"
+      "url": "https://www.google.com/maps/search/?api=1&query=Top%20fork&query_place_id=ChIJvRSsJ41t04kRoBadmusEqiE&center=42.948026999999996,-78.86156419999999"
+    },
+    {
+      "name": "Dunkin'",
+      "distance": "0.4 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Dunkin'&query_place_id=ChIJyxN3HTFt04kRCsS-ECvd_P4&center=42.947400099999996,-78.8694207"
+    },
+    {
+      "name": "Subway",
+      "distance": "0.5 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Subway&query_place_id=ChIJhyamBT1t04kRcPJCF4ZvcEQ&center=42.958217999999995,-78.870054"
+    },
+    {
+      "name": "Jersey Mike's Subs",
+      "distance": "0.5 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Jersey%20Mike's%20Subs&query_place_id=ChIJlagwRABt04kR__V0dWFzFps&center=42.9448806,-78.8687183"
+    },
+    {
+      "name": "Checkers",
+      "distance": "0.6 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Checkers&query_place_id=ChIJt01WUi9t04kR0yaE6V4av-I&center=42.9509839,-78.8776902"
+    },
+    {
+      "name": "Subway",
+      "distance": "0.6 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Subway&query_place_id=ChIJCW8ooDNt04kRDOF5KxY8zQE&center=42.943254599999996,-78.8687805"
     }
   ],
   "coffee": [
@@ -51,6 +76,16 @@
       "name": "Romeo & Juliet’s Caffè & Bakery",
       "distance": "0.4 mi",
       "url": "https://www.google.com/maps/search/?api=1&query=Romeo%20%26%20Juliet%E2%80%99s%20Caff%C3%A8%20%26%20Bakery&query_place_id=ChIJ9cX6JEht04kRtZmJt1EXGo8&center=42.9479038,-78.86016200000002"
+    },
+    {
+      "name": "McDonald's",
+      "distance": "0.7 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=McDonald's&query_place_id=ChIJU0MXeiZt04kRCyJkHOA1gUM&center=42.953118599999996,-78.87889489999999"
+    },
+    {
+      "name": "Bruegger's Bagels",
+      "distance": "0.7 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Bruegger's%20Bagels&query_place_id=ChIJAbluazNt04kRxEq4t29tDok&center=42.9421494,-78.8685023"
     }
   ],
   "team_lunch": [

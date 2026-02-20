@@ -6,6 +6,16 @@
       "url": "https://www.google.com/maps/search/?api=1&query=Subway&query_place_id=ChIJPw7ZfN4jxIkR3Fo8n3LRT34&center=40.4360401,-75.4082025"
     },
     {
+      "name": "Wawa",
+      "distance": "1.1 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Wawa&query_place_id=ChIJ3cP574AjxIkRNa7cW8HfQck&center=40.436318899999996,-75.41387510000001"
+    },
+    {
+      "name": "Dunkin'",
+      "distance": "1.2 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Dunkin'&query_place_id=ChIJb7vlCeEjxIkRsLfeHvzWQ9Y&center=40.4356322,-75.41692139999999"
+    },
+    {
       "name": "Fino's Pizzeria",
       "distance": "1.5 mi",
       "url": "https://www.google.com/maps/search/?api=1&query=Fino's%20Pizzeria&query_place_id=ChIJyTYWpZkhxIkRzuD-y7sqrxo&center=40.4111895,-75.3790484"
@@ -24,13 +34,48 @@
       "name": "Five Guys",
       "distance": "2.2 mi",
       "url": "https://www.google.com/maps/search/?api=1&query=Five%20Guys&query_place_id=ChIJlfAVw2kixIkRWU-xpHy2fvg&center=40.446827299999995,-75.3611339"
+    },
+    {
+      "name": "Jersey Mike's Subs",
+      "distance": "2.2 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Jersey%20Mike's%20Subs&query_place_id=ChIJ8ffgG2sixIkRpjdoRbSlKEY&center=40.4469692,-75.3612465"
+    },
+    {
+      "name": "Dairy Queen Grill & Chill",
+      "distance": "2.2 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Dairy%20Queen%20Grill%20%26%20Chill&query_place_id=ChIJf91lNhAixIkRxpuUUAtTj7I&center=40.437948899999995,-75.3553909"
+    },
+    {
+      "name": "Wendy's",
+      "distance": "2.2 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Wendy's&query_place_id=ChIJebSAYhMixIkRvL4FxcsOepo&center=40.4455182,-75.35891"
     }
   ],
   "coffee": [
     {
+      "name": "Wawa",
+      "distance": "1.1 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Wawa&query_place_id=ChIJ3cP574AjxIkRNa7cW8HfQck&center=40.436318899999996,-75.41387510000001"
+    },
+    {
       "name": "Dunkin'",
       "distance": "1.2 mi",
       "url": "https://www.google.com/maps/search/?api=1&query=Dunkin'&query_place_id=ChIJb7vlCeEjxIkRsLfeHvzWQ9Y&center=40.4356322,-75.41692139999999"
+    },
+    {
+      "name": "McDonald's",
+      "distance": "1.3 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=McDonald's&query_place_id=ChIJZSka0tcjxIkRUFHyzcf0GZE&center=40.4355463,-75.4183576"
+    },
+    {
+      "name": "McDonald's",
+      "distance": "2.2 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=McDonald's&query_place_id=ChIJOf7tYBMixIkRNo4MYvNU2tg&center=40.444081,-75.359275"
+    },
+    {
+      "name": "Yum Yum Bake Shops",
+      "distance": "2.3 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Yum%20Yum%20Bake%20Shops&query_place_id=ChIJiei_PxMixIkRB5tN-munQF4&center=40.4439737,-75.3566271"
     }
   ],
   "team_lunch": [
@@ -58,6 +103,11 @@
       "name": "Philly Pretzel Factory",
       "distance": "2.3 mi",
       "url": "https://www.google.com/maps/search/?api=1&query=Philly%20Pretzel%20Factory&query_place_id=ChIJ81MOQBMixIkRP6rmUvfw3as&center=40.4454632,-75.3567853"
+    },
+    {
+      "name": "Walmart Bakery",
+      "distance": "2.4 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Walmart%20Bakery&query_place_id=ChIJAQAAbGwixIkRQTXoCZy4jt8&center=40.4483806,-75.3576145"
     },
     {
       "name": "BJ's Bakery",

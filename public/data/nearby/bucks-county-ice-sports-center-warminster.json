@@ -6,6 +6,11 @@
       "url": "https://www.google.com/maps/search/?api=1&query=SNOWFOX%20Sushi&query_place_id=ChIJi7Eh8JGvxokR6bg_FvtBKoQ&center=40.2220106,-75.0962194"
     },
     {
+      "name": "Dunkin'",
+      "distance": "0.3 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Dunkin'&query_place_id=ChIJwZ41jNquxokRxPVWh-AajLk&center=40.2212797,-75.0976427"
+    },
+    {
       "name": "Arby's",
       "distance": "1.2 mi",
       "url": "https://www.google.com/maps/search/?api=1&query=Arby's&query_place_id=ChIJTZmwOgCvxokRtjkE26qvTNQ&center=40.2072591,-75.1019146"
@@ -16,9 +21,34 @@
       "url": "https://www.google.com/maps/search/?api=1&query=Five%20Guys&query_place_id=ChIJzYhZJOCuxokRmqCkK99Vn10&center=40.207178,-75.1044364"
     },
     {
+      "name": "Dunkin'",
+      "distance": "1.3 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Dunkin'&query_place_id=ChIJWQsY0OWuxokRB4VYCJ1TAoo&center=40.2051559,-75.09760349999999"
+    },
+    {
       "name": "Muzzy's Shack",
       "distance": "1.4 mi",
       "url": "https://www.google.com/maps/search/?api=1&query=Muzzy's%20Shack&query_place_id=ChIJh5PJBpivxokRbO_RmPYJBu8&center=40.204902499999996,-75.0950859"
+    },
+    {
+      "name": "Burger King",
+      "distance": "1.4 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Burger%20King&query_place_id=ChIJbeuMxOWuxokRN9st7B56aeA&center=40.2046978,-75.097172"
+    },
+    {
+      "name": "Wawa",
+      "distance": "1.4 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Wawa&query_place_id=ChIJV81CiuWuxokRxVy7AUKu6bs&center=40.20447,-75.0947498"
+    },
+    {
+      "name": "Wawa",
+      "distance": "1.5 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Wawa&query_place_id=ChIJ11jooT6pxokRfsgdP0r04UM&center=40.2466211,-75.0897745"
+    },
+    {
+      "name": "Taco Bell",
+      "distance": "1.6 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Taco%20Bell&query_place_id=ChIJZwICr-SuxokROm8w_040R-E&center=40.2024853,-75.1013991"
     }
   ],
   "coffee": [
@@ -43,9 +73,19 @@
       "url": "https://www.google.com/maps/search/?api=1&query=Dunkin'&query_place_id=ChIJWQsY0OWuxokRB4VYCJ1TAoo&center=40.2051559,-75.09760349999999"
     },
     {
+      "name": "Wawa",
+      "distance": "1.4 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Wawa&query_place_id=ChIJV81CiuWuxokRxVy7AUKu6bs&center=40.20447,-75.0947498"
+    },
+    {
       "name": "Yum Yum Bake Shops",
       "distance": "1.4 mi",
       "url": "https://www.google.com/maps/search/?api=1&query=Yum%20Yum%20Bake%20Shops&query_place_id=ChIJ7WN-ce-uxokRODVYIcBquZY&center=40.20361450000001,-75.0950486"
+    },
+    {
+      "name": "Wawa",
+      "distance": "1.5 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Wawa&query_place_id=ChIJ11jooT6pxokRfsgdP0r04UM&center=40.2466211,-75.0897745"
     }
   ],
   "team_lunch": [

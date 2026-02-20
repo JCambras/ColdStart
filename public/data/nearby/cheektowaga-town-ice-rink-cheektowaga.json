@@ -1,9 +1,14 @@
 {
   "quick_bite": [
     {
-      "name": "Doino's Pizzeria Bar & Grille",
-      "distance": "0.4 mi",
-      "url": "https://www.google.com/maps/search/?api=1&query=Doino's%20Pizzeria%20Bar%20%26%20Grille&query_place_id=ChIJoX91hdwM04kRurcs3p-e-BE&center=42.9174162,-78.7840457"
+      "name": "Tim Hortons",
+      "distance": "0.5 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Tim%20Hortons&query_place_id=ChIJmWDx7iAN04kRufvBgVHcVNc&center=42.920235,-78.7938903"
+    },
+    {
+      "name": "Tim Hortons",
+      "distance": "0.6 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Tim%20Hortons&query_place_id=ChIJdU3zYNoM04kRJLmsy_tutiE&center=42.9215845,-78.7845218"
     },
     {
       "name": "Taco Bell",
@@ -29,6 +34,21 @@
       "name": "The Buffalo Pizza Beast",
       "distance": "1.1 mi",
       "url": "https://www.google.com/maps/search/?api=1&query=The%20Buffalo%20Pizza%20Beast&query_place_id=ChIJfXbaPgEN04kRI_IAhoBB3ko&center=42.8987188,-78.7975092"
+    },
+    {
+      "name": "HALAL FOOD CORNER INC",
+      "distance": "1.3 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=HALAL%20FOOD%20CORNER%20INC&query_place_id=ChIJ4TK47HYN04kRuecbCZ2Powg&center=42.9049025,-78.8128333"
+    },
+    {
+      "name": "Subway",
+      "distance": "1.4 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Subway&query_place_id=ChIJfSBo9L0M04kRKkjhN7IaJrI&center=42.9142499,-78.7633946"
+    },
+    {
+      "name": "Wetzel's Pretzels",
+      "distance": "1.4 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Wetzel's%20Pretzels&query_place_id=ChIJdaPWL5wN04kRn8b7CHX8rYE&center=42.9135693,-78.76331170000002"
     }
   ],
   "coffee": [
@@ -46,6 +66,16 @@
       "name": "Tim Hortons",
       "distance": "0.6 mi",
       "url": "https://www.google.com/maps/search/?api=1&query=Tim%20Hortons&query_place_id=ChIJdU3zYNoM04kRJLmsy_tutiE&center=42.9215845,-78.7845218"
+    },
+    {
+      "name": "McDonald's",
+      "distance": "1.0 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=McDonald's&query_place_id=ChIJG7TlDOsM04kRkNdaCUcid9w&center=42.9079292,-78.7730699"
+    },
+    {
+      "name": "McDonald's",
+      "distance": "1.2 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=McDonald's&query_place_id=ChIJ47lJlRQN04kRRddGqiEE7NM&center=42.912778599999996,-78.81418529999999"
     }
   ],
   "team_lunch": [
@@ -53,16 +83,6 @@
       "name": "Pine Ridge Pizza & Subs inc",
       "distance": "0.4 mi",
       "url": "https://www.google.com/maps/search/?api=1&query=Pine%20Ridge%20Pizza%20%26%20Subs%20inc&query_place_id=ChIJl_vWWycN04kRpbtlTUgEFEI&center=42.919661399999995,-78.7933523"
-    },
-    {
-      "name": "Livingston’s Breakfast & More",
-      "distance": "0.4 mi",
-      "url": "https://www.google.com/maps/search/?api=1&query=Livingston%E2%80%99s%20Breakfast%20%26%20More&query_place_id=ChIJuy3lFR8N04kRgUbLRExv4nU&center=42.9075503,-78.7900904"
-    },
-    {
-      "name": "Rafferty's Irish Pub",
-      "distance": "0.5 mi",
-      "url": "https://www.google.com/maps/search/?api=1&query=Rafferty's%20Irish%20Pub&query_place_id=ChIJv5MAqNsM04kR8KFLHkEb4Vc&center=42.9197658,-78.78454690000001"
     },
     {
       "name": "Crown Fried Chicken & Pizza (Halal)",
@@ -78,6 +98,36 @@
       "name": "Pine Hill Halal Market & Restaurant",
       "distance": "0.6 mi",
       "url": "https://www.google.com/maps/search/?api=1&query=Pine%20Hill%20Halal%20Market%20%26%20Restaurant&query_place_id=ChIJV_BJ4yMN04kRkcs5GVn_HmQ&center=42.918808999999996,-78.7988869"
+    },
+    {
+      "name": "Dumpling Ramen Eatery",
+      "distance": "0.6 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Dumpling%20Ramen%20Eatery&query_place_id=ChIJ-yIVVUMN04kRVoiVFyieFIc&center=42.907392900000005,-78.7815561"
+    },
+    {
+      "name": "Cinnabon",
+      "distance": "1.4 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Cinnabon&query_place_id=ChIJC7E7i9sN04kR9WTuEgQwlvM&center=42.9135693,-78.76331170000002"
+    },
+    {
+      "name": "Charleys Cheesesteaks",
+      "distance": "1.4 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Charleys%20Cheesesteaks&query_place_id=ChIJJfg5lb0M04kRGmsV7FtZj88&center=42.9135693,-78.76331170000002"
+    },
+    {
+      "name": "Mrs. Fields - Walden Galleria",
+      "distance": "1.4 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Mrs.%20Fields%20-%20Walden%20Galleria&query_place_id=ChIJJys7FMcsDogRWExwsk-qVho&center=42.9125079,-78.7629312"
+    },
+    {
+      "name": "Auntie Anne's",
+      "distance": "1.4 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Auntie%20Anne's&query_place_id=ChIJPYgThnsN04kR4uWylaHbdfY&center=42.912588899999996,-78.7629031"
+    },
+    {
+      "name": "Norfolk",
+      "distance": "1.6 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Norfolk&query_place_id=ChIJhecOIwAN04kRGL-jXVLT4co&center=42.9286294,-78.81553699999999"
     }
   ],
   "dinner": [

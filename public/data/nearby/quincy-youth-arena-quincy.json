@@ -11,6 +11,16 @@
       "url": "https://www.google.com/maps/search/?api=1&query=Wendy's&query_place_id=ChIJ_em9Wk5j44kRqWYSB20kZIY&center=42.253834999999995,-70.9941083"
     },
     {
+      "name": "Dunkin'",
+      "distance": "0.5 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Dunkin'&query_place_id=ChIJW8JJx1hj44kRboQcJQDqgOk&center=42.2625223,-70.98546600000002"
+    },
+    {
+      "name": "Dunkin'",
+      "distance": "0.5 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Dunkin'&query_place_id=ChIJDRClBk9j44kRQ6znDPQH3FY&center=42.252900499999996,-70.9929113"
+    },
+    {
       "name": "Punjab Cafe",
       "distance": "0.6 mi",
       "url": "https://www.google.com/maps/search/?api=1&query=Punjab%20Cafe&query_place_id=ChIJAS-gqEVj44kR9NSPbfw1rVA&center=42.252060799999995,-70.9880159"
@@ -29,9 +39,24 @@
       "name": "Five Guys",
       "distance": "0.7 mi",
       "url": "https://www.google.com/maps/search/?api=1&query=Five%20Guys&query_place_id=ChIJD5RbqLR844kRhqSB2qglYZQ&center=42.2517807,-71.00317079999999"
+    },
+    {
+      "name": "Burger King",
+      "distance": "1.0 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Burger%20King&query_place_id=ChIJ56cOncp844kRxOFPEYVUCdc&center=42.2477498,-71.0042256"
+    },
+    {
+      "name": "Jersey Mike's Subs",
+      "distance": "1.0 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Jersey%20Mike's%20Subs&query_place_id=ChIJJT4VLpBj44kRV1RmddbhYfY&center=42.2476704,-70.98196589999999"
     }
   ],
   "coffee": [
+    {
+      "name": "McDonald's",
+      "distance": "0.4 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=McDonald's&query_place_id=ChIJ4ZsFylJj44kRtoThD-_B5KM&center=42.2544616,-70.99619609999999"
+    },
     {
       "name": "Dunkin'",
       "distance": "0.5 mi",
@@ -78,6 +103,16 @@
       "name": "The Early American",
       "distance": "0.7 mi",
       "url": "https://www.google.com/maps/search/?api=1&query=The%20Early%20American&query_place_id=ChIJTwUPO7J844kRgVjaT2sz2Jk&center=42.2564078,-71.0070791"
+    },
+    {
+      "name": "Bánh Mì Ba Lẹ",
+      "distance": "1.3 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=B%C3%A1nh%20M%C3%AC%20Ba%20L%E1%BA%B9&query_place_id=ChIJV95tDN5j44kR7kOTTpqY1wc&center=42.2403981,-70.9918568"
+    },
+    {
+      "name": "Seyu Mack Tenn Bakery",
+      "distance": "1.5 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Seyu%20Mack%20Tenn%20Bakery&query_place_id=ChIJ-SMYirl944kR86j2o5l2mYk&center=42.266239,-71.021227"
     }
   ],
   "dinner": [

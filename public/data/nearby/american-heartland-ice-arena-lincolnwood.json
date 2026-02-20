@@ -6,9 +6,19 @@
       "url": "https://www.google.com/maps/search/?api=1&query=TBK%20GRILL&query_place_id=ChIJKdpCHx3PD4gRIkMKW2CbCKo&center=42.018854999999995,-87.74800619999999"
     },
     {
+      "name": "Dunkin'",
+      "distance": "0.6 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Dunkin'&query_place_id=ChIJU0jODt7OD4gRty2fbshVtVU&center=42.0122375,-87.75738609999999"
+    },
+    {
       "name": "Popeyes Louisiana Kitchen",
       "distance": "0.6 mi",
       "url": "https://www.google.com/maps/search/?api=1&query=Popeyes%20Louisiana%20Kitchen&query_place_id=ChIJmX4VMwDPD4gRc8THvdE-gWk&center=42.012226,-87.75797639999999"
+    },
+    {
+      "name": "Dunkin'",
+      "distance": "0.7 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Dunkin'&query_place_id=ChIJ6z7Eye_OD4gR7zpC_hvJG38&center=42.004805999999995,-87.747553"
     },
     {
       "name": "Burger King",
@@ -21,9 +31,24 @@
       "url": "https://www.google.com/maps/search/?api=1&query=Sandwich%20Club&query_place_id=ChIJeS5eIAbPD4gRCP1X2-0FbdY&center=42.0258975,-87.7406091"
     },
     {
-      "name": "Chuck E. Cheese",
+      "name": "Subway",
       "distance": "0.9 mi",
-      "url": "https://www.google.com/maps/search/?api=1&query=Chuck%20E.%20Cheese&query_place_id=ChIJR5wV9dvOD4gR_oC7ZEjl1Ps&center=42.0106604,-87.7626269"
+      "url": "https://www.google.com/maps/search/?api=1&query=Subway&query_place_id=ChIJO79y0xnPD4gRxMwLXykKl28&center=42.02606,-87.754058"
+    },
+    {
+      "name": "Burger Buz",
+      "distance": "1.0 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Burger%20Buz&query_place_id=ChIJC9LuWwDPD4gR7TpxrgiUtkw&center=42.0114826,-87.7264712"
+    },
+    {
+      "name": "Jimmy John's",
+      "distance": "1.1 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Jimmy%20John's&query_place_id=ChIJoTm5FdfOD4gRx8L7bbRdKtw&center=42.0132755,-87.768057"
+    },
+    {
+      "name": "Buona",
+      "distance": "1.2 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Buona&query_place_id=ChIJn-IApv_PD4gRyn1N2EinfxY&center=42.0126065,-87.7233225"
     }
   ],
   "coffee": [
@@ -51,6 +76,26 @@
       "name": "Starbucks Coffee Company",
       "distance": "0.6 mi",
       "url": "https://www.google.com/maps/search/?api=1&query=Starbucks%20Coffee%20Company&query_place_id=ChIJBcCI3t3OD4gRiPzj9NaS9RI&center=42.0115357,-87.75814679999999"
+    },
+    {
+      "name": "Dunkin'",
+      "distance": "0.7 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Dunkin'&query_place_id=ChIJ6z7Eye_OD4gR7zpC_hvJG38&center=42.004805999999995,-87.747553"
+    },
+    {
+      "name": "Qahwah House Coffee - Skokie",
+      "distance": "0.7 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Qahwah%20House%20Coffee%20-%20Skokie&query_place_id=ChIJCxSWLp7PD4gRNrRFo9ZCMuw&center=42.0124012,-87.7591944"
+    },
+    {
+      "name": "McDonald's",
+      "distance": "0.8 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=McDonald's&query_place_id=ChIJKbCNVdnOD4gRP-Ezmt3marw&center=42.0124211,-87.76223569999999"
+    },
+    {
+      "name": "Kneads & Wants Artisan Bakery and Cafe",
+      "distance": "1.0 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Kneads%20%26%20Wants%20Artisan%20Bakery%20and%20Cafe&query_place_id=ChIJNa0i5Q7PD4gRDRoa2AGdrvo&center=42.0276548,-87.75471440000001"
     }
   ],
   "team_lunch": [
@@ -58,11 +103,6 @@
       "name": "Bonchon Skokie",
       "distance": "0.7 mi",
       "url": "https://www.google.com/maps/search/?api=1&query=Bonchon%20Skokie&query_place_id=ChIJ3Zf5p83PD4gRARjTYSb3qKE&center=42.0115504,-87.7591168"
-    },
-    {
-      "name": "Bar Louie - Skokie Holiday Inn North Shore",
-      "distance": "0.7 mi",
-      "url": "https://www.google.com/maps/search/?api=1&query=Bar%20Louie%20-%20Skokie%20Holiday%20Inn%20North%20Shore&query_place_id=ChIJXyNwp97OD4gRqXKkpzQoGcc&center=42.0129314,-87.76040859999999"
     },
     {
       "name": "Irene's Baking Co.",

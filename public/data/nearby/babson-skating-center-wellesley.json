@@ -1,14 +1,19 @@
 {
   "quick_bite": [
     {
+      "name": "Dunkin'",
+      "distance": "0.3 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Dunkin'&query_place_id=ChIJjZTZ-EGB44kRfhhKlIsjTb4&center=42.2969354,-71.2634133"
+    },
+    {
       "name": "Market Sandwich",
       "distance": "1.2 mi",
       "url": "https://www.google.com/maps/search/?api=1&query=Market%20Sandwich&query_place_id=ChIJlUusbuCB44kRppOr1Nvex4o&center=42.3024723,-71.2856975"
     },
     {
-      "name": "QDOBA Mexican Eats",
+      "name": "Dunkin'",
       "distance": "1.3 mi",
-      "url": "https://www.google.com/maps/search/?api=1&query=QDOBA%20Mexican%20Eats&query_place_id=ChIJF3B4XbSG44kRvdruZ41B3HQ&center=42.3000616,-71.2909269"
+      "url": "https://www.google.com/maps/search/?api=1&query=Dunkin'&query_place_id=ChIJeU3ZXLOG44kRx_F5anrs-BY&center=42.3015274,-71.28873639999999"
     },
     {
       "name": "Subway",
@@ -56,6 +61,16 @@
       "name": "Quebrada Baking Company",
       "distance": "1.4 mi",
       "url": "https://www.google.com/maps/search/?api=1&query=Quebrada%20Baking%20Company&query_place_id=ChIJCwiMneKD44kR9QEtdanf1l8&center=42.3128301,-71.273487"
+    },
+    {
+      "name": "McDonald's",
+      "distance": "2.0 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=McDonald's&query_place_id=ChIJgQJkmamB44kRibQUjbK1Beg&center=42.2742893,-71.2375009"
+    },
+    {
+      "name": "McDonald's",
+      "distance": "2.6 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=McDonald's&query_place_id=ChIJrwDqTceD44kR8E_wtEoWn4g&center=42.33039,-71.25466999999999"
     }
   ],
   "team_lunch": [

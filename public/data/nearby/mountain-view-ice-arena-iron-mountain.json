@@ -3,44 +3,74 @@
     {
       "name": "Carlos Cantina",
       "distance": "0.3 mi",
-      "url": "https://www.google.com/maps/search/Carlos%20Cantina+near+45.820268999999996%2C-88.058435"
+      "url": "https://www.google.com/maps/search/?api=1&query=Carlos%20Cantina&query_place_id=ChIJ5UQrRIVLUk0RRvR0dfhaIdw&center=45.820392399999996,-88.0647262"
     },
     {
       "name": "Antonio's",
       "distance": "0.4 mi",
-      "url": "https://www.google.com/maps/search/Antonio's+near+45.820268999999996%2C-88.058435"
+      "url": "https://www.google.com/maps/search/?api=1&query=Antonio's&query_place_id=ChIJY5ycBYVLUk0RG2r77y1sXvk&center=45.8192746,-88.0658899"
     },
     {
       "name": "Hardee's",
       "distance": "0.4 mi",
-      "url": "https://www.google.com/maps/search/Hardee's+near+45.820268999999996%2C-88.058435"
+      "url": "https://www.google.com/maps/search/?api=1&query=Hardee's&query_place_id=ChIJ3-1NUZdLUk0R-CMBm2ncFBw&center=45.8259708,-88.06245969999999"
     },
     {
       "name": "Wendy's",
       "distance": "0.5 mi",
-      "url": "https://www.google.com/maps/search/Wendy's+near+45.820268999999996%2C-88.058435"
+      "url": "https://www.google.com/maps/search/?api=1&query=Wendy's&query_place_id=ChIJc5iPG4ZLUk0R_2FCv0eEZrk&center=45.814982099999995,-88.0640258"
+    },
+    {
+      "name": "Dunkin'",
+      "distance": "0.5 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Dunkin'&query_place_id=ChIJtyqD5i9LUk0R2KZeUVN1ATw&center=45.8134989,-88.0615114"
     },
     {
       "name": "Sip n Savor",
       "distance": "0.5 mi",
-      "url": "https://www.google.com/maps/search/Sip%20n%20Savor+near+45.820268999999996%2C-88.058435"
+      "url": "https://www.google.com/maps/search/?api=1&query=Sip%20n%20Savor&query_place_id=ChIJyewT8nJLUk0Ry3h8Qoj_8Xg&center=45.827393099999995,-88.0568856"
+    },
+    {
+      "name": "Iron Mountain A&W LLC",
+      "distance": "0.8 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Iron%20Mountain%20A%26W%20LLC&query_place_id=ChIJYYZWhb1LUk0RQ-9I_gib2qY&center=45.831164699999995,-88.0598128"
+    },
+    {
+      "name": "Taco Bell",
+      "distance": "0.9 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Taco%20Bell&query_place_id=ChIJgUAoLHVMUk0RIae5Wd5sXv4&center=45.8083096,-88.0504417"
+    },
+    {
+      "name": "Subway",
+      "distance": "1.0 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Subway&query_place_id=ChIJpdmwzgtMUk0ROdJ3kTIKw4M&center=45.8085807,-88.0473921"
+    },
+    {
+      "name": "Subway",
+      "distance": "1.3 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Subway&query_place_id=ChIJZfAcoHxMUk0Rv1LeFfBru-E&center=45.8030276,-88.069244"
     }
   ],
   "coffee": [
     {
       "name": "Moose Jackson Cafe",
       "distance": "0.3 mi",
-      "url": "https://www.google.com/maps/search/Moose%20Jackson%20Cafe+near+45.820268999999996%2C-88.058435"
+      "url": "https://www.google.com/maps/search/?api=1&query=Moose%20Jackson%20Cafe&query_place_id=ChIJuTzno4VLUk0RBhz-zOicmpw&center=45.8182639,-88.06425"
     },
     {
       "name": "Bes.Teas Tea Stand",
       "distance": "0.5 mi",
-      "url": "https://www.google.com/maps/search/Bes.Teas%20Tea%20Stand+near+45.820268999999996%2C-88.058435"
+      "url": "https://www.google.com/maps/search/?api=1&query=Bes.Teas%20Tea%20Stand&query_place_id=ChIJ__cTnhdLUk0R_feYYV-VSxE&center=45.81892980000001,-88.0680241"
     },
     {
       "name": "Dunkin'",
       "distance": "0.5 mi",
-      "url": "https://www.google.com/maps/search/Dunkin'+near+45.820268999999996%2C-88.058435"
+      "url": "https://www.google.com/maps/search/?api=1&query=Dunkin'&query_place_id=ChIJtyqD5i9LUk0R2KZeUVN1ATw&center=45.8134989,-88.0615114"
+    },
+    {
+      "name": "McDonald's",
+      "distance": "0.6 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=McDonald's&query_place_id=ChIJ2xbh4olLUk0RQVR3OMeqO4M&center=45.8118488,-88.0607562"
     }
   ],
   "team_lunch": [],

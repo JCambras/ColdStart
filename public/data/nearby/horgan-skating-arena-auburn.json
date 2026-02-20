@@ -1,14 +1,14 @@
 {
   "quick_bite": [
     {
-      "name": "Outback Steakhouse",
-      "distance": "0.3 mi",
-      "url": "https://www.google.com/maps/search/?api=1&query=Outback%20Steakhouse&query_place_id=ChIJDfU1JFMD5IkRWy5Q10Dslo0&center=42.199227799999996,-71.8417248"
-    },
-    {
       "name": "Arby's",
       "distance": "0.5 mi",
       "url": "https://www.google.com/maps/search/?api=1&query=Arby's&query_place_id=ChIJu2OispME5IkRk4jQWq4bxRY&center=42.2028751,-71.8385146"
+    },
+    {
+      "name": "Dunkin'",
+      "distance": "0.6 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Dunkin'&query_place_id=ChIJD3sJV5IE5IkRAEf8rAdMy-Q&center=42.203906599999996,-71.83722120000002"
     },
     {
       "name": "Subway",
@@ -24,6 +24,31 @@
       "name": "Subway",
       "distance": "0.9 mi",
       "url": "https://www.google.com/maps/search/?api=1&query=Subway&query_place_id=ChIJTSww4owE5IkRCKCQD6Je-n8&center=42.2084267,-71.8347367"
+    },
+    {
+      "name": "Major League Roast Beef & Wings",
+      "distance": "1.0 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Major%20League%20Roast%20Beef%20%26%20Wings&query_place_id=ChIJydg2GrgE5IkRBenEDZjrl_g&center=42.1867629,-71.83432260000001"
+    },
+    {
+      "name": "Wendy's",
+      "distance": "1.1 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Wendy's&query_place_id=ChIJ8chbjVUD5IkR5CngchjD7kQ&center=42.1842763,-71.8586778"
+    },
+    {
+      "name": "Taco Bell / KFC",
+      "distance": "1.8 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Taco%20Bell%20%2F%20KFC&query_place_id=ChIJGR-qfLIc5IkRAnlE-YIkTdk&center=42.1798393,-71.8704611"
+    },
+    {
+      "name": "Subway",
+      "distance": "2.5 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Subway&query_place_id=ChIJSaBKxrgc5IkR594Nz3ES_Wk&center=42.1705617,-71.8787234"
+    },
+    {
+      "name": "Subway",
+      "distance": "2.7 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Subway&query_place_id=ChIJRaaekKgF5IkRJXJAuAiQPOo&center=42.2114488,-71.7967382"
     }
   ],
   "coffee": [
@@ -48,9 +73,19 @@
       "url": "https://www.google.com/maps/search/?api=1&query=Fusion%20Cafe%20%26%20Gelateria&query_place_id=ChIJDWEwApME5IkRppCSJ8mg0v8&center=42.202629699999996,-71.8354025"
     },
     {
+      "name": "McDonald's",
+      "distance": "0.9 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=McDonald's&query_place_id=ChIJ6fQi-4wE5IkRHmeEmMEl87c&center=42.2087705,-71.83564070000001"
+    },
+    {
       "name": "Rocco's Doughnut Company",
       "distance": "1.4 mi",
       "url": "https://www.google.com/maps/search/?api=1&query=Rocco's%20Doughnut%20Company&query_place_id=ChIJS3d5ME0D5IkRo7LcCAztt6A&center=42.1832993,-71.8640485"
+    },
+    {
+      "name": "McDonald's",
+      "distance": "2.8 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=McDonald's&query_place_id=ChIJ1zc9kagF5IkRxcOaCiXopLE&center=42.2113067,-71.7958481"
     }
   ],
   "team_lunch": [
@@ -70,19 +105,14 @@
       "url": "https://www.google.com/maps/search/?api=1&query=Matt%E2%80%99s%20Golden%20Pizza&query_place_id=ChIJ6Wmp1NkF5IkRRxEh44W1FeY&center=42.2041489,-71.83200550000001"
     },
     {
-      "name": "Yong Shing Restaurant",
-      "distance": "0.9 mi",
-      "url": "https://www.google.com/maps/search/?api=1&query=Yong%20Shing%20Restaurant&query_place_id=ChIJCThS9owE5IkRqNXq8SR-rCk&center=42.2089651,-71.8362472"
-    },
-    {
-      "name": "Applebee's Grill + Bar",
-      "distance": "1.1 mi",
-      "url": "https://www.google.com/maps/search/?api=1&query=Applebee's%20Grill%20%2B%20Bar&query_place_id=ChIJsYJE61UD5IkRe4WGy1txAYo&center=42.184531899999996,-71.8581885"
-    },
-    {
       "name": "D'Angelo Grilled Sandwiches",
       "distance": "1.2 mi",
       "url": "https://www.google.com/maps/search/?api=1&query=D'Angelo%20Grilled%20Sandwiches&query_place_id=ChIJG4-jp1UD5IkR3Xoynf9wypI&center=42.183715,-71.85814309999999"
+    },
+    {
+      "name": "Bagel Factory",
+      "distance": "2.7 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Bagel%20Factory&query_place_id=ChIJUSIqpKgF5IkRDV-SiwrmoNs&center=42.2132894,-71.7982103"
     }
   ],
   "dinner": [

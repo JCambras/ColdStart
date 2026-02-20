@@ -16,14 +16,29 @@
       "url": "https://www.google.com/maps/search/?api=1&query=SFC%20Seoul%20Fried%20Chicken%20-%20Hackensack&query_place_id=ChIJG2VyXg37wokRd2claby0IfY&center=40.885126199999995,-74.04248079999999"
     },
     {
-      "name": "El Alazan Bar Restaurant",
-      "distance": "0.3 mi",
-      "url": "https://www.google.com/maps/search/?api=1&query=El%20Alazan%20Bar%20Restaurant&query_place_id=ChIJXc5xY1n7wokRmAPCg4ig1-8&center=40.8861686,-74.0414361"
-    },
-    {
       "name": "Wendy's",
       "distance": "0.3 mi",
       "url": "https://www.google.com/maps/search/?api=1&query=Wendy's&query_place_id=ChIJ55VzZQD5wokR88pbYUeqF_0&center=40.8786821,-74.0352898"
+    },
+    {
+      "name": "Subway",
+      "distance": "0.4 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Subway&query_place_id=ChIJLeJa3gT6wokROeGAMERzTN4&center=40.8888521,-74.04041289999999"
+    },
+    {
+      "name": "Blazin Chicken & Gyro Hackensack",
+      "distance": "0.6 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Blazin%20Chicken%20%26%20Gyro%20Hackensack&query_place_id=ChIJfUTde5n5wokRCC0ODCiz1tU&center=40.874215199999995,-74.04060009999999"
+    },
+    {
+      "name": "The Sushi Boy",
+      "distance": "0.8 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=The%20Sushi%20Boy&query_place_id=ChIJCULsu1X5wokR7yltHSE2bec&center=40.8746023,-74.0478672"
+    },
+    {
+      "name": "Subway",
+      "distance": "0.8 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Subway&query_place_id=ChIJazE6FKbwwokR_d12LKC-a-o&center=40.8904376,-74.0252774"
     }
   ],
   "coffee": [
@@ -41,6 +56,16 @@
       "name": "Hackensack Ice Cream & Coffee Shop Restaurant",
       "distance": "0.3 mi",
       "url": "https://www.google.com/maps/search/?api=1&query=Hackensack%20Ice%20Cream%20%26%20Coffee%20Shop%20Restaurant&query_place_id=ChIJz2T1Ix36wokRwHp7FCy86D8&center=40.884109300000006,-74.0428663"
+    },
+    {
+      "name": "McDonald's",
+      "distance": "0.4 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=McDonald's&query_place_id=ChIJ2Qi7_wT6wokRQg3AsOLYVKA&center=40.8888056,-74.0391053"
+    },
+    {
+      "name": "McDonald's",
+      "distance": "0.8 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=McDonald's&query_place_id=ChIJ438guPT5wokRcvYtVd_FIeQ&center=40.879602299999995,-74.05279449999999"
     }
   ],
   "team_lunch": [
@@ -65,14 +90,29 @@
       "url": "https://www.google.com/maps/search/?api=1&query=Aura%20Thai%20kitchen&query_place_id=ChIJ1R4YcgD3wokRZwLX7bGYXMk&center=40.884673199999995,-74.0428184"
     },
     {
-      "name": "Gauc Time Mexican Grill",
-      "distance": "0.3 mi",
-      "url": "https://www.google.com/maps/search/?api=1&query=Gauc%20Time%20Mexican%20Grill&query_place_id=ChIJ71kpPwD7wokRJ4MFpnRrGOg&center=40.8853625,-74.0423824"
-    },
-    {
       "name": "Mi Tierrita Restaurant",
       "distance": "0.3 mi",
       "url": "https://www.google.com/maps/search/?api=1&query=Mi%20Tierrita%20Restaurant&query_place_id=ChIJl6ujUgP6wokRiCCfc7NKNG8&center=40.886188399999995,-74.0415362"
+    },
+    {
+      "name": "El Panecillo",
+      "distance": "0.3 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=El%20Panecillo&query_place_id=ChIJEZJ7VAP6wokRf-XuD689bns&center=40.886483399999996,-74.0413576"
+    },
+    {
+      "name": "Colombia Bakery factory Hackensack",
+      "distance": "0.4 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Colombia%20Bakery%20factory%20Hackensack&query_place_id=ChIJk42PHgX6wokR8V1kHn6Jr_o&center=40.8891871,-74.0398809"
+    },
+    {
+      "name": "Venir a comer aquí hacen la tilapia al limon",
+      "distance": "0.7 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Venir%20a%20comer%20aqu%C3%AD%20hacen%20la%20tilapia%20al%20limon&query_place_id=ChIJXTAoGwD5wokRIPGpLvIIOUE&center=40.8820482,-74.0519551"
+    },
+    {
+      "name": "Cookies Pattycakes Hackensack",
+      "distance": "0.8 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Cookies%20Pattycakes%20Hackensack&query_place_id=ChIJ54G9IhP6wokRccn6rRzJZhE&center=40.874420699999995,-74.0293008"
     }
   ],
   "dinner": [

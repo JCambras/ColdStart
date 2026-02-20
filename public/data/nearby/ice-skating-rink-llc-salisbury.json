@@ -1,27 +1,63 @@
 {
   "quick_bite": [
     {
+      "name": "Dunkin'",
+      "distance": "3.6 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Dunkin'&query_place_id=ChIJOxqZHWABuYkR7ti_70pRKto&center=38.3684504,-75.62088849999999",
+      "isFar": true
+    },
+    {
       "name": "Dairy Queen Grill & Chill",
       "distance": "3.6 mi",
-      "url": "https://www.google.com/maps/search/Dairy%20Queen%20Grill%20%26%20Chill+near+38.3606104%2C-75.6863298",
+      "url": "https://www.google.com/maps/search/?api=1&query=Dairy%20Queen%20Grill%20%26%20Chill&query_place_id=ChIJhcGW7d8DuYkRwtkRjDVGbU8&center=38.3684022,-75.61996169999999",
       "isFar": true
     },
     {
       "name": "Subway",
       "distance": "4.0 mi",
-      "url": "https://www.google.com/maps/search/Subway+near+38.3606104%2C-75.6863298",
+      "url": "https://www.google.com/maps/search/?api=1&query=Subway&query_place_id=ChIJ1RCSzskBuYkRwMLRAydgcSs&center=38.3701145,-75.6138508",
       "isFar": true
     },
     {
-      "name": "Soul Sista's Restaurant & Lounge",
-      "distance": "4.0 mi",
-      "url": "https://www.google.com/maps/search/Soul%20Sista's%20Restaurant%20%26%20Lounge+near+38.3606104%2C-75.6863298",
+      "name": "Tony Tank Pizza & Grill",
+      "distance": "4.4 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Tony%20Tank%20Pizza%20%26%20Grill&query_place_id=ChIJRchkDR4FuYkRX4YbkOWDbU4&center=38.3295465,-75.6152589",
       "isFar": true
     },
     {
-      "name": "Chuck E. Cheese",
-      "distance": "7.0 mi",
-      "url": "https://www.google.com/maps/search/Chuck%20E.%20Cheese+near+38.3606104%2C-75.6863298",
+      "name": "Lucky Star",
+      "distance": "4.4 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Lucky%20Star&query_place_id=ChIJW9zCKfIFuYkRT_lU3gcqjHE&center=38.326680499999995,-75.6168306",
+      "isFar": true
+    },
+    {
+      "name": "Chick-fil-A",
+      "distance": "4.4 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Chick-fil-A&query_place_id=ChIJ50oqWwgEuYkRmNafuXuPBBM&center=38.343615,-75.6072265",
+      "isFar": true
+    },
+    {
+      "name": "Chicken Man Grill & Coffee Shop",
+      "distance": "4.5 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Chicken%20Man%20Grill%20%26%20Coffee%20Shop&query_place_id=ChIJyxTX-cMDuYkRdt-fT8lD2sA&center=38.370604,-75.6038246",
+      "isFar": true
+    },
+    {
+      "name": "Jimmy John's",
+      "distance": "4.6 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Jimmy%20John's&query_place_id=ChIJCx3JqQkEuYkR4_odJdNTgUs&center=38.342884399999996,-75.6052084",
+      "isFar": true
+    },
+    {
+      "name": "Subway",
+      "distance": "4.6 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Subway&query_place_id=ChIJtbl7jfMDuYkRownPDQ-rAKg&center=38.3502364,-75.6024678",
+      "isFar": true
+    },
+    {
+      "name": "Jersey Mike's Subs",
+      "distance": "4.6 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Jersey%20Mike's%20Subs&query_place_id=ChIJLTJDLQkEuYkRKCSPPmg4264&center=38.3404241,-75.60525860000001",
       "isFar": true
     }
   ],
@@ -29,19 +65,37 @@
     {
       "name": "Amarin Coffee",
       "distance": "3.6 mi",
-      "url": "https://www.google.com/maps/search/Amarin%20Coffee+near+38.3606104%2C-75.6863298",
+      "url": "https://www.google.com/maps/search/?api=1&query=Amarin%20Coffee&query_place_id=ChIJie5yAwABuYkRpw7J6JVisNE&center=38.367753199999996,-75.6208917",
       "isFar": true
     },
     {
       "name": "Dunkin'",
       "distance": "3.6 mi",
-      "url": "https://www.google.com/maps/search/Dunkin'+near+38.3606104%2C-75.6863298",
+      "url": "https://www.google.com/maps/search/?api=1&query=Dunkin'&query_place_id=ChIJOxqZHWABuYkR7ti_70pRKto&center=38.3684504,-75.62088849999999",
+      "isFar": true
+    },
+    {
+      "name": "McDonald's",
+      "distance": "3.7 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=McDonald's&query_place_id=ChIJnxgjzN8DuYkRu1IrgJH1uos&center=38.3683833,-75.6179684",
       "isFar": true
     },
     {
       "name": "Pemberton Coffeehouse & Bistro",
       "distance": "3.8 mi",
-      "url": "https://www.google.com/maps/search/Pemberton%20Coffeehouse%20%26%20Bistro+near+38.3606104%2C-75.6863298",
+      "url": "https://www.google.com/maps/search/?api=1&query=Pemberton%20Coffeehouse%20%26%20Bistro&query_place_id=ChIJ7dNTR94DuYkREsWQCKcekpE&center=38.3683748,-75.6164539",
+      "isFar": true
+    },
+    {
+      "name": "McDonald's",
+      "distance": "4.5 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=McDonald's&query_place_id=ChIJr9JuMx8EuYkRZWSWBAnqZg4&center=38.3302712,-75.6119248",
+      "isFar": true
+    },
+    {
+      "name": "Bagel Bakery Cafe",
+      "distance": "4.6 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Bagel%20Bakery%20Cafe&query_place_id=ChIJeaKFkvMDuYkRb84rMEfRPhI&center=38.350442199999996,-75.6024176",
       "isFar": true
     }
   ],
@@ -49,31 +103,55 @@
     {
       "name": "Food Lion Bakery",
       "distance": "3.5 mi",
-      "url": "https://www.google.com/maps/search/Food%20Lion%20Bakery+near+38.3606104%2C-75.6863298",
+      "url": "https://www.google.com/maps/search/?api=1&query=Food%20Lion%20Bakery&query_place_id=ChIJh2VLGwABuYkRJTkdIJN_hqI&center=38.3672821,-75.6219237",
       "isFar": true
     },
     {
       "name": "#1 chinese food",
       "distance": "3.5 mi",
-      "url": "https://www.google.com/maps/search/%231%20chinese%20food+near+38.3606104%2C-75.6863298",
+      "url": "https://www.google.com/maps/search/?api=1&query=%231%20chinese%20food&query_place_id=ChIJkdf_eccBuYkRKn52am81_tc&center=38.3674281,-75.6214452",
       "isFar": true
     },
     {
       "name": "Richard J Taylor",
       "distance": "3.7 mi",
-      "url": "https://www.google.com/maps/search/Richard%20J%20Taylor+near+38.3606104%2C-75.6863298",
+      "url": "https://www.google.com/maps/search/?api=1&query=Richard%20J%20Taylor&query_place_id=ChIJSRh263YDuYkRbaSoZHH6g9s&center=38.368511000000005,-75.61802709999999",
       "isFar": true
     },
     {
       "name": "CLASSIC CAKES",
       "distance": "3.8 mi",
-      "url": "https://www.google.com/maps/search/CLASSIC%20CAKES+near+38.3606104%2C-75.6863298",
+      "url": "https://www.google.com/maps/search/?api=1&query=CLASSIC%20CAKES&query_place_id=ChIJg6LcUWoAuYkREHRSD5VHxT4&center=38.4147884,-75.69303649999999",
       "isFar": true
     },
     {
       "name": "China Express",
       "distance": "3.9 mi",
-      "url": "https://www.google.com/maps/search/China%20Express+near+38.3606104%2C-75.6863298",
+      "url": "https://www.google.com/maps/search/?api=1&query=China%20Express&query_place_id=ChIJmc6hqN4DuYkRD843O4kQRCM&center=38.371228599999995,-75.614762",
+      "isFar": true
+    },
+    {
+      "name": "Mercury",
+      "distance": "4.4 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Mercury&query_place_id=ChIJOYJ3RAAFuYkR8ubPNBLISa4&center=38.343999499999995,-75.6083702",
+      "isFar": true
+    },
+    {
+      "name": "Auntie Anne's",
+      "distance": "4.5 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Auntie%20Anne's&query_place_id=ChIJ_VvXH_YDuYkRJ97AuSMCmXw&center=38.3446815,-75.6051794",
+      "isFar": true
+    },
+    {
+      "name": "Tasty Baking Co. Inc.",
+      "distance": "4.6 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Tasty%20Baking%20Co.%20Inc.&query_place_id=ChIJPas0GSEEuYkRklZqSPyDIIc&center=38.322427499999996,-75.6175528",
+      "isFar": true
+    },
+    {
+      "name": "Salisbury Sweets",
+      "distance": "4.6 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Salisbury%20Sweets&query_place_id=ChIJS-WKVBMFuYkRfOtPp9m1p3U&center=38.3357584,-75.6078283",
       "isFar": true
     }
   ],

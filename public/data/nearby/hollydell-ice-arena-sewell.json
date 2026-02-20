@@ -1,6 +1,16 @@
 {
   "quick_bite": [
     {
+      "name": "Dunkin'",
+      "distance": "0.2 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Dunkin'&query_place_id=ChIJLyA0kivXxokRDT3R6IjWa34&center=39.747701899999996,-75.1126783"
+    },
+    {
+      "name": "Wawa",
+      "distance": "1.0 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Wawa&query_place_id=ChIJ2zAbvdnXxokR4be_y5EsFqM&center=39.749316199999996,-75.126307"
+    },
+    {
       "name": "Taco Bell",
       "distance": "1.5 mi",
       "url": "https://www.google.com/maps/search/?api=1&query=Taco%20Bell&query_place_id=ChIJ9cYLnKrXxokRlc-H0AkexRA&center=39.7250363,-75.1164613"
@@ -19,6 +29,11 @@
       "name": "Wendy's",
       "distance": "1.8 mi",
       "url": "https://www.google.com/maps/search/?api=1&query=Wendy's&query_place_id=ChIJMRJrkLfQxokR1TS6cdk1YiE&center=39.7633254,-75.13334689999999"
+    },
+    {
+      "name": "Wawa",
+      "distance": "1.8 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Wawa&query_place_id=ChIJ8ZbOLkzRxokRzYXMdba2KzU&center=39.7513862,-75.07596459999999"
     }
   ],
   "coffee": [
@@ -26,6 +41,11 @@
       "name": "Dunkin'",
       "distance": "0.2 mi",
       "url": "https://www.google.com/maps/search/?api=1&query=Dunkin'&query_place_id=ChIJLyA0kivXxokRDT3R6IjWa34&center=39.747701899999996,-75.1126783"
+    },
+    {
+      "name": "Wawa",
+      "distance": "1.0 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Wawa&query_place_id=ChIJ2zAbvdnXxokR4be_y5EsFqM&center=39.749316199999996,-75.126307"
     },
     {
       "name": "Endgrain Coffee Roasters",
@@ -36,19 +56,19 @@
       "name": "Crave Pitman",
       "distance": "1.5 mi",
       "url": "https://www.google.com/maps/search/?api=1&query=Crave%20Pitman&query_place_id=ChIJYbkVEnXXxokRzdFaRqvv4zg&center=39.7329629,-75.1312003"
+    },
+    {
+      "name": "Wawa",
+      "distance": "1.8 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Wawa&query_place_id=ChIJ8ZbOLkzRxokRzYXMdba2KzU&center=39.7513862,-75.07596459999999"
+    },
+    {
+      "name": "Ry's Bagels",
+      "distance": "1.8 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Ry's%20Bagels&query_place_id=ChIJ3zAvrxzXxokRd1GtEFmGDtY&center=39.7202694,-75.1121098"
     }
   ],
   "team_lunch": [
-    {
-      "name": "Dunlop's Bar & Grill",
-      "distance": "0.1 mi",
-      "url": "https://www.google.com/maps/search/?api=1&query=Dunlop's%20Bar%20%26%20Grill&query_place_id=ChIJqXONvZzXxokRxB7u1hTBIhs&center=39.745919099999995,-75.10887509999999"
-    },
-    {
-      "name": "White Pine Tavern",
-      "distance": "0.6 mi",
-      "url": "https://www.google.com/maps/search/?api=1&query=White%20Pine%20Tavern&query_place_id=ChIJqbP8QP3RxokR69Grz5G2xIo&center=39.7534181,-75.1015003"
-    },
     {
       "name": "Kakes By Kendall",
       "distance": "0.7 mi",

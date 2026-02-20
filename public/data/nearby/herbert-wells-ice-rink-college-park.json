@@ -3,77 +3,126 @@
     {
       "name": "Paisano's Pizza",
       "distance": "0.8 mi",
-      "url": "https://www.google.com/maps/search/Paisano's%20Pizza+near+38.976301299999996%2C-76.92309689999999"
+      "url": "https://www.google.com/maps/search/?api=1&query=Paisano's%20Pizza&query_place_id=ChIJDcZ3Zb_Gt4kRM5aYJgCYBvw&center=38.977814699999996,-76.93752529999999"
     },
     {
       "name": "Cluck U Chicken Corporate MD",
       "distance": "0.8 mi",
-      "url": "https://www.google.com/maps/search/Cluck%20U%20Chicken%20Corporate%20MD+near+38.976301299999996%2C-76.92309689999999"
+      "url": "https://www.google.com/maps/search/?api=1&query=Cluck%20U%20Chicken%20Corporate%20MD&query_place_id=ChIJbZqf4EHdt4kRdvpCLFYxdm0&center=38.979048,-76.93734599999999"
     },
     {
       "name": "Jersey Mike's Subs",
       "distance": "0.8 mi",
-      "url": "https://www.google.com/maps/search/Jersey%20Mike's%20Subs+near+38.976301299999996%2C-76.92309689999999"
+      "url": "https://www.google.com/maps/search/?api=1&query=Jersey%20Mike's%20Subs&query_place_id=ChIJkeEMfL3Ht4kRlQhuQpAErVg&center=38.9704394,-76.9367506"
     },
     {
       "name": "Little Blue Menu",
       "distance": "0.8 mi",
-      "url": "https://www.google.com/maps/search/Little%20Blue%20Menu+near+38.976301299999996%2C-76.92309689999999"
+      "url": "https://www.google.com/maps/search/?api=1&query=Little%20Blue%20Menu&query_place_id=ChIJq5zUNpzHt4kRNGMSaPmnN5k&center=38.9790731,-76.9382966"
     },
     {
-      "name": "Chuck E. Cheese",
-      "distance": "3.7 mi",
-      "url": "https://www.google.com/maps/search/Chuck%20E.%20Cheese+near+38.976301299999996%2C-76.92309689999999",
-      "isFar": true
+      "name": "Subway",
+      "distance": "0.8 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Subway&query_place_id=ChIJF4CtmGrHt4kRyiLDqrp4n_k&center=38.979781599999995,-76.9381628"
+    },
+    {
+      "name": "Raising Cane's Chicken Fingers",
+      "distance": "0.9 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Raising%20Cane's%20Chicken%20Fingers&query_place_id=ChIJaTaez1nHt4kR8PAqw0aE7Fc&center=38.9809826,-76.938134"
+    },
+    {
+      "name": "Potbelly",
+      "distance": "0.9 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Potbelly&query_place_id=ChIJS-ADib7Gt4kR9jQuDJV2mUI&center=38.981705,-76.93814499999999"
+    },
+    {
+      "name": "Five Guys",
+      "distance": "0.9 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Five%20Guys&query_place_id=ChIJjS_g-HTHt4kRG5smpSmXnV8&center=38.980681000000004,-76.939072"
+    },
+    {
+      "name": "Subway",
+      "distance": "1.2 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Subway&query_place_id=ChIJH0PNrJXGt4kRcTxKWlC34BQ&center=38.988967699999996,-76.9395443"
     }
   ],
   "coffee": [
     {
       "name": "Kwon's Food Service, LLC",
       "distance": "0.3 mi",
-      "url": "https://www.google.com/maps/search/Kwon's%20Food%20Service%2C%20LLC+near+38.976301299999996%2C-76.92309689999999"
+      "url": "https://www.google.com/maps/search/?api=1&query=Kwon's%20Food%20Service%2C%20LLC&query_place_id=ChIJvR8DTcbHt4kRENozLqX62ho&center=38.9718187,-76.9240516"
     },
     {
       "name": "Cafe Atrio",
       "distance": "0.5 mi",
-      "url": "https://www.google.com/maps/search/Cafe%20Atrio+near+38.976301299999996%2C-76.92309689999999"
+      "url": "https://www.google.com/maps/search/?api=1&query=Cafe%20Atrio&query_place_id=ChIJxeqoD9vHt4kR_oeA3kpLIz8&center=38.9688565,-76.92301069999999"
     },
     {
       "name": "SARVIS CAFÉ",
       "distance": "0.7 mi",
-      "url": "https://www.google.com/maps/search/SARVIS%20CAF%C3%89+near+38.976301299999996%2C-76.92309689999999"
+      "url": "https://www.google.com/maps/search/?api=1&query=SARVIS%20CAF%C3%89&query_place_id=ChIJZXo93-TBt4kRJWos2WF5q5Y&center=38.9692583,-76.91456269999999"
     },
     {
       "name": "Shop Made in MD",
       "distance": "0.8 mi",
-      "url": "https://www.google.com/maps/search/Shop%20Made%20in%20MD+near+38.976301299999996%2C-76.92309689999999"
+      "url": "https://www.google.com/maps/search/?api=1&query=Shop%20Made%20in%20MD&query_place_id=ChIJqQF49RLHt4kR5nohAhkVNNc&center=38.9809217,-76.93732659999999"
     },
     {
       "name": "LI CHUN CAFE",
       "distance": "0.8 mi",
-      "url": "https://www.google.com/maps/search/LI%20CHUN%20CAFE+near+38.976301299999996%2C-76.92309689999999"
+      "url": "https://www.google.com/maps/search/?api=1&query=LI%20CHUN%20CAFE&query_place_id=ChIJ-b_FbWTHt4kR8m_ms9y8Y5o&center=38.981129599999996,-76.9373669"
+    },
+    {
+      "name": "Duck Donuts",
+      "distance": "0.9 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Duck%20Donuts&query_place_id=ChIJkUihF7fHt4kRyYMzjgowarI&center=38.981683,-76.938812"
+    },
+    {
+      "name": "Bagels ‘n Grinds",
+      "distance": "1.0 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Bagels%20%E2%80%98n%20Grinds&query_place_id=ChIJWzY1qbzGt4kRGXBy50A7BIQ&center=38.9869603,-76.9359379"
+    },
+    {
+      "name": "McDonald's",
+      "distance": "1.2 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=McDonald's&query_place_id=ChIJEaD0otTGt4kRLEibEVRArgc&center=38.9594349,-76.9194315"
+    },
+    {
+      "name": "McDonald's",
+      "distance": "1.2 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=McDonald's&query_place_id=ChIJ56ZHo93Gt4kRoEMCVSBDOfw&center=38.9642191,-76.9395315"
+    },
+    {
+      "name": "McDonald's",
+      "distance": "1.2 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=McDonald's&query_place_id=ChIJbRRYj6bGt4kROBFtfwBDDbs&center=38.9921576,-76.93299379999999"
     }
   ],
   "team_lunch": [
     {
       "name": "Don's Cafe",
       "distance": "0.5 mi",
-      "url": "https://www.google.com/maps/search/Don's%20Cafe+near+38.976301299999996%2C-76.92309689999999"
+      "url": "https://www.google.com/maps/search/?api=1&query=Don's%20Cafe&query_place_id=ChIJYaVWuPLHt4kRZU3Vi-KNDcM&center=38.970101299999996,-76.9258636"
     },
     {
       "name": "Ritchie's Colombian Restaurant",
       "distance": "0.8 mi",
-      "url": "https://www.google.com/maps/search/Ritchie's%20Colombian%20Restaurant+near+38.976301299999996%2C-76.92309689999999"
-    },
-    {
-      "name": "RJ Bentley's",
-      "distance": "0.8 mi",
-      "url": "https://www.google.com/maps/search/RJ%20Bentley's+near+38.976301299999996%2C-76.92309689999999"
+      "url": "https://www.google.com/maps/search/?api=1&query=Ritchie's%20Colombian%20Restaurant&query_place_id=ChIJRzoNaI7Ht4kRtgfXkjk85wU&center=38.9800877,-76.9376971"
     },
     {
       "name": "Aroy Thai Restaurant",
       "distance": "0.8 mi",
-      "url": "https://www.google.com/maps/search/Aroy%20Thai%20Restaurant+near+38.976301299999996%2C-76.92309689999999"
+      "url": "https://www.google.com/maps/search/?api=1&query=Aroy%20Thai%20Restaurant&query_place_id=ChIJMZBYmL7Gt4kRujc46bTPhtU&center=38.9818013,-76.9370938"
+    },
+    {
+      "name": "Whole Foods Bakery",
+      "distance": "0.9 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Whole%20Foods%20Bakery&query_place_id=ChIJ0-PlDwDHt4kRgu8GaRqbXdo&center=38.969052999999995,-76.9367801"
+    },
+    {
+      "name": "Cake Art Gallery",
+      "distance": "0.9 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Cake%20Art%20Gallery&query_place_id=ChIJTU4gZL7Gt4kRI-lK-oodgTQ&center=38.9816005,-76.9388371"
     }
   ],
   "dinner": [

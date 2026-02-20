@@ -1,14 +1,9 @@
 {
   "quick_bite": [
     {
-      "name": "Olive Garden Italian Restaurant",
-      "distance": "1.3 mi",
-      "url": "https://www.google.com/maps/search/?api=1&query=Olive%20Garden%20Italian%20Restaurant&query_place_id=ChIJ45gwRvX044kRl_Qx3VvZXXk&center=42.352509,-71.61587399999999"
-    },
-    {
-      "name": "LongHorn Steakhouse",
-      "distance": "1.7 mi",
-      "url": "https://www.google.com/maps/search/?api=1&query=LongHorn%20Steakhouse&query_place_id=ChIJOyzceMP044kRsSMT-GbA3rc&center=42.340802,-71.588706"
+      "name": "Dunkin'",
+      "distance": "1.5 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Dunkin'&query_place_id=ChIJL5Xx12P044kRzJQUU4fPUPA&center=42.357039199999996,-71.6239951"
     },
     {
       "name": "Five Guys",
@@ -29,6 +24,31 @@
       "name": "Taco Bell / KFC",
       "distance": "1.8 mi",
       "url": "https://www.google.com/maps/search/?api=1&query=Taco%20Bell%20%2F%20KFC&query_place_id=ChIJ8VFwcbCM44kR6Fum2ILBXG4&center=42.3719392,-71.5615557"
+    },
+    {
+      "name": "Mochiko Hawaiian Fried Chicken Ghost Kitchen",
+      "distance": "1.8 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Mochiko%20Hawaiian%20Fried%20Chicken%20Ghost%20Kitchen&query_place_id=ChIJjy8HA_T144kR03oy4vr6W1M&center=42.338919399999995,-71.5882286"
+    },
+    {
+      "name": "Wendy's",
+      "distance": "1.8 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Wendy's&query_place_id=ChIJE_OKjcT044kRfkKcQjFgMOU&center=42.33869500000001,-71.589084"
+    },
+    {
+      "name": "Jersey Mike's Subs",
+      "distance": "1.9 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Jersey%20Mike's%20Subs&query_place_id=ChIJ45fHOc_044kRjLTk_Fqd27E&center=42.3399937,-71.58252569999999"
+    },
+    {
+      "name": "Jersey Mike's Subs",
+      "distance": "2.0 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Jersey%20Mike's%20Subs&query_place_id=ChIJ0eAZIJ3z44kRS9eMiKhYoVo&center=42.3932599,-71.598647"
+    },
+    {
+      "name": "Subway",
+      "distance": "2.0 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Subway&query_place_id=ChIJ82fXXrCM44kR3MbU4Qm3IGg&center=42.372972,-71.559313"
     }
   ],
   "coffee": [
@@ -53,9 +73,19 @@
       "url": "https://www.google.com/maps/search/?api=1&query=Panera%20Bread&query_place_id=ChIJSdD4YsP044kRjQhIr4QW2lo&center=42.340328,-71.5913133"
     },
     {
+      "name": "McDonald's",
+      "distance": "1.8 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=McDonald's&query_place_id=ChIJk1PWEcb044kRRXonFGLlImg&center=42.3396329,-71.588447"
+    },
+    {
       "name": "Honey Dew Donuts",
       "distance": "1.8 mi",
       "url": "https://www.google.com/maps/search/?api=1&query=Honey%20Dew%20Donuts&query_place_id=ChIJgc1pibWM44kRQtMzWQxNYF8&center=42.381474999999995,-71.5686389"
+    },
+    {
+      "name": "McDonald's",
+      "distance": "1.8 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=McDonald's&query_place_id=ChIJH8P_cc2M44kRz-9bF41N2HU&center=42.3821134,-71.5690506"
     }
   ],
   "team_lunch": [
@@ -80,14 +110,14 @@
       "url": "https://www.google.com/maps/search/?api=1&query=Ruby%20Thai%20Kitchen&query_place_id=ChIJTdx9HIv044kRzKmr1hpn-oM&center=42.3554271,-71.6127643"
     },
     {
-      "name": "All-Star Bar & Grill",
-      "distance": "1.6 mi",
-      "url": "https://www.google.com/maps/search/?api=1&query=All-Star%20Bar%20%26%20Grill&query_place_id=ChIJvbbm0tz044kRXKaRqWw4TnI&center=42.3422991,-71.5904801"
-    },
-    {
       "name": "Gerardos Bakery Marlborough",
       "distance": "1.9 mi",
       "url": "https://www.google.com/maps/search/?api=1&query=Gerardos%20Bakery%20Marlborough&query_place_id=ChIJS89Nk6D144kRMfyk5zwu61c&center=42.337762399999995,-71.5893201"
+    },
+    {
+      "name": "Walmart Bakery",
+      "distance": "2.0 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Walmart%20Bakery&query_place_id=ChIJq6qqXbqM44kRaaKCnK-2CD0&center=42.3729018,-71.5588568"
     }
   ],
   "dinner": [

@@ -16,9 +16,39 @@
       "url": "https://www.google.com/maps/search/?api=1&query=Burger%20King&query_place_id=ChIJJ9b9DHyPD4gRHUUzl2GxY5E&center=42.390108399999995,-87.95522869999999"
     },
     {
-      "name": "Buffalo Wild Wings",
+      "name": "Sbarro Gurnee Mills",
       "distance": "0.3 mi",
-      "url": "https://www.google.com/maps/search/?api=1&query=Buffalo%20Wild%20Wings&query_place_id=ChIJBY-j9iKOD4gRhd2EVp4jVLI&center=42.387690299999996,-87.957365"
+      "url": "https://www.google.com/maps/search/?api=1&query=Sbarro%20Gurnee%20Mills&query_place_id=ChIJJR17PCOOD4gRSoVpBuZGYD8&center=42.387946899999996,-87.95570719999999"
+    },
+    {
+      "name": "Subway",
+      "distance": "0.3 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Subway&query_place_id=ChIJCwkqAgCPD4gRH_ZVzOj2clU&center=42.3878566,-87.9555774"
+    },
+    {
+      "name": "Taco Bell",
+      "distance": "0.5 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Taco%20Bell&query_place_id=ChIJvce3SzuOD4gRdW-DcG7-dxc&center=42.3856845,-87.9592042"
+    },
+    {
+      "name": "Five Guys",
+      "distance": "0.5 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Five%20Guys&query_place_id=ChIJ_yUyvSSOD4gRw9F5zcEoBZ8&center=42.385025999999996,-87.957712"
+    },
+    {
+      "name": "Chick-fil-A",
+      "distance": "0.5 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Chick-fil-A&query_place_id=ChIJIxrZHTCOD4gRJz8ty6KHVSU&center=42.386224899999995,-87.96382299999999"
+    },
+    {
+      "name": "Jersey Mike's Subs",
+      "distance": "0.5 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Jersey%20Mike's%20Subs&query_place_id=ChIJyey9H9CPD4gRvrurJZ5RU1U&center=42.384893,-87.9579007"
+    },
+    {
+      "name": "Subway",
+      "distance": "0.5 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Subway&query_place_id=ChIJDTNjKC6OD4gR_B_ES3vWv-s&center=42.388189499999996,-87.9665838"
     }
   ],
   "coffee": [
@@ -26,6 +56,11 @@
       "name": "Starbucks Coffee Company",
       "distance": "0.3 mi",
       "url": "https://www.google.com/maps/search/?api=1&query=Starbucks%20Coffee%20Company&query_place_id=ChIJv8Sj_oyPD4gRJnASBdLxWzg&center=42.38913,-87.95537"
+    },
+    {
+      "name": "McDonald's",
+      "distance": "0.5 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=McDonald's&query_place_id=ChIJ41NLMTuOD4gRLC407AQTxZs&center=42.385984,-87.959542"
     }
   ],
   "team_lunch": [
@@ -53,6 +88,26 @@
       "name": "China Experience",
       "distance": "0.2 mi",
       "url": "https://www.google.com/maps/search/?api=1&query=China%20Experience&query_place_id=ChIJ34cocACPD4gRaANMuvFiyUY&center=42.390108399999995,-87.95522869999999"
+    },
+    {
+      "name": "Auntie Anne's",
+      "distance": "0.2 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Auntie%20Anne's&query_place_id=ChIJJR17PCOOD4gRIhgdvZSz9eo&center=42.3892824,-87.95751489999999"
+    },
+    {
+      "name": "Yihi Japan",
+      "distance": "0.3 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Yihi%20Japan&query_place_id=ChIJ46KjhDiPD4gRrygCIU7mric&center=42.3877252,-87.95612799999999"
+    },
+    {
+      "name": "Charleys Cheesesteaks",
+      "distance": "0.4 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Charleys%20Cheesesteaks&query_place_id=ChIJJR17PCOOD4gRcYQroTVYiPs&center=42.387572999999996,-87.9559365"
+    },
+    {
+      "name": "Walmart Bakery",
+      "distance": "0.5 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Walmart%20Bakery&query_place_id=ChIJ03vzCzGOD4gRUFBcUEeE5ic&center=42.388440599999996,-87.96632029999999"
     }
   ],
   "dinner": [

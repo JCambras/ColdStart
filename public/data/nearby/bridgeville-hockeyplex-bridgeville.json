@@ -1,11 +1,6 @@
 {
   "quick_bite": [
     {
-      "name": "Chuck E. Cheese",
-      "distance": "0.2 mi",
-      "url": "https://www.google.com/maps/search/?api=1&query=Chuck%20E.%20Cheese&query_place_id=ChIJx5b0BvpXNIgR0tfuqmRSU04&center=40.3644074,-80.11039269999999"
-    },
-    {
       "name": "Subway",
       "distance": "0.2 mi",
       "url": "https://www.google.com/maps/search/?api=1&query=Subway&query_place_id=ChIJrdPSgvpXNIgR79vitUFTPnM&center=40.3646969,-80.1109773"
@@ -19,6 +14,41 @@
       "name": "Sonic Drive-In",
       "distance": "0.2 mi",
       "url": "https://www.google.com/maps/search/?api=1&query=Sonic%20Drive-In&query_place_id=ChIJX3CbxPtXNIgRr3Ehxv9J6uc&center=40.3654568,-80.10964"
+    },
+    {
+      "name": "Masala House Indian Bistro",
+      "distance": "0.3 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Masala%20House%20Indian%20Bistro&query_place_id=ChIJmV1usGdXNIgRD8auxt-1IXc&center=40.3584384,-80.1123798"
+    },
+    {
+      "name": "Dunkin'",
+      "distance": "0.4 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Dunkin'&query_place_id=ChIJ_Q9huvtXNIgRGs6aQJrX8No&center=40.366661199999996,-80.1054377"
+    },
+    {
+      "name": "Jersey Mike's Subs",
+      "distance": "0.5 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Jersey%20Mike's%20Subs&query_place_id=ChIJZ9FJPflXNIgRSQefDzyiOCs&center=40.3682097,-80.1049501"
+    },
+    {
+      "name": "Wendy's",
+      "distance": "0.5 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Wendy's&query_place_id=ChIJwzpEAP9XNIgRpRltOgtaTas&center=40.3680276,-80.1041159"
+    },
+    {
+      "name": "Jimmy John's",
+      "distance": "0.6 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Jimmy%20John's&query_place_id=ChIJt1-C_-lXNIgRJuthlPaaMiA&center=40.353269499999996,-80.113002"
+    },
+    {
+      "name": "Five Guys",
+      "distance": "0.7 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Five%20Guys&query_place_id=ChIJ_RrNTOtXNIgRzAJXQIjCy4w&center=40.3581417,-80.12088609999999"
+    },
+    {
+      "name": "Taco Bell",
+      "distance": "0.7 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Taco%20Bell&query_place_id=ChIJd8OXYGhXNIgRqILnoHb5tFw&center=40.3562,-80.1197"
     }
   ],
   "coffee": [
@@ -43,9 +73,19 @@
       "url": "https://www.google.com/maps/search/?api=1&query=LaBella%20Bean%20Coffee%20House%20%26%20Eatery&query_place_id=ChIJoY-PGOlXNIgRz0fduRkM9Z0&center=40.3571385,-80.1127533"
     },
     {
+      "name": "McDonald's",
+      "distance": "0.7 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=McDonald's&query_place_id=ChIJwcj4-OlXNIgRGcOIKtCsuEQ&center=40.3536749,-80.1146694"
+    },
+    {
       "name": "Bartram House Cafe and Bakery",
       "distance": "0.8 mi",
       "url": "https://www.google.com/maps/search/?api=1&query=Bartram%20House%20Cafe%20and%20Bakery&query_place_id=ChIJidxlQKhXNIgRvcBm1IN9pw4&center=40.356243299999996,-80.1226276"
+    },
+    {
+      "name": "Emma's Kafe & Deli",
+      "distance": "1.7 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Emma's%20Kafe%20%26%20Deli&query_place_id=ChIJOQ6qjaz5NIgRlekIQMhhOCs&center=40.346193,-80.0830825"
     }
   ],
   "team_lunch": [
@@ -55,19 +95,9 @@
       "url": "https://www.google.com/maps/search/?api=1&query=Doce%20Taqueria%20Bridgeville&query_place_id=ChIJQVFmhkRXNIgRoc-rm_GK4sg&center=40.366571199999996,-80.1087001"
     },
     {
-      "name": "Burgh's Pizza & Wing Pub",
-      "distance": "0.4 mi",
-      "url": "https://www.google.com/maps/search/?api=1&query=Burgh's%20Pizza%20%26%20Wing%20Pub&query_place_id=ChIJdx0KJelXNIgRXqfC9pKc_bU&center=40.3575447,-80.1124547"
-    },
-    {
       "name": "Philly Pretzel Factory",
       "distance": "0.6 mi",
       "url": "https://www.google.com/maps/search/?api=1&query=Philly%20Pretzel%20Factory&query_place_id=ChIJS-jilP5XNIgRBOE7L3cUlM4&center=40.368508299999995,-80.10220939999999"
-    },
-    {
-      "name": "Primanti Bros. Restaurant and Bar",
-      "distance": "0.8 mi",
-      "url": "https://www.google.com/maps/search/?api=1&query=Primanti%20Bros.%20Restaurant%20and%20Bar&query_place_id=ChIJCUPo5a9XNIgRVKCYLeKHEE8&center=40.3563003,-80.1225509"
     }
   ],
   "dinner": [

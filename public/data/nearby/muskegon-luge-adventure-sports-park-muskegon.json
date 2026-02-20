@@ -3,31 +3,37 @@
     {
       "name": "Lakeside Pizza Company",
       "distance": "4.5 mi",
-      "url": "https://www.google.com/maps/search/Lakeside%20Pizza%20Company+near+43.262219599999995%2C-86.3558535",
+      "url": "https://www.google.com/maps/search/?api=1&query=Lakeside%20Pizza%20Company&query_place_id=ChIJg1A0oNTXG4gRx7VhtjKpGtY&center=43.215363200000006,-86.2930034",
       "isFar": true
     },
     {
       "name": "Slappy's Slaw Dog and Sandwich",
       "distance": "4.6 mi",
-      "url": "https://www.google.com/maps/search/Slappy's%20Slaw%20Dog%20and%20Sandwich+near+43.262219599999995%2C-86.3558535",
+      "url": "https://www.google.com/maps/search/?api=1&query=Slappy's%20Slaw%20Dog%20and%20Sandwich&query_place_id=ChIJjcovBADXG4gRPzpnobsSLVc&center=43.2164766,-86.2890824",
       "isFar": true
     },
     {
       "name": "Subway",
       "distance": "4.6 mi",
-      "url": "https://www.google.com/maps/search/Subway+near+43.262219599999995%2C-86.3558535",
+      "url": "https://www.google.com/maps/search/?api=1&query=Subway&query_place_id=ChIJJTdUelvWG4gR0YmZb4HbCkI&center=43.2165701,-86.2889549",
       "isFar": true
     },
     {
       "name": "Great Loop Pizza",
       "distance": "4.8 mi",
-      "url": "https://www.google.com/maps/search/Great%20Loop%20Pizza+near+43.262219599999995%2C-86.3558535",
+      "url": "https://www.google.com/maps/search/?api=1&query=Great%20Loop%20Pizza&query_place_id=ChIJef6aZ0TXG4gRBgadc1DU35A&center=43.206046199999996,-86.3010409",
       "isFar": true
     },
     {
       "name": "Bernie O's Pizza",
       "distance": "4.8 mi",
-      "url": "https://www.google.com/maps/search/Bernie%20O's%20Pizza+near+43.262219599999995%2C-86.3558535",
+      "url": "https://www.google.com/maps/search/?api=1&query=Bernie%20O's%20Pizza&query_place_id=ChIJhTyNY_zXG4gREZ5pD6IGQDE&center=43.261545399999996,-86.26071960000002",
+      "isFar": true
+    },
+    {
+      "name": "Mr. Scrib's Pizza",
+      "distance": "4.8 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Mr.%20Scrib's%20Pizza&query_place_id=ChIJS_peKgTYG4gRsoMQKi5uBTI&center=43.275066699999996,-86.26215839999999",
       "isFar": true
     }
   ],
@@ -35,19 +41,19 @@
     {
       "name": "Blue Pineapple Café",
       "distance": "4.6 mi",
-      "url": "https://www.google.com/maps/search/Blue%20Pineapple%20Caf%C3%A9+near+43.262219599999995%2C-86.3558535",
+      "url": "https://www.google.com/maps/search/?api=1&query=Blue%20Pineapple%20Caf%C3%A9&query_place_id=ChIJ3UVy9FjXG4gRpsypzFZ4HNY&center=43.216034500000006,-86.29096659999999",
       "isFar": true
     },
     {
       "name": "The Gooleyguk Cafe",
       "distance": "4.6 mi",
-      "url": "https://www.google.com/maps/search/The%20Gooleyguk%20Cafe+near+43.262219599999995%2C-86.3558535",
+      "url": "https://www.google.com/maps/search/?api=1&query=The%20Gooleyguk%20Cafe&query_place_id=ChIJuZDIeXvXG4gRVSSOQ7L9uyw&center=43.2164407,-86.2890539",
       "isFar": true
     },
     {
       "name": "Bean & Bloom Coffeeshop",
       "distance": "4.8 mi",
-      "url": "https://www.google.com/maps/search/Bean%20%26%20Bloom%20Coffeeshop+near+43.262219599999995%2C-86.3558535",
+      "url": "https://www.google.com/maps/search/?api=1&query=Bean%20%26%20Bloom%20Coffeeshop&query_place_id=ChIJj78AyKzXG4gRxFbpC1p1DGY&center=43.2617547,-86.2601701",
       "isFar": true
     }
   ],

@@ -1,6 +1,11 @@
 {
   "quick_bite": [
     {
+      "name": "Dunkin'",
+      "distance": "0.2 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Dunkin'&query_place_id=ChIJe94ZArJAykwRYJcuMHYvwUc&center=44.6810572,-73.4490667"
+    },
+    {
       "name": "Burger King",
       "distance": "0.3 mi",
       "url": "https://www.google.com/maps/search/?api=1&query=Burger%20King&query_place_id=ChIJkQcv_bBAykwRyi_0MY-Nz44&center=44.6815478,-73.4484985"
@@ -19,6 +24,21 @@
       "name": "Burger King",
       "distance": "1.7 mi",
       "url": "https://www.google.com/maps/search/?api=1&query=Burger%20King&query_place_id=ChIJbwoB5504ykwRBrkOyJrAzl0&center=44.6972113,-73.47647940000002"
+    },
+    {
+      "name": "Subway",
+      "distance": "1.9 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Subway&query_place_id=ChIJ_fkM23xHykwRNKYu9I-x3lA&center=44.69265070000001,-73.48667739999999"
+    },
+    {
+      "name": "Taco Bell",
+      "distance": "2.0 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Taco%20Bell&query_place_id=ChIJhaHohmJHykwR0PyXFslMrpc&center=44.6966775,-73.48421309999999"
+    },
+    {
+      "name": "Jersey Mike's Subs",
+      "distance": "2.0 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Jersey%20Mike's%20Subs&query_place_id=ChIJR5HAppJHykwRMzgshwsj5vo&center=44.6953076,-73.4869272"
     }
   ],
   "coffee": [
@@ -28,9 +48,19 @@
       "url": "https://www.google.com/maps/search/?api=1&query=Dunkin'&query_place_id=ChIJe94ZArJAykwRYJcuMHYvwUc&center=44.6810572,-73.4490667"
     },
     {
+      "name": "Adirondack Fox Brewery",
+      "distance": "0.4 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Adirondack%20Fox%20Brewery&query_place_id=ChIJ0RlFbvdBykwRVGdL4cD9bWQ&center=44.6831734,-73.44739009999999"
+    },
+    {
       "name": "Einstein Bros. Bagels",
       "distance": "1.5 mi",
       "url": "https://www.google.com/maps/search/?api=1&query=Einstein%20Bros.%20Bagels&query_place_id=ChIJ02AuG6E4ykwR5xa-T33rfqc&center=44.6972373,-73.46774839999999"
+    },
+    {
+      "name": "McDonald's",
+      "distance": "1.9 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=McDonald's&query_place_id=ChIJmdGPeJ04ykwRAFYg88yiZ9M&center=44.6967025,-73.4815268"
     }
   ],
   "team_lunch": [
@@ -58,6 +88,11 @@
       "name": "In The Mix Bakeshop",
       "distance": "1.3 mi",
       "url": "https://www.google.com/maps/search/?api=1&query=In%20The%20Mix%20Bakeshop&query_place_id=ChIJH_h_GH85ykwR5Tc64BAH58U&center=44.6970569,-73.45256429999999"
+    },
+    {
+      "name": "Auntie Anne's",
+      "distance": "1.9 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Auntie%20Anne's&query_place_id=ChIJJfxGo2RHykwRCzcZf50aZ20&center=44.6926913,-73.4865516"
     }
   ],
   "dinner": [

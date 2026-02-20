@@ -1,6 +1,16 @@
 {
   "quick_bite": [
     {
+      "name": "Dunkin'",
+      "distance": "0.3 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Dunkin'&query_place_id=ChIJfY4kvYV044kRp3BE7D7rLI4&center=42.4809853,-71.1076029"
+    },
+    {
+      "name": "Dunkin'",
+      "distance": "0.4 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Dunkin'&query_place_id=ChIJ0-11O4t044kRM6dhVop5qPU&center=42.479912399999996,-71.12006629999999"
+    },
+    {
       "name": "Boston Meals Inc",
       "distance": "0.4 mi",
       "url": "https://www.google.com/maps/search/?api=1&query=Boston%20Meals%20Inc&query_place_id=ChIJT7rpJYt044kR-825ywES8H8&center=42.47928460000001,-71.1204838"
@@ -19,9 +29,34 @@
       "name": "Anthony's Italian Specialties",
       "distance": "0.7 mi",
       "url": "https://www.google.com/maps/search/?api=1&query=Anthony's%20Italian%20Specialties&query_place_id=ChIJb4tYMoJ044kRWhLAiKLNCXk&center=42.4788311,-71.0999382"
+    },
+    {
+      "name": "Burger King",
+      "distance": "0.8 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Burger%20King&query_place_id=ChIJgewCi55044kRX5Plec4RRtc&center=42.4888291,-71.1006269"
+    },
+    {
+      "name": "Subway",
+      "distance": "0.9 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Subway&query_place_id=ChIJBb3ngHF144kR-hVspj9teBY&center=42.488704899999995,-71.0997749"
+    },
+    {
+      "name": "Jersey Mike's Subs",
+      "distance": "1.2 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Jersey%20Mike's%20Subs&query_place_id=ChIJeTkfjk9z44kRc9VhSdQhDhE&center=42.496488,-71.10127349999999"
+    },
+    {
+      "name": "Five Guys",
+      "distance": "1.2 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Five%20Guys&query_place_id=ChIJg6EkLKF044kRcPVqDo9yujc&center=42.496500999999995,-71.10113"
     }
   ],
   "coffee": [
+    {
+      "name": "McDonald's",
+      "distance": "0.3 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=McDonald's&query_place_id=ChIJLQsXu4t044kRhJg-tqYVkVU&center=42.4792091,-71.1173165"
+    },
     {
       "name": "Dunkin'",
       "distance": "0.3 mi",
@@ -46,6 +81,11 @@
       "name": "Kushala Sip Coffee House",
       "distance": "0.7 mi",
       "url": "https://www.google.com/maps/search/?api=1&query=Kushala%20Sip%20Coffee%20House&query_place_id=ChIJebDOA4N044kRTF9tP-qE6OY&center=42.480827,-71.100399"
+    },
+    {
+      "name": "Kennedy’s Cafe",
+      "distance": "0.7 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Kennedy%E2%80%99s%20Cafe&query_place_id=ChIJnzdrvB1z44kRZGAtuZekSCs&center=42.479999799999995,-71.1000462"
     }
   ],
   "team_lunch": [

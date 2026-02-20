@@ -19,6 +19,36 @@
       "name": "Chick-fil-A",
       "distance": "0.3 mi",
       "url": "https://www.google.com/maps/search/?api=1&query=Chick-fil-A&query_place_id=ChIJoesYn-2tw4kR6_jg6NHlF6E&center=40.690891099999995,-74.2909104"
+    },
+    {
+      "name": "Burger King",
+      "distance": "0.3 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Burger%20King&query_place_id=ChIJz_5cLwGuw4kRdaC7TjPO1TM&center=40.69012420000001,-74.2914131"
+    },
+    {
+      "name": "American Melts",
+      "distance": "0.5 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=American%20Melts&query_place_id=ChIJX4131fCtw4kRtoGoUg-_2RA&center=40.6854136,-74.29843869999999"
+    },
+    {
+      "name": "Wendy's",
+      "distance": "0.6 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Wendy's&query_place_id=ChIJo4CKMO6tw4kRuKEJ8Fj0eWo&center=40.6890046,-74.30579660000001"
+    },
+    {
+      "name": "Taco Bell",
+      "distance": "0.7 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Taco%20Bell&query_place_id=ChIJ-8ssEe6tw4kRUFICKOeuRmU&center=40.6886553,-74.3081789"
+    },
+    {
+      "name": "Dairy Queen Grill & Chill",
+      "distance": "0.8 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Dairy%20Queen%20Grill%20%26%20Chill&query_place_id=ChIJj__tR8Gtw4kRvuyRRTFAGTY&center=40.7041014,-74.29286139999999"
+    },
+    {
+      "name": "Snack Bar",
+      "distance": "0.8 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Snack%20Bar&query_place_id=ChIJByhQUACtw4kR13-CfyK5G4c&center=40.6869436,-74.30897709999999"
     }
   ],
   "coffee": [
@@ -31,6 +61,11 @@
       "name": "Starbucks",
       "distance": "0.1 mi",
       "url": "https://www.google.com/maps/search/?api=1&query=Starbucks&query_place_id=ChIJKzVlVQCtw4kR6RgOywPfXRA&center=40.6909553,-74.2955448"
+    },
+    {
+      "name": "McDonald's",
+      "distance": "0.2 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=McDonald's&query_place_id=ChIJH3I5W3Wtw4kR93QP1Q7-LX8&center=40.6896191,-74.2951606"
     },
     {
       "name": "Freedom Coffee Shop serving Black Rifle Coffee",
@@ -73,6 +108,21 @@
       "name": "Teriyaki One Japanese Grill (Teriyaki & Sushi)",
       "distance": "0.3 mi",
       "url": "https://www.google.com/maps/search/?api=1&query=Teriyaki%20One%20Japanese%20Grill%20(Teriyaki%20%26%20Sushi)&query_place_id=ChIJjyFjJlatw4kRdEgLgvOhCsY&center=40.69023130000001,-74.29041629999999"
+    },
+    {
+      "name": "Super Bread II Corporation",
+      "distance": "0.5 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Super%20Bread%20II%20Corporation&query_place_id=ChIJb9ABx_Otw4kRPbsj94JKIhU&center=40.6865446,-74.2928924"
+    },
+    {
+      "name": "Bagel Spot",
+      "distance": "0.8 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Bagel%20Spot&query_place_id=ChIJU3YyPWutw4kRBggfC9-KHfU&center=40.7049552,-74.2961917"
+    },
+    {
+      "name": "Lenny & John Subs",
+      "distance": "1.0 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Lenny%20%26%20John%20Subs&query_place_id=ChIJAQAAAAuyw4kRXyZGbKs7jPk&center=40.6793364,-74.3003737"
     }
   ],
   "dinner": [

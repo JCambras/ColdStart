@@ -6,16 +6,6 @@
       "url": "https://www.google.com/maps/search/?api=1&query=Dai%20Hachi%20Sushi%20in%20Long%20Island%20City&query_place_id=ChIJE5GZsSZZwokROeICD1qRrGg&center=40.7463629,-73.9530458"
     },
     {
-      "name": "Centro Pizza Bar & Italian Kitchen",
-      "distance": "0.1 mi",
-      "url": "https://www.google.com/maps/search/?api=1&query=Centro%20Pizza%20Bar%20%26%20Italian%20Kitchen&query_place_id=ChIJjVQ6DCRZwokRfxCMy-8Hh74&center=40.7449462,-73.95322519999999"
-    },
-    {
-      "name": "Enjoy a stylish experience at this centrally-located place in LIC",
-      "distance": "0.2 mi",
-      "url": "https://www.google.com/maps/search/?api=1&query=Enjoy%20a%20stylish%20experience%20at%20this%20centrally-located%20place%20in%20LIC&query_place_id=ChIJowc0nyNZwokRptBGba3Nt4o&center=40.7439957,-73.9549713"
-    },
-    {
       "name": "Bbq chicken & pub",
       "distance": "0.2 mi",
       "url": "https://www.google.com/maps/search/?api=1&query=Bbq%20chicken%20%26%20pub&query_place_id=ChIJEx0wRwBZwokRz67ldX6XCOQ&center=40.7428258,-73.95350859999999"
@@ -29,14 +19,19 @@
       "name": "Red Cup Cafe",
       "distance": "0.3 mi",
       "url": "https://www.google.com/maps/search/?api=1&query=Red%20Cup%20Cafe&query_place_id=ChIJKz0OeShZwokRyehlp5I8m3M&center=40.747982,-73.947623"
+    },
+    {
+      "name": "Koi Sushi + Poke",
+      "distance": "0.3 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Koi%20Sushi%20%2B%20Poke&query_place_id=ChIJZ7MXmuNZwokRRjHnzKDXxlU&center=40.7449276,-73.9464945"
+    },
+    {
+      "name": "Chubby Wings",
+      "distance": "0.3 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Chubby%20Wings&query_place_id=ChIJucTVvBdZwokRM42TBg-vsEQ&center=40.7442688,-73.9588066"
     }
   ],
   "coffee": [
-    {
-      "name": "Manducatis Rustica VIG",
-      "distance": "0.1 mi",
-      "url": "https://www.google.com/maps/search/?api=1&query=Manducatis%20Rustica%20VIG&query_place_id=ChIJUfJxHSRZwokRd6i76q8PA4c&center=40.745833,-73.9529025"
-    },
     {
       "name": "Overflow Coffee",
       "distance": "0.1 mi",
@@ -56,14 +51,34 @@
       "name": "Taste Crème",
       "distance": "0.2 mi",
       "url": "https://www.google.com/maps/search/?api=1&query=Taste%20Cr%C3%A8me&query_place_id=ChIJFRkd7MNZwokROaHV0dA-f2Y&center=40.744401599999996,-73.94964639999999"
+    },
+    {
+      "name": "The Oasis Cafe LIC",
+      "distance": "0.2 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=The%20Oasis%20Cafe%20LIC&query_place_id=ChIJE5-BPwBZwokR0p7W6sEhH8o&center=40.7435878,-73.9542592"
+    },
+    {
+      "name": "Somedays Bakery - LIC",
+      "distance": "0.2 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Somedays%20Bakery%20-%20LIC&query_place_id=ChIJ0XKsJwBZwokR8u0A8E3Az-M&center=40.7463467,-73.95683609999999"
+    },
+    {
+      "name": "51st Bakery & Cafe",
+      "distance": "0.3 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=51st%20Bakery%20%26%20Cafe&query_place_id=ChIJEXL6PiNZwokROfdoZndnsR4&center=40.7424014,-73.9553413"
+    },
+    {
+      "name": "Bricktown Bagels & Cafe",
+      "distance": "0.3 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Bricktown%20Bagels%20%26%20Cafe&query_place_id=ChIJGXvwRSNZwokRRXKtRwFNqKY&center=40.7418251,-73.9546495"
+    },
+    {
+      "name": "Black Star Bakery & Cafe",
+      "distance": "0.3 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Black%20Star%20Bakery%20%26%20Cafe&query_place_id=ChIJQ6KEkiJZwokRK6EXNqceW68&center=40.7434077,-73.9581451"
     }
   ],
   "team_lunch": [
-    {
-      "name": "Chairman Sun",
-      "distance": "0.1 mi",
-      "url": "https://www.google.com/maps/search/?api=1&query=Chairman%20Sun&query_place_id=ChIJuZHHT5hZwokRfDSJHmaJkzc&center=40.744661199999996,-73.9536219"
-    },
     {
       "name": "We Bagel & Lunch",
       "distance": "0.1 mi",

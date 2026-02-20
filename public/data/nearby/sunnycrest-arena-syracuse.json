@@ -24,13 +24,28 @@
       "name": "Conway wings",
       "distance": "1.2 mi",
       "url": "https://www.google.com/maps/search/?api=1&query=Conway%20wings&query_place_id=ChIJeZsgJKPz2YkRON6gHNOU6VQ&center=43.0743446,-76.1226654"
+    },
+    {
+      "name": "Subway",
+      "distance": "1.4 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Subway&query_place_id=ChIJKTM3s6Hz2YkROVy1umdTtQ4&center=43.042096,-76.1347191"
+    },
+    {
+      "name": "Five Guys",
+      "distance": "1.5 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Five%20Guys&query_place_id=ChIJNcsivAjz2YkRFjC5LYzzHMs&center=43.042118599999995,-76.1361176"
+    },
+    {
+      "name": "Wendy's",
+      "distance": "1.5 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Wendy's&query_place_id=ChIJ-bit5Mvy2YkRj6SsMekHgl0&center=43.069055299999995,-76.09118500000001"
     }
   ],
   "coffee": [
     {
-      "name": "The Palace Commons",
+      "name": "McDonald's",
       "distance": "0.7 mi",
-      "url": "https://www.google.com/maps/search/?api=1&query=The%20Palace%20Commons&query_place_id=ChIJFxDu5-jy2YkRCXQ1GIMpJBk&center=43.0682901,-76.1131011"
+      "url": "https://www.google.com/maps/search/?api=1&query=McDonald's&query_place_id=ChIJfWDpHCHz2YkRnQLht5GJIV0&center=43.053080099999995,-76.10469619999999"
     },
     {
       "name": "CRACKED BEAN ROASTERY & CAFE",
@@ -41,6 +56,11 @@
       "name": "Starbucks Coffee Company",
       "distance": "0.8 mi",
       "url": "https://www.google.com/maps/search/?api=1&query=Starbucks%20Coffee%20Company&query_place_id=ChIJjwJxRCfz2YkRRSm-E96Gap4&center=43.05478,-76.10217"
+    },
+    {
+      "name": "McDonald's",
+      "distance": "1.0 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=McDonald's&query_place_id=ChIJxcBnLfLy2YkRx7e4z_dnLnU&center=43.072693,-76.1223775"
     },
     {
       "name": "Tous les Jours Syracuse",
@@ -75,9 +95,14 @@
       "url": "https://www.google.com/maps/search/?api=1&query=Asian%20Palace&query_place_id=ChIJtwJx9Q_z2YkROcm9M6_PvRQ&center=43.0484043,-76.121698"
     },
     {
-      "name": "The Kitchen (TK)",
-      "distance": "0.8 mi",
-      "url": "https://www.google.com/maps/search/?api=1&query=The%20Kitchen%20(TK)&query_place_id=ChIJp9RxUIXz2YkR6Q7W4hDu_xs&center=43.0687781,-76.1110992"
+      "name": "Farm to Market Bread",
+      "distance": "1.3 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Farm%20to%20Market%20Bread&query_place_id=ChIJTc98t6bz2YkRbTmMU6_pxYc&center=43.046099,-76.1362104"
+    },
+    {
+      "name": "Collegetown Bagels",
+      "distance": "1.4 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Collegetown%20Bagels&query_place_id=ChIJTcMTPoLz2YkRkyOhkyQd5QY&center=43.0417748,-76.1346793"
     }
   ],
   "dinner": [

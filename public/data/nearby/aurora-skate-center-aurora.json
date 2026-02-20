@@ -29,6 +29,26 @@
       "name": "Sonic Drive-In",
       "distance": "1.0 mi",
       "url": "https://www.google.com/maps/search/?api=1&query=Sonic%20Drive-In&query_place_id=ChIJ733KHPjwDogRGLec4iMocr8&center=41.7177808,-88.2843891"
+    },
+    {
+      "name": "Burger King",
+      "distance": "1.3 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Burger%20King&query_place_id=ChIJuyNJxbvwDogR38E9ffii5ik&center=41.7331394,-88.25889769999999"
+    },
+    {
+      "name": "El Tison",
+      "distance": "1.4 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=El%20Tison&query_place_id=ChIJdf5J7oP6DogRTdEbZZNyATs&center=41.752254,-88.290685"
+    },
+    {
+      "name": "Genoa Italian Concessions",
+      "distance": "1.4 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Genoa%20Italian%20Concessions&query_place_id=ChIJ0TmaEADxDogRCzqVcFwHJpA&center=41.7129298,-88.2951925"
+    },
+    {
+      "name": "Wendy's",
+      "distance": "1.8 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Wendy's&query_place_id=ChIJ81C-363wDogRehwxfeIaSSU&center=41.7394902,-88.2504608"
     }
   ],
   "coffee": [
@@ -41,6 +61,16 @@
       "name": "Starbucks Coffee Company",
       "distance": "0.9 mi",
       "url": "https://www.google.com/maps/search/?api=1&query=Starbucks%20Coffee%20Company&query_place_id=ChIJ9zHaSwDxDogRhdBzK6HBunY&center=41.71922,-88.28316"
+    },
+    {
+      "name": "McDonald's",
+      "distance": "1.7 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=McDonald's&query_place_id=ChIJ65lTHK7wDogRSQ1fZaUQ_4Q&center=41.737482,-88.251763"
+    },
+    {
+      "name": "McDonald's",
+      "distance": "1.7 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=McDonald's&query_place_id=ChIJ_6PJOJn6DogRdU5bfY_UmaY&center=41.7538558,-88.30091"
     }
   ],
   "team_lunch": [
@@ -73,6 +103,26 @@
       "name": "Fermin Salmeron LLC",
       "distance": "1.5 mi",
       "url": "https://www.google.com/maps/search/?api=1&query=Fermin%20Salmeron%20LLC&query_place_id=ChIJzQT5KnXwDogRGsZYBCvhmoE&center=41.7459515,-88.3055961"
+    },
+    {
+      "name": "Bakked By Lys",
+      "distance": "1.6 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Bakked%20By%20Lys&query_place_id=ChIJE_PxYIbxDogRk01wk1lLIdo&center=41.709999100000005,-88.27371629999999"
+    },
+    {
+      "name": "A Girl & Her Mixer Bakery",
+      "distance": "1.8 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=A%20Girl%20%26%20Her%20Mixer%20Bakery&query_place_id=ChIJ9f3dkcT7DogRveq9aRBCd58&center=41.7563294,-88.2733192"
+    },
+    {
+      "name": "Cinco de Mayo bakery",
+      "distance": "1.8 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Cinco%20de%20Mayo%20bakery&query_place_id=ChIJZymg5aD6DogRrVIl2kS4cJ8&center=41.7501438,-88.3078793"
+    },
+    {
+      "name": "La Chicanita Bakery",
+      "distance": "1.8 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=La%20Chicanita%20Bakery&query_place_id=ChIJPYVBPZn6DogR76AzDqmh-wM&center=41.75457,-88.3009386"
     }
   ],
   "dinner": [

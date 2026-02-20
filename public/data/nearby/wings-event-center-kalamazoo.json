@@ -3,66 +3,81 @@
     {
       "name": "Jimmy John's",
       "distance": "0.2 mi",
-      "url": "https://www.google.com/maps/search/Jimmy%20John's+near+42.253986499999996%2C-85.53578569999999"
+      "url": "https://www.google.com/maps/search/?api=1&query=Jimmy%20John's&query_place_id=ChIJ5bqvNm6cF4gRYYxKvs7WeA4&center=42.254973299999996,-85.5313552"
     },
     {
       "name": "Wendy's",
       "distance": "0.3 mi",
-      "url": "https://www.google.com/maps/search/Wendy's+near+42.253986499999996%2C-85.53578569999999"
+      "url": "https://www.google.com/maps/search/?api=1&query=Wendy's&query_place_id=ChIJVbDR4G-cF4gRwNsbNVwLt3Q&center=42.2509314,-85.5313724"
     },
     {
       "name": "Subway",
       "distance": "0.4 mi",
-      "url": "https://www.google.com/maps/search/Subway+near+42.253986499999996%2C-85.53578569999999"
+      "url": "https://www.google.com/maps/search/?api=1&query=Subway&query_place_id=ChIJW6_vgm2cF4gRONixbKT1DeM&center=42.250189299999995,-85.531215"
     },
     {
       "name": "Arby's",
       "distance": "0.6 mi",
-      "url": "https://www.google.com/maps/search/Arby's+near+42.253986499999996%2C-85.53578569999999"
+      "url": "https://www.google.com/maps/search/?api=1&query=Arby's&query_place_id=ChIJTdR9y2WcF4gR5tpYf-AjgSw&center=42.2617439,-85.53267919999999"
     },
     {
       "name": "Que Buenos - Portage",
       "distance": "0.7 mi",
-      "url": "https://www.google.com/maps/search/Que%20Buenos%20-%20Portage+near+42.253986499999996%2C-85.53578569999999"
+      "url": "https://www.google.com/maps/search/?api=1&query=Que%20Buenos%20-%20Portage&query_place_id=ChIJ7zrALMadF4gRe-Ffbj-rq5k&center=42.2445571,-85.53137939999999"
     },
     {
       "name": "Taco Bell",
       "distance": "1.0 mi",
-      "url": "https://www.google.com/maps/search/Taco%20Bell+near+42.253986499999996%2C-85.53578569999999"
+      "url": "https://www.google.com/maps/search/?api=1&query=Taco%20Bell&query_place_id=ChIJP9zbCIicF4gRSrSfzAXhG3o&center=42.2684693,-85.5303792"
     },
     {
       "name": "Taco Bob's",
       "distance": "1.3 mi",
-      "url": "https://www.google.com/maps/search/Taco%20Bob's+near+42.253986499999996%2C-85.53578569999999"
+      "url": "https://www.google.com/maps/search/?api=1&query=Taco%20Bob's&query_place_id=ChIJ1V5eo0qcF4gRe4zHmhY0T_s&center=42.2495188,-85.5598306"
+    },
+    {
+      "name": "Taco Bell",
+      "distance": "1.5 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Taco%20Bell&query_place_id=ChIJQVrTvDKcF4gRPAHMLHw-czE&center=42.240229199999995,-85.559611"
+    },
+    {
+      "name": "Subway",
+      "distance": "1.6 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Subway&query_place_id=ChIJdVOovjKcF4gRgLNrowDe3pQ&center=42.2402168,-85.5606014"
+    },
+    {
+      "name": "Dairy Queen",
+      "distance": "1.7 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Dairy%20Queen&query_place_id=ChIJn4WYFq6dF4gR1tr2X1D1yOg&center=42.259737099999995,-85.56768459999999"
     }
   ],
   "coffee": [
     {
       "name": "McDonald's",
       "distance": "0.3 mi",
-      "url": "https://www.google.com/maps/search/McDonald's+near+42.253986499999996%2C-85.53578569999999"
+      "url": "https://www.google.com/maps/search/?api=1&query=McDonald's&query_place_id=ChIJIawR8G2cF4gRLyQCI_aEC30&center=42.252068,-85.531407"
     },
     {
       "name": "Water Street Coffee Joint (Sprinkle)",
       "distance": "0.8 mi",
-      "url": "https://www.google.com/maps/search/Water%20Street%20Coffee%20Joint%20(Sprinkle)+near+42.253986499999996%2C-85.53578569999999"
+      "url": "https://www.google.com/maps/search/?api=1&query=Water%20Street%20Coffee%20Joint%20(Sprinkle)&query_place_id=ChIJMQXxKmOcF4gRdMcItYggrPU&center=42.2650497,-85.5304566"
     },
     {
       "name": "Sweetwater's Donut Mill",
       "distance": "1.1 mi",
-      "url": "https://www.google.com/maps/search/Sweetwater's%20Donut%20Mill+near+42.253986499999996%2C-85.53578569999999"
+      "url": "https://www.google.com/maps/search/?api=1&query=Sweetwater's%20Donut%20Mill&query_place_id=ChIJSTK-eoicF4gRPG74l5WVCsU&center=42.268955899999995,-85.5313731"
     },
     {
       "name": "Summer Thyme Café",
       "distance": "1.3 mi",
-      "url": "https://www.google.com/maps/search/Summer%20Thyme%20Caf%C3%A9+near+42.253986499999996%2C-85.53578569999999"
+      "url": "https://www.google.com/maps/search/?api=1&query=Summer%20Thyme%20Caf%C3%A9&query_place_id=ChIJaUakN0ucF4gRIN_GkTTzEKA&center=42.251975,-85.5610323"
     }
   ],
   "team_lunch": [
     {
       "name": "Trak Houz Bar & Grill",
       "distance": "0.3 mi",
-      "url": "https://www.google.com/maps/search/Trak%20Houz%20Bar%20%26%20Grill+near+42.253986499999996%2C-85.53578569999999"
+      "url": "https://www.google.com/maps/search/?api=1&query=Trak%20Houz%20Bar%20%26%20Grill&query_place_id=ChIJB8d4evedF4gR8wcnvftblBU&center=42.2517615,-85.530093"
     }
   ],
   "dinner": [

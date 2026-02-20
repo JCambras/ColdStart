@@ -1,9 +1,19 @@
 {
   "quick_bite": [
     {
+      "name": "Dunkin'",
+      "distance": "0.5 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Dunkin'&query_place_id=ChIJyYajagxDwokRUmjfTulNEl0&center=40.5925259,-73.9082118"
+    },
+    {
       "name": "Victoria Pizzeria",
       "distance": "1.4 mi",
       "url": "https://www.google.com/maps/search/?api=1&query=Victoria%20Pizzeria&query_place_id=ChIJg1eL7XlDwokRa9vssRKss0Q&center=40.592846,-73.925483"
+    },
+    {
+      "name": "Dunkin'",
+      "distance": "1.7 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Dunkin'&query_place_id=ChIJJ6tKY4FDwokRyI9GGo-0oiE&center=40.586272199999996,-73.9309928"
     },
     {
       "name": "LITTLE TOKYO",
@@ -29,6 +39,11 @@
       "name": "PO ‘ BOY - GOURMET",
       "distance": "2.0 mi",
       "url": "https://www.google.com/maps/search/?api=1&query=PO%20%E2%80%98%20BOY%20-%20GOURMET&query_place_id=ChIJW3B0agBDwokRiM_ZKAT8U7Y&center=40.6177845,-73.91025739999999"
+    },
+    {
+      "name": "Subway",
+      "distance": "2.1 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Subway&query_place_id=ChIJx6RZiWJDwokRk6dXPCG42Bc&center=40.60141550000001,-73.9350704"
     }
   ],
   "coffee": [
@@ -53,9 +68,9 @@
       "url": "https://www.google.com/maps/search/?api=1&query=Dunkin'&query_place_id=ChIJJ6tKY4FDwokRyI9GGo-0oiE&center=40.586272199999996,-73.9309928"
     },
     {
-      "name": "EXIT 9",
-      "distance": "1.7 mi",
-      "url": "https://www.google.com/maps/search/?api=1&query=EXIT%209&query_place_id=ChIJQ9CfQyZDwokRwTdQfyQSU4U&center=40.5865332,-73.93110730000001"
+      "name": "McDonald's",
+      "distance": "1.8 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=McDonald's&query_place_id=ChIJLTce0UNDwokRRIGA5IISzls&center=40.6111137,-73.9196856"
     }
   ],
   "team_lunch": [
@@ -83,6 +98,31 @@
       "name": "Yong Kang Street",
       "distance": "1.7 mi",
       "url": "https://www.google.com/maps/search/?api=1&query=Yong%20Kang%20Street&query_place_id=ChIJhVorNkJDwokRCV5nuz0P2Fg&center=40.610203,-73.9187014"
+    },
+    {
+      "name": "Cinnabon",
+      "distance": "1.8 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Cinnabon&query_place_id=ChIJ30o8q0NDwokRzt9-QWwOoeM&center=40.6098964,-73.9199648"
+    },
+    {
+      "name": "Auntie Anne's",
+      "distance": "1.8 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Auntie%20Anne's&query_place_id=ChIJt7Q9q0NDwokRad0dyl1HY54&center=40.610407599999995,-73.9208256"
+    },
+    {
+      "name": "Gretels Pretzels",
+      "distance": "1.8 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Gretels%20Pretzels&query_place_id=ChIJIW5EYsNDwokRrPX4CLlbwd4&center=40.6104056,-73.92083629999999"
+    },
+    {
+      "name": "The Gourmet Bagel Shoppe",
+      "distance": "1.9 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=The%20Gourmet%20Bagel%20Shoppe&query_place_id=ChIJ-ZFD7kdDwokRvWuwwb7IVGM&center=40.6156651,-73.9130903"
+    },
+    {
+      "name": "Caken It",
+      "distance": "1.9 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Caken%20It&query_place_id=ChIJ0a89vkpDwokRyFzRKNp-5z0&center=40.6169189,-73.9097737"
     }
   ],
   "dinner": [

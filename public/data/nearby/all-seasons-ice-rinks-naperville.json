@@ -6,6 +6,11 @@
       "url": "https://www.google.com/maps/search/?api=1&query=Amato's%20Pizza&query_place_id=ChIJteBrd4T5DogRiDG7xRF01LU&center=41.78211100000001,-88.2385389"
     },
     {
+      "name": "Dunkin'",
+      "distance": "0.3 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Dunkin'&query_place_id=ChIJzdRi-YP5DogRIVM0-UGod3M&center=41.782556,-88.2400325"
+    },
+    {
       "name": "Chipotle Mexican Grill",
       "distance": "0.3 mi",
       "url": "https://www.google.com/maps/search/?api=1&query=Chipotle%20Mexican%20Grill&query_place_id=ChIJSZ3YkBb5DogRKFWlHLB2mqE&center=41.780401999999995,-88.2400918"
@@ -29,6 +34,21 @@
       "name": "Hangry Joe's Hot Chicken & Wings",
       "distance": "1.5 mi",
       "url": "https://www.google.com/maps/search/?api=1&query=Hangry%20Joe's%20Hot%20Chicken%20%26%20Wings&query_place_id=ChIJ402BiZ35DogRrhHUQulqVPo&center=41.782571499999996,-88.2049218"
+    },
+    {
+      "name": "Firehouse Subs Eola Commons",
+      "distance": "1.5 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Firehouse%20Subs%20Eola%20Commons&query_place_id=ChIJsVJYz_b5DogRjEu_83JvPDI&center=41.760459999999995,-88.241936"
+    },
+    {
+      "name": "Subway",
+      "distance": "1.6 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Subway&query_place_id=ChIJ2dabXfb5DogR_AR1lLxCpZU&center=41.7610156,-88.24438669999999"
+    },
+    {
+      "name": "CHI TEA - Hot Chicken, Burgers, & Wings",
+      "distance": "1.6 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=CHI%20TEA%20-%20Hot%20Chicken%2C%20Burgers%2C%20%26%20Wings&query_place_id=ChIJCRciflX5DogRBTeb1aSVeUI&center=41.788836599999996,-88.20498649999999"
     }
   ],
   "coffee": [
@@ -53,17 +73,22 @@
       "url": "https://www.google.com/maps/search/?api=1&query=Haraz%20Coffee%20House&query_place_id=ChIJDZGjgYH5DogR_um2DRjf6bg&center=41.7755355,-88.20647470000002"
     },
     {
+      "name": "McDonald's",
+      "distance": "1.5 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=McDonald's&query_place_id=ChIJo6G6y6rwDogRmxlvYoYR_SI&center=41.760954999999996,-88.2423877"
+    },
+    {
+      "name": "McDonald's",
+      "distance": "1.6 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=McDonald's&query_place_id=ChIJxwnUfP74DogRMLGFzv19_Ag&center=41.790729899999995,-88.2049578"
+    },
+    {
       "name": "Petit Three Doughnuts",
       "distance": "1.7 mi",
       "url": "https://www.google.com/maps/search/?api=1&query=Petit%20Three%20Doughnuts&query_place_id=ChIJCYFaH8P5DogRVTkQcKwZdb4&center=41.7578416,-88.24212879999999"
     }
   ],
   "team_lunch": [
-    {
-      "name": "Teriyaki Madness",
-      "distance": "0.3 mi",
-      "url": "https://www.google.com/maps/search/?api=1&query=Teriyaki%20Madness&query_place_id=ChIJXWlIpf75DogRnkMPe6d1blo&center=41.779554399999995,-88.23839699999999"
-    },
     {
       "name": "Hot Stuff Pizza",
       "distance": "0.3 mi",

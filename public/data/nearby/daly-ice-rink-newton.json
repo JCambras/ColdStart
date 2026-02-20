@@ -26,9 +26,29 @@
       "url": "https://www.google.com/maps/search/?api=1&query=Detroit%20Pizza%20Co.&query_place_id=ChIJnfKJibV544kRvtwH-i_TG08&center=42.350373700000006,-71.1670321"
     },
     {
+      "name": "Dunkin'",
+      "distance": "0.6 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Dunkin'&query_place_id=ChIJndsFQUB444kRYG1UP3-aCck&center=42.3503569,-71.1668657"
+    },
+    {
       "name": "Jersey Mike's Subs",
       "distance": "0.6 mi",
       "url": "https://www.google.com/maps/search/?api=1&query=Jersey%20Mike's%20Subs&query_place_id=ChIJ_Q0woAZ544kRUheFL0aKcSI&center=42.362302799999995,-71.1587176"
+    },
+    {
+      "name": "Popeyes Louisiana Kitchen",
+      "distance": "0.8 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Popeyes%20Louisiana%20Kitchen&query_place_id=ChIJM3A4GQB544kRKF-e184PI7s&center=42.358571999999995,-71.185233"
+    },
+    {
+      "name": "Subway",
+      "distance": "0.8 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Subway&query_place_id=ChIJa3je3gR444kR5Pe8snabLI8&center=42.3661783,-71.18158989999999"
+    },
+    {
+      "name": "Jersey Mike's",
+      "distance": "0.9 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Jersey%20Mike's&query_place_id=ChIJMzQ3cSZ544kR-KrTlMDLnuY&center=42.34879000000001,-71.15908999999999"
     }
   ],
   "coffee": [
@@ -46,6 +66,11 @@
       "name": "Blackbird Doughnuts Watertown",
       "distance": "0.6 mi",
       "url": "https://www.google.com/maps/search/?api=1&query=Blackbird%20Doughnuts%20Watertown&query_place_id=ChIJXevNz-R544kRx7ICCrUaspk&center=42.362212199999995,-71.15914599999999"
+    },
+    {
+      "name": "McDonald's",
+      "distance": "0.8 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=McDonald's&query_place_id=ChIJvbO57dZ544kRsnTa5XilzpI&center=42.358658899999995,-71.1548688"
     },
     {
       "name": "Candy’s Cake",
@@ -83,6 +108,16 @@
       "name": "New Hong Kong",
       "distance": "0.6 mi",
       "url": "https://www.google.com/maps/search/?api=1&query=New%20Hong%20Kong&query_place_id=ChIJGQ5unWp444kRcIZxWMzfuqg&center=42.3504491,-71.1686108"
+    },
+    {
+      "name": "Mobile market",
+      "distance": "1.1 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Mobile%20market&query_place_id=ChIJRfgyEAB544kR_lRukoN5jyU&center=42.3708963,-71.1829363"
+    },
+    {
+      "name": "Panorama Bakery",
+      "distance": "1.1 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Panorama%20Bakery&query_place_id=ChIJcTj9igZ444kRRenOa4IvC1U&center=42.3673912,-71.1877823"
     }
   ],
   "dinner": [

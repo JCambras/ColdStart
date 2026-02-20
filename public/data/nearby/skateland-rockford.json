@@ -24,6 +24,31 @@
       "name": "Subway",
       "distance": "0.4 mi",
       "url": "https://www.google.com/maps/search/?api=1&query=Subway&query_place_id=ChIJLcCmt_DBCIgRw4WzOPoLcss&center=42.228434299999996,-89.02820450000002"
+    },
+    {
+      "name": "Jo-Jo's Pizza & Pub",
+      "distance": "0.5 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Jo-Jo's%20Pizza%20%26%20Pub&query_place_id=ChIJjRIpS6bACIgRcEDLDBQ1wfc&center=42.2294444,-89.0280556"
+    },
+    {
+      "name": "Karm's place",
+      "distance": "0.7 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Karm's%20place&query_place_id=ChIJf34Kd0DBCIgRZxVZwfXsKHs&center=42.2169831,-89.0295807"
+    },
+    {
+      "name": "DQ Grill & Chill",
+      "distance": "2.5 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=DQ%20Grill%20%26%20Chill&query_place_id=ChIJO9i6omK4CIgRDnkLt5gWeus&center=42.2428324,-88.9791118"
+    },
+    {
+      "name": "Taco Bell",
+      "distance": "2.5 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Taco%20Bell&query_place_id=ChIJqS2smmK4CIgRVBAO61WoDww&center=42.2433495,-88.97923019999999"
+    },
+    {
+      "name": "Dairy Queen Grill & Chill",
+      "distance": "2.5 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Dairy%20Queen%20Grill%20%26%20Chill&query_place_id=ChIJxwEDbXLACIgR7IT_sHxBGfM&center=42.2230961,-89.07104509999999"
     }
   ],
   "coffee": [
@@ -31,6 +56,11 @@
       "name": "Geno's Retro Diner",
       "distance": "0.5 mi",
       "url": "https://www.google.com/maps/search/?api=1&query=Geno's%20Retro%20Diner&query_place_id=ChIJRd-EQwDBCIgRhfO1jUEXZgQ&center=42.2242476,-89.0311313"
+    },
+    {
+      "name": "McDonald's",
+      "distance": "1.0 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=McDonald's&query_place_id=ChIJD9qM51u_CIgRkRSOJbELcss&center=42.2376569,-89.031054"
     },
     {
       "name": "Starbucks Coffee Company",
@@ -55,11 +85,6 @@
       "url": "https://www.google.com/maps/search/?api=1&query=Screw%20City%20Tavern&query_place_id=ChIJFbRZlKC_CIgRNR_GoiEaXfI&center=42.2370692,-89.0307196"
     },
     {
-      "name": "My Place Bar And Grill - Rockford IL",
-      "distance": "1.0 mi",
-      "url": "https://www.google.com/maps/search/?api=1&query=My%20Place%20Bar%20And%20Grill%20-%20Rockford%20IL&query_place_id=ChIJa_SQmFC_CIgRhBAPmxbTt68&center=42.2386392,-89.02733119999999"
-    },
-    {
       "name": "Happy Wok",
       "distance": "1.1 mi",
       "url": "https://www.google.com/maps/search/?api=1&query=Happy%20Wok&query_place_id=ChIJobegcra_CIgRm_gXW4JpJ-c&center=42.2391527,-89.0273765"
@@ -78,6 +103,11 @@
       "name": "Zigsters Mini Donuts",
       "distance": "1.6 mi",
       "url": "https://www.google.com/maps/search/?api=1&query=Zigsters%20Mini%20Donuts&query_place_id=ChIJOy0PYUe_CIgRPTdayCJOQZs&center=42.2473354,-89.0216088"
+    },
+    {
+      "name": "La Tuna Bakery",
+      "distance": "2.1 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=La%20Tuna%20Bakery&query_place_id=ChIJDZM2cD-_CIgRglFsrMTelhA&center=42.2532581,-89.0332208"
     }
   ],
   "dinner": [

@@ -19,6 +19,36 @@
       "name": "Burger King",
       "distance": "1.1 mi",
       "url": "https://www.google.com/maps/search/?api=1&query=Burger%20King&query_place_id=ChIJG8ZJ_xyRM4gRBVw5S_V5mQs&center=41.06268,-80.35960399999999"
+    },
+    {
+      "name": "Wendy's",
+      "distance": "1.1 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Wendy's&query_place_id=ChIJgZLYMPKRM4gRgkBpIhZlFQw&center=41.052968799999995,-80.3564219"
+    },
+    {
+      "name": "El Canelo Mexican Restaurant",
+      "distance": "1.2 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=El%20Canelo%20Mexican%20Restaurant&query_place_id=ChIJbyQtrBqOM4gRE916ksK-J5A&center=41.0517685,-80.35631389999999"
+    },
+    {
+      "name": "Burger King",
+      "distance": "1.2 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Burger%20King&query_place_id=ChIJTxPHZVeRM4gRy2w6gFrUUG4&center=41.0656128,-80.3608407"
+    },
+    {
+      "name": "MP Coney Island",
+      "distance": "1.9 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=MP%20Coney%20Island&query_place_id=ChIJOTR_XP2RM4gREHuToxygzE4&center=41.037503,-80.355768"
+    },
+    {
+      "name": "Bill's Sandwich Shop",
+      "distance": "2.5 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Bill's%20Sandwich%20Shop&query_place_id=ChIJpyvGsxqOM4gRAX0T3l4gJ00&center=41.0277245,-80.35445159999999"
+    },
+    {
+      "name": "Subway",
+      "distance": "2.5 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Subway&query_place_id=ChIJvxQepxqOM4gR-i4qzTn0p-0&center=41.027044,-80.35333399999999"
     }
   ],
   "coffee": [
@@ -31,14 +61,14 @@
       "name": "3 Thirty-Three Apothecary",
       "distance": "1.1 mi",
       "url": "https://www.google.com/maps/search/?api=1&query=3%20Thirty-Three%20Apothecary&query_place_id=ChIJDTiDRIKRM4gR_mz78jWvdpc&center=41.0628984,-80.3589484"
+    },
+    {
+      "name": "McDonald's",
+      "distance": "2.5 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=McDonald's&query_place_id=ChIJOY-8DhCOM4gRVGExqwEH2CE&center=41.027616099999996,-80.353302"
     }
   ],
   "team_lunch": [
-    {
-      "name": "Applebee's Grill + Bar",
-      "distance": "1.0 mi",
-      "url": "https://www.google.com/maps/search/?api=1&query=Applebee's%20Grill%20%2B%20Bar&query_place_id=ChIJ-6uXIPORM4gRv6C3bJZtr-A&center=41.0559635,-80.3572083"
-    },
     {
       "name": "Bigtime's Baked Goodies",
       "distance": "3.7 mi",

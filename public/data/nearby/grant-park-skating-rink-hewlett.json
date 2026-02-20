@@ -29,6 +29,16 @@
       "name": "Jersey Mike's Subs",
       "distance": "1.0 mi",
       "url": "https://www.google.com/maps/search/?api=1&query=Jersey%20Mike's%20Subs&query_place_id=ChIJF4XfF0dlwokRaFV9e7L6puk&center=40.6551639,-73.67602769999999"
+    },
+    {
+      "name": "White Castle",
+      "distance": "1.1 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=White%20Castle&query_place_id=ChIJn__8k75kwokRCd4PqKwaDzw&center=40.655383,-73.67315099999999"
+    },
+    {
+      "name": "Wendy's",
+      "distance": "1.2 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Wendy's&query_place_id=ChIJAZ0j1ZZkwokR8tIRwNxKW1U&center=40.6600216,-73.6829964"
     }
   ],
   "coffee": [
@@ -50,11 +60,6 @@
       "url": "https://www.google.com/maps/search/?api=1&query=Magic%20Bagels%20of%20Hewlett%20Inc&query_place_id=ChIJIxNQEfJkwokRDDLnLGaB0A8&center=40.6490815,-73.6906277"
     },
     {
-      "name": "Little Fu's",
-      "distance": "0.4 mi",
-      "url": "https://www.google.com/maps/search/?api=1&query=Little%20Fu's&query_place_id=ChIJxbu0FvJkwokR3ZtYlviT99w&center=40.64922500000001,-73.690754"
-    },
-    {
       "name": "Bagel Boss",
       "distance": "0.7 mi",
       "url": "https://www.google.com/maps/search/?api=1&query=Bagel%20Boss&query_place_id=ChIJfS-871dkwokRH7lUxRtZSmE&center=40.6447029,-73.70303679999999"
@@ -63,6 +68,36 @@
       "name": "Lucy By Marina Bakery",
       "distance": "0.8 mi",
       "url": "https://www.google.com/maps/search/?api=1&query=Lucy%20By%20Marina%20Bakery&query_place_id=ChIJy_W7NiplwokRxSKaCkCndT4&center=40.650393,-73.7019122"
+    },
+    {
+      "name": "Sugar, Spice and Nice Things",
+      "distance": "0.8 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Sugar%2C%20Spice%20and%20Nice%20Things&query_place_id=ChIJf-YtkWZlwokRduBVaRUcmwo&center=40.6378815,-73.702472"
+    },
+    {
+      "name": "Cakes by Niya",
+      "distance": "0.9 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Cakes%20by%20Niya&query_place_id=ChIJMwzLacFlwokRY5dUvtpO2S4&center=40.65126000000001,-73.7021571"
+    },
+    {
+      "name": "ANGELO BAGELS",
+      "distance": "0.9 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=ANGELO%20BAGELS&query_place_id=ChIJGxorIFVkwokROVtOT9qHKJU&center=40.6371932,-73.7034441"
+    },
+    {
+      "name": "Troop 2198",
+      "distance": "0.9 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Troop%202198&query_place_id=ChIJQd7g_HhlwokRazX8C_Y9XFk&center=40.6449073,-73.6717482"
+    },
+    {
+      "name": "Philly Pretzel Factory",
+      "distance": "1.0 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Philly%20Pretzel%20Factory&query_place_id=ChIJhUYM-kRlwokRf-Knml3WzrI&center=40.6540621,-73.675658"
+    },
+    {
+      "name": "The Sweet Tooth Fairy Bakery",
+      "distance": "1.0 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=The%20Sweet%20Tooth%20Fairy%20Bakery&query_place_id=ChIJ1X7QZOJlwokRaSXr63BLVwA&center=40.642074699999995,-73.66967919999999"
     }
   ],
   "dinner": [

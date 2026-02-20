@@ -3,61 +3,126 @@
     {
       "name": "Five Guys",
       "distance": "0.2 mi",
-      "url": "https://www.google.com/maps/search/Five%20Guys+near+39.030682299999995%2C-77.1482941"
+      "url": "https://www.google.com/maps/search/?api=1&query=Five%20Guys&query_place_id=ChIJtYTuLHzMt4kR-SpxktkLmqo&center=39.028337400000005,-77.14530189999999"
     },
     {
       "name": "Subway",
       "distance": "0.4 mi",
-      "url": "https://www.google.com/maps/search/Subway+near+39.030682299999995%2C-77.1482941"
+      "url": "https://www.google.com/maps/search/?api=1&query=Subway&query_place_id=ChIJLQoAebHNt4kRrR1xkAc8EoE&center=39.0261709,-77.14483129999999"
     },
     {
       "name": "Frank Pepe Pizzeria Napoletana",
       "distance": "0.4 mi",
-      "url": "https://www.google.com/maps/search/Frank%20Pepe%20Pizzeria%20Napoletana+near+39.030682299999995%2C-77.1482941"
+      "url": "https://www.google.com/maps/search/?api=1&query=Frank%20Pepe%20Pizzeria%20Napoletana&query_place_id=ChIJmalx9XXNt4kRCKhcWGS6n5U&center=39.0256827,-77.1462195"
     },
     {
       "name": "The Cheesecake Factory",
       "distance": "0.4 mi",
-      "url": "https://www.google.com/maps/search/The%20Cheesecake%20Factory+near+39.030682299999995%2C-77.1482941"
+      "url": "https://www.google.com/maps/search/?api=1&query=The%20Cheesecake%20Factory&query_place_id=ChIJd0KTUn7Mt4kRdQ0-q2Hz-a8&center=39.0254902,-77.14615359999999"
     },
     {
       "name": "Chick-fil-A",
       "distance": "0.4 mi",
-      "url": "https://www.google.com/maps/search/Chick-fil-A+near+39.030682299999995%2C-77.1482941"
+      "url": "https://www.google.com/maps/search/?api=1&query=Chick-fil-A&query_place_id=ChIJRfvXJn7Mt4kRfNhmap521Sc&center=39.024893,-77.146537"
+    },
+    {
+      "name": "Falafel Inc",
+      "distance": "0.4 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Falafel%20Inc&query_place_id=ChIJxbT7aQDNt4kRRv595IGwthQ&center=39.0243292,-77.14725399999999"
+    },
+    {
+      "name": "Kelly's Cajun Grill",
+      "distance": "0.5 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Kelly's%20Cajun%20Grill&query_place_id=ChIJSfvCcgDNt4kRCahrbfqY2fs&center=39.0241378,-77.1459998"
+    },
+    {
+      "name": "Corner Shoppe",
+      "distance": "1.1 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Corner%20Shoppe&query_place_id=ChIJf-N-MM7Nt4kRBDriay61Nx0&center=39.0262538,-77.1279059"
+    },
+    {
+      "name": "Subway",
+      "distance": "1.2 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Subway&query_place_id=ChIJHWjiFXPMt4kRCWiYjg5b5YA&center=39.0256912,-77.12728419999999"
+    },
+    {
+      "name": "Poki DC",
+      "distance": "1.2 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Poki%20DC&query_place_id=ChIJGQbDUBjNt4kR1Hrq7A6jdt4&center=39.025437000000004,-77.12686850000001"
     }
   ],
   "coffee": [
     {
       "name": "Corner Bakery Cafe",
       "distance": "0.3 mi",
-      "url": "https://www.google.com/maps/search/Corner%20Bakery%20Cafe+near+39.030682299999995%2C-77.1482941"
+      "url": "https://www.google.com/maps/search/?api=1&query=Corner%20Bakery%20Cafe&query_place_id=ChIJBbLEmoDMt4kRwn0cYxXahko&center=39.026002999999996,-77.14714"
     },
     {
       "name": "Golden Fig Café and Bakery",
       "distance": "0.3 mi",
-      "url": "https://www.google.com/maps/search/Golden%20Fig%20Caf%C3%A9%20and%20Bakery+near+39.030682299999995%2C-77.1482941"
+      "url": "https://www.google.com/maps/search/?api=1&query=Golden%20Fig%20Caf%C3%A9%20and%20Bakery&query_place_id=ChIJ0W9HX3vNt4kRTM7esbHCxvM&center=39.027916399999995,-77.1432664"
+    },
+    {
+      "name": "McDonald's",
+      "distance": "0.4 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=McDonald's&query_place_id=ChIJRfvXJn7Mt4kRpQLzJ_MpHjc&center=39.0250431,-77.1470908"
+    },
+    {
+      "name": "McDonald's",
+      "distance": "0.9 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=McDonald's&query_place_id=ChIJPQhBdo3Mt4kRUMQUbVWw75I&center=39.0418537,-77.1580311"
+    },
+    {
+      "name": "Boulangerie Christophe",
+      "distance": "0.9 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Boulangerie%20Christophe&query_place_id=ChIJj-bM70XNt4kRh4Rnq5Qp9aE&center=39.0417409,-77.1586896"
     }
   ],
   "team_lunch": [
     {
       "name": "Don Pollo of Potomac",
       "distance": "0.3 mi",
-      "url": "https://www.google.com/maps/search/Don%20Pollo%20of%20Potomac+near+39.030682299999995%2C-77.1482941"
+      "url": "https://www.google.com/maps/search/?api=1&query=Don%20Pollo%20of%20Potomac&query_place_id=ChIJ4QviEX7Mt4kRHPdnj31-iwg&center=39.0258611,-77.14739999999999"
     },
     {
       "name": "TropQ Pizza",
       "distance": "0.3 mi",
-      "url": "https://www.google.com/maps/search/TropQ%20Pizza+near+39.030682299999995%2C-77.1482941"
+      "url": "https://www.google.com/maps/search/?api=1&query=TropQ%20Pizza&query_place_id=ChIJFUGO8dTNt4kRO4w3dK_NBrw&center=39.027994899999996,-77.14288499999999"
     },
     {
       "name": "Man vs Fries",
       "distance": "0.4 mi",
-      "url": "https://www.google.com/maps/search/Man%20vs%20Fries+near+39.030682299999995%2C-77.1482941"
+      "url": "https://www.google.com/maps/search/?api=1&query=Man%20vs%20Fries&query_place_id=ChIJT-oh-bTNt4kRkkisBMmtau4&center=39.0261709,-77.14483129999999"
     },
     {
       "name": "Grill Kabob Restaurant",
       "distance": "0.4 mi",
-      "url": "https://www.google.com/maps/search/Grill%20Kabob%20Restaurant+near+39.030682299999995%2C-77.1482941"
+      "url": "https://www.google.com/maps/search/?api=1&query=Grill%20Kabob%20Restaurant&query_place_id=ChIJRfvXJn7Mt4kRDZqB9DCxmf0&center=39.0248438,-77.1467381"
+    },
+    {
+      "name": "Auntie Anne's",
+      "distance": "0.4 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Auntie%20Anne's&query_place_id=ChIJRfvXJn7Mt4kRgKPzFbKwpF0&center=39.0247825,-77.1460839"
+    },
+    {
+      "name": "Cinnabon",
+      "distance": "0.5 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Cinnabon&query_place_id=ChIJoUEHSn7Mt4kRtn_NnXoDCWQ&center=39.024232,-77.147075"
+    },
+    {
+      "name": "Charleys Cheesesteaks",
+      "distance": "0.5 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Charleys%20Cheesesteaks&query_place_id=ChIJRfvXJn7Mt4kRUnAiBzCOtYY&center=39.0241378,-77.1459998"
+    },
+    {
+      "name": "Giant Food Bakery",
+      "distance": "0.8 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Giant%20Food%20Bakery&query_place_id=ChIJwTixdwDNt4kRfTCVJNcSrSU&center=39.0408298,-77.1564024"
+    },
+    {
+      "name": "Giant Food Bakery",
+      "distance": "1.2 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Giant%20Food%20Bakery&query_place_id=ChIJ-0sUGwDNt4kROQALBE_69d4&center=39.026185999999996,-77.1276551"
     }
   ],
   "dinner": [

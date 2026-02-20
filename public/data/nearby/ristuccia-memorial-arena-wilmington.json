@@ -6,9 +6,19 @@
       "url": "https://www.google.com/maps/search/?api=1&query=Code%201%20BBQ&query_place_id=ChIJ2ZwgjZN144kRC_ox_CWyFj8&center=42.5566464,-71.179047"
     },
     {
+      "name": "Dunkin'",
+      "distance": "0.2 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Dunkin'&query_place_id=ChIJUx_C34UK44kR3NVy1_ZMosc&center=42.558324899999995,-71.182527"
+    },
+    {
       "name": "Simard's Super Roast Beef",
       "distance": "0.3 mi",
       "url": "https://www.google.com/maps/search/?api=1&query=Simard's%20Super%20Roast%20Beef&query_place_id=ChIJy2Ng4Y8K44kRzJF0jqEmZbw&center=42.5534033,-71.1796593"
+    },
+    {
+      "name": "Dunkin'",
+      "distance": "0.5 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Dunkin'&query_place_id=ChIJIYBMrJEK44kRwP6iDIyWqoU&center=42.551086,-71.17773439999999"
     },
     {
       "name": "Greg's Pizza Route 38",
@@ -29,9 +39,24 @@
       "name": "Subway",
       "distance": "2.4 mi",
       "url": "https://www.google.com/maps/search/?api=1&query=Subway&query_place_id=ChIJM_1cEyUK44kRQPldEZcdf0M&center=42.5889477,-71.1581803"
+    },
+    {
+      "name": "Subway",
+      "distance": "2.4 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Subway&query_place_id=ChIJ-XOvLB8L44kRF6vGjLHpu8w&center=42.5391608,-71.1392118"
+    },
+    {
+      "name": "Burger King",
+      "distance": "2.6 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Burger%20King&query_place_id=ChIJ7SymVKOg44kRO7ayUFaZN18&center=42.590007899999996,-71.20431839999999"
     }
   ],
   "coffee": [
+    {
+      "name": "McDonald's",
+      "distance": "0.1 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=McDonald's&query_place_id=ChIJIULo64UK44kRjB33yF0HxnU&center=42.557578199999995,-71.18120809999999"
+    },
     {
       "name": "Dunkin'",
       "distance": "0.2 mi",
@@ -56,14 +81,14 @@
       "name": "Heav'nly Donuts",
       "distance": "1.2 mi",
       "url": "https://www.google.com/maps/search/?api=1&query=Heav'nly%20Donuts&query_place_id=ChIJp-rMS5UK44kRKiQR-y8-6KA&center=42.5428688,-71.16930289999999"
+    },
+    {
+      "name": "McDonald's",
+      "distance": "2.6 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=McDonald's&query_place_id=ChIJlZDFqryg44kRLNFqTCnJvaU&center=42.591045199999996,-71.2044713"
     }
   ],
   "team_lunch": [
-    {
-      "name": "Rocco's Restaurant & Bar",
-      "distance": "0.2 mi",
-      "url": "https://www.google.com/maps/search/?api=1&query=Rocco's%20Restaurant%20%26%20Bar&query_place_id=ChIJuUzs34UK44kRN8KtL4bEKR8&center=42.5588226,-71.1825561"
-    },
     {
       "name": "Jeni Cakes",
       "distance": "1.5 mi",

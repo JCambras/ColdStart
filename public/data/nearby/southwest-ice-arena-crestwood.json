@@ -1,6 +1,11 @@
 {
   "quick_bite": [
     {
+      "name": "Dunkin'",
+      "distance": "0.1 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Dunkin'&query_place_id=ChIJAzqV_oo7DogRn23i5x7fgQk&center=41.6610665,-87.7544022"
+    },
+    {
       "name": "Nick's Barbecue",
       "distance": "0.2 mi",
       "url": "https://www.google.com/maps/search/?api=1&query=Nick's%20Barbecue&query_place_id=ChIJC8lBQzU5DogR3CFcMvBULZY&center=41.6623115,-87.75351979999999"
@@ -29,6 +34,21 @@
       "name": "Subway",
       "distance": "1.1 mi",
       "url": "https://www.google.com/maps/search/?api=1&query=Subway&query_place_id=ChIJe86LdX48DogRh9AjaLvtnZU&center=41.65170560000001,-87.73747039999999"
+    },
+    {
+      "name": "White Castle",
+      "distance": "1.1 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=White%20Castle&query_place_id=ChIJo8vFAJ07DogRKVNKTCt9iQI&center=41.671129099999995,-87.7394109"
+    },
+    {
+      "name": "Subway",
+      "distance": "1.1 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Subway&query_place_id=ChIJ24l8rJ07DogR8zbj305QssE&center=41.671459399999996,-87.7395214"
+    },
+    {
+      "name": "Charleys Cheesesteaks and Wings",
+      "distance": "1.2 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Charleys%20Cheesesteaks%20and%20Wings&query_place_id=ChIJRe_8LUY9DogR7CcfvdXNXUg&center=41.649017799999996,-87.73858919999999"
     }
   ],
   "coffee": [
@@ -46,6 +66,11 @@
       "name": "Penny's",
       "distance": "0.9 mi",
       "url": "https://www.google.com/maps/search/?api=1&query=Penny's&query_place_id=ChIJZeM11H08DogRns_AylmTzLU&center=41.6529467,-87.7413381"
+    },
+    {
+      "name": "McDonald's",
+      "distance": "1.4 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=McDonald's&query_place_id=ChIJbQOfFmI8DogRPRwWJ5oIrdQ&center=41.644203499999996,-87.7385947"
     }
   ],
   "team_lunch": [
@@ -53,11 +78,6 @@
       "name": "Legends Silver Spoon Catering",
       "distance": "0.7 mi",
       "url": "https://www.google.com/maps/search/?api=1&query=Legends%20Silver%20Spoon%20Catering&query_place_id=ChIJFwTfBUs7DogRsaeUPe9tefk&center=41.670169099999995,-87.75248839999999"
-    },
-    {
-      "name": "Applebee's Grill + Bar",
-      "distance": "0.8 mi",
-      "url": "https://www.google.com/maps/search/?api=1&query=Applebee's%20Grill%20%2B%20Bar&query_place_id=ChIJ8U_IS3k8DogRscLqUca-w_c&center=41.6549397,-87.7420765"
     },
     {
       "name": "RisebyRyley",
@@ -78,6 +98,11 @@
       "name": "KAMION",
       "distance": "0.9 mi",
       "url": "https://www.google.com/maps/search/?api=1&query=KAMION&query_place_id=ChIJ7YTKsuw7DogRr_JYSKeKBUo&center=41.673400699999995,-87.75665889999999"
+    },
+    {
+      "name": "Walmart Bakery",
+      "distance": "1.4 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Walmart%20Bakery&query_place_id=ChIJH7hxhIg8DogRaoR0VcgOkwg&center=41.648402999999995,-87.73408769999999"
     }
   ],
   "dinner": [

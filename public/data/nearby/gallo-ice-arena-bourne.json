@@ -1,9 +1,24 @@
 {
   "quick_bite": [
     {
+      "name": "Dunkin'",
+      "distance": "0.6 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Dunkin'&query_place_id=ChIJefZn3M_I5IkRBzDD6Fe54jU&center=41.7441454,-70.5865185"
+    },
+    {
+      "name": "Dunkin'",
+      "distance": "0.8 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Dunkin'&query_place_id=ChIJXZnJN8HI5IkRBSPVy5L_Two&center=41.7520938,-70.593665"
+    },
+    {
       "name": "Jersey Mike's Subs",
       "distance": "0.8 mi",
       "url": "https://www.google.com/maps/search/?api=1&query=Jersey%20Mike's%20Subs&query_place_id=ChIJd37poirJ5IkRzhmuPc1vpZU&center=41.7520214,-70.5943015"
+    },
+    {
+      "name": "Dunkin'",
+      "distance": "1.1 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Dunkin'&query_place_id=ChIJRXWPjrjI5IkRmfViSOa6mwM&center=41.750872199999996,-70.5988445"
     },
     {
       "name": "Subway",
@@ -34,6 +49,12 @@
       "distance": "4.4 mi",
       "url": "https://www.google.com/maps/search/?api=1&query=Snack%20Shack&query_place_id=ChIJHZJ3PQDL5IkRFJexMtawn4k&center=41.752484599999995,-70.4932577",
       "isFar": true
+    },
+    {
+      "name": "Subway",
+      "distance": "4.6 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Subway&query_place_id=ChIJx63NrmTG5IkRgexZ8-Xe7KQ&center=41.7601644,-70.6665945",
+      "isFar": true
     }
   ],
   "coffee": [
@@ -61,6 +82,28 @@
       "name": "Dunkin'",
       "distance": "1.1 mi",
       "url": "https://www.google.com/maps/search/?api=1&query=Dunkin'&query_place_id=ChIJRXWPjrjI5IkRmfViSOa6mwM&center=41.750872199999996,-70.5988445"
+    },
+    {
+      "name": "McDonald's",
+      "distance": "2.4 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=McDonald's&query_place_id=ChIJbc93ChjP5IkR0COP1rDyjYE&center=41.716470799999996,-70.5847067"
+    },
+    {
+      "name": "McDonald's",
+      "distance": "2.9 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=McDonald's&query_place_id=ChIJheMZyZPJ5IkRl69pcoLQJG8&center=41.78192,-70.541668"
+    },
+    {
+      "name": "Café Chew",
+      "distance": "3.8 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Caf%C3%A9%20Chew&query_place_id=ChIJFQKvjTbK5IkRl_YTL55q3eY&center=41.766093,-70.50681999999999",
+      "isFar": true
+    },
+    {
+      "name": "McDonald's",
+      "distance": "4.2 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=McDonald's&query_place_id=ChIJlwBa1XrG5IkRXWAYQK-rNw0&center=41.7583574,-70.6591195",
+      "isFar": true
     }
   ],
   "team_lunch": [
@@ -73,11 +116,6 @@
       "name": "Domino’s",
       "distance": "0.8 mi",
       "url": "https://www.google.com/maps/search/?api=1&query=Domino%E2%80%99s&query_place_id=ChIJVZspfr7J5IkRqqTU306a9Fg&center=41.7519518,-70.5944777"
-    },
-    {
-      "name": "Way Ho Restaurant",
-      "distance": "1.0 mi",
-      "url": "https://www.google.com/maps/search/?api=1&query=Way%20Ho%20Restaurant&query_place_id=ChIJbRjRX8fI5IkRwOZVgsbJAiY&center=41.7512626,-70.59780119999999"
     },
     {
       "name": "Sarah's Sourdough Bakery",

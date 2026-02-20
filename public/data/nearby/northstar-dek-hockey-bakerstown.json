@@ -1,11 +1,6 @@
 {
   "quick_bite": [
     {
-      "name": "Buffalo Wild Wings",
-      "distance": "1.0 mi",
-      "url": "https://www.google.com/maps/search/?api=1&query=Buffalo%20Wild%20Wings&query_place_id=ChIJQ9-8WMqPNIgRaL8lRJ9cohc&center=40.643062,-79.939081"
-    },
-    {
       "name": "Subway",
       "distance": "1.0 mi",
       "url": "https://www.google.com/maps/search/?api=1&query=Subway&query_place_id=ChIJQ9-8WMqPNIgR7DGFv9wx9QA&center=40.643021999999995,-79.9393841"
@@ -19,6 +14,45 @@
       "name": "Taco Bell",
       "distance": "1.4 mi",
       "url": "https://www.google.com/maps/search/?api=1&query=Taco%20Bell&query_place_id=ChIJ5cbsczaONIgRmMiV-LgG2S4&center=40.6374062,-79.9395758"
+    },
+    {
+      "name": "Penn Station East Coast Subs",
+      "distance": "1.4 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Penn%20Station%20East%20Coast%20Subs&query_place_id=ChIJ68TR2zWONIgR79-MAaQojMI&center=40.635920999999996,-79.939773"
+    },
+    {
+      "name": "Giant Eagle Prepared Foods",
+      "distance": "1.5 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Giant%20Eagle%20Prepared%20Foods&query_place_id=ChIJSWvfBEqONIgRz1bSAL7S8Hc&center=40.6363205,-79.9425119"
+    },
+    {
+      "name": "Adrian's Pizza",
+      "distance": "1.5 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Adrian's%20Pizza&query_place_id=ChIJ3TMrGzaONIgRSJpASiv6o9c&center=40.634906199999996,-79.9410233"
+    },
+    {
+      "name": "Arby's",
+      "distance": "3.4 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Arby's&query_place_id=ChIJEYjj4nOONIgRSkBNo5hBWo4&center=40.6067916,-79.9467616",
+      "isFar": true
+    },
+    {
+      "name": "McDonald’s",
+      "distance": "3.7 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=McDonald%E2%80%99s&query_place_id=ChIJuSUxLACFNIgRajliyEBmFOk&center=40.693913599999995,-79.9732449",
+      "isFar": true
+    },
+    {
+      "name": "Why Cook? A Fare To Remember At Home",
+      "distance": "3.8 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Why%20Cook%3F%20A%20Fare%20To%20Remember%20At%20Home&query_place_id=ChIJKyjpYQONNIgRaxKzHUkM-y8&center=40.6017539,-79.94646329999999",
+      "isFar": true
+    },
+    {
+      "name": "Jersey Mike's Subs",
+      "distance": "3.9 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Jersey%20Mike's%20Subs&query_place_id=ChIJ7-UW9ZKNNIgRB1zqnYAx_zU&center=40.600162399999995,-79.9465945",
+      "isFar": true
     }
   ],
   "coffee": [
@@ -31,6 +65,11 @@
       "name": "Dairy Barn",
       "distance": "1.6 mi",
       "url": "https://www.google.com/maps/search/?api=1&query=Dairy%20Barn&query_place_id=ChIJk5w36JmPNIgRCOT90IifqRU&center=40.665639,-79.9537127"
+    },
+    {
+      "name": "McDonald's",
+      "distance": "2.4 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=McDonald's&query_place_id=ChIJd8aXMkCONIgR-gA12q2tuIo&center=40.6214805,-79.9441087"
     },
     {
       "name": "Freya Jane’s Bakery & Cafe",
@@ -46,11 +85,6 @@
     }
   ],
   "team_lunch": [
-    {
-      "name": "Applebee's Grill + Bar",
-      "distance": "1.2 mi",
-      "url": "https://www.google.com/maps/search/?api=1&query=Applebee's%20Grill%20%2B%20Bar&query_place_id=ChIJrS4a2TSONIgRXeQwPho2p0I&center=40.6396158,-79.938688"
-    },
     {
       "name": "Grandma Ann's Nutbread",
       "distance": "2.4 mi",

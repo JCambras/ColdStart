@@ -29,6 +29,26 @@
       "name": "Reids",
       "distance": "1.0 mi",
       "url": "https://www.google.com/maps/search/?api=1&query=Reids&query_place_id=ChIJ51X_QnN_04kRL-YJzy9nokk&center=43.184545,-78.6779968"
+    },
+    {
+      "name": "Subway",
+      "distance": "1.0 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Subway&query_place_id=ChIJP4dDUyl_04kRTIuI-OBnjjk&center=43.158778,-78.6956485"
+    },
+    {
+      "name": "Arby's",
+      "distance": "1.7 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Arby's&query_place_id=ChIJT6rELdF404kROAYb0FXlTlY&center=43.1482019,-78.6962511"
+    },
+    {
+      "name": "Subway",
+      "distance": "1.7 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Subway&query_place_id=ChIJJf4NKtd404kRWhfXCJyQj7k&center=43.1476797,-78.6937896"
+    },
+    {
+      "name": "Wendy's",
+      "distance": "1.8 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Wendy's&query_place_id=ChIJubalNtF404kR86ZdJ_LafIE&center=43.1477457,-78.6962278"
     }
   ],
   "coffee": [
@@ -56,6 +76,16 @@
       "name": "Tom's Diner",
       "distance": "0.3 mi",
       "url": "https://www.google.com/maps/search/?api=1&query=Tom's%20Diner&query_place_id=ChIJv1CFpyN_04kRQNnfQD61Bro&center=43.169722199999995,-78.69388889999999"
+    },
+    {
+      "name": "Steamworks Coffee",
+      "distance": "0.4 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Steamworks%20Coffee&query_place_id=ChIJx8qDrSN_04kRn3b37MK8PF8&center=43.1703197,-78.6944376"
+    },
+    {
+      "name": "McDonald's",
+      "distance": "2.3 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=McDonald's&query_place_id=ChIJVXXqVNl404kRJXRYf_l2GcA&center=43.139893099999995,-78.69609969999999"
     }
   ],
   "team_lunch": [

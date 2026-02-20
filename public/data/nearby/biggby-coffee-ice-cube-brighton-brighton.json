@@ -1,68 +1,108 @@
 {
   "quick_bite": [
     {
-      "name": "Lakefront Oasis - Premier, centrally located vacation property. Remodeled 2020.",
-      "distance": "0.6 mi",
-      "url": "https://www.google.com/maps/search/Lakefront%20Oasis%20-%20Premier%2C%20centrally%20located%20vacation%20property.%20Remodeled%202020.+near+42.5199025%2C-83.74374449999999"
-    },
-    {
       "name": "Subway",
       "distance": "0.7 mi",
-      "url": "https://www.google.com/maps/search/Subway+near+42.5199025%2C-83.74374449999999"
+      "url": "https://www.google.com/maps/search/?api=1&query=Subway&query_place_id=ChIJmYMK4B5QI4gRkg9uq6tDZoU&center=42.521154599999996,-83.7577292"
     },
     {
       "name": "Jimmy John's",
       "distance": "0.8 mi",
-      "url": "https://www.google.com/maps/search/Jimmy%20John's+near+42.5199025%2C-83.74374449999999"
+      "url": "https://www.google.com/maps/search/?api=1&query=Jimmy%20John's&query_place_id=ChIJf5MFVB5QI4gR_oCbM_NfgEg&center=42.5203256,-83.760286"
     },
     {
       "name": "Little Caesars Pizza",
       "distance": "0.8 mi",
-      "url": "https://www.google.com/maps/search/Little%20Caesars%20Pizza+near+42.5199025%2C-83.74374449999999"
+      "url": "https://www.google.com/maps/search/?api=1&query=Little%20Caesars%20Pizza&query_place_id=ChIJ3UqGUx5QI4gR8XM8A3cAIo4&center=42.5205038,-83.7603058"
+    },
+    {
+      "name": "Dunkin'",
+      "distance": "0.9 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Dunkin'&query_place_id=ChIJt0gtv9tRI4gRp6EpGb1XYcA&center=42.5210717,-83.7606826"
     },
     {
       "name": "Jersey Mike's Subs",
       "distance": "0.9 mi",
-      "url": "https://www.google.com/maps/search/Jersey%20Mike's%20Subs+near+42.5199025%2C-83.74374449999999"
+      "url": "https://www.google.com/maps/search/?api=1&query=Jersey%20Mike's%20Subs&query_place_id=ChIJF60LCQFPI4gRXyi9eJffOIQ&center=42.520929599999995,-83.7608126"
+    },
+    {
+      "name": "SNOWFOX Sushi",
+      "distance": "1.0 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=SNOWFOX%20Sushi&query_place_id=ChIJrR8WTSVPI4gRkdRa7myYNhI&center=42.5192966,-83.7626571"
+    },
+    {
+      "name": "Green Lantern Pizza",
+      "distance": "1.0 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Green%20Lantern%20Pizza&query_place_id=ChIJeW4sQUhPI4gRYt7Y-eeZ5fA&center=42.521279,-83.7634838"
+    },
+    {
+      "name": "Taco Bell",
+      "distance": "1.3 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Taco%20Bell&query_place_id=ChIJ1eAv9v1RI4gReNscN24rMFs&center=42.506376499999995,-83.7615379"
+    },
+    {
+      "name": "Subway",
+      "distance": "1.3 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Subway&query_place_id=ChIJe6Rm6ddPI4gRd6zcpfsQd3c&center=42.5069917,-83.7632919"
+    },
+    {
+      "name": "Lala's Too",
+      "distance": "2.2 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Lala's%20Too&query_place_id=ChIJA-HK1DJPI4gRcOBGzgII_jw&center=42.5292716,-83.7860053"
     }
   ],
   "coffee": [
     {
       "name": "Biggby Coffee",
       "distance": "0.1 mi",
-      "url": "https://www.google.com/maps/search/Biggby%20Coffee+near+42.5199025%2C-83.74374449999999"
+      "url": "https://www.google.com/maps/search/?api=1&query=Biggby%20Coffee&query_place_id=ChIJrf7NIABRI4gRHiwQEwEJHV8&center=42.5182605,-83.7446092"
     },
     {
       "name": "The Ivy Table",
       "distance": "0.6 mi",
-      "url": "https://www.google.com/maps/search/The%20Ivy%20Table+near+42.5199025%2C-83.74374449999999"
+      "url": "https://www.google.com/maps/search/?api=1&query=The%20Ivy%20Table&query_place_id=ChIJV2EwPCNFI4gR6xGFnvJC47M&center=42.5194865,-83.75478129999999"
     },
     {
       "name": "Dunkin'",
       "distance": "0.9 mi",
-      "url": "https://www.google.com/maps/search/Dunkin'+near+42.5199025%2C-83.74374449999999"
+      "url": "https://www.google.com/maps/search/?api=1&query=Dunkin'&query_place_id=ChIJt0gtv9tRI4gRp6EpGb1XYcA&center=42.5210717,-83.7606826"
     },
     {
       "name": "Starbucks",
       "distance": "1.0 mi",
-      "url": "https://www.google.com/maps/search/Starbucks+near+42.5199025%2C-83.74374449999999"
+      "url": "https://www.google.com/maps/search/?api=1&query=Starbucks&query_place_id=ChIJ____HOBPI4gRfcnP3ssTgj0&center=42.5193203,-83.76257129999999"
+    },
+    {
+      "name": "McDonald's",
+      "distance": "1.2 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=McDonald's&query_place_id=ChIJr17gEyhQI4gR7VaBH_2PTB8&center=42.507128,-83.76108599999999"
+    },
+    {
+      "name": "Great Harvest Bread Co. Brighton",
+      "distance": "2.2 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Great%20Harvest%20Bread%20Co.%20Brighton&query_place_id=ChIJl9spVo1PI4gRJ_JYsqGNJ70&center=42.529753,-83.78422499999999"
     }
   ],
   "team_lunch": [
     {
       "name": "Chop Detroit",
       "distance": "0.1 mi",
-      "url": "https://www.google.com/maps/search/Chop%20Detroit+near+42.5199025%2C-83.74374449999999"
+      "url": "https://www.google.com/maps/search/?api=1&query=Chop%20Detroit&query_place_id=ChIJW81fv7dRI4gRv-Uvhm3ALVY&center=42.5194834,-83.7429947"
     },
     {
       "name": "Cajun Joe's",
       "distance": "0.7 mi",
-      "url": "https://www.google.com/maps/search/Cajun%20Joe's+near+42.5199025%2C-83.74374449999999"
+      "url": "https://www.google.com/maps/search/?api=1&query=Cajun%20Joe's&query_place_id=ChIJJ986Eh9QI4gRDe2a9qF2t80&center=42.5198422,-83.7580885"
     },
     {
       "name": "Great China",
       "distance": "0.7 mi",
-      "url": "https://www.google.com/maps/search/Great%20China+near+42.5199025%2C-83.74374449999999"
+      "url": "https://www.google.com/maps/search/?api=1&query=Great%20China&query_place_id=ChIJJ986Eh9QI4gRDYPG8JdqhXo&center=42.5188724,-83.758194"
+    },
+    {
+      "name": "Costco Bakery",
+      "distance": "1.5 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Costco%20Bakery&query_place_id=ChIJRSkrCSpQI4gRfbHylaa9NhE&center=42.503091100000006,-83.762075"
     }
   ],
   "dinner": [

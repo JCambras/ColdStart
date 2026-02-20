@@ -3,56 +3,96 @@
     {
       "name": "Little Caesars Pizza",
       "distance": "1.0 mi",
-      "url": "https://www.google.com/maps/search/Little%20Caesars%20Pizza+near+43.1316412%2C-83.6800062"
+      "url": "https://www.google.com/maps/search/?api=1&query=Little%20Caesars%20Pizza&query_place_id=ChIJXRlm5MuFI4gRQyjvLm1L2G8&center=43.120831,-83.69419099999999"
     },
     {
       "name": "Subway",
       "distance": "1.4 mi",
-      "url": "https://www.google.com/maps/search/Subway+near+43.1316412%2C-83.6800062"
+      "url": "https://www.google.com/maps/search/?api=1&query=Subway&query_place_id=ChIJj8bGejSEI4gRJv9D_KlIP2I&center=43.1144621,-83.69384749999999"
+    },
+    {
+      "name": "Taco Bell",
+      "distance": "1.9 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Taco%20Bell&query_place_id=ChIJSW4QvDmEI4gRgPxwtE2sNTU&center=43.106093099999995,-83.69485209999999"
+    },
+    {
+      "name": "Burger King",
+      "distance": "3.1 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Burger%20King&query_place_id=ChIJWc1A5uuDI4gRBOiBlfltp8A&center=43.088604499999995,-83.6944456",
+      "isFar": true
+    },
+    {
+      "name": "Lucky's Concession Kitchen",
+      "distance": "3.2 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Lucky's%20Concession%20Kitchen&query_place_id=ChIJU6ELAp6HI4gRBo2y33m8aIY&center=43.1195541,-83.6189437",
+      "isFar": true
+    },
+    {
+      "name": "A&W Restaurant",
+      "distance": "4.2 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=A%26W%20Restaurant&query_place_id=ChIJldA8c4-FI4gRTbG9NBLSuy8&center=43.1187332,-83.7607008",
+      "isFar": true
+    },
+    {
+      "name": "Dairy Queen Grill & Chill",
+      "distance": "4.8 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Dairy%20Queen%20Grill%20%26%20Chill&query_place_id=ChIJbS53BeiPI4gRuJM1962DQyg&center=43.177889,-83.7514209",
+      "isFar": true
     }
   ],
   "coffee": [
     {
       "name": "McDonald's",
       "distance": "0.8 mi",
-      "url": "https://www.google.com/maps/search/McDonald's+near+43.1316412%2C-83.6800062"
+      "url": "https://www.google.com/maps/search/?api=1&query=McDonald's&query_place_id=ChIJk4BzO3-GI4gRnYAonsdffy8&center=43.1204112,-83.67542619999999"
     },
     {
       "name": "Biggby Coffee",
       "distance": "1.4 mi",
-      "url": "https://www.google.com/maps/search/Biggby%20Coffee+near+43.1316412%2C-83.6800062"
+      "url": "https://www.google.com/maps/search/?api=1&query=Biggby%20Coffee&query_place_id=ChIJj8UlXB2FI4gRcDp3vk7Ig3w&center=43.1144264,-83.6938773"
     },
     {
       "name": "McDonald's",
       "distance": "1.5 mi",
-      "url": "https://www.google.com/maps/search/McDonald's+near+43.1316412%2C-83.6800062"
+      "url": "https://www.google.com/maps/search/?api=1&query=McDonald's&query_place_id=ChIJe0M-sjaEI4gROOtlSIjDvMc&center=43.111807899999995,-83.69372949999999"
+    },
+    {
+      "name": "McDonald's",
+      "distance": "3.3 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=McDonald's&query_place_id=ChIJOTNSFqGHI4gROXEyaFBL0zI&center=43.116344,-83.617064",
+      "isFar": true
     }
   ],
   "team_lunch": [
     {
       "name": "Yummy Bites",
       "distance": "0.1 mi",
-      "url": "https://www.google.com/maps/search/Yummy%20Bites+near+43.1316412%2C-83.6800062"
+      "url": "https://www.google.com/maps/search/?api=1&query=Yummy%20Bites&query_place_id=ChIJ-ddnB1KFI4gRmaZ_KRyDge4&center=43.1333428,-83.6813608"
     },
     {
       "name": "Sweet Little Cupcakes",
       "distance": "0.1 mi",
-      "url": "https://www.google.com/maps/search/Sweet%20Little%20Cupcakes+near+43.1316412%2C-83.6800062"
+      "url": "https://www.google.com/maps/search/?api=1&query=Sweet%20Little%20Cupcakes&query_place_id=ChIJ6xmH3kqFI4gR5pql774DoT0&center=43.133345399999996,-83.681358"
     },
     {
       "name": "J&S Street Foods",
       "distance": "0.8 mi",
-      "url": "https://www.google.com/maps/search/J%26S%20Street%20Foods+near+43.1316412%2C-83.6800062"
+      "url": "https://www.google.com/maps/search/?api=1&query=J%26S%20Street%20Foods&query_place_id=ChIJybrmE6mHI4gRLUEfksyEXnc&center=43.1206934,-83.676765"
     },
     {
       "name": "Angelo's Coney Island",
       "distance": "1.0 mi",
-      "url": "https://www.google.com/maps/search/Angelo's%20Coney%20Island+near+43.1316412%2C-83.6800062"
+      "url": "https://www.google.com/maps/search/?api=1&query=Angelo's%20Coney%20Island&query_place_id=ChIJc9Xu8MuFI4gRzA8Q8PY6zSQ&center=43.121418999999996,-83.6939502"
     },
     {
       "name": "Kroger Bakery",
       "distance": "1.6 mi",
-      "url": "https://www.google.com/maps/search/Kroger%20Bakery+near+43.1316412%2C-83.6800062"
+      "url": "https://www.google.com/maps/search/?api=1&query=Kroger%20Bakery&query_place_id=ChIJi61bJjGEI4gRnIZz1mlYznU&center=43.1100825,-83.6926285"
+    },
+    {
+      "name": "Smokin Aces Bbq",
+      "distance": "1.8 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Smokin%20Aces%20Bbq&query_place_id=ChIJA2GV_DmEI4gRwdOTid8xLe8&center=43.1074055,-83.693922"
     }
   ],
   "dinner": [

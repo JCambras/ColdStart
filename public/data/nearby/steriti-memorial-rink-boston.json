@@ -1,16 +1,6 @@
 {
   "quick_bite": [
     {
-      "name": "4BR Boston Home 5 minutes walk to Subway",
-      "distance": "0.1 mi",
-      "url": "https://www.google.com/maps/search/?api=1&query=4BR%20Boston%20Home%205%20minutes%20walk%20to%20Subway&query_place_id=ChIJ3dK7BIxw44kR8MozXqkAeD0&center=42.3666115,-71.0564041"
-    },
-    {
-      "name": "4BR Boston Home 5 minutes walk to Subway",
-      "distance": "0.1 mi",
-      "url": "https://www.google.com/maps/search/?api=1&query=4BR%20Boston%20Home%205%20minutes%20walk%20to%20Subway&query_place_id=ChIJq-O7BIxw44kRdbnWdd3cu6k&center=42.3666115,-71.05639649999999"
-    },
-    {
       "name": "POKE by Love Art",
       "distance": "0.2 mi",
       "url": "https://www.google.com/maps/search/?api=1&query=POKE%20by%20Love%20Art&query_place_id=ChIJQU5qwz1x44kRe_H_WXxQ69E&center=42.3655729,-71.059495"
@@ -60,11 +50,6 @@
       "url": "https://www.google.com/maps/search/?api=1&query=Sal's%20Lunch&query_place_id=ChIJszuxko5w44kR_wdczbKJsNI&center=42.3653902,-71.0580196"
     },
     {
-      "name": "A&B Kitchen • BAR",
-      "distance": "0.2 mi",
-      "url": "https://www.google.com/maps/search/?api=1&query=A%26B%20Kitchen%20%E2%80%A2%20BAR&query_place_id=ChIJs5N3bI5w44kRWKFsRLe3w-8&center=42.3659603,-71.0599397"
-    },
-    {
       "name": "Mike’s Pastry",
       "distance": "0.3 mi",
       "url": "https://www.google.com/maps/search/?api=1&query=Mike%E2%80%99s%20Pastry&query_place_id=ChIJFePlmCNx44kRY3BgVhJqPus&center=42.3654525,-71.0616447"
@@ -78,6 +63,21 @@
       "name": "Little Italy",
       "distance": "0.4 mi",
       "url": "https://www.google.com/maps/search/?api=1&query=Little%20Italy&query_place_id=ChIJC6BbfABx44kRk0yhWBPKsJ0&center=42.3626839,-71.055345"
+    },
+    {
+      "name": "hanif restaurant",
+      "distance": "0.4 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=hanif%20restaurant&query_place_id=ChIJW07udQBx44kR64zltNczmLY&center=42.3630728,-71.06161809999999"
+    },
+    {
+      "name": "Jennifer Lee's Gourmet Bakery",
+      "distance": "0.4 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Jennifer%20Lee's%20Gourmet%20Bakery&query_place_id=ChIJhahDXI9w44kRRltNZ_IeBfQ&center=42.3620409,-71.05700569999999"
+    },
+    {
+      "name": "Union Square Donuts",
+      "distance": "0.4 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Union%20Square%20Donuts&query_place_id=ChIJdfBFUo5w44kR3qWnDaff5hk&center=42.3619656,-71.0575218"
     }
   ],
   "dinner": [

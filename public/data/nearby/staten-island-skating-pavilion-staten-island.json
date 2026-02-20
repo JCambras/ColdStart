@@ -6,6 +6,11 @@
       "url": "https://www.google.com/maps/search/?api=1&query=Red's%20Hotdog%20Stand&query_place_id=ChIJS3FY4zi1w4kRok5AROHLN18&center=40.5490916,-74.2235382"
     },
     {
+      "name": "Dunkin'",
+      "distance": "0.6 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Dunkin'&query_place_id=ChIJO4HysSu1w4kRADWtqGeHKfE&center=40.5485043,-74.2218872"
+    },
+    {
       "name": "Rossville Pizza",
       "distance": "0.7 mi",
       "url": "https://www.google.com/maps/search/?api=1&query=Rossville%20Pizza&query_place_id=ChIJVW_9Xiq1w4kR4OXpsBkvclA&center=40.5495059,-74.22128"
@@ -29,6 +34,11 @@
       "name": "Taco Bell",
       "distance": "1.8 mi",
       "url": "https://www.google.com/maps/search/?api=1&query=Taco%20Bell&query_place_id=ChIJd53fGJ5LwokRRu3U0nGZCrM&center=40.5180116,-74.2341852"
+    },
+    {
+      "name": "Refresh & Co.",
+      "distance": "1.8 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Refresh%20%26%20Co.&query_place_id=ChIJj6sm3_-0w4kRVrlebJQiSzM&center=40.5571944,-74.26308209999999"
     }
   ],
   "coffee": [
@@ -56,14 +66,24 @@
       "name": "Maruf Cafe",
       "distance": "0.9 mi",
       "url": "https://www.google.com/maps/search/?api=1&query=Maruf%20Cafe&query_place_id=ChIJN5sN99a1w4kRF4pFZQcRFYA&center=40.55222,-74.21802869999999"
+    },
+    {
+      "name": "Target Café",
+      "distance": "1.1 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Target%20Caf%C3%A9&query_place_id=ChIJn_UdYgC1w4kRiQ_RBQNoZqU&center=40.528712899999995,-74.2326377"
+    },
+    {
+      "name": "Starbucks Coffee Company",
+      "distance": "1.1 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Starbucks%20Coffee%20Company&query_place_id=ChIJ7-nJhEa1w4kR4QbUOpvwtY0&center=40.52827,-74.23331000000002"
+    },
+    {
+      "name": "McDonald's",
+      "distance": "1.8 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=McDonald's&query_place_id=ChIJOyOxW1m1w4kRX135VQ1AeMQ&center=40.51773620000001,-74.23475169999999"
     }
   ],
   "team_lunch": [
-    {
-      "name": "Applebee's Grill + Bar",
-      "distance": "1.0 mi",
-      "url": "https://www.google.com/maps/search/?api=1&query=Applebee's%20Grill%20%2B%20Bar&query_place_id=ChIJeUd4fEi1w4kREx4uRbUiGCY&center=40.530101699999996,-74.22911069999999"
-    },
     {
       "name": "Rosie's Sweets",
       "distance": "1.3 mi",

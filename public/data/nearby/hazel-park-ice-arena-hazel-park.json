@@ -3,71 +3,91 @@
     {
       "name": "Krispy Krunchy Chicken",
       "distance": "0.2 mi",
-      "url": "https://www.google.com/maps/search/Krispy%20Krunchy%20Chicken+near+42.4694405%2C-83.0897482"
+      "url": "https://www.google.com/maps/search/?api=1&query=Krispy%20Krunchy%20Chicken&query_place_id=ChIJ2zG51EbPJIgRiq8HCWBzVo8&center=42.4692489,-83.08515469999999"
     },
     {
       "name": "Jimmy John's",
       "distance": "0.2 mi",
-      "url": "https://www.google.com/maps/search/Jimmy%20John's+near+42.4694405%2C-83.0897482"
+      "url": "https://www.google.com/maps/search/?api=1&query=Jimmy%20John's&query_place_id=ChIJ9VqgRCvOJIgRh1Fx18Hk2U4&center=42.4706427,-83.0852566"
     },
     {
       "name": "Taco Bell",
       "distance": "0.5 mi",
-      "url": "https://www.google.com/maps/search/Taco%20Bell+near+42.4694405%2C-83.0897482"
+      "url": "https://www.google.com/maps/search/?api=1&query=Taco%20Bell&query_place_id=ChIJZeqAH83PJIgRnUYicltCXPA&center=42.4619349,-83.0921343"
     },
     {
       "name": "Church's Texas Chicken",
       "distance": "0.5 mi",
-      "url": "https://www.google.com/maps/search/Church's%20Texas%20Chicken+near+42.4694405%2C-83.0897482"
+      "url": "https://www.google.com/maps/search/?api=1&query=Church's%20Texas%20Chicken&query_place_id=ChIJ6TuuINzPJIgR34TRJzAA8h4&center=42.4759433,-83.0838843"
     },
     {
       "name": "Med-Bites (Bowls & Pitas)",
       "distance": "0.6 mi",
-      "url": "https://www.google.com/maps/search/Med-Bites%20(Bowls%20%26%20Pitas)+near+42.4694405%2C-83.0897482"
+      "url": "https://www.google.com/maps/search/?api=1&query=Med-Bites%20(Bowls%20%26%20Pitas)&query_place_id=ChIJS5XRh7zPJIgRrFXUp0bKmTo&center=42.4771212,-83.0849051"
     },
     {
       "name": "Brayz Hamburger",
       "distance": "0.6 mi",
-      "url": "https://www.google.com/maps/search/Brayz%20Hamburger+near+42.4694405%2C-83.0897482"
+      "url": "https://www.google.com/maps/search/?api=1&query=Brayz%20Hamburger&query_place_id=ChIJs5WMnNTPJIgRQ7-0IhgRRRY&center=42.4617122,-83.08422259999999"
     },
     {
       "name": "Matt & Mo's Italian Beef",
       "distance": "0.7 mi",
-      "url": "https://www.google.com/maps/search/Matt%20%26%20Mo's%20Italian%20Beef+near+42.4694405%2C-83.0897482"
+      "url": "https://www.google.com/maps/search/?api=1&query=Matt%20%26%20Mo's%20Italian%20Beef&query_place_id=ChIJa-RXP2fPJIgRH6P6kc3tcag&center=42.4698638,-83.1038198"
+    },
+    {
+      "name": "Hardee's",
+      "distance": "0.8 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Hardee's&query_place_id=ChIJ9eT5-7TPJIgRZ16spTvuGcg&center=42.4633738,-83.1037217"
+    },
+    {
+      "name": "Checkers",
+      "distance": "0.9 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Checkers&query_place_id=ChIJg1e3MrXPJIgRLBu5RabaF7Y&center=42.461147499999996,-83.10251769999999"
+    },
+    {
+      "name": "Subway",
+      "distance": "0.9 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Subway&query_place_id=ChIJu9D9wrTPJIgReUxmf9a3r6o&center=42.4616609,-83.1044471"
     }
   ],
   "coffee": [
     {
       "name": "McDonald's",
       "distance": "0.7 mi",
-      "url": "https://www.google.com/maps/search/McDonald's+near+42.4694405%2C-83.0897482"
+      "url": "https://www.google.com/maps/search/?api=1&query=McDonald's&query_place_id=ChIJ00EJEt_PJIgRERoVBGPdQrk&center=42.4759587,-83.0802763"
     },
     {
       "name": "Java Hutt Cafe",
       "distance": "0.7 mi",
-      "url": "https://www.google.com/maps/search/Java%20Hutt%20Cafe+near+42.4694405%2C-83.0897482"
+      "url": "https://www.google.com/maps/search/?api=1&query=Java%20Hutt%20Cafe&query_place_id=ChIJWRxDrlTPJIgRVvhVb3z4aSg&center=42.4716112,-83.1041039"
     },
     {
       "name": "Coffee & Bark",
       "distance": "0.8 mi",
-      "url": "https://www.google.com/maps/search/Coffee%20%26%20Bark+near+42.4694405%2C-83.0897482"
+      "url": "https://www.google.com/maps/search/?api=1&query=Coffee%20%26%20Bark&query_place_id=ChIJy3xqjefPJIgRB6vqjPl9VNw&center=42.4700977,-83.1045323"
+    },
+    {
+      "name": "McDonald's",
+      "distance": "1.0 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=McDonald's&query_place_id=ChIJZdK_rbTPJIgR2kEiurNY0qE&center=42.461648,-83.10528780000001"
     }
   ],
   "team_lunch": [
     {
       "name": "Kost 3",
       "distance": "0.5 mi",
-      "url": "https://www.google.com/maps/search/Kost%203+near+42.4694405%2C-83.0897482"
+      "url": "https://www.google.com/maps/search/?api=1&query=Kost%203&query_place_id=ChIJU-ugEdTPJIgRnL4TJnFPbi0&center=42.464265399999995,-83.08364209999999"
     },
     {
       "name": "Buscemi's",
       "distance": "0.6 mi",
-      "url": "https://www.google.com/maps/search/Buscemi's+near+42.4694405%2C-83.0897482"
+      "url": "https://www.google.com/maps/search/?api=1&query=Buscemi's&query_place_id=ChIJ4_U2-GPPJIgRe8WBP5YJUq0&center=42.4619204,-83.0941763"
     },
     {
       "name": "Country Boy Restaurant",
       "distance": "0.6 mi",
-      "url": "https://www.google.com/maps/search/Country%20Boy%20Restaurant+near+42.4694405%2C-83.0897482"
+      "url": "https://www.google.com/maps/search/?api=1&query=Country%20Boy%20Restaurant&query_place_id=ChIJD2tBOcvPJIgR3o65ZdhyDUw&center=42.461825000000005,-83.097144"
     }
   ],
   "dinner": [

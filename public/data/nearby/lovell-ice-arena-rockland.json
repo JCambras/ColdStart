@@ -1,6 +1,11 @@
 {
   "quick_bite": [
     {
+      "name": "Dunkin'",
+      "distance": "0.8 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Dunkin'&query_place_id=ChIJT_UdKgme5IkRLVy4uacZM5c&center=42.1603431,-70.9019521"
+    },
+    {
       "name": "Seasons Café & Deli",
       "distance": "0.8 mi",
       "url": "https://www.google.com/maps/search/?api=1&query=Seasons%20Caf%C3%A9%20%26%20Deli&query_place_id=ChIJRx6iMg-e5IkRU0kkG1HZxAY&center=42.161201999999996,-70.9025453"
@@ -9,6 +14,11 @@
       "name": "Wendy's",
       "distance": "1.2 mi",
       "url": "https://www.google.com/maps/search/?api=1&query=Wendy's&query_place_id=ChIJI4bYCA-f5IkRcrN-ulgBj7c&center=42.1644179,-70.8968709"
+    },
+    {
+      "name": "Dunkin'",
+      "distance": "1.3 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Dunkin'&query_place_id=ChIJG6Px1hqe5IkRKWhJ56bhkL0&center=42.1647354,-70.8947024"
     },
     {
       "name": "sweetgreen - Healthy Salads, Bowls and Plates",
@@ -24,6 +34,21 @@
       "name": "Taco Bell",
       "distance": "2.2 mi",
       "url": "https://www.google.com/maps/search/?api=1&query=Taco%20Bell&query_place_id=ChIJeyVSEd5h44kRSXmz6iIkSGg&center=42.1731923,-70.881528"
+    },
+    {
+      "name": "Subway",
+      "distance": "2.3 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Subway&query_place_id=ChIJiU8oQJ2d5IkRoknQtonZ9xE&center=42.1715869,-70.9529659"
+    },
+    {
+      "name": "Subway",
+      "distance": "2.3 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Subway&query_place_id=ChIJzxeoxN5h44kRxoyyWYx2iPU&center=42.1721193,-70.87778519999999"
+    },
+    {
+      "name": "Windy City Pizza - Weymouth",
+      "distance": "2.3 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Windy%20City%20Pizza%20-%20Weymouth&query_place_id=ChIJkaKGSYGd5IkRCtmVopaD1TI&center=42.1686336,-70.9556722"
     }
   ],
   "coffee": [
@@ -43,14 +68,19 @@
       "url": "https://www.google.com/maps/search/?api=1&query=Dunkin'&query_place_id=ChIJG6Px1hqe5IkRKWhJ56bhkL0&center=42.1647354,-70.8947024"
     },
     {
-      "name": "Marylou's Coffee",
-      "distance": "1.4 mi",
-      "url": "https://www.google.com/maps/search/?api=1&query=Marylou's%20Coffee&query_place_id=ChIJt1pdVyqc5IkR5G6KmbT15GY&center=42.1338882,-70.9094136"
-    },
-    {
       "name": "Hole In One Donuts and Coffee Rockland",
       "distance": "2.2 mi",
       "url": "https://www.google.com/maps/search/?api=1&query=Hole%20In%20One%20Donuts%20and%20Coffee%20Rockland&query_place_id=ChIJX6ndHwCf5IkRD3-hTOmcteE&center=42.1243555,-70.90292029999999"
+    },
+    {
+      "name": "McDonald's",
+      "distance": "2.2 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=McDonald's&query_place_id=ChIJTYH8aN5h44kRDpjdJUg1qUw&center=42.17375,-70.88069"
+    },
+    {
+      "name": "McDonald's",
+      "distance": "2.2 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=McDonald's&query_place_id=ChIJi_kdkyOc5IkRjP7fd5-13D0&center=42.1218236,-70.9149842"
     }
   ],
   "team_lunch": [

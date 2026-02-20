@@ -24,9 +24,39 @@
       "name": "Bob's Sub",
       "distance": "1.0 mi",
       "url": "https://www.google.com/maps/search/?api=1&query=Bob's%20Sub&query_place_id=ChIJE9TurAeWNIgRiRO_juAIJdU&center=40.589130999999995,-79.750875"
+    },
+    {
+      "name": "Dairy Queen Grill & Chill",
+      "distance": "1.1 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Dairy%20Queen%20Grill%20%26%20Chill&query_place_id=ChIJB3ly8OGVNIgRlkemcgHxMgk&center=40.5834639,-79.7575785"
+    },
+    {
+      "name": "A&W Restaurant",
+      "distance": "1.1 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=A%26W%20Restaurant&query_place_id=ChIJL85iowWWNIgRcfrjk5sYOHA&center=40.5906777,-79.7506393"
+    },
+    {
+      "name": "Long John Silver's | A&W",
+      "distance": "1.1 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Long%20John%20Silver's%20%7C%20A%26W&query_place_id=ChIJL85iowWWNIgRfGc22LlpyX4&center=40.590685199999996,-79.7506389"
+    },
+    {
+      "name": "Wendy's",
+      "distance": "1.1 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Wendy's&query_place_id=ChIJY0GNCwaWNIgRMf8SSBo4A20&center=40.590463899999996,-79.7515181"
+    },
+    {
+      "name": "MacKenzie's Pub",
+      "distance": "1.2 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=MacKenzie's%20Pub&query_place_id=ChIJF5ZwYouVNIgRoZgLtH_kYyY&center=40.561347,-79.7455116"
     }
   ],
   "coffee": [
+    {
+      "name": "McDonald's",
+      "distance": "0.9 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=McDonald's&query_place_id=ChIJpQ4mvPm9NIgRGxG87fiZxHU&center=40.5910241,-79.7355616"
+    },
     {
       "name": "Cabrileo's Coffee",
       "distance": "0.9 mi",

@@ -1,37 +1,93 @@
 {
-  "quick_bite": [],
+  "quick_bite": [
+    {
+      "name": "Jimmy John's",
+      "distance": "0.1 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Jimmy%20John's&query_place_id=ChIJb-V43UHPJIgRdEkw7IVnnwg&center=42.486843799999995,-83.1438234"
+    },
+    {
+      "name": "Subway",
+      "distance": "0.8 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Subway&query_place_id=ChIJoVcKy3DPJIgRodShdlx4BYc&center=42.4904538,-83.1276695"
+    },
+    {
+      "name": "Taco Bell",
+      "distance": "0.9 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Taco%20Bell&query_place_id=ChIJeScqDXfPJIgRaUsTANKyRp4&center=42.4905221,-83.1254005"
+    },
+    {
+      "name": "Be Well Mefical Center",
+      "distance": "1.0 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Be%20Well%20Mefical%20Center&query_place_id=ChIJRUuEVgDPJIgRC3cx0voaGq8&center=42.4914831,-83.1612453"
+    },
+    {
+      "name": "Royal Coney Express",
+      "distance": "1.0 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Royal%20Coney%20Express&query_place_id=ChIJ8Y_32s_PJIgRy7p68k9J9xA&center=42.4907069,-83.1230757"
+    },
+    {
+      "name": "Burger King",
+      "distance": "1.0 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Burger%20King&query_place_id=ChIJSVjeaPXFJIgRn2hsI2UvKlc&center=42.5034212,-83.1451924"
+    },
+    {
+      "name": "Subway",
+      "distance": "1.4 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Subway&query_place_id=ChIJyeET86zIJIgRIXg9yI3fvDM&center=42.4977874,-83.1673431"
+    }
+  ],
   "coffee": [
     {
       "name": "Bruegger's Bagels",
       "distance": "0.1 mi",
-      "url": "https://www.google.com/maps/search/Bruegger's%20Bagels+near+42.4886613%2C-83.142703"
+      "url": "https://www.google.com/maps/search/?api=1&query=Bruegger's%20Bagels&query_place_id=ChIJRTXRCELPJIgRapk1fTfQcE4&center=42.4888103,-83.14383389999999"
     },
     {
       "name": "Seven Sundays Coffee",
       "distance": "0.1 mi",
-      "url": "https://www.google.com/maps/search/Seven%20Sundays%20Coffee+near+42.4886613%2C-83.142703"
+      "url": "https://www.google.com/maps/search/?api=1&query=Seven%20Sundays%20Coffee&query_place_id=ChIJcbvEpmjPJIgRRacAukEguC4&center=42.4882697,-83.143918"
     },
     {
       "name": "Dessert Oasis Coffee Roasters Royal Oak",
       "distance": "0.1 mi",
-      "url": "https://www.google.com/maps/search/Dessert%20Oasis%20Coffee%20Roasters%20Royal%20Oak+near+42.4886613%2C-83.142703"
+      "url": "https://www.google.com/maps/search/?api=1&query=Dessert%20Oasis%20Coffee%20Roasters%20Royal%20Oak&query_place_id=ChIJnW_tSO3PJIgRzc3rRttderQ&center=42.4893566,-83.14389709999999"
     },
     {
       "name": "Blue Mango Royal Oak",
       "distance": "0.1 mi",
-      "url": "https://www.google.com/maps/search/Blue%20Mango%20Royal%20Oak+near+42.4886613%2C-83.142703"
+      "url": "https://www.google.com/maps/search/?api=1&query=Blue%20Mango%20Royal%20Oak&query_place_id=ChIJc-fBfNzPJIgRRiA5hE8tDj0&center=42.487649999999995,-83.14382429999999"
     },
     {
       "name": "Starbucks Coffee Company",
       "distance": "0.1 mi",
-      "url": "https://www.google.com/maps/search/Starbucks%20Coffee%20Company+near+42.4886613%2C-83.142703"
+      "url": "https://www.google.com/maps/search/?api=1&query=Starbucks%20Coffee%20Company&query_place_id=ChIJ-Wh49kHPJIgRHJ96JhHGOmE&center=42.487989999999996,-83.14444999999999"
+    },
+    {
+      "name": "McDonald's",
+      "distance": "0.3 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=McDonald's&query_place_id=ChIJG_pe9kPPJIgRIM5tXuzpXu0&center=42.4894353,-83.1488469"
+    },
+    {
+      "name": "Einstein Bros. Bagels",
+      "distance": "1.0 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Einstein%20Bros.%20Bagels&query_place_id=ChIJSwFas03PJIgRaGY1Uv4X5Yk&center=42.491523900000004,-83.16132189999999"
     }
   ],
   "team_lunch": [
     {
       "name": "Brewery Corporate Office",
       "distance": "0.1 mi",
-      "url": "https://www.google.com/maps/search/Brewery%20Corporate%20Office+near+42.4886613%2C-83.142703"
+      "url": "https://www.google.com/maps/search/?api=1&query=Brewery%20Corporate%20Office&query_place_id=ChIJ5wzgIWrPJIgR7WWhx7qg-_E&center=42.487742499999996,-83.1421192"
+    },
+    {
+      "name": "Tubby's Sub Shop",
+      "distance": "0.9 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Tubby's%20Sub%20Shop&query_place_id=ChIJfSPd7ATJJIgRtrKUIJJoISs&center=42.490169099999996,-83.125154"
+    },
+    {
+      "name": "Kroger Bakery",
+      "distance": "1.5 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Kroger%20Bakery&query_place_id=ChIJB4oF1X_FJIgRt5x4PhVPJgk&center=42.5014732,-83.1191465"
     }
   ],
   "dinner": [

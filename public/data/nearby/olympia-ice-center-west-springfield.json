@@ -11,11 +11,6 @@
       "url": "https://www.google.com/maps/search/?api=1&query=Five%20Guys&query_place_id=ChIJV8UKfLDg5okRde1UR7CaMXc&center=42.1383191,-72.62650479999999"
     },
     {
-      "name": "LongHorn Steakhouse",
-      "distance": "0.3 mi",
-      "url": "https://www.google.com/maps/search/?api=1&query=LongHorn%20Steakhouse&query_place_id=ChIJEZiwdLfg5okRkPQ4DA0rCf8&center=42.133945,-72.62383"
-    },
-    {
       "name": "Subway",
       "distance": "0.4 mi",
       "url": "https://www.google.com/maps/search/?api=1&query=Subway&query_place_id=ChIJ94pzBLDg5okR9x5rJiPNisA&center=42.1400704,-72.62643179999999"
@@ -24,6 +19,36 @@
       "name": "Taco Bell",
       "distance": "0.7 mi",
       "url": "https://www.google.com/maps/search/?api=1&query=Taco%20Bell&query_place_id=ChIJ5cg03Mfg5okRXkbYnH-BbXQ&center=42.129457099999996,-72.6279038"
+    },
+    {
+      "name": "Subway",
+      "distance": "0.8 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Subway&query_place_id=ChIJFxP1blbn5okRw04Jg250x1o&center=42.145576,-72.6080719"
+    },
+    {
+      "name": "Pride Kitchens",
+      "distance": "1.0 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Pride%20Kitchens&query_place_id=ChIJD1Zxayrh5okRCeFd-cTdIek&center=42.12463100000001,-72.6254885"
+    },
+    {
+      "name": "Wendy's",
+      "distance": "1.0 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Wendy's&query_place_id=ChIJYQKSeM_g5okRdPkY4A2O20k&center=42.123657900000005,-72.6263666"
+    },
+    {
+      "name": "Subway",
+      "distance": "1.6 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Subway&query_place_id=ChIJWSpIkDDc5okRiYjxPwWnUUQ&center=42.1610084,-72.6141451"
+    },
+    {
+      "name": "La Fruta Loca",
+      "distance": "2.0 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=La%20Fruta%20Loca&query_place_id=ChIJCYfeHlLn5okRs5zmiGUBwkM&center=42.112088199999995,-72.6045369"
+    },
+    {
+      "name": "Subway",
+      "distance": "2.0 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Subway&query_place_id=ChIJOXhGR9bm5okRCxQSbtoQNco&center=42.1104661,-72.61058"
     }
   ],
   "coffee": [
@@ -36,6 +61,21 @@
       "name": "Panera Bread",
       "distance": "0.5 mi",
       "url": "https://www.google.com/maps/search/?api=1&query=Panera%20Bread&query_place_id=ChIJyS8L0Mng5okRlzxZiNWshxw&center=42.130305,-72.62166599999999"
+    },
+    {
+      "name": "McDonald's",
+      "distance": "1.6 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=McDonald's&query_place_id=ChIJb0tHKtfg5okRxV6kCdCNBkU&center=42.1157833,-72.6240201"
+    },
+    {
+      "name": "McDonald's",
+      "distance": "1.9 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=McDonald's&query_place_id=ChIJI_xVMeDd5okRZxS8vtvIYbA&center=42.1646997,-72.61363419999999"
+    },
+    {
+      "name": "McDonald's",
+      "distance": "1.9 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=McDonald's&query_place_id=ChIJEd5_cmPn5okRXgTNE9qT8W0&center=42.1392896,-72.58196400000001"
     }
   ],
   "team_lunch": [
@@ -43,16 +83,6 @@
       "name": "Munch More",
       "distance": "0.3 mi",
       "url": "https://www.google.com/maps/search/?api=1&query=Munch%20More&query_place_id=ChIJr27fcgDh5okRd6Gk3zAw-Ig&center=42.1343227,-72.6189976"
-    },
-    {
-      "name": "Chili's Grill & Bar",
-      "distance": "0.3 mi",
-      "url": "https://www.google.com/maps/search/?api=1&query=Chili's%20Grill%20%26%20Bar&query_place_id=ChIJy79CM7fg5okRW3CIuGUEaSg&center=42.1353278,-72.62504559999999"
-    },
-    {
-      "name": "Hooters",
-      "distance": "0.4 mi",
-      "url": "https://www.google.com/maps/search/?api=1&query=Hooters&query_place_id=ChIJD14rnLrg5okRvIS4sBL2EdI&center=42.138949,-72.6268051"
     },
     {
       "name": "MrBeast Burger",
@@ -68,6 +98,11 @@
       "name": "North Garden",
       "distance": "0.5 mi",
       "url": "https://www.google.com/maps/search/?api=1&query=North%20Garden&query_place_id=ChIJt7_lLLjg5okRuxjgPlWSpz8&center=42.1332737,-72.6274841"
+    },
+    {
+      "name": "Everybody bakery",
+      "distance": "1.0 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Everybody%20bakery&query_place_id=ChIJ7-HAN4zd5okR8zem0cms5K0&center=42.1486728,-72.60783239999999"
     }
   ],
   "dinner": [

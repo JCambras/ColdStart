@@ -24,6 +24,31 @@
       "name": "Sonic Drive-In",
       "distance": "0.7 mi",
       "url": "https://www.google.com/maps/search/?api=1&query=Sonic%20Drive-In&query_place_id=ChIJpWefde99wokRBI0CStf_8mo&center=40.7231804,-73.572475"
+    },
+    {
+      "name": "Dunkin'",
+      "distance": "0.7 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Dunkin'&query_place_id=ChIJvzWp78J9wokRSSzQP8TgsTA&center=40.7145765,-73.5730248"
+    },
+    {
+      "name": "Wendy's",
+      "distance": "0.7 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Wendy's&query_place_id=ChIJeahEhO99wokRqh6rrSFZ8Vo&center=40.7231771,-73.5718895"
+    },
+    {
+      "name": "Papa Presto Pizza",
+      "distance": "0.7 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Papa%20Presto%20Pizza&query_place_id=ChIJpRurj7l9wokRfcMZbtuAvJE&center=40.709672999999995,-73.5882306"
+    },
+    {
+      "name": "Jersey Mike's Subs",
+      "distance": "0.8 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Jersey%20Mike's%20Subs&query_place_id=ChIJu4aGoqN9wokRP65G_AxZaT4&center=40.715863,-73.59826509999999"
+    },
+    {
+      "name": "Halal Gs",
+      "distance": "0.8 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Halal%20Gs&query_place_id=ChIJj6NeeVN9wokRe4JR2HQxSYc&center=40.709731999999995,-73.5920333"
     }
   ],
   "coffee": [
@@ -43,9 +68,24 @@
       "url": "https://www.google.com/maps/search/?api=1&query=Pantano's%20Gourmet%20Eats%20Uniondale&query_place_id=ChIJIaHlbb19wokRtkXID1aTKq8&center=40.7177899,-73.5926137"
     },
     {
+      "name": "McDonald's",
+      "distance": "0.5 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=McDonald's&query_place_id=ChIJ09NtwB5jwokROC04cUaPKEE&center=40.717318399999996,-73.5938542"
+    },
+    {
       "name": "Dunkin'",
       "distance": "0.7 mi",
       "url": "https://www.google.com/maps/search/?api=1&query=Dunkin'&query_place_id=ChIJvzWp78J9wokRSSzQP8TgsTA&center=40.7145765,-73.5730248"
+    },
+    {
+      "name": "McDonald's",
+      "distance": "0.8 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=McDonald's&query_place_id=ChIJ37nMZbp9wokRNBywY3jLjJ4&center=40.7093693,-73.5911552"
+    },
+    {
+      "name": "Einstein Bros. Bagels",
+      "distance": "0.8 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Einstein%20Bros.%20Bagels&query_place_id=ChIJJT8vyS59wokRDtZ8CtzV-tg&center=40.714023,-73.59754649999999"
     }
   ],
   "team_lunch": [

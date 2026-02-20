@@ -16,6 +16,11 @@
       "url": "https://www.google.com/maps/search/?api=1&query=Schaller's&query_place_id=ChIJE4VaSv-51okRFno2ZT57uyM&center=43.2786021,-77.6523838"
     },
     {
+      "name": "Dunkin'",
+      "distance": "1.3 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Dunkin'&query_place_id=ChIJqSIWO8aw1okRoFJnC5CkiHY&center=43.253285,-77.6660311"
+    },
+    {
       "name": "Salvatore's Old Fashioned Pizzeria",
       "distance": "1.3 mi",
       "url": "https://www.google.com/maps/search/?api=1&query=Salvatore's%20Old%20Fashioned%20Pizzeria&query_place_id=ChIJN0ejJcaw1okRvo61QSPUbeQ&center=43.253284099999995,-77.6660319"
@@ -29,6 +34,21 @@
       "name": "KFC",
       "distance": "1.5 mi",
       "url": "https://www.google.com/maps/search/?api=1&query=KFC&query_place_id=ChIJJ-aBZbu31okRuKjmCpUP88w&center=43.242291,-77.647369"
+    },
+    {
+      "name": "Taco Bell",
+      "distance": "1.5 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Taco%20Bell&query_place_id=ChIJXbH9vi631okRC1ZkMVKMO6Y&center=43.2412579,-77.64647219999999"
+    },
+    {
+      "name": "Tony's Birdland & Pizzeria",
+      "distance": "1.6 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Tony's%20Birdland%20%26%20Pizzeria&query_place_id=ChIJ254XLy-31okRnGWMxWOG3b0&center=43.2406272,-77.6462263"
+    },
+    {
+      "name": "Wendy's",
+      "distance": "1.6 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Wendy's&query_place_id=ChIJiWG3rS631okRNIWlLe1Q-R8&center=43.240231099999995,-77.6474015"
     }
   ],
   "coffee": [
@@ -36,6 +56,16 @@
       "name": "Dunkin'",
       "distance": "1.3 mi",
       "url": "https://www.google.com/maps/search/?api=1&query=Dunkin'&query_place_id=ChIJqSIWO8aw1okRoFJnC5CkiHY&center=43.253285,-77.6660311"
+    },
+    {
+      "name": "McDonald's",
+      "distance": "1.7 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=McDonald's&query_place_id=ChIJ254XLy-31okRTOCV2cfcqJg&center=43.238878,-77.6462495"
+    },
+    {
+      "name": "McDonald's",
+      "distance": "2.8 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=McDonald's&query_place_id=ChIJt9M5rfmw1okRKSnOVzkWt8c&center=43.249103399999996,-77.6971226"
     },
     {
       "name": "Bruegger's Bagels",

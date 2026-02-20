@@ -1,14 +1,14 @@
 {
   "quick_bite": [
     {
+      "name": "Dunkin'",
+      "distance": "0.1 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Dunkin'&query_place_id=ChIJJzSbiLdw44kRFR0ajFcCNLI&center=42.3743145,-71.0856854"
+    },
+    {
       "name": "ZENSHI Handcrafted Sushi",
       "distance": "0.1 mi",
       "url": "https://www.google.com/maps/search/?api=1&query=ZENSHI%20Handcrafted%20Sushi&query_place_id=ChIJG_ihkaZx44kRi1x5zAr5blE&center=42.374426,-71.08556709999999"
-    },
-    {
-      "name": "Gufo",
-      "distance": "0.2 mi",
-      "url": "https://www.google.com/maps/search/?api=1&query=Gufo&query_place_id=ChIJHx0ii-Jx44kR463pa6SjSao&center=42.371849399999995,-71.08761439999999"
     },
     {
       "name": "Arams #2 House of Pizza",
@@ -29,6 +29,26 @@
       "name": "airfare snacks",
       "distance": "0.4 mi",
       "url": "https://www.google.com/maps/search/?api=1&query=airfare%20snacks&query_place_id=ChIJt7PPV6Vx44kRGBxjyrg5YkU&center=42.370602,-71.07769689999999"
+    },
+    {
+      "name": "Burger King",
+      "distance": "0.4 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Burger%20King&query_place_id=ChIJr44z6slw44kRKyHbYIB95Jk&center=42.3779605,-71.0897331"
+    },
+    {
+      "name": "Taco Bell",
+      "distance": "0.5 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Taco%20Bell&query_place_id=ChIJEwCYBwBx44kRfLGRNxscO_s&center=42.3680601,-71.0777469"
+    },
+    {
+      "name": "Sandwich Boy Company",
+      "distance": "0.5 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Sandwich%20Boy%20Company&query_place_id=ChIJsSD89jNx44kRiAIwnSQFu4I&center=42.3682768,-71.0763656"
+    },
+    {
+      "name": "Mama Gina's Pizzeria",
+      "distance": "0.7 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Mama%20Gina's%20Pizzeria&query_place_id=ChIJF70I4cpw44kRc5YvrWKyXRc&center=42.379422000000005,-71.096218"
     }
   ],
   "coffee": [
@@ -36,6 +56,11 @@
       "name": "Honey's Cambridge",
       "distance": "0.1 mi",
       "url": "https://www.google.com/maps/search/?api=1&query=Honey's%20Cambridge&query_place_id=ChIJX8kDRABx44kR9u89Aeyg0BU&center=42.3716442,-71.08355809999999"
+    },
+    {
+      "name": "McDonald's",
+      "distance": "0.1 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=McDonald's&query_place_id=ChIJScIT-bhw44kRHp24HwkhNho&center=42.373824,-71.0834127"
     },
     {
       "name": "Starbucks Coffee Company",
@@ -56,6 +81,26 @@
       "name": "2nd Street Cafe",
       "distance": "0.4 mi",
       "url": "https://www.google.com/maps/search/?api=1&query=2nd%20Street%20Cafe&query_place_id=ChIJ59Xmdrxw44kRci9CwmWPwcQ&center=42.3685541,-71.07924299999999"
+    },
+    {
+      "name": "Rebelle Artisan Bagels",
+      "distance": "0.4 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Rebelle%20Artisan%20Bagels&query_place_id=ChIJR1Kjvd9E5IkRsnVA9rG4VPo&center=42.3665267,-71.0821089"
+    },
+    {
+      "name": "Vinal Bakery",
+      "distance": "0.5 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Vinal%20Bakery&query_place_id=ChIJ840Y9uNx44kRDkQEj-9LiQU&center=42.3780394,-71.09163130000002"
+    },
+    {
+      "name": "Clover",
+      "distance": "0.5 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Clover&query_place_id=ChIJOfdMAEp444kRCdNdMHYhaTs&center=42.3731109,-71.0951358"
+    },
+    {
+      "name": "Bakey",
+      "distance": "0.7 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Bakey&query_place_id=ChIJb0MFOvRx44kRsTPjjtzlYfA&center=42.3621201,-71.08487389999999"
     }
   ],
   "team_lunch": [

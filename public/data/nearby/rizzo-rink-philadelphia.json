@@ -1,6 +1,11 @@
 {
   "quick_bite": [
     {
+      "name": "Dunkin'",
+      "distance": "0.1 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Dunkin'&query_place_id=ChIJl2-rFaPIxokRNVwY3Inxl0c&center=39.933027599999996,-75.1445997"
+    },
+    {
       "name": "Shank's Original",
       "distance": "0.2 mi",
       "url": "https://www.google.com/maps/search/?api=1&query=Shank's%20Original&query_place_id=ChIJtyOYNr3IxokR4QNWoa14b-U&center=39.9348142,-75.1420548"
@@ -16,9 +21,9 @@
       "url": "https://www.google.com/maps/search/?api=1&query=New%20Dragon%20City&query_place_id=ChIJIYDYjqDIxokR9ECk_VGYtcs&center=39.935096099999996,-75.1531887"
     },
     {
-      "name": "Chuck E. Cheese",
-      "distance": "0.8 mi",
-      "url": "https://www.google.com/maps/search/?api=1&query=Chuck%20E.%20Cheese&query_place_id=ChIJO-gmLKzIxokRAc9k-nwme30&center=39.9216779,-75.1449445"
+      "name": "Wawa",
+      "distance": "0.5 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Wawa&query_place_id=ChIJgUYrEkzPxokRe7DjzHd6QDQ&center=39.9265154,-75.145439"
     }
   ],
   "coffee": [
@@ -38,14 +43,24 @@
       "url": "https://www.google.com/maps/search/?api=1&query=Philadelphia%20Java%20Company&query_place_id=ChIJlYvabaLIxokRoSIzVCdMWNE&center=39.936162599999996,-75.1469809"
     },
     {
-      "name": "Herman's Coffee",
-      "distance": "0.3 mi",
-      "url": "https://www.google.com/maps/search/?api=1&query=Herman's%20Coffee&query_place_id=ChIJAWmSu6bIxokRkfPzo0yL8tU&center=39.9313758,-75.1497382"
-    },
-    {
       "name": "Cake and Joe",
       "distance": "0.3 mi",
       "url": "https://www.google.com/maps/search/?api=1&query=Cake%20and%20Joe&query_place_id=ChIJv5t3hP3JxokRpyBrVsNqgDE&center=39.9304146,-75.1495444"
+    },
+    {
+      "name": "Wawa",
+      "distance": "0.5 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Wawa&query_place_id=ChIJgUYrEkzPxokRe7DjzHd6QDQ&center=39.9265154,-75.145439"
+    },
+    {
+      "name": "McDonald's",
+      "distance": "0.5 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=McDonald's&query_place_id=ChIJS3XzXKXIxokRt_IWd49G7Io&center=39.926666399999995,-75.14160439999999"
+    },
+    {
+      "name": "Paris Baguette",
+      "distance": "0.5 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Paris%20Baguette&query_place_id=ChIJmUUXsRHHxokRHOrO5EJiGqw&center=39.9352386,-75.1549259"
     }
   ],
   "team_lunch": [
@@ -73,6 +88,11 @@
       "name": "burske",
       "distance": "0.5 mi",
       "url": "https://www.google.com/maps/search/?api=1&query=burske&query_place_id=ChIJ9VR1BQDJxokRMYp1zqBDUPs&center=39.926667099999996,-75.1481797"
+    },
+    {
+      "name": "Walmart Bakery",
+      "distance": "0.5 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Walmart%20Bakery&query_place_id=ChIJ____oLrIxokRo0a3vrWdVlw&center=39.9263713,-75.14158619999999"
     },
     {
       "name": "Bainbridge Group Inc",

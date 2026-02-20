@@ -6,6 +6,11 @@
       "url": "https://www.google.com/maps/search/?api=1&query=Subway&query_place_id=ChIJO9-nf5yIwokRYRfczaEkPEc&center=40.800045999999995,-73.6592306"
     },
     {
+      "name": "Dunkin'",
+      "distance": "1.0 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Dunkin'&query_place_id=ChIJ7RwvFpyIwokRvOokHnL9I80&center=40.799036,-73.663151"
+    },
+    {
       "name": "Subway",
       "distance": "1.5 mi",
       "url": "https://www.google.com/maps/search/?api=1&query=Subway&query_place_id=ChIJiw4-lsyIwokR4WqeS05UJow&center=40.829377,-73.684112"
@@ -60,11 +65,6 @@
       "url": "https://www.google.com/maps/search/?api=1&query=Farmer's%20Fridge&query_place_id=ChIJV73ZZVGJwokR1kSP6xr-5SQ&center=40.804269,-73.6704524"
     },
     {
-      "name": "Roslyn's Cellar",
-      "distance": "1.0 mi",
-      "url": "https://www.google.com/maps/search/?api=1&query=Roslyn's%20Cellar&query_place_id=ChIJq6q6tSCGwokRy_aqKdNAbFY&center=40.80159640000001,-73.6522872"
-    },
-    {
       "name": "مكان تمشيه",
       "distance": "1.1 mi",
       "url": "https://www.google.com/maps/search/?api=1&query=%D9%85%D9%83%D8%A7%D9%86%20%D8%AA%D9%85%D8%B4%D9%8A%D9%87&query_place_id=ChIJDbFbQACHwokR18ukuxlSELc&center=40.8037902,-73.64683409999999"
@@ -83,6 +83,11 @@
       "name": "Munsey Park Bagel",
       "distance": "1.7 mi",
       "url": "https://www.google.com/maps/search/?api=1&query=Munsey%20Park%20Bagel&query_place_id=ChIJYVYI5vaIwokRBbn6DTL7-UY&center=40.7947527,-73.685479"
+    },
+    {
+      "name": "Schmear Bagel & Cafe",
+      "distance": "1.8 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Schmear%20Bagel%20%26%20Cafe&query_place_id=ChIJK6uWWM2IwokReJWlLwVlepY&center=40.8306069,-73.6889865"
     }
   ],
   "dinner": [

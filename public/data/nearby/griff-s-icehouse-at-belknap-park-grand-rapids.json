@@ -3,61 +3,101 @@
     {
       "name": "Subway",
       "distance": "0.3 mi",
-      "url": "https://www.google.com/maps/search/Subway+near+42.9809828%2C-85.6657314"
+      "url": "https://www.google.com/maps/search/?api=1&query=Subway&query_place_id=ChIJkWrG2DCsGYgRRvGjf7v8fv4&center=42.9842662,-85.66982420000001"
     },
     {
       "name": "Arcane Pizza",
       "distance": "0.4 mi",
-      "url": "https://www.google.com/maps/search/Arcane%20Pizza+near+42.9809828%2C-85.6657314"
+      "url": "https://www.google.com/maps/search/?api=1&query=Arcane%20Pizza&query_place_id=ChIJ5dJzL4qtGYgRopcUI9HEXJU&center=42.9866478,-85.6658743"
     },
     {
       "name": "Jimmy John's",
       "distance": "0.5 mi",
-      "url": "https://www.google.com/maps/search/Jimmy%20John's+near+42.9809828%2C-85.6657314"
+      "url": "https://www.google.com/maps/search/?api=1&query=Jimmy%20John's&query_place_id=ChIJdWuCqM2tGYgRWekBU-zn664&center=42.9749443,-85.6720151"
     },
     {
-      "name": "Chuck E. Cheese",
-      "distance": "2.9 mi",
-      "url": "https://www.google.com/maps/search/Chuck%20E.%20Cheese+near+42.9809828%2C-85.6657314"
+      "name": "Taco Bell",
+      "distance": "0.9 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Taco%20Bell&query_place_id=ChIJ51mtXSisGYgRnBKLmo8Grtg&center=42.985394299999996,-85.6825319"
+    },
+    {
+      "name": "Balls Dogs",
+      "distance": "0.9 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Balls%20Dogs&query_place_id=ChIJIzFVJp6tGYgRWp0yy8CVxqY&center=42.981956,-85.64716849999999"
+    },
+    {
+      "name": "Jimmy John's",
+      "distance": "1.0 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Jimmy%20John's&query_place_id=ChIJs5f1G66tGYgRVoJI6aW8V2c&center=42.970289799999996,-85.65344809999999"
+    },
+    {
+      "name": "Subway",
+      "distance": "1.0 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Subway&query_place_id=ChIJH37wNMatGYgRMejWCFAPgVU&center=42.966501199999996,-85.6668795"
+    },
+    {
+      "name": "Fratelli's Pizza (Bridge St.)",
+      "distance": "1.0 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Fratelli's%20Pizza%20(Bridge%20St.)&query_place_id=ChIJ1aeRhs6tGYgR1-Nsxbe1Qfw&center=42.9707734,-85.68054649999999"
+    },
+    {
+      "name": "Ski's Sub Shop",
+      "distance": "1.1 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Ski's%20Sub%20Shop&query_place_id=ChIJTUGFz8WtGYgRIV0CoKg3Qx8&center=42.9653109,-85.6698006"
+    },
+    {
+      "name": "Untitled Cafe",
+      "distance": "1.1 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Untitled%20Cafe&query_place_id=ChIJvfYzIwCtGYgRkkG7Uw5EHtw&center=42.9653048,-85.6709247"
     }
   ],
   "coffee": [
     {
       "name": "Field & Fire Cafe",
       "distance": "0.4 mi",
-      "url": "https://www.google.com/maps/search/Field%20%26%20Fire%20Cafe+near+42.9809828%2C-85.6657314"
+      "url": "https://www.google.com/maps/search/?api=1&query=Field%20%26%20Fire%20Cafe&query_place_id=ChIJ0wdy0zKsGYgRv8pwdTJZ1wE&center=42.9776184,-85.67228589999999"
     },
     {
       "name": "Fika Grand Rapids | Vegan and Gluten Free",
       "distance": "0.4 mi",
-      "url": "https://www.google.com/maps/search/Fika%20Grand%20Rapids%20%7C%20Vegan%20and%20Gluten%20Free+near+42.9809828%2C-85.6657314"
+      "url": "https://www.google.com/maps/search/?api=1&query=Fika%20Grand%20Rapids%20%7C%20Vegan%20and%20Gluten%20Free&query_place_id=ChIJ1afSSQCtGYgRQSFrApjuZbk&center=42.9874681,-85.66581269999999"
     },
     {
       "name": "White Water Cafe",
       "distance": "0.5 mi",
-      "url": "https://www.google.com/maps/search/White%20Water%20Cafe+near+42.9809828%2C-85.6657314"
+      "url": "https://www.google.com/maps/search/?api=1&query=White%20Water%20Cafe&query_place_id=ChIJA-a5nHutGYgRbGLwc9hX6SA&center=42.9759451,-85.6720974"
     },
     {
       "name": "Sweetwaters Coffee & Tea",
       "distance": "0.6 mi",
-      "url": "https://www.google.com/maps/search/Sweetwaters%20Coffee%20%26%20Tea+near+42.9809828%2C-85.6657314"
+      "url": "https://www.google.com/maps/search/?api=1&query=Sweetwaters%20Coffee%20%26%20Tea&query_place_id=ChIJqXGamZetGYgRKLrXTdRjP94&center=42.973777,-85.671579"
     },
     {
       "name": "Hastings Cafe",
       "distance": "0.6 mi",
-      "url": "https://www.google.com/maps/search/Hastings%20Cafe+near+42.9809828%2C-85.6657314"
+      "url": "https://www.google.com/maps/search/?api=1&query=Hastings%20Cafe&query_place_id=ChIJpTpo4pKtGYgRllcrL4ky4xI&center=42.9723882,-85.66340819999999"
+    },
+    {
+      "name": "McDonald's",
+      "distance": "0.8 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=McDonald's&query_place_id=ChIJr3JrSrGtGYgRt75Qmvyxmj0&center=42.9705631,-85.6591028"
+    },
+    {
+      "name": "Express Cafe",
+      "distance": "0.9 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Express%20Cafe&query_place_id=ChIJ-wOc0JGtGYgRSOx7qKMS_4E&center=42.9685146,-85.6697442"
     }
   ],
   "team_lunch": [
     {
       "name": "China City",
       "distance": "0.3 mi",
-      "url": "https://www.google.com/maps/search/China%20City+near+42.9809828%2C-85.6657314"
+      "url": "https://www.google.com/maps/search/?api=1&query=China%20City&query_place_id=ChIJkWrG2DCsGYgRt2k-t31r2gA&center=42.984307799999996,-85.6697111"
     },
     {
       "name": "Mai's Thai",
       "distance": "0.5 mi",
-      "url": "https://www.google.com/maps/search/Mai's%20Thai+near+42.9809828%2C-85.6657314"
+      "url": "https://www.google.com/maps/search/?api=1&query=Mai's%20Thai&query_place_id=ChIJC54_zGOtGYgRtpmgn07nLHQ&center=42.985251,-85.65690769999999"
     }
   ],
   "dinner": [

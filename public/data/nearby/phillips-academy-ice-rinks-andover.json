@@ -1,6 +1,11 @@
 {
   "quick_bite": [
     {
+      "name": "Dunkin'",
+      "distance": "1.0 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Dunkin'&query_place_id=ChIJwbB2QokI44kR5PVUSlOWS5g&center=42.6538411,-71.1389658"
+    },
+    {
       "name": "Burger King",
       "distance": "2.3 mi",
       "url": "https://www.google.com/maps/search/?api=1&query=Burger%20King&query_place_id=ChIJ7R6YiCQG44kRTL2oGIOMcJs&center=42.6748614,-71.1274533"
@@ -53,6 +58,16 @@
       "name": "Starbucks Coffee Company",
       "distance": "1.1 mi",
       "url": "https://www.google.com/maps/search/?api=1&query=Starbucks%20Coffee%20Company&query_place_id=ChIJcfm0QYkI44kR6bjBwnmhA10&center=42.656386999999995,-71.14026199999999"
+    },
+    {
+      "name": "Monica’s Mithai Cafe & Bar",
+      "distance": "1.2 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Monica%E2%80%99s%20Mithai%20Cafe%20%26%20Bar&query_place_id=ChIJ4azHkwgJ44kRccuCiPMStRU&center=42.6568488,-71.14009340000001"
+    },
+    {
+      "name": "McDonald's",
+      "distance": "1.7 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=McDonald's&query_place_id=ChIJX325f30I44kRY_ksbHBtuMk&center=42.663241,-71.1446768"
     }
   ],
   "team_lunch": [

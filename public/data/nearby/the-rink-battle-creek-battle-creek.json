@@ -3,56 +3,96 @@
     {
       "name": "Jimmy John's",
       "distance": "0.3 mi",
-      "url": "https://www.google.com/maps/search/Jimmy%20John's+near+42.3198412%2C-85.18971169999999"
+      "url": "https://www.google.com/maps/search/?api=1&query=Jimmy%20John's&query_place_id=ChIJMyQZUUvxF4gR1tB26NvyDkI&center=42.3182742,-85.1834088"
     },
     {
       "name": "Subway",
       "distance": "0.4 mi",
-      "url": "https://www.google.com/maps/search/Subway+near+42.3198412%2C-85.18971169999999"
+      "url": "https://www.google.com/maps/search/?api=1&query=Subway&query_place_id=ChIJ8RDsJo_xF4gRyERH5sXT6CY&center=42.319612,-85.1824829"
     },
     {
-      "name": "The Great Lakes Hideaway, Cozy Centrally Located For Travelers",
-      "distance": "1.3 mi",
-      "url": "https://www.google.com/maps/search/The%20Great%20Lakes%20Hideaway%2C%20Cozy%20Centrally%20Located%20For%20Travelers+near+42.3198412%2C-85.18971169999999"
+      "name": "Figgs Fast Food",
+      "distance": "0.9 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Figgs%20Fast%20Food&query_place_id=ChIJcZwNLzfyF4gRf4uTWy-jgHA&center=42.325274199999996,-85.20545290000001"
     },
     {
-      "name": "The Great Lakes Hideaway, Cozy & Centrally Located For Travelers",
-      "distance": "1.3 mi",
-      "url": "https://www.google.com/maps/search/The%20Great%20Lakes%20Hideaway%2C%20Cozy%20%26%20Centrally%20Located%20For%20Travelers+near+42.3198412%2C-85.18971169999999"
+      "name": "Burger King",
+      "distance": "1.2 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Burger%20King&query_place_id=ChIJtW23UQXyF4gRCqgigSERsNc&center=42.3032992,-85.19906309999999"
+    },
+    {
+      "name": "Burger King",
+      "distance": "1.4 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Burger%20King&query_place_id=ChIJNxAYRHrxF4gR2K8bjOCqvS8&center=42.3385911,-85.18103219999999"
+    },
+    {
+      "name": "Coopers Chicken",
+      "distance": "1.4 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Coopers%20Chicken&query_place_id=ChIJKwZTrFHxF4gR45PSB5xAA1s&center=42.3302378,-85.1668904"
+    },
+    {
+      "name": "Arby's",
+      "distance": "1.5 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Arby's&query_place_id=ChIJ2YQ_8nrxF4gR9GVlVRlM6r0&center=42.3399326,-85.1810962"
+    },
+    {
+      "name": "Long John Silver's",
+      "distance": "1.5 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Long%20John%20Silver's&query_place_id=ChIJJ6uP2QXyF4gRlsCcWilE7pY&center=42.2997,-85.1990624"
+    },
+    {
+      "name": "Popeyes Louisiana Kitchen",
+      "distance": "1.5 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Popeyes%20Louisiana%20Kitchen&query_place_id=ChIJQZ1FBQTyF4gRGOpg_XwmRoQ&center=42.2988716,-85.1951962"
+    },
+    {
+      "name": "Taco Bell",
+      "distance": "1.5 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Taco%20Bell&query_place_id=ChIJV5Eo7gXyF4gRB8J5QcGZizc&center=42.2993157,-85.1990256"
     }
   ],
   "coffee": [
     {
       "name": "Barista Blues Cafe",
       "distance": "0.3 mi",
-      "url": "https://www.google.com/maps/search/Barista%20Blues%20Cafe+near+42.3198412%2C-85.18971169999999"
+      "url": "https://www.google.com/maps/search/?api=1&query=Barista%20Blues%20Cafe&query_place_id=ChIJ0-tz_bzzF4gRIl_LFBgIYcU&center=42.3215983,-85.18506359999999"
     },
     {
       "name": "The Share Center",
       "distance": "0.3 mi",
-      "url": "https://www.google.com/maps/search/The%20Share%20Center+near+42.3198412%2C-85.18971169999999"
+      "url": "https://www.google.com/maps/search/?api=1&query=The%20Share%20Center&query_place_id=ChIJB8WHPiHyF4gRr28cvnKeQA0&center=42.316753299999995,-85.19285579999999"
     },
     {
       "name": "32 Social",
       "distance": "0.3 mi",
-      "url": "https://www.google.com/maps/search/32%20Social+near+42.3198412%2C-85.18971169999999"
+      "url": "https://www.google.com/maps/search/?api=1&query=32%20Social&query_place_id=ChIJS_G3Ic7xF4gREHA9xwvNS7o&center=42.3200846,-85.1830513"
     },
     {
       "name": "JJ’s Sweet Treats",
       "distance": "0.4 mi",
-      "url": "https://www.google.com/maps/search/JJ%E2%80%99s%20Sweet%20Treats+near+42.3198412%2C-85.18971169999999"
+      "url": "https://www.google.com/maps/search/?api=1&query=JJ%E2%80%99s%20Sweet%20Treats&query_place_id=ChIJs6OwayjxF4gRHcLAsThLISo&center=42.3196454,-85.1826478"
+    },
+    {
+      "name": "McDonald's",
+      "distance": "1.9 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=McDonald's&query_place_id=ChIJP0oLFHTyF4gR96DyqLxYN44&center=42.298584,-85.21479959999999"
     }
   ],
   "team_lunch": [
     {
       "name": "The Alloy Restaurant",
       "distance": "0.3 mi",
-      "url": "https://www.google.com/maps/search/The%20Alloy%20Restaurant+near+42.3198412%2C-85.18971169999999"
+      "url": "https://www.google.com/maps/search/?api=1&query=The%20Alloy%20Restaurant&query_place_id=ChIJE7ZWNYnxF4gRt2nnSWZ8ZkU&center=42.3187813,-85.1842477"
     },
     {
       "name": "Cinnabon at Schlotzsky's",
       "distance": "0.4 mi",
-      "url": "https://www.google.com/maps/search/Cinnabon%20at%20Schlotzsky's+near+42.3198412%2C-85.18971169999999"
+      "url": "https://www.google.com/maps/search/?api=1&query=Cinnabon%20at%20Schlotzsky's&query_place_id=ChIJb0OPnojxF4gRPNc50hwhVMs&center=42.3197805,-85.182576"
+    },
+    {
+      "name": "Wilsonwillows Cupcakes",
+      "distance": "1.7 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Wilsonwillows%20Cupcakes&query_place_id=ChIJdd27lDbxF4gRA8DU3CtSEkE&center=42.330222899999995,-85.15967239999999"
     }
   ],
   "dinner": [

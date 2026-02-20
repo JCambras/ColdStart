@@ -6,6 +6,11 @@
       "url": "https://www.google.com/maps/search/?api=1&query=Little%20Caesars%20Pizza&query_place_id=ChIJO8nsYR3iNIgRtLwrzD8Wg2s&center=40.200413,-79.834015"
     },
     {
+      "name": "Dunkin'",
+      "distance": "0.6 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Dunkin'&query_place_id=ChIJ6YSnXxniNIgRLriLFISmTjc&center=40.2026572,-79.836557"
+    },
+    {
       "name": "Dairy Queen Grill & Chill",
       "distance": "0.6 mi",
       "url": "https://www.google.com/maps/search/?api=1&query=Dairy%20Queen%20Grill%20%26%20Chill&query_place_id=ChIJjX_PQhniNIgRM8SCAd7SjwE&center=40.2026302,-79.83664940000001"
@@ -24,6 +29,30 @@
       "name": "Subway",
       "distance": "1.7 mi",
       "url": "https://www.google.com/maps/search/?api=1&query=Subway&query_place_id=ChIJ4ePR7CEeNYgR_KlMc8L2_n4&center=40.1797477,-79.804836"
+    },
+    {
+      "name": "Subway",
+      "distance": "3.1 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Subway&query_place_id=ChIJsbsjn0TgNIgRbE-HwoD5YEQ&center=40.2103335,-79.7683099",
+      "isFar": true
+    },
+    {
+      "name": "Giant Eagle Prepared Foods",
+      "distance": "3.5 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Giant%20Eagle%20Prepared%20Foods&query_place_id=ChIJo65wNV7gNIgRhx6cjEMWvXY&center=40.218868799999996,-79.7638442",
+      "isFar": true
+    },
+    {
+      "name": "Jersey Mike's Subs",
+      "distance": "4.2 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Jersey%20Mike's%20Subs&query_place_id=ChIJZzMV7mYdNYgR1LDuVgrw0HI&center=40.1398669,-79.84360350000001",
+      "isFar": true
+    },
+    {
+      "name": "Subway",
+      "distance": "4.3 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Subway&query_place_id=ChIJtecBOzAcNYgRUyb2AwXKwQk&center=40.1389877,-79.8416913",
+      "isFar": true
     }
   ],
   "coffee": [
@@ -31,14 +60,21 @@
       "name": "Dunkin'",
       "distance": "0.6 mi",
       "url": "https://www.google.com/maps/search/?api=1&query=Dunkin'&query_place_id=ChIJ6YSnXxniNIgRLriLFISmTjc&center=40.2026572,-79.836557"
+    },
+    {
+      "name": "McDonald's",
+      "distance": "4.4 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=McDonald's&query_place_id=ChIJ05bkgjocNYgRqwEX13m9XZQ&center=40.1372393,-79.84343199999999",
+      "isFar": true
+    },
+    {
+      "name": "McDonald's",
+      "distance": "4.9 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=McDonald's&query_place_id=ChIJF7tmnkQcNYgR74sd8pBdCDg&center=40.134155199999995,-79.86162279999999",
+      "isFar": true
     }
   ],
   "team_lunch": [
-    {
-      "name": "Murph's Pub At the Garden",
-      "distance": "0.1 mi",
-      "url": "https://www.google.com/maps/search/?api=1&query=Murph's%20Pub%20At%20the%20Garden&query_place_id=ChIJCYP5RWAcNYgR-mSbflJ8sUE&center=40.198914099999996,-79.8250422"
-    },
     {
       "name": "The Pizza Company",
       "distance": "1.0 mi",

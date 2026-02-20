@@ -16,11 +16,6 @@
       "url": "https://www.google.com/maps/search/?api=1&query=Jersey%20Mike's%20Subs&query_place_id=ChIJ58clMy_NxokRm0ZkLLUC8KQ&center=39.8479771,-74.9772242"
     },
     {
-      "name": "Olive Garden Italian Restaurant",
-      "distance": "0.4 mi",
-      "url": "https://www.google.com/maps/search/?api=1&query=Olive%20Garden%20Italian%20Restaurant&query_place_id=ChIJiWq94iLNxokRmKdXa-L-cBM&center=39.847519,-74.988177"
-    },
-    {
       "name": "Pancheros Mexican Grill - Voorhees",
       "distance": "0.5 mi",
       "url": "https://www.google.com/maps/search/?api=1&query=Pancheros%20Mexican%20Grill%20-%20Voorhees&query_place_id=ChIJuU8jISbNxokRPij1l2AnsmI&center=39.8483273,-74.97701909999999"
@@ -29,6 +24,31 @@
       "name": "Wendy's",
       "distance": "0.5 mi",
       "url": "https://www.google.com/maps/search/?api=1&query=Wendy's&query_place_id=ChIJMRu7uiPNxokRzlTxf7T4K8U&center=39.8490138,-74.987129"
+    },
+    {
+      "name": "PrimoHoagies",
+      "distance": "0.6 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=PrimoHoagies&query_place_id=ChIJ0TW8dCfNxokR_nt8SnhS7Zc&center=39.851204599999996,-74.9815416"
+    },
+    {
+      "name": "Buffalo Wild Wings GO",
+      "distance": "0.6 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Buffalo%20Wild%20Wings%20GO&query_place_id=ChIJn0P1KgDNxokRgVYA5v-iV0k&center=39.8501841,-74.9878088"
+    },
+    {
+      "name": "Dunkin'",
+      "distance": "0.6 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Dunkin'&query_place_id=ChIJuxMreSHNxokR_MoZeh0y6I8&center=39.850731599999996,-74.9864091"
+    },
+    {
+      "name": "Chick-fil-A",
+      "distance": "0.7 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Chick-fil-A&query_place_id=ChIJa8NG2CbNxokR0hp1rtZucKw&center=39.8527462,-74.9841831"
+    },
+    {
+      "name": "chicksville hot chicken",
+      "distance": "0.8 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=chicksville%20hot%20chicken&query_place_id=ChIJH4XwcnLNxokRtLKHvpd7fB0&center=39.8414473,-74.9968178"
     }
   ],
   "coffee": [
@@ -46,14 +66,34 @@
       "name": "Dunkin'",
       "distance": "0.6 mi",
       "url": "https://www.google.com/maps/search/?api=1&query=Dunkin'&query_place_id=ChIJuxMreSHNxokR_MoZeh0y6I8&center=39.850731599999996,-74.9864091"
+    },
+    {
+      "name": "McDonald's",
+      "distance": "0.6 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=McDonald's&query_place_id=ChIJXcHLdCfNxokRkLlqhm9zFfc&center=39.852069,-74.981094"
+    },
+    {
+      "name": "Wawa",
+      "distance": "0.9 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Wawa&query_place_id=ChIJp8OOEhPNxokR8iPqlJGd2eo&center=39.8391033,-74.99826519999999"
+    },
+    {
+      "name": "Wawa",
+      "distance": "1.0 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Wawa&query_place_id=ChIJ5wOQBFszwYkRQnpSybbAvs0&center=39.8413572,-74.96293589999999"
+    },
+    {
+      "name": "Wawa",
+      "distance": "1.3 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Wawa&query_place_id=ChIJuwx5A9HMxokRYV5FQRd7MAI&center=39.8609285,-74.9760086"
+    },
+    {
+      "name": "Classic Cake Bakery",
+      "distance": "1.7 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Classic%20Cake%20Bakery&query_place_id=ChIJaXUmiTIzwYkR2RpuZ2JSz-4&center=39.8636383,-74.9652358"
     }
   ],
   "team_lunch": [
-    {
-      "name": "Applebee's Grill + Bar",
-      "distance": "0.5 mi",
-      "url": "https://www.google.com/maps/search/?api=1&query=Applebee's%20Grill%20%2B%20Bar&query_place_id=ChIJx9NDJSbNxokRySz-NNBg9Dc&center=39.8493887,-74.9780916"
-    },
     {
       "name": "danny morr",
       "distance": "1.7 mi",

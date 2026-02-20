@@ -6,6 +6,11 @@
       "url": "https://www.google.com/maps/search/?api=1&query=PrimoHoagies&query_place_id=ChIJ94DK-3hWxokRjfK5gibcvts&center=39.8343732,-75.75211"
     },
     {
+      "name": "Dunkin'",
+      "distance": "2.1 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Dunkin'&query_place_id=ChIJY36QCxpWxokRoDTQ_0ysKfU&center=39.8430031,-75.7299039"
+    },
+    {
       "name": "KFC",
       "distance": "2.1 mi",
       "url": "https://www.google.com/maps/search/?api=1&query=KFC&query_place_id=ChIJ_6IjDRFWxokRhGNA7riQ3A4&center=39.8430873,-75.7294697"
@@ -16,6 +21,11 @@
       "url": "https://www.google.com/maps/search/?api=1&query=Arby's&query_place_id=ChIJ3SbxAIxXxokRXVbaenyvZ8M&center=39.8431066,-75.729411"
     },
     {
+      "name": "Wawa",
+      "distance": "2.5 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Wawa&query_place_id=ChIJ3XRAvB5WxokRTeUClSd8Gfw&center=39.84464,-75.717625"
+    },
+    {
       "name": "Porta Béla",
       "distance": "2.7 mi",
       "url": "https://www.google.com/maps/search/?api=1&query=Porta%20B%C3%A9la&query_place_id=ChIJbWg7rgRWxokRDhdZLqUYe7M&center=39.8386981,-75.72037929999999"
@@ -24,6 +34,22 @@
       "name": "Taco Bell",
       "distance": "2.8 mi",
       "url": "https://www.google.com/maps/search/?api=1&query=Taco%20Bell&query_place_id=ChIJScLhmJpVxokRWZXy6OvwWmk&center=39.835202699999996,-75.794294"
+    },
+    {
+      "name": "Wawa",
+      "distance": "2.8 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Wawa&query_place_id=ChIJLZAmyhxUxokR9q5PrRQ8gfA&center=39.834679,-75.795126"
+    },
+    {
+      "name": "Burger King",
+      "distance": "2.9 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Burger%20King&query_place_id=ChIJRZ4VAwtVxokRnvt7_32ljZI&center=39.8375469,-75.8003641"
+    },
+    {
+      "name": "Fritangas Snacks",
+      "distance": "3.1 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Fritangas%20Snacks&query_place_id=ChIJbZ2xRKb4xokRzWNmTQT3bM8&center=39.8396701,-75.7102523",
+      "isFar": true
     }
   ],
   "coffee": [
@@ -38,9 +64,24 @@
       "url": "https://www.google.com/maps/search/?api=1&query=Dunkin'&query_place_id=ChIJY36QCxpWxokRoDTQ_0ysKfU&center=39.8430031,-75.7299039"
     },
     {
+      "name": "McDonald's",
+      "distance": "2.1 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=McDonald's&query_place_id=ChIJdZVNKhBWxokRR-4c5Ey3h5A&center=39.842329199999995,-75.729693"
+    },
+    {
+      "name": "Wawa",
+      "distance": "2.5 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Wawa&query_place_id=ChIJ3XRAvB5WxokRTeUClSd8Gfw&center=39.84464,-75.717625"
+    },
+    {
       "name": "Wanderlust Doughnuts",
       "distance": "2.7 mi",
       "url": "https://www.google.com/maps/search/?api=1&query=Wanderlust%20Doughnuts&query_place_id=ChIJvSwCFPn5xokRTG4WThLMoEw&center=39.846668,-75.712514"
+    },
+    {
+      "name": "Wawa",
+      "distance": "2.8 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Wawa&query_place_id=ChIJLZAmyhxUxokR9q5PrRQ8gfA&center=39.834679,-75.795126"
     }
   ],
   "team_lunch": [

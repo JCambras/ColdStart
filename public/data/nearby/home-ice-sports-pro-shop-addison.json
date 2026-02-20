@@ -1,7 +1,125 @@
 {
-  "quick_bite": [],
-  "coffee": [],
-  "team_lunch": [],
+  "quick_bite": [
+    {
+      "name": "India House Express",
+      "distance": "0.2 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=India%20House%20Express&query_place_id=ChIJW0FkOOyzD4gR-QVBXf4Crac&center=41.9193269,-88.0037438"
+    },
+    {
+      "name": "Subway",
+      "distance": "0.6 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Subway&query_place_id=ChIJG5GUWb6yD4gROF0BHKJZLOQ&center=41.920286399999995,-87.9955975"
+    },
+    {
+      "name": "Apollo Grill",
+      "distance": "0.8 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Apollo%20Grill&query_place_id=ChIJH2lXfUutD4gRo3qvak82_9A&center=41.905591699999995,-88.00947219999999"
+    },
+    {
+      "name": "Dunkin'",
+      "distance": "0.9 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Dunkin'&query_place_id=ChIJSRBfequyD4gRcruJV-sAq5M&center=41.904339,-88.0073381"
+    },
+    {
+      "name": "Subway",
+      "distance": "0.9 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Subway&query_place_id=ChIJr95ch7WyD4gRnuzB7mdTAQg&center=41.904408,-88.0044255"
+    },
+    {
+      "name": "Taqueria La Herradura",
+      "distance": "1.0 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Taqueria%20La%20Herradura&query_place_id=ChIJIw7zRMGyD4gRYvd0SAJeMIs&center=41.9177341,-87.98812430000001"
+    },
+    {
+      "name": "Popeyes Louisiana Kitchen",
+      "distance": "1.0 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Popeyes%20Louisiana%20Kitchen&query_place_id=ChIJEQI9P36zD4gRfLQhrVvEvP8&center=41.904668,-87.99695009999999"
+    },
+    {
+      "name": "Portillo's Villa Park",
+      "distance": "1.1 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Portillo's%20Villa%20Park&query_place_id=ChIJy2WTzsqyD4gR_bAbTQPrHmA&center=41.904792799999996,-87.9942035"
+    },
+    {
+      "name": "Charles Fast Food",
+      "distance": "1.3 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Charles%20Fast%20Food&query_place_id=ChIJhfNWi82yD4gRlpoKwdtOWbU&center=41.9073159,-87.9858423"
+    },
+    {
+      "name": "Wendy's",
+      "distance": "1.4 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Wendy's&query_place_id=ChIJh96cwM2yD4gRh6PGGsOKuEY&center=41.9058827,-87.98426359999999"
+    }
+  ],
+  "coffee": [
+    {
+      "name": "Starbucks Coffee Company",
+      "distance": "0.8 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Starbucks%20Coffee%20Company&query_place_id=ChIJs10oW6qyD4gRmTrxzpqmNcA&center=41.90553,-88.01017"
+    },
+    {
+      "name": "Dunkin'",
+      "distance": "0.9 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Dunkin'&query_place_id=ChIJSRBfequyD4gRcruJV-sAq5M&center=41.904339,-88.0073381"
+    },
+    {
+      "name": "McDonald's",
+      "distance": "0.9 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=McDonald's&query_place_id=ChIJv5g6lbOyD4gR7Q-pNdTxxcA&center=41.9056697,-87.9983613"
+    },
+    {
+      "name": "McDonald's",
+      "distance": "1.4 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=McDonald's&query_place_id=ChIJ2V1dtYiyD4gRL9IN2ssGTYc&center=41.9369977,-88.0008718"
+    }
+  ],
+  "team_lunch": [
+    {
+      "name": "Chicago Bread Company",
+      "distance": "0.8 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Chicago%20Bread%20Company&query_place_id=ChIJcWnLSkOtD4gRLiNxIg6d4AI&center=41.918693,-88.0216389"
+    },
+    {
+      "name": "Wing Snob",
+      "distance": "0.9 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Wing%20Snob&query_place_id=ChIJGW7Rpu6zD4gRR-tqlDcluP0&center=41.904346499999996,-88.0073512"
+    },
+    {
+      "name": "Taco Real & Pupuseria",
+      "distance": "0.9 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Taco%20Real%20%26%20Pupuseria&query_place_id=ChIJ-Xlnh7WyD4gRAhQuYjVWi3o&center=41.9044193,-88.0042386"
+    },
+    {
+      "name": "Wing Ho Chop Suey",
+      "distance": "0.9 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Wing%20Ho%20Chop%20Suey&query_place_id=ChIJ3X0jgq2yD4gRQM6hjNMR6dY&center=41.9044106,-88.0038929"
+    },
+    {
+      "name": "Casa De QuesaBirria",
+      "distance": "1.0 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Casa%20De%20QuesaBirria&query_place_id=ChIJc4MzQuezD4gReC28UxLlE5w&center=41.90562860000001,-87.994823"
+    },
+    {
+      "name": "Sweet Connections Bakery",
+      "distance": "1.0 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Sweet%20Connections%20Bakery&query_place_id=ChIJbXiIh8GyD4gR2XMhat-V-kI&center=41.9195663,-87.9874598"
+    },
+    {
+      "name": "Panaderia Aracely's Bakery",
+      "distance": "1.1 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Panaderia%20Aracely's%20Bakery&query_place_id=ChIJh2Zjr7WyD4gRS4ntdRJKFfg&center=41.904225499999995,-87.99503140000002"
+    },
+    {
+      "name": "Sabrina's Place Bakery and Goods",
+      "distance": "1.2 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Sabrina's%20Place%20Bakery%20and%20Goods&query_place_id=ChIJQfDosG5NDogR0Lfb7swCwSM&center=41.9001775,-88.01095099999999"
+    },
+    {
+      "name": "Azteca Bakery",
+      "distance": "1.2 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Azteca%20Bakery&query_place_id=ChIJXd-pjM2yD4gRdUnI65M_a4w&center=41.907181099999995,-87.9874021"
+    }
+  ],
   "dinner": [],
   "bowling": [],
   "arcade": [],

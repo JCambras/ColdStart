@@ -3,55 +3,111 @@
     {
       "name": "Posey's Isle",
       "distance": "0.6 mi",
-      "url": "https://www.google.com/maps/search/Posey's%20Isle+near+42.6815262%2C-83.09605289999999"
+      "url": "https://www.google.com/maps/search/?api=1&query=Posey's%20Isle&query_place_id=ChIJtf21BwDpJIgR3HdTFXPiAc4&center=42.67287710000001,-83.09400509999999"
     },
     {
       "name": "SNOWFOX Sushi",
       "distance": "1.0 mi",
-      "url": "https://www.google.com/maps/search/SNOWFOX%20Sushi+near+42.6815262%2C-83.09605289999999"
+      "url": "https://www.google.com/maps/search/?api=1&query=SNOWFOX%20Sushi&query_place_id=ChIJJ7WDUUDpJIgRx4cCmhuMzQk&center=42.6957873,-83.09324149999999"
     },
     {
       "name": "Big Apple Bagels",
       "distance": "1.1 mi",
-      "url": "https://www.google.com/maps/search/Big%20Apple%20Bagels+near+42.6815262%2C-83.09605289999999"
+      "url": "https://www.google.com/maps/search/?api=1&query=Big%20Apple%20Bagels&query_place_id=ChIJa__xDYnoJIgRn9JU2m4icmg&center=42.6979222,-83.0942917"
     },
     {
       "name": "Subway",
       "distance": "1.1 mi",
-      "url": "https://www.google.com/maps/search/Subway+near+42.6815262%2C-83.09605289999999"
+      "url": "https://www.google.com/maps/search/?api=1&query=Subway&query_place_id=ChIJGVFvqInoJIgRiUm4UDeJuDg&center=42.6979204,-83.0938965"
     },
     {
       "name": "Little Caesars Pizza",
       "distance": "1.4 mi",
-      "url": "https://www.google.com/maps/search/Little%20Caesars%20Pizza+near+42.6815262%2C-83.09605289999999"
+      "url": "https://www.google.com/maps/search/?api=1&query=Little%20Caesars%20Pizza&query_place_id=ChIJG1We_c_nJIgRRdTiom-74bI&center=42.683749999999996,-83.0683851"
+    },
+    {
+      "name": "Jet's Pizza",
+      "distance": "1.7 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Jet's%20Pizza&query_place_id=ChIJzXardC7mJIgRCiR6w2k2HIM&center=42.698267,-83.0708131"
+    },
+    {
+      "name": "Penn Station East Coast Subs",
+      "distance": "1.9 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Penn%20Station%20East%20Coast%20Subs&query_place_id=ChIJvQW4DrjpJIgRx681mCOfQWM&center=42.6779108,-83.13321739999999"
+    },
+    {
+      "name": "Savvy Sliders",
+      "distance": "2.0 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Savvy%20Sliders&query_place_id=ChIJqZzgPnXpJIgRsPhb9r43ttM&center=42.671969100000005,-83.1339934"
+    },
+    {
+      "name": "Arby's",
+      "distance": "2.1 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Arby's&query_place_id=ChIJlYGVcsXpJIgRT7ZYsyMnZQ8&center=42.669845300000006,-83.133951"
+    },
+    {
+      "name": "Burger King",
+      "distance": "2.3 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Burger%20King&query_place_id=ChIJycPccNrpJIgRKeKqc6nlqac&center=42.664499299999996,-83.1339295"
     }
   ],
-  "coffee": [],
+  "coffee": [
+    {
+      "name": "The Home Bakery",
+      "distance": "1.9 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=The%20Home%20Bakery&query_place_id=ChIJgwiDOrjpJIgR3cRi6X1tTpc&center=42.679534,-83.133288"
+    },
+    {
+      "name": "Ta Ta Bakery",
+      "distance": "1.9 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Ta%20Ta%20Bakery&query_place_id=ChIJA01oWwDpJIgRuhOuG2MPePQ&center=42.678399999999996,-83.13321499999999"
+    },
+    {
+      "name": "Bakehouse 46",
+      "distance": "1.9 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Bakehouse%2046&query_place_id=ChIJBVftabjpJIgREmgc7rII1mE&center=42.67835900000001,-83.1341157"
+    },
+    {
+      "name": "McDonald's",
+      "distance": "2.1 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=McDonald's&query_place_id=ChIJiVrdasXpJIgRCzbVyc_-S10&center=42.6692767,-83.1340941"
+    }
+  ],
   "team_lunch": [
     {
       "name": "Kerby's Koney Island",
       "distance": "1.0 mi",
-      "url": "https://www.google.com/maps/search/Kerby's%20Koney%20Island+near+42.6815262%2C-83.09605289999999"
+      "url": "https://www.google.com/maps/search/?api=1&query=Kerby's%20Koney%20Island&query_place_id=ChIJtf8X64noJIgRbge_Mxgdbw8&center=42.695912,-83.094054"
     },
     {
       "name": "Wing On Chinese Restaurant",
       "distance": "1.1 mi",
-      "url": "https://www.google.com/maps/search/Wing%20On%20Chinese%20Restaurant+near+42.6815262%2C-83.09605289999999"
+      "url": "https://www.google.com/maps/search/?api=1&query=Wing%20On%20Chinese%20Restaurant&query_place_id=ChIJCb4mp4noJIgRdNyz9l79Eq8&center=42.697942000000005,-83.09406600000001"
     },
     {
       "name": "Jeremiah's BBQ",
       "distance": "1.3 mi",
-      "url": "https://www.google.com/maps/search/Jeremiah's%20BBQ+near+42.6815262%2C-83.09605289999999"
+      "url": "https://www.google.com/maps/search/?api=1&query=Jeremiah's%20BBQ&query_place_id=ChIJi3ylBmnpJIgRh7INC4YBttg&center=42.7003191,-83.1006134"
     },
     {
       "name": "PARK 600 Locally Crafted",
       "distance": "1.7 mi",
-      "url": "https://www.google.com/maps/search/PARK%20600%20Locally%20Crafted+near+42.6815262%2C-83.09605289999999"
+      "url": "https://www.google.com/maps/search/?api=1&query=PARK%20600%20Locally%20Crafted&query_place_id=ChIJQ35FxLbpJIgRI3eDkpJFoaQ&center=42.6814246,-83.128795"
     },
     {
       "name": "Orient Express",
       "distance": "1.7 mi",
-      "url": "https://www.google.com/maps/search/Orient%20Express+near+42.6815262%2C-83.09605289999999"
+      "url": "https://www.google.com/maps/search/?api=1&query=Orient%20Express&query_place_id=ChIJXdQPfy7mJIgRHndJcqhZudI&center=42.697919399999996,-83.0709086"
+    },
+    {
+      "name": "Hong Kong Cafe | Chinese & Cantonese Restaurant",
+      "distance": "1.8 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Hong%20Kong%20Cafe%20%7C%20Chinese%20%26%20Cantonese%20Restaurant&query_place_id=ChIJa758dS3mJIgRiQC2iKdSV0w&center=42.697267499999995,-83.0676456"
+    },
+    {
+      "name": "Proof & Preserve",
+      "distance": "1.9 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Proof%20%26%20Preserve&query_place_id=ChIJBzveEF_pJIgRpQzvyZiXe-8&center=42.6865996,-83.1334349"
     }
   ],
   "dinner": [

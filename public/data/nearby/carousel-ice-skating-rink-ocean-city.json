@@ -1,48 +1,113 @@
 {
   "quick_bite": [
     {
+      "name": "Dunkin'",
+      "distance": "0.2 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Dunkin'&query_place_id=ChIJAa9Aph7UuIkR7ZBMQ5Ox2Xk&center=38.4246307,-75.0565096"
+    },
+    {
       "name": "My Place",
       "distance": "0.2 mi",
-      "url": "https://www.google.com/maps/search/My%20Place+near+38.422801%2C-75.0550169"
+      "url": "https://www.google.com/maps/search/?api=1&query=My%20Place&query_place_id=ChIJOaahSx_UuIkRwzIfKP0GzBs&center=38.4203918,-75.0552885"
     },
     {
       "name": "Pho-Char Grill",
       "distance": "0.2 mi",
-      "url": "https://www.google.com/maps/search/Pho-Char%20Grill+near+38.422801%2C-75.0550169"
+      "url": "https://www.google.com/maps/search/?api=1&query=Pho-Char%20Grill&query_place_id=ChIJ1-Pogx7UuIkRpXcVhqu1s_k&center=38.4251041,-75.0576567"
+    },
+    {
+      "name": "Dairy Queen Grill & Chill",
+      "distance": "0.2 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Dairy%20Queen%20Grill%20%26%20Chill&query_place_id=ChIJhyZfoM_VuIkRKbvMJvSxE4g&center=38.4197564,-75.057236"
+    },
+    {
+      "name": "Wawa",
+      "distance": "0.3 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Wawa&query_place_id=ChIJE_w-FRzUuIkRCyaYmXu8SGA&center=38.4263344,-75.0565301"
+    },
+    {
+      "name": "Über Bagels & Deli",
+      "distance": "0.6 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=%C3%9Cber%20Bagels%20%26%20Deli&query_place_id=ChIJ9UPvdgPUuIkRu59tg9otOy8&center=38.431675399999996,-75.0553556"
+    },
+    {
+      "name": "Tony Luke's",
+      "distance": "0.7 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Tony%20Luke's&query_place_id=ChIJNTwu45LVuIkRkG8XZKGJbPc&center=38.4326138,-75.0553647"
+    },
+    {
+      "name": "Soccer Concession Stand",
+      "distance": "0.7 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Soccer%20Concession%20Stand&query_place_id=ChIJ30xOOQDVuIkRR-FYhfkCEEo&center=38.4324213,-75.0608948"
+    },
+    {
+      "name": "PrimoHoagies",
+      "distance": "1.1 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=PrimoHoagies&query_place_id=ChIJb4lRPAfUuIkRemCwJP9Ju3s&center=38.4383104,-75.0544068"
+    },
+    {
+      "name": "Five Guys",
+      "distance": "1.3 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Five%20Guys&query_place_id=ChIJJemr6PjTuIkRKnVV0R1fKeg&center=38.4417423,-75.0538321"
     }
   ],
   "coffee": [
     {
       "name": "Dunkin'",
       "distance": "0.2 mi",
-      "url": "https://www.google.com/maps/search/Dunkin'+near+38.422801%2C-75.0550169"
+      "url": "https://www.google.com/maps/search/?api=1&query=Dunkin'&query_place_id=ChIJAa9Aph7UuIkR7ZBMQ5Ox2Xk&center=38.4246307,-75.0565096"
     },
     {
       "name": "Tea Boss",
       "distance": "0.2 mi",
-      "url": "https://www.google.com/maps/search/Tea%20Boss+near+38.422801%2C-75.0550169"
+      "url": "https://www.google.com/maps/search/?api=1&query=Tea%20Boss&query_place_id=ChIJf5Sq4trVuIkR0FP18yT7W7I&center=38.4243002,-75.0577648"
+    },
+    {
+      "name": "Wawa",
+      "distance": "0.3 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Wawa&query_place_id=ChIJE_w-FRzUuIkRCyaYmXu8SGA&center=38.4263344,-75.0565301"
+    },
+    {
+      "name": "McDonald's",
+      "distance": "0.4 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=McDonald's&query_place_id=ChIJO_37nhzUuIkRX_n7VG_gFs4&center=38.428695999999995,-75.05595699999999"
+    },
+    {
+      "name": "The Legendary Fractured Prune",
+      "distance": "0.7 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=The%20Legendary%20Fractured%20Prune&query_place_id=ChIJM3pjGeMpuYkR4KxtBbsghQQ&center=38.4329456,-75.05541079999999"
+    },
+    {
+      "name": "Oc Donut’s 138th st",
+      "distance": "1.5 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Oc%20Donut%E2%80%99s%20138th%20st&query_place_id=ChIJMToPgkvTuIkR_cohNpysgYE&center=38.4440732,-75.0527413"
     }
   ],
   "team_lunch": [
     {
       "name": "Reef 118 Oceanfront Restaurant",
       "distance": "0.1 mi",
-      "url": "https://www.google.com/maps/search/Reef%20118%20Oceanfront%20Restaurant+near+38.422801%2C-75.0550169"
+      "url": "https://www.google.com/maps/search/?api=1&query=Reef%20118%20Oceanfront%20Restaurant&query_place_id=ChIJ95_oMxnUuIkRqTNIsQIGMuM&center=38.422797,-75.0550042"
     },
     {
       "name": "Burgers & Beers",
       "distance": "0.1 mi",
-      "url": "https://www.google.com/maps/search/Burgers%20%26%20Beers+near+38.422801%2C-75.0550169"
-    },
-    {
-      "name": "Pizza Tugos",
-      "distance": "0.1 mi",
-      "url": "https://www.google.com/maps/search/Pizza%20Tugos+near+38.422801%2C-75.0550169"
+      "url": "https://www.google.com/maps/search/?api=1&query=Burgers%20%26%20Beers&query_place_id=ChIJ2-EnhazVuIkR4NGx0-Fb5Gw&center=38.4221013,-75.0567511"
     },
     {
       "name": "The Original Greene Turtle",
       "distance": "0.1 mi",
-      "url": "https://www.google.com/maps/search/The%20Original%20Greene%20Turtle+near+38.422801%2C-75.0550169"
+      "url": "https://www.google.com/maps/search/?api=1&query=The%20Original%20Greene%20Turtle&query_place_id=ChIJa0vhIh_UuIkRDRi_bLvv_OA&center=38.421771899999996,-75.0568517"
+    },
+    {
+      "name": "Shmagel's Bagels",
+      "distance": "1.5 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Shmagel's%20Bagels&query_place_id=ChIJLUO_G4_XuIkR8v6plH3mIW8&center=38.4013965,-75.0613655"
+    },
+    {
+      "name": "Donuts (Oceans Market)",
+      "distance": "1.7 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Donuts%20(Oceans%20Market)&query_place_id=ChIJ9QSrWebTuIkRoSZNY3mlH3c&center=38.447081399999995,-75.0530268"
     }
   ],
   "dinner": [

@@ -1,6 +1,11 @@
 {
   "quick_bite": [
     {
+      "name": "Dunkin'",
+      "distance": "1.1 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Dunkin'&query_place_id=ChIJkRBDMpKR5IkR6RGPdWderzA&center=41.9682532,-70.9727362"
+    },
+    {
       "name": "Cape Cod Cafe",
       "distance": "1.1 mi",
       "url": "https://www.google.com/maps/search/?api=1&query=Cape%20Cod%20Cafe&query_place_id=ChIJjToaNpKR5IkRaO7g7adLJQ8&center=41.968222999999995,-70.974165"
@@ -9,6 +14,11 @@
       "name": "J’s Flying Pizza",
       "distance": "1.3 mi",
       "url": "https://www.google.com/maps/search/?api=1&query=J%E2%80%99s%20Flying%20Pizza&query_place_id=ChIJrz-Hk-2R5IkR1CDK_tKSZJc&center=41.968391,-70.98270959999999"
+    },
+    {
+      "name": "Dunkin'",
+      "distance": "2.3 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Dunkin'&query_place_id=ChIJR3lDGh2O5IkRukymcg5aYAo&center=41.9721508,-71.0072096"
     },
     {
       "name": "Fiesta Taqueria",
@@ -30,6 +40,18 @@
       "name": "Mike & Lenny's Bar Pizza",
       "distance": "3.6 mi",
       "url": "https://www.google.com/maps/search/?api=1&query=Mike%20%26%20Lenny's%20Bar%20Pizza&query_place_id=ChIJtzRy1Z-T5IkRwQ78SaG_vHA&center=41.9013248,-70.98201569999999",
+      "isFar": true
+    },
+    {
+      "name": "Subway",
+      "distance": "3.6 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Subway&query_place_id=ChIJYX4ByuOS5IkRk1ygTKbiaSA&center=41.9017007,-70.9560647",
+      "isFar": true
+    },
+    {
+      "name": "Wendy's",
+      "distance": "4.3 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Wendy's&query_place_id=ChIJizRlhkCN5IkRr0JvF4mzyCw&center=41.9055968,-71.0272999",
       "isFar": true
     }
   ],
@@ -58,6 +80,23 @@
       "name": "Bridgewater Bagel & Coffee",
       "distance": "2.8 mi",
       "url": "https://www.google.com/maps/search/?api=1&query=Bridgewater%20Bagel%20%26%20Coffee&query_place_id=ChIJfevIMbSR5IkRwYdkH2EdLAY&center=41.99288200000001,-70.9711058"
+    },
+    {
+      "name": "Honey Dew Donuts",
+      "distance": "2.9 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Honey%20Dew%20Donuts&query_place_id=ChIJzx8MBguO5IkRpu_Uhyq-Na8&center=41.967780999999995,-71.023353"
+    },
+    {
+      "name": "McDonald's",
+      "distance": "3.0 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=McDonald's&query_place_id=ChIJscW8Y0uQ5IkRFr-IcHMswWQ&center=41.996226899999996,-70.97254869999999",
+      "isFar": true
+    },
+    {
+      "name": "Honey Dew Donuts",
+      "distance": "3.2 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Honey%20Dew%20Donuts&query_place_id=ChIJlalYvPyS5IkRKlj4bUWM4MM&center=41.907125,-70.959689",
+      "isFar": true
     }
   ],
   "team_lunch": [
@@ -72,9 +111,9 @@
       "url": "https://www.google.com/maps/search/?api=1&query=King%20Garden&query_place_id=ChIJjToaNpKR5IkRGRACD6RMXaw&center=41.968268699999996,-70.9739872"
     },
     {
-      "name": "Barrett's Alehouse Bridgewater",
-      "distance": "1.7 mi",
-      "url": "https://www.google.com/maps/search/?api=1&query=Barrett's%20Alehouse%20Bridgewater&query_place_id=ChIJtS-PAr-R5IkRVbYVuFBdg1A&center=41.9765391,-70.9754378"
+      "name": "parking",
+      "distance": "2.5 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=parking&query_place_id=ChIJSavrIwCR5IkRkx2cxdt6uac&center=41.9882786,-70.97390159999999"
     },
     {
       "name": "Bridgewater Triangle Pub",
@@ -85,6 +124,12 @@
       "name": "North St Sweets",
       "distance": "4.3 mi",
       "url": "https://www.google.com/maps/search/?api=1&query=North%20St%20Sweets&query_place_id=ChIJ87F2UQCT5IkRYxN_hw7Tlng&center=41.905189199999995,-70.91632160000002",
+      "isFar": true
+    },
+    {
+      "name": "Walmart Bakery",
+      "distance": "4.6 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Walmart%20Bakery&query_place_id=ChIJ____AzyN5IkRk_Xp988zcjg&center=41.904485,-71.0323192",
       "isFar": true
     }
   ],

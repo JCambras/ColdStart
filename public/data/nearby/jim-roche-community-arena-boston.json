@@ -1,6 +1,16 @@
 {
   "quick_bite": [
     {
+      "name": "Dunkin'",
+      "distance": "0.3 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Dunkin'&query_place_id=ChIJTQWbxD9_44kRKB5BLZcN9q8&center=42.2764646,-71.1667642"
+    },
+    {
+      "name": "Dunkin'",
+      "distance": "0.4 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Dunkin'&query_place_id=ChIJD8RVQmx_44kRqpb-XiUYCp0&center=42.270806199999996,-71.1726343"
+    },
+    {
       "name": "ZENSHI Handcrafted Sushi",
       "distance": "0.5 mi",
       "url": "https://www.google.com/maps/search/?api=1&query=ZENSHI%20Handcrafted%20Sushi&query_place_id=ChIJ3xaZ9B1_44kRJiNKwTi_Vsg&center=42.278728699999995,-71.1633014"
@@ -19,6 +29,26 @@
       "name": "Burger King",
       "distance": "0.8 mi",
       "url": "https://www.google.com/maps/search/?api=1&query=Burger%20King&query_place_id=ChIJfzHlvkl_44kRaEEPmcmdwIs&center=42.265912400000005,-71.1678893"
+    },
+    {
+      "name": "Chick-fil-A",
+      "distance": "1.1 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Chick-fil-A&query_place_id=ChIJ1SRQ0nR_44kRjKxomvTQSzo&center=42.2599959,-71.1683671"
+    },
+    {
+      "name": "Five Guys",
+      "distance": "1.3 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Five%20Guys&query_place_id=ChIJbclxNN195IkR-huaK4kmfM0&center=42.2578755,-71.1677318"
+    },
+    {
+      "name": "Cluckin' Good Wings",
+      "distance": "1.5 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Cluckin'%20Good%20Wings&query_place_id=ChIJ8XmJvCd_44kRbPhApvwqBG0&center=42.25458270000001,-71.1665368"
+    },
+    {
+      "name": "Burger King",
+      "distance": "1.7 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Burger%20King&query_place_id=ChIJ-z94Udl-44kR5sXloNp6WBg&center=42.275978099999996,-71.1391555"
     }
   ],
   "coffee": [
@@ -43,9 +73,19 @@
       "url": "https://www.google.com/maps/search/?api=1&query=FresCafe%20at%20mcGolf&query_place_id=ChIJpy7YpHF_44kRZUVCmNtaS64&center=42.2665803,-71.1761092"
     },
     {
+      "name": "McDonald's",
+      "distance": "0.9 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=McDonald's&query_place_id=ChIJH51yJg1_44kRcKcSHq3pgOQ&center=42.2644514,-71.1677764"
+    },
+    {
       "name": "Sugar Baking Co.",
       "distance": "1.1 mi",
       "url": "https://www.google.com/maps/search/?api=1&query=Sugar%20Baking%20Co.&query_place_id=ChIJjQepzC9_44kRZbFj5I6Vbog&center=42.2856114,-71.1555693"
+    },
+    {
+      "name": "Bruegger's Bagels",
+      "distance": "1.6 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Bruegger's%20Bagels&query_place_id=ChIJe8mdic1444kRiLVOsk_GwDE&center=42.296434999999995,-71.1570096"
     }
   ],
   "team_lunch": [

@@ -16,17 +16,47 @@
       "url": "https://www.google.com/maps/search/?api=1&query=Robo%20Dough&query_place_id=ChIJxTyDQch_44kRxgwOANTrIPA&center=42.2425263,-71.1509398"
     },
     {
+      "name": "Dunkin'",
+      "distance": "0.8 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Dunkin'&query_place_id=ChIJfw_w_a5_44kR_NRZT4sqt5c&center=42.247614299999995,-71.1537258"
+    },
+    {
       "name": "Peony Pavilion Restaurant",
       "distance": "0.8 mi",
       "url": "https://www.google.com/maps/search/?api=1&query=Peony%20Pavilion%20Restaurant&query_place_id=ChIJCXKFGq9_44kRg7iNlP49lTQ&center=42.2486028,-71.1540164"
     },
     {
+      "name": "Dunkin'",
+      "distance": "0.8 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Dunkin'&query_place_id=ChIJiZgek0V-44kRxOxkXJi24qs&center=42.2378587,-71.132103"
+    },
+    {
       "name": "Boston Tasty Chicken",
       "distance": "0.9 mi",
       "url": "https://www.google.com/maps/search/?api=1&query=Boston%20Tasty%20Chicken&query_place_id=ChIJicWuDAh_44kReFhiHcTvut4&center=42.2560396,-71.1234757"
+    },
+    {
+      "name": "Asian Thai",
+      "distance": "1.2 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Asian%20Thai&query_place_id=ChIJo6V2YZJ-44kRMC_0aRSzT60&center=42.258809400000004,-71.1177451"
+    },
+    {
+      "name": "Cluckin' Good Wings",
+      "distance": "1.5 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Cluckin'%20Good%20Wings&query_place_id=ChIJ8XmJvCd_44kRbPhApvwqBG0&center=42.25458270000001,-71.1665368"
+    },
+    {
+      "name": "Five Guys",
+      "distance": "1.6 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Five%20Guys&query_place_id=ChIJbclxNN195IkR-huaK4kmfM0&center=42.2578755,-71.1677318"
     }
   ],
   "coffee": [
+    {
+      "name": "McDonald's",
+      "distance": "0.7 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=McDonald's&query_place_id=ChIJaVwtXPR-44kR654mqRWk2HE&center=42.2528662,-71.1244583"
+    },
     {
       "name": "Essence of Thyme Cafe and Gift Shop",
       "distance": "0.8 mi",
@@ -46,6 +76,11 @@
       "name": "Einstein Bros. Bagels",
       "distance": "1.6 mi",
       "url": "https://www.google.com/maps/search/?api=1&query=Einstein%20Bros.%20Bagels&query_place_id=ChIJbYC9BjF_44kR4qEjl7N3OoU&center=42.2357334,-71.11312330000001"
+    },
+    {
+      "name": "McDonald's",
+      "distance": "1.9 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=McDonald's&query_place_id=ChIJH51yJg1_44kRcKcSHq3pgOQ&center=42.2644514,-71.1677764"
     }
   ],
   "team_lunch": [
@@ -63,11 +98,6 @@
       "name": "Talk & Wok Cafe",
       "distance": "0.8 mi",
       "url": "https://www.google.com/maps/search/?api=1&query=Talk%20%26%20Wok%20Cafe&query_place_id=ChIJsyQ4pvN-44kRizjHAcW9ttg&center=42.255905000000006,-71.124291"
-    },
-    {
-      "name": "Boston Restaurant Bar & Grill, LLC",
-      "distance": "0.8 mi",
-      "url": "https://www.google.com/maps/search/?api=1&query=Boston%20Restaurant%20Bar%20%26%20Grill%2C%20LLC&query_place_id=ChIJlTpmnVB_44kRt-YTLIWGa5U&center=42.255943699999996,-71.1238241"
     },
     {
       "name": "New York Fried Chicken",

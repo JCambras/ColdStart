@@ -1,11 +1,6 @@
 {
   "quick_bite": [
     {
-      "name": "Modern Apartment Close to Park and Subway",
-      "distance": "0.3 mi",
-      "url": "https://www.google.com/maps/search/?api=1&query=Modern%20Apartment%20Close%20to%20Park%20and%20Subway&query_place_id=ChIJw4g87D1bwokRd_kQxod-Y7Y&center=40.6530418,-73.9665298"
-    },
-    {
       "name": "HYDRO Global",
       "distance": "0.4 mi",
       "url": "https://www.google.com/maps/search/?api=1&query=HYDRO%20Global&query_place_id=ChIJubpEFr1bwokRVj-gG13BpYQ&center=40.6530547,-73.9595439"
@@ -29,6 +24,11 @@
       "name": "Subway",
       "distance": "0.5 mi",
       "url": "https://www.google.com/maps/search/?api=1&query=Subway&query_place_id=ChIJWdGZdj9bwokRHG73mAfGr_4&center=40.6503124,-73.9605074"
+    },
+    {
+      "name": "Philly Fried Chicken & Pizza",
+      "distance": "0.5 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Philly%20Fried%20Chicken%20%26%20Pizza&query_place_id=ChIJWzZkDz9bwokR5EgUWJYTHVE&center=40.649876899999995,-73.9624279"
     }
   ],
   "coffee": [
@@ -56,6 +56,16 @@
       "name": "BROOKLYN PERK Coffee",
       "distance": "0.2 mi",
       "url": "https://www.google.com/maps/search/?api=1&query=BROOKLYN%20PERK%20Coffee&query_place_id=ChIJ241qFchbwokRROiFMk2canc&center=40.658600899999996,-73.9603257"
+    },
+    {
+      "name": "McDonald's",
+      "distance": "0.2 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=McDonald's&query_place_id=ChIJg0sUv0BbwokRNL0GQBJkSPU&center=40.6547147,-73.9616164"
+    },
+    {
+      "name": "McDonald's",
+      "distance": "0.5 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=McDonald's&query_place_id=ChIJg0sUv0BbwokRHyeOAXkgKdA&center=40.6637266,-73.9600627"
     }
   ],
   "team_lunch": [
@@ -88,6 +98,26 @@
       "name": "Cinnabon",
       "distance": "0.3 mi",
       "url": "https://www.google.com/maps/search/?api=1&query=Cinnabon&query_place_id=ChIJzXONlmNbwokRg525Uq5DCW8&center=40.655582599999995,-73.9596148"
+    },
+    {
+      "name": "Flatbush Bagel",
+      "distance": "0.3 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Flatbush%20Bagel&query_place_id=ChIJl30yol5bwokR8xdmt4saXK8&center=40.6603492,-73.9604619"
+    },
+    {
+      "name": "Kindred Bakery BK",
+      "distance": "0.4 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Kindred%20Bakery%20BK&query_place_id=ChIJU0Y15ypbwokRZIp4Az7xHyI&center=40.6530547,-73.9595439"
+    },
+    {
+      "name": "ToysCake",
+      "distance": "0.4 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=ToysCake&query_place_id=ChIJfxUzvV1bwokR0GzCrOeerqo&center=40.653508599999995,-73.95890419999999"
+    },
+    {
+      "name": "Caton Deli & Luncheonette",
+      "distance": "0.4 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Caton%20Deli%20%26%20Luncheonette&query_place_id=ChIJ2TvYTT5bwokRe7OGtuXul40&center=40.6514212,-73.9627816"
     }
   ],
   "dinner": [

@@ -29,6 +29,26 @@
       "name": "Jimmy John's",
       "distance": "0.9 mi",
       "url": "https://www.google.com/maps/search/?api=1&query=Jimmy%20John's&query_place_id=ChIJhfAZwIDxNIgROd3TTvyfqeo&center=40.4419496,-79.95723629999999"
+    },
+    {
+      "name": "Raising Cane's Chicken Fingers",
+      "distance": "1.0 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Raising%20Cane's%20Chicken%20Fingers&query_place_id=ChIJIT1oZvXzNIgRvLM0Pa2Ddq4&center=40.441415299999996,-79.9586253"
+    },
+    {
+      "name": "India On Wheels",
+      "distance": "1.1 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=India%20On%20Wheels&query_place_id=ChIJy9Po4h7yNIgR_nLyDFmCL6g&center=40.445165599999996,-79.95556959999999"
+    },
+    {
+      "name": "Slice on Broadway-Southside Works",
+      "distance": "1.1 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Slice%20on%20Broadway-Southside%20Works&query_place_id=ChIJzaLdJ9_xNIgRNjcg3jHJMvk&center=40.4278014,-79.965549"
+    },
+    {
+      "name": "Subway",
+      "distance": "1.1 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Subway&query_place_id=ChIJ8euzdnbxNIgRj4z4RDCHMzM&center=40.4265196,-79.96574939999999"
     }
   ],
   "coffee": [
@@ -56,14 +76,19 @@
       "name": "Einstein Bros. Bagels",
       "distance": "0.8 mi",
       "url": "https://www.google.com/maps/search/?api=1&query=Einstein%20Bros.%20Bagels&query_place_id=ChIJPbGarknzNIgRMx9d2PkrPXM&center=40.44170200000001,-79.9542341"
+    },
+    {
+      "name": "McDonald's",
+      "distance": "0.9 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=McDonald's&query_place_id=ChIJGyjB5ynyNIgRv8tuNHX4US4&center=40.441228,-79.957259"
+    },
+    {
+      "name": "Pink Box Bakery Cafe",
+      "distance": "1.2 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Pink%20Box%20Bakery%20Cafe&query_place_id=ChIJa2ZLkf7xNIgR0T4Mb28ngVY&center=40.4334541,-79.9231673"
     }
   ],
   "team_lunch": [
-    {
-      "name": "Yesterday's Bar & Grill",
-      "distance": "0.4 mi",
-      "url": "https://www.google.com/maps/search/?api=1&query=Yesterday's%20Bar%20%26%20Grill&query_place_id=ChIJsVBcN5PxNIgRqvdo84ea2P8&center=40.4256248,-79.9423662"
-    },
     {
       "name": "Café Phipps",
       "distance": "0.5 mi",

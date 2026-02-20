@@ -11,9 +11,19 @@
       "url": "https://www.google.com/maps/search/?api=1&query=Burger%20King&query_place_id=ChIJdZmF_f_txokR03VBbj5PA68&center=39.9660839,-75.52722659999999"
     },
     {
+      "name": "Wawa",
+      "distance": "0.8 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Wawa&query_place_id=ChIJ0_GZi__txokRMowzhVn7vkY&center=39.9673851,-75.5269927"
+    },
+    {
       "name": "Sabatino's Pizzeria Grill And Restaurant",
       "distance": "2.0 mi",
       "url": "https://www.google.com/maps/search/?api=1&query=Sabatino's%20Pizzeria%20Grill%20And%20Restaurant&query_place_id=ChIJqwkQLYvxxokRIVdGeoUIIOQ&center=39.9661374,-75.5503633"
+    },
+    {
+      "name": "Wawa",
+      "distance": "2.6 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Wawa&query_place_id=ChIJ_X7Gs27yxokRqT1QsDvzn0M&center=39.994081,-75.544946"
     },
     {
       "name": "PrimoHoagies",
@@ -31,6 +41,18 @@
       "distance": "3.3 mi",
       "url": "https://www.google.com/maps/search/?api=1&query=Piattos%20pizza&query_place_id=ChIJTQUhQADxxokRrwc_4FZXR9I&center=39.970112,-75.57459",
       "isFar": true
+    },
+    {
+      "name": "Wawa",
+      "distance": "3.4 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Wawa&query_place_id=ChIJjTovcSrxxokR0oH3JBBNe20&center=39.967786499999995,-75.57657449999999",
+      "isFar": true
+    },
+    {
+      "name": "Chick-fil-A",
+      "distance": "3.9 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Chick-fil-A&query_place_id=ChIJpezuw6bxxokRqUj1uyQ-U2o&center=39.9708375,-75.58520949999999",
+      "isFar": true
     }
   ],
   "coffee": [
@@ -38,6 +60,22 @@
       "name": "Cup of Joy Smoothies. Acai Bowls, and more",
       "distance": "0.8 mi",
       "url": "https://www.google.com/maps/search/?api=1&query=Cup%20of%20Joy%20Smoothies.%20Acai%20Bowls%2C%20and%20more&query_place_id=ChIJ0w9EvY3txokRtz8jA43AuBg&center=39.9654427,-75.5268085"
+    },
+    {
+      "name": "Wawa",
+      "distance": "0.8 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Wawa&query_place_id=ChIJ0_GZi__txokRMowzhVn7vkY&center=39.9673851,-75.5269927"
+    },
+    {
+      "name": "Wawa",
+      "distance": "2.6 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Wawa&query_place_id=ChIJ_X7Gs27yxokRqT1QsDvzn0M&center=39.994081,-75.544946"
+    },
+    {
+      "name": "Wawa",
+      "distance": "3.4 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Wawa&query_place_id=ChIJjTovcSrxxokR0oH3JBBNe20&center=39.967786499999995,-75.57657449999999",
+      "isFar": true
     }
   ],
   "team_lunch": [

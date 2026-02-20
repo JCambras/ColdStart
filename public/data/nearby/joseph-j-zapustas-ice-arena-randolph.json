@@ -19,6 +19,36 @@
       "name": "Subway",
       "distance": "0.6 mi",
       "url": "https://www.google.com/maps/search/?api=1&query=Subway&query_place_id=ChIJ2cmY8_uC5IkRJvaOCyC9sYA&center=42.1642284,-71.04312209999999"
+    },
+    {
+      "name": "Randolph Seafood Market",
+      "distance": "0.6 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Randolph%20Seafood%20Market&query_place_id=ChIJj3_53vmC5IkRyEUikXsDNpw&center=42.168596,-71.04653710000001"
+    },
+    {
+      "name": "Wendy's",
+      "distance": "0.6 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Wendy's&query_place_id=ChIJTZsU6fmC5IkRFBgm5MGBYkg&center=42.1670565,-71.0465438"
+    },
+    {
+      "name": "Richardi's Original Submarine",
+      "distance": "2.4 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Richardi's%20Original%20Submarine&query_place_id=ChIJ3zHCoFN944kRVyI26E5ATwA&center=42.1971661,-71.0053489"
+    },
+    {
+      "name": "Geri's burgers & wings (Avon)",
+      "distance": "2.6 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Geri's%20burgers%20%26%20wings%20(Avon)&query_place_id=ChIJecGzg1d95IkRPyjVpT21YsI&center=42.1326355,-71.0402713"
+    },
+    {
+      "name": "Montilio's Baking Company & Pizzeria",
+      "distance": "2.9 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Montilio's%20Baking%20Company%20%26%20Pizzeria&query_place_id=ChIJ09HWu-6D5IkRD1dTaxvNzcE&center=42.134419199999996,-71.0664908"
+    },
+    {
+      "name": "Subway",
+      "distance": "2.9 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Subway&query_place_id=ChIJc5n7n7Ni44kRSs4ubO-1Ses&center=42.2027441,-70.99928659999999"
     }
   ],
   "coffee": [
@@ -26,6 +56,16 @@
       "name": "TeaDa Cafe",
       "distance": "0.5 mi",
       "url": "https://www.google.com/maps/search/?api=1&query=TeaDa%20Cafe&query_place_id=ChIJcRTiwB-D5IkRDm7Biu-ifjg&center=42.1637663,-71.04186059999999"
+    },
+    {
+      "name": "McDonald's",
+      "distance": "0.6 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=McDonald's&query_place_id=ChIJLbD11v6C5IkRv1dvotkZiV4&center=42.1650784,-71.04597170000001"
+    },
+    {
+      "name": "McDonald's",
+      "distance": "2.8 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=McDonald's&query_place_id=ChIJScxyBU1944kRlkCGFvNP8Gs&center=42.2025733,-71.0044496"
     }
   ],
   "team_lunch": [
@@ -33,6 +73,11 @@
       "name": "Soley Leve Restaurant",
       "distance": "0.3 mi",
       "url": "https://www.google.com/maps/search/?api=1&query=Soley%20Leve%20Restaurant&query_place_id=ChIJp0DyCIyD5IkR1bL0frdJAUk&center=42.1683107,-71.0421051"
+    },
+    {
+      "name": "Lumi Wok and Roast",
+      "distance": "0.5 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Lumi%20Wok%20and%20Roast&query_place_id=ChIJFQhFjhGD5IkR0MruDLiriNQ&center=42.1665943,-71.044393"
     },
     {
       "name": "Flames Restaurant",
@@ -55,9 +100,9 @@
       "url": "https://www.google.com/maps/search/?api=1&query=Lee%20Chen%20Chinese%20Restaurant&query_place_id=ChIJxycd3_mC5IkRlwUADPcEj1g&center=42.168648999999995,-71.04657"
     },
     {
-      "name": "Dr. Finn T. Esrason, DMD",
-      "distance": "1.1 mi",
-      "url": "https://www.google.com/maps/search/?api=1&query=Dr.%20Finn%20T.%20Esrason%2C%20DMD&query_place_id=ChIJ6csO8lOC5IkRZP9sbq5qGMc&center=42.1649093,-71.0568847"
+      "name": "BJ's Bakery",
+      "distance": "2.2 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=BJ's%20Bakery&query_place_id=ChIJCei0W7yD5IkRKsMS1ix3liA&center=42.1475709,-71.0653617"
     }
   ],
   "dinner": [

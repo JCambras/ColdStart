@@ -6,6 +6,11 @@
       "url": "https://www.google.com/maps/search/?api=1&query=Chester's%20Chicken&query_place_id=ChIJ1f4oGQBt04kRIjOOMvoXVck&center=42.9503039,-78.9027535"
     },
     {
+      "name": "Tim Hortons",
+      "distance": "0.7 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Tim%20Hortons&query_place_id=ChIJVT1LT7Vs04kR_-7h6XaeKVk&center=42.9450408,-78.9069964"
+    },
+    {
       "name": "King Of BBQ",
       "distance": "1.4 mi",
       "url": "https://www.google.com/maps/search/?api=1&query=King%20Of%20BBQ&query_place_id=ChIJDZ9shZsT04kRdOflINPQGkM&center=42.9356659,-78.9031626"
@@ -29,6 +34,21 @@
       "name": "Checkers",
       "distance": "1.6 mi",
       "url": "https://www.google.com/maps/search/?api=1&query=Checkers&query_place_id=ChIJt01WUi9t04kR0yaE6V4av-I&center=42.9509839,-78.8776902"
+    },
+    {
+      "name": "Taco Bell",
+      "distance": "1.7 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Taco%20Bell&query_place_id=ChIJHTThNLdt04kRNaR5gRR7n5o&center=42.948918600000006,-78.8776307"
+    },
+    {
+      "name": "good food",
+      "distance": "1.9 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=good%20food&query_place_id=ChIJyR3YKiAT04kROxSeK7Ax43g&center=42.9320549,-78.89088249999999"
+    },
+    {
+      "name": "Manna and Honey",
+      "distance": "1.9 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Manna%20and%20Honey&query_place_id=ChIJKwehMO1t04kRMCUnoR6Unbo&center=42.971019399999996,-78.8784359"
     }
   ],
   "coffee": [
@@ -38,9 +58,14 @@
       "url": "https://www.google.com/maps/search/?api=1&query=Tim%20Hortons&query_place_id=ChIJVT1LT7Vs04kR_-7h6XaeKVk&center=42.9450408,-78.9069964"
     },
     {
-      "name": "Classic Lanes",
-      "distance": "2.5 mi",
-      "url": "https://www.google.com/maps/search/?api=1&query=Classic%20Lanes&query_place_id=ChIJ4eHAO1Ns04kRWcDkMjDYswg&center=42.9876242,-78.8848977"
+      "name": "McDonald's",
+      "distance": "0.9 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=McDonald's&query_place_id=ChIJWzWcl0oT04kReHnp6vEiUJM&center=42.943114800000004,-78.90702259999999"
+    },
+    {
+      "name": "McDonald's",
+      "distance": "1.6 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=McDonald's&query_place_id=ChIJU0MXeiZt04kRCyJkHOA1gUM&center=42.953118599999996,-78.87889489999999"
     }
   ],
   "team_lunch": [
@@ -48,11 +73,6 @@
       "name": "Pizza Bella & More",
       "distance": "0.2 mi",
       "url": "https://www.google.com/maps/search/?api=1&query=Pizza%20Bella%20%26%20More&query_place_id=ChIJ80bP3E1t04kRloaBWiYtvoc&center=42.9590959,-78.9084592"
-    },
-    {
-      "name": "Flavors of Jean",
-      "distance": "0.3 mi",
-      "url": "https://www.google.com/maps/search/?api=1&query=Flavors%20of%20Jean&query_place_id=ChIJv1mUMuFt04kRU3oLOcDN0jI&center=42.9602455,-78.9097251"
     },
     {
       "name": "Panda Kitchen",

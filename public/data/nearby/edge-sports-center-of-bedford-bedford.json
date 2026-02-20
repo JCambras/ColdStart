@@ -1,14 +1,14 @@
 {
   "quick_bite": [
     {
+      "name": "Dunkin'",
+      "distance": "1.1 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Dunkin'&query_place_id=ChIJ9WFjigac44kRuXXo__04HBY&center=42.4632334,-71.2876065"
+    },
+    {
       "name": "Holi Indian Restaurant",
       "distance": "1.2 mi",
       "url": "https://www.google.com/maps/search/?api=1&query=Holi%20Indian%20Restaurant&query_place_id=ChIJ6xLIa82e44kRl4NHZM7IUEk&center=42.4944207,-71.2858528"
-    },
-    {
-      "name": "Ken's NY Deli & Brick Oven Pizzeria",
-      "distance": "1.2 mi",
-      "url": "https://www.google.com/maps/search/?api=1&query=Ken's%20NY%20Deli%20%26%20Brick%20Oven%20Pizzeria&query_place_id=ChIJrxnlXs6e44kRZ2vL_CStaaM&center=42.4923119,-71.2796"
     },
     {
       "name": "Five Guys",
@@ -16,9 +16,9 @@
       "url": "https://www.google.com/maps/search/?api=1&query=Five%20Guys&query_place_id=ChIJ8T7LTbWf44kRXKMxxrP20Is&center=42.490548,-71.2750781"
     },
     {
-      "name": "Not Your Average Joe's - Bedford",
+      "name": "Dunkin'",
       "distance": "1.3 mi",
-      "url": "https://www.google.com/maps/search/?api=1&query=Not%20Your%20Average%20Joe's%20-%20Bedford&query_place_id=ChIJfxCFMfif44kRsjurhSbYGco&center=42.4906058,-71.27484489999999"
+      "url": "https://www.google.com/maps/search/?api=1&query=Dunkin'&query_place_id=ChIJy0UPltKe44kRcI53dtHNcEM&center=42.496328999999996,-71.28587279999999"
     },
     {
       "name": "Jersey Mike's Subs",
@@ -29,6 +29,29 @@
       "name": "Subway",
       "distance": "1.5 mi",
       "url": "https://www.google.com/maps/search/?api=1&query=Subway&query_place_id=ChIJ40k0Vv-b44kRUdwcqr4W2rE&center=42.461230199999996,-71.2738755"
+    },
+    {
+      "name": "Bedford House of Roast Beef",
+      "distance": "1.7 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Bedford%20House%20of%20Roast%20Beef&query_place_id=ChIJzyTPJeqe44kR0nb7WgOKG_E&center=42.4863559,-71.2613206"
+    },
+    {
+      "name": "Subway",
+      "distance": "3.6 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Subway&query_place_id=ChIJVZh3Z66f44kRuXK1fB50T9Y&center=42.501548899999996,-71.2304048",
+      "isFar": true
+    },
+    {
+      "name": "Terabites Cafe",
+      "distance": "3.9 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Terabites%20Cafe&query_place_id=ChIJ3VuqA9if44kRbQSgCrEffXU&center=42.533290199999996,-71.2803728",
+      "isFar": true
+    },
+    {
+      "name": "Wendy's",
+      "distance": "3.9 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Wendy's&query_place_id=ChIJhdQyaEie44kRhjPKuW9ph14&center=42.4852342,-71.21770529999999",
+      "isFar": true
     }
   ],
   "coffee": [
@@ -56,6 +79,32 @@
       "name": "Dunkin'",
       "distance": "1.3 mi",
       "url": "https://www.google.com/maps/search/?api=1&query=Dunkin'&query_place_id=ChIJy0UPltKe44kRcI53dtHNcEM&center=42.496328999999996,-71.28587279999999"
+    },
+    {
+      "name": "Energy Plus Nutrition",
+      "distance": "1.3 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Energy%20Plus%20Nutrition&query_place_id=ChIJ15K5hoef44kRjhC0-pWe9hg&center=42.4898313,-71.2726771"
+    },
+    {
+      "name": "Starbucks Coffee Company",
+      "distance": "1.4 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Starbucks%20Coffee%20Company&query_place_id=ChIJmdplSsSe44kRFiNkZETG5z0&center=42.489619999999995,-71.27235"
+    },
+    {
+      "name": "Eva’s Little Kitchen - Bedford",
+      "distance": "1.4 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Eva%E2%80%99s%20Little%20Kitchen%20-%20Bedford&query_place_id=ChIJW-msLl6f44kRB80Zseeb9bg&center=42.4905459,-71.27155359999999"
+    },
+    {
+      "name": "McDonald's",
+      "distance": "1.8 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=McDonald's&query_place_id=ChIJs98Ztuue44kR7Ib2z6weI6I&center=42.485175,-71.26013499999999"
+    },
+    {
+      "name": "McDonald's",
+      "distance": "3.2 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=McDonald's&query_place_id=ChIJuUuwWUec44kRz4DRs3p7o2I&center=42.44022,-71.25748",
+      "isFar": true
     }
   ],
   "team_lunch": [

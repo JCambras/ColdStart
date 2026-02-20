@@ -6,32 +6,47 @@
       "url": "https://www.google.com/maps/search/?api=1&query=Taco%20Bell&query_place_id=ChIJe2BP_eb7wokR7wmdQQK3IUs&center=40.8974194,-74.10334089999999"
     },
     {
-      "name": "East Wok",
-      "distance": "0.2 mi",
-      "url": "https://www.google.com/maps/search/?api=1&query=East%20Wok&query_place_id=ChIJRavMdef7wokR9Nbk063DqQI&center=40.89766830000001,-74.1017537"
-    },
-    {
-      "name": "KFC",
-      "distance": "0.2 mi",
-      "url": "https://www.google.com/maps/search/?api=1&query=KFC&query_place_id=ChIJTa5Qguf7wokRjIWtWibfV6g&center=40.8977594,-74.1010087"
-    },
-    {
       "name": "Subway",
       "distance": "0.2 mi",
       "url": "https://www.google.com/maps/search/?api=1&query=Subway&query_place_id=ChIJG4LZe937wokROtcuWXK99nY&center=40.897709,-74.10055009999999"
     },
     {
-      "name": "Mr Bruno's Pizza",
-      "distance": "0.2 mi",
-      "url": "https://www.google.com/maps/search/?api=1&query=Mr%20Bruno's%20Pizza&query_place_id=ChIJSU4rnd37wokRW8TChQTw_YM&center=40.897105599999996,-74.09979059999999"
+      "name": "Burger King",
+      "distance": "0.3 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Burger%20King&query_place_id=ChIJRVWWDd37wokRZle5CvsOaCY&center=40.8974195,-74.09817439999999"
+    },
+    {
+      "name": "Wendy's",
+      "distance": "0.6 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Wendy's&query_place_id=ChIJ98D7mP37wokRN3jdIDaODEo&center=40.8937794,-74.1158"
+    },
+    {
+      "name": "Subway",
+      "distance": "0.7 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Subway&query_place_id=ChIJf65aV_r7wokRr_LyQl49w4w&center=40.900509299999996,-74.1154813"
+    },
+    {
+      "name": "Its Waao! Elmwood Park",
+      "distance": "0.8 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Its%20Waao!%20Elmwood%20Park&query_place_id=ChIJTSbWnsP7wokRyGWGOwb6oG0&center=40.8930084,-74.11761729999999"
+    },
+    {
+      "name": "Meat us Here",
+      "distance": "1.0 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Meat%20us%20Here&query_place_id=ChIJA3b4_uX7wokRojB5nGCQqPc&center=40.900334099999995,-74.1211931"
+    },
+    {
+      "name": "Popeyes Louisiana Kitchen",
+      "distance": "1.0 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Popeyes%20Louisiana%20Kitchen&query_place_id=ChIJu5C_rZz5wokRWjlfWVQB21U&center=40.8860968,-74.0898722"
+    },
+    {
+      "name": "Basil Pizza & Catering",
+      "distance": "1.0 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Basil%20Pizza%20%26%20Catering&query_place_id=ChIJt8asrN35wokR4YzHXOlJU_A&center=40.8867182,-74.1190671"
     }
   ],
   "coffee": [
-    {
-      "name": "Buya Bowl",
-      "distance": "0.2 mi",
-      "url": "https://www.google.com/maps/search/?api=1&query=Buya%20Bowl&query_place_id=ChIJg790def7wokRdUrsKnmNYac&center=40.8976681,-74.1018066"
-    },
     {
       "name": "Bagel Bros Deli",
       "distance": "0.2 mi",
@@ -41,24 +56,14 @@
       "name": "Manhattan Bagel",
       "distance": "0.5 mi",
       "url": "https://www.google.com/maps/search/?api=1&query=Manhattan%20Bagel&query_place_id=ChIJC0Jq1-T7wokR8vGGeNgY96Q&center=40.899294999999995,-74.1113807"
+    },
+    {
+      "name": "McDonald's",
+      "distance": "0.6 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=McDonald's&query_place_id=ChIJZ7HvON_7wokRXsTp4-Y4rlk&center=40.8903539,-74.09417119999999"
     }
   ],
   "team_lunch": [
-    {
-      "name": "Mi Sueno Cafe",
-      "distance": "0.2 mi",
-      "url": "https://www.google.com/maps/search/?api=1&query=Mi%20Sueno%20Cafe&query_place_id=ChIJJZQnduf7wokRuy8iM4EaGRI&center=40.89769020000001,-74.1014751"
-    },
-    {
-      "name": "cuban eddies",
-      "distance": "0.2 mi",
-      "url": "https://www.google.com/maps/search/?api=1&query=cuban%20eddies&query_place_id=ChIJhzh1W077wokRvjmkHYRL--E&center=40.8977076,-74.10047279999999"
-    },
-    {
-      "name": "Papa Johns Pizza",
-      "distance": "0.3 mi",
-      "url": "https://www.google.com/maps/search/?api=1&query=Papa%20Johns%20Pizza&query_place_id=ChIJSc5lmN37wokRs7l53kHDeWM&center=40.897040200000006,-74.098959"
-    },
     {
       "name": "Metro Bagel & Deli",
       "distance": "1.0 mi",

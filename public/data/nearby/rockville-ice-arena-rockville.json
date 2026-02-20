@@ -1,54 +1,103 @@
 {
   "quick_bite": [
     {
+      "name": "Dunkin'",
+      "distance": "0.5 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Dunkin'&query_place_id=ChIJmenpID3Nt4kRjl0Lkap3ekQ&center=39.0977489,-77.1357422"
+    },
+    {
       "name": "Rockville Arirang Restaurant",
       "distance": "0.5 mi",
-      "url": "https://www.google.com/maps/search/Rockville%20Arirang%20Restaurant+near+39.103519299999995%2C-77.1293228"
+      "url": "https://www.google.com/maps/search/?api=1&query=Rockville%20Arirang%20Restaurant&query_place_id=ChIJe_VcM4_Nt4kRl2pavFQPP6U&center=39.097266999999995,-77.13498899999999"
     },
     {
       "name": "Subway",
       "distance": "0.5 mi",
-      "url": "https://www.google.com/maps/search/Subway+near+39.103519299999995%2C-77.1293228"
+      "url": "https://www.google.com/maps/search/?api=1&query=Subway&query_place_id=ChIJCdbDHYbNt4kRMWcL32b67dk&center=39.0984281,-77.136933"
     },
     {
       "name": "The Bean Bag Deli & Catering Llc",
       "distance": "0.7 mi",
-      "url": "https://www.google.com/maps/search/The%20Bean%20Bag%20Deli%20%26%20Catering%20Llc+near+39.103519299999995%2C-77.1293228"
+      "url": "https://www.google.com/maps/search/?api=1&query=The%20Bean%20Bag%20Deli%20%26%20Catering%20Llc&query_place_id=ChIJT2DxY47Nt4kRHpssbCIN6vs&center=39.0936929,-77.1326005"
     },
     {
       "name": "Mosaic Pizza - Rockville",
       "distance": "1.0 mi",
-      "url": "https://www.google.com/maps/search/Mosaic%20Pizza%20-%20Rockville+near+39.103519299999995%2C-77.1293228"
+      "url": "https://www.google.com/maps/search/?api=1&query=Mosaic%20Pizza%20-%20Rockville&query_place_id=ChIJlaj2xfPTt4kR7JVQAcUKVRE&center=39.1079319,-77.1469778"
     },
     {
-      "name": "Chuck E. Cheese",
-      "distance": "4.3 mi",
-      "url": "https://www.google.com/maps/search/Chuck%20E.%20Cheese+near+39.103519299999995%2C-77.1293228",
-      "isFar": true
+      "name": "Subway",
+      "distance": "1.2 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Subway&query_place_id=ChIJWaDEkvnNt4kRxbPBKIoPkFA&center=39.0945555,-77.11114479999999"
+    },
+    {
+      "name": "Subway",
+      "distance": "1.5 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Subway&query_place_id=ChIJAU4pm33Nt4kR0zvGCeh3Rww&center=39.1037487,-77.15674779999999"
+    },
+    {
+      "name": "Popeyes Louisiana Kitchen",
+      "distance": "1.5 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Popeyes%20Louisiana%20Kitchen&query_place_id=ChIJn4V4GnfNt4kRN6tTYB2c8oo&center=39.0918239,-77.1523392"
+    },
+    {
+      "name": "GIMME MORE THAI",
+      "distance": "1.7 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=GIMME%20MORE%20THAI&query_place_id=ChIJT_MVgSDNt4kRVHnpxVG0CCc&center=39.0888901,-77.1542796"
+    },
+    {
+      "name": "Five Guys",
+      "distance": "1.7 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Five%20Guys&query_place_id=ChIJRbVA-HTNt4kRjHJRDNyG6a0&center=39.086146,-77.15221"
     }
   ],
   "coffee": [
     {
       "name": "Village Grille",
       "distance": "0.1 mi",
-      "url": "https://www.google.com/maps/search/Village%20Grille+near+39.103519299999995%2C-77.1293228"
+      "url": "https://www.google.com/maps/search/?api=1&query=Village%20Grille&query_place_id=ChIJ9aUYUnTSt4kRfwCyAS7sBQA&center=39.1031932,-77.1291263"
     },
     {
       "name": "Dunkin'",
       "distance": "0.5 mi",
-      "url": "https://www.google.com/maps/search/Dunkin'+near+39.103519299999995%2C-77.1293228"
+      "url": "https://www.google.com/maps/search/?api=1&query=Dunkin'&query_place_id=ChIJmenpID3Nt4kRjl0Lkap3ekQ&center=39.0977489,-77.1357422"
+    },
+    {
+      "name": "Fresh Baguette",
+      "distance": "1.5 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Fresh%20Baguette&query_place_id=ChIJMRLOHHrNt4kRp2y5LCRVWsg&center=39.0946264,-77.15449749999999"
     }
   ],
   "team_lunch": [
     {
       "name": "Polleria Tres Amigos",
       "distance": "1.0 mi",
-      "url": "https://www.google.com/maps/search/Polleria%20Tres%20Amigos+near+39.103519299999995%2C-77.1293228"
+      "url": "https://www.google.com/maps/search/?api=1&query=Polleria%20Tres%20Amigos&query_place_id=ChIJ5UqFq5zNt4kRvNGri0nhw7k&center=39.0927667,-77.14303389999999"
     },
     {
       "name": "Yu Noodles",
       "distance": "1.0 mi",
-      "url": "https://www.google.com/maps/search/Yu%20Noodles+near+39.103519299999995%2C-77.1293228"
+      "url": "https://www.google.com/maps/search/?api=1&query=Yu%20Noodles&query_place_id=ChIJFXOsVqjTt4kRwWO-85hBdKU&center=39.1057012,-77.1486168"
+    },
+    {
+      "name": "Sweet Bakery",
+      "distance": "1.3 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Sweet%20Bakery&query_place_id=ChIJDUSNbZfNt4kR6uzj8JeJ8ro&center=39.0848714,-77.1358389"
+    },
+    {
+      "name": "hugo america llc",
+      "distance": "1.4 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=hugo%20america%20llc&query_place_id=ChIJGeuCYAHNt4kRFz78Z26261Q&center=39.0996737,-77.1548986"
+    },
+    {
+      "name": "Asian Bakery Cafe",
+      "distance": "1.4 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Asian%20Bakery%20Cafe&query_place_id=ChIJDVDdW3fNt4kRgYxoVCo3tC4&center=39.0934968,-77.15276109999999"
+    },
+    {
+      "name": "蛋糕店",
+      "distance": "1.5 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=%E8%9B%8B%E7%B3%95%E5%BA%97&query_place_id=ChIJHZPLQgDNt4kRo-LHJJQ3OWM&center=39.091737599999995,-77.15201119999999"
     }
   ],
   "dinner": [

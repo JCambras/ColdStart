@@ -21,9 +21,34 @@
       "url": "https://www.google.com/maps/search/?api=1&query=Subway&query_place_id=ChIJR1yNCuVi5okRlD-2_DFnqWM&center=43.0565611,-78.8437112"
     },
     {
+      "name": "Tim Hortons",
+      "distance": "1.7 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Tim%20Hortons&query_place_id=ChIJbeavkylw04kR8RRSb8vMvj0&center=43.0583387,-78.83664420000001"
+    },
+    {
+      "name": "Tim Hortons",
+      "distance": "1.9 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Tim%20Hortons&query_place_id=ChIJBeSd5FNu04kR-3nBthwfR7E&center=43.0520147,-78.87441559999999"
+    },
+    {
       "name": "Country Cottage",
       "distance": "1.9 mi",
       "url": "https://www.google.com/maps/search/?api=1&query=Country%20Cottage&query_place_id=ChIJVfEP7g5w04kRML_a1y3ipGE&center=43.0832172,-78.8229193"
+    },
+    {
+      "name": "Buffalo Pizza Project",
+      "distance": "1.9 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Buffalo%20Pizza%20Project&query_place_id=ChIJwXIcs7tv04kRg07gnIxaFDw&center=43.0512052,-78.84664560000002"
+    },
+    {
+      "name": "Ted's Hot Dogs",
+      "distance": "1.9 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Ted's%20Hot%20Dogs&query_place_id=ChIJR_5iI1Ju04kRiAL9lca6xVI&center=43.051662500000006,-78.8739738"
+    },
+    {
+      "name": "Subway",
+      "distance": "2.1 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Subway&query_place_id=ChIJozMp0VBu04kRkRbyIkgweIM&center=43.0493783,-78.8774868"
     }
   ],
   "coffee": [
@@ -36,6 +61,17 @@
       "name": "Tim Hortons",
       "distance": "1.9 mi",
       "url": "https://www.google.com/maps/search/?api=1&query=Tim%20Hortons&query_place_id=ChIJBeSd5FNu04kR-3nBthwfR7E&center=43.0520147,-78.87441559999999"
+    },
+    {
+      "name": "McDonald's",
+      "distance": "1.9 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=McDonald's&query_place_id=ChIJF_nc01Nu04kR4HmbGcXu-6g&center=43.0519255,-78.8752116"
+    },
+    {
+      "name": "McDonald's",
+      "distance": "3.1 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=McDonald's&query_place_id=ChIJMSHQ_cRx04kRvwFHiI8e_hA&center=43.0394205,-78.8247872",
+      "isFar": true
     }
   ],
   "team_lunch": [

@@ -24,21 +24,51 @@
       "name": "Five Guys",
       "distance": "0.5 mi",
       "url": "https://www.google.com/maps/search/?api=1&query=Five%20Guys&query_place_id=ChIJT0R0-Z9iNIgRr_fwMbAT1U8&center=40.674563899999995,-80.098016"
+    },
+    {
+      "name": "Jimmy John's",
+      "distance": "0.6 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Jimmy%20John's&query_place_id=ChIJ-WbG83d9NIgRgg5jm66bmgU&center=40.675520999999996,-80.0982645"
+    },
+    {
+      "name": "Chipotle Mexican Grill",
+      "distance": "0.6 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Chipotle%20Mexican%20Grill&query_place_id=ChIJXxKSdKBiNIgRbEnsXwzeGH0&center=40.6757742,-80.098298"
+    },
+    {
+      "name": "Giant Eagle Prepared Foods",
+      "distance": "0.9 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Giant%20Eagle%20Prepared%20Foods&query_place_id=ChIJ7YIVz6ZiNIgRvKgZ1IIZk0A&center=40.6802261,-80.1019373"
+    },
+    {
+      "name": "Capriotti's Sandwich Shop",
+      "distance": "0.9 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Capriotti's%20Sandwich%20Shop&query_place_id=ChIJSwDkRHRjNIgRh6j7bzCdYug&center=40.6814727,-80.0997161"
+    },
+    {
+      "name": "Wendy's",
+      "distance": "1.0 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Wendy's&query_place_id=ChIJB3remKViNIgReU9vWXYKDpw&center=40.6816579,-80.1011856"
     }
   ],
   "coffee": [
     {
+      "name": "McDonald's",
+      "distance": "0.3 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=McDonald's&query_place_id=ChIJCc11SQaGNIgRf39phbuZde8&center=40.6718269,-80.0986563"
+    },
+    {
       "name": "Einstein Bros. Bagels",
       "distance": "1.4 mi",
       "url": "https://www.google.com/maps/search/?api=1&query=Einstein%20Bros.%20Bagels&query_place_id=ChIJPUupOaliNIgRV4d2GTCX-dk&center=40.688185,-80.102729"
+    },
+    {
+      "name": "McDonald's",
+      "distance": "1.6 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=McDonald's&query_place_id=ChIJR1W-jQ6INIgRBPWs9uZuTKY&center=40.686147999999996,-80.0825862"
     }
   ],
   "team_lunch": [
-    {
-      "name": "Ember & Vine",
-      "distance": "0.3 mi",
-      "url": "https://www.google.com/maps/search/?api=1&query=Ember%20%26%20Vine&query_place_id=ChIJmUnW0CaINIgRNw8PGR7YmHs&center=40.6682658,-80.09529959999999"
-    },
     {
       "name": "COI",
       "distance": "0.3 mi",
@@ -58,6 +88,11 @@
       "name": "CHiKN",
       "distance": "0.6 mi",
       "url": "https://www.google.com/maps/search/?api=1&query=CHiKN&query_place_id=ChIJ5_6wzXhjNIgRp5ZINLw7GfM&center=40.6756228,-80.0983844"
+    },
+    {
+      "name": "Walmart Bakery",
+      "distance": "1.4 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Walmart%20Bakery&query_place_id=ChIJq6qq5q5iNIgRvT5YDIQJjHE&center=40.6878457,-80.1055174"
     }
   ],
   "dinner": [

@@ -1,11 +1,6 @@
 {
   "quick_bite": [
     {
-      "name": "Centrally located in OakBluffs on Martha’s Vineyard",
-      "distance": "0.3 mi",
-      "url": "https://www.google.com/maps/search/?api=1&query=Centrally%20located%20in%20OakBluffs%20on%20Martha%E2%80%99s%20Vineyard&query_place_id=ChIJ60iQ9y8v5YkRdjjgcQCS1WU&center=41.4183502,-70.5851898"
-    },
-    {
       "name": "Island Fresh Pizza & Subs",
       "distance": "2.3 mi",
       "url": "https://www.google.com/maps/search/?api=1&query=Island%20Fresh%20Pizza%20%26%20Subs&query_place_id=ChIJxzMTpqYo5YkRgHvA47soUpc&center=41.447075399999996,-70.61604059999999"
@@ -45,11 +40,6 @@
       "url": "https://www.google.com/maps/search/?api=1&query=Aquila%20at%20the%20Y%20Cafe%20-%20Smoothies%20%26%20Acai&query_place_id=ChIJhxludaIv5YkRmqsT8SyM-6c&center=41.419820699999995,-70.5928471"
     },
     {
-      "name": "The Black Dog Bakery Café (State St.)",
-      "distance": "2.3 mi",
-      "url": "https://www.google.com/maps/search/?api=1&query=The%20Black%20Dog%20Bakery%20Caf%C3%A9%20(State%20St.)&query_place_id=ChIJOTE-4Jco5YkRKT-qO0ZC__E&center=41.4453544,-70.6183166"
-    },
-    {
       "name": "Catboat Coffee Co.",
       "distance": "2.3 mi",
       "url": "https://www.google.com/maps/search/?api=1&query=Catboat%20Coffee%20Co.&query_place_id=ChIJv17eR3Up5YkRXuxl6ZGmToo&center=41.4519832,-70.598815"
@@ -58,6 +48,18 @@
       "name": "ArtCliff Diner",
       "distance": "2.4 mi",
       "url": "https://www.google.com/maps/search/?api=1&query=ArtCliff%20Diner&query_place_id=ChIJtXFoMfoo5YkRMk7JWZGRsNg&center=41.453128899999996,-70.59990619999999"
+    },
+    {
+      "name": "Back Door Donuts",
+      "distance": "3.1 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Back%20Door%20Donuts&query_place_id=ChIJz37-w-Ao5YkRchXs0eH7JjE&center=41.4561291,-70.5577641",
+      "isFar": true
+    },
+    {
+      "name": "Iggy's Bread Edgartown, MV",
+      "distance": "4.5 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Iggy's%20Bread%20Edgartown%2C%20MV&query_place_id=ChIJ28o3q6Mt5YkRnsW_y-czs1E&center=41.3894665,-70.5141987",
+      "isFar": true
     }
   ],
   "team_lunch": [

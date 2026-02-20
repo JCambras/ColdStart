@@ -1,6 +1,11 @@
 {
   "quick_bite": [
     {
+      "name": "Dunkin'",
+      "distance": "0.3 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Dunkin'&query_place_id=ChIJj7BkUq-P5IkRpWuOzLwoZac&center=41.974323299999995,-71.0676084"
+    },
+    {
       "name": "Cape Cod Cafe",
       "distance": "1.1 mi",
       "url": "https://www.google.com/maps/search/?api=1&query=Cape%20Cod%20Cafe&query_place_id=ChIJx2ymbz-M5IkRIxDWWePC59I&center=41.9544674,-71.06982239999999"
@@ -16,6 +21,11 @@
       "url": "https://www.google.com/maps/search/?api=1&query=PieZoni's%20Pizza&query_place_id=ChIJv4Ynr0GM5IkRIycWwAnrBfg&center=41.9511465,-71.07083159999999"
     },
     {
+      "name": "Dunkin'",
+      "distance": "2.3 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Dunkin'&query_place_id=ChIJp50Tva6R5IkR2TwIg1nUWQ8&center=41.9568509,-71.0257389"
+    },
+    {
       "name": "Burger King",
       "distance": "2.3 mi",
       "url": "https://www.google.com/maps/search/?api=1&query=Burger%20King&query_place_id=ChIJa0af58KN5IkRDhxH_OK1Qgw&center=41.956801899999995,-71.02566449999999"
@@ -29,6 +39,17 @@
       "name": "Wendy's",
       "distance": "2.8 mi",
       "url": "https://www.google.com/maps/search/?api=1&query=Wendy's&query_place_id=ChIJHQBs7JSL5IkR9EMel_S7m0E&center=41.959165899999995,-71.11904109999999"
+    },
+    {
+      "name": "Curbside Cookin'",
+      "distance": "3.0 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Curbside%20Cookin'&query_place_id=ChIJV2ssBmyN5IkRqNee9dPPIXI&center=41.929630599999996,-71.08646519999999"
+    },
+    {
+      "name": "Wendy's",
+      "distance": "3.0 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Wendy's&query_place_id=ChIJA6c0tACP5IkRM8XG14fHCxw&center=42.0124201,-71.0510711",
+      "isFar": true
     }
   ],
   "coffee": [
@@ -43,6 +64,11 @@
       "url": "https://www.google.com/maps/search/?api=1&query=Colebella%20Coffee%20Company&query_place_id=ChIJDT4tYBCP5IkRPbCs-A5Z0KU&center=41.977779299999995,-71.0732269"
     },
     {
+      "name": "McDonald's",
+      "distance": "1.2 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=McDonald's&query_place_id=ChIJhYq9fj-M5IkR5S2H0U_vI7M&center=41.9535601,-71.0699612"
+    },
+    {
       "name": "Honey Dew Donuts",
       "distance": "1.4 mi",
       "url": "https://www.google.com/maps/search/?api=1&query=Honey%20Dew%20Donuts&query_place_id=ChIJl-P_r0GM5IkRMdeJGPR4ETc&center=41.9509793,-71.0713231"
@@ -51,6 +77,29 @@
       "name": "Honey Dew Donuts",
       "distance": "2.3 mi",
       "url": "https://www.google.com/maps/search/?api=1&query=Honey%20Dew%20Donuts&query_place_id=ChIJzx8MBguO5IkRpu_Uhyq-Na8&center=41.967780999999995,-71.023353"
+    },
+    {
+      "name": "Dunkin'",
+      "distance": "2.3 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Dunkin'&query_place_id=ChIJp50Tva6R5IkR2TwIg1nUWQ8&center=41.9568509,-71.0257389"
+    },
+    {
+      "name": "Honey Dew Donuts",
+      "distance": "3.5 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Honey%20Dew%20Donuts&query_place_id=ChIJcRb-WaWP5IkRUfVvJftt0ys&center=42.0156272,-71.0386285",
+      "isFar": true
+    },
+    {
+      "name": "GuChanYa Pastry, LLC",
+      "distance": "4.0 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=GuChanYa%20Pastry%2C%20LLC&query_place_id=ChIJbZNY1nr15IkRkZT0Pjt9quU&center=41.9136595,-71.0828011",
+      "isFar": true
+    },
+    {
+      "name": "McDonald's",
+      "distance": "4.6 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=McDonald's&query_place_id=ChIJ6avn89iM5IkR0Jx3KcOADaQ&center=41.905502999999996,-71.05179319999999",
+      "isFar": true
     }
   ],
   "team_lunch": [
@@ -68,6 +117,11 @@
       "name": "Harry's La Casa Mia Restaurant",
       "distance": "1.4 mi",
       "url": "https://www.google.com/maps/search/?api=1&query=Harry's%20La%20Casa%20Mia%20Restaurant&query_place_id=ChIJ_UpuyEGM5IkRWIwr3q6lf-k&center=41.9507597,-71.0721727"
+    },
+    {
+      "name": "Walmart Bakery",
+      "distance": "2.6 mi",
+      "url": "https://www.google.com/maps/search/?api=1&query=Walmart%20Bakery&query_place_id=ChIJq6qq04eM5IkRcPCBS0WGP_E&center=41.935045099999996,-71.0859895"
     },
     {
       "name": "Stacys Cookie Corner",
