@@ -42,7 +42,9 @@ export function SignalBar({ signal, rinkSlug }: { signal: Signal; rinkSlug: stri
           ) : (
             <>
               <span style={{ fontSize: 22, fontWeight: 700, color }}>{signal.value.toFixed(1)}</span>
-              <span style={{ fontSize: text.xs, color: colors.textMuted }}>/5</span>
+              <span style={{ fontSize: text.xs, color: colors.textMuted, marginLeft: 4 }}>
+                {signal.value >= 4 ? meta.highLabel : signal.value >= 3 ? 'Average' : meta.lowLabel}
+              </span>
             </>
           )}
         </div>

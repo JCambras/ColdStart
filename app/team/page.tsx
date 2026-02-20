@@ -41,6 +41,31 @@ export default function TeamDashboardPage() {
         </p>
 
         <div style={{
+          marginTop: 28, padding: '20px 24px',
+          background: colors.bgInfo, border: `1px solid ${colors.brandLight}`,
+          borderRadius: radius.xl, textAlign: 'left',
+        }}>
+          <p style={{ fontSize: 14, fontWeight: 700, color: colors.textPrimary, margin: 0 }}>
+            Need to share game day info now?
+          </p>
+          <p style={{ fontSize: 13, color: colors.textTertiary, marginTop: 6, lineHeight: 1.5, margin: '6px 0 0' }}>
+            Create a trip page with parking intel, game schedule, food spots, and costs &mdash; then share one link with your team.
+          </p>
+          <button
+            onClick={() => router.push('/trip/new')}
+            style={{
+              marginTop: 12, fontSize: 14, fontWeight: 600,
+              color: colors.white, background: colors.brand,
+              border: 'none', borderRadius: radius.lg,
+              padding: '14px 24px', cursor: 'pointer',
+              width: '100%',
+            }}
+          >
+            Create a game day page →
+          </button>
+        </div>
+
+        <div style={{
           marginTop: 48, padding: '20px 24px',
           background: colors.white, border: `1px solid ${colors.borderDefault}`,
           borderRadius: radius.xl, textAlign: 'left',

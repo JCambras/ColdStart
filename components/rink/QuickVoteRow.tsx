@@ -71,31 +71,37 @@ export function QuickVoteRow({ rinkId, onSummaryUpdate, onRatedCountChange }: Qu
               </span>
             </div>
 
-            {/* 1-5 buttons */}
-            <div style={{ display: 'flex', gap: 4, flex: 1 }} role="group" aria-label={`Rate ${s.label} from 1 to 5`}>
-              {[1, 2, 3, 4, 5].map(v => {
-                const isSelected = selected === v;
-                return (
-                  <button
-                    key={v}
-                    onClick={() => submitRating(s.key, v)}
-                    disabled={busy}
-                    aria-label={`Rate ${s.label} ${v} out of 5`}
-                    style={{
-                      flex: 1, height: 44, borderRadius: 8,
-                      border: `1.5px solid ${isSelected ? colors.brand : colors.borderDefault}`,
-                      background: isSelected ? colors.brand : colors.white,
-                      color: isSelected ? colors.white : colors.textSecondary,
-                      fontSize: 14, fontWeight: 700,
-                      cursor: busy ? 'wait' : 'pointer',
-                      transition: 'all 0.12s',
-                      opacity: busy && !isSelected ? 0.5 : 1,
-                    }}
-                  >
-                    {v}
-                  </button>
-                );
-              })}
+            {/* 1-5 buttons with per-signal scale labels */}
+            <div style={{ flex: 1 }}>
+              <div style={{ display: 'flex', gap: 4 }} role="group" aria-label={`Rate ${s.label} from 1 to 5`}>
+                {[1, 2, 3, 4, 5].map(v => {
+                  const isSelected = selected === v;
+                  return (
+                    <button
+                      key={v}
+                      onClick={() => submitRating(s.key, v)}
+                      disabled={busy}
+                      aria-label={`Rate ${s.label} ${v} out of 5`}
+                      style={{
+                        flex: 1, height: 44, borderRadius: 8,
+                        border: `1.5px solid ${isSelected ? colors.brand : colors.borderDefault}`,
+                        background: isSelected ? colors.brand : colors.white,
+                        color: isSelected ? colors.white : colors.textSecondary,
+                        fontSize: 14, fontWeight: 700,
+                        cursor: busy ? 'wait' : 'pointer',
+                        transition: 'all 0.12s',
+                        opacity: busy && !isSelected ? 0.5 : 1,
+                      }}
+                    >
+                      {v}
+                    </button>
+                  );
+                })}
+              </div>
+              <div style={{ display: 'flex', justifyContent: 'space-between', paddingTop: 2 }}>
+                <span style={{ fontSize: 9, color: colors.textMuted }}>{meta?.lowLabel || 'Low'}</span>
+                <span style={{ fontSize: 9, color: colors.textMuted }}>{meta?.highLabel || 'High'}</span>
+              </div>
             </div>
 
             {/* Done check */}
@@ -106,11 +112,6 @@ export function QuickVoteRow({ rinkId, onSummaryUpdate, onRatedCountChange }: Qu
         );
       })}
 
-      {/* Low/high hint for context */}
-      <div style={{ display: 'flex', justifyContent: 'space-between', paddingLeft: 82, paddingRight: 22 }}>
-        <span style={{ fontSize: 10, color: colors.textMuted }}>← Low</span>
-        <span style={{ fontSize: 10, color: colors.textMuted }}>High →</span>
-      </div>
     </div>
   );
 }
