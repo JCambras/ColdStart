@@ -3,7 +3,7 @@
 import { useState, useEffect } from 'react';
 import { RinkData } from '../RinkCard';
 import { SIGNAL_LABELS } from '../../lib/constants';
-import { getBarColor } from '../../lib/rinkHelpers';
+import { getBarColor, getRinkPhoto } from '../../lib/rinkHelpers';
 import { colors, text, layout } from '../../lib/theme';
 
 interface FeaturedRinksGridProps {
@@ -44,7 +44,7 @@ export function FeaturedRinksGrid({ rinks, onRinkClick }: FeaturedRinksGridProps
       }}>
         {rinks.map((rink, i) => {
           const isHovered = hoveredId === rink.id;
-          const hasPhoto = (rink.name || '').toLowerCase().includes('ice line');
+          const rinkPhoto = getRinkPhoto(rink);
           const signals = rink.summary?.signals || [];
           const topSignals = [...signals]
             .sort((a, b) => { if (a.signal === 'parking') return -1; if (b.signal === 'parking') return 1; return 0; })
@@ -81,9 +81,9 @@ export function FeaturedRinksGrid({ rinks, onRinkClick }: FeaturedRinksGridProps
               <div style={{
                 height: 140, overflow: 'hidden', position: 'relative',
               }}>
-                {hasPhoto ? (
+                {rinkPhoto ? (
                   <img
-                    src="/rink-photos/ice-line.jpeg"
+                    src={rinkPhoto}
                     alt={rink.name}
                     style={{
                       width: '100%', height: '100%',
