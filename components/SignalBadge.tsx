@@ -1,11 +1,11 @@
 'use client';
 
 import { SIGNAL_ICONS } from '../lib/constants';
-import { colors } from '../lib/theme';
+import { getBarColor, getBarBg } from '../lib/rinkHelpers';
 
 export function SignalBadge({ signal, value }: { signal: string; value: number }) {
-  const color = value >= 3.5 ? colors.success : value >= 2.5 ? colors.warning : colors.error;
-  const bgColor = value >= 3.5 ? colors.bgSuccess : value >= 2.5 ? colors.bgWarning : colors.bgError;
+  const color = getBarColor(value);
+  const bgColor = getBarBg(value);
   return (
     <div style={{
       display: 'inline-flex', alignItems: 'center', gap: 4,

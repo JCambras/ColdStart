@@ -117,24 +117,24 @@ function ReturnRatingPrompt({
   if (done) {
     return (
       <section style={{
-        background: 'linear-gradient(135deg, #ecfdf5 0%, #f0fdf4 100%)',
-        border: '1px solid #a7f3d0',
+        background: `linear-gradient(135deg, ${colors.bgSuccess} 0%, ${colors.bgSuccess} 100%)`,
+        border: `1px solid ${colors.successBorder}`,
         borderRadius: 14, padding: '18px 20px', marginTop: 16,
       }}>
         <div style={{ display: 'flex', alignItems: 'center', justifyContent: 'space-between' }}>
           <div>
-            <p style={{ fontSize: 15, fontWeight: 700, color: '#059669', margin: 0 }}>
+            <p style={{ fontSize: 15, fontWeight: 700, color: colors.success, margin: 0 }}>
               Thanks! You rated {totalRated} signal{totalRated !== 1 ? 's' : ''}.
             </p>
-            <p style={{ fontSize: 12, color: '#6b7280', marginTop: 3, margin: '3px 0 0' }}>
+            <p style={{ fontSize: 12, color: colors.textTertiary, marginTop: 3, margin: '3px 0 0' }}>
               The next family will see your intel.
             </p>
           </div>
           <button
             onClick={handleFinish}
             style={{
-              fontSize: 12, fontWeight: 600, color: '#059669',
-              background: '#fff', border: '1px solid #a7f3d0',
+              fontSize: 12, fontWeight: 600, color: colors.success,
+              background: colors.white, border: `1px solid ${colors.successBorder}`,
               borderRadius: 8, padding: '6px 14px', cursor: 'pointer',
             }}
           >
@@ -255,8 +255,8 @@ function ReturnRatingPrompt({
       <div style={{ display: 'flex', gap: 8 }}>
         {[1, 2, 3, 4, 5].map((val) => {
           const isRated = rated[current.key] === val;
-          const color = val >= 4 ? '#059669' : val >= 3 ? '#d97706' : '#ef4444';
-          const bg = val >= 4 ? '#ecfdf5' : val >= 3 ? '#fffbeb' : '#fef2f2';
+          const color = val >= 4 ? colors.success : val >= 3 ? colors.warning : colors.error;
+          const bg = val >= 4 ? colors.bgSuccess : val >= 3 ? colors.bgWarning : colors.bgError;
           return (
             <button
               key={val}
@@ -533,9 +533,9 @@ export default function RinkPage() {
       }}
       style={{
         fontSize: 12, fontWeight: 500,
-        color: shareCopied ? '#059669' : colors.brand,
-        background: shareCopied ? '#ecfdf5' : colors.bgInfo,
-        border: `1px solid ${shareCopied ? '#a7f3d0' : colors.brandLight}`,
+        color: shareCopied ? colors.success : colors.brand,
+        background: shareCopied ? colors.bgSuccess : colors.bgInfo,
+        border: `1px solid ${shareCopied ? colors.successBorder : colors.brandLight}`,
         borderRadius: 8, padding: '6px 14px', cursor: 'pointer',
         transition: 'all 0.2s', whiteSpace: 'nowrap',
       }}

@@ -2,6 +2,7 @@
 
 import { useState, useEffect } from 'react';
 import { SIGNAL_LABELS } from '../lib/constants';
+import { getBarColor } from '../lib/rinkHelpers';
 import { colors, text } from '../lib/theme';
 
 interface Signal {
@@ -97,7 +98,7 @@ export function RinkCard({ rink, onClick }: { rink: RinkData; onClick: () => voi
                 .map((s) => {
                   const pct = Math.round(((s.value - 1) / 4) * 100);
                   const label = SIGNAL_LABELS[s.signal] || s.signal;
-                  const color = s.value >= 3.5 ? colors.brand : s.value >= 2.5 ? '#f59e0b' : colors.error;
+                  const color = getBarColor(s.value, s.count);
                   return (
                     <div key={s.signal} style={{ display: 'flex', alignItems: 'center', gap: 8, fontSize: text.sm }}>
                       <span style={{ width: 52, flexShrink: 0, color: colors.textSecondary, fontWeight: 500 }}>{label}</span>
