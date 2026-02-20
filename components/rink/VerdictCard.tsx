@@ -13,6 +13,23 @@ interface VerdictCardProps {
 export function VerdictCard({ rink, summary, loadedSignals }: VerdictCardProps) {
   const hasData = summary.contribution_count > 0;
 
+  // Staleness check: >60 days since last update
+  const isStale = (() => {
+    if (!summary.last_updated_at) return hasData; // No date but has data = stale
+    const updated = new Date(summary.last_updated_at).getTime();
+    const daysSince = (Date.now() - updated) / (1000 * 60 * 60 * 24);
+    return daysSince > 60;
+  })();
+
+  const staleLabel = (() => {
+    if (!summary.last_updated_at) return 'Last update date unknown — conditions may have changed.';
+    const updated = new Date(summary.last_updated_at).getTime();
+    const daysSince = (Date.now() - updated) / (1000 * 60 * 60 * 24);
+    if (daysSince > 365) return `Last updated over a year ago — conditions may have changed.`;
+    const months = Math.floor(daysSince / 30);
+    return `Last updated over ${months} month${months !== 1 ? 's' : ''} ago — conditions may have changed.`;
+  })();
+
   return (
     <section
       aria-label="Rink verdict"
@@ -40,6 +57,16 @@ export function VerdictCard({ rink, summary, loadedSignals }: VerdictCardProps) 
             })()}
             From {summary.contribution_count} hockey parent{summary.contribution_count !== 1 ? 's' : ''} this season
             {summary.last_updated_at && ` · Updated ${timeAgo(summary.last_updated_at)}`}
+          </p>
+        )}
+        {hasData && isStale && (
+          <p style={{
+            fontSize: 12, color: '#92400e', marginTop: 8, margin: '8px 0 0',
+            padding: '6px 10px', borderRadius: 8,
+            background: '#fffbeb', border: '1px solid #fde68a',
+            lineHeight: 1.4,
+          }}>
+            ⚠️ {staleLabel}
           </p>
         )}
       </div>

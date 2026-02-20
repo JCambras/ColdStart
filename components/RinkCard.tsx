@@ -130,7 +130,7 @@ export function RinkCard({ rink, onClick }: { rink: RinkData; onClick: () => voi
             )}
             <div style={{ display: 'flex', alignItems: 'center', gap: 8, marginTop: 8 }}>
               <span style={{ fontSize: text.xs, color: colors.textTertiary }}>
-                From {5 + (rink.name.length % 6)} hockey parents
+                From {summary.contribution_count} hockey parent{summary.contribution_count !== 1 ? 's' : ''}
               </span>
               {summary.confirmed_this_season && (
                 <span style={{ fontSize: text['2xs'], fontWeight: 500, padding: '2px 8px', borderRadius: 10, background: '#ecfdf5', color: '#059669' }}>

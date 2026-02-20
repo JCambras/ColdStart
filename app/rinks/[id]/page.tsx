@@ -663,7 +663,7 @@ export default function RinkPage() {
           {/* Parent count — immediately after name */}
           {hasData && (
             <p style={{ fontSize: 12, color: colors.textTertiary, marginTop: 10, margin: '10px 0 0' }}>
-              From {5 + (rink.name.length % 6)} hockey parents
+              From {summary.contribution_count} hockey parent{summary.contribution_count !== 1 ? 's' : ''}
             </p>
           )}
 

@@ -61,8 +61,19 @@ export function SignalBar({ signal, rinkSlug }: { signal: Signal; rinkSlug: stri
       {!expanded && (
         <div style={{ display: 'flex', justifyContent: 'space-between', marginTop: 4 }}>
           <span style={{ fontSize: text['2xs'], color: colors.textMuted }}>{meta.lowLabel}</span>
-          <span style={{ fontSize: text.sm, fontWeight: noData ? 400 : 600, color: colors.textMuted, fontStyle: noData ? 'italic' : 'normal' }}>
-            {noData ? 'No ratings yet' : `${signal.count} rating${signal.count !== 1 ? 's' : ''}`}
+          <span style={{
+            fontSize: text.sm,
+            fontWeight: noData ? 400 : 600,
+            color: noData ? colors.textMuted : signal.count < 3 ? '#92400e' : colors.textMuted,
+            fontStyle: noData ? 'italic' : 'normal',
+            ...(signal.count > 0 && signal.count < 3 ? {
+              background: '#fffbeb', padding: '1px 8px', borderRadius: 6, border: '1px solid #fde68a',
+            } : {}),
+          }}>
+            {noData ? 'No ratings yet' : signal.count < 3
+              ? `Early — ${signal.count} rating${signal.count !== 1 ? 's' : ''}`
+              : `${signal.count} rating${signal.count !== 1 ? 's' : ''}`
+            }
           </span>
           <span style={{ fontSize: text['2xs'], color: colors.textMuted }}>{meta.highLabel}</span>
         </div>
@@ -71,12 +82,19 @@ export function SignalBar({ signal, rinkSlug }: { signal: Signal; rinkSlug: stri
         <div style={{ marginTop: 8 }}>
           <div style={{ display: 'flex', justifyContent: 'space-between', marginBottom: 8 }}>
             <span style={{ fontSize: text['2xs'], color: colors.textMuted }}>← {meta.lowLabel}</span>
-            <span style={{ fontSize: text.sm, fontWeight: noData ? 400 : 600, color: noData ? colors.textMuted : colors.textSecondary, fontStyle: noData ? 'italic' : 'normal' }}>
-              {noData ? 'No ratings yet' : (
-                <>
-                  Based on {signal.count} rating{signal.count !== 1 ? 's' : ''}
-                </>
-              )}
+            <span style={{
+              fontSize: text.sm,
+              fontWeight: noData ? 400 : 600,
+              color: noData ? colors.textMuted : signal.count < 3 ? '#92400e' : colors.textSecondary,
+              fontStyle: noData ? 'italic' : 'normal',
+              ...(signal.count > 0 && signal.count < 3 ? {
+                background: '#fffbeb', padding: '1px 8px', borderRadius: 6, border: '1px solid #fde68a',
+              } : {}),
+            }}>
+              {noData ? 'No ratings yet' : signal.count < 3
+                ? `Early — ${signal.count} rating${signal.count !== 1 ? 's' : ''}`
+                : `Based on ${signal.count} rating${signal.count !== 1 ? 's' : ''}`
+              }
             </span>
             <span style={{ fontSize: text['2xs'], color: colors.textMuted }}>{meta.highLabel} →</span>
           </div>

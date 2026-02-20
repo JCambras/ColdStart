@@ -104,9 +104,21 @@ export function TipCard({ tip, tipIndex, rinkSlug }: { tip: Tip; tipIndex: numbe
         {/* Tip content */}
         <div style={{ flex: 1 }}>
           <div style={{ display: 'flex', justifyContent: 'space-between', alignItems: 'flex-start', gap: 8 }}>
-            <p style={{ fontSize: text.md, color: colors.textSecondary, lineHeight: 1.5, margin: 0, flex: 1 }}>
-              &ldquo;{tip.text}&rdquo;
-            </p>
+            <div style={{ flex: 1 }}>
+              <p style={{ fontSize: text.md, color: colors.textSecondary, lineHeight: 1.5, margin: 0 }}>
+                &ldquo;{tip.text}&rdquo;
+              </p>
+              {!expanded && (
+                <span style={{
+                  fontSize: text['2xs'], fontWeight: 500, padding: '1px 6px',
+                  borderRadius: 6, display: 'inline-block', marginTop: 4,
+                  background: isLocal ? colors.indigoBg : colors.purpleBg,
+                  color: isLocal ? '#2563eb' : colors.purple,
+                }}>
+                  {isLocal ? 'Local' : 'Visitor'}
+                </span>
+              )}
+            </div>
             <div style={{ display: 'flex', alignItems: 'center', gap: 4, flexShrink: 0 }}>
               {response && <span style={{ fontSize: text['2xs'], color: colors.brandAccent }}>💬</span>}
               <span style={{
