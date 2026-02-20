@@ -2,7 +2,7 @@
 
 import { useEffect } from 'react';
 import { Logo } from '../components/Logo';
-import { colors, text, radius, font } from '../lib/theme';
+import { colors, text, radius } from '../lib/theme';
 
 export default function Error({
   error,
@@ -18,7 +18,6 @@ export default function Error({
   return (
     <div style={{
       minHeight: '100vh', background: colors.bgPage,
-      fontFamily: font.system,
       display: 'flex', alignItems: 'center', justifyContent: 'center',
     }}>
       <div style={{

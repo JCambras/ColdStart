@@ -18,10 +18,12 @@ export function getVerdictBg(verdict: string) {
   return colors.bgSubtle;
 }
 
-export function getBarColor(value: number) {
-  if (value >= 3.5) return colors.success;
-  if (value >= 2.5) return colors.amber;
-  return colors.error;
+export function getBarColor(value: number, count?: number) {
+  if (count !== undefined && count < 3) return colors.iceNodata;
+  if (value >= 4.5) return colors.iceExcellent;
+  if (value >= 3.5) return colors.iceGood;
+  if (value >= 2.5) return colors.iceFair;
+  return colors.icePoor;
 }
 
 export function timeAgo(dateStr: string): string {

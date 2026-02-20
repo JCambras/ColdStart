@@ -1,5 +1,5 @@
 import { describe, it, expect } from 'vitest';
-import { colors, text, radius, layout, shadow, transition, font, nav } from '../theme';
+import { colors, text, radius, layout, shadow, transition, nav } from '../theme';
 
 describe('theme tokens', () => {
   it('all color values are valid hex colors', () => {
@@ -43,10 +43,6 @@ describe('theme tokens', () => {
       expect(typeof value).toBe('string');
       expect(value).toContain('ease');
     }
-  });
-
-  it('font.system is a valid font stack', () => {
-    expect(font.system).toContain('sans-serif');
   });
 
   it('nav tokens are non-empty strings', () => {

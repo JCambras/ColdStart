@@ -43,19 +43,34 @@ describe('getVerdictBg', () => {
 
 // ── getBarColor ──
 describe('getBarColor', () => {
-  it('returns green for high values', () => {
-    expect(getBarColor(4.0)).toBe('#16a34a');
-    expect(getBarColor(3.5)).toBe('#16a34a');
+  it('returns iceExcellent for values >= 4.5', () => {
+    expect(getBarColor(5.0)).toBe('#16A34A');
+    expect(getBarColor(4.5)).toBe('#16A34A');
   });
 
-  it('returns amber for medium values', () => {
-    expect(getBarColor(3.0)).toBe('#f59e0b');
-    expect(getBarColor(2.5)).toBe('#f59e0b');
+  it('returns iceGood for values >= 3.5', () => {
+    expect(getBarColor(4.0)).toBe('#22C55E');
+    expect(getBarColor(3.5)).toBe('#22C55E');
   });
 
-  it('returns red for low values', () => {
-    expect(getBarColor(2.0)).toBe('#ef4444');
-    expect(getBarColor(1.0)).toBe('#ef4444');
+  it('returns iceFair for values >= 2.5', () => {
+    expect(getBarColor(3.0)).toBe('#F59E0B');
+    expect(getBarColor(2.5)).toBe('#F59E0B');
+  });
+
+  it('returns icePoor for low values', () => {
+    expect(getBarColor(2.0)).toBe('#EF4444');
+    expect(getBarColor(1.0)).toBe('#EF4444');
+  });
+
+  it('returns iceNodata when count < 3', () => {
+    expect(getBarColor(4.0, 2)).toBe('#94A3B8');
+    expect(getBarColor(4.0, 0)).toBe('#94A3B8');
+  });
+
+  it('uses value thresholds when count >= 3', () => {
+    expect(getBarColor(4.5, 5)).toBe('#16A34A');
+    expect(getBarColor(3.5, 3)).toBe('#22C55E');
   });
 });
 

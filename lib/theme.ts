@@ -10,7 +10,7 @@ export const colors = {
   textDisabled: '#d1d5db',
   // Backgrounds
   white: '#ffffff',
-  bgPage: '#fafbfc',
+  bgPage: '#FAFAF8',
   bgSubtle: '#f9fafb',
   bgInfo: '#f0f9ff',
   bgSuccess: '#f0fdf4',
@@ -28,14 +28,25 @@ export const colors = {
   brandDark: '#0369a1',
   brandDeep: '#0c4a6e',
   brandAccent: '#3b82f6',
+  // Hockey Navy
+  navy900: '#0C2340',
+  navy700: '#163A5C',
+  navy50: '#EEF2F7',
   // Status
   success: '#16a34a',
   successBorder: '#bbf7d0',
   warning: '#d97706',
   warningBorder: '#fde68a',
   error: '#ef4444',
+  // Ice signal status
+  iceExcellent: '#16A34A',
+  iceGood: '#22C55E',
+  iceFair: '#F59E0B',
+  icePoor: '#EF4444',
+  iceNodata: '#94A3B8',
   // Accent colors
-  amber: '#f59e0b',
+  amber: '#F59E0B',
+  amber400: '#FBBF24',
   amberDark: '#92400e',
   amberBorder: '#fed7aa',
   orangeDeep: '#ea580c',
@@ -45,6 +56,19 @@ export const colors = {
   indigoBg: '#eff6ff',
   indigoBorder: '#bfdbfe',
   indigo: '#1e40af',
+  // Stone palette
+  stone50: '#fafaf9',
+  stone200: '#e7e5e3',
+  stone300: '#d6d3d1',
+  stone400: '#a8a29e',
+  stone500: '#78716c',
+  stone700: '#44403c',
+  stone800: '#292524',
+  stone950: '#0c0a09',
+  // Hero
+  heroBg: '#0f1923',
+  heroMid: '#1a2d3d',
+  heroLight: '#1e3344',
 } as const;
 
 export const text = {
@@ -73,6 +97,7 @@ export const layout = {
   maxWidthDefault: 680,
   maxWidthWide: 720,
   maxWidthFull: 1100,
+  maxWidth5xl: 1024,
   navPadding: '14px 24px',
 } as const;
 
@@ -80,6 +105,7 @@ export const shadow = {
   sm: '0 1px 3px rgba(0,0,0,0.04)',
   md: '0 2px 8px rgba(0,0,0,0.04)',
   lg: '0 4px 12px rgba(0,0,0,0.06)',
+  xl: '0 20px 25px -5px rgba(0,0,0,0.1), 0 8px 10px -6px rgba(0,0,0,0.1)',
   focus: '0 0 0 3px rgba(14,165,233,0.1)',
 } as const;
 
@@ -88,11 +114,7 @@ export const transition = {
   normal: 'all 0.2s ease',
 } as const;
 
-export const font = {
-  system: "-apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif",
-} as const;
-
 export const nav = {
-  bg: 'rgba(250,251,252,0.85)',
+  bg: 'rgba(250,250,248,0.85)',
   blur: 'blur(12px)',
 } as const;

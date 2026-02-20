@@ -2,42 +2,36 @@
 
 import { useState, useEffect, useRef } from 'react';
 import { useRouter } from 'next/navigation';
-import { PageShell } from '../components/PageShell';
 import { apiGet } from '../lib/api';
 import { storage } from '../lib/storage';
 import { LoadingSkeleton } from '../components/LoadingSkeleton';
-import { colors, text } from '../lib/theme';
+import { colors, text, layout } from '../lib/theme';
 import { useAuth } from '../contexts/AuthContext';
 import { RinkCard, RinkData } from '../components/RinkCard';
-import { StateDropdown } from '../components/StateDropdown';
-import { ProfileDropdown } from '../components/ProfileDropdown';
 import { HeroSearch } from '../components/home/HeroSearch';
 import { HowItWorks } from '../components/home/HowItWorks';
 import { RinkRequestForm } from '../components/home/RinkRequestForm';
+import { FeaturedRinksGrid } from '../components/home/FeaturedRinksGrid';
+import { TeamManagerCTA } from '../components/home/TeamManagerCTA';
 
 
 const FEATURED_SEARCHES = [
   'Ice Line',
   'IceWorks',
-  'hackensack',
+  'Oaks Center Ice',
 ];
 
 // ── Main page ──
 export default function HomePage() {
   const router = useRouter();
   const { currentUser, isLoggedIn, openAuth } = useAuth();
-  const [searchFocused, setSearchFocused] = useState(false);
   const [query, setQuery] = useState('');
   const [rinks, setRinks] = useState<RinkData[]>([]);
-  const [recentRinks, setRecentRinks] = useState<RinkData[]>([]);
   const [searchResults, setSearchResults] = useState<RinkData[] | null>(null);
   const [totalRinks, setTotalRinks] = useState(0);
   const searchRef = useRef<HTMLInputElement>(null);
   const [savedRinkIds, setSavedRinkIds] = useState<string[]>([]);
   const [savedRinks, setSavedRinks] = useState<RinkData[]>([]);
-
-  // Profile dropdown
-  const [showProfileDropdown, setShowProfileDropdown] = useState(false);
 
   // Load saved rinks
   useEffect(() => {
@@ -67,7 +61,7 @@ export default function HomePage() {
 
   const [stateCount, setStateCount] = useState(0);
 
-  // Load featured rinks + recent rinks on mount
+  // Load featured rinks on mount
   useEffect(() => {
     async function loadFeatured() {
       const results: RinkData[] = [];
@@ -99,10 +93,6 @@ export default function HomePage() {
         const res = await fetch(`${process.env.NEXT_PUBLIC_API_URL || '/api/v1'}/rinks?limit=6`);
         if (res.ok) {
           const json = await res.json();
-          const rinkList = json.data ?? json;
-          if (Array.isArray(rinkList) && rinkList.length > 0) {
-            setRecentRinks(rinkList);
-          }
           if (json.total) setTotalRinks(json.total);
           if (json.states) setStateCount(json.states);
           return;
@@ -117,9 +107,6 @@ export default function HomePage() {
           return rinks.slice(0, 6);
         },
       });
-      if (seedData.data && seedData.data.length > 0) {
-        setRecentRinks(seedData.data);
-      }
     }
 
     loadFeatured();
@@ -148,264 +135,162 @@ export default function HomePage() {
     return () => clearTimeout(timeout);
   }, [query]);
 
-  const displayRinks = searchResults !== null ? searchResults : rinks;
-  const showCarousel = searchResults === null && rinks.length > 0;
-
   function handleClearSearch() {
     setQuery('');
     setSearchResults(null);
     searchRef.current?.focus();
   }
 
-  const signInMyRinks = (
-    <div style={{ display: 'flex', flexDirection: 'column', alignItems: 'center', gap: 4 }}>
-      <button
-        onClick={() => {
-          const el = document.getElementById('my-rinks-section');
-          if (el) el.scrollIntoView({ behavior: 'smooth' });
-        }}
-        style={{
-          fontSize: text.md, fontWeight: 600, color: colors.brand,
-          background: colors.bgInfo, border: `1px solid ${colors.brandLight}`,
-          borderRadius: 8, padding: '6px 14px', cursor: 'pointer',
-          display: 'flex', alignItems: 'center', gap: 5,
-        }}
-      >
-        ⭐ My Rinks
-      </button>
-      {isLoggedIn && currentUser ? (
-        <button
-          onClick={() => setShowProfileDropdown(true)}
-          aria-label="Profile menu"
-          style={{
-            width: 34, height: 34, borderRadius: '50%',
-            background: 'linear-gradient(135deg, #0ea5e9, #3b82f6)',
-            display: 'flex', alignItems: 'center', justifyContent: 'center',
-            color: colors.white, fontSize: text.sm, fontWeight: 700,
-            border: 'none', cursor: 'pointer', flexShrink: 0,
-          }}
-        >
-          {(currentUser.name || currentUser.email).slice(0, 2).toUpperCase()}
-        </button>
-      ) : (
-        <button
-          onClick={openAuth}
-          style={{
-            fontSize: text.xs, fontWeight: 500, color: colors.textMuted,
-            background: 'none', border: 'none',
-            padding: '2px 8px', cursor: 'pointer',
-            whiteSpace: 'nowrap',
-          }}
-        >
-          Sign in
-        </button>
-      )}
-    </div>
-  );
-
-  const navBelowContent = (
-    <div style={{
-      display: 'flex', flexDirection: 'column', alignItems: 'center', gap: 6,
-      padding: '0 24px 10px',
-      background: 'rgba(250,251,252,0.92)',
-      backdropFilter: 'blur(8px)',
-      borderBottom: `1px solid ${colors.borderLight}`,
-      position: 'relative', zIndex: 100,
-    }}>
-      {/* Sign in + My Rinks: visible only on mobile, hidden on desktop */}
-      <div className="mobile-only" style={{ display: 'flex', alignItems: 'center', gap: 8 }}>
-        {signInMyRinks}
-      </div>
-      <StateDropdown onSelect={(code) => router.push(`/states/${code}`)} />
-    </div>
-  );
-
   return (
-    <PageShell
-      logoSize={48}
-      logoStacked
-      navRight={<div className="desktop-only">{signInMyRinks}</div>}
-      navBelow={navBelowContent}
-    >
-      {/* ── Hero + Search ── */}
+    <div style={{ minHeight: '100vh' }}>
+      {/* Skip to content */}
+      <a
+        href="#main-content"
+        style={{
+          position: 'absolute', left: -9999, top: 'auto',
+          width: 1, height: 1, overflow: 'hidden',
+        }}
+        onFocus={(e) => { e.currentTarget.style.cssText = 'position:fixed;top:8px;left:8px;z-index:9999;padding:8px 16px;background:#fff;border-radius:8px;box-shadow:0 2px 8px rgba(0,0,0,0.15);font-size:14px;color:#111;'; }}
+        onBlur={(e) => { e.currentTarget.style.cssText = 'position:absolute;left:-9999px;top:auto;width:1px;height:1px;overflow:hidden;'; }}
+      >
+        Skip to content
+      </a>
+
+      {/* Dark hero with top bar + search */}
       <HeroSearch
         query={query}
         onQueryChange={setQuery}
-        searchFocused={searchFocused}
-        onSearchFocus={() => setSearchFocused(true)}
-        onSearchBlur={() => setSearchFocused(false)}
         searchRef={searchRef}
         totalRinks={totalRinks}
         stateCount={stateCount}
         onClearSearch={handleClearSearch}
+        onSearchSubmit={() => searchRef.current?.focus()}
       />
 
-      {/* ── Rink Cards — carousel or search results ── */}
-      <section style={{ maxWidth: 750, margin: '0 auto', padding: '24px 24px 32px' }}>
-        {showCarousel ? (
-          <>
-            <h2 style={{
-              fontSize: text.md, fontWeight: 600, color: colors.textMuted,
-              textTransform: 'uppercase', letterSpacing: 1.5, marginBottom: 16,
-            }}>
-              Featured rinks
-            </h2>
+      <main id="main-content">
+        {/* Search results or Featured grid */}
+        {searchResults !== null ? (
+          <section style={{ maxWidth: layout.maxWidth5xl, margin: '0 auto', padding: '32px 24px' }}>
+            {searchResults.length > 0 ? (
+              <>
+                <h2 style={{
+                  fontSize: 12, fontWeight: 500, color: colors.stone500,
+                  textTransform: 'uppercase', letterSpacing: 1.5, marginBottom: 16,
+                }}>
+                  Search results
+                </h2>
+                <div style={{ display: 'flex', flexDirection: 'column', gap: 16 }}>
+                  {searchResults.map((rink) => (
+                    <RinkCard
+                      key={rink.id}
+                      rink={rink}
+                      onClick={() => router.push(`/rinks/${rink.id}`)}
+                    />
+                  ))}
+                </div>
+              </>
+            ) : (
+              <div style={{ textAlign: 'center', padding: '48px 24px', maxWidth: 400, margin: '0 auto' }}>
+                <div style={{ fontSize: 36, marginBottom: 12 }}>🏒</div>
+                <p style={{ fontSize: 16, fontWeight: 600, color: colors.textPrimary, margin: 0 }}>
+                  No rinks found for &ldquo;{query}&rdquo;
+                </p>
+                <RinkRequestForm query={query} />
+              </div>
+            )}
+          </section>
+        ) : (
+          <FeaturedRinksGrid
+            rinks={rinks}
+            onRinkClick={(id) => router.push(`/rinks/${id}`)}
+          />
+        )}
 
-            {/* Horizontal scroll carousel */}
-            <div
-              className="featured-scroll"
-              style={{
-                display: 'flex',
-                gap: 16,
-                overflowX: 'auto',
-                scrollSnapType: 'x mandatory',
-                paddingBottom: 4,
-              }}
-            >
-              {rinks.map((rink) => (
+        {/* My Rinks (saved) */}
+        {savedRinks.length > 0 && (
+          <section id="my-rinks-section" aria-label="Saved rinks" style={{
+            maxWidth: layout.maxWidth5xl, margin: '0 auto', padding: '32px 24px 0',
+          }}>
+            <h3 style={{
+              fontSize: 12, fontWeight: 500, color: colors.stone500,
+              textTransform: 'uppercase', letterSpacing: 1.5, marginBottom: 16,
+              display: 'flex', alignItems: 'center', gap: 6,
+            }}>
+              My Rinks
+            </h3>
+            <div style={{ display: 'flex', flexDirection: 'column', gap: 10 }}>
+              {savedRinks.map((rink) => (
                 <div
                   key={rink.id}
-                  style={{
-                    flex: '0 0 auto',
-                    width: 'min(85vw, 680px)',
-                    scrollSnapAlign: 'start',
-                  }}
-                >
-                  <RinkCard
-                    rink={rink}
-                    onClick={() => router.push(`/rinks/${rink.id}`)}
-                  />
-                </div>
-              ))}
-            </div>
-          </>
-        ) : displayRinks.length > 0 ? (
-          <>
-            <h2 style={{
-              fontSize: text.md, fontWeight: 600, color: colors.textMuted,
-              textTransform: 'uppercase', letterSpacing: 1.5, marginBottom: 16,
-            }}>
-              Search results
-            </h2>
-            <div style={{ display: 'flex', flexDirection: 'column', gap: 16 }}>
-              {displayRinks.map((rink) => (
-                <RinkCard
-                  key={rink.id}
-                  rink={rink}
+                  role="button"
+                  tabIndex={0}
                   onClick={() => router.push(`/rinks/${rink.id}`)}
-                />
+                  onKeyDown={(e) => { if (e.key === 'Enter' || e.key === ' ') { e.preventDefault(); router.push(`/rinks/${rink.id}`); } }}
+                  style={{
+                    display: 'flex', alignItems: 'center', justifyContent: 'space-between',
+                    padding: '14px 20px', background: colors.white, border: `1px solid ${colors.stone200}`,
+                    borderRadius: 12, cursor: 'pointer', transition: 'border-color 0.15s',
+                  }}
+                  onMouseEnter={(e) => { e.currentTarget.style.borderColor = colors.brand; }}
+                  onMouseLeave={(e) => { e.currentTarget.style.borderColor = colors.stone200; }}
+                >
+                  <div>
+                    <div style={{ fontSize: text.lg, fontWeight: 600, color: colors.stone800 }}>{rink.name}</div>
+                    <div style={{ fontSize: text.sm, color: colors.stone400, marginTop: 2 }}>{rink.city}, {rink.state}</div>
+                  </div>
+                  <div style={{ display: 'flex', alignItems: 'center', gap: 10 }}>
+                    {rink.summary && (
+                      <span style={{
+                        fontSize: text.xs, fontWeight: 500, padding: '3px 10px', borderRadius: 10,
+                        background: rink.summary.verdict.includes('Good') ? colors.bgSuccess : colors.bgWarning,
+                        color: rink.summary.verdict.includes('Good') ? colors.success : colors.warning,
+                      }}>
+                        {rink.summary.verdict.split(' ').slice(0, 3).join(' ')}
+                      </span>
+                    )}
+                    <button
+                      onClick={(e) => {
+                        e.stopPropagation();
+                        const updated = savedRinkIds.filter(id => id !== rink.id);
+                        setSavedRinkIds(updated);
+                        setSavedRinks(savedRinks.filter(r => r.id !== rink.id));
+                        storage.setSavedRinks(updated);
+                      }}
+                      aria-label={`Remove ${rink.name} from saved rinks`}
+                      style={{
+                        fontSize: text.xs, color: colors.stone400, background: 'none', border: 'none',
+                        cursor: 'pointer', padding: '4px',
+                      }}
+                    >
+                      ✕
+                    </button>
+                  </div>
+                </div>
               ))}
             </div>
-          </>
-        ) : searchResults !== null ? (
-          <div style={{ textAlign: 'center', padding: '48px 24px', maxWidth: 400, margin: '0 auto' }}>
-            <div style={{ fontSize: 36, marginBottom: 12 }}>🏒</div>
-            <p style={{ fontSize: 16, fontWeight: 600, color: colors.textPrimary, margin: 0 }}>
-              No rinks found for &ldquo;{query}&rdquo;
-            </p>
-            <RinkRequestForm query={query} />
-          </div>
-        ) : (
-          /* Loading skeleton */
-          <LoadingSkeleton variant="card" />
+          </section>
         )}
-      </section>
 
-      {/* ── My Rinks (saved) ── */}
-      {savedRinks.length > 0 && (
-        <section id="my-rinks-section" aria-label="Saved rinks" style={{ maxWidth: 800, margin: '0 auto', padding: '32px 24px 0' }}>
-          <h3 style={{
-            fontSize: text.md, fontWeight: 600, color: colors.textMuted,
-            textTransform: 'uppercase', letterSpacing: 1.5, marginBottom: 16,
-            display: 'flex', alignItems: 'center', gap: 6,
-          }}>
-            ⭐ My Rinks
-          </h3>
-          <div style={{ display: 'flex', flexDirection: 'column', gap: 10 }}>
-            {savedRinks.map((rink) => (
-              <div
-                key={rink.id}
-                role="button"
-                tabIndex={0}
-                onClick={() => router.push(`/rinks/${rink.id}`)}
-                onKeyDown={(e) => { if (e.key === 'Enter' || e.key === ' ') { e.preventDefault(); router.push(`/rinks/${rink.id}`); } }}
-                style={{
-                  display: 'flex', alignItems: 'center', justifyContent: 'space-between',
-                  padding: '14px 20px', background: colors.white, border: `1px solid ${colors.borderDefault}`,
-                  borderRadius: 12, cursor: 'pointer', transition: 'border-color 0.15s',
-                }}
-                onMouseEnter={(e) => { e.currentTarget.style.borderColor = colors.brand; }}
-                onMouseLeave={(e) => { e.currentTarget.style.borderColor = colors.borderDefault; }}
-              >
-                <div>
-                  <div style={{ fontSize: text.lg, fontWeight: 600, color: colors.textPrimary }}>{rink.name}</div>
-                  <div style={{ fontSize: text.sm, color: colors.textTertiary, marginTop: 2 }}>{rink.city}, {rink.state}</div>
-                </div>
-                <div style={{ display: 'flex', alignItems: 'center', gap: 10 }}>
-                  {rink.summary && (
-                    <span style={{
-                      fontSize: text.xs, fontWeight: 500, padding: '3px 10px', borderRadius: 10,
-                      background: rink.summary.verdict.includes('Good') ? colors.bgSuccess : colors.bgWarning,
-                      color: rink.summary.verdict.includes('Good') ? colors.success : colors.warning,
-                    }}>
-                      {rink.summary.verdict.split(' ').slice(0, 3).join(' ')}
-                    </span>
-                  )}
-                  <button
-                    onClick={(e) => {
-                      e.stopPropagation();
-                      const updated = savedRinkIds.filter(id => id !== rink.id);
-                      setSavedRinkIds(updated);
-                      setSavedRinks(savedRinks.filter(r => r.id !== rink.id));
-                      storage.setSavedRinks(updated);
-                    }}
-                    aria-label={`Remove ${rink.name} from saved rinks`}
-                    style={{
-                      fontSize: text.xs, color: colors.textMuted, background: 'none', border: 'none',
-                      cursor: 'pointer', padding: '4px',
-                    }}
-                  >
-                    ✕
-                  </button>
-                </div>
-              </div>
-            ))}
-          </div>
-        </section>
-      )}
+        {/* How it works */}
+        <div style={{ paddingTop: 40 }}>
+          <HowItWorks />
+        </div>
 
-      {/* ── How it works ── */}
-      <HowItWorks />
+        {/* Team Manager CTA */}
+        <TeamManagerCTA />
+      </main>
 
-      {/* ── Tagline ── */}
-      <section style={{ textAlign: 'center', padding: '40px 24px 48px' }}>
-        <p style={{
-          fontSize: 'clamp(22px, 4vw, 32px)',
-          fontWeight: 700, color: colors.textPrimary,
-          letterSpacing: -0.5, lineHeight: 1.2,
-        }}>
-          Your next away game starts here.
-        </p>
-      </section>
-
-      {/* ── Footer ── */}
+      {/* Footer */}
       <footer style={{
-        maxWidth: 1100, margin: '0 auto', padding: '28px 24px',
-        borderTop: `1px solid ${colors.borderLight}`,
+        maxWidth: layout.maxWidth5xl, margin: '0 auto', padding: '28px 24px',
+        borderTop: `1px solid ${colors.stone200}`,
         display: 'flex', justifyContent: 'space-between', alignItems: 'center',
       }}>
-        <span style={{ fontSize: text.sm, color: colors.textMuted }}>
-          Built by hockey parents, for hockey parents.
+        <span style={{ fontSize: 12, color: colors.stone400 }}>
+          ColdStart — built by hockey parents, for hockey parents.
         </span>
-        <span style={{ fontSize: text.xs, color: colors.textDisabled }}>v0.3</span>
+        <span style={{ fontSize: 12, color: colors.stone300 }}>v0.3</span>
       </footer>
-
-      {/* ── Profile Dropdown ── */}
-      {showProfileDropdown && currentUser && (
-        <ProfileDropdown
-          onClose={() => setShowProfileDropdown(false)}
-        />
-      )}
-    </PageShell>
+    </div>
   );
 }

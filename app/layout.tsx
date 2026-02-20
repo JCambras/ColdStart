@@ -1,7 +1,10 @@
 import type { Metadata, Viewport } from 'next';
+import { Inter } from 'next/font/google';
 import './globals.css';
 import BottomTabBar from './BottomTabBar';
 import { ClientProviders } from '../components/ClientProviders';
+
+const inter = Inter({ subsets: ['latin'], display: 'swap' });
 
 export const metadata: Metadata = {
   title: { default: 'ColdStart Hockey — Scout the rink', template: '%s | ColdStart Hockey' },
@@ -35,7 +38,7 @@ export default function RootLayout({
 }) {
   return (
     <html lang="en">
-      <body>
+      <body style={{ fontFamily: inter.style.fontFamily }}>
         <ClientProviders>
           {children}
           <BottomTabBar />

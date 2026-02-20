@@ -2,7 +2,7 @@
 
 import { Logo } from './Logo';
 import { BackButton } from './BackButton';
-import { colors, font, nav as navTokens } from '../lib/theme';
+import { colors, nav as navTokens } from '../lib/theme';
 
 interface PageShellProps {
   children: React.ReactNode;
@@ -33,7 +33,7 @@ export function PageShell({
   navBelow,
 }: PageShellProps) {
   return (
-    <div style={{ minHeight: '100vh', background: colors.bgPage, fontFamily: font.system }}>
+    <div style={{ minHeight: '100vh', background: colors.bgPage }}>
       <a href="#main-content" style={{
         position: 'absolute', left: '-9999px', top: 'auto',
         width: '1px', height: '1px', overflow: 'hidden',
@@ -43,16 +43,16 @@ export function PageShell({
       <nav aria-label="Main navigation" style={{
         display: 'flex',
         alignItems: 'center',
-        justifyContent: logoStacked ? 'center' : (navRight ? 'space-between' : undefined),
+        justifyContent: navRight ? 'space-between' : undefined,
         gap: 12,
-        padding: logoStacked ? '12px 24px 6px' : '14px 24px',
+        padding: '14px 24px',
         background: navTokens.bg,
         backdropFilter: navTokens.blur,
         WebkitBackdropFilter: navTokens.blur,
         position: 'sticky',
         top: 0,
         zIndex: 50,
-        borderBottom: logoStacked ? 'none' : `1px solid ${colors.borderLight}`,
+        borderBottom: `1px solid ${colors.borderLight}`,
       }}>
         <div style={{ display: 'flex', alignItems: 'center', gap: 12 }}>
           {back && (

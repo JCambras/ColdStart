@@ -1,6 +1,6 @@
 'use client';
 
-import { colors, text, radius, font } from '../lib/theme';
+import { colors, text, radius } from '../lib/theme';
 
 export default function GlobalError({
   error,
@@ -13,7 +13,7 @@ export default function GlobalError({
     <html>
       <body style={{
         minHeight: '100vh', background: colors.bgPage,
-        fontFamily: font.system,
+        fontFamily: "Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif",
         display: 'flex', alignItems: 'center', justifyContent: 'center',
         margin: 0,
       }}>
