@@ -60,7 +60,7 @@ The page loads. Here's what she sees, top to bottom, in the viewport:
 
 **1. Rink hero photo** — Ice Line has a photo at `/rink-photos/ice-line.jpeg`, rendered in a 220px-tall container with `objectFit: 'contain'`, `borderRadius: 16`, and a small "Photo from a hockey parent" badge in the bottom-right corner (10px, white on dark overlay). The photo gives her visual confirmation: this is a real rink, not a ghost listing.
 
-**2. Rink name** — `<h1>` with `fontSize: clamp(22px, 5vw, 36px)`, `fontWeight: 700`, `color: #111827` (`colors.textPrimary`). On a 375px-wide iPhone: that clamp resolves to about 18.75px (5% of 375), but the minimum kicks in at 22px. Readable, but tight. The `letterSpacing: -0.5` helps.
+**2. Rink name** — `<h1>` with `fontSize: clamp(22px, 5vw, 36px)`, `fontWeight: 700`, `color: #111827` (`colors.textPrimary`). On a 375px-wide iPhone, `5vw` would be 18.75px, but the clamp floor of 22px kicks in — so the name renders at 22px. Readable, but tight. The `letterSpacing: -0.5` helps.
 
 **3. Save button** — Top-right, next to the name. A small pill: "☆ Save rink" in 12px fontWeight 600. Background `#f9fafb` (`colors.bgSubtle`), border `#e5e7eb`. It's there, but Sarah doesn't care about saving right now.
 
@@ -72,7 +72,7 @@ This is the single most important element on the page at 5:32 AM. Sarah needs to
 
 **5. Home teams** — Below the address, a 12px line: "Home of the Philadelphia Junior Flyers, Team Philadelphia, and West Chester Wolverines" — each team name is a link (`colors.brand`, `#0ea5e9`). This is context, not utility. Sarah might recognize a team name. She might not. It's not in her way.
 
-**6. Parent count** — "From 9 hockey parents" (the count is computed as `5 + (rink.name.length % 6)` — for "Ice Line" that's `5 + (8 % 6) = 5 + 2 = 7`... wait, let me count: "Ice Line" is 8 characters, `8 % 6 = 2`, `5 + 2 = 7`). Seven hockey parents. 12px, `colors.textTertiary`. Small but present.
+**6. Parent count** — "From 7 hockey parents" (the count is computed as `5 + (rink.name.length % 6)` — "Ice Line" is 8 characters, `8 % 6 = 2`, `5 + 2 = 7`). 12px, `colors.textTertiary`. Small but present.
 
 **7. VerdictCard — THE KEY FIX** — A full-width card with rounded corners (`borderRadius: 16`), `padding: 20px 24px`, `marginTop: 20px`. The background and text color are computed from `summary.verdict`:
 
@@ -130,8 +130,10 @@ She taps the Share button ("Share with team"). On iOS, this fires `navigator.sha
 ```
 Ice Line (Parking: 4.2/5)
 "Use the side entrance for Rink C"
-Rink info from hockey parents: https://coldstart.app/rinks/[id]
+Rink info from hockey parents: https://coldstart.example.com/rinks/abc123
 ```
+
+(The URL is `window.location.href` — whatever the deployed domain is.)
 
 The share sheet opens. Sarah taps Jen's name in iMessage. Sent. The message includes the rink name, the parking score, the top tip, and the URL. When Jen taps the link, she gets a rich preview because the layout.tsx now includes OpenGraph meta — the rink photo, the title ("Ice Line — West Chester, PA | ColdStart Hockey"), and the description ("Scout Ice Line before you go. Parking, cold, food, and tips from hockey parents who were just there.").
 
@@ -249,7 +251,9 @@ The `maps.apple.com` URL with the `?address=` parameter opens Apple Maps directl
 
 ## Fix C: Recently Viewed on Homepage
 
-**What was wrong:** The rink detail page was already writing view metadata to localStorage on every visit:
+**What was wrong:** The rink detail page was writing a bare timestamp to localStorage on every visit — `localStorage.setItem(`coldstart_viewed_${rinkId}`, new Date().toISOString())` — but only used it to trigger the post-visit rating prompt. There was no rink name, city, or state stored alongside the timestamp, and the homepage never read these entries. A parent who visited three rinks last week would open the app and see the same generic featured rinks grid — no memory of their history.
+
+**How it was fixed:** Two changes, both new. First, the rink detail page now writes richer metadata to a new `coldstart_viewed_meta_` key on every visit:
 ```tsx
 localStorage.setItem(`coldstart_viewed_meta_${rinkId}`, JSON.stringify({
   name: detail.rink.name,
@@ -259,9 +263,7 @@ localStorage.setItem(`coldstart_viewed_meta_${rinkId}`, JSON.stringify({
 }));
 ```
 
-But the homepage never read these entries. The data sat in localStorage, invisible. A parent who visited three rinks last week would open the app and see the same generic featured rinks grid — no memory of their history.
-
-**How it was fixed:** Added a `useEffect` to the homepage that scans all `coldstart_viewed_meta_` keys from localStorage, parses them, sorts by `viewedAt` descending, and shows the most recent 5 as a "Recently Viewed" section. Each entry shows the rink name, city/state, and a `timeAgo()` label ("2d ago", "6d ago"). Each entry is tappable — `role="button"`, `tabIndex={0}`, `onClick={() => router.push('/rinks/${rink.id}')}`.
+Second, a `useEffect` on the homepage scans all `coldstart_viewed_meta_` keys from localStorage, parses them, sorts by `viewedAt` descending, and shows the most recent 5 as a "Recently Viewed" section. Each entry shows the rink name, city/state, and a `timeAgo()` label ("2d ago", "6d ago"). Each entry is tappable — `role="button"`, `tabIndex={0}`, `onClick={() => router.push('/rinks/${rink.id}')}`.
 
 The section only appears when: (a) there are recently viewed rinks, and (b) there are no saved rinks. This avoids doubling up — if a parent has explicitly saved rinks, the "My Rinks" section takes priority and Recently Viewed hides.
 
