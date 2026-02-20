@@ -40,10 +40,13 @@ export function VerdictCard({ rink, summary, loadedSignals }: VerdictCardProps) 
       }}
     >
       <div>
+        <p style={{ fontSize: 11, fontWeight: 600, color: colors.textTertiary, margin: 0, letterSpacing: 0.3, textTransform: 'uppercase' }}>
+          Parents report:
+        </p>
         <p style={{
           fontSize: 18, fontWeight: 700,
           color: getVerdictColor(summary.verdict),
-          margin: 0, lineHeight: 1.3,
+          margin: '2px 0 0', lineHeight: 1.3,
         }}>
           {summary.verdict}
         </p>
@@ -53,7 +56,7 @@ export function VerdictCard({ rink, summary, loadedSignals }: VerdictCardProps) 
               const allSigs = ensureAllSignals(summary.signals, getRinkSlug(rink), loadedSignals);
               const aboveAvg = allSigs.filter(s => s.value >= 3.0).length;
               const total = allSigs.length;
-              return `${aboveAvg} of ${total} signals above average · `;
+              return `${aboveAvg} of ${total} parent ratings above average · `;
             })()}
             From {summary.contribution_count} hockey parent{summary.contribution_count !== 1 ? 's' : ''} this season
             {summary.last_updated_at && ` · Updated ${timeAgo(summary.last_updated_at)}`}
@@ -70,6 +73,9 @@ export function VerdictCard({ rink, summary, loadedSignals }: VerdictCardProps) 
           </p>
         )}
       </div>
+      <p style={{ fontSize: 10, color: colors.textMuted, margin: '12px 0 0', lineHeight: 1.4 }}>
+        Ratings and tips reflect personal experiences of visiting hockey parents, not the views of ColdStart.
+      </p>
     </section>
   );
 }

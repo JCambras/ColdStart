@@ -12,6 +12,16 @@ export interface NearbyPlace {
 
 // Rink manager notes per signal
 export const FACILITY_DETAILS: Record<string, Record<string, { text: string; name: string }>> = {
+  'ice-line': {
+    parking: { text: 'We added 30 overflow spots on the west side in 2025. Use the Dutton Mill entrance for Rinks C & D.', name: 'Mike T.' },
+    locker_rooms: { text: 'Rink A & B locker rooms were renovated in Fall 2024. C & D renovation is scheduled for Summer 2026.', name: 'Mike T.' },
+  },
+  'iceworks-skating-complex-aston-township': {
+    cold: { text: 'We keep spectator areas at 55°F per USA Hockey guidelines. Heated viewing rooms are available in the main lobby.', name: 'Sarah K.' },
+  },
+  'oaks-center-ice-oaks': {
+    chaos: { text: 'We stagger game starts by 15 minutes across both sheets to reduce lobby congestion. Tournament weekends are tighter.', name: 'Jim R.' },
+  },
 };
 
 // Demo signal values for hardcoded rinks — ensures all 6 signals show

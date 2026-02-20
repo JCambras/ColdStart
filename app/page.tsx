@@ -362,12 +362,20 @@ export default function HomePage() {
       <footer style={{
         maxWidth: layout.maxWidth5xl, margin: '0 auto', padding: '28px 24px',
         borderTop: `1px solid ${colors.stone200}`,
-        display: 'flex', justifyContent: 'space-between', alignItems: 'center',
+        display: 'flex', flexDirection: 'column', gap: 6,
       }}>
-        <span style={{ fontSize: 12, color: colors.stone400 }}>
-          ColdStart — built by hockey parents, for hockey parents.
+        <div style={{ display: 'flex', justifyContent: 'space-between', alignItems: 'center' }}>
+          <span style={{ fontSize: 12, color: colors.stone400 }}>
+            ColdStart — built by hockey parents, for hockey parents.
+          </span>
+          <span style={{ fontSize: 12, color: colors.stone500 }}>v0.3</span>
+        </div>
+        <span style={{ fontSize: 11, color: colors.stone400 }}>
+          Rink operator? Contact us at{' '}
+          <a href="mailto:rinks@coldstarthockey.com" style={{ color: colors.stone400, textDecoration: 'underline' }}>
+            rinks@coldstarthockey.com
+          </a>
         </span>
-        <span style={{ fontSize: 12, color: colors.stone500 }}>v0.3</span>
       </footer>
     </div>
   );

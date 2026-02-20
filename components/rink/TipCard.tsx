@@ -16,6 +16,8 @@ export function TipCard({ tip, tipIndex, rinkSlug }: { tip: Tip; tipIndex: numbe
 
   const [userVote, setUserVote] = useState<'up' | 'down' | null>(null);
   const [score, setScore] = useState(0);
+  const [flagged, setFlagged] = useState(false);
+  const [showFlagConfirm, setShowFlagConfirm] = useState(false);
 
   useEffect(() => {
     const saved = storage.getTipVote(rinkSlug, tipIndex);
@@ -26,7 +28,23 @@ export function TipCard({ tip, tipIndex, rinkSlug }: { tip: Tip; tipIndex: numbe
       const seeded = (tipIndex === 0 ? 12 : tipIndex === 1 ? 8 : tipIndex === 2 ? 5 : Math.floor(Math.random() * 6) + 1);
       setScore(seeded);
     }
+    // Check if tip was previously flagged
+    try {
+      const flagKey = `coldstart_tip_flag_${rinkSlug}_${tipIndex}`;
+      if (localStorage.getItem(flagKey)) setFlagged(true);
+    } catch {}
   }, [rinkSlug, tipIndex]);
+
+  function handleFlag(e: React.MouseEvent) {
+    e.stopPropagation();
+    if (flagged) return;
+    try {
+      localStorage.setItem(`coldstart_tip_flag_${rinkSlug}_${tipIndex}`, new Date().toISOString());
+    } catch {}
+    setFlagged(true);
+    setShowFlagConfirm(true);
+    setTimeout(() => setShowFlagConfirm(false), 3000);
+  }
 
   function handleVote(direction: 'up' | 'down', e: React.MouseEvent) {
     e.stopPropagation();
@@ -164,6 +182,27 @@ export function TipCard({ tip, tipIndex, rinkSlug }: { tip: Tip; tipIndex: numbe
                   </p>
                 </div>
               )}
+              {/* Flag / report button */}
+              <div style={{ marginTop: 8, display: 'flex', alignItems: 'center', gap: 8 }}>
+                <button
+                  onClick={handleFlag}
+                  aria-label={flagged ? 'Tip flagged' : 'Flag this tip'}
+                  style={{
+                    fontSize: text['2xs'], color: flagged ? colors.textMuted : colors.textTertiary,
+                    background: 'none', border: 'none', cursor: flagged ? 'default' : 'pointer',
+                    padding: '4px 8px', display: 'flex', alignItems: 'center', gap: 4,
+                    borderRadius: 6, transition: 'color 0.15s',
+                  }}
+                >
+                  <span style={{ fontSize: 12 }}>{flagged ? '🚩' : '⚑'}</span>
+                  {flagged ? 'Flagged' : 'Flag'}
+                </button>
+                {showFlagConfirm && (
+                  <span style={{ fontSize: text['2xs'], color: colors.success, fontWeight: 500 }}>
+                    Flagged for review — thank you.
+                  </span>
+                )}
+              </div>
             </div>
           )}
         </div>

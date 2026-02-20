@@ -869,10 +869,18 @@ export default function RinkPage() {
       <footer style={{
         maxWidth: 680, margin: '0 auto', padding: '28px 24px',
         borderTop: `1px solid ${colors.borderLight}`,
-        display: 'flex', justifyContent: 'space-between', alignItems: 'center',
+        display: 'flex', flexDirection: 'column', gap: 6,
       }}>
-        <span style={{ fontSize: 12, color: colors.textMuted }}>Built by hockey parents, for hockey parents.</span>
-        <span style={{ fontSize: 11, color: colors.textMuted }}>v0.3</span>
+        <div style={{ display: 'flex', justifyContent: 'space-between', alignItems: 'center' }}>
+          <span style={{ fontSize: 12, color: colors.textMuted }}>Built by hockey parents, for hockey parents.</span>
+          <span style={{ fontSize: 11, color: colors.textMuted }}>v0.3</span>
+        </div>
+        <span style={{ fontSize: 11, color: colors.textMuted }}>
+          Rink operator? Contact us at{' '}
+          <a href="mailto:rinks@coldstarthockey.com" style={{ color: colors.textMuted, textDecoration: 'underline' }}>
+            rinks@coldstarthockey.com
+          </a>
+        </span>
       </footer>
     </PageShell>
   );
