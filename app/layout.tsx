@@ -16,12 +16,22 @@ export const metadata: Metadata = {
       'Real conditions from hockey parents who have been there. Parking, cold, food, chaos — summarized in seconds.',
     siteName: 'ColdStart Hockey',
     type: 'website',
+    locale: 'en_US',
+    images: [
+      {
+        url: '/rink-photos/hero-rink.webp',
+        width: 1200,
+        height: 630,
+        alt: 'ColdStart Hockey — Scout the rink before you go',
+      },
+    ],
   },
   twitter: {
     card: 'summary_large_image',
     title: 'ColdStart Hockey — Scout the rink',
     description:
       'Real conditions from hockey parents who have been there. Parking, cold, food, chaos — summarized in seconds.',
+    images: ['/rink-photos/hero-rink.webp'],
   },
 };
 
