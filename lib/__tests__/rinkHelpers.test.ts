@@ -3,6 +3,8 @@ import {
   getVerdictColor,
   getVerdictBg,
   getBarColor,
+  getBarBg,
+  getBarBorder,
   timeAgo,
   getRinkSlug,
   ensureAllSignals,
@@ -71,6 +73,62 @@ describe('getBarColor', () => {
   it('uses value thresholds when count >= 3', () => {
     expect(getBarColor(4.5, 5)).toBe('#16A34A');
     expect(getBarColor(3.5, 3)).toBe('#22C55E');
+  });
+});
+
+// ── getBarBg ──
+describe('getBarBg', () => {
+  it('returns bgSuccess for values >= 3.5', () => {
+    expect(getBarBg(4.5)).toBe('#f0fdf4');
+    expect(getBarBg(3.5)).toBe('#f0fdf4');
+  });
+
+  it('returns bgWarning for values >= 2.5', () => {
+    expect(getBarBg(3.0)).toBe('#fffbeb');
+    expect(getBarBg(2.5)).toBe('#fffbeb');
+  });
+
+  it('returns bgError for low values', () => {
+    expect(getBarBg(2.0)).toBe('#fef2f2');
+    expect(getBarBg(1.0)).toBe('#fef2f2');
+  });
+
+  it('returns bgSubtle when count < 3', () => {
+    expect(getBarBg(4.0, 2)).toBe('#f9fafb');
+    expect(getBarBg(4.0, 0)).toBe('#f9fafb');
+  });
+
+  it('uses value thresholds when count >= 3', () => {
+    expect(getBarBg(4.0, 5)).toBe('#f0fdf4');
+    expect(getBarBg(2.5, 3)).toBe('#fffbeb');
+  });
+});
+
+// ── getBarBorder ──
+describe('getBarBorder', () => {
+  it('returns successBorder for values >= 3.5', () => {
+    expect(getBarBorder(4.5)).toBe('#bbf7d0');
+    expect(getBarBorder(3.5)).toBe('#bbf7d0');
+  });
+
+  it('returns warningBorder for values >= 2.5', () => {
+    expect(getBarBorder(3.0)).toBe('#fde68a');
+    expect(getBarBorder(2.5)).toBe('#fde68a');
+  });
+
+  it('returns error border for low values', () => {
+    expect(getBarBorder(2.0)).toBe('#fecaca');
+    expect(getBarBorder(1.0)).toBe('#fecaca');
+  });
+
+  it('returns borderDefault when count < 3', () => {
+    expect(getBarBorder(4.0, 2)).toBe('#e5e7eb');
+    expect(getBarBorder(4.0, 0)).toBe('#e5e7eb');
+  });
+
+  it('uses value thresholds when count >= 3', () => {
+    expect(getBarBorder(4.0, 5)).toBe('#bbf7d0');
+    expect(getBarBorder(2.5, 3)).toBe('#fde68a');
   });
 });
 
