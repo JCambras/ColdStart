@@ -17,14 +17,14 @@ export const FACILITY_DETAILS: Record<string, Record<string, { text: string; nam
 // Demo signal values for hardcoded rinks — ensures all 6 signals show
 export const SEEDED_SIGNALS: Record<string, Record<string, { value: number; count: number; confidence: number }>> = {
   'bww': {
-    family_friendly: { value: 4.8, count: 32, confidence: 0.85 },
-    locker_rooms: { value: 3.2, count: 18, confidence: 0.6 },
-    pro_shop: { value: 3.9, count: 14, confidence: 0.5 },
+    family_friendly: { value: 4.8, count: 5, confidence: 0.85 },
+    locker_rooms: { value: 3.2, count: 5, confidence: 0.6 },
+    pro_shop: { value: 3.9, count: 4, confidence: 0.5 },
   },
   'proskate': {
-    family_friendly: { value: 3.8, count: 15, confidence: 0.55 },
-    locker_rooms: { value: 2.4, count: 10, confidence: 0.4 },
-    pro_shop: { value: 1.8, count: 8, confidence: 0.35 },
+    family_friendly: { value: 3.8, count: 5, confidence: 0.55 },
+    locker_rooms: { value: 2.4, count: 4, confidence: 0.4 },
+    pro_shop: { value: 1.8, count: 3, confidence: 0.35 },
   },
 };
 
