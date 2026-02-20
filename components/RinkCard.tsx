@@ -106,8 +106,8 @@ export function RinkCard({ rink, onClick }: { rink: RinkData; onClick: () => voi
                       <div style={{ flex: 1, height: 5, background: colors.borderLight, borderRadius: 3, overflow: 'hidden' }}>
                         <div style={{ width: `${pct}%`, height: '100%', borderRadius: 3, background: color, transition: 'width 0.6s ease' }} />
                       </div>
-                      <span style={{ width: 24, textAlign: 'right' as const, fontWeight: 600, fontSize: text.xs, color: colors.textSecondary }}>
-                        {s.value.toFixed(1)}
+                      <span style={{ width: 32, textAlign: 'right' as const, fontWeight: 600, fontSize: text.xs, color: colors.textSecondary }}>
+                        {s.value.toFixed(1)}<span style={{ fontWeight: 400, color: colors.textMuted }}>/5</span>
                       </span>
                     </div>
                   );

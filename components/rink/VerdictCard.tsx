@@ -36,6 +36,7 @@ export function VerdictCard({ rink, summary, loadedSignals }: VerdictCardProps) 
       style={{
         background: getVerdictBg(summary.verdict),
         border: `1px solid ${getVerdictColor(summary.verdict)}22`,
+        borderLeft: `3px solid ${getVerdictColor(summary.verdict)}`,
         borderRadius: 16, padding: '20px 24px', marginTop: 20,
       }}
     >
@@ -74,7 +75,7 @@ export function VerdictCard({ rink, summary, loadedSignals }: VerdictCardProps) 
         )}
       </div>
       <p style={{ fontSize: 10, color: colors.textMuted, margin: '12px 0 0', lineHeight: 1.4 }}>
-        Ratings and tips reflect personal experiences of visiting hockey parents, not the views of ColdStart.
+        Ratings and tips reflect personal experiences of visiting hockey parents, not the views of ColdStart. coldstarthockey.com
       </p>
     </section>
   );
