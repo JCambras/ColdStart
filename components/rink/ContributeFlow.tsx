@@ -177,6 +177,7 @@ export function RateAndContribute({ rinkId, rinkName, onSummaryUpdate }: { rinkI
   const verifyNum = useRef(Math.floor(Math.random() * 5) + 2);
   const [pendingFlow, setPendingFlow] = useState<'rate' | 'tip'>('rate');
   const [hasRated, setHasRated] = useState(false);
+  const [ratedCount, setRatedCount] = useState(0);
 
   useEffect(() => {
     const rated = storage.getRatedRinks();
@@ -263,13 +264,13 @@ export function RateAndContribute({ rinkId, rinkName, onSummaryUpdate }: { rinkI
           <VisitorToggle />
         </div>
         <div style={{ padding: '18px 24px' }}>
-          <QuickVoteRow rinkId={rinkId} onSummaryUpdate={onSummaryUpdate} />
+          <QuickVoteRow rinkId={rinkId} onSummaryUpdate={onSummaryUpdate} onRatedCountChange={setRatedCount} />
         </div>
         <div style={{ padding: '12px 24px 16px', borderTop: `1px solid ${colors.borderLight}`, display: 'flex', gap: 10 }}>
-          <button onClick={() => { markRated(); setPhase('done_rate'); }} style={{ flex: 1, padding: '13px 20px', fontSize: 14, fontWeight: 600, background: colors.textPrimary, color: colors.white, border: 'none', borderRadius: 12, cursor: 'pointer', transition: 'all 0.2s' }}
-            onMouseEnter={(e) => { e.currentTarget.style.background = '#1f2937'; }}
-            onMouseLeave={(e) => { e.currentTarget.style.background = colors.textPrimary; }}>
-            Done
+          <button onClick={() => { if (ratedCount > 0) markRated(); setPhase(ratedCount > 0 ? 'done_rate' : 'button'); }} style={{ flex: 1, padding: '13px 20px', fontSize: 14, fontWeight: 600, background: ratedCount > 0 ? colors.textPrimary : colors.borderDefault, color: ratedCount > 0 ? colors.white : colors.textMuted, border: 'none', borderRadius: 12, cursor: 'pointer', transition: 'all 0.2s' }}
+            onMouseEnter={(e) => { if (ratedCount > 0) e.currentTarget.style.background = '#1f2937'; }}
+            onMouseLeave={(e) => { if (ratedCount > 0) e.currentTarget.style.background = colors.textPrimary; }}>
+            {ratedCount > 0 ? 'Done' : 'Cancel'}
           </button>
           <button onClick={() => setPhase('tip')} style={{ padding: '13px 20px', fontSize: 14, fontWeight: 600, color: colors.brand, background: colors.white, border: `1px solid ${colors.borderDefault}`, borderRadius: 12, cursor: 'pointer', transition: 'all 0.15s' }}
             onMouseEnter={(e) => { e.currentTarget.style.borderColor = colors.brand; }}

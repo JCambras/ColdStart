@@ -11,7 +11,7 @@ export function SignalBar({ signal, rinkSlug }: { signal: Signal; rinkSlug: stri
   const meta = SIGNAL_META[signal.signal] || { label: signal.signal, icon: '', lowLabel: '1', highLabel: '5', info: '' };
   const noData = signal.count === 0;
   const pct = noData ? 0 : Math.round(((signal.value - 1) / 4) * 100);
-  const color = noData ? colors.textMuted : getBarColor(signal.value);
+  const color = noData ? colors.textMuted : getBarColor(signal.value, signal.count);
   const [expanded, setExpanded] = useState(false);
   const facilityDetail = FACILITY_DETAILS[rinkSlug]?.[signal.signal];
 

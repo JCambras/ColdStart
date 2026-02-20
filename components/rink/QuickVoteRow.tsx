@@ -10,6 +10,7 @@ import { colors } from '../../lib/theme';
 interface QuickVoteRowProps {
   rinkId: string;
   onSummaryUpdate: (s: RinkSummary) => void;
+  onRatedCountChange?: (count: number) => void;
 }
 
 const signals: { key: SignalType; icon: string; label: string }[] = [
@@ -22,7 +23,7 @@ const signals: { key: SignalType; icon: string; label: string }[] = [
   { key: 'pro_shop', icon: '🏒', label: 'Pro shop' },
 ];
 
-export function QuickVoteRow({ rinkId, onSummaryUpdate }: QuickVoteRowProps) {
+export function QuickVoteRow({ rinkId, onSummaryUpdate, onRatedCountChange }: QuickVoteRowProps) {
   const [ratings, setRatings] = useState<Record<string, number>>({});
   const [submitting, setSubmitting] = useState<string | null>(null);
   const [submitted, setSubmitted] = useState<Set<string>>(new Set());
@@ -39,7 +40,11 @@ export function QuickVoteRow({ rinkId, onSummaryUpdate }: QuickVoteRowProps) {
       signal_rating: { signal, value },
     });
     if (data?.summary) onSummaryUpdate(data.summary);
-    setSubmitted(prev => new Set(prev).add(signal));
+    setSubmitted(prev => {
+      const next = new Set(prev).add(signal);
+      onRatedCountChange?.(next.size);
+      return next;
+    });
     setSubmitting(null);
   }
 

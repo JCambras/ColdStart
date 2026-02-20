@@ -26,6 +26,15 @@ export function getBarColor(value: number, count?: number) {
   return colors.icePoor;
 }
 
+/** Darker text colors for use on light badge backgrounds (WCAG AA compliant). */
+export function getBadgeTextColor(value: number, count?: number) {
+  if (count !== undefined && count < 3) return '#64748b';  // slate-500
+  if (value >= 4.5) return '#15803d';  // green-700
+  if (value >= 3.5) return '#15803d';  // green-700
+  if (value >= 2.5) return '#b45309';  // amber-700
+  return '#dc2626';                    // red-600
+}
+
 export function getBarBg(value: number, count?: number) {
   if (count !== undefined && count < 3) return colors.bgSubtle;
   if (value >= 3.5) return colors.bgSuccess;

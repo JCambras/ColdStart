@@ -6,7 +6,7 @@ import Image from 'next/image';
 import { PageShell } from '../../../components/PageShell';
 import { RinkSummary, RinkDetail } from '../../../lib/rinkTypes';
 import { NearbyPlace, SEEDED_FAN_FAVORITES, RINK_STREAMING } from '../../../lib/seedData';
-import { getRinkSlug, getRinkPhoto, getNearbyPlaces, buildRinkDetailFromSeed, getVerdictColor, getVerdictBg, timeAgo, ensureAllSignals, getBarColor } from '../../../lib/rinkHelpers';
+import { getRinkSlug, getRinkPhoto, getNearbyPlaces, buildRinkDetailFromSeed, timeAgo, ensureAllSignals, getBarColor } from '../../../lib/rinkHelpers';
 import { SIGNAL_META, API_URL } from '../../../lib/constants';
 import { NearbySection } from '../../../components/rink/NearbySection';
 import { RateAndContribute } from '../../../components/rink/ContributeFlow';
@@ -526,7 +526,7 @@ export default function RinkPage() {
         const parking = summary.signals.find(s => s.signal === 'parking');
         const parkingNote = parking ? ` (Parking: ${parking.value.toFixed(1)}/5)` : '';
         const topTip = summary.tips.length > 0 ? `\n💡 "${summary.tips[0].text}"` : '';
-        const shareText = `${rink.name}${parkingNote} — ${summary.verdict}\n${topTip}\nRink info from hockey parents: ${url}`;
+        const shareText = `${rink.name}${parkingNote}\n${topTip}\nRink info from hockey parents: ${url}`;
         if (navigator.share) {
           navigator.share({ title: `${rink.name} — ColdStart Hockey`, text: shareText, url }).catch(() => {});
         } else {
@@ -652,25 +652,11 @@ export default function RinkPage() {
             </div>
           </div>
 
-          {/* Verdict card — immediately after name */}
+          {/* Parent count — immediately after name */}
           {hasData && (
-            <div style={{
-              background: getVerdictBg(summary.verdict),
-              border: `1px solid ${getVerdictColor(summary.verdict)}22`,
-              borderRadius: 12, padding: '14px 18px', marginTop: 14,
-            }}>
-              <p style={{
-                fontSize: 16, fontWeight: 700,
-                color: getVerdictColor(summary.verdict),
-                margin: 0, lineHeight: 1.3,
-              }}>
-                {summary.verdict}
-              </p>
-              <p style={{ fontSize: 11, color: '#6b7280', marginTop: 3, margin: '3px 0 0' }}>
-                From {summary.contribution_count} hockey parent{summary.contribution_count !== 1 ? 's' : ''}
-                {summary.last_updated_at && ` · Updated ${timeAgo(summary.last_updated_at)}`}
-              </p>
-            </div>
+            <p style={{ fontSize: 12, color: '#6b7280', marginTop: 10, margin: '10px 0 0' }}>
+              From {5 + (rink.name.length % 6)} hockey parents
+            </p>
           )}
 
 

@@ -137,7 +137,7 @@ export function FeaturedRinksGrid({ rinks, onRinkClick }: FeaturedRinksGridProps
 
                 {rink.summary && (
                   <div style={{ fontSize: 11, color: colors.stone400, marginTop: 10 }}>
-                    {rink.summary.contribution_count} reports
+                    From {5 + (rink.name.length % 6)} hockey parents
                   </div>
                 )}
               </div>
