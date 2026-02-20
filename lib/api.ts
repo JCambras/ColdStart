@@ -53,7 +53,7 @@ export async function apiPost<T>(
       body: JSON.stringify(body),
     });
     const json = await res.json();
-    if (!res.ok) throw new Error(json.error?.message || 'Request failed');
+    if (!res.ok) throw new Error(typeof json.error === 'string' ? json.error : json.error?.message || 'Request failed');
     return { data: (json.data ?? json) as T, error: null };
   } catch (e) {
     return { data: null, error: e instanceof Error ? e.message : 'Request failed' };

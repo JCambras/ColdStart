@@ -35,7 +35,7 @@ function ReturnRatingPrompt({
 }) {
   const PROMPT_SIGNALS = [
     { key: 'parking', icon: '🅿️', question: 'How was parking?', low: 'Tough', high: 'Easy' },
-    { key: 'cold', icon: '❄️', question: 'How cold was it?', low: 'Warm', high: 'Freezing' },
+    { key: 'cold', icon: '❄️', question: 'How cold was it?', low: 'Freezing', high: 'Comfortable' },
     { key: 'food_nearby', icon: '🍔', question: 'Food options nearby?', low: 'None', high: 'Plenty' },
     { key: 'chaos', icon: '🌀', question: 'How chaotic was it?', low: 'Calm', high: 'Wild' },
     { key: 'family_friendly', icon: '👨‍👩‍👧', question: 'Family friendly?', low: 'Not great', high: 'Great' },
