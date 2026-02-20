@@ -17,7 +17,7 @@ import { TeamManagerCTA } from '../components/home/TeamManagerCTA';
 
 const FEATURED_SEARCHES = [
   'Ice Line',
-  'IceWorks',
+  'IceWorks Skating Complex',
   'Oaks Center Ice',
 ];
 
