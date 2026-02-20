@@ -7,7 +7,7 @@ import { Logo } from '../../../components/Logo';
 import { apiGet } from '../../../lib/api';
 import { storage } from '../../../lib/storage';
 import { useAuth } from '../../../contexts/AuthContext';
-import { getBarColor, getVerdictColor } from '../../../lib/rinkHelpers';
+import { getBarColor, getBarBg, getBarBorder, getVerdictColor } from '../../../lib/rinkHelpers';
 import { LoadingSkeleton } from '../../../components/LoadingSkeleton';
 import { colors, text, radius } from '../../../lib/theme';
 
@@ -213,7 +213,7 @@ export default function TripPage() {
                 const parking = summary.signals.find(s => s.signal === 'parking');
                 if (!parking) return null;
                 return (
-                  <div style={{ display: 'flex', alignItems: 'center', gap: 10, padding: '10px 12px', background: parking.value >= 3.5 ? colors.bgSuccess : parking.value >= 2.5 ? colors.bgWarning : colors.bgError, borderRadius: 10, border: `1px solid ${parking.value >= 3.5 ? colors.successBorder : parking.value >= 2.5 ? colors.warningBorder : '#fecaca'}` }}>
+                  <div style={{ display: 'flex', alignItems: 'center', gap: 10, padding: '10px 12px', background: getBarBg(parking.value, parking.count), borderRadius: 10, border: `1px solid ${getBarBorder(parking.value, parking.count)}` }}>
                     <span style={{ fontSize: 18 }}>🅿️</span>
                     <div>
                       <div style={{ fontSize: 14, fontWeight: 700, color: getBarColor(parking.value, parking.count) }}>
@@ -301,7 +301,7 @@ export default function TripPage() {
               {topSignals.map(sig => {
                 const meta = SIGNAL_META[sig.signal] || { label: sig.signal, icon: '' };
                 return (
-                  <div key={sig.signal} style={{ padding: '6px 10px', borderRadius: 8, background: sig.value >= 3.5 ? colors.bgSuccess : sig.value >= 2.5 ? colors.bgWarning : colors.bgError, border: `1px solid ${sig.value >= 3.5 ? colors.successBorder : sig.value >= 2.5 ? colors.warningBorder : '#fecaca'}`, fontSize: 12 }}>
+                  <div key={sig.signal} style={{ padding: '6px 10px', borderRadius: 8, background: getBarBg(sig.value, sig.count), border: `1px solid ${getBarBorder(sig.value, sig.count)}`, fontSize: 12 }}>
                     <span>{meta.icon}</span> <span style={{ fontWeight: 600, color: getBarColor(sig.value, sig.count) }}>{sig.value.toFixed(1)}</span> <span style={{ color: colors.textTertiary }}>{meta.label}</span>
                   </div>
                 );

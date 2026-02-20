@@ -26,6 +26,20 @@ export function getBarColor(value: number, count?: number) {
   return colors.icePoor;
 }
 
+export function getBarBg(value: number, count?: number) {
+  if (count !== undefined && count < 3) return colors.bgSubtle;
+  if (value >= 3.5) return colors.bgSuccess;
+  if (value >= 2.5) return colors.bgWarning;
+  return colors.bgError;
+}
+
+export function getBarBorder(value: number, count?: number) {
+  if (count !== undefined && count < 3) return colors.borderDefault;
+  if (value >= 3.5) return colors.successBorder;
+  if (value >= 2.5) return colors.warningBorder;
+  return '#fecaca';
+}
+
 export function timeAgo(dateStr: string): string {
   const now = new Date();
   const d = new Date(dateStr);
