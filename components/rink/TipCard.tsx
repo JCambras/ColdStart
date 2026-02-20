@@ -78,7 +78,7 @@ export function TipCard({ tip, tipIndex, rinkSlug }: { tip: Tip; tipIndex: numbe
             aria-label="Helpful"
             style={{
               background: 'none', border: 'none', cursor: 'pointer',
-              padding: '8px 10px',
+              padding: '8px 10px', minHeight: 44, minWidth: 44,
               fontSize: text.base, lineHeight: 1,
               color: userVote === 'up' ? colors.brand : colors.textDisabled,
               transition: 'color 0.15s',
@@ -93,7 +93,7 @@ export function TipCard({ tip, tipIndex, rinkSlug }: { tip: Tip; tipIndex: numbe
             aria-label="Not helpful"
             style={{
               background: 'none', border: 'none', cursor: 'pointer',
-              padding: '8px 10px',
+              padding: '8px 10px', minHeight: 44, minWidth: 44,
               fontSize: text.base, lineHeight: 1,
               color: userVote === 'down' ? colors.error : colors.textDisabled,
               transition: 'color 0.15s',

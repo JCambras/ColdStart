@@ -7,18 +7,18 @@ import { PageShell } from '../../../components/PageShell';
 import { RinkSummary, RinkDetail } from '../../../lib/rinkTypes';
 import { NearbyPlace, SEEDED_FAN_FAVORITES, RINK_STREAMING } from '../../../lib/seedData';
 import { getRinkSlug, getRinkPhoto, getNearbyPlaces, buildRinkDetailFromSeed, timeAgo, ensureAllSignals, getBarColor } from '../../../lib/rinkHelpers';
-import { SIGNAL_META, API_URL } from '../../../lib/constants';
+import { SIGNAL_META } from '../../../lib/constants';
 import { NearbySection } from '../../../components/rink/NearbySection';
 import { RateAndContribute } from '../../../components/rink/ContributeFlow';
 import { ClaimRinkCTA } from '../../../components/rink/ClaimRinkCTA';
 import { SaveRinkButton } from '../../../components/rink/SaveRinkButton';
 import { SignalsSection } from '../../../components/rink/SignalsSection';
 import { TipsSection } from '../../../components/rink/TipsSection';
-import { apiGet, seedGet } from '../../../lib/api';
+import { apiGet, apiPost, seedGet } from '../../../lib/api';
 import { storage } from '../../../lib/storage';
 import { LoadingSkeleton } from '../../../components/LoadingSkeleton';
 import { useAuth } from '../../../contexts/AuthContext';
-import { colors } from '../../../lib/theme';
+import { colors, text } from '../../../lib/theme';
 import type { Signal } from '../../../lib/rinkTypes';
 
 // ── Post-Visit Rating Prompt — single-signal-at-a-time ──
@@ -57,22 +57,13 @@ function ReturnRatingPrompt({
     setRated(prev => ({ ...prev, [signal]: value }));
     setSubmitting(true);
 
-    try {
-      const res = await fetch(`${API_URL}/contributions`, {
-        method: 'POST',
-        headers: { 'Content-Type': 'application/json' },
-        body: JSON.stringify({
-          rink_id: rinkId,
-          kind: 'signal_rating',
-          contributor_type: 'visiting_parent',
-          signal_rating: { signal, value },
-        }),
-      });
-      if (res.ok) {
-        const data = await res.json();
-        if (data.data?.summary) onSummaryUpdate(data.data.summary);
-      }
-    } catch {}
+    const { data } = await apiPost<{ summary?: RinkSummary }>('/contributions', {
+      rink_id: rinkId,
+      kind: 'signal_rating',
+      contributor_type: 'visiting_parent',
+      signal_rating: { signal, value },
+    });
+    if (data?.summary) onSummaryUpdate(data.summary);
 
     setSubmitting(false);
 
@@ -86,22 +77,13 @@ function ReturnRatingPrompt({
 
   async function submitTip() {
     if (!tipText.trim()) return;
-    try {
-      const res = await fetch(`${API_URL}/contributions`, {
-        method: 'POST',
-        headers: { 'Content-Type': 'application/json' },
-        body: JSON.stringify({
-          rink_id: rinkId,
-          kind: 'tip',
-          contributor_type: 'visiting_parent',
-          tip: { text: tipText.trim() },
-        }),
-      });
-      if (res.ok) {
-        const data = await res.json();
-        if (data.data?.summary) onSummaryUpdate(data.data.summary);
-      }
-    } catch {}
+    const { data } = await apiPost<{ summary?: RinkSummary }>('/contributions', {
+      rink_id: rinkId,
+      kind: 'tip',
+      contributor_type: 'visiting_parent',
+      tip: { text: tipText.trim() },
+    });
+    if (data?.summary) onSummaryUpdate(data.summary);
     setTipMode(false);
     setDone(true);
   }
@@ -152,14 +134,14 @@ function ReturnRatingPrompt({
   if (tipMode) {
     return (
       <section style={{
-        background: 'linear-gradient(135deg, #eff6ff 0%, #faf5ff 100%)',
-        border: '1px solid #c7d2fe',
+        background: `linear-gradient(135deg, ${colors.indigoBg} 0%, ${colors.purpleBg} 100%)`,
+        border: `1px solid ${colors.indigoBorder}`,
         borderRadius: 14, padding: '18px 20px', marginTop: 16,
       }}>
-        <p style={{ fontSize: 14, fontWeight: 600, color: '#4338ca', margin: 0 }}>
+        <p style={{ fontSize: 14, fontWeight: 600, color: colors.indigo, margin: 0 }}>
           Drop a quick tip about {rinkName}
         </p>
-        <p style={{ fontSize: 12, color: '#6b7280', marginTop: 3, margin: '3px 0 0' }}>
+        <p style={{ fontSize: 12, color: colors.textTertiary, marginTop: 3, margin: '3px 0 0' }}>
           Parking hack, entrance tip, food recommendation — anything that helps the next family.
         </p>
         <div style={{ display: 'flex', gap: 8, marginTop: 12 }}>
@@ -173,7 +155,7 @@ function ReturnRatingPrompt({
             autoFocus
             style={{
               flex: 1, fontSize: 14, padding: '10px 14px',
-              border: '1px solid #d1d5db', borderRadius: 10,
+              border: `1px solid ${colors.borderMedium}`, borderRadius: 10,
               outline: 'none', fontFamily: 'inherit',
             }}
           />
@@ -181,8 +163,8 @@ function ReturnRatingPrompt({
             onClick={submitTip}
             disabled={!tipText.trim()}
             style={{
-              fontSize: 13, fontWeight: 600, color: '#fff',
-              background: tipText.trim() ? '#4338ca' : '#c7d2fe',
+              fontSize: 13, fontWeight: 600, color: colors.white,
+              background: tipText.trim() ? colors.indigo : colors.indigoBorder,
               border: 'none', borderRadius: 10, padding: '10px 18px',
               cursor: tipText.trim() ? 'pointer' : 'default',
               whiteSpace: 'nowrap',
@@ -194,8 +176,8 @@ function ReturnRatingPrompt({
         <button
           onClick={() => { setTipMode(false); setDone(true); }}
           style={{
-            fontSize: 11, color: '#9ca3af', background: 'none', border: 'none',
-            cursor: 'pointer', marginTop: 8, padding: 0,
+            fontSize: 11, color: colors.textMuted, background: 'none', border: 'none',
+            cursor: 'pointer', marginTop: 8, padding: '6px 12px',
           }}
         >
           Skip →
@@ -206,17 +188,17 @@ function ReturnRatingPrompt({
 
   return (
     <section style={{
-      background: 'linear-gradient(135deg, #eff6ff 0%, #faf5ff 100%)',
-      border: '1px solid #c7d2fe',
+      background: `linear-gradient(135deg, ${colors.indigoBg} 0%, ${colors.purpleBg} 100%)`,
+      border: `1px solid ${colors.indigoBorder}`,
       borderRadius: 14, padding: '18px 20px', marginTop: 16,
     }}>
       {/* Header with progress and dismiss */}
       <div style={{ display: 'flex', alignItems: 'center', justifyContent: 'space-between', marginBottom: 12 }}>
         <div>
-          <p style={{ fontSize: 14, fontWeight: 700, color: '#4338ca', margin: 0 }}>
+          <p style={{ fontSize: 14, fontWeight: 700, color: colors.indigo, margin: 0 }}>
             {totalRated === 0 ? `Been to ${rinkName}?` : current.question}
           </p>
-          <p style={{ fontSize: 11, color: '#6b7280', marginTop: 2, margin: '2px 0 0' }}>
+          <p style={{ fontSize: 11, color: colors.textTertiary, marginTop: 2, margin: '2px 0 0' }}>
             {totalRated === 0
               ? 'Quick rate — tap a number, help the next family.'
               : `${totalRated} of ${PROMPT_SIGNALS.length} · tap to rate or skip`
@@ -228,17 +210,17 @@ function ReturnRatingPrompt({
             if (totalRated > 0) { setDone(true); }
             else { handleFinish(); }
           }}
-          style={{ fontSize: 14, color: '#c7d2fe', background: 'none', border: 'none', cursor: 'pointer', flexShrink: 0, padding: '4px' }}
+          style={{ fontSize: 14, color: colors.indigoBorder, background: 'none', border: 'none', cursor: 'pointer', flexShrink: 0, padding: '12px', minWidth: 44, minHeight: 44 }}
         >
           ✕
         </button>
       </div>
 
       {/* Progress bar */}
-      <div style={{ height: 3, background: '#e0e7ff', borderRadius: 2, marginBottom: 14, overflow: 'hidden' }}>
+      <div style={{ height: 3, background: colors.purpleBorder, borderRadius: 2, marginBottom: 14, overflow: 'hidden' }}>
         <div style={{
           height: '100%', borderRadius: 2,
-          background: '#4338ca',
+          background: colors.indigo,
           width: `${(currentIndex / PROMPT_SIGNALS.length) * 100}%`,
           transition: 'width 0.3s ease',
         }} />
@@ -248,10 +230,10 @@ function ReturnRatingPrompt({
       <div style={{ display: 'flex', alignItems: 'center', gap: 12, marginBottom: 12 }}>
         <span style={{ fontSize: 28 }}>{current.icon}</span>
         <div>
-          <div style={{ fontSize: 15, fontWeight: 700, color: '#111827' }}>
+          <div style={{ fontSize: 15, fontWeight: 700, color: colors.textPrimary }}>
             {current.question}
           </div>
-          <div style={{ fontSize: 11, color: '#9ca3af', marginTop: 2 }}>
+          <div style={{ fontSize: 11, color: colors.textMuted, marginTop: 2 }}>
             {current.low} ← 1 · · · 5 → {current.high}
           </div>
         </div>
@@ -296,8 +278,8 @@ function ReturnRatingPrompt({
             }
           }}
           style={{
-            fontSize: 12, color: '#9ca3af', background: 'none', border: 'none',
-            cursor: 'pointer', padding: 0,
+            fontSize: 12, color: colors.textMuted, background: 'none', border: 'none',
+            cursor: 'pointer', padding: '6px 12px',
           }}
         >
           Skip this →
@@ -306,8 +288,8 @@ function ReturnRatingPrompt({
           <button
             onClick={() => setTipMode(true)}
             style={{
-              fontSize: 12, color: '#4338ca', background: 'none', border: 'none',
-              cursor: 'pointer', padding: 0, fontWeight: 600,
+              fontSize: 12, color: colors.indigo, background: 'none', border: 'none',
+              cursor: 'pointer', padding: '6px 12px', fontWeight: 600,
             }}
           >
             + Add a tip instead
@@ -608,7 +590,7 @@ export default function RinkPage() {
 
         {/* Rink hero image */}
         {rinkPhoto && (
-          <div style={{ marginTop: 16, borderRadius: 16, overflow: 'hidden', height: 220, position: 'relative', background: '#f1f5f9' }}>
+          <div style={{ marginTop: 16, borderRadius: 16, overflow: 'hidden', height: 220, position: 'relative', background: colors.borderLight }}>
             <Image
               src={rinkPhoto}
               alt={rink.name}
@@ -634,16 +616,16 @@ export default function RinkPage() {
             <div style={{ flex: 1 }}>
               <h1 style={{
                 fontSize: 'clamp(22px, 5vw, 36px)',
-                fontWeight: 700, color: '#111827',
+                fontWeight: 700, color: colors.textPrimary,
                 lineHeight: 1.15, letterSpacing: -0.5, margin: 0,
               }}>
                 {rink.name}
               </h1>
-              <p style={{ fontSize: 13, color: '#6b7280', marginTop: 4, lineHeight: 1.4, margin: '4px 0 0' }}>
+              <p style={{ fontSize: 13, color: colors.textTertiary, marginTop: 4, lineHeight: 1.4, margin: '4px 0 0' }}>
                 {rink.address}, {rink.city}, {rink.state}
               </p>
               {getRinkSlug(rink) === 'ice-line' && (
-                <div style={{ fontSize: 12, color: '#6b7280', marginTop: 4 }}>
+                <div style={{ fontSize: 12, color: colors.textTertiary, marginTop: 4 }}>
                   🏠 Home of the{' '}
                   <a href="https://myhockeyrankings.com/association-info?a=212" target="_blank" rel="noopener noreferrer" style={{ color: colors.brand, textDecoration: 'none', fontWeight: 500 }}>Philadelphia Junior Flyers</a>
                   ,{' '}
@@ -660,7 +642,7 @@ export default function RinkPage() {
 
           {/* Parent count — immediately after name */}
           {hasData && (
-            <p style={{ fontSize: 12, color: '#6b7280', marginTop: 10, margin: '10px 0 0' }}>
+            <p style={{ fontSize: 12, color: colors.textTertiary, marginTop: 10, margin: '10px 0 0' }}>
               From {5 + (rink.name.length % 6)} hockey parents
             </p>
           )}
@@ -684,15 +666,15 @@ export default function RinkPage() {
                       style={{
                         display: 'inline-flex', alignItems: 'center', gap: 6,
                         padding: '5px 12px', borderRadius: 8,
-                        background: isLiveBarn ? '#fff7ed' : '#f0f9ff',
-                        border: `1px solid ${isLiveBarn ? '#fed7aa' : '#bae6fd'}`,
+                        background: isLiveBarn ? colors.bgOrangeLight : colors.bgInfo,
+                        border: `1px solid ${isLiveBarn ? colors.amberBorder : colors.brandLight}`,
                         fontSize: 12, fontWeight: 600,
-                        color: isLiveBarn ? '#c2410c' : '#0369a1',
+                        color: isLiveBarn ? colors.orangeDeep : colors.brandDark,
                         textDecoration: 'none', cursor: 'pointer',
                       }}
                     >
                       {isLiveBarn ? '📹 LiveBarn' : '🐻 BlackBear TV'}
-                      <span style={{ fontSize: 10, opacity: 0.7 }}>Watch live →</span>
+                      <span style={{ fontSize: text['2xs'], opacity: 0.7 }}>Watch live →</span>
                     </a>
                   );
                 })()}
@@ -706,15 +688,15 @@ export default function RinkPage() {
                     style={{
                       display: 'inline-flex', alignItems: 'center', gap: 6,
                       padding: '5px 12px', borderRadius: 8,
-                      background: '#f0fdf4',
-                      border: '1px solid #bbf7d0',
+                      background: colors.bgSuccess,
+                      border: `1px solid ${colors.successBorder}`,
                       fontSize: 12, fontWeight: 600,
-                      color: '#15803d',
+                      color: colors.success,
                       textDecoration: 'none', cursor: 'pointer',
                     }}
                   >
                     🏒 Pro Shop
-                    <span style={{ fontSize: 10, opacity: 0.7 }}>Visit site →</span>
+                    <span style={{ fontSize: text['2xs'], opacity: 0.7 }}>Visit site →</span>
                   </a>
                 )}
               </div>
@@ -725,8 +707,8 @@ export default function RinkPage() {
                   onClick={() => router.push(`/compare?rinks=${rinkId}`)}
                   style={{
                     fontSize: 12, fontWeight: 600,
-                    color: '#6b7280', background: '#f9fafb',
-                    border: '1px solid #e5e7eb',
+                    color: colors.textTertiary, background: colors.bgSubtle,
+                    border: `1px solid ${colors.borderDefault}`,
                     borderRadius: 8, padding: '6px 14px', cursor: 'pointer',
                     display: 'flex', alignItems: 'center', gap: 4,
                   }}
@@ -737,8 +719,8 @@ export default function RinkPage() {
                   onClick={() => router.push(`/trip/new?rink=${rinkId}`)}
                   style={{
                     fontSize: 12, fontWeight: 600,
-                    color: '#6b7280', background: '#f9fafb',
-                    border: '1px solid #e5e7eb',
+                    color: colors.textTertiary, background: colors.bgSubtle,
+                    border: `1px solid ${colors.borderDefault}`,
                     borderRadius: 8, padding: '6px 14px', cursor: 'pointer',
                     display: 'flex', alignItems: 'center', gap: 4,
                   }}
@@ -753,8 +735,8 @@ export default function RinkPage() {
               const teams = detail.home_teams;
               if (!teams || teams.length === 0) return null;
               return (
-                <div style={{ fontSize: 12, color: '#6b7280' }}>
-                  🏠 Home of <span style={{ fontWeight: 600, color: '#374151' }}>{teams.join(', ')}</span>
+                <div style={{ fontSize: 12, color: colors.textTertiary }}>
+                  🏠 Home of <span style={{ fontWeight: 600, color: colors.textSecondary }}>{teams.join(', ')}</span>
                 </div>
               );
             })()}
@@ -764,7 +746,7 @@ export default function RinkPage() {
                 const el = document.getElementById('claim-section');
                 if (el) el.scrollIntoView({ behavior: 'smooth' });
               }}
-              style={{ fontSize: 11, color: '#3b82f6', cursor: 'pointer', padding: '6px 0', display: 'flex', alignItems: 'center', background: 'none', border: 'none' }}
+              style={{ fontSize: 11, color: colors.brandAccent, cursor: 'pointer', padding: '6px 0', display: 'flex', alignItems: 'center', background: 'none', border: 'none' }}
             >
               Claim this rink →
             </button>
@@ -865,7 +847,7 @@ export default function RinkPage() {
         display: 'flex', justifyContent: 'space-between', alignItems: 'center',
       }}>
         <span style={{ fontSize: 12, color: colors.textMuted }}>Built by hockey parents, for hockey parents.</span>
-        <span style={{ fontSize: 11, color: colors.textDisabled }}>v0.3</span>
+        <span style={{ fontSize: 11, color: colors.textMuted }}>v0.3</span>
       </footer>
     </PageShell>
   );

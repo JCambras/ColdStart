@@ -259,7 +259,7 @@ export default function TripPage() {
             <div style={{ textAlign: 'center', marginTop: 24 }}>
               <p style={{ fontSize: 12, color: colors.textMuted }}>
                 📍 Want rink intel for your next away game?{' '}
-                <span onClick={() => router.push('/')} style={{ color: colors.brand, cursor: 'pointer', fontWeight: 600 }}>See how ColdStart Hockey works →</span>
+                <button onClick={() => router.push('/')} style={{ color: colors.brand, cursor: 'pointer', fontWeight: 600, background: 'none', border: 'none', padding: 0, font: 'inherit' }}>See how ColdStart Hockey works →</button>
               </p>
             </div>
           </>
@@ -442,13 +442,13 @@ export default function TripPage() {
                 <div key={i} style={{ padding: '10px 12px', background: colors.bgSubtle, borderRadius: 10, border: `1px solid ${colors.borderLight}` }}>
                   <div style={{ display: 'flex', alignItems: 'center', gap: 8 }}>
                     {/* Contributor avatar */}
-                    <div style={{ width: 24, height: 24, borderRadius: '50%', background: '#e0f2fe', display: 'flex', alignItems: 'center', justifyContent: 'center', fontSize: 10, fontWeight: 700, color: colors.brandDark, flexShrink: 0 }}>
+                    <div style={{ width: 24, height: 24, borderRadius: '50%', background: '#e0f2fe', display: 'flex', alignItems: 'center', justifyContent: 'center', fontSize: text['2xs'], fontWeight: 700, color: colors.brandDark, flexShrink: 0 }}>
                       {(a.addedBy || '?').split(' ').map((n: string) => n[0]).join('').toUpperCase().slice(0, 2)}
                     </div>
-                    <span style={{ fontSize: 10, fontWeight: 600, padding: '2px 6px', borderRadius: 4, background: a.type === 'restaurant' ? colors.bgSuccess : a.type === 'tip' ? colors.bgInfo : '#f5f3ff', color: a.type === 'restaurant' ? colors.success : a.type === 'tip' ? colors.brand : colors.purple }}>
+                    <span style={{ fontSize: text['2xs'], fontWeight: 600, padding: '2px 6px', borderRadius: 4, background: a.type === 'restaurant' ? colors.bgSuccess : a.type === 'tip' ? colors.bgInfo : '#f5f3ff', color: a.type === 'restaurant' ? colors.success : a.type === 'tip' ? colors.brand : colors.purple }}>
                       {a.type === 'restaurant' ? '🍴 Restaurant' : a.type === 'tip' ? '💡 Tip' : '📝 Note'}
                     </span>
-                    <span style={{ fontSize: 10, color: colors.textMuted }}>{a.addedBy}</span>
+                    <span style={{ fontSize: text['2xs'], color: colors.textMuted }}>{a.addedBy}</span>
                   </div>
                   <p style={{ fontSize: 13, color: colors.textPrimary, marginTop: 4, lineHeight: 1.4, margin: 0 }}>{a.text}</p>
                   {a.cost && <p style={{ fontSize: 12, color: colors.success, fontWeight: 600, marginTop: 2, margin: 0 }}>💲 {a.cost}</p>}
@@ -488,7 +488,7 @@ export default function TripPage() {
 
         {/* Footer */}
         <div style={{ marginTop: 32, textAlign: 'center' }}>
-          <p style={{ fontSize: 12, color: colors.textMuted }}>Built with <span onClick={() => router.push('/')} style={{ color: colors.brand, cursor: 'pointer', fontWeight: 600 }}>ColdStart Hockey</span> — rink intel from hockey parents</p>
+          <p style={{ fontSize: 12, color: colors.textMuted }}>Built with <button onClick={() => router.push('/')} style={{ color: colors.brand, cursor: 'pointer', fontWeight: 600, background: 'none', border: 'none', padding: 0, font: 'inherit' }}>ColdStart Hockey</button> — rink intel from hockey parents</p>
         </div>
       </div>
     </div>

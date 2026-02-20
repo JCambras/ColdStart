@@ -75,7 +75,7 @@ export function RinkCard({ rink, onClick }: { rink: RinkData; onClick: () => voi
       position: 'relative', overflow: 'hidden',
     }}>
       <div style={{ fontSize: 48, opacity: 0.4 }}>🏒</div>
-      <span style={{ fontSize: 10, color: '#93c5fd', marginTop: 4, fontWeight: 500 }}>Photo coming soon</span>
+      <span style={{ fontSize: 10, color: colors.textMuted, marginTop: 4, fontWeight: 500 }}>Photo coming soon</span>
     </div>
   ) : null;
 

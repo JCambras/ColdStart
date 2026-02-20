@@ -90,8 +90,9 @@ export function HeroSearch({
             aria-label="Menu"
             aria-expanded={menuOpen}
             style={{
-              background: 'none', border: 'none', cursor: 'pointer', padding: '4px 0',
+              background: 'none', border: 'none', cursor: 'pointer', padding: '12px',
               display: 'flex', flexDirection: 'column', gap: 4,
+              minWidth: 44, minHeight: 44, alignItems: 'center', justifyContent: 'center',
             }}
           >
             <span style={{ display: 'block', width: 20, height: 2, background: 'rgba(255,255,255,0.7)', borderRadius: 1 }} />

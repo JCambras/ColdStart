@@ -36,12 +36,17 @@ export function ClaimRinkCTA({ rinkId, rinkName }: { rinkId: string; rinkName: s
 
   if (!expanded) {
     return (
-      <div onClick={() => setExpanded(true)} style={{
-        background: colors.white, border: '1.5px dashed #93c5fd', borderRadius: 16, padding: '20px 24px',
-        cursor: 'pointer', transition: 'all 0.2s', display: 'flex', alignItems: 'center', gap: 16,
-      }}
-      onMouseEnter={(e) => { e.currentTarget.style.borderColor = colors.brandAccent; e.currentTarget.style.background = '#f8faff'; }}
-      onMouseLeave={(e) => { e.currentTarget.style.borderColor = '#93c5fd'; e.currentTarget.style.background = colors.white; }}
+      <div
+        role="button"
+        tabIndex={0}
+        onClick={() => setExpanded(true)}
+        onKeyDown={(e) => { if (e.key === 'Enter' || e.key === ' ') { e.preventDefault(); setExpanded(true); } }}
+        style={{
+          background: colors.white, border: `1.5px dashed ${colors.brandLight}`, borderRadius: 16, padding: '20px 24px',
+          cursor: 'pointer', transition: 'all 0.2s', display: 'flex', alignItems: 'center', gap: 16,
+        }}
+        onMouseEnter={(e) => { e.currentTarget.style.borderColor = colors.brandAccent; e.currentTarget.style.background = colors.bgInfo; }}
+        onMouseLeave={(e) => { e.currentTarget.style.borderColor = colors.brandLight; e.currentTarget.style.background = colors.white; }}
       >
         <div style={{ width: 44, height: 44, borderRadius: radius.xl, background: colors.indigoBg, display: 'flex', alignItems: 'center', justifyContent: 'center', fontSize: 20, flexShrink: 0 }}>🏟️</div>
         <div style={{ flex: 1 }}>

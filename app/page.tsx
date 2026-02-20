@@ -263,7 +263,8 @@ export default function HomePage() {
                       aria-label={`Remove ${rink.name} from saved rinks`}
                       style={{
                         fontSize: text.xs, color: colors.stone400, background: 'none', border: 'none',
-                        cursor: 'pointer', padding: '4px',
+                        cursor: 'pointer', padding: '12px', minWidth: 44, minHeight: 44,
+                        display: 'flex', alignItems: 'center', justifyContent: 'center',
                       }}
                     >
                       ✕
@@ -293,7 +294,7 @@ export default function HomePage() {
         <span style={{ fontSize: 12, color: colors.stone400 }}>
           ColdStart — built by hockey parents, for hockey parents.
         </span>
-        <span style={{ fontSize: 12, color: colors.stone300 }}>v0.3</span>
+        <span style={{ fontSize: 12, color: colors.stone500 }}>v0.3</span>
       </footer>
     </div>
   );

@@ -64,7 +64,6 @@ async function enrichWithSummaries(rinks: Record<string, unknown>[]) {
         signals: topSignals,
         tips: [],
         contribution_count: totalCount,
-        confirmed_this_season: true,
       } : undefined,
     };
   });
