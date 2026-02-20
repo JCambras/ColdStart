@@ -1,8 +1,8 @@
 'use client';
 
-import { createContext, useContext, useState, useEffect, useCallback } from 'react';
+import { createContext, useContext, useState, useCallback, useMemo } from 'react';
+import { useSession, signOut as authSignOut } from 'next-auth/react';
 import { UserProfile } from '../lib/rinkTypes';
-import { storage } from '../lib/storage';
 import { AuthModal } from '../components/auth/AuthModal';
 
 interface AuthContextValue {
@@ -18,25 +18,33 @@ interface AuthContextValue {
 const AuthContext = createContext<AuthContextValue | null>(null);
 
 export function AuthProvider({ children }: { children: React.ReactNode }) {
-  const [currentUser, setCurrentUser] = useState<UserProfile | null>(null);
+  const { data: session, status } = useSession();
   const [showAuthModal, setShowAuthModal] = useState(false);
 
-  useEffect(() => {
-    const u = storage.getCurrentUser();
-    if (u) setCurrentUser(u);
-  }, []);
+  const currentUser: UserProfile | null = useMemo(() => {
+    if (status !== 'authenticated' || !session?.user) return null;
+    const u = session.user;
+    return {
+      id: u.id,
+      email: u.email ?? '',
+      name: u.name ?? '',
+      image: u.image ?? undefined,
+      createdAt: '', // not exposed via session — not needed by consumers
+      rinksRated: u.rinksRated ?? 0,
+      tipsSubmitted: u.tipsSubmitted ?? 0,
+    };
+  }, [session, status]);
 
   const openAuth = useCallback(() => setShowAuthModal(true), []);
   const closeAuth = useCallback(() => setShowAuthModal(false), []);
 
-  const login = useCallback((profile: UserProfile) => {
-    setCurrentUser(profile);
+  // Called after successful credential sign-in (modal stays on page)
+  const login = useCallback(() => {
     setShowAuthModal(false);
   }, []);
 
   const logout = useCallback(() => {
-    storage.setCurrentUser(null);
-    setCurrentUser(null);
+    authSignOut({ redirect: false });
   }, []);
 
   return (
