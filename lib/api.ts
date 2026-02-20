@@ -7,10 +7,10 @@ export interface ApiResult<T> {
 
 export async function apiGet<T>(
   endpoint: string,
-  opts?: { seedPath?: string; transform?: (raw: unknown) => T }
+  opts?: { seedPath?: string; transform?: (raw: unknown) => T; signal?: AbortSignal }
 ): Promise<ApiResult<T>> {
   try {
-    const res = await fetch(`${API_URL}${endpoint}`);
+    const res = await fetch(`${API_URL}${endpoint}`, opts?.signal ? { signal: opts.signal } : undefined);
     if (!res.ok) throw new Error(`API error ${res.status}`);
     const json = await res.json();
     return { data: (json.data ?? json) as T, error: null };

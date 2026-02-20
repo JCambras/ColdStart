@@ -94,9 +94,10 @@ export async function GET(request: NextRequest) {
 
     // ILIKE search on name/city/state, prefix matches first
     // Also match with spaces removed (e.g. "Ice Works" matches "IceWorks")
-    const pattern = `%${query}%`;
-    const prefixPattern = `${query}%`;
-    const compactPattern = `%${query.replace(/\s+/g, '')}%`;
+    const escaped = query.replace(/[%_]/g, '\\$&');
+    const pattern = `%${escaped}%`;
+    const prefixPattern = `${escaped}%`;
+    const compactPattern = `%${escaped.replace(/\s+/g, '')}%`;
     const { rows } = await pool.query(
       `SELECT id, name, city, state, address, latitude, longitude, created_at,
         CASE

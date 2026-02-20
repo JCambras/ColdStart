@@ -124,6 +124,7 @@ export default function HomePage() {
       const q = query.toLowerCase();
       const { data } = await apiGet<RinkData[]>(`/rinks?query=${encodeURIComponent(query)}`, {
         seedPath: '/data/rinks.json',
+        signal: controller.signal,
         transform: (raw) => {
           const rinks = raw as RinkData[];
           return rinks.filter((r) =>

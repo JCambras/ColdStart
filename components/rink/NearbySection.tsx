@@ -228,7 +228,7 @@ function FanFavoritesCategory({ rinkSlug, expanded, onToggle }: { rinkSlug: stri
               <div style={{ display: 'flex', alignItems: 'center', gap: 8 }}>
                 <div style={{ fontSize: text.md, fontWeight: 500, color: colors.textPrimary }}>{fav.name}</div>
                 <span style={{
-                  fontSize: 9, fontWeight: 600, padding: '2px 6px', borderRadius: 4,
+                  fontSize: 10, fontWeight: 600, padding: '2px 6px', borderRadius: 4,
                   background: colors.brandBg, color: colors.brandDark, textTransform: 'uppercase', letterSpacing: 0.5,
                 }}>
                   {fav.category}
@@ -557,7 +557,7 @@ export function NearbySection({ title, icon, categories, rinkSlug, fanFavorites 
                           <div style={{ display: 'flex', alignItems: 'center', gap: 8 }}>
                             <div style={{ fontSize: text.md, fontWeight: 500, color: colors.textPrimary }}>{entry.name}</div>
                             <span style={{
-                              fontSize: 9, fontWeight: 600, padding: '2px 6px', borderRadius: 4,
+                              fontSize: 10, fontWeight: 600, padding: '2px 6px', borderRadius: 4,
                               background: colors.brandBg, color: colors.brandDark, textTransform: 'uppercase', letterSpacing: 0.5,
                             }}>
                               Community pick
@@ -604,7 +604,7 @@ export function NearbySection({ title, icon, categories, rinkSlug, fanFavorites 
                             <div style={{ fontSize: text.md, fontWeight: 500, color: colors.textPrimary }}>{entry.name}</div>
                             {entry.isPartner && (
                               <span style={{
-                                fontSize: 9, fontWeight: 600, padding: '2px 6px', borderRadius: 4,
+                                fontSize: 10, fontWeight: 600, padding: '2px 6px', borderRadius: 4,
                                 background: '#fef3c7', color: colors.amberDark, textTransform: 'uppercase', letterSpacing: 0.5,
                               }}>
                                 Rink pick
@@ -612,7 +612,7 @@ export function NearbySection({ title, icon, categories, rinkSlug, fanFavorites 
                             )}
                             {entry.isFar && !entry.isPartner && (
                               <span style={{
-                                fontSize: 9, fontWeight: 500, padding: '2px 6px', borderRadius: 4,
+                                fontSize: 10, fontWeight: 500, padding: '2px 6px', borderRadius: 4,
                                 background: colors.bgError, color: '#991b1b',
                               }}>
                                 drive

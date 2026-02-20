@@ -40,7 +40,7 @@ function ReturnRatingPrompt({
     { key: 'chaos', icon: '🌀', question: 'How chaotic was it?', low: 'Hectic', high: 'Calm' },
     { key: 'family_friendly', icon: '👨‍👩‍👧', question: 'Family friendly?', low: 'Not great', high: 'Great' },
     { key: 'locker_rooms', icon: '🚪', question: 'Locker rooms?', low: 'Tight', high: 'Spacious' },
-    { key: 'pro_shop', icon: '🏒', question: 'Pro shop?', low: 'None', high: 'Stocked' },
+    { key: 'pro_shop', icon: '🏒', question: 'Pro shop?', low: 'Sparse', high: 'Stocked' },
   ];
 
   const [currentIndex, setCurrentIndex] = useState(0);
