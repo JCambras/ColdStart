@@ -49,4 +49,16 @@ describe('theme tokens', () => {
     expect(nav.bg).toContain('rgba');
     expect(nav.blur).toContain('blur');
   });
+
+  it('has the expected total number of tokens', () => {
+    const total =
+      Object.keys(colors).length +
+      Object.keys(text).length +
+      Object.keys(radius).length +
+      Object.keys(layout).length +
+      Object.keys(shadow).length +
+      Object.keys(transition).length +
+      Object.keys(nav).length;
+    expect(total).toBe(87);
+  });
 });

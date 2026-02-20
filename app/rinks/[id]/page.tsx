@@ -516,6 +516,14 @@ export default function RinkPage() {
   const { rink, summary } = detail;
   const hasData = summary.contribution_count > 0;
 
+  // Slug-to-photo mapping for rinks with hero images
+  const rinkPhotoMap: Record<string, string> = {
+    'ice-line': '/rink-photos/ice-line.jpeg',
+    'iceworks-skating-complex-aston-township': '/rink-photos/iceworks-aston.jpeg',
+    'oaks-center-ice-oaks': '/rink-photos/oaks-center-ice.jpeg',
+  };
+  const rinkPhoto = rinkPhotoMap[getRinkSlug(rink)];
+
   const shareButton = (
     <button
       aria-label="Share rink with team"
@@ -599,10 +607,10 @@ export default function RinkPage() {
       <div style={{ maxWidth: 680, margin: '0 auto', padding: '0 24px' }}>
 
         {/* Rink hero image */}
-        {getRinkSlug(rink) === 'ice-line' && (
+        {rinkPhoto && (
           <div style={{ marginTop: 16, borderRadius: 16, overflow: 'hidden', height: 220, position: 'relative' }}>
             <Image
-              src="/rink-photos/ice-line.jpeg"
+              src={rinkPhoto}
               alt={rink.name}
               fill
               style={{ objectFit: 'cover', objectPosition: 'center' }}

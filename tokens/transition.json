@@ -1,0 +1,7 @@
+{
+  "transition": {
+    "$type": "other",
+    "fast": { "$value": "all 0.15s ease" },
+    "normal": { "$value": "all 0.2s ease" }
+  }
+}

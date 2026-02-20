@@ -1,0 +1,7 @@
+{
+  "nav": {
+    "$type": "other",
+    "bg": { "$value": "rgba(250,250,248,0.85)" },
+    "blur": { "$value": "blur(12px)" }
+  }
+}

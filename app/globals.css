@@ -1,13 +1,16 @@
 /* ── ColdStart global styles ── */
 
-/* Design tokens as CSS custom properties (source: lib/theme.ts) */
+/* Generated design tokens (all categories) */
+@import '../lib/tokens.generated.css';
+
+/* Backward-compat aliases for the 6 original CSS custom properties */
 :root {
-  --color-text-primary: #111827;
-  --color-text-muted: #9ca3af;
-  --color-bg-page: #FAFAF8;
-  --color-brand: #0ea5e9;
-  --color-border-light: #f1f5f9;
-  --color-border-medium: #d1d5db;
+  --color-text-primary: var(--colors-textPrimary);
+  --color-text-muted: var(--colors-textMuted);
+  --color-bg-page: var(--colors-bgPage);
+  --color-brand: var(--colors-brand);
+  --color-border-light: var(--colors-borderLight);
+  --color-border-medium: var(--colors-borderMedium);
 }
 
 *,

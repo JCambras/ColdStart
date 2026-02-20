@@ -1,0 +1,13 @@
+{
+  "text": {
+    "$type": "number",
+    "2xs": { "$value": 10 },
+    "xs": { "$value": 11 },
+    "sm": { "$value": 12 },
+    "md": { "$value": 13 },
+    "base": { "$value": 14 },
+    "lg": { "$value": 15 },
+    "xl": { "$value": 18 },
+    "2xl": { "$value": 24 }
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "layout": {
+    "maxWidthNarrow": { "$type": "number", "$value": 560 },
+    "maxWidthDefault": { "$type": "number", "$value": 680 },
+    "maxWidthWide": { "$type": "number", "$value": 720 },
+    "maxWidthFull": { "$type": "number", "$value": 1100 },
+    "maxWidth5xl": { "$type": "number", "$value": 1024 },
+    "navPadding": { "$type": "other", "$value": "14px 24px" }
+  }
+}

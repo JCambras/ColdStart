@@ -1,0 +1,11 @@
+{
+  "radius": {
+    "sm": { "$type": "number", "$value": 6 },
+    "md": { "$type": "number", "$value": 8 },
+    "lg": { "$type": "number", "$value": 10 },
+    "xl": { "$type": "number", "$value": 12 },
+    "2xl": { "$type": "number", "$value": 14 },
+    "3xl": { "$type": "number", "$value": 16 },
+    "full": { "$type": "other", "$value": "50%" }
+  }
+}
