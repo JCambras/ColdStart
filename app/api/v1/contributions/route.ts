@@ -1,8 +1,7 @@
 import { NextRequest, NextResponse } from 'next/server';
 import { pool } from '../../../../lib/db';
 import { buildSummary } from '../../../../lib/dbSummary';
-
-const VALID_SIGNALS = ['parking', 'cold', 'food_nearby', 'chaos', 'family_friendly', 'locker_rooms', 'pro_shop'];
+import { VENUE_CONFIG } from '../../../../lib/venueConfig';
 
 export async function POST(request: NextRequest) {
   try {
@@ -24,7 +23,7 @@ export async function POST(request: NextRequest) {
       if (!signal_rating?.signal || !signal_rating?.value) {
         return NextResponse.json({ error: 'signal_rating.signal and signal_rating.value are required' }, { status: 400 });
       }
-      if (!VALID_SIGNALS.includes(signal_rating.signal)) {
+      if (!VENUE_CONFIG.signals.includes(signal_rating.signal)) {
         return NextResponse.json({ error: `Invalid signal: ${signal_rating.signal}` }, { status: 400 });
       }
       const value = Number(signal_rating.value);

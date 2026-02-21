@@ -3,6 +3,7 @@
 import { Signal, Rink, RinkDetail } from './rinkTypes';
 import { SEEDED_SIGNALS, SEEDED_NEARBY, NearbyPlace } from './seedData';
 import { colors } from './theme';
+import { VENUE_CONFIG } from './venueConfig';
 
 export function getVerdictColor(verdict: string) {
   if (verdict.includes('Good')) return colors.success;
@@ -61,7 +62,7 @@ export function timeAgo(dateStr: string): string {
 }
 
 export function ensureAllSignals(signals: Signal[], rinkSlug: string, loadedSignals?: Record<string, { value: number; count: number; confidence: number }> | null): Signal[] {
-  const allKeys = ['parking', 'cold', 'food_nearby', 'chaos', 'family_friendly', 'locker_rooms', 'pro_shop'];
+  const allKeys: string[] = VENUE_CONFIG.signals;
   const existing = new Set(signals.map(s => s.signal));
   const seeded = SEEDED_SIGNALS[rinkSlug] || loadedSignals || {};
   const result = [...signals];

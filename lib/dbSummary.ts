@@ -1,7 +1,6 @@
 import { pool } from './db';
 import type { RinkSummary, Signal, Tip } from './rinkTypes';
-
-const VALID_SIGNALS = ['parking', 'cold', 'food_nearby', 'chaos', 'family_friendly', 'locker_rooms', 'pro_shop'];
+import { VENUE_CONFIG } from './venueConfig';
 
 export async function buildSummary(rinkId: string): Promise<RinkSummary> {
   const [signalResult, tipResult] = await Promise.all([
@@ -11,13 +10,13 @@ export async function buildSummary(rinkId: string): Promise<RinkSummary> {
       [rinkId]
     ),
     pool.query(
-      `SELECT text, contributor_type, context, created_at
-       FROM tips WHERE rink_id = $1 ORDER BY created_at DESC LIMIT 20`,
+      `SELECT id, text, contributor_type, context, created_at
+       FROM tips WHERE rink_id = $1 AND hidden = FALSE ORDER BY created_at DESC LIMIT 20`,
       [rinkId]
     ),
   ]);
 
-  const signals: Signal[] = VALID_SIGNALS.map((key) => {
+  const signals: Signal[] = VENUE_CONFIG.signals.map((key) => {
     const row = signalResult.rows.find((r: { signal: string }) => r.signal === key);
     if (row) {
       const avg = parseFloat(row.value);
@@ -32,7 +31,8 @@ export async function buildSummary(rinkId: string): Promise<RinkSummary> {
     return { signal: key, value: 0, count: 0, confidence: 0 };
   });
 
-  const tips: Tip[] = tipResult.rows.map((r: { text: string; contributor_type: string; context: string | null; created_at: Date }) => ({
+  const tips: Tip[] = tipResult.rows.map((r: { id: number; text: string; contributor_type: string; context: string | null; created_at: Date }) => ({
+    id: r.id,
     text: r.text,
     contributor_type: r.contributor_type,
     context: r.context ?? undefined,
@@ -66,13 +66,13 @@ export async function buildSummary(rinkId: string): Promise<RinkSummary> {
 
   let verdict = '';
   if (totalCount === 0) {
-    verdict = 'No ratings yet';
+    verdict = VENUE_CONFIG.verdicts.none;
   } else if (overallAvg >= 3.8) {
-    verdict = 'Good rink overall';
+    verdict = VENUE_CONFIG.verdicts.good;
   } else if (overallAvg >= 3.0) {
-    verdict = 'Mixed reviews';
+    verdict = VENUE_CONFIG.verdicts.mixed;
   } else {
-    verdict = 'Heads up — some issues reported';
+    verdict = VENUE_CONFIG.verdicts.bad;
   }
 
   // Consider "confirmed this season" if any data in last 6 months

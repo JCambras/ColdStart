@@ -8,6 +8,7 @@ export interface Signal {
 }
 
 export interface Tip {
+  id?: number;
   text: string;
   contributor_type: string;
   context?: string;

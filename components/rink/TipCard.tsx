@@ -42,15 +42,27 @@ export function TipCard({ tip, tipIndex, rinkSlug }: { tip: Tip; tipIndex: numbe
     } catch {}
   }, [rinkSlug, tipIndex]);
 
-  function handleFlag(e: React.MouseEvent) {
+  async function handleFlag(e: React.MouseEvent) {
     e.stopPropagation();
     if (flagged) return;
-    try {
-      localStorage.setItem(`coldstart_tip_flag_${rinkSlug}_${tipIndex}`, new Date().toISOString());
-    } catch {}
+
     setFlagged(true);
     setShowFlagConfirm(true);
     setTimeout(() => setShowFlagConfirm(false), 3000);
+
+    // Persist to server if tip has an ID
+    if (tip.id) {
+      try {
+        await fetch(`/api/v1/tips/${tip.id}/flag`, { method: 'POST' });
+      } catch {
+        // Flag is shown optimistically; server failure is non-blocking
+      }
+    }
+
+    // Keep localStorage as fallback for UI state across reloads
+    try {
+      localStorage.setItem(`coldstart_tip_flag_${rinkSlug}_${tipIndex}`, new Date().toISOString());
+    } catch {}
   }
 
   function handleVote(direction: 'up' | 'down', e: React.MouseEvent) {

@@ -47,6 +47,15 @@ async function run() {
         text TEXT NOT NULL,
         contributor_type TEXT NOT NULL DEFAULT 'visiting_parent',
         context TEXT,
+        hidden BOOLEAN NOT NULL DEFAULT FALSE,
+        created_at TIMESTAMPTZ NOT NULL DEFAULT NOW()
+      );
+
+      CREATE TABLE IF NOT EXISTS tip_flags (
+        id SERIAL PRIMARY KEY,
+        tip_id INTEGER NOT NULL REFERENCES tips(id),
+        reason TEXT,
+        reporter_id TEXT,
         created_at TIMESTAMPTZ NOT NULL DEFAULT NOW()
       );
 
@@ -66,6 +75,7 @@ async function run() {
       CREATE INDEX IF NOT EXISTS idx_signal_ratings_rink ON signal_ratings(rink_id);
       CREATE INDEX IF NOT EXISTS idx_signal_ratings_rink_signal ON signal_ratings(rink_id, signal);
       CREATE INDEX IF NOT EXISTS idx_tips_rink ON tips(rink_id);
+      CREATE INDEX IF NOT EXISTS idx_tip_flags_tip ON tip_flags(tip_id);
       CREATE INDEX IF NOT EXISTS idx_home_teams_rink ON home_teams(rink_id);
     `);
 
