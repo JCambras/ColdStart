@@ -1,8 +1,9 @@
 import { pool } from './db';
 import type { RinkSummary, Signal, Tip } from './rinkTypes';
-import { VENUE_CONFIG } from './venueConfig';
+import { getVenueConfig } from './venueConfig';
 
-export async function buildSummary(rinkId: string): Promise<RinkSummary> {
+export async function buildSummary(rinkId: string, sport?: string): Promise<RinkSummary> {
+  const venueConfig = getVenueConfig(sport);
   const [signalResult, tipResult] = await Promise.all([
     pool.query(
       `SELECT signal, AVG(value) AS value, COUNT(*)::int AS count
@@ -24,7 +25,7 @@ export async function buildSummary(rinkId: string): Promise<RinkSummary> {
     ),
   ]);
 
-  const signals: Signal[] = VENUE_CONFIG.signals.map((key) => {
+  const signals: Signal[] = venueConfig.signals.map((key) => {
     const row = signalResult.rows.find((r: { signal: string }) => r.signal === key);
     if (row) {
       const avg = parseFloat(row.value);
@@ -66,14 +67,16 @@ export async function buildSummary(rinkId: string): Promise<RinkSummary> {
     evidenceCounts[s.signal] = s.count;
   }
 
-  const lastSignal = await pool.query(
-    `SELECT created_at FROM signal_ratings WHERE rink_id = $1 ORDER BY created_at DESC LIMIT 1`,
-    [rinkId]
-  );
-  const lastTip = await pool.query(
-    `SELECT created_at FROM tips WHERE rink_id = $1 ORDER BY created_at DESC LIMIT 1`,
-    [rinkId]
-  );
+  const [lastSignal, lastTip] = await Promise.all([
+    pool.query(
+      `SELECT created_at FROM signal_ratings WHERE rink_id = $1 ORDER BY created_at DESC LIMIT 1`,
+      [rinkId]
+    ),
+    pool.query(
+      `SELECT created_at FROM tips WHERE rink_id = $1 ORDER BY created_at DESC LIMIT 1`,
+      [rinkId]
+    ),
+  ]);
   const dates = [
     lastSignal.rows[0]?.created_at,
     lastTip.rows[0]?.created_at,
@@ -82,13 +85,13 @@ export async function buildSummary(rinkId: string): Promise<RinkSummary> {
 
   let verdict = '';
   if (totalCount === 0) {
-    verdict = VENUE_CONFIG.verdicts.none;
+    verdict = venueConfig.verdicts.none;
   } else if (overallAvg >= 3.8) {
-    verdict = VENUE_CONFIG.verdicts.good;
+    verdict = venueConfig.verdicts.good;
   } else if (overallAvg >= 3.0) {
-    verdict = VENUE_CONFIG.verdicts.mixed;
+    verdict = venueConfig.verdicts.mixed;
   } else {
-    verdict = VENUE_CONFIG.verdicts.bad;
+    verdict = venueConfig.verdicts.bad;
   }
 
   // Consider "confirmed this season" if any data in last 6 months

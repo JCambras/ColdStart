@@ -5,6 +5,7 @@ import { SIGNAL_META, SignalType } from '../../lib/constants';
 import { RinkSummary } from '../../lib/rinkTypes';
 import { apiPost } from '../../lib/api';
 import { storage } from '../../lib/storage';
+import { useAuth } from '../../contexts/AuthContext';
 import { colors } from '../../lib/theme';
 
 interface QuickVoteRowProps {
@@ -24,6 +25,7 @@ const signals: { key: SignalType; icon: string; label: string }[] = [
 ];
 
 export function QuickVoteRow({ rinkId, onSummaryUpdate, onRatedCountChange }: QuickVoteRowProps) {
+  const { currentUser } = useAuth();
   const [ratings, setRatings] = useState<Record<string, number>>({});
   const [submitting, setSubmitting] = useState<string | null>(null);
   const [submitted, setSubmitted] = useState<Set<string>>(new Set());
@@ -41,6 +43,7 @@ export function QuickVoteRow({ rinkId, onSummaryUpdate, onRatedCountChange }: Qu
       const { data } = await apiPost<{ summary?: RinkSummary }>('/contributions', {
         rink_id: rinkId, kind: 'signal_rating', contributor_type: contributorType,
         signal_rating: { signal, value },
+        user_id: currentUser?.id,
       });
       if (data?.summary) onSummaryUpdate(data.summary);
       setSubmitted(prev => {

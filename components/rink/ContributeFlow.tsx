@@ -13,6 +13,7 @@ import { QuickTipInput } from './QuickTipInput';
 
 // ── Contribution Form (inline, 2-step) ──
 export function ContributeSection({ rinkId, onSummaryUpdate }: { rinkId: string; onSummaryUpdate: (s: RinkSummary) => void }) {
+  const { currentUser } = useAuth();
   const [mode, setMode] = useState<'idle' | 'signal' | 'tip'>('idle');
   const [selectedSignal, setSelectedSignal] = useState<SignalType | null>(null);
   const [signalValue, setSignalValue] = useState<number | null>(null);
@@ -40,6 +41,7 @@ export function ContributeSection({ rinkId, onSummaryUpdate }: { rinkId: string;
     const body: Record<string, unknown> = {
       rink_id: rinkId,
       contributor_type: contributorType,
+      user_id: currentUser?.id,
     };
 
     if (mode === 'signal' && selectedSignal && signalValue) {

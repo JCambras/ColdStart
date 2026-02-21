@@ -238,30 +238,28 @@ export default function OperatorDashboard() {
               </div>
             ) : respondingTo === tip.id ? (
               <div style={{ marginTop: 10, display: 'flex', flexDirection: 'column', gap: 8 }}>
-                {!responderName && (
-                  <div style={{ display: 'flex', gap: 8 }}>
-                    <input
-                      value={responderName}
-                      onChange={(e) => setResponderName(e.target.value)}
-                      placeholder="Your name"
-                      style={{
-                        flex: 1, fontSize: 13, padding: '8px 12px',
-                        border: `1px solid ${colors.borderDefault}`, borderRadius: 8,
-                        outline: 'none', fontFamily: 'inherit',
-                      }}
-                    />
-                    <input
-                      value={responderRole}
-                      onChange={(e) => setResponderRole(e.target.value)}
-                      placeholder="Role (e.g. Manager)"
-                      style={{
-                        flex: 1, fontSize: 13, padding: '8px 12px',
-                        border: `1px solid ${colors.borderDefault}`, borderRadius: 8,
-                        outline: 'none', fontFamily: 'inherit',
-                      }}
-                    />
-                  </div>
-                )}
+                <div style={{ display: 'flex', gap: 8 }}>
+                  <input
+                    value={responderName}
+                    onChange={(e) => setResponderName(e.target.value)}
+                    placeholder="Your name"
+                    style={{
+                      flex: 1, fontSize: 13, padding: '8px 12px',
+                      border: `1px solid ${colors.borderDefault}`, borderRadius: 8,
+                      outline: 'none', fontFamily: 'inherit',
+                    }}
+                  />
+                  <input
+                    value={responderRole}
+                    onChange={(e) => setResponderRole(e.target.value)}
+                    placeholder="Role (e.g. Manager)"
+                    style={{
+                      flex: 1, fontSize: 13, padding: '8px 12px',
+                      border: `1px solid ${colors.borderDefault}`, borderRadius: 8,
+                      outline: 'none', fontFamily: 'inherit',
+                    }}
+                  />
+                </div>
                 <div style={{ display: 'flex', gap: 8 }}>
                   <input
                     value={responseText}

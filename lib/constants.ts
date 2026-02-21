@@ -50,9 +50,12 @@ export const SIGNAL_OPTIONS: { key: SignalType; label: string; icon: string }[] 
   { key: 'family_friendly', label: 'Family', icon: '👨‍👩‍👧' },
   { key: 'locker_rooms', label: 'Lockers', icon: '🚪' },
   { key: 'pro_shop', label: 'Pro shop', icon: '🏒' },
+  { key: 'heat', label: 'Heat', icon: '☀️' },
+  { key: 'dugouts', label: 'Dugouts', icon: '🏟️' },
+  { key: 'batting_cages', label: 'Cages', icon: '⚾' },
 ];
 
-export const SIGNAL_ORDER: SignalType[] = ['parking', 'cold', 'food_nearby', 'chaos', 'family_friendly', 'locker_rooms', 'pro_shop'];
+export const SIGNAL_ORDER: SignalType[] = ['parking', 'cold', 'food_nearby', 'chaos', 'family_friendly', 'locker_rooms', 'pro_shop', 'heat', 'dugouts', 'batting_cages'];
 
 // ── US States ──
 

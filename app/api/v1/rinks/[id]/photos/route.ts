@@ -48,6 +48,14 @@ export async function POST(
       return NextResponse.json({ error: 'Image exceeds 5MB limit' }, { status: 400 });
     }
 
+    // Validate MIME type via magic bytes
+    const isJpeg = buffer[0] === 0xFF && buffer[1] === 0xD8 && buffer[2] === 0xFF;
+    const isPng = buffer[0] === 0x89 && buffer[1] === 0x50 && buffer[2] === 0x4E && buffer[3] === 0x47;
+    if (!isJpeg && !isPng) {
+      return NextResponse.json({ error: 'Only JPEG and PNG images are allowed' }, { status: 400 });
+    }
+    const ext = isPng ? '.png' : '.jpg';
+
     // Verify rink exists
     const rinkCheck = await pool.query('SELECT id FROM rinks WHERE id = $1', [id]);
     if (rinkCheck.rows.length === 0) {
@@ -60,7 +68,9 @@ export async function POST(
       mkdirSync(uploadsDir, { recursive: true });
     }
 
-    const filename = `${id}-${Date.now()}.jpg`;
+    // Sanitize ID to prevent path traversal
+    const safeId = id.replace(/[^a-zA-Z0-9_-]/g, '');
+    const filename = `${safeId}-${Date.now()}${ext}`;
     const filePath = join(uploadsDir, filename);
     writeFileSync(filePath, buffer);
 

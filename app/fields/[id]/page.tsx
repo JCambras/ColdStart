@@ -5,7 +5,7 @@ import { useParams, useRouter } from 'next/navigation';
 import { PageShell } from '../../../components/PageShell';
 import { RinkSummary, RinkDetail, Tip } from '../../../lib/rinkTypes';
 import { timeAgo } from '../../../lib/rinkHelpers';
-import { BASEBALL_SIGNAL_META, BASEBALL_SIGNAL_ICONS } from '../../../lib/baseballConfig';
+import { SIGNAL_META } from '../../../lib/constants';
 import { getVenueConfig } from '../../../lib/venueConfig';
 import { apiGet, apiPost } from '../../../lib/api';
 import { LoadingSkeleton } from '../../../components/LoadingSkeleton';
@@ -162,7 +162,7 @@ export default function FieldPage() {
               Ratings
             </h3>
             {displaySignals.map(s => {
-              const meta = BASEBALL_SIGNAL_META[s.signal];
+              const meta = SIGNAL_META[s.signal];
               if (!meta) return null;
               return (
                 <div key={s.signal} style={{

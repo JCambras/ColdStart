@@ -29,7 +29,8 @@ function ReturnRatingPrompt({
   rinkAddress,
   contributionCount,
   onDismiss,
-  onSummaryUpdate
+  onSummaryUpdate,
+  currentUser,
 }: {
   rinkId: string;
   rinkName: string;
@@ -37,6 +38,7 @@ function ReturnRatingPrompt({
   contributionCount: number;
   onDismiss: () => void;
   onSummaryUpdate: (s: RinkSummary) => void;
+  currentUser: { id: string; name: string; email: string } | null;
 }) {
   const PROMPT_SIGNALS = [
     { key: 'parking', icon: '🅿️', question: 'How was parking?', low: 'Tough', high: 'Easy' },
@@ -67,6 +69,7 @@ function ReturnRatingPrompt({
       kind: 'signal_rating',
       contributor_type: 'visiting_parent',
       signal_rating: { signal, value },
+      user_id: currentUser?.id,
     });
     if (data?.summary) onSummaryUpdate(data.summary);
 
@@ -87,6 +90,7 @@ function ReturnRatingPrompt({
       kind: 'tip',
       contributor_type: 'visiting_parent',
       tip: { text: tipText.trim() },
+      user_id: currentUser?.id,
     });
     if (data?.summary) onSummaryUpdate(data.summary);
     storage.addMyTip(rinkId, tipText.trim());
@@ -533,6 +537,7 @@ export default function RinkPage() {
   }, [rinkId]);
 
   async function handlePhotoUpload(file: File) {
+    if (!file.type.startsWith('image/')) return;
     setUploadingPhoto(true);
     try {
       // Compress client-side
@@ -590,7 +595,7 @@ export default function RinkPage() {
   }, [detail]);
 
   function handleSummaryUpdate(summary: RinkSummary) {
-    if (detail) setDetail({ ...detail, summary });
+    setDetail(prev => prev ? { ...prev, summary } : prev);
   }
 
   if (loading) {
@@ -971,6 +976,7 @@ export default function RinkPage() {
             contributionCount={summary.contribution_count}
             onDismiss={() => setShowReturnPrompt(false)}
             onSummaryUpdate={handleSummaryUpdate}
+            currentUser={currentUser}
           />
         )}
 

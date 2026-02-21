@@ -15,6 +15,12 @@ export async function POST(
       return NextResponse.json({ error: 'name and email are required' }, { status: 400 });
     }
 
+    // Verify rink exists
+    const rinkCheck = await pool.query('SELECT id FROM rinks WHERE id = $1', [id]);
+    if (rinkCheck.rows.length === 0) {
+      return NextResponse.json({ error: 'Rink not found' }, { status: 404 });
+    }
+
     const result = await pool.query(
       `INSERT INTO rink_claims (rink_id, name, email, role)
        VALUES ($1, $2, $3, $4)

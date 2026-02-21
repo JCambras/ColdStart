@@ -90,6 +90,7 @@ export function TipCard({ tip, tipIndex, rinkSlug }: { tip: Tip; tipIndex: numbe
     <div
       role="button"
       tabIndex={0}
+      aria-expanded={expanded}
       style={{
         padding: '10px 14px',
         background: colors.white,
