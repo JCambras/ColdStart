@@ -1,7 +1,7 @@
 'use client';
 
 import { useEffect, useState } from 'react';
-import { useParams, useRouter } from 'next/navigation';
+import { useParams, useRouter, useSearchParams } from 'next/navigation';
 import Image from 'next/image';
 import { PageShell } from '../../../components/PageShell';
 import { RinkSummary, RinkDetail } from '../../../lib/rinkTypes';
@@ -108,7 +108,9 @@ function ReturnRatingPrompt({
 
   if (done) {
     function handleShare() {
-      const url = window.location.href;
+      const shareUrl = new URL(window.location.href);
+      shareUrl.searchParams.set('ref', 'post_rate');
+      const url = shareUrl.toString();
       const shareText = `${rinkName}\n📍 ${rinkAddress}\nRink info from hockey parents: ${url}`;
       if (typeof navigator.share === 'function') {
         navigator.share({ title: `${rinkName} — ColdStart Hockey`, text: shareText, url }).catch(() => {});
@@ -343,7 +345,11 @@ export default function RinkPage() {
   const [loadedSignals, setLoadedSignals] = useState<Record<string, { value: number; count: number; confidence: number }> | null>(null);
 
   const [activeTab, setActiveTab] = useState('signals');
+  const [referralSource, setReferralSource] = useState<string | null>(null);
+  const [rinkPhotos, setRinkPhotos] = useState<{ id: number; url: string; caption?: string; contributor_name?: string }[]>([]);
+  const [uploadingPhoto, setUploadingPhoto] = useState(false);
 
+  const searchParams = useSearchParams();
   const { currentUser, openAuth } = useAuth();
 
   // Seed place tips for demo rinks (once)
@@ -382,6 +388,22 @@ export default function RinkPage() {
     }
     storage.setFanFavsSeeded('1');
   }, []);
+
+  // Detect referral source
+  useEffect(() => {
+    const ref = searchParams.get('ref');
+    if (ref) {
+      setReferralSource(ref);
+      // Log to server
+      fetch('/api/v1/referrals', {
+        method: 'POST',
+        headers: { 'Content-Type': 'application/json' },
+        body: JSON.stringify({ rink_id: rinkId, source: ref }),
+      }).catch(() => {});
+      // Store for session
+      try { sessionStorage.setItem('coldstart_ref', ref); } catch {}
+    }
+  }, [searchParams, rinkId]);
 
   // Track rink views for post-visit prompt
   useEffect(() => {
@@ -501,6 +523,54 @@ export default function RinkPage() {
     load();
   }, [rinkId]);
 
+  // Fetch rink photos from DB
+  useEffect(() => {
+    if (!rinkId) return;
+    fetch(`/api/v1/rinks/${rinkId}/photos`)
+      .then(r => r.ok ? r.json() : null)
+      .then(data => { if (data?.photos) setRinkPhotos(data.photos); })
+      .catch(() => {});
+  }, [rinkId]);
+
+  async function handlePhotoUpload(file: File) {
+    setUploadingPhoto(true);
+    try {
+      // Compress client-side
+      const canvas = document.createElement('canvas');
+      const img = document.createElement('img');
+      const url = URL.createObjectURL(file);
+      await new Promise<void>((resolve) => {
+        img.onload = () => resolve();
+        img.src = url;
+      });
+      const maxW = 1200;
+      const scale = Math.min(1, maxW / img.width);
+      canvas.width = img.width * scale;
+      canvas.height = img.height * scale;
+      const ctx = canvas.getContext('2d')!;
+      ctx.drawImage(img, 0, 0, canvas.width, canvas.height);
+      URL.revokeObjectURL(url);
+      const base64 = canvas.toDataURL('image/jpeg', 0.85).split(',')[1];
+
+      const res = await fetch(`/api/v1/rinks/${rinkId}/photos`, {
+        method: 'POST',
+        headers: { 'Content-Type': 'application/json' },
+        body: JSON.stringify({
+          image_data: base64,
+          user_id: currentUser?.id || null,
+        }),
+      });
+      if (res.ok) {
+        const data = await res.json();
+        if (data.photo) setRinkPhotos(prev => [data.photo, ...prev]);
+      }
+    } catch {
+      // Upload failed silently
+    } finally {
+      setUploadingPhoto(false);
+    }
+  }
+
   // IntersectionObserver for sticky tab bar
   useEffect(() => {
     const sectionIds = ['signals-section', 'tips-section', 'nearby-section', 'contribute-section'];
@@ -551,7 +621,9 @@ export default function RinkPage() {
     <button
       aria-label="Share rink with team"
       onClick={() => {
-        const url = window.location.href;
+        const shareUrl = new URL(window.location.href);
+        shareUrl.searchParams.set('ref', 'share');
+        const url = shareUrl.toString();
         const parking = summary.signals.find(s => s.signal === 'parking');
         const parkingNote = parking ? ` (Parking: ${parking.value.toFixed(1)}/5)` : '';
         const address = `📍 ${rink.address}, ${rink.city}, ${rink.state}`;
@@ -630,8 +702,68 @@ export default function RinkPage() {
     <PageShell logoStacked navBelow={tabBar}>
       <div style={{ maxWidth: 680, margin: '0 auto', padding: '0 24px' }}>
 
-        {/* Rink hero image */}
-        {rinkPhoto && (
+        {/* Referral attribution banner */}
+        {referralSource === 'share' && (
+          <div style={{
+            marginTop: 12, padding: '10px 16px', borderRadius: 10,
+            background: colors.bgInfo, border: `1px solid ${colors.brandLight}`,
+            display: 'flex', alignItems: 'center', gap: 8,
+          }}>
+            <span style={{ fontSize: 16 }}>&#128101;</span>
+            <span style={{ fontSize: 13, color: colors.brandDark }}>
+              Shared by a hockey parent on your team
+            </span>
+          </div>
+        )}
+
+        {/* Rink photos — DB gallery, static fallback, or upload CTA */}
+        {rinkPhotos.length > 0 ? (
+          <div style={{ marginTop: 16 }}>
+            <div style={{
+              display: 'flex', gap: 8, overflowX: 'auto', paddingBottom: 8,
+              scrollSnapType: 'x mandatory',
+            }}>
+              {rinkPhotos.map((photo) => (
+                <div key={photo.id} style={{
+                  flexShrink: 0, width: 280, height: 200,
+                  borderRadius: 12, overflow: 'hidden', position: 'relative',
+                  background: colors.borderLight, scrollSnapAlign: 'start',
+                }}>
+                  <Image
+                    src={photo.url}
+                    alt={photo.caption || rink.name}
+                    fill
+                    style={{ objectFit: 'cover' }}
+                    sizes="280px"
+                  />
+                  {photo.contributor_name && (
+                    <div style={{
+                      position: 'absolute', bottom: 6, left: 6,
+                      fontSize: 10, color: 'rgba(255,255,255,0.85)',
+                      background: 'rgba(0,0,0,0.5)', padding: '2px 8px',
+                      borderRadius: 4, backdropFilter: 'blur(4px)',
+                    }}>
+                      Photo by {photo.contributor_name}
+                    </div>
+                  )}
+                </div>
+              ))}
+            </div>
+            <label style={{
+              display: 'inline-flex', alignItems: 'center', gap: 4,
+              fontSize: 12, color: colors.textMuted, cursor: 'pointer', marginTop: 4,
+            }}>
+              <span>{uploadingPhoto ? 'Uploading...' : '+ Add a photo'}</span>
+              <input
+                type="file"
+                accept="image/*"
+                style={{ display: 'none' }}
+                onChange={(e) => { const f = e.target.files?.[0]; if (f) handlePhotoUpload(f); }}
+                disabled={uploadingPhoto}
+              />
+            </label>
+          </div>
+        ) : rinkPhoto ? (
           <div style={{ marginTop: 16, borderRadius: 16, overflow: 'hidden', height: 220, position: 'relative', background: colors.borderLight }}>
             <Image
               src={rinkPhoto}
@@ -646,8 +778,41 @@ export default function RinkPage() {
               background: 'rgba(0,0,0,0.4)', padding: '3px 8px',
               borderRadius: 6, backdropFilter: 'blur(4px)',
             }}>
-              📷 Photo from a hockey parent
+              Photo from a hockey parent
             </div>
+            <label style={{
+              position: 'absolute', top: 10, right: 10,
+              fontSize: 11, fontWeight: 600, color: '#fff',
+              background: 'rgba(0,0,0,0.5)', padding: '4px 10px',
+              borderRadius: 6, cursor: 'pointer', backdropFilter: 'blur(4px)',
+            }}>
+              {uploadingPhoto ? 'Uploading...' : '+ Add photo'}
+              <input
+                type="file"
+                accept="image/*"
+                style={{ display: 'none' }}
+                onChange={(e) => { const f = e.target.files?.[0]; if (f) handlePhotoUpload(f); }}
+                disabled={uploadingPhoto}
+              />
+            </label>
+          </div>
+        ) : (
+          <div style={{
+            marginTop: 16, padding: '20px 16px', borderRadius: 12,
+            border: `1.5px dashed ${colors.borderDefault}`, textAlign: 'center',
+          }}>
+            <label style={{ cursor: 'pointer' }}>
+              <span style={{ fontSize: 13, color: colors.textMuted }}>
+                {uploadingPhoto ? 'Uploading...' : 'Be the first to add a photo of this rink'}
+              </span>
+              <input
+                type="file"
+                accept="image/*"
+                style={{ display: 'none' }}
+                onChange={(e) => { const f = e.target.files?.[0]; if (f) handlePhotoUpload(f); }}
+                disabled={uploadingPhoto}
+              />
+            </label>
           </div>
         )}
 

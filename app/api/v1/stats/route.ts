@@ -23,6 +23,13 @@ export async function GET() {
         FROM tips
         WHERE hidden = FALSE
       ),
+      share_stats AS (
+        SELECT
+          COUNT(*) FILTER (WHERE created_at > NOW() - INTERVAL '7 days')::int AS shares_last_7d,
+          COUNT(*) FILTER (WHERE created_at > NOW() - INTERVAL '30 days')::int AS shares_last_30d
+        FROM referral_visits
+        WHERE source IN ('share', 'post_rate')
+      ),
       top_signals AS (
         SELECT signal, COUNT(*)::int AS count
         FROM signal_ratings
@@ -38,22 +45,27 @@ export async function GET() {
         rat.ratings_last_30d,
         ts.total_tips,
         (rat.total_ratings + ts.total_tips) AS total_contributions,
+        sh.shares_last_7d,
+        sh.shares_last_30d,
         json_agg(json_build_object('signal', sig.signal, 'count', sig.count)) AS top_signals
       FROM rink_stats rs
       CROSS JOIN rating_stats rat
       CROSS JOIN tip_stats ts
+      CROSS JOIN share_stats sh
       CROSS JOIN top_signals sig
       GROUP BY rs.total_rinks, rs.states_covered,
                rat.total_ratings, rat.rinks_with_ratings,
                rat.ratings_last_7d, rat.ratings_last_30d,
-               ts.total_tips
+               ts.total_tips,
+               sh.shares_last_7d, sh.shares_last_30d
     `);
 
     if (result.rows.length === 0) {
       return NextResponse.json({
         total_rinks: 0, rinks_with_ratings: 0, total_ratings: 0,
         total_tips: 0, total_contributions: 0, states_covered: 0,
-        ratings_last_7d: 0, ratings_last_30d: 0, top_signals: [],
+        ratings_last_7d: 0, ratings_last_30d: 0,
+        shares_last_7d: 0, shares_last_30d: 0, top_signals: [],
       });
     }
 
@@ -67,6 +79,8 @@ export async function GET() {
       states_covered: row.states_covered,
       ratings_last_7d: row.ratings_last_7d,
       ratings_last_30d: row.ratings_last_30d,
+      shares_last_7d: row.shares_last_7d,
+      shares_last_30d: row.shares_last_30d,
       top_signals: row.top_signals,
     });
   } catch (err) {

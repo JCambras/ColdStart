@@ -13,6 +13,10 @@ export interface Tip {
   contributor_type: string;
   context?: string;
   created_at: string;
+  contributor_name?: string;
+  contributor_badge?: string;
+  user_id?: string;
+  operator_response?: { text: string; name: string; role: string };
 }
 
 export interface RinkSummary {

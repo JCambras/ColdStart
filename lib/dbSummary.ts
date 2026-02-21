@@ -10,8 +10,16 @@ export async function buildSummary(rinkId: string): Promise<RinkSummary> {
       [rinkId]
     ),
     pool.query(
-      `SELECT id, text, contributor_type, context, created_at
-       FROM tips WHERE rink_id = $1 AND hidden = FALSE ORDER BY created_at DESC LIMIT 20`,
+      `SELECT t.id, t.text, t.contributor_type, t.context, t.created_at,
+              t.user_id, u.name AS contributor_name, u."rinksRated" AS rinks_rated,
+              or_resp.text AS resp_text, or_resp.responder_name AS resp_name, or_resp.responder_role AS resp_role
+       FROM tips t
+       LEFT JOIN users u ON t.user_id = u.id
+       LEFT JOIN LATERAL (
+         SELECT text, responder_name, responder_role FROM operator_responses
+         WHERE tip_id = t.id ORDER BY created_at DESC LIMIT 1
+       ) or_resp ON TRUE
+       WHERE t.rink_id = $1 AND t.hidden = FALSE ORDER BY t.created_at DESC LIMIT 20`,
       [rinkId]
     ),
   ]);
@@ -31,12 +39,20 @@ export async function buildSummary(rinkId: string): Promise<RinkSummary> {
     return { signal: key, value: 0, count: 0, confidence: 0 };
   });
 
-  const tips: Tip[] = tipResult.rows.map((r: { id: number; text: string; contributor_type: string; context: string | null; created_at: Date }) => ({
+  const tips: Tip[] = tipResult.rows.map((r: {
+    id: number; text: string; contributor_type: string; context: string | null; created_at: Date;
+    user_id: string | null; contributor_name: string | null; rinks_rated: number | null;
+    resp_text: string | null; resp_name: string | null; resp_role: string | null;
+  }) => ({
     id: r.id,
     text: r.text,
     contributor_type: r.contributor_type,
     context: r.context ?? undefined,
     created_at: r.created_at.toISOString(),
+    user_id: r.user_id ?? undefined,
+    contributor_name: r.contributor_name ?? undefined,
+    contributor_badge: r.rinks_rated && r.rinks_rated >= 10 ? 'Trusted' : undefined,
+    operator_response: r.resp_text ? { text: r.resp_text, name: r.resp_name ?? 'Staff', role: r.resp_role ?? 'Rink Staff' } : undefined,
   }));
 
   const ratedSignals = signals.filter((s) => s.count > 0);

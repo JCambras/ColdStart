@@ -6,7 +6,7 @@ import { VENUE_CONFIG } from '../../../../lib/venueConfig';
 export async function POST(request: NextRequest) {
   try {
     const body = await request.json();
-    const { rink_id, kind, contributor_type, context } = body;
+    const { rink_id, kind, contributor_type, context, user_id } = body;
 
     if (!rink_id || !kind) {
       return NextResponse.json({ error: 'rink_id and kind are required' }, { status: 400 });
@@ -32,10 +32,18 @@ export async function POST(request: NextRequest) {
       }
 
       await pool.query(
-        `INSERT INTO signal_ratings (rink_id, signal, value, contributor_type, context)
-         VALUES ($1, $2, $3, $4, $5)`,
-        [rink_id, signal_rating.signal, value, contributor_type || 'visiting_parent', context || null]
+        `INSERT INTO signal_ratings (rink_id, signal, value, contributor_type, context, user_id)
+         VALUES ($1, $2, $3, $4, $5, $6)`,
+        [rink_id, signal_rating.signal, value, contributor_type || 'visiting_parent', context || null, user_id || null]
       );
+
+      // Increment user's rinksRated counter
+      if (user_id) {
+        await pool.query(
+          `UPDATE users SET "rinksRated" = COALESCE("rinksRated", 0) + 1 WHERE id = $1`,
+          [user_id]
+        );
+      }
     } else if (kind === 'one_thing_tip' || kind === 'tip') {
       const tipData = body.one_thing_tip || body.tip;
       if (!tipData?.text?.trim()) {
@@ -46,10 +54,18 @@ export async function POST(request: NextRequest) {
       }
 
       await pool.query(
-        `INSERT INTO tips (rink_id, text, contributor_type, context)
-         VALUES ($1, $2, $3, $4)`,
-        [rink_id, tipData.text.trim(), contributor_type || 'visiting_parent', context || null]
+        `INSERT INTO tips (rink_id, text, contributor_type, context, user_id)
+         VALUES ($1, $2, $3, $4, $5)`,
+        [rink_id, tipData.text.trim(), contributor_type || 'visiting_parent', context || null, user_id || null]
       );
+
+      // Increment user's tipsSubmitted counter
+      if (user_id) {
+        await pool.query(
+          `UPDATE users SET "tipsSubmitted" = COALESCE("tipsSubmitted", 0) + 1 WHERE id = $1`,
+          [user_id]
+        );
+      }
     } else {
       return NextResponse.json({ error: `Unknown kind: ${kind}` }, { status: 400 });
     }

@@ -4,6 +4,7 @@
 // string updates automatically.
 
 import type { SignalType } from './constants';
+import { BASEBALL_CONFIG } from './baseballConfig';
 
 export interface VenueConfig {
   venueType: string;            // 'rink' | 'field' | 'gym'
@@ -31,3 +32,12 @@ export const VENUE_CONFIG: VenueConfig = {
     none: 'No ratings yet',
   },
 };
+
+const VENUE_CONFIGS: Record<string, VenueConfig> = {
+  hockey: VENUE_CONFIG,
+  baseball: BASEBALL_CONFIG,
+};
+
+export function getVenueConfig(sport: string = 'hockey'): VenueConfig {
+  return VENUE_CONFIGS[sport] || VENUE_CONFIG;
+}

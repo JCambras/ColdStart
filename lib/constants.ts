@@ -1,6 +1,6 @@
 // ── Signal types and metadata ──
 
-export type SignalType = 'cold' | 'parking' | 'chaos' | 'food_nearby' | 'family_friendly' | 'locker_rooms' | 'pro_shop';
+export type SignalType = 'cold' | 'parking' | 'chaos' | 'food_nearby' | 'family_friendly' | 'locker_rooms' | 'pro_shop' | 'heat' | 'dugouts' | 'batting_cages';
 export type ContributorType = 'local_parent' | 'visiting_parent';
 
 export const SIGNAL_META: Record<string, { label: string; icon: string; lowLabel: string; highLabel: string; info: string }> = {
@@ -11,6 +11,9 @@ export const SIGNAL_META: Record<string, { label: string; icon: string; lowLabel
   family_friendly: { label: 'Family friendly', icon: '👨‍👩‍👧', lowLabel: 'Not great', highLabel: 'Great', info: 'How welcoming is this rink for families with younger kids? Considers seating, bathrooms, play areas, and overall vibe.' },
   locker_rooms: { label: 'Locker rooms', icon: '🚪', lowLabel: 'Tight', highLabel: 'Spacious', info: 'Are the locker rooms big enough for a full team with bags? Separate ref room? Clean, well-lit, and accessible?' },
   pro_shop: { label: 'Pro shop', icon: '🏒', lowLabel: 'Sparse', highLabel: 'Stocked', info: 'Does the rink have a pro shop? Covers tape, laces, skate sharpening, and emergency gear availability on game day.' },
+  heat: { label: 'Heat level', icon: '☀️', lowLabel: 'Brutal', highLabel: 'Shaded', info: 'How hot does it get for spectators? Lower means bring sunscreen and water. Higher means covered seating and shade.' },
+  dugouts: { label: 'Dugouts', icon: '🏟️', lowLabel: 'Basic', highLabel: 'Great', info: 'Are the dugouts properly covered, with benches and bat racks? Enough room for a full team?' },
+  batting_cages: { label: 'Batting cages', icon: '⚾', lowLabel: 'None', highLabel: 'Available', info: 'Are there batting cages or warm-up areas available at or near the complex?' },
 };
 
 export const SIGNAL_LABELS: Record<string, string> = {
@@ -21,6 +24,9 @@ export const SIGNAL_LABELS: Record<string, string> = {
   family_friendly: 'Family',
   locker_rooms: 'Lockers',
   pro_shop: 'Pro shop',
+  heat: 'Heat',
+  dugouts: 'Dugouts',
+  batting_cages: 'Cages',
 };
 
 export const SIGNAL_ICONS: Record<string, string> = {
@@ -31,6 +37,9 @@ export const SIGNAL_ICONS: Record<string, string> = {
   family_friendly: '👨‍👩‍👧',
   locker_rooms: '🚪',
   pro_shop: '🏒',
+  heat: '☀️',
+  dugouts: '🏟️',
+  batting_cages: '⚾',
 };
 
 export const SIGNAL_OPTIONS: { key: SignalType; label: string; icon: string }[] = [

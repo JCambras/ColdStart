@@ -34,9 +34,10 @@ async function run() {
       CREATE TABLE IF NOT EXISTS signal_ratings (
         id SERIAL PRIMARY KEY,
         rink_id TEXT NOT NULL REFERENCES rinks(id),
-        signal TEXT NOT NULL CHECK (signal IN ('parking','cold','food_nearby','chaos','family_friendly','locker_rooms','pro_shop')),
+        signal TEXT NOT NULL,
         value INTEGER NOT NULL CHECK (value BETWEEN 1 AND 5),
         contributor_type TEXT NOT NULL DEFAULT 'visiting_parent',
+        user_id TEXT,
         context TEXT,
         created_at TIMESTAMPTZ NOT NULL DEFAULT NOW()
       );
@@ -46,6 +47,7 @@ async function run() {
         rink_id TEXT NOT NULL REFERENCES rinks(id),
         text TEXT NOT NULL,
         contributor_type TEXT NOT NULL DEFAULT 'visiting_parent',
+        user_id TEXT,
         context TEXT,
         hidden BOOLEAN NOT NULL DEFAULT FALSE,
         created_at TIMESTAMPTZ NOT NULL DEFAULT NOW()
@@ -66,6 +68,42 @@ async function run() {
         category TEXT,
         created_at TIMESTAMPTZ NOT NULL DEFAULT NOW()
       );
+
+      CREATE TABLE IF NOT EXISTS referral_visits (
+        id SERIAL PRIMARY KEY,
+        rink_id TEXT,
+        source TEXT NOT NULL,
+        created_at TIMESTAMPTZ NOT NULL DEFAULT NOW()
+      );
+
+      CREATE TABLE IF NOT EXISTS rink_photos (
+        id SERIAL PRIMARY KEY,
+        rink_id TEXT NOT NULL REFERENCES rinks(id),
+        url TEXT NOT NULL,
+        user_id TEXT,
+        caption TEXT,
+        created_at TIMESTAMPTZ NOT NULL DEFAULT NOW()
+      );
+
+      CREATE TABLE IF NOT EXISTS rink_claims (
+        id SERIAL PRIMARY KEY,
+        rink_id TEXT NOT NULL,
+        name TEXT NOT NULL,
+        email TEXT NOT NULL,
+        role TEXT,
+        status TEXT NOT NULL DEFAULT 'pending',
+        created_at TIMESTAMPTZ NOT NULL DEFAULT NOW()
+      );
+
+      CREATE TABLE IF NOT EXISTS operator_responses (
+        id SERIAL PRIMARY KEY,
+        tip_id INTEGER REFERENCES tips(id),
+        rink_id TEXT,
+        responder_name TEXT NOT NULL,
+        responder_role TEXT,
+        text TEXT NOT NULL,
+        created_at TIMESTAMPTZ NOT NULL DEFAULT NOW()
+      );
     `);
 
     console.log('Creating indexes...');
@@ -74,9 +112,15 @@ async function run() {
       CREATE INDEX IF NOT EXISTS idx_rinks_name_lower ON rinks(lower(name));
       CREATE INDEX IF NOT EXISTS idx_signal_ratings_rink ON signal_ratings(rink_id);
       CREATE INDEX IF NOT EXISTS idx_signal_ratings_rink_signal ON signal_ratings(rink_id, signal);
+      CREATE INDEX IF NOT EXISTS idx_signal_ratings_user ON signal_ratings(user_id);
       CREATE INDEX IF NOT EXISTS idx_tips_rink ON tips(rink_id);
+      CREATE INDEX IF NOT EXISTS idx_tips_user ON tips(user_id);
       CREATE INDEX IF NOT EXISTS idx_tip_flags_tip ON tip_flags(tip_id);
       CREATE INDEX IF NOT EXISTS idx_home_teams_rink ON home_teams(rink_id);
+      CREATE INDEX IF NOT EXISTS idx_referral_visits_rink ON referral_visits(rink_id);
+      CREATE INDEX IF NOT EXISTS idx_rink_photos_rink ON rink_photos(rink_id);
+      CREATE INDEX IF NOT EXISTS idx_rink_claims_rink ON rink_claims(rink_id);
+      CREATE INDEX IF NOT EXISTS idx_operator_responses_tip ON operator_responses(tip_id);
     `);
 
     // Load rinks

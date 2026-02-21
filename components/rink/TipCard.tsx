@@ -11,7 +11,7 @@ import { colors, text, radius } from '../../lib/theme';
 export function TipCard({ tip, tipIndex, rinkSlug }: { tip: Tip; tipIndex: number; rinkSlug: string }) {
   const { isLoggedIn, openAuth } = useAuth();
   const isLocal = tip.contributor_type === 'local_parent';
-  const response = MANAGER_RESPONSES[rinkSlug]?.[tipIndex];
+  const response = tip.operator_response || MANAGER_RESPONSES[rinkSlug]?.[tipIndex];
   const [expanded, setExpanded] = useState(false);
   const [isMyTip, setIsMyTip] = useState(false);
 
@@ -155,6 +155,28 @@ export function TipCard({ tip, tipIndex, rinkSlug }: { tip: Tip; tipIndex: numbe
                   }}>
                     {isLocal ? 'Local' : 'Visitor'}
                   </span>
+                  {tip.contributor_name && (
+                    <a
+                      href={tip.user_id ? `/profile/${tip.user_id}` : undefined}
+                      onClick={(e) => e.stopPropagation()}
+                      style={{
+                        fontSize: text['2xs'], fontWeight: 500, color: colors.textMuted,
+                        textDecoration: tip.user_id ? 'underline' : 'none',
+                        textUnderlineOffset: 2, cursor: tip.user_id ? 'pointer' : 'default',
+                      }}
+                    >
+                      {tip.contributor_name}
+                    </a>
+                  )}
+                  {tip.contributor_badge && (
+                    <span style={{
+                      fontSize: text['2xs'], fontWeight: 600, padding: '1px 6px',
+                      borderRadius: 6, display: 'inline-block',
+                      background: colors.bgSuccess, color: colors.success,
+                    }}>
+                      {tip.contributor_badge}
+                    </span>
+                  )}
                   {isMyTip && (
                     <span style={{
                       fontSize: text['2xs'], fontWeight: 600, padding: '1px 6px',
