@@ -42,6 +42,7 @@ export default function HomePage() {
   const [savedRinkIds, setSavedRinkIds] = useState<string[]>([]);
   const [savedRinks, setSavedRinks] = useState<RinkData[]>([]);
   const [recentlyViewed, setRecentlyViewed] = useState<RecentlyViewedRink[]>([]);
+  const [ratedRinks, setRatedRinks] = useState<{ id: string; name: string; city: string; state: string; ratedAt: number }[]>([]);
 
   // Load saved rinks
   useEffect(() => {
@@ -67,6 +68,27 @@ export default function HomePage() {
       }
       viewed.sort((a, b) => new Date(b.viewedAt).getTime() - new Date(a.viewedAt).getTime());
       setRecentlyViewed(viewed.slice(0, 5));
+    } catch {}
+  }, []);
+
+  // Load rated rinks from localStorage
+  useEffect(() => {
+    try {
+      const rated = storage.getRatedRinks();
+      const entries = Object.entries(rated);
+      if (entries.length === 0) return;
+      const rinks: { id: string; name: string; city: string; state: string; ratedAt: number }[] = [];
+      for (const [id, timestamp] of entries) {
+        const metaRaw = localStorage.getItem(`coldstart_viewed_meta_${id}`);
+        if (metaRaw) {
+          const meta = JSON.parse(metaRaw);
+          if (meta.name) {
+            rinks.push({ id, name: meta.name, city: meta.city || '', state: meta.state || '', ratedAt: timestamp });
+          }
+        }
+      }
+      rinks.sort((a, b) => b.ratedAt - a.ratedAt);
+      setRatedRinks(rinks.slice(0, 5));
     } catch {}
   }, []);
 
@@ -301,6 +323,61 @@ export default function HomePage() {
                     >
                       ✕
                     </button>
+                  </div>
+                </div>
+              ))}
+            </div>
+          </section>
+        )}
+
+        {/* Your Contributions — shows when user has rated rinks */}
+        {ratedRinks.length > 0 && (
+          <section aria-label="Your contributions" style={{
+            maxWidth: layout.maxWidth5xl, margin: '0 auto', padding: '32px 24px 0',
+          }}>
+            <h3 style={{
+              fontSize: 12, fontWeight: 500, color: colors.stone500,
+              textTransform: 'uppercase', letterSpacing: 1.5, marginBottom: 16,
+              display: 'flex', alignItems: 'center', gap: 6,
+            }}>
+              Your Contributions
+              <span style={{
+                fontSize: 10, fontWeight: 600, padding: '1px 7px',
+                borderRadius: 10, background: colors.bgSuccess, color: colors.success,
+              }}>
+                {ratedRinks.length}
+              </span>
+            </h3>
+            <div style={{ display: 'flex', flexDirection: 'column', gap: 8 }}>
+              {ratedRinks.map((rink) => (
+                <div
+                  key={rink.id}
+                  role="button"
+                  tabIndex={0}
+                  onClick={() => router.push(`/rinks/${rink.id}`)}
+                  onKeyDown={(e) => { if (e.key === 'Enter' || e.key === ' ') { e.preventDefault(); router.push(`/rinks/${rink.id}`); } }}
+                  style={{
+                    display: 'flex', alignItems: 'center', justifyContent: 'space-between',
+                    padding: '12px 18px', background: colors.white, border: `1px solid ${colors.stone200}`,
+                    borderRadius: 10, cursor: 'pointer', transition: 'border-color 0.15s',
+                  }}
+                  onMouseEnter={(e) => { e.currentTarget.style.borderColor = colors.brand; }}
+                  onMouseLeave={(e) => { e.currentTarget.style.borderColor = colors.stone200; }}
+                >
+                  <div>
+                    <div style={{ fontSize: text.base, fontWeight: 600, color: colors.stone800 }}>{rink.name}</div>
+                    <div style={{ fontSize: text.xs, color: colors.stone400, marginTop: 2 }}>{rink.city}, {rink.state}</div>
+                  </div>
+                  <div style={{ display: 'flex', alignItems: 'center', gap: 8 }}>
+                    <span style={{
+                      fontSize: text['2xs'], fontWeight: 500, padding: '2px 8px',
+                      borderRadius: 8, background: colors.bgSuccess, color: colors.success,
+                    }}>
+                      Rated
+                    </span>
+                    <span style={{ fontSize: text.xs, color: colors.stone400, whiteSpace: 'nowrap' }}>
+                      {timeAgo(new Date(rink.ratedAt).toISOString())}
+                    </span>
                   </div>
                 </div>
               ))}

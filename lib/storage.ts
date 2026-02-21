@@ -119,6 +119,15 @@ export const storage = {
   setPlaceVote: (slug: string, place: string, v: { vote: string | null; score: number }) =>
     setJSON(`coldstart_place_vote_${slug}_${place}`, v),
 
+  // My tips (user's own submitted tips)
+  getMyTips: () => getJSON<{ rinkSlug: string; text: string; timestamp: string }[]>('coldstart_my_tips', []),
+  setMyTips: (tips: { rinkSlug: string; text: string; timestamp: string }[]) => setJSON('coldstart_my_tips', tips),
+  addMyTip: (rinkSlug: string, tipText: string) => {
+    const tips = getJSON<{ rinkSlug: string; text: string; timestamp: string }[]>('coldstart_my_tips', []);
+    tips.push({ rinkSlug, text: tipText, timestamp: new Date().toISOString() });
+    setJSON('coldstart_my_tips', tips);
+  },
+
   // All place tips for a rink (enumerate by scanning localStorage)
   getAllPlaceTips: (rinkSlug: string) => {
     const allTips: Record<string, { text: string; author: string; date: string }[]> = {};

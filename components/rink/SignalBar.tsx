@@ -7,13 +7,35 @@ import { FACILITY_DETAILS } from '../../lib/seedData';
 import { getBarColor } from '../../lib/rinkHelpers';
 import { colors, text, radius } from '../../lib/theme';
 
-export function SignalBar({ signal, rinkSlug }: { signal: Signal; rinkSlug: string }) {
+/** Contextual label when above/below average, per signal type */
+const CONTEXT_LABELS: Record<string, { above: string; below: string }> = {
+  parking: { above: 'Better than most rinks', below: 'Tighter than most rinks' },
+  cold: { above: 'Warmer than most rinks', below: 'Colder than most rinks' },
+  food_nearby: { above: 'More options than most', below: 'Fewer options than most' },
+  chaos: { above: 'Calmer than most rinks', below: 'More hectic than most' },
+  family_friendly: { above: 'More welcoming than most', below: 'Less family-friendly than most' },
+  locker_rooms: { above: 'Roomier than most rinks', below: 'Tighter than most rinks' },
+  pro_shop: { above: 'Better stocked than most', below: 'Sparser than most rinks' },
+};
+
+export function SignalBar({ signal, rinkSlug, stateAverage }: { signal: Signal; rinkSlug: string; stateAverage?: number | null }) {
   const meta = SIGNAL_META[signal.signal] || { label: signal.signal, icon: '', lowLabel: '1', highLabel: '5', info: '' };
   const noData = signal.count === 0;
   const pct = noData ? 0 : Math.round(((signal.value - 1) / 4) * 100);
   const color = noData ? colors.textMuted : getBarColor(signal.value, signal.count);
   const [expanded, setExpanded] = useState(false);
   const facilityDetail = FACILITY_DETAILS[rinkSlug]?.[signal.signal];
+
+  // Compute contextual label comparing to state average
+  const contextLabel = (() => {
+    if (noData || !stateAverage || signal.count < 3) return null;
+    const diff = signal.value - stateAverage;
+    const labels = CONTEXT_LABELS[signal.signal];
+    if (!labels) return null;
+    // Only show label when difference is meaningful (>0.3)
+    if (Math.abs(diff) < 0.3) return null;
+    return diff > 0 ? labels.above : labels.below;
+  })();
 
   return (
     <div
@@ -59,33 +81,21 @@ export function SignalBar({ signal, rinkSlug }: { signal: Signal; rinkSlug: stri
         }} />
       </div>
       {!expanded && (
-        <div style={{ display: 'flex', justifyContent: 'space-between', marginTop: 4 }}>
+        <div style={{ display: 'flex', justifyContent: 'space-between', alignItems: 'center', marginTop: 4 }}>
           <span style={{ fontSize: text['2xs'], color: colors.textMuted }}>{meta.lowLabel}</span>
-          <span style={{
-            fontSize: text.sm,
-            fontWeight: noData ? 400 : 600,
-            color: noData ? colors.textMuted : signal.count < 3 ? '#92400e' : colors.textMuted,
-            fontStyle: noData ? 'italic' : 'normal',
-            ...(signal.count > 0 && signal.count < 3 ? {
-              background: '#fffbeb', padding: '1px 8px', borderRadius: 6, border: '1px solid #fde68a',
-            } : {}),
-          }}>
-            {noData ? 'No ratings yet' : signal.count < 3
-              ? `Early — ${signal.count} rating${signal.count !== 1 ? 's' : ''}`
-              : `${signal.count} rating${signal.count !== 1 ? 's' : ''}`
-            }
-          </span>
-          <span style={{ fontSize: text['2xs'], color: colors.textMuted }}>{meta.highLabel}</span>
-        </div>
-      )}
-      {expanded && (
-        <div style={{ marginTop: 8 }}>
-          <div style={{ display: 'flex', justifyContent: 'space-between', marginBottom: 8 }}>
-            <span style={{ fontSize: text['2xs'], color: colors.textMuted }}>← {meta.lowLabel}</span>
+          <div style={{ display: 'flex', alignItems: 'center', gap: 8 }}>
+            {contextLabel && (
+              <span style={{
+                fontSize: text['2xs'], color: signal.value > (stateAverage ?? 3) ? colors.success : '#92400e',
+                fontWeight: 500,
+              }}>
+                {contextLabel}
+              </span>
+            )}
             <span style={{
               fontSize: text.sm,
               fontWeight: noData ? 400 : 600,
-              color: noData ? colors.textMuted : signal.count < 3 ? '#92400e' : colors.textSecondary,
+              color: noData ? colors.textMuted : signal.count < 3 ? '#92400e' : colors.textMuted,
               fontStyle: noData ? 'italic' : 'normal',
               ...(signal.count > 0 && signal.count < 3 ? {
                 background: '#fffbeb', padding: '1px 8px', borderRadius: 6, border: '1px solid #fde68a',
@@ -93,9 +103,41 @@ export function SignalBar({ signal, rinkSlug }: { signal: Signal; rinkSlug: stri
             }}>
               {noData ? 'No ratings yet' : signal.count < 3
                 ? `Early — ${signal.count} rating${signal.count !== 1 ? 's' : ''}`
-                : `Based on ${signal.count} rating${signal.count !== 1 ? 's' : ''}`
+                : `${signal.count} rating${signal.count !== 1 ? 's' : ''}`
               }
             </span>
+          </div>
+          <span style={{ fontSize: text['2xs'], color: colors.textMuted }}>{meta.highLabel}</span>
+        </div>
+      )}
+      {expanded && (
+        <div style={{ marginTop: 8 }}>
+          <div style={{ display: 'flex', justifyContent: 'space-between', marginBottom: 8 }}>
+            <span style={{ fontSize: text['2xs'], color: colors.textMuted }}>← {meta.lowLabel}</span>
+            <div style={{ display: 'flex', alignItems: 'center', gap: 8 }}>
+              {contextLabel && (
+                <span style={{
+                  fontSize: text['2xs'], color: signal.value > (stateAverage ?? 3) ? colors.success : '#92400e',
+                  fontWeight: 500,
+                }}>
+                  {contextLabel}
+                </span>
+              )}
+              <span style={{
+                fontSize: text.sm,
+                fontWeight: noData ? 400 : 600,
+                color: noData ? colors.textMuted : signal.count < 3 ? '#92400e' : colors.textSecondary,
+                fontStyle: noData ? 'italic' : 'normal',
+                ...(signal.count > 0 && signal.count < 3 ? {
+                  background: '#fffbeb', padding: '1px 8px', borderRadius: 6, border: '1px solid #fde68a',
+                } : {}),
+              }}>
+                {noData ? 'No ratings yet' : signal.count < 3
+                  ? `Early — ${signal.count} rating${signal.count !== 1 ? 's' : ''}`
+                  : `Based on ${signal.count} rating${signal.count !== 1 ? 's' : ''}`
+                }
+              </span>
+            </div>
             <span style={{ fontSize: text['2xs'], color: colors.textMuted }}>{meta.highLabel} →</span>
           </div>
           {meta.info && (

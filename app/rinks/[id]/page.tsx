@@ -26,11 +26,15 @@ import type { Signal } from '../../../lib/rinkTypes';
 function ReturnRatingPrompt({
   rinkId,
   rinkName,
+  rinkAddress,
+  contributionCount,
   onDismiss,
   onSummaryUpdate
 }: {
   rinkId: string;
   rinkName: string;
+  rinkAddress: string;
+  contributionCount: number;
   onDismiss: () => void;
   onSummaryUpdate: (s: RinkSummary) => void;
 }) {
@@ -85,6 +89,7 @@ function ReturnRatingPrompt({
       tip: { text: tipText.trim() },
     });
     if (data?.summary) onSummaryUpdate(data.summary);
+    storage.addMyTip(rinkId, tipText.trim());
     setTipMode(false);
     setDone(true);
   }
@@ -102,27 +107,49 @@ function ReturnRatingPrompt({
   }
 
   if (done) {
+    function handleShare() {
+      const url = window.location.href;
+      const shareText = `${rinkName}\n📍 ${rinkAddress}\nRink info from hockey parents: ${url}`;
+      if (typeof navigator.share === 'function') {
+        navigator.share({ title: `${rinkName} — ColdStart Hockey`, text: shareText, url }).catch(() => {});
+      } else {
+        navigator.clipboard.writeText(shareText).catch(() => {});
+      }
+    }
+
     return (
       <section style={{
         background: `linear-gradient(135deg, ${colors.bgSuccess} 0%, ${colors.bgSuccess} 100%)`,
         border: `1px solid ${colors.successBorder}`,
         borderRadius: 14, padding: '18px 20px', marginTop: 16,
       }}>
-        <div style={{ display: 'flex', alignItems: 'center', justifyContent: 'space-between' }}>
-          <div>
-            <p style={{ fontSize: 15, fontWeight: 700, color: colors.success, margin: 0 }}>
-              Thanks! You rated {totalRated} signal{totalRated !== 1 ? 's' : ''}.
-            </p>
-            <p style={{ fontSize: 12, color: colors.textTertiary, marginTop: 3, margin: '3px 0 0' }}>
-              The next family will see your intel.
-            </p>
-          </div>
+        <p style={{ fontSize: 15, fontWeight: 700, color: colors.success, margin: 0 }}>
+          Thanks! You rated {totalRated} signal{totalRated !== 1 ? 's' : ''}.
+        </p>
+        <p style={{ fontSize: 12, color: colors.textTertiary, marginTop: 3, margin: '3px 0 0' }}>
+          {contributionCount > 1
+            ? `You're one of ${contributionCount} parents helping families headed to ${rinkName}.`
+            : `You're the first parent to rate ${rinkName} — the next family will see your intel.`
+          }
+        </p>
+        <div style={{ display: 'flex', gap: 8, marginTop: 12 }}>
+          <button
+            onClick={handleShare}
+            style={{
+              flex: 1, fontSize: 13, fontWeight: 600,
+              color: colors.white, background: colors.success,
+              border: 'none', borderRadius: 8,
+              padding: '10px 16px', cursor: 'pointer',
+            }}
+          >
+            📤 Share this rink with your team
+          </button>
           <button
             onClick={handleFinish}
             style={{
-              fontSize: 12, fontWeight: 600, color: colors.success,
+              fontSize: 13, fontWeight: 600, color: colors.success,
               background: colors.white, border: `1px solid ${colors.successBorder}`,
-              borderRadius: 8, padding: '6px 14px', cursor: 'pointer',
+              borderRadius: 8, padding: '10px 16px', cursor: 'pointer',
             }}
           >
             Done
@@ -775,6 +802,8 @@ export default function RinkPage() {
           <ReturnRatingPrompt
             rinkId={rinkId}
             rinkName={rink.name}
+            rinkAddress={`${rink.address}, ${rink.city}, ${rink.state}`}
+            contributionCount={summary.contribution_count}
             onDismiss={() => setShowReturnPrompt(false)}
             onSummaryUpdate={handleSummaryUpdate}
           />

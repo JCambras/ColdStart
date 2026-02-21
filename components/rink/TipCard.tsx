@@ -13,6 +13,13 @@ export function TipCard({ tip, tipIndex, rinkSlug }: { tip: Tip; tipIndex: numbe
   const isLocal = tip.contributor_type === 'local_parent';
   const response = MANAGER_RESPONSES[rinkSlug]?.[tipIndex];
   const [expanded, setExpanded] = useState(false);
+  const [isMyTip, setIsMyTip] = useState(false);
+
+  useEffect(() => {
+    const myTips = storage.getMyTips();
+    const match = myTips.some(t => t.text === tip.text);
+    setIsMyTip(match);
+  }, [tip.text]);
 
   const [userVote, setUserVote] = useState<'up' | 'down' | null>(null);
   const [score, setScore] = useState(0);
@@ -127,14 +134,25 @@ export function TipCard({ tip, tipIndex, rinkSlug }: { tip: Tip; tipIndex: numbe
                 &ldquo;{tip.text}&rdquo;
               </p>
               {!expanded && (
-                <span style={{
-                  fontSize: text['2xs'], fontWeight: 500, padding: '1px 6px',
-                  borderRadius: 6, display: 'inline-block', marginTop: 4,
-                  background: isLocal ? colors.indigoBg : colors.purpleBg,
-                  color: isLocal ? '#2563eb' : colors.purple,
-                }}>
-                  {isLocal ? 'Local' : 'Visitor'}
-                </span>
+                <div style={{ display: 'flex', alignItems: 'center', gap: 4, marginTop: 4 }}>
+                  <span style={{
+                    fontSize: text['2xs'], fontWeight: 500, padding: '1px 6px',
+                    borderRadius: 6, display: 'inline-block',
+                    background: isLocal ? colors.indigoBg : colors.purpleBg,
+                    color: isLocal ? '#2563eb' : colors.purple,
+                  }}>
+                    {isLocal ? 'Local' : 'Visitor'}
+                  </span>
+                  {isMyTip && (
+                    <span style={{
+                      fontSize: text['2xs'], fontWeight: 600, padding: '1px 6px',
+                      borderRadius: 6, display: 'inline-block',
+                      background: colors.bgSuccess, color: colors.success,
+                    }}>
+                      Your tip
+                    </span>
+                  )}
+                </div>
               )}
             </div>
             <div style={{ display: 'flex', alignItems: 'center', gap: 4, flexShrink: 0 }}>
@@ -150,7 +168,7 @@ export function TipCard({ tip, tipIndex, rinkSlug }: { tip: Tip; tipIndex: numbe
           </div>
           {expanded && (
             <div style={{ marginTop: 8, paddingTop: 8, borderTop: `1px solid ${colors.borderLight}` }}>
-              <div style={{ display: 'flex', gap: 8, alignItems: 'center' }}>
+              <div style={{ display: 'flex', gap: 8, alignItems: 'center', flexWrap: 'wrap' }}>
                 <span style={{
                   fontSize: text['2xs'], fontWeight: 500, padding: '2px 8px',
                   borderRadius: radius.lg,
@@ -159,6 +177,15 @@ export function TipCard({ tip, tipIndex, rinkSlug }: { tip: Tip; tipIndex: numbe
                 }}>
                   {isLocal ? 'Plays here regularly' : 'Visiting parent'}
                 </span>
+                {isMyTip && (
+                  <span style={{
+                    fontSize: text['2xs'], fontWeight: 600, padding: '2px 8px',
+                    borderRadius: radius.lg,
+                    background: colors.bgSuccess, color: colors.success,
+                  }}>
+                    Your tip
+                  </span>
+                )}
                 <span style={{ fontSize: text['2xs'], color: colors.textMuted }}>{timeAgo(tip.created_at)}</span>
               </div>
               {response && (
