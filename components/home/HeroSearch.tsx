@@ -230,7 +230,7 @@ export function HeroSearch({
             onKeyDown={(e) => { if (e.key === 'Enter' && onSearchSubmit) onSearchSubmit(); }}
             onFocus={() => setFocused(true)}
             onBlur={() => setFocused(false)}
-            placeholder="Search by rink name or city..."
+            placeholder="Search by rink or city"
             aria-label="Search rinks"
             style={{
               width: '100%', padding: '14px 120px 14px 48px',
