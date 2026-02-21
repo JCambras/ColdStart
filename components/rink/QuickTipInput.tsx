@@ -17,6 +17,7 @@ export function QuickTipInput({ rinkId, onSummaryUpdate }: QuickTipInputProps) {
   const [text, setText] = useState('');
   const [submitting, setSubmitting] = useState(false);
   const [success, setSuccess] = useState(false);
+  const [error, setError] = useState(false);
   const pendingSubmitRef = useRef<string | null>(null);
 
   useEffect(() => {
@@ -30,16 +31,21 @@ export function QuickTipInput({ rinkId, onSummaryUpdate }: QuickTipInputProps) {
 
   async function submitWithText(tipText: string) {
     if (!tipText.trim()) return;
+    setError(false);
     setSubmitting(true);
-    const contributorType = storage.getContributorType();
-    const { data } = await apiPost<{ summary?: RinkSummary }>('/contributions', {
-      rink_id: rinkId, kind: 'one_thing_tip', contributor_type: contributorType,
-      one_thing_tip: { text: tipText.trim() },
-    });
-    if (data?.summary) onSummaryUpdate(data.summary);
-    setText('');
-    setSuccess(true);
-    setTimeout(() => setSuccess(false), 2000);
+    try {
+      const contributorType = storage.getContributorType();
+      const { data } = await apiPost<{ summary?: RinkSummary }>('/contributions', {
+        rink_id: rinkId, kind: 'one_thing_tip', contributor_type: contributorType,
+        one_thing_tip: { text: tipText.trim() },
+      });
+      if (data?.summary) onSummaryUpdate(data.summary);
+      setText('');
+      setSuccess(true);
+      setTimeout(() => setSuccess(false), 2000);
+    } catch {
+      setError(true);
+    }
     setSubmitting(false);
   }
 
@@ -63,6 +69,12 @@ export function QuickTipInput({ rinkId, onSummaryUpdate }: QuickTipInputProps) {
   }
 
   return (
+    <div style={{ display: 'flex', flexDirection: 'column', gap: 6 }}>
+      {error && (
+        <div style={{ fontSize: 11, color: colors.error }}>
+          Couldn&apos;t save — try again
+        </div>
+      )}
     <div style={{ display: 'flex', gap: 10, alignItems: 'center' }}>
       <span style={{ fontSize: 18, flexShrink: 0 }}>💬</span>
       <input
@@ -95,6 +107,7 @@ export function QuickTipInput({ rinkId, onSummaryUpdate }: QuickTipInputProps) {
       >
         Add
       </button>
+    </div>
     </div>
   );
 }

@@ -730,20 +730,8 @@ export default function RinkPage() {
                 )}
               </div>
 
-              {/* Compare + Plan trip stacked on the right */}
+              {/* Plan trip on the right */}
               <div style={{ display: 'flex', flexDirection: 'column', gap: 6 }}>
-                <button
-                  onClick={() => router.push(`/compare?rinks=${rinkId}`)}
-                  style={{
-                    fontSize: 12, fontWeight: 600,
-                    color: colors.textTertiary, background: colors.bgSubtle,
-                    border: `1px solid ${colors.borderDefault}`,
-                    borderRadius: 8, padding: '6px 14px', cursor: 'pointer',
-                    display: 'flex', alignItems: 'center', gap: 4,
-                  }}
-                >
-                  ⚖️ Compare
-                </button>
                 <button
                   onClick={() => router.push(`/trip/new?rink=${rinkId}`)}
                   style={{

@@ -27,24 +27,30 @@ export function QuickVoteRow({ rinkId, onSummaryUpdate, onRatedCountChange }: Qu
   const [ratings, setRatings] = useState<Record<string, number>>({});
   const [submitting, setSubmitting] = useState<string | null>(null);
   const [submitted, setSubmitted] = useState<Set<string>>(new Set());
+  const [error, setError] = useState<string | null>(null);
 
   async function submitRating(signal: SignalType, value: number) {
+    setError(null);
     // Update local selection immediately
     setRatings(prev => ({ ...prev, [signal]: value }));
 
     // If already submitted this signal, allow re-rating
     setSubmitting(signal);
-    const contributorType = storage.getContributorType();
-    const { data } = await apiPost<{ summary?: RinkSummary }>('/contributions', {
-      rink_id: rinkId, kind: 'signal_rating', contributor_type: contributorType,
-      signal_rating: { signal, value },
-    });
-    if (data?.summary) onSummaryUpdate(data.summary);
-    setSubmitted(prev => {
-      const next = new Set(prev).add(signal);
-      onRatedCountChange?.(next.size);
-      return next;
-    });
+    try {
+      const contributorType = storage.getContributorType();
+      const { data } = await apiPost<{ summary?: RinkSummary }>('/contributions', {
+        rink_id: rinkId, kind: 'signal_rating', contributor_type: contributorType,
+        signal_rating: { signal, value },
+      });
+      if (data?.summary) onSummaryUpdate(data.summary);
+      setSubmitted(prev => {
+        const next = new Set(prev).add(signal);
+        onRatedCountChange?.(next.size);
+        return next;
+      });
+    } catch {
+      setError(signal);
+    }
     setSubmitting(null);
   }
 
@@ -56,58 +62,65 @@ export function QuickVoteRow({ rinkId, onSummaryUpdate, onRatedCountChange }: Qu
         const done = submitted.has(s.key);
         const busy = submitting === s.key;
         return (
-          <div key={s.key} style={{ display: 'flex', alignItems: 'center', gap: 10 }}>
-            {/* Label */}
-            <div style={{
-              width: 72, flexShrink: 0,
-              display: 'flex', alignItems: 'center', gap: 5,
-            }}>
-              <span style={{ fontSize: 15 }}>{s.icon}</span>
-              <span style={{
-                fontSize: 11, fontWeight: 600,
-                color: done ? colors.success : colors.textSecondary,
+          <div key={s.key}>
+            <div style={{ display: 'flex', alignItems: 'center', gap: 10 }}>
+              {/* Label */}
+              <div style={{
+                width: 72, flexShrink: 0,
+                display: 'flex', alignItems: 'center', gap: 5,
               }}>
-                {s.label}
-              </span>
-            </div>
-
-            {/* 1-5 buttons with per-signal scale labels */}
-            <div style={{ flex: 1 }}>
-              <div style={{ display: 'flex', gap: 4 }} role="group" aria-label={`Rate ${s.label} from 1 to 5`}>
-                {[1, 2, 3, 4, 5].map(v => {
-                  const isSelected = selected === v;
-                  return (
-                    <button
-                      key={v}
-                      onClick={() => submitRating(s.key, v)}
-                      disabled={busy}
-                      aria-label={`Rate ${s.label} ${v} out of 5`}
-                      style={{
-                        flex: 1, height: 44, borderRadius: 8,
-                        border: `1.5px solid ${isSelected ? colors.brand : colors.borderDefault}`,
-                        background: isSelected ? colors.brand : colors.white,
-                        color: isSelected ? colors.white : colors.textSecondary,
-                        fontSize: 14, fontWeight: 700,
-                        cursor: busy ? 'wait' : 'pointer',
-                        transition: 'all 0.12s',
-                        opacity: busy && !isSelected ? 0.5 : 1,
-                      }}
-                    >
-                      {v}
-                    </button>
-                  );
-                })}
+                <span style={{ fontSize: 15 }}>{s.icon}</span>
+                <span style={{
+                  fontSize: 11, fontWeight: 600,
+                  color: done ? colors.success : colors.textSecondary,
+                }}>
+                  {s.label}
+                </span>
               </div>
-              <div style={{ display: 'flex', justifyContent: 'space-between', paddingTop: 2 }}>
-                <span style={{ fontSize: 9, color: colors.textMuted }}>{meta?.lowLabel || 'Low'}</span>
-                <span style={{ fontSize: 9, color: colors.textMuted }}>{meta?.highLabel || 'High'}</span>
+
+              {/* 1-5 buttons with per-signal scale labels */}
+              <div style={{ flex: 1 }}>
+                <div style={{ display: 'flex', gap: 4 }} role="group" aria-label={`Rate ${s.label} from 1 to 5`}>
+                  {[1, 2, 3, 4, 5].map(v => {
+                    const isSelected = selected === v;
+                    return (
+                      <button
+                        key={v}
+                        onClick={() => submitRating(s.key, v)}
+                        disabled={busy}
+                        aria-label={`Rate ${s.label} ${v} out of 5`}
+                        style={{
+                          flex: 1, height: 44, borderRadius: 8,
+                          border: `1.5px solid ${isSelected ? colors.brand : colors.borderDefault}`,
+                          background: isSelected ? colors.brand : colors.white,
+                          color: isSelected ? colors.white : colors.textSecondary,
+                          fontSize: 14, fontWeight: 700,
+                          cursor: busy ? 'wait' : 'pointer',
+                          transition: 'all 0.12s',
+                          opacity: busy && !isSelected ? 0.5 : 1,
+                        }}
+                      >
+                        {v}
+                      </button>
+                    );
+                  })}
+                </div>
+                <div style={{ display: 'flex', justifyContent: 'space-between', paddingTop: 2 }}>
+                  <span style={{ fontSize: 9, color: colors.textMuted }}>{meta?.lowLabel || 'Low'}</span>
+                  <span style={{ fontSize: 9, color: colors.textMuted }}>{meta?.highLabel || 'High'}</span>
+                </div>
+              </div>
+
+              {/* Done check */}
+              <div style={{ width: 18, flexShrink: 0, textAlign: 'center' }}>
+                {done && <span style={{ fontSize: 13, color: colors.success }}>✓</span>}
               </div>
             </div>
-
-            {/* Done check */}
-            <div style={{ width: 18, flexShrink: 0, textAlign: 'center' }}>
-              {done && <span style={{ fontSize: 13, color: colors.success }}>✓</span>}
-            </div>
+            {error === s.key && (
+              <div style={{ fontSize: 11, color: colors.error, paddingLeft: 82, marginTop: 2 }}>
+                Couldn&apos;t save — tap to retry
+              </div>
+            )}
           </div>
         );
       })}

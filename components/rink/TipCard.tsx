@@ -199,7 +199,7 @@ export function TipCard({ tip, tipIndex, rinkSlug }: { tip: Tip; tipIndex: numbe
                 </button>
                 {showFlagConfirm && (
                   <span style={{ fontSize: text['2xs'], color: colors.success, fontWeight: 500 }}>
-                    Flagged for review — thank you.
+                    Thanks for the feedback.
                   </span>
                 )}
               </div>
