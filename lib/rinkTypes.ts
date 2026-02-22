@@ -5,6 +5,7 @@ export interface Signal {
   value: number;
   confidence: number;
   count: number;
+  stddev?: number;
 }
 
 export interface Tip {

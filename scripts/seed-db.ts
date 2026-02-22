@@ -135,6 +135,7 @@ async function run() {
       CREATE INDEX IF NOT EXISTS idx_signal_ratings_rink ON signal_ratings(rink_id);
       CREATE INDEX IF NOT EXISTS idx_signal_ratings_rink_signal ON signal_ratings(rink_id, signal);
       CREATE INDEX IF NOT EXISTS idx_signal_ratings_user ON signal_ratings(user_id);
+      CREATE UNIQUE INDEX IF NOT EXISTS idx_signal_ratings_user_unique ON signal_ratings(rink_id, signal, user_id) WHERE user_id IS NOT NULL;
       CREATE INDEX IF NOT EXISTS idx_tips_rink ON tips(rink_id);
       CREATE INDEX IF NOT EXISTS idx_tips_user ON tips(user_id);
       CREATE INDEX IF NOT EXISTS idx_tip_flags_tip ON tip_flags(tip_id);

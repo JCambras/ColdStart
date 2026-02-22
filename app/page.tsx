@@ -183,7 +183,7 @@ export default function HomePage() {
           const rinks = raw as RinkData[];
           return rinks.filter((r) =>
             r.name?.toLowerCase().includes(q) || r.city?.toLowerCase().includes(q) || r.state?.toLowerCase().includes(q)
-          ).slice(0, 10);
+          ).slice(0, 25);
         },
       });
       if (!controller.signal.aborted) {

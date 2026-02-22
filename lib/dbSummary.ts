@@ -6,7 +6,7 @@ import { computeVerdict, computeConfidence } from './verdict';
 export async function buildSummary(rinkId: string): Promise<RinkSummary> {
   const [signalResult, tipResult] = await Promise.all([
     pool.query(
-      `SELECT signal, AVG(value) AS value, COUNT(*)::int AS count
+      `SELECT signal, AVG(value) AS value, COUNT(*)::int AS count, STDDEV_POP(value) AS stddev
        FROM signal_ratings WHERE rink_id = $1 GROUP BY signal`,
       [rinkId]
     ),
@@ -30,14 +30,16 @@ export async function buildSummary(rinkId: string): Promise<RinkSummary> {
     if (row) {
       const avg = parseFloat(row.value);
       const count = row.count;
+      const stddev = row.stddev ? Math.round(parseFloat(row.stddev) * 100) / 100 : 0;
       return {
         signal: key,
         value: Math.round(avg * 10) / 10,
         count,
         confidence: computeConfidence(count),
+        stddev,
       };
     }
-    return { signal: key, value: 0, count: 0, confidence: 0 };
+    return { signal: key, value: 0, count: 0, confidence: 0, stddev: 0 };
   });
 
   const tips: Tip[] = tipResult.rows.map((r: {

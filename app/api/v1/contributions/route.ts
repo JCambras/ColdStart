@@ -47,15 +47,21 @@ export async function POST(request: NextRequest) {
       const client = await pool.connect();
       try {
         await client.query('BEGIN');
-        await client.query(
+        const upsertResult = await client.query(
           `INSERT INTO signal_ratings (rink_id, signal, value, contributor_type, context, user_id)
-           VALUES ($1, $2, $3, $4, $5, $6)`,
+           VALUES ($1, $2, $3, $4, $5, $6)
+           ON CONFLICT (rink_id, signal, user_id) WHERE user_id IS NOT NULL
+           DO UPDATE SET value = EXCLUDED.value, contributor_type = EXCLUDED.contributor_type, context = EXCLUDED.context, created_at = NOW()
+           RETURNING (xmax = 0) AS is_new`,
           [rink_id, signal_rating.signal, value, contributor_type || 'visiting_parent', context || null, user_id]
         );
-        await client.query(
-          `UPDATE users SET "rinksRated" = COALESCE("rinksRated", 0) + 1 WHERE id = $1`,
-          [user_id]
-        );
+        const isNew = upsertResult.rows[0]?.is_new;
+        if (isNew) {
+          await client.query(
+            `UPDATE users SET "rinksRated" = COALESCE("rinksRated", 0) + 1 WHERE id = $1`,
+            [user_id]
+          );
+        }
         await client.query('COMMIT');
       } catch (txErr) {
         await client.query('ROLLBACK');

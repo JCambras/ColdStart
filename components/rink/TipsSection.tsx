@@ -13,10 +13,14 @@ interface TipsSectionProps {
 export function TipsSection({ tips, rinkSlug }: TipsSectionProps) {
   const [showAll, setShowAll] = useState(false);
   const [filterTournament, setFilterTournament] = useState(false);
+  const [sortBy, setSortBy] = useState<'helpful' | 'newest'>('helpful');
 
   const tournamentCount = tips.filter(t => t.context === 'tournament').length;
   const filteredTips = filterTournament ? tips.filter(t => t.context === 'tournament') : tips;
-  const displayTips = showAll ? filteredTips : filteredTips.slice(0, 3);
+  const sortedTips = sortBy === 'newest'
+    ? [...filteredTips].sort((a, b) => new Date(b.created_at).getTime() - new Date(a.created_at).getTime())
+    : filteredTips;
+  const displayTips = showAll ? sortedTips : sortedTips.slice(0, 3);
 
   return (
     <section id="tips-section" aria-label="Tips from parents" style={{ marginTop: 24 }}>
@@ -45,7 +49,16 @@ export function TipsSection({ tips, rinkSlug }: TipsSectionProps) {
             </button>
           )}
           {tips.length > 0 && (
-            <span style={{ fontSize: 11, color: colors.textMuted }}>Sorted by most helpful</span>
+            <button
+              onClick={() => setSortBy(sortBy === 'helpful' ? 'newest' : 'helpful')}
+              style={{
+                fontSize: 11, color: colors.textMuted, background: 'none',
+                border: 'none', cursor: 'pointer', padding: 0,
+                textDecoration: 'underline', textUnderlineOffset: 2,
+              }}
+            >
+              {sortBy === 'helpful' ? 'Newest' : 'Most helpful'}
+            </button>
           )}
         </div>
       </div>
@@ -63,7 +76,7 @@ export function TipsSection({ tips, rinkSlug }: TipsSectionProps) {
           {displayTips.map((tip, i) => (
             <TipCard key={i} tip={tip} tipIndex={i} rinkSlug={rinkSlug} />
           ))}
-          {filteredTips.length > 3 && !showAll && (
+          {sortedTips.length > 3 && !showAll && (
             <button
               onClick={() => setShowAll(true)}
               style={{
@@ -72,7 +85,7 @@ export function TipsSection({ tips, rinkSlug }: TipsSectionProps) {
                 fontWeight: 500,
               }}
             >
-              Show {filteredTips.length - 3} more tips →
+              Show {sortedTips.length - 3} more tips →
             </button>
           )}
         </>

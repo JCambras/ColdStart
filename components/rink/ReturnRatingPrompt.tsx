@@ -47,7 +47,7 @@ export function ReturnRatingPrompt({
     const { data } = await apiPost<{ summary?: RinkSummary }>('/contributions', {
       rink_id: rinkId,
       kind: 'signal_rating',
-      contributor_type: 'visiting_parent',
+      contributor_type: storage.getContributorType(),
       context: storage.getRatingContext(),
       signal_rating: { signal, value },
       user_id: currentUser?.id,
@@ -68,7 +68,7 @@ export function ReturnRatingPrompt({
     const { data } = await apiPost<{ summary?: RinkSummary }>('/contributions', {
       rink_id: rinkId,
       kind: 'tip',
-      contributor_type: 'visiting_parent',
+      contributor_type: storage.getContributorType(),
       context: storage.getRatingContext(),
       tip: { text: tipText.trim() },
       user_id: currentUser?.id,

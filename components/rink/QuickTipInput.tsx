@@ -109,6 +109,11 @@ export function QuickTipInput({ rinkId, onSummaryUpdate }: QuickTipInputProps) {
         Add
       </button>
     </div>
+    {text.length > 0 && (
+      <div style={{ display: 'flex', justifyContent: 'flex-end' }}>
+        <span style={{ fontSize: 11, color: text.length > 240 ? colors.amber : colors.textMuted, fontWeight: text.length > 260 ? 600 : 400 }}>{text.length}/280</span>
+      </div>
+    )}
     </div>
   );
 }

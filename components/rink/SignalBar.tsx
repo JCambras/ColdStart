@@ -25,6 +25,7 @@ export function SignalBar({ signal, rinkSlug, stateAverage }: { signal: Signal; 
   const color = noData ? colors.textMuted : getBarColor(signal.value, signal.count);
   const [expanded, setExpanded] = useState(false);
   const facilityDetail = FACILITY_DETAILS[rinkSlug]?.[signal.signal];
+  const highVariance = !noData && signal.count >= 3 && (signal.stddev ?? 0) > 1.5;
 
   // Compute contextual label comparing to state average
   const contextLabel = (() => {
@@ -90,6 +91,14 @@ export function SignalBar({ signal, rinkSlug, stateAverage }: { signal: Signal; 
                 fontWeight: 500,
               }}>
                 {contextLabel}
+              </span>
+            )}
+            {highVariance && (
+              <span style={{
+                fontSize: text['2xs'], fontWeight: 600, padding: '1px 8px', borderRadius: 6,
+                background: colors.bgWarning, color: '#92400e', border: '1px solid #fde68a',
+              }}>
+                Parents are split
               </span>
             )}
             <span style={{
