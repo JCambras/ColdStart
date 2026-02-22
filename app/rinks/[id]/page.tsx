@@ -272,7 +272,22 @@ export default function RinkPage() {
         if (navigator.share) {
           navigator.share({ title: `${rink.name} — ColdStart Hockey`, text: shareText, url }).catch(() => {});
         } else {
-          navigator.clipboard.writeText(shareText).then(() => { setShareCopied(true); setTimeout(() => setShareCopied(false), 2000); }).catch(() => {});
+          const copyToClipboard = (t: string) => {
+            if (navigator.clipboard?.writeText) {
+              return navigator.clipboard.writeText(t);
+            }
+            // Fallback for older browsers / HTTP contexts
+            const textarea = document.createElement('textarea');
+            textarea.value = t;
+            textarea.style.position = 'fixed';
+            textarea.style.opacity = '0';
+            document.body.appendChild(textarea);
+            textarea.select();
+            document.execCommand('copy');
+            document.body.removeChild(textarea);
+            return Promise.resolve();
+          };
+          copyToClipboard(shareText).then(() => { setShareCopied(true); setTimeout(() => setShareCopied(false), 2000); }).catch(() => {});
         }
       }}
       style={{

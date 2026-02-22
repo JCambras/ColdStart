@@ -23,7 +23,9 @@ export function BackButton({ href, label = '← Back' }: BackButtonProps) {
         background: colors.white,
         border: `1px solid ${colors.borderDefault}`,
         borderRadius: radius.md,
-        padding: '6px 14px',
+        padding: '10px 14px',
+        minHeight: 44,
+        minWidth: 44,
         cursor: 'pointer',
       }}
     >

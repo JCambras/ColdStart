@@ -98,7 +98,7 @@ export function ReturnRatingPrompt({
       if (typeof navigator.share === 'function') {
         navigator.share({ title: `${rinkName} — ColdStart Hockey`, text: shareText, url }).catch(() => {});
       } else {
-        navigator.clipboard.writeText(shareText).catch(() => {});
+        if (navigator.clipboard?.writeText) { navigator.clipboard.writeText(shareText).catch(() => {}); } else { const ta = document.createElement('textarea'); ta.value = shareText; ta.style.position = 'fixed'; ta.style.opacity = '0'; document.body.appendChild(ta); ta.select(); document.execCommand('copy'); document.body.removeChild(ta); }
       }
     }
 

@@ -136,7 +136,8 @@ export default function FieldPage() {
                 if (navigator.share) {
                   navigator.share({ title: `${field.name} — ColdStart Baseball`, text: shareText, url }).catch(() => {});
                 } else {
-                  navigator.clipboard.writeText(shareText).then(() => { setShareCopied(true); setTimeout(() => setShareCopied(false), 2000); }).catch(() => {});
+                  const fallbackCopy = (t: string) => { if (navigator.clipboard?.writeText) return navigator.clipboard.writeText(t); const ta = document.createElement('textarea'); ta.value = t; ta.style.position = 'fixed'; ta.style.opacity = '0'; document.body.appendChild(ta); ta.select(); document.execCommand('copy'); document.body.removeChild(ta); return Promise.resolve(); };
+                  fallbackCopy(shareText).then(() => { setShareCopied(true); setTimeout(() => setShareCopied(false), 2000); }).catch(() => {});
                 }
               }}
               style={{

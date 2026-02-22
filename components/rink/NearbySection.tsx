@@ -467,6 +467,9 @@ export function NearbySection({ title, icon, categories, rinkSlug, fanFavorites 
     return entries;
   }
 
+  const totalPlaces = categories.reduce((sum, cat) => sum + cat.places.length, 0);
+  if (totalPlaces === 0 && !fanFavorites) return null;
+
   return (
     <section style={{ marginTop: 24 }}>
       <h3 style={{

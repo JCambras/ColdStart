@@ -1,7 +1,7 @@
 'use client';
 
 import { useState, useEffect, useRef } from 'react';
-import { useRouter } from 'next/navigation';
+import { useRouter, useSearchParams } from 'next/navigation';
 import { apiGet } from '../lib/api';
 import { storage } from '../lib/storage';
 import { LoadingSkeleton } from '../components/LoadingSkeleton';
@@ -33,8 +33,9 @@ const FEATURED_SEARCHES = [
 // ── Main page ──
 export default function HomePage() {
   const router = useRouter();
+  const searchParams = useSearchParams();
   const { currentUser, isLoggedIn, openAuth } = useAuth();
-  const [query, setQuery] = useState('');
+  const [query, setQuery] = useState(searchParams.get('q') || '');
   const [rinks, setRinks] = useState<RinkData[]>([]);
   const [searchResults, setSearchResults] = useState<RinkData[] | null>(null);
   const [totalRinks, setTotalRinks] = useState(0);
@@ -106,6 +107,17 @@ export default function HomePage() {
     loadSaved();
   }, [savedRinkIds]);
 
+  // Sync search query to URL params (enables back-button restore)
+  useEffect(() => {
+    const url = new URL(window.location.href);
+    if (query.trim()) {
+      url.searchParams.set('q', query);
+    } else {
+      url.searchParams.delete('q');
+    }
+    window.history.replaceState({}, '', url.toString());
+  }, [query]);
+
   // Auto-focus search on desktop
   useEffect(() => {
     if (window.innerWidth > 768) {
@@ -169,7 +181,7 @@ export default function HomePage() {
 
   // Search with debounce + AbortController to prevent stale results
   useEffect(() => {
-    if (!query.trim()) {
+    if (!query.trim() || query.trim().length < 2) {
       setSearchResults(null);
       return;
     }
