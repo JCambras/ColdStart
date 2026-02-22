@@ -366,8 +366,8 @@ export function NearbySection({ title, icon, categories, rinkSlug, fanFavorites 
         if (saved.vote !== null || saved.score !== 0) {
           votes[key] = saved;
         } else {
-          // Seed default scores
-          const seeded = j === 0 ? 5 : j === 1 ? 3 : Math.floor(Math.random() * 3) + 1;
+          // Seed deterministic scores based on position
+          const seeded = j === 0 ? 5 : j === 1 ? 3 : Math.max(1, 3 - j);
           votes[key] = { vote: null, score: seeded };
         }
       });

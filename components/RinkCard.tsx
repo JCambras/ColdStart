@@ -3,7 +3,7 @@
 import { useState, useEffect } from 'react';
 import { SIGNAL_LABELS } from '../lib/constants';
 import { getBarColor, getRinkPhoto } from '../lib/rinkHelpers';
-import { colors, text } from '../lib/theme';
+import { colors, text, shadow } from '../lib/theme';
 
 interface Signal {
   signal: string;
@@ -168,7 +168,7 @@ export function RinkCard({ rink, onClick }: { rink: RinkData; onClick: () => voi
         transform: hovered ? 'translateY(-3px)' : 'none',
         boxShadow: hovered
           ? '0 20px 40px rgba(0,0,0,0.08), 0 0 0 1px rgba(14,165,233,0.12)'
-          : '0 1px 3px rgba(0,0,0,0.04)',
+          : shadow.sm,
         overflow: 'hidden',
         display: 'flex',
         flexDirection: isMobile ? 'column' : 'row',

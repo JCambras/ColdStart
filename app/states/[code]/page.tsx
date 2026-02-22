@@ -6,7 +6,7 @@ import { US_STATES, SIGNAL_ICONS } from '../../../lib/constants';
 import { seedGet } from '../../../lib/api';
 import { PageShell } from '../../../components/PageShell';
 import { LoadingSkeleton } from '../../../components/LoadingSkeleton';
-import { colors, text, radius } from '../../../lib/theme';
+import { colors, text, radius, shadow } from '../../../lib/theme';
 
 interface SeedRink {
   id: string;
@@ -134,7 +134,7 @@ export default function StatePage() {
                   }}
                   onMouseEnter={(e) => {
                     e.currentTarget.style.borderColor = colors.brandLight;
-                    e.currentTarget.style.boxShadow = '0 4px 12px rgba(0,0,0,0.06)';
+                    e.currentTarget.style.boxShadow = shadow.lg;
                   }}
                   onMouseLeave={(e) => {
                     e.currentTarget.style.borderColor = colors.borderDefault;

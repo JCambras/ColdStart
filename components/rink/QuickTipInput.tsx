@@ -20,14 +20,17 @@ export function QuickTipInput({ rinkId, onSummaryUpdate }: QuickTipInputProps) {
   const [error, setError] = useState(false);
   const pendingSubmitRef = useRef<string | null>(null);
 
+  const submitWithTextRef = useRef(submitWithText);
+  submitWithTextRef.current = submitWithText;
+
   useEffect(() => {
     if (isLoggedIn && pendingSubmitRef.current) {
       const pendingText = pendingSubmitRef.current;
       pendingSubmitRef.current = null;
       setText(pendingText);
-      setTimeout(() => submitWithText(pendingText), 0);
+      setTimeout(() => submitWithTextRef.current(pendingText), 0);
     }
-  }, [isLoggedIn]); // eslint-disable-line react-hooks/exhaustive-deps
+  }, [isLoggedIn]);
 
   async function submitWithText(tipText: string) {
     if (!tipText.trim()) return;

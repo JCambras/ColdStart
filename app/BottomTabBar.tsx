@@ -69,17 +69,20 @@ export default function BottomTabBar() {
         }
       }
       router.push('/');
-      setTimeout(() => {
-        const el = document.getElementById('my-rinks-section');
-        if (el) el.scrollIntoView({ behavior: 'smooth' });
-      }, 300);
+      requestAnimationFrame(() => {
+        const poll = () => {
+          const el = document.getElementById('my-rinks-section');
+          if (el) el.scrollIntoView({ behavior: 'smooth' });
+        };
+        setTimeout(poll, 300);
+      });
       return;
     }
     router.push(tab.path);
   }
 
   return (
-    <nav className="bottom-tab-bar">
+    <nav className="bottom-tab-bar" aria-label="Main navigation">
       {tabs.map((tab) => {
         const active = !tab.disabled && tab.match(pathname);
         const color = tab.disabled ? colors.textDisabled : active ? colors.navy900 : colors.textMuted;
@@ -87,6 +90,8 @@ export default function BottomTabBar() {
           <button
             key={tab.label}
             onClick={() => handleTab(tab)}
+            aria-disabled={tab.disabled || undefined}
+            aria-current={active ? 'page' : undefined}
             style={{
               flex: 1,
               display: 'flex',

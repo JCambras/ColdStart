@@ -3,11 +3,8 @@
  * Outputs JSON lines with consistent fields for log aggregation.
  */
 
-let requestCounter = 0;
-
 export function generateRequestId(): string {
-  requestCounter = (requestCounter + 1) % 1_000_000;
-  return `${Date.now()}-${requestCounter.toString(36)}`;
+  return `${Date.now()}-${crypto.randomUUID().slice(0, 8)}`;
 }
 
 interface LogContext {

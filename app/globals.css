@@ -51,7 +51,7 @@ select {
 
 /* Accessible placeholder contrast (WCAG 4.5:1 on white) */
 ::placeholder {
-  color: #78716c;
+  color: var(--colors-stone500);
   opacity: 1;
 }
 

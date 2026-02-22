@@ -4,7 +4,7 @@ import { useState, useEffect } from 'react';
 import { RinkData } from '../RinkCard';
 import { SIGNAL_LABELS } from '../../lib/constants';
 import { getBarColor, getRinkPhoto } from '../../lib/rinkHelpers';
-import { colors, text, layout } from '../../lib/theme';
+import { colors, text, layout, shadow } from '../../lib/theme';
 
 interface FeaturedRinksGridProps {
   rinks: RinkData[];
@@ -74,7 +74,7 @@ export function FeaturedRinksGrid({ rinks, onRinkClick }: FeaturedRinksGridProps
                 transform: isHovered ? 'translateY(-3px)' : 'none',
                 boxShadow: isHovered
                   ? '0 12px 28px rgba(0,0,0,0.08), 0 0 0 1px rgba(14,165,233,0.12)'
-                  : '0 1px 3px rgba(0,0,0,0.04)',
+                  : shadow.sm,
               }}
             >
               {/* Photo area */}

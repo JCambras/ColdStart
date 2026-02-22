@@ -93,11 +93,11 @@ export const layout = {
 } as const;
 
 export const shadow = {
-  sm: '0 1px 3px rgba(0,0,0,0.04)',
-  md: '0 2px 8px rgba(0,0,0,0.04)',
-  lg: '0 4px 12px rgba(0,0,0,0.06)',
-  xl: '0 20px 25px -5px rgba(0,0,0,0.1), 0 8px 10px -6px rgba(0,0,0,0.1)',
-  focus: '0 0 0 3px rgba(14,165,233,0.1)',
+  sm: 'var(--shadow-sm)',
+  md: 'var(--shadow-md)',
+  lg: 'var(--shadow-lg)',
+  xl: 'var(--shadow-xl)',
+  focus: 'var(--shadow-focus)',
 } as const;
 
 export const transition = {

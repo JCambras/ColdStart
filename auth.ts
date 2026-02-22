@@ -31,6 +31,7 @@ export const { handlers, signIn, signOut, auth } = NextAuth({
         const action = credentials.action as string;
 
         if (!email || !password) return null;
+        if (!/^[^\s@]+@[^\s@]+\.[^\s@]+$/.test(email)) return null;
 
         if (action === 'signup' && password.length < 8) {
           throw new Error('Password must be at least 8 characters');

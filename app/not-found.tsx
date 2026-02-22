@@ -3,7 +3,7 @@
 import { useState } from 'react';
 import { useRouter } from 'next/navigation';
 import { Logo } from '../components/Logo';
-import { colors, text, radius } from '../lib/theme';
+import { colors, text, radius, shadow } from '../lib/theme';
 
 export default function NotFound() {
   const router = useRouter();
@@ -23,7 +23,7 @@ export default function NotFound() {
       <div style={{
         maxWidth: 400, width: '100%', textAlign: 'center', padding: 32,
         background: colors.surface, border: `1px solid ${colors.borderDefault}`, borderRadius: 20,
-        boxShadow: '0 4px 12px rgba(0,0,0,0.04)',
+        boxShadow: shadow.lg,
       }}>
         <div style={{ marginBottom: 16 }}><Logo size={28} /></div>
         <div style={{ fontSize: 36, marginBottom: 12 }}>🏒</div>

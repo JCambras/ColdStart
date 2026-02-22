@@ -2,6 +2,7 @@ import { NextRequest, NextResponse } from 'next/server';
 import { pool } from '../../../../lib/db';
 import { computeVerdict, computeConfidence } from '../../../../lib/verdict';
 import { logger, generateRequestId } from '../../../../lib/logger';
+import { rateLimit } from '../../../../lib/rateLimit';
 
 const TOP_SIGNALS = ['parking', 'cold', 'food_nearby'];
 
@@ -66,6 +67,9 @@ async function enrichWithSummaries(rinks: Record<string, unknown>[]) {
 }
 
 export async function GET(request: NextRequest) {
+  const limited = rateLimit(request, 60, 60_000);
+  if (limited) return limited;
+
   const requestId = generateRequestId();
   const logCtx = { requestId, method: 'GET', path: '/api/v1/rinks' };
 

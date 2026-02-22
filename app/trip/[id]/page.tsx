@@ -9,7 +9,7 @@ import { storage } from '../../../lib/storage';
 import { useAuth } from '../../../contexts/AuthContext';
 import { getBarColor, getBarBg, getBarBorder, getVerdictColor } from '../../../lib/rinkHelpers';
 import { LoadingSkeleton } from '../../../components/LoadingSkeleton';
-import { colors, text, radius } from '../../../lib/theme';
+import { colors, text, radius, shadow } from '../../../lib/theme';
 
 interface Game { id: string; day: string; time: string; opponent: string; sheet: string; note: string; }
 interface CostItem { id: string; label: string; amount: string; splitType: 'per-family' | 'per-player' | 'total'; }
@@ -181,7 +181,7 @@ export default function TripPage() {
             <section style={{
               background: colors.surface, border: `1px solid ${colors.borderDefault}`, borderRadius: 14,
               padding: 20, marginTop: -16, position: 'relative', zIndex: 5,
-              boxShadow: '0 4px 12px rgba(0,0,0,0.06)',
+              boxShadow: shadow.lg,
             }}>
               {/* Address */}
               <div style={{ display: 'flex', alignItems: 'flex-start', gap: 10, marginBottom: 14 }}>
@@ -270,7 +270,7 @@ export default function TripPage() {
 
         {/* ── Post-trip rating prompt ── */}
         {showRatePrompt && !rateSubmitted && (
-          <section style={{ background: colors.bgWarning, border: `1px solid ${colors.warningBorder}`, borderRadius: 14, padding: 16, marginTop: -16, position: 'relative', zIndex: 5, boxShadow: '0 4px 12px rgba(0,0,0,0.04)' }}>
+          <section style={{ background: colors.bgWarning, border: `1px solid ${colors.warningBorder}`, borderRadius: 14, padding: 16, marginTop: -16, position: 'relative', zIndex: 5, boxShadow: shadow.lg }}>
             <div style={{ display: 'flex', alignItems: 'center', justifyContent: 'space-between' }}>
               <div>
                 <div style={{ fontSize: 14, fontWeight: 700, color: colors.amberDark }}>How was {trip.rink.name}?</div>
@@ -289,7 +289,7 @@ export default function TripPage() {
 
         {/* ── Rink Verdict Card ── */}
         {summary && (
-          <section style={{ background: colors.surface, border: `1px solid ${colors.borderDefault}`, borderRadius: 14, padding: 20, marginTop: showRatePrompt && !rateSubmitted ? 12 : -16, position: 'relative', boxShadow: '0 4px 12px rgba(0,0,0,0.04)' }}>
+          <section style={{ background: colors.surface, border: `1px solid ${colors.borderDefault}`, borderRadius: 14, padding: 20, marginTop: showRatePrompt && !rateSubmitted ? 12 : -16, position: 'relative', boxShadow: shadow.lg }}>
             <div style={{ display: 'flex', alignItems: 'center', justifyContent: 'space-between', marginBottom: 12 }}>
               <div>
                 <div style={{ fontSize: 11, fontWeight: 600, color: colors.textMuted, textTransform: 'uppercase', letterSpacing: 1 }}>Rink report</div>

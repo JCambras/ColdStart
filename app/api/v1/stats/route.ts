@@ -1,8 +1,15 @@
-import { NextResponse } from 'next/server';
+import { NextRequest, NextResponse } from 'next/server';
 import { pool } from '../../../../lib/db';
 import { logger, generateRequestId } from '../../../../lib/logger';
+import { requireAuth } from '../../../../lib/apiAuth';
+import { rateLimit } from '../../../../lib/rateLimit';
 
-export async function GET() {
+export async function GET(request: NextRequest) {
+  const limited = rateLimit(request, 10, 60_000);
+  if (limited) return limited;
+
+  const { error: authError } = await requireAuth();
+  if (authError) return authError;
   try {
     const result = await pool.query(`
       WITH rink_stats AS (

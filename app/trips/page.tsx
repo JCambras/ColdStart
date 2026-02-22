@@ -87,7 +87,7 @@ export default function MyTripsPage() {
               const created = new Date(trip.createdAt);
               const dateStr = created.toLocaleDateString('en-US', { month: 'short', day: 'numeric', year: 'numeric' });
               return (
-                <div key={trip.id} onClick={() => router.push(`/trip/${trip.id}`)} style={{
+                <div key={trip.id} role="button" tabIndex={0} onClick={() => router.push(`/trip/${trip.id}`)} onKeyDown={(e) => { if (e.key === 'Enter' || e.key === ' ') { e.preventDefault(); router.push(`/trip/${trip.id}`); } }} style={{
                   padding: '16px 18px', background: colors.surface, border: `1px solid ${colors.borderDefault}`,
                   borderRadius: 14, cursor: 'pointer', transition: 'all 0.15s',
                 }}

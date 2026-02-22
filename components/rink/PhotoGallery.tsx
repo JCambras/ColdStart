@@ -19,11 +19,10 @@ interface PhotoGalleryProps {
   rinkId: string;
   rinkName: string;
   staticPhoto: string | null | undefined;
-  currentUserId?: string;
   onPhotoAdded: (photo: Photo) => void;
 }
 
-export function PhotoGallery({ photos, rinkId, rinkName, staticPhoto, currentUserId, onPhotoAdded }: PhotoGalleryProps) {
+export function PhotoGallery({ photos, rinkId, rinkName, staticPhoto, onPhotoAdded }: PhotoGalleryProps) {
   const [uploading, setUploading] = useState(false);
 
   async function handleUpload(file: File) {
@@ -46,7 +45,7 @@ export function PhotoGallery({ photos, rinkId, rinkName, staticPhoto, currentUse
       const res = await fetch(`/api/v1/rinks/${rinkId}/photos`, {
         method: 'POST',
         headers: { 'Content-Type': 'application/json' },
-        body: JSON.stringify({ image_data: base64, user_id: currentUserId || null }),
+        body: JSON.stringify({ image_data: base64 }),
       });
       if (res.ok) {
         const data = await res.json();

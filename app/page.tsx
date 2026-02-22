@@ -457,7 +457,7 @@ export default function HomePage() {
           <span style={{ fontSize: 12, color: colors.stone400 }}>
             ColdStart — built by hockey parents, for hockey parents.
           </span>
-          <span style={{ fontSize: 12, color: colors.stone500 }}>v0.3</span>
+          <span style={{ fontSize: 12, color: colors.stone500 }}>v0.4</span>
         </div>
         <span style={{ fontSize: 11, color: colors.stone400 }}>
           Rink operator? Contact us at{' '}

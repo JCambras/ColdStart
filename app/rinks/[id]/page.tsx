@@ -375,7 +375,6 @@ export default function RinkPage() {
           rinkId={rinkId}
           rinkName={rink.name}
           staticPhoto={getRinkPhoto(rink)}
-          currentUserId={currentUser?.id}
           onPhotoAdded={(photo) => setRinkPhotos(prev => [photo, ...prev])}
         />
 
@@ -617,7 +616,7 @@ export default function RinkPage() {
       }}>
         <div style={{ display: 'flex', justifyContent: 'space-between', alignItems: 'center' }}>
           <span style={{ fontSize: 12, color: colors.textMuted }}>Built by hockey parents, for hockey parents.</span>
-          <span style={{ fontSize: 11, color: colors.textMuted }}>v0.3</span>
+          <span style={{ fontSize: 11, color: colors.textMuted }}>v0.4</span>
         </div>
         <span style={{ fontSize: 11, color: colors.textMuted }}>
           Rink operator? Contact us at{' '}

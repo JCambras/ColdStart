@@ -29,6 +29,9 @@ export async function POST(
     if (name.trim().length > 200 || email.trim().length > 254 || (role && role.length > 200)) {
       return NextResponse.json({ error: 'Field too long' }, { status: 400 });
     }
+    if (!/^[^\s@]+@[^\s@]+\.[^\s@]+$/.test(email.trim())) {
+      return NextResponse.json({ error: 'Invalid email format' }, { status: 400 });
+    }
 
     // Verify rink exists
     const rinkCheck = await pool.query('SELECT id FROM rinks WHERE id = $1', [id]);

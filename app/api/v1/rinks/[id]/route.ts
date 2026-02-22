@@ -2,11 +2,15 @@ import { NextRequest, NextResponse } from 'next/server';
 import { pool } from '../../../../../lib/db';
 import { buildSummary } from '../../../../../lib/dbSummary';
 import { logger, generateRequestId } from '../../../../../lib/logger';
+import { rateLimit } from '../../../../../lib/rateLimit';
 
 export async function GET(
   _request: NextRequest,
   { params }: { params: Promise<{ id: string }> }
 ) {
+  const limited = rateLimit(_request, 60, 60_000);
+  if (limited) return limited;
+
   const requestId = generateRequestId();
   const logCtx = { requestId, method: 'GET', path: '/api/v1/rinks/[id]' };
   const { id } = await params;
