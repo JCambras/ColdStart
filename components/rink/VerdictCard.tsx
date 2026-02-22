@@ -21,12 +21,14 @@ export function VerdictCard({ rink, summary, loadedSignals }: VerdictCardProps) 
     return (ai === -1 ? 99 : ai) - (bi === -1 ? 99 : bi);
   });
 
-  // Staleness check: >60 days since last update
+  // Staleness check: >30 days in-season (Oct–Apr), >60 days off-season
   const isStale = (() => {
     if (!summary.last_updated_at) return hasData;
     const updated = new Date(summary.last_updated_at).getTime();
     const daysSince = (Date.now() - updated) / (1000 * 60 * 60 * 24);
-    return daysSince > 60;
+    const month = new Date().getMonth(); // 0-indexed
+    const inSeason = month >= 9 || month <= 3; // Oct(9)–Apr(3)
+    return daysSince > (inSeason ? 30 : 60);
   })();
 
   const staleLabel = (() => {
@@ -38,14 +40,25 @@ export function VerdictCard({ rink, summary, loadedSignals }: VerdictCardProps) 
     return `Last updated over ${months} month${months !== 1 ? 's' : ''} ago — conditions may have changed.`;
   })();
 
-  // Freshness tiers: fresh (<7d), moderate (7-60d), stale (>60d), unknown
+  // Freshness tiers: fresh (<7d), moderate (7-30/60d), stale (>30/60d), unknown
   const freshnessTier = (() => {
     if (!summary.last_updated_at || !hasData) return 'unknown' as const;
     const updated = new Date(summary.last_updated_at).getTime();
     const daysSince = (Date.now() - updated) / (1000 * 60 * 60 * 24);
+    const month = new Date().getMonth();
+    const inSeason = month >= 9 || month <= 3;
+    const staleThreshold = inSeason ? 30 : 60;
     if (daysSince <= 7) return 'fresh' as const;
-    if (daysSince <= 60) return 'moderate' as const;
+    if (daysSince <= staleThreshold) return 'moderate' as const;
     return 'stale' as const;
+  })();
+
+  // Season label (MED-4): hockey season runs roughly Oct–Apr
+  const seasonLabel = (() => {
+    if (!hasData) return null;
+    if (summary.confirmed_this_season) return 'This season' as const;
+    if (summary.last_updated_at) return 'Last season' as const;
+    return null;
   })();
 
   return (
@@ -120,9 +133,22 @@ export function VerdictCard({ rink, summary, loadedSignals }: VerdictCardProps) 
         )}
 
         {hasData && (
-          <p style={{ fontSize: 12, color: colors.textTertiary, marginTop: 8 }}>
-            From {summary.contribution_count} hockey parent{summary.contribution_count !== 1 ? 's' : ''} this season
-          </p>
+          <div style={{ display: 'flex', alignItems: 'center', gap: 6, marginTop: 8 }}>
+            <p style={{ fontSize: 12, color: colors.textTertiary, margin: 0 }}>
+              From {summary.contribution_count} hockey parent{summary.contribution_count !== 1 ? 's' : ''}
+            </p>
+            {seasonLabel && (
+              <span style={{
+                fontSize: 10, fontWeight: 600, padding: '2px 8px',
+                borderRadius: 10, whiteSpace: 'nowrap',
+                background: seasonLabel === 'This season' ? colors.bgSuccess : colors.bgWarning,
+                color: seasonLabel === 'This season' ? colors.success : colors.amber,
+                border: `1px solid ${seasonLabel === 'This season' ? colors.successBorder : colors.warningBorder}`,
+              }}>
+                {seasonLabel}
+              </span>
+            )}
+          </div>
         )}
         {hasData && isStale && (
           <p style={{
