@@ -1,10 +1,22 @@
 import { NextRequest, NextResponse } from 'next/server';
 import { pool } from '../../../../../../lib/db';
+import { requireAuth } from '../../../../../../lib/apiAuth';
+import { rateLimit } from '../../../../../../lib/rateLimit';
+import { logger, generateRequestId } from '../../../../../../lib/logger';
 
 export async function POST(
   request: NextRequest,
   { params }: { params: Promise<{ id: string }> }
 ) {
+  const requestId = generateRequestId();
+  const logCtx = { requestId, method: 'POST', path: '/api/v1/tips/[id]/respond' };
+
+  const limited = rateLimit(request, 10, 60_000);
+  if (limited) return limited;
+
+  const { error: authError } = await requireAuth();
+  if (authError) return authError;
+
   const { id } = await params;
   const tipId = parseInt(id, 10);
 
@@ -33,9 +45,10 @@ export async function POST(
       [tipId, rink_id || null, responder_name.trim(), responder_role?.trim() || null, text.trim()]
     );
 
+    logger.info('Operator response saved', { ...logCtx, tipId });
     return NextResponse.json({ response: result.rows[0] });
   } catch (err) {
-    console.error('POST /api/v1/tips/[id]/respond error:', err);
+    logger.error('Respond failed', { ...logCtx, error: err });
     return NextResponse.json({ error: 'Internal server error' }, { status: 500 });
   }
 }

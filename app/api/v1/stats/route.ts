@@ -1,5 +1,6 @@
 import { NextResponse } from 'next/server';
 import { pool } from '../../../../lib/db';
+import { logger, generateRequestId } from '../../../../lib/logger';
 
 export async function GET() {
   try {
@@ -84,7 +85,7 @@ export async function GET() {
       top_signals: row.top_signals,
     });
   } catch (err) {
-    console.error('GET /api/v1/stats error:', err);
+    logger.error('Stats query failed', { requestId: generateRequestId(), method: 'GET', path: '/api/v1/stats', error: err });
     return NextResponse.json({ error: 'Internal server error' }, { status: 500 });
   }
 }

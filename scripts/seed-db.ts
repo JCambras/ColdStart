@@ -87,7 +87,7 @@ async function run() {
 
       CREATE TABLE IF NOT EXISTS rink_claims (
         id SERIAL PRIMARY KEY,
-        rink_id TEXT NOT NULL,
+        rink_id TEXT NOT NULL REFERENCES rinks(id),
         name TEXT NOT NULL,
         email TEXT NOT NULL,
         role TEXT,
@@ -102,6 +102,28 @@ async function run() {
         responder_name TEXT NOT NULL,
         responder_role TEXT,
         text TEXT NOT NULL,
+        created_at TIMESTAMPTZ NOT NULL DEFAULT NOW()
+      );
+
+      CREATE TABLE IF NOT EXISTS nearby_places (
+        id SERIAL PRIMARY KEY,
+        rink_id TEXT NOT NULL REFERENCES rinks(id),
+        category TEXT NOT NULL,
+        name TEXT NOT NULL,
+        distance TEXT,
+        url TEXT,
+        is_partner BOOLEAN NOT NULL DEFAULT FALSE,
+        partner_note TEXT,
+        is_far BOOLEAN NOT NULL DEFAULT FALSE,
+        created_at TIMESTAMPTZ NOT NULL DEFAULT NOW()
+      );
+
+      CREATE TABLE IF NOT EXISTS venue_metadata (
+        id SERIAL PRIMARY KEY,
+        rink_id TEXT NOT NULL REFERENCES rinks(id) UNIQUE,
+        streaming_type TEXT,
+        streaming_url TEXT,
+        facility_details JSONB,
         created_at TIMESTAMPTZ NOT NULL DEFAULT NOW()
       );
     `);
@@ -121,6 +143,9 @@ async function run() {
       CREATE INDEX IF NOT EXISTS idx_rink_photos_rink ON rink_photos(rink_id);
       CREATE INDEX IF NOT EXISTS idx_rink_claims_rink ON rink_claims(rink_id);
       CREATE INDEX IF NOT EXISTS idx_operator_responses_tip ON operator_responses(tip_id);
+      CREATE INDEX IF NOT EXISTS idx_nearby_places_rink ON nearby_places(rink_id);
+      CREATE INDEX IF NOT EXISTS idx_nearby_places_rink_cat ON nearby_places(rink_id, category);
+      CREATE INDEX IF NOT EXISTS idx_venue_metadata_rink ON venue_metadata(rink_id);
     `);
 
     // Load rinks

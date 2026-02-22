@@ -1,6 +1,7 @@
 import { pool } from './db';
 import type { RinkSummary, Signal, Tip } from './rinkTypes';
 import { VENUE_CONFIG } from './venueConfig';
+import { computeVerdict, computeConfidence } from './verdict';
 
 export async function buildSummary(rinkId: string): Promise<RinkSummary> {
   const [signalResult, tipResult] = await Promise.all([
@@ -33,7 +34,7 @@ export async function buildSummary(rinkId: string): Promise<RinkSummary> {
         signal: key,
         value: Math.round(avg * 10) / 10,
         count,
-        confidence: Math.min(1, 0.2 + count * 0.1),
+        confidence: computeConfidence(count),
       };
     }
     return { signal: key, value: 0, count: 0, confidence: 0 };
@@ -82,16 +83,7 @@ export async function buildSummary(rinkId: string): Promise<RinkSummary> {
   ].filter(Boolean).map((d: Date) => d.getTime());
   const lastUpdatedAt = dates.length > 0 ? new Date(Math.max(...dates)).toISOString() : null;
 
-  let verdict = '';
-  if (totalCount === 0) {
-    verdict = VENUE_CONFIG.verdicts.none;
-  } else if (overallAvg >= 3.8) {
-    verdict = VENUE_CONFIG.verdicts.good;
-  } else if (overallAvg >= 3.0) {
-    verdict = VENUE_CONFIG.verdicts.mixed;
-  } else {
-    verdict = VENUE_CONFIG.verdicts.bad;
-  }
+  const verdict = computeVerdict(overallAvg, totalCount);
 
   // Consider "confirmed this season" if any data in last 6 months
   const sixMonthsAgo = new Date();

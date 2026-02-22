@@ -8,22 +8,17 @@ declare global {
 }
 
 function getPool(): pg.Pool {
-  if (process.env.NODE_ENV === 'production') {
-    return new Pool({
-      connectionString: process.env.DATABASE_URL,
-      max: 10,
-      ssl: { rejectUnauthorized: false },
-    });
-  }
+  if (globalThis._pgPool) return globalThis._pgPool;
 
-  // Dev: reuse across hot-reloads
-  if (!globalThis._pgPool) {
-    globalThis._pgPool = new Pool({
-      connectionString: process.env.DATABASE_URL,
-      max: 5,
-      ssl: { rejectUnauthorized: false },
-    });
-  }
+  const isProd = process.env.NODE_ENV === 'production';
+  globalThis._pgPool = new Pool({
+    connectionString: process.env.DATABASE_URL,
+    max: isProd ? 10 : 5,
+    ssl: process.env.DATABASE_URL?.includes('localhost')
+      ? undefined
+      : { rejectUnauthorized: false },
+  });
+
   return globalThis._pgPool;
 }
 

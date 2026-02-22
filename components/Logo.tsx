@@ -9,7 +9,11 @@ export function Logo({ size = 36, stacked = false, light = false }: { size?: num
   if (stacked) {
     return (
       <span
+        role="button"
+        tabIndex={0}
+        aria-label="ColdStart Hockey home"
         onClick={() => router.push('/')}
+        onKeyDown={(e) => { if (e.key === 'Enter' || e.key === ' ') { e.preventDefault(); router.push('/'); } }}
         style={{
           display: 'flex',
           flexDirection: 'column',
@@ -37,7 +41,11 @@ export function Logo({ size = 36, stacked = false, light = false }: { size?: num
 
   return (
     <span
+      role="button"
+      tabIndex={0}
+      aria-label="ColdStart Hockey home"
       onClick={() => router.push('/')}
+      onKeyDown={(e) => { if (e.key === 'Enter' || e.key === ' ') { e.preventDefault(); router.push('/'); } }}
       style={{
         fontSize: size,
         fontWeight: 800,

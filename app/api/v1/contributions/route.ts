@@ -2,11 +2,24 @@ import { NextRequest, NextResponse } from 'next/server';
 import { pool } from '../../../../lib/db';
 import { buildSummary } from '../../../../lib/dbSummary';
 import { VENUE_CONFIG } from '../../../../lib/venueConfig';
+import { requireAuth } from '../../../../lib/apiAuth';
+import { rateLimit } from '../../../../lib/rateLimit';
+import { logger, generateRequestId } from '../../../../lib/logger';
 
 export async function POST(request: NextRequest) {
+  const requestId = generateRequestId();
+  const logCtx = { requestId, method: 'POST', path: '/api/v1/contributions' };
+
+  const limited = rateLimit(request, 20, 60_000);
+  if (limited) return limited;
+
+  const { session, error: authError } = await requireAuth();
+  if (authError) return authError;
+
   try {
     const body = await request.json();
-    const { rink_id, kind, contributor_type, context, user_id } = body;
+    const { rink_id, kind, contributor_type, context } = body;
+    const user_id = session!.user!.id;
 
     if (!rink_id || !kind) {
       return NextResponse.json({ error: 'rink_id and kind are required' }, { status: 400 });
@@ -31,32 +44,24 @@ export async function POST(request: NextRequest) {
         return NextResponse.json({ error: 'value must be an integer between 1 and 5' }, { status: 400 });
       }
 
-      if (user_id) {
-        const client = await pool.connect();
-        try {
-          await client.query('BEGIN');
-          await client.query(
-            `INSERT INTO signal_ratings (rink_id, signal, value, contributor_type, context, user_id)
-             VALUES ($1, $2, $3, $4, $5, $6)`,
-            [rink_id, signal_rating.signal, value, contributor_type || 'visiting_parent', context || null, user_id]
-          );
-          await client.query(
-            `UPDATE users SET "rinksRated" = COALESCE("rinksRated", 0) + 1 WHERE id = $1`,
-            [user_id]
-          );
-          await client.query('COMMIT');
-        } catch (txErr) {
-          await client.query('ROLLBACK');
-          throw txErr;
-        } finally {
-          client.release();
-        }
-      } else {
-        await pool.query(
+      const client = await pool.connect();
+      try {
+        await client.query('BEGIN');
+        await client.query(
           `INSERT INTO signal_ratings (rink_id, signal, value, contributor_type, context, user_id)
            VALUES ($1, $2, $3, $4, $5, $6)`,
-          [rink_id, signal_rating.signal, value, contributor_type || 'visiting_parent', context || null, null]
+          [rink_id, signal_rating.signal, value, contributor_type || 'visiting_parent', context || null, user_id]
         );
+        await client.query(
+          `UPDATE users SET "rinksRated" = COALESCE("rinksRated", 0) + 1 WHERE id = $1`,
+          [user_id]
+        );
+        await client.query('COMMIT');
+      } catch (txErr) {
+        await client.query('ROLLBACK');
+        throw txErr;
+      } finally {
+        client.release();
       }
     } else if (kind === 'one_thing_tip' || kind === 'tip') {
       const tipData = body.one_thing_tip || body.tip;
@@ -67,32 +72,24 @@ export async function POST(request: NextRequest) {
         return NextResponse.json({ error: 'tip text must be 140 characters or fewer' }, { status: 400 });
       }
 
-      if (user_id) {
-        const client = await pool.connect();
-        try {
-          await client.query('BEGIN');
-          await client.query(
-            `INSERT INTO tips (rink_id, text, contributor_type, context, user_id)
-             VALUES ($1, $2, $3, $4, $5)`,
-            [rink_id, tipData.text.trim(), contributor_type || 'visiting_parent', context || null, user_id]
-          );
-          await client.query(
-            `UPDATE users SET "tipsSubmitted" = COALESCE("tipsSubmitted", 0) + 1 WHERE id = $1`,
-            [user_id]
-          );
-          await client.query('COMMIT');
-        } catch (txErr) {
-          await client.query('ROLLBACK');
-          throw txErr;
-        } finally {
-          client.release();
-        }
-      } else {
-        await pool.query(
+      const client = await pool.connect();
+      try {
+        await client.query('BEGIN');
+        await client.query(
           `INSERT INTO tips (rink_id, text, contributor_type, context, user_id)
            VALUES ($1, $2, $3, $4, $5)`,
-          [rink_id, tipData.text.trim(), contributor_type || 'visiting_parent', context || null, null]
+          [rink_id, tipData.text.trim(), contributor_type || 'visiting_parent', context || null, user_id]
         );
+        await client.query(
+          `UPDATE users SET "tipsSubmitted" = COALESCE("tipsSubmitted", 0) + 1 WHERE id = $1`,
+          [user_id]
+        );
+        await client.query('COMMIT');
+      } catch (txErr) {
+        await client.query('ROLLBACK');
+        throw txErr;
+      } finally {
+        client.release();
       }
     } else {
       return NextResponse.json({ error: `Unknown kind: ${kind}` }, { status: 400 });
@@ -100,9 +97,10 @@ export async function POST(request: NextRequest) {
 
     // Return updated summary wrapped in { data: { summary } }
     const summary = await buildSummary(rink_id);
+    logger.info('Contribution saved', { ...logCtx, rink_id, kind, user_id });
     return NextResponse.json({ data: { summary } });
   } catch (err) {
-    console.error('POST /api/v1/contributions error:', err);
+    logger.error('Contribution failed', { ...logCtx, error: err });
     return NextResponse.json({ error: 'Internal server error' }, { status: 500 });
   }
 }

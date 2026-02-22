@@ -1,29 +1,43 @@
 import { NextRequest, NextResponse } from 'next/server';
 import { pool } from '../../../../../../lib/db';
-import { writeFileSync, mkdirSync, existsSync } from 'fs';
+import { mkdir, writeFile } from 'fs/promises';
+import { existsSync } from 'fs';
 import { join } from 'path';
+import { requireAuth } from '../../../../../../lib/apiAuth';
+import { rateLimit } from '../../../../../../lib/rateLimit';
+import { logger, generateRequestId } from '../../../../../../lib/logger';
 
 const MAX_SIZE = 5 * 1024 * 1024; // 5MB
 
 export async function GET(
-  _request: NextRequest,
+  request: NextRequest,
   { params }: { params: Promise<{ id: string }> }
 ) {
   const { id } = await params;
+  const { searchParams } = request.nextUrl;
+  const limit = Math.min(Number(searchParams.get('limit')) || 20, 50);
+  const offset = Math.max(Number(searchParams.get('offset')) || 0, 0);
 
   try {
-    const { rows } = await pool.query(
-      `SELECT rp.id, rp.url, rp.caption, rp.created_at, u.name AS contributor_name
-       FROM rink_photos rp
-       LEFT JOIN users u ON rp.user_id = u.id
-       WHERE rp.rink_id = $1
-       ORDER BY rp.created_at DESC`,
-      [id]
-    );
+    const [{ rows }, countResult] = await Promise.all([
+      pool.query(
+        `SELECT rp.id, rp.url, rp.caption, rp.created_at, u.name AS contributor_name
+         FROM rink_photos rp
+         LEFT JOIN users u ON rp.user_id = u.id
+         WHERE rp.rink_id = $1
+         ORDER BY rp.created_at DESC
+         LIMIT $2 OFFSET $3`,
+        [id, limit, offset]
+      ),
+      pool.query(
+        'SELECT COUNT(*)::int AS total FROM rink_photos WHERE rink_id = $1',
+        [id]
+      ),
+    ]);
 
-    return NextResponse.json({ photos: rows });
+    return NextResponse.json({ photos: rows, total: countResult.rows[0].total });
   } catch (err) {
-    console.error('GET /api/v1/rinks/[id]/photos error:', err);
+    logger.error('Photos GET failed', { requestId: generateRequestId(), method: 'GET', path: '/api/v1/rinks/[id]/photos', error: err });
     return NextResponse.json({ error: 'Internal server error' }, { status: 500 });
   }
 }
@@ -32,11 +46,21 @@ export async function POST(
   request: NextRequest,
   { params }: { params: Promise<{ id: string }> }
 ) {
+  const requestId = generateRequestId();
+  const logCtx = { requestId, method: 'POST', path: '/api/v1/rinks/[id]/photos' };
+
+  const limited = rateLimit(request, 5, 60_000);
+  if (limited) return limited;
+
+  const { session, error: authError } = await requireAuth();
+  if (authError) return authError;
+
   const { id } = await params;
+  const user_id = session!.user!.id;
 
   try {
     const body = await request.json();
-    const { image_data, caption, user_id } = body;
+    const { image_data, caption } = body;
 
     if (!image_data) {
       return NextResponse.json({ error: 'image_data is required' }, { status: 400 });
@@ -65,14 +89,14 @@ export async function POST(
     // Save to public/uploads/rinks/
     const uploadsDir = join(process.cwd(), 'public', 'uploads', 'rinks');
     if (!existsSync(uploadsDir)) {
-      mkdirSync(uploadsDir, { recursive: true });
+      await mkdir(uploadsDir, { recursive: true });
     }
 
     // Sanitize ID to prevent path traversal
     const safeId = id.replace(/[^a-zA-Z0-9_-]/g, '');
     const filename = `${safeId}-${Date.now()}${ext}`;
     const filePath = join(uploadsDir, filename);
-    writeFileSync(filePath, buffer);
+    await writeFile(filePath, buffer);
 
     const url = `/uploads/rinks/${filename}`;
 
@@ -81,12 +105,13 @@ export async function POST(
       `INSERT INTO rink_photos (rink_id, url, user_id, caption)
        VALUES ($1, $2, $3, $4)
        RETURNING id, url, caption, created_at`,
-      [id, url, user_id || null, caption || null]
+      [id, url, user_id, caption || null]
     );
 
+    logger.info('Photo uploaded', { ...logCtx, rinkId: id, filename });
     return NextResponse.json({ photo: result.rows[0] });
   } catch (err) {
-    console.error('POST /api/v1/rinks/[id]/photos error:', err);
+    logger.error('Photo upload failed', { ...logCtx, error: err });
     return NextResponse.json({ error: 'Internal server error' }, { status: 500 });
   }
 }

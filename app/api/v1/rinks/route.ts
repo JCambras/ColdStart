@@ -1,5 +1,7 @@
 import { NextRequest, NextResponse } from 'next/server';
 import { pool } from '../../../../lib/db';
+import { computeVerdict, computeConfidence } from '../../../../lib/verdict';
+import { logger, generateRequestId } from '../../../../lib/logger';
 
 const TOP_SIGNALS = ['parking', 'cold', 'food_nearby'];
 
@@ -27,7 +29,7 @@ async function enrichWithSummaries(rinks: Record<string, unknown>[]) {
       signal: row.signal,
       value: Math.round(avg * 10) / 10,
       count: row.count,
-      confidence: Math.min(1, 0.2 + row.count * 0.1),
+      confidence: computeConfidence(row.count),
     });
   }
 
@@ -50,17 +52,11 @@ async function enrichWithSummaries(rinks: Record<string, unknown>[]) {
     const overallAvg = ratedSignals.length > 0
       ? ratedSignals.reduce((sum, s) => sum + s.value, 0) / ratedSignals.length
       : 0;
-    let verdict = 'No ratings yet';
-    if (ratingCount > 0) {
-      if (overallAvg >= 3.8) verdict = 'Good rink overall';
-      else if (overallAvg >= 3.0) verdict = 'Mixed reviews';
-      else verdict = 'Heads up — some issues reported';
-    }
 
     return {
       ...r,
       summary: totalCount > 0 ? {
-        verdict,
+        verdict: computeVerdict(overallAvg, ratingCount),
         signals: topSignals,
         tips: [],
         contribution_count: totalCount,
@@ -70,6 +66,9 @@ async function enrichWithSummaries(rinks: Record<string, unknown>[]) {
 }
 
 export async function GET(request: NextRequest) {
+  const requestId = generateRequestId();
+  const logCtx = { requestId, method: 'GET', path: '/api/v1/rinks' };
+
   const { searchParams } = request.nextUrl;
   const query = searchParams.get('query')?.trim() || '';
   const limit = Math.min(Number(searchParams.get('limit')) || 20, 100);
@@ -92,7 +91,6 @@ export async function GET(request: NextRequest) {
     }
 
     // ILIKE search on name/city/state, prefix matches first
-    // Also match with spaces removed (e.g. "Ice Works" matches "IceWorks")
     const escaped = query.replace(/[%_]/g, '\\$&');
     const pattern = `%${escaped}%`;
     const prefixPattern = `${escaped}%`;
@@ -117,7 +115,7 @@ export async function GET(request: NextRequest) {
     const enriched = await enrichWithSummaries(rinks);
     return NextResponse.json(enriched);
   } catch (err) {
-    console.error('GET /api/v1/rinks error:', err);
+    logger.error('Rinks search failed', { ...logCtx, error: err });
     return NextResponse.json({ error: 'Internal server error' }, { status: 500 });
   }
 }
