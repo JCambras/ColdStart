@@ -49,6 +49,12 @@ select {
   font-family: inherit;
 }
 
+/* Accessible placeholder contrast (WCAG 4.5:1 on white) */
+::placeholder {
+  color: #78716c;
+  opacity: 1;
+}
+
 /* Smooth scrolling */
 html {
   scroll-behavior: smooth;

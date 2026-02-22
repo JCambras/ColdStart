@@ -197,7 +197,7 @@ export function HeroSearch({
           lineHeight: 1.5, marginTop: 12,
           maxWidth: 480,
         }}>
-          Parking, cold level, food nearby — from parents who&apos;ve been there.
+          Parking, comfort, food nearby — from parents who&apos;ve been there.
         </p>
 
         {/* Pill search */}

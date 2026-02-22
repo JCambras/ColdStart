@@ -16,9 +16,9 @@ interface QuickVoteRowProps {
 
 const signals: { key: SignalType; icon: string; label: string }[] = [
   { key: 'parking', icon: '🅿️', label: 'Parking' },
-  { key: 'cold', icon: '❄️', label: 'Cold' },
+  { key: 'cold', icon: '🌡️', label: 'Comfort' },
   { key: 'food_nearby', icon: '🍔', label: 'Food' },
-  { key: 'chaos', icon: '🌀', label: 'Chaos' },
+  { key: 'chaos', icon: '📋', label: 'Organized' },
   { key: 'family_friendly', icon: '👨‍👩‍👧', label: 'Family' },
   { key: 'locker_rooms', icon: '🚪', label: 'Lockers' },
   { key: 'pro_shop', icon: '🏒', label: 'Pro shop' },

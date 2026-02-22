@@ -170,10 +170,10 @@ export const SEEDED_NEARBY: Record<string, Record<string, NearbyPlace[]>> = {
       { name: "Laser Quest", distance: "5.2 mi", url: "https://www.google.com/maps/search/Laser+Quest+near+West+Chester+PA", isFar: true },
     ],
     hotels: [
-      { name: "Hampton Inn Route 30", distance: "0.8 mi", url: "https://www.google.com/maps/search/Hampton+Inn+West+Chester+PA", isPartner: true, partnerNote: "Tournament group rate available — mention Ice Line" },
-      { name: "Courtyard by Marriott", distance: "1.1 mi", url: "https://www.google.com/maps/search/Courtyard+Marriott+West+Chester+PA" },
-      { name: "Holiday Inn Express", distance: "1.5 mi", url: "https://www.google.com/maps/search/Holiday+Inn+Express+Exton+PA" },
-      { name: "Residence Inn", distance: "1.9 mi", url: "https://www.google.com/maps/search/Residence+Inn+Exton+PA" },
+      { name: "Hampton Inn Route 30", distance: "7.0 mi", url: "https://www.google.com/maps/search/Hampton+Inn+West+Chester+PA", isPartner: true, partnerNote: "Tournament group rate available — mention Ice Line" },
+      { name: "Courtyard by Marriott", distance: "8.0 mi", url: "https://www.google.com/maps/search/Courtyard+Marriott+West+Chester+PA" },
+      { name: "Holiday Inn Express", distance: "7.0 mi", url: "https://www.google.com/maps/search/Holiday+Inn+Express+Exton+PA" },
+      { name: "Residence Inn", distance: "7.5 mi", url: "https://www.google.com/maps/search/Residence+Inn+Exton+PA" },
     ],
     gas: [
       { name: "Wawa (gas)", distance: "0.2 mi", url: "https://www.google.com/maps/search/Wawa+gas+West+Chester+PA" },

@@ -4,10 +4,10 @@ export type SignalType = 'cold' | 'parking' | 'chaos' | 'food_nearby' | 'family_
 export type ContributorType = 'local_parent' | 'visiting_parent';
 
 export const SIGNAL_META: Record<string, { label: string; icon: string; lowLabel: string; highLabel: string; info: string }> = {
-  cold: { label: 'Cold factor', icon: '❄️', lowLabel: 'Freezing', highLabel: 'Comfortable', info: 'How comfortable is the rink temperature for spectators? Lower means bring extra layers — the arena runs cold. Higher means heated seating areas and a comfortable viewing experience.' },
+  cold: { label: 'Comfort', icon: '🌡️', lowLabel: 'Freezing', highLabel: 'Comfortable', info: 'How comfortable is the rink temperature for spectators? Lower means bring extra layers — the arena runs cold. Higher means heated seating areas and a comfortable viewing experience.' },
   parking: { label: 'Parking', icon: '🅿️', lowLabel: 'Tough', highLabel: 'Easy', info: 'How easy is it to find parking? Accounts for lot size, overflow options, and how bad it gets during tournaments.' },
   food_nearby: { label: 'Food nearby', icon: '🍔', lowLabel: 'None', highLabel: 'Plenty', info: 'Are there food options near the rink? Includes snack bars inside, restaurants within walking distance, and drive-throughs nearby.' },
-  chaos: { label: 'Chaos level', icon: '🌀', lowLabel: 'Hectic', highLabel: 'Calm', info: 'How organized and easy to navigate is the rink? Lower means crowded lobbies, confusing layouts, and overlapping game times. Higher means smooth flow and easy wayfinding.' },
+  chaos: { label: 'Organization', icon: '📋', lowLabel: 'Hectic', highLabel: 'Calm', info: 'How organized and easy to navigate is the rink? Lower means crowded lobbies, confusing layouts, and overlapping game times. Higher means smooth flow and easy wayfinding.' },
   family_friendly: { label: 'Family friendly', icon: '👨‍👩‍👧', lowLabel: 'Not great', highLabel: 'Great', info: 'How welcoming is this rink for families with younger kids? Considers seating, bathrooms, play areas, and overall vibe.' },
   locker_rooms: { label: 'Locker rooms', icon: '🚪', lowLabel: 'Tight', highLabel: 'Spacious', info: 'Are the locker rooms big enough for a full team with bags? Separate ref room? Clean, well-lit, and accessible?' },
   pro_shop: { label: 'Pro shop', icon: '🏒', lowLabel: 'Sparse', highLabel: 'Stocked', info: 'Does the rink have a pro shop? Covers tape, laces, skate sharpening, and emergency gear availability on game day.' },
@@ -17,10 +17,10 @@ export const SIGNAL_META: Record<string, { label: string; icon: string; lowLabel
 };
 
 export const SIGNAL_LABELS: Record<string, string> = {
-  cold: 'Cold',
+  cold: 'Comfort',
   parking: 'Parking',
   food_nearby: 'Food',
-  chaos: 'Chaos',
+  chaos: 'Organized',
   family_friendly: 'Family',
   locker_rooms: 'Lockers',
   pro_shop: 'Pro shop',
@@ -31,9 +31,9 @@ export const SIGNAL_LABELS: Record<string, string> = {
 
 export const SIGNAL_ICONS: Record<string, string> = {
   parking: '🅿️',
-  cold: '❄️',
+  cold: '🌡️',
   food_nearby: '🍔',
-  chaos: '🌀',
+  chaos: '📋',
   family_friendly: '👨‍👩‍👧',
   locker_rooms: '🚪',
   pro_shop: '🏒',
@@ -44,9 +44,9 @@ export const SIGNAL_ICONS: Record<string, string> = {
 
 export const SIGNAL_OPTIONS: { key: SignalType; label: string; icon: string }[] = [
   { key: 'parking', label: 'Parking', icon: '🅿️' },
-  { key: 'cold', label: 'Cold', icon: '❄️' },
+  { key: 'cold', label: 'Comfort', icon: '🌡️' },
   { key: 'food_nearby', label: 'Food', icon: '🍔' },
-  { key: 'chaos', label: 'Chaos', icon: '🌀' },
+  { key: 'chaos', label: 'Organized', icon: '📋' },
   { key: 'family_friendly', label: 'Family', icon: '👨‍👩‍👧' },
   { key: 'locker_rooms', label: 'Lockers', icon: '🚪' },
   { key: 'pro_shop', label: 'Pro shop', icon: '🏒' },

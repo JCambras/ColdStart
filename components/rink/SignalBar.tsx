@@ -10,9 +10,9 @@ import { colors, text, radius } from '../../lib/theme';
 /** Contextual label when above/below average, per signal type */
 const CONTEXT_LABELS: Record<string, { above: string; below: string }> = {
   parking: { above: 'Better than most rinks', below: 'Tighter than most rinks' },
-  cold: { above: 'Warmer than most rinks', below: 'Colder than most rinks' },
+  cold: { above: 'More comfortable than most rinks', below: 'Colder than most rinks' },
   food_nearby: { above: 'More options than most', below: 'Fewer options than most' },
-  chaos: { above: 'Calmer than most rinks', below: 'More hectic than most' },
+  chaos: { above: 'Better organized than most rinks', below: 'More hectic than most' },
   family_friendly: { above: 'More welcoming than most', below: 'Less family-friendly than most' },
   locker_rooms: { above: 'Roomier than most rinks', below: 'Tighter than most rinks' },
   pro_shop: { above: 'Better stocked than most', below: 'Sparser than most rinks' },
