@@ -14,7 +14,7 @@ export async function POST(
   const limited = rateLimit(request, 10, 60_000);
   if (limited) return limited;
 
-  const { error: authError } = await requireAuth();
+  const { session, error: authError } = await requireAuth();
   if (authError) return authError;
 
   const { id } = await params;
@@ -32,17 +32,32 @@ export async function POST(
       return NextResponse.json({ error: 'text and responder_name are required' }, { status: 400 });
     }
 
-    // Verify tip exists
-    const tipCheck = await pool.query('SELECT id FROM tips WHERE id = $1', [tipId]);
+    // Verify tip exists and get its rink_id
+    const tipCheck = await pool.query('SELECT id, rink_id FROM tips WHERE id = $1', [tipId]);
     if (tipCheck.rows.length === 0) {
       return NextResponse.json({ error: 'Tip not found' }, { status: 404 });
+    }
+
+    // Verify caller has an approved claim for the rink this tip belongs to
+    const tipRinkId = rink_id || tipCheck.rows[0].rink_id;
+    const userEmail = session!.user!.email;
+    if (!userEmail || !tipRinkId) {
+      return NextResponse.json({ error: 'Cannot verify operator ownership' }, { status: 403 });
+    }
+
+    const claimCheck = await pool.query(
+      `SELECT id FROM rink_claims WHERE rink_id = $1 AND email = $2 AND status = 'approved'`,
+      [tipRinkId, userEmail.toLowerCase()]
+    );
+    if (claimCheck.rows.length === 0) {
+      return NextResponse.json({ error: 'You must have an approved claim for this rink to respond' }, { status: 403 });
     }
 
     const result = await pool.query(
       `INSERT INTO operator_responses (tip_id, rink_id, responder_name, responder_role, text)
        VALUES ($1, $2, $3, $4, $5)
        RETURNING id, text, responder_name, responder_role, created_at`,
-      [tipId, rink_id || null, responder_name.trim(), responder_role?.trim() || null, text.trim()]
+      [tipId, tipRinkId, responder_name.trim(), responder_role?.trim() || null, text.trim()]
     );
 
     logger.info('Operator response saved', { ...logCtx, tipId });

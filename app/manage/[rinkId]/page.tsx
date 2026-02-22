@@ -2,6 +2,7 @@
 
 import { useEffect, useState } from 'react';
 import { useParams } from 'next/navigation';
+import { useAuth } from '../../../contexts/AuthContext';
 import { colors, text, radius } from '../../../lib/theme';
 
 interface DashTip {
@@ -22,6 +23,7 @@ interface DashSignal {
 export default function OperatorDashboard() {
   const params = useParams();
   const rinkId = params.rinkId as string;
+  const { currentUser, isLoggedIn, openAuth } = useAuth();
 
   const [rinkName, setRinkName] = useState('');
   const [signals, setSignals] = useState<DashSignal[]>([]);
@@ -29,6 +31,8 @@ export default function OperatorDashboard() {
   const [loading, setLoading] = useState(true);
   const [ratingsLast7d, setRatingsLast7d] = useState(0);
   const [ratingsLast30d, setRatingsLast30d] = useState(0);
+  const [authChecked, setAuthChecked] = useState(false);
+  const [accessDenied, setAccessDenied] = useState(false);
 
   // Response form state
   const [respondingTo, setRespondingTo] = useState<number | null>(null);
@@ -37,7 +41,29 @@ export default function OperatorDashboard() {
   const [responderRole, setResponderRole] = useState('');
   const [submittingResponse, setSubmittingResponse] = useState(false);
 
+  // Auth gate: verify user has an approved claim for this rink
   useEffect(() => {
+    if (!isLoggedIn) {
+      setAuthChecked(true);
+      return;
+    }
+    async function checkClaim() {
+      try {
+        const res = await fetch(`/api/v1/rinks/${rinkId}/claim/verify`);
+        if (!res.ok) {
+          setAccessDenied(true);
+        }
+      } catch {
+        setAccessDenied(true);
+      } finally {
+        setAuthChecked(true);
+      }
+    }
+    checkClaim();
+  }, [isLoggedIn, rinkId]);
+
+  useEffect(() => {
+    if (!authChecked || !isLoggedIn || accessDenied) return;
     async function loadDashboard() {
       try {
         const res = await fetch(`/api/v1/rinks/${rinkId}`);
@@ -71,7 +97,7 @@ export default function OperatorDashboard() {
       }
     }
     loadDashboard();
-  }, [rinkId]);
+  }, [rinkId, authChecked, isLoggedIn, accessDenied]);
 
   async function submitResponse(tipId: number) {
     if (!responseText.trim() || !responderName.trim()) return;
@@ -102,6 +128,49 @@ export default function OperatorDashboard() {
     } finally {
       setSubmittingResponse(false);
     }
+  }
+
+  // Auth gate: require sign-in
+  if (authChecked && !isLoggedIn) {
+    return (
+      <div style={{ maxWidth: 500, margin: '80px auto', padding: '0 24px', textAlign: 'center' }}>
+        <div style={{ fontSize: 32, marginBottom: 12 }}>🔒</div>
+        <h1 style={{ fontSize: 20, fontWeight: 700, color: colors.textPrimary, marginBottom: 8 }}>
+          Sign in required
+        </h1>
+        <p style={{ fontSize: 14, color: colors.textMuted, lineHeight: 1.5, marginBottom: 20 }}>
+          The operator dashboard requires authentication. Please sign in with the account associated with your rink claim.
+        </p>
+        <button
+          onClick={openAuth}
+          style={{
+            fontSize: 14, fontWeight: 600, padding: '10px 24px',
+            background: colors.brand, color: colors.textInverse,
+            border: 'none', borderRadius: 8, cursor: 'pointer',
+          }}
+        >
+          Sign in
+        </button>
+      </div>
+    );
+  }
+
+  // Auth gate: verify operator has approved claim
+  if (authChecked && accessDenied) {
+    return (
+      <div style={{ maxWidth: 500, margin: '80px auto', padding: '0 24px', textAlign: 'center' }}>
+        <div style={{ fontSize: 32, marginBottom: 12 }}>🚫</div>
+        <h1 style={{ fontSize: 20, fontWeight: 700, color: colors.textPrimary, marginBottom: 8 }}>
+          Access denied
+        </h1>
+        <p style={{ fontSize: 14, color: colors.textMuted, lineHeight: 1.5, marginBottom: 20 }}>
+          You don&apos;t have an approved operator claim for this rink. If you manage this facility, please submit a claim from the rink&apos;s public page.
+        </p>
+        <a href={`/rinks/${rinkId}`} style={{ fontSize: 14, color: colors.brand, fontWeight: 500 }}>
+          &#8592; Go to rink page
+        </a>
+      </div>
+    );
   }
 
   if (loading) {

@@ -16,8 +16,10 @@ export async function POST(
   const limited = rateLimit(request, 10, 60_000);
   if (limited) return limited;
 
-  const { error: authError } = await requireAuth();
+  const { session, error: authError } = await requireAuth();
   if (authError) return authError;
+
+  const userId = session!.user!.id;
 
   try {
     const { id } = await params;
@@ -30,12 +32,12 @@ export async function POST(
     let reason: string | null = null;
     try {
       const body = await request.json();
-      reason = body.reason || null;
+      reason = typeof body.reason === 'string' ? body.reason.slice(0, 500) : null;
     } catch {
       // No body or invalid JSON is fine — reason is optional
     }
 
-    // Transaction: verify tip, insert flag, check threshold, conditionally hide
+    // Transaction: verify tip, check for duplicate flag, insert flag, check threshold, conditionally hide
     const client = await pool.connect();
     let hidden = false;
     try {
@@ -48,13 +50,23 @@ export async function POST(
       }
       hidden = tipCheck.rows[0].hidden;
 
+      // Per-user dedup: one flag per user per tip
+      const existingFlag = await client.query(
+        'SELECT id FROM tip_flags WHERE tip_id = $1 AND reporter_id = $2',
+        [tipId, userId]
+      );
+      if (existingFlag.rows.length > 0) {
+        await client.query('ROLLBACK');
+        return NextResponse.json({ error: 'You have already flagged this tip', alreadyFlagged: true }, { status: 409 });
+      }
+
       await client.query(
-        'INSERT INTO tip_flags (tip_id, reason) VALUES ($1, $2)',
-        [tipId, reason]
+        'INSERT INTO tip_flags (tip_id, reason, reporter_id) VALUES ($1, $2, $3)',
+        [tipId, reason, userId]
       );
 
       const countResult = await client.query(
-        'SELECT COUNT(*)::int AS count FROM tip_flags WHERE tip_id = $1',
+        'SELECT COUNT(DISTINCT reporter_id)::int AS count FROM tip_flags WHERE tip_id = $1',
         [tipId]
       );
       const flagCount = countResult.rows[0].count;
