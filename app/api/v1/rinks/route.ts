@@ -73,6 +73,10 @@ export async function GET(request: NextRequest) {
   const query = searchParams.get('query')?.trim() || '';
   const limit = Math.min(Number(searchParams.get('limit')) || 20, 100);
 
+  if (query.length > 200) {
+    return NextResponse.json({ error: 'Query too long' }, { status: 400 });
+  }
+
   try {
     if (!query) {
       const [{ rows }, countResult] = await Promise.all([

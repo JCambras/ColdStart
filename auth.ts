@@ -32,6 +32,10 @@ export const { handlers, signIn, signOut, auth } = NextAuth({
 
         if (!email || !password) return null;
 
+        if (action === 'signup' && password.length < 8) {
+          throw new Error('Password must be at least 8 characters');
+        }
+
         const existing = await pool.query(
           'SELECT * FROM users WHERE email = $1',
           [email],
@@ -59,15 +63,15 @@ export const { handlers, signIn, signOut, auth } = NextAuth({
           };
         }
 
-        // Sign in
+        // Sign in — use generic error to prevent user enumeration
         const user = existing.rows[0];
         if (!user || !user.password_hash) {
-          throw new Error('No account found');
+          throw new Error('Invalid email or password');
         }
 
         const valid = await bcrypt.compare(password, user.password_hash);
         if (!valid) {
-          throw new Error('Invalid password');
+          throw new Error('Invalid email or password');
         }
 
         return {

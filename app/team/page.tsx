@@ -10,14 +10,18 @@ export default function TeamDashboardPage() {
   const [email, setEmail] = useState('');
   const [submitted, setSubmitted] = useState(false);
 
-  function handleNotify(e: React.FormEvent) {
+  async function handleNotify(e: React.FormEvent) {
     e.preventDefault();
     if (!email.trim()) return;
     try {
-      const existing = JSON.parse(localStorage.getItem('coldstart_team_notify') || '[]');
-      existing.push({ email: email.trim(), date: new Date().toISOString() });
-      localStorage.setItem('coldstart_team_notify', JSON.stringify(existing));
-    } catch {}
+      await fetch('/api/v1/notify', {
+        method: 'POST',
+        headers: { 'Content-Type': 'application/json' },
+        body: JSON.stringify({ email: email.trim(), feature: 'team_dashboard' }),
+      });
+    } catch {
+      // Still show success — email is best-effort
+    }
     setSubmitted(true);
   }
 

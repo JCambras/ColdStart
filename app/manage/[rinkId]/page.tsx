@@ -29,8 +29,6 @@ export default function OperatorDashboard() {
   const [signals, setSignals] = useState<DashSignal[]>([]);
   const [tips, setTips] = useState<DashTip[]>([]);
   const [loading, setLoading] = useState(true);
-  const [ratingsLast7d, setRatingsLast7d] = useState(0);
-  const [ratingsLast30d, setRatingsLast30d] = useState(0);
   const [authChecked, setAuthChecked] = useState(false);
   const [accessDenied, setAccessDenied] = useState(false);
 
@@ -79,17 +77,11 @@ export default function OperatorDashboard() {
         setSignals(sigs);
 
         // Tips with flag counts
-        const tipIds = (data.summary?.tips || []).map((t: { id: number }) => t.id);
         const tipsWithFlags = (data.summary?.tips || []).map((t: DashTip) => ({
           ...t,
           flag_count: 0,
         }));
         setTips(tipsWithFlags);
-
-        // Count recent ratings
-        const totalCount = sigs.reduce((sum: number, s: DashSignal) => sum + s.count, 0);
-        setRatingsLast7d(Math.min(totalCount, Math.floor(totalCount * 0.15)));
-        setRatingsLast30d(Math.min(totalCount, Math.floor(totalCount * 0.4)));
       } catch {
         // Failed to load
       } finally {
@@ -196,8 +188,8 @@ export default function OperatorDashboard() {
         </h1>
       </div>
 
-      {/* Analytics cards */}
-      <div style={{ display: 'grid', gridTemplateColumns: 'repeat(3, 1fr)', gap: 12, marginBottom: 32 }}>
+      {/* Analytics card */}
+      <div style={{ display: 'grid', gridTemplateColumns: 'repeat(2, 1fr)', gap: 12, marginBottom: 32 }}>
         <div style={{
           padding: '16px 20px', borderRadius: 12,
           background: colors.bgSubtle, border: `1px solid ${colors.borderLight}`,
@@ -211,15 +203,10 @@ export default function OperatorDashboard() {
           padding: '16px 20px', borderRadius: 12,
           background: colors.bgSubtle, border: `1px solid ${colors.borderLight}`,
         }}>
-          <div style={{ fontSize: 24, fontWeight: 700, color: colors.textPrimary }}>{ratingsLast7d}</div>
-          <div style={{ fontSize: 12, color: colors.textMuted, marginTop: 2 }}>Last 7 Days</div>
-        </div>
-        <div style={{
-          padding: '16px 20px', borderRadius: 12,
-          background: colors.bgSubtle, border: `1px solid ${colors.borderLight}`,
-        }}>
-          <div style={{ fontSize: 24, fontWeight: 700, color: colors.textPrimary }}>{ratingsLast30d}</div>
-          <div style={{ fontSize: 12, color: colors.textMuted, marginTop: 2 }}>Last 30 Days</div>
+          <div style={{ fontSize: 24, fontWeight: 700, color: colors.textPrimary }}>
+            {tips.length}
+          </div>
+          <div style={{ fontSize: 12, color: colors.textMuted, marginTop: 2 }}>Total Tips</div>
         </div>
       </div>
 

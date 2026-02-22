@@ -105,6 +105,14 @@ async function run() {
         created_at TIMESTAMPTZ NOT NULL DEFAULT NOW()
       );
 
+      CREATE TABLE IF NOT EXISTS notify_signups (
+        id SERIAL PRIMARY KEY,
+        email TEXT NOT NULL,
+        feature TEXT NOT NULL DEFAULT 'general',
+        created_at TIMESTAMPTZ NOT NULL DEFAULT NOW(),
+        UNIQUE(email, feature)
+      );
+
       CREATE TABLE IF NOT EXISTS nearby_places (
         id SERIAL PRIMARY KEY,
         rink_id TEXT NOT NULL REFERENCES rinks(id),

@@ -239,6 +239,7 @@ export function AuthModal({ isOpen, onClose, onSuccess }: AuthModalProps) {
                 onChange={(e) => { setPassword(e.target.value); setError(''); }}
                 onKeyDown={(e) => e.key === 'Enter' && handleCredentials()}
                 placeholder="Enter your password"
+                minLength={8}
                 style={{
                   width: '100%', padding: '10px 14px', fontSize: text.base,
                   border: `1px solid ${colors.borderMedium}`, borderRadius: radius.lg,
