@@ -40,13 +40,13 @@ export async function generateMetadata({ params }: Props): Promise<Metadata> {
         description,
         siteName: 'ColdStart Hockey',
         type: 'website',
-        // OG image auto-discovered from opengraph-image.tsx
+        images: [{ url: `/rinks/${id}/opengraph-image`, width: 1200, height: 630, alt: title }],
       },
       twitter: {
         card: 'summary_large_image',
         title: `${title} | ColdStart Hockey`,
         description,
-        // Twitter image auto-discovered from opengraph-image.tsx
+        images: [`/rinks/${id}/opengraph-image`],
       },
     };
   } catch {

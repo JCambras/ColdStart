@@ -6,7 +6,11 @@ import { computeVerdict, computeConfidence } from './verdict';
 export async function buildSummary(rinkId: string): Promise<RinkSummary> {
   const [signalResult, tipResult] = await Promise.all([
     pool.query(
-      `SELECT signal, AVG(value) AS value, COUNT(*)::int AS count, STDDEV_POP(value) AS stddev
+      `SELECT signal,
+              AVG(value) AS value, COUNT(*)::int AS count, STDDEV_POP(value) AS stddev,
+              AVG(value) FILTER (WHERE created_at >= NOW() - INTERVAL '12 months') AS recent_value,
+              COUNT(*) FILTER (WHERE created_at >= NOW() - INTERVAL '12 months')::int AS recent_count,
+              STDDEV_POP(value) FILTER (WHERE created_at >= NOW() - INTERVAL '12 months') AS recent_stddev
        FROM signal_ratings WHERE rink_id = $1 GROUP BY signal`,
       [rinkId]
     ),
@@ -28,9 +32,12 @@ export async function buildSummary(rinkId: string): Promise<RinkSummary> {
   const signals: Signal[] = VENUE_CONFIG.signals.map((key) => {
     const row = signalResult.rows.find((r: { signal: string }) => r.signal === key);
     if (row) {
-      const avg = parseFloat(row.value);
-      const count = row.count;
-      const stddev = row.stddev ? Math.round(parseFloat(row.stddev) * 100) / 100 : 0;
+      // Prefer last-12-month data when available; fall back to all-time
+      const hasRecent = row.recent_count > 0;
+      const avg = parseFloat(hasRecent ? row.recent_value : row.value);
+      const count = hasRecent ? row.recent_count : row.count;
+      const rawStddev = hasRecent && row.recent_stddev != null ? row.recent_stddev : row.stddev;
+      const stddev = rawStddev ? Math.round(parseFloat(rawStddev) * 100) / 100 : 0;
       return {
         signal: key,
         value: Math.round(avg * 10) / 10,
