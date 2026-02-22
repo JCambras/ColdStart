@@ -1,9 +1,8 @@
 import { pool } from './db';
 import type { RinkSummary, Signal, Tip } from './rinkTypes';
-import { getVenueConfig } from './venueConfig';
+import { VENUE_CONFIG } from './venueConfig';
 
-export async function buildSummary(rinkId: string, sport?: string): Promise<RinkSummary> {
-  const venueConfig = getVenueConfig(sport);
+export async function buildSummary(rinkId: string): Promise<RinkSummary> {
   const [signalResult, tipResult] = await Promise.all([
     pool.query(
       `SELECT signal, AVG(value) AS value, COUNT(*)::int AS count
@@ -25,7 +24,7 @@ export async function buildSummary(rinkId: string, sport?: string): Promise<Rink
     ),
   ]);
 
-  const signals: Signal[] = venueConfig.signals.map((key) => {
+  const signals: Signal[] = VENUE_CONFIG.signals.map((key) => {
     const row = signalResult.rows.find((r: { signal: string }) => r.signal === key);
     if (row) {
       const avg = parseFloat(row.value);
@@ -85,13 +84,13 @@ export async function buildSummary(rinkId: string, sport?: string): Promise<Rink
 
   let verdict = '';
   if (totalCount === 0) {
-    verdict = venueConfig.verdicts.none;
+    verdict = VENUE_CONFIG.verdicts.none;
   } else if (overallAvg >= 3.8) {
-    verdict = venueConfig.verdicts.good;
+    verdict = VENUE_CONFIG.verdicts.good;
   } else if (overallAvg >= 3.0) {
-    verdict = venueConfig.verdicts.mixed;
+    verdict = VENUE_CONFIG.verdicts.mixed;
   } else {
-    verdict = venueConfig.verdicts.bad;
+    verdict = VENUE_CONFIG.verdicts.bad;
   }
 
   // Consider "confirmed this season" if any data in last 6 months

@@ -30,7 +30,7 @@ describe('US_STATES', () => {
 
 // ── SIGNAL_ICONS ──
 describe('SIGNAL_ICONS', () => {
-  it('has 10 entries (one per signal type)', () => {
+  it('has 10 entries (7 hockey + 3 baseball signal types)', () => {
     expect(Object.keys(SIGNAL_ICONS)).toHaveLength(10);
   });
 
@@ -44,13 +44,12 @@ describe('SIGNAL_ICONS', () => {
 
 // ── SIGNAL_ORDER ──
 describe('SIGNAL_ORDER', () => {
-  it('has 10 entries matching SignalType values', () => {
-    expect(SIGNAL_ORDER).toHaveLength(10);
+  it('has 7 entries matching SignalType values', () => {
+    expect(SIGNAL_ORDER).toHaveLength(7);
 
     const expectedTypes: SignalType[] = [
       'parking', 'cold', 'food_nearby', 'chaos',
       'family_friendly', 'locker_rooms', 'pro_shop',
-      'heat', 'dugouts', 'batting_cages',
     ];
     expect(SIGNAL_ORDER).toEqual(expect.arrayContaining(expectedTypes));
   });
@@ -61,10 +60,9 @@ describe('SIGNAL_META', () => {
   const allSignalTypes: SignalType[] = [
     'cold', 'parking', 'chaos', 'food_nearby',
     'family_friendly', 'locker_rooms', 'pro_shop',
-    'heat', 'dugouts', 'batting_cages',
   ];
 
-  it('has entries for all 10 signal types', () => {
+  it('has entries for all signal types (hockey + baseball)', () => {
     expect(Object.keys(SIGNAL_META)).toHaveLength(10);
     for (const type of allSignalTypes) {
       expect(SIGNAL_META[type]).toBeDefined();

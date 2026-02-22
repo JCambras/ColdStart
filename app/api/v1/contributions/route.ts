@@ -1,12 +1,12 @@
 import { NextRequest, NextResponse } from 'next/server';
 import { pool } from '../../../../lib/db';
 import { buildSummary } from '../../../../lib/dbSummary';
-import { getVenueConfig } from '../../../../lib/venueConfig';
+import { VENUE_CONFIG } from '../../../../lib/venueConfig';
 
 export async function POST(request: NextRequest) {
   try {
     const body = await request.json();
-    const { rink_id, kind, contributor_type, context, user_id, sport } = body;
+    const { rink_id, kind, contributor_type, context, user_id } = body;
 
     if (!rink_id || !kind) {
       return NextResponse.json({ error: 'rink_id and kind are required' }, { status: 400 });
@@ -23,7 +23,7 @@ export async function POST(request: NextRequest) {
       if (!signal_rating?.signal || !signal_rating?.value) {
         return NextResponse.json({ error: 'signal_rating.signal and signal_rating.value are required' }, { status: 400 });
       }
-      if (!getVenueConfig(sport).signals.includes(signal_rating.signal)) {
+      if (!VENUE_CONFIG.signals.includes(signal_rating.signal)) {
         return NextResponse.json({ error: `Invalid signal: ${signal_rating.signal}` }, { status: 400 });
       }
       const value = Number(signal_rating.value);
@@ -99,7 +99,7 @@ export async function POST(request: NextRequest) {
     }
 
     // Return updated summary wrapped in { data: { summary } }
-    const summary = await buildSummary(rink_id, sport);
+    const summary = await buildSummary(rink_id);
     return NextResponse.json({ data: { summary } });
   } catch (err) {
     console.error('POST /api/v1/contributions error:', err);

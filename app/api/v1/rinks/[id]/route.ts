@@ -19,15 +19,7 @@ export async function GET(
     }
 
     const rink = rows[0];
-
-    // Infer sport from existing signal data
-    const sportCheck = await pool.query(
-      `SELECT signal FROM signal_ratings WHERE rink_id = $1 AND signal IN ('heat', 'dugouts', 'batting_cages') LIMIT 1`,
-      [id]
-    );
-    const sport = sportCheck.rows.length > 0 ? 'baseball' : 'hockey';
-
-    const summary = await buildSummary(id, sport);
+    const summary = await buildSummary(id);
 
     const [teamResult, photoResult] = await Promise.all([
       pool.query('SELECT team_name FROM home_teams WHERE rink_id = $1 ORDER BY id', [id]),
