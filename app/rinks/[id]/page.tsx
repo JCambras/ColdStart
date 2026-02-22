@@ -383,6 +383,26 @@ export default function RinkPage() {
               >
                 {rink.address}, {rink.city}, {rink.state}
               </a>
+              {detail.same_name_rinks && detail.same_name_rinks.length > 0 && (
+                <div style={{
+                  marginTop: 8, padding: '8px 12px', borderRadius: 8,
+                  background: colors.bgInfo, border: `1px solid ${colors.brandLight}`,
+                  fontSize: 12, color: colors.brandDark,
+                }}>
+                  Not the right one? There&apos;s also a {rink.name} in{' '}
+                  {detail.same_name_rinks.map((s, i) => (
+                    <span key={s.id}>
+                      {i > 0 && ', '}
+                      <a
+                        href={`/rinks/${s.id}`}
+                        style={{ color: colors.brand, fontWeight: 600, textDecoration: 'underline', textUnderlineOffset: 2 }}
+                      >
+                        {s.city}, {s.state}
+                      </a>
+                    </span>
+                  ))}
+                </div>
+              )}
               {rinkSlug === 'ice-line' && (
                 <div style={{ fontSize: 12, color: colors.textTertiary, marginTop: 4 }}>
                   🏠 Home of the{' '}

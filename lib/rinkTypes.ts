@@ -45,6 +45,7 @@ export interface RinkDetail {
   rink: Rink;
   summary: RinkSummary;
   home_teams?: string[];
+  same_name_rinks?: { id: string; city: string; state: string; address: string }[];
 }
 
 export interface UserProfile {

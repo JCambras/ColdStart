@@ -68,8 +68,8 @@ export async function POST(request: NextRequest) {
       if (!tipData?.text?.trim()) {
         return NextResponse.json({ error: 'tip text is required' }, { status: 400 });
       }
-      if (tipData.text.trim().length > 140) {
-        return NextResponse.json({ error: 'tip text must be 140 characters or fewer' }, { status: 400 });
+      if (tipData.text.trim().length > 280) {
+        return NextResponse.json({ error: 'tip text must be 280 characters or fewer' }, { status: 400 });
       }
 
       const client = await pool.connect();

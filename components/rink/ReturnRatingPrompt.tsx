@@ -5,6 +5,7 @@ import { RinkSummary } from '../../lib/rinkTypes';
 import { apiPost } from '../../lib/api';
 import { storage } from '../../lib/storage';
 import { colors } from '../../lib/theme';
+import { ContextToggle } from './ContextToggle';
 
 const PROMPT_SIGNALS = [
   { key: 'parking', icon: '🅿️', question: 'How was parking?', low: 'Tough', high: 'Easy' },
@@ -47,6 +48,7 @@ export function ReturnRatingPrompt({
       rink_id: rinkId,
       kind: 'signal_rating',
       contributor_type: 'visiting_parent',
+      context: storage.getRatingContext(),
       signal_rating: { signal, value },
       user_id: currentUser?.id,
     });
@@ -67,6 +69,7 @@ export function ReturnRatingPrompt({
       rink_id: rinkId,
       kind: 'tip',
       contributor_type: 'visiting_parent',
+      context: storage.getRatingContext(),
       tip: { text: tipText.trim() },
       user_id: currentUser?.id,
     });
@@ -160,7 +163,7 @@ export function ReturnRatingPrompt({
             onChange={(e) => setTipText(e.target.value)}
             placeholder="e.g. Use the side entrance for Rink C"
             onKeyDown={(e) => e.key === 'Enter' && submitTip()}
-            maxLength={140}
+            maxLength={280}
             aria-label="Write a tip"
             autoFocus
             style={{
@@ -202,6 +205,9 @@ export function ReturnRatingPrompt({
       border: `1px solid ${colors.indigoBorder}`,
       borderRadius: 14, padding: '18px 20px', marginTop: 16,
     }}>
+      <div style={{ marginBottom: 10 }}>
+        <ContextToggle />
+      </div>
       <div style={{ display: 'flex', alignItems: 'center', justifyContent: 'space-between', marginBottom: 12 }}>
         <div>
           <p style={{ fontSize: 14, fontWeight: 700, color: colors.indigo, margin: 0 }}>

@@ -88,6 +88,9 @@ export function RinkCard({ rink, onClick }: { rink: RinkData; onClick: () => voi
       <div style={{ fontSize: text.sm, color: colors.textTertiary, marginTop: 3 }}>
         {rink.city}, {rink.state}
       </div>
+      {rink.address && (
+        <div style={{ fontSize: 11, color: colors.textMuted, marginTop: 2 }}>{rink.address}</div>
+      )}
 
       {summary ? (
         <div style={{ flex: 1, display: 'flex', flexDirection: 'column', justifyContent: 'space-between', marginTop: 10 }}>

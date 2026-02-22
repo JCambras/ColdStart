@@ -169,6 +169,15 @@ export function TipCard({ tip, tipIndex, rinkSlug }: { tip: Tip; tipIndex: numbe
                       {tip.contributor_name}
                     </a>
                   )}
+                  {tip.context === 'tournament' && (
+                    <span style={{
+                      fontSize: text['2xs'], fontWeight: 600, padding: '1px 6px',
+                      borderRadius: 6, display: 'inline-block',
+                      background: colors.bgWarning, color: colors.amber,
+                    }}>
+                      {'\u{1F3C6}'} Tournament
+                    </span>
+                  )}
                   {tip.contributor_badge && (
                     <span style={{
                       fontSize: text['2xs'], fontWeight: 600, padding: '1px 6px',

@@ -42,6 +42,7 @@ export function QuickVoteRow({ rinkId, onSummaryUpdate, onRatedCountChange }: Qu
       const contributorType = storage.getContributorType();
       const { data } = await apiPost<{ summary?: RinkSummary }>('/contributions', {
         rink_id: rinkId, kind: 'signal_rating', contributor_type: contributorType,
+        context: storage.getRatingContext(),
         signal_rating: { signal, value },
         user_id: currentUser?.id,
       });

@@ -37,6 +37,7 @@ export function QuickTipInput({ rinkId, onSummaryUpdate }: QuickTipInputProps) {
       const contributorType = storage.getContributorType();
       const { data } = await apiPost<{ summary?: RinkSummary }>('/contributions', {
         rink_id: rinkId, kind: 'one_thing_tip', contributor_type: contributorType,
+        context: storage.getRatingContext(),
         one_thing_tip: { text: tipText.trim() },
       });
       if (data?.summary) onSummaryUpdate(data.summary);
@@ -81,7 +82,7 @@ export function QuickTipInput({ rinkId, onSummaryUpdate }: QuickTipInputProps) {
         value={text}
         onChange={(e) => setText(e.target.value)}
         placeholder="One thing parents should know..."
-        maxLength={140}
+        maxLength={280}
         aria-label="Add a tip about this rink"
         onKeyDown={(e) => { if (e.key === 'Enter') submit(); }}
         style={{

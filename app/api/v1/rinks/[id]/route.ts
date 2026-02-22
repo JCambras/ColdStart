@@ -22,7 +22,7 @@ export async function GET(
     }
 
     const rink = rows[0];
-    const [summary, teamResult, photoResult, nearbyResult, metaResult] = await Promise.all([
+    const [summary, teamResult, photoResult, nearbyResult, metaResult, sameNameResult] = await Promise.all([
       buildSummary(id),
       pool.query('SELECT team_name FROM home_teams WHERE rink_id = $1 ORDER BY id', [id]),
       pool.query(
@@ -40,6 +40,10 @@ export async function GET(
         `SELECT streaming_type, streaming_url, facility_details
          FROM venue_metadata WHERE rink_id = $1`,
         [id]
+      ),
+      pool.query(
+        'SELECT id, city, state, address FROM rinks WHERE name = $1 AND id != $2',
+        [rink.name, id]
       ),
     ]);
     const home_teams = teamResult.rows.map((r: { team_name: string }) => r.team_name);
@@ -60,8 +64,9 @@ export async function GET(
     }
 
     const venue_metadata = metaResult.rows[0] || null;
+    const same_name_rinks = sameNameResult.rows;
 
-    return NextResponse.json({ rink, summary, home_teams, photos, nearby, venue_metadata });
+    return NextResponse.json({ rink, summary, home_teams, photos, nearby, venue_metadata, same_name_rinks });
   } catch (err) {
     logger.error('Rink detail failed', { ...logCtx, error: err, rinkId: id });
     return NextResponse.json({ error: 'Internal server error' }, { status: 500 });

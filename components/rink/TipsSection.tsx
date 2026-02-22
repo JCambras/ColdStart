@@ -12,8 +12,11 @@ interface TipsSectionProps {
 
 export function TipsSection({ tips, rinkSlug }: TipsSectionProps) {
   const [showAll, setShowAll] = useState(false);
+  const [filterTournament, setFilterTournament] = useState(false);
 
-  const displayTips = showAll ? tips : tips.slice(0, 3);
+  const tournamentCount = tips.filter(t => t.context === 'tournament').length;
+  const filteredTips = filterTournament ? tips.filter(t => t.context === 'tournament') : tips;
+  const displayTips = showAll ? filteredTips : filteredTips.slice(0, 3);
 
   return (
     <section id="tips-section" aria-label="Tips from parents" style={{ marginTop: 24 }}>
@@ -24,9 +27,27 @@ export function TipsSection({ tips, rinkSlug }: TipsSectionProps) {
         }}>
           Things to know{tips.length > 0 ? ` (${tips.length})` : ''}
         </h3>
-        {tips.length > 0 && (
-          <span style={{ fontSize: 11, color: colors.textMuted }}>Sorted by most helpful</span>
-        )}
+        <div style={{ display: 'flex', alignItems: 'center', gap: 8 }}>
+          {tournamentCount > 0 && (
+            <button
+              onClick={() => setFilterTournament(!filterTournament)}
+              aria-pressed={filterTournament}
+              style={{
+                fontSize: 11, fontWeight: filterTournament ? 600 : 400,
+                padding: '3px 10px', borderRadius: 12,
+                background: filterTournament ? colors.bgWarning : 'transparent',
+                color: filterTournament ? colors.amber : colors.textMuted,
+                border: `1px solid ${filterTournament ? colors.amberBorder : colors.borderDefault}`,
+                cursor: 'pointer', transition: 'all 0.15s',
+              }}
+            >
+              {'\u{1F3C6}'} Tournament ({tournamentCount})
+            </button>
+          )}
+          {tips.length > 0 && (
+            <span style={{ fontSize: 11, color: colors.textMuted }}>Sorted by most helpful</span>
+          )}
+        </div>
       </div>
       {tips.length === 0 ? (
         <div style={{
@@ -42,7 +63,7 @@ export function TipsSection({ tips, rinkSlug }: TipsSectionProps) {
           {displayTips.map((tip, i) => (
             <TipCard key={i} tip={tip} tipIndex={i} rinkSlug={rinkSlug} />
           ))}
-          {tips.length > 3 && !showAll && (
+          {filteredTips.length > 3 && !showAll && (
             <button
               onClick={() => setShowAll(true)}
               style={{
@@ -51,7 +72,7 @@ export function TipsSection({ tips, rinkSlug }: TipsSectionProps) {
                 fontWeight: 500,
               }}
             >
-              Show {tips.length - 3} more tips →
+              Show {filteredTips.length - 3} more tips →
             </button>
           )}
         </>

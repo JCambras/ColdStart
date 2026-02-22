@@ -8,6 +8,7 @@ import { storage } from '../../lib/storage';
 import { useAuth } from '../../contexts/AuthContext';
 import { colors } from '../../lib/theme';
 import { VisitorToggle } from './VisitorToggle';
+import { ContextToggle } from './ContextToggle';
 import { QuickVoteRow } from './QuickVoteRow';
 import { QuickTipInput } from './QuickTipInput';
 
@@ -41,6 +42,7 @@ export function ContributeSection({ rinkId, onSummaryUpdate }: { rinkId: string;
     const body: Record<string, unknown> = {
       rink_id: rinkId,
       contributor_type: contributorType,
+      context: storage.getRatingContext(),
       user_id: currentUser?.id,
     };
 
@@ -149,12 +151,12 @@ export function ContributeSection({ rinkId, onSummaryUpdate }: { rinkId: string;
 
       {mode === 'tip' && (
         <div style={{ marginBottom: 20 }}>
-          <textarea value={tipText} onChange={(e) => setTipText(e.target.value)} placeholder="One thing parents should know about this rink..." maxLength={140} rows={3} aria-label="Write a tip"
+          <textarea value={tipText} onChange={(e) => setTipText(e.target.value)} placeholder="One thing parents should know about this rink..." maxLength={280} rows={3} aria-label="Write a tip"
             style={{ width: '100%', fontSize: 14, border: `1px solid ${colors.borderDefault}`, borderRadius: 12, padding: '14px 16px', outline: 'none', resize: 'none', fontFamily: 'inherit', color: colors.textPrimary, lineHeight: 1.5 }}
             onFocus={(e) => { e.currentTarget.style.borderColor = colors.brand; e.currentTarget.style.boxShadow = '0 0 0 3px rgba(14,165,233,0.1)'; }}
             onBlur={(e) => { e.currentTarget.style.borderColor = colors.borderDefault; e.currentTarget.style.boxShadow = 'none'; }} />
           <div style={{ display: 'flex', justifyContent: 'flex-end', marginTop: 4 }}>
-            <span style={{ fontSize: 11, color: tipText.length > 120 ? colors.amber : colors.textMuted, fontWeight: tipText.length > 130 ? 600 : 400 }}>{tipText.length}/140</span>
+            <span style={{ fontSize: 11, color: tipText.length > 240 ? colors.amber : colors.textMuted, fontWeight: tipText.length > 260 ? 600 : 400 }}>{tipText.length}/280</span>
           </div>
         </div>
       )}
@@ -263,7 +265,10 @@ export function RateAndContribute({ rinkId, rinkName, onSummaryUpdate }: { rinkI
       <section style={{ marginTop: 16, background: colors.white, border: `1px solid ${colors.borderDefault}`, borderRadius: 16, overflow: 'hidden' }}>
         <div style={{ padding: '8px 24px', background: colors.bgInfo, borderBottom: `1px solid ${colors.borderLight}`, display: 'flex', alignItems: 'center', justifyContent: 'space-between' }}>
           <span style={{ fontSize: 13, fontWeight: 600, color: colors.textPrimary }}>Rate the signals</span>
-          <VisitorToggle />
+          <div style={{ display: 'flex', gap: 8 }}>
+            <ContextToggle />
+            <VisitorToggle />
+          </div>
         </div>
         <div style={{ padding: '18px 24px' }}>
           <QuickVoteRow rinkId={rinkId} onSummaryUpdate={onSummaryUpdate} onRatedCountChange={setRatedCount} />
@@ -289,7 +294,10 @@ export function RateAndContribute({ rinkId, rinkName, onSummaryUpdate }: { rinkI
       <section style={{ marginTop: 16, background: colors.white, border: `1px solid ${colors.borderDefault}`, borderRadius: 16, overflow: 'hidden' }}>
         <div style={{ padding: '8px 24px', background: colors.bgInfo, borderBottom: `1px solid ${colors.borderLight}`, display: 'flex', alignItems: 'center', justifyContent: 'space-between' }}>
           <span style={{ fontSize: 13, fontWeight: 600, color: colors.textPrimary }}>Drop a tip</span>
-          <VisitorToggle />
+          <div style={{ display: 'flex', gap: 8 }}>
+            <ContextToggle />
+            <VisitorToggle />
+          </div>
         </div>
         <div style={{ padding: '18px 24px' }}>
           <div style={{ marginBottom: 10 }}>
