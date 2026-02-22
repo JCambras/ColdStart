@@ -105,7 +105,7 @@ export function AuthModal({ isOpen, onClose, onSuccess }: AuthModalProps) {
     padding: '10px 0',
     fontSize: text.base,
     fontWeight: 600,
-    background: '#fff',
+    background: colors.surface,
     color: colors.textPrimary,
     border: `1px solid ${colors.borderDefault}`,
     borderRadius: radius.lg,
@@ -134,7 +134,7 @@ export function AuthModal({ isOpen, onClose, onSuccess }: AuthModalProps) {
       <div
         onClick={(e) => e.stopPropagation()}
         style={{
-          background: '#fff', borderRadius: 20, maxWidth: 400, width: '100%',
+          background: colors.surface, borderRadius: 20, maxWidth: 400, width: '100%',
           padding: 32, boxShadow: '0 20px 60px rgba(0,0,0,0.15)',
         }}
       >
@@ -187,8 +187,8 @@ export function AuthModal({ isOpen, onClose, onSuccess }: AuthModalProps) {
             {error && (
               <div style={{
                 padding: '8px 12px', marginBottom: 12, borderRadius: radius.md,
-                background: '#fef2f2', border: '1px solid #fecaca',
-                fontSize: text.sm, color: '#991b1b',
+                background: colors.bgError, border: `1px solid ${colors.error}`,
+                fontSize: text.sm, color: colors.error,
               }}>
                 {error}
               </div>
@@ -253,7 +253,7 @@ export function AuthModal({ isOpen, onClose, onSuccess }: AuthModalProps) {
               disabled={sending || !canSubmit}
               style={{
                 width: '100%', padding: '12px 0', fontSize: text.base, fontWeight: 700,
-                background: sending ? '#93c5fd' : '#000', color: '#fff',
+                background: sending ? colors.brandLight : colors.textPrimary, color: colors.textInverse,
                 border: 'none', borderRadius: radius.lg, cursor: sending ? 'wait' : 'pointer',
                 transition: 'all 0.15s',
                 opacity: !canSubmit ? 0.5 : 1,

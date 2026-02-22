@@ -47,7 +47,7 @@ export function getBarBorder(value: number, count?: number) {
   if (count !== undefined && count < 3) return colors.borderDefault;
   if (value >= 3.5) return colors.successBorder;
   if (value >= 2.5) return colors.warningBorder;
-  return '#fecaca';
+  return colors.error;
 }
 
 export function timeAgo(dateStr: string): string {

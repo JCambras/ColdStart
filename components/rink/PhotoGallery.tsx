@@ -121,7 +121,7 @@ export function PhotoGallery({ photos, rinkId, rinkName, staticPhoto, currentUse
         </div>
         <label style={{
           position: 'absolute', top: 10, right: 10,
-          fontSize: 11, fontWeight: 600, color: '#fff',
+          fontSize: 11, fontWeight: 600, color: colors.textInverse,
           background: 'rgba(0,0,0,0.5)', padding: '4px 10px',
           borderRadius: 6, cursor: 'pointer', backdropFilter: 'blur(4px)',
         }}>

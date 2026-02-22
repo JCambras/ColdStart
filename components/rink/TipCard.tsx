@@ -152,7 +152,7 @@ export function TipCard({ tip, tipIndex, rinkSlug }: { tip: Tip; tipIndex: numbe
                     fontSize: text['2xs'], fontWeight: 500, padding: '1px 6px',
                     borderRadius: 6, display: 'inline-block',
                     background: isLocal ? colors.indigoBg : colors.purpleBg,
-                    color: isLocal ? '#2563eb' : colors.purple,
+                    color: isLocal ? colors.indigo : colors.purple,
                   }}>
                     {isLocal ? 'Local' : 'Visitor'}
                   </span>
@@ -217,7 +217,7 @@ export function TipCard({ tip, tipIndex, rinkSlug }: { tip: Tip; tipIndex: numbe
                   fontSize: text['2xs'], fontWeight: 500, padding: '2px 8px',
                   borderRadius: radius.lg,
                   background: isLocal ? colors.indigoBg : colors.purpleBg,
-                  color: isLocal ? '#2563eb' : colors.purple,
+                  color: isLocal ? colors.indigo : colors.purple,
                 }}>
                   {isLocal ? 'Plays here regularly' : 'Visiting parent'}
                 </span>

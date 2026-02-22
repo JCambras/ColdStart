@@ -265,7 +265,7 @@ export function ReturnRatingPrompt({
               style={{
                 flex: 1, height: 48,
                 fontSize: 18, fontWeight: 700,
-                color: isRated ? '#fff' : color,
+                color: isRated ? colors.textInverse : color,
                 background: isRated ? color : bg,
                 border: `2px solid ${isRated ? color : 'transparent'}`,
                 borderRadius: 10, cursor: submitting ? 'wait' : 'pointer',

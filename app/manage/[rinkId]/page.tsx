@@ -222,7 +222,7 @@ export default function OperatorDashboard() {
           <div key={s.signal} style={{
             display: 'flex', alignItems: 'center', justifyContent: 'space-between',
             padding: '10px 14px', marginBottom: 6,
-            background: '#fff', border: `1px solid ${colors.borderLight}`, borderRadius: 10,
+            background: colors.surface, border: `1px solid ${colors.borderLight}`, borderRadius: 10,
           }}>
             <span style={{ fontSize: 14, fontWeight: 500, color: colors.textPrimary, textTransform: 'capitalize' }}>
               {s.signal.replace(/_/g, ' ')}
@@ -251,7 +251,7 @@ export default function OperatorDashboard() {
         {tips.map(tip => (
           <div key={tip.id} style={{
             padding: '14px 16px', marginBottom: 8,
-            background: '#fff', border: `1px solid ${colors.borderLight}`, borderRadius: 12,
+            background: colors.surface, border: `1px solid ${colors.borderLight}`, borderRadius: 12,
           }}>
             <div style={{ display: 'flex', justifyContent: 'space-between', alignItems: 'flex-start' }}>
               <p style={{ fontSize: 14, color: colors.textSecondary, margin: 0, flex: 1, lineHeight: 1.5 }}>
@@ -335,7 +335,7 @@ export default function OperatorDashboard() {
                     style={{
                       fontSize: 13, fontWeight: 600, padding: '8px 16px',
                       background: responseText.trim() && responderName.trim() ? colors.indigo : colors.borderDefault,
-                      color: responseText.trim() && responderName.trim() ? '#fff' : colors.textMuted,
+                      color: responseText.trim() && responderName.trim() ? colors.textInverse : colors.textMuted,
                       border: 'none', borderRadius: 8, cursor: 'pointer',
                     }}
                   >

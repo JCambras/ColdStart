@@ -52,7 +52,7 @@ export function RinkCard({ rink, onClick }: { rink: RinkData; onClick: () => voi
       height: isMobile ? 160 : 'auto',
       flexShrink: 0,
       position: 'relative', overflow: 'hidden',
-      background: '#f1f5f9',
+      background: colors.bgSubtle,
       borderBottom: isMobile ? `1px solid ${colors.borderLight}` : 'none',
       borderLeft: isMobile ? 'none' : `1px solid ${colors.borderLight}`,
     }}>
@@ -136,7 +136,7 @@ export function RinkCard({ rink, onClick }: { rink: RinkData; onClick: () => voi
                 From {summary.contribution_count} hockey parent{summary.contribution_count !== 1 ? 's' : ''}
               </span>
               {summary.confirmed_this_season && (
-                <span style={{ fontSize: text['2xs'], fontWeight: 500, padding: '2px 8px', borderRadius: 10, background: '#ecfdf5', color: '#059669' }}>
+                <span style={{ fontSize: text['2xs'], fontWeight: 500, padding: '2px 8px', borderRadius: 10, background: colors.bgSuccess, color: colors.success }}>
                   ✓ This season
                 </span>
               )}
@@ -160,7 +160,7 @@ export function RinkCard({ rink, onClick }: { rink: RinkData; onClick: () => voi
       onMouseEnter={() => setHovered(true)}
       onMouseLeave={() => setHovered(false)}
       style={{
-        background: '#fff',
+        background: colors.surface,
         border: `1px solid ${colors.borderDefault}`,
         borderRadius: 16,
         cursor: 'pointer',

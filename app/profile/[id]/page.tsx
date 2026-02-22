@@ -57,7 +57,7 @@ export default async function ProfilePage({ params }: { params: Promise<{ id: st
           width: 64, height: 64, borderRadius: '50%',
           background: `linear-gradient(135deg, ${colors.brand}, ${colors.brandAccent})`,
           display: 'flex', alignItems: 'center', justifyContent: 'center',
-          color: '#fff', fontSize: 22, fontWeight: 700, flexShrink: 0,
+          color: colors.textInverse, fontSize: 22, fontWeight: 700, flexShrink: 0,
         }}>
           {initials}
         </div>
@@ -149,7 +149,7 @@ export default async function ProfilePage({ params }: { params: Promise<{ id: st
               style={{
                 display: 'flex', justifyContent: 'space-between', alignItems: 'center',
                 padding: '12px 16px', marginBottom: 6,
-                background: '#fff', border: `1px solid ${colors.borderLight}`,
+                background: colors.surface, border: `1px solid ${colors.borderLight}`,
                 borderRadius: 10, textDecoration: 'none', color: 'inherit',
               }}
             >

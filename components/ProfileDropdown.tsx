@@ -40,7 +40,7 @@ export function ProfileDropdown({ onClose }: { onClose: () => void }) {
               width: 36, height: 36, borderRadius: '50%',
               background: 'linear-gradient(135deg, #0ea5e9, #3b82f6)',
               display: 'flex', alignItems: 'center', justifyContent: 'center',
-              color: '#fff', fontSize: text.md, fontWeight: 700,
+              color: colors.textInverse, fontSize: text.md, fontWeight: 700,
             }}>
               {initials}
             </div>

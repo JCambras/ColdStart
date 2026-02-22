@@ -24,7 +24,7 @@ export function TeamManagerCTA() {
           transition: 'background 0.2s ease',
         }}>
           <div>
-            <div style={{ fontSize: 16, fontWeight: 500, color: '#ffffff' }}>
+            <div style={{ fontSize: 16, fontWeight: 500, color: colors.textInverse }}>
               Team Manager?
             </div>
             <div style={{ fontSize: 14, color: colors.stone400, marginTop: 4 }}>

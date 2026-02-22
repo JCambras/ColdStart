@@ -118,8 +118,8 @@ describe('getBarBorder', () => {
   });
 
   it('returns error border for low values', () => {
-    expect(getBarBorder(2.0)).toBe('#fecaca');
-    expect(getBarBorder(1.0)).toBe('#fecaca');
+    expect(getBarBorder(2.0)).toBe(colors.error);
+    expect(getBarBorder(1.0)).toBe(colors.error);
   });
 
   it('returns borderDefault when count < 3', () => {

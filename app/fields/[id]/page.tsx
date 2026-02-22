@@ -14,9 +14,9 @@ import { colors, text } from '../../../lib/theme';
 const config = getVenueConfig('baseball');
 
 function getBarColor(value: number): string {
-  if (value >= 4.0) return '#16a34a';
-  if (value >= 3.0) return '#d97706';
-  return '#dc2626';
+  if (value >= 4.0) return colors.success;
+  if (value >= 3.0) return colors.amber;
+  return colors.error;
 }
 
 export default function FieldPage() {
@@ -79,7 +79,7 @@ export default function FieldPage() {
           <div style={{
             display: 'inline-block', fontSize: 11, fontWeight: 700,
             textTransform: 'uppercase', letterSpacing: 1.5,
-            color: '#d97706', background: '#fffbeb',
+            color: colors.amber, background: colors.bgWarning,
             padding: '3px 10px', borderRadius: 6, marginBottom: 12,
           }}>
             &#9918; Baseball Field
@@ -111,14 +111,14 @@ export default function FieldPage() {
             <div style={{
               marginTop: 12, padding: '12px 16px', borderRadius: 12,
               background: summary.verdict.includes('Great') ? colors.bgSuccess
-                : summary.verdict.includes('Mixed') ? '#fffbeb' : colors.bgSubtle,
+                : summary.verdict.includes('Mixed') ? colors.bgWarning : colors.bgSubtle,
               border: `1px solid ${summary.verdict.includes('Great') ? colors.successBorder
-                : summary.verdict.includes('Mixed') ? '#fed7aa' : colors.borderLight}`,
+                : summary.verdict.includes('Mixed') ? colors.warningBorder : colors.borderLight}`,
             }}>
               <span style={{
                 fontSize: 15, fontWeight: 700,
                 color: summary.verdict.includes('Great') ? colors.success
-                  : summary.verdict.includes('Mixed') ? '#d97706' : colors.textMuted,
+                  : summary.verdict.includes('Mixed') ? colors.amber : colors.textMuted,
               }}>
                 {summary.verdict}
               </span>
@@ -169,7 +169,7 @@ export default function FieldPage() {
                 <div key={s.signal} style={{
                   display: 'flex', alignItems: 'center', justifyContent: 'space-between',
                   padding: '10px 14px', marginBottom: 6,
-                  background: '#fff', border: `1px solid ${colors.borderLight}`, borderRadius: 10,
+                  background: colors.surface, border: `1px solid ${colors.borderLight}`, borderRadius: 10,
                 }}>
                   <div style={{ display: 'flex', alignItems: 'center', gap: 8 }}>
                     <span style={{ fontSize: 18 }}>{meta.icon}</span>
@@ -222,7 +222,7 @@ export default function FieldPage() {
             {summary.tips.map((tip, i) => (
               <div key={i} style={{
                 padding: '10px 14px', marginBottom: 6,
-                background: '#fff', border: `1px solid ${colors.borderLight}`, borderRadius: 10,
+                background: colors.surface, border: `1px solid ${colors.borderLight}`, borderRadius: 10,
               }}>
                 <p style={{ fontSize: 14, color: colors.textSecondary, margin: 0, lineHeight: 1.5 }}>
                   &ldquo;{tip.text}&rdquo;

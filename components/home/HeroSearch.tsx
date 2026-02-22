@@ -102,7 +102,7 @@ export function HeroSearch({
           {menuOpen && (
             <div style={{
               position: 'absolute', right: 0, top: '100%', marginTop: 8,
-              background: '#ffffff', border: `1px solid ${colors.stone200}`,
+              background: colors.surface, border: `1px solid ${colors.stone200}`,
               borderRadius: 12, boxShadow: '0 8px 24px rgba(0,0,0,0.15)',
               minWidth: 180, padding: '8px 0', zIndex: 100,
             }}>
@@ -185,7 +185,7 @@ export function HeroSearch({
       }}>
         <h1 style={{
           fontSize: isMobile ? 36 : 48,
-          fontWeight: 600, color: '#ffffff',
+          fontWeight: 600, color: colors.textInverse,
           lineHeight: 1.1, letterSpacing: -0.5,
           margin: 0,
         }}>
@@ -205,7 +205,7 @@ export function HeroSearch({
           style={{
             position: 'relative', width: '100%', maxWidth: 520,
             marginTop: 28, borderRadius: 9999,
-            background: '#ffffff',
+            background: colors.surface,
             boxShadow: focused
               ? `${shadow.xl}, 0 0 0 3px rgba(255,255,255,0.4)`
               : shadow.xl,

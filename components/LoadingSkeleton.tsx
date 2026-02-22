@@ -70,7 +70,7 @@ function SkeletonCard() {
           ))}
         </div>
       </div>
-      <div style={{ width: 180, background: '#f8fafc', borderLeft: `1px solid ${colors.borderLight}` }} />
+      <div style={{ width: 180, background: colors.bgSubtle, borderLeft: `1px solid ${colors.borderLight}` }} />
     </div>
   );
 }

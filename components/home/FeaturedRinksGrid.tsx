@@ -66,7 +66,7 @@ export function FeaturedRinksGrid({ rinks, onRinkClick }: FeaturedRinksGridProps
               onMouseLeave={() => setHoveredId(null)}
               style={{
                 cursor: 'pointer',
-                background: '#fff',
+                background: colors.surface,
                 border: `1px solid ${colors.stone200}`,
                 borderRadius: 14,
                 overflow: 'hidden',

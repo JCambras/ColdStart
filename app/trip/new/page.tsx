@@ -428,7 +428,7 @@ function TripBuilderInner() {
                   style={{
                     position: 'absolute', top: 10, right: 10, zIndex: 2,
                     width: 24, height: 24, borderRadius: '50%',
-                    background: '#f3f4f6', border: `1px solid ${colors.borderDefault}`,
+                    background: colors.bgSubtle, border: `1px solid ${colors.borderDefault}`,
                     cursor: 'pointer', display: 'flex', alignItems: 'center',
                     justifyContent: 'center', fontSize: 12, color: colors.textMuted,
                     lineHeight: 1,

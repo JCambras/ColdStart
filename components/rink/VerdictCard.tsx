@@ -152,9 +152,9 @@ export function VerdictCard({ rink, summary, loadedSignals }: VerdictCardProps) 
         )}
         {hasData && isStale && (
           <p style={{
-            fontSize: 12, color: '#92400e', marginTop: 8, margin: '8px 0 0',
+            fontSize: 12, color: colors.amberDark, marginTop: 8, margin: '8px 0 0',
             padding: '6px 10px', borderRadius: 8,
-            background: '#fffbeb', border: '1px solid #fde68a',
+            background: colors.bgWarning, border: `1px solid ${colors.amberBorder}`,
             lineHeight: 1.4,
           }}>
             ⚠️ {staleLabel}

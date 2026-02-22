@@ -193,7 +193,7 @@ function FanFavoritesCategory({ rinkSlug, expanded, onToggle }: { rinkSlug: stri
           padding: '14px 20px', cursor: 'pointer',
           display: 'flex', alignItems: 'center', justifyContent: 'space-between',
           transition: 'background 0.1s',
-          background: expanded ? '#f8fafc' : colors.surface,
+          background: expanded ? colors.bgSubtle : colors.surface,
         }}
         onMouseEnter={(e) => { if (!expanded) e.currentTarget.style.background = colors.bgPage; }}
         onMouseLeave={(e) => { if (!expanded) e.currentTarget.style.background = colors.surface; }}
@@ -219,7 +219,7 @@ function FanFavoritesCategory({ rinkSlug, expanded, onToggle }: { rinkSlug: stri
         </span>
       </div>
       {expanded && (
-        <div style={{ padding: '0 20px 16px', background: '#f8fafc' }}>
+        <div style={{ padding: '0 20px 16px', background: colors.bgSubtle }}>
           {favorites.map((fav, i) => (
             <div key={i} style={{
               marginTop: 8, padding: '10px 12px', borderRadius: radius.lg,
@@ -507,7 +507,7 @@ export function NearbySection({ title, icon, categories, rinkSlug, fanFavorites 
                 padding: '14px 20px', cursor: 'pointer',
                 display: 'flex', alignItems: 'center', justifyContent: 'space-between',
                 transition: 'background 0.1s',
-                background: expanded === cat.label ? '#f8fafc' : colors.surface,
+                background: expanded === cat.label ? colors.bgSubtle : colors.surface,
               }}
               onMouseEnter={(e) => { if (expanded !== cat.label) e.currentTarget.style.background = colors.bgPage; }}
               onMouseLeave={(e) => { if (expanded !== cat.label) e.currentTarget.style.background = colors.surface; }}
@@ -533,12 +533,12 @@ export function NearbySection({ title, icon, categories, rinkSlug, fanFavorites 
               </span>
             </div>
             {expanded === cat.label && (
-              <div style={{ padding: '0 20px 16px', background: '#f8fafc' }}>
+              <div style={{ padding: '0 20px 16px', background: colors.bgSubtle }}>
                 {cat.places.every(p => p.isFar) && (
                   <div style={{
                     padding: '8px 12px', marginTop: 8, borderRadius: radius.md,
-                    background: colors.bgError, border: '1px solid #fecaca',
-                    fontSize: text.xs, color: '#991b1b',
+                    background: colors.bgError, border: `1px solid ${colors.error}`,
+                    fontSize: text.xs, color: colors.error,
                   }}>
                     ⚠️ Limited options nearby — these are further from the rink
                   </div>
@@ -608,7 +608,7 @@ export function NearbySection({ title, icon, categories, rinkSlug, fanFavorites 
                             {entry.isPartner && (
                               <span style={{
                                 fontSize: 10, fontWeight: 600, padding: '2px 6px', borderRadius: 4,
-                                background: '#fef3c7', color: colors.amberDark, textTransform: 'uppercase', letterSpacing: 0.5,
+                                background: colors.bgWarning, color: colors.amberDark, textTransform: 'uppercase', letterSpacing: 0.5,
                               }}>
                                 Rink pick
                               </span>
@@ -616,7 +616,7 @@ export function NearbySection({ title, icon, categories, rinkSlug, fanFavorites 
                             {entry.isFar && !entry.isPartner && (
                               <span style={{
                                 fontSize: 10, fontWeight: 500, padding: '2px 6px', borderRadius: 4,
-                                background: colors.bgError, color: '#991b1b',
+                                background: colors.bgError, color: colors.error,
                               }}>
                                 drive
                               </span>

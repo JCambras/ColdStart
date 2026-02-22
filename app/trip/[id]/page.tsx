@@ -235,7 +235,7 @@ export default function TripPage() {
                 const note = sheetNotes[sheetKey];
                 if (!note) return null;
                 return (
-                  <div style={{ marginTop: 10, padding: '8px 12px', background: '#eff6ff', borderRadius: 8, borderLeft: `3px solid ${colors.brandAccent}`, fontSize: 12, color: '#1e40af' }}>
+                  <div style={{ marginTop: 10, padding: '8px 12px', background: colors.bgInfo, borderRadius: 8, borderLeft: `3px solid ${colors.brandAccent}`, fontSize: 12, color: colors.brandDark }}>
                     🚪 <strong>Entrance:</strong> {note}
                   </div>
                 );
@@ -274,7 +274,7 @@ export default function TripPage() {
             <div style={{ display: 'flex', alignItems: 'center', justifyContent: 'space-between' }}>
               <div>
                 <div style={{ fontSize: 14, fontWeight: 700, color: colors.amberDark }}>How was {trip.rink.name}?</div>
-                <div style={{ fontSize: 12, color: '#a16207', marginTop: 2 }}>Help the next team — rate your experience in 30 seconds</div>
+                <div style={{ fontSize: 12, color: colors.amber, marginTop: 2 }}>Help the next team — rate your experience in 30 seconds</div>
               </div>
               <button onClick={() => dismissRatePrompt()} style={{ fontSize: 11, color: colors.textMuted, background: 'none', border: 'none', cursor: 'pointer' }}>Dismiss</button>
             </div>
@@ -341,7 +341,7 @@ export default function TripPage() {
                     </div>
                     {/* Entrance note for multi-sheet rinks */}
                     {entranceNote && (
-                      <div style={{ marginTop: 8, padding: '6px 10px', background: '#eff6ff', border: '1px solid #bfdbfe', borderRadius: 6, fontSize: 11, color: '#1e40af' }}>
+                      <div style={{ marginTop: 8, padding: '6px 10px', background: colors.bgInfo, border: `1px solid ${colors.brandLight}`, borderRadius: 6, fontSize: 11, color: colors.brandDark }}>
                         🚪 <strong>Entrance tip:</strong> {entranceNote}
                       </div>
                     )}
@@ -390,7 +390,7 @@ export default function TripPage() {
 
         {/* ── Cost Breakdown ── */}
         {hasCosts && (
-          <section style={{ background: '#fafff8', border: `1px solid ${colors.successBorder}`, borderRadius: 14, padding: 20, marginTop: 16 }}>
+          <section style={{ background: colors.bgSuccess, border: `1px solid ${colors.successBorder}`, borderRadius: 14, padding: 20, marginTop: 16 }}>
             <div style={{ display: 'flex', alignItems: 'center', justifyContent: 'space-between' }}>
               <h3 style={{ fontSize: 13, fontWeight: 600, color: colors.success, textTransform: 'uppercase', letterSpacing: 1, margin: 0 }}>💰 Cost breakdown</h3>
               <span style={{ fontSize: 11, color: colors.textTertiary }}>{families} families</span>
@@ -428,7 +428,7 @@ export default function TripPage() {
           <section style={{ background: colors.bgWarning, border: `1px solid ${colors.warningBorder}`, borderRadius: 10, padding: '12px 16px', marginTop: 12 }}>
             <div style={{ display: 'flex', gap: 8, alignItems: 'flex-start' }}>
               <span style={{ fontSize: 14, flexShrink: 0, marginTop: 1 }}>📝</span>
-              <p style={{ fontSize: 13, color: '#78350f', lineHeight: 1.5, margin: 0 }}>{trip.notes}</p>
+              <p style={{ fontSize: 13, color: colors.amberDark, lineHeight: 1.5, margin: 0 }}>{trip.notes}</p>
             </div>
           </section>
         )}
@@ -442,10 +442,10 @@ export default function TripPage() {
                 <div key={i} style={{ padding: '10px 12px', background: colors.bgSubtle, borderRadius: 10, border: `1px solid ${colors.borderLight}` }}>
                   <div style={{ display: 'flex', alignItems: 'center', gap: 8 }}>
                     {/* Contributor avatar */}
-                    <div style={{ width: 24, height: 24, borderRadius: '50%', background: '#e0f2fe', display: 'flex', alignItems: 'center', justifyContent: 'center', fontSize: text['2xs'], fontWeight: 700, color: colors.brandDark, flexShrink: 0 }}>
+                    <div style={{ width: 24, height: 24, borderRadius: '50%', background: colors.bgInfo, display: 'flex', alignItems: 'center', justifyContent: 'center', fontSize: text['2xs'], fontWeight: 700, color: colors.brandDark, flexShrink: 0 }}>
                       {(a.addedBy || '?').split(' ').map((n: string) => n[0]).join('').toUpperCase().slice(0, 2)}
                     </div>
-                    <span style={{ fontSize: text['2xs'], fontWeight: 600, padding: '2px 6px', borderRadius: 4, background: a.type === 'restaurant' ? colors.bgSuccess : a.type === 'tip' ? colors.bgInfo : '#f5f3ff', color: a.type === 'restaurant' ? colors.success : a.type === 'tip' ? colors.brand : colors.purple }}>
+                    <span style={{ fontSize: text['2xs'], fontWeight: 600, padding: '2px 6px', borderRadius: 4, background: a.type === 'restaurant' ? colors.bgSuccess : a.type === 'tip' ? colors.bgInfo : colors.purpleBg, color: a.type === 'restaurant' ? colors.success : a.type === 'tip' ? colors.brand : colors.purple }}>
                       {a.type === 'restaurant' ? '🍴 Restaurant' : a.type === 'tip' ? '💡 Tip' : '📝 Note'}
                     </span>
                     <span style={{ fontSize: text['2xs'], color: colors.textMuted }}>{a.addedBy}</span>

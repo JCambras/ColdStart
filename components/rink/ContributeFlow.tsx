@@ -134,7 +134,7 @@ export function ContributeSection({ rinkId, onSummaryUpdate }: { rinkId: string;
                   return (
                     <button key={v} onClick={() => setSignalValue(v)} onMouseEnter={() => setHoveredValue(v)} onMouseLeave={() => setHoveredValue(null)}
                       aria-label={`Rate ${v} out of 5`}
-                      style={{ width: 52, height: 52, borderRadius: 12, border: `1.5px solid ${active ? colors.brand : hov ? '#93c5fd' : colors.borderDefault}`, background: active ? colors.brand : hov ? colors.bgInfo : colors.surface, color: active ? colors.textInverse : colors.textSecondary, fontSize: 18, fontWeight: 700, cursor: 'pointer', transition: 'all 0.15s' }}>
+                      style={{ width: 52, height: 52, borderRadius: 12, border: `1.5px solid ${active ? colors.brand : hov ? colors.brandLight : colors.borderDefault}`, background: active ? colors.brand : hov ? colors.bgInfo : colors.surface, color: active ? colors.textInverse : colors.textSecondary, fontSize: 18, fontWeight: 700, cursor: 'pointer', transition: 'all 0.15s' }}>
                       {v}
                     </button>
                   );
@@ -162,7 +162,7 @@ export function ContributeSection({ rinkId, onSummaryUpdate }: { rinkId: string;
       )}
 
       {error && (
-        <div role="alert" style={{ fontSize: 13, color: '#dc2626', background: colors.bgError, padding: '8px 12px', borderRadius: 8, marginBottom: 12 }}>{error}</div>
+        <div role="alert" style={{ fontSize: 13, color: colors.error, background: colors.bgError, padding: '8px 12px', borderRadius: 8, marginBottom: 12 }}>{error}</div>
       )}
 
       <button onClick={handleSubmit} disabled={loading || (mode === 'signal' ? !(selectedSignal && signalValue) : !tipText.trim())}
@@ -274,7 +274,7 @@ export function RateAndContribute({ rinkId, rinkName, onSummaryUpdate }: { rinkI
         </div>
         <div style={{ padding: '12px 24px 16px', borderTop: `1px solid ${colors.borderLight}`, display: 'flex', gap: 10 }}>
           <button onClick={() => { if (ratedCount > 0) markRated(); setPhase(ratedCount > 0 ? 'done_rate' : 'button'); }} style={{ flex: 1, padding: '13px 20px', fontSize: 14, fontWeight: 600, background: ratedCount > 0 ? colors.textPrimary : colors.borderDefault, color: ratedCount > 0 ? colors.textInverse : colors.textMuted, border: 'none', borderRadius: 12, cursor: 'pointer', transition: 'all 0.2s' }}
-            onMouseEnter={(e) => { if (ratedCount > 0) e.currentTarget.style.background = '#1f2937'; }}
+            onMouseEnter={(e) => { if (ratedCount > 0) e.currentTarget.style.background = colors.stone800; }}
             onMouseLeave={(e) => { if (ratedCount > 0) e.currentTarget.style.background = colors.textPrimary; }}>
             {ratedCount > 0 ? 'Done' : 'Cancel'}
           </button>
