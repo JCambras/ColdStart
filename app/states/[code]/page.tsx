@@ -28,7 +28,20 @@ export default function StatePage() {
   const params = useParams();
   const router = useRouter();
   const code = (params.code as string).toUpperCase();
-  const stateName = US_STATES[code] || code;
+  const stateName = US_STATES[code];
+
+  if (!stateName) {
+    return (
+      <PageShell>
+        <div style={{ maxWidth: 500, margin: '80px auto', padding: '0 24px', textAlign: 'center' }}>
+          <div style={{ fontSize: 36, marginBottom: 12 }}>🗺️</div>
+          <h1 style={{ fontSize: 20, fontWeight: 700, color: colors.textPrimary, marginBottom: 8 }}>State not found</h1>
+          <p style={{ fontSize: 14, color: colors.textMuted, lineHeight: 1.5 }}>&ldquo;{code}&rdquo; is not a valid US state code.</p>
+          <a href="/" style={{ fontSize: 14, color: colors.brand, fontWeight: 500, marginTop: 16, display: 'inline-block' }}>&#8592; Back to home</a>
+        </div>
+      </PageShell>
+    );
+  }
 
   const [rinks, setRinks] = useState<SeedRink[]>([]);
   const [signals, setSignals] = useState<Record<string, Record<string, SignalData>>>({});

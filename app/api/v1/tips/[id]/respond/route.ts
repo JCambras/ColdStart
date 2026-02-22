@@ -31,6 +31,9 @@ export async function POST(
     if (!text?.trim() || !responder_name?.trim()) {
       return NextResponse.json({ error: 'text and responder_name are required' }, { status: 400 });
     }
+    if (text.trim().length > 1000 || responder_name.trim().length > 200 || (responder_role && responder_role.length > 200)) {
+      return NextResponse.json({ error: 'Field too long' }, { status: 400 });
+    }
 
     // Verify tip exists and get its rink_id
     const tipCheck = await pool.query('SELECT id, rink_id FROM tips WHERE id = $1', [tipId]);

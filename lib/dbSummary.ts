@@ -4,7 +4,7 @@ import { VENUE_CONFIG } from './venueConfig';
 import { computeVerdict, computeConfidence } from './verdict';
 
 export async function buildSummary(rinkId: string): Promise<RinkSummary> {
-  const [signalResult, tipResult] = await Promise.all([
+  const [signalResult, tipResult, lastSignal, lastTip] = await Promise.all([
     pool.query(
       `SELECT signal,
               AVG(value) AS value, COUNT(*)::int AS count, STDDEV_POP(value) AS stddev,
@@ -25,6 +25,14 @@ export async function buildSummary(rinkId: string): Promise<RinkSummary> {
          WHERE tip_id = t.id ORDER BY created_at DESC LIMIT 1
        ) or_resp ON TRUE
        WHERE t.rink_id = $1 AND t.hidden = FALSE ORDER BY t.created_at DESC LIMIT 20`,
+      [rinkId]
+    ),
+    pool.query(
+      `SELECT created_at FROM signal_ratings WHERE rink_id = $1 ORDER BY created_at DESC LIMIT 1`,
+      [rinkId]
+    ),
+    pool.query(
+      `SELECT created_at FROM tips WHERE rink_id = $1 ORDER BY created_at DESC LIMIT 1`,
       [rinkId]
     ),
   ]);
@@ -75,17 +83,6 @@ export async function buildSummary(rinkId: string): Promise<RinkSummary> {
   for (const s of signals) {
     evidenceCounts[s.signal] = s.count;
   }
-
-  const [lastSignal, lastTip] = await Promise.all([
-    pool.query(
-      `SELECT created_at FROM signal_ratings WHERE rink_id = $1 ORDER BY created_at DESC LIMIT 1`,
-      [rinkId]
-    ),
-    pool.query(
-      `SELECT created_at FROM tips WHERE rink_id = $1 ORDER BY created_at DESC LIMIT 1`,
-      [rinkId]
-    ),
-  ]);
   const dates = [
     lastSignal.rows[0]?.created_at,
     lastTip.rows[0]?.created_at,

@@ -207,6 +207,7 @@ export function AuthModal({ isOpen, onClose, onSuccess }: AuthModalProps) {
                     width: '100%', padding: '10px 14px', fontSize: text.base,
                     border: `1px solid ${colors.borderMedium}`, borderRadius: radius.lg,
                     outline: 'none', boxSizing: 'border-box',
+                    background: colors.surface, color: colors.textPrimary,
                   }}
                 />
               </div>

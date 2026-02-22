@@ -74,7 +74,7 @@ export function TipsSection({ tips, rinkSlug }: TipsSectionProps) {
       ) : (
         <>
           {displayTips.map((tip, i) => (
-            <TipCard key={i} tip={tip} tipIndex={i} rinkSlug={rinkSlug} />
+            <TipCard key={tip.id ?? `tip-${tip.text.slice(0, 40)}`} tip={tip} tipIndex={i} rinkSlug={rinkSlug} />
           ))}
           {sortedTips.length > 3 && !showAll && (
             <button

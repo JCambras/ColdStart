@@ -44,39 +44,50 @@ export function ReturnRatingPrompt({
     setRated(prev => ({ ...prev, [signal]: value }));
     setSubmitting(true);
 
-    const { data } = await apiPost<{ summary?: RinkSummary }>('/contributions', {
-      rink_id: rinkId,
-      kind: 'signal_rating',
-      contributor_type: storage.getContributorType(),
-      context: storage.getRatingContext(),
-      signal_rating: { signal, value },
-      user_id: currentUser?.id,
-    });
-    if (data?.summary) onSummaryUpdate(data.summary);
+    try {
+      const { data } = await apiPost<{ summary?: RinkSummary }>('/contributions', {
+        rink_id: rinkId,
+        kind: 'signal_rating',
+        contributor_type: storage.getContributorType(),
+        context: storage.getRatingContext(),
+        signal_rating: { signal, value },
+        user_id: currentUser?.id,
+      });
+      if (data?.summary) onSummaryUpdate(data.summary);
 
-    setSubmitting(false);
-
-    if (currentIndex < PROMPT_SIGNALS.length - 1) {
-      setTimeout(() => setCurrentIndex(prev => prev + 1), 300);
-    } else {
-      setDone(true);
+      if (currentIndex < PROMPT_SIGNALS.length - 1) {
+        setTimeout(() => setCurrentIndex(prev => prev + 1), 300);
+      } else {
+        setDone(true);
+      }
+    } catch {
+      // Rating still shown locally even if API fails
+    } finally {
+      setSubmitting(false);
     }
   }
 
   async function submitTip() {
     if (!tipText.trim()) return;
-    const { data } = await apiPost<{ summary?: RinkSummary }>('/contributions', {
-      rink_id: rinkId,
-      kind: 'tip',
-      contributor_type: storage.getContributorType(),
-      context: storage.getRatingContext(),
-      tip: { text: tipText.trim() },
-      user_id: currentUser?.id,
-    });
-    if (data?.summary) onSummaryUpdate(data.summary);
-    storage.addMyTip(rinkId, tipText.trim());
-    setTipMode(false);
-    setDone(true);
+    setSubmitting(true);
+    try {
+      const { data } = await apiPost<{ summary?: RinkSummary }>('/contributions', {
+        rink_id: rinkId,
+        kind: 'tip',
+        contributor_type: storage.getContributorType(),
+        context: storage.getRatingContext(),
+        tip: { text: tipText.trim() },
+        user_id: currentUser?.id,
+      });
+      if (data?.summary) onSummaryUpdate(data.summary);
+      storage.addMyTip(rinkId, tipText.trim());
+      setTipMode(false);
+      setDone(true);
+    } catch {
+      // Tip submission failed silently — user can retry
+    } finally {
+      setSubmitting(false);
+    }
   }
 
   function handleFinish() {

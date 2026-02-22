@@ -1,4 +1,5 @@
 import type { Metadata } from 'next';
+import { cache } from 'react';
 import { pool } from '../../../lib/db';
 
 interface Props {
@@ -6,7 +7,7 @@ interface Props {
   children: React.ReactNode;
 }
 
-async function getRinkData(id: string) {
+const getRinkData = cache(async function getRinkData(id: string) {
   const { rows } = await pool.query(
     `SELECT r.name, r.city, r.state, r.address, r.latitude, r.longitude,
             COALESCE(s.avg_value, 0) AS avg_value,
@@ -20,7 +21,7 @@ async function getRinkData(id: string) {
     [id]
   );
   return rows[0] || null;
-}
+});
 
 export async function generateMetadata({ params }: Props): Promise<Metadata> {
   const { id } = await params;

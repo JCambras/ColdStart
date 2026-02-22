@@ -15,20 +15,28 @@ export function ClaimRinkCTA({ rinkId, rinkName }: { rinkId: string; rinkName: s
   async function handleSubmit() {
     if (!name.trim() || !email.trim()) return;
     setSubmitting(true);
+    let succeeded = false;
     try {
       const res = await fetch(`/api/v1/rinks/${rinkId}/claim`, {
         method: 'POST',
         headers: { 'Content-Type': 'application/json' },
         body: JSON.stringify({ name: name.trim(), email: email.trim(), role: role.trim() }),
       });
-      if (!res.ok) throw new Error('Claim failed');
+      if (res.ok) succeeded = true;
     } catch {
-      // Also store locally as fallback
-      const claims = storage.getClaims();
-      claims.push({ rink_id: rinkId, rink_name: rinkName, name: name.trim(), email: email.trim(), role: role.trim(), timestamp: new Date().toISOString() });
-      storage.setClaims(claims);
+      // API failed — try localStorage fallback
     }
-    setSubmitted(true);
+    if (!succeeded) {
+      try {
+        const claims = storage.getClaims();
+        claims.push({ rink_id: rinkId, rink_name: rinkName, name: name.trim(), email: email.trim(), role: role.trim(), timestamp: new Date().toISOString() });
+        storage.setClaims(claims);
+        succeeded = true;
+      } catch {
+        // Both failed
+      }
+    }
+    if (succeeded) setSubmitted(true);
     setSubmitting(false);
   }
 

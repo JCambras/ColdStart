@@ -18,12 +18,19 @@ export async function POST(request: NextRequest) {
 
   try {
     const body = await request.json();
-    const { rink_id, kind, contributor_type, context } = body;
+    const { rink_id, kind } = body;
     const user_id = session!.user!.id;
 
     if (!rink_id || !kind) {
       return NextResponse.json({ error: 'rink_id and kind are required' }, { status: 400 });
     }
+
+    // Validate contributor_type and context (MED-1)
+    const VALID_CONTRIBUTOR_TYPES = ['local_parent', 'visiting_parent'];
+    const contributor_type = VALID_CONTRIBUTOR_TYPES.includes(body.contributor_type)
+      ? body.contributor_type
+      : 'visiting_parent';
+    const context = typeof body.context === 'string' ? body.context.slice(0, 500) : null;
 
     // Verify rink exists
     const rinkCheck = await pool.query('SELECT id FROM rinks WHERE id = $1', [rink_id]);

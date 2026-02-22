@@ -19,7 +19,7 @@ import { apiGet, seedGet } from '../../../lib/api';
 import { storage } from '../../../lib/storage';
 import { LoadingSkeleton } from '../../../components/LoadingSkeleton';
 import { useAuth } from '../../../contexts/AuthContext';
-import { colors, text } from '../../../lib/theme';
+import { colors, text, nav } from '../../../lib/theme';
 
 export default function RinkPage() {
   const params = useParams();
@@ -321,7 +321,7 @@ export default function RinkPage() {
   const tabBar = (
     <div role="tablist" aria-label="Rink sections" style={{
       position: 'sticky', top: 0, zIndex: 40,
-      background: 'rgba(250,251,252,0.92)', backdropFilter: 'blur(8px)',
+      background: nav.bg, backdropFilter: nav.blur,
       borderBottom: `1px solid ${colors.borderLight}`,
       display: 'flex', justifyContent: 'center', gap: 0, padding: '0 24px',
     }}>
