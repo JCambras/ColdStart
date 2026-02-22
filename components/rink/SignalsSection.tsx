@@ -39,7 +39,7 @@ export function SignalsSection({ rink, summary, loadedSignals }: SignalsSectionP
       id="signals-section"
       aria-label="Rink ratings"
       style={{
-        background: colors.white, border: `1px solid ${colors.borderDefault}`,
+        background: colors.surface, border: `1px solid ${colors.borderDefault}`,
         borderRadius: 16, marginTop: 16, overflow: 'hidden',
       }}
     >

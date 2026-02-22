@@ -298,7 +298,7 @@ export default function HomePage() {
                   onKeyDown={(e) => { if (e.key === 'Enter' || e.key === ' ') { e.preventDefault(); router.push(`/rinks/${rink.id}`); } }}
                   style={{
                     display: 'flex', alignItems: 'center', justifyContent: 'space-between',
-                    padding: '14px 20px', background: colors.white, border: `1px solid ${colors.stone200}`,
+                    padding: '14px 20px', background: colors.surface, border: `1px solid ${colors.stone200}`,
                     borderRadius: 12, cursor: 'pointer', transition: 'border-color 0.15s',
                   }}
                   onMouseEnter={(e) => { e.currentTarget.style.borderColor = colors.brand; }}
@@ -370,7 +370,7 @@ export default function HomePage() {
                   onKeyDown={(e) => { if (e.key === 'Enter' || e.key === ' ') { e.preventDefault(); router.push(`/rinks/${rink.id}`); } }}
                   style={{
                     display: 'flex', alignItems: 'center', justifyContent: 'space-between',
-                    padding: '12px 18px', background: colors.white, border: `1px solid ${colors.stone200}`,
+                    padding: '12px 18px', background: colors.surface, border: `1px solid ${colors.stone200}`,
                     borderRadius: 10, cursor: 'pointer', transition: 'border-color 0.15s',
                   }}
                   onMouseEnter={(e) => { e.currentTarget.style.borderColor = colors.brand; }}
@@ -419,7 +419,7 @@ export default function HomePage() {
                   onKeyDown={(e) => { if (e.key === 'Enter' || e.key === ' ') { e.preventDefault(); router.push(`/rinks/${rink.id}`); } }}
                   style={{
                     display: 'flex', alignItems: 'center', justifyContent: 'space-between',
-                    padding: '12px 18px', background: colors.white, border: `1px solid ${colors.stone200}`,
+                    padding: '12px 18px', background: colors.surface, border: `1px solid ${colors.stone200}`,
                     borderRadius: 10, cursor: 'pointer', transition: 'border-color 0.15s',
                   }}
                   onMouseEnter={(e) => { e.currentTarget.style.borderColor = colors.brand; }}

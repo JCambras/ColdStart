@@ -122,7 +122,7 @@ export function ReturnRatingPrompt({
             onClick={handleShare}
             style={{
               flex: 1, fontSize: 13, fontWeight: 600,
-              color: colors.white, background: colors.success,
+              color: colors.textInverse, background: colors.success,
               border: 'none', borderRadius: 8,
               padding: '10px 16px', cursor: 'pointer',
             }}
@@ -133,7 +133,7 @@ export function ReturnRatingPrompt({
             onClick={handleFinish}
             style={{
               fontSize: 13, fontWeight: 600, color: colors.success,
-              background: colors.white, border: `1px solid ${colors.successBorder}`,
+              background: colors.surface, border: `1px solid ${colors.successBorder}`,
               borderRadius: 8, padding: '10px 16px', cursor: 'pointer',
             }}
           >
@@ -176,7 +176,7 @@ export function ReturnRatingPrompt({
             onClick={submitTip}
             disabled={!tipText.trim()}
             style={{
-              fontSize: 13, fontWeight: 600, color: colors.white,
+              fontSize: 13, fontWeight: 600, color: colors.textInverse,
               background: tipText.trim() ? colors.indigo : colors.indigoBorder,
               border: 'none', borderRadius: 10, padding: '10px 18px',
               cursor: tipText.trim() ? 'pointer' : 'default',

@@ -120,7 +120,7 @@ export function VerdictCard({ rink, summary, loadedSignals }: VerdictCardProps) 
                     display: 'inline-flex', alignItems: 'center', gap: 3,
                     fontSize: 11, fontWeight: 600,
                     padding: '2px 7px', borderRadius: 8,
-                    background: colors.white, border: `1px solid ${colors.borderLight}`,
+                    background: colors.surface, border: `1px solid ${colors.borderLight}`,
                     color: barColor, whiteSpace: 'nowrap',
                   }}
                 >

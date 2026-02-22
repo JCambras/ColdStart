@@ -96,8 +96,8 @@ export function QuickVoteRow({ rinkId, onSummaryUpdate, onRatedCountChange }: Qu
                         style={{
                           flex: 1, height: 44, borderRadius: 8,
                           border: `1.5px solid ${isSelected ? colors.brand : colors.borderDefault}`,
-                          background: isSelected ? colors.brand : colors.white,
-                          color: isSelected ? colors.white : colors.textSecondary,
+                          background: isSelected ? colors.brand : colors.surface,
+                          color: isSelected ? colors.textInverse : colors.textSecondary,
                           fontSize: 14, fontWeight: 700,
                           cursor: busy ? 'wait' : 'pointer',
                           transition: 'all 0.12s',

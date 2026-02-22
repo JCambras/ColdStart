@@ -10,110 +10,111 @@ import {
   ensureAllSignals,
   buildRinkDetailFromSeed,
 } from '../rinkHelpers';
+import { colors } from '../theme';
 import type { Signal, Rink } from '../rinkTypes';
 
 // ── getVerdictColor ──
 describe('getVerdictColor', () => {
   it('returns green for positive verdicts', () => {
-    expect(getVerdictColor('Good to go')).toBe('#16a34a');
-    expect(getVerdictColor('Good — no issues')).toBe('#16a34a');
+    expect(getVerdictColor('Good to go')).toBe(colors.success);
+    expect(getVerdictColor('Good — no issues')).toBe(colors.success);
   });
 
   it('returns amber for heads-up verdicts', () => {
-    expect(getVerdictColor('Heads up — parking is tight')).toBe('#d97706');
+    expect(getVerdictColor('Heads up — parking is tight')).toBe(colors.warning);
   });
 
   it('returns orange for mixed verdicts', () => {
-    expect(getVerdictColor('Mixed reviews')).toBe('#ea580c');
+    expect(getVerdictColor('Mixed reviews')).toBe(colors.orangeDeep);
   });
 
   it('returns gray for neutral/unknown verdicts', () => {
-    expect(getVerdictColor('No data yet')).toBe('#6b7280');
-    expect(getVerdictColor('')).toBe('#6b7280');
+    expect(getVerdictColor('No data yet')).toBe(colors.textTertiary);
+    expect(getVerdictColor('')).toBe(colors.textTertiary);
   });
 });
 
 // ── getVerdictBg ──
 describe('getVerdictBg', () => {
   it('returns correct backgrounds', () => {
-    expect(getVerdictBg('Good to go')).toBe('#f0fdf4');
-    expect(getVerdictBg('Heads up')).toBe('#fffbeb');
-    expect(getVerdictBg('Mixed')).toBe('#fff7ed');
-    expect(getVerdictBg('Unknown')).toBe('#f9fafb');
+    expect(getVerdictBg('Good to go')).toBe(colors.bgSuccess);
+    expect(getVerdictBg('Heads up')).toBe(colors.bgWarning);
+    expect(getVerdictBg('Mixed')).toBe(colors.bgOrangeLight);
+    expect(getVerdictBg('Unknown')).toBe(colors.bgSubtle);
   });
 });
 
 // ── getBarColor ──
 describe('getBarColor', () => {
   it('returns iceExcellent for values >= 4.5', () => {
-    expect(getBarColor(5.0)).toBe('#16A34A');
-    expect(getBarColor(4.5)).toBe('#16A34A');
+    expect(getBarColor(5.0)).toBe(colors.iceExcellent);
+    expect(getBarColor(4.5)).toBe(colors.iceExcellent);
   });
 
   it('returns iceGood for values >= 3.5', () => {
-    expect(getBarColor(4.0)).toBe('#22C55E');
-    expect(getBarColor(3.5)).toBe('#22C55E');
+    expect(getBarColor(4.0)).toBe(colors.iceGood);
+    expect(getBarColor(3.5)).toBe(colors.iceGood);
   });
 
   it('returns iceFair for values >= 2.5', () => {
-    expect(getBarColor(3.0)).toBe('#F59E0B');
-    expect(getBarColor(2.5)).toBe('#F59E0B');
+    expect(getBarColor(3.0)).toBe(colors.iceFair);
+    expect(getBarColor(2.5)).toBe(colors.iceFair);
   });
 
   it('returns icePoor for low values', () => {
-    expect(getBarColor(2.0)).toBe('#EF4444');
-    expect(getBarColor(1.0)).toBe('#EF4444');
+    expect(getBarColor(2.0)).toBe(colors.icePoor);
+    expect(getBarColor(1.0)).toBe(colors.icePoor);
   });
 
   it('returns iceNodata when count < 3', () => {
-    expect(getBarColor(4.0, 2)).toBe('#94A3B8');
-    expect(getBarColor(4.0, 0)).toBe('#94A3B8');
+    expect(getBarColor(4.0, 2)).toBe(colors.iceNodata);
+    expect(getBarColor(4.0, 0)).toBe(colors.iceNodata);
   });
 
   it('uses value thresholds when count >= 3', () => {
-    expect(getBarColor(4.5, 5)).toBe('#16A34A');
-    expect(getBarColor(3.5, 3)).toBe('#22C55E');
+    expect(getBarColor(4.5, 5)).toBe(colors.iceExcellent);
+    expect(getBarColor(3.5, 3)).toBe(colors.iceGood);
   });
 });
 
 // ── getBarBg ──
 describe('getBarBg', () => {
   it('returns bgSuccess for values >= 3.5', () => {
-    expect(getBarBg(4.5)).toBe('#f0fdf4');
-    expect(getBarBg(3.5)).toBe('#f0fdf4');
+    expect(getBarBg(4.5)).toBe(colors.bgSuccess);
+    expect(getBarBg(3.5)).toBe(colors.bgSuccess);
   });
 
   it('returns bgWarning for values >= 2.5', () => {
-    expect(getBarBg(3.0)).toBe('#fffbeb');
-    expect(getBarBg(2.5)).toBe('#fffbeb');
+    expect(getBarBg(3.0)).toBe(colors.bgWarning);
+    expect(getBarBg(2.5)).toBe(colors.bgWarning);
   });
 
   it('returns bgError for low values', () => {
-    expect(getBarBg(2.0)).toBe('#fef2f2');
-    expect(getBarBg(1.0)).toBe('#fef2f2');
+    expect(getBarBg(2.0)).toBe(colors.bgError);
+    expect(getBarBg(1.0)).toBe(colors.bgError);
   });
 
   it('returns bgSubtle when count < 3', () => {
-    expect(getBarBg(4.0, 2)).toBe('#f9fafb');
-    expect(getBarBg(4.0, 0)).toBe('#f9fafb');
+    expect(getBarBg(4.0, 2)).toBe(colors.bgSubtle);
+    expect(getBarBg(4.0, 0)).toBe(colors.bgSubtle);
   });
 
   it('uses value thresholds when count >= 3', () => {
-    expect(getBarBg(4.0, 5)).toBe('#f0fdf4');
-    expect(getBarBg(2.5, 3)).toBe('#fffbeb');
+    expect(getBarBg(4.0, 5)).toBe(colors.bgSuccess);
+    expect(getBarBg(2.5, 3)).toBe(colors.bgWarning);
   });
 });
 
 // ── getBarBorder ──
 describe('getBarBorder', () => {
   it('returns successBorder for values >= 3.5', () => {
-    expect(getBarBorder(4.5)).toBe('#bbf7d0');
-    expect(getBarBorder(3.5)).toBe('#bbf7d0');
+    expect(getBarBorder(4.5)).toBe(colors.successBorder);
+    expect(getBarBorder(3.5)).toBe(colors.successBorder);
   });
 
   it('returns warningBorder for values >= 2.5', () => {
-    expect(getBarBorder(3.0)).toBe('#fde68a');
-    expect(getBarBorder(2.5)).toBe('#fde68a');
+    expect(getBarBorder(3.0)).toBe(colors.warningBorder);
+    expect(getBarBorder(2.5)).toBe(colors.warningBorder);
   });
 
   it('returns error border for low values', () => {
@@ -122,13 +123,13 @@ describe('getBarBorder', () => {
   });
 
   it('returns borderDefault when count < 3', () => {
-    expect(getBarBorder(4.0, 2)).toBe('#e5e7eb');
-    expect(getBarBorder(4.0, 0)).toBe('#e5e7eb');
+    expect(getBarBorder(4.0, 2)).toBe(colors.borderDefault);
+    expect(getBarBorder(4.0, 0)).toBe(colors.borderDefault);
   });
 
   it('uses value thresholds when count >= 3', () => {
-    expect(getBarBorder(4.0, 5)).toBe('#bbf7d0');
-    expect(getBarBorder(2.5, 3)).toBe('#fde68a');
+    expect(getBarBorder(4.0, 5)).toBe(colors.successBorder);
+    expect(getBarBorder(2.5, 3)).toBe(colors.warningBorder);
   });
 });
 

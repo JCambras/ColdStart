@@ -106,7 +106,7 @@ function SuggestPlaceForm({ rinkSlug, categoryKey, onSubmit }: {
   return (
     <div style={{
       marginTop: 10, padding: '12px', borderRadius: radius.lg,
-      background: colors.white, border: `1px solid ${colors.borderMedium}`,
+      background: colors.surface, border: `1px solid ${colors.borderMedium}`,
     }}>
       <input
         value={name}
@@ -135,7 +135,7 @@ function SuggestPlaceForm({ rinkSlug, categoryKey, onSubmit }: {
           onClick={handleSubmit}
           disabled={!name.trim()}
           style={{
-            fontSize: text.sm, fontWeight: 600, color: colors.white,
+            fontSize: text.sm, fontWeight: 600, color: colors.textInverse,
             background: name.trim() ? colors.brand : colors.textDisabled,
             border: 'none', borderRadius: radius.md, padding: '8px 16px',
             cursor: name.trim() ? 'pointer' : 'default',
@@ -193,10 +193,10 @@ function FanFavoritesCategory({ rinkSlug, expanded, onToggle }: { rinkSlug: stri
           padding: '14px 20px', cursor: 'pointer',
           display: 'flex', alignItems: 'center', justifyContent: 'space-between',
           transition: 'background 0.1s',
-          background: expanded ? '#f8fafc' : colors.white,
+          background: expanded ? '#f8fafc' : colors.surface,
         }}
         onMouseEnter={(e) => { if (!expanded) e.currentTarget.style.background = colors.bgPage; }}
-        onMouseLeave={(e) => { if (!expanded) e.currentTarget.style.background = colors.white; }}
+        onMouseLeave={(e) => { if (!expanded) e.currentTarget.style.background = colors.surface; }}
       >
         <div style={{ display: 'flex', alignItems: 'center', gap: 12 }}>
           <span style={{ fontSize: 20 }}>⭐</span>
@@ -223,7 +223,7 @@ function FanFavoritesCategory({ rinkSlug, expanded, onToggle }: { rinkSlug: stri
           {favorites.map((fav, i) => (
             <div key={i} style={{
               marginTop: 8, padding: '10px 12px', borderRadius: radius.lg,
-              background: colors.white, border: `1px solid ${colors.borderDefault}`,
+              background: colors.surface, border: `1px solid ${colors.borderDefault}`,
             }}>
               <div style={{ display: 'flex', alignItems: 'center', gap: 8 }}>
                 <div style={{ fontSize: text.md, fontWeight: 500, color: colors.textPrimary }}>{fav.name}</div>
@@ -245,7 +245,7 @@ function FanFavoritesCategory({ rinkSlug, expanded, onToggle }: { rinkSlug: stri
           {showForm ? (
             <div style={{
               marginTop: 8, padding: '12px', borderRadius: radius.lg,
-              background: colors.white, border: `1px solid ${colors.borderMedium}`,
+              background: colors.surface, border: `1px solid ${colors.borderMedium}`,
             }}>
               <input
                 value={name}
@@ -279,7 +279,7 @@ function FanFavoritesCategory({ rinkSlug, expanded, onToggle }: { rinkSlug: stri
                 style={{
                   width: '100%', padding: '8px 10px', fontSize: text.sm, marginTop: 4,
                   border: `1px solid ${colors.borderDefault}`, borderRadius: radius.md,
-                  outline: 'none', background: colors.white, boxSizing: 'border-box',
+                  outline: 'none', background: colors.surface, boxSizing: 'border-box',
                 }}
               >
                 {FAN_FAV_CATEGORIES.map(c => (
@@ -291,7 +291,7 @@ function FanFavoritesCategory({ rinkSlug, expanded, onToggle }: { rinkSlug: stri
                   onClick={handleSubmit}
                   disabled={!name.trim() || !review.trim()}
                   style={{
-                    fontSize: text.sm, fontWeight: 600, color: colors.white,
+                    fontSize: text.sm, fontWeight: 600, color: colors.textInverse,
                     background: name.trim() && review.trim() ? colors.brand : colors.textDisabled,
                     border: 'none', borderRadius: radius.md, padding: '8px 16px',
                     cursor: name.trim() && review.trim() ? 'pointer' : 'default',
@@ -480,7 +480,7 @@ export function NearbySection({ title, icon, categories, rinkSlug, fanFavorites 
         <span>{icon}</span> {title}
       </h3>
       <div style={{
-        background: colors.white, border: `1px solid ${colors.borderDefault}`,
+        background: colors.surface, border: `1px solid ${colors.borderDefault}`,
         borderRadius: 16, overflow: 'hidden',
       }}>
         {fanFavorites && (
@@ -507,10 +507,10 @@ export function NearbySection({ title, icon, categories, rinkSlug, fanFavorites 
                 padding: '14px 20px', cursor: 'pointer',
                 display: 'flex', alignItems: 'center', justifyContent: 'space-between',
                 transition: 'background 0.1s',
-                background: expanded === cat.label ? '#f8fafc' : colors.white,
+                background: expanded === cat.label ? '#f8fafc' : colors.surface,
               }}
               onMouseEnter={(e) => { if (expanded !== cat.label) e.currentTarget.style.background = colors.bgPage; }}
-              onMouseLeave={(e) => { if (expanded !== cat.label) e.currentTarget.style.background = colors.white; }}
+              onMouseLeave={(e) => { if (expanded !== cat.label) e.currentTarget.style.background = colors.surface; }}
             >
               <div style={{ display: 'flex', alignItems: 'center', gap: 12 }}>
                 <span style={{ fontSize: 20 }}>{cat.icon}</span>
@@ -554,7 +554,7 @@ export function NearbySection({ title, icon, categories, rinkSlug, fanFavorites 
                       // Community suggestion card (no maps link)
                       <div style={{
                         padding: '10px 12px', borderRadius: radius.lg,
-                        background: colors.white, border: `1px solid ${colors.borderDefault}`,
+                        background: colors.surface, border: `1px solid ${colors.borderDefault}`,
                       }}>
                         <div style={{ display: 'flex', alignItems: 'center', justifyContent: 'space-between' }}>
                           <div style={{ display: 'flex', alignItems: 'center', gap: 8 }}>
@@ -594,7 +594,7 @@ export function NearbySection({ title, icon, categories, rinkSlug, fanFavorites 
                         style={{
                           display: 'block',
                           padding: '10px 12px', borderRadius: radius.lg,
-                          background: entry.isPartner ? colors.bgWarning : colors.white,
+                          background: entry.isPartner ? colors.bgWarning : colors.surface,
                           border: `1px solid ${entry.isPartner ? colors.warningBorder : colors.borderDefault}`,
                           textDecoration: 'none',
                           transition: 'border-color 0.15s', cursor: 'pointer',
@@ -673,7 +673,7 @@ export function NearbySection({ title, icon, categories, rinkSlug, fanFavorites 
                         <button
                           onClick={() => submitPlaceTip(entry.name)}
                           style={{
-                            fontSize: text.xs, fontWeight: 600, color: colors.white,
+                            fontSize: text.xs, fontWeight: 600, color: colors.textInverse,
                             background: tipText.trim() ? colors.brand : colors.textDisabled,
                             border: 'none', borderRadius: radius.md, padding: '6px 12px', cursor: 'pointer',
                           }}

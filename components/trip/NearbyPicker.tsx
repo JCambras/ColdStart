@@ -43,7 +43,7 @@ export function NearbyPicker({ label, icon, places, selected, onSelect, onClear,
         <div>
           <button onClick={() => setOpen(!open)} aria-expanded={open} style={{
             width: '100%', padding: '10px 14px', fontSize: 13, color: colors.textTertiary,
-            background: colors.white, border: `1px solid ${colors.borderMedium}`, borderRadius: 10,
+            background: colors.surface, border: `1px solid ${colors.borderMedium}`, borderRadius: 10,
             cursor: 'pointer', textAlign: 'left',
           }}>
             Choose from nearby places ▾
@@ -54,9 +54,9 @@ export function NearbyPicker({ label, icon, places, selected, onSelect, onClear,
                 <div key={i} role="option" aria-selected={false} onClick={() => { onSelect(p); setOpen(false); }}
                   tabIndex={0}
                   onKeyDown={(e) => { if (e.key === 'Enter' || e.key === ' ') { e.preventDefault(); onSelect(p); setOpen(false); } }}
-                  style={{ padding: '8px 14px', cursor: 'pointer', borderBottom: `1px solid ${colors.borderLight}`, background: colors.white, display: 'flex', justifyContent: 'space-between', alignItems: 'center' }}
+                  style={{ padding: '8px 14px', cursor: 'pointer', borderBottom: `1px solid ${colors.borderLight}`, background: colors.surface, display: 'flex', justifyContent: 'space-between', alignItems: 'center' }}
                   onMouseEnter={(e) => (e.currentTarget.style.background = colors.bgInfo)}
-                  onMouseLeave={(e) => (e.currentTarget.style.background = colors.white)}
+                  onMouseLeave={(e) => (e.currentTarget.style.background = colors.surface)}
                 >
                   <span style={{ fontSize: 13, fontWeight: 500, color: colors.textPrimary }}>{p.name}</span>
                   <span style={{ fontSize: 11, color: colors.textMuted, flexShrink: 0, marginLeft: 8 }}>{p.distance}</span>

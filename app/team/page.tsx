@@ -68,14 +68,14 @@ export default function TeamDashboardPage() {
                   border: `1px solid ${colors.borderDefault}`,
                   borderRadius: radius.lg, outline: 'none',
                   color: colors.textPrimary,
-                  background: colors.white,
+                  background: colors.surface,
                 }}
               />
               <button
                 type="submit"
                 style={{
                   fontSize: 14, fontWeight: 600,
-                  color: colors.white, background: colors.textPrimary,
+                  color: colors.textInverse, background: colors.textPrimary,
                   border: 'none', borderRadius: radius.lg,
                   padding: '12px 20px', cursor: 'pointer',
                   whiteSpace: 'nowrap',
@@ -105,7 +105,7 @@ export default function TeamDashboardPage() {
             onClick={() => router.push('/trip/new')}
             style={{
               marginTop: 12, fontSize: 14, fontWeight: 600,
-              color: colors.white, background: colors.brand,
+              color: colors.textInverse, background: colors.brand,
               border: 'none', borderRadius: radius.lg,
               padding: '14px 24px', cursor: 'pointer',
               width: '100%',
@@ -117,7 +117,7 @@ export default function TeamDashboardPage() {
 
         <div style={{
           marginTop: 48, padding: '20px 24px',
-          background: colors.white, border: `1px solid ${colors.borderDefault}`,
+          background: colors.surface, border: `1px solid ${colors.borderDefault}`,
           borderRadius: radius.xl, textAlign: 'left',
         }}>
           <p style={{ fontSize: 13, fontWeight: 600, color: colors.textSecondary, margin: 0 }}>

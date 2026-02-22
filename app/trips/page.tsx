@@ -43,7 +43,7 @@ export default function MyTripsPage() {
             <h1 style={{ fontSize: 22, fontWeight: 700, color: colors.textPrimary, margin: 0 }}>📁 My Trips</h1>
             <p style={{ fontSize: 14, color: colors.textTertiary, marginTop: 4 }}>{trips.length} trip{trips.length !== 1 ? 's' : ''} created</p>
           </div>
-          <button onClick={() => router.push('/trip/new')} style={{ fontSize: 13, fontWeight: 600, color: colors.white, background: colors.brand, border: 'none', borderRadius: 8, padding: '8px 16px', cursor: 'pointer', boxShadow: '0 2px 6px rgba(14,165,233,0.25)' }}>+ New trip</button>
+          <button onClick={() => router.push('/trip/new')} style={{ fontSize: 13, fontWeight: 600, color: colors.textInverse, background: colors.brand, border: 'none', borderRadius: 8, padding: '8px 16px', cursor: 'pointer', boxShadow: '0 2px 6px rgba(14,165,233,0.25)' }}>+ New trip</button>
         </div>
 
         {/* Search filter */}
@@ -57,7 +57,7 @@ export default function MyTripsPage() {
               style={{
                 width: '100%', padding: '10px 14px', fontSize: 14,
                 border: `1px solid ${colors.borderDefault}`, borderRadius: 10,
-                background: colors.white, outline: 'none', boxSizing: 'border-box',
+                background: colors.surface, outline: 'none', boxSizing: 'border-box',
                 transition: 'border-color 0.15s',
               }}
               onFocus={(e) => { e.currentTarget.style.borderColor = colors.brand; }}
@@ -88,7 +88,7 @@ export default function MyTripsPage() {
               const dateStr = created.toLocaleDateString('en-US', { month: 'short', day: 'numeric', year: 'numeric' });
               return (
                 <div key={trip.id} onClick={() => router.push(`/trip/${trip.id}`)} style={{
-                  padding: '16px 18px', background: colors.white, border: `1px solid ${colors.borderDefault}`,
+                  padding: '16px 18px', background: colors.surface, border: `1px solid ${colors.borderDefault}`,
                   borderRadius: 14, cursor: 'pointer', transition: 'all 0.15s',
                 }}
                 onMouseEnter={(e) => { e.currentTarget.style.borderColor = colors.brand; e.currentTarget.style.boxShadow = '0 2px 8px rgba(14,165,233,0.08)'; }}

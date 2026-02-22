@@ -29,7 +29,7 @@ export default function GlobalError({
             <button
               onClick={reset}
               style={{
-                fontSize: text.base, fontWeight: 600, color: colors.white,
+                fontSize: text.base, fontWeight: 600, color: colors.textInverse,
                 background: colors.brand, border: 'none', borderRadius: radius.lg,
                 padding: '10px 24px', cursor: 'pointer',
               }}

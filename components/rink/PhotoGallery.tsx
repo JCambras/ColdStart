@@ -4,6 +4,9 @@ import { useState } from 'react';
 import Image from 'next/image';
 import { colors } from '../../lib/theme';
 
+// Tiny 4x3 neutral gray blur placeholder (base64-encoded 1x1 PNG scaled by next/image)
+const BLUR_PLACEHOLDER = 'data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAADUlEQVR42mN88P/BfwAJhAPk4kCyWAAAAABJRU5ErkJggg==';
+
 interface Photo {
   id: number;
   url: string;
@@ -79,7 +82,7 @@ export function PhotoGallery({ photos, rinkId, rinkName, staticPhoto, currentUse
               borderRadius: 12, overflow: 'hidden', position: 'relative',
               background: colors.borderLight, scrollSnapAlign: 'start',
             }}>
-              <Image src={photo.url} alt={photo.caption || rinkName} fill style={{ objectFit: 'cover' }} sizes="280px" />
+              <Image src={photo.url} alt={photo.caption || rinkName} fill style={{ objectFit: 'cover' }} sizes="280px" placeholder="blur" blurDataURL={BLUR_PLACEHOLDER} />
               {photo.contributor_name && (
                 <div style={{
                   position: 'absolute', bottom: 6, left: 6,
@@ -107,7 +110,7 @@ export function PhotoGallery({ photos, rinkId, rinkName, staticPhoto, currentUse
   if (staticPhoto) {
     return (
       <div style={{ marginTop: 16, borderRadius: 16, overflow: 'hidden', height: 220, position: 'relative', background: colors.borderLight }}>
-        <Image src={staticPhoto} alt={rinkName} fill style={{ objectFit: 'contain', objectPosition: 'center' }} sizes="(max-width: 680px) 100vw, 680px" />
+        <Image src={staticPhoto} alt={rinkName} fill style={{ objectFit: 'contain', objectPosition: 'center' }} sizes="(max-width: 680px) 100vw, 680px" placeholder="blur" blurDataURL={BLUR_PLACEHOLDER} />
         <div style={{
           position: 'absolute', bottom: 10, right: 10,
           fontSize: 10, color: 'rgba(255,255,255,0.7)',

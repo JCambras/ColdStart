@@ -20,7 +20,7 @@ export function BackButton({ href, label = '← Back' }: BackButtonProps) {
         fontSize: text.md,
         fontWeight: 500,
         color: colors.textSecondary,
-        background: colors.white,
+        background: colors.surface,
         border: `1px solid ${colors.borderDefault}`,
         borderRadius: radius.md,
         padding: '10px 14px',

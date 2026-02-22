@@ -99,7 +99,7 @@ export function QuickTipInput({ rinkId, onSummaryUpdate }: QuickTipInputProps) {
         disabled={!text.trim() || submitting}
         style={{
           fontSize: 13, fontWeight: 600,
-          color: text.trim() ? colors.white : colors.textMuted,
+          color: text.trim() ? colors.textInverse : colors.textMuted,
           background: text.trim() ? colors.textPrimary : colors.borderDefault,
           border: 'none', borderRadius: 10, padding: '10px 18px',
           cursor: 'pointer', whiteSpace: 'nowrap',

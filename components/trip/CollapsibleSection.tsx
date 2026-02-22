@@ -12,7 +12,7 @@ interface CollapsibleSectionProps {
 
 export function CollapsibleSection({ title, icon, expanded, onToggle, children }: CollapsibleSectionProps) {
   return (
-    <div style={{ background: colors.white, border: `1px solid ${colors.borderDefault}`, borderRadius: 12, overflow: 'hidden' }}>
+    <div style={{ background: colors.surface, border: `1px solid ${colors.borderDefault}`, borderRadius: 12, overflow: 'hidden' }}>
       <button
         onClick={onToggle}
         aria-expanded={expanded}

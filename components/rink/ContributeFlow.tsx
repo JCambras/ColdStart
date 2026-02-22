@@ -80,14 +80,14 @@ export function ContributeSection({ rinkId, onSummaryUpdate }: { rinkId: string;
       <div ref={formRef}>
         <h3 style={{ fontSize: 13, fontWeight: 600, color: colors.textMuted, textTransform: 'uppercase', letterSpacing: 1.5, marginBottom: 16 }}>Share what you know</h3>
         <div style={{ display: 'flex', gap: 12 }}>
-          <button onClick={() => setMode('tip')} style={{ flex: 1, padding: '20px 16px', background: colors.white, border: `1px solid ${colors.borderDefault}`, borderRadius: 14, cursor: 'pointer', textAlign: 'center', transition: 'all 0.2s' }}
+          <button onClick={() => setMode('tip')} style={{ flex: 1, padding: '20px 16px', background: colors.surface, border: `1px solid ${colors.borderDefault}`, borderRadius: 14, cursor: 'pointer', textAlign: 'center', transition: 'all 0.2s' }}
             onMouseEnter={(e) => { e.currentTarget.style.borderColor = colors.brand; e.currentTarget.style.boxShadow = '0 0 0 3px rgba(14,165,233,0.08)'; }}
             onMouseLeave={(e) => { e.currentTarget.style.borderColor = colors.borderDefault; e.currentTarget.style.boxShadow = 'none'; }}>
             <div style={{ fontSize: 24, marginBottom: 6 }}>💬</div>
             <div style={{ fontSize: 14, fontWeight: 600, color: colors.textPrimary }}>Drop a tip</div>
             <div style={{ fontSize: 12, color: colors.textMuted, marginTop: 2 }}>&ldquo;Park behind building 2&rdquo;</div>
           </button>
-          <button onClick={() => setMode('signal')} style={{ flex: 1, padding: '20px 16px', background: colors.white, border: `1px solid ${colors.borderDefault}`, borderRadius: 14, cursor: 'pointer', textAlign: 'center', transition: 'all 0.2s' }}
+          <button onClick={() => setMode('signal')} style={{ flex: 1, padding: '20px 16px', background: colors.surface, border: `1px solid ${colors.borderDefault}`, borderRadius: 14, cursor: 'pointer', textAlign: 'center', transition: 'all 0.2s' }}
             onMouseEnter={(e) => { e.currentTarget.style.borderColor = colors.brand; e.currentTarget.style.boxShadow = '0 0 0 3px rgba(14,165,233,0.08)'; }}
             onMouseLeave={(e) => { e.currentTarget.style.borderColor = colors.borderDefault; e.currentTarget.style.boxShadow = 'none'; }}>
             <div style={{ fontSize: 24, marginBottom: 6 }}>📊</div>
@@ -100,7 +100,7 @@ export function ContributeSection({ rinkId, onSummaryUpdate }: { rinkId: string;
   }
 
   return (
-    <div ref={formRef} style={{ background: colors.white, border: `1px solid ${colors.borderDefault}`, borderRadius: 16, padding: 24 }}>
+    <div ref={formRef} style={{ background: colors.surface, border: `1px solid ${colors.borderDefault}`, borderRadius: 16, padding: 24 }}>
       <div style={{ display: 'flex', justifyContent: 'space-between', alignItems: 'center', marginBottom: 20 }}>
         <h3 style={{ fontSize: 16, fontWeight: 600, color: colors.textPrimary, margin: 0 }}>{mode === 'signal' ? 'Rate a signal' : 'One thing to know'}</h3>
         <button onClick={reset} style={{ fontSize: 12, color: colors.textMuted, background: 'none', border: 'none', cursor: 'pointer', padding: '4px 8px' }}>← Back</button>
@@ -118,7 +118,7 @@ export function ContributeSection({ rinkId, onSummaryUpdate }: { rinkId: string;
             <div style={{ display: 'flex', flexWrap: 'wrap', gap: 8 }}>
               {SIGNAL_OPTIONS.map((s) => (
                 <button key={s.key} onClick={() => { setSelectedSignal(s.key); setSignalValue(null); }}
-                  style={{ fontSize: 13, padding: '10px 16px', borderRadius: 12, border: `1.5px solid ${selectedSignal === s.key ? colors.brand : colors.borderDefault}`, background: selectedSignal === s.key ? colors.bgInfo : colors.white, color: selectedSignal === s.key ? colors.brand : colors.textSecondary, cursor: 'pointer', fontWeight: selectedSignal === s.key ? 600 : 400, transition: 'all 0.15s' }}>
+                  style={{ fontSize: 13, padding: '10px 16px', borderRadius: 12, border: `1.5px solid ${selectedSignal === s.key ? colors.brand : colors.borderDefault}`, background: selectedSignal === s.key ? colors.bgInfo : colors.surface, color: selectedSignal === s.key ? colors.brand : colors.textSecondary, cursor: 'pointer', fontWeight: selectedSignal === s.key ? 600 : 400, transition: 'all 0.15s' }}>
                   {s.icon} {s.label}
                 </button>
               ))}
@@ -134,7 +134,7 @@ export function ContributeSection({ rinkId, onSummaryUpdate }: { rinkId: string;
                   return (
                     <button key={v} onClick={() => setSignalValue(v)} onMouseEnter={() => setHoveredValue(v)} onMouseLeave={() => setHoveredValue(null)}
                       aria-label={`Rate ${v} out of 5`}
-                      style={{ width: 52, height: 52, borderRadius: 12, border: `1.5px solid ${active ? colors.brand : hov ? '#93c5fd' : colors.borderDefault}`, background: active ? colors.brand : hov ? colors.bgInfo : colors.white, color: active ? colors.white : colors.textSecondary, fontSize: 18, fontWeight: 700, cursor: 'pointer', transition: 'all 0.15s' }}>
+                      style={{ width: 52, height: 52, borderRadius: 12, border: `1.5px solid ${active ? colors.brand : hov ? '#93c5fd' : colors.borderDefault}`, background: active ? colors.brand : hov ? colors.bgInfo : colors.surface, color: active ? colors.textInverse : colors.textSecondary, fontSize: 18, fontWeight: 700, cursor: 'pointer', transition: 'all 0.15s' }}>
                       {v}
                     </button>
                   );
@@ -166,7 +166,7 @@ export function ContributeSection({ rinkId, onSummaryUpdate }: { rinkId: string;
       )}
 
       <button onClick={handleSubmit} disabled={loading || (mode === 'signal' ? !(selectedSignal && signalValue) : !tipText.trim())}
-        style={{ width: '100%', padding: '14px 20px', fontSize: 14, fontWeight: 600, background: (mode === 'signal' ? (selectedSignal && signalValue) : tipText.trim()) ? colors.textPrimary : colors.borderDefault, color: (mode === 'signal' ? (selectedSignal && signalValue) : tipText.trim()) ? colors.white : colors.textMuted, border: 'none', borderRadius: 12, cursor: 'pointer', transition: 'all 0.2s', opacity: loading ? 0.6 : 1 }}>
+        style={{ width: '100%', padding: '14px 20px', fontSize: 14, fontWeight: 600, background: (mode === 'signal' ? (selectedSignal && signalValue) : tipText.trim()) ? colors.textPrimary : colors.borderDefault, color: (mode === 'signal' ? (selectedSignal && signalValue) : tipText.trim()) ? colors.textInverse : colors.textMuted, border: 'none', borderRadius: 12, cursor: 'pointer', transition: 'all 0.2s', opacity: loading ? 0.6 : 1 }}>
         {loading ? 'Submitting...' : 'Submit'}
       </button>
     </div>
@@ -201,8 +201,7 @@ export function RateAndContribute({ rinkId, rinkName, onSummaryUpdate }: { rinkI
 
   function startFlow(flow: 'rate' | 'tip') {
     setPendingFlow(flow);
-    // Ratings don't require login; tips and comments do
-    if (flow === 'tip' && !isLoggedIn) {
+    if (!isLoggedIn) {
       setPhase('verify');
       return;
     }
@@ -215,7 +214,7 @@ export function RateAndContribute({ rinkId, rinkName, onSummaryUpdate }: { rinkI
         <div style={{ display: 'flex', gap: 12 }}>
           <button onClick={() => startFlow('rate')} style={{
             flex: 1, padding: '16px 20px',
-            background: hasRated ? colors.bgSuccess : colors.white,
+            background: hasRated ? colors.bgSuccess : colors.surface,
             color: hasRated ? colors.success : colors.textPrimary,
             border: `1px solid ${hasRated ? colors.successBorder : colors.borderDefault}`,
             borderRadius: 14, cursor: 'pointer',
@@ -227,7 +226,7 @@ export function RateAndContribute({ rinkId, rinkName, onSummaryUpdate }: { rinkI
             {hasRated ? <><span>✓</span> Update ratings</> : <><span>📊</span> Rate the rink</>}
           </button>
           <button onClick={() => startFlow('tip')} style={{
-            flex: 1, padding: '16px 20px', background: colors.white, color: colors.textPrimary,
+            flex: 1, padding: '16px 20px', background: colors.surface, color: colors.textPrimary,
             border: `1px solid ${colors.borderDefault}`, borderRadius: 14, cursor: 'pointer',
             fontSize: 15, fontWeight: 600, transition: 'all 0.2s',
             display: 'flex', alignItems: 'center', justifyContent: 'center', gap: 8,
@@ -246,7 +245,7 @@ export function RateAndContribute({ rinkId, rinkName, onSummaryUpdate }: { rinkI
 
   if (phase === 'verify') {
     return (
-      <section style={{ marginTop: 16, background: colors.white, border: `1px solid ${colors.borderDefault}`, borderRadius: 16, padding: 24, textAlign: 'center' }}>
+      <section style={{ marginTop: 16, background: colors.surface, border: `1px solid ${colors.borderDefault}`, borderRadius: 16, padding: 24, textAlign: 'center' }}>
         <p style={{ fontSize: 14, fontWeight: 600, color: colors.textPrimary, margin: 0 }}>Quick check</p>
         <p style={{ fontSize: 13, color: colors.textTertiary, marginTop: 4 }}>What is {verifyNum.current} + 3?</p>
         <div style={{ display: 'flex', gap: 8, justifyContent: 'center', maxWidth: 200, margin: '12px auto 0' }}>
@@ -254,7 +253,7 @@ export function RateAndContribute({ rinkId, rinkName, onSummaryUpdate }: { rinkI
             style={{ width: 60, fontSize: 18, fontWeight: 700, textAlign: 'center', padding: '8px', border: `1px solid ${colors.borderDefault}`, borderRadius: 10, outline: 'none', fontFamily: 'inherit', color: colors.textPrimary }}
             onFocus={(e) => { e.currentTarget.style.borderColor = colors.brand; }}
             onBlur={(e) => { e.currentTarget.style.borderColor = colors.borderDefault; }} />
-          <button onClick={checkBot} style={{ fontSize: 14, fontWeight: 600, color: colors.white, background: colors.textPrimary, border: 'none', borderRadius: 10, padding: '8px 20px', cursor: 'pointer' }}>Go</button>
+          <button onClick={checkBot} style={{ fontSize: 14, fontWeight: 600, color: colors.textInverse, background: colors.textPrimary, border: 'none', borderRadius: 10, padding: '8px 20px', cursor: 'pointer' }}>Go</button>
         </div>
       </section>
     );
@@ -262,7 +261,7 @@ export function RateAndContribute({ rinkId, rinkName, onSummaryUpdate }: { rinkI
 
   if (phase === 'rate') {
     return (
-      <section style={{ marginTop: 16, background: colors.white, border: `1px solid ${colors.borderDefault}`, borderRadius: 16, overflow: 'hidden' }}>
+      <section style={{ marginTop: 16, background: colors.surface, border: `1px solid ${colors.borderDefault}`, borderRadius: 16, overflow: 'hidden' }}>
         <div style={{ padding: '8px 24px', background: colors.bgInfo, borderBottom: `1px solid ${colors.borderLight}`, display: 'flex', alignItems: 'center', justifyContent: 'space-between' }}>
           <span style={{ fontSize: 13, fontWeight: 600, color: colors.textPrimary }}>Rate the signals</span>
           <div style={{ display: 'flex', gap: 8 }}>
@@ -274,12 +273,12 @@ export function RateAndContribute({ rinkId, rinkName, onSummaryUpdate }: { rinkI
           <QuickVoteRow rinkId={rinkId} onSummaryUpdate={onSummaryUpdate} onRatedCountChange={setRatedCount} />
         </div>
         <div style={{ padding: '12px 24px 16px', borderTop: `1px solid ${colors.borderLight}`, display: 'flex', gap: 10 }}>
-          <button onClick={() => { if (ratedCount > 0) markRated(); setPhase(ratedCount > 0 ? 'done_rate' : 'button'); }} style={{ flex: 1, padding: '13px 20px', fontSize: 14, fontWeight: 600, background: ratedCount > 0 ? colors.textPrimary : colors.borderDefault, color: ratedCount > 0 ? colors.white : colors.textMuted, border: 'none', borderRadius: 12, cursor: 'pointer', transition: 'all 0.2s' }}
+          <button onClick={() => { if (ratedCount > 0) markRated(); setPhase(ratedCount > 0 ? 'done_rate' : 'button'); }} style={{ flex: 1, padding: '13px 20px', fontSize: 14, fontWeight: 600, background: ratedCount > 0 ? colors.textPrimary : colors.borderDefault, color: ratedCount > 0 ? colors.textInverse : colors.textMuted, border: 'none', borderRadius: 12, cursor: 'pointer', transition: 'all 0.2s' }}
             onMouseEnter={(e) => { if (ratedCount > 0) e.currentTarget.style.background = '#1f2937'; }}
             onMouseLeave={(e) => { if (ratedCount > 0) e.currentTarget.style.background = colors.textPrimary; }}>
             {ratedCount > 0 ? 'Done' : 'Cancel'}
           </button>
-          <button onClick={() => setPhase('tip')} style={{ padding: '13px 20px', fontSize: 14, fontWeight: 600, color: colors.brand, background: colors.white, border: `1px solid ${colors.borderDefault}`, borderRadius: 12, cursor: 'pointer', transition: 'all 0.15s' }}
+          <button onClick={() => setPhase('tip')} style={{ padding: '13px 20px', fontSize: 14, fontWeight: 600, color: colors.brand, background: colors.surface, border: `1px solid ${colors.borderDefault}`, borderRadius: 12, cursor: 'pointer', transition: 'all 0.15s' }}
             onMouseEnter={(e) => { e.currentTarget.style.borderColor = colors.brand; }}
             onMouseLeave={(e) => { e.currentTarget.style.borderColor = colors.borderDefault; }}>
             💬 Add tip
@@ -291,7 +290,7 @@ export function RateAndContribute({ rinkId, rinkName, onSummaryUpdate }: { rinkI
 
   if (phase === 'tip') {
     return (
-      <section style={{ marginTop: 16, background: colors.white, border: `1px solid ${colors.borderDefault}`, borderRadius: 16, overflow: 'hidden' }}>
+      <section style={{ marginTop: 16, background: colors.surface, border: `1px solid ${colors.borderDefault}`, borderRadius: 16, overflow: 'hidden' }}>
         <div style={{ padding: '8px 24px', background: colors.bgInfo, borderBottom: `1px solid ${colors.borderLight}`, display: 'flex', alignItems: 'center', justifyContent: 'space-between' }}>
           <span style={{ fontSize: 13, fontWeight: 600, color: colors.textPrimary }}>Drop a tip</span>
           <div style={{ display: 'flex', gap: 8 }}>
@@ -322,7 +321,7 @@ export function RateAndContribute({ rinkId, rinkName, onSummaryUpdate }: { rinkI
         <div style={{ fontSize: 28, marginBottom: 8 }}>✓</div>
         <p style={{ fontSize: 15, fontWeight: 600, color: colors.success, margin: 0 }}>Rating submitted</p>
         <p style={{ fontSize: 12, color: colors.textTertiary, marginTop: 4 }}>Thanks — this helps other hockey parents.</p>
-        <button onClick={() => setPhase('tip')} style={{ marginTop: 14, fontSize: 14, fontWeight: 600, color: colors.textPrimary, background: colors.white, border: `1px solid ${colors.borderDefault}`, borderRadius: 12, padding: '12px 24px', cursor: 'pointer', transition: 'all 0.15s' }}
+        <button onClick={() => setPhase('tip')} style={{ marginTop: 14, fontSize: 14, fontWeight: 600, color: colors.textPrimary, background: colors.surface, border: `1px solid ${colors.borderDefault}`, borderRadius: 12, padding: '12px 24px', cursor: 'pointer', transition: 'all 0.15s' }}
           onMouseEnter={(e) => { e.currentTarget.style.borderColor = colors.brand; }}
           onMouseLeave={(e) => { e.currentTarget.style.borderColor = colors.borderDefault; }}>💬 Drop a tip?</button>
         <div style={{ marginTop: 8 }}>
@@ -339,7 +338,7 @@ export function RateAndContribute({ rinkId, rinkName, onSummaryUpdate }: { rinkI
         <p style={{ fontSize: 15, fontWeight: 600, color: colors.success, margin: 0 }}>Tip added</p>
         <p style={{ fontSize: 12, color: colors.textTertiary, marginTop: 4 }}>Thanks for sharing what you know.</p>
         {!hasRated && (
-          <button onClick={() => setPhase('rate')} style={{ marginTop: 14, fontSize: 14, fontWeight: 600, color: colors.textPrimary, background: colors.white, border: `1px solid ${colors.borderDefault}`, borderRadius: 12, padding: '12px 24px', cursor: 'pointer', transition: 'all 0.15s' }}
+          <button onClick={() => setPhase('rate')} style={{ marginTop: 14, fontSize: 14, fontWeight: 600, color: colors.textPrimary, background: colors.surface, border: `1px solid ${colors.borderDefault}`, borderRadius: 12, padding: '12px 24px', cursor: 'pointer', transition: 'all 0.15s' }}
             onMouseEnter={(e) => { e.currentTarget.style.borderColor = colors.brand; }}
             onMouseLeave={(e) => { e.currentTarget.style.borderColor = colors.borderDefault; }}>📊 Rate the rink too</button>
         )}

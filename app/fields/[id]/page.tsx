@@ -54,7 +54,7 @@ export default function FieldPage() {
           <div style={{ fontSize: 48, marginBottom: 16 }}>&#9918;</div>
           <h2 style={{ fontSize: 20, fontWeight: 600, color: colors.textPrimary, margin: 0 }}>Field not found</h2>
           <p style={{ fontSize: 14, color: colors.textTertiary, marginTop: 8 }}>{error || "This field doesn't exist or has been removed."}</p>
-          <button onClick={() => router.push('/')} style={{ marginTop: 24, fontSize: 14, fontWeight: 600, color: colors.white, background: colors.textPrimary, borderRadius: 10, padding: '12px 28px', border: 'none', cursor: 'pointer' }}>
+          <button onClick={() => router.push('/')} style={{ marginTop: 24, fontSize: 14, fontWeight: 600, color: colors.textInverse, background: colors.textPrimary, borderRadius: 10, padding: '12px 28px', border: 'none', cursor: 'pointer' }}>
             &#8592; Back to search
           </button>
         </div>
@@ -201,7 +201,7 @@ export default function FieldPage() {
 
         {/* No data state */}
         {!hasData && (
-          <section style={{ background: colors.white, border: `1px solid ${colors.borderDefault}`, borderRadius: 16, padding: 32, marginTop: 16, textAlign: 'center' }}>
+          <section style={{ background: colors.surface, border: `1px solid ${colors.borderDefault}`, borderRadius: 16, padding: 32, marginTop: 16, textAlign: 'center' }}>
             <div style={{ fontSize: 36, marginBottom: 12 }}>&#9918;</div>
             <p style={{ fontSize: 16, fontWeight: 600, color: colors.textPrimary, margin: 0 }}>Be the first to report</p>
             <p style={{ fontSize: 14, color: colors.textTertiary, marginTop: 6, lineHeight: 1.5 }}>
@@ -243,7 +243,7 @@ export default function FieldPage() {
             onKeyDown={(e) => { if (e.key === 'Enter' || e.key === ' ') { e.preventDefault(); router.push('/'); } }}
             style={{
               display: 'flex', alignItems: 'center', justifyContent: 'space-between',
-              padding: '14px 20px', background: colors.white, border: `1px solid ${colors.borderDefault}`, borderRadius: 12,
+              padding: '14px 20px', background: colors.surface, border: `1px solid ${colors.borderDefault}`, borderRadius: 12,
               cursor: 'pointer',
             }}
           >

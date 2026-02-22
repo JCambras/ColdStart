@@ -167,7 +167,7 @@ export function SignalBar({ signal, rinkSlug, stateAverage }: { signal: Signal; 
               <div style={{ display: 'flex', alignItems: 'center', gap: 4, marginBottom: 3 }}>
                 <span style={{
                   fontSize: 10, fontWeight: 700, padding: '1px 4px', borderRadius: 3,
-                  background: colors.brandAccent, color: colors.white, textTransform: 'uppercase', letterSpacing: 0.5,
+                  background: colors.brandAccent, color: colors.textInverse, textTransform: 'uppercase', letterSpacing: 0.5,
                 }}>
                   Verified
                 </span>

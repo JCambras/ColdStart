@@ -149,7 +149,7 @@ export default function TripPage() {
   return (
     <div style={{ minHeight: '100vh', background: colors.bgPage, fontFamily: "-apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" }}>
       {/* Header */}
-      <div style={{ background: `linear-gradient(135deg, ${colors.brandDeep} 0%, ${colors.brand} 100%)`, padding: '32px 24px 28px', color: colors.white }}>
+      <div style={{ background: `linear-gradient(135deg, ${colors.brandDeep} 0%, ${colors.brand} 100%)`, padding: '32px 24px 28px', color: colors.textInverse }}>
         <div style={{ maxWidth: 600, margin: '0 auto' }}>
           <div style={{ fontSize: 12, fontWeight: 500, opacity: 0.8, marginBottom: 8 }}>GAME DAY INFO</div>
           <h1 style={{ fontSize: 'clamp(22px, 5vw, 30px)', fontWeight: 800, margin: 0, lineHeight: 1.2 }}>🏒 {trip.teamName}</h1>
@@ -163,10 +163,10 @@ export default function TripPage() {
               getVibe().log('trip_share', { tripId, rinkId: trip.rink.id, method: canShare ? 'native' : 'clipboard' });
               if (canShare) { navigator.share({ title: `${trip.teamName} — Game Day`, text, url }).catch(() => {}); }
               else { const fallbackCopy = (t: string) => { if (navigator.clipboard?.writeText) return navigator.clipboard.writeText(t); const ta = document.createElement('textarea'); ta.value = t; ta.style.position = 'fixed'; ta.style.opacity = '0'; document.body.appendChild(ta); ta.select(); document.execCommand('copy'); document.body.removeChild(ta); return Promise.resolve(); }; fallbackCopy(text).then(() => { setShareCopied(true); setTimeout(() => setShareCopied(false), 2000); }).catch(() => {}); }
-            }} style={{ fontSize: 13, fontWeight: 600, color: colors.white, background: 'rgba(255,255,255,0.15)', border: '1px solid rgba(255,255,255,0.25)', borderRadius: 8, padding: '8px 16px', cursor: 'pointer' }}>
+            }} style={{ fontSize: 13, fontWeight: 600, color: colors.textInverse, background: 'rgba(255,255,255,0.15)', border: '1px solid rgba(255,255,255,0.25)', borderRadius: 8, padding: '8px 16px', cursor: 'pointer' }}>
               {shareCopied ? '✓ Copied!' : '📤 Share with team'}
             </button>
-            <button onClick={() => router.push('/trips')} style={{ fontSize: 13, fontWeight: 600, color: colors.white, background: 'rgba(255,255,255,0.1)', border: '1px solid rgba(255,255,255,0.2)', borderRadius: 8, padding: '8px 16px', cursor: 'pointer' }}>
+            <button onClick={() => router.push('/trips')} style={{ fontSize: 13, fontWeight: 600, color: colors.textInverse, background: 'rgba(255,255,255,0.1)', border: '1px solid rgba(255,255,255,0.2)', borderRadius: 8, padding: '8px 16px', cursor: 'pointer' }}>
               📁 My trips
             </button>
           </div>
@@ -179,7 +179,7 @@ export default function TripPage() {
         {isGlancer && !showFullTrip && (
           <>
             <section style={{
-              background: colors.white, border: `1px solid ${colors.borderDefault}`, borderRadius: 14,
+              background: colors.surface, border: `1px solid ${colors.borderDefault}`, borderRadius: 14,
               padding: 20, marginTop: -16, position: 'relative', zIndex: 5,
               boxShadow: '0 4px 12px rgba(0,0,0,0.06)',
             }}>
@@ -280,7 +280,7 @@ export default function TripPage() {
             </div>
             <button onClick={() => { dismissRatePrompt(); router.push(`/rinks/${trip.rink.id}`); }} style={{
               marginTop: 10, width: '100%', padding: '10px 0', fontSize: 13, fontWeight: 700,
-              background: colors.warning, color: colors.white, border: 'none', borderRadius: 8, cursor: 'pointer',
+              background: colors.warning, color: colors.textInverse, border: 'none', borderRadius: 8, cursor: 'pointer',
             }}>
               ⭐ Rate {trip.rink.name} →
             </button>
@@ -289,7 +289,7 @@ export default function TripPage() {
 
         {/* ── Rink Verdict Card ── */}
         {summary && (
-          <section style={{ background: colors.white, border: `1px solid ${colors.borderDefault}`, borderRadius: 14, padding: 20, marginTop: showRatePrompt && !rateSubmitted ? 12 : -16, position: 'relative', boxShadow: '0 4px 12px rgba(0,0,0,0.04)' }}>
+          <section style={{ background: colors.surface, border: `1px solid ${colors.borderDefault}`, borderRadius: 14, padding: 20, marginTop: showRatePrompt && !rateSubmitted ? 12 : -16, position: 'relative', boxShadow: '0 4px 12px rgba(0,0,0,0.04)' }}>
             <div style={{ display: 'flex', alignItems: 'center', justifyContent: 'space-between', marginBottom: 12 }}>
               <div>
                 <div style={{ fontSize: 11, fontWeight: 600, color: colors.textMuted, textTransform: 'uppercase', letterSpacing: 1 }}>Rink report</div>
@@ -317,7 +317,7 @@ export default function TripPage() {
 
         {/* ── Game Schedule ── */}
         {hasGames && (
-          <section style={{ background: colors.white, border: `1px solid ${colors.borderDefault}`, borderRadius: 14, padding: 20, marginTop: 16 }}>
+          <section style={{ background: colors.surface, border: `1px solid ${colors.borderDefault}`, borderRadius: 14, padding: 20, marginTop: 16 }}>
             <h3 style={{ fontSize: 13, fontWeight: 600, color: colors.textMuted, textTransform: 'uppercase', letterSpacing: 1, margin: 0 }}>🕐 Game schedule</h3>
             <div style={{ marginTop: 12, display: 'flex', flexDirection: 'column', gap: 10 }}>
               {trip.games!.map((game, i) => {
@@ -354,7 +354,7 @@ export default function TripPage() {
 
         {/* Fallback: old plain text gameTimes */}
         {!hasGames && trip.gameTimes && (
-          <section style={{ background: colors.white, border: `1px solid ${colors.borderDefault}`, borderRadius: 14, padding: 20, marginTop: 16 }}>
+          <section style={{ background: colors.surface, border: `1px solid ${colors.borderDefault}`, borderRadius: 14, padding: 20, marginTop: 16 }}>
             <h3 style={{ fontSize: 13, fontWeight: 600, color: colors.textMuted, textTransform: 'uppercase', letterSpacing: 1, margin: 0 }}>🕐 Game times</h3>
             <div style={{ marginTop: 12, fontSize: 14, color: colors.textPrimary, lineHeight: 1.8, whiteSpace: 'pre-line' }}>{trip.gameTimes}</div>
           </section>
@@ -362,7 +362,7 @@ export default function TripPage() {
 
         {/* ── Lodging & Food (consolidated) ── */}
         {(trip.hotel || trip.lunch || trip.dinner) && (
-          <section style={{ background: colors.white, border: `1px solid ${colors.borderDefault}`, borderRadius: 14, padding: 20, marginTop: 16 }}>
+          <section style={{ background: colors.surface, border: `1px solid ${colors.borderDefault}`, borderRadius: 14, padding: 20, marginTop: 16 }}>
             <h3 style={{ fontSize: 13, fontWeight: 600, color: colors.textMuted, textTransform: 'uppercase', letterSpacing: 1, margin: 0 }}>🏨 Lodging & food</h3>
             {trip.hotel && (
               <div style={{ marginTop: 12 }}>
@@ -435,7 +435,7 @@ export default function TripPage() {
 
         {/* ── Team additions ── */}
         {trip.additions && trip.additions.length > 0 && (
-          <section style={{ background: colors.white, border: `1px solid ${colors.borderDefault}`, borderRadius: 14, padding: 20, marginTop: 16 }}>
+          <section style={{ background: colors.surface, border: `1px solid ${colors.borderDefault}`, borderRadius: 14, padding: 20, marginTop: 16 }}>
             <h3 style={{ fontSize: 14, fontWeight: 700, color: colors.textSecondary, margin: 0 }}>👥 From the team <span style={{ fontSize: 12, fontWeight: 500, color: colors.textMuted }}>({trip.additions.length} contribution{trip.additions.length !== 1 ? 's' : ''})</span></h3>
             <div style={{ marginTop: 12, display: 'flex', flexDirection: 'column', gap: 8 }}>
               {trip.additions.map((a, i) => (
@@ -466,17 +466,17 @@ export default function TripPage() {
                 + Add a restaurant, tip, or note for the team
               </button>
             ) : (
-              <div style={{ background: colors.white, border: `1px solid ${colors.borderDefault}`, borderRadius: 14, padding: 16 }}>
+              <div style={{ background: colors.surface, border: `1px solid ${colors.borderDefault}`, borderRadius: 14, padding: 16 }}>
                 <div style={{ display: 'flex', gap: 6, marginBottom: 12 }}>
                   {(['restaurant', 'tip', 'note'] as const).map(t => (
-                    <button key={t} onClick={() => setAddType(t)} style={{ fontSize: 12, fontWeight: 600, padding: '5px 12px', borderRadius: 8, background: addType === t ? colors.textPrimary : colors.borderLight, color: addType === t ? colors.white : colors.textTertiary, border: 'none', cursor: 'pointer', textTransform: 'capitalize' }}>{t === 'restaurant' ? '🍴 Restaurant' : t === 'tip' ? '💡 Tip' : '📝 Note'}</button>
+                    <button key={t} onClick={() => setAddType(t)} style={{ fontSize: 12, fontWeight: 600, padding: '5px 12px', borderRadius: 8, background: addType === t ? colors.textPrimary : colors.borderLight, color: addType === t ? colors.textInverse : colors.textTertiary, border: 'none', cursor: 'pointer', textTransform: 'capitalize' }}>{t === 'restaurant' ? '🍴 Restaurant' : t === 'tip' ? '💡 Tip' : '📝 Note'}</button>
                   ))}
                 </div>
                 <input value={addText} onChange={(e) => setAddText(e.target.value)} placeholder={addType === 'restaurant' ? 'Restaurant name and location' : addType === 'tip' ? 'Your tip for the team' : 'Your note'} style={{ width: '100%', padding: '10px 14px', fontSize: 14, border: `1px solid ${colors.borderMedium}`, borderRadius: 10, outline: 'none', boxSizing: 'border-box' }} />
                 {addType === 'restaurant' && <input value={addCost} onChange={(e) => setAddCost(e.target.value)} placeholder="💲 Cost (e.g. ~$15/person)" style={{ width: '100%', padding: '8px 14px', fontSize: 13, border: `1px solid ${colors.borderMedium}`, borderRadius: 10, outline: 'none', boxSizing: 'border-box', marginTop: 6 }} />}
                 <div style={{ display: 'flex', gap: 8, justifyContent: 'flex-end', marginTop: 10 }}>
                   <button onClick={() => { setShowAddForm(false); setAddText(''); setAddCost(''); }} style={{ fontSize: 13, color: colors.textTertiary, background: 'none', border: `1px solid ${colors.borderDefault}`, borderRadius: 8, padding: '6px 14px', cursor: 'pointer' }}>Cancel</button>
-                  <button onClick={submitAddition} disabled={!addText.trim()} style={{ fontSize: 13, fontWeight: 600, color: colors.white, background: addText.trim() ? colors.textPrimary : colors.textDisabled, border: 'none', borderRadius: 8, padding: '6px 14px', cursor: 'pointer' }}>Add</button>
+                  <button onClick={submitAddition} disabled={!addText.trim()} style={{ fontSize: 13, fontWeight: 600, color: colors.textInverse, background: addText.trim() ? colors.textPrimary : colors.textDisabled, border: 'none', borderRadius: 8, padding: '6px 14px', cursor: 'pointer' }}>Add</button>
                 </div>
               </div>
             )}

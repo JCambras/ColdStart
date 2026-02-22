@@ -93,7 +93,7 @@ export function TipCard({ tip, tipIndex, rinkSlug }: { tip: Tip; tipIndex: numbe
       aria-expanded={expanded}
       style={{
         padding: '10px 14px',
-        background: colors.white,
+        background: colors.surface,
         border: `1px solid ${colors.borderLight}`,
         borderRadius: radius.lg,
         marginBottom: 6,
@@ -241,7 +241,7 @@ export function TipCard({ tip, tipIndex, rinkSlug }: { tip: Tip; tipIndex: numbe
                   <div style={{ display: 'flex', alignItems: 'center', gap: 6, marginBottom: 3 }}>
                     <span style={{
                       fontSize: 10, fontWeight: 700, padding: '1px 5px', borderRadius: 3,
-                      background: colors.brandAccent, color: colors.white, textTransform: 'uppercase', letterSpacing: 0.5,
+                      background: colors.brandAccent, color: colors.textInverse, textTransform: 'uppercase', letterSpacing: 0.5,
                     }}>
                       Verified
                     </span>

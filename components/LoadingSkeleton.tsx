@@ -14,7 +14,7 @@ function SkeletonPage() {
       <div style={{ ...bar('40%'), marginBottom: 24 }} />
       {/* Verdict card */}
       <div style={{
-        background: colors.white, border: `1px solid ${colors.borderDefault}`, borderRadius: 16,
+        background: colors.surface, border: `1px solid ${colors.borderDefault}`, borderRadius: 16,
         padding: 24, marginBottom: 16,
       }}>
         <div style={{ ...bar('50%', 18), marginBottom: 10 }} />
@@ -22,7 +22,7 @@ function SkeletonPage() {
       </div>
       {/* Signal bars */}
       <div style={{
-        background: colors.white, border: `1px solid ${colors.borderDefault}`, borderRadius: 16,
+        background: colors.surface, border: `1px solid ${colors.borderDefault}`, borderRadius: 16,
         padding: '16px 24px',
       }}>
         {Array.from({ length: 7 }).map((_, i) => (
@@ -41,7 +41,7 @@ function SkeletonPage() {
       <div style={{ marginTop: 24, display: 'flex', flexDirection: 'column', gap: 8 }}>
         {Array.from({ length: 3 }).map((_, i) => (
           <div key={i} style={{
-            background: colors.white, border: `1px solid ${colors.borderLight}`,
+            background: colors.surface, border: `1px solid ${colors.borderLight}`,
             borderRadius: radius.lg, padding: '12px 14px',
           }}>
             <div style={{ ...bar('85%', 12), marginBottom: 6 }} />
@@ -56,7 +56,7 @@ function SkeletonPage() {
 function SkeletonCard() {
   return (
     <div style={{
-      background: colors.white, border: `1px solid ${colors.borderDefault}`, borderRadius: 16,
+      background: colors.surface, border: `1px solid ${colors.borderDefault}`, borderRadius: 16,
       display: 'flex', minHeight: 200, overflow: 'hidden',
       animation: 'pulse 1.5s ease-in-out infinite',
     }}>
@@ -81,7 +81,7 @@ function SkeletonList() {
       {Array.from({ length: 6 }).map((_, i) => (
         <div key={i} style={{
           display: 'flex', alignItems: 'center', justifyContent: 'space-between',
-          padding: '14px 18px', background: colors.white, border: `1px solid ${colors.borderDefault}`,
+          padding: '14px 18px', background: colors.surface, border: `1px solid ${colors.borderDefault}`,
           borderRadius: radius.xl, animation: 'pulse 1.5s ease-in-out infinite',
         }}>
           <div>

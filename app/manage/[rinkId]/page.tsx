@@ -225,7 +225,7 @@ export default function OperatorDashboard() {
                 <div style={{ display: 'flex', alignItems: 'center', gap: 6, marginBottom: 3 }}>
                   <span style={{
                     fontSize: 10, fontWeight: 700, padding: '1px 5px', borderRadius: 3,
-                    background: colors.brandAccent, color: colors.white, textTransform: 'uppercase', letterSpacing: 0.5,
+                    background: colors.brandAccent, color: colors.textInverse, textTransform: 'uppercase', letterSpacing: 0.5,
                   }}>
                     Verified
                   </span>

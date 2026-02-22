@@ -245,7 +245,7 @@ export default function RinkPage() {
           <div style={{ fontSize: 48, marginBottom: 16 }}>🏒</div>
           <h2 style={{ fontSize: 20, fontWeight: 600, color: colors.textPrimary, margin: 0 }}>Rink not found</h2>
           <p style={{ fontSize: 14, color: colors.textTertiary, marginTop: 8 }}>{error || "This rink doesn't exist or has been removed."}</p>
-          <button onClick={() => router.push('/')} style={{ marginTop: 24, fontSize: 14, fontWeight: 600, color: colors.white, background: colors.textPrimary, borderRadius: 10, padding: '12px 28px', border: 'none', cursor: 'pointer' }}>
+          <button onClick={() => router.push('/')} style={{ marginTop: 24, fontSize: 14, fontWeight: 600, color: colors.textInverse, background: colors.textPrimary, borderRadius: 10, padding: '12px 28px', border: 'none', cursor: 'pointer' }}>
             ← Back to search
           </button>
         </div>
@@ -308,12 +308,12 @@ export default function RinkPage() {
       width: 30, height: 30, borderRadius: '50%',
       background: `linear-gradient(135deg, ${colors.brand}, ${colors.brandAccent})`,
       display: 'flex', alignItems: 'center', justifyContent: 'center',
-      color: colors.white, fontSize: 11, fontWeight: 700, flexShrink: 0,
+      color: colors.textInverse, fontSize: 11, fontWeight: 700, flexShrink: 0,
     }}>
       {(currentUser.name || currentUser.email).slice(0, 2).toUpperCase()}
     </div>
   ) : (
-    <button onClick={openAuth} style={{ fontSize: 12, fontWeight: 600, color: colors.white, background: colors.textPrimary, border: 'none', borderRadius: 8, padding: '6px 14px', cursor: 'pointer', whiteSpace: 'nowrap' }}>
+    <button onClick={openAuth} style={{ fontSize: 12, fontWeight: 600, color: colors.textInverse, background: colors.textPrimary, border: 'none', borderRadius: 8, padding: '6px 14px', cursor: 'pointer', whiteSpace: 'nowrap' }}>
       Sign in
     </button>
   );
@@ -550,7 +550,7 @@ export default function RinkPage() {
         <SignalsSection rink={rink} summary={summary} loadedSignals={loadedSignals} />
 
         {!hasData && (
-          <section style={{ background: colors.white, border: `1px solid ${colors.borderDefault}`, borderRadius: 16, padding: 32, marginTop: 16, textAlign: 'center' }}>
+          <section style={{ background: colors.surface, border: `1px solid ${colors.borderDefault}`, borderRadius: 16, padding: 32, marginTop: 16, textAlign: 'center' }}>
             <div style={{ fontSize: 36, marginBottom: 12 }}>🏒</div>
             <p style={{ fontSize: 16, fontWeight: 600, color: colors.textPrimary, margin: 0 }}>Be the first to report</p>
             <p style={{ fontSize: 14, color: colors.textTertiary, marginTop: 6, lineHeight: 1.5 }}>
@@ -558,7 +558,7 @@ export default function RinkPage() {
             </p>
             <button
               onClick={() => { const el = document.getElementById('contribute-section'); if (el) el.scrollIntoView({ behavior: 'smooth' }); }}
-              style={{ marginTop: 16, fontSize: 14, fontWeight: 600, color: colors.white, background: colors.textPrimary, border: 'none', borderRadius: 10, padding: '12px 28px', cursor: 'pointer' }}
+              style={{ marginTop: 16, fontSize: 14, fontWeight: 600, color: colors.textInverse, background: colors.textPrimary, border: 'none', borderRadius: 10, padding: '12px 28px', cursor: 'pointer' }}
             >
               Share what you know →
             </button>
@@ -599,7 +599,7 @@ export default function RinkPage() {
             onKeyDown={(e) => { if (e.key === 'Enter' || e.key === ' ') { e.preventDefault(); router.push(`/states/${rink.state}`); } }}
             style={{
               display: 'flex', alignItems: 'center', justifyContent: 'space-between',
-              padding: '14px 20px', background: colors.white, border: `1px solid ${colors.borderDefault}`, borderRadius: 12,
+              padding: '14px 20px', background: colors.surface, border: `1px solid ${colors.borderDefault}`, borderRadius: 12,
               cursor: 'pointer', transition: 'all 0.15s',
             }}
             onMouseEnter={(e) => { e.currentTarget.style.borderColor = colors.brand; }}

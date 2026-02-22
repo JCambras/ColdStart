@@ -57,7 +57,7 @@ export function RinkRequestForm({ query }: RinkRequestFormProps) {
           disabled={!email.trim()}
           style={{
             fontSize: text.base, fontWeight: 600,
-            color: email.trim() ? colors.white : colors.textMuted,
+            color: email.trim() ? colors.textInverse : colors.textMuted,
             background: email.trim() ? colors.brand : colors.borderDefault,
             border: 'none', borderRadius: 10, padding: '10px 20px',
             cursor: 'pointer', whiteSpace: 'nowrap', transition: 'all 0.2s',

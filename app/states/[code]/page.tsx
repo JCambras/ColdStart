@@ -95,7 +95,7 @@ export default function StatePage() {
             style={{
               width: '100%', padding: '10px 14px', fontSize: 14,
               border: `1px solid ${colors.borderDefault}`, borderRadius: 10, outline: 'none',
-              boxSizing: 'border-box', marginTop: 16, background: colors.white,
+              boxSizing: 'border-box', marginTop: 16, background: colors.surface,
             }}
           />
         )}
@@ -116,7 +116,7 @@ export default function StatePage() {
                   onKeyDown={(e) => { if (e.key === 'Enter' || e.key === ' ') { e.preventDefault(); router.push(`/rinks/${rink.id}`); } }}
                   style={{
                     display: 'flex', alignItems: 'center', justifyContent: 'space-between',
-                    padding: '14px 18px', background: colors.white, border: `1px solid ${colors.borderDefault}`,
+                    padding: '14px 18px', background: colors.surface, border: `1px solid ${colors.borderDefault}`,
                     borderRadius: 12, cursor: 'pointer', transition: 'all 0.15s',
                   }}
                   onMouseEnter={(e) => {

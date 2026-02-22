@@ -304,9 +304,9 @@ function TripBuilderInner() {
                           tabIndex={0}
                           onClick={() => { setSelectedRink({ id: r.id, name: r.name, city: r.city, state: r.state }); setRinkSearch(''); setRinkStateFilter(''); }}
                           onKeyDown={(e) => { if (e.key === 'Enter' || e.key === ' ') { e.preventDefault(); setSelectedRink({ id: r.id, name: r.name, city: r.city, state: r.state }); setRinkSearch(''); setRinkStateFilter(''); } }}
-                          style={{ padding: '10px 14px', cursor: 'pointer', borderBottom: `1px solid ${colors.borderLight}`, background: colors.white }}
+                          style={{ padding: '10px 14px', cursor: 'pointer', borderBottom: `1px solid ${colors.borderLight}`, background: colors.surface }}
                           onMouseEnter={(e) => (e.currentTarget.style.background = colors.bgInfo)}
-                          onMouseLeave={(e) => (e.currentTarget.style.background = colors.white)}
+                          onMouseLeave={(e) => (e.currentTarget.style.background = colors.surface)}
                         >
                           <div style={{ fontSize: 14, fontWeight: 600, color: colors.textPrimary }}>{r.name}</div>
                           <div style={{ fontSize: 12, color: colors.textMuted }}>{r.city}, {r.state}</div>
@@ -462,7 +462,7 @@ function TripBuilderInner() {
                         </div>
                         <select value={item.splitType} onChange={(e) => updateCostItem(item.id, 'splitType', e.target.value)}
                           aria-label={`Cost item ${idx + 1} split type`}
-                          style={{ padding: '6px 4px', fontSize: 11, border: `1px solid ${colors.borderMedium}`, borderRadius: 6, background: colors.white, color: colors.textSecondary }}>
+                          style={{ padding: '6px 4px', fontSize: 11, border: `1px solid ${colors.borderMedium}`, borderRadius: 6, background: colors.surface, color: colors.textSecondary }}>
                           <option value="total">Split evenly</option>
                           <option value="per-family">Per family</option>
                           <option value="per-player">Per player</option>
@@ -543,14 +543,14 @@ function TripBuilderInner() {
                   aria-label="Let teammates add info"
                   style={{ width: 52, height: 28, borderRadius: 14, border: 'none', cursor: 'pointer', background: collaborative ? colors.brand : colors.textDisabled, position: 'relative', transition: 'background 0.2s' }}
                 >
-                  <div style={{ width: 22, height: 22, borderRadius: '50%', background: colors.white, position: 'absolute', top: 3, left: collaborative ? 27 : 3, transition: 'left 0.2s', boxShadow: '0 1px 3px rgba(0,0,0,0.15)' }} />
+                  <div style={{ width: 22, height: 22, borderRadius: '50%', background: colors.surface, position: 'absolute', top: 3, left: collaborative ? 27 : 3, transition: 'left 0.2s', boxShadow: '0 1px 3px rgba(0,0,0,0.15)' }} />
                 </button>
               </div>
             </>
           )}
 
           {/* Submit */}
-          <button onClick={createTrip} disabled={!selectedRink || !teamName.trim()} style={{ width: '100%', padding: '16px 0', fontSize: 16, fontWeight: 700, background: (selectedRink && teamName.trim()) ? colors.brand : colors.borderDefault, color: (selectedRink && teamName.trim()) ? colors.white : colors.textMuted, border: 'none', borderRadius: 12, cursor: (selectedRink && teamName.trim()) ? 'pointer' : 'default', marginTop: 12, transition: 'all 0.2s', boxShadow: (selectedRink && teamName.trim()) ? '0 4px 14px rgba(14,165,233,0.3)' : 'none' }}>
+          <button onClick={createTrip} disabled={!selectedRink || !teamName.trim()} style={{ width: '100%', padding: '16px 0', fontSize: 16, fontWeight: 700, background: (selectedRink && teamName.trim()) ? colors.brand : colors.borderDefault, color: (selectedRink && teamName.trim()) ? colors.textInverse : colors.textMuted, border: 'none', borderRadius: 12, cursor: (selectedRink && teamName.trim()) ? 'pointer' : 'default', marginTop: 12, transition: 'all 0.2s', boxShadow: (selectedRink && teamName.trim()) ? '0 4px 14px rgba(14,165,233,0.3)' : 'none' }}>
             {selectedRink ? `Create ${selectedRink.name} trip page →` : 'Create trip page →'}
           </button>
         </div>

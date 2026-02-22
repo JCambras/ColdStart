@@ -2,9 +2,9 @@ import { describe, it, expect } from 'vitest';
 import { colors, text, radius, layout, shadow, transition, nav } from '../theme';
 
 describe('theme tokens', () => {
-  it('all color values are valid hex colors', () => {
+  it('all color values are CSS variable references', () => {
     for (const [, value] of Object.entries(colors)) {
-      expect(value).toMatch(/^#[0-9a-f]{6}$/i);
+      expect(value).toMatch(/^var\(--colors-\w+\)$/);
     }
   });
 
@@ -46,7 +46,7 @@ describe('theme tokens', () => {
   });
 
   it('nav tokens are non-empty strings', () => {
-    expect(nav.bg).toContain('rgba');
+    expect(nav.bg).toMatch(/^var\(--nav-/);
     expect(nav.blur).toContain('blur');
   });
 
@@ -59,6 +59,6 @@ describe('theme tokens', () => {
       Object.keys(shadow).length +
       Object.keys(transition).length +
       Object.keys(nav).length;
-    expect(total).toBe(87);
+    expect(total).toBe(89);
   });
 });

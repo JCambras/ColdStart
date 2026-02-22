@@ -22,7 +22,7 @@ export default function NotFound() {
     }}>
       <div style={{
         maxWidth: 400, width: '100%', textAlign: 'center', padding: 32,
-        background: colors.white, border: `1px solid ${colors.borderDefault}`, borderRadius: 20,
+        background: colors.surface, border: `1px solid ${colors.borderDefault}`, borderRadius: 20,
         boxShadow: '0 4px 12px rgba(0,0,0,0.04)',
       }}>
         <div style={{ marginBottom: 16 }}><Logo size={28} /></div>
@@ -48,7 +48,7 @@ export default function NotFound() {
           <button
             onClick={handleSearch}
             style={{
-              fontSize: text.base, fontWeight: 600, color: colors.white,
+              fontSize: text.base, fontWeight: 600, color: colors.textInverse,
               background: colors.brand, border: 'none', borderRadius: radius.lg,
               padding: '10px 18px', cursor: 'pointer', whiteSpace: 'nowrap',
             }}
