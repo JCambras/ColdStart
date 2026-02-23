@@ -17,6 +17,7 @@ export async function GET(request: NextRequest) {
           COUNT(*)::int AS total_rinks,
           COUNT(DISTINCT state)::int AS states_covered
         FROM rinks
+        WHERE venue_type != 'non_ice'
       ),
       rating_stats AS (
         SELECT

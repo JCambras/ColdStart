@@ -42,7 +42,7 @@ export default async function ProfilePage({ params }: { params: Promise<{ id: st
     `SELECT r.id, r.name, r.city, r.state, COUNT(sr.id)::int AS rating_count
      FROM signal_ratings sr
      JOIN rinks r ON r.id = sr.rink_id
-     WHERE sr.user_id = $1
+     WHERE sr.user_id = $1 AND r.venue_type != 'non_ice'
      GROUP BY r.id, r.name, r.city, r.state
      ORDER BY MAX(sr.created_at) DESC
      LIMIT 20`,

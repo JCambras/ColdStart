@@ -17,7 +17,7 @@ export default async function sitemap(): Promise<MetadataRoute.Sitemap> {
   try {
     // All rink pages
     const rinkResult = await pool.query(
-      'SELECT id, created_at FROM rinks ORDER BY created_at DESC'
+      `SELECT id, created_at FROM rinks WHERE venue_type != 'non_ice' ORDER BY created_at DESC`
     );
     const rinkPages: MetadataRoute.Sitemap = rinkResult.rows.map((r: { id: string; created_at: Date }) => ({
       url: `${baseUrl}/rinks/${r.id}`,
@@ -28,7 +28,7 @@ export default async function sitemap(): Promise<MetadataRoute.Sitemap> {
 
     // State pages
     const stateResult = await pool.query(
-      'SELECT DISTINCT state FROM rinks ORDER BY state'
+      `SELECT DISTINCT state FROM rinks WHERE venue_type != 'non_ice' ORDER BY state`
     );
     const statePages: MetadataRoute.Sitemap = stateResult.rows.map((r: { state: string }) => ({
       url: `${baseUrl}/states/${r.state}`,
