@@ -151,6 +151,39 @@ export const storage = {
   getSeasonWelcomeDismissed: () => getJSON<string | null>('coldstart_season_welcome_dismissed', null),
   setSeasonWelcomeDismissed: (v: string) => setJSON('coldstart_season_welcome_dismissed', v),
 
+  // Referral source (sessionStorage)
+  getRef: () => { try { return sessionStorage.getItem('coldstart_ref'); } catch { return null; } },
+  setRef: (v: string) => { try { sessionStorage.setItem('coldstart_ref', v); } catch {} },
+
+  // Per-rink rated flag
+  getRinkRated: (id: string) => getJSON<string | null>(`coldstart_rated_${id}`, null),
+  setRinkRated: (id: string, v: string) => setJSON(`coldstart_rated_${id}`, v),
+
+  // Rink viewed metadata (for "Recently Viewed" on homepage)
+  getRinkViewedMeta: (id: string) => getJSON<{ name: string; city: string; state: string; viewedAt: string } | null>(`coldstart_viewed_meta_${id}`, null),
+  setRinkViewedMeta: (id: string, meta: { name: string; city: string; state: string; viewedAt: string }) => setJSON(`coldstart_viewed_meta_${id}`, meta),
+
+  // All viewed meta entries (scan localStorage for "Recently Viewed")
+  getAllViewedMeta: () => {
+    const results: { id: string; name: string; city: string; state: string; viewedAt: string }[] = [];
+    try {
+      for (let i = 0; i < localStorage.length; i++) {
+        const key = localStorage.key(i);
+        if (key?.startsWith('coldstart_viewed_meta_')) {
+          const id = key.replace('coldstart_viewed_meta_', '');
+          const raw = localStorage.getItem(key);
+          if (raw) {
+            const data = JSON.parse(raw);
+            if (data.name) {
+              results.push({ id, ...data });
+            }
+          }
+        }
+      }
+    } catch {}
+    return results;
+  },
+
   // All place tips for a rink (enumerate by scanning localStorage)
   getAllPlaceTips: (rinkSlug: string) => {
     const allTips: Record<string, { text: string; author: string; date: string }[]> = {};

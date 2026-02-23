@@ -17,7 +17,8 @@ export async function buildSummary(rinkId: string): Promise<RinkSummary> {
     pool.query(
       `SELECT t.id, t.text, t.contributor_type, t.context, t.created_at,
               t.user_id, u.name AS contributor_name, u."rinksRated" AS rinks_rated,
-              or_resp.text AS resp_text, or_resp.responder_name AS resp_name, or_resp.responder_role AS resp_role
+              or_resp.text AS resp_text, or_resp.responder_name AS resp_name, or_resp.responder_role AS resp_role,
+              (SELECT COUNT(DISTINCT reporter_id)::int FROM tip_flags WHERE tip_id = t.id) AS flag_count
        FROM tips t
        LEFT JOIN users u ON t.user_id = u.id
        LEFT JOIN LATERAL (
@@ -61,6 +62,7 @@ export async function buildSummary(rinkId: string): Promise<RinkSummary> {
     id: number; text: string; contributor_type: string; context: string | null; created_at: Date;
     user_id: string | null; contributor_name: string | null; rinks_rated: number | null;
     resp_text: string | null; resp_name: string | null; resp_role: string | null;
+    flag_count: number | null;
   }) => ({
     id: r.id,
     text: r.text,
@@ -71,6 +73,7 @@ export async function buildSummary(rinkId: string): Promise<RinkSummary> {
     contributor_name: r.contributor_name ?? undefined,
     contributor_badge: r.rinks_rated && r.rinks_rated >= 10 ? 'Trusted' : undefined,
     operator_response: r.resp_text ? { text: r.resp_text, name: r.resp_name ?? 'Staff', role: r.resp_role ?? 'Rink Staff' } : undefined,
+    flag_count: r.flag_count || 0,
   }));
 
   const ratedSignals = signals.filter((s) => s.count > 0);

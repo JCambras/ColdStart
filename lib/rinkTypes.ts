@@ -18,6 +18,7 @@ export interface Tip {
   contributor_badge?: string;
   user_id?: string;
   operator_response?: { text: string; name: string; role: string };
+  flag_count?: number;
 }
 
 export interface RinkSummary {

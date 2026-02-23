@@ -70,24 +70,9 @@ export default function HomeClient({
 
   // Load recently viewed rinks from localStorage
   useEffect(() => {
-    try {
-      const viewed: RecentlyViewedRink[] = [];
-      for (let i = 0; i < localStorage.length; i++) {
-        const key = localStorage.key(i);
-        if (key?.startsWith('coldstart_viewed_meta_')) {
-          const id = key.replace('coldstart_viewed_meta_', '');
-          const raw = localStorage.getItem(key);
-          if (raw) {
-            const data = JSON.parse(raw);
-            if (data.name) {
-              viewed.push({ id, ...data });
-            }
-          }
-        }
-      }
-      viewed.sort((a, b) => new Date(b.viewedAt).getTime() - new Date(a.viewedAt).getTime());
-      setRecentlyViewed(viewed.slice(0, 5));
-    } catch {}
+    const viewed = storage.getAllViewedMeta();
+    viewed.sort((a, b) => new Date(b.viewedAt).getTime() - new Date(a.viewedAt).getTime());
+    setRecentlyViewed(viewed.slice(0, 5));
   }, []);
 
   // Load rated rinks from localStorage
@@ -98,12 +83,9 @@ export default function HomeClient({
       if (entries.length === 0) return;
       const rinks: { id: string; name: string; city: string; state: string; ratedAt: number }[] = [];
       for (const [id, timestamp] of entries) {
-        const metaRaw = localStorage.getItem(`coldstart_viewed_meta_${id}`);
-        if (metaRaw) {
-          const meta = JSON.parse(metaRaw);
-          if (meta.name) {
-            rinks.push({ id, name: meta.name, city: meta.city || '', state: meta.state || '', ratedAt: timestamp });
-          }
+        const meta = storage.getRinkViewedMeta(id);
+        if (meta?.name) {
+          rinks.push({ id, name: meta.name, city: meta.city || '', state: meta.state || '', ratedAt: timestamp });
         }
       }
       rinks.sort((a, b) => b.ratedAt - a.ratedAt);

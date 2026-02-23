@@ -90,48 +90,43 @@ export default function RinkPage() {
         headers: { 'Content-Type': 'application/json' },
         body: JSON.stringify({ rink_id: rinkId, source: ref }),
       }).catch(() => {});
-      try { sessionStorage.setItem('coldstart_ref', ref); } catch {}
+      storage.setRef(ref);
     }
   }, [searchParams, rinkId]);
 
   // Track rink views for post-visit prompt
   useEffect(() => {
     if (!rinkId) return;
-    try {
-      const alreadyRated = localStorage.getItem(`coldstart_rated_${rinkId}`);
-      if (alreadyRated) return;
+    const alreadyRated = storage.getRinkRated(rinkId);
+    if (alreadyRated) return;
 
-      const key = `coldstart_viewed_${rinkId}`;
-      const prev = localStorage.getItem(key);
-      const savedRinks = JSON.parse(localStorage.getItem('coldstart_my_rinks') || '[]');
-      const isSaved = savedRinks.includes(rinkId);
+    const prev = storage.getRinkViewed(rinkId);
+    const savedRinks = storage.getSavedRinks();
+    const isSaved = savedRinks.includes(rinkId);
 
-      if (prev) {
-        const prevDate = new Date(prev);
-        const hoursSince = (Date.now() - prevDate.getTime()) / (1000 * 60 * 60);
-        const daysSince = hoursSince / 24;
-        if (hoursSince > 2 && daysSince < 7) {
-          setShowReturnPrompt(true);
-        }
-      } else if (isSaved) {
+    if (prev) {
+      const prevDate = new Date(prev);
+      const hoursSince = (Date.now() - prevDate.getTime()) / (1000 * 60 * 60);
+      const daysSince = hoursSince / 24;
+      if (hoursSince > 2 && daysSince < 7) {
         setShowReturnPrompt(true);
       }
+    } else if (isSaved) {
+      setShowReturnPrompt(true);
+    }
 
-      localStorage.setItem(key, new Date().toISOString());
-    } catch {}
+    storage.setRinkViewed(rinkId, new Date().toISOString());
   }, [rinkId]);
 
   // Store richer view data for "Recently Viewed" on homepage
   useEffect(() => {
     if (!detail || !rinkId) return;
-    try {
-      localStorage.setItem(`coldstart_viewed_meta_${rinkId}`, JSON.stringify({
-        name: detail.rink.name,
-        city: detail.rink.city,
-        state: detail.rink.state,
-        viewedAt: new Date().toISOString(),
-      }));
-    } catch {}
+    storage.setRinkViewedMeta(rinkId, {
+      name: detail.rink.name,
+      city: detail.rink.city,
+      state: detail.rink.state,
+      viewedAt: new Date().toISOString(),
+    });
   }, [detail, rinkId]);
 
   // Load nearby + signal seed data when rink detail is available

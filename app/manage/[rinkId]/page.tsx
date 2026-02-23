@@ -87,7 +87,7 @@ export default function OperatorDashboard() {
         // Tips with flag counts
         const tipsWithFlags = (data.summary?.tips || []).map((t: DashTip) => ({
           ...t,
-          flag_count: 0,
+          flag_count: t.flag_count ?? 0,
         }));
         setTips(tipsWithFlags);
 
