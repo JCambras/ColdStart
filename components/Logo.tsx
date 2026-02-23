@@ -1,24 +1,19 @@
 'use client';
 
-import { useRouter } from 'next/navigation';
 import { colors } from '../lib/theme';
 
 export function Logo({ size = 36, stacked = false, light = false }: { size?: number; stacked?: boolean; light?: boolean }) {
-  const router = useRouter();
-
   if (stacked) {
     return (
-      <span
-        role="button"
-        tabIndex={0}
+      <a
+        href="/"
         aria-label="ColdStart Hockey home"
-        onClick={() => router.push('/')}
-        onKeyDown={(e) => { if (e.key === 'Enter' || e.key === ' ') { e.preventDefault(); router.push('/'); } }}
         style={{
           display: 'flex',
           flexDirection: 'column',
           lineHeight: 1.1,
           cursor: 'pointer',
+          textDecoration: 'none',
         }}
       >
         <span style={{
@@ -35,17 +30,14 @@ export function Logo({ size = 36, stacked = false, light = false }: { size?: num
         }}>
           hockey
         </span>
-      </span>
+      </a>
     );
   }
 
   return (
-    <span
-      role="button"
-      tabIndex={0}
+    <a
+      href="/"
       aria-label="ColdStart Hockey home"
-      onClick={() => router.push('/')}
-      onKeyDown={(e) => { if (e.key === 'Enter' || e.key === ' ') { e.preventDefault(); router.push('/'); } }}
       style={{
         fontSize: size,
         fontWeight: 800,
@@ -53,12 +45,13 @@ export function Logo({ size = 36, stacked = false, light = false }: { size?: num
         letterSpacing: size >= 48 ? -1 : -0.5,
         cursor: 'pointer',
         whiteSpace: 'nowrap',
+        textDecoration: 'none',
       }}
     >
       Cold<span style={{ color: colors.brand }}>Start</span>{' '}
       <span style={{ fontSize: '0.5em', fontWeight: 500, color: light ? 'rgba(255,255,255,0.55)' : colors.textTertiary, letterSpacing: 1 }}>
         hockey
       </span>
-    </span>
+    </a>
   );
 }

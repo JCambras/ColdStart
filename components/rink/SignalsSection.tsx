@@ -31,7 +31,8 @@ export function SignalsSection({ rink, summary, loadedSignals }: SignalsSectionP
         if (!data) return;
         const avg = data[rink.state] || data['_overall'] || null;
         setStateAvg(avg);
-      });
+      })
+      .catch(() => {});
   }, [rink.state]);
 
   return (

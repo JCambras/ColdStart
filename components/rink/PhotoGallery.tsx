@@ -24,10 +24,12 @@ interface PhotoGalleryProps {
 
 export function PhotoGallery({ photos, rinkId, rinkName, staticPhoto, onPhotoAdded }: PhotoGalleryProps) {
   const [uploading, setUploading] = useState(false);
+  const [uploadError, setUploadError] = useState<string | null>(null);
 
   async function handleUpload(file: File) {
     if (!file.type.startsWith('image/')) return;
     setUploading(true);
+    setUploadError(null);
     try {
       const canvas = document.createElement('canvas');
       const img = document.createElement('img');
@@ -50,9 +52,11 @@ export function PhotoGallery({ photos, rinkId, rinkName, staticPhoto, onPhotoAdd
       if (res.ok) {
         const data = await res.json();
         if (data.photo) onPhotoAdded(data.photo);
+      } else {
+        setUploadError('Upload failed — please try again');
       }
     } catch {
-      // Upload failed silently
+      setUploadError('Upload failed — check your connection');
     } finally {
       setUploading(false);
     }
@@ -95,13 +99,16 @@ export function PhotoGallery({ photos, rinkId, rinkName, staticPhoto, onPhotoAdd
             </div>
           ))}
         </div>
-        <label style={{
-          display: 'inline-flex', alignItems: 'center', gap: 4,
-          fontSize: 12, color: colors.textMuted, cursor: 'pointer', marginTop: 4,
-        }}>
-          <span>{uploading ? 'Uploading...' : '+ Add a photo'}</span>
-          {fileInput}
-        </label>
+        <div style={{ display: 'flex', alignItems: 'center', gap: 8, marginTop: 4 }}>
+          <label style={{
+            display: 'inline-flex', alignItems: 'center', gap: 4,
+            fontSize: 12, color: colors.textMuted, cursor: 'pointer',
+          }}>
+            <span>{uploading ? 'Uploading...' : '+ Add a photo'}</span>
+            {fileInput}
+          </label>
+          {uploadError && <span style={{ fontSize: 11, color: colors.error }}>{uploadError}</span>}
+        </div>
       </div>
     );
   }

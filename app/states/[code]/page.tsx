@@ -30,6 +30,11 @@ export default function StatePage() {
   const code = (params.code as string).toUpperCase();
   const stateName = US_STATES[code];
 
+  const [rinks, setRinks] = useState<SeedRink[]>([]);
+  const [signals, setSignals] = useState<Record<string, Record<string, SignalData>>>({});
+  const [loading, setLoading] = useState(true);
+  const [search, setSearch] = useState('');
+
   if (!stateName) {
     return (
       <PageShell>
@@ -42,11 +47,6 @@ export default function StatePage() {
       </PageShell>
     );
   }
-
-  const [rinks, setRinks] = useState<SeedRink[]>([]);
-  const [signals, setSignals] = useState<Record<string, Record<string, SignalData>>>({});
-  const [loading, setLoading] = useState(true);
-  const [search, setSearch] = useState('');
 
   useEffect(() => {
     async function loadData() {

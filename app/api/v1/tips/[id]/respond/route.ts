@@ -41,8 +41,8 @@ export async function POST(
       return NextResponse.json({ error: 'Tip not found' }, { status: 404 });
     }
 
-    // Verify caller has an approved claim for the rink this tip belongs to
-    const tipRinkId = rink_id || tipCheck.rows[0].rink_id;
+    // Always use the DB rink_id — never trust client-supplied value
+    const tipRinkId = tipCheck.rows[0].rink_id;
     const userEmail = session!.user!.email;
     if (!userEmail || !tipRinkId) {
       return NextResponse.json({ error: 'Cannot verify operator ownership' }, { status: 403 });

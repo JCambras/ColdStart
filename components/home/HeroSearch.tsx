@@ -103,7 +103,7 @@ export function HeroSearch({
             <div style={{
               position: 'absolute', right: 0, top: '100%', marginTop: 8,
               background: colors.surface, border: `1px solid ${colors.stone200}`,
-              borderRadius: 12, boxShadow: '0 8px 24px rgba(0,0,0,0.15)',
+              borderRadius: 12, boxShadow: shadow.xl,
               minWidth: 180, padding: '8px 0', zIndex: 100,
             }}>
               {isLoggedIn ? (
