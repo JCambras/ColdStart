@@ -17,6 +17,7 @@ import { getVibe } from '../../app/vibe';
 import { AddToHomeScreen } from './AddToHomeScreen';
 import { WhatsNew } from './WhatsNew';
 import { PushPrompt } from '../PushPrompt';
+import { SeasonWelcome } from './SeasonWelcome';
 
 interface RecentlyViewedRink {
   id: string;
@@ -485,6 +486,11 @@ export default function HomeClient({
             </button>
           </section>
         )}
+
+        {/* Season welcome banner */}
+        <div style={{ paddingTop: 24 }}>
+          <SeasonWelcome />
+        </div>
 
         {/* Add to home screen prompt (2nd+ visit) */}
         <div style={{ paddingTop: 24 }}>

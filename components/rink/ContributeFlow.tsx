@@ -174,7 +174,7 @@ export function ContributeSection({ rinkId, onSummaryUpdate }: { rinkId: string;
 }
 
 // ── Rate & Contribute — main flow ──
-export function RateAndContribute({ rinkId, rinkName, onSummaryUpdate }: { rinkId: string; rinkName: string; onSummaryUpdate: (s: RinkSummary) => void }) {
+export function RateAndContribute({ rinkId, rinkName, onSummaryUpdate, contributionCount, signals }: { rinkId: string; rinkName: string; onSummaryUpdate: (s: RinkSummary) => void; contributionCount?: number; signals?: { signal: string; value: number; count: number }[] }) {
   const { isLoggedIn } = useAuth();
   const [phase, setPhase] = useState<'button' | 'verify' | 'rate' | 'tip' | 'done_rate' | 'done_tip' | 'confirmed'>('button');
   const [botAnswer, setBotAnswer] = useState('');
@@ -184,6 +184,7 @@ export function RateAndContribute({ rinkId, rinkName, onSummaryUpdate }: { rinkI
   const [ratedCount, setRatedCount] = useState(0);
   const [confirming, setConfirming] = useState(false);
   const [shareCopied, setShareCopied] = useState(false);
+  const [lastRating, setLastRating] = useState<{ signal: string; value: number } | null>(null);
 
   async function handleShare() {
     const url = typeof window !== 'undefined' ? window.location.href : '';
@@ -288,6 +289,11 @@ export function RateAndContribute({ rinkId, rinkName, onSummaryUpdate }: { rinkI
             <span>💬</span> Drop a tip
           </button>
         </div>
+        {contributionCount != null && contributionCount > 0 && !hasRated && (
+          <p style={{ fontSize: 12, color: colors.textTertiary, textAlign: 'center', marginTop: 10, margin: '10px 0 0' }}>
+            Join {contributionCount} parent{contributionCount !== 1 ? 's' : ''} who&apos;ve rated this rink
+          </p>
+        )}
         {hasRated && (
           <>
             <button
@@ -360,7 +366,7 @@ export function RateAndContribute({ rinkId, rinkName, onSummaryUpdate }: { rinkI
           </div>
         </div>
         <div style={{ padding: '18px 24px' }}>
-          <QuickVoteRow rinkId={rinkId} onSummaryUpdate={onSummaryUpdate} onRatedCountChange={setRatedCount} />
+          <QuickVoteRow rinkId={rinkId} onSummaryUpdate={onSummaryUpdate} onRatedCountChange={setRatedCount} onLastRating={(signal, value) => setLastRating({ signal, value })} />
         </div>
         <div style={{ padding: '12px 24px 16px', borderTop: `1px solid ${colors.borderLight}`, display: 'flex', gap: 10 }}>
           <button onClick={() => { if (ratedCount > 0) markRated(); setPhase(ratedCount > 0 ? 'done_rate' : 'button'); }} style={{ flex: 1, padding: '13px 20px', fontSize: 14, fontWeight: 600, background: ratedCount > 0 ? colors.textPrimary : colors.borderDefault, color: ratedCount > 0 ? colors.textInverse : colors.textMuted, border: 'none', borderRadius: 12, cursor: 'pointer', transition: 'all 0.2s' }}
@@ -411,6 +417,19 @@ export function RateAndContribute({ rinkId, rinkName, onSummaryUpdate }: { rinkI
         <div style={{ fontSize: 28, marginBottom: 8 }}>✓</div>
         <p style={{ fontSize: 15, fontWeight: 600, color: colors.success, margin: 0 }}>Rating submitted</p>
         <p style={{ fontSize: 12, color: colors.textTertiary, marginTop: 4 }}>Thanks — this helps other hockey parents.</p>
+        {lastRating && signals && (() => {
+          const match = signals.find(s => s.signal === lastRating.signal);
+          if (match && match.count > 0 && Math.abs(lastRating.value - match.value) <= 1) {
+            const meta = { parking: 'Parking', cold: 'Comfort', food_nearby: 'Food', chaos: 'Organized', family_friendly: 'Family', locker_rooms: 'Lockers', pro_shop: 'Pro shop' } as Record<string, string>;
+            const label = meta[lastRating.signal] || lastRating.signal;
+            return (
+              <p style={{ fontSize: 12, color: colors.brandDark, background: colors.bgInfo, padding: '8px 12px', borderRadius: 8, marginTop: 8, margin: '8px 0 0' }}>
+                Your rating of {lastRating.value} for {label} is close to the average of {match.value.toFixed(1)} — parents agree.
+              </p>
+            );
+          }
+          return null;
+        })()}
         {ratedRinkCount >= 2 && (
           <p style={{ fontSize: 12, color: colors.textMuted, marginTop: 8 }}>You&apos;ve helped families at {ratedRinkCount} rinks this season.</p>
         )}
@@ -431,6 +450,9 @@ export function RateAndContribute({ rinkId, rinkName, onSummaryUpdate }: { rinkI
         <div style={{ fontSize: 28, marginBottom: 8 }}>✓</div>
         <p style={{ fontSize: 15, fontWeight: 600, color: colors.success, margin: 0 }}>Tip added</p>
         <p style={{ fontSize: 12, color: colors.textTertiary, marginTop: 4 }}>Thanks for sharing what you know.</p>
+        <p style={{ fontSize: 12, color: colors.brandDark, background: colors.bgInfo, padding: '8px 12px', borderRadius: 8, marginTop: 8, margin: '8px 0 0' }}>
+          Your tip will help visiting families.
+        </p>
         {ratedRinkCount >= 2 && (
           <p style={{ fontSize: 12, color: colors.textMuted, marginTop: 8 }}>You&apos;ve helped families at {ratedRinkCount} rinks this season.</p>
         )}

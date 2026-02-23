@@ -11,7 +11,8 @@
     "start": "next start",
     "test": "vitest run",
     "seed": "tsx scripts/seed-db.ts",
-    "migrate:push": "node scripts/migrate-push.mjs"
+    "migrate:push": "node scripts/migrate-push.mjs",
+    "migrate:trips": "node scripts/migrate-trips.mjs"
   },
   "keywords": [],
   "author": "",

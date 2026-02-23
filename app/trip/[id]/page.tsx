@@ -11,6 +11,7 @@ import { getBarColor, getBarBg, getBarBorder, getVerdictColor } from '../../../l
 import { LoadingSkeleton } from '../../../components/LoadingSkeleton';
 import { generateBriefing } from '../../../lib/sentences';
 import { colors, text, radius, shadow } from '../../../lib/theme';
+import { generateICS, downloadICS } from '../../../lib/calendar';
 
 interface Game { id: string; day: string; time: string; opponent: string; sheet: string; note: string; }
 interface CostItem { id: string; label: string; amount: string; splitType: 'per-family' | 'per-player' | 'total'; }
@@ -227,6 +228,18 @@ export default function TripPage() {
             <button onClick={() => router.push('/trips')} style={{ fontSize: 13, fontWeight: 600, color: colors.textInverse, background: 'rgba(255,255,255,0.1)', border: '1px solid rgba(255,255,255,0.2)', borderRadius: 8, padding: '8px 16px', cursor: 'pointer' }}>
               📁 My trips
             </button>
+            {trip.games && trip.games.length > 0 && (() => {
+              const ics = generateICS(trip);
+              if (!ics) return null;
+              return (
+                <button onClick={() => {
+                  const filename = `${trip.teamName.replace(/[^a-zA-Z0-9]/g, '_')}_games.ics`;
+                  downloadICS(filename, ics);
+                }} style={{ fontSize: 13, fontWeight: 600, color: colors.textInverse, background: 'rgba(255,255,255,0.1)', border: '1px solid rgba(255,255,255,0.2)', borderRadius: 8, padding: '8px 16px', cursor: 'pointer' }}>
+                  📅 Add to Calendar
+                </button>
+              );
+            })()}
           </div>
         </div>
       </header>

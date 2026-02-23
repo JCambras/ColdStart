@@ -13,6 +13,7 @@ import { SaveRinkButton } from '../../../components/rink/SaveRinkButton';
 import { SignalsSection } from '../../../components/rink/SignalsSection';
 import { TipsSection } from '../../../components/rink/TipsSection';
 import { VerdictCard } from '../../../components/rink/VerdictCard';
+import { RinkComparison } from '../../../components/rink/RinkComparison';
 import { ReturnRatingPrompt } from '../../../components/rink/ReturnRatingPrompt';
 import { PhotoGallery } from '../../../components/rink/PhotoGallery';
 import { apiGet, seedGet } from '../../../lib/api';
@@ -443,6 +444,10 @@ export default function RinkPage() {
             <VerdictCard rink={rink} summary={summary} loadedSignals={loadedSignals} />
           )}
 
+          {hasData && (
+            <RinkComparison currentRinkId={rinkId} currentRinkName={rink.name} currentSignals={summary.signals} />
+          )}
+
           <div style={{ marginTop: 12 }}>
             {shareButton}
           </div>
@@ -577,7 +582,7 @@ export default function RinkPage() {
         )}
 
         <div id="contribute-section">
-          <RateAndContribute rinkId={rinkId} rinkName={rink.name} onSummaryUpdate={handleSummaryUpdate} />
+          <RateAndContribute rinkId={rinkId} rinkName={rink.name} onSummaryUpdate={handleSummaryUpdate} contributionCount={summary.contribution_count} signals={summary.signals} />
         </div>
 
         <SignalsSection rink={rink} summary={summary} loadedSignals={loadedSignals} />

@@ -5,7 +5,9 @@ import { useRouter, useSearchParams } from 'next/navigation';
 import { PageShell } from '../../../components/PageShell';
 import { apiGet, seedGet } from '../../../lib/api';
 import { storage } from '../../../lib/storage';
+import { apiPost } from '../../../lib/api';
 import { getRinkSlug } from '../../../lib/rinkHelpers';
+import { useAuth } from '../../../contexts/AuthContext';
 import { colors, text } from '../../../lib/theme';
 import { CollapsibleSection } from '../../../components/trip/CollapsibleSection';
 import { NearbyPicker } from '../../../components/trip/NearbyPicker';
@@ -43,6 +45,7 @@ function TripBuilderInner() {
   const router = useRouter();
   const searchParams = useSearchParams();
   const preselectedRinkId = searchParams.get('rink') || '';
+  const { currentUser } = useAuth();
 
   const [teamName, setTeamName] = useState('');
   const [startDate, setStartDate] = useState('');
@@ -210,6 +213,24 @@ function TripBuilderInner() {
     storage.setTrips(trips);
     storage.setTripDraft(null);
     try { getVibe().log('trip_create', { tripId: trip.id, rinkId: selectedRink.id, fieldCount: Object.values(trip).filter(v => v && v !== '').length }); } catch {}
+
+    // Fire-and-forget: save game schedule for push notifications
+    if (currentUser && storage.getPushSubscribed()) {
+      const gamesWithTime = trip.games.filter(g => g.day && g.time);
+      if (gamesWithTime.length > 0) {
+        apiPost('/trips/schedule', {
+          trip_id: trip.id,
+          rink_id: selectedRink.id,
+          rink_name: selectedRink.name,
+          team_name: trip.teamName,
+          games: gamesWithTime.map(g => ({
+            opponent: g.opponent || null,
+            game_time: new Date(`${g.day}T${g.time}`).toISOString(),
+          })),
+        }).catch(() => {});
+      }
+    }
+
     router.push(`/trip/${trip.id}`);
   }
 

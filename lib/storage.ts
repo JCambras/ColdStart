@@ -147,6 +147,10 @@ export const storage = {
   setTeam: (t: { name: string; homeRinkId: string; homeRinkName: string; homeRinkCity: string; homeRinkState: string } | null) =>
     t ? setJSON('coldstart_team', t) : remove('coldstart_team'),
 
+  // Season welcome banner
+  getSeasonWelcomeDismissed: () => getJSON<string | null>('coldstart_season_welcome_dismissed', null),
+  setSeasonWelcomeDismissed: (v: string) => setJSON('coldstart_season_welcome_dismissed', v),
+
   // All place tips for a rink (enumerate by scanning localStorage)
   getAllPlaceTips: (rinkSlug: string) => {
     const allTips: Record<string, { text: string; author: string; date: string }[]> = {};

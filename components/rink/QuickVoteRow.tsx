@@ -12,6 +12,7 @@ interface QuickVoteRowProps {
   rinkId: string;
   onSummaryUpdate: (s: RinkSummary) => void;
   onRatedCountChange?: (count: number) => void;
+  onLastRating?: (signal: string, value: number) => void;
 }
 
 const signals: { key: SignalType; icon: string; label: string }[] = [
@@ -24,7 +25,7 @@ const signals: { key: SignalType; icon: string; label: string }[] = [
   { key: 'pro_shop', icon: '🏒', label: 'Pro shop' },
 ];
 
-export function QuickVoteRow({ rinkId, onSummaryUpdate, onRatedCountChange }: QuickVoteRowProps) {
+export function QuickVoteRow({ rinkId, onSummaryUpdate, onRatedCountChange, onLastRating }: QuickVoteRowProps) {
   const { currentUser } = useAuth();
   const [ratings, setRatings] = useState<Record<string, number>>({});
   const [submitting, setSubmitting] = useState<string | null>(null);
@@ -47,6 +48,7 @@ export function QuickVoteRow({ rinkId, onSummaryUpdate, onRatedCountChange }: Qu
         user_id: currentUser?.id,
       });
       if (data?.summary) onSummaryUpdate(data.summary);
+      onLastRating?.(signal, value);
       setSubmitted(prev => {
         const next = new Set(prev).add(signal);
         onRatedCountChange?.(next.size);
