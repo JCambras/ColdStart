@@ -314,12 +314,17 @@ export function RateAndContribute({ rinkId, rinkName, onSummaryUpdate }: { rinkI
     );
   }
 
+  const ratedRinkCount = Object.keys(storage.getRatedRinks()).length;
+
   if (phase === 'confirmed') {
     return (
       <section style={{ marginTop: 16, background: colors.bgSuccess, border: `1px solid ${colors.successBorder}`, borderRadius: 16, padding: 24, textAlign: 'center' }}>
         <div style={{ fontSize: 28, marginBottom: 8 }}>✓</div>
         <p style={{ fontSize: 15, fontWeight: 600, color: colors.success, margin: 0 }}>Confirmed!</p>
         <p style={{ fontSize: 12, color: colors.textTertiary, marginTop: 4 }}>Thanks for confirming the ratings are still accurate. This helps keep info fresh.</p>
+        {ratedRinkCount >= 2 && (
+          <p style={{ fontSize: 12, color: colors.textMuted, marginTop: 8 }}>You&apos;ve helped families at {ratedRinkCount} rinks this season.</p>
+        )}
         {shareButton}
         <div style={{ marginTop: 12 }}>
           <button onClick={() => setPhase('button')} style={{ fontSize: 12, color: colors.textMuted, background: 'none', border: 'none', cursor: 'pointer' }}>Done</button>
@@ -406,6 +411,9 @@ export function RateAndContribute({ rinkId, rinkName, onSummaryUpdate }: { rinkI
         <div style={{ fontSize: 28, marginBottom: 8 }}>✓</div>
         <p style={{ fontSize: 15, fontWeight: 600, color: colors.success, margin: 0 }}>Rating submitted</p>
         <p style={{ fontSize: 12, color: colors.textTertiary, marginTop: 4 }}>Thanks — this helps other hockey parents.</p>
+        {ratedRinkCount >= 2 && (
+          <p style={{ fontSize: 12, color: colors.textMuted, marginTop: 8 }}>You&apos;ve helped families at {ratedRinkCount} rinks this season.</p>
+        )}
         <button onClick={() => setPhase('tip')} style={{ marginTop: 14, fontSize: 14, fontWeight: 600, color: colors.textPrimary, background: colors.surface, border: `1px solid ${colors.borderDefault}`, borderRadius: 12, padding: '12px 24px', cursor: 'pointer', transition: 'all 0.15s' }}
           onMouseEnter={(e) => { e.currentTarget.style.borderColor = colors.brand; }}
           onMouseLeave={(e) => { e.currentTarget.style.borderColor = colors.borderDefault; }}>💬 Drop a tip?</button>
@@ -423,6 +431,9 @@ export function RateAndContribute({ rinkId, rinkName, onSummaryUpdate }: { rinkI
         <div style={{ fontSize: 28, marginBottom: 8 }}>✓</div>
         <p style={{ fontSize: 15, fontWeight: 600, color: colors.success, margin: 0 }}>Tip added</p>
         <p style={{ fontSize: 12, color: colors.textTertiary, marginTop: 4 }}>Thanks for sharing what you know.</p>
+        {ratedRinkCount >= 2 && (
+          <p style={{ fontSize: 12, color: colors.textMuted, marginTop: 8 }}>You&apos;ve helped families at {ratedRinkCount} rinks this season.</p>
+        )}
         {!hasRated && (
           <button onClick={() => setPhase('rate')} style={{ marginTop: 14, fontSize: 14, fontWeight: 600, color: colors.textPrimary, background: colors.surface, border: `1px solid ${colors.borderDefault}`, borderRadius: 12, padding: '12px 24px', cursor: 'pointer', transition: 'all 0.15s' }}
             onMouseEnter={(e) => { e.currentTarget.style.borderColor = colors.brand; }}

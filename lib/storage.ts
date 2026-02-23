@@ -128,6 +128,10 @@ export const storage = {
     setJSON('coldstart_my_tips', tips);
   },
 
+  // Add-to-home-screen dismissed
+  getA2HSDismissed: () => getJSON<boolean>('coldstart_a2hs_dismissed', false),
+  setA2HSDismissed: (v: boolean) => setJSON('coldstart_a2hs_dismissed', v),
+
   // All place tips for a rink (enumerate by scanning localStorage)
   getAllPlaceTips: (rinkSlug: string) => {
     const allTips: Record<string, { text: string; author: string; date: string }[]> = {};

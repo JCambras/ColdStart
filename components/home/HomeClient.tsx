@@ -14,6 +14,7 @@ import { FeaturedRinksGrid } from './FeaturedRinksGrid';
 import { TeamManagerCTA } from './TeamManagerCTA';
 import { timeAgo } from '../../lib/rinkHelpers';
 import { getVibe } from '../../app/vibe';
+import { AddToHomeScreen } from './AddToHomeScreen';
 
 interface RecentlyViewedRink {
   id: string;
@@ -419,6 +420,11 @@ export default function HomeClient({
             </button>
           </section>
         )}
+
+        {/* Add to home screen prompt (2nd+ visit) */}
+        <div style={{ paddingTop: 24 }}>
+          <AddToHomeScreen />
+        </div>
 
         {/* How it works */}
         <div style={{ paddingTop: 40 }}>

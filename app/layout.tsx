@@ -10,6 +10,15 @@ export const metadata: Metadata = {
   title: { default: 'ColdStart Hockey — Scout the rink', template: '%s | ColdStart Hockey' },
   description:
     'Real conditions from hockey parents who have been there. Parking, cold, food, chaos — summarized in seconds.',
+  manifest: '/manifest.json',
+  appleWebApp: {
+    capable: true,
+    statusBarStyle: 'default',
+    title: 'ColdStart',
+  },
+  icons: {
+    apple: '/icon-192.png',
+  },
   openGraph: {
     title: 'ColdStart Hockey — Scout the rink',
     description:
