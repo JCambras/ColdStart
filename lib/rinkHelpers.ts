@@ -29,11 +29,11 @@ export function getBarColor(value: number, count?: number) {
 
 /** Darker text colors for use on light badge backgrounds (WCAG AA compliant). */
 export function getBadgeTextColor(value: number, count?: number) {
-  if (count !== undefined && count < 3) return '#64748b';  // slate-500
-  if (value >= 4.5) return '#15803d';  // green-700
-  if (value >= 3.5) return '#15803d';  // green-700
-  if (value >= 2.5) return '#b45309';  // amber-700
-  return '#dc2626';                    // red-600
+  if (count !== undefined && count < 3) return colors.stone500;
+  if (value >= 4.5) return colors.success;
+  if (value >= 3.5) return colors.success;
+  if (value >= 2.5) return colors.amberDark;
+  return colors.error;
 }
 
 export function getBarBg(value: number, count?: number) {
@@ -59,6 +59,38 @@ export function timeAgo(dateStr: string): string {
   if (diff < 86400) return `${Math.floor(diff / 3600)}h ago`;
   if (diff < 2592000) return `${Math.floor(diff / 86400)}d ago`;
   return d.toLocaleDateString('en-US', { month: 'short', day: 'numeric' });
+}
+
+/** Freshness tier from last_updated_at: 'fresh' (<24h), 'recent' (<7d), 'stale' (>7d), 'unknown' */
+export function getFreshnessTier(lastUpdatedAt: string | null | undefined): 'fresh' | 'recent' | 'stale' | 'unknown' {
+  if (!lastUpdatedAt) return 'unknown';
+  const updated = new Date(lastUpdatedAt).getTime();
+  if (isNaN(updated)) return 'unknown';
+  const hoursSince = (Date.now() - updated) / (1000 * 60 * 60);
+  if (hoursSince <= 24) return 'fresh';
+  if (hoursSince <= 168) return 'recent'; // 7 days
+  return 'stale';
+}
+
+/** Pulse dot color from freshness tier */
+export function getPulseDotColor(tier: 'fresh' | 'recent' | 'stale' | 'unknown'): string {
+  switch (tier) {
+    case 'fresh': return colors.success;
+    case 'recent': return colors.amber;
+    case 'stale': return colors.stone400;
+    default: return 'transparent';
+  }
+}
+
+/** Pulse dot label from freshness tier */
+export function getPulseDotLabel(lastUpdatedAt: string | null | undefined): string {
+  const tier = getFreshnessTier(lastUpdatedAt);
+  switch (tier) {
+    case 'fresh': return 'Updated today';
+    case 'recent': return `Updated ${timeAgo(lastUpdatedAt!)}`;
+    case 'stale': return `Last update ${timeAgo(lastUpdatedAt!)}`;
+    default: return '';
+  }
 }
 
 export function ensureAllSignals(signals: Signal[], rinkSlug: string, loadedSignals?: Record<string, { value: number; count: number; confidence: number }> | null): Signal[] {

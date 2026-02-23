@@ -104,6 +104,15 @@ export async function POST(request: NextRequest) {
       } finally {
         client.release();
       }
+    } else if (kind === 'confirm') {
+      // Quick confirm — return visitor affirms current ratings are still accurate.
+      // Bumps last_updated_at by touching a lightweight confirmation record.
+      await pool.query(
+        `INSERT INTO signal_confirmations (rink_id, user_id, created_at)
+         VALUES ($1, $2, NOW())
+         ON CONFLICT (rink_id, user_id) DO UPDATE SET created_at = NOW()`,
+        [rink_id, user_id]
+      );
     } else {
       return NextResponse.json({ error: `Unknown kind: ${kind}` }, { status: 400 });
     }

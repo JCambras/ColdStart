@@ -14,6 +14,7 @@ import { RinkRequestForm } from '../components/home/RinkRequestForm';
 import { FeaturedRinksGrid } from '../components/home/FeaturedRinksGrid';
 import { TeamManagerCTA } from '../components/home/TeamManagerCTA';
 import { timeAgo } from '../lib/rinkHelpers';
+import { getVibe } from './vibe';
 
 interface RecentlyViewedRink {
   id: string;
@@ -44,6 +45,15 @@ export default function HomePage() {
   const [savedRinks, setSavedRinks] = useState<RinkData[]>([]);
   const [recentlyViewed, setRecentlyViewed] = useState<RecentlyViewedRink[]>([]);
   const [ratedRinks, setRatedRinks] = useState<{ id: string; name: string; city: string; state: string; ratedAt: number }[]>([]);
+  const [vibeCTA, setVibeCTA] = useState<{ text: string; action: string; icon: string } | null>(null);
+
+  // Load Vibe CTA
+  useEffect(() => {
+    const vibe = getVibe();
+    if (vibe.archetype !== 'unknown') {
+      setVibeCTA(vibe.suggestedCTA);
+    }
+  }, []);
 
   // Load saved rinks
   useEffect(() => {
@@ -93,16 +103,17 @@ export default function HomePage() {
     } catch {}
   }, []);
 
-  // Fetch saved rink details
+  // Fetch saved rink details in parallel
   useEffect(() => {
     if (savedRinkIds.length === 0) return;
     async function loadSaved() {
-      const results: RinkData[] = [];
-      for (const id of savedRinkIds) {
-        const { data } = await apiGet<{ rink?: { name?: string }; name?: string; city?: string; state?: string }>(`/rinks/${id}`);
-        if (data) results.push({ ...data, id, name: data.rink?.name || data.name || '', city: data.city || '', state: data.state || '' } as RinkData);
-      }
-      setSavedRinks(results);
+      const results = await Promise.all(
+        savedRinkIds.map(id =>
+          apiGet<{ rink?: { name?: string }; name?: string; city?: string; state?: string }>(`/rinks/${id}`)
+            .then(({ data }) => data ? { ...data, id, name: data.rink?.name || data.name || '', city: data.city || '', state: data.state || '' } as RinkData : null)
+        )
+      );
+      setSavedRinks(results.filter((r): r is RinkData => r !== null));
     }
     loadSaved();
   }, [savedRinkIds]);
@@ -130,27 +141,30 @@ export default function HomePage() {
   // Load featured rinks on mount
   useEffect(() => {
     async function loadFeatured() {
-      const results: RinkData[] = [];
-      for (const q of FEATURED_SEARCHES) {
-        const { data: searchData } = await apiGet<RinkData[]>(`/rinks?query=${encodeURIComponent(q)}`);
-        if (searchData && searchData.length > 0) {
-          const rink = searchData[0];
-          const { data: detailData } = await apiGet<Record<string, unknown>>(`/rinks/${rink.id}`);
-          if (detailData) {
-            results.push({
+      const searchResults = await Promise.all(
+        FEATURED_SEARCHES.map(q => apiGet<RinkData[]>(`/rinks?query=${encodeURIComponent(q)}`))
+      );
+      const firstHits = searchResults
+        .map(({ data }) => data && data.length > 0 ? data[0] : null)
+        .filter((r): r is RinkData => r !== null);
+
+      const detailResults = await Promise.all(
+        firstHits.map(rink => apiGet<Record<string, unknown>>(`/rinks/${rink.id}`).then(({ data }) => {
+          if (data) {
+            return {
               ...rink,
-              ...(detailData as Partial<RinkData>),
-              name: (detailData.name as string) || rink.name,
-              city: (detailData.city as string) || rink.city,
-              state: (detailData.state as string) || rink.state,
-            });
-          } else {
-            results.push(rink);
+              ...(data as Partial<RinkData>),
+              name: (data.name as string) || rink.name,
+              city: (data.city as string) || rink.city,
+              state: (data.state as string) || rink.state,
+            };
           }
-        }
-      }
+          return rink;
+        }))
+      );
+
       const seen = new Set<string>();
-      const unique = results.filter(r => { if (seen.has(r.id)) return false; seen.add(r.id); return true; });
+      const unique = detailResults.filter(r => { if (seen.has(r.id)) return false; seen.add(r.id); return true; });
       setRinks(unique);
     }
 
@@ -435,6 +449,31 @@ export default function HomePage() {
                 </div>
               ))}
             </div>
+          </section>
+        )}
+
+        {/* Personalized CTA from Vibe Engine */}
+        {vibeCTA && vibeCTA.action !== '/' && (
+          <section style={{
+            maxWidth: layout.maxWidth5xl, margin: '0 auto', padding: '24px 24px 0',
+          }}>
+            <button
+              onClick={() => router.push(vibeCTA.action)}
+              style={{
+                width: '100%', padding: '16px 24px',
+                display: 'flex', alignItems: 'center', justifyContent: 'center', gap: 10,
+                fontSize: 15, fontWeight: 600,
+                color: colors.brand, background: colors.bgInfo,
+                border: `1px solid ${colors.brandLight}`,
+                borderRadius: 14, cursor: 'pointer',
+                transition: 'all 0.15s',
+              }}
+              onMouseEnter={(e) => { e.currentTarget.style.background = colors.brandBg; }}
+              onMouseLeave={(e) => { e.currentTarget.style.background = colors.bgInfo; }}
+            >
+              <span style={{ fontSize: 18 }}>{vibeCTA.icon}</span>
+              {vibeCTA.text}
+            </button>
           </section>
         )}
 

@@ -176,12 +176,13 @@ export function ContributeSection({ rinkId, onSummaryUpdate }: { rinkId: string;
 // ── Rate & Contribute — main flow ──
 export function RateAndContribute({ rinkId, rinkName, onSummaryUpdate }: { rinkId: string; rinkName: string; onSummaryUpdate: (s: RinkSummary) => void }) {
   const { isLoggedIn } = useAuth();
-  const [phase, setPhase] = useState<'button' | 'verify' | 'rate' | 'tip' | 'done_rate' | 'done_tip'>('button');
+  const [phase, setPhase] = useState<'button' | 'verify' | 'rate' | 'tip' | 'done_rate' | 'done_tip' | 'confirmed'>('button');
   const [botAnswer, setBotAnswer] = useState('');
   const verifyNum = useRef(Math.floor(Math.random() * 5) + 2);
   const [pendingFlow, setPendingFlow] = useState<'rate' | 'tip'>('rate');
   const [hasRated, setHasRated] = useState(false);
   const [ratedCount, setRatedCount] = useState(0);
+  const [confirming, setConfirming] = useState(false);
 
   useEffect(() => {
     const rated = storage.getRatedRinks();
@@ -197,6 +198,24 @@ export function RateAndContribute({ rinkId, rinkName, onSummaryUpdate }: { rinkI
 
   function checkBot() {
     if (parseInt(botAnswer) === verifyNum.current + 3) setPhase(pendingFlow);
+  }
+
+  async function handleQuickConfirm() {
+    setConfirming(true);
+    try {
+      const { data } = await apiPost<{ summary?: RinkSummary }>('/contributions', {
+        rink_id: rinkId,
+        kind: 'confirm',
+        contributor_type: storage.getContributorType(),
+        user_id: undefined, // will be set server-side from session
+      });
+      if (data?.summary) onSummaryUpdate(data.summary);
+      setPhase('confirmed');
+    } catch {
+      // Silently fail — user can try again
+    } finally {
+      setConfirming(false);
+    }
   }
 
   function startFlow(flow: 'rate' | 'tip') {
@@ -237,8 +256,40 @@ export function RateAndContribute({ rinkId, rinkName, onSummaryUpdate }: { rinkI
           </button>
         </div>
         {hasRated && (
-          <p style={{ fontSize: 11, color: colors.textMuted, marginTop: 6, textAlign: 'center' }}>Tap &ldquo;Update ratings&rdquo; to add or change signal ratings.</p>
+          <>
+            <button
+              onClick={handleQuickConfirm}
+              disabled={confirming}
+              style={{
+                width: '100%', marginTop: 10, padding: '12px 20px',
+                fontSize: 13, fontWeight: 600,
+                color: colors.success, background: colors.bgSuccess,
+                border: `1px solid ${colors.successBorder}`,
+                borderRadius: 14, cursor: confirming ? 'wait' : 'pointer',
+                opacity: confirming ? 0.6 : 1,
+                transition: 'all 0.15s',
+              }}
+            >
+              {confirming ? 'Confirming...' : '✓ Still accurate — confirm ratings'}
+            </button>
+            <p style={{ fontSize: 11, color: colors.textMuted, marginTop: 6, textAlign: 'center' }}>
+              One tap to confirm, or update individual signals above.
+            </p>
+          </>
         )}
+      </section>
+    );
+  }
+
+  if (phase === 'confirmed') {
+    return (
+      <section style={{ marginTop: 16, background: colors.bgSuccess, border: `1px solid ${colors.successBorder}`, borderRadius: 16, padding: 24, textAlign: 'center' }}>
+        <div style={{ fontSize: 28, marginBottom: 8 }}>✓</div>
+        <p style={{ fontSize: 15, fontWeight: 600, color: colors.success, margin: 0 }}>Confirmed!</p>
+        <p style={{ fontSize: 12, color: colors.textTertiary, marginTop: 4 }}>Thanks for confirming the ratings are still accurate. This helps keep info fresh.</p>
+        <div style={{ marginTop: 12 }}>
+          <button onClick={() => setPhase('button')} style={{ fontSize: 12, color: colors.textMuted, background: 'none', border: 'none', cursor: 'pointer' }}>Done</button>
+        </div>
       </section>
     );
   }

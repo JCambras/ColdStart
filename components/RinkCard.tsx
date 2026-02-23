@@ -2,7 +2,7 @@
 
 import { useState, useEffect } from 'react';
 import { SIGNAL_LABELS } from '../lib/constants';
-import { getBarColor, getRinkPhoto } from '../lib/rinkHelpers';
+import { getBarColor, getRinkPhoto, getFreshnessTier, getPulseDotColor, getPulseDotLabel } from '../lib/rinkHelpers';
 import { colors, text, shadow } from '../lib/theme';
 
 interface Signal {
@@ -28,6 +28,7 @@ export interface RinkData {
     tips: Tip[];
     contribution_count: number;
     confirmed_this_season: boolean;
+    last_updated_at?: string | null;
   };
 }
 
@@ -69,7 +70,7 @@ export function RinkCard({ rink, onClick }: { rink: RinkData; onClick: () => voi
   ) : !isMobile ? (
     <div style={{
       width: 180, flexShrink: 0,
-      background: 'linear-gradient(135deg, #f0f9ff 0%, #e0f2fe 50%, #f0fdf4 100%)',
+      background: `linear-gradient(135deg, ${colors.bgInfo} 0%, ${colors.brandBg} 50%, ${colors.bgSuccess} 100%)`,
       display: 'flex', flexDirection: 'column', alignItems: 'center', justifyContent: 'center',
       borderLeft: `1px solid ${colors.borderLight}`,
       position: 'relative', overflow: 'hidden',
@@ -132,6 +133,16 @@ export function RinkCard({ rink, onClick }: { rink: RinkData; onClick: () => voi
               </p>
             )}
             <div style={{ display: 'flex', alignItems: 'center', gap: 8, marginTop: 8 }}>
+              {/* Pulse dot — freshness indicator */}
+              {summary.last_updated_at && getFreshnessTier(summary.last_updated_at) !== 'unknown' && (
+                <span
+                  title={getPulseDotLabel(summary.last_updated_at)}
+                  style={{
+                    width: 8, height: 8, borderRadius: '50%', flexShrink: 0,
+                    background: getPulseDotColor(getFreshnessTier(summary.last_updated_at)),
+                  }}
+                />
+              )}
               <span style={{ fontSize: text.xs, color: colors.textTertiary }}>
                 From {summary.contribution_count} hockey parent{summary.contribution_count !== 1 ? 's' : ''}
               </span>
@@ -167,7 +178,7 @@ export function RinkCard({ rink, onClick }: { rink: RinkData; onClick: () => voi
         transition: 'all 0.25s ease',
         transform: hovered ? 'translateY(-3px)' : 'none',
         boxShadow: hovered
-          ? '0 20px 40px rgba(0,0,0,0.08), 0 0 0 1px rgba(14,165,233,0.12)'
+          ? `${shadow.xl}, 0 0 0 1px ${colors.brandLight}`
           : shadow.sm,
         overflow: 'hidden',
         display: 'flex',

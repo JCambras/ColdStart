@@ -1,8 +1,10 @@
 'use client';
 
+import { useState } from 'react';
 import { getVerdictColor, getVerdictBg, timeAgo, ensureAllSignals, getRinkSlug, getBarColor } from '../../lib/rinkHelpers';
 import { SIGNAL_META, SIGNAL_ORDER, SignalType } from '../../lib/constants';
 import { colors } from '../../lib/theme';
+import { generateSummary } from '../../lib/sentences';
 import type { Signal, Rink, RinkSummary } from '../../lib/rinkTypes';
 
 interface VerdictCardProps {
@@ -14,6 +16,17 @@ interface VerdictCardProps {
 export function VerdictCard({ rink, summary, loadedSignals }: VerdictCardProps) {
   const hasData = summary.contribution_count > 0;
   const slug = getRinkSlug(rink);
+  const [showNumeric, setShowNumeric] = useState(false);
+
+  const summaryText = hasData ? generateSummary({
+    signals: summary.signals,
+    tips: summary.tips,
+    contributionCount: summary.contribution_count,
+    rinkName: rink.name,
+    verdict: summary.verdict,
+    lastUpdatedAt: summary.last_updated_at,
+    confirmedThisSeason: summary.confirmed_this_season,
+  }) : '';
   const allSignals = ensureAllSignals(summary.signals, slug, loadedSignals);
   const sortedSignals = [...allSignals].sort((a, b) => {
     const ai = SIGNAL_ORDER.indexOf(a.signal as SignalType);
@@ -104,32 +117,56 @@ export function VerdictCard({ rink, summary, loadedSignals }: VerdictCardProps) 
           )}
         </div>
 
-        {/* Compact signal summary — visible in screenshots */}
-        {hasData && (
-          <div style={{
-            display: 'flex', flexWrap: 'wrap', gap: 6, marginTop: 10,
+        {/* Natural language summary */}
+        {hasData && summaryText && (
+          <p style={{
+            fontSize: 13, color: colors.textSecondary, lineHeight: 1.5,
+            margin: '10px 0 0',
           }}>
-            {sortedSignals.map(s => {
-              const meta = SIGNAL_META[s.signal];
-              if (!meta || s.count === 0) return null;
-              const barColor = getBarColor(s.value, s.count);
-              return (
-                <span
-                  key={s.signal}
-                  style={{
-                    display: 'inline-flex', alignItems: 'center', gap: 3,
-                    fontSize: 11, fontWeight: 600,
-                    padding: '2px 7px', borderRadius: 8,
-                    background: colors.surface, border: `1px solid ${colors.borderLight}`,
-                    color: barColor, whiteSpace: 'nowrap',
-                  }}
-                >
-                  <span style={{ fontSize: 10 }}>{meta.icon}</span>
-                  {s.value.toFixed(1)}
-                </span>
-              );
-            })}
-          </div>
+            {summaryText}
+          </p>
+        )}
+
+        {/* Compact signal summary — expandable numeric backup */}
+        {hasData && (
+          <>
+            <button
+              onClick={() => setShowNumeric(!showNumeric)}
+              style={{
+                fontSize: 11, fontWeight: 500, color: colors.textMuted,
+                background: 'none', border: 'none', cursor: 'pointer',
+                padding: '6px 0 0', margin: 0,
+              }}
+            >
+              {showNumeric ? 'Hide numbers' : 'Show numbers'} {showNumeric ? '▴' : '▾'}
+            </button>
+            {showNumeric && (
+              <div style={{
+                display: 'flex', flexWrap: 'wrap', gap: 6, marginTop: 6,
+              }}>
+                {sortedSignals.map(s => {
+                  const meta = SIGNAL_META[s.signal];
+                  if (!meta || s.count === 0) return null;
+                  const barColor = getBarColor(s.value, s.count);
+                  return (
+                    <span
+                      key={s.signal}
+                      style={{
+                        display: 'inline-flex', alignItems: 'center', gap: 3,
+                        fontSize: 11, fontWeight: 600,
+                        padding: '2px 7px', borderRadius: 8,
+                        background: colors.surface, border: `1px solid ${colors.borderLight}`,
+                        color: barColor, whiteSpace: 'nowrap',
+                      }}
+                    >
+                      <span style={{ fontSize: 10 }}>{meta.icon}</span>
+                      {s.value.toFixed(1)}
+                    </span>
+                  );
+                })}
+              </div>
+            )}
+          </>
         )}
 
         {hasData && (

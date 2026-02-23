@@ -9,6 +9,7 @@ import { storage } from '../../../lib/storage';
 import { useAuth } from '../../../contexts/AuthContext';
 import { getBarColor, getBarBg, getBarBorder, getVerdictColor } from '../../../lib/rinkHelpers';
 import { LoadingSkeleton } from '../../../components/LoadingSkeleton';
+import { generateBriefing } from '../../../lib/sentences';
 import { colors, text, radius, shadow } from '../../../lib/theme';
 
 interface Game { id: string; day: string; time: string; opponent: string; sheet: string; note: string; }
@@ -23,7 +24,14 @@ interface Trip {
   additions?: Addition[]; createdAt: string; rated?: boolean;
 }
 
-interface RinkSummary { verdict: string; signals: { signal: string; value: number; count: number; confidence: number }[]; tips: { text: string; contributor_type: string }[]; }
+interface RinkSummary {
+  verdict: string;
+  signals: { signal: string; value: number; count: number; confidence: number; stddev?: number }[];
+  tips: { text: string; contributor_type: string; created_at?: string }[];
+  contribution_count?: number;
+  last_updated_at?: string | null;
+  confirmed_this_season?: boolean;
+}
 
 const SIGNAL_META: Record<string, { label: string; icon: string }> = {
   parking: { label: 'Parking', icon: '🅿️' }, cold: { label: 'Cold', icon: '❄️' }, chaos: { label: 'Chaos', icon: '🌀' },
@@ -63,6 +71,7 @@ export default function TripPage() {
   const [shareCopied, setShareCopied] = useState(false);
   const { currentUser } = useAuth();
   const [showAddForm, setShowAddForm] = useState(false);
+  const [briefingCopied, setBriefingCopied] = useState(false);
   const [addType, setAddType] = useState<'restaurant' | 'tip' | 'note'>('restaurant');
   const [addText, setAddText] = useState('');
   const [addCost, setAddCost] = useState('');
@@ -71,6 +80,8 @@ export default function TripPage() {
   const [rateSubmitted, setRateSubmitted] = useState(false);
   const [isGlancer, setIsGlancer] = useState(false);
   const [showFullTrip, setShowFullTrip] = useState(false);
+  // Trip phase detection: arriving | at_rink | between_games | leaving | reflecting | upcoming
+  const [tripPhase, setTripPhase] = useState<'upcoming' | 'arriving' | 'at_rink' | 'between_games' | 'leaving' | 'reflecting'>('upcoming');
 
   // Log vibe events
   useEffect(() => {
@@ -91,6 +102,53 @@ export default function TripPage() {
         const tripEnd = new Date(dateStr);
         if (tripEnd < now && !t.rated) setShowRatePrompt(true);
       }
+
+      // ── Trip phase detection ──
+      const now = Date.now();
+      if (t.games && t.games.length > 0 && t.dates) {
+        // Parse base date from trip dates string
+        const baseDateStr = t.dates.replace(/.*?(\w+ \d+,?\s*\d*).*/, '$1');
+        const baseDate = new Date(baseDateStr);
+        if (!isNaN(baseDate.getTime())) {
+          // Build timestamps from game times
+          const gameTimes = t.games.map(g => {
+            if (!g.time) return null;
+            const [hours, minutes] = g.time.replace(/[^\d:aApP]/g, '').split(':');
+            const d = new Date(baseDate);
+            let h = parseInt(hours) || 0;
+            const m = parseInt(minutes) || 0;
+            if (g.time.toLowerCase().includes('pm') && h < 12) h += 12;
+            if (g.time.toLowerCase().includes('am') && h === 12) h = 0;
+            d.setHours(h, m, 0, 0);
+            return d.getTime();
+          }).filter((ts): ts is number => ts !== null).sort((a, b) => a - b);
+
+          if (gameTimes.length > 0) {
+            const firstGame = gameTimes[0];
+            const lastGame = gameTimes[gameTimes.length - 1];
+            const HOUR = 60 * 60 * 1000;
+
+            if (now < firstGame - 2 * HOUR) {
+              setTripPhase('upcoming');
+            } else if (now < firstGame) {
+              setTripPhase('arriving');
+            } else if (now < lastGame + 2 * HOUR) {
+              // During game window — check if between games
+              if (gameTimes.length > 1) {
+                const inGame = gameTimes.some(gt => now >= gt && now < gt + 2 * HOUR);
+                setTripPhase(inGame ? 'at_rink' : 'between_games');
+              } else {
+                setTripPhase('at_rink');
+              }
+            } else if (now < lastGame + 4 * HOUR) {
+              setTripPhase('leaving');
+            } else {
+              setTripPhase('reflecting');
+            }
+          }
+        }
+      }
+
       apiGet<{ summary?: RinkSummary }>(`/rinks/${t.rink.id}`).then(({ data }) => {
         if (data?.summary) setSummary(data.summary);
       });
@@ -149,7 +207,7 @@ export default function TripPage() {
   return (
     <div style={{ minHeight: '100vh', background: colors.bgPage, fontFamily: "-apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" }}>
       {/* Header */}
-      <div style={{ background: `linear-gradient(135deg, ${colors.brandDeep} 0%, ${colors.brand} 100%)`, padding: '32px 24px 28px', color: colors.textInverse }}>
+      <header style={{ background: `linear-gradient(135deg, ${colors.brandDeep} 0%, ${colors.brand} 100%)`, padding: '32px 24px 28px', color: colors.textInverse }}>
         <div style={{ maxWidth: 600, margin: '0 auto' }}>
           <div style={{ fontSize: 12, fontWeight: 500, opacity: 0.8, marginBottom: 8 }}>GAME DAY INFO</div>
           <h1 style={{ fontSize: 'clamp(22px, 5vw, 30px)', fontWeight: 800, margin: 0, lineHeight: 1.2 }}>🏒 {trip.teamName}</h1>
@@ -171,9 +229,80 @@ export default function TripPage() {
             </button>
           </div>
         </div>
-      </div>
+      </header>
 
-      <div style={{ maxWidth: 600, margin: '0 auto', padding: '0 24px 60px' }}>
+      <main style={{ maxWidth: 600, margin: '0 auto', padding: '0 24px 60px' }}>
+
+        {/* ── Phase-aware banner ── */}
+        {tripPhase === 'arriving' && !isGlancer && (
+          <section style={{
+            background: colors.bgInfo, border: `1px solid ${colors.brandLight}`,
+            borderRadius: 14, padding: '14px 18px', marginTop: -16, position: 'relative', zIndex: 6,
+            boxShadow: shadow.lg,
+          }}>
+            <div style={{ display: 'flex', alignItems: 'center', gap: 10 }}>
+              <span style={{ fontSize: 22 }}>🚗</span>
+              <div>
+                <div style={{ fontSize: 14, fontWeight: 700, color: colors.brandDark }}>You&apos;re arriving!</div>
+                <div style={{ fontSize: 12, color: colors.textTertiary, marginTop: 2 }}>
+                  📍 {trip?.rink.name} &middot; {trip?.rink.city}, {trip?.rink.state}
+                </div>
+              </div>
+            </div>
+            {summary?.signals && (() => {
+              const parking = summary.signals.find(s => s.signal === 'parking');
+              if (!parking || parking.count === 0) return null;
+              return (
+                <div style={{ marginTop: 10, padding: '8px 12px', background: getBarBg(parking.value, parking.count), borderRadius: 8, border: `1px solid ${getBarBorder(parking.value, parking.count)}`, fontSize: 13, fontWeight: 600, color: getBarColor(parking.value, parking.count) }}>
+                  🅿️ Parking: {parking.value >= 3.5 ? 'Easy' : parking.value >= 2.5 ? 'Tight' : 'Tough'} ({parking.value.toFixed(1)}/5)
+                </div>
+              );
+            })()}
+          </section>
+        )}
+
+        {tripPhase === 'between_games' && !isGlancer && (
+          <section style={{
+            background: colors.bgWarning, border: `1px solid ${colors.warningBorder}`,
+            borderRadius: 14, padding: '14px 18px', marginTop: -16, position: 'relative', zIndex: 6,
+            boxShadow: shadow.lg,
+          }}>
+            <div style={{ display: 'flex', alignItems: 'center', gap: 10 }}>
+              <span style={{ fontSize: 22 }}>⏱️</span>
+              <div>
+                <div style={{ fontSize: 14, fontWeight: 700, color: colors.amberDark }}>Between games</div>
+                <div style={{ fontSize: 12, color: colors.textTertiary, marginTop: 2 }}>
+                  {trip?.lunch ? `Lunch: ${trip.lunch}` : trip?.dinner ? `Dinner: ${trip.dinner}` : 'Check nearby food options on the rink page'}
+                </div>
+              </div>
+            </div>
+          </section>
+        )}
+
+        {tripPhase === 'leaving' && !isGlancer && !showRatePrompt && (
+          <section style={{
+            background: colors.bgSuccess, border: `1px solid ${colors.successBorder}`,
+            borderRadius: 14, padding: '14px 18px', marginTop: -16, position: 'relative', zIndex: 6,
+            boxShadow: shadow.lg,
+          }}>
+            <div style={{ display: 'flex', alignItems: 'center', gap: 10 }}>
+              <span style={{ fontSize: 22 }}>👋</span>
+              <div>
+                <div style={{ fontSize: 14, fontWeight: 700, color: colors.success }}>Game over!</div>
+                <div style={{ fontSize: 12, color: colors.textTertiary, marginTop: 2 }}>Help the next family — rate your experience.</div>
+              </div>
+            </div>
+            <button
+              onClick={() => router.push(`/rinks/${trip?.rink.id}`)}
+              style={{
+                marginTop: 10, width: '100%', padding: '10px 0', fontSize: 13, fontWeight: 700,
+                background: colors.success, color: colors.textInverse, border: 'none', borderRadius: 8, cursor: 'pointer',
+              }}
+            >
+              Rate {trip?.rink.name} →
+            </button>
+          </section>
+        )}
 
         {/* ── Glancer Quick View — essentials pinned above fold ── */}
         {isGlancer && !showFullTrip && (
@@ -312,6 +441,60 @@ export default function TripPage() {
                 💡 &ldquo;{summary.tips[0].text}&rdquo;
               </div>
             )}
+          </section>
+        )}
+
+        {/* ── Team Briefing — copyable paragraph for group chat ── */}
+        {summary && summary.signals.some(s => s.count > 0) && (
+          <section style={{
+            background: colors.bgInfo, border: `1px solid ${colors.brandLight}`,
+            borderRadius: 14, padding: '16px 20px', marginTop: 16,
+          }}>
+            <div style={{ display: 'flex', alignItems: 'center', justifyContent: 'space-between', marginBottom: 8 }}>
+              <div style={{ fontSize: 11, fontWeight: 600, color: colors.brandDark, textTransform: 'uppercase', letterSpacing: 1 }}>
+                Team briefing
+              </div>
+              <button
+                onClick={() => {
+                  const briefingText = generateBriefing({
+                    signals: summary.signals,
+                    tips: summary.tips || [],
+                    contributionCount: summary.contribution_count || 0,
+                    rinkName: trip.rink.name,
+                    verdict: summary.verdict,
+                    lastUpdatedAt: summary.last_updated_at || null,
+                    confirmedThisSeason: summary.confirmed_this_season || false,
+                  });
+                  const copyText = `${trip.rink.name} — ${trip.rink.city}, ${trip.rink.state}\n\n${briefingText}`;
+                  if (navigator.clipboard?.writeText) {
+                    navigator.clipboard.writeText(copyText).then(() => {
+                      setBriefingCopied(true);
+                      setTimeout(() => setBriefingCopied(false), 2000);
+                    });
+                  }
+                }}
+                style={{
+                  fontSize: 11, fontWeight: 600, color: briefingCopied ? colors.success : colors.brand,
+                  background: 'none', border: `1px solid ${briefingCopied ? colors.successBorder : colors.brandLight}`,
+                  borderRadius: 6, padding: '3px 10px', cursor: 'pointer',
+                }}
+              >
+                {briefingCopied ? '✓ Copied!' : '📋 Copy'}
+              </button>
+            </div>
+            <p style={{
+              fontSize: 13, color: colors.textSecondary, lineHeight: 1.6, margin: 0,
+            }}>
+              {generateBriefing({
+                signals: summary.signals,
+                tips: summary.tips || [],
+                contributionCount: summary.contribution_count || 0,
+                rinkName: trip.rink.name,
+                verdict: summary.verdict,
+                lastUpdatedAt: summary.last_updated_at || null,
+                confirmedThisSeason: summary.confirmed_this_season || false,
+              })}
+            </p>
           </section>
         )}
 
@@ -487,10 +670,10 @@ export default function TripPage() {
         </>)}
 
         {/* Footer */}
-        <div style={{ marginTop: 32, textAlign: 'center' }}>
+        <footer style={{ marginTop: 32, textAlign: 'center' }}>
           <p style={{ fontSize: 12, color: colors.textMuted }}>Built with <button onClick={() => router.push('/')} style={{ color: colors.brand, cursor: 'pointer', fontWeight: 600, background: 'none', border: 'none', padding: 0, font: 'inherit' }}>ColdStart Hockey</button> — rink intel from hockey parents</p>
-        </div>
-      </div>
+        </footer>
+      </main>
     </div>
   );
 }
