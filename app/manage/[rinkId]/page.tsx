@@ -28,6 +28,11 @@ export default function OperatorDashboard() {
   const [rinkName, setRinkName] = useState('');
   const [signals, setSignals] = useState<DashSignal[]>([]);
   const [tips, setTips] = useState<DashTip[]>([]);
+  const [stats, setStats] = useState<{
+    ratings_total: number; ratings_7d: number; ratings_30d: number;
+    tips_total: number; referrals_7d: number; referrals_30d: number;
+    weekly_ratings: { week: string; count: number }[];
+  } | null>(null);
   const [loading, setLoading] = useState(true);
   const [authChecked, setAuthChecked] = useState(false);
   const [accessDenied, setAccessDenied] = useState(false);
@@ -64,7 +69,10 @@ export default function OperatorDashboard() {
     if (!authChecked || !isLoggedIn || accessDenied) return;
     async function loadDashboard() {
       try {
-        const res = await fetch(`/api/v1/rinks/${rinkId}`);
+        const [res, statsRes] = await Promise.all([
+          fetch(`/api/v1/rinks/${rinkId}`),
+          fetch(`/api/v1/rinks/${rinkId}/stats`).catch(() => null),
+        ]);
         if (!res.ok) throw new Error('Not found');
         const data = await res.json();
 
@@ -82,6 +90,12 @@ export default function OperatorDashboard() {
           flag_count: 0,
         }));
         setTips(tipsWithFlags);
+
+        // Stats
+        if (statsRes?.ok) {
+          const statsData = await statsRes.json();
+          setStats(statsData);
+        }
       } catch {
         // Failed to load
       } finally {
@@ -188,27 +202,110 @@ export default function OperatorDashboard() {
         </h1>
       </div>
 
-      {/* Analytics card */}
-      <div style={{ display: 'grid', gridTemplateColumns: 'repeat(2, 1fr)', gap: 12, marginBottom: 32 }}>
+      {/* Analytics cards */}
+      <div style={{ display: 'grid', gridTemplateColumns: 'repeat(3, 1fr)', gap: 12, marginBottom: 32 }}>
         <div style={{
           padding: '16px 20px', borderRadius: 12,
           background: colors.bgSubtle, border: `1px solid ${colors.borderLight}`,
         }}>
           <div style={{ fontSize: 24, fontWeight: 700, color: colors.textPrimary }}>
-            {signals.reduce((sum, s) => sum + s.count, 0)}
+            {stats?.ratings_total ?? signals.reduce((sum, s) => sum + s.count, 0)}
           </div>
           <div style={{ fontSize: 12, color: colors.textMuted, marginTop: 2 }}>Total Ratings</div>
+          {stats && stats.ratings_7d > 0 && (
+            <div style={{ fontSize: 11, color: colors.success, marginTop: 4, fontWeight: 600 }}>
+              +{stats.ratings_7d} this week
+            </div>
+          )}
         </div>
         <div style={{
           padding: '16px 20px', borderRadius: 12,
           background: colors.bgSubtle, border: `1px solid ${colors.borderLight}`,
         }}>
           <div style={{ fontSize: 24, fontWeight: 700, color: colors.textPrimary }}>
-            {tips.length}
+            {stats?.tips_total ?? tips.length}
           </div>
           <div style={{ fontSize: 12, color: colors.textMuted, marginTop: 2 }}>Total Tips</div>
         </div>
+        <div style={{
+          padding: '16px 20px', borderRadius: 12,
+          background: colors.bgSubtle, border: `1px solid ${colors.borderLight}`,
+        }}>
+          <div style={{ fontSize: 24, fontWeight: 700, color: colors.textPrimary }}>
+            {stats?.referrals_30d ?? 0}
+          </div>
+          <div style={{ fontSize: 12, color: colors.textMuted, marginTop: 2 }}>Referrals (30d)</div>
+          {stats && stats.referrals_7d > 0 && (
+            <div style={{ fontSize: 11, color: colors.success, marginTop: 4, fontWeight: 600 }}>
+              +{stats.referrals_7d} this week
+            </div>
+          )}
+        </div>
       </div>
+
+      {/* Ratings Over Time */}
+      {stats && stats.weekly_ratings.length > 0 && (
+        <section style={{ marginBottom: 32 }}>
+          <h2 style={{
+            fontSize: 13, fontWeight: 600, color: colors.textMuted,
+            textTransform: 'uppercase', letterSpacing: 1.5, marginBottom: 12,
+          }}>
+            Ratings Over Time
+          </h2>
+          <div style={{
+            display: 'flex', alignItems: 'flex-end', gap: 8, height: 100,
+            padding: '12px 16px', background: colors.surface,
+            border: `1px solid ${colors.borderLight}`, borderRadius: 12,
+          }}>
+            {stats.weekly_ratings.map((w) => {
+              const max = Math.max(...stats.weekly_ratings.map(r => r.count), 1);
+              const height = Math.max((w.count / max) * 72, 4);
+              return (
+                <div key={w.week} style={{ flex: 1, display: 'flex', flexDirection: 'column', alignItems: 'center', gap: 4 }}>
+                  <span style={{ fontSize: 10, fontWeight: 600, color: colors.textSecondary }}>{w.count}</span>
+                  <div style={{
+                    width: '100%', maxWidth: 40, height,
+                    background: colors.brand, borderRadius: 4,
+                  }} />
+                  <span style={{ fontSize: 9, color: colors.textMuted }}>
+                    {new Date(w.week).toLocaleDateString('en-US', { month: 'short', day: 'numeric' })}
+                  </span>
+                </div>
+              );
+            })}
+          </div>
+        </section>
+      )}
+
+      {/* Referral Traffic */}
+      {stats && (stats.referrals_7d > 0 || stats.referrals_30d > 0) && (
+        <section style={{ marginBottom: 32 }}>
+          <h2 style={{
+            fontSize: 13, fontWeight: 600, color: colors.textMuted,
+            textTransform: 'uppercase', letterSpacing: 1.5, marginBottom: 12,
+          }}>
+            Referral Traffic
+          </h2>
+          <div style={{
+            display: 'grid', gridTemplateColumns: 'repeat(2, 1fr)', gap: 12,
+          }}>
+            <div style={{
+              padding: '12px 16px', borderRadius: 10,
+              background: colors.surface, border: `1px solid ${colors.borderLight}`,
+            }}>
+              <div style={{ fontSize: 20, fontWeight: 700, color: colors.textPrimary }}>{stats.referrals_7d}</div>
+              <div style={{ fontSize: 11, color: colors.textMuted, marginTop: 2 }}>Last 7 days</div>
+            </div>
+            <div style={{
+              padding: '12px 16px', borderRadius: 10,
+              background: colors.surface, border: `1px solid ${colors.borderLight}`,
+            }}>
+              <div style={{ fontSize: 20, fontWeight: 700, color: colors.textPrimary }}>{stats.referrals_30d}</div>
+              <div style={{ fontSize: 11, color: colors.textMuted, marginTop: 2 }}>Last 30 days</div>
+            </div>
+          </div>
+        </section>
+      )}
 
       {/* Signal ratings summary */}
       <section style={{ marginBottom: 32 }}>

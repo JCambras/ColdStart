@@ -1,5 +1,7 @@
-// ColdStart Service Worker — offline shell + push foundation
-const CACHE_NAME = 'coldstart-v1';
+// ColdStart Service Worker — offline shell + push foundation + rink caching
+const CACHE_NAME = 'coldstart-v2';
+const RINK_CACHE = 'coldstart-rinks-v1';
+const RINK_CACHE_MAX = 50;
 
 const PRECACHE_URLS = [
   '/',
@@ -9,6 +11,16 @@ const PRECACHE_URLS = [
   '/icon-512.png',
 ];
 
+// Trim a cache to a max number of entries (oldest first)
+async function trimCache(cacheName, max) {
+  const cache = await caches.open(cacheName);
+  const keys = await cache.keys();
+  if (keys.length <= max) return;
+  for (let i = 0; i < keys.length - max; i++) {
+    await cache.delete(keys[i]);
+  }
+}
+
 // Install — precache app shell
 self.addEventListener('install', (event) => {
   event.waitUntil(
@@ -17,13 +29,14 @@ self.addEventListener('install', (event) => {
   self.skipWaiting();
 });
 
-// Activate — clean old caches
+// Activate — clean old caches, preserve current ones
 self.addEventListener('activate', (event) => {
+  const keep = new Set([CACHE_NAME, RINK_CACHE]);
   event.waitUntil(
     caches.keys().then((keys) =>
       Promise.all(
         keys
-          .filter((key) => key !== CACHE_NAME)
+          .filter((key) => !keep.has(key))
           .map((key) => caches.delete(key))
       )
     )
@@ -36,7 +49,32 @@ self.addEventListener('fetch', (event) => {
   const { request } = event;
   const url = new URL(request.url);
 
-  // API requests — network-only, return 503 JSON when offline
+  // Rink API requests — stale-while-revalidate
+  if (request.method === 'GET' && url.pathname.match(/^\/api\/v1\/rinks\//)) {
+    event.respondWith(
+      caches.open(RINK_CACHE).then(async (cache) => {
+        const cached = await cache.match(request);
+        const fetchPromise = fetch(request).then((response) => {
+          if (response.ok) {
+            cache.put(request, response.clone());
+            trimCache(RINK_CACHE, RINK_CACHE_MAX);
+          }
+          return response;
+        }).catch(() => {
+          // Network failed — return cached or 503
+          if (cached) return cached;
+          return new Response(JSON.stringify({ error: 'offline' }), {
+            status: 503,
+            headers: { 'Content-Type': 'application/json' },
+          });
+        });
+        return cached || fetchPromise;
+      })
+    );
+    return;
+  }
+
+  // Other API requests — network-only, return 503 JSON when offline
   if (url.pathname.startsWith('/api/')) {
     event.respondWith(
       fetch(request).catch(() =>
@@ -85,7 +123,7 @@ self.addEventListener('fetch', (event) => {
   );
 });
 
-// Push notification handler (dormant — activated in Tier 3)
+// Push notification handler
 self.addEventListener('push', (event) => {
   if (!event.data) return;
   const data = event.data.json();

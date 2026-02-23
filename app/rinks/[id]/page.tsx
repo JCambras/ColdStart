@@ -139,42 +139,54 @@ export default function RinkPage() {
     if (!detail) return;
     const slug = getRinkSlug(detail.rink);
     const id = detail.rink.id;
-    const findSeedId = async (): Promise<string | null> => {
+
+    const rinkName = detail.rink.name;
+    async function loadSeedData() {
       const rinks = await seedGet<Array<{ id: string; name: string }>>('/data/rinks.json');
-      if (!rinks) return null;
-      const nameNorm = detail.rink.name.toLowerCase().replace(/[^a-z0-9]/g, '');
-      const match = rinks.find(r => r.name.toLowerCase().replace(/[^a-z0-9]/g, '') === nameNorm);
-      return match?.id || null;
-    };
-    const tryNearby = async () => {
-      const seedId = await findSeedId();
-      if (seedId) {
-        const bySeed = await seedGet<Record<string, NearbyPlace[]>>(`/data/nearby/${seedId}.json`);
-        if (bySeed) { setNearbyData(bySeed); return; }
+      let seedId: string | null = null;
+      if (rinks) {
+        const nameNorm = rinkName.toLowerCase().replace(/[^a-z0-9]/g, '');
+        const match = rinks.find(r => r.name.toLowerCase().replace(/[^a-z0-9]/g, '') === nameNorm);
+        seedId = match?.id || null;
       }
-      const byId = await seedGet<Record<string, NearbyPlace[]>>(`/data/nearby/${id}.json`);
-      if (byId) { setNearbyData(byId); return; }
-      if (slug && slug !== id) {
-        const bySlug = await seedGet<Record<string, NearbyPlace[]>>(`/data/nearby/${slug}.json`);
-        if (bySlug) setNearbyData(bySlug);
-      }
-    };
-    tryNearby();
-    seedGet<Record<string, Record<string, { value: number; count: number; confidence: number }>>>('/data/signals.json')
-      .then(async data => {
+
+      const tryNearby = async () => {
+        if (seedId) {
+          const bySeed = await seedGet<Record<string, NearbyPlace[]>>(`/data/nearby/${seedId}.json`);
+          if (bySeed) { setNearbyData(bySeed); return; }
+        }
+        const byId = await seedGet<Record<string, NearbyPlace[]>>(`/data/nearby/${id}.json`);
+        if (byId) { setNearbyData(byId); return; }
+        if (slug && slug !== id) {
+          const bySlug = await seedGet<Record<string, NearbyPlace[]>>(`/data/nearby/${slug}.json`);
+          if (bySlug) setNearbyData(bySlug);
+        }
+      };
+
+      const loadSignals = async () => {
+        const data = await seedGet<Record<string, Record<string, { value: number; count: number; confidence: number }>>>('/data/signals.json');
         if (!data) return;
-        const seedId = await findSeedId();
         const match = (seedId ? data[seedId] : null) || data[id] || (slug ? data[slug] : null);
         if (match) setLoadedSignals(match);
-      });
+      };
+
+      await Promise.all([tryNearby(), loadSignals()]);
+    }
+
+    loadSeedData();
   }, [detail]);
 
   useEffect(() => {
     async function load() {
-      const { data } = await apiGet<RinkDetail>(`/rinks/${rinkId}`, {
-        seedPath: '/data/rinks.json',
-        transform: () => null as unknown as RinkDetail,
-      });
+      const [apiResult, photosResult] = await Promise.all([
+        apiGet<RinkDetail>(`/rinks/${rinkId}`, {
+          seedPath: '/data/rinks.json',
+          transform: () => null as unknown as RinkDetail,
+        }),
+        fetch(`/api/v1/rinks/${rinkId}/photos`).then(r => r.ok ? r.json() : null).catch(() => null),
+      ]);
+      if (photosResult?.photos) setRinkPhotos(photosResult.photos);
+      const { data } = apiResult;
       if (data) {
         if (!data.home_teams || data.home_teams.length === 0) {
           const ht = await seedGet<Record<string, string[]>>('/data/home-teams.json');
@@ -202,15 +214,6 @@ export default function RinkPage() {
       }
     }
     load();
-  }, [rinkId]);
-
-  // Fetch rink photos from DB
-  useEffect(() => {
-    if (!rinkId) return;
-    fetch(`/api/v1/rinks/${rinkId}/photos`)
-      .then(r => r.ok ? r.json() : null)
-      .then(data => { if (data?.photos) setRinkPhotos(data.photos); })
-      .catch(() => {});
   }, [rinkId]);
 
   // IntersectionObserver for sticky tab bar

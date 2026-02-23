@@ -8,6 +8,7 @@ import { ServiceWorkerRegistration } from '../components/ServiceWorkerRegistrati
 const inter = Inter({ subsets: ['latin'], display: 'swap' });
 
 export const metadata: Metadata = {
+  metadataBase: new URL('https://coldstarthockey.com'),
   title: { default: 'ColdStart Hockey — Scout the rink', template: '%s | ColdStart Hockey' },
   description:
     'Real conditions from hockey parents who have been there. Parking, cold, food, chaos — summarized in seconds.',
