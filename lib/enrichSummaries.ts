@@ -7,7 +7,7 @@ export async function enrichWithSummaries(rinks: Record<string, unknown>[]) {
   if (rinks.length === 0) return rinks;
 
   const ids = rinks.map((r) => r.id as string);
-  const [signalResult, tipCountResult] = await Promise.all([
+  const [signalResult, tipCountResult, lastUpdatedResult] = await Promise.all([
     pool.query(
       `SELECT rink_id, signal, AVG(value) AS value, COUNT(*)::int AS count
        FROM signal_ratings WHERE rink_id = ANY($1) GROUP BY rink_id, signal`,
@@ -15,6 +15,14 @@ export async function enrichWithSummaries(rinks: Record<string, unknown>[]) {
     ),
     pool.query(
       `SELECT rink_id, COUNT(*)::int AS count FROM tips WHERE rink_id = ANY($1) GROUP BY rink_id`,
+      [ids]
+    ),
+    pool.query(
+      `SELECT r.rink_id, GREATEST(
+        (SELECT MAX(created_at) FROM signal_ratings sr WHERE sr.rink_id = r.rink_id),
+        (SELECT MAX(created_at) FROM tips t WHERE t.rink_id = r.rink_id)
+      ) AS last_updated_at
+      FROM unnest($1::text[]) AS r(rink_id)`,
       [ids]
     ),
   ]);
@@ -34,6 +42,13 @@ export async function enrichWithSummaries(rinks: Record<string, unknown>[]) {
   const tipCountByRink: Record<string, number> = {};
   for (const row of tipCountResult.rows) {
     tipCountByRink[row.rink_id] = row.count;
+  }
+
+  const lastUpdatedByRink: Record<string, string | null> = {};
+  for (const row of lastUpdatedResult.rows) {
+    lastUpdatedByRink[row.rink_id] = row.last_updated_at
+      ? new Date(row.last_updated_at).toISOString()
+      : null;
   }
 
   return rinks.map((r) => {
@@ -58,6 +73,7 @@ export async function enrichWithSummaries(rinks: Record<string, unknown>[]) {
         signals: topSignals,
         tips: [],
         contribution_count: totalCount,
+        last_updated_at: lastUpdatedByRink[id] || null,
       } : undefined,
     };
   });

@@ -128,6 +128,10 @@ export const storage = {
     setJSON('coldstart_my_tips', tips);
   },
 
+  // Rink snapshot (for What's New feed)
+  getRinkSnapshot: () => getJSON<Record<string, { count: number; updated: string | null }>>('coldstart_rink_snapshot', {}),
+  setRinkSnapshot: (s: Record<string, { count: number; updated: string | null }>) => setJSON('coldstart_rink_snapshot', s),
+
   // Add-to-home-screen dismissed
   getA2HSDismissed: () => getJSON<boolean>('coldstart_a2hs_dismissed', false),
   setA2HSDismissed: (v: boolean) => setJSON('coldstart_a2hs_dismissed', v),

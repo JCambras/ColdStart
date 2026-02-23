@@ -15,6 +15,7 @@ import { TeamManagerCTA } from './TeamManagerCTA';
 import { timeAgo } from '../../lib/rinkHelpers';
 import { getVibe } from '../../app/vibe';
 import { AddToHomeScreen } from './AddToHomeScreen';
+import { WhatsNew } from './WhatsNew';
 
 interface RecentlyViewedRink {
   id: string;
@@ -48,6 +49,8 @@ export default function HomeClient({
   const [savedRinks, setSavedRinks] = useState<RinkData[]>([]);
   const [recentlyViewed, setRecentlyViewed] = useState<RecentlyViewedRink[]>([]);
   const [ratedRinks, setRatedRinks] = useState<{ id: string; name: string; city: string; state: string; ratedAt: number }[]>([]);
+  const [staleNudge, setStaleNudge] = useState<{ id: string; name: string; daysOld: number } | null>(null);
+  const [nudgeDismissed, setNudgeDismissed] = useState(false);
   const [vibeCTA, setVibeCTA] = useState<{ text: string; action: string; icon: string } | null>(null);
 
   // Load Vibe CTA
@@ -103,6 +106,19 @@ export default function HomeClient({
       }
       rinks.sort((a, b) => b.ratedAt - a.ratedAt);
       setRatedRinks(rinks.slice(0, 5));
+
+      // Compute stale nudge (30+ days old)
+      const THIRTY_DAYS = 30 * 24 * 60 * 60 * 1000;
+      const stale = rinks
+        .filter(r => (Date.now() - r.ratedAt) > THIRTY_DAYS)
+        .sort((a, b) => a.ratedAt - b.ratedAt);
+      if (stale.length > 0) {
+        setStaleNudge({
+          id: stale[0].id,
+          name: stale[0].name,
+          daysOld: Math.floor((Date.now() - stale[0].ratedAt) / (24 * 60 * 60 * 1000)),
+        });
+      }
     } catch {}
   }, []);
 
@@ -234,6 +250,9 @@ export default function HomeClient({
           />
         )}
 
+        {/* What's New at Your Rinks */}
+        {savedRinks.length > 0 && <WhatsNew savedRinks={savedRinks} />}
+
         {/* My Rinks (saved) */}
         {savedRinks.length > 0 && (
           <section id="my-rinks-section" aria-label="Saved rinks" style={{
@@ -318,6 +337,51 @@ export default function HomeClient({
                 {ratedRinks.length}
               </span>
             </h3>
+            {staleNudge && !nudgeDismissed && (
+              <div style={{
+                display: 'flex', alignItems: 'center', gap: 12,
+                padding: '12px 16px', marginBottom: 12,
+                background: colors.bgWarning, border: `1px solid ${colors.warningBorder}`,
+                borderRadius: 12,
+              }}>
+                <span style={{ fontSize: 18, flexShrink: 0 }}>🔄</span>
+                <div style={{ flex: 1 }}>
+                  <p style={{ fontSize: 13, fontWeight: 600, color: colors.textPrimary, margin: 0 }}>
+                    Your rating of {staleNudge.name} is {staleNudge.daysOld} days old
+                  </p>
+                  <p style={{ fontSize: 12, color: colors.textMuted, margin: '2px 0 0' }}>
+                    Conditions may have changed — update it?
+                  </p>
+                </div>
+                <button
+                  onClick={() => router.push(`/rinks/${staleNudge.id}`)}
+                  style={{
+                    fontSize: 12, fontWeight: 600,
+                    color: colors.brand, background: colors.surface,
+                    border: `1px solid ${colors.brandLight}`,
+                    borderRadius: 10, padding: '8px 14px',
+                    cursor: 'pointer', whiteSpace: 'nowrap',
+                    flexShrink: 0,
+                  }}
+                >
+                  Update
+                </button>
+                <button
+                  onClick={() => setNudgeDismissed(true)}
+                  aria-label="Dismiss"
+                  style={{
+                    fontSize: 14, color: colors.textMuted,
+                    background: 'none', border: 'none',
+                    cursor: 'pointer', padding: '8px',
+                    flexShrink: 0, lineHeight: 1,
+                    minWidth: 32, minHeight: 32,
+                    display: 'flex', alignItems: 'center', justifyContent: 'center',
+                  }}
+                >
+                  ✕
+                </button>
+              </div>
+            )}
             <div style={{ display: 'flex', flexDirection: 'column', gap: 8 }}>
               {ratedRinks.map((rink) => (
                 <div

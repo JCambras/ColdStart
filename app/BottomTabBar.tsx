@@ -46,7 +46,7 @@ const tabs: { label: string; Icon: IconComponent; path: string; match: (p: strin
   { label: 'Explore', Icon: CompassIcon, path: '/', match: (p) => p === '/' },
   { label: 'Trips', Icon: MapPinIcon, path: '/trips', match: (p) => p.startsWith('/trip') },
   { label: 'Team', Icon: ShieldIcon, path: '/team', match: (p) => p.startsWith('/team'), disabled: true },
-  { label: 'Profile', Icon: UserCircleIcon, path: '#profile', match: () => false },
+  { label: 'Profile', Icon: UserCircleIcon, path: '/profile', match: (p) => p.startsWith('/profile') },
 ];
 
 export default function BottomTabBar() {
@@ -56,26 +56,12 @@ export default function BottomTabBar() {
 
   function handleTab(tab: (typeof tabs)[number]) {
     if (tab.disabled) return;
-    if (tab.path === '#profile') {
+    if (tab.path === '/profile') {
       if (!currentUser) {
         openAuth();
         return;
       }
-      if (pathname === '/') {
-        const el = document.getElementById('my-rinks-section');
-        if (el) {
-          el.scrollIntoView({ behavior: 'smooth' });
-          return;
-        }
-      }
-      router.push('/');
-      requestAnimationFrame(() => {
-        const poll = () => {
-          const el = document.getElementById('my-rinks-section');
-          if (el) el.scrollIntoView({ behavior: 'smooth' });
-        };
-        setTimeout(poll, 300);
-      });
+      router.push(`/profile/${currentUser.id}`);
       return;
     }
     router.push(tab.path);
@@ -122,6 +108,20 @@ export default function BottomTabBar() {
               />
             )}
             <tab.Icon color={color} />
+            {tab.path === '/profile' && currentUser &&
+              (currentUser.rinksRated + currentUser.tipsSubmitted) > 0 && (
+              <span style={{
+                position: 'absolute', top: 4,
+                right: '50%', transform: 'translateX(14px)',
+                minWidth: 16, height: 16, borderRadius: 8,
+                background: colors.brand, color: colors.textInverse,
+                fontSize: 9, fontWeight: 700,
+                display: 'flex', alignItems: 'center', justifyContent: 'center',
+                padding: '0 4px', lineHeight: 1,
+              }}>
+                {currentUser.rinksRated + currentUser.tipsSubmitted}
+              </span>
+            )}
             <span style={{ fontSize: text.xs, fontWeight: active ? 700 : 400 }}>
               {tab.label}
             </span>

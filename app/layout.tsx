@@ -3,6 +3,7 @@ import { Inter } from 'next/font/google';
 import './globals.css';
 import BottomTabBar from './BottomTabBar';
 import { ClientProviders } from '../components/ClientProviders';
+import { ServiceWorkerRegistration } from '../components/ServiceWorkerRegistration';
 
 const inter = Inter({ subsets: ['latin'], display: 'swap' });
 
@@ -58,6 +59,7 @@ export default function RootLayout({
     <html lang="en">
       <body style={{ fontFamily: inter.style.fontFamily }}>
         <ClientProviders>
+          <ServiceWorkerRegistration />
           {children}
           <BottomTabBar />
         </ClientProviders>

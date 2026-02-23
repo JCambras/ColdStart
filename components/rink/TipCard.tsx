@@ -178,13 +178,13 @@ export function TipCard({ tip, tipIndex, rinkSlug }: { tip: Tip; tipIndex: numbe
                       {'\u{1F3C6}'} Tournament
                     </span>
                   )}
-                  {tip.contributor_badge && (
+                  {tip.contributor_badge === 'Trusted' && (
                     <span style={{
                       fontSize: text['2xs'], fontWeight: 600, padding: '1px 6px',
-                      borderRadius: 6, display: 'inline-block',
-                      background: colors.bgSuccess, color: colors.success,
+                      borderRadius: 6, display: 'inline-flex', alignItems: 'center', gap: 2,
+                      background: colors.indigoBg, color: colors.indigo,
                     }}>
-                      {tip.contributor_badge}
+                      Trusted Reviewer
                     </span>
                   )}
                   {isMyTip && (
@@ -228,6 +228,15 @@ export function TipCard({ tip, tipIndex, rinkSlug }: { tip: Tip; tipIndex: numbe
                     background: colors.bgSuccess, color: colors.success,
                   }}>
                     Your tip
+                  </span>
+                )}
+                {tip.contributor_badge === 'Trusted' && (
+                  <span style={{
+                    fontSize: text['2xs'], fontWeight: 600, padding: '2px 8px',
+                    borderRadius: radius.lg, display: 'inline-flex', alignItems: 'center', gap: 3,
+                    background: colors.indigoBg, color: colors.indigo,
+                  }}>
+                    Trusted Reviewer
                   </span>
                 )}
                 <span style={{ fontSize: text['2xs'], color: colors.textMuted }}>{timeAgo(tip.created_at)}</span>
