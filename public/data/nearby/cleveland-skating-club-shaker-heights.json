@@ -70,11 +70,6 @@
       "name": "Poppy Restaurant",
       "distance": "0.3 mi",
       "url": "https://www.google.com/maps/search/Poppy%20Restaurant+near+41.4902541%2C-81.5918004"
-    },
-    {
-      "name": "Baba Yaga's Greenhouse Cafe",
-      "distance": "0.3 mi",
-      "url": "https://www.google.com/maps/search/Baba%20Yaga's%20Greenhouse%20Cafe+near+41.4902541%2C-81.5918004"
     }
   ],
   "bowling": [
@@ -113,11 +108,6 @@
       "name": "Cedar Lee Theatre",
       "distance": "1.6 mi",
       "url": "https://www.google.com/maps/search/Cedar%20Lee%20Theatre+near+41.4902541%2C-81.5918004"
-    },
-    {
-      "name": "Cleveland Cinemas",
-      "distance": "1.6 mi",
-      "url": "https://www.google.com/maps/search/Cleveland%20Cinemas+near+41.4902541%2C-81.5918004"
     }
   ],
   "fun": [
@@ -145,43 +135,7 @@
       "isFar": true
     }
   ],
-  "hotels": [
-    {
-      "name": "Perfect! near CLE Clinic/Case/UH/Downtown! - Two-Bedroom House",
-      "distance": "0.1 mi",
-      "url": "https://www.google.com/maps/search/Perfect!%20near%20CLE%20Clinic%2FCase%2FUH%2FDowntown!%20-%20Two-Bedroom%20House+near+41.4902541%2C-81.5918004"
-    },
-    {
-      "name": "Elegant 2BR Larchmere Classic ~ Near Cleveland Clinic & Case Western University",
-      "distance": "0.1 mi",
-      "url": "https://www.google.com/maps/search/Elegant%202BR%20Larchmere%20Classic%20~%20Near%20Cleveland%20Clinic%20%26%20Case%20Western%20University+near+41.4902541%2C-81.5918004"
-    },
-    {
-      "name": "Elegant 2BR Larchmere Classic ~ Near Cleveland Clinic Case Western University",
-      "distance": "0.1 mi",
-      "url": "https://www.google.com/maps/search/Elegant%202BR%20Larchmere%20Classic%20~%20Near%20Cleveland%20Clinic%20Case%20Western%20University+near+41.4902541%2C-81.5918004"
-    },
-    {
-      "name": "Cozy, close to downtown, CRWU, free parking.",
-      "distance": "0.2 mi",
-      "url": "https://www.google.com/maps/search/Cozy%2C%20close%20to%20downtown%2C%20CRWU%2C%20free%20parking.+near+41.4902541%2C-81.5918004"
-    },
-    {
-      "name": "Cozy, close to downtown, CRWU, free parking.",
-      "distance": "0.2 mi",
-      "url": "https://www.google.com/maps/search/Cozy%2C%20close%20to%20downtown%2C%20CRWU%2C%20free%20parking.+near+41.4902541%2C-81.5918004"
-    },
-    {
-      "name": "home away from home!",
-      "distance": "0.2 mi",
-      "url": "https://www.google.com/maps/search/home%20away%20from%20home!+near+41.4902541%2C-81.5918004"
-    },
-    {
-      "name": "Bohemian Retreat ~ 15 min to Downtown~ 8 min to Cleveland Clinic",
-      "distance": "0.2 mi",
-      "url": "https://www.google.com/maps/search/Bohemian%20Retreat%20~%2015%20min%20to%20Downtown~%208%20min%20to%20Cleveland%20Clinic+near+41.4902541%2C-81.5918004"
-    }
-  ],
+  "hotels": [],
   "gas": [
     {
       "name": "bp",
@@ -197,16 +151,6 @@
       "name": "Marathon Gas",
       "distance": "0.5 mi",
       "url": "https://www.google.com/maps/search/Marathon%20Gas+near+41.4902541%2C-81.5918004"
-    },
-    {
-      "name": "Sunoco",
-      "distance": "0.7 mi",
-      "url": "https://www.google.com/maps/search/Sunoco+near+41.4902541%2C-81.5918004"
-    },
-    {
-      "name": "Sunoco",
-      "distance": "0.7 mi",
-      "url": "https://www.google.com/maps/search/Sunoco+near+41.4902541%2C-81.5918004"
     }
   ]
 }

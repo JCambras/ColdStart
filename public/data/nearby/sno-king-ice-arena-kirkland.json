@@ -18,11 +18,6 @@
       "url": "https://www.google.com/maps/search/Gourmet%20Latte%20%2316+near+47.73046050000001%2C-122.17379579999998"
     },
     {
-      "name": "McDonald's",
-      "distance": "0.1 mi",
-      "url": "https://www.google.com/maps/search/McDonald's+near+47.73046050000001%2C-122.17379579999998"
-    },
-    {
       "name": "Starbucks Coffee Company",
       "distance": "0.1 mi",
       "url": "https://www.google.com/maps/search/Starbucks%20Coffee%20Company+near+47.73046050000001%2C-122.17379579999998"
@@ -69,11 +64,6 @@
       "name": "Hello Banh Mi Kirkland",
       "distance": "0.1 mi",
       "url": "https://www.google.com/maps/search/Hello%20Banh%20Mi%20Kirkland+near+47.73046050000001%2C-122.17379579999998"
-    },
-    {
-      "name": "Oasis Brazilian Steak House",
-      "distance": "0.1 mi",
-      "url": "https://www.google.com/maps/search/Oasis%20Brazilian%20Steak%20House+near+47.73046050000001%2C-122.17379579999998"
     }
   ],
   "bowling": [
@@ -106,18 +96,6 @@
       "name": "McMenamins Anderson School Theater",
       "distance": "2.7 mi",
       "url": "https://www.google.com/maps/search/McMenamins%20Anderson%20School%20Theater+near+47.73046050000001%2C-122.17379579999998"
-    },
-    {
-      "name": "Regal Bella Bottega",
-      "distance": "4.2 mi",
-      "url": "https://www.google.com/maps/search/Regal%20Bella%20Bottega+near+47.73046050000001%2C-122.17379579999998",
-      "isFar": true
-    },
-    {
-      "name": "IPIC Theaters",
-      "distance": "4.8 mi",
-      "url": "https://www.google.com/maps/search/IPIC%20Theaters+near+47.73046050000001%2C-122.17379579999998",
-      "isFar": true
     }
   ],
   "fun": [
@@ -142,34 +120,13 @@
       "distance": "4.2 mi",
       "url": "https://www.google.com/maps/search/Conundroom%20Escape%20Rooms%20Avalon%3A%20Alice%2C%20The%20Ghost%20Ship%2C%20Zeppelin+near+47.73046050000001%2C-122.17379579999998",
       "isFar": true
-    },
-    {
-      "name": "Conundroom Escape Rooms Downtown Park: Luck and Key, Frankenstein, The Vault",
-      "distance": "4.5 mi",
-      "url": "https://www.google.com/maps/search/Conundroom%20Escape%20Rooms%20Downtown%20Park%3A%20Luck%20and%20Key%2C%20Frankenstein%2C%20The%20Vault+near+47.73046050000001%2C-122.17379579999998",
-      "isFar": true
     }
   ],
   "hotels": [
     {
-      "name": "Modern Kirkland Home with Sauna and Outdoor Fireplace - Holiday Home",
-      "distance": "0.2 mi",
-      "url": "https://www.google.com/maps/search/Modern%20Kirkland%20Home%20with%20Sauna%20and%20Outdoor%20Fireplace%20-%20Holiday%20Home+near+47.73046050000001%2C-122.17379579999998"
-    },
-    {
       "name": "Modern Kirkland Home w/ Sauna & Outdoor Fireplace",
       "distance": "0.2 mi",
       "url": "https://www.google.com/maps/search/Modern%20Kirkland%20Home%20w%2F%20Sauna%20%26%20Outdoor%20Fireplace+near+47.73046050000001%2C-122.17379579999998"
-    },
-    {
-      "name": "Modern Kirkland Home w/ Sauna Outdoor Fireplace - House (4 Bedrooms)",
-      "distance": "0.2 mi",
-      "url": "https://www.google.com/maps/search/Modern%20Kirkland%20Home%20w%2F%20Sauna%20Outdoor%20Fireplace%20-%20House%20(4%20Bedrooms)+near+47.73046050000001%2C-122.17379579999998"
-    },
-    {
-      "name": "Cozy Forest Abode in Woodinville Wine Country - Apartment",
-      "distance": "0.3 mi",
-      "url": "https://www.google.com/maps/search/Cozy%20Forest%20Abode%20in%20Woodinville%20Wine%20Country%20-%20Apartment+near+47.73046050000001%2C-122.17379579999998"
     },
     {
       "name": "Lux Kirkland Home, 4 Beds | Large Backyard | BBQ",
@@ -180,11 +137,6 @@
       "name": "4B2.5B TH in Kirkland/Woodinville. Prime Location",
       "distance": "0.4 mi",
       "url": "https://www.google.com/maps/search/4B2.5B%20TH%20in%20Kirkland%2FWoodinville.%20Prime%20Location+near+47.73046050000001%2C-122.17379579999998"
-    },
-    {
-      "name": "Luxury Living-Kirkland: Stylish Home - Prime Spot!",
-      "distance": "0.4 mi",
-      "url": "https://www.google.com/maps/search/Luxury%20Living-Kirkland%3A%20Stylish%20Home%20-%20Prime%20Spot!+near+47.73046050000001%2C-122.17379579999998"
     }
   ],
   "gas": [
@@ -207,11 +159,6 @@
       "name": "Shell",
       "distance": "1.0 mi",
       "url": "https://www.google.com/maps/search/Shell+near+47.73046050000001%2C-122.17379579999998"
-    },
-    {
-      "name": "76",
-      "distance": "1.4 mi",
-      "url": "https://www.google.com/maps/search/76+near+47.73046050000001%2C-122.17379579999998"
     }
   ]
 }

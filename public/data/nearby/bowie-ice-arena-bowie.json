@@ -29,26 +29,6 @@
       "name": "Taco Bell",
       "distance": "1.2 mi",
       "url": "https://www.google.com/maps/search/?api=1&query=Taco%20Bell&query_place_id=ChIJ2Uw-Dm7st4kRrHoEWTcX548&center=38.946621,-76.72113790000002"
-    },
-    {
-      "name": "Raising Cane's Chicken Fingers",
-      "distance": "1.2 mi",
-      "url": "https://www.google.com/maps/search/?api=1&query=Raising%20Cane's%20Chicken%20Fingers&query_place_id=ChIJzaXNqxPtt4kR6DcEQGmc-CI&center=38.945199099999996,-76.719177"
-    },
-    {
-      "name": "Chick-fil-A",
-      "distance": "1.3 mi",
-      "url": "https://www.google.com/maps/search/?api=1&query=Chick-fil-A&query_place_id=ChIJv3j212jst4kRAEe-5if4JoI&center=38.9444456,-76.7169567"
-    },
-    {
-      "name": "Subway",
-      "distance": "1.3 mi",
-      "url": "https://www.google.com/maps/search/?api=1&query=Subway&query_place_id=ChIJz9v_027st4kRkZ7aBX5_uOo&center=38.9452283,-76.71697379999999"
-    },
-    {
-      "name": "Wendy's",
-      "distance": "1.4 mi",
-      "url": "https://www.google.com/maps/search/?api=1&query=Wendy's&query_place_id=ChIJ40Ubrm3st4kRbSp7Xv2DIrk&center=38.949195599999996,-76.71958719999999"
     }
   ],
   "coffee": [
@@ -66,19 +46,9 @@
       "name": "Auntie Anne's",
       "distance": "1.0 mi",
       "url": "https://www.google.com/maps/search/?api=1&query=Auntie%20Anne's&query_place_id=ChIJaakmE2Pst4kRpicf1oIv0FU&center=38.9356121,-76.7204848"
-    },
-    {
-      "name": "McDonald's",
-      "distance": "1.4 mi",
-      "url": "https://www.google.com/maps/search/?api=1&query=McDonald's&query_place_id=ChIJ9bGe82zst4kRkvH5BoMAE6c&center=38.9496483,-76.7188321"
     }
   ],
   "team_lunch": [
-    {
-      "name": "jw",
-      "distance": "0.3 mi",
-      "url": "https://www.google.com/maps/search/?api=1&query=jw&query_place_id=ChIJMXLSOwDrt4kRwPZJOpiu9uM&center=38.9307222,-76.73941669999999"
-    },
     {
       "name": "Ichiban Sushi Asian Bistro",
       "distance": "0.5 mi",
@@ -108,21 +78,6 @@
       "name": "Charleys Cheesesteaks and Wings",
       "distance": "0.7 mi",
       "url": "https://www.google.com/maps/search/?api=1&query=Charleys%20Cheesesteaks%20and%20Wings&query_place_id=ChIJi3PvsWbrt4kRyr7cot0dP8Q&center=38.9454619,-76.73690789999999"
-    },
-    {
-      "name": "Crumbl",
-      "distance": "0.7 mi",
-      "url": "https://www.google.com/maps/search/?api=1&query=Crumbl&query_place_id=ChIJvRWnUADrt4kRtRsMGOsDbrQ&center=38.9454997,-76.73711469999999"
-    },
-    {
-      "name": "Safeway Bakery",
-      "distance": "0.7 mi",
-      "url": "https://www.google.com/maps/search/?api=1&query=Safeway%20Bakery&query_place_id=ChIJ075E94jrt4kR_bk-x6WjpVQ&center=38.945949299999995,-76.7368358"
-    },
-    {
-      "name": "BriBeyond Bakes",
-      "distance": "0.8 mi",
-      "url": "https://www.google.com/maps/search/?api=1&query=BriBeyond%20Bakes&query_place_id=ChIJ14WaMG7tt4kRz0kiTHdZGNs&center=38.9441701,-76.7284366"
     }
   ],
   "dinner": [

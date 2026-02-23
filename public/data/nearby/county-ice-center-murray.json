@@ -29,11 +29,6 @@
       "name": "Chipotle Mexican Grill",
       "distance": "0.2 mi",
       "url": "https://www.google.com/maps/search/Chipotle%20Mexican%20Grill+near+40.657856699999996%2C-111.8852752"
-    },
-    {
-      "name": "Jimmy John's",
-      "distance": "0.4 mi",
-      "url": "https://www.google.com/maps/search/Jimmy%20John's+near+40.657856699999996%2C-111.8852752"
     }
   ],
   "coffee": [
@@ -95,11 +90,6 @@
       "name": "ValSof bakery",
       "distance": "0.4 mi",
       "url": "https://www.google.com/maps/search/ValSof%20bakery+near+40.657856699999996%2C-111.8852752"
-    },
-    {
-      "name": "Soy's Sushi Bar & Grill",
-      "distance": "0.5 mi",
-      "url": "https://www.google.com/maps/search/Soy's%20Sushi%20Bar%20%26%20Grill+near+40.657856699999996%2C-111.8852752"
     }
   ],
   "bowling": [
@@ -127,12 +117,6 @@
       "distance": "3.0 mi",
       "url": "https://www.google.com/maps/search/Regal%20Crossroads%20-%20Taylorsville+near+40.657856699999996%2C-111.8852752",
       "isFar": true
-    },
-    {
-      "name": "Pascales market",
-      "distance": "3.1 mi",
-      "url": "https://www.google.com/maps/search/Pascales%20market+near+40.657856699999996%2C-111.8852752",
-      "isFar": true
     }
   ],
   "fun": [
@@ -155,21 +139,6 @@
       "name": "Great Big Game Show Murray",
       "distance": "1.4 mi",
       "url": "https://www.google.com/maps/search/Great%20Big%20Game%20Show%20Murray+near+40.657856699999996%2C-111.8852752"
-    },
-    {
-      "name": "Immersive Gamebox - Salt Lake City, Murray",
-      "distance": "1.6 mi",
-      "url": "https://www.google.com/maps/search/Immersive%20Gamebox%20-%20Salt%20Lake%20City%2C%20Murray+near+40.657856699999996%2C-111.8852752"
-    },
-    {
-      "name": "The Escape Game Murray",
-      "distance": "1.6 mi",
-      "url": "https://www.google.com/maps/search/The%20Escape%20Game%20Murray+near+40.657856699999996%2C-111.8852752"
-    },
-    {
-      "name": "Sandbox VR",
-      "distance": "1.6 mi",
-      "url": "https://www.google.com/maps/search/Sandbox%20VR+near+40.657856699999996%2C-111.8852752"
     }
   ],
   "hotels": [
@@ -179,19 +148,9 @@
       "url": "https://www.google.com/maps/search/Residence%20Inn%20by%20Marriott%20Salt%20Lake%20City%20Murray+near+40.657856699999996%2C-111.8852752"
     },
     {
-      "name": "Central private studio - No Locals - One-Bedroom Apartment",
-      "distance": "0.2 mi",
-      "url": "https://www.google.com/maps/search/Central%20private%20studio%20-%20No%20Locals%20-%20One-Bedroom%20Apartment+near+40.657856699999996%2C-111.8852752"
-    },
-    {
       "name": "TownePlace Suites by Marriott Salt Lake City Murray",
       "distance": "0.2 mi",
       "url": "https://www.google.com/maps/search/TownePlace%20Suites%20by%20Marriott%20Salt%20Lake%20City%20Murray+near+40.657856699999996%2C-111.8852752"
-    },
-    {
-      "name": "Spacious 3 Bedrooms with 2 King Beds and 2 Bathrooms",
-      "distance": "0.4 mi",
-      "url": "https://www.google.com/maps/search/Spacious%203%20Bedrooms%20with%202%20King%20Beds%20and%202%20Bathrooms+near+40.657856699999996%2C-111.8852752"
     },
     {
       "name": "Palace inn",
@@ -202,11 +161,6 @@
       "name": "Salt Lake City Sweet Spot",
       "distance": "0.4 mi",
       "url": "https://www.google.com/maps/search/Salt%20Lake%20City%20Sweet%20Spot+near+40.657856699999996%2C-111.8852752"
-    },
-    {
-      "name": "Salt Lake City Sweet Spot - Holiday Home",
-      "distance": "0.4 mi",
-      "url": "https://www.google.com/maps/search/Salt%20Lake%20City%20Sweet%20Spot%20-%20Holiday%20Home+near+40.657856699999996%2C-111.8852752"
     }
   ],
   "gas": [
@@ -229,11 +183,6 @@
       "name": "Phillips 66",
       "distance": "0.8 mi",
       "url": "https://www.google.com/maps/search/Phillips%2066+near+40.657856699999996%2C-111.8852752"
-    },
-    {
-      "name": "Sinclair Gas Station",
-      "distance": "1.0 mi",
-      "url": "https://www.google.com/maps/search/Sinclair%20Gas%20Station+near+40.657856699999996%2C-111.8852752"
     }
   ]
 }

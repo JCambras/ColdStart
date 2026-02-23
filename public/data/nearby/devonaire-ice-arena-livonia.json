@@ -29,26 +29,6 @@
       "name": "Potbelly",
       "distance": "0.7 mi",
       "url": "https://www.google.com/maps/search/?api=1&query=Potbelly&query_place_id=ChIJlfoublizJIgRoDAVAxUJYyU&center=42.3685962,-83.3366484"
-    },
-    {
-      "name": "Five Guys",
-      "distance": "0.8 mi",
-      "url": "https://www.google.com/maps/search/?api=1&query=Five%20Guys&query_place_id=ChIJW_TWpKe0JIgRXDXtsazvTN4&center=42.3684788,-83.3339884"
-    },
-    {
-      "name": "Firehouse Subs Middlebelt Road",
-      "distance": "0.9 mi",
-      "url": "https://www.google.com/maps/search/?api=1&query=Firehouse%20Subs%20Middlebelt%20Road&query_place_id=ChIJa044GIq1JIgRaRTtcQvXsz0&center=42.3685306,-83.3319485"
-    },
-    {
-      "name": "Chick-fil-A",
-      "distance": "0.9 mi",
-      "url": "https://www.google.com/maps/search/?api=1&query=Chick-fil-A&query_place_id=ChIJBU57g9O1JIgR-YJzl8JSXek&center=42.369285000000005,-83.332556"
-    },
-    {
-      "name": "Wendy's",
-      "distance": "0.9 mi",
-      "url": "https://www.google.com/maps/search/?api=1&query=Wendy's&query_place_id=ChIJC4MJZlRLO4gRvXq1_ekHr3I&center=42.3543765,-83.3314504"
     }
   ],
   "coffee": [
@@ -56,11 +36,6 @@
       "name": "Fattoush Village Cafe & Grill",
       "distance": "0.5 mi",
       "url": "https://www.google.com/maps/search/?api=1&query=Fattoush%20Village%20Cafe%20%26%20Grill&query_place_id=ChIJ69BzUE-zJIgRp-rfbagh_7U&center=42.3682921,-83.3510553"
-    },
-    {
-      "name": "McDonald's",
-      "distance": "0.6 mi",
-      "url": "https://www.google.com/maps/search/?api=1&query=McDonald's&query_place_id=ChIJs8VW3LNMO4gRpctg9B6gth0&center=42.353931599999996,-83.3503425"
     },
     {
       "name": "Haraz Coffee House",
@@ -71,19 +46,9 @@
       "name": "Starbucks Coffee Company",
       "distance": "0.7 mi",
       "url": "https://www.google.com/maps/search/?api=1&query=Starbucks%20Coffee%20Company&query_place_id=ChIJ39BucKi0JIgRF-n4rpRIMWQ&center=42.3667,-83.33424"
-    },
-    {
-      "name": "McDonald's",
-      "distance": "1.0 mi",
-      "url": "https://www.google.com/maps/search/?api=1&query=McDonald's&query_place_id=ChIJf1oJzKa0JIgRLi0l3DBJn2g&center=42.371875599999996,-83.33247229999999"
     }
   ],
   "team_lunch": [
-    {
-      "name": "Walmart Bakery",
-      "distance": "0.6 mi",
-      "url": "https://www.google.com/maps/search/?api=1&query=Walmart%20Bakery&query_place_id=ChIJAQAA5FezJIgR7nYm37zsi8E&center=42.366267799999996,-83.33617679999999"
-    },
     {
       "name": "Red Lobster",
       "distance": "0.7 mi",
@@ -130,11 +95,6 @@
       "name": "Benny's Pizza",
       "distance": "0.7 mi",
       "url": "https://www.google.com/maps/search/Benny's%20Pizza+near+42.3619512%2C-83.346394"
-    },
-    {
-      "name": "Antonio's Piccolo Ristorante",
-      "distance": "0.7 mi",
-      "url": "https://www.google.com/maps/search/Antonio's%20Piccolo%20Ristorante+near+42.3619512%2C-83.346394"
     }
   ],
   "bowling": [
@@ -152,29 +112,6 @@
       "name": "Mayflower Lanes",
       "distance": "2.2 mi",
       "url": "https://www.google.com/maps/search/Mayflower%20Lanes+near+42.3619512%2C-83.346394"
-    },
-    {
-      "name": "Merri-Bowl Lanes",
-      "distance": "2.6 mi",
-      "url": "https://www.google.com/maps/search/Merri-Bowl%20Lanes+near+42.3619512%2C-83.346394"
-    },
-    {
-      "name": "Westland Bowl",
-      "distance": "3.2 mi",
-      "url": "https://www.google.com/maps/search/Westland%20Bowl+near+42.3619512%2C-83.346394",
-      "isFar": true
-    },
-    {
-      "name": "Western Wayne County Usbc Association",
-      "distance": "3.3 mi",
-      "url": "https://www.google.com/maps/search/Western%20Wayne%20County%20Usbc%20Association+near+42.3619512%2C-83.346394",
-      "isFar": true
-    },
-    {
-      "name": "Hamtramck Singles Classic",
-      "distance": "4.4 mi",
-      "url": "https://www.google.com/maps/search/Hamtramck%20Singles%20Classic+near+42.3619512%2C-83.346394",
-      "isFar": true
     }
   ],
   "arcade": [],
@@ -205,21 +142,6 @@
       "name": "Fun ZoneZ",
       "distance": "1.8 mi",
       "url": "https://www.google.com/maps/search/Fun%20ZoneZ+near+42.3619512%2C-83.346394"
-    },
-    {
-      "name": "Handy Park Spray Pad",
-      "distance": "2.3 mi",
-      "url": "https://www.google.com/maps/search/Handy%20Park%20Spray%20Pad+near+42.3619512%2C-83.346394"
-    },
-    {
-      "name": "Knockerball Michigan",
-      "distance": "2.4 mi",
-      "url": "https://www.google.com/maps/search/Knockerball%20Michigan+near+42.3619512%2C-83.346394"
-    },
-    {
-      "name": "Fun 4 Us Entertainment",
-      "distance": "2.6 mi",
-      "url": "https://www.google.com/maps/search/Fun%204%20Us%20Entertainment+near+42.3619512%2C-83.346394"
     }
   ],
   "hotels": [
@@ -232,11 +154,6 @@
       "name": "HomeTowne Studios Detroit - Livonia",
       "distance": "1.0 mi",
       "url": "https://www.google.com/maps/search/HomeTowne%20Studios%20Detroit%20-%20Livonia+near+42.3619512%2C-83.346394"
-    },
-    {
-      "name": "Big Trees Mobile Home Community",
-      "distance": "1.4 mi",
-      "url": "https://www.google.com/maps/search/Big%20Trees%20Mobile%20Home%20Community+near+42.3619512%2C-83.346394"
     },
     {
       "name": "Plymouth Motel",
@@ -279,11 +196,6 @@
       "name": "Exxon",
       "distance": "0.9 mi",
       "url": "https://www.google.com/maps/search/Exxon+near+42.3619512%2C-83.346394"
-    },
-    {
-      "name": "Shell",
-      "distance": "1.1 mi",
-      "url": "https://www.google.com/maps/search/Shell+near+42.3619512%2C-83.346394"
     }
   ]
 }

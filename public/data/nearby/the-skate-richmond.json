@@ -29,20 +29,9 @@
       "name": "KFC",
       "distance": "0.9 mi",
       "url": "https://www.google.com/maps/search/KFC+near+39.836009%2C-84.824317"
-    },
-    {
-      "name": "It's Just Wings",
-      "distance": "1.1 mi",
-      "url": "https://www.google.com/maps/search/It's%20Just%20Wings+near+39.836009%2C-84.824317"
     }
   ],
-  "coffee": [
-    {
-      "name": "McDonald's",
-      "distance": "0.2 mi",
-      "url": "https://www.google.com/maps/search/McDonald's+near+39.836009%2C-84.824317"
-    }
-  ],
+  "coffee": [],
   "team_lunch": [
     {
       "name": "Red Lobster",
@@ -138,11 +127,6 @@
       "url": "https://www.google.com/maps/search/Comfort%20Suites%20Richmond%20East+near+39.836009%2C-84.824317"
     },
     {
-      "name": "Cozy Garden Inn By OYO Hwy 40 Richmond",
-      "distance": "0.1 mi",
-      "url": "https://www.google.com/maps/search/Cozy%20Garden%20Inn%20By%20OYO%20Hwy%2040%20Richmond+near+39.836009%2C-84.824317"
-    },
-    {
       "name": "Holiday Inn Express Richmond by IHG",
       "distance": "0.2 mi",
       "url": "https://www.google.com/maps/search/Holiday%20Inn%20Express%20Richmond%20by%20IHG+near+39.836009%2C-84.824317"
@@ -183,11 +167,6 @@
       "name": "Petro New Paris 357",
       "distance": "0.8 mi",
       "url": "https://www.google.com/maps/search/Petro%20New%20Paris%20357+near+39.836009%2C-84.824317"
-    },
-    {
-      "name": "Marathon",
-      "distance": "1.0 mi",
-      "url": "https://www.google.com/maps/search/Marathon+near+39.836009%2C-84.824317"
     }
   ]
 }

@@ -29,16 +29,6 @@
       "name": "Mr. Takeout",
       "distance": "1.3 mi",
       "url": "https://www.google.com/maps/search/?api=1&query=Mr.%20Takeout&query_place_id=ChIJCRdQRysG44kRiEOHlqFGF6w&center=42.6737347,-71.14363"
-    },
-    {
-      "name": "Wendy's",
-      "distance": "2.1 mi",
-      "url": "https://www.google.com/maps/search/?api=1&query=Wendy's&query_place_id=ChIJCYMNdMoH44kRLxEqbF9XoZA&center=42.689071999999996,-71.1487363"
-    },
-    {
-      "name": "Taco Bell",
-      "distance": "2.1 mi",
-      "url": "https://www.google.com/maps/search/?api=1&query=Taco%20Bell&query_place_id=ChIJjSUNccoH44kRIulJvyxY7XY&center=42.6893296,-71.1489991"
     }
   ],
   "coffee": [
@@ -66,24 +56,9 @@
       "name": "Dunkin'",
       "distance": "0.7 mi",
       "url": "https://www.google.com/maps/search/?api=1&query=Dunkin'&query_place_id=ChIJF1LAoqgI44kRip2l7rjO2g4&center=42.661096799999996,-71.1103601"
-    },
-    {
-      "name": "McDonald's",
-      "distance": "1.3 mi",
-      "url": "https://www.google.com/maps/search/?api=1&query=McDonald's&query_place_id=ChIJX325f30I44kRY_ksbHBtuMk&center=42.663241,-71.1446768"
-    },
-    {
-      "name": "McDonald's",
-      "distance": "2.2 mi",
-      "url": "https://www.google.com/maps/search/?api=1&query=McDonald's&query_place_id=ChIJa4y0LmcG44kRazTjs1FCU34&center=42.700015,-71.1186491"
     }
   ],
   "team_lunch": [
-    {
-      "name": "Creators' Kitchen as Seen on TikTok",
-      "distance": "0.5 mi",
-      "url": "https://www.google.com/maps/search/?api=1&query=Creators'%20Kitchen%20as%20Seen%20on%20TikTok&query_place_id=ChIJYZp04xIH44kRHf7m534tAc4&center=42.674015,-71.1262661"
-    },
     {
       "name": "Pardon My Cheesesteak",
       "distance": "0.5 mi",
@@ -113,11 +88,6 @@
       "name": "Whole Foods Bakery",
       "distance": "1.3 mi",
       "url": "https://www.google.com/maps/search/?api=1&query=Whole%20Foods%20Bakery&query_place_id=ChIJW_FdDAAJ44kRe4cW2AU4T2w&center=42.6608654,-71.1444894"
-    },
-    {
-      "name": "Peach farm",
-      "distance": "2.2 mi",
-      "url": "https://www.google.com/maps/search/?api=1&query=Peach%20farm&query_place_id=ChIJmxnTJQAP44kRjYkrr8AZFVo&center=42.648887699999996,-71.0863778"
     }
   ],
   "dinner": [

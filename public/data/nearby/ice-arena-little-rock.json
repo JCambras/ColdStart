@@ -29,11 +29,6 @@
       "name": "Taco Bell",
       "distance": "0.5 mi",
       "url": "https://www.google.com/maps/search/Taco%20Bell+near+34.7419392%2C-92.40691369999999"
-    },
-    {
-      "name": "Freddy's Frozen Custard & Steakburgers",
-      "distance": "0.5 mi",
-      "url": "https://www.google.com/maps/search/Freddy's%20Frozen%20Custard%20%26%20Steakburgers+near+34.7419392%2C-92.40691369999999"
     }
   ],
   "coffee": [
@@ -41,11 +36,6 @@
       "name": "Sugar Llamas - Little Rock",
       "distance": "0.2 mi",
       "url": "https://www.google.com/maps/search/Sugar%20Llamas%20-%20Little%20Rock+near+34.7419392%2C-92.40691369999999"
-    },
-    {
-      "name": "Sam's Club Cafe",
-      "distance": "0.4 mi",
-      "url": "https://www.google.com/maps/search/Sam's%20Club%20Cafe+near+34.7419392%2C-92.40691369999999"
     }
   ],
   "team_lunch": [
@@ -87,11 +77,6 @@
       "url": "https://www.google.com/maps/search/Larry's%20Pizza%20of%20LR+near+34.7419392%2C-92.40691369999999"
     },
     {
-      "name": "Sam's Club Bakery",
-      "distance": "0.4 mi",
-      "url": "https://www.google.com/maps/search/Sam's%20Club%20Bakery+near+34.7419392%2C-92.40691369999999"
-    },
-    {
       "name": "Kobe Japanese Steakhouse & Sushi",
       "distance": "0.4 mi",
       "url": "https://www.google.com/maps/search/Kobe%20Japanese%20Steakhouse%20%26%20Sushi+near+34.7419392%2C-92.40691369999999"
@@ -100,11 +85,6 @@
       "name": "Lennys Grill & Subs",
       "distance": "0.4 mi",
       "url": "https://www.google.com/maps/search/Lennys%20Grill%20%26%20Subs+near+34.7419392%2C-92.40691369999999"
-    },
-    {
-      "name": "Walmart Bakery",
-      "distance": "0.5 mi",
-      "url": "https://www.google.com/maps/search/Walmart%20Bakery+near+34.7419392%2C-92.40691369999999"
     }
   ],
   "bowling": [
@@ -154,25 +134,9 @@
       "distance": "4.5 mi",
       "url": "https://www.google.com/maps/search/MasterMind%20Escape%20The%20Room%20Game+near+34.7419392%2C-92.40691369999999",
       "isFar": true
-    },
-    {
-      "name": "Big Rock Mini Golf & Fun Park",
-      "distance": "5.0 mi",
-      "url": "https://www.google.com/maps/search/Big%20Rock%20Mini%20Golf%20%26%20Fun%20Park+near+34.7419392%2C-92.40691369999999",
-      "isFar": true
     }
   ],
   "hotels": [
-    {
-      "name": "Gorgeous Townhouse West Little Rock",
-      "distance": "0.2 mi",
-      "url": "https://www.google.com/maps/search/Gorgeous%20Townhouse%20West%20Little%20Rock+near+34.7419392%2C-92.40691369999999"
-    },
-    {
-      "name": "Gorgeous Townhouse West Little Rock",
-      "distance": "0.2 mi",
-      "url": "https://www.google.com/maps/search/Gorgeous%20Townhouse%20West%20Little%20Rock+near+34.7419392%2C-92.40691369999999"
-    },
     {
       "name": "Beautiful Townhome Close To EVERYTHING (Pool Table /Arcade)",
       "distance": "0.4 mi",
@@ -192,11 +156,6 @@
       "name": "Embassy Suites by Hilton Little Rock",
       "distance": "0.5 mi",
       "url": "https://www.google.com/maps/search/Embassy%20Suites%20by%20Hilton%20Little%20Rock+near+34.7419392%2C-92.40691369999999"
-    },
-    {
-      "name": "Relaxing 2-bedroom home in the heart of West Little Rock with a hot tub.",
-      "distance": "0.5 mi",
-      "url": "https://www.google.com/maps/search/Relaxing%202-bedroom%20home%20in%20the%20heart%20of%20West%20Little%20Rock%20with%20a%20hot%20tub.+near+34.7419392%2C-92.40691369999999"
     }
   ],
   "gas": [
@@ -219,11 +178,6 @@
       "name": "Rainmaker Automatic",
       "distance": "0.8 mi",
       "url": "https://www.google.com/maps/search/Rainmaker%20Automatic+near+34.7419392%2C-92.40691369999999"
-    },
-    {
-      "name": "Shell",
-      "distance": "0.9 mi",
-      "url": "https://www.google.com/maps/search/Shell+near+34.7419392%2C-92.40691369999999"
     }
   ]
 }

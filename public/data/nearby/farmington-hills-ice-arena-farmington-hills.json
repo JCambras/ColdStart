@@ -29,21 +29,6 @@
       "name": "Taco Bell",
       "distance": "1.1 mi",
       "url": "https://www.google.com/maps/search/?api=1&query=Taco%20Bell&query_place_id=ChIJ6XWBLHyxJIgR4vn1nnD8nkU&center=42.4401368,-83.3737538"
-    },
-    {
-      "name": "Jimmy John's",
-      "distance": "1.2 mi",
-      "url": "https://www.google.com/maps/search/?api=1&query=Jimmy%20John's&query_place_id=ChIJZ7efLXyxJIgRUb1eNEs_1EQ&center=42.4401535,-83.3733377"
-    },
-    {
-      "name": "Savvy Sliders Farmington",
-      "distance": "1.4 mi",
-      "url": "https://www.google.com/maps/search/?api=1&query=Savvy%20Sliders%20Farmington&query_place_id=ChIJtx0PIyqxJIgRDtB6fcSuEmY&center=42.455469199999996,-83.37546789999999"
-    },
-    {
-      "name": "Subway",
-      "distance": "1.9 mi",
-      "url": "https://www.google.com/maps/search/?api=1&query=Subway&query_place_id=ChIJD40Zr7CxJIgRBZKPLF8HYV8&center=42.4681948,-83.3947608"
     }
   ],
   "coffee": [
@@ -56,11 +41,6 @@
       "name": "Dunkin'",
       "distance": "1.1 mi",
       "url": "https://www.google.com/maps/search/?api=1&query=Dunkin'&query_place_id=ChIJpaa0v36xJIgR7llBfA5u5CA&center=42.4418563,-83.37493909999999"
-    },
-    {
-      "name": "McDonald's",
-      "distance": "1.4 mi",
-      "url": "https://www.google.com/maps/search/?api=1&query=McDonald's&query_place_id=ChIJgXxugc2zJIgRc4M52nGn4uQ&center=42.4281803,-83.3757413"
     },
     {
       "name": "Cannelle Farmington",
@@ -98,11 +78,6 @@
       "name": "Sweet Timez Indian Sweets & Bakery",
       "distance": "1.9 mi",
       "url": "https://www.google.com/maps/search/?api=1&query=Sweet%20Timez%20Indian%20Sweets%20%26%20Bakery&query_place_id=ChIJ3_3bVIyxJIgRnYtvzopV3ko&center=42.468305,-83.3903806"
-    },
-    {
-      "name": "Kadence Townsend",
-      "distance": "1.9 mi",
-      "url": "https://www.google.com/maps/search/?api=1&query=Kadence%20Townsend&query_place_id=ChIJPXmPMgCxJIgRtpLyz6BNJ-I&center=42.464479499999996,-83.37632180000001"
     }
   ],
   "dinner": [
@@ -110,11 +85,6 @@
       "name": "Wing Snob",
       "distance": "0.7 mi",
       "url": "https://www.google.com/maps/search/Wing%20Snob+near+42.441077899999996%2C-83.3960297"
-    },
-    {
-      "name": "Kroger Bakery",
-      "distance": "0.7 mi",
-      "url": "https://www.google.com/maps/search/Kroger%20Bakery+near+42.441077899999996%2C-83.3960297"
     },
     {
       "name": "Kroger Bakery",
@@ -130,11 +100,6 @@
       "name": "Pita Way - Livonia on 8 mile",
       "distance": "0.9 mi",
       "url": "https://www.google.com/maps/search/Pita%20Way%20-%20Livonia%20on%208%20mile+near+42.441077899999996%2C-83.3960297"
-    },
-    {
-      "name": "Elite Sweets",
-      "distance": "1.0 mi",
-      "url": "https://www.google.com/maps/search/Elite%20Sweets+near+42.441077899999996%2C-83.3960297"
     },
     {
       "name": "Elite Sweets",
@@ -176,11 +141,6 @@
       "name": "Phoenix Theatres Laurel Park Place",
       "distance": "2.1 mi",
       "url": "https://www.google.com/maps/search/Phoenix%20Theatres%20Laurel%20Park%20Place+near+42.441077899999996%2C-83.3960297"
-    },
-    {
-      "name": "The Riviera Cinema",
-      "distance": "2.8 mi",
-      "url": "https://www.google.com/maps/search/The%20Riviera%20Cinema+near+42.441077899999996%2C-83.3960297"
     }
   ],
   "fun": [
@@ -195,24 +155,9 @@
       "url": "https://www.google.com/maps/search/Escape%20Room%20Zone+near+42.441077899999996%2C-83.3960297"
     },
     {
-      "name": "Escape Room Zone",
-      "distance": "2.3 mi",
-      "url": "https://www.google.com/maps/search/Escape%20Room%20Zone+near+42.441077899999996%2C-83.3960297"
-    },
-    {
       "name": "Rage Room Farmington",
       "distance": "2.3 mi",
       "url": "https://www.google.com/maps/search/Rage%20Room%20Farmington+near+42.441077899999996%2C-83.3960297"
-    },
-    {
-      "name": "Rage Room Farmington",
-      "distance": "2.3 mi",
-      "url": "https://www.google.com/maps/search/Rage%20Room%20Farmington+near+42.441077899999996%2C-83.3960297"
-    },
-    {
-      "name": "Zap Zone",
-      "distance": "2.3 mi",
-      "url": "https://www.google.com/maps/search/Zap%20Zone+near+42.441077899999996%2C-83.3960297"
     },
     {
       "name": "Zap Zone",
@@ -222,19 +167,9 @@
   ],
   "hotels": [
     {
-      "name": "Livonia Vacation Rental about 23 Mi to Detroit! - Holiday Home",
-      "distance": "0.8 mi",
-      "url": "https://www.google.com/maps/search/Livonia%20Vacation%20Rental%20about%2023%20Mi%20to%20Detroit!%20-%20Holiday%20Home+near+42.441077899999996%2C-83.3960297"
-    },
-    {
       "name": "Completely Renovated Escape ~ 1 Mile to Downtown!",
       "distance": "0.9 mi",
       "url": "https://www.google.com/maps/search/Completely%20Renovated%20Escape%20~%201%20Mile%20to%20Downtown!+near+42.441077899999996%2C-83.3960297"
-    },
-    {
-      "name": "Completely Renovated Escape about 1 Mile to Downtown! - Vacation Home",
-      "distance": "0.9 mi",
-      "url": "https://www.google.com/maps/search/Completely%20Renovated%20Escape%20about%201%20Mile%20to%20Downtown!%20-%20Vacation%20Home+near+42.441077899999996%2C-83.3960297"
     },
     {
       "name": "Livonia Oasis with Private Hot Tub",
@@ -245,16 +180,6 @@
       "name": "Attainable Convenient Serenity in South East Michigan West Suburbs",
       "distance": "1.2 mi",
       "url": "https://www.google.com/maps/search/Attainable%20Convenient%20Serenity%20in%20South%20East%20Michigan%20West%20Suburbs+near+42.441077899999996%2C-83.3960297"
-    },
-    {
-      "name": "Chic 3-Bedrooms Haven Dream Home Farmington Hills",
-      "distance": "1.3 mi",
-      "url": "https://www.google.com/maps/search/Chic%203-Bedrooms%20Haven%20Dream%20Home%20Farmington%20Hills+near+42.441077899999996%2C-83.3960297"
-    },
-    {
-      "name": "Chic 3-Bedrooms Haven Dream Home Farmington Hills",
-      "distance": "1.4 mi",
-      "url": "https://www.google.com/maps/search/Chic%203-Bedrooms%20Haven%20Dream%20Home%20Farmington%20Hills+near+42.441077899999996%2C-83.3960297"
     }
   ],
   "gas": [
@@ -277,11 +202,6 @@
       "name": "Shell",
       "distance": "1.4 mi",
       "url": "https://www.google.com/maps/search/Shell+near+42.441077899999996%2C-83.3960297"
-    },
-    {
-      "name": "Amoco Gas and Convenience Store",
-      "distance": "1.4 mi",
-      "url": "https://www.google.com/maps/search/Amoco%20Gas%20and%20Convenience%20Store+near+42.441077899999996%2C-83.3960297"
     }
   ]
 }

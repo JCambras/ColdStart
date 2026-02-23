@@ -29,26 +29,6 @@
       "name": "Wendy's",
       "distance": "1.1 mi",
       "url": "https://www.google.com/maps/search/?api=1&query=Wendy's&query_place_id=ChIJk_VxUCVZNIgR5lFiFM3Wj_k&center=40.4474458,-80.15346199999999"
-    },
-    {
-      "name": "Jersey Mike's Subs",
-      "distance": "1.2 mi",
-      "url": "https://www.google.com/maps/search/?api=1&query=Jersey%20Mike's%20Subs&query_place_id=ChIJldbal8FZNIgRr8jPUZn_x4Q&center=40.4493581,-80.1599312"
-    },
-    {
-      "name": "Chick-fil-A",
-      "distance": "1.5 mi",
-      "url": "https://www.google.com/maps/search/?api=1&query=Chick-fil-A&query_place_id=ChIJd51DBeFYNIgRF6Zp63YbC_c&center=40.4535183,-80.15747139999999"
-    },
-    {
-      "name": "Five Guys",
-      "distance": "1.5 mi",
-      "url": "https://www.google.com/maps/search/?api=1&query=Five%20Guys&query_place_id=ChIJQVx6cEVZNIgRHuli5UIKHwo&center=40.4487264,-80.1748956"
-    },
-    {
-      "name": "Firehouse Subs Pointe At North Fayette",
-      "distance": "1.5 mi",
-      "url": "https://www.google.com/maps/search/?api=1&query=Firehouse%20Subs%20Pointe%20At%20North%20Fayette&query_place_id=ChIJo1IWZEVZNIgRRBUb75pwTyM&center=40.44887,-80.17481"
     }
   ],
   "coffee": [
@@ -63,19 +43,9 @@
       "url": "https://www.google.com/maps/search/?api=1&query=Starbucks%20Coffee%20Company&query_place_id=ChIJ3yEDmiNZNIgRpur2J8kPkKU&center=40.441539999999996,-80.15126"
     },
     {
-      "name": "McDonald's",
-      "distance": "1.1 mi",
-      "url": "https://www.google.com/maps/search/?api=1&query=McDonald's&query_place_id=ChIJYxB_cTBZNIgR6wGdZB6mGqY&center=40.4483167,-80.1555794"
-    },
-    {
       "name": "Peace, Love and Little Donuts of Robinson",
       "distance": "1.2 mi",
       "url": "https://www.google.com/maps/search/?api=1&query=Peace%2C%20Love%20and%20Little%20Donuts%20of%20Robinson&query_place_id=ChIJHXSD3SdZNIgRLbYNsFQf0Gk&center=40.446615699999995,-80.1440978"
-    },
-    {
-      "name": "McDonald's",
-      "distance": "1.5 mi",
-      "url": "https://www.google.com/maps/search/?api=1&query=McDonald's&query_place_id=ChIJRYMl8lX0NIgRD2Fw4Bg24sE&center=40.4492228,-80.1730923"
     }
   ],
   "team_lunch": [
@@ -100,11 +70,6 @@
       "url": "https://www.google.com/maps/search/?api=1&query=Fox's%20Pizza%20Den%20Robinson%20Twp.&query_place_id=ChIJe3I5-CZZNIgRNL8VYZ1rhy4&center=40.4439065,-80.1461905"
     },
     {
-      "name": "Walmart Bakery",
-      "distance": "1.5 mi",
-      "url": "https://www.google.com/maps/search/?api=1&query=Walmart%20Bakery&query_place_id=ChIJG9tT1lpZNIgRBpoftb47h6Y&center=40.447575,-80.1754305"
-    },
-    {
       "name": "Cinnabon",
       "distance": "1.5 mi",
       "url": "https://www.google.com/maps/search/?api=1&query=Cinnabon&query_place_id=ChIJw8b8sLFZNIgRIjzuGt4s3mY&center=40.4537872,-80.1571601"
@@ -113,11 +78,6 @@
       "name": "Charleys Cheesesteaks",
       "distance": "1.5 mi",
       "url": "https://www.google.com/maps/search/?api=1&query=Charleys%20Cheesesteaks&query_place_id=ChIJVVVVyTNZNIgRsvWBpb9oUZU&center=40.4537913,-80.1571623"
-    },
-    {
-      "name": "Auntie Anne's",
-      "distance": "1.6 mi",
-      "url": "https://www.google.com/maps/search/?api=1&query=Auntie%20Anne's&query_place_id=ChIJ4e97uzdZNIgRUzInQLFLPoM&center=40.4546217,-80.1569688"
     }
   ],
   "dinner": [

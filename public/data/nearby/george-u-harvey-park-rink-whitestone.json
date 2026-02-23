@@ -23,11 +23,6 @@
       "url": "https://www.google.com/maps/search/?api=1&query=Starbucks%20Coffee%20Company&query_place_id=ChIJ3x9eV6WKwokR_cY36CC8PWU&center=40.782019999999996,-73.82986"
     },
     {
-      "name": "McDonald's",
-      "distance": "0.4 mi",
-      "url": "https://www.google.com/maps/search/?api=1&query=McDonald's&query_place_id=ChIJ7S1NWKWKwokRwbNTb4T5Aro&center=40.7820137,-73.8299609"
-    },
-    {
       "name": "Dunkin'",
       "distance": "0.4 mi",
       "url": "https://www.google.com/maps/search/?api=1&query=Dunkin'&query_place_id=ChIJFQz7D7CKwokR54TwSl-8UNc&center=40.783671,-73.8317979"
@@ -46,16 +41,6 @@
       "name": "Starbucks drive thru",
       "distance": "0.5 mi",
       "url": "https://www.google.com/maps/search/?api=1&query=Starbucks%20drive%20thru&query_place_id=ChIJuRAYNQCLwokRL4DsrvfZL6Q&center=40.7877978,-73.8142105"
-    },
-    {
-      "name": "Duck Donuts",
-      "distance": "0.6 mi",
-      "url": "https://www.google.com/maps/search/?api=1&query=Duck%20Donuts&query_place_id=ChIJheFQUTCLwokRqGS4VrXMoGs&center=40.786739000000004,-73.8350386"
-    },
-    {
-      "name": "Paris Baguette",
-      "distance": "0.9 mi",
-      "url": "https://www.google.com/maps/search/?api=1&query=Paris%20Baguette&query_place_id=ChIJp2ylmB1gwokRbRrsiO1FyxU&center=40.7711417,-73.8269194"
     }
   ],
   "team_lunch": [

@@ -57,11 +57,6 @@
       "name": "La Cocina Vallarta",
       "distance": "0.5 mi",
       "url": "https://www.google.com/maps/search/La%20Cocina%20Vallarta+near+36.7735172%2C-119.8453189"
-    },
-    {
-      "name": "Tacos La Piedad",
-      "distance": "0.5 mi",
-      "url": "https://www.google.com/maps/search/Tacos%20La%20Piedad+near+36.7735172%2C-119.8453189"
     }
   ],
   "dinner": [
@@ -94,11 +89,6 @@
       "name": "El Taquin Mendoza",
       "distance": "0.2 mi",
       "url": "https://www.google.com/maps/search/El%20Taquin%20Mendoza+near+36.7735172%2C-119.8453189"
-    },
-    {
-      "name": "Guadalajara Restaurant",
-      "distance": "0.5 mi",
-      "url": "https://www.google.com/maps/search/Guadalajara%20Restaurant+near+36.7735172%2C-119.8453189"
     }
   ],
   "bowling": [
@@ -146,24 +136,6 @@
       "distance": "3.5 mi",
       "url": "https://www.google.com/maps/search/Rage%20Room%20Fresno+near+36.7735172%2C-119.8453189",
       "isFar": true
-    },
-    {
-      "name": "Splash Pad",
-      "distance": "3.6 mi",
-      "url": "https://www.google.com/maps/search/Splash%20Pad+near+36.7735172%2C-119.8453189",
-      "isFar": true
-    },
-    {
-      "name": "Island Waterpark",
-      "distance": "4.0 mi",
-      "url": "https://www.google.com/maps/search/Island%20Waterpark+near+36.7735172%2C-119.8453189",
-      "isFar": true
-    },
-    {
-      "name": "Syctron",
-      "distance": "4.4 mi",
-      "url": "https://www.google.com/maps/search/Syctron+near+36.7735172%2C-119.8453189",
-      "isFar": true
     }
   ],
   "hotels": [
@@ -178,29 +150,9 @@
       "url": "https://www.google.com/maps/search/Westwood%20villages+near+36.7735172%2C-119.8453189"
     },
     {
-      "name": "Westbrook Mobile Home Park",
-      "distance": "0.6 mi",
-      "url": "https://www.google.com/maps/search/Westbrook%20Mobile%20Home%20Park+near+36.7735172%2C-119.8453189"
-    },
-    {
       "name": "Midstate Mobile Manor",
       "distance": "0.6 mi",
       "url": "https://www.google.com/maps/search/Midstate%20Mobile%20Manor+near+36.7735172%2C-119.8453189"
-    },
-    {
-      "name": "Lovely 1bed/1bath condo with free parking",
-      "distance": "0.7 mi",
-      "url": "https://www.google.com/maps/search/Lovely%201bed%2F1bath%20condo%20with%20free%20parking+near+36.7735172%2C-119.8453189"
-    },
-    {
-      "name": "Green Acres Mobile Home Park",
-      "distance": "0.7 mi",
-      "url": "https://www.google.com/maps/search/Green%20Acres%20Mobile%20Home%20Park+near+36.7735172%2C-119.8453189"
-    },
-    {
-      "name": "Three Palms Mobile Home & RV Park",
-      "distance": "0.7 mi",
-      "url": "https://www.google.com/maps/search/Three%20Palms%20Mobile%20Home%20%26%20RV%20Park+near+36.7735172%2C-119.8453189"
     }
   ],
   "gas": [
@@ -223,11 +175,6 @@
       "name": "Beacon",
       "distance": "0.4 mi",
       "url": "https://www.google.com/maps/search/Beacon+near+36.7735172%2C-119.8453189"
-    },
-    {
-      "name": "Valero",
-      "distance": "0.4 mi",
-      "url": "https://www.google.com/maps/search/Valero+near+36.7735172%2C-119.8453189"
     }
   ]
 }

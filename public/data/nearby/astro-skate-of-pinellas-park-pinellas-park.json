@@ -28,11 +28,6 @@
   ],
   "coffee": [
     {
-      "name": "McDonald's",
-      "distance": "0.1 mi",
-      "url": "https://www.google.com/maps/search/McDonald's+near+27.863156900000003%2C-82.72806589999999"
-    },
-    {
       "name": "Z&R",
       "distance": "0.8 mi",
       "url": "https://www.google.com/maps/search/Z%26R+near+27.863156900000003%2C-82.72806589999999"
@@ -90,11 +85,6 @@
       "name": "Your Mothers Back Yard",
       "distance": "0.3 mi",
       "url": "https://www.google.com/maps/search/Your%20Mothers%20Back%20Yard+near+27.863156900000003%2C-82.72806589999999"
-    },
-    {
-      "name": "Natures Own Bakery",
-      "distance": "0.7 mi",
-      "url": "https://www.google.com/maps/search/Natures%20Own%20Bakery+near+27.863156900000003%2C-82.72806589999999"
     }
   ],
   "bowling": [
@@ -128,18 +118,6 @@
       "distance": "3.9 mi",
       "url": "https://www.google.com/maps/search/Regal%20Largo%20Mall+near+27.863156900000003%2C-82.72806589999999",
       "isFar": true
-    },
-    {
-      "name": "Studio Movie Grill - Seminole",
-      "distance": "4.1 mi",
-      "url": "https://www.google.com/maps/search/Studio%20Movie%20Grill%20-%20Seminole+near+27.863156900000003%2C-82.72806589999999",
-      "isFar": true
-    },
-    {
-      "name": "CMX Cinemas Tyrone",
-      "distance": "4.6 mi",
-      "url": "https://www.google.com/maps/search/CMX%20Cinemas%20Tyrone+near+27.863156900000003%2C-82.72806589999999",
-      "isFar": true
     }
   ],
   "fun": [
@@ -164,46 +142,13 @@
       "distance": "3.3 mi",
       "url": "https://www.google.com/maps/search/Escape%20Room%20Extreme+near+27.863156900000003%2C-82.72806589999999",
       "isFar": true
-    },
-    {
-      "name": "Catapult Adventure Park St. Pete",
-      "distance": "3.5 mi",
-      "url": "https://www.google.com/maps/search/Catapult%20Adventure%20Park%20St.%20Pete+near+27.863156900000003%2C-82.72806589999999",
-      "isFar": true
-    },
-    {
-      "name": "Treasure Island Fun Center",
-      "distance": "3.9 mi",
-      "url": "https://www.google.com/maps/search/Treasure%20Island%20Fun%20Center+near+27.863156900000003%2C-82.72806589999999",
-      "isFar": true
-    },
-    {
-      "name": "Escape FLA Escape Rooms",
-      "distance": "4.3 mi",
-      "url": "https://www.google.com/maps/search/Escape%20FLA%20Escape%20Rooms+near+27.863156900000003%2C-82.72806589999999",
-      "isFar": true
     }
   ],
   "hotels": [
     {
-      "name": "Tropical Palm Haven with Pool and Firepit - Vacation Home",
-      "distance": "0.1 mi",
-      "url": "https://www.google.com/maps/search/Tropical%20Palm%20Haven%20with%20Pool%20and%20Firepit%20-%20Vacation%20Home+near+27.863156900000003%2C-82.72806589999999"
-    },
-    {
-      "name": "Tropical Palm Haven w/ Pool & Firepit",
-      "distance": "0.1 mi",
-      "url": "https://www.google.com/maps/search/Tropical%20Palm%20Haven%20w%2F%20Pool%20%26%20Firepit+near+27.863156900000003%2C-82.72806589999999"
-    },
-    {
       "name": "New in Pinellas Park! Bikini Bottom",
       "distance": "0.1 mi",
       "url": "https://www.google.com/maps/search/New%20in%20Pinellas%20Park!%20Bikini%20Bottom+near+27.863156900000003%2C-82.72806589999999"
-    },
-    {
-      "name": "The Ranch Apartments",
-      "distance": "0.3 mi",
-      "url": "https://www.google.com/maps/search/The%20Ranch%20Apartments+near+27.863156900000003%2C-82.72806589999999"
     },
     {
       "name": "Park Royale",
@@ -214,11 +159,6 @@
       "name": "Clearwater Cascade Home Owners Association",
       "distance": "0.4 mi",
       "url": "https://www.google.com/maps/search/Clearwater%20Cascade%20Home%20Owners%20Association+near+27.863156900000003%2C-82.72806589999999"
-    },
-    {
-      "name": "Beach Villa Private Pool Fire Pit 6mi To Beach",
-      "distance": "0.4 mi",
-      "url": "https://www.google.com/maps/search/Beach%20Villa%20Private%20Pool%20Fire%20Pit%206mi%20To%20Beach+near+27.863156900000003%2C-82.72806589999999"
     }
   ],
   "gas": [
@@ -241,11 +181,6 @@
       "name": "7-Eleven",
       "distance": "1.1 mi",
       "url": "https://www.google.com/maps/search/7-Eleven+near+27.863156900000003%2C-82.72806589999999"
-    },
-    {
-      "name": "Exxon",
-      "distance": "1.1 mi",
-      "url": "https://www.google.com/maps/search/Exxon+near+27.863156900000003%2C-82.72806589999999"
     }
   ]
 }

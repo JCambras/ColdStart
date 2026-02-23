@@ -1,24 +1,9 @@
 {
   "quick_bite": [
     {
-      "name": "Chicken Kitchen",
-      "distance": "0.2 mi",
-      "url": "https://www.google.com/maps/search/Chicken%20Kitchen+near+26.0229015%2C-80.3140564"
-    },
-    {
       "name": "Jersey Mike's Subs",
       "distance": "0.3 mi",
       "url": "https://www.google.com/maps/search/Jersey%20Mike's%20Subs+near+26.0229015%2C-80.3140564"
-    },
-    {
-      "name": "RiceUp Asian Kitchen",
-      "distance": "0.4 mi",
-      "url": "https://www.google.com/maps/search/RiceUp%20Asian%20Kitchen+near+26.0229015%2C-80.3140564"
-    },
-    {
-      "name": "Modern Luxury Apartment Centrally Located in Southwest Ranches Hidden Gem!",
-      "distance": "0.6 mi",
-      "url": "https://www.google.com/maps/search/Modern%20Luxury%20Apartment%20Centrally%20Located%20in%20Southwest%20Ranches%20Hidden%20Gem!+near+26.0229015%2C-80.3140564"
     },
     {
       "name": "Cinemark Paradise 24 and XD",
@@ -95,11 +80,6 @@
       "name": "RoMo's Sweets and Treats, LLC",
       "distance": "0.3 mi",
       "url": "https://www.google.com/maps/search/RoMo's%20Sweets%20and%20Treats%2C%20LLC+near+26.0229015%2C-80.3140564"
-    },
-    {
-      "name": "John The Baker",
-      "distance": "0.3 mi",
-      "url": "https://www.google.com/maps/search/John%20The%20Baker+near+26.0229015%2C-80.3140564"
     }
   ],
   "bowling": [
@@ -137,12 +117,6 @@
       "name": "Regal Westfork",
       "distance": "2.9 mi",
       "url": "https://www.google.com/maps/search/Regal%20Westfork+near+26.0229015%2C-80.3140564"
-    },
-    {
-      "name": "JB Guitare & Mix",
-      "distance": "4.3 mi",
-      "url": "https://www.google.com/maps/search/JB%20Guitare%20%26%20Mix+near+26.0229015%2C-80.3140564",
-      "isFar": true
     }
   ],
   "fun": [
@@ -166,12 +140,6 @@
       "distance": "4.2 mi",
       "url": "https://www.google.com/maps/search/The%20Smashit%20House%20Rage%20Rooms-Davie+near+26.0229015%2C-80.3140564",
       "isFar": true
-    },
-    {
-      "name": "The Axe Hole House| Axe Throwing & Splatter Paint | Fort Lauderdale",
-      "distance": "4.2 mi",
-      "url": "https://www.google.com/maps/search/The%20Axe%20Hole%20House%7C%20Axe%20Throwing%20%26%20Splatter%20Paint%20%7C%20Fort%20Lauderdale+near+26.0229015%2C-80.3140564",
-      "isFar": true
     }
   ],
   "hotels": [
@@ -179,11 +147,6 @@
       "name": "Fp tech service LLC",
       "distance": "0.4 mi",
       "url": "https://www.google.com/maps/search/Fp%20tech%20service%20LLC+near+26.0229015%2C-80.3140564"
-    },
-    {
-      "name": "Cozy lakeside private suite with private bath and entrance",
-      "distance": "0.4 mi",
-      "url": "https://www.google.com/maps/search/Cozy%20lakeside%20private%20suite%20with%20private%20bath%20and%20entrance+near+26.0229015%2C-80.3140564"
     },
     {
       "name": "CB Smith #11",
@@ -199,16 +162,6 @@
       "name": "CB Smith County Campground",
       "distance": "0.6 mi",
       "url": "https://www.google.com/maps/search/CB%20Smith%20County%20Campground+near+26.0229015%2C-80.3140564"
-    },
-    {
-      "name": "Cozy lakeside suite with private bath entrance - Double Room with Lake View",
-      "distance": "0.6 mi",
-      "url": "https://www.google.com/maps/search/Cozy%20lakeside%20suite%20with%20private%20bath%20entrance%20-%20Double%20Room%20with%20Lake%20View+near+26.0229015%2C-80.3140564"
-    },
-    {
-      "name": "Deluxe 4BD Villa Paraiso w/ Heated Pool - Four-Bedroom House",
-      "distance": "0.6 mi",
-      "url": "https://www.google.com/maps/search/Deluxe%204BD%20Villa%20Paraiso%20w%2F%20Heated%20Pool%20-%20Four-Bedroom%20House+near+26.0229015%2C-80.3140564"
     }
   ],
   "gas": [
@@ -231,11 +184,6 @@
       "name": "Marathon Gas",
       "distance": "1.1 mi",
       "url": "https://www.google.com/maps/search/Marathon%20Gas+near+26.0229015%2C-80.3140564"
-    },
-    {
-      "name": "Mobil",
-      "distance": "1.2 mi",
-      "url": "https://www.google.com/maps/search/Mobil+near+26.0229015%2C-80.3140564"
     }
   ]
 }

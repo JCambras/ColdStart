@@ -23,11 +23,6 @@
       "url": "https://www.google.com/maps/search/Dunkin'+near+43.7199305%2C-70.2366444"
     },
     {
-      "name": "McDonald's",
-      "distance": "0.2 mi",
-      "url": "https://www.google.com/maps/search/McDonald's+near+43.7199305%2C-70.2366444"
-    },
-    {
       "name": "Mornings in Paris",
       "distance": "0.3 mi",
       "url": "https://www.google.com/maps/search/Mornings%20in%20Paris+near+43.7199305%2C-70.2366444"
@@ -44,11 +39,6 @@
     }
   ],
   "team_lunch": [
-    {
-      "name": "Nouria's Kitchen Featuring Amato's",
-      "distance": "0.4 mi",
-      "url": "https://www.google.com/maps/search/Nouria's%20Kitchen%20Featuring%20Amato's+near+43.7199305%2C-70.2366444"
-    },
     {
       "name": "Foreside Tavern & Side Bar",
       "distance": "0.6 mi",
@@ -85,11 +75,6 @@
       "name": "Foreside House of Pizza",
       "distance": "0.4 mi",
       "url": "https://www.google.com/maps/search/Foreside%20House%20of%20Pizza+near+43.7199305%2C-70.2366444"
-    },
-    {
-      "name": "Sicilian Table",
-      "distance": "0.4 mi",
-      "url": "https://www.google.com/maps/search/Sicilian%20Table+near+43.7199305%2C-70.2366444"
     }
   ],
   "bowling": [
@@ -124,12 +109,6 @@
       "distance": "4.6 mi",
       "url": "https://www.google.com/maps/search/SPACE%20Films+near+43.7199305%2C-70.2366444",
       "isFar": true
-    },
-    {
-      "name": "PMA Films",
-      "distance": "4.8 mi",
-      "url": "https://www.google.com/maps/search/PMA%20Films+near+43.7199305%2C-70.2366444",
-      "isFar": true
     }
   ],
   "fun": [
@@ -142,39 +121,9 @@
   ],
   "hotels": [
     {
-      "name": "Historic, Antique Southern Maine Farmhouse For All Seasons - 5 mins to Portland!",
-      "distance": "0.3 mi",
-      "url": "https://www.google.com/maps/search/Historic%2C%20Antique%20Southern%20Maine%20Farmhouse%20For%20All%20Seasons%20-%205%20mins%20to%20Portland!+near+43.7199305%2C-70.2366444"
-    },
-    {
       "name": "Wild Rose Farm Bed and Breakfast",
       "distance": "0.5 mi",
       "url": "https://www.google.com/maps/search/Wild%20Rose%20Farm%20Bed%20and%20Breakfast+near+43.7199305%2C-70.2366444"
-    },
-    {
-      "name": "Oceanfront Luxury Modern Home - Heated Pool & Hot Tub - Minutes to Old Port",
-      "distance": "0.6 mi",
-      "url": "https://www.google.com/maps/search/Oceanfront%20Luxury%20Modern%20Home%20-%20Heated%20Pool%20%26%20Hot%20Tub%20-%20Minutes%20to%20Old%20Port+near+43.7199305%2C-70.2366444"
-    },
-    {
-      "name": "Oceanfront Luxury Modern Home with Pool & Hot Tub",
-      "distance": "0.6 mi",
-      "url": "https://www.google.com/maps/search/Oceanfront%20Luxury%20Modern%20Home%20with%20Pool%20%26%20Hot%20Tub+near+43.7199305%2C-70.2366444"
-    },
-    {
-      "name": "Oceanfront Luxury Modern Home - Heated Pool Hot Tub - Minutes to Old Port",
-      "distance": "0.6 mi",
-      "url": "https://www.google.com/maps/search/Oceanfront%20Luxury%20Modern%20Home%20-%20Heated%20Pool%20Hot%20Tub%20-%20Minutes%20to%20Old%20Port+near+43.7199305%2C-70.2366444"
-    },
-    {
-      "name": "Beautiful Falmouth Condo w/ Patio: Near Portland!",
-      "distance": "0.7 mi",
-      "url": "https://www.google.com/maps/search/Beautiful%20Falmouth%20Condo%20w%2F%20Patio%3A%20Near%20Portland!+near+43.7199305%2C-70.2366444"
-    },
-    {
-      "name": "Beautiful Falmouth Condo with Patio Near Portland! - Apartment",
-      "distance": "0.7 mi",
-      "url": "https://www.google.com/maps/search/Beautiful%20Falmouth%20Condo%20with%20Patio%20Near%20Portland!%20-%20Apartment+near+43.7199305%2C-70.2366444"
     }
   ],
   "gas": [
@@ -196,11 +145,6 @@
     {
       "name": "Irving Oil",
       "distance": "0.4 mi",
-      "url": "https://www.google.com/maps/search/Irving%20Oil+near+43.7199305%2C-70.2366444"
-    },
-    {
-      "name": "Irving Oil",
-      "distance": "0.5 mi",
       "url": "https://www.google.com/maps/search/Irving%20Oil+near+43.7199305%2C-70.2366444"
     }
   ]

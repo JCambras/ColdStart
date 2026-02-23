@@ -29,26 +29,6 @@
       "name": "Jimmy John's",
       "distance": "0.4 mi",
       "url": "https://www.google.com/maps/search/?api=1&query=Jimmy%20John's&query_place_id=ChIJ8XChotasJIgR8yZrValrMyc&center=42.3705974,-83.4684269"
-    },
-    {
-      "name": "Subway",
-      "distance": "0.5 mi",
-      "url": "https://www.google.com/maps/search/?api=1&query=Subway&query_place_id=ChIJE9884NOsJIgRUqL2LKhaGaQ&center=42.3702154,-83.4709052"
-    },
-    {
-      "name": "Savvy Sliders",
-      "distance": "1.2 mi",
-      "url": "https://www.google.com/maps/search/?api=1&query=Savvy%20Sliders&query_place_id=ChIJ-3wPmFZTO4gRpUlktI8qjBU&center=42.3592228,-83.4659463"
-    },
-    {
-      "name": "Arby's",
-      "distance": "1.3 mi",
-      "url": "https://www.google.com/maps/search/?api=1&query=Arby's&query_place_id=ChIJu5yHqClTO4gRxWjHdhMJf80&center=42.35845200000001,-83.46682419999999"
-    },
-    {
-      "name": "Taco Bell",
-      "distance": "1.3 mi",
-      "url": "https://www.google.com/maps/search/?api=1&query=Taco%20Bell&query_place_id=ChIJa5fii9ZSO4gRXt1mijnyzHs&center=42.3585954,-83.4615417"
     }
   ],
   "coffee": [
@@ -73,27 +53,12 @@
       "url": "https://www.google.com/maps/search/?api=1&query=Bakehouse%2046&query_place_id=ChIJY5MDr9asJIgRDHp231PK8lg&center=42.3705983,-83.4693482"
     },
     {
-      "name": "McDonald's",
-      "distance": "1.2 mi",
-      "url": "https://www.google.com/maps/search/?api=1&query=McDonald's&query_place_id=ChIJn42AidZSO4gRORAnmWtVS0Y&center=42.359415999999996,-83.4624937"
-    },
-    {
       "name": "Einstein Bros. Bagels",
       "distance": "1.2 mi",
       "url": "https://www.google.com/maps/search/?api=1&query=Einstein%20Bros.%20Bagels&query_place_id=ChIJMZlxnilTO4gR4rnJw8b6IFw&center=42.3592148,-83.46686969999999"
-    },
-    {
-      "name": "Einstein Bros. Bagels",
-      "distance": "1.4 mi",
-      "url": "https://www.google.com/maps/search/?api=1&query=Einstein%20Bros.%20Bagels&query_place_id=ChIJP-CTyO2sJIgRd5F15Krib0k&center=42.393415399999995,-83.4830769"
     }
   ],
   "team_lunch": [
-    {
-      "name": "The Simple Kitchen",
-      "distance": "0.2 mi",
-      "url": "https://www.google.com/maps/search/?api=1&query=The%20Simple%20Kitchen&query_place_id=ChIJVVWF_ixTO4gR0bsMnYLg4SM&center=42.373885099999995,-83.46727779999999"
-    },
     {
       "name": "Gingie's",
       "distance": "0.9 mi",
@@ -130,11 +95,6 @@
       "name": "Red Ryder",
       "distance": "0.2 mi",
       "url": "https://www.google.com/maps/search/Red%20Ryder+near+42.3768779%2C-83.46611299999999"
-    },
-    {
-      "name": "Hermanns Olde Town Grille",
-      "distance": "0.3 mi",
-      "url": "https://www.google.com/maps/search/Hermanns%20Olde%20Town%20Grille+near+42.3768779%2C-83.46611299999999"
     }
   ],
   "bowling": [
@@ -152,18 +112,6 @@
       "name": "Super Bowl",
       "distance": "3.8 mi",
       "url": "https://www.google.com/maps/search/Super%20Bowl+near+42.3768779%2C-83.46611299999999",
-      "isFar": true
-    },
-    {
-      "name": "Vision Lanes",
-      "distance": "4.4 mi",
-      "url": "https://www.google.com/maps/search/Vision%20Lanes+near+42.3768779%2C-83.46611299999999",
-      "isFar": true
-    },
-    {
-      "name": "Hamtramck Singles Classic",
-      "distance": "4.4 mi",
-      "url": "https://www.google.com/maps/search/Hamtramck%20Singles%20Classic+near+42.3768779%2C-83.46611299999999",
       "isFar": true
     }
   ],
@@ -183,18 +131,6 @@
       "name": "Phoenix Theatres Laurel Park Place",
       "distance": "3.6 mi",
       "url": "https://www.google.com/maps/search/Phoenix%20Theatres%20Laurel%20Park%20Place+near+42.3768779%2C-83.46611299999999",
-      "isFar": true
-    },
-    {
-      "name": "AMC Livonia 20",
-      "distance": "4.0 mi",
-      "url": "https://www.google.com/maps/search/AMC%20Livonia%2020+near+42.3768779%2C-83.46611299999999",
-      "isFar": true
-    },
-    {
-      "name": "Emagine Canton",
-      "distance": "4.3 mi",
-      "url": "https://www.google.com/maps/search/Emagine%20Canton+near+42.3768779%2C-83.46611299999999",
       "isFar": true
     }
   ],
@@ -222,61 +158,13 @@
       "distance": "4.3 mi",
       "url": "https://www.google.com/maps/search/Sportway%20of%20Westland+near+42.3768779%2C-83.46611299999999",
       "isFar": true
-    },
-    {
-      "name": "Ninja Kidz Action Park (Previously Airtime)",
-      "distance": "4.3 mi",
-      "url": "https://www.google.com/maps/search/Ninja%20Kidz%20Action%20Park%20(Previously%20Airtime)+near+42.3768779%2C-83.46611299999999",
-      "isFar": true
-    },
-    {
-      "name": "Knockerball Michigan",
-      "distance": "4.5 mi",
-      "url": "https://www.google.com/maps/search/Knockerball%20Michigan+near+42.3768779%2C-83.46611299999999",
-      "isFar": true
-    },
-    {
-      "name": "FUNBOX WESTLAND",
-      "distance": "4.7 mi",
-      "url": "https://www.google.com/maps/search/FUNBOX%20WESTLAND+near+42.3768779%2C-83.46611299999999",
-      "isFar": true
     }
   ],
   "hotels": [
     {
-      "name": "Plymouth 1BR ideal for Corporate stays.",
-      "distance": "0.1 mi",
-      "url": "https://www.google.com/maps/search/Plymouth%201BR%20ideal%20for%20Corporate%20stays.+near+42.3768779%2C-83.46611299999999"
-    },
-    {
-      "name": "Charming 2-bedroom house in tranquil Plymouth neighborhood",
-      "distance": "0.1 mi",
-      "url": "https://www.google.com/maps/search/Charming%202-bedroom%20house%20in%20tranquil%20Plymouth%20neighborhood+near+42.3768779%2C-83.46611299999999"
-    },
-    {
-      "name": "★3min To Kellogg Park★1BR★ Plymouth ★ Parking★W /D★",
-      "distance": "0.2 mi",
-      "url": "https://www.google.com/maps/search/%E2%98%853min%20To%20Kellogg%20Park%E2%98%851BR%E2%98%85%20Plymouth%20%E2%98%85%20Parking%E2%98%85W%20%2FD%E2%98%85+near+42.3768779%2C-83.46611299999999"
-    },
-    {
-      "name": "Charming 2-bedroom house in tranquil Plymouth neighborhood",
-      "distance": "0.2 mi",
-      "url": "https://www.google.com/maps/search/Charming%202-bedroom%20house%20in%20tranquil%20Plymouth%20neighborhood+near+42.3768779%2C-83.46611299999999"
-    },
-    {
       "name": "Dog-friendly, historical home with cookout-ready backyard, home office, AC W /D",
       "distance": "0.2 mi",
       "url": "https://www.google.com/maps/search/Dog-friendly%2C%20historical%20home%20with%20cookout-ready%20backyard%2C%20home%20office%2C%20AC%20W%20%2FD+near+42.3768779%2C-83.46611299999999"
-    },
-    {
-      "name": "Dog-Friendly, historical 3BR with Yard and office - Three-Bedroom House",
-      "distance": "0.2 mi",
-      "url": "https://www.google.com/maps/search/Dog-Friendly%2C%20historical%203BR%20with%20Yard%20and%20office%20-%20Three-Bedroom%20House+near+42.3768779%2C-83.46611299999999"
-    },
-    {
-      "name": "Dog-Friendly, historical 3BR w/ Yard & office",
-      "distance": "0.2 mi",
-      "url": "https://www.google.com/maps/search/Dog-Friendly%2C%20historical%203BR%20w%2F%20Yard%20%26%20office+near+42.3768779%2C-83.46611299999999"
     }
   ],
   "gas": [
@@ -299,11 +187,6 @@
       "name": "WAY STATION",
       "distance": "0.9 mi",
       "url": "https://www.google.com/maps/search/WAY%20STATION+near+42.3768779%2C-83.46611299999999"
-    },
-    {
-      "name": "Bazzy Enterprises",
-      "distance": "1.0 mi",
-      "url": "https://www.google.com/maps/search/Bazzy%20Enterprises+near+42.3768779%2C-83.46611299999999"
     }
   ]
 }

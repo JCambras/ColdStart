@@ -18,11 +18,6 @@
   ],
   "coffee": [
     {
-      "name": "McDonald's",
-      "distance": "0.2 mi",
-      "url": "https://www.google.com/maps/search/McDonald's+near+38.3530294%2C-121.9813851"
-    },
-    {
       "name": "Starbucks Coffee Company",
       "distance": "0.3 mi",
       "url": "https://www.google.com/maps/search/Starbucks%20Coffee%20Company+near+38.3530294%2C-121.9813851"
@@ -36,11 +31,6 @@
       "name": "Dutch Bros Coffee",
       "distance": "0.3 mi",
       "url": "https://www.google.com/maps/search/Dutch%20Bros%20Coffee+near+38.3530294%2C-121.9813851"
-    },
-    {
-      "name": "Starbucks Coffee Company",
-      "distance": "0.3 mi",
-      "url": "https://www.google.com/maps/search/Starbucks%20Coffee%20Company+near+38.3530294%2C-121.9813851"
     }
   ],
   "team_lunch": [
@@ -71,11 +61,6 @@
     }
   ],
   "dinner": [
-    {
-      "name": "Costco Bakery",
-      "distance": "0.1 mi",
-      "url": "https://www.google.com/maps/search/Costco%20Bakery+near+38.3530294%2C-121.9813851"
-    },
     {
       "name": "Azteca Vacaville",
       "distance": "0.1 mi",
@@ -160,24 +145,9 @@
       "url": "https://www.google.com/maps/search/Marriot+near+38.3530294%2C-121.9813851"
     },
     {
-      "name": "Accommodation Suite",
-      "distance": "0.4 mi",
-      "url": "https://www.google.com/maps/search/Accommodation%20Suite+near+38.3530294%2C-121.9813851"
-    },
-    {
-      "name": "Creekside Mobile Home Park",
-      "distance": "0.5 mi",
-      "url": "https://www.google.com/maps/search/Creekside%20Mobile%20Home%20Park+near+38.3530294%2C-121.9813851"
-    },
-    {
       "name": "Spectacular hideaway in heart of historic Vacaville.",
       "distance": "0.6 mi",
       "url": "https://www.google.com/maps/search/Spectacular%20hideaway%20in%20heart%20of%20historic%20Vacaville.+near+38.3530294%2C-121.9813851"
-    },
-    {
-      "name": "Downtown Vacaville 1 bedroom 1 bath Guest House",
-      "distance": "0.7 mi",
-      "url": "https://www.google.com/maps/search/Downtown%20Vacaville%201%20bedroom%201%20bath%20Guest%20House+near+38.3530294%2C-121.9813851"
     }
   ],
   "gas": [
@@ -200,11 +170,6 @@
       "name": "Costco Gas Station",
       "distance": "0.1 mi",
       "url": "https://www.google.com/maps/search/Costco%20Gas%20Station+near+38.3530294%2C-121.9813851"
-    },
-    {
-      "name": "Chevron",
-      "distance": "0.2 mi",
-      "url": "https://www.google.com/maps/search/Chevron+near+38.3530294%2C-121.9813851"
     }
   ]
 }

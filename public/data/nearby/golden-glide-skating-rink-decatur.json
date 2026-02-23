@@ -16,22 +16,12 @@
       "url": "https://www.google.com/maps/search/Jr%20Breakfast%20Togo+near+33.7077883%2C-84.2156471"
     },
     {
-      "name": "Popeyes Louisiana Kitchen",
-      "distance": "0.2 mi",
-      "url": "https://www.google.com/maps/search/Popeyes%20Louisiana%20Kitchen+near+33.7077883%2C-84.2156471"
-    },
-    {
       "name": "Waffle House",
       "distance": "0.4 mi",
       "url": "https://www.google.com/maps/search/Waffle%20House+near+33.7077883%2C-84.2156471"
     }
   ],
   "coffee": [
-    {
-      "name": "McDonald's",
-      "distance": "0.2 mi",
-      "url": "https://www.google.com/maps/search/McDonald's+near+33.7077883%2C-84.2156471"
-    },
     {
       "name": "Dunkin'",
       "distance": "0.4 mi",
@@ -73,11 +63,6 @@
       "name": "Capers Decatur Deli",
       "distance": "0.4 mi",
       "url": "https://www.google.com/maps/search/Capers%20Decatur%20Deli+near+33.7077883%2C-84.2156471"
-    },
-    {
-      "name": "Chewron",
-      "distance": "0.4 mi",
-      "url": "https://www.google.com/maps/search/Chewron+near+33.7077883%2C-84.2156471"
     }
   ],
   "dinner": [
@@ -129,18 +114,6 @@
       "distance": "7.8 mi",
       "url": "https://www.google.com/maps/search/AMC+near+33.7077883%2C-84.2156471",
       "isFar": true
-    },
-    {
-      "name": "Fernbank 3D Theater",
-      "distance": "7.9 mi",
-      "url": "https://www.google.com/maps/search/Fernbank%203D%20Theater+near+33.7077883%2C-84.2156471",
-      "isFar": true
-    },
-    {
-      "name": "The 4-D Experience Theater",
-      "distance": "8.2 mi",
-      "url": "https://www.google.com/maps/search/The%204-D%20Experience%20Theater+near+33.7077883%2C-84.2156471",
-      "isFar": true
     }
   ],
   "fun": [
@@ -186,19 +159,9 @@
       "url": "https://www.google.com/maps/search/1st%20Place%20at%20Wesley%20Hotel+near+33.7077883%2C-84.2156471"
     },
     {
-      "name": "Easy ATL Access Suburban Home Base with Patio - Vacation Home",
-      "distance": "0.5 mi",
-      "url": "https://www.google.com/maps/search/Easy%20ATL%20Access%20Suburban%20Home%20Base%20with%20Patio%20-%20Vacation%20Home+near+33.7077883%2C-84.2156471"
-    },
-    {
       "name": "Easy ATL Access: Suburban Home Base w/ Patio",
       "distance": "0.5 mi",
       "url": "https://www.google.com/maps/search/Easy%20ATL%20Access%3A%20Suburban%20Home%20Base%20w%2F%20Patio+near+33.7077883%2C-84.2156471"
-    },
-    {
-      "name": "Cozy Coffee Home Mins from East Atlanta",
-      "distance": "0.5 mi",
-      "url": "https://www.google.com/maps/search/Cozy%20Coffee%20Home%20Mins%20from%20East%20Atlanta+near+33.7077883%2C-84.2156471"
     },
     {
       "name": "4 Bed /3 Bath Decatur, GA Family Friendly Near I-20 I-285",
@@ -226,11 +189,6 @@
       "name": "Shell",
       "distance": "0.2 mi",
       "url": "https://www.google.com/maps/search/Shell+near+33.7077883%2C-84.2156471"
-    },
-    {
-      "name": "Kroger Fuel Center",
-      "distance": "0.6 mi",
-      "url": "https://www.google.com/maps/search/Kroger%20Fuel%20Center+near+33.7077883%2C-84.2156471"
     }
   ]
 }

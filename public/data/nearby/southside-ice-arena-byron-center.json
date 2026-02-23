@@ -32,30 +32,6 @@
       "distance": "3.3 mi",
       "url": "https://www.google.com/maps/search/?api=1&query=Boardwalk%20Subs&query_place_id=ChIJ92nd-FK2GYgR6wfEitjNqA0&center=42.815180999999995,-85.723557",
       "isFar": true
-    },
-    {
-      "name": "Champs Chicken",
-      "distance": "3.9 mi",
-      "url": "https://www.google.com/maps/search/?api=1&query=Champs%20Chicken&query_place_id=ChIJYYg2MN3LGYgRcJg2dJoAC3c&center=42.725287,-85.6762741",
-      "isFar": true
-    },
-    {
-      "name": "Subway",
-      "distance": "4.1 mi",
-      "url": "https://www.google.com/maps/search/?api=1&query=Subway&query_place_id=ChIJPzE3_Be0GYgRj9sIuUHXLPo&center=42.8404033,-85.6740734",
-      "isFar": true
-    },
-    {
-      "name": "Wendy's",
-      "distance": "4.1 mi",
-      "url": "https://www.google.com/maps/search/?api=1&query=Wendy's&query_place_id=ChIJe_WUoSK0GYgRl6RGKY5e9z8&center=42.8405245,-85.6754713",
-      "isFar": true
-    },
-    {
-      "name": "Arby's",
-      "distance": "4.1 mi",
-      "url": "https://www.google.com/maps/search/?api=1&query=Arby's&query_place_id=ChIJI2fq9he0GYgR0TmgkmTQWVI&center=42.841248,-85.6741203",
-      "isFar": true
     }
   ],
   "coffee": [
@@ -84,18 +60,6 @@
       "distance": "3.1 mi",
       "url": "https://www.google.com/maps/search/?api=1&query=Dino%20Daisy%20Play%20Cafe&query_place_id=ChIJSas_1vu3GYgRgn1OFZ1-B_E&center=42.814155299999996,-85.7189143",
       "isFar": true
-    },
-    {
-      "name": "McDonald's",
-      "distance": "3.3 mi",
-      "url": "https://www.google.com/maps/search/?api=1&query=McDonald's&query_place_id=ChIJyZEiXbK3GYgRyldsJIr9t-4&center=42.81187,-85.7283595",
-      "isFar": true
-    },
-    {
-      "name": "McDonald's",
-      "distance": "4.1 mi",
-      "url": "https://www.google.com/maps/search/?api=1&query=McDonald's&query_place_id=ChIJR-OvgBi0GYgRDdS-K40rUS0&center=42.841363699999995,-85.67687339999999",
-      "isFar": true
     }
   ],
   "team_lunch": [
@@ -103,12 +67,6 @@
       "name": "Auntie Anne's",
       "distance": "2.0 mi",
       "url": "https://www.google.com/maps/search/?api=1&query=Auntie%20Anne's&query_place_id=ChIJs5dRBsW1GYgR55VN-OnVWFs&center=42.8096159,-85.6711129"
-    },
-    {
-      "name": "China Kitchen",
-      "distance": "3.1 mi",
-      "url": "https://www.google.com/maps/search/?api=1&query=China%20Kitchen&query_place_id=ChIJp2Mk6k-2GYgRNb24GVsiZgo&center=42.814138,-85.71831",
-      "isFar": true
     },
     {
       "name": "Mannie's Pizza",
@@ -148,12 +106,6 @@
       "name": "76 Diner Byron Center",
       "distance": "3.1 mi",
       "url": "https://www.google.com/maps/search/76%20Diner%20Byron%20Center+near+42.7813837%2C-85.6772917",
-      "isFar": true
-    },
-    {
-      "name": "Mamma Mineo's Pizza",
-      "distance": "3.1 mi",
-      "url": "https://www.google.com/maps/search/Mamma%20Mineo's%20Pizza+near+42.7813837%2C-85.6772917",
       "isFar": true
     }
   ],
@@ -232,26 +184,6 @@
       "name": "Home 7 beds, 2 baths Pygmy Goat Farm Byron Center",
       "distance": "0.8 mi",
       "url": "https://www.google.com/maps/search/Home%207%20beds%2C%202%20baths%20Pygmy%20Goat%20Farm%20Byron%20Center+near+42.7813837%2C-85.6772917"
-    },
-    {
-      "name": "Renovated Dairy Barn with 5 beds, 2.5 bath, SPACIOUS!",
-      "distance": "1.4 mi",
-      "url": "https://www.google.com/maps/search/Renovated%20Dairy%20Barn%20with%205%20beds%2C%202.5%20bath%2C%20SPACIOUS!+near+42.7813837%2C-85.6772917"
-    },
-    {
-      "name": "Renovated Dairy Barn – 5 Beds, 2.5 Baths, Spacious, Accessible & Stylish",
-      "distance": "1.4 mi",
-      "url": "https://www.google.com/maps/search/Renovated%20Dairy%20Barn%20%E2%80%93%205%20Beds%2C%202.5%20Baths%2C%20Spacious%2C%20Accessible%20%26%20Stylish+near+42.7813837%2C-85.6772917"
-    },
-    {
-      "name": "Pet Friendly 2BR Barn Swallow Manor",
-      "distance": "1.5 mi",
-      "url": "https://www.google.com/maps/search/Pet%20Friendly%202BR%20Barn%20Swallow%20Manor+near+42.7813837%2C-85.6772917"
-    },
-    {
-      "name": "Pet Friendly Barn Swallow Manor",
-      "distance": "1.6 mi",
-      "url": "https://www.google.com/maps/search/Pet%20Friendly%20Barn%20Swallow%20Manor+near+42.7813837%2C-85.6772917"
     }
   ],
   "gas": [
@@ -269,11 +201,6 @@
       "name": "Citgo",
       "distance": "2.1 mi",
       "url": "https://www.google.com/maps/search/Citgo+near+42.7813837%2C-85.6772917"
-    },
-    {
-      "name": "Marathon Gas",
-      "distance": "2.2 mi",
-      "url": "https://www.google.com/maps/search/Marathon%20Gas+near+42.7813837%2C-85.6772917"
     },
     {
       "name": "J&H Family Stores",

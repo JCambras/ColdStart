@@ -18,11 +18,6 @@
   ],
   "coffee": [
     {
-      "name": "McDonald's",
-      "distance": "0.4 mi",
-      "url": "https://www.google.com/maps/search/McDonald's+near+39.998432300000005%2C-82.9923441"
-    },
-    {
       "name": "Dwell Community Church - 4th Street Cafe",
       "distance": "0.4 mi",
       "url": "https://www.google.com/maps/search/Dwell%20Community%20Church%20-%204th%20Street%20Cafe+near+39.998432300000005%2C-82.9923441"
@@ -95,11 +90,6 @@
       "name": "Taquería La Popular",
       "distance": "0.6 mi",
       "url": "https://www.google.com/maps/search/Taquer%C3%ADa%20La%20Popular+near+39.998432300000005%2C-82.9923441"
-    },
-    {
-      "name": "Suvai Street",
-      "distance": "0.6 mi",
-      "url": "https://www.google.com/maps/search/Suvai%20Street+near+39.998432300000005%2C-82.9923441"
     }
   ],
   "bowling": [
@@ -126,17 +116,6 @@
       "name": "Studio 35 Cinema & Drafthouse",
       "distance": "2.0 mi",
       "url": "https://www.google.com/maps/search/Studio%2035%20Cinema%20%26%20Drafthouse+near+39.998432300000005%2C-82.9923441"
-    },
-    {
-      "name": "Grandview Theater and Drafthouse",
-      "distance": "3.0 mi",
-      "url": "https://www.google.com/maps/search/Grandview%20Theater%20and%20Drafthouse+near+39.998432300000005%2C-82.9923441"
-    },
-    {
-      "name": "Drexel Theatre",
-      "distance": "4.0 mi",
-      "url": "https://www.google.com/maps/search/Drexel%20Theatre+near+39.998432300000005%2C-82.9923441",
-      "isFar": true
     }
   ],
   "fun": [
@@ -159,12 +138,6 @@
       "name": "Scioto Mile Fountain",
       "distance": "3.0 mi",
       "url": "https://www.google.com/maps/search/Scioto%20Mile%20Fountain+near+39.998432300000005%2C-82.9923441"
-    },
-    {
-      "name": "Escape It Grandview",
-      "distance": "3.2 mi",
-      "url": "https://www.google.com/maps/search/Escape%20It%20Grandview+near+39.998432300000005%2C-82.9923441",
-      "isFar": true
     }
   ],
   "hotels": [
@@ -197,11 +170,6 @@
       "name": "PrivateParking /Entrance_Renovated(7B)OSU /ExpoCentr",
       "distance": "0.2 mi",
       "url": "https://www.google.com/maps/search/PrivateParking%20%2FEntrance_Renovated(7B)OSU%20%2FExpoCentr+near+39.998432300000005%2C-82.9923441"
-    },
-    {
-      "name": "Low-Key Columbus Apartment - Great Location! - Apartment",
-      "distance": "0.2 mi",
-      "url": "https://www.google.com/maps/search/Low-Key%20Columbus%20Apartment%20-%20Great%20Location!%20-%20Apartment+near+39.998432300000005%2C-82.9923441"
     }
   ],
   "gas": [
@@ -214,11 +182,6 @@
       "name": "Shell",
       "distance": "0.5 mi",
       "url": "https://www.google.com/maps/search/Shell+near+39.998432300000005%2C-82.9923441"
-    },
-    {
-      "name": "Marathon Gas",
-      "distance": "0.5 mi",
-      "url": "https://www.google.com/maps/search/Marathon%20Gas+near+39.998432300000005%2C-82.9923441"
     },
     {
       "name": "Marathon Gas",

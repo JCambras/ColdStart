@@ -1,11 +1,6 @@
 {
   "quick_bite": [
     {
-      "name": "Popeyes Louisiana Kitchen",
-      "distance": "0.9 mi",
-      "url": "https://www.google.com/maps/search/Popeyes%20Louisiana%20Kitchen+near+39.882540399999996%2C-104.92020339999999"
-    },
-    {
       "name": "Carl's Jr.",
       "distance": "1.0 mi",
       "url": "https://www.google.com/maps/search/Carl's%20Jr.+near+39.882540399999996%2C-104.92020339999999"
@@ -41,11 +36,6 @@
       "name": "Starbucks Coffee Company",
       "distance": "1.2 mi",
       "url": "https://www.google.com/maps/search/Starbucks%20Coffee%20Company+near+39.882540399999996%2C-104.92020339999999"
-    },
-    {
-      "name": "McDonald's",
-      "distance": "1.3 mi",
-      "url": "https://www.google.com/maps/search/McDonald's+near+39.882540399999996%2C-104.92020339999999"
     }
   ],
   "team_lunch": [
@@ -85,11 +75,6 @@
       "name": "El Mañanero",
       "distance": "1.4 mi",
       "url": "https://www.google.com/maps/search/El%20Ma%C3%B1anero+near+39.882540399999996%2C-104.92020339999999"
-    },
-    {
-      "name": "Tacomiendo Food Truck",
-      "distance": "1.4 mi",
-      "url": "https://www.google.com/maps/search/Tacomiendo%20Food%20Truck+near+39.882540399999996%2C-104.92020339999999"
     }
   ],
   "bowling": [
@@ -144,12 +129,6 @@
       "distance": "4.3 mi",
       "url": "https://www.google.com/maps/search/303%20Escape%20-%20Denver%20Escape%20Room+near+39.882540399999996%2C-104.92020339999999",
       "isFar": true
-    },
-    {
-      "name": "Puzzle Effect Escape Rooms - Denver",
-      "distance": "4.4 mi",
-      "url": "https://www.google.com/maps/search/Puzzle%20Effect%20Escape%20Rooms%20-%20Denver+near+39.882540399999996%2C-104.92020339999999",
-      "isFar": true
     }
   ],
   "hotels": [
@@ -164,29 +143,9 @@
       "url": "https://www.google.com/maps/search/Updated%20Great%20Location%20Beautiful%20New%20House+near+39.882540399999996%2C-104.92020339999999"
     },
     {
-      "name": "Updated Great Location Beautiful New House",
-      "distance": "0.9 mi",
-      "url": "https://www.google.com/maps/search/Updated%20Great%20Location%20Beautiful%20New%20House+near+39.882540399999996%2C-104.92020339999999"
-    },
-    {
       "name": "North County Village",
       "distance": "0.9 mi",
       "url": "https://www.google.com/maps/search/North%20County%20Village+near+39.882540399999996%2C-104.92020339999999"
-    },
-    {
-      "name": "5BD I Game Room I Backyard BBQ I 20 Mins to DEN",
-      "distance": "0.9 mi",
-      "url": "https://www.google.com/maps/search/5BD%20I%20Game%20Room%20I%20Backyard%20BBQ%20I%2020%20Mins%20to%20DEN+near+39.882540399999996%2C-104.92020339999999"
-    },
-    {
-      "name": "5BD I Game Room I Backyard & BBQ I 20 Mins to DEN",
-      "distance": "1.0 mi",
-      "url": "https://www.google.com/maps/search/5BD%20I%20Game%20Room%20I%20Backyard%20%26%20BBQ%20I%2020%20Mins%20to%20DEN+near+39.882540399999996%2C-104.92020339999999"
-    },
-    {
-      "name": "Furnished Deck and Fire Pit Thornton Family Retreat - Vacation Home",
-      "distance": "1.0 mi",
-      "url": "https://www.google.com/maps/search/Furnished%20Deck%20and%20Fire%20Pit%20Thornton%20Family%20Retreat%20-%20Vacation%20Home+near+39.882540399999996%2C-104.92020339999999"
     }
   ],
   "gas": [
@@ -209,11 +168,6 @@
       "name": "Phillips 66",
       "distance": "1.3 mi",
       "url": "https://www.google.com/maps/search/Phillips%2066+near+39.882540399999996%2C-104.92020339999999"
-    },
-    {
-      "name": "Conoco",
-      "distance": "1.5 mi",
-      "url": "https://www.google.com/maps/search/Conoco+near+39.882540399999996%2C-104.92020339999999"
     }
   ]
 }

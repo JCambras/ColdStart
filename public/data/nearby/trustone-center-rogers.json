@@ -29,11 +29,6 @@
       "name": "Culver’s",
       "distance": "0.8 mi",
       "url": "https://www.google.com/maps/search/Culver%E2%80%99s+near+45.2115958%2C-93.5468234"
-    },
-    {
-      "name": "Noodles and Company",
-      "distance": "0.8 mi",
-      "url": "https://www.google.com/maps/search/Noodles%20and%20Company+near+45.2115958%2C-93.5468234"
     }
   ],
   "coffee": [
@@ -154,12 +149,6 @@
       "distance": "6.6 mi",
       "url": "https://www.google.com/maps/search/Sky%20Zone%20Trampoline%20Park+near+45.2115958%2C-93.5468234",
       "isFar": true
-    },
-    {
-      "name": "Orono Park Splash Pad",
-      "distance": "7.1 mi",
-      "url": "https://www.google.com/maps/search/Orono%20Park%20Splash%20Pad+near+45.2115958%2C-93.5468234",
-      "isFar": true
     }
   ],
   "hotels": [
@@ -194,12 +183,6 @@
       "distance": "3.2 mi",
       "url": "https://www.google.com/maps/search/Baci's%20Box%20Auto+near+45.2115958%2C-93.5468234",
       "isFar": true
-    },
-    {
-      "name": "Hillside",
-      "distance": "3.2 mi",
-      "url": "https://www.google.com/maps/search/Hillside+near+45.2115958%2C-93.5468234",
-      "isFar": true
     }
   ],
   "gas": [
@@ -222,11 +205,6 @@
       "name": "Circle K",
       "distance": "0.9 mi",
       "url": "https://www.google.com/maps/search/Circle%20K+near+45.2115958%2C-93.5468234"
-    },
-    {
-      "name": "BP",
-      "distance": "1.0 mi",
-      "url": "https://www.google.com/maps/search/BP+near+45.2115958%2C-93.5468234"
     }
   ]
 }

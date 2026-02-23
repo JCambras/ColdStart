@@ -29,19 +29,9 @@
       "name": "Hangry Joe's Hot Chicken & Wings",
       "distance": "0.3 mi",
       "url": "https://www.google.com/maps/search/Hangry%20Joe's%20Hot%20Chicken%20%26%20Wings+near+46.9029588%2C-96.8015719"
-    },
-    {
-      "name": "Grand Junction Grilled Subs",
-      "distance": "0.3 mi",
-      "url": "https://www.google.com/maps/search/Grand%20Junction%20Grilled%20Subs+near+46.9029588%2C-96.8015719"
     }
   ],
   "coffee": [
-    {
-      "name": "McDonald's",
-      "distance": "0.2 mi",
-      "url": "https://www.google.com/maps/search/McDonald's+near+46.9029588%2C-96.8015719"
-    },
     {
       "name": "Caribou Coffee",
       "distance": "0.3 mi",
@@ -113,12 +103,6 @@
       "distance": "3.2 mi",
       "url": "https://www.google.com/maps/search/West%20Acres%20Bowl+near+46.9029588%2C-96.8015719",
       "isFar": true
-    },
-    {
-      "name": "The Bowler Inc.",
-      "distance": "4.4 mi",
-      "url": "https://www.google.com/maps/search/The%20Bowler%20Inc.+near+46.9029588%2C-96.8015719",
-      "isFar": true
     }
   ],
   "arcade": [],
@@ -163,12 +147,6 @@
       "distance": "3.4 mi",
       "url": "https://www.google.com/maps/search/Fargo%20Escape%20Room+near+46.9029588%2C-96.8015719",
       "isFar": true
-    },
-    {
-      "name": "Thunder Road",
-      "distance": "4.9 mi",
-      "url": "https://www.google.com/maps/search/Thunder%20Road+near+46.9029588%2C-96.8015719",
-      "isFar": true
     }
   ],
   "hotels": [
@@ -186,26 +164,6 @@
       "name": "Homewood Suites by Hilton Fargo",
       "distance": "0.3 mi",
       "url": "https://www.google.com/maps/search/Homewood%20Suites%20by%20Hilton%20Fargo+near+46.9029588%2C-96.8015719"
-    },
-    {
-      "name": "Amazing 2 Bedroom 1 Bathroom Upper Level Home",
-      "distance": "0.3 mi",
-      "url": "https://www.google.com/maps/search/Amazing%202%20Bedroom%201%20Bathroom%20Upper%20Level%20Home+near+46.9029588%2C-96.8015719"
-    },
-    {
-      "name": "The Blue Cottage Blocks from NDSU - Furnished Ready For You!",
-      "distance": "0.3 mi",
-      "url": "https://www.google.com/maps/search/The%20Blue%20Cottage%20Blocks%20from%20NDSU%20-%20Furnished%20Ready%20For%20You!+near+46.9029588%2C-96.8015719"
-    },
-    {
-      "name": "Completely Remodeled Home Blocks from NDSU and Downtown Fargo",
-      "distance": "0.4 mi",
-      "url": "https://www.google.com/maps/search/Completely%20Remodeled%20Home%20Blocks%20from%20NDSU%20and%20Downtown%20Fargo+near+46.9029588%2C-96.8015719"
-    },
-    {
-      "name": "The Blue Cottage Blocks from NDSU - Furnished & Ready For You!",
-      "distance": "0.4 mi",
-      "url": "https://www.google.com/maps/search/The%20Blue%20Cottage%20Blocks%20from%20NDSU%20-%20Furnished%20%26%20Ready%20For%20You!+near+46.9029588%2C-96.8015719"
     }
   ],
   "gas": [
@@ -228,11 +186,6 @@
       "name": "Loaf N Jug",
       "distance": "0.9 mi",
       "url": "https://www.google.com/maps/search/Loaf%20N%20Jug+near+46.9029588%2C-96.8015719"
-    },
-    {
-      "name": "Ted's Northport Tesoro",
-      "distance": "0.9 mi",
-      "url": "https://www.google.com/maps/search/Ted's%20Northport%20Tesoro+near+46.9029588%2C-96.8015719"
     }
   ]
 }

@@ -21,11 +21,6 @@
       "url": "https://www.google.com/maps/search/?api=1&query=LITTLE%20TOKYO&query_place_id=ChIJRTQLR0JDwokRFEEV8lomvPo&center=40.6093337,-73.9199089"
     },
     {
-      "name": "Popeyes Louisiana Kitchen",
-      "distance": "1.7 mi",
-      "url": "https://www.google.com/maps/search/?api=1&query=Popeyes%20Louisiana%20Kitchen&query_place_id=ChIJc6xSRkJDwokRoQXeQAOlOfk&center=40.6094539,-73.92004419999999"
-    },
-    {
       "name": "Subway",
       "distance": "1.8 mi",
       "url": "https://www.google.com/maps/search/?api=1&query=Subway&query_place_id=ChIJ30o8q0NDwokRUH7VZcrJf34&center=40.6098053,-73.9196271"
@@ -34,16 +29,6 @@
       "name": "Wetzel's Pretzels",
       "distance": "1.8 mi",
       "url": "https://www.google.com/maps/search/?api=1&query=Wetzel's%20Pretzels&query_place_id=ChIJI6JvrdpDwokRFMhJQGA6ahk&center=40.610762699999995,-73.9196587"
-    },
-    {
-      "name": "PO ‘ BOY - GOURMET",
-      "distance": "2.0 mi",
-      "url": "https://www.google.com/maps/search/?api=1&query=PO%20%E2%80%98%20BOY%20-%20GOURMET&query_place_id=ChIJW3B0agBDwokRiM_ZKAT8U7Y&center=40.6177845,-73.91025739999999"
-    },
-    {
-      "name": "Subway",
-      "distance": "2.1 mi",
-      "url": "https://www.google.com/maps/search/?api=1&query=Subway&query_place_id=ChIJx6RZiWJDwokRk6dXPCG42Bc&center=40.60141550000001,-73.9350704"
     }
   ],
   "coffee": [
@@ -66,11 +51,6 @@
       "name": "Dunkin'",
       "distance": "1.7 mi",
       "url": "https://www.google.com/maps/search/?api=1&query=Dunkin'&query_place_id=ChIJJ6tKY4FDwokRyI9GGo-0oiE&center=40.586272199999996,-73.9309928"
-    },
-    {
-      "name": "McDonald's",
-      "distance": "1.8 mi",
-      "url": "https://www.google.com/maps/search/?api=1&query=McDonald's&query_place_id=ChIJLTce0UNDwokRRIGA5IISzls&center=40.6111137,-73.9196856"
     }
   ],
   "team_lunch": [
@@ -103,26 +83,6 @@
       "name": "Cinnabon",
       "distance": "1.8 mi",
       "url": "https://www.google.com/maps/search/?api=1&query=Cinnabon&query_place_id=ChIJ30o8q0NDwokRzt9-QWwOoeM&center=40.6098964,-73.9199648"
-    },
-    {
-      "name": "Auntie Anne's",
-      "distance": "1.8 mi",
-      "url": "https://www.google.com/maps/search/?api=1&query=Auntie%20Anne's&query_place_id=ChIJt7Q9q0NDwokRad0dyl1HY54&center=40.610407599999995,-73.9208256"
-    },
-    {
-      "name": "Gretels Pretzels",
-      "distance": "1.8 mi",
-      "url": "https://www.google.com/maps/search/?api=1&query=Gretels%20Pretzels&query_place_id=ChIJIW5EYsNDwokRrPX4CLlbwd4&center=40.6104056,-73.92083629999999"
-    },
-    {
-      "name": "The Gourmet Bagel Shoppe",
-      "distance": "1.9 mi",
-      "url": "https://www.google.com/maps/search/?api=1&query=The%20Gourmet%20Bagel%20Shoppe&query_place_id=ChIJ-ZFD7kdDwokRvWuwwb7IVGM&center=40.6156651,-73.9130903"
-    },
-    {
-      "name": "Caken It",
-      "distance": "1.9 mi",
-      "url": "https://www.google.com/maps/search/?api=1&query=Caken%20It&query_place_id=ChIJ0a89vkpDwokRyFzRKNp-5z0&center=40.6169189,-73.9097737"
     }
   ],
   "dinner": [

@@ -30,30 +30,6 @@
       "distance": "3.2 mi",
       "url": "https://www.google.com/maps/search/?api=1&query=The%20Goose%20Express&query_place_id=ChIJ01CE9LxbNIgR-QP7Cagy8uE&center=40.439299299999995,-80.21853999999999",
       "isFar": true
-    },
-    {
-      "name": "Jersey Mike's Subs",
-      "distance": "3.5 mi",
-      "url": "https://www.google.com/maps/search/?api=1&query=Jersey%20Mike's%20Subs&query_place_id=ChIJ9WicBzhdNIgR47f6EyHZ2J0&center=40.50076,-80.22292999999999",
-      "isFar": true
-    },
-    {
-      "name": "Arby's",
-      "distance": "3.5 mi",
-      "url": "https://www.google.com/maps/search/?api=1&query=Arby's&query_place_id=ChIJm8P_QrtdNIgRX77AoHkrJP8&center=40.5025543,-80.2226731",
-      "isFar": true
-    },
-    {
-      "name": "Wendy's",
-      "distance": "3.7 mi",
-      "url": "https://www.google.com/maps/search/?api=1&query=Wendy's&query_place_id=ChIJy5brBa1dNIgRwJjTKrhyBTg&center=40.5060183,-80.2226611",
-      "isFar": true
-    },
-    {
-      "name": "Subway",
-      "distance": "4.2 mi",
-      "url": "https://www.google.com/maps/search/?api=1&query=Subway&query_place_id=ChIJ781CmcpdNIgRkJ8cPk8vhM0&center=40.5053955,-80.20922879999999",
-      "isFar": true
     }
   ],
   "coffee": [
@@ -66,11 +42,6 @@
       "name": "Caribou Coffee",
       "distance": "2.2 mi",
       "url": "https://www.google.com/maps/search/?api=1&query=Caribou%20Coffee&query_place_id=ChIJewsX8y1dNIgRJEthDRID_2s&center=40.4960508,-80.2552682"
-    },
-    {
-      "name": "McDonald's",
-      "distance": "2.3 mi",
-      "url": "https://www.google.com/maps/search/?api=1&query=McDonald's&query_place_id=ChIJieVQNwxbNIgRYRGfKPVl6z0&center=40.4409089,-80.2393292"
     },
     {
       "name": "Bruegger's Bagels",
@@ -96,11 +67,6 @@
       "url": "https://www.google.com/maps/search/?api=1&query=Auntie%20Anne's&query_place_id=ChIJA9xyxMJcNIgRfjxQYHs4JO8&center=40.4958984,-80.2561655"
     },
     {
-      "name": "Bellfarm Kitchen and Bar",
-      "distance": "2.2 mi",
-      "url": "https://www.google.com/maps/search/?api=1&query=Bellfarm%20Kitchen%20and%20Bar&query_place_id=ChIJl4Ekyz1dNIgRQ4CrYVe8at8&center=40.4968357,-80.25983049999999"
-    },
-    {
       "name": "Farmer's Fridge",
       "distance": "2.2 mi",
       "url": "https://www.google.com/maps/search/?api=1&query=Farmer's%20Fridge&query_place_id=ChIJ40xokcZdNIgRykUBXHuOA2c&center=40.495942899999996,-80.255033"
@@ -119,22 +85,6 @@
       "name": "Fox's Pizza Den - Imperial",
       "distance": "2.3 mi",
       "url": "https://www.google.com/maps/search/?api=1&query=Fox's%20Pizza%20Den%20-%20Imperial&query_place_id=ChIJ5cxcnQxbNIgRxTV_OPITtT8&center=40.4429449,-80.23765499999999"
-    },
-    {
-      "name": "China House",
-      "distance": "2.3 mi",
-      "url": "https://www.google.com/maps/search/?api=1&query=China%20House&query_place_id=ChIJgUNwRAxbNIgRai-Krk_qGRk&center=40.4413796,-80.2394882"
-    },
-    {
-      "name": "Cinnabon",
-      "distance": "2.5 mi",
-      "url": "https://www.google.com/maps/search/?api=1&query=Cinnabon&query_place_id=ChIJa25fw8JcNIgR8ce3DO4DvRQ&center=40.4965973,-80.2451495"
-    },
-    {
-      "name": "Walmart Bakery",
-      "distance": "4.2 mi",
-      "url": "https://www.google.com/maps/search/?api=1&query=Walmart%20Bakery&query_place_id=ChIJq6qqpqVdNIgRugXtMfaW24c&center=40.515601499999995,-80.2241145",
-      "isFar": true
     }
   ],
   "dinner": [

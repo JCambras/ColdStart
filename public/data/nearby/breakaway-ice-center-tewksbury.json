@@ -29,26 +29,6 @@
       "name": "Kyoto Japanese Steak House",
       "distance": "2.0 mi",
       "url": "https://www.google.com/maps/search/?api=1&query=Kyoto%20Japanese%20Steak%20House&query_place_id=ChIJ--BVuMig44kRPcEp5NWKTmk&center=42.598805999999996,-71.221273"
-    },
-    {
-      "name": "Anthony's Famous Roast Beef & Pizza",
-      "distance": "2.1 mi",
-      "url": "https://www.google.com/maps/search/?api=1&query=Anthony's%20Famous%20Roast%20Beef%20%26%20Pizza&query_place_id=ChIJz7RcVKOg44kRLI1ZFYXFHU0&center=42.590257,-71.205154"
-    },
-    {
-      "name": "Burger King",
-      "distance": "2.1 mi",
-      "url": "https://www.google.com/maps/search/?api=1&query=Burger%20King&query_place_id=ChIJ7SymVKOg44kRO7ayUFaZN18&center=42.590007899999996,-71.20431839999999"
-    },
-    {
-      "name": "Subway",
-      "distance": "2.8 mi",
-      "url": "https://www.google.com/maps/search/?api=1&query=Subway&query_place_id=ChIJM_1cEyUK44kRQPldEZcdf0M&center=42.5889477,-71.1581803"
-    },
-    {
-      "name": "Wendy's",
-      "distance": "2.8 mi",
-      "url": "https://www.google.com/maps/search/?api=1&query=Wendy's&query_place_id=ChIJcZDtkv2m44kRYMKIuMyPUUo&center=42.6422667,-71.2396357"
     }
   ],
   "coffee": [
@@ -76,22 +56,6 @@
       "name": "Starbucks Coffee Company",
       "distance": "2.0 mi",
       "url": "https://www.google.com/maps/search/?api=1&query=Starbucks%20Coffee%20Company&query_place_id=ChIJ46dNB5Kh44kRng8VaAYiyg0&center=42.59276,-71.20832"
-    },
-    {
-      "name": "McDonald's",
-      "distance": "2.1 mi",
-      "url": "https://www.google.com/maps/search/?api=1&query=McDonald's&query_place_id=ChIJlZDFqryg44kRLNFqTCnJvaU&center=42.591045199999996,-71.2044713"
-    },
-    {
-      "name": "McDonald's",
-      "distance": "2.3 mi",
-      "url": "https://www.google.com/maps/search/?api=1&query=McDonald's&query_place_id=ChIJR8uhpgin44kREUz5yNT0crU&center=42.6424257,-71.2275946"
-    },
-    {
-      "name": "McDonald's",
-      "distance": "3.9 mi",
-      "url": "https://www.google.com/maps/search/?api=1&query=McDonald's&query_place_id=ChIJX325f30I44kRY_ksbHBtuMk&center=42.663241,-71.1446768",
-      "isFar": true
     }
   ],
   "team_lunch": [
@@ -124,18 +88,6 @@
       "name": "Whole Foods Bakery",
       "distance": "3.8 mi",
       "url": "https://www.google.com/maps/search/?api=1&query=Whole%20Foods%20Bakery&query_place_id=ChIJW_FdDAAJ44kRe4cW2AU4T2w&center=42.6608654,-71.1444894",
-      "isFar": true
-    },
-    {
-      "name": "HyTide Baking Co.",
-      "distance": "3.9 mi",
-      "url": "https://www.google.com/maps/search/?api=1&query=HyTide%20Baking%20Co.&query_place_id=ChIJ77-BAXgJ44kRy7KnVu4_u4U&center=42.663243099999995,-71.14548479999999",
-      "isFar": true
-    },
-    {
-      "name": "Walmart Bakery",
-      "distance": "3.9 mi",
-      "url": "https://www.google.com/maps/search/?api=1&query=Walmart%20Bakery&query_place_id=ChIJq6qqK7Gm44kR1sOpNVtyrxs&center=42.622805199999995,-71.2697883",
       "isFar": true
     }
   ],

@@ -18,27 +18,12 @@
   ],
   "coffee": [
     {
-      "name": "McDonald's",
-      "distance": "0.3 mi",
-      "url": "https://www.google.com/maps/search/McDonald's+near+28.0182894%2C-82.4593113"
-    },
-    {
-      "name": "Wawa",
-      "distance": "0.5 mi",
-      "url": "https://www.google.com/maps/search/Wawa+near+28.0182894%2C-82.4593113"
-    },
-    {
       "name": "Dunkin'",
       "distance": "0.5 mi",
       "url": "https://www.google.com/maps/search/Dunkin'+near+28.0182894%2C-82.4593113"
     }
   ],
   "team_lunch": [
-    {
-      "name": "Hungry Boss Kitchen & Catering Llc",
-      "distance": "0.1 mi",
-      "url": "https://www.google.com/maps/search/Hungry%20Boss%20Kitchen%20%26%20Catering%20Llc+near+28.0182894%2C-82.4593113"
-    },
     {
       "name": "Genios Bakery II Corp",
       "distance": "0.4 mi",
@@ -90,11 +75,6 @@
       "name": "Bamboozle Heights",
       "distance": "0.4 mi",
       "url": "https://www.google.com/maps/search/Bamboozle%20Heights+near+28.0182894%2C-82.4593113"
-    },
-    {
-      "name": "Hunt Brothers Pizza",
-      "distance": "0.5 mi",
-      "url": "https://www.google.com/maps/search/Hunt%20Brothers%20Pizza+near+28.0182894%2C-82.4593113"
     }
   ],
   "bowling": [
@@ -129,12 +109,6 @@
       "distance": "4.2 mi",
       "url": "https://www.google.com/maps/search/Screen%20Door%3A%20An%20Ybor%20City%20Microcinema+near+28.0182894%2C-82.4593113",
       "isFar": true
-    },
-    {
-      "name": "Tampa Theatre",
-      "distance": "4.7 mi",
-      "url": "https://www.google.com/maps/search/Tampa%20Theatre+near+28.0182894%2C-82.4593113",
-      "isFar": true
     }
   ],
   "fun": [
@@ -157,42 +131,9 @@
       "name": "Busch Gardens Tampa Bay",
       "distance": "2.8 mi",
       "url": "https://www.google.com/maps/search/Busch%20Gardens%20Tampa%20Bay+near+28.0182894%2C-82.4593113"
-    },
-    {
-      "name": "Escape Room Tampa",
-      "distance": "3.2 mi",
-      "url": "https://www.google.com/maps/search/Escape%20Room%20Tampa+near+28.0182894%2C-82.4593113",
-      "isFar": true
-    },
-    {
-      "name": "Adventure Island",
-      "distance": "3.3 mi",
-      "url": "https://www.google.com/maps/search/Adventure%20Island+near+28.0182894%2C-82.4593113",
-      "isFar": true
-    },
-    {
-      "name": "Dominio365",
-      "distance": "3.3 mi",
-      "url": "https://www.google.com/maps/search/Dominio365+near+28.0182894%2C-82.4593113",
-      "isFar": true
     }
   ],
   "hotels": [
-    {
-      "name": "Modern Chic center Tampa. Less than 15 minutes to local attractions and stadium.",
-      "distance": "0.1 mi",
-      "url": "https://www.google.com/maps/search/Modern%20Chic%20center%20Tampa.%20Less%20than%2015%20minutes%20to%20local%20attractions%20and%20stadium.+near+28.0182894%2C-82.4593113"
-    },
-    {
-      "name": "Modern Chic center Tampa. Less than 15 minutes to local attractions and stadium.",
-      "distance": "0.1 mi",
-      "url": "https://www.google.com/maps/search/Modern%20Chic%20center%20Tampa.%20Less%20than%2015%20minutes%20to%20local%20attractions%20and%20stadium.+near+28.0182894%2C-82.4593113"
-    },
-    {
-      "name": "Modern Chic center Tampa. Less than 15 minutes to local attractions and stadium.",
-      "distance": "0.1 mi",
-      "url": "https://www.google.com/maps/search/Modern%20Chic%20center%20Tampa.%20Less%20than%2015%20minutes%20to%20local%20attractions%20and%20stadium.+near+28.0182894%2C-82.4593113"
-    },
     {
       "name": "Mayflower Motel",
       "distance": "0.1 mi",
@@ -202,11 +143,6 @@
       "name": "Tampa Outdoor Family Fun/ Pool/ Spa/ Grill/ Mini Golf/ Games",
       "distance": "0.1 mi",
       "url": "https://www.google.com/maps/search/Tampa%20Outdoor%20Family%20Fun%2F%20Pool%2F%20Spa%2F%20Grill%2F%20Mini%20Golf%2F%20Games+near+28.0182894%2C-82.4593113"
-    },
-    {
-      "name": "Pet Friendly Seminole Manor",
-      "distance": "0.1 mi",
-      "url": "https://www.google.com/maps/search/Pet%20Friendly%20Seminole%20Manor+near+28.0182894%2C-82.4593113"
     },
     {
       "name": "Vintage Cottage and Modern Touches",
@@ -234,11 +170,6 @@
       "name": "7-Eleven Fuel",
       "distance": "0.7 mi",
       "url": "https://www.google.com/maps/search/7-Eleven%20Fuel+near+28.0182894%2C-82.4593113"
-    },
-    {
-      "name": "Amoco",
-      "distance": "0.7 mi",
-      "url": "https://www.google.com/maps/search/Amoco+near+28.0182894%2C-82.4593113"
     }
   ]
 }

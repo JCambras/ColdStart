@@ -1,11 +1,5 @@
 {
-  "quick_bite": [
-    {
-      "name": "Khao Hom Thai Kitchen",
-      "distance": "0.5 mi",
-      "url": "https://www.google.com/maps/search/Khao%20Hom%20Thai%20Kitchen+near+40.4519805%2C-109.52116389999999"
-    }
-  ],
+  "quick_bite": [],
   "coffee": [
     {
       "name": "Sips for the Soul, Inc",
@@ -75,11 +69,6 @@
       "name": "Swain Brothers",
       "distance": "0.4 mi",
       "url": "https://www.google.com/maps/search/Swain%20Brothers+near+40.4519805%2C-109.52116389999999"
-    },
-    {
-      "name": "Streeet Treeets",
-      "distance": "0.7 mi",
-      "url": "https://www.google.com/maps/search/Streeet%20Treeets+near+40.4519805%2C-109.52116389999999"
     }
   ],
   "bowling": [
@@ -139,11 +128,6 @@
       "name": "Patriot Stay Motel",
       "distance": "0.3 mi",
       "url": "https://www.google.com/maps/search/Patriot%20Stay%20Motel+near+40.4519805%2C-109.52116389999999"
-    },
-    {
-      "name": "Dinosaur Inn & Suites",
-      "distance": "0.3 mi",
-      "url": "https://www.google.com/maps/search/Dinosaur%20Inn%20%26%20Suites+near+40.4519805%2C-109.52116389999999"
     }
   ],
   "gas": [
@@ -166,11 +150,6 @@
       "name": "Top Stop Chevron - Vernal C40",
       "distance": "1.0 mi",
       "url": "https://www.google.com/maps/search/Top%20Stop%20Chevron%20-%20Vernal%20C40+near+40.4519805%2C-109.52116389999999"
-    },
-    {
-      "name": "Chevron",
-      "distance": "1.1 mi",
-      "url": "https://www.google.com/maps/search/Chevron+near+40.4519805%2C-109.52116389999999"
     }
   ]
 }

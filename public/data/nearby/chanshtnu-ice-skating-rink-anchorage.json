@@ -19,11 +19,6 @@
       "name": "Subway",
       "distance": "0.4 mi",
       "url": "https://www.google.com/maps/search/Subway+near+61.209013799999994%2C-149.7320284"
-    },
-    {
-      "name": "Hamburger Haven",
-      "distance": "0.5 mi",
-      "url": "https://www.google.com/maps/search/Hamburger%20Haven+near+61.209013799999994%2C-149.7320284"
     }
   ],
   "coffee": [
@@ -36,11 +31,6 @@
       "name": "Krispy Kreme Doughnuts",
       "distance": "0.1 mi",
       "url": "https://www.google.com/maps/search/Krispy%20Kreme%20Doughnuts+near+61.209013799999994%2C-149.7320284"
-    },
-    {
-      "name": "Starbucks Coffee Company",
-      "distance": "0.2 mi",
-      "url": "https://www.google.com/maps/search/Starbucks%20Coffee%20Company+near+61.209013799999994%2C-149.7320284"
     },
     {
       "name": "gambo restorante",
@@ -68,11 +58,6 @@
       "name": "Oriental Garden",
       "distance": "0.4 mi",
       "url": "https://www.google.com/maps/search/Oriental%20Garden+near+61.209013799999994%2C-149.7320284"
-    },
-    {
-      "name": "Walmart Bakery",
-      "distance": "0.5 mi",
-      "url": "https://www.google.com/maps/search/Walmart%20Bakery+near+61.209013799999994%2C-149.7320284"
     }
   ],
   "dinner": [
@@ -127,12 +112,6 @@
       "distance": "3.3 mi",
       "url": "https://www.google.com/maps/search/Frontier%20Theater+near+61.209013799999994%2C-149.7320284",
       "isFar": true
-    },
-    {
-      "name": "Talkeetna Theater",
-      "distance": "4.7 mi",
-      "url": "https://www.google.com/maps/search/Talkeetna%20Theater+near+61.209013799999994%2C-149.7320284",
-      "isFar": true
     }
   ],
   "fun": [
@@ -172,16 +151,6 @@
       "name": "Alaska best Luxury Air BB",
       "distance": "0.5 mi",
       "url": "https://www.google.com/maps/search/Alaska%20best%20Luxury%20Air%20BB+near+61.209013799999994%2C-149.7320284"
-    },
-    {
-      "name": "Blueberry Cottage - Quaint Cozy Alaskan home",
-      "distance": "0.5 mi",
-      "url": "https://www.google.com/maps/search/Blueberry%20Cottage%20-%20Quaint%20Cozy%20Alaskan%20home+near+61.209013799999994%2C-149.7320284"
-    },
-    {
-      "name": "Cozy Family-Friendly Alaskan Home",
-      "distance": "0.5 mi",
-      "url": "https://www.google.com/maps/search/Cozy%20Family-Friendly%20Alaskan%20Home+near+61.209013799999994%2C-149.7320284"
     }
   ],
   "gas": [
@@ -204,11 +173,6 @@
       "name": "Circle k",
       "distance": "0.8 mi",
       "url": "https://www.google.com/maps/search/Circle%20k+near+61.209013799999994%2C-149.7320284"
-    },
-    {
-      "name": "Circle K Gas Station",
-      "distance": "0.8 mi",
-      "url": "https://www.google.com/maps/search/Circle%20K%20Gas%20Station+near+61.209013799999994%2C-149.7320284"
     }
   ]
 }

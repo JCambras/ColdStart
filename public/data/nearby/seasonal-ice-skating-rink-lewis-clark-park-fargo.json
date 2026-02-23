@@ -32,16 +32,6 @@
       "name": "Starbucks Coffee Company",
       "distance": "0.6 mi",
       "url": "https://www.google.com/maps/search/Starbucks%20Coffee%20Company+near+46.851158899999994%2C-96.807104"
-    },
-    {
-      "name": "McDonald's",
-      "distance": "0.7 mi",
-      "url": "https://www.google.com/maps/search/McDonald's+near+46.851158899999994%2C-96.807104"
-    },
-    {
-      "name": "Starbucks Coffee Company",
-      "distance": "0.7 mi",
-      "url": "https://www.google.com/maps/search/Starbucks%20Coffee%20Company+near+46.851158899999994%2C-96.807104"
     }
   ],
   "team_lunch": [
@@ -59,11 +49,6 @@
       "name": "Ruth Merz",
       "distance": "0.7 mi",
       "url": "https://www.google.com/maps/search/Ruth%20Merz+near+46.851158899999994%2C-96.807104"
-    },
-    {
-      "name": "Casey's",
-      "distance": "0.7 mi",
-      "url": "https://www.google.com/maps/search/Casey's+near+46.851158899999994%2C-96.807104"
     },
     {
       "name": "Ruby Tuesday",
@@ -101,11 +86,6 @@
       "name": "Guadalajara Mexican Restaurant",
       "distance": "0.6 mi",
       "url": "https://www.google.com/maps/search/Guadalajara%20Mexican%20Restaurant+near+46.851158899999994%2C-96.807104"
-    },
-    {
-      "name": "Doolittles Woodfire Grill",
-      "distance": "0.7 mi",
-      "url": "https://www.google.com/maps/search/Doolittles%20Woodfire%20Grill+near+46.851158899999994%2C-96.807104"
     }
   ],
   "bowling": [
@@ -123,18 +103,6 @@
       "name": "Kingpinz Social",
       "distance": "3.4 mi",
       "url": "https://www.google.com/maps/search/Kingpinz%20Social+near+46.851158899999994%2C-96.807104",
-      "isFar": true
-    },
-    {
-      "name": "Red River Lanes",
-      "distance": "4.3 mi",
-      "url": "https://www.google.com/maps/search/Red%20River%20Lanes+near+46.851158899999994%2C-96.807104",
-      "isFar": true
-    },
-    {
-      "name": "Xcalibur Entertainment",
-      "distance": "4.3 mi",
-      "url": "https://www.google.com/maps/search/Xcalibur%20Entertainment+near+46.851158899999994%2C-96.807104",
       "isFar": true
     }
   ],
@@ -176,31 +144,9 @@
       "name": "Thunder Road",
       "distance": "1.9 mi",
       "url": "https://www.google.com/maps/search/Thunder%20Road+near+46.851158899999994%2C-96.807104"
-    },
-    {
-      "name": "Sky Zone Trampoline Park",
-      "distance": "2.1 mi",
-      "url": "https://www.google.com/maps/search/Sky%20Zone%20Trampoline%20Park+near+46.851158899999994%2C-96.807104"
-    },
-    {
-      "name": "Fargo Escape Room",
-      "distance": "3.2 mi",
-      "url": "https://www.google.com/maps/search/Fargo%20Escape%20Room+near+46.851158899999994%2C-96.807104",
-      "isFar": true
-    },
-    {
-      "name": "Slick City Action Park",
-      "distance": "3.4 mi",
-      "url": "https://www.google.com/maps/search/Slick%20City%20Action%20Park+near+46.851158899999994%2C-96.807104",
-      "isFar": true
     }
   ],
   "hotels": [
-    {
-      "name": "4-bedroom house in Fargo with Heated Garage",
-      "distance": "0.4 mi",
-      "url": "https://www.google.com/maps/search/4-bedroom%20house%20in%20Fargo%20with%20Heated%20Garage+near+46.851158899999994%2C-96.807104"
-    },
     {
       "name": "Baymont by Wyndham Fargo",
       "distance": "0.5 mi",
@@ -215,16 +161,6 @@
       "name": "Vista Inn & Suites Fargo, North Dakota",
       "distance": "0.5 mi",
       "url": "https://www.google.com/maps/search/Vista%20Inn%20%26%20Suites%20Fargo%2C%20North%20Dakota+near+46.851158899999994%2C-96.807104"
-    },
-    {
-      "name": "4-bedroom house in Fargo with Heated Garage",
-      "distance": "0.5 mi",
-      "url": "https://www.google.com/maps/search/4-bedroom%20house%20in%20Fargo%20with%20Heated%20Garage+near+46.851158899999994%2C-96.807104"
-    },
-    {
-      "name": "Terrific 2-bedroom townhome in friendly Fargo",
-      "distance": "0.5 mi",
-      "url": "https://www.google.com/maps/search/Terrific%202-bedroom%20townhome%20in%20friendly%20Fargo+near+46.851158899999994%2C-96.807104"
     },
     {
       "name": "Paisley Dash House",
@@ -247,16 +183,6 @@
       "name": "Cenex",
       "distance": "0.5 mi",
       "url": "https://www.google.com/maps/search/Cenex+near+46.851158899999994%2C-96.807104"
-    },
-    {
-      "name": "Brake Time Corner Market",
-      "distance": "0.7 mi",
-      "url": "https://www.google.com/maps/search/Brake%20Time%20Corner%20Market+near+46.851158899999994%2C-96.807104"
-    },
-    {
-      "name": "Loaf N Jug",
-      "distance": "0.7 mi",
-      "url": "https://www.google.com/maps/search/Loaf%20N%20Jug+near+46.851158899999994%2C-96.807104"
     }
   ]
 }

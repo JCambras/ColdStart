@@ -29,19 +29,9 @@
       "name": "Jack in the Box",
       "distance": "0.5 mi",
       "url": "https://www.google.com/maps/search/Jack%20in%20the%20Box+near+29.962744099999995%2C-95.55369119999999"
-    },
-    {
-      "name": "Charleys Cheesesteaks",
-      "distance": "0.5 mi",
-      "url": "https://www.google.com/maps/search/Charleys%20Cheesesteaks+near+29.962744099999995%2C-95.55369119999999"
     }
   ],
   "coffee": [
-    {
-      "name": "Sam's Club Cafe",
-      "distance": "0.3 mi",
-      "url": "https://www.google.com/maps/search/Sam's%20Club%20Cafe+near+29.962744099999995%2C-95.55369119999999"
-    },
     {
       "name": "Starbucks Coffee Company",
       "distance": "0.5 mi",
@@ -76,11 +66,6 @@
     }
   ],
   "dinner": [
-    {
-      "name": "Sam's Club Bakery",
-      "distance": "0.3 mi",
-      "url": "https://www.google.com/maps/search/Sam's%20Club%20Bakery+near+29.962744099999995%2C-95.55369119999999"
-    },
     {
       "name": "Los Caporales Mexican Restaurant",
       "distance": "0.4 mi",
@@ -163,24 +148,6 @@
       "distance": "3.2 mi",
       "url": "https://www.google.com/maps/search/Flip%20N'%20Fun%20Trampoline%20Park+near+29.962744099999995%2C-95.55369119999999",
       "isFar": true
-    },
-    {
-      "name": "The Release Zone, LLC",
-      "distance": "4.3 mi",
-      "url": "https://www.google.com/maps/search/The%20Release%20Zone%2C%20LLC+near+29.962744099999995%2C-95.55369119999999",
-      "isFar": true
-    },
-    {
-      "name": "Little Beakers - Cypress",
-      "distance": "4.7 mi",
-      "url": "https://www.google.com/maps/search/Little%20Beakers%20-%20Cypress+near+29.962744099999995%2C-95.55369119999999",
-      "isFar": true
-    },
-    {
-      "name": "SMASH THERAPY LLC",
-      "distance": "4.8 mi",
-      "url": "https://www.google.com/maps/search/SMASH%20THERAPY%20LLC+near+29.962744099999995%2C-95.55369119999999",
-      "isFar": true
     }
   ],
   "hotels": [
@@ -213,11 +180,6 @@
       "name": "Wingate by Wyndham Houston / Willowbrook",
       "distance": "0.4 mi",
       "url": "https://www.google.com/maps/search/Wingate%20by%20Wyndham%20Houston%20%2F%20Willowbrook+near+29.962744099999995%2C-95.55369119999999"
-    },
-    {
-      "name": "Studio | Outdoor Pool and Hot Tub, FREE Breakfast",
-      "distance": "0.6 mi",
-      "url": "https://www.google.com/maps/search/Studio%20%7C%20Outdoor%20Pool%20and%20Hot%20Tub%2C%20FREE%20Breakfast+near+29.962744099999995%2C-95.55369119999999"
     }
   ],
   "gas": [
@@ -240,11 +202,6 @@
       "name": "Texaco",
       "distance": "0.4 mi",
       "url": "https://www.google.com/maps/search/Texaco+near+29.962744099999995%2C-95.55369119999999"
-    },
-    {
-      "name": "Aqui dealer",
-      "distance": "0.5 mi",
-      "url": "https://www.google.com/maps/search/Aqui%20dealer+near+29.962744099999995%2C-95.55369119999999"
     }
   ]
 }

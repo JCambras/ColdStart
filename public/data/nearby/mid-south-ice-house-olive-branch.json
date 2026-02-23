@@ -29,20 +29,9 @@
       "name": "Sonic Drive-In",
       "distance": "0.4 mi",
       "url": "https://www.google.com/maps/search/Sonic%20Drive-In+near+34.9717712%2C-89.80126949999999"
-    },
-    {
-      "name": "Cook Out",
-      "distance": "0.4 mi",
-      "url": "https://www.google.com/maps/search/Cook%20Out+near+34.9717712%2C-89.80126949999999"
     }
   ],
-  "coffee": [
-    {
-      "name": "McDonald's",
-      "distance": "0.6 mi",
-      "url": "https://www.google.com/maps/search/McDonald's+near+34.9717712%2C-89.80126949999999"
-    }
-  ],
+  "coffee": [],
   "team_lunch": [
     {
       "name": "The Burning Bush Soul FOod Restaurant",
@@ -120,12 +109,6 @@
       "distance": "6.8 mi",
       "url": "https://www.google.com/maps/search/Malco%20Forest%20Hill%20Cinema%20Grill%20%26%20Bar+near+34.9717712%2C-89.80126949999999",
       "isFar": true
-    },
-    {
-      "name": "Malco Collierville Towne Cinema Grill & MXT",
-      "distance": "8.2 mi",
-      "url": "https://www.google.com/maps/search/Malco%20Collierville%20Towne%20Cinema%20Grill%20%26%20MXT+near+34.9717712%2C-89.80126949999999",
-      "isFar": true
     }
   ],
   "fun": [
@@ -175,19 +158,9 @@
       "url": "https://www.google.com/maps/search/Historic%20Whispering%20Woods%20Hotel%20and%20Conference%20Center%20Olive%20Branch%20-%20Memphis+near+34.9717712%2C-89.80126949999999"
     },
     {
-      "name": "Warmth & Charming, Cozy 4BR Brick Home with Private Pool in Olive Branch",
-      "distance": "0.6 mi",
-      "url": "https://www.google.com/maps/search/Warmth%20%26%20Charming%2C%20Cozy%204BR%20Brick%20Home%20with%20Private%20Pool%20in%20Olive%20Branch+near+34.9717712%2C-89.80126949999999"
-    },
-    {
       "name": "Extended stay Inn",
       "distance": "0.6 mi",
       "url": "https://www.google.com/maps/search/Extended%20stay%20Inn+near+34.9717712%2C-89.80126949999999"
-    },
-    {
-      "name": "Spacious 5-bedroom house with Strong Wi-Fi Olive Branch",
-      "distance": "0.7 mi",
-      "url": "https://www.google.com/maps/search/Spacious%205-bedroom%20house%20with%20Strong%20Wi-Fi%20Olive%20Branch+near+34.9717712%2C-89.80126949999999"
     }
   ],
   "gas": [
@@ -210,11 +183,6 @@
       "name": "Hacks Cross Valero",
       "distance": "0.3 mi",
       "url": "https://www.google.com/maps/search/Hacks%20Cross%20Valero+near+34.9717712%2C-89.80126949999999"
-    },
-    {
-      "name": "Mobil",
-      "distance": "0.4 mi",
-      "url": "https://www.google.com/maps/search/Mobil+near+34.9717712%2C-89.80126949999999"
     }
   ]
 }

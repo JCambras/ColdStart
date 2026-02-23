@@ -68,11 +68,6 @@
       "name": "Town Grill",
       "distance": "0.1 mi",
       "url": "https://www.google.com/maps/search/Town%20Grill+near+44.9471457%2C-93.0952174"
-    },
-    {
-      "name": "Rival House Sporting Parlour",
-      "distance": "0.1 mi",
-      "url": "https://www.google.com/maps/search/Rival%20House%20Sporting%20Parlour+near+44.9471457%2C-93.0952174"
     }
   ],
   "dinner": [
@@ -105,11 +100,6 @@
       "name": "Skyway New Masala",
       "distance": "0.1 mi",
       "url": "https://www.google.com/maps/search/Skyway%20New%20Masala+near+44.9471457%2C-93.0952174"
-    },
-    {
-      "name": "Meritage",
-      "distance": "0.1 mi",
-      "url": "https://www.google.com/maps/search/Meritage+near+44.9471457%2C-93.0952174"
     }
   ],
   "bowling": [
@@ -129,12 +119,6 @@
       "name": "Concord Lanes",
       "distance": "4.5 mi",
       "url": "https://www.google.com/maps/search/Concord%20Lanes+near+44.9471457%2C-93.0952174",
-      "isFar": true
-    },
-    {
-      "name": "UST Bowling Alley",
-      "distance": "4.7 mi",
-      "url": "https://www.google.com/maps/search/UST%20Bowling%20Alley+near+44.9471457%2C-93.0952174",
       "isFar": true
     }
   ],
@@ -180,24 +164,6 @@
       "distance": "3.7 mi",
       "url": "https://www.google.com/maps/search/Como%20Town+near+44.9471457%2C-93.0952174",
       "isFar": true
-    },
-    {
-      "name": "Trapped Puzzle Rooms",
-      "distance": "3.9 mi",
-      "url": "https://www.google.com/maps/search/Trapped%20Puzzle%20Rooms+near+44.9471457%2C-93.0952174",
-      "isFar": true
-    },
-    {
-      "name": "Minnesota State Fair Kidway",
-      "distance": "4.4 mi",
-      "url": "https://www.google.com/maps/search/Minnesota%20State%20Fair%20Kidway+near+44.9471457%2C-93.0952174",
-      "isFar": true
-    },
-    {
-      "name": "PuzzleWorks Escape Co.",
-      "distance": "4.4 mi",
-      "url": "https://www.google.com/maps/search/PuzzleWorks%20Escape%20Co.+near+44.9471457%2C-93.0952174",
-      "isFar": true
     }
   ],
   "hotels": [
@@ -212,11 +178,6 @@
       "url": "https://www.google.com/maps/search/Crestline%20Hotels%20%26%20Resorts%20Inc+near+44.9471457%2C-93.0952174"
     },
     {
-      "name": "Charming 2bedroom Apartment in Terrific Downtown St. Paul with Queen BD+Two Full",
-      "distance": "0.1 mi",
-      "url": "https://www.google.com/maps/search/Charming%202bedroom%20Apartment%20in%20Terrific%20Downtown%20St.%20Paul%20with%20Queen%20BD%2BTwo%20Full+near+44.9471457%2C-93.0952174"
-    },
-    {
       "name": "The Saint Paul Hotel",
       "distance": "0.2 mi",
       "url": "https://www.google.com/maps/search/The%20Saint%20Paul%20Hotel+near+44.9471457%2C-93.0952174"
@@ -225,11 +186,6 @@
       "name": "Celeste of St. Paul Hotel + Bar",
       "distance": "0.2 mi",
       "url": "https://www.google.com/maps/search/Celeste%20of%20St.%20Paul%20Hotel%20%2B%20Bar+near+44.9471457%2C-93.0952174"
-    },
-    {
-      "name": "Sonder The Fitz Apartments Downtown St Paul",
-      "distance": "0.2 mi",
-      "url": "https://www.google.com/maps/search/Sonder%20The%20Fitz%20Apartments%20Downtown%20St%20Paul+near+44.9471457%2C-93.0952174"
     },
     {
       "name": "The Fits",
@@ -257,11 +213,6 @@
       "name": "Amoco",
       "distance": "0.5 mi",
       "url": "https://www.google.com/maps/search/Amoco+near+44.9471457%2C-93.0952174"
-    },
-    {
-      "name": "Mobil",
-      "distance": "0.8 mi",
-      "url": "https://www.google.com/maps/search/Mobil+near+44.9471457%2C-93.0952174"
     }
   ]
 }

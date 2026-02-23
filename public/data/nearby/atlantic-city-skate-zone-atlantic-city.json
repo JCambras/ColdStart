@@ -28,11 +28,6 @@
   ],
   "coffee": [
     {
-      "name": "McDonald's",
-      "distance": "0.3 mi",
-      "url": "https://www.google.com/maps/search/?api=1&query=McDonald's&query_place_id=ChIJt7j7VozuwIkRP2gQZaYf398&center=39.359724299999996,-74.4619939"
-    },
-    {
       "name": "Cleo's Corner",
       "distance": "0.4 mi",
       "url": "https://www.google.com/maps/search/?api=1&query=Cleo's%20Corner&query_place_id=ChIJHyDNVHrvwIkRT-8LnFxjUOk&center=39.3546317,-74.45110580000001"
@@ -51,16 +46,6 @@
       "name": "Formica Freitag Bakery & Cafe",
       "distance": "0.9 mi",
       "url": "https://www.google.com/maps/search/?api=1&query=Formica%20Freitag%20Bakery%20%26%20Cafe&query_place_id=ChIJqzoiU13uwIkRU56kqNmnC7o&center=39.3587784,-74.44086109999999"
-    },
-    {
-      "name": "McDonald's",
-      "distance": "1.1 mi",
-      "url": "https://www.google.com/maps/search/?api=1&query=McDonald's&query_place_id=ChIJgyeF9ULuwIkRQ6vzM2zmp_M&center=39.359864,-74.43737229999999"
-    },
-    {
-      "name": "Wawa",
-      "distance": "1.2 mi",
-      "url": "https://www.google.com/maps/search/?api=1&query=Wawa&query_place_id=ChIJ48q0Fp7uwIkRgUSeKq2cCbE&center=39.343230399999996,-74.4712196"
     },
     {
       "name": "77 MART & DELI",
@@ -98,26 +83,6 @@
       "name": "500 Degrees",
       "distance": "0.5 mi",
       "url": "https://www.google.com/maps/search/?api=1&query=500%20Degrees&query_place_id=ChIJW4n6HgDvwIkR8mzR8PblAOY&center=39.3504387,-74.45466619999999"
-    },
-    {
-      "name": "AC St. Subs & Salads",
-      "distance": "0.5 mi",
-      "url": "https://www.google.com/maps/search/?api=1&query=AC%20St.%20Subs%20%26%20Salads&query_place_id=ChIJLT-NMADvwIkRKMSQve7kKdU&center=39.350441,-74.4546545"
-    },
-    {
-      "name": "Tvo Service Llc",
-      "distance": "0.5 mi",
-      "url": "https://www.google.com/maps/search/?api=1&query=Tvo%20Service%20Llc&query_place_id=ChIJXcBM4YXuwIkRoH4Hx70dLs8&center=39.3497399,-74.45880939999999"
-    },
-    {
-      "name": "Minos Bakery",
-      "distance": "0.6 mi",
-      "url": "https://www.google.com/maps/search/?api=1&query=Minos%20Bakery&query_place_id=ChIJvymjxIXuwIkRrRVEhAUte9w&center=39.3491499,-74.4592167"
-    },
-    {
-      "name": "Auntie Anne's",
-      "distance": "0.8 mi",
-      "url": "https://www.google.com/maps/search/?api=1&query=Auntie%20Anne's&query_place_id=ChIJw2YcVwDvwIkRY9hncsQ1Uo4&center=39.3523692,-74.4445618"
     }
   ],
   "dinner": [

@@ -51,16 +51,6 @@
       "name": "Monday Mornings",
       "distance": "1.2 mi",
       "url": "https://www.google.com/maps/search/Monday%20Mornings+near+47.703156199999995%2C-116.83550799999998"
-    },
-    {
-      "name": "Monday Mornings Coffee Co.",
-      "distance": "1.2 mi",
-      "url": "https://www.google.com/maps/search/Monday%20Mornings%20Coffee%20Co.+near+47.703156199999995%2C-116.83550799999998"
-    },
-    {
-      "name": "Starbucks",
-      "distance": "1.3 mi",
-      "url": "https://www.google.com/maps/search/Starbucks+near+47.703156199999995%2C-116.83550799999998"
     }
   ],
   "team_lunch": [
@@ -152,43 +142,7 @@
       "isFar": true
     }
   ],
-  "hotels": [
-    {
-      "name": "Modern Coeur d' Alene home near the river and close to downtown",
-      "distance": "0.2 mi",
-      "url": "https://www.google.com/maps/search/Modern%20Coeur%20d'%20Alene%20home%20near%20the%20river%20and%20close%20to%20downtown+near+47.703156199999995%2C-116.83550799999998"
-    },
-    {
-      "name": "Gated Retreat, Sleeps 8, Professional Kitchen, Fireplace, DreamCloud Mattresses",
-      "distance": "0.4 mi",
-      "url": "https://www.google.com/maps/search/Gated%20Retreat%2C%20Sleeps%208%2C%20Professional%20Kitchen%2C%20Fireplace%2C%20DreamCloud%20Mattresses+near+47.703156199999995%2C-116.83550799999998"
-    },
-    {
-      "name": "NEW! CDA Retreat on Golf Course - Close to Downtown, Shopping, Hiking Skiing",
-      "distance": "0.4 mi",
-      "url": "https://www.google.com/maps/search/NEW!%20CDA%20Retreat%20on%20Golf%20Course%20-%20Close%20to%20Downtown%2C%20Shopping%2C%20Hiking%20Skiing+near+47.703156199999995%2C-116.83550799999998"
-    },
-    {
-      "name": "New Cozy, Modern 3-bedroom home. Close to dtwn CDA",
-      "distance": "0.4 mi",
-      "url": "https://www.google.com/maps/search/New%20Cozy%2C%20Modern%203-bedroom%20home.%20Close%20to%20dtwn%20CDA+near+47.703156199999995%2C-116.83550799999998"
-    },
-    {
-      "name": "New Cozy, Modern 3-bedroom home. Close to dtwn CDA",
-      "distance": "0.4 mi",
-      "url": "https://www.google.com/maps/search/New%20Cozy%2C%20Modern%203-bedroom%20home.%20Close%20to%20dtwn%20CDA+near+47.703156199999995%2C-116.83550799999998"
-    },
-    {
-      "name": "Clean, Comfortable, and Modern CDA Retreat inside Gated Community.",
-      "distance": "0.4 mi",
-      "url": "https://www.google.com/maps/search/Clean%2C%20Comfortable%2C%20and%20Modern%20CDA%20Retreat%20inside%20Gated%20Community.+near+47.703156199999995%2C-116.83550799999998"
-    },
-    {
-      "name": "Bike, walk, shop, swim and more! Minutes away from everything CDA has to offer!",
-      "distance": "0.4 mi",
-      "url": "https://www.google.com/maps/search/Bike%2C%20walk%2C%20shop%2C%20swim%20and%20more!%20Minutes%20away%20from%20everything%20CDA%20has%20to%20offer!+near+47.703156199999995%2C-116.83550799999998"
-    }
-  ],
+  "hotels": [],
   "gas": [
     {
       "name": "Chevron Local Market",
@@ -209,11 +163,6 @@
       "name": "Conoco",
       "distance": "1.5 mi",
       "url": "https://www.google.com/maps/search/Conoco+near+47.703156199999995%2C-116.83550799999998"
-    },
-    {
-      "name": "Speedee",
-      "distance": "1.7 mi",
-      "url": "https://www.google.com/maps/search/Speedee+near+47.703156199999995%2C-116.83550799999998"
     }
   ]
 }

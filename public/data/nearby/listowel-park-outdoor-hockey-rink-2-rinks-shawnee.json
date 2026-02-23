@@ -29,11 +29,6 @@
       "name": "Waffle House",
       "distance": "0.8 mi",
       "url": "https://www.google.com/maps/search/Waffle%20House+near+38.99995860000001%2C-94.724899"
-    },
-    {
-      "name": "Cinemark Merriam and XD",
-      "distance": "2.8 mi",
-      "url": "https://www.google.com/maps/search/Cinemark%20Merriam%20and%20XD+near+38.99995860000001%2C-94.724899"
     }
   ],
   "coffee": [
@@ -48,27 +43,12 @@
       "url": "https://www.google.com/maps/search/Scooter's%20Coffee+near+38.99995860000001%2C-94.724899"
     },
     {
-      "name": "Scooter's Coffee",
-      "distance": "0.8 mi",
-      "url": "https://www.google.com/maps/search/Scooter's%20Coffee+near+38.99995860000001%2C-94.724899"
-    },
-    {
-      "name": "McDonald's",
-      "distance": "0.8 mi",
-      "url": "https://www.google.com/maps/search/McDonald's+near+38.99995860000001%2C-94.724899"
-    },
-    {
       "name": "Little Monkey Bizness",
       "distance": "1.0 mi",
       "url": "https://www.google.com/maps/search/Little%20Monkey%20Bizness+near+38.99995860000001%2C-94.724899"
     }
   ],
   "team_lunch": [
-    {
-      "name": "Walmart Bakery",
-      "distance": "0.7 mi",
-      "url": "https://www.google.com/maps/search/Walmart%20Bakery+near+38.99995860000001%2C-94.724899"
-    },
     {
       "name": "Joyful Asian Express",
       "distance": "0.8 mi",
@@ -110,11 +90,6 @@
       "name": "Shawnee's Bates City BBQ",
       "distance": "0.8 mi",
       "url": "https://www.google.com/maps/search/Shawnee's%20Bates%20City%20BBQ+near+38.99995860000001%2C-94.724899"
-    },
-    {
-      "name": "DeiRel Sushi & Boba",
-      "distance": "0.8 mi",
-      "url": "https://www.google.com/maps/search/DeiRel%20Sushi%20%26%20Boba+near+38.99995860000001%2C-94.724899"
     }
   ],
   "bowling": [
@@ -159,45 +134,9 @@
       "distance": "3.2 mi",
       "url": "https://www.google.com/maps/search/Urban%20Air%20Trampoline%20and%20Adventure%20Park+near+38.99995860000001%2C-94.724899",
       "isFar": true
-    },
-    {
-      "name": "Wonder and Whoa",
-      "distance": "4.1 mi",
-      "url": "https://www.google.com/maps/search/Wonder%20and%20Whoa+near+38.99995860000001%2C-94.724899",
-      "isFar": true
     }
   ],
   "hotels": [
-    {
-      "name": "Quiet & Cozy Shawnee Home in Centralized Location",
-      "distance": "0.4 mi",
-      "url": "https://www.google.com/maps/search/Quiet%20%26%20Cozy%20Shawnee%20Home%20in%20Centralized%20Location+near+38.99995860000001%2C-94.724899"
-    },
-    {
-      "name": "Shawnee Vacation Rental about 11 Mi to Kansas City! - Apartment",
-      "distance": "0.4 mi",
-      "url": "https://www.google.com/maps/search/Shawnee%20Vacation%20Rental%20about%2011%20Mi%20to%20Kansas%20City!%20-%20Apartment+near+38.99995860000001%2C-94.724899"
-    },
-    {
-      "name": "Shawnee Vacation Rental ~ 11 Mi to Kansas City!",
-      "distance": "0.4 mi",
-      "url": "https://www.google.com/maps/search/Shawnee%20Vacation%20Rental%20~%2011%20Mi%20to%20Kansas%20City!+near+38.99995860000001%2C-94.724899"
-    },
-    {
-      "name": "Shawnee Vacation Rental ~ 11 Mi to Kansas City!",
-      "distance": "0.4 mi",
-      "url": "https://www.google.com/maps/search/Shawnee%20Vacation%20Rental%20~%2011%20Mi%20to%20Kansas%20City!+near+38.99995860000001%2C-94.724899"
-    },
-    {
-      "name": "Large Updated Home with Pool - Perfect place for Entertaining! Prime Location!",
-      "distance": "0.5 mi",
-      "url": "https://www.google.com/maps/search/Large%20Updated%20Home%20with%20Pool%20-%20Perfect%20place%20for%20Entertaining!%20Prime%20Location!+near+38.99995860000001%2C-94.724899"
-    },
-    {
-      "name": "Large Spacious Home with Pool - Perfect place for Entertaining! Prime Location!",
-      "distance": "0.5 mi",
-      "url": "https://www.google.com/maps/search/Large%20Spacious%20Home%20with%20Pool%20-%20Perfect%20place%20for%20Entertaining!%20Prime%20Location!+near+38.99995860000001%2C-94.724899"
-    },
     {
       "name": "Kansas Escape with Movie Room, Hot Tub, Mini Golf, Pickleball, Game Room & more!",
       "distance": "0.8 mi",
@@ -218,16 +157,6 @@
     {
       "name": "Phillips 66",
       "distance": "1.2 mi",
-      "url": "https://www.google.com/maps/search/Phillips%2066+near+38.99995860000001%2C-94.724899"
-    },
-    {
-      "name": "QuikTrip",
-      "distance": "1.2 mi",
-      "url": "https://www.google.com/maps/search/QuikTrip+near+38.99995860000001%2C-94.724899"
-    },
-    {
-      "name": "Phillips 66",
-      "distance": "1.4 mi",
       "url": "https://www.google.com/maps/search/Phillips%2066+near+38.99995860000001%2C-94.724899"
     }
   ]

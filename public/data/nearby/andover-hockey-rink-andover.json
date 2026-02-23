@@ -26,11 +26,6 @@
       "url": "https://www.google.com/maps/search/Chanticlear%20Pizza+near+45.2465731%2C-93.3088135"
     },
     {
-      "name": "Subway",
-      "distance": "1.7 mi",
-      "url": "https://www.google.com/maps/search/Subway+near+45.2465731%2C-93.3088135"
-    },
-    {
       "name": "Pizza Ranch",
       "distance": "1.8 mi",
       "url": "https://www.google.com/maps/search/Pizza%20Ranch+near+45.2465731%2C-93.3088135"
@@ -41,11 +36,6 @@
       "name": "Starbucks Coffee Company",
       "distance": "0.2 mi",
       "url": "https://www.google.com/maps/search/Starbucks%20Coffee%20Company+near+45.2465731%2C-93.3088135"
-    },
-    {
-      "name": "McDonald's",
-      "distance": "0.2 mi",
-      "url": "https://www.google.com/maps/search/McDonald's+near+45.2465731%2C-93.3088135"
     },
     {
       "name": "Active Energy",
@@ -92,11 +82,6 @@
       "url": "https://www.google.com/maps/search/Perfectly%20Filled%20Cupcakes+near+45.2465731%2C-93.3088135"
     },
     {
-      "name": "Walmart Bakery",
-      "distance": "1.7 mi",
-      "url": "https://www.google.com/maps/search/Walmart%20Bakery+near+45.2465731%2C-93.3088135"
-    },
-    {
       "name": "Acapulco Mexican Restaurant",
       "distance": "1.9 mi",
       "url": "https://www.google.com/maps/search/Acapulco%20Mexican%20Restaurant+near+45.2465731%2C-93.3088135"
@@ -123,18 +108,6 @@
       "name": "Classic Bowl",
       "distance": "5.1 mi",
       "url": "https://www.google.com/maps/search/Classic%20Bowl+near+45.2465731%2C-93.3088135",
-      "isFar": true
-    },
-    {
-      "name": "Blainbrook Entertainment Center",
-      "distance": "5.3 mi",
-      "url": "https://www.google.com/maps/search/Blainbrook%20Entertainment%20Center+near+45.2465731%2C-93.3088135",
-      "isFar": true
-    },
-    {
-      "name": "Bowlero Blaine",
-      "distance": "6.0 mi",
-      "url": "https://www.google.com/maps/search/Bowlero%20Blaine+near+45.2465731%2C-93.3088135",
       "isFar": true
     }
   ],
@@ -173,39 +146,9 @@
   ],
   "hotels": [
     {
-      "name": "Executive home with 5 bedrooms 4 bathrooms, pool table & 3 fireplaces",
-      "distance": "0.9 mi",
-      "url": "https://www.google.com/maps/search/Executive%20home%20with%205%20bedrooms%204%20bathrooms%2C%20pool%20table%20%26%203%20fireplaces+near+45.2465731%2C-93.3088135"
-    },
-    {
-      "name": "LL private access unit w / lux beds, pool table, theater room, Xbox /wifi.",
-      "distance": "0.9 mi",
-      "url": "https://www.google.com/maps/search/LL%20private%20access%20unit%20w%20%2F%20lux%20beds%2C%20pool%20table%2C%20theater%20room%2C%20Xbox%20%2Fwifi.+near+45.2465731%2C-93.3088135"
-    },
-    {
-      "name": "LL private access unit w/ lux beds, pool table, theater room, Xbox/wifi.",
-      "distance": "0.9 mi",
-      "url": "https://www.google.com/maps/search/LL%20private%20access%20unit%20w%2F%20lux%20beds%2C%20pool%20table%2C%20theater%20room%2C%20Xbox%2Fwifi.+near+45.2465731%2C-93.3088135"
-    },
-    {
       "name": "Andover stunner on acreage with underground pool",
       "distance": "1.0 mi",
       "url": "https://www.google.com/maps/search/Andover%20stunner%20on%20acreage%20with%20underground%20pool+near+45.2465731%2C-93.3088135"
-    },
-    {
-      "name": "★Nordic MN Apartment with private laundry!★",
-      "distance": "1.5 mi",
-      "url": "https://www.google.com/maps/search/%E2%98%85Nordic%20MN%20Apartment%20with%20private%20laundry!%E2%98%85+near+45.2465731%2C-93.3088135"
-    },
-    {
-      "name": "★Nordic MN Apartment with private laundry!★",
-      "distance": "1.5 mi",
-      "url": "https://www.google.com/maps/search/%E2%98%85Nordic%20MN%20Apartment%20with%20private%20laundry!%E2%98%85+near+45.2465731%2C-93.3088135"
-    },
-    {
-      "name": "Home for the Holidays: 2 Kitchens, 6 BR, 5 BA, Laundry, Garage!",
-      "distance": "1.8 mi",
-      "url": "https://www.google.com/maps/search/Home%20for%20the%20Holidays%3A%202%20Kitchens%2C%206%20BR%2C%205%20BA%2C%20Laundry%2C%20Garage!+near+45.2465731%2C-93.3088135"
     }
   ],
   "gas": [
@@ -228,11 +171,6 @@
       "name": "Gulf",
       "distance": "2.1 mi",
       "url": "https://www.google.com/maps/search/Gulf+near+45.2465731%2C-93.3088135"
-    },
-    {
-      "name": "BILL'S Superette",
-      "distance": "2.7 mi",
-      "url": "https://www.google.com/maps/search/BILL'S%20Superette+near+45.2465731%2C-93.3088135"
     }
   ]
 }

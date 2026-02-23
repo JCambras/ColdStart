@@ -29,19 +29,9 @@
       "name": "Subway",
       "distance": "1.1 mi",
       "url": "https://www.google.com/maps/search/Subway+near+38.485072900000006%2C-90.77826739999999"
-    },
-    {
-      "name": "Hardee's",
-      "distance": "1.2 mi",
-      "url": "https://www.google.com/maps/search/Hardee's+near+38.485072900000006%2C-90.77826739999999"
     }
   ],
   "coffee": [
-    {
-      "name": "McDonald's",
-      "distance": "1.0 mi",
-      "url": "https://www.google.com/maps/search/McDonald's+near+38.485072900000006%2C-90.77826739999999"
-    },
     {
       "name": "Little Ireland Coffee Store #1",
       "distance": "2.0 mi",
@@ -90,11 +80,6 @@
       "name": "Camila's at the Royal",
       "distance": "1.9 mi",
       "url": "https://www.google.com/maps/search/Camila's%20at%20the%20Royal+near+38.485072900000006%2C-90.77826739999999"
-    },
-    {
-      "name": "Brown Jerry's Blues, Brews & BBQ",
-      "distance": "1.9 mi",
-      "url": "https://www.google.com/maps/search/Brown%20Jerry's%20Blues%2C%20Brews%20%26%20BBQ+near+38.485072900000006%2C-90.77826739999999"
     }
   ],
   "bowling": [],
@@ -124,30 +109,9 @@
       "distance": "5.9 mi",
       "url": "https://www.google.com/maps/search/Bugs%20Bunny%20National%20Park+near+38.485072900000006%2C-90.77826739999999",
       "isFar": true
-    },
-    {
-      "name": "Studio Backlot",
-      "distance": "6.0 mi",
-      "url": "https://www.google.com/maps/search/Studio%20Backlot+near+38.485072900000006%2C-90.77826739999999",
-      "isFar": true
     }
   ],
   "hotels": [
-    {
-      "name": "Avery Mobile Home Park",
-      "distance": "0.8 mi",
-      "url": "https://www.google.com/maps/search/Avery%20Mobile%20Home%20Park+near+38.485072900000006%2C-90.77826739999999"
-    },
-    {
-      "name": "Serene & Cozy Cabin + LAKE! Near Purina Farms, Hidden Valley & Six Flags",
-      "distance": "1.1 mi",
-      "url": "https://www.google.com/maps/search/Serene%20%26%20Cozy%20Cabin%20%2B%20LAKE!%20Near%20Purina%20Farms%2C%20Hidden%20Valley%20%26%20Six%20Flags+near+38.485072900000006%2C-90.77826739999999"
-    },
-    {
-      "name": "Renovated home near Six Flags on quiet street - Kid & Pet Friendly",
-      "distance": "1.1 mi",
-      "url": "https://www.google.com/maps/search/Renovated%20home%20near%20Six%20Flags%20on%20quiet%20street%20-%20Kid%20%26%20Pet%20Friendly+near+38.485072900000006%2C-90.77826739999999"
-    },
     {
       "name": "Quality Inn Pacific near Six Flags St. Louis",
       "distance": "1.2 mi",
@@ -189,11 +153,6 @@
       "name": "MotoMart Convenience Stores",
       "distance": "1.2 mi",
       "url": "https://www.google.com/maps/search/MotoMart%20Convenience%20Stores+near+38.485072900000006%2C-90.77826739999999"
-    },
-    {
-      "name": "Phillips 66",
-      "distance": "2.1 mi",
-      "url": "https://www.google.com/maps/search/Phillips%2066+near+38.485072900000006%2C-90.77826739999999"
     }
   ]
 }

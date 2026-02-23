@@ -35,12 +35,6 @@
       "distance": "3.3 mi",
       "url": "https://www.google.com/maps/search/Taco%20King+near+61.0791396%2C-149.7784544",
       "isFar": true
-    },
-    {
-      "name": "Papa Murphy's | Take 'N' Bake Pizza",
-      "distance": "3.3 mi",
-      "url": "https://www.google.com/maps/search/Papa%20Murphy's%20%7C%20Take%20'N'%20Bake%20Pizza+near+61.0791396%2C-149.7784544",
-      "isFar": true
     }
   ],
   "coffee": [
@@ -60,12 +54,6 @@
       "name": "Starbucks Coffee Company",
       "distance": "3.3 mi",
       "url": "https://www.google.com/maps/search/Starbucks%20Coffee%20Company+near+61.0791396%2C-149.7784544",
-      "isFar": true
-    },
-    {
-      "name": "McDonald's",
-      "distance": "3.3 mi",
-      "url": "https://www.google.com/maps/search/McDonald's+near+61.0791396%2C-149.7784544",
       "isFar": true
     },
     {
@@ -185,11 +173,6 @@
   ],
   "hotels": [
     {
-      "name": "Golden View House · Spacious Mountain Retreat- Hot Tub, Beautiful View",
-      "distance": "0.2 mi",
-      "url": "https://www.google.com/maps/search/Golden%20View%20House%20%C2%B7%20Spacious%20Mountain%20Retreat-%20Hot%20Tub%2C%20Beautiful%20View+near+61.0791396%2C-149.7784544"
-    },
-    {
       "name": "Alaskan Sunset House - Ground Floor Unit",
       "distance": "0.2 mi",
       "url": "https://www.google.com/maps/search/Alaskan%20Sunset%20House%20-%20Ground%20Floor%20Unit+near+61.0791396%2C-149.7784544"
@@ -205,19 +188,9 @@
       "url": "https://www.google.com/maps/search/Secluded%20Waterfront%20Cottage%20Rental%20near%20Anchorage%2C%20Alaska+near+61.0791396%2C-149.7784544"
     },
     {
-      "name": "Hillside Haven",
-      "distance": "0.5 mi",
-      "url": "https://www.google.com/maps/search/Hillside%20Haven+near+61.0791396%2C-149.7784544"
-    },
-    {
       "name": "Sweet Dreams for 10 at Happy's House",
       "distance": "0.6 mi",
       "url": "https://www.google.com/maps/search/Sweet%20Dreams%20for%2010%20at%20Happy's%20House+near+61.0791396%2C-149.7784544"
-    },
-    {
-      "name": "Quiet Apartment in the Woods",
-      "distance": "0.6 mi",
-      "url": "https://www.google.com/maps/search/Quiet%20Apartment%20in%20the%20Woods+near+61.0791396%2C-149.7784544"
     }
   ],
   "gas": [
@@ -240,11 +213,6 @@
       "name": "Chevron",
       "distance": "4.0 mi",
       "url": "https://www.google.com/maps/search/Chevron+near+61.0791396%2C-149.7784544"
-    },
-    {
-      "name": "Chevron Denali Express",
-      "distance": "4.0 mi",
-      "url": "https://www.google.com/maps/search/Chevron%20Denali%20Express+near+61.0791396%2C-149.7784544"
     }
   ]
 }

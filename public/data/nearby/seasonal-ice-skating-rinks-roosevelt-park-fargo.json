@@ -95,11 +95,6 @@
       "name": "Michele's Table",
       "distance": "0.5 mi",
       "url": "https://www.google.com/maps/search/Michele's%20Table+near+46.8908202%2C-96.7927428"
-    },
-    {
-      "name": "Prairie Mill Cafe (Inside Sanford Health Broadway)",
-      "distance": "0.5 mi",
-      "url": "https://www.google.com/maps/search/Prairie%20Mill%20Cafe%20(Inside%20Sanford%20Health%20Broadway)+near+46.8908202%2C-96.7927428"
     }
   ],
   "bowling": [
@@ -117,12 +112,6 @@
       "name": "West Acres Bowl",
       "distance": "2.8 mi",
       "url": "https://www.google.com/maps/search/West%20Acres%20Bowl+near+46.8908202%2C-96.7927428"
-    },
-    {
-      "name": "The Bowler Inc.",
-      "distance": "3.6 mi",
-      "url": "https://www.google.com/maps/search/The%20Bowler%20Inc.+near+46.8908202%2C-96.7927428",
-      "isFar": true
     }
   ],
   "arcade": [],
@@ -167,51 +156,9 @@
       "distance": "3.5 mi",
       "url": "https://www.google.com/maps/search/Fargo%20Escape%20Room+near+46.8908202%2C-96.7927428",
       "isFar": true
-    },
-    {
-      "name": "Puzzled Escape Rooms",
-      "distance": "4.2 mi",
-      "url": "https://www.google.com/maps/search/Puzzled%20Escape%20Rooms+near+46.8908202%2C-96.7927428",
-      "isFar": true
     }
   ],
-  "hotels": [
-    {
-      "name": "HOT TUB Character home minutes to downtown Fargo & NDSU!",
-      "distance": "0.1 mi",
-      "url": "https://www.google.com/maps/search/HOT%20TUB%20Character%20home%20minutes%20to%20downtown%20Fargo%20%26%20NDSU!+near+46.8908202%2C-96.7927428"
-    },
-    {
-      "name": "3 min to NDSU I King I Self Check-In I Pack'n Play",
-      "distance": "0.1 mi",
-      "url": "https://www.google.com/maps/search/3%20min%20to%20NDSU%20I%20King%20I%20Self%20Check-In%20I%20Pack'n%20Play+near+46.8908202%2C-96.7927428"
-    },
-    {
-      "name": "Quaint, Pet-friendly Studio Close to NDSU, Fargodome and Downtown Restaurants",
-      "distance": "0.1 mi",
-      "url": "https://www.google.com/maps/search/Quaint%2C%20Pet-friendly%20Studio%20Close%20to%20NDSU%2C%20Fargodome%20and%20Downtown%20Restaurants+near+46.8908202%2C-96.7927428"
-    },
-    {
-      "name": "NEW Charming Home in the Heart of North Fargo",
-      "distance": "0.2 mi",
-      "url": "https://www.google.com/maps/search/NEW%20Charming%20Home%20in%20the%20Heart%20of%20North%20Fargo+near+46.8908202%2C-96.7927428"
-    },
-    {
-      "name": "NEW Charming Home in the Heart of North Fargo",
-      "distance": "0.2 mi",
-      "url": "https://www.google.com/maps/search/NEW%20Charming%20Home%20in%20the%20Heart%20of%20North%20Fargo+near+46.8908202%2C-96.7927428"
-    },
-    {
-      "name": "Quaint, Pet-friendly Studio Close to NDSU, Fargodome and Downtown Restaurants",
-      "distance": "0.2 mi",
-      "url": "https://www.google.com/maps/search/Quaint%2C%20Pet-friendly%20Studio%20Close%20to%20NDSU%2C%20Fargodome%20and%20Downtown%20Restaurants+near+46.8908202%2C-96.7927428"
-    },
-    {
-      "name": "2 Bedroom Apartment near NDSU and Downtown Fargo",
-      "distance": "0.2 mi",
-      "url": "https://www.google.com/maps/search/2%20Bedroom%20Apartment%20near%20NDSU%20and%20Downtown%20Fargo+near+46.8908202%2C-96.7927428"
-    }
-  ],
+  "hotels": [],
   "gas": [
     {
       "name": "Loaf N Jug",
@@ -232,11 +179,6 @@
       "name": "Circle K Gas Station",
       "distance": "0.9 mi",
       "url": "https://www.google.com/maps/search/Circle%20K%20Gas%20Station+near+46.8908202%2C-96.7927428"
-    },
-    {
-      "name": "Circle K",
-      "distance": "0.9 mi",
-      "url": "https://www.google.com/maps/search/Circle%20K+near+46.8908202%2C-96.7927428"
     }
   ]
 }

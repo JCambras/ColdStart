@@ -29,26 +29,6 @@
       "name": "Arby's",
       "distance": "1.4 mi",
       "url": "https://www.google.com/maps/search/?api=1&query=Arby's&query_place_id=ChIJ00CuExJXMogR9K0qi5o75wg&center=41.6317672,-80.1546935"
-    },
-    {
-      "name": "Subway",
-      "distance": "1.4 mi",
-      "url": "https://www.google.com/maps/search/?api=1&query=Subway&query_place_id=ChIJ6TiNGRJXMogRbz3ndagqZm4&center=41.6311259,-80.15494819999999"
-    },
-    {
-      "name": "Taco Bell",
-      "distance": "1.5 mi",
-      "url": "https://www.google.com/maps/search/?api=1&query=Taco%20Bell&query_place_id=ChIJy_ww9RFXMogR5h2vjmuRr6U&center=41.6302698,-80.15610749999999"
-    },
-    {
-      "name": "Giant Eagle Prepared Foods",
-      "distance": "2.3 mi",
-      "url": "https://www.google.com/maps/search/?api=1&query=Giant%20Eagle%20Prepared%20Foods&query_place_id=ChIJLS_iQiBXMogR6sNG1Nw8n14&center=41.6185115,-80.16711269999999"
-    },
-    {
-      "name": "Dairy Queen Grill & Chill",
-      "distance": "2.3 mi",
-      "url": "https://www.google.com/maps/search/?api=1&query=Dairy%20Queen%20Grill%20%26%20Chill&query_place_id=ChIJU_xlOSlXMogRF6ew5oIcZxw&center=41.6209777,-80.1691312"
     }
   ],
   "coffee": [
@@ -71,17 +51,6 @@
       "name": "French Creek Coffee and Tea Co.",
       "distance": "1.3 mi",
       "url": "https://www.google.com/maps/search/?api=1&query=French%20Creek%20Coffee%20and%20Tea%20Co.&query_place_id=ChIJkT3Wi3JXMogRsUwlSPbPD2E&center=41.6380147,-80.1518179"
-    },
-    {
-      "name": "McDonald's",
-      "distance": "1.4 mi",
-      "url": "https://www.google.com/maps/search/?api=1&query=McDonald's&query_place_id=ChIJDYwVnhJXMogRmUgLOuX8Ix4&center=41.634777199999995,-80.1544531"
-    },
-    {
-      "name": "McDonald's",
-      "distance": "3.8 mi",
-      "url": "https://www.google.com/maps/search/?api=1&query=McDonald's&query_place_id=ChIJuVzxEyFXMogR5jyOcMghFtE&center=41.6240303,-80.1996039",
-      "isFar": true
     }
   ],
   "team_lunch": [
@@ -89,12 +58,6 @@
       "name": "ORCHESTRATE",
       "distance": "1.2 mi",
       "url": "https://www.google.com/maps/search/?api=1&query=ORCHESTRATE&query_place_id=ChIJY44nN99XMogRrb63mxO8f2Y&center=41.636955199999996,-80.1509264"
-    },
-    {
-      "name": "Walmart Bakery",
-      "distance": "4.5 mi",
-      "url": "https://www.google.com/maps/search/?api=1&query=Walmart%20Bakery&query_place_id=ChIJf5AiwuFQMogRL1MVrt8eQg4&center=41.6221452,-80.21391539999999",
-      "isFar": true
     }
   ],
   "dinner": [

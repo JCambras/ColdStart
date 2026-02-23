@@ -28,11 +28,6 @@
   ],
   "coffee": [
     {
-      "name": "McDonald's",
-      "distance": "0.5 mi",
-      "url": "https://www.google.com/maps/search/McDonald's+near+44.108739799999995%2C-70.237156"
-    },
-    {
       "name": "Aroma Joe's Auburn - Coffee House & Drive-Thru",
       "distance": "0.6 mi",
       "url": "https://www.google.com/maps/search/Aroma%20Joe's%20Auburn%20-%20Coffee%20House%20%26%20Drive-Thru+near+44.108739799999995%2C-70.237156"
@@ -77,11 +72,6 @@
       "url": "https://www.google.com/maps/search/D'Angelo%20Grilled%20Sandwiches+near+44.108739799999995%2C-70.237156"
     },
     {
-      "name": "Walmart Bakery",
-      "distance": "0.6 mi",
-      "url": "https://www.google.com/maps/search/Walmart%20Bakery+near+44.108739799999995%2C-70.237156"
-    },
-    {
       "name": "Pat's Pizza",
       "distance": "0.6 mi",
       "url": "https://www.google.com/maps/search/Pat's%20Pizza+near+44.108739799999995%2C-70.237156"
@@ -115,26 +105,6 @@
     }
   ],
   "hotels": [
-    {
-      "name": "Charming 2-bedroom house in marvelous Auburn with AC, WiFi, and fenced yard.",
-      "distance": "0.3 mi",
-      "url": "https://www.google.com/maps/search/Charming%202-bedroom%20house%20in%20marvelous%20Auburn%20with%20AC%2C%20WiFi%2C%20and%20fenced%20yard.+near+44.108739799999995%2C-70.237156"
-    },
-    {
-      "name": "Charming 2-bedroom house in marvelous Auburn with AC, WiFi, and fenced yard.",
-      "distance": "0.4 mi",
-      "url": "https://www.google.com/maps/search/Charming%202-bedroom%20house%20in%20marvelous%20Auburn%20with%20AC%2C%20WiFi%2C%20and%20fenced%20yard.+near+44.108739799999995%2C-70.237156"
-    },
-    {
-      "name": "Cozy-chic getaway to all the best spots in Maine",
-      "distance": "0.5 mi",
-      "url": "https://www.google.com/maps/search/Cozy-chic%20getaway%20to%20all%20the%20best%20spots%20in%20Maine+near+44.108739799999995%2C-70.237156"
-    },
-    {
-      "name": "Open concept. In-town Auburn apartment",
-      "distance": "0.5 mi",
-      "url": "https://www.google.com/maps/search/Open%20concept.%20In-town%20Auburn%20apartment+near+44.108739799999995%2C-70.237156"
-    },
     {
       "name": "Center Street Value Inn",
       "distance": "0.5 mi",
@@ -171,11 +141,6 @@
       "name": "Mobil",
       "distance": "0.8 mi",
       "url": "https://www.google.com/maps/search/Mobil+near+44.108739799999995%2C-70.237156"
-    },
-    {
-      "name": "BJ's Gas Station",
-      "distance": "0.8 mi",
-      "url": "https://www.google.com/maps/search/BJ's%20Gas%20Station+near+44.108739799999995%2C-70.237156"
     }
   ]
 }

@@ -29,24 +29,9 @@
       "name": "Chipotle Mexican Grill",
       "distance": "0.5 mi",
       "url": "https://www.google.com/maps/search/Chipotle%20Mexican%20Grill+near+46.902318900000004%2C-96.7856204"
-    },
-    {
-      "name": "Burger King",
-      "distance": "0.7 mi",
-      "url": "https://www.google.com/maps/search/Burger%20King+near+46.902318900000004%2C-96.7856204"
     }
   ],
   "coffee": [
-    {
-      "name": "Caribou Coffee",
-      "distance": "0.6 mi",
-      "url": "https://www.google.com/maps/search/Caribou%20Coffee+near+46.902318900000004%2C-96.7856204"
-    },
-    {
-      "name": "McDonald's",
-      "distance": "0.6 mi",
-      "url": "https://www.google.com/maps/search/McDonald's+near+46.902318900000004%2C-96.7856204"
-    },
     {
       "name": "Caribou Coffee",
       "distance": "0.6 mi",
@@ -108,12 +93,6 @@
       "distance": "3.6 mi",
       "url": "https://www.google.com/maps/search/West%20Acres%20Bowl+near+46.902318900000004%2C-96.7856204",
       "isFar": true
-    },
-    {
-      "name": "The Bowler Inc.",
-      "distance": "4.4 mi",
-      "url": "https://www.google.com/maps/search/The%20Bowler%20Inc.+near+46.902318900000004%2C-96.7856204",
-      "isFar": true
     }
   ],
   "arcade": [],
@@ -159,51 +138,9 @@
       "distance": "4.1 mi",
       "url": "https://www.google.com/maps/search/Fargo%20Escape%20Room+near+46.902318900000004%2C-96.7856204",
       "isFar": true
-    },
-    {
-      "name": "Puzzled Escape Rooms",
-      "distance": "5.0 mi",
-      "url": "https://www.google.com/maps/search/Puzzled%20Escape%20Rooms+near+46.902318900000004%2C-96.7856204",
-      "isFar": true
     }
   ],
-  "hotels": [
-    {
-      "name": "✦ Fargo Getaway ✦ Hidden Gem ✦",
-      "distance": "0.3 mi",
-      "url": "https://www.google.com/maps/search/%E2%9C%A6%20Fargo%20Getaway%20%E2%9C%A6%20Hidden%20Gem%20%E2%9C%A6+near+46.902318900000004%2C-96.7856204"
-    },
-    {
-      "name": "Modern North Fargo Home near the Fargodome",
-      "distance": "0.4 mi",
-      "url": "https://www.google.com/maps/search/Modern%20North%20Fargo%20Home%20near%20the%20Fargodome+near+46.902318900000004%2C-96.7856204"
-    },
-    {
-      "name": "Superb 2 BR w/garage near Fargodome",
-      "distance": "0.4 mi",
-      "url": "https://www.google.com/maps/search/Superb%202%20BR%20w%2Fgarage%20near%20Fargodome+near+46.902318900000004%2C-96.7856204"
-    },
-    {
-      "name": "The Blue Cottage Blocks from NDSU - Furnished & Ready For You!",
-      "distance": "0.5 mi",
-      "url": "https://www.google.com/maps/search/The%20Blue%20Cottage%20Blocks%20from%20NDSU%20-%20Furnished%20%26%20Ready%20For%20You!+near+46.902318900000004%2C-96.7856204"
-    },
-    {
-      "name": "Amazing 2 Bedroom 1 Bathroom Upper Level Home",
-      "distance": "0.5 mi",
-      "url": "https://www.google.com/maps/search/Amazing%202%20Bedroom%201%20Bathroom%20Upper%20Level%20Home+near+46.902318900000004%2C-96.7856204"
-    },
-    {
-      "name": "✦ Fargo Getaway ✦ Hidden Gem ✦",
-      "distance": "0.5 mi",
-      "url": "https://www.google.com/maps/search/%E2%9C%A6%20Fargo%20Getaway%20%E2%9C%A6%20Hidden%20Gem%20%E2%9C%A6+near+46.902318900000004%2C-96.7856204"
-    },
-    {
-      "name": "Completely Remodeled Home Blocks from NDSU and Downtown Fargo",
-      "distance": "0.6 mi",
-      "url": "https://www.google.com/maps/search/Completely%20Remodeled%20Home%20Blocks%20from%20NDSU%20and%20Downtown%20Fargo+near+46.902318900000004%2C-96.7856204"
-    }
-  ],
+  "hotels": [],
   "gas": [
     {
       "name": "Circle K Gas Station",
@@ -224,11 +161,6 @@
       "name": "Ted's Northport Tesoro",
       "distance": "0.7 mi",
       "url": "https://www.google.com/maps/search/Ted's%20Northport%20Tesoro+near+46.902318900000004%2C-96.7856204"
-    },
-    {
-      "name": "Cenex",
-      "distance": "0.9 mi",
-      "url": "https://www.google.com/maps/search/Cenex+near+46.902318900000004%2C-96.7856204"
     }
   ]
 }

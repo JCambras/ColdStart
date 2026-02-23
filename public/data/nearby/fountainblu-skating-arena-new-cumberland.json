@@ -29,30 +29,6 @@
       "name": "Subway",
       "distance": "2.4 mi",
       "url": "https://www.google.com/maps/search/?api=1&query=Subway&query_place_id=ChIJl2Snk8WUyIkRuLKFIa_YWNE&center=40.1495908,-76.8131767"
-    },
-    {
-      "name": "Wendy's",
-      "distance": "3.4 mi",
-      "url": "https://www.google.com/maps/search/?api=1&query=Wendy's&query_place_id=ChIJ5QM0csi_yIkR8bNdBgXmfR0&center=40.2173753,-76.7912012",
-      "isFar": true
-    },
-    {
-      "name": "Taco Bell",
-      "distance": "3.5 mi",
-      "url": "https://www.google.com/maps/search/?api=1&query=Taco%20Bell&query_place_id=ChIJp9JDdci_yIkR-NW_AFRO_ig&center=40.2185269,-76.7913973",
-      "isFar": true
-    },
-    {
-      "name": "Plants in the Cloud",
-      "distance": "3.7 mi",
-      "url": "https://www.google.com/maps/search/?api=1&query=Plants%20in%20the%20Cloud&query_place_id=ChIJv3KIajHByIkR7VBPVYlVjGk&center=40.227779399999996,-76.86514830000002",
-      "isFar": true
-    },
-    {
-      "name": "Wawa",
-      "distance": "4.3 mi",
-      "url": "https://www.google.com/maps/search/?api=1&query=Wawa&query_place_id=ChIJu8ln2W6_yIkR_0iEIlhHkzE&center=40.199437,-76.7570181",
-      "isFar": true
     }
   ],
   "coffee": [
@@ -62,38 +38,9 @@
       "url": "https://www.google.com/maps/search/?api=1&query=Dunkin'&query_place_id=ChIJkTTFALTryIkRcNSPcjFtBt8&center=40.17648,-76.8346241"
     },
     {
-      "name": "McDonald's",
-      "distance": "2.0 mi",
-      "url": "https://www.google.com/maps/search/?api=1&query=McDonald's&query_place_id=ChIJUX328tGUyIkR6_AYKZ3MzPw&center=40.1537832,-76.8196665"
-    },
-    {
       "name": "Inflight Café - Defense Dining",
       "distance": "2.4 mi",
       "url": "https://www.google.com/maps/search/?api=1&query=Inflight%20Caf%C3%A9%20-%20Defense%20Dining&query_place_id=ChIJiyvNC5bByIkRlHSVcxXhbzw&center=40.212284,-76.8506755"
-    },
-    {
-      "name": "McDonald's",
-      "distance": "3.2 mi",
-      "url": "https://www.google.com/maps/search/?api=1&query=McDonald's&query_place_id=ChIJj5XvOyzAyIkRDUPUU0MPftI&center=40.212575799999996,-76.87879810000001",
-      "isFar": true
-    },
-    {
-      "name": "McDonald's",
-      "distance": "3.7 mi",
-      "url": "https://www.google.com/maps/search/?api=1&query=McDonald's&query_place_id=ChIJuYGKDgC_yIkR79_crZqF4Q8&center=40.2016352,-76.770259",
-      "isFar": true
-    },
-    {
-      "name": "McDonald's",
-      "distance": "4.3 mi",
-      "url": "https://www.google.com/maps/search/?api=1&query=McDonald's&query_place_id=ChIJHX9XJfa_yIkR5vymkS1fXDE&center=40.1993771,-76.7577009",
-      "isFar": true
-    },
-    {
-      "name": "Wawa",
-      "distance": "4.3 mi",
-      "url": "https://www.google.com/maps/search/?api=1&query=Wawa&query_place_id=ChIJu8ln2W6_yIkR_0iEIlhHkzE&center=40.199437,-76.7570181",
-      "isFar": true
     }
   ],
   "team_lunch": [
@@ -111,11 +58,6 @@
       "name": "Urban Grain Company",
       "distance": "1.8 mi",
       "url": "https://www.google.com/maps/search/?api=1&query=Urban%20Grain%20Company&query_place_id=ChIJuwhBiXuVyIkRyY8LE9iIkWk&center=40.1596814,-76.8130615"
-    },
-    {
-      "name": "Walmart Bakery",
-      "distance": "2.4 mi",
-      "url": "https://www.google.com/maps/search/?api=1&query=Walmart%20Bakery&query_place_id=ChIJwVg2dMWUyIkRJOZG-V4Kbhc&center=40.1496409,-76.8132691"
     },
     {
       "name": "Auntie Anne's",

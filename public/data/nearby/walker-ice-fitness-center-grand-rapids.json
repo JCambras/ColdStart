@@ -29,42 +29,9 @@
       "name": "Chick-fil-A",
       "distance": "2.3 mi",
       "url": "https://www.google.com/maps/search/?api=1&query=Chick-fil-A&query_place_id=ChIJQ-s_bSylGYgRkkkFqFqSb80&center=42.971951,-85.77575"
-    },
-    {
-      "name": "Jimmy John's",
-      "distance": "2.4 mi",
-      "url": "https://www.google.com/maps/search/?api=1&query=Jimmy%20John's&query_place_id=ChIJDdA9R3ClGYgRMnm19rtaXrg&center=42.9718958,-85.77866689999999"
-    },
-    {
-      "name": "Wendy's",
-      "distance": "2.4 mi",
-      "url": "https://www.google.com/maps/search/?api=1&query=Wendy's&query_place_id=ChIJgx3Cs4evGYgR383Ls3oiPR0&center=42.9717763,-85.7642274"
-    },
-    {
-      "name": "Subway",
-      "distance": "3.4 mi",
-      "url": "https://www.google.com/maps/search/?api=1&query=Subway&query_place_id=ChIJmyEgT_KuGYgRl_YB-yt-LyE&center=42.985777299999995,-85.7086046",
-      "isFar": true
-    },
-    {
-      "name": "Burger King",
-      "distance": "3.9 mi",
-      "url": "https://www.google.com/maps/search/?api=1&query=Burger%20King&query_place_id=ChIJ83N2aI6uGYgRpgzwImiFyLM&center=42.98587380000001,-85.6986032",
-      "isFar": true
     }
   ],
-  "coffee": [
-    {
-      "name": "McDonald's",
-      "distance": "2.3 mi",
-      "url": "https://www.google.com/maps/search/?api=1&query=McDonald's&query_place_id=ChIJwxKDHnulGYgRXjAekJIdCiA&center=42.972777,-85.77427399999999"
-    },
-    {
-      "name": "McDonald's",
-      "distance": "2.5 mi",
-      "url": "https://www.google.com/maps/search/?api=1&query=McDonald's&query_place_id=ChIJ4dXmjCqpGYgRHkQj8_dmUcw&center=43.0195189,-85.7245815"
-    }
-  ],
+  "coffee": [],
   "team_lunch": [
     {
       "name": "Simply Rustic Dough",
@@ -125,11 +92,6 @@
       "name": "Ludwick's Bakery",
       "distance": "1.4 mi",
       "url": "https://www.google.com/maps/search/Ludwick's%20Bakery+near+43.0056454%2C-85.7712046"
-    },
-    {
-      "name": "Lost Art Catering",
-      "distance": "1.5 mi",
-      "url": "https://www.google.com/maps/search/Lost%20Art%20Catering+near+43.0056454%2C-85.7712046"
     }
   ],
   "bowling": [
@@ -186,16 +148,6 @@
       "url": "https://www.google.com/maps/search/Space%2C%20space%2C%20space%2C%20very%20clean%2C%20doesn't%20disappoint!+near+43.0056454%2C-85.7712046"
     },
     {
-      "name": "Suburban Garden on 1.5 acres with pool and hot tub",
-      "distance": "2.0 mi",
-      "url": "https://www.google.com/maps/search/Suburban%20Garden%20on%201.5%20acres%20with%20pool%20and%20hot%20tub+near+43.0056454%2C-85.7712046"
-    },
-    {
-      "name": "Space everyone can enjoy, 4 miles to downtown Grand Rapids!",
-      "distance": "2.0 mi",
-      "url": "https://www.google.com/maps/search/Space%20everyone%20can%20enjoy%2C%204%20miles%20to%20downtown%20Grand%20Rapids!+near+43.0056454%2C-85.7712046"
-    },
-    {
       "name": "Space everyone can enjoy, 4 miles to downtown Grand Rapids!",
       "distance": "2.0 mi",
       "url": "https://www.google.com/maps/search/Space%20everyone%20can%20enjoy%2C%204%20miles%20to%20downtown%20Grand%20Rapids!+near+43.0056454%2C-85.7712046"
@@ -226,11 +178,6 @@
       "name": "Fruit Ridge Citgo",
       "distance": "1.1 mi",
       "url": "https://www.google.com/maps/search/Fruit%20Ridge%20Citgo+near+43.0056454%2C-85.7712046"
-    },
-    {
-      "name": "Ago",
-      "distance": "1.1 mi",
-      "url": "https://www.google.com/maps/search/Ago+near+43.0056454%2C-85.7712046"
     }
   ]
 }

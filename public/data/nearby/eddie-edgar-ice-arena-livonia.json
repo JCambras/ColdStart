@@ -29,26 +29,6 @@
       "name": "Tim Hortons",
       "distance": "1.4 mi",
       "url": "https://www.google.com/maps/search/?api=1&query=Tim%20Hortons&query_place_id=ChIJizQCUC-zJIgRgLW6jkDRjJ0&center=42.3687056,-83.37330229999999"
-    },
-    {
-      "name": "Pita Way - Livonia Mediterranean",
-      "distance": "1.4 mi",
-      "url": "https://www.google.com/maps/search/?api=1&query=Pita%20Way%20-%20Livonia%20Mediterranean&query_place_id=ChIJoeJt8BmzJIgRpnNSQBcV8fM&center=42.3689989,-83.37029"
-    },
-    {
-      "name": "Wendy's",
-      "distance": "1.4 mi",
-      "url": "https://www.google.com/maps/search/?api=1&query=Wendy's&query_place_id=ChIJD4MhEdeyJIgR_Emi9y3lhsY&center=42.3686631,-83.3825719"
-    },
-    {
-      "name": "Wendy's",
-      "distance": "1.4 mi",
-      "url": "https://www.google.com/maps/search/?api=1&query=Wendy's&query_place_id=ChIJAfv0Bp6zJIgR3Ina3fhD4fk&center=42.398106,-83.3524896"
-    },
-    {
-      "name": "Dairy Queen Grill & Chill",
-      "distance": "1.5 mi",
-      "url": "https://www.google.com/maps/search/?api=1&query=Dairy%20Queen%20Grill%20%26%20Chill&query_place_id=ChIJpa6u3GmzJIgR-b_vfbt3mWQ&center=42.367878,-83.3710686"
     }
   ],
   "coffee": [
@@ -105,11 +85,6 @@
       "name": "Sam's Place",
       "distance": "0.6 mi",
       "url": "https://www.google.com/maps/search/Sam's%20Place+near+42.388467%2C-83.37679949999999"
-    },
-    {
-      "name": "Simply BKLVA",
-      "distance": "0.8 mi",
-      "url": "https://www.google.com/maps/search/Simply%20BKLVA+near+42.388467%2C-83.37679949999999"
     }
   ],
   "bowling": [
@@ -127,30 +102,6 @@
       "name": "Oak Lanes",
       "distance": "3.5 mi",
       "url": "https://www.google.com/maps/search/Oak%20Lanes+near+42.388467%2C-83.37679949999999",
-      "isFar": true
-    },
-    {
-      "name": "Mayflower Lanes",
-      "distance": "3.9 mi",
-      "url": "https://www.google.com/maps/search/Mayflower%20Lanes+near+42.388467%2C-83.37679949999999",
-      "isFar": true
-    },
-    {
-      "name": "Westland Bowl",
-      "distance": "4.3 mi",
-      "url": "https://www.google.com/maps/search/Westland%20Bowl+near+42.388467%2C-83.37679949999999",
-      "isFar": true
-    },
-    {
-      "name": "Western Wayne County Usbc Association",
-      "distance": "4.3 mi",
-      "url": "https://www.google.com/maps/search/Western%20Wayne%20County%20Usbc%20Association+near+42.388467%2C-83.37679949999999",
-      "isFar": true
-    },
-    {
-      "name": "Plaza Lanes",
-      "distance": "4.6 mi",
-      "url": "https://www.google.com/maps/search/Plaza%20Lanes+near+42.388467%2C-83.37679949999999",
       "isFar": true
     }
   ],
@@ -195,24 +146,6 @@
       "distance": "3.3 mi",
       "url": "https://www.google.com/maps/search/Fun%204%20Us%20Entertainment+near+42.388467%2C-83.37679949999999",
       "isFar": true
-    },
-    {
-      "name": "FUNBOX WESTLAND",
-      "distance": "3.4 mi",
-      "url": "https://www.google.com/maps/search/FUNBOX%20WESTLAND+near+42.388467%2C-83.37679949999999",
-      "isFar": true
-    },
-    {
-      "name": "Yoyo's Fun Center",
-      "distance": "3.7 mi",
-      "url": "https://www.google.com/maps/search/Yoyo's%20Fun%20Center+near+42.388467%2C-83.37679949999999",
-      "isFar": true
-    },
-    {
-      "name": "Handy Park Spray Pad",
-      "distance": "3.7 mi",
-      "url": "https://www.google.com/maps/search/Handy%20Park%20Spray%20Pad+near+42.388467%2C-83.37679949999999",
-      "isFar": true
     }
   ],
   "hotels": [
@@ -235,16 +168,6 @@
       "name": "Curtis Creek Apts",
       "distance": "2.2 mi",
       "url": "https://www.google.com/maps/search/Curtis%20Creek%20Apts+near+42.388467%2C-83.37679949999999"
-    },
-    {
-      "name": "Cozy 3BR Ranch with Park & Tennis Court, Free Wi-Fi!",
-      "distance": "2.2 mi",
-      "url": "https://www.google.com/maps/search/Cozy%203BR%20Ranch%20with%20Park%20%26%20Tennis%20Court%2C%20Free%20Wi-Fi!+near+42.388467%2C-83.37679949999999"
-    },
-    {
-      "name": "Cozy 3BR Ranch with Park Tennis Court, Free Wi-Fi!",
-      "distance": "2.2 mi",
-      "url": "https://www.google.com/maps/search/Cozy%203BR%20Ranch%20with%20Park%20Tennis%20Court%2C%20Free%20Wi-Fi!+near+42.388467%2C-83.37679949999999"
     },
     {
       "name": "Quality Inn & Suites Banquet Center",
@@ -272,11 +195,6 @@
       "name": "bp",
       "distance": "0.5 mi",
       "url": "https://www.google.com/maps/search/bp+near+42.388467%2C-83.37679949999999"
-    },
-    {
-      "name": "Mobil",
-      "distance": "1.2 mi",
-      "url": "https://www.google.com/maps/search/Mobil+near+42.388467%2C-83.37679949999999"
     }
   ]
 }

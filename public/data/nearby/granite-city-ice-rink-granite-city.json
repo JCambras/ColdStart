@@ -29,26 +29,6 @@
       "name": "KFC",
       "distance": "0.7 mi",
       "url": "https://www.google.com/maps/search/?api=1&query=KFC&query_place_id=ChIJk7rRcDpS34cRkgkFV4TedSc&center=38.7227849,-90.1217004"
-    },
-    {
-      "name": "Popeyes Louisiana Kitchen",
-      "distance": "0.7 mi",
-      "url": "https://www.google.com/maps/search/?api=1&query=Popeyes%20Louisiana%20Kitchen&query_place_id=ChIJWfQwD99T34cRJmq_Z5nAUMw&center=38.723693499999996,-90.12229219999999"
-    },
-    {
-      "name": "Jack in the Box",
-      "distance": "0.7 mi",
-      "url": "https://www.google.com/maps/search/?api=1&query=Jack%20in%20the%20Box&query_place_id=ChIJIUHHXjpS34cRL9EIbkK-Ml8&center=38.7244546,-90.1225394"
-    },
-    {
-      "name": "Arby's",
-      "distance": "0.7 mi",
-      "url": "https://www.google.com/maps/search/?api=1&query=Arby's&query_place_id=ChIJkTFa0jpS34cRERwss5vZOHc&center=38.725777199999996,-90.1236648"
-    },
-    {
-      "name": "Subway",
-      "distance": "0.9 mi",
-      "url": "https://www.google.com/maps/search/?api=1&query=Subway&query_place_id=ChIJ2dwHASVS34cRwd2gSbggKI0&center=38.7298433,-90.12521249999999"
     }
   ],
   "coffee": [
@@ -66,16 +46,6 @@
       "name": "Scooter's Coffee",
       "distance": "0.7 mi",
       "url": "https://www.google.com/maps/search/?api=1&query=Scooter's%20Coffee&query_place_id=ChIJLT_3KQBT34cRO3rmtoOwAEQ&center=38.7232846,-90.1220359"
-    },
-    {
-      "name": "McDonald's",
-      "distance": "0.7 mi",
-      "url": "https://www.google.com/maps/search/?api=1&query=McDonald's&query_place_id=ChIJvdYweDpS34cRjhGjlS4UIuw&center=38.723628,-90.1214665"
-    },
-    {
-      "name": "McDonald's",
-      "distance": "1.4 mi",
-      "url": "https://www.google.com/maps/search/?api=1&query=McDonald's&query_place_id=ChIJp3cBS3lS34cRaD9jO9BBQEs&center=38.7008355,-90.1455608"
     }
   ],
   "team_lunch": [
@@ -88,11 +58,6 @@
       "name": "TheSweetSaloon",
       "distance": "1.0 mi",
       "url": "https://www.google.com/maps/search/?api=1&query=TheSweetSaloon&query_place_id=ChIJzdQ_a8tT34cReGwA14I-3hk&center=38.725238499999996,-90.11646189999999"
-    },
-    {
-      "name": "Walmart Bakery",
-      "distance": "1.4 mi",
-      "url": "https://www.google.com/maps/search/?api=1&query=Walmart%20Bakery&query_place_id=ChIJ7Yd1ngJS34cRKBRW756Ojis&center=38.736639,-90.1416004"
     }
   ],
   "dinner": [

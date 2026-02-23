@@ -29,11 +29,6 @@
   ],
   "coffee": [
     {
-      "name": "McDonald's",
-      "distance": "0.7 mi",
-      "url": "https://www.google.com/maps/search/McDonald's+near+36.001841%2C-78.8613298"
-    },
-    {
       "name": "Biscuitville",
       "distance": "0.8 mi",
       "url": "https://www.google.com/maps/search/Biscuitville+near+36.001841%2C-78.8613298"
@@ -54,11 +49,6 @@
       "name": "Delicias de Arly",
       "distance": "0.8 mi",
       "url": "https://www.google.com/maps/search/Delicias%20de%20Arly+near+36.001841%2C-78.8613298"
-    },
-    {
-      "name": "Wilson's soul food kitchen",
-      "distance": "0.8 mi",
-      "url": "https://www.google.com/maps/search/Wilson's%20soul%20food%20kitchen+near+36.001841%2C-78.8613298"
     },
     {
       "name": "LATIN AMERICANS FOODS INC",
@@ -96,11 +86,6 @@
       "name": "The Dog House",
       "distance": "0.8 mi",
       "url": "https://www.google.com/maps/search/The%20Dog%20House+near+36.001841%2C-78.8613298"
-    },
-    {
-      "name": "Salsa Brava",
-      "distance": "0.8 mi",
-      "url": "https://www.google.com/maps/search/Salsa%20Brava+near+36.001841%2C-78.8613298"
     }
   ],
   "bowling": [
@@ -135,49 +120,13 @@
       "distance": "3.5 mi",
       "url": "https://www.google.com/maps/search/Bull%20City%20Escape+near+36.001841%2C-78.8613298",
       "isFar": true
-    },
-    {
-      "name": "Angel Island Fun Park | Durham NC",
-      "distance": "6.2 mi",
-      "url": "https://www.google.com/maps/search/Angel%20Island%20Fun%20Park%20%7C%20Durham%20NC+near+36.001841%2C-78.8613298",
-      "isFar": true
     }
   ],
   "hotels": [
     {
-      "name": "Cozy Home Away From Home- 10MIN From DT Durham, Family-Friendly Neighborhood",
-      "distance": "0.3 mi",
-      "url": "https://www.google.com/maps/search/Cozy%20Home%20Away%20From%20Home-%2010MIN%20From%20DT%20Durham%2C%20Family-Friendly%20Neighborhood+near+36.001841%2C-78.8613298"
-    },
-    {
-      "name": "Cozy 2bd house in Durham with fully fenced backyard and office, pet friendly!",
-      "distance": "0.3 mi",
-      "url": "https://www.google.com/maps/search/Cozy%202bd%20house%20in%20Durham%20with%20fully%20fenced%20backyard%20and%20office%2C%20pet%20friendly!+near+36.001841%2C-78.8613298"
-    },
-    {
       "name": "Durham Home with Screened Porch about 3 Mi to Downtown!",
       "distance": "0.4 mi",
       "url": "https://www.google.com/maps/search/Durham%20Home%20with%20Screened%20Porch%20about%203%20Mi%20to%20Downtown!+near+36.001841%2C-78.8613298"
-    },
-    {
-      "name": "Durham Home w/ Screened Porch ~ 3 Mi to Downtown! - House (2 Bedrooms)",
-      "distance": "0.4 mi",
-      "url": "https://www.google.com/maps/search/Durham%20Home%20w%2F%20Screened%20Porch%20~%203%20Mi%20to%20Downtown!%20-%20House%20(2%20Bedrooms)+near+36.001841%2C-78.8613298"
-    },
-    {
-      "name": "Family-Friendly 4BR w/ Fenced Yard & Parking",
-      "distance": "0.5 mi",
-      "url": "https://www.google.com/maps/search/Family-Friendly%204BR%20w%2F%20Fenced%20Yard%20%26%20Parking+near+36.001841%2C-78.8613298"
-    },
-    {
-      "name": "Family-Friendly 4BR with Fenced Yard Parking - Four-Bedroom House",
-      "distance": "0.5 mi",
-      "url": "https://www.google.com/maps/search/Family-Friendly%204BR%20with%20Fenced%20Yard%20Parking%20-%20Four-Bedroom%20House+near+36.001841%2C-78.8613298"
-    },
-    {
-      "name": "Cozy 2bd house in Durham with fully fenced backyard and office, pet friendly!",
-      "distance": "0.5 mi",
-      "url": "https://www.google.com/maps/search/Cozy%202bd%20house%20in%20Durham%20with%20fully%20fenced%20backyard%20and%20office%2C%20pet%20friendly!+near+36.001841%2C-78.8613298"
     }
   ],
   "gas": [
@@ -200,11 +149,6 @@
       "name": "Speedway",
       "distance": "1.0 mi",
       "url": "https://www.google.com/maps/search/Speedway+near+36.001841%2C-78.8613298"
-    },
-    {
-      "name": "bp",
-      "distance": "1.5 mi",
-      "url": "https://www.google.com/maps/search/bp+near+36.001841%2C-78.8613298"
     }
   ]
 }

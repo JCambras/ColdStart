@@ -29,27 +29,6 @@
       "name": "Taco Bell",
       "distance": "2.4 mi",
       "url": "https://www.google.com/maps/search/?api=1&query=Taco%20Bell&query_place_id=ChIJhRCUfh2UxokRqe5EpI5oNzY&center=40.1148301,-75.4186198"
-    },
-    {
-      "name": "Tandoori Company",
-      "distance": "2.8 mi",
-      "url": "https://www.google.com/maps/search/?api=1&query=Tandoori%20Company&query_place_id=ChIJA9xEij6RxokRd1B1LakNYSk&center=40.1667884,-75.4785757"
-    },
-    {
-      "name": "Mumbai Fusion",
-      "distance": "2.9 mi",
-      "url": "https://www.google.com/maps/search/?api=1&query=Mumbai%20Fusion&query_place_id=ChIJZR8R9qeVxokRmLw-5mXDWUw&center=40.1052718,-75.41480179999999"
-    },
-    {
-      "name": "Wawa",
-      "distance": "2.9 mi",
-      "url": "https://www.google.com/maps/search/?api=1&query=Wawa&query_place_id=ChIJ7fKQi5OWxokR-7eDWKM1wjk&center=40.12744,-75.40593"
-    },
-    {
-      "name": "Chick-fil-A",
-      "distance": "3.0 mi",
-      "url": "https://www.google.com/maps/search/?api=1&query=Chick-fil-A&query_place_id=ChIJye108paWxokRRa8A2TVtV9c&center=40.1280597,-75.403475",
-      "isFar": true
     }
   ],
   "coffee": [
@@ -64,24 +43,9 @@
       "url": "https://www.google.com/maps/search/?api=1&query=Starbucks%20Coffee%20Company&query_place_id=ChIJ_dF86_6RxokR3VG1tjIYYpk&center=40.133109999999995,-75.45218"
     },
     {
-      "name": "Wawa",
-      "distance": "0.7 mi",
-      "url": "https://www.google.com/maps/search/?api=1&query=Wawa&query_place_id=ChIJgcHKR0GRxokRslK7cajHdOM&center=40.1342897,-75.4513353"
-    },
-    {
       "name": "Dunkin'",
       "distance": "0.8 mi",
       "url": "https://www.google.com/maps/search/?api=1&query=Dunkin'&query_place_id=ChIJUelTukeRxokRM3bV01aw3OI&center=40.1349503,-75.4481102"
-    },
-    {
-      "name": "Wawa",
-      "distance": "2.9 mi",
-      "url": "https://www.google.com/maps/search/?api=1&query=Wawa&query_place_id=ChIJ7fKQi5OWxokR-7eDWKM1wjk&center=40.12744,-75.40593"
-    },
-    {
-      "name": "McDonald's",
-      "distance": "2.9 mi",
-      "url": "https://www.google.com/maps/search/?api=1&query=McDonald's&query_place_id=ChIJyywcm5OWxokR5xZsPF0MzSQ&center=40.1280307,-75.4051747"
     },
     {
       "name": "260 Bridge Cafe",
@@ -94,21 +58,9 @@
       "distance": "3.1 mi",
       "url": "https://www.google.com/maps/search/?api=1&query=The%20Foodery&query_place_id=ChIJiYzwGvuRxokRSbKvkE0QGyA&center=40.133867699999996,-75.51953089999999",
       "isFar": true
-    },
-    {
-      "name": "Abuela Mela Colombian Bakery",
-      "distance": "3.1 mi",
-      "url": "https://www.google.com/maps/search/?api=1&query=Abuela%20Mela%20Colombian%20Bakery&query_place_id=ChIJqwMwHSyXxokRFAog2ITDZqk&center=40.1311816,-75.4015805",
-      "isFar": true
     }
   ],
   "team_lunch": [
-    {
-      "name": "Walmart Bakery",
-      "distance": "3.1 mi",
-      "url": "https://www.google.com/maps/search/?api=1&query=Walmart%20Bakery&query_place_id=ChIJVVVVRJKWxokRGcWCIjvpKkI&center=40.1272751,-75.4015122",
-      "isFar": true
-    },
     {
       "name": "Auntie Anne's",
       "distance": "3.1 mi",

@@ -29,21 +29,6 @@
       "name": "Burger King",
       "distance": "1.6 mi",
       "url": "https://www.google.com/maps/search/?api=1&query=Burger%20King&query_place_id=ChIJC9WSqR6e5IkRW99-xzBy9sU&center=42.166754399999995,-70.8889684"
-    },
-    {
-      "name": "Taco Bell",
-      "distance": "2.2 mi",
-      "url": "https://www.google.com/maps/search/?api=1&query=Taco%20Bell&query_place_id=ChIJeyVSEd5h44kRSXmz6iIkSGg&center=42.1731923,-70.881528"
-    },
-    {
-      "name": "Subway",
-      "distance": "2.3 mi",
-      "url": "https://www.google.com/maps/search/?api=1&query=Subway&query_place_id=ChIJiU8oQJ2d5IkRoknQtonZ9xE&center=42.1715869,-70.9529659"
-    },
-    {
-      "name": "Windy City Pizza - Weymouth",
-      "distance": "2.3 mi",
-      "url": "https://www.google.com/maps/search/?api=1&query=Windy%20City%20Pizza%20-%20Weymouth&query_place_id=ChIJkaKGSYGd5IkRCtmVopaD1TI&center=42.1686336,-70.9556722"
     }
   ],
   "coffee": [
@@ -66,16 +51,6 @@
       "name": "Hole In One Donuts and Coffee Rockland",
       "distance": "2.2 mi",
       "url": "https://www.google.com/maps/search/?api=1&query=Hole%20In%20One%20Donuts%20and%20Coffee%20Rockland&query_place_id=ChIJX6ndHwCf5IkRD3-hTOmcteE&center=42.1243555,-70.90292029999999"
-    },
-    {
-      "name": "McDonald's",
-      "distance": "2.2 mi",
-      "url": "https://www.google.com/maps/search/?api=1&query=McDonald's&query_place_id=ChIJi_kdkyOc5IkRjP7fd5-13D0&center=42.1218236,-70.9149842"
-    },
-    {
-      "name": "McDonald's",
-      "distance": "2.3 mi",
-      "url": "https://www.google.com/maps/search/?api=1&query=McDonald's&query_place_id=ChIJTYH8aN5h44kRDpjdJUg1qUw&center=42.17375,-70.88069"
     }
   ],
   "team_lunch": [
@@ -108,11 +83,6 @@
       "name": "D'Angelo Grilled Sandwiches",
       "distance": "2.1 mi",
       "url": "https://www.google.com/maps/search/?api=1&query=D'Angelo%20Grilled%20Sandwiches&query_place_id=ChIJ4wFBuQNh44kR_w-VmuBEZ2M&center=42.1724507,-70.88376459999999"
-    },
-    {
-      "name": "Montilios Bakery",
-      "distance": "2.2 mi",
-      "url": "https://www.google.com/maps/search/?api=1&query=Montilios%20Bakery&query_place_id=ChIJuzIDEoOd5IkRno01QL3LWDg&center=42.1738381,-70.9505786"
     }
   ],
   "dinner": [

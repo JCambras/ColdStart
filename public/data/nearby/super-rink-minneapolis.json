@@ -29,11 +29,6 @@
       "name": "Five Guys",
       "distance": "0.5 mi",
       "url": "https://www.google.com/maps/search/Five%20Guys+near+45.1580594%2C-93.22358609999999"
-    },
-    {
-      "name": "Culver’s",
-      "distance": "0.6 mi",
-      "url": "https://www.google.com/maps/search/Culver%E2%80%99s+near+45.1580594%2C-93.22358609999999"
     }
   ],
   "coffee": [
@@ -41,11 +36,6 @@
       "name": "Scooter's Coffee",
       "distance": "0.4 mi",
       "url": "https://www.google.com/maps/search/Scooter's%20Coffee+near+45.1580594%2C-93.22358609999999"
-    },
-    {
-      "name": "McDonald's",
-      "distance": "0.5 mi",
-      "url": "https://www.google.com/maps/search/McDonald's+near+45.1580594%2C-93.22358609999999"
     },
     {
       "name": "Caribou Coffee",
@@ -95,11 +85,6 @@
       "name": "Song Tea & Poke",
       "distance": "0.5 mi",
       "url": "https://www.google.com/maps/search/Song%20Tea%20%26%20Poke+near+45.1580594%2C-93.22358609999999"
-    },
-    {
-      "name": "Uffda Donuts",
-      "distance": "0.5 mi",
-      "url": "https://www.google.com/maps/search/Uffda%20Donuts+near+45.1580594%2C-93.22358609999999"
     }
   ],
   "bowling": [
@@ -154,24 +139,6 @@
       "name": "Sky Zone Trampoline Park",
       "distance": "2.9 mi",
       "url": "https://www.google.com/maps/search/Sky%20Zone%20Trampoline%20Park+near+45.1580594%2C-93.22358609999999"
-    },
-    {
-      "name": "Mounds View Splash Down Splash Pad",
-      "distance": "3.8 mi",
-      "url": "https://www.google.com/maps/search/Mounds%20View%20Splash%20Down%20Splash%20Pad+near+45.1580594%2C-93.22358609999999",
-      "isFar": true
-    },
-    {
-      "name": "Lilli Putt",
-      "distance": "3.8 mi",
-      "url": "https://www.google.com/maps/search/Lilli%20Putt+near+45.1580594%2C-93.22358609999999",
-      "isFar": true
-    },
-    {
-      "name": "Zero Gravity Adventure Park",
-      "distance": "4.4 mi",
-      "url": "https://www.google.com/maps/search/Zero%20Gravity%20Adventure%20Park+near+45.1580594%2C-93.22358609999999",
-      "isFar": true
     }
   ],
   "hotels": [
@@ -194,21 +161,6 @@
       "name": "Sanctuary Cove",
       "distance": "1.2 mi",
       "url": "https://www.google.com/maps/search/Sanctuary%20Cove+near+45.1580594%2C-93.22358609999999"
-    },
-    {
-      "name": "Private, Spacious, Modern Home in Blaine — w/ Pool Table, Sleeps 13+",
-      "distance": "1.2 mi",
-      "url": "https://www.google.com/maps/search/Private%2C%20Spacious%2C%20Modern%20Home%20in%20Blaine%20%E2%80%94%20w%2F%20Pool%20Table%2C%20Sleeps%2013%2B+near+45.1580594%2C-93.22358609999999"
-    },
-    {
-      "name": "Private, Spacious, Modern Home in Blaine — w/ Pool Table, Sleeps 6+",
-      "distance": "1.2 mi",
-      "url": "https://www.google.com/maps/search/Private%2C%20Spacious%2C%20Modern%20Home%20in%20Blaine%20%E2%80%94%20w%2F%20Pool%20Table%2C%20Sleeps%206%2B+near+45.1580594%2C-93.22358609999999"
-    },
-    {
-      "name": "Private, Spacious, Modern Home in Blaine — w / Pool Table, Sleeps 13+",
-      "distance": "1.2 mi",
-      "url": "https://www.google.com/maps/search/Private%2C%20Spacious%2C%20Modern%20Home%20in%20Blaine%20%E2%80%94%20w%20%2F%20Pool%20Table%2C%20Sleeps%2013%2B+near+45.1580594%2C-93.22358609999999"
     }
   ],
   "gas": [
@@ -231,11 +183,6 @@
       "name": "Circle K",
       "distance": "0.8 mi",
       "url": "https://www.google.com/maps/search/Circle%20K+near+45.1580594%2C-93.22358609999999"
-    },
-    {
-      "name": "Holiday Gas Station",
-      "distance": "0.9 mi",
-      "url": "https://www.google.com/maps/search/Holiday%20Gas%20Station+near+45.1580594%2C-93.22358609999999"
     }
   ]
 }

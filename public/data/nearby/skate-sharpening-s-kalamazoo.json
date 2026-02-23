@@ -29,34 +29,9 @@
       "name": "Burger King",
       "distance": "0.3 mi",
       "url": "https://www.google.com/maps/search/?api=1&query=Burger%20King&query_place_id=ChIJ8Xk5ipqdF4gRnNreUw__ZPU&center=42.261196999999996,-85.5891395"
-    },
-    {
-      "name": "Subway",
-      "distance": "0.8 mi",
-      "url": "https://www.google.com/maps/search/?api=1&query=Subway&query_place_id=ChIJb3WJsu2dF4gRSj6bxA0ShNE&center=42.2455206,-85.5900456"
-    },
-    {
-      "name": "Lee's Famous Recipe Chicken",
-      "distance": "0.8 mi",
-      "url": "https://www.google.com/maps/search/?api=1&query=Lee's%20Famous%20Recipe%20Chicken&query_place_id=ChIJE9GQtO2dF4gRVN8nTR0Iwko&center=42.245398099999996,-85.5892068"
-    },
-    {
-      "name": "Jersey Giant SUBS!",
-      "distance": "1.1 mi",
-      "url": "https://www.google.com/maps/search/?api=1&query=Jersey%20Giant%20SUBS!&query_place_id=ChIJTRM0Ve6dF4gR-UWal5KrPRY&center=42.241243,-85.5904427"
-    },
-    {
-      "name": "Firehouse Subs Westnedge Avenue",
-      "distance": "1.2 mi",
-      "url": "https://www.google.com/maps/search/?api=1&query=Firehouse%20Subs%20Westnedge%20Avenue&query_place_id=ChIJB0n9-P6dF4gRRHtvI2zsIHU&center=42.23983,-85.58876"
     }
   ],
   "coffee": [
-    {
-      "name": "McDonald's",
-      "distance": "0.1 mi",
-      "url": "https://www.google.com/maps/search/?api=1&query=McDonald's&query_place_id=ChIJ0e_QVZCdF4gRRpQAAWx_m5w&center=42.2580897,-85.5901983"
-    },
     {
       "name": "Dunkin'",
       "distance": "0.3 mi",
@@ -150,17 +125,6 @@
       "name": "Celebration Cinema Crossroads & IMAX",
       "distance": "2.5 mi",
       "url": "https://www.google.com/maps/search/Celebration%20Cinema%20Crossroads%20%26%20IMAX+near+42.2566293%2C-85.59004209999999"
-    },
-    {
-      "name": "Kalamazoo Film Society",
-      "distance": "2.5 mi",
-      "url": "https://www.google.com/maps/search/Kalamazoo%20Film%20Society+near+42.2566293%2C-85.59004209999999"
-    },
-    {
-      "name": "GQT Kalamazoo 10",
-      "distance": "4.5 mi",
-      "url": "https://www.google.com/maps/search/GQT%20Kalamazoo%2010+near+42.2566293%2C-85.59004209999999",
-      "isFar": true
     }
   ],
   "fun": [
@@ -183,44 +147,13 @@
       "name": "Zap Zone XL",
       "distance": "2.6 mi",
       "url": "https://www.google.com/maps/search/Zap%20Zone%20XL+near+42.2566293%2C-85.59004209999999"
-    },
-    {
-      "name": "Jungle Joe's Family Fun Center",
-      "distance": "4.1 mi",
-      "url": "https://www.google.com/maps/search/Jungle%20Joe's%20Family%20Fun%20Center+near+42.2566293%2C-85.59004209999999",
-      "isFar": true
     }
   ],
   "hotels": [
     {
-      "name": "Bright & Cozy Retreat Private Entrance, Pets Welcome, Near Downtown Kalamazoo!",
-      "distance": "0.4 mi",
-      "url": "https://www.google.com/maps/search/Bright%20%26%20Cozy%20Retreat%20Private%20Entrance%2C%20Pets%20Welcome%2C%20Near%20Downtown%20Kalamazoo!+near+42.2566293%2C-85.59004209999999"
-    },
-    {
-      "name": "Comfy Craftsman Full 2 Bed Apartment w / Modern Luxuries",
-      "distance": "0.5 mi",
-      "url": "https://www.google.com/maps/search/Comfy%20Craftsman%20Full%202%20Bed%20Apartment%20w%20%2F%20Modern%20Luxuries+near+42.2566293%2C-85.59004209999999"
-    },
-    {
       "name": "Extended Hands Valet Trash Pickup",
       "distance": "0.7 mi",
       "url": "https://www.google.com/maps/search/Extended%20Hands%20Valet%20Trash%20Pickup+near+42.2566293%2C-85.59004209999999"
-    },
-    {
-      "name": "Peaceful Two Bedroom Apartment with Water View",
-      "distance": "0.9 mi",
-      "url": "https://www.google.com/maps/search/Peaceful%20Two%20Bedroom%20Apartment%20with%20Water%20View+near+42.2566293%2C-85.59004209999999"
-    },
-    {
-      "name": "Family Friendly Nature Getaway near Golf Course",
-      "distance": "0.9 mi",
-      "url": "https://www.google.com/maps/search/Family%20Friendly%20Nature%20Getaway%20near%20Golf%20Course+near+42.2566293%2C-85.59004209999999"
-    },
-    {
-      "name": "Everyman's House in Westnedge Hill",
-      "distance": "1.0 mi",
-      "url": "https://www.google.com/maps/search/Everyman's%20House%20in%20Westnedge%20Hill+near+42.2566293%2C-85.59004209999999"
     },
     {
       "name": "Kalamazoo Inn Motel",
@@ -238,11 +171,6 @@
       "name": "Shell",
       "distance": "0.6 mi",
       "url": "https://www.google.com/maps/search/Shell+near+42.2566293%2C-85.59004209999999"
-    },
-    {
-      "name": "Speedway",
-      "distance": "0.8 mi",
-      "url": "https://www.google.com/maps/search/Speedway+near+42.2566293%2C-85.59004209999999"
     },
     {
       "name": "Citgo",

@@ -32,19 +32,8 @@
   "coffee": [],
   "team_lunch": [
     {
-      "name": "Country Kitchen",
-      "distance": "2.9 mi",
-      "url": "https://www.google.com/maps/search/Country%20Kitchen+near+32.1749976%2C-81.51142089999999"
-    },
-    {
       "name": "Hunt Brothers Pizza",
       "distance": "3.3 mi",
-      "url": "https://www.google.com/maps/search/Hunt%20Brothers%20Pizza+near+32.1749976%2C-81.51142089999999",
-      "isFar": true
-    },
-    {
-      "name": "Hunt Brothers Pizza",
-      "distance": "3.7 mi",
       "url": "https://www.google.com/maps/search/Hunt%20Brothers%20Pizza+near+32.1749976%2C-81.51142089999999",
       "isFar": true
     }
@@ -73,45 +62,15 @@
   "fun": [],
   "hotels": [
     {
-      "name": "Lakehouse - 10 mins Hyundai & 30 mins Savannah",
-      "distance": "3.0 mi",
-      "url": "https://www.google.com/maps/search/Lakehouse%20-%2010%20mins%20Hyundai%20%26%2030%20mins%20Savannah+near+32.1749976%2C-81.51142089999999",
-      "isFar": true
-    },
-    {
       "name": "WoodSpring Suites Savannah West - Ellabell Metaplant",
       "distance": "3.3 mi",
       "url": "https://www.google.com/maps/search/WoodSpring%20Suites%20Savannah%20West%20-%20Ellabell%20Metaplant+near+32.1749976%2C-81.51142089999999",
       "isFar": true
     },
     {
-      "name": "Cozy fishing cabin with stocked pond, near Savannah. Fenced- pet friendly!!!",
-      "distance": "4.7 mi",
-      "url": "https://www.google.com/maps/search/Cozy%20fishing%20cabin%20with%20stocked%20pond%2C%20near%20Savannah.%20Fenced-%20pet%20friendly!!!+near+32.1749976%2C-81.51142089999999",
-      "isFar": true
-    },
-    {
-      "name": "Cozy fishing cabin with stocked pond, near Savannah. Fenced- pet friendly!!!",
-      "distance": "4.7 mi",
-      "url": "https://www.google.com/maps/search/Cozy%20fishing%20cabin%20with%20stocked%20pond%2C%20near%20Savannah.%20Fenced-%20pet%20friendly!!!+near+32.1749976%2C-81.51142089999999",
-      "isFar": true
-    },
-    {
       "name": "Gone fishin",
       "distance": "4.8 mi",
       "url": "https://www.google.com/maps/search/Gone%20fishin+near+32.1749976%2C-81.51142089999999",
-      "isFar": true
-    },
-    {
-      "name": "Cattail Cottage - Pet Friendly - Fully fenced - 30 mins to Savannah!!!",
-      "distance": "4.8 mi",
-      "url": "https://www.google.com/maps/search/Cattail%20Cottage%20-%20Pet%20Friendly%20-%20Fully%20fenced%20-%2030%20mins%20to%20Savannah!!!+near+32.1749976%2C-81.51142089999999",
-      "isFar": true
-    },
-    {
-      "name": "Cattail Cottage - Pet Friendly - Fully fenced - 30 mins to Savannah!!!",
-      "distance": "4.8 mi",
-      "url": "https://www.google.com/maps/search/Cattail%20Cottage%20-%20Pet%20Friendly%20-%20Fully%20fenced%20-%2030%20mins%20to%20Savannah!!!+near+32.1749976%2C-81.51142089999999",
       "isFar": true
     }
   ],
@@ -130,11 +89,6 @@
       "name": "Marathon #30",
       "distance": "2.9 mi",
       "url": "https://www.google.com/maps/search/Marathon%20%2330+near+32.1749976%2C-81.51142089999999"
-    },
-    {
-      "name": "bp",
-      "distance": "2.9 mi",
-      "url": "https://www.google.com/maps/search/bp+near+32.1749976%2C-81.51142089999999"
     },
     {
       "name": "Zip N Gasco",

@@ -29,26 +29,6 @@
       "name": "Subway",
       "distance": "0.4 mi",
       "url": "https://www.google.com/maps/search/?api=1&query=Subway&query_place_id=ChIJi_5MGUdRO4gR-KkVuxMb24Q&center=42.2715812,-83.4909199"
-    },
-    {
-      "name": "Little Caesars Pizza",
-      "distance": "0.4 mi",
-      "url": "https://www.google.com/maps/search/?api=1&query=Little%20Caesars%20Pizza&query_place_id=ChIJQz9LGUdRO4gR2uPZ6GHgqU4&center=42.2715142,-83.4907975"
-    },
-    {
-      "name": "Panda Express",
-      "distance": "0.4 mi",
-      "url": "https://www.google.com/maps/search/?api=1&query=Panda%20Express&query_place_id=ChIJx-G6QwBRO4gRdUL-gM9gvNw&center=42.2705959,-83.489746"
-    },
-    {
-      "name": "Subway",
-      "distance": "0.4 mi",
-      "url": "https://www.google.com/maps/search/?api=1&query=Subway&query_place_id=ChIJsyxmpUFRO4gRFeChypwvjWg&center=42.268765699999996,-83.4890356"
-    },
-    {
-      "name": "Chipotle Mexican Grill",
-      "distance": "0.5 mi",
-      "url": "https://www.google.com/maps/search/?api=1&query=Chipotle%20Mexican%20Grill&query_place_id=ChIJe3_TeVxRO4gRun9zrsQlx1k&center=42.2707505,-83.4888783"
     }
   ],
   "coffee": [
@@ -71,11 +51,6 @@
       "name": "Tim Hortons",
       "distance": "0.5 mi",
       "url": "https://www.google.com/maps/search/?api=1&query=Tim%20Hortons&query_place_id=ChIJTw0jqkFRO4gR6UGHfc63V4U&center=42.2709045,-83.4882111"
-    },
-    {
-      "name": "McDonald's",
-      "distance": "0.6 mi",
-      "url": "https://www.google.com/maps/search/?api=1&query=McDonald's&query_place_id=ChIJQVY3m0FRO4gRxE9kQfBoXew&center=42.272440599999996,-83.4880195"
     }
   ],
   "team_lunch": [
@@ -88,11 +63,6 @@
       "name": "Lavash Lebanese Cuisine /COMING SOON",
       "distance": "0.4 mi",
       "url": "https://www.google.com/maps/search/?api=1&query=Lavash%20Lebanese%20Cuisine%20%2FCOMING%20SOON&query_place_id=ChIJ51lKcANRO4gRET2blXqGwvU&center=42.2715048,-83.4910604"
-    },
-    {
-      "name": "Walmart Bakery",
-      "distance": "0.4 mi",
-      "url": "https://www.google.com/maps/search/?api=1&query=Walmart%20Bakery&query_place_id=ChIJVVVVmkBRO4gRV6DzsUOxrgM&center=42.2686971,-83.4891911"
     },
     {
       "name": "Kroger Bakery",
@@ -108,11 +78,6 @@
       "name": "Meijer Bakery",
       "distance": "2.6 mi",
       "url": "https://www.google.com/maps/search/?api=1&query=Meijer%20Bakery&query_place_id=ChIJPQesvg9RO4gRMgS8uFnnXkc&center=42.2322214,-83.48309189999999"
-    },
-    {
-      "name": "Walmart Bakery",
-      "distance": "3.0 mi",
-      "url": "https://www.google.com/maps/search/?api=1&query=Walmart%20Bakery&query_place_id=ChIJAQAAUL5QO4gReRzpyk5Qa4s&center=42.22566,-83.4885638"
     }
   ],
   "dinner": [
@@ -120,11 +85,6 @@
       "name": "Blazin Coop's Nashville Hot Chicken",
       "distance": "0.2 mi",
       "url": "https://www.google.com/maps/search/Blazin%20Coop's%20Nashville%20Hot%20Chicken+near+42.267992400000004%2C-83.4975165"
-    },
-    {
-      "name": "Al Quds Bakery of Canton LLC",
-      "distance": "0.4 mi",
-      "url": "https://www.google.com/maps/search/Al%20Quds%20Bakery%20of%20Canton%20LLC+near+42.267992400000004%2C-83.4975165"
     },
     {
       "name": "Al Quds Bakery of Canton LLC",
@@ -172,16 +132,6 @@
       "url": "https://www.google.com/maps/search/Splash%20Park+near+42.267992400000004%2C-83.4975165"
     },
     {
-      "name": "Splash Park",
-      "distance": "1.9 mi",
-      "url": "https://www.google.com/maps/search/Splash%20Park+near+42.267992400000004%2C-83.4975165"
-    },
-    {
-      "name": "Sky Zone Canton",
-      "distance": "2.1 mi",
-      "url": "https://www.google.com/maps/search/Sky%20Zone%20Canton+near+42.267992400000004%2C-83.4975165"
-    },
-    {
       "name": "Sky Zone Canton",
       "distance": "2.1 mi",
       "url": "https://www.google.com/maps/search/Sky%20Zone%20Canton+near+42.267992400000004%2C-83.4975165"
@@ -197,12 +147,6 @@
       "distance": "4.3 mi",
       "url": "https://www.google.com/maps/search/Escape%20Room%20Zone+near+42.267992400000004%2C-83.4975165",
       "isFar": true
-    },
-    {
-      "name": "Escape Room Zone",
-      "distance": "4.3 mi",
-      "url": "https://www.google.com/maps/search/Escape%20Room%20Zone+near+42.267992400000004%2C-83.4975165",
-      "isFar": true
     }
   ],
   "hotels": [
@@ -210,11 +154,6 @@
       "name": "DHSOSEM",
       "distance": "0.6 mi",
       "url": "https://www.google.com/maps/search/DHSOSEM+near+42.267992400000004%2C-83.4975165"
-    },
-    {
-      "name": "Charming 2-Bedroom Luxury Condo in the heart of vibrant Canton",
-      "distance": "0.6 mi",
-      "url": "https://www.google.com/maps/search/Charming%202-Bedroom%20Luxury%20Condo%20in%20the%20heart%20of%20vibrant%20Canton+near+42.267992400000004%2C-83.4975165"
     },
     {
       "name": "Holiday Estates",
@@ -257,11 +196,6 @@
       "name": "Shell",
       "distance": "1.2 mi",
       "url": "https://www.google.com/maps/search/Shell+near+42.267992400000004%2C-83.4975165"
-    },
-    {
-      "name": "Mobil",
-      "distance": "1.4 mi",
-      "url": "https://www.google.com/maps/search/Mobil+near+42.267992400000004%2C-83.4975165"
     },
     {
       "name": "Speedway",

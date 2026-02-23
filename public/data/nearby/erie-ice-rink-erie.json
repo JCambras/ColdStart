@@ -35,11 +35,6 @@
   ],
   "team_lunch": [
     {
-      "name": "Lola's Kitchen Inc",
-      "distance": "0.1 mi",
-      "url": "https://www.google.com/maps/search/Lola's%20Kitchen%20Inc+near+40.050129%2C-105.04566249999999"
-    },
-    {
       "name": "Fuego Azteca",
       "distance": "0.1 mi",
       "url": "https://www.google.com/maps/search/Fuego%20Azteca+near+40.050129%2C-105.04566249999999"
@@ -80,11 +75,6 @@
       "name": "Wapos",
       "distance": "0.1 mi",
       "url": "https://www.google.com/maps/search/Wapos+near+40.050129%2C-105.04566249999999"
-    },
-    {
-      "name": "The Old Mine",
-      "distance": "0.1 mi",
-      "url": "https://www.google.com/maps/search/The%20Old%20Mine+near+40.050129%2C-105.04566249999999"
     }
   ],
   "bowling": [
@@ -139,12 +129,6 @@
       "distance": "6.6 mi",
       "url": "https://www.google.com/maps/search/Little%20Monkey%20Bizness%20-%20Westminster+near+40.050129%2C-105.04566249999999",
       "isFar": true
-    },
-    {
-      "name": "Get Air Trampoline Park",
-      "distance": "7.7 mi",
-      "url": "https://www.google.com/maps/search/Get%20Air%20Trampoline%20Park+near+40.050129%2C-105.04566249999999",
-      "isFar": true
     }
   ],
   "hotels": [
@@ -157,31 +141,6 @@
       "name": "Erie Escape-Billiards Table- Skee-Ball- Hot Tub!",
       "distance": "0.2 mi",
       "url": "https://www.google.com/maps/search/Erie%20Escape-Billiards%20Table-%20Skee-Ball-%20Hot%20Tub!+near+40.050129%2C-105.04566249999999"
-    },
-    {
-      "name": "Charming Cottage in Historical Victorian Olde Erie Village",
-      "distance": "0.2 mi",
-      "url": "https://www.google.com/maps/search/Charming%20Cottage%20in%20Historical%20Victorian%20Olde%20Erie%20Village+near+40.050129%2C-105.04566249999999"
-    },
-    {
-      "name": "Family Haven, Walk to Dtwn Erie: Bring Your Pets!",
-      "distance": "0.3 mi",
-      "url": "https://www.google.com/maps/search/Family%20Haven%2C%20Walk%20to%20Dtwn%20Erie%3A%20Bring%20Your%20Pets!+near+40.050129%2C-105.04566249999999"
-    },
-    {
-      "name": "13 Mi to Boulder: Family-Friendly Home in Erie!",
-      "distance": "0.3 mi",
-      "url": "https://www.google.com/maps/search/13%20Mi%20to%20Boulder%3A%20Family-Friendly%20Home%20in%20Erie!+near+40.050129%2C-105.04566249999999"
-    },
-    {
-      "name": "14 Mi to Pearl Street Mall: Erie Getaway",
-      "distance": "0.3 mi",
-      "url": "https://www.google.com/maps/search/14%20Mi%20to%20Pearl%20Street%20Mall%3A%20Erie%20Getaway+near+40.050129%2C-105.04566249999999"
-    },
-    {
-      "name": "Chic Erie Vacation Rental about 14 Mi to Boulder! - Apartment",
-      "distance": "0.3 mi",
-      "url": "https://www.google.com/maps/search/Chic%20Erie%20Vacation%20Rental%20about%2014%20Mi%20to%20Boulder!%20-%20Apartment+near+40.050129%2C-105.04566249999999"
     }
   ],
   "gas": [
@@ -204,11 +163,6 @@
       "name": "Maverik",
       "distance": "3.4 mi",
       "url": "https://www.google.com/maps/search/Maverik+near+40.050129%2C-105.04566249999999"
-    },
-    {
-      "name": "Conoco",
-      "distance": "3.7 mi",
-      "url": "https://www.google.com/maps/search/Conoco+near+40.050129%2C-105.04566249999999"
     }
   ]
 }

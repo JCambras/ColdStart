@@ -38,11 +38,6 @@
       "url": "https://www.google.com/maps/search/Starbucks%20Coffee%20Company+near+45.575113699999996%2C-94.1557931"
     },
     {
-      "name": "McDonald's",
-      "distance": "0.9 mi",
-      "url": "https://www.google.com/maps/search/McDonald's+near+45.575113699999996%2C-94.1557931"
-    },
-    {
       "name": "Caribou Coffee",
       "distance": "0.9 mi",
       "url": "https://www.google.com/maps/search/Caribou%20Coffee+near+45.575113699999996%2C-94.1557931"
@@ -100,11 +95,6 @@
       "name": "Brito's Burrito",
       "distance": "1.0 mi",
       "url": "https://www.google.com/maps/search/Brito's%20Burrito+near+45.575113699999996%2C-94.1557931"
-    },
-    {
-      "name": "Mexican Village Downtown",
-      "distance": "1.0 mi",
-      "url": "https://www.google.com/maps/search/Mexican%20Village%20Downtown+near+45.575113699999996%2C-94.1557931"
     }
   ],
   "bowling": [
@@ -151,20 +141,9 @@
       "distance": "3.7 mi",
       "url": "https://www.google.com/maps/search/Westwood%20Park%20Splash%20Pad+near+45.575113699999996%2C-94.1557931",
       "isFar": true
-    },
-    {
-      "name": "River's Edge Splash Pad",
-      "distance": "3.8 mi",
-      "url": "https://www.google.com/maps/search/River's%20Edge%20Splash%20Pad+near+45.575113699999996%2C-94.1557931",
-      "isFar": true
     }
   ],
   "hotels": [
-    {
-      "name": "CentraCare - Gorecki Guest House",
-      "distance": "0.7 mi",
-      "url": "https://www.google.com/maps/search/CentraCare%20-%20Gorecki%20Guest%20House+near+45.575113699999996%2C-94.1557931"
-    },
     {
       "name": "Cloverleaf Manufactured Home Community",
       "distance": "0.7 mi",
@@ -176,24 +155,9 @@
       "url": "https://www.google.com/maps/search/Clean%2C%20comfortable%20conveniently%20located!+near+45.575113699999996%2C-94.1557931"
     },
     {
-      "name": "Cozy Getaway in Heart of St Cloud",
-      "distance": "0.8 mi",
-      "url": "https://www.google.com/maps/search/Cozy%20Getaway%20in%20Heart%20of%20St%20Cloud+near+45.575113699999996%2C-94.1557931"
-    },
-    {
       "name": "Country Inn & Suites by Radisson, St. Cloud East, MN",
       "distance": "0.9 mi",
       "url": "https://www.google.com/maps/search/Country%20Inn%20%26%20Suites%20by%20Radisson%2C%20St.%20Cloud%20East%2C%20MN+near+45.575113699999996%2C-94.1557931"
-    },
-    {
-      "name": "Spacious 3-bedroom with WiFi and AC in fabulous St. Cloud",
-      "distance": "0.9 mi",
-      "url": "https://www.google.com/maps/search/Spacious%203-bedroom%20with%20WiFi%20and%20AC%20in%20fabulous%20St.%20Cloud+near+45.575113699999996%2C-94.1557931"
-    },
-    {
-      "name": "Contemporary Haven near Hospital",
-      "distance": "0.9 mi",
-      "url": "https://www.google.com/maps/search/Contemporary%20Haven%20near%20Hospital+near+45.575113699999996%2C-94.1557931"
     }
   ],
   "gas": [
@@ -216,11 +180,6 @@
       "name": "R & F's Services",
       "distance": "0.8 mi",
       "url": "https://www.google.com/maps/search/R%20%26%20F's%20Services+near+45.575113699999996%2C-94.1557931"
-    },
-    {
-      "name": "Holiday Gas Station",
-      "distance": "1.1 mi",
-      "url": "https://www.google.com/maps/search/Holiday%20Gas%20Station+near+45.575113699999996%2C-94.1557931"
     }
   ]
 }

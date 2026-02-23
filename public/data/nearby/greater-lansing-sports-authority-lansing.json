@@ -29,21 +29,6 @@
       "name": "Olympic Broil",
       "distance": "1.2 mi",
       "url": "https://www.google.com/maps/search/?api=1&query=Olympic%20Broil&query_place_id=ChIJOySTdGbqIogRn_hECY5NhVs&center=42.749434300000004,-84.55457109999999"
-    },
-    {
-      "name": "Subway",
-      "distance": "1.5 mi",
-      "url": "https://www.google.com/maps/search/?api=1&query=Subway&query_place_id=ChIJEYFEgZTBIogRrn3tADN3LVw&center=42.7121466,-84.53858389999999"
-    },
-    {
-      "name": "Subway",
-      "distance": "1.7 mi",
-      "url": "https://www.google.com/maps/search/?api=1&query=Subway&query_place_id=ChIJW2NspkDqIogRK_U2PkgUMjI&center=42.757644299999995,-84.54313429999999"
-    },
-    {
-      "name": "Subway",
-      "distance": "1.8 mi",
-      "url": "https://www.google.com/maps/search/?api=1&query=Subway&query_place_id=ChIJh5kSMuXpIogRhK8lnnEdq6A&center=42.740429899999995,-84.5115014"
     }
   ],
   "coffee": [
@@ -66,11 +51,6 @@
       "name": "Starbucks Kiosk",
       "distance": "0.3 mi",
       "url": "https://www.google.com/maps/search/?api=1&query=Starbucks%20Kiosk&query_place_id=ChIJAWPmfdjBIogR6ulTs-wFupo&center=42.7340412,-84.550918"
-    },
-    {
-      "name": "McDonald's",
-      "distance": "1.6 mi",
-      "url": "https://www.google.com/maps/search/?api=1&query=McDonald's&query_place_id=ChIJr_EEkUDqIogRoCeC2j6bDHw&center=42.7569898,-84.5432321"
     }
   ],
   "team_lunch": [
@@ -103,16 +83,6 @@
       "name": "AG Bakes",
       "distance": "0.7 mi",
       "url": "https://www.google.com/maps/search/?api=1&query=AG%20Bakes&query_place_id=ChIJEfcGw9LrIogRng8NnQoD_MQ&center=42.736868199999996,-84.55732069999999"
-    },
-    {
-      "name": "Michigan Made Treats",
-      "distance": "1.0 mi",
-      "url": "https://www.google.com/maps/search/?api=1&query=Michigan%20Made%20Treats&query_place_id=ChIJJ06ivgbBIogRqfl16ski4Ro&center=42.7302392,-84.5264546"
-    },
-    {
-      "name": "Windslope's Bakery",
-      "distance": "1.4 mi",
-      "url": "https://www.google.com/maps/search/?api=1&query=Windslope's%20Bakery&query_place_id=ChIJYTqUwQLtLIYR5mP67MiR8ts&center=42.7529026,-84.5356077"
     }
   ],
   "dinner": [
@@ -145,11 +115,6 @@
       "name": "Lansing Shuffle",
       "distance": "0.2 mi",
       "url": "https://www.google.com/maps/search/Lansing%20Shuffle+near+42.7333755%2C-84.5454098"
-    },
-    {
-      "name": "Yeti Kitchen",
-      "distance": "0.2 mi",
-      "url": "https://www.google.com/maps/search/Yeti%20Kitchen+near+42.7333755%2C-84.5454098"
     }
   ],
   "bowling": [
@@ -205,61 +170,18 @@
       "distance": "3.1 mi",
       "url": "https://www.google.com/maps/search/Sky%20Zone%20Trampoline%20Park+near+42.7333755%2C-84.5454098",
       "isFar": true
-    },
-    {
-      "name": "The Pod Escape Room",
-      "distance": "3.9 mi",
-      "url": "https://www.google.com/maps/search/The%20Pod%20Escape%20Room+near+42.7333755%2C-84.5454098",
-      "isFar": true
-    },
-    {
-      "name": "Zap Zone XL",
-      "distance": "4.1 mi",
-      "url": "https://www.google.com/maps/search/Zap%20Zone%20XL+near+42.7333755%2C-84.5454098",
-      "isFar": true
-    },
-    {
-      "name": "Challenges East Lansing Adventure Escape Rooms",
-      "distance": "4.4 mi",
-      "url": "https://www.google.com/maps/search/Challenges%20East%20Lansing%20Adventure%20Escape%20Rooms+near+42.7333755%2C-84.5454098",
-      "isFar": true
     }
   ],
   "hotels": [
-    {
-      "name": "Gorgeous Apt w / Balcony - Walk to Stadium Lansing Center",
-      "distance": "0.1 mi",
-      "url": "https://www.google.com/maps/search/Gorgeous%20Apt%20w%20%2F%20Balcony%20-%20Walk%20to%20Stadium%20Lansing%20Center+near+42.7333755%2C-84.5454098"
-    },
-    {
-      "name": "Downtown Lansing Luxury Condo",
-      "distance": "0.1 mi",
-      "url": "https://www.google.com/maps/search/Downtown%20Lansing%20Luxury%20Condo+near+42.7333755%2C-84.5454098"
-    },
     {
       "name": "Courtyard by Marriott Lansing Downtown",
       "distance": "0.1 mi",
       "url": "https://www.google.com/maps/search/Courtyard%20by%20Marriott%20Lansing%20Downtown+near+42.7333755%2C-84.5454098"
     },
     {
-      "name": "Luxury Condo downtown Lansing",
-      "distance": "0.2 mi",
-      "url": "https://www.google.com/maps/search/Luxury%20Condo%20downtown%20Lansing+near+42.7333755%2C-84.5454098"
-    },
-    {
       "name": "Willbro Beach Kayak Landing",
       "distance": "0.2 mi",
       "url": "https://www.google.com/maps/search/Willbro%20Beach%20Kayak%20Landing+near+42.7333755%2C-84.5454098"
-    },
-    {
-      "name": "Urban Comfort for Medical Travelers – Laundry in Unit + Full Kitchen - 3",
-      "distance": "0.3 mi",
-      "url": "https://www.google.com/maps/search/Urban%20Comfort%20for%20Medical%20Travelers%20%E2%80%93%20Laundry%20in%20Unit%20%2B%20Full%20Kitchen%20-%203+near+42.7333755%2C-84.5454098"
-    },
-    {
-      "name": "Refreshed comfort in Lansing with new Kitchen - Walkable to Sparrow and Downtown",
-      "distance": "0.3 mi",
-      "url": "https://www.google.com/maps/search/Refreshed%20comfort%20in%20Lansing%20with%20new%20Kitchen%20-%20Walkable%20to%20Sparrow%20and%20Downtown+near+42.7333755%2C-84.5454098"
     }
   ],
   "gas": [
@@ -282,11 +204,6 @@
       "name": "Marathon Gas",
       "distance": "0.5 mi",
       "url": "https://www.google.com/maps/search/Marathon%20Gas+near+42.7333755%2C-84.5454098"
-    },
-    {
-      "name": "bp",
-      "distance": "0.7 mi",
-      "url": "https://www.google.com/maps/search/bp+near+42.7333755%2C-84.5454098"
     }
   ]
 }

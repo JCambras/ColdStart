@@ -29,16 +29,6 @@
       "name": "Taco Bell",
       "distance": "0.9 mi",
       "url": "https://www.google.com/maps/search/?api=1&query=Taco%20Bell&query_place_id=ChIJR_PkUFV5wokRuXqGpzQVzkQ&center=40.654122099999995,-73.55895749999999"
-    },
-    {
-      "name": "Wendy's",
-      "distance": "1.0 mi",
-      "url": "https://www.google.com/maps/search/?api=1&query=Wendy's&query_place_id=ChIJuT9lylR5wokRK7uK9ZRHq9s&center=40.653498,-73.5582448"
-    },
-    {
-      "name": "Burger King",
-      "distance": "1.0 mi",
-      "url": "https://www.google.com/maps/search/?api=1&query=Burger%20King&query_place_id=ChIJ97lsRVV5wokR8B7tGljgyOE&center=40.6540098,-73.5582197"
     }
   ],
   "coffee": [
@@ -46,11 +36,6 @@
       "name": "Starbucks",
       "distance": "0.3 mi",
       "url": "https://www.google.com/maps/search/?api=1&query=Starbucks&query_place_id=ChIJ6emQonF7wokRgMI1wj1uI9I&center=40.65548,-73.57173"
-    },
-    {
-      "name": "McDonald's",
-      "distance": "0.6 mi",
-      "url": "https://www.google.com/maps/search/?api=1&query=McDonald's&query_place_id=ChIJT9JVa4x7wokRv4ZmLlPC36E&center=40.652645,-73.587289"
     }
   ],
   "team_lunch": [
@@ -70,11 +55,6 @@
       "url": "https://www.google.com/maps/search/?api=1&query=Lindero%20Taqueria&query_place_id=ChIJK17sV_R7wokRViIm06Ew07U&center=40.654571499999996,-73.5799447"
     },
     {
-      "name": "Shanghai Chinese Kitchen",
-      "distance": "0.3 mi",
-      "url": "https://www.google.com/maps/search/?api=1&query=Shanghai%20Chinese%20Kitchen&query_place_id=ChIJHzGy8fR7wokR7a3o3t13BSw&center=40.6543419,-73.5806621"
-    },
-    {
       "name": "Aunty Grace Restaurant",
       "distance": "0.3 mi",
       "url": "https://www.google.com/maps/search/?api=1&query=Aunty%20Grace%20Restaurant&query_place_id=ChIJC8xyQKR7wokRILAjY7PTv8E&center=40.6562316,-73.57536499999999"
@@ -88,21 +68,6 @@
       "name": "La Bendicion",
       "distance": "0.3 mi",
       "url": "https://www.google.com/maps/search/?api=1&query=La%20Bendicion&query_place_id=ChIJ0Sqy5fR7wokR5iuwnApD5P0&center=40.654853599999996,-73.58086639999999"
-    },
-    {
-      "name": "La Palma Restaurant",
-      "distance": "0.3 mi",
-      "url": "https://www.google.com/maps/search/?api=1&query=La%20Palma%20Restaurant&query_place_id=ChIJc8idHPV7wokRdf0TJQzd4PM&center=40.6555227,-73.5809167"
-    },
-    {
-      "name": "Mi Guatemala",
-      "distance": "0.3 mi",
-      "url": "https://www.google.com/maps/search/?api=1&query=Mi%20Guatemala&query_place_id=ChIJ4W5wUY57wokRzPyKzAEC3oQ&center=40.6554043,-73.5811011"
-    },
-    {
-      "name": "Victoria Bakery",
-      "distance": "0.4 mi",
-      "url": "https://www.google.com/maps/search/?api=1&query=Victoria%20Bakery&query_place_id=ChIJz-IPW4t7wokRNTIIG3OWGC4&center=40.6537666,-73.58396139999999"
     }
   ],
   "dinner": [

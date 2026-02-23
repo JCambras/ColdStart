@@ -29,11 +29,6 @@
       "name": "Carrabba's Italian Grill",
       "distance": "0.6 mi",
       "url": "https://www.google.com/maps/search/Carrabba's%20Italian%20Grill+near+41.4157874%2C-81.75808169999999"
-    },
-    {
-      "name": "Chuck E. Cheese",
-      "distance": "2.5 mi",
-      "url": "https://www.google.com/maps/search/Chuck%20E.%20Cheese+near+41.4157874%2C-81.75808169999999"
     }
   ],
   "coffee": [
@@ -48,16 +43,6 @@
       "url": "https://www.google.com/maps/search/7%20Brew%20Coffee+near+41.4157874%2C-81.75808169999999"
     },
     {
-      "name": "McDonald's",
-      "distance": "0.2 mi",
-      "url": "https://www.google.com/maps/search/McDonald's+near+41.4157874%2C-81.75808169999999"
-    },
-    {
-      "name": "Sam's Club Cafe",
-      "distance": "0.3 mi",
-      "url": "https://www.google.com/maps/search/Sam's%20Club%20Cafe+near+41.4157874%2C-81.75808169999999"
-    },
-    {
       "name": "Panera Bread",
       "distance": "0.5 mi",
       "url": "https://www.google.com/maps/search/Panera%20Bread+near+41.4157874%2C-81.75808169999999"
@@ -68,16 +53,6 @@
       "name": "IHOP",
       "distance": "0.3 mi",
       "url": "https://www.google.com/maps/search/IHOP+near+41.4157874%2C-81.75808169999999"
-    },
-    {
-      "name": "Sam's Club Bakery",
-      "distance": "0.3 mi",
-      "url": "https://www.google.com/maps/search/Sam's%20Club%20Bakery+near+41.4157874%2C-81.75808169999999"
-    },
-    {
-      "name": "Walmart Bakery",
-      "distance": "0.4 mi",
-      "url": "https://www.google.com/maps/search/Walmart%20Bakery+near+41.4157874%2C-81.75808169999999"
     }
   ],
   "dinner": [
@@ -117,29 +92,6 @@
       "name": "AMF Brookgate Lanes",
       "distance": "2.3 mi",
       "url": "https://www.google.com/maps/search/AMF%20Brookgate%20Lanes+near+41.4157874%2C-81.75808169999999"
-    },
-    {
-      "name": "Red Circle Bar & Lanes",
-      "distance": "2.7 mi",
-      "url": "https://www.google.com/maps/search/Red%20Circle%20Bar%20%26%20Lanes+near+41.4157874%2C-81.75808169999999"
-    },
-    {
-      "name": "Mahall's",
-      "distance": "4.4 mi",
-      "url": "https://www.google.com/maps/search/Mahall's+near+41.4157874%2C-81.75808169999999",
-      "isFar": true
-    },
-    {
-      "name": "Dickey Lanes",
-      "distance": "4.5 mi",
-      "url": "https://www.google.com/maps/search/Dickey%20Lanes+near+41.4157874%2C-81.75808169999999",
-      "isFar": true
-    },
-    {
-      "name": "Madison square lanes",
-      "distance": "5.0 mi",
-      "url": "https://www.google.com/maps/search/Madison%20square%20lanes+near+41.4157874%2C-81.75808169999999",
-      "isFar": true
     }
   ],
   "arcade": [],
@@ -178,25 +130,9 @@
       "distance": "3.9 mi",
       "url": "https://www.google.com/maps/search/Get%20Air%20Cleveland+near+41.4157874%2C-81.75808169999999",
       "isFar": true
-    },
-    {
-      "name": "Escape Room Middleburg & Axe Throwing",
-      "distance": "4.8 mi",
-      "url": "https://www.google.com/maps/search/Escape%20Room%20Middleburg%20%26%20Axe%20Throwing+near+41.4157874%2C-81.75808169999999",
-      "isFar": true
     }
   ],
   "hotels": [
-    {
-      "name": "10 minutes to Downtown Cleveland - Entire 3B/1Bath Pets Allowed",
-      "distance": "0.2 mi",
-      "url": "https://www.google.com/maps/search/10%20minutes%20to%20Downtown%20Cleveland%20-%20Entire%203B%2F1Bath%20Pets%20Allowed+near+41.4157874%2C-81.75808169999999"
-    },
-    {
-      "name": "10 minutes to Downtown Cleveland - Entire 3B /1Bath Pets Allowed",
-      "distance": "0.2 mi",
-      "url": "https://www.google.com/maps/search/10%20minutes%20to%20Downtown%20Cleveland%20-%20Entire%203B%20%2F1Bath%20Pets%20Allowed+near+41.4157874%2C-81.75808169999999"
-    },
     {
       "name": "Cradle of Luxury Suites",
       "distance": "0.3 mi",
@@ -211,16 +147,6 @@
       "name": "Parma Ranch with Hot Tub Game /Media Room",
       "distance": "0.3 mi",
       "url": "https://www.google.com/maps/search/Parma%20Ranch%20with%20Hot%20Tub%20Game%20%2FMedia%20Room+near+41.4157874%2C-81.75808169999999"
-    },
-    {
-      "name": "Parma Ranch with Hot Tub and Game and Media Room - Three-Bedroom House",
-      "distance": "0.3 mi",
-      "url": "https://www.google.com/maps/search/Parma%20Ranch%20with%20Hot%20Tub%20and%20Game%20and%20Media%20Room%20-%20Three-Bedroom%20House+near+41.4157874%2C-81.75808169999999"
-    },
-    {
-      "name": "NEW Modern 4-Bedroom Home with Arcade Games – Near Downtown Cleveland & Airport!",
-      "distance": "0.5 mi",
-      "url": "https://www.google.com/maps/search/NEW%20Modern%204-Bedroom%20Home%20with%20Arcade%20Games%20%E2%80%93%20Near%20Downtown%20Cleveland%20%26%20Airport!+near+41.4157874%2C-81.75808169999999"
     }
   ],
   "gas": [
@@ -243,11 +169,6 @@
       "name": "bp",
       "distance": "0.9 mi",
       "url": "https://www.google.com/maps/search/bp+near+41.4157874%2C-81.75808169999999"
-    },
-    {
-      "name": "Sunoco",
-      "distance": "0.9 mi",
-      "url": "https://www.google.com/maps/search/Sunoco+near+41.4157874%2C-81.75808169999999"
     }
   ]
 }

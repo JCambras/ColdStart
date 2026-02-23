@@ -29,40 +29,9 @@
       "name": "Taco Bell",
       "distance": "0.9 mi",
       "url": "https://www.google.com/maps/search/?api=1&query=Taco%20Bell&query_place_id=ChIJHbtT1hQ7DogReM_HoxLv48E&center=41.6791017,-87.7201893"
-    },
-    {
-      "name": "Subway",
-      "distance": "1.0 mi",
-      "url": "https://www.google.com/maps/search/?api=1&query=Subway&query_place_id=ChIJcWdm8uY6DogRPHBQgs8jAPU&center=41.705334099999995,-87.7203914"
-    },
-    {
-      "name": "Sonic Drive-In",
-      "distance": "1.1 mi",
-      "url": "https://www.google.com/maps/search/?api=1&query=Sonic%20Drive-In&query_place_id=ChIJbR7HNtw7DogRCSiXSvGpo64&center=41.6761044,-87.7193205"
-    },
-    {
-      "name": "Mr. Submarine",
-      "distance": "1.1 mi",
-      "url": "https://www.google.com/maps/search/?api=1&query=Mr.%20Submarine&query_place_id=ChIJBX8HU2o7DogRcoT9DTEvZYQ&center=41.6753005,-87.71925350000001"
-    },
-    {
-      "name": "South Side Shrimp",
-      "distance": "1.1 mi",
-      "url": "https://www.google.com/maps/search/?api=1&query=South%20Side%20Shrimp&query_place_id=ChIJ96j56tM6DogR4DMFl3X-wMk&center=41.7040088,-87.7016105"
     }
   ],
-  "coffee": [
-    {
-      "name": "McDonald's",
-      "distance": "1.0 mi",
-      "url": "https://www.google.com/maps/search/?api=1&query=McDonald's&query_place_id=ChIJY8d6IWs7DogRU0xArMVpTZc&center=41.6770901,-87.72022840000001"
-    },
-    {
-      "name": "McDonald's",
-      "distance": "1.2 mi",
-      "url": "https://www.google.com/maps/search/?api=1&query=McDonald's&query_place_id=ChIJ3ZAZM9I6DogRDykX7BgY8L4&center=41.705594,-87.701669"
-    }
-  ],
+  "coffee": [],
   "team_lunch": [
     {
       "name": "Mariscos Estilo Nayarit",

@@ -29,26 +29,6 @@
       "name": "Wawa",
       "distance": "1.4 mi",
       "url": "https://www.google.com/maps/search/?api=1&query=Wawa&query_place_id=ChIJy1v7M-71xokRPTYJv21ZQSI&center=40.000529799999995,-75.70122309999999"
-    },
-    {
-      "name": "Wawa",
-      "distance": "1.9 mi",
-      "url": "https://www.google.com/maps/search/?api=1&query=Wawa&query_place_id=ChIJJ-CpAitZxokRYEx-391cSbM&center=39.993736,-75.76295"
-    },
-    {
-      "name": "Chick-fil-A",
-      "distance": "2.6 mi",
-      "url": "https://www.google.com/maps/search/?api=1&query=Chick-fil-A&query_place_id=ChIJ84zwxLz1xokRIjKe3Zq8nVI&center=40.016627199999995,-75.6851078"
-    },
-    {
-      "name": "Wawa",
-      "distance": "3.0 mi",
-      "url": "https://www.google.com/maps/search/?api=1&query=Wawa&query_place_id=ChIJIe1VXK_1xokRAVJk-_w_MLg&center=40.019003999999995,-75.678399"
-    },
-    {
-      "name": "Five Guys",
-      "distance": "3.0 mi",
-      "url": "https://www.google.com/maps/search/?api=1&query=Five%20Guys&query_place_id=ChIJie6ZRYr1xokRsW2IZyErZ-U&center=40.017917499999996,-75.6771923"
     }
   ],
   "coffee": [
@@ -56,48 +36,6 @@
       "name": "Dunkin'",
       "distance": "0.8 mi",
       "url": "https://www.google.com/maps/search/?api=1&query=Dunkin'&query_place_id=ChIJfWw-9TNfxokR_zuXDhYifrc&center=39.9969065,-75.74314"
-    },
-    {
-      "name": "McDonald's",
-      "distance": "0.9 mi",
-      "url": "https://www.google.com/maps/search/?api=1&query=McDonald's&query_place_id=ChIJWZhmoStZxokRIreY8KFNmBs&center=39.9957084,-75.7453424"
-    },
-    {
-      "name": "Wawa",
-      "distance": "1.0 mi",
-      "url": "https://www.google.com/maps/search/?api=1&query=Wawa&query_place_id=ChIJGUvX8DJfxokRO2tRHOsVG_w&center=39.99567880000001,-75.746757"
-    },
-    {
-      "name": "Wawa",
-      "distance": "1.4 mi",
-      "url": "https://www.google.com/maps/search/?api=1&query=Wawa&query_place_id=ChIJy1v7M-71xokRPTYJv21ZQSI&center=40.000529799999995,-75.70122309999999"
-    },
-    {
-      "name": "McDonald's",
-      "distance": "1.6 mi",
-      "url": "https://www.google.com/maps/search/?api=1&query=McDonald's&query_place_id=ChIJzTz0Me31xokR67cJzneisfo&center=40.007625399999995,-75.7006449"
-    },
-    {
-      "name": "Wawa",
-      "distance": "1.9 mi",
-      "url": "https://www.google.com/maps/search/?api=1&query=Wawa&query_place_id=ChIJJ-CpAitZxokRYEx-391cSbM&center=39.993736,-75.76295"
-    },
-    {
-      "name": "Wawa",
-      "distance": "3.0 mi",
-      "url": "https://www.google.com/maps/search/?api=1&query=Wawa&query_place_id=ChIJIe1VXK_1xokRAVJk-_w_MLg&center=40.019003999999995,-75.678399"
-    },
-    {
-      "name": "Wawa",
-      "distance": "3.3 mi",
-      "url": "https://www.google.com/maps/search/?api=1&query=Wawa&query_place_id=ChIJg8umtk5fxokRt4c5jtm9GJQ&center=40.0084197,-75.78936639999999",
-      "isFar": true
-    },
-    {
-      "name": "McDonald's",
-      "distance": "3.3 mi",
-      "url": "https://www.google.com/maps/search/?api=1&query=McDonald's&query_place_id=ChIJxREf_kVZxokRABgcSAsQkhY&center=39.988506,-75.7896043",
-      "isFar": true
     }
   ],
   "team_lunch": [
@@ -105,11 +43,6 @@
       "name": "Ocean Palace",
       "distance": "0.2 mi",
       "url": "https://www.google.com/maps/search/?api=1&query=Ocean%20Palace&query_place_id=ChIJKT8p90lfxokRbw7-WQ0xP5o&center=39.9988398,-75.7325441"
-    },
-    {
-      "name": "Mister Wok Chinese Kitchen(Downingtown)",
-      "distance": "0.7 mi",
-      "url": "https://www.google.com/maps/search/?api=1&query=Mister%20Wok%20Chinese%20Kitchen(Downingtown)&query_place_id=ChIJUdkeXThfxokRhg2iZDocfN4&center=39.9979825,-75.7417598"
     },
     {
       "name": "Pho Now Restaurant",

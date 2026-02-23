@@ -29,53 +29,13 @@
       "name": "Little Caesars Pizza",
       "distance": "0.9 mi",
       "url": "https://www.google.com/maps/search/?api=1&query=Little%20Caesars%20Pizza&query_place_id=ChIJOXZg5wqAI4gRTyfQqf8szwo&center=43.013714,-83.59429200000001"
-    },
-    {
-      "name": "Taco Bell",
-      "distance": "1.8 mi",
-      "url": "https://www.google.com/maps/search/?api=1&query=Taco%20Bell&query_place_id=ChIJQT_y71SAI4gRL0a1_8L_81k&center=43.03346390000001,-83.63298809999999"
-    },
-    {
-      "name": "Burger King",
-      "distance": "1.8 mi",
-      "url": "https://www.google.com/maps/search/?api=1&query=Burger%20King&query_place_id=ChIJ95gLsVSAI4gR6Hk42Gpghx0&center=43.032705799999995,-83.6343268"
-    },
-    {
-      "name": "Subway",
-      "distance": "1.9 mi",
-      "url": "https://www.google.com/maps/search/?api=1&query=Subway&query_place_id=ChIJeQkYzkqAI4gRUKT7pvcL35I&center=43.0190789,-83.6345522"
-    },
-    {
-      "name": "Jimmy John's",
-      "distance": "2.0 mi",
-      "url": "https://www.google.com/maps/search/?api=1&query=Jimmy%20John's&query_place_id=ChIJZfaxbsyBI4gRXMjpxdGvY7w&center=43.018285299999995,-83.63688719999999"
     }
   ],
   "coffee": [
     {
-      "name": "McDonald's",
-      "distance": "0.3 mi",
-      "url": "https://www.google.com/maps/search/?api=1&query=McDonald's&query_place_id=ChIJ3_WgLXGAI4gRhQBNL415VYA&center=43.021874,-83.5986422"
-    },
-    {
       "name": "Biggby Coffee",
       "distance": "0.6 mi",
       "url": "https://www.google.com/maps/search/?api=1&query=Biggby%20Coffee&query_place_id=ChIJfSH-wTGBI4gRq9oavvobwro&center=43.034365,-83.59671469999999"
-    },
-    {
-      "name": "McDonald's",
-      "distance": "2.0 mi",
-      "url": "https://www.google.com/maps/search/?api=1&query=McDonald's&query_place_id=ChIJXaczHOuAI4gRq7tufctjUIg&center=43.0524659,-83.61540579999999"
-    },
-    {
-      "name": "McDonald's",
-      "distance": "2.1 mi",
-      "url": "https://www.google.com/maps/search/?api=1&query=McDonald's&query_place_id=ChIJn3i756uBI4gRmHNTekuugdE&center=43.033498,-83.639603"
-    },
-    {
-      "name": "McDonald's",
-      "distance": "2.4 mi",
-      "url": "https://www.google.com/maps/search/?api=1&query=McDonald's&query_place_id=ChIJtTmRl8l_JIgR3DJdtKJy0GA&center=43.0109814,-83.5561893"
     }
   ],
   "team_lunch": [
@@ -86,11 +46,6 @@
     }
   ],
   "dinner": [
-    {
-      "name": "Walmart Bakery",
-      "distance": "0.2 mi",
-      "url": "https://www.google.com/maps/search/Walmart%20Bakery+near+43.0256945%2C-83.59898969999999"
-    },
     {
       "name": "Tasty Layers LLC",
       "distance": "0.6 mi",
@@ -188,11 +143,6 @@
       "url": "https://www.google.com/maps/search/HOTEL%20AMENITIES%2C%20LTD+near+43.0256945%2C-83.59898969999999"
     },
     {
-      "name": "Spacious 4-bedroom house in lovely Flint with fitness room, WiFi",
-      "distance": "2.8 mi",
-      "url": "https://www.google.com/maps/search/Spacious%204-bedroom%20house%20in%20lovely%20Flint%20with%20fitness%20room%2C%20WiFi+near+43.0256945%2C-83.59898969999999"
-    },
-    {
       "name": "Benmark Park",
       "distance": "2.9 mi",
       "url": "https://www.google.com/maps/search/Benmark%20Park+near+43.0256945%2C-83.59898969999999"
@@ -218,11 +168,6 @@
       "name": "Exxon",
       "distance": "0.7 mi",
       "url": "https://www.google.com/maps/search/Exxon+near+43.0256945%2C-83.59898969999999"
-    },
-    {
-      "name": "Speedway",
-      "distance": "1.8 mi",
-      "url": "https://www.google.com/maps/search/Speedway+near+43.0256945%2C-83.59898969999999"
     }
   ]
 }

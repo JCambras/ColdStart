@@ -70,11 +70,6 @@
       "name": "High Thai'd Cafe",
       "distance": "0.6 mi",
       "url": "https://www.google.com/maps/search/High%20Thai'd%20Cafe+near+41.516211999999996%2C-81.5713852"
-    },
-    {
-      "name": "Pho and Rice",
-      "distance": "0.6 mi",
-      "url": "https://www.google.com/maps/search/Pho%20and%20Rice+near+41.516211999999996%2C-81.5713852"
     }
   ],
   "bowling": [
@@ -107,11 +102,6 @@
       "name": "Cinematheque (Cleveland Institute of Art)",
       "distance": "1.7 mi",
       "url": "https://www.google.com/maps/search/Cinematheque%20(Cleveland%20Institute%20of%20Art)+near+41.516211999999996%2C-81.5713852"
-    },
-    {
-      "name": "Atlas Cinemas Shaker Square 6",
-      "distance": "2.5 mi",
-      "url": "https://www.google.com/maps/search/Atlas%20Cinemas%20Shaker%20Square%206+near+41.516211999999996%2C-81.5713852"
     }
   ],
   "fun": [
@@ -133,43 +123,7 @@
       "isFar": true
     }
   ],
-  "hotels": [
-    {
-      "name": "Charming 3-bedroom house in wonderful Cleveland Heights with WiFi, AC",
-      "distance": "0.1 mi",
-      "url": "https://www.google.com/maps/search/Charming%203-bedroom%20house%20in%20wonderful%20Cleveland%20Heights%20with%20WiFi%2C%20AC+near+41.516211999999996%2C-81.5713852"
-    },
-    {
-      "name": "Charming 3-bedroom house in wonderful Cleveland Heights with WiFi, AC",
-      "distance": "0.1 mi",
-      "url": "https://www.google.com/maps/search/Charming%203-bedroom%20house%20in%20wonderful%20Cleveland%20Heights%20with%20WiFi%2C%20AC+near+41.516211999999996%2C-81.5713852"
-    },
-    {
-      "name": "New! Entire Home - Remodeled Spacious Getaway - Four-Bedroom House",
-      "distance": "0.2 mi",
-      "url": "https://www.google.com/maps/search/New!%20Entire%20Home%20-%20Remodeled%20Spacious%20Getaway%20-%20Four-Bedroom%20House+near+41.516211999999996%2C-81.5713852"
-    },
-    {
-      "name": "Charming 3-bedroom in Cleveland Heights",
-      "distance": "0.2 mi",
-      "url": "https://www.google.com/maps/search/Charming%203-bedroom%20in%20Cleveland%20Heights+near+41.516211999999996%2C-81.5713852"
-    },
-    {
-      "name": "Charming 3-bedroom in East Cleveland",
-      "distance": "0.3 mi",
-      "url": "https://www.google.com/maps/search/Charming%203-bedroom%20in%20East%20Cleveland+near+41.516211999999996%2C-81.5713852"
-    },
-    {
-      "name": "Furnished Modern Studio with Wi-Fi in Cleveland Heights!",
-      "distance": "0.3 mi",
-      "url": "https://www.google.com/maps/search/Furnished%20Modern%20Studio%20with%20Wi-Fi%20in%20Cleveland%20Heights!+near+41.516211999999996%2C-81.5713852"
-    },
-    {
-      "name": "Cleveland Height Cabin House - Two-Bedroom Apartment",
-      "distance": "0.4 mi",
-      "url": "https://www.google.com/maps/search/Cleveland%20Height%20Cabin%20House%20-%20Two-Bedroom%20Apartment+near+41.516211999999996%2C-81.5713852"
-    }
-  ],
+  "hotels": [],
   "gas": [
     {
       "name": "Marathon Gas",
@@ -190,11 +144,6 @@
       "name": "Sunoco",
       "distance": "0.7 mi",
       "url": "https://www.google.com/maps/search/Sunoco+near+41.516211999999996%2C-81.5713852"
-    },
-    {
-      "name": "Shell",
-      "distance": "1.0 mi",
-      "url": "https://www.google.com/maps/search/Shell+near+41.516211999999996%2C-81.5713852"
     }
   ]
 }

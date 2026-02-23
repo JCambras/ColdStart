@@ -29,26 +29,6 @@
       "name": "Gus's Carry Out",
       "distance": "0.8 mi",
       "url": "https://www.google.com/maps/search/?api=1&query=Gus's%20Carry%20Out&query_place_id=ChIJq_iAnb9cI4gR3JSaDHFtAY4&center=42.6325868,-83.7427996"
-    },
-    {
-      "name": "Big Chicken",
-      "distance": "0.8 mi",
-      "url": "https://www.google.com/maps/search/?api=1&query=Big%20Chicken&query_place_id=ChIJ5RlEEQBdI4gR77QZ3ROt2kA&center=42.6334169,-83.7440677"
-    },
-    {
-      "name": "Taco Bell",
-      "distance": "0.8 mi",
-      "url": "https://www.google.com/maps/search/?api=1&query=Taco%20Bell&query_place_id=ChIJQ8JhYsBcI4gRnGL6MjiV-cc&center=42.634597,-83.7447827"
-    },
-    {
-      "name": "Wendy's",
-      "distance": "1.0 mi",
-      "url": "https://www.google.com/maps/search/?api=1&query=Wendy's&query_place_id=ChIJU_dq2rhcI4gRsdH5hBfCXsI&center=42.6328226,-83.74722059999999"
-    },
-    {
-      "name": "Enzo’s Pizzeria of Hartland",
-      "distance": "1.0 mi",
-      "url": "https://www.google.com/maps/search/?api=1&query=Enzo%E2%80%99s%20Pizzeria%20of%20Hartland&query_place_id=ChIJ-46YW9NdI4gR31brlxEx9r8&center=42.6344619,-83.7110648"
     }
   ],
   "coffee": [
@@ -76,11 +56,6 @@
       "name": "Starbucks Coffee Company",
       "distance": "0.8 mi",
       "url": "https://www.google.com/maps/search/?api=1&query=Starbucks%20Coffee%20Company&query_place_id=ChIJXyM6zxRdI4gR7ku01ak6Ios&center=42.63469,-83.74407"
-    },
-    {
-      "name": "McDonald's",
-      "distance": "0.8 mi",
-      "url": "https://www.google.com/maps/search/?api=1&query=McDonald's&query_place_id=ChIJVQU0BV1cI4gRpxsYJasas3c&center=42.6335189,-83.7433928"
     }
   ],
   "team_lunch": [
@@ -195,49 +170,18 @@
       "distance": "8.0 mi",
       "url": "https://www.google.com/maps/search/Stemville%20Howell+near+42.638583%2C-83.73022879999999",
       "isFar": true
-    },
-    {
-      "name": "Splash ‘n’ Blast",
-      "distance": "9.0 mi",
-      "url": "https://www.google.com/maps/search/Splash%20%E2%80%98n%E2%80%99%20Blast+near+42.638583%2C-83.73022879999999",
-      "isFar": true
     }
   ],
   "hotels": [
-    {
-      "name": "Lakeside Retreat ~ Cozy Cottage with Firepit ~",
-      "distance": "0.4 mi",
-      "url": "https://www.google.com/maps/search/Lakeside%20Retreat%20~%20Cozy%20Cottage%20with%20Firepit%20~+near+42.638583%2C-83.73022879999999"
-    },
-    {
-      "name": "Lakeside Retreat - Cozy Cottage with Firepit - Two-Bedroom House",
-      "distance": "0.4 mi",
-      "url": "https://www.google.com/maps/search/Lakeside%20Retreat%20-%20Cozy%20Cottage%20with%20Firepit%20-%20Two-Bedroom%20House+near+42.638583%2C-83.73022879999999"
-    },
     {
       "name": "Grand Motel",
       "distance": "0.6 mi",
       "url": "https://www.google.com/maps/search/Grand%20Motel+near+42.638583%2C-83.73022879999999"
     },
     {
-      "name": "Lakefront Hartland Cottage w/ Patio Fire Pits! - Cottage (3 Bedrooms)",
-      "distance": "0.9 mi",
-      "url": "https://www.google.com/maps/search/Lakefront%20Hartland%20Cottage%20w%2F%20Patio%20Fire%20Pits!%20-%20Cottage%20(3%20Bedrooms)+near+42.638583%2C-83.73022879999999"
-    },
-    {
-      "name": "Lakefront Hartland Cottage with Patio and Fire Pits!",
-      "distance": "0.9 mi",
-      "url": "https://www.google.com/maps/search/Lakefront%20Hartland%20Cottage%20with%20Patio%20and%20Fire%20Pits!+near+42.638583%2C-83.73022879999999"
-    },
-    {
       "name": "Lakefront Hartland Cottage w/ Patio & Fire Pits!",
       "distance": "0.9 mi",
       "url": "https://www.google.com/maps/search/Lakefront%20Hartland%20Cottage%20w%2F%20Patio%20%26%20Fire%20Pits!+near+42.638583%2C-83.73022879999999"
-    },
-    {
-      "name": "Lakefront Hartland Cottage with Patio and Fire Pits! - Vacation Home",
-      "distance": "0.9 mi",
-      "url": "https://www.google.com/maps/search/Lakefront%20Hartland%20Cottage%20with%20Patio%20and%20Fire%20Pits!%20-%20Vacation%20Home+near+42.638583%2C-83.73022879999999"
     }
   ],
   "gas": [
@@ -255,11 +199,6 @@
       "name": "Speedway",
       "distance": "1.2 mi",
       "url": "https://www.google.com/maps/search/Speedway+near+42.638583%2C-83.73022879999999"
-    },
-    {
-      "name": "Mobil",
-      "distance": "3.0 mi",
-      "url": "https://www.google.com/maps/search/Mobil+near+42.638583%2C-83.73022879999999"
     },
     {
       "name": "Red Barn Market #16",

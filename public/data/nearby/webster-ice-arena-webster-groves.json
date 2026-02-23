@@ -29,11 +29,6 @@
       "name": "Jimmy John's",
       "distance": "1.0 mi",
       "url": "https://www.google.com/maps/search/Jimmy%20John's+near+38.5780098%2C-90.35617889999999"
-    },
-    {
-      "name": "Charming 2BD,1BA Home/Modern/Centrally Located/Pet/Family Friendly",
-      "distance": "1.6 mi",
-      "url": "https://www.google.com/maps/search/Charming%202BD%2C1BA%20Home%2FModern%2FCentrally%20Located%2FPet%2FFamily%20Friendly+near+38.5780098%2C-90.35617889999999"
     }
   ],
   "coffee": [
@@ -122,28 +117,6 @@
       "name": "STL Riverboat Open",
       "distance": "2.1 mi",
       "url": "https://www.google.com/maps/search/STL%20Riverboat%20Open+near+38.5780098%2C-90.35617889999999"
-    },
-    {
-      "name": "Shrewsbury Lanes",
-      "distance": "2.1 mi",
-      "url": "https://www.google.com/maps/search/Shrewsbury%20Lanes+near+38.5780098%2C-90.35617889999999"
-    },
-    {
-      "name": "Crestwood Bowl",
-      "distance": "2.4 mi",
-      "url": "https://www.google.com/maps/search/Crestwood%20Bowl+near+38.5780098%2C-90.35617889999999"
-    },
-    {
-      "name": "Saratoga Lanes",
-      "distance": "3.0 mi",
-      "url": "https://www.google.com/maps/search/Saratoga%20Lanes+near+38.5780098%2C-90.35617889999999",
-      "isFar": true
-    },
-    {
-      "name": "Epiphany Bowling Lanes",
-      "distance": "3.5 mi",
-      "url": "https://www.google.com/maps/search/Epiphany%20Bowling%20Lanes+near+38.5780098%2C-90.35617889999999",
-      "isFar": true
     }
   ],
   "arcade": [],
@@ -189,32 +162,9 @@
       "distance": "3.5 mi",
       "url": "https://www.google.com/maps/search/Urban%20Air%20Trampoline%20and%20Adventure%20Park+near+38.5780098%2C-90.35617889999999",
       "isFar": true
-    },
-    {
-      "name": "Activate Games",
-      "distance": "3.6 mi",
-      "url": "https://www.google.com/maps/search/Activate%20Games+near+38.5780098%2C-90.35617889999999",
-      "isFar": true
-    },
-    {
-      "name": "FUNBOX ST. LOUIS - St Clair Square",
-      "distance": "3.8 mi",
-      "url": "https://www.google.com/maps/search/FUNBOX%20ST.%20LOUIS%20-%20St%20Clair%20Square+near+38.5780098%2C-90.35617889999999",
-      "isFar": true
-    },
-    {
-      "name": "Boxed In Escape Rooms",
-      "distance": "3.8 mi",
-      "url": "https://www.google.com/maps/search/Boxed%20In%20Escape%20Rooms+near+38.5780098%2C-90.35617889999999",
-      "isFar": true
     }
   ],
   "hotels": [
-    {
-      "name": "Home with Pool in Webster Groves, MO!",
-      "distance": "1.0 mi",
-      "url": "https://www.google.com/maps/search/Home%20with%20Pool%20in%20Webster%20Groves%2C%20MO!+near+38.5780098%2C-90.35617889999999"
-    },
     {
       "name": "HMA Hotels",
       "distance": "1.1 mi",
@@ -234,11 +184,6 @@
       "name": "Wayside Motel",
       "distance": "1.2 mi",
       "url": "https://www.google.com/maps/search/Wayside%20Motel+near+38.5780098%2C-90.35617889999999"
-    },
-    {
-      "name": "Marlborough Apartments and Town Houses",
-      "distance": "1.4 mi",
-      "url": "https://www.google.com/maps/search/Marlborough%20Apartments%20and%20Town%20Houses+near+38.5780098%2C-90.35617889999999"
     },
     {
       "name": "Glendale Charmer",
@@ -266,11 +211,6 @@
       "name": "QuikTrip",
       "distance": "1.1 mi",
       "url": "https://www.google.com/maps/search/QuikTrip+near+38.5780098%2C-90.35617889999999"
-    },
-    {
-      "name": "bp",
-      "distance": "1.5 mi",
-      "url": "https://www.google.com/maps/search/bp+near+38.5780098%2C-90.35617889999999"
     }
   ]
 }

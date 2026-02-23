@@ -29,26 +29,6 @@
       "name": "Subway",
       "distance": "1.5 mi",
       "url": "https://www.google.com/maps/search/?api=1&query=Subway&query_place_id=ChIJVQLyzoKSGYgR32OkORERjKg&center=42.827032599999995,-86.0923942"
-    },
-    {
-      "name": "Don Petrino’s Pizzeria",
-      "distance": "1.5 mi",
-      "url": "https://www.google.com/maps/search/?api=1&query=Don%20Petrino%E2%80%99s%20Pizzeria&query_place_id=ChIJS4zDXnyNGYgR7Aj5xLc0keM&center=42.827341,-86.096569"
-    },
-    {
-      "name": "Wendy's",
-      "distance": "1.6 mi",
-      "url": "https://www.google.com/maps/search/?api=1&query=Wendy's&query_place_id=ChIJfamfzpySGYgRnWpfSQAxLvs&center=42.8261456,-86.09031019999999"
-    },
-    {
-      "name": "Dairy Queen Grill & Chill",
-      "distance": "1.7 mi",
-      "url": "https://www.google.com/maps/search/?api=1&query=Dairy%20Queen%20Grill%20%26%20Chill&query_place_id=ChIJr3zQwYKSGYgRAVK5ZuFqLHc&center=42.8240416,-86.0902981"
-    },
-    {
-      "name": "Potbelly",
-      "distance": "2.3 mi",
-      "url": "https://www.google.com/maps/search/?api=1&query=Potbelly&query_place_id=ChIJ-6rw86OSGYgRoV-X_WV3jnc&center=42.8159048,-86.08931"
     }
   ],
   "coffee": [
@@ -66,11 +46,6 @@
       "name": "Starbucks Coffee Company",
       "distance": "1.5 mi",
       "url": "https://www.google.com/maps/search/?api=1&query=Starbucks%20Coffee%20Company&query_place_id=ChIJN6ZCyIKSGYgRsjHXLyB8J64&center=42.82694,-86.0932"
-    },
-    {
-      "name": "McDonald's",
-      "distance": "1.5 mi",
-      "url": "https://www.google.com/maps/search/?api=1&query=McDonald's&query_place_id=ChIJpzMhNn2NGYgRpUXZ2ps5ZWw&center=42.827081799999995,-86.0950623"
     },
     {
       "name": "BIGGBY COFFEE",
@@ -103,16 +78,6 @@
       "name": "McAlister's Deli",
       "distance": "2.7 mi",
       "url": "https://www.google.com/maps/search/?api=1&query=McAlister's%20Deli&query_place_id=ChIJ_68mHACTGYgRvKIotiVV0jA&center=42.8098837,-86.0884533"
-    },
-    {
-      "name": "Walmart Bakery",
-      "distance": "2.8 mi",
-      "url": "https://www.google.com/maps/search/?api=1&query=Walmart%20Bakery&query_place_id=ChIJVVVBuqeSGYgRq_9KWre2YmA&center=42.8085439,-86.09095599999999"
-    },
-    {
-      "name": "Sam's Club Bakery",
-      "distance": "2.9 mi",
-      "url": "https://www.google.com/maps/search/?api=1&query=Sam's%20Club%20Bakery&query_place_id=ChIJ2Xo6EQ6TGYgRGQgXZYh6YGU&center=42.807685,-86.0884691"
     }
   ],
   "dinner": [
@@ -159,18 +124,6 @@
       "distance": "4.2 mi",
       "url": "https://www.google.com/maps/search/Sperry's%20Moviehouse+near+42.849244299999995%2C-86.09091599999999",
       "isFar": true
-    },
-    {
-      "name": "GQT Holland 7",
-      "distance": "4.9 mi",
-      "url": "https://www.google.com/maps/search/GQT%20Holland%207+near+42.849244299999995%2C-86.09091599999999",
-      "isFar": true
-    },
-    {
-      "name": "emblem cinema",
-      "distance": "4.9 mi",
-      "url": "https://www.google.com/maps/search/emblem%20cinema+near+42.849244299999995%2C-86.09091599999999",
-      "isFar": true
     }
   ],
   "fun": [
@@ -193,12 +146,6 @@
       "name": "Skerbeck Entertainment Group",
       "distance": "3.0 mi",
       "url": "https://www.google.com/maps/search/Skerbeck%20Entertainment%20Group+near+42.849244299999995%2C-86.09091599999999"
-    },
-    {
-      "name": "Craig's Cruisers - Holland",
-      "distance": "3.6 mi",
-      "url": "https://www.google.com/maps/search/Craig's%20Cruisers%20-%20Holland+near+42.849244299999995%2C-86.09091599999999",
-      "isFar": true
     }
   ],
   "hotels": [
@@ -206,11 +153,6 @@
       "name": "Drew's Campground",
       "distance": "0.5 mi",
       "url": "https://www.google.com/maps/search/Drew's%20Campground+near+42.849244299999995%2C-86.09091599999999"
-    },
-    {
-      "name": "Quiet Suburban Escape - Holland North Side - Holiday Home",
-      "distance": "1.5 mi",
-      "url": "https://www.google.com/maps/search/Quiet%20Suburban%20Escape%20-%20Holland%20North%20Side%20-%20Holiday%20Home+near+42.849244299999995%2C-86.09091599999999"
     },
     {
       "name": "Home2 Suites by Hilton Holland",
@@ -258,11 +200,6 @@
       "name": "Speedway",
       "distance": "2.6 mi",
       "url": "https://www.google.com/maps/search/Speedway+near+42.849244299999995%2C-86.09091599999999"
-    },
-    {
-      "name": "Mobil",
-      "distance": "2.7 mi",
-      "url": "https://www.google.com/maps/search/Mobil+near+42.849244299999995%2C-86.09091599999999"
     }
   ]
 }

@@ -29,27 +29,6 @@
       "name": "Arby's",
       "distance": "1.0 mi",
       "url": "https://www.google.com/maps/search/?api=1&query=Arby's&query_place_id=ChIJi7BHojqAzYkRIHyJdlqV4RQ&center=41.958384099999996,-78.64442059999999"
-    },
-    {
-      "name": "Subway",
-      "distance": "1.1 mi",
-      "url": "https://www.google.com/maps/search/?api=1&query=Subway&query_place_id=ChIJv2Czsy-AzYkRuoQGFcwDwl0&center=41.9579027,-78.64400010000001"
-    },
-    {
-      "name": "Taco Bell",
-      "distance": "2.7 mi",
-      "url": "https://www.google.com/maps/search/?api=1&query=Taco%20Bell&query_place_id=ChIJoaT23HuAzYkRfmb7g6xymNY&center=41.9790719,-78.61780480000002"
-    },
-    {
-      "name": "Burger King",
-      "distance": "2.7 mi",
-      "url": "https://www.google.com/maps/search/?api=1&query=Burger%20King&query_place_id=ChIJk93LdXyAzYkR7xE4v6wVIhk&center=41.978058499999996,-78.61674119999999"
-    },
-    {
-      "name": "Subway",
-      "distance": "3.1 mi",
-      "url": "https://www.google.com/maps/search/?api=1&query=Subway&query_place_id=ChIJb3IAAHyAzYkRXOxK4np0Yoo&center=41.9784821,-78.6088712",
-      "isFar": true
     }
   ],
   "coffee": [
@@ -77,31 +56,9 @@
       "name": "The Magic Bean Cafe",
       "distance": "0.9 mi",
       "url": "https://www.google.com/maps/search/?api=1&query=The%20Magic%20Bean%20Cafe&query_place_id=ChIJPQJh1pqBzYkRxelAsivqFzk&center=41.956583699999996,-78.64748089999999"
-    },
-    {
-      "name": "Kennedy St Cafe",
-      "distance": "0.9 mi",
-      "url": "https://www.google.com/maps/search/?api=1&query=Kennedy%20St%20Cafe&query_place_id=ChIJB7ryuy-AzYkR5TYXCAvps6M&center=41.956451799999996,-78.6474692"
-    },
-    {
-      "name": "McDonald's",
-      "distance": "1.0 mi",
-      "url": "https://www.google.com/maps/search/?api=1&query=McDonald's&query_place_id=ChIJYQ0cti-AzYkRtHOdpa_awdI&center=41.9563865,-78.64586059999999"
-    },
-    {
-      "name": "Hanley Library Cafe",
-      "distance": "1.2 mi",
-      "url": "https://www.google.com/maps/search/?api=1&query=Hanley%20Library%20Cafe&query_place_id=ChIJOXrOanF_zYkR6MagX7WXWrU&center=41.9445822,-78.6725175"
     }
   ],
-  "team_lunch": [
-    {
-      "name": "Walmart Bakery",
-      "distance": "3.1 mi",
-      "url": "https://www.google.com/maps/search/?api=1&query=Walmart%20Bakery&query_place_id=ChIJVVVVKYeAzYkRKSFHTGFF3rQ&center=41.9784309,-78.60901679999999",
-      "isFar": true
-    }
-  ],
+  "team_lunch": [],
   "dinner": [
     {
       "name": "Taco Inc Mexican Bar and Grille Bradford",

@@ -23,11 +23,6 @@
   ],
   "coffee": [
     {
-      "name": "McDonald's",
-      "distance": "0.5 mi",
-      "url": "https://www.google.com/maps/search/McDonald's+near+35.7816526%2C-78.7585529"
-    },
-    {
       "name": "Starbucks Coffee Company",
       "distance": "0.6 mi",
       "url": "https://www.google.com/maps/search/Starbucks%20Coffee%20Company+near+35.7816526%2C-78.7585529"
@@ -68,11 +63,6 @@
       "name": "El cuscurrón",
       "distance": "0.6 mi",
       "url": "https://www.google.com/maps/search/El%20cuscurr%C3%B3n+near+35.7816526%2C-78.7585529"
-    },
-    {
-      "name": "Panaderia Guadalajara",
-      "distance": "0.6 mi",
-      "url": "https://www.google.com/maps/search/Panaderia%20Guadalajara+near+35.7816526%2C-78.7585529"
     }
   ],
   "dinner": [
@@ -105,11 +95,6 @@
       "name": "Sports & Social Cary",
       "distance": "0.1 mi",
       "url": "https://www.google.com/maps/search/Sports%20%26%20Social%20Cary+near+35.7816526%2C-78.7585529"
-    },
-    {
-      "name": "El Cuscatleco",
-      "distance": "0.6 mi",
-      "url": "https://www.google.com/maps/search/El%20Cuscatleco+near+35.7816526%2C-78.7585529"
     }
   ],
   "bowling": [
@@ -135,18 +120,6 @@
       "name": "Regal Crossroads - Cary",
       "distance": "2.1 mi",
       "url": "https://www.google.com/maps/search/Regal%20Crossroads%20-%20Cary+near+35.7816526%2C-78.7585529"
-    },
-    {
-      "name": "CMX CinéBistro at Waverly Place",
-      "distance": "3.1 mi",
-      "url": "https://www.google.com/maps/search/CMX%20Cin%C3%A9Bistro%20at%20Waverly%20Place+near+35.7816526%2C-78.7585529",
-      "isFar": true
-    },
-    {
-      "name": "AMC Park Place 16",
-      "distance": "3.2 mi",
-      "url": "https://www.google.com/maps/search/AMC%20Park%20Place%2016+near+35.7816526%2C-78.7585529",
-      "isFar": true
     }
   ],
   "fun": [
@@ -170,12 +143,6 @@
       "distance": "3.2 mi",
       "url": "https://www.google.com/maps/search/Times%20Up!%20Escape%20Rooms+near+35.7816526%2C-78.7585529",
       "isFar": true
-    },
-    {
-      "name": "Game On Escapes & More - Cary",
-      "distance": "3.8 mi",
-      "url": "https://www.google.com/maps/search/Game%20On%20Escapes%20%26%20More%20-%20Cary+near+35.7816526%2C-78.7585529",
-      "isFar": true
     }
   ],
   "hotels": [
@@ -195,11 +162,6 @@
       "url": "https://www.google.com/maps/search/Mobile%20Estates+near+35.7816526%2C-78.7585529"
     },
     {
-      "name": "Downtown Cary Retreat - Large Yard, Dog Friendly",
-      "distance": "0.5 mi",
-      "url": "https://www.google.com/maps/search/Downtown%20Cary%20Retreat%20-%20Large%20Yard%2C%20Dog%20Friendly+near+35.7816526%2C-78.7585529"
-    },
-    {
       "name": "Alexandria, Va.",
       "distance": "0.5 mi",
       "url": "https://www.google.com/maps/search/Alexandria%2C%20Va.+near+35.7816526%2C-78.7585529"
@@ -208,11 +170,6 @@
       "name": "Outdoor Oasis - Secluded Pool, Hot Tub, Fireplace",
       "distance": "0.6 mi",
       "url": "https://www.google.com/maps/search/Outdoor%20Oasis%20-%20Secluded%20Pool%2C%20Hot%20Tub%2C%20Fireplace+near+35.7816526%2C-78.7585529"
-    },
-    {
-      "name": "Charming Cary Home about 10 Mi to Downtown Raleigh! - Holiday Home",
-      "distance": "0.6 mi",
-      "url": "https://www.google.com/maps/search/Charming%20Cary%20Home%20about%2010%20Mi%20to%20Downtown%20Raleigh!%20-%20Holiday%20Home+near+35.7816526%2C-78.7585529"
     }
   ],
   "gas": [
@@ -235,11 +192,6 @@
       "name": "Exxon",
       "distance": "0.9 mi",
       "url": "https://www.google.com/maps/search/Exxon+near+35.7816526%2C-78.7585529"
-    },
-    {
-      "name": "Quality Mart #40",
-      "distance": "1.0 mi",
-      "url": "https://www.google.com/maps/search/Quality%20Mart%20%2340+near+35.7816526%2C-78.7585529"
     }
   ]
 }

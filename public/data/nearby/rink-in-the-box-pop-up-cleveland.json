@@ -26,13 +26,7 @@
       "url": "https://www.google.com/maps/search/Burger%20King+near+41.5222779%2C-81.65539129999999"
     }
   ],
-  "coffee": [
-    {
-      "name": "McDonald's",
-      "distance": "0.4 mi",
-      "url": "https://www.google.com/maps/search/McDonald's+near+41.5222779%2C-81.65539129999999"
-    }
-  ],
+  "coffee": [],
   "team_lunch": [
     {
       "name": "Daiquiri Factory Restaurant & Lounge",
@@ -80,11 +74,6 @@
       "name": "The Chopping Block",
       "distance": "0.4 mi",
       "url": "https://www.google.com/maps/search/The%20Chopping%20Block+near+41.5222779%2C-81.65539129999999"
-    },
-    {
-      "name": "City Slice Pizzeria",
-      "distance": "0.4 mi",
-      "url": "https://www.google.com/maps/search/City%20Slice%20Pizzeria+near+41.5222779%2C-81.65539129999999"
     }
   ],
   "bowling": [
@@ -122,18 +111,6 @@
       "distance": "4.3 mi",
       "url": "https://www.google.com/maps/search/Atlas%20Cinemas%20Shaker%20Square%206+near+41.5222779%2C-81.65539129999999",
       "isFar": true
-    },
-    {
-      "name": "Capitol Theatre",
-      "distance": "4.7 mi",
-      "url": "https://www.google.com/maps/search/Capitol%20Theatre+near+41.5222779%2C-81.65539129999999",
-      "isFar": true
-    },
-    {
-      "name": "Cedar Lee Theatre",
-      "distance": "4.9 mi",
-      "url": "https://www.google.com/maps/search/Cedar%20Lee%20Theatre+near+41.5222779%2C-81.65539129999999",
-      "isFar": true
     }
   ],
   "fun": [
@@ -167,34 +144,9 @@
       "url": "https://www.google.com/maps/search/RENOVATED%20MODERN%20HEAVEN+near+41.5222779%2C-81.65539129999999"
     },
     {
-      "name": "Cozy apartment near the heart of Cleveland",
-      "distance": "0.3 mi",
-      "url": "https://www.google.com/maps/search/Cozy%20apartment%20near%20the%20heart%20of%20Cleveland+near+41.5222779%2C-81.65539129999999"
-    },
-    {
-      "name": "Charming 1 bedroom apartment in fabulous Cleveland",
-      "distance": "0.3 mi",
-      "url": "https://www.google.com/maps/search/Charming%201%20bedroom%20apartment%20in%20fabulous%20Cleveland+near+41.5222779%2C-81.65539129999999"
-    },
-    {
       "name": "Rated Top 4 Places to Stay in Cleveland by cleveland.com newspaper!",
       "distance": "0.4 mi",
       "url": "https://www.google.com/maps/search/Rated%20Top%204%20Places%20to%20Stay%20in%20Cleveland%20by%20cleveland.com%20newspaper!+near+41.5222779%2C-81.65539129999999"
-    },
-    {
-      "name": "Comfy 1BR | Full Kitchen | Near AsiaTown & Downtown",
-      "distance": "0.4 mi",
-      "url": "https://www.google.com/maps/search/Comfy%201BR%20%7C%20Full%20Kitchen%20%7C%20Near%20AsiaTown%20%26%20Downtown+near+41.5222779%2C-81.65539129999999"
-    },
-    {
-      "name": "5 bedroom loft in Heart of Cleveland Modern Comfort Meets Urban Convenience",
-      "distance": "0.5 mi",
-      "url": "https://www.google.com/maps/search/5%20bedroom%20loft%20in%20Heart%20of%20Cleveland%20Modern%20Comfort%20Meets%20Urban%20Convenience+near+41.5222779%2C-81.65539129999999"
-    },
-    {
-      "name": "5 bedroom loft in Heart of Cleveland \\nModern Comfort Meets Urban Convenience\\n",
-      "distance": "0.5 mi",
-      "url": "https://www.google.com/maps/search/5%20bedroom%20loft%20in%20Heart%20of%20Cleveland%20%5CnModern%20Comfort%20Meets%20Urban%20Convenience%5Cn+near+41.5222779%2C-81.65539129999999"
     }
   ],
   "gas": [
@@ -217,11 +169,6 @@
       "name": "Exxon",
       "distance": "0.4 mi",
       "url": "https://www.google.com/maps/search/Exxon+near+41.5222779%2C-81.65539129999999"
-    },
-    {
-      "name": "Marathon Gas",
-      "distance": "0.4 mi",
-      "url": "https://www.google.com/maps/search/Marathon%20Gas+near+41.5222779%2C-81.65539129999999"
     }
   ]
 }

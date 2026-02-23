@@ -30,18 +30,6 @@
       "distance": "3.2 mi",
       "url": "https://www.google.com/maps/search/?api=1&query=Wawa&query_place_id=ChIJVxmZAJPdwIkROOtKwXBMj7I&center=39.500067699999995,-74.6074876",
       "isFar": true
-    },
-    {
-      "name": "Wawa",
-      "distance": "4.9 mi",
-      "url": "https://www.google.com/maps/search/?api=1&query=Wawa&query_place_id=ChIJddQS3XXnwIkRwq5-whI2s8U&center=39.4790615,-74.57487789999999",
-      "isFar": true
-    },
-    {
-      "name": "Wendy's",
-      "distance": "5.0 mi",
-      "url": "https://www.google.com/maps/search/?api=1&query=Wendy's&query_place_id=ChIJ83ltVwDnwIkR1eiNFgJQBGw&center=39.4781769,-74.57424499999999",
-      "isFar": true
     }
   ],
   "coffee": [
@@ -51,31 +39,9 @@
       "url": "https://www.google.com/maps/search/?api=1&query=Caf%C3%A9%20la%20Fleur&query_place_id=ChIJyX-pfxHfwIkRYKubmUJwgII&center=39.546380899999996,-74.6038994"
     },
     {
-      "name": "McDonald's",
-      "distance": "2.6 mi",
-      "url": "https://www.google.com/maps/search/?api=1&query=McDonald's&query_place_id=ChIJacvkaSrcwIkRYTDHMqVqi9E&center=39.5255988,-74.64400470000001"
-    },
-    {
-      "name": "Wawa",
-      "distance": "2.6 mi",
-      "url": "https://www.google.com/maps/search/?api=1&query=Wawa&query_place_id=ChIJd6_Ag2_fwIkRikvDhqS_62w&center=39.5283759,-74.6474181"
-    },
-    {
       "name": "Dunkin'",
       "distance": "2.7 mi",
       "url": "https://www.google.com/maps/search/?api=1&query=Dunkin'&query_place_id=ChIJz8QQb4LewIkRKA4SWqcijuw&center=39.5287966,-74.64816739999999"
-    },
-    {
-      "name": "Wawa",
-      "distance": "3.2 mi",
-      "url": "https://www.google.com/maps/search/?api=1&query=Wawa&query_place_id=ChIJVxmZAJPdwIkROOtKwXBMj7I&center=39.500067699999995,-74.6074876",
-      "isFar": true
-    },
-    {
-      "name": "Wawa",
-      "distance": "4.9 mi",
-      "url": "https://www.google.com/maps/search/?api=1&query=Wawa&query_place_id=ChIJddQS3XXnwIkRwq5-whI2s8U&center=39.4790615,-74.57487789999999",
-      "isFar": true
     }
   ],
   "team_lunch": [],

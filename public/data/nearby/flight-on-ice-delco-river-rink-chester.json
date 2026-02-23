@@ -1,11 +1,6 @@
 {
   "quick_bite": [
     {
-      "name": "N8RDS FAMILY KITCHEN",
-      "distance": "0.8 mi",
-      "url": "https://www.google.com/maps/search/?api=1&query=N8RDS%20FAMILY%20KITCHEN&query_place_id=ChIJWYsAX8TnxokRGWduGyOtTVk&center=39.8580701,-75.36095560000001"
-    },
-    {
       "name": "Bento Sushi",
       "distance": "0.8 mi",
       "url": "https://www.google.com/maps/search/?api=1&query=Bento%20Sushi&query_place_id=ChIJQV32K7TnxokRLPuE91p8a3c&center=39.8616683,-75.3553921"
@@ -34,21 +29,6 @@
       "name": "Smash2Go",
       "distance": "1.3 mi",
       "url": "https://www.google.com/maps/search/?api=1&query=Smash2Go&query_place_id=ChIJM2NyTtLnxokR2AObW56NqF8&center=39.858129999999996,-75.3719387"
-    },
-    {
-      "name": "NY HALAL FOOD TRUCK # 1",
-      "distance": "1.4 mi",
-      "url": "https://www.google.com/maps/search/?api=1&query=NY%20HALAL%20FOOD%20TRUCK%20%23%201&query_place_id=ChIJZVuB4c3nxokRZpAq6JztuHc&center=39.8642434,-75.3690697"
-    },
-    {
-      "name": "Wawa",
-      "distance": "1.4 mi",
-      "url": "https://www.google.com/maps/search/?api=1&query=Wawa&query_place_id=ChIJ2fsTeA_oxokRQDXEA2QCBWo&center=39.870629799999996,-75.3535559"
-    },
-    {
-      "name": "Taco Bell",
-      "distance": "1.9 mi",
-      "url": "https://www.google.com/maps/search/?api=1&query=Taco%20Bell&query_place_id=ChIJ01fliR7oxokR942U4pNI_O0&center=39.877944,-75.3441887"
     }
   ],
   "coffee": [
@@ -56,21 +36,6 @@
       "name": "Penn Cafe’",
       "distance": "0.6 mi",
       "url": "https://www.google.com/maps/search/?api=1&query=Penn%20Cafe%E2%80%99&query_place_id=ChIJ2SCLGKXnxokRTzam3DsJPdY&center=39.848065399999996,-75.3600909"
-    },
-    {
-      "name": "McDonald's",
-      "distance": "1.2 mi",
-      "url": "https://www.google.com/maps/search/?api=1&query=McDonald's&query_place_id=ChIJB0L-8QHoxokR-ssw6XcSuPs&center=39.8658758,-75.3417693"
-    },
-    {
-      "name": "Wawa",
-      "distance": "1.4 mi",
-      "url": "https://www.google.com/maps/search/?api=1&query=Wawa&query_place_id=ChIJ2fsTeA_oxokRQDXEA2QCBWo&center=39.870629799999996,-75.3535559"
-    },
-    {
-      "name": "McDonald's",
-      "distance": "2.0 mi",
-      "url": "https://www.google.com/maps/search/?api=1&query=McDonald's&query_place_id=ChIJXUutWB7oxokRisAMbY4m2Hg&center=39.8786603,-75.3442034"
     }
   ],
   "team_lunch": [
@@ -103,26 +68,6 @@
       "name": "Goldo Pleta & Jannet Frappes",
       "distance": "0.3 mi",
       "url": "https://www.google.com/maps/search/?api=1&query=Goldo%20Pleta%20%26%20Jannet%20Frappes&query_place_id=ChIJaYhJzn4fJIkRCTZtU67mZzI&center=39.8549077,-75.352293"
-    },
-    {
-      "name": "Big Reds Kitchen",
-      "distance": "0.4 mi",
-      "url": "https://www.google.com/maps/search/?api=1&query=Big%20Reds%20Kitchen&query_place_id=ChIJxxVqzf3nxokRh-iprjZN4Zk&center=39.856390999999995,-75.35115429999999"
-    },
-    {
-      "name": "Grab Your Wings",
-      "distance": "0.4 mi",
-      "url": "https://www.google.com/maps/search/?api=1&query=Grab%20Your%20Wings&query_place_id=ChIJeYrl-OfnxokR5QqGRkh6K7U&center=39.856390999999995,-75.35115429999999"
-    },
-    {
-      "name": "Fatim's kitchen",
-      "distance": "0.5 mi",
-      "url": "https://www.google.com/maps/search/?api=1&query=Fatim's%20kitchen&query_place_id=ChIJwXVAoD_nxokReZSJdjvAb3w&center=39.8495567,-75.359315"
-    },
-    {
-      "name": "Terrell's Restaurant in Chester",
-      "distance": "0.6 mi",
-      "url": "https://www.google.com/maps/search/?api=1&query=Terrell's%20Restaurant%20in%20Chester&query_place_id=ChIJaR5zEdLnxokR5brBVOg0-_I&center=39.8477097,-75.3595331"
     }
   ],
   "dinner": [

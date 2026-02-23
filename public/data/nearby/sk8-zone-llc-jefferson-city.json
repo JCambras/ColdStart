@@ -23,11 +23,6 @@
   ],
   "coffee": [
     {
-      "name": "McDonald's",
-      "distance": "0.7 mi",
-      "url": "https://www.google.com/maps/search/McDonald's+near+38.558108%2C-92.1885397"
-    },
-    {
       "name": "Green Leaf Cafe & Marketplace",
       "distance": "1.1 mi",
       "url": "https://www.google.com/maps/search/Green%20Leaf%20Cafe%20%26%20Marketplace+near+38.558108%2C-92.1885397"
@@ -48,11 +43,6 @@
       "name": "Perkins American Food Co.",
       "distance": "0.4 mi",
       "url": "https://www.google.com/maps/search/Perkins%20American%20Food%20Co.+near+38.558108%2C-92.1885397"
-    },
-    {
-      "name": "Hunt Brothers Pizza",
-      "distance": "0.5 mi",
-      "url": "https://www.google.com/maps/search/Hunt%20Brothers%20Pizza+near+38.558108%2C-92.1885397"
     },
     {
       "name": "Hunt Brothers Pizza",
@@ -90,11 +80,6 @@
       "name": "La Estaca",
       "distance": "0.7 mi",
       "url": "https://www.google.com/maps/search/La%20Estaca+near+38.558108%2C-92.1885397"
-    },
-    {
-      "name": "El Poblano Grill and Cantina",
-      "distance": "0.8 mi",
-      "url": "https://www.google.com/maps/search/El%20Poblano%20Grill%20and%20Cantina+near+38.558108%2C-92.1885397"
     }
   ],
   "bowling": [
@@ -147,11 +132,6 @@
       "url": "https://www.google.com/maps/search/Travelodge%20by%20Wyndham%20Jefferson%20City+near+38.558108%2C-92.1885397"
     },
     {
-      "name": "MOWY Vacation Rentals",
-      "distance": "0.4 mi",
-      "url": "https://www.google.com/maps/search/MOWY%20Vacation%20Rentals+near+38.558108%2C-92.1885397"
-    },
-    {
       "name": "Quality Inn & Suites Jefferson City",
       "distance": "0.4 mi",
       "url": "https://www.google.com/maps/search/Quality%20Inn%20%26%20Suites%20Jefferson%20City+near+38.558108%2C-92.1885397"
@@ -187,11 +167,6 @@
       "name": "STADIUM STOP N SHOP",
       "distance": "0.5 mi",
       "url": "https://www.google.com/maps/search/STADIUM%20STOP%20N%20SHOP+near+38.558108%2C-92.1885397"
-    },
-    {
-      "name": "Phillips 66",
-      "distance": "0.5 mi",
-      "url": "https://www.google.com/maps/search/Phillips%2066+near+38.558108%2C-92.1885397"
     }
   ]
 }

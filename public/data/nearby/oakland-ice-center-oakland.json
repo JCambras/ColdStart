@@ -53,11 +53,6 @@
       "name": "Doggie Diner",
       "distance": "0.1 mi",
       "url": "https://www.google.com/maps/search/Doggie%20Diner+near+37.807457899999996%2C-122.27141479999997"
-    },
-    {
-      "name": "Pablo's Alley",
-      "distance": "0.1 mi",
-      "url": "https://www.google.com/maps/search/Pablo's%20Alley+near+37.807457899999996%2C-122.27141479999997"
     }
   ],
   "dinner": [
@@ -90,11 +85,6 @@
       "name": "Plenty",
       "distance": "0.1 mi",
       "url": "https://www.google.com/maps/search/Plenty+near+37.807457899999996%2C-122.27141479999997"
-    },
-    {
-      "name": "Plenty Plus (プレンティ・プラス)",
-      "distance": "0.1 mi",
-      "url": "https://www.google.com/maps/search/Plenty%20Plus%20(%E3%83%97%E3%83%AC%E3%83%B3%E3%83%86%E3%82%A3%E3%83%BB%E3%83%97%E3%83%A9%E3%82%B9)+near+37.807457899999996%2C-122.27141479999997"
     }
   ],
   "bowling": [
@@ -120,27 +110,6 @@
       "name": "Regal Jack London",
       "distance": "0.9 mi",
       "url": "https://www.google.com/maps/search/Regal%20Jack%20London+near+37.807457899999996%2C-122.27141479999997"
-    },
-    {
-      "name": "Grand Lake Theatre",
-      "distance": "1.3 mi",
-      "url": "https://www.google.com/maps/search/Grand%20Lake%20Theatre+near+37.807457899999996%2C-122.27141479999997"
-    },
-    {
-      "name": "Landmark's Piedmont Theatre",
-      "distance": "1.8 mi",
-      "url": "https://www.google.com/maps/search/Landmark's%20Piedmont%20Theatre+near+37.807457899999996%2C-122.27141479999997"
-    },
-    {
-      "name": "AMC Bay Street 16",
-      "distance": "2.1 mi",
-      "url": "https://www.google.com/maps/search/AMC%20Bay%20Street%2016+near+37.807457899999996%2C-122.27141479999997"
-    },
-    {
-      "name": "Alameda Cinema Grill",
-      "distance": "3.3 mi",
-      "url": "https://www.google.com/maps/search/Alameda%20Cinema%20Grill+near+37.807457899999996%2C-122.27141479999997",
-      "isFar": true
     }
   ],
   "fun": [
@@ -163,54 +132,9 @@
       "name": "Bay Play",
       "distance": "1.5 mi",
       "url": "https://www.google.com/maps/search/Bay%20Play+near+37.807457899999996%2C-122.27141479999997"
-    },
-    {
-      "name": "Trivium Games",
-      "distance": "1.6 mi",
-      "url": "https://www.google.com/maps/search/Trivium%20Games+near+37.807457899999996%2C-122.27141479999997"
-    },
-    {
-      "name": "Sandbox VR",
-      "distance": "2.1 mi",
-      "url": "https://www.google.com/maps/search/Sandbox%20VR+near+37.807457899999996%2C-122.27141479999997"
-    },
-    {
-      "name": "Red Door Escape Room",
-      "distance": "2.3 mi",
-      "url": "https://www.google.com/maps/search/Red%20Door%20Escape%20Room+near+37.807457899999996%2C-122.27141479999997"
     }
   ],
   "hotels": [
-    {
-      "name": "Heart Of Oakland Broadway Condo Retreat\\n",
-      "distance": "0.1 mi",
-      "url": "https://www.google.com/maps/search/Heart%20Of%20Oakland%20Broadway%20Condo%20Retreat%5Cn+near+37.807457899999996%2C-122.27141479999997"
-    },
-    {
-      "name": "Iconic, sunny, open-plan condo in heart of Oakland<br>",
-      "distance": "0.1 mi",
-      "url": "https://www.google.com/maps/search/Iconic%2C%20sunny%2C%20open-plan%20condo%20in%20heart%20of%20Oakland%3Cbr%3E+near+37.807457899999996%2C-122.27141479999997"
-    },
-    {
-      "name": "Luxury 2-Bedroom 15mins from San Francisco",
-      "distance": "0.1 mi",
-      "url": "https://www.google.com/maps/search/Luxury%202-Bedroom%2015mins%20from%20San%20Francisco+near+37.807457899999996%2C-122.27141479999997"
-    },
-    {
-      "name": "Luxury 2-Bedroom 15mins from San Francisco",
-      "distance": "0.1 mi",
-      "url": "https://www.google.com/maps/search/Luxury%202-Bedroom%2015mins%20from%20San%20Francisco+near+37.807457899999996%2C-122.27141479999997"
-    },
-    {
-      "name": "Lovely loft Downtown",
-      "distance": "0.1 mi",
-      "url": "https://www.google.com/maps/search/Lovely%20loft%20Downtown+near+37.807457899999996%2C-122.27141479999997"
-    },
-    {
-      "name": "Lovely loft Downtown",
-      "distance": "0.1 mi",
-      "url": "https://www.google.com/maps/search/Lovely%20loft%20Downtown+near+37.807457899999996%2C-122.27141479999997"
-    },
     {
       "name": "\\\"Uptown Oakland Penthouse\\\"",
       "distance": "0.1 mi",
@@ -237,11 +161,6 @@
       "name": "Shell",
       "distance": "0.7 mi",
       "url": "https://www.google.com/maps/search/Shell+near+37.807457899999996%2C-122.27141479999997"
-    },
-    {
-      "name": "Chevron",
-      "distance": "0.9 mi",
-      "url": "https://www.google.com/maps/search/Chevron+near+37.807457899999996%2C-122.27141479999997"
     }
   ]
 }

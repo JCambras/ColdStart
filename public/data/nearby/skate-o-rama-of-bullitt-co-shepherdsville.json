@@ -29,19 +29,9 @@
       "name": "Waffle House",
       "distance": "1.6 mi",
       "url": "https://www.google.com/maps/search/Waffle%20House+near+38.0480695%2C-85.6777845"
-    },
-    {
-      "name": "Subway",
-      "distance": "1.6 mi",
-      "url": "https://www.google.com/maps/search/Subway+near+38.0480695%2C-85.6777845"
     }
   ],
   "coffee": [
-    {
-      "name": "McDonald's",
-      "distance": "1.5 mi",
-      "url": "https://www.google.com/maps/search/McDonald's+near+38.0480695%2C-85.6777845"
-    },
     {
       "name": "Scooter's Coffee",
       "distance": "1.7 mi",
@@ -69,11 +59,6 @@
     {
       "name": "Hunt Brothers Pizza",
       "distance": "0.3 mi",
-      "url": "https://www.google.com/maps/search/Hunt%20Brothers%20Pizza+near+38.0480695%2C-85.6777845"
-    },
-    {
-      "name": "Hunt Brothers Pizza",
-      "distance": "1.7 mi",
       "url": "https://www.google.com/maps/search/Hunt%20Brothers%20Pizza+near+38.0480695%2C-85.6777845"
     },
     {
@@ -137,44 +122,13 @@
       "distance": "6.2 mi",
       "url": "https://www.google.com/maps/search/Sky%20Zone%20Trampoline%20Park+near+38.0480695%2C-85.6777845",
       "isFar": true
-    },
-    {
-      "name": "FUNBOX Shepherdsville",
-      "distance": "8.3 mi",
-      "url": "https://www.google.com/maps/search/FUNBOX%20Shepherdsville+near+38.0480695%2C-85.6777845",
-      "isFar": true
     }
   ],
   "hotels": [
     {
-      "name": "Cozy Home Near Bourbon Trail, & KY Derby, Large Covered Patio, Fenced Backyard",
-      "distance": "0.4 mi",
-      "url": "https://www.google.com/maps/search/Cozy%20Home%20Near%20Bourbon%20Trail%2C%20%26%20KY%20Derby%2C%20Large%20Covered%20Patio%2C%20Fenced%20Backyard+near+38.0480695%2C-85.6777845"
-    },
-    {
-      "name": "Cozy Home Near Bourbon Trail, KY Derby, Large Covered Patio, Fenced Backyard",
-      "distance": "0.4 mi",
-      "url": "https://www.google.com/maps/search/Cozy%20Home%20Near%20Bourbon%20Trail%2C%20KY%20Derby%2C%20Large%20Covered%20Patio%2C%20Fenced%20Backyard+near+38.0480695%2C-85.6777845"
-    },
-    {
-      "name": "Cozy Home Near Bourbon Trail, & KY Derby, Large Covered Patio, Fenced Backyard",
-      "distance": "0.6 mi",
-      "url": "https://www.google.com/maps/search/Cozy%20Home%20Near%20Bourbon%20Trail%2C%20%26%20KY%20Derby%2C%20Large%20Covered%20Patio%2C%20Fenced%20Backyard+near+38.0480695%2C-85.6777845"
-    },
-    {
       "name": "Comfort Inn Suites Shepherdsville - Louisville South - Queen Room with Two Queen Beds",
       "distance": "1.4 mi",
       "url": "https://www.google.com/maps/search/Comfort%20Inn%20Suites%20Shepherdsville%20-%20Louisville%20South%20-%20Queen%20Room%20with%20Two%20Queen%20Beds+near+38.0480695%2C-85.6777845"
-    },
-    {
-      "name": "Tiny House Near Louisville",
-      "distance": "1.4 mi",
-      "url": "https://www.google.com/maps/search/Tiny%20House%20Near%20Louisville+near+38.0480695%2C-85.6777845"
-    },
-    {
-      "name": "Tiny House Near Louisville",
-      "distance": "1.4 mi",
-      "url": "https://www.google.com/maps/search/Tiny%20House%20Near%20Louisville+near+38.0480695%2C-85.6777845"
     },
     {
       "name": "Comfort Inn Shepherdsville - Louisville South",
@@ -202,11 +156,6 @@
       "name": "Marathon Gas",
       "distance": "1.4 mi",
       "url": "https://www.google.com/maps/search/Marathon%20Gas+near+38.0480695%2C-85.6777845"
-    },
-    {
-      "name": "bp",
-      "distance": "1.4 mi",
-      "url": "https://www.google.com/maps/search/bp+near+38.0480695%2C-85.6777845"
     }
   ]
 }

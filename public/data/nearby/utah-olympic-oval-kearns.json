@@ -29,19 +29,9 @@
       "name": "Arby's",
       "distance": "0.9 mi",
       "url": "https://www.google.com/maps/search/Arby's+near+40.6470736%2C-112.0083306"
-    },
-    {
-      "name": "Jack in the Box",
-      "distance": "1.0 mi",
-      "url": "https://www.google.com/maps/search/Jack%20in%20the%20Box+near+40.6470736%2C-112.0083306"
     }
   ],
   "coffee": [
-    {
-      "name": "McDonald's",
-      "distance": "0.7 mi",
-      "url": "https://www.google.com/maps/search/McDonald's+near+40.6470736%2C-112.0083306"
-    },
     {
       "name": "Starbucks Coffee Company",
       "distance": "0.9 mi",
@@ -123,18 +113,6 @@
       "name": "The Rush Funplex",
       "distance": "2.5 mi",
       "url": "https://www.google.com/maps/search/The%20Rush%20Funplex+near+40.6470736%2C-112.0083306"
-    },
-    {
-      "name": "All Star Bowling & Entertainment - Valley Fair",
-      "distance": "4.2 mi",
-      "url": "https://www.google.com/maps/search/All%20Star%20Bowling%20%26%20Entertainment%20-%20Valley%20Fair+near+40.6470736%2C-112.0083306",
-      "isFar": true
-    },
-    {
-      "name": "All Star Bowling & Entertainment - West Jordan",
-      "distance": "4.3 mi",
-      "url": "https://www.google.com/maps/search/All%20Star%20Bowling%20%26%20Entertainment%20-%20West%20Jordan+near+40.6470736%2C-112.0083306",
-      "isFar": true
     }
   ],
   "arcade": [],
@@ -180,49 +158,18 @@
       "distance": "4.1 mi",
       "url": "https://www.google.com/maps/search/Magna%20Regional%20Park%20Spray%20Pad+near+40.6470736%2C-112.0083306",
       "isFar": true
-    },
-    {
-      "name": "Taylorsville Nickelcade",
-      "distance": "4.3 mi",
-      "url": "https://www.google.com/maps/search/Taylorsville%20Nickelcade+near+40.6470736%2C-112.0083306",
-      "isFar": true
     }
   ],
   "hotels": [
-    {
-      "name": "Brand New Construction Home in SLC",
-      "distance": "0.4 mi",
-      "url": "https://www.google.com/maps/search/Brand%20New%20Construction%20Home%20in%20SLC+near+40.6470736%2C-112.0083306"
-    },
     {
       "name": "Gorgeous Home! Awesome Location",
       "distance": "0.4 mi",
       "url": "https://www.google.com/maps/search/Gorgeous%20Home!%20Awesome%20Location+near+40.6470736%2C-112.0083306"
     },
     {
-      "name": "Modern Loft Guest House- FamilyFriendly meets luxury. Within 30min of it all!",
-      "distance": "0.5 mi",
-      "url": "https://www.google.com/maps/search/Modern%20Loft%20Guest%20House-%20FamilyFriendly%20meets%20luxury.%20Within%2030min%20of%20it%20all!+near+40.6470736%2C-112.0083306"
-    },
-    {
       "name": "La maison in Utah Kearns",
       "distance": "0.5 mi",
       "url": "https://www.google.com/maps/search/La%20maison%20in%20Utah%20Kearns+near+40.6470736%2C-112.0083306"
-    },
-    {
-      "name": "Modern Loft Guest House- FamilyFriendly meets luxury. Within 30min of it all!",
-      "distance": "0.6 mi",
-      "url": "https://www.google.com/maps/search/Modern%20Loft%20Guest%20House-%20FamilyFriendly%20meets%20luxury.%20Within%2030min%20of%20it%20all!+near+40.6470736%2C-112.0083306"
-    },
-    {
-      "name": "Vacation Rental Near Salt Lake City: 14 Mi Away!",
-      "distance": "0.7 mi",
-      "url": "https://www.google.com/maps/search/Vacation%20Rental%20Near%20Salt%20Lake%20City%3A%2014%20Mi%20Away!+near+40.6470736%2C-112.0083306"
-    },
-    {
-      "name": "King Bed, Large Sectionals, Kids Area, Outdoor Living! Curated & Cozy Scandi!",
-      "distance": "0.8 mi",
-      "url": "https://www.google.com/maps/search/King%20Bed%2C%20Large%20Sectionals%2C%20Kids%20Area%2C%20Outdoor%20Living!%20Curated%20%26%20Cozy%20Scandi!+near+40.6470736%2C-112.0083306"
     }
   ],
   "gas": [
@@ -245,11 +192,6 @@
       "name": "Chevron",
       "distance": "0.8 mi",
       "url": "https://www.google.com/maps/search/Chevron+near+40.6470736%2C-112.0083306"
-    },
-    {
-      "name": "Murphy USA",
-      "distance": "1.0 mi",
-      "url": "https://www.google.com/maps/search/Murphy%20USA+near+40.6470736%2C-112.0083306"
     }
   ]
 }

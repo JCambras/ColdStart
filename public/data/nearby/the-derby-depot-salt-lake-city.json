@@ -35,11 +35,6 @@
   ],
   "team_lunch": [
     {
-      "name": "Walmart Bakery",
-      "distance": "0.4 mi",
-      "url": "https://www.google.com/maps/search/Walmart%20Bakery+near+40.739615099999995%2C-111.90931289999999"
-    },
-    {
       "name": "Granatos Eatery",
       "distance": "0.5 mi",
       "url": "https://www.google.com/maps/search/Granatos%20Eatery+near+40.739615099999995%2C-111.90931289999999"
@@ -75,11 +70,6 @@
       "name": "Engine Room",
       "distance": "0.5 mi",
       "url": "https://www.google.com/maps/search/Engine%20Room+near+40.739615099999995%2C-111.90931289999999"
-    },
-    {
-      "name": "La Torta",
-      "distance": "0.5 mi",
-      "url": "https://www.google.com/maps/search/La%20Torta+near+40.739615099999995%2C-111.90931289999999"
     }
   ],
   "bowling": [
@@ -111,28 +101,6 @@
       "name": "Imax Theatre",
       "distance": "1.9 mi",
       "url": "https://www.google.com/maps/search/Imax%20Theatre+near+40.739615099999995%2C-111.90931289999999"
-    },
-    {
-      "name": "Salt Lake Film Society",
-      "distance": "2.0 mi",
-      "url": "https://www.google.com/maps/search/Salt%20Lake%20Film%20Society+near+40.739615099999995%2C-111.90931289999999"
-    },
-    {
-      "name": "Broadway Centre Cinemas, operated by Salt Lake Film Society",
-      "distance": "2.0 mi",
-      "url": "https://www.google.com/maps/search/Broadway%20Centre%20Cinemas%2C%20operated%20by%20Salt%20Lake%20Film%20Society+near+40.739615099999995%2C-111.90931289999999"
-    },
-    {
-      "name": "Organ Loft",
-      "distance": "3.0 mi",
-      "url": "https://www.google.com/maps/search/Organ%20Loft+near+40.739615099999995%2C-111.90931289999999",
-      "isFar": true
-    },
-    {
-      "name": "Megaplex Theatres -Valley Fair Mall",
-      "distance": "3.9 mi",
-      "url": "https://www.google.com/maps/search/Megaplex%20Theatres%20-Valley%20Fair%20Mall+near+40.739615099999995%2C-111.90931289999999",
-      "isFar": true
     }
   ],
   "fun": [
@@ -155,54 +123,9 @@
       "name": "Salt Lake Game Show Experience",
       "distance": "0.6 mi",
       "url": "https://www.google.com/maps/search/Salt%20Lake%20Game%20Show%20Experience+near+40.739615099999995%2C-111.90931289999999"
-    },
-    {
-      "name": "Claw Zone",
-      "distance": "1.6 mi",
-      "url": "https://www.google.com/maps/search/Claw%20Zone+near+40.739615099999995%2C-111.90931289999999"
-    },
-    {
-      "name": "Getout Games",
-      "distance": "1.6 mi",
-      "url": "https://www.google.com/maps/search/Getout%20Games+near+40.739615099999995%2C-111.90931289999999"
-    },
-    {
-      "name": "Heber Hatchets",
-      "distance": "1.6 mi",
-      "url": "https://www.google.com/maps/search/Heber%20Hatchets+near+40.739615099999995%2C-111.90931289999999"
     }
   ],
   "hotels": [
-    {
-      "name": "The Cozy Cottage-Near Downtown SLC",
-      "distance": "0.3 mi",
-      "url": "https://www.google.com/maps/search/The%20Cozy%20Cottage-Near%20Downtown%20SLC+near+40.739615099999995%2C-111.90931289999999"
-    },
-    {
-      "name": "Cozy Downtown Apartment: Pet-Friendly Retreat",
-      "distance": "0.4 mi",
-      "url": "https://www.google.com/maps/search/Cozy%20Downtown%20Apartment%3A%20Pet-Friendly%20Retreat+near+40.739615099999995%2C-111.90931289999999"
-    },
-    {
-      "name": "1 bedroom close to airport and downtown SLC - One-Bedroom House",
-      "distance": "0.4 mi",
-      "url": "https://www.google.com/maps/search/1%20bedroom%20close%20to%20airport%20and%20downtown%20SLC%20-%20One-Bedroom%20House+near+40.739615099999995%2C-111.90931289999999"
-    },
-    {
-      "name": "Great comfortable space enjoy the peaceful place - One-Bedroom House",
-      "distance": "0.4 mi",
-      "url": "https://www.google.com/maps/search/Great%20comfortable%20space%20enjoy%20the%20peaceful%20place%20-%20One-Bedroom%20House+near+40.739615099999995%2C-111.90931289999999"
-    },
-    {
-      "name": "Cheerful 4BD Home in SLC, 5 Beds, Sleeps 10+ ! - Four-Bedroom House",
-      "distance": "0.4 mi",
-      "url": "https://www.google.com/maps/search/Cheerful%204BD%20Home%20in%20SLC%2C%205%20Beds%2C%20Sleeps%2010%2B%20!%20-%20Four-Bedroom%20House+near+40.739615099999995%2C-111.90931289999999"
-    },
-    {
-      "name": "Mins to DT Spacious King Bed 2 Car Garage",
-      "distance": "0.5 mi",
-      "url": "https://www.google.com/maps/search/Mins%20to%20DT%20Spacious%20King%20Bed%202%20Car%20Garage+near+40.739615099999995%2C-111.90931289999999"
-    },
     {
       "name": "Casa de cdl",
       "distance": "0.5 mi",
@@ -229,11 +152,6 @@
       "name": "Costco Gas Station",
       "distance": "0.7 mi",
       "url": "https://www.google.com/maps/search/Costco%20Gas%20Station+near+40.739615099999995%2C-111.90931289999999"
-    },
-    {
-      "name": "7-Eleven Fuel",
-      "distance": "0.8 mi",
-      "url": "https://www.google.com/maps/search/7-Eleven%20Fuel+near+40.739615099999995%2C-111.90931289999999"
     }
   ]
 }

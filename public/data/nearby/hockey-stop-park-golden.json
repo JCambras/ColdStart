@@ -28,18 +28,8 @@
   ],
   "coffee": [
     {
-      "name": "McDonald's",
-      "distance": "0.1 mi",
-      "url": "https://www.google.com/maps/search/McDonald's+near+39.7410913%2C-105.19744329999999"
-    },
-    {
       "name": "Starbucks Coffee Company",
       "distance": "0.2 mi",
-      "url": "https://www.google.com/maps/search/Starbucks%20Coffee%20Company+near+39.7410913%2C-105.19744329999999"
-    },
-    {
-      "name": "Starbucks Coffee Company",
-      "distance": "0.3 mi",
       "url": "https://www.google.com/maps/search/Starbucks%20Coffee%20Company+near+39.7410913%2C-105.19744329999999"
     }
   ],
@@ -90,11 +80,6 @@
       "name": "Aladdin Mediterranean Grill",
       "distance": "0.4 mi",
       "url": "https://www.google.com/maps/search/Aladdin%20Mediterranean%20Grill+near+39.7410913%2C-105.19744329999999"
-    },
-    {
-      "name": "Pepe's Tortas & Burgers",
-      "distance": "0.4 mi",
-      "url": "https://www.google.com/maps/search/Pepe's%20Tortas%20%26%20Burgers+near+39.7410913%2C-105.19744329999999"
     }
   ],
   "bowling": [
@@ -134,25 +119,9 @@
       "distance": "4.8 mi",
       "url": "https://www.google.com/maps/search/Conundrum%20Escape%20Rooms+near+39.7410913%2C-105.19744329999999",
       "isFar": true
-    },
-    {
-      "name": "Golden Puzzle Room",
-      "distance": "4.9 mi",
-      "url": "https://www.google.com/maps/search/Golden%20Puzzle%20Room+near+39.7410913%2C-105.19744329999999",
-      "isFar": true
     }
   ],
   "hotels": [
-    {
-      "name": "Golden Dreamhouse Superhost 3 BR | Trails & Brews - Extended Stay",
-      "distance": "0.1 mi",
-      "url": "https://www.google.com/maps/search/Golden%20Dreamhouse%20Superhost%203%20BR%20%7C%20Trails%20%26%20Brews%20-%20Extended%20Stay+near+39.7410913%2C-105.19744329999999"
-    },
-    {
-      "name": "Comfy Bedroom & Half Bath w/ Fast Wifi",
-      "distance": "0.2 mi",
-      "url": "https://www.google.com/maps/search/Comfy%20Bedroom%20%26%20Half%20Bath%20w%2F%20Fast%20Wifi+near+39.7410913%2C-105.19744329999999"
-    },
     {
       "name": "Central Suite",
       "distance": "0.4 mi",
@@ -164,19 +133,9 @@
       "url": "https://www.google.com/maps/search/Golden%20Foothills%20%7C%20Hot%20Tub%20%7C%20Hiking%20%26%20Biking!+near+39.7410913%2C-105.19744329999999"
     },
     {
-      "name": "Golden Foothills - Hot Tub - Hiking Biking! - Three-Bedroom Apartment",
-      "distance": "0.4 mi",
-      "url": "https://www.google.com/maps/search/Golden%20Foothills%20-%20Hot%20Tub%20-%20Hiking%20Biking!%20-%20Three-Bedroom%20Apartment+near+39.7410913%2C-105.19744329999999"
-    },
-    {
       "name": "Bright Open Layout With Great Access to Outdoor Spaces THE Gateway to Colorado!",
       "distance": "0.5 mi",
       "url": "https://www.google.com/maps/search/Bright%20Open%20Layout%20With%20Great%20Access%20to%20Outdoor%20Spaces%20THE%20Gateway%20to%20Colorado!+near+39.7410913%2C-105.19744329999999"
-    },
-    {
-      "name": "Pet Friendly Cheerful 2 Bedroom Basement Apartment in Golden",
-      "distance": "0.5 mi",
-      "url": "https://www.google.com/maps/search/Pet%20Friendly%20Cheerful%202%20Bedroom%20Basement%20Apartment%20in%20Golden+near+39.7410913%2C-105.19744329999999"
     }
   ],
   "gas": [
@@ -199,11 +158,6 @@
       "name": "Conoco",
       "distance": "1.1 mi",
       "url": "https://www.google.com/maps/search/Conoco+near+39.7410913%2C-105.19744329999999"
-    },
-    {
-      "name": "Circle K | Gas Station",
-      "distance": "1.4 mi",
-      "url": "https://www.google.com/maps/search/Circle%20K%20%7C%20Gas%20Station+near+39.7410913%2C-105.19744329999999"
     }
   ]
 }

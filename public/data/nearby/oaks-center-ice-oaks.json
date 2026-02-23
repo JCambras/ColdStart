@@ -29,31 +29,9 @@
       "name": "Uno Pizzeria & Grill",
       "distance": "1.0 mi",
       "url": "https://www.google.com/maps/search/Uno+Pizzeria+Grill+106+Black+Rock+Rd+Oaks+PA"
-    },
-    {
-      "name": "Chick-fil-A",
-      "distance": "3.0 mi",
-      "url": "https://www.google.com/maps/search/Chick-fil-A+680+S+Trooper+Rd+Audubon+PA"
-    },
-    {
-      "name": "McDonald's",
-      "distance": "4.0 mi",
-      "url": "https://www.google.com/maps/search/McDonalds+222+E+Main+St+Collegeville+PA",
-      "isFar": true
-    },
-    {
-      "name": "Panera Bread",
-      "distance": "5.0 mi",
-      "url": "https://www.google.com/maps/search/Panera+Bread+51+Town+Center+Dr+Collegeville+PA",
-      "isFar": true
     }
   ],
   "coffee": [
-    {
-      "name": "Wawa",
-      "distance": "0.5 mi",
-      "url": "https://www.google.com/maps/search/Wawa+1600+Egypt+Rd+Oaks+PA"
-    },
     {
       "name": "Starbucks",
       "distance": "0.5 mi",
@@ -63,34 +41,6 @@
       "name": "Dunkin'",
       "distance": "1.5 mi",
       "url": "https://www.google.com/maps/search/Dunkin+108+Black+Rock+Rd+Oaks+PA"
-    },
-    {
-      "name": "Dunkin'",
-      "distance": "3.0 mi",
-      "url": "https://www.google.com/maps/search/Dunkin+218+Nutt+Rd+Phoenixville+PA"
-    },
-    {
-      "name": "Wawa",
-      "distance": "3.0 mi",
-      "url": "https://www.google.com/maps/search/Wawa+120+Schuylkill+Rd+Phoenixville+PA"
-    },
-    {
-      "name": "Starbucks",
-      "distance": "4.0 mi",
-      "url": "https://www.google.com/maps/search/Starbucks+500+Broad+St+Collegeville+PA",
-      "isFar": true
-    },
-    {
-      "name": "Dunkin'",
-      "distance": "4.0 mi",
-      "url": "https://www.google.com/maps/search/Dunkin+407+2nd+Ave+Collegeville+PA",
-      "isFar": true
-    },
-    {
-      "name": "Wawa",
-      "distance": "4.0 mi",
-      "url": "https://www.google.com/maps/search/Wawa+1860+S+Collegeville+Rd+Collegeville+PA",
-      "isFar": true
     }
   ],
   "team_lunch": [
@@ -123,24 +73,6 @@
       "name": "Olive Garden",
       "distance": "5.0 mi",
       "url": "https://www.google.com/maps/search/Olive+Garden+1+Town+Center+Dr+Collegeville+PA"
-    },
-    {
-      "name": "Red Lobster",
-      "distance": "7.0 mi",
-      "url": "https://www.google.com/maps/search/Red+Lobster+425+W+DeKalb+Pike+King+of+Prussia+PA",
-      "isFar": true
-    },
-    {
-      "name": "Texas Roadhouse",
-      "distance": "8.0 mi",
-      "url": "https://www.google.com/maps/search/Texas+Roadhouse+70+Buckwalter+Rd+Royersford+PA",
-      "isFar": true
-    },
-    {
-      "name": "Applebee's",
-      "distance": "8.0 mi",
-      "url": "https://www.google.com/maps/search/Applebees+2710+DeKalb+Pike+East+Norriton+PA",
-      "isFar": true
     }
   ],
   "bowling": [

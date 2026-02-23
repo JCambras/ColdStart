@@ -1,11 +1,6 @@
 {
   "quick_bite": [
     {
-      "name": "Belmont Track Kitchen",
-      "distance": "0.2 mi",
-      "url": "https://www.google.com/maps/search/?api=1&query=Belmont%20Track%20Kitchen&query_place_id=ChIJwTvOoLdjwokRB7xNLwSF13s&center=40.7125097,-73.7222999"
-    },
-    {
       "name": "Wendy's",
       "distance": "0.4 mi",
       "url": "https://www.google.com/maps/search/?api=1&query=Wendy's&query_place_id=ChIJ5fy-brdjwokRPkNlEtJ-5rk&center=40.7084664,-73.72019759999999"
@@ -34,21 +29,6 @@
       "name": "VHP grill",
       "distance": "0.8 mi",
       "url": "https://www.google.com/maps/search/?api=1&query=VHP%20grill&query_place_id=ChIJJ3sFzupjwokReinTd9V8JAY&center=40.704628199999995,-73.7388447"
-    },
-    {
-      "name": "White Castle",
-      "distance": "0.8 mi",
-      "url": "https://www.google.com/maps/search/?api=1&query=White%20Castle&query_place_id=ChIJIRkNedxjwokRlBvH0hwZcGQ&center=40.705253899999995,-73.7394814"
-    },
-    {
-      "name": "Burger King",
-      "distance": "1.0 mi",
-      "url": "https://www.google.com/maps/search/?api=1&query=Burger%20King&query_place_id=ChIJqfrzeq1jwokRa-_I_g6RiME&center=40.7079364,-73.7081572"
-    },
-    {
-      "name": "Halal Briyani and Kebab House",
-      "distance": "1.0 mi",
-      "url": "https://www.google.com/maps/search/?api=1&query=Halal%20Briyani%20and%20Kebab%20House&query_place_id=ChIJn0TtGiZjwokR4epdnnI_kOc&center=40.7257665,-73.7186799"
     }
   ],
   "coffee": [
@@ -98,26 +78,6 @@
       "name": "Pates Plus Bakery",
       "distance": "0.6 mi",
       "url": "https://www.google.com/maps/search/?api=1&query=Pates%20Plus%20Bakery&query_place_id=ChIJ9zrAm81jwokROtG_kx6G24M&center=40.716731599999996,-73.735263"
-    },
-    {
-      "name": "Bakery",
-      "distance": "0.7 mi",
-      "url": "https://www.google.com/maps/search/?api=1&query=Bakery&query_place_id=ChIJ862Cn9FjwokRo8m5QLIxD8s&center=40.7140152,-73.7387785"
-    },
-    {
-      "name": "gourmet chef corp",
-      "distance": "0.8 mi",
-      "url": "https://www.google.com/maps/search/?api=1&query=gourmet%20chef%20corp&query_place_id=ChIJ125dYjtjwokR1UGJiyy8_ds&center=40.7000733,-73.7247424"
-    },
-    {
-      "name": "mel’s_delightful_delicacies",
-      "distance": "0.9 mi",
-      "url": "https://www.google.com/maps/search/?api=1&query=mel%E2%80%99s_delightful_delicacies&query_place_id=ChIJld_p6AFhwokRUIzIMDl_JBA&center=40.715627999999995,-73.7419103"
-    },
-    {
-      "name": "FARINE BAKING COMPANY",
-      "distance": "1.0 mi",
-      "url": "https://www.google.com/maps/search/?api=1&query=FARINE%20BAKING%20COMPANY&query_place_id=ChIJM4_SoN5jwokRJunv-eRcLMo&center=40.7048622,-73.74201529999999"
     }
   ],
   "dinner": [

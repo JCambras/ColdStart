@@ -29,39 +29,9 @@
       "name": "Wendy's",
       "distance": "0.8 mi",
       "url": "https://www.google.com/maps/search/?api=1&query=Wendy's&query_place_id=ChIJkeW-elI4xIkRnMTqWqVw93A&center=40.6446283,-75.4918046"
-    },
-    {
-      "name": "Arby's",
-      "distance": "1.0 mi",
-      "url": "https://www.google.com/maps/search/?api=1&query=Arby's&query_place_id=ChIJvxCUc1M4xIkRGF4EhavmE9s&center=40.6430356,-75.48815479999999"
-    },
-    {
-      "name": "JJ\"s Sushi",
-      "distance": "1.2 mi",
-      "url": "https://www.google.com/maps/search/?api=1&query=JJ%22s%20Sushi&query_place_id=ChIJgaM73NE5xIkRX5c4M1V4oH8&center=40.6388612,-75.4894248"
-    },
-    {
-      "name": "Subway",
-      "distance": "1.2 mi",
-      "url": "https://www.google.com/maps/search/?api=1&query=Subway&query_place_id=ChIJE1Mw5a05xIkRvps-FOHNBz0&center=40.636808599999995,-75.4918902"
-    },
-    {
-      "name": "Taco Bell",
-      "distance": "1.4 mi",
-      "url": "https://www.google.com/maps/search/?api=1&query=Taco%20Bell&query_place_id=ChIJNdwpHaw5xIkRZIHBGbGh-kY&center=40.6356974,-75.4871368"
     }
   ],
   "coffee": [
-    {
-      "name": "Wawa",
-      "distance": "0.2 mi",
-      "url": "https://www.google.com/maps/search/?api=1&query=Wawa&query_place_id=ChIJuxBC6Eg4xIkRANemuNU1w2A&center=40.651008,-75.499831"
-    },
-    {
-      "name": "McDonald's",
-      "distance": "0.2 mi",
-      "url": "https://www.google.com/maps/search/?api=1&query=McDonald's&query_place_id=ChIJ40OSoUM5xIkRsvOCrkyUdFA&center=40.650830000000006,-75.501122"
-    },
     {
       "name": "OA Donuts",
       "distance": "0.2 mi",
@@ -81,11 +51,6 @@
       "name": "Panera Bread",
       "distance": "0.7 mi",
       "url": "https://www.google.com/maps/search/?api=1&query=Panera%20Bread&query_place_id=ChIJqbg79U04xIkRLMNvWTCKYow&center=40.6454075,-75.492701"
-    },
-    {
-      "name": "McDonald's",
-      "distance": "1.4 mi",
-      "url": "https://www.google.com/maps/search/?api=1&query=McDonald's&query_place_id=ChIJYy9mAqw5xIkRGIG4MrC9j7I&center=40.636126,-75.487082"
     }
   ],
   "team_lunch": [

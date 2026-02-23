@@ -1,16 +1,6 @@
 {
   "quick_bite": [
     {
-      "name": "New Centrally-Located Contemporary Retreat - Two-Bedroom House",
-      "distance": "0.2 mi",
-      "url": "https://www.google.com/maps/search/New%20Centrally-Located%20Contemporary%20Retreat%20-%20Two-Bedroom%20House+near+64.8298727%2C-147.7453268"
-    },
-    {
-      "name": "Quiet, Cozy, Centrally-Located Home - Two-Bedroom House",
-      "distance": "0.2 mi",
-      "url": "https://www.google.com/maps/search/Quiet%2C%20Cozy%2C%20Centrally-Located%20Home%20-%20Two-Bedroom%20House+near+64.8298727%2C-147.7453268"
-    },
-    {
       "name": "Wendy's",
       "distance": "0.5 mi",
       "url": "https://www.google.com/maps/search/Wendy's+near+64.8298727%2C-147.7453268"
@@ -31,11 +21,6 @@
       "name": "Glacier Grind Coffee, LLC - Shoppers Forum Mall",
       "distance": "0.5 mi",
       "url": "https://www.google.com/maps/search/Glacier%20Grind%20Coffee%2C%20LLC%20-%20Shoppers%20Forum%20Mall+near+64.8298727%2C-147.7453268"
-    },
-    {
-      "name": "McDonald's",
-      "distance": "0.7 mi",
-      "url": "https://www.google.com/maps/search/McDonald's+near+64.8298727%2C-147.7453268"
     },
     {
       "name": "Great Harvest Bread Co.",
@@ -100,11 +85,6 @@
       "name": "Nim's House of Thai Food",
       "distance": "0.9 mi",
       "url": "https://www.google.com/maps/search/Nim's%20House%20of%20Thai%20Food+near+64.8298727%2C-147.7453268"
-    },
-    {
-      "name": "Kanpai",
-      "distance": "0.9 mi",
-      "url": "https://www.google.com/maps/search/Kanpai+near+64.8298727%2C-147.7453268"
     }
   ],
   "bowling": [
@@ -122,12 +102,6 @@
       "name": "Polar Alley",
       "distance": "3.0 mi",
       "url": "https://www.google.com/maps/search/Polar%20Alley+near+64.8298727%2C-147.7453268"
-    },
-    {
-      "name": "City Center Community Activity Center",
-      "distance": "3.3 mi",
-      "url": "https://www.google.com/maps/search/City%20Center%20Community%20Activity%20Center+near+64.8298727%2C-147.7453268",
-      "isFar": true
     }
   ],
   "arcade": [],
@@ -162,34 +136,9 @@
   ],
   "hotels": [
     {
-      "name": "Western Theme house in FBKS",
-      "distance": "0.1 mi",
-      "url": "https://www.google.com/maps/search/Western%20Theme%20house%20in%20FBKS+near+64.8298727%2C-147.7453268"
-    },
-    {
-      "name": "Simple Haven on Wild Rose",
-      "distance": "0.3 mi",
-      "url": "https://www.google.com/maps/search/Simple%20Haven%20on%20Wild%20Rose+near+64.8298727%2C-147.7453268"
-    },
-    {
       "name": "Patient Hostel/Tanana Chiefs Conference Inc (Bertha Moses Patient Hostel)",
       "distance": "0.3 mi",
       "url": "https://www.google.com/maps/search/Patient%20Hostel%2FTanana%20Chiefs%20Conference%20Inc%20(Bertha%20Moses%20Patient%20Hostel)+near+64.8298727%2C-147.7453268"
-    },
-    {
-      "name": "2 Mi to Dtwn Cozy Getaway in Fairbanks! - Apartment",
-      "distance": "0.3 mi",
-      "url": "https://www.google.com/maps/search/2%20Mi%20to%20Dtwn%20Cozy%20Getaway%20in%20Fairbanks!%20-%20Apartment+near+64.8298727%2C-147.7453268"
-    },
-    {
-      "name": "1 Mi to Downtown and River Family Apt in Fairbanks - Apartment",
-      "distance": "0.3 mi",
-      "url": "https://www.google.com/maps/search/1%20Mi%20to%20Downtown%20and%20River%20Family%20Apt%20in%20Fairbanks%20-%20Apartment+near+64.8298727%2C-147.7453268"
-    },
-    {
-      "name": "2 Mi to Dtwn and Pioneer Park Fairbanks Studio! - Apartment",
-      "distance": "0.3 mi",
-      "url": "https://www.google.com/maps/search/2%20Mi%20to%20Dtwn%20and%20Pioneer%20Park%20Fairbanks%20Studio!%20-%20Apartment+near+64.8298727%2C-147.7453268"
     },
     {
       "name": "2 Mi to Dtwn & Pioneer Park: Fairbanks Studio!",
@@ -217,11 +166,6 @@
       "name": "Circle K Gas Station",
       "distance": "1.0 mi",
       "url": "https://www.google.com/maps/search/Circle%20K%20Gas%20Station+near+64.8298727%2C-147.7453268"
-    },
-    {
-      "name": "Chevron",
-      "distance": "1.0 mi",
-      "url": "https://www.google.com/maps/search/Chevron+near+64.8298727%2C-147.7453268"
     }
   ]
 }

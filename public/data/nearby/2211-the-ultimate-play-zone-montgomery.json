@@ -29,20 +29,9 @@
       "name": "Chester's Chicken",
       "distance": "0.6 mi",
       "url": "https://www.google.com/maps/search/Chester's%20Chicken+near+32.3301849%2C-86.2424449"
-    },
-    {
-      "name": "Cozy 3 bedroom, Centrally Located, Perfect for a family",
-      "distance": "1.0 mi",
-      "url": "https://www.google.com/maps/search/Cozy%203%20bedroom%2C%20Centrally%20Located%2C%20Perfect%20for%20a%20family+near+32.3301849%2C-86.2424449"
     }
   ],
-  "coffee": [
-    {
-      "name": "McDonald's",
-      "distance": "0.8 mi",
-      "url": "https://www.google.com/maps/search/McDonald's+near+32.3301849%2C-86.2424449"
-    }
-  ],
+  "coffee": [],
   "team_lunch": [
     {
       "name": "Top Notch Entertainment and Lounge",
@@ -58,11 +47,6 @@
       "name": "This Is Wings",
       "distance": "0.6 mi",
       "url": "https://www.google.com/maps/search/This%20Is%20Wings+near+32.3301849%2C-86.2424449"
-    },
-    {
-      "name": "Walmart Bakery",
-      "distance": "0.7 mi",
-      "url": "https://www.google.com/maps/search/Walmart%20Bakery+near+32.3301849%2C-86.2424449"
     },
     {
       "name": "Tauqeria Vallarta",
@@ -139,12 +123,6 @@
       "distance": "4.5 mi",
       "url": "https://www.google.com/maps/search/Evans%20Theatres%20Eastdale%208+near+32.3301849%2C-86.2424449",
       "isFar": true
-    },
-    {
-      "name": "Tree Theatre Co",
-      "distance": "4.7 mi",
-      "url": "https://www.google.com/maps/search/Tree%20Theatre%20Co+near+32.3301849%2C-86.2424449",
-      "isFar": true
     }
   ],
   "fun": [
@@ -166,11 +144,6 @@
       "name": "InTown Suites Extended Stay Select Montgomery AL",
       "distance": "0.3 mi",
       "url": "https://www.google.com/maps/search/InTown%20Suites%20Extended%20Stay%20Select%20Montgomery%20AL+near+32.3301849%2C-86.2424449"
-    },
-    {
-      "name": "Large Fenced Yard near Midtown- Shamrock Stay",
-      "distance": "0.8 mi",
-      "url": "https://www.google.com/maps/search/Large%20Fenced%20Yard%20near%20Midtown-%20Shamrock%20Stay+near+32.3301849%2C-86.2424449"
     },
     {
       "name": "Large Fenced Yard near Midtown- Shamrock Stay",
@@ -218,11 +191,6 @@
       "name": "Murphy USA",
       "distance": "0.5 mi",
       "url": "https://www.google.com/maps/search/Murphy%20USA+near+32.3301849%2C-86.2424449"
-    },
-    {
-      "name": "Shell",
-      "distance": "0.5 mi",
-      "url": "https://www.google.com/maps/search/Shell+near+32.3301849%2C-86.2424449"
     }
   ]
 }

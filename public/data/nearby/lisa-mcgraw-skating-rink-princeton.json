@@ -30,12 +30,6 @@
       "distance": "3.5 mi",
       "url": "https://www.google.com/maps/search/?api=1&query=Wawa&query_place_id=ChIJE3E3qy_mw4kRqzOkdT-dTeo&center=40.4032765,-74.6489603",
       "isFar": true
-    },
-    {
-      "name": "Jersey Mike's Subs",
-      "distance": "3.5 mi",
-      "url": "https://www.google.com/maps/search/?api=1&query=Jersey%20Mike's%20Subs&query_place_id=ChIJiX8OEwDvw4kRzbX1a84WJZs&center=40.4049385,-74.6498895",
-      "isFar": true
     }
   ],
   "coffee": [
@@ -63,17 +57,6 @@
       "name": "Chez Alice",
       "distance": "1.9 mi",
       "url": "https://www.google.com/maps/search/?api=1&query=Chez%20Alice&query_place_id=ChIJj3kX7sDmw4kRsvmsc5bIocQ&center=40.3506279,-74.6604752"
-    },
-    {
-      "name": "Wawa",
-      "distance": "2.3 mi",
-      "url": "https://www.google.com/maps/search/?api=1&query=Wawa&query_place_id=ChIJPwPHlMjmw4kRmwnPlYKNAQQ&center=40.341871399999995,-74.659044"
-    },
-    {
-      "name": "Wawa",
-      "distance": "3.5 mi",
-      "url": "https://www.google.com/maps/search/?api=1&query=Wawa&query_place_id=ChIJE3E3qy_mw4kRqzOkdT-dTeo&center=40.4032765,-74.6489603",
-      "isFar": true
     }
   ],
   "team_lunch": [
@@ -106,17 +89,6 @@
       "name": "The Bagel Nook",
       "distance": "2.1 mi",
       "url": "https://www.google.com/maps/search/?api=1&query=The%20Bagel%20Nook&query_place_id=ChIJaQ1wTxznw4kRvGi-o15c0Zk&center=40.3636439,-74.6517781"
-    },
-    {
-      "name": "ThinSlim Foods",
-      "distance": "2.1 mi",
-      "url": "https://www.google.com/maps/search/?api=1&query=ThinSlim%20Foods&query_place_id=ChIJffQdllznw4kRYlzxA6QRzXM&center=40.3508795,-74.6561225"
-    },
-    {
-      "name": "Bagel Barn & Deli",
-      "distance": "3.4 mi",
-      "url": "https://www.google.com/maps/search/?api=1&query=Bagel%20Barn%20%26%20Deli&query_place_id=ChIJzWdN3S_mw4kRuOxd3b0I_gg&center=40.4014458,-74.6483837",
-      "isFar": true
     }
   ],
   "dinner": [

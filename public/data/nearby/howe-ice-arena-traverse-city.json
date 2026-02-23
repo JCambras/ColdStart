@@ -48,11 +48,6 @@
       "url": "https://www.google.com/maps/search/?api=1&query=Common%20Good%20Bakery&query_place_id=ChIJKe4c_LnNH4gRNL9BMq9wvjE&center=44.758803799999995,-85.5942961"
     },
     {
-      "name": "McDonald's",
-      "distance": "0.7 mi",
-      "url": "https://www.google.com/maps/search/?api=1&query=McDonald's&query_place_id=ChIJMU9zK6oyHogRUuZ78-XEzYU&center=44.763858299999995,-85.6069627"
-    },
-    {
       "name": "Third Coast Bakery",
       "distance": "0.8 mi",
       "url": "https://www.google.com/maps/search/?api=1&query=Third%20Coast%20Bakery&query_place_id=ChIJTxxKzTovS00RzG-gJyAEV2s&center=44.758075500000004,-85.57756719999999"
@@ -93,11 +88,6 @@
       "name": "Traverse Area Gluten Free Support Group",
       "distance": "1.4 mi",
       "url": "https://www.google.com/maps/search/?api=1&query=Traverse%20Area%20Gluten%20Free%20Support%20Group&query_place_id=ChIJXQitiKEyHogRCWPlVoBnlLc&center=44.7620509,-85.6213854"
-    },
-    {
-      "name": "The Midori Plate",
-      "distance": "1.5 mi",
-      "url": "https://www.google.com/maps/search/?api=1&query=The%20Midori%20Plate&query_place_id=ChIJ-5btqeHNH4gRcJMAGPCrfc8&center=44.7441243,-85.60686059999999"
     }
   ],
   "dinner": [
@@ -130,11 +120,6 @@
       "name": "Oakwood Proper Burgers",
       "distance": "0.4 mi",
       "url": "https://www.google.com/maps/search/Oakwood%20Proper%20Burgers+near+44.7634639%2C-85.5920996"
-    },
-    {
-      "name": "Round's Restaurant",
-      "distance": "0.4 mi",
-      "url": "https://www.google.com/maps/search/Round's%20Restaurant+near+44.7634639%2C-85.5920996"
     }
   ],
   "bowling": [
@@ -184,24 +169,9 @@
       "name": "Mi Smash Therapy",
       "distance": "2.6 mi",
       "url": "https://www.google.com/maps/search/Mi%20Smash%20Therapy+near+44.7634639%2C-85.5920996"
-    },
-    {
-      "name": "Pirate's Cove Adventure Park",
-      "distance": "2.8 mi",
-      "url": "https://www.google.com/maps/search/Pirate's%20Cove%20Adventure%20Park+near+44.7634639%2C-85.5920996"
     }
   ],
   "hotels": [
-    {
-      "name": "Bluewater Zen - Downtown Traverse City Condo",
-      "distance": "0.2 mi",
-      "url": "https://www.google.com/maps/search/Bluewater%20Zen%20-%20Downtown%20Traverse%20City%20Condo+near+44.7634639%2C-85.5920996"
-    },
-    {
-      "name": "Bay Town Suite --Hospitality By the Bay",
-      "distance": "0.2 mi",
-      "url": "https://www.google.com/maps/search/Bay%20Town%20Suite%20--Hospitality%20By%20the%20Bay+near+44.7634639%2C-85.5920996"
-    },
     {
       "name": "Bay Town Suite --Hospitality By the Bay",
       "distance": "0.2 mi",
@@ -213,19 +183,9 @@
       "url": "https://www.google.com/maps/search/Bay%20Town%20Suite+near+44.7634639%2C-85.5920996"
     },
     {
-      "name": "Close to Downtown Apartment",
-      "distance": "0.3 mi",
-      "url": "https://www.google.com/maps/search/Close%20to%20Downtown%20Apartment+near+44.7634639%2C-85.5920996"
-    },
-    {
       "name": "Peninsula One unit 18 Close to downtown and beach",
       "distance": "0.3 mi",
       "url": "https://www.google.com/maps/search/Peninsula%20One%20unit%2018%20Close%20to%20downtown%20and%20beach+near+44.7634639%2C-85.5920996"
-    },
-    {
-      "name": "Peninsula One Apartments Unit 22",
-      "distance": "0.3 mi",
-      "url": "https://www.google.com/maps/search/Peninsula%20One%20Apartments%20Unit%2022+near+44.7634639%2C-85.5920996"
     }
   ],
   "gas": [
@@ -248,11 +208,6 @@
       "name": "Shell",
       "distance": "1.0 mi",
       "url": "https://www.google.com/maps/search/Shell+near+44.7634639%2C-85.5920996"
-    },
-    {
-      "name": "TrueNorth Shell #250",
-      "distance": "1.1 mi",
-      "url": "https://www.google.com/maps/search/TrueNorth%20Shell%20%23250+near+44.7634639%2C-85.5920996"
     }
   ]
 }

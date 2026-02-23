@@ -50,11 +50,6 @@
   ],
   "team_lunch": [
     {
-      "name": "Lucky Kitchen",
-      "distance": "0.9 mi",
-      "url": "https://www.google.com/maps/search/Lucky%20Kitchen+near+61.161929699999995%2C-149.9022397"
-    },
-    {
       "name": "Juno Restaurant",
       "distance": "1.0 mi",
       "url": "https://www.google.com/maps/search/Juno%20Restaurant+near+61.161929699999995%2C-149.9022397"
@@ -90,11 +85,6 @@
       "name": "Sushi & Sushi",
       "distance": "0.9 mi",
       "url": "https://www.google.com/maps/search/Sushi%20%26%20Sushi+near+61.161929699999995%2C-149.9022397"
-    },
-    {
-      "name": "Alaskan Burger & Brew",
-      "distance": "0.9 mi",
-      "url": "https://www.google.com/maps/search/Alaskan%20Burger%20%26%20Brew+near+61.161929699999995%2C-149.9022397"
     }
   ],
   "bowling": [
@@ -132,12 +122,6 @@
       "distance": "4.0 mi",
       "url": "https://www.google.com/maps/search/Bear%20and%20Raven%20Adventure%20Theater+near+61.161929699999995%2C-149.9022397",
       "isFar": true
-    },
-    {
-      "name": "E Street Theater",
-      "distance": "4.0 mi",
-      "url": "https://www.google.com/maps/search/E%20Street%20Theater+near+61.161929699999995%2C-149.9022397",
-      "isFar": true
     }
   ],
   "fun": [
@@ -163,61 +147,13 @@
       "distance": "3.3 mi",
       "url": "https://www.google.com/maps/search/H2Oasis%20Indoor%20Waterpark+near+61.161929699999995%2C-149.9022397",
       "isFar": true
-    },
-    {
-      "name": "Alaska Escape Rooms",
-      "distance": "3.9 mi",
-      "url": "https://www.google.com/maps/search/Alaska%20Escape%20Rooms+near+61.161929699999995%2C-149.9022397",
-      "isFar": true
-    },
-    {
-      "name": "Shockwave Trampoline Park",
-      "distance": "4.7 mi",
-      "url": "https://www.google.com/maps/search/Shockwave%20Trampoline%20Park+near+61.161929699999995%2C-149.9022397",
-      "isFar": true
-    },
-    {
-      "name": "KidsEvent",
-      "distance": "4.8 mi",
-      "url": "https://www.google.com/maps/search/KidsEvent+near+61.161929699999995%2C-149.9022397",
-      "isFar": true
     }
   ],
   "hotels": [
     {
-      "name": "Home away from home near Airport with deck",
-      "distance": "0.5 mi",
-      "url": "https://www.google.com/maps/search/Home%20away%20from%20home%20near%20Airport%20with%20deck+near+61.161929699999995%2C-149.9022397"
-    },
-    {
-      "name": "Forget Me Not Home by Airport, upstairs unit of a 2 floor house",
-      "distance": "0.5 mi",
-      "url": "https://www.google.com/maps/search/Forget%20Me%20Not%20Home%20by%20Airport%2C%20upstairs%20unit%20of%20a%202%20floor%20house+near+61.161929699999995%2C-149.9022397"
-    },
-    {
-      "name": "Forget Me Not Home by Airport Upstairs with Deck",
-      "distance": "0.5 mi",
-      "url": "https://www.google.com/maps/search/Forget%20Me%20Not%20Home%20by%20Airport%20Upstairs%20with%20Deck+near+61.161929699999995%2C-149.9022397"
-    },
-    {
-      "name": "Forget Me Not Home by Airport Upstairs with Deck - Two-Bedroom Apartment",
-      "distance": "0.5 mi",
-      "url": "https://www.google.com/maps/search/Forget%20Me%20Not%20Home%20by%20Airport%20Upstairs%20with%20Deck%20-%20Two-Bedroom%20Apartment+near+61.161929699999995%2C-149.9022397"
-    },
-    {
-      "name": "Forget Me Not Home near Airport downstairs",
-      "distance": "0.5 mi",
-      "url": "https://www.google.com/maps/search/Forget%20Me%20Not%20Home%20near%20Airport%20downstairs+near+61.161929699999995%2C-149.9022397"
-    },
-    {
       "name": "NightSky stay in Anchorage, AK",
       "distance": "0.6 mi",
       "url": "https://www.google.com/maps/search/NightSky%20stay%20in%20Anchorage%2C%20AK+near+61.161929699999995%2C-149.9022397"
-    },
-    {
-      "name": "Alaska BNB and Vacation Rental",
-      "distance": "0.6 mi",
-      "url": "https://www.google.com/maps/search/Alaska%20BNB%20and%20Vacation%20Rental+near+61.161929699999995%2C-149.9022397"
     }
   ],
   "gas": [
@@ -240,11 +176,6 @@
       "name": "Power Stop",
       "distance": "0.8 mi",
       "url": "https://www.google.com/maps/search/Power%20Stop+near+61.161929699999995%2C-149.9022397"
-    },
-    {
-      "name": "Speedway Express",
-      "distance": "1.2 mi",
-      "url": "https://www.google.com/maps/search/Speedway%20Express+near+61.161929699999995%2C-149.9022397"
     }
   ]
 }

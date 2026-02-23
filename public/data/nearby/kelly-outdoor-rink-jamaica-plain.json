@@ -29,21 +29,6 @@
       "name": "Aks Pizza",
       "distance": "1.0 mi",
       "url": "https://www.google.com/maps/search/?api=1&query=Aks%20Pizza&query_place_id=ChIJR3BGl9B744kRuDEcw1KR7Qg&center=42.331811699999996,-71.09640370000001"
-    },
-    {
-      "name": "Subway",
-      "distance": "1.0 mi",
-      "url": "https://www.google.com/maps/search/?api=1&query=Subway&query_place_id=ChIJM4Z22oh544kRZl6C4h0Vg8w&center=42.3332817,-71.1025314"
-    },
-    {
-      "name": "Subway",
-      "distance": "1.0 mi",
-      "url": "https://www.google.com/maps/search/?api=1&query=Subway&query_place_id=ChIJk6_yipp544kRFukpecIBgMw&center=42.3319119,-71.1118348"
-    },
-    {
-      "name": "Italian Pizza and Subs",
-      "distance": "1.1 mi",
-      "url": "https://www.google.com/maps/search/?api=1&query=Italian%20Pizza%20and%20Subs&query_place_id=ChIJo0UjGkJ544kRkBI8P5Byie8&center=42.304015299999996,-71.11451269999999"
     }
   ],
   "coffee": [
@@ -63,11 +48,6 @@
       "url": "https://www.google.com/maps/search/?api=1&query=Yely's%20Coffee%20Shop&query_place_id=ChIJVZrF6oF544kRe6VVybQ9B80&center=42.322785499999995,-71.1020502"
     },
     {
-      "name": "McDonald's",
-      "distance": "0.3 mi",
-      "url": "https://www.google.com/maps/search/?api=1&query=McDonald's&query_place_id=ChIJ7_xj731544kR0hRVW2EDZkg&center=42.315609,-71.097931"
-    },
-    {
       "name": "Dunkin'",
       "distance": "0.3 mi",
       "url": "https://www.google.com/maps/search/?api=1&query=Dunkin'&query_place_id=ChIJ1dP4IYJ544kRmf1YveWVTX0&center=42.323069499999995,-71.1038192"
@@ -76,11 +56,6 @@
       "name": "Monumental Market",
       "distance": "0.9 mi",
       "url": "https://www.google.com/maps/search/?api=1&query=Monumental%20Market&query_place_id=ChIJ5brITqV544kRc9uRNz3Ik_M&center=42.3083859,-71.1153404"
-    },
-    {
-      "name": "McDonald's",
-      "distance": "1.1 mi",
-      "url": "https://www.google.com/maps/search/?api=1&query=McDonald's&query_place_id=ChIJY2zyBzN644kR3NsZgiCmyVw&center=42.3203521,-71.0822283"
     }
   ],
   "team_lunch": [
@@ -113,16 +88,6 @@
       "name": "Biscocho",
       "distance": "0.3 mi",
       "url": "https://www.google.com/maps/search/?api=1&query=Biscocho&query_place_id=ChIJf_xlYwB544kRP2Ali65AOrY&center=42.3228344,-71.10509549999999"
-    },
-    {
-      "name": "Whole Foods Bakery",
-      "distance": "0.5 mi",
-      "url": "https://www.google.com/maps/search/?api=1&query=Whole%20Foods%20Bakery&query_place_id=ChIJc8QlKgB544kRqXAYAypkAuo&center=42.321459399999995,-71.1110194"
-    },
-    {
-      "name": "Miriam Sweetbuffet",
-      "distance": "1.1 mi",
-      "url": "https://www.google.com/maps/search/?api=1&query=Miriam%20Sweetbuffet&query_place_id=ChIJKQRxGAR744kRzHD78VqFO4I&center=42.3210777,-71.0830576"
     }
   ],
   "dinner": [

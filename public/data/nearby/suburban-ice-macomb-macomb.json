@@ -29,27 +29,6 @@
       "name": "Jet's Pizza",
       "distance": "2.3 mi",
       "url": "https://www.google.com/maps/search/?api=1&query=Jet's%20Pizza&query_place_id=ChIJM0l_imXhJIgR0Vd5PLUSDVw&center=42.714526199999995,-82.9613354"
-    },
-    {
-      "name": "Taco Bell",
-      "distance": "2.3 mi",
-      "url": "https://www.google.com/maps/search/?api=1&query=Taco%20Bell&query_place_id=ChIJvYXc-2_hJIgRrPFlK7Etd0I&center=42.715594900000006,-82.96126939999999"
-    },
-    {
-      "name": "Taco Bell",
-      "distance": "2.3 mi",
-      "url": "https://www.google.com/maps/search/?api=1&query=Taco%20Bell&query_place_id=ChIJedjnPwDhJIgRSg-1zOxTKrU&center=42.67261,-82.947206"
-    },
-    {
-      "name": "SNOWFOX Sushi",
-      "distance": "2.3 mi",
-      "url": "https://www.google.com/maps/search/?api=1&query=SNOWFOX%20Sushi&query_place_id=ChIJ32bR2eDhJIgRzHFbIr9fQ6o&center=42.7141611,-82.9630761"
-    },
-    {
-      "name": "Green Lantern Pizza",
-      "distance": "3.1 mi",
-      "url": "https://www.google.com/maps/search/?api=1&query=Green%20Lantern%20Pizza&query_place_id=ChIJ_R2L0W_gJIgR1EaATBbLaiU&center=42.6564748,-82.9356497",
-      "isFar": true
     }
   ],
   "coffee": [
@@ -57,11 +36,6 @@
       "name": "BIGGBY COFFEE",
       "distance": "2.2 mi",
       "url": "https://www.google.com/maps/search/?api=1&query=BIGGBY%20COFFEE&query_place_id=ChIJw7xljlnhJIgRBS5SvRUnblw&center=42.7156977,-82.95890949999999"
-    },
-    {
-      "name": "McDonald's",
-      "distance": "2.3 mi",
-      "url": "https://www.google.com/maps/search/?api=1&query=McDonald's&query_place_id=ChIJrcljclvgJIgR-wbyur6ALuA&center=42.6714735,-82.9417019"
     },
     {
       "name": "Tim Hortons",
@@ -118,11 +92,6 @@
       "name": "Moni's Restaurant",
       "distance": "2.1 mi",
       "url": "https://www.google.com/maps/search/Moni's%20Restaurant+near+42.700278499999996%2C-82.92098879999999"
-    },
-    {
-      "name": "Oliver's Pizza",
-      "distance": "2.2 mi",
-      "url": "https://www.google.com/maps/search/Oliver's%20Pizza+near+42.700278499999996%2C-82.92098879999999"
     }
   ],
   "bowling": [],
@@ -179,24 +148,9 @@
       "url": "https://www.google.com/maps/search/Peaceful%20Farmhouse%20%26%20Trails+near+42.700278499999996%2C-82.92098879999999"
     },
     {
-      "name": "Peaceful Farmhouse & Trails",
-      "distance": "2.4 mi",
-      "url": "https://www.google.com/maps/search/Peaceful%20Farmhouse%20%26%20Trails+near+42.700278499999996%2C-82.92098879999999"
-    },
-    {
-      "name": "Anthony apartment - One-Bedroom Apartment",
-      "distance": "2.5 mi",
-      "url": "https://www.google.com/maps/search/Anthony%20apartment%20-%20One-Bedroom%20Apartment+near+42.700278499999996%2C-82.92098879999999"
-    },
-    {
       "name": "Susalla.LLC",
       "distance": "2.7 mi",
       "url": "https://www.google.com/maps/search/Susalla.LLC+near+42.700278499999996%2C-82.92098879999999"
-    },
-    {
-      "name": "Luxury 2,700 Sq Ft Private Retreat w/ Pool • Office • Sleeps 10 • Small Families",
-      "distance": "2.8 mi",
-      "url": "https://www.google.com/maps/search/Luxury%202%2C700%20Sq%20Ft%20Private%20Retreat%20w%2F%20Pool%20%E2%80%A2%20Office%20%E2%80%A2%20Sleeps%2010%20%E2%80%A2%20Small%20Families+near+42.700278499999996%2C-82.92098879999999"
     },
     {
       "name": "Craft Time and Seasons",
@@ -212,24 +166,9 @@
       "url": "https://www.google.com/maps/search/Mobil+near+42.700278499999996%2C-82.92098879999999"
     },
     {
-      "name": "Mobil",
-      "distance": "2.2 mi",
-      "url": "https://www.google.com/maps/search/Mobil+near+42.700278499999996%2C-82.92098879999999"
-    },
-    {
-      "name": "Mobil",
-      "distance": "2.3 mi",
-      "url": "https://www.google.com/maps/search/Mobil+near+42.700278499999996%2C-82.92098879999999"
-    },
-    {
       "name": "Kroger Fuel Center",
       "distance": "2.4 mi",
       "url": "https://www.google.com/maps/search/Kroger%20Fuel%20Center+near+42.700278499999996%2C-82.92098879999999"
-    },
-    {
-      "name": "Mobil",
-      "distance": "2.8 mi",
-      "url": "https://www.google.com/maps/search/Mobil+near+42.700278499999996%2C-82.92098879999999"
     }
   ]
 }

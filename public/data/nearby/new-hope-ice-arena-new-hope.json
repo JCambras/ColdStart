@@ -21,11 +21,6 @@
       "url": "https://www.google.com/maps/search/TequilaTown%20Authentic%20Mexican%20Cuisine+near+45.0444871%2C-93.37127679999999"
     },
     {
-      "name": "Popeyes Louisiana Kitchen",
-      "distance": "0.7 mi",
-      "url": "https://www.google.com/maps/search/Popeyes%20Louisiana%20Kitchen+near+45.0444871%2C-93.37127679999999"
-    },
-    {
       "name": "Subway",
       "distance": "0.7 mi",
       "url": "https://www.google.com/maps/search/Subway+near+45.0444871%2C-93.37127679999999"
@@ -48,11 +43,6 @@
       "url": "https://www.google.com/maps/search/Starbucks%20Coffee%20Company+near+45.0444871%2C-93.37127679999999"
     },
     {
-      "name": "McDonald's",
-      "distance": "0.7 mi",
-      "url": "https://www.google.com/maps/search/McDonald's+near+45.0444871%2C-93.37127679999999"
-    },
-    {
       "name": "Ambiance Cafe",
       "distance": "0.7 mi",
       "url": "https://www.google.com/maps/search/Ambiance%20Cafe+near+45.0444871%2C-93.37127679999999"
@@ -64,11 +54,6 @@
     }
   ],
   "team_lunch": [
-    {
-      "name": "Joy's Kind Kitchen",
-      "distance": "0.5 mi",
-      "url": "https://www.google.com/maps/search/Joy's%20Kind%20Kitchen+near+45.0444871%2C-93.37127679999999"
-    },
     {
       "name": "Taqueria Lomabonita",
       "distance": "0.7 mi",
@@ -152,51 +137,9 @@
       "distance": "4.5 mi",
       "url": "https://www.google.com/maps/search/Zero%20Hour%20Escape%20Rooms%20%7C%20Minneapolis%2C%20MN+near+45.0444871%2C-93.37127679999999",
       "isFar": true
-    },
-    {
-      "name": "North Commons Water Park",
-      "distance": "4.7 mi",
-      "url": "https://www.google.com/maps/search/North%20Commons%20Water%20Park+near+45.0444871%2C-93.37127679999999",
-      "isFar": true
     }
   ],
-  "hotels": [
-    {
-      "name": "Spacious 3-Bed Loft Home, Private Deck & Fire Pit",
-      "distance": "0.6 mi",
-      "url": "https://www.google.com/maps/search/Spacious%203-Bed%20Loft%20Home%2C%20Private%20Deck%20%26%20Fire%20Pit+near+45.0444871%2C-93.37127679999999"
-    },
-    {
-      "name": "Spacious 3-Bed Loft Home, Private Deck & Fire Pit",
-      "distance": "0.6 mi",
-      "url": "https://www.google.com/maps/search/Spacious%203-Bed%20Loft%20Home%2C%20Private%20Deck%20%26%20Fire%20Pit+near+45.0444871%2C-93.37127679999999"
-    },
-    {
-      "name": "Charming 3-bedroom furnished house with AC, WiFi in tranquil Crystal Minnesota",
-      "distance": "0.6 mi",
-      "url": "https://www.google.com/maps/search/Charming%203-bedroom%20furnished%20house%20with%20AC%2C%20WiFi%20in%20tranquil%20Crystal%20Minnesota+near+45.0444871%2C-93.37127679999999"
-    },
-    {
-      "name": "3-bedroom townhome in peaceful New Hope with AC, WiFi",
-      "distance": "0.8 mi",
-      "url": "https://www.google.com/maps/search/3-bedroom%20townhome%20in%20peaceful%20New%20Hope%20with%20AC%2C%20WiFi+near+45.0444871%2C-93.37127679999999"
-    },
-    {
-      "name": "3-bedroom townhome in peaceful New Hope with AC, WiFi",
-      "distance": "0.8 mi",
-      "url": "https://www.google.com/maps/search/3-bedroom%20townhome%20in%20peaceful%20New%20Hope%20with%20AC%2C%20WiFi+near+45.0444871%2C-93.37127679999999"
-    },
-    {
-      "name": "Charming 3-bedroom house in serene Crystal with WiFi, AC, laundry room",
-      "distance": "0.9 mi",
-      "url": "https://www.google.com/maps/search/Charming%203-bedroom%20house%20in%20serene%20Crystal%20with%20WiFi%2C%20AC%2C%20laundry%20room+near+45.0444871%2C-93.37127679999999"
-    },
-    {
-      "name": "Newly Renovated 2 Bedroom apt!",
-      "distance": "1.0 mi",
-      "url": "https://www.google.com/maps/search/Newly%20Renovated%202%20Bedroom%20apt!+near+45.0444871%2C-93.37127679999999"
-    }
-  ],
+  "hotels": [],
   "gas": [
     {
       "name": "Speedway",
@@ -217,11 +160,6 @@
       "name": "Marathon Gas Station",
       "distance": "0.9 mi",
       "url": "https://www.google.com/maps/search/Marathon%20Gas%20Station+near+45.0444871%2C-93.37127679999999"
-    },
-    {
-      "name": "Holiday",
-      "distance": "1.0 mi",
-      "url": "https://www.google.com/maps/search/Holiday+near+45.0444871%2C-93.37127679999999"
     }
   ]
 }

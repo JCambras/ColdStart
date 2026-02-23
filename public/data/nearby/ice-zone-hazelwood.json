@@ -29,11 +29,6 @@
       "name": "Wendy's",
       "distance": "2.1 mi",
       "url": "https://www.google.com/maps/search/Wendy's+near+38.7888324%2C-90.410433"
-    },
-    {
-      "name": "Subway",
-      "distance": "2.1 mi",
-      "url": "https://www.google.com/maps/search/Subway+near+38.7888324%2C-90.410433"
     }
   ],
   "coffee": [
@@ -41,11 +36,6 @@
       "name": "Tony's Donuts & Cafe",
       "distance": "1.5 mi",
       "url": "https://www.google.com/maps/search/Tony's%20Donuts%20%26%20Cafe+near+38.7888324%2C-90.410433"
-    },
-    {
-      "name": "McDonald's",
-      "distance": "1.7 mi",
-      "url": "https://www.google.com/maps/search/McDonald's+near+38.7888324%2C-90.410433"
     }
   ],
   "team_lunch": [
@@ -68,11 +58,6 @@
       "name": "Steak 'n Shake",
       "distance": "1.5 mi",
       "url": "https://www.google.com/maps/search/Steak%20'n%20Shake+near+38.7888324%2C-90.410433"
-    },
-    {
-      "name": "Hunan Kitchen",
-      "distance": "1.6 mi",
-      "url": "https://www.google.com/maps/search/Hunan%20Kitchen+near+38.7888324%2C-90.410433"
     },
     {
       "name": "Krispy Krunchy Chicken",
@@ -146,20 +131,9 @@
       "distance": "4.5 mi",
       "url": "https://www.google.com/maps/search/Deadlock%20Escape+near+38.7888324%2C-90.410433",
       "isFar": true
-    },
-    {
-      "name": "Aquaport",
-      "distance": "4.8 mi",
-      "url": "https://www.google.com/maps/search/Aquaport+near+38.7888324%2C-90.410433",
-      "isFar": true
     }
   ],
   "hotels": [
-    {
-      "name": "Quiet getaway in suburban northwest.",
-      "distance": "0.9 mi",
-      "url": "https://www.google.com/maps/search/Quiet%20getaway%20in%20suburban%20northwest.+near+38.7888324%2C-90.410433"
-    },
     {
       "name": "Yarda San Luis",
       "distance": "1.0 mi",
@@ -211,11 +185,6 @@
       "name": "Def",
       "distance": "1.5 mi",
       "url": "https://www.google.com/maps/search/Def+near+38.7888324%2C-90.410433"
-    },
-    {
-      "name": "Phillips 66",
-      "distance": "1.6 mi",
-      "url": "https://www.google.com/maps/search/Phillips%2066+near+38.7888324%2C-90.410433"
     }
   ]
 }

@@ -48,11 +48,6 @@
       "name": "Caribbean Cantina",
       "distance": "0.2 mi",
       "url": "https://www.google.com/maps/search/Caribbean%20Cantina+near+41.4958921%2C-81.6852949"
-    },
-    {
-      "name": "CLEVELAND TOWN DELI",
-      "distance": "0.2 mi",
-      "url": "https://www.google.com/maps/search/CLEVELAND%20TOWN%20DELI+near+41.4958921%2C-81.6852949"
     }
   ],
   "dinner": [
@@ -117,12 +112,6 @@
       "distance": "4.4 mi",
       "url": "https://www.google.com/maps/search/Cinematheque%20(Cleveland%20Institute%20of%20Art)+near+41.4958921%2C-81.6852949",
       "isFar": true
-    },
-    {
-      "name": "Atlas Cinemas Shaker Square 6",
-      "distance": "4.9 mi",
-      "url": "https://www.google.com/maps/search/Atlas%20Cinemas%20Shaker%20Square%206+near+41.4958921%2C-81.6852949",
-      "isFar": true
     }
   ],
   "fun": [
@@ -144,39 +133,9 @@
   ],
   "hotels": [
     {
-      "name": "Downtown Cleveland LOFT Rooftop Gym Fast Wifi Near Stadiums & East 4th Street",
-      "distance": "0.1 mi",
-      "url": "https://www.google.com/maps/search/Downtown%20Cleveland%20LOFT%20Rooftop%20Gym%20Fast%20Wifi%20Near%20Stadiums%20%26%20East%204th%20Street+near+41.4958921%2C-81.6852949"
-    },
-    {
       "name": "Lydia Hardesty",
       "distance": "0.1 mi",
       "url": "https://www.google.com/maps/search/Lydia%20Hardesty+near+41.4958921%2C-81.6852949"
-    },
-    {
-      "name": "The Legendary RockN’Roll APT",
-      "distance": "0.1 mi",
-      "url": "https://www.google.com/maps/search/The%20Legendary%20RockN%E2%80%99Roll%20APT+near+41.4958921%2C-81.6852949"
-    },
-    {
-      "name": "The Legendary RockN’Roll APT",
-      "distance": "0.1 mi",
-      "url": "https://www.google.com/maps/search/The%20Legendary%20RockN%E2%80%99Roll%20APT+near+41.4958921%2C-81.6852949"
-    },
-    {
-      "name": "The Experience Luxury Condo Downtown Cleveland",
-      "distance": "0.2 mi",
-      "url": "https://www.google.com/maps/search/The%20Experience%20Luxury%20Condo%20Downtown%20Cleveland+near+41.4958921%2C-81.6852949"
-    },
-    {
-      "name": "Luxury apartment in Downtown Cleveland with, FITNESS ROOM, POOL, ROOFTOP SAUNA",
-      "distance": "0.2 mi",
-      "url": "https://www.google.com/maps/search/Luxury%20apartment%20in%20Downtown%20Cleveland%20with%2C%20FITNESS%20ROOM%2C%20POOL%2C%20ROOFTOP%20SAUNA+near+41.4958921%2C-81.6852949"
-    },
-    {
-      "name": "Luxury apartment in Downtown Cleveland with, FITNESS ROOM, POOL, ROOFTOP & SAUNA",
-      "distance": "0.2 mi",
-      "url": "https://www.google.com/maps/search/Luxury%20apartment%20in%20Downtown%20Cleveland%20with%2C%20FITNESS%20ROOM%2C%20POOL%2C%20ROOFTOP%20%26%20SAUNA+near+41.4958921%2C-81.6852949"
     }
   ],
   "gas": [
@@ -194,16 +153,6 @@
       "name": "Shell",
       "distance": "1.0 mi",
       "url": "https://www.google.com/maps/search/Shell+near+41.4958921%2C-81.6852949"
-    },
-    {
-      "name": "bp",
-      "distance": "1.0 mi",
-      "url": "https://www.google.com/maps/search/bp+near+41.4958921%2C-81.6852949"
-    },
-    {
-      "name": "bp",
-      "distance": "1.1 mi",
-      "url": "https://www.google.com/maps/search/bp+near+41.4958921%2C-81.6852949"
     }
   ]
 }

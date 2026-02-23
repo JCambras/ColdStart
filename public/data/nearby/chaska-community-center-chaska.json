@@ -28,11 +28,6 @@
   ],
   "coffee": [
     {
-      "name": "McDonald's",
-      "distance": "0.7 mi",
-      "url": "https://www.google.com/maps/search/McDonald's+near+44.805968400000005%2C-93.5949079"
-    },
-    {
       "name": "Caribou Coffee",
       "distance": "0.8 mi",
       "url": "https://www.google.com/maps/search/Caribou%20Coffee+near+44.805968400000005%2C-93.5949079"
@@ -142,12 +137,6 @@
       "distance": "6.8 mi",
       "url": "https://www.google.com/maps/search/Planet%20Snoopy+near+44.805968400000005%2C-93.5949079",
       "isFar": true
-    },
-    {
-      "name": "Round Lake Splash Pad",
-      "distance": "6.8 mi",
-      "url": "https://www.google.com/maps/search/Round%20Lake%20Splash%20Pad+near+44.805968400000005%2C-93.5949079",
-      "isFar": true
     }
   ],
   "hotels": [
@@ -157,45 +146,20 @@
       "url": "https://www.google.com/maps/search/Brandondale%20Estates+near+44.805968400000005%2C-93.5949079"
     },
     {
-      "name": "Mobile home",
-      "distance": "0.3 mi",
-      "url": "https://www.google.com/maps/search/Mobile%20home+near+44.805968400000005%2C-93.5949079"
-    },
-    {
       "name": "Barotseland peace foundation",
       "distance": "0.5 mi",
       "url": "https://www.google.com/maps/search/Barotseland%20peace%20foundation+near+44.805968400000005%2C-93.5949079"
     },
     {
-      "name": "Retro vibes 4-bedroom home in Chaska with WiFi, AC, bike",
-      "distance": "0.7 mi",
-      "url": "https://www.google.com/maps/search/Retro%20vibes%204-bedroom%20home%20in%20Chaska%20with%20WiFi%2C%20AC%2C%20bike+near+44.805968400000005%2C-93.5949079"
-    },
-    {
       "name": "Super 8 by Wyndham Chaska",
       "distance": "0.9 mi",
       "url": "https://www.google.com/maps/search/Super%208%20by%20Wyndham%20Chaska+near+44.805968400000005%2C-93.5949079"
-    },
-    {
-      "name": "Riverview Terrace Mobile Home Park",
-      "distance": "1.1 mi",
-      "url": "https://www.google.com/maps/search/Riverview%20Terrace%20Mobile%20Home%20Park+near+44.805968400000005%2C-93.5949079"
-    },
-    {
-      "name": "Pet Friendly Chaska Historic Home",
-      "distance": "1.2 mi",
-      "url": "https://www.google.com/maps/search/Pet%20Friendly%20Chaska%20Historic%20Home+near+44.805968400000005%2C-93.5949079"
     }
   ],
   "gas": [
     {
       "name": "Holiday Gas Station",
       "distance": "0.4 mi",
-      "url": "https://www.google.com/maps/search/Holiday%20Gas%20Station+near+44.805968400000005%2C-93.5949079"
-    },
-    {
-      "name": "Holiday Gas Station",
-      "distance": "0.7 mi",
       "url": "https://www.google.com/maps/search/Holiday%20Gas%20Station+near+44.805968400000005%2C-93.5949079"
     },
     {
@@ -206,11 +170,6 @@
     {
       "name": "Speedway",
       "distance": "0.9 mi",
-      "url": "https://www.google.com/maps/search/Speedway+near+44.805968400000005%2C-93.5949079"
-    },
-    {
-      "name": "Speedway",
-      "distance": "1.0 mi",
       "url": "https://www.google.com/maps/search/Speedway+near+44.805968400000005%2C-93.5949079"
     }
   ]

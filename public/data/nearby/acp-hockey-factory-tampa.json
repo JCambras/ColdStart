@@ -29,25 +29,9 @@
       "name": "Church's Texas Chicken",
       "distance": "0.7 mi",
       "url": "https://www.google.com/maps/search/Church's%20Texas%20Chicken+near+27.963497999999998%2C-82.41263750000002"
-    },
-    {
-      "name": "KFC",
-      "distance": "0.7 mi",
-      "url": "https://www.google.com/maps/search/KFC+near+27.963497999999998%2C-82.41263750000002"
     }
   ],
-  "coffee": [
-    {
-      "name": "McDonald's",
-      "distance": "0.6 mi",
-      "url": "https://www.google.com/maps/search/McDonald's+near+27.963497999999998%2C-82.41263750000002"
-    },
-    {
-      "name": "Wawa",
-      "distance": "0.6 mi",
-      "url": "https://www.google.com/maps/search/Wawa+near+27.963497999999998%2C-82.41263750000002"
-    }
-  ],
+  "coffee": [],
   "team_lunch": [],
   "dinner": [
     {
@@ -79,11 +63,6 @@
       "name": "Tampa Trucky Cheese",
       "distance": "0.6 mi",
       "url": "https://www.google.com/maps/search/Tampa%20Trucky%20Cheese+near+27.963497999999998%2C-82.41263750000002"
-    },
-    {
-      "name": "Ray’s Deli",
-      "distance": "0.6 mi",
-      "url": "https://www.google.com/maps/search/Ray%E2%80%99s%20Deli+near+27.963497999999998%2C-82.41263750000002"
     }
   ],
   "bowling": [
@@ -146,37 +125,9 @@
       "distance": "3.1 mi",
       "url": "https://www.google.com/maps/search/City%20Escape%20Adventures+near+27.963497999999998%2C-82.41263750000002",
       "isFar": true
-    },
-    {
-      "name": "Academy Sim Racing",
-      "distance": "3.3 mi",
-      "url": "https://www.google.com/maps/search/Academy%20Sim%20Racing+near+27.963497999999998%2C-82.41263750000002",
-      "isFar": true
-    },
-    {
-      "name": "Splash Pad",
-      "distance": "3.4 mi",
-      "url": "https://www.google.com/maps/search/Splash%20Pad+near+27.963497999999998%2C-82.41263750000002",
-      "isFar": true
-    },
-    {
-      "name": "The splash pad",
-      "distance": "3.5 mi",
-      "url": "https://www.google.com/maps/search/The%20splash%20pad+near+27.963497999999998%2C-82.41263750000002",
-      "isFar": true
     }
   ],
   "hotels": [
-    {
-      "name": "Charming Tampa 3-Bedroom Haven",
-      "distance": "0.2 mi",
-      "url": "https://www.google.com/maps/search/Charming%20Tampa%203-Bedroom%20Haven+near+27.963497999999998%2C-82.41263750000002"
-    },
-    {
-      "name": "Lush Designer Home - Near The Heart Of Ybor City - Two-Bedroom House",
-      "distance": "0.3 mi",
-      "url": "https://www.google.com/maps/search/Lush%20Designer%20Home%20-%20Near%20The%20Heart%20Of%20Ybor%20City%20-%20Two-Bedroom%20House+near+27.963497999999998%2C-82.41263750000002"
-    },
     {
       "name": "Ybor City",
       "distance": "0.5 mi",
@@ -186,16 +137,6 @@
       "name": "Men Of God 07",
       "distance": "0.5 mi",
       "url": "https://www.google.com/maps/search/Men%20Of%20God%2007+near+27.963497999999998%2C-82.41263750000002"
-    },
-    {
-      "name": "2-5 Minutes to Ybor and Downtown Tampa - Newly built home",
-      "distance": "0.5 mi",
-      "url": "https://www.google.com/maps/search/2-5%20Minutes%20to%20Ybor%20and%20Downtown%20Tampa%20-%20Newly%20built%20home+near+27.963497999999998%2C-82.41263750000002"
-    },
-    {
-      "name": "2-5 Minutes to Ybor and Downtown Tampa - Newly built home",
-      "distance": "0.5 mi",
-      "url": "https://www.google.com/maps/search/2-5%20Minutes%20to%20Ybor%20and%20Downtown%20Tampa%20-%20Newly%20built%20home+near+27.963497999999998%2C-82.41263750000002"
     },
     {
       "name": "Heart of Tampa/Ybor/7th Ave",
@@ -223,11 +164,6 @@
       "name": "Shell",
       "distance": "0.8 mi",
       "url": "https://www.google.com/maps/search/Shell+near+27.963497999999998%2C-82.41263750000002"
-    },
-    {
-      "name": "Chevron Tampa",
-      "distance": "0.8 mi",
-      "url": "https://www.google.com/maps/search/Chevron%20Tampa+near+27.963497999999998%2C-82.41263750000002"
     }
   ]
 }

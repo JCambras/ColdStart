@@ -18,12 +18,6 @@
       "isFar": true
     },
     {
-      "name": "Subway",
-      "distance": "3.6 mi",
-      "url": "https://www.google.com/maps/search/Subway+near+34.296390599999995%2C-85.1119337",
-      "isFar": true
-    },
-    {
       "name": "Jack's Family Restaurant",
       "distance": "3.6 mi",
       "url": "https://www.google.com/maps/search/Jack's%20Family%20Restaurant+near+34.296390599999995%2C-85.1119337",
@@ -112,12 +106,6 @@
       "distance": "3.4 mi",
       "url": "https://www.google.com/maps/search/Pick%20O%20Deli%20Cafeteria+near+34.296390599999995%2C-85.1119337",
       "isFar": true
-    },
-    {
-      "name": "Tonya's Diner",
-      "distance": "3.6 mi",
-      "url": "https://www.google.com/maps/search/Tonya's%20Diner+near+34.296390599999995%2C-85.1119337",
-      "isFar": true
     }
   ],
   "bowling": [
@@ -159,16 +147,6 @@
   ],
   "hotels": [
     {
-      "name": "Hidden Springs Cottage, Rome, GA, King Loft Bedroom, Private Lake Access",
-      "distance": "2.0 mi",
-      "url": "https://www.google.com/maps/search/Hidden%20Springs%20Cottage%2C%20Rome%2C%20GA%2C%20King%20Loft%20Bedroom%2C%20Private%20Lake%20Access+near+34.296390599999995%2C-85.1119337"
-    },
-    {
-      "name": "New w/ King Bed, Walk to Park, Near Downtown Rome",
-      "distance": "2.2 mi",
-      "url": "https://www.google.com/maps/search/New%20w%2F%20King%20Bed%2C%20Walk%20to%20Park%2C%20Near%20Downtown%20Rome+near+34.296390599999995%2C-85.1119337"
-    },
-    {
       "name": "Riverside Community at Celanese Village",
       "distance": "2.8 mi",
       "url": "https://www.google.com/maps/search/Riverside%20Community%20at%20Celanese%20Village+near+34.296390599999995%2C-85.1119337"
@@ -177,16 +155,6 @@
       "name": "Perfect location, modern renovation destination.",
       "distance": "2.8 mi",
       "url": "https://www.google.com/maps/search/Perfect%20location%2C%20modern%20renovation%20destination.+near+34.296390599999995%2C-85.1119337"
-    },
-    {
-      "name": "Perfect location, modern renovation destination.",
-      "distance": "3.0 mi",
-      "url": "https://www.google.com/maps/search/Perfect%20location%2C%20modern%20renovation%20destination.+near+34.296390599999995%2C-85.1119337"
-    },
-    {
-      "name": "Cozy Cute Modern Tennis Wifi Pit Broad Berry Train - Two-Bedroom Apartment",
-      "distance": "3.0 mi",
-      "url": "https://www.google.com/maps/search/Cozy%20Cute%20Modern%20Tennis%20Wifi%20Pit%20Broad%20Berry%20Train%20-%20Two-Bedroom%20Apartment+near+34.296390599999995%2C-85.1119337"
     },
     {
       "name": "Fairfield by Marriott Inn & Suites Rome",
@@ -214,11 +182,6 @@
       "name": "Calhoun Quick Stop",
       "distance": "2.5 mi",
       "url": "https://www.google.com/maps/search/Calhoun%20Quick%20Stop+near+34.296390599999995%2C-85.1119337"
-    },
-    {
-      "name": "Citgo Ricks food mart 293",
-      "distance": "2.8 mi",
-      "url": "https://www.google.com/maps/search/Citgo%20Ricks%20food%20mart%20293+near+34.296390599999995%2C-85.1119337"
     }
   ]
 }

@@ -43,11 +43,6 @@
       "url": "https://www.google.com/maps/search/Ihop+near+26.1062214%2C-80.41895989999999"
     },
     {
-      "name": "McDonald's",
-      "distance": "1.8 mi",
-      "url": "https://www.google.com/maps/search/McDonald's+near+26.1062214%2C-80.41895989999999"
-    },
-    {
       "name": "Starbucks Coffee Company",
       "distance": "1.8 mi",
       "url": "https://www.google.com/maps/search/Starbucks%20Coffee%20Company+near+26.1062214%2C-80.41895989999999"
@@ -127,12 +122,6 @@
       "distance": "7.5 mi",
       "url": "https://www.google.com/maps/search/Regal%20Westfork+near+26.1062214%2C-80.41895989999999",
       "isFar": true
-    },
-    {
-      "name": "Paragon Theaters - Ridge + Axis15 Extreme",
-      "distance": "9.1 mi",
-      "url": "https://www.google.com/maps/search/Paragon%20Theaters%20-%20Ridge%20%2B%20Axis15%20Extreme+near+26.1062214%2C-80.41895989999999",
-      "isFar": true
     }
   ],
   "fun": [
@@ -159,20 +148,9 @@
       "distance": "6.9 mi",
       "url": "https://www.google.com/maps/search/TEG+near+26.1062214%2C-80.41895989999999",
       "isFar": true
-    },
-    {
-      "name": "Off The Wall Davie",
-      "distance": "9.1 mi",
-      "url": "https://www.google.com/maps/search/Off%20The%20Wall%20Davie+near+26.1062214%2C-80.41895989999999",
-      "isFar": true
     }
   ],
   "hotels": [
-    {
-      "name": "Château Hills - Seven-Bedroom House",
-      "distance": "0.7 mi",
-      "url": "https://www.google.com/maps/search/Ch%C3%A2teau%20Hills%20-%20Seven-Bedroom%20House+near+26.1062214%2C-80.41895989999999"
-    },
     {
       "name": "Casa de Elder Pulido",
       "distance": "0.8 mi",
@@ -224,11 +202,6 @@
       "name": "Marathon Gas",
       "distance": "3.1 mi",
       "url": "https://www.google.com/maps/search/Marathon%20Gas+near+26.1062214%2C-80.41895989999999"
-    },
-    {
-      "name": "Chevron Weston",
-      "distance": "3.2 mi",
-      "url": "https://www.google.com/maps/search/Chevron%20Weston+near+26.1062214%2C-80.41895989999999"
     }
   ]
 }

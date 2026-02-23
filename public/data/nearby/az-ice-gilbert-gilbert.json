@@ -18,11 +18,6 @@
   ],
   "coffee": [
     {
-      "name": "Park Tavern and Market",
-      "distance": "0.1 mi",
-      "url": "https://www.google.com/maps/search/Park%20Tavern%20and%20Market+near+33.3275146%2C-111.74082179999999"
-    },
-    {
       "name": "The Coffee Shop",
       "distance": "0.9 mi",
       "url": "https://www.google.com/maps/search/The%20Coffee%20Shop+near+33.3275146%2C-111.74082179999999"
@@ -95,11 +90,6 @@
       "name": "XJ'S Casa Reynoso",
       "distance": "0.9 mi",
       "url": "https://www.google.com/maps/search/XJ'S%20Casa%20Reynoso+near+33.3275146%2C-111.74082179999999"
-    },
-    {
-      "name": "Joe's Farm Grill",
-      "distance": "1.0 mi",
-      "url": "https://www.google.com/maps/search/Joe's%20Farm%20Grill+near+33.3275146%2C-111.74082179999999"
     }
   ],
   "bowling": [
@@ -138,18 +128,6 @@
       "distance": "3.2 mi",
       "url": "https://www.google.com/maps/search/Regal%20Gilbert+near+33.3275146%2C-111.74082179999999",
       "isFar": true
-    },
-    {
-      "name": "Recline-N-Dine Cinemas",
-      "distance": "3.5 mi",
-      "url": "https://www.google.com/maps/search/Recline-N-Dine%20Cinemas+near+33.3275146%2C-111.74082179999999",
-      "isFar": true
-    },
-    {
-      "name": "Harkins Theatres Chandler Crossroads",
-      "distance": "4.5 mi",
-      "url": "https://www.google.com/maps/search/Harkins%20Theatres%20Chandler%20Crossroads+near+33.3275146%2C-111.74082179999999",
-      "isFar": true
     }
   ],
   "fun": [
@@ -172,24 +150,6 @@
       "name": "Elevate Trampoline Park - Gilbert",
       "distance": "2.8 mi",
       "url": "https://www.google.com/maps/search/Elevate%20Trampoline%20Park%20-%20Gilbert+near+33.3275146%2C-111.74082179999999"
-    },
-    {
-      "name": "Paradox Escape Room",
-      "distance": "3.1 mi",
-      "url": "https://www.google.com/maps/search/Paradox%20Escape%20Room+near+33.3275146%2C-111.74082179999999",
-      "isFar": true
-    },
-    {
-      "name": "Altitude Trampoline Park Gilbert",
-      "distance": "3.6 mi",
-      "url": "https://www.google.com/maps/search/Altitude%20Trampoline%20Park%20Gilbert+near+33.3275146%2C-111.74082179999999",
-      "isFar": true
-    },
-    {
-      "name": "Cluemaster Escape Rooms",
-      "distance": "4.2 mi",
-      "url": "https://www.google.com/maps/search/Cluemaster%20Escape%20Rooms+near+33.3275146%2C-111.74082179999999",
-      "isFar": true
     }
   ],
   "hotels": [
@@ -212,16 +172,6 @@
       "name": "Pool & Putts",
       "distance": "0.3 mi",
       "url": "https://www.google.com/maps/search/Pool%20%26%20Putts+near+33.3275146%2C-111.74082179999999"
-    },
-    {
-      "name": "Desert Oasis: 3BR Home with Heated Pool Near San Tan Mall",
-      "distance": "0.3 mi",
-      "url": "https://www.google.com/maps/search/Desert%20Oasis%3A%203BR%20Home%20with%20Heated%20Pool%20Near%20San%20Tan%20Mall+near+33.3275146%2C-111.74082179999999"
-    },
-    {
-      "name": "Cottage in Cottonwoods Crossing",
-      "distance": "0.3 mi",
-      "url": "https://www.google.com/maps/search/Cottage%20in%20Cottonwoods%20Crossing+near+33.3275146%2C-111.74082179999999"
     },
     {
       "name": "Cottage in Cottonwoods Crossing",
@@ -249,11 +199,6 @@
       "name": "Fry's Fuel Center",
       "distance": "1.1 mi",
       "url": "https://www.google.com/maps/search/Fry's%20Fuel%20Center+near+33.3275146%2C-111.74082179999999"
-    },
-    {
-      "name": "Shell",
-      "distance": "1.2 mi",
-      "url": "https://www.google.com/maps/search/Shell+near+33.3275146%2C-111.74082179999999"
     }
   ]
 }

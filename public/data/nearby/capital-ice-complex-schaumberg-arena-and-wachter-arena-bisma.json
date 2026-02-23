@@ -33,11 +33,6 @@
       "url": "https://www.google.com/maps/search/Scooter's%20Coffee+near+46.7898986%2C-100.78797349999999"
     },
     {
-      "name": "McDonald's",
-      "distance": "0.4 mi",
-      "url": "https://www.google.com/maps/search/McDonald's+near+46.7898986%2C-100.78797349999999"
-    },
-    {
       "name": "Panera Bread",
       "distance": "0.5 mi",
       "url": "https://www.google.com/maps/search/Panera%20Bread+near+46.7898986%2C-100.78797349999999"
@@ -56,11 +51,6 @@
       "name": "Mighty Missouri Coffee Co.",
       "distance": "0.6 mi",
       "url": "https://www.google.com/maps/search/Mighty%20Missouri%20Coffee%20Co.+near+46.7898986%2C-100.78797349999999"
-    },
-    {
-      "name": "Starbucks Coffee Company",
-      "distance": "0.6 mi",
-      "url": "https://www.google.com/maps/search/Starbucks%20Coffee%20Company+near+46.7898986%2C-100.78797349999999"
     }
   ],
   "team_lunch": [
@@ -146,20 +136,9 @@
       "distance": "3.0 mi",
       "url": "https://www.google.com/maps/search/Breakout%20ND+near+46.7898986%2C-100.78797349999999",
       "isFar": true
-    },
-    {
-      "name": "Sky Zone Trampoline Park",
-      "distance": "4.9 mi",
-      "url": "https://www.google.com/maps/search/Sky%20Zone%20Trampoline%20Park+near+46.7898986%2C-100.78797349999999",
-      "isFar": true
     }
   ],
   "hotels": [
-    {
-      "name": "Comfy Main Floor Bedroom",
-      "distance": "0.3 mi",
-      "url": "https://www.google.com/maps/search/Comfy%20Main%20Floor%20Bedroom+near+46.7898986%2C-100.78797349999999"
-    },
     {
       "name": "EverSpring Inn",
       "distance": "0.4 mi",
@@ -211,11 +190,6 @@
       "name": "Holiday",
       "distance": "0.8 mi",
       "url": "https://www.google.com/maps/search/Holiday+near+46.7898986%2C-100.78797349999999"
-    },
-    {
-      "name": "Little Dukes",
-      "distance": "0.8 mi",
-      "url": "https://www.google.com/maps/search/Little%20Dukes+near+46.7898986%2C-100.78797349999999"
     }
   ]
 }

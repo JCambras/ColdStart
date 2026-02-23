@@ -31,16 +31,6 @@
       "name": "Moose Ridge Coffee Co.",
       "distance": "1.1 mi",
       "url": "https://www.google.com/maps/search/Moose%20Ridge%20Coffee%20Co.+near+43.4718284%2C-112.04033910000001"
-    },
-    {
-      "name": "Sam's Club Cafe",
-      "distance": "1.1 mi",
-      "url": "https://www.google.com/maps/search/Sam's%20Club%20Cafe+near+43.4718284%2C-112.04033910000001"
-    },
-    {
-      "name": "McDonald's",
-      "distance": "1.2 mi",
-      "url": "https://www.google.com/maps/search/McDonald's+near+43.4718284%2C-112.04033910000001"
     }
   ],
   "team_lunch": [
@@ -82,11 +72,6 @@
       "url": "https://www.google.com/maps/search/Stockman's%20Restaurant+near+43.4718284%2C-112.04033910000001"
     },
     {
-      "name": "Sam's Club Bakery",
-      "distance": "1.2 mi",
-      "url": "https://www.google.com/maps/search/Sam's%20Club%20Bakery+near+43.4718284%2C-112.04033910000001"
-    },
-    {
       "name": "Plum Loco",
       "distance": "1.2 mi",
       "url": "https://www.google.com/maps/search/Plum%20Loco+near+43.4718284%2C-112.04033910000001"
@@ -115,12 +100,6 @@
       "name": "Regal Edwards Grand Teton",
       "distance": "2.9 mi",
       "url": "https://www.google.com/maps/search/Regal%20Edwards%20Grand%20Teton+near+43.4718284%2C-112.04033910000001"
-    },
-    {
-      "name": "Motor Vu Drive-In",
-      "distance": "3.4 mi",
-      "url": "https://www.google.com/maps/search/Motor%20Vu%20Drive-In+near+43.4718284%2C-112.04033910000001",
-      "isFar": true
     }
   ],
   "fun": [
@@ -143,41 +122,9 @@
       "name": "Gnarly Escapes",
       "distance": "2.7 mi",
       "url": "https://www.google.com/maps/search/Gnarly%20Escapes+near+43.4718284%2C-112.04033910000001"
-    },
-    {
-      "name": "Owens Lights",
-      "distance": "2.9 mi",
-      "url": "https://www.google.com/maps/search/Owens%20Lights+near+43.4718284%2C-112.04033910000001"
-    },
-    {
-      "name": "Blast Off",
-      "distance": "3.3 mi",
-      "url": "https://www.google.com/maps/search/Blast%20Off+near+43.4718284%2C-112.04033910000001",
-      "isFar": true
-    },
-    {
-      "name": "Kids' Town",
-      "distance": "3.9 mi",
-      "url": "https://www.google.com/maps/search/Kids'%20Town+near+43.4718284%2C-112.04033910000001",
-      "isFar": true
     }
   ],
   "hotels": [
-    {
-      "name": "Idaho Falls 6bed4bath Exquisite Home",
-      "distance": "0.5 mi",
-      "url": "https://www.google.com/maps/search/Idaho%20Falls%206bed4bath%20Exquisite%20Home+near+43.4718284%2C-112.04033910000001"
-    },
-    {
-      "name": "Idaho Falls 6bed4bath Exquisite Home",
-      "distance": "0.5 mi",
-      "url": "https://www.google.com/maps/search/Idaho%20Falls%206bed4bath%20Exquisite%20Home+near+43.4718284%2C-112.04033910000001"
-    },
-    {
-      "name": "Charming Spacious Modern 4 bedroom, 3 bathroom Home in town, pet friendly",
-      "distance": "0.5 mi",
-      "url": "https://www.google.com/maps/search/Charming%20Spacious%20Modern%204%20bedroom%2C%203%20bathroom%20Home%20in%20town%2C%20pet%20friendly+near+43.4718284%2C-112.04033910000001"
-    },
     {
       "name": "1950s Brick Charmer",
       "distance": "0.5 mi",
@@ -192,11 +139,6 @@
       "name": "Yellowstone Motel Idaho Falls",
       "distance": "0.6 mi",
       "url": "https://www.google.com/maps/search/Yellowstone%20Motel%20Idaho%20Falls+near+43.4718284%2C-112.04033910000001"
-    },
-    {
-      "name": "Cozy and Artistic Space with a library and a Floating Net",
-      "distance": "0.6 mi",
-      "url": "https://www.google.com/maps/search/Cozy%20and%20Artistic%20Space%20with%20a%20library%20and%20a%20Floating%20Net+near+43.4718284%2C-112.04033910000001"
     }
   ],
   "gas": [
@@ -219,11 +161,6 @@
       "name": "Maverik Adventure's First Stop",
       "distance": "0.9 mi",
       "url": "https://www.google.com/maps/search/Maverik%20Adventure's%20First%20Stop+near+43.4718284%2C-112.04033910000001"
-    },
-    {
-      "name": "Maverik",
-      "distance": "0.9 mi",
-      "url": "https://www.google.com/maps/search/Maverik+near+43.4718284%2C-112.04033910000001"
     }
   ]
 }

@@ -29,26 +29,6 @@
       "name": "Jersey Mike's Subs",
       "distance": "0.2 mi",
       "url": "https://www.google.com/maps/search/?api=1&query=Jersey%20Mike's%20Subs&query_place_id=ChIJPc8EnDyTNIgRjzpXEE3gGWc&center=40.538741099999996,-79.8319528"
-    },
-    {
-      "name": "KFC",
-      "distance": "0.3 mi",
-      "url": "https://www.google.com/maps/search/?api=1&query=KFC&query_place_id=ChIJ96BCbn2UNIgRHYToz68Hdlo&center=40.5395046,-79.8291077"
-    },
-    {
-      "name": "Bob Evans",
-      "distance": "0.3 mi",
-      "url": "https://www.google.com/maps/search/?api=1&query=Bob%20Evans&query_place_id=ChIJAQ7tYW-TNIgRnImyM6VCJ4I&center=40.5383419,-79.8406868"
-    },
-    {
-      "name": "Popeyes Louisiana Kitchen",
-      "distance": "0.3 mi",
-      "url": "https://www.google.com/maps/search/?api=1&query=Popeyes%20Louisiana%20Kitchen&query_place_id=ChIJJ3--f9qVNIgRag41-h1_Qn0&center=40.539748,-79.828565"
-    },
-    {
-      "name": "Taco Bell",
-      "distance": "0.3 mi",
-      "url": "https://www.google.com/maps/search/?api=1&query=Taco%20Bell&query_place_id=ChIJUds96WWTNIgRyvvJ0Sz067o&center=40.5371841,-79.840503"
     }
   ],
   "coffee": [
@@ -66,17 +46,6 @@
       "name": "Starbucks",
       "distance": "0.2 mi",
       "url": "https://www.google.com/maps/search/?api=1&query=Starbucks&query_place_id=ChIJ73KgdrKTNIgR5Qdpk33_ZPA&center=40.53871,-79.83197"
-    },
-    {
-      "name": "McDonald's",
-      "distance": "0.3 mi",
-      "url": "https://www.google.com/maps/search/?api=1&query=McDonald's&query_place_id=ChIJ9eUumWKTNIgRmo9QqtzFK60&center=40.5391736,-79.8301524"
-    },
-    {
-      "name": "McDonald's",
-      "distance": "3.0 mi",
-      "url": "https://www.google.com/maps/search/?api=1&query=McDonald's&query_place_id=ChIJc0c_jrvsNIgRbvzRSUQv1Gs&center=40.4967334,-79.8449716",
-      "isFar": true
     }
   ],
   "team_lunch": [
@@ -106,20 +75,9 @@
       "url": "https://www.google.com/maps/search/?api=1&query=Auntie%20Anne's&query_place_id=ChIJsWVgNbqUNIgR-v9dMd01p1k&center=40.5209915,-79.8140981"
     },
     {
-      "name": "Sam's Club Bakery",
-      "distance": "2.4 mi",
-      "url": "https://www.google.com/maps/search/?api=1&query=Sam's%20Club%20Bakery&query_place_id=ChIJzQcca2uVNIgReAdCioMEop0&center=40.5657935,-79.8042037"
-    },
-    {
       "name": "Strawberry’s Custom Cake Designs",
       "distance": "2.5 mi",
       "url": "https://www.google.com/maps/search/?api=1&query=Strawberry%E2%80%99s%20Custom%20Cake%20Designs&query_place_id=ChIJX-EdbpXtNIgRMnORzQvxJfI&center=40.50432790000001,-79.8434453"
-    },
-    {
-      "name": "Granny Cakes",
-      "distance": "3.1 mi",
-      "url": "https://www.google.com/maps/search/?api=1&query=Granny%20Cakes&query_place_id=ChIJAUYjsXiVNIgRovITiLMa7Fw&center=40.541658999999996,-79.7757345",
-      "isFar": true
     }
   ],
   "dinner": [

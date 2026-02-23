@@ -29,30 +29,6 @@
       "name": "Dunkin'",
       "distance": "0.8 mi",
       "url": "https://www.google.com/maps/search/?api=1&query=Dunkin'&query_place_id=ChIJQ33lJov02YkRCbX4IuZvV_I&center=43.0023617,-76.1290535"
-    },
-    {
-      "name": "Five Guys",
-      "distance": "3.0 mi",
-      "url": "https://www.google.com/maps/search/?api=1&query=Five%20Guys&query_place_id=ChIJNcsivAjz2YkRFjC5LYzzHMs&center=43.042118599999995,-76.1361176",
-      "isFar": true
-    },
-    {
-      "name": "Subway",
-      "distance": "3.0 mi",
-      "url": "https://www.google.com/maps/search/?api=1&query=Subway&query_place_id=ChIJKTM3s6Hz2YkROVy1umdTtQ4&center=43.042096,-76.1347191",
-      "isFar": true
-    },
-    {
-      "name": "The Deli @ 700",
-      "distance": "3.2 mi",
-      "url": "https://www.google.com/maps/search/?api=1&query=The%20Deli%20%40%20700&query_place_id=ChIJmTAuepjz2YkR9kbEMWDCqm8&center=43.040245999999996,-76.1726001",
-      "isFar": true
-    },
-    {
-      "name": "Tall Paul's Hot Dogs",
-      "distance": "3.2 mi",
-      "url": "https://www.google.com/maps/search/?api=1&query=Tall%20Paul's%20Hot%20Dogs&query_place_id=ChIJZf0Miafz2YkRbPF--swb9ww&center=43.0454363,-76.1506354",
-      "isFar": true
     }
   ],
   "coffee": [
@@ -65,11 +41,6 @@
       "name": "Dunkin'",
       "distance": "0.8 mi",
       "url": "https://www.google.com/maps/search/?api=1&query=Dunkin'&query_place_id=ChIJQ33lJov02YkRCbX4IuZvV_I&center=43.0023617,-76.1290535"
-    },
-    {
-      "name": "McDonald's",
-      "distance": "1.1 mi",
-      "url": "https://www.google.com/maps/search/?api=1&query=McDonald's&query_place_id=ChIJFSPQZ6312YkRrP8yKOP-alU&center=42.9829099,-76.1425428"
     },
     {
       "name": "Bruegger's Bagels",
@@ -107,27 +78,6 @@
       "name": "Miss gee’s spot",
       "distance": "0.9 mi",
       "url": "https://www.google.com/maps/search/?api=1&query=Miss%20gee%E2%80%99s%20spot&query_place_id=ChIJbTcqYUv12YkR_l3EmtxR3M8&center=43.0126202,-76.1476651"
-    },
-    {
-      "name": "JD at Danzer's Pizza Pub",
-      "distance": "1.1 mi",
-      "url": "https://www.google.com/maps/search/?api=1&query=JD%20at%20Danzer's%20Pizza%20Pub&query_place_id=ChIJ9cbIqWL02YkRvLxoONkXdc4&center=43.0114537,-76.1316658"
-    },
-    {
-      "name": "Sky Cakes N Bake",
-      "distance": "1.2 mi",
-      "url": "https://www.google.com/maps/search/?api=1&query=Sky%20Cakes%20N%20Bake&query_place_id=ChIJYUO7zxn12YkRVEalqks4kJE&center=43.012347000000005,-76.1601912"
-    },
-    {
-      "name": "Collegetown Bagels",
-      "distance": "3.0 mi",
-      "url": "https://www.google.com/maps/search/?api=1&query=Collegetown%20Bagels&query_place_id=ChIJTcMTPoLz2YkRkyOhkyQd5QY&center=43.0417748,-76.1346793"
-    },
-    {
-      "name": "Farm to Market Bread",
-      "distance": "3.3 mi",
-      "url": "https://www.google.com/maps/search/?api=1&query=Farm%20to%20Market%20Bread&query_place_id=ChIJTc98t6bz2YkRbTmMU6_pxYc&center=43.046099,-76.1362104",
-      "isFar": true
     }
   ],
   "dinner": [

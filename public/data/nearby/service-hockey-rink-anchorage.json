@@ -49,27 +49,12 @@
       "url": "https://www.google.com/maps/search/Caf%C3%A9%20Loco%20Espresso%20Bar+near+61.14027269999999%2C-149.7785769"
     },
     {
-      "name": "McDonald's",
-      "distance": "1.9 mi",
-      "url": "https://www.google.com/maps/search/McDonald's+near+61.14027269999999%2C-149.7785769"
-    },
-    {
       "name": "Fred meyers starbucks",
       "distance": "2.0 mi",
       "url": "https://www.google.com/maps/search/Fred%20meyers%20starbucks+near+61.14027269999999%2C-149.7785769"
-    },
-    {
-      "name": "Starbucks Coffee Company",
-      "distance": "2.0 mi",
-      "url": "https://www.google.com/maps/search/Starbucks%20Coffee%20Company+near+61.14027269999999%2C-149.7785769"
     }
   ],
   "team_lunch": [
-    {
-      "name": "Finn's Kitchen",
-      "distance": "1.1 mi",
-      "url": "https://www.google.com/maps/search/Finn's%20Kitchen+near+61.14027269999999%2C-149.7785769"
-    },
     {
       "name": "Great Alaska Pizza Company",
       "distance": "1.9 mi",
@@ -153,43 +138,7 @@
       "isFar": true
     }
   ],
-  "hotels": [
-    {
-      "name": "Strutz · Luxury Home minutes from Skiing with HOT TUB!",
-      "distance": "0.3 mi",
-      "url": "https://www.google.com/maps/search/Strutz%20%C2%B7%20Luxury%20Home%20minutes%20from%20Skiing%20with%20HOT%20TUB!+near+61.14027269999999%2C-149.7785769"
-    },
-    {
-      "name": "Strutz · Luxury Home minutes from Skiing with HOT TUB!",
-      "distance": "0.3 mi",
-      "url": "https://www.google.com/maps/search/Strutz%20%C2%B7%20Luxury%20Home%20minutes%20from%20Skiing%20with%20HOT%20TUB!+near+61.14027269999999%2C-149.7785769"
-    },
-    {
-      "name": "Hillside Anchorage Home by Hiking & Biking Trails!",
-      "distance": "0.4 mi",
-      "url": "https://www.google.com/maps/search/Hillside%20Anchorage%20Home%20by%20Hiking%20%26%20Biking%20Trails!+near+61.14027269999999%2C-149.7785769"
-    },
-    {
-      "name": "Hillside Anchorage Home by Hiking & Biking Trails!",
-      "distance": "0.4 mi",
-      "url": "https://www.google.com/maps/search/Hillside%20Anchorage%20Home%20by%20Hiking%20%26%20Biking%20Trails!+near+61.14027269999999%2C-149.7785769"
-    },
-    {
-      "name": "Hillside Anchorage Home by Hiking and Biking Trails!",
-      "distance": "0.4 mi",
-      "url": "https://www.google.com/maps/search/Hillside%20Anchorage%20Home%20by%20Hiking%20and%20Biking%20Trails!+near+61.14027269999999%2C-149.7785769"
-    },
-    {
-      "name": "--- NEW LISTING --- Adorable 1-bedroom suite in South Anchorage\\n",
-      "distance": "0.4 mi",
-      "url": "https://www.google.com/maps/search/---%20NEW%20LISTING%20---%20Adorable%201-bedroom%20suite%20in%20South%20Anchorage%5Cn+near+61.14027269999999%2C-149.7785769"
-    },
-    {
-      "name": "Cozy, quiet",
-      "distance": "0.5 mi",
-      "url": "https://www.google.com/maps/search/Cozy%2C%20quiet+near+61.14027269999999%2C-149.7785769"
-    }
-  ],
+  "hotels": [],
   "gas": [
     {
       "name": "Chevron Denali Express",
@@ -210,11 +159,6 @@
       "name": "Speedway Express",
       "distance": "2.3 mi",
       "url": "https://www.google.com/maps/search/Speedway%20Express+near+61.14027269999999%2C-149.7785769"
-    },
-    {
-      "name": "Circle K Gas Station",
-      "distance": "2.3 mi",
-      "url": "https://www.google.com/maps/search/Circle%20K%20Gas%20Station+near+61.14027269999999%2C-149.7785769"
     }
   ]
 }

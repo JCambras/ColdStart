@@ -29,30 +29,6 @@
       "name": "Subway",
       "distance": "2.1 mi",
       "url": "https://www.google.com/maps/search/?api=1&query=Subway&query_place_id=ChIJMZhZ2P1wNIgR4kQgytclBVA&center=40.7587147,-80.31958639999999"
-    },
-    {
-      "name": "Soup-Herb Sproutz",
-      "distance": "3.0 mi",
-      "url": "https://www.google.com/maps/search/?api=1&query=Soup-Herb%20Sproutz&query_place_id=ChIJgzjKScFvNIgRC6PAd4EsBC4&center=40.695806399999995,-80.3040977",
-      "isFar": true
-    },
-    {
-      "name": "Dairy Queen Grill & Chill",
-      "distance": "3.0 mi",
-      "url": "https://www.google.com/maps/search/?api=1&query=Dairy%20Queen%20Grill%20%26%20Chill&query_place_id=ChIJU7to4LdvNIgRSpCqKS5QPoE&center=40.6922475,-80.31145599999999",
-      "isFar": true
-    },
-    {
-      "name": "Wendy's",
-      "distance": "3.1 mi",
-      "url": "https://www.google.com/maps/search/?api=1&query=Wendy's&query_place_id=ChIJlaTYjbRvNIgR5lob_YCWRTM&center=40.688750399999996,-80.31927999999999",
-      "isFar": true
-    },
-    {
-      "name": "Subway",
-      "distance": "3.1 mi",
-      "url": "https://www.google.com/maps/search/?api=1&query=Subway&query_place_id=ChIJmaHDoLRvNIgRuBWIIveGNBI&center=40.688432899999995,-80.31973710000001",
-      "isFar": true
     }
   ],
   "coffee": [
@@ -75,17 +51,6 @@
       "name": "The Coffee Village",
       "distance": "1.5 mi",
       "url": "https://www.google.com/maps/search/?api=1&query=The%20Coffee%20Village&query_place_id=ChIJ79bjQtVvNIgRBWZgaijaolE&center=40.712235899999996,-80.3221401"
-    },
-    {
-      "name": "McDonald's",
-      "distance": "2.0 mi",
-      "url": "https://www.google.com/maps/search/?api=1&query=McDonald's&query_place_id=ChIJK-q_bP5wNIgRDU8a1BV9shg&center=40.7576459,-80.3197441"
-    },
-    {
-      "name": "McDonald's",
-      "distance": "3.1 mi",
-      "url": "https://www.google.com/maps/search/?api=1&query=McDonald's&query_place_id=ChIJWxwou0xuNIgR3MLjHKAb0NU&center=40.689188699999995,-80.3199774",
-      "isFar": true
     }
   ],
   "team_lunch": [

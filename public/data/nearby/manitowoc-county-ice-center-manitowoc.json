@@ -29,11 +29,6 @@
       "name": "Jimmy John's",
       "distance": "0.6 mi",
       "url": "https://www.google.com/maps/search/Jimmy%20John's+near+44.0778509%2C-87.7150027"
-    },
-    {
-      "name": "Arby's",
-      "distance": "0.7 mi",
-      "url": "https://www.google.com/maps/search/Arby's+near+44.0778509%2C-87.7150027"
     }
   ],
   "coffee": [
@@ -41,11 +36,6 @@
       "name": "Coffee Lab",
       "distance": "0.4 mi",
       "url": "https://www.google.com/maps/search/Coffee%20Lab+near+44.0778509%2C-87.7150027"
-    },
-    {
-      "name": "McDonald's",
-      "distance": "0.4 mi",
-      "url": "https://www.google.com/maps/search/McDonald's+near+44.0778509%2C-87.7150027"
     },
     {
       "name": "Panera Bread",
@@ -119,12 +109,6 @@
       "distance": "8.4 mi",
       "url": "https://www.google.com/maps/search/Bruce's%20Bar%20%26%20Bowl+near+44.0778509%2C-87.7150027",
       "isFar": true
-    },
-    {
-      "name": "The Hook Lanes and Games",
-      "distance": "8.9 mi",
-      "url": "https://www.google.com/maps/search/The%20Hook%20Lanes%20and%20Games+near+44.0778509%2C-87.7150027",
-      "isFar": true
     }
   ],
   "arcade": [],
@@ -151,16 +135,6 @@
       "name": "North Campground",
       "distance": "0.2 mi",
       "url": "https://www.google.com/maps/search/North%20Campground+near+44.0778509%2C-87.7150027"
-    },
-    {
-      "name": "Home Away from Home",
-      "distance": "0.3 mi",
-      "url": "https://www.google.com/maps/search/Home%20Away%20from%20Home+near+44.0778509%2C-87.7150027"
-    },
-    {
-      "name": "Home Away from Home",
-      "distance": "0.3 mi",
-      "url": "https://www.google.com/maps/search/Home%20Away%20from%20Home+near+44.0778509%2C-87.7150027"
     },
     {
       "name": "AmericInn by Wyndham Manitowoc",
@@ -193,11 +167,6 @@
       "name": "Popp's Harbor Town Citgo",
       "distance": "0.4 mi",
       "url": "https://www.google.com/maps/search/Popp's%20Harbor%20Town%20Citgo+near+44.0778509%2C-87.7150027"
-    },
-    {
-      "name": "Mills Gas",
-      "distance": "0.6 mi",
-      "url": "https://www.google.com/maps/search/Mills%20Gas+near+44.0778509%2C-87.7150027"
     }
   ]
 }

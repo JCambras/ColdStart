@@ -29,26 +29,6 @@
       "name": "Wendy's",
       "distance": "0.9 mi",
       "url": "https://www.google.com/maps/search/?api=1&query=Wendy's&query_place_id=ChIJ4-F84qR2xokR9g6xcY4MM_g&center=40.356653,-75.981306"
-    },
-    {
-      "name": "Chick-fil-A",
-      "distance": "1.0 mi",
-      "url": "https://www.google.com/maps/search/?api=1&query=Chick-fil-A&query_place_id=ChIJpX5o27p2xokRB8Pq452ni3M&center=40.354780399999996,-75.9817157"
-    },
-    {
-      "name": "Wawa",
-      "distance": "1.0 mi",
-      "url": "https://www.google.com/maps/search/?api=1&query=Wawa&query_place_id=ChIJjRUSxrp2xokRK8bku3Ay21U&center=40.355173,-75.9803735"
-    },
-    {
-      "name": "Subway",
-      "distance": "1.1 mi",
-      "url": "https://www.google.com/maps/search/?api=1&query=Subway&query_place_id=ChIJG-xIlIZ2xokRj-GgmGrqXOE&center=40.3808042,-75.984518"
-    },
-    {
-      "name": "DirectLink Cafe",
-      "distance": "1.1 mi",
-      "url": "https://www.google.com/maps/search/?api=1&query=DirectLink%20Cafe&query_place_id=ChIJGRSyDwB3xokRtwDeW5aWlVQ&center=40.38109300000001,-75.98265839999999"
     }
   ],
   "coffee": [
@@ -63,24 +43,9 @@
       "url": "https://www.google.com/maps/search/?api=1&query=Panera%20Bread&query_place_id=ChIJITwhCaR2xokRIG2qa5mkf8E&center=40.357195999999995,-75.9832899"
     },
     {
-      "name": "McDonald's",
-      "distance": "0.9 mi",
-      "url": "https://www.google.com/maps/search/?api=1&query=McDonald's&query_place_id=ChIJ1TPNHqV2xokRM8RbCWFwbzA&center=40.356147199999995,-75.9828481"
-    },
-    {
-      "name": "Wawa",
-      "distance": "1.0 mi",
-      "url": "https://www.google.com/maps/search/?api=1&query=Wawa&query_place_id=ChIJjRUSxrp2xokRK8bku3Ay21U&center=40.355173,-75.9803735"
-    },
-    {
       "name": "Duck Donuts",
       "distance": "1.4 mi",
       "url": "https://www.google.com/maps/search/?api=1&query=Duck%20Donuts&query_place_id=ChIJG-P6FgB3xokR4L4HPyCnOj0&center=40.3460283,-75.98979"
-    },
-    {
-      "name": "Wawa",
-      "distance": "1.7 mi",
-      "url": "https://www.google.com/maps/search/?api=1&query=Wawa&query_place_id=ChIJAXOh1NV1xokRsuqjSJzbQwE&center=40.390772299999995,-75.9958967"
     }
   ],
   "team_lunch": [
@@ -88,11 +53,6 @@
       "name": "Texas Roadhouse",
       "distance": "0.3 mi",
       "url": "https://www.google.com/maps/search/?api=1&query=Texas%20Roadhouse&query_place_id=ChIJZ8CPHKF2xokRei0iOh--aLo&center=40.362124699999995,-75.989369"
-    },
-    {
-      "name": "Creators' Kitchen as Seen on TikTok",
-      "distance": "0.6 mi",
-      "url": "https://www.google.com/maps/search/?api=1&query=Creators'%20Kitchen%20as%20Seen%20on%20TikTok&query_place_id=ChIJx51eQ5t3xokRIjGL1AlqJQM&center=40.3593417,-75.9857365"
     },
     {
       "name": "The Wing Experience",

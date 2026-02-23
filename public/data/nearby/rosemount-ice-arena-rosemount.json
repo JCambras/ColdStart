@@ -29,11 +29,6 @@
       "name": "Chipotle Mexican Grill",
       "distance": "1.2 mi",
       "url": "https://www.google.com/maps/search/Chipotle%20Mexican%20Grill+near+44.7475204%2C-93.1278839"
-    },
-    {
-      "name": "Jersey Mike's Subs",
-      "distance": "1.2 mi",
-      "url": "https://www.google.com/maps/search/Jersey%20Mike's%20Subs+near+44.7475204%2C-93.1278839"
     }
   ],
   "coffee": [
@@ -41,11 +36,6 @@
       "name": "Starbucks Coffee Company",
       "distance": "1.0 mi",
       "url": "https://www.google.com/maps/search/Starbucks%20Coffee%20Company+near+44.7475204%2C-93.1278839"
-    },
-    {
-      "name": "McDonald's",
-      "distance": "1.2 mi",
-      "url": "https://www.google.com/maps/search/McDonald's+near+44.7475204%2C-93.1278839"
     }
   ],
   "team_lunch": [],
@@ -79,11 +69,6 @@
       "name": "House of Curry",
       "distance": "1.2 mi",
       "url": "https://www.google.com/maps/search/House%20of%20Curry+near+44.7475204%2C-93.1278839"
-    },
-    {
-      "name": "Fireside Restaurant & Bar",
-      "distance": "1.2 mi",
-      "url": "https://www.google.com/maps/search/Fireside%20Restaurant%20%26%20Bar+near+44.7475204%2C-93.1278839"
     }
   ],
   "bowling": [
@@ -138,12 +123,6 @@
       "distance": "6.5 mi",
       "url": "https://www.google.com/maps/search/Sky%20Zone%20Trampoline%20Park+near+44.7475204%2C-93.1278839",
       "isFar": true
-    },
-    {
-      "name": "The Grove",
-      "distance": "6.6 mi",
-      "url": "https://www.google.com/maps/search/The%20Grove+near+44.7475204%2C-93.1278839",
-      "isFar": true
     }
   ],
   "hotels": [
@@ -156,31 +135,6 @@
       "name": "New home with all the modern comforts",
       "distance": "0.4 mi",
       "url": "https://www.google.com/maps/search/New%20home%20with%20all%20the%20modern%20comforts+near+44.7475204%2C-93.1278839"
-    },
-    {
-      "name": "101 - New, Modern & Comfortable 2 Bedroom Apt",
-      "distance": "0.8 mi",
-      "url": "https://www.google.com/maps/search/101%20-%20New%2C%20Modern%20%26%20Comfortable%202%20Bedroom%20Apt+near+44.7475204%2C-93.1278839"
-    },
-    {
-      "name": "102 - New, Modern & Comfortable 1 Bedroom Apt",
-      "distance": "0.8 mi",
-      "url": "https://www.google.com/maps/search/102%20-%20New%2C%20Modern%20%26%20Comfortable%201%20Bedroom%20Apt+near+44.7475204%2C-93.1278839"
-    },
-    {
-      "name": "100 - New, Modern & Comfortable 2 Bedroom Apt",
-      "distance": "0.8 mi",
-      "url": "https://www.google.com/maps/search/100%20-%20New%2C%20Modern%20%26%20Comfortable%202%20Bedroom%20Apt+near+44.7475204%2C-93.1278839"
-    },
-    {
-      "name": "101 - New, Modern & Comfortable 2 Bedroom Apt",
-      "distance": "0.8 mi",
-      "url": "https://www.google.com/maps/search/101%20-%20New%2C%20Modern%20%26%20Comfortable%202%20Bedroom%20Apt+near+44.7475204%2C-93.1278839"
-    },
-    {
-      "name": "102 - New, Modern Comfortable 1 Bedroom Apt",
-      "distance": "0.8 mi",
-      "url": "https://www.google.com/maps/search/102%20-%20New%2C%20Modern%20Comfortable%201%20Bedroom%20Apt+near+44.7475204%2C-93.1278839"
     }
   ],
   "gas": [
@@ -203,11 +157,6 @@
       "name": "Holiday",
       "distance": "1.2 mi",
       "url": "https://www.google.com/maps/search/Holiday+near+44.7475204%2C-93.1278839"
-    },
-    {
-      "name": "Circle K",
-      "distance": "1.2 mi",
-      "url": "https://www.google.com/maps/search/Circle%20K+near+44.7475204%2C-93.1278839"
     }
   ]
 }

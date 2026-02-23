@@ -97,11 +97,6 @@
       "name": "Coronet Restaurant",
       "distance": "0.2 mi",
       "url": "https://www.google.com/maps/search/Coronet%20Restaurant+near+32.2193916%2C-110.9726292"
-    },
-    {
-      "name": "Penca",
-      "distance": "0.2 mi",
-      "url": "https://www.google.com/maps/search/Penca+near+32.2193916%2C-110.9726292"
     }
   ],
   "bowling": [
@@ -139,18 +134,6 @@
       "name": "The Gallagher Theater",
       "distance": "1.5 mi",
       "url": "https://www.google.com/maps/search/The%20Gallagher%20Theater+near+32.2193916%2C-110.9726292"
-    },
-    {
-      "name": "The Loft Cinema",
-      "distance": "3.1 mi",
-      "url": "https://www.google.com/maps/search/The%20Loft%20Cinema+near+32.2193916%2C-110.9726292",
-      "isFar": true
-    },
-    {
-      "name": "Harkins Theatres Tucson Spectrum",
-      "distance": "4.7 mi",
-      "url": "https://www.google.com/maps/search/Harkins%20Theatres%20Tucson%20Spectrum+near+32.2193916%2C-110.9726292",
-      "isFar": true
     }
   ],
   "fun": [
@@ -173,31 +156,9 @@
       "name": "Xscape House",
       "distance": "2.4 mi",
       "url": "https://www.google.com/maps/search/Xscape%20House+near+32.2193916%2C-110.9726292"
-    },
-    {
-      "name": "Will You Escape?",
-      "distance": "2.5 mi",
-      "url": "https://www.google.com/maps/search/Will%20You%20Escape%3F+near+32.2193916%2C-110.9726292"
-    },
-    {
-      "name": "Escape Room @Grant",
-      "distance": "3.2 mi",
-      "url": "https://www.google.com/maps/search/Escape%20Room%20%40Grant+near+32.2193916%2C-110.9726292",
-      "isFar": true
-    },
-    {
-      "name": "Wild Katz - Children's Adventure Playground",
-      "distance": "4.7 mi",
-      "url": "https://www.google.com/maps/search/Wild%20Katz%20-%20Children's%20Adventure%20Playground+near+32.2193916%2C-110.9726292",
-      "isFar": true
     }
   ],
   "hotels": [
-    {
-      "name": "GEM! Studio in Heart of Dntwn Tucson near TCC",
-      "distance": "0.1 mi",
-      "url": "https://www.google.com/maps/search/GEM!%20Studio%20in%20Heart%20of%20Dntwn%20Tucson%20near%20TCC+near+32.2193916%2C-110.9726292"
-    },
     {
       "name": "Ensuring a Very Comfortable & Memorable Stay! 3 Family-Friendly Units",
       "distance": "0.1 mi",
@@ -212,16 +173,6 @@
       "name": "Home2 Suites by Hilton Tucson Downtown",
       "distance": "0.1 mi",
       "url": "https://www.google.com/maps/search/Home2%20Suites%20by%20Hilton%20Tucson%20Downtown+near+32.2193916%2C-110.9726292"
-    },
-    {
-      "name": "Clean and Cozy Room Perfect for Relaxation w / Pool On-Site Dining Options",
-      "distance": "0.1 mi",
-      "url": "https://www.google.com/maps/search/Clean%20and%20Cozy%20Room%20Perfect%20for%20Relaxation%20w%20%2F%20Pool%20On-Site%20Dining%20Options+near+32.2193916%2C-110.9726292"
-    },
-    {
-      "name": "Landing Apartments near Tucson Convention Center",
-      "distance": "0.1 mi",
-      "url": "https://www.google.com/maps/search/Landing%20Apartments%20near%20Tucson%20Convention%20Center+near+32.2193916%2C-110.9726292"
     },
     {
       "name": "Landing | Amazing 2BD, Courtyard, Gym",
@@ -239,21 +190,6 @@
       "name": "Chevron",
       "distance": "0.9 mi",
       "url": "https://www.google.com/maps/search/Chevron+near+32.2193916%2C-110.9726292"
-    },
-    {
-      "name": "Chevron",
-      "distance": "1.0 mi",
-      "url": "https://www.google.com/maps/search/Chevron+near+32.2193916%2C-110.9726292"
-    },
-    {
-      "name": "Circle K | Gas Station",
-      "distance": "1.0 mi",
-      "url": "https://www.google.com/maps/search/Circle%20K%20%7C%20Gas%20Station+near+32.2193916%2C-110.9726292"
-    },
-    {
-      "name": "Circle K | Gas Station",
-      "distance": "1.1 mi",
-      "url": "https://www.google.com/maps/search/Circle%20K%20%7C%20Gas%20Station+near+32.2193916%2C-110.9726292"
     }
   ]
 }

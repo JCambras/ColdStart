@@ -29,11 +29,6 @@
       "name": "Taco Bell",
       "distance": "0.6 mi",
       "url": "https://www.google.com/maps/search/Taco%20Bell+near+39.567898199999995%2C-104.9989349"
-    },
-    {
-      "name": "Red Robin Gourmet Burgers and Brews",
-      "distance": "0.6 mi",
-      "url": "https://www.google.com/maps/search/Red%20Robin%20Gourmet%20Burgers%20and%20Brews+near+39.567898199999995%2C-104.9989349"
     }
   ],
   "coffee": [
@@ -43,19 +38,9 @@
       "url": "https://www.google.com/maps/search/Starbucks%20Coffee%20Company+near+39.567898199999995%2C-104.9989349"
     },
     {
-      "name": "McDonald's",
-      "distance": "0.6 mi",
-      "url": "https://www.google.com/maps/search/McDonald's+near+39.567898199999995%2C-104.9989349"
-    },
-    {
       "name": "Black Rock Coffee Bar",
       "distance": "0.6 mi",
       "url": "https://www.google.com/maps/search/Black%20Rock%20Coffee%20Bar+near+39.567898199999995%2C-104.9989349"
-    },
-    {
-      "name": "Starbucks Coffee Company",
-      "distance": "0.6 mi",
-      "url": "https://www.google.com/maps/search/Starbucks%20Coffee%20Company+near+39.567898199999995%2C-104.9989349"
     }
   ],
   "team_lunch": [
@@ -126,11 +111,6 @@
       "name": "Hollywood Theaters",
       "distance": "2.4 mi",
       "url": "https://www.google.com/maps/search/Hollywood%20Theaters+near+39.567898199999995%2C-104.9989349"
-    },
-    {
-      "name": "Regal SouthGlenn",
-      "distance": "2.4 mi",
-      "url": "https://www.google.com/maps/search/Regal%20SouthGlenn+near+39.567898199999995%2C-104.9989349"
     }
   ],
   "fun": [
@@ -155,20 +135,9 @@
       "distance": "3.1 mi",
       "url": "https://www.google.com/maps/search/Game%20Show%20Battle%20Rooms%20-%20Denver%20(Centennial)+near+39.567898199999995%2C-104.9989349",
       "isFar": true
-    },
-    {
-      "name": "Mystic Escape Room - Littleton",
-      "distance": "3.3 mi",
-      "url": "https://www.google.com/maps/search/Mystic%20Escape%20Room%20-%20Littleton+near+39.567898199999995%2C-104.9989349",
-      "isFar": true
     }
   ],
   "hotels": [
-    {
-      "name": "Modern Apartment in Prime Location ID8406X40 - Two-Bedroom Apartment",
-      "distance": "0.3 mi",
-      "url": "https://www.google.com/maps/search/Modern%20Apartment%20in%20Prime%20Location%20ID8406X40%20-%20Two-Bedroom%20Apartment+near+39.567898199999995%2C-104.9989349"
-    },
     {
       "name": "Elevate your experiences at our Highlands Ranch hotel",
       "distance": "0.5 mi",
@@ -180,24 +149,9 @@
       "url": "https://www.google.com/maps/search/Residence%20Inn%20by%20Marriott%20Denver%20Highlands%20Ranch+near+39.567898199999995%2C-104.9989349"
     },
     {
-      "name": "Gorgeously updated 5-bedroom house in Littleton with jacuzzi tub and amenities",
-      "distance": "0.7 mi",
-      "url": "https://www.google.com/maps/search/Gorgeously%20updated%205-bedroom%20house%20in%20Littleton%20with%20jacuzzi%20tub%20and%20amenities+near+39.567898199999995%2C-104.9989349"
-    },
-    {
       "name": "Hilton Garden Inn Denver/Highlands Ranch",
       "distance": "0.8 mi",
       "url": "https://www.google.com/maps/search/Hilton%20Garden%20Inn%20Denver%2FHighlands%20Ranch+near+39.567898199999995%2C-104.9989349"
-    },
-    {
-      "name": "Amazing Luxury Home , cozy living, fully furnished, great for the Entire family",
-      "distance": "0.9 mi",
-      "url": "https://www.google.com/maps/search/Amazing%20Luxury%20Home%20%2C%20cozy%20living%2C%20fully%20furnished%2C%20great%20for%20the%20Entire%20family+near+39.567898199999995%2C-104.9989349"
-    },
-    {
-      "name": "Luxury Brand New Townhouse, family and pet friendly",
-      "distance": "0.9 mi",
-      "url": "https://www.google.com/maps/search/Luxury%20Brand%20New%20Townhouse%2C%20family%20and%20pet%20friendly+near+39.567898199999995%2C-104.9989349"
     }
   ],
   "gas": [
@@ -220,11 +174,6 @@
       "name": "Conoco",
       "distance": "0.6 mi",
       "url": "https://www.google.com/maps/search/Conoco+near+39.567898199999995%2C-104.9989349"
-    },
-    {
-      "name": "Suncor Energy",
-      "distance": "0.6 mi",
-      "url": "https://www.google.com/maps/search/Suncor%20Energy+near+39.567898199999995%2C-104.9989349"
     }
   ]
 }

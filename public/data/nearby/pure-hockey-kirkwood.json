@@ -29,11 +29,6 @@
       "name": "Buffalo Wild Wings",
       "distance": "0.2 mi",
       "url": "https://www.google.com/maps/search/Buffalo%20Wild%20Wings+near+38.5627342%2C-90.4085333"
-    },
-    {
-      "name": "Blues Fired Pizza",
-      "distance": "0.3 mi",
-      "url": "https://www.google.com/maps/search/Blues%20Fired%20Pizza+near+38.5627342%2C-90.4085333"
     }
   ],
   "coffee": [
@@ -63,11 +58,6 @@
       "name": "Texas Roadhouse",
       "distance": "0.2 mi",
       "url": "https://www.google.com/maps/search/Texas%20Roadhouse+near+38.5627342%2C-90.4085333"
-    },
-    {
-      "name": "Walmart Bakery",
-      "distance": "0.3 mi",
-      "url": "https://www.google.com/maps/search/Walmart%20Bakery+near+38.5627342%2C-90.4085333"
     },
     {
       "name": "Steak 'n Shake",
@@ -113,18 +103,6 @@
       "name": "Bowlero Lakeside",
       "distance": "3.7 mi",
       "url": "https://www.google.com/maps/search/Bowlero%20Lakeside+near+38.5627342%2C-90.4085333",
-      "isFar": true
-    },
-    {
-      "name": "Concord Bowl and Recreation",
-      "distance": "3.8 mi",
-      "url": "https://www.google.com/maps/search/Concord%20Bowl%20and%20Recreation+near+38.5627342%2C-90.4085333",
-      "isFar": true
-    },
-    {
-      "name": "Sunset lanes",
-      "distance": "3.9 mi",
-      "url": "https://www.google.com/maps/search/Sunset%20lanes+near+38.5627342%2C-90.4085333",
       "isFar": true
     }
   ],
@@ -172,24 +150,6 @@
       "distance": "3.8 mi",
       "url": "https://www.google.com/maps/search/Sky%20Zone%20Fenton+near+38.5627342%2C-90.4085333",
       "isFar": true
-    },
-    {
-      "name": "Swing-A-Round Fun Town",
-      "distance": "3.9 mi",
-      "url": "https://www.google.com/maps/search/Swing-A-Round%20Fun%20Town+near+38.5627342%2C-90.4085333",
-      "isFar": true
-    },
-    {
-      "name": "Sky Zone Trampoline Park",
-      "distance": "4.7 mi",
-      "url": "https://www.google.com/maps/search/Sky%20Zone%20Trampoline%20Park+near+38.5627342%2C-90.4085333",
-      "isFar": true
-    },
-    {
-      "name": "Amp Up Action Park Go-Karting and Axe Throwing - St. Louis",
-      "distance": "4.9 mi",
-      "url": "https://www.google.com/maps/search/Amp%20Up%20Action%20Park%20Go-Karting%20and%20Axe%20Throwing%20-%20St.%20Louis+near+38.5627342%2C-90.4085333",
-      "isFar": true
     }
   ],
   "hotels": [
@@ -207,11 +167,6 @@
       "name": "Holiday Inn St Louis SW - Route 66 by IHG",
       "distance": "0.5 mi",
       "url": "https://www.google.com/maps/search/Holiday%20Inn%20St%20Louis%20SW%20-%20Route%2066%20by%20IHG+near+38.5627342%2C-90.4085333"
-    },
-    {
-      "name": "Cute 2-Bed 2- Bath Cottage in Kirkwood MO",
-      "distance": "0.5 mi",
-      "url": "https://www.google.com/maps/search/Cute%202-Bed%202-%20Bath%20Cottage%20in%20Kirkwood%20MO+near+38.5627342%2C-90.4085333"
     },
     {
       "name": "Cute 2-Bed 2- Bath Cottage in Kirkwood MO",
@@ -244,16 +199,6 @@
       "name": "U-Gas",
       "distance": "0.5 mi",
       "url": "https://www.google.com/maps/search/U-Gas+near+38.5627342%2C-90.4085333"
-    },
-    {
-      "name": "Phillips 66",
-      "distance": "0.5 mi",
-      "url": "https://www.google.com/maps/search/Phillips%2066+near+38.5627342%2C-90.4085333"
-    },
-    {
-      "name": "Phillips 66",
-      "distance": "0.6 mi",
-      "url": "https://www.google.com/maps/search/Phillips%2066+near+38.5627342%2C-90.4085333"
     }
   ]
 }

@@ -29,26 +29,6 @@
       "name": "Arby's",
       "distance": "0.3 mi",
       "url": "https://www.google.com/maps/search/?api=1&query=Arby's&query_place_id=ChIJcVRK8_YvPYgR0vAh4L8XEX8&center=42.261480399999996,-84.4238099"
-    },
-    {
-      "name": "Popeyes Louisiana Kitchen",
-      "distance": "0.3 mi",
-      "url": "https://www.google.com/maps/search/?api=1&query=Popeyes%20Louisiana%20Kitchen&query_place_id=ChIJcwdEXQYvPYgRqkR5l-nUAxY&center=42.2618015,-84.423902"
-    },
-    {
-      "name": "Subway",
-      "distance": "0.3 mi",
-      "url": "https://www.google.com/maps/search/?api=1&query=Subway&query_place_id=ChIJf8idcPYvPYgREqOhj1ancRU&center=42.260342699999995,-84.4229758"
-    },
-    {
-      "name": "Chick-fil-A",
-      "distance": "0.4 mi",
-      "url": "https://www.google.com/maps/search/?api=1&query=Chick-fil-A&query_place_id=ChIJBUgaSAAvPYgRTvwfyARg-EQ&center=42.2617233,-84.4231436"
-    },
-    {
-      "name": "Burger King",
-      "distance": "0.4 mi",
-      "url": "https://www.google.com/maps/search/?api=1&query=Burger%20King&query_place_id=ChIJw74uoPYvPYgR1aS79yg1kV4&center=42.2623345,-84.42286539999999"
     }
   ],
   "coffee": [
@@ -61,16 +41,6 @@
       "name": "Dunkin'",
       "distance": "0.3 mi",
       "url": "https://www.google.com/maps/search/?api=1&query=Dunkin'&query_place_id=ChIJ4SysFvYvPYgRlkjSWFrzkBU&center=42.259451999999996,-84.4237132"
-    },
-    {
-      "name": "McDonald's",
-      "distance": "0.4 mi",
-      "url": "https://www.google.com/maps/search/?api=1&query=McDonald's&query_place_id=ChIJH9gTpvYvPYgRmgetwTfuUrI&center=42.262870899999996,-84.42290520000002"
-    },
-    {
-      "name": "McDonald's",
-      "distance": "1.0 mi",
-      "url": "https://www.google.com/maps/search/?api=1&query=McDonald's&query_place_id=ChIJ39s8IE0lPYgR92FSYE6l_Yg&center=42.2471204,-84.4370663"
     }
   ],
   "team_lunch": [
@@ -167,21 +137,6 @@
   ],
   "hotels": [
     {
-      "name": "Beautiful newly renovated entire space in the heart of Jackson!",
-      "distance": "0.4 mi",
-      "url": "https://www.google.com/maps/search/Beautiful%20newly%20renovated%20entire%20space%20in%20the%20heart%20of%20Jackson!+near+42.2598407%2C-84.4296609"
-    },
-    {
-      "name": "Updated Modern & Spacious 2 bed Apartment Near Everything!",
-      "distance": "0.6 mi",
-      "url": "https://www.google.com/maps/search/Updated%20Modern%20%26%20Spacious%202%20bed%20Apartment%20Near%20Everything!+near+42.2598407%2C-84.4296609"
-    },
-    {
-      "name": "Updated Modern Spacious 2 bed Apartment Near Everything!",
-      "distance": "0.6 mi",
-      "url": "https://www.google.com/maps/search/Updated%20Modern%20Spacious%202%20bed%20Apartment%20Near%20Everything!+near+42.2598407%2C-84.4296609"
-    },
-    {
       "name": "Comfortable Staying Here 2",
       "distance": "0.7 mi",
       "url": "https://www.google.com/maps/search/Comfortable%20Staying%20Here%202+near+42.2598407%2C-84.4296609"
@@ -195,11 +150,6 @@
       "name": "Americas Best Value Inn & Suites Jackson, MI",
       "distance": "0.8 mi",
       "url": "https://www.google.com/maps/search/Americas%20Best%20Value%20Inn%20%26%20Suites%20Jackson%2C%20MI+near+42.2598407%2C-84.4296609"
-    },
-    {
-      "name": "Stunning Grass Lake Duplex - Sleeps 8",
-      "distance": "0.9 mi",
-      "url": "https://www.google.com/maps/search/Stunning%20Grass%20Lake%20Duplex%20-%20Sleeps%208+near+42.2598407%2C-84.4296609"
     }
   ],
   "gas": [
@@ -222,11 +172,6 @@
       "name": "Admiral Petroleum Co",
       "distance": "0.3 mi",
       "url": "https://www.google.com/maps/search/Admiral%20Petroleum%20Co+near+42.2598407%2C-84.4296609"
-    },
-    {
-      "name": "Speedway",
-      "distance": "0.3 mi",
-      "url": "https://www.google.com/maps/search/Speedway+near+42.2598407%2C-84.4296609"
     }
   ]
 }

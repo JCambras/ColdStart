@@ -29,20 +29,9 @@
       "name": "KFC",
       "distance": "0.6 mi",
       "url": "https://www.google.com/maps/search/KFC+near+28.0534999%2C-81.9405032"
-    },
-    {
-      "name": "Krystal",
-      "distance": "0.6 mi",
-      "url": "https://www.google.com/maps/search/Krystal+near+28.0534999%2C-81.9405032"
     }
   ],
-  "coffee": [
-    {
-      "name": "McDonald's",
-      "distance": "0.6 mi",
-      "url": "https://www.google.com/maps/search/McDonald's+near+28.0534999%2C-81.9405032"
-    }
-  ],
+  "coffee": [],
   "team_lunch": [
     {
       "name": "Hibachi Buffet",
@@ -85,11 +74,6 @@
       "name": "Barside Sports",
       "distance": "0.5 mi",
       "url": "https://www.google.com/maps/search/Barside%20Sports+near+28.0534999%2C-81.9405032"
-    },
-    {
-      "name": "Strawberry Hut",
-      "distance": "0.5 mi",
-      "url": "https://www.google.com/maps/search/Strawberry%20Hut+near+28.0534999%2C-81.9405032"
     }
   ],
   "bowling": [
@@ -146,19 +130,9 @@
       "url": "https://www.google.com/maps/search/Economyinn%20of%20Lakeland5+near+28.0534999%2C-81.9405032"
     },
     {
-      "name": "1244 Y1 cozy LakelandTownCenter MedicalCenter",
-      "distance": "0.2 mi",
-      "url": "https://www.google.com/maps/search/1244%20Y1%20cozy%20LakelandTownCenter%20MedicalCenter+near+28.0534999%2C-81.9405032"
-    },
-    {
       "name": "Blue Cottage On Parker- by CasaDuran",
       "distance": "0.2 mi",
       "url": "https://www.google.com/maps/search/Blue%20Cottage%20On%20Parker-%20by%20CasaDuran+near+28.0534999%2C-81.9405032"
-    },
-    {
-      "name": "Lakefront & Minutes from Tigertown - Perfect for Baseball Spring Training Fans",
-      "distance": "0.3 mi",
-      "url": "https://www.google.com/maps/search/Lakefront%20%26%20Minutes%20from%20Tigertown%20-%20Perfect%20for%20Baseball%20Spring%20Training%20Fans+near+28.0534999%2C-81.9405032"
     },
     {
       "name": "Paramount Lakeside Inn & Suites",
@@ -169,11 +143,6 @@
       "name": "Lakeview motel",
       "distance": "0.4 mi",
       "url": "https://www.google.com/maps/search/Lakeview%20motel+near+28.0534999%2C-81.9405032"
-    },
-    {
-      "name": "Hilltop Mobile Home Park",
-      "distance": "0.4 mi",
-      "url": "https://www.google.com/maps/search/Hilltop%20Mobile%20Home%20Park+near+28.0534999%2C-81.9405032"
     }
   ],
   "gas": [
@@ -196,11 +165,6 @@
       "name": "Circle K | Gas Station",
       "distance": "1.3 mi",
       "url": "https://www.google.com/maps/search/Circle%20K%20%7C%20Gas%20Station+near+28.0534999%2C-81.9405032"
-    },
-    {
-      "name": "bp",
-      "distance": "1.6 mi",
-      "url": "https://www.google.com/maps/search/bp+near+28.0534999%2C-81.9405032"
     }
   ]
 }

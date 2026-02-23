@@ -29,11 +29,6 @@
       "name": "Subway",
       "distance": "0.6 mi",
       "url": "https://www.google.com/maps/search/Subway+near+34.2804931%2C-118.8020869"
-    },
-    {
-      "name": "Urbane Cafe",
-      "distance": "0.6 mi",
-      "url": "https://www.google.com/maps/search/Urbane%20Cafe+near+34.2804931%2C-118.8020869"
     }
   ],
   "coffee": [
@@ -58,11 +53,6 @@
       "name": "Chili's Grill & Bar",
       "distance": "0.4 mi",
       "url": "https://www.google.com/maps/search/Chili's%20Grill%20%26%20Bar+near+34.2804931%2C-118.8020869"
-    },
-    {
-      "name": "Costco Bakery",
-      "distance": "0.4 mi",
-      "url": "https://www.google.com/maps/search/Costco%20Bakery+near+34.2804931%2C-118.8020869"
     },
     {
       "name": "K-bowl",
@@ -123,12 +113,6 @@
       "name": "Harley's Valley Bowl",
       "distance": "6.4 mi",
       "url": "https://www.google.com/maps/search/Harley's%20Valley%20Bowl+near+34.2804931%2C-118.8020869",
-      "isFar": true
-    },
-    {
-      "name": "Sunset bowling Lanes",
-      "distance": "8.0 mi",
-      "url": "https://www.google.com/maps/search/Sunset%20bowling%20Lanes+near+34.2804931%2C-118.8020869",
       "isFar": true
     }
   ],
@@ -194,19 +178,9 @@
       "url": "https://www.google.com/maps/search/Courtyard%20by%20Marriott%20Ventura%20Simi%20Valley+near+34.2804931%2C-118.8020869"
     },
     {
-      "name": "Quiet Simi Valley Home w/ Patio Pool Access! - Apartment (3 Bedrooms)",
-      "distance": "0.8 mi",
-      "url": "https://www.google.com/maps/search/Quiet%20Simi%20Valley%20Home%20w%2F%20Patio%20Pool%20Access!%20-%20Apartment%20(3%20Bedrooms)+near+34.2804931%2C-118.8020869"
-    },
-    {
       "name": "Best Western Posada Royale Hotel & Suites",
       "distance": "0.8 mi",
       "url": "https://www.google.com/maps/search/Best%20Western%20Posada%20Royale%20Hotel%20%26%20Suites+near+34.2804931%2C-118.8020869"
-    },
-    {
-      "name": "Emeric Ave in Simi Valley - Four-Bedroom House",
-      "distance": "1.1 mi",
-      "url": "https://www.google.com/maps/search/Emeric%20Ave%20in%20Simi%20Valley%20-%20Four-Bedroom%20House+near+34.2804931%2C-118.8020869"
     }
   ],
   "gas": [
@@ -229,11 +203,6 @@
       "name": "Costco Gas Station",
       "distance": "0.5 mi",
       "url": "https://www.google.com/maps/search/Costco%20Gas%20Station+near+34.2804931%2C-118.8020869"
-    },
-    {
-      "name": "ARCO",
-      "distance": "0.7 mi",
-      "url": "https://www.google.com/maps/search/ARCO+near+34.2804931%2C-118.8020869"
     }
   ]
 }

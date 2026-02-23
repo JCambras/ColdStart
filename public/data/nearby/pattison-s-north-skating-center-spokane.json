@@ -29,11 +29,6 @@
       "name": "Papa Murphy's | Take 'N' Bake Pizza",
       "distance": "0.6 mi",
       "url": "https://www.google.com/maps/search/Papa%20Murphy's%20%7C%20Take%20'N'%20Bake%20Pizza+near+47.7603498%2C-117.4102649"
-    },
-    {
-      "name": "Jack in the Box",
-      "distance": "0.7 mi",
-      "url": "https://www.google.com/maps/search/Jack%20in%20the%20Box+near+47.7603498%2C-117.4102649"
     }
   ],
   "coffee": [
@@ -61,16 +56,6 @@
       "name": "Sweet Frostings Blissful Bakeshop",
       "distance": "0.6 mi",
       "url": "https://www.google.com/maps/search/Sweet%20Frostings%20Blissful%20Bakeshop+near+47.7603498%2C-117.4102649"
-    },
-    {
-      "name": "Starbucks Coffee Company",
-      "distance": "0.6 mi",
-      "url": "https://www.google.com/maps/search/Starbucks%20Coffee%20Company+near+47.7603498%2C-117.4102649"
-    },
-    {
-      "name": "The Pines Cafe at Whitworth",
-      "distance": "0.6 mi",
-      "url": "https://www.google.com/maps/search/The%20Pines%20Cafe%20at%20Whitworth+near+47.7603498%2C-117.4102649"
     }
   ],
   "team_lunch": [],
@@ -126,12 +111,6 @@
       "distance": "4.0 mi",
       "url": "https://www.google.com/maps/search/Regal%20Northtown%20Mall+near+47.7603498%2C-117.4102649",
       "isFar": true
-    },
-    {
-      "name": "Garland Theater",
-      "distance": "4.7 mi",
-      "url": "https://www.google.com/maps/search/Garland%20Theater+near+47.7603498%2C-117.4102649",
-      "isFar": true
     }
   ],
   "fun": [
@@ -149,39 +128,14 @@
   ],
   "hotels": [
     {
-      "name": "4-bed 2.5 bathroom in North Spokane with fitness room, WiFi, AC",
-      "distance": "0.2 mi",
-      "url": "https://www.google.com/maps/search/4-bed%202.5%20bathroom%20in%20North%20Spokane%20with%20fitness%20room%2C%20WiFi%2C%20AC+near+47.7603498%2C-117.4102649"
-    },
-    {
-      "name": "4-bed 2.5 bathroom in North Spokane with fitness room, WiFi, AC",
-      "distance": "0.2 mi",
-      "url": "https://www.google.com/maps/search/4-bed%202.5%20bathroom%20in%20North%20Spokane%20with%20fitness%20room%2C%20WiFi%2C%20AC+near+47.7603498%2C-117.4102649"
-    },
-    {
       "name": "Near Whitworth University, quiet, dead end street",
       "distance": "0.2 mi",
       "url": "https://www.google.com/maps/search/Near%20Whitworth%20University%2C%20quiet%2C%20dead%20end%20street+near+47.7603498%2C-117.4102649"
     },
     {
-      "name": "4-bed 2.5 bathroom in North Spokane with treadmill, WiFi, AC",
-      "distance": "0.2 mi",
-      "url": "https://www.google.com/maps/search/4-bed%202.5%20bathroom%20in%20North%20Spokane%20with%20treadmill%2C%20WiFi%2C%20AC+near+47.7603498%2C-117.4102649"
-    },
-    {
       "name": "Beautiful Modern Home - Heated Indoor Pool",
       "distance": "0.3 mi",
       "url": "https://www.google.com/maps/search/Beautiful%20Modern%20Home%20-%20Heated%20Indoor%20Pool+near+47.7603498%2C-117.4102649"
-    },
-    {
-      "name": "Charming 3-bedroom Townhouse in North Spokane",
-      "distance": "0.3 mi",
-      "url": "https://www.google.com/maps/search/Charming%203-bedroom%20Townhouse%20in%20North%20Spokane+near+47.7603498%2C-117.4102649"
-    },
-    {
-      "name": "Charming 3-bedroom Townhouse in North Spokane",
-      "distance": "0.3 mi",
-      "url": "https://www.google.com/maps/search/Charming%203-bedroom%20Townhouse%20in%20North%20Spokane+near+47.7603498%2C-117.4102649"
     }
   ],
   "gas": [
@@ -204,11 +158,6 @@
       "name": "Safeway Fuel Station",
       "distance": "0.8 mi",
       "url": "https://www.google.com/maps/search/Safeway%20Fuel%20Station+near+47.7603498%2C-117.4102649"
-    },
-    {
-      "name": "Circle K",
-      "distance": "1.0 mi",
-      "url": "https://www.google.com/maps/search/Circle%20K+near+47.7603498%2C-117.4102649"
     }
   ]
 }

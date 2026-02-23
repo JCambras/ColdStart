@@ -29,26 +29,6 @@
       "name": "Dairy Queen Store",
       "distance": "1.2 mi",
       "url": "https://www.google.com/maps/search/?api=1&query=Dairy%20Queen%20Store&query_place_id=ChIJKz5h_jmeF4gRUXxYzhPZzb8&center=42.2013269,-85.58674429999999"
-    },
-    {
-      "name": "Subway",
-      "distance": "1.4 mi",
-      "url": "https://www.google.com/maps/search/?api=1&query=Subway&query_place_id=ChIJx1ZsjUWeF4gRuYTkizJ6FJk&center=42.2006316,-85.5752926"
-    },
-    {
-      "name": "Jimmy John's",
-      "distance": "1.6 mi",
-      "url": "https://www.google.com/maps/search/?api=1&query=Jimmy%20John's&query_place_id=ChIJqdHgWDyeF4gRrpp78S3kjv0&center=42.2078223,-85.588797"
-    },
-    {
-      "name": "Sonic Drive-In",
-      "distance": "2.1 mi",
-      "url": "https://www.google.com/maps/search/?api=1&query=Sonic%20Drive-In&query_place_id=ChIJ-Y5fVheeF4gR3RZVqtykwD0&center=42.2150384,-85.59249969999999"
-    },
-    {
-      "name": "Subway",
-      "distance": "2.3 mi",
-      "url": "https://www.google.com/maps/search/?api=1&query=Subway&query_place_id=ChIJq8gErqx1F4gRquIRSrTmITY&center=42.198705499999996,-85.63548519999999"
     }
   ],
   "coffee": [
@@ -66,24 +46,9 @@
       "name": "Chocolatea",
       "distance": "1.4 mi",
       "url": "https://www.google.com/maps/search/?api=1&query=Chocolatea&query_place_id=ChIJnZuOgTueF4gRhWryJV3TX_Q&center=42.2055693,-85.5898224"
-    },
-    {
-      "name": "McDonald's",
-      "distance": "2.0 mi",
-      "url": "https://www.google.com/maps/search/?api=1&query=McDonald's&query_place_id=ChIJeXN-9PeeF4gRAueUbZVAjDE&center=42.200246799999995,-85.5607615"
-    },
-    {
-      "name": "McDonald's",
-      "distance": "2.2 mi",
-      "url": "https://www.google.com/maps/search/?api=1&query=McDonald's&query_place_id=ChIJ2WbQIRGeF4gRkVqYzH8Bh1E&center=42.216507899999996,-85.5886392"
     }
   ],
   "team_lunch": [
-    {
-      "name": "Walmart Bakery",
-      "distance": "0.7 mi",
-      "url": "https://www.google.com/maps/search/?api=1&query=Walmart%20Bakery&query_place_id=ChIJq6raqiueF4gRCvbCGah5dNE&center=42.1940925,-85.5997529"
-    },
     {
       "name": "Landmark Breads",
       "distance": "1.4 mi",
@@ -130,11 +95,6 @@
       "name": "Alibi - Breakfast, Lunch, Dinner, Bar and Catering",
       "distance": "1.0 mi",
       "url": "https://www.google.com/maps/search/Alibi%20-%20Breakfast%2C%20Lunch%2C%20Dinner%2C%20Bar%20and%20Catering+near+42.1853172%2C-85.59459410000001"
-    },
-    {
-      "name": "Bab El Salam Restaurant",
-      "distance": "1.1 mi",
-      "url": "https://www.google.com/maps/search/Bab%20El%20Salam%20Restaurant+near+42.1853172%2C-85.59459410000001"
     }
   ],
   "bowling": [
@@ -181,12 +141,6 @@
       "distance": "3.9 mi",
       "url": "https://www.google.com/maps/search/Escapology%20Escape%20Rooms%20Portage+near+42.1853172%2C-85.59459410000001",
       "isFar": true
-    },
-    {
-      "name": "Airborne Adventure Park - Kalamazoo, MI",
-      "distance": "4.5 mi",
-      "url": "https://www.google.com/maps/search/Airborne%20Adventure%20Park%20-%20Kalamazoo%2C%20MI+near+42.1853172%2C-85.59459410000001",
-      "isFar": true
     }
   ],
   "hotels": [
@@ -194,16 +148,6 @@
       "name": "Renovated Cottage in Portage",
       "distance": "1.0 mi",
       "url": "https://www.google.com/maps/search/Renovated%20Cottage%20in%20Portage+near+42.1853172%2C-85.59459410000001"
-    },
-    {
-      "name": "Lakeside Retreat with Office and Stunning Views! - Holiday Home",
-      "distance": "1.5 mi",
-      "url": "https://www.google.com/maps/search/Lakeside%20Retreat%20with%20Office%20and%20Stunning%20Views!%20-%20Holiday%20Home+near+42.1853172%2C-85.59459410000001"
-    },
-    {
-      "name": "Pet Friendly Getaway Skoolie",
-      "distance": "1.5 mi",
-      "url": "https://www.google.com/maps/search/Pet%20Friendly%20Getaway%20Skoolie+near+42.1853172%2C-85.59459410000001"
     },
     {
       "name": "Streamsong",
@@ -214,16 +158,6 @@
       "name": "Oakland",
       "distance": "1.6 mi",
       "url": "https://www.google.com/maps/search/Oakland+near+42.1853172%2C-85.59459410000001"
-    },
-    {
-      "name": "Charming 3bd 1bth house w/ bsmt and polebarn also pet friendly in Portage MI",
-      "distance": "1.6 mi",
-      "url": "https://www.google.com/maps/search/Charming%203bd%201bth%20house%20w%2F%20bsmt%20and%20polebarn%20also%20pet%20friendly%20in%20Portage%20MI+near+42.1853172%2C-85.59459410000001"
-    },
-    {
-      "name": "Charming 3bd 1bth house w / bsmt and polebarn also pet friendly in Portage MI",
-      "distance": "1.7 mi",
-      "url": "https://www.google.com/maps/search/Charming%203bd%201bth%20house%20w%20%2F%20bsmt%20and%20polebarn%20also%20pet%20friendly%20in%20Portage%20MI+near+42.1853172%2C-85.59459410000001"
     }
   ],
   "gas": [
@@ -246,11 +180,6 @@
       "name": "CITGO",
       "distance": "1.5 mi",
       "url": "https://www.google.com/maps/search/CITGO+near+42.1853172%2C-85.59459410000001"
-    },
-    {
-      "name": "bp",
-      "distance": "1.6 mi",
-      "url": "https://www.google.com/maps/search/bp+near+42.1853172%2C-85.59459410000001"
     }
   ]
 }

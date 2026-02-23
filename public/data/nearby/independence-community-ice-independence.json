@@ -29,11 +29,6 @@
       "name": "Subway",
       "distance": "0.4 mi",
       "url": "https://www.google.com/maps/search/Subway+near+39.0394248%2C-94.35796839999999"
-    },
-    {
-      "name": "Chuck E. Cheese",
-      "distance": "0.6 mi",
-      "url": "https://www.google.com/maps/search/Chuck%20E.%20Cheese+near+39.0394248%2C-94.35796839999999"
     }
   ],
   "coffee": [
@@ -77,11 +72,6 @@
   ],
   "dinner": [
     {
-      "name": "Costco Bakery",
-      "distance": "0.2 mi",
-      "url": "https://www.google.com/maps/search/Costco%20Bakery+near+39.0394248%2C-94.35796839999999"
-    },
-    {
       "name": "Thai Spice Independence",
       "distance": "0.4 mi",
       "url": "https://www.google.com/maps/search/Thai%20Spice%20Independence+near+39.0394248%2C-94.35796839999999"
@@ -118,12 +108,6 @@
       "name": "Blue Springs Bowl",
       "distance": "4.7 mi",
       "url": "https://www.google.com/maps/search/Blue%20Springs%20Bowl+near+39.0394248%2C-94.35796839999999",
-      "isFar": true
-    },
-    {
-      "name": "Diamond Bowl & Billiards",
-      "distance": "5.0 mi",
-      "url": "https://www.google.com/maps/search/Diamond%20Bowl%20%26%20Billiards+near+39.0394248%2C-94.35796839999999",
       "isFar": true
     }
   ],
@@ -200,11 +184,6 @@
       "name": "Staybridge Suites Kansas City-Independence by IHG",
       "distance": "0.6 mi",
       "url": "https://www.google.com/maps/search/Staybridge%20Suites%20Kansas%20City-Independence%20by%20IHG+near+39.0394248%2C-94.35796839999999"
-    },
-    {
-      "name": "Comfort Suites Independence - Kansas City",
-      "distance": "0.6 mi",
-      "url": "https://www.google.com/maps/search/Comfort%20Suites%20Independence%20-%20Kansas%20City+near+39.0394248%2C-94.35796839999999"
     }
   ],
   "gas": [
@@ -221,16 +200,6 @@
     {
       "name": "QuikTrip",
       "distance": "0.5 mi",
-      "url": "https://www.google.com/maps/search/QuikTrip+near+39.0394248%2C-94.35796839999999"
-    },
-    {
-      "name": "QuikTrip",
-      "distance": "0.8 mi",
-      "url": "https://www.google.com/maps/search/QuikTrip+near+39.0394248%2C-94.35796839999999"
-    },
-    {
-      "name": "QuikTrip",
-      "distance": "1.0 mi",
       "url": "https://www.google.com/maps/search/QuikTrip+near+39.0394248%2C-94.35796839999999"
     }
   ]

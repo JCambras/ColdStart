@@ -69,11 +69,6 @@
       "name": "El Segundo Vail",
       "distance": "0.1 mi",
       "url": "https://www.google.com/maps/search/El%20Segundo%20Vail+near+39.642272%2C-106.37563440000001"
-    },
-    {
-      "name": "Up the Creek",
-      "distance": "0.1 mi",
-      "url": "https://www.google.com/maps/search/Up%20the%20Creek+near+39.642272%2C-106.37563440000001"
     }
   ],
   "bowling": [
@@ -93,43 +88,7 @@
       "isFar": true
     }
   ],
-  "hotels": [
-    {
-      "name": "Solaris 6G East - 4 Bedroom",
-      "distance": "0.1 mi",
-      "url": "https://www.google.com/maps/search/Solaris%206G%20East%20-%204%20Bedroom+near+39.642272%2C-106.37563440000001"
-    },
-    {
-      "name": "Solaris 7A East - 4 Bedroom + Den",
-      "distance": "0.1 mi",
-      "url": "https://www.google.com/maps/search/Solaris%207A%20East%20-%204%20Bedroom%20%2B%20Den+near+39.642272%2C-106.37563440000001"
-    },
-    {
-      "name": "Solaris 6E West - 2 Bedroom + Den",
-      "distance": "0.1 mi",
-      "url": "https://www.google.com/maps/search/Solaris%206E%20West%20-%202%20Bedroom%20%2B%20Den+near+39.642272%2C-106.37563440000001"
-    },
-    {
-      "name": "Solaris 6A West - 4 Bedroom + Den",
-      "distance": "0.1 mi",
-      "url": "https://www.google.com/maps/search/Solaris%206A%20West%20-%204%20Bedroom%20%2B%20Den+near+39.642272%2C-106.37563440000001"
-    },
-    {
-      "name": "Solaris 5B East - 4 Bedroom",
-      "distance": "0.1 mi",
-      "url": "https://www.google.com/maps/search/Solaris%205B%20East%20-%204%20Bedroom+near+39.642272%2C-106.37563440000001"
-    },
-    {
-      "name": "Solaris 6D East - 4 Bedroom + Den",
-      "distance": "0.1 mi",
-      "url": "https://www.google.com/maps/search/Solaris%206D%20East%20-%204%20Bedroom%20%2B%20Den+near+39.642272%2C-106.37563440000001"
-    },
-    {
-      "name": "Solaris 3E East - 2BR + Den",
-      "distance": "0.1 mi",
-      "url": "https://www.google.com/maps/search/Solaris%203E%20East%20-%202BR%20%2B%20Den+near+39.642272%2C-106.37563440000001"
-    }
-  ],
+  "hotels": [],
   "gas": [
     {
       "name": "Conoco",

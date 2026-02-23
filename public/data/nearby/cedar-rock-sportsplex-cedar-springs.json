@@ -29,26 +29,6 @@
       "name": "Subway",
       "distance": "2.4 mi",
       "url": "https://www.google.com/maps/search/?api=1&query=Subway&query_place_id=ChIJJzvlzxv9GIgRcOi7m9cF5bE&center=43.2195907,-85.568266"
-    },
-    {
-      "name": "Little Caesars Pizza",
-      "distance": "2.4 mi",
-      "url": "https://www.google.com/maps/search/?api=1&query=Little%20Caesars%20Pizza&query_place_id=ChIJJzvlzxv9GIgRDJHyhRJ9Uss&center=43.21982,-85.56817699999999"
-    },
-    {
-      "name": "Arby's",
-      "distance": "2.4 mi",
-      "url": "https://www.google.com/maps/search/?api=1&query=Arby's&query_place_id=ChIJ9_IKJBr9GIgRWQZntGyEhGY&center=43.2194313,-85.56972669999999"
-    },
-    {
-      "name": "Burger King",
-      "distance": "2.5 mi",
-      "url": "https://www.google.com/maps/search/?api=1&query=Burger%20King&query_place_id=ChIJxRnyjxn9GIgR8yY7pxGa8WY&center=43.220323900000004,-85.56950030000002"
-    },
-    {
-      "name": "Wendy's",
-      "distance": "2.5 mi",
-      "url": "https://www.google.com/maps/search/?api=1&query=Wendy's&query_place_id=ChIJHUA64xn9GIgRadLe93grdOo&center=43.2205759,-85.5717138"
     }
   ],
   "coffee": [
@@ -61,17 +41,6 @@
       "name": "Tim Hortons",
       "distance": "1.5 mi",
       "url": "https://www.google.com/maps/search/?api=1&query=Tim%20Hortons&query_place_id=ChIJzy7Xipf9GIgRedXwXZHQ8Nk&center=43.1749089,-85.5791988"
-    },
-    {
-      "name": "McDonald's",
-      "distance": "2.5 mi",
-      "url": "https://www.google.com/maps/search/?api=1&query=McDonald's&query_place_id=ChIJpWEyXBn9GIgR4XotuHotaZ8&center=43.220318,-85.567689"
-    },
-    {
-      "name": "McDonald's",
-      "distance": "4.8 mi",
-      "url": "https://www.google.com/maps/search/?api=1&query=McDonald's&query_place_id=ChIJo2ytmxD_GIgRmXfUiTd43vM&center=43.1168832,-85.5473399",
-      "isFar": true
     }
   ],
   "team_lunch": [
@@ -166,11 +135,6 @@
   ],
   "hotels": [
     {
-      "name": "Team house! Spacious 7-bedroom house, fitness room and WiFi in lovely Rockford",
-      "distance": "0.8 mi",
-      "url": "https://www.google.com/maps/search/Team%20house!%20Spacious%207-bedroom%20house%2C%20fitness%20room%20and%20WiFi%20in%20lovely%20Rockford+near+43.1863889%2C-85.5527778"
-    },
-    {
       "name": "Northland Estates Inc",
       "distance": "1.5 mi",
       "url": "https://www.google.com/maps/search/Northland%20Estates%20Inc+near+43.1863889%2C-85.5527778"
@@ -191,11 +155,6 @@
       "url": "https://www.google.com/maps/search/Algoma%20Estates%20Manufactured%20Home%20Community+near+43.1863889%2C-85.5527778"
     },
     {
-      "name": "Cedarfield Mobile Home Park",
-      "distance": "2.5 mi",
-      "url": "https://www.google.com/maps/search/Cedarfield%20Mobile%20Home%20Park+near+43.1863889%2C-85.5527778"
-    },
-    {
       "name": "Holiday Inn Express & Suites Cedar Springs – Grand Rapids N",
       "distance": "2.7 mi",
       "url": "https://www.google.com/maps/search/Holiday%20Inn%20Express%20%26%20Suites%20Cedar%20Springs%20%E2%80%93%20Grand%20Rapids%20N+near+43.1863889%2C-85.5527778"
@@ -211,11 +170,6 @@
       "name": "J&H Family Stores",
       "distance": "0.5 mi",
       "url": "https://www.google.com/maps/search/J%26H%20Family%20Stores+near+43.1863889%2C-85.5527778"
-    },
-    {
-      "name": "Mobil",
-      "distance": "1.6 mi",
-      "url": "https://www.google.com/maps/search/Mobil+near+43.1863889%2C-85.5527778"
     },
     {
       "name": "Marathon Admiral",

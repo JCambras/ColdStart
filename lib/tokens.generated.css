@@ -61,6 +61,18 @@
   --colors-heroBg: #0f1923;
   --colors-heroMid: #1a2d3d;
   --colors-heroLight: #1e3344;
+  --colors-heroTextPrimary: #ffffff;
+  --colors-heroTextSecondary: rgba(255,255,255,0.85);
+  --colors-heroTextMuted: rgba(255,255,255,0.75);
+  --colors-heroOverlay: rgba(15,25,35,0.72);
+  --colors-heroOverlayMid: rgba(26,45,61,0.65);
+  --colors-heroOverlayLight: rgba(30,51,68,0.6);
+  --colors-heroOverlayRadial: rgba(15,25,35,0.25);
+  --colors-heroBadgeBg: rgba(255,255,255,0.2);
+  --colors-heroBadgeBgMuted: rgba(255,255,255,0.08);
+  --colors-heroBadgeBorder: rgba(255,255,255,0.15);
+  --colors-heroFocusRing: rgba(255,255,255,0.4);
+  --colors-heroMenuLine: rgba(255,255,255,0.7);
 
   /* text */
   --text-2xs: 10px;

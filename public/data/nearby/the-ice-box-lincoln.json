@@ -29,11 +29,6 @@
       "name": "Runza Restaurant",
       "distance": "0.6 mi",
       "url": "https://www.google.com/maps/search/Runza%20Restaurant+near+40.8324965%2C-96.69726299999999"
-    },
-    {
-      "name": "Taco Inn",
-      "distance": "0.6 mi",
-      "url": "https://www.google.com/maps/search/Taco%20Inn+near+40.8324965%2C-96.69726299999999"
     }
   ],
   "coffee": [
@@ -46,11 +41,6 @@
       "name": "Good Life Coffee Shop",
       "distance": "0.3 mi",
       "url": "https://www.google.com/maps/search/Good%20Life%20Coffee%20Shop+near+40.8324965%2C-96.69726299999999"
-    },
-    {
-      "name": "McDonald's",
-      "distance": "0.6 mi",
-      "url": "https://www.google.com/maps/search/McDonald's+near+40.8324965%2C-96.69726299999999"
     },
     {
       "name": "Reactor",
@@ -122,18 +112,6 @@
       "name": "Hollywood Bowl",
       "distance": "2.4 mi",
       "url": "https://www.google.com/maps/search/Hollywood%20Bowl+near+40.8324965%2C-96.69726299999999"
-    },
-    {
-      "name": "Round1 Bowling & Arcade Gateway Mall",
-      "distance": "3.5 mi",
-      "url": "https://www.google.com/maps/search/Round1%20Bowling%20%26%20Arcade%20Gateway%20Mall+near+40.8324965%2C-96.69726299999999",
-      "isFar": true
-    },
-    {
-      "name": "Parkway Lanes / 48 Bowl",
-      "distance": "3.9 mi",
-      "url": "https://www.google.com/maps/search/Parkway%20Lanes%20%2F%2048%20Bowl+near+40.8324965%2C-96.69726299999999",
-      "isFar": true
     }
   ],
   "arcade": [],
@@ -152,12 +130,6 @@
       "name": "Joyo Theater",
       "distance": "3.6 mi",
       "url": "https://www.google.com/maps/search/Joyo%20Theater+near+40.8324965%2C-96.69726299999999",
-      "isFar": true
-    },
-    {
-      "name": "Marcus East Park Cinema",
-      "distance": "3.8 mi",
-      "url": "https://www.google.com/maps/search/Marcus%20East%20Park%20Cinema+near+40.8324965%2C-96.69726299999999",
       "isFar": true
     }
   ],
@@ -183,12 +155,6 @@
       "distance": "3.4 mi",
       "url": "https://www.google.com/maps/search/Escape%20De%20Facto%20%2F%20Escape%20Room+near+40.8324965%2C-96.69726299999999",
       "isFar": true
-    },
-    {
-      "name": "Entrap Escape Rooms",
-      "distance": "4.0 mi",
-      "url": "https://www.google.com/maps/search/Entrap%20Escape%20Rooms+near+40.8324965%2C-96.69726299999999",
-      "isFar": true
     }
   ],
   "hotels": [
@@ -203,16 +169,6 @@
       "url": "https://www.google.com/maps/search/The%20Iron%20Ore%20House%2C%20BRAND%20NEW!+near+40.8324965%2C-96.69726299999999"
     },
     {
-      "name": "NEW BUILD Spacious Sleeps 10 Close to downtown - Family Room",
-      "distance": "0.3 mi",
-      "url": "https://www.google.com/maps/search/NEW%20BUILD%20Spacious%20Sleeps%2010%20Close%20to%20downtown%20-%20Family%20Room+near+40.8324965%2C-96.69726299999999"
-    },
-    {
-      "name": "NEW Group Reunion Both Sides Sleeps 20 Central - Family Room",
-      "distance": "0.3 mi",
-      "url": "https://www.google.com/maps/search/NEW%20Group%20Reunion%20Both%20Sides%20Sleeps%2020%20Central%20-%20Family%20Room+near+40.8324965%2C-96.69726299999999"
-    },
-    {
       "name": "The Iron Ore House II",
       "distance": "0.3 mi",
       "url": "https://www.google.com/maps/search/The%20Iron%20Ore%20House%20II+near+40.8324965%2C-96.69726299999999"
@@ -221,11 +177,6 @@
       "name": "GameDay Headquarters",
       "distance": "0.3 mi",
       "url": "https://www.google.com/maps/search/GameDay%20Headquarters+near+40.8324965%2C-96.69726299999999"
-    },
-    {
-      "name": "Our Pink House - One-Bedroom House",
-      "distance": "0.3 mi",
-      "url": "https://www.google.com/maps/search/Our%20Pink%20House%20-%20One-Bedroom%20House+near+40.8324965%2C-96.69726299999999"
     }
   ],
   "gas": [
@@ -248,11 +199,6 @@
       "name": "PHILLIPS 66",
       "distance": "1.2 mi",
       "url": "https://www.google.com/maps/search/PHILLIPS%2066+near+40.8324965%2C-96.69726299999999"
-    },
-    {
-      "name": "NP MART N PetroMart",
-      "distance": "1.2 mi",
-      "url": "https://www.google.com/maps/search/NP%20MART%20N%20PetroMart+near+40.8324965%2C-96.69726299999999"
     }
   ]
 }

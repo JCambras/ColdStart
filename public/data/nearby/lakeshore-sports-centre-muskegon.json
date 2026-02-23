@@ -21,11 +21,6 @@
       "url": "https://www.google.com/maps/search/?api=1&query=Jersey%20Mike's%20Subs&query_place_id=ChIJUQ9X7F5_GYgR3u1K7KP7_xU&center=43.15482,-86.20418"
     },
     {
-      "name": "Olga's Mediterranean Kitchen (Inside Big Boy)",
-      "distance": "1.2 mi",
-      "url": "https://www.google.com/maps/search/?api=1&query=Olga's%20Mediterranean%20Kitchen%20(Inside%20Big%20Boy)&query_place_id=ChIJw5EOOoR_GYgRq15CPQAImqg&center=43.1546764,-86.2027987"
-    },
-    {
       "name": "Burger King",
       "distance": "1.2 mi",
       "url": "https://www.google.com/maps/search/?api=1&query=Burger%20King&query_place_id=ChIJL8jFaeF-GYgRf79haWYnlzI&center=43.153805899999995,-86.2010978"
@@ -34,21 +29,6 @@
       "name": "Taco Bell",
       "distance": "1.3 mi",
       "url": "https://www.google.com/maps/search/?api=1&query=Taco%20Bell&query_place_id=ChIJVbAgAON-GYgR3Mm0vPtHdto&center=43.1537064,-86.19871669999999"
-    },
-    {
-      "name": "Five Guys",
-      "distance": "1.3 mi",
-      "url": "https://www.google.com/maps/search/?api=1&query=Five%20Guys&query_place_id=ChIJEVp0zPx-GYgRDcWY6hRkBAs&center=43.1534486,-86.2064487"
-    },
-    {
-      "name": "Subway",
-      "distance": "1.4 mi",
-      "url": "https://www.google.com/maps/search/?api=1&query=Subway&query_place_id=ChIJJ1QuM_1-GYgRBg0Fd8y2U8Q&center=43.1521519,-86.2047339"
-    },
-    {
-      "name": "Arby's",
-      "distance": "1.5 mi",
-      "url": "https://www.google.com/maps/search/?api=1&query=Arby's&query_place_id=ChIJ6QaJrAJ_GYgRy8cO-0A_NTw&center=43.1504894,-86.20518249999999"
     }
   ],
   "coffee": [
@@ -66,11 +46,6 @@
       "name": "Community House",
       "distance": "1.1 mi",
       "url": "https://www.google.com/maps/search/?api=1&query=Community%20House&query_place_id=ChIJoZBv6Kh_GYgRIUEcDe7l2p4&center=43.1777465,-86.2206854"
-    },
-    {
-      "name": "McDonald's",
-      "distance": "1.2 mi",
-      "url": "https://www.google.com/maps/search/?api=1&query=McDonald's&query_place_id=ChIJwwerdON-GYgRrszM9V7_2Dk&center=43.154677799999995,-86.20342529999999"
     }
   ],
   "team_lunch": [
@@ -88,16 +63,6 @@
       "name": "Texas Roadhouse",
       "distance": "1.0 mi",
       "url": "https://www.google.com/maps/search/?api=1&query=Texas%20Roadhouse&query_place_id=ChIJ70tHy-R-GYgRVF8h1N2Gvcc&center=43.1570081,-86.2048652"
-    },
-    {
-      "name": "Sam's Club Bakery",
-      "distance": "2.1 mi",
-      "url": "https://www.google.com/maps/search/?api=1&query=Sam's%20Club%20Bakery&query_place_id=ChIJTepUujt8GYgRPz4KwC-VJdg&center=43.2021531,-86.20235389999999"
-    },
-    {
-      "name": "Walmart Bakery",
-      "distance": "2.1 mi",
-      "url": "https://www.google.com/maps/search/?api=1&query=Walmart%20Bakery&query_place_id=ChIJa9ZvRTx8GYgRV1H4C70sk9c&center=43.2027223,-86.1982426"
     }
   ],
   "dinner": [
@@ -130,11 +95,6 @@
       "name": "Aunt Millie's Bakery Outlet",
       "distance": "1.0 mi",
       "url": "https://www.google.com/maps/search/Aunt%20Millie's%20Bakery%20Outlet+near+43.171732999999996%2C-86.201118"
-    },
-    {
-      "name": "Greek Tony's Pizza & Sub Shop",
-      "distance": "1.0 mi",
-      "url": "https://www.google.com/maps/search/Greek%20Tony's%20Pizza%20%26%20Sub%20Shop+near+43.171732999999996%2C-86.201118"
     }
   ],
   "bowling": [
@@ -189,12 +149,6 @@
       "name": "Craig's Cruisers - Muskegon",
       "distance": "2.8 mi",
       "url": "https://www.google.com/maps/search/Craig's%20Cruisers%20-%20Muskegon+near+43.171732999999996%2C-86.201118"
-    },
-    {
-      "name": "Locked In Escape Rooms",
-      "distance": "3.7 mi",
-      "url": "https://www.google.com/maps/search/Locked%20In%20Escape%20Rooms+near+43.171732999999996%2C-86.201118",
-      "isFar": true
     }
   ],
   "hotels": [
@@ -227,11 +181,6 @@
       "name": "Bel Aire Motel",
       "distance": "0.6 mi",
       "url": "https://www.google.com/maps/search/Bel%20Aire%20Motel+near+43.171732999999996%2C-86.201118"
-    },
-    {
-      "name": "Belaire Motel",
-      "distance": "0.6 mi",
-      "url": "https://www.google.com/maps/search/Belaire%20Motel+near+43.171732999999996%2C-86.201118"
     }
   ],
   "gas": [
@@ -254,11 +203,6 @@
       "name": "Wesco",
       "distance": "2.1 mi",
       "url": "https://www.google.com/maps/search/Wesco+near+43.171732999999996%2C-86.201118"
-    },
-    {
-      "name": "Costco Gasoline",
-      "distance": "2.2 mi",
-      "url": "https://www.google.com/maps/search/Costco%20Gasoline+near+43.171732999999996%2C-86.201118"
     }
   ]
 }

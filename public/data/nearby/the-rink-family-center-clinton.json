@@ -29,19 +29,9 @@
       "name": "Waffle House",
       "distance": "0.9 mi",
       "url": "https://www.google.com/maps/search/Waffle%20House+near+34.9796403%2C-78.35126679999999"
-    },
-    {
-      "name": "Hardee's",
-      "distance": "0.9 mi",
-      "url": "https://www.google.com/maps/search/Hardee's+near+34.9796403%2C-78.35126679999999"
     }
   ],
   "coffee": [
-    {
-      "name": "McDonald's",
-      "distance": "0.8 mi",
-      "url": "https://www.google.com/maps/search/McDonald's+near+34.9796403%2C-78.35126679999999"
-    },
     {
       "name": "Starbucks Coffee Company",
       "distance": "0.8 mi",
@@ -72,11 +62,6 @@
   ],
   "dinner": [
     {
-      "name": "Walmart Bakery",
-      "distance": "0.6 mi",
-      "url": "https://www.google.com/maps/search/Walmart%20Bakery+near+34.9796403%2C-78.35126679999999"
-    },
-    {
       "name": "El Mazatlan",
       "distance": "0.7 mi",
       "url": "https://www.google.com/maps/search/El%20Mazatlan+near+34.9796403%2C-78.35126679999999"
@@ -102,11 +87,6 @@
   "movies": [],
   "fun": [],
   "hotels": [
-    {
-      "name": "Seven Gables Mobile Home Park",
-      "distance": "0.1 mi",
-      "url": "https://www.google.com/maps/search/Seven%20Gables%20Mobile%20Home%20Park+near+34.9796403%2C-78.35126679999999"
-    },
     {
       "name": "Comfort Inn Clinton",
       "distance": "0.9 mi",
@@ -158,11 +138,6 @@
       "name": "bp",
       "distance": "1.2 mi",
       "url": "https://www.google.com/maps/search/bp+near+34.9796403%2C-78.35126679999999"
-    },
-    {
-      "name": "Herring Brothers",
-      "distance": "1.9 mi",
-      "url": "https://www.google.com/maps/search/Herring%20Brothers+near+34.9796403%2C-78.35126679999999"
     }
   ]
 }

@@ -70,11 +70,6 @@
       "name": "La Joya Bar & Grill",
       "distance": "0.2 mi",
       "url": "https://www.google.com/maps/search/La%20Joya%20Bar%20%26%20Grill+near+34.9345496%2C-82.2267255"
-    },
-    {
-      "name": "Between The Buns",
-      "distance": "0.2 mi",
-      "url": "https://www.google.com/maps/search/Between%20The%20Buns+near+34.9345496%2C-82.2267255"
     }
   ],
   "bowling": [
@@ -93,12 +88,6 @@
       "name": "Wade Hampton Lanes",
       "distance": "6.0 mi",
       "url": "https://www.google.com/maps/search/Wade%20Hampton%20Lanes+near+34.9345496%2C-82.2267255",
-      "isFar": true
-    },
-    {
-      "name": "Spare Time Greenville",
-      "distance": "8.3 mi",
-      "url": "https://www.google.com/maps/search/Spare%20Time%20Greenville+near+34.9345496%2C-82.2267255",
       "isFar": true
     }
   ],
@@ -144,39 +133,14 @@
   ],
   "hotels": [
     {
-      "name": "The Westfield - Cozy Downtown Greer Retreat",
-      "distance": "0.1 mi",
-      "url": "https://www.google.com/maps/search/The%20Westfield%20-%20Cozy%20Downtown%20Greer%20Retreat+near+34.9345496%2C-82.2267255"
-    },
-    {
       "name": "Greer Rental",
       "distance": "0.2 mi",
       "url": "https://www.google.com/maps/search/Greer%20Rental+near+34.9345496%2C-82.2267255"
     },
     {
-      "name": "Modern Greer Retreat Walk to Historic Downtown!",
-      "distance": "0.2 mi",
-      "url": "https://www.google.com/maps/search/Modern%20Greer%20Retreat%20Walk%20to%20Historic%20Downtown!+near+34.9345496%2C-82.2267255"
-    },
-    {
-      "name": "This urban cottage is walkable to dining, shopping and more! Pet friendly",
-      "distance": "0.2 mi",
-      "url": "https://www.google.com/maps/search/This%20urban%20cottage%20is%20walkable%20to%20dining%2C%20shopping%20and%20more!%20Pet%20friendly+near+34.9345496%2C-82.2267255"
-    },
-    {
       "name": "This urban cottage is walkable to Greer’s dining, shopping, parks and more!",
       "distance": "0.2 mi",
       "url": "https://www.google.com/maps/search/This%20urban%20cottage%20is%20walkable%20to%20Greer%E2%80%99s%20dining%2C%20shopping%2C%20parks%20and%20more!+near+34.9345496%2C-82.2267255"
-    },
-    {
-      "name": "Charming Southern Cove - Heart of Downtown Greer",
-      "distance": "0.3 mi",
-      "url": "https://www.google.com/maps/search/Charming%20Southern%20Cove%20-%20Heart%20of%20Downtown%20Greer+near+34.9345496%2C-82.2267255"
-    },
-    {
-      "name": "Historic Home in Downtown Greer \\nShop,Eat & Sleep",
-      "distance": "0.3 mi",
-      "url": "https://www.google.com/maps/search/Historic%20Home%20in%20Downtown%20Greer%20%5CnShop%2CEat%20%26%20Sleep+near+34.9345496%2C-82.2267255"
     }
   ],
   "gas": [
@@ -199,11 +163,6 @@
       "name": "Spinx",
       "distance": "1.0 mi",
       "url": "https://www.google.com/maps/search/Spinx+near+34.9345496%2C-82.2267255"
-    },
-    {
-      "name": "Xpress Fuel",
-      "distance": "1.1 mi",
-      "url": "https://www.google.com/maps/search/Xpress%20Fuel+near+34.9345496%2C-82.2267255"
     }
   ]
 }

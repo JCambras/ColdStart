@@ -69,11 +69,11 @@ export function HeroSearch({
       {/* Dark overlay on top of photo */}
       <div style={{
         position: 'absolute', top: 0, left: 0, right: 0, bottom: 0, zIndex: 1,
-        background: `linear-gradient(135deg, rgba(15,25,35,0.72) 0%, rgba(26,45,61,0.65) 50%, rgba(30,51,68,0.6) 100%)`,
+        background: `linear-gradient(135deg, ${colors.heroOverlay} 0%, ${colors.heroOverlayMid} 50%, ${colors.heroOverlayLight} 100%)`,
       }} />
       <div style={{
         position: 'absolute', top: 0, left: 0, right: 0, bottom: 0, zIndex: 2,
-        background: 'radial-gradient(ellipse at 30% 50%, rgba(15,25,35,0.25) 0%, transparent 70%)',
+        background: `radial-gradient(ellipse at 30% 50%, ${colors.heroOverlayRadial} 0%, transparent 70%)`,
       }} />
 
       {/* Top bar */}
@@ -95,9 +95,9 @@ export function HeroSearch({
               minWidth: 44, minHeight: 44, alignItems: 'center', justifyContent: 'center',
             }}
           >
-            <span style={{ display: 'block', width: 20, height: 2, background: 'rgba(255,255,255,0.7)', borderRadius: 1 }} />
-            <span style={{ display: 'block', width: 20, height: 2, background: 'rgba(255,255,255,0.7)', borderRadius: 1 }} />
-            <span style={{ display: 'block', width: 20, height: 2, background: 'rgba(255,255,255,0.7)', borderRadius: 1 }} />
+            <span style={{ display: 'block', width: 20, height: 2, background: colors.heroMenuLine, borderRadius: 1 }} />
+            <span style={{ display: 'block', width: 20, height: 2, background: colors.heroMenuLine, borderRadius: 1 }} />
+            <span style={{ display: 'block', width: 20, height: 2, background: colors.heroMenuLine, borderRadius: 1 }} />
           </button>
           {menuOpen && (
             <div style={{
@@ -193,7 +193,7 @@ export function HeroSearch({
         </h1>
         <p style={{
           fontSize: isMobile ? 15 : 17,
-          fontWeight: 300, color: 'rgba(255,255,255,0.85)',
+          fontWeight: 300, color: colors.heroTextSecondary,
           lineHeight: 1.5, marginTop: 12,
           maxWidth: 480,
         }}>
@@ -207,7 +207,7 @@ export function HeroSearch({
             marginTop: 28, borderRadius: 9999,
             background: colors.surface,
             boxShadow: focused
-              ? `${shadow.xl}, 0 0 0 3px rgba(255,255,255,0.4)`
+              ? `${shadow.xl}, 0 0 0 3px ${colors.heroFocusRing}`
               : shadow.xl,
             transition: 'box-shadow 0.25s ease',
           }}
@@ -281,7 +281,7 @@ export function HeroSearch({
           <span style={{
             fontSize: 13, fontWeight: 600, padding: '5px 14px',
             borderRadius: 9999, cursor: 'default',
-            background: 'rgba(255,255,255,0.2)', color: '#ffffff',
+            background: colors.heroBadgeBg, color: colors.heroTextPrimary,
           }}>
             &#127954; Hockey
           </span>
@@ -290,8 +290,8 @@ export function HeroSearch({
             style={{
               fontSize: 13, fontWeight: 500, padding: '5px 14px',
               borderRadius: 9999, textDecoration: 'none',
-              background: 'rgba(255,255,255,0.08)', color: 'rgba(255,255,255,0.7)',
-              border: '1px solid rgba(255,255,255,0.15)',
+              background: colors.heroBadgeBgMuted, color: colors.heroMenuLine,
+              border: `1px solid ${colors.heroBadgeBorder}`,
               transition: 'all 0.15s',
             }}
           >
@@ -301,7 +301,7 @@ export function HeroSearch({
 
         {/* Stats */}
         <p style={{
-          fontSize: 13, color: 'rgba(255,255,255,0.75)',
+          fontSize: 13, color: colors.heroTextMuted,
           marginTop: 14, letterSpacing: 0.2,
         }}>
           {totalRinks > 0

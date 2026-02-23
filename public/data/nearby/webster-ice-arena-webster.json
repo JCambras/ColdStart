@@ -11,11 +11,6 @@
       "url": "https://www.google.com/maps/search/?api=1&query=Taco%20Bell&query_place_id=ChIJJ3dl_NbO1okR3V3QonUWDqQ&center=43.2121202,-77.46199709999999"
     },
     {
-      "name": "Popeyes Louisiana Kitchen",
-      "distance": "0.5 mi",
-      "url": "https://www.google.com/maps/search/?api=1&query=Popeyes%20Louisiana%20Kitchen&query_place_id=ChIJ1d3M26PP1okRcEXxz9KzNaM&center=43.211799899999995,-77.46216799999999"
-    },
-    {
       "name": "Burger King",
       "distance": "0.6 mi",
       "url": "https://www.google.com/maps/search/?api=1&query=Burger%20King&query_place_id=ChIJjY83JNfO1okRtFm1zspda7o&center=43.2104092,-77.46035800000001"
@@ -34,21 +29,6 @@
       "name": "KFC",
       "distance": "0.7 mi",
       "url": "https://www.google.com/maps/search/?api=1&query=KFC&query_place_id=ChIJOe51HtLO1okRooytC1lREJM&center=43.207264099999996,-77.4649003"
-    },
-    {
-      "name": "Jersey Mike's Subs",
-      "distance": "0.7 mi",
-      "url": "https://www.google.com/maps/search/?api=1&query=Jersey%20Mike's%20Subs&query_place_id=ChIJ0xZ9D73P1okRMqxzFqxsDVg&center=43.207927999999995,-77.46177"
-    },
-    {
-      "name": "Wendy's",
-      "distance": "0.7 mi",
-      "url": "https://www.google.com/maps/search/?api=1&query=Wendy's&query_place_id=ChIJxe78ddrO1okRMdArasXtEKU&center=43.2083684,-77.4592459"
-    },
-    {
-      "name": "Moe's Southwest Grill",
-      "distance": "0.9 mi",
-      "url": "https://www.google.com/maps/search/?api=1&query=Moe's%20Southwest%20Grill&query_place_id=ChIJ06ZKNdnO1okRrnHrQIMDJCQ&center=43.211037499999996,-77.4528074"
     }
   ],
   "coffee": [
@@ -56,11 +36,6 @@
       "name": "Starbucks",
       "distance": "0.6 mi",
       "url": "https://www.google.com/maps/search/?api=1&query=Starbucks&query_place_id=ChIJs57XSNfO1okR9Xj13qDXD04&center=43.2098,-77.46034"
-    },
-    {
-      "name": "McDonald's",
-      "distance": "1.3 mi",
-      "url": "https://www.google.com/maps/search/?api=1&query=McDonald's&query_place_id=ChIJy5pajOLO1okR4OAlersr1z8&center=43.209920499999996,-77.4451602"
     }
   ],
   "team_lunch": [
@@ -88,11 +63,6 @@
       "name": "Fleur Sourdough Bakery",
       "distance": "1.4 mi",
       "url": "https://www.google.com/maps/search/?api=1&query=Fleur%20Sourdough%20Bakery&query_place_id=ChIJC6IL73nP1okRtbNiTcYPHFM&center=43.196282599999996,-77.46527619999999"
-    },
-    {
-      "name": "Walmart Bakery",
-      "distance": "2.2 mi",
-      "url": "https://www.google.com/maps/search/?api=1&query=Walmart%20Bakery&query_place_id=ChIJ__9P92jJ1okRFoBblASgwfI&center=43.1918868,-77.4963215"
     }
   ],
   "dinner": [

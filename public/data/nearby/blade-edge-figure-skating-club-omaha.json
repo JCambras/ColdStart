@@ -29,12 +29,6 @@
       "name": "Chuck E. Cheese",
       "distance": "2.2 mi",
       "url": "https://www.google.com/maps/search/Chuck%20E.%20Cheese+near+41.2932176%2C-96.02666649999999"
-    },
-    {
-      "name": "ACX Aksarben Cinema",
-      "distance": "3.7 mi",
-      "url": "https://www.google.com/maps/search/ACX%20Aksarben%20Cinema+near+41.2932176%2C-96.02666649999999",
-      "isFar": true
     }
   ],
   "coffee": [
@@ -52,11 +46,6 @@
       "name": "Starbucks",
       "distance": "0.3 mi",
       "url": "https://www.google.com/maps/search/Starbucks+near+41.2932176%2C-96.02666649999999"
-    },
-    {
-      "name": "McDonald's",
-      "distance": "0.6 mi",
-      "url": "https://www.google.com/maps/search/McDonald's+near+41.2932176%2C-96.02666649999999"
     },
     {
       "name": "Joe's Cafe Benson",
@@ -111,11 +100,6 @@
       "name": "Keystone Kafe",
       "distance": "0.8 mi",
       "url": "https://www.google.com/maps/search/Keystone%20Kafe+near+41.2932176%2C-96.02666649999999"
-    },
-    {
-      "name": "Keystone Bar & Grill",
-      "distance": "0.8 mi",
-      "url": "https://www.google.com/maps/search/Keystone%20Bar%20%26%20Grill+near+41.2932176%2C-96.02666649999999"
     }
   ],
   "bowling": [
@@ -170,61 +154,13 @@
       "name": "Fontenelle Park Sprayground",
       "distance": "2.4 mi",
       "url": "https://www.google.com/maps/search/Fontenelle%20Park%20Sprayground+near+41.2932176%2C-96.02666649999999"
-    },
-    {
-      "name": "Miller Park playground",
-      "distance": "4.0 mi",
-      "url": "https://www.google.com/maps/search/Miller%20Park%20playground+near+41.2932176%2C-96.02666649999999",
-      "isFar": true
-    },
-    {
-      "name": "Locked Room Omaha",
-      "distance": "4.3 mi",
-      "url": "https://www.google.com/maps/search/Locked%20Room%20Omaha+near+41.2932176%2C-96.02666649999999",
-      "isFar": true
-    },
-    {
-      "name": "Kountze Park Sprayground",
-      "distance": "4.4 mi",
-      "url": "https://www.google.com/maps/search/Kountze%20Park%20Sprayground+near+41.2932176%2C-96.02666649999999",
-      "isFar": true
     }
   ],
   "hotels": [
     {
-      "name": "Steps to Dining, Gym, and Pickleball",
-      "distance": "0.4 mi",
-      "url": "https://www.google.com/maps/search/Steps%20to%20Dining%2C%20Gym%2C%20and%20Pickleball+near+41.2932176%2C-96.02666649999999"
-    },
-    {
-      "name": "Great location quiet private house in Benson",
-      "distance": "0.5 mi",
-      "url": "https://www.google.com/maps/search/Great%20location%20quiet%20private%20house%20in%20Benson+near+41.2932176%2C-96.02666649999999"
-    },
-    {
       "name": "Smile2shine",
       "distance": "0.5 mi",
       "url": "https://www.google.com/maps/search/Smile2shine+near+41.2932176%2C-96.02666649999999"
-    },
-    {
-      "name": "Charming Large Midtown - Easy CWS Access",
-      "distance": "0.5 mi",
-      "url": "https://www.google.com/maps/search/Charming%20Large%20Midtown%20-%20Easy%20CWS%20Access+near+41.2932176%2C-96.02666649999999"
-    },
-    {
-      "name": "Cozy basement suite in Benson-Close to downtown, hospital, restaurants, shopping",
-      "distance": "0.6 mi",
-      "url": "https://www.google.com/maps/search/Cozy%20basement%20suite%20in%20Benson-Close%20to%20downtown%2C%20hospital%2C%20restaurants%2C%20shopping+near+41.2932176%2C-96.02666649999999"
-    },
-    {
-      "name": "Cozy basement suite in Benson-Close to downtown, hospital, restaurants, shopping",
-      "distance": "0.6 mi",
-      "url": "https://www.google.com/maps/search/Cozy%20basement%20suite%20in%20Benson-Close%20to%20downtown%2C%20hospital%2C%20restaurants%2C%20shopping+near+41.2932176%2C-96.02666649999999"
-    },
-    {
-      "name": "Cozy 2 Bed Benson Bungalow, Pet Friendly, Family friendly, Fiber Internet",
-      "distance": "0.6 mi",
-      "url": "https://www.google.com/maps/search/Cozy%202%20Bed%20Benson%20Bungalow%2C%20Pet%20Friendly%2C%20Family%20friendly%2C%20Fiber%20Internet+near+41.2932176%2C-96.02666649999999"
     }
   ],
   "gas": [
@@ -241,16 +177,6 @@
     {
       "name": "Phillips 66",
       "distance": "0.6 mi",
-      "url": "https://www.google.com/maps/search/Phillips%2066+near+41.2932176%2C-96.02666649999999"
-    },
-    {
-      "name": "Mega Saver",
-      "distance": "0.9 mi",
-      "url": "https://www.google.com/maps/search/Mega%20Saver+near+41.2932176%2C-96.02666649999999"
-    },
-    {
-      "name": "Phillips 66",
-      "distance": "0.9 mi",
       "url": "https://www.google.com/maps/search/Phillips%2066+near+41.2932176%2C-96.02666649999999"
     }
   ]

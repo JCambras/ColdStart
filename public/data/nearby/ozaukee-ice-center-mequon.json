@@ -13,11 +13,6 @@
   ],
   "coffee": [
     {
-      "name": "McDonald's",
-      "distance": "0.6 mi",
-      "url": "https://www.google.com/maps/search/McDonald's+near+43.2788749%2C-87.9761515"
-    },
-    {
       "name": "Dunkin'",
       "distance": "0.7 mi",
       "url": "https://www.google.com/maps/search/Dunkin'+near+43.2788749%2C-87.9761515"
@@ -80,11 +75,6 @@
       "name": "C. Wiesler's",
       "distance": "1.1 mi",
       "url": "https://www.google.com/maps/search/C.%20Wiesler's+near+43.2788749%2C-87.9761515"
-    },
-    {
-      "name": "PJ Piper Pancake House",
-      "distance": "1.2 mi",
-      "url": "https://www.google.com/maps/search/PJ%20Piper%20Pancake%20House+near+43.2788749%2C-87.9761515"
     }
   ],
   "bowling": [
@@ -103,18 +93,6 @@
       "name": "Brown Deer Lanes",
       "distance": "8.1 mi",
       "url": "https://www.google.com/maps/search/Brown%20Deer%20Lanes+near+43.2788749%2C-87.9761515",
-      "isFar": true
-    },
-    {
-      "name": "Harbor Hills",
-      "distance": "8.4 mi",
-      "url": "https://www.google.com/maps/search/Harbor%20Hills+near+43.2788749%2C-87.9761515",
-      "isFar": true
-    },
-    {
-      "name": "Classic Lanes",
-      "distance": "9.9 mi",
-      "url": "https://www.google.com/maps/search/Classic%20Lanes+near+43.2788749%2C-87.9761515",
       "isFar": true
     }
   ],
@@ -154,39 +132,14 @@
   ],
   "hotels": [
     {
-      "name": "Cozy Cedarburg House - Walk to Historic Downtown!",
-      "distance": "0.7 mi",
-      "url": "https://www.google.com/maps/search/Cozy%20Cedarburg%20House%20-%20Walk%20to%20Historic%20Downtown!+near+43.2788749%2C-87.9761515"
-    },
-    {
-      "name": "Cozy Cedarburg House - Walk to Historic Downtown!",
-      "distance": "0.8 mi",
-      "url": "https://www.google.com/maps/search/Cozy%20Cedarburg%20House%20-%20Walk%20to%20Historic%20Downtown!+near+43.2788749%2C-87.9761515"
-    },
-    {
-      "name": "Remodeled Luxury 3BR - Walk to Cedarburg Downtown",
-      "distance": "0.8 mi",
-      "url": "https://www.google.com/maps/search/Remodeled%20Luxury%203BR%20-%20Walk%20to%20Cedarburg%20Downtown+near+43.2788749%2C-87.9761515"
-    },
-    {
       "name": "Location, Location in cedarburg",
       "distance": "0.9 mi",
       "url": "https://www.google.com/maps/search/Location%2C%20Location%20in%20cedarburg+near+43.2788749%2C-87.9761515"
     },
     {
-      "name": "Historic Loft, Steps to Downtown",
-      "distance": "0.9 mi",
-      "url": "https://www.google.com/maps/search/Historic%20Loft%2C%20Steps%20to%20Downtown+near+43.2788749%2C-87.9761515"
-    },
-    {
       "name": "Foy's Concierge Services",
       "distance": "1.0 mi",
       "url": "https://www.google.com/maps/search/Foy's%20Concierge%20Services+near+43.2788749%2C-87.9761515"
-    },
-    {
-      "name": "N49 Cedarburg - One-Bedroom Apartment",
-      "distance": "1.1 mi",
-      "url": "https://www.google.com/maps/search/N49%20Cedarburg%20-%20One-Bedroom%20Apartment+near+43.2788749%2C-87.9761515"
     }
   ],
   "gas": [
@@ -209,11 +162,6 @@
       "name": "Citgo of Grafton",
       "distance": "2.5 mi",
       "url": "https://www.google.com/maps/search/Citgo%20of%20Grafton+near+43.2788749%2C-87.9761515"
-    },
-    {
-      "name": "bp",
-      "distance": "2.6 mi",
-      "url": "https://www.google.com/maps/search/bp+near+43.2788749%2C-87.9761515"
     }
   ]
 }

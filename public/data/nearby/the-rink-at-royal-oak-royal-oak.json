@@ -29,11 +29,6 @@
       "name": "Burger King",
       "distance": "1.0 mi",
       "url": "https://www.google.com/maps/search/?api=1&query=Burger%20King&query_place_id=ChIJSVjeaPXFJIgRn2hsI2UvKlc&center=42.5034212,-83.1451924"
-    },
-    {
-      "name": "Subway",
-      "distance": "1.4 mi",
-      "url": "https://www.google.com/maps/search/?api=1&query=Subway&query_place_id=ChIJyeET86zIJIgRIXg9yI3fvDM&center=42.4977874,-83.1673431"
     }
   ],
   "coffee": [
@@ -61,16 +56,6 @@
       "name": "Starbucks Coffee Company",
       "distance": "0.1 mi",
       "url": "https://www.google.com/maps/search/?api=1&query=Starbucks%20Coffee%20Company&query_place_id=ChIJ-Wh49kHPJIgRHJ96JhHGOmE&center=42.487989999999996,-83.14444999999999"
-    },
-    {
-      "name": "McDonald's",
-      "distance": "0.3 mi",
-      "url": "https://www.google.com/maps/search/?api=1&query=McDonald's&query_place_id=ChIJG_pe9kPPJIgRIM5tXuzpXu0&center=42.4894353,-83.1488469"
-    },
-    {
-      "name": "Einstein Bros. Bagels",
-      "distance": "1.0 mi",
-      "url": "https://www.google.com/maps/search/?api=1&query=Einstein%20Bros.%20Bagels&query_place_id=ChIJSwFas03PJIgRaGY1Uv4X5Yk&center=42.491523900000004,-83.16132189999999"
     }
   ],
   "team_lunch": [
@@ -120,11 +105,6 @@
       "name": "JINYA Ramen Bar - Royal Oak",
       "distance": "0.1 mi",
       "url": "https://www.google.com/maps/search/JINYA%20Ramen%20Bar%20-%20Royal%20Oak+near+42.4886613%2C-83.142703"
-    },
-    {
-      "name": "North End Taproom",
-      "distance": "0.1 mi",
-      "url": "https://www.google.com/maps/search/North%20End%20Taproom+near+42.4886613%2C-83.142703"
     }
   ],
   "bowling": [
@@ -142,29 +122,6 @@
       "name": "Luxury Lanes & Lounge Inc",
       "distance": "2.1 mi",
       "url": "https://www.google.com/maps/search/Luxury%20Lanes%20%26%20Lounge%20Inc+near+42.4886613%2C-83.142703"
-    },
-    {
-      "name": "Hartfield Lanes",
-      "distance": "2.8 mi",
-      "url": "https://www.google.com/maps/search/Hartfield%20Lanes+near+42.4886613%2C-83.142703"
-    },
-    {
-      "name": "Universal Lanes",
-      "distance": "3.2 mi",
-      "url": "https://www.google.com/maps/search/Universal%20Lanes+near+42.4886613%2C-83.142703",
-      "isFar": true
-    },
-    {
-      "name": "Bowlero Lanes & Lounge",
-      "distance": "3.3 mi",
-      "url": "https://www.google.com/maps/search/Bowlero%20Lanes%20%26%20Lounge+near+42.4886613%2C-83.142703",
-      "isFar": true
-    },
-    {
-      "name": "Astro Lanes",
-      "distance": "3.5 mi",
-      "url": "https://www.google.com/maps/search/Astro%20Lanes+near+42.4886613%2C-83.142703",
-      "isFar": true
     }
   ],
   "arcade": [],
@@ -207,71 +164,19 @@
       "name": "The Fifth Wall Escape Rooms",
       "distance": "2.1 mi",
       "url": "https://www.google.com/maps/search/The%20Fifth%20Wall%20Escape%20Rooms+near+42.4886613%2C-83.142703"
-    },
-    {
-      "name": "Spray Pad",
-      "distance": "2.1 mi",
-      "url": "https://www.google.com/maps/search/Spray%20Pad+near+42.4886613%2C-83.142703"
-    },
-    {
-      "name": "Rage Room",
-      "distance": "3.0 mi",
-      "url": "https://www.google.com/maps/search/Rage%20Room+near+42.4886613%2C-83.142703",
-      "isFar": true
-    },
-    {
-      "name": "Escape Room Zone",
-      "distance": "3.0 mi",
-      "url": "https://www.google.com/maps/search/Escape%20Room%20Zone+near+42.4886613%2C-83.142703",
-      "isFar": true
     }
   ],
   "hotels": [
     {
-      "name": "Heart of Royal Oak - Entire house w hot tub!",
-      "distance": "0.2 mi",
-      "url": "https://www.google.com/maps/search/Heart%20of%20Royal%20Oak%20-%20Entire%20house%20w%20hot%20tub!+near+42.4886613%2C-83.142703"
-    },
-    {
-      "name": "<3 of Royal Oak - Entire 2BR House!",
-      "distance": "0.2 mi",
-      "url": "https://www.google.com/maps/search/%3C3%20of%20Royal%20Oak%20-%20Entire%202BR%20House!+near+42.4886613%2C-83.142703"
-    },
-    {
-      "name": "7th Street Retreat: Restored 1925 Gem w/ Game Room 1 Block to Downtown Royal Oak",
-      "distance": "0.2 mi",
-      "url": "https://www.google.com/maps/search/7th%20Street%20Retreat%3A%20Restored%201925%20Gem%20w%2F%20Game%20Room%201%20Block%20to%20Downtown%20Royal%20Oak+near+42.4886613%2C-83.142703"
-    },
-    {
-      "name": "7th Street Retreat: Restored 1925 Gem w / Game Room 1 Block to Downtown Royal Oak",
-      "distance": "0.2 mi",
-      "url": "https://www.google.com/maps/search/7th%20Street%20Retreat%3A%20Restored%201925%20Gem%20w%20%2F%20Game%20Room%201%20Block%20to%20Downtown%20Royal%20Oak+near+42.4886613%2C-83.142703"
-    },
-    {
       "name": "Hyatt Place Detroit / Royal Oak",
       "distance": "0.2 mi",
       "url": "https://www.google.com/maps/search/Hyatt%20Place%20Detroit%20%2F%20Royal%20Oak+near+42.4886613%2C-83.142703"
-    },
-    {
-      "name": "Luxurious 3-bedroom home in the heart of downtown",
-      "distance": "0.3 mi",
-      "url": "https://www.google.com/maps/search/Luxurious%203-bedroom%20home%20in%20the%20heart%20of%20downtown+near+42.4886613%2C-83.142703"
-    },
-    {
-      "name": "Luxury Downtown Royal Oak Home with \\\"Patio\\\" \\\"Propane Fire Pit \\\" \\\"Game Room\\\"!!",
-      "distance": "0.3 mi",
-      "url": "https://www.google.com/maps/search/Luxury%20Downtown%20Royal%20Oak%20Home%20with%20%5C%22Patio%5C%22%20%5C%22Propane%20Fire%20Pit%20%5C%22%20%5C%22Game%20Room%5C%22!!+near+42.4886613%2C-83.142703"
     }
   ],
   "gas": [
     {
       "name": "Shell",
       "distance": "0.2 mi",
-      "url": "https://www.google.com/maps/search/Shell+near+42.4886613%2C-83.142703"
-    },
-    {
-      "name": "Shell",
-      "distance": "0.3 mi",
       "url": "https://www.google.com/maps/search/Shell+near+42.4886613%2C-83.142703"
     },
     {

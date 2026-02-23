@@ -51,16 +51,6 @@
       "name": "College Cafe & Pastry Corner at Edmonds College",
       "distance": "0.3 mi",
       "url": "https://www.google.com/maps/search/College%20Cafe%20%26%20Pastry%20Corner%20at%20Edmonds%20College+near+47.819413%2C-122.322966"
-    },
-    {
-      "name": "Gourmet Latte #19",
-      "distance": "0.3 mi",
-      "url": "https://www.google.com/maps/search/Gourmet%20Latte%20%2319+near+47.819413%2C-122.322966"
-    },
-    {
-      "name": "Triton Espresso",
-      "distance": "0.3 mi",
-      "url": "https://www.google.com/maps/search/Triton%20Espresso+near+47.819413%2C-122.322966"
     }
   ],
   "team_lunch": [
@@ -100,11 +90,6 @@
       "name": "장안설렁탕JangAn Sullungtang",
       "distance": "0.3 mi",
       "url": "https://www.google.com/maps/search/%EC%9E%A5%EC%95%88%EC%84%A4%EB%A0%81%ED%83%95JangAn%20Sullungtang+near+47.819413%2C-122.322966"
-    },
-    {
-      "name": "Nothing Bundt Cakes",
-      "distance": "0.3 mi",
-      "url": "https://www.google.com/maps/search/Nothing%20Bundt%20Cakes+near+47.819413%2C-122.322966"
     }
   ],
   "bowling": [
@@ -142,17 +127,6 @@
       "name": "The Edmonds Theater",
       "distance": "2.6 mi",
       "url": "https://www.google.com/maps/search/The%20Edmonds%20Theater+near+47.819413%2C-122.322966"
-    },
-    {
-      "name": "Regal Cinebarre Mountlake",
-      "distance": "2.8 mi",
-      "url": "https://www.google.com/maps/search/Regal%20Cinebarre%20Mountlake+near+47.819413%2C-122.322966"
-    },
-    {
-      "name": "Landmark's Crest Cinema Center",
-      "distance": "4.9 mi",
-      "url": "https://www.google.com/maps/search/Landmark's%20Crest%20Cinema%20Center+near+47.819413%2C-122.322966",
-      "isFar": true
     }
   ],
   "fun": [
@@ -175,33 +149,13 @@
       "name": "Escapology Escape Rooms Lynnwood",
       "distance": "2.6 mi",
       "url": "https://www.google.com/maps/search/Escapology%20Escape%20Rooms%20Lynnwood+near+47.819413%2C-122.322966"
-    },
-    {
-      "name": "Vaughn's Teaching Farm and Kitchen",
-      "distance": "2.6 mi",
-      "url": "https://www.google.com/maps/search/Vaughn's%20Teaching%20Farm%20and%20Kitchen+near+47.819413%2C-122.322966"
     }
   ],
   "hotels": [
     {
-      "name": "Remodeled 3 Bd 2 Ba - Lynnwood, close to DT Edmonds Waterfront, Edmonds College.",
-      "distance": "0.2 mi",
-      "url": "https://www.google.com/maps/search/Remodeled%203%20Bd%202%20Ba%20-%20Lynnwood%2C%20close%20to%20DT%20Edmonds%20Waterfront%2C%20Edmonds%20College.+near+47.819413%2C-122.322966"
-    },
-    {
-      "name": "Modern Lynnwood Tiny House 16 Mi to Seattle! - Apartment",
-      "distance": "0.3 mi",
-      "url": "https://www.google.com/maps/search/Modern%20Lynnwood%20Tiny%20House%2016%20Mi%20to%20Seattle!%20-%20Apartment+near+47.819413%2C-122.322966"
-    },
-    {
       "name": "Homeward Suites",
       "distance": "0.4 mi",
       "url": "https://www.google.com/maps/search/Homeward%20Suites+near+47.819413%2C-122.322966"
-    },
-    {
-      "name": "Mobile-Lyn Ranch Mobile Home Park",
-      "distance": "0.4 mi",
-      "url": "https://www.google.com/maps/search/Mobile-Lyn%20Ranch%20Mobile%20Home%20Park+near+47.819413%2C-122.322966"
     },
     {
       "name": "Center MHP",
@@ -212,11 +166,6 @@
       "name": "Super 8 by Wyndham Lynnwood",
       "distance": "0.6 mi",
       "url": "https://www.google.com/maps/search/Super%208%20by%20Wyndham%20Lynnwood+near+47.819413%2C-122.322966"
-    },
-    {
-      "name": "Tanglewood Apartments",
-      "distance": "0.6 mi",
-      "url": "https://www.google.com/maps/search/Tanglewood%20Apartments+near+47.819413%2C-122.322966"
     }
   ],
   "gas": [
@@ -239,11 +188,6 @@
       "name": "Propane Island",
       "distance": "0.8 mi",
       "url": "https://www.google.com/maps/search/Propane%20Island+near+47.819413%2C-122.322966"
-    },
-    {
-      "name": "FuelCare",
-      "distance": "0.9 mi",
-      "url": "https://www.google.com/maps/search/FuelCare+near+47.819413%2C-122.322966"
     }
   ]
 }

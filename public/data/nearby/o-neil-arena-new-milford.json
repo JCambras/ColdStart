@@ -29,27 +29,6 @@
       "name": "Wendy's",
       "distance": "2.3 mi",
       "url": "https://www.google.com/maps/search/?api=1&query=Wendy's&query_place_id=ChIJHcruqcb354kROasYT5nry1E&center=41.5557908,-73.4177529"
-    },
-    {
-      "name": "Dairy Queen Grill & Chill",
-      "distance": "2.5 mi",
-      "url": "https://www.google.com/maps/search/?api=1&query=Dairy%20Queen%20Grill%20%26%20Chill&query_place_id=ChIJiYPHHvv354kR3kRlA7vA04Q&center=41.5528651,-73.4165708"
-    },
-    {
-      "name": "Taco Bell",
-      "distance": "2.7 mi",
-      "url": "https://www.google.com/maps/search/?api=1&query=Taco%20Bell&query_place_id=ChIJnYMzA_b254kRB2AnvYaDmtA&center=41.549990099999995,-73.417812"
-    },
-    {
-      "name": "Jersey Mike's Subs",
-      "distance": "2.7 mi",
-      "url": "https://www.google.com/maps/search/?api=1&query=Jersey%20Mike's%20Subs&query_place_id=ChIJLxVfBOj354kRogpOka-AeS0&center=41.549381,-73.4179482"
-    },
-    {
-      "name": "Sonic Drive-In",
-      "distance": "3.5 mi",
-      "url": "https://www.google.com/maps/search/?api=1&query=Sonic%20Drive-In&query_place_id=ChIJp8alYMn354kRKiFgLeYcQD4&center=41.5384004,-73.4213778",
-      "isFar": true
     }
   ],
   "coffee": [
@@ -67,11 +46,6 @@
       "name": "Dunkin'",
       "distance": "0.8 mi",
       "url": "https://www.google.com/maps/search/?api=1&query=Dunkin'&query_place_id=ChIJL-Lzwij054kRZoHZnXbjzrI&center=41.5770966,-73.40814019999999"
-    },
-    {
-      "name": "McDonald's",
-      "distance": "1.5 mi",
-      "url": "https://www.google.com/maps/search/?api=1&query=McDonald's&query_place_id=ChIJpWjh-4b254kRWxGjfL4HOp4&center=41.56739640000001,-73.4148469"
     }
   ],
   "team_lunch": [
@@ -104,23 +78,6 @@
       "name": "The Bake Shed",
       "distance": "1.7 mi",
       "url": "https://www.google.com/maps/search/?api=1&query=The%20Bake%20Shed&query_place_id=ChIJ3UB3LgD154kRDux54uus7_M&center=41.5721111,-73.3866307"
-    },
-    {
-      "name": "Olive Branch Baking Co.",
-      "distance": "2.5 mi",
-      "url": "https://www.google.com/maps/search/?api=1&query=Olive%20Branch%20Baking%20Co.&query_place_id=ChIJw9Qy1Y_z54kRht0D-xakdAI&center=41.5708717,-73.3689644"
-    },
-    {
-      "name": "Bagelman New Milford",
-      "distance": "3.7 mi",
-      "url": "https://www.google.com/maps/search/?api=1&query=Bagelman%20New%20Milford&query_place_id=ChIJI2uQfF_354kR1hi2-74nmyY&center=41.5353955,-73.4237026",
-      "isFar": true
-    },
-    {
-      "name": "A Little Piece of Cake",
-      "distance": "4.6 mi",
-      "url": "https://www.google.com/maps/search/?api=1&query=A%20Little%20Piece%20of%20Cake&query_place_id=ChIJG896iHzx54kRXtpwmJFxwII&center=41.5579964,-73.3326974",
-      "isFar": true
     }
   ],
   "dinner": [

@@ -29,26 +29,6 @@
       "name": "Burger King",
       "distance": "0.5 mi",
       "url": "https://www.google.com/maps/search/?api=1&query=Burger%20King&query_place_id=ChIJK7kEMIu2xokRIuQ5DOAsRUY&center=40.032837199999996,-75.0834002"
-    },
-    {
-      "name": "Subway",
-      "distance": "0.6 mi",
-      "url": "https://www.google.com/maps/search/?api=1&query=Subway&query_place_id=ChIJN-xtEuy2xokRHNhqa-hgqGU&center=40.0441049,-75.0918311"
-    },
-    {
-      "name": "Wawa",
-      "distance": "0.7 mi",
-      "url": "https://www.google.com/maps/search/?api=1&query=Wawa&query_place_id=ChIJf3MrIoW2xokRCCe5fFDNyoQ&center=40.0362405,-75.070295"
-    },
-    {
-      "name": "Karim’s Bangla food",
-      "distance": "0.9 mi",
-      "url": "https://www.google.com/maps/search/?api=1&query=Karim%E2%80%99s%20Bangla%20food&query_place_id=ChIJ-S1_Jg23xokRHoj8ZvavTgA&center=40.0525574,-75.07658649999999"
-    },
-    {
-      "name": "Lawncrest Family Restaurant",
-      "distance": "0.9 mi",
-      "url": "https://www.google.com/maps/search/?api=1&query=Lawncrest%20Family%20Restaurant&query_place_id=ChIJTy-qdui2xokR0Ug_KYvCdv4&center=40.0491776,-75.0957991"
     }
   ],
   "coffee": [
@@ -61,11 +41,6 @@
       "name": "C1 Bakery Café",
       "distance": "0.4 mi",
       "url": "https://www.google.com/maps/search/?api=1&query=C1%20Bakery%20Caf%C3%A9&query_place_id=ChIJD6gD0JC2xokRi7OMs8r_0e8&center=40.0423644,-75.07484219999999"
-    },
-    {
-      "name": "Wawa",
-      "distance": "0.7 mi",
-      "url": "https://www.google.com/maps/search/?api=1&query=Wawa&query_place_id=ChIJf3MrIoW2xokRCCe5fFDNyoQ&center=40.0362405,-75.070295"
     }
   ],
   "team_lunch": [
@@ -95,29 +70,9 @@
       "url": "https://www.google.com/maps/search/?api=1&query=ChefiaBurguer%2CLLC&query_place_id=ChIJD-d9cjO3xokR2j-vBQE5h1o&center=40.0363061,-75.079149"
     },
     {
-      "name": "Bee's Soulfood Kitchen",
-      "distance": "0.3 mi",
-      "url": "https://www.google.com/maps/search/?api=1&query=Bee's%20Soulfood%20Kitchen&query_place_id=ChIJQ8W3kyW3xokRkXmqRECfgc8&center=40.0450951,-75.0830143"
-    },
-    {
       "name": "Xin",
       "distance": "0.3 mi",
       "url": "https://www.google.com/maps/search/?api=1&query=Xin&query_place_id=ChIJ4-nMRIy2xokRkdaCbKI9gKM&center=40.035448099999996,-75.0808773"
-    },
-    {
-      "name": "Palapa's Mexican Food & Drinks",
-      "distance": "0.3 mi",
-      "url": "https://www.google.com/maps/search/?api=1&query=Palapa's%20Mexican%20Food%20%26%20Drinks&query_place_id=ChIJpx07HZG2xokR7YIJNV8WPGs&center=40.041336199999996,-75.07587629999999"
-    },
-    {
-      "name": "Castor Pizza",
-      "distance": "0.3 mi",
-      "url": "https://www.google.com/maps/search/?api=1&query=Castor%20Pizza&query_place_id=ChIJc8wR9Yy2xokRbNDmdGF12cU&center=40.035233,-75.081746"
-    },
-    {
-      "name": "Delicias Criollas Bakery",
-      "distance": "0.4 mi",
-      "url": "https://www.google.com/maps/search/?api=1&query=Delicias%20Criollas%20Bakery&query_place_id=ChIJOcnrYIy2xokRnARGzsrjCsA&center=40.034995699999996,-75.08130489999999"
     }
   ],
   "dinner": [

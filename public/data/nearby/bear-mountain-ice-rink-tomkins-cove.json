@@ -46,12 +46,6 @@
       "url": "https://www.google.com/maps/search/?api=1&query=Dunkin'&query_place_id=ChIJbfvqMSbPwokRuB0-VdaBT40&center=41.2986291,-73.93652759999999"
     },
     {
-      "name": "McDonald's",
-      "distance": "4.0 mi",
-      "url": "https://www.google.com/maps/search/?api=1&query=McDonald's&query_place_id=ChIJM3jglLLIwokRB-DEOaU6o0w&center=41.2705266,-73.9366656",
-      "isFar": true
-    },
-    {
       "name": "Bake Me a Wish of Westchester",
       "distance": "4.0 mi",
       "url": "https://www.google.com/maps/search/?api=1&query=Bake%20Me%20a%20Wish%20of%20Westchester&query_place_id=ChIJRdkqSMjIwokRJGcBLgGo4j0&center=41.2793506,-73.9268886",
@@ -61,12 +55,6 @@
       "name": "Bear Mountain Bakery & Cafe",
       "distance": "4.3 mi",
       "url": "https://www.google.com/maps/search/?api=1&query=Bear%20Mountain%20Bakery%20%26%20Cafe&query_place_id=ChIJlUKxKpbNwokRz0CXZkBSmTk&center=41.370714899999996,-73.96521469999999",
-      "isFar": true
-    },
-    {
-      "name": "McDonald's",
-      "distance": "4.6 mi",
-      "url": "https://www.google.com/maps/search/?api=1&query=McDonald's&query_place_id=ChIJHeVeSEPMwokRyCeBX53AsJc&center=41.3748917,-73.96265939999999",
       "isFar": true
     }
   ],

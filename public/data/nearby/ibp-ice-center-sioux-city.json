@@ -29,12 +29,6 @@
       "name": "Taco Bell",
       "distance": "0.6 mi",
       "url": "https://www.google.com/maps/search/Taco%20Bell+near+42.4415082%2C-96.3628413"
-    },
-    {
-      "name": "ACX Promenade Cinema",
-      "distance": "4.0 mi",
-      "url": "https://www.google.com/maps/search/ACX%20Promenade%20Cinema+near+42.4415082%2C-96.3628413",
-      "isFar": true
     }
   ],
   "coffee": [
@@ -49,11 +43,6 @@
       "name": "Hunan Palace",
       "distance": "0.3 mi",
       "url": "https://www.google.com/maps/search/Hunan%20Palace+near+42.4415082%2C-96.3628413"
-    },
-    {
-      "name": "Walmart Bakery",
-      "distance": "0.5 mi",
-      "url": "https://www.google.com/maps/search/Walmart%20Bakery+near+42.4415082%2C-96.3628413"
     },
     {
       "name": "Pizza Plaza",
@@ -96,11 +85,6 @@
       "name": "Sticky Rice Express",
       "distance": "0.6 mi",
       "url": "https://www.google.com/maps/search/Sticky%20Rice%20Express+near+42.4415082%2C-96.3628413"
-    },
-    {
-      "name": "Sams Gyros",
-      "distance": "0.6 mi",
-      "url": "https://www.google.com/maps/search/Sams%20Gyros+near+42.4415082%2C-96.3628413"
     }
   ],
   "bowling": [
@@ -166,11 +150,6 @@
       "name": "Quality Inn & Suites Sioux City Southeast",
       "distance": "0.8 mi",
       "url": "https://www.google.com/maps/search/Quality%20Inn%20%26%20Suites%20Sioux%20City%20Southeast+near+42.4415082%2C-96.3628413"
-    },
-    {
-      "name": "Wingate by Wyndham Sioux City",
-      "distance": "0.8 mi",
-      "url": "https://www.google.com/maps/search/Wingate%20by%20Wyndham%20Sioux%20City+near+42.4415082%2C-96.3628413"
     }
   ],
   "gas": [
@@ -193,11 +172,6 @@
       "name": "Kwik Star",
       "distance": "1.7 mi",
       "url": "https://www.google.com/maps/search/Kwik%20Star+near+42.4415082%2C-96.3628413"
-    },
-    {
-      "name": "Fleet Farm Gas Mart",
-      "distance": "1.8 mi",
-      "url": "https://www.google.com/maps/search/Fleet%20Farm%20Gas%20Mart+near+42.4415082%2C-96.3628413"
     }
   ]
 }

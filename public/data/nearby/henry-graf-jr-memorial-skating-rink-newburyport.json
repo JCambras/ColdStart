@@ -29,26 +29,6 @@
       "name": "EPICUREO Pizza",
       "distance": "0.7 mi",
       "url": "https://www.google.com/maps/search/?api=1&query=EPICUREO%20Pizza&query_place_id=ChIJXTK1VHPh4okRXgyKEzMRyB4&center=42.8098382,-70.8658846"
-    },
-    {
-      "name": "Wendy's",
-      "distance": "1.5 mi",
-      "url": "https://www.google.com/maps/search/?api=1&query=Wendy's&query_place_id=ChIJl9sAvH7h4okRByXNTkCL3OY&center=42.8216019,-70.9038643"
-    },
-    {
-      "name": "Jersey Mike's Subs",
-      "distance": "1.5 mi",
-      "url": "https://www.google.com/maps/search/?api=1&query=Jersey%20Mike's%20Subs&query_place_id=ChIJ-fvXAt3h4okRJDbLq_Bl4QU&center=42.821155999999995,-70.9045"
-    },
-    {
-      "name": "Moe’s Italian Sandwiches of Newburyport, MA",
-      "distance": "1.7 mi",
-      "url": "https://www.google.com/maps/search/?api=1&query=Moe%E2%80%99s%20Italian%20Sandwiches%20of%20Newburyport%2C%20MA&query_place_id=ChIJGSO01NTj4okRddh33lzjJ7U&center=42.8188141,-70.9103499"
-    },
-    {
-      "name": "Burger King",
-      "distance": "3.0 mi",
-      "url": "https://www.google.com/maps/search/?api=1&query=Burger%20King&query_place_id=ChIJjXBLBljh4okR3mmsdalS6kU&center=42.8459461,-70.907422"
     }
   ],
   "coffee": [
@@ -76,30 +56,9 @@
       "name": "Abraham's Bagels",
       "distance": "0.6 mi",
       "url": "https://www.google.com/maps/search/?api=1&query=Abraham's%20Bagels&query_place_id=ChIJg-sBMKjh4okRVbgtt3HlJk4&center=42.8111244,-70.8691104"
-    },
-    {
-      "name": "Chococoa Baking Co. & Cafe",
-      "distance": "0.7 mi",
-      "url": "https://www.google.com/maps/search/?api=1&query=Chococoa%20Baking%20Co.%20%26%20Cafe&query_place_id=ChIJra21Oqfh4okRLp-3Co4W3zw&center=42.809889299999995,-70.8664479"
-    },
-    {
-      "name": "McDonald's",
-      "distance": "1.6 mi",
-      "url": "https://www.google.com/maps/search/?api=1&query=McDonald's&query_place_id=ChIJs_ZGiX7h4okRDyGAWIAb-SQ&center=42.8210148,-70.9052284"
-    },
-    {
-      "name": "McDonald's",
-      "distance": "3.2 mi",
-      "url": "https://www.google.com/maps/search/?api=1&query=McDonald's&query_place_id=ChIJ-86Vyvzj4okRSDIZxavbGR4&center=42.846823099999995,-70.91330409999999",
-      "isFar": true
     }
   ],
   "team_lunch": [
-    {
-      "name": "My kitchen",
-      "distance": "0.3 mi",
-      "url": "https://www.google.com/maps/search/?api=1&query=My%20kitchen&query_place_id=ChIJf6-vDQDh4okRzrBmyCIH6D8&center=42.8125777,-70.8772525"
-    },
     {
       "name": "The Olde Craft Bakery, Organic, Newbury, MA",
       "distance": "2.1 mi",

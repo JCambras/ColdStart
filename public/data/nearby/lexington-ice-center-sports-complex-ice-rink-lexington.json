@@ -29,11 +29,6 @@
       "name": "Hardee's",
       "distance": "0.6 mi",
       "url": "https://www.google.com/maps/search/Hardee's+near+37.9971874%2C-84.45661249999999"
-    },
-    {
-      "name": "Jet's Pizza",
-      "distance": "0.7 mi",
-      "url": "https://www.google.com/maps/search/Jet's%20Pizza+near+37.9971874%2C-84.45661249999999"
     }
   ],
   "coffee": [],
@@ -79,11 +74,6 @@
       "name": "KPOT Korean BBQ & Hot Pot",
       "distance": "0.6 mi",
       "url": "https://www.google.com/maps/search/KPOT%20Korean%20BBQ%20%26%20Hot%20Pot+near+37.9971874%2C-84.45661249999999"
-    },
-    {
-      "name": "Squires Corner Kitchen",
-      "distance": "0.7 mi",
-      "url": "https://www.google.com/maps/search/Squires%20Corner%20Kitchen+near+37.9971874%2C-84.45661249999999"
     }
   ],
   "bowling": [
@@ -118,18 +108,6 @@
       "distance": "3.9 mi",
       "url": "https://www.google.com/maps/search/Worsham%20Theater+near+37.9971874%2C-84.45661249999999",
       "isFar": true
-    },
-    {
-      "name": "The Bourbon Theatres",
-      "distance": "4.3 mi",
-      "url": "https://www.google.com/maps/search/The%20Bourbon%20Theatres+near+37.9971874%2C-84.45661249999999",
-      "isFar": true
-    },
-    {
-      "name": "Marcus Brannon Crossing Cinema",
-      "distance": "5.0 mi",
-      "url": "https://www.google.com/maps/search/Marcus%20Brannon%20Crossing%20Cinema+near+37.9971874%2C-84.45661249999999",
-      "isFar": true
     }
   ],
   "fun": [
@@ -153,56 +131,18 @@
       "distance": "3.2 mi",
       "url": "https://www.google.com/maps/search/Breakout%20Games+near+37.9971874%2C-84.45661249999999",
       "isFar": true
-    },
-    {
-      "name": "Lexrage",
-      "distance": "3.2 mi",
-      "url": "https://www.google.com/maps/search/Lexrage+near+37.9971874%2C-84.45661249999999",
-      "isFar": true
-    },
-    {
-      "name": "Malibu Jack's Lexington",
-      "distance": "3.4 mi",
-      "url": "https://www.google.com/maps/search/Malibu%20Jack's%20Lexington+near+37.9971874%2C-84.45661249999999",
-      "isFar": true
-    },
-    {
-      "name": "Champs Entertainment Complex",
-      "distance": "4.2 mi",
-      "url": "https://www.google.com/maps/search/Champs%20Entertainment%20Complex+near+37.9971874%2C-84.45661249999999",
-      "isFar": true
     }
   ],
   "hotels": [
-    {
-      "name": "3-bedroom family friendly condo conveniently located near downtown Lexington",
-      "distance": "0.4 mi",
-      "url": "https://www.google.com/maps/search/3-bedroom%20family%20friendly%20condo%20conveniently%20located%20near%20downtown%20Lexington+near+37.9971874%2C-84.45661249999999"
-    },
     {
       "name": "TNT’s Kentucky Estate",
       "distance": "0.7 mi",
       "url": "https://www.google.com/maps/search/TNT%E2%80%99s%20Kentucky%20Estate+near+37.9971874%2C-84.45661249999999"
     },
     {
-      "name": "Charming 3-bedroom house with premier back yard space and koi pond",
-      "distance": "0.7 mi",
-      "url": "https://www.google.com/maps/search/Charming%203-bedroom%20house%20with%20premier%20back%20yard%20space%20and%20koi%20pond+near+37.9971874%2C-84.45661249999999"
-    },
-    {
       "name": "Beautiful lake view on private cul-de-sac!!!",
       "distance": "0.8 mi",
       "url": "https://www.google.com/maps/search/Beautiful%20lake%20view%20on%20private%20cul-de-sac!!!+near+37.9971874%2C-84.45661249999999"
-    },
-    {
-      "name": "R.E.S.T. Assured in the bluegrass - Four-Bedroom House",
-      "distance": "0.8 mi",
-      "url": "https://www.google.com/maps/search/R.E.S.T.%20Assured%20in%20the%20bluegrass%20-%20Four-Bedroom%20House+near+37.9971874%2C-84.45661249999999"
-    },
-    {
-      "name": "Spacious 4-bedroom house in Lexington and close to many area attractions.",
-      "distance": "0.9 mi",
-      "url": "https://www.google.com/maps/search/Spacious%204-bedroom%20house%20in%20Lexington%20and%20close%20to%20many%20area%20attractions.+near+37.9971874%2C-84.45661249999999"
     },
     {
       "name": "Bluegrass Extended Stay",
@@ -229,11 +169,6 @@
     {
       "name": "Circle K | Gas Station",
       "distance": "0.8 mi",
-      "url": "https://www.google.com/maps/search/Circle%20K%20%7C%20Gas%20Station+near+37.9971874%2C-84.45661249999999"
-    },
-    {
-      "name": "Circle K | Gas Station",
-      "distance": "0.9 mi",
       "url": "https://www.google.com/maps/search/Circle%20K%20%7C%20Gas%20Station+near+37.9971874%2C-84.45661249999999"
     }
   ]

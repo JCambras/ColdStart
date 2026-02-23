@@ -105,7 +105,7 @@ export function ProfileDropdown({ onClose }: { onClose: () => void }) {
             <div style={{ height: 4, background: colors.borderLight, borderRadius: 2 }}>
               <div style={{
                 height: '100%', borderRadius: 2,
-                background: 'linear-gradient(90deg, #0ea5e9, #3b82f6)',
+                background: `linear-gradient(90deg, ${colors.brand}, ${colors.brandAccent})`,
                 width: `${Math.min(100, (user.rinksRated / 10) * 100)}%`,
                 transition: 'width 0.3s',
               }} />

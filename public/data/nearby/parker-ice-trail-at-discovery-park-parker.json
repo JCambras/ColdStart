@@ -33,11 +33,6 @@
       "url": "https://www.google.com/maps/search/Fika%20Coffee%20House+near+39.5191316%2C-104.7555738"
     },
     {
-      "name": "McDonald's",
-      "distance": "0.5 mi",
-      "url": "https://www.google.com/maps/search/McDonald's+near+39.5191316%2C-104.7555738"
-    },
-    {
       "name": "Kneaders Bakery & Cafe",
       "distance": "0.6 mi",
       "url": "https://www.google.com/maps/search/Kneaders%20Bakery%20%26%20Cafe+near+39.5191316%2C-104.7555738"
@@ -85,11 +80,6 @@
       "name": "El Delicioso Tex Mex",
       "distance": "0.3 mi",
       "url": "https://www.google.com/maps/search/El%20Delicioso%20Tex%20Mex+near+39.5191316%2C-104.7555738"
-    },
-    {
-      "name": "Black+Haus Tavern - Parker",
-      "distance": "0.4 mi",
-      "url": "https://www.google.com/maps/search/Black%2BHaus%20Tavern%20-%20Parker+near+39.5191316%2C-104.7555738"
     }
   ],
   "bowling": [
@@ -147,20 +137,9 @@
       "distance": "5.8 mi",
       "url": "https://www.google.com/maps/search/Urban%20Air%20Trampoline%20and%20Adventure%20Park+near+39.5191316%2C-104.7555738",
       "isFar": true
-    },
-    {
-      "name": "Slick City Action Park",
-      "distance": "6.6 mi",
-      "url": "https://www.google.com/maps/search/Slick%20City%20Action%20Park+near+39.5191316%2C-104.7555738",
-      "isFar": true
     }
   ],
   "hotels": [
-    {
-      "name": "Two-Story Retreat in Downtown Parker",
-      "distance": "0.3 mi",
-      "url": "https://www.google.com/maps/search/Two-Story%20Retreat%20in%20Downtown%20Parker+near+39.5191316%2C-104.7555738"
-    },
     {
       "name": "Park",
       "distance": "0.3 mi",
@@ -172,24 +151,9 @@
       "url": "https://www.google.com/maps/search/Drury%20Inn%2C%20Fort%20Myers%20Florida+near+39.5191316%2C-104.7555738"
     },
     {
-      "name": "Quiet Bedroom, private detached bathroom",
-      "distance": "0.7 mi",
-      "url": "https://www.google.com/maps/search/Quiet%20Bedroom%2C%20private%20detached%20bathroom+near+39.5191316%2C-104.7555738"
-    },
-    {
       "name": "The Parker Hotel",
       "distance": "0.9 mi",
       "url": "https://www.google.com/maps/search/The%20Parker%20Hotel+near+39.5191316%2C-104.7555738"
-    },
-    {
-      "name": "Parker Townhome with Fireplace and Basement Bar! - Holiday Home",
-      "distance": "1.1 mi",
-      "url": "https://www.google.com/maps/search/Parker%20Townhome%20with%20Fireplace%20and%20Basement%20Bar!%20-%20Holiday%20Home+near+39.5191316%2C-104.7555738"
-    },
-    {
-      "name": "Beautiful Home in Parker",
-      "distance": "1.3 mi",
-      "url": "https://www.google.com/maps/search/Beautiful%20Home%20in%20Parker+near+39.5191316%2C-104.7555738"
     }
   ],
   "gas": [
@@ -212,11 +176,6 @@
       "name": "Total Petroleum Inc",
       "distance": "0.8 mi",
       "url": "https://www.google.com/maps/search/Total%20Petroleum%20Inc+near+39.5191316%2C-104.7555738"
-    },
-    {
-      "name": "Valero",
-      "distance": "0.8 mi",
-      "url": "https://www.google.com/maps/search/Valero+near+39.5191316%2C-104.7555738"
     }
   ]
 }

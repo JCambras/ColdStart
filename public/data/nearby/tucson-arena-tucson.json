@@ -102,11 +102,6 @@
       "name": "JA Ramen",
       "distance": "0.3 mi",
       "url": "https://www.google.com/maps/search/JA%20Ramen+near+32.2184944%2C-110.9736709"
-    },
-    {
-      "name": "Perche' No",
-      "distance": "0.3 mi",
-      "url": "https://www.google.com/maps/search/Perche'%20No+near+32.2184944%2C-110.9736709"
     }
   ],
   "bowling": [
@@ -144,18 +139,6 @@
       "name": "The Gallagher Theater",
       "distance": "1.6 mi",
       "url": "https://www.google.com/maps/search/The%20Gallagher%20Theater+near+32.2184944%2C-110.9736709"
-    },
-    {
-      "name": "The Loft Cinema",
-      "distance": "3.2 mi",
-      "url": "https://www.google.com/maps/search/The%20Loft%20Cinema+near+32.2184944%2C-110.9736709",
-      "isFar": true
-    },
-    {
-      "name": "Harkins Theatres Tucson Spectrum",
-      "distance": "4.7 mi",
-      "url": "https://www.google.com/maps/search/Harkins%20Theatres%20Tucson%20Spectrum+near+32.2184944%2C-110.9736709",
-      "isFar": true
     }
   ],
   "fun": [
@@ -178,50 +161,18 @@
       "name": "Xscape House",
       "distance": "2.4 mi",
       "url": "https://www.google.com/maps/search/Xscape%20House+near+32.2184944%2C-110.9736709"
-    },
-    {
-      "name": "Will You Escape?",
-      "distance": "2.5 mi",
-      "url": "https://www.google.com/maps/search/Will%20You%20Escape%3F+near+32.2184944%2C-110.9736709"
-    },
-    {
-      "name": "Escape Room @Grant",
-      "distance": "3.2 mi",
-      "url": "https://www.google.com/maps/search/Escape%20Room%20%40Grant+near+32.2184944%2C-110.9736709",
-      "isFar": true
-    },
-    {
-      "name": "Wild Katz - Children's Adventure Playground",
-      "distance": "4.8 mi",
-      "url": "https://www.google.com/maps/search/Wild%20Katz%20-%20Children's%20Adventure%20Playground+near+32.2184944%2C-110.9736709",
-      "isFar": true
     }
   ],
   "hotels": [
-    {
-      "name": "Clean and Cozy Room Perfect for Relaxation w / Pool On-Site Dining Options",
-      "distance": "0.1 mi",
-      "url": "https://www.google.com/maps/search/Clean%20and%20Cozy%20Room%20Perfect%20for%20Relaxation%20w%20%2F%20Pool%20On-Site%20Dining%20Options+near+32.2184944%2C-110.9736709"
-    },
     {
       "name": "DoubleTree by Hilton Tucson Downtown Convention Center",
       "distance": "0.1 mi",
       "url": "https://www.google.com/maps/search/DoubleTree%20by%20Hilton%20Tucson%20Downtown%20Convention%20Center+near+32.2184944%2C-110.9736709"
     },
     {
-      "name": "GEM! Studio in Heart of Dntwn Tucson near TCC",
-      "distance": "0.1 mi",
-      "url": "https://www.google.com/maps/search/GEM!%20Studio%20in%20Heart%20of%20Dntwn%20Tucson%20near%20TCC+near+32.2184944%2C-110.9736709"
-    },
-    {
       "name": "Near TCC New 2 Bed Bungalow in Downtown Tucson",
       "distance": "0.2 mi",
       "url": "https://www.google.com/maps/search/Near%20TCC%20New%202%20Bed%20Bungalow%20in%20Downtown%20Tucson+near+32.2184944%2C-110.9736709"
-    },
-    {
-      "name": "Charming Casita in Historic Barrio Viejo 144 sq ft.",
-      "distance": "0.2 mi",
-      "url": "https://www.google.com/maps/search/Charming%20Casita%20in%20Historic%20Barrio%20Viejo%20144%20sq%20ft.+near+32.2184944%2C-110.9736709"
     },
     {
       "name": "Ensuring a Very Comfortable & Memorable Stay! 3 Family-Friendly Units",
@@ -241,24 +192,9 @@
       "url": "https://www.google.com/maps/search/Circle%20K%20%7C%20Gas%20Station+near+32.2184944%2C-110.9736709"
     },
     {
-      "name": "Circle K | Gas Station",
-      "distance": "0.9 mi",
-      "url": "https://www.google.com/maps/search/Circle%20K%20%7C%20Gas%20Station+near+32.2184944%2C-110.9736709"
-    },
-    {
       "name": "Chevron",
       "distance": "0.9 mi",
       "url": "https://www.google.com/maps/search/Chevron+near+32.2184944%2C-110.9736709"
-    },
-    {
-      "name": "Chevron",
-      "distance": "1.0 mi",
-      "url": "https://www.google.com/maps/search/Chevron+near+32.2184944%2C-110.9736709"
-    },
-    {
-      "name": "Circle K | Gas Station",
-      "distance": "1.2 mi",
-      "url": "https://www.google.com/maps/search/Circle%20K%20%7C%20Gas%20Station+near+32.2184944%2C-110.9736709"
     }
   ]
 }

@@ -1,11 +1,6 @@
 {
   "quick_bite": [
     {
-      "name": "Popeyes Louisiana Kitchen",
-      "distance": "0.1 mi",
-      "url": "https://www.google.com/maps/search/Popeyes%20Louisiana%20Kitchen+near+33.7556368%2C-84.4969079"
-    },
-    {
       "name": "Krispy Krunchy Chicken",
       "distance": "0.2 mi",
       "url": "https://www.google.com/maps/search/Krispy%20Krunchy%20Chicken+near+33.7556368%2C-84.4969079"
@@ -36,13 +31,7 @@
       "url": "https://www.google.com/maps/search/KFC+near+33.7556368%2C-84.4969079"
     }
   ],
-  "coffee": [
-    {
-      "name": "McDonald's",
-      "distance": "0.4 mi",
-      "url": "https://www.google.com/maps/search/McDonald's+near+33.7556368%2C-84.4969079"
-    }
-  ],
+  "coffee": [],
   "team_lunch": [
     {
       "name": "Marquis Restaurant and Lounge",
@@ -130,61 +119,13 @@
       "distance": "3.2 mi",
       "url": "https://www.google.com/maps/search/DC%20Super%20Friends+near+33.7556368%2C-84.4969079",
       "isFar": true
-    },
-    {
-      "name": "Hurricane Harbor",
-      "distance": "3.2 mi",
-      "url": "https://www.google.com/maps/search/Hurricane%20Harbor+near+33.7556368%2C-84.4969079",
-      "isFar": true
-    },
-    {
-      "name": "Paradise Island",
-      "distance": "3.2 mi",
-      "url": "https://www.google.com/maps/search/Paradise%20Island+near+33.7556368%2C-84.4969079",
-      "isFar": true
-    },
-    {
-      "name": "SFTP",
-      "distance": "4.0 mi",
-      "url": "https://www.google.com/maps/search/SFTP+near+33.7556368%2C-84.4969079",
-      "isFar": true
     }
   ],
   "hotels": [
     {
-      "name": "Spacious Atlanta Duplex 3 BRs",
-      "distance": "0.2 mi",
-      "url": "https://www.google.com/maps/search/Spacious%20Atlanta%20Duplex%203%20BRs+near+33.7556368%2C-84.4969079"
-    },
-    {
-      "name": "Spacious Atlanta Duplex 3 BRs",
-      "distance": "0.2 mi",
-      "url": "https://www.google.com/maps/search/Spacious%20Atlanta%20Duplex%203%20BRs+near+33.7556368%2C-84.4969079"
-    },
-    {
-      "name": "Chic Basement Suite ATL - Private Entrance & Free Charge and Park",
-      "distance": "0.3 mi",
-      "url": "https://www.google.com/maps/search/Chic%20Basement%20Suite%20ATL%20-%20Private%20Entrance%20%26%20Free%20Charge%20and%20Park+near+33.7556368%2C-84.4969079"
-    },
-    {
       "name": "Chic Main Suite Private - EV Charging & Parking",
       "distance": "0.3 mi",
       "url": "https://www.google.com/maps/search/Chic%20Main%20Suite%20Private%20-%20EV%20Charging%20%26%20Parking+near+33.7556368%2C-84.4969079"
-    },
-    {
-      "name": "Chic Main Suite Private - EV Charging & Parking",
-      "distance": "0.3 mi",
-      "url": "https://www.google.com/maps/search/Chic%20Main%20Suite%20Private%20-%20EV%20Charging%20%26%20Parking+near+33.7556368%2C-84.4969079"
-    },
-    {
-      "name": "Chic Basement Suite ATL - Private Entrance & Free Charge and Park",
-      "distance": "0.3 mi",
-      "url": "https://www.google.com/maps/search/Chic%20Basement%20Suite%20ATL%20-%20Private%20Entrance%20%26%20Free%20Charge%20and%20Park+near+33.7556368%2C-84.4969079"
-    },
-    {
-      "name": "Cozy 3 bedroom with Fitness room with a Touch of Luxury",
-      "distance": "0.3 mi",
-      "url": "https://www.google.com/maps/search/Cozy%203%20bedroom%20with%20Fitness%20room%20with%20a%20Touch%20of%20Luxury+near+33.7556368%2C-84.4969079"
     }
   ],
   "gas": [
@@ -207,11 +148,6 @@
       "name": "76",
       "distance": "0.3 mi",
       "url": "https://www.google.com/maps/search/76+near+33.7556368%2C-84.4969079"
-    },
-    {
-      "name": "Quick Mart",
-      "distance": "0.3 mi",
-      "url": "https://www.google.com/maps/search/Quick%20Mart+near+33.7556368%2C-84.4969079"
     }
   ]
 }

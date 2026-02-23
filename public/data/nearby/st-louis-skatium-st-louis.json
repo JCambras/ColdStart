@@ -60,11 +60,6 @@
       "name": "The yacht club",
       "distance": "0.6 mi",
       "url": "https://www.google.com/maps/search/The%20yacht%20club+near+38.539632%2C-90.2655235"
-    },
-    {
-      "name": "Imo's Pizza",
-      "distance": "0.8 mi",
-      "url": "https://www.google.com/maps/search/Imo's%20Pizza+near+38.539632%2C-90.2655235"
     }
   ],
   "dinner": [
@@ -97,11 +92,6 @@
       "name": "Mama's Breakfast Table",
       "distance": "0.7 mi",
       "url": "https://www.google.com/maps/search/Mama's%20Breakfast%20Table+near+38.539632%2C-90.2655235"
-    },
-    {
-      "name": "Stacked STL",
-      "distance": "0.7 mi",
-      "url": "https://www.google.com/maps/search/Stacked%20STL+near+38.539632%2C-90.2655235"
     }
   ],
   "bowling": [
@@ -120,18 +110,6 @@
       "name": "STL Riverboat Open",
       "distance": "4.3 mi",
       "url": "https://www.google.com/maps/search/STL%20Riverboat%20Open+near+38.539632%2C-90.2655235",
-      "isFar": true
-    },
-    {
-      "name": "Bowl-T's Bowling & Trophy Shop",
-      "distance": "4.4 mi",
-      "url": "https://www.google.com/maps/search/Bowl-T's%20Bowling%20%26%20Trophy%20Shop+near+38.539632%2C-90.2655235",
-      "isFar": true
-    },
-    {
-      "name": "Sunset lanes",
-      "distance": "4.4 mi",
-      "url": "https://www.google.com/maps/search/Sunset%20lanes+near+38.539632%2C-90.2655235",
       "isFar": true
     }
   ],
@@ -166,12 +144,6 @@
       "distance": "4.4 mi",
       "url": "https://www.google.com/maps/search/Tilles%20Park%20Splash%20Pad+near+38.539632%2C-90.2655235",
       "isFar": true
-    },
-    {
-      "name": "Lyon Park Fountain",
-      "distance": "4.7 mi",
-      "url": "https://www.google.com/maps/search/Lyon%20Park%20Fountain+near+38.539632%2C-90.2655235",
-      "isFar": true
     }
   ],
   "hotels": [
@@ -191,24 +163,9 @@
       "url": "https://www.google.com/maps/search/River%20City%20Casino%20Hotel+near+38.539632%2C-90.2655235"
     },
     {
-      "name": "Enjoyable 3-bedroom house with AC in St. Louis",
-      "distance": "1.0 mi",
-      "url": "https://www.google.com/maps/search/Enjoyable%203-bedroom%20house%20with%20AC%20in%20St.%20Louis+near+38.539632%2C-90.2655235"
-    },
-    {
       "name": "Stay STL2 Bed HouseDog FriendlyFenced YardW /D",
       "distance": "1.0 mi",
       "url": "https://www.google.com/maps/search/Stay%20STL2%20Bed%20HouseDog%20FriendlyFenced%20YardW%20%2FD+near+38.539632%2C-90.2655235"
-    },
-    {
-      "name": "9 Mi to Downtown St Louis Apt with Fire Pit Access - Apartment",
-      "distance": "1.2 mi",
-      "url": "https://www.google.com/maps/search/9%20Mi%20to%20Downtown%20St%20Louis%20Apt%20with%20Fire%20Pit%20Access%20-%20Apartment+near+38.539632%2C-90.2655235"
-    },
-    {
-      "name": "Quiet St Louis Apt 3 Mi to Carondelet Park - Apartment",
-      "distance": "1.2 mi",
-      "url": "https://www.google.com/maps/search/Quiet%20St%20Louis%20Apt%203%20Mi%20to%20Carondelet%20Park%20-%20Apartment+near+38.539632%2C-90.2655235"
     }
   ],
   "gas": [
@@ -231,11 +188,6 @@
       "name": "QT",
       "distance": "0.8 mi",
       "url": "https://www.google.com/maps/search/QT+near+38.539632%2C-90.2655235"
-    },
-    {
-      "name": "Phillips 66",
-      "distance": "1.3 mi",
-      "url": "https://www.google.com/maps/search/Phillips%2066+near+38.539632%2C-90.2655235"
     }
   ]
 }

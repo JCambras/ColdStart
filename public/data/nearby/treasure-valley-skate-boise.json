@@ -46,16 +46,6 @@
       "name": "Buzz",
       "distance": "0.6 mi",
       "url": "https://www.google.com/maps/search/Buzz+near+43.649626399999995%2C-116.24658799999999"
-    },
-    {
-      "name": "River City Coffee & Cafe",
-      "distance": "0.7 mi",
-      "url": "https://www.google.com/maps/search/River%20City%20Coffee%20%26%20Cafe+near+43.649626399999995%2C-116.24658799999999"
-    },
-    {
-      "name": "Hidden Grounds Coffee",
-      "distance": "0.8 mi",
-      "url": "https://www.google.com/maps/search/Hidden%20Grounds%20Coffee+near+43.649626399999995%2C-116.24658799999999"
     }
   ],
   "team_lunch": [
@@ -105,11 +95,6 @@
       "name": "Blue Sky Bagels",
       "distance": "0.7 mi",
       "url": "https://www.google.com/maps/search/Blue%20Sky%20Bagels+near+43.649626399999995%2C-116.24658799999999"
-    },
-    {
-      "name": "The Local",
-      "distance": "0.8 mi",
-      "url": "https://www.google.com/maps/search/The%20Local+near+43.649626399999995%2C-116.24658799999999"
     }
   ],
   "bowling": [
@@ -144,18 +129,6 @@
       "distance": "4.4 mi",
       "url": "https://www.google.com/maps/search/Overland%20Park%20Cinemas+near+43.649626399999995%2C-116.24658799999999",
       "isFar": true
-    },
-    {
-      "name": "IMAX At Regal Edwards Boise",
-      "distance": "4.4 mi",
-      "url": "https://www.google.com/maps/search/IMAX%20At%20Regal%20Edwards%20Boise+near+43.649626399999995%2C-116.24658799999999",
-      "isFar": true
-    },
-    {
-      "name": "Regal Edwards Boise",
-      "distance": "4.5 mi",
-      "url": "https://www.google.com/maps/search/Regal%20Edwards%20Boise+near+43.649626399999995%2C-116.24658799999999",
-      "isFar": true
     }
   ],
   "fun": [
@@ -178,63 +151,9 @@
       "name": "Clockwise Escape Room Boise",
       "distance": "3.0 mi",
       "url": "https://www.google.com/maps/search/Clockwise%20Escape%20Room%20Boise+near+43.649626399999995%2C-116.24658799999999"
-    },
-    {
-      "name": "Labyrinth Escape Games Boise",
-      "distance": "3.1 mi",
-      "url": "https://www.google.com/maps/search/Labyrinth%20Escape%20Games%20Boise+near+43.649626399999995%2C-116.24658799999999",
-      "isFar": true
-    },
-    {
-      "name": "Monster Bounce",
-      "distance": "3.2 mi",
-      "url": "https://www.google.com/maps/search/Monster%20Bounce+near+43.649626399999995%2C-116.24658799999999",
-      "isFar": true
-    },
-    {
-      "name": "Escape the Room Boise",
-      "distance": "3.3 mi",
-      "url": "https://www.google.com/maps/search/Escape%20the%20Room%20Boise+near+43.649626399999995%2C-116.24658799999999",
-      "isFar": true
     }
   ],
-  "hotels": [
-    {
-      "name": "Cheerful 2 bedroom Best Value in NW Boise; 10 min to downtown",
-      "distance": "0.2 mi",
-      "url": "https://www.google.com/maps/search/Cheerful%202%20bedroom%20Best%20Value%20in%20NW%20Boise%3B%2010%20min%20to%20downtown+near+43.649626399999995%2C-116.24658799999999"
-    },
-    {
-      "name": "Cheerful 2 bedroom Best Value in NW Boise; 10 min to downtown",
-      "distance": "0.2 mi",
-      "url": "https://www.google.com/maps/search/Cheerful%202%20bedroom%20Best%20Value%20in%20NW%20Boise%3B%2010%20min%20to%20downtown+near+43.649626399999995%2C-116.24658799999999"
-    },
-    {
-      "name": "Best Value in NW Boise- large backyard, fire pit, 10 min to downtown",
-      "distance": "0.2 mi",
-      "url": "https://www.google.com/maps/search/Best%20Value%20in%20NW%20Boise-%20large%20backyard%2C%20fire%20pit%2C%2010%20min%20to%20downtown+near+43.649626399999995%2C-116.24658799999999"
-    },
-    {
-      "name": "Best Value in NW Boise- large backyard, fire pit, 10 min to downtown",
-      "distance": "0.2 mi",
-      "url": "https://www.google.com/maps/search/Best%20Value%20in%20NW%20Boise-%20large%20backyard%2C%20fire%20pit%2C%2010%20min%20to%20downtown+near+43.649626399999995%2C-116.24658799999999"
-    },
-    {
-      "name": "The Nordic Nest on the Greenbelt",
-      "distance": "0.3 mi",
-      "url": "https://www.google.com/maps/search/The%20Nordic%20Nest%20on%20the%20Greenbelt+near+43.649626399999995%2C-116.24658799999999"
-    },
-    {
-      "name": "Greenbelt Beach Getaway",
-      "distance": "0.4 mi",
-      "url": "https://www.google.com/maps/search/Greenbelt%20Beach%20Getaway+near+43.649626399999995%2C-116.24658799999999"
-    },
-    {
-      "name": "Charming Getaway - Cozy 2 Bed 1 Bath Near It All",
-      "distance": "0.4 mi",
-      "url": "https://www.google.com/maps/search/Charming%20Getaway%20-%20Cozy%202%20Bed%201%20Bath%20Near%20It%20All+near+43.649626399999995%2C-116.24658799999999"
-    }
-  ],
+  "hotels": [],
   "gas": [
     {
       "name": "On the Fly",
@@ -255,11 +174,6 @@
       "name": "Sinclair Gas Station",
       "distance": "1.1 mi",
       "url": "https://www.google.com/maps/search/Sinclair%20Gas%20Station+near+43.649626399999995%2C-116.24658799999999"
-    },
-    {
-      "name": "Shell",
-      "distance": "1.1 mi",
-      "url": "https://www.google.com/maps/search/Shell+near+43.649626399999995%2C-116.24658799999999"
     }
   ]
 }

@@ -29,34 +29,9 @@
       "name": "Wendy's",
       "distance": "0.6 mi",
       "url": "https://www.google.com/maps/search/?api=1&query=Wendy's&query_place_id=ChIJG_rBtawPD4gRwl6T3YSfdJ8&center=42.1039071,-88.2912511"
-    },
-    {
-      "name": "Taco Bell",
-      "distance": "0.6 mi",
-      "url": "https://www.google.com/maps/search/?api=1&query=Taco%20Bell&query_place_id=ChIJG_rBtawPD4gR794dfe8UA0I&center=42.1041934,-88.29152719999999"
-    },
-    {
-      "name": "Jersey Mike's Subs",
-      "distance": "0.6 mi",
-      "url": "https://www.google.com/maps/search/?api=1&query=Jersey%20Mike's%20Subs&query_place_id=ChIJ1SBA0KwPD4gRBxKvVz_Gn2I&center=42.1045979,-88.29161069999999"
-    },
-    {
-      "name": "Wendy's",
-      "distance": "1.9 mi",
-      "url": "https://www.google.com/maps/search/?api=1&query=Wendy's&query_place_id=ChIJV9C_JSUPD4gR92FIdxNV5bI&center=42.0903297,-88.2573085"
-    },
-    {
-      "name": "EL BUEN DESPACHO",
-      "distance": "2.2 mi",
-      "url": "https://www.google.com/maps/search/?api=1&query=EL%20BUEN%20DESPACHO&query_place_id=ChIJ67UrWpgOD4gRY7c6Kau_-mc&center=42.0759869,-88.2601622"
     }
   ],
   "coffee": [
-    {
-      "name": "McDonald's",
-      "distance": "0.3 mi",
-      "url": "https://www.google.com/maps/search/?api=1&query=McDonald's&query_place_id=ChIJXZgNLaYPD4gRXfsDVWPACe4&center=42.0945803,-88.2876268"
-    },
     {
       "name": "Van's Frozen Custard",
       "distance": "0.4 mi",
@@ -76,11 +51,6 @@
       "name": "Mrs. Fields",
       "distance": "1.5 mi",
       "url": "https://www.google.com/maps/search/?api=1&query=Mrs.%20Fields&query_place_id=ChIJW2k6CDkPD4gR8a1KnvC34nc&center=42.0743058,-88.2906648"
-    },
-    {
-      "name": "McDonald's",
-      "distance": "2.2 mi",
-      "url": "https://www.google.com/maps/search/?api=1&query=McDonald's&query_place_id=ChIJnxkmrtsOD4gR0lLvKRS4g8Q&center=42.113224699999996,-88.2583626"
     }
   ],
   "team_lunch": [
@@ -113,26 +83,6 @@
       "name": "Papa Johns Pizza",
       "distance": "0.4 mi",
       "url": "https://www.google.com/maps/search/?api=1&query=Papa%20Johns%20Pizza&query_place_id=ChIJVU1ntKkPD4gRJA8D3Ifg88s&center=42.0976765,-88.2864243"
-    },
-    {
-      "name": "New Dragon Buffet",
-      "distance": "0.4 mi",
-      "url": "https://www.google.com/maps/search/?api=1&query=New%20Dragon%20Buffet&query_place_id=ChIJNTbj9wgPD4gRzTg5HeP5k8s&center=42.0919708,-88.28719629999999"
-    },
-    {
-      "name": "Gilbert's Kitchen",
-      "distance": "0.5 mi",
-      "url": "https://www.google.com/maps/search/?api=1&query=Gilbert's%20Kitchen&query_place_id=ChIJw-EnXKEPD4gReyWcw5qDu0k&center=42.089058,-88.28903369999999"
-    },
-    {
-      "name": "The Meltdown",
-      "distance": "0.7 mi",
-      "url": "https://www.google.com/maps/search/?api=1&query=The%20Meltdown&query_place_id=ChIJW-rVsyoPD4gR1exvwdOfIW8&center=42.106131,-88.293251"
-    },
-    {
-      "name": "Rossi's Deli",
-      "distance": "1.1 mi",
-      "url": "https://www.google.com/maps/search/?api=1&query=Rossi's%20Deli&query_place_id=ChIJ4xNVA6wPD4gR977Tq1YkaC4&center=42.1011647,-88.27461129999999"
     }
   ],
   "dinner": [

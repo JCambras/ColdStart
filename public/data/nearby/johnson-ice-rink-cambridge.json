@@ -29,16 +29,6 @@
       "name": "Subway",
       "distance": "0.6 mi",
       "url": "https://www.google.com/maps/search/?api=1&query=Subway&query_place_id=ChIJobwXRVF344kRBlFTePbAKuo&center=42.3650154,-71.10419639999999"
-    },
-    {
-      "name": "Jersey Mike's Subs",
-      "distance": "0.6 mi",
-      "url": "https://www.google.com/maps/search/?api=1&query=Jersey%20Mike's%20Subs&query_place_id=ChIJ_RRxtFR344kRLWMx3THuMq4&center=42.3659007,-71.1039744"
-    },
-    {
-      "name": "Cafe Spice",
-      "distance": "0.7 mi",
-      "url": "https://www.google.com/maps/search/?api=1&query=Cafe%20Spice&query_place_id=ChIJ_XOQhapw44kRx9GrwUVmkWc&center=42.3598851,-71.10998579999999"
     }
   ],
   "coffee": [
@@ -66,31 +56,6 @@
       "name": "The Smoot Standard",
       "distance": "0.3 mi",
       "url": "https://www.google.com/maps/search/?api=1&query=The%20Smoot%20Standard&query_place_id=ChIJndlF60Z344kRtdHneUIQKqg&center=42.3624577,-71.0984355"
-    },
-    {
-      "name": "Praliné French Patisserie",
-      "distance": "0.4 mi",
-      "url": "https://www.google.com/maps/search/?api=1&query=Pralin%C3%A9%20French%20Patisserie&query_place_id=ChIJ-ZEehVR344kRjOSOOJKEXGg&center=42.3636048,-71.0996658"
-    },
-    {
-      "name": "Flour Bakery + Cafe",
-      "distance": "0.4 mi",
-      "url": "https://www.google.com/maps/search/?api=1&query=Flour%20Bakery%20%2B%20Cafe&query_place_id=ChIJ0Ydhzf1544kRRKBO4IbGFSs&center=42.3577848,-71.1042062"
-    },
-    {
-      "name": "Mariposa Bakery",
-      "distance": "0.4 mi",
-      "url": "https://www.google.com/maps/search/?api=1&query=Mariposa%20Bakery&query_place_id=ChIJfevwY1R344kR7fSF3hTUsY8&center=42.3633039,-71.1007291"
-    },
-    {
-      "name": "McDonald's",
-      "distance": "0.4 mi",
-      "url": "https://www.google.com/maps/search/?api=1&query=McDonald's&query_place_id=ChIJ57WoelR344kRKbrMAa7zfAU&center=42.3640027,-71.1008746"
-    },
-    {
-      "name": "Clover",
-      "distance": "0.5 mi",
-      "url": "https://www.google.com/maps/search/?api=1&query=Clover&query_place_id=ChIJ362dc1R344kRqHTdolOZgS0&center=42.363904,-71.1016458"
     }
   ],
   "team_lunch": [

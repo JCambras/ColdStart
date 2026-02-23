@@ -1,11 +1,5 @@
 {
-  "quick_bite": [
-    {
-      "name": "Maplewood Kitchen and Bar",
-      "distance": "0.1 mi",
-      "url": "https://www.google.com/maps/search/Maplewood%20Kitchen%20and%20Bar+near+39.1017746%2C-84.51591069999999"
-    }
-  ],
+  "quick_bite": [],
   "coffee": [
     {
       "name": "The Kidd Coffee Co.",
@@ -80,11 +74,6 @@
       "name": "Shanghai on Elm",
       "distance": "0.1 mi",
       "url": "https://www.google.com/maps/search/Shanghai%20on%20Elm+near+39.1017746%2C-84.51591069999999"
-    },
-    {
-      "name": "Marigold",
-      "distance": "0.1 mi",
-      "url": "https://www.google.com/maps/search/Marigold+near+39.1017746%2C-84.51591069999999"
     }
   ],
   "bowling": [
@@ -102,17 +91,6 @@
       "name": "Super Bowl Bellewood",
       "distance": "2.4 mi",
       "url": "https://www.google.com/maps/search/Super%20Bowl%20Bellewood+near+39.1017746%2C-84.51591069999999"
-    },
-    {
-      "name": "Strike Time Pro Shop",
-      "distance": "2.4 mi",
-      "url": "https://www.google.com/maps/search/Strike%20Time%20Pro%20Shop+near+39.1017746%2C-84.51591069999999"
-    },
-    {
-      "name": "Stone Lanes",
-      "distance": "4.1 mi",
-      "url": "https://www.google.com/maps/search/Stone%20Lanes+near+39.1017746%2C-84.51591069999999",
-      "isFar": true
     }
   ],
   "arcade": [],
@@ -131,26 +109,6 @@
       "name": "NightLight 513",
       "distance": "0.8 mi",
       "url": "https://www.google.com/maps/search/NightLight%20513+near+39.1017746%2C-84.51591069999999"
-    },
-    {
-      "name": "AMC Newport On The Levee 20",
-      "distance": "1.2 mi",
-      "url": "https://www.google.com/maps/search/AMC%20Newport%20On%20The%20Levee%2020+near+39.1017746%2C-84.51591069999999"
-    },
-    {
-      "name": "Robert D. Lindner Family OMNIMAX Theater",
-      "distance": "1.3 mi",
-      "url": "https://www.google.com/maps/search/Robert%20D.%20Lindner%20Family%20OMNIMAX%20Theater+near+39.1017746%2C-84.51591069999999"
-    },
-    {
-      "name": "Marianne Theater",
-      "distance": "1.9 mi",
-      "url": "https://www.google.com/maps/search/Marianne%20Theater+near+39.1017746%2C-84.51591069999999"
-    },
-    {
-      "name": "Mainstreet Cinema",
-      "distance": "2.1 mi",
-      "url": "https://www.google.com/maps/search/Mainstreet%20Cinema+near+39.1017746%2C-84.51591069999999"
     }
   ],
   "fun": [
@@ -173,34 +131,13 @@
       "name": "Immersive Gamebox - Newport on the Levee, Newport",
       "distance": "1.1 mi",
       "url": "https://www.google.com/maps/search/Immersive%20Gamebox%20-%20Newport%20on%20the%20Levee%2C%20Newport+near+39.1017746%2C-84.51591069999999"
-    },
-    {
-      "name": "Delhi Who Dunnit & Who Dunnit TECH",
-      "distance": "4.8 mi",
-      "url": "https://www.google.com/maps/search/Delhi%20Who%20Dunnit%20%26%20Who%20Dunnit%20TECH+near+39.1017746%2C-84.51591069999999",
-      "isFar": true
     }
   ],
   "hotels": [
     {
-      "name": "Downtown Cincinnati Elegant & Comfortable 2-Bedroom City Retreat",
-      "distance": "0.1 mi",
-      "url": "https://www.google.com/maps/search/Downtown%20Cincinnati%20Elegant%20%26%20Comfortable%202-Bedroom%20City%20Retreat+near+39.1017746%2C-84.51591069999999"
-    },
-    {
-      "name": "Downtown Cincinnati Elegant Comfortable 2-Bedroom City Retreat",
-      "distance": "0.1 mi",
-      "url": "https://www.google.com/maps/search/Downtown%20Cincinnati%20Elegant%20Comfortable%202-Bedroom%20City%20Retreat+near+39.1017746%2C-84.51591069999999"
-    },
-    {
       "name": "Stay6th&Race | Downtown Cincy",
       "distance": "0.1 mi",
       "url": "https://www.google.com/maps/search/Stay6th%26Race%20%7C%20Downtown%20Cincy+near+39.1017746%2C-84.51591069999999"
-    },
-    {
-      "name": "Downtown Cincinnati Elegant & Comfortable 2-Bedroom City Retreat",
-      "distance": "0.1 mi",
-      "url": "https://www.google.com/maps/search/Downtown%20Cincinnati%20Elegant%20%26%20Comfortable%202-Bedroom%20City%20Retreat+near+39.1017746%2C-84.51591069999999"
     },
     {
       "name": "Together by Hyatt",
@@ -223,11 +160,6 @@
       "name": "Marathon Gas",
       "distance": "0.7 mi",
       "url": "https://www.google.com/maps/search/Marathon%20Gas+near+39.1017746%2C-84.51591069999999"
-    },
-    {
-      "name": "Shell",
-      "distance": "0.8 mi",
-      "url": "https://www.google.com/maps/search/Shell+near+39.1017746%2C-84.51591069999999"
     },
     {
       "name": "Shell",

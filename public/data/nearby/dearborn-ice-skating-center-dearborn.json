@@ -36,11 +36,6 @@
       "name": "Einstein Bros. Bagels",
       "distance": "0.7 mi",
       "url": "https://www.google.com/maps/search/?api=1&query=Einstein%20Bros.%20Bagels&query_place_id=ChIJN8jON940O4gRzhtqFncE8sU&center=42.331187899999996,-83.2037903"
-    },
-    {
-      "name": "McDonald's",
-      "distance": "0.8 mi",
-      "url": "https://www.google.com/maps/search/?api=1&query=McDonald's&query_place_id=ChIJ57NPkPI0O4gRzLOdaNnVfac&center=42.318932,-83.188386"
     }
   ],
   "team_lunch": [
@@ -73,16 +68,6 @@
       "name": "Place Next to Riverside Academy west",
       "distance": "0.8 mi",
       "url": "https://www.google.com/maps/search/?api=1&query=Place%20Next%20to%20Riverside%20Academy%20west&query_place_id=ChIJZwszQdU1O4gR8SvrhfDhA4s&center=42.336455699999995,-83.1767816"
-    },
-    {
-      "name": "Prince Bakeries Inc",
-      "distance": "0.8 mi",
-      "url": "https://www.google.com/maps/search/?api=1&query=Prince%20Bakeries%20Inc&query_place_id=ChIJH8BWws80O4gRrcdFD_Hcj7E&center=42.340804399999996,-83.19656979999999"
-    },
-    {
-      "name": "Mr Sweet ملك الكنافة",
-      "distance": "0.8 mi",
-      "url": "https://www.google.com/maps/search/?api=1&query=Mr%20Sweet%20%D9%85%D9%84%D9%83%20%D8%A7%D9%84%D9%83%D9%86%D8%A7%D9%81%D8%A9&query_place_id=ChIJ0RYjYgA1O4gRYstbXsPvHW4&center=42.3409396,-83.1965907"
     }
   ],
   "dinner": [
@@ -115,11 +100,6 @@
       "name": "Dearborn Sweets Inc",
       "distance": "0.6 mi",
       "url": "https://www.google.com/maps/search/Dearborn%20Sweets%20Inc+near+42.330364599999996%2C-83.189342"
-    },
-    {
-      "name": "Ricky's Sub Shop",
-      "distance": "0.6 mi",
-      "url": "https://www.google.com/maps/search/Ricky's%20Sub%20Shop+near+42.330364599999996%2C-83.189342"
     }
   ],
   "bowling": [
@@ -151,12 +131,6 @@
       "name": "Giant Screen Experience",
       "distance": "3.0 mi",
       "url": "https://www.google.com/maps/search/Giant%20Screen%20Experience+near+42.330364599999996%2C-83.189342"
-    },
-    {
-      "name": "Triplett Outdoor Entertainment",
-      "distance": "4.3 mi",
-      "url": "https://www.google.com/maps/search/Triplett%20Outdoor%20Entertainment+near+42.330364599999996%2C-83.189342",
-      "isFar": true
     }
   ],
   "fun": [
@@ -186,21 +160,6 @@
   ],
   "hotels": [
     {
-      "name": "Home Away From Home Dearborn Heated Pool - Apartment",
-      "distance": "0.4 mi",
-      "url": "https://www.google.com/maps/search/Home%20Away%20From%20Home%20Dearborn%20Heated%20Pool%20-%20Apartment+near+42.330364599999996%2C-83.189342"
-    },
-    {
-      "name": "Lower level Unit Private Entrance; newly renovated",
-      "distance": "0.7 mi",
-      "url": "https://www.google.com/maps/search/Lower%20level%20Unit%20Private%20Entrance%3B%20newly%20renovated+near+42.330364599999996%2C-83.189342"
-    },
-    {
-      "name": "Lower level Unit Private Entrance; newly renovated",
-      "distance": "0.7 mi",
-      "url": "https://www.google.com/maps/search/Lower%20level%20Unit%20Private%20Entrance%3B%20newly%20renovated+near+42.330364599999996%2C-83.189342"
-    },
-    {
       "name": "Ramez’s house",
       "distance": "0.7 mi",
       "url": "https://www.google.com/maps/search/Ramez%E2%80%99s%20house+near+42.330364599999996%2C-83.189342"
@@ -209,16 +168,6 @@
       "name": "Courtyard by Marriott Detroit Dearborn",
       "distance": "0.8 mi",
       "url": "https://www.google.com/maps/search/Courtyard%20by%20Marriott%20Detroit%20Dearborn+near+42.330364599999996%2C-83.189342"
-    },
-    {
-      "name": "Cozy Condo with Parking",
-      "distance": "0.8 mi",
-      "url": "https://www.google.com/maps/search/Cozy%20Condo%20with%20Parking+near+42.330364599999996%2C-83.189342"
-    },
-    {
-      "name": "Place in Front of Riverside Academy West",
-      "distance": "0.8 mi",
-      "url": "https://www.google.com/maps/search/Place%20in%20Front%20of%20Riverside%20Academy%20West+near+42.330364599999996%2C-83.189342"
     }
   ],
   "gas": [
@@ -241,11 +190,6 @@
       "name": "SHELL",
       "distance": "0.5 mi",
       "url": "https://www.google.com/maps/search/SHELL+near+42.330364599999996%2C-83.189342"
-    },
-    {
-      "name": "Shell",
-      "distance": "0.5 mi",
-      "url": "https://www.google.com/maps/search/Shell+near+42.330364599999996%2C-83.189342"
     }
   ]
 }

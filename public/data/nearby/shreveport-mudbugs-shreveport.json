@@ -1,11 +1,6 @@
 {
   "quick_bite": [
     {
-      "name": "Popeyes Louisiana Kitchen",
-      "distance": "0.5 mi",
-      "url": "https://www.google.com/maps/search/Popeyes%20Louisiana%20Kitchen+near+32.4767194%2C-93.7893819"
-    },
-    {
       "name": "Whataburger",
       "distance": "0.5 mi",
       "url": "https://www.google.com/maps/search/Whataburger+near+32.4767194%2C-93.7893819"
@@ -14,11 +9,6 @@
       "name": "Wendy's",
       "distance": "0.5 mi",
       "url": "https://www.google.com/maps/search/Wendy's+near+32.4767194%2C-93.7893819"
-    },
-    {
-      "name": "Subway",
-      "distance": "0.6 mi",
-      "url": "https://www.google.com/maps/search/Subway+near+32.4767194%2C-93.7893819"
     },
     {
       "name": "Subway",
@@ -36,13 +26,7 @@
       "url": "https://www.google.com/maps/search/Krispy%20Krunchy%20Chicken+near+32.4767194%2C-93.7893819"
     }
   ],
-  "coffee": [
-    {
-      "name": "McDonald's",
-      "distance": "0.5 mi",
-      "url": "https://www.google.com/maps/search/McDonald's+near+32.4767194%2C-93.7893819"
-    }
-  ],
+  "coffee": [],
   "team_lunch": [
     {
       "name": "Nacho Belle's Food Truck",
@@ -120,18 +104,6 @@
       "distance": "3.3 mi",
       "url": "https://www.google.com/maps/search/Robinson%20Film%20Center+near+32.4767194%2C-93.7893819",
       "isFar": true
-    },
-    {
-      "name": "Regal Louisiana Boardwalk",
-      "distance": "4.1 mi",
-      "url": "https://www.google.com/maps/search/Regal%20Louisiana%20Boardwalk+near+32.4767194%2C-93.7893819",
-      "isFar": true
-    },
-    {
-      "name": "Foxtrot Cinema Events",
-      "distance": "4.6 mi",
-      "url": "https://www.google.com/maps/search/Foxtrot%20Cinema%20Events+near+32.4767194%2C-93.7893819",
-      "isFar": true
     }
   ],
   "fun": [
@@ -165,19 +137,9 @@
       "url": "https://www.google.com/maps/search/Cajun%20Inn+near+32.4767194%2C-93.7893819"
     },
     {
-      "name": "Down South, Charming 2-bedroom house, Sleeps 8, 2 Full Bathrooms",
-      "distance": "0.9 mi",
-      "url": "https://www.google.com/maps/search/Down%20South%2C%20Charming%202-bedroom%20house%2C%20Sleeps%208%2C%202%20Full%20Bathrooms+near+32.4767194%2C-93.7893819"
-    },
-    {
       "name": "Shady Oaks Cafe",
       "distance": "1.1 mi",
       "url": "https://www.google.com/maps/search/Shady%20Oaks%20Cafe+near+32.4767194%2C-93.7893819"
-    },
-    {
-      "name": "Quiet Shreveport Tudor. 5 minutes to Cross Lake.",
-      "distance": "1.1 mi",
-      "url": "https://www.google.com/maps/search/Quiet%20Shreveport%20Tudor.%205%20minutes%20to%20Cross%20Lake.+near+32.4767194%2C-93.7893819"
     },
     {
       "name": "Travelodge by Wyndham Shreveport LA",
@@ -205,11 +167,6 @@
       "name": "AKS EXPRESS",
       "distance": "0.5 mi",
       "url": "https://www.google.com/maps/search/AKS%20EXPRESS+near+32.4767194%2C-93.7893819"
-    },
-    {
-      "name": "RaceWay",
-      "distance": "0.6 mi",
-      "url": "https://www.google.com/maps/search/RaceWay+near+32.4767194%2C-93.7893819"
     }
   ]
 }

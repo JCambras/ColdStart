@@ -35,30 +35,6 @@
       "distance": "12.3 mi",
       "url": "https://www.google.com/maps/search/?api=1&query=Subway&query_place_id=ChIJKS56_1fBzIkR7xEK4IVsyFU&center=41.1629265,-79.09846379999999",
       "isFar": true
-    },
-    {
-      "name": "Wendy's",
-      "distance": "12.4 mi",
-      "url": "https://www.google.com/maps/search/?api=1&query=Wendy's&query_place_id=ChIJ1xq1LzUzM4gRzcl4Vzt-cEM&center=41.211818799999996,-79.38109759999999",
-      "isFar": true
-    },
-    {
-      "name": "E-Z Dogs",
-      "distance": "12.7 mi",
-      "url": "https://www.google.com/maps/search/?api=1&query=E-Z%20Dogs&query_place_id=ChIJ3TGdPVozM4gRyvfNxBTARz0&center=41.2064613,-79.38344579999999",
-      "isFar": true
-    },
-    {
-      "name": "Dairy Queen Grill & Chill",
-      "distance": "13.0 mi",
-      "url": "https://www.google.com/maps/search/?api=1&query=Dairy%20Queen%20Grill%20%26%20Chill&query_place_id=ChIJqa_s9PwyM4gR29mymQBGxWk&center=41.236811700000004,-79.4165397",
-      "isFar": true
-    },
-    {
-      "name": "Wendy's",
-      "distance": "13.2 mi",
-      "url": "https://www.google.com/maps/search/?api=1&query=Wendy's&query_place_id=ChIJPye32h7DzIkRSJsW-_DvEcs&center=41.1713964,-79.046543",
-      "isFar": true
     }
   ],
   "coffee": [
@@ -66,18 +42,6 @@
       "name": "Cooksburg Cafe",
       "distance": "0.4 mi",
       "url": "https://www.google.com/maps/search/?api=1&query=Cooksburg%20Cafe&query_place_id=ChIJpTDWyavQzIkRtP17IxEnqLM&center=41.3287111,-79.203906"
-    },
-    {
-      "name": "McDonald's",
-      "distance": "11.6 mi",
-      "url": "https://www.google.com/maps/search/?api=1&query=McDonald's&query_place_id=ChIJKaMNBfDDzIkRnQ9gSPMPzWI&center=41.1738079,-79.0988582",
-      "isFar": true
-    },
-    {
-      "name": "McDonald's",
-      "distance": "12.4 mi",
-      "url": "https://www.google.com/maps/search/?api=1&query=McDonald's&query_place_id=ChIJYSRy6TQzM4gRR_XdHAid2NM&center=41.2135657,-79.3817407",
-      "isFar": true
     }
   ],
   "team_lunch": [

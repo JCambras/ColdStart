@@ -29,11 +29,6 @@
       "name": "Jersey Mike's Subs",
       "distance": "0.2 mi",
       "url": "https://www.google.com/maps/search/Jersey%20Mike's%20Subs+near+42.3111719%2C-122.85304649999999"
-    },
-    {
-      "name": "Taco Bell",
-      "distance": "0.2 mi",
-      "url": "https://www.google.com/maps/search/Taco%20Bell+near+42.3111719%2C-122.85304649999999"
     }
   ],
   "coffee": [
@@ -95,11 +90,6 @@
       "name": "Rooted: South Medford",
       "distance": "0.1 mi",
       "url": "https://www.google.com/maps/search/Rooted%3A%20South%20Medford+near+42.3111719%2C-122.85304649999999"
-    },
-    {
-      "name": "Walmart Bakery",
-      "distance": "0.2 mi",
-      "url": "https://www.google.com/maps/search/Walmart%20Bakery+near+42.3111719%2C-122.85304649999999"
     }
   ],
   "bowling": [
@@ -132,12 +122,6 @@
       "name": "Baffled Escape Rooms",
       "distance": "2.5 mi",
       "url": "https://www.google.com/maps/search/Baffled%20Escape%20Rooms+near+42.3111719%2C-122.85304649999999"
-    },
-    {
-      "name": "Howard Park Splash Pad",
-      "distance": "3.8 mi",
-      "url": "https://www.google.com/maps/search/Howard%20Park%20Splash%20Pad+near+42.3111719%2C-122.85304649999999",
-      "isFar": true
     }
   ],
   "hotels": [
@@ -170,11 +154,6 @@
       "name": "Comfort Inn Medford South",
       "distance": "0.3 mi",
       "url": "https://www.google.com/maps/search/Comfort%20Inn%20Medford%20South+near+42.3111719%2C-122.85304649999999"
-    },
-    {
-      "name": "Best Western Horizon Inn",
-      "distance": "0.3 mi",
-      "url": "https://www.google.com/maps/search/Best%20Western%20Horizon%20Inn+near+42.3111719%2C-122.85304649999999"
     }
   ],
   "gas": [
@@ -197,11 +176,6 @@
       "name": "Kroger Fuel",
       "distance": "0.3 mi",
       "url": "https://www.google.com/maps/search/Kroger%20Fuel+near+42.3111719%2C-122.85304649999999"
-    },
-    {
-      "name": "Chevron Medford",
-      "distance": "0.4 mi",
-      "url": "https://www.google.com/maps/search/Chevron%20Medford+near+42.3111719%2C-122.85304649999999"
     }
   ]
 }

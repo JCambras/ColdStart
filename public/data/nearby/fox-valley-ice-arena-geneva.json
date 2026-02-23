@@ -28,11 +28,6 @@
   ],
   "coffee": [
     {
-      "name": "McDonald's",
-      "distance": "1.0 mi",
-      "url": "https://www.google.com/maps/search/?api=1&query=McDonald's&query_place_id=ChIJqVXRgZ_9DogRWtN-Vc5Vq9Y&center=41.8869495,-88.28247089999999"
-    },
-    {
       "name": "Mrs. Fields",
       "distance": "1.0 mi",
       "url": "https://www.google.com/maps/search/?api=1&query=Mrs.%20Fields&query_place_id=ChIJ0cxnvLv9DogRqKJO1tJoSxs&center=41.8869762,-88.28348419999999"
@@ -56,16 +51,6 @@
       "name": "HEY SUGAR",
       "distance": "1.6 mi",
       "url": "https://www.google.com/maps/search/?api=1&query=HEY%20SUGAR&query_place_id=ChIJPREnVwH9DogR7fVbGBNByWg&center=41.8826934,-88.3089066"
-    },
-    {
-      "name": "Gather Bakery",
-      "distance": "1.8 mi",
-      "url": "https://www.google.com/maps/search/?api=1&query=Gather%20Bakery&query_place_id=ChIJSZ3aD6j9DogRX40C7p-c-5E&center=41.8881644,-88.3085693"
-    },
-    {
-      "name": "McDonald's",
-      "distance": "2.2 mi",
-      "url": "https://www.google.com/maps/search/?api=1&query=McDonald's&query_place_id=ChIJJdxULMH8DogRp1iuvM0V-H8&center=41.8504193,-88.3092535"
     }
   ],
   "team_lunch": [

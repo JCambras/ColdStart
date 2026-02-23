@@ -11,11 +11,6 @@
       "url": "https://www.google.com/maps/search/New%20York%20Fried%20Chicken+near+39.7697222%2C-75.5391667"
     },
     {
-      "name": "Kitchen Express",
-      "distance": "1.0 mi",
-      "url": "https://www.google.com/maps/search/Kitchen%20Express+near+39.7697222%2C-75.5391667"
-    },
-    {
       "name": "Hoagies Etc",
       "distance": "1.0 mi",
       "url": "https://www.google.com/maps/search/Hoagies%20Etc+near+39.7697222%2C-75.5391667"
@@ -105,11 +100,6 @@
       "name": "GP Pizza & Wings",
       "distance": "1.0 mi",
       "url": "https://www.google.com/maps/search/GP%20Pizza%20%26%20Wings+near+39.7697222%2C-75.5391667"
-    },
-    {
-      "name": "Gyro Everyday Halal Food",
-      "distance": "1.0 mi",
-      "url": "https://www.google.com/maps/search/Gyro%20Everyday%20Halal%20Food+near+39.7697222%2C-75.5391667"
     }
   ],
   "bowling": [
@@ -136,12 +126,6 @@
       "name": "Penn Cinema Riverfront 14 + IMAX",
       "distance": "2.6 mi",
       "url": "https://www.google.com/maps/search/Penn%20Cinema%20Riverfront%2014%20%2B%20IMAX+near+39.7697222%2C-75.5391667"
-    },
-    {
-      "name": "Regal Brandywine Town Center",
-      "distance": "4.4 mi",
-      "url": "https://www.google.com/maps/search/Regal%20Brandywine%20Town%20Center+near+39.7697222%2C-75.5391667",
-      "isFar": true
     }
   ],
   "fun": [
@@ -157,43 +141,7 @@
       "isFar": true
     }
   ],
-  "hotels": [
-    {
-      "name": "Bright & Airy Apartment w Massive Master Suite",
-      "distance": "0.7 mi",
-      "url": "https://www.google.com/maps/search/Bright%20%26%20Airy%20Apartment%20w%20Massive%20Master%20Suite+near+39.7697222%2C-75.5391667"
-    },
-    {
-      "name": "Bright, clean spacious 2 BR apt off street parking",
-      "distance": "0.7 mi",
-      "url": "https://www.google.com/maps/search/Bright%2C%20clean%20spacious%202%20BR%20apt%20off%20street%20parking+near+39.7697222%2C-75.5391667"
-    },
-    {
-      "name": "Sleeps 6, 3BR 1BA,1King+2 Queen beds, perfect for long stays in a great location",
-      "distance": "0.7 mi",
-      "url": "https://www.google.com/maps/search/Sleeps%206%2C%203BR%201BA%2C1King%2B2%20Queen%20beds%2C%20perfect%20for%20long%20stays%20in%20a%20great%20location+near+39.7697222%2C-75.5391667"
-    },
-    {
-      "name": "Sleeps 10, 5 BR 2BA, 5 beds 1King + 4Queen, perfect for long stays",
-      "distance": "0.7 mi",
-      "url": "https://www.google.com/maps/search/Sleeps%2010%2C%205%20BR%202BA%2C%205%20beds%201King%20%2B%204Queen%2C%20perfect%20for%20long%20stays+near+39.7697222%2C-75.5391667"
-    },
-    {
-      "name": "Charming 2-bedroom apartment, Perfect for long stays, close to I-95",
-      "distance": "0.7 mi",
-      "url": "https://www.google.com/maps/search/Charming%202-bedroom%20apartment%2C%20Perfect%20for%20long%20stays%2C%20close%20to%20I-95+near+39.7697222%2C-75.5391667"
-    },
-    {
-      "name": "Fantastic 3BR apartment with 1King 2queen Wilmington, perfect for long stays.",
-      "distance": "0.7 mi",
-      "url": "https://www.google.com/maps/search/Fantastic%203BR%20apartment%20with%201King%202queen%20Wilmington%2C%20perfect%20for%20long%20stays.+near+39.7697222%2C-75.5391667"
-    },
-    {
-      "name": "Spacious 5-bedroom house with 1King + 4queen beds in lovely Wilmington",
-      "distance": "0.7 mi",
-      "url": "https://www.google.com/maps/search/Spacious%205-bedroom%20house%20with%201King%20%2B%204queen%20beds%20in%20lovely%20Wilmington+near+39.7697222%2C-75.5391667"
-    }
-  ],
+  "hotels": [],
   "gas": [
     {
       "name": "Shore Stop",
@@ -214,11 +162,6 @@
       "name": "Citgo",
       "distance": "0.7 mi",
       "url": "https://www.google.com/maps/search/Citgo+near+39.7697222%2C-75.5391667"
-    },
-    {
-      "name": "Sunoco",
-      "distance": "1.0 mi",
-      "url": "https://www.google.com/maps/search/Sunoco+near+39.7697222%2C-75.5391667"
     }
   ]
 }

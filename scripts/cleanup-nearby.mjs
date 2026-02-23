@@ -1,8 +1,9 @@
 #!/usr/bin/env node
 /**
- * Cleanup nearby data for rinks in target states.
+ * Cleanup nearby data for ALL rinks.
  * Fixes: duplicates, Airbnb as hotels, McDonald's/gas stations as coffee,
- * big-box stores as restaurants, splash pads spam, etc.
+ * big-box stores as restaurants, hotel-like entries in food categories,
+ * splash pads spam, etc.
  */
 
 import { readFileSync, writeFileSync, existsSync } from 'fs';
@@ -10,7 +11,6 @@ import { join } from 'path';
 
 const DATA_DIR = join(process.cwd(), 'public/data');
 const NEARBY_DIR = join(DATA_DIR, 'nearby');
-const TARGET_STATES = ['PA', 'NJ', 'NY', 'IL', 'MA', 'MD', 'VA', 'CT'];
 
 // ── Patterns for filtering bad entries ──
 
@@ -157,9 +157,9 @@ function cleanCategory(places, { notPatterns = [], maxEntries = 8, skipJunkFilte
 function cleanNearbyData(data) {
   const result = {};
 
-  // Quick bite: just dedup, limit to 6
+  // Quick bite: remove hotel-like entries, dedup, limit to 6
   if (data.quick_bite) {
-    result.quick_bite = cleanCategory(data.quick_bite, { maxEntries: 6 });
+    result.quick_bite = cleanCategory(data.quick_bite, { notPatterns: NOT_HOTEL, maxEntries: 6 });
   }
 
   // Coffee: remove non-coffee places, dedup, limit to 5
@@ -167,9 +167,9 @@ function cleanNearbyData(data) {
     result.coffee = cleanCategory(data.coffee, { notPatterns: NOT_COFFEE, maxEntries: 5 });
   }
 
-  // Team lunch: remove non-restaurants, dedup, limit to 6
+  // Team lunch: remove non-restaurants and hotel-like entries, dedup, limit to 6
   if (data.team_lunch) {
-    result.team_lunch = cleanCategory(data.team_lunch, { notPatterns: NOT_DINNER, maxEntries: 6 });
+    result.team_lunch = cleanCategory(data.team_lunch, { notPatterns: [...NOT_DINNER, ...NOT_HOTEL], maxEntries: 6 });
   }
 
   // Dinner: remove non-restaurants, dedup, limit to 6
@@ -227,18 +227,14 @@ function cleanNearbyData(data) {
 function main() {
   // Load rinks database
   const rinks = JSON.parse(readFileSync(join(DATA_DIR, 'rinks.json'), 'utf8'));
-
-  // Filter to target states
-  const targetRinks = rinks.filter(r => TARGET_STATES.includes(r.state));
-  console.log(`Found ${targetRinks.length} rinks in ${TARGET_STATES.join(', ')}`);
+  console.log(`Processing all ${rinks.length} rinks`);
 
   let updated = 0;
   let skipped = 0;
   let missing = 0;
   let totalDupsRemoved = 0;
-  let totalBadRemoved = 0;
 
-  for (const rink of targetRinks) {
+  for (const rink of rinks) {
     const filePath = join(NEARBY_DIR, `${rink.id}.json`);
     if (!existsSync(filePath)) {
       missing++;

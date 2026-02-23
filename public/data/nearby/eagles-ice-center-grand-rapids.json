@@ -29,26 +29,6 @@
       "name": "Subway",
       "distance": "0.7 mi",
       "url": "https://www.google.com/maps/search/?api=1&query=Subway&query_place_id=ChIJdXFfFMmyGYgRuooEBzW8YrY&center=42.9129906,-85.6087718"
-    },
-    {
-      "name": "Popeyes Louisiana Kitchen",
-      "distance": "0.8 mi",
-      "url": "https://www.google.com/maps/search/?api=1&query=Popeyes%20Louisiana%20Kitchen&query_place_id=ChIJ84cmv5ezGYgRcDrizey9nws&center=42.9122239,-85.6059824"
-    },
-    {
-      "name": "Grand Indian Cuisine | Best Indian Restaurant in Grand Rapids, MI",
-      "distance": "0.9 mi",
-      "url": "https://www.google.com/maps/search/?api=1&query=Grand%20Indian%20Cuisine%20%7C%20Best%20Indian%20Restaurant%20in%20Grand%20Rapids%2C%20MI&query_place_id=ChIJl9iR3DezGYgREKua-V5vbUQ&center=42.9123002,-85.6351456"
-    },
-    {
-      "name": "Blimpie",
-      "distance": "1.1 mi",
-      "url": "https://www.google.com/maps/search/?api=1&query=Blimpie&query_place_id=ChIJH5ncM6myGYgRiuP4nfiRNgc&center=42.9306804,-85.608791"
-    },
-    {
-      "name": "Taqueria Mr. Chicken",
-      "distance": "1.2 mi",
-      "url": "https://www.google.com/maps/search/?api=1&query=Taqueria%20Mr.%20Chicken&query_place_id=ChIJ77PIlzuzGYgRWf5-131AEog&center=42.9270371,-85.6396062"
     }
   ],
   "coffee": [
@@ -56,11 +36,6 @@
       "name": "Samboosa Bell",
       "distance": "0.9 mi",
       "url": "https://www.google.com/maps/search/?api=1&query=Samboosa%20Bell&query_place_id=ChIJ8UBkTA-zGYgRHTG-OdIWR3Y&center=42.9221761,-85.6362552"
-    },
-    {
-      "name": "McDonald's",
-      "distance": "1.2 mi",
-      "url": "https://www.google.com/maps/search/?api=1&query=McDonald's&query_place_id=ChIJYTs-GDRNGIgRzcsIdqqpDNg&center=42.9118178,-85.5977776"
     }
   ],
   "team_lunch": [
@@ -93,11 +68,6 @@
       "name": "Whole Foods Bakery",
       "distance": "1.5 mi",
       "url": "https://www.google.com/maps/search/?api=1&query=Whole%20Foods%20Bakery&query_place_id=ChIJl7rQWABNGIgRYB3zvJj3oKE&center=42.9110897,-85.5923323"
-    },
-    {
-      "name": "Auntie Anne's",
-      "distance": "1.6 mi",
-      "url": "https://www.google.com/maps/search/?api=1&query=Auntie%20Anne's&query_place_id=ChIJBRlLGTlNGIgREnZMSG5-VWI&center=42.9169844,-85.5887111"
     }
   ],
   "dinner": [
@@ -130,11 +100,6 @@
       "name": "Bagel Beanery",
       "distance": "0.7 mi",
       "url": "https://www.google.com/maps/search/Bagel%20Beanery+near+42.917707799999995%2C-85.6199647"
-    },
-    {
-      "name": "Morning Belle",
-      "distance": "0.9 mi",
-      "url": "https://www.google.com/maps/search/Morning%20Belle+near+42.917707799999995%2C-85.6199647"
     }
   ],
   "bowling": [
@@ -171,12 +136,6 @@
       "distance": "3.9 mi",
       "url": "https://www.google.com/maps/search/Celebration%20Cinema%20Studio%20Park+near+42.917707799999995%2C-85.6199647",
       "isFar": true
-    },
-    {
-      "name": "Celebration Cinema Grand Rapids South",
-      "distance": "4.7 mi",
-      "url": "https://www.google.com/maps/search/Celebration%20Cinema%20Grand%20Rapids%20South+near+42.917707799999995%2C-85.6199647",
-      "isFar": true
     }
   ],
   "fun": [
@@ -191,11 +150,6 @@
       "url": "https://www.google.com/maps/search/FUNBOX%20GRAND%20RAPIDS+near+42.917707799999995%2C-85.6199647"
     },
     {
-      "name": "Garfield Park Splash Pad",
-      "distance": "2.1 mi",
-      "url": "https://www.google.com/maps/search/Garfield%20Park%20Splash%20Pad+near+42.917707799999995%2C-85.6199647"
-    },
-    {
       "name": "Sky Zone Grand Rapids",
       "distance": "2.3 mi",
       "url": "https://www.google.com/maps/search/Sky%20Zone%20Grand%20Rapids+near+42.917707799999995%2C-85.6199647"
@@ -204,54 +158,18 @@
       "name": "Battle Front Gaming",
       "distance": "2.5 mi",
       "url": "https://www.google.com/maps/search/Battle%20Front%20Gaming+near+42.917707799999995%2C-85.6199647"
-    },
-    {
-      "name": "Grand Rapids Escape Room",
-      "distance": "2.6 mi",
-      "url": "https://www.google.com/maps/search/Grand%20Rapids%20Escape%20Room+near+42.917707799999995%2C-85.6199647"
-    },
-    {
-      "name": "The Great Escape Room Grand Rapids",
-      "distance": "3.8 mi",
-      "url": "https://www.google.com/maps/search/The%20Great%20Escape%20Room%20Grand%20Rapids+near+42.917707799999995%2C-85.6199647",
-      "isFar": true
     }
   ],
   "hotels": [
-    {
-      "name": "★ Cozy Home 10 min from Downtown GR ★",
-      "distance": "0.7 mi",
-      "url": "https://www.google.com/maps/search/%E2%98%85%20Cozy%20Home%2010%20min%20from%20Downtown%20GR%20%E2%98%85+near+42.917707799999995%2C-85.6199647"
-    },
-    {
-      "name": "★ Cozy Home 10 min from Downtown GR ★",
-      "distance": "0.7 mi",
-      "url": "https://www.google.com/maps/search/%E2%98%85%20Cozy%20Home%2010%20min%20from%20Downtown%20GR%20%E2%98%85+near+42.917707799999995%2C-85.6199647"
-    },
     {
       "name": "Usic",
       "distance": "1.0 mi",
       "url": "https://www.google.com/maps/search/Usic+near+42.917707799999995%2C-85.6199647"
     },
     {
-      "name": "Paradise in Grand Rapids W /backyard fireplace. Pet friendly.",
-      "distance": "1.2 mi",
-      "url": "https://www.google.com/maps/search/Paradise%20in%20Grand%20Rapids%20W%20%2Fbackyard%20fireplace.%20Pet%20friendly.+near+42.917707799999995%2C-85.6199647"
-    },
-    {
-      "name": "Paradise in Grand Rapids W/backyard fireplace. Pet friendly.",
-      "distance": "1.3 mi",
-      "url": "https://www.google.com/maps/search/Paradise%20in%20Grand%20Rapids%20W%2Fbackyard%20fireplace.%20Pet%20friendly.+near+42.917707799999995%2C-85.6199647"
-    },
-    {
       "name": "Jennilee Roberts",
       "distance": "1.6 mi",
       "url": "https://www.google.com/maps/search/Jennilee%20Roberts+near+42.917707799999995%2C-85.6199647"
-    },
-    {
-      "name": "Millbrook Apartments",
-      "distance": "1.7 mi",
-      "url": "https://www.google.com/maps/search/Millbrook%20Apartments+near+42.917707799999995%2C-85.6199647"
     }
   ],
   "gas": [
@@ -274,11 +192,6 @@
       "name": "Marathon Gas",
       "distance": "1.0 mi",
       "url": "https://www.google.com/maps/search/Marathon%20Gas+near+42.917707799999995%2C-85.6199647"
-    },
-    {
-      "name": "D&W Quick Stop",
-      "distance": "1.1 mi",
-      "url": "https://www.google.com/maps/search/D%26W%20Quick%20Stop+near+42.917707799999995%2C-85.6199647"
     }
   ]
 }

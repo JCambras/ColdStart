@@ -1,11 +1,6 @@
 {
   "quick_bite": [
     {
-      "name": "Soe's Kitchen",
-      "distance": "0.1 mi",
-      "url": "https://www.google.com/maps/search/?api=1&query=Soe's%20Kitchen&query_place_id=ChIJx-51NAAT04kRQwD4d8cUYEE&center=42.8908281,-78.87237879999999"
-    },
-    {
       "name": "Subway",
       "distance": "0.2 mi",
       "url": "https://www.google.com/maps/search/?api=1&query=Subway&query_place_id=ChIJ_xj-g04S04kRh0D5s8siduE&center=42.890769299999995,-78.8776099"
@@ -56,21 +51,6 @@
       "name": "Starbucks Coffee Company",
       "distance": "0.1 mi",
       "url": "https://www.google.com/maps/search/?api=1&query=Starbucks%20Coffee%20Company&query_place_id=ChIJVZNoykgS04kRO4Yv572eO8k&center=42.88818,-78.87451999999999"
-    },
-    {
-      "name": "McDonald's",
-      "distance": "0.7 mi",
-      "url": "https://www.google.com/maps/search/?api=1&query=McDonald's&query_place_id=ChIJxYN9gK0T04kRd413kPuu4W8&center=42.8944179,-78.8864359"
-    },
-    {
-      "name": "McDonald's",
-      "distance": "1.0 mi",
-      "url": "https://www.google.com/maps/search/?api=1&query=McDonald's&query_place_id=ChIJSe9TaWwS04kRJ7H9G8_t1uw&center=42.8847113,-78.85433139999999"
-    },
-    {
-      "name": "McDonald's",
-      "distance": "1.5 mi",
-      "url": "https://www.google.com/maps/search/?api=1&query=McDonald's&query_place_id=ChIJHT6hjvES04kR1mkwWVuTGEU&center=42.9101089,-78.8669443"
     }
   ],
   "team_lunch": [

@@ -29,26 +29,6 @@
       "name": "Food Street",
       "distance": "0.2 mi",
       "url": "https://www.google.com/maps/search/?api=1&query=Food%20Street&query_place_id=ChIJsc4nt21XwokRbrcSAxNtWTc&center=40.7905429,-74.0586773"
-    },
-    {
-      "name": "Cafe & Curry",
-      "distance": "0.2 mi",
-      "url": "https://www.google.com/maps/search/?api=1&query=Cafe%20%26%20Curry&query_place_id=ChIJs5XXJDBXwokRAfkGdxy4f_M&center=40.793127899999995,-74.0588575"
-    },
-    {
-      "name": "Jersey Mike's Subs",
-      "distance": "0.3 mi",
-      "url": "https://www.google.com/maps/search/?api=1&query=Jersey%20Mike's%20Subs&query_place_id=ChIJlzfcqs1XwokRgdWAQ47j-4U&center=40.7915116,-74.04978009999999"
-    },
-    {
-      "name": "Subway",
-      "distance": "0.6 mi",
-      "url": "https://www.google.com/maps/search/?api=1&query=Subway&query_place_id=ChIJNV8VaexXwokR7Pd4d-Wq0Ik&center=40.785570299999996,-74.0456358"
-    },
-    {
-      "name": "Jimmy John's",
-      "distance": "0.7 mi",
-      "url": "https://www.google.com/maps/search/?api=1&query=Jimmy%20John's&query_place_id=ChIJYYH5fwBXwokR_pEqrc6FEG0&center=40.7975966,-74.065236"
     }
   ],
   "coffee": [
@@ -66,11 +46,6 @@
       "name": "Dunkin'",
       "distance": "0.2 mi",
       "url": "https://www.google.com/maps/search/?api=1&query=Dunkin'&query_place_id=ChIJVQyokcNXwokRWXK6woSYdFg&center=40.79219620000001,-74.05847849999999"
-    },
-    {
-      "name": "McDonald's",
-      "distance": "0.7 mi",
-      "url": "https://www.google.com/maps/search/?api=1&query=McDonald's&query_place_id=ChIJ-RIqfe5XwokRZuzWk2HxZ0o&center=40.792986299999995,-74.042412"
     },
     {
       "name": "Rosetta Bakery",
@@ -103,11 +78,6 @@
       "name": "Z2 bakery",
       "distance": "0.2 mi",
       "url": "https://www.google.com/maps/search/?api=1&query=Z2%20bakery&query_place_id=ChIJj-byCQBXwokRmICpyvL5AvI&center=40.7879996,-74.0545497"
-    },
-    {
-      "name": "Walmart Bakery",
-      "distance": "0.7 mi",
-      "url": "https://www.google.com/maps/search/?api=1&query=Walmart%20Bakery&query_place_id=ChIJVVVV-O9XwokRH2ZXePgDT_E&center=40.792951599999995,-74.04245139999999"
     }
   ],
   "dinner": [

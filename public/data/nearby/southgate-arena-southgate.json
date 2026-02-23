@@ -29,26 +29,6 @@
       "name": "Motz’s Burgers",
       "distance": "0.8 mi",
       "url": "https://www.google.com/maps/search/?api=1&query=Motz%E2%80%99s%20Burgers&query_place_id=ChIJAaSd-3s3O4gRaWJH8Odt8Ww&center=42.199189499999996,-83.2234924"
-    },
-    {
-      "name": "Taco Bell",
-      "distance": "0.9 mi",
-      "url": "https://www.google.com/maps/search/?api=1&query=Taco%20Bell&query_place_id=ChIJ6Qw_SmQ3O4gRCux2VefhiaY&center=42.1988309,-83.1925627"
-    },
-    {
-      "name": "Jimmy John's",
-      "distance": "1.0 mi",
-      "url": "https://www.google.com/maps/search/?api=1&query=Jimmy%20John's&query_place_id=ChIJw2ZjAxM3O4gR-GslkuoUIzk&center=42.2141259,-83.1944051"
-    },
-    {
-      "name": "Arby's",
-      "distance": "1.0 mi",
-      "url": "https://www.google.com/maps/search/?api=1&query=Arby's&query_place_id=ChIJd3i46pU3O4gR5owVhyQLOCE&center=42.2126729,-83.22511"
-    },
-    {
-      "name": "Taco Bell",
-      "distance": "1.2 mi",
-      "url": "https://www.google.com/maps/search/?api=1&query=Taco%20Bell&query_place_id=ChIJXeC9BOM3O4gRBsr8Qw_ywkg&center=42.2134,-83.2278"
     }
   ],
   "coffee": [
@@ -58,19 +38,9 @@
       "url": "https://www.google.com/maps/search/?api=1&query=Southgate%20Nutrition&query_place_id=ChIJMVGEjAg3O4gRBa4BR3wbLVM&center=42.200060099999995,-83.2086712"
     },
     {
-      "name": "McDonald's",
-      "distance": "0.4 mi",
-      "url": "https://www.google.com/maps/search/?api=1&query=McDonald's&query_place_id=ChIJvT8HJHk3O4gRWBF3KR4r9tM&center=42.1986633,-83.204653"
-    },
-    {
       "name": "Dunkin'",
       "distance": "0.4 mi",
       "url": "https://www.google.com/maps/search/?api=1&query=Dunkin'&query_place_id=ChIJQUsgkFk3O4gRZP3b7n2NJI8&center=42.198642,-83.20421999999999"
-    },
-    {
-      "name": "McDonald's",
-      "distance": "1.0 mi",
-      "url": "https://www.google.com/maps/search/?api=1&query=McDonald's&query_place_id=ChIJVTwvmJU3O4gRJscg0fPHTIo&center=42.2125212,-83.2258317"
     }
   ],
   "team_lunch": [
@@ -83,11 +53,6 @@
       "name": "Thai Place",
       "distance": "0.3 mi",
       "url": "https://www.google.com/maps/search/?api=1&query=Thai%20Place&query_place_id=ChIJb_RkDYI3O4gRWgtFNK2QRfE&center=42.1998738,-83.20836349999999"
-    },
-    {
-      "name": "Mandarin Kitchen",
-      "distance": "0.5 mi",
-      "url": "https://www.google.com/maps/search/?api=1&query=Mandarin%20Kitchen&query_place_id=ChIJq4Jcw4Y3O4gRG9OW83FR2qw&center=42.197198799999995,-83.2125148"
     },
     {
       "name": "Kneadow",
@@ -105,11 +70,6 @@
       "name": "Foggia's Pizzeria",
       "distance": "0.2 mi",
       "url": "https://www.google.com/maps/search/Foggia's%20Pizzeria+near+42.2039366%2C-83.2089362"
-    },
-    {
-      "name": "Walmart Bakery",
-      "distance": "0.2 mi",
-      "url": "https://www.google.com/maps/search/Walmart%20Bakery+near+42.2039366%2C-83.2089362"
     },
     {
       "name": "Agave Grill & Bar",
@@ -152,30 +112,6 @@
       "name": "Indian Lanes",
       "distance": "2.3 mi",
       "url": "https://www.google.com/maps/search/Indian%20Lanes+near+42.2039366%2C-83.2089362"
-    },
-    {
-      "name": "The Lanes at 2|42",
-      "distance": "3.5 mi",
-      "url": "https://www.google.com/maps/search/The%20Lanes%20at%202%7C42+near+42.2039366%2C-83.2089362",
-      "isFar": true
-    },
-    {
-      "name": "Roosevelt Lanes Recreation",
-      "distance": "3.8 mi",
-      "url": "https://www.google.com/maps/search/Roosevelt%20Lanes%20Recreation+near+42.2039366%2C-83.2089362",
-      "isFar": true
-    },
-    {
-      "name": "Skore Lanes",
-      "distance": "4.2 mi",
-      "url": "https://www.google.com/maps/search/Skore%20Lanes+near+42.2039366%2C-83.2089362",
-      "isFar": true
-    },
-    {
-      "name": "10 Pins of Trenton",
-      "distance": "4.3 mi",
-      "url": "https://www.google.com/maps/search/10%20Pins%20of%20Trenton+near+42.2039366%2C-83.2089362",
-      "isFar": true
     }
   ],
   "arcade": [],
@@ -213,24 +149,6 @@
       "distance": "3.3 mi",
       "url": "https://www.google.com/maps/search/Sportway%20of%20Brownstown+near+42.2039366%2C-83.2089362",
       "isFar": true
-    },
-    {
-      "name": "Spray Pad",
-      "distance": "4.1 mi",
-      "url": "https://www.google.com/maps/search/Spray%20Pad+near+42.2039366%2C-83.2089362",
-      "isFar": true
-    },
-    {
-      "name": "Rev'd Up Fun",
-      "distance": "4.3 mi",
-      "url": "https://www.google.com/maps/search/Rev'd%20Up%20Fun+near+42.2039366%2C-83.2089362",
-      "isFar": true
-    },
-    {
-      "name": "Spray Pad",
-      "distance": "4.6 mi",
-      "url": "https://www.google.com/maps/search/Spray%20Pad+near+42.2039366%2C-83.2089362",
-      "isFar": true
     }
   ],
   "hotels": [
@@ -263,11 +181,6 @@
       "name": "Hampton Inn Detroit/Southgate",
       "distance": "0.9 mi",
       "url": "https://www.google.com/maps/search/Hampton%20Inn%20Detroit%2FSouthgate+near+42.2039366%2C-83.2089362"
-    },
-    {
-      "name": "Studio 6 Southgate, MI - Detroit",
-      "distance": "1.0 mi",
-      "url": "https://www.google.com/maps/search/Studio%206%20Southgate%2C%20MI%20-%20Detroit+near+42.2039366%2C-83.2089362"
     }
   ],
   "gas": [
@@ -282,19 +195,9 @@
       "url": "https://www.google.com/maps/search/bp+near+42.2039366%2C-83.2089362"
     },
     {
-      "name": "bp",
-      "distance": "0.7 mi",
-      "url": "https://www.google.com/maps/search/bp+near+42.2039366%2C-83.2089362"
-    },
-    {
       "name": "Sam's Club Gas Station",
       "distance": "0.8 mi",
       "url": "https://www.google.com/maps/search/Sam's%20Club%20Gas%20Station+near+42.2039366%2C-83.2089362"
-    },
-    {
-      "name": "bp",
-      "distance": "0.9 mi",
-      "url": "https://www.google.com/maps/search/bp+near+42.2039366%2C-83.2089362"
     }
   ]
 }

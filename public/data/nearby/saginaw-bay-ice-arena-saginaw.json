@@ -29,43 +29,13 @@
       "name": "Bob Evans",
       "distance": "1.1 mi",
       "url": "https://www.google.com/maps/search/?api=1&query=Bob%20Evans&query_place_id=ChIJFXx_5SrdI4gRXzlhwK_4_dc&center=43.4806008,-83.9724663"
-    },
-    {
-      "name": "Burger King",
-      "distance": "1.2 mi",
-      "url": "https://www.google.com/maps/search/?api=1&query=Burger%20King&query_place_id=ChIJ_y0cuizdI4gR-GOwttBdUAk&center=43.479399699999995,-83.9680097"
-    },
-    {
-      "name": "Arby's",
-      "distance": "1.2 mi",
-      "url": "https://www.google.com/maps/search/?api=1&query=Arby's&query_place_id=ChIJmwTgySrDI4gRvzki1tvDT_c&center=43.4787214,-83.9762159"
-    },
-    {
-      "name": "Taco Bell",
-      "distance": "1.2 mi",
-      "url": "https://www.google.com/maps/search/?api=1&query=Taco%20Bell&query_place_id=ChIJn6p-gjLdI4gRyCB7fCeOd_o&center=43.480428599999996,-83.9639014"
-    },
-    {
-      "name": "Chick-fil-A",
-      "distance": "1.2 mi",
-      "url": "https://www.google.com/maps/search/?api=1&query=Chick-fil-A&query_place_id=ChIJ59OGSgDdI4gRvH1naFzcRi4&center=43.4795832,-83.9664268"
     }
   ],
   "coffee": [
     {
-      "name": "Sam's Club Cafe",
-      "distance": "0.5 mi",
-      "url": "https://www.google.com/maps/search/?api=1&query=Sam's%20Club%20Cafe&query_place_id=ChIJ312mbpDdI4gRThnkk8KsEXo&center=43.489428,-83.9720894"
-    },
-    {
       "name": "Starbucks Coffee Company",
       "distance": "0.9 mi",
       "url": "https://www.google.com/maps/search/?api=1&query=Starbucks%20Coffee%20Company&query_place_id=ChIJteqY0gDdI4gRfUpORwVjQN0&center=43.48332,-83.97087"
-    },
-    {
-      "name": "McDonald's",
-      "distance": "1.1 mi",
-      "url": "https://www.google.com/maps/search/?api=1&query=McDonald's&query_place_id=ChIJqTG4nirdI4gR7oVQ5anvOMg&center=43.4805403,-83.9739749"
     },
     {
       "name": "Einstein Bros. Bagels",
@@ -74,16 +44,6 @@
     }
   ],
   "team_lunch": [
-    {
-      "name": "Sam's Club Bakery",
-      "distance": "0.5 mi",
-      "url": "https://www.google.com/maps/search/?api=1&query=Sam's%20Club%20Bakery&query_place_id=ChIJ13lWSybdI4gRwebLyIwya7s&center=43.489948999999996,-83.9717335"
-    },
-    {
-      "name": "Walmart Bakery",
-      "distance": "0.5 mi",
-      "url": "https://www.google.com/maps/search/?api=1&query=Walmart%20Bakery&query_place_id=ChIJWQfLcSbdI4gRaiCnD9ciILI&center=43.4900032,-83.9697252"
-    },
     {
       "name": "Sombreros Mexican Restaurant",
       "distance": "0.8 mi",
@@ -167,12 +127,6 @@
       "name": "Bearded Axe",
       "distance": "1.8 mi",
       "url": "https://www.google.com/maps/search/Bearded%20Axe+near+43.4963951%2C-83.9748153"
-    },
-    {
-      "name": "Saginaw Escape",
-      "distance": "5.0 mi",
-      "url": "https://www.google.com/maps/search/Saginaw%20Escape+near+43.4963951%2C-83.9748153",
-      "isFar": true
     }
   ],
   "hotels": [
@@ -205,11 +159,6 @@
       "name": "Residence Inn by Marriott Saginaw",
       "distance": "1.0 mi",
       "url": "https://www.google.com/maps/search/Residence%20Inn%20by%20Marriott%20Saginaw+near+43.4963951%2C-83.9748153"
-    },
-    {
-      "name": "Saginaw Valley MHC Business Office",
-      "distance": "1.0 mi",
-      "url": "https://www.google.com/maps/search/Saginaw%20Valley%20MHC%20Business%20Office+near+43.4963951%2C-83.9748153"
     }
   ],
   "gas": [
@@ -232,11 +181,6 @@
       "name": "Speedway",
       "distance": "1.4 mi",
       "url": "https://www.google.com/maps/search/Speedway+near+43.4963951%2C-83.9748153"
-    },
-    {
-      "name": "Mobil",
-      "distance": "1.5 mi",
-      "url": "https://www.google.com/maps/search/Mobil+near+43.4963951%2C-83.9748153"
     }
   ]
 }

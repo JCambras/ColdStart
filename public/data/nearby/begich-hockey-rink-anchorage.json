@@ -21,11 +21,6 @@
       "url": "https://www.google.com/maps/search/Arby's+near+61.20902869999999%2C-149.7440186"
     },
     {
-      "name": "Hamburger Haven",
-      "distance": "0.6 mi",
-      "url": "https://www.google.com/maps/search/Hamburger%20Haven+near+61.20902869999999%2C-149.7440186"
-    },
-    {
       "name": "Chuck E. Cheese",
       "distance": "4.6 mi",
       "url": "https://www.google.com/maps/search/Chuck%20E.%20Cheese+near+61.20902869999999%2C-149.7440186",
@@ -55,22 +50,12 @@
       "url": "https://www.google.com/maps/search/Starbucks%20Coffee%20Company+near+61.20902869999999%2C-149.7440186"
     },
     {
-      "name": "Starbucks Coffee Company",
-      "distance": "0.3 mi",
-      "url": "https://www.google.com/maps/search/Starbucks%20Coffee%20Company+near+61.20902869999999%2C-149.7440186"
-    },
-    {
       "name": "Motor Mocha Inc",
       "distance": "0.5 mi",
       "url": "https://www.google.com/maps/search/Motor%20Mocha%20Inc+near+61.20902869999999%2C-149.7440186"
     }
   ],
   "team_lunch": [
-    {
-      "name": "Walmart Bakery",
-      "distance": "0.2 mi",
-      "url": "https://www.google.com/maps/search/Walmart%20Bakery+near+61.20902869999999%2C-149.7440186"
-    },
     {
       "name": "Wingstop",
       "distance": "0.3 mi",
@@ -144,30 +129,6 @@
       "distance": "3.5 mi",
       "url": "https://www.google.com/maps/search/Frontier%20Theater+near+61.20902869999999%2C-149.7440186",
       "isFar": true
-    },
-    {
-      "name": "Talkeetna Theater",
-      "distance": "4.4 mi",
-      "url": "https://www.google.com/maps/search/Talkeetna%20Theater+near+61.20902869999999%2C-149.7440186",
-      "isFar": true
-    },
-    {
-      "name": "Alaska Experience Theater",
-      "distance": "4.9 mi",
-      "url": "https://www.google.com/maps/search/Alaska%20Experience%20Theater+near+61.20902869999999%2C-149.7440186",
-      "isFar": true
-    },
-    {
-      "name": "Bear and Raven Adventure Theater",
-      "distance": "4.9 mi",
-      "url": "https://www.google.com/maps/search/Bear%20and%20Raven%20Adventure%20Theater+near+61.20902869999999%2C-149.7440186",
-      "isFar": true
-    },
-    {
-      "name": "E Street Theater",
-      "distance": "4.9 mi",
-      "url": "https://www.google.com/maps/search/E%20Street%20Theater+near+61.20902869999999%2C-149.7440186",
-      "isFar": true
     }
   ],
   "fun": [
@@ -183,26 +144,6 @@
     }
   ],
   "hotels": [
-    {
-      "name": "Cozy Family-Friendly Alaskan Home",
-      "distance": "0.1 mi",
-      "url": "https://www.google.com/maps/search/Cozy%20Family-Friendly%20Alaskan%20Home+near+61.20902869999999%2C-149.7440186"
-    },
-    {
-      "name": "Blueberry Cottage - Quaint Cozy Alaskan home",
-      "distance": "0.2 mi",
-      "url": "https://www.google.com/maps/search/Blueberry%20Cottage%20-%20Quaint%20Cozy%20Alaskan%20home+near+61.20902869999999%2C-149.7440186"
-    },
-    {
-      "name": "True North Retreat-open concept, newly remodeled, backyard with fire pit",
-      "distance": "0.4 mi",
-      "url": "https://www.google.com/maps/search/True%20North%20Retreat-open%20concept%2C%20newly%20remodeled%2C%20backyard%20with%20fire%20pit+near+61.20902869999999%2C-149.7440186"
-    },
-    {
-      "name": "True North Retreat-open concept, newly remodeled, backyard with fire pit",
-      "distance": "0.4 mi",
-      "url": "https://www.google.com/maps/search/True%20North%20Retreat-open%20concept%2C%20newly%20remodeled%2C%20backyard%20with%20fire%20pit+near+61.20902869999999%2C-149.7440186"
-    },
     {
       "name": "Sweet Caroline w/ Mtn view. Entire Downstairs Unit. Quiet family-friendly",
       "distance": "0.4 mi",
@@ -239,11 +180,6 @@
       "name": "Circle k",
       "distance": "0.9 mi",
       "url": "https://www.google.com/maps/search/Circle%20k+near+61.20902869999999%2C-149.7440186"
-    },
-    {
-      "name": "Circle K Gas Station",
-      "distance": "0.9 mi",
-      "url": "https://www.google.com/maps/search/Circle%20K%20Gas%20Station+near+61.20902869999999%2C-149.7440186"
     }
   ]
 }

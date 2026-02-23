@@ -29,11 +29,6 @@
       "name": "KFC",
       "distance": "0.6 mi",
       "url": "https://www.google.com/maps/search/KFC+near+35.076358299999995%2C-106.5117959"
-    },
-    {
-      "name": "Popeyes",
-      "distance": "0.6 mi",
-      "url": "https://www.google.com/maps/search/Popeyes+near+35.076358299999995%2C-106.5117959"
     }
   ],
   "coffee": [
@@ -41,11 +36,6 @@
       "name": "Starbucks Coffee Company",
       "distance": "0.3 mi",
       "url": "https://www.google.com/maps/search/Starbucks%20Coffee%20Company+near+35.076358299999995%2C-106.5117959"
-    },
-    {
-      "name": "McDonald's",
-      "distance": "0.7 mi",
-      "url": "https://www.google.com/maps/search/McDonald's+near+35.076358299999995%2C-106.5117959"
     }
   ],
   "team_lunch": [],
@@ -111,18 +101,6 @@
       "name": "FSS Movie Theater",
       "distance": "2.9 mi",
       "url": "https://www.google.com/maps/search/FSS%20Movie%20Theater+near+35.076358299999995%2C-106.5117959"
-    },
-    {
-      "name": "Imax",
-      "distance": "3.2 mi",
-      "url": "https://www.google.com/maps/search/Imax+near+35.076358299999995%2C-106.5117959",
-      "isFar": true
-    },
-    {
-      "name": "Regal Winrock",
-      "distance": "3.2 mi",
-      "url": "https://www.google.com/maps/search/Regal%20Winrock+near+35.076358299999995%2C-106.5117959",
-      "isFar": true
     }
   ],
   "fun": [
@@ -165,26 +143,6 @@
       "name": "Albuquerque KOA Journey",
       "distance": "0.3 mi",
       "url": "https://www.google.com/maps/search/Albuquerque%20KOA%20Journey+near+35.076358299999995%2C-106.5117959"
-    },
-    {
-      "name": "Charming 2-bedroom house with refrigerated air, fridge in guest room, and WiFi",
-      "distance": "0.4 mi",
-      "url": "https://www.google.com/maps/search/Charming%202-bedroom%20house%20with%20refrigerated%20air%2C%20fridge%20in%20guest%20room%2C%20and%20WiFi+near+35.076358299999995%2C-106.5117959"
-    },
-    {
-      "name": "Peaceful 3-bedroom near the Albuquerque Foothills",
-      "distance": "0.5 mi",
-      "url": "https://www.google.com/maps/search/Peaceful%203-bedroom%20near%20the%20Albuquerque%20Foothills+near+35.076358299999995%2C-106.5117959"
-    },
-    {
-      "name": "Studio C42 - 760 - Holiday Home",
-      "distance": "0.5 mi",
-      "url": "https://www.google.com/maps/search/Studio%20C42%20-%20760%20-%20Holiday%20Home+near+35.076358299999995%2C-106.5117959"
-    },
-    {
-      "name": "Studio C34 - 760 - Holiday Home",
-      "distance": "0.5 mi",
-      "url": "https://www.google.com/maps/search/Studio%20C34%20-%20760%20-%20Holiday%20Home+near+35.076358299999995%2C-106.5117959"
     }
   ],
   "gas": [
@@ -202,16 +160,6 @@
       "name": "Phillips 66",
       "distance": "0.5 mi",
       "url": "https://www.google.com/maps/search/Phillips%2066+near+35.076358299999995%2C-106.5117959"
-    },
-    {
-      "name": "Phillips 66",
-      "distance": "0.8 mi",
-      "url": "https://www.google.com/maps/search/Phillips%2066+near+35.076358299999995%2C-106.5117959"
-    },
-    {
-      "name": "ALON Gas Station",
-      "distance": "0.8 mi",
-      "url": "https://www.google.com/maps/search/ALON%20Gas%20Station+near+35.076358299999995%2C-106.5117959"
     }
   ]
 }

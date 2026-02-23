@@ -26,11 +26,6 @@
       "url": "https://www.google.com/maps/search/Chicago's%20Pizza%20Fishers+near+39.9742678%2C-86.00926249999999"
     },
     {
-      "name": "Popeyes Louisiana Kitchen",
-      "distance": "0.6 mi",
-      "url": "https://www.google.com/maps/search/Popeyes%20Louisiana%20Kitchen+near+39.9742678%2C-86.00926249999999"
-    },
-    {
       "name": "Jimmy John's",
       "distance": "0.6 mi",
       "url": "https://www.google.com/maps/search/Jimmy%20John's+near+39.9742678%2C-86.00926249999999"
@@ -46,11 +41,6 @@
       "name": "Bayt Al Mocha",
       "distance": "0.4 mi",
       "url": "https://www.google.com/maps/search/Bayt%20Al%20Mocha+near+39.9742678%2C-86.00926249999999"
-    },
-    {
-      "name": "McDonald's",
-      "distance": "0.4 mi",
-      "url": "https://www.google.com/maps/search/McDonald's+near+39.9742678%2C-86.00926249999999"
     }
   ],
   "team_lunch": [
@@ -63,11 +53,6 @@
       "name": "Hong Kong Cuisine",
       "distance": "0.4 mi",
       "url": "https://www.google.com/maps/search/Hong%20Kong%20Cuisine+near+39.9742678%2C-86.00926249999999"
-    },
-    {
-      "name": "Walmart Bakery",
-      "distance": "0.6 mi",
-      "url": "https://www.google.com/maps/search/Walmart%20Bakery+near+39.9742678%2C-86.00926249999999"
     },
     {
       "name": "Grill",
@@ -145,61 +130,9 @@
       "name": "The Escape Room Fishers",
       "distance": "1.2 mi",
       "url": "https://www.google.com/maps/search/The%20Escape%20Room%20Fishers+near+39.9742678%2C-86.00926249999999"
-    },
-    {
-      "name": "Urban Air Trampoline and Adventure Park",
-      "distance": "1.7 mi",
-      "url": "https://www.google.com/maps/search/Urban%20Air%20Trampoline%20and%20Adventure%20Park+near+39.9742678%2C-86.00926249999999"
-    },
-    {
-      "name": "Splash Pad",
-      "distance": "2.9 mi",
-      "url": "https://www.google.com/maps/search/Splash%20Pad+near+39.9742678%2C-86.00926249999999"
-    },
-    {
-      "name": "Activate Games",
-      "distance": "3.2 mi",
-      "url": "https://www.google.com/maps/search/Activate%20Games+near+39.9742678%2C-86.00926249999999",
-      "isFar": true
     }
   ],
-  "hotels": [
-    {
-      "name": "The City Escape, Suburban Retreat in Fishers",
-      "distance": "0.5 mi",
-      "url": "https://www.google.com/maps/search/The%20City%20Escape%2C%20Suburban%20Retreat%20in%20Fishers+near+39.9742678%2C-86.00926249999999"
-    },
-    {
-      "name": "The City Escape Suburban Retreat in Fishers - Family Room",
-      "distance": "0.5 mi",
-      "url": "https://www.google.com/maps/search/The%20City%20Escape%20Suburban%20Retreat%20in%20Fishers%20-%20Family%20Room+near+39.9742678%2C-86.00926249999999"
-    },
-    {
-      "name": "Comfy Apartment for Eclipse Totality! Walk to Town Center, near Conner Prairie",
-      "distance": "0.6 mi",
-      "url": "https://www.google.com/maps/search/Comfy%20Apartment%20for%20Eclipse%20Totality!%20Walk%20to%20Town%20Center%2C%20near%20Conner%20Prairie+near+39.9742678%2C-86.00926249999999"
-    },
-    {
-      "name": "Comfy Apartment for Eclipse Totality! Walk to Town Center, near Conner Prairie",
-      "distance": "0.6 mi",
-      "url": "https://www.google.com/maps/search/Comfy%20Apartment%20for%20Eclipse%20Totality!%20Walk%20to%20Town%20Center%2C%20near%20Conner%20Prairie+near+39.9742678%2C-86.00926249999999"
-    },
-    {
-      "name": "2 Bedrooms 2 full bathrooms Upstairs apartment - Three-Bedroom Apartment",
-      "distance": "0.8 mi",
-      "url": "https://www.google.com/maps/search/2%20Bedrooms%202%20full%20bathrooms%20Upstairs%20apartment%20-%20Three-Bedroom%20Apartment+near+39.9742678%2C-86.00926249999999"
-    },
-    {
-      "name": "2 Bedroom home with fenced yard.",
-      "distance": "0.8 mi",
-      "url": "https://www.google.com/maps/search/2%20Bedroom%20home%20with%20fenced%20yard.+near+39.9742678%2C-86.00926249999999"
-    },
-    {
-      "name": "Casa Boho- Fire Pit, BBQ, B-ball hoop",
-      "distance": "1.0 mi",
-      "url": "https://www.google.com/maps/search/Casa%20Boho-%20Fire%20Pit%2C%20BBQ%2C%20B-ball%20hoop+near+39.9742678%2C-86.00926249999999"
-    }
-  ],
+  "hotels": [],
   "gas": [
     {
       "name": "Circle K | Gas Station",
@@ -219,11 +152,6 @@
     {
       "name": "Speedway",
       "distance": "1.2 mi",
-      "url": "https://www.google.com/maps/search/Speedway+near+39.9742678%2C-86.00926249999999"
-    },
-    {
-      "name": "Speedway",
-      "distance": "1.3 mi",
       "url": "https://www.google.com/maps/search/Speedway+near+39.9742678%2C-86.00926249999999"
     }
   ]

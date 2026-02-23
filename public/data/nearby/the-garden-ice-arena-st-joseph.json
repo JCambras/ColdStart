@@ -29,26 +29,6 @@
       "name": "Taco Bell",
       "distance": "1.2 mi",
       "url": "https://www.google.com/maps/search/?api=1&query=Taco%20Bell&query_place_id=ChIJz4xPJmTDEIgRu_I39WCUqDk&center=42.0340249,-86.5148634"
-    },
-    {
-      "name": "RED LOTUS NUTRITION (aka: Red Lotus Lifestyle on Facebook)",
-      "distance": "1.3 mi",
-      "url": "https://www.google.com/maps/search/?api=1&query=RED%20LOTUS%20NUTRITION%20(aka%3A%20Red%20Lotus%20Lifestyle%20on%20Facebook)&query_place_id=ChIJh7mIb1rFEIgRYDf9GDJ2hX0&center=42.0583362,-86.48172679999999"
-    },
-    {
-      "name": "Burger King",
-      "distance": "1.3 mi",
-      "url": "https://www.google.com/maps/search/?api=1&query=Burger%20King&query_place_id=ChIJ40ctME_DEIgRxO0CyuVmiFU&center=42.0333548,-86.51492669999999"
-    },
-    {
-      "name": "Five Guys",
-      "distance": "2.1 mi",
-      "url": "https://www.google.com/maps/search/?api=1&query=Five%20Guys&query_place_id=ChIJ4yPNTQLFEIgR-NOI3CS8lms&center=42.056571000000005,-86.4570706"
-    },
-    {
-      "name": "Baguette De France",
-      "distance": "2.6 mi",
-      "url": "https://www.google.com/maps/search/?api=1&query=Baguette%20De%20France&query_place_id=ChIJ96glKWzEEIgRP_Ap2JO2Chs&center=42.0791766,-86.48715709999999"
     }
   ],
   "coffee": [
@@ -61,11 +41,6 @@
       "name": "Dunkin'",
       "distance": "1.2 mi",
       "url": "https://www.google.com/maps/search/?api=1&query=Dunkin'&query_place_id=ChIJ8btdQE_DEIgRuil29geRvkY&center=42.0341156,-86.5136017"
-    },
-    {
-      "name": "McDonald's",
-      "distance": "1.2 mi",
-      "url": "https://www.google.com/maps/search/?api=1&query=McDonald's&query_place_id=ChIJ7TeYRU_DEIgRwyCzXVAH0M4&center=42.033215399999996,-86.513532"
     },
     {
       "name": "Starbucks",
@@ -120,11 +95,6 @@
       "name": "Intalia Bar, Restaurant & Pizzeria",
       "distance": "0.8 mi",
       "url": "https://www.google.com/maps/search/Intalia%20Bar%2C%20Restaurant%20%26%20Pizzeria+near+42.042381899999995%2C-86.4934202"
-    },
-    {
-      "name": "BP",
-      "distance": "1.0 mi",
-      "url": "https://www.google.com/maps/search/BP+near+42.042381899999995%2C-86.4934202"
     },
     {
       "name": "Crazy King Burrito",
@@ -200,34 +170,9 @@
   ],
   "hotels": [
     {
-      "name": "Charming pet friendly renovated barn with backyard, in Stevensville",
-      "distance": "0.2 mi",
-      "url": "https://www.google.com/maps/search/Charming%20pet%20friendly%20renovated%20barn%20with%20backyard%2C%20in%20Stevensville+near+42.042381899999995%2C-86.4934202"
-    },
-    {
-      "name": "Charming pet friendly renovated barn with backyard, in Stevensville",
-      "distance": "0.2 mi",
-      "url": "https://www.google.com/maps/search/Charming%20pet%20friendly%20renovated%20barn%20with%20backyard%2C%20in%20Stevensville+near+42.042381899999995%2C-86.4934202"
-    },
-    {
-      "name": "Beautiful 4 Bedroom home with pool in Saint Joseph - Four-Bedroom House",
-      "distance": "0.3 mi",
-      "url": "https://www.google.com/maps/search/Beautiful%204%20Bedroom%20home%20with%20pool%20in%20Saint%20Joseph%20-%20Four-Bedroom%20House+near+42.042381899999995%2C-86.4934202"
-    },
-    {
-      "name": "Amazing Southshore Retreat Game Room Fire pit",
-      "distance": "0.6 mi",
-      "url": "https://www.google.com/maps/search/Amazing%20Southshore%20Retreat%20Game%20Room%20Fire%20pit+near+42.042381899999995%2C-86.4934202"
-    },
-    {
       "name": "Glen Aire Manufactured Home Community",
       "distance": "0.6 mi",
       "url": "https://www.google.com/maps/search/Glen%20Aire%20Manufactured%20Home%20Community+near+42.042381899999995%2C-86.4934202"
-    },
-    {
-      "name": "Spacious 4 bdrm 4 bath home on an acre. 1 mile to Lake Michigan. St.Joe area.",
-      "distance": "0.7 mi",
-      "url": "https://www.google.com/maps/search/Spacious%204%20bdrm%204%20bath%20home%20on%20an%20acre.%201%20mile%20to%20Lake%20Michigan.%20St.Joe%20area.+near+42.042381899999995%2C-86.4934202"
     },
     {
       "name": "Pool & Play | Hot Tub, Ping Pong, Nintendo Switch",
@@ -255,11 +200,6 @@
       "name": "Amoco",
       "distance": "1.2 mi",
       "url": "https://www.google.com/maps/search/Amoco+near+42.042381899999995%2C-86.4934202"
-    },
-    {
-      "name": "PRI-MART 1",
-      "distance": "1.9 mi",
-      "url": "https://www.google.com/maps/search/PRI-MART%201+near+42.042381899999995%2C-86.4934202"
     }
   ]
 }

@@ -16,11 +16,6 @@
       "url": "https://www.google.com/maps/search/?api=1&query=Paddlewheel%20Cafe&query_place_id=ChIJMzReRQCz2IcR9vghkwPD1a0&center=38.6229048,-90.1837142"
     },
     {
-      "name": "Chef's Kitchen",
-      "distance": "2.9 mi",
-      "url": "https://www.google.com/maps/search/?api=1&query=Chef's%20Kitchen&query_place_id=ChIJswB6Xi-z2IcRcQVQMdv_LlY&center=38.5754011,-90.1763969"
-    },
-    {
       "name": "White Castle",
       "distance": "2.9 mi",
       "url": "https://www.google.com/maps/search/?api=1&query=White%20Castle&query_place_id=ChIJfdsnZASz2IcR9FnTwl53-nA&center=38.6183695,-90.1924847"
@@ -35,32 +30,9 @@
       "distance": "3.0 mi",
       "url": "https://www.google.com/maps/search/?api=1&query=Jimmy%20John's&query_place_id=ChIJeeKUhB6z2IcRvzzB7xTUraM&center=38.6269716,-90.1899452",
       "isFar": true
-    },
-    {
-      "name": "PJ Fresh Marketplace",
-      "distance": "3.1 mi",
-      "url": "https://www.google.com/maps/search/?api=1&query=PJ%20Fresh%20Marketplace&query_place_id=ChIJPVanIAet2IcRlz6CH9e3Wes&center=38.575798299999995,-90.09892719999999",
-      "isFar": true
-    },
-    {
-      "name": "Subway",
-      "distance": "3.1 mi",
-      "url": "https://www.google.com/maps/search/?api=1&query=Subway&query_place_id=ChIJ-ZcGth6z2IcRnl1JUp8OPHE&center=38.627843299999995,-90.1911876",
-      "isFar": true
-    },
-    {
-      "name": "Subway",
-      "distance": "3.1 mi",
-      "url": "https://www.google.com/maps/search/?api=1&query=Subway&query_place_id=ChIJU2OOO-yx2IcRnzHNasRjPEU&center=38.5620718,-90.1318762",
-      "isFar": true
     }
   ],
   "coffee": [
-    {
-      "name": "McDonald's",
-      "distance": "0.9 mi",
-      "url": "https://www.google.com/maps/search/?api=1&query=McDonald's&query_place_id=ChIJqfgYgQut2IcRQkNwhuwMF5A&center=38.616030099999996,-90.1282176"
-    },
     {
       "name": "Au Bon Pain",
       "distance": "3.2 mi",
@@ -78,11 +50,6 @@
       "name": "Pops 5",
       "distance": "0.4 mi",
       "url": "https://www.google.com/maps/search/?api=1&query=Pops%205&query_place_id=ChIJAQDAboWt2IcR_4c0jolqE08&center=38.6012537,-90.1417477"
-    },
-    {
-      "name": "Pops kitchen",
-      "distance": "0.6 mi",
-      "url": "https://www.google.com/maps/search/?api=1&query=Pops%20kitchen&query_place_id=ChIJYWsEcgCz2IcRMGI5pzSvo8Y&center=38.6076913,-90.15009979999999"
     },
     {
       "name": "EXPRESS STOP",
@@ -103,21 +70,6 @@
       "name": "Hunt Brothers Pizza",
       "distance": "1.0 mi",
       "url": "https://www.google.com/maps/search/?api=1&query=Hunt%20Brothers%20Pizza&query_place_id=ChIJ4S7V20Kt2IcRrzC6qUcDJ0E&center=38.616909,-90.12753780000001"
-    },
-    {
-      "name": "Spoons Cafe",
-      "distance": "1.0 mi",
-      "url": "https://www.google.com/maps/search/?api=1&query=Spoons%20Cafe&query_place_id=ChIJYQg8rnqt2IcRLd99AKtX8d8&center=38.6209357,-90.140796"
-    },
-    {
-      "name": "Kake Kreations By Jade",
-      "distance": "2.2 mi",
-      "url": "https://www.google.com/maps/search/?api=1&query=Kake%20Kreations%20By%20Jade&query_place_id=ChIJQxJIbZ2t2IcRNcCgTWijyjo&center=38.6290638,-90.10928849999999"
-    },
-    {
-      "name": "Gateway Ganache",
-      "distance": "3.0 mi",
-      "url": "https://www.google.com/maps/search/?api=1&query=Gateway%20Ganache&query_place_id=ChIJY9FCHT-z2IcRGpZKqC11GXw&center=38.626365899999996,-90.1889411"
     }
   ],
   "dinner": [

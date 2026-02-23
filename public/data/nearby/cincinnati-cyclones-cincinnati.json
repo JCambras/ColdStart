@@ -29,11 +29,6 @@
       "name": "Subway",
       "distance": "0.3 mi",
       "url": "https://www.google.com/maps/search/Subway+near+39.0980677%2C-84.5043575"
-    },
-    {
-      "name": "Skyline Chili",
-      "distance": "0.3 mi",
-      "url": "https://www.google.com/maps/search/Skyline%20Chili+near+39.0980677%2C-84.5043575"
     }
   ],
   "coffee": [
@@ -117,17 +112,6 @@
       "name": "Walt's Center Lanes",
       "distance": "1.7 mi",
       "url": "https://www.google.com/maps/search/Walt's%20Center%20Lanes+near+39.0980677%2C-84.5043575"
-    },
-    {
-      "name": "Strike Time Pro Shop",
-      "distance": "1.8 mi",
-      "url": "https://www.google.com/maps/search/Strike%20Time%20Pro%20Shop+near+39.0980677%2C-84.5043575"
-    },
-    {
-      "name": "Stone Lanes",
-      "distance": "4.0 mi",
-      "url": "https://www.google.com/maps/search/Stone%20Lanes+near+39.0980677%2C-84.5043575",
-      "isFar": true
     }
   ],
   "arcade": [],
@@ -146,26 +130,6 @@
       "name": "The Garfield Theatre",
       "distance": "0.7 mi",
       "url": "https://www.google.com/maps/search/The%20Garfield%20Theatre+near+39.0980677%2C-84.5043575"
-    },
-    {
-      "name": "Cincinnati World Cinema",
-      "distance": "0.7 mi",
-      "url": "https://www.google.com/maps/search/Cincinnati%20World%20Cinema+near+39.0980677%2C-84.5043575"
-    },
-    {
-      "name": "Marianne Theater",
-      "distance": "1.4 mi",
-      "url": "https://www.google.com/maps/search/Marianne%20Theater+near+39.0980677%2C-84.5043575"
-    },
-    {
-      "name": "Robert D. Lindner Family OMNIMAX Theater",
-      "distance": "2.0 mi",
-      "url": "https://www.google.com/maps/search/Robert%20D.%20Lindner%20Family%20OMNIMAX%20Theater+near+39.0980677%2C-84.5043575"
-    },
-    {
-      "name": "Mainstreet Cinema",
-      "distance": "2.4 mi",
-      "url": "https://www.google.com/maps/search/Mainstreet%20Cinema+near+39.0980677%2C-84.5043575"
     }
   ],
   "fun": [
@@ -188,12 +152,6 @@
       "name": "Spraygrounds at Washington Park.",
       "distance": "1.0 mi",
       "url": "https://www.google.com/maps/search/Spraygrounds%20at%20Washington%20Park.+near+39.0980677%2C-84.5043575"
-    },
-    {
-      "name": "Breakout Games",
-      "distance": "4.6 mi",
-      "url": "https://www.google.com/maps/search/Breakout%20Games+near+39.0980677%2C-84.5043575",
-      "isFar": true
     }
   ],
   "hotels": [
@@ -201,16 +159,6 @@
       "name": "Rooftop Pool 24-HR Gym Pet Spa 1 Car Free Garage Parking Co-working King Bed",
       "distance": "0.1 mi",
       "url": "https://www.google.com/maps/search/Rooftop%20Pool%2024-HR%20Gym%20Pet%20Spa%201%20Car%20Free%20Garage%20Parking%20Co-working%20King%20Bed+near+39.0980677%2C-84.5043575"
-    },
-    {
-      "name": "The 513 Flat II! Pool & River View! Free Gated Parking! Walk to Banks & Stadium!",
-      "distance": "0.1 mi",
-      "url": "https://www.google.com/maps/search/The%20513%20Flat%20II!%20Pool%20%26%20River%20View!%20Free%20Gated%20Parking!%20Walk%20to%20Banks%20%26%20Stadium!+near+39.0980677%2C-84.5043575"
-    },
-    {
-      "name": "Charming 2-bedroom apartment with fitness room and AC in lovely Cincinnati",
-      "distance": "0.2 mi",
-      "url": "https://www.google.com/maps/search/Charming%202-bedroom%20apartment%20with%20fitness%20room%20and%20AC%20in%20lovely%20Cincinnati+near+39.0980677%2C-84.5043575"
     },
     {
       "name": "The Lytle Park Hotel, Autograph Collection",
@@ -226,11 +174,6 @@
       "name": "Residence Inn by Marriott Cincinnati Downtown/The Phelps",
       "distance": "0.2 mi",
       "url": "https://www.google.com/maps/search/Residence%20Inn%20by%20Marriott%20Cincinnati%20Downtown%2FThe%20Phelps+near+39.0980677%2C-84.5043575"
-    },
-    {
-      "name": "Cincinnati Downtown Oasis - One-Bedroom Apartment",
-      "distance": "0.2 mi",
-      "url": "https://www.google.com/maps/search/Cincinnati%20Downtown%20Oasis%20-%20One-Bedroom%20Apartment+near+39.0980677%2C-84.5043575"
     }
   ],
   "gas": [
@@ -253,11 +196,6 @@
       "name": "Valero",
       "distance": "1.1 mi",
       "url": "https://www.google.com/maps/search/Valero+near+39.0980677%2C-84.5043575"
-    },
-    {
-      "name": "Gulf",
-      "distance": "1.1 mi",
-      "url": "https://www.google.com/maps/search/Gulf+near+39.0980677%2C-84.5043575"
     }
   ]
 }

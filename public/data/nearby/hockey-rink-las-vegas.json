@@ -34,11 +34,6 @@
       "url": "https://www.google.com/maps/search/Dunkin'+near+36.125465399999996%2C-115.27533129999999"
     },
     {
-      "name": "McDonald's",
-      "distance": "0.2 mi",
-      "url": "https://www.google.com/maps/search/McDonald's+near+36.125465399999996%2C-115.27533129999999"
-    },
-    {
       "name": "Broken Coffee",
       "distance": "0.3 mi",
       "url": "https://www.google.com/maps/search/Broken%20Coffee+near+36.125465399999996%2C-115.27533129999999"
@@ -91,11 +86,6 @@
       "name": "Curry Ya - Cheongdam Food Hall",
       "distance": "0.3 mi",
       "url": "https://www.google.com/maps/search/Curry%20Ya%20-%20Cheongdam%20Food%20Hall+near+36.125465399999996%2C-115.27533129999999"
-    },
-    {
-      "name": "HiLavash Bakery",
-      "distance": "0.3 mi",
-      "url": "https://www.google.com/maps/search/HiLavash%20Bakery+near+36.125465399999996%2C-115.27533129999999"
     }
   ],
   "bowling": [
@@ -153,63 +143,9 @@
       "name": "Galaxy City, LLC",
       "distance": "3.0 mi",
       "url": "https://www.google.com/maps/search/Galaxy%20City%2C%20LLC+near+36.125465399999996%2C-115.27533129999999"
-    },
-    {
-      "name": "KARASOUL",
-      "distance": "3.5 mi",
-      "url": "https://www.google.com/maps/search/KARASOUL+near+36.125465399999996%2C-115.27533129999999",
-      "isFar": true
-    },
-    {
-      "name": "Kids Quest at Red Rock Casino",
-      "distance": "3.9 mi",
-      "url": "https://www.google.com/maps/search/Kids%20Quest%20at%20Red%20Rock%20Casino+near+36.125465399999996%2C-115.27533129999999",
-      "isFar": true
-    },
-    {
-      "name": "Xplozone Trampoline Park",
-      "distance": "4.0 mi",
-      "url": "https://www.google.com/maps/search/Xplozone%20Trampoline%20Park+near+36.125465399999996%2C-115.27533129999999",
-      "isFar": true
     }
   ],
-  "hotels": [
-    {
-      "name": "Freshly Renovated 5-Bedroom with BBQ Grill Home",
-      "distance": "0.2 mi",
-      "url": "https://www.google.com/maps/search/Freshly%20Renovated%205-Bedroom%20with%20BBQ%20Grill%20Home+near+36.125465399999996%2C-115.27533129999999"
-    },
-    {
-      "name": "Freshly Renovated 5-Bedroom with BBQ Grill Home",
-      "distance": "0.2 mi",
-      "url": "https://www.google.com/maps/search/Freshly%20Renovated%205-Bedroom%20with%20BBQ%20Grill%20Home+near+36.125465399999996%2C-115.27533129999999"
-    },
-    {
-      "name": "Posh Villa 8 Bdr X 5 Bth 15 Bds",
-      "distance": "0.2 mi",
-      "url": "https://www.google.com/maps/search/Posh%20Villa%208%20Bdr%20X%205%20Bth%2015%20Bds+near+36.125465399999996%2C-115.27533129999999"
-    },
-    {
-      "name": "Fragrant Finnish Sauna Cozy Pool with French 3br - Villa with Private Pool",
-      "distance": "0.3 mi",
-      "url": "https://www.google.com/maps/search/Fragrant%20Finnish%20Sauna%20Cozy%20Pool%20with%20French%203br%20-%20Villa%20with%20Private%20Pool+near+36.125465399999996%2C-115.27533129999999"
-    },
-    {
-      "name": "Fragrant Finnish Sauna & Amazing Private Pool with French 3 Bedrooms",
-      "distance": "0.3 mi",
-      "url": "https://www.google.com/maps/search/Fragrant%20Finnish%20Sauna%20%26%20Amazing%20Private%20Pool%20with%20French%203%20Bedrooms+near+36.125465399999996%2C-115.27533129999999"
-    },
-    {
-      "name": "Fragrant Finnish Sauna & Cozy Pool with French 3br",
-      "distance": "0.3 mi",
-      "url": "https://www.google.com/maps/search/Fragrant%20Finnish%20Sauna%20%26%20Cozy%20Pool%20with%20French%203br+near+36.125465399999996%2C-115.27533129999999"
-    },
-    {
-      "name": "Cozy Home 2-3",
-      "distance": "0.3 mi",
-      "url": "https://www.google.com/maps/search/Cozy%20Home%202-3+near+36.125465399999996%2C-115.27533129999999"
-    }
-  ],
+  "hotels": [],
   "gas": [
     {
       "name": "Chevron Las Vegas",
@@ -230,11 +166,6 @@
       "name": "Speedway",
       "distance": "0.7 mi",
       "url": "https://www.google.com/maps/search/Speedway+near+36.125465399999996%2C-115.27533129999999"
-    },
-    {
-      "name": "Chevron Las Vegas",
-      "distance": "0.8 mi",
-      "url": "https://www.google.com/maps/search/Chevron%20Las%20Vegas+near+36.125465399999996%2C-115.27533129999999"
     }
   ]
 }

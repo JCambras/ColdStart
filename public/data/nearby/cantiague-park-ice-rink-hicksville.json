@@ -29,26 +29,6 @@
       "name": "KFC",
       "distance": "0.9 mi",
       "url": "https://www.google.com/maps/search/?api=1&query=KFC&query_place_id=ChIJZUUCPtOGwokRaFB_TwP-dw4&center=40.779030899999995,-73.5610657"
-    },
-    {
-      "name": "Dunkin'",
-      "distance": "0.9 mi",
-      "url": "https://www.google.com/maps/search/?api=1&query=Dunkin'&query_place_id=ChIJadihatOGwokRiFncDbcFzKk&center=40.7788976,-73.56153619999999"
-    },
-    {
-      "name": "Wendy's",
-      "distance": "0.9 mi",
-      "url": "https://www.google.com/maps/search/?api=1&query=Wendy's&query_place_id=ChIJQ7tCKtOGwokRERY_zvW9tjQ&center=40.7804992,-73.5599007"
-    },
-    {
-      "name": "Chick-fil-A",
-      "distance": "1.0 mi",
-      "url": "https://www.google.com/maps/search/?api=1&query=Chick-fil-A&query_place_id=ChIJXVEd7BuBwokRApjPFOxuEvo&center=40.774578,-73.5289281"
-    },
-    {
-      "name": "Subway",
-      "distance": "1.0 mi",
-      "url": "https://www.google.com/maps/search/?api=1&query=Subway&query_place_id=ChIJs1ul8h2BwokRpQyhWF9uLAI&center=40.7692522,-73.5286117"
     }
   ],
   "coffee": [
@@ -58,19 +38,9 @@
       "url": "https://www.google.com/maps/search/?api=1&query=Dunkin'&query_place_id=ChIJy8f4tt6AwokR8edrdCcgqgc&center=40.7666481,-73.5413696"
     },
     {
-      "name": "McDonald's",
-      "distance": "0.9 mi",
-      "url": "https://www.google.com/maps/search/?api=1&query=McDonald's&query_place_id=ChIJ44ggji2BwokRiLfG-8BdfB0&center=40.77963,-73.56"
-    },
-    {
       "name": "Dunkin'",
       "distance": "0.9 mi",
       "url": "https://www.google.com/maps/search/?api=1&query=Dunkin'&query_place_id=ChIJadihatOGwokRiFncDbcFzKk&center=40.7788976,-73.56153619999999"
-    },
-    {
-      "name": "McDonald's",
-      "distance": "1.0 mi",
-      "url": "https://www.google.com/maps/search/?api=1&query=McDonald's&query_place_id=ChIJgfwn7xmBwokRELS7IySsFZk&center=40.778151099999995,-73.5307095"
     }
   ],
   "team_lunch": [
@@ -103,16 +73,6 @@
       "name": "Something Sweet",
       "distance": "0.9 mi",
       "url": "https://www.google.com/maps/search/?api=1&query=Something%20Sweet&query_place_id=ChIJQ-_KP8-AwokRgBbH1IIr-OE&center=40.758699299999996,-73.5496244"
-    },
-    {
-      "name": "Healthy Habits",
-      "distance": "1.0 mi",
-      "url": "https://www.google.com/maps/search/?api=1&query=Healthy%20Habits&query_place_id=ChIJbaL98PqBwokRYyxW_-OwFOE&center=40.7595475,-73.5382585"
-    },
-    {
-      "name": "Bagel Boss of Jericho",
-      "distance": "1.1 mi",
-      "url": "https://www.google.com/maps/search/?api=1&query=Bagel%20Boss%20of%20Jericho&query_place_id=ChIJ3-y2-NaGwokRAeA9gZD3A_8&center=40.7769237,-73.56773199999999"
     }
   ],
   "dinner": [

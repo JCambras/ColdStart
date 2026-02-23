@@ -26,29 +26,9 @@
       "url": "https://www.google.com/maps/search/?api=1&query=Firehouse%20Subs%20Shops%20At%20Monocacy&query_place_id=ChIJCfEW2ajayYkRnWLAQXane-4&center=39.44761,-77.38414999999999"
     },
     {
-      "name": "Popeyes Louisiana Kitchen",
-      "distance": "0.3 mi",
-      "url": "https://www.google.com/maps/search/?api=1&query=Popeyes%20Louisiana%20Kitchen&query_place_id=ChIJOUEhBwDbyYkRzY5VPkTd8Ww&center=39.449241799999996,-77.3858466"
-    },
-    {
       "name": "Corner Shoppe",
       "distance": "0.3 mi",
       "url": "https://www.google.com/maps/search/?api=1&query=Corner%20Shoppe&query_place_id=ChIJKR3qKanbyYkRRI_izeCVxyI&center=39.447914999999995,-77.3838889"
-    },
-    {
-      "name": "Burger King",
-      "distance": "0.4 mi",
-      "url": "https://www.google.com/maps/search/?api=1&query=Burger%20King&query_place_id=ChIJGzgyhVnayYkR8R79vprifBM&center=39.4446507,-77.3961818"
-    },
-    {
-      "name": "ZiPani Cafe Bistro",
-      "distance": "1.0 mi",
-      "url": "https://www.google.com/maps/search/?api=1&query=ZiPani%20Cafe%20Bistro&query_place_id=ChIJ8Z30tOnayYkRNOjc85MNXkI&center=39.4412392,-77.40725979999999"
-    },
-    {
-      "name": "Subway",
-      "distance": "1.0 mi",
-      "url": "https://www.google.com/maps/search/?api=1&query=Subway&query_place_id=ChIJV_OR-8PayYkRB9WXkJkcxAg&center=39.4412118,-77.4073289"
     }
   ],
   "coffee": [
@@ -56,11 +36,6 @@
       "name": "Starbucks Coffee Company",
       "distance": "0.2 mi",
       "url": "https://www.google.com/maps/search/?api=1&query=Starbucks%20Coffee%20Company&query_place_id=ChIJIUbXLQPbyYkR58ZNZHz8pzk&center=39.44845000000001,-77.38802"
-    },
-    {
-      "name": "McDonald's",
-      "distance": "0.3 mi",
-      "url": "https://www.google.com/maps/search/?api=1&query=McDonald's&query_place_id=ChIJM_0to7DayYkRuQMeW9fOguw&center=39.4462642,-77.3937732"
     },
     {
       "name": "Paris Baguette",
@@ -98,16 +73,6 @@
       "name": "Sushiya",
       "distance": "0.3 mi",
       "url": "https://www.google.com/maps/search/?api=1&query=Sushiya&query_place_id=ChIJy72Z_IrbyYkRuTlone7DY8U&center=39.4468027,-77.3836961"
-    },
-    {
-      "name": "Giant Food Bakery",
-      "distance": "0.3 mi",
-      "url": "https://www.google.com/maps/search/?api=1&query=Giant%20Food%20Bakery&query_place_id=ChIJr4JfEwDbyYkROg28ZEGXPCM&center=39.4481518,-77.3835771"
-    },
-    {
-      "name": "Potbelly",
-      "distance": "0.4 mi",
-      "url": "https://www.google.com/maps/search/?api=1&query=Potbelly&query_place_id=ChIJ8bVUdXHbyYkRyBITNPebCOc&center=39.4472915,-77.395293"
     }
   ],
   "dinner": [

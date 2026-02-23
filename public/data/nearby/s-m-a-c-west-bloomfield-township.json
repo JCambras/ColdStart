@@ -29,26 +29,6 @@
       "name": "Subway",
       "distance": "1.4 mi",
       "url": "https://www.google.com/maps/search/?api=1&query=Subway&query_place_id=ChIJV5G76JW7JIgRbNRamR4wEwg&center=42.5762043,-83.36113739999999"
-    },
-    {
-      "name": "SNOWFOX Sushi",
-      "distance": "1.6 mi",
-      "url": "https://www.google.com/maps/search/?api=1&query=SNOWFOX%20Sushi&query_place_id=ChIJbWLlf4i7JIgRNIbf3ob3xeQ&center=42.573951199999996,-83.3607399"
-    },
-    {
-      "name": "Taco Bell",
-      "distance": "1.8 mi",
-      "url": "https://www.google.com/maps/search/?api=1&query=Taco%20Bell&query_place_id=ChIJM6EvW5i-JIgRdxyRr824FTk&center=42.612761299999995,-83.3275697"
-    },
-    {
-      "name": "Detroit Curbside Coney",
-      "distance": "2.8 mi",
-      "url": "https://www.google.com/maps/search/?api=1&query=Detroit%20Curbside%20Coney&query_place_id=ChIJcQatCwC_JIgRzLTavN1KDCc&center=42.612544799999995,-83.304175"
-    },
-    {
-      "name": "Barb's Food Stand",
-      "distance": "2.8 mi",
-      "url": "https://www.google.com/maps/search/?api=1&query=Barb's%20Food%20Stand&query_place_id=ChIJK8NlVgC_JIgRXTV9NFpAB-s&center=42.6133619,-83.3046075"
     }
   ],
   "coffee": [
@@ -66,11 +46,6 @@
       "name": "Jen's Gifts of Love",
       "distance": "1.5 mi",
       "url": "https://www.google.com/maps/search/?api=1&query=Jen's%20Gifts%20of%20Love&query_place_id=ChIJ5V2C6JW7JIgR7fgDi2oIM6s&center=42.575271799999996,-83.36276520000001"
-    },
-    {
-      "name": "McDonald's",
-      "distance": "1.8 mi",
-      "url": "https://www.google.com/maps/search/?api=1&query=McDonald's&query_place_id=ChIJ_fx-ZJi-JIgRovgA6ueK4e4&center=42.6123002,-83.3281942"
     }
   ],
   "team_lunch": [
@@ -135,11 +110,6 @@
       "name": "Happy You Chinese Restaurant",
       "distance": "1.0 mi",
       "url": "https://www.google.com/maps/search/Happy%20You%20Chinese%20Restaurant+near+42.5965147%2C-83.3556318"
-    },
-    {
-      "name": "Gino's Pizzeria & Restaurant",
-      "distance": "1.1 mi",
-      "url": "https://www.google.com/maps/search/Gino's%20Pizzeria%20%26%20Restaurant+near+42.5965147%2C-83.3556318"
     }
   ],
   "bowling": [
@@ -181,12 +151,6 @@
       "distance": "4.7 mi",
       "url": "https://www.google.com/maps/search/Urban%20Air%20Trampoline%20and%20Adventure%20Park+near+42.5965147%2C-83.3556318",
       "isFar": true
-    },
-    {
-      "name": "Waterford Oaks Wave Pool",
-      "distance": "4.7 mi",
-      "url": "https://www.google.com/maps/search/Waterford%20Oaks%20Wave%20Pool+near+42.5965147%2C-83.3556318",
-      "isFar": true
     }
   ],
   "hotels": [
@@ -194,36 +158,6 @@
       "name": "Keego Harbor Manufactured Housing Community",
       "distance": "0.7 mi",
       "url": "https://www.google.com/maps/search/Keego%20Harbor%20Manufactured%20Housing%20Community+near+42.5965147%2C-83.3556318"
-    },
-    {
-      "name": "Charming 2-bedroom apartment with AC, WiFi in Pleasant Keego Harbor",
-      "distance": "0.7 mi",
-      "url": "https://www.google.com/maps/search/Charming%202-bedroom%20apartment%20with%20AC%2C%20WiFi%20in%20Pleasant%20Keego%20Harbor+near+42.5965147%2C-83.3556318"
-    },
-    {
-      "name": "Charming 2-bedroom apartment with AC, WiFi in Pleasant Keego Harbor",
-      "distance": "0.7 mi",
-      "url": "https://www.google.com/maps/search/Charming%202-bedroom%20apartment%20with%20AC%2C%20WiFi%20in%20Pleasant%20Keego%20Harbor+near+42.5965147%2C-83.3556318"
-    },
-    {
-      "name": "Cozy 1-bedroom with WiFi and AC in quaint Keego Harbor",
-      "distance": "0.8 mi",
-      "url": "https://www.google.com/maps/search/Cozy%201-bedroom%20with%20WiFi%20and%20AC%20in%20quaint%20Keego%20Harbor+near+42.5965147%2C-83.3556318"
-    },
-    {
-      "name": "Urban oasis-lake/beach/boat in city. Sleeps 8-12. - Five-Bedroom House",
-      "distance": "0.8 mi",
-      "url": "https://www.google.com/maps/search/Urban%20oasis-lake%2Fbeach%2Fboat%20in%20city.%20Sleeps%208-12.%20-%20Five-Bedroom%20House+near+42.5965147%2C-83.3556318"
-    },
-    {
-      "name": "Urban oasis-lake/beach/boat in city. Sleeps 8-12.",
-      "distance": "0.8 mi",
-      "url": "https://www.google.com/maps/search/Urban%20oasis-lake%2Fbeach%2Fboat%20in%20city.%20Sleeps%208-12.+near+42.5965147%2C-83.3556318"
-    },
-    {
-      "name": "Luxury 4 Bedroom Lake House W/ amazing views!",
-      "distance": "0.9 mi",
-      "url": "https://www.google.com/maps/search/Luxury%204%20Bedroom%20Lake%20House%20W%2F%20amazing%20views!+near+42.5965147%2C-83.3556318"
     }
   ],
   "gas": [
@@ -246,11 +180,6 @@
       "name": "Exxon",
       "distance": "1.4 mi",
       "url": "https://www.google.com/maps/search/Exxon+near+42.5965147%2C-83.3556318"
-    },
-    {
-      "name": "Mobil",
-      "distance": "1.5 mi",
-      "url": "https://www.google.com/maps/search/Mobil+near+42.5965147%2C-83.3556318"
     }
   ]
 }

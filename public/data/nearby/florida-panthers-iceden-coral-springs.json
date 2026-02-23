@@ -13,11 +13,6 @@
   ],
   "coffee": [
     {
-      "name": "McDonald's",
-      "distance": "0.6 mi",
-      "url": "https://www.google.com/maps/search/McDonald's+near+26.2711954%2C-80.2920545"
-    },
-    {
       "name": "Frida Coffee and Deli",
       "distance": "0.8 mi",
       "url": "https://www.google.com/maps/search/Frida%20Coffee%20and%20Deli+near+26.2711954%2C-80.2920545"
@@ -53,11 +48,6 @@
       "name": "Pro Shop Restaurant Niblick's Pub",
       "distance": "1.4 mi",
       "url": "https://www.google.com/maps/search/Pro%20Shop%20Restaurant%20Niblick's%20Pub+near+26.2711954%2C-80.2920545"
-    },
-    {
-      "name": "Confectionately Yours Cookie Cakes",
-      "distance": "1.4 mi",
-      "url": "https://www.google.com/maps/search/Confectionately%20Yours%20Cookie%20Cakes+near+26.2711954%2C-80.2920545"
     }
   ],
   "dinner": [
@@ -90,11 +80,6 @@
       "name": "Spikey Ty",
       "distance": "1.3 mi",
       "url": "https://www.google.com/maps/search/Spikey%20Ty+near+26.2711954%2C-80.2920545"
-    },
-    {
-      "name": "Sweet Sponges",
-      "distance": "1.4 mi",
-      "url": "https://www.google.com/maps/search/Sweet%20Sponges+near+26.2711954%2C-80.2920545"
     }
   ],
   "bowling": [
@@ -146,11 +131,6 @@
       "name": "Red Button Escape",
       "distance": "2.3 mi",
       "url": "https://www.google.com/maps/search/Red%20Button%20Escape+near+26.2711954%2C-80.2920545"
-    },
-    {
-      "name": "Ocean Sports Development",
-      "distance": "2.3 mi",
-      "url": "https://www.google.com/maps/search/Ocean%20Sports%20Development+near+26.2711954%2C-80.2920545"
     }
   ],
   "hotels": [
@@ -160,24 +140,9 @@
       "url": "https://www.google.com/maps/search/Hotel%20near+near+26.2711954%2C-80.2920545"
     },
     {
-      "name": "Modern Coral Springs Home Close to Everglades! - Holiday Home",
-      "distance": "0.7 mi",
-      "url": "https://www.google.com/maps/search/Modern%20Coral%20Springs%20Home%20Close%20to%20Everglades!%20-%20Holiday%20Home+near+26.2711954%2C-80.2920545"
-    },
-    {
-      "name": "Modern Coral Springs Home Close to Everglades!",
-      "distance": "0.7 mi",
-      "url": "https://www.google.com/maps/search/Modern%20Coral%20Springs%20Home%20Close%20to%20Everglades!+near+26.2711954%2C-80.2920545"
-    },
-    {
       "name": "15 Mi to Beach Modern Coral Springs Home",
       "distance": "0.7 mi",
       "url": "https://www.google.com/maps/search/15%20Mi%20to%20Beach%20Modern%20Coral%20Springs%20Home+near+26.2711954%2C-80.2920545"
-    },
-    {
-      "name": "15 Mi to Beach: Modern Coral Springs Home - House (3 Bedrooms)",
-      "distance": "0.7 mi",
-      "url": "https://www.google.com/maps/search/15%20Mi%20to%20Beach%3A%20Modern%20Coral%20Springs%20Home%20-%20House%20(3%20Bedrooms)+near+26.2711954%2C-80.2920545"
     },
     {
       "name": "None123456",
@@ -210,11 +175,6 @@
       "name": "Gas",
       "distance": "0.8 mi",
       "url": "https://www.google.com/maps/search/Gas+near+26.2711954%2C-80.2920545"
-    },
-    {
-      "name": "Autolavado",
-      "distance": "1.1 mi",
-      "url": "https://www.google.com/maps/search/Autolavado+near+26.2711954%2C-80.2920545"
     }
   ]
 }

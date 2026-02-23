@@ -29,26 +29,6 @@
       "name": "Bishop Park Concession Stand",
       "distance": "0.4 mi",
       "url": "https://www.google.com/maps/search/?api=1&query=Bishop%20Park%20Concession%20Stand&query_place_id=ChIJN7Va8L4wO4gRDPjlXgOgfWE&center=42.2058202,-83.1466744"
-    },
-    {
-      "name": "Subway",
-      "distance": "0.7 mi",
-      "url": "https://www.google.com/maps/search/?api=1&query=Subway&query_place_id=ChIJZ70-7sAwO4gR1iGG0RDboa8&center=42.210491999999995,-83.146885"
-    },
-    {
-      "name": "C’s Taco House",
-      "distance": "0.7 mi",
-      "url": "https://www.google.com/maps/search/?api=1&query=C%E2%80%99s%20Taco%20House&query_place_id=ChIJZWymAi83O4gRZmaOT36bsFQ&center=42.203795799999995,-83.1658326"
-    },
-    {
-      "name": "Subway",
-      "distance": "1.5 mi",
-      "url": "https://www.google.com/maps/search/?api=1&query=Subway&query_place_id=ChIJBe-_OuA5O4gRmpxsyWwBX0Q&center=42.2028502,-83.1810502"
-    },
-    {
-      "name": "A B & D Savory & Sweet",
-      "distance": "1.5 mi",
-      "url": "https://www.google.com/maps/search/?api=1&query=A%20B%20%26%20D%20Savory%20%26%20Sweet&query_place_id=ChIJnW6TQAA3O4gR6t9lKdG0IE8&center=42.1996927,-83.1814134"
     }
   ],
   "coffee": [
@@ -61,11 +41,6 @@
       "name": "James Oliver Wyandotte",
       "distance": "0.2 mi",
       "url": "https://www.google.com/maps/search/?api=1&query=James%20Oliver%20Wyandotte&query_place_id=ChIJLxUJwG8xO4gRojunzRXq9K8&center=42.2026241,-83.14980290000001"
-    },
-    {
-      "name": "McDonald's",
-      "distance": "0.2 mi",
-      "url": "https://www.google.com/maps/search/?api=1&query=McDonald's&query_place_id=ChIJFSBx0KQwO4gRMhbgC8hPWXA&center=42.198504299999996,-83.15076739999999"
     }
   ],
   "team_lunch": [
@@ -115,11 +90,6 @@
       "name": "The Auburn Taverna",
       "distance": "0.1 mi",
       "url": "https://www.google.com/maps/search/The%20Auburn%20Taverna+near+42.201558%2C-83.1526181"
-    },
-    {
-      "name": "On the Rocks",
-      "distance": "0.1 mi",
-      "url": "https://www.google.com/maps/search/On%20the%20Rocks+near+42.201558%2C-83.1526181"
     }
   ],
   "bowling": [
@@ -137,18 +107,6 @@
       "name": "LaSalle Bowling",
       "distance": "3.9 mi",
       "url": "https://www.google.com/maps/search/LaSalle%20Bowling+near+42.201558%2C-83.1526181",
-      "isFar": true
-    },
-    {
-      "name": "10 Pins of Trenton",
-      "distance": "4.4 mi",
-      "url": "https://www.google.com/maps/search/10%20Pins%20of%20Trenton+near+42.201558%2C-83.1526181",
-      "isFar": true
-    },
-    {
-      "name": "Main Event Taylor",
-      "distance": "4.6 mi",
-      "url": "https://www.google.com/maps/search/Main%20Event%20Taylor+near+42.201558%2C-83.1526181",
       "isFar": true
     }
   ],
@@ -172,12 +130,6 @@
       "url": "https://www.google.com/maps/search/Mystery%20Escapes%20LLC+near+42.201558%2C-83.1526181"
     },
     {
-      "name": "Spray Pad",
-      "distance": "3.3 mi",
-      "url": "https://www.google.com/maps/search/Spray%20Pad+near+42.201558%2C-83.1526181",
-      "isFar": true
-    },
-    {
       "name": "Rotary Circle at LaSalle Landing",
       "distance": "3.6 mi",
       "url": "https://www.google.com/maps/search/Rotary%20Circle%20at%20LaSalle%20Landing+near+42.201558%2C-83.1526181",
@@ -190,43 +142,7 @@
       "isFar": true
     }
   ],
-  "hotels": [
-    {
-      "name": "Loft Penthouse, 2 Balcony, Arcade, 2 Bed, Pool,Gym",
-      "distance": "0.2 mi",
-      "url": "https://www.google.com/maps/search/Loft%20Penthouse%2C%202%20Balcony%2C%20Arcade%2C%202%20Bed%2C%20Pool%2CGym+near+42.201558%2C-83.1526181"
-    },
-    {
-      "name": "Luxury loft in the heart of Downtown Wyandotte",
-      "distance": "0.2 mi",
-      "url": "https://www.google.com/maps/search/Luxury%20loft%20in%20the%20heart%20of%20Downtown%20Wyandotte+near+42.201558%2C-83.1526181"
-    },
-    {
-      "name": "Loft, Open Concept, Balcony 2 Bed, Pool Gym, Wifi",
-      "distance": "0.2 mi",
-      "url": "https://www.google.com/maps/search/Loft%2C%20Open%20Concept%2C%20Balcony%202%20Bed%2C%20Pool%20Gym%2C%20Wifi+near+42.201558%2C-83.1526181"
-    },
-    {
-      "name": "The W Loft: Penthouse with Pool, Gym, 2 Balconies",
-      "distance": "0.2 mi",
-      "url": "https://www.google.com/maps/search/The%20W%20Loft%3A%20Penthouse%20with%20Pool%2C%20Gym%2C%202%20Balconies+near+42.201558%2C-83.1526181"
-    },
-    {
-      "name": "The W Loft: Spacious 2 Bed, Private Pool, and Gym",
-      "distance": "0.2 mi",
-      "url": "https://www.google.com/maps/search/The%20W%20Loft%3A%20Spacious%202%20Bed%2C%20Private%20Pool%2C%20and%20Gym+near+42.201558%2C-83.1526181"
-    },
-    {
-      "name": "Spacious Mid Century Modern 1 Bed 1 Bath 65\\\" TV",
-      "distance": "0.3 mi",
-      "url": "https://www.google.com/maps/search/Spacious%20Mid%20Century%20Modern%201%20Bed%201%20Bath%2065%5C%22%20TV+near+42.201558%2C-83.1526181"
-    },
-    {
-      "name": "Spacious Mid Century Modern 1 Bed 1 Bath 65\" TV",
-      "distance": "0.3 mi",
-      "url": "https://www.google.com/maps/search/Spacious%20Mid%20Century%20Modern%201%20Bed%201%20Bath%2065%22%20TV+near+42.201558%2C-83.1526181"
-    }
-  ],
+  "hotels": [],
   "gas": [
     {
       "name": "Mobil",
@@ -247,11 +163,6 @@
       "name": "Wow!",
       "distance": "0.9 mi",
       "url": "https://www.google.com/maps/search/Wow!+near+42.201558%2C-83.1526181"
-    },
-    {
-      "name": "Wyandotte Petroleum",
-      "distance": "0.9 mi",
-      "url": "https://www.google.com/maps/search/Wyandotte%20Petroleum+near+42.201558%2C-83.1526181"
     }
   ]
 }

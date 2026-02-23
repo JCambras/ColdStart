@@ -29,21 +29,6 @@
       "name": "Subway",
       "distance": "0.8 mi",
       "url": "https://www.google.com/maps/search/?api=1&query=Subway&query_place_id=ChIJi9zHo3V544kRAGNkQOnMfd0&center=42.3402713,-71.1665147"
-    },
-    {
-      "name": "Taco Bell",
-      "distance": "0.8 mi",
-      "url": "https://www.google.com/maps/search/?api=1&query=Taco%20Bell&query_place_id=ChIJn2ksIgB544kRSlT5pivhApQ&center=42.348672199999996,-71.1505016"
-    },
-    {
-      "name": "Jersey Mike's",
-      "distance": "0.9 mi",
-      "url": "https://www.google.com/maps/search/?api=1&query=Jersey%20Mike's&query_place_id=ChIJMzQ3cSZ544kR-KrTlMDLnuY&center=42.34879000000001,-71.15908999999999"
-    },
-    {
-      "name": "Detroit Pizza Co.",
-      "distance": "1.2 mi",
-      "url": "https://www.google.com/maps/search/?api=1&query=Detroit%20Pizza%20Co.&query_place_id=ChIJnfKJibV544kRvtwH-i_TG08&center=42.350373700000006,-71.1670321"
     }
   ],
   "coffee": [
@@ -71,21 +56,6 @@
       "name": "Dolce Vita Cafe",
       "distance": "0.4 mi",
       "url": "https://www.google.com/maps/search/?api=1&query=Dolce%20Vita%20Cafe&query_place_id=ChIJIS3w4Ux444kRbCDLtr4qFMI&center=42.3412505,-71.1466032"
-    },
-    {
-      "name": "Sultana's Bakery & Cafe",
-      "distance": "0.7 mi",
-      "url": "https://www.google.com/maps/search/?api=1&query=Sultana's%20Bakery%20%26%20Cafe&query_place_id=ChIJQ5yzlLR544kRbfoXMsiWw0E&center=42.344269,-71.14299160000002"
-    },
-    {
-      "name": "Candy’s Cake",
-      "distance": "0.9 mi",
-      "url": "https://www.google.com/maps/search/?api=1&query=Candy%E2%80%99s%20Cake&query_place_id=ChIJI9tE4HZ544kRweR3jgGR5F0&center=42.3492173,-71.1530968"
-    },
-    {
-      "name": "Athan's Bakery & Cafe",
-      "distance": "0.9 mi",
-      "url": "https://www.google.com/maps/search/?api=1&query=Athan's%20Bakery%20%26%20Cafe&query_place_id=ChIJjc-xWLB544kRj-IsV5bflsU&center=42.3391938,-71.134823"
     }
   ],
   "team_lunch": [
@@ -118,16 +88,6 @@
       "name": "Little Apple Tree Bake Shoppe",
       "distance": "1.2 mi",
       "url": "https://www.google.com/maps/search/?api=1&query=Little%20Apple%20Tree%20Bake%20Shoppe&query_place_id=ChIJS5lLR39544kRg-uerDHt-p4&center=42.351670399999996,-71.140084"
-    },
-    {
-      "name": "Mia's Brooklyn Bakery",
-      "distance": "1.3 mi",
-      "url": "https://www.google.com/maps/search/?api=1&query=Mia's%20Brooklyn%20Bakery&query_place_id=ChIJTQJEJk9544kRBPd0dZOkTq8&center=42.3227517,-71.16973899999999"
-    },
-    {
-      "name": "Thyme Machine",
-      "distance": "1.4 mi",
-      "url": "https://www.google.com/maps/search/?api=1&query=Thyme%20Machine&query_place_id=ChIJd0qrwpl544kRCSIaU7AxE88&center=42.3510357,-71.13354869999999"
     }
   ],
   "dinner": [

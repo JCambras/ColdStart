@@ -29,30 +29,6 @@
       "name": "Burger King",
       "distance": "2.8 mi",
       "url": "https://www.google.com/maps/search/?api=1&query=Burger%20King&query_place_id=ChIJaZZSk-nNH4gR_TLPPuSFJ54&center=44.7470876,-85.5261531"
-    },
-    {
-      "name": "Burger King",
-      "distance": "3.1 mi",
-      "url": "https://www.google.com/maps/search/?api=1&query=Burger%20King&query_place_id=ChIJ3_sx9y7NH4gRbXtc0L7X-LQ&center=44.7336303,-85.59611389999999",
-      "isFar": true
-    },
-    {
-      "name": "Wendy's",
-      "distance": "3.1 mi",
-      "url": "https://www.google.com/maps/search/?api=1&query=Wendy's&query_place_id=ChIJZTwGU7HNH4gR8NEbRLuAQiA&center=44.734736399999996,-85.5959238",
-      "isFar": true
-    },
-    {
-      "name": "Taqueria Las Lagunas",
-      "distance": "3.2 mi",
-      "url": "https://www.google.com/maps/search/?api=1&query=Taqueria%20Las%20Lagunas&query_place_id=ChIJnVQmWZUrS00RkMAeGAm3nLU&center=44.73515510000001,-85.598084",
-      "isFar": true
-    },
-    {
-      "name": "Jimmy John's",
-      "distance": "3.3 mi",
-      "url": "https://www.google.com/maps/search/?api=1&query=Jimmy%20John's&query_place_id=ChIJN1uDoizNH4gRUGZO0J5n1M8&center=44.7338167,-85.6010718",
-      "isFar": true
     }
   ],
   "coffee": [
@@ -128,11 +104,6 @@
       "name": "Red Mesa Grill-Traverse City",
       "distance": "2.6 mi",
       "url": "https://www.google.com/maps/search/Red%20Mesa%20Grill-Traverse%20City+near+44.708913599999995%2C-85.5446087"
-    },
-    {
-      "name": "Don's Drive in",
-      "distance": "2.6 mi",
-      "url": "https://www.google.com/maps/search/Don's%20Drive%20in+near+44.708913599999995%2C-85.5446087"
     }
   ],
   "bowling": [
@@ -186,12 +157,6 @@
       "distance": "5.5 mi",
       "url": "https://www.google.com/maps/search/Traverse%20City%20Cherry%20Festival%20Fair+near+44.708913599999995%2C-85.5446087",
       "isFar": true
-    },
-    {
-      "name": "Timewind Escape Rooms",
-      "distance": "5.6 mi",
-      "url": "https://www.google.com/maps/search/Timewind%20Escape%20Rooms+near+44.708913599999995%2C-85.5446087",
-      "isFar": true
     }
   ],
   "hotels": [
@@ -211,24 +176,9 @@
       "url": "https://www.google.com/maps/search/Experience%20Up-North%20Traverse%20City%20Charm%20Near%20Lake%20Michigan!+near+44.708913599999995%2C-85.5446087"
     },
     {
-      "name": "Cozy and Spacious House Situated In The Heart Of Up North And Snow activities!",
-      "distance": "1.2 mi",
-      "url": "https://www.google.com/maps/search/Cozy%20and%20Spacious%20House%20Situated%20In%20The%20Heart%20Of%20Up%20North%20And%20Snow%20activities!+near+44.708913599999995%2C-85.5446087"
-    },
-    {
       "name": "1910 Farmhouse NEAR TOWN & WINERIES",
       "distance": "1.4 mi",
       "url": "https://www.google.com/maps/search/1910%20Farmhouse%20NEAR%20TOWN%20%26%20WINERIES+near+44.708913599999995%2C-85.5446087"
-    },
-    {
-      "name": "Modern Retreat with Sauna and EV Charger",
-      "distance": "1.6 mi",
-      "url": "https://www.google.com/maps/search/Modern%20Retreat%20with%20Sauna%20and%20EV%20Charger+near+44.708913599999995%2C-85.5446087"
-    },
-    {
-      "name": "The Holiday House | Modern Wooded Retreat Near TC Trails | EV Charger",
-      "distance": "1.6 mi",
-      "url": "https://www.google.com/maps/search/The%20Holiday%20House%20%7C%20Modern%20Wooded%20Retreat%20Near%20TC%20Trails%20%7C%20EV%20Charger+near+44.708913599999995%2C-85.5446087"
     }
   ],
   "gas": [
@@ -251,11 +201,6 @@
       "name": "Costco Gas Station",
       "distance": "2.2 mi",
       "url": "https://www.google.com/maps/search/Costco%20Gas%20Station+near+44.708913599999995%2C-85.5446087"
-    },
-    {
-      "name": "Shell",
-      "distance": "2.5 mi",
-      "url": "https://www.google.com/maps/search/Shell+near+44.708913599999995%2C-85.5446087"
     }
   ]
 }

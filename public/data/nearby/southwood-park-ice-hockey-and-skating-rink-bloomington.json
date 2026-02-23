@@ -29,11 +29,6 @@
       "name": "Jimmy John's",
       "distance": "1.0 mi",
       "url": "https://www.google.com/maps/search/Jimmy%20John's+near+44.800357%2C-93.340166"
-    },
-    {
-      "name": "Dairy Queen Grill & Chill",
-      "distance": "1.0 mi",
-      "url": "https://www.google.com/maps/search/Dairy%20Queen%20Grill%20%26%20Chill+near+44.800357%2C-93.340166"
     }
   ],
   "coffee": [
@@ -41,11 +36,6 @@
       "name": "Dunkin'",
       "distance": "0.8 mi",
       "url": "https://www.google.com/maps/search/Dunkin'+near+44.800357%2C-93.340166"
-    },
-    {
-      "name": "McDonald's",
-      "distance": "0.9 mi",
-      "url": "https://www.google.com/maps/search/McDonald's+near+44.800357%2C-93.340166"
     },
     {
       "name": "Caribou Coffee",
@@ -153,30 +143,9 @@
       "distance": "4.4 mi",
       "url": "https://www.google.com/maps/search/Missing%20Pieces%20Escape%20Games+near+44.800357%2C-93.340166",
       "isFar": true
-    },
-    {
-      "name": "Sky Zone Trampoline Park",
-      "distance": "4.6 mi",
-      "url": "https://www.google.com/maps/search/Sky%20Zone%20Trampoline%20Park+near+44.800357%2C-93.340166",
-      "isFar": true
     }
   ],
   "hotels": [
-    {
-      "name": "2 BR con patio por el centro comercial",
-      "distance": "1.2 mi",
-      "url": "https://www.google.com/maps/search/2%20BR%20con%20patio%20por%20el%20centro%20comercial+near+44.800357%2C-93.340166"
-    },
-    {
-      "name": "2 BR con patio por el centro comercial",
-      "distance": "1.2 mi",
-      "url": "https://www.google.com/maps/search/2%20BR%20con%20patio%20por%20el%20centro%20comercial+near+44.800357%2C-93.340166"
-    },
-    {
-      "name": "2 BR con patio por el centro comercial",
-      "distance": "1.2 mi",
-      "url": "https://www.google.com/maps/search/2%20BR%20con%20patio%20por%20el%20centro%20comercial+near+44.800357%2C-93.340166"
-    },
     {
       "name": "Quality Inn Savage - Bloomington West",
       "distance": "1.5 mi",
@@ -186,16 +155,6 @@
       "name": "Quality Inn Savage - Bloomington West - Queen Room - Non-Smoking",
       "distance": "1.5 mi",
       "url": "https://www.google.com/maps/search/Quality%20Inn%20Savage%20-%20Bloomington%20West%20-%20Queen%20Room%20-%20Non-Smoking+near+44.800357%2C-93.340166"
-    },
-    {
-      "name": "Glamorous 2B2BA with patio views and gym",
-      "distance": "1.6 mi",
-      "url": "https://www.google.com/maps/search/Glamorous%202B2BA%20with%20patio%20views%20and%20gym+near+44.800357%2C-93.340166"
-    },
-    {
-      "name": "Glamorous 2B2BA with patio views and gym",
-      "distance": "1.6 mi",
-      "url": "https://www.google.com/maps/search/Glamorous%202B2BA%20with%20patio%20views%20and%20gym+near+44.800357%2C-93.340166"
     }
   ],
   "gas": [
@@ -218,11 +177,6 @@
       "name": "Mobil",
       "distance": "0.8 mi",
       "url": "https://www.google.com/maps/search/Mobil+near+44.800357%2C-93.340166"
-    },
-    {
-      "name": "bp",
-      "distance": "1.5 mi",
-      "url": "https://www.google.com/maps/search/bp+near+44.800357%2C-93.340166"
     }
   ]
 }

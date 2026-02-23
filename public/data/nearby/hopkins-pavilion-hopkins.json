@@ -33,11 +33,6 @@
       "url": "https://www.google.com/maps/search/Munkabeans%20Coffeehouse+near+44.921731400000006%2C-93.4199447"
     },
     {
-      "name": "McDonald's",
-      "distance": "0.4 mi",
-      "url": "https://www.google.com/maps/search/McDonald's+near+44.921731400000006%2C-93.4199447"
-    },
-    {
       "name": "Dunn Brothers Coffee",
       "distance": "0.4 mi",
       "url": "https://www.google.com/maps/search/Dunn%20Brothers%20Coffee+near+44.921731400000006%2C-93.4199447"
@@ -85,11 +80,6 @@
       "name": "La Bamba - Mexican Style Bakery and Groceries",
       "distance": "0.4 mi",
       "url": "https://www.google.com/maps/search/La%20Bamba%20-%20Mexican%20Style%20Bakery%20and%20Groceries+near+44.921731400000006%2C-93.4199447"
-    },
-    {
-      "name": "Hoagie's Family Restaurant",
-      "distance": "0.5 mi",
-      "url": "https://www.google.com/maps/search/Hoagie's%20Family%20Restaurant+near+44.921731400000006%2C-93.4199447"
     }
   ],
   "bowling": [
@@ -128,18 +118,6 @@
       "distance": "4.5 mi",
       "url": "https://www.google.com/maps/search/Edina%20Mann%20Theatre+near+44.921731400000006%2C-93.4199447",
       "isFar": true
-    },
-    {
-      "name": "AMC Eden Prairie Mall 18",
-      "distance": "4.7 mi",
-      "url": "https://www.google.com/maps/search/AMC%20Eden%20Prairie%20Mall%2018+near+44.921731400000006%2C-93.4199447",
-      "isFar": true
-    },
-    {
-      "name": "Marcus West End Cinema",
-      "distance": "4.7 mi",
-      "url": "https://www.google.com/maps/search/Marcus%20West%20End%20Cinema+near+44.921731400000006%2C-93.4199447",
-      "isFar": true
     }
   ],
   "fun": [
@@ -165,52 +143,9 @@
       "distance": "4.1 mi",
       "url": "https://www.google.com/maps/search/Pump%20It%20Up%20Eden%20Prairie%20Kids%20Birthdays%20and%20More+near+44.921731400000006%2C-93.4199447",
       "isFar": true
-    },
-    {
-      "name": "Sandbox VR",
-      "distance": "4.7 mi",
-      "url": "https://www.google.com/maps/search/Sandbox%20VR+near+44.921731400000006%2C-93.4199447",
-      "isFar": true
-    },
-    {
-      "name": "Game Show Studio Eden Prairie",
-      "distance": "4.7 mi",
-      "url": "https://www.google.com/maps/search/Game%20Show%20Studio%20Eden%20Prairie+near+44.921731400000006%2C-93.4199447",
-      "isFar": true
-    },
-    {
-      "name": "Game Show Battle Rooms - Minneapolis (St. Louis Park)",
-      "distance": "4.7 mi",
-      "url": "https://www.google.com/maps/search/Game%20Show%20Battle%20Rooms%20-%20Minneapolis%20(St.%20Louis%20Park)+near+44.921731400000006%2C-93.4199447",
-      "isFar": true
     }
   ],
   "hotels": [
-    {
-      "name": "Hopkins Vacation Rental ~ 12 Mi to Minneapolis - House (4 Bedrooms)",
-      "distance": "0.7 mi",
-      "url": "https://www.google.com/maps/search/Hopkins%20Vacation%20Rental%20~%2012%20Mi%20to%20Minneapolis%20-%20House%20(4%20Bedrooms)+near+44.921731400000006%2C-93.4199447"
-    },
-    {
-      "name": "4 beds, 2 baths outdoor space, sleeps 10",
-      "distance": "0.9 mi",
-      "url": "https://www.google.com/maps/search/4%20beds%2C%202%20baths%20outdoor%20space%2C%20sleeps%2010+near+44.921731400000006%2C-93.4199447"
-    },
-    {
-      "name": "Spacious 5-bedroom house in terrific Hopkins with open living and dining space.",
-      "distance": "1.1 mi",
-      "url": "https://www.google.com/maps/search/Spacious%205-bedroom%20house%20in%20terrific%20Hopkins%20with%20open%20living%20and%20dining%20space.+near+44.921731400000006%2C-93.4199447"
-    },
-    {
-      "name": "Spacious 5-bedroom house in terrific Hopkins with open living and dining space.",
-      "distance": "1.1 mi",
-      "url": "https://www.google.com/maps/search/Spacious%205-bedroom%20house%20in%20terrific%20Hopkins%20with%20open%20living%20and%20dining%20space.+near+44.921731400000006%2C-93.4199447"
-    },
-    {
-      "name": "Furnished, beautiful 4br, 2.5 bath house",
-      "distance": "1.1 mi",
-      "url": "https://www.google.com/maps/search/Furnished%2C%20beautiful%204br%2C%202.5%20bath%20house+near+44.921731400000006%2C-93.4199447"
-    },
     {
       "name": "Perfect house for all your needs /vacation",
       "distance": "1.1 mi",
@@ -242,11 +177,6 @@
       "name": "Minnoco",
       "distance": "0.6 mi",
       "url": "https://www.google.com/maps/search/Minnoco+near+44.921731400000006%2C-93.4199447"
-    },
-    {
-      "name": "Hopkins Express",
-      "distance": "0.6 mi",
-      "url": "https://www.google.com/maps/search/Hopkins%20Express+near+44.921731400000006%2C-93.4199447"
     }
   ]
 }

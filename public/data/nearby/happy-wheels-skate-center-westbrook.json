@@ -29,11 +29,6 @@
       "name": "KFC",
       "distance": "0.5 mi",
       "url": "https://www.google.com/maps/search/KFC+near+43.683972399999995%2C-70.3323622"
-    },
-    {
-      "name": "Taco Bell / KFC",
-      "distance": "0.5 mi",
-      "url": "https://www.google.com/maps/search/Taco%20Bell%20%2F%20KFC+near+43.683972399999995%2C-70.3323622"
     }
   ],
   "coffee": [
@@ -46,11 +41,6 @@
       "name": "Panera Bread",
       "distance": "0.4 mi",
       "url": "https://www.google.com/maps/search/Panera%20Bread+near+43.683972399999995%2C-70.3323622"
-    },
-    {
-      "name": "Dunkin'",
-      "distance": "0.5 mi",
-      "url": "https://www.google.com/maps/search/Dunkin'+near+43.683972399999995%2C-70.3323622"
     },
     {
       "name": "Starbucks Coffee Company",
@@ -113,12 +103,6 @@
       "distance": "3.6 mi",
       "url": "https://www.google.com/maps/search/Round1%20Bowling%20%26%20Arcade%20The%20Maine%20Mall+near+43.683972399999995%2C-70.3323622",
       "isFar": true
-    },
-    {
-      "name": "Bayside Bowl",
-      "distance": "3.8 mi",
-      "url": "https://www.google.com/maps/search/Bayside%20Bowl+near+43.683972399999995%2C-70.3323622",
-      "isFar": true
     }
   ],
   "arcade": [],
@@ -137,30 +121,6 @@
       "name": "Entertainment Luxury Cinemas South Portland",
       "distance": "3.6 mi",
       "url": "https://www.google.com/maps/search/Entertainment%20Luxury%20Cinemas%20South%20Portland+near+43.683972399999995%2C-70.3323622",
-      "isFar": true
-    },
-    {
-      "name": "MHC Premier Clark’s Pond 8",
-      "distance": "3.6 mi",
-      "url": "https://www.google.com/maps/search/MHC%20Premier%20Clark%E2%80%99s%20Pond%208+near+43.683972399999995%2C-70.3323622",
-      "isFar": true
-    },
-    {
-      "name": "SPACE Films",
-      "distance": "4.1 mi",
-      "url": "https://www.google.com/maps/search/SPACE%20Films+near+43.683972399999995%2C-70.3323622",
-      "isFar": true
-    },
-    {
-      "name": "PMA Films",
-      "distance": "4.1 mi",
-      "url": "https://www.google.com/maps/search/PMA%20Films+near+43.683972399999995%2C-70.3323622",
-      "isFar": true
-    },
-    {
-      "name": "Nickelodeon Cinemas (Patriot Cinemas)",
-      "distance": "4.2 mi",
-      "url": "https://www.google.com/maps/search/Nickelodeon%20Cinemas%20(Patriot%20Cinemas)+near+43.683972399999995%2C-70.3323622",
       "isFar": true
     }
   ],
@@ -214,11 +174,6 @@
       "name": "Hampton Inn & Suites Portland West",
       "distance": "0.6 mi",
       "url": "https://www.google.com/maps/search/Hampton%20Inn%20%26%20Suites%20Portland%20West+near+43.683972399999995%2C-70.3323622"
-    },
-    {
-      "name": "Inn at Portland",
-      "distance": "0.7 mi",
-      "url": "https://www.google.com/maps/search/Inn%20at%20Portland+near+43.683972399999995%2C-70.3323622"
     }
   ],
   "gas": [
@@ -241,11 +196,6 @@
       "name": "Mobil Gas Station and Car Wash",
       "distance": "0.4 mi",
       "url": "https://www.google.com/maps/search/Mobil%20Gas%20Station%20and%20Car%20Wash+near+43.683972399999995%2C-70.3323622"
-    },
-    {
-      "name": "Mobil",
-      "distance": "0.4 mi",
-      "url": "https://www.google.com/maps/search/Mobil+near+43.683972399999995%2C-70.3323622"
     }
   ]
 }

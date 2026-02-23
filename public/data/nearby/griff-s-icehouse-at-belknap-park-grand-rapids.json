@@ -29,26 +29,6 @@
       "name": "Jimmy John's",
       "distance": "1.0 mi",
       "url": "https://www.google.com/maps/search/?api=1&query=Jimmy%20John's&query_place_id=ChIJs5f1G66tGYgRVoJI6aW8V2c&center=42.970289799999996,-85.65344809999999"
-    },
-    {
-      "name": "Subway",
-      "distance": "1.0 mi",
-      "url": "https://www.google.com/maps/search/?api=1&query=Subway&query_place_id=ChIJH37wNMatGYgRMejWCFAPgVU&center=42.966501199999996,-85.6668795"
-    },
-    {
-      "name": "Fratelli's Pizza (Bridge St.)",
-      "distance": "1.0 mi",
-      "url": "https://www.google.com/maps/search/?api=1&query=Fratelli's%20Pizza%20(Bridge%20St.)&query_place_id=ChIJ1aeRhs6tGYgR1-Nsxbe1Qfw&center=42.9707734,-85.68054649999999"
-    },
-    {
-      "name": "Ski's Sub Shop",
-      "distance": "1.1 mi",
-      "url": "https://www.google.com/maps/search/?api=1&query=Ski's%20Sub%20Shop&query_place_id=ChIJTUGFz8WtGYgRIV0CoKg3Qx8&center=42.9653109,-85.6698006"
-    },
-    {
-      "name": "Untitled Cafe",
-      "distance": "1.1 mi",
-      "url": "https://www.google.com/maps/search/?api=1&query=Untitled%20Cafe&query_place_id=ChIJvfYzIwCtGYgRkkG7Uw5EHtw&center=42.9653048,-85.6709247"
     }
   ],
   "coffee": [
@@ -76,16 +56,6 @@
       "name": "Hastings Cafe",
       "distance": "0.6 mi",
       "url": "https://www.google.com/maps/search/?api=1&query=Hastings%20Cafe&query_place_id=ChIJpTpo4pKtGYgRllcrL4ky4xI&center=42.9723882,-85.66340819999999"
-    },
-    {
-      "name": "McDonald's",
-      "distance": "0.8 mi",
-      "url": "https://www.google.com/maps/search/?api=1&query=McDonald's&query_place_id=ChIJr3JrSrGtGYgRt75Qmvyxmj0&center=42.9705631,-85.6591028"
-    },
-    {
-      "name": "Express Cafe",
-      "distance": "0.9 mi",
-      "url": "https://www.google.com/maps/search/?api=1&query=Express%20Cafe&query_place_id=ChIJ-wOc0JGtGYgRSOx7qKMS_4E&center=42.9685146,-85.6697442"
     }
   ],
   "team_lunch": [
@@ -130,11 +100,6 @@
       "name": "BrickYard Tavern",
       "distance": "0.3 mi",
       "url": "https://www.google.com/maps/search/BrickYard%20Tavern+near+42.9809828%2C-85.6657314"
-    },
-    {
-      "name": "Grand Rapids Garage Bar & Grill",
-      "distance": "0.4 mi",
-      "url": "https://www.google.com/maps/search/Grand%20Rapids%20Garage%20Bar%20%26%20Grill+near+42.9809828%2C-85.6657314"
     }
   ],
   "bowling": [
@@ -152,18 +117,6 @@
       "name": "Northfield Lanes",
       "distance": "1.7 mi",
       "url": "https://www.google.com/maps/search/Northfield%20Lanes+near+42.9809828%2C-85.6657314"
-    },
-    {
-      "name": "Paragon Bowling Center and Sports Bar",
-      "distance": "4.2 mi",
-      "url": "https://www.google.com/maps/search/Paragon%20Bowling%20Center%20and%20Sports%20Bar+near+42.9809828%2C-85.6657314",
-      "isFar": true
-    },
-    {
-      "name": "Westgate Bowl",
-      "distance": "4.6 mi",
-      "url": "https://www.google.com/maps/search/Westgate%20Bowl+near+42.9809828%2C-85.6657314",
-      "isFar": true
     }
   ],
   "arcade": [],
@@ -182,18 +135,6 @@
       "name": "AMC Grand Rapids 18",
       "distance": "2.8 mi",
       "url": "https://www.google.com/maps/search/AMC%20Grand%20Rapids%2018+near+42.9809828%2C-85.6657314"
-    },
-    {
-      "name": "Loek's Theatres Inc",
-      "distance": "3.9 mi",
-      "url": "https://www.google.com/maps/search/Loek's%20Theatres%20Inc+near+42.9809828%2C-85.6657314",
-      "isFar": true
-    },
-    {
-      "name": "Celebration Cinema Grand Rapids North & IMAX",
-      "distance": "3.9 mi",
-      "url": "https://www.google.com/maps/search/Celebration%20Cinema%20Grand%20Rapids%20North%20%26%20IMAX+near+42.9809828%2C-85.6657314",
-      "isFar": true
     }
   ],
   "fun": [
@@ -216,63 +157,9 @@
       "name": "Aberdeen Park Splash Pad",
       "distance": "1.8 mi",
       "url": "https://www.google.com/maps/search/Aberdeen%20Park%20Splash%20Pad+near+42.9809828%2C-85.6657314"
-    },
-    {
-      "name": "Urban Air Trampoline and Adventure Park",
-      "distance": "3.2 mi",
-      "url": "https://www.google.com/maps/search/Urban%20Air%20Trampoline%20and%20Adventure%20Park+near+42.9809828%2C-85.6657314",
-      "isFar": true
-    },
-    {
-      "name": "Altitude Trampoline Park",
-      "distance": "3.4 mi",
-      "url": "https://www.google.com/maps/search/Altitude%20Trampoline%20Park+near+42.9809828%2C-85.6657314",
-      "isFar": true
-    },
-    {
-      "name": "Garfield Park Splash Pad",
-      "distance": "3.9 mi",
-      "url": "https://www.google.com/maps/search/Garfield%20Park%20Splash%20Pad+near+42.9809828%2C-85.6657314",
-      "isFar": true
     }
   ],
-  "hotels": [
-    {
-      "name": "Rink Side Retreat",
-      "distance": "0.1 mi",
-      "url": "https://www.google.com/maps/search/Rink%20Side%20Retreat+near+42.9809828%2C-85.6657314"
-    },
-    {
-      "name": "Grand Rapid's 2bedroom apartment, just a quick 3-min drive to DeVos Perform Hall",
-      "distance": "0.3 mi",
-      "url": "https://www.google.com/maps/search/Grand%20Rapid's%202bedroom%20apartment%2C%20just%20a%20quick%203-min%20drive%20to%20DeVos%20Perform%20Hall+near+42.9809828%2C-85.6657314"
-    },
-    {
-      "name": "Grand Rapids Gem - Near Heart of DT - Sleeps 10",
-      "distance": "0.3 mi",
-      "url": "https://www.google.com/maps/search/Grand%20Rapids%20Gem%20-%20Near%20Heart%20of%20DT%20-%20Sleeps%2010+near+42.9809828%2C-85.6657314"
-    },
-    {
-      "name": "Riverfront Condo for Professionals with Workspace & Prime Medical Mile Access.",
-      "distance": "0.3 mi",
-      "url": "https://www.google.com/maps/search/Riverfront%20Condo%20for%20Professionals%20with%20Workspace%20%26%20Prime%20Medical%20Mile%20Access.+near+42.9809828%2C-85.6657314"
-    },
-    {
-      "name": "Entire Home Near Downtown",
-      "distance": "0.4 mi",
-      "url": "https://www.google.com/maps/search/Entire%20Home%20Near%20Downtown+near+42.9809828%2C-85.6657314"
-    },
-    {
-      "name": "Stylish Home Near Heart Of Downtown - Sleeps 8",
-      "distance": "0.4 mi",
-      "url": "https://www.google.com/maps/search/Stylish%20Home%20Near%20Heart%20Of%20Downtown%20-%20Sleeps%208+near+42.9809828%2C-85.6657314"
-    },
-    {
-      "name": "2 bedrooms Resort style condo with POOL and Jacuzzi, Roof Top. River Boardwalk",
-      "distance": "0.4 mi",
-      "url": "https://www.google.com/maps/search/2%20bedrooms%20Resort%20style%20condo%20with%20POOL%20and%20Jacuzzi%2C%20Roof%20Top.%20River%20Boardwalk+near+42.9809828%2C-85.6657314"
-    }
-  ],
+  "hotels": [],
   "gas": [
     {
       "name": "Speedway",
@@ -293,11 +180,6 @@
       "name": "Marathon Gas",
       "distance": "1.1 mi",
       "url": "https://www.google.com/maps/search/Marathon%20Gas+near+42.9809828%2C-85.6657314"
-    },
-    {
-      "name": "Sunoco",
-      "distance": "1.3 mi",
-      "url": "https://www.google.com/maps/search/Sunoco+near+42.9809828%2C-85.6657314"
     }
   ]
 }

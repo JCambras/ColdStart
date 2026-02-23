@@ -43,11 +43,6 @@
       "url": "https://www.google.com/maps/search/Starbucks%20Coffee%20Company+near+41.2556372%2C-95.9741851"
     },
     {
-      "name": "McDonald's",
-      "distance": "0.2 mi",
-      "url": "https://www.google.com/maps/search/McDonald's+near+41.2556372%2C-95.9741851"
-    },
-    {
       "name": "Bruegger's Bagels",
       "distance": "0.3 mi",
       "url": "https://www.google.com/maps/search/Bruegger's%20Bagels+near+41.2556372%2C-95.9741851"
@@ -100,11 +95,6 @@
       "name": "Taj Taste",
       "distance": "0.2 mi",
       "url": "https://www.google.com/maps/search/Taj%20Taste+near+41.2556372%2C-95.9741851"
-    },
-    {
-      "name": "Koen Japanese BBQ and Izakaya",
-      "distance": "0.2 mi",
-      "url": "https://www.google.com/maps/search/Koen%20Japanese%20BBQ%20and%20Izakaya+near+41.2556372%2C-95.9741851"
     }
   ],
   "bowling": [
@@ -141,18 +131,6 @@
       "distance": "3.2 mi",
       "url": "https://www.google.com/maps/search/Lozier%20Giant%20Screen%20Theater+near+41.2556372%2C-95.9741851",
       "isFar": true
-    },
-    {
-      "name": "Imax Theatre",
-      "distance": "4.1 mi",
-      "url": "https://www.google.com/maps/search/Imax%20Theatre+near+41.2556372%2C-95.9741851",
-      "isFar": true
-    },
-    {
-      "name": "AMC Council Bluffs 17",
-      "distance": "4.2 mi",
-      "url": "https://www.google.com/maps/search/AMC%20Council%20Bluffs%2017+near+41.2556372%2C-95.9741851",
-      "isFar": true
     }
   ],
   "fun": [
@@ -175,56 +153,9 @@
       "name": "Kountze Park Sprayground",
       "distance": "3.0 mi",
       "url": "https://www.google.com/maps/search/Kountze%20Park%20Sprayground+near+41.2556372%2C-95.9741851"
-    },
-    {
-      "name": "Fontenelle Park Sprayground",
-      "distance": "3.0 mi",
-      "url": "https://www.google.com/maps/search/Fontenelle%20Park%20Sprayground+near+41.2556372%2C-95.9741851"
-    },
-    {
-      "name": "Scott Alaskan Adventure",
-      "distance": "3.1 mi",
-      "url": "https://www.google.com/maps/search/Scott%20Alaskan%20Adventure+near+41.2556372%2C-95.9741851",
-      "isFar": true
-    },
-    {
-      "name": "Levi Carter Park Sprayground",
-      "distance": "4.0 mi",
-      "url": "https://www.google.com/maps/search/Levi%20Carter%20Park%20Sprayground+near+41.2556372%2C-95.9741851",
-      "isFar": true
     }
   ],
   "hotels": [
-    {
-      "name": "Cozy 4-bedroom home walking distance to Blackstone",
-      "distance": "0.2 mi",
-      "url": "https://www.google.com/maps/search/Cozy%204-bedroom%20home%20walking%20distance%20to%20Blackstone+near+41.2556372%2C-95.9741851"
-    },
-    {
-      "name": "Minutes from Downtown! Family-sized Townhome in Blackstone",
-      "distance": "0.3 mi",
-      "url": "https://www.google.com/maps/search/Minutes%20from%20Downtown!%20Family-sized%20Townhome%20in%20Blackstone+near+41.2556372%2C-95.9741851"
-    },
-    {
-      "name": "Luxe Blackstone District Condo Walk to Bars! - Apartment",
-      "distance": "0.3 mi",
-      "url": "https://www.google.com/maps/search/Luxe%20Blackstone%20District%20Condo%20Walk%20to%20Bars!%20-%20Apartment+near+41.2556372%2C-95.9741851"
-    },
-    {
-      "name": "Charming 4-bedroom house 2 bath house - 10 minutes from CWS in welcoming Omaha",
-      "distance": "0.3 mi",
-      "url": "https://www.google.com/maps/search/Charming%204-bedroom%20house%202%20bath%20house%20-%2010%20minutes%20from%20CWS%20in%20welcoming%20Omaha+near+41.2556372%2C-95.9741851"
-    },
-    {
-      "name": "Charming 4-bedroom house 2 bath house - 10 minutes from CWS in welcoming Omaha",
-      "distance": "0.3 mi",
-      "url": "https://www.google.com/maps/search/Charming%204-bedroom%20house%202%20bath%20house%20-%2010%20minutes%20from%20CWS%20in%20welcoming%20Omaha+near+41.2556372%2C-95.9741851"
-    },
-    {
-      "name": "Perfect Midtown Bungalow! Walking distance to Blackstone! One block from UNMC!",
-      "distance": "0.3 mi",
-      "url": "https://www.google.com/maps/search/Perfect%20Midtown%20Bungalow!%20Walking%20distance%20to%20Blackstone!%20One%20block%20from%20UNMC!+near+41.2556372%2C-95.9741851"
-    },
     {
       "name": "Beautiful, comfortable home with a tidy backyard and garage space.",
       "distance": "0.3 mi",
@@ -251,11 +182,6 @@
       "name": "Baker's Fuel Center",
       "distance": "0.7 mi",
       "url": "https://www.google.com/maps/search/Baker's%20Fuel%20Center+near+41.2556372%2C-95.9741851"
-    },
-    {
-      "name": "Mega Saver",
-      "distance": "0.7 mi",
-      "url": "https://www.google.com/maps/search/Mega%20Saver+near+41.2556372%2C-95.9741851"
     }
   ]
 }

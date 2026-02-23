@@ -29,26 +29,6 @@
       "name": "Jersey Mike's Subs",
       "distance": "2.0 mi",
       "url": "https://www.google.com/maps/search/?api=1&query=Jersey%20Mike's%20Subs&query_place_id=ChIJWcwfl4fVI4gRM-sbJz0eFlg&center=43.613914,-84.21261000000001"
-    },
-    {
-      "name": "Jimmy John's",
-      "distance": "2.0 mi",
-      "url": "https://www.google.com/maps/search/?api=1&query=Jimmy%20John's&query_place_id=ChIJeRwp37DVI4gRiKgPN2GRy0s&center=43.6134092,-84.2133815"
-    },
-    {
-      "name": "China Palace Restaurant",
-      "distance": "2.0 mi",
-      "url": "https://www.google.com/maps/search/?api=1&query=China%20Palace%20Restaurant&query_place_id=ChIJAS_p3rDVI4gRgTZSKlp_VYQ&center=43.6131606,-84.21374999999999"
-    },
-    {
-      "name": "Popeyes Louisiana Kitchen",
-      "distance": "2.0 mi",
-      "url": "https://www.google.com/maps/search/?api=1&query=Popeyes%20Louisiana%20Kitchen&query_place_id=ChIJn-kUGcTVI4gRKBY5qIkPPnM&center=43.614553699999995,-84.213334"
-    },
-    {
-      "name": "Taco Bell",
-      "distance": "2.1 mi",
-      "url": "https://www.google.com/maps/search/?api=1&query=Taco%20Bell&query_place_id=ChIJ-54M8bDVI4gRz6TO2W_imkc&center=43.6140857,-84.2141678"
     }
   ],
   "coffee": [
@@ -56,11 +36,6 @@
       "name": "Black River Coffee Co",
       "distance": "0.6 mi",
       "url": "https://www.google.com/maps/search/?api=1&query=Black%20River%20Coffee%20Co&query_place_id=ChIJJSy9JBDVI4gRc4Y3g2N4u0w&center=43.6047631,-84.1872718"
-    },
-    {
-      "name": "McDonald's",
-      "distance": "0.6 mi",
-      "url": "https://www.google.com/maps/search/?api=1&query=McDonald's&query_place_id=ChIJ73YczSrUI4gRCqAaKjJOf7Y&center=43.6060332,-84.1880769"
     },
     {
       "name": "Live Oak Coffeehouse",
@@ -71,11 +46,6 @@
       "name": "Tim Hortons",
       "distance": "2.0 mi",
       "url": "https://www.google.com/maps/search/?api=1&query=Tim%20Hortons&query_place_id=ChIJqcDILbHVI4gRs5M6-q3c2UU&center=43.613688,-84.2122141"
-    },
-    {
-      "name": "McDonald's",
-      "distance": "2.1 mi",
-      "url": "https://www.google.com/maps/search/?api=1&query=McDonald's&query_place_id=ChIJr3MgirDVI4gRUj6-egCfch4&center=43.6150607,-84.21375770000002"
     }
   ],
   "team_lunch": [
@@ -91,11 +61,6 @@
     }
   ],
   "dinner": [
-    {
-      "name": "Costco Bakery",
-      "distance": "0.3 mi",
-      "url": "https://www.google.com/maps/search/Costco%20Bakery+near+43.6029331%2C-84.17603"
-    },
     {
       "name": "Gimmicks For Food & Fun",
       "distance": "0.5 mi",
@@ -157,31 +122,6 @@
       "name": "Cute Convenient Midland Duplex",
       "distance": "1.0 mi",
       "url": "https://www.google.com/maps/search/Cute%20Convenient%20Midland%20Duplex+near+43.6029331%2C-84.17603"
-    },
-    {
-      "name": "Cute Convenient Midland Duplex",
-      "distance": "1.0 mi",
-      "url": "https://www.google.com/maps/search/Cute%20Convenient%20Midland%20Duplex+near+43.6029331%2C-84.17603"
-    },
-    {
-      "name": "Victoria Woods Mobile Home Park",
-      "distance": "1.2 mi",
-      "url": "https://www.google.com/maps/search/Victoria%20Woods%20Mobile%20Home%20Park+near+43.6029331%2C-84.17603"
-    },
-    {
-      "name": "Two - bedroom apartment with deck and firepit.",
-      "distance": "1.3 mi",
-      "url": "https://www.google.com/maps/search/Two%20-%20bedroom%20apartment%20with%20deck%20and%20firepit.+near+43.6029331%2C-84.17603"
-    },
-    {
-      "name": "Oakside Mobile Home Park Inc",
-      "distance": "1.3 mi",
-      "url": "https://www.google.com/maps/search/Oakside%20Mobile%20Home%20Park%20Inc+near+43.6029331%2C-84.17603"
-    },
-    {
-      "name": "Legacy Home- Spacious 4 bedroom family friendly home.",
-      "distance": "1.7 mi",
-      "url": "https://www.google.com/maps/search/Legacy%20Home-%20Spacious%204%20bedroom%20family%20friendly%20home.+near+43.6029331%2C-84.17603"
     }
   ],
   "gas": [
@@ -204,11 +144,6 @@
       "name": "Shell",
       "distance": "1.9 mi",
       "url": "https://www.google.com/maps/search/Shell+near+43.6029331%2C-84.17603"
-    },
-    {
-      "name": "Admiral Petroleum Co",
-      "distance": "2.1 mi",
-      "url": "https://www.google.com/maps/search/Admiral%20Petroleum%20Co+near+43.6029331%2C-84.17603"
     }
   ]
 }

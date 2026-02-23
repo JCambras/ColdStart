@@ -29,11 +29,6 @@
       "name": "Subway",
       "distance": "0.2 mi",
       "url": "https://www.google.com/maps/search/Subway+near+47.294737%2C-122.3143154"
-    },
-    {
-      "name": "Jack in the Box",
-      "distance": "0.3 mi",
-      "url": "https://www.google.com/maps/search/Jack%20in%20the%20Box+near+47.294737%2C-122.3143154"
     }
   ],
   "coffee": [
@@ -70,11 +65,6 @@
       "name": "Time Out Ale House",
       "distance": "0.2 mi",
       "url": "https://www.google.com/maps/search/Time%20Out%20Ale%20House+near+47.294737%2C-122.3143154"
-    },
-    {
-      "name": "Walmart Bakery",
-      "distance": "0.2 mi",
-      "url": "https://www.google.com/maps/search/Walmart%20Bakery+near+47.294737%2C-122.3143154"
     },
     {
       "name": "Thai Bistro",
@@ -118,24 +108,6 @@
       "name": "Super Jump Party Zone",
       "distance": "3.0 mi",
       "url": "https://www.google.com/maps/search/Super%20Jump%20Party%20Zone+near+47.294737%2C-122.3143154"
-    },
-    {
-      "name": "Gotcha Arenas",
-      "distance": "3.2 mi",
-      "url": "https://www.google.com/maps/search/Gotcha%20Arenas+near+47.294737%2C-122.3143154",
-      "isFar": true
-    },
-    {
-      "name": "Airhouse Adventure Park",
-      "distance": "3.3 mi",
-      "url": "https://www.google.com/maps/search/Airhouse%20Adventure%20Park+near+47.294737%2C-122.3143154",
-      "isFar": true
-    },
-    {
-      "name": "Timepass Auburn",
-      "distance": "4.4 mi",
-      "url": "https://www.google.com/maps/search/Timepass%20Auburn+near+47.294737%2C-122.3143154",
-      "isFar": true
     }
   ],
   "hotels": [
@@ -168,11 +140,6 @@
       "name": "Stevenson Motel",
       "distance": "0.5 mi",
       "url": "https://www.google.com/maps/search/Stevenson%20Motel+near+47.294737%2C-122.3143154"
-    },
-    {
-      "name": "Eastwind Motel",
-      "distance": "0.6 mi",
-      "url": "https://www.google.com/maps/search/Eastwind%20Motel+near+47.294737%2C-122.3143154"
     }
   ],
   "gas": [
@@ -195,11 +162,6 @@
       "name": "Pacific Pride",
       "distance": "0.7 mi",
       "url": "https://www.google.com/maps/search/Pacific%20Pride+near+47.294737%2C-122.3143154"
-    },
-    {
-      "name": "76",
-      "distance": "0.7 mi",
-      "url": "https://www.google.com/maps/search/76+near+47.294737%2C-122.3143154"
     }
   ]
 }

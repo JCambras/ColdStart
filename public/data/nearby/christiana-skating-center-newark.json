@@ -1,21 +1,6 @@
 {
   "quick_bite": [
     {
-      "name": "Popeyes Louisiana Kitchen",
-      "distance": "0.1 mi",
-      "url": "https://www.google.com/maps/search/Popeyes%20Louisiana%20Kitchen+near+39.6758251%2C-75.68402300000001"
-    },
-    {
-      "name": "Cozy, Convenient, Centrally Located Newark Rancher",
-      "distance": "0.2 mi",
-      "url": "https://www.google.com/maps/search/Cozy%2C%20Convenient%2C%20Centrally%20Located%20Newark%20Rancher+near+39.6758251%2C-75.68402300000001"
-    },
-    {
-      "name": "Cozy, Convenient, Centrally Located Newark Rancher",
-      "distance": "0.3 mi",
-      "url": "https://www.google.com/maps/search/Cozy%2C%20Convenient%2C%20Centrally%20Located%20Newark%20Rancher+near+39.6758251%2C-75.68402300000001"
-    },
-    {
       "name": "Bigz Beez OTM",
       "distance": "0.7 mi",
       "url": "https://www.google.com/maps/search/Bigz%20Beez%20OTM+near+39.6758251%2C-75.68402300000001"
@@ -41,11 +26,6 @@
       "name": "Dunkin'",
       "distance": "0.1 mi",
       "url": "https://www.google.com/maps/search/Dunkin'+near+39.6758251%2C-75.68402300000001"
-    },
-    {
-      "name": "McDonald's",
-      "distance": "0.7 mi",
-      "url": "https://www.google.com/maps/search/McDonald's+near+39.6758251%2C-75.68402300000001"
     }
   ],
   "team_lunch": [
@@ -100,11 +80,6 @@
       "name": "Little Spice Indian Cuisine",
       "distance": "0.7 mi",
       "url": "https://www.google.com/maps/search/Little%20Spice%20Indian%20Cuisine+near+39.6758251%2C-75.68402300000001"
-    },
-    {
-      "name": "Asian Noodle House-亚洲面条",
-      "distance": "0.7 mi",
-      "url": "https://www.google.com/maps/search/Asian%20Noodle%20House-%E4%BA%9A%E6%B4%B2%E9%9D%A2%E6%9D%A1+near+39.6758251%2C-75.68402300000001"
     }
   ],
   "bowling": [
@@ -150,12 +125,6 @@
       "name": "Vince's Sports Center",
       "distance": "2.1 mi",
       "url": "https://www.google.com/maps/search/Vince's%20Sports%20Center+near+39.6758251%2C-75.68402300000001"
-    },
-    {
-      "name": "Axxiom Escape Rooms Newark",
-      "distance": "3.1 mi",
-      "url": "https://www.google.com/maps/search/Axxiom%20Escape%20Rooms%20Newark+near+39.6758251%2C-75.68402300000001",
-      "isFar": true
     }
   ],
   "hotels": [
@@ -188,11 +157,6 @@
       "name": "Comfort Inn & Suites Newark - Wilmington",
       "distance": "0.3 mi",
       "url": "https://www.google.com/maps/search/Comfort%20Inn%20%26%20Suites%20Newark%20-%20Wilmington+near+39.6758251%2C-75.68402300000001"
-    },
-    {
-      "name": "3-bedroom house in heart of Newark close to Christiana Hospital & Mall",
-      "distance": "0.6 mi",
-      "url": "https://www.google.com/maps/search/3-bedroom%20house%20in%20heart%20of%20Newark%20close%20to%20Christiana%20Hospital%20%26%20Mall+near+39.6758251%2C-75.68402300000001"
     }
   ],
   "gas": [
@@ -215,11 +179,6 @@
       "name": "Exxon Harmony",
       "distance": "0.7 mi",
       "url": "https://www.google.com/maps/search/Exxon%20Harmony+near+39.6758251%2C-75.68402300000001"
-    },
-    {
-      "name": "Sunoco",
-      "distance": "0.8 mi",
-      "url": "https://www.google.com/maps/search/Sunoco+near+39.6758251%2C-75.68402300000001"
     }
   ]
 }

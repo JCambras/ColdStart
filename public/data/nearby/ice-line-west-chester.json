@@ -21,11 +21,6 @@
       "url": "https://www.google.com/maps/search/Chipotle+101+Turner+Ln+West+Chester+PA"
     },
     {
-      "name": "Wawa",
-      "distance": "2.0 mi",
-      "url": "https://www.google.com/maps/search/Wawa+1594+Paoli+Pike+West+Chester+PA"
-    },
-    {
       "name": "QDOBA Mexican Eats",
       "distance": "2.5 mi",
       "url": "https://www.google.com/maps/search/QDOBA+1107+West+Chester+Pike+West+Chester+PA"
@@ -34,29 +29,9 @@
       "name": "Panera Bread",
       "distance": "2.5 mi",
       "url": "https://www.google.com/maps/search/Panera+Bread+1115+W+Chester+Pike+West+Chester+PA"
-    },
-    {
-      "name": "Wendy's",
-      "distance": "3.0 mi",
-      "url": "https://www.google.com/maps/search/Wendys+700+E+Gay+St+West+Chester+PA"
-    },
-    {
-      "name": "Jersey Mike's Subs",
-      "distance": "3.0 mi",
-      "url": "https://www.google.com/maps/search/Jersey+Mikes+323+E+Gay+St+West+Chester+PA"
-    },
-    {
-      "name": "McDonald's",
-      "distance": "3.0 mi",
-      "url": "https://www.google.com/maps/search/McDonalds+701+E+Gay+St+West+Chester+PA"
     }
   ],
   "coffee": [
-    {
-      "name": "Wawa",
-      "distance": "0.5 mi",
-      "url": "https://www.google.com/maps/search/Wawa+10+W+Boot+Rd+West+Chester+PA"
-    },
     {
       "name": "Starbucks",
       "distance": "0.7 mi",
@@ -66,33 +41,6 @@
       "name": "Dunkin'",
       "distance": "1.5 mi",
       "url": "https://www.google.com/maps/search/Dunkin+750+Miles+Rd+West+Chester+PA"
-    },
-    {
-      "name": "Dunkin'",
-      "distance": "2.0 mi",
-      "url": "https://www.google.com/maps/search/Dunkin+1500+Paoli+Pike+West+Chester+PA"
-    },
-    {
-      "name": "Wawa",
-      "distance": "2.0 mi",
-      "url": "https://www.google.com/maps/search/Wawa+1594+Paoli+Pike+West+Chester+PA"
-    },
-    {
-      "name": "Starbucks",
-      "distance": "3.0 mi",
-      "url": "https://www.google.com/maps/search/Starbucks+1304+Wilmington+Pike+West+Chester+PA"
-    },
-    {
-      "name": "Dunkin'",
-      "distance": "3.5 mi",
-      "url": "https://www.google.com/maps/search/Dunkin+607+E+Market+St+West+Chester+PA",
-      "isFar": true
-    },
-    {
-      "name": "Wawa",
-      "distance": "3.5 mi",
-      "url": "https://www.google.com/maps/search/Wawa+706+E+Gay+St+West+Chester+PA",
-      "isFar": true
     }
   ],
   "team_lunch": [
@@ -125,24 +73,6 @@
       "name": "Olive Garden",
       "distance": "7.0 mi",
       "url": "https://www.google.com/maps/search/Olive+Garden+101+Quarry+Rd+Downingtown+PA",
-      "isFar": true
-    },
-    {
-      "name": "Texas Roadhouse",
-      "distance": "7.0 mi",
-      "url": "https://www.google.com/maps/search/Texas+Roadhouse+1205+E+Lancaster+Ave+Downingtown+PA",
-      "isFar": true
-    },
-    {
-      "name": "Cracker Barrel",
-      "distance": "7.0 mi",
-      "url": "https://www.google.com/maps/search/Cracker+Barrel+1215+E+Lancaster+Ave+Downingtown+PA",
-      "isFar": true
-    },
-    {
-      "name": "Buffalo Wild Wings",
-      "distance": "9.0 mi",
-      "url": "https://www.google.com/maps/search/Buffalo+Wild+Wings+920+Baltimore+Pike+Glen+Mills+PA",
       "isFar": true
     }
   ],

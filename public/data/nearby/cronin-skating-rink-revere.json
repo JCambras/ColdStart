@@ -29,26 +29,6 @@
       "name": "Subway",
       "distance": "0.4 mi",
       "url": "https://www.google.com/maps/search/?api=1&query=Subway&query_place_id=ChIJBeTq7Opx44kRjGx-nUsibIQ&center=42.4048024,-71.0239838"
-    },
-    {
-      "name": "Dulce Sophia",
-      "distance": "0.7 mi",
-      "url": "https://www.google.com/maps/search/?api=1&query=Dulce%20Sophia&query_place_id=ChIJSed5adlx44kRiUsfihL9NIE&center=42.403766399999995,-71.0024272"
-    },
-    {
-      "name": "Los Quesudos de Chucho",
-      "distance": "0.7 mi",
-      "url": "https://www.google.com/maps/search/?api=1&query=Los%20Quesudos%20de%20Chucho&query_place_id=ChIJoW35IwBx44kRqWSpYx7_F3E&center=42.396373399999995,-71.0273801"
-    },
-    {
-      "name": "Wendy's",
-      "distance": "0.9 mi",
-      "url": "https://www.google.com/maps/search/?api=1&query=Wendy's&query_place_id=ChIJg41fdh9u44kRaaqXwkY93FQ&center=42.398398400000005,-70.9998382"
-    },
-    {
-      "name": "Subway",
-      "distance": "0.9 mi",
-      "url": "https://www.google.com/maps/search/?api=1&query=Subway&query_place_id=ChIJK0kNr_tx44kRHEgF_ytvUys&center=42.409993799999995,-71.000945"
     }
   ],
   "coffee": [
@@ -61,11 +41,6 @@
       "name": "Dunkin'",
       "distance": "0.3 mi",
       "url": "https://www.google.com/maps/search/?api=1&query=Dunkin'&query_place_id=ChIJCyLpocFx44kRBE8PruIzsOQ&center=42.4007983,-71.0215472"
-    },
-    {
-      "name": "McDonald's",
-      "distance": "0.4 mi",
-      "url": "https://www.google.com/maps/search/?api=1&query=McDonald's&query_place_id=ChIJmx7ggJVx44kRy2NEvLk4DVc&center=42.4036887,-71.02336919999999"
     }
   ],
   "team_lunch": [
@@ -98,16 +73,6 @@
       "name": "Los Hornitos Bakery",
       "distance": "0.5 mi",
       "url": "https://www.google.com/maps/search/?api=1&query=Los%20Hornitos%20Bakery&query_place_id=ChIJb_P5Z4hx44kRyTmNSKsAc_I&center=42.4099236,-71.0127071"
-    },
-    {
-      "name": "JSB Industries Inc",
-      "distance": "0.7 mi",
-      "url": "https://www.google.com/maps/search/?api=1&query=JSB%20Industries%20Inc&query_place_id=ChIJIS16hcdx44kREPKGsYryq3g&center=42.396054899999996,-71.0252922"
-    },
-    {
-      "name": "Cakes & Beyond By Dawn",
-      "distance": "0.8 mi",
-      "url": "https://www.google.com/maps/search/?api=1&query=Cakes%20%26%20Beyond%20By%20Dawn&query_place_id=ChIJJUN8Trtx44kRuGyq7Moko_c&center=42.412360899999996,-71.02691130000001"
     }
   ],
   "dinner": [

@@ -23,11 +23,6 @@
   ],
   "coffee": [
     {
-      "name": "McDonald's",
-      "distance": "0.6 mi",
-      "url": "https://www.google.com/maps/search/McDonald's+near+33.8559616%2C-84.03578069999999"
-    },
-    {
       "name": "7 Brew Coffee",
       "distance": "0.7 mi",
       "url": "https://www.google.com/maps/search/7%20Brew%20Coffee+near+33.8559616%2C-84.03578069999999"
@@ -63,11 +58,6 @@
       "name": "C & L Jamaican Restaurant",
       "distance": "0.7 mi",
       "url": "https://www.google.com/maps/search/C%20%26%20L%20Jamaican%20Restaurant+near+33.8559616%2C-84.03578069999999"
-    },
-    {
-      "name": "Nori Hibachi",
-      "distance": "0.9 mi",
-      "url": "https://www.google.com/maps/search/Nori%20Hibachi+near+33.8559616%2C-84.03578069999999"
     }
   ],
   "dinner": [
@@ -75,11 +65,6 @@
       "name": "AMEEN FISH & Wings",
       "distance": "0.2 mi",
       "url": "https://www.google.com/maps/search/AMEEN%20FISH%20%26%20Wings+near+33.8559616%2C-84.03578069999999"
-    },
-    {
-      "name": "Walmart Bakery",
-      "distance": "0.2 mi",
-      "url": "https://www.google.com/maps/search/Walmart%20Bakery+near+33.8559616%2C-84.03578069999999"
     },
     {
       "name": "M & J Home Cooking Snellville",
@@ -152,29 +137,9 @@
       "url": "https://www.google.com/maps/search/Lion%E2%80%99s%20Den%20of%20Hope+near+33.8559616%2C-84.03578069999999"
     },
     {
-      "name": "Vibrant Family Retreat~Sleeps 8~2 Kings~ Game Room",
-      "distance": "0.4 mi",
-      "url": "https://www.google.com/maps/search/Vibrant%20Family%20Retreat~Sleeps%208~2%20Kings~%20Game%20Room+near+33.8559616%2C-84.03578069999999"
-    },
-    {
       "name": "Luxurious Extended Stay Dream~3 Kings~Desks~TV's",
       "distance": "0.4 mi",
       "url": "https://www.google.com/maps/search/Luxurious%20Extended%20Stay%20Dream~3%20Kings~Desks~TV's+near+33.8559616%2C-84.03578069999999"
-    },
-    {
-      "name": "Vibrant Family Retreat~Sleeps 8~2 Kings~ Game Room",
-      "distance": "0.5 mi",
-      "url": "https://www.google.com/maps/search/Vibrant%20Family%20Retreat~Sleeps%208~2%20Kings~%20Game%20Room+near+33.8559616%2C-84.03578069999999"
-    },
-    {
-      "name": "Modern new townhouse near Stone Mountain. Sleeps 10.",
-      "distance": "0.7 mi",
-      "url": "https://www.google.com/maps/search/Modern%20new%20townhouse%20near%20Stone%20Mountain.%20Sleeps%2010.+near+33.8559616%2C-84.03578069999999"
-    },
-    {
-      "name": "Modern new townhouse near Stone Mountain Sleeps 10 - Five-Bedroom Villa",
-      "distance": "0.7 mi",
-      "url": "https://www.google.com/maps/search/Modern%20new%20townhouse%20near%20Stone%20Mountain%20Sleeps%2010%20-%20Five-Bedroom%20Villa+near+33.8559616%2C-84.03578069999999"
     }
   ],
   "gas": [
@@ -197,11 +162,6 @@
       "name": "Jimmy Washington",
       "distance": "0.6 mi",
       "url": "https://www.google.com/maps/search/Jimmy%20Washington+near+33.8559616%2C-84.03578069999999"
-    },
-    {
-      "name": "76",
-      "distance": "0.8 mi",
-      "url": "https://www.google.com/maps/search/76+near+33.8559616%2C-84.03578069999999"
     }
   ]
 }

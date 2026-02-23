@@ -29,35 +29,9 @@
       "name": "Jimmy John's",
       "distance": "0.6 mi",
       "url": "https://www.google.com/maps/search/?api=1&query=Jimmy%20John's&query_place_id=ChIJqdHgWDyeF4gRrpp78S3kjv0&center=42.2078223,-85.588797"
-    },
-    {
-      "name": "Taco Bell",
-      "distance": "0.6 mi",
-      "url": "https://www.google.com/maps/search/?api=1&query=Taco%20Bell&query_place_id=ChIJhbwIKgmeF4gRbdhSopXhV40&center=42.2249695,-85.5899163"
-    },
-    {
-      "name": "Five Guys",
-      "distance": "0.7 mi",
-      "url": "https://www.google.com/maps/search/?api=1&query=Five%20Guys&query_place_id=ChIJfRGJsgieF4gRrBfJvsG3ksE&center=42.225828,-85.59158599999999"
-    },
-    {
-      "name": "Chick-fil-A",
-      "distance": "0.8 mi",
-      "url": "https://www.google.com/maps/search/?api=1&query=Chick-fil-A&query_place_id=ChIJbag_5QieF4gRQpVehgZA_js&center=42.227475,-85.59006600000001"
-    },
-    {
-      "name": "Jersey Mike's Subs",
-      "distance": "0.8 mi",
-      "url": "https://www.google.com/maps/search/?api=1&query=Jersey%20Mike's%20Subs&query_place_id=ChIJC2Jr_yGfF4gRFvXxna8Svbk&center=42.2281707,-85.5900568"
     }
   ],
-  "coffee": [
-    {
-      "name": "McDonald's",
-      "distance": "0.2 mi",
-      "url": "https://www.google.com/maps/search/?api=1&query=McDonald's&query_place_id=ChIJ2WbQIRGeF4gRkVqYzH8Bh1E&center=42.216507899999996,-85.5886392"
-    }
-  ],
+  "coffee": [],
   "team_lunch": [
     {
       "name": "Executive Chef Stef",
@@ -115,11 +89,6 @@
       "name": "Paris Banh Mi Portage",
       "distance": "0.3 mi",
       "url": "https://www.google.com/maps/search/Paris%20Banh%20Mi%20Portage+near+42.2159543%2C-85.59160899999999"
-    },
-    {
-      "name": "Maui Poke",
-      "distance": "0.3 mi",
-      "url": "https://www.google.com/maps/search/Maui%20Poke+near+42.2159543%2C-85.59160899999999"
     }
   ],
   "bowling": [
@@ -180,29 +149,9 @@
       "name": "Airborne Adventure Park - Kalamazoo, MI",
       "distance": "2.6 mi",
       "url": "https://www.google.com/maps/search/Airborne%20Adventure%20Park%20-%20Kalamazoo%2C%20MI+near+42.2159543%2C-85.59160899999999"
-    },
-    {
-      "name": "Jungle Joe's Family Fun Center",
-      "distance": "2.7 mi",
-      "url": "https://www.google.com/maps/search/Jungle%20Joe's%20Family%20Fun%20Center+near+42.2159543%2C-85.59160899999999"
     }
   ],
   "hotels": [
-    {
-      "name": "Charming 3bd 1bth house w/ bsmt and polebarn also pet friendly in Portage MI",
-      "distance": "0.7 mi",
-      "url": "https://www.google.com/maps/search/Charming%203bd%201bth%20house%20w%2F%20bsmt%20and%20polebarn%20also%20pet%20friendly%20in%20Portage%20MI+near+42.2159543%2C-85.59160899999999"
-    },
-    {
-      "name": "Charming 3bd 1bth house w / bsmt and polebarn also pet friendly in Portage MI",
-      "distance": "0.7 mi",
-      "url": "https://www.google.com/maps/search/Charming%203bd%201bth%20house%20w%20%2F%20bsmt%20and%20polebarn%20also%20pet%20friendly%20in%20Portage%20MI+near+42.2159543%2C-85.59160899999999"
-    },
-    {
-      "name": "Oak Brook Estates Mobile Home",
-      "distance": "0.9 mi",
-      "url": "https://www.google.com/maps/search/Oak%20Brook%20Estates%20Mobile%20Home+near+42.2159543%2C-85.59160899999999"
-    },
     {
       "name": "Holiday Motel",
       "distance": "1.4 mi",
@@ -244,11 +193,6 @@
       "name": "Speedway",
       "distance": "1.0 mi",
       "url": "https://www.google.com/maps/search/Speedway+near+42.2159543%2C-85.59160899999999"
-    },
-    {
-      "name": "CITGO",
-      "distance": "1.5 mi",
-      "url": "https://www.google.com/maps/search/CITGO+near+42.2159543%2C-85.59160899999999"
     }
   ]
 }

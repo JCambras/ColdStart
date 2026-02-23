@@ -13,16 +13,6 @@
   ],
   "coffee": [
     {
-      "name": "McDonald's",
-      "distance": "0.3 mi",
-      "url": "https://www.google.com/maps/search/McDonald's+near+26.042081699999997%2C-80.2340957"
-    },
-    {
-      "name": "Wawa",
-      "distance": "0.3 mi",
-      "url": "https://www.google.com/maps/search/Wawa+near+26.042081699999997%2C-80.2340957"
-    },
-    {
       "name": "545° Bánh Mì Café",
       "distance": "0.3 mi",
       "url": "https://www.google.com/maps/search/545%C2%B0%20B%C3%A1nh%20M%C3%AC%20Caf%C3%A9+near+26.042081699999997%2C-80.2340957"
@@ -85,11 +75,6 @@
       "name": "Pho 79",
       "distance": "0.3 mi",
       "url": "https://www.google.com/maps/search/Pho%2079+near+26.042081699999997%2C-80.2340957"
-    },
-    {
-      "name": "Hong’s BBQ",
-      "distance": "0.4 mi",
-      "url": "https://www.google.com/maps/search/Hong%E2%80%99s%20BBQ+near+26.042081699999997%2C-80.2340957"
     }
   ],
   "bowling": [
@@ -150,23 +135,6 @@
       "name": "Stem Escape",
       "distance": "1.9 mi",
       "url": "https://www.google.com/maps/search/Stem%20Escape+near+26.042081699999997%2C-80.2340957"
-    },
-    {
-      "name": "Nexus Escape Room",
-      "distance": "2.3 mi",
-      "url": "https://www.google.com/maps/search/Nexus%20Escape%20Room+near+26.042081699999997%2C-80.2340957"
-    },
-    {
-      "name": "Pump It Up",
-      "distance": "3.1 mi",
-      "url": "https://www.google.com/maps/search/Pump%20It%20Up+near+26.042081699999997%2C-80.2340957",
-      "isFar": true
-    },
-    {
-      "name": "Slothy’s Playhouse",
-      "distance": "3.6 mi",
-      "url": "https://www.google.com/maps/search/Slothy%E2%80%99s%20Playhouse+near+26.042081699999997%2C-80.2340957",
-      "isFar": true
     }
   ],
   "hotels": [
@@ -176,34 +144,9 @@
       "url": "https://www.google.com/maps/search/Colorful%20Comfy%20~%205%E2%98%85%20Location%20~%20Backyard%20~%20Pool+near+26.042081699999997%2C-80.2340957"
     },
     {
-      "name": "Comfy Retreat Near Guitar Hotel - One-Bedroom House",
-      "distance": "0.6 mi",
-      "url": "https://www.google.com/maps/search/Comfy%20Retreat%20Near%20Guitar%20Hotel%20-%20One-Bedroom%20House+near+26.042081699999997%2C-80.2340957"
-    },
-    {
-      "name": "Stylish Villa with Pool",
-      "distance": "0.6 mi",
-      "url": "https://www.google.com/maps/search/Stylish%20Villa%20with%20Pool+near+26.042081699999997%2C-80.2340957"
-    },
-    {
-      "name": "Stylish Villa with Pool - Villa",
-      "distance": "0.6 mi",
-      "url": "https://www.google.com/maps/search/Stylish%20Villa%20with%20Pool%20-%20Villa+near+26.042081699999997%2C-80.2340957"
-    },
-    {
       "name": "Villa Hollywood Pool Trampoline BBQ Hard Rock",
       "distance": "0.6 mi",
       "url": "https://www.google.com/maps/search/Villa%20Hollywood%20Pool%20Trampoline%20BBQ%20Hard%20Rock+near+26.042081699999997%2C-80.2340957"
-    },
-    {
-      "name": "Villa Hollywood Pool Trampoline BBQ Hard Rock",
-      "distance": "0.6 mi",
-      "url": "https://www.google.com/maps/search/Villa%20Hollywood%20Pool%20Trampoline%20BBQ%20Hard%20Rock+near+26.042081699999997%2C-80.2340957"
-    },
-    {
-      "name": "Spacious, Cozy Stay Near Hard Rock Casino –Feel at Home, Hot Tub!",
-      "distance": "0.6 mi",
-      "url": "https://www.google.com/maps/search/Spacious%2C%20Cozy%20Stay%20Near%20Hard%20Rock%20Casino%20%E2%80%93Feel%20at%20Home%2C%20Hot%20Tub!+near+26.042081699999997%2C-80.2340957"
     }
   ],
   "gas": [
@@ -226,11 +169,6 @@
       "name": "Rocket Fuel",
       "distance": "0.9 mi",
       "url": "https://www.google.com/maps/search/Rocket%20Fuel+near+26.042081699999997%2C-80.2340957"
-    },
-    {
-      "name": "Danny's Fuel Corporation",
-      "distance": "0.9 mi",
-      "url": "https://www.google.com/maps/search/Danny's%20Fuel%20Corporation+near+26.042081699999997%2C-80.2340957"
     }
   ]
 }

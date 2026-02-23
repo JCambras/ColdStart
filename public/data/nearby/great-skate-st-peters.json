@@ -26,23 +26,12 @@
       "url": "https://www.google.com/maps/search/Long%20John%20Silver's+near+38.785965999999995%2C-90.59699580000002"
     }
   ],
-  "coffee": [
-    {
-      "name": "McDonald's",
-      "distance": "0.6 mi",
-      "url": "https://www.google.com/maps/search/McDonald's+near+38.785965999999995%2C-90.59699580000002"
-    }
-  ],
+  "coffee": [],
   "team_lunch": [
     {
       "name": "bvonmir",
       "distance": "0.8 mi",
       "url": "https://www.google.com/maps/search/bvonmir+near+38.785965999999995%2C-90.59699580000002"
-    },
-    {
-      "name": "Walmart Bakery",
-      "distance": "1.0 mi",
-      "url": "https://www.google.com/maps/search/Walmart%20Bakery+near+38.785965999999995%2C-90.59699580000002"
     },
     {
       "name": "Cecil Whittaker's Pizzeria/ Stumpys BBQ",
@@ -70,11 +59,6 @@
       "name": "Rosy's Cakes And Paco's Tacos St Peters",
       "distance": "0.7 mi",
       "url": "https://www.google.com/maps/search/Rosy's%20Cakes%20And%20Paco's%20Tacos%20St%20Peters+near+38.785965999999995%2C-90.59699580000002"
-    },
-    {
-      "name": "Costco Bakery",
-      "distance": "0.9 mi",
-      "url": "https://www.google.com/maps/search/Costco%20Bakery+near+38.785965999999995%2C-90.59699580000002"
     },
     {
       "name": "New Ho's Chinese Kitchen",
@@ -107,18 +91,6 @@
       "name": "Harvest Lanes",
       "distance": "2.7 mi",
       "url": "https://www.google.com/maps/search/Harvest%20Lanes+near+38.785965999999995%2C-90.59699580000002"
-    },
-    {
-      "name": "Bowlero St Peters",
-      "distance": "4.1 mi",
-      "url": "https://www.google.com/maps/search/Bowlero%20St%20Peters+near+38.785965999999995%2C-90.59699580000002",
-      "isFar": true
-    },
-    {
-      "name": "Plaza Lanes Bowling Center",
-      "distance": "4.7 mi",
-      "url": "https://www.google.com/maps/search/Plaza%20Lanes%20Bowling%20Center+near+38.785965999999995%2C-90.59699580000002",
-      "isFar": true
     }
   ],
   "arcade": [],
@@ -161,24 +133,6 @@
       "name": "Deadlock Escape",
       "distance": "2.0 mi",
       "url": "https://www.google.com/maps/search/Deadlock%20Escape+near+38.785965999999995%2C-90.59699580000002"
-    },
-    {
-      "name": "Mastermind Room Escape - St. Charles",
-      "distance": "3.1 mi",
-      "url": "https://www.google.com/maps/search/Mastermind%20Room%20Escape%20-%20St.%20Charles+near+38.785965999999995%2C-90.59699580000002",
-      "isFar": true
-    },
-    {
-      "name": "Urban Air Trampoline and Adventure Park",
-      "distance": "3.3 mi",
-      "url": "https://www.google.com/maps/search/Urban%20Air%20Trampoline%20and%20Adventure%20Park+near+38.785965999999995%2C-90.59699580000002",
-      "isFar": true
-    },
-    {
-      "name": "Top Notch Axe Throwing St. Charles / Cottleville",
-      "distance": "3.7 mi",
-      "url": "https://www.google.com/maps/search/Top%20Notch%20Axe%20Throwing%20St.%20Charles%20%2F%20Cottleville+near+38.785965999999995%2C-90.59699580000002",
-      "isFar": true
     }
   ],
   "hotels": [
@@ -188,29 +142,14 @@
       "url": "https://www.google.com/maps/search/Shagbark%20-%207%20Beds%20-%204%20Baths+near+38.785965999999995%2C-90.59699580000002"
     },
     {
-      "name": "Beautiful+Spacious+FencedYardGrill+Patio+Walk2Park+27MileBikeTrail‍️",
-      "distance": "0.2 mi",
-      "url": "https://www.google.com/maps/search/Beautiful%2BSpacious%2BFencedYardGrill%2BPatio%2BWalk2Park%2B27MileBikeTrail%E2%80%8D%EF%B8%8F+near+38.785965999999995%2C-90.59699580000002"
-    },
-    {
       "name": "Bold 2324 I Parking I Pool I Gym I Parking",
       "distance": "0.5 mi",
       "url": "https://www.google.com/maps/search/Bold%202324%20I%20Parking%20I%20Pool%20I%20Gym%20I%20Parking+near+38.785965999999995%2C-90.59699580000002"
     },
     {
-      "name": "Bold 2126 I Corporate 1 Bedroom Apartment",
-      "distance": "0.5 mi",
-      "url": "https://www.google.com/maps/search/Bold%202126%20I%20Corporate%201%20Bedroom%20Apartment+near+38.785965999999995%2C-90.59699580000002"
-    },
-    {
       "name": "Bold 2201 I Parking I Pool I Gym I Parking",
       "distance": "0.5 mi",
       "url": "https://www.google.com/maps/search/Bold%202201%20I%20Parking%20I%20Pool%20I%20Gym%20I%20Parking+near+38.785965999999995%2C-90.59699580000002"
-    },
-    {
-      "name": "Bold 2129 I Modern Apartment With Free Parking",
-      "distance": "0.5 mi",
-      "url": "https://www.google.com/maps/search/Bold%202129%20I%20Modern%20Apartment%20With%20Free%20Parking+near+38.785965999999995%2C-90.59699580000002"
     },
     {
       "name": "Bold 2202 I Parking I Pool I Gym I Parking",
@@ -238,11 +177,6 @@
       "name": "7-Eleven Fuel",
       "distance": "1.1 mi",
       "url": "https://www.google.com/maps/search/7-Eleven%20Fuel+near+38.785965999999995%2C-90.59699580000002"
-    },
-    {
-      "name": "Phillips 66",
-      "distance": "1.1 mi",
-      "url": "https://www.google.com/maps/search/Phillips%2066+near+38.785965999999995%2C-90.59699580000002"
     }
   ]
 }

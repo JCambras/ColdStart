@@ -29,11 +29,6 @@
       "name": "Subway",
       "distance": "0.2 mi",
       "url": "https://www.google.com/maps/search/Subway+near+39.2710921%2C-84.3742319"
-    },
-    {
-      "name": "Skyline Chili",
-      "distance": "0.2 mi",
-      "url": "https://www.google.com/maps/search/Skyline%20Chili+near+39.2710921%2C-84.3742319"
     }
   ],
   "coffee": [
@@ -51,11 +46,6 @@
       "name": "Dunkin'",
       "distance": "0.2 mi",
       "url": "https://www.google.com/maps/search/Dunkin'+near+39.2710921%2C-84.3742319"
-    },
-    {
-      "name": "McDonald's",
-      "distance": "0.2 mi",
-      "url": "https://www.google.com/maps/search/McDonald's+near+39.2710921%2C-84.3742319"
     }
   ],
   "team_lunch": [
@@ -63,11 +53,6 @@
       "name": "Basil Thai & Sushi (New Management )",
       "distance": "0.1 mi",
       "url": "https://www.google.com/maps/search/Basil%20Thai%20%26%20Sushi%20(New%20Management%20)+near+39.2710921%2C-84.3742319"
-    },
-    {
-      "name": "Saanvi Kitchen - Indian & Nepali Cuisine",
-      "distance": "0.1 mi",
-      "url": "https://www.google.com/maps/search/Saanvi%20Kitchen%20-%20Indian%20%26%20Nepali%20Cuisine+near+39.2710921%2C-84.3742319"
     },
     {
       "name": "Bubbakoo's Burritos",
@@ -132,18 +117,6 @@
       "distance": "3.9 mi",
       "url": "https://www.google.com/maps/search/Regal%20Deerfield%20Town%20Center+near+39.2710921%2C-84.3742319",
       "isFar": true
-    },
-    {
-      "name": "AMC West Chester 18",
-      "distance": "4.1 mi",
-      "url": "https://www.google.com/maps/search/AMC%20West%20Chester%2018+near+39.2710921%2C-84.3742319",
-      "isFar": true
-    },
-    {
-      "name": "Kenwood Theatre",
-      "distance": "4.6 mi",
-      "url": "https://www.google.com/maps/search/Kenwood%20Theatre+near+39.2710921%2C-84.3742319",
-      "isFar": true
     }
   ],
   "fun": [
@@ -166,24 +139,6 @@
       "name": "Game Show Battle Rooms - Cincinnati (Sharonville)",
       "distance": "3.2 mi",
       "url": "https://www.google.com/maps/search/Game%20Show%20Battle%20Rooms%20-%20Cincinnati%20(Sharonville)+near+39.2710921%2C-84.3742319",
-      "isFar": true
-    },
-    {
-      "name": "Altitude Trampoline Park - Cincinnati/Mason",
-      "distance": "3.7 mi",
-      "url": "https://www.google.com/maps/search/Altitude%20Trampoline%20Park%20-%20Cincinnati%2FMason+near+39.2710921%2C-84.3742319",
-      "isFar": true
-    },
-    {
-      "name": "Sky Zone Trampoline Park",
-      "distance": "4.5 mi",
-      "url": "https://www.google.com/maps/search/Sky%20Zone%20Trampoline%20Park+near+39.2710921%2C-84.3742319",
-      "isFar": true
-    },
-    {
-      "name": "Infinite VR",
-      "distance": "4.7 mi",
-      "url": "https://www.google.com/maps/search/Infinite%20VR+near+39.2710921%2C-84.3742319",
       "isFar": true
     }
   ],
@@ -217,11 +172,6 @@
       "name": "The Blu Hotel, Blue Ash - Cincinnati",
       "distance": "0.2 mi",
       "url": "https://www.google.com/maps/search/The%20Blu%20Hotel%2C%20Blue%20Ash%20-%20Cincinnati+near+39.2710921%2C-84.3742319"
-    },
-    {
-      "name": "Hilton Garden Inn Cincinnati Blue Ash",
-      "distance": "0.2 mi",
-      "url": "https://www.google.com/maps/search/Hilton%20Garden%20Inn%20Cincinnati%20Blue%20Ash+near+39.2710921%2C-84.3742319"
     }
   ],
   "gas": [
@@ -244,11 +194,6 @@
       "name": "Sunoco",
       "distance": "1.4 mi",
       "url": "https://www.google.com/maps/search/Sunoco+near+39.2710921%2C-84.3742319"
-    },
-    {
-      "name": "bp",
-      "distance": "1.5 mi",
-      "url": "https://www.google.com/maps/search/bp+near+39.2710921%2C-84.3742319"
     }
   ]
 }

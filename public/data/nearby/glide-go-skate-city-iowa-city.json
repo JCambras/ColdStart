@@ -18,11 +18,6 @@
   ],
   "coffee": [
     {
-      "name": "McDonald's",
-      "distance": "0.1 mi",
-      "url": "https://www.google.com/maps/search/McDonald's+near+41.6418433%2C-91.509684"
-    },
-    {
       "name": "Panera Bread",
       "distance": "0.1 mi",
       "url": "https://www.google.com/maps/search/Panera%20Bread+near+41.6418433%2C-91.509684"
@@ -85,11 +80,6 @@
       "name": "Donutland",
       "distance": "0.3 mi",
       "url": "https://www.google.com/maps/search/Donutland+near+41.6418433%2C-91.509684"
-    },
-    {
-      "name": "GYRO HICKS",
-      "distance": "0.6 mi",
-      "url": "https://www.google.com/maps/search/GYRO%20HICKS+near+41.6418433%2C-91.509684"
     }
   ],
   "bowling": [
@@ -115,11 +105,6 @@
       "name": "FilmScene on The Ped Mall",
       "distance": "1.7 mi",
       "url": "https://www.google.com/maps/search/FilmScene%20on%20The%20Ped%20Mall+near+41.6418433%2C-91.509684"
-    },
-    {
-      "name": "CAB",
-      "distance": "2.1 mi",
-      "url": "https://www.google.com/maps/search/CAB+near+41.6418433%2C-91.509684"
     }
   ],
   "fun": [
@@ -134,43 +119,7 @@
       "url": "https://www.google.com/maps/search/DEFY%20Iowa%20City+near+41.6418433%2C-91.509684"
     }
   ],
-  "hotels": [
-    {
-      "name": "Aristo - Walk to Sycamore Mall, 5 Min Drive To City Center, 8 Beds Home , Fenced Yard. Short Term Rental/Airbnb",
-      "distance": "0.3 mi",
-      "url": "https://www.google.com/maps/search/Aristo%20-%20Walk%20to%20Sycamore%20Mall%2C%205%20Min%20Drive%20To%20City%20Center%2C%208%20Beds%20Home%20%2C%20Fenced%20Yard.%20Short%20Term%20Rental%2FAirbnb+near+41.6418433%2C-91.509684"
-    },
-    {
-      "name": "Charming Ranch 5 min drive from UI and Hospital",
-      "distance": "0.4 mi",
-      "url": "https://www.google.com/maps/search/Charming%20Ranch%205%20min%20drive%20from%20UI%20and%20Hospital+near+41.6418433%2C-91.509684"
-    },
-    {
-      "name": "Charming Ranch 5 min drive from UI and Hospital",
-      "distance": "0.4 mi",
-      "url": "https://www.google.com/maps/search/Charming%20Ranch%205%20min%20drive%20from%20UI%20and%20Hospital+near+41.6418433%2C-91.509684"
-    },
-    {
-      "name": "Cheerful 2BR Home | close to UIHC, shopping & MORE",
-      "distance": "0.4 mi",
-      "url": "https://www.google.com/maps/search/Cheerful%202BR%20Home%20%7C%20close%20to%20UIHC%2C%20shopping%20%26%20MORE+near+41.6418433%2C-91.509684"
-    },
-    {
-      "name": "Walk to Sycamore Mall, 5 Min Drive To City Center, 8 Beds Home, Fenced Yard",
-      "distance": "0.5 mi",
-      "url": "https://www.google.com/maps/search/Walk%20to%20Sycamore%20Mall%2C%205%20Min%20Drive%20To%20City%20Center%2C%208%20Beds%20Home%2C%20Fenced%20Yard+near+41.6418433%2C-91.509684"
-    },
-    {
-      "name": "Grandma's House - home away from home, close to UI, downtown IC and Coralville",
-      "distance": "0.6 mi",
-      "url": "https://www.google.com/maps/search/Grandma's%20House%20-%20home%20away%20from%20home%2C%20close%20to%20UI%2C%20downtown%20IC%20and%20Coralville+near+41.6418433%2C-91.509684"
-    },
-    {
-      "name": "Cozy Historic Cottage",
-      "distance": "0.7 mi",
-      "url": "https://www.google.com/maps/search/Cozy%20Historic%20Cottage+near+41.6418433%2C-91.509684"
-    }
-  ],
+  "hotels": [],
   "gas": [
     {
       "name": "Maverik",
@@ -186,11 +135,6 @@
       "name": "Gm Mart",
       "distance": "0.8 mi",
       "url": "https://www.google.com/maps/search/Gm%20Mart+near+41.6418433%2C-91.509684"
-    },
-    {
-      "name": "Maverik",
-      "distance": "1.2 mi",
-      "url": "https://www.google.com/maps/search/Maverik+near+41.6418433%2C-91.509684"
     },
     {
       "name": "Conoco",

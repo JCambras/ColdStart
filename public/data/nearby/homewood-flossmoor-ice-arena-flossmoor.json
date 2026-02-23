@@ -11,11 +11,6 @@
       "url": "https://www.google.com/maps/search/?api=1&query=Taco%20Bell&query_place_id=ChIJY92jWAAZDogREq8elKvRu9o&center=41.5574526,-87.6966727"
     },
     {
-      "name": "Popeyes Louisiana Kitchen",
-      "distance": "0.6 mi",
-      "url": "https://www.google.com/maps/search/?api=1&query=Popeyes%20Louisiana%20Kitchen&query_place_id=ChIJh2NK0SEYDogRbPGNEsKPi9A&center=41.5578255,-87.6947251"
-    },
-    {
       "name": "Rice Garden",
       "distance": "0.6 mi",
       "url": "https://www.google.com/maps/search/?api=1&query=Rice%20Garden&query_place_id=ChIJscmobx8YDogRZv97MrcTArI&center=41.557828799999996,-87.6960726"
@@ -34,21 +29,6 @@
       "name": "Flossmoor Park Concession Stand",
       "distance": "0.9 mi",
       "url": "https://www.google.com/maps/search/?api=1&query=Flossmoor%20Park%20Concession%20Stand&query_place_id=ChIJl_v0FVcZDogR0esqjSJjQ1s&center=41.5445028,-87.67654739999999"
-    },
-    {
-      "name": "Lou Malnati's Pizzeria",
-      "distance": "1.4 mi",
-      "url": "https://www.google.com/maps/search/?api=1&query=Lou%20Malnati's%20Pizzeria&query_place_id=ChIJfclXHNgZDogRzUadCLctF1A&center=41.528599899999996,-87.6969721"
-    },
-    {
-      "name": "Subway",
-      "distance": "1.4 mi",
-      "url": "https://www.google.com/maps/search/?api=1&query=Subway&query_place_id=ChIJQ-MKqmIXDogRKN4cRHXRlfw&center=41.5286,-87.6973687"
-    },
-    {
-      "name": "Ariston",
-      "distance": "1.6 mi",
-      "url": "https://www.google.com/maps/search/?api=1&query=Ariston&query_place_id=ChIJAR5wvQMYDogRssu9jd7DZz4&center=41.571426200000005,-87.6939759"
     }
   ],
   "coffee": [
@@ -56,11 +36,6 @@
       "name": "Hope and Healing",
       "distance": "0.6 mi",
       "url": "https://www.google.com/maps/search/?api=1&query=Hope%20and%20Healing&query_place_id=ChIJJVKcPtMZDogR3FbxxwikrQo&center=41.5400771,-87.69058539999999"
-    },
-    {
-      "name": "McDonald's",
-      "distance": "0.6 mi",
-      "url": "https://www.google.com/maps/search/?api=1&query=McDonald's&query_place_id=ChIJyRE37iEYDogRemUsO2b1tXA&center=41.557635999999995,-87.693322"
     },
     {
       "name": "Beyond Borders Cafe",
@@ -103,11 +78,6 @@
       "name": "Confections",
       "distance": "1.4 mi",
       "url": "https://www.google.com/maps/search/?api=1&query=Confections&query_place_id=ChIJz7O4WJ4ZDogR8Q98OY1Lcms&center=41.543568400000005,-87.6679379"
-    },
-    {
-      "name": "Meijer Bakery",
-      "distance": "1.5 mi",
-      "url": "https://www.google.com/maps/search/?api=1&query=Meijer%20Bakery&query_place_id=ChIJCRmFuNsXDogRr7y5q5F1T3Q&center=41.5305676,-87.7106025"
     }
   ],
   "dinner": [

@@ -29,26 +29,6 @@
       "name": "Noodles and Company",
       "distance": "0.6 mi",
       "url": "https://www.google.com/maps/search/?api=1&query=Noodles%20and%20Company&query_place_id=ChIJD32mjdTpIogRHf2WwDVGoR4&center=42.7353583,-84.4835597"
-    },
-    {
-      "name": "Potbelly",
-      "distance": "0.6 mi",
-      "url": "https://www.google.com/maps/search/?api=1&query=Potbelly&query_place_id=ChIJUZVAjdTpIogRpyca26a6D8o&center=42.7348834,-84.4816385"
-    },
-    {
-      "name": "Raising Cane's Chicken Fingers",
-      "distance": "0.6 mi",
-      "url": "https://www.google.com/maps/search/?api=1&query=Raising%20Cane's%20Chicken%20Fingers&query_place_id=ChIJidSQB4_pIogRLY9B2HGvCnM&center=42.734746,-84.4813583"
-    },
-    {
-      "name": "Savvy Sliders",
-      "distance": "0.7 mi",
-      "url": "https://www.google.com/maps/search/?api=1&query=Savvy%20Sliders&query_place_id=ChIJyyYkOSzpIogRNGgvTHgVEKc&center=42.7359055,-84.4810722"
-    },
-    {
-      "name": "Taco Bell",
-      "distance": "0.7 mi",
-      "url": "https://www.google.com/maps/search/?api=1&query=Taco%20Bell&query_place_id=ChIJSUC9S2zCIogRTKyiW0q_6tI&center=42.719425199999996,-84.4975408"
     }
   ],
   "coffee": [
@@ -76,21 +56,6 @@
       "name": "Poindexter Coffee",
       "distance": "0.6 mi",
       "url": "https://www.google.com/maps/search/?api=1&query=Poindexter%20Coffee&query_place_id=ChIJY_dzWxnpIogRfXVsAWGN7_Q&center=42.7357501,-84.4847693"
-    },
-    {
-      "name": "BIGGBY COFFEE",
-      "distance": "0.6 mi",
-      "url": "https://www.google.com/maps/search/?api=1&query=BIGGBY%20COFFEE&query_place_id=ChIJlzUnMtHpIogRLapQTxL1nZ8&center=42.736666799999995,-84.48837259999999"
-    },
-    {
-      "name": "Bruegger's Bagels",
-      "distance": "0.7 mi",
-      "url": "https://www.google.com/maps/search/?api=1&query=Bruegger's%20Bagels&query_place_id=ChIJazAmBSvoIogRmKDCoVm1a7k&center=42.7339714,-84.47819799999999"
-    },
-    {
-      "name": "McDonald's",
-      "distance": "1.0 mi",
-      "url": "https://www.google.com/maps/search/?api=1&query=McDonald's&query_place_id=ChIJwTht4ifoIogRsuXdEOrKGMk&center=42.7312199,-84.4701903"
     }
   ],
   "team_lunch": [
@@ -150,11 +115,6 @@
       "name": "Charlie Kang's Restaurant",
       "distance": "0.6 mi",
       "url": "https://www.google.com/maps/search/Charlie%20Kang's%20Restaurant+near+42.7282659%2C-84.48936599999999"
-    },
-    {
-      "name": "Curry House Indian & Nepali cuisine",
-      "distance": "0.6 mi",
-      "url": "https://www.google.com/maps/search/Curry%20House%20Indian%20%26%20Nepali%20cuisine+near+42.7282659%2C-84.48936599999999"
     }
   ],
   "bowling": [
@@ -173,12 +133,6 @@
       "name": "13th Frame Pro Shop",
       "distance": "4.1 mi",
       "url": "https://www.google.com/maps/search/13th%20Frame%20Pro%20Shop+near+42.7282659%2C-84.48936599999999",
-      "isFar": true
-    },
-    {
-      "name": "Pins & Pints",
-      "distance": "4.1 mi",
-      "url": "https://www.google.com/maps/search/Pins%20%26%20Pints+near+42.7282659%2C-84.48936599999999",
       "isFar": true
     }
   ],
@@ -221,24 +175,6 @@
       "name": "Challenges East Lansing Adventure Escape Rooms",
       "distance": "2.4 mi",
       "url": "https://www.google.com/maps/search/Challenges%20East%20Lansing%20Adventure%20Escape%20Rooms+near+42.7282659%2C-84.48936599999999"
-    },
-    {
-      "name": "Launch Family Entertainment Lansing",
-      "distance": "3.5 mi",
-      "url": "https://www.google.com/maps/search/Launch%20Family%20Entertainment%20Lansing+near+42.7282659%2C-84.48936599999999",
-      "isFar": true
-    },
-    {
-      "name": "High Caliber Karting and Entertainment",
-      "distance": "3.6 mi",
-      "url": "https://www.google.com/maps/search/High%20Caliber%20Karting%20and%20Entertainment+near+42.7282659%2C-84.48936599999999",
-      "isFar": true
-    },
-    {
-      "name": "Escapes Unlocked",
-      "distance": "3.8 mi",
-      "url": "https://www.google.com/maps/search/Escapes%20Unlocked+near+42.7282659%2C-84.48936599999999",
-      "isFar": true
     }
   ],
   "hotels": [
@@ -271,11 +207,6 @@
       "name": "Wild Goose Inn",
       "distance": "0.7 mi",
       "url": "https://www.google.com/maps/search/Wild%20Goose%20Inn+near+42.7282659%2C-84.48936599999999"
-    },
-    {
-      "name": "Miles Davis Co-op",
-      "distance": "0.8 mi",
-      "url": "https://www.google.com/maps/search/Miles%20Davis%20Co-op+near+42.7282659%2C-84.48936599999999"
     }
   ],
   "gas": [
@@ -297,11 +228,6 @@
     {
       "name": "Admiral Petroleum Co",
       "distance": "1.0 mi",
-      "url": "https://www.google.com/maps/search/Admiral%20Petroleum%20Co+near+42.7282659%2C-84.48936599999999"
-    },
-    {
-      "name": "Admiral Petroleum Co",
-      "distance": "1.1 mi",
       "url": "https://www.google.com/maps/search/Admiral%20Petroleum%20Co+near+42.7282659%2C-84.48936599999999"
     }
   ]

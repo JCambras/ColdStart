@@ -29,26 +29,6 @@
       "name": "Little Caesars Pizza",
       "distance": "0.6 mi",
       "url": "https://www.google.com/maps/search/?api=1&query=Little%20Caesars%20Pizza&query_place_id=ChIJ34SZEk7GJIgRhEH5vY5Typs&center=42.53449,-83.201712"
-    },
-    {
-      "name": "Dunkin'",
-      "distance": "0.6 mi",
-      "url": "https://www.google.com/maps/search/?api=1&query=Dunkin'&query_place_id=ChIJd-3YBlLGJIgRdvh4x5VRcvA&center=42.5358041,-83.2026194"
-    },
-    {
-      "name": "Jimmy John's",
-      "distance": "0.6 mi",
-      "url": "https://www.google.com/maps/search/?api=1&query=Jimmy%20John's&query_place_id=ChIJRToX_03GJIgRfENzRdw53io&center=42.5353935,-83.2024519"
-    },
-    {
-      "name": "Jersey Mike's Subs",
-      "distance": "0.7 mi",
-      "url": "https://www.google.com/maps/search/?api=1&query=Jersey%20Mike's%20Subs&query_place_id=ChIJKzIY9lLGJIgRMJwaMrp4728&center=42.537245,-83.205361"
-    },
-    {
-      "name": "California Roll Sushi",
-      "distance": "0.7 mi",
-      "url": "https://www.google.com/maps/search/?api=1&query=California%20Roll%20Sushi&query_place_id=ChIJIat8UufHJIgRJVZYrTe410k&center=42.5372914,-83.20548389999999"
     }
   ],
   "coffee": [
@@ -71,11 +51,6 @@
       "name": "Wildflour Bakery & Desserts",
       "distance": "0.8 mi",
       "url": "https://www.google.com/maps/search/?api=1&query=Wildflour%20Bakery%20%26%20Desserts&query_place_id=ChIJpxRsSpzHJIgRUXnvAReK8ZI&center=42.5479139,-83.1840126"
-    },
-    {
-      "name": "McDonald's",
-      "distance": "0.8 mi",
-      "url": "https://www.google.com/maps/search/?api=1&query=McDonald's&query_place_id=ChIJUZu-KG_GJIgRzREEM_9a2SY&center=42.5320971,-83.1804453"
     }
   ],
   "team_lunch": [
@@ -106,11 +81,6 @@
     }
   ],
   "dinner": [
-    {
-      "name": "Kroger Bakery",
-      "distance": "0.3 mi",
-      "url": "https://www.google.com/maps/search/Kroger%20Bakery+near+42.5387725%2C-83.1923065"
-    },
     {
       "name": "Kroger Bakery",
       "distance": "0.3 mi",
@@ -158,12 +128,6 @@
       "distance": "4.2 mi",
       "url": "https://www.google.com/maps/search/Star%20Lanes%20at%20Emagine%20Royal%20Oak+near+42.5387725%2C-83.1923065",
       "isFar": true
-    },
-    {
-      "name": "Astro Lanes",
-      "distance": "4.5 mi",
-      "url": "https://www.google.com/maps/search/Astro%20Lanes+near+42.5387725%2C-83.1923065",
-      "isFar": true
     }
   ],
   "arcade": [],
@@ -182,23 +146,6 @@
       "name": "Mjr Epic Experience",
       "distance": "2.4 mi",
       "url": "https://www.google.com/maps/search/Mjr%20Epic%20Experience+near+42.5387725%2C-83.1923065"
-    },
-    {
-      "name": "MJR Troy Cinema",
-      "distance": "2.4 mi",
-      "url": "https://www.google.com/maps/search/MJR%20Troy%20Cinema+near+42.5387725%2C-83.1923065"
-    },
-    {
-      "name": "AMC John R 15",
-      "distance": "4.2 mi",
-      "url": "https://www.google.com/maps/search/AMC%20John%20R%2015+near+42.5387725%2C-83.1923065",
-      "isFar": true
-    },
-    {
-      "name": "Emagine Royal Oak",
-      "distance": "4.2 mi",
-      "url": "https://www.google.com/maps/search/Emagine%20Royal%20Oak+near+42.5387725%2C-83.1923065",
-      "isFar": true
     }
   ],
   "fun": [
@@ -206,11 +153,6 @@
       "name": "John boat discovery",
       "distance": "1.6 mi",
       "url": "https://www.google.com/maps/search/John%20boat%20discovery+near+42.5387725%2C-83.1923065"
-    },
-    {
-      "name": "Game Show Battle Rooms - Detroit (Troy)",
-      "distance": "2.2 mi",
-      "url": "https://www.google.com/maps/search/Game%20Show%20Battle%20Rooms%20-%20Detroit%20(Troy)+near+42.5387725%2C-83.1923065"
     },
     {
       "name": "Game Show Battle Rooms - Detroit (Troy)",
@@ -226,16 +168,6 @@
       "name": "DavidLand Roadside Attraction",
       "distance": "2.5 mi",
       "url": "https://www.google.com/maps/search/DavidLand%20Roadside%20Attraction+near+42.5387725%2C-83.1923065"
-    },
-    {
-      "name": "Troy Family Aquatic Center",
-      "distance": "2.7 mi",
-      "url": "https://www.google.com/maps/search/Troy%20Family%20Aquatic%20Center+near+42.5387725%2C-83.1923065"
-    },
-    {
-      "name": "Troy Family Aquatic Center",
-      "distance": "2.7 mi",
-      "url": "https://www.google.com/maps/search/Troy%20Family%20Aquatic%20Center+near+42.5387725%2C-83.1923065"
     }
   ],
   "hotels": [
@@ -243,36 +175,6 @@
       "name": "Mid-century Family Bungalow: Desirable Birmingham!",
       "distance": "0.3 mi",
       "url": "https://www.google.com/maps/search/Mid-century%20Family%20Bungalow%3A%20Desirable%20Birmingham!+near+42.5387725%2C-83.1923065"
-    },
-    {
-      "name": "Renovated Studio near Downtown Birmingham",
-      "distance": "0.4 mi",
-      "url": "https://www.google.com/maps/search/Renovated%20Studio%20near%20Downtown%20Birmingham+near+42.5387725%2C-83.1923065"
-    },
-    {
-      "name": "Renovated Studio near Downtown Birmingham",
-      "distance": "0.4 mi",
-      "url": "https://www.google.com/maps/search/Renovated%20Studio%20near%20Downtown%20Birmingham+near+42.5387725%2C-83.1923065"
-    },
-    {
-      "name": "Renovated Studio near Downtown Birmingham",
-      "distance": "0.4 mi",
-      "url": "https://www.google.com/maps/search/Renovated%20Studio%20near%20Downtown%20Birmingham+near+42.5387725%2C-83.1923065"
-    },
-    {
-      "name": "Birmingham Urban Retreat 2BR Cozy Haven - Two-Bedroom House",
-      "distance": "0.4 mi",
-      "url": "https://www.google.com/maps/search/Birmingham%20Urban%20Retreat%202BR%20Cozy%20Haven%20-%20Two-Bedroom%20House+near+42.5387725%2C-83.1923065"
-    },
-    {
-      "name": "Charming Urban Retreat in Downtown Birmingham - Two-Bedroom House",
-      "distance": "0.4 mi",
-      "url": "https://www.google.com/maps/search/Charming%20Urban%20Retreat%20in%20Downtown%20Birmingham%20-%20Two-Bedroom%20House+near+42.5387725%2C-83.1923065"
-    },
-    {
-      "name": "Birmingham Retreat - Work & Play",
-      "distance": "0.4 mi",
-      "url": "https://www.google.com/maps/search/Birmingham%20Retreat%20-%20Work%20%26%20Play+near+42.5387725%2C-83.1923065"
     }
   ],
   "gas": [
@@ -295,11 +197,6 @@
       "name": "Exxon",
       "distance": "0.9 mi",
       "url": "https://www.google.com/maps/search/Exxon+near+42.5387725%2C-83.1923065"
-    },
-    {
-      "name": "Speedway",
-      "distance": "1.0 mi",
-      "url": "https://www.google.com/maps/search/Speedway+near+42.5387725%2C-83.1923065"
     }
   ]
 }

@@ -81,11 +81,6 @@
       "name": "Ichiban (Bangor)",
       "distance": "0.7 mi",
       "url": "https://www.google.com/maps/search/Ichiban%20(Bangor)+near+44.8103425%2C-68.7798522"
-    },
-    {
-      "name": "Utopia",
-      "distance": "0.7 mi",
-      "url": "https://www.google.com/maps/search/Utopia+near+44.8103425%2C-68.7798522"
     }
   ],
   "bowling": [
@@ -139,43 +134,7 @@
       "isFar": true
     }
   ],
-  "hotels": [
-    {
-      "name": "Great 2 bedroom apartment with Washer Dryer",
-      "distance": "0.1 mi",
-      "url": "https://www.google.com/maps/search/Great%202%20bedroom%20apartment%20with%20Washer%20Dryer+near+44.8103425%2C-68.7798522"
-    },
-    {
-      "name": "Cozy, Sunny, Costal 2BR Near Downtown",
-      "distance": "0.1 mi",
-      "url": "https://www.google.com/maps/search/Cozy%2C%20Sunny%2C%20Costal%202BR%20Near%20Downtown+near+44.8103425%2C-68.7798522"
-    },
-    {
-      "name": "Spacious Renovated 2 BD-Near Downtown Bangor - Two-Bedroom Apartment",
-      "distance": "0.1 mi",
-      "url": "https://www.google.com/maps/search/Spacious%20Renovated%202%20BD-Near%20Downtown%20Bangor%20-%20Two-Bedroom%20Apartment+near+44.8103425%2C-68.7798522"
-    },
-    {
-      "name": "Stylish Bangor Apartment Across from Summit Park - Three-Bedroom Apartment",
-      "distance": "0.1 mi",
-      "url": "https://www.google.com/maps/search/Stylish%20Bangor%20Apartment%20Across%20from%20Summit%20Park%20-%20Three-Bedroom%20Apartment+near+44.8103425%2C-68.7798522"
-    },
-    {
-      "name": "Showpiece 1 BR Apt, Nice Kit, Laun, LR, Office. Brand new everything. A WOW!",
-      "distance": "0.4 mi",
-      "url": "https://www.google.com/maps/search/Showpiece%201%20BR%20Apt%2C%20Nice%20Kit%2C%20Laun%2C%20LR%2C%20Office.%20Brand%20new%20everything.%20A%20WOW!+near+44.8103425%2C-68.7798522"
-    },
-    {
-      "name": "Beautiful, Cozy Victorian B & B in historic Bangor with WiFi and AC",
-      "distance": "0.4 mi",
-      "url": "https://www.google.com/maps/search/Beautiful%2C%20Cozy%20Victorian%20B%20%26%20B%20in%20historic%20Bangor%20with%20WiFi%20and%20AC+near+44.8103425%2C-68.7798522"
-    },
-    {
-      "name": "Beautiful, Cozy Victorian B B in historic Bangor with WiFi and AC",
-      "distance": "0.4 mi",
-      "url": "https://www.google.com/maps/search/Beautiful%2C%20Cozy%20Victorian%20B%20B%20in%20historic%20Bangor%20with%20WiFi%20and%20AC+near+44.8103425%2C-68.7798522"
-    }
-  ],
+  "hotels": [],
   "gas": [
     {
       "name": "Citgo",
@@ -196,11 +155,6 @@
       "name": "Gulf",
       "distance": "0.8 mi",
       "url": "https://www.google.com/maps/search/Gulf+near+44.8103425%2C-68.7798522"
-    },
-    {
-      "name": "Citgo",
-      "distance": "0.8 mi",
-      "url": "https://www.google.com/maps/search/Citgo+near+44.8103425%2C-68.7798522"
     }
   ]
 }

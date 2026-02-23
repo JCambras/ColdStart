@@ -29,11 +29,6 @@
       "name": "McDonald's",
       "distance": "0.6 mi",
       "url": "https://www.google.com/maps/search/McDonald's+near+31.109250699999993%2C-97.3551067"
-    },
-    {
-      "name": "Subway",
-      "distance": "0.6 mi",
-      "url": "https://www.google.com/maps/search/Subway+near+31.109250699999993%2C-97.3551067"
     }
   ],
   "coffee": [
@@ -51,11 +46,6 @@
       "name": "Shipley Do-Nuts",
       "distance": "0.5 mi",
       "url": "https://www.google.com/maps/search/Shipley%20Do-Nuts+near+31.109250699999993%2C-97.3551067"
-    },
-    {
-      "name": "McDonald's",
-      "distance": "0.5 mi",
-      "url": "https://www.google.com/maps/search/McDonald's+near+31.109250699999993%2C-97.3551067"
     }
   ],
   "team_lunch": [
@@ -127,12 +117,6 @@
       "distance": "4.4 mi",
       "url": "https://www.google.com/maps/search/Lions%20Junction%20Family%20Water%20Park+near+31.109250699999993%2C-97.3551067",
       "isFar": true
-    },
-    {
-      "name": "Playa Azul Game Room",
-      "distance": "4.8 mi",
-      "url": "https://www.google.com/maps/search/Playa%20Azul%20Game%20Room+near+31.109250699999993%2C-97.3551067",
-      "isFar": true
     }
   ],
   "hotels": [
@@ -165,11 +149,6 @@
       "name": "American Inn Temple Texas",
       "distance": "0.3 mi",
       "url": "https://www.google.com/maps/search/American%20Inn%20Temple%20Texas+near+31.109250699999993%2C-97.3551067"
-    },
-    {
-      "name": "Days Inn by Wyndham Temple",
-      "distance": "0.3 mi",
-      "url": "https://www.google.com/maps/search/Days%20Inn%20by%20Wyndham%20Temple+near+31.109250699999993%2C-97.3551067"
     }
   ],
   "gas": [
@@ -192,11 +171,6 @@
       "name": "H-E-B Fuel",
       "distance": "0.6 mi",
       "url": "https://www.google.com/maps/search/H-E-B%20Fuel+near+31.109250699999993%2C-97.3551067"
-    },
-    {
-      "name": "Gas Station",
-      "distance": "0.6 mi",
-      "url": "https://www.google.com/maps/search/Gas%20Station+near+31.109250699999993%2C-97.3551067"
     }
   ]
 }

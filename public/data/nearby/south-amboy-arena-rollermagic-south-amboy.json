@@ -16,19 +16,9 @@
       "url": "https://www.google.com/maps/search/?api=1&query=Dunkin'&query_place_id=ChIJTworIEzKw4kRA3KY5Clp6Rg&center=40.4847745,-74.2809237"
     },
     {
-      "name": "Nunzios Kitchen",
-      "distance": "0.5 mi",
-      "url": "https://www.google.com/maps/search/?api=1&query=Nunzios%20Kitchen&query_place_id=ChIJQT3QRszLw4kRIxpLh-5Onzg&center=40.478415999999996,-74.296066"
-    },
-    {
       "name": "Carlo's Bake Shop Express",
       "distance": "1.3 mi",
       "url": "https://www.google.com/maps/search/?api=1&query=Carlo's%20Bake%20Shop%20Express&query_place_id=ChIJ54-e_cnLw4kRIa_w4Uc7GMQ&center=40.4664605,-74.2895082"
-    },
-    {
-      "name": "Popeyes Louisiana Kitchen",
-      "distance": "1.3 mi",
-      "url": "https://www.google.com/maps/search/?api=1&query=Popeyes%20Louisiana%20Kitchen&query_place_id=ChIJYf2l7bbLw4kRWF_5WN7h_MY&center=40.466422,-74.289277"
     },
     {
       "name": "Burger King",
@@ -39,16 +29,6 @@
       "name": "Bear's Hot Dog Stand",
       "distance": "1.4 mi",
       "url": "https://www.google.com/maps/search/?api=1&query=Bear's%20Hot%20Dog%20Stand&query_place_id=ChIJE_KhsK3Ow4kR-c2ZiNOzimk&center=40.465424,-74.2980445"
-    },
-    {
-      "name": "Bento Sushi",
-      "distance": "1.7 mi",
-      "url": "https://www.google.com/maps/search/?api=1&query=Bento%20Sushi&query_place_id=ChIJm4UOtWHJw4kRmEoVKs4lswQ&center=40.467436299999996,-74.3131045"
-    },
-    {
-      "name": "Wawa",
-      "distance": "1.7 mi",
-      "url": "https://www.google.com/maps/search/?api=1&query=Wawa&query_place_id=ChIJzcL0KQzLw4kRqtixezKLWms&center=40.460421600000004,-74.2949419"
     }
   ],
   "coffee": [
@@ -63,19 +43,9 @@
       "url": "https://www.google.com/maps/search/?api=1&query=JAVA%20DAVE%E2%80%99S%20COFFEE&query_place_id=ChIJf-TLmw3Lw4kRiRAv8NkkjfQ&center=40.483551299999995,-74.28046309999999"
     },
     {
-      "name": "McDonald's",
-      "distance": "1.6 mi",
-      "url": "https://www.google.com/maps/search/?api=1&query=McDonald's&query_place_id=ChIJyY4va-nLw4kR4CUK27RfkIk&center=40.462562299999995,-74.2961892"
-    },
-    {
       "name": "Manhattan Bagel",
       "distance": "1.6 mi",
       "url": "https://www.google.com/maps/search/?api=1&query=Manhattan%20Bagel&query_place_id=ChIJZdSKRHvJw4kRUVqaPw5nndA&center=40.4762428,-74.3186601"
-    },
-    {
-      "name": "Wawa",
-      "distance": "1.7 mi",
-      "url": "https://www.google.com/maps/search/?api=1&query=Wawa&query_place_id=ChIJzcL0KQzLw4kRqtixezKLWms&center=40.460421600000004,-74.2949419"
     }
   ],
   "team_lunch": [
@@ -108,26 +78,6 @@
       "name": "Broadway Diner",
       "distance": "0.5 mi",
       "url": "https://www.google.com/maps/search/?api=1&query=Broadway%20Diner&query_place_id=ChIJqTTbIkzKw4kR234yaLu9xAc&center=40.4842307,-74.2810298"
-    },
-    {
-      "name": "Broadway Bagels",
-      "distance": "0.6 mi",
-      "url": "https://www.google.com/maps/search/?api=1&query=Broadway%20Bagels&query_place_id=ChIJ5Z8jTEzKw4kRAZlSTic8kAw&center=40.4830842,-74.27971529999999"
-    },
-    {
-      "name": "Auntie Anne's",
-      "distance": "1.3 mi",
-      "url": "https://www.google.com/maps/search/?api=1&query=Auntie%20Anne's&query_place_id=ChIJfV6PTsfLw4kRwReT6FvhtIA&center=40.466354800000005,-74.28949"
-    },
-    {
-      "name": "Sweetart Cakes",
-      "distance": "1.6 mi",
-      "url": "https://www.google.com/maps/search/?api=1&query=Sweetart%20Cakes&query_place_id=ChIJ4wBevaPLw4kRfuNHIJNH7UU&center=40.4673456,-74.269261"
-    },
-    {
-      "name": "La Casa Del Pan",
-      "distance": "1.9 mi",
-      "url": "https://www.google.com/maps/search/?api=1&query=La%20Casa%20Del%20Pan&query_place_id=ChIJOSo6eHDKw4kRlTyezvBS4Q4&center=40.5109269,-74.2768157"
     }
   ],
   "dinner": [

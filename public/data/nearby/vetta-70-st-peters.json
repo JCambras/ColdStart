@@ -1,16 +1,6 @@
 {
   "quick_bite": [
     {
-      "name": "QuikTrip Kitchen",
-      "distance": "0.4 mi",
-      "url": "https://www.google.com/maps/search/QuikTrip%20Kitchen+near+38.8003182%2C-90.66998190000001"
-    },
-    {
-      "name": "Popeyes Louisiana Kitchen",
-      "distance": "0.7 mi",
-      "url": "https://www.google.com/maps/search/Popeyes%20Louisiana%20Kitchen+near+38.8003182%2C-90.66998190000001"
-    },
-    {
       "name": "Pirrone's Pizzeria",
       "distance": "0.8 mi",
       "url": "https://www.google.com/maps/search/Pirrone's%20Pizzeria+near+38.8003182%2C-90.66998190000001"
@@ -41,11 +31,6 @@
       "name": "Ziggi's Coffee",
       "distance": "0.9 mi",
       "url": "https://www.google.com/maps/search/Ziggi's%20Coffee+near+38.8003182%2C-90.66998190000001"
-    },
-    {
-      "name": "McDonald's",
-      "distance": "1.0 mi",
-      "url": "https://www.google.com/maps/search/McDonald's+near+38.8003182%2C-90.66998190000001"
     },
     {
       "name": "Scooter's Coffee",
@@ -146,12 +131,6 @@
       "distance": "4.2 mi",
       "url": "https://www.google.com/maps/search/Top%20Shot%20Experience%20Airsoft%20BB%20Bar%20-%20St.%20Charles%2FCottleville+near+38.8003182%2C-90.66998190000001",
       "isFar": true
-    },
-    {
-      "name": "Top Notch Axe Throwing St. Charles / Cottleville",
-      "distance": "4.2 mi",
-      "url": "https://www.google.com/maps/search/Top%20Notch%20Axe%20Throwing%20St.%20Charles%20%2F%20Cottleville+near+38.8003182%2C-90.66998190000001",
-      "isFar": true
     }
   ],
   "hotels": [
@@ -169,11 +148,6 @@
       "name": "WoodSpring Suites St Peters-OFallon",
       "distance": "0.7 mi",
       "url": "https://www.google.com/maps/search/WoodSpring%20Suites%20St%20Peters-OFallon+near+38.8003182%2C-90.66998190000001"
-    },
-    {
-      "name": "Vanguard mobile home park",
-      "distance": "0.7 mi",
-      "url": "https://www.google.com/maps/search/Vanguard%20mobile%20home%20park+near+38.8003182%2C-90.66998190000001"
     },
     {
       "name": "Private St Peters Home/Patio/BBQ/ Pool Table",
@@ -211,11 +185,6 @@
       "name": "bp",
       "distance": "0.9 mi",
       "url": "https://www.google.com/maps/search/bp+near+38.8003182%2C-90.66998190000001"
-    },
-    {
-      "name": "Phillips 66",
-      "distance": "0.9 mi",
-      "url": "https://www.google.com/maps/search/Phillips%2066+near+38.8003182%2C-90.66998190000001"
     }
   ]
 }

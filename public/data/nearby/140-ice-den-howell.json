@@ -29,34 +29,9 @@
       "name": "Culver’s",
       "distance": "0.6 mi",
       "url": "https://www.google.com/maps/search/?api=1&query=Culver%E2%80%99s&query_place_id=ChIJ3Vzj6PZGI4gRQTclDR15B-M&center=42.586650999999996,-83.87533959999999"
-    },
-    {
-      "name": "Subway",
-      "distance": "0.7 mi",
-      "url": "https://www.google.com/maps/search/?api=1&query=Subway&query_place_id=ChIJGWmVA_RGI4gR2m0XZcGG0H4&center=42.587702199999995,-83.8733091"
-    },
-    {
-      "name": "Panda Express",
-      "distance": "0.7 mi",
-      "url": "https://www.google.com/maps/search/?api=1&query=Panda%20Express&query_place_id=ChIJJfR1giNHI4gRZygiCp2a4nc&center=42.5825284,-83.8748887"
-    },
-    {
-      "name": "Panda Express",
-      "distance": "0.7 mi",
-      "url": "https://www.google.com/maps/search/?api=1&query=Panda%20Express&query_place_id=ChIJ4Y9NpQRHI4gRwK2dqXo2FM4&center=42.5824998,-83.87490100000001"
-    },
-    {
-      "name": "Jimmy John's",
-      "distance": "1.4 mi",
-      "url": "https://www.google.com/maps/search/?api=1&query=Jimmy%20John's&query_place_id=ChIJ9ZWdg45GI4gReT3FIOc-CkU&center=42.581035199999995,-83.8595773"
     }
   ],
   "coffee": [
-    {
-      "name": "McDonald's",
-      "distance": "0.4 mi",
-      "url": "https://www.google.com/maps/search/?api=1&query=McDonald's&query_place_id=ChIJjyTaTPdGI4gRSG3A_nR4jlw&center=42.5889968,-83.8787218"
-    },
     {
       "name": "Panera Bread",
       "distance": "0.6 mi",
@@ -90,11 +65,6 @@
       "name": "Dave's Hot Chicken",
       "distance": "0.4 mi",
       "url": "https://www.google.com/maps/search/Dave's%20Hot%20Chicken+near+42.5875093%2C-83.8864912"
-    },
-    {
-      "name": "Walmart Bakery",
-      "distance": "0.4 mi",
-      "url": "https://www.google.com/maps/search/Walmart%20Bakery+near+42.5875093%2C-83.8864912"
     },
     {
       "name": "Red Olive Restaurant - Howell",
@@ -152,21 +122,6 @@
       "url": "https://www.google.com/maps/search/Hampton%20Inn%20%26%20Suites%20Howell+near+42.5875093%2C-83.8864912"
     },
     {
-      "name": "Tranquil haven with a roomy deck and stunning panoramic lake views.",
-      "distance": "1.2 mi",
-      "url": "https://www.google.com/maps/search/Tranquil%20haven%20with%20a%20roomy%20deck%20and%20stunning%20panoramic%20lake%20views.+near+42.5875093%2C-83.8864912"
-    },
-    {
-      "name": "Pet Friendly Tranquil Haven With a Roomy Deck and Stunning Panoramic Lake Views",
-      "distance": "1.2 mi",
-      "url": "https://www.google.com/maps/search/Pet%20Friendly%20Tranquil%20Haven%20With%20a%20Roomy%20Deck%20and%20Stunning%20Panoramic%20Lake%20Views+near+42.5875093%2C-83.8864912"
-    },
-    {
-      "name": "Charming Lakefront home on Lake Chemung!",
-      "distance": "1.4 mi",
-      "url": "https://www.google.com/maps/search/Charming%20Lakefront%20home%20on%20Lake%20Chemung!+near+42.5875093%2C-83.8864912"
-    },
-    {
       "name": "Beautiful cottage on Lake Chemung, Howell",
       "distance": "1.4 mi",
       "url": "https://www.google.com/maps/search/Beautiful%20cottage%20on%20Lake%20Chemung%2C%20Howell+near+42.5875093%2C-83.8864912"
@@ -202,11 +157,6 @@
       "name": "Sunoco",
       "distance": "1.2 mi",
       "url": "https://www.google.com/maps/search/Sunoco+near+42.5875093%2C-83.8864912"
-    },
-    {
-      "name": "Mobil",
-      "distance": "1.9 mi",
-      "url": "https://www.google.com/maps/search/Mobil+near+42.5875093%2C-83.8864912"
     }
   ]
 }

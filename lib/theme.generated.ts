@@ -60,6 +60,18 @@ export const colors = {
   heroBg: 'var(--colors-heroBg)',
   heroMid: 'var(--colors-heroMid)',
   heroLight: 'var(--colors-heroLight)',
+  heroTextPrimary: 'var(--colors-heroTextPrimary)',
+  heroTextSecondary: 'var(--colors-heroTextSecondary)',
+  heroTextMuted: 'var(--colors-heroTextMuted)',
+  heroOverlay: 'var(--colors-heroOverlay)',
+  heroOverlayMid: 'var(--colors-heroOverlayMid)',
+  heroOverlayLight: 'var(--colors-heroOverlayLight)',
+  heroOverlayRadial: 'var(--colors-heroOverlayRadial)',
+  heroBadgeBg: 'var(--colors-heroBadgeBg)',
+  heroBadgeBgMuted: 'var(--colors-heroBadgeBgMuted)',
+  heroBadgeBorder: 'var(--colors-heroBadgeBorder)',
+  heroFocusRing: 'var(--colors-heroFocusRing)',
+  heroMenuLine: 'var(--colors-heroMenuLine)',
 } as const;
 
 export const text = {

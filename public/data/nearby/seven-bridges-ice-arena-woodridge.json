@@ -6,11 +6,6 @@
       "url": "https://www.google.com/maps/search/?api=1&query=Dunkin'&query_place_id=ChIJi11TjJNQDogR3uliI8R6UFM&center=41.7610348,-88.06597649999999"
     },
     {
-      "name": "Ed's Kitchen",
-      "distance": "0.5 mi",
-      "url": "https://www.google.com/maps/search/?api=1&query=Ed's%20Kitchen&query_place_id=ChIJvWx5eQ3BD4gR6ZzcIHVsKNQ&center=41.7647984,-88.05796"
-    },
-    {
       "name": "Jimmy John's",
       "distance": "1.5 mi",
       "url": "https://www.google.com/maps/search/?api=1&query=Jimmy%20John's&query_place_id=ChIJK6UZRg5RDogRevP5pD0Ml7I&center=41.7854186,-88.0734523"
@@ -34,21 +29,6 @@
       "name": "Tortorice's Pizzeria",
       "distance": "1.9 mi",
       "url": "https://www.google.com/maps/search/?api=1&query=Tortorice's%20Pizzeria&query_place_id=ChIJAy3ahUdQDogRlORsEHXeOzQ&center=41.7715477,-88.0312566"
-    },
-    {
-      "name": "Arby's",
-      "distance": "2.1 mi",
-      "url": "https://www.google.com/maps/search/?api=1&query=Arby's&query_place_id=ChIJy0z74QxQDogRpZDljLZWzXM&center=41.7512598,-88.02992789999999"
-    },
-    {
-      "name": "Subway",
-      "distance": "2.3 mi",
-      "url": "https://www.google.com/maps/search/?api=1&query=Subway&query_place_id=ChIJzwPX3ppaDogRFP7WRahoBS8&center=41.736914299999995,-88.0416783"
-    },
-    {
-      "name": "Subway",
-      "distance": "2.4 mi",
-      "url": "https://www.google.com/maps/search/?api=1&query=Subway&query_place_id=ChIJ2RGzkxhXDogRGSX7YwcxOik&center=41.778286,-88.110629"
     }
   ],
   "coffee": [
@@ -76,21 +56,6 @@
       "name": "Шаурма",
       "distance": "0.5 mi",
       "url": "https://www.google.com/maps/search/?api=1&query=%D0%A8%D0%B0%D1%83%D1%80%D0%BC%D0%B0&query_place_id=ChIJ5wdzCABRDogRAmJUIyzJ-uM&center=41.7648295,-88.05803879999999"
-    },
-    {
-      "name": "McDonald's",
-      "distance": "1.4 mi",
-      "url": "https://www.google.com/maps/search/?api=1&query=McDonald's&query_place_id=ChIJtSaTzlpQDogR2TnQshO_Kqc&center=41.771533999999996,-88.042131"
-    },
-    {
-      "name": "McDonald's",
-      "distance": "1.6 mi",
-      "url": "https://www.google.com/maps/search/?api=1&query=McDonald's&query_place_id=ChIJSRJwMyBRDogRPEE9RnM_cSA&center=41.786263999999996,-88.0714642"
-    },
-    {
-      "name": "McDonald's",
-      "distance": "1.7 mi",
-      "url": "https://www.google.com/maps/search/?api=1&query=McDonald's&query_place_id=ChIJ6Wf28HBQDogREceV_ekrVL0&center=41.7511064,-88.0394668"
     }
   ],
   "team_lunch": [

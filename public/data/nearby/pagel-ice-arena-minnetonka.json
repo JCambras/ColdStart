@@ -29,19 +29,9 @@
       "name": "Pizza Hut Express",
       "distance": "0.7 mi",
       "url": "https://www.google.com/maps/search/Pizza%20Hut%20Express+near+44.90786620000001%2C-93.5115102"
-    },
-    {
-      "name": "Buffalo Wild Wings GO",
-      "distance": "0.7 mi",
-      "url": "https://www.google.com/maps/search/Buffalo%20Wild%20Wings%20GO+near+44.90786620000001%2C-93.5115102"
     }
   ],
   "coffee": [
-    {
-      "name": "Starbucks Coffee Company",
-      "distance": "0.7 mi",
-      "url": "https://www.google.com/maps/search/Starbucks%20Coffee%20Company+near+44.90786620000001%2C-93.5115102"
-    },
     {
       "name": "Starbucks Coffee Company",
       "distance": "0.7 mi",
@@ -150,12 +140,6 @@
       "distance": "5.6 mi",
       "url": "https://www.google.com/maps/search/Game%20Show%20Studio%20Eden%20Prairie+near+44.90786620000001%2C-93.5115102",
       "isFar": true
-    },
-    {
-      "name": "Pump It Up Eden Prairie Kids Birthdays and More",
-      "distance": "6.2 mi",
-      "url": "https://www.google.com/maps/search/Pump%20It%20Up%20Eden%20Prairie%20Kids%20Birthdays%20and%20More+near+44.90786620000001%2C-93.5115102",
-      "isFar": true
     }
   ],
   "hotels": [
@@ -163,16 +147,6 @@
       "name": "Minnetonka Farmhouse",
       "distance": "0.5 mi",
       "url": "https://www.google.com/maps/search/Minnetonka%20Farmhouse+near+44.90786620000001%2C-93.5115102"
-    },
-    {
-      "name": "Pet Friendly Heavenly Home on 6 Acres with Scenic View",
-      "distance": "0.6 mi",
-      "url": "https://www.google.com/maps/search/Pet%20Friendly%20Heavenly%20Home%20on%206%20Acres%20with%20Scenic%20View+near+44.90786620000001%2C-93.5115102"
-    },
-    {
-      "name": "Heavenly Home/Minnetonka Lakes/Nature Scenic View",
-      "distance": "0.6 mi",
-      "url": "https://www.google.com/maps/search/Heavenly%20Home%2FMinnetonka%20Lakes%2FNature%20Scenic%20View+near+44.90786620000001%2C-93.5115102"
     },
     {
       "name": "Heavenly Home/Minnetonka Lakes/Nature Scenic View",
@@ -183,11 +157,6 @@
       "name": "Peaceful and Secluded Minnetonka Home Overlooking Wetland",
       "distance": "0.7 mi",
       "url": "https://www.google.com/maps/search/Peaceful%20and%20Secluded%20Minnetonka%20Home%20Overlooking%20Wetland+near+44.90786620000001%2C-93.5115102"
-    },
-    {
-      "name": "The Spacious Minnetonka 5BR Retreat Cable Lux Life",
-      "distance": "0.7 mi",
-      "url": "https://www.google.com/maps/search/The%20Spacious%20Minnetonka%205BR%20Retreat%20Cable%20Lux%20Life+near+44.90786620000001%2C-93.5115102"
     },
     {
       "name": "Creekside Lodge",
@@ -215,11 +184,6 @@
       "name": "Holiday",
       "distance": "1.2 mi",
       "url": "https://www.google.com/maps/search/Holiday+near+44.90786620000001%2C-93.5115102"
-    },
-    {
-      "name": "Circle K",
-      "distance": "1.2 mi",
-      "url": "https://www.google.com/maps/search/Circle%20K+near+44.90786620000001%2C-93.5115102"
     }
   ]
 }

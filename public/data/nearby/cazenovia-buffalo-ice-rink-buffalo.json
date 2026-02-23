@@ -29,26 +29,6 @@
       "name": "Tim Hortons",
       "distance": "0.6 mi",
       "url": "https://www.google.com/maps/search/?api=1&query=Tim%20Hortons&query_place_id=ChIJ-X0jl3UO04kR2vPFAwR1Y2I&center=42.856845,-78.8119011"
-    },
-    {
-      "name": "Mister Submarine",
-      "distance": "0.7 mi",
-      "url": "https://www.google.com/maps/search/?api=1&query=Mister%20Submarine&query_place_id=ChIJObTJ1BYO04kRqNqsp0PyqqQ&center=42.84485420000001,-78.823859"
-    },
-    {
-      "name": "Taco Bell / KFC",
-      "distance": "0.8 mi",
-      "url": "https://www.google.com/maps/search/?api=1&query=Taco%20Bell%20%2F%20KFC&query_place_id=ChIJ20M9EwkO04kRT_cjFr2GT_k&center=42.856138,-78.8226968"
-    },
-    {
-      "name": "Wendy's",
-      "distance": "0.9 mi",
-      "url": "https://www.google.com/maps/search/?api=1&query=Wendy's&query_place_id=ChIJ_7U0ZWgP04kRGdhNwB3JEKY&center=42.857544999999995,-78.823814"
-    },
-    {
-      "name": "Subway",
-      "distance": "1.0 mi",
-      "url": "https://www.google.com/maps/search/?api=1&query=Subway&query_place_id=ChIJh7zjjxsO04kRUoIK8xeh_qI&center=42.8476631,-78.8318807"
     }
   ],
   "coffee": [
@@ -76,16 +56,6 @@
       "name": "Tim Hortons",
       "distance": "0.6 mi",
       "url": "https://www.google.com/maps/search/?api=1&query=Tim%20Hortons&query_place_id=ChIJ-X0jl3UO04kR2vPFAwR1Y2I&center=42.856845,-78.8119011"
-    },
-    {
-      "name": "McDonald's",
-      "distance": "1.0 mi",
-      "url": "https://www.google.com/maps/search/?api=1&query=McDonald's&query_place_id=ChIJ6ai-RggO04kRwZlcKxtXDa0&center=42.858,-78.8250915"
-    },
-    {
-      "name": "McDonald's",
-      "distance": "1.2 mi",
-      "url": "https://www.google.com/maps/search/?api=1&query=McDonald's&query_place_id=ChIJXdNnKEUO04kR1HgFVnuYZxg&center=42.8309356,-78.80482359999999"
     }
   ],
   "team_lunch": [
@@ -93,11 +63,6 @@
       "name": "Jo Jo's Pizza & Subs Inc",
       "distance": "0.1 mi",
       "url": "https://www.google.com/maps/search/?api=1&query=Jo%20Jo's%20Pizza%20%26%20Subs%20Inc&query_place_id=ChIJgQDIhHIO04kRtAnl0La92kM&center=42.8492459,-78.8134123"
-    },
-    {
-      "name": "Hong Kong Kitchen",
-      "distance": "0.4 mi",
-      "url": "https://www.google.com/maps/search/?api=1&query=Hong%20Kong%20Kitchen&query_place_id=ChIJT5pQvXAO04kRnfqtVlp611c&center=42.8514561,-78.80490209999999"
     },
     {
       "name": "Cantina 62",
@@ -123,11 +88,6 @@
       "name": "Ohgoodnessbaking",
       "distance": "1.1 mi",
       "url": "https://www.google.com/maps/search/?api=1&query=Ohgoodnessbaking&query_place_id=ChIJe5vEArcP04kR5ZYeeTePEcE&center=42.8567822,-78.8304282"
-    },
-    {
-      "name": "tamia",
-      "distance": "1.9 mi",
-      "url": "https://www.google.com/maps/search/?api=1&query=tamia&query_place_id=ChIJL9IKa-oP04kRZcdM6q8eOXk&center=42.824285499999995,-78.8278168"
     }
   ],
   "dinner": [

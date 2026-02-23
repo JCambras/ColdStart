@@ -29,27 +29,6 @@
       "name": "Wendy's",
       "distance": "2.5 mi",
       "url": "https://www.google.com/maps/search/?api=1&query=Wendy's&query_place_id=ChIJnzB_q_93I4gRqL_zGfbKC7k&center=43.002818999999995,-83.76510619999999"
-    },
-    {
-      "name": "Subway",
-      "distance": "2.6 mi",
-      "url": "https://www.google.com/maps/search/?api=1&query=Subway&query_place_id=ChIJK2-iKvl3I4gR55CtBxRX0-Y&center=43.0000225,-83.7650148"
-    },
-    {
-      "name": "White Castle",
-      "distance": "2.6 mi",
-      "url": "https://www.google.com/maps/search/?api=1&query=White%20Castle&query_place_id=ChIJIyVgf_93I4gRVwO7s5DU1mY&center=43.0024975,-83.7626911"
-    },
-    {
-      "name": "V’s Drive Thru Flint",
-      "distance": "2.8 mi",
-      "url": "https://www.google.com/maps/search/?api=1&query=V%E2%80%99s%20Drive%20Thru%20Flint&query_place_id=ChIJeXdow3x5I4gRVEndq2nuiTU&center=43.0018119,-83.76013320000001"
-    },
-    {
-      "name": "Jimmy John's",
-      "distance": "3.0 mi",
-      "url": "https://www.google.com/maps/search/?api=1&query=Jimmy%20John's&query_place_id=ChIJnxsZK453I4gRpQIN7hF116g&center=42.979008300000004,-83.7727996",
-      "isFar": true
     }
   ],
   "coffee": [
@@ -72,17 +51,6 @@
       "name": "BAYT & BREW",
       "distance": "2.2 mi",
       "url": "https://www.google.com/maps/search/?api=1&query=BAYT%20%26%20BREW&query_place_id=ChIJ4-SOFWp3I4gRIaqnCuxSzWs&center=43.0031743,-83.7715735"
-    },
-    {
-      "name": "McDonald's",
-      "distance": "2.3 mi",
-      "url": "https://www.google.com/maps/search/?api=1&query=McDonald's&query_place_id=ChIJq9Q_4fp3I4gRtWZNpmGo7k4&center=42.9979914,-83.7715566"
-    },
-    {
-      "name": "McDonald's",
-      "distance": "3.2 mi",
-      "url": "https://www.google.com/maps/search/?api=1&query=McDonald's&query_place_id=ChIJUZx6P_l2I4gRbCf6wectJoY&center=42.9653689,-83.81088299999999",
-      "isFar": true
     }
   ],
   "team_lunch": [
@@ -110,11 +78,6 @@
       "name": "Lighthouse Sweets Shop",
       "distance": "2.5 mi",
       "url": "https://www.google.com/maps/search/?api=1&query=Lighthouse%20Sweets%20Shop&query_place_id=ChIJeRSp-QWdI4gR5Sfef-JKHto&center=43.0294563,-83.7713603"
-    },
-    {
-      "name": "Walmart Bakery",
-      "distance": "2.6 mi",
-      "url": "https://www.google.com/maps/search/?api=1&query=Walmart%20Bakery&query_place_id=ChIJBVSr2_h3I4gRkcvrv4V0rx0&center=42.999511,-83.7645819"
     },
     {
       "name": "Meijer Bakery",
@@ -153,11 +116,6 @@
       "name": "Bongiorno's Pizza",
       "distance": "1.7 mi",
       "url": "https://www.google.com/maps/search/Bongiorno's%20Pizza+near+43.0112861%2C-83.81369389999999"
-    },
-    {
-      "name": "Kroger Bakery",
-      "distance": "1.8 mi",
-      "url": "https://www.google.com/maps/search/Kroger%20Bakery+near+43.0112861%2C-83.81369389999999"
     }
   ],
   "bowling": [
@@ -209,11 +167,6 @@
       "url": "https://www.google.com/maps/search/SNS%20Rentals%20101+near+43.0112861%2C-83.81369389999999"
     },
     {
-      "name": "Pheasant Run Mobile Home",
-      "distance": "2.7 mi",
-      "url": "https://www.google.com/maps/search/Pheasant%20Run%20Mobile%20Home+near+43.0112861%2C-83.81369389999999"
-    },
-    {
       "name": "Economy Motel",
       "distance": "2.8 mi",
       "url": "https://www.google.com/maps/search/Economy%20Motel+near+43.0112861%2C-83.81369389999999"
@@ -227,11 +180,6 @@
       "name": "Sleek and Central Small Home ~ Close to everything",
       "distance": "3.0 mi",
       "url": "https://www.google.com/maps/search/Sleek%20and%20Central%20Small%20Home%20~%20Close%20to%20everything+near+43.0112861%2C-83.81369389999999"
-    },
-    {
-      "name": "Sleek and Central Small Home Close to everything - Two-Bedroom House",
-      "distance": "3.0 mi",
-      "url": "https://www.google.com/maps/search/Sleek%20and%20Central%20Small%20Home%20Close%20to%20everything%20-%20Two-Bedroom%20House+near+43.0112861%2C-83.81369389999999"
     }
   ],
   "gas": [
@@ -254,11 +202,6 @@
       "name": "Kroger Fuel Center",
       "distance": "1.7 mi",
       "url": "https://www.google.com/maps/search/Kroger%20Fuel%20Center+near+43.0112861%2C-83.81369389999999"
-    },
-    {
-      "name": "CHEVROLET",
-      "distance": "1.9 mi",
-      "url": "https://www.google.com/maps/search/CHEVROLET+near+43.0112861%2C-83.81369389999999"
     }
   ]
 }

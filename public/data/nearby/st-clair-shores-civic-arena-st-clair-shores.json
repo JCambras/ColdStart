@@ -29,26 +29,6 @@
       "name": "Jimmy John's",
       "distance": "0.5 mi",
       "url": "https://www.google.com/maps/search/?api=1&query=Jimmy%20John's&query_place_id=ChIJ33UMiN_XJIgRHeajgpY1m4c&center=42.4667824,-82.9069476"
-    },
-    {
-      "name": "Ferlito's Pizzeria",
-      "distance": "0.6 mi",
-      "url": "https://www.google.com/maps/search/?api=1&query=Ferlito's%20Pizzeria&query_place_id=ChIJHX_o_TvXJIgRt7pRGECMHXw&center=42.4649529,-82.9078376"
-    },
-    {
-      "name": "Arby's",
-      "distance": "0.6 mi",
-      "url": "https://www.google.com/maps/search/?api=1&query=Arby's&query_place_id=ChIJBb-gT9_XJIgRJPgu7k8ZTyc&center=42.4644699,-82.90807649999999"
-    },
-    {
-      "name": "Subway",
-      "distance": "0.6 mi",
-      "url": "https://www.google.com/maps/search/?api=1&query=Subway&query_place_id=ChIJ__t29RwoJYgRIMAuH-2J9SM&center=42.475893299999996,-82.9031329"
-    },
-    {
-      "name": "Subway",
-      "distance": "0.9 mi",
-      "url": "https://www.google.com/maps/search/?api=1&query=Subway&query_place_id=ChIJcWZ7tLjXJIgRAEbxtZgzCAg&center=42.4651559,-82.9299475"
     }
   ],
   "coffee": [
@@ -66,11 +46,6 @@
       "name": "The Cheesecake Shoppe & Café",
       "distance": "0.9 mi",
       "url": "https://www.google.com/maps/search/?api=1&query=The%20Cheesecake%20Shoppe%20%26%20Caf%C3%A9&query_place_id=ChIJYywy_CIoJYgRqnpUW1U5UKw&center=42.4658349,-82.8983575"
-    },
-    {
-      "name": "McDonald's",
-      "distance": "1.0 mi",
-      "url": "https://www.google.com/maps/search/?api=1&query=McDonald's&query_place_id=ChIJHziBNj0oJYgRCHRvSJUianw&center=42.466948099999996,-82.8959461"
     }
   ],
   "team_lunch": [
@@ -117,11 +92,6 @@
       "url": "https://www.google.com/maps/search/Vasi%E2%80%99s%20Cafe%20and%20Bake%20Shop+near+42.471876099999996%2C-82.9140833"
     },
     {
-      "name": "Vasi’s Cafe and Bake Shop",
-      "distance": "0.5 mi",
-      "url": "https://www.google.com/maps/search/Vasi%E2%80%99s%20Cafe%20and%20Bake%20Shop+near+42.471876099999996%2C-82.9140833"
-    },
-    {
       "name": "Athenian Shish Kebob",
       "distance": "0.5 mi",
       "url": "https://www.google.com/maps/search/Athenian%20Shish%20Kebob+near+42.471876099999996%2C-82.9140833"
@@ -152,30 +122,6 @@
       "name": "Knights Of St John Bowling League",
       "distance": "2.9 mi",
       "url": "https://www.google.com/maps/search/Knights%20Of%20St%20John%20Bowling%20League+near+42.471876099999996%2C-82.9140833"
-    },
-    {
-      "name": "AMF Rose Bowl Lanes",
-      "distance": "3.3 mi",
-      "url": "https://www.google.com/maps/search/AMF%20Rose%20Bowl%20Lanes+near+42.471876099999996%2C-82.9140833",
-      "isFar": true
-    },
-    {
-      "name": "Shore Lanes",
-      "distance": "3.7 mi",
-      "url": "https://www.google.com/maps/search/Shore%20Lanes+near+42.471876099999996%2C-82.9140833",
-      "isFar": true
-    },
-    {
-      "name": "Lakeshore Lanes",
-      "distance": "3.9 mi",
-      "url": "https://www.google.com/maps/search/Lakeshore%20Lanes+near+42.471876099999996%2C-82.9140833",
-      "isFar": true
-    },
-    {
-      "name": "Bonanza Lanes",
-      "distance": "4.6 mi",
-      "url": "https://www.google.com/maps/search/Bonanza%20Lanes+near+42.471876099999996%2C-82.9140833",
-      "isFar": true
     }
   ],
   "arcade": [],
@@ -201,24 +147,6 @@
       "distance": "3.2 mi",
       "url": "https://www.google.com/maps/search/Spray%20Pad+near+42.471876099999996%2C-82.9140833",
       "isFar": true
-    },
-    {
-      "name": "Spray Pad",
-      "distance": "3.2 mi",
-      "url": "https://www.google.com/maps/search/Spray%20Pad+near+42.471876099999996%2C-82.9140833",
-      "isFar": true
-    },
-    {
-      "name": "Moross Greenway Project",
-      "distance": "3.4 mi",
-      "url": "https://www.google.com/maps/search/Moross%20Greenway%20Project+near+42.471876099999996%2C-82.9140833",
-      "isFar": true
-    },
-    {
-      "name": "Eye Spy Investigations",
-      "distance": "4.5 mi",
-      "url": "https://www.google.com/maps/search/Eye%20Spy%20Investigations+near+42.471876099999996%2C-82.9140833",
-      "isFar": true
     }
   ],
   "hotels": [
@@ -228,29 +156,9 @@
       "url": "https://www.google.com/maps/search/Shore%20Pointe%20Motor%20Lodge+near+42.471876099999996%2C-82.9140833"
     },
     {
-      "name": "Welcoming 3BR Bungalow Retreat with WiFi minutes from Downtown Detroit",
-      "distance": "0.8 mi",
-      "url": "https://www.google.com/maps/search/Welcoming%203BR%20Bungalow%20Retreat%20with%20WiFi%20minutes%20from%20Downtown%20Detroit+near+42.471876099999996%2C-82.9140833"
-    },
-    {
       "name": "Suites By 701",
       "distance": "0.8 mi",
       "url": "https://www.google.com/maps/search/Suites%20By%20701+near+42.471876099999996%2C-82.9140833"
-    },
-    {
-      "name": "Welcoming 3BR Bungalow Retreat with WiFi minutes from Downtown Detroit",
-      "distance": "1.0 mi",
-      "url": "https://www.google.com/maps/search/Welcoming%203BR%20Bungalow%20Retreat%20with%20WiFi%20minutes%20from%20Downtown%20Detroit+near+42.471876099999996%2C-82.9140833"
-    },
-    {
-      "name": "CHARMING HOUSE ON THE NAUTICAL MILE",
-      "distance": "1.1 mi",
-      "url": "https://www.google.com/maps/search/CHARMING%20HOUSE%20ON%20THE%20NAUTICAL%20MILE+near+42.471876099999996%2C-82.9140833"
-    },
-    {
-      "name": "3 Bedroom House Getaway, near Downtown Detroit Lake St Clair",
-      "distance": "1.1 mi",
-      "url": "https://www.google.com/maps/search/3%20Bedroom%20House%20Getaway%2C%20near%20Downtown%20Detroit%20Lake%20St%20Clair+near+42.471876099999996%2C-82.9140833"
     },
     {
       "name": "Pet-Friendly Roseville Home ~ 17 Mi to Detroit!",
@@ -278,11 +186,6 @@
       "name": "Mobil",
       "distance": "0.5 mi",
       "url": "https://www.google.com/maps/search/Mobil+near+42.471876099999996%2C-82.9140833"
-    },
-    {
-      "name": "Speedway",
-      "distance": "0.6 mi",
-      "url": "https://www.google.com/maps/search/Speedway+near+42.471876099999996%2C-82.9140833"
     }
   ]
 }

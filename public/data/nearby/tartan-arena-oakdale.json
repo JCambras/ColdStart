@@ -29,11 +29,6 @@
       "name": "KFC",
       "distance": "0.6 mi",
       "url": "https://www.google.com/maps/search/KFC+near+44.9600833%2C-92.97419719999999"
-    },
-    {
-      "name": "Burger King",
-      "distance": "0.6 mi",
-      "url": "https://www.google.com/maps/search/Burger%20King+near+44.9600833%2C-92.97419719999999"
     }
   ],
   "coffee": [
@@ -41,11 +36,6 @@
       "name": "Caribou Coffee",
       "distance": "0.6 mi",
       "url": "https://www.google.com/maps/search/Caribou%20Coffee+near+44.9600833%2C-92.97419719999999"
-    },
-    {
-      "name": "McDonald's",
-      "distance": "0.6 mi",
-      "url": "https://www.google.com/maps/search/McDonald's+near+44.9600833%2C-92.97419719999999"
     },
     {
       "name": "Starbucks Coffee Company",
@@ -68,11 +58,6 @@
       "name": "Carbone's Pizzeria",
       "distance": "0.6 mi",
       "url": "https://www.google.com/maps/search/Carbone's%20Pizzeria+near+44.9600833%2C-92.97419719999999"
-    },
-    {
-      "name": "Bambu Kitchen and Sushi Restaurant",
-      "distance": "0.6 mi",
-      "url": "https://www.google.com/maps/search/Bambu%20Kitchen%20and%20Sushi%20Restaurant+near+44.9600833%2C-92.97419719999999"
     },
     {
       "name": "Jade 88 Chinese Restaurant",
@@ -131,18 +116,6 @@
       "distance": "3.2 mi",
       "url": "https://www.google.com/maps/search/The%20Plaza%20Theater+near+44.9600833%2C-92.97419719999999",
       "isFar": true
-    },
-    {
-      "name": "Starlight Cinema",
-      "distance": "3.6 mi",
-      "url": "https://www.google.com/maps/search/Starlight%20Cinema+near+44.9600833%2C-92.97419719999999",
-      "isFar": true
-    },
-    {
-      "name": "Marcus Oakdale Cinema",
-      "distance": "5.0 mi",
-      "url": "https://www.google.com/maps/search/Marcus%20Oakdale%20Cinema+near+44.9600833%2C-92.97419719999999",
-      "isFar": true
     }
   ],
   "fun": [
@@ -158,16 +131,6 @@
     }
   ],
   "hotels": [
-    {
-      "name": "Oakdale Home with Deck - 7 Mi to Downtown St Paul! - Holiday Home",
-      "distance": "0.2 mi",
-      "url": "https://www.google.com/maps/search/Oakdale%20Home%20with%20Deck%20-%207%20Mi%20to%20Downtown%20St%20Paul!%20-%20Holiday%20Home+near+44.9600833%2C-92.97419719999999"
-    },
-    {
-      "name": "Adorable Comfy Home- 3M Headquarter-Battle Creek Park- MOA- DTWN St. Paul",
-      "distance": "0.6 mi",
-      "url": "https://www.google.com/maps/search/Adorable%20Comfy%20Home-%203M%20Headquarter-Battle%20Creek%20Park-%20MOA-%20DTWN%20St.%20Paul+near+44.9600833%2C-92.97419719999999"
-    },
     {
       "name": "Adorable Comfy Home- 3M Headquarter-Battle Creek Park- MOA- DTWN St. Paul",
       "distance": "0.6 mi",
@@ -214,11 +177,6 @@
       "name": "Minnoco",
       "distance": "0.6 mi",
       "url": "https://www.google.com/maps/search/Minnoco+near+44.9600833%2C-92.97419719999999"
-    },
-    {
-      "name": "Speedway",
-      "distance": "1.1 mi",
-      "url": "https://www.google.com/maps/search/Speedway+near+44.9600833%2C-92.97419719999999"
     }
   ]
 }

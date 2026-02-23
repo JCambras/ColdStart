@@ -29,20 +29,9 @@
       "name": "Wendy's",
       "distance": "2.6 mi",
       "url": "https://www.google.com/maps/search/Wendy's+near+28.2913994%2C-82.318362"
-    },
-    {
-      "name": "Chuck E. Cheese",
-      "distance": "3.5 mi",
-      "url": "https://www.google.com/maps/search/Chuck%20E.%20Cheese+near+28.2913994%2C-82.318362",
-      "isFar": true
     }
   ],
   "coffee": [
-    {
-      "name": "Starbucks",
-      "distance": "2.6 mi",
-      "url": "https://www.google.com/maps/search/Starbucks+near+28.2913994%2C-82.318362"
-    },
     {
       "name": "Starbucks",
       "distance": "2.6 mi",
@@ -79,11 +68,6 @@
       "name": "Golden Acre Bakery",
       "distance": "2.3 mi",
       "url": "https://www.google.com/maps/search/Golden%20Acre%20Bakery+near+28.2913994%2C-82.318362"
-    },
-    {
-      "name": "Denny's",
-      "distance": "2.4 mi",
-      "url": "https://www.google.com/maps/search/Denny's+near+28.2913994%2C-82.318362"
     }
   ],
   "dinner": [
@@ -143,11 +127,6 @@
       "url": "https://www.google.com/maps/search/Hidden%20Gem!%20Waterfront%20Private%20Lake%2C%20Epperson%20Lagoon%205%20Mins%2C%20Canoe%2FFish%2FRelax.+near+28.2913994%2C-82.318362"
     },
     {
-      "name": "Hidden Gem! Waterfront Private Lake, Epperson Lagoon 5 Mins, Canoe/Fish/Relax.",
-      "distance": "0.4 mi",
-      "url": "https://www.google.com/maps/search/Hidden%20Gem!%20Waterfront%20Private%20Lake%2C%20Epperson%20Lagoon%205%20Mins%2C%20Canoe%2FFish%2FRelax.+near+28.2913994%2C-82.318362"
-    },
-    {
       "name": "Rural Lake Pool Oasis near Tampa Premium Outlets",
       "distance": "0.5 mi",
       "url": "https://www.google.com/maps/search/Rural%20Lake%20Pool%20Oasis%20near%20Tampa%20Premium%20Outlets+near+28.2913994%2C-82.318362"
@@ -156,16 +135,6 @@
       "name": "Welcome to Bibi’s Hideaway!",
       "distance": "1.5 mi",
       "url": "https://www.google.com/maps/search/Welcome%20to%20Bibi%E2%80%99s%20Hideaway!+near+28.2913994%2C-82.318362"
-    },
-    {
-      "name": "4BDR / 3BA / 3CGR 5 minutes from I-75",
-      "distance": "1.6 mi",
-      "url": "https://www.google.com/maps/search/4BDR%20%2F%203BA%20%2F%203CGR%205%20minutes%20from%20I-75+near+28.2913994%2C-82.318362"
-    },
-    {
-      "name": "4BDR / 3BA / 3CGR 5 minutes from I-75",
-      "distance": "1.6 mi",
-      "url": "https://www.google.com/maps/search/4BDR%20%2F%203BA%20%2F%203CGR%205%20minutes%20from%20I-75+near+28.2913994%2C-82.318362"
     },
     {
       "name": "Gated community in Epperson Ranch",
@@ -193,11 +162,6 @@
       "name": "7-Eleven",
       "distance": "2.8 mi",
       "url": "https://www.google.com/maps/search/7-Eleven+near+28.2913994%2C-82.318362"
-    },
-    {
-      "name": "RaceTrac",
-      "distance": "3.4 mi",
-      "url": "https://www.google.com/maps/search/RaceTrac+near+28.2913994%2C-82.318362"
     }
   ]
 }

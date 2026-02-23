@@ -54,11 +54,6 @@
       "name": "Fito's Tacos De Trompo",
       "distance": "0.2 mi",
       "url": "https://www.google.com/maps/search/Fito's%20Tacos%20De%20Trompo+near+32.7911073%2C-96.7676082"
-    },
-    {
-      "name": "Mis Cazuelas",
-      "distance": "0.2 mi",
-      "url": "https://www.google.com/maps/search/Mis%20Cazuelas+near+32.7911073%2C-96.7676082"
     }
   ],
   "dinner": [
@@ -91,11 +86,6 @@
       "name": "The Peak Inn",
       "distance": "0.1 mi",
       "url": "https://www.google.com/maps/search/The%20Peak%20Inn+near+32.7911073%2C-96.7676082"
-    },
-    {
-      "name": "Donut Palace",
-      "distance": "0.2 mi",
-      "url": "https://www.google.com/maps/search/Donut%20Palace+near+32.7911073%2C-96.7676082"
     }
   ],
   "bowling": [
@@ -121,12 +111,6 @@
       "name": "Cinepolis Luxury Cinemas Victory Park",
       "distance": "2.5 mi",
       "url": "https://www.google.com/maps/search/Cinepolis%20Luxury%20Cinemas%20Victory%20Park+near+32.7911073%2C-96.7676082"
-    },
-    {
-      "name": "Texas Theatre",
-      "distance": "4.7 mi",
-      "url": "https://www.google.com/maps/search/Texas%20Theatre+near+32.7911073%2C-96.7676082",
-      "isFar": true
     }
   ],
   "fun": [
@@ -149,62 +133,9 @@
       "name": "Escapology Escape Rooms Dallas - Victory Park",
       "distance": "2.5 mi",
       "url": "https://www.google.com/maps/search/Escapology%20Escape%20Rooms%20Dallas%20-%20Victory%20Park+near+32.7911073%2C-96.7676082"
-    },
-    {
-      "name": "SENSAS Dallas, Texas",
-      "distance": "2.9 mi",
-      "url": "https://www.google.com/maps/search/SENSAS%20Dallas%2C%20Texas+near+32.7911073%2C-96.7676082"
-    },
-    {
-      "name": "Sandbox VR",
-      "distance": "3.3 mi",
-      "url": "https://www.google.com/maps/search/Sandbox%20VR+near+32.7911073%2C-96.7676082",
-      "isFar": true
-    },
-    {
-      "name": "JadeWaters Resort Pool",
-      "distance": "3.8 mi",
-      "url": "https://www.google.com/maps/search/JadeWaters%20Resort%20Pool+near+32.7911073%2C-96.7676082",
-      "isFar": true
     }
   ],
-  "hotels": [
-    {
-      "name": "Unique Dallas Loft with Historic Charm and Modern Style",
-      "distance": "0.1 mi",
-      "url": "https://www.google.com/maps/search/Unique%20Dallas%20Loft%20with%20Historic%20Charm%20and%20Modern%20Style+near+32.7911073%2C-96.7676082"
-    },
-    {
-      "name": "Furnished Loft in Deep Ellum",
-      "distance": "0.1 mi",
-      "url": "https://www.google.com/maps/search/Furnished%20Loft%20in%20Deep%20Ellum+near+32.7911073%2C-96.7676082"
-    },
-    {
-      "name": "Apartment in desirable location",
-      "distance": "0.1 mi",
-      "url": "https://www.google.com/maps/search/Apartment%20in%20desirable%20location+near+32.7911073%2C-96.7676082"
-    },
-    {
-      "name": "Vintage Apartment in Historic Dallas Building",
-      "distance": "0.1 mi",
-      "url": "https://www.google.com/maps/search/Vintage%20Apartment%20in%20Historic%20Dallas%20Building+near+32.7911073%2C-96.7676082"
-    },
-    {
-      "name": "Peaceful home in quiet neighborhood",
-      "distance": "0.1 mi",
-      "url": "https://www.google.com/maps/search/Peaceful%20home%20in%20quiet%20neighborhood+near+32.7911073%2C-96.7676082"
-    },
-    {
-      "name": "Spacious Historic Stay | Huge Private Balcony",
-      "distance": "0.1 mi",
-      "url": "https://www.google.com/maps/search/Spacious%20Historic%20Stay%20%7C%20Huge%20Private%20Balcony+near+32.7911073%2C-96.7676082"
-    },
-    {
-      "name": "Downtown Dallas LUXE ABODE 1BD Retreat",
-      "distance": "0.2 mi",
-      "url": "https://www.google.com/maps/search/Downtown%20Dallas%20LUXE%20ABODE%201BD%20Retreat+near+32.7911073%2C-96.7676082"
-    }
-  ],
+  "hotels": [],
   "gas": [
     {
       "name": "Exxon",
@@ -225,11 +156,6 @@
       "name": "Gas trip (Beer, Cerveza)",
       "distance": "0.3 mi",
       "url": "https://www.google.com/maps/search/Gas%20trip%20(Beer%2C%20Cerveza)+near+32.7911073%2C-96.7676082"
-    },
-    {
-      "name": "Peak Mart",
-      "distance": "0.3 mi",
-      "url": "https://www.google.com/maps/search/Peak%20Mart+near+32.7911073%2C-96.7676082"
     }
   ]
 }

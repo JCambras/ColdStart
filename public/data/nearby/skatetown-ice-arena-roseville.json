@@ -29,11 +29,6 @@
       "name": "California Burgers",
       "distance": "0.5 mi",
       "url": "https://www.google.com/maps/search/California%20Burgers+near+38.7276899%2C-121.28561020000001"
-    },
-    {
-      "name": "Kiki's Chicken Place",
-      "distance": "0.6 mi",
-      "url": "https://www.google.com/maps/search/Kiki's%20Chicken%20Place+near+38.7276899%2C-121.28561020000001"
     }
   ],
   "coffee": [
@@ -155,61 +150,9 @@
       "name": "John's Incredible Pizza - Roseville",
       "distance": "2.4 mi",
       "url": "https://www.google.com/maps/search/John's%20Incredible%20Pizza%20-%20Roseville+near+38.7276899%2C-121.28561020000001"
-    },
-    {
-      "name": "Roseville Golfland Sunsplash",
-      "distance": "2.8 mi",
-      "url": "https://www.google.com/maps/search/Roseville%20Golfland%20Sunsplash+near+38.7276899%2C-121.28561020000001"
-    },
-    {
-      "name": "Kids Interactive Fountain (Splash Pad)",
-      "distance": "2.9 mi",
-      "url": "https://www.google.com/maps/search/Kids%20Interactive%20Fountain%20(Splash%20Pad)+near+38.7276899%2C-121.28561020000001"
-    },
-    {
-      "name": "Fun Factory",
-      "distance": "3.3 mi",
-      "url": "https://www.google.com/maps/search/Fun%20Factory+near+38.7276899%2C-121.28561020000001",
-      "isFar": true
     }
   ],
-  "hotels": [
-    {
-      "name": "Private Entrance Private Bathroom - Double Room with Private Bathroom",
-      "distance": "0.3 mi",
-      "url": "https://www.google.com/maps/search/Private%20Entrance%20Private%20Bathroom%20-%20Double%20Room%20with%20Private%20Bathroom+near+38.7276899%2C-121.28561020000001"
-    },
-    {
-      "name": "Tree-Top Boho Home Away From Home In Roseville! - Three-Bedroom House",
-      "distance": "0.3 mi",
-      "url": "https://www.google.com/maps/search/Tree-Top%20Boho%20Home%20Away%20From%20Home%20In%20Roseville!%20-%20Three-Bedroom%20House+near+38.7276899%2C-121.28561020000001"
-    },
-    {
-      "name": "Tree-Top Boho Home Away From Home In Roseville!",
-      "distance": "0.3 mi",
-      "url": "https://www.google.com/maps/search/Tree-Top%20Boho%20Home%20Away%20From%20Home%20In%20Roseville!+near+38.7276899%2C-121.28561020000001"
-    },
-    {
-      "name": "Enchanting 2-bedroom house with AC in Roseville",
-      "distance": "0.3 mi",
-      "url": "https://www.google.com/maps/search/Enchanting%202-bedroom%20house%20with%20AC%20in%20Roseville+near+38.7276899%2C-121.28561020000001"
-    },
-    {
-      "name": "Peaceful and Private Cottage just 14 minutes from Thunder Valley Casino",
-      "distance": "0.3 mi",
-      "url": "https://www.google.com/maps/search/Peaceful%20and%20Private%20Cottage%20just%2014%20minutes%20from%20Thunder%20Valley%20Casino+near+38.7276899%2C-121.28561020000001"
-    },
-    {
-      "name": "Fully Renovated 4 Bedroom Home with Pool!",
-      "distance": "0.4 mi",
-      "url": "https://www.google.com/maps/search/Fully%20Renovated%204%20Bedroom%20Home%20with%20Pool!+near+38.7276899%2C-121.28561020000001"
-    },
-    {
-      "name": "Spacious Luxury Comforters of home while enjoying time away. Central location.",
-      "distance": "0.4 mi",
-      "url": "https://www.google.com/maps/search/Spacious%20Luxury%20Comforters%20of%20home%20while%20enjoying%20time%20away.%20Central%20location.+near+38.7276899%2C-121.28561020000001"
-    }
-  ],
+  "hotels": [],
   "gas": [
     {
       "name": "Chevron",
@@ -230,11 +173,6 @@
       "name": "76",
       "distance": "0.5 mi",
       "url": "https://www.google.com/maps/search/76+near+38.7276899%2C-121.28561020000001"
-    },
-    {
-      "name": "Safeway Fuel Station",
-      "distance": "0.8 mi",
-      "url": "https://www.google.com/maps/search/Safeway%20Fuel%20Station+near+38.7276899%2C-121.28561020000001"
     }
   ]
 }

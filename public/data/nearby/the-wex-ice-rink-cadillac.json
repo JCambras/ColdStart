@@ -29,26 +29,6 @@
       "name": "Bob Evans",
       "distance": "0.7 mi",
       "url": "https://www.google.com/maps/search/?api=1&query=Bob%20Evans&query_place_id=ChIJXRfrp1oIH4gRxcn5N_iJIK4&center=44.2781644,-85.4072394"
-    },
-    {
-      "name": "Taco Bell",
-      "distance": "0.8 mi",
-      "url": "https://www.google.com/maps/search/?api=1&query=Taco%20Bell&query_place_id=ChIJJyWO908IH4gRuQU_gf63ZoM&center=44.2794999,-85.4060446"
-    },
-    {
-      "name": "Jersey Mike's Subs",
-      "distance": "1.0 mi",
-      "url": "https://www.google.com/maps/search/?api=1&query=Jersey%20Mike's%20Subs&query_place_id=ChIJp1aZdiwJH4gRcZUJ8A1HO98&center=44.2809623,-85.3997705"
-    },
-    {
-      "name": "Popeyes Louisiana Kitchen",
-      "distance": "1.1 mi",
-      "url": "https://www.google.com/maps/search/?api=1&query=Popeyes%20Louisiana%20Kitchen&query_place_id=ChIJb2g9UwAJH4gR8BPhH6n-MsI&center=44.2820847,-85.3987035"
-    },
-    {
-      "name": "Subway",
-      "distance": "1.2 mi",
-      "url": "https://www.google.com/maps/search/?api=1&query=Subway&query_place_id=ChIJZ7JOm04IH4gRrcZKOdqVBKQ&center=44.2840962,-85.39804889999999"
     }
   ],
   "coffee": [
@@ -66,17 +46,6 @@
       "name": "Starbucks",
       "distance": "0.9 mi",
       "url": "https://www.google.com/maps/search/?api=1&query=Starbucks&query_place_id=ChIJP3UugMQJH4gRgFHRqYaVcvE&center=44.280905499999996,-85.4046818"
-    },
-    {
-      "name": "McDonald's",
-      "distance": "0.9 mi",
-      "url": "https://www.google.com/maps/search/?api=1&query=McDonald's&query_place_id=ChIJD0Osn1AIH4gRB9ARq4crBN4&center=44.280927899999995,-85.40540349999999"
-    },
-    {
-      "name": "McDonald's",
-      "distance": "3.2 mi",
-      "url": "https://www.google.com/maps/search/?api=1&query=McDonald's&query_place_id=ChIJe5adSRMGH4gR_QUrnoqPFEM&center=44.2354335,-85.4521389",
-      "isFar": true
     }
   ],
   "team_lunch": [
@@ -121,11 +90,6 @@
       "name": "The Truck Stop",
       "distance": "0.8 mi",
       "url": "https://www.google.com/maps/search/The%20Truck%20Stop+near+44.26757620000001%2C-85.4052219"
-    },
-    {
-      "name": "Little Mexico",
-      "distance": "0.9 mi",
-      "url": "https://www.google.com/maps/search/Little%20Mexico+near+44.26757620000001%2C-85.4052219"
     }
   ],
   "bowling": [
@@ -169,11 +133,6 @@
       "url": "https://www.google.com/maps/search/Luxe%20EstateFeet%20from%20Lake%20%26%20DowntownHot%20TubPets+near+44.26757620000001%2C-85.4052219"
     },
     {
-      "name": "Downtown 6 Bedroom/11 Beds Home with HotTub, Pool, Speakeasy, and Fireplaces",
-      "distance": "1.1 mi",
-      "url": "https://www.google.com/maps/search/Downtown%206%20Bedroom%2F11%20Beds%20Home%20with%20HotTub%2C%20Pool%2C%20Speakeasy%2C%20and%20Fireplaces+near+44.26757620000001%2C-85.4052219"
-    },
-    {
       "name": "Sun-Dappled Cadillac Gem with Kayaks and Grill!",
       "distance": "1.1 mi",
       "url": "https://www.google.com/maps/search/Sun-Dappled%20Cadillac%20Gem%20with%20Kayaks%20and%20Grill!+near+44.26757620000001%2C-85.4052219"
@@ -214,11 +173,6 @@
       "name": "Wesco",
       "distance": "0.4 mi",
       "url": "https://www.google.com/maps/search/Wesco+near+44.26757620000001%2C-85.4052219"
-    },
-    {
-      "name": "Speedway",
-      "distance": "0.7 mi",
-      "url": "https://www.google.com/maps/search/Speedway+near+44.26757620000001%2C-85.4052219"
     }
   ]
 }

@@ -29,26 +29,6 @@
       "name": "Chick-fil-A",
       "distance": "0.9 mi",
       "url": "https://www.google.com/maps/search/?api=1&query=Chick-fil-A&query_place_id=ChIJg76hpKLft4kRiCb5A-MxB7k&center=39.2147265,-76.86069499999999"
-    },
-    {
-      "name": "Popeyes Louisiana Kitchen",
-      "distance": "0.9 mi",
-      "url": "https://www.google.com/maps/search/?api=1&query=Popeyes%20Louisiana%20Kitchen&query_place_id=ChIJCwzuqYrft4kRxp7ePqFKT9A&center=39.2146274,-76.8608253"
-    },
-    {
-      "name": "Sarku Japan",
-      "distance": "1.0 mi",
-      "url": "https://www.google.com/maps/search/?api=1&query=Sarku%20Japan&query_place_id=ChIJf6b7A5jft4kR7K_MiyxITXU&center=39.2146325,-76.8609141"
-    },
-    {
-      "name": "SSONG'S HOTDOG - COLUMBIA",
-      "distance": "1.0 mi",
-      "url": "https://www.google.com/maps/search/?api=1&query=SSONG'S%20HOTDOG%20-%20COLUMBIA&query_place_id=ChIJMcO_5Wjft4kR3Pcjqr4Z6cM&center=39.2150135,-76.86183679999999"
-    },
-    {
-      "name": "Wendy's",
-      "distance": "1.6 mi",
-      "url": "https://www.google.com/maps/search/?api=1&query=Wendy's&query_place_id=ChIJnc6_L3rgt4kRBHn9iw6cpXU&center=39.1973452,-76.8195813"
     }
   ],
   "coffee": [
@@ -68,24 +48,9 @@
       "url": "https://www.google.com/maps/search/?api=1&query=Dunkin'&query_place_id=ChIJJyEuOxDft4kRpqyfUG8A6a8&center=39.2155908,-76.8601004"
     },
     {
-      "name": "McDonald's",
-      "distance": "1.0 mi",
-      "url": "https://www.google.com/maps/search/?api=1&query=McDonald's&query_place_id=ChIJB-cnAJnft4kRgPAX59waN0Q&center=39.2147824,-76.8617989"
-    },
-    {
       "name": "Roggenart European Bakery, Bistro & Cafe",
       "distance": "1.5 mi",
       "url": "https://www.google.com/maps/search/?api=1&query=Roggenart%20European%20Bakery%2C%20Bistro%20%26%20Cafe&query_place_id=ChIJzcLw3Irht4kRsmkrHCFcakg&center=39.1992671,-76.8199394"
-    },
-    {
-      "name": "McDonald's",
-      "distance": "1.6 mi",
-      "url": "https://www.google.com/maps/search/?api=1&query=McDonald's&query_place_id=ChIJOzaWTHrgt4kRljY5m2Keazs&center=39.1969728,-76.8189901"
-    },
-    {
-      "name": "McDonald's",
-      "distance": "1.6 mi",
-      "url": "https://www.google.com/maps/search/?api=1&query=McDonald's&query_place_id=ChIJxSB1lzbet4kR6ANM0Eo7K-g&center=39.1861943,-76.8448652"
     }
   ],
   "team_lunch": [
@@ -118,11 +83,6 @@
       "name": "Cinnabon",
       "distance": "1.0 mi",
       "url": "https://www.google.com/maps/search/?api=1&query=Cinnabon&query_place_id=ChIJB-cnAJnft4kRNkxFIrphazI&center=39.214632800000004,-76.8611904"
-    },
-    {
-      "name": "Potbelly",
-      "distance": "1.5 mi",
-      "url": "https://www.google.com/maps/search/?api=1&query=Potbelly&query_place_id=ChIJ8Vknj3ngt4kRyoEX4C2YoAY&center=39.1977873,-76.82074899999999"
     }
   ],
   "dinner": [

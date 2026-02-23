@@ -1,11 +1,6 @@
 {
   "quick_bite": [
     {
-      "name": "Weng's Kitchen",
-      "distance": "0.4 mi",
-      "url": "https://www.google.com/maps/search/Weng's%20Kitchen+near+44.638518%2C-93.1545283"
-    },
-    {
       "name": "Subway",
       "distance": "0.5 mi",
       "url": "https://www.google.com/maps/search/Subway+near+44.638518%2C-93.1545283"
@@ -28,11 +23,6 @@
     }
   ],
   "coffee": [
-    {
-      "name": "McDonald's",
-      "distance": "0.4 mi",
-      "url": "https://www.google.com/maps/search/McDonald's+near+44.638518%2C-93.1545283"
-    },
     {
       "name": "Beans and Boots Coffee",
       "distance": "0.4 mi",
@@ -81,11 +71,6 @@
       "name": "Longbranch Saloon & Eatery",
       "distance": "0.5 mi",
       "url": "https://www.google.com/maps/search/Longbranch%20Saloon%20%26%20Eatery+near+44.638518%2C-93.1545283"
-    },
-    {
-      "name": "Lighthouse Kitchen + Cafe",
-      "distance": "1.0 mi",
-      "url": "https://www.google.com/maps/search/Lighthouse%20Kitchen%20%2B%20Cafe+near+44.638518%2C-93.1545283"
     }
   ],
   "bowling": [
@@ -156,39 +141,15 @@
       "isFar": true
     },
     {
-      "name": "Peaceful Zen Retreat with Private Space, Trails, & Easy Access to Airports",
-      "distance": "3.3 mi",
-      "url": "https://www.google.com/maps/search/Peaceful%20Zen%20Retreat%20with%20Private%20Space%2C%20Trails%2C%20%26%20Easy%20Access%20to%20Airports+near+44.638518%2C-93.1545283",
-      "isFar": true
-    },
-    {
       "name": "Country View Manufactured Home Community (Country View of Lakeville)",
       "distance": "4.0 mi",
       "url": "https://www.google.com/maps/search/Country%20View%20Manufactured%20Home%20Community%20(Country%20View%20of%20Lakeville)+near+44.638518%2C-93.1545283",
       "isFar": true
     },
     {
-      "name": "Pondhaven Rereat Fully furnished house with fun and convenience for all ages",
-      "distance": "4.2 mi",
-      "url": "https://www.google.com/maps/search/Pondhaven%20Rereat%20Fully%20furnished%20house%20with%20fun%20and%20convenience%20for%20all%20ages+near+44.638518%2C-93.1545283",
-      "isFar": true
-    },
-    {
-      "name": "Pondhaven Rereat Fully furnished house with fun and convenience for all ages",
-      "distance": "4.2 mi",
-      "url": "https://www.google.com/maps/search/Pondhaven%20Rereat%20Fully%20furnished%20house%20with%20fun%20and%20convenience%20for%20all%20ages+near+44.638518%2C-93.1545283",
-      "isFar": true
-    },
-    {
       "name": "North Creek",
       "distance": "4.3 mi",
       "url": "https://www.google.com/maps/search/North%20Creek+near+44.638518%2C-93.1545283",
-      "isFar": true
-    },
-    {
-      "name": "Spacious Townhome close to the Twin Cities, lakes, shopping and restaurants.",
-      "distance": "4.5 mi",
-      "url": "https://www.google.com/maps/search/Spacious%20Townhome%20close%20to%20the%20Twin%20Cities%2C%20lakes%2C%20shopping%20and%20restaurants.+near+44.638518%2C-93.1545283",
       "isFar": true
     }
   ],
@@ -202,11 +163,6 @@
       "name": "Amcon",
       "distance": "1.0 mi",
       "url": "https://www.google.com/maps/search/Amcon+near+44.638518%2C-93.1545283"
-    },
-    {
-      "name": "Kwik Trip",
-      "distance": "2.6 mi",
-      "url": "https://www.google.com/maps/search/Kwik%20Trip+near+44.638518%2C-93.1545283"
     },
     {
       "name": "Kwik Trip",

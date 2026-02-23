@@ -20,12 +20,6 @@
       "url": "https://www.google.com/maps/search/Coffee%204%20U+near+44.942381999999995%2C-73.0424841"
     },
     {
-      "name": "McDonald's",
-      "distance": "3.6 mi",
-      "url": "https://www.google.com/maps/search/McDonald's+near+44.942381999999995%2C-73.0424841",
-      "isFar": true
-    },
-    {
       "name": "Dunkin'",
       "distance": "3.7 mi",
       "url": "https://www.google.com/maps/search/Dunkin'+near+44.942381999999995%2C-73.0424841",
@@ -116,18 +110,6 @@
       "distance": "4.1 mi",
       "url": "https://www.google.com/maps/search/Swanton%20Motel+near+44.942381999999995%2C-73.0424841",
       "isFar": true
-    },
-    {
-      "name": "Fabulous 5-bedroom House on Lake Champlain- Sunsets Included!",
-      "distance": "4.4 mi",
-      "url": "https://www.google.com/maps/search/Fabulous%205-bedroom%20House%20on%20Lake%20Champlain-%20Sunsets%20Included!+near+44.942381999999995%2C-73.0424841",
-      "isFar": true
-    },
-    {
-      "name": "Fabulous 5-bedroom House on Lake Champlain- Sunsets Included!",
-      "distance": "4.5 mi",
-      "url": "https://www.google.com/maps/search/Fabulous%205-bedroom%20House%20on%20Lake%20Champlain-%20Sunsets%20Included!+near+44.942381999999995%2C-73.0424841",
-      "isFar": true
     }
   ],
   "gas": [
@@ -150,11 +132,6 @@
       "name": "Shell",
       "distance": "3.4 mi",
       "url": "https://www.google.com/maps/search/Shell+near+44.942381999999995%2C-73.0424841"
-    },
-    {
-      "name": "Sunoco",
-      "distance": "3.6 mi",
-      "url": "https://www.google.com/maps/search/Sunoco+near+44.942381999999995%2C-73.0424841"
     }
   ]
 }

@@ -1,16 +1,6 @@
 {
   "quick_bite": [
     {
-      "name": "Lovely condo centrally located in Winston-Salem",
-      "distance": "0.3 mi",
-      "url": "https://www.google.com/maps/search/Lovely%20condo%20centrally%20located%20in%20Winston-Salem+near+36.127860999999996%2C-80.2539443"
-    },
-    {
-      "name": "Lovely condo centrally located in Winston-Salem",
-      "distance": "0.3 mi",
-      "url": "https://www.google.com/maps/search/Lovely%20condo%20centrally%20located%20in%20Winston-Salem+near+36.127860999999996%2C-80.2539443"
-    },
-    {
       "name": "Subway",
       "distance": "0.4 mi",
       "url": "https://www.google.com/maps/search/Subway+near+36.127860999999996%2C-80.2539443"
@@ -41,11 +31,6 @@
       "name": "Black Coffee and Cuisine",
       "distance": "0.3 mi",
       "url": "https://www.google.com/maps/search/Black%20Coffee%20and%20Cuisine+near+36.127860999999996%2C-80.2539443"
-    },
-    {
-      "name": "McDonald's",
-      "distance": "0.9 mi",
-      "url": "https://www.google.com/maps/search/McDonald's+near+36.127860999999996%2C-80.2539443"
     }
   ],
   "team_lunch": [
@@ -133,18 +118,6 @@
       "distance": "3.4 mi",
       "url": "https://www.google.com/maps/search/Imax+near+36.127860999999996%2C-80.2539443",
       "isFar": true
-    },
-    {
-      "name": "UNCSA Archive Theater",
-      "distance": "3.6 mi",
-      "url": "https://www.google.com/maps/search/UNCSA%20Archive%20Theater+near+36.127860999999996%2C-80.2539443",
-      "isFar": true
-    },
-    {
-      "name": "ACE Theatre Complex",
-      "distance": "3.6 mi",
-      "url": "https://www.google.com/maps/search/ACE%20Theatre%20Complex+near+36.127860999999996%2C-80.2539443",
-      "isFar": true
     }
   ],
   "fun": [
@@ -164,36 +137,13 @@
       "url": "https://www.google.com/maps/search/Winston%20Waterworks%20Water%20Park+near+36.127860999999996%2C-80.2539443"
     },
     {
-      "name": "Splash pad",
-      "distance": "3.2 mi",
-      "url": "https://www.google.com/maps/search/Splash%20pad+near+36.127860999999996%2C-80.2539443",
-      "isFar": true
-    },
-    {
-      "name": "Splash pad",
-      "distance": "3.7 mi",
-      "url": "https://www.google.com/maps/search/Splash%20pad+near+36.127860999999996%2C-80.2539443",
-      "isFar": true
-    },
-    {
       "name": "Urban Air Trampoline and Adventure Park",
       "distance": "4.0 mi",
       "url": "https://www.google.com/maps/search/Urban%20Air%20Trampoline%20and%20Adventure%20Park+near+36.127860999999996%2C-80.2539443",
       "isFar": true
-    },
-    {
-      "name": "Total Escape - Escape Room",
-      "distance": "4.2 mi",
-      "url": "https://www.google.com/maps/search/Total%20Escape%20-%20Escape%20Room+near+36.127860999999996%2C-80.2539443",
-      "isFar": true
     }
   ],
   "hotels": [
-    {
-      "name": "Cozy 3BR Home Near Fairgrounds and Downtown",
-      "distance": "0.3 mi",
-      "url": "https://www.google.com/maps/search/Cozy%203BR%20Home%20Near%20Fairgrounds%20and%20Downtown+near+36.127860999999996%2C-80.2539443"
-    },
     {
       "name": "Courtyard by Marriott Winston-Salem University",
       "distance": "0.5 mi",
@@ -205,11 +155,6 @@
       "url": "https://www.google.com/maps/search/Private%20Master%20Queen%20Room+near+36.127860999999996%2C-80.2539443"
     },
     {
-      "name": "Stunning 3-bedroom house near The Coliseum & Downtown",
-      "distance": "0.5 mi",
-      "url": "https://www.google.com/maps/search/Stunning%203-bedroom%20house%20near%20The%20Coliseum%20%26%20Downtown+near+36.127860999999996%2C-80.2539443"
-    },
-    {
       "name": "SmithJ&A Inc",
       "distance": "0.5 mi",
       "url": "https://www.google.com/maps/search/SmithJ%26A%20Inc+near+36.127860999999996%2C-80.2539443"
@@ -218,11 +163,6 @@
       "name": "Best Western Plus University Inn",
       "distance": "0.5 mi",
       "url": "https://www.google.com/maps/search/Best%20Western%20Plus%20University%20Inn+near+36.127860999999996%2C-80.2539443"
-    },
-    {
-      "name": "3 bedrooms 7min from downtown, college and hospital",
-      "distance": "0.5 mi",
-      "url": "https://www.google.com/maps/search/3%20bedrooms%207min%20from%20downtown%2C%20college%20and%20hospital+near+36.127860999999996%2C-80.2539443"
     }
   ],
   "gas": [
@@ -245,11 +185,6 @@
       "name": "KRISTY'S FD. MART #2",
       "distance": "0.8 mi",
       "url": "https://www.google.com/maps/search/KRISTY'S%20FD.%20MART%20%232+near+36.127860999999996%2C-80.2539443"
-    },
-    {
-      "name": "Gastown",
-      "distance": "0.9 mi",
-      "url": "https://www.google.com/maps/search/Gastown+near+36.127860999999996%2C-80.2539443"
     }
   ]
 }

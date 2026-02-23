@@ -6,11 +6,6 @@
       "url": "https://www.google.com/maps/search/?api=1&query=KFC&query_place_id=ChIJj-fpjv5MO4gRFsEi6KJMlgo&center=42.324393099999995,-83.3759549"
     },
     {
-      "name": "Popeyes Louisiana Kitchen",
-      "distance": "0.4 mi",
-      "url": "https://www.google.com/maps/search/?api=1&query=Popeyes%20Louisiana%20Kitchen&query_place_id=ChIJZ9uF4AFNO4gRssVbBRjyigI&center=42.324239299999995,-83.37889419999999"
-    },
-    {
       "name": "Dunkin'",
       "distance": "0.4 mi",
       "url": "https://www.google.com/maps/search/?api=1&query=Dunkin'&query_place_id=ChIJxcfEwwFNO4gR8Cz4j2tzHW0&center=42.3242302,-83.3797063"
@@ -34,21 +29,6 @@
       "name": "Firehouse Subs Westridge",
       "distance": "1.0 mi",
       "url": "https://www.google.com/maps/search/?api=1&query=Firehouse%20Subs%20Westridge&query_place_id=ChIJe1xT7BZNO4gRMEVD6MqQ400&center=42.338135,-83.39334"
-    },
-    {
-      "name": "Sonic Drive-In",
-      "distance": "1.0 mi",
-      "url": "https://www.google.com/maps/search/?api=1&query=Sonic%20Drive-In&query_place_id=ChIJvyrBuSNNO4gRQ-UL_yKUsV8&center=42.3439787,-83.3858604"
-    },
-    {
-      "name": "A&W Restaurant",
-      "distance": "1.1 mi",
-      "url": "https://www.google.com/maps/search/?api=1&query=A%26W%20Restaurant&query_place_id=ChIJY9oTWfNMO4gRcB-bpHDvfYg&center=42.3246797,-83.35802389999999"
-    },
-    {
-      "name": "Subway",
-      "distance": "1.1 mi",
-      "url": "https://www.google.com/maps/search/?api=1&query=Subway&query_place_id=ChIJm_AHrgtNO4gRDmhA9QvYUp4&center=42.324556699999995,-83.3970805"
     }
   ],
   "coffee": [
@@ -56,11 +36,6 @@
       "name": "Dunkin'",
       "distance": "0.4 mi",
       "url": "https://www.google.com/maps/search/?api=1&query=Dunkin'&query_place_id=ChIJxcfEwwFNO4gR8Cz4j2tzHW0&center=42.3242302,-83.3797063"
-    },
-    {
-      "name": "McDonald's",
-      "distance": "0.4 mi",
-      "url": "https://www.google.com/maps/search/?api=1&query=McDonald's&query_place_id=ChIJlQMRlf5MO4gR7K0_2peMStI&center=42.3241885,-83.3750376"
     },
     {
       "name": "Apollonia Cafe",
@@ -71,11 +46,6 @@
       "name": "Cafe Shkodra",
       "distance": "0.6 mi",
       "url": "https://www.google.com/maps/search/?api=1&query=Cafe%20Shkodra&query_place_id=ChIJc-q02gZNO4gRMFyXIKzyd7Y&center=42.3242046,-83.3850181"
-    },
-    {
-      "name": "McDonald's",
-      "distance": "0.7 mi",
-      "url": "https://www.google.com/maps/search/?api=1&query=McDonald's&query_place_id=ChIJsddptBhNO4gRCQhlBr3-VVQ&center=42.3393847,-83.3843232"
     }
   ],
   "team_lunch": [
@@ -125,11 +95,6 @@
       "name": "Angelo Brothers Ristorante & Banquet Hall",
       "distance": "0.5 mi",
       "url": "https://www.google.com/maps/search/Angelo%20Brothers%20Ristorante%20%26%20Banquet%20Hall+near+42.3302748%2C-83.37741729999999"
-    },
-    {
-      "name": "Hunter’s Pizza Chicken Soul Food",
-      "distance": "0.5 mi",
-      "url": "https://www.google.com/maps/search/Hunter%E2%80%99s%20Pizza%20Chicken%20Soul%20Food+near+42.3302748%2C-83.37741729999999"
     }
   ],
   "bowling": [
@@ -147,26 +112,6 @@
       "name": "Hamtramck Singles Classic",
       "distance": "2.0 mi",
       "url": "https://www.google.com/maps/search/Hamtramck%20Singles%20Classic+near+42.3302748%2C-83.37741729999999"
-    },
-    {
-      "name": "Vision Lanes",
-      "distance": "2.0 mi",
-      "url": "https://www.google.com/maps/search/Vision%20Lanes+near+42.3302748%2C-83.37741729999999"
-    },
-    {
-      "name": "Town 'n' Country Lanes",
-      "distance": "2.1 mi",
-      "url": "https://www.google.com/maps/search/Town%20'n'%20Country%20Lanes+near+42.3302748%2C-83.37741729999999"
-    },
-    {
-      "name": "Woodland Lanes",
-      "distance": "2.6 mi",
-      "url": "https://www.google.com/maps/search/Woodland%20Lanes+near+42.3302748%2C-83.37741729999999"
-    },
-    {
-      "name": "Oak Lanes",
-      "distance": "2.8 mi",
-      "url": "https://www.google.com/maps/search/Oak%20Lanes+near+42.3302748%2C-83.37741729999999"
     }
   ],
   "arcade": [],
@@ -208,22 +153,6 @@
       "name": "Sportway of Westland",
       "distance": "2.2 mi",
       "url": "https://www.google.com/maps/search/Sportway%20of%20Westland+near+42.3302748%2C-83.37741729999999"
-    },
-    {
-      "name": "Yoyo's Fun Center",
-      "distance": "2.7 mi",
-      "url": "https://www.google.com/maps/search/Yoyo's%20Fun%20Center+near+42.3302748%2C-83.37741729999999"
-    },
-    {
-      "name": "Roberson's Fun Center",
-      "distance": "2.9 mi",
-      "url": "https://www.google.com/maps/search/Roberson's%20Fun%20Center+near+42.3302748%2C-83.37741729999999"
-    },
-    {
-      "name": "Bounce It Up",
-      "distance": "3.3 mi",
-      "url": "https://www.google.com/maps/search/Bounce%20It%20Up+near+42.3302748%2C-83.37741729999999",
-      "isFar": true
     }
   ],
   "hotels": [
@@ -231,31 +160,6 @@
       "name": "Hollifield Hospitality LLc",
       "distance": "0.7 mi",
       "url": "https://www.google.com/maps/search/Hollifield%20Hospitality%20LLc+near+42.3302748%2C-83.37741729999999"
-    },
-    {
-      "name": "Game Time- 3 bed, 1 bath whole house",
-      "distance": "0.8 mi",
-      "url": "https://www.google.com/maps/search/Game%20Time-%203%20bed%2C%201%20bath%20whole%20house+near+42.3302748%2C-83.37741729999999"
-    },
-    {
-      "name": "Tremendous 3-bedroom house with AC in welcoming Westland",
-      "distance": "0.9 mi",
-      "url": "https://www.google.com/maps/search/Tremendous%203-bedroom%20house%20with%20AC%20in%20welcoming%20Westland+near+42.3302748%2C-83.37741729999999"
-    },
-    {
-      "name": "Modern meets Elegance in this 3 bedroom home. - Three-Bedroom Villa",
-      "distance": "0.9 mi",
-      "url": "https://www.google.com/maps/search/Modern%20meets%20Elegance%20in%20this%203%20bedroom%20home.%20-%20Three-Bedroom%20Villa+near+42.3302748%2C-83.37741729999999"
-    },
-    {
-      "name": "3 bedroom 2 bathroom whole house- up to 8 people",
-      "distance": "0.9 mi",
-      "url": "https://www.google.com/maps/search/3%20bedroom%202%20bathroom%20whole%20house-%20up%20to%208%20people+near+42.3302748%2C-83.37741729999999"
-    },
-    {
-      "name": "3 bedroom 2 bathroom whole house- up to 8 people",
-      "distance": "0.9 mi",
-      "url": "https://www.google.com/maps/search/3%20bedroom%202%20bathroom%20whole%20house-%20up%20to%208%20people+near+42.3302748%2C-83.37741729999999"
     },
     {
       "name": "Modern Home Located in Westland",
@@ -283,11 +187,6 @@
       "name": "Shell and B & M family",
       "distance": "0.8 mi",
       "url": "https://www.google.com/maps/search/Shell%20and%20B%20%26%20M%20family+near+42.3302748%2C-83.37741729999999"
-    },
-    {
-      "name": "Shell",
-      "distance": "0.8 mi",
-      "url": "https://www.google.com/maps/search/Shell+near+42.3302748%2C-83.37741729999999"
     }
   ]
 }

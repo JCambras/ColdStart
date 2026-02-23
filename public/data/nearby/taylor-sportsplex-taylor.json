@@ -29,26 +29,6 @@
       "name": "Subway",
       "distance": "0.9 mi",
       "url": "https://www.google.com/maps/search/?api=1&query=Subway&query_place_id=ChIJX7hgcQhIO4gRRZSPO7_p3Aw&center=42.196816,-83.261279"
-    },
-    {
-      "name": "Del Taco",
-      "distance": "1.0 mi",
-      "url": "https://www.google.com/maps/search/?api=1&query=Del%20Taco&query_place_id=ChIJkdTieA5JO4gRKPaUYM3270g&center=42.22373350000001,-83.26976379999999"
-    },
-    {
-      "name": "Chick-fil-A",
-      "distance": "1.1 mi",
-      "url": "https://www.google.com/maps/search/?api=1&query=Chick-fil-A&query_place_id=ChIJnRpDYABJO4gRtaoN6boIaOc&center=42.1985113,-83.2506561"
-    },
-    {
-      "name": "Penn Station East Coast Subs",
-      "distance": "1.2 mi",
-      "url": "https://www.google.com/maps/search/?api=1&query=Penn%20Station%20East%20Coast%20Subs&query_place_id=ChIJE9iVRf43O4gRk-9-YAtFTxw&center=42.1985582,-83.24882339999999"
-    },
-    {
-      "name": "Long John Silver's",
-      "distance": "1.2 mi",
-      "url": "https://www.google.com/maps/search/?api=1&query=Long%20John%20Silver's&query_place_id=ChIJ_eiV9yJJO4gR0x_5ljfkfF4&center=42.226934,-83.2685257"
     }
   ],
   "coffee": [
@@ -71,16 +51,6 @@
       "name": "Starbucks Coffee Company",
       "distance": "0.8 mi",
       "url": "https://www.google.com/maps/search/?api=1&query=Starbucks%20Coffee%20Company&query_place_id=ChIJRWgIAAdIO4gRnNX_Zihq4pY&center=42.19838,-83.26035"
-    },
-    {
-      "name": "McDonald's",
-      "distance": "0.9 mi",
-      "url": "https://www.google.com/maps/search/?api=1&query=McDonald's&query_place_id=ChIJpy6K6QdIO4gRf4X7sFvEwiA&center=42.19717,-83.2602434"
-    },
-    {
-      "name": "McDonald's",
-      "distance": "1.6 mi",
-      "url": "https://www.google.com/maps/search/?api=1&query=McDonald's&query_place_id=ChIJeejfxjVIO4gR6e26rIcnAxM&center=42.232098300000004,-83.27018699999999"
     }
   ],
   "team_lunch": [
@@ -158,18 +128,6 @@
       "distance": "3.2 mi",
       "url": "https://www.google.com/maps/search/Skore%20Lanes+near+42.209297%2C-83.2666596",
       "isFar": true
-    },
-    {
-      "name": "Ford Lanes Bowling Center",
-      "distance": "4.2 mi",
-      "url": "https://www.google.com/maps/search/Ford%20Lanes%20Bowling%20Center+near+42.209297%2C-83.2666596",
-      "isFar": true
-    },
-    {
-      "name": "Roosevelt Lanes Recreation",
-      "distance": "4.4 mi",
-      "url": "https://www.google.com/maps/search/Roosevelt%20Lanes%20Recreation+near+42.209297%2C-83.2666596",
-      "isFar": true
     }
   ],
   "arcade": [],
@@ -206,27 +164,9 @@
       "isFar": true
     },
     {
-      "name": "Spray Pad",
-      "distance": "4.0 mi",
-      "url": "https://www.google.com/maps/search/Spray%20Pad+near+42.209297%2C-83.2666596",
-      "isFar": true
-    },
-    {
       "name": "Midway Sports & Entertainment",
       "distance": "4.2 mi",
       "url": "https://www.google.com/maps/search/Midway%20Sports%20%26%20Entertainment+near+42.209297%2C-83.2666596",
-      "isFar": true
-    },
-    {
-      "name": "Spray Pad",
-      "distance": "4.2 mi",
-      "url": "https://www.google.com/maps/search/Spray%20Pad+near+42.209297%2C-83.2666596",
-      "isFar": true
-    },
-    {
-      "name": "Mystery Escapes LLC",
-      "distance": "4.7 mi",
-      "url": "https://www.google.com/maps/search/Mystery%20Escapes%20LLC+near+42.209297%2C-83.2666596",
       "isFar": true
     }
   ],
@@ -242,19 +182,9 @@
       "url": "https://www.google.com/maps/search/PEOPLES+near+42.209297%2C-83.2666596"
     },
     {
-      "name": "3-bedroom house in charming Taylor close to Downtown Detroit",
-      "distance": "0.5 mi",
-      "url": "https://www.google.com/maps/search/3-bedroom%20house%20in%20charming%20Taylor%20close%20to%20Downtown%20Detroit+near+42.209297%2C-83.2666596"
-    },
-    {
       "name": "Northern Comfort",
       "distance": "0.6 mi",
       "url": "https://www.google.com/maps/search/Northern%20Comfort+near+42.209297%2C-83.2666596"
-    },
-    {
-      "name": "Northern Comfort- Lovely 2-bedroom condo.",
-      "distance": "0.6 mi",
-      "url": "https://www.google.com/maps/search/Northern%20Comfort-%20Lovely%202-bedroom%20condo.+near+42.209297%2C-83.2666596"
     },
     {
       "name": "Home2 Suites by Hilton Taylor Detroit",
@@ -287,11 +217,6 @@
       "name": "Mobil",
       "distance": "0.8 mi",
       "url": "https://www.google.com/maps/search/Mobil+near+42.209297%2C-83.2666596"
-    },
-    {
-      "name": "Amoco",
-      "distance": "1.1 mi",
-      "url": "https://www.google.com/maps/search/Amoco+near+42.209297%2C-83.2666596"
     }
   ]
 }

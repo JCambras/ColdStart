@@ -48,11 +48,6 @@
       "name": "Yummy Box",
       "distance": "0.2 mi",
       "url": "https://www.google.com/maps/search/Yummy%20Box+near+32.9102756%2C-96.6930715"
-    },
-    {
-      "name": "Mom and Pop Taco Truck",
-      "distance": "0.2 mi",
-      "url": "https://www.google.com/maps/search/Mom%20and%20Pop%20Taco%20Truck+near+32.9102756%2C-96.6930715"
     }
   ],
   "dinner": [
@@ -85,11 +80,6 @@
       "name": "FISH TRAP'N",
       "distance": "0.2 mi",
       "url": "https://www.google.com/maps/search/FISH%20TRAP'N+near+32.9102756%2C-96.6930715"
-    },
-    {
-      "name": "Nana Dot's Southern Sweets",
-      "distance": "0.2 mi",
-      "url": "https://www.google.com/maps/search/Nana%20Dot's%20Southern%20Sweets+near+32.9102756%2C-96.6930715"
     }
   ],
   "bowling": [
@@ -116,30 +106,6 @@
       "name": "Regal UA Galaxy - Dallas",
       "distance": "3.0 mi",
       "url": "https://www.google.com/maps/search/Regal%20UA%20Galaxy%20-%20Dallas+near+32.9102756%2C-96.6930715"
-    },
-    {
-      "name": "Alamo Drafthouse Cinema Richardson",
-      "distance": "3.8 mi",
-      "url": "https://www.google.com/maps/search/Alamo%20Drafthouse%20Cinema%20Richardson+near+32.9102756%2C-96.6930715",
-      "isFar": true
-    },
-    {
-      "name": "Studio Movie Grill",
-      "distance": "3.9 mi",
-      "url": "https://www.google.com/maps/search/Studio%20Movie%20Grill+near+32.9102756%2C-96.6930715",
-      "isFar": true
-    },
-    {
-      "name": "Alamo Drafthouse Cinema Lake Highlands",
-      "distance": "4.1 mi",
-      "url": "https://www.google.com/maps/search/Alamo%20Drafthouse%20Cinema%20Lake%20Highlands+near+32.9102756%2C-96.6930715",
-      "isFar": true
-    },
-    {
-      "name": "Studio Movie Grill",
-      "distance": "4.4 mi",
-      "url": "https://www.google.com/maps/search/Studio%20Movie%20Grill+near+32.9102756%2C-96.6930715",
-      "isFar": true
     }
   ],
   "fun": [
@@ -164,37 +130,9 @@
       "distance": "3.6 mi",
       "url": "https://www.google.com/maps/search/NickelRama+near+32.9102756%2C-96.6930715",
       "isFar": true
-    },
-    {
-      "name": "Hawaiian Waters Garland",
-      "distance": "4.0 mi",
-      "url": "https://www.google.com/maps/search/Hawaiian%20Waters%20Garland+near+32.9102756%2C-96.6930715",
-      "isFar": true
-    },
-    {
-      "name": "Jumping World",
-      "distance": "4.1 mi",
-      "url": "https://www.google.com/maps/search/Jumping%20World+near+32.9102756%2C-96.6930715",
-      "isFar": true
-    },
-    {
-      "name": "Slick City Action Park",
-      "distance": "4.3 mi",
-      "url": "https://www.google.com/maps/search/Slick%20City%20Action%20Park+near+32.9102756%2C-96.6930715",
-      "isFar": true
     }
   ],
   "hotels": [
-    {
-      "name": "Cozy apartment /Studio in lovely Garland with WiFi, AC",
-      "distance": "0.6 mi",
-      "url": "https://www.google.com/maps/search/Cozy%20apartment%20%2FStudio%20in%20lovely%20Garland%20with%20WiFi%2C%20AC+near+32.9102756%2C-96.6930715"
-    },
-    {
-      "name": "Cozy apartment/Studio in lovely Garland with WiFi, AC",
-      "distance": "0.6 mi",
-      "url": "https://www.google.com/maps/search/Cozy%20apartment%2FStudio%20in%20lovely%20Garland%20with%20WiFi%2C%20AC+near+32.9102756%2C-96.6930715"
-    },
     {
       "name": "Rudaties",
       "distance": "0.6 mi",
@@ -214,11 +152,6 @@
       "name": "Park Forest Inn",
       "distance": "0.6 mi",
       "url": "https://www.google.com/maps/search/Park%20Forest%20Inn+near+32.9102756%2C-96.6930715"
-    },
-    {
-      "name": "Private room, private bath & kitchen",
-      "distance": "0.7 mi",
-      "url": "https://www.google.com/maps/search/Private%20room%2C%20private%20bath%20%26%20kitchen+near+32.9102756%2C-96.6930715"
     }
   ],
   "gas": [
@@ -241,11 +174,6 @@
       "name": "Texaco Dallas",
       "distance": "0.5 mi",
       "url": "https://www.google.com/maps/search/Texaco%20Dallas+near+32.9102756%2C-96.6930715"
-    },
-    {
-      "name": "Texaco Garland",
-      "distance": "0.6 mi",
-      "url": "https://www.google.com/maps/search/Texaco%20Garland+near+32.9102756%2C-96.6930715"
     }
   ]
 }

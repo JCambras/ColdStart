@@ -6,11 +6,6 @@
       "url": "https://www.google.com/maps/search/Subway+near+33.1531787%2C-87.52537370000002"
     },
     {
-      "name": "Subway",
-      "distance": "0.9 mi",
-      "url": "https://www.google.com/maps/search/Subway+near+33.1531787%2C-87.52537370000002"
-    },
-    {
       "name": "Sonic Drive-In",
       "distance": "0.9 mi",
       "url": "https://www.google.com/maps/search/Sonic%20Drive-In+near+33.1531787%2C-87.52537370000002"
@@ -36,18 +31,7 @@
       "url": "https://www.google.com/maps/search/Chuck%20E.%20Cheese+near+33.1531787%2C-87.52537370000002"
     }
   ],
-  "coffee": [
-    {
-      "name": "McDonald's",
-      "distance": "0.8 mi",
-      "url": "https://www.google.com/maps/search/McDonald's+near+33.1531787%2C-87.52537370000002"
-    },
-    {
-      "name": "Sam's Club Cafe",
-      "distance": "0.9 mi",
-      "url": "https://www.google.com/maps/search/Sam's%20Club%20Cafe+near+33.1531787%2C-87.52537370000002"
-    }
-  ],
+  "coffee": [],
   "team_lunch": [
     {
       "name": "California Love Pizza",
@@ -73,16 +57,6 @@
       "name": "Hunt Brothers Pizza",
       "distance": "0.9 mi",
       "url": "https://www.google.com/maps/search/Hunt%20Brothers%20Pizza+near+33.1531787%2C-87.52537370000002"
-    },
-    {
-      "name": "Sam's Club Bakery",
-      "distance": "0.9 mi",
-      "url": "https://www.google.com/maps/search/Sam's%20Club%20Bakery+near+33.1531787%2C-87.52537370000002"
-    },
-    {
-      "name": "Walmart Bakery",
-      "distance": "0.9 mi",
-      "url": "https://www.google.com/maps/search/Walmart%20Bakery+near+33.1531787%2C-87.52537370000002"
     }
   ],
   "dinner": [
@@ -146,21 +120,6 @@
       "url": "https://www.google.com/maps/search/Kennedy's%20Korner%20RV%20Park+near+33.1531787%2C-87.52537370000002"
     },
     {
-      "name": "Spacious 4-bedroom house with AC, WiFi in charming Tuscaloosa",
-      "distance": "0.4 mi",
-      "url": "https://www.google.com/maps/search/Spacious%204-bedroom%20house%20with%20AC%2C%20WiFi%20in%20charming%20Tuscaloosa+near+33.1531787%2C-87.52537370000002"
-    },
-    {
-      "name": "Bama's Southern Comfort NAICS 721192 - Four-Bedroom House",
-      "distance": "0.6 mi",
-      "url": "https://www.google.com/maps/search/Bama's%20Southern%20Comfort%20NAICS%20721192%20-%20Four-Bedroom%20House+near+33.1531787%2C-87.52537370000002"
-    },
-    {
-      "name": "4br house in brilliant Tuscaloosa just 5 miles from the Stadium! Enjoy your stay",
-      "distance": "0.7 mi",
-      "url": "https://www.google.com/maps/search/4br%20house%20in%20brilliant%20Tuscaloosa%20just%205%20miles%20from%20the%20Stadium!%20Enjoy%20your%20stay+near+33.1531787%2C-87.52537370000002"
-    },
-    {
       "name": "Country Inn & Suites by Radisson, Tuscaloosa, AL",
       "distance": "0.7 mi",
       "url": "https://www.google.com/maps/search/Country%20Inn%20%26%20Suites%20by%20Radisson%2C%20Tuscaloosa%2C%20AL+near+33.1531787%2C-87.52537370000002"
@@ -196,11 +155,6 @@
       "name": "Sam's Club Gas Station",
       "distance": "1.0 mi",
       "url": "https://www.google.com/maps/search/Sam's%20Club%20Gas%20Station+near+33.1531787%2C-87.52537370000002"
-    },
-    {
-      "name": "Circle K | Gas Station",
-      "distance": "1.1 mi",
-      "url": "https://www.google.com/maps/search/Circle%20K%20%7C%20Gas%20Station+near+33.1531787%2C-87.52537370000002"
     }
   ]
 }

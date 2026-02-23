@@ -45,11 +45,6 @@
   ],
   "team_lunch": [
     {
-      "name": "Red River Kitchen at Braemar",
-      "distance": "0.5 mi",
-      "url": "https://www.google.com/maps/search/Red%20River%20Kitchen%20at%20Braemar+near+44.8685896%2C-93.3947499"
-    },
-    {
       "name": "Rhody's Craft House and Grill",
       "distance": "0.6 mi",
       "url": "https://www.google.com/maps/search/Rhody's%20Craft%20House%20and%20Grill+near+44.8685896%2C-93.3947499"
@@ -134,12 +129,6 @@
       "distance": "4.0 mi",
       "url": "https://www.google.com/maps/search/Hopkins%20Community%20Cinema+near+44.8685896%2C-93.3947499",
       "isFar": true
-    },
-    {
-      "name": "Edina Mann Theatre",
-      "distance": "4.4 mi",
-      "url": "https://www.google.com/maps/search/Edina%20Mann%20Theatre+near+44.8685896%2C-93.3947499",
-      "isFar": true
     }
   ],
   "fun": [
@@ -162,23 +151,6 @@
       "name": "Game Show Studio Eden Prairie",
       "distance": "1.8 mi",
       "url": "https://www.google.com/maps/search/Game%20Show%20Studio%20Eden%20Prairie+near+44.8685896%2C-93.3947499"
-    },
-    {
-      "name": "Missing Pieces Escape Games",
-      "distance": "1.9 mi",
-      "url": "https://www.google.com/maps/search/Missing%20Pieces%20Escape%20Games+near+44.8685896%2C-93.3947499"
-    },
-    {
-      "name": "Lock and Key Escape Rooms",
-      "distance": "3.6 mi",
-      "url": "https://www.google.com/maps/search/Lock%20and%20Key%20Escape%20Rooms+near+44.8685896%2C-93.3947499",
-      "isFar": true
-    },
-    {
-      "name": "Edinborough Park",
-      "distance": "3.6 mi",
-      "url": "https://www.google.com/maps/search/Edinborough%20Park+near+44.8685896%2C-93.3947499",
-      "isFar": true
     }
   ],
   "hotels": [
@@ -211,11 +183,6 @@
       "name": "Everything You Need For The Perfect Vacation! Pool, Parking, Pets Allowed w/ Fee",
       "distance": "1.4 mi",
       "url": "https://www.google.com/maps/search/Everything%20You%20Need%20For%20The%20Perfect%20Vacation!%20Pool%2C%20Parking%2C%20Pets%20Allowed%20w%2F%20Fee+near+44.8685896%2C-93.3947499"
-    },
-    {
-      "name": "EdenPrairie Townhome -Pool-Patio-beach-park-shop",
-      "distance": "1.5 mi",
-      "url": "https://www.google.com/maps/search/EdenPrairie%20Townhome%20-Pool-Patio-beach-park-shop+near+44.8685896%2C-93.3947499"
     }
   ],
   "gas": [
@@ -238,11 +205,6 @@
       "name": "Speedway",
       "distance": "1.9 mi",
       "url": "https://www.google.com/maps/search/Speedway+near+44.8685896%2C-93.3947499"
-    },
-    {
-      "name": "bp",
-      "distance": "2.0 mi",
-      "url": "https://www.google.com/maps/search/bp+near+44.8685896%2C-93.3947499"
     }
   ]
 }

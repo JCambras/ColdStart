@@ -29,26 +29,6 @@
       "name": "Taco Bell",
       "distance": "1.4 mi",
       "url": "https://www.google.com/maps/search/?api=1&query=Taco%20Bell&query_place_id=ChIJgZ-Zt58v6IkRHsVoV0O1GIY&center=40.838918799999995,-73.3220642"
-    },
-    {
-      "name": "Dairy Queen Grill & Chill",
-      "distance": "1.5 mi",
-      "url": "https://www.google.com/maps/search/?api=1&query=Dairy%20Queen%20Grill%20%26%20Chill&query_place_id=ChIJKxfmm54v6IkRXEaXRdyM8t4&center=40.8400114,-73.31947219999999"
-    },
-    {
-      "name": "Wendy's",
-      "distance": "1.9 mi",
-      "url": "https://www.google.com/maps/search/?api=1&query=Wendy's&query_place_id=ChIJ4xv_2TEv6IkRFhI3VWBsLqU&center=40.8328923,-73.3630056"
-    },
-    {
-      "name": "Burger King",
-      "distance": "1.9 mi",
-      "url": "https://www.google.com/maps/search/?api=1&query=Burger%20King&query_place_id=ChIJP4sZDZEv6IkRKelaAQLx_2w&center=40.841541299999996,-73.30808309999999"
-    },
-    {
-      "name": "Chick-fil-A",
-      "distance": "2.2 mi",
-      "url": "https://www.google.com/maps/search/?api=1&query=Chick-fil-A&query_place_id=ChIJBTvmUjEu6IkRR3OH6QpNS6c&center=40.8078141,-73.29376169999999"
     }
   ],
   "coffee": [
@@ -56,11 +36,6 @@
       "name": "Dunkin'",
       "distance": "1.2 mi",
       "url": "https://www.google.com/maps/search/?api=1&query=Dunkin'&query_place_id=ChIJGSHrOg0v6IkRqZJ3clBRS6k&center=40.837598799999995,-73.33365839999999"
-    },
-    {
-      "name": "McDonald's",
-      "distance": "1.3 mi",
-      "url": "https://www.google.com/maps/search/?api=1&query=McDonald's&query_place_id=ChIJmwHWlHQv6IkRUh_QfjqDSN0&center=40.838943799999996,-73.3278619"
     },
     {
       "name": "Commack Bagels Deli Market",
@@ -98,11 +73,6 @@
       "name": "The Everything Bagel",
       "distance": "1.7 mi",
       "url": "https://www.google.com/maps/search/?api=1&query=The%20Everything%20Bagel&query_place_id=ChIJOV25XyUv6IkRuGeOhzumYNg&center=40.831643799999995,-73.3598366"
-    },
-    {
-      "name": "Bagel Basket Cafe",
-      "distance": "2.0 mi",
-      "url": "https://www.google.com/maps/search/?api=1&query=Bagel%20Basket%20Cafe&query_place_id=ChIJB1Ffn8wv6IkRtqbF-nyH1FY&center=40.8132259,-73.29353569999999"
     }
   ],
   "dinner": [

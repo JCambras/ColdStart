@@ -26,30 +26,14 @@
       "url": "https://www.google.com/maps/search/Bird%20Cage%20Express+near+36.201446499999996%2C-115.1941528"
     },
     {
-      "name": "Subway",
-      "distance": "0.8 mi",
-      "url": "https://www.google.com/maps/search/Subway+near+36.201446499999996%2C-115.1941528"
-    },
-    {
       "name": "Chuck E. Cheese",
       "distance": "3.3 mi",
       "url": "https://www.google.com/maps/search/Chuck%20E.%20Cheese+near+36.201446499999996%2C-115.1941528",
       "isFar": true
     }
   ],
-  "coffee": [
-    {
-      "name": "McDonald's",
-      "distance": "0.8 mi",
-      "url": "https://www.google.com/maps/search/McDonald's+near+36.201446499999996%2C-115.1941528"
-    }
-  ],
+  "coffee": [],
   "team_lunch": [
-    {
-      "name": "Walmart Bakery",
-      "distance": "0.2 mi",
-      "url": "https://www.google.com/maps/search/Walmart%20Bakery+near+36.201446499999996%2C-115.1941528"
-    },
     {
       "name": "Tacos don relles",
       "distance": "0.6 mi",
@@ -91,11 +75,6 @@
       "name": "Barbacoa Kings",
       "distance": "0.7 mi",
       "url": "https://www.google.com/maps/search/Barbacoa%20Kings+near+36.201446499999996%2C-115.1941528"
-    },
-    {
-      "name": "Mexican Food Plus",
-      "distance": "0.7 mi",
-      "url": "https://www.google.com/maps/search/Mexican%20Food%20Plus+near+36.201446499999996%2C-115.1941528"
     }
   ],
   "bowling": [
@@ -122,18 +101,6 @@
       "distance": "3.7 mi",
       "url": "https://www.google.com/maps/search/%D8%B3%DB%8C%D9%86%D9%85%D8%A7%20%D8%AD%D8%A8%D8%A7%D8%A8%DB%8C+near+36.201446499999996%2C-115.1941528",
       "isFar": true
-    },
-    {
-      "name": "Maya Cinemas North Las Vegas",
-      "distance": "3.8 mi",
-      "url": "https://www.google.com/maps/search/Maya%20Cinemas%20North%20Las%20Vegas+near+36.201446499999996%2C-115.1941528",
-      "isFar": true
-    },
-    {
-      "name": "The Beverly Theater",
-      "distance": "3.9 mi",
-      "url": "https://www.google.com/maps/search/The%20Beverly%20Theater+near+36.201446499999996%2C-115.1941528",
-      "isFar": true
     }
   ],
   "fun": [
@@ -148,24 +115,9 @@
       "url": "https://www.google.com/maps/search/MarketMaster+near+36.201446499999996%2C-115.1941528"
     },
     {
-      "name": "Splash Pad",
-      "distance": "2.2 mi",
-      "url": "https://www.google.com/maps/search/Splash%20Pad+near+36.201446499999996%2C-115.1941528"
-    },
-    {
-      "name": "Splash Pad",
-      "distance": "2.7 mi",
-      "url": "https://www.google.com/maps/search/Splash%20Pad+near+36.201446499999996%2C-115.1941528"
-    },
-    {
       "name": "Escape IT",
       "distance": "2.8 mi",
       "url": "https://www.google.com/maps/search/Escape%20IT+near+36.201446499999996%2C-115.1941528"
-    },
-    {
-      "name": "Splash Pad",
-      "distance": "2.9 mi",
-      "url": "https://www.google.com/maps/search/Splash%20Pad+near+36.201446499999996%2C-115.1941528"
     },
     {
       "name": "Sky Zone Trampoline Park",
@@ -184,26 +136,6 @@
       "name": "Private Vegas Casitas",
       "distance": "0.5 mi",
       "url": "https://www.google.com/maps/search/Private%20Vegas%20Casitas+near+36.201446499999996%2C-115.1941528"
-    },
-    {
-      "name": "Las Vegas Oasis - Two-Bedroom Apartment",
-      "distance": "0.6 mi",
-      "url": "https://www.google.com/maps/search/Las%20Vegas%20Oasis%20-%20Two-Bedroom%20Apartment+near+36.201446499999996%2C-115.1941528"
-    },
-    {
-      "name": "Private King Bedroom Downstairs",
-      "distance": "0.6 mi",
-      "url": "https://www.google.com/maps/search/Private%20King%20Bedroom%20Downstairs+near+36.201446499999996%2C-115.1941528"
-    },
-    {
-      "name": "Charming 3-bedroom cottage in fantastic Las Vegas with Pool",
-      "distance": "0.6 mi",
-      "url": "https://www.google.com/maps/search/Charming%203-bedroom%20cottage%20in%20fantastic%20Las%20Vegas%20with%20Pool+near+36.201446499999996%2C-115.1941528"
-    },
-    {
-      "name": "Pet Friendly Boutique Resort on an Acre of Land",
-      "distance": "0.6 mi",
-      "url": "https://www.google.com/maps/search/Pet%20Friendly%20Boutique%20Resort%20on%20an%20Acre%20of%20Land+near+36.201446499999996%2C-115.1941528"
     },
     {
       "name": "Landing | Amazing 2BD, Gym",
@@ -231,11 +163,6 @@
       "name": "Circle K | Gas Station",
       "distance": "0.6 mi",
       "url": "https://www.google.com/maps/search/Circle%20K%20%7C%20Gas%20Station+near+36.201446499999996%2C-115.1941528"
-    },
-    {
-      "name": "Chevron",
-      "distance": "0.8 mi",
-      "url": "https://www.google.com/maps/search/Chevron+near+36.201446499999996%2C-115.1941528"
     }
   ]
 }

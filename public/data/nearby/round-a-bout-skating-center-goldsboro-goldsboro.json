@@ -29,19 +29,9 @@
       "name": "Olive Garden Italian Restaurant",
       "distance": "0.5 mi",
       "url": "https://www.google.com/maps/search/Olive%20Garden%20Italian%20Restaurant+near+35.3820682%2C-77.93314219999999"
-    },
-    {
-      "name": "Chuck E. Cheese",
-      "distance": "1.2 mi",
-      "url": "https://www.google.com/maps/search/Chuck%20E.%20Cheese+near+35.3820682%2C-77.93314219999999"
     }
   ],
   "coffee": [
-    {
-      "name": "Sam's Club Cafe",
-      "distance": "0.2 mi",
-      "url": "https://www.google.com/maps/search/Sam's%20Club%20Cafe+near+35.3820682%2C-77.93314219999999"
-    },
     {
       "name": "Starbucks Coffee Company",
       "distance": "0.4 mi",
@@ -132,14 +122,7 @@
       "url": "https://www.google.com/maps/search/Premiere%20Theatre%2012+near+35.3820682%2C-77.93314219999999"
     }
   ],
-  "fun": [
-    {
-      "name": "Downtown Escapes",
-      "distance": "3.5 mi",
-      "url": "https://www.google.com/maps/search/Downtown%20Escapes+near+35.3820682%2C-77.93314219999999",
-      "isFar": true
-    }
-  ],
+  "fun": [],
   "hotels": [
     {
       "name": "Irish Inn",
@@ -155,11 +138,6 @@
       "name": "Quality Inn Goldsboro",
       "distance": "0.6 mi",
       "url": "https://www.google.com/maps/search/Quality%20Inn%20Goldsboro+near+35.3820682%2C-77.93314219999999"
-    },
-    {
-      "name": "Tanglewood Mobile Home Park",
-      "distance": "0.6 mi",
-      "url": "https://www.google.com/maps/search/Tanglewood%20Mobile%20Home%20Park+near+35.3820682%2C-77.93314219999999"
     },
     {
       "name": "Holiday Inn Express & Suites Goldsboro - Base Area by IHG",
@@ -197,11 +175,6 @@
       "name": "bp",
       "distance": "0.8 mi",
       "url": "https://www.google.com/maps/search/bp+near+35.3820682%2C-77.93314219999999"
-    },
-    {
-      "name": "Circle K | Gas Station",
-      "distance": "0.8 mi",
-      "url": "https://www.google.com/maps/search/Circle%20K%20%7C%20Gas%20Station+near+35.3820682%2C-77.93314219999999"
     }
   ]
 }

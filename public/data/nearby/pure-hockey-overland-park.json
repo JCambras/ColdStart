@@ -1,11 +1,6 @@
 {
   "quick_bite": [
     {
-      "name": "Wiener Kitchen",
-      "distance": "0.1 mi",
-      "url": "https://www.google.com/maps/search/Wiener%20Kitchen+near+38.9699953%2C-94.6971633"
-    },
-    {
       "name": "Arby's",
       "distance": "0.1 mi",
       "url": "https://www.google.com/maps/search/Arby's+near+38.9699953%2C-94.6971633"
@@ -41,11 +36,6 @@
       "name": "Bear Necessities Coffee Bar",
       "distance": "0.1 mi",
       "url": "https://www.google.com/maps/search/Bear%20Necessities%20Coffee%20Bar+near+38.9699953%2C-94.6971633"
-    },
-    {
-      "name": "McDonald's",
-      "distance": "0.1 mi",
-      "url": "https://www.google.com/maps/search/McDonald's+near+38.9699953%2C-94.6971633"
     },
     {
       "name": "Scooter's Coffee",
@@ -94,11 +84,6 @@
       "name": "India Palace",
       "distance": "0.3 mi",
       "url": "https://www.google.com/maps/search/India%20Palace+near+38.9699953%2C-94.6971633"
-    },
-    {
-      "name": "Becks Place Overland Park",
-      "distance": "0.3 mi",
-      "url": "https://www.google.com/maps/search/Becks%20Place%20Overland%20Park+near+38.9699953%2C-94.6971633"
     }
   ],
   "bowling": [
@@ -164,41 +149,13 @@
       "distance": "3.5 mi",
       "url": "https://www.google.com/maps/search/Tick%20Tock%20Escape%20Room+near+38.9699953%2C-94.6971633",
       "isFar": true
-    },
-    {
-      "name": "Splash Cove",
-      "distance": "3.9 mi",
-      "url": "https://www.google.com/maps/search/Splash%20Cove+near+38.9699953%2C-94.6971633",
-      "isFar": true
-    },
-    {
-      "name": "Urban Air Trampoline and Adventure Park",
-      "distance": "4.1 mi",
-      "url": "https://www.google.com/maps/search/Urban%20Air%20Trampoline%20and%20Adventure%20Park+near+38.9699953%2C-94.6971633",
-      "isFar": true
-    },
-    {
-      "name": "Activate Games",
-      "distance": "4.3 mi",
-      "url": "https://www.google.com/maps/search/Activate%20Games+near+38.9699953%2C-94.6971633",
-      "isFar": true
     }
   ],
   "hotels": [
     {
-      "name": "Spacious Kansas Cape Cottage - 4BR/2.5BA Home with Huge Yard in OP - Sleeps 10!",
-      "distance": "0.3 mi",
-      "url": "https://www.google.com/maps/search/Spacious%20Kansas%20Cape%20Cottage%20-%204BR%2F2.5BA%20Home%20with%20Huge%20Yard%20in%20OP%20-%20Sleeps%2010!+near+38.9699953%2C-94.6971633"
-    },
-    {
       "name": "The Farley House",
       "distance": "0.4 mi",
       "url": "https://www.google.com/maps/search/The%20Farley%20House+near+38.9699953%2C-94.6971633"
-    },
-    {
-      "name": "Overland Park Home-3 bdrm/2 bath-Double Car Garage-video tour-3rd picture",
-      "distance": "0.4 mi",
-      "url": "https://www.google.com/maps/search/Overland%20Park%20Home-3%20bdrm%2F2%20bath-Double%20Car%20Garage-video%20tour-3rd%20picture+near+38.9699953%2C-94.6971633"
     },
     {
       "name": "Newly renovated duplex for 8 - part II",
@@ -241,11 +198,6 @@
       "name": "bp",
       "distance": "0.7 mi",
       "url": "https://www.google.com/maps/search/bp+near+38.9699953%2C-94.6971633"
-    },
-    {
-      "name": "Chenpidex",
-      "distance": "0.7 mi",
-      "url": "https://www.google.com/maps/search/Chenpidex+near+38.9699953%2C-94.6971633"
     }
   ]
 }

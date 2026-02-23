@@ -29,11 +29,6 @@
       "name": "Five Guys",
       "distance": "0.2 mi",
       "url": "https://www.google.com/maps/search/Five%20Guys+near+47.7064058%2C-122.32522569999999"
-    },
-    {
-      "name": "Subway",
-      "distance": "0.3 mi",
-      "url": "https://www.google.com/maps/search/Subway+near+47.7064058%2C-122.32522569999999"
     }
   ],
   "coffee": [
@@ -132,17 +127,6 @@
       "name": "Grand Illusion Cinema",
       "distance": "2.9 mi",
       "url": "https://www.google.com/maps/search/Grand%20Illusion%20Cinema+near+47.7064058%2C-122.32522569999999"
-    },
-    {
-      "name": "Landmark's Crest Cinema Center",
-      "distance": "2.9 mi",
-      "url": "https://www.google.com/maps/search/Landmark's%20Crest%20Cinema%20Center+near+47.7064058%2C-122.32522569999999"
-    },
-    {
-      "name": "Majestic Bay Theatres",
-      "distance": "3.8 mi",
-      "url": "https://www.google.com/maps/search/Majestic%20Bay%20Theatres+near+47.7064058%2C-122.32522569999999",
-      "isFar": true
     }
   ],
   "fun": [
@@ -165,23 +149,6 @@
       "name": "Quest Factor Escape Rooms",
       "distance": "2.4 mi",
       "url": "https://www.google.com/maps/search/Quest%20Factor%20Escape%20Rooms+near+47.7064058%2C-122.32522569999999"
-    },
-    {
-      "name": "View Ridge Playfield Wading Pool",
-      "distance": "2.7 mi",
-      "url": "https://www.google.com/maps/search/View%20Ridge%20Playfield%20Wading%20Pool+near+47.7064058%2C-122.32522569999999"
-    },
-    {
-      "name": "Wallingford Playfield Wading Pool",
-      "distance": "3.3 mi",
-      "url": "https://www.google.com/maps/search/Wallingford%20Playfield%20Wading%20Pool+near+47.7064058%2C-122.32522569999999",
-      "isFar": true
-    },
-    {
-      "name": "Wading Pool",
-      "distance": "3.4 mi",
-      "url": "https://www.google.com/maps/search/Wading%20Pool+near+47.7064058%2C-122.32522569999999",
-      "isFar": true
     }
   ],
   "hotels": [
@@ -189,16 +156,6 @@
       "name": "Residence Inn by Marriott Seattle Northgate Station",
       "distance": "0.1 mi",
       "url": "https://www.google.com/maps/search/Residence%20Inn%20by%20Marriott%20Seattle%20Northgate%20Station+near+47.7064058%2C-122.32522569999999"
-    },
-    {
-      "name": "Retreat to our new North Seattle Hotel at Northgate Station",
-      "distance": "0.2 mi",
-      "url": "https://www.google.com/maps/search/Retreat%20to%20our%20new%20North%20Seattle%20Hotel%20at%20Northgate%20Station+near+47.7064058%2C-122.32522569999999"
-    },
-    {
-      "name": "Northgate Station, a 2 BR apartment",
-      "distance": "0.3 mi",
-      "url": "https://www.google.com/maps/search/Northgate%20Station%2C%20a%202%20BR%20apartment+near+47.7064058%2C-122.32522569999999"
     },
     {
       "name": "Northgate Station STR Lodging",
@@ -209,11 +166,6 @@
       "name": "Luxe 9 Beds Home - BackyardOasis&EntertainmentRoom",
       "distance": "0.3 mi",
       "url": "https://www.google.com/maps/search/Luxe%209%20Beds%20Home%20-%20BackyardOasis%26EntertainmentRoom+near+47.7064058%2C-122.32522569999999"
-    },
-    {
-      "name": "Garden House In North Seattle",
-      "distance": "0.4 mi",
-      "url": "https://www.google.com/maps/search/Garden%20House%20In%20North%20Seattle+near+47.7064058%2C-122.32522569999999"
     },
     {
       "name": "Hotel Nexus Seattle",
@@ -241,11 +193,6 @@
       "name": "Gasolinería",
       "distance": "0.4 mi",
       "url": "https://www.google.com/maps/search/Gasoliner%C3%ADa+near+47.7064058%2C-122.32522569999999"
-    },
-    {
-      "name": "Shell",
-      "distance": "0.4 mi",
-      "url": "https://www.google.com/maps/search/Shell+near+47.7064058%2C-122.32522569999999"
     }
   ]
 }

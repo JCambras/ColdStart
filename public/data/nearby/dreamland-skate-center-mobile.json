@@ -29,19 +29,9 @@
       "name": "Waffle House",
       "distance": "0.3 mi",
       "url": "https://www.google.com/maps/search/Waffle%20House+near+30.5892931%2C-88.1745385"
-    },
-    {
-      "name": "Popeyes Louisiana Kitchen",
-      "distance": "0.3 mi",
-      "url": "https://www.google.com/maps/search/Popeyes%20Louisiana%20Kitchen+near+30.5892931%2C-88.1745385"
     }
   ],
   "coffee": [
-    {
-      "name": "McDonald's",
-      "distance": "0.3 mi",
-      "url": "https://www.google.com/maps/search/McDonald's+near+30.5892931%2C-88.1745385"
-    },
     {
       "name": "Kidlavie Family Park and Restaurant",
       "distance": "6.6 mi",
@@ -50,11 +40,6 @@
     }
   ],
   "team_lunch": [
-    {
-      "name": "China Kitchen",
-      "distance": "0.2 mi",
-      "url": "https://www.google.com/maps/search/China%20Kitchen+near+30.5892931%2C-88.1745385"
-    },
     {
       "name": "Papa Johns Pizza",
       "distance": "0.2 mi",
@@ -173,11 +158,6 @@
       "name": "Baymont by Wyndham Mobile/Tillmans Corner",
       "distance": "0.3 mi",
       "url": "https://www.google.com/maps/search/Baymont%20by%20Wyndham%20Mobile%2FTillmans%20Corner+near+30.5892931%2C-88.1745385"
-    },
-    {
-      "name": "Quality Inn Mobile West Tillmans Corner",
-      "distance": "0.3 mi",
-      "url": "https://www.google.com/maps/search/Quality%20Inn%20Mobile%20West%20Tillmans%20Corner+near+30.5892931%2C-88.1745385"
     }
   ],
   "gas": [
@@ -200,11 +180,6 @@
       "name": "Murphy USA",
       "distance": "0.4 mi",
       "url": "https://www.google.com/maps/search/Murphy%20USA+near+30.5892931%2C-88.1745385"
-    },
-    {
-      "name": "Circle K | Gas Station",
-      "distance": "0.7 mi",
-      "url": "https://www.google.com/maps/search/Circle%20K%20%7C%20Gas%20Station+near+30.5892931%2C-88.1745385"
     }
   ]
 }

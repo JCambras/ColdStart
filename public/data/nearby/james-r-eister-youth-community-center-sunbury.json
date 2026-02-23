@@ -29,26 +29,6 @@
       "name": "Subway",
       "distance": "1.1 mi",
       "url": "https://www.google.com/maps/search/?api=1&query=Subway&query_place_id=ChIJB8O1AO1qz4kRW9hPGd8akI8&center=40.8624107,-76.7939002"
-    },
-    {
-      "name": "On a Roll",
-      "distance": "1.2 mi",
-      "url": "https://www.google.com/maps/search/?api=1&query=On%20a%20Roll&query_place_id=ChIJZ6uhRhprz4kRE8Ko4c4C0us&center=40.8884773,-76.7952881"
-    },
-    {
-      "name": "Subway",
-      "distance": "1.3 mi",
-      "url": "https://www.google.com/maps/search/?api=1&query=Subway&query_place_id=ChIJP95ELhprz4kRRRZuXmJ0Uh8&center=40.8878304,-76.7966692"
-    },
-    {
-      "name": "Burger King",
-      "distance": "2.9 mi",
-      "url": "https://www.google.com/maps/search/?api=1&query=Burger%20King&query_place_id=ChIJnWiqBwBAz4kRvcd9JQ-NDdc&center=40.846533799999996,-76.82270489999999"
-    },
-    {
-      "name": "Long John Silver's",
-      "distance": "3.0 mi",
-      "url": "https://www.google.com/maps/search/?api=1&query=Long%20John%20Silver's&query_place_id=ChIJCV3P-qpqz4kRSvI7dBGoI-4&center=40.845458199999996,-76.8238166"
     }
   ],
   "coffee": [
@@ -58,20 +38,9 @@
       "url": "https://www.google.com/maps/search/?api=1&query=Dunkin'&query_place_id=ChIJbUnBy_9qz4kRx29NsWHWGMY&center=40.8746539,-76.78434759999999"
     },
     {
-      "name": "Wawa",
-      "distance": "0.2 mi",
-      "url": "https://www.google.com/maps/search/?api=1&query=Wawa&query_place_id=ChIJ2XdwZyxrz4kRvkjanCSA1L8&center=40.877350299999996,-76.78194119999999"
-    },
-    {
       "name": "IV Coffee Co.",
       "distance": "0.9 mi",
       "url": "https://www.google.com/maps/search/?api=1&query=IV%20Coffee%20Co.&query_place_id=ChIJ_9LvBYVrz4kRU0LddRLj9es&center=40.863387499999995,-76.7918522"
-    },
-    {
-      "name": "McDonald's",
-      "distance": "3.3 mi",
-      "url": "https://www.google.com/maps/search/?api=1&query=McDonald's&query_place_id=ChIJZ8aoyrtqz4kR5K8qgCYQDLY&center=40.8416389,-76.8270611",
-      "isFar": true
     }
   ],
   "team_lunch": [

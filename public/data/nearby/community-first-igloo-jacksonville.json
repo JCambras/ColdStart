@@ -18,11 +18,6 @@
   ],
   "coffee": [
     {
-      "name": "McDonald's",
-      "distance": "0.2 mi",
-      "url": "https://www.google.com/maps/search/McDonald's+near+30.291854999999998%2C-81.6332054"
-    },
-    {
       "name": "Dunkin'",
       "distance": "0.2 mi",
       "url": "https://www.google.com/maps/search/Dunkin'+near+30.291854999999998%2C-81.6332054"
@@ -36,11 +31,6 @@
       "name": "Starbucks Coffee Company",
       "distance": "0.3 mi",
       "url": "https://www.google.com/maps/search/Starbucks%20Coffee%20Company+near+30.291854999999998%2C-81.6332054"
-    },
-    {
-      "name": "Wawa",
-      "distance": "0.5 mi",
-      "url": "https://www.google.com/maps/search/Wawa+near+30.291854999999998%2C-81.6332054"
     }
   ],
   "team_lunch": [
@@ -85,11 +75,6 @@
       "name": "Rima's Diner",
       "distance": "0.4 mi",
       "url": "https://www.google.com/maps/search/Rima's%20Diner+near+30.291854999999998%2C-81.6332054"
-    },
-    {
-      "name": "Ms. Sylvi’s Cookie Love",
-      "distance": "0.4 mi",
-      "url": "https://www.google.com/maps/search/Ms.%20Sylvi%E2%80%99s%20Cookie%20Love+near+30.291854999999998%2C-81.6332054"
     }
   ],
   "bowling": [
@@ -129,11 +114,6 @@
   ],
   "hotels": [
     {
-      "name": "Chic studio with AC and WiFi in fabulous Jacksonville",
-      "distance": "0.1 mi",
-      "url": "https://www.google.com/maps/search/Chic%20studio%20with%20AC%20and%20WiFi%20in%20fabulous%20Jacksonville+near+30.291854999999998%2C-81.6332054"
-    },
-    {
       "name": "Cute Cottage | Near San Marco & Downtown Jax",
       "distance": "0.2 mi",
       "url": "https://www.google.com/maps/search/Cute%20Cottage%20%7C%20Near%20San%20Marco%20%26%20Downtown%20Jax+near+30.291854999999998%2C-81.6332054"
@@ -147,21 +127,6 @@
       "name": "Lake Santa Fe Rental",
       "distance": "0.3 mi",
       "url": "https://www.google.com/maps/search/Lake%20Santa%20Fe%20Rental+near+30.291854999999998%2C-81.6332054"
-    },
-    {
-      "name": "New Studio Bungalow near San Marco - Sleeps 3",
-      "distance": "0.3 mi",
-      "url": "https://www.google.com/maps/search/New%20Studio%20Bungalow%20near%20San%20Marco%20-%20Sleeps%203+near+30.291854999999998%2C-81.6332054"
-    },
-    {
-      "name": "Renovated 3BR Home near San Marco - Sleeps 8",
-      "distance": "0.3 mi",
-      "url": "https://www.google.com/maps/search/Renovated%203BR%20Home%20near%20San%20Marco%20-%20Sleeps%208+near+30.291854999999998%2C-81.6332054"
-    },
-    {
-      "name": "New Studio Bungalow near San Marco - Sleeps 3",
-      "distance": "0.3 mi",
-      "url": "https://www.google.com/maps/search/New%20Studio%20Bungalow%20near%20San%20Marco%20-%20Sleeps%203+near+30.291854999999998%2C-81.6332054"
     }
   ],
   "gas": [
@@ -184,11 +149,6 @@
       "name": "GATE Gas Station",
       "distance": "0.3 mi",
       "url": "https://www.google.com/maps/search/GATE%20Gas%20Station+near+30.291854999999998%2C-81.6332054"
-    },
-    {
-      "name": "Wawa",
-      "distance": "0.5 mi",
-      "url": "https://www.google.com/maps/search/Wawa+near+30.291854999999998%2C-81.6332054"
     }
   ]
 }

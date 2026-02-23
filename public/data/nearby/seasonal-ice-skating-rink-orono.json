@@ -1,16 +1,6 @@
 {
   "quick_bite": [
     {
-      "name": "Thai Kitchen",
-      "distance": "0.5 mi",
-      "url": "https://www.google.com/maps/search/Thai%20Kitchen+near+44.8955001%2C-68.67165179999999"
-    },
-    {
-      "name": "Lin's Takeout Kitchen",
-      "distance": "0.6 mi",
-      "url": "https://www.google.com/maps/search/Lin's%20Takeout%20Kitchen+near+44.8955001%2C-68.67165179999999"
-    },
-    {
       "name": "The Family Dog",
       "distance": "0.8 mi",
       "url": "https://www.google.com/maps/search/The%20Family%20Dog+near+44.8955001%2C-68.67165179999999"
@@ -51,16 +41,6 @@
       "name": "The Store Ampersand",
       "distance": "0.8 mi",
       "url": "https://www.google.com/maps/search/The%20Store%20Ampersand+near+44.8955001%2C-68.67165179999999"
-    },
-    {
-      "name": "Nest",
-      "distance": "0.8 mi",
-      "url": "https://www.google.com/maps/search/Nest+near+44.8955001%2C-68.67165179999999"
-    },
-    {
-      "name": "Golden Bean Bakery and Cafe",
-      "distance": "0.8 mi",
-      "url": "https://www.google.com/maps/search/Golden%20Bean%20Bakery%20and%20Cafe+near+44.8955001%2C-68.67165179999999"
     }
   ],
   "team_lunch": [
@@ -150,26 +130,6 @@
   ],
   "hotels": [
     {
-      "name": "Very Spacious 5-bedroom, 3 bath house... Walk onto UMaine campus",
-      "distance": "0.1 mi",
-      "url": "https://www.google.com/maps/search/Very%20Spacious%205-bedroom%2C%203%20bath%20house...%20Walk%20onto%20UMaine%20campus+near+44.8955001%2C-68.67165179999999"
-    },
-    {
-      "name": "Beautiful Home in Orono, Next to University",
-      "distance": "0.2 mi",
-      "url": "https://www.google.com/maps/search/Beautiful%20Home%20in%20Orono%2C%20Next%20to%20University+near+44.8955001%2C-68.67165179999999"
-    },
-    {
-      "name": "Spacious Renovated Home in Orono, Next to UMaine - Five-Bedroom House",
-      "distance": "0.2 mi",
-      "url": "https://www.google.com/maps/search/Spacious%20Renovated%20Home%20in%20Orono%2C%20Next%20to%20UMaine%20-%20Five-Bedroom%20House+near+44.8955001%2C-68.67165179999999"
-    },
-    {
-      "name": "Beautiful home in Orono and only minutes to University of Maine",
-      "distance": "0.2 mi",
-      "url": "https://www.google.com/maps/search/Beautiful%20home%20in%20Orono%20and%20only%20minutes%20to%20University%20of%20Maine+near+44.8955001%2C-68.67165179999999"
-    },
-    {
       "name": "Coburn Hall",
       "distance": "0.3 mi",
       "url": "https://www.google.com/maps/search/Coburn%20Hall+near+44.8955001%2C-68.67165179999999"
@@ -178,11 +138,6 @@
       "name": "Hotel Ursa",
       "distance": "0.3 mi",
       "url": "https://www.google.com/maps/search/Hotel%20Ursa+near+44.8955001%2C-68.67165179999999"
-    },
-    {
-      "name": "Stillwater River Sanctuary - Four-Bedroom House",
-      "distance": "0.4 mi",
-      "url": "https://www.google.com/maps/search/Stillwater%20River%20Sanctuary%20-%20Four-Bedroom%20House+near+44.8955001%2C-68.67165179999999"
     }
   ],
   "gas": [
@@ -205,11 +160,6 @@
       "name": "Irving Oil",
       "distance": "0.9 mi",
       "url": "https://www.google.com/maps/search/Irving%20Oil+near+44.8955001%2C-68.67165179999999"
-    },
-    {
-      "name": "Dysart's Travel Stop - Citgo",
-      "distance": "1.0 mi",
-      "url": "https://www.google.com/maps/search/Dysart's%20Travel%20Stop%20-%20Citgo+near+44.8955001%2C-68.67165179999999"
     }
   ]
 }

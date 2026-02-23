@@ -16,11 +16,6 @@
       "url": "https://www.google.com/maps/search/New%20China%20Restaurant+near+34.7126247%2C-88.56119500000001"
     },
     {
-      "name": "Popeyes Louisiana Kitchen",
-      "distance": "2.4 mi",
-      "url": "https://www.google.com/maps/search/Popeyes%20Louisiana%20Kitchen+near+34.7126247%2C-88.56119500000001"
-    },
-    {
       "name": "Sonic Drive-In",
       "distance": "2.4 mi",
       "url": "https://www.google.com/maps/search/Sonic%20Drive-In+near+34.7126247%2C-88.56119500000001"
@@ -36,19 +31,8 @@
       "url": "https://www.google.com/maps/search/Wendy's+near+34.7126247%2C-88.56119500000001"
     }
   ],
-  "coffee": [
-    {
-      "name": "McDonald's",
-      "distance": "2.9 mi",
-      "url": "https://www.google.com/maps/search/McDonald's+near+34.7126247%2C-88.56119500000001"
-    }
-  ],
+  "coffee": [],
   "team_lunch": [
-    {
-      "name": "Walmart Bakery",
-      "distance": "2.4 mi",
-      "url": "https://www.google.com/maps/search/Walmart%20Bakery+near+34.7126247%2C-88.56119500000001"
-    },
     {
       "name": "El Mestizo Mexican Grill",
       "distance": "2.5 mi",
@@ -90,12 +74,6 @@
       "name": "Sugar and Smoke LLC",
       "distance": "2.7 mi",
       "url": "https://www.google.com/maps/search/Sugar%20and%20Smoke%20LLC+near+34.7126247%2C-88.56119500000001"
-    },
-    {
-      "name": "El Veracruz",
-      "distance": "3.2 mi",
-      "url": "https://www.google.com/maps/search/El%20Veracruz+near+34.7126247%2C-88.56119500000001",
-      "isFar": true
     }
   ],
   "bowling": [],
@@ -112,24 +90,6 @@
       "name": "BEST INN",
       "distance": "2.9 mi",
       "url": "https://www.google.com/maps/search/BEST%20INN+near+34.7126247%2C-88.56119500000001"
-    },
-    {
-      "name": "Charming, newly renovated, 3-bedroom, 2 full bath home.",
-      "distance": "3.5 mi",
-      "url": "https://www.google.com/maps/search/Charming%2C%20newly%20renovated%2C%203-bedroom%2C%202%20full%20bath%20home.+near+34.7126247%2C-88.56119500000001",
-      "isFar": true
-    },
-    {
-      "name": "Charming, newly renovated, 3-bedroom, 2 full bath home.",
-      "distance": "3.6 mi",
-      "url": "https://www.google.com/maps/search/Charming%2C%20newly%20renovated%2C%203-bedroom%2C%202%20full%20bath%20home.+near+34.7126247%2C-88.56119500000001",
-      "isFar": true
-    },
-    {
-      "name": "Hotel",
-      "distance": "3.8 mi",
-      "url": "https://www.google.com/maps/search/Hotel+near+34.7126247%2C-88.56119500000001",
-      "isFar": true
     }
   ],
   "gas": [
@@ -152,11 +112,6 @@
       "name": "Chevron Booneville",
       "distance": "2.1 mi",
       "url": "https://www.google.com/maps/search/Chevron%20Booneville+near+34.7126247%2C-88.56119500000001"
-    },
-    {
-      "name": "Murphy USA",
-      "distance": "2.3 mi",
-      "url": "https://www.google.com/maps/search/Murphy%20USA+near+34.7126247%2C-88.56119500000001"
     }
   ]
 }

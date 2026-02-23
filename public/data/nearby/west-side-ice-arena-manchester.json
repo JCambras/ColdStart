@@ -66,11 +66,6 @@
       "name": "Golden Tao",
       "distance": "0.6 mi",
       "url": "https://www.google.com/maps/search/Golden%20Tao+near+42.99215540000001%2C-71.4923629"
-    },
-    {
-      "name": "Amory Street House of Pizza",
-      "distance": "0.6 mi",
-      "url": "https://www.google.com/maps/search/Amory%20Street%20House%20of%20Pizza+near+42.99215540000001%2C-71.4923629"
     }
   ],
   "bowling": [
@@ -121,63 +116,9 @@
       "distance": "3.2 mi",
       "url": "https://www.google.com/maps/search/The%20Break%20Room%20NH+near+42.99215540000001%2C-71.4923629",
       "isFar": true
-    },
-    {
-      "name": "Launch Family Entertainment Manchester",
-      "distance": "3.3 mi",
-      "url": "https://www.google.com/maps/search/Launch%20Family%20Entertainment%20Manchester+near+42.99215540000001%2C-71.4923629",
-      "isFar": true
-    },
-    {
-      "name": "LOK'd! Room Escape",
-      "distance": "4.0 mi",
-      "url": "https://www.google.com/maps/search/LOK'd!%20Room%20Escape+near+42.99215540000001%2C-71.4923629",
-      "isFar": true
-    },
-    {
-      "name": "Cowabunga's Indoor Kids Play & Party Center - Manchester",
-      "distance": "4.1 mi",
-      "url": "https://www.google.com/maps/search/Cowabunga's%20Indoor%20Kids%20Play%20%26%20Party%20Center%20-%20Manchester+near+42.99215540000001%2C-71.4923629",
-      "isFar": true
     }
   ],
-  "hotels": [
-    {
-      "name": "NEW - Mins to Concord /Nashua - Driveway Parking - In Unit W /D - Backyard - Patio",
-      "distance": "0.1 mi",
-      "url": "https://www.google.com/maps/search/NEW%20-%20Mins%20to%20Concord%20%2FNashua%20-%20Driveway%20Parking%20-%20In%20Unit%20W%20%2FD%20-%20Backyard%20-%20Patio+near+42.99215540000001%2C-71.4923629"
-    },
-    {
-      "name": "Large 3 floor Townhome with Patio, Backyard and Sauna",
-      "distance": "0.1 mi",
-      "url": "https://www.google.com/maps/search/Large%203%20floor%20Townhome%20with%20Patio%2C%20Backyard%20and%20Sauna+near+42.99215540000001%2C-71.4923629"
-    },
-    {
-      "name": "Spacious 4 bedroom w/ 3 floors, Sauna, Backyard",
-      "distance": "0.1 mi",
-      "url": "https://www.google.com/maps/search/Spacious%204%20bedroom%20w%2F%203%20floors%2C%20Sauna%2C%20Backyard+near+42.99215540000001%2C-71.4923629"
-    },
-    {
-      "name": "NEW - Mins to Concord Nashua -Quiet Neighborhood - Apartment",
-      "distance": "0.1 mi",
-      "url": "https://www.google.com/maps/search/NEW%20-%20Mins%20to%20Concord%20Nashua%20-Quiet%20Neighborhood%20-%20Apartment+near+42.99215540000001%2C-71.4923629"
-    },
-    {
-      "name": "NEW - Mins to Concord / Nashua- Quiet Neighborhood -Pet Friendly -In Unit Laundry",
-      "distance": "0.2 mi",
-      "url": "https://www.google.com/maps/search/NEW%20-%20Mins%20to%20Concord%20%2F%20Nashua-%20Quiet%20Neighborhood%20-Pet%20Friendly%20-In%20Unit%20Laundry+near+42.99215540000001%2C-71.4923629"
-    },
-    {
-      "name": "Spacious 3-bedroom, your Cozy Home Away From Home Comfort,Quiet, and Convenience",
-      "distance": "0.3 mi",
-      "url": "https://www.google.com/maps/search/Spacious%203-bedroom%2C%20your%20Cozy%20Home%20Away%20From%20Home%20Comfort%2CQuiet%2C%20and%20Convenience+near+42.99215540000001%2C-71.4923629"
-    },
-    {
-      "name": "Spacious 3-bedroom, your Cozy Home Away From Home Comfort,Quiet, and Convenience",
-      "distance": "0.3 mi",
-      "url": "https://www.google.com/maps/search/Spacious%203-bedroom%2C%20your%20Cozy%20Home%20Away%20From%20Home%20Comfort%2CQuiet%2C%20and%20Convenience+near+42.99215540000001%2C-71.4923629"
-    }
-  ],
+  "hotels": [],
   "gas": [
     {
       "name": "Gulf",
@@ -198,11 +139,6 @@
       "name": "Shell",
       "distance": "1.0 mi",
       "url": "https://www.google.com/maps/search/Shell+near+42.99215540000001%2C-71.4923629"
-    },
-    {
-      "name": "GULF",
-      "distance": "1.1 mi",
-      "url": "https://www.google.com/maps/search/GULF+near+42.99215540000001%2C-71.4923629"
     }
   ]
 }

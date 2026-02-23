@@ -29,26 +29,6 @@
       "name": "Wendy's",
       "distance": "0.9 mi",
       "url": "https://www.google.com/maps/search/?api=1&query=Wendy's&query_place_id=ChIJB4mcC2TJxokRRFnmRSwCSEE&center=39.932883700000005,-75.06701149999999"
-    },
-    {
-      "name": "Wawa",
-      "distance": "0.9 mi",
-      "url": "https://www.google.com/maps/search/?api=1&query=Wawa&query_place_id=ChIJf2gvq8_LxokRmMS52ErVLR8&center=39.936496999999996,-75.04849"
-    },
-    {
-      "name": "Five Guys",
-      "distance": "0.9 mi",
-      "url": "https://www.google.com/maps/search/?api=1&query=Five%20Guys&query_place_id=ChIJhZEkI5XLxokRXYSTPScmUuI&center=39.92170470000001,-75.03754649999999"
-    },
-    {
-      "name": "Wawa",
-      "distance": "1.0 mi",
-      "url": "https://www.google.com/maps/search/?api=1&query=Wawa&query_place_id=ChIJydcupkbJxokRP9QKyrvh31o&center=39.934619999999995,-75.06866"
-    },
-    {
-      "name": "Raising Cane's Chicken Fingers",
-      "distance": "1.0 mi",
-      "url": "https://www.google.com/maps/search/?api=1&query=Raising%20Cane's%20Chicken%20Fingers&query_place_id=ChIJd51W4h81wYkRodM6vr2xkD8&center=39.9209606,-75.036144"
     }
   ],
   "coffee": [
@@ -73,43 +53,12 @@
       "url": "https://www.google.com/maps/search/?api=1&query=Spread%20Bagelry&query_place_id=ChIJQwrW_enLxokR_vHoz4-q4qo&center=39.926128299999995,-75.03934749999999"
     },
     {
-      "name": "Wawa",
-      "distance": "0.8 mi",
-      "url": "https://www.google.com/maps/search/?api=1&query=Wawa&query_place_id=ChIJG-Yk8_zLxokRkwzVrJrHj4s&center=39.913055,-75.0564"
-    },
-    {
       "name": "Krispy Kreme",
       "distance": "0.9 mi",
       "url": "https://www.google.com/maps/search/?api=1&query=Krispy%20Kreme&query_place_id=ChIJO1ph9_zLxokRCGvugH_RM0k&center=39.9127398,-75.0575521"
-    },
-    {
-      "name": "Wawa",
-      "distance": "0.9 mi",
-      "url": "https://www.google.com/maps/search/?api=1&query=Wawa&query_place_id=ChIJf2gvq8_LxokRmMS52ErVLR8&center=39.936496999999996,-75.04849"
-    },
-    {
-      "name": "Central Park Bagel",
-      "distance": "0.9 mi",
-      "url": "https://www.google.com/maps/search/?api=1&query=Central%20Park%20Bagel&query_place_id=ChIJRSL7mPvLxokRvmCe3V4ddtc&center=39.9118663,-75.0542938"
-    },
-    {
-      "name": "McDonald's",
-      "distance": "0.9 mi",
-      "url": "https://www.google.com/maps/search/?api=1&query=McDonald's&query_place_id=ChIJ-ZXfKc_LxokR-GJy2yK7Em8&center=39.936079299999996,-75.0441165"
-    },
-    {
-      "name": "Wawa",
-      "distance": "1.0 mi",
-      "url": "https://www.google.com/maps/search/?api=1&query=Wawa&query_place_id=ChIJydcupkbJxokRP9QKyrvh31o&center=39.934619999999995,-75.06866"
     }
   ],
-  "team_lunch": [
-    {
-      "name": "Costco Bakery",
-      "distance": "0.8 mi",
-      "url": "https://www.google.com/maps/search/?api=1&query=Costco%20Bakery&query_place_id=ChIJRTtc1sDLxokRAAr-FqbFzvQ&center=39.9276426,-75.0405143"
-    }
-  ],
+  "team_lunch": [],
   "dinner": [
     {
       "name": "Mikado Japanese Restaurant",
