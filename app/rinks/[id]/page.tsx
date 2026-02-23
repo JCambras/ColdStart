@@ -530,6 +530,40 @@ export default function RinkPage() {
           </div>
         </section>
 
+        {/* Plan a trip CTA — shown for saved rinks */}
+        {(() => {
+          const savedRinks = storage.getSavedRinks();
+          const isSaved = savedRinks.includes(rinkId);
+          if (!isSaved) return null;
+          return (
+            <div style={{
+              marginTop: 16, padding: '16px 20px',
+              background: colors.bgInfo, border: `1px solid ${colors.brandLight}`,
+              borderRadius: 14,
+              display: 'flex', alignItems: 'center', justifyContent: 'space-between', gap: 12,
+            }}>
+              <div>
+                <div style={{ fontSize: 14, fontWeight: 700, color: colors.textPrimary }}>Playing here soon?</div>
+                <div style={{ fontSize: 12, color: colors.textTertiary, marginTop: 2 }}>
+                  Create a trip page with parking, food, and game day info to share with your team.
+                </div>
+              </div>
+              <button
+                onClick={() => router.push(`/trip/new?rink=${rinkId}`)}
+                style={{
+                  fontSize: 13, fontWeight: 600,
+                  color: colors.textInverse, background: colors.brand,
+                  border: 'none', borderRadius: 10,
+                  padding: '10px 18px', cursor: 'pointer',
+                  whiteSpace: 'nowrap', flexShrink: 0,
+                }}
+              >
+                Plan trip &#8594;
+              </button>
+            </div>
+          );
+        })()}
+
         {showReturnPrompt && (
           <ReturnRatingPrompt
             rinkId={rinkId}

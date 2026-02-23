@@ -136,6 +136,17 @@ export const storage = {
   getA2HSDismissed: () => getJSON<boolean>('coldstart_a2hs_dismissed', false),
   setA2HSDismissed: (v: boolean) => setJSON('coldstart_a2hs_dismissed', v),
 
+  // Push notifications
+  getPushSubscribed: () => getJSON<boolean>('coldstart_push_subscribed', false),
+  setPushSubscribed: (v: boolean) => setJSON('coldstart_push_subscribed', v),
+  getPushDismissedAt: () => getJSON<string | null>('coldstart_push_dismissed_at', null),
+  setPushDismissedAt: (v: string) => setJSON('coldstart_push_dismissed_at', v),
+
+  // Team
+  getTeam: () => getJSON<{ name: string; homeRinkId: string; homeRinkName: string; homeRinkCity: string; homeRinkState: string } | null>('coldstart_team', null),
+  setTeam: (t: { name: string; homeRinkId: string; homeRinkName: string; homeRinkCity: string; homeRinkState: string } | null) =>
+    t ? setJSON('coldstart_team', t) : remove('coldstart_team'),
+
   // All place tips for a rink (enumerate by scanning localStorage)
   getAllPlaceTips: (rinkSlug: string) => {
     const allTips: Record<string, { text: string; author: string; date: string }[]> = {};

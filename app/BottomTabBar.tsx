@@ -45,7 +45,7 @@ type IconComponent = typeof CompassIcon;
 const tabs: { label: string; Icon: IconComponent; path: string; match: (p: string) => boolean; disabled?: boolean }[] = [
   { label: 'Explore', Icon: CompassIcon, path: '/', match: (p) => p === '/' },
   { label: 'Trips', Icon: MapPinIcon, path: '/trips', match: (p) => p.startsWith('/trip') },
-  { label: 'Team', Icon: ShieldIcon, path: '/team', match: (p) => p.startsWith('/team'), disabled: true },
+  { label: 'Team', Icon: ShieldIcon, path: '/team', match: (p) => p.startsWith('/team') },
   { label: 'Profile', Icon: UserCircleIcon, path: '/profile', match: (p) => p.startsWith('/profile') },
 ];
 

@@ -16,6 +16,7 @@ import { timeAgo } from '../../lib/rinkHelpers';
 import { getVibe } from '../../app/vibe';
 import { AddToHomeScreen } from './AddToHomeScreen';
 import { WhatsNew } from './WhatsNew';
+import { PushPrompt } from '../PushPrompt';
 
 interface RecentlyViewedRink {
   id: string;
@@ -488,6 +489,11 @@ export default function HomeClient({
         {/* Add to home screen prompt (2nd+ visit) */}
         <div style={{ paddingTop: 24 }}>
           <AddToHomeScreen />
+        </div>
+
+        {/* Push notification prompt */}
+        <div style={{ paddingTop: 16 }}>
+          <PushPrompt />
         </div>
 
         {/* How it works */}

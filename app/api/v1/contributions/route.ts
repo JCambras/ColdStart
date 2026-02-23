@@ -5,6 +5,7 @@ import { VENUE_CONFIG } from '../../../../lib/venueConfig';
 import { requireAuth } from '../../../../lib/apiAuth';
 import { rateLimit } from '../../../../lib/rateLimit';
 import { logger, generateRequestId } from '../../../../lib/logger';
+import { notifyRinkWatchers } from '../../../../lib/pushService';
 
 export async function POST(request: NextRequest) {
   const requestId = generateRequestId();
@@ -33,7 +34,7 @@ export async function POST(request: NextRequest) {
     const context = typeof body.context === 'string' ? body.context.slice(0, 500) : null;
 
     // Verify rink exists
-    const rinkCheck = await pool.query('SELECT id FROM rinks WHERE id = $1', [rink_id]);
+    const rinkCheck = await pool.query('SELECT id, name FROM rinks WHERE id = $1', [rink_id]);
     if (rinkCheck.rows.length === 0) {
       return NextResponse.json({ error: 'Rink not found' }, { status: 404 });
     }
@@ -119,6 +120,17 @@ export async function POST(request: NextRequest) {
 
     // Return updated summary wrapped in { data: { summary } }
     const summary = await buildSummary(rink_id);
+
+    // Fire-and-forget push notification to rink watchers
+    const rinkName = rinkCheck.rows[0]?.name || 'a rink';
+    notifyRinkWatchers(rink_id, user_id, {
+      title: `New intel at ${rinkName}`,
+      body: kind === 'tip' || kind === 'one_thing_tip'
+        ? 'New tip from a hockey parent'
+        : kind === 'signal_rating' ? 'Someone rated this rink' : 'Fresh confirmation',
+      url: `/rinks/${rink_id}`,
+    }).catch(() => {});
+
     logger.info('Contribution saved', { ...logCtx, rink_id, kind, user_id });
     return NextResponse.json({ data: { summary } });
   } catch (err) {

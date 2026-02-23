@@ -1,6 +1,7 @@
 import { pool } from '../../../lib/db';
 import { colors } from '../../../lib/theme';
 import Link from 'next/link';
+import { PushPreferences } from '../../../components/PushPreferences';
 
 export const dynamic = 'force-dynamic';
 
@@ -131,6 +132,9 @@ export default async function ProfilePage({ params }: { params: Promise<{ id: st
           </div>
         )}
       </div>
+
+      {/* Push notification preferences */}
+      <PushPreferences />
 
       {/* Rinks rated */}
       {ratedRinks.rows.length > 0 && (

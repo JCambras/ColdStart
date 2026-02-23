@@ -29,6 +29,10 @@ export function SaveRinkButton({ rinkId }: { rinkId: string }) {
       setSaved(true);
     }
     storage.setSavedRinks(updated);
+    // Sync watched rinks for push notifications
+    import('../../lib/pushClient').then(({ syncPushWatchedRinks }) => {
+      syncPushWatchedRinks(updated);
+    }).catch(() => {});
   }
 
   return (

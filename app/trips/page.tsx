@@ -4,6 +4,8 @@ import { useState, useEffect, useMemo } from 'react';
 import { useRouter } from 'next/navigation';
 import { PageShell } from '../../components/PageShell';
 import { storage } from '../../lib/storage';
+import { apiGet } from '../../lib/api';
+import { getBarColor, getBarBg } from '../../lib/rinkHelpers';
 import { colors, text, radius } from '../../lib/theme';
 
 interface Trip {
@@ -12,10 +14,14 @@ interface Trip {
   createdAt: string; games?: { id: string; opponent: string; time: string }[]; costItems?: { id: string; label: string; amount: string }[];
 }
 
+interface SignalSummary { signal: string; value: number; count: number }
+interface RinkSummaryData { id?: string; rink_id?: string; summary?: { signals?: SignalSummary[]; tips?: { text: string }[] } }
+
 export default function MyTripsPage() {
   const router = useRouter();
   const [trips, setTrips] = useState<Trip[]>([]);
   const [filter, setFilter] = useState('');
+  const [rinkSummaries, setRinkSummaries] = useState<Map<string, { signals: SignalSummary[]; firstTip: string | null }>>(new Map());
 
   useEffect(() => {
     const stored = storage.getTrips();
@@ -23,6 +29,28 @@ export default function MyTripsPage() {
     list.sort((a, b) => new Date(b.createdAt).getTime() - new Date(a.createdAt).getTime());
     setTrips(list);
   }, []);
+
+  // Batch-fetch rink summaries
+  useEffect(() => {
+    if (trips.length === 0) return;
+    const rinkIds = [...new Set(trips.map(t => t.rink.id))];
+    const idsParam = rinkIds.slice(0, 50).join(',');
+    apiGet<{ data: RinkSummaryData[] }>(`/rinks?ids=${encodeURIComponent(idsParam)}`)
+      .then(({ data }) => {
+        if (!data?.data) return;
+        const map = new Map<string, { signals: SignalSummary[]; firstTip: string | null }>();
+        for (const r of data.data) {
+          const id = r.id || r.rink_id;
+          if (id && r.summary) {
+            map.set(id, {
+              signals: r.summary.signals || [],
+              firstTip: r.summary.tips?.[0]?.text || null,
+            });
+          }
+        }
+        setRinkSummaries(map);
+      });
+  }, [trips]);
 
   const filtered = useMemo(() => {
     if (!filter.trim()) return trips;
@@ -113,6 +141,41 @@ export default function MyTripsPage() {
                     )}
                     <span style={{ fontSize: 11, color: colors.textMuted, padding: '3px 0' }}>Created {dateStr}</span>
                   </div>
+                  {(() => {
+                    const summary = rinkSummaries.get(trip.rink.id);
+                    if (!summary) return null;
+                    const parking = summary.signals.find(s => s.signal === 'parking');
+                    const cold = summary.signals.find(s => s.signal === 'cold');
+                    const hasChips = (parking && parking.count > 0) || (cold && cold.count > 0) || summary.firstTip;
+                    if (!hasChips) return null;
+                    return (
+                      <div style={{ display: 'flex', gap: 6, marginTop: 6, flexWrap: 'wrap', alignItems: 'center' }}>
+                        {parking && parking.count > 0 && (
+                          <span style={{
+                            fontSize: 11, fontWeight: 600, padding: '3px 8px', borderRadius: 6,
+                            background: getBarBg(parking.value, parking.count),
+                            color: getBarColor(parking.value, parking.count),
+                          }}>
+                            🅿️ {parking.value.toFixed(1)}
+                          </span>
+                        )}
+                        {cold && cold.count > 0 && (
+                          <span style={{
+                            fontSize: 11, fontWeight: 600, padding: '3px 8px', borderRadius: 6,
+                            background: getBarBg(cold.value, cold.count),
+                            color: getBarColor(cold.value, cold.count),
+                          }}>
+                            🌡️ {cold.value.toFixed(1)}
+                          </span>
+                        )}
+                        {summary.firstTip && (
+                          <span style={{ fontSize: 11, color: colors.textMuted, fontStyle: 'italic', padding: '3px 0' }}>
+                            &ldquo;{summary.firstTip.length > 40 ? summary.firstTip.slice(0, 40) + '...' : summary.firstTip}&rdquo;
+                          </span>
+                        )}
+                      </div>
+                    );
+                  })()}
                 </div>
               );
             })}
