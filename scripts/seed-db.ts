@@ -2,6 +2,11 @@ import pg from 'pg';
 import { readFileSync, existsSync } from 'fs';
 import { join } from 'path';
 
+interface RinkClassification {
+  venue_type: 'ice_rink' | 'non_ice' | 'mixed';
+  reason: string;
+}
+
 const { Pool } = pg;
 
 const DATABASE_URL = process.env.DATABASE_URL;
@@ -28,8 +33,11 @@ async function run() {
         address TEXT NOT NULL DEFAULT '',
         latitude DOUBLE PRECISION,
         longitude DOUBLE PRECISION,
+        venue_type TEXT NOT NULL DEFAULT 'ice_rink',
         created_at TIMESTAMPTZ NOT NULL DEFAULT NOW()
       );
+
+      ALTER TABLE rinks ADD COLUMN IF NOT EXISTS venue_type TEXT NOT NULL DEFAULT 'ice_rink';
 
       CREATE TABLE IF NOT EXISTS signal_ratings (
         id SERIAL PRIMARY KEY,
@@ -139,6 +147,7 @@ async function run() {
     console.log('Creating indexes...');
     await client.query(`
       CREATE INDEX IF NOT EXISTS idx_rinks_state ON rinks(state);
+      CREATE INDEX IF NOT EXISTS idx_rinks_venue_type ON rinks(venue_type);
       CREATE INDEX IF NOT EXISTS idx_rinks_name_lower ON rinks(lower(name));
       CREATE INDEX IF NOT EXISTS idx_signal_ratings_rink ON signal_ratings(rink_id);
       CREATE INDEX IF NOT EXISTS idx_signal_ratings_rink_signal ON signal_ratings(rink_id, signal);
@@ -171,6 +180,14 @@ async function run() {
     }> = JSON.parse(readFileSync(rinksPath, 'utf-8'));
     console.log(`Found ${rinks.length} rinks`);
 
+    // Load venue classifications if available
+    const classificationsPath = join(process.cwd(), 'data', 'rink-classifications.json');
+    let classifications: Record<string, RinkClassification> = {};
+    if (existsSync(classificationsPath)) {
+      classifications = JSON.parse(readFileSync(classificationsPath, 'utf-8'));
+      console.log(`Loaded classifications for ${Object.keys(classifications).length} rinks`);
+    }
+
     // Batch insert rinks (100 at a time)
     const BATCH_SIZE = 100;
     let inserted = 0;
@@ -181,13 +198,14 @@ async function run() {
 
       for (let j = 0; j < batch.length; j++) {
         const r = batch[j];
-        const offset = j * 7;
-        placeholders.push(`($${offset + 1}, $${offset + 2}, $${offset + 3}, $${offset + 4}, $${offset + 5}, $${offset + 6}, $${offset + 7})`);
-        values.push(r.id, r.name, r.city, r.state, r.address || '', r.latitude ?? null, r.longitude ?? null);
+        const offset = j * 8;
+        const venueType = classifications[r.id]?.venue_type || 'ice_rink';
+        placeholders.push(`($${offset + 1}, $${offset + 2}, $${offset + 3}, $${offset + 4}, $${offset + 5}, $${offset + 6}, $${offset + 7}, $${offset + 8})`);
+        values.push(r.id, r.name, r.city, r.state, r.address || '', r.latitude ?? null, r.longitude ?? null, venueType);
       }
 
       await client.query(
-        `INSERT INTO rinks (id, name, city, state, address, latitude, longitude)
+        `INSERT INTO rinks (id, name, city, state, address, latitude, longitude, venue_type)
          VALUES ${placeholders.join(', ')}
          ON CONFLICT (id) DO NOTHING`,
         values

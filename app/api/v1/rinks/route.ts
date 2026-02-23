@@ -85,10 +85,10 @@ export async function GET(request: NextRequest) {
     if (!query) {
       const [{ rows }, countResult] = await Promise.all([
         pool.query(
-          'SELECT id, name, city, state, address, latitude, longitude, created_at FROM rinks ORDER BY name LIMIT $1',
+          `SELECT id, name, city, state, address, latitude, longitude, created_at FROM rinks WHERE venue_type != 'non_ice' ORDER BY name LIMIT $1`,
           [limit]
         ),
-        pool.query('SELECT COUNT(*)::int AS total, COUNT(DISTINCT state)::int AS states FROM rinks'),
+        pool.query(`SELECT COUNT(*)::int AS total, COUNT(DISTINCT state)::int AS states FROM rinks WHERE venue_type != 'non_ice'`),
       ]);
       const enriched = await enrichWithSummaries(rows);
       return NextResponse.json({
@@ -112,8 +112,9 @@ export async function GET(request: NextRequest) {
           ELSE 3
         END AS rank
        FROM rinks
-       WHERE name ILIKE $1 OR city ILIKE $1 OR state ILIKE $1
-          OR REPLACE(lower(name), ' ', '') LIKE lower($5)
+       WHERE venue_type != 'non_ice'
+         AND (name ILIKE $1 OR city ILIKE $1 OR state ILIKE $1
+          OR REPLACE(lower(name), ' ', '') LIKE lower($5))
        ORDER BY rank, name
        LIMIT $4`,
       [pattern, prefixPattern, query, limit, compactPattern]
