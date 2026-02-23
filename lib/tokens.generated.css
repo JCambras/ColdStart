@@ -5,11 +5,11 @@
   --colors-textPrimary: #111827;
   --colors-textSecondary: #374151;
   --colors-textTertiary: #6b7280;
-  --colors-textMuted: #737373;
+  --colors-textMuted: #9ca3af;
   --colors-textDisabled: #d1d5db;
+  --colors-textInverse: #ffffff;
   --colors-white: #ffffff;
   --colors-surface: #ffffff;
-  --colors-textInverse: #ffffff;
   --colors-bgPage: #FAFAF8;
   --colors-bgSubtle: #f9fafb;
   --colors-bgInfo: #f0f9ff;
@@ -61,18 +61,18 @@
   --colors-heroBg: #0f1923;
   --colors-heroMid: #1a2d3d;
   --colors-heroLight: #1e3344;
-  --colors-heroTextPrimary: #ffffff;
-  --colors-heroTextSecondary: rgba(255,255,255,0.85);
-  --colors-heroTextMuted: rgba(255,255,255,0.75);
   --colors-heroOverlay: rgba(15,25,35,0.72);
   --colors-heroOverlayMid: rgba(26,45,61,0.65);
   --colors-heroOverlayLight: rgba(30,51,68,0.6);
   --colors-heroOverlayRadial: rgba(15,25,35,0.25);
+  --colors-heroTextPrimary: #ffffff;
+  --colors-heroTextSecondary: rgba(255,255,255,0.85);
+  --colors-heroTextMuted: rgba(255,255,255,0.75);
+  --colors-heroMenuLine: rgba(255,255,255,0.7);
+  --colors-heroFocusRing: rgba(255,255,255,0.4);
   --colors-heroBadgeBg: rgba(255,255,255,0.2);
   --colors-heroBadgeBgMuted: rgba(255,255,255,0.08);
   --colors-heroBadgeBorder: rgba(255,255,255,0.15);
-  --colors-heroFocusRing: rgba(255,255,255,0.4);
-  --colors-heroMenuLine: rgba(255,255,255,0.7);
 
   /* text */
   --text-2xs: 10px;
@@ -115,49 +115,4 @@
   /* nav */
   --nav-bg: rgba(250,250,248,0.85);
   --nav-blur: blur(12px);
-}
-
-/* ── Dark mode ── */
-@media (prefers-color-scheme: dark) {
-  :root {
-    --colors-textPrimary: #e5e7eb;
-    --colors-textSecondary: #d1d5db;
-    --colors-textTertiary: #9ca3af;
-    --colors-textMuted: #9ca3af;
-    --colors-textDisabled: #4b5563;
-    --colors-surface: #1f2937;
-    --colors-bgPage: #111827;
-    --colors-bgSubtle: #1f2937;
-    --colors-bgInfo: #172554;
-    --colors-bgSuccess: #14532d;
-    --colors-bgWarning: #422006;
-    --colors-bgError: #450a0a;
-    --colors-bgOrangeLight: #431407;
-    --colors-borderLight: #1f2937;
-    --colors-borderDefault: #374151;
-    --colors-borderMedium: #4b5563;
-    --colors-brandBg: #172554;
-    --colors-brandLight: #1e3a5f;
-    --colors-navy900: #e5e7eb;
-    --colors-navy700: #d1d5db;
-    --colors-navy50: #1f2937;
-    --colors-successBorder: #14532d;
-    --colors-warningBorder: #713f12;
-    --colors-amberDark: #fbbf24;
-    --colors-amberBorder: #713f12;
-    --colors-purpleBg: #2e1065;
-    --colors-purpleBorder: #4c1d95;
-    --colors-indigoBg: #1e1b4b;
-    --colors-indigoBorder: #312e81;
-    --colors-indigo: #818cf8;
-    --colors-stone50: #1c1917;
-    --colors-stone200: #44403c;
-    --colors-stone300: #57534e;
-    --colors-stone400: #a8a29e;
-    --colors-stone500: #a8a29e;
-    --colors-stone700: #d6d3d1;
-    --colors-stone800: #e7e5e4;
-    --colors-stone950: #fafaf9;
-    --nav-bg: rgba(17,24,39,0.85);
-  }
 }

@@ -6,7 +6,9 @@
     "textTertiary": { "$value": "#6b7280" },
     "textMuted": { "$value": "#9ca3af" },
     "textDisabled": { "$value": "#d1d5db" },
+    "textInverse": { "$value": "#ffffff" },
     "white": { "$value": "#ffffff" },
+    "surface": { "$value": "#ffffff" },
     "bgPage": { "$value": "#FAFAF8" },
     "bgSubtle": { "$value": "#f9fafb" },
     "bgInfo": { "$value": "#f0f9ff" },
@@ -57,6 +59,18 @@
     "stone950": { "$value": "#0c0a09" },
     "heroBg": { "$value": "#0f1923" },
     "heroMid": { "$value": "#1a2d3d" },
-    "heroLight": { "$value": "#1e3344" }
+    "heroLight": { "$value": "#1e3344" },
+    "heroOverlay": { "$value": "rgba(15,25,35,0.72)" },
+    "heroOverlayMid": { "$value": "rgba(26,45,61,0.65)" },
+    "heroOverlayLight": { "$value": "rgba(30,51,68,0.6)" },
+    "heroOverlayRadial": { "$value": "rgba(15,25,35,0.25)" },
+    "heroTextPrimary": { "$value": "#ffffff" },
+    "heroTextSecondary": { "$value": "rgba(255,255,255,0.85)" },
+    "heroTextMuted": { "$value": "rgba(255,255,255,0.75)" },
+    "heroMenuLine": { "$value": "rgba(255,255,255,0.7)" },
+    "heroFocusRing": { "$value": "rgba(255,255,255,0.4)" },
+    "heroBadgeBg": { "$value": "rgba(255,255,255,0.2)" },
+    "heroBadgeBgMuted": { "$value": "rgba(255,255,255,0.08)" },
+    "heroBadgeBorder": { "$value": "rgba(255,255,255,0.15)" }
   }
 }
