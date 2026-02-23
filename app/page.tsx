@@ -2,6 +2,7 @@ import { Suspense } from 'react';
 import { pool } from '../lib/db';
 import { enrichWithSummaries } from '../lib/enrichSummaries';
 import HomeClient from '../components/home/HomeClient';
+import { LoadingSkeleton } from '../components/LoadingSkeleton';
 import type { RinkData } from '../components/RinkCard';
 
 export const dynamic = 'force-dynamic';
@@ -44,7 +45,7 @@ export default async function HomePage() {
   const { featuredRinks, totalRinks, stateCount } = await getFeaturedData();
 
   return (
-    <Suspense>
+    <Suspense fallback={<LoadingSkeleton variant="page" />}>
       <HomeClient
         initialFeaturedRinks={featuredRinks as RinkData[]}
         initialTotalRinks={totalRinks}

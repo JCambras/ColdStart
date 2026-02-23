@@ -5,7 +5,7 @@ import { useParams, useRouter } from 'next/navigation';
 import { PageShell } from '../../../components/PageShell';
 import { RinkSummary, RinkDetail, Tip } from '../../../lib/rinkTypes';
 import { timeAgo } from '../../../lib/rinkHelpers';
-import { BASEBALL_SIGNAL_META, BASEBALL_SIGNAL_ICONS } from '../../../lib/baseballConfig';
+import { BASEBALL_SIGNAL_META } from '../../../lib/baseballConfig';
 import { getVenueConfig } from '../../../lib/venueConfig';
 import { apiGet, apiPost } from '../../../lib/api';
 import { LoadingSkeleton } from '../../../components/LoadingSkeleton';

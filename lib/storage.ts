@@ -147,6 +147,10 @@ export const storage = {
   setTeam: (t: { name: string; homeRinkId: string; homeRinkName: string; homeRinkCity: string; homeRinkState: string } | null) =>
     t ? setJSON('coldstart_team', t) : remove('coldstart_team'),
 
+  // Stale nudge dismissal
+  getNudgeDismissedAt: () => getJSON<string | null>('coldstart_nudge_dismissed_at', null),
+  setNudgeDismissedAt: (v: string) => setJSON('coldstart_nudge_dismissed_at', v),
+
   // Season welcome banner
   getSeasonWelcomeDismissed: () => getJSON<string | null>('coldstart_season_welcome_dismissed', null),
   setSeasonWelcomeDismissed: (v: string) => setJSON('coldstart_season_welcome_dismissed', v),

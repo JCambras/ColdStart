@@ -52,7 +52,10 @@ export default function HomeClient({
   const [recentlyViewed, setRecentlyViewed] = useState<RecentlyViewedRink[]>([]);
   const [ratedRinks, setRatedRinks] = useState<{ id: string; name: string; city: string; state: string; ratedAt: number }[]>([]);
   const [staleNudge, setStaleNudge] = useState<{ id: string; name: string; daysOld: number } | null>(null);
-  const [nudgeDismissed, setNudgeDismissed] = useState(false);
+  const [nudgeDismissed, setNudgeDismissed] = useState(() => {
+    const dismissedAt = storage.getNudgeDismissedAt();
+    return dismissedAt ? (Date.now() - new Date(dismissedAt).getTime()) < 7 * 24 * 60 * 60 * 1000 : false;
+  });
   const [vibeCTA, setVibeCTA] = useState<{ text: string; action: string; icon: string } | null>(null);
 
   // Load Vibe CTA
@@ -133,7 +136,8 @@ export default function HomeClient({
   // Auto-focus search on desktop
   useEffect(() => {
     if (window.innerWidth > 768) {
-      setTimeout(() => searchRef.current?.focus(), 300);
+      const t = setTimeout(() => searchRef.current?.focus(), 300);
+      return () => clearTimeout(t);
     }
   }, []);
 
@@ -351,7 +355,7 @@ export default function HomeClient({
                   Update
                 </button>
                 <button
-                  onClick={() => setNudgeDismissed(true)}
+                  onClick={() => { storage.setNudgeDismissedAt(new Date().toISOString()); setNudgeDismissed(true); }}
                   aria-label="Dismiss"
                   style={{
                     fontSize: 14, color: colors.textMuted,

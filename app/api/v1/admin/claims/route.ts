@@ -24,7 +24,11 @@ export async function GET(request: NextRequest) {
   if (error) return error;
 
   try {
+    const VALID_STATUSES = ['pending', 'approved', 'rejected'];
     const status = request.nextUrl.searchParams.get('status') || 'pending';
+    if (!VALID_STATUSES.includes(status)) {
+      return NextResponse.json({ error: 'Invalid status filter' }, { status: 400 });
+    }
     const result = await pool.query(
       `SELECT rc.id, rc.rink_id, rc.name, rc.email, rc.role, rc.status, rc.created_at,
               r.name AS rink_name, r.city, r.state

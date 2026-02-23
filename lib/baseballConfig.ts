@@ -12,16 +12,6 @@ export const BASEBALL_SIGNAL_META: Record<string, { label: string; icon: string;
   batting_cages: { label: 'Batting cages', icon: '⚾', lowLabel: 'None', highLabel: 'Available', info: 'Are there batting cages or warm-up areas available at or near the complex?' },
 };
 
-export const BASEBALL_SIGNAL_LABELS: Record<string, string> = {
-  parking: 'Parking',
-  heat: 'Heat',
-  food_nearby: 'Food',
-  chaos: 'Chaos',
-  family_friendly: 'Family',
-  dugouts: 'Dugouts',
-  batting_cages: 'Cages',
-};
-
 export const BASEBALL_SIGNAL_ICONS: Record<string, string> = {
   parking: '🅿️',
   heat: '☀️',

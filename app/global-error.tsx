@@ -23,7 +23,9 @@ export default function GlobalError({
             Something went wrong
           </h2>
           <p style={{ fontSize: text.md, color: colors.textTertiary, marginTop: 8 }}>
-            {error.message || 'An unexpected error occurred.'}
+            {process.env.NODE_ENV === 'development'
+              ? error.message
+              : 'An unexpected error occurred. Please try again.'}
           </p>
           <div style={{ display: 'flex', gap: 10, justifyContent: 'center', marginTop: 20 }}>
             <button
