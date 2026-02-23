@@ -132,19 +132,22 @@ export function RinkCard({ rink, onClick }: { rink: RinkData; onClick: () => voi
                 &ldquo;{summary.tips[0].text}&rdquo;
               </p>
             )}
-            <div style={{ display: 'flex', alignItems: 'center', gap: 8, marginTop: 8 }}>
-              {/* Pulse dot — freshness indicator */}
+            <div style={{ display: 'flex', alignItems: 'center', gap: 6, marginTop: 8 }}>
+              {/* Pulse dot + visible freshness text */}
               {summary.last_updated_at && getFreshnessTier(summary.last_updated_at) !== 'unknown' && (
-                <span
-                  title={getPulseDotLabel(summary.last_updated_at)}
-                  style={{
+                <>
+                  <span style={{
                     width: 8, height: 8, borderRadius: '50%', flexShrink: 0,
                     background: getPulseDotColor(getFreshnessTier(summary.last_updated_at)),
-                  }}
-                />
+                  }} />
+                  <span style={{ fontSize: text.xs, color: colors.textTertiary }}>
+                    {getPulseDotLabel(summary.last_updated_at)}
+                  </span>
+                  <span style={{ fontSize: text.xs, color: colors.textMuted }}>·</span>
+                </>
               )}
               <span style={{ fontSize: text.xs, color: colors.textTertiary }}>
-                From {summary.contribution_count} hockey parent{summary.contribution_count !== 1 ? 's' : ''}
+                {summary.contribution_count} parent{summary.contribution_count !== 1 ? 's' : ''}
               </span>
               {summary.confirmed_this_season && (
                 <span style={{ fontSize: text['2xs'], fontWeight: 500, padding: '2px 8px', borderRadius: 10, background: colors.bgSuccess, color: colors.success }}>

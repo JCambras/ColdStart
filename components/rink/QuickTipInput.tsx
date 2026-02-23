@@ -46,7 +46,6 @@ export function QuickTipInput({ rinkId, onSummaryUpdate }: QuickTipInputProps) {
       if (data?.summary) onSummaryUpdate(data.summary);
       setText('');
       setSuccess(true);
-      setTimeout(() => setSuccess(false), 2000);
     } catch {
       setError(true);
     }
@@ -67,7 +66,18 @@ export function QuickTipInput({ rinkId, onSummaryUpdate }: QuickTipInputProps) {
     return (
       <div style={{ display: 'flex', alignItems: 'center', gap: 8, padding: '4px 0' }}>
         <span style={{ fontSize: 16 }}>✓</span>
-        <span style={{ fontSize: 13, fontWeight: 600, color: colors.success }}>Tip added — thanks!</span>
+        <span style={{ fontSize: 13, fontWeight: 600, color: colors.success, flex: 1 }}>Tip added — thanks!</span>
+        <button
+          onClick={() => setSuccess(false)}
+          aria-label="Dismiss"
+          style={{
+            fontSize: 16, color: colors.textMuted, background: 'none',
+            border: 'none', cursor: 'pointer', padding: '2px 6px',
+            lineHeight: 1,
+          }}
+        >
+          ×
+        </button>
       </div>
     );
   }

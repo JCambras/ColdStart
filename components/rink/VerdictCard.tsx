@@ -96,21 +96,15 @@ export function VerdictCard({ rink, summary, loadedSignals }: VerdictCardProps) 
           }}>
             {summary.verdict}
           </p>
-          {freshnessTier === 'fresh' && summary.last_updated_at && (
+          {freshnessTier !== 'unknown' && summary.last_updated_at && (
             <span style={{
-              fontSize: 10, fontWeight: 600, padding: '2px 8px',
+              fontSize: 10,
+              fontWeight: freshnessTier === 'fresh' ? 600 : 500,
+              padding: '2px 8px',
               borderRadius: 10, whiteSpace: 'nowrap',
-              background: colors.bgSuccess, color: colors.success,
-              border: `1px solid ${colors.successBorder}`,
-            }}>
-              Updated {timeAgo(summary.last_updated_at)}
-            </span>
-          )}
-          {freshnessTier === 'moderate' && summary.last_updated_at && (
-            <span style={{
-              fontSize: 10, fontWeight: 500, padding: '2px 8px',
-              borderRadius: 10, whiteSpace: 'nowrap',
-              color: colors.textMuted,
+              ...(freshnessTier === 'fresh'
+                ? { background: colors.bgSuccess, color: colors.success, border: `1px solid ${colors.successBorder}` }
+                : { color: colors.textMuted }),
             }}>
               Updated {timeAgo(summary.last_updated_at)}
             </span>
@@ -125,6 +119,32 @@ export function VerdictCard({ rink, summary, loadedSignals }: VerdictCardProps) 
           }}>
             {summaryText}
           </p>
+        )}
+
+        {/* Always-visible signal chips */}
+        {hasData && sortedSignals.some(s => s.count > 0) && (
+          <div style={{ display: 'flex', flexWrap: 'wrap', gap: 4, marginTop: 8 }}>
+            {sortedSignals.map(s => {
+              const meta = SIGNAL_META[s.signal];
+              if (!meta || s.count === 0) return null;
+              const barColor = getBarColor(s.value, s.count);
+              return (
+                <span
+                  key={s.signal}
+                  style={{
+                    display: 'inline-flex', alignItems: 'center', gap: 2,
+                    fontSize: 11, fontWeight: 600,
+                    padding: '1px 6px', borderRadius: 6,
+                    background: `${barColor}11`, color: barColor,
+                    whiteSpace: 'nowrap',
+                  }}
+                >
+                  <span style={{ fontSize: 10 }}>{meta.icon}</span>
+                  {s.value.toFixed(1)}
+                </span>
+              );
+            })}
+          </div>
         )}
 
         {/* Compact signal summary — expandable numeric backup */}
