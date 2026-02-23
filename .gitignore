@@ -11,5 +11,9 @@ out/
 # raw seed data (large, regenerable)
 /data/
 
+# playwright
+playwright-report/
+test-results/
+
 # misc
 .DS_Store
