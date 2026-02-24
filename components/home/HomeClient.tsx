@@ -407,8 +407,8 @@ export default function HomeClient({
           </section>
         )}
 
-        {/* Recently Viewed — shows when user has view history but no saved rinks */}
-        {recentlyViewed.length > 0 && savedRinks.length === 0 && (
+        {/* Recently Viewed */}
+        {recentlyViewed.length > 0 && (
           <section aria-label="Recently viewed rinks" style={{
             maxWidth: layout.maxWidth5xl, margin: '0 auto', padding: '32px 24px 0',
           }}>

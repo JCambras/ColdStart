@@ -2,6 +2,7 @@
   "nav": {
     "$type": "other",
     "bg": { "$value": "rgba(250,250,248,0.85)" },
-    "blur": { "$value": "blur(12px)" }
+    "blur": { "$value": "blur(12px)" },
+    "shadow": { "$value": "0 -1px 3px rgba(0,0,0,0.04)" }
   }
 }

@@ -34,8 +34,8 @@ function PlaceVoteButtons({ rinkSlug, placeName, score, userVote, onVote }: {
       <button
         onClick={(e) => { e.preventDefault(); e.stopPropagation(); onVote('up'); }}
         style={{
-          background: 'none', border: 'none', cursor: 'pointer', padding: '2px 4px',
-          fontSize: 12, lineHeight: 1,
+          background: 'none', border: 'none', cursor: 'pointer', padding: '10px 8px',
+          fontSize: 12, lineHeight: 1, minHeight: 44, minWidth: 44,
           color: userVote === 'up' ? colors.brand : colors.textDisabled,
           transition: 'color 0.15s',
         }}
@@ -48,8 +48,8 @@ function PlaceVoteButtons({ rinkSlug, placeName, score, userVote, onVote }: {
       <button
         onClick={(e) => { e.preventDefault(); e.stopPropagation(); onVote('down'); }}
         style={{
-          background: 'none', border: 'none', cursor: 'pointer', padding: '2px 4px',
-          fontSize: 12, lineHeight: 1,
+          background: 'none', border: 'none', cursor: 'pointer', padding: '10px 8px',
+          fontSize: 12, lineHeight: 1, minHeight: 44, minWidth: 44,
           color: userVote === 'down' ? colors.error : colors.textDisabled,
           transition: 'color 0.15s',
         }}

@@ -61,6 +61,6 @@ describe('theme tokens', () => {
       Object.keys(shadow).length +
       Object.keys(transition).length +
       Object.keys(nav).length;
-    expect(total).toBe(101);
+    expect(total).toBe(105);
   });
 });

@@ -77,7 +77,7 @@ export function SignalBar({ signal, rinkSlug, stateAverage }: { signal: Signal; 
           width: noData ? '0%' : `${pct}%`,
           height: '100%',
           borderRadius: 5,
-          background: color,
+          background: noData ? color : `linear-gradient(90deg, ${color}, ${color}dd)`,
           transition: 'width 0.8s ease',
         }} />
       </div>

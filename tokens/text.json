@@ -8,6 +8,7 @@
     "base": { "$value": 14 },
     "lg": { "$value": 15 },
     "xl": { "$value": 18 },
-    "2xl": { "$value": 24 }
+    "2xl": { "$value": 24 },
+    "3xl": { "$value": 30 }
   }
 }

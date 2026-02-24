@@ -270,7 +270,7 @@ export function TipCard({ tip, tipIndex, rinkSlug }: { tip: Tip; tipIndex: numbe
                   style={{
                     fontSize: text['2xs'], color: flagged ? colors.textMuted : colors.textTertiary,
                     background: 'none', border: 'none', cursor: flagged ? 'default' : 'pointer',
-                    padding: '4px 8px', display: 'flex', alignItems: 'center', gap: 4,
+                    padding: '10px 12px', minHeight: 44, display: 'flex', alignItems: 'center', gap: 4,
                     borderRadius: 6, transition: 'color 0.15s',
                   }}
                 >

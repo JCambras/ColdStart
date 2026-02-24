@@ -2,7 +2,7 @@
 
 import { useState, useEffect } from 'react';
 import { SIGNAL_LABELS } from '../lib/constants';
-import { getBarColor, getRinkPhoto, getFreshnessTier, getPulseDotColor, getPulseDotLabel } from '../lib/rinkHelpers';
+import { getBarColor, getVerdictColor, getVerdictBg, getRinkPhoto, getFreshnessTier, getPulseDotColor, getPulseDotLabel } from '../lib/rinkHelpers';
 import { colors, text, shadow } from '../lib/theme';
 
 interface Signal {
@@ -96,6 +96,17 @@ export function RinkCard({ rink, onClick }: { rink: RinkData; onClick: () => voi
       {summary ? (
         <div style={{ flex: 1, display: 'flex', flexDirection: 'column', justifyContent: 'space-between', marginTop: 10 }}>
           <div>
+            {/* Verdict badge */}
+            {summary.verdict && (
+              <span style={{
+                display: 'inline-block', fontSize: 11, fontWeight: 600,
+                padding: '3px 10px', borderRadius: 8,
+                background: getVerdictBg(summary.verdict),
+                color: getVerdictColor(summary.verdict),
+              }}>
+                {summary.verdict}
+              </span>
+            )}
             {/* Signal bars — all signals, parking first */}
             <div style={{ display: 'flex', flexDirection: 'column' as const, gap: isMobile ? 7 : 8, marginTop: 10 }}>
               {[...summary.signals]
@@ -107,8 +118,8 @@ export function RinkCard({ rink, onClick }: { rink: RinkData; onClick: () => voi
                   return (
                     <div key={s.signal} style={{ display: 'flex', alignItems: 'center', gap: 8, fontSize: text.sm }}>
                       <span style={{ width: 52, flexShrink: 0, color: colors.textSecondary, fontWeight: 500 }}>{label}</span>
-                      <div style={{ flex: 1, height: 5, background: colors.borderLight, borderRadius: 3, overflow: 'hidden' }}>
-                        <div style={{ width: `${pct}%`, height: '100%', borderRadius: 3, background: color, transition: 'width 0.6s ease' }} />
+                      <div style={{ flex: 1, height: 7, background: colors.borderLight, borderRadius: 4, overflow: 'hidden' }}>
+                        <div style={{ width: `${pct}%`, height: '100%', borderRadius: 4, background: `linear-gradient(90deg, ${color}, ${color}dd)`, transition: 'width 0.6s ease' }} />
                       </div>
                       <span style={{ width: 32, textAlign: 'right' as const, fontWeight: 600, fontSize: text.xs, color: colors.textSecondary }}>
                         {s.value.toFixed(1)}<span style={{ fontWeight: 400, color: colors.textMuted }}>/5</span>
@@ -158,19 +169,30 @@ export function RinkCard({ rink, onClick }: { rink: RinkData; onClick: () => voi
           </div>
         </div>
       ) : (
-        <p style={{ fontSize: text.md, color: colors.textTertiary, marginTop: 12 }}>
-          No reports yet — be the first.
+        <p style={{ fontSize: text.md, color: colors.textSecondary, marginTop: 12, lineHeight: 1.5 }}>
+          You&apos;ve been here — tell other parents what to expect.
         </p>
       )}
     </div>
   );
 
+  const savePreview = () => {
+    try {
+      sessionStorage.setItem('coldstart_card_preview', JSON.stringify({
+        name: rink.name,
+        city: rink.city,
+        state: rink.state,
+        verdict: summary?.verdict ?? null,
+      }));
+    } catch {}
+  };
+
   return (
     <div
       role="button"
       tabIndex={0}
-      onClick={onClick}
-      onKeyDown={(e) => { if (e.key === 'Enter' || e.key === ' ') { e.preventDefault(); onClick(); } }}
+      onClick={() => { savePreview(); onClick(); }}
+      onKeyDown={(e) => { if (e.key === 'Enter' || e.key === ' ') { e.preventDefault(); savePreview(); onClick(); } }}
       onMouseEnter={() => setHovered(true)}
       onMouseLeave={() => setHovered(false)}
       style={{
@@ -178,10 +200,10 @@ export function RinkCard({ rink, onClick }: { rink: RinkData; onClick: () => voi
         border: `1px solid ${colors.borderDefault}`,
         borderRadius: 16,
         cursor: 'pointer',
-        transition: 'all 0.25s ease',
-        transform: hovered ? 'translateY(-3px)' : 'none',
+        transition: 'all 0.2s ease-out',
+        transform: hovered ? 'translateY(-2px)' : 'none',
         boxShadow: hovered
-          ? `${shadow.xl}, 0 0 0 1px ${colors.brandLight}`
+          ? `${shadow.lg}, 0 0 0 1px ${colors.brandLight}`
           : shadow.sm,
         overflow: 'hidden',
         display: 'flex',

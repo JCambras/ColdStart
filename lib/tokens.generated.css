@@ -5,7 +5,7 @@
   --colors-textPrimary: #111827;
   --colors-textSecondary: #374151;
   --colors-textTertiary: #6b7280;
-  --colors-textMuted: #9ca3af;
+  --colors-textMuted: #737373;
   --colors-textDisabled: #d1d5db;
   --colors-textInverse: #ffffff;
   --colors-white: #ffffff;
@@ -83,6 +83,7 @@
   --text-lg: 15px;
   --text-xl: 18px;
   --text-2xl: 24px;
+  --text-3xl: 30px;
 
   /* radius */
   --radius-sm: 6px;
@@ -111,8 +112,11 @@
   /* transition */
   --transition-fast: all 0.15s ease;
   --transition-normal: all 0.2s ease;
+  --transition-slow: all 0.3s ease;
+  --transition-slower: all 0.5s ease-out;
 
   /* nav */
   --nav-bg: rgba(250,250,248,0.85);
   --nav-blur: blur(12px);
+  --nav-shadow: 0 -1px 3px rgba(0,0,0,0.04);
 }

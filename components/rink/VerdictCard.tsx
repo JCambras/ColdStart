@@ -3,7 +3,7 @@
 import { useState } from 'react';
 import { getVerdictColor, getVerdictBg, timeAgo, ensureAllSignals, getRinkSlug, getBarColor } from '../../lib/rinkHelpers';
 import { SIGNAL_META, SIGNAL_ORDER, SignalType } from '../../lib/constants';
-import { colors } from '../../lib/theme';
+import { colors, text } from '../../lib/theme';
 import { generateSummary } from '../../lib/sentences';
 import type { Signal, Rink, RinkSummary } from '../../lib/rinkTypes';
 
@@ -88,11 +88,11 @@ export function VerdictCard({ rink, summary, loadedSignals }: VerdictCardProps) 
         <p style={{ fontSize: 11, fontWeight: 600, color: colors.textTertiary, margin: 0, letterSpacing: 0.3, textTransform: 'uppercase' }}>
           Parents report:
         </p>
-        <div style={{ display: 'flex', alignItems: 'center', gap: 8, marginTop: 2 }}>
+        <div style={{ display: 'flex', alignItems: 'center', gap: 8, marginTop: 2, flexWrap: 'wrap' }}>
           <p style={{
-            fontSize: 18, fontWeight: 700,
+            fontSize: `clamp(${text.xl}px, 3vw, ${text['3xl']}px)`, fontWeight: 700,
             color: getVerdictColor(summary.verdict),
-            margin: 0, lineHeight: 1.3,
+            margin: 0, lineHeight: 1.2, letterSpacing: -0.3,
           }}>
             {summary.verdict}
           </p>

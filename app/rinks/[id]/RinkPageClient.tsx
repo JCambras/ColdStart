@@ -39,9 +39,18 @@ export function RinkPageClient() {
   const [activeTab, setActiveTab] = useState('signals');
   const [referralSource, setReferralSource] = useState<string | null>(null);
   const [rinkPhotos, setRinkPhotos] = useState<{ id: number; url: string; caption?: string; contributor_name?: string }[]>([]);
+  const [preview, setPreview] = useState<{ name: string; city: string; state: string; verdict: string | null } | null>(null);
 
   const searchParams = useSearchParams();
   const { currentUser, openAuth } = useAuth();
+
+  // Read card preview from sessionStorage for transition continuity
+  useEffect(() => {
+    try {
+      const raw = sessionStorage.getItem('coldstart_card_preview');
+      if (raw) setPreview(JSON.parse(raw));
+    } catch {}
+  }, []);
 
   // Seed place tips for demo rinks (once)
   useEffect(() => {
@@ -118,9 +127,10 @@ export function RinkPageClient() {
     storage.setRinkViewed(rinkId, new Date().toISOString());
   }, [rinkId]);
 
-  // Store richer view data for "Recently Viewed" on homepage
+  // Store richer view data for "Recently Viewed" on homepage + clear preview
   useEffect(() => {
     if (!detail || !rinkId) return;
+    try { sessionStorage.removeItem('coldstart_card_preview'); } catch {}
     storage.setRinkViewedMeta(rinkId, {
       name: detail.rink.name,
       city: detail.rink.city,
@@ -231,6 +241,44 @@ export function RinkPageClient() {
 
   function handleSummaryUpdate(summary: RinkSummary) {
     setDetail(prev => prev ? { ...prev, summary } : prev);
+  }
+
+  if (loading && preview) {
+    return (
+      <PageShell>
+        <div style={{ maxWidth: 680, margin: '0 auto', padding: '0 24px' }}>
+          <section style={{ paddingTop: 24 }}>
+            <h1 style={{
+              fontSize: 'clamp(22px, 5vw, 36px)',
+              fontWeight: 700, color: colors.textPrimary,
+              lineHeight: 1.15, letterSpacing: -0.5, margin: 0,
+            }}>
+              {preview.name}
+            </h1>
+            <p style={{ fontSize: 13, color: colors.textTertiary, marginTop: 4 }}>
+              {preview.city}, {preview.state}
+            </p>
+          </section>
+          {/* Verdict skeleton */}
+          <div style={{
+            marginTop: 20, borderRadius: 16, padding: '20px 24px',
+            background: colors.bgSubtle, border: `1px solid ${colors.borderLight}`,
+          }}>
+            <div style={{ width: 80, height: 10, borderRadius: 4, background: colors.borderLight, animation: 'pulse 1.5s infinite' }} />
+            <div style={{ width: 180, height: 18, borderRadius: 4, background: colors.borderLight, marginTop: 8, animation: 'pulse 1.5s infinite' }} />
+          </div>
+          {/* Signal bar skeletons */}
+          <div style={{ marginTop: 20, display: 'flex', flexDirection: 'column', gap: 10 }}>
+            {Array.from({ length: 7 }).map((_, i) => (
+              <div key={i} style={{ display: 'flex', alignItems: 'center', gap: 8 }}>
+                <div style={{ width: 52, height: 10, borderRadius: 4, background: colors.borderLight, animation: 'pulse 1.5s infinite' }} />
+                <div style={{ flex: 1, height: 7, borderRadius: 4, background: colors.borderLight, animation: 'pulse 1.5s infinite' }} />
+              </div>
+            ))}
+          </div>
+        </div>
+      </PageShell>
+    );
   }
 
   if (loading) {
@@ -595,15 +643,36 @@ export function RinkPageClient() {
         <SignalsSection rink={rink} summary={summary} loadedSignals={loadedSignals} />
 
         {!hasData && (
-          <section style={{ background: colors.surface, border: `1px solid ${colors.borderDefault}`, borderRadius: 16, padding: 32, marginTop: 16, textAlign: 'center' }}>
-            <div style={{ fontSize: 36, marginBottom: 12 }}>🏒</div>
-            <p style={{ fontSize: 16, fontWeight: 600, color: colors.textPrimary, margin: 0 }}>Be the first to report</p>
-            <p style={{ fontSize: 14, color: colors.textTertiary, marginTop: 6, lineHeight: 1.5 }}>
-              No one has shared info about this rink yet.<br />How&apos;s parking? Is it cold? Drop a quick tip.
+          <section style={{
+            background: `linear-gradient(135deg, ${colors.bgInfo}, ${colors.surface})`,
+            border: `1px solid ${colors.borderDefault}`, borderRadius: 16,
+            padding: 32, marginTop: 16, textAlign: 'center', position: 'relative', overflow: 'hidden',
+          }}>
+            {/* Ghost signal bars hint */}
+            <div style={{ display: 'flex', justifyContent: 'center', alignItems: 'flex-end', gap: 6, marginBottom: 16, opacity: 0.18 }}>
+              {[28, 18, 34, 14, 24, 20, 30].map((h, i) => (
+                <div key={i} style={{ width: 8, height: h, borderRadius: 3, background: colors.brand }} />
+              ))}
+            </div>
+            <div style={{
+              width: 56, height: 56, borderRadius: '50%', margin: '0 auto 12px',
+              background: `linear-gradient(135deg, ${colors.bgInfo}, ${colors.brandBg})`,
+              display: 'flex', alignItems: 'center', justifyContent: 'center', fontSize: 28,
+            }}>
+              🏒
+            </div>
+            <p style={{ fontSize: 16, fontWeight: 600, color: colors.textPrimary, margin: 0 }}>Help other hockey parents</p>
+            <p style={{ fontSize: 14, color: colors.textSecondary, marginTop: 6, lineHeight: 1.5, maxWidth: 400, margin: '6px auto 0' }}>
+              You know this rink — your parking tips, your &ldquo;bring a blanket&rdquo; warnings, your food recommendations help every parent heading here for the first time.
             </p>
             <button
               onClick={() => { const el = document.getElementById('contribute-section'); if (el) el.scrollIntoView({ behavior: 'smooth' }); }}
-              style={{ marginTop: 16, fontSize: 14, fontWeight: 600, color: colors.textInverse, background: colors.textPrimary, border: 'none', borderRadius: 10, padding: '12px 28px', cursor: 'pointer' }}
+              style={{
+                marginTop: 16, fontSize: 14, fontWeight: 600,
+                color: colors.textInverse,
+                background: `linear-gradient(135deg, ${colors.brand}, ${colors.brandAccent})`,
+                border: 'none', borderRadius: 10, padding: '12px 28px', cursor: 'pointer',
+              }}
             >
               Share what you know →
             </button>

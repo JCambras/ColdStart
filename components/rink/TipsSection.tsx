@@ -64,11 +64,11 @@ export function TipsSection({ tips, rinkSlug }: TipsSectionProps) {
       </div>
       {tips.length === 0 ? (
         <div style={{
-          background: colors.surface, border: `1px solid ${colors.borderDefault}`,
+          background: colors.surface, border: `1px dashed ${colors.borderMedium}`,
           borderRadius: 12, padding: '28px 20px', textAlign: 'center',
         }}>
-          <p style={{ fontSize: 14, color: colors.textTertiary, margin: 0, lineHeight: 1.5 }}>
-            No tips yet — be the first to share what parents should know about this rink.
+          <p style={{ fontSize: 14, color: colors.textSecondary, margin: 0, lineHeight: 1.5 }}>
+            Got insider knowledge? Share what you wish you&apos;d known before your first visit.
           </p>
         </div>
       ) : (

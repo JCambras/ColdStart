@@ -4,7 +4,7 @@ export const colors = {
   textPrimary: '#111827',
   textSecondary: '#374151',
   textTertiary: '#6b7280',
-  textMuted: '#9ca3af',
+  textMuted: '#737373',
   textDisabled: '#d1d5db',
   textInverse: '#ffffff',
   white: '#ffffff',
@@ -83,6 +83,7 @@ export const text = {
   lg: 15,
   xl: 18,
   '2xl': 24,
+  '3xl': 30,
 } as const;
 
 export const radius = {
@@ -115,9 +116,12 @@ export const shadow = {
 export const transition = {
   fast: 'all 0.15s ease',
   normal: 'all 0.2s ease',
+  slow: 'all 0.3s ease',
+  slower: 'all 0.5s ease-out',
 } as const;
 
 export const nav = {
   bg: 'rgba(250,250,248,0.85)',
   blur: 'blur(12px)',
+  shadow: '0 -1px 3px rgba(0,0,0,0.04)',
 } as const;

@@ -94,7 +94,7 @@ function consensusNote(s: Signal): string {
 export function generateSummary(input: SentenceInput): string {
   const { signals, tips, contributionCount, verdict } = input;
   const rated = signals.filter(s => s.count > 0);
-  if (rated.length === 0) return 'No reports yet — be the first to rate this rink.';
+  if (rated.length === 0) return 'No reports yet — your ratings help other families.';
 
   const sentences: string[] = [];
 
@@ -136,7 +136,7 @@ export function generateSummary(input: SentenceInput): string {
 export function generateBriefing(input: SentenceInput): string {
   const { signals, tips, rinkName } = input;
   const rated = signals.filter(s => s.count > 0);
-  if (rated.length === 0) return `No reports yet for ${rinkName}.`;
+  if (rated.length === 0) return `No reports yet for ${rinkName} — be the first family to share.`;
 
   const sentences: string[] = [];
   sentences.push(`Here's what hockey parents report about ${rinkName}:`);

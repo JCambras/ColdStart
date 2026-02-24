@@ -43,7 +43,7 @@ export function SaveRinkButton({ rinkId }: { rinkId: string }) {
         color: saved ? colors.warning : colors.textTertiary,
         background: saved ? colors.bgWarning : colors.bgSubtle,
         border: `1px solid ${saved ? colors.warningBorder : colors.borderDefault}`,
-        borderRadius: radius.md, padding: '6px 14px', cursor: 'pointer',
+        borderRadius: radius.md, padding: '10px 14px', minHeight: 44, cursor: 'pointer',
         transition: 'all 0.15s', whiteSpace: 'nowrap',
         display: 'flex', alignItems: 'center', gap: 4,
       }}

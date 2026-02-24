@@ -250,11 +250,27 @@ export function RateAndContribute({ rinkId, rinkName, onSummaryUpdate, contribut
   }
 
   if (phase === 'done_rate') {
+    const isCompletionist = ratedCount === 7;
     return (
       <section style={{ marginTop: 16, background: colors.bgSuccess, border: `1px solid ${colors.successBorder}`, borderRadius: 16, padding: 24, textAlign: 'center' }}>
-        <div style={{ fontSize: 28, marginBottom: 8 }}>✓</div>
-        <p style={{ fontSize: 15, fontWeight: 600, color: colors.success, margin: 0 }}>Rating submitted</p>
-        <p style={{ fontSize: 12, color: colors.textTertiary, marginTop: 4 }}>Thanks — this helps other hockey parents.</p>
+        <div style={{ fontSize: 32, marginBottom: 8, animation: 'bounceIn 0.5s ease-out' }}>{isCompletionist ? '🌟' : '✓'}</div>
+        <p style={{ fontSize: 15, fontWeight: 600, color: colors.success, margin: 0 }}>{isCompletionist ? 'Full report submitted!' : 'Rating submitted'}</p>
+        <p style={{ fontSize: 13, color: colors.textSecondary, marginTop: 4 }}>
+          {isCompletionist
+            ? `You just gave every parent heading to ${rinkName} the full picture.`
+            : `You just helped every parent heading to ${rinkName}.`}
+        </p>
+        {/* Progress bar */}
+        <div style={{ display: 'flex', justifyContent: 'center', gap: 3, marginTop: 10 }}>
+          {Array.from({ length: 7 }).map((_, i) => (
+            <div key={i} style={{
+              width: 24, height: 4, borderRadius: 2,
+              background: i < ratedCount ? colors.success : colors.borderLight,
+              transition: 'background 0.3s',
+            }} />
+          ))}
+        </div>
+        <p style={{ fontSize: 11, color: colors.textTertiary, marginTop: 4 }}>{ratedCount}/7 signals rated</p>
         {lastRating && signals && (() => {
           const match = signals.find(s => s.signal === lastRating.signal);
           if (match && match.count > 0 && Math.abs(lastRating.value - match.value) <= 1) {

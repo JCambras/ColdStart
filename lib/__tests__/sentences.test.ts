@@ -23,7 +23,7 @@ function makeSignal(signal: string, value: number, count: number, stddev?: numbe
 describe('generateSummary', () => {
   it('returns fallback when no signals are rated', () => {
     const result = generateSummary(makeInput());
-    expect(result).toBe('No reports yet — be the first to rate this rink.');
+    expect(result).toBe('No reports yet — your ratings help other families.');
   });
 
   it('leads with good marks for good verdict', () => {
@@ -93,7 +93,7 @@ describe('generateSummary', () => {
 describe('generateBriefing', () => {
   it('returns fallback when no signals are rated', () => {
     const result = generateBriefing(makeInput({ rinkName: 'Ice Line' }));
-    expect(result).toBe('No reports yet for Ice Line.');
+    expect(result).toBe('No reports yet for Ice Line — be the first family to share.');
   });
 
   it('leads with "Here\'s what hockey parents report about"', () => {
