@@ -3,7 +3,7 @@
 import { useState, useEffect, useRef, RefObject } from 'react';
 import { useAuth } from '../../contexts/AuthContext';
 import { Logo } from '../Logo';
-import { colors, shadow, layout } from '../../lib/theme';
+import { colors, shadow, layout, spacing, pad } from '../../lib/theme';
 
 interface HeroSearchProps {
   query: string;
@@ -55,7 +55,7 @@ export function HeroSearch({
     }}>
       {/* Background photo */}
       <div style={{
-        position: 'absolute', top: 0, left: 0, right: 0, bottom: 0, zIndex: 0,
+        position: 'absolute', top: spacing[0], left: spacing[0], right: spacing[0], bottom: spacing[0], zIndex: 0,
       }}>
         <img
           src="/rink-photos/hero-rink.webp"
@@ -68,11 +68,11 @@ export function HeroSearch({
       </div>
       {/* Dark overlay on top of photo */}
       <div style={{
-        position: 'absolute', top: 0, left: 0, right: 0, bottom: 0, zIndex: 1,
+        position: 'absolute', top: spacing[0], left: spacing[0], right: spacing[0], bottom: spacing[0], zIndex: 1,
         background: `linear-gradient(135deg, ${colors.heroOverlay} 0%, ${colors.heroOverlayMid} 50%, ${colors.heroOverlayLight} 100%)`,
       }} />
       <div style={{
-        position: 'absolute', top: 0, left: 0, right: 0, bottom: 0, zIndex: 2,
+        position: 'absolute', top: spacing[0], left: spacing[0], right: spacing[0], bottom: spacing[0], zIndex: 2,
         background: `radial-gradient(ellipse at 30% 50%, ${colors.heroOverlayRadial} 0%, transparent 70%)`,
       }} />
 
@@ -80,7 +80,7 @@ export function HeroSearch({
       <nav style={{
         position: 'relative', zIndex: 10,
         maxWidth: layout.maxWidth5xl, width: '100%',
-        margin: '0 auto', padding: '20px 24px',
+        margin: '0 auto', padding: pad(spacing[20], spacing[24]),
         display: 'flex', justifyContent: 'space-between', alignItems: 'center',
       }}>
         <Logo size={28} stacked light />
@@ -90,8 +90,8 @@ export function HeroSearch({
             aria-label="Menu"
             aria-expanded={menuOpen}
             style={{
-              background: 'none', border: 'none', cursor: 'pointer', padding: '12px',
-              display: 'flex', flexDirection: 'column', gap: 4,
+              background: 'none', border: 'none', cursor: 'pointer', padding: spacing[12],
+              display: 'flex', flexDirection: 'column', gap: spacing[4],
               minWidth: 44, minHeight: 44, alignItems: 'center', justifyContent: 'center',
             }}
           >
@@ -101,23 +101,23 @@ export function HeroSearch({
           </button>
           {menuOpen && (
             <div style={{
-              position: 'absolute', right: 0, top: '100%', marginTop: 8,
+              position: 'absolute', right: spacing[0], top: '100%', marginTop: spacing[8],
               background: colors.surface, border: `1px solid ${colors.stone200}`,
               borderRadius: 12, boxShadow: shadow.xl,
-              minWidth: 180, padding: '8px 0', zIndex: 100,
+              minWidth: 180, padding: pad(spacing[8], spacing[0]), zIndex: 100,
             }}>
               {isLoggedIn ? (
                 <>
                   <div style={{
-                    padding: '10px 16px', fontSize: 13, color: colors.stone400,
-                    borderBottom: `1px solid ${colors.stone200}`, marginBottom: 4,
+                    padding: pad(spacing[10], spacing[16]), fontSize: 13, color: colors.stone400,
+                    borderBottom: `1px solid ${colors.stone200}`, marginBottom: spacing[4],
                   }}>
                     {currentUser?.name || 'Signed in'}
                   </div>
                   <button
                     onClick={() => { setMenuOpen(false); logout(); }}
                     style={{
-                      display: 'block', width: '100%', padding: '10px 16px',
+                      display: 'block', width: '100%', padding: pad(spacing[10], spacing[16]),
                       fontSize: 14, color: colors.stone700,
                       background: 'none', border: 'none', cursor: 'pointer', textAlign: 'left',
                     }}
@@ -131,7 +131,7 @@ export function HeroSearch({
                 <button
                   onClick={() => { setMenuOpen(false); openAuth(); }}
                   style={{
-                    display: 'block', width: '100%', padding: '10px 16px',
+                    display: 'block', width: '100%', padding: pad(spacing[10], spacing[16]),
                     fontSize: 14, fontWeight: 500, color: colors.brand,
                     background: 'none', border: 'none', cursor: 'pointer', textAlign: 'left',
                   }}
@@ -141,7 +141,7 @@ export function HeroSearch({
                   Sign in
                 </button>
               )}
-              <div style={{ height: 1, background: colors.stone200, margin: '4px 0' }} />
+              <div style={{ height: 1, background: colors.stone200, margin: pad(spacing[4], spacing[0]) }} />
               <button
                 onClick={() => {
                   setMenuOpen(false);
@@ -149,7 +149,7 @@ export function HeroSearch({
                   if (el) el.scrollIntoView({ behavior: 'smooth' });
                 }}
                 style={{
-                  display: 'block', width: '100%', padding: '10px 16px',
+                  display: 'block', width: '100%', padding: pad(spacing[10], spacing[16]),
                   fontSize: 14, color: colors.stone700,
                   background: 'none', border: 'none', cursor: 'pointer', textAlign: 'left',
                 }}
@@ -158,11 +158,11 @@ export function HeroSearch({
               >
                 My Rinks
               </button>
-              <div style={{ height: 1, background: colors.stone200, margin: '4px 0' }} />
+              <div style={{ height: 1, background: colors.stone200, margin: pad(spacing[4], spacing[0]) }} />
               <a
                 href="/team"
                 style={{
-                  display: 'block', padding: '10px 16px',
+                  display: 'block', padding: pad(spacing[10], spacing[16]),
                   fontSize: 14, color: colors.stone700,
                   textDecoration: 'none',
                 }}
@@ -181,20 +181,20 @@ export function HeroSearch({
         position: 'relative', zIndex: 10,
         flex: 1, display: 'flex', flexDirection: 'column',
         justifyContent: 'center', alignItems: 'center',
-        padding: '0 24px 40px', textAlign: 'center',
+        padding: pad(spacing[0], spacing[24], spacing[40]), textAlign: 'center',
       }}>
         <h1 style={{
           fontSize: isMobile ? 36 : 48,
           fontWeight: 600, color: colors.textInverse,
           lineHeight: 1.1, letterSpacing: -0.5,
-          margin: 0,
+          margin: spacing[0],
         }}>
           Scout the rink
         </h1>
         <p style={{
           fontSize: isMobile ? 15 : 17,
           fontWeight: 300, color: colors.heroTextSecondary,
-          lineHeight: 1.5, marginTop: 12,
+          lineHeight: 1.5, marginTop: spacing[12],
           maxWidth: 480,
         }}>
           Parking, comfort, food nearby — from parents who&apos;ve been there.
@@ -204,7 +204,7 @@ export function HeroSearch({
         <div
           style={{
             position: 'relative', width: '100%', maxWidth: 520,
-            marginTop: 28, borderRadius: 9999,
+            marginTop: spacing[28], borderRadius: 9999,
             background: colors.surface,
             boxShadow: focused
               ? `${shadow.xl}, 0 0 0 3px ${colors.heroFocusRing}`
@@ -215,7 +215,7 @@ export function HeroSearch({
           <svg
             aria-hidden="true"
             style={{
-              position: 'absolute', left: 20, top: '50%', transform: 'translateY(-50%)',
+              position: 'absolute', left: spacing[20], top: '50%', transform: 'translateY(-50%)',
               width: 18, height: 18, color: colors.stone400,
             }}
             viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2"
@@ -244,8 +244,8 @@ export function HeroSearch({
               onClick={onClearSearch}
               aria-label="Clear search"
               style={{
-                position: 'absolute', right: 8, top: '50%', transform: 'translateY(-50%)',
-                padding: '8px 20px', fontSize: 14, fontWeight: 600,
+                position: 'absolute', right: spacing[8], top: '50%', transform: 'translateY(-50%)',
+                padding: pad(spacing[8], spacing[20]), fontSize: 14, fontWeight: 600,
                 background: colors.amber, color: colors.navy900,
                 border: 'none', borderRadius: 9999, cursor: 'pointer',
                 transition: 'background 0.15s',
@@ -259,8 +259,8 @@ export function HeroSearch({
             <button
               onClick={onSearchSubmit}
               style={{
-                position: 'absolute', right: 8, top: '50%', transform: 'translateY(-50%)',
-                padding: '8px 20px', fontSize: 14, fontWeight: 600,
+                position: 'absolute', right: spacing[8], top: '50%', transform: 'translateY(-50%)',
+                padding: pad(spacing[8], spacing[20]), fontSize: 14, fontWeight: 600,
                 background: colors.amber, color: colors.navy900,
                 border: 'none', borderRadius: 9999, cursor: 'pointer',
                 transition: 'background 0.15s',
@@ -276,7 +276,7 @@ export function HeroSearch({
         {/* Stats */}
         <p style={{
           fontSize: 13, color: colors.heroTextMuted,
-          marginTop: 14, letterSpacing: 0.2,
+          marginTop: spacing[14], letterSpacing: 0.2,
         }}>
           {totalRinks > 0
             ? `${totalRinks}+ rinks rated · ${stateCount > 0 ? `${stateCount}+ parent reports · ` : ''}PA, NJ, NY, MI`

@@ -10,13 +10,18 @@ declare global {
 function getPool(): pg.Pool {
   if (globalThis._pgPool) return globalThis._pgPool;
 
-  const isProd = process.env.NODE_ENV === 'production';
   globalThis._pgPool = new Pool({
     connectionString: process.env.DATABASE_URL,
-    max: isProd ? 10 : 5,
+    max: 5,
+    idleTimeoutMillis: 10_000,
+    connectionTimeoutMillis: 5_000,
     ssl: process.env.DATABASE_URL?.includes('localhost')
       ? undefined
       : { rejectUnauthorized: false },
+  });
+
+  globalThis._pgPool.on('error', (err) => {
+    console.error('[db] Unexpected pool error:', err.message);
   });
 
   return globalThis._pgPool;

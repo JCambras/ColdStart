@@ -3,7 +3,7 @@
 import { useState } from 'react';
 import { useRouter } from 'next/navigation';
 import { Logo } from '../components/Logo';
-import { colors, text, radius, shadow } from '../lib/theme';
+import { colors, text, radius, shadow, spacing, pad } from '../lib/theme';
 
 export default function NotFound() {
   const router = useRouter();
@@ -21,26 +21,26 @@ export default function NotFound() {
       display: 'flex', alignItems: 'center', justifyContent: 'center',
     }}>
       <div style={{
-        maxWidth: 400, width: '100%', textAlign: 'center', padding: 32,
+        maxWidth: 400, width: '100%', textAlign: 'center', padding: spacing[32],
         background: colors.surface, border: `1px solid ${colors.borderDefault}`, borderRadius: 20,
         boxShadow: shadow.lg,
       }}>
-        <div style={{ marginBottom: 16 }}><Logo size={28} /></div>
-        <div style={{ fontSize: 36, marginBottom: 12 }}>🏒</div>
+        <div style={{ marginBottom: spacing[16] }}><Logo size={28} /></div>
+        <div style={{ fontSize: 36, marginBottom: spacing[12] }}>🏒</div>
         <h2 style={{ fontSize: text.xl, fontWeight: 700, color: colors.textPrimary, margin: 0 }}>
           Rink not found
         </h2>
         <p style={{ fontSize: text.md, color: colors.textTertiary, marginTop: 8, lineHeight: 1.5 }}>
           We couldn&apos;t find that page. Try searching for a rink instead.
         </p>
-        <div style={{ display: 'flex', gap: 8, marginTop: 20 }}>
+        <div style={{ display: 'flex', gap: spacing[8], marginTop: spacing[20] }}>
           <input
             value={query}
             onChange={(e) => setQuery(e.target.value)}
             onKeyDown={(e) => { if (e.key === 'Enter') handleSearch(); }}
             placeholder="Search rinks..."
             style={{
-              flex: 1, fontSize: text.base, padding: '10px 14px',
+              flex: 1, fontSize: text.base, padding: pad(spacing[10], spacing[14]),
               border: `1px solid ${colors.borderDefault}`, borderRadius: radius.lg,
               outline: 'none', fontFamily: 'inherit', color: colors.textPrimary,
             }}
@@ -50,7 +50,7 @@ export default function NotFound() {
             style={{
               fontSize: text.base, fontWeight: 600, color: colors.textInverse,
               background: colors.brand, border: 'none', borderRadius: radius.lg,
-              padding: '10px 18px', cursor: 'pointer', whiteSpace: 'nowrap',
+              padding: pad(spacing[10], spacing[18]), cursor: 'pointer', whiteSpace: 'nowrap',
             }}
           >
             Search
@@ -59,7 +59,7 @@ export default function NotFound() {
         <a
           href="/"
           style={{
-            display: 'inline-block', marginTop: 16,
+            display: 'inline-block', marginTop: spacing[16],
             fontSize: text.md, color: colors.textTertiary, textDecoration: 'underline',
             textUnderlineOffset: 2,
           }}

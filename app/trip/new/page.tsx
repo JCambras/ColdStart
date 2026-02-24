@@ -7,7 +7,7 @@ import { apiGet, seedGet, apiPost, apiDelete } from '../../../lib/api';
 import { storage } from '../../../lib/storage';
 import { getRinkSlug } from '../../../lib/rinkHelpers';
 import { useAuth } from '../../../contexts/AuthContext';
-import { colors, text } from '../../../lib/theme';
+import { colors, text, spacing, pad } from '../../../lib/theme';
 import { CollapsibleSection } from '../../../components/trip/CollapsibleSection';
 import { NearbyPicker } from '../../../components/trip/NearbyPicker';
 import { Game, CostItem, NearbyPlace, NearbyData } from '../../../types/trip';
@@ -284,12 +284,12 @@ function TripBuilderInner() {
   }
 
   const inputStyle: React.CSSProperties = {
-    width: '100%', padding: '10px 14px', fontSize: 14,
+    width: '100%', padding: pad(spacing[10], spacing[14]), fontSize: 14,
     border: `1px solid ${colors.borderMedium}`, borderRadius: 10,
     outline: 'none', boxSizing: 'border-box',
   };
-  const smallInputStyle: React.CSSProperties = { ...inputStyle, padding: '8px 10px', fontSize: 13 };
-  const labelStyle: React.CSSProperties = { fontSize: 12, fontWeight: 600, color: colors.textSecondary, display: 'block', marginBottom: 4 };
+  const smallInputStyle: React.CSSProperties = { ...inputStyle, padding: pad(spacing[8], spacing[10]), fontSize: 13 };
+  const labelStyle: React.CSSProperties = { fontSize: 12, fontWeight: 600, color: colors.textSecondary, display: 'block', marginBottom: spacing[4] };
 
   return (
     <PageShell
@@ -298,11 +298,11 @@ function TripBuilderInner() {
         <span style={{ fontSize: 11, color: colors.success, fontWeight: 500 }}>Draft saved</span>
       ) : undefined}
     >
-      <div style={{ maxWidth: 560, margin: '0 auto', padding: '32px 24px 60px' }}>
+      <div style={{ maxWidth: 560, margin: '0 auto', padding: pad(spacing[32], spacing[24], spacing[60]) }}>
         <h1 style={{ fontSize: 24, fontWeight: 700, color: colors.textPrimary, margin: 0 }}>{isEditMode ? '✏️ Edit trip' : '📋 Plan a trip'}</h1>
-        <p style={{ fontSize: 14, color: colors.textTertiary, marginTop: 8 }}>{isEditMode ? 'Update your game day page.' : 'Create a game day page to share with your team.'}</p>
+        <p style={{ fontSize: 14, color: colors.textTertiary, marginTop: spacing[8] }}>{isEditMode ? 'Update your game day page.' : 'Create a game day page to share with your team.'}</p>
 
-        <div style={{ display: 'flex', flexDirection: 'column', gap: 16, marginTop: 24 }}>
+        <div style={{ display: 'flex', flexDirection: 'column', gap: spacing[16], marginTop: spacing[24] }}>
           {/* ── Always visible: Team name, Dates, Rink ── */}
           <div>
             <label style={labelStyle}>Team name *</label>
@@ -310,7 +310,7 @@ function TripBuilderInner() {
           </div>
           <div>
             <label style={labelStyle}>Dates</label>
-            <div style={{ display: 'flex', gap: 8, alignItems: 'center' }}>
+            <div style={{ display: 'flex', gap: spacing[8], alignItems: 'center' }}>
               <input type="date" value={startDate} onChange={(e) => setStartDate(e.target.value)} aria-label="Start date" style={{ ...inputStyle, flex: 1 }} />
               <span style={{ fontSize: 13, color: colors.textMuted, flexShrink: 0 }}>to</span>
               <input type="date" value={endDate} onChange={(e) => setEndDate(e.target.value)} aria-label="End date" style={{ ...inputStyle, flex: 1 }} />
@@ -320,7 +320,7 @@ function TripBuilderInner() {
           <div>
             <label style={labelStyle}>Rink *</label>
             {selectedRink ? (
-              <div style={{ display: 'flex', alignItems: 'center', justifyContent: 'space-between', padding: '10px 14px', background: colors.bgInfo, border: `1px solid ${colors.brandLight}`, borderRadius: 10 }}>
+              <div style={{ display: 'flex', alignItems: 'center', justifyContent: 'space-between', padding: pad(spacing[10], spacing[14]), background: colors.bgInfo, border: `1px solid ${colors.brandLight}`, borderRadius: 10 }}>
                 <div>
                   <div style={{ fontSize: 14, fontWeight: 600, color: colors.brandDeep }}>{selectedRink.name}</div>
                   <div style={{ fontSize: 12, color: colors.textTertiary }}>{selectedRink.city}, {selectedRink.state}</div>
@@ -329,7 +329,7 @@ function TripBuilderInner() {
               </div>
             ) : (
               <div>
-                <div style={{ display: 'flex', gap: 8, marginBottom: 8 }}>
+                <div style={{ display: 'flex', gap: spacing[8], marginBottom: spacing[8] }}>
                   <input
                     value={rinkSearch}
                     onChange={(e) => setRinkSearch(e.target.value)}
@@ -374,7 +374,7 @@ function TripBuilderInner() {
                           tabIndex={0}
                           onClick={() => { setSelectedRink({ id: r.id, name: r.name, city: r.city, state: r.state }); setRinkSearch(''); setRinkStateFilter(''); }}
                           onKeyDown={(e) => { if (e.key === 'Enter' || e.key === ' ') { e.preventDefault(); setSelectedRink({ id: r.id, name: r.name, city: r.city, state: r.state }); setRinkSearch(''); setRinkStateFilter(''); } }}
-                          style={{ padding: '10px 14px', cursor: 'pointer', borderBottom: `1px solid ${colors.borderLight}`, background: colors.surface }}
+                          style={{ padding: pad(spacing[10], spacing[14]), cursor: 'pointer', borderBottom: `1px solid ${colors.borderLight}`, background: colors.surface }}
                           onMouseEnter={(e) => (e.currentTarget.style.background = colors.bgInfo)}
                           onMouseLeave={(e) => (e.currentTarget.style.background = colors.surface)}
                         >
@@ -387,13 +387,13 @@ function TripBuilderInner() {
                         if (q.length >= 2) return r.name?.toLowerCase().includes(q) || r.city?.toLowerCase().includes(q);
                         return true;
                       }).length > 20 && (
-                        <div style={{ padding: '8px 14px', fontSize: 12, color: colors.textMuted, textAlign: 'center', background: colors.bgPage }}>
+                        <div style={{ padding: pad(spacing[8], spacing[14]), fontSize: 12, color: colors.textMuted, textAlign: 'center', background: colors.bgPage }}>
                           Type more to narrow results...
                         </div>
                       )}
                     </div>
                   ) : (
-                    <div style={{ padding: '12px 14px', fontSize: 13, color: colors.textMuted, textAlign: 'center', border: `1px solid ${colors.borderDefault}`, borderRadius: 10 }}>
+                    <div style={{ padding: pad(spacing[12], spacing[14]), fontSize: 13, color: colors.textMuted, textAlign: 'center', border: `1px solid ${colors.borderDefault}`, borderRadius: 10 }}>
                       No rinks found
                     </div>
                   );
@@ -411,7 +411,7 @@ function TripBuilderInner() {
           {!canShowOptional ? (
             <div style={{
               border: `2px dashed ${colors.borderDefault}`, borderRadius: 12,
-              padding: '20px 24px', textAlign: 'center',
+              padding: pad(spacing[20], spacing[24]), textAlign: 'center',
             }}>
               <p style={{ fontSize: 13, color: colors.textMuted, margin: 0 }}>
                 Fill in team name and select a rink to see more options
@@ -426,18 +426,18 @@ function TripBuilderInner() {
                 expanded={expandedSections.games}
                 onToggle={() => toggleSection('games')}
               >
-                <div style={{ display: 'flex', flexDirection: 'column', gap: 10 }}>
+                <div style={{ display: 'flex', flexDirection: 'column', gap: spacing[10] }}>
                   {games.map((game, idx) => (
-                    <div key={game.id} style={{ display: 'flex', flexDirection: 'column', gap: 6, padding: idx > 0 ? '10px 0 0' : 0, borderTop: idx > 0 ? `1px solid ${colors.borderLight}` : 'none' }}>
+                    <div key={game.id} style={{ display: 'flex', flexDirection: 'column', gap: spacing[6], padding: idx > 0 ? pad(spacing[10], 0, 0) : 0, borderTop: idx > 0 ? `1px solid ${colors.borderLight}` : 'none' }}>
                       <div style={{ display: 'flex', alignItems: 'center', justifyContent: 'space-between' }}>
                         <span style={{ fontSize: 11, fontWeight: 600, color: colors.textMuted }}>GAME {idx + 1}</span>
                         {games.length > 1 && <button onClick={() => removeGame(game.id)} aria-label={`Remove game ${idx + 1}`} style={{ fontSize: 11, color: colors.textMuted, background: 'none', border: 'none', cursor: 'pointer' }}>✕ Remove</button>}
                       </div>
-                      <div style={{ display: 'flex', gap: 8 }}>
+                      <div style={{ display: 'flex', gap: spacing[8] }}>
                         <input type="date" value={game.day} onChange={(e) => updateGame(game.id, 'day', e.target.value)} aria-label={`Game ${idx + 1} date`} style={{ ...smallInputStyle, flex: 1 }} />
                         <input type="time" value={game.time} onChange={(e) => updateGame(game.id, 'time', e.target.value)} aria-label={`Game ${idx + 1} time`} style={{ ...smallInputStyle, flex: 1 }} />
                       </div>
-                      <div style={{ display: 'flex', gap: 8 }}>
+                      <div style={{ display: 'flex', gap: spacing[8] }}>
                         <input value={game.opponent} onChange={(e) => updateGame(game.id, 'opponent', e.target.value)} placeholder="vs. Opponent" aria-label={`Game ${idx + 1} opponent`} style={{ ...smallInputStyle, flex: 2 }} />
                         <input value={game.sheet} onChange={(e) => updateGame(game.id, 'sheet', e.target.value)} placeholder="Sheet (e.g. Rink 3)" aria-label={`Game ${idx + 1} sheet`} style={{ ...smallInputStyle, flex: 1 }} />
                       </div>
@@ -455,7 +455,7 @@ function TripBuilderInner() {
                 expanded={expandedSections.lodging}
                 onToggle={() => toggleSection('lodging')}
               >
-                <div style={{ display: 'flex', flexDirection: 'column', gap: 14 }}>
+                <div style={{ display: 'flex', flexDirection: 'column', gap: spacing[14] }}>
                   <NearbyPicker
                     label="Hotel"
                     icon="🏨"
@@ -511,15 +511,15 @@ function TripBuilderInner() {
                 onToggle={() => toggleSection('costs')}
               >
                 <div>
-                  <div style={{ display: 'flex', alignItems: 'center', gap: 8, marginBottom: 12 }}>
+                  <div style={{ display: 'flex', alignItems: 'center', gap: spacing[8], marginBottom: spacing[12] }}>
                     <span style={{ fontSize: 12, color: colors.textTertiary }}>Families on the team:</span>
                     <input value={familyCount} onChange={(e) => setFamilyCount(e.target.value.replace(/\D/g, ''))}
                       aria-label="Number of families"
                       style={{ width: 50, padding: '4px 8px', fontSize: 14, fontWeight: 700, border: `1px solid ${colors.borderMedium}`, borderRadius: 6, textAlign: 'center', outline: 'none' }} />
                   </div>
-                  <div style={{ display: 'flex', flexDirection: 'column', gap: 8 }}>
+                  <div style={{ display: 'flex', flexDirection: 'column', gap: spacing[8] }}>
                     {costItems.map((item, idx) => (
-                      <div key={item.id} style={{ display: 'flex', gap: 6, alignItems: 'center' }}>
+                      <div key={item.id} style={{ display: 'flex', gap: spacing[6], alignItems: 'center' }}>
                         <input value={item.label} onChange={(e) => updateCostItem(item.id, 'label', e.target.value)}
                           placeholder={idx === 0 ? 'e.g. Tournament registration' : 'e.g. Extra ice time'}
                           aria-label={`Cost item ${idx + 1} label`}
@@ -543,10 +543,10 @@ function TripBuilderInner() {
                       </div>
                     ))}
                   </div>
-                  <button onClick={addCostItem} style={{ fontSize: 12, fontWeight: 600, color: colors.success, background: colors.bgSuccess, border: `1px solid ${colors.successBorder}`, borderRadius: 8, padding: '6px 0', cursor: 'pointer', width: '100%', marginTop: 8 }}>+ Add cost line</button>
+                  <button onClick={addCostItem} style={{ fontSize: 12, fontWeight: 600, color: colors.success, background: colors.bgSuccess, border: `1px solid ${colors.successBorder}`, borderRadius: 8, padding: pad(spacing[6], 0), cursor: 'pointer', width: '100%', marginTop: spacing[8] }}>+ Add cost line</button>
                   {costItems.some(c => c.amount && parseFloat(c.amount) > 0) && (
-                    <div style={{ marginTop: 12, padding: '10px 12px', background: colors.bgSuccess, border: `1px solid ${colors.successBorder}`, borderRadius: 8 }}>
-                      <div style={{ fontSize: 11, fontWeight: 600, color: colors.success, marginBottom: 6 }}>PREVIEW: Per-family cost</div>
+                    <div style={{ marginTop: spacing[12], padding: pad(spacing[10], spacing[12]), background: colors.bgSuccess, border: `1px solid ${colors.successBorder}`, borderRadius: 8 }}>
+                      <div style={{ fontSize: 11, fontWeight: 600, color: colors.success, marginBottom: spacing[6] }}>PREVIEW: Per-family cost</div>
                       {costItems.filter(c => c.label.trim() && c.amount).map(item => {
                         const amt = parseFloat(item.amount) || 0;
                         const families = parseInt(familyCount) || 16;
@@ -563,7 +563,7 @@ function TripBuilderInner() {
                           </div>
                         );
                       })}
-                      <div style={{ borderTop: `1px solid ${colors.successBorder}`, marginTop: 6, paddingTop: 6, display: 'flex', justifyContent: 'space-between', fontSize: 13, fontWeight: 700, color: colors.success }}>
+                      <div style={{ borderTop: `1px solid ${colors.successBorder}`, marginTop: spacing[6], paddingTop: spacing[6], display: 'flex', justifyContent: 'space-between', fontSize: 13, fontWeight: 700, color: colors.success }}>
                         <span>Total per family</span>
                         <span>${costItems.filter(c => c.label.trim() && c.amount).reduce((sum, item) => {
                           const amt = parseFloat(item.amount) || 0;
@@ -580,7 +580,7 @@ function TripBuilderInner() {
                 <button
                   onClick={() => setShowCosts(true)}
                   style={{
-                    width: '100%', padding: '12px 16px', fontSize: 13,
+                    width: '100%', padding: pad(spacing[12], spacing[16]), fontSize: 13,
                     color: colors.textMuted, background: colors.bgPage,
                     border: `1px dashed ${colors.borderDefault}`, borderRadius: 12,
                     cursor: 'pointer', textAlign: 'center',
@@ -601,7 +601,7 @@ function TripBuilderInner() {
               </CollapsibleSection>
 
               {/* Collaborative toggle */}
-              <div style={{ display: 'flex', alignItems: 'center', justifyContent: 'space-between', padding: '12px 14px', background: colors.bgInfo, border: `1px solid ${colors.brandLight}`, borderRadius: 10 }}>
+              <div style={{ display: 'flex', alignItems: 'center', justifyContent: 'space-between', padding: pad(spacing[12], spacing[14]), background: colors.bgInfo, border: `1px solid ${colors.brandLight}`, borderRadius: 10 }}>
                 <div>
                   <div style={{ fontSize: 13, fontWeight: 600, color: colors.brandDeep }}>👥 Let teammates add info</div>
                   <div style={{ fontSize: 11, color: colors.textTertiary, marginTop: 2 }}>Others can add restaurants, tips, and notes</div>
@@ -620,7 +620,7 @@ function TripBuilderInner() {
           )}
 
           {/* Submit */}
-          <button onClick={saveTrip} disabled={!selectedRink || !teamName.trim()} style={{ width: '100%', padding: '16px 0', fontSize: 16, fontWeight: 700, background: (selectedRink && teamName.trim()) ? colors.brand : colors.borderDefault, color: (selectedRink && teamName.trim()) ? colors.textInverse : colors.textMuted, border: 'none', borderRadius: 12, cursor: (selectedRink && teamName.trim()) ? 'pointer' : 'default', marginTop: 12, transition: 'all 0.2s', boxShadow: (selectedRink && teamName.trim()) ? '0 4px 14px rgba(14,165,233,0.3)' : 'none' }}>
+          <button onClick={saveTrip} disabled={!selectedRink || !teamName.trim()} style={{ width: '100%', padding: pad(spacing[16], 0), fontSize: 16, fontWeight: 700, background: (selectedRink && teamName.trim()) ? colors.brand : colors.borderDefault, color: (selectedRink && teamName.trim()) ? colors.textInverse : colors.textMuted, border: 'none', borderRadius: 12, cursor: (selectedRink && teamName.trim()) ? 'pointer' : 'default', marginTop: spacing[12], transition: 'all 0.2s', boxShadow: (selectedRink && teamName.trim()) ? '0 4px 14px rgba(14,165,233,0.3)' : 'none' }}>
             {isEditMode ? 'Save changes →' : selectedRink ? `Create ${selectedRink.name} trip page →` : 'Create trip page →'}
           </button>
         </div>
@@ -631,7 +631,7 @@ function TripBuilderInner() {
 
 export default function TripNewPage() {
   return (
-    <Suspense fallback={<div style={{ padding: 40, textAlign: 'center', color: colors.textMuted }}>Loading...</div>}>
+    <Suspense fallback={<div style={{ padding: spacing[40], textAlign: 'center', color: colors.textMuted }}>Loading...</div>}>
       <TripBuilderInner />
     </Suspense>
   );

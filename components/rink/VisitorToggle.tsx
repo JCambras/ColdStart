@@ -2,7 +2,7 @@
 
 import { useState, useEffect } from 'react';
 import { storage } from '../../lib/storage';
-import { colors } from '../../lib/theme';
+import { colors, spacing, pad } from '../../lib/theme';
 
 export function VisitorToggle() {
   const [type, setType] = useState<'visiting_parent' | 'local_parent'>('visiting_parent');
@@ -19,7 +19,7 @@ export function VisitorToggle() {
   }
 
   return (
-    <div style={{ display: 'flex', gap: 6 }} role="group" aria-label="Visitor type">
+    <div style={{ display: 'flex', gap: spacing[6] }} role="group" aria-label="Visitor type">
       {([['visiting_parent', '✈️ Visiting'], ['local_parent', '🏠 Regular']] as const).map(([val, label]) => (
         <button
           key={val}
@@ -27,7 +27,7 @@ export function VisitorToggle() {
           aria-pressed={type === val}
           style={{
             fontSize: 12, fontWeight: type === val ? 600 : 400,
-            padding: '5px 12px', borderRadius: 20,
+            padding: pad(spacing[5], spacing[12]), borderRadius: 20,
             background: type === val ? (val === 'local_parent' ? colors.indigoBg : colors.purpleBg) : 'transparent',
             color: type === val ? (val === 'local_parent' ? colors.indigo : colors.purple) : colors.textMuted,
             border: `1px solid ${type === val ? (val === 'local_parent' ? colors.indigoBorder : colors.purpleBorder) : 'transparent'}`,

@@ -2,7 +2,7 @@
 
 import { useState } from 'react';
 import { storage } from '../../lib/storage';
-import { colors, text, radius } from '../../lib/theme';
+import { colors, text, radius, spacing, pad } from '../../lib/theme';
 
 export function ClaimRinkCTA({ rinkId, rinkName }: { rinkId: string; rinkName: string }) {
   const [expanded, setExpanded] = useState(false);
@@ -42,10 +42,10 @@ export function ClaimRinkCTA({ rinkId, rinkName }: { rinkId: string; rinkName: s
 
   if (submitted) {
     return (
-      <div style={{ background: `linear-gradient(135deg, ${colors.indigoBg} 0%, ${colors.bgSuccess} 100%)`, border: `1px solid ${colors.indigoBorder}`, borderRadius: 16, padding: 28, textAlign: 'center' }}>
-        <div style={{ fontSize: 28, marginBottom: 8 }}>✉️</div>
+      <div style={{ background: `linear-gradient(135deg, ${colors.indigoBg} 0%, ${colors.bgSuccess} 100%)`, border: `1px solid ${colors.indigoBorder}`, borderRadius: 16, padding: spacing[28], textAlign: 'center' }}>
+        <div style={{ fontSize: 28, marginBottom: spacing[8] }}>✉️</div>
         <p style={{ fontSize: text.lg, fontWeight: 600, color: colors.indigo, margin: 0 }}>We&apos;ll be in touch!</p>
-        <p style={{ fontSize: text.md, color: colors.textTertiary, marginTop: 6, lineHeight: 1.5 }}>
+        <p style={{ fontSize: text.md, color: colors.textTertiary, marginTop: spacing[6], lineHeight: 1.5 }}>
           Verified rink profiles are launching soon. As an early claimer, you&apos;ll get priority access + a free month.
         </p>
       </div>
@@ -60,8 +60,8 @@ export function ClaimRinkCTA({ rinkId, rinkName }: { rinkId: string; rinkName: s
         onClick={() => setExpanded(true)}
         onKeyDown={(e) => { if (e.key === 'Enter' || e.key === ' ') { e.preventDefault(); setExpanded(true); } }}
         style={{
-          background: colors.surface, border: `1.5px dashed ${colors.brandLight}`, borderRadius: 16, padding: '20px 24px',
-          cursor: 'pointer', transition: 'all 0.2s', display: 'flex', alignItems: 'center', gap: 16,
+          background: colors.surface, border: `1.5px dashed ${colors.brandLight}`, borderRadius: 16, padding: pad(spacing[20], spacing[24]),
+          cursor: 'pointer', transition: 'all 0.2s', display: 'flex', alignItems: 'center', gap: spacing[16],
         }}
         onMouseEnter={(e) => { e.currentTarget.style.borderColor = colors.brandAccent; e.currentTarget.style.background = colors.bgInfo; }}
         onMouseLeave={(e) => { e.currentTarget.style.borderColor = colors.brandLight; e.currentTarget.style.background = colors.surface; }}
@@ -69,7 +69,7 @@ export function ClaimRinkCTA({ rinkId, rinkName }: { rinkId: string; rinkName: s
         <div style={{ width: 44, height: 44, borderRadius: radius.xl, background: colors.indigoBg, display: 'flex', alignItems: 'center', justifyContent: 'center', fontSize: 20, flexShrink: 0 }}>🏟️</div>
         <div style={{ flex: 1 }}>
           <p style={{ fontSize: text.base, fontWeight: 600, color: colors.indigo, margin: 0 }}>Manage this rink?</p>
-          <p style={{ fontSize: text.sm, color: colors.textTertiary, marginTop: 2 }}>Claim your profile — respond to feedback, get featured, see analytics.</p>
+          <p style={{ fontSize: text.sm, color: colors.textTertiary, marginTop: spacing[2] }}>Claim your profile — respond to feedback, get featured, see analytics.</p>
         </div>
         <span style={{ fontSize: text.sm, fontWeight: 600, color: colors.brandAccent, whiteSpace: 'nowrap' }}>Claim →</span>
       </div>
@@ -77,21 +77,21 @@ export function ClaimRinkCTA({ rinkId, rinkName }: { rinkId: string; rinkName: s
   }
 
   return (
-    <div style={{ background: colors.surface, border: `1px solid ${colors.indigoBorder}`, borderRadius: 16, padding: 24 }}>
-      <div style={{ display: 'flex', justifyContent: 'space-between', alignItems: 'center', marginBottom: 16 }}>
+    <div style={{ background: colors.surface, border: `1px solid ${colors.indigoBorder}`, borderRadius: 16, padding: spacing[24] }}>
+      <div style={{ display: 'flex', justifyContent: 'space-between', alignItems: 'center', marginBottom: spacing[16] }}>
         <h3 style={{ fontSize: 16, fontWeight: 600, color: colors.textPrimary, margin: 0 }}>Claim {rinkName}</h3>
         <button onClick={() => setExpanded(false)} style={{ fontSize: text.sm, color: colors.textMuted, cursor: 'pointer', background: 'none', border: 'none' }}>✕</button>
       </div>
-      <p style={{ fontSize: text.md, color: colors.textTertiary, marginBottom: 16, lineHeight: 1.5 }}>
+      <p style={{ fontSize: text.md, color: colors.textTertiary, marginBottom: spacing[16], lineHeight: 1.5 }}>
         Verified rink profiles are coming soon. Leave your info and we&apos;ll reach out with early access. Free for the first 30 days.
       </p>
-      <input value={name} onChange={(e) => setName(e.target.value)} placeholder="Your name" autoComplete="name" style={{ width: '100%', fontSize: text.base, border: `1px solid ${colors.borderDefault}`, borderRadius: radius.lg, padding: '11px 14px', marginBottom: 10, outline: 'none', fontFamily: 'inherit', color: colors.textPrimary }} onFocus={(e) => { e.currentTarget.style.borderColor = colors.brandAccent; }} onBlur={(e) => { e.currentTarget.style.borderColor = colors.borderDefault; }} />
-      <input value={email} onChange={(e) => setEmail(e.target.value)} placeholder="Email address" type="email" autoComplete="email" style={{ width: '100%', fontSize: text.base, border: `1px solid ${colors.borderDefault}`, borderRadius: radius.lg, padding: '11px 14px', marginBottom: 10, outline: 'none', fontFamily: 'inherit', color: colors.textPrimary }} onFocus={(e) => { e.currentTarget.style.borderColor = colors.brandAccent; }} onBlur={(e) => { e.currentTarget.style.borderColor = colors.borderDefault; }} />
-      <input value={role} onChange={(e) => setRole(e.target.value)} placeholder="Your role (e.g. Rink Manager, Owner)" autoComplete="organization-title" style={{ width: '100%', fontSize: text.base, border: `1px solid ${colors.borderDefault}`, borderRadius: radius.lg, padding: '11px 14px', marginBottom: 16, outline: 'none', fontFamily: 'inherit', color: colors.textPrimary }} onFocus={(e) => { e.currentTarget.style.borderColor = colors.brandAccent; }} onBlur={(e) => { e.currentTarget.style.borderColor = colors.borderDefault; }} />
+      <input value={name} onChange={(e) => setName(e.target.value)} placeholder="Your name" autoComplete="name" style={{ width: '100%', fontSize: text.base, border: `1px solid ${colors.borderDefault}`, borderRadius: radius.lg, padding: '11px 14px', marginBottom: spacing[10], outline: 'none', fontFamily: 'inherit', color: colors.textPrimary }} onFocus={(e) => { e.currentTarget.style.borderColor = colors.brandAccent; }} onBlur={(e) => { e.currentTarget.style.borderColor = colors.borderDefault; }} />
+      <input value={email} onChange={(e) => setEmail(e.target.value)} placeholder="Email address" type="email" autoComplete="email" style={{ width: '100%', fontSize: text.base, border: `1px solid ${colors.borderDefault}`, borderRadius: radius.lg, padding: '11px 14px', marginBottom: spacing[10], outline: 'none', fontFamily: 'inherit', color: colors.textPrimary }} onFocus={(e) => { e.currentTarget.style.borderColor = colors.brandAccent; }} onBlur={(e) => { e.currentTarget.style.borderColor = colors.borderDefault; }} />
+      <input value={role} onChange={(e) => setRole(e.target.value)} placeholder="Your role (e.g. Rink Manager, Owner)" autoComplete="organization-title" style={{ width: '100%', fontSize: text.base, border: `1px solid ${colors.borderDefault}`, borderRadius: radius.lg, padding: '11px 14px', marginBottom: spacing[16], outline: 'none', fontFamily: 'inherit', color: colors.textPrimary }} onFocus={(e) => { e.currentTarget.style.borderColor = colors.brandAccent; }} onBlur={(e) => { e.currentTarget.style.borderColor = colors.borderDefault; }} />
       <button onClick={handleSubmit} disabled={!name.trim() || !email.trim() || submitting} style={{ width: '100%', padding: '13px 20px', fontSize: text.base, fontWeight: 600, background: (name.trim() && email.trim()) ? colors.indigo : colors.borderDefault, color: (name.trim() && email.trim()) ? colors.textInverse : colors.textMuted, border: 'none', borderRadius: radius.xl, cursor: 'pointer', transition: 'all 0.2s', opacity: submitting ? 0.6 : 1 }}>
         {submitting ? 'Submitting...' : 'Request early access'}
       </button>
-      <p style={{ fontSize: text.xs, color: colors.textMuted, marginTop: 10, textAlign: 'center' }}>No charge until you activate. We&apos;ll email you when it&apos;s ready.</p>
+      <p style={{ fontSize: text.xs, color: colors.textMuted, marginTop: spacing[10], textAlign: 'center' }}>No charge until you activate. We&apos;ll email you when it&apos;s ready.</p>
     </div>
   );
 }

@@ -6,7 +6,7 @@ import { RinkSummary } from '../../lib/rinkTypes';
 import { apiPost } from '../../lib/api';
 import { storage } from '../../lib/storage';
 import { useAuth } from '../../contexts/AuthContext';
-import { colors } from '../../lib/theme';
+import { colors, spacing, pad } from '../../lib/theme';
 
 interface QuickVoteRowProps {
   rinkId: string;
@@ -61,7 +61,7 @@ export function QuickVoteRow({ rinkId, onSummaryUpdate, onRatedCountChange, onLa
   }
 
   return (
-    <div style={{ display: 'flex', flexDirection: 'column', gap: 14 }}>
+    <div style={{ display: 'flex', flexDirection: 'column', gap: spacing[14] }}>
       {signals.map(s => {
         const meta = SIGNAL_META[s.key];
         const selected = ratings[s.key];
@@ -69,11 +69,11 @@ export function QuickVoteRow({ rinkId, onSummaryUpdate, onRatedCountChange, onLa
         const busy = submitting === s.key;
         return (
           <div key={s.key}>
-            <div style={{ display: 'flex', alignItems: 'center', gap: 10 }}>
+            <div style={{ display: 'flex', alignItems: 'center', gap: spacing[10] }}>
               {/* Label */}
               <div style={{
                 width: 72, flexShrink: 0,
-                display: 'flex', alignItems: 'center', gap: 5,
+                display: 'flex', alignItems: 'center', gap: spacing[5],
               }}>
                 <span style={{ fontSize: 15 }}>{s.icon}</span>
                 <span style={{
@@ -86,7 +86,7 @@ export function QuickVoteRow({ rinkId, onSummaryUpdate, onRatedCountChange, onLa
 
               {/* 1-5 buttons with per-signal scale labels */}
               <div style={{ flex: 1 }}>
-                <div style={{ display: 'flex', gap: 4 }} role="group" aria-label={`Rate ${s.label} from 1 to 5`}>
+                <div style={{ display: 'flex', gap: spacing[4] }} role="group" aria-label={`Rate ${s.label} from 1 to 5`}>
                   {[1, 2, 3, 4, 5].map(v => {
                     const isSelected = selected === v;
                     return (
@@ -111,7 +111,7 @@ export function QuickVoteRow({ rinkId, onSummaryUpdate, onRatedCountChange, onLa
                     );
                   })}
                 </div>
-                <div style={{ display: 'flex', justifyContent: 'space-between', paddingTop: 2 }}>
+                <div style={{ display: 'flex', justifyContent: 'space-between', paddingTop: spacing[2] }}>
                   <span style={{ fontSize: 9, color: colors.textMuted }}>{meta?.lowLabel || 'Low'}</span>
                   <span style={{ fontSize: 9, color: colors.textMuted }}>{meta?.highLabel || 'High'}</span>
                 </div>
@@ -123,7 +123,7 @@ export function QuickVoteRow({ rinkId, onSummaryUpdate, onRatedCountChange, onLa
               </div>
             </div>
             {error === s.key && (
-              <div style={{ fontSize: 11, color: colors.error, paddingLeft: 82, marginTop: 2 }}>
+              <div style={{ fontSize: 11, color: colors.error, paddingLeft: 82, marginTop: spacing[2] }}>
                 Couldn&apos;t save — tap to retry
               </div>
             )}

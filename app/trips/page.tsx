@@ -6,7 +6,7 @@ import { PageShell } from '../../components/PageShell';
 import { storage } from '../../lib/storage';
 import { apiGet } from '../../lib/api';
 import { getBarColor, getBarBg } from '../../lib/rinkHelpers';
-import { colors, text, radius } from '../../lib/theme';
+import { colors, text, radius, spacing, pad } from '../../lib/theme';
 
 interface Trip {
   id: string; teamName: string; dates: string;
@@ -65,25 +65,25 @@ export default function MyTripsPage() {
 
   return (
     <PageShell back="/" backLabel="← Home">
-      <div style={{ maxWidth: 600, margin: '0 auto', padding: '24px 24px 60px' }}>
-        <div style={{ display: 'flex', alignItems: 'center', justifyContent: 'space-between', marginBottom: 20 }}>
+      <div style={{ maxWidth: 600, margin: '0 auto', padding: pad(spacing[24], spacing[24], spacing[60]) }}>
+        <div style={{ display: 'flex', alignItems: 'center', justifyContent: 'space-between', marginBottom: spacing[20] }}>
           <div>
             <h1 style={{ fontSize: 22, fontWeight: 700, color: colors.textPrimary, margin: 0 }}>📁 My Trips</h1>
             <p style={{ fontSize: 14, color: colors.textTertiary, marginTop: 4 }}>{trips.length} trip{trips.length !== 1 ? 's' : ''} created</p>
           </div>
-          <button onClick={() => router.push('/trip/new')} style={{ fontSize: 13, fontWeight: 600, color: colors.textInverse, background: colors.brand, border: 'none', borderRadius: 8, padding: '8px 16px', cursor: 'pointer', boxShadow: '0 2px 6px rgba(14,165,233,0.25)' }}>+ New trip</button>
+          <button onClick={() => router.push('/trip/new')} style={{ fontSize: 13, fontWeight: 600, color: colors.textInverse, background: colors.brand, border: 'none', borderRadius: 8, padding: pad(spacing[8], spacing[16]), cursor: 'pointer', boxShadow: '0 2px 6px rgba(14,165,233,0.25)' }}>+ New trip</button>
         </div>
 
         {/* Search filter */}
         {trips.length > 2 && (
-          <div style={{ marginBottom: 16 }}>
+          <div style={{ marginBottom: spacing[16] }}>
             <input
               type="text"
               value={filter}
               onChange={(e) => setFilter(e.target.value)}
               placeholder="Search trips..."
               style={{
-                width: '100%', padding: '10px 14px', fontSize: 14,
+                width: '100%', padding: pad(spacing[10], spacing[14]), fontSize: 14,
                 border: `1px solid ${colors.borderDefault}`, borderRadius: 10,
                 background: colors.surface, outline: 'none', boxSizing: 'border-box',
                 transition: 'border-color 0.15s',
@@ -95,20 +95,20 @@ export default function MyTripsPage() {
         )}
 
         {trips.length === 0 ? (
-          <div style={{ textAlign: 'center', padding: 40 }}>
-            <div style={{ fontSize: 48, marginBottom: 16 }}>📋</div>
+          <div style={{ textAlign: 'center', padding: spacing[40] }}>
+            <div style={{ fontSize: 48, marginBottom: spacing[16] }}>📋</div>
             <h2 style={{ fontSize: 18, fontWeight: 700, color: colors.textPrimary, margin: 0 }}>No trips yet</h2>
             <p style={{ fontSize: 14, color: colors.textTertiary, marginTop: 8 }}>Create a trip page to share game day info with your team.</p>
-            <button onClick={() => router.push('/trip/new')} style={{ marginTop: 16, fontSize: 14, fontWeight: 600, color: colors.brand, background: colors.bgInfo, border: `1px solid ${colors.brandLight}`, borderRadius: 10, padding: '10px 24px', cursor: 'pointer' }}>
+            <button onClick={() => router.push('/trip/new')} style={{ marginTop: spacing[16], fontSize: 14, fontWeight: 600, color: colors.brand, background: colors.bgInfo, border: `1px solid ${colors.brandLight}`, borderRadius: 10, padding: pad(spacing[10], spacing[24]), cursor: 'pointer' }}>
               Create your first trip →
             </button>
           </div>
         ) : filtered.length === 0 ? (
-          <div style={{ textAlign: 'center', padding: 32, color: colors.textMuted }}>
+          <div style={{ textAlign: 'center', padding: spacing[32], color: colors.textMuted }}>
             <p style={{ fontSize: 14, margin: 0 }}>No trips matching &ldquo;{filter}&rdquo;</p>
           </div>
         ) : (
-          <div style={{ display: 'flex', flexDirection: 'column', gap: 10 }}>
+          <div style={{ display: 'flex', flexDirection: 'column', gap: spacing[10] }}>
             {filtered.map(trip => {
               const gameCount = trip.games?.length || 0;
               const hasCosts = trip.costItems && trip.costItems.length > 0;
@@ -116,7 +116,7 @@ export default function MyTripsPage() {
               const dateStr = created.toLocaleDateString('en-US', { month: 'short', day: 'numeric', year: 'numeric' });
               return (
                 <div key={trip.id} role="button" tabIndex={0} onClick={() => router.push(`/trip/${trip.id}`)} onKeyDown={(e) => { if (e.key === 'Enter' || e.key === ' ') { e.preventDefault(); router.push(`/trip/${trip.id}`); } }} style={{
-                  padding: '16px 18px', background: colors.surface, border: `1px solid ${colors.borderDefault}`,
+                  padding: pad(spacing[16], spacing[18]), background: colors.surface, border: `1px solid ${colors.borderDefault}`,
                   borderRadius: 14, cursor: 'pointer', transition: 'all 0.15s',
                 }}
                 onMouseEnter={(e) => { e.currentTarget.style.borderColor = colors.brand; e.currentTarget.style.boxShadow = '0 2px 8px rgba(14,165,233,0.08)'; }}
@@ -129,7 +129,7 @@ export default function MyTripsPage() {
                     </div>
                     <span style={{ fontSize: 16, color: colors.textDisabled }}>›</span>
                   </div>
-                  <div style={{ display: 'flex', gap: 8, marginTop: 10, flexWrap: 'wrap' }}>
+                  <div style={{ display: 'flex', gap: spacing[8], marginTop: spacing[10], flexWrap: 'wrap' }}>
                     {trip.dates && (
                       <span style={{ fontSize: 11, fontWeight: 600, padding: '3px 8px', borderRadius: 6, background: colors.bgInfo, color: colors.brandDark }}>📅 {trip.dates}</span>
                     )}
@@ -149,7 +149,7 @@ export default function MyTripsPage() {
                     const hasChips = (parking && parking.count > 0) || (cold && cold.count > 0) || summary.firstTip;
                     if (!hasChips) return null;
                     return (
-                      <div style={{ display: 'flex', gap: 6, marginTop: 6, flexWrap: 'wrap', alignItems: 'center' }}>
+                      <div style={{ display: 'flex', gap: spacing[6], marginTop: spacing[6], flexWrap: 'wrap', alignItems: 'center' }}>
                         {parking && parking.count > 0 && (
                           <span style={{
                             fontSize: 11, fontWeight: 600, padding: '3px 8px', borderRadius: 6,

@@ -3,7 +3,7 @@
 import { useState, useEffect } from 'react';
 import { storage } from '../../lib/storage';
 import { useAuth } from '../../contexts/AuthContext';
-import { colors, text, radius } from '../../lib/theme';
+import { colors, text, radius, spacing, pad } from '../../lib/theme';
 
 export function SaveRinkButton({ rinkId }: { rinkId: string }) {
   const { isLoggedIn, openAuth } = useAuth();
@@ -43,9 +43,9 @@ export function SaveRinkButton({ rinkId }: { rinkId: string }) {
         color: saved ? colors.warning : colors.textTertiary,
         background: saved ? colors.bgWarning : colors.bgSubtle,
         border: `1px solid ${saved ? colors.warningBorder : colors.borderDefault}`,
-        borderRadius: radius.md, padding: '10px 14px', minHeight: 44, cursor: 'pointer',
+        borderRadius: radius.md, padding: pad(spacing[10], spacing[14]), minHeight: 44, cursor: 'pointer',
         transition: 'all 0.15s', whiteSpace: 'nowrap',
-        display: 'flex', alignItems: 'center', gap: 4,
+        display: 'flex', alignItems: 'center', gap: spacing[4],
       }}
     >
       {saved ? '⭐ Saved' : '☆ Save rink'}

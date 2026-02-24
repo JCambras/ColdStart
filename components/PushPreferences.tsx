@@ -3,7 +3,7 @@
 import { useState, useEffect } from 'react';
 import { isPushSupported, isPushSubscribed, subscribeToPush, unsubscribeFromPush } from '../lib/pushClient';
 import { storage } from '../lib/storage';
-import { colors, radius } from '../lib/theme';
+import { colors, radius, spacing, pad } from '../lib/theme';
 
 export function PushPreferences() {
   const [supported, setSupported] = useState(false);
@@ -32,16 +32,16 @@ export function PushPreferences() {
 
   return (
     <div style={{
-      padding: '16px 20px', borderRadius: radius.xl,
+      padding: pad(spacing[16], spacing[20]), borderRadius: radius.xl,
       background: colors.bgSubtle, border: `1px solid ${colors.borderLight}`,
-      marginBottom: 24,
+      marginBottom: spacing[24],
     }}>
       <div style={{ display: 'flex', alignItems: 'center', justifyContent: 'space-between' }}>
         <div>
           <div style={{ fontSize: 14, fontWeight: 600, color: colors.textPrimary }}>
             Push notifications
           </div>
-          <div style={{ fontSize: 12, color: colors.textMuted, marginTop: 2 }}>
+          <div style={{ fontSize: 12, color: colors.textMuted, marginTop: spacing[2] }}>
             {subscribed
               ? 'Get notified when someone adds intel to your saved rinks'
               : 'Enable to get updates about your saved rinks'}
@@ -55,7 +55,7 @@ export function PushPreferences() {
             color: subscribed ? colors.textTertiary : colors.textInverse,
             background: subscribed ? colors.bgSubtle : colors.brand,
             border: `1px solid ${subscribed ? colors.borderDefault : colors.brand}`,
-            borderRadius: radius.md, padding: '8px 16px',
+            borderRadius: radius.md, padding: pad(spacing[8], spacing[16]),
             cursor: 'pointer', whiteSpace: 'nowrap',
             opacity: loading ? 0.6 : 1,
           }}

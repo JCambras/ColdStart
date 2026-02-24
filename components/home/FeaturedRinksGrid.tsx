@@ -4,7 +4,7 @@ import { useState, useEffect } from 'react';
 import { RinkData } from '../RinkCard';
 import { SIGNAL_LABELS } from '../../lib/constants';
 import { getBarColor, getRinkPhoto } from '../../lib/rinkHelpers';
-import { colors, text, layout, shadow } from '../../lib/theme';
+import { colors, text, layout, shadow, spacing, pad } from '../../lib/theme';
 
 interface FeaturedRinksGridProps {
   rinks: RinkData[];
@@ -27,12 +27,12 @@ export function FeaturedRinksGrid({ rinks, onRinkClick }: FeaturedRinksGridProps
   return (
     <section style={{
       maxWidth: layout.maxWidth5xl, margin: '0 auto',
-      padding: '40px 24px 32px',
+      padding: pad(spacing[40], spacing[24], spacing[32]),
     }}>
       <h2 style={{
         fontSize: 12, fontWeight: 500, color: colors.stone500,
         textTransform: 'uppercase', letterSpacing: 1.5,
-        marginBottom: 20,
+        marginBottom: spacing[20],
       }}>
         Popular rinks
       </h2>
@@ -40,7 +40,7 @@ export function FeaturedRinksGrid({ rinks, onRinkClick }: FeaturedRinksGridProps
       <div style={{
         display: 'grid',
         gridTemplateColumns: isMobile ? '1fr' : 'repeat(3, 1fr)',
-        gap: 20,
+        gap: spacing[20],
       }}>
         {rinks.map((rink, i) => {
           const isHovered = hoveredId === rink.id;
@@ -106,22 +106,22 @@ export function FeaturedRinksGrid({ rinks, onRinkClick }: FeaturedRinksGridProps
               </div>
 
               {/* Info + signal bars */}
-              <div style={{ padding: '14px 16px 16px' }}>
+              <div style={{ padding: pad(spacing[14], spacing[16], spacing[16]) }}>
                 <div style={{ fontSize: 15, fontWeight: 600, color: colors.stone800, lineHeight: 1.2 }}>
                   {rink.name}
                 </div>
-                <div style={{ fontSize: 12, color: colors.stone400, marginTop: 3 }}>
+                <div style={{ fontSize: 12, color: colors.stone400, marginTop: spacing[3] }}>
                   {rink.city}, {rink.state}
                 </div>
 
                 {topSignals.length > 0 && (
-                  <div style={{ display: 'flex', flexDirection: 'column', gap: 6, marginTop: 12 }}>
+                  <div style={{ display: 'flex', flexDirection: 'column', gap: spacing[6], marginTop: spacing[12] }}>
                     {topSignals.map((s) => {
                       const pct = Math.round(((s.value - 1) / 4) * 100);
                       const label = SIGNAL_LABELS[s.signal] || s.signal;
                       const barColor = getBarColor(s.value, s.count);
                       return (
-                        <div key={s.signal} style={{ display: 'flex', alignItems: 'center', gap: 8, fontSize: text.xs }}>
+                        <div key={s.signal} style={{ display: 'flex', alignItems: 'center', gap: spacing[8], fontSize: text.xs }}>
                           <span style={{ width: 48, flexShrink: 0, color: colors.stone500, fontWeight: 500 }}>{label}</span>
                           <div style={{ flex: 1, height: 4, background: colors.stone200, borderRadius: 2, overflow: 'hidden' }}>
                             <div style={{ width: `${pct}%`, height: '100%', borderRadius: 2, background: barColor, transition: 'width 0.6s ease' }} />
@@ -136,7 +136,7 @@ export function FeaturedRinksGrid({ rinks, onRinkClick }: FeaturedRinksGridProps
                 )}
 
                 {rink.summary && (
-                  <div style={{ fontSize: 11, color: colors.stone500, marginTop: 10 }}>
+                  <div style={{ fontSize: 11, color: colors.stone500, marginTop: spacing[10] }}>
                     From {rink.summary!.contribution_count} hockey parent{rink.summary!.contribution_count !== 1 ? 's' : ''}
                   </div>
                 )}

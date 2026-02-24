@@ -1,7 +1,7 @@
 'use client';
 
 import { useRouter } from 'next/navigation';
-import { colors, text, radius } from '../lib/theme';
+import { colors, text, radius, spacing, pad } from '../lib/theme';
 
 interface BackButtonProps {
   /** Where to navigate. If omitted, uses router.back() */
@@ -23,7 +23,7 @@ export function BackButton({ href, label = '← Back' }: BackButtonProps) {
         background: colors.surface,
         border: `1px solid ${colors.borderDefault}`,
         borderRadius: radius.md,
-        padding: '10px 14px',
+        padding: pad(spacing[10], spacing[14]),
         minHeight: 44,
         minWidth: 44,
         cursor: 'pointer',

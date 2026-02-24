@@ -9,7 +9,7 @@ import { BASEBALL_SIGNAL_META } from '../../../lib/baseballConfig';
 import { getVenueConfig } from '../../../lib/venueConfig';
 import { apiGet, apiPost } from '../../../lib/api';
 import { LoadingSkeleton } from '../../../components/LoadingSkeleton';
-import { colors, text } from '../../../lib/theme';
+import { colors, text, spacing, pad } from '../../../lib/theme';
 
 const config = getVenueConfig('baseball');
 
@@ -50,11 +50,11 @@ export default function FieldPage() {
   if (error || !detail) {
     return (
       <PageShell>
-        <div style={{ maxWidth: 600, margin: '60px auto', padding: '0 24px', textAlign: 'center' }}>
-          <div style={{ fontSize: 48, marginBottom: 16 }}>&#9918;</div>
+        <div style={{ maxWidth: 600, margin: '60px auto', padding: pad(0, spacing[24]), textAlign: 'center' }}>
+          <div style={{ fontSize: 48, marginBottom: spacing[16] }}>&#9918;</div>
           <h2 style={{ fontSize: 20, fontWeight: 600, color: colors.textPrimary, margin: 0 }}>Field not found</h2>
-          <p style={{ fontSize: 14, color: colors.textTertiary, marginTop: 8 }}>{error || "This field doesn't exist or has been removed."}</p>
-          <button onClick={() => router.push('/')} style={{ marginTop: 24, fontSize: 14, fontWeight: 600, color: colors.textInverse, background: colors.textPrimary, borderRadius: 10, padding: '12px 28px', border: 'none', cursor: 'pointer' }}>
+          <p style={{ fontSize: 14, color: colors.textTertiary, marginTop: spacing[8] }}>{error || "This field doesn't exist or has been removed."}</p>
+          <button onClick={() => router.push('/')} style={{ marginTop: spacing[24], fontSize: 14, fontWeight: 600, color: colors.textInverse, background: colors.textPrimary, borderRadius: 10, padding: pad(spacing[12], spacing[28]), border: 'none', cursor: 'pointer' }}>
             &#8592; Back to search
           </button>
         </div>
@@ -73,14 +73,14 @@ export default function FieldPage() {
 
   return (
     <PageShell>
-      <div style={{ maxWidth: 680, margin: '0 auto', padding: '0 24px' }}>
+      <div style={{ maxWidth: 680, margin: '0 auto', padding: pad(0, spacing[24]) }}>
         {/* Field header */}
-        <section style={{ paddingTop: 24 }}>
+        <section style={{ paddingTop: spacing[24] }}>
           <div style={{
             display: 'inline-block', fontSize: 11, fontWeight: 700,
             textTransform: 'uppercase', letterSpacing: 1.5,
             color: colors.amber, background: colors.bgWarning,
-            padding: '3px 10px', borderRadius: 6, marginBottom: 12,
+            padding: pad(spacing[3], spacing[10]), borderRadius: 6, marginBottom: spacing[12],
           }}>
             &#9918; Baseball Field
           </div>
@@ -101,7 +101,7 @@ export default function FieldPage() {
           </a>
 
           {hasData && (
-            <p style={{ fontSize: 12, color: colors.textTertiary, marginTop: 10, margin: '10px 0 0' }}>
+            <p style={{ fontSize: 12, color: colors.textTertiary, marginTop: spacing[10], margin: pad(spacing[10], 0, 0) }}>
               From {summary.contribution_count} baseball parent{summary.contribution_count !== 1 ? 's' : ''}
             </p>
           )}
@@ -109,7 +109,7 @@ export default function FieldPage() {
           {/* Verdict */}
           {hasData && (
             <div style={{
-              marginTop: 12, padding: '12px 16px', borderRadius: 12,
+              marginTop: spacing[12], padding: pad(spacing[12], spacing[16]), borderRadius: 12,
               background: summary.verdict.includes('Great') ? colors.bgSuccess
                 : summary.verdict.includes('Mixed') ? colors.bgWarning : colors.bgSubtle,
               border: `1px solid ${summary.verdict.includes('Great') ? colors.successBorder
@@ -126,7 +126,7 @@ export default function FieldPage() {
           )}
 
           {/* Share */}
-          <div style={{ marginTop: 12 }}>
+          <div style={{ marginTop: spacing[12] }}>
             <button
               onClick={() => {
                 const shareUrl = new URL(window.location.href);
@@ -145,7 +145,7 @@ export default function FieldPage() {
                 color: shareCopied ? colors.success : colors.brand,
                 background: shareCopied ? colors.bgSuccess : colors.bgInfo,
                 border: `1px solid ${shareCopied ? colors.successBorder : colors.brandLight}`,
-                borderRadius: 8, padding: '6px 14px', cursor: 'pointer',
+                borderRadius: 8, padding: pad(spacing[6], spacing[14]), cursor: 'pointer',
               }}
             >
               {shareCopied ? 'Copied!' : 'Share with team'}
@@ -155,10 +155,10 @@ export default function FieldPage() {
 
         {/* Signals */}
         {displaySignals.length > 0 && (
-          <section style={{ marginTop: 24 }}>
+          <section style={{ marginTop: spacing[24] }}>
             <h3 style={{
               fontSize: 13, fontWeight: 600, color: colors.textMuted,
-              textTransform: 'uppercase', letterSpacing: 1.5, marginBottom: 12,
+              textTransform: 'uppercase', letterSpacing: 1.5, marginBottom: spacing[12],
             }}>
               Ratings
             </h3>
@@ -168,14 +168,14 @@ export default function FieldPage() {
               return (
                 <div key={s.signal} style={{
                   display: 'flex', alignItems: 'center', justifyContent: 'space-between',
-                  padding: '10px 14px', marginBottom: 6,
+                  padding: pad(spacing[10], spacing[14]), marginBottom: spacing[6],
                   background: colors.surface, border: `1px solid ${colors.borderLight}`, borderRadius: 10,
                 }}>
-                  <div style={{ display: 'flex', alignItems: 'center', gap: 8 }}>
+                  <div style={{ display: 'flex', alignItems: 'center', gap: spacing[8] }}>
                     <span style={{ fontSize: 18 }}>{meta.icon}</span>
                     <span style={{ fontSize: 14, fontWeight: 500, color: colors.textPrimary }}>{meta.label}</span>
                   </div>
-                  <div style={{ display: 'flex', alignItems: 'center', gap: 8 }}>
+                  <div style={{ display: 'flex', alignItems: 'center', gap: spacing[8] }}>
                     <div style={{
                       width: 80, height: 6, background: colors.borderLight, borderRadius: 3, overflow: 'hidden',
                     }}>
@@ -201,8 +201,8 @@ export default function FieldPage() {
 
         {/* No data state */}
         {!hasData && (
-          <section style={{ background: colors.surface, border: `1px solid ${colors.borderDefault}`, borderRadius: 16, padding: 32, marginTop: 16, textAlign: 'center' }}>
-            <div style={{ fontSize: 36, marginBottom: 12 }}>&#9918;</div>
+          <section style={{ background: colors.surface, border: `1px solid ${colors.borderDefault}`, borderRadius: 16, padding: spacing[32], marginTop: spacing[16], textAlign: 'center' }}>
+            <div style={{ fontSize: 36, marginBottom: spacing[12] }}>&#9918;</div>
             <p style={{ fontSize: 16, fontWeight: 600, color: colors.textPrimary, margin: 0 }}>Be the first to report</p>
             <p style={{ fontSize: 14, color: colors.textTertiary, marginTop: 6, lineHeight: 1.5 }}>
               No one has shared info about this field yet. How&apos;s parking? Is it hot? Any shade?
@@ -212,16 +212,16 @@ export default function FieldPage() {
 
         {/* Tips */}
         {summary.tips.length > 0 && (
-          <section style={{ marginTop: 24 }}>
+          <section style={{ marginTop: spacing[24] }}>
             <h3 style={{
               fontSize: 13, fontWeight: 600, color: colors.textMuted,
-              textTransform: 'uppercase', letterSpacing: 1.5, marginBottom: 12,
+              textTransform: 'uppercase', letterSpacing: 1.5, marginBottom: spacing[12],
             }}>
               Things to know ({summary.tips.length})
             </h3>
             {summary.tips.map((tip, i) => (
               <div key={i} style={{
-                padding: '10px 14px', marginBottom: 6,
+                padding: pad(spacing[10], spacing[14]), marginBottom: spacing[6],
                 background: colors.surface, border: `1px solid ${colors.borderLight}`, borderRadius: 10,
               }}>
                 <p style={{ fontSize: 14, color: colors.textSecondary, margin: 0, lineHeight: 1.5 }}>
@@ -235,7 +235,7 @@ export default function FieldPage() {
           </section>
         )}
 
-        <section style={{ marginTop: 24, paddingBottom: 60 }}>
+        <section style={{ marginTop: spacing[24], paddingBottom: spacing[60] }}>
           <div
             onClick={() => router.push('/')}
             role="button"
@@ -243,7 +243,7 @@ export default function FieldPage() {
             onKeyDown={(e) => { if (e.key === 'Enter' || e.key === ' ') { e.preventDefault(); router.push('/'); } }}
             style={{
               display: 'flex', alignItems: 'center', justifyContent: 'space-between',
-              padding: '14px 20px', background: colors.surface, border: `1px solid ${colors.borderDefault}`, borderRadius: 12,
+              padding: pad(spacing[14], spacing[20]), background: colors.surface, border: `1px solid ${colors.borderDefault}`, borderRadius: 12,
               cursor: 'pointer',
             }}
           >
@@ -253,7 +253,7 @@ export default function FieldPage() {
       </div>
 
       <footer style={{
-        maxWidth: 680, margin: '0 auto', padding: '28px 24px',
+        maxWidth: 680, margin: '0 auto', padding: pad(spacing[28], spacing[24]),
         borderTop: `1px solid ${colors.borderLight}`,
       }}>
         <span style={{ fontSize: 12, color: colors.textMuted }}>Built by sports parents, for sports parents.</span>

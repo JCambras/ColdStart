@@ -1,5 +1,5 @@
 import { describe, it, expect } from 'vitest';
-import { colors, text, radius, layout, shadow, transition, nav } from '../theme';
+import { colors, text, spacing, radius, layout, shadow, transition, nav, pad } from '../theme';
 
 describe('theme tokens', () => {
   it('all color values are non-empty strings', () => {
@@ -14,6 +14,23 @@ describe('theme tokens', () => {
       expect(typeof value).toBe('number');
       expect(value).toBeGreaterThan(0);
     }
+  });
+
+  it('all spacing values are non-negative numbers in ascending order', () => {
+    const values = Object.values(spacing);
+    for (const value of values) {
+      expect(typeof value).toBe('number');
+      expect(value).toBeGreaterThanOrEqual(0);
+    }
+    for (let i = 1; i < values.length; i++) {
+      expect(values[i]).toBeGreaterThan(values[i - 1]);
+    }
+  });
+
+  it('pad() builds CSS spacing strings', () => {
+    expect(pad(8)).toBe('8px');
+    expect(pad(10, 14)).toBe('10px 14px');
+    expect(pad(8, 12, 8, 12)).toBe('8px 12px 8px 12px');
   });
 
   it('all radius values are positive numbers or "50%"', () => {
@@ -56,11 +73,12 @@ describe('theme tokens', () => {
     const total =
       Object.keys(colors).length +
       Object.keys(text).length +
+      Object.keys(spacing).length +
       Object.keys(radius).length +
       Object.keys(layout).length +
       Object.keys(shadow).length +
       Object.keys(transition).length +
       Object.keys(nav).length;
-    expect(total).toBe(105);
+    expect(total).toBe(127);
   });
 });

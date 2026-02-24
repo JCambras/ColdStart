@@ -3,7 +3,7 @@
 import { useState, useEffect } from 'react';
 import { SIGNAL_LABELS } from '../lib/constants';
 import { getBarColor, getVerdictColor, getVerdictBg, getRinkPhoto, getFreshnessTier, getPulseDotColor, getPulseDotLabel } from '../lib/rinkHelpers';
-import { colors, text, shadow } from '../lib/theme';
+import { colors, text, shadow, spacing, pad } from '../lib/theme';
 
 interface Signal {
   signal: string;
@@ -76,31 +76,31 @@ export function RinkCard({ rink, onClick }: { rink: RinkData; onClick: () => voi
       position: 'relative', overflow: 'hidden',
     }}>
       <div style={{ fontSize: 48, opacity: 0.4 }}>🏒</div>
-      <span style={{ fontSize: 10, color: colors.textMuted, marginTop: 4, fontWeight: 500 }}>Photo coming soon</span>
+      <span style={{ fontSize: 10, color: colors.textMuted, marginTop: spacing[4], fontWeight: 500 }}>Photo coming soon</span>
     </div>
   ) : null;
 
   // Content section
   const contentSection = (
-    <div style={{ flex: 1, padding: isMobile ? '18px 20px' : '22px 24px', display: 'flex', flexDirection: 'column' }}>
+    <div style={{ flex: 1, padding: isMobile ? pad(spacing[18], spacing[20]) : pad(spacing[22], spacing[24]), display: 'flex', flexDirection: 'column' }}>
       <div style={{ fontSize: isMobile ? 20 : text['2xl'], fontWeight: 800, color: colors.textPrimary, lineHeight: 1.1, letterSpacing: -0.5 }}>
         {rink.name}
       </div>
-      <div style={{ fontSize: text.sm, color: colors.textTertiary, marginTop: 3 }}>
+      <div style={{ fontSize: text.sm, color: colors.textTertiary, marginTop: spacing[3] }}>
         {rink.city}, {rink.state}
       </div>
       {rink.address && (
-        <div style={{ fontSize: 11, color: colors.textMuted, marginTop: 2 }}>{rink.address}</div>
+        <div style={{ fontSize: 11, color: colors.textMuted, marginTop: spacing[2] }}>{rink.address}</div>
       )}
 
       {summary ? (
-        <div style={{ flex: 1, display: 'flex', flexDirection: 'column', justifyContent: 'space-between', marginTop: 10 }}>
+        <div style={{ flex: 1, display: 'flex', flexDirection: 'column', justifyContent: 'space-between', marginTop: spacing[10] }}>
           <div>
             {/* Verdict badge */}
             {summary.verdict && (
               <span style={{
                 display: 'inline-block', fontSize: 11, fontWeight: 600,
-                padding: '3px 10px', borderRadius: 8,
+                padding: pad(spacing[3], spacing[10]), borderRadius: 8,
                 background: getVerdictBg(summary.verdict),
                 color: getVerdictColor(summary.verdict),
               }}>
@@ -108,7 +108,7 @@ export function RinkCard({ rink, onClick }: { rink: RinkData; onClick: () => voi
               </span>
             )}
             {/* Signal bars — all signals, parking first */}
-            <div style={{ display: 'flex', flexDirection: 'column' as const, gap: isMobile ? 7 : 8, marginTop: 10 }}>
+            <div style={{ display: 'flex', flexDirection: 'column' as const, gap: isMobile ? spacing[7] : spacing[8], marginTop: spacing[10] }}>
               {[...summary.signals]
                 .sort((a, b) => { if (a.signal === 'parking') return -1; if (b.signal === 'parking') return 1; return 0; })
                 .map((s) => {
@@ -116,7 +116,7 @@ export function RinkCard({ rink, onClick }: { rink: RinkData; onClick: () => voi
                   const label = SIGNAL_LABELS[s.signal] || s.signal;
                   const color = getBarColor(s.value, s.count);
                   return (
-                    <div key={s.signal} style={{ display: 'flex', alignItems: 'center', gap: 8, fontSize: text.sm }}>
+                    <div key={s.signal} style={{ display: 'flex', alignItems: 'center', gap: spacing[8], fontSize: text.sm }}>
                       <span style={{ width: 52, flexShrink: 0, color: colors.textSecondary, fontWeight: 500 }}>{label}</span>
                       <div style={{ flex: 1, height: 7, background: colors.borderLight, borderRadius: 4, overflow: 'hidden' }}>
                         <div style={{ width: `${pct}%`, height: '100%', borderRadius: 4, background: `linear-gradient(90deg, ${color}, ${color}dd)`, transition: 'width 0.6s ease' }} />
@@ -132,10 +132,10 @@ export function RinkCard({ rink, onClick }: { rink: RinkData; onClick: () => voi
           </div>
 
           {/* Tip preview + count */}
-          <div style={{ marginTop: 12 }}>
+          <div style={{ marginTop: spacing[12] }}>
             {summary.tips.length > 0 && (
               <p style={{
-                fontSize: text.sm, color: colors.textTertiary, lineHeight: 1.45, margin: 0,
+                fontSize: text.sm, color: colors.textTertiary, lineHeight: 1.45, margin: spacing[0],
                 fontStyle: 'italic',
                 display: '-webkit-box', WebkitLineClamp: 2, WebkitBoxOrient: 'vertical' as any,
                 overflow: 'hidden',
@@ -143,7 +143,7 @@ export function RinkCard({ rink, onClick }: { rink: RinkData; onClick: () => voi
                 &ldquo;{summary.tips[0].text}&rdquo;
               </p>
             )}
-            <div style={{ display: 'flex', alignItems: 'center', gap: 6, marginTop: 8 }}>
+            <div style={{ display: 'flex', alignItems: 'center', gap: spacing[6], marginTop: spacing[8] }}>
               {/* Pulse dot + visible freshness text */}
               {summary.last_updated_at && getFreshnessTier(summary.last_updated_at) !== 'unknown' && (
                 <>
@@ -161,7 +161,7 @@ export function RinkCard({ rink, onClick }: { rink: RinkData; onClick: () => voi
                 {summary.contribution_count} parent{summary.contribution_count !== 1 ? 's' : ''}
               </span>
               {summary.confirmed_this_season && (
-                <span style={{ fontSize: text['2xs'], fontWeight: 500, padding: '2px 8px', borderRadius: 10, background: colors.bgSuccess, color: colors.success }}>
+                <span style={{ fontSize: text['2xs'], fontWeight: 500, padding: pad(spacing[2], spacing[8]), borderRadius: 10, background: colors.bgSuccess, color: colors.success }}>
                   ✓ This season
                 </span>
               )}
@@ -169,7 +169,7 @@ export function RinkCard({ rink, onClick }: { rink: RinkData; onClick: () => voi
           </div>
         </div>
       ) : (
-        <p style={{ fontSize: text.md, color: colors.textSecondary, marginTop: 12, lineHeight: 1.5 }}>
+        <p style={{ fontSize: text.md, color: colors.textSecondary, marginTop: spacing[12], lineHeight: 1.5 }}>
           You&apos;ve been here — tell other parents what to expect.
         </p>
       )}

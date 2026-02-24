@@ -20,7 +20,7 @@ import { apiGet, seedGet } from '../../../lib/api';
 import { storage } from '../../../lib/storage';
 import { LoadingSkeleton } from '../../../components/LoadingSkeleton';
 import { useAuth } from '../../../contexts/AuthContext';
-import { colors, text, nav } from '../../../lib/theme';
+import { colors, text, nav, spacing, pad } from '../../../lib/theme';
 
 export function RinkPageClient() {
   const params = useParams();
@@ -32,6 +32,7 @@ export function RinkPageClient() {
   const [error, setError] = useState<string | null>(null);
   const [shareCopied, setShareCopied] = useState(false);
   const [showReturnPrompt, setShowReturnPrompt] = useState(false);
+  const [isFromSeed, setIsFromSeed] = useState(false);
 
   const [nearbyData, setNearbyData] = useState<Record<string, NearbyPlace[]> | null>(null);
   const [loadedSignals, setLoadedSignals] = useState<Record<string, { value: number; count: number; confidence: number }> | null>(null);
@@ -210,6 +211,7 @@ export function RinkPageClient() {
         if (built) {
           if (homeTeams && homeTeams[rinkId]) built.home_teams = homeTeams[rinkId];
           setDetail(built);
+          setIsFromSeed(true);
         }
         else setError('Rink not found');
       } catch (e: unknown) {
@@ -246,8 +248,8 @@ export function RinkPageClient() {
   if (loading && preview) {
     return (
       <PageShell>
-        <div style={{ maxWidth: 680, margin: '0 auto', padding: '0 24px' }}>
-          <section style={{ paddingTop: 24 }}>
+        <div style={{ maxWidth: 680, margin: '0 auto', padding: pad(0, spacing[24]) }}>
+          <section style={{ paddingTop: spacing[24] }}>
             <h1 style={{
               fontSize: 'clamp(22px, 5vw, 36px)',
               fontWeight: 700, color: colors.textPrimary,
@@ -255,22 +257,22 @@ export function RinkPageClient() {
             }}>
               {preview.name}
             </h1>
-            <p style={{ fontSize: 13, color: colors.textTertiary, marginTop: 4 }}>
+            <p style={{ fontSize: 13, color: colors.textTertiary, marginTop: spacing[4] }}>
               {preview.city}, {preview.state}
             </p>
           </section>
           {/* Verdict skeleton */}
           <div style={{
-            marginTop: 20, borderRadius: 16, padding: '20px 24px',
+            marginTop: spacing[20], borderRadius: 16, padding: pad(spacing[20], spacing[24]),
             background: colors.bgSubtle, border: `1px solid ${colors.borderLight}`,
           }}>
             <div style={{ width: 80, height: 10, borderRadius: 4, background: colors.borderLight, animation: 'pulse 1.5s infinite' }} />
-            <div style={{ width: 180, height: 18, borderRadius: 4, background: colors.borderLight, marginTop: 8, animation: 'pulse 1.5s infinite' }} />
+            <div style={{ width: 180, height: 18, borderRadius: 4, background: colors.borderLight, marginTop: spacing[8], animation: 'pulse 1.5s infinite' }} />
           </div>
           {/* Signal bar skeletons */}
-          <div style={{ marginTop: 20, display: 'flex', flexDirection: 'column', gap: 10 }}>
+          <div style={{ marginTop: spacing[20], display: 'flex', flexDirection: 'column', gap: spacing[10] }}>
             {Array.from({ length: 7 }).map((_, i) => (
-              <div key={i} style={{ display: 'flex', alignItems: 'center', gap: 8 }}>
+              <div key={i} style={{ display: 'flex', alignItems: 'center', gap: spacing[8] }}>
                 <div style={{ width: 52, height: 10, borderRadius: 4, background: colors.borderLight, animation: 'pulse 1.5s infinite' }} />
                 <div style={{ flex: 1, height: 7, borderRadius: 4, background: colors.borderLight, animation: 'pulse 1.5s infinite' }} />
               </div>
@@ -288,11 +290,11 @@ export function RinkPageClient() {
   if (error || !detail) {
     return (
       <PageShell>
-        <div style={{ maxWidth: 600, margin: '60px auto', padding: '0 24px', textAlign: 'center' }}>
-          <div style={{ fontSize: 48, marginBottom: 16 }}>🏒</div>
+        <div style={{ maxWidth: 600, margin: '60px auto', padding: pad(0, spacing[24]), textAlign: 'center' }}>
+          <div style={{ fontSize: 48, marginBottom: spacing[16] }}>🏒</div>
           <h2 style={{ fontSize: 20, fontWeight: 600, color: colors.textPrimary, margin: 0 }}>Rink not found</h2>
-          <p style={{ fontSize: 14, color: colors.textTertiary, marginTop: 8 }}>{error || "This rink doesn't exist or has been removed."}</p>
-          <button onClick={() => router.push('/')} style={{ marginTop: 24, fontSize: 14, fontWeight: 600, color: colors.textInverse, background: colors.textPrimary, borderRadius: 10, padding: '12px 28px', border: 'none', cursor: 'pointer' }}>
+          <p style={{ fontSize: 14, color: colors.textTertiary, marginTop: spacing[8] }}>{error || "This rink doesn't exist or has been removed."}</p>
+          <button onClick={() => router.push('/')} style={{ marginTop: spacing[24], fontSize: 14, fontWeight: 600, color: colors.textInverse, background: colors.textPrimary, borderRadius: 10, padding: pad(spacing[12], spacing[28]), border: 'none', cursor: 'pointer' }}>
             ← Back to search
           </button>
         </div>
@@ -342,7 +344,7 @@ export function RinkPageClient() {
         color: shareCopied ? colors.success : colors.brand,
         background: shareCopied ? colors.bgSuccess : colors.bgInfo,
         border: `1px solid ${shareCopied ? colors.successBorder : colors.brandLight}`,
-        borderRadius: 8, padding: '6px 14px', cursor: 'pointer',
+        borderRadius: 8, padding: pad(spacing[6], spacing[14]), cursor: 'pointer',
         transition: 'all 0.2s', whiteSpace: 'nowrap',
       }}
     >
@@ -360,7 +362,7 @@ export function RinkPageClient() {
       {(currentUser.name || currentUser.email).slice(0, 2).toUpperCase()}
     </div>
   ) : (
-    <button onClick={openAuth} style={{ fontSize: 12, fontWeight: 600, color: colors.textInverse, background: colors.textPrimary, border: 'none', borderRadius: 8, padding: '6px 14px', cursor: 'pointer', whiteSpace: 'nowrap' }}>
+    <button onClick={openAuth} style={{ fontSize: 12, fontWeight: 600, color: colors.textInverse, background: colors.textPrimary, border: 'none', borderRadius: 8, padding: pad(spacing[6], spacing[14]), cursor: 'pointer', whiteSpace: 'nowrap' }}>
       Sign in
     </button>
   );
@@ -370,7 +372,7 @@ export function RinkPageClient() {
       position: 'sticky', top: 0, zIndex: 40,
       background: nav.bg, backdropFilter: nav.blur,
       borderBottom: `1px solid ${colors.borderLight}`,
-      display: 'flex', justifyContent: 'center', gap: 0, padding: '0 24px',
+      display: 'flex', justifyContent: 'center', gap: 0, padding: pad(0, spacing[24]),
     }}>
       {[
         { key: 'signals', label: 'Ratings' },
@@ -386,7 +388,7 @@ export function RinkPageClient() {
             if (el) el.scrollIntoView({ behavior: 'smooth' });
           }}
           style={{
-            padding: '10px 16px', fontSize: 13,
+            padding: pad(spacing[10], spacing[16]), fontSize: 13,
             fontWeight: activeTab === tab.key ? 700 : 400,
             color: activeTab === tab.key ? colors.brand : colors.textTertiary,
             background: 'none', border: 'none', cursor: 'pointer',
@@ -402,13 +404,13 @@ export function RinkPageClient() {
 
   return (
     <PageShell logoStacked navBelow={tabBar}>
-      <div style={{ maxWidth: 680, margin: '0 auto', padding: '0 24px' }}>
+      <div style={{ maxWidth: 680, margin: '0 auto', padding: pad(0, spacing[24]) }}>
 
         {referralSource === 'share' && (
           <div style={{
-            marginTop: 12, padding: '10px 16px', borderRadius: 10,
+            marginTop: spacing[12], padding: pad(spacing[10], spacing[16]), borderRadius: 10,
             background: colors.bgInfo, border: `1px solid ${colors.brandLight}`,
-            display: 'flex', alignItems: 'center', gap: 8,
+            display: 'flex', alignItems: 'center', gap: spacing[8],
           }}>
             <span style={{ fontSize: 16 }}>&#128101;</span>
             <span style={{ fontSize: 13, color: colors.brandDark }}>
@@ -426,8 +428,8 @@ export function RinkPageClient() {
         />
 
         {/* ── Rink header — Glance View (mobile-first) ── */}
-        <section style={{ paddingTop: 24, paddingBottom: 0 }}>
-          <div style={{ display: 'flex', alignItems: 'flex-start', justifyContent: 'space-between', gap: 12 }}>
+        <section style={{ paddingTop: spacing[24], paddingBottom: 0 }}>
+          <div style={{ display: 'flex', alignItems: 'flex-start', justifyContent: 'space-between', gap: spacing[12] }}>
             <div style={{ flex: 1 }}>
               <h1 style={{
                 fontSize: 'clamp(22px, 5vw, 36px)',
@@ -446,7 +448,7 @@ export function RinkPageClient() {
               </a>
               {detail.same_name_rinks && detail.same_name_rinks.length > 0 && (
                 <div style={{
-                  marginTop: 8, padding: '8px 12px', borderRadius: 8,
+                  marginTop: spacing[8], padding: pad(spacing[8], spacing[12]), borderRadius: 8,
                   background: colors.bgInfo, border: `1px solid ${colors.brandLight}`,
                   fontSize: 12, color: colors.brandDark,
                 }}>
@@ -475,23 +477,23 @@ export function RinkPageClient() {
                 </div>
               )}
             </div>
-            <div style={{ flexShrink: 0, paddingTop: 4 }}>
+            <div style={{ flexShrink: 0, paddingTop: spacing[4] }}>
               <SaveRinkButton rinkId={rinkId} />
             </div>
           </div>
 
           {hasData && (
-            <p style={{ fontSize: 12, color: colors.textTertiary, marginTop: 10, margin: '10px 0 0' }}>
+            <p style={{ fontSize: 12, color: colors.textTertiary, marginTop: spacing[10], margin: pad(spacing[10], 0, 0) }}>
               From {summary.contribution_count} hockey parent{summary.contribution_count !== 1 ? 's' : ''}
             </p>
           )}
 
           {hasData && (
-            <VerdictCard rink={rink} summary={summary} loadedSignals={loadedSignals} />
+            <VerdictCard rink={rink} summary={summary} loadedSignals={loadedSignals} isFromSeed={isFromSeed} />
           )}
 
           {hasData && (
-            <p style={{ fontSize: 11, color: colors.textMuted, margin: '8px 0 0', lineHeight: 1.4 }}>
+            <p style={{ fontSize: 11, color: colors.textMuted, margin: pad(spacing[8], 0, 0), lineHeight: 1.4 }}>
               Ratings are crowd-sourced from visiting parents and may not reflect current conditions.{' '}
               <a href="mailto:rinks@coldstarthockey.com" style={{ color: colors.brandAccent, textDecoration: 'none' }}>
                 Rink operators can claim this page.
@@ -503,13 +505,13 @@ export function RinkPageClient() {
             <RinkComparison currentRinkId={rinkId} currentRinkName={rink.name} currentSignals={summary.signals} />
           )}
 
-          <div style={{ marginTop: 12 }}>
+          <div style={{ marginTop: spacing[12] }}>
             {shareButton}
           </div>
 
-          <div style={{ marginTop: 16, display: 'flex', flexDirection: 'column', gap: 8 }}>
-            <div style={{ display: 'flex', justifyContent: 'space-between', alignItems: 'flex-start', gap: 8 }}>
-              <div style={{ display: 'flex', flexDirection: 'column', gap: 6 }}>
+          <div style={{ marginTop: spacing[16], display: 'flex', flexDirection: 'column', gap: spacing[8] }}>
+            <div style={{ display: 'flex', justifyContent: 'space-between', alignItems: 'flex-start', gap: spacing[8] }}>
+              <div style={{ display: 'flex', flexDirection: 'column', gap: spacing[6] }}>
                 {(() => {
                   const streaming = RINK_STREAMING[rinkSlug];
                   if (!streaming || streaming.type === 'none') return null;
@@ -520,8 +522,8 @@ export function RinkPageClient() {
                       target="_blank"
                       rel="noopener noreferrer"
                       style={{
-                        display: 'inline-flex', alignItems: 'center', gap: 6,
-                        padding: '5px 12px', borderRadius: 8,
+                        display: 'inline-flex', alignItems: 'center', gap: spacing[6],
+                        padding: pad(spacing[5], spacing[12]), borderRadius: 8,
                         background: isLiveBarn ? colors.bgOrangeLight : colors.bgInfo,
                         border: `1px solid ${isLiveBarn ? colors.amberBorder : colors.brandLight}`,
                         fontSize: 12, fontWeight: 600,
@@ -540,8 +542,8 @@ export function RinkPageClient() {
                     target="_blank"
                     rel="noopener noreferrer"
                     style={{
-                      display: 'inline-flex', alignItems: 'center', gap: 6,
-                      padding: '5px 12px', borderRadius: 8,
+                      display: 'inline-flex', alignItems: 'center', gap: spacing[6],
+                      padding: pad(spacing[5], spacing[12]), borderRadius: 8,
                       background: colors.bgSuccess, border: `1px solid ${colors.successBorder}`,
                       fontSize: 12, fontWeight: 600, color: colors.success,
                       textDecoration: 'none', cursor: 'pointer',
@@ -552,15 +554,15 @@ export function RinkPageClient() {
                   </a>
                 )}
               </div>
-              <div style={{ display: 'flex', flexDirection: 'column', gap: 6 }}>
+              <div style={{ display: 'flex', flexDirection: 'column', gap: spacing[6] }}>
                 <button
                   onClick={() => router.push(`/trip/new?rink=${rinkId}`)}
                   style={{
                     fontSize: 12, fontWeight: 600,
                     color: colors.textTertiary, background: colors.bgSubtle,
                     border: `1px solid ${colors.borderDefault}`,
-                    borderRadius: 8, padding: '6px 14px', cursor: 'pointer',
-                    display: 'flex', alignItems: 'center', gap: 4,
+                    borderRadius: 8, padding: pad(spacing[6], spacing[14]), cursor: 'pointer',
+                    display: 'flex', alignItems: 'center', gap: spacing[4],
                   }}
                 >
                   📋 Plan trip
@@ -583,7 +585,7 @@ export function RinkPageClient() {
                 const el = document.getElementById('claim-section');
                 if (el) el.scrollIntoView({ behavior: 'smooth' });
               }}
-              style={{ fontSize: 11, color: colors.brandAccent, cursor: 'pointer', padding: '6px 0', display: 'flex', alignItems: 'center', background: 'none', border: 'none' }}
+              style={{ fontSize: 11, color: colors.brandAccent, cursor: 'pointer', padding: pad(spacing[6], 0), display: 'flex', alignItems: 'center', background: 'none', border: 'none' }}
             >
               Claim this rink →
             </button>
@@ -597,10 +599,10 @@ export function RinkPageClient() {
           if (!isSaved) return null;
           return (
             <div style={{
-              marginTop: 16, padding: '16px 20px',
+              marginTop: spacing[16], padding: pad(spacing[16], spacing[20]),
               background: colors.bgInfo, border: `1px solid ${colors.brandLight}`,
               borderRadius: 14,
-              display: 'flex', alignItems: 'center', justifyContent: 'space-between', gap: 12,
+              display: 'flex', alignItems: 'center', justifyContent: 'space-between', gap: spacing[12],
             }}>
               <div>
                 <div style={{ fontSize: 14, fontWeight: 700, color: colors.textPrimary }}>Playing here soon?</div>
@@ -614,7 +616,7 @@ export function RinkPageClient() {
                   fontSize: 13, fontWeight: 600,
                   color: colors.textInverse, background: colors.brand,
                   border: 'none', borderRadius: 10,
-                  padding: '10px 18px', cursor: 'pointer',
+                  padding: pad(spacing[10], spacing[18]), cursor: 'pointer',
                   whiteSpace: 'nowrap', flexShrink: 0,
                 }}
               >
@@ -640,16 +642,16 @@ export function RinkPageClient() {
           <RateAndContribute rinkId={rinkId} rinkName={rink.name} onSummaryUpdate={handleSummaryUpdate} contributionCount={summary.contribution_count} signals={summary.signals} />
         </div>
 
-        <SignalsSection rink={rink} summary={summary} loadedSignals={loadedSignals} />
+        <SignalsSection rink={rink} summary={summary} loadedSignals={loadedSignals} isFromSeed={isFromSeed} />
 
         {!hasData && (
           <section style={{
             background: `linear-gradient(135deg, ${colors.bgInfo}, ${colors.surface})`,
             border: `1px solid ${colors.borderDefault}`, borderRadius: 16,
-            padding: 32, marginTop: 16, textAlign: 'center', position: 'relative', overflow: 'hidden',
+            padding: spacing[32], marginTop: spacing[16], textAlign: 'center', position: 'relative', overflow: 'hidden',
           }}>
             {/* Ghost signal bars hint */}
-            <div style={{ display: 'flex', justifyContent: 'center', alignItems: 'flex-end', gap: 6, marginBottom: 16, opacity: 0.18 }}>
+            <div style={{ display: 'flex', justifyContent: 'center', alignItems: 'flex-end', gap: spacing[6], marginBottom: spacing[16], opacity: 0.18 }}>
               {[28, 18, 34, 14, 24, 20, 30].map((h, i) => (
                 <div key={i} style={{ width: 8, height: h, borderRadius: 3, background: colors.brand }} />
               ))}
@@ -662,16 +664,16 @@ export function RinkPageClient() {
               🏒
             </div>
             <p style={{ fontSize: 16, fontWeight: 600, color: colors.textPrimary, margin: 0 }}>Help other hockey parents</p>
-            <p style={{ fontSize: 14, color: colors.textSecondary, marginTop: 6, lineHeight: 1.5, maxWidth: 400, margin: '6px auto 0' }}>
+            <p style={{ fontSize: 14, color: colors.textSecondary, marginTop: spacing[6], lineHeight: 1.5, maxWidth: 400, margin: '6px auto 0' }}>
               You know this rink — your parking tips, your &ldquo;bring a blanket&rdquo; warnings, your food recommendations help every parent heading here for the first time.
             </p>
             <button
               onClick={() => { const el = document.getElementById('contribute-section'); if (el) el.scrollIntoView({ behavior: 'smooth' }); }}
               style={{
-                marginTop: 16, fontSize: 14, fontWeight: 600,
+                marginTop: spacing[16], fontSize: 14, fontWeight: 600,
                 color: colors.textInverse,
                 background: `linear-gradient(135deg, ${colors.brand}, ${colors.brandAccent})`,
-                border: 'none', borderRadius: 10, padding: '12px 28px', cursor: 'pointer',
+                border: 'none', borderRadius: 10, padding: pad(spacing[12], spacing[28]), cursor: 'pointer',
               }}
             >
               Share what you know →
@@ -701,11 +703,11 @@ export function RinkPageClient() {
           ]} />
         </div>
 
-        <section id="claim-section" style={{ marginTop: 24 }}>
+        <section id="claim-section" style={{ marginTop: spacing[24] }}>
           <ClaimRinkCTA rinkId={rinkId} rinkName={rink.name} />
         </section>
 
-        <section style={{ marginTop: 24, paddingBottom: 60 }}>
+        <section style={{ marginTop: spacing[24], paddingBottom: spacing[60] }}>
           <div
             onClick={() => router.push(`/states/${rink.state}`)}
             role="button"
@@ -713,7 +715,7 @@ export function RinkPageClient() {
             onKeyDown={(e) => { if (e.key === 'Enter' || e.key === ' ') { e.preventDefault(); router.push(`/states/${rink.state}`); } }}
             style={{
               display: 'flex', alignItems: 'center', justifyContent: 'space-between',
-              padding: '14px 20px', background: colors.surface, border: `1px solid ${colors.borderDefault}`, borderRadius: 12,
+              padding: pad(spacing[14], spacing[20]), background: colors.surface, border: `1px solid ${colors.borderDefault}`, borderRadius: 12,
               cursor: 'pointer', transition: 'all 0.15s',
             }}
             onMouseEnter={(e) => { e.currentTarget.style.borderColor = colors.brand; }}
@@ -725,9 +727,9 @@ export function RinkPageClient() {
       </div>
 
       <footer style={{
-        maxWidth: 680, margin: '0 auto', padding: '28px 24px',
+        maxWidth: 680, margin: '0 auto', padding: pad(spacing[28], spacing[24]),
         borderTop: `1px solid ${colors.borderLight}`,
-        display: 'flex', flexDirection: 'column', gap: 6,
+        display: 'flex', flexDirection: 'column', gap: spacing[6],
       }}>
         <div style={{ display: 'flex', justifyContent: 'space-between', alignItems: 'center' }}>
           <span style={{ fontSize: 12, color: colors.textMuted }}>Built by hockey parents, for hockey parents.</span>

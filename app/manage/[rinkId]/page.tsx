@@ -3,7 +3,7 @@
 import { useEffect, useState } from 'react';
 import { useParams } from 'next/navigation';
 import { useAuth } from '../../../contexts/AuthContext';
-import { colors, text, radius } from '../../../lib/theme';
+import { colors, text, radius, spacing, pad } from '../../../lib/theme';
 
 interface DashTip {
   id: number;
@@ -139,18 +139,18 @@ export default function OperatorDashboard() {
   // Auth gate: require sign-in
   if (authChecked && !isLoggedIn) {
     return (
-      <div style={{ maxWidth: 500, margin: '80px auto', padding: '0 24px', textAlign: 'center' }}>
-        <div style={{ fontSize: 32, marginBottom: 12 }}>🔒</div>
-        <h1 style={{ fontSize: 20, fontWeight: 700, color: colors.textPrimary, marginBottom: 8 }}>
+      <div style={{ maxWidth: 500, margin: '80px auto', padding: pad(0, spacing[24]), textAlign: 'center' }}>
+        <div style={{ fontSize: 32, marginBottom: spacing[12] }}>🔒</div>
+        <h1 style={{ fontSize: 20, fontWeight: 700, color: colors.textPrimary, marginBottom: spacing[8] }}>
           Sign in required
         </h1>
-        <p style={{ fontSize: 14, color: colors.textMuted, lineHeight: 1.5, marginBottom: 20 }}>
+        <p style={{ fontSize: 14, color: colors.textMuted, lineHeight: 1.5, marginBottom: spacing[20] }}>
           The operator dashboard requires authentication. Please sign in with the account associated with your rink claim.
         </p>
         <button
           onClick={openAuth}
           style={{
-            fontSize: 14, fontWeight: 600, padding: '10px 24px',
+            fontSize: 14, fontWeight: 600, padding: pad(spacing[10], spacing[24]),
             background: colors.brand, color: colors.textInverse,
             border: 'none', borderRadius: 8, cursor: 'pointer',
           }}
@@ -164,12 +164,12 @@ export default function OperatorDashboard() {
   // Auth gate: verify operator has approved claim
   if (authChecked && accessDenied) {
     return (
-      <div style={{ maxWidth: 500, margin: '80px auto', padding: '0 24px', textAlign: 'center' }}>
-        <div style={{ fontSize: 32, marginBottom: 12 }}>🚫</div>
-        <h1 style={{ fontSize: 20, fontWeight: 700, color: colors.textPrimary, marginBottom: 8 }}>
+      <div style={{ maxWidth: 500, margin: '80px auto', padding: pad(0, spacing[24]), textAlign: 'center' }}>
+        <div style={{ fontSize: 32, marginBottom: spacing[12] }}>🚫</div>
+        <h1 style={{ fontSize: 20, fontWeight: 700, color: colors.textPrimary, marginBottom: spacing[8] }}>
           Access denied
         </h1>
-        <p style={{ fontSize: 14, color: colors.textMuted, lineHeight: 1.5, marginBottom: 20 }}>
+        <p style={{ fontSize: 14, color: colors.textMuted, lineHeight: 1.5, marginBottom: spacing[20] }}>
           You don&apos;t have an approved operator claim for this rink. If you manage this facility, please submit a claim from the rink&apos;s public page.
         </p>
         <a href={`/rinks/${rinkId}`} style={{ fontSize: 14, color: colors.brand, fontWeight: 500 }}>
@@ -188,12 +188,12 @@ export default function OperatorDashboard() {
   }
 
   return (
-    <div style={{ maxWidth: 700, margin: '0 auto', padding: '40px 24px' }}>
+    <div style={{ maxWidth: 700, margin: '0 auto', padding: pad(spacing[40], spacing[24]) }}>
       {/* Header */}
-      <div style={{ marginBottom: 32 }}>
+      <div style={{ marginBottom: spacing[32] }}>
         <div style={{
           fontSize: 10, fontWeight: 700, textTransform: 'uppercase', letterSpacing: 1.5,
-          color: colors.brandAccent, marginBottom: 8,
+          color: colors.brandAccent, marginBottom: spacing[8],
         }}>
           Operator Dashboard
         </div>
@@ -203,9 +203,9 @@ export default function OperatorDashboard() {
       </div>
 
       {/* Analytics cards */}
-      <div style={{ display: 'grid', gridTemplateColumns: 'repeat(3, 1fr)', gap: 12, marginBottom: 32 }}>
+      <div style={{ display: 'grid', gridTemplateColumns: 'repeat(3, 1fr)', gap: spacing[12], marginBottom: spacing[32] }}>
         <div style={{
-          padding: '16px 20px', borderRadius: 12,
+          padding: pad(spacing[16], spacing[20]), borderRadius: 12,
           background: colors.bgSubtle, border: `1px solid ${colors.borderLight}`,
         }}>
           <div style={{ fontSize: 24, fontWeight: 700, color: colors.textPrimary }}>
@@ -219,7 +219,7 @@ export default function OperatorDashboard() {
           )}
         </div>
         <div style={{
-          padding: '16px 20px', borderRadius: 12,
+          padding: pad(spacing[16], spacing[20]), borderRadius: 12,
           background: colors.bgSubtle, border: `1px solid ${colors.borderLight}`,
         }}>
           <div style={{ fontSize: 24, fontWeight: 700, color: colors.textPrimary }}>
@@ -228,7 +228,7 @@ export default function OperatorDashboard() {
           <div style={{ fontSize: 12, color: colors.textMuted, marginTop: 2 }}>Total Tips</div>
         </div>
         <div style={{
-          padding: '16px 20px', borderRadius: 12,
+          padding: pad(spacing[16], spacing[20]), borderRadius: 12,
           background: colors.bgSubtle, border: `1px solid ${colors.borderLight}`,
         }}>
           <div style={{ fontSize: 24, fontWeight: 700, color: colors.textPrimary }}>
@@ -245,23 +245,23 @@ export default function OperatorDashboard() {
 
       {/* Ratings Over Time */}
       {stats && stats.weekly_ratings.length > 0 && (
-        <section style={{ marginBottom: 32 }}>
+        <section style={{ marginBottom: spacing[32] }}>
           <h2 style={{
             fontSize: 13, fontWeight: 600, color: colors.textMuted,
-            textTransform: 'uppercase', letterSpacing: 1.5, marginBottom: 12,
+            textTransform: 'uppercase', letterSpacing: 1.5, marginBottom: spacing[12],
           }}>
             Ratings Over Time
           </h2>
           <div style={{
-            display: 'flex', alignItems: 'flex-end', gap: 8, height: 100,
-            padding: '12px 16px', background: colors.surface,
+            display: 'flex', alignItems: 'flex-end', gap: spacing[8], height: 100,
+            padding: pad(spacing[12], spacing[16]), background: colors.surface,
             border: `1px solid ${colors.borderLight}`, borderRadius: 12,
           }}>
             {stats.weekly_ratings.map((w) => {
               const max = Math.max(...stats.weekly_ratings.map(r => r.count), 1);
               const height = Math.max((w.count / max) * 72, 4);
               return (
-                <div key={w.week} style={{ flex: 1, display: 'flex', flexDirection: 'column', alignItems: 'center', gap: 4 }}>
+                <div key={w.week} style={{ flex: 1, display: 'flex', flexDirection: 'column', alignItems: 'center', gap: spacing[4] }}>
                   <span style={{ fontSize: 10, fontWeight: 600, color: colors.textSecondary }}>{w.count}</span>
                   <div style={{
                     width: '100%', maxWidth: 40, height,
@@ -279,25 +279,25 @@ export default function OperatorDashboard() {
 
       {/* Referral Traffic */}
       {stats && (stats.referrals_7d > 0 || stats.referrals_30d > 0) && (
-        <section style={{ marginBottom: 32 }}>
+        <section style={{ marginBottom: spacing[32] }}>
           <h2 style={{
             fontSize: 13, fontWeight: 600, color: colors.textMuted,
-            textTransform: 'uppercase', letterSpacing: 1.5, marginBottom: 12,
+            textTransform: 'uppercase', letterSpacing: 1.5, marginBottom: spacing[12],
           }}>
             Referral Traffic
           </h2>
           <div style={{
-            display: 'grid', gridTemplateColumns: 'repeat(2, 1fr)', gap: 12,
+            display: 'grid', gridTemplateColumns: 'repeat(2, 1fr)', gap: spacing[12],
           }}>
             <div style={{
-              padding: '12px 16px', borderRadius: 10,
+              padding: pad(spacing[12], spacing[16]), borderRadius: 10,
               background: colors.surface, border: `1px solid ${colors.borderLight}`,
             }}>
               <div style={{ fontSize: 20, fontWeight: 700, color: colors.textPrimary }}>{stats.referrals_7d}</div>
               <div style={{ fontSize: 11, color: colors.textMuted, marginTop: 2 }}>Last 7 days</div>
             </div>
             <div style={{
-              padding: '12px 16px', borderRadius: 10,
+              padding: pad(spacing[12], spacing[16]), borderRadius: 10,
               background: colors.surface, border: `1px solid ${colors.borderLight}`,
             }}>
               <div style={{ fontSize: 20, fontWeight: 700, color: colors.textPrimary }}>{stats.referrals_30d}</div>
@@ -318,13 +318,13 @@ export default function OperatorDashboard() {
         {signals.map(s => (
           <div key={s.signal} style={{
             display: 'flex', alignItems: 'center', justifyContent: 'space-between',
-            padding: '10px 14px', marginBottom: 6,
+            padding: pad(spacing[10], spacing[14]), marginBottom: spacing[6],
             background: colors.surface, border: `1px solid ${colors.borderLight}`, borderRadius: 10,
           }}>
             <span style={{ fontSize: 14, fontWeight: 500, color: colors.textPrimary, textTransform: 'capitalize' }}>
               {s.signal.replace(/_/g, ' ')}
             </span>
-            <div style={{ display: 'flex', alignItems: 'center', gap: 12 }}>
+            <div style={{ display: 'flex', alignItems: 'center', gap: spacing[12] }}>
               <span style={{ fontSize: 13, color: colors.textMuted }}>{s.count} ratings</span>
               <span style={{
                 fontSize: 16, fontWeight: 700,
@@ -347,7 +347,7 @@ export default function OperatorDashboard() {
         </h2>
         {tips.map(tip => (
           <div key={tip.id} style={{
-            padding: '14px 16px', marginBottom: 8,
+            padding: pad(spacing[14], spacing[16]), marginBottom: spacing[8],
             background: colors.surface, border: `1px solid ${colors.borderLight}`, borderRadius: 12,
           }}>
             <div style={{ display: 'flex', justifyContent: 'space-between', alignItems: 'flex-start' }}>
@@ -375,7 +375,7 @@ export default function OperatorDashboard() {
                 background: colors.indigoBg, border: `1px solid ${colors.indigoBorder}`,
                 borderRadius: radius.md, borderLeft: `3px solid ${colors.brandAccent}`,
               }}>
-                <div style={{ display: 'flex', alignItems: 'center', gap: 6, marginBottom: 3 }}>
+                <div style={{ display: 'flex', alignItems: 'center', gap: spacing[6], marginBottom: spacing[3] }}>
                   <span style={{
                     fontSize: 10, fontWeight: 700, padding: '1px 5px', borderRadius: 3,
                     background: colors.brandAccent, color: colors.textInverse, textTransform: 'uppercase', letterSpacing: 0.5,
@@ -390,8 +390,8 @@ export default function OperatorDashboard() {
                 </p>
               </div>
             ) : respondingTo === tip.id ? (
-              <div style={{ marginTop: 10, display: 'flex', flexDirection: 'column', gap: 8 }}>
-                <div style={{ display: 'flex', gap: 8 }}>
+              <div style={{ marginTop: spacing[10], display: 'flex', flexDirection: 'column', gap: spacing[8] }}>
+                <div style={{ display: 'flex', gap: spacing[8] }}>
                   <input
                     value={responderName}
                     onChange={(e) => setResponderName(e.target.value)}
@@ -413,7 +413,7 @@ export default function OperatorDashboard() {
                     }}
                   />
                 </div>
-                <div style={{ display: 'flex', gap: 8 }}>
+                <div style={{ display: 'flex', gap: spacing[8] }}>
                   <input
                     value={responseText}
                     onChange={(e) => setResponseText(e.target.value)}
@@ -430,7 +430,7 @@ export default function OperatorDashboard() {
                     onClick={() => submitResponse(tip.id)}
                     disabled={!responseText.trim() || !responderName.trim() || submittingResponse}
                     style={{
-                      fontSize: 13, fontWeight: 600, padding: '8px 16px',
+                      fontSize: 13, fontWeight: 600, padding: pad(spacing[8], spacing[16]),
                       background: responseText.trim() && responderName.trim() ? colors.indigo : colors.borderDefault,
                       color: responseText.trim() && responderName.trim() ? colors.textInverse : colors.textMuted,
                       border: 'none', borderRadius: 8, cursor: 'pointer',
@@ -463,7 +463,7 @@ export default function OperatorDashboard() {
       </section>
 
       {/* Back link */}
-      <div style={{ textAlign: 'center', marginTop: 32 }}>
+      <div style={{ textAlign: 'center', marginTop: spacing[32] }}>
         <a href={`/rinks/${rinkId}`} style={{ fontSize: 14, color: colors.brand, fontWeight: 500 }}>
           &#8592; View public rink page
         </a>

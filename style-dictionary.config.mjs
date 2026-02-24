@@ -1,7 +1,7 @@
 import StyleDictionary from 'style-dictionary';
 
 /** Order matching the original lib/theme.ts for readability. */
-const categoryOrder = ['colors', 'text', 'radius', 'layout', 'shadow', 'transition', 'nav'];
+const categoryOrder = ['colors', 'text', 'spacing', 'radius', 'layout', 'shadow', 'transition', 'nav'];
 
 /**
  * Returns true when a JS identifier must be quoted in object literals

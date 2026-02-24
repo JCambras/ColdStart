@@ -1,6 +1,8 @@
 'use client';
 
-import { colors, text, radius } from '../lib/theme';
+import { useEffect } from 'react';
+import * as Sentry from '@sentry/nextjs';
+import { colors, text, radius, spacing, pad } from '../lib/theme';
 
 export default function GlobalError({
   error,
@@ -9,6 +11,10 @@ export default function GlobalError({
   error: Error & { digest?: string };
   reset: () => void;
 }) {
+  useEffect(() => {
+    Sentry.captureException(error);
+  }, [error]);
+
   return (
     <html>
       <body style={{
@@ -17,8 +23,8 @@ export default function GlobalError({
         display: 'flex', alignItems: 'center', justifyContent: 'center',
         margin: 0,
       }}>
-        <div style={{ maxWidth: 400, textAlign: 'center', padding: 32 }}>
-          <div style={{ fontSize: 36, marginBottom: 12 }}>🏒</div>
+        <div style={{ maxWidth: 400, textAlign: 'center', padding: spacing[32] }}>
+          <div style={{ fontSize: 36, marginBottom: spacing[12] }}>🏒</div>
           <h2 style={{ fontSize: text.xl, fontWeight: 700, color: colors.textPrimary, margin: 0 }}>
             Something went wrong
           </h2>
@@ -27,13 +33,13 @@ export default function GlobalError({
               ? error.message
               : 'An unexpected error occurred. Please try again.'}
           </p>
-          <div style={{ display: 'flex', gap: 10, justifyContent: 'center', marginTop: 20 }}>
+          <div style={{ display: 'flex', gap: spacing[10], justifyContent: 'center', marginTop: spacing[20] }}>
             <button
               onClick={reset}
               style={{
                 fontSize: text.base, fontWeight: 600, color: colors.textInverse,
                 background: colors.brand, border: 'none', borderRadius: radius.lg,
-                padding: '10px 24px', cursor: 'pointer',
+                padding: pad(spacing[10], spacing[24]), cursor: 'pointer',
               }}
             >
               Try again
@@ -43,7 +49,7 @@ export default function GlobalError({
               style={{
                 fontSize: text.base, fontWeight: 600, color: colors.textTertiary,
                 background: colors.bgSubtle, border: `1px solid ${colors.borderDefault}`, borderRadius: radius.lg,
-                padding: '10px 24px', textDecoration: 'none',
+                padding: pad(spacing[10], spacing[24]), textDecoration: 'none',
                 display: 'inline-flex', alignItems: 'center',
               }}
             >

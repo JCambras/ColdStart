@@ -1,6 +1,6 @@
 'use client';
 
-import { colors } from '../../lib/theme';
+import { colors, spacing, pad } from '../../lib/theme';
 
 interface CollapsibleSectionProps {
   title: string;
@@ -18,7 +18,7 @@ export function CollapsibleSection({ title, icon, expanded, onToggle, children }
         aria-expanded={expanded}
         style={{
           width: '100%', display: 'flex', alignItems: 'center', justifyContent: 'space-between',
-          padding: '14px 16px', background: 'none', border: 'none', cursor: 'pointer',
+          padding: pad(spacing[14], spacing[16]), background: 'none', border: 'none', cursor: 'pointer',
         }}
       >
         <span style={{ fontSize: 14, fontWeight: 600, color: colors.textPrimary }}>
@@ -32,7 +32,7 @@ export function CollapsibleSection({ title, icon, expanded, onToggle, children }
         </span>
       </button>
       {expanded && (
-        <div style={{ padding: '0 16px 16px' }}>
+        <div style={{ padding: pad(spacing[0], spacing[16], spacing[16]) }}>
           {children}
         </div>
       )}

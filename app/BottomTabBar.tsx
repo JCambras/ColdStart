@@ -2,7 +2,7 @@
 
 import { usePathname, useRouter } from 'next/navigation';
 import { useAuth } from '../contexts/AuthContext';
-import { colors, text } from '../lib/theme';
+import { colors, text, spacing, pad } from '../lib/theme';
 
 function CompassIcon({ color }: { color: string }) {
   return (
@@ -83,8 +83,8 @@ export default function BottomTabBar() {
               display: 'flex',
               flexDirection: 'column',
               alignItems: 'center',
-              gap: 2,
-              padding: '8px 0 4px',
+              gap: spacing[2],
+              padding: pad(spacing[8], 0, spacing[4]),
               background: 'none',
               border: 'none',
               cursor: tab.disabled ? 'default' : 'pointer',
@@ -117,7 +117,7 @@ export default function BottomTabBar() {
                 background: colors.brand, color: colors.textInverse,
                 fontSize: 9, fontWeight: 700,
                 display: 'flex', alignItems: 'center', justifyContent: 'center',
-                padding: '0 4px', lineHeight: 1,
+                padding: pad(0, spacing[4]), lineHeight: 1,
               }}>
                 {currentUser.rinksRated + currentUser.tipsSubmitted}
               </span>

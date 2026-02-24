@@ -4,7 +4,7 @@ import { useState, useEffect, useRef } from 'react';
 import { useRouter, useSearchParams } from 'next/navigation';
 import { apiGet } from '../../lib/api';
 import { storage } from '../../lib/storage';
-import { colors, text, layout } from '../../lib/theme';
+import { colors, text, layout, spacing, pad } from '../../lib/theme';
 import { useAuth } from '../../contexts/AuthContext';
 import { RinkCard, RinkData } from '../RinkCard';
 import { HeroSearch } from './HeroSearch';
@@ -202,16 +202,16 @@ export default function HomeClient({
       <main id="main-content">
         {/* Search results or Featured grid */}
         {searchResults !== null ? (
-          <section style={{ maxWidth: layout.maxWidth5xl, margin: '0 auto', padding: '32px 24px' }}>
+          <section style={{ maxWidth: layout.maxWidth5xl, margin: '0 auto', padding: pad(spacing[32], spacing[24]) }}>
             {searchResults.length > 0 ? (
               <>
                 <h2 style={{
                   fontSize: 12, fontWeight: 500, color: colors.stone500,
-                  textTransform: 'uppercase', letterSpacing: 1.5, marginBottom: 16,
+                  textTransform: 'uppercase', letterSpacing: 1.5, marginBottom: spacing[16],
                 }}>
                   Search results
                 </h2>
-                <div style={{ display: 'flex', flexDirection: 'column', gap: 16 }}>
+                <div style={{ display: 'flex', flexDirection: 'column', gap: spacing[16] }}>
                   {searchResults.map((rink) => (
                     <RinkCard
                       key={rink.id}
@@ -222,9 +222,9 @@ export default function HomeClient({
                 </div>
               </>
             ) : (
-              <div style={{ textAlign: 'center', padding: '48px 24px', maxWidth: 400, margin: '0 auto' }}>
-                <div style={{ fontSize: 36, marginBottom: 12 }}>🏒</div>
-                <p style={{ fontSize: 16, fontWeight: 600, color: colors.textPrimary, margin: 0 }}>
+              <div style={{ textAlign: 'center', padding: pad(48, spacing[24]), maxWidth: 400, margin: '0 auto' }}>
+                <div style={{ fontSize: 36, marginBottom: spacing[12] }}>🏒</div>
+                <p style={{ fontSize: 16, fontWeight: 600, color: colors.textPrimary, margin: spacing[0] }}>
                   No rinks found for &ldquo;{query}&rdquo;
                 </p>
                 <RinkRequestForm query={query} />
@@ -244,16 +244,16 @@ export default function HomeClient({
         {/* My Rinks (saved) */}
         {savedRinks.length > 0 && (
           <section id="my-rinks-section" aria-label="Saved rinks" style={{
-            maxWidth: layout.maxWidth5xl, margin: '0 auto', padding: '32px 24px 0',
+            maxWidth: layout.maxWidth5xl, margin: '0 auto', padding: pad(spacing[32], spacing[24], spacing[0]),
           }}>
             <h3 style={{
               fontSize: 12, fontWeight: 500, color: colors.stone500,
-              textTransform: 'uppercase', letterSpacing: 1.5, marginBottom: 16,
-              display: 'flex', alignItems: 'center', gap: 6,
+              textTransform: 'uppercase', letterSpacing: 1.5, marginBottom: spacing[16],
+              display: 'flex', alignItems: 'center', gap: spacing[6],
             }}>
               My Rinks
             </h3>
-            <div style={{ display: 'flex', flexDirection: 'column', gap: 10 }}>
+            <div style={{ display: 'flex', flexDirection: 'column', gap: spacing[10] }}>
               {savedRinks.map((rink) => (
                 <div
                   key={rink.id}
@@ -263,7 +263,7 @@ export default function HomeClient({
                   onKeyDown={(e) => { if (e.key === 'Enter' || e.key === ' ') { e.preventDefault(); router.push(`/rinks/${rink.id}`); } }}
                   style={{
                     display: 'flex', alignItems: 'center', justifyContent: 'space-between',
-                    padding: '14px 20px', background: colors.surface, border: `1px solid ${colors.stone200}`,
+                    padding: pad(spacing[14], spacing[20]), background: colors.surface, border: `1px solid ${colors.stone200}`,
                     borderRadius: 12, cursor: 'pointer', transition: 'border-color 0.15s',
                   }}
                   onMouseEnter={(e) => { e.currentTarget.style.borderColor = colors.brand; }}
@@ -271,12 +271,12 @@ export default function HomeClient({
                 >
                   <div>
                     <div style={{ fontSize: text.lg, fontWeight: 600, color: colors.stone800 }}>{rink.name}</div>
-                    <div style={{ fontSize: text.sm, color: colors.stone400, marginTop: 2 }}>{rink.city}, {rink.state}</div>
+                    <div style={{ fontSize: text.sm, color: colors.stone400, marginTop: spacing[2] }}>{rink.city}, {rink.state}</div>
                   </div>
-                  <div style={{ display: 'flex', alignItems: 'center', gap: 10 }}>
+                  <div style={{ display: 'flex', alignItems: 'center', gap: spacing[10] }}>
                     {rink.summary && (
                       <span style={{
-                        fontSize: text.xs, fontWeight: 500, padding: '3px 10px', borderRadius: 10,
+                        fontSize: text.xs, fontWeight: 500, padding: pad(spacing[3], spacing[10]), borderRadius: 10,
                         background: rink.summary.verdict.includes('Good') ? colors.bgSuccess : colors.bgWarning,
                         color: rink.summary.verdict.includes('Good') ? colors.success : colors.warning,
                       }}>
@@ -294,7 +294,7 @@ export default function HomeClient({
                       aria-label={`Remove ${rink.name} from saved rinks`}
                       style={{
                         fontSize: text.xs, color: colors.stone400, background: 'none', border: 'none',
-                        cursor: 'pointer', padding: '12px', minWidth: 44, minHeight: 44,
+                        cursor: 'pointer', padding: spacing[12], minWidth: 44, minHeight: 44,
                         display: 'flex', alignItems: 'center', justifyContent: 'center',
                       }}
                     >
@@ -310,16 +310,16 @@ export default function HomeClient({
         {/* Your Contributions — shows when user has rated rinks */}
         {ratedRinks.length > 0 && (
           <section aria-label="Your contributions" style={{
-            maxWidth: layout.maxWidth5xl, margin: '0 auto', padding: '32px 24px 0',
+            maxWidth: layout.maxWidth5xl, margin: '0 auto', padding: pad(spacing[32], spacing[24], spacing[0]),
           }}>
             <h3 style={{
               fontSize: 12, fontWeight: 500, color: colors.stone500,
-              textTransform: 'uppercase', letterSpacing: 1.5, marginBottom: 16,
-              display: 'flex', alignItems: 'center', gap: 6,
+              textTransform: 'uppercase', letterSpacing: 1.5, marginBottom: spacing[16],
+              display: 'flex', alignItems: 'center', gap: spacing[6],
             }}>
               Your Contributions
               <span style={{
-                fontSize: 10, fontWeight: 600, padding: '1px 7px',
+                fontSize: 10, fontWeight: 600, padding: pad(spacing[1], spacing[7]),
                 borderRadius: 10, background: colors.bgSuccess, color: colors.success,
               }}>
                 {ratedRinks.length}
@@ -327,17 +327,17 @@ export default function HomeClient({
             </h3>
             {staleNudge && !nudgeDismissed && (
               <div style={{
-                display: 'flex', alignItems: 'center', gap: 12,
-                padding: '12px 16px', marginBottom: 12,
+                display: 'flex', alignItems: 'center', gap: spacing[12],
+                padding: pad(spacing[12], spacing[16]), marginBottom: spacing[12],
                 background: colors.bgWarning, border: `1px solid ${colors.warningBorder}`,
                 borderRadius: 12,
               }}>
                 <span style={{ fontSize: 18, flexShrink: 0 }}>🔄</span>
                 <div style={{ flex: 1 }}>
-                  <p style={{ fontSize: 13, fontWeight: 600, color: colors.textPrimary, margin: 0 }}>
+                  <p style={{ fontSize: 13, fontWeight: 600, color: colors.textPrimary, margin: spacing[0] }}>
                     Your rating of {staleNudge.name} is {staleNudge.daysOld} days old
                   </p>
-                  <p style={{ fontSize: 12, color: colors.textMuted, margin: '2px 0 0' }}>
+                  <p style={{ fontSize: 12, color: colors.textMuted, margin: pad(spacing[2], spacing[0], spacing[0]) }}>
                     Conditions may have changed — update it?
                   </p>
                 </div>
@@ -347,7 +347,7 @@ export default function HomeClient({
                     fontSize: 12, fontWeight: 600,
                     color: colors.brand, background: colors.surface,
                     border: `1px solid ${colors.brandLight}`,
-                    borderRadius: 10, padding: '8px 14px',
+                    borderRadius: 10, padding: pad(spacing[8], spacing[14]),
                     cursor: 'pointer', whiteSpace: 'nowrap',
                     flexShrink: 0,
                   }}
@@ -360,7 +360,7 @@ export default function HomeClient({
                   style={{
                     fontSize: 14, color: colors.textMuted,
                     background: 'none', border: 'none',
-                    cursor: 'pointer', padding: '8px',
+                    cursor: 'pointer', padding: spacing[8],
                     flexShrink: 0, lineHeight: 1,
                     minWidth: 32, minHeight: 32,
                     display: 'flex', alignItems: 'center', justifyContent: 'center',
@@ -370,7 +370,7 @@ export default function HomeClient({
                 </button>
               </div>
             )}
-            <div style={{ display: 'flex', flexDirection: 'column', gap: 8 }}>
+            <div style={{ display: 'flex', flexDirection: 'column', gap: spacing[8] }}>
               {ratedRinks.map((rink) => (
                 <div
                   key={rink.id}
@@ -380,7 +380,7 @@ export default function HomeClient({
                   onKeyDown={(e) => { if (e.key === 'Enter' || e.key === ' ') { e.preventDefault(); router.push(`/rinks/${rink.id}`); } }}
                   style={{
                     display: 'flex', alignItems: 'center', justifyContent: 'space-between',
-                    padding: '12px 18px', background: colors.surface, border: `1px solid ${colors.stone200}`,
+                    padding: pad(spacing[12], spacing[18]), background: colors.surface, border: `1px solid ${colors.stone200}`,
                     borderRadius: 10, cursor: 'pointer', transition: 'border-color 0.15s',
                   }}
                   onMouseEnter={(e) => { e.currentTarget.style.borderColor = colors.brand; }}
@@ -388,11 +388,11 @@ export default function HomeClient({
                 >
                   <div>
                     <div style={{ fontSize: text.base, fontWeight: 600, color: colors.stone800 }}>{rink.name}</div>
-                    <div style={{ fontSize: text.xs, color: colors.stone400, marginTop: 2 }}>{rink.city}, {rink.state}</div>
+                    <div style={{ fontSize: text.xs, color: colors.stone400, marginTop: spacing[2] }}>{rink.city}, {rink.state}</div>
                   </div>
-                  <div style={{ display: 'flex', alignItems: 'center', gap: 8 }}>
+                  <div style={{ display: 'flex', alignItems: 'center', gap: spacing[8] }}>
                     <span style={{
-                      fontSize: text['2xs'], fontWeight: 500, padding: '2px 8px',
+                      fontSize: text['2xs'], fontWeight: 500, padding: pad(spacing[2], spacing[8]),
                       borderRadius: 8, background: colors.bgSuccess, color: colors.success,
                     }}>
                       Rated
@@ -410,16 +410,16 @@ export default function HomeClient({
         {/* Recently Viewed */}
         {recentlyViewed.length > 0 && (
           <section aria-label="Recently viewed rinks" style={{
-            maxWidth: layout.maxWidth5xl, margin: '0 auto', padding: '32px 24px 0',
+            maxWidth: layout.maxWidth5xl, margin: '0 auto', padding: pad(spacing[32], spacing[24], spacing[0]),
           }}>
             <h3 style={{
               fontSize: 12, fontWeight: 500, color: colors.stone500,
-              textTransform: 'uppercase', letterSpacing: 1.5, marginBottom: 16,
-              display: 'flex', alignItems: 'center', gap: 6,
+              textTransform: 'uppercase', letterSpacing: 1.5, marginBottom: spacing[16],
+              display: 'flex', alignItems: 'center', gap: spacing[6],
             }}>
               Recently Viewed
             </h3>
-            <div style={{ display: 'flex', flexDirection: 'column', gap: 8 }}>
+            <div style={{ display: 'flex', flexDirection: 'column', gap: spacing[8] }}>
               {recentlyViewed.map((rink) => (
                 <div
                   key={rink.id}
@@ -429,7 +429,7 @@ export default function HomeClient({
                   onKeyDown={(e) => { if (e.key === 'Enter' || e.key === ' ') { e.preventDefault(); router.push(`/rinks/${rink.id}`); } }}
                   style={{
                     display: 'flex', alignItems: 'center', justifyContent: 'space-between',
-                    padding: '12px 18px', background: colors.surface, border: `1px solid ${colors.stone200}`,
+                    padding: pad(spacing[12], spacing[18]), background: colors.surface, border: `1px solid ${colors.stone200}`,
                     borderRadius: 10, cursor: 'pointer', transition: 'border-color 0.15s',
                   }}
                   onMouseEnter={(e) => { e.currentTarget.style.borderColor = colors.brand; }}
@@ -437,9 +437,9 @@ export default function HomeClient({
                 >
                   <div>
                     <div style={{ fontSize: text.base, fontWeight: 600, color: colors.stone800 }}>{rink.name}</div>
-                    <div style={{ fontSize: text.xs, color: colors.stone400, marginTop: 2 }}>{rink.city}, {rink.state}</div>
+                    <div style={{ fontSize: text.xs, color: colors.stone400, marginTop: spacing[2] }}>{rink.city}, {rink.state}</div>
                   </div>
-                  <span style={{ fontSize: text.xs, color: colors.stone400, whiteSpace: 'nowrap', marginLeft: 12 }}>
+                  <span style={{ fontSize: text.xs, color: colors.stone400, whiteSpace: 'nowrap', marginLeft: spacing[12] }}>
                     {timeAgo(rink.viewedAt)}
                   </span>
                 </div>
@@ -451,13 +451,13 @@ export default function HomeClient({
         {/* Personalized CTA from Vibe Engine */}
         {vibeCTA && vibeCTA.action !== '/' && (
           <section style={{
-            maxWidth: layout.maxWidth5xl, margin: '0 auto', padding: '24px 24px 0',
+            maxWidth: layout.maxWidth5xl, margin: '0 auto', padding: pad(spacing[24], spacing[24], spacing[0]),
           }}>
             <button
               onClick={() => router.push(vibeCTA.action)}
               style={{
-                width: '100%', padding: '16px 24px',
-                display: 'flex', alignItems: 'center', justifyContent: 'center', gap: 10,
+                width: '100%', padding: pad(spacing[16], spacing[24]),
+                display: 'flex', alignItems: 'center', justifyContent: 'center', gap: spacing[10],
                 fontSize: 15, fontWeight: 600,
                 color: colors.brand, background: colors.bgInfo,
                 border: `1px solid ${colors.brandLight}`,
@@ -474,22 +474,22 @@ export default function HomeClient({
         )}
 
         {/* Season welcome banner */}
-        <div style={{ paddingTop: 24 }}>
+        <div style={{ paddingTop: spacing[24] }}>
           <SeasonWelcome />
         </div>
 
         {/* Add to home screen prompt (2nd+ visit) */}
-        <div style={{ paddingTop: 24 }}>
+        <div style={{ paddingTop: spacing[24] }}>
           <AddToHomeScreen />
         </div>
 
         {/* Push notification prompt */}
-        <div style={{ paddingTop: 16 }}>
+        <div style={{ paddingTop: spacing[16] }}>
           <PushPrompt />
         </div>
 
         {/* How it works */}
-        <div style={{ paddingTop: 40 }}>
+        <div style={{ paddingTop: spacing[40] }}>
           <HowItWorks />
         </div>
 
@@ -499,9 +499,9 @@ export default function HomeClient({
 
       {/* Footer */}
       <footer style={{
-        maxWidth: layout.maxWidth5xl, margin: '0 auto', padding: '28px 24px',
+        maxWidth: layout.maxWidth5xl, margin: '0 auto', padding: pad(spacing[28], spacing[24]),
         borderTop: `1px solid ${colors.stone200}`,
-        display: 'flex', flexDirection: 'column', gap: 6,
+        display: 'flex', flexDirection: 'column', gap: spacing[6],
       }}>
         <div style={{ display: 'flex', justifyContent: 'space-between', alignItems: 'center' }}>
           <span style={{ fontSize: 12, color: colors.stone400 }}>

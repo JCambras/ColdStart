@@ -6,7 +6,7 @@ import { US_STATES, SIGNAL_ICONS } from '../../../lib/constants';
 import { seedGet } from '../../../lib/api';
 import { PageShell } from '../../../components/PageShell';
 import { LoadingSkeleton } from '../../../components/LoadingSkeleton';
-import { colors, text, radius, shadow } from '../../../lib/theme';
+import { colors, text, radius, shadow, spacing, pad } from '../../../lib/theme';
 
 interface SeedRink {
   id: string;
@@ -38,9 +38,9 @@ export default function StatePage() {
   if (!stateName) {
     return (
       <PageShell>
-        <div style={{ maxWidth: 500, margin: '80px auto', padding: '0 24px', textAlign: 'center' }}>
-          <div style={{ fontSize: 36, marginBottom: 12 }}>🗺️</div>
-          <h1 style={{ fontSize: 20, fontWeight: 700, color: colors.textPrimary, marginBottom: 8 }}>State not found</h1>
+        <div style={{ maxWidth: 500, margin: '80px auto', padding: pad(0, spacing[24]), textAlign: 'center' }}>
+          <div style={{ fontSize: 36, marginBottom: spacing[12] }}>🗺️</div>
+          <h1 style={{ fontSize: 20, fontWeight: 700, color: colors.textPrimary, marginBottom: spacing[8] }}>State not found</h1>
           <p style={{ fontSize: 14, color: colors.textMuted, lineHeight: 1.5 }}>&ldquo;{code}&rdquo; is not a valid US state code.</p>
           <a href="/" style={{ fontSize: 14, color: colors.brand, fontWeight: 500, marginTop: 16, display: 'inline-block' }}>&#8592; Back to home</a>
         </div>
@@ -91,7 +91,7 @@ export default function StatePage() {
 
   return (
     <PageShell back="/">
-      <div style={{ maxWidth: 720, margin: '0 auto', padding: '32px 24px 80px' }}>
+      <div style={{ maxWidth: 720, margin: '0 auto', padding: pad(spacing[32], spacing[24], spacing[80]) }}>
         <h1 style={{ fontSize: 28, fontWeight: 800, color: colors.textPrimary, margin: 0 }}>
           {stateName}
         </h1>
@@ -106,16 +106,16 @@ export default function StatePage() {
             aria-label="Filter rinks"
             placeholder="Filter by name or city..."
             style={{
-              width: '100%', padding: '10px 14px', fontSize: 14,
+              width: '100%', padding: pad(spacing[10], spacing[14]), fontSize: 14,
               border: `1px solid ${colors.borderDefault}`, borderRadius: 10, outline: 'none',
-              boxSizing: 'border-box', marginTop: 16, background: colors.surface,
+              boxSizing: 'border-box', marginTop: spacing[16], background: colors.surface,
             }}
           />
         )}
 
         {loading && <LoadingSkeleton variant="list" />}
         {!loading && (
-          <div style={{ display: 'flex', flexDirection: 'column', gap: 10, marginTop: 20 }}>
+          <div style={{ display: 'flex', flexDirection: 'column', gap: spacing[10], marginTop: spacing[20] }}>
             {filtered.map(rink => {
               const top = getTopSignals(rink.id);
               const avg = getAvgScore(rink.id);
@@ -129,7 +129,7 @@ export default function StatePage() {
                   onKeyDown={(e) => { if (e.key === 'Enter' || e.key === ' ') { e.preventDefault(); router.push(`/rinks/${rink.id}`); } }}
                   style={{
                     display: 'flex', alignItems: 'center', justifyContent: 'space-between',
-                    padding: '14px 18px', background: colors.surface, border: `1px solid ${colors.borderDefault}`,
+                    padding: pad(spacing[14], spacing[18]), background: colors.surface, border: `1px solid ${colors.borderDefault}`,
                     borderRadius: 12, cursor: 'pointer', transition: 'all 0.15s',
                   }}
                   onMouseEnter={(e) => {
@@ -149,7 +149,7 @@ export default function StatePage() {
                       {rink.city}
                     </div>
                   </div>
-                  <div style={{ display: 'flex', alignItems: 'center', gap: 6, flexShrink: 0, marginLeft: 12 }}>
+                  <div style={{ display: 'flex', alignItems: 'center', gap: spacing[6], flexShrink: 0, marginLeft: spacing[12] }}>
                     {top.map(s => (
                       <span key={s.signal} style={{
                         display: 'inline-flex', alignItems: 'center', gap: 3,
@@ -174,7 +174,7 @@ export default function StatePage() {
               );
             })}
             {filtered.length === 0 && !loading && (
-              <div style={{ textAlign: 'center', padding: '32px 24px', color: colors.textMuted, fontSize: 14 }}>
+              <div style={{ textAlign: 'center', padding: pad(spacing[32], spacing[24]), color: colors.textMuted, fontSize: 14 }}>
                 {search ? `No rinks matching "${search}"` : `No rinks found for ${stateName}`}
               </div>
             )}

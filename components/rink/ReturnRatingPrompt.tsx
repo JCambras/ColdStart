@@ -4,7 +4,7 @@ import { useState } from 'react';
 import { RinkSummary } from '../../lib/rinkTypes';
 import { apiPost } from '../../lib/api';
 import { storage } from '../../lib/storage';
-import { colors } from '../../lib/theme';
+import { colors, spacing, pad } from '../../lib/theme';
 import { ContextToggle } from './ContextToggle';
 
 const PROMPT_SIGNALS = [
@@ -117,25 +117,25 @@ export function ReturnRatingPrompt({
       <section style={{
         background: `linear-gradient(135deg, ${colors.bgSuccess} 0%, ${colors.bgSuccess} 100%)`,
         border: `1px solid ${colors.successBorder}`,
-        borderRadius: 14, padding: '18px 20px', marginTop: 16,
+        borderRadius: 14, padding: pad(spacing[18], spacing[20]), marginTop: spacing[16],
       }}>
         <p style={{ fontSize: 15, fontWeight: 700, color: colors.success, margin: 0 }}>
           Thanks! You rated {totalRated} signal{totalRated !== 1 ? 's' : ''}.
         </p>
-        <p style={{ fontSize: 12, color: colors.textTertiary, marginTop: 3, margin: '3px 0 0' }}>
+        <p style={{ fontSize: 12, color: colors.textTertiary, marginTop: spacing[3], margin: pad(spacing[3], spacing[0], spacing[0]) }}>
           {contributionCount > 1
             ? `You're one of ${contributionCount} parents helping families headed to ${rinkName}.`
             : `You're the first parent to rate ${rinkName} — the next family will see your intel.`
           }
         </p>
-        <div style={{ display: 'flex', gap: 8, marginTop: 12 }}>
+        <div style={{ display: 'flex', gap: spacing[8], marginTop: spacing[12] }}>
           <button
             onClick={handleShare}
             style={{
               flex: 1, fontSize: 13, fontWeight: 600,
               color: colors.textInverse, background: colors.success,
               border: 'none', borderRadius: 8,
-              padding: '10px 16px', cursor: 'pointer',
+              padding: pad(spacing[10], spacing[16]), cursor: 'pointer',
             }}
           >
             📤 Share this rink with your team
@@ -145,7 +145,7 @@ export function ReturnRatingPrompt({
             style={{
               fontSize: 13, fontWeight: 600, color: colors.success,
               background: colors.surface, border: `1px solid ${colors.successBorder}`,
-              borderRadius: 8, padding: '10px 16px', cursor: 'pointer',
+              borderRadius: 8, padding: pad(spacing[10], spacing[16]), cursor: 'pointer',
             }}
           >
             Done
@@ -160,15 +160,15 @@ export function ReturnRatingPrompt({
       <section style={{
         background: `linear-gradient(135deg, ${colors.indigoBg} 0%, ${colors.purpleBg} 100%)`,
         border: `1px solid ${colors.indigoBorder}`,
-        borderRadius: 14, padding: '18px 20px', marginTop: 16,
+        borderRadius: 14, padding: pad(spacing[18], spacing[20]), marginTop: spacing[16],
       }}>
         <p style={{ fontSize: 14, fontWeight: 600, color: colors.indigo, margin: 0 }}>
           Drop a quick tip about {rinkName}
         </p>
-        <p style={{ fontSize: 12, color: colors.textTertiary, marginTop: 3, margin: '3px 0 0' }}>
+        <p style={{ fontSize: 12, color: colors.textTertiary, marginTop: spacing[3], margin: pad(spacing[3], spacing[0], spacing[0]) }}>
           Parking hack, entrance tip, food recommendation — anything that helps the next family.
         </p>
-        <div style={{ display: 'flex', gap: 8, marginTop: 12 }}>
+        <div style={{ display: 'flex', gap: spacing[8], marginTop: spacing[12] }}>
           <input
             value={tipText}
             onChange={(e) => setTipText(e.target.value)}
@@ -178,7 +178,7 @@ export function ReturnRatingPrompt({
             aria-label="Write a tip"
             autoFocus
             style={{
-              flex: 1, fontSize: 14, padding: '10px 14px',
+              flex: 1, fontSize: 14, padding: pad(spacing[10], spacing[14]),
               border: `1px solid ${colors.borderMedium}`, borderRadius: 10,
               outline: 'none', fontFamily: 'inherit',
             }}
@@ -189,7 +189,7 @@ export function ReturnRatingPrompt({
             style={{
               fontSize: 13, fontWeight: 600, color: colors.textInverse,
               background: tipText.trim() ? colors.indigo : colors.indigoBorder,
-              border: 'none', borderRadius: 10, padding: '10px 18px',
+              border: 'none', borderRadius: 10, padding: pad(spacing[10], spacing[18]),
               cursor: tipText.trim() ? 'pointer' : 'default',
               whiteSpace: 'nowrap',
             }}
@@ -201,7 +201,7 @@ export function ReturnRatingPrompt({
           onClick={() => { setTipMode(false); setDone(true); }}
           style={{
             fontSize: 11, color: colors.textMuted, background: 'none', border: 'none',
-            cursor: 'pointer', marginTop: 8, padding: '6px 12px',
+            cursor: 'pointer', marginTop: spacing[8], padding: pad(spacing[6], spacing[12]),
           }}
         >
           Skip →
@@ -214,17 +214,17 @@ export function ReturnRatingPrompt({
     <section style={{
       background: `linear-gradient(135deg, ${colors.indigoBg} 0%, ${colors.purpleBg} 100%)`,
       border: `1px solid ${colors.indigoBorder}`,
-      borderRadius: 14, padding: '18px 20px', marginTop: 16,
+      borderRadius: 14, padding: pad(spacing[18], spacing[20]), marginTop: spacing[16],
     }}>
-      <div style={{ marginBottom: 10 }}>
+      <div style={{ marginBottom: spacing[10] }}>
         <ContextToggle />
       </div>
-      <div style={{ display: 'flex', alignItems: 'center', justifyContent: 'space-between', marginBottom: 12 }}>
+      <div style={{ display: 'flex', alignItems: 'center', justifyContent: 'space-between', marginBottom: spacing[12] }}>
         <div>
           <p style={{ fontSize: 14, fontWeight: 700, color: colors.indigo, margin: 0 }}>
             {totalRated === 0 ? `Been to ${rinkName}?` : current.question}
           </p>
-          <p style={{ fontSize: 11, color: colors.textTertiary, marginTop: 2, margin: '2px 0 0' }}>
+          <p style={{ fontSize: 11, color: colors.textTertiary, marginTop: spacing[2], margin: pad(spacing[2], spacing[0], spacing[0]) }}>
             {totalRated === 0
               ? 'Quick rate — tap a number, help the next family.'
               : `${totalRated} of ${PROMPT_SIGNALS.length} · tap to rate or skip`
@@ -236,13 +236,13 @@ export function ReturnRatingPrompt({
             if (totalRated > 0) { setDone(true); }
             else { handleFinish(); }
           }}
-          style={{ fontSize: 14, color: colors.indigoBorder, background: 'none', border: 'none', cursor: 'pointer', flexShrink: 0, padding: '12px', minWidth: 44, minHeight: 44 }}
+          style={{ fontSize: 14, color: colors.indigoBorder, background: 'none', border: 'none', cursor: 'pointer', flexShrink: 0, padding: spacing[12], minWidth: 44, minHeight: 44 }}
         >
           ✕
         </button>
       </div>
 
-      <div style={{ height: 3, background: colors.purpleBorder, borderRadius: 2, marginBottom: 14, overflow: 'hidden' }}>
+      <div style={{ height: 3, background: colors.purpleBorder, borderRadius: 2, marginBottom: spacing[14], overflow: 'hidden' }}>
         <div style={{
           height: '100%', borderRadius: 2,
           background: colors.indigo,
@@ -251,19 +251,19 @@ export function ReturnRatingPrompt({
         }} />
       </div>
 
-      <div style={{ display: 'flex', alignItems: 'center', gap: 12, marginBottom: 12 }}>
+      <div style={{ display: 'flex', alignItems: 'center', gap: spacing[12], marginBottom: spacing[12] }}>
         <span style={{ fontSize: 28 }}>{current.icon}</span>
         <div>
           <div style={{ fontSize: 15, fontWeight: 700, color: colors.textPrimary }}>
             {current.question}
           </div>
-          <div style={{ fontSize: 11, color: colors.textMuted, marginTop: 2 }}>
+          <div style={{ fontSize: 11, color: colors.textMuted, marginTop: spacing[2] }}>
             {current.low} ← 1 · · · 5 → {current.high}
           </div>
         </div>
       </div>
 
-      <div style={{ display: 'flex', gap: 8 }}>
+      <div style={{ display: 'flex', gap: spacing[8] }}>
         {[1, 2, 3, 4, 5].map((val) => {
           const isRated = rated[current.key] === val;
           const color = val >= 4 ? colors.success : val >= 3 ? colors.warning : colors.error;
@@ -290,7 +290,7 @@ export function ReturnRatingPrompt({
         })}
       </div>
 
-      <div style={{ display: 'flex', justifyContent: 'space-between', alignItems: 'center', marginTop: 10 }}>
+      <div style={{ display: 'flex', justifyContent: 'space-between', alignItems: 'center', marginTop: spacing[10] }}>
         <button
           onClick={() => {
             if (currentIndex < PROMPT_SIGNALS.length - 1) {
@@ -301,7 +301,7 @@ export function ReturnRatingPrompt({
           }}
           style={{
             fontSize: 12, color: colors.textMuted, background: 'none', border: 'none',
-            cursor: 'pointer', padding: '6px 12px',
+            cursor: 'pointer', padding: pad(spacing[6], spacing[12]),
           }}
         >
           Skip this →
@@ -311,7 +311,7 @@ export function ReturnRatingPrompt({
             onClick={() => setTipMode(true)}
             style={{
               fontSize: 12, color: colors.indigo, background: 'none', border: 'none',
-              cursor: 'pointer', padding: '6px 12px', fontWeight: 600,
+              cursor: 'pointer', padding: pad(spacing[6], spacing[12]), fontWeight: 600,
             }}
           >
             + Add a tip instead

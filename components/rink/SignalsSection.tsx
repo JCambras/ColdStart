@@ -5,16 +5,17 @@ import { SIGNAL_ORDER, SignalType } from '../../lib/constants';
 import { ensureAllSignals, getRinkSlug } from '../../lib/rinkHelpers';
 import { seedGet } from '../../lib/api';
 import { SignalBar } from './SignalBar';
-import { colors } from '../../lib/theme';
+import { colors, spacing, pad } from '../../lib/theme';
 import type { Signal, Rink, RinkSummary } from '../../lib/rinkTypes';
 
 interface SignalsSectionProps {
   rink: Rink;
   summary: RinkSummary;
   loadedSignals: Record<string, { value: number; count: number; confidence: number }> | null;
+  isFromSeed?: boolean;
 }
 
-export function SignalsSection({ rink, summary, loadedSignals }: SignalsSectionProps) {
+export function SignalsSection({ rink, summary, loadedSignals, isFromSeed }: SignalsSectionProps) {
   const slug = getRinkSlug(rink);
   const allSignals = ensureAllSignals(summary.signals, slug, loadedSignals);
   const sorted = [...allSignals].sort((a, b) => {
@@ -41,17 +42,27 @@ export function SignalsSection({ rink, summary, loadedSignals }: SignalsSectionP
       aria-label="Rink ratings"
       style={{
         background: colors.surface, border: `1px solid ${colors.borderDefault}`,
-        borderRadius: 16, marginTop: 16, overflow: 'hidden',
+        borderRadius: 16, marginTop: spacing[16], overflow: 'hidden',
       }}
     >
       {/* Header */}
       <div style={{
-        padding: '10px 24px', background: colors.bgPage, borderBottom: `1px solid ${colors.borderLight}`,
+        padding: pad(spacing[10], spacing[24]), background: colors.bgPage, borderBottom: `1px solid ${colors.borderLight}`,
         display: 'flex', alignItems: 'center',
       }}>
         <span style={{ fontSize: 12, fontWeight: 600, color: colors.textSecondary }}>Ratings</span>
+        {isFromSeed && (
+          <span style={{
+            fontSize: 10, fontWeight: 600, marginLeft: spacing[8],
+            padding: pad(spacing[2], spacing[8]), borderRadius: 10,
+            background: colors.bgWarning, color: colors.amber,
+            border: `1px solid ${colors.warningBorder}`,
+          }}>
+            Estimated
+          </span>
+        )}
       </div>
-      <div style={{ padding: '0 24px' }}>
+      <div style={{ padding: pad(spacing[0], spacing[24]) }}>
         {sorted.map((s, i) => (
           <div key={s.signal}>
             <SignalBar signal={s} rinkSlug={slug} stateAverage={stateAvg?.[s.signal] ?? null} />

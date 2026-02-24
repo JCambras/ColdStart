@@ -4,7 +4,7 @@ import { useState, useEffect } from 'react';
 import { useAuth } from '../contexts/AuthContext';
 import { storage } from '../lib/storage';
 import { isPushSupported, isPushSubscribed, subscribeToPush } from '../lib/pushClient';
-import { colors, radius } from '../lib/theme';
+import { colors, radius, spacing, pad } from '../lib/theme';
 
 export function PushPrompt() {
   const { isLoggedIn } = useAuth();
@@ -47,17 +47,17 @@ export function PushPrompt() {
 
   return (
     <div style={{
-      maxWidth: 600, margin: '0 auto', padding: '0 24px',
+      maxWidth: 600, margin: '0 auto', padding: pad(spacing[0], spacing[24]),
     }}>
       <div style={{
-        display: 'flex', alignItems: 'center', gap: 12,
-        padding: '12px 16px',
+        display: 'flex', alignItems: 'center', gap: spacing[12],
+        padding: pad(spacing[12], spacing[16]),
         background: colors.bgInfo, border: `1px solid ${colors.brandLight}`,
         borderRadius: radius.xl,
       }}>
         <span style={{ fontSize: 20, flexShrink: 0 }}>&#128276;</span>
         <div style={{ flex: 1 }}>
-          <p style={{ fontSize: 13, fontWeight: 600, color: colors.textPrimary, margin: 0 }}>
+          <p style={{ fontSize: 13, fontWeight: 600, color: colors.textPrimary, margin: spacing[0] }}>
             Get notified when someone adds intel to your saved rinks
           </p>
         </div>
@@ -68,7 +68,7 @@ export function PushPrompt() {
             fontSize: 12, fontWeight: 600,
             color: colors.textInverse, background: colors.brand,
             border: 'none', borderRadius: radius.md,
-            padding: '8px 14px', cursor: 'pointer',
+            padding: pad(spacing[8], spacing[14]), cursor: 'pointer',
             whiteSpace: 'nowrap', flexShrink: 0,
             opacity: subscribing ? 0.6 : 1,
           }}
@@ -81,7 +81,7 @@ export function PushPrompt() {
           style={{
             fontSize: 16, color: colors.textMuted,
             background: 'none', border: 'none',
-            cursor: 'pointer', padding: '4px 8px',
+            cursor: 'pointer', padding: pad(spacing[4], spacing[8]),
             flexShrink: 0, lineHeight: 1,
           }}
         >

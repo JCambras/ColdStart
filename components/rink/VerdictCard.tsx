@@ -3,7 +3,7 @@
 import { useState } from 'react';
 import { getVerdictColor, getVerdictBg, timeAgo, ensureAllSignals, getRinkSlug, getBarColor } from '../../lib/rinkHelpers';
 import { SIGNAL_META, SIGNAL_ORDER, SignalType } from '../../lib/constants';
-import { colors, text } from '../../lib/theme';
+import { colors, text, spacing, pad } from '../../lib/theme';
 import { generateSummary } from '../../lib/sentences';
 import type { Signal, Rink, RinkSummary } from '../../lib/rinkTypes';
 
@@ -11,9 +11,10 @@ interface VerdictCardProps {
   rink: Rink;
   summary: RinkSummary;
   loadedSignals: Record<string, { value: number; count: number; confidence: number }> | null;
+  isFromSeed?: boolean;
 }
 
-export function VerdictCard({ rink, summary, loadedSignals }: VerdictCardProps) {
+export function VerdictCard({ rink, summary, loadedSignals, isFromSeed }: VerdictCardProps) {
   const hasData = summary.contribution_count > 0;
   const slug = getRinkSlug(rink);
   const [showNumeric, setShowNumeric] = useState(false);
@@ -81,14 +82,14 @@ export function VerdictCard({ rink, summary, loadedSignals }: VerdictCardProps) 
         background: getVerdictBg(summary.verdict),
         border: `1px solid ${getVerdictColor(summary.verdict)}22`,
         borderLeft: `3px solid ${getVerdictColor(summary.verdict)}`,
-        borderRadius: 16, padding: '20px 24px', marginTop: 20,
+        borderRadius: 16, padding: pad(spacing[20], spacing[24]), marginTop: spacing[20],
       }}
     >
       <div>
-        <p style={{ fontSize: 11, fontWeight: 600, color: colors.textTertiary, margin: 0, letterSpacing: 0.3, textTransform: 'uppercase' }}>
-          Parents report:
+        <p style={{ fontSize: 11, fontWeight: 600, color: isFromSeed ? colors.amber : colors.textTertiary, margin: 0, letterSpacing: 0.3, textTransform: 'uppercase' }}>
+          {isFromSeed ? 'Estimated:' : 'Parents report:'}
         </p>
-        <div style={{ display: 'flex', alignItems: 'center', gap: 8, marginTop: 2, flexWrap: 'wrap' }}>
+        <div style={{ display: 'flex', alignItems: 'center', gap: spacing[8], marginTop: spacing[2], flexWrap: 'wrap' }}>
           <p style={{
             fontSize: `clamp(${text.xl}px, 3vw, ${text['3xl']}px)`, fontWeight: 700,
             color: getVerdictColor(summary.verdict),
@@ -100,7 +101,7 @@ export function VerdictCard({ rink, summary, loadedSignals }: VerdictCardProps) 
             <span style={{
               fontSize: 10,
               fontWeight: freshnessTier === 'fresh' ? 600 : 500,
-              padding: '2px 8px',
+              padding: pad(spacing[2], spacing[8]),
               borderRadius: 10, whiteSpace: 'nowrap',
               ...(freshnessTier === 'fresh'
                 ? { background: colors.bgSuccess, color: colors.success, border: `1px solid ${colors.successBorder}` }
@@ -115,7 +116,7 @@ export function VerdictCard({ rink, summary, loadedSignals }: VerdictCardProps) 
         {hasData && summaryText && (
           <p style={{
             fontSize: 13, color: colors.textSecondary, lineHeight: 1.5,
-            margin: '10px 0 0',
+            margin: pad(spacing[10], spacing[0], spacing[0]),
           }}>
             {summaryText}
           </p>
@@ -123,7 +124,7 @@ export function VerdictCard({ rink, summary, loadedSignals }: VerdictCardProps) 
 
         {/* Always-visible signal chips */}
         {hasData && sortedSignals.some(s => s.count > 0) && (
-          <div style={{ display: 'flex', flexWrap: 'wrap', gap: 4, marginTop: 8 }}>
+          <div style={{ display: 'flex', flexWrap: 'wrap', gap: spacing[4], marginTop: spacing[8] }}>
             {sortedSignals.map(s => {
               const meta = SIGNAL_META[s.signal];
               if (!meta || s.count === 0) return null;
@@ -132,9 +133,9 @@ export function VerdictCard({ rink, summary, loadedSignals }: VerdictCardProps) 
                 <span
                   key={s.signal}
                   style={{
-                    display: 'inline-flex', alignItems: 'center', gap: 2,
+                    display: 'inline-flex', alignItems: 'center', gap: spacing[2],
                     fontSize: 11, fontWeight: 600,
-                    padding: '1px 6px', borderRadius: 6,
+                    padding: pad(spacing[1], spacing[6]), borderRadius: 6,
                     background: `${barColor}11`, color: barColor,
                     whiteSpace: 'nowrap',
                   }}
@@ -155,14 +156,14 @@ export function VerdictCard({ rink, summary, loadedSignals }: VerdictCardProps) 
               style={{
                 fontSize: 11, fontWeight: 500, color: colors.textMuted,
                 background: 'none', border: 'none', cursor: 'pointer',
-                padding: '6px 0 0', margin: 0,
+                padding: pad(spacing[6], spacing[0], spacing[0]), margin: 0,
               }}
             >
               {showNumeric ? 'Hide numbers' : 'Show numbers'} {showNumeric ? '▴' : '▾'}
             </button>
             {showNumeric && (
               <div style={{
-                display: 'flex', flexWrap: 'wrap', gap: 6, marginTop: 6,
+                display: 'flex', flexWrap: 'wrap', gap: spacing[6], marginTop: spacing[6],
               }}>
                 {sortedSignals.map(s => {
                   const meta = SIGNAL_META[s.signal];
@@ -172,9 +173,9 @@ export function VerdictCard({ rink, summary, loadedSignals }: VerdictCardProps) 
                     <span
                       key={s.signal}
                       style={{
-                        display: 'inline-flex', alignItems: 'center', gap: 3,
+                        display: 'inline-flex', alignItems: 'center', gap: spacing[3],
                         fontSize: 11, fontWeight: 600,
-                        padding: '2px 7px', borderRadius: 8,
+                        padding: pad(spacing[2], spacing[7]), borderRadius: 8,
                         background: colors.surface, border: `1px solid ${colors.borderLight}`,
                         color: barColor, whiteSpace: 'nowrap',
                       }}
@@ -190,13 +191,15 @@ export function VerdictCard({ rink, summary, loadedSignals }: VerdictCardProps) 
         )}
 
         {hasData && (
-          <div style={{ display: 'flex', alignItems: 'center', gap: 6, marginTop: 8 }}>
-            <p style={{ fontSize: 12, color: colors.textTertiary, margin: 0 }}>
-              From {summary.contribution_count} hockey parent{summary.contribution_count !== 1 ? 's' : ''}
+          <div style={{ display: 'flex', alignItems: 'center', gap: spacing[6], marginTop: spacing[8] }}>
+            <p style={{ fontSize: 12, color: isFromSeed ? colors.amber : colors.textTertiary, margin: 0 }}>
+              {isFromSeed
+                ? 'Estimated from limited data'
+                : `From ${summary.contribution_count} hockey parent${summary.contribution_count !== 1 ? 's' : ''}`}
             </p>
             {seasonLabel && (
               <span style={{
-                fontSize: 10, fontWeight: 600, padding: '2px 8px',
+                fontSize: 10, fontWeight: 600, padding: pad(spacing[2], spacing[8]),
                 borderRadius: 10, whiteSpace: 'nowrap',
                 background: seasonLabel === 'This season' ? colors.bgSuccess : colors.bgWarning,
                 color: seasonLabel === 'This season' ? colors.success : colors.amber,
@@ -207,10 +210,10 @@ export function VerdictCard({ rink, summary, loadedSignals }: VerdictCardProps) 
             )}
           </div>
         )}
-        {hasData && isStale && (
+        {hasData && isStale && !isFromSeed && (
           <p style={{
-            fontSize: 12, color: colors.amberDark, marginTop: 8, margin: '8px 0 0',
-            padding: '6px 10px', borderRadius: 8,
+            fontSize: 12, color: colors.amberDark, marginTop: spacing[8], margin: pad(spacing[8], spacing[0], spacing[0]),
+            padding: pad(spacing[6], spacing[10]), borderRadius: 8,
             background: colors.bgWarning, border: `1px solid ${colors.amberBorder}`,
             lineHeight: 1.4,
           }}>
@@ -218,7 +221,7 @@ export function VerdictCard({ rink, summary, loadedSignals }: VerdictCardProps) 
           </p>
         )}
       </div>
-      <p style={{ fontSize: 10, color: colors.textMuted, margin: '12px 0 0', lineHeight: 1.4 }}>
+      <p style={{ fontSize: 10, color: colors.textMuted, margin: pad(spacing[12], spacing[0], spacing[0]), lineHeight: 1.4 }}>
         Ratings and tips reflect personal experiences of visiting hockey parents, not the views of ColdStart. coldstarthockey.com
       </p>
     </section>

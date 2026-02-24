@@ -5,7 +5,7 @@ import { SIGNAL_META } from '../../lib/constants';
 import { Signal } from '../../lib/rinkTypes';
 import { FACILITY_DETAILS } from '../../lib/seedData';
 import { getBarColor } from '../../lib/rinkHelpers';
-import { colors, text, radius } from '../../lib/theme';
+import { colors, text, radius, spacing, pad } from '../../lib/theme';
 
 /** Contextual label when above/below average, per signal type */
 const CONTEXT_LABELS: Record<string, { above: string; below: string }> = {
@@ -42,12 +42,12 @@ export function SignalBar({ signal, rinkSlug, stateAverage }: { signal: Signal; 
     <div
       role="button"
       tabIndex={0}
-      style={{ padding: '14px 0', cursor: 'pointer', opacity: noData ? 0.6 : 1 }}
+      style={{ padding: pad(spacing[14], spacing[0]), cursor: 'pointer', opacity: noData ? 0.6 : 1 }}
       onClick={() => setExpanded(!expanded)}
       onKeyDown={(e) => { if (e.key === 'Enter' || e.key === ' ') { e.preventDefault(); setExpanded(!expanded); } }}
     >
-      <div style={{ display: 'flex', justifyContent: 'space-between', alignItems: 'center', marginBottom: 8 }}>
-        <div style={{ display: 'flex', alignItems: 'center', gap: 6 }}>
+      <div style={{ display: 'flex', justifyContent: 'space-between', alignItems: 'center', marginBottom: spacing[8] }}>
+        <div style={{ display: 'flex', alignItems: 'center', gap: spacing[6] }}>
           <span style={{ fontSize: text.base, fontWeight: 500, color: noData ? colors.textMuted : colors.textSecondary }}>
             {meta.icon} {meta.label}
           </span>
@@ -59,13 +59,13 @@ export function SignalBar({ signal, rinkSlug, stateAverage }: { signal: Signal; 
             ▸
           </span>
         </div>
-        <div style={{ display: 'flex', alignItems: 'center', gap: 8 }}>
+        <div style={{ display: 'flex', alignItems: 'center', gap: spacing[8] }}>
           {noData ? (
             <span style={{ fontSize: text.sm, fontWeight: 500, color: colors.textMuted, fontStyle: 'italic' }}>—</span>
           ) : (
             <>
               <span style={{ fontSize: 22, fontWeight: 700, color }}>{signal.value.toFixed(1)}<span style={{ fontSize: 13, fontWeight: 500, color: colors.textMuted }}>/5</span></span>
-              <span style={{ fontSize: text.xs, color: colors.textMuted, marginLeft: 4 }}>
+              <span style={{ fontSize: text.xs, color: colors.textMuted, marginLeft: spacing[4] }}>
                 {signal.value >= 4 ? meta.highLabel : signal.value >= 3 ? 'Average' : meta.lowLabel}
               </span>
             </>
@@ -82,9 +82,9 @@ export function SignalBar({ signal, rinkSlug, stateAverage }: { signal: Signal; 
         }} />
       </div>
       {!expanded && (
-        <div style={{ display: 'flex', justifyContent: 'space-between', alignItems: 'center', marginTop: 4 }}>
+        <div style={{ display: 'flex', justifyContent: 'space-between', alignItems: 'center', marginTop: spacing[4] }}>
           <span style={{ fontSize: text['2xs'], color: colors.textMuted }}>{meta.lowLabel}</span>
-          <div style={{ display: 'flex', alignItems: 'center', gap: 8 }}>
+          <div style={{ display: 'flex', alignItems: 'center', gap: spacing[8] }}>
             {contextLabel && (
               <span style={{
                 fontSize: text['2xs'], color: signal.value > (stateAverage ?? 3) ? colors.success : colors.amberDark,
@@ -95,7 +95,7 @@ export function SignalBar({ signal, rinkSlug, stateAverage }: { signal: Signal; 
             )}
             {highVariance && (
               <span style={{
-                fontSize: text['2xs'], fontWeight: 600, padding: '1px 8px', borderRadius: 6,
+                fontSize: text['2xs'], fontWeight: 600, padding: pad(spacing[1], spacing[8]), borderRadius: 6,
                 background: colors.bgWarning, color: colors.amberDark, border: `1px solid ${colors.amberBorder}`,
               }}>
                 Parents are split
@@ -107,7 +107,7 @@ export function SignalBar({ signal, rinkSlug, stateAverage }: { signal: Signal; 
               color: noData ? colors.textMuted : signal.count < 3 ? colors.amberDark : colors.textMuted,
               fontStyle: noData ? 'italic' : 'normal',
               ...(signal.count > 0 && signal.count < 3 ? {
-                background: colors.bgWarning, padding: '1px 8px', borderRadius: 6, border: `1px solid ${colors.amberBorder}`,
+                background: colors.bgWarning, padding: pad(spacing[1], spacing[8]), borderRadius: 6, border: `1px solid ${colors.amberBorder}`,
               } : {}),
             }}>
               {noData ? 'No ratings yet' : signal.count < 3
@@ -120,10 +120,10 @@ export function SignalBar({ signal, rinkSlug, stateAverage }: { signal: Signal; 
         </div>
       )}
       {expanded && (
-        <div style={{ marginTop: 8 }}>
-          <div style={{ display: 'flex', justifyContent: 'space-between', marginBottom: 8 }}>
+        <div style={{ marginTop: spacing[8] }}>
+          <div style={{ display: 'flex', justifyContent: 'space-between', marginBottom: spacing[8] }}>
             <span style={{ fontSize: text['2xs'], color: colors.textMuted }}>← {meta.lowLabel}</span>
-            <div style={{ display: 'flex', alignItems: 'center', gap: 8 }}>
+            <div style={{ display: 'flex', alignItems: 'center', gap: spacing[8] }}>
               {contextLabel && (
                 <span style={{
                   fontSize: text['2xs'], color: signal.value > (stateAverage ?? 3) ? colors.success : colors.amberDark,
@@ -138,7 +138,7 @@ export function SignalBar({ signal, rinkSlug, stateAverage }: { signal: Signal; 
                 color: noData ? colors.textMuted : signal.count < 3 ? colors.amberDark : colors.textSecondary,
                 fontStyle: noData ? 'italic' : 'normal',
                 ...(signal.count > 0 && signal.count < 3 ? {
-                  background: colors.bgWarning, padding: '1px 8px', borderRadius: 6, border: `1px solid ${colors.amberBorder}`,
+                  background: colors.bgWarning, padding: pad(spacing[1], spacing[8]), borderRadius: 6, border: `1px solid ${colors.amberBorder}`,
                 } : {}),
               }}>
                 {noData ? 'No ratings yet' : signal.count < 3
@@ -153,20 +153,20 @@ export function SignalBar({ signal, rinkSlug, stateAverage }: { signal: Signal; 
             <div style={{
               fontSize: text.sm, color: colors.textTertiary, lineHeight: 1.5,
               background: colors.bgSubtle, border: `1px solid ${colors.borderDefault}`,
-              borderRadius: radius.md, padding: '8px 12px', marginTop: 4,
+              borderRadius: radius.md, padding: pad(spacing[8], spacing[12]), marginTop: spacing[4],
             }}>
               {meta.info}
             </div>
           )}
           {facilityDetail && (
             <div style={{
-              marginTop: 6, padding: '8px 12px',
+              marginTop: spacing[6], padding: pad(spacing[8], spacing[12]),
               background: colors.indigoBg, border: `1px solid ${colors.indigoBorder}`,
               borderRadius: radius.md, borderLeft: `3px solid ${colors.brandAccent}`,
             }}>
-              <div style={{ display: 'flex', alignItems: 'center', gap: 4, marginBottom: 3 }}>
+              <div style={{ display: 'flex', alignItems: 'center', gap: spacing[4], marginBottom: spacing[3] }}>
                 <span style={{
-                  fontSize: 10, fontWeight: 700, padding: '1px 4px', borderRadius: 3,
+                  fontSize: 10, fontWeight: 700, padding: pad(spacing[1], spacing[4]), borderRadius: 3,
                   background: colors.brandAccent, color: colors.textInverse, textTransform: 'uppercase', letterSpacing: 0.5,
                 }}>
                   Verified

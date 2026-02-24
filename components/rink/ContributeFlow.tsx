@@ -5,7 +5,7 @@ import { RinkSummary } from '../../lib/rinkTypes';
 import { apiPost } from '../../lib/api';
 import { storage } from '../../lib/storage';
 import { useAuth } from '../../contexts/AuthContext';
-import { colors } from '../../lib/theme';
+import { colors, spacing, pad } from '../../lib/theme';
 import { VisitorToggle } from './VisitorToggle';
 import { ContextToggle } from './ContextToggle';
 import { QuickVoteRow } from './QuickVoteRow';
@@ -44,12 +44,12 @@ export function RateAndContribute({ rinkId, rinkName, onSummaryUpdate, contribut
     <button
       onClick={handleShare}
       style={{
-        marginTop: 10, fontSize: 13, fontWeight: 600,
+        marginTop: spacing[10], fontSize: 13, fontWeight: 600,
         color: colors.brand, background: colors.bgInfo,
         border: `1px solid ${colors.brandLight}`,
-        borderRadius: 12, padding: '10px 20px',
+        borderRadius: 12, padding: pad(spacing[10], spacing[20]),
         cursor: 'pointer', transition: 'all 0.15s',
-        display: 'inline-flex', alignItems: 'center', gap: 6,
+        display: 'inline-flex', alignItems: 'center', gap: spacing[6],
       }}
     >
       📤 {shareCopied ? 'Link copied!' : 'Share with your team'}
@@ -101,26 +101,26 @@ export function RateAndContribute({ rinkId, rinkName, onSummaryUpdate, contribut
 
   if (phase === 'button') {
     return (
-      <section style={{ marginTop: 16 }}>
-        <div style={{ display: 'flex', gap: 12 }}>
+      <section style={{ marginTop: spacing[16] }}>
+        <div style={{ display: 'flex', gap: spacing[12] }}>
           <button onClick={() => startFlow('rate')} style={{
-            flex: 1, padding: '16px 20px',
+            flex: 1, padding: pad(spacing[16], spacing[20]),
             background: hasRated ? colors.bgSuccess : colors.surface,
             color: hasRated ? colors.success : colors.textPrimary,
             border: `1px solid ${hasRated ? colors.successBorder : colors.borderDefault}`,
             borderRadius: 14, cursor: 'pointer',
             fontSize: 15, fontWeight: 600, transition: 'all 0.2s',
-            display: 'flex', alignItems: 'center', justifyContent: 'center', gap: 8,
+            display: 'flex', alignItems: 'center', justifyContent: 'center', gap: spacing[8],
           }}
           onMouseEnter={(e) => { e.currentTarget.style.borderColor = colors.brand; }}
           onMouseLeave={(e) => { e.currentTarget.style.borderColor = hasRated ? colors.successBorder : colors.borderDefault; }}>
             {hasRated ? <><span>✓</span> Update ratings</> : <><span>📊</span> Rate the rink</>}
           </button>
           <button onClick={() => startFlow('tip')} style={{
-            flex: 1, padding: '16px 20px', background: colors.surface, color: colors.textPrimary,
+            flex: 1, padding: pad(spacing[16], spacing[20]), background: colors.surface, color: colors.textPrimary,
             border: `1px solid ${colors.borderDefault}`, borderRadius: 14, cursor: 'pointer',
             fontSize: 15, fontWeight: 600, transition: 'all 0.2s',
-            display: 'flex', alignItems: 'center', justifyContent: 'center', gap: 8,
+            display: 'flex', alignItems: 'center', justifyContent: 'center', gap: spacing[8],
           }}
           onMouseEnter={(e) => { e.currentTarget.style.borderColor = colors.brand; }}
           onMouseLeave={(e) => { e.currentTarget.style.borderColor = colors.borderDefault; }}>
@@ -128,7 +128,7 @@ export function RateAndContribute({ rinkId, rinkName, onSummaryUpdate, contribut
           </button>
         </div>
         {contributionCount != null && contributionCount > 0 && !hasRated && (
-          <p style={{ fontSize: 12, color: colors.textTertiary, textAlign: 'center', marginTop: 10, margin: '10px 0 0' }}>
+          <p style={{ fontSize: 12, color: colors.textTertiary, textAlign: 'center', marginTop: spacing[10], margin: pad(spacing[10], spacing[0], spacing[0]) }}>
             Join {contributionCount} parent{contributionCount !== 1 ? 's' : ''} who&apos;ve rated this rink
           </p>
         )}
@@ -138,7 +138,7 @@ export function RateAndContribute({ rinkId, rinkName, onSummaryUpdate, contribut
               onClick={handleQuickConfirm}
               disabled={confirming}
               style={{
-                width: '100%', marginTop: 10, padding: '12px 20px',
+                width: '100%', marginTop: spacing[10], padding: pad(spacing[12], spacing[20]),
                 fontSize: 13, fontWeight: 600,
                 color: colors.success, background: colors.bgSuccess,
                 border: `1px solid ${colors.successBorder}`,
@@ -149,7 +149,7 @@ export function RateAndContribute({ rinkId, rinkName, onSummaryUpdate, contribut
             >
               {confirming ? 'Confirming...' : '✓ Still accurate — confirm ratings'}
             </button>
-            <p style={{ fontSize: 11, color: colors.textMuted, marginTop: 6, textAlign: 'center' }}>
+            <p style={{ fontSize: 11, color: colors.textMuted, marginTop: spacing[6], textAlign: 'center' }}>
               One tap to confirm, or update individual signals above.
             </p>
           </>
@@ -162,15 +162,15 @@ export function RateAndContribute({ rinkId, rinkName, onSummaryUpdate, contribut
 
   if (phase === 'confirmed') {
     return (
-      <section style={{ marginTop: 16, background: colors.bgSuccess, border: `1px solid ${colors.successBorder}`, borderRadius: 16, padding: 24, textAlign: 'center' }}>
-        <div style={{ fontSize: 28, marginBottom: 8 }}>✓</div>
+      <section style={{ marginTop: spacing[16], background: colors.bgSuccess, border: `1px solid ${colors.successBorder}`, borderRadius: 16, padding: spacing[24], textAlign: 'center' }}>
+        <div style={{ fontSize: 28, marginBottom: spacing[8] }}>✓</div>
         <p style={{ fontSize: 15, fontWeight: 600, color: colors.success, margin: 0 }}>Confirmed!</p>
-        <p style={{ fontSize: 12, color: colors.textTertiary, marginTop: 4 }}>Thanks for confirming the ratings are still accurate. This helps keep info fresh.</p>
+        <p style={{ fontSize: 12, color: colors.textTertiary, marginTop: spacing[4] }}>Thanks for confirming the ratings are still accurate. This helps keep info fresh.</p>
         {ratedRinkCount >= 2 && (
-          <p style={{ fontSize: 12, color: colors.textMuted, marginTop: 8 }}>You&apos;ve helped families at {ratedRinkCount} rinks this season.</p>
+          <p style={{ fontSize: 12, color: colors.textMuted, marginTop: spacing[8] }}>You&apos;ve helped families at {ratedRinkCount} rinks this season.</p>
         )}
         {shareButton}
-        <div style={{ marginTop: 12 }}>
+        <div style={{ marginTop: spacing[12] }}>
           <button onClick={() => setPhase('button')} style={{ fontSize: 12, color: colors.textMuted, background: 'none', border: 'none', cursor: 'pointer' }}>Done</button>
         </div>
       </section>
@@ -179,15 +179,15 @@ export function RateAndContribute({ rinkId, rinkName, onSummaryUpdate, contribut
 
   if (phase === 'verify') {
     return (
-      <section style={{ marginTop: 16, background: colors.surface, border: `1px solid ${colors.borderDefault}`, borderRadius: 16, padding: 24, textAlign: 'center' }}>
+      <section style={{ marginTop: spacing[16], background: colors.surface, border: `1px solid ${colors.borderDefault}`, borderRadius: 16, padding: spacing[24], textAlign: 'center' }}>
         <p style={{ fontSize: 14, fontWeight: 600, color: colors.textPrimary, margin: 0 }}>Quick check</p>
-        <p style={{ fontSize: 13, color: colors.textTertiary, marginTop: 4 }}>What is {verifyNum.current} + 3?</p>
-        <div style={{ display: 'flex', gap: 8, justifyContent: 'center', maxWidth: 200, margin: '12px auto 0' }}>
+        <p style={{ fontSize: 13, color: colors.textTertiary, marginTop: spacing[4] }}>What is {verifyNum.current} + 3?</p>
+        <div style={{ display: 'flex', gap: spacing[8], justifyContent: 'center', maxWidth: 200, margin: '12px auto 0' }}>
           <input value={botAnswer} onChange={(e) => setBotAnswer(e.target.value)} onKeyDown={(e) => { if (e.key === 'Enter') checkBot(); }} placeholder="?" autoFocus aria-label="Answer to verification question"
-            style={{ width: 60, fontSize: 18, fontWeight: 700, textAlign: 'center', padding: '8px', border: `1px solid ${colors.borderDefault}`, borderRadius: 10, outline: 'none', fontFamily: 'inherit', color: colors.textPrimary }}
+            style={{ width: 60, fontSize: 18, fontWeight: 700, textAlign: 'center', padding: spacing[8], border: `1px solid ${colors.borderDefault}`, borderRadius: 10, outline: 'none', fontFamily: 'inherit', color: colors.textPrimary }}
             onFocus={(e) => { e.currentTarget.style.borderColor = colors.brand; }}
             onBlur={(e) => { e.currentTarget.style.borderColor = colors.borderDefault; }} />
-          <button onClick={checkBot} style={{ fontSize: 14, fontWeight: 600, color: colors.textInverse, background: colors.textPrimary, border: 'none', borderRadius: 10, padding: '8px 20px', cursor: 'pointer' }}>Go</button>
+          <button onClick={checkBot} style={{ fontSize: 14, fontWeight: 600, color: colors.textInverse, background: colors.textPrimary, border: 'none', borderRadius: 10, padding: pad(spacing[8], spacing[20]), cursor: 'pointer' }}>Go</button>
         </div>
       </section>
     );
@@ -195,18 +195,18 @@ export function RateAndContribute({ rinkId, rinkName, onSummaryUpdate, contribut
 
   if (phase === 'rate') {
     return (
-      <section style={{ marginTop: 16, background: colors.surface, border: `1px solid ${colors.borderDefault}`, borderRadius: 16, overflow: 'hidden' }}>
-        <div style={{ padding: '8px 24px', background: colors.bgInfo, borderBottom: `1px solid ${colors.borderLight}`, display: 'flex', alignItems: 'center', justifyContent: 'space-between' }}>
+      <section style={{ marginTop: spacing[16], background: colors.surface, border: `1px solid ${colors.borderDefault}`, borderRadius: 16, overflow: 'hidden' }}>
+        <div style={{ padding: pad(spacing[8], spacing[24]), background: colors.bgInfo, borderBottom: `1px solid ${colors.borderLight}`, display: 'flex', alignItems: 'center', justifyContent: 'space-between' }}>
           <span style={{ fontSize: 13, fontWeight: 600, color: colors.textPrimary }}>Rate the signals</span>
-          <div style={{ display: 'flex', gap: 8 }}>
+          <div style={{ display: 'flex', gap: spacing[8] }}>
             <ContextToggle />
             <VisitorToggle />
           </div>
         </div>
-        <div style={{ padding: '18px 24px' }}>
+        <div style={{ padding: pad(spacing[18], spacing[24]) }}>
           <QuickVoteRow rinkId={rinkId} onSummaryUpdate={onSummaryUpdate} onRatedCountChange={setRatedCount} onLastRating={(signal, value) => setLastRating({ signal, value })} />
         </div>
-        <div style={{ padding: '12px 24px 16px', borderTop: `1px solid ${colors.borderLight}`, display: 'flex', gap: 10 }}>
+        <div style={{ padding: pad(spacing[12], spacing[24], spacing[16]), borderTop: `1px solid ${colors.borderLight}`, display: 'flex', gap: spacing[10] }}>
           <button onClick={() => { if (ratedCount > 0) markRated(); setPhase(ratedCount > 0 ? 'done_rate' : 'button'); }} style={{ flex: 1, padding: '13px 20px', fontSize: 14, fontWeight: 600, background: ratedCount > 0 ? colors.textPrimary : colors.borderDefault, color: ratedCount > 0 ? colors.textInverse : colors.textMuted, border: 'none', borderRadius: 12, cursor: 'pointer', transition: 'all 0.2s' }}
             onMouseEnter={(e) => { if (ratedCount > 0) e.currentTarget.style.background = colors.stone800; }}
             onMouseLeave={(e) => { if (ratedCount > 0) e.currentTarget.style.background = colors.textPrimary; }}>
@@ -224,21 +224,21 @@ export function RateAndContribute({ rinkId, rinkName, onSummaryUpdate, contribut
 
   if (phase === 'tip') {
     return (
-      <section style={{ marginTop: 16, background: colors.surface, border: `1px solid ${colors.borderDefault}`, borderRadius: 16, overflow: 'hidden' }}>
-        <div style={{ padding: '8px 24px', background: colors.bgInfo, borderBottom: `1px solid ${colors.borderLight}`, display: 'flex', alignItems: 'center', justifyContent: 'space-between' }}>
+      <section style={{ marginTop: spacing[16], background: colors.surface, border: `1px solid ${colors.borderDefault}`, borderRadius: 16, overflow: 'hidden' }}>
+        <div style={{ padding: pad(spacing[8], spacing[24]), background: colors.bgInfo, borderBottom: `1px solid ${colors.borderLight}`, display: 'flex', alignItems: 'center', justifyContent: 'space-between' }}>
           <span style={{ fontSize: 13, fontWeight: 600, color: colors.textPrimary }}>Drop a tip</span>
-          <div style={{ display: 'flex', gap: 8 }}>
+          <div style={{ display: 'flex', gap: spacing[8] }}>
             <ContextToggle />
             <VisitorToggle />
           </div>
         </div>
-        <div style={{ padding: '18px 24px' }}>
-          <div style={{ marginBottom: 10 }}>
+        <div style={{ padding: pad(spacing[18], spacing[24]) }}>
+          <div style={{ marginBottom: spacing[10] }}>
             <span style={{ fontSize: 11, color: colors.textMuted }}>What should parents know?</span>
           </div>
           <QuickTipInput rinkId={rinkId} onSummaryUpdate={onSummaryUpdate} />
         </div>
-        <div style={{ padding: '12px 24px 16px', borderTop: `1px solid ${colors.borderLight}`, textAlign: 'center' }}>
+        <div style={{ padding: pad(spacing[12], spacing[24], spacing[16]), borderTop: `1px solid ${colors.borderLight}`, textAlign: 'center' }}>
           {!hasRated ? (
             <button onClick={() => setPhase('rate')} style={{ fontSize: 13, fontWeight: 500, color: colors.brand, background: 'none', border: 'none', cursor: 'pointer' }}>📊 Rate the rink too →</button>
           ) : (
@@ -252,16 +252,16 @@ export function RateAndContribute({ rinkId, rinkName, onSummaryUpdate, contribut
   if (phase === 'done_rate') {
     const isCompletionist = ratedCount === 7;
     return (
-      <section style={{ marginTop: 16, background: colors.bgSuccess, border: `1px solid ${colors.successBorder}`, borderRadius: 16, padding: 24, textAlign: 'center' }}>
-        <div style={{ fontSize: 32, marginBottom: 8, animation: 'bounceIn 0.5s ease-out' }}>{isCompletionist ? '🌟' : '✓'}</div>
+      <section style={{ marginTop: spacing[16], background: colors.bgSuccess, border: `1px solid ${colors.successBorder}`, borderRadius: 16, padding: spacing[24], textAlign: 'center' }}>
+        <div style={{ fontSize: 32, marginBottom: spacing[8], animation: 'bounceIn 0.5s ease-out' }}>{isCompletionist ? '🌟' : '✓'}</div>
         <p style={{ fontSize: 15, fontWeight: 600, color: colors.success, margin: 0 }}>{isCompletionist ? 'Full report submitted!' : 'Rating submitted'}</p>
-        <p style={{ fontSize: 13, color: colors.textSecondary, marginTop: 4 }}>
+        <p style={{ fontSize: 13, color: colors.textSecondary, marginTop: spacing[4] }}>
           {isCompletionist
             ? `You just gave every parent heading to ${rinkName} the full picture.`
             : `You just helped every parent heading to ${rinkName}.`}
         </p>
         {/* Progress bar */}
-        <div style={{ display: 'flex', justifyContent: 'center', gap: 3, marginTop: 10 }}>
+        <div style={{ display: 'flex', justifyContent: 'center', gap: spacing[3], marginTop: spacing[10] }}>
           {Array.from({ length: 7 }).map((_, i) => (
             <div key={i} style={{
               width: 24, height: 4, borderRadius: 2,
@@ -270,14 +270,14 @@ export function RateAndContribute({ rinkId, rinkName, onSummaryUpdate, contribut
             }} />
           ))}
         </div>
-        <p style={{ fontSize: 11, color: colors.textTertiary, marginTop: 4 }}>{ratedCount}/7 signals rated</p>
+        <p style={{ fontSize: 11, color: colors.textTertiary, marginTop: spacing[4] }}>{ratedCount}/7 signals rated</p>
         {lastRating && signals && (() => {
           const match = signals.find(s => s.signal === lastRating.signal);
           if (match && match.count > 0 && Math.abs(lastRating.value - match.value) <= 1) {
             const meta = { parking: 'Parking', cold: 'Comfort', food_nearby: 'Food', chaos: 'Organized', family_friendly: 'Family', locker_rooms: 'Lockers', pro_shop: 'Pro shop' } as Record<string, string>;
             const label = meta[lastRating.signal] || lastRating.signal;
             return (
-              <p style={{ fontSize: 12, color: colors.brandDark, background: colors.bgInfo, padding: '8px 12px', borderRadius: 8, marginTop: 8, margin: '8px 0 0' }}>
+              <p style={{ fontSize: 12, color: colors.brandDark, background: colors.bgInfo, padding: pad(spacing[8], spacing[12]), borderRadius: 8, marginTop: spacing[8], margin: pad(spacing[8], spacing[0], spacing[0]) }}>
                 Your rating of {lastRating.value} for {label} is close to the average of {match.value.toFixed(1)} — parents agree.
               </p>
             );
@@ -285,13 +285,13 @@ export function RateAndContribute({ rinkId, rinkName, onSummaryUpdate, contribut
           return null;
         })()}
         {ratedRinkCount >= 2 && (
-          <p style={{ fontSize: 12, color: colors.textMuted, marginTop: 8 }}>You&apos;ve helped families at {ratedRinkCount} rinks this season.</p>
+          <p style={{ fontSize: 12, color: colors.textMuted, marginTop: spacing[8] }}>You&apos;ve helped families at {ratedRinkCount} rinks this season.</p>
         )}
-        <button onClick={() => setPhase('tip')} style={{ marginTop: 14, fontSize: 14, fontWeight: 600, color: colors.textPrimary, background: colors.surface, border: `1px solid ${colors.borderDefault}`, borderRadius: 12, padding: '12px 24px', cursor: 'pointer', transition: 'all 0.15s' }}
+        <button onClick={() => setPhase('tip')} style={{ marginTop: spacing[14], fontSize: 14, fontWeight: 600, color: colors.textPrimary, background: colors.surface, border: `1px solid ${colors.borderDefault}`, borderRadius: 12, padding: pad(spacing[12], spacing[24]), cursor: 'pointer', transition: 'all 0.15s' }}
           onMouseEnter={(e) => { e.currentTarget.style.borderColor = colors.brand; }}
           onMouseLeave={(e) => { e.currentTarget.style.borderColor = colors.borderDefault; }}>💬 Drop a tip?</button>
         {shareButton}
-        <div style={{ marginTop: 8 }}>
+        <div style={{ marginTop: spacing[8] }}>
           <button onClick={() => setPhase('button')} style={{ fontSize: 12, color: colors.textMuted, background: 'none', border: 'none', cursor: 'pointer' }}>Done</button>
         </div>
       </section>
@@ -300,23 +300,23 @@ export function RateAndContribute({ rinkId, rinkName, onSummaryUpdate, contribut
 
   if (phase === 'done_tip') {
     return (
-      <section style={{ marginTop: 16, background: colors.bgSuccess, border: `1px solid ${colors.successBorder}`, borderRadius: 16, padding: 24, textAlign: 'center' }}>
-        <div style={{ fontSize: 28, marginBottom: 8 }}>✓</div>
+      <section style={{ marginTop: spacing[16], background: colors.bgSuccess, border: `1px solid ${colors.successBorder}`, borderRadius: 16, padding: spacing[24], textAlign: 'center' }}>
+        <div style={{ fontSize: 28, marginBottom: spacing[8] }}>✓</div>
         <p style={{ fontSize: 15, fontWeight: 600, color: colors.success, margin: 0 }}>Tip added</p>
-        <p style={{ fontSize: 12, color: colors.textTertiary, marginTop: 4 }}>Thanks for sharing what you know.</p>
-        <p style={{ fontSize: 12, color: colors.brandDark, background: colors.bgInfo, padding: '8px 12px', borderRadius: 8, marginTop: 8, margin: '8px 0 0' }}>
+        <p style={{ fontSize: 12, color: colors.textTertiary, marginTop: spacing[4] }}>Thanks for sharing what you know.</p>
+        <p style={{ fontSize: 12, color: colors.brandDark, background: colors.bgInfo, padding: pad(spacing[8], spacing[12]), borderRadius: 8, marginTop: spacing[8], margin: pad(spacing[8], spacing[0], spacing[0]) }}>
           Your tip will help visiting families.
         </p>
         {ratedRinkCount >= 2 && (
-          <p style={{ fontSize: 12, color: colors.textMuted, marginTop: 8 }}>You&apos;ve helped families at {ratedRinkCount} rinks this season.</p>
+          <p style={{ fontSize: 12, color: colors.textMuted, marginTop: spacing[8] }}>You&apos;ve helped families at {ratedRinkCount} rinks this season.</p>
         )}
         {!hasRated && (
-          <button onClick={() => setPhase('rate')} style={{ marginTop: 14, fontSize: 14, fontWeight: 600, color: colors.textPrimary, background: colors.surface, border: `1px solid ${colors.borderDefault}`, borderRadius: 12, padding: '12px 24px', cursor: 'pointer', transition: 'all 0.15s' }}
+          <button onClick={() => setPhase('rate')} style={{ marginTop: spacing[14], fontSize: 14, fontWeight: 600, color: colors.textPrimary, background: colors.surface, border: `1px solid ${colors.borderDefault}`, borderRadius: 12, padding: pad(spacing[12], spacing[24]), cursor: 'pointer', transition: 'all 0.15s' }}
             onMouseEnter={(e) => { e.currentTarget.style.borderColor = colors.brand; }}
             onMouseLeave={(e) => { e.currentTarget.style.borderColor = colors.borderDefault; }}>📊 Rate the rink too</button>
         )}
         {shareButton}
-        <div style={{ marginTop: 8 }}>
+        <div style={{ marginTop: spacing[8] }}>
           <button onClick={() => setPhase('button')} style={{ fontSize: 12, color: colors.textMuted, background: 'none', border: 'none', cursor: 'pointer' }}>Done</button>
         </div>
       </section>

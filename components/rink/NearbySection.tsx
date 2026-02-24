@@ -4,7 +4,7 @@ import { useState, useEffect } from 'react';
 import { NearbyPlace } from '../../lib/seedData';
 import { storage, FanFavorite, PlaceSuggestion } from '../../lib/storage';
 import { useAuth } from '../../contexts/AuthContext';
-import { colors, text, radius } from '../../lib/theme';
+import { colors, text, radius, spacing, pad } from '../../lib/theme';
 
 const FAN_FAV_CATEGORIES = ['Quick bite', 'Coffee', 'Team Restaurants', 'Other'] as const;
 
@@ -30,11 +30,11 @@ function PlaceVoteButtons({ rinkSlug, placeName, score, userVote, onVote }: {
   onVote: (direction: 'up' | 'down') => void;
 }) {
   return (
-    <div style={{ display: 'flex', alignItems: 'center', gap: 2, flexShrink: 0 }} onClick={(e) => e.preventDefault()}>
+    <div style={{ display: 'flex', alignItems: 'center', gap: spacing[2], flexShrink: 0 }} onClick={(e) => e.preventDefault()}>
       <button
         onClick={(e) => { e.preventDefault(); e.stopPropagation(); onVote('up'); }}
         style={{
-          background: 'none', border: 'none', cursor: 'pointer', padding: '10px 8px',
+          background: 'none', border: 'none', cursor: 'pointer', padding: pad(spacing[10], spacing[8]),
           fontSize: 12, lineHeight: 1, minHeight: 44, minWidth: 44,
           color: userVote === 'up' ? colors.brand : colors.textDisabled,
           transition: 'color 0.15s',
@@ -48,7 +48,7 @@ function PlaceVoteButtons({ rinkSlug, placeName, score, userVote, onVote }: {
       <button
         onClick={(e) => { e.preventDefault(); e.stopPropagation(); onVote('down'); }}
         style={{
-          background: 'none', border: 'none', cursor: 'pointer', padding: '10px 8px',
+          background: 'none', border: 'none', cursor: 'pointer', padding: pad(spacing[10], spacing[8]),
           fontSize: 12, lineHeight: 1, minHeight: 44, minWidth: 44,
           color: userVote === 'down' ? colors.error : colors.textDisabled,
           transition: 'color 0.15s',
@@ -92,9 +92,9 @@ function SuggestPlaceForm({ rinkSlug, categoryKey, onSubmit }: {
       <button
         onClick={() => setOpen(true)}
         style={{
-          marginTop: 10, fontSize: text.sm, fontWeight: 500,
+          marginTop: spacing[10], fontSize: text.sm, fontWeight: 500,
           color: colors.brand, background: 'none', border: `1px dashed ${colors.brandLight}`,
-          borderRadius: radius.md, padding: '8px 14px', cursor: 'pointer',
+          borderRadius: radius.md, padding: pad(spacing[8], spacing[14]), cursor: 'pointer',
           width: '100%',
         }}
       >
@@ -105,7 +105,7 @@ function SuggestPlaceForm({ rinkSlug, categoryKey, onSubmit }: {
 
   return (
     <div style={{
-      marginTop: 10, padding: '12px', borderRadius: radius.lg,
+      marginTop: spacing[10], padding: spacing[12], borderRadius: radius.lg,
       background: colors.surface, border: `1px solid ${colors.borderMedium}`,
     }}>
       <input
@@ -114,7 +114,7 @@ function SuggestPlaceForm({ rinkSlug, categoryKey, onSubmit }: {
         placeholder="e.g. Tony's Pizza"
         autoFocus
         style={{
-          width: '100%', padding: '8px 10px', fontSize: text.sm,
+          width: '100%', padding: pad(spacing[8], spacing[10]), fontSize: text.sm,
           border: `1px solid ${colors.borderDefault}`, borderRadius: radius.md,
           outline: 'none', boxSizing: 'border-box',
         }}
@@ -124,20 +124,20 @@ function SuggestPlaceForm({ rinkSlug, categoryKey, onSubmit }: {
         onChange={(e) => setComment(e.target.value.slice(0, 140))}
         placeholder="What makes it great? (optional)"
         style={{
-          width: '100%', padding: '8px 10px', fontSize: text.sm, marginTop: 8,
+          width: '100%', padding: pad(spacing[8], spacing[10]), fontSize: text.sm, marginTop: spacing[8],
           border: `1px solid ${colors.borderDefault}`, borderRadius: radius.md,
           outline: 'none', boxSizing: 'border-box',
         }}
         onKeyDown={(e) => e.key === 'Enter' && handleSubmit()}
       />
-      <div style={{ display: 'flex', gap: 8, marginTop: 8 }}>
+      <div style={{ display: 'flex', gap: spacing[8], marginTop: spacing[8] }}>
         <button
           onClick={handleSubmit}
           disabled={!name.trim()}
           style={{
             fontSize: text.sm, fontWeight: 600, color: colors.textInverse,
             background: name.trim() ? colors.brand : colors.textDisabled,
-            border: 'none', borderRadius: radius.md, padding: '8px 16px',
+            border: 'none', borderRadius: radius.md, padding: pad(spacing[8], spacing[16]),
             cursor: name.trim() ? 'pointer' : 'default',
           }}
         >
@@ -190,7 +190,7 @@ function FanFavoritesCategory({ rinkSlug, expanded, onToggle }: { rinkSlug: stri
       <div
         onClick={onToggle}
         style={{
-          padding: '14px 20px', cursor: 'pointer',
+          padding: pad(spacing[14], spacing[20]), cursor: 'pointer',
           display: 'flex', alignItems: 'center', justifyContent: 'space-between',
           transition: 'background 0.1s',
           background: expanded ? colors.bgSubtle : colors.surface,
@@ -198,16 +198,16 @@ function FanFavoritesCategory({ rinkSlug, expanded, onToggle }: { rinkSlug: stri
         onMouseEnter={(e) => { if (!expanded) e.currentTarget.style.background = colors.bgPage; }}
         onMouseLeave={(e) => { if (!expanded) e.currentTarget.style.background = colors.surface; }}
       >
-        <div style={{ display: 'flex', alignItems: 'center', gap: 12 }}>
+        <div style={{ display: 'flex', alignItems: 'center', gap: spacing[12] }}>
           <span style={{ fontSize: 20 }}>⭐</span>
           <div>
             <div style={{ fontSize: text.base, fontWeight: 600, color: colors.textPrimary }}>
               Fan Favorites
-              <span style={{ fontSize: text.sm, fontWeight: 400, color: colors.textMuted, marginLeft: 6 }}>
+              <span style={{ fontSize: text.sm, fontWeight: 400, color: colors.textMuted, marginLeft: spacing[6] }}>
                 {favorites.length} spot{favorites.length !== 1 ? 's' : ''}
               </span>
             </div>
-            <div style={{ fontSize: text.sm, color: colors.textMuted, marginTop: 1 }}>Parent-recommended spots</div>
+            <div style={{ fontSize: text.sm, color: colors.textMuted, marginTop: spacing[1] }}>Parent-recommended spots</div>
           </div>
         </div>
         <span style={{
@@ -219,32 +219,32 @@ function FanFavoritesCategory({ rinkSlug, expanded, onToggle }: { rinkSlug: stri
         </span>
       </div>
       {expanded && (
-        <div style={{ padding: '0 20px 16px', background: colors.bgSubtle }}>
+        <div style={{ padding: pad(spacing[0], spacing[20], spacing[16]), background: colors.bgSubtle }}>
           {favorites.map((fav, i) => (
             <div key={i} style={{
-              marginTop: 8, padding: '10px 12px', borderRadius: radius.lg,
+              marginTop: spacing[8], padding: pad(spacing[10], spacing[12]), borderRadius: radius.lg,
               background: colors.surface, border: `1px solid ${colors.borderDefault}`,
             }}>
-              <div style={{ display: 'flex', alignItems: 'center', gap: 8 }}>
+              <div style={{ display: 'flex', alignItems: 'center', gap: spacing[8] }}>
                 <div style={{ fontSize: text.md, fontWeight: 500, color: colors.textPrimary }}>{fav.name}</div>
                 <span style={{
-                  fontSize: 10, fontWeight: 600, padding: '2px 6px', borderRadius: 4,
+                  fontSize: 10, fontWeight: 600, padding: pad(spacing[2], spacing[6]), borderRadius: 4,
                   background: colors.brandBg, color: colors.brandDark, textTransform: 'uppercase', letterSpacing: 0.5,
                 }}>
                   {fav.category}
                 </span>
               </div>
-              <div style={{ fontSize: text.sm, color: colors.textSecondary, marginTop: 4, fontStyle: 'italic' }}>
+              <div style={{ fontSize: text.sm, color: colors.textSecondary, marginTop: spacing[4], fontStyle: 'italic' }}>
                 &ldquo;{fav.review}&rdquo;
               </div>
-              <div style={{ fontSize: text.xs, color: colors.textMuted, marginTop: 4 }}>
+              <div style={{ fontSize: text.xs, color: colors.textMuted, marginTop: spacing[4] }}>
                 — {fav.author}
               </div>
             </div>
           ))}
           {showForm ? (
             <div style={{
-              marginTop: 8, padding: '12px', borderRadius: radius.lg,
+              marginTop: spacing[8], padding: spacing[12], borderRadius: radius.lg,
               background: colors.surface, border: `1px solid ${colors.borderMedium}`,
             }}>
               <input
@@ -253,7 +253,7 @@ function FanFavoritesCategory({ rinkSlug, expanded, onToggle }: { rinkSlug: stri
                 placeholder="e.g. Tony's Pizza"
                 autoFocus
                 style={{
-                  width: '100%', padding: '8px 10px', fontSize: text.sm,
+                  width: '100%', padding: pad(spacing[8], spacing[10]), fontSize: text.sm,
                   border: `1px solid ${colors.borderDefault}`, borderRadius: radius.md,
                   outline: 'none', boxSizing: 'border-box',
                 }}
@@ -264,20 +264,20 @@ function FanFavoritesCategory({ rinkSlug, expanded, onToggle }: { rinkSlug: stri
                 placeholder="What makes it great?"
                 rows={2}
                 style={{
-                  width: '100%', padding: '8px 10px', fontSize: text.sm, marginTop: 8,
+                  width: '100%', padding: pad(spacing[8], spacing[10]), fontSize: text.sm, marginTop: spacing[8],
                   border: `1px solid ${colors.borderDefault}`, borderRadius: radius.md,
                   outline: 'none', resize: 'none', boxSizing: 'border-box',
                   fontFamily: 'inherit',
                 }}
               />
-              <div style={{ fontSize: text.xs, color: colors.textMuted, textAlign: 'right', marginTop: 2 }}>
+              <div style={{ fontSize: text.xs, color: colors.textMuted, textAlign: 'right', marginTop: spacing[2] }}>
                 {review.length}/140
               </div>
               <select
                 value={category}
                 onChange={(e) => setCategory(e.target.value)}
                 style={{
-                  width: '100%', padding: '8px 10px', fontSize: text.sm, marginTop: 4,
+                  width: '100%', padding: pad(spacing[8], spacing[10]), fontSize: text.sm, marginTop: spacing[4],
                   border: `1px solid ${colors.borderDefault}`, borderRadius: radius.md,
                   outline: 'none', background: colors.surface, boxSizing: 'border-box',
                 }}
@@ -286,14 +286,14 @@ function FanFavoritesCategory({ rinkSlug, expanded, onToggle }: { rinkSlug: stri
                   <option key={c} value={c}>{c}</option>
                 ))}
               </select>
-              <div style={{ display: 'flex', gap: 8, marginTop: 8 }}>
+              <div style={{ display: 'flex', gap: spacing[8], marginTop: spacing[8] }}>
                 <button
                   onClick={handleSubmit}
                   disabled={!name.trim() || !review.trim()}
                   style={{
                     fontSize: text.sm, fontWeight: 600, color: colors.textInverse,
                     background: name.trim() && review.trim() ? colors.brand : colors.textDisabled,
-                    border: 'none', borderRadius: radius.md, padding: '8px 16px',
+                    border: 'none', borderRadius: radius.md, padding: pad(spacing[8], spacing[16]),
                     cursor: name.trim() && review.trim() ? 'pointer' : 'default',
                   }}
                 >
@@ -311,9 +311,9 @@ function FanFavoritesCategory({ rinkSlug, expanded, onToggle }: { rinkSlug: stri
             <button
               onClick={() => setShowForm(true)}
               style={{
-                marginTop: 8, fontSize: text.sm, fontWeight: 500,
+                marginTop: spacing[8], fontSize: text.sm, fontWeight: 500,
                 color: colors.brand, background: 'none', border: `1px dashed ${colors.brandLight}`,
-                borderRadius: radius.md, padding: '8px 14px', cursor: 'pointer',
+                borderRadius: radius.md, padding: pad(spacing[8], spacing[14]), cursor: 'pointer',
                 width: '100%',
               }}
             >
@@ -471,11 +471,11 @@ export function NearbySection({ title, icon, categories, rinkSlug, fanFavorites 
   if (totalPlaces === 0 && !fanFavorites) return null;
 
   return (
-    <section style={{ marginTop: 24 }}>
+    <section style={{ marginTop: spacing[24] }}>
       <h3 style={{
         fontSize: text.md, fontWeight: 600, color: colors.textMuted,
-        textTransform: 'uppercase', letterSpacing: 1.5, marginBottom: 12,
-        display: 'flex', alignItems: 'center', gap: 6,
+        textTransform: 'uppercase', letterSpacing: 1.5, marginBottom: spacing[12],
+        display: 'flex', alignItems: 'center', gap: spacing[6],
       }}>
         <span>{icon}</span> {title}
       </h3>
@@ -504,7 +504,7 @@ export function NearbySection({ title, icon, categories, rinkSlug, fanFavorites 
             <div
               onClick={() => setExpanded(expanded === cat.label ? null : cat.label)}
               style={{
-                padding: '14px 20px', cursor: 'pointer',
+                padding: pad(spacing[14], spacing[20]), cursor: 'pointer',
                 display: 'flex', alignItems: 'center', justifyContent: 'space-between',
                 transition: 'background 0.1s',
                 background: expanded === cat.label ? colors.bgSubtle : colors.surface,
@@ -512,16 +512,16 @@ export function NearbySection({ title, icon, categories, rinkSlug, fanFavorites 
               onMouseEnter={(e) => { if (expanded !== cat.label) e.currentTarget.style.background = colors.bgPage; }}
               onMouseLeave={(e) => { if (expanded !== cat.label) e.currentTarget.style.background = colors.surface; }}
             >
-              <div style={{ display: 'flex', alignItems: 'center', gap: 12 }}>
+              <div style={{ display: 'flex', alignItems: 'center', gap: spacing[12] }}>
                 <span style={{ fontSize: 20 }}>{cat.icon}</span>
                 <div>
                   <div style={{ fontSize: text.base, fontWeight: 600, color: colors.textPrimary }}>
                     {cat.label}
-                    <span style={{ fontSize: text.sm, fontWeight: 400, color: colors.textMuted, marginLeft: 6 }}>
+                    <span style={{ fontSize: text.sm, fontWeight: 400, color: colors.textMuted, marginLeft: spacing[6] }}>
                       {totalCount} spot{totalCount !== 1 ? 's' : ''}
                     </span>
                   </div>
-                  <div style={{ fontSize: text.sm, color: colors.textMuted, marginTop: 1 }}>{cat.description}</div>
+                  <div style={{ fontSize: text.sm, color: colors.textMuted, marginTop: spacing[1] }}>{cat.description}</div>
                 </div>
               </div>
               <span style={{
@@ -533,10 +533,10 @@ export function NearbySection({ title, icon, categories, rinkSlug, fanFavorites 
               </span>
             </div>
             {expanded === cat.label && (
-              <div style={{ padding: '0 20px 16px', background: colors.bgSubtle }}>
+              <div style={{ padding: pad(spacing[0], spacing[20], spacing[16]), background: colors.bgSubtle }}>
                 {cat.places.every(p => p.isFar) && (
                   <div style={{
-                    padding: '8px 12px', marginTop: 8, borderRadius: radius.md,
+                    padding: pad(spacing[8], spacing[12]), marginTop: spacing[8], borderRadius: radius.md,
                     background: colors.bgError, border: `1px solid ${colors.error}`,
                     fontSize: text.xs, color: colors.error,
                   }}>
@@ -549,18 +549,18 @@ export function NearbySection({ title, icon, categories, rinkSlug, fanFavorites 
                   const voteData = getVoteData(entry.name);
 
                   return (
-                  <div key={`${entry.name}-${j}`} style={{ marginTop: 8 }}>
+                  <div key={`${entry.name}-${j}`} style={{ marginTop: spacing[8] }}>
                     {entry.isSuggestion ? (
                       // Community suggestion card (no maps link)
                       <div style={{
-                        padding: '10px 12px', borderRadius: radius.lg,
+                        padding: pad(spacing[10], spacing[12]), borderRadius: radius.lg,
                         background: colors.surface, border: `1px solid ${colors.borderDefault}`,
                       }}>
                         <div style={{ display: 'flex', alignItems: 'center', justifyContent: 'space-between' }}>
-                          <div style={{ display: 'flex', alignItems: 'center', gap: 8 }}>
+                          <div style={{ display: 'flex', alignItems: 'center', gap: spacing[8] }}>
                             <div style={{ fontSize: text.md, fontWeight: 500, color: colors.textPrimary }}>{entry.name}</div>
                             <span style={{
-                              fontSize: 10, fontWeight: 600, padding: '2px 6px', borderRadius: 4,
+                              fontSize: 10, fontWeight: 600, padding: pad(spacing[2], spacing[6]), borderRadius: 4,
                               background: colors.brandBg, color: colors.brandDark, textTransform: 'uppercase', letterSpacing: 0.5,
                             }}>
                               Community pick
@@ -575,12 +575,12 @@ export function NearbySection({ title, icon, categories, rinkSlug, fanFavorites 
                           />
                         </div>
                         {entry.suggestionComment && (
-                          <div style={{ fontSize: text.sm, color: colors.textSecondary, marginTop: 4, fontStyle: 'italic' }}>
+                          <div style={{ fontSize: text.sm, color: colors.textSecondary, marginTop: spacing[4], fontStyle: 'italic' }}>
                             &ldquo;{entry.suggestionComment}&rdquo;
                           </div>
                         )}
                         {entry.suggestionAuthor && (
-                          <div style={{ fontSize: text.xs, color: colors.textMuted, marginTop: 2 }}>
+                          <div style={{ fontSize: text.xs, color: colors.textMuted, marginTop: spacing[2] }}>
                             — {entry.suggestionAuthor}
                           </div>
                         )}
@@ -593,7 +593,7 @@ export function NearbySection({ title, icon, categories, rinkSlug, fanFavorites 
                         rel="noopener noreferrer"
                         style={{
                           display: 'block',
-                          padding: '10px 12px', borderRadius: radius.lg,
+                          padding: pad(spacing[10], spacing[12]), borderRadius: radius.lg,
                           background: entry.isPartner ? colors.bgWarning : colors.surface,
                           border: `1px solid ${entry.isPartner ? colors.warningBorder : colors.borderDefault}`,
                           textDecoration: 'none',
@@ -603,11 +603,11 @@ export function NearbySection({ title, icon, categories, rinkSlug, fanFavorites 
                         onMouseLeave={(e) => { (e.currentTarget as HTMLElement).style.borderColor = entry.isPartner ? colors.warningBorder : colors.borderDefault; }}
                       >
                         <div style={{ display: 'flex', alignItems: 'center', justifyContent: 'space-between' }}>
-                          <div style={{ display: 'flex', alignItems: 'center', gap: 8 }}>
+                          <div style={{ display: 'flex', alignItems: 'center', gap: spacing[8] }}>
                             <div style={{ fontSize: text.md, fontWeight: 500, color: colors.textPrimary }}>{entry.name}</div>
                             {entry.isPartner && (
                               <span style={{
-                                fontSize: 10, fontWeight: 600, padding: '2px 6px', borderRadius: 4,
+                                fontSize: 10, fontWeight: 600, padding: pad(spacing[2], spacing[6]), borderRadius: 4,
                                 background: colors.bgWarning, color: colors.amberDark, textTransform: 'uppercase', letterSpacing: 0.5,
                               }}>
                                 Rink pick
@@ -615,14 +615,14 @@ export function NearbySection({ title, icon, categories, rinkSlug, fanFavorites 
                             )}
                             {entry.isFar && !entry.isPartner && (
                               <span style={{
-                                fontSize: 10, fontWeight: 500, padding: '2px 6px', borderRadius: 4,
+                                fontSize: 10, fontWeight: 500, padding: pad(spacing[2], spacing[6]), borderRadius: 4,
                                 background: colors.bgError, color: colors.error,
                               }}>
                                 drive
                               </span>
                             )}
                           </div>
-                          <div style={{ display: 'flex', alignItems: 'center', gap: 8 }}>
+                          <div style={{ display: 'flex', alignItems: 'center', gap: spacing[8] }}>
                             {entry.distance && <span style={{ fontSize: text.xs, color: entry.isFar ? colors.amber : colors.textMuted }}>{entry.distance}</span>}
                             <PlaceVoteButtons
                               rinkSlug={rinkSlug}
@@ -635,7 +635,7 @@ export function NearbySection({ title, icon, categories, rinkSlug, fanFavorites 
                           </div>
                         </div>
                         {entry.isPartner && entry.partnerNote && (
-                          <div style={{ fontSize: text.xs, color: colors.amberDark, marginTop: 4, fontStyle: 'italic' }}>
+                          <div style={{ fontSize: text.xs, color: colors.amberDark, marginTop: spacing[4], fontStyle: 'italic' }}>
                             {entry.partnerNote}
                           </div>
                         )}
@@ -643,22 +643,22 @@ export function NearbySection({ title, icon, categories, rinkSlug, fanFavorites 
                     )}
                     {/* Parent comments for this place */}
                     {tips.length > 0 && (
-                      <div style={{ marginTop: 4, marginLeft: 8 }}>
+                      <div style={{ marginTop: spacing[4], marginLeft: spacing[8] }}>
                         {tips.map((tip, ti) => (
                           <div key={ti} style={{
-                            fontSize: text.sm, color: colors.textSecondary, padding: '6px 10px',
-                            background: colors.brandBg, borderRadius: radius.md, marginTop: 4,
+                            fontSize: text.sm, color: colors.textSecondary, padding: pad(spacing[6], spacing[10]),
+                            background: colors.brandBg, borderRadius: radius.md, marginTop: spacing[4],
                             borderLeft: `3px solid ${colors.brand}`,
                           }}>
                             <span style={{ fontStyle: 'italic' }}>&ldquo;{tip.text}&rdquo;</span>
-                            <span style={{ fontSize: text.xs, color: colors.textMuted, marginLeft: 6 }}>— {tip.author}</span>
+                            <span style={{ fontSize: text.xs, color: colors.textMuted, marginLeft: spacing[6] }}>— {tip.author}</span>
                           </div>
                         ))}
                       </div>
                     )}
                     {/* Add a comment button */}
                     {tipOpen === placeKey ? (
-                      <div style={{ marginTop: 6, marginLeft: 8, display: 'flex', gap: 6 }}>
+                      <div style={{ marginTop: spacing[6], marginLeft: spacing[8], display: 'flex', gap: spacing[6] }}>
                         <input
                           value={tipText}
                           onChange={(e) => setTipText(e.target.value)}
@@ -666,7 +666,7 @@ export function NearbySection({ title, icon, categories, rinkSlug, fanFavorites 
                           placeholder='E.g. "Great for big groups"'
                           autoFocus
                           style={{
-                            flex: 1, padding: '6px 10px', fontSize: text.sm,
+                            flex: 1, padding: pad(spacing[6], spacing[10]), fontSize: text.sm,
                             border: `1px solid ${colors.borderMedium}`, borderRadius: radius.md, outline: 'none',
                           }}
                         />
@@ -675,7 +675,7 @@ export function NearbySection({ title, icon, categories, rinkSlug, fanFavorites 
                           style={{
                             fontSize: text.xs, fontWeight: 600, color: colors.textInverse,
                             background: tipText.trim() ? colors.brand : colors.textDisabled,
-                            border: 'none', borderRadius: radius.md, padding: '6px 12px', cursor: 'pointer',
+                            border: 'none', borderRadius: radius.md, padding: pad(spacing[6], spacing[12]), cursor: 'pointer',
                           }}
                         >
                           Add
@@ -691,9 +691,9 @@ export function NearbySection({ title, icon, categories, rinkSlug, fanFavorites 
                       <button
                         onClick={(e) => { e.preventDefault(); if (!isLoggedIn) { openAuth(); return; } setTipOpen(placeKey); setTipText(''); }}
                         style={{
-                          marginTop: 4, marginLeft: 8, fontSize: text.xs, fontWeight: 500,
+                          marginTop: spacing[4], marginLeft: spacing[8], fontSize: text.xs, fontWeight: 500,
                           color: colors.brand, background: 'none', border: 'none',
-                          cursor: 'pointer', padding: '2px 0',
+                          cursor: 'pointer', padding: pad(spacing[2], spacing[0]),
                         }}
                       >
                         💬 Add a comment

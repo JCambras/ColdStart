@@ -2,7 +2,7 @@
 
 import { Logo } from './Logo';
 import { BackButton } from './BackButton';
-import { colors, nav as navTokens } from '../lib/theme';
+import { colors, nav as navTokens, spacing, pad } from '../lib/theme';
 
 interface PageShellProps {
   children: React.ReactNode;
@@ -44,17 +44,17 @@ export function PageShell({
         display: 'flex',
         alignItems: 'center',
         justifyContent: navRight ? 'space-between' : undefined,
-        gap: 12,
-        padding: '14px 24px',
+        gap: spacing[12],
+        padding: pad(spacing[14], spacing[24]),
         background: navTokens.bg,
         backdropFilter: navTokens.blur,
         WebkitBackdropFilter: navTokens.blur,
         position: 'sticky',
-        top: 0,
+        top: spacing[0],
         zIndex: 50,
         borderBottom: `1px solid ${colors.borderLight}`,
       }}>
-        <div style={{ display: 'flex', alignItems: 'center', gap: 12 }}>
+        <div style={{ display: 'flex', alignItems: 'center', gap: spacing[12] }}>
           {back && (
             <BackButton
               href={typeof back === 'string' ? back : undefined}
@@ -64,7 +64,7 @@ export function PageShell({
           <Logo size={logoSize} stacked={logoStacked} />
         </div>
         {navCenter}
-        {navRight && <div style={{ display: 'flex', alignItems: 'center', gap: 8 }}>{navRight}</div>}
+        {navRight && <div style={{ display: 'flex', alignItems: 'center', gap: spacing[8] }}>{navRight}</div>}
       </nav>
       {navBelow}
       <main id="main-content">{children}</main>

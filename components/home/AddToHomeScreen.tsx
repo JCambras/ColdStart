@@ -3,7 +3,7 @@
 import { useState, useEffect, useRef } from 'react';
 import { storage } from '../../lib/storage';
 import { getVibe } from '../../app/vibe';
-import { colors } from '../../lib/theme';
+import { colors, spacing, pad } from '../../lib/theme';
 
 interface BeforeInstallPromptEvent extends Event {
   prompt(): Promise<void>;
@@ -73,15 +73,15 @@ export function AddToHomeScreen() {
       style={{
         maxWidth: 640,
         margin: '0 auto',
-        padding: '0 24px',
+        padding: pad(spacing[0], spacing[24]),
       }}
     >
       <div
         style={{
           display: 'flex',
           alignItems: 'center',
-          gap: 12,
-          padding: '14px 18px',
+          gap: spacing[12],
+          padding: pad(spacing[14], spacing[18]),
           background: colors.bgInfo,
           border: `1px solid ${colors.brandLight}`,
           borderRadius: 14,
@@ -89,14 +89,14 @@ export function AddToHomeScreen() {
       >
         <span style={{ fontSize: 22, flexShrink: 0 }}>📱</span>
         <div style={{ flex: 1, minWidth: 0 }}>
-          <p style={{ fontSize: 13, fontWeight: 600, color: colors.textPrimary, margin: 0 }}>
+          <p style={{ fontSize: 13, fontWeight: 600, color: colors.textPrimary, margin: spacing[0] }}>
             Add ColdStart to your home screen
           </p>
-          <p style={{ fontSize: 12, color: colors.textMuted, margin: '2px 0 0' }}>
+          <p style={{ fontSize: 12, color: colors.textMuted, margin: pad(spacing[2], spacing[0], spacing[0]) }}>
             Instant access before away games.
           </p>
           {showIOSInstructions && (
-            <p style={{ fontSize: 12, color: colors.textTertiary, margin: '6px 0 0', lineHeight: 1.4 }}>
+            <p style={{ fontSize: 12, color: colors.textTertiary, margin: pad(spacing[6], spacing[0], spacing[0]), lineHeight: 1.4 }}>
               Tap the share button <span style={{ fontWeight: 600 }}>↑</span> in Safari, then &ldquo;Add to Home Screen.&rdquo;
             </p>
           )}
@@ -107,7 +107,7 @@ export function AddToHomeScreen() {
             fontSize: 12, fontWeight: 600,
             color: colors.brand, background: colors.surface,
             border: `1px solid ${colors.brandLight}`,
-            borderRadius: 10, padding: '8px 14px',
+            borderRadius: 10, padding: pad(spacing[8], spacing[14]),
             cursor: 'pointer', whiteSpace: 'nowrap',
             flexShrink: 0,
           }}
@@ -120,7 +120,7 @@ export function AddToHomeScreen() {
           style={{
             fontSize: 14, color: colors.textMuted,
             background: 'none', border: 'none',
-            cursor: 'pointer', padding: '8px',
+            cursor: 'pointer', padding: spacing[8],
             flexShrink: 0, lineHeight: 1,
             minWidth: 32, minHeight: 32,
             display: 'flex', alignItems: 'center', justifyContent: 'center',

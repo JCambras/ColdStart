@@ -2,7 +2,7 @@
 
 import { useState } from 'react';
 import { TipCard } from './TipCard';
-import { colors } from '../../lib/theme';
+import { colors, spacing, pad } from '../../lib/theme';
 import type { Tip } from '../../lib/rinkTypes';
 
 interface TipsSectionProps {
@@ -23,22 +23,22 @@ export function TipsSection({ tips, rinkSlug }: TipsSectionProps) {
   const displayTips = showAll ? sortedTips : sortedTips.slice(0, 3);
 
   return (
-    <section id="tips-section" aria-label="Tips from parents" style={{ marginTop: 24 }}>
-      <div style={{ display: 'flex', alignItems: 'center', justifyContent: 'space-between', marginBottom: 12 }}>
+    <section id="tips-section" aria-label="Tips from parents" style={{ marginTop: spacing[24] }}>
+      <div style={{ display: 'flex', alignItems: 'center', justifyContent: 'space-between', marginBottom: spacing[12] }}>
         <h3 style={{
           fontSize: 13, fontWeight: 600, color: colors.textMuted,
           textTransform: 'uppercase', letterSpacing: 1.5, margin: 0,
         }}>
           Things to know{tips.length > 0 ? ` (${tips.length})` : ''}
         </h3>
-        <div style={{ display: 'flex', alignItems: 'center', gap: 8 }}>
+        <div style={{ display: 'flex', alignItems: 'center', gap: spacing[8] }}>
           {tournamentCount > 0 && (
             <button
               onClick={() => setFilterTournament(!filterTournament)}
               aria-pressed={filterTournament}
               style={{
                 fontSize: 11, fontWeight: filterTournament ? 600 : 400,
-                padding: '3px 10px', borderRadius: 12,
+                padding: pad(spacing[3], spacing[10]), borderRadius: 12,
                 background: filterTournament ? colors.bgWarning : 'transparent',
                 color: filterTournament ? colors.amber : colors.textMuted,
                 border: `1px solid ${filterTournament ? colors.amberBorder : colors.borderDefault}`,
@@ -53,7 +53,7 @@ export function TipsSection({ tips, rinkSlug }: TipsSectionProps) {
               onClick={() => setSortBy(sortBy === 'helpful' ? 'newest' : 'helpful')}
               style={{
                 fontSize: 11, color: colors.textMuted, background: 'none',
-                border: 'none', cursor: 'pointer', padding: 0,
+                border: 'none', cursor: 'pointer', padding: spacing[0],
                 textDecoration: 'underline', textUnderlineOffset: 2,
               }}
             >
@@ -65,7 +65,7 @@ export function TipsSection({ tips, rinkSlug }: TipsSectionProps) {
       {tips.length === 0 ? (
         <div style={{
           background: colors.surface, border: `1px dashed ${colors.borderMedium}`,
-          borderRadius: 12, padding: '28px 20px', textAlign: 'center',
+          borderRadius: 12, padding: pad(spacing[28], spacing[20]), textAlign: 'center',
         }}>
           <p style={{ fontSize: 14, color: colors.textSecondary, margin: 0, lineHeight: 1.5 }}>
             Got insider knowledge? Share what you wish you&apos;d known before your first visit.
@@ -81,7 +81,7 @@ export function TipsSection({ tips, rinkSlug }: TipsSectionProps) {
               onClick={() => setShowAll(true)}
               style={{
                 fontSize: 13, color: colors.brand, background: 'none',
-                border: 'none', cursor: 'pointer', padding: '8px 0',
+                border: 'none', cursor: 'pointer', padding: pad(spacing[8], spacing[0]),
                 fontWeight: 500,
               }}
             >

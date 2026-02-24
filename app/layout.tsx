@@ -4,6 +4,8 @@ import './globals.css';
 import BottomTabBar from './BottomTabBar';
 import { ClientProviders } from '../components/ClientProviders';
 import { ServiceWorkerRegistration } from '../components/ServiceWorkerRegistration';
+import { Analytics } from '@vercel/analytics/react';
+import { SpeedInsights } from '@vercel/speed-insights/react';
 
 const inter = Inter({ subsets: ['latin'], display: 'swap' });
 
@@ -63,6 +65,8 @@ export default function RootLayout({
           <ServiceWorkerRegistration />
           {children}
           <BottomTabBar />
+          <Analytics />
+          <SpeedInsights />
         </ClientProviders>
       </body>
     </html>

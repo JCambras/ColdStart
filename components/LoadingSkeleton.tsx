@@ -1,4 +1,4 @@
-import { colors, radius } from '../lib/theme';
+import { colors, radius, spacing, pad } from '../lib/theme';
 
 type Variant = 'page' | 'card' | 'list';
 
@@ -8,27 +8,27 @@ const bar = (w: string, h = 14): React.CSSProperties => ({
 
 function SkeletonPage() {
   return (
-    <div style={{ maxWidth: 680, margin: '0 auto', padding: '32px 24px' }}>
+    <div style={{ maxWidth: 680, margin: '0 auto', padding: pad(spacing[32], spacing[24]) }}>
       {/* Header */}
-      <div style={{ ...bar('60%', 28), marginBottom: 10 }} />
-      <div style={{ ...bar('40%'), marginBottom: 24 }} />
+      <div style={{ ...bar('60%', 28), marginBottom: spacing[10] }} />
+      <div style={{ ...bar('40%'), marginBottom: spacing[24] }} />
       {/* Verdict card */}
       <div style={{
         background: colors.surface, border: `1px solid ${colors.borderDefault}`, borderRadius: 16,
-        padding: 24, marginBottom: 16,
+        padding: spacing[24], marginBottom: spacing[16],
       }}>
-        <div style={{ ...bar('50%', 18), marginBottom: 10 }} />
+        <div style={{ ...bar('50%', 18), marginBottom: spacing[10] }} />
         <div style={{ ...bar('70%', 12) }} />
       </div>
       {/* Signal bars */}
       <div style={{
         background: colors.surface, border: `1px solid ${colors.borderDefault}`, borderRadius: 16,
-        padding: '16px 24px',
+        padding: pad(spacing[16], spacing[24]),
       }}>
         {Array.from({ length: 7 }).map((_, i) => (
           <div key={i} style={{
-            display: 'flex', alignItems: 'center', gap: 12,
-            padding: '12px 0',
+            display: 'flex', alignItems: 'center', gap: spacing[12],
+            padding: pad(spacing[12], spacing[0]),
             borderTop: i > 0 ? `1px solid ${colors.borderLight}` : 'none',
           }}>
             <div style={{ ...bar('52px'), flexShrink: 0 }} />
@@ -38,13 +38,13 @@ function SkeletonPage() {
         ))}
       </div>
       {/* Tip cards */}
-      <div style={{ marginTop: 24, display: 'flex', flexDirection: 'column', gap: 8 }}>
+      <div style={{ marginTop: spacing[24], display: 'flex', flexDirection: 'column', gap: spacing[8] }}>
         {Array.from({ length: 3 }).map((_, i) => (
           <div key={i} style={{
             background: colors.surface, border: `1px solid ${colors.borderLight}`,
-            borderRadius: radius.lg, padding: '12px 14px',
+            borderRadius: radius.lg, padding: pad(spacing[12], spacing[14]),
           }}>
-            <div style={{ ...bar('85%', 12), marginBottom: 6 }} />
+            <div style={{ ...bar('85%', 12), marginBottom: spacing[6] }} />
             <div style={{ ...bar('50%', 10) }} />
           </div>
         ))}
@@ -60,11 +60,11 @@ function SkeletonCard() {
       display: 'flex', minHeight: 200, overflow: 'hidden',
       animation: 'pulse 1.5s ease-in-out infinite',
     }}>
-      <div style={{ flex: 1, padding: 24 }}>
-        <div style={{ ...bar('70%', 22), marginBottom: 8 }} />
-        <div style={{ ...bar('40%'), marginBottom: 20 }} />
-        <div style={{ ...bar('55%'), marginBottom: 14 }} />
-        <div style={{ display: 'flex', gap: 6 }}>
+      <div style={{ flex: 1, padding: spacing[24] }}>
+        <div style={{ ...bar('70%', 22), marginBottom: spacing[8] }} />
+        <div style={{ ...bar('40%'), marginBottom: spacing[20] }} />
+        <div style={{ ...bar('55%'), marginBottom: spacing[14] }} />
+        <div style={{ display: 'flex', gap: spacing[6] }}>
           {Array.from({ length: 5 }).map((_, j) => (
             <div key={j} style={{ ...bar('48px', 24) }} />
           ))}
@@ -77,18 +77,18 @@ function SkeletonCard() {
 
 function SkeletonList() {
   return (
-    <div style={{ display: 'flex', flexDirection: 'column', gap: 10, marginTop: 20 }}>
+    <div style={{ display: 'flex', flexDirection: 'column', gap: spacing[10], marginTop: spacing[20] }}>
       {Array.from({ length: 6 }).map((_, i) => (
         <div key={i} style={{
           display: 'flex', alignItems: 'center', justifyContent: 'space-between',
-          padding: '14px 18px', background: colors.surface, border: `1px solid ${colors.borderDefault}`,
+          padding: pad(spacing[14], spacing[18]), background: colors.surface, border: `1px solid ${colors.borderDefault}`,
           borderRadius: radius.xl, animation: 'pulse 1.5s ease-in-out infinite',
         }}>
           <div>
-            <div style={{ ...bar('160px', 16), marginBottom: 6 }} />
+            <div style={{ ...bar('160px', 16), marginBottom: spacing[6] }} />
             <div style={{ ...bar('80px', 12) }} />
           </div>
-          <div style={{ display: 'flex', gap: 6 }}>
+          <div style={{ display: 'flex', gap: spacing[6] }}>
             {Array.from({ length: 3 }).map((_, j) => (
               <div key={j} style={{ ...bar('40px', 20) }} />
             ))}

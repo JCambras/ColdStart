@@ -2,7 +2,7 @@
 
 import { useState, useEffect } from 'react';
 import { storage } from '../../lib/storage';
-import { colors } from '../../lib/theme';
+import { colors, spacing, pad } from '../../lib/theme';
 
 function getCurrentSeason(): { id: string; startTs: number } {
   const now = new Date();
@@ -43,17 +43,17 @@ export function SeasonWelcome() {
       background: colors.bgInfo,
       border: `1px solid ${colors.brandLight}`,
       borderRadius: 14,
-      padding: '14px 18px',
+      padding: pad(spacing[14], spacing[18]),
       display: 'flex',
       alignItems: 'flex-start',
-      gap: 12,
+      gap: spacing[12],
     }}>
       <span style={{ fontSize: 22, flexShrink: 0, lineHeight: 1 }}>🏒</span>
       <div style={{ flex: 1 }}>
         <div style={{ fontSize: 14, fontWeight: 700, color: colors.brandDark }}>
           Welcome back for the new season
         </div>
-        <p style={{ fontSize: 12, color: colors.textTertiary, marginTop: 4, lineHeight: 1.5, margin: '4px 0 0' }}>
+        <p style={{ fontSize: 12, color: colors.textTertiary, marginTop: spacing[4], lineHeight: 1.5, margin: pad(spacing[4], spacing[0], spacing[0]) }}>
           Your ratings from last year helped families find their way. Rinks may have changed — re-rate after your first visit.
         </p>
       </div>
@@ -62,7 +62,7 @@ export function SeasonWelcome() {
         aria-label="Dismiss welcome banner"
         style={{
           fontSize: 11, color: colors.textMuted, background: 'none',
-          border: 'none', cursor: 'pointer', padding: '2px 4px', flexShrink: 0,
+          border: 'none', cursor: 'pointer', padding: pad(spacing[2], spacing[4]), flexShrink: 0,
         }}
       >
         ✕

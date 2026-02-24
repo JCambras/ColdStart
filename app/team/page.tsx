@@ -6,7 +6,7 @@ import { PageShell } from '../../components/PageShell';
 import { storage } from '../../lib/storage';
 import { apiGet } from '../../lib/api';
 import { getBarColor, getBarBg } from '../../lib/rinkHelpers';
-import { colors, text, radius } from '../../lib/theme';
+import { colors, text, radius, spacing, pad } from '../../lib/theme';
 
 interface Team {
   name: string;
@@ -153,7 +153,7 @@ export default function TeamDashboardPage() {
   if (showSetup) {
     return (
       <PageShell back="/" backLabel="← Home">
-        <div style={{ maxWidth: 480, margin: '0 auto', padding: '40px 24px 80px' }}>
+        <div style={{ maxWidth: 480, margin: '0 auto', padding: pad(spacing[40], spacing[24], spacing[80]) }}>
           <h1 style={{ fontSize: 22, fontWeight: 700, color: colors.textPrimary, margin: '0 0 4px' }}>
             {editing ? 'Edit your team' : 'Set up your team'}
           </h1>
@@ -162,7 +162,7 @@ export default function TeamDashboardPage() {
           </p>
 
           {/* Team name */}
-          <label style={{ display: 'block', fontSize: 13, fontWeight: 600, color: colors.textSecondary, marginBottom: 6 }}>
+          <label style={{ display: 'block', fontSize: 13, fontWeight: 600, color: colors.textSecondary, marginBottom: spacing[6] }}>
             Team name
           </label>
           <input
@@ -179,7 +179,7 @@ export default function TeamDashboardPage() {
           />
 
           {/* Home rink picker */}
-          <label style={{ display: 'block', fontSize: 13, fontWeight: 600, color: colors.textSecondary, marginTop: 20, marginBottom: 6 }}>
+          <label style={{ display: 'block', fontSize: 13, fontWeight: 600, color: colors.textSecondary, marginTop: spacing[20], marginBottom: spacing[6] }}>
             Home rink
           </label>
           {selectedRink ? (
@@ -244,7 +244,7 @@ export default function TeamDashboardPage() {
             onClick={handleSaveTeam}
             disabled={!teamName.trim() || !selectedRink}
             style={{
-              marginTop: 28, width: '100%', padding: '14px 24px',
+              marginTop: spacing[28], width: '100%', padding: pad(spacing[14], spacing[24]),
               fontSize: 15, fontWeight: 600,
               color: colors.textInverse,
               background: (!teamName.trim() || !selectedRink) ? colors.textDisabled : colors.textPrimary,
@@ -259,7 +259,7 @@ export default function TeamDashboardPage() {
             <button
               onClick={() => setEditing(false)}
               style={{
-                marginTop: 12, width: '100%', padding: '12px 24px',
+                marginTop: spacing[12], width: '100%', padding: pad(spacing[12], spacing[24]),
                 fontSize: 14, fontWeight: 500, color: colors.textMuted,
                 background: 'none', border: 'none', cursor: 'pointer',
               }}
@@ -277,9 +277,9 @@ export default function TeamDashboardPage() {
 
   return (
     <PageShell back="/" backLabel="← Home">
-      <div style={{ maxWidth: 600, margin: '0 auto', padding: '24px 24px 80px' }}>
+      <div style={{ maxWidth: 600, margin: '0 auto', padding: pad(spacing[24], spacing[24], spacing[80]) }}>
         {/* Header */}
-        <div style={{ display: 'flex', alignItems: 'flex-start', justifyContent: 'space-between', marginBottom: 24 }}>
+        <div style={{ display: 'flex', alignItems: 'flex-start', justifyContent: 'space-between', marginBottom: spacing[24] }}>
           <div>
             <h1 style={{ fontSize: 22, fontWeight: 700, color: colors.textPrimary, margin: 0 }}>
               {team.name}
@@ -293,7 +293,7 @@ export default function TeamDashboardPage() {
             aria-label="Edit team"
             style={{
               fontSize: 18, background: 'none', border: 'none',
-              cursor: 'pointer', padding: '4px 8px', color: colors.textMuted,
+              cursor: 'pointer', padding: pad(spacing[4], spacing[8]), color: colors.textMuted,
             }}
           >
             &#9998;
@@ -301,10 +301,10 @@ export default function TeamDashboardPage() {
         </div>
 
         {/* Home rink card */}
-        <section style={{ marginBottom: 24 }}>
+        <section style={{ marginBottom: spacing[24] }}>
           <h2 style={{
             fontSize: 12, fontWeight: 500, color: colors.stone500,
-            textTransform: 'uppercase', letterSpacing: 1.5, marginBottom: 10,
+            textTransform: 'uppercase', letterSpacing: 1.5, marginBottom: spacing[10],
           }}>
             Home Rink
           </h2>
@@ -314,7 +314,7 @@ export default function TeamDashboardPage() {
             onClick={() => router.push(`/rinks/${team.homeRinkId}`)}
             onKeyDown={(e) => { if (e.key === 'Enter' || e.key === ' ') { e.preventDefault(); router.push(`/rinks/${team.homeRinkId}`); } }}
             style={{
-              padding: '16px 18px', background: colors.surface,
+              padding: pad(spacing[16], spacing[18]), background: colors.surface,
               border: `1px solid ${colors.borderDefault}`, borderRadius: 14,
               cursor: 'pointer', transition: 'border-color 0.15s',
             }}
@@ -340,8 +340,8 @@ export default function TeamDashboardPage() {
         </section>
 
         {/* Upcoming trips */}
-        <section style={{ marginBottom: 24 }}>
-          <div style={{ display: 'flex', alignItems: 'center', justifyContent: 'space-between', marginBottom: 10 }}>
+        <section style={{ marginBottom: spacing[24] }}>
+          <div style={{ display: 'flex', alignItems: 'center', justifyContent: 'space-between', marginBottom: spacing[10] }}>
             <h2 style={{
               fontSize: 12, fontWeight: 500, color: colors.stone500,
               textTransform: 'uppercase', letterSpacing: 1.5, margin: 0,
@@ -353,7 +353,7 @@ export default function TeamDashboardPage() {
               style={{
                 fontSize: 12, fontWeight: 600, color: colors.textInverse,
                 background: colors.brand, border: 'none', borderRadius: 8,
-                padding: '6px 14px', cursor: 'pointer',
+                padding: pad(spacing[6], spacing[14]), cursor: 'pointer',
               }}
             >
               + Plan trip
@@ -362,7 +362,7 @@ export default function TeamDashboardPage() {
 
           {trips.length === 0 ? (
             <div style={{
-              padding: 24, textAlign: 'center', background: colors.surface,
+              padding: spacing[24], textAlign: 'center', background: colors.surface,
               border: `1px solid ${colors.borderDefault}`, borderRadius: 14,
             }}>
               <p style={{ fontSize: 14, color: colors.textTertiary, margin: 0 }}>
@@ -371,17 +371,17 @@ export default function TeamDashboardPage() {
               <button
                 onClick={() => router.push('/trip/new')}
                 style={{
-                  marginTop: 12, fontSize: 13, fontWeight: 600,
+                  marginTop: spacing[12], fontSize: 13, fontWeight: 600,
                   color: colors.brand, background: colors.bgInfo,
                   border: `1px solid ${colors.brandLight}`, borderRadius: 10,
-                  padding: '10px 20px', cursor: 'pointer',
+                  padding: pad(spacing[10], spacing[20]), cursor: 'pointer',
                 }}
               >
                 Create a trip page &#8594;
               </button>
             </div>
           ) : (
-            <div style={{ display: 'flex', flexDirection: 'column', gap: 10 }}>
+            <div style={{ display: 'flex', flexDirection: 'column', gap: spacing[10] }}>
               {trips.map(trip => {
                 const gameCount = trip.games?.length || 0;
                 const summary = rinkSummaries.get(trip.rink.id);
@@ -395,7 +395,7 @@ export default function TeamDashboardPage() {
                     onClick={() => router.push(`/trip/${trip.id}`)}
                     onKeyDown={(e) => { if (e.key === 'Enter' || e.key === ' ') { e.preventDefault(); router.push(`/trip/${trip.id}`); } }}
                     style={{
-                      padding: '14px 18px', background: colors.surface,
+                      padding: pad(spacing[14], spacing[18]), background: colors.surface,
                       border: `1px solid ${colors.borderDefault}`, borderRadius: 14,
                       cursor: 'pointer', transition: 'border-color 0.15s',
                     }}
@@ -408,7 +408,7 @@ export default function TeamDashboardPage() {
                     <div style={{ fontSize: 12, color: colors.textTertiary, marginTop: 2 }}>
                       {trip.rink.city}, {trip.rink.state}
                     </div>
-                    <div style={{ display: 'flex', gap: 6, marginTop: 8, flexWrap: 'wrap' }}>
+                    <div style={{ display: 'flex', gap: spacing[6], marginTop: spacing[8], flexWrap: 'wrap' }}>
                       {trip.dates && (
                         <span style={{ fontSize: 11, fontWeight: 600, padding: '3px 8px', borderRadius: 6, background: colors.bgInfo, color: colors.brandDark }}>
                           {trip.dates}
@@ -446,7 +446,7 @@ export default function TeamDashboardPage() {
         </section>
 
         {/* Explore rinks */}
-        <div style={{ textAlign: 'center', marginTop: 16 }}>
+        <div style={{ textAlign: 'center', marginTop: spacing[16] }}>
           <button
             onClick={() => router.push('/')}
             style={{

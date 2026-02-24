@@ -3,7 +3,7 @@
 import { useState, useEffect } from 'react';
 import { storage } from '../../lib/storage';
 import { apiGet } from '../../lib/api';
-import { colors } from '../../lib/theme';
+import { colors, spacing, pad } from '../../lib/theme';
 
 interface Signal {
   signal: string;
@@ -60,8 +60,8 @@ export function RinkComparison({ currentRinkId, currentRinkName, currentSignals 
 
   return (
     <div style={{
-      marginTop: 12,
-      padding: '10px 14px',
+      marginTop: spacing[12],
+      padding: pad(spacing[10], spacing[14]),
       background: colors.bgInfo,
       border: `1px solid ${colors.brandLight}`,
       borderRadius: 10,
@@ -69,7 +69,7 @@ export function RinkComparison({ currentRinkId, currentRinkName, currentSignals 
       color: colors.brandDark,
       display: 'flex',
       alignItems: 'center',
-      gap: 8,
+      gap: spacing[8],
     }}>
       <span style={{ fontSize: 14, flexShrink: 0 }}>🅿️</span>
       <span>{comparisonText}</span>

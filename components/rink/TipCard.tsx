@@ -6,7 +6,7 @@ import { MANAGER_RESPONSES } from '../../lib/seedData';
 import { timeAgo } from '../../lib/rinkHelpers';
 import { storage } from '../../lib/storage';
 import { useAuth } from '../../contexts/AuthContext';
-import { colors, text, radius } from '../../lib/theme';
+import { colors, text, radius, spacing, pad } from '../../lib/theme';
 
 export function TipCard({ tip, tipIndex, rinkSlug }: { tip: Tip; tipIndex: number; rinkSlug: string }) {
   const { isLoggedIn, openAuth } = useAuth();
@@ -92,11 +92,11 @@ export function TipCard({ tip, tipIndex, rinkSlug }: { tip: Tip; tipIndex: numbe
       tabIndex={0}
       aria-expanded={expanded}
       style={{
-        padding: '10px 14px',
+        padding: pad(spacing[10], spacing[14]),
         background: colors.surface,
         border: `1px solid ${colors.borderLight}`,
         borderRadius: radius.lg,
-        marginBottom: 6,
+        marginBottom: spacing[6],
         cursor: 'pointer',
         transition: 'border-color 0.15s',
       }}
@@ -105,18 +105,18 @@ export function TipCard({ tip, tipIndex, rinkSlug }: { tip: Tip; tipIndex: numbe
       onMouseEnter={(e) => { e.currentTarget.style.borderColor = colors.borderDefault; }}
       onMouseLeave={(e) => { e.currentTarget.style.borderColor = colors.borderLight; }}
     >
-      <div style={{ display: 'flex', gap: 10, alignItems: 'flex-start' }}>
+      <div style={{ display: 'flex', gap: spacing[10], alignItems: 'flex-start' }}>
         {/* Vote buttons */}
         <div style={{
           display: 'flex', flexDirection: 'column', alignItems: 'center',
-          gap: 0, flexShrink: 0, minWidth: 28,
+          gap: spacing[0], flexShrink: 0, minWidth: 28,
         }}>
           <button
             onClick={(e) => handleVote('up', e)}
             aria-label="Helpful"
             style={{
               background: 'none', border: 'none', cursor: 'pointer',
-              padding: '8px 10px', minHeight: 44, minWidth: 44,
+              padding: pad(spacing[8], spacing[10]), minHeight: 44, minWidth: 44,
               fontSize: text.base, lineHeight: 1,
               color: userVote === 'up' ? colors.brand : colors.textDisabled,
               transition: 'color 0.15s',
@@ -131,7 +131,7 @@ export function TipCard({ tip, tipIndex, rinkSlug }: { tip: Tip; tipIndex: numbe
             aria-label="Not helpful"
             style={{
               background: 'none', border: 'none', cursor: 'pointer',
-              padding: '8px 10px', minHeight: 44, minWidth: 44,
+              padding: pad(spacing[8], spacing[10]), minHeight: 44, minWidth: 44,
               fontSize: text.base, lineHeight: 1,
               color: userVote === 'down' ? colors.error : colors.textDisabled,
               transition: 'color 0.15s',
@@ -141,15 +141,15 @@ export function TipCard({ tip, tipIndex, rinkSlug }: { tip: Tip; tipIndex: numbe
 
         {/* Tip content */}
         <div style={{ flex: 1 }}>
-          <div style={{ display: 'flex', justifyContent: 'space-between', alignItems: 'flex-start', gap: 8 }}>
+          <div style={{ display: 'flex', justifyContent: 'space-between', alignItems: 'flex-start', gap: spacing[8] }}>
             <div style={{ flex: 1 }}>
               <p style={{ fontSize: text.md, color: colors.textSecondary, lineHeight: 1.5, margin: 0 }}>
                 &ldquo;{tip.text}&rdquo;
               </p>
               {!expanded && (
-                <div style={{ display: 'flex', alignItems: 'center', gap: 4, marginTop: 4 }}>
+                <div style={{ display: 'flex', alignItems: 'center', gap: spacing[4], marginTop: spacing[4] }}>
                   <span style={{
-                    fontSize: text['2xs'], fontWeight: 500, padding: '1px 6px',
+                    fontSize: text['2xs'], fontWeight: 500, padding: pad(spacing[1], spacing[6]),
                     borderRadius: 6, display: 'inline-block',
                     background: isLocal ? colors.indigoBg : colors.purpleBg,
                     color: isLocal ? colors.indigo : colors.purple,
@@ -171,7 +171,7 @@ export function TipCard({ tip, tipIndex, rinkSlug }: { tip: Tip; tipIndex: numbe
                   )}
                   {tip.context === 'tournament' && (
                     <span style={{
-                      fontSize: text['2xs'], fontWeight: 600, padding: '1px 6px',
+                      fontSize: text['2xs'], fontWeight: 600, padding: pad(spacing[1], spacing[6]),
                       borderRadius: 6, display: 'inline-block',
                       background: colors.bgWarning, color: colors.amber,
                     }}>
@@ -180,8 +180,8 @@ export function TipCard({ tip, tipIndex, rinkSlug }: { tip: Tip; tipIndex: numbe
                   )}
                   {tip.contributor_badge === 'Trusted' && (
                     <span style={{
-                      fontSize: text['2xs'], fontWeight: 600, padding: '1px 6px',
-                      borderRadius: 6, display: 'inline-flex', alignItems: 'center', gap: 2,
+                      fontSize: text['2xs'], fontWeight: 600, padding: pad(spacing[1], spacing[6]),
+                      borderRadius: 6, display: 'inline-flex', alignItems: 'center', gap: spacing[2],
                       background: colors.indigoBg, color: colors.indigo,
                     }}>
                       Trusted Reviewer
@@ -189,7 +189,7 @@ export function TipCard({ tip, tipIndex, rinkSlug }: { tip: Tip; tipIndex: numbe
                   )}
                   {isMyTip && (
                     <span style={{
-                      fontSize: text['2xs'], fontWeight: 600, padding: '1px 6px',
+                      fontSize: text['2xs'], fontWeight: 600, padding: pad(spacing[1], spacing[6]),
                       borderRadius: 6, display: 'inline-block',
                       background: colors.bgSuccess, color: colors.success,
                     }}>
@@ -199,7 +199,7 @@ export function TipCard({ tip, tipIndex, rinkSlug }: { tip: Tip; tipIndex: numbe
                 </div>
               )}
             </div>
-            <div style={{ display: 'flex', alignItems: 'center', gap: 4, flexShrink: 0 }}>
+            <div style={{ display: 'flex', alignItems: 'center', gap: spacing[4], flexShrink: 0 }}>
               {response && <span style={{ fontSize: text['2xs'], color: colors.brandAccent }}>💬</span>}
               <span style={{
                 fontSize: text['2xs'], color: colors.textMuted,
@@ -211,10 +211,10 @@ export function TipCard({ tip, tipIndex, rinkSlug }: { tip: Tip; tipIndex: numbe
             </div>
           </div>
           {expanded && (
-            <div style={{ marginTop: 8, paddingTop: 8, borderTop: `1px solid ${colors.borderLight}` }}>
-              <div style={{ display: 'flex', gap: 8, alignItems: 'center', flexWrap: 'wrap' }}>
+            <div style={{ marginTop: spacing[8], paddingTop: spacing[8], borderTop: `1px solid ${colors.borderLight}` }}>
+              <div style={{ display: 'flex', gap: spacing[8], alignItems: 'center', flexWrap: 'wrap' }}>
                 <span style={{
-                  fontSize: text['2xs'], fontWeight: 500, padding: '2px 8px',
+                  fontSize: text['2xs'], fontWeight: 500, padding: pad(spacing[2], spacing[8]),
                   borderRadius: radius.lg,
                   background: isLocal ? colors.indigoBg : colors.purpleBg,
                   color: isLocal ? colors.indigo : colors.purple,
@@ -223,7 +223,7 @@ export function TipCard({ tip, tipIndex, rinkSlug }: { tip: Tip; tipIndex: numbe
                 </span>
                 {isMyTip && (
                   <span style={{
-                    fontSize: text['2xs'], fontWeight: 600, padding: '2px 8px',
+                    fontSize: text['2xs'], fontWeight: 600, padding: pad(spacing[2], spacing[8]),
                     borderRadius: radius.lg,
                     background: colors.bgSuccess, color: colors.success,
                   }}>
@@ -232,8 +232,8 @@ export function TipCard({ tip, tipIndex, rinkSlug }: { tip: Tip; tipIndex: numbe
                 )}
                 {tip.contributor_badge === 'Trusted' && (
                   <span style={{
-                    fontSize: text['2xs'], fontWeight: 600, padding: '2px 8px',
-                    borderRadius: radius.lg, display: 'inline-flex', alignItems: 'center', gap: 3,
+                    fontSize: text['2xs'], fontWeight: 600, padding: pad(spacing[2], spacing[8]),
+                    borderRadius: radius.lg, display: 'inline-flex', alignItems: 'center', gap: spacing[3],
                     background: colors.indigoBg, color: colors.indigo,
                   }}>
                     Trusted Reviewer
@@ -243,13 +243,13 @@ export function TipCard({ tip, tipIndex, rinkSlug }: { tip: Tip; tipIndex: numbe
               </div>
               {response && (
                 <div style={{
-                  marginTop: 8, padding: '8px 10px',
+                  marginTop: spacing[8], padding: pad(spacing[8], spacing[10]),
                   background: colors.indigoBg, border: `1px solid ${colors.indigoBorder}`,
                   borderRadius: radius.md, borderLeft: `3px solid ${colors.brandAccent}`,
                 }}>
-                  <div style={{ display: 'flex', alignItems: 'center', gap: 6, marginBottom: 3 }}>
+                  <div style={{ display: 'flex', alignItems: 'center', gap: spacing[6], marginBottom: spacing[3] }}>
                     <span style={{
-                      fontSize: 10, fontWeight: 700, padding: '1px 5px', borderRadius: 3,
+                      fontSize: 10, fontWeight: 700, padding: pad(spacing[1], spacing[5]), borderRadius: 3,
                       background: colors.brandAccent, color: colors.textInverse, textTransform: 'uppercase', letterSpacing: 0.5,
                     }}>
                       Verified
@@ -263,14 +263,14 @@ export function TipCard({ tip, tipIndex, rinkSlug }: { tip: Tip; tipIndex: numbe
                 </div>
               )}
               {/* Flag / report button */}
-              <div style={{ marginTop: 8, display: 'flex', alignItems: 'center', gap: 8 }}>
+              <div style={{ marginTop: spacing[8], display: 'flex', alignItems: 'center', gap: spacing[8] }}>
                 <button
                   onClick={handleFlag}
                   aria-label={flagged ? 'Tip flagged' : 'Flag this tip'}
                   style={{
                     fontSize: text['2xs'], color: flagged ? colors.textMuted : colors.textTertiary,
                     background: 'none', border: 'none', cursor: flagged ? 'default' : 'pointer',
-                    padding: '10px 12px', minHeight: 44, display: 'flex', alignItems: 'center', gap: 4,
+                    padding: pad(spacing[10], spacing[12]), minHeight: 44, display: 'flex', alignItems: 'center', gap: spacing[4],
                     borderRadius: 6, transition: 'color 0.15s',
                   }}
                 >

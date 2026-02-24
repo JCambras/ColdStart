@@ -2,7 +2,7 @@
 
 import { useState } from 'react';
 import Image from 'next/image';
-import { colors } from '../../lib/theme';
+import { colors, spacing, pad } from '../../lib/theme';
 
 // Tiny 4x3 neutral gray blur placeholder (base64-encoded 1x1 PNG scaled by next/image)
 const BLUR_PLACEHOLDER = 'data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAADUlEQVR42mN88P/BfwAJhAPk4kCyWAAAAABJRU5ErkJggg==';
@@ -74,9 +74,9 @@ export function PhotoGallery({ photos, rinkId, rinkName, staticPhoto, onPhotoAdd
 
   if (photos.length > 0) {
     return (
-      <div style={{ marginTop: 16 }}>
+      <div style={{ marginTop: spacing[16] }}>
         <div style={{
-          display: 'flex', gap: 8, overflowX: 'auto', paddingBottom: 8,
+          display: 'flex', gap: spacing[8], overflowX: 'auto', paddingBottom: spacing[8],
           scrollSnapType: 'x mandatory',
         }}>
           {photos.map((photo) => (
@@ -88,9 +88,9 @@ export function PhotoGallery({ photos, rinkId, rinkName, staticPhoto, onPhotoAdd
               <Image src={photo.url} alt={photo.caption || rinkName} fill style={{ objectFit: 'cover' }} sizes="280px" placeholder="blur" blurDataURL={BLUR_PLACEHOLDER} />
               {photo.contributor_name && (
                 <div style={{
-                  position: 'absolute', bottom: 6, left: 6,
+                  position: 'absolute', bottom: spacing[6], left: spacing[6],
                   fontSize: 10, color: 'rgba(255,255,255,0.85)',
-                  background: 'rgba(0,0,0,0.5)', padding: '2px 8px',
+                  background: 'rgba(0,0,0,0.5)', padding: pad(spacing[2], spacing[8]),
                   borderRadius: 4, backdropFilter: 'blur(4px)',
                 }}>
                   Photo by {photo.contributor_name}
@@ -99,9 +99,9 @@ export function PhotoGallery({ photos, rinkId, rinkName, staticPhoto, onPhotoAdd
             </div>
           ))}
         </div>
-        <div style={{ display: 'flex', alignItems: 'center', gap: 8, marginTop: 4 }}>
+        <div style={{ display: 'flex', alignItems: 'center', gap: spacing[8], marginTop: spacing[4] }}>
           <label style={{
-            display: 'inline-flex', alignItems: 'center', gap: 4,
+            display: 'inline-flex', alignItems: 'center', gap: spacing[4],
             fontSize: 12, color: colors.textMuted, cursor: 'pointer',
           }}>
             <span>{uploading ? 'Uploading...' : '+ Add a photo'}</span>
@@ -115,20 +115,20 @@ export function PhotoGallery({ photos, rinkId, rinkName, staticPhoto, onPhotoAdd
 
   if (staticPhoto) {
     return (
-      <div style={{ marginTop: 16, borderRadius: 16, overflow: 'hidden', height: 220, position: 'relative', background: colors.borderLight }}>
+      <div style={{ marginTop: spacing[16], borderRadius: 16, overflow: 'hidden', height: 220, position: 'relative', background: colors.borderLight }}>
         <Image src={staticPhoto} alt={rinkName} fill style={{ objectFit: 'contain', objectPosition: 'center' }} sizes="(max-width: 680px) 100vw, 680px" placeholder="blur" blurDataURL={BLUR_PLACEHOLDER} />
         <div style={{
-          position: 'absolute', bottom: 10, right: 10,
+          position: 'absolute', bottom: spacing[10], right: spacing[10],
           fontSize: 10, color: 'rgba(255,255,255,0.7)',
-          background: 'rgba(0,0,0,0.4)', padding: '3px 8px',
+          background: 'rgba(0,0,0,0.4)', padding: pad(spacing[3], spacing[8]),
           borderRadius: 6, backdropFilter: 'blur(4px)',
         }}>
           Photo from a hockey parent
         </div>
         <label style={{
-          position: 'absolute', top: 10, right: 10,
+          position: 'absolute', top: spacing[10], right: spacing[10],
           fontSize: 11, fontWeight: 600, color: colors.textInverse,
-          background: 'rgba(0,0,0,0.5)', padding: '4px 10px',
+          background: 'rgba(0,0,0,0.5)', padding: pad(spacing[4], spacing[10]),
           borderRadius: 6, cursor: 'pointer', backdropFilter: 'blur(4px)',
         }}>
           {uploading ? 'Uploading...' : '+ Add photo'}
@@ -140,7 +140,7 @@ export function PhotoGallery({ photos, rinkId, rinkName, staticPhoto, onPhotoAdd
 
   return (
     <div style={{
-      marginTop: 16, padding: '20px 16px', borderRadius: 12,
+      marginTop: spacing[16], padding: pad(spacing[20], spacing[16]), borderRadius: 12,
       border: `1.5px dashed ${colors.borderDefault}`, textAlign: 'center',
     }}>
       <label style={{ cursor: 'pointer' }}>

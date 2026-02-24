@@ -2,7 +2,7 @@
 
 import { useState, useRef, useEffect } from 'react';
 import { US_STATES, HOCKEY_STATES } from '../lib/constants';
-import { colors, text } from '../lib/theme';
+import { colors, text, spacing, pad } from '../lib/theme';
 
 export function StateDropdown({ onSelect }: { onSelect: (code: string) => void }) {
   const [open, setOpen] = useState(false);
@@ -58,7 +58,7 @@ export function StateDropdown({ onSelect }: { onSelect: (code: string) => void }
         aria-haspopup="listbox"
         style={{
           fontSize: text.md, color: colors.textTertiary, cursor: 'pointer', userSelect: 'none',
-          background: 'none', border: 'none', padding: 0, font: 'inherit',
+          background: 'none', border: 'none', padding: spacing[0], font: 'inherit',
         }}
       >
         Browse by state ▾
@@ -68,13 +68,13 @@ export function StateDropdown({ onSelect }: { onSelect: (code: string) => void }
           role="listbox"
           aria-label="Select a state"
           style={{
-            position: 'absolute', top: '100%', left: '50%', transform: 'translateX(-50%)', marginTop: 8,
+            position: 'absolute', top: '100%', left: '50%', transform: 'translateX(-50%)', marginTop: spacing[8],
             background: colors.surface, border: `1px solid ${colors.borderDefault}`, borderRadius: 14,
-            boxShadow: '0 20px 50px rgba(0,0,0,0.12)', padding: '12px 0',
+            boxShadow: '0 20px 50px rgba(0,0,0,0.12)', padding: pad(spacing[12], spacing[0]),
             width: 280, maxHeight: 400, overflowY: 'auto', zIndex: 200,
           }}
         >
-          <div style={{ padding: '0 16px 8px', fontSize: text['2xs'], fontWeight: 600, color: colors.textMuted, textTransform: 'uppercase', letterSpacing: 1 }}>
+          <div style={{ padding: pad(spacing[0], spacing[16], spacing[8]), fontSize: text['2xs'], fontWeight: 600, color: colors.textMuted, textTransform: 'uppercase', letterSpacing: 1 }}>
             Top hockey states
           </div>
           {HOCKEY_STATES.map(code => (
@@ -85,7 +85,7 @@ export function StateDropdown({ onSelect }: { onSelect: (code: string) => void }
               onClick={() => { onSelect(code); setOpen(false); }}
               onKeyDown={(e) => handleItemKeyDown(e, code)}
               style={{
-                padding: '8px 16px', cursor: 'pointer', fontSize: text.md, color: colors.textSecondary,
+                padding: pad(spacing[8], spacing[16]), cursor: 'pointer', fontSize: text.md, color: colors.textSecondary,
                 transition: 'background 0.1s',
               }}
               onMouseEnter={(e) => { e.currentTarget.style.background = colors.bgInfo; }}
@@ -96,8 +96,8 @@ export function StateDropdown({ onSelect }: { onSelect: (code: string) => void }
               {US_STATES[code]} <span style={{ color: colors.textMuted, fontSize: text.xs }}>({code})</span>
             </div>
           ))}
-          <div style={{ height: 1, background: colors.borderLight, margin: '8px 16px' }} />
-          <div style={{ padding: '0 16px 8px', fontSize: text['2xs'], fontWeight: 600, color: colors.textMuted, textTransform: 'uppercase', letterSpacing: 1 }}>
+          <div style={{ height: 1, background: colors.borderLight, margin: pad(spacing[8], spacing[16]) }} />
+          <div style={{ padding: pad(spacing[0], spacing[16], spacing[8]), fontSize: text['2xs'], fontWeight: 600, color: colors.textMuted, textTransform: 'uppercase', letterSpacing: 1 }}>
             All states
           </div>
           {allStates.map(([code, name]) => (
@@ -108,7 +108,7 @@ export function StateDropdown({ onSelect }: { onSelect: (code: string) => void }
               onClick={() => { onSelect(code); setOpen(false); }}
               onKeyDown={(e) => handleItemKeyDown(e, code)}
               style={{
-                padding: '8px 16px', cursor: 'pointer', fontSize: text.md, color: colors.textSecondary,
+                padding: pad(spacing[8], spacing[16]), cursor: 'pointer', fontSize: text.md, color: colors.textSecondary,
                 transition: 'background 0.1s',
               }}
               onMouseEnter={(e) => { e.currentTarget.style.background = colors.bgInfo; }}

@@ -2,7 +2,7 @@
 
 import { useState, useEffect } from 'react';
 import { useAuth } from '../../contexts/AuthContext';
-import { colors, text } from '../../lib/theme';
+import { colors, text, spacing, pad } from '../../lib/theme';
 
 interface Claim {
   id: number;
@@ -72,15 +72,15 @@ export default function AdminPage() {
 
   if (!isLoggedIn) {
     return (
-      <div style={{ maxWidth: 500, margin: '80px auto', padding: '0 24px', textAlign: 'center' }}>
-        <div style={{ fontSize: 32, marginBottom: 12 }}>🔒</div>
-        <h1 style={{ fontSize: 20, fontWeight: 700, color: colors.textPrimary, marginBottom: 8 }}>
+      <div style={{ maxWidth: 500, margin: '80px auto', padding: pad(0, spacing[24]), textAlign: 'center' }}>
+        <div style={{ fontSize: 32, marginBottom: spacing[12] }}>🔒</div>
+        <h1 style={{ fontSize: 20, fontWeight: 700, color: colors.textPrimary, marginBottom: spacing[8] }}>
           Admin sign-in required
         </h1>
         <button
           onClick={openAuth}
           style={{
-            fontSize: 14, fontWeight: 600, padding: '10px 24px',
+            fontSize: 14, fontWeight: 600, padding: pad(spacing[10], spacing[24]),
             background: colors.brand, color: colors.textInverse,
             border: 'none', borderRadius: 8, cursor: 'pointer',
           }}
@@ -93,9 +93,9 @@ export default function AdminPage() {
 
   if (error) {
     return (
-      <div style={{ maxWidth: 500, margin: '80px auto', padding: '0 24px', textAlign: 'center' }}>
-        <div style={{ fontSize: 32, marginBottom: 12 }}>🚫</div>
-        <h1 style={{ fontSize: 20, fontWeight: 700, color: colors.textPrimary, marginBottom: 8 }}>
+      <div style={{ maxWidth: 500, margin: '80px auto', padding: pad(0, spacing[24]), textAlign: 'center' }}>
+        <div style={{ fontSize: 32, marginBottom: spacing[12] }}>🚫</div>
+        <h1 style={{ fontSize: 20, fontWeight: 700, color: colors.textPrimary, marginBottom: spacing[8] }}>
           Access denied
         </h1>
         <p style={{ fontSize: 14, color: colors.textMuted }}>{error}</p>
@@ -104,11 +104,11 @@ export default function AdminPage() {
   }
 
   return (
-    <div style={{ maxWidth: 800, margin: '0 auto', padding: '40px 24px' }}>
-      <div style={{ marginBottom: 32 }}>
+    <div style={{ maxWidth: 800, margin: '0 auto', padding: pad(spacing[40], spacing[24]) }}>
+      <div style={{ marginBottom: spacing[32] }}>
         <div style={{
           fontSize: 10, fontWeight: 700, textTransform: 'uppercase', letterSpacing: 1.5,
-          color: colors.brandAccent, marginBottom: 8,
+          color: colors.brandAccent, marginBottom: spacing[8],
         }}>
           Admin
         </div>
@@ -118,13 +118,13 @@ export default function AdminPage() {
       </div>
 
       {/* Filter tabs */}
-      <div style={{ display: 'flex', gap: 8, marginBottom: 24 }}>
+      <div style={{ display: 'flex', gap: spacing[8], marginBottom: spacing[24] }}>
         {(['pending', 'approved', 'rejected'] as const).map(s => (
           <button
             key={s}
             onClick={() => setFilter(s)}
             style={{
-              fontSize: 13, fontWeight: 600, padding: '8px 16px',
+              fontSize: 13, fontWeight: 600, padding: pad(spacing[8], spacing[16]),
               borderRadius: 8, cursor: 'pointer',
               background: filter === s ? colors.textPrimary : colors.bgSubtle,
               color: filter === s ? colors.textInverse : colors.textMuted,
@@ -138,7 +138,7 @@ export default function AdminPage() {
       </div>
 
       {loading && (
-        <p style={{ fontSize: 14, color: colors.textMuted, textAlign: 'center', padding: 40 }}>
+        <p style={{ fontSize: 14, color: colors.textMuted, textAlign: 'center', padding: spacing[40] }}>
           Loading claims...
         </p>
       )}
@@ -154,7 +154,7 @@ export default function AdminPage() {
 
       {!loading && claims.map(claim => (
         <div key={claim.id} style={{
-          padding: '16px 20px', marginBottom: 10,
+          padding: pad(spacing[16], spacing[20]), marginBottom: spacing[10],
           background: colors.surface, border: `1px solid ${colors.borderDefault}`,
           borderRadius: 12,
         }}>
@@ -177,8 +177,8 @@ export default function AdminPage() {
             </div>
           </div>
 
-          <div style={{ marginTop: 12, padding: '10px 14px', background: colors.bgSubtle, borderRadius: 8 }}>
-            <div style={{ display: 'flex', gap: 16, fontSize: 13, color: colors.textSecondary }}>
+          <div style={{ marginTop: spacing[12], padding: pad(spacing[10], spacing[14]), background: colors.bgSubtle, borderRadius: 8 }}>
+            <div style={{ display: 'flex', gap: spacing[16], fontSize: 13, color: colors.textSecondary }}>
               <div><strong>Name:</strong> {claim.name}</div>
               <div><strong>Email:</strong> {claim.email}</div>
               {claim.role && <div><strong>Role:</strong> {claim.role}</div>}
@@ -189,12 +189,12 @@ export default function AdminPage() {
           </div>
 
           {claim.status === 'pending' && (
-            <div style={{ display: 'flex', gap: 8, marginTop: 12 }}>
+            <div style={{ display: 'flex', gap: spacing[8], marginTop: spacing[12] }}>
               <button
                 onClick={() => handleAction(claim.id, 'approve')}
                 disabled={processing === claim.id}
                 style={{
-                  flex: 1, fontSize: 13, fontWeight: 600, padding: '10px 16px',
+                  flex: 1, fontSize: 13, fontWeight: 600, padding: pad(spacing[10], spacing[16]),
                   background: colors.success, color: colors.textInverse,
                   border: 'none', borderRadius: 8, cursor: 'pointer',
                   opacity: processing === claim.id ? 0.6 : 1,
@@ -206,7 +206,7 @@ export default function AdminPage() {
                 onClick={() => handleAction(claim.id, 'reject')}
                 disabled={processing === claim.id}
                 style={{
-                  flex: 1, fontSize: 13, fontWeight: 600, padding: '10px 16px',
+                  flex: 1, fontSize: 13, fontWeight: 600, padding: pad(spacing[10], spacing[16]),
                   background: colors.bgError, color: colors.error,
                   border: `1px solid ${colors.error}`, borderRadius: 8, cursor: 'pointer',
                   opacity: processing === claim.id ? 0.6 : 1,
@@ -219,7 +219,7 @@ export default function AdminPage() {
                 target="_blank"
                 rel="noreferrer"
                 style={{
-                  fontSize: 13, fontWeight: 500, padding: '10px 16px',
+                  fontSize: 13, fontWeight: 500, padding: pad(spacing[10], spacing[16]),
                   color: colors.brand, background: colors.bgInfo,
                   border: `1px solid ${colors.brandLight}`, borderRadius: 8,
                   textDecoration: 'none', display: 'flex', alignItems: 'center',

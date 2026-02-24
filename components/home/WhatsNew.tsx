@@ -3,7 +3,7 @@
 import { useState, useEffect } from 'react';
 import { useRouter } from 'next/navigation';
 import { storage } from '../../lib/storage';
-import { colors, text, layout } from '../../lib/theme';
+import { colors, text, layout, spacing, pad } from '../../lib/theme';
 import { RinkData } from '../RinkCard';
 
 interface Change {
@@ -74,15 +74,15 @@ export function WhatsNew({ savedRinks }: { savedRinks: RinkData[] }) {
 
   return (
     <section aria-label="What's new at your rinks" style={{
-      maxWidth: layout.maxWidth5xl, margin: '0 auto', padding: '32px 24px 0',
+      maxWidth: layout.maxWidth5xl, margin: '0 auto', padding: pad(spacing[32], spacing[24], spacing[0]),
     }}>
       <div style={{
         display: 'flex', justifyContent: 'space-between', alignItems: 'center',
-        marginBottom: 12,
+        marginBottom: spacing[12],
       }}>
         <h3 style={{
           fontSize: 12, fontWeight: 500, color: colors.stone500,
-          textTransform: 'uppercase', letterSpacing: 1.5, margin: 0,
+          textTransform: 'uppercase', letterSpacing: 1.5, margin: spacing[0],
         }}>
           What&apos;s New
         </h3>
@@ -92,14 +92,14 @@ export function WhatsNew({ savedRinks }: { savedRinks: RinkData[] }) {
           style={{
             fontSize: 12, color: colors.textMuted,
             background: 'none', border: 'none',
-            cursor: 'pointer', padding: '4px 8px',
+            cursor: 'pointer', padding: pad(spacing[4], spacing[8]),
             lineHeight: 1,
           }}
         >
           ✕
         </button>
       </div>
-      <div style={{ display: 'flex', flexDirection: 'column', gap: 8 }}>
+      <div style={{ display: 'flex', flexDirection: 'column', gap: spacing[8] }}>
         {changes.map((change) => (
           <div
             key={change.rinkId}
@@ -109,20 +109,20 @@ export function WhatsNew({ savedRinks }: { savedRinks: RinkData[] }) {
             onKeyDown={(e) => { if (e.key === 'Enter' || e.key === ' ') { e.preventDefault(); router.push(`/rinks/${change.rinkId}`); } }}
             style={{
               display: 'flex', alignItems: 'center', justifyContent: 'space-between',
-              padding: '12px 18px', background: colors.surface,
+              padding: pad(spacing[12], spacing[18]), background: colors.surface,
               border: `1px solid ${colors.brandLight}`,
               borderRadius: 10, cursor: 'pointer', transition: 'border-color 0.15s',
             }}
             onMouseEnter={(e) => { e.currentTarget.style.borderColor = colors.brand; }}
             onMouseLeave={(e) => { e.currentTarget.style.borderColor = colors.brandLight; }}
           >
-            <div style={{ display: 'flex', alignItems: 'center', gap: 10 }}>
+            <div style={{ display: 'flex', alignItems: 'center', gap: spacing[10] }}>
               <span style={{ fontSize: 16 }}>🆕</span>
               <div>
                 <div style={{ fontSize: text.base, fontWeight: 600, color: colors.stone800 }}>
                   {change.rinkName}
                 </div>
-                <div style={{ fontSize: text.xs, color: colors.textMuted, marginTop: 1 }}>
+                <div style={{ fontSize: text.xs, color: colors.textMuted, marginTop: spacing[1] }}>
                   {change.delta} new contribution{change.delta !== 1 ? 's' : ''} since your last visit
                 </div>
               </div>

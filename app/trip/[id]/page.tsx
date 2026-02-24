@@ -10,7 +10,7 @@ import { useAuth } from '../../../contexts/AuthContext';
 import { getBarColor, getBarBg, getBarBorder, getVerdictColor } from '../../../lib/rinkHelpers';
 import { LoadingSkeleton } from '../../../components/LoadingSkeleton';
 import { generateBriefing } from '../../../lib/sentences';
-import { colors, text, radius, shadow } from '../../../lib/theme';
+import { colors, text, radius, shadow, spacing, pad } from '../../../lib/theme';
 import { generateICS, downloadICS } from '../../../lib/calendar';
 
 interface Game { id: string; day: string; time: string; opponent: string; sheet: string; note: string; }
@@ -188,10 +188,10 @@ export default function TripPage() {
   if (!trip) return (
     <div style={{ minHeight: '100vh', background: colors.bgPage, fontFamily: "-apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif", display: 'flex', alignItems: 'center', justifyContent: 'center' }}>
       <div style={{ textAlign: 'center' }}>
-        <div style={{ fontSize: 48, marginBottom: 16 }}>🏒</div>
+        <div style={{ fontSize: 48, marginBottom: spacing[16] }}>🏒</div>
         <h2 style={{ fontSize: 20, fontWeight: 700, color: colors.textPrimary, margin: 0 }}>Trip not found</h2>
-        <p style={{ fontSize: 14, color: colors.textTertiary, marginTop: 8 }}>This trip page may have been created on another device.</p>
-        <button onClick={() => router.push('/')} style={{ marginTop: 16, fontSize: 13, fontWeight: 600, color: colors.brand, background: colors.bgInfo, border: `1px solid ${colors.brandLight}`, borderRadius: 8, padding: '8px 16px', cursor: 'pointer' }}>Go to ColdStart Hockey →</button>
+        <p style={{ fontSize: 14, color: colors.textTertiary, marginTop: spacing[8] }}>This trip page may have been created on another device.</p>
+        <button onClick={() => router.push('/')} style={{ marginTop: spacing[16], fontSize: 13, fontWeight: 600, color: colors.brand, background: colors.bgInfo, border: `1px solid ${colors.brandLight}`, borderRadius: 8, padding: pad(spacing[8], spacing[16]), cursor: 'pointer' }}>Go to ColdStart Hockey →</button>
       </div>
     </div>
   );
@@ -209,13 +209,13 @@ export default function TripPage() {
   return (
     <div style={{ minHeight: '100vh', background: colors.bgPage, fontFamily: "-apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" }}>
       {/* Header */}
-      <header style={{ background: `linear-gradient(135deg, ${colors.brandDeep} 0%, ${colors.brand} 100%)`, padding: '32px 24px 28px', color: colors.textInverse }}>
+      <header style={{ background: `linear-gradient(135deg, ${colors.brandDeep} 0%, ${colors.brand} 100%)`, padding: pad(spacing[32], spacing[24], spacing[28]), color: colors.textInverse }}>
         <div style={{ maxWidth: 600, margin: '0 auto' }}>
-          <div style={{ fontSize: 12, fontWeight: 500, opacity: 0.8, marginBottom: 8 }}>GAME DAY INFO</div>
+          <div style={{ fontSize: 12, fontWeight: 500, opacity: 0.8, marginBottom: spacing[8] }}>GAME DAY INFO</div>
           <h1 style={{ fontSize: 'clamp(22px, 5vw, 30px)', fontWeight: 800, margin: 0, lineHeight: 1.2 }}>🏒 {trip.teamName}</h1>
-          <p style={{ fontSize: 16, fontWeight: 500, marginTop: 6, opacity: 0.9 }}>at {trip.rink.name}</p>
-          {trip.dates && <p style={{ fontSize: 14, marginTop: 4, opacity: 0.75 }}>📅 {trip.dates}</p>}
-          <div style={{ display: 'flex', gap: 8, marginTop: 16 }}>
+          <p style={{ fontSize: 16, fontWeight: 500, marginTop: spacing[6], opacity: 0.9 }}>at {trip.rink.name}</p>
+          {trip.dates && <p style={{ fontSize: 14, marginTop: spacing[4], opacity: 0.75 }}>📅 {trip.dates}</p>}
+          <div style={{ display: 'flex', gap: spacing[8], marginTop: spacing[16] }}>
             <button onClick={() => {
               const url = window.location.href;
               const text = `${trip.teamName} at ${trip.rink.name}${trip.dates ? ' — ' + trip.dates : ''}\n\nGame day info: ${url}`;
@@ -223,13 +223,13 @@ export default function TripPage() {
               getVibe().log('trip_share', { tripId, rinkId: trip.rink.id, method: canShare ? 'native' : 'clipboard' });
               if (canShare) { navigator.share({ title: `${trip.teamName} — Game Day`, text, url }).catch(() => {}); }
               else { const fallbackCopy = (t: string) => { if (navigator.clipboard?.writeText) return navigator.clipboard.writeText(t); const ta = document.createElement('textarea'); ta.value = t; ta.style.position = 'fixed'; ta.style.opacity = '0'; document.body.appendChild(ta); ta.select(); document.execCommand('copy'); document.body.removeChild(ta); return Promise.resolve(); }; fallbackCopy(text).then(() => { setShareCopied(true); setTimeout(() => setShareCopied(false), 2000); }).catch(() => {}); }
-            }} style={{ fontSize: 13, fontWeight: 600, color: colors.textInverse, background: 'rgba(255,255,255,0.15)', border: '1px solid rgba(255,255,255,0.25)', borderRadius: 8, padding: '8px 16px', cursor: 'pointer' }}>
+            }} style={{ fontSize: 13, fontWeight: 600, color: colors.textInverse, background: 'rgba(255,255,255,0.15)', border: '1px solid rgba(255,255,255,0.25)', borderRadius: 8, padding: pad(spacing[8], spacing[16]), cursor: 'pointer' }}>
               {shareCopied ? '✓ Copied!' : '📤 Share with team'}
             </button>
-            <button onClick={() => router.push(`/trip/new?edit=${tripId}`)} style={{ fontSize: 13, fontWeight: 600, color: colors.textInverse, background: 'rgba(255,255,255,0.1)', border: '1px solid rgba(255,255,255,0.2)', borderRadius: 8, padding: '8px 16px', cursor: 'pointer' }}>
+            <button onClick={() => router.push(`/trip/new?edit=${tripId}`)} style={{ fontSize: 13, fontWeight: 600, color: colors.textInverse, background: 'rgba(255,255,255,0.1)', border: '1px solid rgba(255,255,255,0.2)', borderRadius: 8, padding: pad(spacing[8], spacing[16]), cursor: 'pointer' }}>
               ✏️ Edit
             </button>
-            <button onClick={() => router.push('/trips')} style={{ fontSize: 13, fontWeight: 600, color: colors.textInverse, background: 'rgba(255,255,255,0.1)', border: '1px solid rgba(255,255,255,0.2)', borderRadius: 8, padding: '8px 16px', cursor: 'pointer' }}>
+            <button onClick={() => router.push('/trips')} style={{ fontSize: 13, fontWeight: 600, color: colors.textInverse, background: 'rgba(255,255,255,0.1)', border: '1px solid rgba(255,255,255,0.2)', borderRadius: 8, padding: pad(spacing[8], spacing[16]), cursor: 'pointer' }}>
               📁 My trips
             </button>
             {trip.games && trip.games.length > 0 && (() => {
@@ -239,7 +239,7 @@ export default function TripPage() {
                 <button onClick={() => {
                   const filename = `${trip.teamName.replace(/[^a-zA-Z0-9]/g, '_')}_games.ics`;
                   downloadICS(filename, ics);
-                }} style={{ fontSize: 13, fontWeight: 600, color: colors.textInverse, background: 'rgba(255,255,255,0.1)', border: '1px solid rgba(255,255,255,0.2)', borderRadius: 8, padding: '8px 16px', cursor: 'pointer' }}>
+                }} style={{ fontSize: 13, fontWeight: 600, color: colors.textInverse, background: 'rgba(255,255,255,0.1)', border: '1px solid rgba(255,255,255,0.2)', borderRadius: 8, padding: pad(spacing[8], spacing[16]), cursor: 'pointer' }}>
                   📅 Add to Calendar
                 </button>
               );
@@ -248,16 +248,16 @@ export default function TripPage() {
         </div>
       </header>
 
-      <main style={{ maxWidth: 600, margin: '0 auto', padding: '0 24px 60px' }}>
+      <main style={{ maxWidth: 600, margin: '0 auto', padding: pad(0, spacing[24], spacing[60]) }}>
 
         {/* ── Phase-aware banner ── */}
         {tripPhase === 'arriving' && !isGlancer && (
           <section style={{
             background: colors.bgInfo, border: `1px solid ${colors.brandLight}`,
-            borderRadius: 14, padding: '14px 18px', marginTop: -16, position: 'relative', zIndex: 6,
+            borderRadius: 14, padding: pad(spacing[14], spacing[18]), marginTop: -16, position: 'relative', zIndex: 6,
             boxShadow: shadow.lg,
           }}>
-            <div style={{ display: 'flex', alignItems: 'center', gap: 10 }}>
+            <div style={{ display: 'flex', alignItems: 'center', gap: spacing[10] }}>
               <span style={{ fontSize: 22 }}>🚗</span>
               <div>
                 <div style={{ fontSize: 14, fontWeight: 700, color: colors.brandDark }}>You&apos;re arriving!</div>
@@ -270,7 +270,7 @@ export default function TripPage() {
               const parking = summary.signals.find(s => s.signal === 'parking');
               if (!parking || parking.count === 0) return null;
               return (
-                <div style={{ marginTop: 10, padding: '8px 12px', background: getBarBg(parking.value, parking.count), borderRadius: 8, border: `1px solid ${getBarBorder(parking.value, parking.count)}`, fontSize: 13, fontWeight: 600, color: getBarColor(parking.value, parking.count) }}>
+                <div style={{ marginTop: spacing[10], padding: pad(spacing[8], spacing[12]), background: getBarBg(parking.value, parking.count), borderRadius: 8, border: `1px solid ${getBarBorder(parking.value, parking.count)}`, fontSize: 13, fontWeight: 600, color: getBarColor(parking.value, parking.count) }}>
                   🅿️ Parking: {parking.value >= 3.5 ? 'Easy' : parking.value >= 2.5 ? 'Tight' : 'Tough'} ({parking.value.toFixed(1)}/5)
                 </div>
               );
@@ -281,10 +281,10 @@ export default function TripPage() {
         {tripPhase === 'between_games' && !isGlancer && (
           <section style={{
             background: colors.bgWarning, border: `1px solid ${colors.warningBorder}`,
-            borderRadius: 14, padding: '14px 18px', marginTop: -16, position: 'relative', zIndex: 6,
+            borderRadius: 14, padding: pad(spacing[14], spacing[18]), marginTop: -16, position: 'relative', zIndex: 6,
             boxShadow: shadow.lg,
           }}>
-            <div style={{ display: 'flex', alignItems: 'center', gap: 10 }}>
+            <div style={{ display: 'flex', alignItems: 'center', gap: spacing[10] }}>
               <span style={{ fontSize: 22 }}>⏱️</span>
               <div>
                 <div style={{ fontSize: 14, fontWeight: 700, color: colors.amberDark }}>Between games</div>
@@ -299,10 +299,10 @@ export default function TripPage() {
         {tripPhase === 'leaving' && !isGlancer && !showRatePrompt && (
           <section style={{
             background: colors.bgSuccess, border: `1px solid ${colors.successBorder}`,
-            borderRadius: 14, padding: '14px 18px', marginTop: -16, position: 'relative', zIndex: 6,
+            borderRadius: 14, padding: pad(spacing[14], spacing[18]), marginTop: -16, position: 'relative', zIndex: 6,
             boxShadow: shadow.lg,
           }}>
-            <div style={{ display: 'flex', alignItems: 'center', gap: 10 }}>
+            <div style={{ display: 'flex', alignItems: 'center', gap: spacing[10] }}>
               <span style={{ fontSize: 22 }}>👋</span>
               <div>
                 <div style={{ fontSize: 14, fontWeight: 700, color: colors.success }}>Game over!</div>
@@ -312,7 +312,7 @@ export default function TripPage() {
             <button
               onClick={() => router.push(`/rinks/${trip?.rink.id}`)}
               style={{
-                marginTop: 10, width: '100%', padding: '10px 0', fontSize: 13, fontWeight: 700,
+                marginTop: spacing[10], width: '100%', padding: pad(spacing[10], 0), fontSize: 13, fontWeight: 700,
                 background: colors.success, color: colors.textInverse, border: 'none', borderRadius: 8, cursor: 'pointer',
               }}
             >
@@ -326,11 +326,11 @@ export default function TripPage() {
           <>
             <section style={{
               background: colors.surface, border: `1px solid ${colors.borderDefault}`, borderRadius: 14,
-              padding: 20, marginTop: -16, position: 'relative', zIndex: 5,
+              padding: spacing[20], marginTop: -16, position: 'relative', zIndex: 5,
               boxShadow: shadow.lg,
             }}>
               {/* Address */}
-              <div style={{ display: 'flex', alignItems: 'flex-start', gap: 10, marginBottom: 14 }}>
+              <div style={{ display: 'flex', alignItems: 'flex-start', gap: spacing[10], marginBottom: spacing[14] }}>
                 <span style={{ fontSize: 18 }}>📍</span>
                 <div>
                   <div style={{ fontSize: 15, fontWeight: 700, color: colors.textPrimary }}>{trip.rink.name}</div>
@@ -340,7 +340,7 @@ export default function TripPage() {
 
               {/* Next game time */}
               {hasGames && trip.games![0] && (
-                <div style={{ display: 'flex', alignItems: 'center', gap: 10, marginBottom: 14, padding: '10px 12px', background: colors.bgInfo, borderRadius: 10 }}>
+                <div style={{ display: 'flex', alignItems: 'center', gap: spacing[10], marginBottom: spacing[14], padding: pad(spacing[10], spacing[12]), background: colors.bgInfo, borderRadius: 10 }}>
                   <span style={{ fontSize: 18 }}>🕐</span>
                   <div>
                     <div style={{ fontSize: 15, fontWeight: 700, color: colors.textPrimary }}>
@@ -359,7 +359,7 @@ export default function TripPage() {
                 const parking = summary.signals.find(s => s.signal === 'parking');
                 if (!parking) return null;
                 return (
-                  <div style={{ display: 'flex', alignItems: 'center', gap: 10, padding: '10px 12px', background: getBarBg(parking.value, parking.count), borderRadius: 10, border: `1px solid ${getBarBorder(parking.value, parking.count)}` }}>
+                  <div style={{ display: 'flex', alignItems: 'center', gap: spacing[10], padding: pad(spacing[10], spacing[12]), background: getBarBg(parking.value, parking.count), borderRadius: 10, border: `1px solid ${getBarBorder(parking.value, parking.count)}` }}>
                     <span style={{ fontSize: 18 }}>🅿️</span>
                     <div>
                       <div style={{ fontSize: 14, fontWeight: 700, color: getBarColor(parking.value, parking.count) }}>
@@ -381,7 +381,7 @@ export default function TripPage() {
                 const note = sheetNotes[sheetKey];
                 if (!note) return null;
                 return (
-                  <div style={{ marginTop: 10, padding: '8px 12px', background: colors.bgInfo, borderRadius: 8, borderLeft: `3px solid ${colors.brandAccent}`, fontSize: 12, color: colors.brandDark }}>
+                  <div style={{ marginTop: spacing[10], padding: pad(spacing[8], spacing[12]), background: colors.bgInfo, borderRadius: 8, borderLeft: `3px solid ${colors.brandAccent}`, fontSize: 12, color: colors.brandDark }}>
                     🚪 <strong>Entrance:</strong> {note}
                   </div>
                 );
@@ -392,7 +392,7 @@ export default function TripPage() {
             <button
               onClick={() => setShowFullTrip(true)}
               style={{
-                width: '100%', marginTop: 12, padding: '12px 0',
+                width: '100%', marginTop: spacing[12], padding: pad(spacing[12], 0),
                 fontSize: 13, fontWeight: 600, color: colors.brand,
                 background: colors.bgInfo, border: `1px solid ${colors.brandLight}`,
                 borderRadius: 10, cursor: 'pointer',
@@ -402,7 +402,7 @@ export default function TripPage() {
             </button>
 
             {/* Soft CTA for conversion */}
-            <div style={{ textAlign: 'center', marginTop: 24 }}>
+            <div style={{ textAlign: 'center', marginTop: spacing[24] }}>
               <p style={{ fontSize: 12, color: colors.textMuted }}>
                 📍 Want rink intel for your next away game?{' '}
                 <button onClick={() => router.push('/')} style={{ color: colors.brand, cursor: 'pointer', fontWeight: 600, background: 'none', border: 'none', padding: 0, font: 'inherit' }}>See how ColdStart Hockey works →</button>
@@ -416,7 +416,7 @@ export default function TripPage() {
 
         {/* ── Post-trip rating prompt ── */}
         {showRatePrompt && !rateSubmitted && (
-          <section style={{ background: colors.bgWarning, border: `1px solid ${colors.warningBorder}`, borderRadius: 14, padding: 16, marginTop: -16, position: 'relative', zIndex: 5, boxShadow: shadow.lg }}>
+          <section style={{ background: colors.bgWarning, border: `1px solid ${colors.warningBorder}`, borderRadius: 14, padding: spacing[16], marginTop: -16, position: 'relative', zIndex: 5, boxShadow: shadow.lg }}>
             <div style={{ display: 'flex', alignItems: 'center', justifyContent: 'space-between' }}>
               <div>
                 <div style={{ fontSize: 14, fontWeight: 700, color: colors.amberDark }}>How was {trip.rink.name}?</div>
@@ -425,7 +425,7 @@ export default function TripPage() {
               <button onClick={() => dismissRatePrompt()} style={{ fontSize: 11, color: colors.textMuted, background: 'none', border: 'none', cursor: 'pointer' }}>Dismiss</button>
             </div>
             <button onClick={() => { dismissRatePrompt(); router.push(`/rinks/${trip.rink.id}`); }} style={{
-              marginTop: 10, width: '100%', padding: '10px 0', fontSize: 13, fontWeight: 700,
+              marginTop: spacing[10], width: '100%', padding: pad(spacing[10], 0), fontSize: 13, fontWeight: 700,
               background: colors.warning, color: colors.textInverse, border: 'none', borderRadius: 8, cursor: 'pointer',
             }}>
               ⭐ Rate {trip.rink.name} →
@@ -435,26 +435,26 @@ export default function TripPage() {
 
         {/* ── Rink Verdict Card ── */}
         {summary && (
-          <section style={{ background: colors.surface, border: `1px solid ${colors.borderDefault}`, borderRadius: 14, padding: 20, marginTop: showRatePrompt && !rateSubmitted ? 12 : -16, position: 'relative', boxShadow: shadow.lg }}>
-            <div style={{ display: 'flex', alignItems: 'center', justifyContent: 'space-between', marginBottom: 12 }}>
+          <section style={{ background: colors.surface, border: `1px solid ${colors.borderDefault}`, borderRadius: 14, padding: spacing[20], marginTop: showRatePrompt && !rateSubmitted ? spacing[12] : -16, position: 'relative', boxShadow: shadow.lg }}>
+            <div style={{ display: 'flex', alignItems: 'center', justifyContent: 'space-between', marginBottom: spacing[12] }}>
               <div>
                 <div style={{ fontSize: 11, fontWeight: 600, color: colors.textMuted, textTransform: 'uppercase', letterSpacing: 1 }}>Rink report</div>
                 <div style={{ fontSize: 16, fontWeight: 700, color: getVerdictColor(summary.verdict), marginTop: 4 }}>{summary.verdict}</div>
               </div>
-              <button onClick={() => router.push(`/rinks/${trip.rink.id}`)} style={{ fontSize: 11, fontWeight: 600, color: colors.brand, background: colors.bgInfo, border: `1px solid ${colors.brandLight}`, borderRadius: 6, padding: '4px 10px', cursor: 'pointer' }}>Full report →</button>
+              <button onClick={() => router.push(`/rinks/${trip.rink.id}`)} style={{ fontSize: 11, fontWeight: 600, color: colors.brand, background: colors.bgInfo, border: `1px solid ${colors.brandLight}`, borderRadius: 6, padding: pad(spacing[4], spacing[10]), cursor: 'pointer' }}>Full report →</button>
             </div>
-            <div style={{ display: 'flex', flexWrap: 'wrap', gap: 8 }}>
+            <div style={{ display: 'flex', flexWrap: 'wrap', gap: spacing[8] }}>
               {topSignals.map(sig => {
                 const meta = SIGNAL_META[sig.signal] || { label: sig.signal, icon: '' };
                 return (
-                  <div key={sig.signal} style={{ padding: '6px 10px', borderRadius: 8, background: getBarBg(sig.value, sig.count), border: `1px solid ${getBarBorder(sig.value, sig.count)}`, fontSize: 12 }}>
+                  <div key={sig.signal} style={{ padding: pad(spacing[6], spacing[10]), borderRadius: 8, background: getBarBg(sig.value, sig.count), border: `1px solid ${getBarBorder(sig.value, sig.count)}`, fontSize: 12 }}>
                     <span>{meta.icon}</span> <span style={{ fontWeight: 600, color: getBarColor(sig.value, sig.count) }}>{sig.value.toFixed(1)}</span> <span style={{ color: colors.textTertiary }}>{meta.label}</span>
                   </div>
                 );
               })}
             </div>
             {summary.tips?.[0] && (
-              <div style={{ marginTop: 12, padding: '8px 12px', background: colors.bgInfo, borderRadius: 8, borderLeft: `3px solid ${colors.brand}`, fontSize: 12, color: colors.textSecondary, fontStyle: 'italic' }}>
+              <div style={{ marginTop: spacing[12], padding: pad(spacing[8], spacing[12]), background: colors.bgInfo, borderRadius: 8, borderLeft: `3px solid ${colors.brand}`, fontSize: 12, color: colors.textSecondary, fontStyle: 'italic' }}>
                 💡 &ldquo;{summary.tips[0].text}&rdquo;
               </div>
             )}
@@ -465,9 +465,9 @@ export default function TripPage() {
         {summary && summary.signals.some(s => s.count > 0) && (
           <section style={{
             background: colors.bgInfo, border: `1px solid ${colors.brandLight}`,
-            borderRadius: 14, padding: '16px 20px', marginTop: 16,
+            borderRadius: 14, padding: pad(spacing[16], spacing[20]), marginTop: spacing[16],
           }}>
-            <div style={{ display: 'flex', alignItems: 'center', justifyContent: 'space-between', marginBottom: 8 }}>
+            <div style={{ display: 'flex', alignItems: 'center', justifyContent: 'space-between', marginBottom: spacing[8] }}>
               <div style={{ fontSize: 11, fontWeight: 600, color: colors.brandDark, textTransform: 'uppercase', letterSpacing: 1 }}>
                 Team briefing
               </div>
@@ -493,7 +493,7 @@ export default function TripPage() {
                 style={{
                   fontSize: 11, fontWeight: 600, color: briefingCopied ? colors.success : colors.brand,
                   background: 'none', border: `1px solid ${briefingCopied ? colors.successBorder : colors.brandLight}`,
-                  borderRadius: 6, padding: '3px 10px', cursor: 'pointer',
+                  borderRadius: 6, padding: pad(spacing[3], spacing[10]), cursor: 'pointer',
                 }}
               >
                 {briefingCopied ? '✓ Copied!' : '📋 Copy'}
@@ -517,15 +517,15 @@ export default function TripPage() {
 
         {/* ── Game Schedule ── */}
         {hasGames && (
-          <section style={{ background: colors.surface, border: `1px solid ${colors.borderDefault}`, borderRadius: 14, padding: 20, marginTop: 16 }}>
+          <section style={{ background: colors.surface, border: `1px solid ${colors.borderDefault}`, borderRadius: 14, padding: spacing[20], marginTop: spacing[16] }}>
             <h3 style={{ fontSize: 13, fontWeight: 600, color: colors.textMuted, textTransform: 'uppercase', letterSpacing: 1, margin: 0 }}>🕐 Game schedule</h3>
-            <div style={{ marginTop: 12, display: 'flex', flexDirection: 'column', gap: 10 }}>
+            <div style={{ marginTop: spacing[12], display: 'flex', flexDirection: 'column', gap: spacing[10] }}>
               {trip.games!.map((game, i) => {
                 const sheetKey = game.sheet ? (game.sheet.startsWith('Rink') ? game.sheet : `Rink ${game.sheet}`) : '';
                 const entranceNote = sheetKey ? sheetNotes[sheetKey] : null;
                 return (
-                  <div key={i} style={{ padding: '10px 12px', background: colors.bgSubtle, borderRadius: 10, border: `1px solid ${colors.borderLight}` }}>
-                    <div style={{ display: 'flex', alignItems: 'center', gap: 12 }}>
+                  <div key={i} style={{ padding: pad(spacing[10], spacing[12]), background: colors.bgSubtle, borderRadius: 10, border: `1px solid ${colors.borderLight}` }}>
+                    <div style={{ display: 'flex', alignItems: 'center', gap: spacing[12] }}>
                       <div style={{ minWidth: 52, textAlign: 'center' }}>
                         {game.day && <div style={{ fontSize: 11, fontWeight: 700, color: colors.textTertiary, textTransform: 'uppercase' }}>{game.day}</div>}
                         <div style={{ fontSize: 14, fontWeight: 700, color: colors.textPrimary }}>{game.time || 'TBD'}</div>
@@ -541,7 +541,7 @@ export default function TripPage() {
                     </div>
                     {/* Entrance note for multi-sheet rinks */}
                     {entranceNote && (
-                      <div style={{ marginTop: 8, padding: '6px 10px', background: colors.bgInfo, border: `1px solid ${colors.brandLight}`, borderRadius: 6, fontSize: 11, color: colors.brandDark }}>
+                      <div style={{ marginTop: spacing[8], padding: pad(spacing[6], spacing[10]), background: colors.bgInfo, border: `1px solid ${colors.brandLight}`, borderRadius: 6, fontSize: 11, color: colors.brandDark }}>
                         🚪 <strong>Entrance tip:</strong> {entranceNote}
                       </div>
                     )}
@@ -554,32 +554,32 @@ export default function TripPage() {
 
         {/* Fallback: old plain text gameTimes */}
         {!hasGames && trip.gameTimes && (
-          <section style={{ background: colors.surface, border: `1px solid ${colors.borderDefault}`, borderRadius: 14, padding: 20, marginTop: 16 }}>
+          <section style={{ background: colors.surface, border: `1px solid ${colors.borderDefault}`, borderRadius: 14, padding: spacing[20], marginTop: spacing[16] }}>
             <h3 style={{ fontSize: 13, fontWeight: 600, color: colors.textMuted, textTransform: 'uppercase', letterSpacing: 1, margin: 0 }}>🕐 Game times</h3>
-            <div style={{ marginTop: 12, fontSize: 14, color: colors.textPrimary, lineHeight: 1.8, whiteSpace: 'pre-line' }}>{trip.gameTimes}</div>
+            <div style={{ marginTop: spacing[12], fontSize: 14, color: colors.textPrimary, lineHeight: 1.8, whiteSpace: 'pre-line' }}>{trip.gameTimes}</div>
           </section>
         )}
 
         {/* ── Lodging & Food (consolidated) ── */}
         {(trip.hotel || trip.lunch || trip.dinner) && (
-          <section style={{ background: colors.surface, border: `1px solid ${colors.borderDefault}`, borderRadius: 14, padding: 20, marginTop: 16 }}>
+          <section style={{ background: colors.surface, border: `1px solid ${colors.borderDefault}`, borderRadius: 14, padding: spacing[20], marginTop: spacing[16] }}>
             <h3 style={{ fontSize: 13, fontWeight: 600, color: colors.textMuted, textTransform: 'uppercase', letterSpacing: 1, margin: 0 }}>🏨 Lodging & food</h3>
             {trip.hotel && (
-              <div style={{ marginTop: 12 }}>
+              <div style={{ marginTop: spacing[12] }}>
                 <div style={{ fontSize: 11, fontWeight: 600, color: colors.textTertiary }}>WHERE WE&apos;RE STAYING</div>
                 <p style={{ fontSize: 14, color: colors.textPrimary, marginTop: 4, lineHeight: 1.5, margin: 0 }}>{trip.hotel}</p>
                 {trip.hotelCost && <p style={{ fontSize: 12, color: colors.success, fontWeight: 600, marginTop: 2, margin: 0 }}>💲 {trip.hotelCost}</p>}
               </div>
             )}
             {trip.lunch && (
-              <div style={{ marginTop: 14, paddingTop: 12, borderTop: `1px solid ${colors.borderLight}` }}>
+              <div style={{ marginTop: spacing[14], paddingTop: spacing[12], borderTop: `1px solid ${colors.borderLight}` }}>
                 <div style={{ fontSize: 11, fontWeight: 600, color: colors.textTertiary }}>LUNCH</div>
                 <p style={{ fontSize: 14, color: colors.textPrimary, marginTop: 4, margin: 0 }}>{trip.lunch}</p>
                 {trip.lunchCost && <p style={{ fontSize: 12, color: colors.success, fontWeight: 600, marginTop: 2, margin: 0 }}>💲 {trip.lunchCost}</p>}
               </div>
             )}
             {trip.dinner && (
-              <div style={{ marginTop: 14, paddingTop: 12, borderTop: `1px solid ${colors.borderLight}` }}>
+              <div style={{ marginTop: spacing[14], paddingTop: spacing[12], borderTop: `1px solid ${colors.borderLight}` }}>
                 <div style={{ fontSize: 11, fontWeight: 600, color: colors.textTertiary }}>DINNER</div>
                 <p style={{ fontSize: 14, color: colors.textPrimary, marginTop: 4, margin: 0 }}>{trip.dinner}</p>
                 {trip.dinnerCost && <p style={{ fontSize: 12, color: colors.success, fontWeight: 600, marginTop: 2, margin: 0 }}>💲 {trip.dinnerCost}</p>}
@@ -590,12 +590,12 @@ export default function TripPage() {
 
         {/* ── Cost Breakdown ── */}
         {hasCosts && (
-          <section style={{ background: colors.bgSuccess, border: `1px solid ${colors.successBorder}`, borderRadius: 14, padding: 20, marginTop: 16 }}>
+          <section style={{ background: colors.bgSuccess, border: `1px solid ${colors.successBorder}`, borderRadius: 14, padding: spacing[20], marginTop: spacing[16] }}>
             <div style={{ display: 'flex', alignItems: 'center', justifyContent: 'space-between' }}>
               <h3 style={{ fontSize: 13, fontWeight: 600, color: colors.success, textTransform: 'uppercase', letterSpacing: 1, margin: 0 }}>💰 Cost breakdown</h3>
               <span style={{ fontSize: 11, color: colors.textTertiary }}>{families} families</span>
             </div>
-            <div style={{ marginTop: 12, display: 'flex', flexDirection: 'column', gap: 6 }}>
+            <div style={{ marginTop: spacing[12], display: 'flex', flexDirection: 'column', gap: spacing[6] }}>
               {trip.costItems!.map((item, i) => {
                 const amt = parseFloat(item.amount) || 0;
                 const perFamily = item.splitType === 'total' ? Math.ceil((amt / families) * 100) / 100 : amt;
@@ -611,7 +611,7 @@ export default function TripPage() {
                 );
               })}
             </div>
-            <div style={{ marginTop: 12, padding: '12px 14px', background: colors.bgSuccess, borderRadius: 10, display: 'flex', justifyContent: 'space-between', alignItems: 'center' }}>
+            <div style={{ marginTop: spacing[12], padding: pad(spacing[12], spacing[14]), background: colors.bgSuccess, borderRadius: 10, display: 'flex', justifyContent: 'space-between', alignItems: 'center' }}>
               <span style={{ fontSize: 14, fontWeight: 700, color: colors.textPrimary }}>Total per family</span>
               <span style={{ fontSize: 20, fontWeight: 800, color: colors.success }}>
                 ${trip.costItems!.reduce((sum, item) => {
@@ -625,8 +625,8 @@ export default function TripPage() {
 
         {/* ── Notes — compact amber callout ── */}
         {trip.notes && (
-          <section style={{ background: colors.bgWarning, border: `1px solid ${colors.warningBorder}`, borderRadius: 10, padding: '12px 16px', marginTop: 12 }}>
-            <div style={{ display: 'flex', gap: 8, alignItems: 'flex-start' }}>
+          <section style={{ background: colors.bgWarning, border: `1px solid ${colors.warningBorder}`, borderRadius: 10, padding: pad(spacing[12], spacing[16]), marginTop: spacing[12] }}>
+            <div style={{ display: 'flex', gap: spacing[8], alignItems: 'flex-start' }}>
               <span style={{ fontSize: 14, flexShrink: 0, marginTop: 1 }}>📝</span>
               <p style={{ fontSize: 13, color: colors.amberDark, lineHeight: 1.5, margin: 0 }}>{trip.notes}</p>
             </div>
@@ -635,12 +635,12 @@ export default function TripPage() {
 
         {/* ── Team additions ── */}
         {trip.additions && trip.additions.length > 0 && (
-          <section style={{ background: colors.surface, border: `1px solid ${colors.borderDefault}`, borderRadius: 14, padding: 20, marginTop: 16 }}>
+          <section style={{ background: colors.surface, border: `1px solid ${colors.borderDefault}`, borderRadius: 14, padding: spacing[20], marginTop: spacing[16] }}>
             <h3 style={{ fontSize: 14, fontWeight: 700, color: colors.textSecondary, margin: 0 }}>👥 From the team <span style={{ fontSize: 12, fontWeight: 500, color: colors.textMuted }}>({trip.additions.length} contribution{trip.additions.length !== 1 ? 's' : ''})</span></h3>
-            <div style={{ marginTop: 12, display: 'flex', flexDirection: 'column', gap: 8 }}>
+            <div style={{ marginTop: spacing[12], display: 'flex', flexDirection: 'column', gap: spacing[8] }}>
               {trip.additions.map((a, i) => (
-                <div key={i} style={{ padding: '10px 12px', background: colors.bgSubtle, borderRadius: 10, border: `1px solid ${colors.borderLight}` }}>
-                  <div style={{ display: 'flex', alignItems: 'center', gap: 8 }}>
+                <div key={i} style={{ padding: pad(spacing[10], spacing[12]), background: colors.bgSubtle, borderRadius: 10, border: `1px solid ${colors.borderLight}` }}>
+                  <div style={{ display: 'flex', alignItems: 'center', gap: spacing[8] }}>
                     {/* Contributor avatar */}
                     <div style={{ width: 24, height: 24, borderRadius: '50%', background: colors.bgInfo, display: 'flex', alignItems: 'center', justifyContent: 'center', fontSize: text['2xs'], fontWeight: 700, color: colors.brandDark, flexShrink: 0 }}>
                       {(a.addedBy || '?').split(' ').map((n: string) => n[0]).join('').toUpperCase().slice(0, 2)}
@@ -660,23 +660,23 @@ export default function TripPage() {
 
         {/* ── Add to trip ── */}
         {trip.collaborative !== false && (
-          <section style={{ marginTop: 16 }}>
+          <section style={{ marginTop: spacing[16] }}>
             {!showAddForm ? (
-              <button onClick={() => setShowAddForm(true)} style={{ width: '100%', padding: '14px 0', fontSize: 14, fontWeight: 600, color: colors.brand, background: colors.bgInfo, border: `1px dashed ${colors.brandLight}`, borderRadius: 12, cursor: 'pointer' }}>
+              <button onClick={() => setShowAddForm(true)} style={{ width: '100%', padding: pad(spacing[14], 0), fontSize: 14, fontWeight: 600, color: colors.brand, background: colors.bgInfo, border: `1px dashed ${colors.brandLight}`, borderRadius: 12, cursor: 'pointer' }}>
                 + Add a restaurant, tip, or note for the team
               </button>
             ) : (
-              <div style={{ background: colors.surface, border: `1px solid ${colors.borderDefault}`, borderRadius: 14, padding: 16 }}>
-                <div style={{ display: 'flex', gap: 6, marginBottom: 12 }}>
+              <div style={{ background: colors.surface, border: `1px solid ${colors.borderDefault}`, borderRadius: 14, padding: spacing[16] }}>
+                <div style={{ display: 'flex', gap: spacing[6], marginBottom: spacing[12] }}>
                   {(['restaurant', 'tip', 'note'] as const).map(t => (
-                    <button key={t} onClick={() => setAddType(t)} style={{ fontSize: 12, fontWeight: 600, padding: '5px 12px', borderRadius: 8, background: addType === t ? colors.textPrimary : colors.borderLight, color: addType === t ? colors.textInverse : colors.textTertiary, border: 'none', cursor: 'pointer', textTransform: 'capitalize' }}>{t === 'restaurant' ? '🍴 Restaurant' : t === 'tip' ? '💡 Tip' : '📝 Note'}</button>
+                    <button key={t} onClick={() => setAddType(t)} style={{ fontSize: 12, fontWeight: 600, padding: pad(spacing[5], spacing[12]), borderRadius: 8, background: addType === t ? colors.textPrimary : colors.borderLight, color: addType === t ? colors.textInverse : colors.textTertiary, border: 'none', cursor: 'pointer', textTransform: 'capitalize' }}>{t === 'restaurant' ? '🍴 Restaurant' : t === 'tip' ? '💡 Tip' : '📝 Note'}</button>
                   ))}
                 </div>
-                <input value={addText} onChange={(e) => setAddText(e.target.value)} placeholder={addType === 'restaurant' ? 'Restaurant name and location' : addType === 'tip' ? 'Your tip for the team' : 'Your note'} style={{ width: '100%', padding: '10px 14px', fontSize: 14, border: `1px solid ${colors.borderMedium}`, borderRadius: 10, outline: 'none', boxSizing: 'border-box' }} />
-                {addType === 'restaurant' && <input value={addCost} onChange={(e) => setAddCost(e.target.value)} placeholder="💲 Cost (e.g. ~$15/person)" style={{ width: '100%', padding: '8px 14px', fontSize: 13, border: `1px solid ${colors.borderMedium}`, borderRadius: 10, outline: 'none', boxSizing: 'border-box', marginTop: 6 }} />}
-                <div style={{ display: 'flex', gap: 8, justifyContent: 'flex-end', marginTop: 10 }}>
-                  <button onClick={() => { setShowAddForm(false); setAddText(''); setAddCost(''); }} style={{ fontSize: 13, color: colors.textTertiary, background: 'none', border: `1px solid ${colors.borderDefault}`, borderRadius: 8, padding: '6px 14px', cursor: 'pointer' }}>Cancel</button>
-                  <button onClick={submitAddition} disabled={!addText.trim()} style={{ fontSize: 13, fontWeight: 600, color: colors.textInverse, background: addText.trim() ? colors.textPrimary : colors.textDisabled, border: 'none', borderRadius: 8, padding: '6px 14px', cursor: 'pointer' }}>Add</button>
+                <input value={addText} onChange={(e) => setAddText(e.target.value)} placeholder={addType === 'restaurant' ? 'Restaurant name and location' : addType === 'tip' ? 'Your tip for the team' : 'Your note'} style={{ width: '100%', padding: pad(spacing[10], spacing[14]), fontSize: 14, border: `1px solid ${colors.borderMedium}`, borderRadius: 10, outline: 'none', boxSizing: 'border-box' }} />
+                {addType === 'restaurant' && <input value={addCost} onChange={(e) => setAddCost(e.target.value)} placeholder="💲 Cost (e.g. ~$15/person)" style={{ width: '100%', padding: pad(spacing[8], spacing[14]), fontSize: 13, border: `1px solid ${colors.borderMedium}`, borderRadius: 10, outline: 'none', boxSizing: 'border-box', marginTop: spacing[6] }} />}
+                <div style={{ display: 'flex', gap: spacing[8], justifyContent: 'flex-end', marginTop: spacing[10] }}>
+                  <button onClick={() => { setShowAddForm(false); setAddText(''); setAddCost(''); }} style={{ fontSize: 13, color: colors.textTertiary, background: 'none', border: `1px solid ${colors.borderDefault}`, borderRadius: 8, padding: pad(spacing[6], spacing[14]), cursor: 'pointer' }}>Cancel</button>
+                  <button onClick={submitAddition} disabled={!addText.trim()} style={{ fontSize: 13, fontWeight: 600, color: colors.textInverse, background: addText.trim() ? colors.textPrimary : colors.textDisabled, border: 'none', borderRadius: 8, padding: pad(spacing[6], spacing[14]), cursor: 'pointer' }}>Add</button>
                 </div>
               </div>
             )}
@@ -684,13 +684,13 @@ export default function TripPage() {
         )}
 
         {/* ── Delete trip ── */}
-        <section style={{ marginTop: 24, textAlign: 'center' }}>
+        <section style={{ marginTop: spacing[24], textAlign: 'center' }}>
           {!showDeleteConfirm ? (
             <button
               onClick={() => setShowDeleteConfirm(true)}
               style={{
                 fontSize: 12, color: colors.error, background: 'none',
-                border: 'none', cursor: 'pointer', padding: '8px 16px',
+                border: 'none', cursor: 'pointer', padding: pad(spacing[8], spacing[16]),
                 opacity: 0.7,
               }}
             >
@@ -699,7 +699,7 @@ export default function TripPage() {
           ) : (
             <div style={{
               background: colors.bgError, border: `1px solid ${colors.error}`,
-              borderRadius: 12, padding: 16, textAlign: 'left',
+              borderRadius: 12, padding: spacing[16], textAlign: 'left',
             }}>
               <p style={{ fontSize: 13, fontWeight: 600, color: colors.error, margin: 0 }}>
                 Delete this trip?
@@ -707,13 +707,13 @@ export default function TripPage() {
               <p style={{ fontSize: 12, color: colors.textTertiary, marginTop: 6, marginBottom: 0 }}>
                 Anyone with the shared link will see &ldquo;Trip not found&rdquo;.
               </p>
-              <div style={{ display: 'flex', gap: 8, justifyContent: 'flex-end', marginTop: 12 }}>
+              <div style={{ display: 'flex', gap: spacing[8], justifyContent: 'flex-end', marginTop: spacing[12] }}>
                 <button
                   onClick={() => setShowDeleteConfirm(false)}
                   style={{
                     fontSize: 13, color: colors.textTertiary, background: 'none',
                     border: `1px solid ${colors.borderDefault}`, borderRadius: 8,
-                    padding: '6px 14px', cursor: 'pointer',
+                    padding: pad(spacing[6], spacing[14]), cursor: 'pointer',
                   }}
                 >
                   Cancel
@@ -729,7 +729,7 @@ export default function TripPage() {
                   style={{
                     fontSize: 13, fontWeight: 600, color: colors.textInverse,
                     background: colors.error, border: 'none', borderRadius: 8,
-                    padding: '6px 14px', cursor: 'pointer',
+                    padding: pad(spacing[6], spacing[14]), cursor: 'pointer',
                   }}
                 >
                   Yes, delete
@@ -743,7 +743,7 @@ export default function TripPage() {
         </>)}
 
         {/* Footer */}
-        <footer style={{ marginTop: 32, textAlign: 'center' }}>
+        <footer style={{ marginTop: spacing[32], textAlign: 'center' }}>
           <p style={{ fontSize: 12, color: colors.textMuted }}>Built with <button onClick={() => router.push('/')} style={{ color: colors.brand, cursor: 'pointer', fontWeight: 600, background: 'none', border: 'none', padding: 0, font: 'inherit' }}>ColdStart Hockey</button> — rink intel from hockey parents</p>
         </footer>
       </main>

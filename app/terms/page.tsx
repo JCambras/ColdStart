@@ -1,13 +1,13 @@
 import { Metadata } from 'next';
 import { PageShell } from '../../components/PageShell';
-import { colors, text } from '../../lib/theme';
+import { colors, text, spacing } from '../../lib/theme';
 
 export const metadata: Metadata = {
   title: 'Terms of Service — ColdStart Hockey',
 };
 
 const S = ({ children }: { children: React.ReactNode }) => (
-  <section style={{ marginBottom: 28 }}>{children}</section>
+  <section style={{ marginBottom: spacing[28] }}>{children}</section>
 );
 const H = ({ children }: { children: React.ReactNode }) => (
   <h2 style={{ fontSize: 16, fontWeight: 700, color: colors.textPrimary, margin: '0 0 8px' }}>{children}</h2>

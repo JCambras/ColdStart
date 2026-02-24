@@ -5,7 +5,7 @@ import { RinkSummary } from '../../lib/rinkTypes';
 import { apiPost } from '../../lib/api';
 import { storage } from '../../lib/storage';
 import { useAuth } from '../../contexts/AuthContext';
-import { colors } from '../../lib/theme';
+import { colors, spacing, pad } from '../../lib/theme';
 
 interface QuickTipInputProps {
   rinkId: string;
@@ -64,7 +64,7 @@ export function QuickTipInput({ rinkId, onSummaryUpdate }: QuickTipInputProps) {
 
   if (success) {
     return (
-      <div style={{ display: 'flex', alignItems: 'center', gap: 8, padding: '4px 0' }}>
+      <div style={{ display: 'flex', alignItems: 'center', gap: spacing[8], padding: pad(spacing[4], spacing[0]) }}>
         <span style={{ fontSize: 16 }}>✓</span>
         <span style={{ fontSize: 13, fontWeight: 600, color: colors.success, flex: 1 }}>Tip added — thanks!</span>
         <button
@@ -72,7 +72,7 @@ export function QuickTipInput({ rinkId, onSummaryUpdate }: QuickTipInputProps) {
           aria-label="Dismiss"
           style={{
             fontSize: 16, color: colors.textMuted, background: 'none',
-            border: 'none', cursor: 'pointer', padding: '2px 6px',
+            border: 'none', cursor: 'pointer', padding: pad(spacing[2], spacing[6]),
             lineHeight: 1,
           }}
         >
@@ -83,13 +83,13 @@ export function QuickTipInput({ rinkId, onSummaryUpdate }: QuickTipInputProps) {
   }
 
   return (
-    <div style={{ display: 'flex', flexDirection: 'column', gap: 6 }}>
+    <div style={{ display: 'flex', flexDirection: 'column', gap: spacing[6] }}>
       {error && (
         <div style={{ fontSize: 11, color: colors.error }}>
           Couldn&apos;t save — try again
         </div>
       )}
-    <div style={{ display: 'flex', gap: 10, alignItems: 'center' }}>
+    <div style={{ display: 'flex', gap: spacing[10], alignItems: 'center' }}>
       <span style={{ fontSize: 18, flexShrink: 0 }}>💬</span>
       <input
         value={text}
@@ -99,7 +99,7 @@ export function QuickTipInput({ rinkId, onSummaryUpdate }: QuickTipInputProps) {
         aria-label="Add a tip about this rink"
         onKeyDown={(e) => { if (e.key === 'Enter') submit(); }}
         style={{
-          flex: 1, fontSize: 14, padding: '10px 14px',
+          flex: 1, fontSize: 14, padding: pad(spacing[10], spacing[14]),
           border: `1px solid ${colors.borderDefault}`, borderRadius: 10,
           outline: 'none', fontFamily: 'inherit', color: colors.textPrimary,
           transition: 'border-color 0.2s',
@@ -114,7 +114,7 @@ export function QuickTipInput({ rinkId, onSummaryUpdate }: QuickTipInputProps) {
           fontSize: 13, fontWeight: 600,
           color: text.trim() ? colors.textInverse : colors.textMuted,
           background: text.trim() ? colors.textPrimary : colors.borderDefault,
-          border: 'none', borderRadius: 10, padding: '10px 18px',
+          border: 'none', borderRadius: 10, padding: pad(spacing[10], spacing[18]),
           cursor: 'pointer', whiteSpace: 'nowrap',
           transition: 'all 0.2s', opacity: submitting ? 0.5 : 1,
         }}

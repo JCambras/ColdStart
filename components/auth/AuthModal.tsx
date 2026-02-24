@@ -4,7 +4,7 @@ import { useState, useEffect } from 'react';
 import { signIn } from 'next-auth/react';
 import { Logo } from '../Logo';
 import { UserProfile } from '../../lib/rinkTypes';
-import { colors, text, radius } from '../../lib/theme';
+import { colors, text, radius, spacing, pad } from '../../lib/theme';
 
 interface AuthModalProps {
   isOpen: boolean;
@@ -102,7 +102,7 @@ export function AuthModal({ isOpen, onClose, onSuccess }: AuthModalProps) {
 
   const socialButtonStyle: React.CSSProperties = {
     width: '100%',
-    padding: '10px 0',
+    padding: pad(spacing[10], spacing[0]),
     fontSize: text.base,
     fontWeight: 600,
     background: colors.surface,
@@ -113,7 +113,7 @@ export function AuthModal({ isOpen, onClose, onSuccess }: AuthModalProps) {
     display: 'flex',
     alignItems: 'center',
     justifyContent: 'center',
-    gap: 8,
+    gap: spacing[8],
     transition: 'all 0.15s',
   };
 
@@ -125,36 +125,36 @@ export function AuthModal({ isOpen, onClose, onSuccess }: AuthModalProps) {
       onClick={onClose}
       onKeyDown={(e) => { if (e.key === 'Escape') onClose(); }}
       style={{
-        position: 'fixed', top: 0, left: 0, right: 0, bottom: 0,
+        position: 'fixed', top: spacing[0], left: spacing[0], right: spacing[0], bottom: spacing[0],
         background: 'rgba(0,0,0,0.4)', backdropFilter: 'blur(4px)',
         zIndex: 1000, display: 'flex', alignItems: 'center', justifyContent: 'center',
-        padding: 24,
+        padding: spacing[24],
       }}
     >
       <div
         onClick={(e) => e.stopPropagation()}
         style={{
           background: colors.surface, borderRadius: 20, maxWidth: 400, width: '100%',
-          padding: 32, boxShadow: '0 20px 60px rgba(0,0,0,0.15)',
+          padding: spacing[32], boxShadow: '0 20px 60px rgba(0,0,0,0.15)',
         }}
       >
         {sent ? (
-          <div style={{ textAlign: 'center', padding: '20px 0' }}>
-            <div style={{ fontSize: 48, marginBottom: 12 }}>&#x2705;</div>
-            <p style={{ fontSize: text.xl, fontWeight: 700, color: colors.textPrimary, margin: 0 }}>You&apos;re in!</p>
-            <p style={{ fontSize: text.base, color: colors.textTertiary, marginTop: 8 }}>Welcome to ColdStart Hockey.</p>
+          <div style={{ textAlign: 'center', padding: pad(spacing[20], spacing[0]) }}>
+            <div style={{ fontSize: 48, marginBottom: spacing[12] }}>&#x2705;</div>
+            <p style={{ fontSize: text.xl, fontWeight: 700, color: colors.textPrimary, margin: spacing[0] }}>You&apos;re in!</p>
+            <p style={{ fontSize: text.base, color: colors.textTertiary, marginTop: spacing[8] }}>Welcome to ColdStart Hockey.</p>
           </div>
         ) : (
           <>
             {/* Branding */}
-            <div style={{ textAlign: 'center', marginBottom: 24 }}>
-              <div style={{ display: 'inline-block', marginBottom: 8 }}><Logo size={40} /></div>
+            <div style={{ textAlign: 'center', marginBottom: spacing[24] }}>
+              <div style={{ display: 'inline-block', marginBottom: spacing[8] }}><Logo size={40} /></div>
               <p id="auth-modal-title" style={{
-                fontSize: 20, fontWeight: 600, color: colors.textPrimary, margin: 0,
+                fontSize: 20, fontWeight: 600, color: colors.textPrimary, margin: spacing[0],
               }}>
                 {mode === 'signin' ? 'Sign in to ColdStart' : 'Create your account'}
               </p>
-              <p style={{ fontSize: text.sm, color: colors.textTertiary, marginTop: 6, margin: '6px 0 0' }}>
+              <p style={{ fontSize: text.sm, color: colors.textTertiary, marginTop: spacing[6], margin: pad(spacing[6], spacing[0], spacing[0]) }}>
                 {mode === 'signin'
                   ? 'Welcome back! Pick a sign-in method.'
                   : 'Set up a new account to get started.'}
@@ -162,7 +162,7 @@ export function AuthModal({ isOpen, onClose, onSuccess }: AuthModalProps) {
             </div>
 
             {/* Social login buttons */}
-            <div style={{ display: 'flex', flexDirection: 'column', gap: 8, marginBottom: 20 }}>
+            <div style={{ display: 'flex', flexDirection: 'column', gap: spacing[8], marginBottom: spacing[20] }}>
               <button onClick={() => handleSocial('google')} style={socialButtonStyle}>
                 <svg width="18" height="18" viewBox="0 0 48 48"><path fill="#EA4335" d="M24 9.5c3.54 0 6.71 1.22 9.21 3.6l6.85-6.85C35.9 2.38 30.47 0 24 0 14.62 0 6.51 5.38 2.56 13.22l7.98 6.19C12.43 13.72 17.74 9.5 24 9.5z"/><path fill="#4285F4" d="M46.98 24.55c0-1.57-.15-3.09-.38-4.55H24v9.02h12.94c-.58 2.96-2.26 5.48-4.78 7.18l7.73 6c4.51-4.18 7.09-10.36 7.09-17.65z"/><path fill="#FBBC05" d="M10.53 28.59a14.5 14.5 0 0 1 0-9.18l-7.98-6.19a24.01 24.01 0 0 0 0 21.56l7.98-6.19z"/><path fill="#34A853" d="M24 48c6.48 0 11.93-2.13 15.89-5.81l-7.73-6c-2.15 1.45-4.92 2.3-8.16 2.3-6.26 0-11.57-4.22-13.47-9.91l-7.98 6.19C6.51 42.62 14.62 48 24 48z"/></svg>
                 Continue with Google
@@ -178,7 +178,7 @@ export function AuthModal({ isOpen, onClose, onSuccess }: AuthModalProps) {
             </div>
 
             {/* Divider */}
-            <div style={{ display: 'flex', alignItems: 'center', gap: 12, marginBottom: 20 }}>
+            <div style={{ display: 'flex', alignItems: 'center', gap: spacing[12], marginBottom: spacing[20] }}>
               <div style={{ flex: 1, height: 1, background: colors.borderDefault }} />
               <span style={{ fontSize: text.sm, color: colors.textMuted, fontWeight: 500 }}>or</span>
               <div style={{ flex: 1, height: 1, background: colors.borderDefault }} />
@@ -186,7 +186,7 @@ export function AuthModal({ isOpen, onClose, onSuccess }: AuthModalProps) {
 
             {error && (
               <div style={{
-                padding: '8px 12px', marginBottom: 12, borderRadius: radius.md,
+                padding: pad(spacing[8], spacing[12]), marginBottom: spacing[12], borderRadius: radius.md,
                 background: colors.bgError, border: `1px solid ${colors.error}`,
                 fontSize: text.sm, color: colors.error,
               }}>
@@ -195,8 +195,8 @@ export function AuthModal({ isOpen, onClose, onSuccess }: AuthModalProps) {
             )}
 
             {mode === 'signup' && (
-              <div style={{ marginBottom: 12 }}>
-                <label style={{ fontSize: text.sm, fontWeight: 600, color: colors.textSecondary, display: 'block', marginBottom: 4 }}>
+              <div style={{ marginBottom: spacing[12] }}>
+                <label style={{ fontSize: text.sm, fontWeight: 600, color: colors.textSecondary, display: 'block', marginBottom: spacing[4] }}>
                   Name
                 </label>
                 <input
@@ -204,7 +204,7 @@ export function AuthModal({ isOpen, onClose, onSuccess }: AuthModalProps) {
                   onChange={(e) => setName(e.target.value)}
                   placeholder="Your name"
                   style={{
-                    width: '100%', padding: '10px 14px', fontSize: text.base,
+                    width: '100%', padding: pad(spacing[10], spacing[14]), fontSize: text.base,
                     border: `1px solid ${colors.borderMedium}`, borderRadius: radius.lg,
                     outline: 'none', boxSizing: 'border-box',
                     background: colors.surface, color: colors.textPrimary,
@@ -213,8 +213,8 @@ export function AuthModal({ isOpen, onClose, onSuccess }: AuthModalProps) {
               </div>
             )}
 
-            <div style={{ marginBottom: 12 }}>
-              <label style={{ fontSize: text.sm, fontWeight: 600, color: colors.textSecondary, display: 'block', marginBottom: 4 }}>
+            <div style={{ marginBottom: spacing[12] }}>
+              <label style={{ fontSize: text.sm, fontWeight: 600, color: colors.textSecondary, display: 'block', marginBottom: spacing[4] }}>
                 Email
               </label>
               <input
@@ -223,15 +223,15 @@ export function AuthModal({ isOpen, onClose, onSuccess }: AuthModalProps) {
                 onChange={(e) => { setEmail(e.target.value); setError(''); }}
                 placeholder="your@email.com"
                 style={{
-                  width: '100%', padding: '10px 14px', fontSize: text.base,
+                  width: '100%', padding: pad(spacing[10], spacing[14]), fontSize: text.base,
                   border: `1px solid ${colors.borderMedium}`, borderRadius: radius.lg,
                   outline: 'none', boxSizing: 'border-box',
                 }}
               />
             </div>
 
-            <div style={{ marginBottom: 16 }}>
-              <label style={{ fontSize: text.sm, fontWeight: 600, color: colors.textSecondary, display: 'block', marginBottom: 4 }}>
+            <div style={{ marginBottom: spacing[16] }}>
+              <label style={{ fontSize: text.sm, fontWeight: 600, color: colors.textSecondary, display: 'block', marginBottom: spacing[4] }}>
                 Password
               </label>
               <input
@@ -242,7 +242,7 @@ export function AuthModal({ isOpen, onClose, onSuccess }: AuthModalProps) {
                 placeholder="Enter your password"
                 minLength={8}
                 style={{
-                  width: '100%', padding: '10px 14px', fontSize: text.base,
+                  width: '100%', padding: pad(spacing[10], spacing[14]), fontSize: text.base,
                   border: `1px solid ${colors.borderMedium}`, borderRadius: radius.lg,
                   outline: 'none', boxSizing: 'border-box',
                 }}
@@ -253,7 +253,7 @@ export function AuthModal({ isOpen, onClose, onSuccess }: AuthModalProps) {
               onClick={handleCredentials}
               disabled={sending || !canSubmit}
               style={{
-                width: '100%', padding: '12px 0', fontSize: text.base, fontWeight: 700,
+                width: '100%', padding: pad(spacing[12], spacing[0]), fontSize: text.base, fontWeight: 700,
                 background: sending ? colors.brandLight : colors.textPrimary, color: colors.textInverse,
                 border: 'none', borderRadius: radius.lg, cursor: sending ? 'wait' : 'pointer',
                 transition: 'all 0.15s',
@@ -263,16 +263,16 @@ export function AuthModal({ isOpen, onClose, onSuccess }: AuthModalProps) {
               {sending ? 'Signing in...' : mode === 'signin' ? 'Sign In' : 'Create Account'}
             </button>
 
-            <p style={{ fontSize: text.sm, color: colors.textMuted, textAlign: 'center', marginTop: 16, marginBottom: 0 }}>
+            <p style={{ fontSize: text.sm, color: colors.textMuted, textAlign: 'center', marginTop: spacing[16], marginBottom: spacing[0] }}>
               {mode === 'signin' ? (
                 <>Don&apos;t have an account?{' '}
-                  <button onClick={() => { setMode('signup'); setError(''); }} style={{ color: colors.brand, cursor: 'pointer', fontWeight: 600, background: 'none', border: 'none', padding: 0, font: 'inherit' }}>
+                  <button onClick={() => { setMode('signup'); setError(''); }} style={{ color: colors.brand, cursor: 'pointer', fontWeight: 600, background: 'none', border: 'none', padding: spacing[0], font: 'inherit' }}>
                     Sign up
                   </button>
                 </>
               ) : (
                 <>Already have an account?{' '}
-                  <button onClick={() => { setMode('signin'); setError(''); }} style={{ color: colors.brand, cursor: 'pointer', fontWeight: 600, background: 'none', border: 'none', padding: 0, font: 'inherit' }}>
+                  <button onClick={() => { setMode('signin'); setError(''); }} style={{ color: colors.brand, cursor: 'pointer', fontWeight: 600, background: 'none', border: 'none', padding: spacing[0], font: 'inherit' }}>
                     Sign in
                   </button>
                 </>
@@ -280,9 +280,9 @@ export function AuthModal({ isOpen, onClose, onSuccess }: AuthModalProps) {
             </p>
 
             <div style={{
-              marginTop: 20, paddingTop: 16, borderTop: `1px solid ${colors.borderLight}`,
+              marginTop: spacing[20], paddingTop: spacing[16], borderTop: `1px solid ${colors.borderLight}`,
             }}>
-              <p style={{ fontSize: text.xs, color: colors.textMuted, textAlign: 'center', margin: 0 }}>
+              <p style={{ fontSize: text.xs, color: colors.textMuted, textAlign: 'center', margin: spacing[0] }}>
                 Sign in to vote, comment, and save your favorite rinks.
               </p>
             </div>

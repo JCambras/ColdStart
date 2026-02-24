@@ -1,5 +1,5 @@
 import { pool } from '../../../lib/db';
-import { colors } from '../../../lib/theme';
+import { colors, spacing, pad } from '../../../lib/theme';
 import Link from 'next/link';
 import { PushPreferences } from '../../../components/PushPreferences';
 
@@ -17,11 +17,11 @@ export default async function ProfilePage({ params }: { params: Promise<{ id: st
 
   if (userResult.rows.length === 0) {
     return (
-      <div style={{ maxWidth: 600, margin: '60px auto', padding: '0 24px', textAlign: 'center' }}>
-        <div style={{ fontSize: 48, marginBottom: 16 }}>👤</div>
+      <div style={{ maxWidth: 600, margin: '60px auto', padding: pad(0, spacing[24]), textAlign: 'center' }}>
+        <div style={{ fontSize: 48, marginBottom: spacing[16] }}>👤</div>
         <h2 style={{ fontSize: 20, fontWeight: 600, color: colors.textPrimary, margin: 0 }}>Profile not found</h2>
-        <p style={{ fontSize: 14, color: colors.textTertiary, marginTop: 8 }}>This user doesn&apos;t exist.</p>
-        <Link href="/" style={{ marginTop: 24, display: 'inline-block', fontSize: 14, fontWeight: 600, color: colors.brand }}>
+        <p style={{ fontSize: 14, color: colors.textTertiary, marginTop: spacing[8] }}>This user doesn&apos;t exist.</p>
+        <Link href="/" style={{ marginTop: spacing[24], display: 'inline-block', fontSize: 14, fontWeight: 600, color: colors.brand }}>
           Back to home
         </Link>
       </div>
@@ -51,9 +51,9 @@ export default async function ProfilePage({ params }: { params: Promise<{ id: st
   );
 
   return (
-    <div style={{ maxWidth: 600, margin: '0 auto', padding: '40px 24px' }}>
+    <div style={{ maxWidth: 600, margin: '0 auto', padding: pad(spacing[40], spacing[24]) }}>
       {/* Header */}
-      <div style={{ display: 'flex', alignItems: 'center', gap: 16, marginBottom: 24 }}>
+      <div style={{ display: 'flex', alignItems: 'center', gap: spacing[16], marginBottom: spacing[24] }}>
         <div style={{
           width: 64, height: 64, borderRadius: '50%',
           background: `linear-gradient(135deg, ${colors.brand}, ${colors.brandAccent})`,
@@ -76,10 +76,10 @@ export default async function ProfilePage({ params }: { params: Promise<{ id: st
 
       {/* Stats */}
       <div style={{
-        display: 'flex', gap: 16, marginBottom: 24,
+        display: 'flex', gap: spacing[16], marginBottom: spacing[24],
       }}>
         <div style={{
-          flex: 1, padding: '16px 20px',
+          flex: 1, padding: pad(spacing[16], spacing[20]),
           background: colors.bgSubtle, borderRadius: 12,
           border: `1px solid ${colors.borderLight}`,
         }}>
@@ -87,7 +87,7 @@ export default async function ProfilePage({ params }: { params: Promise<{ id: st
           <div style={{ fontSize: 13, color: colors.textMuted, marginTop: 2 }}>Rinks Rated</div>
         </div>
         <div style={{
-          flex: 1, padding: '16px 20px',
+          flex: 1, padding: pad(spacing[16], spacing[20]),
           background: colors.bgSubtle, borderRadius: 12,
           border: `1px solid ${colors.borderLight}`,
         }}>
@@ -98,13 +98,13 @@ export default async function ProfilePage({ params }: { params: Promise<{ id: st
 
       {/* Badge */}
       <div style={{
-        padding: '16px 20px', borderRadius: 12,
+        padding: pad(spacing[16], spacing[20]), borderRadius: 12,
         background: isTrusted ? colors.bgSuccess : colors.bgSubtle,
         border: `1px solid ${isTrusted ? colors.successBorder : colors.borderLight}`,
-        marginBottom: 24,
+        marginBottom: spacing[24],
       }}>
         {isTrusted ? (
-          <div style={{ display: 'flex', alignItems: 'center', gap: 8 }}>
+          <div style={{ display: 'flex', alignItems: 'center', gap: spacing[8] }}>
             <span style={{ fontSize: 20 }}>&#9989;</span>
             <div>
               <div style={{ fontSize: 15, fontWeight: 700, color: colors.success }}>Trusted Reviewer</div>
@@ -115,7 +115,7 @@ export default async function ProfilePage({ params }: { params: Promise<{ id: st
           </div>
         ) : (
           <div>
-            <div style={{ fontSize: 14, fontWeight: 600, color: colors.textSecondary, marginBottom: 8 }}>
+            <div style={{ fontSize: 14, fontWeight: 600, color: colors.textSecondary, marginBottom: spacing[8] }}>
               Progress to Trusted Reviewer
             </div>
             <div style={{ height: 8, background: colors.borderLight, borderRadius: 4, overflow: 'hidden' }}>
@@ -142,7 +142,7 @@ export default async function ProfilePage({ params }: { params: Promise<{ id: st
           <h2 style={{
             fontSize: 13, fontWeight: 600, color: colors.textMuted,
             textTransform: 'uppercase', letterSpacing: 1.5,
-            marginBottom: 12,
+            marginBottom: spacing[12],
           }}>
             Rinks Rated
           </h2>
@@ -152,7 +152,7 @@ export default async function ProfilePage({ params }: { params: Promise<{ id: st
               href={`/rinks/${r.id}`}
               style={{
                 display: 'flex', justifyContent: 'space-between', alignItems: 'center',
-                padding: '12px 16px', marginBottom: 6,
+                padding: pad(spacing[12], spacing[16]), marginBottom: spacing[6],
                 background: colors.surface, border: `1px solid ${colors.borderLight}`,
                 borderRadius: 10, textDecoration: 'none', color: 'inherit',
               }}
@@ -172,7 +172,7 @@ export default async function ProfilePage({ params }: { params: Promise<{ id: st
         </div>
       )}
 
-      <div style={{ marginTop: 32, textAlign: 'center' }}>
+      <div style={{ marginTop: spacing[32], textAlign: 'center' }}>
         <Link href="/" style={{ fontSize: 14, color: colors.brand, fontWeight: 500 }}>
           &#8592; Back to ColdStart
         </Link>
