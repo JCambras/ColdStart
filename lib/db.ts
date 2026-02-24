@@ -10,14 +10,16 @@ declare global {
 function getPool(): pg.Pool {
   if (globalThis._pgPool) return globalThis._pgPool;
 
+  const dbUrl = process.env.DATABASE_URL;
+
   globalThis._pgPool = new Pool({
-    connectionString: process.env.DATABASE_URL,
+    connectionString: dbUrl || undefined,
     max: 5,
     idleTimeoutMillis: 10_000,
-    connectionTimeoutMillis: 5_000,
-    ssl: process.env.DATABASE_URL?.includes('localhost')
-      ? undefined
-      : { rejectUnauthorized: false },
+    connectionTimeoutMillis: dbUrl ? 2_000 : 100,
+    ssl: dbUrl && !dbUrl.includes('localhost')
+      ? { rejectUnauthorized: false }
+      : undefined,
   });
 
   globalThis._pgPool.on('error', (err) => {
