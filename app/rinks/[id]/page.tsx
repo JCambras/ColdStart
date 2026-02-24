@@ -1,3 +1,4 @@
+import { Suspense } from 'react';
 import { Metadata } from 'next';
 import { RinkPageClient } from './RinkPageClient';
 
@@ -84,5 +85,9 @@ export async function generateMetadata({ params }: { params: Promise<{ id: strin
 }
 
 export default function RinkPage() {
-  return <RinkPageClient />;
+  return (
+    <Suspense>
+      <RinkPageClient />
+    </Suspense>
+  );
 }
