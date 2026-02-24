@@ -515,6 +515,11 @@ export default function HomeClient({
             rinks@coldstarthockey.com
           </a>
         </span>
+        <span style={{ fontSize: 11, color: colors.stone400 }}>
+          <a href="/terms" style={{ color: colors.stone400, textDecoration: 'underline' }}>Terms</a>
+          {' · '}
+          <a href="/privacy" style={{ color: colors.stone400, textDecoration: 'underline' }}>Privacy</a>
+        </span>
       </footer>
     </div>
   );

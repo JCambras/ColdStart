@@ -273,32 +273,6 @@ export function HeroSearch({
           )}
         </div>
 
-        {/* Sport toggle */}
-        <div style={{
-          display: 'flex', gap: 8, marginTop: 16,
-          justifyContent: 'center',
-        }}>
-          <span style={{
-            fontSize: 13, fontWeight: 600, padding: '5px 14px',
-            borderRadius: 9999, cursor: 'default',
-            background: colors.heroBadgeBg, color: colors.heroTextPrimary,
-          }}>
-            &#127954; Hockey
-          </span>
-          <a
-            href="/fields/ripken-experience-aberdeen"
-            style={{
-              fontSize: 13, fontWeight: 500, padding: '5px 14px',
-              borderRadius: 9999, textDecoration: 'none',
-              background: colors.heroBadgeBgMuted, color: colors.heroMenuLine,
-              border: `1px solid ${colors.heroBadgeBorder}`,
-              transition: 'all 0.15s',
-            }}
-          >
-            &#9918; Baseball
-          </a>
-        </div>
-
         {/* Stats */}
         <p style={{
           fontSize: 13, color: colors.heroTextMuted,
