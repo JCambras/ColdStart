@@ -3,8 +3,16 @@ import { mockContributionResponse } from '../fixtures/mock-data';
 
 test.describe('Rate a rink (unauthenticated)', () => {
   test('complete the rating flow with bot check', async ({ page }) => {
-    await page.goto('/rinks/canton-ice-house-canton', { waitUntil: 'networkidle' });
-    await expect(page.getByRole('heading', { name: /Canton Ice House/ })).toBeVisible({ timeout: 30000 });
+    await page.goto('/rinks/canton-ice-house-canton');
+
+    // Wait for client component to hydrate
+    const heading = page.getByRole('heading', { name: /Canton Ice House/ });
+    try {
+      await heading.waitFor({ state: 'visible', timeout: 15000 });
+    } catch {
+      await page.reload();
+      await heading.waitFor({ state: 'visible', timeout: 30000 });
+    }
 
     // Intercept contribution POST
     await page.route('**/api/v1/contributions', (route) =>

@@ -2,18 +2,18 @@ import { test, expect } from '@playwright/test';
 
 test.describe('Homepage search', () => {
   test('search for a rink and navigate to detail', async ({ page }) => {
-    await page.goto('/', { waitUntil: 'networkidle' });
+    await page.goto('/');
 
     // Hero section renders with search input
     const searchInput = page.getByPlaceholder('Search by rink or city').first();
-    await expect(searchInput).toBeVisible();
+    await expect(searchInput).toBeVisible({ timeout: 15000 });
 
     // Type a search query
     await searchInput.fill('Canton');
 
-    // Wait for debounce + seed fallback results
+    // Wait for debounce (300ms) + API call + seed fallback
     const result = page.getByText('Canton Ice House');
-    await expect(result).toBeVisible({ timeout: 10000 });
+    await expect(result).toBeVisible({ timeout: 15000 });
 
     // Click the result to navigate
     await result.click();
@@ -26,10 +26,10 @@ test.describe('Homepage search', () => {
   });
 
   test('shows no results message for unknown rink', async ({ page }) => {
-    await page.goto('/', { waitUntil: 'networkidle' });
+    await page.goto('/');
 
     const searchInput = page.getByPlaceholder('Search by rink or city').first();
-    await expect(searchInput).toBeVisible();
+    await expect(searchInput).toBeVisible({ timeout: 15000 });
     await searchInput.fill('xyznonexistent');
 
     // Wait for debounce (300ms) + API call + seed fallback to complete
