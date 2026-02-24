@@ -14,6 +14,16 @@
       "name": "Cafe Noponto",
       "distance": "0.8 mi",
       "url": "https://www.google.com/maps/search/?api=1&query=Cafe%20Noponto&query_place_id=ChIJ-8BfdRxTwokR0E6Zr2AP2U0&center=40.729939,-74.1576682"
+    },
+    {
+      "name": "McDonald's",
+      "distance": "3.0 mi",
+      "url": "https://www.google.com/maps/search/McDonalds+near+40.7261932%2C-74.14231029999999"
+    },
+    {
+      "name": "Wendy's",
+      "distance": "4.5 mi",
+      "url": "https://www.google.com/maps/search/Wendys+near+40.7261932%2C-74.14231029999999"
     }
   ],
   "coffee": [
@@ -108,6 +118,12 @@
       "name": "CityPlex 12 Newark",
       "distance": "2.9 mi",
       "url": "https://www.google.com/maps/search/?api=1&query=CityPlex%2012%20Newark&query_place_id=ChIJ-9KziUJTwokR9jaQ-SaUGYI&center=40.733568299999995,-74.1964655"
+    },
+    {
+      "name": "AMC Theatres",
+      "distance": "6.0 mi",
+      "url": "https://www.google.com/maps/search/AMC+Theatres+near+40.7261932%2C-74.14231029999999",
+      "isFar": true
     }
   ],
   "fun": [
@@ -137,6 +153,29 @@
       "name": "Very Quiet, Clean and comfortable",
       "distance": "0.4 mi",
       "url": "https://www.google.com/maps/search/?api=1&query=Very%20Quiet%2C%20Clean%20and%20comfortable&query_place_id=ChIJ6egr4fNTwokRw51DLVMvsuA&center=40.731998399999995,-74.14196009999999"
+    },
+    {
+      "name": "Hampton Inn & Suites",
+      "distance": "5.0 mi",
+      "url": "https://www.google.com/maps/search/Hampton+Inn+and+Suites+near+40.7261932%2C-74.14231029999999"
+    },
+    {
+      "name": "Holiday Inn Express & Suites",
+      "distance": "6.5 mi",
+      "url": "https://www.google.com/maps/search/Holiday+Inn+Express+and+Suites+near+40.7261932%2C-74.14231029999999",
+      "isFar": true
+    },
+    {
+      "name": "Comfort Inn & Suites",
+      "distance": "8.0 mi",
+      "url": "https://www.google.com/maps/search/Comfort+Inn+and+Suites+near+40.7261932%2C-74.14231029999999",
+      "isFar": true
+    },
+    {
+      "name": "Best Western",
+      "distance": "9.5 mi",
+      "url": "https://www.google.com/maps/search/Best+Western+near+40.7261932%2C-74.14231029999999",
+      "isFar": true
     }
   ],
   "gas": [

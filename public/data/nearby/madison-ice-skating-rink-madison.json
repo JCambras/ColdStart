@@ -177,6 +177,17 @@
       "name": "Archer Hotel Florham Park",
       "distance": "2.1 mi",
       "url": "https://www.google.com/maps/search/?api=1&query=Archer%20Hotel%20Florham%20Park&query_place_id=ChIJVxnV4wqmw4kRZysmijmfEcQ&center=40.7799172,-74.42698949999999"
+    },
+    {
+      "name": "Hampton Inn & Suites",
+      "distance": "5.0 mi",
+      "url": "https://www.google.com/maps/search/Hampton+Inn+and+Suites+near+40.758812899999995%2C-74.3989926"
+    },
+    {
+      "name": "Holiday Inn Express & Suites",
+      "distance": "6.5 mi",
+      "url": "https://www.google.com/maps/search/Holiday+Inn+Express+and+Suites+near+40.758812899999995%2C-74.3989926",
+      "isFar": true
     }
   ],
   "gas": [

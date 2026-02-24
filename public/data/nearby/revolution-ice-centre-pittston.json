@@ -19,6 +19,11 @@
       "name": "Burger King",
       "distance": "1.5 mi",
       "url": "https://www.google.com/maps/search/?api=1&query=Burger%20King&query_place_id=ChIJqXQ7lL0fxYkR9t7bKsijqLM&center=41.314336399999995,-75.7567949"
+    },
+    {
+      "name": "McDonald's",
+      "distance": "3.0 mi",
+      "url": "https://www.google.com/maps/search/McDonalds+near+41.2962188%2C-75.7727737"
     }
   ],
   "coffee": [
@@ -58,6 +63,17 @@
       "name": "Denny's",
       "distance": "1.5 mi",
       "url": "https://www.google.com/maps/search/?api=1&query=Denny's&query_place_id=ChIJoRCfF6kfxYkRV2bZno_wB7Y&center=41.314766,-75.7563091"
+    },
+    {
+      "name": "Applebee's Grill + Bar",
+      "distance": "5.0 mi",
+      "url": "https://www.google.com/maps/search/Applebees+Grill+++Bar+near+41.2962188%2C-75.7727737"
+    },
+    {
+      "name": "Olive Garden",
+      "distance": "6.5 mi",
+      "url": "https://www.google.com/maps/search/Olive+Garden+near+41.2962188%2C-75.7727737",
+      "isFar": true
     }
   ],
   "dinner": [
@@ -101,6 +117,12 @@
       "name": "Moonlite Drive-In",
       "distance": "4.5 mi",
       "url": "https://www.google.com/maps/search/?api=1&query=Moonlite%20Drive-In&query_place_id=ChIJJ7UDbS8ZxYkRxnSPJKNEhfk&center=41.3137526,-75.8566281",
+      "isFar": true
+    },
+    {
+      "name": "AMC Theatres",
+      "distance": "6.0 mi",
+      "url": "https://www.google.com/maps/search/AMC+Theatres+near+41.2962188%2C-75.7727737",
       "isFar": true
     }
   ],

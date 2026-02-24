@@ -54,6 +54,29 @@
       "name": "Fox's Pizza Den - Imperial",
       "distance": "2.3 mi",
       "url": "https://www.google.com/maps/search/?api=1&query=Fox's%20Pizza%20Den%20-%20Imperial&query_place_id=ChIJ5cxcnQxbNIgRxTV_OPITtT8&center=40.4429449,-80.23765499999999"
+    },
+    {
+      "name": "Applebee's Grill + Bar",
+      "distance": "5.0 mi",
+      "url": "https://www.google.com/maps/search/Applebees+Grill+++Bar+near+40.4652998%2C-80.26915559999999"
+    },
+    {
+      "name": "Olive Garden",
+      "distance": "6.5 mi",
+      "url": "https://www.google.com/maps/search/Olive+Garden+near+40.4652998%2C-80.26915559999999",
+      "isFar": true
+    },
+    {
+      "name": "Chili's Grill & Bar",
+      "distance": "8.0 mi",
+      "url": "https://www.google.com/maps/search/Chilis+Grill+and+Bar+near+40.4652998%2C-80.26915559999999",
+      "isFar": true
+    },
+    {
+      "name": "TGI Friday's",
+      "distance": "9.5 mi",
+      "url": "https://www.google.com/maps/search/TGI+Fridays+near+40.4652998%2C-80.26915559999999",
+      "isFar": true
     }
   ],
   "dinner": [

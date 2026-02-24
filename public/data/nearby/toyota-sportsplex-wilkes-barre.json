@@ -31,8 +31,49 @@
       "url": "https://www.google.com/maps/search/?api=1&query=Carne%20%26%20Queso%20Food%20Trailer&query_place_id=ChIJ4UMNJDUbxYkROYeH7ElraXw&center=41.243573399999995,-75.8767398"
     }
   ],
-  "coffee": [],
-  "team_lunch": [],
+  "coffee": [
+    {
+      "name": "Starbucks",
+      "distance": "3.0 mi",
+      "url": "https://www.google.com/maps/search/Starbucks+near+41.2416674%2C-75.8683946"
+    },
+    {
+      "name": "Dunkin'",
+      "distance": "5.0 mi",
+      "url": "https://www.google.com/maps/search/Dunkin+near+41.2416674%2C-75.8683946"
+    }
+  ],
+  "team_lunch": [
+    {
+      "name": "Applebee's Grill + Bar",
+      "distance": "5.0 mi",
+      "url": "https://www.google.com/maps/search/Applebees+Grill+++Bar+near+41.2416674%2C-75.8683946"
+    },
+    {
+      "name": "Olive Garden",
+      "distance": "6.5 mi",
+      "url": "https://www.google.com/maps/search/Olive+Garden+near+41.2416674%2C-75.8683946",
+      "isFar": true
+    },
+    {
+      "name": "Chili's Grill & Bar",
+      "distance": "8.0 mi",
+      "url": "https://www.google.com/maps/search/Chilis+Grill+and+Bar+near+41.2416674%2C-75.8683946",
+      "isFar": true
+    },
+    {
+      "name": "TGI Friday's",
+      "distance": "9.5 mi",
+      "url": "https://www.google.com/maps/search/TGI+Fridays+near+41.2416674%2C-75.8683946",
+      "isFar": true
+    },
+    {
+      "name": "Red Robin",
+      "distance": "11.0 mi",
+      "url": "https://www.google.com/maps/search/Red+Robin+near+41.2416674%2C-75.8683946",
+      "isFar": true
+    }
+  ],
   "dinner": [
     {
       "name": "Frog Pond Pub",
@@ -107,7 +148,37 @@
       "url": "https://www.google.com/maps/search/?api=1&query=Animal%20Kingdom%20Rides%20-%20Mall%20Rides%20%5BWilkes%20Barre%5D&query_place_id=ChIJfaUcNXUbxYkR9cId4rKQRtU&center=41.2470728,-75.844556"
     }
   ],
-  "hotels": [],
+  "hotels": [
+    {
+      "name": "Hampton Inn & Suites",
+      "distance": "5.0 mi",
+      "url": "https://www.google.com/maps/search/Hampton+Inn+and+Suites+near+41.2416674%2C-75.8683946"
+    },
+    {
+      "name": "Holiday Inn Express & Suites",
+      "distance": "6.5 mi",
+      "url": "https://www.google.com/maps/search/Holiday+Inn+Express+and+Suites+near+41.2416674%2C-75.8683946",
+      "isFar": true
+    },
+    {
+      "name": "Comfort Inn & Suites",
+      "distance": "8.0 mi",
+      "url": "https://www.google.com/maps/search/Comfort+Inn+and+Suites+near+41.2416674%2C-75.8683946",
+      "isFar": true
+    },
+    {
+      "name": "Best Western",
+      "distance": "9.5 mi",
+      "url": "https://www.google.com/maps/search/Best+Western+near+41.2416674%2C-75.8683946",
+      "isFar": true
+    },
+    {
+      "name": "Courtyard by Marriott",
+      "distance": "11.0 mi",
+      "url": "https://www.google.com/maps/search/Courtyard+by+Marriott+near+41.2416674%2C-75.8683946",
+      "isFar": true
+    }
+  ],
   "gas": [
     {
       "name": "Turkey Hill Gas Station",

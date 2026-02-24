@@ -63,6 +63,23 @@
       "name": "Juquila Deli",
       "distance": "0.2 mi",
       "url": "https://www.google.com/maps/search/?api=1&query=Juquila%20Deli&query_place_id=ChIJs7vCgJ8xwokR_pcC0cg_z-A&center=40.3472097,-74.0769067"
+    },
+    {
+      "name": "Applebee's Grill + Bar",
+      "distance": "5.0 mi",
+      "url": "https://www.google.com/maps/search/Applebees+Grill+++Bar+near+40.3471097%2C-74.07254429999999"
+    },
+    {
+      "name": "Olive Garden",
+      "distance": "6.5 mi",
+      "url": "https://www.google.com/maps/search/Olive+Garden+near+40.3471097%2C-74.07254429999999",
+      "isFar": true
+    },
+    {
+      "name": "Chili's Grill & Bar",
+      "distance": "8.0 mi",
+      "url": "https://www.google.com/maps/search/Chilis+Grill+and+Bar+near+40.3471097%2C-74.07254429999999",
+      "isFar": true
     }
   ],
   "dinner": [
@@ -141,6 +158,11 @@
       "name": "The Oyster Point Hotel",
       "distance": "0.6 mi",
       "url": "https://www.google.com/maps/search/?api=1&query=The%20Oyster%20Point%20Hotel&query_place_id=ChIJNcYLD0swwokRAbQ5M6U6OPw&center=40.355365,-74.0742708"
+    },
+    {
+      "name": "Hampton Inn & Suites",
+      "distance": "5.0 mi",
+      "url": "https://www.google.com/maps/search/Hampton+Inn+and+Suites+near+40.3471097%2C-74.07254429999999"
     }
   ],
   "gas": [

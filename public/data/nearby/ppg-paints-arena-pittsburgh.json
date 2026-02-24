@@ -19,6 +19,11 @@
       "name": "Jimmy John's",
       "distance": "0.4 mi",
       "url": "https://www.google.com/maps/search/?api=1&query=Jimmy%20John's&query_place_id=ChIJ327AJ1TxNIgReW7jGD36IyA&center=40.4400335,-79.9966305"
+    },
+    {
+      "name": "McDonald's",
+      "distance": "3.0 mi",
+      "url": "https://www.google.com/maps/search/McDonalds+near+40.439309699999995%2C-79.98955289999999"
     }
   ],
   "coffee": [
@@ -53,6 +58,23 @@
       "name": "Freshëns",
       "distance": "0.1 mi",
       "url": "https://www.google.com/maps/search/?api=1&query=Fresh%C3%ABns&query_place_id=ChIJOzazI1zxNIgRiZ9pk0xBUKk&center=40.438021000000006,-79.9904249"
+    },
+    {
+      "name": "Applebee's Grill + Bar",
+      "distance": "5.0 mi",
+      "url": "https://www.google.com/maps/search/Applebees+Grill+++Bar+near+40.439309699999995%2C-79.98955289999999"
+    },
+    {
+      "name": "Olive Garden",
+      "distance": "6.5 mi",
+      "url": "https://www.google.com/maps/search/Olive+Garden+near+40.439309699999995%2C-79.98955289999999",
+      "isFar": true
+    },
+    {
+      "name": "Chili's Grill & Bar",
+      "distance": "8.0 mi",
+      "url": "https://www.google.com/maps/search/Chilis+Grill+and+Bar+near+40.439309699999995%2C-79.98955289999999",
+      "isFar": true
     }
   ],
   "dinner": [
@@ -146,6 +168,29 @@
       "name": "On Site Gym★ Purple Mattress ★Park Free Downtown",
       "distance": "0.1 mi",
       "url": "https://www.google.com/maps/search/?api=1&query=On%20Site%20Gym%E2%98%85%20Purple%20Mattress%20%E2%98%85Park%20Free%20Downtown&query_place_id=ChIJk6UTlV7xNIgR2VHehwGBu20&center=40.43960190000001,-79.9905014"
+    },
+    {
+      "name": "Hampton Inn & Suites",
+      "distance": "5.0 mi",
+      "url": "https://www.google.com/maps/search/Hampton+Inn+and+Suites+near+40.439309699999995%2C-79.98955289999999"
+    },
+    {
+      "name": "Holiday Inn Express & Suites",
+      "distance": "6.5 mi",
+      "url": "https://www.google.com/maps/search/Holiday+Inn+Express+and+Suites+near+40.439309699999995%2C-79.98955289999999",
+      "isFar": true
+    },
+    {
+      "name": "Comfort Inn & Suites",
+      "distance": "8.0 mi",
+      "url": "https://www.google.com/maps/search/Comfort+Inn+and+Suites+near+40.439309699999995%2C-79.98955289999999",
+      "isFar": true
+    },
+    {
+      "name": "Best Western",
+      "distance": "9.5 mi",
+      "url": "https://www.google.com/maps/search/Best+Western+near+40.439309699999995%2C-79.98955289999999",
+      "isFar": true
     }
   ],
   "gas": [

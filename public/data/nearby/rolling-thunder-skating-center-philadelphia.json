@@ -206,6 +206,17 @@
       "name": "Roosevelt Inn",
       "distance": "0.8 mi",
       "url": "https://www.google.com/maps/search/?api=1&query=Roosevelt%20Inn&query_place_id=ChIJxX9IT42zxokR244NBUD37LQ&center=40.0514484,-75.05178219999999"
+    },
+    {
+      "name": "Hampton Inn & Suites",
+      "distance": "5.0 mi",
+      "url": "https://www.google.com/maps/search/Hampton+Inn+and+Suites+near+40.04076%2C-75.05638119999999"
+    },
+    {
+      "name": "Holiday Inn Express & Suites",
+      "distance": "6.5 mi",
+      "url": "https://www.google.com/maps/search/Holiday+Inn+Express+and+Suites+near+40.04076%2C-75.05638119999999",
+      "isFar": true
     }
   ],
   "gas": [

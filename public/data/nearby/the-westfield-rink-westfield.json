@@ -68,6 +68,23 @@
       "name": "Italian Deli & Cafe",
       "distance": "0.9 mi",
       "url": "https://www.google.com/maps/search/?api=1&query=Italian%20Deli%20%26%20Cafe&query_place_id=ChIJhayMD6ixw4kRx4N6NVnTVow&center=40.6485437,-74.3476867"
+    },
+    {
+      "name": "Applebee's Grill + Bar",
+      "distance": "5.0 mi",
+      "url": "https://www.google.com/maps/search/Applebees+Grill+++Bar+near+40.6532775%2C-74.3319199"
+    },
+    {
+      "name": "Olive Garden",
+      "distance": "6.5 mi",
+      "url": "https://www.google.com/maps/search/Olive+Garden+near+40.6532775%2C-74.3319199",
+      "isFar": true
+    },
+    {
+      "name": "Chili's Grill & Bar",
+      "distance": "8.0 mi",
+      "url": "https://www.google.com/maps/search/Chilis+Grill+and+Bar+near+40.6532775%2C-74.3319199",
+      "isFar": true
     }
   ],
   "dinner": [
@@ -160,6 +177,17 @@
       "name": "Comfy & Convenient Suburban Oasis",
       "distance": "0.9 mi",
       "url": "https://www.google.com/maps/search/?api=1&query=Comfy%20%26%20Convenient%20Suburban%20Oasis&query_place_id=ChIJ2evz_Kixw4kRJEQMlftb0r4&center=40.6511612,-74.3496933"
+    },
+    {
+      "name": "Hampton Inn & Suites",
+      "distance": "5.0 mi",
+      "url": "https://www.google.com/maps/search/Hampton+Inn+and+Suites+near+40.6532775%2C-74.3319199"
+    },
+    {
+      "name": "Holiday Inn Express & Suites",
+      "distance": "6.5 mi",
+      "url": "https://www.google.com/maps/search/Holiday+Inn+Express+and+Suites+near+40.6532775%2C-74.3319199",
+      "isFar": true
     }
   ],
   "gas": [

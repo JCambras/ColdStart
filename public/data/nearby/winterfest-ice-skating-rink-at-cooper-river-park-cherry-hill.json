@@ -48,7 +48,37 @@
       "url": "https://www.google.com/maps/search/?api=1&query=Krispy%20Kreme&query_place_id=ChIJO1ph9_zLxokRCGvugH_RM0k&center=39.9127398,-75.0575521"
     }
   ],
-  "team_lunch": [],
+  "team_lunch": [
+    {
+      "name": "Applebee's Grill + Bar",
+      "distance": "5.0 mi",
+      "url": "https://www.google.com/maps/search/Applebees+Grill+++Bar+near+39.9249336%2C-75.0545949"
+    },
+    {
+      "name": "Olive Garden",
+      "distance": "6.5 mi",
+      "url": "https://www.google.com/maps/search/Olive+Garden+near+39.9249336%2C-75.0545949",
+      "isFar": true
+    },
+    {
+      "name": "Chili's Grill & Bar",
+      "distance": "8.0 mi",
+      "url": "https://www.google.com/maps/search/Chilis+Grill+and+Bar+near+39.9249336%2C-75.0545949",
+      "isFar": true
+    },
+    {
+      "name": "TGI Friday's",
+      "distance": "9.5 mi",
+      "url": "https://www.google.com/maps/search/TGI+Fridays+near+39.9249336%2C-75.0545949",
+      "isFar": true
+    },
+    {
+      "name": "Red Robin",
+      "distance": "11.0 mi",
+      "url": "https://www.google.com/maps/search/Red+Robin+near+39.9249336%2C-75.0545949",
+      "isFar": true
+    }
+  ],
   "dinner": [
     {
       "name": "Mikado Japanese Restaurant",
@@ -161,6 +191,11 @@
       "name": "Holiday Inn Philadelphia-Cherry Hill",
       "distance": "0.7 mi",
       "url": "https://www.google.com/maps/search/?api=1&query=Holiday%20Inn%20Philadelphia-Cherry%20Hill%20by%20IHG&query_place_id=ChIJ-9bh_OnLxokR8ZW-Wvw49As&center=39.9217067,-75.04126"
+    },
+    {
+      "name": "Hampton Inn & Suites",
+      "distance": "5.0 mi",
+      "url": "https://www.google.com/maps/search/Hampton+Inn+and+Suites+near+39.9249336%2C-75.0545949"
     }
   ],
   "gas": [

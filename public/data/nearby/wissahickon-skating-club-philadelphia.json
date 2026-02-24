@@ -68,6 +68,23 @@
       "name": "Sakura",
       "distance": "1.1 mi",
       "url": "https://www.google.com/maps/search/?api=1&query=Sakura&query_place_id=ChIJ9y1JVgC5xokRneY73Ednigk&center=40.0768729,-75.2075464"
+    },
+    {
+      "name": "Applebee's Grill + Bar",
+      "distance": "5.0 mi",
+      "url": "https://www.google.com/maps/search/Applebees+Grill+++Bar+near+40.060660399999996%2C-75.21004529999999"
+    },
+    {
+      "name": "Olive Garden",
+      "distance": "6.5 mi",
+      "url": "https://www.google.com/maps/search/Olive+Garden+near+40.060660399999996%2C-75.21004529999999",
+      "isFar": true
+    },
+    {
+      "name": "Chili's Grill & Bar",
+      "distance": "8.0 mi",
+      "url": "https://www.google.com/maps/search/Chilis+Grill+and+Bar+near+40.060660399999996%2C-75.21004529999999",
+      "isFar": true
     }
   ],
   "dinner": [
@@ -146,6 +163,23 @@
       "name": "Chestnut Hill Hotel",
       "distance": "1.0 mi",
       "url": "https://www.google.com/maps/search/?api=1&query=Chestnut%20Hill%20Hotel&query_place_id=ChIJ-c-7lne5xokRr8m27ZdgX54&center=40.0741173,-75.2031666"
+    },
+    {
+      "name": "Hampton Inn & Suites",
+      "distance": "5.0 mi",
+      "url": "https://www.google.com/maps/search/Hampton+Inn+and+Suites+near+40.060660399999996%2C-75.21004529999999"
+    },
+    {
+      "name": "Holiday Inn Express & Suites",
+      "distance": "6.5 mi",
+      "url": "https://www.google.com/maps/search/Holiday+Inn+Express+and+Suites+near+40.060660399999996%2C-75.21004529999999",
+      "isFar": true
+    },
+    {
+      "name": "Comfort Inn & Suites",
+      "distance": "8.0 mi",
+      "url": "https://www.google.com/maps/search/Comfort+Inn+and+Suites+near+40.060660399999996%2C-75.21004529999999",
+      "isFar": true
     }
   ],
   "gas": [

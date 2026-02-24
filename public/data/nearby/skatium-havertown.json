@@ -68,6 +68,17 @@
       "name": "Sweet Soul Good",
       "distance": "1.5 mi",
       "url": "https://www.google.com/maps/search/?api=1&query=Sweet%20Soul%20Good&query_place_id=ChIJF1AIWgDBxokR6VrpS39BF0w&center=39.9593175,-75.2878235"
+    },
+    {
+      "name": "Applebee's Grill + Bar",
+      "distance": "5.0 mi",
+      "url": "https://www.google.com/maps/search/Applebees+Grill+++Bar+near+39.9768644%2C-75.3039551"
+    },
+    {
+      "name": "Olive Garden",
+      "distance": "6.5 mi",
+      "url": "https://www.google.com/maps/search/Olive+Garden+near+39.9768644%2C-75.3039551",
+      "isFar": true
     }
   ],
   "dinner": [
@@ -167,6 +178,23 @@
       "name": "ABnB Superhost - Siri's Favorite Place",
       "distance": "0.4 mi",
       "url": "https://www.google.com/maps/search/?api=1&query=ABnB%20Superhost%20-%20Siri's%20Favorite%20Place&query_place_id=ChIJE3orQq7BxokR7ZNi6IAS3tc&center=39.971080799999996,-75.30439"
+    },
+    {
+      "name": "Hampton Inn & Suites",
+      "distance": "5.0 mi",
+      "url": "https://www.google.com/maps/search/Hampton+Inn+and+Suites+near+39.9768644%2C-75.3039551"
+    },
+    {
+      "name": "Holiday Inn Express & Suites",
+      "distance": "6.5 mi",
+      "url": "https://www.google.com/maps/search/Holiday+Inn+Express+and+Suites+near+39.9768644%2C-75.3039551",
+      "isFar": true
+    },
+    {
+      "name": "Comfort Inn & Suites",
+      "distance": "8.0 mi",
+      "url": "https://www.google.com/maps/search/Comfort+Inn+and+Suites+near+39.9768644%2C-75.3039551",
+      "isFar": true
     }
   ],
   "gas": [

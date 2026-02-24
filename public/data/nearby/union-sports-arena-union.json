@@ -193,6 +193,17 @@
       "name": "Wonderful moments",
       "distance": "1.1 mi",
       "url": "https://www.google.com/maps/search/?api=1&query=Wonderful%20moments&query_place_id=ChIJczB_lJmtw4kR6ewC80BXEAs&center=40.693229699999996,-74.27494820000001"
+    },
+    {
+      "name": "Hampton Inn & Suites",
+      "distance": "5.0 mi",
+      "url": "https://www.google.com/maps/search/Hampton+Inn+and+Suites+near+40.692755999999996%2C-74.295597"
+    },
+    {
+      "name": "Holiday Inn Express & Suites",
+      "distance": "6.5 mi",
+      "url": "https://www.google.com/maps/search/Holiday+Inn+Express+and+Suites+near+40.692755999999996%2C-74.295597",
+      "isFar": true
     }
   ],
   "gas": [

@@ -58,7 +58,37 @@
       "url": "https://www.google.com/maps/search/?api=1&query=The%20Magic%20Bean%20Cafe&query_place_id=ChIJPQJh1pqBzYkRxelAsivqFzk&center=41.956583699999996,-78.64748089999999"
     }
   ],
-  "team_lunch": [],
+  "team_lunch": [
+    {
+      "name": "Applebee's Grill + Bar",
+      "distance": "5.0 mi",
+      "url": "https://www.google.com/maps/search/Applebees+Grill+++Bar+near+41.9612226%2C-78.66405870000001"
+    },
+    {
+      "name": "Olive Garden",
+      "distance": "6.5 mi",
+      "url": "https://www.google.com/maps/search/Olive+Garden+near+41.9612226%2C-78.66405870000001",
+      "isFar": true
+    },
+    {
+      "name": "Chili's Grill & Bar",
+      "distance": "8.0 mi",
+      "url": "https://www.google.com/maps/search/Chilis+Grill+and+Bar+near+41.9612226%2C-78.66405870000001",
+      "isFar": true
+    },
+    {
+      "name": "TGI Friday's",
+      "distance": "9.5 mi",
+      "url": "https://www.google.com/maps/search/TGI+Fridays+near+41.9612226%2C-78.66405870000001",
+      "isFar": true
+    },
+    {
+      "name": "Red Robin",
+      "distance": "11.0 mi",
+      "url": "https://www.google.com/maps/search/Red+Robin+near+41.9612226%2C-78.66405870000001",
+      "isFar": true
+    }
+  ],
   "dinner": [
     {
       "name": "Taco Inc Mexican Bar and Grille Bradford",
@@ -117,6 +147,12 @@
       "distance": "13.1 mi",
       "url": "https://www.google.com/maps/search/?api=1&query=AMC%20Allegany%208&query_place_id=ChIJR2c5jIVw0okRLI5S85veu2s&center=42.0806318,-78.46587",
       "isFar": true
+    },
+    {
+      "name": "AMC Theatres",
+      "distance": "14.0 mi",
+      "url": "https://www.google.com/maps/search/AMC+Theatres+near+41.9612226%2C-78.66405870000001",
+      "isFar": true
     }
   ],
   "fun": [
@@ -159,6 +195,17 @@
       "name": "Medical Professional /short Term Rental",
       "distance": "0.7 mi",
       "url": "https://www.google.com/maps/search/?api=1&query=medical%20professional%20%2Fshort%20term%20rental&query_place_id=ChIJLYlmyCWAzYkR1L3CZw1fUsI&center=41.9602508,-78.6499481"
+    },
+    {
+      "name": "Hampton Inn & Suites",
+      "distance": "5.0 mi",
+      "url": "https://www.google.com/maps/search/Hampton+Inn+and+Suites+near+41.9612226%2C-78.66405870000001"
+    },
+    {
+      "name": "Holiday Inn Express & Suites",
+      "distance": "6.5 mi",
+      "url": "https://www.google.com/maps/search/Holiday+Inn+Express+and+Suites+near+41.9612226%2C-78.66405870000001",
+      "isFar": true
     }
   ],
   "gas": [

@@ -19,6 +19,11 @@
       "name": "Taco Bell",
       "distance": "2.8 mi",
       "url": "https://www.google.com/maps/search/?api=1&query=Taco%20Bell&query_place_id=ChIJq40R_epnNIgR-vtJN0iozO4&center=40.5431941,-80.19264199999999"
+    },
+    {
+      "name": "McDonald's",
+      "distance": "4.0 mi",
+      "url": "https://www.google.com/maps/search/McDonalds+near+40.518597199999995%2C-80.1504017"
     }
   ],
   "coffee": [
@@ -68,6 +73,11 @@
       "name": "Desserts by Claudia",
       "distance": "2.9 mi",
       "url": "https://www.google.com/maps/search/?api=1&query=Desserts%20by%20Claudia&query_place_id=ChIJwdE29vJhNIgRxE6uglYMuBc&center=40.559248,-80.1394129"
+    },
+    {
+      "name": "Applebee's Grill + Bar",
+      "distance": "5.0 mi",
+      "url": "https://www.google.com/maps/search/Applebees+Grill+++Bar+near+40.518597199999995%2C-80.1504017"
     }
   ],
   "dinner": [
@@ -116,6 +126,12 @@
       "name": "The Lindsay Theater",
       "distance": "2.2 mi",
       "url": "https://www.google.com/maps/search/?api=1&query=The%20Lindsay%20Theater&query_place_id=ChIJgSJS-QFeNIgRe7O4g1oGxxE&center=40.5403935,-80.182227"
+    },
+    {
+      "name": "AMC Theatres",
+      "distance": "6.0 mi",
+      "url": "https://www.google.com/maps/search/AMC+Theatres+near+40.518597199999995%2C-80.1504017",
+      "isFar": true
     }
   ],
   "fun": [
@@ -142,6 +158,29 @@
       "name": "Island Gem! Riverfront, Near RMU Sports Center, Massive Deck",
       "distance": "0.4 mi",
       "url": "https://www.google.com/maps/search/?api=1&query=Island%20Gem!%20Riverfront%2C%20Near%20RMU%20Sports%20Center%2C%20Massive%20Deck&query_place_id=ChIJsZtJ4kpeNIgRGE52xLgSGeY&center=40.514934499999995,-80.1446991"
+    },
+    {
+      "name": "Hampton Inn & Suites",
+      "distance": "5.0 mi",
+      "url": "https://www.google.com/maps/search/Hampton+Inn+and+Suites+near+40.518597199999995%2C-80.1504017"
+    },
+    {
+      "name": "Holiday Inn Express & Suites",
+      "distance": "6.5 mi",
+      "url": "https://www.google.com/maps/search/Holiday+Inn+Express+and+Suites+near+40.518597199999995%2C-80.1504017",
+      "isFar": true
+    },
+    {
+      "name": "Comfort Inn & Suites",
+      "distance": "8.0 mi",
+      "url": "https://www.google.com/maps/search/Comfort+Inn+and+Suites+near+40.518597199999995%2C-80.1504017",
+      "isFar": true
+    },
+    {
+      "name": "Best Western",
+      "distance": "9.5 mi",
+      "url": "https://www.google.com/maps/search/Best+Western+near+40.518597199999995%2C-80.1504017",
+      "isFar": true
     }
   ],
   "gas": [

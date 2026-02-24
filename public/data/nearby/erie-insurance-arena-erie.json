@@ -73,6 +73,11 @@
       "name": "Thelma's Tasty Temptations",
       "distance": "0.7 mi",
       "url": "https://www.google.com/maps/search/?api=1&query=Thelma's%20Tasty%20Temptations&query_place_id=ChIJsyF0OQB_LYgRNyWlDoiESf0&center=42.1364685,-80.08666579999999"
+    },
+    {
+      "name": "Applebee's Grill + Bar",
+      "distance": "5.0 mi",
+      "url": "https://www.google.com/maps/search/Applebees+Grill+++Bar+near+42.1280011%2C-80.08088889999999"
     }
   ],
   "dinner": [
@@ -177,6 +182,23 @@
       "name": "The Inn Down Town",
       "distance": "0.4 mi",
       "url": "https://www.google.com/maps/search/?api=1&query=The%20Inn%20Down%20Town&query_place_id=ChIJHSd_eQt_LYgRPX5n28mT0YI&center=42.13193090000001,-80.0867487"
+    },
+    {
+      "name": "Hampton Inn & Suites",
+      "distance": "5.0 mi",
+      "url": "https://www.google.com/maps/search/Hampton+Inn+and+Suites+near+42.1280011%2C-80.08088889999999"
+    },
+    {
+      "name": "Holiday Inn Express & Suites",
+      "distance": "6.5 mi",
+      "url": "https://www.google.com/maps/search/Holiday+Inn+Express+and+Suites+near+42.1280011%2C-80.08088889999999",
+      "isFar": true
+    },
+    {
+      "name": "Comfort Inn & Suites",
+      "distance": "8.0 mi",
+      "url": "https://www.google.com/maps/search/Comfort+Inn+and+Suites+near+42.1280011%2C-80.08088889999999",
+      "isFar": true
     }
   ],
   "gas": [

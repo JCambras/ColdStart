@@ -55,7 +55,37 @@
       "isFar": true
     }
   ],
-  "team_lunch": [],
+  "team_lunch": [
+    {
+      "name": "Applebee's Grill + Bar",
+      "distance": "5.0 mi",
+      "url": "https://www.google.com/maps/search/Applebees+Grill+++Bar+near+40.6542922%2C-79.92655909999999"
+    },
+    {
+      "name": "Olive Garden",
+      "distance": "6.5 mi",
+      "url": "https://www.google.com/maps/search/Olive+Garden+near+40.6542922%2C-79.92655909999999",
+      "isFar": true
+    },
+    {
+      "name": "Chili's Grill & Bar",
+      "distance": "8.0 mi",
+      "url": "https://www.google.com/maps/search/Chilis+Grill+and+Bar+near+40.6542922%2C-79.92655909999999",
+      "isFar": true
+    },
+    {
+      "name": "TGI Friday's",
+      "distance": "9.5 mi",
+      "url": "https://www.google.com/maps/search/TGI+Fridays+near+40.6542922%2C-79.92655909999999",
+      "isFar": true
+    },
+    {
+      "name": "Red Robin",
+      "distance": "11.0 mi",
+      "url": "https://www.google.com/maps/search/Red+Robin+near+40.6542922%2C-79.92655909999999",
+      "isFar": true
+    }
+  ],
   "dinner": [
     {
       "name": "Parkside Grill",
@@ -103,6 +133,12 @@
       "name": "The Copper Still Theater",
       "distance": "2.7 mi",
       "url": "https://www.google.com/maps/search/?api=1&query=The%20Copper%20Still%20Theater&query_place_id=ChIJHzBmUyORNIgRGj9ADqc_kyI&center=40.621054199999996,-79.9008597"
+    },
+    {
+      "name": "AMC Theatres",
+      "distance": "6.0 mi",
+      "url": "https://www.google.com/maps/search/AMC+Theatres+near+40.6542922%2C-79.92655909999999",
+      "isFar": true
     }
   ],
   "fun": [
@@ -136,6 +172,29 @@
       "name": "Sun and Cricket Bed and Breakfast",
       "distance": "2.0 mi",
       "url": "https://www.google.com/maps/search/?api=1&query=Sun%20and%20Cricket%20Bed%20and%20Breakfast&query_place_id=ChIJHci15kKQNIgRnSg6sHoZA8A&center=40.654552699999996,-79.888272"
+    },
+    {
+      "name": "Hampton Inn & Suites",
+      "distance": "5.0 mi",
+      "url": "https://www.google.com/maps/search/Hampton+Inn+and+Suites+near+40.6542922%2C-79.92655909999999"
+    },
+    {
+      "name": "Holiday Inn Express & Suites",
+      "distance": "6.5 mi",
+      "url": "https://www.google.com/maps/search/Holiday+Inn+Express+and+Suites+near+40.6542922%2C-79.92655909999999",
+      "isFar": true
+    },
+    {
+      "name": "Comfort Inn & Suites",
+      "distance": "8.0 mi",
+      "url": "https://www.google.com/maps/search/Comfort+Inn+and+Suites+near+40.6542922%2C-79.92655909999999",
+      "isFar": true
+    },
+    {
+      "name": "Best Western",
+      "distance": "9.5 mi",
+      "url": "https://www.google.com/maps/search/Best+Western+near+40.6542922%2C-79.92655909999999",
+      "isFar": true
     }
   ],
   "gas": [

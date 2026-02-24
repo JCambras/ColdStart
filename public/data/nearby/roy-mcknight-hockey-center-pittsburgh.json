@@ -73,6 +73,11 @@
       "name": "Strawberry’s Custom Cake Designs",
       "distance": "2.7 mi",
       "url": "https://www.google.com/maps/search/?api=1&query=Strawberry%E2%80%99s%20Custom%20Cake%20Designs&query_place_id=ChIJX-EdbpXtNIgRMnORzQvxJfI&center=40.50432790000001,-79.8434453"
+    },
+    {
+      "name": "Applebee's Grill + Bar",
+      "distance": "5.0 mi",
+      "url": "https://www.google.com/maps/search/Applebees+Grill+++Bar+near+40.5239717%2C-79.8871696"
     }
   ],
   "dinner": [
@@ -115,6 +120,12 @@
       "name": "MovieScoop Waterworks Luxury Cinemas",
       "distance": "2.4 mi",
       "url": "https://www.google.com/maps/search/?api=1&query=MovieScoop%20Waterworks%20Luxury%20Cinemas&query_place_id=ChIJEYj1jxPtNIgRvbINsnky7lc&center=40.4899656,-79.89372709999999"
+    },
+    {
+      "name": "AMC Theatres",
+      "distance": "6.0 mi",
+      "url": "https://www.google.com/maps/search/AMC+Theatres+near+40.5239717%2C-79.8871696",
+      "isFar": true
     }
   ],
   "fun": [
@@ -140,7 +151,37 @@
       "isFar": true
     }
   ],
-  "hotels": [],
+  "hotels": [
+    {
+      "name": "Hampton Inn & Suites",
+      "distance": "5.0 mi",
+      "url": "https://www.google.com/maps/search/Hampton+Inn+and+Suites+near+40.5239717%2C-79.8871696"
+    },
+    {
+      "name": "Holiday Inn Express & Suites",
+      "distance": "6.5 mi",
+      "url": "https://www.google.com/maps/search/Holiday+Inn+Express+and+Suites+near+40.5239717%2C-79.8871696",
+      "isFar": true
+    },
+    {
+      "name": "Comfort Inn & Suites",
+      "distance": "8.0 mi",
+      "url": "https://www.google.com/maps/search/Comfort+Inn+and+Suites+near+40.5239717%2C-79.8871696",
+      "isFar": true
+    },
+    {
+      "name": "Best Western",
+      "distance": "9.5 mi",
+      "url": "https://www.google.com/maps/search/Best+Western+near+40.5239717%2C-79.8871696",
+      "isFar": true
+    },
+    {
+      "name": "Courtyard by Marriott",
+      "distance": "11.0 mi",
+      "url": "https://www.google.com/maps/search/Courtyard+by+Marriott+near+40.5239717%2C-79.8871696",
+      "isFar": true
+    }
+  ],
   "gas": [
     {
       "name": "Sunoco",

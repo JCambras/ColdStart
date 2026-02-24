@@ -36,6 +36,11 @@
       "name": "Càphê Roasters",
       "distance": "0.2 mi",
       "url": "https://www.google.com/maps/search/?api=1&query=C%C3%A0ph%C3%AA%20Roasters&query_place_id=ChIJF8_YuV-3xokRJXLV6WzQmfs&center=39.9993447,-75.1091197"
+    },
+    {
+      "name": "Starbucks",
+      "distance": "3.0 mi",
+      "url": "https://www.google.com/maps/search/Starbucks+near+40.0018318%2C-75.10871999999999"
     }
   ],
   "team_lunch": [
@@ -157,7 +162,37 @@
       "url": "https://www.google.com/maps/search/?api=1&query=Rainbow%20House%20Philadelphia&query_place_id=ChIJB1J0wRC3xokRQgHeb0Qz8C4&center=40.0171237,-75.09033819999999"
     }
   ],
-  "hotels": [],
+  "hotels": [
+    {
+      "name": "Hampton Inn & Suites",
+      "distance": "5.0 mi",
+      "url": "https://www.google.com/maps/search/Hampton+Inn+and+Suites+near+40.0018318%2C-75.10871999999999"
+    },
+    {
+      "name": "Holiday Inn Express & Suites",
+      "distance": "6.5 mi",
+      "url": "https://www.google.com/maps/search/Holiday+Inn+Express+and+Suites+near+40.0018318%2C-75.10871999999999",
+      "isFar": true
+    },
+    {
+      "name": "Comfort Inn & Suites",
+      "distance": "8.0 mi",
+      "url": "https://www.google.com/maps/search/Comfort+Inn+and+Suites+near+40.0018318%2C-75.10871999999999",
+      "isFar": true
+    },
+    {
+      "name": "Best Western",
+      "distance": "9.5 mi",
+      "url": "https://www.google.com/maps/search/Best+Western+near+40.0018318%2C-75.10871999999999",
+      "isFar": true
+    },
+    {
+      "name": "Courtyard by Marriott",
+      "distance": "11.0 mi",
+      "url": "https://www.google.com/maps/search/Courtyard+by+Marriott+near+40.0018318%2C-75.10871999999999",
+      "isFar": true
+    }
+  ],
   "gas": [
     {
       "name": "Speedway",

@@ -78,6 +78,11 @@
       "name": "Cake Dummies",
       "distance": "0.6 mi",
       "url": "https://www.google.com/maps/search/?api=1&query=Cake%20Dummies&query_place_id=ChIJl2KmPceOyIkRnIpw0R3oH8E&center=39.9623438,-76.708634"
+    },
+    {
+      "name": "Applebee's Grill + Bar",
+      "distance": "5.0 mi",
+      "url": "https://www.google.com/maps/search/Applebees+Grill+++Bar+near+39.9543081%2C-76.7101751"
     }
   ],
   "dinner": [
@@ -155,7 +160,37 @@
       "url": "https://www.google.com/maps/search/?api=1&query=Dale%20Rogers%20Studio%20Love%20Sculpture&query_place_id=ChIJa2WmNLCPyIkRaapfd-vVRlc&center=39.960321199999996,-76.7265134"
     }
   ],
-  "hotels": [],
+  "hotels": [
+    {
+      "name": "Hampton Inn & Suites",
+      "distance": "5.0 mi",
+      "url": "https://www.google.com/maps/search/Hampton+Inn+and+Suites+near+39.9543081%2C-76.7101751"
+    },
+    {
+      "name": "Holiday Inn Express & Suites",
+      "distance": "6.5 mi",
+      "url": "https://www.google.com/maps/search/Holiday+Inn+Express+and+Suites+near+39.9543081%2C-76.7101751",
+      "isFar": true
+    },
+    {
+      "name": "Comfort Inn & Suites",
+      "distance": "8.0 mi",
+      "url": "https://www.google.com/maps/search/Comfort+Inn+and+Suites+near+39.9543081%2C-76.7101751",
+      "isFar": true
+    },
+    {
+      "name": "Best Western",
+      "distance": "9.5 mi",
+      "url": "https://www.google.com/maps/search/Best+Western+near+39.9543081%2C-76.7101751",
+      "isFar": true
+    },
+    {
+      "name": "Courtyard by Marriott",
+      "distance": "11.0 mi",
+      "url": "https://www.google.com/maps/search/Courtyard+by+Marriott+near+39.9543081%2C-76.7101751",
+      "isFar": true
+    }
+  ],
   "gas": [
     {
       "name": "Sunoco",

@@ -155,6 +155,17 @@
       "name": "BookRoom-Super8 by WyndhamHotel Daytona Beach",
       "distance": "0.4 mi",
       "url": "https://www.google.com/maps/search/?api=1&query=BookRoom-Super8%20by%20WyndhamHotel%20Daytona%20Beach&query_place_id=ChIJLU9qN-H7wokR-WQcSVUK4CY&center=40.8874639,-74.0424831"
+    },
+    {
+      "name": "Hampton Inn & Suites",
+      "distance": "5.0 mi",
+      "url": "https://www.google.com/maps/search/Hampton+Inn+and+Suites+near+40.883288799999995%2C-74.0378983"
+    },
+    {
+      "name": "Holiday Inn Express & Suites",
+      "distance": "6.5 mi",
+      "url": "https://www.google.com/maps/search/Holiday+Inn+Express+and+Suites+near+40.883288799999995%2C-74.0378983",
+      "isFar": true
     }
   ],
   "gas": [

@@ -50,14 +50,33 @@
   ],
   "team_lunch": [
     {
-      "name": "Boar's Head Rinkside Cafe",
-      "distance": "0.1 mi",
-      "url": "https://www.google.com/maps/search/?api=1&query=Boar's%20Head%20Rinkside%20Cafe&query_place_id=ChIJb8ICPQChxokRvt2Jt1Fl0Lg&center=40.2796885,-75.2551972"
+      "name": "Applebee's Grill + Bar",
+      "distance": "5.0 mi",
+      "url": "https://www.google.com/maps/search/Applebees+Grill+++Bar+near+40.2798182%2C-75.2553708"
     },
     {
-      "name": "Formosa Chinese Restaurant",
-      "distance": "0.8 mi",
-      "url": "https://www.google.com/maps/search/?api=1&query=Formosa%20Chinese%20Restaurant&query_place_id=ChIJSzkGWyShxokR0Cj3eE39DNE&center=40.286991799999996,-75.2662328"
+      "name": "Olive Garden",
+      "distance": "6.5 mi",
+      "url": "https://www.google.com/maps/search/Olive+Garden+near+40.2798182%2C-75.2553708",
+      "isFar": true
+    },
+    {
+      "name": "Chili's Grill & Bar",
+      "distance": "8.0 mi",
+      "url": "https://www.google.com/maps/search/Chilis+Grill+and+Bar+near+40.2798182%2C-75.2553708",
+      "isFar": true
+    },
+    {
+      "name": "TGI Friday's",
+      "distance": "9.5 mi",
+      "url": "https://www.google.com/maps/search/TGI+Fridays+near+40.2798182%2C-75.2553708",
+      "isFar": true
+    },
+    {
+      "name": "Red Robin",
+      "distance": "11.0 mi",
+      "url": "https://www.google.com/maps/search/Red+Robin+near+40.2798182%2C-75.2553708",
+      "isFar": true
     }
   ],
   "dinner": [
@@ -136,6 +155,29 @@
       "name": "Hatfield Motel/Hatfield Stay",
       "distance": "0.4 mi",
       "url": "https://www.google.com/maps/search/?api=1&query=Hatfied%20Motel%2FHatfield%20Stay&query_place_id=ChIJN27w_zqhxokRYSkYdiYNi_E&center=40.2805616,-75.26258469999999"
+    },
+    {
+      "name": "Hampton Inn & Suites",
+      "distance": "5.0 mi",
+      "url": "https://www.google.com/maps/search/Hampton+Inn+and+Suites+near+40.2798182%2C-75.2553708"
+    },
+    {
+      "name": "Holiday Inn Express & Suites",
+      "distance": "6.5 mi",
+      "url": "https://www.google.com/maps/search/Holiday+Inn+Express+and+Suites+near+40.2798182%2C-75.2553708",
+      "isFar": true
+    },
+    {
+      "name": "Comfort Inn & Suites",
+      "distance": "8.0 mi",
+      "url": "https://www.google.com/maps/search/Comfort+Inn+and+Suites+near+40.2798182%2C-75.2553708",
+      "isFar": true
+    },
+    {
+      "name": "Best Western",
+      "distance": "9.5 mi",
+      "url": "https://www.google.com/maps/search/Best+Western+near+40.2798182%2C-75.2553708",
+      "isFar": true
     }
   ],
   "gas": [

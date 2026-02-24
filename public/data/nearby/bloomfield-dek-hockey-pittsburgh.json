@@ -68,6 +68,17 @@
       "name": "Sleeping Ranchero",
       "distance": "0.2 mi",
       "url": "https://www.google.com/maps/search/?api=1&query=Sleeping%20Ranchero&query_place_id=ChIJY4jK0PfzNIgRWbcs3fOumtI&center=40.4620671,-79.949227"
+    },
+    {
+      "name": "Applebee's Grill + Bar",
+      "distance": "5.0 mi",
+      "url": "https://www.google.com/maps/search/Applebees+Grill+++Bar+near+40.462467%2C-79.953516"
+    },
+    {
+      "name": "Olive Garden",
+      "distance": "6.5 mi",
+      "url": "https://www.google.com/maps/search/Olive+Garden+near+40.462467%2C-79.953516",
+      "isFar": true
     }
   ],
   "dinner": [
@@ -155,6 +166,29 @@
       "name": "PBR - Pittsburgh Bloomfield Rowhouse",
       "distance": "0.1 mi",
       "url": "https://www.google.com/maps/search/?api=1&query=PBR%20-%20Pittsburgh%20Bloomfield%20Rowhouse&query_place_id=ChIJdTQGJUbyNIgR-u8E-fAj9QM&center=40.463600199999995,-79.9523087"
+    },
+    {
+      "name": "Hampton Inn & Suites",
+      "distance": "5.0 mi",
+      "url": "https://www.google.com/maps/search/Hampton+Inn+and+Suites+near+40.462467%2C-79.953516"
+    },
+    {
+      "name": "Holiday Inn Express & Suites",
+      "distance": "6.5 mi",
+      "url": "https://www.google.com/maps/search/Holiday+Inn+Express+and+Suites+near+40.462467%2C-79.953516",
+      "isFar": true
+    },
+    {
+      "name": "Comfort Inn & Suites",
+      "distance": "8.0 mi",
+      "url": "https://www.google.com/maps/search/Comfort+Inn+and+Suites+near+40.462467%2C-79.953516",
+      "isFar": true
+    },
+    {
+      "name": "Best Western",
+      "distance": "9.5 mi",
+      "url": "https://www.google.com/maps/search/Best+Western+near+40.462467%2C-79.953516",
+      "isFar": true
     }
   ],
   "gas": [

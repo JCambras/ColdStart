@@ -121,6 +121,12 @@
       "name": "AMC Headquarters Plaza 10",
       "distance": "2.3 mi",
       "url": "https://www.google.com/maps/search/?api=1&query=AMC%20Headquarters%20Plaza%2010&query_place_id=ChIJxbtfArymw4kRSey1OkeTpSc&center=40.8003986,-74.4807711"
+    },
+    {
+      "name": "AMC Theatres",
+      "distance": "6.0 mi",
+      "url": "https://www.google.com/maps/search/AMC+Theatres+near+40.8309058%2C-74.5001413",
+      "isFar": true
     }
   ],
   "fun": [
@@ -150,6 +156,23 @@
       "name": "Parsippany Inn and Suites Morris Plains",
       "distance": "2.1 mi",
       "url": "https://www.google.com/maps/search/?api=1&query=Parsippany%20Inn%20and%20Suites%20Morris%20Plains&query_place_id=ChIJh8mM9lOnw4kR0YkzxxRomFM&center=40.860575499999996,-74.4950344"
+    },
+    {
+      "name": "Hampton Inn & Suites",
+      "distance": "5.0 mi",
+      "url": "https://www.google.com/maps/search/Hampton+Inn+and+Suites+near+40.8309058%2C-74.5001413"
+    },
+    {
+      "name": "Holiday Inn Express & Suites",
+      "distance": "6.5 mi",
+      "url": "https://www.google.com/maps/search/Holiday+Inn+Express+and+Suites+near+40.8309058%2C-74.5001413",
+      "isFar": true
+    },
+    {
+      "name": "Comfort Inn & Suites",
+      "distance": "8.0 mi",
+      "url": "https://www.google.com/maps/search/Comfort+Inn+and+Suites+near+40.8309058%2C-74.5001413",
+      "isFar": true
     }
   ],
   "gas": [

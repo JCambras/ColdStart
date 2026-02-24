@@ -31,6 +31,11 @@
       "name": "Krispy Kreme",
       "distance": "0.6 mi",
       "url": "https://www.google.com/maps/search/?api=1&query=Krispy%20Kreme&query_place_id=ChIJNQ76hbCAMogRcwxMKhP6YEY&center=42.0525419,-80.0840114"
+    },
+    {
+      "name": "Starbucks",
+      "distance": "3.0 mi",
+      "url": "https://www.google.com/maps/search/Starbucks+near+42.0445213%2C-80.0843124"
     }
   ],
   "team_lunch": [
@@ -53,6 +58,11 @@
       "name": "Texas Roadhouse",
       "distance": "0.6 mi",
       "url": "https://www.google.com/maps/search/?api=1&query=Texas%20Roadhouse&query_place_id=ChIJ87VrgrqAMogR_sw8h4001xU&center=42.053221099999995,-80.0847368"
+    },
+    {
+      "name": "Applebee's Grill + Bar",
+      "distance": "5.0 mi",
+      "url": "https://www.google.com/maps/search/Applebees+Grill+++Bar+near+42.0445213%2C-80.0843124"
     }
   ],
   "dinner": [
@@ -112,6 +122,12 @@
       "name": "cw in",
       "distance": "4.2 mi",
       "url": "https://www.google.com/maps/search/?api=1&query=CW%20IN&query_place_id=ChIJxcS7QDmAMogRs7KaN7g3OXw&center=42.104483699999996,-80.0691497",
+      "isFar": true
+    },
+    {
+      "name": "AMC Theatres",
+      "distance": "6.0 mi",
+      "url": "https://www.google.com/maps/search/AMC+Theatres+near+42.0445213%2C-80.0843124",
       "isFar": true
     }
   ],

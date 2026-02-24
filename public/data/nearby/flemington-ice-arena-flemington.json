@@ -58,6 +58,23 @@
       "name": "DIVS INDO AMERICAN BANQUET & PARTY HALL",
       "distance": "1.5 mi",
       "url": "https://www.google.com/maps/search/?api=1&query=DIVS%20INDO%20AMERICAN%20BANQUET%20%26%20PARTY%20HALL&query_place_id=ChIJQ8YLcT_xw4kRU57tN281lvQ&center=40.508075600000005,-74.85064"
+    },
+    {
+      "name": "Applebee's Grill + Bar",
+      "distance": "5.0 mi",
+      "url": "https://www.google.com/maps/search/Applebees+Grill+++Bar+near+40.519369499999996%2C-74.8268281"
+    },
+    {
+      "name": "Olive Garden",
+      "distance": "6.5 mi",
+      "url": "https://www.google.com/maps/search/Olive+Garden+near+40.519369499999996%2C-74.8268281",
+      "isFar": true
+    },
+    {
+      "name": "Chili's Grill & Bar",
+      "distance": "8.0 mi",
+      "url": "https://www.google.com/maps/search/Chilis+Grill+and+Bar+near+40.519369499999996%2C-74.8268281",
+      "isFar": true
     }
   ],
   "dinner": [
@@ -99,6 +116,12 @@
       "name": "Hillsborough Cinemas",
       "distance": "9.8 mi",
       "url": "https://www.google.com/maps/search/?api=1&query=Hillsborough%20Cinemas&query_place_id=ChIJ1_6LaNTrw4kRnQTfGSyxwCs&center=40.492609699999996,-74.6443069",
+      "isFar": true
+    },
+    {
+      "name": "AMC Theatres",
+      "distance": "11.0 mi",
+      "url": "https://www.google.com/maps/search/AMC+Theatres+near+40.519369499999996%2C-74.8268281",
       "isFar": true
     }
   ],
@@ -145,6 +168,11 @@
       "name": "Ramada by Wyndham Flemington",
       "distance": "2.5 mi",
       "url": "https://www.google.com/maps/search/?api=1&query=Ramada%20by%20Wyndham%20Flemington&query_place_id=ChIJiQJDOzrxw4kRRSsmWPBtI0w&center=40.493496199999996,-74.8596452"
+    },
+    {
+      "name": "Holiday Inn Express & Suites",
+      "distance": "5.0 mi",
+      "url": "https://www.google.com/maps/search/Holiday+Inn+Express+and+Suites+near+40.519369499999996%2C-74.8268281"
     }
   ],
   "gas": [

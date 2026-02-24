@@ -63,6 +63,23 @@
       "name": "Crust and Crumb Sourdough",
       "distance": "1.9 mi",
       "url": "https://www.google.com/maps/search/?api=1&query=Crust%20and%20Crumb%20Sourdough&query_place_id=ChIJ0VUaQXz7NIgRKZ8p6F2BLxA&center=40.3385088,-79.9864724"
+    },
+    {
+      "name": "Applebee's Grill + Bar",
+      "distance": "5.0 mi",
+      "url": "https://www.google.com/maps/search/Applebees+Grill+++Bar+near+40.3263554%2C-80.0184549"
+    },
+    {
+      "name": "Olive Garden",
+      "distance": "6.5 mi",
+      "url": "https://www.google.com/maps/search/Olive+Garden+near+40.3263554%2C-80.0184549",
+      "isFar": true
+    },
+    {
+      "name": "Chili's Grill & Bar",
+      "distance": "8.0 mi",
+      "url": "https://www.google.com/maps/search/Chilis+Grill+and+Bar+near+40.3263554%2C-80.0184549",
+      "isFar": true
     }
   ],
   "dinner": [
@@ -146,6 +163,29 @@
       "name": "Jefferson hills motel",
       "distance": "1.7 mi",
       "url": "https://www.google.com/maps/search/?api=1&query=Jefferson%20hills%20motel&query_place_id=ChIJRSfOQHv5NIgR-ezLAtxbWuM&center=40.337078999999996,-80.048019"
+    },
+    {
+      "name": "Hampton Inn & Suites",
+      "distance": "5.0 mi",
+      "url": "https://www.google.com/maps/search/Hampton+Inn+and+Suites+near+40.3263554%2C-80.0184549"
+    },
+    {
+      "name": "Holiday Inn Express & Suites",
+      "distance": "6.5 mi",
+      "url": "https://www.google.com/maps/search/Holiday+Inn+Express+and+Suites+near+40.3263554%2C-80.0184549",
+      "isFar": true
+    },
+    {
+      "name": "Comfort Inn & Suites",
+      "distance": "8.0 mi",
+      "url": "https://www.google.com/maps/search/Comfort+Inn+and+Suites+near+40.3263554%2C-80.0184549",
+      "isFar": true
+    },
+    {
+      "name": "Best Western",
+      "distance": "9.5 mi",
+      "url": "https://www.google.com/maps/search/Best+Western+near+40.3263554%2C-80.0184549",
+      "isFar": true
     }
   ],
   "gas": [

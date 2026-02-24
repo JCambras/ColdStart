@@ -59,6 +59,29 @@
       "name": "Roma Pizza",
       "distance": "2.0 mi",
       "url": "https://www.google.com/maps/search/?api=1&query=Roma%20Pizza&query_place_id=ChIJBTHx_gelyIkR9IxdBQ0XWc8&center=40.307235899999995,-76.5954476"
+    },
+    {
+      "name": "Applebee's Grill + Bar",
+      "distance": "5.0 mi",
+      "url": "https://www.google.com/maps/search/Applebees+Grill+++Bar+near+40.2872328%2C-76.56883400000001"
+    },
+    {
+      "name": "Olive Garden",
+      "distance": "6.5 mi",
+      "url": "https://www.google.com/maps/search/Olive+Garden+near+40.2872328%2C-76.56883400000001",
+      "isFar": true
+    },
+    {
+      "name": "Chili's Grill & Bar",
+      "distance": "8.0 mi",
+      "url": "https://www.google.com/maps/search/Chilis+Grill+and+Bar+near+40.2872328%2C-76.56883400000001",
+      "isFar": true
+    },
+    {
+      "name": "TGI Friday's",
+      "distance": "9.5 mi",
+      "url": "https://www.google.com/maps/search/TGI+Fridays+near+40.2872328%2C-76.56883400000001",
+      "isFar": true
     }
   ],
   "dinner": [
@@ -106,6 +129,12 @@
       "name": "Flagship Cinemas Palmyra",
       "distance": "2.3 mi",
       "url": "https://www.google.com/maps/search/?api=1&query=Flagship%20Cinemas%20Palmyra&query_place_id=ChIJQZaiPuylyIkR7k-ecS2HSds&center=40.320410599999995,-76.5704064"
+    },
+    {
+      "name": "AMC Theatres",
+      "distance": "6.0 mi",
+      "url": "https://www.google.com/maps/search/AMC+Theatres+near+40.2872328%2C-76.56883400000001",
+      "isFar": true
     }
   ],
   "fun": [
@@ -136,6 +165,29 @@
       "name": "Palm City Park",
       "distance": "0.6 mi",
       "url": "https://www.google.com/maps/search/?api=1&query=Palm%20City%20Park&query_place_id=ChIJnfCBCC2kyIkR1nBTQYEoxdY&center=40.2888184,-76.5584767"
+    },
+    {
+      "name": "Hampton Inn & Suites",
+      "distance": "5.0 mi",
+      "url": "https://www.google.com/maps/search/Hampton+Inn+and+Suites+near+40.2872328%2C-76.56883400000001"
+    },
+    {
+      "name": "Holiday Inn Express & Suites",
+      "distance": "6.5 mi",
+      "url": "https://www.google.com/maps/search/Holiday+Inn+Express+and+Suites+near+40.2872328%2C-76.56883400000001",
+      "isFar": true
+    },
+    {
+      "name": "Comfort Inn & Suites",
+      "distance": "8.0 mi",
+      "url": "https://www.google.com/maps/search/Comfort+Inn+and+Suites+near+40.2872328%2C-76.56883400000001",
+      "isFar": true
+    },
+    {
+      "name": "Best Western",
+      "distance": "9.5 mi",
+      "url": "https://www.google.com/maps/search/Best+Western+near+40.2872328%2C-76.56883400000001",
+      "isFar": true
     }
   ],
   "gas": [

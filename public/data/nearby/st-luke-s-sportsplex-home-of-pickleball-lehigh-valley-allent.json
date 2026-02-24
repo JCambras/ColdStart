@@ -58,6 +58,23 @@
       "name": "Trivet",
       "distance": "0.7 mi",
       "url": "https://www.google.com/maps/search/?api=1&query=Trivet&query_place_id=ChIJ84to-8EwxIkRyydgM-NB-Pw&center=40.590402999999995,-75.55620119999999"
+    },
+    {
+      "name": "Applebee's Grill + Bar",
+      "distance": "5.0 mi",
+      "url": "https://www.google.com/maps/search/Applebees+Grill+++Bar+near+40.5992281%2C-75.5644686"
+    },
+    {
+      "name": "Olive Garden",
+      "distance": "6.5 mi",
+      "url": "https://www.google.com/maps/search/Olive+Garden+near+40.5992281%2C-75.5644686",
+      "isFar": true
+    },
+    {
+      "name": "Chili's Grill & Bar",
+      "distance": "8.0 mi",
+      "url": "https://www.google.com/maps/search/Chilis+Grill+and+Bar+near+40.5992281%2C-75.5644686",
+      "isFar": true
     }
   ],
   "dinner": [

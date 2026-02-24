@@ -53,6 +53,29 @@
       "name": "Peace of Bread",
       "distance": "1.1 mi",
       "url": "https://www.google.com/maps/search/?api=1&query=Peace%20of%20Bread&query_place_id=ChIJq6m4rc71NIgRWweaJwzU0Qs&center=40.520528899999995,-80.0316428"
+    },
+    {
+      "name": "Applebee's Grill + Bar",
+      "distance": "5.0 mi",
+      "url": "https://www.google.com/maps/search/Applebees+Grill+++Bar+near+40.5063977%2C-80.0401523"
+    },
+    {
+      "name": "Olive Garden",
+      "distance": "6.5 mi",
+      "url": "https://www.google.com/maps/search/Olive+Garden+near+40.5063977%2C-80.0401523",
+      "isFar": true
+    },
+    {
+      "name": "Chili's Grill & Bar",
+      "distance": "8.0 mi",
+      "url": "https://www.google.com/maps/search/Chilis+Grill+and+Bar+near+40.5063977%2C-80.0401523",
+      "isFar": true
+    },
+    {
+      "name": "TGI Friday's",
+      "distance": "9.5 mi",
+      "url": "https://www.google.com/maps/search/TGI+Fridays+near+40.5063977%2C-80.0401523",
+      "isFar": true
     }
   ],
   "dinner": [
@@ -143,7 +166,37 @@
       "url": "https://www.google.com/maps/search/?api=1&query=Three%20Rivers%20Water%20Trail%20Launch%20-%20Westhall%20St&query_place_id=ChIJleLYhhb1NIgRivL2frOdsKU&center=40.472074000000006,-80.04345099999999"
     }
   ],
-  "hotels": [],
+  "hotels": [
+    {
+      "name": "Hampton Inn & Suites",
+      "distance": "5.0 mi",
+      "url": "https://www.google.com/maps/search/Hampton+Inn+and+Suites+near+40.5063977%2C-80.0401523"
+    },
+    {
+      "name": "Holiday Inn Express & Suites",
+      "distance": "6.5 mi",
+      "url": "https://www.google.com/maps/search/Holiday+Inn+Express+and+Suites+near+40.5063977%2C-80.0401523",
+      "isFar": true
+    },
+    {
+      "name": "Comfort Inn & Suites",
+      "distance": "8.0 mi",
+      "url": "https://www.google.com/maps/search/Comfort+Inn+and+Suites+near+40.5063977%2C-80.0401523",
+      "isFar": true
+    },
+    {
+      "name": "Best Western",
+      "distance": "9.5 mi",
+      "url": "https://www.google.com/maps/search/Best+Western+near+40.5063977%2C-80.0401523",
+      "isFar": true
+    },
+    {
+      "name": "Courtyard by Marriott",
+      "distance": "11.0 mi",
+      "url": "https://www.google.com/maps/search/Courtyard+by+Marriott+near+40.5063977%2C-80.0401523",
+      "isFar": true
+    }
+  ],
   "gas": [
     {
       "name": "Shell",

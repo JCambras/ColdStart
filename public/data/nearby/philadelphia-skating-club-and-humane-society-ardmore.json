@@ -63,6 +63,29 @@
       "name": "Halal to Go",
       "distance": "0.5 mi",
       "url": "https://www.google.com/maps/search/?api=1&query=Halal%20to%20Go&query_place_id=ChIJXQcaPbrBxokRv8M_RXETfes&center=40.0020721,-75.2968416"
+    },
+    {
+      "name": "Applebee's Grill + Bar",
+      "distance": "5.0 mi",
+      "url": "https://www.google.com/maps/search/Applebees+Grill+++Bar+near+40.008252899999995%2C-75.30142409999999"
+    },
+    {
+      "name": "Olive Garden",
+      "distance": "6.5 mi",
+      "url": "https://www.google.com/maps/search/Olive+Garden+near+40.008252899999995%2C-75.30142409999999",
+      "isFar": true
+    },
+    {
+      "name": "Chili's Grill & Bar",
+      "distance": "8.0 mi",
+      "url": "https://www.google.com/maps/search/Chilis+Grill+and+Bar+near+40.008252899999995%2C-75.30142409999999",
+      "isFar": true
+    },
+    {
+      "name": "TGI Friday's",
+      "distance": "9.5 mi",
+      "url": "https://www.google.com/maps/search/TGI+Fridays+near+40.008252899999995%2C-75.30142409999999",
+      "isFar": true
     }
   ],
   "dinner": [
@@ -164,6 +187,23 @@
       "name": "9 Booth Lane - Twin Room",
       "distance": "0.5 mi",
       "url": "https://www.google.com/maps/search/?api=1&query=9%20Booth%20Lane%20-%20Twin%20Room&query_place_id=ChIJ3Q7iTHjAxokR10T4pXSLei8&center=40.0152703,-75.3042297"
+    },
+    {
+      "name": "Hampton Inn & Suites",
+      "distance": "5.0 mi",
+      "url": "https://www.google.com/maps/search/Hampton+Inn+and+Suites+near+40.008252899999995%2C-75.30142409999999"
+    },
+    {
+      "name": "Holiday Inn Express & Suites",
+      "distance": "6.5 mi",
+      "url": "https://www.google.com/maps/search/Holiday+Inn+Express+and+Suites+near+40.008252899999995%2C-75.30142409999999",
+      "isFar": true
+    },
+    {
+      "name": "Comfort Inn & Suites",
+      "distance": "8.0 mi",
+      "url": "https://www.google.com/maps/search/Comfort+Inn+and+Suites+near+40.008252899999995%2C-75.30142409999999",
+      "isFar": true
     }
   ],
   "gas": [

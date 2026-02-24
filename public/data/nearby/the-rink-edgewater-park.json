@@ -53,6 +53,23 @@
       "name": "NO. 1 Chinese Restaurant",
       "distance": "1.1 mi",
       "url": "https://www.google.com/maps/search/?api=1&query=NO.%201%20Chinese%20Restaurant&query_place_id=ChIJawmpsZdLwYkRBF-lpfxCiUY&center=40.0272055,-74.9081805"
+    },
+    {
+      "name": "Applebee's Grill + Bar",
+      "distance": "5.0 mi",
+      "url": "https://www.google.com/maps/search/Applebees+Grill+++Bar+near+40.0373492%2C-74.92472049999999"
+    },
+    {
+      "name": "Olive Garden",
+      "distance": "6.5 mi",
+      "url": "https://www.google.com/maps/search/Olive+Garden+near+40.0373492%2C-74.92472049999999",
+      "isFar": true
+    },
+    {
+      "name": "Chili's Grill & Bar",
+      "distance": "8.0 mi",
+      "url": "https://www.google.com/maps/search/Chilis+Grill+and+Bar+near+40.0373492%2C-74.92472049999999",
+      "isFar": true
     }
   ],
   "dinner": [
@@ -97,6 +114,12 @@
       "distance": "3.4 mi",
       "url": "https://www.google.com/maps/search/?api=1&query=AMC%20Woodhaven%2010&query_place_id=ChIJde7TDrVMwYkRF5Ok6l_BdRU&center=40.0743448,-74.96782569999999",
       "isFar": true
+    },
+    {
+      "name": "AMC Theatres",
+      "distance": "6.0 mi",
+      "url": "https://www.google.com/maps/search/AMC+Theatres+near+40.0373492%2C-74.92472049999999",
+      "isFar": true
     }
   ],
   "fun": [
@@ -136,6 +159,17 @@
       "name": "Edgewater Park Lights",
       "distance": "1.8 mi",
       "url": "https://www.google.com/maps/search/?api=1&query=Edgewater%20Park%20Lights&query_place_id=ChIJ7zV9EqdNwYkRMHm5522a3K4&center=40.0570046,-74.90256289999999"
+    },
+    {
+      "name": "Hampton Inn & Suites",
+      "distance": "5.0 mi",
+      "url": "https://www.google.com/maps/search/Hampton+Inn+and+Suites+near+40.0373492%2C-74.92472049999999"
+    },
+    {
+      "name": "Holiday Inn Express & Suites",
+      "distance": "6.5 mi",
+      "url": "https://www.google.com/maps/search/Holiday+Inn+Express+and+Suites+near+40.0373492%2C-74.92472049999999",
+      "isFar": true
     }
   ],
   "gas": [

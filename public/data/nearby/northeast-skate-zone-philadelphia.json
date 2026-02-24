@@ -19,6 +19,11 @@
       "name": "Chick-fil-A",
       "distance": "1.0 mi",
       "url": "https://www.google.com/maps/search/?api=1&query=Chick-fil-A&query_place_id=ChIJjyuPHGyzxokRpum89ITMjoI&center=40.1052104,-75.0025986"
+    },
+    {
+      "name": "McDonald's",
+      "distance": "3.0 mi",
+      "url": "https://www.google.com/maps/search/McDonalds+near+40.093486299999995%2C-74.99069779999999"
     }
   ],
   "coffee": [
@@ -26,6 +31,11 @@
       "name": "Dunkin'",
       "distance": "0.9 mi",
       "url": "https://www.google.com/maps/search/?api=1&query=Dunkin'&query_place_id=ChIJfVIfsNWyxokRTPkLlgyq-eg&center=40.0964603,-74.9750117"
+    },
+    {
+      "name": "Starbucks",
+      "distance": "3.0 mi",
+      "url": "https://www.google.com/maps/search/Starbucks+near+40.093486299999995%2C-74.99069779999999"
     }
   ],
   "team_lunch": [

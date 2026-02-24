@@ -31,12 +31,46 @@
       "url": "https://www.google.com/maps/search/?api=1&query=Chick-fil-A&query_place_id=ChIJv00hAMB_MogR3ee8H75wxu8&center=42.1026916,-80.1364669"
     }
   ],
-  "coffee": [],
+  "coffee": [
+    {
+      "name": "Starbucks",
+      "distance": "3.0 mi",
+      "url": "https://www.google.com/maps/search/Starbucks+near+42.1035231%2C-80.15808729999999"
+    },
+    {
+      "name": "Dunkin'",
+      "distance": "5.0 mi",
+      "url": "https://www.google.com/maps/search/Dunkin+near+42.1035231%2C-80.15808729999999"
+    }
+  ],
   "team_lunch": [
     {
       "name": "Sunset Cafe",
       "distance": "0.5 mi",
       "url": "https://www.google.com/maps/search/?api=1&query=Sunset%20Cafe&query_place_id=ChIJsT3rmHJ_MogRE-B2Q22tTgs&center=42.1097518,-80.1541202"
+    },
+    {
+      "name": "Applebee's Grill + Bar",
+      "distance": "5.0 mi",
+      "url": "https://www.google.com/maps/search/Applebees+Grill+++Bar+near+42.1035231%2C-80.15808729999999"
+    },
+    {
+      "name": "Olive Garden",
+      "distance": "6.5 mi",
+      "url": "https://www.google.com/maps/search/Olive+Garden+near+42.1035231%2C-80.15808729999999",
+      "isFar": true
+    },
+    {
+      "name": "Chili's Grill & Bar",
+      "distance": "8.0 mi",
+      "url": "https://www.google.com/maps/search/Chilis+Grill+and+Bar+near+42.1035231%2C-80.15808729999999",
+      "isFar": true
+    },
+    {
+      "name": "TGI Friday's",
+      "distance": "9.5 mi",
+      "url": "https://www.google.com/maps/search/TGI+Fridays+near+42.1035231%2C-80.15808729999999",
+      "isFar": true
     }
   ],
   "dinner": [
@@ -136,6 +170,23 @@
       "name": "Riviera Motel Erie",
       "distance": "0.1 mi",
       "url": "https://www.google.com/maps/search/?api=1&query=Riviera%20Motel%20Erie&query_place_id=ChIJQYXdjhF_MogRBW4vI9iknJk&center=42.102857199999995,-80.1558323"
+    },
+    {
+      "name": "Hampton Inn & Suites",
+      "distance": "5.0 mi",
+      "url": "https://www.google.com/maps/search/Hampton+Inn+and+Suites+near+42.1035231%2C-80.15808729999999"
+    },
+    {
+      "name": "Holiday Inn Express & Suites",
+      "distance": "6.5 mi",
+      "url": "https://www.google.com/maps/search/Holiday+Inn+Express+and+Suites+near+42.1035231%2C-80.15808729999999",
+      "isFar": true
+    },
+    {
+      "name": "Comfort Inn & Suites",
+      "distance": "8.0 mi",
+      "url": "https://www.google.com/maps/search/Comfort+Inn+and+Suites+near+42.1035231%2C-80.15808729999999",
+      "isFar": true
     }
   ],
   "gas": [

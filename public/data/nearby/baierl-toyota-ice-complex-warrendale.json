@@ -36,6 +36,11 @@
       "name": "Einstein Bros. Bagels",
       "distance": "1.4 mi",
       "url": "https://www.google.com/maps/search/?api=1&query=Einstein%20Bros.%20Bagels&query_place_id=ChIJPUupOaliNIgRV4d2GTCX-dk&center=40.688185,-80.102729"
+    },
+    {
+      "name": "Starbucks",
+      "distance": "3.0 mi",
+      "url": "https://www.google.com/maps/search/Starbucks+near+40.6677661%2C-80.1006704"
     }
   ],
   "team_lunch": [
@@ -48,6 +53,23 @@
       "name": "CHiKN",
       "distance": "0.6 mi",
       "url": "https://www.google.com/maps/search/?api=1&query=CHiKN&query_place_id=ChIJ5_6wzXhjNIgRp5ZINLw7GfM&center=40.6756228,-80.0983844"
+    },
+    {
+      "name": "Applebee's Grill + Bar",
+      "distance": "5.0 mi",
+      "url": "https://www.google.com/maps/search/Applebees+Grill+++Bar+near+40.6677661%2C-80.1006704"
+    },
+    {
+      "name": "Olive Garden",
+      "distance": "6.5 mi",
+      "url": "https://www.google.com/maps/search/Olive+Garden+near+40.6677661%2C-80.1006704",
+      "isFar": true
+    },
+    {
+      "name": "Chili's Grill & Bar",
+      "distance": "8.0 mi",
+      "url": "https://www.google.com/maps/search/Chilis+Grill+and+Bar+near+40.6677661%2C-80.1006704",
+      "isFar": true
     }
   ],
   "dinner": [
@@ -84,6 +106,12 @@
       "name": "MovieScoop Cranberry Luxury Cinemas",
       "distance": "1.1 mi",
       "url": "https://www.google.com/maps/search/?api=1&query=MovieScoop%20Cranberry%20Luxury%20Cinemas&query_place_id=ChIJB3remKViNIgRF5nV_U_Zh-M&center=40.6827697,-80.1052773"
+    },
+    {
+      "name": "AMC Theatres",
+      "distance": "6.0 mi",
+      "url": "https://www.google.com/maps/search/AMC+Theatres+near+40.6677661%2C-80.1006704",
+      "isFar": true
     }
   ],
   "fun": [

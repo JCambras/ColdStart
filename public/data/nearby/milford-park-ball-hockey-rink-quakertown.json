@@ -43,6 +43,29 @@
       "name": "Best Food In Town",
       "distance": "1.9 mi",
       "url": "https://www.google.com/maps/search/?api=1&query=Best%20Food%20In%20Town&query_place_id=ChIJNYobw2kixIkRBx8x9qYeHn8&center=40.44666230000001,-75.3626091"
+    },
+    {
+      "name": "Applebee's Grill + Bar",
+      "distance": "5.0 mi",
+      "url": "https://www.google.com/maps/search/Applebees+Grill+++Bar+near+40.4314233%2C-75.39295229999999"
+    },
+    {
+      "name": "Olive Garden",
+      "distance": "6.5 mi",
+      "url": "https://www.google.com/maps/search/Olive+Garden+near+40.4314233%2C-75.39295229999999",
+      "isFar": true
+    },
+    {
+      "name": "Chili's Grill & Bar",
+      "distance": "8.0 mi",
+      "url": "https://www.google.com/maps/search/Chilis+Grill+and+Bar+near+40.4314233%2C-75.39295229999999",
+      "isFar": true
+    },
+    {
+      "name": "TGI Friday's",
+      "distance": "9.5 mi",
+      "url": "https://www.google.com/maps/search/TGI+Fridays+near+40.4314233%2C-75.39295229999999",
+      "isFar": true
     }
   ],
   "dinner": [
@@ -90,6 +113,12 @@
       "name": "R/C Richland Crossings Movies 12",
       "distance": "2.3 mi",
       "url": "https://www.google.com/maps/search/?api=1&query=R%2FC%20Richland%20Crossings%20Movies%2012&query_place_id=ChIJMVEeEB8jxIkRhYmo_N2CJIM&center=40.448555999999996,-75.354833"
+    },
+    {
+      "name": "AMC Theatres",
+      "distance": "6.0 mi",
+      "url": "https://www.google.com/maps/search/AMC+Theatres+near+40.4314233%2C-75.39295229999999",
+      "isFar": true
     }
   ],
   "fun": [

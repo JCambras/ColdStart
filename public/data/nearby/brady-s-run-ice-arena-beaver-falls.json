@@ -48,6 +48,29 @@
       "name": "Ayesha’s Bake House",
       "distance": "3.0 mi",
       "url": "https://www.google.com/maps/search/?api=1&query=Ayesha%E2%80%99s%20Bake%20House&query_place_id=ChIJl_Mw74FxNIgRmrpjiiNLOOs&center=40.7203903,-80.2825541"
+    },
+    {
+      "name": "Applebee's Grill + Bar",
+      "distance": "5.0 mi",
+      "url": "https://www.google.com/maps/search/Applebees+Grill+++Bar+near+40.7315135%2C-80.337064"
+    },
+    {
+      "name": "Olive Garden",
+      "distance": "6.5 mi",
+      "url": "https://www.google.com/maps/search/Olive+Garden+near+40.7315135%2C-80.337064",
+      "isFar": true
+    },
+    {
+      "name": "Chili's Grill & Bar",
+      "distance": "8.0 mi",
+      "url": "https://www.google.com/maps/search/Chilis+Grill+and+Bar+near+40.7315135%2C-80.337064",
+      "isFar": true
+    },
+    {
+      "name": "TGI Friday's",
+      "distance": "9.5 mi",
+      "url": "https://www.google.com/maps/search/TGI+Fridays+near+40.7315135%2C-80.337064",
+      "isFar": true
     }
   ],
   "dinner": [
@@ -84,7 +107,20 @@
   ],
   "bowling": [],
   "arcade": [],
-  "movies": [],
+  "movies": [
+    {
+      "name": "AMC Theatres",
+      "distance": "6.0 mi",
+      "url": "https://www.google.com/maps/search/AMC+Theatres+near+40.7315135%2C-80.337064",
+      "isFar": true
+    },
+    {
+      "name": "Regal Cinemas",
+      "distance": "10.0 mi",
+      "url": "https://www.google.com/maps/search/Regal+Cinemas+near+40.7315135%2C-80.337064",
+      "isFar": true
+    }
+  ],
   "fun": [
     {
       "name": "Eagle Watching Station",
@@ -124,6 +160,17 @@
       "name": "RV park",
       "distance": "2.4 mi",
       "url": "https://www.google.com/maps/search/?api=1&query=RV%20park&query_place_id=ChIJ4WSsFnxxNIgRmyPRKVTgTEI&center=40.739852899999995,-80.2929992"
+    },
+    {
+      "name": "Hampton Inn & Suites",
+      "distance": "5.0 mi",
+      "url": "https://www.google.com/maps/search/Hampton+Inn+and+Suites+near+40.7315135%2C-80.337064"
+    },
+    {
+      "name": "Holiday Inn Express & Suites",
+      "distance": "6.5 mi",
+      "url": "https://www.google.com/maps/search/Holiday+Inn+Express+and+Suites+near+40.7315135%2C-80.337064",
+      "isFar": true
     }
   ],
   "gas": [

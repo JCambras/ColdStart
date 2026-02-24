@@ -68,6 +68,11 @@
       "name": "Hopkins resturant",
       "distance": "1.7 mi",
       "url": "https://www.google.com/maps/search/?api=1&query=Hopkins%20resturant&query_place_id=ChIJlY_URgBNwYkRHeyttPPBlgA&center=40.092639399999996,-74.8845791"
+    },
+    {
+      "name": "Applebee's Grill + Bar",
+      "distance": "5.0 mi",
+      "url": "https://www.google.com/maps/search/Applebees+Grill+++Bar+near+40.101185199999996%2C-74.8544596"
     }
   ],
   "dinner": [
@@ -116,6 +121,12 @@
       "distance": "4.7 mi",
       "url": "https://www.google.com/maps/search/?api=1&query=Regal%20Burlington&query_place_id=ChIJ4T55_itPwYkR6Apez1OgmFA&center=40.0374045,-74.82163059999999",
       "isFar": true
+    },
+    {
+      "name": "AMC Theatres",
+      "distance": "6.0 mi",
+      "url": "https://www.google.com/maps/search/AMC+Theatres+near+40.101185199999996%2C-74.8544596",
+      "isFar": true
     }
   ],
   "fun": [
@@ -150,6 +161,23 @@
       "name": "Village Lodge",
       "distance": "0.8 mi",
       "url": "https://www.google.com/maps/search/?api=1&query=Village%20Lodge&query_place_id=ChIJpx1btyFOwYkRyR3_eMNMFHc&center=40.1131251,-74.8531908"
+    },
+    {
+      "name": "Hampton Inn & Suites",
+      "distance": "5.0 mi",
+      "url": "https://www.google.com/maps/search/Hampton+Inn+and+Suites+near+40.101185199999996%2C-74.8544596"
+    },
+    {
+      "name": "Holiday Inn Express & Suites",
+      "distance": "6.5 mi",
+      "url": "https://www.google.com/maps/search/Holiday+Inn+Express+and+Suites+near+40.101185199999996%2C-74.8544596",
+      "isFar": true
+    },
+    {
+      "name": "Comfort Inn & Suites",
+      "distance": "8.0 mi",
+      "url": "https://www.google.com/maps/search/Comfort+Inn+and+Suites+near+40.101185199999996%2C-74.8544596",
+      "isFar": true
     }
   ],
   "gas": [

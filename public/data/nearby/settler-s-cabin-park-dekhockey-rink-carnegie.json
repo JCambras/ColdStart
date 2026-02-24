@@ -122,7 +122,20 @@
     }
   ],
   "arcade": [],
-  "movies": [],
+  "movies": [
+    {
+      "name": "AMC Theatres",
+      "distance": "6.0 mi",
+      "url": "https://www.google.com/maps/search/AMC+Theatres+near+40.4319019%2C-80.1569789",
+      "isFar": true
+    },
+    {
+      "name": "Regal Cinemas",
+      "distance": "10.0 mi",
+      "url": "https://www.google.com/maps/search/Regal+Cinemas+near+40.4319019%2C-80.1569789",
+      "isFar": true
+    }
+  ],
   "fun": [
     {
       "name": "Settlers Cabin Waterfall",

@@ -217,6 +217,29 @@
       "name": "Fairfield by Marriott Inn & Suites Philadelphia Broomall/Newtown Square",
       "distance": "0.9 mi",
       "url": "https://www.google.com/maps/search/?api=1&query=Fairfield%20by%20Marriott%20Inn%20%26%20Suites%20Philadelphia%20Broomall%2FNewtown%20Square&query_place_id=ChIJ7Yaiy9fBxokR4XVJq_QbzjE&center=39.9737825,-75.3419156"
+    },
+    {
+      "name": "Hampton Inn & Suites",
+      "distance": "5.0 mi",
+      "url": "https://www.google.com/maps/search/Hampton+Inn+and+Suites+near+39.96106340000001%2C-75.3388519"
+    },
+    {
+      "name": "Holiday Inn Express & Suites",
+      "distance": "6.5 mi",
+      "url": "https://www.google.com/maps/search/Holiday+Inn+Express+and+Suites+near+39.96106340000001%2C-75.3388519",
+      "isFar": true
+    },
+    {
+      "name": "Comfort Inn & Suites",
+      "distance": "8.0 mi",
+      "url": "https://www.google.com/maps/search/Comfort+Inn+and+Suites+near+39.96106340000001%2C-75.3388519",
+      "isFar": true
+    },
+    {
+      "name": "Best Western",
+      "distance": "9.5 mi",
+      "url": "https://www.google.com/maps/search/Best+Western+near+39.96106340000001%2C-75.3388519",
+      "isFar": true
     }
   ],
   "gas": [

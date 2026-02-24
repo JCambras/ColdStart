@@ -49,6 +49,29 @@
       "distance": "3.7 mi",
       "url": "https://www.google.com/maps/search/?api=1&query=Bigtime's%20Baked%20Goodies&query_place_id=ChIJU9Vp0rCPM4gR9ud7Xf7j5W0&center=41.008078499999996,-80.3413064",
       "isFar": true
+    },
+    {
+      "name": "Applebee's Grill + Bar",
+      "distance": "5.0 mi",
+      "url": "https://www.google.com/maps/search/Applebees+Grill+++Bar+near+41.061837%2C-80.338645"
+    },
+    {
+      "name": "Olive Garden",
+      "distance": "6.5 mi",
+      "url": "https://www.google.com/maps/search/Olive+Garden+near+41.061837%2C-80.338645",
+      "isFar": true
+    },
+    {
+      "name": "Chili's Grill & Bar",
+      "distance": "8.0 mi",
+      "url": "https://www.google.com/maps/search/Chilis+Grill+and+Bar+near+41.061837%2C-80.338645",
+      "isFar": true
+    },
+    {
+      "name": "TGI Friday's",
+      "distance": "9.5 mi",
+      "url": "https://www.google.com/maps/search/TGI+Fridays+near+41.061837%2C-80.338645",
+      "isFar": true
     }
   ],
   "dinner": [
@@ -149,6 +172,17 @@
       "name": "Neshannock Creekside Log Cabin",
       "distance": "3.2 mi",
       "url": "https://www.google.com/maps/search/?api=1&query=Neshannock%20Creekside%20Log%20Cabin&query_place_id=ChIJa5NFv5eQM4gRsB_GL_EPmow&center=41.0900192,-80.2895736",
+      "isFar": true
+    },
+    {
+      "name": "Hampton Inn & Suites",
+      "distance": "5.0 mi",
+      "url": "https://www.google.com/maps/search/Hampton+Inn+and+Suites+near+41.061837%2C-80.338645"
+    },
+    {
+      "name": "Holiday Inn Express & Suites",
+      "distance": "6.5 mi",
+      "url": "https://www.google.com/maps/search/Holiday+Inn+Express+and+Suites+near+41.061837%2C-80.338645",
       "isFar": true
     }
   ],

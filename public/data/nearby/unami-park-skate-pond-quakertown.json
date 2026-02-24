@@ -53,6 +53,17 @@
       "name": "John's Plain & Fancy Diner",
       "distance": "2.2 mi",
       "url": "https://www.google.com/maps/search/?api=1&query=John's%20Plain%20%26%20Fancy%20Diner&query_place_id=ChIJq0hBdxMixIkRBCM1LrsQnuI&center=40.4419392,-75.3578282"
+    },
+    {
+      "name": "Applebee's Grill + Bar",
+      "distance": "5.0 mi",
+      "url": "https://www.google.com/maps/search/Applebees+Grill+++Bar+near+40.4286479%2C-75.3954952"
+    },
+    {
+      "name": "Olive Garden",
+      "distance": "6.5 mi",
+      "url": "https://www.google.com/maps/search/Olive+Garden+near+40.4286479%2C-75.3954952",
+      "isFar": true
     }
   ],
   "dinner": [
@@ -100,6 +111,12 @@
       "name": "R/C Richland Crossings Movies 12",
       "distance": "2.5 mi",
       "url": "https://www.google.com/maps/search/?api=1&query=R%2FC%20Richland%20Crossings%20Movies%2012&query_place_id=ChIJMVEeEB8jxIkRhYmo_N2CJIM&center=40.448555999999996,-75.354833"
+    },
+    {
+      "name": "AMC Theatres",
+      "distance": "6.0 mi",
+      "url": "https://www.google.com/maps/search/AMC+Theatres+near+40.4286479%2C-75.3954952",
+      "isFar": true
     }
   ],
   "fun": [

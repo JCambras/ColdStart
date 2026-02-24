@@ -53,6 +53,23 @@
       "name": "Restaurant Y pupuseria los veliz#2",
       "distance": "2.0 mi",
       "url": "https://www.google.com/maps/search/?api=1&query=Restaurant%20Y%20pupuseria%20los%20veliz%232&query_place_id=ChIJBXpk4AyFw4kRQmsavKXOGWY&center=40.8294997,-74.82186759999999"
+    },
+    {
+      "name": "Applebee's Grill + Bar",
+      "distance": "5.0 mi",
+      "url": "https://www.google.com/maps/search/Applebees+Grill+++Bar+near+40.80417%2C-74.8016231"
+    },
+    {
+      "name": "Olive Garden",
+      "distance": "6.5 mi",
+      "url": "https://www.google.com/maps/search/Olive+Garden+near+40.80417%2C-74.8016231",
+      "isFar": true
+    },
+    {
+      "name": "Chili's Grill & Bar",
+      "distance": "8.0 mi",
+      "url": "https://www.google.com/maps/search/Chilis+Grill+and+Bar+near+40.80417%2C-74.8016231",
+      "isFar": true
     }
   ],
   "dinner": [
@@ -107,6 +124,12 @@
       "name": "Cinépolis Luxury Cinemas Mansfield",
       "distance": "2.3 mi",
       "url": "https://www.google.com/maps/search/?api=1&query=Cin%C3%A9polis%20Luxury%20Cinemas%20Mansfield&query_place_id=ChIJ76jJKXuEw4kRiHRuXQ6h1uQ&center=40.824853999999995,-74.8353029"
+    },
+    {
+      "name": "AMC Theatres",
+      "distance": "6.0 mi",
+      "url": "https://www.google.com/maps/search/AMC+Theatres+near+40.80417%2C-74.8016231",
+      "isFar": true
     }
   ],
   "fun": [
@@ -155,6 +178,11 @@
       "name": "Quality Inn Hackettstown - Long Valley",
       "distance": "2.2 mi",
       "url": "https://www.google.com/maps/search/?api=1&query=Quality%20Inn%20Hackettstown%20-%20Long%20Valley%20-%20King%20Room%20-%20Non-Smoking&query_place_id=ChIJtTKNFmWEw4kR_uW4KNicUn8&center=40.8221092,-74.8370971"
+    },
+    {
+      "name": "Hampton Inn & Suites",
+      "distance": "5.0 mi",
+      "url": "https://www.google.com/maps/search/Hampton+Inn+and+Suites+near+40.80417%2C-74.8016231"
     }
   ],
   "gas": [

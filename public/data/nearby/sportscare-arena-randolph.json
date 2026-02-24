@@ -58,6 +58,29 @@
       "name": "Java Joe's Bagels",
       "distance": "0.8 mi",
       "url": "https://www.google.com/maps/search/?api=1&query=Java%20Joe's%20Bagels&query_place_id=ChIJldo9EDCew4kRhk2NyC7Epbo&center=40.862437,-74.63268719999999"
+    },
+    {
+      "name": "Applebee's Grill + Bar",
+      "distance": "5.0 mi",
+      "url": "https://www.google.com/maps/search/Applebees+Grill+++Bar+near+40.8590863%2C-74.6182844"
+    },
+    {
+      "name": "Olive Garden",
+      "distance": "6.5 mi",
+      "url": "https://www.google.com/maps/search/Olive+Garden+near+40.8590863%2C-74.6182844",
+      "isFar": true
+    },
+    {
+      "name": "Chili's Grill & Bar",
+      "distance": "8.0 mi",
+      "url": "https://www.google.com/maps/search/Chilis+Grill+and+Bar+near+40.8590863%2C-74.6182844",
+      "isFar": true
+    },
+    {
+      "name": "TGI Friday's",
+      "distance": "9.5 mi",
+      "url": "https://www.google.com/maps/search/TGI+Fridays+near+40.8590863%2C-74.6182844",
+      "isFar": true
     }
   ],
   "dinner": [
@@ -101,6 +124,12 @@
       "distance": "4.7 mi",
       "url": "https://www.google.com/maps/search/?api=1&query=AMC%20Rockaway%2016&query_place_id=ChIJmzQUk7ELw4kRwL9xJPg47Oc&center=40.9097033,-74.55804049999999",
       "isFar": true
+    },
+    {
+      "name": "AMC Theatres",
+      "distance": "6.0 mi",
+      "url": "https://www.google.com/maps/search/AMC+Theatres+near+40.8590863%2C-74.6182844",
+      "isFar": true
     }
   ],
   "fun": [
@@ -138,6 +167,23 @@
       "name": "Boundary Motel",
       "distance": "1.4 mi",
       "url": "https://www.google.com/maps/search/?api=1&query=Boundary%20Motel&query_place_id=ChIJ5ZsXCOGfw4kRZn9WwiXVDxY&center=40.879169399999995,-74.6143646"
+    },
+    {
+      "name": "Hampton Inn & Suites",
+      "distance": "5.0 mi",
+      "url": "https://www.google.com/maps/search/Hampton+Inn+and+Suites+near+40.8590863%2C-74.6182844"
+    },
+    {
+      "name": "Holiday Inn Express & Suites",
+      "distance": "6.5 mi",
+      "url": "https://www.google.com/maps/search/Holiday+Inn+Express+and+Suites+near+40.8590863%2C-74.6182844",
+      "isFar": true
+    },
+    {
+      "name": "Comfort Inn & Suites",
+      "distance": "8.0 mi",
+      "url": "https://www.google.com/maps/search/Comfort+Inn+and+Suites+near+40.8590863%2C-74.6182844",
+      "isFar": true
     }
   ],
   "gas": [

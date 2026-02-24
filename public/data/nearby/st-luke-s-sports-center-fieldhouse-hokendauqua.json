@@ -68,6 +68,17 @@
       "name": "Kogelman Distributing Co",
       "distance": "1.4 mi",
       "url": "https://www.google.com/maps/search/?api=1&query=Kogelman%20Distributing%20Co&query_place_id=ChIJLURsxe04xIkRvpjYJMURf0E&center=40.653903,-75.4673849"
+    },
+    {
+      "name": "Applebee's Grill + Bar",
+      "distance": "5.0 mi",
+      "url": "https://www.google.com/maps/search/Applebees+Grill+++Bar+near+40.652555899999996%2C-75.4941044"
+    },
+    {
+      "name": "Olive Garden",
+      "distance": "6.5 mi",
+      "url": "https://www.google.com/maps/search/Olive+Garden+near+40.652555899999996%2C-75.4941044",
+      "isFar": true
     }
   ],
   "dinner": [
@@ -146,6 +157,29 @@
       "name": "Wacu’s Landing",
       "distance": "0.9 mi",
       "url": "https://www.google.com/maps/search/?api=1&query=Wacu%E2%80%99s%20Landing&query_place_id=ChIJMW9_OO45xIkRnlIvPS_OJQc&center=40.6658636,-75.4970676"
+    },
+    {
+      "name": "Hampton Inn & Suites",
+      "distance": "5.0 mi",
+      "url": "https://www.google.com/maps/search/Hampton+Inn+and+Suites+near+40.652555899999996%2C-75.4941044"
+    },
+    {
+      "name": "Holiday Inn Express & Suites",
+      "distance": "6.5 mi",
+      "url": "https://www.google.com/maps/search/Holiday+Inn+Express+and+Suites+near+40.652555899999996%2C-75.4941044",
+      "isFar": true
+    },
+    {
+      "name": "Comfort Inn & Suites",
+      "distance": "8.0 mi",
+      "url": "https://www.google.com/maps/search/Comfort+Inn+and+Suites+near+40.652555899999996%2C-75.4941044",
+      "isFar": true
+    },
+    {
+      "name": "Best Western",
+      "distance": "9.5 mi",
+      "url": "https://www.google.com/maps/search/Best+Western+near+40.652555899999996%2C-75.4941044",
+      "isFar": true
     }
   ],
   "gas": [

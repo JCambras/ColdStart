@@ -63,6 +63,11 @@
       "name": "The Burger Den",
       "distance": "0.6 mi",
       "url": "https://www.google.com/maps/search/?api=1&query=The%20Burger%20Den&query_place_id=ChIJr5th1WmRy4kRcxR6_rrBcRM&center=40.4692873,-78.40532929999999"
+    },
+    {
+      "name": "Applebee's Grill + Bar",
+      "distance": "5.0 mi",
+      "url": "https://www.google.com/maps/search/Applebees+Grill+++Bar+near+40.471775%2C-78.3942184"
     }
   ],
   "dinner": [
@@ -154,6 +159,17 @@
       "name": "3535 Fairway dr",
       "distance": "0.6 mi",
       "url": "https://www.google.com/maps/search/?api=1&query=3535%20fairway%20dr&query_place_id=ChIJVebRLACRy4kRMJcM6eUcpWs&center=40.4808565,-78.3955541"
+    },
+    {
+      "name": "Hampton Inn & Suites",
+      "distance": "5.0 mi",
+      "url": "https://www.google.com/maps/search/Hampton+Inn+and+Suites+near+40.471775%2C-78.3942184"
+    },
+    {
+      "name": "Holiday Inn Express & Suites",
+      "distance": "6.5 mi",
+      "url": "https://www.google.com/maps/search/Holiday+Inn+Express+and+Suites+near+40.471775%2C-78.3942184",
+      "isFar": true
     }
   ],
   "gas": [

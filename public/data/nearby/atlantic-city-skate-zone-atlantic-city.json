@@ -153,6 +153,29 @@
       "name": "AC Moose Lodge 216",
       "distance": "0.3 mi",
       "url": "https://www.google.com/maps/search/?api=1&query=AC%20Moose%20Lodge%20216&query_place_id=ChIJWz7mfo3uwIkR-bdOxt4Rrhg&center=39.3592224,-74.46405709999999"
+    },
+    {
+      "name": "Hampton Inn & Suites",
+      "distance": "5.0 mi",
+      "url": "https://www.google.com/maps/search/Hampton+Inn+and+Suites+near+39.357258%2C-74.45843099999999"
+    },
+    {
+      "name": "Holiday Inn Express & Suites",
+      "distance": "6.5 mi",
+      "url": "https://www.google.com/maps/search/Holiday+Inn+Express+and+Suites+near+39.357258%2C-74.45843099999999",
+      "isFar": true
+    },
+    {
+      "name": "Comfort Inn & Suites",
+      "distance": "8.0 mi",
+      "url": "https://www.google.com/maps/search/Comfort+Inn+and+Suites+near+39.357258%2C-74.45843099999999",
+      "isFar": true
+    },
+    {
+      "name": "Best Western",
+      "distance": "9.5 mi",
+      "url": "https://www.google.com/maps/search/Best+Western+near+39.357258%2C-74.45843099999999",
+      "isFar": true
     }
   ],
   "gas": [

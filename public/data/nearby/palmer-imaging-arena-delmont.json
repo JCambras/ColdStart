@@ -36,6 +36,11 @@
       "name": "Starbucks Coffee Company",
       "distance": "0.4 mi",
       "url": "https://www.google.com/maps/search/?api=1&query=Starbucks%20Coffee%20Company&query_place_id=ChIJL2UgZADFNIgRu5n6k63dUjk&center=40.39992,-79.58418999999999"
+    },
+    {
+      "name": "Dunkin'",
+      "distance": "3.0 mi",
+      "url": "https://www.google.com/maps/search/Dunkin+near+40.401077799999996%2C-79.57636389999999"
     }
   ],
   "team_lunch": [
@@ -53,6 +58,17 @@
       "name": "Whisk & Jar",
       "distance": "3.3 mi",
       "url": "https://www.google.com/maps/search/?api=1&query=whisk%20%26%20jar&query_place_id=ChIJG-EKYVXHNIgRnEWWL5rgkv8&center=40.447326,-79.5905066",
+      "isFar": true
+    },
+    {
+      "name": "Applebee's Grill + Bar",
+      "distance": "5.0 mi",
+      "url": "https://www.google.com/maps/search/Applebees+Grill+++Bar+near+40.401077799999996%2C-79.57636389999999"
+    },
+    {
+      "name": "Olive Garden",
+      "distance": "6.5 mi",
+      "url": "https://www.google.com/maps/search/Olive+Garden+near+40.401077799999996%2C-79.57636389999999",
       "isFar": true
     }
   ],
@@ -109,6 +125,12 @@
       "distance": "8.1 mi",
       "url": "https://www.google.com/maps/search/?api=1&query=AMC%20Westmoreland%2015&query_place_id=ChIJJ8LVYcnRNIgRAvjwXYhv5Xk&center=40.2974259,-79.50507019999999",
       "isFar": true
+    },
+    {
+      "name": "AMC Theatres",
+      "distance": "9.0 mi",
+      "url": "https://www.google.com/maps/search/AMC+Theatres+near+40.401077799999996%2C-79.57636389999999",
+      "isFar": true
     }
   ],
   "fun": [
@@ -145,6 +167,17 @@
       "name": "Super 8 by Wyndham Delmont",
       "distance": "0.4 mi",
       "url": "https://www.google.com/maps/search/?api=1&query=Super%208%20by%20Wyndham%20Delmont&query_place_id=ChIJK0a15-_FNIgRQySwSqmNMEM&center=40.3953731,-79.57263300000001"
+    },
+    {
+      "name": "Hampton Inn & Suites",
+      "distance": "5.0 mi",
+      "url": "https://www.google.com/maps/search/Hampton+Inn+and+Suites+near+40.401077799999996%2C-79.57636389999999"
+    },
+    {
+      "name": "Comfort Inn & Suites",
+      "distance": "6.5 mi",
+      "url": "https://www.google.com/maps/search/Comfort+Inn+and+Suites+near+40.401077799999996%2C-79.57636389999999",
+      "isFar": true
     }
   ],
   "gas": [

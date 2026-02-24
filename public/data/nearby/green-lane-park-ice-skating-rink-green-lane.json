@@ -59,6 +59,29 @@
       "name": "Roscoe italian",
       "distance": "2.5 mi",
       "url": "https://www.google.com/maps/search/?api=1&query=Roscoe%20italian&query_place_id=ChIJebYmdwAnxIkRZvCn09tkzgI&center=40.3715276,-75.48260719999999"
+    },
+    {
+      "name": "Applebee's Grill + Bar",
+      "distance": "5.0 mi",
+      "url": "https://www.google.com/maps/search/Applebees+Grill+++Bar+near+40.335550999999995%2C-75.4846736"
+    },
+    {
+      "name": "Olive Garden",
+      "distance": "6.5 mi",
+      "url": "https://www.google.com/maps/search/Olive+Garden+near+40.335550999999995%2C-75.4846736",
+      "isFar": true
+    },
+    {
+      "name": "Chili's Grill & Bar",
+      "distance": "8.0 mi",
+      "url": "https://www.google.com/maps/search/Chilis+Grill+and+Bar+near+40.335550999999995%2C-75.4846736",
+      "isFar": true
+    },
+    {
+      "name": "TGI Friday's",
+      "distance": "9.5 mi",
+      "url": "https://www.google.com/maps/search/TGI+Fridays+near+40.335550999999995%2C-75.4846736",
+      "isFar": true
     }
   ],
   "dinner": [

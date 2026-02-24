@@ -139,7 +139,20 @@
   ],
   "bowling": [],
   "arcade": [],
-  "movies": [],
+  "movies": [
+    {
+      "name": "AMC Theatres",
+      "distance": "6.0 mi",
+      "url": "https://www.google.com/maps/search/AMC+Theatres+near+40.12788330000001%2C-74.2719552",
+      "isFar": true
+    },
+    {
+      "name": "Regal Cinemas",
+      "distance": "10.0 mi",
+      "url": "https://www.google.com/maps/search/Regal+Cinemas+near+40.12788330000001%2C-74.2719552",
+      "isFar": true
+    }
+  ],
   "fun": [
     {
       "name": "Say Cheez la nj",
@@ -163,7 +176,37 @@
       "isFar": true
     }
   ],
-  "hotels": [],
+  "hotels": [
+    {
+      "name": "Hampton Inn & Suites",
+      "distance": "5.0 mi",
+      "url": "https://www.google.com/maps/search/Hampton+Inn+and+Suites+near+40.12788330000001%2C-74.2719552"
+    },
+    {
+      "name": "Holiday Inn Express & Suites",
+      "distance": "6.5 mi",
+      "url": "https://www.google.com/maps/search/Holiday+Inn+Express+and+Suites+near+40.12788330000001%2C-74.2719552",
+      "isFar": true
+    },
+    {
+      "name": "Comfort Inn & Suites",
+      "distance": "8.0 mi",
+      "url": "https://www.google.com/maps/search/Comfort+Inn+and+Suites+near+40.12788330000001%2C-74.2719552",
+      "isFar": true
+    },
+    {
+      "name": "Best Western",
+      "distance": "9.5 mi",
+      "url": "https://www.google.com/maps/search/Best+Western+near+40.12788330000001%2C-74.2719552",
+      "isFar": true
+    },
+    {
+      "name": "Courtyard by Marriott",
+      "distance": "11.0 mi",
+      "url": "https://www.google.com/maps/search/Courtyard+by+Marriott+near+40.12788330000001%2C-74.2719552",
+      "isFar": true
+    }
+  ],
   "gas": [
     {
       "name": "United Gas Station",

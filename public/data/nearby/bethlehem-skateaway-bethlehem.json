@@ -68,6 +68,17 @@
       "name": "Franks Pizza & Italian Restaurant",
       "distance": "1.3 mi",
       "url": "https://www.google.com/maps/search/?api=1&query=Franks%20Pizza%20%26%20Italian%20Restaurant&query_place_id=ChIJkWe24SxrxIkR1Lq2sIVoZ2c&center=40.6560667,-75.2858269"
+    },
+    {
+      "name": "Applebee's Grill + Bar",
+      "distance": "5.0 mi",
+      "url": "https://www.google.com/maps/search/Applebees+Grill+++Bar+near+40.666232%2C-75.3069146"
+    },
+    {
+      "name": "Olive Garden",
+      "distance": "6.5 mi",
+      "url": "https://www.google.com/maps/search/Olive+Garden+near+40.666232%2C-75.3069146",
+      "isFar": true
     }
   ],
   "dinner": [
@@ -172,6 +183,11 @@
       "name": "Courtyard by Marriott Bethlehem Lehigh Valley/I-78",
       "distance": "1.2 mi",
       "url": "https://www.google.com/maps/search/?api=1&query=Courtyard%20by%20Marriott%20Bethlehem%20Lehigh%20Valley%2FI-78&query_place_id=ChIJOULA_NQUxIkR-3Zs0bDRJFk&center=40.653516,-75.290241"
+    },
+    {
+      "name": "Hampton Inn & Suites",
+      "distance": "5.0 mi",
+      "url": "https://www.google.com/maps/search/Hampton+Inn+and+Suites+near+40.666232%2C-75.3069146"
     }
   ],
   "gas": [

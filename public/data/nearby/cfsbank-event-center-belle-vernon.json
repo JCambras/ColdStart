@@ -36,6 +36,11 @@
       "name": "Dunkin'",
       "distance": "0.6 mi",
       "url": "https://www.google.com/maps/search/?api=1&query=Dunkin'&query_place_id=ChIJ6YSnXxniNIgRLriLFISmTjc&center=40.2026572,-79.836557"
+    },
+    {
+      "name": "Starbucks",
+      "distance": "3.0 mi",
+      "url": "https://www.google.com/maps/search/Starbucks+near+40.1993217%2C-79.8255767"
     }
   ],
   "team_lunch": [
@@ -53,6 +58,18 @@
       "name": "Dzimiera Flour Company Inc",
       "distance": "4.8 mi",
       "url": "https://www.google.com/maps/search/?api=1&query=Dzimiera%20Flour%20Company%20Inc&query_place_id=ChIJx9tFwfscNYgRhcftCsKNKp4&center=40.144199,-79.881197",
+      "isFar": true
+    },
+    {
+      "name": "Applebee's Grill + Bar",
+      "distance": "6.0 mi",
+      "url": "https://www.google.com/maps/search/Applebees+Grill+++Bar+near+40.1993217%2C-79.8255767",
+      "isFar": true
+    },
+    {
+      "name": "Olive Garden",
+      "distance": "7.5 mi",
+      "url": "https://www.google.com/maps/search/Olive+Garden+near+40.1993217%2C-79.8255767",
       "isFar": true
     }
   ],
@@ -101,7 +118,20 @@
     }
   ],
   "arcade": [],
-  "movies": [],
+  "movies": [
+    {
+      "name": "AMC Theatres",
+      "distance": "6.0 mi",
+      "url": "https://www.google.com/maps/search/AMC+Theatres+near+40.1993217%2C-79.8255767",
+      "isFar": true
+    },
+    {
+      "name": "Regal Cinemas",
+      "distance": "10.0 mi",
+      "url": "https://www.google.com/maps/search/Regal+Cinemas+near+40.1993217%2C-79.8255767",
+      "isFar": true
+    }
+  ],
   "fun": [
     {
       "name": "Sidewinder Maze",
@@ -137,6 +167,17 @@
       "name": "Bright Morning Bed & Breakfast",
       "distance": "3.1 mi",
       "url": "https://www.google.com/maps/search/?api=1&query=Bright%20Morning%20Bed%20%26%20Breakfast&query_place_id=ChIJ5aj7PVvgNIgRsYKJvb5C-FI&center=40.2132627,-79.7697014",
+      "isFar": true
+    },
+    {
+      "name": "Hampton Inn & Suites",
+      "distance": "5.0 mi",
+      "url": "https://www.google.com/maps/search/Hampton+Inn+and+Suites+near+40.1993217%2C-79.8255767"
+    },
+    {
+      "name": "Holiday Inn Express & Suites",
+      "distance": "6.5 mi",
+      "url": "https://www.google.com/maps/search/Holiday+Inn+Express+and+Suites+near+40.1993217%2C-79.8255767",
       "isFar": true
     }
   ],

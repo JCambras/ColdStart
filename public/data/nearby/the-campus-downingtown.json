@@ -31,6 +31,11 @@
       "name": "Dunkin'",
       "distance": "0.8 mi",
       "url": "https://www.google.com/maps/search/?api=1&query=Dunkin'&query_place_id=ChIJfWw-9TNfxokR_zuXDhYifrc&center=39.9969065,-75.74314"
+    },
+    {
+      "name": "Starbucks",
+      "distance": "3.0 mi",
+      "url": "https://www.google.com/maps/search/Starbucks+near+39.999663%2C-75.72836199999999"
     }
   ],
   "team_lunch": [
@@ -53,6 +58,11 @@
       "name": "Capriotti's Sandwich Shop",
       "distance": "3.0 mi",
       "url": "https://www.google.com/maps/search/?api=1&query=Capriotti's%20Sandwich%20Shop&query_place_id=ChIJhWY5ncD1xokRBlPKeVnzXZc&center=40.018089599999996,-75.6770533"
+    },
+    {
+      "name": "Applebee's Grill + Bar",
+      "distance": "5.0 mi",
+      "url": "https://www.google.com/maps/search/Applebees+Grill+++Bar+near+39.999663%2C-75.72836199999999"
     }
   ],
   "dinner": [
@@ -107,6 +117,12 @@
       "distance": "3.0 mi",
       "url": "https://www.google.com/maps/search/?api=1&query=Regal%20Downingtown&query_place_id=ChIJIY9t6K71xokRQ2lF4hgsnpA&center=40.014346599999996,-75.6740286",
       "isFar": true
+    },
+    {
+      "name": "AMC Theatres",
+      "distance": "6.0 mi",
+      "url": "https://www.google.com/maps/search/AMC+Theatres+near+39.999663%2C-75.72836199999999",
+      "isFar": true
     }
   ],
   "fun": [
@@ -138,6 +154,23 @@
       "name": "Downingtown Manor - 1900s Farmhouse with Creek Views",
       "distance": "1.1 mi",
       "url": "https://www.google.com/maps/search/?api=1&query=Downingtown%20Manor%20-%201900s%20Farmhouse%20with%20Creek%20Views&query_place_id=ChIJ02Gv9PT1xokRzQE5HQV1BNY&center=40.0067482,-75.7095719"
+    },
+    {
+      "name": "Hampton Inn & Suites",
+      "distance": "5.0 mi",
+      "url": "https://www.google.com/maps/search/Hampton+Inn+and+Suites+near+39.999663%2C-75.72836199999999"
+    },
+    {
+      "name": "Holiday Inn Express & Suites",
+      "distance": "6.5 mi",
+      "url": "https://www.google.com/maps/search/Holiday+Inn+Express+and+Suites+near+39.999663%2C-75.72836199999999",
+      "isFar": true
+    },
+    {
+      "name": "Comfort Inn & Suites",
+      "distance": "8.0 mi",
+      "url": "https://www.google.com/maps/search/Comfort+Inn+and+Suites+near+39.999663%2C-75.72836199999999",
+      "isFar": true
     }
   ],
   "gas": [

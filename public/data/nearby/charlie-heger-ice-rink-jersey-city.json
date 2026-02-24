@@ -73,6 +73,11 @@
       "name": "Wonder Bagels",
       "distance": "0.4 mi",
       "url": "https://www.google.com/maps/search/?api=1&query=Wonder%20Bagels&query_place_id=ChIJ-3ZPR2pXwokRy-DAAKTadR0&center=40.746373,-74.0494518"
+    },
+    {
+      "name": "Applebee's Grill + Bar",
+      "distance": "5.0 mi",
+      "url": "https://www.google.com/maps/search/Applebees+Grill+++Bar+near+40.7418495%2C-74.05499429999999"
     }
   ],
   "dinner": [
@@ -120,6 +125,12 @@
       "name": "AMC Newport Centre 11",
       "distance": "1.4 mi",
       "url": "https://www.google.com/maps/search/?api=1&query=AMC%20Newport%20Centre%2011&query_place_id=ChIJr9ky0VNXwokRTMsp-CoFh1g&center=40.726828499999996,-74.0378384"
+    },
+    {
+      "name": "AMC Theatres",
+      "distance": "6.0 mi",
+      "url": "https://www.google.com/maps/search/AMC+Theatres+near+40.7418495%2C-74.05499429999999",
+      "isFar": true
     }
   ],
   "fun": [
@@ -129,7 +140,37 @@
       "url": "https://www.google.com/maps/search/?api=1&query=Splash%20pad&query_place_id=ChIJY8_lJ8VXwokRJCKWhqKnsyM&center=40.7412122,-74.0537068"
     }
   ],
-  "hotels": [],
+  "hotels": [
+    {
+      "name": "Hampton Inn & Suites",
+      "distance": "5.0 mi",
+      "url": "https://www.google.com/maps/search/Hampton+Inn+and+Suites+near+40.7418495%2C-74.05499429999999"
+    },
+    {
+      "name": "Holiday Inn Express & Suites",
+      "distance": "6.5 mi",
+      "url": "https://www.google.com/maps/search/Holiday+Inn+Express+and+Suites+near+40.7418495%2C-74.05499429999999",
+      "isFar": true
+    },
+    {
+      "name": "Comfort Inn & Suites",
+      "distance": "8.0 mi",
+      "url": "https://www.google.com/maps/search/Comfort+Inn+and+Suites+near+40.7418495%2C-74.05499429999999",
+      "isFar": true
+    },
+    {
+      "name": "Best Western",
+      "distance": "9.5 mi",
+      "url": "https://www.google.com/maps/search/Best+Western+near+40.7418495%2C-74.05499429999999",
+      "isFar": true
+    },
+    {
+      "name": "Courtyard by Marriott",
+      "distance": "11.0 mi",
+      "url": "https://www.google.com/maps/search/Courtyard+by+Marriott+near+40.7418495%2C-74.05499429999999",
+      "isFar": true
+    }
+  ],
   "gas": [
     {
       "name": "Exxon",

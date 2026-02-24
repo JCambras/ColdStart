@@ -68,6 +68,23 @@
       "name": "Rice N’ Beans",
       "distance": "0.8 mi",
       "url": "https://www.google.com/maps/search/?api=1&query=Rice%20N%E2%80%99%20Beans&query_place_id=ChIJgdTZKRA_xIkRl7QcYhuMocU&center=40.6416956,-75.3999529"
+    },
+    {
+      "name": "Applebee's Grill + Bar",
+      "distance": "5.0 mi",
+      "url": "https://www.google.com/maps/search/Applebees+Grill+++Bar+near+40.640272499999995%2C-75.3843431"
+    },
+    {
+      "name": "Olive Garden",
+      "distance": "6.5 mi",
+      "url": "https://www.google.com/maps/search/Olive+Garden+near+40.640272499999995%2C-75.3843431",
+      "isFar": true
+    },
+    {
+      "name": "Chili's Grill & Bar",
+      "distance": "8.0 mi",
+      "url": "https://www.google.com/maps/search/Chilis+Grill+and+Bar+near+40.640272499999995%2C-75.3843431",
+      "isFar": true
     }
   ],
   "dinner": [
@@ -116,6 +133,12 @@
       "name": "Frank Banko Alehouse Cinemas",
       "distance": "2.0 mi",
       "url": "https://www.google.com/maps/search/?api=1&query=Frank%20Banko%20Alehouse%20Cinemas&query_place_id=ChIJbfVbSUY-xIkRXtHj28wAU5Q&center=40.6140913,-75.3678439"
+    },
+    {
+      "name": "AMC Theatres",
+      "distance": "6.0 mi",
+      "url": "https://www.google.com/maps/search/AMC+Theatres+near+40.640272499999995%2C-75.3843431",
+      "isFar": true
     }
   ],
   "fun": [
@@ -160,6 +183,11 @@
       "name": "Hillside Unit 5",
       "distance": "0.8 mi",
       "url": "https://www.google.com/maps/search/?api=1&query=Hillside%20Unit%205&query_place_id=ChIJxSD3wqo_xIkR_Ev_aN9IO6M&center=40.628996,-75.38585259999999"
+    },
+    {
+      "name": "Hampton Inn & Suites",
+      "distance": "5.0 mi",
+      "url": "https://www.google.com/maps/search/Hampton+Inn+and+Suites+near+40.640272499999995%2C-75.3843431"
     }
   ],
   "gas": [

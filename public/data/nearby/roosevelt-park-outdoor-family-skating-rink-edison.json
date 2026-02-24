@@ -171,6 +171,23 @@
       "name": "Select Hotels Group",
       "distance": "1.0 mi",
       "url": "https://www.google.com/maps/search/?api=1&query=Select%20Hotels%20Group&query_place_id=ChIJI9vlimG2w4kRMs6Qk3ugcIo&center=40.563384,-74.3291234"
+    },
+    {
+      "name": "Hampton Inn & Suites",
+      "distance": "5.0 mi",
+      "url": "https://www.google.com/maps/search/Hampton+Inn+and+Suites+near+40.5516921%2C-74.3397331"
+    },
+    {
+      "name": "Holiday Inn Express & Suites",
+      "distance": "6.5 mi",
+      "url": "https://www.google.com/maps/search/Holiday+Inn+Express+and+Suites+near+40.5516921%2C-74.3397331",
+      "isFar": true
+    },
+    {
+      "name": "Comfort Inn & Suites",
+      "distance": "8.0 mi",
+      "url": "https://www.google.com/maps/search/Comfort+Inn+and+Suites+near+40.5516921%2C-74.3397331",
+      "isFar": true
     }
   ],
   "gas": [

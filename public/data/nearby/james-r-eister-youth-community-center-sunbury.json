@@ -54,6 +54,23 @@
       "distance": "3.6 mi",
       "url": "https://www.google.com/maps/search/?api=1&query=Mount%20Carmel%20market&query_place_id=ChIJjWyfGwA_z4kRPXVaKOn162o&center=40.8377828,-76.8313914",
       "isFar": true
+    },
+    {
+      "name": "Applebee's Grill + Bar",
+      "distance": "5.0 mi",
+      "url": "https://www.google.com/maps/search/Applebees+Grill+++Bar+near+40.8741287%2C-76.7809844"
+    },
+    {
+      "name": "Olive Garden",
+      "distance": "6.5 mi",
+      "url": "https://www.google.com/maps/search/Olive+Garden+near+40.8741287%2C-76.7809844",
+      "isFar": true
+    },
+    {
+      "name": "Chili's Grill & Bar",
+      "distance": "8.0 mi",
+      "url": "https://www.google.com/maps/search/Chilis+Grill+and+Bar+near+40.8741287%2C-76.7809844",
+      "isFar": true
     }
   ],
   "dinner": [
@@ -103,6 +120,12 @@
       "distance": "5.0 mi",
       "url": "https://www.google.com/maps/search/?api=1&query=AMC%20CLASSIC%20Selinsgrove%2012&query_place_id=ChIJm_1kTpU_z4kRKd1DkGbvI70&center=40.8251266,-76.85024670000001",
       "isFar": true
+    },
+    {
+      "name": "AMC Theatres",
+      "distance": "6.0 mi",
+      "url": "https://www.google.com/maps/search/AMC+Theatres+near+40.8741287%2C-76.7809844",
+      "isFar": true
     }
   ],
   "fun": [
@@ -137,6 +160,17 @@
       "name": "Earl's Landing",
       "distance": "1.2 mi",
       "url": "https://www.google.com/maps/search/?api=1&query=Earl's%20Landing&query_place_id=ChIJV-Z4Lgprz4kRUGQDoZ_0-ao&center=40.8904717,-76.78788949999999"
+    },
+    {
+      "name": "Hampton Inn & Suites",
+      "distance": "5.0 mi",
+      "url": "https://www.google.com/maps/search/Hampton+Inn+and+Suites+near+40.8741287%2C-76.7809844"
+    },
+    {
+      "name": "Holiday Inn Express & Suites",
+      "distance": "6.5 mi",
+      "url": "https://www.google.com/maps/search/Holiday+Inn+Express+and+Suites+near+40.8741287%2C-76.7809844",
+      "isFar": true
     }
   ],
   "gas": [

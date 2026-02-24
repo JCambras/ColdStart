@@ -59,6 +59,11 @@
       "distance": "3.7 mi",
       "url": "https://www.google.com/maps/search/?api=1&query=Nonna's%20Made%20From%20Scratch&query_place_id=ChIJuSX4AnWVyIkRRIpVFf5FCaM&center=40.1705407,-76.7646532",
       "isFar": true
+    },
+    {
+      "name": "Applebee's Grill + Bar",
+      "distance": "5.0 mi",
+      "url": "https://www.google.com/maps/search/Applebees+Grill+++Bar+near+40.180329199999996%2C-76.8344706"
     }
   ],
   "dinner": [
@@ -108,6 +113,12 @@
       "distance": "3.6 mi",
       "url": "https://www.google.com/maps/search/?api=1&query=West%20Shore%20Theatre&query_place_id=ChIJ2-rPajbAyIkRCWBQRlcPJgk&center=40.2270494,-76.8649927",
       "isFar": true
+    },
+    {
+      "name": "AMC Theatres",
+      "distance": "6.0 mi",
+      "url": "https://www.google.com/maps/search/AMC+Theatres+near+40.180329199999996%2C-76.8344706",
+      "isFar": true
     }
   ],
   "fun": [
@@ -146,6 +157,23 @@
       "name": "The Red Mill House",
       "distance": "2.0 mi",
       "url": "https://www.google.com/maps/search/?api=1&query=The%20Red%20Mill%20House&query_place_id=ChIJj8e8Yt-UyIkR4NnBOY9bw28&center=40.1612205,-76.806572"
+    },
+    {
+      "name": "Hampton Inn & Suites",
+      "distance": "5.0 mi",
+      "url": "https://www.google.com/maps/search/Hampton+Inn+and+Suites+near+40.180329199999996%2C-76.8344706"
+    },
+    {
+      "name": "Holiday Inn Express & Suites",
+      "distance": "6.5 mi",
+      "url": "https://www.google.com/maps/search/Holiday+Inn+Express+and+Suites+near+40.180329199999996%2C-76.8344706",
+      "isFar": true
+    },
+    {
+      "name": "Comfort Inn & Suites",
+      "distance": "8.0 mi",
+      "url": "https://www.google.com/maps/search/Comfort+Inn+and+Suites+near+40.180329199999996%2C-76.8344706",
+      "isFar": true
     }
   ],
   "gas": [

@@ -73,6 +73,11 @@
       "name": "Bub's Breads",
       "distance": "0.3 mi",
       "url": "https://www.google.com/maps/search/?api=1&query=Bub's%20Breads&query_place_id=ChIJ38nHsh0_xIkR33iInVPvwNI&center=40.611691,-75.3776979"
+    },
+    {
+      "name": "Applebee's Grill + Bar",
+      "distance": "5.0 mi",
+      "url": "https://www.google.com/maps/search/Applebees+Grill+++Bar+near+40.6141648%2C-75.3739251"
     }
   ],
   "dinner": [
@@ -160,6 +165,29 @@
       "name": "Comfort Suites Bethlehem Near Lehigh University and LVI Airport",
       "distance": "0.4 mi",
       "url": "https://www.google.com/maps/search/?api=1&query=Comfort%20Suites%20Bethlehem%20Near%20Lehigh%20University%20and%20LVI%20Airport&query_place_id=ChIJWdFWF1w-xIkRpIeeijA83BU&center=40.611658899999995,-75.381402"
+    },
+    {
+      "name": "Hampton Inn & Suites",
+      "distance": "5.0 mi",
+      "url": "https://www.google.com/maps/search/Hampton+Inn+and+Suites+near+40.6141648%2C-75.3739251"
+    },
+    {
+      "name": "Holiday Inn Express & Suites",
+      "distance": "6.5 mi",
+      "url": "https://www.google.com/maps/search/Holiday+Inn+Express+and+Suites+near+40.6141648%2C-75.3739251",
+      "isFar": true
+    },
+    {
+      "name": "Best Western",
+      "distance": "8.0 mi",
+      "url": "https://www.google.com/maps/search/Best+Western+near+40.6141648%2C-75.3739251",
+      "isFar": true
+    },
+    {
+      "name": "Courtyard by Marriott",
+      "distance": "9.5 mi",
+      "url": "https://www.google.com/maps/search/Courtyard+by+Marriott+near+40.6141648%2C-75.3739251",
+      "isFar": true
     }
   ],
   "gas": [

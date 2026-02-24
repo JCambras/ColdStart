@@ -68,6 +68,11 @@
       "name": "Chickie's & Pete's - Pioneer Frontier",
       "distance": "0.1 mi",
       "url": "https://www.google.com/maps/search/?api=1&query=Chickie's%20%26%20Pete's%20-%20Pioneer%20Frontier&query_place_id=ChIJY1HR8sK7yIkR0YxoHzjuExs&center=40.2894268,-76.6544018"
+    },
+    {
+      "name": "Applebee's Grill + Bar",
+      "distance": "5.0 mi",
+      "url": "https://www.google.com/maps/search/Applebees+Grill+++Bar+near+40.2881272%2C-76.6566126"
     }
   ],
   "dinner": [
@@ -96,7 +101,20 @@
     }
   ],
   "arcade": [],
-  "movies": [],
+  "movies": [
+    {
+      "name": "AMC Theatres",
+      "distance": "6.0 mi",
+      "url": "https://www.google.com/maps/search/AMC+Theatres+near+40.2881272%2C-76.6566126",
+      "isFar": true
+    },
+    {
+      "name": "Regal Cinemas",
+      "distance": "10.0 mi",
+      "url": "https://www.google.com/maps/search/Regal+Cinemas+near+40.2881272%2C-76.6566126",
+      "isFar": true
+    }
+  ],
   "fun": [
     {
       "name": "Hershey's Chocolatetown",
@@ -124,6 +142,29 @@
       "name": "Hershey",
       "distance": "0.3 mi",
       "url": "https://www.google.com/maps/search/?api=1&query=Hershey&query_place_id=ChIJiQbcbgC7yIkR5PNGWm_LvSo&center=40.2850365,-76.6523402"
+    },
+    {
+      "name": "Hampton Inn & Suites",
+      "distance": "5.0 mi",
+      "url": "https://www.google.com/maps/search/Hampton+Inn+and+Suites+near+40.2881272%2C-76.6566126"
+    },
+    {
+      "name": "Holiday Inn Express & Suites",
+      "distance": "6.5 mi",
+      "url": "https://www.google.com/maps/search/Holiday+Inn+Express+and+Suites+near+40.2881272%2C-76.6566126",
+      "isFar": true
+    },
+    {
+      "name": "Comfort Inn & Suites",
+      "distance": "8.0 mi",
+      "url": "https://www.google.com/maps/search/Comfort+Inn+and+Suites+near+40.2881272%2C-76.6566126",
+      "isFar": true
+    },
+    {
+      "name": "Best Western",
+      "distance": "9.5 mi",
+      "url": "https://www.google.com/maps/search/Best+Western+near+40.2881272%2C-76.6566126",
+      "isFar": true
     }
   ],
   "gas": [

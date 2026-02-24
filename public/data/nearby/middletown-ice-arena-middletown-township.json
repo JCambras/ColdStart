@@ -168,6 +168,17 @@
       "name": "Holmdel Motor Inn",
       "distance": "1.9 mi",
       "url": "https://www.google.com/maps/search/?api=1&query=Holmdel%20Motor%20Inn&query_place_id=ChIJjUbMavIzwokRSNa2ad6UJpY&center=40.4142243,-74.1604612"
+    },
+    {
+      "name": "Hampton Inn & Suites",
+      "distance": "5.0 mi",
+      "url": "https://www.google.com/maps/search/Hampton+Inn+and+Suites+near+40.406318899999995%2C-74.12499319999999"
+    },
+    {
+      "name": "Holiday Inn Express & Suites",
+      "distance": "6.5 mi",
+      "url": "https://www.google.com/maps/search/Holiday+Inn+Express+and+Suites+near+40.406318899999995%2C-74.12499319999999",
+      "isFar": true
     }
   ],
   "gas": [

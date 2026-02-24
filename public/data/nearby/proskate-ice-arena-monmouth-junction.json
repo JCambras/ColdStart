@@ -58,6 +58,17 @@
       "name": "Hot Breads",
       "distance": "1.6 mi",
       "url": "https://www.google.com/maps/search/?api=1&query=Hot%20Breads&query_place_id=ChIJx78A0__Cw4kRD8br_tIWW-A&center=40.4341918,-74.54653929999999"
+    },
+    {
+      "name": "Applebee's Grill + Bar",
+      "distance": "5.0 mi",
+      "url": "https://www.google.com/maps/search/Applebees+Grill+++Bar+near+40.4154246%2C-74.5282106"
+    },
+    {
+      "name": "Olive Garden",
+      "distance": "6.5 mi",
+      "url": "https://www.google.com/maps/search/Olive+Garden+near+40.4154246%2C-74.5282106",
+      "isFar": true
     }
   ],
   "dinner": [
@@ -150,6 +161,17 @@
       "name": "Brookside Home for Work, Relaxation, Education Study - WRES",
       "distance": "0.8 mi",
       "url": "https://www.google.com/maps/search/?api=1&query=Brookside%20Home%20for%20Work%2C%20Relaxation%2C%20Education%20Study%20-%20WRES&query_place_id=ChIJw8ViTAXDw4kRjgXj0OXxF3w&center=40.4256515,-74.53565979999999"
+    },
+    {
+      "name": "Hampton Inn & Suites",
+      "distance": "5.0 mi",
+      "url": "https://www.google.com/maps/search/Hampton+Inn+and+Suites+near+40.4154246%2C-74.5282106"
+    },
+    {
+      "name": "Holiday Inn Express & Suites",
+      "distance": "6.5 mi",
+      "url": "https://www.google.com/maps/search/Holiday+Inn+Express+and+Suites+near+40.4154246%2C-74.5282106",
+      "isFar": true
     }
   ],
   "gas": [

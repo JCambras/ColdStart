@@ -168,6 +168,23 @@
       "name": "Courtyard by Marriott Newark Downtown",
       "distance": "0.1 mi",
       "url": "https://www.google.com/maps/search/?api=1&query=Courtyard%20by%20Marriott%20Newark%20Downtown&query_place_id=ChIJgZQ2RnhTwokRIE3Vewda4L4&center=40.7335211,-74.1729306"
+    },
+    {
+      "name": "Hampton Inn & Suites",
+      "distance": "5.0 mi",
+      "url": "https://www.google.com/maps/search/Hampton+Inn+and+Suites+near+40.7327294%2C-74.1710147"
+    },
+    {
+      "name": "Holiday Inn Express & Suites",
+      "distance": "6.5 mi",
+      "url": "https://www.google.com/maps/search/Holiday+Inn+Express+and+Suites+near+40.7327294%2C-74.1710147",
+      "isFar": true
+    },
+    {
+      "name": "Comfort Inn & Suites",
+      "distance": "8.0 mi",
+      "url": "https://www.google.com/maps/search/Comfort+Inn+and+Suites+near+40.7327294%2C-74.1710147",
+      "isFar": true
     }
   ],
   "gas": [

@@ -91,6 +91,12 @@
       "distance": "3.5 mi",
       "url": "https://www.google.com/maps/search/?api=1&query=Movie%20Tavern%20Exton&query_place_id=ChIJ7c15xIb0xokRNBlunbW71WU&center=40.021179,-75.62800899999999",
       "isFar": true
+    },
+    {
+      "name": "AMC Theatres",
+      "distance": "6.0 mi",
+      "url": "https://www.google.com/maps/search/AMC+Theatres+near+39.9830604%2C-75.58459320000001",
+      "isFar": true
     }
   ],
   "fun": [
@@ -122,6 +128,12 @@
       "name": "Residence Inn",
       "distance": "7.5 mi",
       "url": "https://www.google.com/maps/search/Residence+Inn+Exton+PA"
+    },
+    {
+      "name": "Comfort Inn & Suites",
+      "distance": "9.0 mi",
+      "url": "https://www.google.com/maps/search/Comfort+Inn+and+Suites+near+39.9830604%2C-75.58459320000001",
+      "isFar": true
     }
   ],
   "gas": [

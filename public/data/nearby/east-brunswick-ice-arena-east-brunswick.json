@@ -160,6 +160,29 @@
       "name": "Comfort Suites East Brunswick - South River",
       "distance": "0.6 mi",
       "url": "https://www.google.com/maps/search/?api=1&query=Comfort%20Suites%20East%20Brunswick%20-%20South%20River&query_place_id=ChIJny3V6avIw4kRkRoTbAUbzPw&center=40.4608936,-74.4012812"
+    },
+    {
+      "name": "Hampton Inn & Suites",
+      "distance": "5.0 mi",
+      "url": "https://www.google.com/maps/search/Hampton+Inn+and+Suites+near+40.4522654%2C-74.40383400000002"
+    },
+    {
+      "name": "Holiday Inn Express & Suites",
+      "distance": "6.5 mi",
+      "url": "https://www.google.com/maps/search/Holiday+Inn+Express+and+Suites+near+40.4522654%2C-74.40383400000002",
+      "isFar": true
+    },
+    {
+      "name": "Best Western",
+      "distance": "8.0 mi",
+      "url": "https://www.google.com/maps/search/Best+Western+near+40.4522654%2C-74.40383400000002",
+      "isFar": true
+    },
+    {
+      "name": "Courtyard by Marriott",
+      "distance": "9.5 mi",
+      "url": "https://www.google.com/maps/search/Courtyard+by+Marriott+near+40.4522654%2C-74.40383400000002",
+      "isFar": true
     }
   ],
   "gas": [

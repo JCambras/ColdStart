@@ -63,6 +63,23 @@
       "name": "The Crazy Kat",
       "distance": "1.5 mi",
       "url": "https://www.google.com/maps/search/?api=1&query=The%20Crazy%20Kat&query_place_id=ChIJ1V55Uh_XxokRXWCEtnvsRVs&center=39.7329447,-75.13107640000001"
+    },
+    {
+      "name": "Applebee's Grill + Bar",
+      "distance": "5.0 mi",
+      "url": "https://www.google.com/maps/search/Applebees+Grill+++Bar+near+39.7460506%2C-75.1087069"
+    },
+    {
+      "name": "Olive Garden",
+      "distance": "6.5 mi",
+      "url": "https://www.google.com/maps/search/Olive+Garden+near+39.7460506%2C-75.1087069",
+      "isFar": true
+    },
+    {
+      "name": "Chili's Grill & Bar",
+      "distance": "8.0 mi",
+      "url": "https://www.google.com/maps/search/Chilis+Grill+and+Bar+near+39.7460506%2C-75.1087069",
+      "isFar": true
     }
   ],
   "dinner": [
@@ -152,6 +169,23 @@
       "name": "The Inn on Holly Bed and Breakfast",
       "distance": "1.6 mi",
       "url": "https://www.google.com/maps/search/?api=1&query=The%20Inn%20on%20Holly%20Bed%20and%20Breakfast&query_place_id=ChIJ835ni2rXxokRss_Fc_No98I&center=39.7327501,-75.1337825"
+    },
+    {
+      "name": "Hampton Inn & Suites",
+      "distance": "5.0 mi",
+      "url": "https://www.google.com/maps/search/Hampton+Inn+and+Suites+near+39.7460506%2C-75.1087069"
+    },
+    {
+      "name": "Holiday Inn Express & Suites",
+      "distance": "6.5 mi",
+      "url": "https://www.google.com/maps/search/Holiday+Inn+Express+and+Suites+near+39.7460506%2C-75.1087069",
+      "isFar": true
+    },
+    {
+      "name": "Comfort Inn & Suites",
+      "distance": "8.0 mi",
+      "url": "https://www.google.com/maps/search/Comfort+Inn+and+Suites+near+39.7460506%2C-75.1087069",
+      "isFar": true
     }
   ],
   "gas": [

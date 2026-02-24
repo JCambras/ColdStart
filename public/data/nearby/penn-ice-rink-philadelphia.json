@@ -73,6 +73,17 @@
       "name": "The Commons",
       "distance": "0.2 mi",
       "url": "https://www.google.com/maps/search/?api=1&query=The%20Commons&query_place_id=ChIJrzz1M5vHxokRCKo9tWjW2lI&center=39.9525915,-75.1835626"
+    },
+    {
+      "name": "Applebee's Grill + Bar",
+      "distance": "5.0 mi",
+      "url": "https://www.google.com/maps/search/Applebees+Grill+++Bar+near+39.951710899999995%2C-75.1865487"
+    },
+    {
+      "name": "Olive Garden",
+      "distance": "6.5 mi",
+      "url": "https://www.google.com/maps/search/Olive+Garden+near+39.951710899999995%2C-75.1865487",
+      "isFar": true
     }
   ],
   "dinner": [
@@ -174,6 +185,17 @@
       "name": "The Study at University City",
       "distance": "0.3 mi",
       "url": "https://www.google.com/maps/search/?api=1&query=The%20Study%20at%20University%20City&query_place_id=ChIJb4XbJVDGxokRldvYy_ll05s&center=39.954405799999996,-75.1900591"
+    },
+    {
+      "name": "Hampton Inn & Suites",
+      "distance": "5.0 mi",
+      "url": "https://www.google.com/maps/search/Hampton+Inn+and+Suites+near+39.951710899999995%2C-75.1865487"
+    },
+    {
+      "name": "Holiday Inn Express & Suites",
+      "distance": "6.5 mi",
+      "url": "https://www.google.com/maps/search/Holiday+Inn+Express+and+Suites+near+39.951710899999995%2C-75.1865487",
+      "isFar": true
     }
   ],
   "gas": [

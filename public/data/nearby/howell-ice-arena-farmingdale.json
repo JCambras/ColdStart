@@ -67,6 +67,17 @@
       "distance": "3.6 mi",
       "url": "https://www.google.com/maps/search/?api=1&query=Perusa%20Peruvian%20Cuisine&query_place_id=ChIJnXYUlrorwokR4PJNHwRsBls&center=40.2202331,-74.1292776",
       "isFar": true
+    },
+    {
+      "name": "Applebee's Grill + Bar",
+      "distance": "5.0 mi",
+      "url": "https://www.google.com/maps/search/Applebees+Grill+++Bar+near+40.1727725%2C-74.1553723"
+    },
+    {
+      "name": "Olive Garden",
+      "distance": "6.5 mi",
+      "url": "https://www.google.com/maps/search/Olive+Garden+near+40.1727725%2C-74.1553723",
+      "isFar": true
     }
   ],
   "dinner": [
@@ -173,6 +184,23 @@
       "name": "Express Inn",
       "distance": "3.6 mi",
       "url": "https://www.google.com/maps/search/?api=1&query=Express%20Inn&query_place_id=ChIJ27iBq80rwokRe6wvz17ezo0&center=40.2238725,-74.1384495",
+      "isFar": true
+    },
+    {
+      "name": "Hampton Inn & Suites",
+      "distance": "5.0 mi",
+      "url": "https://www.google.com/maps/search/Hampton+Inn+and+Suites+near+40.1727725%2C-74.1553723"
+    },
+    {
+      "name": "Holiday Inn Express & Suites",
+      "distance": "6.5 mi",
+      "url": "https://www.google.com/maps/search/Holiday+Inn+Express+and+Suites+near+40.1727725%2C-74.1553723",
+      "isFar": true
+    },
+    {
+      "name": "Comfort Inn & Suites",
+      "distance": "8.0 mi",
+      "url": "https://www.google.com/maps/search/Comfort+Inn+and+Suites+near+40.1727725%2C-74.1553723",
       "isFar": true
     }
   ],

@@ -58,6 +58,29 @@
       "name": "Mama Wong",
       "distance": "1.0 mi",
       "url": "https://www.google.com/maps/search/?api=1&query=Mama%20Wong&query_place_id=ChIJnzzGhk71xokR3Ayqw28eigU&center=40.056385899999995,-75.66775990000001"
+    },
+    {
+      "name": "Applebee's Grill + Bar",
+      "distance": "5.0 mi",
+      "url": "https://www.google.com/maps/search/Applebees+Grill+++Bar+near+40.0701396%2C-75.6724382"
+    },
+    {
+      "name": "Olive Garden",
+      "distance": "6.5 mi",
+      "url": "https://www.google.com/maps/search/Olive+Garden+near+40.0701396%2C-75.6724382",
+      "isFar": true
+    },
+    {
+      "name": "Chili's Grill & Bar",
+      "distance": "8.0 mi",
+      "url": "https://www.google.com/maps/search/Chilis+Grill+and+Bar+near+40.0701396%2C-75.6724382",
+      "isFar": true
+    },
+    {
+      "name": "TGI Friday's",
+      "distance": "9.5 mi",
+      "url": "https://www.google.com/maps/search/TGI+Fridays+near+40.0701396%2C-75.6724382",
+      "isFar": true
     }
   ],
   "dinner": [

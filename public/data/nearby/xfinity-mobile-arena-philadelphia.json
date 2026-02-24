@@ -161,6 +161,23 @@
       "name": "Live! Casino & Hotel Philadelphia",
       "distance": "0.6 mi",
       "url": "https://www.google.com/maps/search/?api=1&query=Live!%20Casino%20%26%20Hotel%20Philadelphia&query_place_id=ChIJLYmn7ZbFxokRtnSKed3qAgQ&center=39.908890899999996,-75.1649621"
+    },
+    {
+      "name": "Hampton Inn & Suites",
+      "distance": "5.0 mi",
+      "url": "https://www.google.com/maps/search/Hampton+Inn+and+Suites+near+39.9012015%2C-75.17197949999999"
+    },
+    {
+      "name": "Holiday Inn Express & Suites",
+      "distance": "6.5 mi",
+      "url": "https://www.google.com/maps/search/Holiday+Inn+Express+and+Suites+near+39.9012015%2C-75.17197949999999",
+      "isFar": true
+    },
+    {
+      "name": "Comfort Inn & Suites",
+      "distance": "8.0 mi",
+      "url": "https://www.google.com/maps/search/Comfort+Inn+and+Suites+near+39.9012015%2C-75.17197949999999",
+      "isFar": true
     }
   ],
   "gas": [

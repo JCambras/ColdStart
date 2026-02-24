@@ -163,6 +163,23 @@
       "name": "Borough Highlands House",
       "distance": "0.8 mi",
       "url": "https://www.google.com/maps/search/?api=1&query=Borough%20Highlands%20House&query_place_id=ChIJhyUB5KaozokRs9lnbkCM0sw&center=40.7956009,-77.85207369999999"
+    },
+    {
+      "name": "Hampton Inn & Suites",
+      "distance": "5.0 mi",
+      "url": "https://www.google.com/maps/search/Hampton+Inn+and+Suites+near+40.806567%2C-77.8570103"
+    },
+    {
+      "name": "Holiday Inn Express & Suites",
+      "distance": "6.5 mi",
+      "url": "https://www.google.com/maps/search/Holiday+Inn+Express+and+Suites+near+40.806567%2C-77.8570103",
+      "isFar": true
+    },
+    {
+      "name": "Comfort Inn & Suites",
+      "distance": "8.0 mi",
+      "url": "https://www.google.com/maps/search/Comfort+Inn+and+Suites+near+40.806567%2C-77.8570103",
+      "isFar": true
     }
   ],
   "gas": [

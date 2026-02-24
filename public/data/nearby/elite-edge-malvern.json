@@ -31,6 +31,11 @@
       "name": "The Classic Diner",
       "distance": "1.6 mi",
       "url": "https://www.google.com/maps/search/?api=1&query=The%20Classic%20Diner&query_place_id=ChIJa5fM68fyxokRr9nFl6SPVCs&center=40.0383568,-75.552318"
+    },
+    {
+      "name": "Starbucks",
+      "distance": "3.0 mi",
+      "url": "https://www.google.com/maps/search/Starbucks+near+40.0457529%2C-75.5811019"
     }
   ],
   "team_lunch": [
@@ -38,6 +43,29 @@
       "name": "Malvern Grill LLC",
       "distance": "1.1 mi",
       "url": "https://www.google.com/maps/search/?api=1&query=Malvern%20Grill%20LLC&query_place_id=ChIJL7YOGN_zxokRLc8l83ObxIA&center=40.037157,-75.56431359999999"
+    },
+    {
+      "name": "Applebee's Grill + Bar",
+      "distance": "5.0 mi",
+      "url": "https://www.google.com/maps/search/Applebees+Grill+++Bar+near+40.0457529%2C-75.5811019"
+    },
+    {
+      "name": "Olive Garden",
+      "distance": "6.5 mi",
+      "url": "https://www.google.com/maps/search/Olive+Garden+near+40.0457529%2C-75.5811019",
+      "isFar": true
+    },
+    {
+      "name": "Chili's Grill & Bar",
+      "distance": "8.0 mi",
+      "url": "https://www.google.com/maps/search/Chilis+Grill+and+Bar+near+40.0457529%2C-75.5811019",
+      "isFar": true
+    },
+    {
+      "name": "TGI Friday's",
+      "distance": "9.5 mi",
+      "url": "https://www.google.com/maps/search/TGI+Fridays+near+40.0457529%2C-75.5811019",
+      "isFar": true
     }
   ],
   "dinner": [
@@ -85,6 +113,12 @@
       "name": "Movie Tavern Exton",
       "distance": "3.0 mi",
       "url": "https://www.google.com/maps/search/?api=1&query=Movie%20Tavern%20Exton&query_place_id=ChIJ7c15xIb0xokRNBlunbW71WU&center=40.021179,-75.62800899999999",
+      "isFar": true
+    },
+    {
+      "name": "AMC Theatres",
+      "distance": "6.0 mi",
+      "url": "https://www.google.com/maps/search/AMC+Theatres+near+40.0457529%2C-75.5811019",
       "isFar": true
     }
   ],

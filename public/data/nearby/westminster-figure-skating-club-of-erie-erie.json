@@ -58,6 +58,29 @@
       "name": "Chanan Restaurant",
       "distance": "0.1 mi",
       "url": "https://www.google.com/maps/search/?api=1&query=Chanan%20Restaurant&query_place_id=ChIJ0V0dBGyAMogRf8UtB5pHhu8&center=42.097305899999995,-80.0817798"
+    },
+    {
+      "name": "Applebee's Grill + Bar",
+      "distance": "5.0 mi",
+      "url": "https://www.google.com/maps/search/Applebees+Grill+++Bar+near+42.09738000000001%2C-80.0798416"
+    },
+    {
+      "name": "Olive Garden",
+      "distance": "6.5 mi",
+      "url": "https://www.google.com/maps/search/Olive+Garden+near+42.09738000000001%2C-80.0798416",
+      "isFar": true
+    },
+    {
+      "name": "Chili's Grill & Bar",
+      "distance": "8.0 mi",
+      "url": "https://www.google.com/maps/search/Chilis+Grill+and+Bar+near+42.09738000000001%2C-80.0798416",
+      "isFar": true
+    },
+    {
+      "name": "TGI Friday's",
+      "distance": "9.5 mi",
+      "url": "https://www.google.com/maps/search/TGI+Fridays+near+42.09738000000001%2C-80.0798416",
+      "isFar": true
     }
   ],
   "dinner": [
@@ -155,6 +178,29 @@
       "name": "The Modern Gem in Erie",
       "distance": "0.4 mi",
       "url": "https://www.google.com/maps/search/?api=1&query=The%20Modern%20Gem%20in%20Erie&query_place_id=ChIJV7kA9XGAMogRE0wf1rSxCIk&center=42.097381600000006,-80.0882415"
+    },
+    {
+      "name": "Hampton Inn & Suites",
+      "distance": "5.0 mi",
+      "url": "https://www.google.com/maps/search/Hampton+Inn+and+Suites+near+42.09738000000001%2C-80.0798416"
+    },
+    {
+      "name": "Holiday Inn Express & Suites",
+      "distance": "6.5 mi",
+      "url": "https://www.google.com/maps/search/Holiday+Inn+Express+and+Suites+near+42.09738000000001%2C-80.0798416",
+      "isFar": true
+    },
+    {
+      "name": "Comfort Inn & Suites",
+      "distance": "8.0 mi",
+      "url": "https://www.google.com/maps/search/Comfort+Inn+and+Suites+near+42.09738000000001%2C-80.0798416",
+      "isFar": true
+    },
+    {
+      "name": "Best Western",
+      "distance": "9.5 mi",
+      "url": "https://www.google.com/maps/search/Best+Western+near+42.09738000000001%2C-80.0798416",
+      "isFar": true
     }
   ],
   "gas": [

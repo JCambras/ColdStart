@@ -68,6 +68,11 @@
       "name": "Vermont Bread Co",
       "distance": "1.8 mi",
       "url": "https://www.google.com/maps/search/?api=1&query=Vermont%20Bread%20Co&query_place_id=ChIJg5riJw6uxokRmdFXwova-6E&center=40.161420899999996,-75.0729312"
+    },
+    {
+      "name": "Applebee's Grill + Bar",
+      "distance": "5.0 mi",
+      "url": "https://www.google.com/maps/search/Applebees+Grill+++Bar+near+40.1368333%2C-75.0610507"
     }
   ],
   "dinner": [
@@ -174,6 +179,17 @@
       "name": "Kira",
       "distance": "2.7 mi",
       "url": "https://www.google.com/maps/search/?api=1&query=Kira&query_place_id=ChIJz9crgIGzxokRv4vZ_f6Yhv0&center=40.1211668,-75.0142817"
+    },
+    {
+      "name": "Hampton Inn & Suites",
+      "distance": "5.0 mi",
+      "url": "https://www.google.com/maps/search/Hampton+Inn+and+Suites+near+40.1368333%2C-75.0610507"
+    },
+    {
+      "name": "Holiday Inn Express & Suites",
+      "distance": "6.5 mi",
+      "url": "https://www.google.com/maps/search/Holiday+Inn+Express+and+Suites+near+40.1368333%2C-75.0610507",
+      "isFar": true
     }
   ],
   "gas": [

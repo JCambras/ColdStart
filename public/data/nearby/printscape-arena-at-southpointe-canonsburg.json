@@ -73,6 +73,11 @@
       "name": "Pan Wei Buffet & Grill",
       "distance": "1.2 mi",
       "url": "https://www.google.com/maps/search/?api=1&query=Pan%20Wei%20Buffet%20%26%20Grill&query_place_id=ChIJtbMXYmRUNIgRGD9vLrYk_9Q&center=40.263579299999996,-80.1736123"
+    },
+    {
+      "name": "Applebee's Grill + Bar",
+      "distance": "5.0 mi",
+      "url": "https://www.google.com/maps/search/Applebees+Grill+++Bar+near+40.2776636%2C-80.1619142"
     }
   ],
   "dinner": [
@@ -126,7 +131,20 @@
     }
   ],
   "arcade": [],
-  "movies": [],
+  "movies": [
+    {
+      "name": "AMC Theatres",
+      "distance": "6.0 mi",
+      "url": "https://www.google.com/maps/search/AMC+Theatres+near+40.2776636%2C-80.1619142",
+      "isFar": true
+    },
+    {
+      "name": "Regal Cinemas",
+      "distance": "10.0 mi",
+      "url": "https://www.google.com/maps/search/Regal+Cinemas+near+40.2776636%2C-80.1619142",
+      "isFar": true
+    }
+  ],
   "fun": [
     {
       "name": "Canonsburg Lake Dam",

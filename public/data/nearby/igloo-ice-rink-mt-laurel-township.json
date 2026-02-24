@@ -73,6 +73,17 @@
       "name": "Gaetano's Steaks & Subs - Mount Laurel",
       "distance": "1.0 mi",
       "url": "https://www.google.com/maps/search/?api=1&query=Gaetano's%20Steaks%20%26%20Subs%20-%20Mount%20Laurel&query_place_id=ChIJEeZbngRKwYkRXMIA8jk5bBc&center=39.9709925,-74.8802759"
+    },
+    {
+      "name": "Applebee's Grill + Bar",
+      "distance": "5.0 mi",
+      "url": "https://www.google.com/maps/search/Applebees+Grill+++Bar+near+39.9752778%2C-74.86194440000001"
+    },
+    {
+      "name": "Olive Garden",
+      "distance": "6.5 mi",
+      "url": "https://www.google.com/maps/search/Olive+Garden+near+39.9752778%2C-74.86194440000001",
+      "isFar": true
     }
   ],
   "dinner": [
@@ -115,6 +126,12 @@
       "distance": "4.8 mi",
       "url": "https://www.google.com/maps/search/?api=1&query=Regal%20Burlington&query_place_id=ChIJ4T55_itPwYkR6Apez1OgmFA&center=40.0374045,-74.82163059999999",
       "isFar": true
+    },
+    {
+      "name": "AMC Theatres",
+      "distance": "6.0 mi",
+      "url": "https://www.google.com/maps/search/AMC+Theatres+near+39.9752778%2C-74.86194440000001",
+      "isFar": true
     }
   ],
   "fun": [
@@ -154,6 +171,11 @@
       "name": "Residence Inn by Marriott Mt. Laurel at Bishop's Gate",
       "distance": "2.2 mi",
       "url": "https://www.google.com/maps/search/?api=1&query=Residence%20Inn%20by%20Marriott%20Mt.%20Laurel%20at%20Bishop's%20Gate&query_place_id=ChIJA6PTsnVKwYkRbVY98UK9djc&center=39.967257499999995,-74.9017805"
+    },
+    {
+      "name": "Holiday Inn Express & Suites",
+      "distance": "5.0 mi",
+      "url": "https://www.google.com/maps/search/Holiday+Inn+Express+and+Suites+near+39.9752778%2C-74.86194440000001"
     }
   ],
   "gas": [

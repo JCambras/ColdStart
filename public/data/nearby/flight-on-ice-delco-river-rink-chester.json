@@ -31,6 +31,11 @@
       "name": "Penn Cafe’",
       "distance": "0.6 mi",
       "url": "https://www.google.com/maps/search/?api=1&query=Penn%20Cafe%E2%80%99&query_place_id=ChIJ2SCLGKXnxokRTzam3DsJPdY&center=39.848065399999996,-75.3600909"
+    },
+    {
+      "name": "Starbucks",
+      "distance": "3.0 mi",
+      "url": "https://www.google.com/maps/search/Starbucks+near+39.8503328%2C-75.3495986"
     }
   ],
   "team_lunch": [
@@ -96,7 +101,20 @@
     }
   ],
   "arcade": [],
-  "movies": [],
+  "movies": [
+    {
+      "name": "AMC Theatres",
+      "distance": "6.0 mi",
+      "url": "https://www.google.com/maps/search/AMC+Theatres+near+39.8503328%2C-75.3495986",
+      "isFar": true
+    },
+    {
+      "name": "Regal Cinemas",
+      "distance": "10.0 mi",
+      "url": "https://www.google.com/maps/search/Regal+Cinemas+near+39.8503328%2C-75.3495986",
+      "isFar": true
+    }
+  ],
   "fun": [
     {
       "name": "GIANT Tailgate at Union Yards",
@@ -142,6 +160,11 @@
       "name": "Comfort Inn Philadelphia International Airport West",
       "distance": "0.8 mi",
       "url": "https://www.google.com/maps/search/?api=1&query=Comfort%20Inn%20Philadelphia%20International%20Airport%20West&query_place_id=ChIJR2n5Jm_nxokR5VcIMKH-ykM&center=39.858233299999995,-75.36099999999999"
+    },
+    {
+      "name": "Hampton Inn & Suites",
+      "distance": "5.0 mi",
+      "url": "https://www.google.com/maps/search/Hampton+Inn+and+Suites+near+39.8503328%2C-75.3495986"
     }
   ],
   "gas": [

@@ -73,6 +73,17 @@
       "name": "Cherries Diner",
       "distance": "0.1 mi",
       "url": "https://www.google.com/maps/search/?api=1&query=Cherries%20Diner&query_place_id=ChIJPR_hvlbxNIgRGLRKCnInAKg&center=40.4410589,-80.0033144"
+    },
+    {
+      "name": "Applebee's Grill + Bar",
+      "distance": "5.0 mi",
+      "url": "https://www.google.com/maps/search/Applebees+Grill+++Bar+near+40.4398%2C-80.0033802"
+    },
+    {
+      "name": "Olive Garden",
+      "distance": "6.5 mi",
+      "url": "https://www.google.com/maps/search/Olive+Garden+near+40.4398%2C-80.0033802",
+      "isFar": true
     }
   ],
   "dinner": [
@@ -178,6 +189,17 @@
       "name": "DASAFESPACE LLC",
       "distance": "0.1 mi",
       "url": "https://www.google.com/maps/search/?api=1&query=DASAFESPACE%20LLC&query_place_id=ChIJqyx855PxNIgRyLgLIZTv4Sg&center=40.439699399999995,-80.0017555"
+    },
+    {
+      "name": "Hampton Inn & Suites",
+      "distance": "5.0 mi",
+      "url": "https://www.google.com/maps/search/Hampton+Inn+and+Suites+near+40.4398%2C-80.0033802"
+    },
+    {
+      "name": "Holiday Inn Express & Suites",
+      "distance": "6.5 mi",
+      "url": "https://www.google.com/maps/search/Holiday+Inn+Express+and+Suites+near+40.4398%2C-80.0033802",
+      "isFar": true
     }
   ],
   "gas": [

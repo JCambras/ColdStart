@@ -160,6 +160,23 @@
       "name": "Saso usa",
       "distance": "0.2 mi",
       "url": "https://www.google.com/maps/search/?api=1&query=Saso%20usa&query_place_id=ChIJCRQ_MQDxwokRPESXmyReBUc&center=40.8943959,-73.9761987"
+    },
+    {
+      "name": "Hampton Inn & Suites",
+      "distance": "5.0 mi",
+      "url": "https://www.google.com/maps/search/Hampton+Inn+and+Suites+near+40.8943339%2C-73.9808225"
+    },
+    {
+      "name": "Holiday Inn Express & Suites",
+      "distance": "6.5 mi",
+      "url": "https://www.google.com/maps/search/Holiday+Inn+Express+and+Suites+near+40.8943339%2C-73.9808225",
+      "isFar": true
+    },
+    {
+      "name": "Comfort Inn & Suites",
+      "distance": "8.0 mi",
+      "url": "https://www.google.com/maps/search/Comfort+Inn+and+Suites+near+40.8943339%2C-73.9808225",
+      "isFar": true
     }
   ],
   "gas": [

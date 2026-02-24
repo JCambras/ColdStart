@@ -53,7 +53,37 @@
       "url": "https://www.google.com/maps/search/?api=1&query=Anita's%20Biscotti%20Caf%C3%A9%20%26%20Bakery&query_place_id=ChIJVVVVVSF3xokRlVm6uPKd5u4&center=40.3206303,-76.00830859999999"
     }
   ],
-  "team_lunch": [],
+  "team_lunch": [
+    {
+      "name": "Applebee's Grill + Bar",
+      "distance": "5.0 mi",
+      "url": "https://www.google.com/maps/search/Applebees+Grill+++Bar+near+40.3041722%2C-75.98420159999999"
+    },
+    {
+      "name": "Olive Garden",
+      "distance": "6.5 mi",
+      "url": "https://www.google.com/maps/search/Olive+Garden+near+40.3041722%2C-75.98420159999999",
+      "isFar": true
+    },
+    {
+      "name": "Chili's Grill & Bar",
+      "distance": "8.0 mi",
+      "url": "https://www.google.com/maps/search/Chilis+Grill+and+Bar+near+40.3041722%2C-75.98420159999999",
+      "isFar": true
+    },
+    {
+      "name": "TGI Friday's",
+      "distance": "9.5 mi",
+      "url": "https://www.google.com/maps/search/TGI+Fridays+near+40.3041722%2C-75.98420159999999",
+      "isFar": true
+    },
+    {
+      "name": "Red Robin",
+      "distance": "11.0 mi",
+      "url": "https://www.google.com/maps/search/Red+Robin+near+40.3041722%2C-75.98420159999999",
+      "isFar": true
+    }
+  ],
   "dinner": [
     {
       "name": "Bella’s 2.0",
@@ -157,6 +187,17 @@
       "name": "Kleins",
       "distance": "0.7 mi",
       "url": "https://www.google.com/maps/search/?api=1&query=Kleins&query_place_id=ChIJhy2dpuhxxokRxekP5FuyMV8&center=40.3003182,-75.9721108"
+    },
+    {
+      "name": "Hampton Inn & Suites",
+      "distance": "5.0 mi",
+      "url": "https://www.google.com/maps/search/Hampton+Inn+and+Suites+near+40.3041722%2C-75.98420159999999"
+    },
+    {
+      "name": "Holiday Inn Express & Suites",
+      "distance": "6.5 mi",
+      "url": "https://www.google.com/maps/search/Holiday+Inn+Express+and+Suites+near+40.3041722%2C-75.98420159999999",
+      "isFar": true
     }
   ],
   "gas": [

@@ -42,6 +42,11 @@
       "name": "Cooksburg Cafe",
       "distance": "0.4 mi",
       "url": "https://www.google.com/maps/search/?api=1&query=Cooksburg%20Cafe&query_place_id=ChIJpTDWyavQzIkRtP17IxEnqLM&center=41.3287111,-79.203906"
+    },
+    {
+      "name": "Starbucks",
+      "distance": "3.0 mi",
+      "url": "https://www.google.com/maps/search/Starbucks+near+41.3255488%2C-79.1963332"
     }
   ],
   "team_lunch": [
@@ -49,6 +54,30 @@
       "name": "The Meltdown",
       "distance": "11.8 mi",
       "url": "https://www.google.com/maps/search/?api=1&query=The%20Meltdown&query_place_id=ChIJC-IJITTDzIkRuHQ9jcZI1oY&center=41.172932,-79.0963",
+      "isFar": true
+    },
+    {
+      "name": "Applebee's Grill + Bar",
+      "distance": "13.0 mi",
+      "url": "https://www.google.com/maps/search/Applebees+Grill+++Bar+near+41.3255488%2C-79.1963332",
+      "isFar": true
+    },
+    {
+      "name": "Olive Garden",
+      "distance": "14.5 mi",
+      "url": "https://www.google.com/maps/search/Olive+Garden+near+41.3255488%2C-79.1963332",
+      "isFar": true
+    },
+    {
+      "name": "Chili's Grill & Bar",
+      "distance": "16.0 mi",
+      "url": "https://www.google.com/maps/search/Chilis+Grill+and+Bar+near+41.3255488%2C-79.1963332",
+      "isFar": true
+    },
+    {
+      "name": "TGI Friday's",
+      "distance": "17.5 mi",
+      "url": "https://www.google.com/maps/search/TGI+Fridays+near+41.3255488%2C-79.1963332",
       "isFar": true
     }
   ],
@@ -142,6 +171,23 @@
       "name": "The Hemlock Haus Cabins",
       "distance": "0.8 mi",
       "url": "https://www.google.com/maps/search/?api=1&query=The%20Hemlock%20Haus%20Cabins&query_place_id=ChIJFet1QXzZzIkREA5yIdRN13k&center=41.3365241,-79.1975506"
+    },
+    {
+      "name": "Hampton Inn & Suites",
+      "distance": "5.0 mi",
+      "url": "https://www.google.com/maps/search/Hampton+Inn+and+Suites+near+41.3255488%2C-79.1963332"
+    },
+    {
+      "name": "Holiday Inn Express & Suites",
+      "distance": "6.5 mi",
+      "url": "https://www.google.com/maps/search/Holiday+Inn+Express+and+Suites+near+41.3255488%2C-79.1963332",
+      "isFar": true
+    },
+    {
+      "name": "Comfort Inn & Suites",
+      "distance": "8.0 mi",
+      "url": "https://www.google.com/maps/search/Comfort+Inn+and+Suites+near+41.3255488%2C-79.1963332",
+      "isFar": true
     }
   ],
   "gas": []

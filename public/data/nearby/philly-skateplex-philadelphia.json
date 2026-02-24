@@ -58,6 +58,17 @@
       "name": "la Novia",
       "distance": "0.6 mi",
       "url": "https://www.google.com/maps/search/?api=1&query=LA%20NOVIA&query_place_id=ChIJYQKDIwCzxokRveLGQ1Q_ziU&center=40.1036894,-74.9929089"
+    },
+    {
+      "name": "Applebee's Grill + Bar",
+      "distance": "5.0 mi",
+      "url": "https://www.google.com/maps/search/Applebees+Grill+++Bar+near+40.1040649%2C-75.00463289999999"
+    },
+    {
+      "name": "Olive Garden",
+      "distance": "6.5 mi",
+      "url": "https://www.google.com/maps/search/Olive+Garden+near+40.1040649%2C-75.00463289999999",
+      "isFar": true
     }
   ],
   "dinner": [

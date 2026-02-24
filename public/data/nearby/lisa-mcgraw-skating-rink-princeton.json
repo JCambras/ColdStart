@@ -165,6 +165,29 @@
       "name": "Zen House",
       "distance": "0.5 mi",
       "url": "https://www.google.com/maps/search/?api=1&query=Zen%20House&query_place_id=ChIJ7Tx-XiLkw4kRySiN-cEa0Go&center=40.358921099999996,-74.6953125"
+    },
+    {
+      "name": "Hampton Inn & Suites",
+      "distance": "5.0 mi",
+      "url": "https://www.google.com/maps/search/Hampton+Inn+and+Suites+near+40.364868099999995%2C-74.6917453"
+    },
+    {
+      "name": "Holiday Inn Express & Suites",
+      "distance": "6.5 mi",
+      "url": "https://www.google.com/maps/search/Holiday+Inn+Express+and+Suites+near+40.364868099999995%2C-74.6917453",
+      "isFar": true
+    },
+    {
+      "name": "Comfort Inn & Suites",
+      "distance": "8.0 mi",
+      "url": "https://www.google.com/maps/search/Comfort+Inn+and+Suites+near+40.364868099999995%2C-74.6917453",
+      "isFar": true
+    },
+    {
+      "name": "Best Western",
+      "distance": "9.5 mi",
+      "url": "https://www.google.com/maps/search/Best+Western+near+40.364868099999995%2C-74.6917453",
+      "isFar": true
     }
   ],
   "gas": [

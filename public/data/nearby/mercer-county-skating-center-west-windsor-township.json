@@ -68,6 +68,23 @@
       "name": "Cafe de Marcela",
       "distance": "2.6 mi",
       "url": "https://www.google.com/maps/search/?api=1&query=Cafe%20de%20Marcela&query_place_id=ChIJS_gbPgDhw4kRtKUstKrIdlY&center=40.2928339,-74.6568095"
+    },
+    {
+      "name": "Applebee's Grill + Bar",
+      "distance": "5.0 mi",
+      "url": "https://www.google.com/maps/search/Applebees+Grill+++Bar+near+40.258843%2C-74.6359259"
+    },
+    {
+      "name": "Olive Garden",
+      "distance": "6.5 mi",
+      "url": "https://www.google.com/maps/search/Olive+Garden+near+40.258843%2C-74.6359259",
+      "isFar": true
+    },
+    {
+      "name": "Chili's Grill & Bar",
+      "distance": "8.0 mi",
+      "url": "https://www.google.com/maps/search/Chilis+Grill+and+Bar+near+40.258843%2C-74.6359259",
+      "isFar": true
     }
   ],
   "dinner": [
@@ -118,6 +135,12 @@
       "name": "AMC MarketFair 10",
       "distance": "4.1 mi",
       "url": "https://www.google.com/maps/search/?api=1&query=AMC%20MarketFair%2010&query_place_id=ChIJE9KJGRXhw4kRLbGbX0RtZnI&center=40.3154453,-74.66192629999999",
+      "isFar": true
+    },
+    {
+      "name": "AMC Theatres",
+      "distance": "6.0 mi",
+      "url": "https://www.google.com/maps/search/AMC+Theatres+near+40.258843%2C-74.6359259",
       "isFar": true
     }
   ],

@@ -14,6 +14,16 @@
       "name": "Wendy's",
       "distance": "0.9 mi",
       "url": "https://www.google.com/maps/search/?api=1&query=Wendy's&query_place_id=ChIJt-okRN1RwokRuzgFVN44sso&center=40.6683161,-74.1068014"
+    },
+    {
+      "name": "McDonald's",
+      "distance": "3.0 mi",
+      "url": "https://www.google.com/maps/search/McDonalds+near+40.6723936%2C-74.122694"
+    },
+    {
+      "name": "Burger King",
+      "distance": "4.5 mi",
+      "url": "https://www.google.com/maps/search/Burger+King+near+40.6723936%2C-74.122694"
     }
   ],
   "coffee": [
@@ -120,6 +130,12 @@
       "name": "AMC Jersey Gardens 20",
       "distance": "2.6 mi",
       "url": "https://www.google.com/maps/search/?api=1&query=AMC%20Jersey%20Gardens%2020&query_place_id=ChIJixQeNIBNwokRqT7eC3URQEg&center=40.6595033,-74.1682982"
+    },
+    {
+      "name": "AMC Theatres",
+      "distance": "6.0 mi",
+      "url": "https://www.google.com/maps/search/AMC+Theatres+near+40.6723936%2C-74.122694",
+      "isFar": true
     }
   ],
   "fun": [
@@ -139,6 +155,29 @@
       "name": "Bayonne Oasis: Welcoming Family Space",
       "distance": "0.3 mi",
       "url": "https://www.google.com/maps/search/?api=1&query=Bayonne%20Oasis%3A%20Welcoming%20Family%20Space&query_place_id=ChIJfbJ67vNRwokRRw0SAwdIDeo&center=40.6711197,-74.11724860000001"
+    },
+    {
+      "name": "Hampton Inn & Suites",
+      "distance": "5.0 mi",
+      "url": "https://www.google.com/maps/search/Hampton+Inn+and+Suites+near+40.6723936%2C-74.122694"
+    },
+    {
+      "name": "Holiday Inn Express & Suites",
+      "distance": "6.5 mi",
+      "url": "https://www.google.com/maps/search/Holiday+Inn+Express+and+Suites+near+40.6723936%2C-74.122694",
+      "isFar": true
+    },
+    {
+      "name": "Comfort Inn & Suites",
+      "distance": "8.0 mi",
+      "url": "https://www.google.com/maps/search/Comfort+Inn+and+Suites+near+40.6723936%2C-74.122694",
+      "isFar": true
+    },
+    {
+      "name": "Best Western",
+      "distance": "9.5 mi",
+      "url": "https://www.google.com/maps/search/Best+Western+near+40.6723936%2C-74.122694",
+      "isFar": true
     }
   ],
   "gas": [

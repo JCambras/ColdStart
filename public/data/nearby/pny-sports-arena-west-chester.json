@@ -31,6 +31,11 @@
       "name": "Cup of Joy Smoothies. Acai Bowls, and more",
       "distance": "0.8 mi",
       "url": "https://www.google.com/maps/search/?api=1&query=Cup%20of%20Joy%20Smoothies.%20Acai%20Bowls%2C%20and%20more&query_place_id=ChIJ0w9EvY3txokRtz8jA43AuBg&center=39.9654427,-75.5268085"
+    },
+    {
+      "name": "Starbucks",
+      "distance": "3.0 mi",
+      "url": "https://www.google.com/maps/search/Starbucks+near+39.9649887%2C-75.5124435"
     }
   ],
   "team_lunch": [
@@ -48,6 +53,17 @@
       "name": "M's Cheesecakes",
       "distance": "4.1 mi",
       "url": "https://www.google.com/maps/search/?api=1&query=M's%20Cheesecakes&query_place_id=ChIJL9KHAH7xxokR9tSFzS-BKXY&center=39.9488504,-75.5878829",
+      "isFar": true
+    },
+    {
+      "name": "Applebee's Grill + Bar",
+      "distance": "5.0 mi",
+      "url": "https://www.google.com/maps/search/Applebees+Grill+++Bar+near+39.9649887%2C-75.5124435"
+    },
+    {
+      "name": "Olive Garden",
+      "distance": "6.5 mi",
+      "url": "https://www.google.com/maps/search/Olive+Garden+near+39.9649887%2C-75.5124435",
       "isFar": true
     }
   ],
@@ -91,6 +107,12 @@
       "distance": "4.0 mi",
       "url": "https://www.google.com/maps/search/?api=1&query=Regal%20Edgmont%20Square&query_place_id=ChIJLZ7RuHTsxokRcxESaWIob0g&center=39.9780831,-75.4392678",
       "isFar": true
+    },
+    {
+      "name": "AMC Theatres",
+      "distance": "6.0 mi",
+      "url": "https://www.google.com/maps/search/AMC+Theatres+near+39.9649887%2C-75.5124435",
+      "isFar": true
     }
   ],
   "fun": [
@@ -131,6 +153,17 @@
       "name": "The Inn at Grace Winery",
       "distance": "3.2 mi",
       "url": "https://www.google.com/maps/search/?api=1&query=The%20Inn%20at%20Grace%20Winery&query_place_id=ChIJAye3h_juxokReCtfIi-SWnU&center=39.926173,-75.478878",
+      "isFar": true
+    },
+    {
+      "name": "Hampton Inn & Suites",
+      "distance": "5.0 mi",
+      "url": "https://www.google.com/maps/search/Hampton+Inn+and+Suites+near+39.9649887%2C-75.5124435"
+    },
+    {
+      "name": "Holiday Inn Express & Suites",
+      "distance": "6.5 mi",
+      "url": "https://www.google.com/maps/search/Holiday+Inn+Express+and+Suites+near+39.9649887%2C-75.5124435",
       "isFar": true
     }
   ],

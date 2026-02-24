@@ -63,6 +63,17 @@
       "name": "Maxwell's",
       "distance": "0.8 mi",
       "url": "https://www.google.com/maps/search/?api=1&query=Maxwell's&query_place_id=ChIJvwszobSsNYgRo-Mn1cPW_-s&center=40.2187846,-80.2039855"
+    },
+    {
+      "name": "Applebee's Grill + Bar",
+      "distance": "5.0 mi",
+      "url": "https://www.google.com/maps/search/Applebees+Grill+++Bar+near+40.2293952%2C-80.2102814"
+    },
+    {
+      "name": "Olive Garden",
+      "distance": "6.5 mi",
+      "url": "https://www.google.com/maps/search/Olive+Garden+near+40.2293952%2C-80.2102814",
+      "isFar": true
     }
   ],
   "dinner": [
@@ -110,7 +121,20 @@
     }
   ],
   "arcade": [],
-  "movies": [],
+  "movies": [
+    {
+      "name": "AMC Theatres",
+      "distance": "6.0 mi",
+      "url": "https://www.google.com/maps/search/AMC+Theatres+near+40.2293952%2C-80.2102814",
+      "isFar": true
+    },
+    {
+      "name": "Regal Cinemas",
+      "distance": "10.0 mi",
+      "url": "https://www.google.com/maps/search/Regal+Cinemas+near+40.2293952%2C-80.2102814",
+      "isFar": true
+    }
+  ],
   "fun": [
     {
       "name": "Planet Bounce Pittsburgh - South Star - Tanger Outlets",

@@ -121,6 +121,12 @@
       "name": "Marquee Cinemas - Orchard 10",
       "distance": "2.2 mi",
       "url": "https://www.google.com/maps/search/?api=1&query=Marquee%20Cinemas%20-%20Orchard%2010&query_place_id=ChIJ-QKeUEN2wYkRN01nkfxLP98&center=39.9818129,-74.2563906"
+    },
+    {
+      "name": "AMC Theatres",
+      "distance": "6.0 mi",
+      "url": "https://www.google.com/maps/search/AMC+Theatres+near+39.9886689%2C-74.21569339999999",
+      "isFar": true
     }
   ],
   "fun": [
@@ -165,6 +171,11 @@
       "name": "Howard Johnson by Wyndham Toms River",
       "distance": "2.3 mi",
       "url": "https://www.google.com/maps/search/?api=1&query=Howard%20Johnson%20by%20Wyndham%20Toms%20River&query_place_id=ChIJz9La98adwYkRc7u0RzxEoHc&center=39.964595300000006,-74.18597559999999"
+    },
+    {
+      "name": "Hampton Inn & Suites",
+      "distance": "5.0 mi",
+      "url": "https://www.google.com/maps/search/Hampton+Inn+and+Suites+near+39.9886689%2C-74.21569339999999"
     }
   ],
   "gas": [

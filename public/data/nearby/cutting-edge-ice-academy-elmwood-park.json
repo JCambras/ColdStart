@@ -43,6 +43,29 @@
       "name": "Metro Bagel & Deli",
       "distance": "1.0 mi",
       "url": "https://www.google.com/maps/search/?api=1&query=Metro%20Bagel%20%26%20Deli&query_place_id=ChIJMRVEZl35wokRsVKl5rWy2pQ&center=40.881827799999996,-74.1011183"
+    },
+    {
+      "name": "Applebee's Grill + Bar",
+      "distance": "5.0 mi",
+      "url": "https://www.google.com/maps/search/Applebees+Grill+++Bar+near+40.895984299999995%2C-74.1037672"
+    },
+    {
+      "name": "Olive Garden",
+      "distance": "6.5 mi",
+      "url": "https://www.google.com/maps/search/Olive+Garden+near+40.895984299999995%2C-74.1037672",
+      "isFar": true
+    },
+    {
+      "name": "Chili's Grill & Bar",
+      "distance": "8.0 mi",
+      "url": "https://www.google.com/maps/search/Chilis+Grill+and+Bar+near+40.895984299999995%2C-74.1037672",
+      "isFar": true
+    },
+    {
+      "name": "TGI Friday's",
+      "distance": "9.5 mi",
+      "url": "https://www.google.com/maps/search/TGI+Fridays+near+40.895984299999995%2C-74.1037672",
+      "isFar": true
     }
   ],
   "dinner": [
@@ -90,6 +113,12 @@
       "name": "AMC Garden State Plaza 16",
       "distance": "1.9 mi",
       "url": "https://www.google.com/maps/search/?api=1&query=AMC%20Garden%20State%20Plaza%2016&query_place_id=ChIJ51pKtVL6wokR0TscY-aF-HY&center=40.9153697,-74.07719349999999"
+    },
+    {
+      "name": "AMC Theatres",
+      "distance": "6.0 mi",
+      "url": "https://www.google.com/maps/search/AMC+Theatres+near+40.895984299999995%2C-74.1037672",
+      "isFar": true
     }
   ],
   "fun": [
@@ -129,6 +158,11 @@
       "name": "Town House Inn & Suites",
       "distance": "1.1 mi",
       "url": "https://www.google.com/maps/search/?api=1&query=Town%20House%20Inn%20%26%20Suites&query_place_id=ChIJIVV_g6r-wokRLAu25BW3G-0&center=40.8929112,-74.12477129999999"
+    },
+    {
+      "name": "Hampton Inn & Suites",
+      "distance": "5.0 mi",
+      "url": "https://www.google.com/maps/search/Hampton+Inn+and+Suites+near+40.895984299999995%2C-74.1037672"
     }
   ],
   "gas": [

@@ -14,6 +14,16 @@
       "name": "Spice & slice",
       "distance": "0.6 mi",
       "url": "https://www.google.com/maps/search/?api=1&query=Spice%20%26%20slice&query_place_id=ChIJOVDRketVwokRyzgrsN_UuD8&center=40.8133714,-74.21752699999999"
+    },
+    {
+      "name": "McDonald's",
+      "distance": "3.0 mi",
+      "url": "https://www.google.com/maps/search/McDonalds+near+40.8197427%2C-74.208666"
+    },
+    {
+      "name": "Wendy's",
+      "distance": "4.5 mi",
+      "url": "https://www.google.com/maps/search/Wendys+near+40.8197427%2C-74.208666"
     }
   ],
   "coffee": [
@@ -147,7 +157,37 @@
       "url": "https://www.google.com/maps/search/?api=1&query=Splash%20Pad&query_place_id=ChIJT6eNawCrw4kRAfA043Se8JE&center=40.7840189,-74.2267036"
     }
   ],
-  "hotels": [],
+  "hotels": [
+    {
+      "name": "Hampton Inn & Suites",
+      "distance": "5.0 mi",
+      "url": "https://www.google.com/maps/search/Hampton+Inn+and+Suites+near+40.8197427%2C-74.208666"
+    },
+    {
+      "name": "Holiday Inn Express & Suites",
+      "distance": "6.5 mi",
+      "url": "https://www.google.com/maps/search/Holiday+Inn+Express+and+Suites+near+40.8197427%2C-74.208666",
+      "isFar": true
+    },
+    {
+      "name": "Comfort Inn & Suites",
+      "distance": "8.0 mi",
+      "url": "https://www.google.com/maps/search/Comfort+Inn+and+Suites+near+40.8197427%2C-74.208666",
+      "isFar": true
+    },
+    {
+      "name": "Best Western",
+      "distance": "9.5 mi",
+      "url": "https://www.google.com/maps/search/Best+Western+near+40.8197427%2C-74.208666",
+      "isFar": true
+    },
+    {
+      "name": "Courtyard by Marriott",
+      "distance": "11.0 mi",
+      "url": "https://www.google.com/maps/search/Courtyard+by+Marriott+near+40.8197427%2C-74.208666",
+      "isFar": true
+    }
+  ],
   "gas": [
     {
       "name": "76",

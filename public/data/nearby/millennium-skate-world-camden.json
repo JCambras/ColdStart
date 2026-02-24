@@ -200,6 +200,17 @@
       "name": "Modern Classic Suite in Downtown Camden",
       "distance": "1.0 mi",
       "url": "https://www.google.com/maps/search/?api=1&query=Modern%20Classic%20Suite%20in%20Downtown%20Camden&query_place_id=ChIJFfT7GvvIxokRGnh9o3ZMaZE&center=39.9469986,-75.1149978"
+    },
+    {
+      "name": "Hampton Inn & Suites",
+      "distance": "5.0 mi",
+      "url": "https://www.google.com/maps/search/Hampton+Inn+and+Suites+near+39.9434274%2C-75.0960636"
+    },
+    {
+      "name": "Holiday Inn Express & Suites",
+      "distance": "6.5 mi",
+      "url": "https://www.google.com/maps/search/Holiday+Inn+Express+and+Suites+near+39.9434274%2C-75.0960636",
+      "isFar": true
     }
   ],
   "gas": [

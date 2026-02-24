@@ -78,6 +78,11 @@
       "name": "Dun Huang Noodles",
       "distance": "0.2 mi",
       "url": "https://www.google.com/maps/search/?api=1&query=Dun%20Huang%20Noodles&query_place_id=ChIJbaDvXQBXwokRdKuFpt3Om7U&center=40.73214,-74.0313096"
+    },
+    {
+      "name": "Applebee's Grill + Bar",
+      "distance": "5.0 mi",
+      "url": "https://www.google.com/maps/search/Applebees+Grill+++Bar+near+40.7295416%2C-74.0323306"
     }
   ],
   "dinner": [
@@ -153,6 +158,29 @@
       "name": "Hudson Suites at Newport",
       "distance": "0.2 mi",
       "url": "https://www.google.com/maps/search/?api=1&query=Hudson%20Suites%20at%20Newport&query_place_id=ChIJA2t_CVZXwokRMLxE37VaWH8&center=40.7274819,-74.0310974"
+    },
+    {
+      "name": "Hampton Inn & Suites",
+      "distance": "5.0 mi",
+      "url": "https://www.google.com/maps/search/Hampton+Inn+and+Suites+near+40.7295416%2C-74.0323306"
+    },
+    {
+      "name": "Holiday Inn Express & Suites",
+      "distance": "6.5 mi",
+      "url": "https://www.google.com/maps/search/Holiday+Inn+Express+and+Suites+near+40.7295416%2C-74.0323306",
+      "isFar": true
+    },
+    {
+      "name": "Comfort Inn & Suites",
+      "distance": "8.0 mi",
+      "url": "https://www.google.com/maps/search/Comfort+Inn+and+Suites+near+40.7295416%2C-74.0323306",
+      "isFar": true
+    },
+    {
+      "name": "Best Western",
+      "distance": "9.5 mi",
+      "url": "https://www.google.com/maps/search/Best+Western+near+40.7295416%2C-74.0323306",
+      "isFar": true
     }
   ],
   "gas": [

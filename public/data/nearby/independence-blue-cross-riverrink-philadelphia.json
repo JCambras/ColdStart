@@ -174,6 +174,29 @@
       "name": "Old City Charm / In Law Suite / A+ Location",
       "distance": "0.2 mi",
       "url": "https://www.google.com/maps/search/?api=1&query=Old%20City%20Charm%20%2F%20In%20Law%20Suite%20%2F%20A%2B%20Location&query_place_id=ChIJrwgssI7IxokRMgf8mqxPaak&center=39.950359399999996,-75.1377792"
+    },
+    {
+      "name": "Hampton Inn & Suites",
+      "distance": "5.0 mi",
+      "url": "https://www.google.com/maps/search/Hampton+Inn+and+Suites+near+39.94821770000001%2C-75.1396839"
+    },
+    {
+      "name": "Holiday Inn Express & Suites",
+      "distance": "6.5 mi",
+      "url": "https://www.google.com/maps/search/Holiday+Inn+Express+and+Suites+near+39.94821770000001%2C-75.1396839",
+      "isFar": true
+    },
+    {
+      "name": "Comfort Inn & Suites",
+      "distance": "8.0 mi",
+      "url": "https://www.google.com/maps/search/Comfort+Inn+and+Suites+near+39.94821770000001%2C-75.1396839",
+      "isFar": true
+    },
+    {
+      "name": "Best Western",
+      "distance": "9.5 mi",
+      "url": "https://www.google.com/maps/search/Best+Western+near+39.94821770000001%2C-75.1396839",
+      "isFar": true
     }
   ],
   "gas": [

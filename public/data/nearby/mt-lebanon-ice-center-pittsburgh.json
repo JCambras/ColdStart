@@ -53,7 +53,37 @@
       "url": "https://www.google.com/maps/search/?api=1&query=Orbis%20Caffe&query_place_id=ChIJ55B3vXH3NIgRFZgNAf0CYfo&center=40.3811002,-80.04408339999999"
     }
   ],
-  "team_lunch": [],
+  "team_lunch": [
+    {
+      "name": "Applebee's Grill + Bar",
+      "distance": "5.0 mi",
+      "url": "https://www.google.com/maps/search/Applebees+Grill+++Bar+near+40.374314399999996%2C-80.0551306"
+    },
+    {
+      "name": "Olive Garden",
+      "distance": "6.5 mi",
+      "url": "https://www.google.com/maps/search/Olive+Garden+near+40.374314399999996%2C-80.0551306",
+      "isFar": true
+    },
+    {
+      "name": "Chili's Grill & Bar",
+      "distance": "8.0 mi",
+      "url": "https://www.google.com/maps/search/Chilis+Grill+and+Bar+near+40.374314399999996%2C-80.0551306",
+      "isFar": true
+    },
+    {
+      "name": "TGI Friday's",
+      "distance": "9.5 mi",
+      "url": "https://www.google.com/maps/search/TGI+Fridays+near+40.374314399999996%2C-80.0551306",
+      "isFar": true
+    },
+    {
+      "name": "Red Robin",
+      "distance": "11.0 mi",
+      "url": "https://www.google.com/maps/search/Red+Robin+near+40.374314399999996%2C-80.0551306",
+      "isFar": true
+    }
+  ],
   "dinner": [
     {
       "name": "La Gourmandine Mt. Lebanon",
@@ -145,7 +175,37 @@
       "url": "https://www.google.com/maps/search/?api=1&query=Former%20home%20of%20Nathan%20Couch&query_place_id=ChIJ49JjWgD5NIgR9IuuNPJGLHA&center=40.3317379,-80.0555117"
     }
   ],
-  "hotels": [],
+  "hotels": [
+    {
+      "name": "Hampton Inn & Suites",
+      "distance": "5.0 mi",
+      "url": "https://www.google.com/maps/search/Hampton+Inn+and+Suites+near+40.374314399999996%2C-80.0551306"
+    },
+    {
+      "name": "Holiday Inn Express & Suites",
+      "distance": "6.5 mi",
+      "url": "https://www.google.com/maps/search/Holiday+Inn+Express+and+Suites+near+40.374314399999996%2C-80.0551306",
+      "isFar": true
+    },
+    {
+      "name": "Comfort Inn & Suites",
+      "distance": "8.0 mi",
+      "url": "https://www.google.com/maps/search/Comfort+Inn+and+Suites+near+40.374314399999996%2C-80.0551306",
+      "isFar": true
+    },
+    {
+      "name": "Best Western",
+      "distance": "9.5 mi",
+      "url": "https://www.google.com/maps/search/Best+Western+near+40.374314399999996%2C-80.0551306",
+      "isFar": true
+    },
+    {
+      "name": "Courtyard by Marriott",
+      "distance": "11.0 mi",
+      "url": "https://www.google.com/maps/search/Courtyard+by+Marriott+near+40.374314399999996%2C-80.0551306",
+      "isFar": true
+    }
+  ],
   "gas": [
     {
       "name": "Sunoco",
