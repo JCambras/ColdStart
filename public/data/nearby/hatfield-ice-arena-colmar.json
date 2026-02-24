@@ -50,33 +50,29 @@
   ],
   "team_lunch": [
     {
+      "name": "The East End",
+      "distance": "1.5 mi",
+      "url": "https://www.google.com/maps/search/The+East+End+1903+Bethlehem+Pike+Hatfield+PA"
+    },
+    {
+      "name": "Giuseppe's Pizza & Family",
+      "distance": "2.0 mi",
+      "url": "https://www.google.com/maps/search/Giuseppes+Pizza+and+Family+101+Cowpath+Rd+Lansdale+PA"
+    },
+    {
       "name": "Applebee's Grill + Bar",
-      "distance": "5.0 mi",
-      "url": "https://www.google.com/maps/search/Applebees+Grill+++Bar+near+40.2798182%2C-75.2553708"
+      "distance": "2.5 mi",
+      "url": "https://www.google.com/maps/search/Applebees+2333+Welsh+Rd+Lansdale+PA"
     },
     {
-      "name": "Olive Garden",
-      "distance": "6.5 mi",
-      "url": "https://www.google.com/maps/search/Olive+Garden+near+40.2798182%2C-75.2553708",
-      "isFar": true
+      "name": "Miller's Ale House",
+      "distance": "2.5 mi",
+      "url": "https://www.google.com/maps/search/Millers+Ale+House+Montgomeryville+PA"
     },
     {
-      "name": "Chili's Grill & Bar",
-      "distance": "8.0 mi",
-      "url": "https://www.google.com/maps/search/Chilis+Grill+and+Bar+near+40.2798182%2C-75.2553708",
-      "isFar": true
-    },
-    {
-      "name": "TGI Friday's",
-      "distance": "9.5 mi",
-      "url": "https://www.google.com/maps/search/TGI+Fridays+near+40.2798182%2C-75.2553708",
-      "isFar": true
-    },
-    {
-      "name": "Red Robin",
-      "distance": "11.0 mi",
-      "url": "https://www.google.com/maps/search/Red+Robin+near+40.2798182%2C-75.2553708",
-      "isFar": true
+      "name": "Ooka Japanese Sushi & Hibachi",
+      "distance": "3.0 mi",
+      "url": "https://www.google.com/maps/search/Ooka+Japanese+Sushi+Hibachi+Montgomeryville+PA"
     }
   ],
   "dinner": [
