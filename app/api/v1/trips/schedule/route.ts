@@ -55,3 +55,31 @@ export async function POST(request: NextRequest) {
     return NextResponse.json({ error: 'Internal server error' }, { status: 500 });
   }
 }
+
+export async function DELETE(request: NextRequest) {
+  const limited = rateLimit(request, 10, 60_000);
+  if (limited) return limited;
+
+  const { session, error: authError } = await requireAuth();
+  if (authError) return authError;
+
+  try {
+    const body = await request.json();
+    const { trip_id } = body;
+
+    if (!trip_id) {
+      return NextResponse.json({ error: 'Missing trip_id' }, { status: 400 });
+    }
+
+    const userId = session!.user!.id;
+    await pool.query(
+      'DELETE FROM trip_schedules WHERE trip_id = $1 AND user_id = $2',
+      [trip_id, userId],
+    );
+
+    return NextResponse.json({ data: { deleted: true } });
+  } catch (err) {
+    console.error('Trip schedule delete failed:', err);
+    return NextResponse.json({ error: 'Internal server error' }, { status: 500 });
+  }
+}

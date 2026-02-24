@@ -4,7 +4,7 @@ import { useState, useEffect } from 'react';
 import { useParams, useRouter } from 'next/navigation';
 import { getVibe } from '../../../app/vibe';
 import { Logo } from '../../../components/Logo';
-import { apiGet } from '../../../lib/api';
+import { apiGet, apiDelete } from '../../../lib/api';
 import { storage } from '../../../lib/storage';
 import { useAuth } from '../../../contexts/AuthContext';
 import { getBarColor, getBarBg, getBarBorder, getVerdictColor } from '../../../lib/rinkHelpers';
@@ -81,6 +81,7 @@ export default function TripPage() {
   const [rateSubmitted, setRateSubmitted] = useState(false);
   const [isGlancer, setIsGlancer] = useState(false);
   const [showFullTrip, setShowFullTrip] = useState(false);
+  const [showDeleteConfirm, setShowDeleteConfirm] = useState(false);
   // Trip phase detection: arriving | at_rink | between_games | leaving | reflecting | upcoming
   const [tripPhase, setTripPhase] = useState<'upcoming' | 'arriving' | 'at_rink' | 'between_games' | 'leaving' | 'reflecting'>('upcoming');
 
@@ -224,6 +225,9 @@ export default function TripPage() {
               else { const fallbackCopy = (t: string) => { if (navigator.clipboard?.writeText) return navigator.clipboard.writeText(t); const ta = document.createElement('textarea'); ta.value = t; ta.style.position = 'fixed'; ta.style.opacity = '0'; document.body.appendChild(ta); ta.select(); document.execCommand('copy'); document.body.removeChild(ta); return Promise.resolve(); }; fallbackCopy(text).then(() => { setShareCopied(true); setTimeout(() => setShareCopied(false), 2000); }).catch(() => {}); }
             }} style={{ fontSize: 13, fontWeight: 600, color: colors.textInverse, background: 'rgba(255,255,255,0.15)', border: '1px solid rgba(255,255,255,0.25)', borderRadius: 8, padding: '8px 16px', cursor: 'pointer' }}>
               {shareCopied ? '✓ Copied!' : '📤 Share with team'}
+            </button>
+            <button onClick={() => router.push(`/trip/new?edit=${tripId}`)} style={{ fontSize: 13, fontWeight: 600, color: colors.textInverse, background: 'rgba(255,255,255,0.1)', border: '1px solid rgba(255,255,255,0.2)', borderRadius: 8, padding: '8px 16px', cursor: 'pointer' }}>
+              ✏️ Edit
             </button>
             <button onClick={() => router.push('/trips')} style={{ fontSize: 13, fontWeight: 600, color: colors.textInverse, background: 'rgba(255,255,255,0.1)', border: '1px solid rgba(255,255,255,0.2)', borderRadius: 8, padding: '8px 16px', cursor: 'pointer' }}>
               📁 My trips
@@ -678,6 +682,62 @@ export default function TripPage() {
             )}
           </section>
         )}
+
+        {/* ── Delete trip ── */}
+        <section style={{ marginTop: 24, textAlign: 'center' }}>
+          {!showDeleteConfirm ? (
+            <button
+              onClick={() => setShowDeleteConfirm(true)}
+              style={{
+                fontSize: 12, color: colors.error, background: 'none',
+                border: 'none', cursor: 'pointer', padding: '8px 16px',
+                opacity: 0.7,
+              }}
+            >
+              Delete this trip
+            </button>
+          ) : (
+            <div style={{
+              background: colors.bgError, border: `1px solid ${colors.error}`,
+              borderRadius: 12, padding: 16, textAlign: 'left',
+            }}>
+              <p style={{ fontSize: 13, fontWeight: 600, color: colors.error, margin: 0 }}>
+                Delete this trip?
+              </p>
+              <p style={{ fontSize: 12, color: colors.textTertiary, marginTop: 6, marginBottom: 0 }}>
+                Anyone with the shared link will see &ldquo;Trip not found&rdquo;.
+              </p>
+              <div style={{ display: 'flex', gap: 8, justifyContent: 'flex-end', marginTop: 12 }}>
+                <button
+                  onClick={() => setShowDeleteConfirm(false)}
+                  style={{
+                    fontSize: 13, color: colors.textTertiary, background: 'none',
+                    border: `1px solid ${colors.borderDefault}`, borderRadius: 8,
+                    padding: '6px 14px', cursor: 'pointer',
+                  }}
+                >
+                  Cancel
+                </button>
+                <button
+                  onClick={() => {
+                    const trips = storage.getTrips();
+                    delete trips[tripId];
+                    storage.setTrips(trips);
+                    apiDelete('/trips/schedule', { trip_id: tripId }).catch(() => {});
+                    router.push('/trips');
+                  }}
+                  style={{
+                    fontSize: 13, fontWeight: 600, color: colors.textInverse,
+                    background: colors.error, border: 'none', borderRadius: 8,
+                    padding: '6px 14px', cursor: 'pointer',
+                  }}
+                >
+                  Yes, delete
+                </button>
+              </div>
+            </div>
+          )}
+        </section>
 
         {/* End of conditional full trip content */}
         </>)}

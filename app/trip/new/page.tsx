@@ -3,9 +3,8 @@
 import { useState, useRef, useEffect, useCallback, Suspense } from 'react';
 import { useRouter, useSearchParams } from 'next/navigation';
 import { PageShell } from '../../../components/PageShell';
-import { apiGet, seedGet } from '../../../lib/api';
+import { apiGet, seedGet, apiPost, apiDelete } from '../../../lib/api';
 import { storage } from '../../../lib/storage';
-import { apiPost } from '../../../lib/api';
 import { getRinkSlug } from '../../../lib/rinkHelpers';
 import { useAuth } from '../../../contexts/AuthContext';
 import { colors, text } from '../../../lib/theme';
@@ -45,7 +44,11 @@ function TripBuilderInner() {
   const router = useRouter();
   const searchParams = useSearchParams();
   const preselectedRinkId = searchParams.get('rink') || '';
+  const editTripId = searchParams.get('edit') || '';
   const { currentUser } = useAuth();
+  const [isEditMode, setIsEditMode] = useState(false);
+  const [originalCreatedAt, setOriginalCreatedAt] = useState('');
+  const [originalAdditions, setOriginalAdditions] = useState<TripAddition[]>([]);
 
   const [teamName, setTeamName] = useState('');
   const [startDate, setStartDate] = useState('');
@@ -83,6 +86,47 @@ function TripBuilderInner() {
     setExpandedSections(prev => ({ ...prev, [key]: !prev[key] }));
   }
 
+  // ── Edit mode: load existing trip on mount ──
+  useEffect(() => {
+    if (!editTripId) return;
+    const trips = storage.getTrips();
+    // eslint-disable-next-line @typescript-eslint/no-explicit-any
+    const t = trips[editTripId] as any;
+    if (!t) return;
+    draftRestoredRef.current = true; // skip draft restore
+    setIsEditMode(true);
+    setOriginalCreatedAt(t.createdAt || '');
+    setOriginalAdditions(t.additions || []);
+    if (t.teamName) setTeamName(t.teamName);
+    if (t.startDate) setStartDate(t.startDate);
+    if (t.endDate) setEndDate(t.endDate);
+    if (!t.startDate && t.dates) {
+      const parts = t.dates.split(' – ');
+      if (parts[0]) setStartDate(parts[0]);
+      if (parts[1]) setEndDate(parts[1]);
+    }
+    if (t.rink) setSelectedRink(t.rink);
+    if (t.hotel) setHotel(typeof t.hotel === 'string' ? null : t.hotel);
+    if (t.hotelCost) setHotelCost(t.hotelCost);
+    if (t.lunch) setLunch(typeof t.lunch === 'string' ? null : t.lunch);
+    if (t.lunchCost) setLunchCost(t.lunchCost);
+    if (t.dinner) setDinner(typeof t.dinner === 'string' ? null : t.dinner);
+    if (t.dinnerCost) setDinnerCost(t.dinnerCost);
+    if (t.showCosts === false) setShowCosts(false);
+    if (t.games?.length) setGames(t.games);
+    if (t.notes) setNotes(t.notes);
+    if (t.familyCount) setFamilyCount(String(t.familyCount));
+    if (t.costItems?.length) setCostItems(t.costItems);
+    if (typeof t.collaborative === 'boolean') setCollaborative(t.collaborative);
+
+    const autoExpand: Record<string, boolean> = { games: false, lodging: false, costs: false, notes: false };
+    if (t.games?.some((g: Game) => g.opponent || g.time)) autoExpand.games = true;
+    if (t.hotel || t.hotelCost || t.lunch || t.lunchCost || t.dinner || t.dinnerCost) autoExpand.lodging = true;
+    if (t.costItems?.some((c: CostItem) => c.label || c.amount)) autoExpand.costs = true;
+    if (t.notes) autoExpand.notes = true;
+    setExpandedSections(autoExpand);
+  }, [editTripId]);
+
   // ── Draft restore on mount ──
   useEffect(() => {
     if (draftRestoredRef.current) return;
@@ -118,8 +162,9 @@ function TripBuilderInner() {
     }
   }, [preselectedRinkId]);
 
-  // ── Auto-save draft (debounced 500ms) ──
+  // ── Auto-save draft (debounced 500ms) — disabled in edit mode ──
   const saveDraft = useCallback(() => {
+    if (isEditMode) return;
     if (draftTimerRef.current) clearTimeout(draftTimerRef.current);
     draftTimerRef.current = setTimeout(() => {
       const draft = {
@@ -131,7 +176,7 @@ function TripBuilderInner() {
       setDraftStatus('saved');
       setTimeout(() => setDraftStatus('idle'), 1500);
     }, 500);
-  }, [teamName, startDate, endDate, selectedRink, hotel, hotelCost, lunch, lunchCost, dinner, dinnerCost, games, notes, familyCount, costItems, collaborative, showCosts]);
+  }, [isEditMode, teamName, startDate, endDate, selectedRink, hotel, hotelCost, lunch, lunchCost, dinner, dinnerCost, games, notes, familyCount, costItems, collaborative, showCosts]);
 
   useEffect(() => {
     if (!draftRestoredRef.current) return;
@@ -188,10 +233,11 @@ function TripBuilderInner() {
     setCostItems(costItems.filter(c => c.id !== id));
   }
 
-  function createTrip() {
+  function saveTrip() {
     if (!selectedRink || !teamName.trim()) return;
+    const tripId = isEditMode ? editTripId : 'trip_' + Math.random().toString(36).slice(2, 10);
     const trip = {
-      id: 'trip_' + Math.random().toString(36).slice(2, 10),
+      id: tripId,
       teamName: teamName.trim(),
       dates: [startDate, endDate].filter(Boolean).join(' – '),
       startDate,
@@ -205,16 +251,16 @@ function TripBuilderInner() {
       collaborative,
       familyCount: parseInt(familyCount) || 16,
       costItems: costItems.filter(c => c.label.trim() && c.amount.trim()),
-      additions: [] as TripAddition[],
-      createdAt: new Date().toISOString(),
+      additions: isEditMode ? originalAdditions : [] as TripAddition[],
+      createdAt: isEditMode ? originalCreatedAt : new Date().toISOString(),
     };
     const trips = storage.getTrips();
     trips[trip.id] = trip;
     storage.setTrips(trips);
-    storage.setTripDraft(null);
-    try { getVibe().log('trip_create', { tripId: trip.id, rinkId: selectedRink.id, fieldCount: Object.values(trip).filter(v => v && v !== '').length }); } catch {}
+    if (!isEditMode) storage.setTripDraft(null);
+    try { getVibe().log(isEditMode ? 'trip_edit' : 'trip_create', { tripId: trip.id, rinkId: selectedRink.id, fieldCount: Object.values(trip).filter(v => v && v !== '').length }); } catch {}
 
-    // Fire-and-forget: save game schedule for push notifications
+    // Fire-and-forget: sync game schedule for push notifications
     if (currentUser && storage.getPushSubscribed()) {
       const gamesWithTime = trip.games.filter(g => g.day && g.time);
       if (gamesWithTime.length > 0) {
@@ -228,6 +274,9 @@ function TripBuilderInner() {
             game_time: new Date(`${g.day}T${g.time}`).toISOString(),
           })),
         }).catch(() => {});
+      } else if (isEditMode) {
+        // All games removed during edit — clean up server schedule
+        apiDelete('/trips/schedule', { trip_id: trip.id }).catch(() => {});
       }
     }
 
@@ -245,13 +294,13 @@ function TripBuilderInner() {
   return (
     <PageShell
       back
-      navRight={draftStatus === 'saved' ? (
+      navRight={!isEditMode && draftStatus === 'saved' ? (
         <span style={{ fontSize: 11, color: colors.success, fontWeight: 500 }}>Draft saved</span>
       ) : undefined}
     >
       <div style={{ maxWidth: 560, margin: '0 auto', padding: '32px 24px 60px' }}>
-        <h1 style={{ fontSize: 24, fontWeight: 700, color: colors.textPrimary, margin: 0 }}>📋 Plan a trip</h1>
-        <p style={{ fontSize: 14, color: colors.textTertiary, marginTop: 8 }}>Create a game day page to share with your team.</p>
+        <h1 style={{ fontSize: 24, fontWeight: 700, color: colors.textPrimary, margin: 0 }}>{isEditMode ? '✏️ Edit trip' : '📋 Plan a trip'}</h1>
+        <p style={{ fontSize: 14, color: colors.textTertiary, marginTop: 8 }}>{isEditMode ? 'Update your game day page.' : 'Create a game day page to share with your team.'}</p>
 
         <div style={{ display: 'flex', flexDirection: 'column', gap: 16, marginTop: 24 }}>
           {/* ── Always visible: Team name, Dates, Rink ── */}
@@ -571,8 +620,8 @@ function TripBuilderInner() {
           )}
 
           {/* Submit */}
-          <button onClick={createTrip} disabled={!selectedRink || !teamName.trim()} style={{ width: '100%', padding: '16px 0', fontSize: 16, fontWeight: 700, background: (selectedRink && teamName.trim()) ? colors.brand : colors.borderDefault, color: (selectedRink && teamName.trim()) ? colors.textInverse : colors.textMuted, border: 'none', borderRadius: 12, cursor: (selectedRink && teamName.trim()) ? 'pointer' : 'default', marginTop: 12, transition: 'all 0.2s', boxShadow: (selectedRink && teamName.trim()) ? '0 4px 14px rgba(14,165,233,0.3)' : 'none' }}>
-            {selectedRink ? `Create ${selectedRink.name} trip page →` : 'Create trip page →'}
+          <button onClick={saveTrip} disabled={!selectedRink || !teamName.trim()} style={{ width: '100%', padding: '16px 0', fontSize: 16, fontWeight: 700, background: (selectedRink && teamName.trim()) ? colors.brand : colors.borderDefault, color: (selectedRink && teamName.trim()) ? colors.textInverse : colors.textMuted, border: 'none', borderRadius: 12, cursor: (selectedRink && teamName.trim()) ? 'pointer' : 'default', marginTop: 12, transition: 'all 0.2s', boxShadow: (selectedRink && teamName.trim()) ? '0 4px 14px rgba(14,165,233,0.3)' : 'none' }}>
+            {isEditMode ? 'Save changes →' : selectedRink ? `Create ${selectedRink.name} trip page →` : 'Create trip page →'}
           </button>
         </div>
       </div>

@@ -59,3 +59,21 @@ export async function apiPost<T>(
     return { data: null, error: e instanceof Error ? e.message : 'Request failed' };
   }
 }
+
+export async function apiDelete<T>(
+  endpoint: string,
+  body: Record<string, unknown>
+): Promise<ApiResult<T>> {
+  try {
+    const res = await fetch(`${API_URL}${endpoint}`, {
+      method: 'DELETE',
+      headers: { 'Content-Type': 'application/json' },
+      body: JSON.stringify(body),
+    });
+    const json = await res.json();
+    if (!res.ok) throw new Error(typeof json.error === 'string' ? json.error : json.error?.message || 'Request failed');
+    return { data: (json.data ?? json) as T, error: null };
+  } catch (e) {
+    return { data: null, error: e instanceof Error ? e.message : 'Request failed' };
+  }
+}
