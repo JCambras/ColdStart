@@ -21,11 +21,6 @@
       "url": "https://www.google.com/maps/search/?api=1&query=Burger%20King&query_place_id=ChIJvShm9p466IkRliu1n3jIA7E&center=40.847890199999995,-73.245576"
     },
     {
-      "name": "Subway",
-      "distance": "2.0 mi",
-      "url": "https://www.google.com/maps/search/?api=1&query=Subway&query_place_id=ChIJJxlqH6076IkRie3LEOtyS5o&center=40.8818135,-73.2202697"
-    },
-    {
       "name": "Chiddy's Cheesesteaks of Commack",
       "distance": "2.5 mi",
       "url": "https://www.google.com/maps/search/?api=1&query=Chiddy's%20Cheesesteaks%20of%20Commack&query_place_id=ChIJRS2hMDEv6IkRnQg_4AWrrtM&center=40.8435574,-73.28717189999999"
@@ -43,7 +38,7 @@
       "url": "https://www.google.com/maps/search/?api=1&query=Dunkin'&query_place_id=ChIJRcsh5dg66IkRt722bC2ZhOM&center=40.8847704,-73.2609414"
     },
     {
-      "name": "MAYFAIR BAGEL CAFE",
+      "name": "Mayfair Bagel Cafe",
       "distance": "2.1 mi",
       "url": "https://www.google.com/maps/search/?api=1&query=MAYFAIR%20BAGEL%20CAFE&query_place_id=ChIJS1j0dFkx6IkRrXn9SdA8vgU&center=40.8446329,-73.2705873"
     },
@@ -65,7 +60,7 @@
       "url": "https://www.google.com/maps/search/?api=1&query=China%20Gourmet&query_place_id=ChIJzQD7GN466IkRg1eHBC3FDOA&center=40.881445,-73.2550567"
     },
     {
-      "name": "kings men house of burgers",
+      "name": "Kings Men House of Burgers",
       "distance": "0.8 mi",
       "url": "https://www.google.com/maps/search/?api=1&query=kings%20men%20house%20of%20burgers&query_place_id=ChIJUQvyKTA76IkRo-1Rn-GsBh0&center=40.883331399999996,-73.25428459999999"
     },
@@ -83,11 +78,6 @@
       "name": "Just the Chips Please",
       "distance": "2.0 mi",
       "url": "https://www.google.com/maps/search/?api=1&query=Just%20the%20Chips%20Please&query_place_id=ChIJhSiQI88l6IkRAn1Ed6YgV_A&center=40.892958199999995,-73.28524329999999"
-    },
-    {
-      "name": "Sweet Treats by Ashley",
-      "distance": "2.7 mi",
-      "url": "https://www.google.com/maps/search/?api=1&query=Sweet%20Treats%20by%20Ashley&query_place_id=ChIJ4d_V1o4v6IkRT8wSPstapr0&center=40.851247,-73.29955629999999"
     }
   ],
   "dinner": [
@@ -112,7 +102,7 @@
       "url": "https://www.google.com/maps/search/?api=1&query=Legends%20Bar%20%26%20Grill&query_place_id=ChIJd8bszN866IkRIbukbe0sI50&center=40.8832909,-73.25395639999999"
     },
     {
-      "name": "shortstop pizza",
+      "name": "Shortstop Pizza",
       "distance": "0.8 mi",
       "url": "https://www.google.com/maps/search/?api=1&query=shortstop%20pizza&query_place_id=ChIJX0UeB6076IkRccA9G9IaJBg&center=40.8833908,-73.2541628"
     },
@@ -171,19 +161,9 @@
   ],
   "hotels": [
     {
-      "name": "Private Cabin in Multi Acre Park!",
-      "distance": "0.9 mi",
-      "url": "https://www.google.com/maps/search/?api=1&query=Private%20Cabin%20in%20Multi%20Acre%20Park!&query_place_id=ChIJt1jnZ7o66IkRIDNj0xZ3J1k&center=40.8605881,-73.263359"
-    },
-    {
       "name": "Short term stay for professionals",
       "distance": "1.4 mi",
       "url": "https://www.google.com/maps/search/?api=1&query=Short%20term%20stay%20for%20professionals&query_place_id=ChIJo_X46fc66IkRhcXODu_PdEw&center=40.871109,-73.2304535"
-    },
-    {
-      "name": "Short term stay for professionals",
-      "distance": "1.4 mi",
-      "url": "https://www.google.com/maps/search/?api=1&query=Short%20term%20stay%20for%20professionals&query_place_id=ChIJD8n46fc66IkRDDHf7U50AhU&center=40.8711014,-73.2304535"
     }
   ],
   "gas": [

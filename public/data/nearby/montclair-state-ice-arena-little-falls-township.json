@@ -60,11 +60,6 @@
   ],
   "team_lunch": [
     {
-      "name": "Farmer's Fridge",
-      "distance": "0.1 mi",
-      "url": "https://www.google.com/maps/search/?api=1&query=Farmer's%20Fridge&query_place_id=ChIJoUdlLQ__wokRtLUiwv4tJCg&center=40.865328600000005,-74.1958219"
-    },
-    {
       "name": "Sam's Place",
       "distance": "0.2 mi",
       "url": "https://www.google.com/maps/search/?api=1&query=Sam's%20Place&query_place_id=ChIJM9gfgDX-wokRIpZC1qIrANc&center=40.8665586,-74.1949657"
@@ -80,22 +75,12 @@
       "url": "https://www.google.com/maps/search/?api=1&query=Chick-N-Bap%20(Montclair%20State%20University)&query_place_id=ChIJeXaSBCr_wokRzICsm0GG8_4&center=40.8640405,-74.1955237"
     },
     {
-      "name": "Farmer's Fridge",
-      "distance": "0.2 mi",
-      "url": "https://www.google.com/maps/search/?api=1&query=Farmer's%20Fridge&query_place_id=ChIJtYJreiD_wokRPCxagKiiDAw&center=40.8666637,-74.1942452"
-    },
-    {
       "name": "The Student Center Cafe",
       "distance": "0.2 mi",
       "url": "https://www.google.com/maps/search/?api=1&query=The%20Student%20Center%20Cafe&query_place_id=ChIJs3cB4sr_wokRr1ziMrMWhUw&center=40.8626581,-74.1969512"
     }
   ],
   "dinner": [
-    {
-      "name": "Farmer's Fridge",
-      "distance": "0.2 mi",
-      "url": "https://www.google.com/maps/search/?api=1&query=Farmer's%20Fridge&query_place_id=ChIJnb5RfZX_wokRazqKdNGYIIk&center=40.862449999999995,-74.19803"
-    },
     {
       "name": "Dante's Restaurant",
       "distance": "0.4 mi",
@@ -172,13 +157,7 @@
       "url": "https://www.google.com/maps/search/?api=1&query=Brighton%20Asylum%20Escape%20Room&query_place_id=ChIJG1iw19H_wokRqjovttF9yIM&center=40.8587357,-74.14322469999999"
     }
   ],
-  "hotels": [
-    {
-      "name": "private bath laundry free Wi-Fi 10 miles west of Midtown Manhattan direct bus",
-      "distance": "0.8 mi",
-      "url": "https://www.google.com/maps/search/?api=1&query=private%20bath%20laundry%20free%20Wi-Fi%2010%20miles%20west%20of%20Midtown%20Manhattan%20direct%20bus&query_place_id=ChIJIz67Yjn-wokRkIhjJTxFO8w&center=40.8777237,-74.2002716"
-    }
-  ],
+  "hotels": [],
   "gas": [
     {
       "name": "Delta",

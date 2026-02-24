@@ -11,24 +11,9 @@
       "url": "https://www.google.com/maps/search/?api=1&query=Jimmy%20John's&query_place_id=ChIJh1PAqC7IUE0RZHPYggk_7sg&center=47.1216551,-88.5636073"
     },
     {
-      "name": "Subway",
-      "distance": "1.1 mi",
-      "url": "https://www.google.com/maps/search/?api=1&query=Subway&query_place_id=ChIJPWRqDizIUE0RrcSGHuBIjno&center=47.1220042,-88.56542499999999"
-    },
-    {
-      "name": "Subway",
-      "distance": "1.9 mi",
-      "url": "https://www.google.com/maps/search/?api=1&query=Subway&query_place_id=ChIJGzlxvcbJUE0R5poT8eRying&center=47.112291400000004,-88.58526909999999"
-    },
-    {
       "name": "Taco Bell",
       "distance": "1.9 mi",
       "url": "https://www.google.com/maps/search/?api=1&query=Taco%20Bell&query_place_id=ChIJ0f0pzcDJUE0R77o-8MTXXHU&center=47.112375899999996,-88.5870364"
-    },
-    {
-      "name": "Subway",
-      "distance": "2.0 mi",
-      "url": "https://www.google.com/maps/search/?api=1&query=Subway&query_place_id=ChIJUZp84sPJUE0R5vC3xVwOl6g&center=47.1064499,-88.58833310000001"
     }
   ],
   "coffee": [
@@ -43,17 +28,12 @@
       "url": "https://www.google.com/maps/search/?api=1&query=Campus%20Cafe&query_place_id=ChIJnR2GrBDIUE0RVd4NZPpaaAg&center=47.1169022,-88.544016"
     },
     {
-      "name": "Velodrome Coffee Company",
-      "distance": "0.4 mi",
-      "url": "https://www.google.com/maps/search/?api=1&query=Velodrome%20Coffee%20Company&query_place_id=ChIJBS283pbJUE0R-tkq18DM5P0&center=47.1186864,-88.5477377"
-    },
-    {
       "name": "Fusion Café",
       "distance": "0.5 mi",
       "url": "https://www.google.com/maps/search/?api=1&query=Fusion%20Caf%C3%A9&query_place_id=ChIJscrrVBjIUE0RzM8CRbaYMO4&center=47.119496999999996,-88.54661759999999"
     },
     {
-      "name": "BIGGBY COFFEE",
+      "name": "Biggby Coffee",
       "distance": "1.1 mi",
       "url": "https://www.google.com/maps/search/?api=1&query=BIGGBY%20COFFEE&query_place_id=ChIJYcbquS7IUE0R8B1jtj14_l4&center=47.1216796,-88.5635922"
     }
@@ -134,16 +114,6 @@
       "name": "Northern Bungalow with Fireplace",
       "distance": "0.8 mi",
       "url": "https://www.google.com/maps/search/Northern%20Bungalow%20with%20Fireplace+near+47.1123143%2C-88.5458761"
-    },
-    {
-      "name": "Trailside Cabin 3, across the Lake from MTU, next to boat snowmobile rentals",
-      "distance": "0.8 mi",
-      "url": "https://www.google.com/maps/search/Trailside%20Cabin%203%2C%20across%20the%20Lake%20from%20MTU%2C%20next%20to%20boat%20snowmobile%20rentals+near+47.1123143%2C-88.5458761"
-    },
-    {
-      "name": "Trailside Cabin 4, across the Lake from MTU, next to boat snowmobile rentals",
-      "distance": "0.8 mi",
-      "url": "https://www.google.com/maps/search/Trailside%20Cabin%204%2C%20across%20the%20Lake%20from%20MTU%2C%20next%20to%20boat%20snowmobile%20rentals+near+47.1123143%2C-88.5458761"
     }
   ],
   "gas": [

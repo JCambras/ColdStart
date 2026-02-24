@@ -60,11 +60,6 @@
       "url": "https://www.google.com/maps/search/?api=1&query=Ra%20Sushi&query_place_id=ChIJA7eO1b33NIgR64d5g8pC-ww&center=40.3921735,-80.0702415"
     },
     {
-      "name": "Giant Eagle Bakery",
-      "distance": "0.4 mi",
-      "url": "https://www.google.com/maps/search/?api=1&query=Giant%20Eagle%20Bakery&query_place_id=ChIJbZLU4Lz3NIgRgUsDqI3fy9s&center=40.3926732,-80.0654539"
-    },
-    {
       "name": "Wings Over Greentree",
       "distance": "0.4 mi",
       "url": "https://www.google.com/maps/search/?api=1&query=Wings%20Over%20Greentree&query_place_id=ChIJBWK7LbP3NIgRcAex3Q0a-BY&center=40.3945951,-80.0670323"
@@ -164,18 +159,7 @@
       "url": "https://www.google.com/maps/search/?api=1&query=Dark%20Forge%20Studios&query_place_id=ChIJ78qWQNn2NIgRdzufwpkBwFc&center=40.4099131,-80.02438959999999"
     }
   ],
-  "hotels": [
-    {
-      "name": "The Glendale Chapel | Central | Free Parking",
-      "distance": "0.9 mi",
-      "url": "https://www.google.com/maps/search/?api=1&query=The%20Glendale%20Chapel%20%7C%20Central%20%7C%20Free%20Parking&query_place_id=ChIJpTKCr8T3NIgRcy6AU_qLtcw&center=40.3967743,-80.0863419"
-    },
-    {
-      "name": "The Glendale Chapel by Luxe PGH",
-      "distance": "0.9 mi",
-      "url": "https://www.google.com/maps/search/?api=1&query=The%20Glendale%20Chapel%20by%20Luxe%20PGH&query_place_id=ChIJ4y1AusT3NIgRNnvQsu4Tv4c&center=40.3971405,-80.0862274"
-    }
-  ],
+  "hotels": [],
   "gas": [
     {
       "name": "Petrosoft",

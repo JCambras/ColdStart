@@ -97,11 +97,6 @@
       "url": "https://www.google.com/maps/search/?api=1&query=Killa's%20Kitchen&query_place_id=ChIJ6RLAToS11okRXr0yZJK8BY8&center=43.1348591,-77.6286935"
     },
     {
-      "name": "Sultan Cuisine and Bakery Restaurant",
-      "distance": "0.8 mi",
-      "url": "https://www.google.com/maps/search/?api=1&query=Sultan%20Cuisine%20and%20Bakery%20Restaurant&query_place_id=ChIJFagkNc201okRctsa_CqY7KI&center=43.117984,-77.62169089999999"
-    },
-    {
       "name": "Abyssinia Restaurant",
       "distance": "0.8 mi",
       "url": "https://www.google.com/maps/search/?api=1&query=Abyssinia%20Restaurant&query_place_id=ChIJHXARNc201okRkNopOWatwWc&center=43.117903899999995,-77.6216889"
@@ -169,12 +164,7 @@
   ],
   "hotels": [
     {
-      "name": "Queen Studio with a River View | Just a Stroll from the University of Rochester",
-      "distance": "0.4 mi",
-      "url": "https://www.google.com/maps/search/?api=1&query=Queen%20Studio%20with%20a%20River%20View%20%7C%20Just%20a%20Stroll%20from%20the%20University%20of%20Rochester&query_place_id=ChIJ-0F16rm01okRAUkoYNyiWDo&center=43.1299286,-77.6353989"
-    },
-    {
-      "name": "Staybridge Suites Rochester University by IHG",
+      "name": "Staybridge Suites Rochester University",
       "distance": "0.4 mi",
       "url": "https://www.google.com/maps/search/?api=1&query=Staybridge%20Suites%20Rochester%20University%20by%20IHG&query_place_id=ChIJd9XGirm01okRzm2xLjyb8nI&center=43.130367899999996,-77.63560199999999"
     }

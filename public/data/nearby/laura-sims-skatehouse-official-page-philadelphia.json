@@ -60,11 +60,6 @@
       "url": "https://www.google.com/maps/search/?api=1&query=New%20Broadway%20Four&query_place_id=ChIJB0qlStLGxokRpOjkod8OHE4&center=39.962080799999995,-75.2435569"
     },
     {
-      "name": "Farmer's Fridge",
-      "distance": "0.3 mi",
-      "url": "https://www.google.com/maps/search/?api=1&query=Farmer's%20Fridge&query_place_id=ChIJiQE4OtXBxokRRQ_ZAQw2DCw&center=39.964006,-75.2495653"
-    },
-    {
       "name": "Pete's Pizza",
       "distance": "0.4 mi",
       "url": "https://www.google.com/maps/search/?api=1&query=Pete's%20Pizza&query_place_id=ChIJF-npGs7GxokRvo_Z8H-58DA&center=39.9587848,-75.2413261"
@@ -90,11 +85,6 @@
       "name": "El Sazón de Doña Eva",
       "distance": "0.4 mi",
       "url": "https://www.google.com/maps/search/?api=1&query=El%20Saz%C3%B3n%20de%20Do%C3%B1a%20Eva&query_place_id=ChIJKSxadC7BxokRy71-6nXOARU&center=39.962284499999996,-75.25406939999999"
-    },
-    {
-      "name": "Zenful Treats By Kings’s Kaf’e",
-      "distance": "0.4 mi",
-      "url": "https://www.google.com/maps/search/?api=1&query=Zenful%20Treats%20By%20Kings%E2%80%99s%20Kaf%E2%80%99e&query_place_id=ChIJndxFctrHxokR64ArBPMZXAQ&center=39.9606083,-75.2412746"
     },
     {
       "name": "Studio7 Restaurant & Lounge",
@@ -134,7 +124,7 @@
       "url": "https://www.google.com/maps/search/?api=1&query=Karaoke%20at%20the%20movies&query_place_id=ChIJUS3hEsfBxokR87UNVaFkzOI&center=39.9601618,-75.25830549999999"
     },
     {
-      "name": "REEL CINEMAS NARBERTH STADIUM 2",
+      "name": "Reel Cinemas Narberth Stadium 2",
       "distance": "3.3 mi",
       "url": "https://www.google.com/maps/search/?api=1&query=REEL%20CINEMAS%20NARBERTH%20STADIUM%202&query_place_id=ChIJHaM05aXAxokRp-Zgn38Z-j0&center=40.00646760000001,-75.2602806",
       "isFar": true
@@ -158,13 +148,7 @@
       "url": "https://www.google.com/maps/search/?api=1&query=West%20Philadelphia%20on%20the%20Move&query_place_id=ChIJW_rPDADHxokRODte4g-3sX4&center=39.9608995,-75.24288469999999"
     }
   ],
-  "hotels": [
-    {
-      "name": "6224 Pine Street - Double Room with Private Bathroom",
-      "distance": "0.2 mi",
-      "url": "https://www.google.com/maps/search/?api=1&query=6224%20Pine%20Street%20-%20Double%20Room%20with%20Private%20Bathroom&query_place_id=ChIJ40b6u8zGxokRhk1iW8JASBw&center=39.9558983,-75.2468415"
-    }
-  ],
+  "hotels": [],
   "gas": [
     {
       "name": "Gas Go",

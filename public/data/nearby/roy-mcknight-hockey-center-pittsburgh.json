@@ -21,11 +21,6 @@
       "url": "https://www.google.com/maps/search/?api=1&query=Subway&query_place_id=ChIJCevGU0yTNIgRgLZEShIIOdQ&center=40.5141935,-79.84372789999999"
     },
     {
-      "name": "Subway",
-      "distance": "2.5 mi",
-      "url": "https://www.google.com/maps/search/?api=1&query=Subway&query_place_id=ChIJ836TLjaTNIgRGOfP_5Qt6yw&center=40.488271499999996,-79.8855605"
-    },
-    {
       "name": "Five Guys",
       "distance": "2.5 mi",
       "url": "https://www.google.com/maps/search/?api=1&query=Five%20Guys&query_place_id=ChIJhQxuGDaTNIgRooR0K7xcCc4&center=40.4880804,-79.88554959999999"
@@ -65,11 +60,6 @@
       "url": "https://www.google.com/maps/search/?api=1&query=AJ's%20Pizza&query_place_id=ChIJf_-PcX6TNIgRZq5hCHT8Jq8&center=40.545768200000005,-79.9020497"
     },
     {
-      "name": "Farmer's Fridge",
-      "distance": "2.0 mi",
-      "url": "https://www.google.com/maps/search/?api=1&query=Farmer's%20Fridge&query_place_id=ChIJdWI1rsjtNIgRkbphnmqKxfk&center=40.494918,-79.888001"
-    },
-    {
       "name": "Gordo’s Cafe & Cantina",
       "distance": "2.0 mi",
       "url": "https://www.google.com/maps/search/?api=1&query=Gordo%E2%80%99s%20Cafe%20%26%20Cantina&query_place_id=ChIJvzldj8ftNIgRzJDvgTOYtdk&center=40.5000656,-79.86477699999999"
@@ -78,11 +68,6 @@
       "name": "Rail House Restaurant",
       "distance": "2.4 mi",
       "url": "https://www.google.com/maps/search/?api=1&query=Rail%20House%20Restaurant&query_place_id=ChIJFekaGGmTNIgRP_lCAQvukqM&center=40.5349673,-79.84451519999999"
-    },
-    {
-      "name": "Market District Bakery",
-      "distance": "2.5 mi",
-      "url": "https://www.google.com/maps/search/?api=1&query=Market%20District%20Bakery&query_place_id=ChIJDz6eBhPtNIgRewMDUtfsUoo&center=40.4883804,-79.8939692"
     },
     {
       "name": "Strawberry’s Custom Cake Designs",
@@ -115,11 +100,6 @@
       "name": "Hoffstot's Cafe Monaco",
       "distance": "2.3 mi",
       "url": "https://www.google.com/maps/search/?api=1&query=Hoffstot's%20Cafe%20Monaco&query_place_id=ChIJzb5zMHmTNIgR-v_64c1dIhE&center=40.5186528,-79.8433871"
-    },
-    {
-      "name": "Oakmont Bakery",
-      "distance": "2.4 mi",
-      "url": "https://www.google.com/maps/search/?api=1&query=Oakmont%20Bakery&query_place_id=ChIJex8BUU6TNIgRDHb0Ce5PXfQ&center=40.5256507,-79.8422951"
     }
   ],
   "bowling": [
@@ -160,13 +140,7 @@
       "isFar": true
     }
   ],
-  "hotels": [
-    {
-      "name": "Private home for US Open",
-      "distance": "0.9 mi",
-      "url": "https://www.google.com/maps/search/?api=1&query=Private%20home%20for%20US%20Open&query_place_id=ChIJISzfPSaTNIgRlswbqaJv-6s&center=40.5246086,-79.8703918"
-    }
-  ],
+  "hotels": [],
   "gas": [
     {
       "name": "Sunoco",

@@ -24,11 +24,6 @@
       "name": "Burger King",
       "distance": "0.6 mi",
       "url": "https://www.google.com/maps/search/?api=1&query=Burger%20King&query_place_id=ChIJcc9JIanBxokRACdZGSdwZEU&center=39.9696916,-75.2984939"
-    },
-    {
-      "name": "Wawa",
-      "distance": "0.9 mi",
-      "url": "https://www.google.com/maps/search/?api=1&query=Wawa&query_place_id=ChIJL6N6gkXAxokRF9_TPh_BEbs&center=39.988614999999996,-75.309089"
     }
   ],
   "coffee": [
@@ -65,11 +60,6 @@
       "url": "https://www.google.com/maps/search/?api=1&query=Hearth%20Fresh&query_place_id=ChIJ95-4vq_BxokRc-YcnuaBoUA&center=39.9689932,-75.3044974"
     },
     {
-      "name": "Philadelphia bakery",
-      "distance": "0.6 mi",
-      "url": "https://www.google.com/maps/search/?api=1&query=Philadelphia%20bakery&query_place_id=ChIJGfsTNQDBxokRJxxbfcQQKps&center=39.976354199999996,-75.31493019999999"
-    },
-    {
       "name": "Wolf's Superior Sandwiches Havertown",
       "distance": "0.9 mi",
       "url": "https://www.google.com/maps/search/?api=1&query=Wolf's%20Superior%20Sandwiches%20Havertown&query_place_id=ChIJzWwYzE7BxokRjIZByqOjjc8&center=39.972228,-75.3196432"
@@ -90,11 +80,6 @@
       "name": "Señorita's Mexican Taqueria",
       "distance": "0.1 mi",
       "url": "https://www.google.com/maps/search/?api=1&query=Se%C3%B1orita's%20Mexican%20Taqueria&query_place_id=ChIJD0ZVgGDBxokRnemuZea_Ur8&center=39.976045,-75.3026106"
-    },
-    {
-      "name": "Sweet Messina's Bakery",
-      "distance": "0.1 mi",
-      "url": "https://www.google.com/maps/search/?api=1&query=Sweet%20Messina's%20Bakery&query_place_id=ChIJU1qhJQDBxokRe1petQf_Fv4&center=39.978350999999996,-75.3037928"
     },
     {
       "name": "Ombra Restaurant",
@@ -138,7 +123,7 @@
       "url": "https://www.google.com/maps/search/?api=1&query=Karaoke%20at%20the%20movies&query_place_id=ChIJUS3hEsfBxokR87UNVaFkzOI&center=39.9601618,-75.25830549999999"
     },
     {
-      "name": "REEL CINEMAS NARBERTH STADIUM 2",
+      "name": "Reel Cinemas Narberth Stadium 2",
       "distance": "3.1 mi",
       "url": "https://www.google.com/maps/search/?api=1&query=REEL%20CINEMAS%20NARBERTH%20STADIUM%202&query_place_id=ChIJHaM05aXAxokRp-Zgn38Z-j0&center=40.00646760000001,-75.2602806",
       "isFar": true

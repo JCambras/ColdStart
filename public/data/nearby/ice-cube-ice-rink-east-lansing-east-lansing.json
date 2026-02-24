@@ -21,11 +21,6 @@
       "url": "https://www.google.com/maps/search/?api=1&query=Subway&query_place_id=ChIJKQtJ8CfoIogRmTPt5AH00-g&center=42.7309464,-84.4689935"
     },
     {
-      "name": "Jimmy John's",
-      "distance": "1.4 mi",
-      "url": "https://www.google.com/maps/search/?api=1&query=Jimmy%20John's&query_place_id=ChIJ-fuyLSroIogRvFRchkz62Eo&center=42.7334239,-84.4752494"
-    },
-    {
       "name": "Five Guys",
       "distance": "1.4 mi",
       "url": "https://www.google.com/maps/search/?api=1&query=Five%20Guys&query_place_id=ChIJyzCZMiroIogRkuMavnKsA0w&center=42.7331996,-84.47560879999999"
@@ -73,16 +68,6 @@
       "name": "The Burger Den",
       "distance": "0.4 mi",
       "url": "https://www.google.com/maps/search/?api=1&query=The%20Burger%20Den&query_place_id=ChIJ0b6JI13DIogRZiLBi4XM5ng&center=42.72545280000001,-84.4502167"
-    },
-    {
-      "name": "Whole Foods Bakery",
-      "distance": "0.6 mi",
-      "url": "https://www.google.com/maps/search/?api=1&query=Whole%20Foods%20Bakery&query_place_id=ChIJ-VXbXQDDIogReCUVHYYi9nw&center=42.7283221,-84.4530238"
-    },
-    {
-      "name": "Meijer Bakery",
-      "distance": "1.5 mi",
-      "url": "https://www.google.com/maps/search/?api=1&query=Meijer%20Bakery&query_place_id=ChIJsT7XH0HdIogRDEUN3Bqqm3Y&center=42.71906010000001,-84.424675"
     }
   ],
   "dinner": [
@@ -217,7 +202,7 @@
       "url": "https://www.google.com/maps/search/Admiral%20Petroleum%20Co+near+42.7200965%2C-84.45439909999999"
     },
     {
-      "name": "MSU FUEL",
+      "name": "Msu Fuel",
       "distance": "1.4 mi",
       "url": "https://www.google.com/maps/search/MSU%20FUEL+near+42.7200965%2C-84.45439909999999"
     }

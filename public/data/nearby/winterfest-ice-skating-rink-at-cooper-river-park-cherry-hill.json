@@ -16,11 +16,6 @@
       "url": "https://www.google.com/maps/search/?api=1&query=Chick-fil-A&query_place_id=ChIJfxG7wEjLxokRygp628qX5tc&center=39.9244793,-75.0450899"
     },
     {
-      "name": "Dunkin'",
-      "distance": "0.8 mi",
-      "url": "https://www.google.com/maps/search/?api=1&query=Dunkin'&query_place_id=ChIJeSPsvGPJxokR3oj0uGtEROw&center=39.9329967,-75.06547549999999"
-    },
-    {
       "name": "Wawa",
       "distance": "0.8 mi",
       "url": "https://www.google.com/maps/search/?api=1&query=Wawa&query_place_id=ChIJG-Yk8_zLxokRkwzVrJrHj4s&center=39.913055,-75.0564"
@@ -41,11 +36,6 @@
       "name": "Niki’s Kitchen",
       "distance": "0.8 mi",
       "url": "https://www.google.com/maps/search/?api=1&query=Niki%E2%80%99s%20Kitchen&query_place_id=ChIJm7E95LfLxokRA8TuiZvMsEQ&center=39.9348752,-75.048794"
-    },
-    {
-      "name": "Dunkin'",
-      "distance": "0.8 mi",
-      "url": "https://www.google.com/maps/search/?api=1&query=Dunkin'&query_place_id=ChIJeSPsvGPJxokR3oj0uGtEROw&center=39.9329967,-75.06547549999999"
     },
     {
       "name": "Spread Bagelry",
@@ -153,11 +143,6 @@
   ],
   "hotels": [
     {
-      "name": "Scenic Hotels Group.",
-      "distance": "0.1 mi",
-      "url": "https://www.google.com/maps/search/?api=1&query=Scenic%20Hotels%20Group.&query_place_id=ChIJr6byvt3LxokR2h2RqwT2Q8E&center=39.92618720000001,-75.053544"
-    },
-    {
       "name": "DoubleTree by Hilton Cherry Hill Philadelphia",
       "distance": "0.1 mi",
       "url": "https://www.google.com/maps/search/?api=1&query=DoubleTree%20by%20Hilton%20Cherry%20Hill%20Philadelphia&query_place_id=ChIJW_rgl8LLxokRsnMFNYSDcm8&center=39.9263297,-75.0537323"
@@ -173,7 +158,7 @@
       "url": "https://www.google.com/maps/search/?api=1&query=Days%20Inn%20%26%20Suites%20by%20Wyndham%20Cherry%20Hill%20-%20Philadelphia&query_place_id=ChIJzbglq97LxokRUCv5F0hOur8&center=39.935199499999996,-75.0507106"
     },
     {
-      "name": "Holiday Inn Philadelphia-Cherry Hill by IHG",
+      "name": "Holiday Inn Philadelphia-Cherry Hill",
       "distance": "0.7 mi",
       "url": "https://www.google.com/maps/search/?api=1&query=Holiday%20Inn%20Philadelphia-Cherry%20Hill%20by%20IHG&query_place_id=ChIJ-9bh_OnLxokR8ZW-Wvw49As&center=39.9217067,-75.04126"
     }

@@ -6,11 +6,6 @@
       "url": "https://www.google.com/maps/search/?api=1&query=Tim%20Hortons&query_place_id=ChIJ-8E86jES04kRBq2ZOz0Wuyc&center=42.877063799999995,-78.8768765"
     },
     {
-      "name": "Tim Hortons",
-      "distance": "0.2 mi",
-      "url": "https://www.google.com/maps/search/?api=1&query=Tim%20Hortons&query_place_id=ChIJjwzHwzES04kRJcaV39vM8eo&center=42.875001,-78.8765413"
-    },
-    {
       "name": "Subway",
       "distance": "0.9 mi",
       "url": "https://www.google.com/maps/search/?api=1&query=Subway&query_place_id=ChIJ_xj-g04S04kRh0D5s8siduE&center=42.890769299999995,-78.8776099"
@@ -21,7 +16,7 @@
       "url": "https://www.google.com/maps/search/?api=1&query=Progress%20Food%20Market&query_place_id=ChIJY4G90hkS04kRHzf9qN4PJT4&center=42.871724799999996,-78.8577521"
     },
     {
-      "name": "LIVINGSTON'S BREAKFAST & MORE",
+      "name": "Livingston's Breakfast & More",
       "distance": "1.7 mi",
       "url": "https://www.google.com/maps/search/?api=1&query=LIVINGSTON'S%20BREAKFAST%20%26%20MORE&query_place_id=ChIJ6y2gj_0T04kRWJXa8-kPzzM&center=42.9025799,-78.8799145"
     },
@@ -51,20 +46,9 @@
       "name": "Cloud Cover Coffee Cafe",
       "distance": "0.1 mi",
       "url": "https://www.google.com/maps/search/?api=1&query=Cloud%20Cover%20Coffee%20Cafe&query_place_id=ChIJy4IUYWoT04kRIyMmCf-brgM&center=42.8797979,-78.87584960000001"
-    },
-    {
-      "name": "Tim Hortons",
-      "distance": "0.2 mi",
-      "url": "https://www.google.com/maps/search/?api=1&query=Tim%20Hortons&query_place_id=ChIJjwzHwzES04kRJcaV39vM8eo&center=42.875001,-78.8765413"
     }
   ],
-  "team_lunch": [
-    {
-      "name": "Kaylena Marie's Bakery",
-      "distance": "1.4 mi",
-      "url": "https://www.google.com/maps/search/?api=1&query=Kaylena%20Marie's%20Bakery&query_place_id=ChIJdbH8JQAT04kRtXN0Rr4qfSA&center=42.897994,-78.870764"
-    }
-  ],
+  "team_lunch": [],
   "dinner": [
     {
       "name": "Panorama on Seven",
@@ -102,12 +86,6 @@
       "name": "Spare Lanes",
       "distance": "1.1 mi",
       "url": "https://www.google.com/maps/search/?api=1&query=Spare%20Lanes&query_place_id=ChIJMWnEccET04kRvjZtowrTxqM&center=42.89320420000001,-78.87342819999999"
-    },
-    {
-      "name": "Town Edge Bowling Bar & Grill LLC",
-      "distance": "4.0 mi",
-      "url": "https://www.google.com/maps/search/?api=1&query=Town%20Edge%20Bowling%20Bar%20%26%20Grill%20LLC&query_place_id=ChIJ5asns84N04kRZtBKp2f5c94&center=42.8714468,-78.7996065",
-      "isFar": true
     },
     {
       "name": "Lucky Stryx",

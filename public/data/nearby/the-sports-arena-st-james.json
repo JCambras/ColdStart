@@ -24,11 +24,6 @@
       "name": "Taco Bell",
       "distance": "0.4 mi",
       "url": "https://www.google.com/maps/search/?api=1&query=Taco%20Bell&query_place_id=ChIJ1_hlxeo56IkRBLsrNe7aTZ8&center=40.851146299999996,-73.1594837"
-    },
-    {
-      "name": "Dunkin'",
-      "distance": "0.8 mi",
-      "url": "https://www.google.com/maps/search/?api=1&query=Dunkin'&query_place_id=ChIJ38SyL-w56IkRm4YJATqEEZM&center=40.8485298,-73.1668029"
     }
   ],
   "coffee": [
@@ -36,16 +31,11 @@
       "name": "Dunkin'",
       "distance": "0.3 mi",
       "url": "https://www.google.com/maps/search/?api=1&query=Dunkin'&query_place_id=ChIJmQSJzbw56IkRcYbH4kJ9kRs&center=40.860735000000005,-73.1549249"
-    },
-    {
-      "name": "Dunkin'",
-      "distance": "0.8 mi",
-      "url": "https://www.google.com/maps/search/?api=1&query=Dunkin'&query_place_id=ChIJ38SyL-w56IkRm4YJATqEEZM&center=40.8485298,-73.1668029"
     }
   ],
   "team_lunch": [
     {
-      "name": "PLATES FROM PARIS",
+      "name": "Plates From Paris",
       "distance": "0.2 mi",
       "url": "https://www.google.com/maps/search/?api=1&query=PLATES%20FROM%20PARIS&query_place_id=ChIJ__922Jc56IkR-WT1VLIFxsU&center=40.8598297,-73.1585742"
     },
@@ -63,11 +53,6 @@
       "name": "The Chas American Restaurant",
       "distance": "0.7 mi",
       "url": "https://www.google.com/maps/search/?api=1&query=The%20Chas%20American%20Restaurant&query_place_id=ChIJl1yUIU856IkRfMBC_Rvijko&center=40.8498082,-73.1670079"
-    },
-    {
-      "name": "Panepinto Bakery",
-      "distance": "0.9 mi",
-      "url": "https://www.google.com/maps/search/?api=1&query=Panepinto%20Bakery&query_place_id=ChIJVTWZySM56IkR7b98qBQ1vy8&center=40.8495346,-73.17048120000001"
     },
     {
       "name": "4 Little Daisy’s Sourdough",
@@ -157,18 +142,7 @@
       "isFar": true
     }
   ],
-  "hotels": [
-    {
-      "name": "The Suite at North Shore Long Island, Prime Location, Unique and sophisticated",
-      "distance": "0.8 mi",
-      "url": "https://www.google.com/maps/search/?api=1&query=The%20Suite%20at%20North%20Shore%20Long%20Island%2C%20Prime%20Location%2C%20Unique%20and%20sophisticated&query_place_id=ChIJMfCcB-k56IkRRX5slKCDUEU&center=40.8452759,-73.16156769999999"
-    },
-    {
-      "name": "Inn",
-      "distance": "1.2 mi",
-      "url": "https://www.google.com/maps/search/?api=1&query=Inn&query_place_id=ChIJ58CV50U56IkRoOImSIrswZY&center=40.8551432,-73.1801893"
-    }
-  ],
+  "hotels": [],
   "gas": [
     {
       "name": "Shell",

@@ -60,29 +60,9 @@
   ],
   "team_lunch": [
     {
-      "name": "Honeybloom Bakery",
-      "distance": "0.7 mi",
-      "url": "https://www.google.com/maps/search/?api=1&query=Honeybloom%20Bakery&query_place_id=ChIJEwNVRAXDEIgRXASJnz7glQw&center=42.040504899999995,-86.5073759"
-    },
-    {
-      "name": "Papa Johns Pizza",
-      "distance": "1.1 mi",
-      "url": "https://www.google.com/maps/search/?api=1&query=Papa%20Johns%20Pizza&query_place_id=ChIJTc1IGELDEIgRRYdvwNXsTgU&center=42.044061,-86.514845"
-    },
-    {
       "name": "Texas Corral",
       "distance": "1.2 mi",
       "url": "https://www.google.com/maps/search/?api=1&query=Texas%20Corral&query_place_id=ChIJZTqmv4HDEIgRuDnHJXsZ1AA&center=42.0336006,-86.51361879999999"
-    },
-    {
-      "name": "Meijer Bakery",
-      "distance": "1.6 mi",
-      "url": "https://www.google.com/maps/search/?api=1&query=Meijer%20Bakery&query_place_id=ChIJJYOXAiTDEIgRmZTwUaxkSP0&center=42.0260235,-86.5160081"
-    },
-    {
-      "name": "Sunset Shores Bakery",
-      "distance": "2.9 mi",
-      "url": "https://www.google.com/maps/search/?api=1&query=Sunset%20Shores%20Bakery&query_place_id=ChIJfYrXPWjFEIgRqN-HRbBhXvA&center=42.083708699999995,-86.4955927"
     }
   ],
   "dinner": [
@@ -110,11 +90,6 @@
       "name": "Coach's Bar & Grill and Catering",
       "distance": "1.1 mi",
       "url": "https://www.google.com/maps/search/Coach's%20Bar%20%26%20Grill%20and%20Catering+near+42.042381899999995%2C-86.4934202"
-    },
-    {
-      "name": "PopStyle Gourmet Popcorn United Sweets",
-      "distance": "1.1 mi",
-      "url": "https://www.google.com/maps/search/PopStyle%20Gourmet%20Popcorn%20United%20Sweets+near+42.042381899999995%2C-86.4934202"
     }
   ],
   "bowling": [
@@ -168,18 +143,7 @@
       "isFar": true
     }
   ],
-  "hotels": [
-    {
-      "name": "Glen Aire Manufactured Home Community",
-      "distance": "0.6 mi",
-      "url": "https://www.google.com/maps/search/Glen%20Aire%20Manufactured%20Home%20Community+near+42.042381899999995%2C-86.4934202"
-    },
-    {
-      "name": "Pool & Play | Hot Tub, Ping Pong, Nintendo Switch",
-      "distance": "0.7 mi",
-      "url": "https://www.google.com/maps/search/Pool%20%26%20Play%20%7C%20Hot%20Tub%2C%20Ping%20Pong%2C%20Nintendo%20Switch+near+42.042381899999995%2C-86.4934202"
-    }
-  ],
+  "hotels": [],
   "gas": [
     {
       "name": "Marathon Gas",

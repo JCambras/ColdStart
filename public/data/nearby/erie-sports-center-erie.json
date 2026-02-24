@@ -24,11 +24,6 @@
       "name": "Golden Corral Buffet & Grill",
       "distance": "0.6 mi",
       "url": "https://www.google.com/maps/search/?api=1&query=Golden%20Corral%20Buffet%20%26%20Grill&query_place_id=ChIJ_TH_JbCAMogRtA0HQBfJqqQ&center=42.051890199999995,-80.0862114"
-    },
-    {
-      "name": "Subway",
-      "distance": "0.6 mi",
-      "url": "https://www.google.com/maps/search/?api=1&query=Subway&query_place_id=ChIJyRm16buAMogR0VVNyiFkCcU&center=42.0521131,-80.0798871"
     }
   ],
   "coffee": [
@@ -114,7 +109,7 @@
   "arcade": [],
   "movies": [
     {
-      "name": "CW IN",
+      "name": "cw in",
       "distance": "4.3 mi",
       "url": "https://www.google.com/maps/search/?api=1&query=CW%20IN&query_place_id=ChIJxcS7QDmAMogRs7KaN7g3OXw&center=42.104483699999996,-80.0691497",
       "isFar": true

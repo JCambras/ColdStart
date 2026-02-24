@@ -50,21 +50,6 @@
       "url": "https://www.google.com/maps/search/?api=1&query=No%201%20Asian%20Bistro&query_place_id=ChIJlXpUtlNfwYkRcBBSWtSmPwE&center=40.2496695,-74.68252509999999"
     },
     {
-      "name": "Auntie Anne's",
-      "distance": "1.7 mi",
-      "url": "https://www.google.com/maps/search/?api=1&query=Auntie%20Anne's&query_place_id=ChIJIyGjsYbhw4kRTrOx9s8cguc&center=40.2905479,-74.68170049999999"
-    },
-    {
-      "name": "Cinnabon",
-      "distance": "1.7 mi",
-      "url": "https://www.google.com/maps/search/?api=1&query=Cinnabon&query_place_id=ChIJCQN-sIbhw4kROphbbbpYcNE&center=40.290656999999996,-74.68203559999999"
-    },
-    {
-      "name": "Quaker Bridge Cookie Factory",
-      "distance": "1.7 mi",
-      "url": "https://www.google.com/maps/search/?api=1&query=Quaker%20Bridge%20Cookie%20Factory&query_place_id=ChIJbSYCxXbiw4kRJKRI8-hcUc4&center=40.2910981,-74.6830994"
-    },
-    {
       "name": "Cafe de Marcela",
       "distance": "2.1 mi",
       "url": "https://www.google.com/maps/search/?api=1&query=Cafe%20de%20Marcela&query_place_id=ChIJS_gbPgDhw4kRtKUstKrIdlY&center=40.2928339,-74.6568095"
@@ -75,11 +60,6 @@
       "name": "JS Cafe",
       "distance": "0.1 mi",
       "url": "https://www.google.com/maps/search/?api=1&query=JS%20Cafe&query_place_id=ChIJM0Oonv7hw4kRhDvHXpg7ZJc&center=40.2673217,-74.67718750000002"
-    },
-    {
-      "name": "Ninos Pastry Shoppe",
-      "distance": "0.2 mi",
-      "url": "https://www.google.com/maps/search/?api=1&query=Ninos%20Pastry%20Shoppe&query_place_id=ChIJ9_esS-Xhw4kRWV-AAu3VgxE&center=40.264723499999995,-74.67587569999999"
     },
     {
       "name": "El Jalapeño",
@@ -148,7 +128,7 @@
   ],
   "hotels": [
     {
-      "name": "Candlewood Suites Lawrenceville - Princeton by IHG",
+      "name": "Candlewood Suites Lawrenceville - Princeton",
       "distance": "1.5 mi",
       "url": "https://www.google.com/maps/search/?api=1&query=Candlewood%20Suites%20Lawrenceville%20-%20Princeton%20by%20IHG&query_place_id=ChIJy3GkaBbiw4kRa4PXkje44Wo&center=40.276637799999996,-74.70333049999999"
     },

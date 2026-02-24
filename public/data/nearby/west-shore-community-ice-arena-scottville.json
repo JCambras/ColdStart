@@ -44,7 +44,7 @@
       "isFar": true
     },
     {
-      "name": "BIGGBY COFFEE",
+      "name": "Biggby Coffee",
       "distance": "4.9 mi",
       "url": "https://www.google.com/maps/search/?api=1&query=BIGGBY%20COFFEE&query_place_id=ChIJyRL7DSMaHIgR99O_TNoZ4CU&center=43.9550726,-86.3930026",
       "isFar": true
@@ -55,12 +55,6 @@
       "name": "Beamer's Restaurant",
       "distance": "3.8 mi",
       "url": "https://www.google.com/maps/search/?api=1&query=Beamer's%20Restaurant&query_place_id=ChIJLd2MDwccHIgRb-py-obxxbE&center=43.9547032,-86.3358021",
-      "isFar": true
-    },
-    {
-      "name": "Meijer Bakery",
-      "distance": "4.2 mi",
-      "url": "https://www.google.com/maps/search/?api=1&query=Meijer%20Bakery&query_place_id=ChIJ93E3TgwbHIgRjR_0OMLfSlI&center=43.958779299999996,-86.3772699",
       "isFar": true
     },
     {
@@ -134,11 +128,6 @@
   ],
   "hotels": [
     {
-      "name": "Waterfront home with Star Wars themed bunk room on all sports lake.",
-      "distance": "1.9 mi",
-      "url": "https://www.google.com/maps/search/Waterfront%20home%20with%20Star%20Wars%20themed%20bunk%20room%20on%20all%20sports%20lake.+near+44.0100711%2C-86.3311518"
-    },
-    {
       "name": "Unplug, Unwind, and Explore at Papa's Place.",
       "distance": "2.1 mi",
       "url": "https://www.google.com/maps/search/Unplug%2C%20Unwind%2C%20and%20Explore%20at%20Papa's%20Place.+near+44.0100711%2C-86.3311518"
@@ -152,11 +141,6 @@
       "name": "Cottage on Hackert Lake",
       "distance": "2.2 mi",
       "url": "https://www.google.com/maps/search/Cottage%20on%20Hackert%20Lake+near+44.0100711%2C-86.3311518"
-    },
-    {
-      "name": "Crystal Lake Campground",
-      "distance": "2.3 mi",
-      "url": "https://www.google.com/maps/search/Crystal%20Lake%20Campground+near+44.0100711%2C-86.3311518"
     }
   ],
   "gas": [

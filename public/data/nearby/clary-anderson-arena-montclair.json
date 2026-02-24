@@ -55,11 +55,6 @@
       "url": "https://www.google.com/maps/search/?api=1&query=Golden%20Chinese%20Gourmet&query_place_id=ChIJvyA5_E9VwokRHW-2CIkKEoY&center=40.816038899999995,-74.2067476"
     },
     {
-      "name": "Plum Bakery Gluten Free",
-      "distance": "0.5 mi",
-      "url": "https://www.google.com/maps/search/?api=1&query=Plum%20Bakery%20Gluten%20Free&query_place_id=ChIJTXAjYExVwokRjOCC2A2Lg9g&center=40.813465699999995,-74.2149369"
-    },
-    {
       "name": "Joey Cutlets",
       "distance": "0.6 mi",
       "url": "https://www.google.com/maps/search/?api=1&query=Joey%20Cutlets&query_place_id=ChIJC7DT2TRVwokRrFPi0IAymSk&center=40.813340000000004,-74.217073"
@@ -77,7 +72,7 @@
   ],
   "dinner": [
     {
-      "name": "MAKER PIZZA",
+      "name": "Maker Pizza",
       "distance": "0.1 mi",
       "url": "https://www.google.com/maps/search/?api=1&query=MAKER%20PIZZA&query_place_id=ChIJJ06DBblVwokR8V0I7XrmwBs&center=40.8210939,-74.2097072"
     },
@@ -100,11 +95,6 @@
       "name": "The Windough",
       "distance": "0.2 mi",
       "url": "https://www.google.com/maps/search/?api=1&query=The%20Windough&query_place_id=ChIJN9niCwBVwokRhpUmuAhPytA&center=40.817406,-74.2113043"
-    },
-    {
-      "name": "Artazu Bakery Cafe",
-      "distance": "0.2 mi",
-      "url": "https://www.google.com/maps/search/?api=1&query=Artazu%20Bakery%20Cafe&query_place_id=ChIJlWFYaQBVwokRzugBvmoB-Ck&center=40.8170846,-74.2107146"
     }
   ],
   "bowling": [
@@ -157,13 +147,7 @@
       "url": "https://www.google.com/maps/search/?api=1&query=Splash%20Pad&query_place_id=ChIJT6eNawCrw4kRAfA043Se8JE&center=40.7840189,-74.2267036"
     }
   ],
-  "hotels": [
-    {
-      "name": "Lizzy",
-      "distance": "0.2 mi",
-      "url": "https://www.google.com/maps/search/?api=1&query=Lizzy&query_place_id=ChIJYX3FVwBVwokRJrE_JKZBN9Y&center=40.8224309,-74.2110349"
-    }
-  ],
+  "hotels": [],
   "gas": [
     {
       "name": "76",

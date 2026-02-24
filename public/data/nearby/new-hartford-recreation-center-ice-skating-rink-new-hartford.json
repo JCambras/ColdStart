@@ -24,11 +24,6 @@
       "name": "Taco Bell",
       "distance": "1.6 mi",
       "url": "https://www.google.com/maps/search/?api=1&query=Taco%20Bell&query_place_id=ChIJbRWbCl5B2YkR4Olvj42T_FI&center=43.0791992,-75.3152714"
-    },
-    {
-      "name": "Subway",
-      "distance": "1.7 mi",
-      "url": "https://www.google.com/maps/search/?api=1&query=Subway&query_place_id=ChIJveXyye1B2YkRnyDVhC-vMXE&center=43.082354099999996,-75.3155361"
     }
   ],
   "coffee": [
@@ -58,13 +53,7 @@
       "url": "https://www.google.com/maps/search/?api=1&query=Salvatore's%20Italian%20Bakery%20%26%20Bagel%20Shoppe&query_place_id=ChIJvU2NWMJD2YkRPpsDdrp-taE&center=43.0524462,-75.2732089"
     }
   ],
-  "team_lunch": [
-    {
-      "name": "Auntie Anne's",
-      "distance": "1.7 mi",
-      "url": "https://www.google.com/maps/search/?api=1&query=Auntie%20Anne's&query_place_id=ChIJHayTY41B2YkRZ2rIdbBHxXE&center=43.0825344,-75.31565770000002"
-    }
-  ],
+  "team_lunch": [],
   "dinner": [
     {
       "name": "Utica Bread",
@@ -75,11 +64,6 @@
       "name": "Taj Mahal Halal Indian Restaurant",
       "distance": "0.2 mi",
       "url": "https://www.google.com/maps/search/?api=1&query=Taj%20Mahal%20Halal%20Indian%20Restaurant&query_place_id=ChIJt1EErCNH2YkRvK7kLuC2D_o&center=43.073026,-75.2894676"
-    },
-    {
-      "name": "Cafe CaNole Bakery & Restaurant",
-      "distance": "0.2 mi",
-      "url": "https://www.google.com/maps/search/?api=1&query=Cafe%20CaNole%20Bakery%20%26%20Restaurant&query_place_id=ChIJ0TggM3pB2YkRZhfc83fLQJY&center=43.0742654,-75.288212"
     },
     {
       "name": "Georgio's Village Cafe",

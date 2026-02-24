@@ -24,11 +24,6 @@
       "name": "Jersey Mike's Subs",
       "distance": "1.0 mi",
       "url": "https://www.google.com/maps/search/?api=1&query=Jersey%20Mike's%20Subs&query_place_id=ChIJPY_o998dIogR0lpvYX4wQZw&center=43.6120525,-84.73522919999999"
-    },
-    {
-      "name": "Taco Bell",
-      "distance": "1.3 mi",
-      "url": "https://www.google.com/maps/search/?api=1&query=Taco%20Bell&query_place_id=ChIJAUfWh1YbIogRARN7yOXb_CI&center=43.591667,-84.767096"
     }
   ],
   "coffee": [
@@ -65,11 +60,6 @@
       "url": "https://www.google.com/maps/search/?api=1&query=IHOP&query_place_id=ChIJ58M0wpIcIogReL4zSVA340k&center=43.612270599999995,-84.7432273"
     },
     {
-      "name": "Brown Sugar Bakery on Broadway",
-      "distance": "0.9 mi",
-      "url": "https://www.google.com/maps/search/?api=1&query=Brown%20Sugar%20Bakery%20on%20Broadway&query_place_id=ChIJ83TwTAAdIogRqS1T5CsLZeQ&center=43.6039533,-84.7613208"
-    },
-    {
       "name": "Kuji Hibachi & Sushi",
       "distance": "1.0 mi",
       "url": "https://www.google.com/maps/search/?api=1&query=Kuji%20Hibachi%20%26%20Sushi&query_place_id=ChIJP5jqE3sdIogRx7MQXI7b-4A&center=43.6110221,-84.7323359"
@@ -78,11 +68,6 @@
       "name": "Pizza King",
       "distance": "1.2 mi",
       "url": "https://www.google.com/maps/search/?api=1&query=Pizza%20King&query_place_id=ChIJAS35UqkcIogRulbAq4c46eg&center=43.5993463,-84.7681023"
-    },
-    {
-      "name": "Schafer's Bakery Mount Pl 50043",
-      "distance": "1.3 mi",
-      "url": "https://www.google.com/maps/search/?api=1&query=Schafer's%20Bakery%20Mount%20Pl%2050043&query_place_id=ChIJW7ENALccIogRkOxhi9EPTiI&center=43.611388999999996,-84.765434"
     }
   ],
   "dinner": [
@@ -90,11 +75,6 @@
       "name": "Toast to Toast inside the Holiday Inn",
       "distance": "0.8 mi",
       "url": "https://www.google.com/maps/search/Toast%20to%20Toast%20inside%20the%20Holiday%20Inn+near+43.599594499999995%2C-84.7440723"
-    },
-    {
-      "name": "Soolicious Cake",
-      "distance": "0.9 mi",
-      "url": "https://www.google.com/maps/search/Soolicious%20Cake+near+43.599594499999995%2C-84.7440723"
     },
     {
       "name": "Los Palominos",
@@ -156,7 +136,7 @@
       "url": "https://www.google.com/maps/search/Broadway%20Acres+near+43.599594499999995%2C-84.7440723"
     },
     {
-      "name": "Holiday Inn & Suites Mount Pleasant by IHG",
+      "name": "Holiday Inn & Suites Mount Pleasant",
       "distance": "0.8 mi",
       "url": "https://www.google.com/maps/search/Holiday%20Inn%20%26%20Suites%20Mount%20Pleasant%20by%20IHG+near+43.599594499999995%2C-84.7440723"
     },

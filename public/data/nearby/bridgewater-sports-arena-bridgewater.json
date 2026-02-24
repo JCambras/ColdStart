@@ -72,11 +72,6 @@
   ],
   "dinner": [
     {
-      "name": "Whole Foods Bakery",
-      "distance": "0.3 mi",
-      "url": "https://www.google.com/maps/search/?api=1&query=Whole%20Foods%20Bakery&query_place_id=ChIJLwncdwC_w4kRpoZGGuGMMZQ&center=40.5766206,-74.5626171"
-    },
-    {
       "name": "Market Burger",
       "distance": "0.3 mi",
       "url": "https://www.google.com/maps/search/?api=1&query=Market%20Burger&query_place_id=ChIJEdTYfpa_w4kRHIakrjd-WTA&center=40.576453799999996,-74.5624163"
@@ -92,7 +87,7 @@
       "url": "https://www.google.com/maps/search/?api=1&query=Blaze%20Pizza&query_place_id=ChIJv7RPK72_w4kRBN-12dtQD2s&center=40.576734599999995,-74.5594122"
     },
     {
-      "name": "honeygrow",
+      "name": "Honeygrow",
       "distance": "0.5 mi",
       "url": "https://www.google.com/maps/search/?api=1&query=honeygrow&query_place_id=ChIJF42ILvu_w4kRgU02hwzjdMw&center=40.578052,-74.5587923"
     },
@@ -161,11 +156,6 @@
       "name": "Chelsea House",
       "distance": "1.7 mi",
       "url": "https://www.google.com/maps/search/?api=1&query=Chelsea%20House&query_place_id=ChIJqS7b_FSVw4kRvfCepmSXqoQ&center=40.565044,-74.5963349"
-    },
-    {
-      "name": "დათოს და ანას სახლი",
-      "distance": "1.9 mi",
-      "url": "https://www.google.com/maps/search/?api=1&query=%E1%83%93%E1%83%90%E1%83%97%E1%83%9D%E1%83%A1%20%E1%83%93%E1%83%90%20%E1%83%90%E1%83%9C%E1%83%90%E1%83%A1%20%E1%83%A1%E1%83%90%E1%83%AE%E1%83%9A%E1%83%98&query_place_id=ChIJLfY0XgC_w4kRgwpUtW8awc8&center=40.5671191,-74.5341498"
     }
   ],
   "gas": [

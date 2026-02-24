@@ -31,17 +31,6 @@
       "url": "https://www.google.com/maps/search/?api=1&query=Dunkin'&query_place_id=ChIJddIv1gG3GYgRTl81wTrLVTI&center=42.8475962,-85.7225727"
     },
     {
-      "name": "Player’s Fuel LLC",
-      "distance": "3.0 mi",
-      "url": "https://www.google.com/maps/search/?api=1&query=Player%E2%80%99s%20Fuel%20LLC&query_place_id=ChIJhZbg0Fm3GYgRp-p1sJgAqJc&center=42.8226829,-85.6966186"
-    },
-    {
-      "name": "Subway",
-      "distance": "3.5 mi",
-      "url": "https://www.google.com/maps/search/?api=1&query=Subway&query_place_id=ChIJ2dvKu9W2GYgR-8VhZf2RdSI&center=42.858806,-85.72392219999999",
-      "isFar": true
-    },
-    {
       "name": "Jimmy John's",
       "distance": "3.6 mi",
       "url": "https://www.google.com/maps/search/?api=1&query=Jimmy%20John's&query_place_id=ChIJMc6FpdW2GYgR_-3766YYoVQ&center=42.8593702,-85.72384989999999",
@@ -84,18 +73,6 @@
       "name": "Dunkin'",
       "distance": "2.9 mi",
       "url": "https://www.google.com/maps/search/?api=1&query=Dunkin'&query_place_id=ChIJddIv1gG3GYgRTl81wTrLVTI&center=42.8475962,-85.7225727"
-    },
-    {
-      "name": "McDonald's",
-      "distance": "3.7 mi",
-      "url": "https://www.google.com/maps/search/?api=1&query=McDonald's&query_place_id=ChIJtT2l6U6wGYgRZEOmgg0eEcY&center=42.8616758,-85.72381299999999",
-      "isFar": true
-    },
-    {
-      "name": "McDonald's",
-      "distance": "4.4 mi",
-      "url": "https://www.google.com/maps/search/?api=1&query=McDonald's&query_place_id=ChIJR-OvgBi0GYgRDdS-K40rUS0&center=42.841363699999995,-85.67687339999999",
-      "isFar": true
     }
   ],
   "team_lunch": [
@@ -114,24 +91,6 @@
       "distance": "3.6 mi",
       "url": "https://www.google.com/maps/search/?api=1&query=McAlister's%20Deli&query_place_id=ChIJ3aXdAZq3GYgRkAnpbCfBCuw&center=42.859393399999995,-85.7225692",
       "isFar": true
-    },
-    {
-      "name": "Donut Dohjo",
-      "distance": "3.7 mi",
-      "url": "https://www.google.com/maps/search/?api=1&query=Donut%20Dohjo&query_place_id=ChIJoUllYgC3GYgRUO99tOVsxGU&center=42.8602385,-85.7200426",
-      "isFar": true
-    },
-    {
-      "name": "Auntie Anne's",
-      "distance": "4.2 mi",
-      "url": "https://www.google.com/maps/search/?api=1&query=Auntie%20Anne's&query_place_id=ChIJs5dRBsW1GYgR55VN-OnVWFs&center=42.8096159,-85.6711129",
-      "isFar": true
-    },
-    {
-      "name": "Costco Bakery",
-      "distance": "4.3 mi",
-      "url": "https://www.google.com/maps/search/?api=1&query=Costco%20Bakery&query_place_id=ChIJVVXht6ewGYgRqQJYYvmmFQI&center=42.874531000000005,-85.764682",
-      "isFar": true
     }
   ],
   "dinner": [
@@ -149,11 +108,6 @@
       "name": "Byron Family Restaurant",
       "distance": "1.4 mi",
       "url": "https://www.google.com/maps/search/Byron%20Family%20Restaurant+near+42.8126263%2C-85.7538376"
-    },
-    {
-      "name": "Dizzy Donuts",
-      "distance": "1.5 mi",
-      "url": "https://www.google.com/maps/search/Dizzy%20Donuts+near+42.8126263%2C-85.7538376"
     },
     {
       "name": "Los Dos Amigos Mexican Restaurant",
@@ -239,11 +193,6 @@
       "url": "https://www.google.com/maps/search/Byron%20Center+near+42.8126263%2C-85.7538376"
     },
     {
-      "name": "Woodchip Campground",
-      "distance": "2.7 mi",
-      "url": "https://www.google.com/maps/search/Woodchip%20Campground+near+42.8126263%2C-85.7538376"
-    },
-    {
       "name": "Pet Friendly Barn Swallow Manor",
       "distance": "3.0 mi",
       "url": "https://www.google.com/maps/search/Pet%20Friendly%20Barn%20Swallow%20Manor+near+42.8126263%2C-85.7538376"
@@ -258,12 +207,6 @@
       "name": "Home2 Suites by Hilton Grand Rapids South",
       "distance": "3.0 mi",
       "url": "https://www.google.com/maps/search/Home2%20Suites%20by%20Hilton%20Grand%20Rapids%20South+near+42.8126263%2C-85.7538376",
-      "isFar": true
-    },
-    {
-      "name": "The Reserve Flats",
-      "distance": "3.1 mi",
-      "url": "https://www.google.com/maps/search/The%20Reserve%20Flats+near+42.8126263%2C-85.7538376",
       "isFar": true
     },
     {

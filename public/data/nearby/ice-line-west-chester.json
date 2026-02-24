@@ -100,7 +100,30 @@
       "url": "https://www.google.com/maps/search/?api=1&query=Bates%20Motel%20Escape%20Rooms&query_place_id=ChIJ743ZDWnxxokRTcfoUtCHdeI&center=39.9601067,-75.5947309"
     }
   ],
-  "hotels": [],
+  "hotels": [
+    {
+      "name": "Hampton Inn Route 30",
+      "distance": "7.0 mi",
+      "url": "https://www.google.com/maps/search/Hampton+Inn+West+Chester+PA",
+      "isPartner": true,
+      "partnerNote": "Tournament group rate available — mention Ice Line"
+    },
+    {
+      "name": "Courtyard by Marriott",
+      "distance": "8.0 mi",
+      "url": "https://www.google.com/maps/search/Courtyard+Marriott+West+Chester+PA"
+    },
+    {
+      "name": "Holiday Inn Express",
+      "distance": "7.0 mi",
+      "url": "https://www.google.com/maps/search/Holiday+Inn+Express+Exton+PA"
+    },
+    {
+      "name": "Residence Inn",
+      "distance": "7.5 mi",
+      "url": "https://www.google.com/maps/search/Residence+Inn+Exton+PA"
+    }
+  ],
   "gas": [
     {
       "name": "LUKOIL",

@@ -24,16 +24,11 @@
       "name": "Izzy's Hoagie Shop",
       "distance": "0.8 mi",
       "url": "https://www.google.com/maps/search/?api=1&query=Izzy's%20Hoagie%20Shop&query_place_id=ChIJARalF9KxPIgRhH5-DV9S9-g&center=42.269729999999996,-83.772488"
-    },
-    {
-      "name": "Subway",
-      "distance": "0.9 mi",
-      "url": "https://www.google.com/maps/search/?api=1&query=Subway&query_place_id=ChIJqXClf_KxPIgRLJ1_9hrAy8Y&center=42.2945762,-83.7812967"
     }
   ],
   "coffee": [
     {
-      "name": "BIGGBY COFFEE",
+      "name": "Biggby Coffee",
       "distance": "0.2 mi",
       "url": "https://www.google.com/maps/search/?api=1&query=BIGGBY%20COFFEE&query_place_id=ChIJXW2YyMaxPIgRI_lQtDAAKR8&center=42.2796765,-83.7797866"
     },
@@ -58,13 +53,7 @@
       "url": "https://www.google.com/maps/search/?api=1&query=Star's%20Cafe&query_place_id=ChIJOxnOlsCxPIgR_ib7fI9uzKA&center=42.2798421,-83.782594"
     }
   ],
-  "team_lunch": [
-    {
-      "name": "Kroger Bakery",
-      "distance": "0.4 mi",
-      "url": "https://www.google.com/maps/search/?api=1&query=Kroger%20Bakery&query_place_id=ChIJ82TJ8MaxPIgRsfF-diWg0Lw&center=42.277533399999996,-83.7821256"
-    }
-  ],
+  "team_lunch": [],
   "dinner": [
     {
       "name": "HOMES Brewery - Brewpub",
@@ -141,11 +130,6 @@
     }
   ],
   "hotels": [
-    {
-      "name": "Ann Arbor Home w/ Deck, 2 Mi to Michigan Stadium!",
-      "distance": "0.1 mi",
-      "url": "https://www.google.com/maps/search/Ann%20Arbor%20Home%20w%2F%20Deck%2C%202%20Mi%20to%20Michigan%20Stadium!+near+42.2813072%2C-83.7775152"
-    },
     {
       "name": "Football Homebase - 2023",
       "distance": "0.3 mi",

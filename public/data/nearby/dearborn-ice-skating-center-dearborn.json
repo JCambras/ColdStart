@@ -16,7 +16,7 @@
       "url": "https://www.google.com/maps/search/?api=1&query=Subway&query_place_id=ChIJH2--u7w0O4gRVgQgzVMszGk&center=42.3325743,-83.1766446"
     },
     {
-      "name": "HOT & PUFF",
+      "name": "Hot & Puff",
       "distance": "0.8 mi",
       "url": "https://www.google.com/maps/search/?api=1&query=HOT%20%26%20PUFF&query_place_id=ChIJsU9pU0Q1O4gR_SeR_5-ampg&center=42.3189348,-83.1862289"
     }
@@ -50,19 +50,9 @@
       "url": "https://www.google.com/maps/search/?api=1&query=Sal%E2%80%99s%20Pizza%20Dearborn&query_place_id=ChIJ-X8ZjGw1O4gR9TF7qGnLjPA&center=42.32450610000001,-83.1854781"
     },
     {
-      "name": "Golden Bakery Chase",
-      "distance": "0.6 mi",
-      "url": "https://www.google.com/maps/search/?api=1&query=Golden%20Bakery%20Chase&query_place_id=ChIJYQuoAsg0O4gRgH7avXt_go8&center=42.3391612,-83.18566179999999"
-    },
-    {
       "name": "Alzahraa Seafood",
       "distance": "0.7 mi",
       "url": "https://www.google.com/maps/search/?api=1&query=Alzahraa%20Seafood&query_place_id=ChIJUbMHJb00O4gRbgcAwwKgzhk&center=42.3305173,-83.17648969999999"
-    },
-    {
-      "name": "ROTI MAX BAKERY Dearborn",
-      "distance": "0.8 mi",
-      "url": "https://www.google.com/maps/search/?api=1&query=ROTI%20MAX%20BAKERY%20Dearborn&query_place_id=ChIJ4Wp-Z5I0O4gRyetpCEEn8j0&center=42.3203399,-83.18317069999999"
     },
     {
       "name": "Place Next to Riverside Academy west",
@@ -72,16 +62,6 @@
   ],
   "dinner": [
     {
-      "name": "Donutville U.S.A.",
-      "distance": "0.1 mi",
-      "url": "https://www.google.com/maps/search/Donutville%20U.S.A.+near+42.330364599999996%2C-83.189342"
-    },
-    {
-      "name": "Chase Bakery",
-      "distance": "0.2 mi",
-      "url": "https://www.google.com/maps/search/Chase%20Bakery+near+42.330364599999996%2C-83.189342"
-    },
-    {
       "name": "The Döner Shawarma (DEARBORN)",
       "distance": "0.2 mi",
       "url": "https://www.google.com/maps/search/The%20D%C3%B6ner%20Shawarma%20(DEARBORN)+near+42.330364599999996%2C-83.189342"
@@ -90,16 +70,6 @@
       "name": "Doughboys",
       "distance": "0.3 mi",
       "url": "https://www.google.com/maps/search/Doughboys+near+42.330364599999996%2C-83.189342"
-    },
-    {
-      "name": "Tarboush Bakery (Dearborn)",
-      "distance": "0.4 mi",
-      "url": "https://www.google.com/maps/search/Tarboush%20Bakery%20(Dearborn)+near+42.330364599999996%2C-83.189342"
-    },
-    {
-      "name": "Dearborn Sweets Inc",
-      "distance": "0.6 mi",
-      "url": "https://www.google.com/maps/search/Dearborn%20Sweets%20Inc+near+42.330364599999996%2C-83.189342"
     }
   ],
   "bowling": [

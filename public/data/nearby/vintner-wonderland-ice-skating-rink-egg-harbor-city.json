@@ -24,12 +24,6 @@
       "name": "Dunkin'",
       "distance": "2.7 mi",
       "url": "https://www.google.com/maps/search/?api=1&query=Dunkin'&query_place_id=ChIJz8QQb4LewIkRKA4SWqcijuw&center=39.5287966,-74.64816739999999"
-    },
-    {
-      "name": "Wawa",
-      "distance": "3.2 mi",
-      "url": "https://www.google.com/maps/search/?api=1&query=Wawa&query_place_id=ChIJVxmZAJPdwIkROOtKwXBMj7I&center=39.500067699999995,-74.6074876",
-      "isFar": true
     }
   ],
   "coffee": [
@@ -127,26 +121,6 @@
     }
   ],
   "hotels": [
-    {
-      "name": "Tuscany House Hotel at Renault Winery",
-      "distance": "0.1 mi",
-      "url": "https://www.google.com/maps/search/?api=1&query=Tuscany%20House%20Hotel%20at%20Renault%20Winery&query_place_id=ChIJe94uSSPewIkRHvz66EkimaY&center=39.547315999999995,-74.6042026"
-    },
-    {
-      "name": "Renault Winery",
-      "distance": "0.1 mi",
-      "url": "https://www.google.com/maps/search/?api=1&query=Renault%20Winery&query_place_id=ChIJASFE3iLewIkRfx-mYZu08T8&center=39.5455241,-74.60383259999999"
-    },
-    {
-      "name": "Egg Harbor Lake Campground",
-      "distance": "0.8 mi",
-      "url": "https://www.google.com/maps/search/?api=1&query=Egg%20Harbor%20Lake%20Campground&query_place_id=ChIJozXiYTHewIkRhVKVvCLJ3Ag&center=39.558184,-74.60900199999999"
-    },
-    {
-      "name": "Holly Acres Campground",
-      "distance": "1.4 mi",
-      "url": "https://www.google.com/maps/search/?api=1&query=Holly%20Acres%20Campground&query_place_id=ChIJl66ifQbewIkRtF4BwGwKNKI&center=39.526520999999995,-74.602071"
-    },
     {
       "name": "Beautiful Estate with Tennis Court and Swimming Pool",
       "distance": "1.7 mi",

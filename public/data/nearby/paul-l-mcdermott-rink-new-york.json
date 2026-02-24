@@ -21,11 +21,6 @@
       "url": "https://www.google.com/maps/search/?api=1&query=KaiPai%20Sushi%20NY&query_place_id=ChIJsUkuxDZZwokRXfbf0m1PYEQ&center=40.787642999999996,-73.94192079999999"
     },
     {
-      "name": "Taco Bell",
-      "distance": "0.4 mi",
-      "url": "https://www.google.com/maps/search/?api=1&query=Taco%20Bell&query_place_id=ChIJqbwmXKZYwokRkG0DMClke2k&center=40.786590499999996,-73.9501702"
-    },
-    {
       "name": "White Castle",
       "distance": "0.4 mi",
       "url": "https://www.google.com/maps/search/?api=1&query=White%20Castle&query_place_id=ChIJX6gV9qlYwokRb44IOUFbw4Q&center=40.788055899999996,-73.9417277"
@@ -73,11 +68,6 @@
       "name": "SnackShack",
       "distance": "0.2 mi",
       "url": "https://www.google.com/maps/search/?api=1&query=SnackShack&query_place_id=ChIJPxbJKe9ZwokRvxdFsEyveWM&center=40.786237,-73.944475"
-    },
-    {
-      "name": "Alexis Cakes & Pastries",
-      "distance": "0.2 mi",
-      "url": "https://www.google.com/maps/search/?api=1&query=Alexis%20Cakes%20%26%20Pastries&query_place_id=ChIJS4JwaoJZwokRMcMHP5PDuMk&center=40.785888899999996,-73.9469227"
     },
     {
       "name": "Bagels & More",
@@ -131,7 +121,7 @@
       "url": "https://www.google.com/maps/search/?api=1&query=M%C3%A1gico&query_place_id=ChIJV3LVkJxfwokR3m_fsqjp9uE&center=40.7745576,-73.93213899999999"
     },
     {
-      "name": "la tata el perseguidor",
+      "name": "la Tata el Perseguidor",
       "distance": "1.0 mi",
       "url": "https://www.google.com/maps/search/?api=1&query=la%20tata%20el%20perseguidor&query_place_id=ChIJTSXAm9b3wokRWNu50_jhul8&center=40.7965593,-73.9415618"
     }
@@ -153,28 +143,7 @@
       "url": "https://www.google.com/maps/search/?api=1&query=Toilet%20Alley&query_place_id=ChIJZ_E8WgBZwokR_yHSedIxeBU&center=40.77540630000001,-73.9498145"
     }
   ],
-  "hotels": [
-    {
-      "name": "Trendy UES Studio w/ Doorman, Gym, Lounge & W/D, by Blueground",
-      "distance": "0.1 mi",
-      "url": "https://www.google.com/maps/search/?api=1&query=Trendy%20UES%20Studio%20w%2F%20Doorman%2C%20Gym%2C%20Lounge%20%26%20W%2FD%2C%20by%20Blueground&query_place_id=ChIJw6ibDq9YwokRPvgqaqoZHrA&center=40.7823334,-73.9458695"
-    },
-    {
-      "name": "Blueground | Upper East Side, AC, w /d, nr parks",
-      "distance": "0.1 mi",
-      "url": "https://www.google.com/maps/search/?api=1&query=Blueground%20%7C%20Upper%20East%20Side%2C%20AC%2C%20w%20%2Fd%2C%20nr%20parks&query_place_id=ChIJ2bebDq9YwokRuNtfZgjFJWE&center=40.7823296,-73.9458695"
-    },
-    {
-      "name": "Trendy UES Studio w / Doorman, Gym, Lounge W /D, by Blueground",
-      "distance": "0.1 mi",
-      "url": "https://www.google.com/maps/search/?api=1&query=Trendy%20UES%20Studio%20w%20%2F%20Doorman%2C%20Gym%2C%20Lounge%20W%20%2FD%2C%20by%20Blueground&query_place_id=ChIJ2bebDq9YwokRSx3Dh_p7Vfs&center=40.7823296,-73.9458695"
-    },
-    {
-      "name": "Blueground | Upper East Side, AC, gym, nr parks",
-      "distance": "0.1 mi",
-      "url": "https://www.google.com/maps/search/?api=1&query=Blueground%20%7C%20Upper%20East%20Side%2C%20AC%2C%20gym%2C%20nr%20parks&query_place_id=ChIJDepqDK9YwokRf0pyYPOd6a8&center=40.7823181,-73.9459992"
-    }
-  ],
+  "hotels": [],
   "gas": [
     {
       "name": "Shell",

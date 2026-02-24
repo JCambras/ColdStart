@@ -11,12 +11,7 @@
       "url": "https://www.google.com/maps/search/?api=1&query=Subway&query_place_id=ChIJh-5U7AHoxokRvNm541eyHtc&center=39.864021,-75.3405193"
     },
     {
-      "name": "Bento Sushi",
-      "distance": "1.1 mi",
-      "url": "https://www.google.com/maps/search/?api=1&query=Bento%20Sushi&query_place_id=ChIJa26ffhDDxokRCmggy9j35TA&center=39.8649847,-75.33994249999999"
-    },
-    {
-      "name": "NY HALAL FOOD TRUCK # 2",
+      "name": "ny Halal Food Truck # 2",
       "distance": "1.1 mi",
       "url": "https://www.google.com/maps/search/?api=1&query=NY%20HALAL%20FOOD%20TRUCK%20%23%202&query_place_id=ChIJ381WvO3nxokRCC8MUwwpHRc&center=39.848630299999996,-75.37114489999999"
     },
@@ -72,11 +67,6 @@
   ],
   "dinner": [
     {
-      "name": "Phatso's Bakery",
-      "distance": "0.5 mi",
-      "url": "https://www.google.com/maps/search/?api=1&query=Phatso's%20Bakery&query_place_id=ChIJkUuHFennxokRdUfjLunixog&center=39.8502553,-75.3598227"
-    },
-    {
       "name": "Blessing Africa market",
       "distance": "0.5 mi",
       "url": "https://www.google.com/maps/search/?api=1&query=Blessing%20Africa%20market&query_place_id=ChIJV60PdOrnxokRM5yK73e5wZ0&center=39.8502864,-75.35989769999999"
@@ -95,11 +85,6 @@
       "name": "Sassy Sandwich",
       "distance": "0.7 mi",
       "url": "https://www.google.com/maps/search/?api=1&query=Sassy%20Sandwich&query_place_id=ChIJh35nBeHnxokRVA5meDZu3_s&center=39.8517921,-75.3622857"
-    },
-    {
-      "name": "Crema Dolce Boutique Bakery",
-      "distance": "0.9 mi",
-      "url": "https://www.google.com/maps/search/?api=1&query=Crema%20Dolce%20Boutique%20Bakery&query_place_id=ChIJK-x-v_u6MKYRcCOxfDAaKlA&center=39.8625367,-75.3529909"
     }
   ],
   "bowling": [
@@ -139,7 +124,7 @@
   ],
   "hotels": [
     {
-      "name": "Candlewood Suites Philadelphia - Airport Area by IHG",
+      "name": "Candlewood Suites Philadelphia - Airport Area",
       "distance": "0.5 mi",
       "url": "https://www.google.com/maps/search/?api=1&query=Candlewood%20Suites%20Philadelphia%20-%20Airport%20Area%20by%20IHG&query_place_id=ChIJSWpZbqDnxokRGxvxVw_Xx40&center=39.8480375,-75.3580436"
     },
@@ -166,7 +151,7 @@
       "url": "https://www.google.com/maps/search/Eckert%20Auto+near+39.8503328%2C-75.3495986"
     },
     {
-      "name": "EAGLE FUEL",
+      "name": "Eagle Fuel",
       "distance": "1.2 mi",
       "url": "https://www.google.com/maps/search/EAGLE%20FUEL+near+39.8503328%2C-75.3495986"
     },

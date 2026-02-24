@@ -65,19 +65,9 @@
       "url": "https://www.google.com/maps/search/?api=1&query=Lavash%20Lebanese%20Cuisine%20%2FCOMING%20SOON&query_place_id=ChIJ51lKcANRO4gRET2blXqGwvU&center=42.2715048,-83.4910604"
     },
     {
-      "name": "Kroger Bakery",
-      "distance": "0.6 mi",
-      "url": "https://www.google.com/maps/search/?api=1&query=Kroger%20Bakery&query_place_id=ChIJqczo0ENRO4gRBxgD5jubsCY&center=42.274108299999995,-83.48823089999999"
-    },
-    {
       "name": "NandiSweetTooth",
       "distance": "1.1 mi",
       "url": "https://www.google.com/maps/search/?api=1&query=NandiSweetTooth&query_place_id=ChIJM6hlDIJRO4gRDQB63Xy23zE&center=42.2595836,-83.4803027"
-    },
-    {
-      "name": "Meijer Bakery",
-      "distance": "2.6 mi",
-      "url": "https://www.google.com/maps/search/?api=1&query=Meijer%20Bakery&query_place_id=ChIJPQesvg9RO4gRMgS8uFnnXkc&center=42.2322214,-83.48309189999999"
     }
   ],
   "dinner": [
@@ -87,26 +77,9 @@
       "url": "https://www.google.com/maps/search/Blazin%20Coop's%20Nashville%20Hot%20Chicken+near+42.267992400000004%2C-83.4975165"
     },
     {
-      "name": "Al Quds Bakery of Canton LLC",
-      "distance": "0.4 mi",
-      "url": "https://www.google.com/maps/search/Al%20Quds%20Bakery%20of%20Canton%20LLC+near+42.267992400000004%2C-83.4975165"
-    },
-    {
       "name": "Bakers Bloom",
       "distance": "0.9 mi",
       "url": "https://www.google.com/maps/search/Bakers%20Bloom+near+42.267992400000004%2C-83.4975165"
-    },
-    {
-      "name": "Cinnabon",
-      "distance": "3.0 mi",
-      "url": "https://www.google.com/maps/search/Cinnabon+near+42.267992400000004%2C-83.4975165",
-      "isFar": true
-    },
-    {
-      "name": "Saj Bakery Canton",
-      "distance": "3.0 mi",
-      "url": "https://www.google.com/maps/search/Saj%20Bakery%20Canton+near+42.267992400000004%2C-83.4975165",
-      "isFar": true
     }
   ],
   "bowling": [
@@ -151,29 +124,14 @@
   ],
   "hotels": [
     {
-      "name": "DHSOSEM",
-      "distance": "0.6 mi",
-      "url": "https://www.google.com/maps/search/DHSOSEM+near+42.267992400000004%2C-83.4975165"
-    },
-    {
       "name": "Holiday Estates",
       "distance": "1.0 mi",
       "url": "https://www.google.com/maps/search/Holiday%20Estates+near+42.267992400000004%2C-83.4975165"
     },
     {
-      "name": "Bud's Paradise- A beautiful cabin in the woods!!!",
-      "distance": "1.1 mi",
-      "url": "https://www.google.com/maps/search/Bud's%20Paradise-%20A%20beautiful%20cabin%20in%20the%20woods!!!+near+42.267992400000004%2C-83.4975165"
-    },
-    {
       "name": "Sheldon Inn",
       "distance": "1.3 mi",
       "url": "https://www.google.com/maps/search/Sheldon%20Inn+near+42.267992400000004%2C-83.4975165"
-    },
-    {
-      "name": "Little Valley Estates Inc",
-      "distance": "1.5 mi",
-      "url": "https://www.google.com/maps/search/Little%20Valley%20Estates%20Inc+near+42.267992400000004%2C-83.4975165"
     },
     {
       "name": "Park Estates",

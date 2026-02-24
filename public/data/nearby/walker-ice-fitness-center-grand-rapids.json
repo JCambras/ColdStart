@@ -44,21 +44,9 @@
       "url": "https://www.google.com/maps/search/?api=1&query=China%20Chef%20Chinese%20Restaurant&query_place_id=ChIJNUyt_nqlGYgRWLZ2pzGaqK0&center=42.9731301,-85.775041"
     },
     {
-      "name": "Lou's Cottage Bakery",
-      "distance": "3.2 mi",
-      "url": "https://www.google.com/maps/search/?api=1&query=Lou's%20Cottage%20Bakery&query_place_id=ChIJHVXsG5mmGYgRUeMwdTRplBc&center=43.0274998,-85.8273384",
-      "isFar": true
-    },
-    {
       "name": "Big Apple Bagels",
       "distance": "3.6 mi",
       "url": "https://www.google.com/maps/search/?api=1&query=Big%20Apple%20Bagels&query_place_id=ChIJ5T42nlGuGYgRqtD3G2yz2CE&center=42.9708548,-85.7193308",
-      "isFar": true
-    },
-    {
-      "name": "Meijer Bakery",
-      "distance": "4.0 mi",
-      "url": "https://www.google.com/maps/search/?api=1&query=Meijer%20Bakery&query_place_id=ChIJW0L6fBivGYgRvb4mFuRK2s0&center=43.0078835,-85.69123069999999",
       "isFar": true
     }
   ],
@@ -82,16 +70,6 @@
       "name": "Jia Yuan",
       "distance": "1.3 mi",
       "url": "https://www.google.com/maps/search/Jia%20Yuan+near+43.0056454%2C-85.7712046"
-    },
-    {
-      "name": "Bill Knapps Bakery",
-      "distance": "1.4 mi",
-      "url": "https://www.google.com/maps/search/Bill%20Knapps%20Bakery+near+43.0056454%2C-85.7712046"
-    },
-    {
-      "name": "Ludwick's Bakery",
-      "distance": "1.4 mi",
-      "url": "https://www.google.com/maps/search/Ludwick's%20Bakery+near+43.0056454%2C-85.7712046"
     }
   ],
   "bowling": [
@@ -136,21 +114,6 @@
       "name": "Riviera Motel",
       "distance": "0.3 mi",
       "url": "https://www.google.com/maps/search/Riviera%20Motel+near+43.0056454%2C-85.7712046"
-    },
-    {
-      "name": "Appletree Estates Manufactured Home Community",
-      "distance": "1.6 mi",
-      "url": "https://www.google.com/maps/search/Appletree%20Estates%20Manufactured%20Home%20Community+near+43.0056454%2C-85.7712046"
-    },
-    {
-      "name": "Space, space, space, very clean, doesn't disappoint!",
-      "distance": "1.9 mi",
-      "url": "https://www.google.com/maps/search/Space%2C%20space%2C%20space%2C%20very%20clean%2C%20doesn't%20disappoint!+near+43.0056454%2C-85.7712046"
-    },
-    {
-      "name": "Space everyone can enjoy, 4 miles to downtown Grand Rapids!",
-      "distance": "2.0 mi",
-      "url": "https://www.google.com/maps/search/Space%20everyone%20can%20enjoy%2C%204%20miles%20to%20downtown%20Grand%20Rapids!+near+43.0056454%2C-85.7712046"
     },
     {
       "name": "Alpine Meadows",

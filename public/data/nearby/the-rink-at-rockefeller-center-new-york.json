@@ -21,7 +21,7 @@
       "url": "https://www.google.com/maps/search/?api=1&query=Five%20Guys&query_place_id=ChIJLQCw4_5YwokRd5hb1b2IUYU&center=40.757896099999996,-73.97993310000001"
     },
     {
-      "name": "SIMÒ PIZZA - MIDTOWN",
+      "name": "Simò Pizza - Midtown",
       "distance": "0.1 mi",
       "url": "https://www.google.com/maps/search/?api=1&query=SIM%C3%92%20PIZZA%20-%20MIDTOWN&query_place_id=ChIJsxo_CT9ZwokR3i73Z1LaSH0&center=40.760667399999996,-73.978797"
     },
@@ -83,11 +83,6 @@
       "name": "Black Seed Bagels - Rockefeller Center",
       "distance": "0.1 mi",
       "url": "https://www.google.com/maps/search/?api=1&query=Black%20Seed%20Bagels%20-%20Rockefeller%20Center&query_place_id=ChIJn-jbG9NZwokReP_FU-GmWP0&center=40.7593755,-73.9799726"
-    },
-    {
-      "name": "nancyhube",
-      "distance": "0.2 mi",
-      "url": "https://www.google.com/maps/search/?api=1&query=nancyhube&query_place_id=ChIJBUOMUPhZwokRwhNqE8s2QDo&center=40.7607584,-73.9794962"
     }
   ],
   "dinner": [
@@ -171,17 +166,12 @@
   ],
   "hotels": [
     {
-      "name": "ROCKEFELLER CENTER",
-      "distance": "0.1 mi",
-      "url": "https://www.google.com/maps/search/?api=1&query=ROCKEFELLER%20CENTER&query_place_id=ChIJUc9Wwv5YwokRB-vVRnDDWew&center=40.758380900000006,-73.979126"
-    },
-    {
       "name": "A great location in Midtown NYC",
       "distance": "0.1 mi",
       "url": "https://www.google.com/maps/search/?api=1&query=A%20great%20location%20in%20Midtown%20NYC&query_place_id=ChIJbb750P5YwokRUM7ujXuhf7Y&center=40.7590484,-73.9795303"
     },
     {
-      "name": "HOTEL ROYALTON",
+      "name": "Hotel Royalton",
       "distance": "0.1 mi",
       "url": "https://www.google.com/maps/search/?api=1&query=HOTEL%20ROYALTON&query_place_id=ChIJYdBNOhBZwokR1PiEl7VyEyI&center=40.7594663,-73.97752129999999"
     },

@@ -24,11 +24,6 @@
       "name": "Burger King",
       "distance": "0.8 mi",
       "url": "https://www.google.com/maps/search/?api=1&query=Burger%20King&query_place_id=ChIJbyXjgFT3NIgRpJeoWsf6eUo&center=40.3696808,-80.01164"
-    },
-    {
-      "name": "Subway",
-      "distance": "1.2 mi",
-      "url": "https://www.google.com/maps/search/?api=1&query=Subway&query_place_id=ChIJzc756Er3NIgRsOAN_aimLE8&center=40.3829949,-80.0174083"
     }
   ],
   "coffee": [
@@ -50,24 +45,9 @@
   ],
   "team_lunch": [
     {
-      "name": "Potomac Bakery",
-      "distance": "0.4 mi",
-      "url": "https://www.google.com/maps/search/?api=1&query=Potomac%20Bakery&query_place_id=ChIJt7rD2Hb3NIgRyck1a4xkLEE&center=40.3688211,-80.03419319999999"
-    },
-    {
       "name": "Asian Garden",
       "distance": "0.5 mi",
       "url": "https://www.google.com/maps/search/?api=1&query=Asian%20Garden&query_place_id=ChIJYw_QD-f5NIgR3_5u5U51FgU&center=40.3596684,-80.0291803"
-    },
-    {
-      "name": "Giant Eagle Bakery",
-      "distance": "1.4 mi",
-      "url": "https://www.google.com/maps/search/?api=1&query=Giant%20Eagle%20Bakery&query_place_id=ChIJDdISEwT6NIgRkGBYnblQ36E&center=40.357258699999996,-80.0025185"
-    },
-    {
-      "name": "Fresh Market Bakery",
-      "distance": "1.5 mi",
-      "url": "https://www.google.com/maps/search/?api=1&query=Fresh%20Market%20Bakery&query_place_id=ChIJnz8KdgD5NIgREuA1dV1gwQU&center=40.3546638,-80.0493439"
     }
   ],
   "dinner": [
@@ -159,13 +139,7 @@
       "url": "https://www.google.com/maps/search/?api=1&query=Steepest%20Street%20in%20the%20US&query_place_id=ChIJ8-y_rVf3NIgRTX9GcEKdqA4&center=40.409732,-80.03009440000001"
     }
   ],
-  "hotels": [
-    {
-      "name": "The Whitmore by Luxe PGH",
-      "distance": "0.6 mi",
-      "url": "https://www.google.com/maps/search/?api=1&query=The%20Whitmore%20by%20Luxe%20PGH&query_place_id=ChIJJc3RTNn5NIgRIIfazEE2EvQ&center=40.3625297,-80.0367584"
-    }
-  ],
+  "hotels": [],
   "gas": [
     {
       "name": "Shell",

@@ -19,23 +19,11 @@
       "name": "Taco Bell",
       "distance": "2.8 mi",
       "url": "https://www.google.com/maps/search/?api=1&query=Taco%20Bell&query_place_id=ChIJq40R_epnNIgR-vtJN0iozO4&center=40.5431941,-80.19264199999999"
-    },
-    {
-      "name": "Subway",
-      "distance": "3.2 mi",
-      "url": "https://www.google.com/maps/search/?api=1&query=Subway&query_place_id=ChIJ781CmcpdNIgRkJ8cPk8vhM0&center=40.5053955,-80.20922879999999",
-      "isFar": true
-    },
-    {
-      "name": "Burger King",
-      "distance": "3.5 mi",
-      "url": "https://www.google.com/maps/search/?api=1&query=Burger%20King&query_place_id=ChIJd0n11w5eNIgRmf_DWrv3f6Q&center=40.5218768,-80.218032",
-      "isFar": true
     }
   ],
   "coffee": [
     {
-      "name": "CAFFÉ NERA",
+      "name": "Caffé Nera",
       "distance": "0.3 mi",
       "url": "https://www.google.com/maps/search/?api=1&query=CAFF%C3%89%20NERA&query_place_id=ChIJhXmmMABfNIgRwN0qyJ8uLTc&center=40.514378099999995,-80.1534823"
     },
@@ -80,11 +68,6 @@
       "name": "Desserts by Claudia",
       "distance": "2.9 mi",
       "url": "https://www.google.com/maps/search/?api=1&query=Desserts%20by%20Claudia&query_place_id=ChIJwdE29vJhNIgRxE6uglYMuBc&center=40.559248,-80.1394129"
-    },
-    {
-      "name": "Chalk Hill Confections",
-      "distance": "3.0 mi",
-      "url": "https://www.google.com/maps/search/?api=1&query=Chalk%20Hill%20Confections&query_place_id=ChIJ_QWsR-1fNIgRx8tYTdArNX8&center=40.4780808,-80.1690878"
     }
   ],
   "dinner": [
@@ -97,11 +80,6 @@
       "name": "Pizzeria",
       "distance": "0.5 mi",
       "url": "https://www.google.com/maps/search/?api=1&query=Pizzeria&query_place_id=ChIJl9xrNEdeNIgRtU3pai3XSPA&center=40.5169734,-80.15944689999999"
-    },
-    {
-      "name": "Rosita Bakery",
-      "distance": "0.6 mi",
-      "url": "https://www.google.com/maps/search/?api=1&query=Rosita%20Bakery&query_place_id=ChIJocA1wc9fNIgRpvtZ1LsdO6Q&center=40.517975899999996,-80.1623178"
     },
     {
       "name": "Sewickley Speakeasy",
@@ -164,11 +142,6 @@
       "name": "Island Gem! Riverfront, Near RMU Sports Center, Massive Deck",
       "distance": "0.4 mi",
       "url": "https://www.google.com/maps/search/?api=1&query=Island%20Gem!%20Riverfront%2C%20Near%20RMU%20Sports%20Center%2C%20Massive%20Deck&query_place_id=ChIJsZtJ4kpeNIgRGE52xLgSGeY&center=40.514934499999995,-80.1446991"
-    },
-    {
-      "name": "\\\"Serene Houseboat Hideaway\\\"\\n\\n",
-      "distance": "0.7 mi",
-      "url": "https://www.google.com/maps/search/?api=1&query=%5C%22Serene%20Houseboat%20Hideaway%5C%22%5Cn%5Cn&query_place_id=ChIJW0Fa0j1eNIgRp52KSYTno44&center=40.524410200000005,-80.16259769999999"
     }
   ],
   "gas": [

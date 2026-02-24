@@ -16,24 +16,14 @@
       "url": "https://www.google.com/maps/search/?api=1&query=Golden%20Corral%20Buffet%20%26%20Grill&query_place_id=ChIJHwG95SXz2YkRK0tg3okGeiA&center=43.0573433,-76.1024733"
     },
     {
-      "name": "Subway",
-      "distance": "1.0 mi",
-      "url": "https://www.google.com/maps/search/?api=1&query=Subway&query_place_id=ChIJZVelhfHy2YkR5IQ0-ZP4UPQ&center=43.0723814,-76.1225784"
-    },
-    {
       "name": "Conway wings",
       "distance": "1.2 mi",
       "url": "https://www.google.com/maps/search/?api=1&query=Conway%20wings&query_place_id=ChIJeZsgJKPz2YkRON6gHNOU6VQ&center=43.0743446,-76.1226654"
-    },
-    {
-      "name": "Subway",
-      "distance": "1.4 mi",
-      "url": "https://www.google.com/maps/search/?api=1&query=Subway&query_place_id=ChIJKTM3s6Hz2YkROVy1umdTtQ4&center=43.042096,-76.1347191"
     }
   ],
   "coffee": [
     {
-      "name": "CRACKED BEAN ROASTERY & CAFE",
+      "name": "Cracked Bean Roastery & Cafe",
       "distance": "0.7 mi",
       "url": "https://www.google.com/maps/search/?api=1&query=CRACKED%20BEAN%20ROASTERY%20%26%20CAFE&query_place_id=ChIJY04DEwqJ2YkRaudQ_NeLJk0&center=43.0682901,-76.1131011"
     },
@@ -92,7 +82,7 @@
       "url": "https://www.google.com/maps/search/?api=1&query=Shifty's%20Bar%20%26%20Grill&query_place_id=ChIJZy_l2xzz2YkRsmeZKLZGf-Q&center=43.055160799999996,-76.1191216"
     },
     {
-      "name": "YANG DI CHUN",
+      "name": "Yang di Chun",
       "distance": "0.5 mi",
       "url": "https://www.google.com/maps/search/?api=1&query=YANG%20DI%20CHUN&query_place_id=ChIJRShsagDz2YkRicJQBedAEr8&center=43.0514796,-76.1127135"
     },
@@ -105,11 +95,6 @@
       "name": "Mi Casa Grande",
       "distance": "0.7 mi",
       "url": "https://www.google.com/maps/search/?api=1&query=Mi%20Casa%20Grande&query_place_id=ChIJldza0Dvz2YkRijaWsjD-wn0&center=43.0490503,-76.1208821"
-    },
-    {
-      "name": "Daily bakery house",
-      "distance": "0.7 mi",
-      "url": "https://www.google.com/maps/search/?api=1&query=Daily%20bakery%20house&query_place_id=ChIJNU2sB5_z2YkR92QMqgweDmY&center=43.0502239,-76.1257641"
     }
   ],
   "bowling": [
@@ -166,11 +151,6 @@
   ],
   "hotels": [
     {
-      "name": "Welcome to the Eastwood Escape. Make yourself at home!",
-      "distance": "0.3 mi",
-      "url": "https://www.google.com/maps/search/?api=1&query=Welcome%20to%20the%20Eastwood%20Escape.%20Make%20yourself%20at%20home!&query_place_id=ChIJHQ49YePy2YkRfxhNrF3cxDg&center=43.062149,-76.11871339999999"
-    },
-    {
       "name": "Eastwood Escape 2",
       "distance": "0.4 mi",
       "url": "https://www.google.com/maps/search/?api=1&query=Eastwood%20Escape%202&query_place_id=ChIJbW20Svvy2YkRalUe8UAdKhY&center=43.0637207,-76.1204147"
@@ -193,7 +173,7 @@
       "url": "https://www.google.com/maps/search/Valero+near+43.058141400000004%2C-76.1169551"
     },
     {
-      "name": "GRANT BLVD. CITGO",
+      "name": "Grant Blvd. Citgo",
       "distance": "1.0 mi",
       "url": "https://www.google.com/maps/search/GRANT%20BLVD.%20CITGO+near+43.058141400000004%2C-76.1169551"
     }

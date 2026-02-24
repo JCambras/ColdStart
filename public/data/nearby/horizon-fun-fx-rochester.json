@@ -63,23 +63,12 @@
       "url": "https://www.google.com/maps/search/?api=1&query=McDonald's&query_place_id=ChIJ254XLy-31okRTOCV2cfcqJg&center=43.238878,-77.6462495"
     },
     {
-      "name": "McDonald's",
-      "distance": "2.8 mi",
-      "url": "https://www.google.com/maps/search/?api=1&query=McDonald's&query_place_id=ChIJt9M5rfmw1okRKSnOVzkWt8c&center=43.249103399999996,-77.6971226"
-    },
-    {
       "name": "Bruegger's Bagels",
       "distance": "2.9 mi",
       "url": "https://www.google.com/maps/search/?api=1&query=Bruegger's%20Bagels&query_place_id=ChIJEX7A_lew1okRm3xPz4xeVIY&center=43.2517341,-77.6989289"
     }
   ],
-  "team_lunch": [
-    {
-      "name": "Our Daily Bread Sourdough LLC",
-      "distance": "2.5 mi",
-      "url": "https://www.google.com/maps/search/?api=1&query=Our%20Daily%20Bread%20Sourdough%20LLC&query_place_id=ChIJoxijpRex1okRfm2Z_aQbXSM&center=43.2313591,-77.6668779"
-    }
-  ],
+  "team_lunch": [],
   "dinner": [
     {
       "name": "Parkway Family Restaurant",

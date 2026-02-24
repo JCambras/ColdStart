@@ -48,29 +48,9 @@
       "name": "Atlantic Family Restaurant",
       "distance": "0.7 mi",
       "url": "https://www.google.com/maps/search/?api=1&query=Atlantic%20Family%20Restaurant&query_place_id=ChIJK2XLvdLO1okRHh613Jt30IU&center=43.2070602,-77.46900649999999"
-    },
-    {
-      "name": "Black Duck Bakery",
-      "distance": "1.0 mi",
-      "url": "https://www.google.com/maps/search/?api=1&query=Black%20Duck%20Bakery&query_place_id=ChIJkyWKbwDJ1okRLVlUoKAF8C4&center=43.2174988,-77.4889508"
-    },
-    {
-      "name": "Vals Cookies and Treats",
-      "distance": "1.2 mi",
-      "url": "https://www.google.com/maps/search/?api=1&query=Vals%20Cookies%20and%20Treats&query_place_id=ChIJW0euNSDQ1okRZ0jlvXfQAtc&center=43.2042353,-77.4862175"
-    },
-    {
-      "name": "Fleur Sourdough Bakery",
-      "distance": "1.4 mi",
-      "url": "https://www.google.com/maps/search/?api=1&query=Fleur%20Sourdough%20Bakery&query_place_id=ChIJC6IL73nP1okRtbNiTcYPHFM&center=43.196282599999996,-77.46527619999999"
     }
   ],
   "dinner": [
-    {
-      "name": "BJ's Bakery",
-      "distance": "0.4 mi",
-      "url": "https://www.google.com/maps/search/?api=1&query=BJ's%20Bakery&query_place_id=ChIJC40DBtTO1okR0_WlXBFHUV0&center=43.210837,-77.4661043"
-    },
     {
       "name": "Moon’s Thai & Myanmar Cuisine",
       "distance": "0.4 mi",
@@ -159,7 +139,7 @@
       "url": "https://www.google.com/maps/search/?api=1&query=Sunset%20Valley%20In%20Webster&query_place_id=ChIJ7STTEtPO1okRqryEHAR3Hh0&center=43.209637099999995,-77.4681763"
     },
     {
-      "name": "Holiday Inn Express & Suites Rochester Webster by IHG",
+      "name": "Holiday Inn Express & Suites Rochester Webster",
       "distance": "1.2 mi",
       "url": "https://www.google.com/maps/search/?api=1&query=Holiday%20Inn%20Express%20%26%20Suites%20Rochester%20Webster%20by%20IHG&query_place_id=ChIJA3LIrxjP1okRBnzGzX4ird8&center=43.2169536,-77.4452379"
     }

@@ -24,11 +24,6 @@
       "name": "Subway",
       "distance": "1.6 mi",
       "url": "https://www.google.com/maps/search/?api=1&query=Subway&query_place_id=ChIJoTmM0H1UNIgRxFwA0tvH_rA&center=40.260118999999996,-80.1814454"
-    },
-    {
-      "name": "Subway",
-      "distance": "1.6 mi",
-      "url": "https://www.google.com/maps/search/?api=1&query=Subway&query_place_id=ChIJP94G5KdWNIgR33bYlJpHwbw&center=40.2994753,-80.17443709999999"
     }
   ],
   "coffee": [
@@ -78,16 +73,6 @@
       "name": "Pan Wei Buffet & Grill",
       "distance": "1.2 mi",
       "url": "https://www.google.com/maps/search/?api=1&query=Pan%20Wei%20Buffet%20%26%20Grill&query_place_id=ChIJtbMXYmRUNIgRGD9vLrYk_9Q&center=40.263579299999996,-80.1736123"
-    },
-    {
-      "name": "Bartram House Bakery",
-      "distance": "1.9 mi",
-      "url": "https://www.google.com/maps/search/?api=1&query=Bartram%20House%20Bakery&query_place_id=ChIJZ5IuUrpVNIgR2wiDuPOf45k&center=40.2648186,-80.1308366"
-    },
-    {
-      "name": "Turner’s Treats",
-      "distance": "1.9 mi",
-      "url": "https://www.google.com/maps/search/?api=1&query=Turner%E2%80%99s%20Treats&query_place_id=ChIJLRilli1TNIgRMQ7B7vzjVok&center=40.268892,-80.196162"
     }
   ],
   "dinner": [
@@ -176,7 +161,7 @@
       "url": "https://www.google.com/maps/search/?api=1&query=Homewood%20Suites%20by%20Hilton%20Pittsburgh-Southpointe&query_place_id=ChIJPdbpIGtUNIgRqH2ReCEQrnQ&center=40.275852199999996,-80.16849599999999"
     },
     {
-      "name": "Holiday Inn Express & Suites Pittsburgh SW - Southpointe by IHG",
+      "name": "Holiday Inn Express & Suites Pittsburgh SW - Southpointe",
       "distance": "0.4 mi",
       "url": "https://www.google.com/maps/search/?api=1&query=Holiday%20Inn%20Express%20%26%20Suites%20Pittsburgh%20SW%20-%20Southpointe%20by%20IHG&query_place_id=ChIJ3ZNYxWpUNIgR6ZOFpAEjTi8&center=40.274499,-80.16935699999999"
     },

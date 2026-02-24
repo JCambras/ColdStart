@@ -43,7 +43,7 @@
       "url": "https://www.google.com/maps/search/?api=1&query=Breckenridge&query_place_id=ChIJKxEVegBZwokRe2qqGXbogfA&center=40.7140178,-73.9651463"
     },
     {
-      "name": "BDC CAFE",
+      "name": "Bdc Cafe",
       "distance": "0.1 mi",
       "url": "https://www.google.com/maps/search/?api=1&query=BDC%20CAFE&query_place_id=ChIJb3DHeVtZwokRgdtj0QpObqM&center=40.7147302,-73.9652625"
     }
@@ -68,11 +68,6 @@
       "name": "Alidoro",
       "distance": "0.4 mi",
       "url": "https://www.google.com/maps/search/?api=1&query=Alidoro&query_place_id=ChIJT4_yQtxZwokRy4MpQCM8xO8&center=40.716961399999995,-73.9617938"
-    },
-    {
-      "name": "Whole Foods Bakery",
-      "distance": "0.4 mi",
-      "url": "https://www.google.com/maps/search/?api=1&query=Whole%20Foods%20Bakery&query_place_id=ChIJ88ezHABZwokRy8mYl9jy4g8&center=40.7161098,-73.959803"
     }
   ],
   "dinner": [
@@ -149,13 +144,7 @@
       "url": "https://www.google.com/maps/search/?api=1&query=Underbelly%20Project&query_place_id=ChIJD35lLzBbwokR1YQh3kJtPCI&center=40.711773,-73.962499"
     }
   ],
-  "hotels": [
-    {
-      "name": "1south1",
-      "distance": "0.1 mi",
-      "url": "https://www.google.com/maps/search/?api=1&query=1south1&query_place_id=ChIJsxg_C4BZwokRH9CIgGU6Ee8&center=40.7157267,-73.966546"
-    }
-  ],
+  "hotels": [],
   "gas": [
     {
       "name": "Trans-Boro Fuel Oil Co",

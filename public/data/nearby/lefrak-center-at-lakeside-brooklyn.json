@@ -83,11 +83,6 @@
       "name": "Hai Sun",
       "distance": "0.2 mi",
       "url": "https://www.google.com/maps/search/?api=1&query=Hai%20Sun&query_place_id=ChIJw-XHqBRbwokR7_922xiFXuo&center=40.6575772,-73.9600679"
-    },
-    {
-      "name": "Cinnabon",
-      "distance": "0.3 mi",
-      "url": "https://www.google.com/maps/search/?api=1&query=Cinnabon&query_place_id=ChIJzXONlmNbwokRg525Uq5DCW8&center=40.655582599999995,-73.9596148"
     }
   ],
   "dinner": [
@@ -95,21 +90,6 @@
       "name": "Jakarta Munch Prospect Park",
       "distance": "0.1 mi",
       "url": "https://www.google.com/maps/search/?api=1&query=Jakarta%20Munch%20Prospect%20Park&query_place_id=ChIJp1bsO0xbwokRBbm0YcRkcDU&center=40.6587825,-73.9661856"
-    },
-    {
-      "name": "J & J Delicious Cakes",
-      "distance": "0.2 mi",
-      "url": "https://www.google.com/maps/search/?api=1&query=J%20%26%20J%20Delicious%20Cakes&query_place_id=ChIJBRifuxRbwokRD-bU6lHCnQ0&center=40.6571815,-73.9605129"
-    },
-    {
-      "name": "BLOSSOMING LOTUS CAKE SHOP",
-      "distance": "0.2 mi",
-      "url": "https://www.google.com/maps/search/?api=1&query=BLOSSOMING%20LOTUS%20CAKE%20SHOP&query_place_id=ChIJKaCOaxNbwokRC4S7yKmLoBM&center=40.6590451,-73.9612848"
-    },
-    {
-      "name": "Ouma Bakery and All Day Cafe",
-      "distance": "0.2 mi",
-      "url": "https://www.google.com/maps/search/?api=1&query=Ouma%20Bakery%20and%20All%20Day%20Cafe&query_place_id=ChIJkeJvLQBbwokRcB9XybkjTkY&center=40.6568648,-73.9603911"
     },
     {
       "name": "Taco azul... note: when it rains sometimes i dont open",
@@ -160,7 +140,7 @@
   ],
   "hotels": [
     {
-      "name": "parkside bed and breakfast brooklyn",
+      "name": "Parkside Bed And Breakfast Brooklyn",
       "distance": "0.1 mi",
       "url": "https://www.google.com/maps/search/?api=1&query=parkside%20bed%20and%20breakfast%20brooklyn&query_place_id=ChIJ7WQSghRbwokRrjmJpy1E818&center=40.6581587,-73.96214619999999"
     }

@@ -75,27 +75,12 @@
       "url": "https://www.google.com/maps/search/?api=1&query=Long%20Island%20Bagel%20Cafe&query_place_id=ChIJ23TvGOQ56IkRrQASiIQa31A&center=40.833053899999996,-73.14814439999999"
     },
     {
-      "name": "Paws & Claws Bakery",
-      "distance": "1.8 mi",
-      "url": "https://www.google.com/maps/search/?api=1&query=Paws%20%26%20Claws%20Bakery&query_place_id=ChIJ1ehxIoM36IkRmEPADPAVX0c&center=40.8199446,-73.1317511"
-    },
-    {
       "name": "Brendel's Bagels-Catering Long Island",
       "distance": "2.1 mi",
       "url": "https://www.google.com/maps/search/?api=1&query=Brendel's%20Bagels-Catering%20Long%20Island&query_place_id=ChIJKdoD8L0w6IkRFpTUfrwgKXY&center=40.824920999999996,-73.205079"
-    },
-    {
-      "name": "Panepinto Bakery",
-      "distance": "2.2 mi",
-      "url": "https://www.google.com/maps/search/?api=1&query=Panepinto%20Bakery&query_place_id=ChIJVTWZySM56IkR7b98qBQ1vy8&center=40.8495346,-73.17048120000001"
     }
   ],
   "dinner": [
-    {
-      "name": "BJ's Bakery",
-      "distance": "0.5 mi",
-      "url": "https://www.google.com/maps/search/?api=1&query=BJ's%20Bakery&query_place_id=ChIJ85306z836IkRPJcAk62M2cQ&center=40.811549299999996,-73.1606516"
-    },
     {
       "name": "Kings Deli And Taqueria",
       "distance": "0.7 mi",
@@ -185,16 +170,6 @@
       "name": "Jake's 58 Casino Hotel",
       "distance": "0.5 mi",
       "url": "https://www.google.com/maps/search/?api=1&query=Jake's%2058%20Casino%20Hotel&query_place_id=ChIJc-iIFzk36IkRwR5QBF5qYPQ&center=40.810505,-73.1660287"
-    },
-    {
-      "name": "Tranquil & Pet-friendly Estate on Long Island!",
-      "distance": "1.1 mi",
-      "url": "https://www.google.com/maps/search/?api=1&query=Tranquil%20%26%20Pet-friendly%20Estate%20on%20Long%20Island!&query_place_id=ChIJe21I7bMw6IkR2CmocwHKlUM&center=40.822177,-73.18663"
-    },
-    {
-      "name": "Tranquil & Pet-Friendly Estate on Long Island!",
-      "distance": "1.1 mi",
-      "url": "https://www.google.com/maps/search/?api=1&query=Tranquil%20%26%20Pet-Friendly%20Estate%20on%20Long%20Island!&query_place_id=ChIJYw1I7bMw6IkR_DeoD06uOTA&center=40.8221779,-73.1866302"
     }
   ],
   "gas": [
@@ -212,11 +187,6 @@
       "name": "bp",
       "distance": "1.2 mi",
       "url": "https://www.google.com/maps/search/bp+near+40.8180165%2C-73.1664909"
-    },
-    {
-      "name": "BP",
-      "distance": "1.2 mi",
-      "url": "https://www.google.com/maps/search/BP+near+40.8180165%2C-73.1664909"
     }
   ]
 }

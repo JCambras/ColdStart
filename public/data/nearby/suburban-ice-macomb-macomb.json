@@ -33,7 +33,7 @@
   ],
   "coffee": [
     {
-      "name": "BIGGBY COFFEE",
+      "name": "Biggby Coffee",
       "distance": "2.2 mi",
       "url": "https://www.google.com/maps/search/?api=1&query=BIGGBY%20COFFEE&query_place_id=ChIJw7xljlnhJIgRBS5SvRUnblw&center=42.7156977,-82.95890949999999"
     },
@@ -43,25 +43,7 @@
       "url": "https://www.google.com/maps/search/?api=1&query=Tim%20Hortons&query_place_id=ChIJr3-gQADhJIgReMMphGpXbok&center=42.7154259,-82.96041989999999"
     }
   ],
-  "team_lunch": [
-    {
-      "name": "Kroger Bakery",
-      "distance": "2.3 mi",
-      "url": "https://www.google.com/maps/search/?api=1&query=Kroger%20Bakery&query_place_id=ChIJZRkngGXhJIgRe5kQu2nQWnA&center=42.7141489,-82.9631035"
-    },
-    {
-      "name": "Kroger Bakery",
-      "distance": "3.4 mi",
-      "url": "https://www.google.com/maps/search/?api=1&query=Kroger%20Bakery&query_place_id=ChIJJWxcgcHgJIgRu-43z9MItpk&center=42.6738814,-82.9768861",
-      "isFar": true
-    },
-    {
-      "name": "Kroger Bakery",
-      "distance": "4.0 mi",
-      "url": "https://www.google.com/maps/search/?api=1&query=Kroger%20Bakery&query_place_id=ChIJxxqbeAIgJYgREXS27wL9lRY&center=42.644962199999995,-82.8985293",
-      "isFar": true
-    }
-  ],
+  "team_lunch": [],
   "dinner": [
     {
       "name": "Rudy's Kit Kat Klub",

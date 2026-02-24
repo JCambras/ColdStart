@@ -41,11 +41,6 @@
       "url": "https://www.google.com/maps/search/?api=1&query=PrimoHoagies&query_place_id=ChIJ12PPpMnBxokRyMMtKLky9ec&center=39.972825199999996,-75.3200944"
     },
     {
-      "name": "Wawa",
-      "distance": "1.3 mi",
-      "url": "https://www.google.com/maps/search/?api=1&query=Wawa&query_place_id=ChIJQW1CMfHBxokRERpQ7jrwRo4&center=39.9454328,-75.3256363"
-    },
-    {
       "name": "Jersey Mike's Subs",
       "distance": "1.3 mi",
       "url": "https://www.google.com/maps/search/?api=1&query=Jersey%20Mike's%20Subs&query_place_id=ChIJzckGGRjBxokRKobaET5sXjs&center=39.946420599999996,-75.3231971"
@@ -83,19 +78,9 @@
       "url": "https://www.google.com/maps/search/?api=1&query=Manhattan%20Bagel&query_place_id=ChIJK2CEmMnBxokRr3bcNftmWOc&center=39.974254099999996,-75.32216919999999"
     },
     {
-      "name": "Wawa",
-      "distance": "1.3 mi",
-      "url": "https://www.google.com/maps/search/?api=1&query=Wawa&query_place_id=ChIJQW1CMfHBxokRERpQ7jrwRo4&center=39.9454328,-75.3256363"
-    },
-    {
       "name": "Krispy Kreme",
       "distance": "1.3 mi",
       "url": "https://www.google.com/maps/search/?api=1&query=Krispy%20Kreme&query_place_id=ChIJ0QV0fsnBxokR9XNQzwsBRFo&center=39.973960399999996,-75.3206673"
-    },
-    {
-      "name": "McDonald's",
-      "distance": "1.3 mi",
-      "url": "https://www.google.com/maps/search/?api=1&query=McDonald's&query_place_id=ChIJBUTW2snBxokRUibPu64YMuc&center=39.9724686,-75.3184247"
     }
   ],
   "team_lunch": [
@@ -133,11 +118,6 @@
       "name": "Wolf's Superior Sandwiches Havertown",
       "distance": "1.3 mi",
       "url": "https://www.google.com/maps/search/?api=1&query=Wolf's%20Superior%20Sandwiches%20Havertown&query_place_id=ChIJzWwYzE7BxokRjIZByqOjjc8&center=39.972228,-75.3196432"
-    },
-    {
-      "name": "Philadelphia bakery",
-      "distance": "1.6 mi",
-      "url": "https://www.google.com/maps/search/?api=1&query=Philadelphia%20bakery&query_place_id=ChIJGfsTNQDBxokRJxxbfcQQKps&center=39.976354199999996,-75.31493019999999"
     }
   ],
   "dinner": [
@@ -162,7 +142,7 @@
       "url": "https://www.google.com/maps/search/?api=1&query=Crumbl&query_place_id=ChIJnUYVcUTrxokRUYXeQRsyxS4&center=39.961827899999996,-75.356163"
     },
     {
-      "name": "honeygrow",
+      "name": "Honeygrow",
       "distance": "0.9 mi",
       "url": "https://www.google.com/maps/search/?api=1&query=honeygrow&query_place_id=ChIJ61iYZqXrxokRcR76fDBx3GQ&center=39.962175699999996,-75.3563492"
     },

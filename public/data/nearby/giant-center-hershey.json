@@ -24,11 +24,6 @@
       "name": "Subway",
       "distance": "0.8 mi",
       "url": "https://www.google.com/maps/search/?api=1&query=Subway&query_place_id=ChIJUflcVAC7yIkRhRN0WSlw67E&center=40.2894935,-76.6550427"
-    },
-    {
-      "name": "Subway",
-      "distance": "0.8 mi",
-      "url": "https://www.google.com/maps/search/?api=1&query=Subway&query_place_id=ChIJf1fBVjq7yIkRKjhxNG4Qjak&center=40.2895058,-76.6550132"
     }
   ],
   "coffee": [
@@ -55,11 +50,6 @@
   ],
   "team_lunch": [
     {
-      "name": "The Chocolatier",
-      "distance": "0.6 mi",
-      "url": "https://www.google.com/maps/search/?api=1&query=The%20Chocolatier&query_place_id=ChIJWbD0EPG7yIkRgJFxBy2V_Ps&center=40.287919099999996,-76.6585327"
-    },
-    {
       "name": "Dispatch Pizzeria - Founder’s Way",
       "distance": "0.7 mi",
       "url": "https://www.google.com/maps/search/?api=1&query=Dispatch%20Pizzeria%20-%20Founder%E2%80%99s%20Way&query_place_id=ChIJbX9wBUK7yIkRfJevqU13gl8&center=40.2871808,-76.6567592"
@@ -70,27 +60,12 @@
       "url": "https://www.google.com/maps/search/?api=1&query=1906%20Grill&query_place_id=ChIJTxDpWim7yIkR4YSwJeD9AuM&center=40.287500699999995,-76.65587909999999"
     },
     {
-      "name": "Kosher Food Truck",
-      "distance": "0.8 mi",
-      "url": "https://www.google.com/maps/search/?api=1&query=Kosher%20Food%20Truck&query_place_id=ChIJuQ-f2lC7yIkREO07Y_8fsfU&center=40.286455,-76.6548291"
-    },
-    {
-      "name": "Harvest Gourmet Bakery",
-      "distance": "0.8 mi",
-      "url": "https://www.google.com/maps/search/?api=1&query=Harvest%20Gourmet%20Bakery&query_place_id=ChIJVeE78LC7yIkRE1R_NxEzKPc&center=40.282492,-76.6554049"
-    },
-    {
       "name": "Philly Cheesesteak Co. on the roll",
       "distance": "0.8 mi",
       "url": "https://www.google.com/maps/search/?api=1&query=Philly%20Cheesesteak%20Co.%20on%20the%20roll&query_place_id=ChIJkRA4t4m7yIkRw5SfVCnN2LI&center=40.2896699,-76.65492189999999"
     }
   ],
   "dinner": [
-    {
-      "name": "The Bakery",
-      "distance": "0.4 mi",
-      "url": "https://www.google.com/maps/search/?api=1&query=The%20Bakery&query_place_id=ChIJS5m6TrG7yIkR_AgUH5VCpDU&center=40.2884107,-76.66148629999999"
-    },
     {
       "name": "The Mill in Hershey",
       "distance": "0.5 mi",
@@ -102,19 +77,9 @@
       "url": "https://www.google.com/maps/search/?api=1&query=Hidden%20Still%20Spirits&query_place_id=ChIJkzngT6W7yIkRETUAPrmm0eQ&center=40.2827105,-76.6606522"
     },
     {
-      "name": "Chocolatetown Treats",
-      "distance": "0.6 mi",
-      "url": "https://www.google.com/maps/search/?api=1&query=Chocolatetown%20Treats&query_place_id=ChIJD51TNgS7yIkRw-OwtuO2YNQ&center=40.2881023,-76.65887169999999"
-    },
-    {
       "name": "Bagel Lovers @ Fresh Market",
       "distance": "0.8 mi",
       "url": "https://www.google.com/maps/search/?api=1&query=Bagel%20Lovers%20%40%20Fresh%20Market&query_place_id=ChIJrbRhp8u7yIkRXBLj7EZjGrk&center=40.2853493,-76.6538947"
-    },
-    {
-      "name": "East Coast Mini Donuts",
-      "distance": "0.8 mi",
-      "url": "https://www.google.com/maps/search/?api=1&query=East%20Coast%20Mini%20Donuts&query_place_id=ChIJNfZVSsa7yIkRnSDJlsJYeVk&center=40.2911989,-76.6546443"
     }
   ],
   "bowling": [],
@@ -144,11 +109,6 @@
   ],
   "hotels": [
     {
-      "name": "1 Mi to Hersheypark: Family Home w / Game Room!",
-      "distance": "0.5 mi",
-      "url": "https://www.google.com/maps/search/?api=1&query=1%20Mi%20to%20Hersheypark%3A%20Family%20Home%20w%20%2F%20Game%20Room!&query_place_id=ChIJve7TnGm7yIkRF3lbk4nk3LI&center=40.2800789,-76.6670532"
-    },
-    {
       "name": "Chocolate Avenue Charms",
       "distance": "0.5 mi",
       "url": "https://www.google.com/maps/search/?api=1&query=Chocolate%20Avenue%20Charms&query_place_id=ChIJQX4GokG7yIkRmbTCWG0XXQQ&center=40.2813911,-76.6618805"
@@ -157,16 +117,6 @@
       "name": "Chocolate Avenue Charm",
       "distance": "0.5 mi",
       "url": "https://www.google.com/maps/search/?api=1&query=Chocolate%20Avenue%20Charm&query_place_id=ChIJQX4GokG7yIkRQQqXTnA2Odo&center=40.2813911,-76.6618805"
-    },
-    {
-      "name": "1 Mi to Hersheypark: Family Home w/ Game Room!",
-      "distance": "0.6 mi",
-      "url": "https://www.google.com/maps/search/?api=1&query=1%20Mi%20to%20Hersheypark%3A%20Family%20Home%20w%2F%20Game%20Room!&query_place_id=ChIJr5sC-2i7yIkRT8NIKrnnL4c&center=40.2778358,-76.667839"
-    },
-    {
-      "name": "1 Mi to Hersheypark Family Home with Game Room!",
-      "distance": "0.6 mi",
-      "url": "https://www.google.com/maps/search/?api=1&query=1%20Mi%20to%20Hersheypark%20Family%20Home%20with%20Game%20Room!&query_place_id=ChIJ9Vfh-mi7yIkRKTPia2oXGC0&center=40.2778205,-76.6678695"
     }
   ],
   "gas": [

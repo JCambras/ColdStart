@@ -48,12 +48,7 @@
       "url": "https://www.google.com/maps/search/?api=1&query=Panera%20Bread&query_place_id=ChIJEUZwLJa0GYgR2HrZYrRv1nw&center=42.845940299999995,-85.6222469"
     },
     {
-      "name": "Starbucks Coffee Company",
-      "distance": "0.3 mi",
-      "url": "https://www.google.com/maps/search/?api=1&query=Starbucks%20Coffee%20Company&query_place_id=ChIJd167MJi0GYgR0a6sTLXweGI&center=42.848710000000004,-85.62577"
-    },
-    {
-      "name": "BIGGBY COFFEE",
+      "name": "Biggby Coffee",
       "distance": "0.3 mi",
       "url": "https://www.google.com/maps/search/?api=1&query=BIGGBY%20COFFEE&query_place_id=ChIJYzRJI5-0GYgRtsj5UrPvoLM&center=42.852882199999996,-85.6239657"
     }
@@ -82,29 +77,9 @@
   ],
   "dinner": [
     {
-      "name": "Auntie Anne's",
-      "distance": "0.2 mi",
-      "url": "https://www.google.com/maps/search/Auntie%20Anne's+near+42.8495644%2C-85.62034299999999"
-    },
-    {
-      "name": "Meijer Bakery",
-      "distance": "0.2 mi",
-      "url": "https://www.google.com/maps/search/Meijer%20Bakery+near+42.8495644%2C-85.62034299999999"
-    },
-    {
-      "name": "Cinnabon",
-      "distance": "0.2 mi",
-      "url": "https://www.google.com/maps/search/Cinnabon+near+42.8495644%2C-85.62034299999999"
-    },
-    {
       "name": "Jaku Sushi & Grill",
       "distance": "0.3 mi",
       "url": "https://www.google.com/maps/search/Jaku%20Sushi%20%26%20Grill+near+42.8495644%2C-85.62034299999999"
-    },
-    {
-      "name": "Power of the Tongue Tasty Treats Catering Service",
-      "distance": "0.3 mi",
-      "url": "https://www.google.com/maps/search/Power%20of%20the%20Tongue%20Tasty%20Treats%20Catering%20Service+near+42.8495644%2C-85.62034299999999"
     }
   ],
   "bowling": [
@@ -162,7 +137,7 @@
   ],
   "hotels": [
     {
-      "name": "Staybridge Suites Grand Rapids South, an IHG Hotel",
+      "name": "Staybridge Suites Grand Rapids South",
       "distance": "0.4 mi",
       "url": "https://www.google.com/maps/search/Staybridge%20Suites%20Grand%20Rapids%20South%2C%20an%20IHG%20Hotel+near+42.8495644%2C-85.62034299999999"
     }

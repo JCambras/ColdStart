@@ -55,11 +55,6 @@
       "url": "https://www.google.com/maps/search/?api=1&query=The%20Eatery&query_place_id=ChIJeXBfQDBTNIgRvK_-w2NgqV8&center=40.2205301,-80.2024816"
     },
     {
-      "name": "Zen",
-      "distance": "0.7 mi",
-      "url": "https://www.google.com/maps/search/?api=1&query=Zen&query_place_id=ChIJ7RWErJtTNIgRZV_MXI7B6gs&center=40.2205301,-80.2024816"
-    },
-    {
       "name": "PITWC The Bistro - Eat. Drink. Connect.",
       "distance": "0.7 mi",
       "url": "https://www.google.com/maps/search/?api=1&query=PITWC%20The%20Bistro%20-%20Eat.%20Drink.%20Connect.&query_place_id=ChIJZ0TLtpitNYgRSQTd2RP3Xvs&center=40.218623099999995,-80.20906339999999"
@@ -68,16 +63,6 @@
       "name": "Maxwell's",
       "distance": "0.8 mi",
       "url": "https://www.google.com/maps/search/?api=1&query=Maxwell's&query_place_id=ChIJvwszobSsNYgRo-Mn1cPW_-s&center=40.2187846,-80.2039855"
-    },
-    {
-      "name": "Auntie Anne's",
-      "distance": "0.9 mi",
-      "url": "https://www.google.com/maps/search/?api=1&query=Auntie%20Anne's&query_place_id=ChIJjawZQsqsNYgR0NNTmZj_OQM&center=40.217026000000004,-80.21164999999999"
-    },
-    {
-      "name": "Turner’s Treats",
-      "distance": "2.8 mi",
-      "url": "https://www.google.com/maps/search/?api=1&query=Turner%E2%80%99s%20Treats&query_place_id=ChIJLRilli1TNIgRMQ7B7vzjVok&center=40.268892,-80.196162"
     }
   ],
   "dinner": [
@@ -85,11 +70,6 @@
       "name": "Big Guys Pizza",
       "distance": "0.6 mi",
       "url": "https://www.google.com/maps/search/?api=1&query=Big%20Guys%20Pizza&query_place_id=ChIJe5uk4CdTNIgRCf6dFXYso3s&center=40.223068100000006,-80.2175948"
-    },
-    {
-      "name": "Lori's gourmet cookies",
-      "distance": "0.8 mi",
-      "url": "https://www.google.com/maps/search/?api=1&query=Lori's%20gourmet%20cookies&query_place_id=ChIJnyVDQShTNIgRJ6uvK7wIO5c&center=40.228975299999995,-80.2245938"
     },
     {
       "name": "Bistecca Steakhouse & Wine Bar",
@@ -157,7 +137,7 @@
   ],
   "hotels": [
     {
-      "name": "Candlewood Suites Washington North by IHG",
+      "name": "Candlewood Suites Washington North",
       "distance": "0.3 mi",
       "url": "https://www.google.com/maps/search/?api=1&query=Candlewood%20Suites%20Washington%20North%20by%20IHG&query_place_id=ChIJ47wcCTZTNIgRUHlx9HnOu-g&center=40.2257667,-80.2112714"
     },
@@ -172,7 +152,7 @@
       "url": "https://www.google.com/maps/search/?api=1&query=Comfort%20Inn%20Meadowlands&query_place_id=ChIJpRL_5TVTNIgRIFHcwLKxKrM&center=40.224016,-80.21079"
     },
     {
-      "name": "Holiday Inn Express & Suites Washington - Meadow Lands, an IHG Hotel",
+      "name": "Holiday Inn Express & Suites Washington - Meadow Lands",
       "distance": "0.4 mi",
       "url": "https://www.google.com/maps/search/?api=1&query=Holiday%20Inn%20Express%20%26%20Suites%20Washington%20-%20Meadow%20Lands%2C%20an%20IHG%20Hotel&query_place_id=ChIJNXth5DVTNIgRc5pZUBazI5M&center=40.2239249,-80.20668169999999"
     },

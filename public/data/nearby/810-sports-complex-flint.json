@@ -48,7 +48,7 @@
       "url": "https://www.google.com/maps/search/?api=1&query=Fireside%20Coffee%20Co&query_place_id=ChIJVaYv3lF2I4gRVviyhlxhhMM&center=42.9797382,-83.8107876"
     },
     {
-      "name": "BAYT & BREW",
+      "name": "Bayt & Brew",
       "distance": "2.2 mi",
       "url": "https://www.google.com/maps/search/?api=1&query=BAYT%20%26%20BREW&query_place_id=ChIJ4-SOFWp3I4gRIaqnCuxSzWs&center=43.0031743,-83.7715735"
     }
@@ -73,17 +73,6 @@
       "name": "Mega Classic Diner",
       "distance": "2.3 mi",
       "url": "https://www.google.com/maps/search/?api=1&query=Mega%20Classic%20Diner&query_place_id=ChIJgynV_vx3I4gRPSLTpXL_lS4&center=43.0024419,-83.7705745"
-    },
-    {
-      "name": "Lighthouse Sweets Shop",
-      "distance": "2.5 mi",
-      "url": "https://www.google.com/maps/search/?api=1&query=Lighthouse%20Sweets%20Shop&query_place_id=ChIJeRSp-QWdI4gR5Sfef-JKHto&center=43.0294563,-83.7713603"
-    },
-    {
-      "name": "Meijer Bakery",
-      "distance": "3.0 mi",
-      "url": "https://www.google.com/maps/search/?api=1&query=Meijer%20Bakery&query_place_id=ChIJh_irx4t3I4gRoQNMAZ_93qM&center=42.968217599999996,-83.82689340000002",
-      "isFar": true
     }
   ],
   "dinner": [
@@ -156,11 +145,6 @@
     }
   ],
   "hotels": [
-    {
-      "name": "Egg Inc",
-      "distance": "0.1 mi",
-      "url": "https://www.google.com/maps/search/Egg%20Inc+near+43.0112861%2C-83.81369389999999"
-    },
     {
       "name": "SNS Rentals 101",
       "distance": "2.0 mi",

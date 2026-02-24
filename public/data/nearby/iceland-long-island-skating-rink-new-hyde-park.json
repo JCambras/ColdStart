@@ -65,19 +65,9 @@
       "url": "https://www.google.com/maps/search/?api=1&query=Sushi%20Republic&query_place_id=ChIJ0RvLAQSIwokRhHs6DZJr7wI&center=40.753389399999996,-73.65931309999999"
     },
     {
-      "name": "Polito Bakery",
-      "distance": "0.1 mi",
-      "url": "https://www.google.com/maps/search/?api=1&query=Polito%20Bakery&query_place_id=ChIJm7yDqgaIwokRFJFbstdtiRw&center=40.753389399999996,-73.65931309999999"
-    },
-    {
       "name": "Happy Garden",
       "distance": "0.2 mi",
       "url": "https://www.google.com/maps/search/?api=1&query=Happy%20Garden&query_place_id=ChIJY7qYJgeIwokRE6oaCQwZYN8&center=40.754253999999996,-73.656806"
-    },
-    {
-      "name": "Bagel Lab Bakery & Deli",
-      "distance": "0.8 mi",
-      "url": "https://www.google.com/maps/search/?api=1&query=Bagel%20Lab%20Bakery%20%26%20Deli&query_place_id=ChIJQ30ek-RjwokRZm7lJ2V3c28&center=40.742170099999996,-73.6622898"
     }
   ],
   "dinner": [
@@ -173,11 +163,6 @@
   ],
   "hotels": [
     {
-      "name": "SKY WORLD TOUR CORP.",
-      "distance": "1.2 mi",
-      "url": "https://www.google.com/maps/search/?api=1&query=SKY%20WORLD%20TOUR%20CORP.&query_place_id=ChIJhZ_zzqNjwokR0Qk5ED31AQc&center=40.7370296,-73.66701239999999"
-    },
-    {
       "name": "Margi Reed Enterprises",
       "distance": "1.3 mi",
       "url": "https://www.google.com/maps/search/?api=1&query=Margi%20Reed%20Enterprises&query_place_id=ChIJ3wpV8lh9wokRfddp40l9e4Q&center=40.743735199999996,-73.6383463"
@@ -195,7 +180,7 @@
       "url": "https://www.google.com/maps/search/Gulf+near+40.753325499999995%2C-73.6598904"
     },
     {
-      "name": "G-FULL FULL SERVICE",
+      "name": "G-full Full Service",
       "distance": "0.7 mi",
       "url": "https://www.google.com/maps/search/G-FULL%20FULL%20SERVICE+near+40.753325499999995%2C-73.6598904"
     },

@@ -1,7 +1,7 @@
 {
   "quick_bite": [
     {
-      "name": "BWW GR1",
+      "name": "BWW Gr1",
       "distance": "0.3 mi",
       "url": "https://www.google.com/maps/search/?api=1&query=BWW%20GR1&query_place_id=ChIJ22KI0sayGYgR_m3qtjUrz1I&center=42.9133895,-85.61763789999999"
     },
@@ -24,11 +24,6 @@
       "name": "Subway",
       "distance": "0.6 mi",
       "url": "https://www.google.com/maps/search/?api=1&query=Subway&query_place_id=ChIJW0gXmO6yGYgRrVqLr2JATPo&center=42.911305999999996,-85.6288572"
-    },
-    {
-      "name": "Subway",
-      "distance": "0.7 mi",
-      "url": "https://www.google.com/maps/search/?api=1&query=Subway&query_place_id=ChIJdXFfFMmyGYgRuooEBzW8YrY&center=42.9129906,-85.6087718"
     }
   ],
   "coffee": [
@@ -40,11 +35,6 @@
   ],
   "team_lunch": [
     {
-      "name": "Meijer Bakery",
-      "distance": "0.7 mi",
-      "url": "https://www.google.com/maps/search/?api=1&query=Meijer%20Bakery&query_place_id=ChIJ_01kch2zGYgR36u9s_MZNg8&center=42.9109047,-85.62919409999999"
-    },
-    {
       "name": "Palermo Pizza",
       "distance": "0.7 mi",
       "url": "https://www.google.com/maps/search/?api=1&query=Palermo%20Pizza&query_place_id=ChIJc1fIm86yGYgRmDuz5LdRbv8&center=42.9113836,-85.6092713"
@@ -53,21 +43,6 @@
       "name": "CoreLife Eatery",
       "distance": "0.9 mi",
       "url": "https://www.google.com/maps/search/?api=1&query=CoreLife%20Eatery&query_place_id=ChIJoe5bq6CzGYgR60hysEhB5RI&center=42.927372399999996,-85.60798799999999"
-    },
-    {
-      "name": "Donut Dohjo",
-      "distance": "1.0 mi",
-      "url": "https://www.google.com/maps/search/?api=1&query=Donut%20Dohjo&query_place_id=ChIJsQOcAACzGYgRKXp2g7yBRSQ&center=42.9294862,-85.6079584"
-    },
-    {
-      "name": "Ashirvad Bakery Help Corporation",
-      "distance": "1.3 mi",
-      "url": "https://www.google.com/maps/search/?api=1&query=Ashirvad%20Bakery%20Help%20Corporation&query_place_id=ChIJJy-JNQizGYgRCf6dQ7x-97E&center=42.9012861,-85.60735220000001"
-    },
-    {
-      "name": "Whole Foods Bakery",
-      "distance": "1.5 mi",
-      "url": "https://www.google.com/maps/search/?api=1&query=Whole%20Foods%20Bakery&query_place_id=ChIJl7rQWABNGIgRYB3zvJj3oKE&center=42.9110897,-85.5923323"
     }
   ],
   "dinner": [
@@ -145,7 +120,7 @@
       "url": "https://www.google.com/maps/search/Alger%20Park%20Splash%20Pad+near+42.917707799999995%2C-85.6199647"
     },
     {
-      "name": "FUNBOX GRAND RAPIDS",
+      "name": "Funbox Grand Rapids",
       "distance": "1.5 mi",
       "url": "https://www.google.com/maps/search/FUNBOX%20GRAND%20RAPIDS+near+42.917707799999995%2C-85.6199647"
     },
@@ -160,18 +135,7 @@
       "url": "https://www.google.com/maps/search/Battle%20Front%20Gaming+near+42.917707799999995%2C-85.6199647"
     }
   ],
-  "hotels": [
-    {
-      "name": "Usic",
-      "distance": "1.0 mi",
-      "url": "https://www.google.com/maps/search/Usic+near+42.917707799999995%2C-85.6199647"
-    },
-    {
-      "name": "Jennilee Roberts",
-      "distance": "1.6 mi",
-      "url": "https://www.google.com/maps/search/Jennilee%20Roberts+near+42.917707799999995%2C-85.6199647"
-    }
-  ],
+  "hotels": [],
   "gas": [
     {
       "name": "Shell",

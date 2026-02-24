@@ -43,11 +43,6 @@
       "url": "https://www.google.com/maps/search/?api=1&query=Dunkin'&query_place_id=ChIJucQAxiKNwokRm0Xzv_bL2y4&center=40.900759099999995,-73.8194635"
     },
     {
-      "name": "Dunkin'",
-      "distance": "0.4 mi",
-      "url": "https://www.google.com/maps/search/?api=1&query=Dunkin'&query_place_id=ChIJPwqLTCGNwokRJQdQplnVM5Q&center=40.8942408,-73.82369539999999"
-    },
-    {
       "name": "Lenny's Bagels",
       "distance": "0.8 mi",
       "url": "https://www.google.com/maps/search/?api=1&query=Lenny's%20Bagels&query_place_id=ChIJHfVlPgWNwokRCCgA2N7oqaM&center=40.8959306,-73.8052843"
@@ -55,27 +50,12 @@
   ],
   "team_lunch": [
     {
-      "name": "A & M Bronx Baking Inc",
-      "distance": "0.1 mi",
-      "url": "https://www.google.com/maps/search/?api=1&query=A%20%26%20M%20Bronx%20Baking%20Inc&query_place_id=ChIJCXb2gkCNwokROh5FBauwQU4&center=40.9003136,-73.8205267"
-    },
-    {
       "name": "Crab Du Jour Xpress Cajun Seafood",
       "distance": "0.1 mi",
       "url": "https://www.google.com/maps/search/?api=1&query=Crab%20Du%20Jour%20Xpress%20Cajun%20Seafood&query_place_id=ChIJ5aMWtQuNwokRcamjC-zvOVA&center=40.900804,-73.8197589"
-    },
-    {
-      "name": "Royal Caribbean Bakery",
-      "distance": "1.0 mi",
-      "url": "https://www.google.com/maps/search/?api=1&query=Royal%20Caribbean%20Bakery&query_place_id=ChIJq80-cteMwokR-0nYCK4Lcaw&center=40.8882196,-73.8315837"
     }
   ],
   "dinner": [
-    {
-      "name": "KPV LLC",
-      "distance": "0.1 mi",
-      "url": "https://www.google.com/maps/search/?api=1&query=KPV%20LLC&query_place_id=ChIJBfDd0yKNwokRPjtLhrXOtTQ&center=40.8993677,-73.820859"
-    },
     {
       "name": "Flaming Grill & Modern Buffet",
       "distance": "0.1 mi",
@@ -90,11 +70,6 @@
       "name": "BJ's",
       "distance": "0.3 mi",
       "url": "https://www.google.com/maps/search/?api=1&query=BJ's&query_place_id=ChIJndg6Ux-NwokRpipvMMsJ_pE&center=40.8944938,-73.8181631"
-    },
-    {
-      "name": "Royal Caribbean Bakery",
-      "distance": "0.4 mi",
-      "url": "https://www.google.com/maps/search/?api=1&query=Royal%20Caribbean%20Bakery&query_place_id=ChIJU-6ngyaNwokR72Hr_Au7U-w&center=40.897571299999996,-73.8257448"
     }
   ],
   "bowling": [

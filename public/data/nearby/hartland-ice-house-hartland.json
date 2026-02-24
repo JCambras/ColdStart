@@ -33,7 +33,7 @@
   ],
   "coffee": [
     {
-      "name": "BIGGBY COFFEE",
+      "name": "Biggby Coffee",
       "distance": "0.2 mi",
       "url": "https://www.google.com/maps/search/?api=1&query=BIGGBY%20COFFEE&query_place_id=ChIJvVjRAe1cI4gR1oy3hH86q-k&center=42.6364914,-83.7331172"
     },
@@ -65,24 +65,9 @@
       "url": "https://www.google.com/maps/search/?api=1&query=Leo's%20Coney%20Island%20Hartland&query_place_id=ChIJ69Tn-79cI4gRAlhWHnKPOJc&center=42.6342479,-83.738113"
     },
     {
-      "name": "Meijer Bakery",
-      "distance": "0.7 mi",
-      "url": "https://www.google.com/maps/search/?api=1&query=Meijer%20Bakery&query_place_id=ChIJuzJsRmldI4gR845j-bTENGs&center=42.6386786,-83.74415069999999"
-    },
-    {
       "name": "Ocean Star",
       "distance": "0.8 mi",
       "url": "https://www.google.com/maps/search/?api=1&query=Ocean%20Star&query_place_id=ChIJqZMtdr9cI4gRDl1TAzHsBxI&center=42.6324353,-83.74281409999999"
-    },
-    {
-      "name": "Kroger Bakery",
-      "distance": "1.2 mi",
-      "url": "https://www.google.com/maps/search/?api=1&query=Kroger%20Bakery&query_place_id=ChIJw6-J1LdcI4gRk8pNK1wypFo&center=42.634988899999996,-83.7543079"
-    },
-    {
-      "name": "Greenhouse Bakery",
-      "distance": "1.8 mi",
-      "url": "https://www.google.com/maps/search/?api=1&query=Greenhouse%20Bakery&query_place_id=ChIJ_7maaLRdI4gRfDl3-L8YX3M&center=42.6571814,-83.7541292"
     }
   ],
   "dinner": [
@@ -177,11 +162,6 @@
       "name": "Grand Motel",
       "distance": "0.6 mi",
       "url": "https://www.google.com/maps/search/Grand%20Motel+near+42.638583%2C-83.73022879999999"
-    },
-    {
-      "name": "Lakefront Hartland Cottage w/ Patio & Fire Pits!",
-      "distance": "0.9 mi",
-      "url": "https://www.google.com/maps/search/Lakefront%20Hartland%20Cottage%20w%2F%20Patio%20%26%20Fire%20Pits!+near+42.638583%2C-83.73022879999999"
     }
   ],
   "gas": [

@@ -70,11 +70,6 @@
       "url": "https://www.google.com/maps/search/?api=1&query=Woodward%20Coney%20Restaurant&query_place_id=ChIJjVtAiy8tO4gRpuHAWdBTBfs&center=42.3306262,-83.0456794"
     },
     {
-      "name": "Acropolis Bakery & Grocery Inc",
-      "distance": "0.2 mi",
-      "url": "https://www.google.com/maps/search/?api=1&query=Acropolis%20Bakery%20%26%20Grocery%20Inc&query_place_id=ChIJN2YqXi4tO4gR1Xpa36sFiOY&center=42.334040300000005,-83.0443753"
-    },
-    {
       "name": "Iggy's Eggies",
       "distance": "0.2 mi",
       "url": "https://www.google.com/maps/search/?api=1&query=Iggy's%20Eggies&query_place_id=ChIJ-2OJ1i4tO4gRgtq-6TFutzI&center=42.3338579,-83.0495332"
@@ -175,28 +170,7 @@
       "url": "https://www.google.com/maps/search/Nick%20Gilbert%20Way+near+42.331773899999995%2C-83.04652159999999"
     }
   ],
-  "hotels": [
-    {
-      "name": "Potf",
-      "distance": "0.1 mi",
-      "url": "https://www.google.com/maps/search/Potf+near+42.331773899999995%2C-83.04652159999999"
-    },
-    {
-      "name": "SLV",
-      "distance": "0.1 mi",
-      "url": "https://www.google.com/maps/search/SLV+near+42.331773899999995%2C-83.04652159999999"
-    },
-    {
-      "name": "Inkster mi 420 friendly pets ok gathering friendly",
-      "distance": "0.1 mi",
-      "url": "https://www.google.com/maps/search/Inkster%20mi%20420%20friendly%20pets%20ok%20gathering%20friendly+near+42.331773899999995%2C-83.04652159999999"
-    },
-    {
-      "name": "RVParkIQ",
-      "distance": "0.1 mi",
-      "url": "https://www.google.com/maps/search/RVParkIQ+near+42.331773899999995%2C-83.04652159999999"
-    }
-  ],
+  "hotels": [],
   "gas": [
     {
       "name": "bp",

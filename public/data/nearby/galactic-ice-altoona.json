@@ -60,19 +60,9 @@
       "url": "https://www.google.com/maps/search/?api=1&query=Clubhouse%20Grill&query_place_id=ChIJxerBXQCRy4kR_CVNy-mRW4o&center=40.4669491,-78.4006544"
     },
     {
-      "name": "Martin's Bakery",
-      "distance": "0.5 mi",
-      "url": "https://www.google.com/maps/search/?api=1&query=Martin's%20Bakery&query_place_id=ChIJIyhawEGRy4kRp9zBDNJiIsc&center=40.4740247,-78.40288559999999"
-    },
-    {
       "name": "The Burger Den",
       "distance": "0.6 mi",
       "url": "https://www.google.com/maps/search/?api=1&query=The%20Burger%20Den&query_place_id=ChIJr5th1WmRy4kRcxR6_rrBcRM&center=40.4692873,-78.40532929999999"
-    },
-    {
-      "name": "Giant Eagle Bakery",
-      "distance": "0.9 mi",
-      "url": "https://www.google.com/maps/search/?api=1&query=Giant%20Eagle%20Bakery&query_place_id=ChIJPySvEfKRy4kRiCZ3OqeyYAY&center=40.4840552,-78.3874555"
     }
   ],
   "dinner": [
@@ -151,16 +141,6 @@
   ],
   "hotels": [
     {
-      "name": "Half-mi to Lakemont Park: Family-friendly Home!",
-      "distance": "0.4 mi",
-      "url": "https://www.google.com/maps/search/?api=1&query=Half-mi%20to%20Lakemont%20Park%3A%20Family-friendly%20Home!&query_place_id=ChIJqaqGvWCRy4kREkZ-sPyfLnQ&center=40.474471,-78.388511"
-    },
-    {
-      "name": "Half-Mi to Lakemont Park: Family-Friendly Home!",
-      "distance": "0.4 mi",
-      "url": "https://www.google.com/maps/search/?api=1&query=Half-Mi%20to%20Lakemont%20Park%3A%20Family-Friendly%20Home!&query_place_id=ChIJgwGEvWCRy4kR_uoRlbna60E&center=40.474472,-78.3885117"
-    },
-    {
       "name": "Rodeway Inn Altoona Orchard Plaza",
       "distance": "0.5 mi",
       "url": "https://www.google.com/maps/search/?api=1&query=Rodeway%20Inn%20Altoona%20Orchard%20Plaza&query_place_id=ChIJFx7gqASRy4kR-SLOGoT5-Vg&center=40.4682632,-78.4027516"
@@ -171,7 +151,7 @@
       "url": "https://www.google.com/maps/search/?api=1&query=Super%208%20by%20Wyndham%20Altoona&query_place_id=ChIJJxfsH3qRy4kROT39tDz3qts&center=40.480847499999996,-78.3954653"
     },
     {
-      "name": "3535 fairway dr",
+      "name": "3535 Fairway dr",
       "distance": "0.6 mi",
       "url": "https://www.google.com/maps/search/?api=1&query=3535%20fairway%20dr&query_place_id=ChIJVebRLACRy4kRMJcM6eUcpWs&center=40.4808565,-78.3955541"
     }

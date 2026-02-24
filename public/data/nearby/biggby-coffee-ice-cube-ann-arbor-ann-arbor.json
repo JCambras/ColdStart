@@ -38,11 +38,6 @@
       "url": "https://www.google.com/maps/search/?api=1&query=Starbucks%20Coffee%20Company&query_place_id=ChIJQdEtkRiwPIgRX1YteumbphE&center=42.243719999999996,-83.76939"
     },
     {
-      "name": "Starbucks Coffee Company",
-      "distance": "1.1 mi",
-      "url": "https://www.google.com/maps/search/?api=1&query=Starbucks%20Coffee%20Company&query_place_id=ChIJP_rLOh-wPIgRKBnlOjMUfjk&center=42.241389999999996,-83.76804"
-    },
-    {
       "name": "Tim Hortons",
       "distance": "1.1 mi",
       "url": "https://www.google.com/maps/search/?api=1&query=Tim%20Hortons&query_place_id=ChIJdUtNIN-vPIgRnNxzoUyYd4s&center=42.2478431,-83.7595336"
@@ -70,24 +65,9 @@
       "url": "https://www.google.com/maps/search/?api=1&query=Texas%20Roadhouse&query_place_id=ChIJSQHl1R6wPIgRsF0MItc4Vgk&center=42.2416428,-83.7676269"
     },
     {
-      "name": "Whole Foods Bakery",
-      "distance": "1.1 mi",
-      "url": "https://www.google.com/maps/search/?api=1&query=Whole%20Foods%20Bakery&query_place_id=ChIJ30rBbQCvPIgR7HV3c4crDe4&center=42.2484951,-83.7580862"
-    },
-    {
-      "name": "Meijer Bakery",
-      "distance": "1.1 mi",
-      "url": "https://www.google.com/maps/search/?api=1&query=Meijer%20Bakery&query_place_id=ChIJTWJBtQyxPIgRioLe2uznn80&center=42.2411621,-83.7656899"
-    },
-    {
       "name": "DiBella's Subs",
       "distance": "1.2 mi",
       "url": "https://www.google.com/maps/search/?api=1&query=DiBella's%20Subs&query_place_id=ChIJkX1Tb96vPIgRJTVoPgGf1dw&center=42.2472388,-83.7572462"
-    },
-    {
-      "name": "Auntie Anne's",
-      "distance": "1.2 mi",
-      "url": "https://www.google.com/maps/search/?api=1&query=Auntie%20Anne's&query_place_id=ChIJU-tkL-qxPIgRY3QcbqLG-wM&center=42.239177999999995,-83.766483"
     }
   ],
   "dinner": [
@@ -112,7 +92,7 @@
       "url": "https://www.google.com/maps/search/First%20Watch+near+42.2545289%2C-83.7789566"
     },
     {
-      "name": "ARIRANG KOREAN RESTAURANT",
+      "name": "Arirang Korean Restaurant",
       "distance": "1.0 mi",
       "url": "https://www.google.com/maps/search/ARIRANG%20KOREAN%20RESTAURANT+near+42.2545289%2C-83.7789566"
     },
@@ -183,11 +163,6 @@
       "name": "Warm light-filled home with gym",
       "distance": "0.3 mi",
       "url": "https://www.google.com/maps/search/Warm%20light-filled%20home%20with%20gym+near+42.2545289%2C-83.7789566"
-    },
-    {
-      "name": "“MI CASA ES SU CASAANN ARBOR’S PREMIER EXECUTIVE RANCH! 1.7 MI TO THE BIG HOUSE",
-      "distance": "0.4 mi",
-      "url": "https://www.google.com/maps/search/%E2%80%9CMI%20CASA%20ES%20SU%20CASAANN%20ARBOR%E2%80%99S%20PREMIER%20EXECUTIVE%20RANCH!%201.7%20MI%20TO%20THE%20BIG%20HOUSE+near+42.2545289%2C-83.7789566"
     }
   ],
   "gas": [

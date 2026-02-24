@@ -24,11 +24,6 @@
       "name": "Burger King",
       "distance": "2.1 mi",
       "url": "https://www.google.com/maps/search/?api=1&query=Burger%20King&query_place_id=ChIJiVuX2NGUyIkR1v56zgUimSE&center=40.1523615,-76.8192273"
-    },
-    {
-      "name": "Subway",
-      "distance": "2.4 mi",
-      "url": "https://www.google.com/maps/search/?api=1&query=Subway&query_place_id=ChIJl2Snk8WUyIkRuLKFIa_YWNE&center=40.1495908,-76.8131767"
     }
   ],
   "coffee": [
@@ -60,20 +55,9 @@
       "url": "https://www.google.com/maps/search/?api=1&query=Urban%20Grain%20Company&query_place_id=ChIJuwhBiXuVyIkRyY8LE9iIkWk&center=40.1596814,-76.8130615"
     },
     {
-      "name": "Auntie Anne's",
-      "distance": "2.4 mi",
-      "url": "https://www.google.com/maps/search/?api=1&query=Auntie%20Anne's&query_place_id=ChIJ61OqdcWUyIkRUClpEMlS-Q8&center=40.1496199,-76.8132629"
-    },
-    {
       "name": "Nonna's Made From Scratch",
       "distance": "3.7 mi",
       "url": "https://www.google.com/maps/search/?api=1&query=Nonna's%20Made%20From%20Scratch&query_place_id=ChIJuSX4AnWVyIkRRIpVFf5FCaM&center=40.1705407,-76.7646532",
-      "isFar": true
-    },
-    {
-      "name": "Auntie Anne's",
-      "distance": "4.3 mi",
-      "url": "https://www.google.com/maps/search/?api=1&query=Auntie%20Anne's&query_place_id=ChIJE4MWQSe-yIkRb1qVEcZTbTk&center=40.1963669,-76.7550557",
       "isFar": true
     }
   ],
@@ -94,7 +78,7 @@
       "url": "https://www.google.com/maps/search/?api=1&query=Summit%20Restaurant&query_place_id=ChIJbeCmd9XqyIkRBZqMEcXQjOw&center=40.1652632,-76.8290779"
     },
     {
-      "name": "USA & I",
+      "name": "Usa & i",
       "distance": "1.7 mi",
       "url": "https://www.google.com/maps/search/?api=1&query=USA%20%26%20I&query_place_id=ChIJ-zsiNtGUyIkR5kHiTTm4fjE&center=40.1578795,-76.82019489999999"
     },
@@ -154,29 +138,14 @@
   ],
   "hotels": [
     {
-      "name": "1850s Restored Barn near Hershey, Harrisburg, Lancaster, Gettysburg, and Skiing",
-      "distance": "1.0 mi",
-      "url": "https://www.google.com/maps/search/?api=1&query=1850s%20Restored%20Barn%20near%20Hershey%2C%20Harrisburg%2C%20Lancaster%2C%20Gettysburg%2C%20and%20Skiing&query_place_id=ChIJrRox2jGVyIkR0XmN6oyAETs&center=40.1730308,-76.8181839"
-    },
-    {
       "name": "Canna Country Inn",
       "distance": "1.0 mi",
       "url": "https://www.google.com/maps/search/?api=1&query=Canna%20Country%20Inn&query_place_id=ChIJ20ds1zGVyIkRH5CSMn3mvU0&center=40.1730184,-76.8181834"
     },
     {
-      "name": "Tina's Dog House LLC",
-      "distance": "1.3 mi",
-      "url": "https://www.google.com/maps/search/?api=1&query=Tina's%20Dog%20House%20LLC&query_place_id=ChIJNwDqazyVyIkRPGPjpUmcvnk&center=40.1947182,-76.8179745"
-    },
-    {
       "name": "The Red Mill House",
       "distance": "2.0 mi",
       "url": "https://www.google.com/maps/search/?api=1&query=The%20Red%20Mill%20House&query_place_id=ChIJj8e8Yt-UyIkR4NnBOY9bw28&center=40.1612205,-76.806572"
-    },
-    {
-      "name": "Fish, Ski Explore: Townhome w / Decks in Etters!",
-      "distance": "2.0 mi",
-      "url": "https://www.google.com/maps/search/?api=1&query=Fish%2C%20Ski%20Explore%3A%20Townhome%20w%20%2F%20Decks%20in%20Etters!&query_place_id=ChIJNzNII9qUyIkRpWZNi3tm6fw&center=40.1563416,-76.8127136"
     }
   ],
   "gas": [

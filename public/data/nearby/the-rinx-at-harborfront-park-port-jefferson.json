@@ -83,11 +83,6 @@
       "name": "Island Empanada Express",
       "distance": "0.2 mi",
       "url": "https://www.google.com/maps/search/?api=1&query=Island%20Empanada%20Express&query_place_id=ChIJseG23i8_6IkRjq9BHzYRPAk&center=40.945642199999995,-73.0681831"
-    },
-    {
-      "name": "Dortoni Bakery",
-      "distance": "0.3 mi",
-      "url": "https://www.google.com/maps/search/?api=1&query=Dortoni%20Bakery&query_place_id=ChIJyT0Y6mVA6IkRdQwCVLM47_Y&center=40.945648999999996,-73.071248"
     }
   ],
   "dinner": [
@@ -100,11 +95,6 @@
       "name": "The Fifth Season",
       "distance": "0.1 mi",
       "url": "https://www.google.com/maps/search/?api=1&query=The%20Fifth%20Season&query_place_id=ChIJfwbju2hA6IkRxTGZOocre4I&center=40.947601899999995,-73.0682841"
-    },
-    {
-      "name": "Rustic Bakery",
-      "distance": "0.1 mi",
-      "url": "https://www.google.com/maps/search/?api=1&query=Rustic%20Bakery&query_place_id=ChIJv-HEfwBB6IkRL7TsrL-R0Eo&center=40.9472047,-73.0677637"
     },
     {
       "name": "Black Pearl Seafood Chophouse",
@@ -174,21 +164,11 @@
       "name": "Danfords Hotel & Marina",
       "distance": "0.1 mi",
       "url": "https://www.google.com/maps/search/?api=1&query=Danfords%20Hotel%20%26%20Marina&query_place_id=ChIJa9EhwWhA6IkRl6enelXFNrY&center=40.9477878,-73.06876"
-    },
-    {
-      "name": "Historic home walking distance to downtown, the harbor, and restaurants!",
-      "distance": "0.3 mi",
-      "url": "https://www.google.com/maps/search/?api=1&query=Historic%20home%20walking%20distance%20to%20downtown%2C%20the%20harbor%2C%20and%20restaurants!&query_place_id=ChIJLS6J82dA6IkRxN0BRh2MHVg&center=40.9446793,-73.0645294"
-    },
-    {
-      "name": "Historic home walking distance to downtown, the harbor, and restaurants!",
-      "distance": "0.3 mi",
-      "url": "https://www.google.com/maps/search/?api=1&query=Historic%20home%20walking%20distance%20to%20downtown%2C%20the%20harbor%2C%20and%20restaurants!&query_place_id=ChIJvw6J82dA6IkRAr6_MaFW5eo&center=40.944679199999996,-73.0645218"
     }
   ],
   "gas": [
     {
-      "name": "USA 5",
+      "name": "Usa 5",
       "distance": "0.5 mi",
       "url": "https://www.google.com/maps/search/USA%205+near+40.9485315%2C-73.0671496"
     },

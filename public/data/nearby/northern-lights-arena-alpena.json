@@ -16,11 +16,6 @@
       "url": "https://www.google.com/maps/search/?api=1&query=Wendy's&query_place_id=ChIJxzFhIHBeM00RMDs2XwRmgGI&center=45.071594,-83.4449819"
     },
     {
-      "name": "Freier's Pizzeria & Italian Bistro, LLC",
-      "distance": "1.1 mi",
-      "url": "https://www.google.com/maps/search/?api=1&query=Freier's%20Pizzeria%20%26%20Italian%20Bistro%2C%20LLC&query_place_id=ChIJ25eIt0lcM00RDSNOfHKp9Nk&center=45.06569640000001,-83.43782589999999"
-    },
-    {
       "name": "Nowicki's Sausage Shoppe Alpena",
       "distance": "1.2 mi",
       "url": "https://www.google.com/maps/search/?api=1&query=Nowicki's%20Sausage%20Shoppe%20Alpena&query_place_id=ChIJcQxUXkxcM00RLxj_AHl3McA&center=45.070026999999996,-83.42009"
@@ -33,7 +28,7 @@
   ],
   "coffee": [
     {
-      "name": "BIGGBY COFFEE",
+      "name": "Biggby Coffee",
       "distance": "0.5 mi",
       "url": "https://www.google.com/maps/search/?api=1&query=BIGGBY%20COFFEE&query_place_id=ChIJraRhMu9fM00Re--FUd0T4Zs&center=45.0794356,-83.4509387"
     },
@@ -46,11 +41,6 @@
       "name": "Hungry Hippie",
       "distance": "1.7 mi",
       "url": "https://www.google.com/maps/search/?api=1&query=Hungry%20Hippie&query_place_id=ChIJR3pZPhpcM00R47U6MwQXCq8&center=45.0583784,-83.45261760000001"
-    },
-    {
-      "name": "Cops & Doughnuts - Alpena at Sanctuary Sweets, LLC",
-      "distance": "2.6 mi",
-      "url": "https://www.google.com/maps/search/?api=1&query=Cops%20%26%20Doughnuts%20-%20Alpena%20at%20Sanctuary%20Sweets%2C%20LLC&query_place_id=ChIJ4zpH7fhdM00RXn_zwbTPKbE&center=45.0447865,-83.45665129999999"
     }
   ],
   "team_lunch": [
@@ -58,16 +48,6 @@
       "name": "BC Pizza - Alpena",
       "distance": "1.1 mi",
       "url": "https://www.google.com/maps/search/?api=1&query=BC%20Pizza%20-%20Alpena&query_place_id=ChIJ6dlLn8RfM00RRmY_f2nC0KM&center=45.0897065,-83.45812389999999"
-    },
-    {
-      "name": "Sweet Bs Treats",
-      "distance": "1.5 mi",
-      "url": "https://www.google.com/maps/search/?api=1&query=Sweet%20Bs%20Treats&query_place_id=ChIJ-5RHrmddM00RS7ic4f86DHM&center=45.060573,-83.4501437"
-    },
-    {
-      "name": "Meijer Bakery",
-      "distance": "2.3 mi",
-      "url": "https://www.google.com/maps/search/?api=1&query=Meijer%20Bakery&query_place_id=ChIJUfpcrmdfM00RjfVtR_9twTo&center=45.058769,-83.4748802"
     }
   ],
   "dinner": [
@@ -132,17 +112,12 @@
       "url": "https://www.google.com/maps/search/Ramada%20by%20Wyndham%20Alpena%20Hotel%20%26%20Conference%20Center+near+45.081238%2C-83.4400429"
     },
     {
-      "name": "Dog Friendly|Fenced|Winter Monthly Rates",
-      "distance": "0.9 mi",
-      "url": "https://www.google.com/maps/search/Dog%20Friendly%7CFenced%7CWinter%20Monthly%20Rates+near+45.081238%2C-83.4400429"
-    },
-    {
       "name": "Dew Drop Inn Motel",
       "distance": "1.0 mi",
       "url": "https://www.google.com/maps/search/Dew%20Drop%20Inn%20Motel+near+45.081238%2C-83.4400429"
     },
     {
-      "name": "Holiday Inn Express & Suites Alpena - Downtown by IHG",
+      "name": "Holiday Inn Express & Suites Alpena - Downtown",
       "distance": "1.2 mi",
       "url": "https://www.google.com/maps/search/Holiday%20Inn%20Express%20%26%20Suites%20Alpena%20-%20Downtown%20by%20IHG+near+45.081238%2C-83.4400429"
     }

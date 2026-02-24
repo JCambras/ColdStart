@@ -13,12 +13,6 @@
       "isFar": true
     },
     {
-      "name": "Wawa",
-      "distance": "3.7 mi",
-      "url": "https://www.google.com/maps/search/?api=1&query=Wawa&query_place_id=ChIJX1mlIDyBwYkRv1Pof2Ki-Ys&center=40.119934099999995,-74.144132",
-      "isFar": true
-    },
-    {
       "name": "Jersey Mike's Subs",
       "distance": "3.7 mi",
       "url": "https://www.google.com/maps/search/?api=1&query=Jersey%20Mike's%20Subs&query_place_id=ChIJCa6quKArwokRW-HDc3wIpaQ&center=40.225399499999995,-74.172352",
@@ -63,12 +57,6 @@
       "url": "https://www.google.com/maps/search/?api=1&query=Mulligans&query_place_id=ChIJhR2aIgApwokRfrvQP6mZBKk&center=40.2011416,-74.1223033"
     },
     {
-      "name": "Auntie Anne's",
-      "distance": "3.4 mi",
-      "url": "https://www.google.com/maps/search/?api=1&query=Auntie%20Anne's&query_place_id=ChIJ6RJ4Nb4pwokRqK82HB5M6HY&center=40.1980867,-74.0991774",
-      "isFar": true
-    },
-    {
       "name": "Allenwood deli",
       "distance": "3.6 mi",
       "url": "https://www.google.com/maps/search/?api=1&query=Allenwood%20deli&query_place_id=ChIJWUg4SgCHwYkRHGm4MheBbzw&center=40.1422333,-74.1012914",
@@ -78,12 +66,6 @@
       "name": "Perusa Peruvian Cuisine",
       "distance": "3.6 mi",
       "url": "https://www.google.com/maps/search/?api=1&query=Perusa%20Peruvian%20Cuisine&query_place_id=ChIJnXYUlrorwokR4PJNHwRsBls&center=40.2202331,-74.1292776",
-      "isFar": true
-    },
-    {
-      "name": "Philly Pretzel Factory",
-      "distance": "4.1 mi",
-      "url": "https://www.google.com/maps/search/?api=1&query=Philly%20Pretzel%20Factory&query_place_id=ChIJAQAAVcV_wYkR2RfNitLfHp4&center=40.1533538,-74.2295525",
       "isFar": true
     }
   ],
@@ -181,22 +163,6 @@
     }
   ],
   "hotels": [
-    {
-      "name": "Allaire State Park Campground",
-      "distance": "0.7 mi",
-      "url": "https://www.google.com/maps/search/?api=1&query=Allaire%20State%20Park%20Campground&query_place_id=ChIJz13gL76AwYkRwmEACjc1Ou4&center=40.1654194,-74.14676039999999"
-    },
-    {
-      "name": "Family Campsites",
-      "distance": "0.8 mi",
-      "url": "https://www.google.com/maps/search/?api=1&query=Family%20Campsites&query_place_id=ChIJd3Ohob6AwYkRT_QQxXoB2nY&center=40.1666029,-74.1429151"
-    },
-    {
-      "name": "Allaire State Park Group Campsite",
-      "distance": "3.2 mi",
-      "url": "https://www.google.com/maps/search/?api=1&query=Allaire%20State%20Park%20Group%20Campsite&query_place_id=ChIJ0XfXYdOGwYkRiG30ry_HTNo&center=40.1339694,-74.1223019",
-      "isFar": true
-    },
     {
       "name": "Courtyard by Marriott Wall at Monmouth Shores Corporate Park",
       "distance": "3.6 mi",

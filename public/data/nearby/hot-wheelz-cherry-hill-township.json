@@ -21,11 +21,6 @@
       "url": "https://www.google.com/maps/search/?api=1&query=Chick-fil-A&query_place_id=ChIJNcz0Z8jLxokRmdf_UsyvW-g&center=39.9059835,-74.9764917"
     },
     {
-      "name": "Wawa",
-      "distance": "0.9 mi",
-      "url": "https://www.google.com/maps/search/?api=1&query=Wawa&query_place_id=ChIJBTaiXSnLxokRAT_V7cGm_Vs&center=39.929775,-74.974205"
-    },
-    {
       "name": "Tony Sopranos Pizza - Mount Laurel",
       "distance": "0.9 mi",
       "url": "https://www.google.com/maps/search/?api=1&query=Tony%20Sopranos%20Pizza%20-%20Mount%20Laurel&query_place_id=ChIJub7EOSnLxokR8_81EAvWPaM&center=39.930363799999995,-74.97519849999999"
@@ -60,11 +55,6 @@
       "url": "https://www.google.com/maps/search/?api=1&query=Jakes%20Dog%20House&query_place_id=ChIJIWE8cTTLxokRcC4XVJqdeuA&center=39.9185777,-74.9715299"
     },
     {
-      "name": "Tasty Bakery Co",
-      "distance": "0.3 mi",
-      "url": "https://www.google.com/maps/search/?api=1&query=Tasty%20Bakery%20Co&query_place_id=ChIJb65PX0jLxokRqSj7rUqxbwE&center=39.912754299999996,-74.97821909999999"
-    },
-    {
       "name": "Kyodong Noodles Cherry Hill",
       "distance": "0.7 mi",
       "url": "https://www.google.com/maps/search/?api=1&query=Kyodong%20Noodles%20Cherry%20Hill&query_place_id=ChIJG6XP3pnLxokRJgCG3qtZXGY&center=39.908079099999995,-74.9771516"
@@ -82,11 +72,6 @@
   ],
   "dinner": [
     {
-      "name": "Sweets Marie",
-      "distance": "0.8 mi",
-      "url": "https://www.google.com/maps/search/?api=1&query=Sweets%20Marie&query_place_id=ChIJnUzPvCTLxokRGsc8HKqamw4&center=39.926697499999996,-74.9847862"
-    },
-    {
       "name": "Basilico Pizza",
       "distance": "0.9 mi",
       "url": "https://www.google.com/maps/search/?api=1&query=Basilico%20Pizza&query_place_id=ChIJ30QYSZPLxokRIxAGnXkdZeg&center=39.9289637,-74.9703303"
@@ -100,11 +85,6 @@
       "name": "Dolsan Korean BBQ and Sushi Restaurant",
       "distance": "0.9 mi",
       "url": "https://www.google.com/maps/search/?api=1&query=Dolsan%20Korean%20BBQ%20and%20Sushi%20Restaurant&query_place_id=ChIJN5L_hY_LxokR3UrYShzb3b0&center=39.9303068,-74.97485019999999"
-    },
-    {
-      "name": "Gallo's Bakery",
-      "distance": "0.9 mi",
-      "url": "https://www.google.com/maps/search/?api=1&query=Gallo's%20Bakery&query_place_id=ChIJWfkg6CjLxokRj0gZ5bP_u5o&center=39.930733,-74.97703299999999"
     }
   ],
   "bowling": [

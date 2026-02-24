@@ -23,12 +23,6 @@
       "isFar": true
     },
     {
-      "name": "Dunkin'",
-      "distance": "3.6 mi",
-      "url": "https://www.google.com/maps/search/?api=1&query=Dunkin'&query_place_id=ChIJyXf2C6YUw4kRNpcLCzkB4AA&center=41.1156673,-74.5806157",
-      "isFar": true
-    },
-    {
       "name": "Taco Bell",
       "distance": "3.6 mi",
       "url": "https://www.google.com/maps/search/?api=1&query=Taco%20Bell&query_place_id=ChIJfTOnxacUw4kR3tBxykqcn8o&center=41.1159813,-74.5805455",
@@ -46,23 +40,11 @@
       "distance": "3.4 mi",
       "url": "https://www.google.com/maps/search/?api=1&query=Starbucks%20Coffee%20Company&query_place_id=ChIJxUDyD1oTw4kRagwFZRNtdRg&center=41.10884,-74.58081",
       "isFar": true
-    },
-    {
-      "name": "Dunkin'",
-      "distance": "3.6 mi",
-      "url": "https://www.google.com/maps/search/?api=1&query=Dunkin'&query_place_id=ChIJyXf2C6YUw4kRNpcLCzkB4AA&center=41.1156673,-74.5806157",
-      "isFar": true
     }
   ],
   "team_lunch": [
     {
-      "name": "Dom",
-      "distance": "3.3 mi",
-      "url": "https://www.google.com/maps/search/?api=1&query=Dom&query_place_id=ChIJW9gzyTYTw4kR8ULLBiaUIbw&center=41.0908643,-74.5855268",
-      "isFar": true
-    },
-    {
-      "name": "macaroni grill",
+      "name": "Macaroni Grill",
       "distance": "3.4 mi",
       "url": "https://www.google.com/maps/search/?api=1&query=macaroni%20grill&query_place_id=ChIJaR5yDgATw4kRjYqkB4nlnSw&center=41.1082835,-74.5811341",
       "isFar": true
@@ -70,7 +52,7 @@
   ],
   "dinner": [
     {
-      "name": "U.S. DELI & CONVENIENCE",
+      "name": "U.s. Deli & Convenience",
       "distance": "0.2 mi",
       "url": "https://www.google.com/maps/search/?api=1&query=U.S.%20DELI%20%26%20CONVENIENCE&query_place_id=ChIJo1K8rZQTw4kRYn5qFCQjJWk&center=41.0912262,-74.52313459999999"
     },
@@ -127,7 +109,7 @@
       "isFar": true
     },
     {
-      "name": "to2incluido",
+      "name": "To2incluido",
       "distance": "8.6 mi",
       "url": "https://www.google.com/maps/search/?api=1&query=to2incluido&query_place_id=ChIJcd-_IO5zw4kRCYZV0p2Kdc0&center=41.0148951,-74.65436319999999",
       "isFar": true

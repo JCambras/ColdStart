@@ -38,11 +38,6 @@
       "url": "https://www.google.com/maps/search/?api=1&query=Starbucks%20Coffee%20Company&query_place_id=ChIJWY-DuEORxokRZj2iDDuxpgo&center=40.130680000000005,-75.45312"
     },
     {
-      "name": "Starbucks Coffee Company",
-      "distance": "0.6 mi",
-      "url": "https://www.google.com/maps/search/?api=1&query=Starbucks%20Coffee%20Company&query_place_id=ChIJ_dF86_6RxokR3VG1tjIYYpk&center=40.133109999999995,-75.45218"
-    },
-    {
       "name": "Dunkin'",
       "distance": "0.8 mi",
       "url": "https://www.google.com/maps/search/?api=1&query=Dunkin'&query_place_id=ChIJUelTukeRxokRM3bV01aw3OI&center=40.1349503,-75.4481102"
@@ -60,14 +55,7 @@
       "isFar": true
     }
   ],
-  "team_lunch": [
-    {
-      "name": "Auntie Anne's",
-      "distance": "3.1 mi",
-      "url": "https://www.google.com/maps/search/?api=1&query=Auntie%20Anne's&query_place_id=ChIJpw3DWpKWxokRN59HhcMsNro&center=40.1272751,-75.4015122",
-      "isFar": true
-    }
-  ],
+  "team_lunch": [],
   "dinner": [
     {
       "name": "Jake’s Cafe",

@@ -21,11 +21,6 @@
       "url": "https://www.google.com/maps/search/?api=1&query=Five%20Guys&query_place_id=ChIJzYhZJOCuxokRmqCkK99Vn10&center=40.207178,-75.1044364"
     },
     {
-      "name": "Dunkin'",
-      "distance": "1.3 mi",
-      "url": "https://www.google.com/maps/search/?api=1&query=Dunkin'&query_place_id=ChIJWQsY0OWuxokRB4VYCJ1TAoo&center=40.2051559,-75.09760349999999"
-    },
-    {
       "name": "Muzzy's Shack",
       "distance": "1.4 mi",
       "url": "https://www.google.com/maps/search/?api=1&query=Muzzy's%20Shack&query_place_id=ChIJh5PJBpivxokRbO_RmPYJBu8&center=40.204902499999996,-75.0950859"
@@ -48,11 +43,6 @@
       "url": "https://www.google.com/maps/search/?api=1&query=Starbucks%20Coffee%20Company&query_place_id=ChIJnfGvguauxokR83Esv2p2rts&center=40.20597,-75.0992"
     },
     {
-      "name": "Dunkin'",
-      "distance": "1.3 mi",
-      "url": "https://www.google.com/maps/search/?api=1&query=Dunkin'&query_place_id=ChIJWQsY0OWuxokRB4VYCJ1TAoo&center=40.2051559,-75.09760349999999"
-    },
-    {
       "name": "Yum Yum Bake Shops",
       "distance": "1.4 mi",
       "url": "https://www.google.com/maps/search/?api=1&query=Yum%20Yum%20Bake%20Shops&query_place_id=ChIJ7WN-ce-uxokRODVYIcBquZY&center=40.20361450000001,-75.0950486"
@@ -68,11 +58,6 @@
       "name": "Saladworks",
       "distance": "1.3 mi",
       "url": "https://www.google.com/maps/search/?api=1&query=Saladworks&query_place_id=ChIJgxVAPuGuxokRdpL0W7URGDY&center=40.2072721,-75.1045348"
-    },
-    {
-      "name": "Special Kneads Bake Shop",
-      "distance": "2.0 mi",
-      "url": "https://www.google.com/maps/search/?api=1&query=Special%20Kneads%20Bake%20Shop&query_place_id=ChIJCzhrxJ6pxokR7AUiX7O1HCU&center=40.241372000000005,-75.1253938"
     }
   ],
   "dinner": [
@@ -172,7 +157,7 @@
       "url": "https://www.google.com/maps/search/?api=1&query=Home2%20Suites%20by%20Hilton%20Warminster%20Horsham&query_place_id=ChIJm5kN-quvxokRzAcpH-jZCnM&center=40.1959574,-75.07850069999999"
     },
     {
-      "name": "Holiday Inn Express & Suites Warminster - Horsham by IHG",
+      "name": "Holiday Inn Express & Suites Warminster - Horsham",
       "distance": "2.2 mi",
       "url": "https://www.google.com/maps/search/?api=1&query=Holiday%20Inn%20Express%20%26%20Suites%20Warminster%20-%20Horsham%20by%20IHG&query_place_id=ChIJ-fRrlY6uxokRa7r-shrZWaY&center=40.1951769,-75.07830899999999"
     }

@@ -16,11 +16,6 @@
       "url": "https://www.google.com/maps/search/?api=1&query=Lebo%20Subs&query_place_id=ChIJFSgkkHH3NIgRdHQhsW9w1Rc&center=40.381822,-80.04433999999999"
     },
     {
-      "name": "Subway",
-      "distance": "1.1 mi",
-      "url": "https://www.google.com/maps/search/?api=1&query=Subway&query_place_id=ChIJJV5fr2H3NIgRI4NlIg-nLrc&center=40.36855,-80.0354089"
-    },
-    {
       "name": "Jersey Mike's Subs",
       "distance": "1.2 mi",
       "url": "https://www.google.com/maps/search/?api=1&query=Jersey%20Mike's%20Subs&query_place_id=ChIJ97n6HM_3NIgRQziYAsY7GtY&center=40.391330499999995,-80.05937569999999"
@@ -58,23 +53,7 @@
       "url": "https://www.google.com/maps/search/?api=1&query=Orbis%20Caffe&query_place_id=ChIJ55B3vXH3NIgRFZgNAf0CYfo&center=40.3811002,-80.04408339999999"
     }
   ],
-  "team_lunch": [
-    {
-      "name": "Potomac Bakery",
-      "distance": "1.2 mi",
-      "url": "https://www.google.com/maps/search/?api=1&query=Potomac%20Bakery&query_place_id=ChIJt7rD2Hb3NIgRyck1a4xkLEE&center=40.3688211,-80.03419319999999"
-    },
-    {
-      "name": "Giant Eagle Bakery",
-      "distance": "1.4 mi",
-      "url": "https://www.google.com/maps/search/?api=1&query=Giant%20Eagle%20Bakery&query_place_id=ChIJbZLU4Lz3NIgRgUsDqI3fy9s&center=40.3926732,-80.0654539"
-    },
-    {
-      "name": "Fresh Market Bakery",
-      "distance": "1.4 mi",
-      "url": "https://www.google.com/maps/search/?api=1&query=Fresh%20Market%20Bakery&query_place_id=ChIJnz8KdgD5NIgREuA1dV1gwQU&center=40.3546638,-80.0493439"
-    }
-  ],
+  "team_lunch": [],
   "dinner": [
     {
       "name": "La Gourmandine Mt. Lebanon",
@@ -166,13 +145,7 @@
       "url": "https://www.google.com/maps/search/?api=1&query=Former%20home%20of%20Nathan%20Couch&query_place_id=ChIJ49JjWgD5NIgR9IuuNPJGLHA&center=40.3317379,-80.0555117"
     }
   ],
-  "hotels": [
-    {
-      "name": "Mt. Lebanon | Luxe | King Bed | Work & Family Stay",
-      "distance": "0.5 mi",
-      "url": "https://www.google.com/maps/search/?api=1&query=Mt.%20Lebanon%20%7C%20Luxe%20%7C%20King%20Bed%20%7C%20Work%20%26%20Family%20Stay&query_place_id=ChIJ68SQQ4X3NIgRv0AgI8tKs8s&center=40.3781891,-80.0637436"
-    }
-  ],
+  "hotels": [],
   "gas": [
     {
       "name": "Sunoco",

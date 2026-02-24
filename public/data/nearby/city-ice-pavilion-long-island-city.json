@@ -28,7 +28,7 @@
       "url": "https://www.google.com/maps/search/?api=1&query=Royal%20Delight%20Cafe%20-%20Coffee%20Shop%2C%20Catering%20%26%20Events&query_place_id=ChIJ4yD-b4VfwokRf0DIf91o5Yc&center=40.7420113,-73.93543729999999"
     },
     {
-      "name": "{petite} maman",
+      "name": "{petite} Maman",
       "distance": "0.1 mi",
       "url": "https://www.google.com/maps/search/?api=1&query=%7Bpetite%7D%20maman&query_place_id=ChIJv3aG3-FfwokReyG61ZWRXKY&center=40.7422268,-73.9355468"
     },
@@ -44,11 +44,6 @@
     }
   ],
   "team_lunch": [
-    {
-      "name": "Don Dean Bakery",
-      "distance": "0.1 mi",
-      "url": "https://www.google.com/maps/search/?api=1&query=Don%20Dean%20Bakery&query_place_id=ChIJOavFDQVfwokRVCdlKeukeYE&center=40.74263140000001,-73.9336774"
-    },
     {
       "name": "HUEVORITO",
       "distance": "0.1 mi",
@@ -82,11 +77,6 @@
       "url": "https://www.google.com/maps/search/?api=1&query=Bella%20Blue&query_place_id=ChIJBewyU5ZfwokRO-tPAgiiwfc&center=40.7409666,-73.9326885"
     },
     {
-      "name": "Sans Bakery",
-      "distance": "0.1 mi",
-      "url": "https://www.google.com/maps/search/?api=1&query=Sans%20Bakery&query_place_id=ChIJAQAAN9NewokR2dCgPoJCF3w&center=40.7420043,-73.935431"
-    },
-    {
       "name": "Eat Real Halal (Falchi Location)",
       "distance": "0.1 mi",
       "url": "https://www.google.com/maps/search/?api=1&query=Eat%20Real%20Halal%20(Falchi%20Location)&query_place_id=ChIJU_1ZyIdfwokRrWkP6Nwpk5M&center=40.7420113,-73.93543729999999"
@@ -100,16 +90,11 @@
       "name": "Omakase OSUKAA LIC",
       "distance": "0.2 mi",
       "url": "https://www.google.com/maps/search/?api=1&query=Omakase%20OSUKAA%20LIC&query_place_id=ChIJm6ldHwBZwokRmxozXkFUZCI&center=40.7426062,-73.9361814"
-    },
-    {
-      "name": "Sensible Edibles Bakery",
-      "distance": "0.2 mi",
-      "url": "https://www.google.com/maps/search/?api=1&query=Sensible%20Edibles%20Bakery&query_place_id=ChIJQ16S8S9ZwokR8o4AAy8IpOo&center=40.7430625,-73.93629229999999"
     }
   ],
   "bowling": [
     {
-      "name": "bowlero",
+      "name": "Bowlero",
       "distance": "2.1 mi",
       "url": "https://www.google.com/maps/search/?api=1&query=bowlero&query_place_id=ChIJB6PATABfwokRmx6mw0BwFhw&center=40.752099900000005,-73.896621"
     }
@@ -146,7 +131,7 @@
       "url": "https://www.google.com/maps/search/?api=1&query=Days%20Inn%20by%20Wyndham%20Long%20Island%20City&query_place_id=ChIJvw9M5dRewokREFWKM5CUOjU&center=40.74505920000001,-73.9338284"
     },
     {
-      "name": "Holiday Inn Express Long Island City E - New York by IHG",
+      "name": "Holiday Inn Express Long Island City E - New York",
       "distance": "0.3 mi",
       "url": "https://www.google.com/maps/search/?api=1&query=Holiday%20Inn%20Express%20Long%20Island%20City%20E%20-%20New%20York%20by%20IHG&query_place_id=ChIJ3TeVMI9ZwokR56CxIOK_nHI&center=40.737240500000006,-73.93610269999999"
     },

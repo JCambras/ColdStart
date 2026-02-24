@@ -24,11 +24,6 @@
       "name": "Dairy Queen Grill & Chill",
       "distance": "0.7 mi",
       "url": "https://www.google.com/maps/search/?api=1&query=Dairy%20Queen%20Grill%20%26%20Chill&query_place_id=ChIJtV9j9WuAMogR2Srh3SLcQj8&center=42.0981701,-80.08154189999999"
-    },
-    {
-      "name": "Subway",
-      "distance": "1.1 mi",
-      "url": "https://www.google.com/maps/search/?api=1&query=Subway&query_place_id=ChIJX-j_4oaAMogRnaGXy20ccVc&center=42.080166399999996,-80.09138469999999"
     }
   ],
   "coffee": [
@@ -39,26 +34,6 @@
     }
   ],
   "team_lunch": [
-    {
-      "name": "Erie Donut Factory",
-      "distance": "1.1 mi",
-      "url": "https://www.google.com/maps/search/?api=1&query=Erie%20Donut%20Factory&query_place_id=ChIJx0rk-siBMogRPrjyqMrRp8Y&center=42.080143299999996,-80.0899353"
-    },
-    {
-      "name": "Betsy Ann’s Bakery",
-      "distance": "1.2 mi",
-      "url": "https://www.google.com/maps/search/?api=1&query=Betsy%20Ann%E2%80%99s%20Bakery&query_place_id=ChIJWfS7vGmBMogRHd9QCHSNp28&center=42.1063738,-80.07701039999999"
-    },
-    {
-      "name": "Cinnabon",
-      "distance": "1.8 mi",
-      "url": "https://www.google.com/maps/search/?api=1&query=Cinnabon&query_place_id=ChIJ14Kd9JyAMogRiFqbBRvb35Q&center=42.0703684,-80.0987586"
-    },
-    {
-      "name": "Auntie Anne's",
-      "distance": "1.8 mi",
-      "url": "https://www.google.com/maps/search/?api=1&query=Auntie%20Anne's&query_place_id=ChIJ38u9wZ2AMogRRxZqMPulFys&center=42.0703562,-80.0986348"
-    },
     {
       "name": "Charleys Cheesesteaks",
       "distance": "1.9 mi",
@@ -87,11 +62,6 @@
       "url": "https://www.google.com/maps/search/?api=1&query=Mama%20Mia's%20Pizzeria&query_place_id=ChIJQdCSqIaAMogR9ruhm4oHlEA&center=42.089699599999996,-80.0982306"
     },
     {
-      "name": "Co-op Cafe and Bakery",
-      "distance": "0.5 mi",
-      "url": "https://www.google.com/maps/search/?api=1&query=Co-op%20Cafe%20and%20Bakery&query_place_id=ChIJBcg4V95_MogR1ZxCJjChpIo&center=42.1013756,-80.1014068"
-    },
-    {
       "name": "Jo's Brooklyn Bagel",
       "distance": "0.5 mi",
       "url": "https://www.google.com/maps/search/?api=1&query=Jo's%20Brooklyn%20Bagel&query_place_id=ChIJgeZQRW6AMogRbCfRlPqVsVA&center=42.09495,-80.085101"
@@ -117,7 +87,7 @@
   "arcade": [],
   "movies": [
     {
-      "name": "CW IN",
+      "name": "cw in",
       "distance": "1.5 mi",
       "url": "https://www.google.com/maps/search/?api=1&query=CW%20IN&query_place_id=ChIJxcS7QDmAMogRs7KaN7g3OXw&center=42.104483699999996,-80.0691497"
     },

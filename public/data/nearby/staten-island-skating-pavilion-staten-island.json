@@ -33,7 +33,7 @@
   ],
   "coffee": [
     {
-      "name": "ceti cafe",
+      "name": "Ceti Cafe",
       "distance": "0.6 mi",
       "url": "https://www.google.com/maps/search/?api=1&query=ceti%20cafe&query_place_id=ChIJexj4Pj61w4kRAFRRJiTpieA&center=40.5372669,-74.2400973"
     },
@@ -60,24 +60,9 @@
   ],
   "team_lunch": [
     {
-      "name": "Rosie's Sweets",
-      "distance": "1.3 mi",
-      "url": "https://www.google.com/maps/search/?api=1&query=Rosie's%20Sweets&query_place_id=ChIJCYc-VwdLwokRAYUMUButZeM&center=40.5354971,-74.2108976"
-    },
-    {
-      "name": "La Dolce Pastry Shoppe",
-      "distance": "1.4 mi",
-      "url": "https://www.google.com/maps/search/?api=1&query=La%20Dolce%20Pastry%20Shoppe&query_place_id=ChIJ6WzuodBKwokR3b4yTBVx7cc&center=40.5428844,-74.2065083"
-    },
-    {
       "name": "South Shore Hot Bagels Corporation",
       "distance": "1.5 mi",
       "url": "https://www.google.com/maps/search/?api=1&query=South%20Shore%20Hot%20Bagels%20Corporation&query_place_id=ChIJ2SkAMF21w4kR9f3Rq4oKKlc&center=40.5231139,-74.23879749999999"
-    },
-    {
-      "name": "Auntie Anne's",
-      "distance": "1.8 mi",
-      "url": "https://www.google.com/maps/search/?api=1&query=Auntie%20Anne's&query_place_id=ChIJOVlA97S1w4kRoz_ROiJPPiw&center=40.5568483,-74.2632671"
     }
   ],
   "dinner": [
@@ -87,19 +72,9 @@
       "url": "https://www.google.com/maps/search/?api=1&query=Killmeyer's&query_place_id=ChIJVVVZIDy1w4kR7hYgSuVrFwc&center=40.538448,-74.237166"
     },
     {
-      "name": "Bittersweet Bake Shoppe",
-      "distance": "0.5 mi",
-      "url": "https://www.google.com/maps/search/?api=1&query=Bittersweet%20Bake%20Shoppe&query_place_id=ChIJJ8HR0DC1w4kRDD5GRn1RJVg&center=40.5379637,-74.23770209999999"
-    },
-    {
       "name": "Artisan Bakers Group",
       "distance": "0.6 mi",
       "url": "https://www.google.com/maps/search/?api=1&query=Artisan%20Bakers%20Group&query_place_id=ChIJi8K7Cha1w4kRacAbfHzhtW8&center=40.5388829,-74.2413701"
-    },
-    {
-      "name": "Vincenzi Salvatore Cakes",
-      "distance": "0.6 mi",
-      "url": "https://www.google.com/maps/search/?api=1&query=Vincenzi%20Salvatore%20Cakes&query_place_id=ChIJN9w5OD61w4kRhzSc_JjAE6Q&center=40.5372804,-74.24010679999999"
     }
   ],
   "bowling": [
@@ -168,11 +143,6 @@
       "name": "West Shore Motel",
       "distance": "0.9 mi",
       "url": "https://www.google.com/maps/search/?api=1&query=West%20Shore%20Motel&query_place_id=ChIJsVQPFTa1w4kRf53Tt1b6cYc&center=40.5328095,-74.2252455"
-    },
-    {
-      "name": "West Shore Motel",
-      "distance": "0.9 mi",
-      "url": "https://www.google.com/maps/search/?api=1&query=West%20Shore%20Motel&query_place_id=ChIJgU4JFTa1w4kRxB20pgaIbvo&center=40.532814099999996,-74.2251511"
     },
     {
       "name": "The Wedding Cottage",

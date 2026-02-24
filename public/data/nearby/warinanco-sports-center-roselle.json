@@ -50,34 +50,9 @@
   ],
   "team_lunch": [
     {
-      "name": "Kinanm Restaurant & Bakery",
-      "distance": "0.3 mi",
-      "url": "https://www.google.com/maps/search/?api=1&query=Kinanm%20Restaurant%20%26%20Bakery&query_place_id=ChIJ65ZM2V-zw4kRM_mikGQVU6s&center=40.6483735,-74.24511269999999"
-    },
-    {
       "name": "Mama Bear Treatz",
       "distance": "0.6 mi",
       "url": "https://www.google.com/maps/search/?api=1&query=Mama%20Bear%20Treatz&query_place_id=ChIJ-zG31nezw4kRZxcD_wacqok&center=40.6450655,-74.2445832"
-    },
-    {
-      "name": "Gene's Pastries Inc",
-      "distance": "0.7 mi",
-      "url": "https://www.google.com/maps/search/?api=1&query=Gene's%20Pastries%20Inc&query_place_id=ChIJ8zXqE8Oyw4kRGcKZvd3iRGY&center=40.6443355,-74.2371222"
-    },
-    {
-      "name": "Fernando's bakery",
-      "distance": "0.8 mi",
-      "url": "https://www.google.com/maps/search/?api=1&query=Fernando's%20bakery&query_place_id=ChIJS9ZHKgCzw4kRG-EmJ1hsqwI&center=40.6439667,-74.2373925"
-    },
-    {
-      "name": "Las Américas Bakery",
-      "distance": "0.9 mi",
-      "url": "https://www.google.com/maps/search/?api=1&query=Las%20Am%C3%A9ricas%20Bakery&query_place_id=ChIJKyye0qSyw4kRQSVpfuxU6Ps&center=40.661487,-74.23304139999999"
-    },
-    {
-      "name": "Mi Colombia Bakery",
-      "distance": "0.9 mi",
-      "url": "https://www.google.com/maps/search/?api=1&query=Mi%20Colombia%20Bakery&query_place_id=ChIJA-uMRlVNwokRVYAko3ZB-_g&center=40.6620621,-74.23359250000001"
     }
   ],
   "dinner": [
@@ -100,11 +75,6 @@
       "name": "Good Shepherd Haitian Restaurant",
       "distance": "0.4 mi",
       "url": "https://www.google.com/maps/search/?api=1&query=Good%20Shepherd%20Haitian%20Restaurant&query_place_id=ChIJA3AiRumyw4kR1ld4s8RaMuM&center=40.6478555,-74.2465759"
-    },
-    {
-      "name": "Menko Egg Kichel Manufacturer",
-      "distance": "0.4 mi",
-      "url": "https://www.google.com/maps/search/?api=1&query=Menko%20Egg%20Kichel%20Manufacturer&query_place_id=ChIJ5xpzz-Szw4kRWKiWIivURik&center=40.6508442,-74.23870409999999"
     },
     {
       "name": "El Popocatepetl",
@@ -172,13 +142,7 @@
       "url": "https://www.google.com/maps/search/?api=1&query=Wheeler%20Spray%20Park&query_place_id=ChIJwXglPUizw4kRQ5Z83QKyLZM&center=40.625544999999995,-74.247366"
     }
   ],
-  "hotels": [
-    {
-      "name": "Oasis Near it All!",
-      "distance": "0.3 mi",
-      "url": "https://www.google.com/maps/search/?api=1&query=Oasis%20Near%20it%20All!&query_place_id=ChIJYRB8L-qyw4kR3xcnicLILD4&center=40.648761799999996,-74.2436294"
-    }
-  ],
+  "hotels": [],
   "gas": [
     {
       "name": "bp",

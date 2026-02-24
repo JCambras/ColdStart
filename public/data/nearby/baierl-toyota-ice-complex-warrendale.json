@@ -40,11 +40,6 @@
   ],
   "team_lunch": [
     {
-      "name": "COI",
-      "distance": "0.3 mi",
-      "url": "https://www.google.com/maps/search/?api=1&query=COI&query_place_id=ChIJ7e702CaINIgRxEW7o_MPAAA&center=40.6685654,-80.0950106"
-    },
-    {
       "name": "The Eatery",
       "distance": "0.4 mi",
       "url": "https://www.google.com/maps/search/?api=1&query=The%20Eatery&query_place_id=ChIJ7T4UDSCINIgRFHtCrhFbB6Y&center=40.6731234,-80.0975934"
@@ -80,11 +75,6 @@
       "name": "Dang Poke & Boba Tea",
       "distance": "0.6 mi",
       "url": "https://www.google.com/maps/search/?api=1&query=Dang%20Poke%20%26%20Boba%20Tea&query_place_id=ChIJT5YIv9RjNIgRt4djdiBZPNc&center=40.6756016,-80.09822989999999"
-    },
-    {
-      "name": "Giant Eagle Bakery",
-      "distance": "0.9 mi",
-      "url": "https://www.google.com/maps/search/?api=1&query=Giant%20Eagle%20Bakery&query_place_id=ChIJZ8x_nqViNIgRPevoWtIsCuM&center=40.680171099999995,-80.10208"
     }
   ],
   "bowling": [],
@@ -127,7 +117,7 @@
       "url": "https://www.google.com/maps/search/?api=1&query=Comfort%20Inn%20Cranberry%20Twp.&query_place_id=ChIJ1UvzwSCINIgRhIuw6HrJqtM&center=40.6705446,-80.09698139999999"
     },
     {
-      "name": "Comfort Inn Cranberry Twp - Double Room with Two Double Beds - Non-Smoking",
+      "name": "Comfort Inn Cranberry Twp",
       "distance": "0.3 mi",
       "url": "https://www.google.com/maps/search/?api=1&query=Comfort%20Inn%20Cranberry%20Twp%20-%20Double%20Room%20with%20Two%20Double%20Beds%20-%20Non-Smoking&query_place_id=ChIJUXzK6iCINIgRb85mZHRHRxs&center=40.670528399999995,-80.09677889999999"
     },
@@ -142,12 +132,12 @@
       "url": "https://www.google.com/maps/search/?api=1&query=Super%208%20by%20Wyndham%20Mars%2FCranberry%2FPittsburgh%20Area&query_place_id=ChIJvTCHyyCINIgRx0moQwEM_ec&center=40.6712394,-80.09550019999999"
     },
     {
-      "name": "Clarion Inn Cranberry Township - Double Room with Two Double Beds - Non-Smoking",
+      "name": "Clarion Inn Cranberry Township",
       "distance": "0.4 mi",
       "url": "https://www.google.com/maps/search/?api=1&query=Clarion%20Inn%20Cranberry%20Township%20-%20Double%20Room%20with%20Two%20Double%20Beds%20-%20Non-Smoking&query_place_id=ChIJ5T5NjJ9iNIgRfSpb4cY1OIk&center=40.6740113,-80.0998077"
     },
     {
-      "name": "Staybridge Suites Pittsburgh-Cranberry Township by IHG",
+      "name": "Staybridge Suites Pittsburgh-Cranberry Township",
       "distance": "0.5 mi",
       "url": "https://www.google.com/maps/search/?api=1&query=Staybridge%20Suites%20Pittsburgh-Cranberry%20Township%20by%20IHG&query_place_id=ChIJuais2YJiNIgRVMhnHoV9E3E&center=40.661575299999996,-80.0979309"
     }

@@ -6,19 +6,9 @@
       "url": "https://www.google.com/maps/search/?api=1&query=Tim%20Hortons&query_place_id=ChIJmWDx7iAN04kRufvBgVHcVNc&center=42.920235,-78.7938903"
     },
     {
-      "name": "Tim Hortons",
-      "distance": "0.6 mi",
-      "url": "https://www.google.com/maps/search/?api=1&query=Tim%20Hortons&query_place_id=ChIJdU3zYNoM04kRJLmsy_tutiE&center=42.9215845,-78.7845218"
-    },
-    {
       "name": "Taco Bell",
       "distance": "0.9 mi",
       "url": "https://www.google.com/maps/search/?api=1&query=Taco%20Bell&query_place_id=ChIJbwCX9PIN04kR7IuH6Hwrt7E&center=42.907078299999995,-78.77481039999999"
-    },
-    {
-      "name": "Taylor Made Food 2 Go LLC",
-      "distance": "0.9 mi",
-      "url": "https://www.google.com/maps/search/?api=1&query=Taylor%20Made%20Food%202%20Go%20LLC&query_place_id=ChIJp9ykCBAN04kRSY73V0VEyBQ&center=42.9062711,-78.8047177"
     },
     {
       "name": "Chick-fil-A",
@@ -26,7 +16,7 @@
       "url": "https://www.google.com/maps/search/?api=1&query=Chick-fil-A&query_place_id=ChIJfRqVA1sN04kRfyZToSh8NdU&center=42.9079425,-78.77219199999999"
     },
     {
-      "name": "FAMOUS DELI & TAKEOUT",
+      "name": "Famous Deli & Takeout",
       "distance": "1.1 mi",
       "url": "https://www.google.com/maps/search/?api=1&query=FAMOUS%20DELI%20%26%20TAKEOUT&query_place_id=ChIJzTrImN4N04kR1JsMFMkWE0E&center=42.913942299999995,-78.8109023"
     }
@@ -41,11 +31,6 @@
       "name": "Pitha Ghor Cafe",
       "distance": "0.6 mi",
       "url": "https://www.google.com/maps/search/?api=1&query=Pitha%20Ghor%20Cafe&query_place_id=ChIJo5UKCKkN04kR1RQRmKx3TDM&center=42.9183613,-78.8000196"
-    },
-    {
-      "name": "Tim Hortons",
-      "distance": "0.6 mi",
-      "url": "https://www.google.com/maps/search/?api=1&query=Tim%20Hortons&query_place_id=ChIJdU3zYNoM04kRJLmsy_tutiE&center=42.9215845,-78.7845218"
     }
   ],
   "team_lunch": [
@@ -68,11 +53,6 @@
       "name": "Dumpling Ramen Eatery",
       "distance": "0.6 mi",
       "url": "https://www.google.com/maps/search/?api=1&query=Dumpling%20Ramen%20Eatery&query_place_id=ChIJ-yIVVUMN04kRVoiVFyieFIc&center=42.907392900000005,-78.7815561"
-    },
-    {
-      "name": "Cinnabon",
-      "distance": "1.4 mi",
-      "url": "https://www.google.com/maps/search/?api=1&query=Cinnabon&query_place_id=ChIJC7E7i9sN04kR9WTuEgQwlvM&center=42.9135693,-78.76331170000002"
     },
     {
       "name": "Charleys Cheesesteaks",
@@ -170,13 +150,7 @@
       "url": "https://www.google.com/maps/search/?api=1&query=Get%20Air%20Trampoline%20Park&query_place_id=ChIJgamDeaEM04kRzwsQpeEbVas&center=42.9127723,-78.7512376"
     }
   ],
-  "hotels": [
-    {
-      "name": "3BDRMs in PineHill w/King Beds_Entire SFH_Airport",
-      "distance": "0.2 mi",
-      "url": "https://www.google.com/maps/search/?api=1&query=3BDRMs%20in%20PineHill%20w%2FKing%20Beds_Entire%20SFH_Airport&query_place_id=ChIJRQQkByAN04kRk49ZMwdxdoI&center=42.9144058,-78.793106"
-    }
-  ],
+  "hotels": [],
   "gas": [
     {
       "name": "Valero",
@@ -189,7 +163,7 @@
       "url": "https://www.google.com/maps/search/Speedway+near+42.9140091%2C-78.79008429999999"
     },
     {
-      "name": "GENESEE FUEL FOOD MART",
+      "name": "Genesee Fuel Food Mart",
       "distance": "0.6 mi",
       "url": "https://www.google.com/maps/search/GENESEE%20FUEL%20FOOD%20MART+near+42.9140091%2C-78.79008429999999"
     },

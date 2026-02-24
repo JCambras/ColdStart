@@ -21,11 +21,6 @@
       "url": "https://www.google.com/maps/search/?api=1&query=Kennedy%20Fried%20Chicken&query_place_id=ChIJeQ4I3hr2wokRIbyVinsz37U&center=40.797385299999995,-73.9490853"
     },
     {
-      "name": "Dunkin'",
-      "distance": "0.3 mi",
-      "url": "https://www.google.com/maps/search/?api=1&query=Dunkin'&query_place_id=ChIJq57nqof3wokRmCB925nzhr8&center=40.793998099999996,-73.94950039999999"
-    },
-    {
       "name": "DONGBEI 东北(Upper West Side)",
       "distance": "0.5 mi",
       "url": "https://www.google.com/maps/search/?api=1&query=DONGBEI%20%E4%B8%9C%E5%8C%97(Upper%20West%20Side)&query_place_id=ChIJJffeu2r3wokRk24EZtx8-pk&center=40.7996535,-73.9622409"
@@ -51,11 +46,6 @@
       "name": "Safari",
       "distance": "0.3 mi",
       "url": "https://www.google.com/maps/search/?api=1&query=Safari&query_place_id=ChIJ9SEkNRH2wokRLU8tWoaMUog&center=40.8006605,-73.9527667"
-    },
-    {
-      "name": "Dunkin'",
-      "distance": "0.3 mi",
-      "url": "https://www.google.com/maps/search/?api=1&query=Dunkin'&query_place_id=ChIJq57nqof3wokRmCB925nzhr8&center=40.793998099999996,-73.94950039999999"
     }
   ],
   "team_lunch": [
@@ -73,16 +63,6 @@
       "name": "Shun Cheong",
       "distance": "0.3 mi",
       "url": "https://www.google.com/maps/search/?api=1&query=Shun%20Cheong&query_place_id=ChIJsTzm3Rr2wokRs8m45P8ITa0&center=40.7975365,-73.9492652"
-    },
-    {
-      "name": "jadeoliveskitchen",
-      "distance": "0.3 mi",
-      "url": "https://www.google.com/maps/search/?api=1&query=jadeoliveskitchen&query_place_id=ChIJ5_3MZjL3wokR4dSST2RSId0&center=40.792922999999995,-73.9514817"
-    },
-    {
-      "name": "Parisi Bakery",
-      "distance": "0.3 mi",
-      "url": "https://www.google.com/maps/search/?api=1&query=Parisi%20Bakery&query_place_id=ChIJI0EQtR32wokR_VYlJwXkK9s&center=40.792557599999995,-73.95201589999999"
     },
     {
       "name": "Amy's Bread",
@@ -115,18 +95,13 @@
       "name": "Via Piante",
       "distance": "0.4 mi",
       "url": "https://www.google.com/maps/search/?api=1&query=Via%20Piante&query_place_id=ChIJx-8XWN73wokRJq-olcRnBW8&center=40.8015429,-73.9595291"
-    },
-    {
-      "name": "CopperLeaf Bakery",
-      "distance": "0.5 mi",
-      "url": "https://www.google.com/maps/search/?api=1&query=CopperLeaf%20Bakery&query_place_id=ChIJO0RcPh_3wokR0z5dxf_642A&center=40.803296499999995,-73.9558615"
     }
   ],
   "bowling": [],
   "arcade": [],
   "movies": [
     {
-      "name": "la tata el perseguidor",
+      "name": "la Tata el Perseguidor",
       "distance": "0.7 mi",
       "url": "https://www.google.com/maps/search/?api=1&query=la%20tata%20el%20perseguidor&query_place_id=ChIJTSXAm9b3wokRWNu50_jhul8&center=40.7965593,-73.9415618"
     },

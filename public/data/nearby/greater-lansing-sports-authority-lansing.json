@@ -33,7 +33,7 @@
   ],
   "coffee": [
     {
-      "name": "BIGGBY COFFEE",
+      "name": "Biggby Coffee",
       "distance": "0.1 mi",
       "url": "https://www.google.com/maps/search/?api=1&query=BIGGBY%20COFFEE&query_place_id=ChIJn_hNcN_BIogRg1005z_x1cE&center=42.7333043,-84.5449539"
     },
@@ -54,11 +54,6 @@
     }
   ],
   "team_lunch": [
-    {
-      "name": "Meijer Bakery",
-      "distance": "0.1 mi",
-      "url": "https://www.google.com/maps/search/?api=1&query=Meijer%20Bakery&query_place_id=ChIJnR7PR4nBIogRrw3XFyVcdao&center=42.733274300000005,-84.5442819"
-    },
     {
       "name": "Kin Thai",
       "distance": "0.2 mi",
@@ -177,11 +172,6 @@
       "name": "Courtyard by Marriott Lansing Downtown",
       "distance": "0.1 mi",
       "url": "https://www.google.com/maps/search/Courtyard%20by%20Marriott%20Lansing%20Downtown+near+42.7333755%2C-84.5454098"
-    },
-    {
-      "name": "Willbro Beach Kayak Landing",
-      "distance": "0.2 mi",
-      "url": "https://www.google.com/maps/search/Willbro%20Beach%20Kayak%20Landing+near+42.7333755%2C-84.5454098"
     }
   ],
   "gas": [

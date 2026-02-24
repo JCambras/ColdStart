@@ -53,11 +53,6 @@
       "url": "https://www.google.com/maps/search/?api=1&query=McDonald's&query_place_id=ChIJn2VKFW7JxokRVQ6X7CUjmTI&center=39.9366233,-75.07790159999999"
     },
     {
-      "name": "McDonald's",
-      "distance": "1.1 mi",
-      "url": "https://www.google.com/maps/search/?api=1&query=McDonald's&query_place_id=ChIJG-Yk8_zLxokR0wntvaxvYmo&center=39.9438221,-75.1173561"
-    },
-    {
       "name": "Wawa",
       "distance": "1.2 mi",
       "url": "https://www.google.com/maps/search/?api=1&query=Wawa&query_place_id=ChIJ1byjU3vJxokR2ihOZrY4eqM&center=39.9288352,-75.0828843"
@@ -78,11 +73,6 @@
       "name": "Jaritza Restaurant",
       "distance": "0.3 mi",
       "url": "https://www.google.com/maps/search/?api=1&query=Jaritza%20Restaurant&query_place_id=ChIJ8QJ3OQnJxokRvrWa4pY8Mzw&center=39.945533700000006,-75.09204989999999"
-    },
-    {
-      "name": "La Casita Food Truck",
-      "distance": "0.3 mi",
-      "url": "https://www.google.com/maps/search/?api=1&query=La%20Casita%20Food%20Truck&query_place_id=ChIJtzDadLjJxokRC2pc4IgCmm8&center=39.9473111,-75.09381669999999"
     },
     {
       "name": "El Buen Chapin",
@@ -113,11 +103,6 @@
       "name": "Lupitas Mexican Restaurant and Pizzeria",
       "distance": "0.4 mi",
       "url": "https://www.google.com/maps/search/?api=1&query=Lupitas%20Mexican%20Restaurant%20and%20Pizzeria&query_place_id=ChIJlZ4GXQnJxokRVI5bWw8OwU8&center=39.9461344,-75.0902759"
-    },
-    {
-      "name": "San Lucas Bakery & Grocery",
-      "distance": "0.4 mi",
-      "url": "https://www.google.com/maps/search/?api=1&query=San%20Lucas%20Bakery%20%26%20Grocery&query_place_id=ChIJz35luQvJxokRrwDKmpwOx-o&center=39.9460826,-75.08853479999999"
     }
   ],
   "dinner": [
@@ -145,11 +130,6 @@
       "name": "Taco Loco",
       "distance": "0.3 mi",
       "url": "https://www.google.com/maps/search/?api=1&query=Taco%20Loco&query_place_id=ChIJSZd0aAnJxokRbKXiv7AKdcI&center=39.9460938,-75.0910839"
-    },
-    {
-      "name": "Villa's Bakery",
-      "distance": "0.3 mi",
-      "url": "https://www.google.com/maps/search/?api=1&query=Villa's%20Bakery&query_place_id=ChIJH1DxYAnJxokRBczKRQ7DECw&center=39.9460338,-75.0905547"
     }
   ],
   "bowling": [
@@ -190,7 +170,7 @@
   ],
   "fun": [
     {
-      "name": "FREEDOM MORTGAGE PAVILLION",
+      "name": "Freedom Mortgage Pavillion",
       "distance": "1.3 mi",
       "url": "https://www.google.com/maps/search/?api=1&query=FREEDOM%20MORTGAGE%20PAVILLION&query_place_id=ChIJ5zynEADJxokR-jKOgRG9vWA&center=39.9464002,-75.1207987"
     },

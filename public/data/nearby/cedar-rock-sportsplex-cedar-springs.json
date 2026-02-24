@@ -24,11 +24,6 @@
       "name": "Taco Bell",
       "distance": "2.4 mi",
       "url": "https://www.google.com/maps/search/?api=1&query=Taco%20Bell&query_place_id=ChIJN8oaSx79GIgR3XnxGTOLWWI&center=43.2203648,-85.56394809999999"
-    },
-    {
-      "name": "Subway",
-      "distance": "2.4 mi",
-      "url": "https://www.google.com/maps/search/?api=1&query=Subway&query_place_id=ChIJJzvlzxv9GIgRcOi7m9cF5bE&center=43.2195907,-85.568266"
     }
   ],
   "coffee": [
@@ -58,17 +53,6 @@
       "name": "Big Boy",
       "distance": "2.4 mi",
       "url": "https://www.google.com/maps/search/?api=1&query=Big%20Boy&query_place_id=ChIJl_vHphD9GIgRh7SYzw3uDSo&center=43.2189612,-85.5717829"
-    },
-    {
-      "name": "Meijer Bakery",
-      "distance": "2.5 mi",
-      "url": "https://www.google.com/maps/search/?api=1&query=Meijer%20Bakery&query_place_id=ChIJXc6afwz9GIgRWY-TW7jXZ7k&center=43.2175787,-85.5795177"
-    },
-    {
-      "name": "Custom Cookies by Helen",
-      "distance": "4.6 mi",
-      "url": "https://www.google.com/maps/search/?api=1&query=Custom%20Cookies%20by%20Helen&query_place_id=ChIJ3eUPRK35GIgRkbGxOzCgLC4&center=43.120027199999996,-85.5600477",
-      "isFar": true
     }
   ],
   "dinner": [
@@ -135,24 +119,9 @@
   ],
   "hotels": [
     {
-      "name": "Northland Estates Inc",
-      "distance": "1.5 mi",
-      "url": "https://www.google.com/maps/search/Northland%20Estates%20Inc+near+43.1863889%2C-85.5527778"
-    },
-    {
-      "name": "Detach Primitive",
-      "distance": "1.7 mi",
-      "url": "https://www.google.com/maps/search/Detach%20Primitive+near+43.1863889%2C-85.5527778"
-    },
-    {
       "name": "Cedar Springs RV Resort",
       "distance": "2.1 mi",
       "url": "https://www.google.com/maps/search/Cedar%20Springs%20RV%20Resort+near+43.1863889%2C-85.5527778"
-    },
-    {
-      "name": "Algoma Estates Manufactured Home Community",
-      "distance": "2.2 mi",
-      "url": "https://www.google.com/maps/search/Algoma%20Estates%20Manufactured%20Home%20Community+near+43.1863889%2C-85.5527778"
     },
     {
       "name": "Holiday Inn Express & Suites Cedar Springs – Grand Rapids N",

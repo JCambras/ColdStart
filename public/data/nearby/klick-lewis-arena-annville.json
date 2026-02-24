@@ -21,11 +21,6 @@
       "url": "https://www.google.com/maps/search/?api=1&query=Wendy's&query_place_id=ChIJ7ylbdKOlyIkRTwuS2TyDqrk&center=40.3125451,-76.5862479"
     },
     {
-      "name": "Subway",
-      "distance": "2.1 mi",
-      "url": "https://www.google.com/maps/search/?api=1&query=Subway&query_place_id=ChIJ7-3fLqOlyIkRjyGsPaaWGRI&center=40.3146845,-76.5843553"
-    },
-    {
       "name": "Burger King",
       "distance": "2.2 mi",
       "url": "https://www.google.com/maps/search/?api=1&query=Burger%20King&query_place_id=ChIJbVntgOulyIkRtXFkrL8mfNk&center=40.3193681,-76.5685324"
@@ -64,11 +59,6 @@
       "name": "Roma Pizza",
       "distance": "2.0 mi",
       "url": "https://www.google.com/maps/search/?api=1&query=Roma%20Pizza&query_place_id=ChIJBTHx_gelyIkR9IxdBQ0XWc8&center=40.307235899999995,-76.5954476"
-    },
-    {
-      "name": "Royal Crumble Cookies & Confections",
-      "distance": "2.2 mi",
-      "url": "https://www.google.com/maps/search/?api=1&query=Royal%20Crumble%20Cookies%20%26%20Confections&query_place_id=ChIJP05MNWylyIkRmUfgsWRv9SI&center=40.314682999999995,-76.5893329"
     }
   ],
   "dinner": [
@@ -98,7 +88,7 @@
       "url": "https://www.google.com/maps/search/?api=1&query=Soprano's%20Ristorante%20%26%20Pizzeria&query_place_id=ChIJ48LzY12kyIkRz9mRF_oSk-I&center=40.277015399999996,-76.5856208"
     },
     {
-      "name": "A&M PIZZA CAMPBELLTOWN",
+      "name": "A&m Pizza Campbelltown",
       "distance": "1.2 mi",
       "url": "https://www.google.com/maps/search/?api=1&query=A%26M%20PIZZA%20CAMPBELLTOWN&query_place_id=ChIJeTe6wMSlyIkRNz6Fdpbj2dk&center=40.277038499999996,-76.5875882"
     }
@@ -146,11 +136,6 @@
       "name": "Palm City Park",
       "distance": "0.6 mi",
       "url": "https://www.google.com/maps/search/?api=1&query=Palm%20City%20Park&query_place_id=ChIJnfCBCC2kyIkR1nBTQYEoxdY&center=40.2888184,-76.5584767"
-    },
-    {
-      "name": "conveniently located home is perfect for families and friends.",
-      "distance": "0.7 mi",
-      "url": "https://www.google.com/maps/search/?api=1&query=conveniently%20located%20home%20is%20perfect%20for%20families%20and%20friends.&query_place_id=ChIJ77LNHUGkyIkRvz6VaCA29O8&center=40.278343199999995,-76.5749969"
     }
   ],
   "gas": [

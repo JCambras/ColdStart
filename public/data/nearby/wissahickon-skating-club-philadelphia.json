@@ -60,11 +60,6 @@
   ],
   "team_lunch": [
     {
-      "name": "Fresh Market Bakery",
-      "distance": "0.9 mi",
-      "url": "https://www.google.com/maps/search/?api=1&query=Fresh%20Market%20Bakery&query_place_id=ChIJE2LbYQC5xokRF0P6vpRkrDI&center=40.0731751,-75.2031152"
-    },
-    {
       "name": "Panda Garden",
       "distance": "0.9 mi",
       "url": "https://www.google.com/maps/search/?api=1&query=Panda%20Garden&query_place_id=ChIJUXPslKW5xokRxsklMY1DdOo&center=40.0546607,-75.19389640000001"
@@ -73,16 +68,6 @@
       "name": "Sakura",
       "distance": "1.1 mi",
       "url": "https://www.google.com/maps/search/?api=1&query=Sakura&query_place_id=ChIJ9y1JVgC5xokRneY73Ednigk&center=40.0768729,-75.2075464"
-    },
-    {
-      "name": "Davi sweets and treats",
-      "distance": "1.5 mi",
-      "url": "https://www.google.com/maps/search/?api=1&query=Davi%20sweets%20and%20treats&query_place_id=ChIJh5cQbR65xokRof5HF-VJfZA&center=40.0785572,-75.1929049"
-    },
-    {
-      "name": "Cupcakes by Bri",
-      "distance": "1.5 mi",
-      "url": "https://www.google.com/maps/search/?api=1&query=Cupcakes%20by%20Bri&query_place_id=ChIJ6XESvN64xokRWVs3NnOIDuk&center=40.043989499999995,-75.2292617"
     }
   ],
   "dinner": [
@@ -95,11 +80,6 @@
       "name": "Hokka Hokka Japanese Restaurant",
       "distance": "0.8 mi",
       "url": "https://www.google.com/maps/search/?api=1&query=Hokka%20Hokka%20Japanese%20Restaurant&query_place_id=ChIJQT98c565xokRaUCD4hJy1Rg&center=40.069066299999996,-75.19951379999999"
-    },
-    {
-      "name": "Bredenbeck's Bakery",
-      "distance": "0.9 mi",
-      "url": "https://www.google.com/maps/search/?api=1&query=Bredenbeck's%20Bakery&query_place_id=ChIJ_6fpy3e5xokRpFy_igbMLgA&center=40.0724965,-75.2023802"
     },
     {
       "name": "Tiffin Indian Cuisine Mt Airy",
@@ -158,7 +138,7 @@
   ],
   "hotels": [
     {
-      "name": "tom and pat's",
+      "name": "Tom And Pat's",
       "distance": "0.4 mi",
       "url": "https://www.google.com/maps/search/?api=1&query=tom%20and%20pat's&query_place_id=ChIJe6vFAQC5xokR1pPhPBahR08&center=40.055858099999995,-75.2134808"
     },

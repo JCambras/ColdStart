@@ -50,17 +50,12 @@
   ],
   "team_lunch": [
     {
-      "name": "Sweet Dreams Desserts LLC",
-      "distance": "0.5 mi",
-      "url": "https://www.google.com/maps/search/?api=1&query=Sweet%20Dreams%20Desserts%20LLC&query_place_id=ChIJW0qGrsyxJIgR3J_fcJj1ewA&center=42.447843999999996,-83.3983712"
-    },
-    {
       "name": "Dynasty of Livonia",
       "distance": "0.7 mi",
       "url": "https://www.google.com/maps/search/?api=1&query=Dynasty%20of%20Livonia&query_place_id=ChIJNy3JVgWxJIgR6dvPMW87znk&center=42.4399582,-83.3821257"
     },
     {
-      "name": "kyaaefood",
+      "name": "Kyaaefood",
       "distance": "0.7 mi",
       "url": "https://www.google.com/maps/search/?api=1&query=kyaaefood&query_place_id=ChIJw_mQ8X2xJIgR04i8kG6mTY0&center=42.4399504,-83.3818987"
     },
@@ -73,11 +68,6 @@
       "name": "The Layer Home",
       "distance": "1.6 mi",
       "url": "https://www.google.com/maps/search/?api=1&query=The%20Layer%20Home&query_place_id=ChIJKcIqY7WxJIgREug2Yby1voc&center=42.45889830000001,-83.3757439"
-    },
-    {
-      "name": "Sweet Timez Indian Sweets & Bakery",
-      "distance": "1.9 mi",
-      "url": "https://www.google.com/maps/search/?api=1&query=Sweet%20Timez%20Indian%20Sweets%20%26%20Bakery&query_place_id=ChIJ3_3bVIyxJIgRnYtvzopV3ko&center=42.468305,-83.3903806"
     }
   ],
   "dinner": [
@@ -85,11 +75,6 @@
       "name": "Wing Snob",
       "distance": "0.7 mi",
       "url": "https://www.google.com/maps/search/Wing%20Snob+near+42.441077899999996%2C-83.3960297"
-    },
-    {
-      "name": "Kroger Bakery",
-      "distance": "0.7 mi",
-      "url": "https://www.google.com/maps/search/Kroger%20Bakery+near+42.441077899999996%2C-83.3960297"
     },
     {
       "name": "Tin Cup Bar & Grill",
@@ -100,11 +85,6 @@
       "name": "Pita Way - Livonia on 8 mile",
       "distance": "0.9 mi",
       "url": "https://www.google.com/maps/search/Pita%20Way%20-%20Livonia%20on%208%20mile+near+42.441077899999996%2C-83.3960297"
-    },
-    {
-      "name": "Elite Sweets",
-      "distance": "1.0 mi",
-      "url": "https://www.google.com/maps/search/Elite%20Sweets+near+42.441077899999996%2C-83.3960297"
     }
   ],
   "bowling": [
@@ -165,23 +145,7 @@
       "url": "https://www.google.com/maps/search/Zap%20Zone+near+42.441077899999996%2C-83.3960297"
     }
   ],
-  "hotels": [
-    {
-      "name": "Completely Renovated Escape ~ 1 Mile to Downtown!",
-      "distance": "0.9 mi",
-      "url": "https://www.google.com/maps/search/Completely%20Renovated%20Escape%20~%201%20Mile%20to%20Downtown!+near+42.441077899999996%2C-83.3960297"
-    },
-    {
-      "name": "Livonia Oasis with Private Hot Tub",
-      "distance": "1.0 mi",
-      "url": "https://www.google.com/maps/search/Livonia%20Oasis%20with%20Private%20Hot%20Tub+near+42.441077899999996%2C-83.3960297"
-    },
-    {
-      "name": "Attainable Convenient Serenity in South East Michigan West Suburbs",
-      "distance": "1.2 mi",
-      "url": "https://www.google.com/maps/search/Attainable%20Convenient%20Serenity%20in%20South%20East%20Michigan%20West%20Suburbs+near+42.441077899999996%2C-83.3960297"
-    }
-  ],
+  "hotels": [],
   "gas": [
     {
       "name": "Kroger Fuel Center",

@@ -21,11 +21,6 @@
       "url": "https://www.google.com/maps/search/?api=1&query=Subway&query_place_id=ChIJUflcVAC7yIkRhRN0WSlw67E&center=40.2894935,-76.6550427"
     },
     {
-      "name": "Subway",
-      "distance": "0.1 mi",
-      "url": "https://www.google.com/maps/search/?api=1&query=Subway&query_place_id=ChIJf1fBVjq7yIkRKjhxNG4Qjak&center=40.2895058,-76.6550132"
-    },
-    {
       "name": "Moe's Southwest Grill",
       "distance": "0.1 mi",
       "url": "https://www.google.com/maps/search/?api=1&query=Moe's%20Southwest%20Grill&query_place_id=ChIJa9enyzu7yIkRSykX7qPC-Gs&center=40.289361299999996,-76.65468039999999"
@@ -65,11 +60,6 @@
       "url": "https://www.google.com/maps/search/?api=1&query=Dispatch%20Pizzeria%20-%20Founder%E2%80%99s%20Way&query_place_id=ChIJbX9wBUK7yIkRfJevqU13gl8&center=40.2871808,-76.6567592"
     },
     {
-      "name": "The Chocolatier",
-      "distance": "0.1 mi",
-      "url": "https://www.google.com/maps/search/?api=1&query=The%20Chocolatier&query_place_id=ChIJWbD0EPG7yIkRgJFxBy2V_Ps&center=40.287919099999996,-76.6585327"
-    },
-    {
       "name": "Philly Cheesesteak Co. on the roll",
       "distance": "0.1 mi",
       "url": "https://www.google.com/maps/search/?api=1&query=Philly%20Cheesesteak%20Co.%20on%20the%20roll&query_place_id=ChIJkRA4t4m7yIkRw5SfVCnN2LI&center=40.2896699,-76.65492189999999"
@@ -78,38 +68,18 @@
       "name": "Chickie's & Pete's - Pioneer Frontier",
       "distance": "0.1 mi",
       "url": "https://www.google.com/maps/search/?api=1&query=Chickie's%20%26%20Pete's%20-%20Pioneer%20Frontier&query_place_id=ChIJY1HR8sK7yIkR0YxoHzjuExs&center=40.2894268,-76.6544018"
-    },
-    {
-      "name": "Kosher Food Truck",
-      "distance": "0.1 mi",
-      "url": "https://www.google.com/maps/search/?api=1&query=Kosher%20Food%20Truck&query_place_id=ChIJuQ-f2lC7yIkREO07Y_8fsfU&center=40.286455,-76.6548291"
     }
   ],
   "dinner": [
-    {
-      "name": "Chocolatetown Treats",
-      "distance": "0.1 mi",
-      "url": "https://www.google.com/maps/search/?api=1&query=Chocolatetown%20Treats&query_place_id=ChIJD51TNgS7yIkRw-OwtuO2YNQ&center=40.2881023,-76.65887169999999"
-    },
     {
       "name": "Spring Creek Smokehouse",
       "distance": "0.2 mi",
       "url": "https://www.google.com/maps/search/?api=1&query=Spring%20Creek%20Smokehouse&query_place_id=ChIJv8a5yga7yIkR3TZy7ucDDRg&center=40.289028599999995,-76.6540006"
     },
     {
-      "name": "East Coast Mini Donuts",
-      "distance": "0.2 mi",
-      "url": "https://www.google.com/maps/search/?api=1&query=East%20Coast%20Mini%20Donuts&query_place_id=ChIJNfZVSsa7yIkRnSDJlsJYeVk&center=40.2911989,-76.6546443"
-    },
-    {
       "name": "Bagel Lovers @ Fresh Market",
       "distance": "0.2 mi",
       "url": "https://www.google.com/maps/search/?api=1&query=Bagel%20Lovers%20%40%20Fresh%20Market&query_place_id=ChIJrbRhp8u7yIkRXBLj7EZjGrk&center=40.2853493,-76.6538947"
-    },
-    {
-      "name": "The Bakery",
-      "distance": "0.3 mi",
-      "url": "https://www.google.com/maps/search/?api=1&query=The%20Bakery&query_place_id=ChIJS5m6TrG7yIkR_AgUH5VCpDU&center=40.2884107,-76.66148629999999"
     },
     {
       "name": "Primanti Bros. Restaurant and Bar",
@@ -150,11 +120,6 @@
     }
   ],
   "hotels": [
-    {
-      "name": "Hersheypark Christmas Candylane",
-      "distance": "0.1 mi",
-      "url": "https://www.google.com/maps/search/?api=1&query=Hersheypark%20Christmas%20Candylane&query_place_id=ChIJ64Kfspy7yIkR6HDJsxHy_14&center=40.2892946,-76.6547298"
-    },
     {
       "name": "Hershey",
       "distance": "0.3 mi",

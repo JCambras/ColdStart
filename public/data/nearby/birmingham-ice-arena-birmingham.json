@@ -60,32 +60,12 @@
       "url": "https://www.google.com/maps/search/?api=1&query=Lincoln%20Yard&query_place_id=ChIJETwCKADHJIgR1hn7BmAZpGo&center=42.539535099999995,-83.1934935"
     },
     {
-      "name": "Meijer Bakery",
-      "distance": "0.4 mi",
-      "url": "https://www.google.com/maps/search/?api=1&query=Meijer%20Bakery&query_place_id=ChIJI4g1bw3HJIgR_TXTGLcNkAc&center=42.5391336,-83.1851428"
-    },
-    {
-      "name": "Farmer's Fridge",
-      "distance": "0.4 mi",
-      "url": "https://www.google.com/maps/search/?api=1&query=Farmer's%20Fridge&query_place_id=ChIJOTteTZXHJIgRct_aN5-E8J0&center=42.536362,-83.18467199999999"
-    },
-    {
       "name": "Kikka Sushi",
       "distance": "0.6 mi",
       "url": "https://www.google.com/maps/search/?api=1&query=Kikka%20Sushi&query_place_id=ChIJn4ktiMvHJIgROqOaE_Guz8I&center=42.546785299999996,-83.194205"
-    },
-    {
-      "name": "Create Cookies",
-      "distance": "0.6 mi",
-      "url": "https://www.google.com/maps/search/?api=1&query=Create%20Cookies&query_place_id=ChIJ3VNe5sLHJIgRy2UZ6e-s-yM&center=42.539740099999996,-83.2036846"
     }
   ],
   "dinner": [
-    {
-      "name": "Kroger Bakery",
-      "distance": "0.3 mi",
-      "url": "https://www.google.com/maps/search/Kroger%20Bakery+near+42.5387725%2C-83.1923065"
-    },
     {
       "name": "Griffin Claw Brewing Company",
       "distance": "0.4 mi",
@@ -105,11 +85,6 @@
       "name": "Aji Sushi",
       "distance": "0.5 mi",
       "url": "https://www.google.com/maps/search/Aji%20Sushi+near+42.5387725%2C-83.1923065"
-    },
-    {
-      "name": "Auntie Anne’s",
-      "distance": "0.6 mi",
-      "url": "https://www.google.com/maps/search/Auntie%20Anne%E2%80%99s+near+42.5387725%2C-83.1923065"
     }
   ],
   "bowling": [
@@ -170,13 +145,7 @@
       "url": "https://www.google.com/maps/search/DavidLand%20Roadside%20Attraction+near+42.5387725%2C-83.1923065"
     }
   ],
-  "hotels": [
-    {
-      "name": "Mid-century Family Bungalow: Desirable Birmingham!",
-      "distance": "0.3 mi",
-      "url": "https://www.google.com/maps/search/Mid-century%20Family%20Bungalow%3A%20Desirable%20Birmingham!+near+42.5387725%2C-83.1923065"
-    }
-  ],
+  "hotels": [],
   "gas": [
     {
       "name": "Shell",

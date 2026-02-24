@@ -21,11 +21,6 @@
       "url": "https://www.google.com/maps/search/?api=1&query=Wendy's&query_place_id=ChIJ98D7mP37wokRN3jdIDaODEo&center=40.8937794,-74.1158"
     },
     {
-      "name": "Subway",
-      "distance": "0.7 mi",
-      "url": "https://www.google.com/maps/search/?api=1&query=Subway&query_place_id=ChIJf65aV_r7wokRr_LyQl49w4w&center=40.900509299999996,-74.1154813"
-    },
-    {
       "name": "Its Waao! Elmwood Park",
       "distance": "0.8 mi",
       "url": "https://www.google.com/maps/search/?api=1&query=Its%20Waao!%20Elmwood%20Park&query_place_id=ChIJTSbWnsP7wokRyGWGOwb6oG0&center=40.8930084,-74.11761729999999"
@@ -116,14 +111,9 @@
   ],
   "hotels": [
     {
-      "name": "Crowne Plaza Saddle Brook by IHG",
+      "name": "Crowne Plaza Saddle Brook",
       "distance": "0.5 mi",
       "url": "https://www.google.com/maps/search/?api=1&query=Crowne%20Plaza%20Saddle%20Brook%20by%20IHG&query_place_id=ChIJlZpeqsH7wokRlmjYblNWaYw&center=40.902675,-74.102983"
-    },
-    {
-      "name": "Our Room is the perfect place for all travelers visiting northern New Jersey",
-      "distance": "0.5 mi",
-      "url": "https://www.google.com/maps/search/?api=1&query=Our%20Room%20is%20the%20perfect%20place%20for%20all%20travelers%20visiting%20northern%20New%20Jersey&query_place_id=ChIJq6Lz2uj7wokRV6p6BPA5WD4&center=40.90271,-74.1055374"
     },
     {
       "name": "Marriott Saddle Brook",
@@ -158,7 +148,7 @@
       "url": "https://www.google.com/maps/search/Delta+near+40.895984299999995%2C-74.1037672"
     },
     {
-      "name": "ARMO FUEL",
+      "name": "Armo Fuel",
       "distance": "0.7 mi",
       "url": "https://www.google.com/maps/search/ARMO%20FUEL+near+40.895984299999995%2C-74.1037672"
     }

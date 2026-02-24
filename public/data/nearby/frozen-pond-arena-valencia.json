@@ -59,14 +59,7 @@
       "isFar": true
     }
   ],
-  "team_lunch": [
-    {
-      "name": "Grandma Ann's Nutbread",
-      "distance": "3.8 mi",
-      "url": "https://www.google.com/maps/search/?api=1&query=Grandma%20Ann's%20Nutbread&query_place_id=ChIJCex6rEGONIgRFCKfH6lRcIE&center=40.622076799999995,-79.94388049999999",
-      "isFar": true
-    }
-  ],
+  "team_lunch": [],
   "dinner": [
     {
       "name": "The Scoreboard Restaurant & Lounge",
@@ -92,11 +85,6 @@
       "name": "Briquettas Charhouse & Cocktails",
       "distance": "1.7 mi",
       "url": "https://www.google.com/maps/search/?api=1&query=Briquettas%20Charhouse%20%26%20Cocktails&query_place_id=ChIJGWBpBqqFNIgRWuTeXPC9KBE&center=40.7006467,-79.9360779"
-    },
-    {
-      "name": "Sweet b Sweet Shop",
-      "distance": "1.8 mi",
-      "url": "https://www.google.com/maps/search/?api=1&query=Sweet%20b%20Sweet%20Shop&query_place_id=ChIJOz8Ck8WPNIgRg3e5OKhg_ig&center=40.650832,-79.93451189999999"
     }
   ],
   "bowling": [
@@ -142,13 +130,7 @@
       "isFar": true
     }
   ],
-  "hotels": [
-    {
-      "name": "Villa Vista Estates",
-      "distance": "1.5 mi",
-      "url": "https://www.google.com/maps/search/?api=1&query=Villa%20Vista%20Estates&query_place_id=ChIJ5betVK6aNIgRa_HYFqJdLOo&center=40.685932099999995,-79.91089099999999"
-    }
-  ],
+  "hotels": [],
   "gas": [
     {
       "name": "BP",

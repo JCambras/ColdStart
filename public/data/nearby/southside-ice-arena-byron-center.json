@@ -16,18 +16,6 @@
       "url": "https://www.google.com/maps/search/?api=1&query=Peppino's%20Pizza%20of%20Byron%20Center&query_place_id=ChIJ2ZiYVVK2GYgRJhUB1W6QCyY&center=42.8125856,-85.7178139"
     },
     {
-      "name": "Player’s Fuel LLC",
-      "distance": "3.0 mi",
-      "url": "https://www.google.com/maps/search/?api=1&query=Player%E2%80%99s%20Fuel%20LLC&query_place_id=ChIJhZbg0Fm3GYgRp-p1sJgAqJc&center=42.8226829,-85.6966186",
-      "isFar": true
-    },
-    {
-      "name": "Subway",
-      "distance": "3.2 mi",
-      "url": "https://www.google.com/maps/search/?api=1&query=Subway&query_place_id=ChIJxRJpnk22GYgRx8fW3G8u0Wg&center=42.8127023,-85.7233275",
-      "isFar": true
-    },
-    {
       "name": "Boardwalk Subs",
       "distance": "3.3 mi",
       "url": "https://www.google.com/maps/search/?api=1&query=Boardwalk%20Subs&query_place_id=ChIJ92nd-FK2GYgR6wfEitjNqA0&center=42.815180999999995,-85.723557",
@@ -63,11 +51,6 @@
     }
   ],
   "team_lunch": [
-    {
-      "name": "Auntie Anne's",
-      "distance": "2.0 mi",
-      "url": "https://www.google.com/maps/search/?api=1&query=Auntie%20Anne's&query_place_id=ChIJs5dRBsW1GYgR55VN-OnVWFs&center=42.8096159,-85.6711129"
-    },
     {
       "name": "Mannie's Pizza",
       "distance": "3.1 mi",
@@ -169,23 +152,7 @@
       "isFar": true
     }
   ],
-  "hotels": [
-    {
-      "name": "Parkside Farm Farmhouse 5 beds, 2 baths Farmstay in Byron Center",
-      "distance": "0.8 mi",
-      "url": "https://www.google.com/maps/search/Parkside%20Farm%20Farmhouse%205%20beds%2C%202%20baths%20Farmstay%20in%20Byron%20Center+near+42.7813837%2C-85.6772917"
-    },
-    {
-      "name": "House 7 beds, 2 baths Farmstay at a Pygmy Goat & Agritourism Farm",
-      "distance": "0.8 mi",
-      "url": "https://www.google.com/maps/search/House%207%20beds%2C%202%20baths%20Farmstay%20at%20a%20Pygmy%20Goat%20%26%20Agritourism%20Farm+near+42.7813837%2C-85.6772917"
-    },
-    {
-      "name": "Home 7 beds, 2 baths Pygmy Goat Farm Byron Center",
-      "distance": "0.8 mi",
-      "url": "https://www.google.com/maps/search/Home%207%20beds%2C%202%20baths%20Pygmy%20Goat%20Farm%20Byron%20Center+near+42.7813837%2C-85.6772917"
-    }
-  ],
+  "hotels": [],
   "gas": [
     {
       "name": "Pacific Pride",

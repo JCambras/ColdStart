@@ -50,17 +50,6 @@
       "name": "Biggby Coffee",
       "distance": "1.4 mi",
       "url": "https://www.google.com/maps/search/?api=1&query=Biggby%20Coffee&query_place_id=ChIJj8UlXB2FI4gRcDp3vk7Ig3w&center=43.1144264,-83.6938773"
-    },
-    {
-      "name": "McDonald's",
-      "distance": "1.5 mi",
-      "url": "https://www.google.com/maps/search/?api=1&query=McDonald's&query_place_id=ChIJe0M-sjaEI4gROOtlSIjDvMc&center=43.111807899999995,-83.69372949999999"
-    },
-    {
-      "name": "McDonald's",
-      "distance": "3.3 mi",
-      "url": "https://www.google.com/maps/search/?api=1&query=McDonald's&query_place_id=ChIJOTNSFqGHI4gROXEyaFBL0zI&center=43.116344,-83.617064",
-      "isFar": true
     }
   ],
   "team_lunch": [
@@ -68,11 +57,6 @@
       "name": "Yummy Bites",
       "distance": "0.1 mi",
       "url": "https://www.google.com/maps/search/?api=1&query=Yummy%20Bites&query_place_id=ChIJ-ddnB1KFI4gRmaZ_KRyDge4&center=43.1333428,-83.6813608"
-    },
-    {
-      "name": "Sweet Little Cupcakes",
-      "distance": "0.1 mi",
-      "url": "https://www.google.com/maps/search/?api=1&query=Sweet%20Little%20Cupcakes&query_place_id=ChIJ6xmH3kqFI4gR5pql774DoT0&center=43.133345399999996,-83.681358"
     },
     {
       "name": "J&S Street Foods",
@@ -83,11 +67,6 @@
       "name": "Angelo's Coney Island",
       "distance": "1.0 mi",
       "url": "https://www.google.com/maps/search/?api=1&query=Angelo's%20Coney%20Island&query_place_id=ChIJc9Xu8MuFI4gRzA8Q8PY6zSQ&center=43.121418999999996,-83.6939502"
-    },
-    {
-      "name": "Kroger Bakery",
-      "distance": "1.6 mi",
-      "url": "https://www.google.com/maps/search/?api=1&query=Kroger%20Bakery&query_place_id=ChIJi61bJjGEI4gRnIZz1mlYznU&center=43.1100825,-83.6926285"
     },
     {
       "name": "Smokin Aces Bbq",
@@ -206,11 +185,6 @@
       "url": "https://www.google.com/maps/search/North%20Dort%20Manor%20Ltd+near+43.1316412%2C-83.6800062"
     },
     {
-      "name": "North Morris Estates MHP LLC",
-      "distance": "0.9 mi",
-      "url": "https://www.google.com/maps/search/North%20Morris%20Estates%20MHP%20LLC+near+43.1316412%2C-83.6800062"
-    },
-    {
       "name": "Highlands",
       "distance": "1.0 mi",
       "url": "https://www.google.com/maps/search/Highlands+near+43.1316412%2C-83.6800062"
@@ -229,11 +203,6 @@
       "name": "City Loft Apartment",
       "distance": "1.1 mi",
       "url": "https://www.google.com/maps/search/City%20Loft%20Apartment+near+43.1316412%2C-83.6800062"
-    },
-    {
-      "name": "Mount Morris Mobile Home Park",
-      "distance": "1.2 mi",
-      "url": "https://www.google.com/maps/search/Mount%20Morris%20Mobile%20Home%20Park+near+43.1316412%2C-83.6800062"
     }
   ],
   "gas": [

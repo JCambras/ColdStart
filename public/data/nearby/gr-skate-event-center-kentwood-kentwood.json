@@ -41,11 +41,6 @@
       "url": "https://www.google.com/maps/search/?api=1&query=Bagel%20Beanery&query_place_id=ChIJryT1Bf2zGYgRwuNiPC5BeC8&center=42.8682024,-85.68350799999999"
     },
     {
-      "name": "Taco Bell",
-      "distance": "1.1 mi",
-      "url": "https://www.google.com/maps/search/?api=1&query=Taco%20Bell&query_place_id=ChIJt-JUGG-zGYgR1Kx0fHoa5PM&center=42.862901,-85.68297"
-    },
-    {
       "name": "Sonic Drive-In",
       "distance": "1.1 mi",
       "url": "https://www.google.com/maps/search/?api=1&query=Sonic%20Drive-In&query_place_id=ChIJMcZWI_6zGYgRSwlLMSJA2XQ&center=42.8636031,-85.6845254"
@@ -53,7 +48,7 @@
   ],
   "coffee": [
     {
-      "name": "BIGGBY COFFEE",
+      "name": "Biggby Coffee",
       "distance": "0.2 mi",
       "url": "https://www.google.com/maps/search/?api=1&query=BIGGBY%20COFFEE&query_place_id=ChIJ2cVmKPOzGYgRXeMy1pnFYvQ&center=42.866945799999996,-85.6646135"
     },
@@ -75,27 +70,12 @@
       "url": "https://www.google.com/maps/search/?api=1&query=Casey's&query_place_id=ChIJv5FIA6OzGYgRkFUBHARxDQ8&center=42.865482199999995,-85.66440949999999"
     },
     {
-      "name": "Walmart Bakery",
-      "distance": "0.5 mi",
-      "url": "https://www.google.com/maps/search/?api=1&query=Walmart%20Bakery&query_place_id=ChIJVVVVQfCzGYgRMpjiyYE0qXQ&center=42.868333899999996,-85.67270599999999"
-    },
-    {
-      "name": "Meijer Bakery",
-      "distance": "1.0 mi",
-      "url": "https://www.google.com/maps/search/?api=1&query=Meijer%20Bakery&query_place_id=ChIJVxchQ-KzGYgRRquQN5X-eqY&center=42.86322200000001,-85.68102150000001"
-    },
-    {
       "name": "Made By MEllis",
       "distance": "1.2 mi",
       "url": "https://www.google.com/maps/search/?api=1&query=Made%20By%20MEllis&query_place_id=ChIJ0WuIY6yzGYgR8UfQY5a2kX8&center=42.8858101,-85.6621261"
     }
   ],
   "dinner": [
-    {
-      "name": "Mexicana Bakery Jalisco",
-      "distance": "0.1 mi",
-      "url": "https://www.google.com/maps/search/Mexicana%20Bakery%20Jalisco+near+42.869160099999995%2C-85.66314009999999"
-    },
     {
       "name": "Kawa Express",
       "distance": "0.2 mi",
@@ -198,21 +178,6 @@
   ],
   "hotels": [
     {
-      "name": "Cheerful 3 bedroom residential home",
-      "distance": "0.3 mi",
-      "url": "https://www.google.com/maps/search/Cheerful%203%20bedroom%20residential%20home+near+42.869160099999995%2C-85.66314009999999"
-    },
-    {
-      "name": "Cheerful 3 bedroom residential home with firepit - Four-Bedroom House",
-      "distance": "0.4 mi",
-      "url": "https://www.google.com/maps/search/Cheerful%203%20bedroom%20residential%20home%20with%20firepit%20-%20Four-Bedroom%20House+near+42.869160099999995%2C-85.66314009999999"
-    },
-    {
-      "name": "Paris Estates Mobile Home Park",
-      "distance": "0.4 mi",
-      "url": "https://www.google.com/maps/search/Paris%20Estates%20Mobile%20Home%20Park+near+42.869160099999995%2C-85.66314009999999"
-    },
-    {
       "name": "Brikcrete Wyoming Hotel",
       "distance": "0.6 mi",
       "url": "https://www.google.com/maps/search/Brikcrete%20Wyoming%20Hotel+near+42.869160099999995%2C-85.66314009999999"
@@ -221,11 +186,6 @@
       "name": "Pinebrook Village",
       "distance": "0.7 mi",
       "url": "https://www.google.com/maps/search/Pinebrook%20Village+near+42.869160099999995%2C-85.66314009999999"
-    },
-    {
-      "name": "Dykgraff Nathan",
-      "distance": "0.8 mi",
-      "url": "https://www.google.com/maps/search/Dykgraff%20Nathan+near+42.869160099999995%2C-85.66314009999999"
     },
     {
       "name": "Casa Via Motel",

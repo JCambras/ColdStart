@@ -16,7 +16,7 @@
       "url": "https://www.google.com/maps/search/?api=1&query=Pizza%20Boli's&query_place_id=ChIJMdGL68WPyIkRuRf6ateYDTA&center=39.959415199999995,-76.6989701"
     },
     {
-      "name": "THE HOUSE OF FLAVORS",
+      "name": "The House of Flavors",
       "distance": "0.9 mi",
       "url": "https://www.google.com/maps/search/?api=1&query=THE%20HOUSE%20OF%20FLAVORS&query_place_id=ChIJ4wtb596PyIkR6KBVcL1eTJE&center=39.965158699999996,-76.7182827"
     },
@@ -60,11 +60,6 @@
   ],
   "team_lunch": [
     {
-      "name": "Papa Johns Pizza",
-      "distance": "0.3 mi",
-      "url": "https://www.google.com/maps/search/?api=1&query=Papa%20Johns%20Pizza&query_place_id=ChIJMTp7e7SOyIkR2RXcEFQO2OY&center=39.9520531,-76.7158579"
-    },
-    {
       "name": "Lily’s Delicias.",
       "distance": "0.4 mi",
       "url": "https://www.google.com/maps/search/?api=1&query=Lily%E2%80%99s%20Delicias.&query_place_id=ChIJXVGyMnuPyIkRtLzWwipPeeg&center=39.9599324,-76.7121757"
@@ -83,11 +78,6 @@
       "name": "Cake Dummies",
       "distance": "0.6 mi",
       "url": "https://www.google.com/maps/search/?api=1&query=Cake%20Dummies&query_place_id=ChIJl2KmPceOyIkRnIpw0R3oH8E&center=39.9623438,-76.708634"
-    },
-    {
-      "name": "UNFI",
-      "distance": "1.1 mi",
-      "url": "https://www.google.com/maps/search/?api=1&query=UNFI&query_place_id=ChIJdRmJcgCPyIkRcoSmf3NmQug&center=39.9625984,-76.727745"
     }
   ],
   "dinner": [
@@ -110,11 +100,6 @@
       "name": "El Punto de Ica",
       "distance": "0.6 mi",
       "url": "https://www.google.com/maps/search/?api=1&query=El%20Punto%20de%20Ica&query_place_id=ChIJ1ylXhPOPyIkR6LGHraVvuaY&center=39.959230399999996,-76.7019545"
-    },
-    {
-      "name": "York Bakery and Hot Food",
-      "distance": "0.6 mi",
-      "url": "https://www.google.com/maps/search/?api=1&query=York%20Bakery%20and%20Hot%20Food&query_place_id=ChIJCbEGnfiPyIkR_90o9SsA62c&center=39.9568219,-76.72023899999999"
     },
     {
       "name": "Fratellis Italian restaurant",
@@ -170,13 +155,7 @@
       "url": "https://www.google.com/maps/search/?api=1&query=Dale%20Rogers%20Studio%20Love%20Sculpture&query_place_id=ChIJa2WmNLCPyIkRaapfd-vVRlc&center=39.960321199999996,-76.7265134"
     }
   ],
-  "hotels": [
-    {
-      "name": "Don't miss this Cute, Quaint Brick Cottage which is is located in York, PA.",
-      "distance": "0.4 mi",
-      "url": "https://www.google.com/maps/search/?api=1&query=Don't%20miss%20this%20Cute%2C%20Quaint%20Brick%20Cottage%20which%20is%20is%20located%20in%20York%2C%20PA.&query_place_id=ChIJh0To2rSOyIkRIh_3uulpgeg&center=39.949718499999996,-76.7140732"
-    }
-  ],
+  "hotels": [],
   "gas": [
     {
       "name": "Sunoco",

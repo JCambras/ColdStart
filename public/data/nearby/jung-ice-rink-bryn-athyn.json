@@ -11,11 +11,6 @@
       "url": "https://www.google.com/maps/search/?api=1&query=Dunkin'&query_place_id=ChIJexmBKI-xxokRmpEsQ32DljI&center=40.1191605,-75.06803529999999"
     },
     {
-      "name": "Wawa",
-      "distance": "1.6 mi",
-      "url": "https://www.google.com/maps/search/?api=1&query=Wawa&query_place_id=ChIJ21G9TLKtxokRBXIzEw5TU4k&center=40.1582052,-75.0481371"
-    },
-    {
       "name": "Lee's Hoagie House Southampton",
       "distance": "1.7 mi",
       "url": "https://www.google.com/maps/search/?api=1&query=Lee's%20Hoagie%20House%20Southampton&query_place_id=ChIJvz6yrUisxokReuJLHlcmgwo&center=40.1589223,-75.0487236"
@@ -65,11 +60,6 @@
       "url": "https://www.google.com/maps/search/?api=1&query=Huntingdon%20Valley%20Pizza&query_place_id=ChIJt_bEJ4-xxokRgCgUyB8l_LA&center=40.1193076,-75.0682179"
     },
     {
-      "name": "Brown Sugars Bake Shoppe 2",
-      "distance": "1.3 mi",
-      "url": "https://www.google.com/maps/search/?api=1&query=Brown%20Sugars%20Bake%20Shoppe%202&query_place_id=ChIJp0bPR2SzxokRBX4Frr-f5fY&center=40.1217902,-75.04594340000001"
-    },
-    {
       "name": "Bready To Bake LLC",
       "distance": "1.4 mi",
       "url": "https://www.google.com/maps/search/?api=1&query=Bready%20To%20Bake%20LLC&query_place_id=ChIJyRlQXWuzxokRJ8es-56zeSs&center=40.1194123,-75.04933559999999"
@@ -78,11 +68,6 @@
       "name": "Vermont Bread Co",
       "distance": "1.8 mi",
       "url": "https://www.google.com/maps/search/?api=1&query=Vermont%20Bread%20Co&query_place_id=ChIJg5riJw6uxokRmdFXwova-6E&center=40.161420899999996,-75.0729312"
-    },
-    {
-      "name": "Philly Pretzel Factory",
-      "distance": "2.5 mi",
-      "url": "https://www.google.com/maps/search/?api=1&query=Philly%20Pretzel%20Factory&query_place_id=ChIJL9XDPsStxokRoNHYKLeORY4&center=40.171120599999995,-75.0443884"
     }
   ],
   "dinner": [
@@ -186,11 +171,6 @@
       "url": "https://www.google.com/maps/search/?api=1&query=Sleepytime%20B%20%26%20B&query_place_id=ChIJmYrwbD-xxokREQBGM0i1vqI&center=40.127195799999996,-75.0643261"
     },
     {
-      "name": "Country Home Studio /Pool House nestled in a 1,000 acre Nature Reserve",
-      "distance": "1.1 mi",
-      "url": "https://www.google.com/maps/search/?api=1&query=Country%20Home%20Studio%20%2FPool%20House%20nestled%20in%20a%201%2C000%20acre%20Nature%20Reserve&query_place_id=ChIJI0fwXeKxxokRg0ZQIH627GA&center=40.147159599999995,-75.0761338"
-    },
-    {
       "name": "Kira",
       "distance": "2.7 mi",
       "url": "https://www.google.com/maps/search/?api=1&query=Kira&query_place_id=ChIJz9crgIGzxokRv4vZ_f6Yhv0&center=40.1211668,-75.0142817"
@@ -203,7 +183,7 @@
       "url": "https://www.google.com/maps/search/Sunoco+near+40.1368333%2C-75.0610507"
     },
     {
-      "name": "EXPRESS FUEL",
+      "name": "Express Fuel",
       "distance": "1.6 mi",
       "url": "https://www.google.com/maps/search/EXPRESS%20FUEL+near+40.1368333%2C-75.0610507"
     },

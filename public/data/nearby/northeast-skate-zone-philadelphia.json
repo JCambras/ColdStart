@@ -11,11 +11,6 @@
       "url": "https://www.google.com/maps/search/?api=1&query=Dunkin'&query_place_id=ChIJfVIfsNWyxokRTPkLlgyq-eg&center=40.0964603,-74.9750117"
     },
     {
-      "name": "Dunkin'",
-      "distance": "0.9 mi",
-      "url": "https://www.google.com/maps/search/?api=1&query=Dunkin'&query_place_id=ChIJf7WGoRWzxokRLQR2QkzDX-4&center=40.08122410000001,-74.99492149999999"
-    },
-    {
       "name": "Wendy's",
       "distance": "0.9 mi",
       "url": "https://www.google.com/maps/search/?api=1&query=Wendy's&query_place_id=ChIJf7WGoRWzxokRsfcyxqfmvRE&center=40.08081120000001,-74.9937243"
@@ -24,11 +19,6 @@
       "name": "Chick-fil-A",
       "distance": "1.0 mi",
       "url": "https://www.google.com/maps/search/?api=1&query=Chick-fil-A&query_place_id=ChIJjyuPHGyzxokRpum89ITMjoI&center=40.1052104,-75.0025986"
-    },
-    {
-      "name": "Wawa",
-      "distance": "1.0 mi",
-      "url": "https://www.google.com/maps/search/?api=1&query=Wawa&query_place_id=ChIJQcSAG-yzxokReMMEupghkBg&center=40.1067002,-74.9999563"
     }
   ],
   "coffee": [
@@ -36,16 +26,11 @@
       "name": "Dunkin'",
       "distance": "0.9 mi",
       "url": "https://www.google.com/maps/search/?api=1&query=Dunkin'&query_place_id=ChIJfVIfsNWyxokRTPkLlgyq-eg&center=40.0964603,-74.9750117"
-    },
-    {
-      "name": "Dunkin'",
-      "distance": "0.9 mi",
-      "url": "https://www.google.com/maps/search/?api=1&query=Dunkin'&query_place_id=ChIJf7WGoRWzxokRLQR2QkzDX-4&center=40.08122410000001,-74.99492149999999"
     }
   ],
   "team_lunch": [
     {
-      "name": "LA NOVIA",
+      "name": "la Novia",
       "distance": "0.7 mi",
       "url": "https://www.google.com/maps/search/?api=1&query=LA%20NOVIA&query_place_id=ChIJYQKDIwCzxokRveLGQ1Q_ziU&center=40.1036894,-74.9929089"
     },
@@ -68,24 +53,9 @@
       "name": "Beijing Chinese Restaurant",
       "distance": "1.0 mi",
       "url": "https://www.google.com/maps/search/?api=1&query=Beijing%20Chinese%20Restaurant&query_place_id=ChIJf7WGoRWzxokRocyKz7gHkVI&center=40.0798564,-74.9937551"
-    },
-    {
-      "name": "Auntie Anne's",
-      "distance": "1.6 mi",
-      "url": "https://www.google.com/maps/search/?api=1&query=Auntie%20Anne's&query_place_id=ChIJW1K1_dZMwYkRbv7vxiM4UmI&center=40.0844163,-74.96236139999999"
     }
   ],
   "dinner": [
-    {
-      "name": "Ferry Good Treats",
-      "distance": "0.8 mi",
-      "url": "https://www.google.com/maps/search/?api=1&query=Ferry%20Good%20Treats&query_place_id=ChIJLUTTmDazxokRO0P5BQA9s-A&center=40.0965049,-74.97631489999999"
-    },
-    {
-      "name": "Philly Pretzel Factory",
-      "distance": "0.9 mi",
-      "url": "https://www.google.com/maps/search/?api=1&query=Philly%20Pretzel%20Factory&query_place_id=ChIJuX3ZN9ayxokR-AkfiNjFdec&center=40.096277799999996,-74.97419599999999"
-    },
     {
       "name": "Steve's Prince of Steaks",
       "distance": "0.9 mi",
@@ -195,7 +165,7 @@
       "url": "https://www.google.com/maps/search/Sunoco+near+40.093486299999995%2C-74.99069779999999"
     },
     {
-      "name": "STAR TRADER GAS",
+      "name": "Star Trader Gas",
       "distance": "0.9 mi",
       "url": "https://www.google.com/maps/search/STAR%20TRADER%20GAS+near+40.093486299999995%2C-74.99069779999999"
     },

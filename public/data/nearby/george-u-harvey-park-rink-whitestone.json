@@ -9,11 +9,6 @@
       "name": "Subway",
       "distance": "0.6 mi",
       "url": "https://www.google.com/maps/search/?api=1&query=Subway&query_place_id=ChIJm_hRT6GKwokRanq6g2zaFf0&center=40.7758999,-73.8236036"
-    },
-    {
-      "name": "Subway",
-      "distance": "1.0 mi",
-      "url": "https://www.google.com/maps/search/?api=1&query=Subway&query_place_id=ChIJ9RhG6O2KwokRA8jp_89pHQU&center=40.7939031,-73.80794589999999"
     }
   ],
   "coffee": [
@@ -28,27 +23,12 @@
       "url": "https://www.google.com/maps/search/?api=1&query=Dunkin'&query_place_id=ChIJFQz7D7CKwokR54TwSl-8UNc&center=40.783671,-73.8317979"
     },
     {
-      "name": "Starbucks Coffee Company",
-      "distance": "0.5 mi",
-      "url": "https://www.google.com/maps/search/?api=1&query=Starbucks%20Coffee%20Company&query_place_id=ChIJqTh_1LGKwokRjHUfBtBkIV0&center=40.783409999999996,-73.83328"
-    },
-    {
-      "name": "Starbucks Coffee Company",
-      "distance": "0.5 mi",
-      "url": "https://www.google.com/maps/search/?api=1&query=Starbucks%20Coffee%20Company&query_place_id=ChIJKznPhcKLwokR2aSKncAmTcQ&center=40.7878,-73.81428000000001"
-    },
-    {
       "name": "Starbucks drive thru",
       "distance": "0.5 mi",
       "url": "https://www.google.com/maps/search/?api=1&query=Starbucks%20drive%20thru&query_place_id=ChIJuRAYNQCLwokRL4DsrvfZL6Q&center=40.7877978,-73.8142105"
     }
   ],
   "team_lunch": [
-    {
-      "name": "BJ's Bakery",
-      "distance": "0.4 mi",
-      "url": "https://www.google.com/maps/search/?api=1&query=BJ's%20Bakery&query_place_id=ChIJ6WFBBbCKwokRDPMz-8CFHvk&center=40.7828204,-73.8303974"
-    },
     {
       "name": "Ajiang BBQ Stand",
       "distance": "0.5 mi",
@@ -60,19 +40,9 @@
       "url": "https://www.google.com/maps/search/?api=1&query=Noodle%20House&query_place_id=ChIJs2rYPayLwokRPFr3YeLLPt4&center=40.7882926,-73.8138621"
     },
     {
-      "name": "F & S Bakery Suppliers",
-      "distance": "0.9 mi",
-      "url": "https://www.google.com/maps/search/?api=1&query=F%20%26%20S%20Bakery%20Suppliers&query_place_id=ChIJn1yTuLKKwokRYaNLqI2RirY&center=40.7831044,-73.84121619999999"
-    },
-    {
       "name": "Chip City - Corporate Offices",
       "distance": "0.9 mi",
       "url": "https://www.google.com/maps/search/?api=1&query=Chip%20City%20-%20Corporate%20Offices&query_place_id=ChIJoWMq-sOLwokR8kOFEC5Bpww&center=40.7841721,-73.8415062"
-    },
-    {
-      "name": "Mrs Pastries",
-      "distance": "1.1 mi",
-      "url": "https://www.google.com/maps/search/?api=1&query=Mrs%20Pastries&query_place_id=ChIJxdFnnKqKwokRII3OuyNHK2Y&center=40.7744405,-73.83992669999999"
     }
   ],
   "dinner": [
@@ -169,24 +139,14 @@
   ],
   "hotels": [
     {
-      "name": "Amplia y Cómoda Habitación, Para Disfrutar de Unas Excelentes Vacaciones",
-      "distance": "0.1 mi",
-      "url": "https://www.google.com/maps/search/?api=1&query=Amplia%20y%20C%C3%B3moda%20Habitaci%C3%B3n%2C%20Para%20Disfrutar%20de%20Unas%20Excelentes%20Vacaciones&query_place_id=ChIJ9-lrKbyKwokR39vCGUiqvfc&center=40.7861786,-73.8217621"
-    },
-    {
       "name": "Extended Stay America Suites- New York City - LaGuardia Airport",
       "distance": "0.2 mi",
       "url": "https://www.google.com/maps/search/?api=1&query=Extended%20Stay%20America%20Suites-%20New%20York%20City%20-%20LaGuardia%20Airport&query_place_id=ChIJMSmWSLuKwokRv_eglLOJyaY&center=40.782907099999996,-73.8261588"
     },
     {
-      "name": "Dream Room - Queen Room With Shared Bathroom",
+      "name": "Dream Room",
       "distance": "0.2 mi",
       "url": "https://www.google.com/maps/search/?api=1&query=Dream%20Room%20-%20Queen%20Room%20With%20Shared%20Bathroom&query_place_id=ChIJGTbA1byKwokR1c1-Srt31ZM&center=40.7816581,-73.8214264"
-    },
-    {
-      "name": "Amplia y Cómoda Habitación, Para Disfrutar de Unas Excelentes Vacaciones",
-      "distance": "0.3 mi",
-      "url": "https://www.google.com/maps/search/?api=1&query=Amplia%20y%20C%C3%B3moda%20Habitaci%C3%B3n%2C%20Para%20Disfrutar%20de%20Unas%20Excelentes%20Vacaciones&query_place_id=ChIJlbNpBL6KwokRXoao_MFUXk4&center=40.7863884,-73.81883239999999"
     }
   ],
   "gas": [

@@ -11,11 +11,6 @@
       "url": "https://www.google.com/maps/search/?api=1&query=Arby's&query_place_id=ChIJA3NzZSueF4gRTj6vU681x0Q&center=42.1941087,-85.5977903"
     },
     {
-      "name": "Subway",
-      "distance": "0.7 mi",
-      "url": "https://www.google.com/maps/search/?api=1&query=Subway&query_place_id=ChIJYdpdEyyeF4gRYZLg3gL7_Gc&center=42.1952522,-85.59879769999999"
-    },
-    {
       "name": "Franco's Italian Pizzeria (Sub Station)",
       "distance": "1.1 mi",
       "url": "https://www.google.com/maps/search/?api=1&query=Franco's%20Italian%20Pizzeria%20(Sub%20Station)&query_place_id=ChIJc07qhjCeF4gRlf1A-1t6Md8&center=42.2003207,-85.58969739999999"
@@ -53,24 +48,9 @@
       "name": "Landmark Breads",
       "distance": "1.4 mi",
       "url": "https://www.google.com/maps/search/?api=1&query=Landmark%20Breads&query_place_id=ChIJP_VlA_CfF4gRNW_nsHSSjPw&center=42.1949014,-85.5712763"
-    },
-    {
-      "name": "Papa Johns Pizza",
-      "distance": "1.4 mi",
-      "url": "https://www.google.com/maps/search/?api=1&query=Papa%20Johns%20Pizza&query_place_id=ChIJNzE_s5p1F4gRzV2gaeMpROE&center=42.2005226,-85.6127163"
-    },
-    {
-      "name": "Dual Delights LLC",
-      "distance": "2.4 mi",
-      "url": "https://www.google.com/maps/search/?api=1&query=Dual%20Delights%20LLC&query_place_id=ChIJKzMBtfyfF4gR8ycIKxkGc58&center=42.1572239,-85.56834309999999"
     }
   ],
   "dinner": [
-    {
-      "name": "Meijer Bakery",
-      "distance": "0.5 mi",
-      "url": "https://www.google.com/maps/search/Meijer%20Bakery+near+42.1853172%2C-85.59459410000001"
-    },
     {
       "name": "The Rooster's Call",
       "distance": "0.6 mi",

@@ -83,11 +83,6 @@
       "name": "Empire Bagels",
       "distance": "1.9 mi",
       "url": "https://www.google.com/maps/search/?api=1&query=Empire%20Bagels&query_place_id=ChIJBY4nAhmRwokRc9ULZY6656c&center=40.9690383,-73.7086945"
-    },
-    {
-      "name": "Harrison Bake Shop",
-      "distance": "1.9 mi",
-      "url": "https://www.google.com/maps/search/?api=1&query=Harrison%20Bake%20Shop&query_place_id=ChIJDX38ABmRwokR8gawuCQEqMw&center=40.969125399999996,-73.70907679999999"
     }
   ],
   "dinner": [
@@ -159,13 +154,7 @@
       "url": "https://www.google.com/maps/search/?api=1&query=Oakland%20Beach&query_place_id=ChIJs7k4t72RwokR88B11DT5zLY&center=40.959804399999996,-73.6801241"
     }
   ],
-  "hotels": [
-    {
-      "name": "Waterfront home on the Long Island sound with private beach access",
-      "distance": "0.9 mi",
-      "url": "https://www.google.com/maps/search/?api=1&query=Waterfront%20home%20on%20the%20Long%20Island%20sound%20with%20private%20beach%20access&query_place_id=ChIJ2Tin4fCQwokRBsoBf1M0rGc&center=40.9554901,-73.6861725"
-    }
-  ],
+  "hotels": [],
   "gas": [
     {
       "name": "Sunoco",

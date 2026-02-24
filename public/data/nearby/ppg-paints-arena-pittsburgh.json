@@ -16,19 +16,9 @@
       "url": "https://www.google.com/maps/search/?api=1&query=Subway&query_place_id=ChIJGYehkVvxNIgRtcx2eWq72RU&center=40.4371498,-79.99300579999999"
     },
     {
-      "name": "Chick-fil-A",
-      "distance": "0.3 mi",
-      "url": "https://www.google.com/maps/search/?api=1&query=Chick-fil-A&query_place_id=ChIJtwaGBADxNIgRjXALo-WZetM&center=40.441594599999995,-79.99482760000001"
-    },
-    {
       "name": "Jimmy John's",
       "distance": "0.4 mi",
       "url": "https://www.google.com/maps/search/?api=1&query=Jimmy%20John's&query_place_id=ChIJ327AJ1TxNIgReW7jGD36IyA&center=40.4400335,-79.9966305"
-    },
-    {
-      "name": "Subway",
-      "distance": "0.4 mi",
-      "url": "https://www.google.com/maps/search/?api=1&query=Subway&query_place_id=ChIJQeMfFVjxNIgRc7AXSqrmnAc&center=40.4426908,-79.9961837"
     }
   ],
   "coffee": [
@@ -51,11 +41,6 @@
       "name": "Starbucks",
       "distance": "0.2 mi",
       "url": "https://www.google.com/maps/search/?api=1&query=Starbucks&query_place_id=ChIJWyiiaFzxNIgRAR4aiEOjHZs&center=40.4366075,-79.99087229999999"
-    },
-    {
-      "name": "Starbucks Coffee Company",
-      "distance": "0.2 mi",
-      "url": "https://www.google.com/maps/search/?api=1&query=Starbucks%20Coffee%20Company&query_place_id=ChIJ7eKcjLDxNIgRydcz6v-eerM&center=40.43947,-79.99401999999999"
     }
   ],
   "team_lunch": [
@@ -68,11 +53,6 @@
       "name": "Freshëns",
       "distance": "0.1 mi",
       "url": "https://www.google.com/maps/search/?api=1&query=Fresh%C3%ABns&query_place_id=ChIJOzazI1zxNIgRiZ9pk0xBUKk&center=40.438021000000006,-79.9904249"
-    },
-    {
-      "name": "Toe Beans Bakery",
-      "distance": "0.1 mi",
-      "url": "https://www.google.com/maps/search/?api=1&query=Toe%20Beans%20Bakery&query_place_id=ChIJFW9w_WTxNIgRd3MkfoSN5NY&center=40.4376173,-79.9883823"
     }
   ],
   "dinner": [
@@ -100,11 +80,6 @@
       "name": "The Original Giovanni's Pizza",
       "distance": "0.3 mi",
       "url": "https://www.google.com/maps/search/?api=1&query=The%20Original%20Giovanni's%20Pizza&query_place_id=ChIJ9-mKyGDxNIgRGih_46RNh0c&center=40.4383936,-79.98482659999999"
-    },
-    {
-      "name": "Prantl’s Bakery",
-      "distance": "0.4 mi",
-      "url": "https://www.google.com/maps/search/?api=1&query=Prantl%E2%80%99s%20Bakery&query_place_id=ChIJOdUsQwDxNIgRYpS2qL2RqK4&center=40.4406356,-79.9966305"
     }
   ],
   "bowling": [
@@ -168,29 +143,9 @@
   ],
   "hotels": [
     {
-      "name": "City Skyline Views! ★ Park Free!★ Private Gym",
-      "distance": "0.1 mi",
-      "url": "https://www.google.com/maps/search/?api=1&query=City%20Skyline%20Views!%20%E2%98%85%20Park%20Free!%E2%98%85%20Private%20Gym&query_place_id=ChIJk6UTlV7xNIgRT6UPEYwMI_s&center=40.43960190000001,-79.9905014"
-    },
-    {
-      "name": "HostWise Stays - The Washington at Chatham - Free Parking, Fitness Center",
-      "distance": "0.1 mi",
-      "url": "https://www.google.com/maps/search/?api=1&query=HostWise%20Stays%20-%20The%20Washington%20at%20Chatham%20-%20Free%20Parking%2C%20Fitness%20Center&query_place_id=ChIJk6UTlV7xNIgRC3qAZb-8Ykc&center=40.43960190000001,-79.9905014"
-    },
-    {
-      "name": "HostWise Stays - The Washington at Chatham - Free Parking, Private Gym, Skyline Views!",
-      "distance": "0.1 mi",
-      "url": "https://www.google.com/maps/search/?api=1&query=HostWise%20Stays%20-%20The%20Washington%20at%20Chatham%20-%20Free%20Parking%2C%20Private%20Gym%2C%20Skyline%20Views!&query_place_id=ChIJk6UTlV7xNIgRBeASN5IBUhg&center=40.43960190000001,-79.9905014"
-    },
-    {
       "name": "On Site Gym★ Purple Mattress ★Park Free Downtown",
       "distance": "0.1 mi",
       "url": "https://www.google.com/maps/search/?api=1&query=On%20Site%20Gym%E2%98%85%20Purple%20Mattress%20%E2%98%85Park%20Free%20Downtown&query_place_id=ChIJk6UTlV7xNIgR2VHehwGBu20&center=40.43960190000001,-79.9905014"
-    },
-    {
-      "name": "HostWise Stays -The Washington at Chatham - Gym - Free Garage Parking - City Views - More",
-      "distance": "0.1 mi",
-      "url": "https://www.google.com/maps/search/?api=1&query=HostWise%20Stays%20-The%20Washington%20at%20Chatham%20-%20Gym%20-%20Free%20Garage%20Parking%20-%20City%20Views%20-%20More&query_place_id=ChIJk6UTlV7xNIgRuvIUC0VAtis&center=40.43960190000001,-79.9905014"
     }
   ],
   "gas": [

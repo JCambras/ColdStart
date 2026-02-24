@@ -11,11 +11,6 @@
       "url": "https://www.google.com/maps/search/?api=1&query=Subway&query_place_id=ChIJ2aN2e1mC0IkRZTAgO4cygYU&center=42.4844127,-76.48782779999999"
     },
     {
-      "name": "Subway",
-      "distance": "2.5 mi",
-      "url": "https://www.google.com/maps/search/?api=1&query=Subway&query_place_id=ChIJT4VR-lKD0IkRGIGQ4d_YWz8&center=42.4835383,-76.49106660000001"
-    },
-    {
       "name": "Taco Bell",
       "distance": "2.7 mi",
       "url": "https://www.google.com/maps/search/?api=1&query=Taco%20Bell&query_place_id=ChIJSy3Scp2D0IkRSMuJOYjBp9c&center=42.4820482,-76.48366349999999"
@@ -51,16 +46,6 @@
     }
   ],
   "team_lunch": [
-    {
-      "name": "BJ's Bakery",
-      "distance": "2.2 mi",
-      "url": "https://www.google.com/maps/search/?api=1&query=BJ's%20Bakery&query_place_id=ChIJg4-OcVeC0IkR2MaC5ZHVSpg&center=42.4866546,-76.49250599999999"
-    },
-    {
-      "name": "Auntie Anne's",
-      "distance": "2.5 mi",
-      "url": "https://www.google.com/maps/search/?api=1&query=Auntie%20Anne's&query_place_id=ChIJs99wCFqC0IkR7HRmCQTDyvI&center=42.483173099999995,-76.49112099999999"
-    },
     {
       "name": "Mitsuba 成都印象",
       "distance": "2.7 mi",

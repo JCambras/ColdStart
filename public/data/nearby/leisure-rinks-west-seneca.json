@@ -43,11 +43,6 @@
       "url": "https://www.google.com/maps/search/?api=1&query=Starbucks&query_place_id=ChIJDdvfzsMP04kRNdpeW2fw6Vw&center=42.79669,-78.75013"
     },
     {
-      "name": "Tim Hortons",
-      "distance": "0.5 mi",
-      "url": "https://www.google.com/maps/search/?api=1&query=Tim%20Hortons&query_place_id=ChIJ5zGxizUP04kRVwHVwPuyS6I&center=42.795668299999996,-78.75093609999999"
-    },
-    {
       "name": "Paula's Donuts",
       "distance": "1.7 mi",
       "url": "https://www.google.com/maps/search/?api=1&query=Paula's%20Donuts&query_place_id=ChIJlwz7gc4O04kR4SYIr_f9E4o&center=42.8259498,-78.75397339999999"
@@ -71,11 +66,6 @@
     }
   ],
   "dinner": [
-    {
-      "name": "Balistreri's Pastries Plus",
-      "distance": "0.2 mi",
-      "url": "https://www.google.com/maps/search/?api=1&query=Balistreri's%20Pastries%20Plus&query_place_id=ChIJbQc5zi8P04kRH61tVMDB_tM&center=42.8043924,-78.75655379999999"
-    },
     {
       "name": "Chang's Garden Inc",
       "distance": "0.2 mi",
